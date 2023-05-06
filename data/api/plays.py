@@ -9,9 +9,13 @@ def get_game_plays(game_id):
     request_string = 'https://statsapi.web.nhl.com/api/v1/game/{}/feed/live'.format(game_id)
     game_detailed = json.loads(requests.get(request_string).text)
 
+    # API doesn't return expected results
+    if (len(game_detailed)==2):
+        print(game_detailed['message'])
+        return game_detailed['messageNumber']
+
     play_data = {}
     records = []
-
     play_data['home_team_id'] = game_detailed['gameData']['teams']['home']['id']
     play_data['away_team_id'] = game_detailed['gameData']['teams']['away']['id']
     play_data['home_team'] = game_detailed['gameData']['teams']['home']['name']
@@ -43,5 +47,3 @@ def get_game_plays(game_id):
         print('Play {} has been added to the records list.'.format(play_data['play_id']))
     records_df = pd.DataFrame(records)
     return(records_df)
-
-print(get_game_plays(2022010001).head())
