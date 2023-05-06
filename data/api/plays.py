@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 '''
-Pulls all of the plays for a given game id. Plays will be returned as a list of dictionaries. Each dictionary entry corresponds to a play.
+Pulls all of the plays for a given game id. Plays will be returned as a Pandas Dataframe.
 '''
 def get_game_plays(game_id):
     request_string = 'https://statsapi.web.nhl.com/api/v1/game/{}/feed/live'.format(game_id)
