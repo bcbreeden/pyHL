@@ -1,8 +1,8 @@
 from api.schedule import *
 
 def test_get_schedule_length():
-    schedule_df = get_schedule()
-    assert len(schedule_df.index) > 0
+    schedule_df = get_schedule(20192020, "r")
+    assert len(schedule_df.index) > 2
 
 def test_invalid_schedule_game_type():
     error_code = get_schedule(20192020, "PreSeason")
