@@ -6,22 +6,21 @@ import pandas as pd
 Pulls all of the plays for a given game id. Plays will be returned as a Pandas Dataframe.
 '''
 def get_game_plays(game_id):
-    request_string = 'https://statsapi.web.nhl.com/api/v1/game/{}/feed/live'.format(game_id)
+    request_string = 'https://statsapi.web.nhl.com/api/v1/game/{}/feed/live'.format(str(game_id))
     game_detailed = json.loads(requests.get(request_string).text)
 
     # API doesn't return expected results
     if (len(game_detailed)==2):
         print(game_detailed['message'])
         return game_detailed['messageNumber']
-
-    play_data = {}
     records = []
-    play_data['home_team_id'] = game_detailed['gameData']['teams']['home']['id']
-    play_data['away_team_id'] = game_detailed['gameData']['teams']['away']['id']
-    play_data['home_team'] = game_detailed['gameData']['teams']['home']['name']
-    play_data['away_team'] = game_detailed['gameData']['teams']['away']['name']
     plays = game_detailed['liveData']['plays']['allPlays']
     for play in plays:
+        play_data = {}
+        play_data['home_team_id'] = game_detailed['gameData']['teams']['home']['id']
+        play_data['away_team_id'] = game_detailed['gameData']['teams']['away']['id']
+        play_data['home_team'] = game_detailed['gameData']['teams']['home']['name']
+        play_data['away_team'] = game_detailed['gameData']['teams']['away']['name']
         play_data['play_id'] = int(str(game_id) + str(play['about']['eventId']))
         play_data['game_id'] = game_id
         play_data['event'] = play['result']['event']
@@ -39,11 +38,9 @@ def get_game_plays(game_id):
             play_data['team_name'] = play['team']['name']
             play_data['team_abrv'] = play['team']['triCode']
         except(KeyError):
-            print('No team assignment for play.')
             play_data['team_id'] = None
             play_data['team_name'] = None
             play_data['team_abrv'] = None
         records.append(play_data)
-        print('Play {} has been added to the records list.'.format(play_data['play_id']))
     records_df = pd.DataFrame(records)
     return(records_df)
