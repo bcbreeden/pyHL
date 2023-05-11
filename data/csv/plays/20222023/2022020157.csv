@@ -1,0 +1,295 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,23,1,Vancouver Canucks,New Jersey Devils,20220201571,2022020157,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-11-02T01:14:08Z,1,00:00,20:00,0,0,,,
+1,23,1,Vancouver Canucks,New Jersey Devils,20220201575,2022020157,Period Ready,5,PERIOD_READY,Period Ready,2022-11-02T02:06:16Z,1,00:00,20:00,0,0,,,
+2,23,1,Vancouver Canucks,New Jersey Devils,202202015751,2022020157,Period Start,51,PERIOD_START,Period Start,2022-11-02T02:08:42Z,1,00:00,20:00,0,0,,,
+3,23,1,Vancouver Canucks,New Jersey Devils,202202015752,2022020157,Faceoff,52,FACEOFF,Nico Hischier faceoff won against Elias Pettersson,2022-11-02T02:08:42Z,1,00:00,20:00,0,0,1.0,New Jersey Devils,NJD
+4,23,1,Vancouver Canucks,New Jersey Devils,20220201578,2022020157,Hit,8,HIT,Elias Pettersson hit Dougie Hamilton,2022-11-02T02:09:00Z,1,00:18,19:42,0,0,23.0,Vancouver Canucks,VAN
+5,23,1,Vancouver Canucks,New Jersey Devils,202202015753,2022020157,Takeaway,53,TAKEAWAY,Takeaway by Andrei Kuzmenko,2022-11-02T02:09:19Z,1,00:37,19:23,0,0,23.0,Vancouver Canucks,VAN
+6,23,1,Vancouver Canucks,New Jersey Devils,20220201579,2022020157,Hit,9,HIT,Dakota Joshua hit Ryan Graves,2022-11-02T02:09:40Z,1,00:58,19:02,0,0,23.0,Vancouver Canucks,VAN
+7,23,1,Vancouver Canucks,New Jersey Devils,2022020157151,2022020157,Blocked Shot,151,BLOCKED_SHOT,Ryan Graves shot blocked shot by Nils Aman,2022-11-02T02:09:46Z,1,01:04,18:56,0,0,23.0,Vancouver Canucks,VAN
+8,23,1,Vancouver Canucks,New Jersey Devils,202202015710,2022020157,Stoppage,10,STOP,High Stick,2022-11-02T02:11:44Z,1,03:02,16:58,0,0,,,
+9,23,1,Vancouver Canucks,New Jersey Devils,202202015754,2022020157,Faceoff,54,FACEOFF,Nico Hischier faceoff won against Elias Pettersson,2022-11-02T02:12:13Z,1,03:02,16:58,0,0,1.0,New Jersey Devils,NJD
+10,23,1,Vancouver Canucks,New Jersey Devils,202202015711,2022020157,Hit,11,HIT,Riley Stillman hit Dougie Hamilton,2022-11-02T02:12:27Z,1,03:16,16:44,0,0,23.0,Vancouver Canucks,VAN
+11,23,1,Vancouver Canucks,New Jersey Devils,2022020157152,2022020157,Blocked Shot,152,BLOCKED_SHOT,Jonas Siegenthaler shot blocked shot by Andrei Kuzmenko,2022-11-02T02:12:37Z,1,03:26,16:34,0,0,23.0,Vancouver Canucks,VAN
+12,23,1,Vancouver Canucks,New Jersey Devils,2022020157153,2022020157,Blocked Shot,153,BLOCKED_SHOT,Nico Hischier shot blocked shot by Riley Stillman,2022-11-02T02:12:38Z,1,03:27,16:33,0,0,23.0,Vancouver Canucks,VAN
+13,23,1,Vancouver Canucks,New Jersey Devils,2022020157154,2022020157,Blocked Shot,154,BLOCKED_SHOT,Nico Hischier shot blocked shot by Riley Stillman,2022-11-02T02:12:41Z,1,03:30,16:30,0,0,23.0,Vancouver Canucks,VAN
+14,23,1,Vancouver Canucks,New Jersey Devils,2022020157155,2022020157,Shot,155,SHOT,Ilya Mikheyev Backhand saved by Mackenzie Blackwood,2022-11-02T02:12:52Z,1,03:41,16:19,0,0,23.0,Vancouver Canucks,VAN
+15,23,1,Vancouver Canucks,New Jersey Devils,202202015712,2022020157,Stoppage,12,STOP,Goalie Stopped,2022-11-02T02:12:53Z,1,03:42,16:18,0,0,,,
+16,23,1,Vancouver Canucks,New Jersey Devils,202202015755,2022020157,Faceoff,55,FACEOFF,Michael McLeod faceoff won against Tanner Pearson,2022-11-02T02:13:34Z,1,03:42,16:18,0,0,1.0,New Jersey Devils,NJD
+17,23,1,Vancouver Canucks,New Jersey Devils,202202015713,2022020157,Hit,13,HIT,Jack Studnicka hit Brendan Smith,2022-11-02T02:13:41Z,1,03:49,16:11,0,0,23.0,Vancouver Canucks,VAN
+18,23,1,Vancouver Canucks,New Jersey Devils,202202015714,2022020157,Stoppage,14,STOP,Icing,2022-11-02T02:13:47Z,1,03:55,16:05,0,0,,,
+19,23,1,Vancouver Canucks,New Jersey Devils,202202015756,2022020157,Faceoff,56,FACEOFF,Michael McLeod faceoff won against Jack Studnicka,2022-11-02T02:14:12Z,1,03:55,16:05,0,0,1.0,New Jersey Devils,NJD
+20,23,1,Vancouver Canucks,New Jersey Devils,202202015715,2022020157,Hit,15,HIT,Luke Schenn hit Nathan Bastian,2022-11-02T02:14:37Z,1,04:20,15:40,0,0,23.0,Vancouver Canucks,VAN
+21,23,1,Vancouver Canucks,New Jersey Devils,2022020157143,2022020157,Penalty,143,PENALTY,Tanner Pearson Hooking against Brendan Smith,2022-11-02T02:14:45Z,1,04:28,15:32,0,0,23.0,Vancouver Canucks,VAN
+22,23,1,Vancouver Canucks,New Jersey Devils,202202015757,2022020157,Faceoff,57,FACEOFF,Nico Hischier faceoff won against Bo Horvat,2022-11-02T02:15:20Z,1,04:28,15:32,0,0,1.0,New Jersey Devils,NJD
+23,23,1,Vancouver Canucks,New Jersey Devils,2022020157156,2022020157,Goal,156,GOAL,"Nico Hischier (5) Tip-In, assists: Jesper Bratt (12), Jack Hughes (6)",2022-11-02T02:15:27Z,1,04:36,15:24,0,1,1.0,New Jersey Devils,NJD
+24,23,1,Vancouver Canucks,New Jersey Devils,202202015758,2022020157,Faceoff,58,FACEOFF,Bo Horvat faceoff won against Erik Haula,2022-11-02T02:16:12Z,1,04:36,15:24,0,1,23.0,Vancouver Canucks,VAN
+25,23,1,Vancouver Canucks,New Jersey Devils,202202015759,2022020157,Giveaway,59,GIVEAWAY,Giveaway by Brendan Smith,2022-11-02T02:17:18Z,1,05:42,14:18,0,1,1.0,New Jersey Devils,NJD
+26,23,1,Vancouver Canucks,New Jersey Devils,202202015716,2022020157,Hit,16,HIT,Dawson Mercer hit Ethan Bear,2022-11-02T02:17:49Z,1,06:13,13:47,0,1,1.0,New Jersey Devils,NJD
+27,23,1,Vancouver Canucks,New Jersey Devils,2022020157157,2022020157,Shot,157,SHOT,Andrei Kuzmenko Wrist Shot saved by Mackenzie Blackwood,2022-11-02T02:18:08Z,1,06:32,13:28,0,1,23.0,Vancouver Canucks,VAN
+28,23,1,Vancouver Canucks,New Jersey Devils,2022020157158,2022020157,Shot,158,SHOT,Andrei Kuzmenko Wrist Shot saved by Mackenzie Blackwood,2022-11-02T02:18:09Z,1,06:33,13:27,0,1,23.0,Vancouver Canucks,VAN
+29,23,1,Vancouver Canucks,New Jersey Devils,202202015760,2022020157,Takeaway,60,TAKEAWAY,Takeaway by Nathan Bastian,2022-11-02T02:18:19Z,1,06:43,13:17,0,1,1.0,New Jersey Devils,NJD
+30,23,1,Vancouver Canucks,New Jersey Devils,2022020157159,2022020157,Missed Shot,159,MISSED_SHOT,Michael McLeod Wide of Net Thatcher Demko,2022-11-02T02:18:31Z,1,06:55,13:05,0,1,1.0,New Jersey Devils,NJD
+31,23,1,Vancouver Canucks,New Jersey Devils,202202015717,2022020157,Hit,17,HIT,Ryan Graves hit Jack Studnicka,2022-11-02T02:19:04Z,1,07:28,12:32,0,1,1.0,New Jersey Devils,NJD
+32,23,1,Vancouver Canucks,New Jersey Devils,2022020157160,2022020157,Shot,160,SHOT,Oliver Ekman-Larsson Slap Shot saved by Mackenzie Blackwood,2022-11-02T02:19:14Z,1,07:38,12:22,0,1,23.0,Vancouver Canucks,VAN
+33,23,1,Vancouver Canucks,New Jersey Devils,202202015718,2022020157,Stoppage,18,STOP,Goalie Stopped,2022-11-02T02:19:37Z,1,08:01,11:59,0,1,,,
+34,23,1,Vancouver Canucks,New Jersey Devils,2022020157161,2022020157,Shot,161,SHOT,Bo Horvat Wrist Shot saved by Mackenzie Blackwood,2022-11-02T02:19:37Z,1,08:01,11:59,0,1,23.0,Vancouver Canucks,VAN
+35,23,1,Vancouver Canucks,New Jersey Devils,202202015761,2022020157,Faceoff,61,FACEOFF,Erik Haula faceoff won against Bo Horvat,2022-11-02T02:21:51Z,1,08:01,11:59,0,1,1.0,New Jersey Devils,NJD
+36,23,1,Vancouver Canucks,New Jersey Devils,202202015762,2022020157,Takeaway,62,TAKEAWAY,Takeaway by Jack Hughes,2022-11-02T02:22:19Z,1,08:29,11:31,0,1,1.0,New Jersey Devils,NJD
+37,23,1,Vancouver Canucks,New Jersey Devils,2022020157162,2022020157,Missed Shot,162,MISSED_SHOT,Jack Hughes Wide of Net Thatcher Demko,2022-11-02T02:22:20Z,1,08:30,11:30,0,1,1.0,New Jersey Devils,NJD
+38,23,1,Vancouver Canucks,New Jersey Devils,202202015719,2022020157,Hit,19,HIT,Jesper Boqvist hit Luke Schenn,2022-11-02T02:22:38Z,1,08:48,11:12,0,1,1.0,New Jersey Devils,NJD
+39,23,1,Vancouver Canucks,New Jersey Devils,2022020157163,2022020157,Shot,163,SHOT,Quinn Hughes Slap Shot saved by Mackenzie Blackwood,2022-11-02T02:23:19Z,1,09:29,10:31,0,1,23.0,Vancouver Canucks,VAN
+40,23,1,Vancouver Canucks,New Jersey Devils,2022020157247,2022020157,Penalty,247,PENALTY,Damon Severson Holding against Andrei Kuzmenko,2022-11-02T02:23:20Z,1,09:30,10:30,0,1,1.0,New Jersey Devils,NJD
+41,23,1,Vancouver Canucks,New Jersey Devils,202202015763,2022020157,Faceoff,63,FACEOFF,Bo Horvat faceoff won against Nico Hischier,2022-11-02T02:24:11Z,1,09:30,10:30,0,1,23.0,Vancouver Canucks,VAN
+42,23,1,Vancouver Canucks,New Jersey Devils,202202015764,2022020157,Giveaway,64,GIVEAWAY,Giveaway by Quinn Hughes,2022-11-02T02:24:27Z,1,09:46,10:14,0,1,23.0,Vancouver Canucks,VAN
+43,23,1,Vancouver Canucks,New Jersey Devils,2022020157164,2022020157,Shot,164,SHOT,Quinn Hughes Wrist Shot saved by Mackenzie Blackwood,2022-11-02T02:24:51Z,1,10:10,09:50,0,1,23.0,Vancouver Canucks,VAN
+44,23,1,Vancouver Canucks,New Jersey Devils,202202015720,2022020157,Hit,20,HIT,Jonas Siegenthaler hit Tanner Pearson,2022-11-02T02:26:00Z,1,11:19,08:41,0,1,1.0,New Jersey Devils,NJD
+45,23,1,Vancouver Canucks,New Jersey Devils,202202015721,2022020157,Hit,21,HIT,Tanner Pearson hit Nico Hischier,2022-11-02T02:26:16Z,1,11:35,08:25,0,1,23.0,Vancouver Canucks,VAN
+46,23,1,Vancouver Canucks,New Jersey Devils,202202015765,2022020157,Takeaway,65,TAKEAWAY,Takeaway by Jack Studnicka,2022-11-02T02:26:30Z,1,11:49,08:11,0,1,23.0,Vancouver Canucks,VAN
+47,23,1,Vancouver Canucks,New Jersey Devils,202202015766,2022020157,Takeaway,66,TAKEAWAY,Takeaway by Ethan Bear,2022-11-02T02:26:37Z,1,11:56,08:04,0,1,23.0,Vancouver Canucks,VAN
+48,23,1,Vancouver Canucks,New Jersey Devils,202202015722,2022020157,Stoppage,22,STOP,Offside,2022-11-02T02:26:44Z,1,12:03,07:57,0,1,,,
+49,23,1,Vancouver Canucks,New Jersey Devils,202202015767,2022020157,Faceoff,67,FACEOFF,Bo Horvat faceoff won against Erik Haula,2022-11-02T02:29:02Z,1,12:03,07:57,0,1,23.0,Vancouver Canucks,VAN
+50,23,1,Vancouver Canucks,New Jersey Devils,202202015723,2022020157,Hit,23,HIT,Bo Horvat hit Ryan Graves,2022-11-02T02:29:31Z,1,12:32,07:28,0,1,23.0,Vancouver Canucks,VAN
+51,23,1,Vancouver Canucks,New Jersey Devils,2022020157165,2022020157,Blocked Shot,165,BLOCKED_SHOT,Ryan Graves shot blocked shot by Dakota Joshua,2022-11-02T02:29:39Z,1,12:40,07:20,0,1,23.0,Vancouver Canucks,VAN
+52,23,1,Vancouver Canucks,New Jersey Devils,2022020157166,2022020157,Missed Shot,166,MISSED_SHOT,Jonas Siegenthaler Wide of Net Thatcher Demko,2022-11-02T02:30:30Z,1,13:31,06:29,0,1,1.0,New Jersey Devils,NJD
+53,23,1,Vancouver Canucks,New Jersey Devils,202202015724,2022020157,Hit,24,HIT,Luke Schenn hit Jesper Boqvist,2022-11-02T02:30:35Z,1,13:36,06:24,0,1,23.0,Vancouver Canucks,VAN
+54,23,1,Vancouver Canucks,New Jersey Devils,2022020157167,2022020157,Shot,167,SHOT,Dougie Hamilton Wrist Shot saved by Thatcher Demko,2022-11-02T02:30:49Z,1,13:50,06:10,0,1,1.0,New Jersey Devils,NJD
+55,23,1,Vancouver Canucks,New Jersey Devils,2022020157168,2022020157,Shot,168,SHOT,Jonas Siegenthaler Wrist Shot saved by Thatcher Demko,2022-11-02T02:30:57Z,1,13:58,06:02,0,1,1.0,New Jersey Devils,NJD
+56,23,1,Vancouver Canucks,New Jersey Devils,202202015768,2022020157,Takeaway,68,TAKEAWAY,Takeaway by Vasily Podkolzin,2022-11-02T02:31:14Z,1,14:15,05:45,0,1,23.0,Vancouver Canucks,VAN
+57,23,1,Vancouver Canucks,New Jersey Devils,202202015725,2022020157,Stoppage,25,STOP,Goalie Stopped,2022-11-02T02:32:05Z,1,15:06,04:54,0,1,,,
+58,23,1,Vancouver Canucks,New Jersey Devils,2022020157169,2022020157,Shot,169,SHOT,Tyler Myers Slap Shot saved by Mackenzie Blackwood,2022-11-02T02:32:05Z,1,15:06,04:54,0,1,23.0,Vancouver Canucks,VAN
+59,23,1,Vancouver Canucks,New Jersey Devils,202202015769,2022020157,Faceoff,69,FACEOFF,Erik Haula faceoff won against Jack Studnicka,2022-11-02T02:34:19Z,1,15:06,04:54,0,1,1.0,New Jersey Devils,NJD
+60,23,1,Vancouver Canucks,New Jersey Devils,2022020157170,2022020157,Shot,170,SHOT,Jack Hughes Wrist Shot saved by Thatcher Demko,2022-11-02T02:35:10Z,1,15:57,04:03,0,1,1.0,New Jersey Devils,NJD
+61,23,1,Vancouver Canucks,New Jersey Devils,202202015726,2022020157,Stoppage,26,STOP,Icing,2022-11-02T02:35:16Z,1,16:02,03:58,0,1,,,
+62,23,1,Vancouver Canucks,New Jersey Devils,202202015770,2022020157,Faceoff,70,FACEOFF,Erik Haula faceoff won against Bo Horvat,2022-11-02T02:35:44Z,1,16:02,03:58,0,1,1.0,New Jersey Devils,NJD
+63,23,1,Vancouver Canucks,New Jersey Devils,2022020157171,2022020157,Shot,171,SHOT,Jack Hughes Wrist Shot saved by Thatcher Demko,2022-11-02T02:35:48Z,1,16:06,03:54,0,1,1.0,New Jersey Devils,NJD
+64,23,1,Vancouver Canucks,New Jersey Devils,202202015771,2022020157,Takeaway,71,TAKEAWAY,Takeaway by Quinn Hughes,2022-11-02T02:35:58Z,1,16:16,03:44,0,1,23.0,Vancouver Canucks,VAN
+65,23,1,Vancouver Canucks,New Jersey Devils,202202015727,2022020157,Stoppage,27,STOP,Offside,2022-11-02T02:36:05Z,1,16:23,03:37,0,1,,,
+66,23,1,Vancouver Canucks,New Jersey Devils,202202015772,2022020157,Faceoff,72,FACEOFF,Jesper Boqvist faceoff won against Elias Pettersson,2022-11-02T02:36:27Z,1,16:23,03:37,0,1,1.0,New Jersey Devils,NJD
+67,23,1,Vancouver Canucks,New Jersey Devils,202202015773,2022020157,Giveaway,73,GIVEAWAY,Giveaway by Tyler Myers,2022-11-02T02:36:49Z,1,16:45,03:15,0,1,23.0,Vancouver Canucks,VAN
+68,23,1,Vancouver Canucks,New Jersey Devils,2022020157172,2022020157,Shot,172,SHOT,Elias Pettersson Wrist Shot saved by Mackenzie Blackwood,2022-11-02T02:37:03Z,1,16:59,03:01,0,1,23.0,Vancouver Canucks,VAN
+69,23,1,Vancouver Canucks,New Jersey Devils,202202015728,2022020157,Stoppage,28,STOP,Goalie Stopped,2022-11-02T02:37:04Z,1,17:00,03:00,0,1,,,
+70,23,1,Vancouver Canucks,New Jersey Devils,202202015774,2022020157,Faceoff,74,FACEOFF,Nico Hischier faceoff won against Nils Aman,2022-11-02T02:37:34Z,1,17:00,03:00,0,1,1.0,New Jersey Devils,NJD
+71,23,1,Vancouver Canucks,New Jersey Devils,202202015729,2022020157,Stoppage,29,STOP,Icing,2022-11-02T02:37:57Z,1,17:23,02:37,0,1,,,
+72,23,1,Vancouver Canucks,New Jersey Devils,202202015775,2022020157,Faceoff,75,FACEOFF,Nico Hischier faceoff won against Jack Studnicka,2022-11-02T02:38:24Z,1,17:23,02:37,0,1,1.0,New Jersey Devils,NJD
+73,23,1,Vancouver Canucks,New Jersey Devils,202202015730,2022020157,Hit,30,HIT,Tanner Pearson hit John Marino,2022-11-02T02:38:31Z,1,17:30,02:30,0,1,23.0,Vancouver Canucks,VAN
+74,23,1,Vancouver Canucks,New Jersey Devils,202202015731,2022020157,Hit,31,HIT,Brendan Smith hit Jack Studnicka,2022-11-02T02:38:45Z,1,17:44,02:16,0,1,1.0,New Jersey Devils,NJD
+75,23,1,Vancouver Canucks,New Jersey Devils,202202015732,2022020157,Hit,32,HIT,Tanner Pearson hit Michael McLeod,2022-11-02T02:38:55Z,1,17:54,02:06,0,1,23.0,Vancouver Canucks,VAN
+76,23,1,Vancouver Canucks,New Jersey Devils,2022020157173,2022020157,Shot,173,SHOT,Miles Wood Tip-In saved by Thatcher Demko,2022-11-02T02:39:03Z,1,18:02,01:58,0,1,1.0,New Jersey Devils,NJD
+77,23,1,Vancouver Canucks,New Jersey Devils,2022020157174,2022020157,Goal,174,GOAL,"Michael McLeod (1) Wrist Shot, assists: Miles Wood (1), Nathan Bastian (2)",2022-11-02T02:39:05Z,1,18:04,01:56,0,2,1.0,New Jersey Devils,NJD
+78,23,1,Vancouver Canucks,New Jersey Devils,202202015776,2022020157,Faceoff,76,FACEOFF,Erik Haula faceoff won against Bo Horvat,2022-11-02T02:39:52Z,1,18:04,01:56,0,2,1.0,New Jersey Devils,NJD
+79,23,1,Vancouver Canucks,New Jersey Devils,2022020157180,2022020157,Blocked Shot,180,BLOCKED_SHOT,Dougie Hamilton shot blocked shot by Conor Garland,2022-11-02T02:40:00Z,1,18:12,01:48,0,2,23.0,Vancouver Canucks,VAN
+80,23,1,Vancouver Canucks,New Jersey Devils,2022020157175,2022020157,Shot,175,SHOT,Oliver Ekman-Larsson Wrist Shot saved by Mackenzie Blackwood,2022-11-02T02:40:10Z,1,18:22,01:38,0,2,23.0,Vancouver Canucks,VAN
+81,23,1,Vancouver Canucks,New Jersey Devils,202202015777,2022020157,Giveaway,77,GIVEAWAY,Giveaway by Brendan Smith,2022-11-02T02:40:45Z,1,18:57,01:03,0,2,1.0,New Jersey Devils,NJD
+82,23,1,Vancouver Canucks,New Jersey Devils,2022020157176,2022020157,Missed Shot,176,MISSED_SHOT,Elias Pettersson Over Net Mackenzie Blackwood,2022-11-02T02:40:46Z,1,18:58,01:02,0,2,23.0,Vancouver Canucks,VAN
+83,23,1,Vancouver Canucks,New Jersey Devils,202202015733,2022020157,Stoppage,33,STOP,Puck in Crowd,2022-11-02T02:40:48Z,1,18:59,01:01,0,2,,,
+84,23,1,Vancouver Canucks,New Jersey Devils,202202015778,2022020157,Faceoff,78,FACEOFF,Elias Pettersson faceoff won against Nico Hischier,2022-11-02T02:41:16Z,1,18:59,01:01,0,2,23.0,Vancouver Canucks,VAN
+85,23,1,Vancouver Canucks,New Jersey Devils,2022020157177,2022020157,Blocked Shot,177,BLOCKED_SHOT,Ethan Bear shot blocked shot by Nico Hischier,2022-11-02T02:41:23Z,1,19:06,00:54,0,2,1.0,New Jersey Devils,NJD
+86,23,1,Vancouver Canucks,New Jersey Devils,202202015779,2022020157,Takeaway,79,TAKEAWAY,Takeaway by Nico Hischier,2022-11-02T02:41:55Z,1,19:38,00:22,0,2,1.0,New Jersey Devils,NJD
+87,23,1,Vancouver Canucks,New Jersey Devils,202202015780,2022020157,Giveaway,80,GIVEAWAY,Giveaway by Nico Hischier,2022-11-02T02:41:58Z,1,19:41,00:19,0,2,1.0,New Jersey Devils,NJD
+88,23,1,Vancouver Canucks,New Jersey Devils,2022020157178,2022020157,Blocked Shot,178,BLOCKED_SHOT,Ilya Mikheyev shot blocked shot by Ryan Graves,2022-11-02T02:41:59Z,1,19:42,00:18,0,2,1.0,New Jersey Devils,NJD
+89,23,1,Vancouver Canucks,New Jersey Devils,2022020157179,2022020157,Blocked Shot,179,BLOCKED_SHOT,Riley Stillman shot blocked shot by Tomas Tatar,2022-11-02T02:42:07Z,1,19:50,00:10,0,2,1.0,New Jersey Devils,NJD
+90,23,1,Vancouver Canucks,New Jersey Devils,202202015734,2022020157,Period End,34,PERIOD_END,End of 1st Period,2022-11-02T02:42:17Z,1,20:00,00:00,0,2,,,
+91,23,1,Vancouver Canucks,New Jersey Devils,202202015737,2022020157,Period Official,37,PERIOD_OFFICIAL,Period Official,2022-11-02T02:44:59Z,1,20:00,00:00,0,2,,,
+92,23,1,Vancouver Canucks,New Jersey Devils,202202015738,2022020157,Period Ready,38,PERIOD_READY,Period Ready,2022-11-02T03:00:57Z,2,00:00,20:00,0,2,,,
+93,23,1,Vancouver Canucks,New Jersey Devils,202202015781,2022020157,Period Start,81,PERIOD_START,Period Start,2022-11-02T03:01:02Z,2,00:00,20:00,0,2,,,
+94,23,1,Vancouver Canucks,New Jersey Devils,202202015782,2022020157,Faceoff,82,FACEOFF,Elias Pettersson faceoff won against Nico Hischier,2022-11-02T03:01:02Z,2,00:00,20:00,0,2,23.0,Vancouver Canucks,VAN
+95,23,1,Vancouver Canucks,New Jersey Devils,2022020157181,2022020157,Missed Shot,181,MISSED_SHOT,Dougie Hamilton Wide of Net Thatcher Demko,2022-11-02T03:01:12Z,2,00:10,19:50,0,2,1.0,New Jersey Devils,NJD
+96,23,1,Vancouver Canucks,New Jersey Devils,2022020157182,2022020157,Blocked Shot,182,BLOCKED_SHOT,Elias Pettersson shot blocked shot by Jonas Siegenthaler,2022-11-02T03:01:24Z,2,00:22,19:38,0,2,1.0,New Jersey Devils,NJD
+97,23,1,Vancouver Canucks,New Jersey Devils,202202015739,2022020157,Stoppage,39,STOP,Goalie Stopped,2022-11-02T03:01:33Z,2,00:32,19:28,0,2,,,
+98,23,1,Vancouver Canucks,New Jersey Devils,2022020157183,2022020157,Shot,183,SHOT,Jonas Siegenthaler Slap Shot saved by Thatcher Demko,2022-11-02T03:01:33Z,2,00:32,19:28,0,2,1.0,New Jersey Devils,NJD
+99,23,1,Vancouver Canucks,New Jersey Devils,202202015783,2022020157,Faceoff,83,FACEOFF,Bo Horvat faceoff won against Jack Hughes,2022-11-02T03:02:15Z,2,00:32,19:28,0,2,23.0,Vancouver Canucks,VAN
+100,23,1,Vancouver Canucks,New Jersey Devils,202202015740,2022020157,Hit,40,HIT,Tyler Myers hit Erik Haula,2022-11-02T03:02:33Z,2,00:50,19:10,0,2,23.0,Vancouver Canucks,VAN
+101,23,1,Vancouver Canucks,New Jersey Devils,2022020157184,2022020157,Missed Shot,184,MISSED_SHOT,Oliver Ekman-Larsson Over Net Mackenzie Blackwood,2022-11-02T03:02:42Z,2,00:59,19:01,0,2,23.0,Vancouver Canucks,VAN
+102,23,1,Vancouver Canucks,New Jersey Devils,2022020157185,2022020157,Shot,185,SHOT,Bo Horvat Tip-In saved by Mackenzie Blackwood,2022-11-02T03:02:54Z,2,01:11,18:49,0,2,23.0,Vancouver Canucks,VAN
+103,23,1,Vancouver Canucks,New Jersey Devils,2022020157186,2022020157,Shot,186,SHOT,Nathan Bastian Wrist Shot saved by Thatcher Demko,2022-11-02T03:03:03Z,2,01:20,18:40,0,2,1.0,New Jersey Devils,NJD
+104,23,1,Vancouver Canucks,New Jersey Devils,202202015741,2022020157,Stoppage,41,STOP,Goalie Stopped,2022-11-02T03:03:06Z,2,01:23,18:37,0,2,,,
+105,23,1,Vancouver Canucks,New Jersey Devils,202202015784,2022020157,Faceoff,84,FACEOFF,Nils Aman faceoff won against Michael McLeod,2022-11-02T03:03:31Z,2,01:23,18:37,0,2,23.0,Vancouver Canucks,VAN
+106,23,1,Vancouver Canucks,New Jersey Devils,2022020157187,2022020157,Missed Shot,187,MISSED_SHOT,Brendan Smith Wide of Net Thatcher Demko,2022-11-02T03:03:59Z,2,01:51,18:09,0,2,1.0,New Jersey Devils,NJD
+107,23,1,Vancouver Canucks,New Jersey Devils,202202015742,2022020157,Stoppage,42,STOP,Puck Frozen,2022-11-02T03:03:59Z,2,01:52,18:08,0,2,,,
+108,23,1,Vancouver Canucks,New Jersey Devils,202202015785,2022020157,Faceoff,85,FACEOFF,Dawson Mercer faceoff won against Jack Studnicka,2022-11-02T03:04:26Z,2,01:52,18:08,0,2,1.0,New Jersey Devils,NJD
+109,23,1,Vancouver Canucks,New Jersey Devils,202202015743,2022020157,Stoppage,43,STOP,Goalie Stopped,2022-11-02T03:04:52Z,2,02:18,17:42,0,2,,,
+110,23,1,Vancouver Canucks,New Jersey Devils,2022020157188,2022020157,Shot,188,SHOT,Dougie Hamilton Backhand saved by Thatcher Demko,2022-11-02T03:04:52Z,2,02:18,17:42,0,2,1.0,New Jersey Devils,NJD
+111,23,1,Vancouver Canucks,New Jersey Devils,202202015786,2022020157,Faceoff,86,FACEOFF,Nico Hischier faceoff won against Elias Pettersson,2022-11-02T03:05:30Z,2,02:18,17:42,0,2,1.0,New Jersey Devils,NJD
+112,23,1,Vancouver Canucks,New Jersey Devils,2022020157189,2022020157,Missed Shot,189,MISSED_SHOT,Ilya Mikheyev Wide of Net Mackenzie Blackwood,2022-11-02T03:05:57Z,2,02:45,17:15,0,2,23.0,Vancouver Canucks,VAN
+113,23,1,Vancouver Canucks,New Jersey Devils,202202015787,2022020157,Takeaway,87,TAKEAWAY,Takeaway by Riley Stillman,2022-11-02T03:06:16Z,2,03:04,16:56,0,2,23.0,Vancouver Canucks,VAN
+114,23,1,Vancouver Canucks,New Jersey Devils,202202015789,2022020157,Takeaway,89,TAKEAWAY,Takeaway by Conor Garland,2022-11-02T03:06:26Z,2,03:14,16:46,0,2,23.0,Vancouver Canucks,VAN
+115,23,1,Vancouver Canucks,New Jersey Devils,2022020157190,2022020157,Shot,190,SHOT,Bo Horvat Backhand saved by Mackenzie Blackwood,2022-11-02T03:06:28Z,2,03:16,16:44,0,2,23.0,Vancouver Canucks,VAN
+116,23,1,Vancouver Canucks,New Jersey Devils,202202015744,2022020157,Stoppage,44,STOP,Goalie Stopped,2022-11-02T03:06:29Z,2,03:17,16:43,0,2,,,
+117,23,1,Vancouver Canucks,New Jersey Devils,202202015788,2022020157,Faceoff,88,FACEOFF,Bo Horvat faceoff won against Erik Haula,2022-11-02T03:07:00Z,2,03:17,16:43,0,2,23.0,Vancouver Canucks,VAN
+118,23,1,Vancouver Canucks,New Jersey Devils,2022020157191,2022020157,Missed Shot,191,MISSED_SHOT,Conor Garland Wide of Net Mackenzie Blackwood,2022-11-02T03:07:07Z,2,03:24,16:36,0,2,23.0,Vancouver Canucks,VAN
+119,23,1,Vancouver Canucks,New Jersey Devils,2022020157192,2022020157,Shot,192,SHOT,Dougie Hamilton Wrist Shot saved by Thatcher Demko,2022-11-02T03:07:21Z,2,03:38,16:22,0,2,1.0,New Jersey Devils,NJD
+120,23,1,Vancouver Canucks,New Jersey Devils,202202015745,2022020157,Hit,45,HIT,Dougie Hamilton hit Riley Stillman,2022-11-02T03:07:27Z,2,03:44,16:16,0,2,1.0,New Jersey Devils,NJD
+121,23,1,Vancouver Canucks,New Jersey Devils,202202015746,2022020157,Stoppage,46,STOP,Icing,2022-11-02T03:07:32Z,2,03:49,16:11,0,2,,,
+122,23,1,Vancouver Canucks,New Jersey Devils,202202015790,2022020157,Faceoff,90,FACEOFF,Nils Aman faceoff won against Erik Haula,2022-11-02T03:08:00Z,2,03:49,16:11,0,2,23.0,Vancouver Canucks,VAN
+123,23,1,Vancouver Canucks,New Jersey Devils,2022020157193,2022020157,Blocked Shot,193,BLOCKED_SHOT,Luke Schenn shot blocked shot by Dougie Hamilton,2022-11-02T03:08:06Z,2,03:55,16:05,0,2,1.0,New Jersey Devils,NJD
+124,23,1,Vancouver Canucks,New Jersey Devils,202202015747,2022020157,Stoppage,47,STOP,Icing,2022-11-02T03:08:26Z,2,04:15,15:45,0,2,,,
+125,23,1,Vancouver Canucks,New Jersey Devils,202202015791,2022020157,Faceoff,91,FACEOFF,Michael McLeod faceoff won against Nils Aman,2022-11-02T03:08:50Z,2,04:15,15:45,0,2,1.0,New Jersey Devils,NJD
+126,23,1,Vancouver Canucks,New Jersey Devils,2022020157194,2022020157,Blocked Shot,194,BLOCKED_SHOT,Damon Severson shot blocked shot by Quinn Hughes,2022-11-02T03:08:55Z,2,04:20,15:40,0,2,23.0,Vancouver Canucks,VAN
+127,23,1,Vancouver Canucks,New Jersey Devils,202202015792,2022020157,Giveaway,92,GIVEAWAY,Giveaway by Luke Schenn,2022-11-02T03:09:11Z,2,04:36,15:24,0,2,23.0,Vancouver Canucks,VAN
+128,23,1,Vancouver Canucks,New Jersey Devils,202202015748,2022020157,Hit,48,HIT,Dakota Joshua hit Brendan Smith,2022-11-02T03:09:16Z,2,04:41,15:19,0,2,23.0,Vancouver Canucks,VAN
+129,23,1,Vancouver Canucks,New Jersey Devils,202202015749,2022020157,Hit,49,HIT,Brendan Smith hit Jack Studnicka,2022-11-02T03:09:38Z,2,05:03,14:57,0,2,1.0,New Jersey Devils,NJD
+130,23,1,Vancouver Canucks,New Jersey Devils,2022020157195,2022020157,Shot,195,SHOT,Nils Hoglander Backhand saved by Mackenzie Blackwood,2022-11-02T03:09:47Z,2,05:12,14:48,0,2,23.0,Vancouver Canucks,VAN
+131,23,1,Vancouver Canucks,New Jersey Devils,202202015750,2022020157,Hit,50,HIT,Jack Studnicka hit Jesper Boqvist,2022-11-02T03:10:02Z,2,05:27,14:33,0,2,23.0,Vancouver Canucks,VAN
+132,23,1,Vancouver Canucks,New Jersey Devils,2022020157196,2022020157,Shot,196,SHOT,Tyler Myers Snap Shot saved by Mackenzie Blackwood,2022-11-02T03:10:08Z,2,05:33,14:27,0,2,23.0,Vancouver Canucks,VAN
+133,23,1,Vancouver Canucks,New Jersey Devils,2022020157301,2022020157,Hit,301,HIT,Brendan Smith hit Andrei Kuzmenko,2022-11-02T03:10:25Z,2,05:50,14:10,0,2,1.0,New Jersey Devils,NJD
+134,23,1,Vancouver Canucks,New Jersey Devils,2022020157197,2022020157,Shot,197,SHOT,Tomas Tatar Wrist Shot saved by Thatcher Demko,2022-11-02T03:10:44Z,2,06:09,13:51,0,2,1.0,New Jersey Devils,NJD
+135,23,1,Vancouver Canucks,New Jersey Devils,2022020157198,2022020157,Missed Shot,198,MISSED_SHOT,Fabian Zetterlund Wide of Net Thatcher Demko,2022-11-02T03:10:58Z,2,06:23,13:37,0,2,1.0,New Jersey Devils,NJD
+136,23,1,Vancouver Canucks,New Jersey Devils,2022020157199,2022020157,Missed Shot,199,MISSED_SHOT,Tomas Tatar Wide of Net Thatcher Demko,2022-11-02T03:11:03Z,2,06:28,13:32,0,2,1.0,New Jersey Devils,NJD
+137,23,1,Vancouver Canucks,New Jersey Devils,2022020157302,2022020157,Hit,302,HIT,J.T. Miller hit John Marino,2022-11-02T03:11:40Z,2,07:05,12:55,0,2,23.0,Vancouver Canucks,VAN
+138,23,1,Vancouver Canucks,New Jersey Devils,2022020157303,2022020157,Hit,303,HIT,Luke Schenn hit Nathan Bastian,2022-11-02T03:11:53Z,2,07:18,12:42,0,2,23.0,Vancouver Canucks,VAN
+139,23,1,Vancouver Canucks,New Jersey Devils,2022020157304,2022020157,Hit,304,HIT,Luke Schenn hit Michael McLeod,2022-11-02T03:12:01Z,2,07:26,12:34,0,2,23.0,Vancouver Canucks,VAN
+140,23,1,Vancouver Canucks,New Jersey Devils,2022020157305,2022020157,Stoppage,305,STOP,TV timeout,2022-11-02T03:12:05Z,2,07:29,12:31,0,2,,,
+141,23,1,Vancouver Canucks,New Jersey Devils,2022020157307,2022020157,Penalty,307,PENALTY,Luke Schenn Aggressor against Miles Wood,2022-11-02T03:12:05Z,2,07:29,12:31,0,2,23.0,Vancouver Canucks,VAN
+142,23,1,Vancouver Canucks,New Jersey Devils,2022020157310,2022020157,Penalty,310,PENALTY,Miles Wood Instigator - Misconduct against Luke Schenn,2022-11-02T03:12:05Z,2,07:29,12:31,0,2,1.0,New Jersey Devils,NJD
+143,23,1,Vancouver Canucks,New Jersey Devils,2022020157313,2022020157,Penalty,313,PENALTY,Dakota Joshua Game Misconduct against Miles Wood,2022-11-02T03:12:05Z,2,07:29,12:31,0,2,23.0,Vancouver Canucks,VAN
+144,23,1,Vancouver Canucks,New Jersey Devils,2022020157535,2022020157,Penalty,535,PENALTY,Luke Schenn Fighting against Miles Wood,2022-11-02T03:12:05Z,2,07:29,12:31,0,2,23.0,Vancouver Canucks,VAN
+145,23,1,Vancouver Canucks,New Jersey Devils,2022020157539,2022020157,Penalty,539,PENALTY,Miles Wood Fighting against Luke Schenn,2022-11-02T03:12:05Z,2,07:29,12:31,0,2,1.0,New Jersey Devils,NJD
+146,23,1,Vancouver Canucks,New Jersey Devils,2022020157547,2022020157,Penalty,547,PENALTY,Miles Wood Instigator against Luke Schenn served by Fabian Zetterlund,2022-11-02T03:12:05Z,2,07:29,12:31,0,2,1.0,New Jersey Devils,NJD
+147,23,1,Vancouver Canucks,New Jersey Devils,202202015793,2022020157,Faceoff,93,FACEOFF,Bo Horvat faceoff won against Nico Hischier,2022-11-02T03:16:56Z,2,07:29,12:31,0,2,23.0,Vancouver Canucks,VAN
+148,23,1,Vancouver Canucks,New Jersey Devils,2022020157200,2022020157,Blocked Shot,200,BLOCKED_SHOT,Quinn Hughes shot blocked shot by Nico Hischier,2022-11-02T03:17:15Z,2,07:48,12:12,0,2,1.0,New Jersey Devils,NJD
+149,23,1,Vancouver Canucks,New Jersey Devils,2022020157401,2022020157,Blocked Shot,401,BLOCKED_SHOT,Elias Pettersson shot blocked shot by Erik Haula,2022-11-02T03:17:49Z,2,08:22,11:38,0,2,1.0,New Jersey Devils,NJD
+150,23,1,Vancouver Canucks,New Jersey Devils,2022020157601,2022020157,Stoppage,601,STOP,Puck in Netting,2022-11-02T03:17:49Z,2,08:22,11:38,0,2,,,
+151,23,1,Vancouver Canucks,New Jersey Devils,202202015794,2022020157,Faceoff,94,FACEOFF,Erik Haula faceoff won against Bo Horvat,2022-11-02T03:18:21Z,2,08:22,11:38,0,2,1.0,New Jersey Devils,NJD
+152,23,1,Vancouver Canucks,New Jersey Devils,2022020157402,2022020157,Shot,402,SHOT,Erik Haula Wrist Shot saved by Thatcher Demko,2022-11-02T03:18:31Z,2,08:32,11:28,0,2,1.0,New Jersey Devils,NJD
+153,23,1,Vancouver Canucks,New Jersey Devils,202202015795,2022020157,Giveaway,95,GIVEAWAY,Giveaway by Vasily Podkolzin,2022-11-02T03:19:19Z,2,09:20,10:40,0,2,23.0,Vancouver Canucks,VAN
+154,23,1,Vancouver Canucks,New Jersey Devils,2022020157403,2022020157,Goal,403,GOAL,"Dawson Mercer (4) Tip-In, assists: Yegor Sharangovich (3)",2022-11-02T03:19:25Z,2,09:25,10:35,0,3,1.0,New Jersey Devils,NJD
+155,23,1,Vancouver Canucks,New Jersey Devils,202202015796,2022020157,Faceoff,96,FACEOFF,Nils Aman faceoff won against Jack Hughes,2022-11-02T03:20:09Z,2,09:25,10:35,0,3,23.0,Vancouver Canucks,VAN
+156,23,1,Vancouver Canucks,New Jersey Devils,2022020157404,2022020157,Shot,404,SHOT,Jack Hughes Slap Shot saved by Thatcher Demko,2022-11-02T03:20:59Z,2,10:15,09:45,0,3,1.0,New Jersey Devils,NJD
+157,23,1,Vancouver Canucks,New Jersey Devils,202202015797,2022020157,Takeaway,97,TAKEAWAY,Takeaway by Nico Hischier,2022-11-02T03:21:27Z,2,10:43,09:17,0,3,1.0,New Jersey Devils,NJD
+158,23,1,Vancouver Canucks,New Jersey Devils,2022020157317,2022020157,Stoppage,317,STOP,Home Timeout,2022-11-02T03:23:29Z,2,11:37,08:23,0,3,,,
+159,23,1,Vancouver Canucks,New Jersey Devils,2022020157405,2022020157,Goal,405,GOAL,"Yegor Sharangovich (3) Tip-In, assists: Jesper Boqvist (1), John Marino (4)",2022-11-02T03:23:29Z,2,11:37,08:23,0,4,1.0,New Jersey Devils,NJD
+160,23,1,Vancouver Canucks,New Jersey Devils,202202015799,2022020157,Faceoff,99,FACEOFF,Michael McLeod faceoff won against Elias Pettersson,2022-11-02T03:24:04Z,2,11:37,08:23,0,4,1.0,New Jersey Devils,NJD
+161,23,1,Vancouver Canucks,New Jersey Devils,2022020157406,2022020157,Stoppage,406,STOP,Icing,2022-11-02T03:24:10Z,2,11:43,08:17,0,4,,,
+162,23,1,Vancouver Canucks,New Jersey Devils,2022020157100,2022020157,Faceoff,100,FACEOFF,Elias Pettersson faceoff won against Michael McLeod,2022-11-02T03:24:38Z,2,11:43,08:17,0,4,23.0,Vancouver Canucks,VAN
+163,23,1,Vancouver Canucks,New Jersey Devils,2022020157451,2022020157,Takeaway,451,TAKEAWAY,Takeaway by Elias Pettersson,2022-11-02T03:25:06Z,2,12:11,07:49,0,4,23.0,Vancouver Canucks,VAN
+164,23,1,Vancouver Canucks,New Jersey Devils,2022020157407,2022020157,Shot,407,SHOT,Michael McLeod Wrist Shot saved by Thatcher Demko,2022-11-02T03:25:16Z,2,12:21,07:39,0,4,1.0,New Jersey Devils,NJD
+165,23,1,Vancouver Canucks,New Jersey Devils,2022020157452,2022020157,Takeaway,452,TAKEAWAY,Takeaway by Nils Hoglander,2022-11-02T03:25:42Z,2,12:47,07:13,0,4,23.0,Vancouver Canucks,VAN
+166,23,1,Vancouver Canucks,New Jersey Devils,2022020157318,2022020157,Hit,318,HIT,J.T. Miller hit Dougie Hamilton,2022-11-02T03:25:58Z,2,13:03,06:57,0,4,23.0,Vancouver Canucks,VAN
+167,23,1,Vancouver Canucks,New Jersey Devils,2022020157408,2022020157,Blocked Shot,408,BLOCKED_SHOT,Jack Hughes shot blocked shot by Nils Aman,2022-11-02T03:26:16Z,2,13:21,06:39,0,4,23.0,Vancouver Canucks,VAN
+168,23,1,Vancouver Canucks,New Jersey Devils,2022020157409,2022020157,Missed Shot,409,MISSED_SHOT,Dougie Hamilton Wide of Net Thatcher Demko,2022-11-02T03:26:23Z,2,13:28,06:32,0,4,1.0,New Jersey Devils,NJD
+169,23,1,Vancouver Canucks,New Jersey Devils,2022020157410,2022020157,Shot,410,SHOT,Ryan Graves Wrist Shot saved by Thatcher Demko,2022-11-02T03:26:41Z,2,13:46,06:14,0,4,1.0,New Jersey Devils,NJD
+170,23,1,Vancouver Canucks,New Jersey Devils,2022020157411,2022020157,Shot,411,SHOT,Fabian Zetterlund Slap Shot saved by Thatcher Demko,2022-11-02T03:26:48Z,2,13:53,06:07,0,4,1.0,New Jersey Devils,NJD
+171,23,1,Vancouver Canucks,New Jersey Devils,2022020157453,2022020157,Takeaway,453,TAKEAWAY,Takeaway by Vasily Podkolzin,2022-11-02T03:28:10Z,2,15:15,04:45,0,4,23.0,Vancouver Canucks,VAN
+172,23,1,Vancouver Canucks,New Jersey Devils,2022020157413,2022020157,Missed Shot,413,MISSED_SHOT,Vasily Podkolzin Wide of Net Mackenzie Blackwood,2022-11-02T03:28:18Z,2,15:23,04:37,0,4,23.0,Vancouver Canucks,VAN
+173,23,1,Vancouver Canucks,New Jersey Devils,2022020157319,2022020157,Stoppage,319,STOP,Goalie Stopped,2022-11-02T03:28:36Z,2,15:40,04:20,0,4,,,
+174,23,1,Vancouver Canucks,New Jersey Devils,2022020157414,2022020157,Shot,414,SHOT,Michael McLeod Wrist Shot saved by Thatcher Demko,2022-11-02T03:28:36Z,2,15:40,04:20,0,4,1.0,New Jersey Devils,NJD
+175,23,1,Vancouver Canucks,New Jersey Devils,2022020157415,2022020157,Faceoff,415,FACEOFF,Erik Haula faceoff won against Nils Aman,2022-11-02T03:30:53Z,2,15:40,04:20,0,4,1.0,New Jersey Devils,NJD
+176,23,1,Vancouver Canucks,New Jersey Devils,2022020157416,2022020157,Blocked Shot,416,BLOCKED_SHOT,Brendan Smith shot blocked shot by Nils Aman,2022-11-02T03:31:02Z,2,15:49,04:11,0,4,23.0,Vancouver Canucks,VAN
+177,23,1,Vancouver Canucks,New Jersey Devils,2022020157417,2022020157,Shot,417,SHOT,Jack Hughes Wrist Shot saved by Thatcher Demko,2022-11-02T03:31:16Z,2,16:03,03:57,0,4,1.0,New Jersey Devils,NJD
+178,23,1,Vancouver Canucks,New Jersey Devils,2022020157418,2022020157,Shot,418,SHOT,Tanner Pearson Wrist Shot saved by Mackenzie Blackwood,2022-11-02T03:31:26Z,2,16:13,03:47,0,4,23.0,Vancouver Canucks,VAN
+179,23,1,Vancouver Canucks,New Jersey Devils,2022020157420,2022020157,Missed Shot,420,MISSED_SHOT,Tanner Pearson Wide of Net Mackenzie Blackwood,2022-11-02T03:31:27Z,2,16:14,03:46,0,4,23.0,Vancouver Canucks,VAN
+180,23,1,Vancouver Canucks,New Jersey Devils,2022020157678,2022020157,Penalty,678,PENALTY,Brendan Smith Interference against Tanner Pearson,2022-11-02T03:31:28Z,2,16:15,03:45,0,4,1.0,New Jersey Devils,NJD
+181,23,1,Vancouver Canucks,New Jersey Devils,2022020157454,2022020157,Faceoff,454,FACEOFF,Bo Horvat faceoff won against Nico Hischier,2022-11-02T03:32:05Z,2,16:15,03:45,0,4,23.0,Vancouver Canucks,VAN
+182,23,1,Vancouver Canucks,New Jersey Devils,2022020157419,2022020157,Goal,419,GOAL,"Bo Horvat (7) Slap Shot, assists: J.T. Miller (3), Quinn Hughes (6)",2022-11-02T03:32:13Z,2,16:23,03:37,1,4,23.0,Vancouver Canucks,VAN
+183,23,1,Vancouver Canucks,New Jersey Devils,2022020157455,2022020157,Faceoff,455,FACEOFF,Nico Hischier faceoff won against Bo Horvat,2022-11-02T03:32:53Z,2,16:23,03:37,1,4,1.0,New Jersey Devils,NJD
+184,23,1,Vancouver Canucks,New Jersey Devils,2022020157421,2022020157,Shot,421,SHOT,Conor Garland Tip-In saved by Mackenzie Blackwood,2022-11-02T03:33:37Z,2,17:07,02:53,1,4,23.0,Vancouver Canucks,VAN
+185,23,1,Vancouver Canucks,New Jersey Devils,2022020157422,2022020157,Shot,422,SHOT,Conor Garland Wrist Shot saved by Mackenzie Blackwood,2022-11-02T03:33:38Z,2,17:08,02:52,1,4,23.0,Vancouver Canucks,VAN
+186,23,1,Vancouver Canucks,New Jersey Devils,2022020157423,2022020157,Shot,423,SHOT,Ethan Bear Wrist Shot saved by Mackenzie Blackwood,2022-11-02T03:33:52Z,2,17:22,02:38,1,4,23.0,Vancouver Canucks,VAN
+187,23,1,Vancouver Canucks,New Jersey Devils,2022020157320,2022020157,Stoppage,320,STOP,TV timeout,2022-11-02T03:33:54Z,2,17:24,02:36,1,4,,,
+188,23,1,Vancouver Canucks,New Jersey Devils,2022020157686,2022020157,Penalty,686,PENALTY,Jonas Siegenthaler Interference against Bo Horvat,2022-11-02T03:33:54Z,2,17:24,02:36,1,4,1.0,New Jersey Devils,NJD
+189,23,1,Vancouver Canucks,New Jersey Devils,2022020157456,2022020157,Faceoff,456,FACEOFF,Michael McLeod faceoff won against Bo Horvat,2022-11-02T03:36:19Z,2,17:24,02:36,1,4,1.0,New Jersey Devils,NJD
+190,23,1,Vancouver Canucks,New Jersey Devils,2022020157424,2022020157,Missed Shot,424,MISSED_SHOT,Bo Horvat Wide of Net Mackenzie Blackwood,2022-11-02T03:37:04Z,2,18:09,01:51,1,4,23.0,Vancouver Canucks,VAN
+191,23,1,Vancouver Canucks,New Jersey Devils,2022020157425,2022020157,Missed Shot,425,MISSED_SHOT,Elias Pettersson Wide of Net Mackenzie Blackwood,2022-11-02T03:37:13Z,2,18:18,01:42,1,4,23.0,Vancouver Canucks,VAN
+192,23,1,Vancouver Canucks,New Jersey Devils,2022020157426,2022020157,Blocked Shot,426,BLOCKED_SHOT,Elias Pettersson shot blocked shot by Nathan Bastian,2022-11-02T03:37:24Z,2,18:29,01:31,1,4,1.0,New Jersey Devils,NJD
+193,23,1,Vancouver Canucks,New Jersey Devils,2022020157457,2022020157,Takeaway,457,TAKEAWAY,Takeaway by Nico Hischier,2022-11-02T03:37:43Z,2,18:48,01:12,1,4,1.0,New Jersey Devils,NJD
+194,23,1,Vancouver Canucks,New Jersey Devils,2022020157427,2022020157,Shot,427,SHOT,Yegor Sharangovich Wrist Shot saved by Thatcher Demko,2022-11-02T03:37:46Z,2,18:51,01:09,1,4,1.0,New Jersey Devils,NJD
+195,23,1,Vancouver Canucks,New Jersey Devils,2022020157458,2022020157,Takeaway,458,TAKEAWAY,Takeaway by Brendan Smith,2022-11-02T03:38:05Z,2,19:10,00:50,1,4,1.0,New Jersey Devils,NJD
+196,23,1,Vancouver Canucks,New Jersey Devils,2022020157428,2022020157,Shot,428,SHOT,Brendan Smith Slap Shot saved by Thatcher Demko,2022-11-02T03:38:27Z,2,19:32,00:28,1,4,1.0,New Jersey Devils,NJD
+197,23,1,Vancouver Canucks,New Jersey Devils,2022020157321,2022020157,Stoppage,321,STOP,Goalie Stopped,2022-11-02T03:38:29Z,2,19:33,00:27,1,4,,,
+198,23,1,Vancouver Canucks,New Jersey Devils,2022020157459,2022020157,Faceoff,459,FACEOFF,Jack Studnicka faceoff won against Michael McLeod,2022-11-02T03:39:02Z,2,19:33,00:27,1,4,23.0,Vancouver Canucks,VAN
+199,23,1,Vancouver Canucks,New Jersey Devils,2022020157322,2022020157,Hit,322,HIT,Michael McLeod hit Jack Studnicka,2022-11-02T03:39:17Z,2,19:49,00:11,1,4,1.0,New Jersey Devils,NJD
+200,23,1,Vancouver Canucks,New Jersey Devils,2022020157323,2022020157,Period End,323,PERIOD_END,End of 2nd Period,2022-11-02T03:39:28Z,2,20:00,00:00,1,4,,,
+201,23,1,Vancouver Canucks,New Jersey Devils,2022020157328,2022020157,Period Official,328,PERIOD_OFFICIAL,Period Official,2022-11-02T03:41:52Z,2,20:00,00:00,1,4,,,
+202,23,1,Vancouver Canucks,New Jersey Devils,2022020157329,2022020157,Period Ready,329,PERIOD_READY,Period Ready,2022-11-02T03:58:13Z,3,00:00,20:00,1,4,,,
+203,23,1,Vancouver Canucks,New Jersey Devils,2022020157460,2022020157,Period Start,460,PERIOD_START,Period Start,2022-11-02T03:58:14Z,3,00:00,20:00,1,4,,,
+204,23,1,Vancouver Canucks,New Jersey Devils,2022020157461,2022020157,Faceoff,461,FACEOFF,Nico Hischier faceoff won against Elias Pettersson,2022-11-02T03:58:14Z,3,00:00,20:00,1,4,1.0,New Jersey Devils,NJD
+205,23,1,Vancouver Canucks,New Jersey Devils,2022020157330,2022020157,Hit,330,HIT,Ryan Graves hit Nils Hoglander,2022-11-02T03:59:33Z,3,01:19,18:41,1,4,1.0,New Jersey Devils,NJD
+206,23,1,Vancouver Canucks,New Jersey Devils,2022020157429,2022020157,Missed Shot,429,MISSED_SHOT,Dawson Mercer Wide of Net Thatcher Demko,2022-11-02T04:00:35Z,3,02:21,17:39,1,4,1.0,New Jersey Devils,NJD
+207,23,1,Vancouver Canucks,New Jersey Devils,2022020157331,2022020157,Stoppage,331,STOP,Goalie Stopped,2022-11-02T04:00:45Z,3,02:31,17:29,1,4,,,
+208,23,1,Vancouver Canucks,New Jersey Devils,2022020157430,2022020157,Shot,430,SHOT,Tomas Tatar Wrist Shot saved by Thatcher Demko,2022-11-02T04:00:45Z,3,02:31,17:29,1,4,1.0,New Jersey Devils,NJD
+209,23,1,Vancouver Canucks,New Jersey Devils,2022020157462,2022020157,Faceoff,462,FACEOFF,Nico Hischier faceoff won against Jack Studnicka,2022-11-02T04:01:09Z,3,02:31,17:29,1,4,1.0,New Jersey Devils,NJD
+210,23,1,Vancouver Canucks,New Jersey Devils,2022020157332,2022020157,Stoppage,332,STOP,Goalie Stopped,2022-11-02T04:01:14Z,3,02:36,17:24,1,4,,,
+211,23,1,Vancouver Canucks,New Jersey Devils,2022020157431,2022020157,Shot,431,SHOT,Dougie Hamilton Wrist Shot saved by Thatcher Demko,2022-11-02T04:01:14Z,3,02:36,17:24,1,4,1.0,New Jersey Devils,NJD
+212,23,1,Vancouver Canucks,New Jersey Devils,2022020157463,2022020157,Faceoff,463,FACEOFF,Nils Aman faceoff won against Nico Hischier,2022-11-02T04:01:34Z,3,02:36,17:24,1,4,23.0,Vancouver Canucks,VAN
+213,23,1,Vancouver Canucks,New Jersey Devils,2022020157464,2022020157,Takeaway,464,TAKEAWAY,Takeaway by Elias Pettersson,2022-11-02T04:02:25Z,3,03:27,16:33,1,4,23.0,Vancouver Canucks,VAN
+214,23,1,Vancouver Canucks,New Jersey Devils,2022020157432,2022020157,Blocked Shot,432,BLOCKED_SHOT,Andrei Kuzmenko shot blocked shot by Ryan Graves,2022-11-02T04:02:32Z,3,03:34,16:26,1,4,1.0,New Jersey Devils,NJD
+215,23,1,Vancouver Canucks,New Jersey Devils,2022020157465,2022020157,Takeaway,465,TAKEAWAY,Takeaway by Andrei Kuzmenko,2022-11-02T04:02:46Z,3,03:48,16:12,1,4,23.0,Vancouver Canucks,VAN
+216,23,1,Vancouver Canucks,New Jersey Devils,2022020157433,2022020157,Missed Shot,433,MISSED_SHOT,Andrei Kuzmenko Wide of Net Mackenzie Blackwood,2022-11-02T04:02:48Z,3,03:50,16:10,1,4,23.0,Vancouver Canucks,VAN
+217,23,1,Vancouver Canucks,New Jersey Devils,2022020157444,2022020157,Missed Shot,444,MISSED_SHOT,Oliver Ekman-Larsson Wide of Net Mackenzie Blackwood,2022-11-02T04:02:54Z,3,03:56,16:04,1,4,23.0,Vancouver Canucks,VAN
+218,23,1,Vancouver Canucks,New Jersey Devils,2022020157333,2022020157,Stoppage,333,STOP,Puck in Netting,2022-11-02T04:02:59Z,3,04:01,15:59,1,4,,,
+219,23,1,Vancouver Canucks,New Jersey Devils,2022020157466,2022020157,Faceoff,466,FACEOFF,Jesper Boqvist faceoff won against Bo Horvat,2022-11-02T04:03:33Z,3,04:01,15:59,1,4,1.0,New Jersey Devils,NJD
+220,23,1,Vancouver Canucks,New Jersey Devils,2022020157434,2022020157,Shot,434,SHOT,Jonas Siegenthaler Wrist Shot saved by Thatcher Demko,2022-11-02T04:03:51Z,3,04:19,15:41,1,4,1.0,New Jersey Devils,NJD
+221,23,1,Vancouver Canucks,New Jersey Devils,2022020157435,2022020157,Blocked Shot,435,BLOCKED_SHOT,Quinn Hughes shot blocked shot by Yegor Sharangovich,2022-11-02T04:04:20Z,3,04:48,15:12,1,4,1.0,New Jersey Devils,NJD
+222,23,1,Vancouver Canucks,New Jersey Devils,2022020157436,2022020157,Shot,436,SHOT,Tyler Myers Wrist Shot saved by Mackenzie Blackwood,2022-11-02T04:04:27Z,3,04:55,15:05,1,4,23.0,Vancouver Canucks,VAN
+223,23,1,Vancouver Canucks,New Jersey Devils,2022020157437,2022020157,Blocked Shot,437,BLOCKED_SHOT,Quinn Hughes shot blocked shot by Jonas Siegenthaler,2022-11-02T04:04:47Z,3,05:15,14:45,1,4,1.0,New Jersey Devils,NJD
+224,23,1,Vancouver Canucks,New Jersey Devils,2022020157438,2022020157,Blocked Shot,438,BLOCKED_SHOT,J.T. Miller shot blocked shot by Jonas Siegenthaler,2022-11-02T04:04:57Z,3,05:25,14:35,1,4,1.0,New Jersey Devils,NJD
+225,23,1,Vancouver Canucks,New Jersey Devils,2022020157439,2022020157,Shot,439,SHOT,Jack Hughes Wrist Shot saved by Thatcher Demko,2022-11-02T04:05:12Z,3,05:41,14:19,1,4,1.0,New Jersey Devils,NJD
+226,23,1,Vancouver Canucks,New Jersey Devils,2022020157334,2022020157,Stoppage,334,STOP,Goalie Stopped,2022-11-02T04:05:13Z,3,05:41,14:19,1,4,,,
+227,23,1,Vancouver Canucks,New Jersey Devils,2022020157467,2022020157,Faceoff,467,FACEOFF,Nils Aman faceoff won against Erik Haula,2022-11-02T04:05:47Z,3,05:41,14:19,1,4,23.0,Vancouver Canucks,VAN
+228,23,1,Vancouver Canucks,New Jersey Devils,2022020157335,2022020157,Stoppage,335,STOP,Offside,2022-11-02T04:05:54Z,3,05:48,14:12,1,4,,,
+229,23,1,Vancouver Canucks,New Jersey Devils,2022020157468,2022020157,Faceoff,468,FACEOFF,Michael McLeod faceoff won against Tanner Pearson,2022-11-02T04:06:15Z,3,05:48,14:12,1,4,1.0,New Jersey Devils,NJD
+230,23,1,Vancouver Canucks,New Jersey Devils,2022020157336,2022020157,Hit,336,HIT,Ethan Bear hit Miles Wood,2022-11-02T04:06:30Z,3,06:03,13:57,1,4,23.0,Vancouver Canucks,VAN
+231,23,1,Vancouver Canucks,New Jersey Devils,2022020157337,2022020157,Hit,337,HIT,Nathan Bastian hit Vasily Podkolzin,2022-11-02T04:06:53Z,3,06:26,13:34,1,4,1.0,New Jersey Devils,NJD
+232,23,1,Vancouver Canucks,New Jersey Devils,2022020157338,2022020157,Stoppage,338,STOP,Puck in Netting,2022-11-02T04:07:05Z,3,06:38,13:22,1,4,,,
+233,23,1,Vancouver Canucks,New Jersey Devils,2022020157440,2022020157,Missed Shot,440,MISSED_SHOT,Andrei Kuzmenko Wide of Net Mackenzie Blackwood,2022-11-02T04:07:05Z,3,06:38,13:22,1,4,23.0,Vancouver Canucks,VAN
+234,23,1,Vancouver Canucks,New Jersey Devils,2022020157469,2022020157,Faceoff,469,FACEOFF,Michael McLeod faceoff won against Elias Pettersson,2022-11-02T04:09:11Z,3,06:38,13:22,1,4,1.0,New Jersey Devils,NJD
+235,23,1,Vancouver Canucks,New Jersey Devils,2022020157470,2022020157,Takeaway,470,TAKEAWAY,Takeaway by Dawson Mercer,2022-11-02T04:09:52Z,3,07:19,12:41,1,4,1.0,New Jersey Devils,NJD
+236,23,1,Vancouver Canucks,New Jersey Devils,2022020157441,2022020157,Shot,441,SHOT,Fabian Zetterlund Wrist Shot saved by Thatcher Demko,2022-11-02T04:09:56Z,3,07:23,12:37,1,4,1.0,New Jersey Devils,NJD
+237,23,1,Vancouver Canucks,New Jersey Devils,2022020157339,2022020157,Hit,339,HIT,Ethan Bear hit Jesper Boqvist,2022-11-02T04:10:22Z,3,07:49,12:11,1,4,23.0,Vancouver Canucks,VAN
+238,23,1,Vancouver Canucks,New Jersey Devils,2022020157442,2022020157,Shot,442,SHOT,Jesper Boqvist Snap Shot saved by Thatcher Demko,2022-11-02T04:10:29Z,3,07:56,12:04,1,4,1.0,New Jersey Devils,NJD
+239,23,1,Vancouver Canucks,New Jersey Devils,2022020157340,2022020157,Stoppage,340,STOP,Goalie Stopped,2022-11-02T04:10:31Z,3,07:58,12:02,1,4,,,
+240,23,1,Vancouver Canucks,New Jersey Devils,2022020157471,2022020157,Faceoff,471,FACEOFF,Erik Haula faceoff won against Tanner Pearson,2022-11-02T04:11:07Z,3,07:58,12:02,1,4,1.0,New Jersey Devils,NJD
+241,23,1,Vancouver Canucks,New Jersey Devils,2022020157341,2022020157,Hit,341,HIT,Jack Hughes hit Tanner Pearson,2022-11-02T04:11:37Z,3,08:28,11:32,1,4,1.0,New Jersey Devils,NJD
+242,23,1,Vancouver Canucks,New Jersey Devils,2022020157342,2022020157,Hit,342,HIT,Damon Severson hit Jack Studnicka,2022-11-02T04:11:46Z,3,08:37,11:23,1,4,1.0,New Jersey Devils,NJD
+243,23,1,Vancouver Canucks,New Jersey Devils,2022020157443,2022020157,Blocked Shot,443,BLOCKED_SHOT,Conor Garland shot blocked shot by Jonas Siegenthaler,2022-11-02T04:12:19Z,3,09:10,10:50,1,4,1.0,New Jersey Devils,NJD
+244,23,1,Vancouver Canucks,New Jersey Devils,2022020157343,2022020157,Hit,343,HIT,Vasily Podkolzin hit Nathan Bastian,2022-11-02T04:12:23Z,3,09:14,10:46,1,4,23.0,Vancouver Canucks,VAN
+245,23,1,Vancouver Canucks,New Jersey Devils,2022020157344,2022020157,Stoppage,344,STOP,Icing,2022-11-02T04:12:25Z,3,09:15,10:45,1,4,,,
+246,23,1,Vancouver Canucks,New Jersey Devils,2022020157472,2022020157,Faceoff,472,FACEOFF,Michael McLeod faceoff won against Elias Pettersson,2022-11-02T04:12:52Z,3,09:15,10:45,1,4,1.0,New Jersey Devils,NJD
+247,23,1,Vancouver Canucks,New Jersey Devils,2022020157445,2022020157,Blocked Shot,445,BLOCKED_SHOT,Ryan Graves shot blocked shot by Elias Pettersson,2022-11-02T04:13:39Z,3,10:02,09:58,1,4,23.0,Vancouver Canucks,VAN
+248,23,1,Vancouver Canucks,New Jersey Devils,2022020157345,2022020157,Hit,345,HIT,Tyler Myers hit Dawson Mercer,2022-11-02T04:14:08Z,3,10:31,09:29,1,4,23.0,Vancouver Canucks,VAN
+249,23,1,Vancouver Canucks,New Jersey Devils,2022020157446,2022020157,Missed Shot,446,MISSED_SHOT,Bo Horvat Goalpost Mackenzie Blackwood,2022-11-02T04:14:20Z,3,10:42,09:18,1,4,23.0,Vancouver Canucks,VAN
+250,23,1,Vancouver Canucks,New Jersey Devils,2022020157447,2022020157,Shot,447,SHOT,Yegor Sharangovich Wrist Shot saved by Thatcher Demko,2022-11-02T04:14:42Z,3,11:04,08:56,1,4,1.0,New Jersey Devils,NJD
+251,23,1,Vancouver Canucks,New Jersey Devils,2022020157448,2022020157,Shot,448,SHOT,Jack Hughes Wrist Shot saved by Thatcher Demko,2022-11-02T04:14:58Z,3,11:20,08:40,1,4,1.0,New Jersey Devils,NJD
+252,23,1,Vancouver Canucks,New Jersey Devils,2022020157449,2022020157,Shot,449,SHOT,Jonas Siegenthaler Snap Shot saved by Thatcher Demko,2022-11-02T04:15:02Z,3,11:24,08:36,1,4,1.0,New Jersey Devils,NJD
+253,23,1,Vancouver Canucks,New Jersey Devils,2022020157346,2022020157,Stoppage,346,STOP,Icing,2022-11-02T04:15:06Z,3,11:28,08:32,1,4,,,
+254,23,1,Vancouver Canucks,New Jersey Devils,2022020157473,2022020157,Faceoff,473,FACEOFF,Bo Horvat faceoff won against Michael McLeod,2022-11-02T04:15:39Z,3,11:28,08:32,1,4,23.0,Vancouver Canucks,VAN
+255,23,1,Vancouver Canucks,New Jersey Devils,2022020157751,2022020157,Missed Shot,751,MISSED_SHOT,Tanner Pearson Wide of Net Mackenzie Blackwood,2022-11-02T04:16:18Z,3,12:07,07:53,1,4,23.0,Vancouver Canucks,VAN
+256,23,1,Vancouver Canucks,New Jersey Devils,2022020157752,2022020157,Shot,752,SHOT,Michael McLeod Wrist Shot saved by Thatcher Demko,2022-11-02T04:16:27Z,3,12:16,07:44,1,4,1.0,New Jersey Devils,NJD
+257,23,1,Vancouver Canucks,New Jersey Devils,2022020157753,2022020157,Blocked Shot,753,BLOCKED_SHOT,Dougie Hamilton shot blocked shot by Ethan Bear,2022-11-02T04:16:49Z,3,12:38,07:22,1,4,23.0,Vancouver Canucks,VAN
+258,23,1,Vancouver Canucks,New Jersey Devils,2022020157347,2022020157,Stoppage,347,STOP,Goalie Stopped,2022-11-02T04:17:41Z,3,13:30,06:30,1,4,,,
+259,23,1,Vancouver Canucks,New Jersey Devils,2022020157754,2022020157,Shot,754,SHOT,Andrei Kuzmenko Tip-In saved by Mackenzie Blackwood,2022-11-02T04:17:41Z,3,13:30,06:30,1,4,23.0,Vancouver Canucks,VAN
+260,23,1,Vancouver Canucks,New Jersey Devils,2022020157474,2022020157,Faceoff,474,FACEOFF,Bo Horvat faceoff won against Michael McLeod,2022-11-02T04:20:00Z,3,13:30,06:30,1,4,23.0,Vancouver Canucks,VAN
+261,23,1,Vancouver Canucks,New Jersey Devils,2022020157755,2022020157,Blocked Shot,755,BLOCKED_SHOT,Conor Garland shot blocked shot by Michael McLeod,2022-11-02T04:20:06Z,3,13:36,06:24,1,4,1.0,New Jersey Devils,NJD
+262,23,1,Vancouver Canucks,New Jersey Devils,2022020157348,2022020157,Hit,348,HIT,Ryan Graves hit Ethan Bear,2022-11-02T04:20:23Z,3,13:53,06:07,1,4,1.0,New Jersey Devils,NJD
+263,23,1,Vancouver Canucks,New Jersey Devils,2022020157349,2022020157,Stoppage,349,STOP,Goalie Stopped,2022-11-02T04:20:28Z,3,13:58,06:02,1,4,,,
+264,23,1,Vancouver Canucks,New Jersey Devils,2022020157756,2022020157,Shot,756,SHOT,Miles Wood Wrist Shot saved by Thatcher Demko,2022-11-02T04:20:28Z,3,13:58,06:02,1,4,1.0,New Jersey Devils,NJD
+265,23,1,Vancouver Canucks,New Jersey Devils,2022020157475,2022020157,Faceoff,475,FACEOFF,Erik Haula faceoff won against Nils Aman,2022-11-02T04:20:58Z,3,13:58,06:02,1,4,1.0,New Jersey Devils,NJD
+266,23,1,Vancouver Canucks,New Jersey Devils,2022020157757,2022020157,Shot,757,SHOT,Brendan Smith Slap Shot saved by Thatcher Demko,2022-11-02T04:21:16Z,3,14:16,05:44,1,4,1.0,New Jersey Devils,NJD
+267,23,1,Vancouver Canucks,New Jersey Devils,2022020157350,2022020157,Stoppage,350,STOP,Icing,2022-11-02T04:21:53Z,3,14:54,05:06,1,4,,,
+268,23,1,Vancouver Canucks,New Jersey Devils,2022020157476,2022020157,Faceoff,476,FACEOFF,Elias Pettersson faceoff won against Nico Hischier,2022-11-02T04:22:17Z,3,14:54,05:06,1,4,23.0,Vancouver Canucks,VAN
+269,23,1,Vancouver Canucks,New Jersey Devils,2022020157801,2022020157,Hit,801,HIT,Oliver Ekman-Larsson hit Nico Hischier,2022-11-02T04:22:47Z,3,15:24,04:36,1,4,23.0,Vancouver Canucks,VAN
+270,23,1,Vancouver Canucks,New Jersey Devils,2022020157758,2022020157,Missed Shot,758,MISSED_SHOT,Jonas Siegenthaler Goalpost Thatcher Demko,2022-11-02T04:23:08Z,3,15:45,04:15,1,4,1.0,New Jersey Devils,NJD
+271,23,1,Vancouver Canucks,New Jersey Devils,2022020157802,2022020157,Stoppage,802,STOP,Puck Frozen,2022-11-02T04:23:10Z,3,15:47,04:13,1,4,,,
+272,23,1,Vancouver Canucks,New Jersey Devils,2022020157477,2022020157,Faceoff,477,FACEOFF,Bo Horvat faceoff won against Dawson Mercer,2022-11-02T04:25:25Z,3,15:47,04:13,1,4,23.0,Vancouver Canucks,VAN
+273,23,1,Vancouver Canucks,New Jersey Devils,2022020157759,2022020157,Blocked Shot,759,BLOCKED_SHOT,Ethan Bear shot blocked shot by Dawson Mercer,2022-11-02T04:26:04Z,3,16:26,03:34,1,4,1.0,New Jersey Devils,NJD
+274,23,1,Vancouver Canucks,New Jersey Devils,2022020157946,2022020157,Penalty,946,PENALTY,Ryan Graves Holding against J.T. Miller,2022-11-02T04:26:04Z,3,16:26,03:34,1,4,1.0,New Jersey Devils,NJD
+275,23,1,Vancouver Canucks,New Jersey Devils,2022020157478,2022020157,Faceoff,478,FACEOFF,Nico Hischier faceoff won against Bo Horvat,2022-11-02T04:27:05Z,3,16:26,03:34,1,4,1.0,New Jersey Devils,NJD
+276,23,1,Vancouver Canucks,New Jersey Devils,2022020157760,2022020157,Missed Shot,760,MISSED_SHOT,J.T. Miller Wide of Net Mackenzie Blackwood,2022-11-02T04:27:37Z,3,16:58,03:02,1,4,23.0,Vancouver Canucks,VAN
+277,23,1,Vancouver Canucks,New Jersey Devils,2022020157761,2022020157,Goal,761,GOAL,"Bo Horvat (8) Slap Shot, assists: J.T. Miller (4), Elias Pettersson (6)",2022-11-02T04:27:51Z,3,17:12,02:48,2,4,23.0,Vancouver Canucks,VAN
+278,23,1,Vancouver Canucks,New Jersey Devils,2022020157479,2022020157,Faceoff,479,FACEOFF,Erik Haula faceoff won against Nils Aman,2022-11-02T04:28:33Z,3,17:12,02:48,2,4,1.0,New Jersey Devils,NJD
+279,23,1,Vancouver Canucks,New Jersey Devils,2022020157762,2022020157,Shot,762,SHOT,Jack Hughes Wrist Shot saved by Thatcher Demko,2022-11-02T04:28:43Z,3,17:22,02:38,2,4,1.0,New Jersey Devils,NJD
+280,23,1,Vancouver Canucks,New Jersey Devils,2022020157763,2022020157,Blocked Shot,763,BLOCKED_SHOT,Oliver Ekman-Larsson shot blocked shot by Tomas Tatar,2022-11-02T04:29:12Z,3,17:51,02:09,2,4,1.0,New Jersey Devils,NJD
+281,23,1,Vancouver Canucks,New Jersey Devils,2022020157764,2022020157,Missed Shot,764,MISSED_SHOT,Jack Hughes Wide of Net,2022-11-02T04:29:16Z,3,17:55,02:05,2,4,1.0,New Jersey Devils,NJD
+282,23,1,Vancouver Canucks,New Jersey Devils,2022020157803,2022020157,Stoppage,803,STOP,Icing,2022-11-02T04:29:16Z,3,17:55,02:05,2,4,,,
+283,23,1,Vancouver Canucks,New Jersey Devils,2022020157480,2022020157,Faceoff,480,FACEOFF,Bo Horvat faceoff won against Erik Haula,2022-11-02T04:29:45Z,3,17:55,02:05,2,4,23.0,Vancouver Canucks,VAN
+284,23,1,Vancouver Canucks,New Jersey Devils,2022020157765,2022020157,Blocked Shot,765,BLOCKED_SHOT,Elias Pettersson shot blocked shot by Jonas Siegenthaler,2022-11-02T04:30:04Z,3,18:14,01:46,2,4,1.0,New Jersey Devils,NJD
+285,23,1,Vancouver Canucks,New Jersey Devils,2022020157766,2022020157,Shot,766,SHOT,Elias Pettersson Slap Shot saved by Mackenzie Blackwood,2022-11-02T04:30:16Z,3,18:26,01:34,2,4,23.0,Vancouver Canucks,VAN
+286,23,1,Vancouver Canucks,New Jersey Devils,2022020157767,2022020157,Missed Shot,767,MISSED_SHOT,Tanner Pearson Wide of Net Mackenzie Blackwood,2022-11-02T04:30:24Z,3,18:34,01:26,2,4,23.0,Vancouver Canucks,VAN
+287,23,1,Vancouver Canucks,New Jersey Devils,2022020157481,2022020157,Giveaway,481,GIVEAWAY,Giveaway by J.T. Miller,2022-11-02T04:30:45Z,3,18:55,01:05,2,4,23.0,Vancouver Canucks,VAN
+288,23,1,Vancouver Canucks,New Jersey Devils,2022020157769,2022020157,Goal,769,GOAL,"Jack Hughes (4) Wrist Shot, assists: Tomas Tatar (3)",2022-11-02T04:30:47Z,3,18:58,01:02,2,5,1.0,New Jersey Devils,NJD
+289,23,1,Vancouver Canucks,New Jersey Devils,2022020157482,2022020157,Faceoff,482,FACEOFF,Jack Studnicka faceoff won against Michael McLeod,2022-11-02T04:31:20Z,3,18:58,01:02,2,5,23.0,Vancouver Canucks,VAN
+290,23,1,Vancouver Canucks,New Jersey Devils,2022020157804,2022020157,Period End,804,PERIOD_END,End of 3rd Period,2022-11-02T04:32:23Z,3,20:00,00:00,2,5,,,
+291,23,1,Vancouver Canucks,New Jersey Devils,2022020157808,2022020157,Period Official,808,PERIOD_OFFICIAL,Period Official,2022-11-02T04:32:28Z,3,20:00,00:00,2,5,,,
+292,23,1,Vancouver Canucks,New Jersey Devils,2022020157809,2022020157,Game End,809,GAME_END,Game End,2022-11-02T04:32:30Z,3,20:00,00:00,2,5,,,
+293,23,1,Vancouver Canucks,New Jersey Devils,2022020157810,2022020157,Game Official,810,GAME_OFFICIAL,Game Official,2022-11-02T04:54:24Z,3,20:00,00:00,2,5,,,

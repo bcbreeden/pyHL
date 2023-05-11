@@ -1,0 +1,349 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,21,18,Colorado Avalanche,Nashville Predators,20220202191,2022020219,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-11-11T01:03:05Z,1,00:00,20:00,0,0,,,
+1,21,18,Colorado Avalanche,Nashville Predators,20220202195,2022020219,Period Ready,5,PERIOD_READY,Period Ready,2022-11-11T02:12:28Z,1,00:00,20:00,0,0,,,
+2,21,18,Colorado Avalanche,Nashville Predators,202202021951,2022020219,Period Start,51,PERIOD_START,Period Start,2022-11-11T02:13:05Z,1,00:00,20:00,0,0,,,
+3,21,18,Colorado Avalanche,Nashville Predators,202202021952,2022020219,Faceoff,52,FACEOFF,Mikael Granlund faceoff won against Nathan MacKinnon,2022-11-11T02:13:05Z,1,00:00,20:00,0,0,18.0,Nashville Predators,NSH
+4,21,18,Colorado Avalanche,Nashville Predators,202202021953,2022020219,Hit,53,HIT,Mikael Granlund hit Devon Toews,2022-11-11T02:13:23Z,1,00:18,19:42,0,0,18.0,Nashville Predators,NSH
+5,21,18,Colorado Avalanche,Nashville Predators,202202021954,2022020219,Giveaway,54,GIVEAWAY,Giveaway by Devon Toews,2022-11-11T02:13:24Z,1,00:19,19:41,0,0,21.0,Colorado Avalanche,COL
+6,21,18,Colorado Avalanche,Nashville Predators,20220202198,2022020219,Shot,8,SHOT,Mikko Rantanen Snap Shot saved by Kevin Lankinen,2022-11-11T02:13:30Z,1,00:25,19:35,0,0,21.0,Colorado Avalanche,COL
+7,21,18,Colorado Avalanche,Nashville Predators,202202021955,2022020219,Shot,55,SHOT,Jacob MacDonald Wrist Shot saved by Kevin Lankinen,2022-11-11T02:14:07Z,1,01:02,18:58,0,0,21.0,Colorado Avalanche,COL
+8,21,18,Colorado Avalanche,Nashville Predators,20220202199,2022020219,Stoppage,9,STOP,Goalie Stopped,2022-11-11T02:14:08Z,1,01:03,18:57,0,0,,,
+9,21,18,Colorado Avalanche,Nashville Predators,202202021956,2022020219,Faceoff,56,FACEOFF,Evan Rodrigues faceoff won against Colton Sissons,2022-11-11T02:14:52Z,1,01:03,18:57,0,0,21.0,Colorado Avalanche,COL
+10,21,18,Colorado Avalanche,Nashville Predators,202202021957,2022020219,Hit,57,HIT,Josh Manson hit Nino Niederreiter,2022-11-11T02:15:09Z,1,01:20,18:40,0,0,21.0,Colorado Avalanche,COL
+11,21,18,Colorado Avalanche,Nashville Predators,202202021910,2022020219,Hit,10,HIT,Ryan Johansen hit Martin Kaut,2022-11-11T02:15:28Z,1,01:39,18:21,0,0,18.0,Nashville Predators,NSH
+12,21,18,Colorado Avalanche,Nashville Predators,2022020219401,2022020219,Blocked Shot,401,BLOCKED_SHOT,Sampo Ranta shot blocked shot by Ryan McDonagh,2022-11-11T02:15:47Z,1,01:58,18:02,0,0,18.0,Nashville Predators,NSH
+13,21,18,Colorado Avalanche,Nashville Predators,202202021912,2022020219,Stoppage,12,STOP,Goalie Stopped,2022-11-11T02:15:55Z,1,02:07,17:53,0,0,,,
+14,21,18,Colorado Avalanche,Nashville Predators,202202021958,2022020219,Shot,58,SHOT,Shane Bowers Deflected saved by Kevin Lankinen,2022-11-11T02:15:55Z,1,02:07,17:53,0,0,21.0,Colorado Avalanche,COL
+15,21,18,Colorado Avalanche,Nashville Predators,202202021959,2022020219,Faceoff,59,FACEOFF,Mark Jankowski faceoff won against Sampo Ranta,2022-11-11T02:16:35Z,1,02:07,17:53,0,0,18.0,Nashville Predators,NSH
+16,21,18,Colorado Avalanche,Nashville Predators,202202021913,2022020219,Hit,13,HIT,Josh Manson hit Mark Jankowski,2022-11-11T02:16:57Z,1,02:29,17:31,0,0,21.0,Colorado Avalanche,COL
+17,21,18,Colorado Avalanche,Nashville Predators,202202021960,2022020219,Shot,60,SHOT,Mark Jankowski Wrist Shot saved by Alexandar Georgiev,2022-11-11T02:16:58Z,1,02:30,17:30,0,0,18.0,Nashville Predators,NSH
+18,21,18,Colorado Avalanche,Nashville Predators,202202021962,2022020219,Takeaway,62,TAKEAWAY,Takeaway by Nathan MacKinnon,2022-11-11T02:17:18Z,1,02:50,17:10,0,0,21.0,Colorado Avalanche,COL
+19,21,18,Colorado Avalanche,Nashville Predators,202202021963,2022020219,Shot,63,SHOT,Roman Josi Wrist Shot saved by Alexandar Georgiev,2022-11-11T02:17:30Z,1,03:02,16:58,0,0,18.0,Nashville Predators,NSH
+20,21,18,Colorado Avalanche,Nashville Predators,202202021964,2022020219,Missed Shot,64,MISSED_SHOT,Dante Fabbro Wide of Net Alexandar Georgiev,2022-11-11T02:17:38Z,1,03:10,16:50,0,0,18.0,Nashville Predators,NSH
+21,21,18,Colorado Avalanche,Nashville Predators,202202021914,2022020219,Stoppage,14,STOP,Goalie Stopped,2022-11-11T02:17:55Z,1,03:27,16:33,0,0,,,
+22,21,18,Colorado Avalanche,Nashville Predators,202202021965,2022020219,Shot,65,SHOT,Filip Forsberg Wrist Shot saved by Alexandar Georgiev,2022-11-11T02:17:55Z,1,03:27,16:33,0,0,18.0,Nashville Predators,NSH
+23,21,18,Colorado Avalanche,Nashville Predators,202202021966,2022020219,Faceoff,66,FACEOFF,Cody Glass faceoff won against Alex Newhook,2022-11-11T02:18:34Z,1,03:27,16:33,0,0,18.0,Nashville Predators,NSH
+24,21,18,Colorado Avalanche,Nashville Predators,202202021967,2022020219,Goal,67,GOAL,"Eeli Tolvanen (2) Wrist Shot, assists: Ryan McDonagh (5), Cody Glass (2)",2022-11-11T02:18:52Z,1,03:45,16:15,0,1,18.0,Nashville Predators,NSH
+25,21,18,Colorado Avalanche,Nashville Predators,202202021968,2022020219,Faceoff,68,FACEOFF,J.T. Compher faceoff won against Cody Glass,2022-11-11T02:19:33Z,1,03:45,16:15,0,1,21.0,Colorado Avalanche,COL
+26,21,18,Colorado Avalanche,Nashville Predators,202202021969,2022020219,Blocked Shot,69,BLOCKED_SHOT,Cale Makar shot blocked shot by Ryan McDonagh,2022-11-11T02:19:54Z,1,04:06,15:54,0,1,18.0,Nashville Predators,NSH
+27,21,18,Colorado Avalanche,Nashville Predators,202202021970,2022020219,Hit,70,HIT,Alexandre Carrier hit J.T. Compher,2022-11-11T02:20:14Z,1,04:26,15:34,0,1,18.0,Nashville Predators,NSH
+28,21,18,Colorado Avalanche,Nashville Predators,202202021971,2022020219,Shot,71,SHOT,Ryan Johansen Tip-In saved by Alexandar Georgiev,2022-11-11T02:20:17Z,1,04:29,15:31,0,1,18.0,Nashville Predators,NSH
+29,21,18,Colorado Avalanche,Nashville Predators,2022020219402,2022020219,Blocked Shot,402,BLOCKED_SHOT,Colton Sissons shot blocked shot by Josh Manson,2022-11-11T02:20:23Z,1,04:35,15:25,0,1,21.0,Colorado Avalanche,COL
+30,21,18,Colorado Avalanche,Nashville Predators,202202021915,2022020219,Giveaway,15,GIVEAWAY,Giveaway by Jacob MacDonald,2022-11-11T02:20:26Z,1,04:38,15:22,0,1,21.0,Colorado Avalanche,COL
+31,21,18,Colorado Avalanche,Nashville Predators,202202021972,2022020219,Shot,72,SHOT,Colton Sissons Wrist Shot saved by Alexandar Georgiev,2022-11-11T02:20:31Z,1,04:43,15:17,0,1,18.0,Nashville Predators,NSH
+32,21,18,Colorado Avalanche,Nashville Predators,202202021973,2022020219,Missed Shot,73,MISSED_SHOT,Alexandre Carrier Wide of Net Alexandar Georgiev,2022-11-11T02:20:38Z,1,04:50,15:10,0,1,18.0,Nashville Predators,NSH
+33,21,18,Colorado Avalanche,Nashville Predators,202202021916,2022020219,Hit,16,HIT,Jacob MacDonald hit Ryan Johansen,2022-11-11T02:20:48Z,1,05:00,15:00,0,1,21.0,Colorado Avalanche,COL
+34,21,18,Colorado Avalanche,Nashville Predators,202202021917,2022020219,Stoppage,17,STOP,Icing,2022-11-11T02:20:56Z,1,05:08,14:52,0,1,,,
+35,21,18,Colorado Avalanche,Nashville Predators,202202021975,2022020219,Faceoff,75,FACEOFF,Mark Jankowski faceoff won against Nathan MacKinnon,2022-11-11T02:21:24Z,1,05:08,14:52,0,1,18.0,Nashville Predators,NSH
+36,21,18,Colorado Avalanche,Nashville Predators,202202021918,2022020219,Stoppage,18,STOP,Goalie Stopped,2022-11-11T02:21:36Z,1,05:20,14:40,0,1,,,
+37,21,18,Colorado Avalanche,Nashville Predators,202202021976,2022020219,Shot,76,SHOT,Roman Josi Wrist Shot saved by Alexandar Georgiev,2022-11-11T02:21:36Z,1,05:20,14:40,0,1,18.0,Nashville Predators,NSH
+38,21,18,Colorado Avalanche,Nashville Predators,202202021977,2022020219,Faceoff,77,FACEOFF,Alex Newhook faceoff won against Mark Jankowski,2022-11-11T02:22:05Z,1,05:20,14:40,0,1,21.0,Colorado Avalanche,COL
+39,21,18,Colorado Avalanche,Nashville Predators,202202021978,2022020219,Shot,78,SHOT,Tanner Jeannot Wrist Shot saved by Alexandar Georgiev,2022-11-11T02:22:23Z,1,05:38,14:22,0,1,18.0,Nashville Predators,NSH
+40,21,18,Colorado Avalanche,Nashville Predators,202202021919,2022020219,Stoppage,19,STOP,Goalie Stopped,2022-11-11T02:22:25Z,1,05:40,14:20,0,1,,,
+41,21,18,Colorado Avalanche,Nashville Predators,202202021979,2022020219,Shot,79,SHOT,Yakov Trenin Backhand saved by Alexandar Georgiev,2022-11-11T02:22:25Z,1,05:40,14:20,0,1,18.0,Nashville Predators,NSH
+42,21,18,Colorado Avalanche,Nashville Predators,202202021980,2022020219,Faceoff,80,FACEOFF,J.T. Compher faceoff won against Mikael Granlund,2022-11-11T02:23:04Z,1,05:40,14:20,0,1,21.0,Colorado Avalanche,COL
+43,21,18,Colorado Avalanche,Nashville Predators,202202021981,2022020219,Takeaway,81,TAKEAWAY,Takeaway by Roman Josi,2022-11-11T02:23:12Z,1,05:48,14:12,0,1,18.0,Nashville Predators,NSH
+44,21,18,Colorado Avalanche,Nashville Predators,202202021920,2022020219,Giveaway,20,GIVEAWAY,Giveaway by Filip Forsberg,2022-11-11T02:23:36Z,1,06:12,13:48,0,1,18.0,Nashville Predators,NSH
+45,21,18,Colorado Avalanche,Nashville Predators,202202021982,2022020219,Hit,82,HIT,Ryan McDonagh hit Logan O'Connor,2022-11-11T02:23:41Z,1,06:17,13:43,0,1,18.0,Nashville Predators,NSH
+46,21,18,Colorado Avalanche,Nashville Predators,202202021983,2022020219,Shot,83,SHOT,Sampo Ranta Wrist Shot saved by Kevin Lankinen,2022-11-11T02:23:47Z,1,06:23,13:37,0,1,21.0,Colorado Avalanche,COL
+47,21,18,Colorado Avalanche,Nashville Predators,202202021984,2022020219,Shot,84,SHOT,Logan O'Connor Wrist Shot saved by Kevin Lankinen,2022-11-11T02:23:49Z,1,06:25,13:35,0,1,21.0,Colorado Avalanche,COL
+48,21,18,Colorado Avalanche,Nashville Predators,202202021985,2022020219,Stoppage,85,STOP,TV timeout,2022-11-11T02:23:52Z,1,06:29,13:31,0,1,,,
+49,21,18,Colorado Avalanche,Nashville Predators,2022020219154,2022020219,Penalty,154,PENALTY,Ryan McDonagh Cross-checking against J.T. Compher,2022-11-11T02:23:52Z,1,06:29,13:31,0,1,18.0,Nashville Predators,NSH
+50,21,18,Colorado Avalanche,Nashville Predators,202202021986,2022020219,Faceoff,86,FACEOFF,Colton Sissons faceoff won against Nathan MacKinnon,2022-11-11T02:26:15Z,1,06:29,13:31,0,1,18.0,Nashville Predators,NSH
+51,21,18,Colorado Avalanche,Nashville Predators,2022020219404,2022020219,Shot,404,SHOT,Nathan MacKinnon Slap Shot saved by Kevin Lankinen,2022-11-11T02:26:44Z,1,06:58,13:02,0,1,21.0,Colorado Avalanche,COL
+52,21,18,Colorado Avalanche,Nashville Predators,202202021987,2022020219,Shot,87,SHOT,Nathan MacKinnon Wrist Shot saved by Kevin Lankinen,2022-11-11T02:26:53Z,1,07:07,12:53,0,1,21.0,Colorado Avalanche,COL
+53,21,18,Colorado Avalanche,Nashville Predators,202202021988,2022020219,Stoppage,88,STOP,Puck in Netting,2022-11-11T02:26:54Z,1,07:08,12:52,0,1,,,
+54,21,18,Colorado Avalanche,Nashville Predators,202202021989,2022020219,Faceoff,89,FACEOFF,Mark Jankowski faceoff won against Mikko Rantanen,2022-11-11T02:27:19Z,1,07:08,12:52,0,1,18.0,Nashville Predators,NSH
+55,21,18,Colorado Avalanche,Nashville Predators,202202021990,2022020219,Shot,90,SHOT,Artturi Lehkonen Wrist Shot saved by Kevin Lankinen,2022-11-11T02:27:38Z,1,07:27,12:33,0,1,21.0,Colorado Avalanche,COL
+56,21,18,Colorado Avalanche,Nashville Predators,202202021991,2022020219,Shot,91,SHOT,Nathan MacKinnon Slap Shot saved by Kevin Lankinen,2022-11-11T02:27:44Z,1,07:33,12:27,0,1,21.0,Colorado Avalanche,COL
+57,21,18,Colorado Avalanche,Nashville Predators,202202021992,2022020219,Goal,92,GOAL,"Mikko Rantanen (8) Snap Shot, assists: Nathan MacKinnon (17), Artturi Lehkonen (5)",2022-11-11T02:27:49Z,1,07:37,12:23,1,1,21.0,Colorado Avalanche,COL
+58,21,18,Colorado Avalanche,Nashville Predators,2022020219252,2022020219,Faceoff,252,FACEOFF,J.T. Compher faceoff won against Mikael Granlund,2022-11-11T02:28:35Z,1,07:37,12:23,1,1,21.0,Colorado Avalanche,COL
+59,21,18,Colorado Avalanche,Nashville Predators,202202021924,2022020219,Giveaway,24,GIVEAWAY,Giveaway by Logan O'Connor,2022-11-11T02:28:54Z,1,07:56,12:04,1,1,21.0,Colorado Avalanche,COL
+60,21,18,Colorado Avalanche,Nashville Predators,202202021993,2022020219,Hit,93,HIT,Josh Manson hit Matt Duchene,2022-11-11T02:29:00Z,1,08:02,11:58,1,1,21.0,Colorado Avalanche,COL
+61,21,18,Colorado Avalanche,Nashville Predators,202202021994,2022020219,Shot,94,SHOT,Mikael Granlund Wrist Shot saved by Alexandar Georgiev,2022-11-11T02:29:11Z,1,08:13,11:47,1,1,18.0,Nashville Predators,NSH
+62,21,18,Colorado Avalanche,Nashville Predators,202202021925,2022020219,Stoppage,25,STOP,Puck in Netting,2022-11-11T02:29:12Z,1,08:14,11:46,1,1,,,
+63,21,18,Colorado Avalanche,Nashville Predators,202202021995,2022020219,Faceoff,95,FACEOFF,Ryan Johansen faceoff won against Evan Rodrigues,2022-11-11T02:29:44Z,1,08:14,11:46,1,1,18.0,Nashville Predators,NSH
+64,21,18,Colorado Avalanche,Nashville Predators,202202021996,2022020219,Shot,96,SHOT,Ryan McDonagh Slap Shot saved by Alexandar Georgiev,2022-11-11T02:29:48Z,1,08:18,11:42,1,1,18.0,Nashville Predators,NSH
+65,21,18,Colorado Avalanche,Nashville Predators,202202021926,2022020219,Blocked Shot,26,BLOCKED_SHOT,Ryan Johansen shot blocked shot by Alex Newhook,2022-11-11T02:29:54Z,1,08:24,11:36,1,1,21.0,Colorado Avalanche,COL
+66,21,18,Colorado Avalanche,Nashville Predators,2022020219253,2022020219,Hit,253,HIT,Kurtis MacDermid hit Nino Niederreiter,2022-11-11T02:29:57Z,1,08:27,11:33,1,1,21.0,Colorado Avalanche,COL
+67,21,18,Colorado Avalanche,Nashville Predators,202202021997,2022020219,Hit,97,HIT,Jeremy Lauzon hit Alex Newhook,2022-11-11T02:30:03Z,1,08:33,11:27,1,1,18.0,Nashville Predators,NSH
+68,21,18,Colorado Avalanche,Nashville Predators,202202021928,2022020219,Stoppage,28,STOP,Goalie Stopped,2022-11-11T02:30:19Z,1,08:49,11:11,1,1,,,
+69,21,18,Colorado Avalanche,Nashville Predators,202202021998,2022020219,Shot,98,SHOT,Erik Johnson Wrist Shot saved by Kevin Lankinen,2022-11-11T02:30:19Z,1,08:49,11:11,1,1,21.0,Colorado Avalanche,COL
+70,21,18,Colorado Avalanche,Nashville Predators,202202021999,2022020219,Faceoff,99,FACEOFF,Mark Jankowski faceoff won against Shane Bowers,2022-11-11T02:30:50Z,1,08:49,11:11,1,1,18.0,Nashville Predators,NSH
+71,21,18,Colorado Avalanche,Nashville Predators,2022020219100,2022020219,Shot,100,SHOT,Sampo Ranta Wrist Shot saved by Kevin Lankinen,2022-11-11T02:30:53Z,1,08:52,11:08,1,1,21.0,Colorado Avalanche,COL
+72,21,18,Colorado Avalanche,Nashville Predators,2022020219201,2022020219,Shot,201,SHOT,Jacob MacDonald Wrist Shot saved by Kevin Lankinen,2022-11-11T02:31:00Z,1,08:59,11:01,1,1,21.0,Colorado Avalanche,COL
+73,21,18,Colorado Avalanche,Nashville Predators,2022020219254,2022020219,Hit,254,HIT,Tanner Jeannot hit Josh Manson,2022-11-11T02:31:02Z,1,09:01,10:59,1,1,18.0,Nashville Predators,NSH
+74,21,18,Colorado Avalanche,Nashville Predators,2022020219202,2022020219,Blocked Shot,202,BLOCKED_SHOT,Mattias Ekholm shot blocked shot by Josh Manson,2022-11-11T02:31:18Z,1,09:17,10:43,1,1,21.0,Colorado Avalanche,COL
+75,21,18,Colorado Avalanche,Nashville Predators,2022020219255,2022020219,Hit,255,HIT,Alexandre Carrier hit Sampo Ranta,2022-11-11T02:31:21Z,1,09:20,10:40,1,1,18.0,Nashville Predators,NSH
+76,21,18,Colorado Avalanche,Nashville Predators,202202021930,2022020219,Stoppage,30,STOP,Icing,2022-11-11T02:31:34Z,1,09:32,10:28,1,1,,,
+77,21,18,Colorado Avalanche,Nashville Predators,2022020219203,2022020219,Faceoff,203,FACEOFF,Mark Jankowski faceoff won against Mikko Rantanen,2022-11-11T02:32:09Z,1,09:32,10:28,1,1,18.0,Nashville Predators,NSH
+78,21,18,Colorado Avalanche,Nashville Predators,202202021932,2022020219,Missed Shot,32,MISSED_SHOT,Devon Toews Wide of Net Kevin Lankinen,2022-11-11T02:32:18Z,1,09:41,10:19,1,1,21.0,Colorado Avalanche,COL
+79,21,18,Colorado Avalanche,Nashville Predators,2022020219256,2022020219,Hit,256,HIT,Logan O'Connor hit Eeli Tolvanen,2022-11-11T02:33:26Z,1,10:49,09:11,1,1,21.0,Colorado Avalanche,COL
+80,21,18,Colorado Avalanche,Nashville Predators,202202021933,2022020219,Hit,33,HIT,Cole Smith hit Andrew Cogliano,2022-11-11T02:33:27Z,1,10:50,09:10,1,1,18.0,Nashville Predators,NSH
+81,21,18,Colorado Avalanche,Nashville Predators,202202021934,2022020219,Stoppage,34,STOP,Icing,2022-11-11T02:33:58Z,1,11:21,08:39,1,1,,,
+82,21,18,Colorado Avalanche,Nashville Predators,2022020219207,2022020219,Faceoff,207,FACEOFF,Ryan Johansen faceoff won against Evan Rodrigues,2022-11-11T02:34:34Z,1,11:21,08:39,1,1,18.0,Nashville Predators,NSH
+83,21,18,Colorado Avalanche,Nashville Predators,202202021935,2022020219,Stoppage,35,STOP,Icing,2022-11-11T02:34:41Z,1,11:28,08:32,1,1,,,
+84,21,18,Colorado Avalanche,Nashville Predators,2022020219208,2022020219,Faceoff,208,FACEOFF,Ryan Johansen faceoff won against Alex Newhook,2022-11-11T02:35:04Z,1,11:28,08:32,1,1,18.0,Nashville Predators,NSH
+85,21,18,Colorado Avalanche,Nashville Predators,2022020219209,2022020219,Missed Shot,209,MISSED_SHOT,Colton Sissons Wide of Net Alexandar Georgiev,2022-11-11T02:35:15Z,1,11:39,08:21,1,1,18.0,Nashville Predators,NSH
+86,21,18,Colorado Avalanche,Nashville Predators,202202021936,2022020219,Stoppage,36,STOP,Offside,2022-11-11T02:35:26Z,1,11:50,08:10,1,1,,,
+87,21,18,Colorado Avalanche,Nashville Predators,2022020219210,2022020219,Faceoff,210,FACEOFF,Nathan MacKinnon faceoff won against Matt Duchene,2022-11-11T02:37:45Z,1,11:50,08:10,1,1,21.0,Colorado Avalanche,COL
+88,21,18,Colorado Avalanche,Nashville Predators,202202021937,2022020219,Stoppage,37,STOP,Icing,2022-11-11T02:37:52Z,1,11:57,08:03,1,1,,,
+89,21,18,Colorado Avalanche,Nashville Predators,2022020219211,2022020219,Faceoff,211,FACEOFF,Nathan MacKinnon faceoff won against Mikael Granlund,2022-11-11T02:38:16Z,1,11:57,08:03,1,1,21.0,Colorado Avalanche,COL
+90,21,18,Colorado Avalanche,Nashville Predators,202202021938,2022020219,Stoppage,38,STOP,Offside,2022-11-11T02:38:27Z,1,12:08,07:52,1,1,,,
+91,21,18,Colorado Avalanche,Nashville Predators,2022020219212,2022020219,Faceoff,212,FACEOFF,Nathan MacKinnon faceoff won against Mikael Granlund,2022-11-11T02:38:57Z,1,12:08,07:52,1,1,21.0,Colorado Avalanche,COL
+92,21,18,Colorado Avalanche,Nashville Predators,202202021939,2022020219,Stoppage,39,STOP,Icing,2022-11-11T02:39:16Z,1,12:28,07:32,1,1,,,
+93,21,18,Colorado Avalanche,Nashville Predators,2022020219213,2022020219,Faceoff,213,FACEOFF,Nathan MacKinnon faceoff won against Mark Jankowski,2022-11-11T02:39:39Z,1,12:28,07:32,1,1,21.0,Colorado Avalanche,COL
+94,21,18,Colorado Avalanche,Nashville Predators,2022020219257,2022020219,Hit,257,HIT,Yakov Trenin hit Erik Johnson,2022-11-11T02:39:55Z,1,12:44,07:16,1,1,18.0,Nashville Predators,NSH
+95,21,18,Colorado Avalanche,Nashville Predators,202202021940,2022020219,Stoppage,40,STOP,Puck in Benches,2022-11-11T02:40:00Z,1,12:48,07:12,1,1,,,
+96,21,18,Colorado Avalanche,Nashville Predators,2022020219214,2022020219,Faceoff,214,FACEOFF,Mark Jankowski faceoff won against Shane Bowers,2022-11-11T02:40:31Z,1,12:48,07:12,1,1,18.0,Nashville Predators,NSH
+97,21,18,Colorado Avalanche,Nashville Predators,2022020219258,2022020219,Hit,258,HIT,Tanner Jeannot hit Shane Bowers,2022-11-11T02:40:58Z,1,13:15,06:45,1,1,18.0,Nashville Predators,NSH
+98,21,18,Colorado Avalanche,Nashville Predators,2022020219215,2022020219,Missed Shot,215,MISSED_SHOT,Sampo Ranta Over Net Kevin Lankinen,2022-11-11T02:41:03Z,1,13:20,06:40,1,1,21.0,Colorado Avalanche,COL
+99,21,18,Colorado Avalanche,Nashville Predators,202202021941,2022020219,Stoppage,41,STOP,Referee or Linesman,2022-11-11T02:41:04Z,1,13:22,06:38,1,1,,,
+100,21,18,Colorado Avalanche,Nashville Predators,2022020219216,2022020219,Faceoff,216,FACEOFF,J.T. Compher faceoff won against Cody Glass,2022-11-11T02:41:44Z,1,13:22,06:38,1,1,21.0,Colorado Avalanche,COL
+101,21,18,Colorado Avalanche,Nashville Predators,2022020219259,2022020219,Hit,259,HIT,Eeli Tolvanen hit Jacob MacDonald,2022-11-11T02:42:04Z,1,13:42,06:18,1,1,18.0,Nashville Predators,NSH
+102,21,18,Colorado Avalanche,Nashville Predators,202202021942,2022020219,Stoppage,42,STOP,Offside,2022-11-11T02:42:22Z,1,14:00,06:00,1,1,,,
+103,21,18,Colorado Avalanche,Nashville Predators,2022020219217,2022020219,Faceoff,217,FACEOFF,Ryan Johansen faceoff won against Alex Newhook,2022-11-11T02:42:51Z,1,14:00,06:00,1,1,18.0,Nashville Predators,NSH
+104,21,18,Colorado Avalanche,Nashville Predators,202202021944,2022020219,Giveaway,44,GIVEAWAY,Giveaway by Evan Rodrigues,2022-11-11T02:43:18Z,1,14:27,05:33,1,1,21.0,Colorado Avalanche,COL
+105,21,18,Colorado Avalanche,Nashville Predators,202202021945,2022020219,Stoppage,45,STOP,Icing,2022-11-11T02:43:24Z,1,14:34,05:26,1,1,,,
+106,21,18,Colorado Avalanche,Nashville Predators,2022020219219,2022020219,Faceoff,219,FACEOFF,Evan Rodrigues faceoff won against Matt Duchene,2022-11-11T02:43:47Z,1,14:34,05:26,1,1,21.0,Colorado Avalanche,COL
+107,21,18,Colorado Avalanche,Nashville Predators,2022020219220,2022020219,Hit,220,HIT,Mikael Granlund hit Alex Newhook,2022-11-11T02:44:02Z,1,14:49,05:11,1,1,18.0,Nashville Predators,NSH
+108,21,18,Colorado Avalanche,Nashville Predators,202202021946,2022020219,Takeaway,46,TAKEAWAY,Takeaway by Nathan MacKinnon,2022-11-11T02:44:08Z,1,14:55,05:05,1,1,21.0,Colorado Avalanche,COL
+109,21,18,Colorado Avalanche,Nashville Predators,2022020219221,2022020219,Shot,221,SHOT,Nathan MacKinnon Wrist Shot saved by Kevin Lankinen,2022-11-11T02:44:10Z,1,14:57,05:03,1,1,21.0,Colorado Avalanche,COL
+110,21,18,Colorado Avalanche,Nashville Predators,2022020219222,2022020219,Shot,222,SHOT,Mikko Rantanen Tip-In saved by Kevin Lankinen,2022-11-11T02:44:14Z,1,15:01,04:59,1,1,21.0,Colorado Avalanche,COL
+111,21,18,Colorado Avalanche,Nashville Predators,202202021947,2022020219,Stoppage,47,STOP,Icing,2022-11-11T02:44:20Z,1,15:07,04:53,1,1,,,
+112,21,18,Colorado Avalanche,Nashville Predators,2022020219223,2022020219,Faceoff,223,FACEOFF,Mikko Rantanen faceoff won against Mikael Granlund,2022-11-11T02:44:47Z,1,15:07,04:53,1,1,21.0,Colorado Avalanche,COL
+113,21,18,Colorado Avalanche,Nashville Predators,2022020219224,2022020219,Missed Shot,224,MISSED_SHOT,Cale Makar Wide of Net Kevin Lankinen,2022-11-11T02:44:56Z,1,15:16,04:44,1,1,21.0,Colorado Avalanche,COL
+114,21,18,Colorado Avalanche,Nashville Predators,2022020219225,2022020219,Shot,225,SHOT,Cale Makar Snap Shot saved by Kevin Lankinen,2022-11-11T02:45:03Z,1,15:23,04:37,1,1,21.0,Colorado Avalanche,COL
+115,21,18,Colorado Avalanche,Nashville Predators,2022020219226,2022020219,Shot,226,SHOT,Nathan MacKinnon Slap Shot saved by Kevin Lankinen,2022-11-11T02:45:13Z,1,15:33,04:27,1,1,21.0,Colorado Avalanche,COL
+116,21,18,Colorado Avalanche,Nashville Predators,202202021948,2022020219,Stoppage,48,STOP,Goalie Stopped,2022-11-11T02:45:35Z,1,15:56,04:04,1,1,,,
+117,21,18,Colorado Avalanche,Nashville Predators,2022020219227,2022020219,Shot,227,SHOT,Yakov Trenin Wrist Shot saved by Alexandar Georgiev,2022-11-11T02:45:35Z,1,15:56,04:04,1,1,18.0,Nashville Predators,NSH
+118,21,18,Colorado Avalanche,Nashville Predators,2022020219228,2022020219,Faceoff,228,FACEOFF,Mark Jankowski faceoff won against J.T. Compher,2022-11-11T02:48:17Z,1,15:56,04:04,1,1,18.0,Nashville Predators,NSH
+119,21,18,Colorado Avalanche,Nashville Predators,2022020219260,2022020219,Hit,260,HIT,Roman Josi hit Logan O'Connor,2022-11-11T02:48:26Z,1,16:05,03:55,1,1,18.0,Nashville Predators,NSH
+120,21,18,Colorado Avalanche,Nashville Predators,2022020219261,2022020219,Hit,261,HIT,Dante Fabbro hit J.T. Compher,2022-11-11T02:48:29Z,1,16:08,03:52,1,1,18.0,Nashville Predators,NSH
+121,21,18,Colorado Avalanche,Nashville Predators,2022020219262,2022020219,Hit,262,HIT,Colton Sissons hit Jacob MacDonald,2022-11-11T02:49:19Z,1,16:58,03:02,1,1,18.0,Nashville Predators,NSH
+122,21,18,Colorado Avalanche,Nashville Predators,2022020219229,2022020219,Missed Shot,229,MISSED_SHOT,Alex Newhook Wide of Net Kevin Lankinen,2022-11-11T02:49:24Z,1,17:03,02:57,1,1,21.0,Colorado Avalanche,COL
+123,21,18,Colorado Avalanche,Nashville Predators,202202021949,2022020219,Takeaway,49,TAKEAWAY,Takeaway by Ryan McDonagh,2022-11-11T02:49:36Z,1,17:15,02:45,1,1,18.0,Nashville Predators,NSH
+124,21,18,Colorado Avalanche,Nashville Predators,2022020219263,2022020219,Hit,263,HIT,Colton Sissons hit Jacob MacDonald,2022-11-11T02:49:37Z,1,17:16,02:44,1,1,18.0,Nashville Predators,NSH
+125,21,18,Colorado Avalanche,Nashville Predators,2022020219264,2022020219,Hit,264,HIT,Josh Manson hit Nino Niederreiter,2022-11-11T02:49:52Z,1,17:31,02:29,1,1,21.0,Colorado Avalanche,COL
+126,21,18,Colorado Avalanche,Nashville Predators,2022020219231,2022020219,Shot,231,SHOT,Colton Sissons Wrist Shot saved by Alexandar Georgiev,2022-11-11T02:49:53Z,1,17:32,02:28,1,1,18.0,Nashville Predators,NSH
+127,21,18,Colorado Avalanche,Nashville Predators,2022020219232,2022020219,Shot,232,SHOT,Evan Rodrigues Backhand saved by Kevin Lankinen,2022-11-11T02:50:01Z,1,17:40,02:20,1,1,21.0,Colorado Avalanche,COL
+128,21,18,Colorado Avalanche,Nashville Predators,2022020219233,2022020219,Shot,233,SHOT,Matt Duchene Snap Shot saved by Alexandar Georgiev,2022-11-11T02:50:16Z,1,17:55,02:05,1,1,18.0,Nashville Predators,NSH
+129,21,18,Colorado Avalanche,Nashville Predators,2022020219405,2022020219,Blocked Shot,405,BLOCKED_SHOT,Mikael Granlund shot blocked shot by Devon Toews,2022-11-11T02:50:19Z,1,17:58,02:02,1,1,21.0,Colorado Avalanche,COL
+130,21,18,Colorado Avalanche,Nashville Predators,2022020219265,2022020219,Hit,265,HIT,Mattias Ekholm hit Artturi Lehkonen,2022-11-11T02:50:23Z,1,18:02,01:58,1,1,18.0,Nashville Predators,NSH
+131,21,18,Colorado Avalanche,Nashville Predators,202202021950,2022020219,Blocked Shot,50,BLOCKED_SHOT,Filip Forsberg shot blocked shot by Cale Makar,2022-11-11T02:50:31Z,1,18:10,01:50,1,1,21.0,Colorado Avalanche,COL
+132,21,18,Colorado Avalanche,Nashville Predators,2022020219234,2022020219,Stoppage,234,STOP,Puck in Netting,2022-11-11T02:50:31Z,1,18:11,01:49,1,1,,,
+133,21,18,Colorado Avalanche,Nashville Predators,2022020219235,2022020219,Faceoff,235,FACEOFF,Nathan MacKinnon faceoff won against Mikael Granlund,2022-11-11T02:50:54Z,1,18:11,01:49,1,1,21.0,Colorado Avalanche,COL
+134,21,18,Colorado Avalanche,Nashville Predators,2022020219301,2022020219,Stoppage,301,STOP,Hand Pass,2022-11-11T02:51:00Z,1,18:17,01:43,1,1,,,
+135,21,18,Colorado Avalanche,Nashville Predators,2022020219236,2022020219,Faceoff,236,FACEOFF,Nathan MacKinnon faceoff won against Mikael Granlund,2022-11-11T02:51:21Z,1,18:17,01:43,1,1,21.0,Colorado Avalanche,COL
+136,21,18,Colorado Avalanche,Nashville Predators,2022020219302,2022020219,Blocked Shot,302,BLOCKED_SHOT,Cale Makar shot blocked shot by Filip Forsberg,2022-11-11T02:51:51Z,1,18:47,01:13,1,1,18.0,Nashville Predators,NSH
+137,21,18,Colorado Avalanche,Nashville Predators,2022020219237,2022020219,Giveaway,237,GIVEAWAY,Giveaway by Nathan MacKinnon,2022-11-11T02:51:56Z,1,18:52,01:08,1,1,21.0,Colorado Avalanche,COL
+138,21,18,Colorado Avalanche,Nashville Predators,2022020219394,2022020219,Penalty,394,PENALTY,Filip Forsberg Slashing against Nathan MacKinnon,2022-11-11T02:51:57Z,1,18:53,01:07,1,1,18.0,Nashville Predators,NSH
+139,21,18,Colorado Avalanche,Nashville Predators,2022020219238,2022020219,Faceoff,238,FACEOFF,Nathan MacKinnon faceoff won against Colton Sissons,2022-11-11T02:52:39Z,1,18:53,01:07,1,1,21.0,Colorado Avalanche,COL
+140,21,18,Colorado Avalanche,Nashville Predators,2022020219239,2022020219,Shot,239,SHOT,Mikko Rantanen Snap Shot saved by Kevin Lankinen,2022-11-11T02:52:45Z,1,18:59,01:01,1,1,21.0,Colorado Avalanche,COL
+141,21,18,Colorado Avalanche,Nashville Predators,2022020219240,2022020219,Shot,240,SHOT,Evan Rodrigues Wrist Shot saved by Kevin Lankinen,2022-11-11T02:52:46Z,1,19:00,01:00,1,1,21.0,Colorado Avalanche,COL
+142,21,18,Colorado Avalanche,Nashville Predators,2022020219303,2022020219,Stoppage,303,STOP,Puck in Netting,2022-11-11T02:52:48Z,1,19:01,00:59,1,1,,,
+143,21,18,Colorado Avalanche,Nashville Predators,2022020219241,2022020219,Faceoff,241,FACEOFF,Colton Sissons faceoff won against Nathan MacKinnon,2022-11-11T02:53:19Z,1,19:01,00:59,1,1,18.0,Nashville Predators,NSH
+144,21,18,Colorado Avalanche,Nashville Predators,2022020219242,2022020219,Shot,242,SHOT,Nathan MacKinnon Slap Shot saved by Kevin Lankinen,2022-11-11T02:53:30Z,1,19:12,00:48,1,1,21.0,Colorado Avalanche,COL
+145,21,18,Colorado Avalanche,Nashville Predators,2022020219304,2022020219,Stoppage,304,STOP,Goalie Stopped,2022-11-11T02:53:32Z,1,19:14,00:46,1,1,,,
+146,21,18,Colorado Avalanche,Nashville Predators,2022020219243,2022020219,Faceoff,243,FACEOFF,Colton Sissons faceoff won against Mikko Rantanen,2022-11-11T02:53:57Z,1,19:14,00:46,1,1,18.0,Nashville Predators,NSH
+147,21,18,Colorado Avalanche,Nashville Predators,2022020219305,2022020219,Hit,305,HIT,Artturi Lehkonen hit Jeremy Lauzon,2022-11-11T02:54:06Z,1,19:23,00:37,1,1,21.0,Colorado Avalanche,COL
+148,21,18,Colorado Avalanche,Nashville Predators,2022020219306,2022020219,Blocked Shot,306,BLOCKED_SHOT,Cale Makar shot blocked shot by Yakov Trenin,2022-11-11T02:54:43Z,1,20:00,00:00,1,1,18.0,Nashville Predators,NSH
+149,21,18,Colorado Avalanche,Nashville Predators,2022020219307,2022020219,Period End,307,PERIOD_END,End of 1st Period,2022-11-11T02:54:43Z,1,20:00,00:00,1,1,,,
+150,21,18,Colorado Avalanche,Nashville Predators,2022020219310,2022020219,Period Official,310,PERIOD_OFFICIAL,Period Official,2022-11-11T03:11:42Z,1,20:00,00:00,1,1,,,
+151,21,18,Colorado Avalanche,Nashville Predators,2022020219311,2022020219,Period Ready,311,PERIOD_READY,Period Ready,2022-11-11T03:11:52Z,2,00:00,20:00,1,1,,,
+152,21,18,Colorado Avalanche,Nashville Predators,2022020219244,2022020219,Period Start,244,PERIOD_START,Period Start,2022-11-11T03:13:33Z,2,00:00,20:00,1,1,,,
+153,21,18,Colorado Avalanche,Nashville Predators,2022020219245,2022020219,Faceoff,245,FACEOFF,Mikko Rantanen faceoff won against Colton Sissons,2022-11-11T03:13:33Z,2,00:00,20:00,1,1,21.0,Colorado Avalanche,COL
+154,21,18,Colorado Avalanche,Nashville Predators,2022020219246,2022020219,Shot,246,SHOT,Artturi Lehkonen Tip-In saved by Kevin Lankinen,2022-11-11T03:14:10Z,2,00:37,19:23,1,1,21.0,Colorado Avalanche,COL
+155,21,18,Colorado Avalanche,Nashville Predators,2022020219312,2022020219,Stoppage,312,STOP,Goalie Stopped,2022-11-11T03:14:11Z,2,00:38,19:22,1,1,,,
+156,21,18,Colorado Avalanche,Nashville Predators,2022020219247,2022020219,Faceoff,247,FACEOFF,Mark Jankowski faceoff won against Nathan MacKinnon,2022-11-11T03:14:37Z,2,00:38,19:22,1,1,18.0,Nashville Predators,NSH
+157,21,18,Colorado Avalanche,Nashville Predators,2022020219313,2022020219,Blocked Shot,313,BLOCKED_SHOT,Filip Forsberg shot blocked shot by Devon Toews,2022-11-11T03:15:07Z,2,01:08,18:52,1,1,21.0,Colorado Avalanche,COL
+158,21,18,Colorado Avalanche,Nashville Predators,2022020219406,2022020219,Missed Shot,406,MISSED_SHOT,Matt Duchene Wide of Net Alexandar Georgiev,2022-11-11T03:15:16Z,2,01:17,18:43,1,1,18.0,Nashville Predators,NSH
+159,21,18,Colorado Avalanche,Nashville Predators,2022020219266,2022020219,Hit,266,HIT,Andrew Cogliano hit Dante Fabbro,2022-11-11T03:15:22Z,2,01:23,18:37,1,1,21.0,Colorado Avalanche,COL
+160,21,18,Colorado Avalanche,Nashville Predators,2022020219248,2022020219,Shot,248,SHOT,Alex Newhook Wrist Shot saved by Kevin Lankinen,2022-11-11T03:15:51Z,2,01:52,18:08,1,1,21.0,Colorado Avalanche,COL
+161,21,18,Colorado Avalanche,Nashville Predators,2022020219249,2022020219,Hit,249,HIT,Colton Sissons hit Martin Kaut,2022-11-11T03:16:06Z,2,02:07,17:53,1,1,18.0,Nashville Predators,NSH
+162,21,18,Colorado Avalanche,Nashville Predators,2022020219267,2022020219,Hit,267,HIT,Josh Manson hit Jeremy Lauzon,2022-11-11T03:16:47Z,2,02:48,17:12,1,1,21.0,Colorado Avalanche,COL
+163,21,18,Colorado Avalanche,Nashville Predators,2022020219314,2022020219,Takeaway,314,TAKEAWAY,Takeaway by Cody Glass,2022-11-11T03:16:59Z,2,03:00,17:00,1,1,18.0,Nashville Predators,NSH
+164,21,18,Colorado Avalanche,Nashville Predators,2022020219315,2022020219,Blocked Shot,315,BLOCKED_SHOT,Roman Josi shot blocked shot by Cale Makar,2022-11-11T03:16:59Z,2,03:00,17:00,1,1,21.0,Colorado Avalanche,COL
+165,21,18,Colorado Avalanche,Nashville Predators,2022020219250,2022020219,Shot,250,SHOT,Cody Glass Wrist Shot saved by Alexandar Georgiev,2022-11-11T03:17:01Z,2,03:02,16:58,1,1,18.0,Nashville Predators,NSH
+166,21,18,Colorado Avalanche,Nashville Predators,2022020219316,2022020219,Stoppage,316,STOP,Goalie Stopped,2022-11-11T03:17:23Z,2,03:25,16:35,1,1,,,
+167,21,18,Colorado Avalanche,Nashville Predators,2022020219451,2022020219,Shot,451,SHOT,Eeli Tolvanen Backhand saved by Alexandar Georgiev,2022-11-11T03:17:23Z,2,03:25,16:35,1,1,18.0,Nashville Predators,NSH
+168,21,18,Colorado Avalanche,Nashville Predators,2022020219452,2022020219,Faceoff,452,FACEOFF,J.T. Compher faceoff won against Mikael Granlund,2022-11-11T03:18:00Z,2,03:25,16:35,1,1,21.0,Colorado Avalanche,COL
+169,21,18,Colorado Avalanche,Nashville Predators,2022020219268,2022020219,Hit,268,HIT,Erik Johnson hit Filip Forsberg,2022-11-11T03:18:23Z,2,03:48,16:12,1,1,21.0,Colorado Avalanche,COL
+170,21,18,Colorado Avalanche,Nashville Predators,2022020219269,2022020219,Hit,269,HIT,Andrew Cogliano hit Dante Fabbro,2022-11-11T03:18:31Z,2,03:56,16:04,1,1,21.0,Colorado Avalanche,COL
+171,21,18,Colorado Avalanche,Nashville Predators,2022020219317,2022020219,Stoppage,317,STOP,Goalie Stopped,2022-11-11T03:19:03Z,2,04:28,15:32,1,1,,,
+172,21,18,Colorado Avalanche,Nashville Predators,2022020219453,2022020219,Shot,453,SHOT,Martin Kaut Snap Shot saved by Kevin Lankinen,2022-11-11T03:19:03Z,2,04:28,15:32,1,1,21.0,Colorado Avalanche,COL
+173,21,18,Colorado Avalanche,Nashville Predators,2022020219454,2022020219,Faceoff,454,FACEOFF,Mark Jankowski faceoff won against Alex Newhook,2022-11-11T03:19:38Z,2,04:28,15:32,1,1,18.0,Nashville Predators,NSH
+174,21,18,Colorado Avalanche,Nashville Predators,2022020219318,2022020219,Blocked Shot,318,BLOCKED_SHOT,Martin Kaut shot blocked shot by Mattias Ekholm,2022-11-11T03:20:12Z,2,05:02,14:58,1,1,18.0,Nashville Predators,NSH
+175,21,18,Colorado Avalanche,Nashville Predators,2022020219455,2022020219,Takeaway,455,TAKEAWAY,Takeaway by Mikko Rantanen,2022-11-11T03:20:39Z,2,05:29,14:31,1,1,21.0,Colorado Avalanche,COL
+176,21,18,Colorado Avalanche,Nashville Predators,2022020219319,2022020219,Hit,319,HIT,Jeremy Lauzon hit Nathan MacKinnon,2022-11-11T03:20:58Z,2,05:48,14:12,1,1,18.0,Nashville Predators,NSH
+177,21,18,Colorado Avalanche,Nashville Predators,2022020219456,2022020219,Takeaway,456,TAKEAWAY,Takeaway by Josh Manson,2022-11-11T03:21:13Z,2,06:03,13:57,1,1,21.0,Colorado Avalanche,COL
+178,21,18,Colorado Avalanche,Nashville Predators,2022020219457,2022020219,Shot,457,SHOT,Andrew Cogliano Wrist Shot saved by Kevin Lankinen,2022-11-11T03:21:17Z,2,06:07,13:53,1,1,21.0,Colorado Avalanche,COL
+179,21,18,Colorado Avalanche,Nashville Predators,2022020219271,2022020219,Hit,271,HIT,Jeremy Lauzon hit Josh Manson,2022-11-11T03:21:28Z,2,06:18,13:42,1,1,18.0,Nashville Predators,NSH
+180,21,18,Colorado Avalanche,Nashville Predators,2022020219458,2022020219,Goal,458,GOAL,"Logan O'Connor (4) Tip-In, assists: Devon Toews (8), J.T. Compher (2)",2022-11-11T03:21:43Z,2,06:34,13:26,2,1,21.0,Colorado Avalanche,COL
+181,21,18,Colorado Avalanche,Nashville Predators,2022020219272,2022020219,Faceoff,272,FACEOFF,Nathan MacKinnon faceoff won against Cody Glass,2022-11-11T03:22:25Z,2,06:34,13:26,2,1,21.0,Colorado Avalanche,COL
+182,21,18,Colorado Avalanche,Nashville Predators,2022020219320,2022020219,Blocked Shot,320,BLOCKED_SHOT,Evan Rodrigues shot blocked shot by Roman Josi,2022-11-11T03:23:08Z,2,07:17,12:43,2,1,18.0,Nashville Predators,NSH
+183,21,18,Colorado Avalanche,Nashville Predators,2022020219321,2022020219,Stoppage,321,STOP,Offside,2022-11-11T03:23:21Z,2,07:30,12:30,2,1,,,
+184,21,18,Colorado Avalanche,Nashville Predators,2022020219459,2022020219,Faceoff,459,FACEOFF,Matt Duchene faceoff won against J.T. Compher,2022-11-11T03:25:33Z,2,07:30,12:30,2,1,18.0,Nashville Predators,NSH
+185,21,18,Colorado Avalanche,Nashville Predators,2022020219322,2022020219,Stoppage,322,STOP,Icing,2022-11-11T03:26:05Z,2,07:48,12:12,2,1,,,
+186,21,18,Colorado Avalanche,Nashville Predators,2022020219460,2022020219,Faceoff,460,FACEOFF,Matt Duchene faceoff won against J.T. Compher,2022-11-11T03:26:29Z,2,07:48,12:12,2,1,18.0,Nashville Predators,NSH
+187,21,18,Colorado Avalanche,Nashville Predators,2022020219323,2022020219,Blocked Shot,323,BLOCKED_SHOT,Mikael Granlund shot blocked shot by J.T. Compher,2022-11-11T03:26:36Z,2,07:55,12:05,2,1,21.0,Colorado Avalanche,COL
+188,21,18,Colorado Avalanche,Nashville Predators,2022020219461,2022020219,Goal,461,GOAL,"Logan O'Connor (5) Backhand, assists: J.T. Compher (3)",2022-11-11T03:26:41Z,2,07:59,12:01,3,1,21.0,Colorado Avalanche,COL
+189,21,18,Colorado Avalanche,Nashville Predators,2022020219273,2022020219,Faceoff,273,FACEOFF,Ryan Johansen faceoff won against Nathan MacKinnon,2022-11-11T03:27:23Z,2,07:59,12:01,3,1,18.0,Nashville Predators,NSH
+190,21,18,Colorado Avalanche,Nashville Predators,2022020219462,2022020219,Shot,462,SHOT,Colton Sissons Deflected saved by Alexandar Georgiev,2022-11-11T03:27:39Z,2,08:15,11:45,3,1,18.0,Nashville Predators,NSH
+191,21,18,Colorado Avalanche,Nashville Predators,2022020219324,2022020219,Stoppage,324,STOP,Goalie Stopped,2022-11-11T03:27:39Z,2,08:16,11:44,3,1,,,
+192,21,18,Colorado Avalanche,Nashville Predators,2022020219463,2022020219,Shot,463,SHOT,Nino Niederreiter Wrist Shot saved by Alexandar Georgiev,2022-11-11T03:27:39Z,2,08:16,11:44,3,1,18.0,Nashville Predators,NSH
+193,21,18,Colorado Avalanche,Nashville Predators,2022020219274,2022020219,Faceoff,274,FACEOFF,Ryan Johansen faceoff won against Nathan MacKinnon,2022-11-11T03:29:52Z,2,08:16,11:44,3,1,18.0,Nashville Predators,NSH
+194,21,18,Colorado Avalanche,Nashville Predators,2022020219326,2022020219,Shot,326,SHOT,Mattias Ekholm Slap Shot saved by Alexandar Georgiev,2022-11-11T03:29:55Z,2,08:19,11:41,3,1,18.0,Nashville Predators,NSH
+195,21,18,Colorado Avalanche,Nashville Predators,2022020219325,2022020219,Stoppage,325,STOP,Goalie Stopped,2022-11-11T03:29:56Z,2,08:20,11:40,3,1,,,
+196,21,18,Colorado Avalanche,Nashville Predators,2022020219465,2022020219,Faceoff,465,FACEOFF,Ryan Johansen faceoff won against Nathan MacKinnon,2022-11-11T03:30:17Z,2,08:20,11:40,3,1,18.0,Nashville Predators,NSH
+197,21,18,Colorado Avalanche,Nashville Predators,2022020219574,2022020219,Penalty,574,PENALTY,Mikko Rantanen Cross-checking against Mattias Ekholm,2022-11-11T03:30:38Z,2,08:40,11:20,3,1,21.0,Colorado Avalanche,COL
+198,21,18,Colorado Avalanche,Nashville Predators,2022020219466,2022020219,Faceoff,466,FACEOFF,Andrew Cogliano faceoff won against Ryan Johansen,2022-11-11T03:31:20Z,2,08:40,11:20,3,1,21.0,Colorado Avalanche,COL
+199,21,18,Colorado Avalanche,Nashville Predators,2022020219467,2022020219,Shot,467,SHOT,Cale Makar Wrist Shot saved by Kevin Lankinen,2022-11-11T03:31:28Z,2,08:48,11:12,3,1,21.0,Colorado Avalanche,COL
+200,21,18,Colorado Avalanche,Nashville Predators,2022020219275,2022020219,Hit,275,HIT,Cale Makar hit Mikael Granlund,2022-11-11T03:31:40Z,2,09:00,11:00,3,1,21.0,Colorado Avalanche,COL
+201,21,18,Colorado Avalanche,Nashville Predators,2022020219468,2022020219,Shot,468,SHOT,Filip Forsberg Wrist Shot saved by Alexandar Georgiev,2022-11-11T03:31:55Z,2,09:15,10:45,3,1,18.0,Nashville Predators,NSH
+202,21,18,Colorado Avalanche,Nashville Predators,2022020219327,2022020219,Blocked Shot,327,BLOCKED_SHOT,Filip Forsberg shot blocked shot by Logan O'Connor,2022-11-11T03:32:10Z,2,09:30,10:30,3,1,21.0,Colorado Avalanche,COL
+203,21,18,Colorado Avalanche,Nashville Predators,2022020219328,2022020219,Stoppage,328,STOP,Goalie Stopped,2022-11-11T03:32:26Z,2,09:46,10:14,3,1,,,
+204,21,18,Colorado Avalanche,Nashville Predators,2022020219469,2022020219,Shot,469,SHOT,Matt Duchene Wrist Shot saved by Alexandar Georgiev,2022-11-11T03:32:26Z,2,09:46,10:14,3,1,18.0,Nashville Predators,NSH
+205,21,18,Colorado Avalanche,Nashville Predators,2022020219470,2022020219,Faceoff,470,FACEOFF,Colton Sissons faceoff won against Evan Rodrigues,2022-11-11T03:32:49Z,2,09:46,10:14,3,1,18.0,Nashville Predators,NSH
+206,21,18,Colorado Avalanche,Nashville Predators,2022020219329,2022020219,Takeaway,329,TAKEAWAY,Takeaway by Nathan MacKinnon,2022-11-11T03:33:49Z,2,10:46,09:14,3,1,21.0,Colorado Avalanche,COL
+207,21,18,Colorado Avalanche,Nashville Predators,2022020219471,2022020219,Goal,471,GOAL,"Mikko Rantanen (9) Wrist Shot, assists: Nathan MacKinnon (18), Kurtis MacDermid (1)",2022-11-11T03:33:51Z,2,10:48,09:12,4,1,21.0,Colorado Avalanche,COL
+208,21,18,Colorado Avalanche,Nashville Predators,2022020219276,2022020219,Faceoff,276,FACEOFF,Mark Jankowski faceoff won against Nathan MacKinnon,2022-11-11T03:34:23Z,2,10:48,09:12,4,1,18.0,Nashville Predators,NSH
+209,21,18,Colorado Avalanche,Nashville Predators,2022020219472,2022020219,Shot,472,SHOT,Mark Jankowski Snap Shot saved by Alexandar Georgiev,2022-11-11T03:34:32Z,2,10:57,09:03,4,1,18.0,Nashville Predators,NSH
+210,21,18,Colorado Avalanche,Nashville Predators,2022020219277,2022020219,Giveaway,277,GIVEAWAY,Giveaway by Mikko Rantanen,2022-11-11T03:35:02Z,2,11:27,08:33,4,1,21.0,Colorado Avalanche,COL
+211,21,18,Colorado Avalanche,Nashville Predators,2022020219330,2022020219,Blocked Shot,330,BLOCKED_SHOT,Roman Josi shot blocked shot by Mikko Rantanen,2022-11-11T03:35:14Z,2,11:39,08:21,4,1,21.0,Colorado Avalanche,COL
+212,21,18,Colorado Avalanche,Nashville Predators,2022020219331,2022020219,Stoppage,331,STOP,Goalie Stopped,2022-11-11T03:35:41Z,2,12:05,07:55,4,1,,,
+213,21,18,Colorado Avalanche,Nashville Predators,2022020219473,2022020219,Missed Shot,473,MISSED_SHOT,Cale Makar Wide of Net Kevin Lankinen,2022-11-11T03:35:41Z,2,12:05,07:55,4,1,21.0,Colorado Avalanche,COL
+214,21,18,Colorado Avalanche,Nashville Predators,2022020219474,2022020219,Faceoff,474,FACEOFF,Mikael Granlund faceoff won against J.T. Compher,2022-11-11T03:38:02Z,2,12:05,07:55,4,1,18.0,Nashville Predators,NSH
+215,21,18,Colorado Avalanche,Nashville Predators,2022020219334,2022020219,Blocked Shot,334,BLOCKED_SHOT,Filip Forsberg shot blocked shot by J.T. Compher,2022-11-11T03:38:35Z,2,12:38,07:22,4,1,21.0,Colorado Avalanche,COL
+216,21,18,Colorado Avalanche,Nashville Predators,2022020219407,2022020219,Blocked Shot,407,BLOCKED_SHOT,Dante Fabbro shot blocked shot by Logan O'Connor,2022-11-11T03:39:00Z,2,13:03,06:57,4,1,21.0,Colorado Avalanche,COL
+217,21,18,Colorado Avalanche,Nashville Predators,2022020219475,2022020219,Takeaway,475,TAKEAWAY,Takeaway by Cale Makar,2022-11-11T03:39:11Z,2,13:14,06:46,4,1,21.0,Colorado Avalanche,COL
+218,21,18,Colorado Avalanche,Nashville Predators,2022020219408,2022020219,Missed Shot,408,MISSED_SHOT,Jacob MacDonald Wide of Net Kevin Lankinen,2022-11-11T03:39:20Z,2,13:23,06:37,4,1,21.0,Colorado Avalanche,COL
+219,21,18,Colorado Avalanche,Nashville Predators,2022020219476,2022020219,Missed Shot,476,MISSED_SHOT,Martin Kaut Wide of Net Kevin Lankinen,2022-11-11T03:39:37Z,2,13:40,06:20,4,1,21.0,Colorado Avalanche,COL
+220,21,18,Colorado Avalanche,Nashville Predators,2022020219477,2022020219,Missed Shot,477,MISSED_SHOT,Nathan MacKinnon Goalpost Kevin Lankinen,2022-11-11T03:40:01Z,2,14:04,05:56,4,1,21.0,Colorado Avalanche,COL
+221,21,18,Colorado Avalanche,Nashville Predators,2022020219278,2022020219,Hit,278,HIT,Eeli Tolvanen hit Kurtis MacDermid,2022-11-11T03:40:11Z,2,14:14,05:46,4,1,18.0,Nashville Predators,NSH
+222,21,18,Colorado Avalanche,Nashville Predators,2022020219478,2022020219,Shot,478,SHOT,Ryan McDonagh Slap Shot saved by Alexandar Georgiev,2022-11-11T03:40:19Z,2,14:22,05:38,4,1,18.0,Nashville Predators,NSH
+223,21,18,Colorado Avalanche,Nashville Predators,2022020219479,2022020219,Shot,479,SHOT,Nathan MacKinnon Wrist Shot saved by Kevin Lankinen,2022-11-11T03:40:29Z,2,14:32,05:28,4,1,21.0,Colorado Avalanche,COL
+224,21,18,Colorado Avalanche,Nashville Predators,2022020219480,2022020219,Stoppage,480,STOP,TV timeout,2022-11-11T03:40:29Z,2,14:32,05:28,4,1,,,
+225,21,18,Colorado Avalanche,Nashville Predators,2022020219720,2022020219,Penalty,720,PENALTY,Jeremy Lauzon Tripping against Nathan MacKinnon,2022-11-11T03:40:29Z,2,14:32,05:28,4,1,18.0,Nashville Predators,NSH
+226,21,18,Colorado Avalanche,Nashville Predators,2022020219481,2022020219,Faceoff,481,FACEOFF,Colton Sissons faceoff won against Nathan MacKinnon,2022-11-11T03:42:57Z,2,14:32,05:28,4,1,18.0,Nashville Predators,NSH
+227,21,18,Colorado Avalanche,Nashville Predators,2022020219335,2022020219,Stoppage,335,STOP,Offside,2022-11-11T03:43:13Z,2,14:48,05:12,4,1,,,
+228,21,18,Colorado Avalanche,Nashville Predators,2022020219482,2022020219,Faceoff,482,FACEOFF,Nathan MacKinnon faceoff won against Colton Sissons,2022-11-11T03:43:44Z,2,14:48,05:12,4,1,21.0,Colorado Avalanche,COL
+229,21,18,Colorado Avalanche,Nashville Predators,2022020219483,2022020219,Goal,483,GOAL,"Evan Rodrigues (5) Snap Shot, assists: Mikko Rantanen (10), Cale Makar (13)",2022-11-11T03:44:08Z,2,15:12,04:48,5,1,21.0,Colorado Avalanche,COL
+230,21,18,Colorado Avalanche,Nashville Predators,2022020219279,2022020219,Faceoff,279,FACEOFF,J.T. Compher faceoff won against Mikael Granlund,2022-11-11T03:44:50Z,2,15:12,04:48,5,1,21.0,Colorado Avalanche,COL
+231,21,18,Colorado Avalanche,Nashville Predators,2022020219280,2022020219,Hit,280,HIT,Devon Toews hit Mikael Granlund,2022-11-11T03:45:24Z,2,15:46,04:14,5,1,21.0,Colorado Avalanche,COL
+232,21,18,Colorado Avalanche,Nashville Predators,2022020219336,2022020219,Giveaway,336,GIVEAWAY,Giveaway by Matt Duchene,2022-11-11T03:45:31Z,2,15:53,04:07,5,1,18.0,Nashville Predators,NSH
+233,21,18,Colorado Avalanche,Nashville Predators,2022020219281,2022020219,Hit,281,HIT,Roman Josi hit Sampo Ranta,2022-11-11T03:45:48Z,2,16:10,03:50,5,1,18.0,Nashville Predators,NSH
+234,21,18,Colorado Avalanche,Nashville Predators,2022020219282,2022020219,Hit,282,HIT,Josh Manson hit Cole Smith,2022-11-11T03:46:10Z,2,16:32,03:28,5,1,21.0,Colorado Avalanche,COL
+235,21,18,Colorado Avalanche,Nashville Predators,2022020219283,2022020219,Hit,283,HIT,Kurtis MacDermid hit Cody Glass,2022-11-11T03:46:21Z,2,16:43,03:17,5,1,21.0,Colorado Avalanche,COL
+236,21,18,Colorado Avalanche,Nashville Predators,2022020219484,2022020219,Shot,484,SHOT,Nathan MacKinnon Snap Shot saved by Kevin Lankinen,2022-11-11T03:46:34Z,2,16:56,03:04,5,1,21.0,Colorado Avalanche,COL
+237,21,18,Colorado Avalanche,Nashville Predators,2022020219284,2022020219,Hit,284,HIT,Mikko Rantanen hit Jeremy Lauzon,2022-11-11T03:46:54Z,2,17:16,02:44,5,1,21.0,Colorado Avalanche,COL
+238,21,18,Colorado Avalanche,Nashville Predators,2022020219285,2022020219,Hit,285,HIT,Jeremy Lauzon hit Alex Newhook,2022-11-11T03:47:15Z,2,17:37,02:23,5,1,18.0,Nashville Predators,NSH
+239,21,18,Colorado Avalanche,Nashville Predators,2022020219337,2022020219,Takeaway,337,TAKEAWAY,Takeaway by Cale Makar,2022-11-11T03:47:26Z,2,17:48,02:12,5,1,21.0,Colorado Avalanche,COL
+240,21,18,Colorado Avalanche,Nashville Predators,2022020219338,2022020219,Stoppage,338,STOP,Icing,2022-11-11T03:47:35Z,2,17:57,02:03,5,1,,,
+241,21,18,Colorado Avalanche,Nashville Predators,2022020219485,2022020219,Faceoff,485,FACEOFF,Mark Jankowski faceoff won against J.T. Compher,2022-11-11T03:48:17Z,2,17:57,02:03,5,1,18.0,Nashville Predators,NSH
+242,21,18,Colorado Avalanche,Nashville Predators,2022020219339,2022020219,Stoppage,339,STOP,Puck in Benches,2022-11-11T03:48:25Z,2,18:05,01:55,5,1,,,
+243,21,18,Colorado Avalanche,Nashville Predators,2022020219486,2022020219,Faceoff,486,FACEOFF,Mark Jankowski faceoff won against J.T. Compher,2022-11-11T03:48:51Z,2,18:05,01:55,5,1,18.0,Nashville Predators,NSH
+244,21,18,Colorado Avalanche,Nashville Predators,2022020219487,2022020219,Shot,487,SHOT,Mattias Ekholm Wrist Shot saved by Alexandar Georgiev,2022-11-11T03:48:57Z,2,18:11,01:49,5,1,18.0,Nashville Predators,NSH
+245,21,18,Colorado Avalanche,Nashville Predators,2022020219488,2022020219,Shot,488,SHOT,Mark Jankowski Wrist Shot saved by Alexandar Georgiev,2022-11-11T03:49:19Z,2,18:33,01:27,5,1,18.0,Nashville Predators,NSH
+246,21,18,Colorado Avalanche,Nashville Predators,2022020219286,2022020219,Hit,286,HIT,Tanner Jeannot hit Andrew Cogliano,2022-11-11T03:49:23Z,2,18:37,01:23,5,1,18.0,Nashville Predators,NSH
+247,21,18,Colorado Avalanche,Nashville Predators,2022020219489,2022020219,Takeaway,489,TAKEAWAY,Takeaway by Josh Manson,2022-11-11T03:49:47Z,2,19:01,00:59,5,1,21.0,Colorado Avalanche,COL
+248,21,18,Colorado Avalanche,Nashville Predators,2022020219817,2022020219,Penalty,817,PENALTY,Artturi Lehkonen Holding against Mattias Ekholm,2022-11-11T03:49:52Z,2,19:05,00:55,5,1,21.0,Colorado Avalanche,COL
+249,21,18,Colorado Avalanche,Nashville Predators,2022020219490,2022020219,Faceoff,490,FACEOFF,Andrew Cogliano faceoff won against Ryan Johansen,2022-11-11T03:50:39Z,2,19:05,00:55,5,1,21.0,Colorado Avalanche,COL
+250,21,18,Colorado Avalanche,Nashville Predators,2022020219491,2022020219,Goal,491,GOAL,"Ryan Johansen (5) Tip-In, assists: Mikael Granlund (10), Filip Forsberg (9)",2022-11-11T03:51:06Z,2,19:32,00:28,5,2,18.0,Nashville Predators,NSH
+251,21,18,Colorado Avalanche,Nashville Predators,2022020219287,2022020219,Faceoff,287,FACEOFF,Ryan Johansen faceoff won against Alex Newhook,2022-11-11T03:51:58Z,2,19:32,00:28,5,2,18.0,Nashville Predators,NSH
+252,21,18,Colorado Avalanche,Nashville Predators,2022020219340,2022020219,Blocked Shot,340,BLOCKED_SHOT,Evan Rodrigues shot blocked shot by Dante Fabbro,2022-11-11T03:52:07Z,2,19:42,00:18,5,2,18.0,Nashville Predators,NSH
+253,21,18,Colorado Avalanche,Nashville Predators,2022020219288,2022020219,Hit,288,HIT,Colton Sissons hit Evan Rodrigues,2022-11-11T03:52:09Z,2,19:44,00:16,5,2,18.0,Nashville Predators,NSH
+254,21,18,Colorado Avalanche,Nashville Predators,2022020219409,2022020219,Missed Shot,409,MISSED_SHOT,Evan Rodrigues Wide of Net Kevin Lankinen,2022-11-11T03:52:10Z,2,19:45,00:15,5,2,21.0,Colorado Avalanche,COL
+255,21,18,Colorado Avalanche,Nashville Predators,2022020219341,2022020219,Period End,341,PERIOD_END,End of 2nd Period,2022-11-11T03:52:25Z,2,20:00,00:00,5,2,,,
+256,21,18,Colorado Avalanche,Nashville Predators,2022020219344,2022020219,Period Official,344,PERIOD_OFFICIAL,Period Official,2022-11-11T04:07:50Z,2,20:00,00:00,5,2,,,
+257,21,18,Colorado Avalanche,Nashville Predators,2022020219345,2022020219,Period Ready,345,PERIOD_READY,Period Ready,2022-11-11T04:09:28Z,3,00:00,20:00,5,2,,,
+258,21,18,Colorado Avalanche,Nashville Predators,2022020219492,2022020219,Period Start,492,PERIOD_START,Period Start,2022-11-11T04:11:16Z,3,00:00,20:00,5,2,,,
+259,21,18,Colorado Avalanche,Nashville Predators,2022020219493,2022020219,Faceoff,493,FACEOFF,Mikael Granlund faceoff won against Nathan MacKinnon,2022-11-11T04:11:16Z,3,00:00,20:00,5,2,18.0,Nashville Predators,NSH
+260,21,18,Colorado Avalanche,Nashville Predators,2022020219289,2022020219,Hit,289,HIT,Cale Makar hit Mikael Granlund,2022-11-11T04:11:28Z,3,00:12,19:48,5,2,21.0,Colorado Avalanche,COL
+261,21,18,Colorado Avalanche,Nashville Predators,2022020219346,2022020219,Stoppage,346,STOP,Icing,2022-11-11T04:11:36Z,3,00:21,19:39,5,2,,,
+262,21,18,Colorado Avalanche,Nashville Predators,2022020219494,2022020219,Faceoff,494,FACEOFF,Mikael Granlund faceoff won against Nathan MacKinnon,2022-11-11T04:12:01Z,3,00:21,19:39,5,2,18.0,Nashville Predators,NSH
+263,21,18,Colorado Avalanche,Nashville Predators,2022020219290,2022020219,Hit,290,HIT,Mikael Granlund hit Mikko Rantanen,2022-11-11T04:12:22Z,3,00:42,19:18,5,2,18.0,Nashville Predators,NSH
+264,21,18,Colorado Avalanche,Nashville Predators,2022020219495,2022020219,Missed Shot,495,MISSED_SHOT,Artturi Lehkonen Wide of Net Kevin Lankinen,2022-11-11T04:12:24Z,3,00:44,19:16,5,2,21.0,Colorado Avalanche,COL
+265,21,18,Colorado Avalanche,Nashville Predators,2022020219347,2022020219,Giveaway,347,GIVEAWAY,Giveaway by Alexandar Georgiev,2022-11-11T04:12:46Z,3,01:06,18:54,5,2,21.0,Colorado Avalanche,COL
+266,21,18,Colorado Avalanche,Nashville Predators,2022020219348,2022020219,Blocked Shot,348,BLOCKED_SHOT,Ryan McDonagh shot blocked shot by Logan O'Connor,2022-11-11T04:12:52Z,3,01:12,18:48,5,2,21.0,Colorado Avalanche,COL
+267,21,18,Colorado Avalanche,Nashville Predators,2022020219291,2022020219,Hit,291,HIT,Logan O'Connor hit Nino Niederreiter,2022-11-11T04:13:03Z,3,01:23,18:37,5,2,21.0,Colorado Avalanche,COL
+268,21,18,Colorado Avalanche,Nashville Predators,2022020219349,2022020219,Blocked Shot,349,BLOCKED_SHOT,Cody Glass shot blocked shot by Logan O'Connor,2022-11-11T04:13:32Z,3,01:52,18:08,5,2,21.0,Colorado Avalanche,COL
+269,21,18,Colorado Avalanche,Nashville Predators,2022020219292,2022020219,Hit,292,HIT,Cole Smith hit J.T. Compher,2022-11-11T04:13:38Z,3,01:58,18:02,5,2,18.0,Nashville Predators,NSH
+270,21,18,Colorado Avalanche,Nashville Predators,2022020219497,2022020219,Shot,497,SHOT,Mark Jankowski Backhand saved by Alexandar Georgiev,2022-11-11T04:14:31Z,3,02:51,17:09,5,2,18.0,Nashville Predators,NSH
+271,21,18,Colorado Avalanche,Nashville Predators,2022020219498,2022020219,Goal,498,GOAL,"Roman Josi (3) Slap Shot, assists: Dante Fabbro (3), Yakov Trenin (3)",2022-11-11T04:14:39Z,3,02:59,17:01,5,3,18.0,Nashville Predators,NSH
+272,21,18,Colorado Avalanche,Nashville Predators,2022020219293,2022020219,Faceoff,293,FACEOFF,Matt Duchene faceoff won against Mikko Rantanen,2022-11-11T04:15:58Z,3,02:59,17:01,5,3,18.0,Nashville Predators,NSH
+273,21,18,Colorado Avalanche,Nashville Predators,2022020219294,2022020219,Hit,294,HIT,Roman Josi hit Artturi Lehkonen,2022-11-11T04:16:18Z,3,03:19,16:41,5,3,18.0,Nashville Predators,NSH
+274,21,18,Colorado Avalanche,Nashville Predators,2022020219350,2022020219,Blocked Shot,350,BLOCKED_SHOT,Devon Toews shot blocked shot by Filip Forsberg,2022-11-11T04:16:39Z,3,03:40,16:20,5,3,18.0,Nashville Predators,NSH
+275,21,18,Colorado Avalanche,Nashville Predators,2022020219499,2022020219,Shot,499,SHOT,Andrew Cogliano Wrist Shot saved by Kevin Lankinen,2022-11-11T04:17:12Z,3,04:13,15:47,5,3,21.0,Colorado Avalanche,COL
+276,21,18,Colorado Avalanche,Nashville Predators,2022020219651,2022020219,Stoppage,651,STOP,Goalie Stopped,2022-11-11T04:17:12Z,3,04:13,15:47,5,3,,,
+277,21,18,Colorado Avalanche,Nashville Predators,2022020219500,2022020219,Faceoff,500,FACEOFF,J.T. Compher faceoff won against Ryan Johansen,2022-11-11T04:17:48Z,3,04:13,15:47,5,3,21.0,Colorado Avalanche,COL
+278,21,18,Colorado Avalanche,Nashville Predators,2022020219652,2022020219,Stoppage,652,STOP,Icing,2022-11-11T04:18:03Z,3,04:28,15:32,5,3,,,
+279,21,18,Colorado Avalanche,Nashville Predators,2022020219751,2022020219,Faceoff,751,FACEOFF,Ryan Johansen faceoff won against Evan Rodrigues,2022-11-11T04:18:31Z,3,04:28,15:32,5,3,18.0,Nashville Predators,NSH
+280,21,18,Colorado Avalanche,Nashville Predators,2022020219653,2022020219,Stoppage,653,STOP,Puck in Netting,2022-11-11T04:18:39Z,3,04:35,15:25,5,3,,,
+281,21,18,Colorado Avalanche,Nashville Predators,2022020219752,2022020219,Missed Shot,752,MISSED_SHOT,Martin Kaut Over Net Kevin Lankinen,2022-11-11T04:18:39Z,3,04:35,15:25,5,3,21.0,Colorado Avalanche,COL
+282,21,18,Colorado Avalanche,Nashville Predators,2022020219753,2022020219,Faceoff,753,FACEOFF,Mark Jankowski faceoff won against Evan Rodrigues,2022-11-11T04:19:07Z,3,04:35,15:25,5,3,18.0,Nashville Predators,NSH
+283,21,18,Colorado Avalanche,Nashville Predators,2022020219754,2022020219,Takeaway,754,TAKEAWAY,Takeaway by Evan Rodrigues,2022-11-11T04:19:14Z,3,04:42,15:18,5,3,21.0,Colorado Avalanche,COL
+284,21,18,Colorado Avalanche,Nashville Predators,2022020219755,2022020219,Shot,755,SHOT,Evan Rodrigues Wrist Shot saved by Kevin Lankinen,2022-11-11T04:19:16Z,3,04:44,15:16,5,3,21.0,Colorado Avalanche,COL
+285,21,18,Colorado Avalanche,Nashville Predators,2022020219756,2022020219,Shot,756,SHOT,Tanner Jeannot Slap Shot saved by Alexandar Georgiev,2022-11-11T04:19:25Z,3,04:53,15:07,5,3,18.0,Nashville Predators,NSH
+286,21,18,Colorado Avalanche,Nashville Predators,2022020219295,2022020219,Hit,295,HIT,Kurtis MacDermid hit Tanner Jeannot,2022-11-11T04:19:27Z,3,04:55,15:05,5,3,21.0,Colorado Avalanche,COL
+287,21,18,Colorado Avalanche,Nashville Predators,2022020219296,2022020219,Takeaway,296,TAKEAWAY,Takeaway by Yakov Trenin,2022-11-11T04:19:39Z,3,05:07,14:53,5,3,18.0,Nashville Predators,NSH
+288,21,18,Colorado Avalanche,Nashville Predators,2022020219758,2022020219,Giveaway,758,GIVEAWAY,Giveaway by Yakov Trenin,2022-11-11T04:19:41Z,3,05:09,14:51,5,3,18.0,Nashville Predators,NSH
+289,21,18,Colorado Avalanche,Nashville Predators,2022020219299,2022020219,Hit,299,HIT,Mikael Granlund hit Mikko Rantanen,2022-11-11T04:20:02Z,3,05:30,14:30,5,3,18.0,Nashville Predators,NSH
+290,21,18,Colorado Avalanche,Nashville Predators,2022020219410,2022020219,Blocked Shot,410,BLOCKED_SHOT,Matt Duchene shot blocked shot by Nathan MacKinnon,2022-11-11T04:20:05Z,3,05:33,14:27,5,3,21.0,Colorado Avalanche,COL
+291,21,18,Colorado Avalanche,Nashville Predators,2022020219298,2022020219,Giveaway,298,GIVEAWAY,Giveaway by Cale Makar,2022-11-11T04:20:11Z,3,05:39,14:21,5,3,21.0,Colorado Avalanche,COL
+292,21,18,Colorado Avalanche,Nashville Predators,2022020219759,2022020219,Missed Shot,759,MISSED_SHOT,Logan O'Connor Wide of Net Kevin Lankinen,2022-11-11T04:21:25Z,3,06:53,13:07,5,3,21.0,Colorado Avalanche,COL
+293,21,18,Colorado Avalanche,Nashville Predators,2022020219655,2022020219,Missed Shot,655,MISSED_SHOT,Logan O'Connor Wide of Net Kevin Lankinen,2022-11-11T04:21:31Z,3,06:59,13:01,5,3,21.0,Colorado Avalanche,COL
+294,21,18,Colorado Avalanche,Nashville Predators,2022020219656,2022020219,Hit,656,HIT,Eeli Tolvanen hit Logan O'Connor,2022-11-11T04:21:37Z,3,07:05,12:55,5,3,18.0,Nashville Predators,NSH
+295,21,18,Colorado Avalanche,Nashville Predators,2022020219760,2022020219,Hit,760,HIT,Kurtis MacDermid hit Colton Sissons,2022-11-11T04:22:14Z,3,07:42,12:18,5,3,21.0,Colorado Avalanche,COL
+296,21,18,Colorado Avalanche,Nashville Predators,2022020219411,2022020219,Missed Shot,411,MISSED_SHOT,Ryan Johansen Wide of Net Alexandar Georgiev,2022-11-11T04:22:15Z,3,07:43,12:17,5,3,18.0,Nashville Predators,NSH
+297,21,18,Colorado Avalanche,Nashville Predators,2022020219761,2022020219,Missed Shot,761,MISSED_SHOT,Jeremy Lauzon Wide of Net Alexandar Georgiev,2022-11-11T04:22:31Z,3,07:59,12:01,5,3,18.0,Nashville Predators,NSH
+298,21,18,Colorado Avalanche,Nashville Predators,2022020219657,2022020219,Stoppage,657,STOP,Icing,2022-11-11T04:23:10Z,3,08:38,11:22,5,3,,,
+299,21,18,Colorado Avalanche,Nashville Predators,2022020219762,2022020219,Faceoff,762,FACEOFF,Mark Jankowski faceoff won against Nathan MacKinnon,2022-11-11T04:23:57Z,3,08:38,11:22,5,3,18.0,Nashville Predators,NSH
+300,21,18,Colorado Avalanche,Nashville Predators,2022020219763,2022020219,Shot,763,SHOT,Tanner Jeannot Wrist Shot saved by Alexandar Georgiev,2022-11-11T04:24:14Z,3,08:55,11:05,5,3,18.0,Nashville Predators,NSH
+301,21,18,Colorado Avalanche,Nashville Predators,2022020219658,2022020219,Stoppage,658,STOP,Goalie Stopped,2022-11-11T04:24:18Z,3,09:00,11:00,5,3,,,
+302,21,18,Colorado Avalanche,Nashville Predators,2022020219764,2022020219,Faceoff,764,FACEOFF,J.T. Compher faceoff won against Mikael Granlund,2022-11-11T04:26:46Z,3,09:00,11:00,5,3,21.0,Colorado Avalanche,COL
+303,21,18,Colorado Avalanche,Nashville Predators,2022020219765,2022020219,Shot,765,SHOT,Jeremy Lauzon Wrist Shot saved by Alexandar Georgiev,2022-11-11T04:27:37Z,3,09:51,10:09,5,3,18.0,Nashville Predators,NSH
+304,21,18,Colorado Avalanche,Nashville Predators,2022020219659,2022020219,Blocked Shot,659,BLOCKED_SHOT,Nino Niederreiter shot blocked shot by Cale Makar,2022-11-11T04:27:44Z,3,09:58,10:02,5,3,21.0,Colorado Avalanche,COL
+305,21,18,Colorado Avalanche,Nashville Predators,2022020219660,2022020219,Stoppage,660,STOP,Icing,2022-11-11T04:29:11Z,3,11:26,08:34,5,3,,,
+306,21,18,Colorado Avalanche,Nashville Predators,2022020219766,2022020219,Faceoff,766,FACEOFF,Nathan MacKinnon faceoff won against Cody Glass,2022-11-11T04:29:40Z,3,11:26,08:34,5,3,21.0,Colorado Avalanche,COL
+307,21,18,Colorado Avalanche,Nashville Predators,2022020219661,2022020219,Blocked Shot,661,BLOCKED_SHOT,Roman Josi shot blocked shot by Nathan MacKinnon,2022-11-11T04:29:47Z,3,11:33,08:27,5,3,21.0,Colorado Avalanche,COL
+308,21,18,Colorado Avalanche,Nashville Predators,2022020219767,2022020219,Blocked Shot,767,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Eeli Tolvanen,2022-11-11T04:30:03Z,3,11:49,08:11,5,3,18.0,Nashville Predators,NSH
+309,21,18,Colorado Avalanche,Nashville Predators,2022020219300,2022020219,Hit,300,HIT,Eeli Tolvanen hit Erik Johnson,2022-11-11T04:30:12Z,3,11:58,08:02,5,3,18.0,Nashville Predators,NSH
+310,21,18,Colorado Avalanche,Nashville Predators,2022020219601,2022020219,Hit,601,HIT,Nino Niederreiter hit Erik Johnson,2022-11-11T04:31:24Z,3,13:10,06:50,5,3,18.0,Nashville Predators,NSH
+311,21,18,Colorado Avalanche,Nashville Predators,2022020219663,2022020219,Blocked Shot,663,BLOCKED_SHOT,Roman Josi shot blocked shot by Martin Kaut,2022-11-11T04:31:49Z,3,13:35,06:25,5,3,21.0,Colorado Avalanche,COL
+312,21,18,Colorado Avalanche,Nashville Predators,2022020219602,2022020219,Hit,602,HIT,Josh Manson hit Nino Niederreiter,2022-11-11T04:32:02Z,3,13:48,06:12,5,3,21.0,Colorado Avalanche,COL
+313,21,18,Colorado Avalanche,Nashville Predators,2022020219664,2022020219,Blocked Shot,664,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Mattias Ekholm,2022-11-11T04:32:28Z,3,14:14,05:46,5,3,18.0,Nashville Predators,NSH
+314,21,18,Colorado Avalanche,Nashville Predators,2022020219665,2022020219,Stoppage,665,STOP,Puck in Benches,2022-11-11T04:32:59Z,3,14:45,05:15,5,3,,,
+315,21,18,Colorado Avalanche,Nashville Predators,2022020219768,2022020219,Faceoff,768,FACEOFF,J.T. Compher faceoff won against Matt Duchene,2022-11-11T04:35:39Z,3,14:45,05:15,5,3,21.0,Colorado Avalanche,COL
+316,21,18,Colorado Avalanche,Nashville Predators,2022020219666,2022020219,Stoppage,666,STOP,Offside,2022-11-11T04:35:48Z,3,14:54,05:06,5,3,,,
+317,21,18,Colorado Avalanche,Nashville Predators,2022020219769,2022020219,Faceoff,769,FACEOFF,Mikael Granlund faceoff won against J.T. Compher,2022-11-11T04:36:10Z,3,14:54,05:06,5,3,18.0,Nashville Predators,NSH
+318,21,18,Colorado Avalanche,Nashville Predators,2022020219770,2022020219,Shot,770,SHOT,Roman Josi Slap Shot saved by Alexandar Georgiev,2022-11-11T04:36:24Z,3,15:08,04:52,5,3,18.0,Nashville Predators,NSH
+319,21,18,Colorado Avalanche,Nashville Predators,2022020219667,2022020219,Blocked Shot,667,BLOCKED_SHOT,Matt Duchene shot blocked shot by Logan O'Connor,2022-11-11T04:36:27Z,3,15:11,04:49,5,3,21.0,Colorado Avalanche,COL
+320,21,18,Colorado Avalanche,Nashville Predators,2022020219668,2022020219,Blocked Shot,668,BLOCKED_SHOT,Cale Makar shot blocked shot by Roman Josi,2022-11-11T04:36:42Z,3,15:26,04:34,5,3,18.0,Nashville Predators,NSH
+321,21,18,Colorado Avalanche,Nashville Predators,2022020219771,2022020219,Stoppage,771,STOP,Puck in Netting,2022-11-11T04:36:43Z,3,15:27,04:33,5,3,,,
+322,21,18,Colorado Avalanche,Nashville Predators,2022020219772,2022020219,Faceoff,772,FACEOFF,Evan Rodrigues faceoff won against Tanner Jeannot,2022-11-11T04:37:30Z,3,15:27,04:33,5,3,21.0,Colorado Avalanche,COL
+323,21,18,Colorado Avalanche,Nashville Predators,2022020219669,2022020219,Missed Shot,669,MISSED_SHOT,Josh Manson Over Net Kevin Lankinen,2022-11-11T04:37:41Z,3,15:38,04:22,5,3,21.0,Colorado Avalanche,COL
+324,21,18,Colorado Avalanche,Nashville Predators,2022020219773,2022020219,Shot,773,SHOT,Martin Kaut Wrist Shot saved by Kevin Lankinen,2022-11-11T04:37:43Z,3,15:40,04:20,5,3,21.0,Colorado Avalanche,COL
+325,21,18,Colorado Avalanche,Nashville Predators,2022020219603,2022020219,Hit,603,HIT,Mikko Rantanen hit Mikael Granlund,2022-11-11T04:38:51Z,3,16:48,03:12,5,3,21.0,Colorado Avalanche,COL
+326,21,18,Colorado Avalanche,Nashville Predators,2022020219774,2022020219,Shot,774,SHOT,Mikael Granlund Wrist Shot saved by Alexandar Georgiev,2022-11-11T04:39:16Z,3,17:13,02:47,5,3,18.0,Nashville Predators,NSH
+327,21,18,Colorado Avalanche,Nashville Predators,2022020219670,2022020219,Stoppage,670,STOP,Puck in Crowd,2022-11-11T04:39:44Z,3,17:41,02:19,5,3,,,
+328,21,18,Colorado Avalanche,Nashville Predators,2022020219775,2022020219,Faceoff,775,FACEOFF,Nathan MacKinnon faceoff won against Ryan Johansen,2022-11-11T04:42:08Z,3,17:41,02:19,5,3,21.0,Colorado Avalanche,COL
+329,21,18,Colorado Avalanche,Nashville Predators,2022020219671,2022020219,Blocked Shot,671,BLOCKED_SHOT,Cale Makar shot blocked shot by Dante Fabbro,2022-11-11T04:42:42Z,3,18:15,01:45,5,3,18.0,Nashville Predators,NSH
+330,21,18,Colorado Avalanche,Nashville Predators,2022020219776,2022020219,Stoppage,776,STOP,Puck in Netting,2022-11-11T04:42:42Z,3,18:15,01:45,5,3,,,
+331,21,18,Colorado Avalanche,Nashville Predators,2022020219777,2022020219,Faceoff,777,FACEOFF,Mikael Granlund faceoff won against Evan Rodrigues,2022-11-11T04:43:18Z,3,18:15,01:45,5,3,18.0,Nashville Predators,NSH
+332,21,18,Colorado Avalanche,Nashville Predators,2022020219672,2022020219,Blocked Shot,672,BLOCKED_SHOT,Filip Forsberg shot blocked shot by Josh Manson,2022-11-11T04:43:42Z,3,18:39,01:21,5,3,21.0,Colorado Avalanche,COL
+333,21,18,Colorado Avalanche,Nashville Predators,2022020219673,2022020219,Stoppage,673,STOP,Visitor Timeout,2022-11-11T04:43:42Z,3,18:39,01:21,5,3,,,
+334,21,18,Colorado Avalanche,Nashville Predators,2022020219778,2022020219,Stoppage,778,STOP,Puck in Netting,2022-11-11T04:43:42Z,3,18:39,01:21,5,3,,,
+335,21,18,Colorado Avalanche,Nashville Predators,2022020219780,2022020219,Faceoff,780,FACEOFF,Nathan MacKinnon faceoff won against Mikael Granlund,2022-11-11T04:45:24Z,3,18:39,01:21,5,3,21.0,Colorado Avalanche,COL
+336,21,18,Colorado Avalanche,Nashville Predators,2022020219781,2022020219,Shot,781,SHOT,Filip Forsberg Slap Shot saved by Alexandar Georgiev,2022-11-11T04:45:48Z,3,19:03,00:57,5,3,18.0,Nashville Predators,NSH
+337,21,18,Colorado Avalanche,Nashville Predators,2022020219674,2022020219,Blocked Shot,674,BLOCKED_SHOT,Matt Duchene shot blocked shot by Mikko Rantanen,2022-11-11T04:45:53Z,3,19:08,00:52,5,3,21.0,Colorado Avalanche,COL
+338,21,18,Colorado Avalanche,Nashville Predators,2022020219782,2022020219,Stoppage,782,STOP,Puck in Netting,2022-11-11T04:45:53Z,3,19:08,00:52,5,3,,,
+339,21,18,Colorado Avalanche,Nashville Predators,2022020219783,2022020219,Faceoff,783,FACEOFF,Nathan MacKinnon faceoff won against Ryan Johansen,2022-11-11T04:46:19Z,3,19:08,00:52,5,3,21.0,Colorado Avalanche,COL
+340,21,18,Colorado Avalanche,Nashville Predators,2022020219675,2022020219,Stoppage,675,STOP,Icing,2022-11-11T04:46:25Z,3,19:14,00:46,5,3,,,
+341,21,18,Colorado Avalanche,Nashville Predators,2022020219784,2022020219,Faceoff,784,FACEOFF,Nathan MacKinnon faceoff won against Ryan Johansen,2022-11-11T04:46:50Z,3,19:14,00:46,5,3,21.0,Colorado Avalanche,COL
+342,21,18,Colorado Avalanche,Nashville Predators,2022020219785,2022020219,Shot,785,SHOT,Roman Josi Slap Shot saved by Alexandar Georgiev,2022-11-11T04:47:15Z,3,19:40,00:20,5,3,18.0,Nashville Predators,NSH
+343,21,18,Colorado Avalanche,Nashville Predators,2022020219786,2022020219,Missed Shot,786,MISSED_SHOT,Nino Niederreiter Wide of Net Alexandar Georgiev,2022-11-11T04:47:33Z,3,19:58,00:02,5,3,18.0,Nashville Predators,NSH
+344,21,18,Colorado Avalanche,Nashville Predators,2022020219676,2022020219,Period End,676,PERIOD_END,End of 3rd Period,2022-11-11T04:47:35Z,3,20:00,00:00,5,3,,,
+345,21,18,Colorado Avalanche,Nashville Predators,2022020219679,2022020219,Period Official,679,PERIOD_OFFICIAL,Period Official,2022-11-11T04:47:40Z,3,20:00,00:00,5,3,,,
+346,21,18,Colorado Avalanche,Nashville Predators,2022020219680,2022020219,Game End,680,GAME_END,Game End,2022-11-11T04:47:43Z,3,20:00,00:00,5,3,,,
+347,21,18,Colorado Avalanche,Nashville Predators,2022020219681,2022020219,Game Official,681,GAME_OFFICIAL,Game Official,2022-11-11T04:58:48Z,3,20:00,00:00,5,3,,,

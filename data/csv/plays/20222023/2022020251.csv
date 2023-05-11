@@ -1,0 +1,350 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,5,10,Pittsburgh Penguins,Toronto Maple Leafs,20220202511,2022020251,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-11-15T23:25:09Z,1,00:00,20:00,0,0,,,
+1,5,10,Pittsburgh Penguins,Toronto Maple Leafs,20220202515,2022020251,Period Ready,5,PERIOD_READY,Period Ready,2022-11-16T00:08:22Z,1,00:00,20:00,0,0,,,
+2,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025151,2022020251,Period Start,51,PERIOD_START,Period Start,2022-11-16T00:08:36Z,1,00:00,20:00,0,0,,,
+3,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025152,2022020251,Faceoff,52,FACEOFF,Sidney Crosby faceoff won against Auston Matthews,2022-11-16T00:08:36Z,1,00:00,20:00,0,0,5.0,Pittsburgh Penguins,PIT
+4,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251151,2022020251,Blocked Shot,151,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Jeff Petry,2022-11-16T00:09:42Z,1,01:06,18:54,0,0,5.0,Pittsburgh Penguins,PIT
+5,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251152,2022020251,Shot,152,SHOT,Denis Malgin Wrist Shot saved by Casey DeSmith,2022-11-16T00:10:00Z,1,01:24,18:36,0,0,10.0,Toronto Maple Leafs,TOR
+6,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251153,2022020251,Blocked Shot,153,BLOCKED_SHOT,Denis Malgin shot blocked shot by Chad Ruhwedel,2022-11-16T00:10:13Z,1,01:37,18:23,0,0,5.0,Pittsburgh Penguins,PIT
+7,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025153,2022020251,Hit,53,HIT,Jeff Carter hit Timothy Liljegren,2022-11-16T00:10:15Z,1,01:39,18:21,0,0,5.0,Pittsburgh Penguins,PIT
+8,5,10,Pittsburgh Penguins,Toronto Maple Leafs,20220202518,2022020251,Missed Shot,8,MISSED_SHOT,Denis Malgin Wide of Net Casey DeSmith,2022-11-16T00:10:23Z,1,01:47,18:13,0,0,10.0,Toronto Maple Leafs,TOR
+9,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251154,2022020251,Missed Shot,154,MISSED_SHOT,Timothy Liljegren Wide of Net Casey DeSmith,2022-11-16T00:10:33Z,1,01:57,18:03,0,0,10.0,Toronto Maple Leafs,TOR
+10,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025154,2022020251,Giveaway,54,GIVEAWAY,Giveaway by Marcus Pettersson,2022-11-16T00:11:29Z,1,02:53,17:07,0,0,5.0,Pittsburgh Penguins,PIT
+11,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025155,2022020251,Hit,55,HIT,Jake Guentzel hit Pierre Engvall,2022-11-16T00:11:34Z,1,02:58,17:02,0,0,5.0,Pittsburgh Penguins,PIT
+12,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025156,2022020251,Hit,56,HIT,Jake Guentzel hit Justin Holl,2022-11-16T00:11:46Z,1,03:10,16:50,0,0,5.0,Pittsburgh Penguins,PIT
+13,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251301,2022020251,Blocked Shot,301,BLOCKED_SHOT,Justin Holl shot blocked shot by Jeff Petry,2022-11-16T00:11:54Z,1,03:18,16:42,0,0,5.0,Pittsburgh Penguins,PIT
+14,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251155,2022020251,Blocked Shot,155,BLOCKED_SHOT,Jake Guentzel shot blocked shot by Justin Holl,2022-11-16T00:11:57Z,1,03:21,16:39,0,0,10.0,Toronto Maple Leafs,TOR
+15,5,10,Pittsburgh Penguins,Toronto Maple Leafs,20220202519,2022020251,Blocked Shot,9,BLOCKED_SHOT,Jake Guentzel shot blocked shot by Auston Matthews,2022-11-16T00:12:00Z,1,03:24,16:36,0,0,10.0,Toronto Maple Leafs,TOR
+16,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025111,2022020251,Blocked Shot,11,BLOCKED_SHOT,Jake Guentzel shot blocked shot by Michael Bunting,2022-11-16T00:12:00Z,1,03:24,16:36,0,0,10.0,Toronto Maple Leafs,TOR
+17,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025157,2022020251,Hit,57,HIT,Brian Dumoulin hit Michael Bunting,2022-11-16T00:12:13Z,1,03:37,16:23,0,0,5.0,Pittsburgh Penguins,PIT
+18,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251156,2022020251,Shot,156,SHOT,Rickard Rakell Backhand saved by Matt Murray,2022-11-16T00:12:47Z,1,04:11,15:49,0,0,5.0,Pittsburgh Penguins,PIT
+19,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025159,2022020251,Stoppage,59,STOP,Goalie Stopped,2022-11-16T00:12:49Z,1,04:13,15:47,0,0,,,
+20,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025160,2022020251,Faceoff,60,FACEOFF,Jeff Carter faceoff won against David Kampf,2022-11-16T00:13:20Z,1,04:13,15:47,0,0,5.0,Pittsburgh Penguins,PIT
+21,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251157,2022020251,Shot,157,SHOT,Chad Ruhwedel Wrist Shot saved by Matt Murray,2022-11-16T00:13:23Z,1,04:16,15:44,0,0,5.0,Pittsburgh Penguins,PIT
+22,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025161,2022020251,Stoppage,61,STOP,Offside,2022-11-16T00:13:35Z,1,04:27,15:33,0,0,,,
+23,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025162,2022020251,Faceoff,62,FACEOFF,Jeff Carter faceoff won against David Kampf,2022-11-16T00:14:05Z,1,04:27,15:33,0,0,5.0,Pittsburgh Penguins,PIT
+24,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025163,2022020251,Hit,63,HIT,Danton Heinen hit Morgan Rielly,2022-11-16T00:14:21Z,1,04:43,15:17,0,0,5.0,Pittsburgh Penguins,PIT
+25,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025112,2022020251,Hit,12,HIT,Marcus Pettersson hit Denis Malgin,2022-11-16T00:14:26Z,1,04:48,15:12,0,0,5.0,Pittsburgh Penguins,PIT
+26,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025164,2022020251,Hit,64,HIT,Jordie Benn hit Jeff Carter,2022-11-16T00:14:48Z,1,05:10,14:50,0,0,10.0,Toronto Maple Leafs,TOR
+27,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025113,2022020251,Takeaway,13,TAKEAWAY,Takeaway by Ryan Poehling,2022-11-16T00:14:55Z,1,05:17,14:43,0,0,5.0,Pittsburgh Penguins,PIT
+28,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251158,2022020251,Shot,158,SHOT,Jeff Carter Wrist Shot saved by Matt Murray,2022-11-16T00:14:56Z,1,05:18,14:42,0,0,5.0,Pittsburgh Penguins,PIT
+29,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251203,2022020251,Penalty,203,PENALTY,Calle Jarnkrok Tripping against Ryan Poehling,2022-11-16T00:14:57Z,1,05:19,14:41,0,0,10.0,Toronto Maple Leafs,TOR
+30,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025165,2022020251,Faceoff,65,FACEOFF,David Kampf faceoff won against Sidney Crosby,2022-11-16T00:15:36Z,1,05:19,14:41,0,0,10.0,Toronto Maple Leafs,TOR
+31,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025114,2022020251,Hit,14,HIT,Jake Guentzel hit Mark Giordano,2022-11-16T00:15:41Z,1,05:24,14:36,0,0,5.0,Pittsburgh Penguins,PIT
+32,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251302,2022020251,Blocked Shot,302,BLOCKED_SHOT,Sidney Crosby shot blocked shot by Mark Giordano,2022-11-16T00:16:13Z,1,05:56,14:04,0,0,10.0,Toronto Maple Leafs,TOR
+33,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251160,2022020251,Shot,160,SHOT,Kris Letang Slap Shot saved by Matt Murray,2022-11-16T00:16:20Z,1,06:03,13:57,0,0,5.0,Pittsburgh Penguins,PIT
+34,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251161,2022020251,Blocked Shot,161,BLOCKED_SHOT,Sidney Crosby shot blocked shot by Mark Giordano,2022-11-16T00:16:41Z,1,06:24,13:36,0,0,10.0,Toronto Maple Leafs,TOR
+35,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025115,2022020251,Blocked Shot,15,BLOCKED_SHOT,Evgeni Malkin shot blocked shot by Justin Holl,2022-11-16T00:16:47Z,1,06:30,13:30,0,0,10.0,Toronto Maple Leafs,TOR
+36,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025166,2022020251,Hit,66,HIT,Bryan Rust hit Mark Giordano,2022-11-16T00:16:55Z,1,06:38,13:22,0,0,5.0,Pittsburgh Penguins,PIT
+37,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025167,2022020251,Hit,67,HIT,Jordie Benn hit Jake Guentzel,2022-11-16T00:17:06Z,1,06:49,13:11,0,0,10.0,Toronto Maple Leafs,TOR
+38,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251163,2022020251,Shot,163,SHOT,Alexander Kerfoot Wrist Shot saved by Casey DeSmith,2022-11-16T00:17:28Z,1,07:11,12:49,0,0,10.0,Toronto Maple Leafs,TOR
+39,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025116,2022020251,Stoppage,16,STOP,Goalie Stopped,2022-11-16T00:17:29Z,1,07:12,12:48,0,0,,,
+40,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025168,2022020251,Faceoff,68,FACEOFF,Teddy Blueger faceoff won against William Nylander,2022-11-16T00:18:03Z,1,07:12,12:48,0,0,5.0,Pittsburgh Penguins,PIT
+41,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025169,2022020251,Stoppage,69,STOP,Puck in Benches,2022-11-16T00:18:13Z,1,07:21,12:39,0,0,,,
+42,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025170,2022020251,Faceoff,70,FACEOFF,Auston Matthews faceoff won against Ryan Poehling,2022-11-16T00:20:39Z,1,07:21,12:39,0,0,10.0,Toronto Maple Leafs,TOR
+43,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025171,2022020251,Hit,71,HIT,Ryan Poehling hit Michael Bunting,2022-11-16T00:20:55Z,1,07:37,12:23,0,0,5.0,Pittsburgh Penguins,PIT
+44,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025117,2022020251,Stoppage,17,STOP,Icing,2022-11-16T00:21:09Z,1,07:51,12:09,0,0,,,
+45,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025172,2022020251,Faceoff,72,FACEOFF,Teddy Blueger faceoff won against John Tavares,2022-11-16T00:21:45Z,1,07:51,12:09,0,0,5.0,Pittsburgh Penguins,PIT
+46,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025118,2022020251,Stoppage,18,STOP,Icing,2022-11-16T00:21:52Z,1,07:58,12:02,0,0,,,
+47,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025173,2022020251,Faceoff,73,FACEOFF,John Tavares faceoff won against Teddy Blueger,2022-11-16T00:22:16Z,1,07:58,12:02,0,0,10.0,Toronto Maple Leafs,TOR
+48,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251164,2022020251,Blocked Shot,164,BLOCKED_SHOT,Jordie Benn shot blocked shot by Ryan Poehling,2022-11-16T00:22:22Z,1,08:04,11:56,0,0,5.0,Pittsburgh Penguins,PIT
+49,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025174,2022020251,Hit,74,HIT,Chad Ruhwedel hit David Kampf,2022-11-16T00:23:34Z,1,09:16,10:44,0,0,5.0,Pittsburgh Penguins,PIT
+50,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025175,2022020251,Hit,75,HIT,Chad Ruhwedel hit David Kampf,2022-11-16T00:23:42Z,1,09:24,10:36,0,0,5.0,Pittsburgh Penguins,PIT
+51,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251165,2022020251,Shot,165,SHOT,Denis Malgin Wrist Shot saved by Casey DeSmith,2022-11-16T00:23:57Z,1,09:39,10:21,0,0,10.0,Toronto Maple Leafs,TOR
+52,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025119,2022020251,Stoppage,19,STOP,Goalie Stopped,2022-11-16T00:23:59Z,1,09:40,10:20,0,0,,,
+53,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025176,2022020251,Faceoff,76,FACEOFF,Jeff Carter faceoff won against Calle Jarnkrok,2022-11-16T00:24:42Z,1,09:40,10:20,0,0,5.0,Pittsburgh Penguins,PIT
+54,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025177,2022020251,Takeaway,77,TAKEAWAY,Takeaway by Morgan Rielly,2022-11-16T00:24:50Z,1,09:48,10:12,0,0,10.0,Toronto Maple Leafs,TOR
+55,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025178,2022020251,Hit,78,HIT,Danton Heinen hit Pontus Holmberg,2022-11-16T00:25:10Z,1,10:08,09:52,0,0,5.0,Pittsburgh Penguins,PIT
+56,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025120,2022020251,Stoppage,20,STOP,Icing,2022-11-16T00:25:11Z,1,10:10,09:50,0,0,,,
+57,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025179,2022020251,Faceoff,79,FACEOFF,Auston Matthews faceoff won against Jeff Carter,2022-11-16T00:25:45Z,1,10:10,09:50,0,0,10.0,Toronto Maple Leafs,TOR
+58,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251166,2022020251,Blocked Shot,166,BLOCKED_SHOT,William Nylander shot blocked shot by Brian Dumoulin,2022-11-16T00:25:49Z,1,10:14,09:46,0,0,5.0,Pittsburgh Penguins,PIT
+59,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025180,2022020251,Hit,80,HIT,Rasmus Sandin hit Brock McGinn,2022-11-16T00:26:06Z,1,10:31,09:29,0,0,10.0,Toronto Maple Leafs,TOR
+60,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251167,2022020251,Shot,167,SHOT,Auston Matthews Snap Shot saved by Casey DeSmith,2022-11-16T00:26:09Z,1,10:34,09:26,0,0,10.0,Toronto Maple Leafs,TOR
+61,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025121,2022020251,Stoppage,21,STOP,Goalie Stopped,2022-11-16T00:26:11Z,1,10:35,09:25,0,0,,,
+62,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025181,2022020251,Faceoff,81,FACEOFF,Teddy Blueger faceoff won against Auston Matthews,2022-11-16T00:28:27Z,1,10:35,09:25,0,0,5.0,Pittsburgh Penguins,PIT
+63,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025182,2022020251,Hit,82,HIT,Josh Archibald hit Michael Bunting,2022-11-16T00:28:38Z,1,10:46,09:14,0,0,5.0,Pittsburgh Penguins,PIT
+64,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251168,2022020251,Missed Shot,168,MISSED_SHOT,Marcus Pettersson Wide of Net Matt Murray,2022-11-16T00:28:53Z,1,11:01,08:59,0,0,5.0,Pittsburgh Penguins,PIT
+65,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025122,2022020251,Blocked Shot,22,BLOCKED_SHOT,Kris Letang shot blocked shot by Rasmus Sandin,2022-11-16T00:28:56Z,1,11:04,08:56,0,0,10.0,Toronto Maple Leafs,TOR
+66,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251169,2022020251,Blocked Shot,169,BLOCKED_SHOT,William Nylander shot blocked shot by Marcus Pettersson,2022-11-16T00:29:05Z,1,11:13,08:47,0,0,5.0,Pittsburgh Penguins,PIT
+67,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025183,2022020251,Hit,83,HIT,Brian Dumoulin hit Mitchell Marner,2022-11-16T00:29:24Z,1,11:32,08:28,0,0,5.0,Pittsburgh Penguins,PIT
+68,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251170,2022020251,Shot,170,SHOT,Morgan Rielly Backhand saved by Casey DeSmith,2022-11-16T00:29:34Z,1,11:42,08:18,0,0,10.0,Toronto Maple Leafs,TOR
+69,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251171,2022020251,Goal,171,GOAL,"John Tavares (9) Snap Shot, assists: Jordie Benn (1), Alexander Kerfoot (5)",2022-11-16T00:29:55Z,1,12:04,07:56,0,1,10.0,Toronto Maple Leafs,TOR
+70,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025184,2022020251,Faceoff,84,FACEOFF,David Kampf faceoff won against Evgeni Malkin,2022-11-16T00:30:34Z,1,12:04,07:56,0,1,10.0,Toronto Maple Leafs,TOR
+71,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251172,2022020251,Shot,172,SHOT,David Kampf Wrist Shot saved by Casey DeSmith,2022-11-16T00:30:57Z,1,12:27,07:33,0,1,10.0,Toronto Maple Leafs,TOR
+72,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251173,2022020251,Missed Shot,173,MISSED_SHOT,Jason Zucker Wide of Net Matt Murray,2022-11-16T00:31:06Z,1,12:36,07:24,0,1,5.0,Pittsburgh Penguins,PIT
+73,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251174,2022020251,Blocked Shot,174,BLOCKED_SHOT,Jan Rutta shot blocked shot by Zach Aston-Reese,2022-11-16T00:31:13Z,1,12:43,07:17,0,1,10.0,Toronto Maple Leafs,TOR
+74,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025123,2022020251,Shot,23,SHOT,Jan Rutta Wrist Shot saved by Matt Murray,2022-11-16T00:31:14Z,1,12:44,07:16,0,1,5.0,Pittsburgh Penguins,PIT
+75,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025185,2022020251,Hit,85,HIT,Calle Jarnkrok hit Jan Rutta,2022-11-16T00:31:26Z,1,12:56,07:04,0,1,10.0,Toronto Maple Leafs,TOR
+76,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025186,2022020251,Hit,86,HIT,Jan Rutta hit Calle Jarnkrok,2022-11-16T00:31:37Z,1,13:07,06:53,0,1,5.0,Pittsburgh Penguins,PIT
+77,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025187,2022020251,Hit,87,HIT,Brock McGinn hit Timothy Liljegren,2022-11-16T00:31:48Z,1,13:18,06:42,0,1,5.0,Pittsburgh Penguins,PIT
+78,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251175,2022020251,Shot,175,SHOT,Marcus Pettersson Wrist Shot saved by Matt Murray,2022-11-16T00:31:52Z,1,13:22,06:38,0,1,5.0,Pittsburgh Penguins,PIT
+79,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025188,2022020251,Hit,88,HIT,Jeff Carter hit Pierre Engvall,2022-11-16T00:31:56Z,1,13:26,06:34,0,1,5.0,Pittsburgh Penguins,PIT
+80,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025189,2022020251,Giveaway,89,GIVEAWAY,Giveaway by Auston Matthews,2022-11-16T00:32:19Z,1,13:49,06:11,0,1,10.0,Toronto Maple Leafs,TOR
+81,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025190,2022020251,Hit,90,HIT,Jeff Petry hit Michael Bunting,2022-11-16T00:32:54Z,1,14:24,05:36,0,1,5.0,Pittsburgh Penguins,PIT
+82,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025191,2022020251,Hit,91,HIT,Mark Giordano hit Josh Archibald,2022-11-16T00:33:09Z,1,14:39,05:21,0,1,10.0,Toronto Maple Leafs,TOR
+83,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251176,2022020251,Missed Shot,176,MISSED_SHOT,Sidney Crosby Wide of Net Matt Murray,2022-11-16T00:33:24Z,1,14:54,05:06,0,1,5.0,Pittsburgh Penguins,PIT
+84,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025192,2022020251,Hit,92,HIT,Marcus Pettersson hit Alexander Kerfoot,2022-11-16T00:33:27Z,1,14:57,05:03,0,1,5.0,Pittsburgh Penguins,PIT
+85,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251177,2022020251,Goal,177,GOAL,"Mitchell Marner (4) Wrist Shot, assists: Morgan Rielly (13), John Tavares (9)",2022-11-16T00:33:34Z,1,15:04,04:56,0,2,10.0,Toronto Maple Leafs,TOR
+86,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025193,2022020251,Faceoff,93,FACEOFF,David Kampf faceoff won against Evgeni Malkin,2022-11-16T00:34:19Z,1,15:04,04:56,0,2,10.0,Toronto Maple Leafs,TOR
+87,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025194,2022020251,Stoppage,94,STOP,Icing,2022-11-16T00:34:25Z,1,15:10,04:50,0,2,,,
+88,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025195,2022020251,Faceoff,95,FACEOFF,Evgeni Malkin faceoff won against David Kampf,2022-11-16T00:34:55Z,1,15:10,04:50,0,2,5.0,Pittsburgh Penguins,PIT
+89,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251178,2022020251,Missed Shot,178,MISSED_SHOT,Jan Rutta Wide of Net Matt Murray,2022-11-16T00:34:59Z,1,15:14,04:46,0,2,5.0,Pittsburgh Penguins,PIT
+90,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025196,2022020251,Hit,96,HIT,Rickard Rakell hit Denis Malgin,2022-11-16T00:35:28Z,1,15:43,04:17,0,2,5.0,Pittsburgh Penguins,PIT
+91,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251179,2022020251,Missed Shot,179,MISSED_SHOT,Zach Aston-Reese Wide of Net Casey DeSmith,2022-11-16T00:35:30Z,1,15:45,04:15,0,2,10.0,Toronto Maple Leafs,TOR
+92,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025197,2022020251,Hit,97,HIT,Rickard Rakell hit Rasmus Sandin,2022-11-16T00:35:36Z,1,15:51,04:09,0,2,5.0,Pittsburgh Penguins,PIT
+93,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251180,2022020251,Blocked Shot,180,BLOCKED_SHOT,Calle Jarnkrok shot blocked shot by Jeff Petry,2022-11-16T00:36:05Z,1,16:20,03:40,0,2,5.0,Pittsburgh Penguins,PIT
+94,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251303,2022020251,Blocked Shot,303,BLOCKED_SHOT,Justin Holl shot blocked shot by Brian Dumoulin,2022-11-16T00:36:16Z,1,16:31,03:29,0,2,5.0,Pittsburgh Penguins,PIT
+95,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251181,2022020251,Missed Shot,181,MISSED_SHOT,Calle Jarnkrok Wide of Net Casey DeSmith,2022-11-16T00:36:21Z,1,16:36,03:24,0,2,10.0,Toronto Maple Leafs,TOR
+96,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025198,2022020251,Giveaway,98,GIVEAWAY,Giveaway by Jeff Carter,2022-11-16T00:36:37Z,1,16:52,03:08,0,2,5.0,Pittsburgh Penguins,PIT
+97,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251182,2022020251,Blocked Shot,182,BLOCKED_SHOT,Kris Letang shot blocked shot by Jordie Benn,2022-11-16T00:37:20Z,1,17:35,02:25,0,2,10.0,Toronto Maple Leafs,TOR
+98,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025199,2022020251,Stoppage,99,STOP,Icing,2022-11-16T00:37:39Z,1,17:53,02:07,0,2,,,
+99,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251100,2022020251,Faceoff,100,FACEOFF,Evgeni Malkin faceoff won against John Tavares,2022-11-16T00:38:00Z,1,17:53,02:07,0,2,5.0,Pittsburgh Penguins,PIT
+100,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025124,2022020251,Stoppage,24,STOP,Goalie Stopped,2022-11-16T00:38:10Z,1,18:03,01:57,0,2,,,
+101,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251183,2022020251,Shot,183,SHOT,Evgeni Malkin Backhand saved by Matt Murray,2022-11-16T00:38:10Z,1,18:03,01:57,0,2,5.0,Pittsburgh Penguins,PIT
+102,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251401,2022020251,Faceoff,401,FACEOFF,John Tavares faceoff won against Evgeni Malkin,2022-11-16T00:40:24Z,1,18:03,01:57,0,2,10.0,Toronto Maple Leafs,TOR
+103,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251402,2022020251,Hit,402,HIT,Rickard Rakell hit Mark Giordano,2022-11-16T00:40:34Z,1,18:13,01:47,0,2,5.0,Pittsburgh Penguins,PIT
+104,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251403,2022020251,Hit,403,HIT,Justin Holl hit Jason Zucker,2022-11-16T00:40:40Z,1,18:19,01:41,0,2,10.0,Toronto Maple Leafs,TOR
+105,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251184,2022020251,Blocked Shot,184,BLOCKED_SHOT,Evgeni Malkin shot blocked shot by Mark Giordano,2022-11-16T00:40:43Z,1,18:22,01:38,0,2,10.0,Toronto Maple Leafs,TOR
+106,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025125,2022020251,Blocked Shot,25,BLOCKED_SHOT,Jan Rutta shot blocked shot by Mark Giordano,2022-11-16T00:40:47Z,1,18:26,01:34,0,2,10.0,Toronto Maple Leafs,TOR
+107,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251404,2022020251,Hit,404,HIT,Justin Holl hit Jan Rutta,2022-11-16T00:40:56Z,1,18:35,01:25,0,2,10.0,Toronto Maple Leafs,TOR
+108,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025126,2022020251,Giveaway,26,GIVEAWAY,Giveaway by Mitchell Marner,2022-11-16T00:40:59Z,1,18:38,01:22,0,2,10.0,Toronto Maple Leafs,TOR
+109,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251405,2022020251,Hit,405,HIT,Jordie Benn hit Jake Guentzel,2022-11-16T00:41:21Z,1,19:00,01:00,0,2,10.0,Toronto Maple Leafs,TOR
+110,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251406,2022020251,Hit,406,HIT,Denis Malgin hit Kris Letang,2022-11-16T00:41:34Z,1,19:13,00:47,0,2,10.0,Toronto Maple Leafs,TOR
+111,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025127,2022020251,Stoppage,27,STOP,Offside,2022-11-16T00:41:58Z,1,19:36,00:24,0,2,,,
+112,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251407,2022020251,Faceoff,407,FACEOFF,Jeff Carter faceoff won against Pontus Holmberg,2022-11-16T00:42:28Z,1,19:36,00:24,0,2,5.0,Pittsburgh Penguins,PIT
+113,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251408,2022020251,Hit,408,HIT,Danton Heinen hit Rasmus Sandin,2022-11-16T00:42:36Z,1,19:44,00:16,0,2,5.0,Pittsburgh Penguins,PIT
+114,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251409,2022020251,Takeaway,409,TAKEAWAY,Takeaway by Timothy Liljegren,2022-11-16T00:42:48Z,1,19:56,00:04,0,2,10.0,Toronto Maple Leafs,TOR
+115,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251411,2022020251,Hit,411,HIT,Danton Heinen hit Timothy Liljegren,2022-11-16T00:42:51Z,1,19:59,00:01,0,2,5.0,Pittsburgh Penguins,PIT
+116,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025128,2022020251,Period End,28,PERIOD_END,End of 1st Period,2022-11-16T00:42:52Z,1,20:00,00:00,0,2,,,
+117,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025131,2022020251,Period Official,31,PERIOD_OFFICIAL,Period Official,2022-11-16T00:43:10Z,1,20:00,00:00,0,2,,,
+118,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025132,2022020251,Period Ready,32,PERIOD_READY,Period Ready,2022-11-16T01:00:54Z,2,00:00,20:00,0,2,,,
+119,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251412,2022020251,Period Start,412,PERIOD_START,Period Start,2022-11-16T01:01:35Z,2,00:00,20:00,0,2,,,
+120,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251413,2022020251,Faceoff,413,FACEOFF,Auston Matthews faceoff won against Sidney Crosby,2022-11-16T01:01:35Z,2,00:00,20:00,0,2,10.0,Toronto Maple Leafs,TOR
+121,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251185,2022020251,Goal,185,GOAL,"Michael Bunting (3) Wrist Shot, assists: Auston Matthews (9), William Nylander (10)",2022-11-16T01:01:46Z,2,00:11,19:49,0,3,10.0,Toronto Maple Leafs,TOR
+122,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251414,2022020251,Faceoff,414,FACEOFF,Auston Matthews faceoff won against Evgeni Malkin,2022-11-16T01:02:17Z,2,00:11,19:49,0,3,10.0,Toronto Maple Leafs,TOR
+123,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251186,2022020251,Shot,186,SHOT,Auston Matthews Snap Shot saved by Casey DeSmith,2022-11-16T01:02:28Z,2,00:22,19:38,0,3,10.0,Toronto Maple Leafs,TOR
+124,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251415,2022020251,Missed Shot,415,MISSED_SHOT,Auston Matthews Wide of Net Casey DeSmith,2022-11-16T01:02:29Z,2,00:23,19:37,0,3,10.0,Toronto Maple Leafs,TOR
+125,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251187,2022020251,Goal,187,GOAL,"Rickard Rakell (7) Tip-In, assists: Jason Zucker (10), Evgeni Malkin (10)",2022-11-16T01:03:01Z,2,00:54,19:06,1,3,5.0,Pittsburgh Penguins,PIT
+126,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251416,2022020251,Faceoff,416,FACEOFF,John Tavares faceoff won against Jeff Carter,2022-11-16T01:03:46Z,2,00:54,19:06,1,3,10.0,Toronto Maple Leafs,TOR
+127,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251188,2022020251,Shot,188,SHOT,Alexander Kerfoot Wrist Shot saved by Casey DeSmith,2022-11-16T01:04:03Z,2,01:11,18:49,1,3,10.0,Toronto Maple Leafs,TOR
+128,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251417,2022020251,Giveaway,417,GIVEAWAY,Giveaway by John Tavares,2022-11-16T01:04:18Z,2,01:26,18:34,1,3,10.0,Toronto Maple Leafs,TOR
+129,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251189,2022020251,Shot,189,SHOT,Josh Archibald Wrist Shot saved by Matt Murray,2022-11-16T01:04:44Z,2,01:52,18:08,1,3,5.0,Pittsburgh Penguins,PIT
+130,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251418,2022020251,Hit,418,HIT,Marcus Pettersson hit Zach Aston-Reese,2022-11-16T01:04:57Z,2,02:05,17:55,1,3,5.0,Pittsburgh Penguins,PIT
+131,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251419,2022020251,Hit,419,HIT,Josh Archibald hit David Kampf,2022-11-16T01:05:09Z,2,02:17,17:43,1,3,5.0,Pittsburgh Penguins,PIT
+132,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251420,2022020251,Giveaway,420,GIVEAWAY,Giveaway by Marcus Pettersson,2022-11-16T01:05:20Z,2,02:28,17:32,1,3,5.0,Pittsburgh Penguins,PIT
+133,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251421,2022020251,Giveaway,421,GIVEAWAY,Giveaway by Rasmus Sandin,2022-11-16T01:05:27Z,2,02:35,17:25,1,3,10.0,Toronto Maple Leafs,TOR
+134,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251190,2022020251,Goal,190,GOAL,"Sidney Crosby (7) Backhand, assists: none",2022-11-16T01:05:30Z,2,02:38,17:22,2,3,5.0,Pittsburgh Penguins,PIT
+135,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251422,2022020251,Faceoff,422,FACEOFF,Sidney Crosby faceoff won against Auston Matthews,2022-11-16T01:06:07Z,2,02:38,17:22,2,3,5.0,Pittsburgh Penguins,PIT
+136,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251423,2022020251,Hit,423,HIT,Jordie Benn hit Jake Guentzel,2022-11-16T01:06:42Z,2,03:13,16:47,2,3,10.0,Toronto Maple Leafs,TOR
+137,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251191,2022020251,Blocked Shot,191,BLOCKED_SHOT,Sidney Crosby shot blocked shot by Auston Matthews,2022-11-16T01:06:44Z,2,03:15,16:45,2,3,10.0,Toronto Maple Leafs,TOR
+138,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251424,2022020251,Takeaway,424,TAKEAWAY,Takeaway by William Nylander,2022-11-16T01:06:49Z,2,03:20,16:40,2,3,10.0,Toronto Maple Leafs,TOR
+139,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251304,2022020251,Missed Shot,304,MISSED_SHOT,Evgeni Malkin Wide of Net Matt Murray,2022-11-16T01:07:04Z,2,03:35,16:25,2,3,5.0,Pittsburgh Penguins,PIT
+140,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251601,2022020251,Penalty,601,PENALTY,Mark Giordano Tripping against Jason Zucker,2022-11-16T01:07:31Z,2,04:02,15:58,2,3,10.0,Toronto Maple Leafs,TOR
+141,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251426,2022020251,Faceoff,426,FACEOFF,David Kampf faceoff won against Sidney Crosby,2022-11-16T01:08:17Z,2,04:02,15:58,2,3,10.0,Toronto Maple Leafs,TOR
+142,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251192,2022020251,Shot,192,SHOT,Kris Letang Slap Shot saved by Matt Murray,2022-11-16T01:08:43Z,2,04:28,15:32,2,3,5.0,Pittsburgh Penguins,PIT
+143,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251307,2022020251,Blocked Shot,307,BLOCKED_SHOT,Sidney Crosby shot blocked shot by Justin Holl,2022-11-16T01:08:45Z,2,04:30,15:30,2,3,10.0,Toronto Maple Leafs,TOR
+144,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251427,2022020251,Hit,427,HIT,Justin Holl hit Jake Guentzel,2022-11-16T01:08:49Z,2,04:34,15:26,2,3,10.0,Toronto Maple Leafs,TOR
+145,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251193,2022020251,Shot,193,SHOT,Kris Letang Slap Shot saved by Matt Murray,2022-11-16T01:08:54Z,2,04:39,15:21,2,3,5.0,Pittsburgh Penguins,PIT
+146,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251194,2022020251,Shot,194,SHOT,Jake Guentzel Wrist Shot saved by Matt Murray,2022-11-16T01:09:03Z,2,04:48,15:12,2,3,5.0,Pittsburgh Penguins,PIT
+147,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251428,2022020251,Giveaway,428,GIVEAWAY,Giveaway by Jake Guentzel,2022-11-16T01:09:06Z,2,04:51,15:09,2,3,5.0,Pittsburgh Penguins,PIT
+148,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251429,2022020251,Takeaway,429,TAKEAWAY,Takeaway by Sidney Crosby,2022-11-16T01:09:11Z,2,04:56,15:04,2,3,5.0,Pittsburgh Penguins,PIT
+149,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251195,2022020251,Shot,195,SHOT,Jake Guentzel Slap Shot saved by Matt Murray,2022-11-16T01:09:24Z,2,05:09,14:51,2,3,5.0,Pittsburgh Penguins,PIT
+150,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251430,2022020251,Giveaway,430,GIVEAWAY,Giveaway by Jason Zucker,2022-11-16T01:09:52Z,2,05:37,14:23,2,3,5.0,Pittsburgh Penguins,PIT
+151,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251431,2022020251,Takeaway,431,TAKEAWAY,Takeaway by Zach Aston-Reese,2022-11-16T01:10:16Z,2,06:01,13:59,2,3,10.0,Toronto Maple Leafs,TOR
+152,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025134,2022020251,Stoppage,34,STOP,Offside,2022-11-16T01:10:55Z,2,06:40,13:20,2,3,,,
+153,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251625,2022020251,Penalty,625,PENALTY,Jan Rutta Roughing against Michael Bunting,2022-11-16T01:10:55Z,2,06:40,13:20,2,3,5.0,Pittsburgh Penguins,PIT
+154,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251628,2022020251,Penalty,628,PENALTY,Michael Bunting Roughing against Jan Rutta,2022-11-16T01:10:55Z,2,06:40,13:20,2,3,10.0,Toronto Maple Leafs,TOR
+155,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251432,2022020251,Faceoff,432,FACEOFF,John Tavares faceoff won against Sidney Crosby,2022-11-16T01:13:37Z,2,06:40,13:20,2,3,10.0,Toronto Maple Leafs,TOR
+156,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251434,2022020251,Hit,434,HIT,John Tavares hit Jake Guentzel,2022-11-16T01:14:08Z,2,07:11,12:49,2,3,10.0,Toronto Maple Leafs,TOR
+157,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251196,2022020251,Blocked Shot,196,BLOCKED_SHOT,Sidney Crosby shot blocked shot by John Tavares,2022-11-16T01:14:29Z,2,07:32,12:28,2,3,10.0,Toronto Maple Leafs,TOR
+158,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251197,2022020251,Shot,197,SHOT,William Nylander Tip-In saved by Casey DeSmith,2022-11-16T01:14:37Z,2,07:40,12:20,2,3,10.0,Toronto Maple Leafs,TOR
+159,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025135,2022020251,Stoppage,35,STOP,Goalie Stopped,2022-11-16T01:14:39Z,2,07:41,12:19,2,3,,,
+160,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251435,2022020251,Faceoff,435,FACEOFF,Jeff Carter faceoff won against Auston Matthews,2022-11-16T01:15:10Z,2,07:41,12:19,2,3,5.0,Pittsburgh Penguins,PIT
+161,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025136,2022020251,Takeaway,36,TAKEAWAY,Takeaway by William Nylander,2022-11-16T01:15:27Z,2,07:58,12:02,2,3,10.0,Toronto Maple Leafs,TOR
+162,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251198,2022020251,Shot,198,SHOT,Jason Zucker Snap Shot saved by Matt Murray,2022-11-16T01:15:39Z,2,08:10,11:50,2,3,5.0,Pittsburgh Penguins,PIT
+163,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025137,2022020251,Stoppage,37,STOP,Goalie Stopped,2022-11-16T01:15:41Z,2,08:12,11:48,2,3,,,
+164,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251436,2022020251,Faceoff,436,FACEOFF,Alexander Kerfoot faceoff won against Evgeni Malkin,2022-11-16T01:16:11Z,2,08:12,11:48,2,3,10.0,Toronto Maple Leafs,TOR
+165,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251437,2022020251,Takeaway,437,TAKEAWAY,Takeaway by Evgeni Malkin,2022-11-16T01:16:17Z,2,08:18,11:42,2,3,5.0,Pittsburgh Penguins,PIT
+166,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251199,2022020251,Blocked Shot,199,BLOCKED_SHOT,Kris Letang shot blocked shot by Alexander Kerfoot,2022-11-16T01:16:20Z,2,08:21,11:39,2,3,10.0,Toronto Maple Leafs,TOR
+167,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251438,2022020251,Hit,438,HIT,Rasmus Sandin hit Brock McGinn,2022-11-16T01:16:41Z,2,08:42,11:18,2,3,10.0,Toronto Maple Leafs,TOR
+168,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251501,2022020251,Shot,501,SHOT,Pontus Holmberg Snap Shot saved by Casey DeSmith,2022-11-16T01:17:12Z,2,09:13,10:47,2,3,10.0,Toronto Maple Leafs,TOR
+169,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025138,2022020251,Stoppage,38,STOP,Goalie Stopped,2022-11-16T01:17:13Z,2,09:14,10:46,2,3,,,
+170,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251439,2022020251,Faceoff,439,FACEOFF,Teddy Blueger faceoff won against Pontus Holmberg,2022-11-16T01:17:56Z,2,09:14,10:46,2,3,5.0,Pittsburgh Penguins,PIT
+171,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251440,2022020251,Hit,440,HIT,Josh Archibald hit Mark Giordano,2022-11-16T01:18:09Z,2,09:27,10:33,2,3,5.0,Pittsburgh Penguins,PIT
+172,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251502,2022020251,Missed Shot,502,MISSED_SHOT,Teddy Blueger Wide of Net Matt Murray,2022-11-16T01:18:24Z,2,09:42,10:18,2,3,5.0,Pittsburgh Penguins,PIT
+173,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251441,2022020251,Takeaway,441,TAKEAWAY,Takeaway by Teddy Blueger,2022-11-16T01:18:41Z,2,09:59,10:01,2,3,5.0,Pittsburgh Penguins,PIT
+174,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251503,2022020251,Blocked Shot,503,BLOCKED_SHOT,Ryan Poehling shot blocked shot by Mark Giordano,2022-11-16T01:18:46Z,2,10:04,09:56,2,3,10.0,Toronto Maple Leafs,TOR
+175,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025139,2022020251,Blocked Shot,39,BLOCKED_SHOT,Sidney Crosby shot blocked shot by Jordie Benn,2022-11-16T01:19:21Z,2,10:39,09:21,2,3,10.0,Toronto Maple Leafs,TOR
+176,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251504,2022020251,Blocked Shot,504,BLOCKED_SHOT,Sidney Crosby shot blocked shot by Jordie Benn,2022-11-16T01:19:21Z,2,10:39,09:21,2,3,10.0,Toronto Maple Leafs,TOR
+177,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251505,2022020251,Blocked Shot,505,BLOCKED_SHOT,Brian Dumoulin shot blocked shot by Denis Malgin,2022-11-16T01:19:24Z,2,10:42,09:18,2,3,10.0,Toronto Maple Leafs,TOR
+178,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251442,2022020251,Hit,442,HIT,Brian Dumoulin hit Denis Malgin,2022-11-16T01:19:32Z,2,10:50,09:10,2,3,5.0,Pittsburgh Penguins,PIT
+179,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251506,2022020251,Shot,506,SHOT,Kris Letang Backhand saved by Matt Murray,2022-11-16T01:20:26Z,2,11:44,08:16,2,3,5.0,Pittsburgh Penguins,PIT
+180,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251507,2022020251,Shot,507,SHOT,Kris Letang Wrist Shot saved by Matt Murray,2022-11-16T01:20:28Z,2,11:46,08:14,2,3,5.0,Pittsburgh Penguins,PIT
+181,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251508,2022020251,Stoppage,508,STOP,Goalie Stopped,2022-11-16T01:20:28Z,2,11:47,08:13,2,3,,,
+182,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251444,2022020251,Faceoff,444,FACEOFF,John Tavares faceoff won against Sidney Crosby,2022-11-16T01:22:46Z,2,11:47,08:13,2,3,10.0,Toronto Maple Leafs,TOR
+183,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251445,2022020251,Stoppage,445,STOP,Offside,2022-11-16T01:22:53Z,2,11:53,08:07,2,3,,,
+184,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025140,2022020251,Faceoff,40,FACEOFF,John Tavares faceoff won against Sidney Crosby,2022-11-16T01:23:10Z,2,11:53,08:07,2,3,10.0,Toronto Maple Leafs,TOR
+185,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251448,2022020251,Hit,448,HIT,Brian Dumoulin hit John Tavares,2022-11-16T01:23:27Z,2,12:10,07:50,2,3,5.0,Pittsburgh Penguins,PIT
+186,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251509,2022020251,Shot,509,SHOT,John Tavares Wrist Shot saved by Casey DeSmith,2022-11-16T01:23:31Z,2,12:14,07:46,2,3,10.0,Toronto Maple Leafs,TOR
+187,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251510,2022020251,Shot,510,SHOT,Sidney Crosby Wrist Shot saved by Matt Murray,2022-11-16T01:23:48Z,2,12:31,07:29,2,3,5.0,Pittsburgh Penguins,PIT
+188,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251449,2022020251,Hit,449,HIT,Danton Heinen hit Jordie Benn,2022-11-16T01:24:02Z,2,12:45,07:15,2,3,5.0,Pittsburgh Penguins,PIT
+189,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251511,2022020251,Blocked Shot,511,BLOCKED_SHOT,Danton Heinen shot blocked shot by Jordie Benn,2022-11-16T01:24:14Z,2,12:57,07:03,2,3,10.0,Toronto Maple Leafs,TOR
+190,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251308,2022020251,Shot,308,SHOT,Jan Rutta Wrist Shot saved by Matt Murray,2022-11-16T01:24:18Z,2,13:01,06:59,2,3,5.0,Pittsburgh Penguins,PIT
+191,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251512,2022020251,Shot,512,SHOT,Brock McGinn Wrist Shot saved by Matt Murray,2022-11-16T01:24:22Z,2,13:05,06:55,2,3,5.0,Pittsburgh Penguins,PIT
+192,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025141,2022020251,Stoppage,41,STOP,Goalie Stopped,2022-11-16T01:24:25Z,2,13:08,06:52,2,3,,,
+193,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251450,2022020251,Faceoff,450,FACEOFF,Evgeni Malkin faceoff won against Auston Matthews,2022-11-16T01:25:06Z,2,13:08,06:52,2,3,5.0,Pittsburgh Penguins,PIT
+194,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251513,2022020251,Blocked Shot,513,BLOCKED_SHOT,Jason Zucker shot blocked shot by Mark Giordano,2022-11-16T01:25:17Z,2,13:19,06:41,2,3,10.0,Toronto Maple Leafs,TOR
+195,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251651,2022020251,Takeaway,651,TAKEAWAY,Takeaway by Auston Matthews,2022-11-16T01:25:27Z,2,13:29,06:31,2,3,10.0,Toronto Maple Leafs,TOR
+196,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251514,2022020251,Shot,514,SHOT,Auston Matthews Snap Shot saved by Casey DeSmith,2022-11-16T01:25:28Z,2,13:30,06:30,2,3,10.0,Toronto Maple Leafs,TOR
+197,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251515,2022020251,Blocked Shot,515,BLOCKED_SHOT,Pierre Engvall shot blocked shot by Brian Dumoulin,2022-11-16T01:25:47Z,2,13:49,06:11,2,3,5.0,Pittsburgh Penguins,PIT
+198,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251652,2022020251,Stoppage,652,STOP,Puck in Netting,2022-11-16T01:25:49Z,2,13:50,06:10,2,3,,,
+199,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251653,2022020251,Faceoff,653,FACEOFF,Pontus Holmberg faceoff won against Teddy Blueger,2022-11-16T01:26:17Z,2,13:50,06:10,2,3,10.0,Toronto Maple Leafs,TOR
+200,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251516,2022020251,Blocked Shot,516,BLOCKED_SHOT,Justin Holl shot blocked shot by Jeff Petry,2022-11-16T01:26:24Z,2,13:57,06:03,2,3,5.0,Pittsburgh Penguins,PIT
+201,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251517,2022020251,Shot,517,SHOT,Josh Archibald Snap Shot saved by Matt Murray,2022-11-16T01:26:38Z,2,14:11,05:49,2,3,5.0,Pittsburgh Penguins,PIT
+202,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251518,2022020251,Missed Shot,518,MISSED_SHOT,Teddy Blueger Wide of Net Matt Murray,2022-11-16T01:26:53Z,2,14:26,05:34,2,3,5.0,Pittsburgh Penguins,PIT
+203,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251654,2022020251,Hit,654,HIT,Jordie Benn hit Marcus Pettersson,2022-11-16T01:27:27Z,2,15:00,05:00,2,3,10.0,Toronto Maple Leafs,TOR
+204,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251519,2022020251,Shot,519,SHOT,Jordie Benn Wrist Shot saved by Casey DeSmith,2022-11-16T01:27:35Z,2,15:08,04:52,2,3,10.0,Toronto Maple Leafs,TOR
+205,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025142,2022020251,Stoppage,42,STOP,Goalie Puck Frozen Played Beyond Center Line,2022-11-16T01:27:39Z,2,15:13,04:47,2,3,,,
+206,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251655,2022020251,Faceoff,655,FACEOFF,Auston Matthews faceoff won against Sidney Crosby,2022-11-16T01:28:03Z,2,15:13,04:47,2,3,10.0,Toronto Maple Leafs,TOR
+207,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251520,2022020251,Shot,520,SHOT,Michael Bunting Slap Shot saved by Casey DeSmith,2022-11-16T01:28:07Z,2,15:17,04:43,2,3,10.0,Toronto Maple Leafs,TOR
+208,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025143,2022020251,Stoppage,43,STOP,Goalie Stopped,2022-11-16T01:28:08Z,2,15:18,04:42,2,3,,,
+209,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251656,2022020251,Faceoff,656,FACEOFF,Jeff Carter faceoff won against Auston Matthews,2022-11-16T01:30:23Z,2,15:18,04:42,2,3,5.0,Pittsburgh Penguins,PIT
+210,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251657,2022020251,Giveaway,657,GIVEAWAY,Giveaway by Marcus Pettersson,2022-11-16T01:30:58Z,2,15:53,04:07,2,3,5.0,Pittsburgh Penguins,PIT
+211,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251521,2022020251,Missed Shot,521,MISSED_SHOT,Ryan Poehling Wide of Net Matt Murray,2022-11-16T01:31:23Z,2,16:18,03:42,2,3,5.0,Pittsburgh Penguins,PIT
+212,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025144,2022020251,Blocked Shot,44,BLOCKED_SHOT,Ryan Poehling shot blocked shot by Mark Giordano,2022-11-16T01:31:39Z,2,16:34,03:26,2,3,10.0,Toronto Maple Leafs,TOR
+213,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251658,2022020251,Hit,658,HIT,Josh Archibald hit Justin Holl,2022-11-16T01:31:43Z,2,16:38,03:22,2,3,5.0,Pittsburgh Penguins,PIT
+214,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251522,2022020251,Shot,522,SHOT,Mitchell Marner Wrist Shot saved by Casey DeSmith,2022-11-16T01:32:23Z,2,17:18,02:42,2,3,10.0,Toronto Maple Leafs,TOR
+215,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251659,2022020251,Hit,659,HIT,Jason Zucker hit Alexander Kerfoot,2022-11-16T01:32:31Z,2,17:26,02:34,2,3,5.0,Pittsburgh Penguins,PIT
+216,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251523,2022020251,Shot,523,SHOT,Marcus Pettersson Wrist Shot saved by Matt Murray,2022-11-16T01:33:22Z,2,18:17,01:43,2,3,5.0,Pittsburgh Penguins,PIT
+217,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025145,2022020251,Stoppage,45,STOP,Goalie Stopped,2022-11-16T01:33:23Z,2,18:18,01:42,2,3,,,
+218,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251660,2022020251,Faceoff,660,FACEOFF,Sidney Crosby faceoff won against Auston Matthews,2022-11-16T01:33:45Z,2,18:18,01:42,2,3,5.0,Pittsburgh Penguins,PIT
+219,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251661,2022020251,Hit,661,HIT,Morgan Rielly hit Jake Guentzel,2022-11-16T01:34:02Z,2,18:35,01:25,2,3,10.0,Toronto Maple Leafs,TOR
+220,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251524,2022020251,Missed Shot,524,MISSED_SHOT,Michael Bunting Wide of Net Casey DeSmith,2022-11-16T01:34:13Z,2,18:46,01:14,2,3,10.0,Toronto Maple Leafs,TOR
+221,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251662,2022020251,Hit,662,HIT,Marcus Pettersson hit William Nylander,2022-11-16T01:34:21Z,2,18:54,01:06,2,3,5.0,Pittsburgh Penguins,PIT
+222,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251525,2022020251,Shot,525,SHOT,Auston Matthews Slap Shot saved by Casey DeSmith,2022-11-16T01:34:25Z,2,18:58,01:02,2,3,10.0,Toronto Maple Leafs,TOR
+223,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025146,2022020251,Blocked Shot,46,BLOCKED_SHOT,Auston Matthews shot blocked shot by Kris Letang,2022-11-16T01:34:34Z,2,19:07,00:53,2,3,5.0,Pittsburgh Penguins,PIT
+224,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251526,2022020251,Goal,526,GOAL,"Michael Bunting (4) Wrist Shot, assists: Pontus Holmberg (1), Auston Matthews (10)",2022-11-16T01:34:38Z,2,19:10,00:50,2,4,10.0,Toronto Maple Leafs,TOR
+225,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251663,2022020251,Faceoff,663,FACEOFF,Jeff Carter faceoff won against Pontus Holmberg,2022-11-16T01:35:22Z,2,19:10,00:50,2,4,5.0,Pittsburgh Penguins,PIT
+226,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251664,2022020251,Hit,664,HIT,Pierre Engvall hit Jan Rutta,2022-11-16T01:35:26Z,2,19:14,00:46,2,4,10.0,Toronto Maple Leafs,TOR
+227,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251665,2022020251,Hit,665,HIT,Danton Heinen hit Mark Giordano,2022-11-16T01:35:38Z,2,19:26,00:34,2,4,5.0,Pittsburgh Penguins,PIT
+228,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251527,2022020251,Blocked Shot,527,BLOCKED_SHOT,Timothy Liljegren shot blocked shot by Jeff Carter,2022-11-16T01:35:49Z,2,19:37,00:23,2,4,5.0,Pittsburgh Penguins,PIT
+229,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025147,2022020251,Period End,47,PERIOD_END,End of 2nd Period,2022-11-16T01:36:12Z,2,20:00,00:00,2,4,,,
+230,5,10,Pittsburgh Penguins,Toronto Maple Leafs,202202025150,2022020251,Period Official,50,PERIOD_OFFICIAL,Period Official,2022-11-16T01:36:21Z,2,20:00,00:00,2,4,,,
+231,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251451,2022020251,Period Ready,451,PERIOD_READY,Period Ready,2022-11-16T01:53:20Z,3,00:00,20:00,2,4,,,
+232,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251452,2022020251,Period Start,452,PERIOD_START,Period Start,2022-11-16T01:54:58Z,3,00:00,20:00,2,4,,,
+233,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251453,2022020251,Faceoff,453,FACEOFF,Auston Matthews faceoff won against Sidney Crosby,2022-11-16T01:54:58Z,3,00:00,20:00,2,4,10.0,Toronto Maple Leafs,TOR
+234,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251666,2022020251,Giveaway,666,GIVEAWAY,Giveaway by Jordie Benn,2022-11-16T01:55:12Z,3,00:14,19:46,2,4,10.0,Toronto Maple Leafs,TOR
+235,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251528,2022020251,Blocked Shot,528,BLOCKED_SHOT,Kris Letang shot blocked shot by Michael Bunting,2022-11-16T01:55:21Z,3,00:23,19:37,2,4,10.0,Toronto Maple Leafs,TOR
+236,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251309,2022020251,Missed Shot,309,MISSED_SHOT,Sidney Crosby Wide of Net Matt Murray,2022-11-16T01:55:23Z,3,00:25,19:35,2,4,5.0,Pittsburgh Penguins,PIT
+237,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251454,2022020251,Shot,454,SHOT,Marcus Pettersson Snap Shot saved by Matt Murray,2022-11-16T01:55:25Z,3,00:27,19:33,2,4,5.0,Pittsburgh Penguins,PIT
+238,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251529,2022020251,Blocked Shot,529,BLOCKED_SHOT,Jake Guentzel shot blocked shot by Morgan Rielly,2022-11-16T01:55:39Z,3,00:41,19:19,2,4,10.0,Toronto Maple Leafs,TOR
+239,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251667,2022020251,Hit,667,HIT,Jordie Benn hit Jake Guentzel,2022-11-16T01:55:48Z,3,00:50,19:10,2,4,10.0,Toronto Maple Leafs,TOR
+240,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251668,2022020251,Hit,668,HIT,Mark Giordano hit Evgeni Malkin,2022-11-16T01:56:08Z,3,01:10,18:50,2,4,10.0,Toronto Maple Leafs,TOR
+241,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251530,2022020251,Shot,530,SHOT,Rickard Rakell Snap Shot saved by Matt Murray,2022-11-16T01:56:12Z,3,01:14,18:46,2,4,5.0,Pittsburgh Penguins,PIT
+242,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251455,2022020251,Stoppage,455,STOP,High Stick,2022-11-16T01:56:14Z,3,01:15,18:45,2,4,,,
+243,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251669,2022020251,Faceoff,669,FACEOFF,Evgeni Malkin faceoff won against John Tavares,2022-11-16T01:56:42Z,3,01:15,18:45,2,4,5.0,Pittsburgh Penguins,PIT
+244,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251670,2022020251,Hit,670,HIT,Jason Zucker hit Justin Holl,2022-11-16T01:56:53Z,3,01:26,18:34,2,4,5.0,Pittsburgh Penguins,PIT
+245,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251531,2022020251,Shot,531,SHOT,Evgeni Malkin Wrist Shot saved by Matt Murray,2022-11-16T01:56:55Z,3,01:28,18:32,2,4,5.0,Pittsburgh Penguins,PIT
+246,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251671,2022020251,Hit,671,HIT,Jason Zucker hit Alexander Kerfoot,2022-11-16T01:57:11Z,3,01:44,18:16,2,4,5.0,Pittsburgh Penguins,PIT
+247,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251672,2022020251,Hit,672,HIT,Rickard Rakell hit Rasmus Sandin,2022-11-16T01:57:21Z,3,01:54,18:06,2,4,5.0,Pittsburgh Penguins,PIT
+248,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251673,2022020251,Hit,673,HIT,Brock McGinn hit Rasmus Sandin,2022-11-16T01:57:48Z,3,02:21,17:39,2,4,5.0,Pittsburgh Penguins,PIT
+249,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251532,2022020251,Shot,532,SHOT,Zach Aston-Reese Wrist Shot saved by Casey DeSmith,2022-11-16T01:57:54Z,3,02:27,17:33,2,4,10.0,Toronto Maple Leafs,TOR
+250,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251674,2022020251,Hit,674,HIT,Denis Malgin hit Brock McGinn,2022-11-16T01:57:58Z,3,02:31,17:29,2,4,10.0,Toronto Maple Leafs,TOR
+251,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251675,2022020251,Takeaway,675,TAKEAWAY,Takeaway by Brock McGinn,2022-11-16T01:58:06Z,3,02:39,17:21,2,4,5.0,Pittsburgh Penguins,PIT
+252,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251456,2022020251,Stoppage,456,STOP,Icing,2022-11-16T01:58:24Z,3,02:58,17:02,2,4,,,
+253,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251676,2022020251,Faceoff,676,FACEOFF,Sidney Crosby faceoff won against Pontus Holmberg,2022-11-16T01:58:49Z,3,02:58,17:02,2,4,5.0,Pittsburgh Penguins,PIT
+254,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251677,2022020251,Hit,677,HIT,Pierre Engvall hit Danton Heinen,2022-11-16T01:58:54Z,3,03:03,16:57,2,4,10.0,Toronto Maple Leafs,TOR
+255,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251457,2022020251,Hit,457,HIT,Kris Letang hit Calle Jarnkrok,2022-11-16T01:59:02Z,3,03:11,16:49,2,4,5.0,Pittsburgh Penguins,PIT
+256,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251678,2022020251,Hit,678,HIT,Pierre Engvall hit Marcus Pettersson,2022-11-16T01:59:09Z,3,03:18,16:42,2,4,10.0,Toronto Maple Leafs,TOR
+257,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251533,2022020251,Missed Shot,533,MISSED_SHOT,Calle Jarnkrok Wide of Net Casey DeSmith,2022-11-16T01:59:11Z,3,03:20,16:40,2,4,10.0,Toronto Maple Leafs,TOR
+258,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251680,2022020251,Hit,680,HIT,Bryan Rust hit Mark Giordano,2022-11-16T01:59:23Z,3,03:32,16:28,2,4,5.0,Pittsburgh Penguins,PIT
+259,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251458,2022020251,Stoppage,458,STOP,Offside,2022-11-16T01:59:31Z,3,03:39,16:21,2,4,,,
+260,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251681,2022020251,Faceoff,681,FACEOFF,Auston Matthews faceoff won against Teddy Blueger,2022-11-16T02:00:00Z,3,03:39,16:21,2,4,10.0,Toronto Maple Leafs,TOR
+261,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251459,2022020251,Stoppage,459,STOP,Icing,2022-11-16T02:00:16Z,3,03:55,16:05,2,4,,,
+262,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251682,2022020251,Faceoff,682,FACEOFF,Auston Matthews faceoff won against Teddy Blueger,2022-11-16T02:00:41Z,3,03:55,16:05,2,4,10.0,Toronto Maple Leafs,TOR
+263,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251534,2022020251,Shot,534,SHOT,Morgan Rielly Wrist Shot saved by Casey DeSmith,2022-11-16T02:00:46Z,3,04:00,16:00,2,4,10.0,Toronto Maple Leafs,TOR
+264,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251683,2022020251,Giveaway,683,GIVEAWAY,Giveaway by Teddy Blueger,2022-11-16T02:01:06Z,3,04:20,15:40,2,4,5.0,Pittsburgh Penguins,PIT
+265,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251535,2022020251,Blocked Shot,535,BLOCKED_SHOT,Timothy Liljegren shot blocked shot by Ryan Poehling,2022-11-16T02:01:23Z,3,04:37,15:23,2,4,5.0,Pittsburgh Penguins,PIT
+266,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251684,2022020251,Hit,684,HIT,John Tavares hit Jeff Petry,2022-11-16T02:01:44Z,3,04:58,15:02,2,4,10.0,Toronto Maple Leafs,TOR
+267,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251685,2022020251,Hit,685,HIT,Jason Zucker hit Rasmus Sandin,2022-11-16T02:01:56Z,3,05:10,14:50,2,4,5.0,Pittsburgh Penguins,PIT
+268,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251686,2022020251,Giveaway,686,GIVEAWAY,Giveaway by Evgeni Malkin,2022-11-16T02:02:26Z,3,05:40,14:20,2,4,5.0,Pittsburgh Penguins,PIT
+269,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251536,2022020251,Blocked Shot,536,BLOCKED_SHOT,Kris Letang shot blocked shot by Mark Giordano,2022-11-16T02:02:28Z,3,05:42,14:18,2,4,10.0,Toronto Maple Leafs,TOR
+270,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251460,2022020251,Shot,460,SHOT,David Kampf Snap Shot saved by Casey DeSmith,2022-11-16T02:02:37Z,3,05:51,14:09,2,4,10.0,Toronto Maple Leafs,TOR
+271,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251887,2022020251,Penalty,887,PENALTY,Denis Malgin High-sticking against Kris Letang,2022-11-16T02:02:39Z,3,05:53,14:07,2,4,10.0,Toronto Maple Leafs,TOR
+272,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251687,2022020251,Faceoff,687,FACEOFF,Sidney Crosby faceoff won against David Kampf,2022-11-16T02:03:39Z,3,05:53,14:07,2,4,5.0,Pittsburgh Penguins,PIT
+273,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251688,2022020251,Hit,688,HIT,Justin Holl hit Jake Guentzel,2022-11-16T02:04:07Z,3,06:21,13:39,2,4,10.0,Toronto Maple Leafs,TOR
+274,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251537,2022020251,Shot,537,SHOT,Bryan Rust Wrist Shot saved by Matt Murray,2022-11-16T02:04:35Z,3,06:49,13:11,2,4,5.0,Pittsburgh Penguins,PIT
+275,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251538,2022020251,Shot,538,SHOT,Evgeni Malkin Wrist Shot saved by Matt Murray,2022-11-16T02:04:41Z,3,06:55,13:05,2,4,5.0,Pittsburgh Penguins,PIT
+276,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251539,2022020251,Shot,539,SHOT,Evgeni Malkin Wrist Shot saved by Matt Murray,2022-11-16T02:04:55Z,3,07:09,12:51,2,4,5.0,Pittsburgh Penguins,PIT
+277,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251689,2022020251,Hit,689,HIT,Timothy Liljegren hit Evgeni Malkin,2022-11-16T02:04:57Z,3,07:11,12:49,2,4,10.0,Toronto Maple Leafs,TOR
+278,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251462,2022020251,Blocked Shot,462,BLOCKED_SHOT,Sidney Crosby shot blocked shot by Jordie Benn,2022-11-16T02:05:25Z,3,07:39,12:21,2,4,10.0,Toronto Maple Leafs,TOR
+279,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251541,2022020251,Shot,541,SHOT,Jordie Benn Backhand saved by Casey DeSmith,2022-11-16T02:05:30Z,3,07:44,12:16,2,4,10.0,Toronto Maple Leafs,TOR
+280,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251542,2022020251,Shot,542,SHOT,Jordie Benn Wrist Shot saved by Casey DeSmith,2022-11-16T02:05:31Z,3,07:45,12:15,2,4,10.0,Toronto Maple Leafs,TOR
+281,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251463,2022020251,Stoppage,463,STOP,Goalie Stopped,2022-11-16T02:05:32Z,3,07:46,12:14,2,4,,,
+282,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251690,2022020251,Faceoff,690,FACEOFF,Jeff Carter faceoff won against William Nylander,2022-11-16T02:06:05Z,3,07:46,12:14,2,4,5.0,Pittsburgh Penguins,PIT
+283,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251691,2022020251,Hit,691,HIT,Teddy Blueger hit Morgan Rielly,2022-11-16T02:07:18Z,3,08:59,11:01,2,4,5.0,Pittsburgh Penguins,PIT
+284,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251692,2022020251,Hit,692,HIT,Josh Archibald hit Timothy Liljegren,2022-11-16T02:07:28Z,3,09:09,10:51,2,4,5.0,Pittsburgh Penguins,PIT
+285,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251543,2022020251,Missed Shot,543,MISSED_SHOT,Chad Ruhwedel Wide of Net Matt Murray,2022-11-16T02:07:38Z,3,09:19,10:41,2,4,5.0,Pittsburgh Penguins,PIT
+286,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251693,2022020251,Takeaway,693,TAKEAWAY,Takeaway by Brian Dumoulin,2022-11-16T02:08:03Z,3,09:44,10:16,2,4,5.0,Pittsburgh Penguins,PIT
+287,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251694,2022020251,Hit,694,HIT,Brian Dumoulin hit Zach Aston-Reese,2022-11-16T02:08:34Z,3,10:15,09:45,2,4,5.0,Pittsburgh Penguins,PIT
+288,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251544,2022020251,Shot,544,SHOT,Mitchell Marner Wrist Shot saved by Casey DeSmith,2022-11-16T02:08:40Z,3,10:21,09:39,2,4,10.0,Toronto Maple Leafs,TOR
+289,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251695,2022020251,Hit,695,HIT,Denis Malgin hit Evgeni Malkin,2022-11-16T02:08:58Z,3,10:39,09:21,2,4,10.0,Toronto Maple Leafs,TOR
+290,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251696,2022020251,Hit,696,HIT,Jason Zucker hit Timothy Liljegren,2022-11-16T02:09:06Z,3,10:47,09:13,2,4,5.0,Pittsburgh Penguins,PIT
+291,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251545,2022020251,Shot,545,SHOT,Denis Malgin Wrist Shot saved by Casey DeSmith,2022-11-16T02:09:33Z,3,11:14,08:46,2,4,10.0,Toronto Maple Leafs,TOR
+292,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251546,2022020251,Shot,546,SHOT,Brock McGinn Wrist Shot saved by Matt Murray,2022-11-16T02:09:49Z,3,11:30,08:30,2,4,5.0,Pittsburgh Penguins,PIT
+293,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251467,2022020251,Shot,467,SHOT,Jeff Carter Wrist Shot saved by Matt Murray,2022-11-16T02:09:50Z,3,11:31,08:29,2,4,5.0,Pittsburgh Penguins,PIT
+294,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251547,2022020251,Missed Shot,547,MISSED_SHOT,Chad Ruhwedel Wide of Net Matt Murray,2022-11-16T02:09:57Z,3,11:38,08:22,2,4,5.0,Pittsburgh Penguins,PIT
+295,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251466,2022020251,Stoppage,466,STOP,Offside,2022-11-16T02:10:12Z,3,11:53,08:07,2,4,,,
+296,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251697,2022020251,Faceoff,697,FACEOFF,Ryan Poehling faceoff won against Auston Matthews,2022-11-16T02:12:35Z,3,11:53,08:07,2,4,5.0,Pittsburgh Penguins,PIT
+297,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251699,2022020251,Giveaway,699,GIVEAWAY,Giveaway by Auston Matthews,2022-11-16T02:13:14Z,3,12:32,07:28,2,4,10.0,Toronto Maple Leafs,TOR
+298,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251700,2022020251,Takeaway,700,TAKEAWAY,Takeaway by Jake Guentzel,2022-11-16T02:13:44Z,3,13:02,06:58,2,4,5.0,Pittsburgh Penguins,PIT
+299,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251548,2022020251,Shot,548,SHOT,Kris Letang Slap Shot saved by Matt Murray,2022-11-16T02:13:55Z,3,13:13,06:47,2,4,5.0,Pittsburgh Penguins,PIT
+300,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251468,2022020251,Stoppage,468,STOP,Goalie Stopped,2022-11-16T02:13:56Z,3,13:14,06:46,2,4,,,
+301,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251901,2022020251,Faceoff,901,FACEOFF,John Tavares faceoff won against Sidney Crosby,2022-11-16T02:16:09Z,3,13:14,06:46,2,4,10.0,Toronto Maple Leafs,TOR
+302,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251310,2022020251,Shot,310,SHOT,John Tavares Wrist Shot saved by Casey DeSmith,2022-11-16T02:16:21Z,3,13:26,06:34,2,4,10.0,Toronto Maple Leafs,TOR
+303,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251469,2022020251,Stoppage,469,STOP,Puck in Netting,2022-11-16T02:16:22Z,3,13:27,06:33,2,4,,,
+304,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251902,2022020251,Faceoff,902,FACEOFF,Jeff Carter faceoff won against Auston Matthews,2022-11-16T02:16:55Z,3,13:27,06:33,2,4,5.0,Pittsburgh Penguins,PIT
+305,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251550,2022020251,Missed Shot,550,MISSED_SHOT,Auston Matthews Wide of Net Casey DeSmith,2022-11-16T02:17:06Z,3,13:38,06:22,2,4,10.0,Toronto Maple Leafs,TOR
+306,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251817,2022020251,Missed Shot,817,MISSED_SHOT,Auston Matthews Wide of Net Casey DeSmith,2022-11-16T02:17:12Z,3,13:44,06:16,2,4,10.0,Toronto Maple Leafs,TOR
+307,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251903,2022020251,Hit,903,HIT,Kris Letang hit Michael Bunting,2022-11-16T02:17:16Z,3,13:48,06:12,2,4,5.0,Pittsburgh Penguins,PIT
+308,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251801,2022020251,Missed Shot,801,MISSED_SHOT,Auston Matthews Wide of Net Casey DeSmith,2022-11-16T02:17:22Z,3,13:54,06:06,2,4,10.0,Toronto Maple Leafs,TOR
+309,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251802,2022020251,Shot,802,SHOT,Danton Heinen Wrist Shot saved by Matt Murray,2022-11-16T02:17:37Z,3,14:09,05:51,2,4,5.0,Pittsburgh Penguins,PIT
+310,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251803,2022020251,Missed Shot,803,MISSED_SHOT,Jason Zucker Wide of Net Matt Murray,2022-11-16T02:17:48Z,3,14:20,05:40,2,4,5.0,Pittsburgh Penguins,PIT
+311,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251804,2022020251,Shot,804,SHOT,Rickard Rakell Wrist Shot saved by Matt Murray,2022-11-16T02:18:02Z,3,14:34,05:26,2,4,5.0,Pittsburgh Penguins,PIT
+312,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251470,2022020251,Shot,470,SHOT,Jason Zucker Backhand saved by Matt Murray,2022-11-16T02:18:04Z,3,14:36,05:24,2,4,5.0,Pittsburgh Penguins,PIT
+313,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251471,2022020251,Stoppage,471,STOP,Goalie Stopped,2022-11-16T02:18:04Z,3,14:37,05:23,2,4,,,
+314,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251904,2022020251,Faceoff,904,FACEOFF,Evgeni Malkin faceoff won against John Tavares,2022-11-16T02:20:17Z,3,14:37,05:23,2,4,5.0,Pittsburgh Penguins,PIT
+315,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251472,2022020251,Stoppage,472,STOP,Icing,2022-11-16T02:20:25Z,3,14:45,05:15,2,4,,,
+316,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251905,2022020251,Faceoff,905,FACEOFF,Evgeni Malkin faceoff won against John Tavares,2022-11-16T02:20:47Z,3,14:45,05:15,2,4,5.0,Pittsburgh Penguins,PIT
+317,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251805,2022020251,Shot,805,SHOT,Jason Zucker Snap Shot saved by Matt Murray,2022-11-16T02:20:53Z,3,14:51,05:09,2,4,5.0,Pittsburgh Penguins,PIT
+318,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251806,2022020251,Shot,806,SHOT,Mitchell Marner Wrist Shot saved by Casey DeSmith,2022-11-16T02:21:11Z,3,15:09,04:51,2,4,10.0,Toronto Maple Leafs,TOR
+319,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251473,2022020251,Stoppage,473,STOP,Goalie Stopped,2022-11-16T02:21:13Z,3,15:11,04:49,2,4,,,
+320,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251906,2022020251,Faceoff,906,FACEOFF,Sidney Crosby faceoff won against David Kampf,2022-11-16T02:21:52Z,3,15:11,04:49,2,4,5.0,Pittsburgh Penguins,PIT
+321,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251907,2022020251,Hit,907,HIT,Marcus Pettersson hit Zach Aston-Reese,2022-11-16T02:22:16Z,3,15:35,04:25,2,4,5.0,Pittsburgh Penguins,PIT
+322,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251807,2022020251,Shot,807,SHOT,Denis Malgin Snap Shot saved by Casey DeSmith,2022-11-16T02:22:24Z,3,15:43,04:17,2,4,10.0,Toronto Maple Leafs,TOR
+323,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251474,2022020251,Blocked Shot,474,BLOCKED_SHOT,Zach Aston-Reese shot blocked shot by Marcus Pettersson,2022-11-16T02:22:33Z,3,15:52,04:08,2,4,5.0,Pittsburgh Penguins,PIT
+324,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251808,2022020251,Blocked Shot,808,BLOCKED_SHOT,Jordie Benn shot blocked shot by Sidney Crosby,2022-11-16T02:22:33Z,3,15:52,04:08,2,4,5.0,Pittsburgh Penguins,PIT
+325,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251809,2022020251,Missed Shot,809,MISSED_SHOT,Zach Aston-Reese Goalpost Casey DeSmith,2022-11-16T02:22:37Z,3,15:56,04:04,2,4,10.0,Toronto Maple Leafs,TOR
+326,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251810,2022020251,Shot,810,SHOT,Pierre Engvall Snap Shot saved by Casey DeSmith,2022-11-16T02:22:53Z,3,16:12,03:48,2,4,10.0,Toronto Maple Leafs,TOR
+327,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251908,2022020251,Hit,908,HIT,Danton Heinen hit Justin Holl,2022-11-16T02:23:18Z,3,16:37,03:23,2,4,5.0,Pittsburgh Penguins,PIT
+328,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251811,2022020251,Shot,811,SHOT,Jeff Carter Wrist Shot saved by Matt Murray,2022-11-16T02:23:19Z,3,16:38,03:22,2,4,5.0,Pittsburgh Penguins,PIT
+329,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251812,2022020251,Shot,812,SHOT,Brian Dumoulin Wrist Shot saved by Matt Murray,2022-11-16T02:23:34Z,3,16:53,03:07,2,4,5.0,Pittsburgh Penguins,PIT
+330,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251909,2022020251,Stoppage,909,STOP,Goalie Stopped,2022-11-16T02:23:39Z,3,16:58,03:02,2,4,,,
+331,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251910,2022020251,Faceoff,910,FACEOFF,Auston Matthews faceoff won against Sidney Crosby,2022-11-16T02:24:11Z,3,16:58,03:02,2,4,10.0,Toronto Maple Leafs,TOR
+332,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251911,2022020251,Giveaway,911,GIVEAWAY,Giveaway by Rickard Rakell,2022-11-16T02:24:29Z,3,17:16,02:44,2,4,5.0,Pittsburgh Penguins,PIT
+333,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251813,2022020251,Blocked Shot,813,BLOCKED_SHOT,Evgeni Malkin shot blocked shot by Morgan Rielly,2022-11-16T02:24:42Z,3,17:29,02:31,2,4,10.0,Toronto Maple Leafs,TOR
+334,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251814,2022020251,Goal,814,GOAL,"William Nylander (7) Snap Shot, assists: Michael Bunting (5), Morgan Rielly (14)",2022-11-16T02:24:49Z,3,17:37,02:23,2,5,10.0,Toronto Maple Leafs,TOR
+335,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251912,2022020251,Faceoff,912,FACEOFF,Teddy Blueger faceoff won against Pontus Holmberg,2022-11-16T02:25:30Z,3,17:37,02:23,2,5,5.0,Pittsburgh Penguins,PIT
+336,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251913,2022020251,Hit,913,HIT,Josh Archibald hit Justin Holl,2022-11-16T02:25:43Z,3,17:50,02:10,2,5,5.0,Pittsburgh Penguins,PIT
+337,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251914,2022020251,Stoppage,914,STOP,Puck in Netting,2022-11-16T02:25:44Z,3,17:52,02:08,2,5,,,
+338,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251915,2022020251,Faceoff,915,FACEOFF,Teddy Blueger faceoff won against Pontus Holmberg,2022-11-16T02:26:11Z,3,17:52,02:08,2,5,5.0,Pittsburgh Penguins,PIT
+339,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251916,2022020251,Giveaway,916,GIVEAWAY,Giveaway by Morgan Rielly,2022-11-16T02:26:40Z,3,18:21,01:39,2,5,10.0,Toronto Maple Leafs,TOR
+340,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251475,2022020251,Giveaway,475,GIVEAWAY,Giveaway by Josh Archibald,2022-11-16T02:26:42Z,3,18:23,01:37,2,5,5.0,Pittsburgh Penguins,PIT
+341,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251917,2022020251,Hit,917,HIT,Danton Heinen hit Jordie Benn,2022-11-16T02:27:01Z,3,18:42,01:18,2,5,5.0,Pittsburgh Penguins,PIT
+342,5,10,Pittsburgh Penguins,Toronto Maple Leafs,20220202511048,2022020251,Penalty,1048,PENALTY,Jeff Carter Cross-checking against Alexander Kerfoot served by Danton Heinen,2022-11-16T02:27:15Z,3,18:56,01:04,2,5,5.0,Pittsburgh Penguins,PIT
+343,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251918,2022020251,Faceoff,918,FACEOFF,Alexander Kerfoot faceoff won against Teddy Blueger,2022-11-16T02:28:41Z,3,18:56,01:04,2,5,10.0,Toronto Maple Leafs,TOR
+344,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251816,2022020251,Shot,816,SHOT,Alexander Kerfoot Snap Shot saved by Casey DeSmith,2022-11-16T02:28:57Z,3,19:12,00:48,2,5,10.0,Toronto Maple Leafs,TOR
+345,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251476,2022020251,Period End,476,PERIOD_END,End of 3rd Period,2022-11-16T02:29:46Z,3,20:00,00:00,2,5,,,
+346,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251479,2022020251,Period Official,479,PERIOD_OFFICIAL,Period Official,2022-11-16T02:29:57Z,3,20:00,00:00,2,5,,,
+347,5,10,Pittsburgh Penguins,Toronto Maple Leafs,2022020251480,2022020251,Game End,480,GAME_END,Game End,2022-11-16T02:29:59Z,3,20:00,00:00,2,5,,,
+348,5,10,Pittsburgh Penguins,Toronto Maple Leafs,20220202511191,2022020251,Game Official,1191,GAME_OFFICIAL,Game Official,2022-11-16T15:29:47Z,3,20:00,00:00,2,5,,,

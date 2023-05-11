@@ -1,0 +1,357 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,6,17,Boston Bruins,Detroit Red Wings,20220210381,2022021038,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-03-11T16:59:14Z,1,00:00,20:00,0,0,,,
+1,6,17,Boston Bruins,Detroit Red Wings,20220210385,2022021038,Period Ready,5,PERIOD_READY,Period Ready,2023-03-11T18:03:06Z,1,00:00,20:00,0,0,,,
+2,6,17,Boston Bruins,Detroit Red Wings,202202103851,2022021038,Period Start,51,PERIOD_START,Period Start,2023-03-11T18:05:46Z,1,00:00,20:00,0,0,,,
+3,6,17,Boston Bruins,Detroit Red Wings,202202103852,2022021038,Faceoff,52,FACEOFF,Tomas Nosek faceoff won against Dylan Larkin,2023-03-11T18:05:46Z,1,00:00,20:00,0,0,6.0,Boston Bruins,BOS
+4,6,17,Boston Bruins,Detroit Red Wings,20220210388,2022021038,Hit,8,HIT,Garnet Hathaway hit Olli Maatta,2023-03-11T18:05:59Z,1,00:13,19:47,0,0,6.0,Boston Bruins,BOS
+5,6,17,Boston Bruins,Detroit Red Wings,202202103853,2022021038,Takeaway,53,TAKEAWAY,Takeaway by Tomas Nosek,2023-03-11T18:06:03Z,1,00:17,19:43,0,0,6.0,Boston Bruins,BOS
+6,6,17,Boston Bruins,Detroit Red Wings,20220210389,2022021038,Hit,9,HIT,Pius Suter hit Brandon Carlo,2023-03-11T18:06:13Z,1,00:27,19:33,0,0,17.0,Detroit Red Wings,DET
+7,6,17,Boston Bruins,Detroit Red Wings,202202103810,2022021038,Hit,10,HIT,David Perron hit Hampus Lindholm,2023-03-11T18:06:40Z,1,00:54,19:06,0,0,17.0,Detroit Red Wings,DET
+8,6,17,Boston Bruins,Detroit Red Wings,2022021038152,2022021038,Missed Shot,152,MISSED_SHOT,Jake DeBrusk Wide of Net Magnus Hellberg,2023-03-11T18:06:48Z,1,01:02,18:58,0,0,6.0,Boston Bruins,BOS
+9,6,17,Boston Bruins,Detroit Red Wings,202202103811,2022021038,Penalty,11,PENALTY,Moritz Seider Tripping against Brad Marchand,2023-03-11T18:06:56Z,1,01:10,18:50,0,0,17.0,Detroit Red Wings,DET
+10,6,17,Boston Bruins,Detroit Red Wings,202202103854,2022021038,Faceoff,54,FACEOFF,Andrew Copp faceoff won against Pavel Zacha,2023-03-11T18:07:34Z,1,01:10,18:50,0,0,17.0,Detroit Red Wings,DET
+11,6,17,Boston Bruins,Detroit Red Wings,202202103855,2022021038,Takeaway,55,TAKEAWAY,Takeaway by Andrew Copp,2023-03-11T18:07:57Z,1,01:33,18:27,0,0,17.0,Detroit Red Wings,DET
+12,6,17,Boston Bruins,Detroit Red Wings,2022021038153,2022021038,Goal,153,GOAL,"Andrew Copp (7) Wrist Shot, assists: none",2023-03-11T18:08:00Z,1,01:36,18:24,0,1,17.0,Detroit Red Wings,DET
+13,6,17,Boston Bruins,Detroit Red Wings,202202103856,2022021038,Faceoff,56,FACEOFF,Patrice Bergeron faceoff won against Dylan Larkin,2023-03-11T18:08:36Z,1,01:36,18:24,0,1,6.0,Boston Bruins,BOS
+14,6,17,Boston Bruins,Detroit Red Wings,2022021038154,2022021038,Shot,154,SHOT,David Pastrnak Wrist Shot saved by Magnus Hellberg,2023-03-11T18:09:09Z,1,02:09,17:51,0,1,6.0,Boston Bruins,BOS
+15,6,17,Boston Bruins,Detroit Red Wings,2022021038155,2022021038,Blocked Shot,155,BLOCKED_SHOT,Patrice Bergeron shot blocked shot by Robert Hagg,2023-03-11T18:09:17Z,1,02:17,17:43,0,1,17.0,Detroit Red Wings,DET
+16,6,17,Boston Bruins,Detroit Red Wings,202202103813,2022021038,Stoppage,13,STOP,Goalie Stopped,2023-03-11T18:09:23Z,1,02:23,17:37,0,1,,,
+17,6,17,Boston Bruins,Detroit Red Wings,2022021038251,2022021038,Shot,251,SHOT,David Pastrnak Wrist Shot saved by Magnus Hellberg,2023-03-11T18:09:23Z,1,02:23,17:37,0,1,6.0,Boston Bruins,BOS
+18,6,17,Boston Bruins,Detroit Red Wings,202202103857,2022021038,Faceoff,57,FACEOFF,Patrice Bergeron faceoff won against Andrew Copp,2023-03-11T18:09:46Z,1,02:23,17:37,0,1,6.0,Boston Bruins,BOS
+19,6,17,Boston Bruins,Detroit Red Wings,202202103858,2022021038,Takeaway,58,TAKEAWAY,Takeaway by Andrew Copp,2023-03-11T18:09:52Z,1,02:29,17:31,0,1,17.0,Detroit Red Wings,DET
+20,6,17,Boston Bruins,Detroit Red Wings,2022021038252,2022021038,Shot,252,SHOT,Pius Suter Backhand saved by Linus Ullmark,2023-03-11T18:09:57Z,1,02:34,17:26,0,1,17.0,Detroit Red Wings,DET
+21,6,17,Boston Bruins,Detroit Red Wings,202202103814,2022021038,Stoppage,14,STOP,Goalie Stopped,2023-03-11T18:10:16Z,1,02:52,17:08,0,1,,,
+22,6,17,Boston Bruins,Detroit Red Wings,2022021038157,2022021038,Shot,157,SHOT,David Pastrnak Slap Shot saved by Magnus Hellberg,2023-03-11T18:10:16Z,1,02:52,17:08,0,1,6.0,Boston Bruins,BOS
+23,6,17,Boston Bruins,Detroit Red Wings,202202103859,2022021038,Faceoff,59,FACEOFF,Pavel Zacha faceoff won against Andrew Copp,2023-03-11T18:10:53Z,1,02:52,17:08,0,1,6.0,Boston Bruins,BOS
+24,6,17,Boston Bruins,Detroit Red Wings,202202103815,2022021038,Stoppage,15,STOP,Puck in Benches,2023-03-11T18:11:03Z,1,03:03,16:57,0,1,,,
+25,6,17,Boston Bruins,Detroit Red Wings,202202103860,2022021038,Faceoff,60,FACEOFF,Tyler Bertuzzi faceoff won against Andrew Copp,2023-03-11T18:11:28Z,1,03:03,16:57,0,1,6.0,Boston Bruins,BOS
+26,6,17,Boston Bruins,Detroit Red Wings,2022021038158,2022021038,Blocked Shot,158,BLOCKED_SHOT,Charlie McAvoy shot blocked shot by Olli Maatta,2023-03-11T18:11:33Z,1,03:08,16:52,0,1,17.0,Detroit Red Wings,DET
+27,6,17,Boston Bruins,Detroit Red Wings,202202103816,2022021038,Penalty,16,PENALTY,David Krejci Hooking against Pius Suter,2023-03-11T18:11:44Z,1,03:19,16:41,0,1,6.0,Boston Bruins,BOS
+28,6,17,Boston Bruins,Detroit Red Wings,202202103861,2022021038,Faceoff,61,FACEOFF,Charlie Coyle faceoff won against David Perron,2023-03-11T18:12:35Z,1,03:19,16:41,0,1,6.0,Boston Bruins,BOS
+29,6,17,Boston Bruins,Detroit Red Wings,2022021038159,2022021038,Shot,159,SHOT,Tomas Nosek Wrist Shot saved by Magnus Hellberg,2023-03-11T18:12:47Z,1,03:31,16:29,0,1,6.0,Boston Bruins,BOS
+30,6,17,Boston Bruins,Detroit Red Wings,202202103819,2022021038,Hit,19,HIT,Alex Chiasson hit Charlie McAvoy,2023-03-11T18:13:18Z,1,04:02,15:58,0,1,17.0,Detroit Red Wings,DET
+31,6,17,Boston Bruins,Detroit Red Wings,2022021038160,2022021038,Missed Shot,160,MISSED_SHOT,Moritz Seider Wide of Net Linus Ullmark,2023-03-11T18:13:23Z,1,04:07,15:53,0,1,17.0,Detroit Red Wings,DET
+32,6,17,Boston Bruins,Detroit Red Wings,2022021038161,2022021038,Shot,161,SHOT,Dylan Larkin Snap Shot saved by Linus Ullmark,2023-03-11T18:13:32Z,1,04:16,15:44,0,1,17.0,Detroit Red Wings,DET
+33,6,17,Boston Bruins,Detroit Red Wings,2022021038162,2022021038,Shot,162,SHOT,David Perron Wrist Shot saved by Linus Ullmark,2023-03-11T18:13:43Z,1,04:27,15:33,0,1,17.0,Detroit Red Wings,DET
+34,6,17,Boston Bruins,Detroit Red Wings,2022021038163,2022021038,Goal,163,GOAL,"Alex Chiasson (1) Tip-In, assists: David Perron (25), Dylan Larkin (37)",2023-03-11T18:13:48Z,1,04:32,15:28,0,2,17.0,Detroit Red Wings,DET
+35,6,17,Boston Bruins,Detroit Red Wings,202202103862,2022021038,Faceoff,62,FACEOFF,Tomas Nosek faceoff won against Joe Veleno,2023-03-11T18:14:35Z,1,04:32,15:28,0,2,6.0,Boston Bruins,BOS
+36,6,17,Boston Bruins,Detroit Red Wings,2022021038164,2022021038,Shot,164,SHOT,Filip Zadina Backhand saved by Linus Ullmark,2023-03-11T18:14:52Z,1,04:49,15:11,0,2,17.0,Detroit Red Wings,DET
+37,6,17,Boston Bruins,Detroit Red Wings,202202103820,2022021038,Stoppage,20,STOP,Goalie Stopped,2023-03-11T18:14:53Z,1,04:51,15:09,0,2,,,
+38,6,17,Boston Bruins,Detroit Red Wings,202202103863,2022021038,Faceoff,63,FACEOFF,Austin Czarnik faceoff won against Tomas Nosek,2023-03-11T18:16:18Z,1,04:51,15:09,0,2,17.0,Detroit Red Wings,DET
+39,6,17,Boston Bruins,Detroit Red Wings,2022021038165,2022021038,Shot,165,SHOT,Robert Hagg Wrist Shot saved by Linus Ullmark,2023-03-11T18:16:23Z,1,04:56,15:04,0,2,17.0,Detroit Red Wings,DET
+40,6,17,Boston Bruins,Detroit Red Wings,202202103821,2022021038,Stoppage,21,STOP,Goalie Stopped,2023-03-11T18:16:24Z,1,04:57,15:03,0,2,,,
+41,6,17,Boston Bruins,Detroit Red Wings,2022021038166,2022021038,Shot,166,SHOT,Austin Czarnik Wrist Shot saved by Linus Ullmark,2023-03-11T18:16:24Z,1,04:57,15:03,0,2,17.0,Detroit Red Wings,DET
+42,6,17,Boston Bruins,Detroit Red Wings,202202103864,2022021038,Faceoff,64,FACEOFF,Charlie Coyle faceoff won against Joe Veleno,2023-03-11T18:16:59Z,1,04:57,15:03,0,2,6.0,Boston Bruins,BOS
+43,6,17,Boston Bruins,Detroit Red Wings,202202103822,2022021038,Hit,22,HIT,Joe Veleno hit Charlie Coyle,2023-03-11T18:17:32Z,1,05:30,14:30,0,2,17.0,Detroit Red Wings,DET
+44,6,17,Boston Bruins,Detroit Red Wings,202202103865,2022021038,Giveaway,65,GIVEAWAY,Giveaway by Ben Chiarot,2023-03-11T18:17:48Z,1,05:46,14:14,0,2,17.0,Detroit Red Wings,DET
+45,6,17,Boston Bruins,Detroit Red Wings,202202103823,2022021038,Hit,23,HIT,David Pastrnak hit Olli Maatta,2023-03-11T18:18:17Z,1,06:15,13:45,0,2,6.0,Boston Bruins,BOS
+46,6,17,Boston Bruins,Detroit Red Wings,202202103824,2022021038,Hit,24,HIT,Moritz Seider hit Hampus Lindholm,2023-03-11T18:18:41Z,1,06:39,13:21,0,2,17.0,Detroit Red Wings,DET
+47,6,17,Boston Bruins,Detroit Red Wings,2022021038167,2022021038,Shot,167,SHOT,David Perron Wrist Shot saved by Linus Ullmark,2023-03-11T18:19:15Z,1,07:13,12:47,0,2,17.0,Detroit Red Wings,DET
+48,6,17,Boston Bruins,Detroit Red Wings,2022021038168,2022021038,Missed Shot,168,MISSED_SHOT,Dominik Kubalik Wide of Net Linus Ullmark,2023-03-11T18:19:17Z,1,07:15,12:45,0,2,17.0,Detroit Red Wings,DET
+49,6,17,Boston Bruins,Detroit Red Wings,202202103825,2022021038,Hit,25,HIT,David Perron hit Connor Clifton,2023-03-11T18:19:19Z,1,07:17,12:43,0,2,17.0,Detroit Red Wings,DET
+50,6,17,Boston Bruins,Detroit Red Wings,202202103826,2022021038,Hit,26,HIT,Jake DeBrusk hit Moritz Seider,2023-03-11T18:19:35Z,1,07:33,12:27,0,2,6.0,Boston Bruins,BOS
+51,6,17,Boston Bruins,Detroit Red Wings,202202103827,2022021038,Hit,27,HIT,Adam Erne hit Tomas Nosek,2023-03-11T18:19:52Z,1,07:50,12:10,0,2,17.0,Detroit Red Wings,DET
+52,6,17,Boston Bruins,Detroit Red Wings,2022021038169,2022021038,Shot,169,SHOT,Charlie McAvoy Wrist Shot saved by Magnus Hellberg,2023-03-11T18:19:54Z,1,07:52,12:08,0,2,6.0,Boston Bruins,BOS
+53,6,17,Boston Bruins,Detroit Red Wings,202202103828,2022021038,Stoppage,28,STOP,Puck in Netting,2023-03-11T18:20:06Z,1,08:04,11:56,0,2,,,
+54,6,17,Boston Bruins,Detroit Red Wings,2022021038170,2022021038,Blocked Shot,170,BLOCKED_SHOT,A.J. Greer shot blocked shot by Robert Hagg,2023-03-11T18:20:06Z,1,08:04,11:56,0,2,17.0,Detroit Red Wings,DET
+55,6,17,Boston Bruins,Detroit Red Wings,202202103866,2022021038,Faceoff,66,FACEOFF,Joe Veleno faceoff won against David Krejci,2023-03-11T18:22:42Z,1,08:04,11:56,0,2,17.0,Detroit Red Wings,DET
+56,6,17,Boston Bruins,Detroit Red Wings,202202103867,2022021038,Giveaway,67,GIVEAWAY,Giveaway by Matt Grzelcyk,2023-03-11T18:23:11Z,1,08:33,11:27,0,2,6.0,Boston Bruins,BOS
+57,6,17,Boston Bruins,Detroit Red Wings,202202103829,2022021038,Stoppage,29,STOP,Puck in Netting,2023-03-11T18:23:15Z,1,08:38,11:22,0,2,,,
+58,6,17,Boston Bruins,Detroit Red Wings,2022021038171,2022021038,Blocked Shot,171,BLOCKED_SHOT,Jonatan Berggren shot blocked shot by Connor Clifton,2023-03-11T18:23:15Z,1,08:38,11:22,0,2,6.0,Boston Bruins,BOS
+59,6,17,Boston Bruins,Detroit Red Wings,202202103868,2022021038,Faceoff,68,FACEOFF,Patrice Bergeron faceoff won against Dylan Larkin,2023-03-11T18:23:44Z,1,08:38,11:22,0,2,6.0,Boston Bruins,BOS
+60,6,17,Boston Bruins,Detroit Red Wings,202202103830,2022021038,Stoppage,30,STOP,Icing,2023-03-11T18:23:51Z,1,08:45,11:15,0,2,,,
+61,6,17,Boston Bruins,Detroit Red Wings,202202103869,2022021038,Faceoff,69,FACEOFF,Pius Suter faceoff won against Patrice Bergeron,2023-03-11T18:24:26Z,1,08:45,11:15,0,2,17.0,Detroit Red Wings,DET
+62,6,17,Boston Bruins,Detroit Red Wings,2022021038172,2022021038,Blocked Shot,172,BLOCKED_SHOT,Lucas Raymond shot blocked shot by Jake DeBrusk,2023-03-11T18:24:31Z,1,08:50,11:10,0,2,6.0,Boston Bruins,BOS
+63,6,17,Boston Bruins,Detroit Red Wings,2022021038173,2022021038,Shot,173,SHOT,Moritz Seider Wrist Shot saved by Linus Ullmark,2023-03-11T18:24:39Z,1,08:58,11:02,0,2,17.0,Detroit Red Wings,DET
+64,6,17,Boston Bruins,Detroit Red Wings,202202103831,2022021038,Stoppage,31,STOP,Goalie Stopped,2023-03-11T18:24:40Z,1,08:59,11:01,0,2,,,
+65,6,17,Boston Bruins,Detroit Red Wings,202202103870,2022021038,Faceoff,70,FACEOFF,Pius Suter faceoff won against Tomas Nosek,2023-03-11T18:25:13Z,1,08:59,11:01,0,2,17.0,Detroit Red Wings,DET
+66,6,17,Boston Bruins,Detroit Red Wings,2022021038174,2022021038,Missed Shot,174,MISSED_SHOT,Lucas Raymond Wide of Net Linus Ullmark,2023-03-11T18:25:19Z,1,09:05,10:55,0,2,17.0,Detroit Red Wings,DET
+67,6,17,Boston Bruins,Detroit Red Wings,202202103832,2022021038,Hit,32,HIT,Pavel Zacha hit Moritz Seider,2023-03-11T18:25:28Z,1,09:14,10:46,0,2,6.0,Boston Bruins,BOS
+68,6,17,Boston Bruins,Detroit Red Wings,2022021038175,2022021038,Shot,175,SHOT,Lucas Raymond Wrist Shot saved by Linus Ullmark,2023-03-11T18:25:42Z,1,09:28,10:32,0,2,17.0,Detroit Red Wings,DET
+69,6,17,Boston Bruins,Detroit Red Wings,20220210381141,2022021038,Blocked Shot,1141,BLOCKED_SHOT,Robert Hagg shot blocked shot by Trent Frederic,2023-03-11T18:25:45Z,1,09:31,10:29,0,2,6.0,Boston Bruins,BOS
+70,6,17,Boston Bruins,Detroit Red Wings,2022021038176,2022021038,Shot,176,SHOT,David Perron Backhand saved by Linus Ullmark,2023-03-11T18:26:11Z,1,09:57,10:03,0,2,17.0,Detroit Red Wings,DET
+71,6,17,Boston Bruins,Detroit Red Wings,202202103833,2022021038,Stoppage,33,STOP,Goalie Stopped,2023-03-11T18:26:15Z,1,10:02,09:58,0,2,,,
+72,6,17,Boston Bruins,Detroit Red Wings,2022021038177,2022021038,Shot,177,SHOT,Robert Hagg Wrist Shot saved by Linus Ullmark,2023-03-11T18:26:15Z,1,10:02,09:58,0,2,17.0,Detroit Red Wings,DET
+73,6,17,Boston Bruins,Detroit Red Wings,202202103871,2022021038,Faceoff,71,FACEOFF,Patrice Bergeron faceoff won against Andrew Copp,2023-03-11T18:28:46Z,1,10:02,09:58,0,2,6.0,Boston Bruins,BOS
+74,6,17,Boston Bruins,Detroit Red Wings,202202103834,2022021038,Hit,34,HIT,Jake DeBrusk hit Dominik Kubalik,2023-03-11T18:29:26Z,1,10:42,09:18,0,2,6.0,Boston Bruins,BOS
+75,6,17,Boston Bruins,Detroit Red Wings,2022021038178,2022021038,Missed Shot,178,MISSED_SHOT,Moritz Seider Wide of Net Linus Ullmark,2023-03-11T18:30:05Z,1,11:21,08:39,0,2,17.0,Detroit Red Wings,DET
+76,6,17,Boston Bruins,Detroit Red Wings,202202103835,2022021038,Hit,35,HIT,Tyler Bertuzzi hit Alex Chiasson,2023-03-11T18:30:12Z,1,11:28,08:32,0,2,6.0,Boston Bruins,BOS
+77,6,17,Boston Bruins,Detroit Red Wings,202202103836,2022021038,Hit,36,HIT,Connor Clifton hit Adam Erne,2023-03-11T18:30:23Z,1,11:39,08:21,0,2,6.0,Boston Bruins,BOS
+78,6,17,Boston Bruins,Detroit Red Wings,2022021038179,2022021038,Missed Shot,179,MISSED_SHOT,Joe Veleno Wide of Net Linus Ullmark,2023-03-11T18:30:23Z,1,11:39,08:21,0,2,17.0,Detroit Red Wings,DET
+79,6,17,Boston Bruins,Detroit Red Wings,202202103872,2022021038,Takeaway,72,TAKEAWAY,Takeaway by Joe Veleno,2023-03-11T18:30:31Z,1,11:47,08:13,0,2,17.0,Detroit Red Wings,DET
+80,6,17,Boston Bruins,Detroit Red Wings,2022021038180,2022021038,Shot,180,SHOT,A.J. Greer Wrist Shot saved by Magnus Hellberg,2023-03-11T18:30:48Z,1,12:04,07:56,0,2,6.0,Boston Bruins,BOS
+81,6,17,Boston Bruins,Detroit Red Wings,2022021038181,2022021038,Shot,181,SHOT,Brandon Carlo Wrist Shot saved by Magnus Hellberg,2023-03-11T18:30:51Z,1,12:07,07:53,0,2,6.0,Boston Bruins,BOS
+82,6,17,Boston Bruins,Detroit Red Wings,2022021038182,2022021038,Blocked Shot,182,BLOCKED_SHOT,Dylan Larkin shot blocked shot by Brandon Carlo,2023-03-11T18:31:39Z,1,12:55,07:05,0,2,6.0,Boston Bruins,BOS
+83,6,17,Boston Bruins,Detroit Red Wings,202202103873,2022021038,Takeaway,73,TAKEAWAY,Takeaway by Lucas Raymond,2023-03-11T18:31:47Z,1,13:03,06:57,0,2,17.0,Detroit Red Wings,DET
+84,6,17,Boston Bruins,Detroit Red Wings,202202103837,2022021038,Hit,37,HIT,Matt Grzelcyk hit Lucas Raymond,2023-03-11T18:31:58Z,1,13:14,06:46,0,2,6.0,Boston Bruins,BOS
+85,6,17,Boston Bruins,Detroit Red Wings,202202103874,2022021038,Takeaway,74,TAKEAWAY,Takeaway by Jake Walman,2023-03-11T18:32:24Z,1,13:40,06:20,0,2,17.0,Detroit Red Wings,DET
+86,6,17,Boston Bruins,Detroit Red Wings,2022021038183,2022021038,Shot,183,SHOT,David Pastrnak Slap Shot saved by Magnus Hellberg,2023-03-11T18:33:00Z,1,14:16,05:44,0,2,6.0,Boston Bruins,BOS
+87,6,17,Boston Bruins,Detroit Red Wings,202202103838,2022021038,Stoppage,38,STOP,Puck in Crowd,2023-03-11T18:33:01Z,1,14:17,05:43,0,2,,,
+88,6,17,Boston Bruins,Detroit Red Wings,202202103876,2022021038,Faceoff,76,FACEOFF,Austin Czarnik faceoff won against David Krejci,2023-03-11T18:35:39Z,1,14:17,05:43,0,2,17.0,Detroit Red Wings,DET
+89,6,17,Boston Bruins,Detroit Red Wings,202202103839,2022021038,Stoppage,39,STOP,Puck in Benches,2023-03-11T18:35:45Z,1,14:23,05:37,0,2,,,
+90,6,17,Boston Bruins,Detroit Red Wings,202202103877,2022021038,Faceoff,77,FACEOFF,Austin Czarnik faceoff won against Patrice Bergeron,2023-03-11T18:36:15Z,1,14:23,05:37,0,2,17.0,Detroit Red Wings,DET
+91,6,17,Boston Bruins,Detroit Red Wings,202202103840,2022021038,Hit,40,HIT,Ben Chiarot hit Jake DeBrusk,2023-03-11T18:36:34Z,1,14:42,05:18,0,2,17.0,Detroit Red Wings,DET
+92,6,17,Boston Bruins,Detroit Red Wings,2022021038184,2022021038,Shot,184,SHOT,Patrice Bergeron Snap Shot saved by Magnus Hellberg,2023-03-11T18:36:41Z,1,14:49,05:11,0,2,6.0,Boston Bruins,BOS
+93,6,17,Boston Bruins,Detroit Red Wings,202202103841,2022021038,Hit,41,HIT,Patrice Bergeron hit Alex Chiasson,2023-03-11T18:36:44Z,1,14:52,05:08,0,2,6.0,Boston Bruins,BOS
+94,6,17,Boston Bruins,Detroit Red Wings,2022021038185,2022021038,Shot,185,SHOT,Jake Walman Wrist Shot saved by Linus Ullmark,2023-03-11T18:36:56Z,1,15:04,04:56,0,2,17.0,Detroit Red Wings,DET
+95,6,17,Boston Bruins,Detroit Red Wings,202202103842,2022021038,Hit,42,HIT,Connor Clifton hit Jonatan Berggren,2023-03-11T18:37:13Z,1,15:21,04:39,0,2,6.0,Boston Bruins,BOS
+96,6,17,Boston Bruins,Detroit Red Wings,2022021038186,2022021038,Blocked Shot,186,BLOCKED_SHOT,Tomas Nosek shot blocked shot by Gustav Lindstrom,2023-03-11T18:37:23Z,1,15:31,04:29,0,2,17.0,Detroit Red Wings,DET
+97,6,17,Boston Bruins,Detroit Red Wings,202202103843,2022021038,Hit,43,HIT,Garnet Hathaway hit Joe Veleno,2023-03-11T18:37:28Z,1,15:36,04:24,0,2,6.0,Boston Bruins,BOS
+98,6,17,Boston Bruins,Detroit Red Wings,2022021038187,2022021038,Shot,187,SHOT,Moritz Seider Wrist Shot saved by Linus Ullmark,2023-03-11T18:37:54Z,1,16:02,03:58,0,2,17.0,Detroit Red Wings,DET
+99,6,17,Boston Bruins,Detroit Red Wings,202202103878,2022021038,Takeaway,78,TAKEAWAY,Takeaway by Lucas Raymond,2023-03-11T18:38:08Z,1,16:16,03:44,0,2,17.0,Detroit Red Wings,DET
+100,6,17,Boston Bruins,Detroit Red Wings,2022021038188,2022021038,Blocked Shot,188,BLOCKED_SHOT,David Pastrnak shot blocked shot by Jake Walman,2023-03-11T18:38:41Z,1,16:49,03:11,0,2,17.0,Detroit Red Wings,DET
+101,6,17,Boston Bruins,Detroit Red Wings,202202103879,2022021038,Takeaway,79,TAKEAWAY,Takeaway by David Perron,2023-03-11T18:38:57Z,1,17:05,02:55,0,2,17.0,Detroit Red Wings,DET
+102,6,17,Boston Bruins,Detroit Red Wings,2022021038189,2022021038,Blocked Shot,189,BLOCKED_SHOT,David Perron shot blocked shot by Hampus Lindholm,2023-03-11T18:39:15Z,1,17:23,02:37,0,2,6.0,Boston Bruins,BOS
+103,6,17,Boston Bruins,Detroit Red Wings,202202103844,2022021038,Hit,44,HIT,Moritz Seider hit Brad Marchand,2023-03-11T18:39:44Z,1,17:52,02:08,0,2,17.0,Detroit Red Wings,DET
+104,6,17,Boston Bruins,Detroit Red Wings,202202103880,2022021038,Giveaway,80,GIVEAWAY,Giveaway by Brad Marchand,2023-03-11T18:39:58Z,1,18:06,01:54,0,2,6.0,Boston Bruins,BOS
+105,6,17,Boston Bruins,Detroit Red Wings,2022021038190,2022021038,Shot,190,SHOT,Connor Clifton Slap Shot saved by Magnus Hellberg,2023-03-11T18:40:13Z,1,18:21,01:39,0,2,6.0,Boston Bruins,BOS
+106,6,17,Boston Bruins,Detroit Red Wings,202202103845,2022021038,Stoppage,45,STOP,Goalie Stopped,2023-03-11T18:40:15Z,1,18:23,01:37,0,2,,,
+107,6,17,Boston Bruins,Detroit Red Wings,202202103846,2022021038,Penalty,46,PENALTY,Robert Hagg Hooking against Jake DeBrusk,2023-03-11T18:40:15Z,1,18:23,01:37,0,2,17.0,Detroit Red Wings,DET
+108,6,17,Boston Bruins,Detroit Red Wings,202202103881,2022021038,Faceoff,81,FACEOFF,Andrew Copp faceoff won against Patrice Bergeron,2023-03-11T18:41:50Z,1,18:23,01:37,0,2,17.0,Detroit Red Wings,DET
+109,6,17,Boston Bruins,Detroit Red Wings,202202103882,2022021038,Giveaway,82,GIVEAWAY,Giveaway by Dmitry Orlov,2023-03-11T18:42:04Z,1,18:37,01:23,0,2,6.0,Boston Bruins,BOS
+110,6,17,Boston Bruins,Detroit Red Wings,202202103883,2022021038,Giveaway,83,GIVEAWAY,Giveaway by Ben Chiarot,2023-03-11T18:42:16Z,1,18:49,01:11,0,2,17.0,Detroit Red Wings,DET
+111,6,17,Boston Bruins,Detroit Red Wings,2022021038192,2022021038,Blocked Shot,192,BLOCKED_SHOT,Brad Marchand shot blocked shot by Ben Chiarot,2023-03-11T18:42:41Z,1,19:14,00:46,0,2,17.0,Detroit Red Wings,DET
+112,6,17,Boston Bruins,Detroit Red Wings,2022021038191,2022021038,Blocked Shot,191,BLOCKED_SHOT,Brad Marchand shot blocked shot by Ben Chiarot,2023-03-11T18:42:47Z,1,19:20,00:40,0,2,17.0,Detroit Red Wings,DET
+113,6,17,Boston Bruins,Detroit Red Wings,2022021038193,2022021038,Missed Shot,193,MISSED_SHOT,Hampus Lindholm Wide of Net Magnus Hellberg,2023-03-11T18:43:02Z,1,19:35,00:25,0,2,6.0,Boston Bruins,BOS
+114,6,17,Boston Bruins,Detroit Red Wings,2022021038194,2022021038,Missed Shot,194,MISSED_SHOT,Hampus Lindholm Wide of Net Magnus Hellberg,2023-03-11T18:43:15Z,1,19:48,00:12,0,2,6.0,Boston Bruins,BOS
+115,6,17,Boston Bruins,Detroit Red Wings,2022021038195,2022021038,Shot,195,SHOT,David Krejci Wrist Shot saved by Magnus Hellberg,2023-03-11T18:43:24Z,1,19:57,00:03,0,2,6.0,Boston Bruins,BOS
+116,6,17,Boston Bruins,Detroit Red Wings,202202103849,2022021038,Stoppage,49,STOP,Goalie Stopped,2023-03-11T18:43:26Z,1,19:58,00:02,0,2,,,
+117,6,17,Boston Bruins,Detroit Red Wings,202202103884,2022021038,Faceoff,84,FACEOFF,Patrice Bergeron faceoff won against Austin Czarnik,2023-03-11T18:44:02Z,1,19:58,00:02,0,2,6.0,Boston Bruins,BOS
+118,6,17,Boston Bruins,Detroit Red Wings,202202103850,2022021038,Period End,50,PERIOD_END,End of 1st Period,2023-03-11T18:44:03Z,1,20:00,00:00,0,2,,,
+119,6,17,Boston Bruins,Detroit Red Wings,2022021038303,2022021038,Period Official,303,PERIOD_OFFICIAL,Period Official,2023-03-11T18:44:11Z,1,20:00,00:00,0,2,,,
+120,6,17,Boston Bruins,Detroit Red Wings,2022021038304,2022021038,Period Ready,304,PERIOD_READY,Period Ready,2023-03-11T19:01:47Z,2,00:00,20:00,0,2,,,
+121,6,17,Boston Bruins,Detroit Red Wings,202202103885,2022021038,Period Start,85,PERIOD_START,Period Start,2023-03-11T19:03:28Z,2,00:00,20:00,0,2,,,
+122,6,17,Boston Bruins,Detroit Red Wings,202202103886,2022021038,Faceoff,86,FACEOFF,Patrice Bergeron faceoff won against Dylan Larkin,2023-03-11T19:03:28Z,2,00:00,20:00,0,2,6.0,Boston Bruins,BOS
+123,6,17,Boston Bruins,Detroit Red Wings,2022021038196,2022021038,Shot,196,SHOT,Patrice Bergeron Snap Shot saved by Magnus Hellberg,2023-03-11T19:03:50Z,2,00:22,19:38,0,2,6.0,Boston Bruins,BOS
+124,6,17,Boston Bruins,Detroit Red Wings,2022021038197,2022021038,Shot,197,SHOT,Jake DeBrusk Backhand saved by Magnus Hellberg,2023-03-11T19:04:11Z,2,00:43,19:17,0,2,6.0,Boston Bruins,BOS
+125,6,17,Boston Bruins,Detroit Red Wings,2022021038305,2022021038,Stoppage,305,STOP,Goalie Stopped,2023-03-11T19:04:11Z,2,00:43,19:17,0,2,,,
+126,6,17,Boston Bruins,Detroit Red Wings,202202103887,2022021038,Faceoff,87,FACEOFF,David Krejci faceoff won against Andrew Copp,2023-03-11T19:04:58Z,2,00:43,19:17,0,2,6.0,Boston Bruins,BOS
+127,6,17,Boston Bruins,Detroit Red Wings,2022021038198,2022021038,Shot,198,SHOT,David Pastrnak Slap Shot saved by Magnus Hellberg,2023-03-11T19:05:02Z,2,00:47,19:13,0,2,6.0,Boston Bruins,BOS
+128,6,17,Boston Bruins,Detroit Red Wings,2022021038199,2022021038,Shot,199,SHOT,Tyler Bertuzzi Slap Shot saved by Magnus Hellberg,2023-03-11T19:05:07Z,2,00:52,19:08,0,2,6.0,Boston Bruins,BOS
+129,6,17,Boston Bruins,Detroit Red Wings,2022021038306,2022021038,Stoppage,306,STOP,Goalie Stopped,2023-03-11T19:05:07Z,2,00:52,19:08,0,2,,,
+130,6,17,Boston Bruins,Detroit Red Wings,202202103888,2022021038,Faceoff,88,FACEOFF,Andrew Copp faceoff won against Tyler Bertuzzi,2023-03-11T19:05:32Z,2,00:52,19:08,0,2,17.0,Detroit Red Wings,DET
+131,6,17,Boston Bruins,Detroit Red Wings,2022021038351,2022021038,Shot,351,SHOT,Tyler Bertuzzi Wrist Shot saved by Magnus Hellberg,2023-03-11T19:06:12Z,2,01:32,18:28,0,2,6.0,Boston Bruins,BOS
+132,6,17,Boston Bruins,Detroit Red Wings,2022021038200,2022021038,Shot,200,SHOT,David Krejci Wrist Shot saved by Magnus Hellberg,2023-03-11T19:06:14Z,2,01:34,18:26,0,2,6.0,Boston Bruins,BOS
+133,6,17,Boston Bruins,Detroit Red Wings,2022021038307,2022021038,Hit,307,HIT,David Krejci hit Olli Maatta,2023-03-11T19:06:20Z,2,01:40,18:20,0,2,6.0,Boston Bruins,BOS
+134,6,17,Boston Bruins,Detroit Red Wings,202202103889,2022021038,Giveaway,89,GIVEAWAY,Giveaway by David Pastrnak,2023-03-11T19:06:24Z,2,01:44,18:16,0,2,6.0,Boston Bruins,BOS
+135,6,17,Boston Bruins,Detroit Red Wings,2022021038352,2022021038,Missed Shot,352,MISSED_SHOT,David Pastrnak Wide of Net Magnus Hellberg,2023-03-11T19:06:28Z,2,01:48,18:12,0,2,6.0,Boston Bruins,BOS
+136,6,17,Boston Bruins,Detroit Red Wings,2022021038353,2022021038,Blocked Shot,353,BLOCKED_SHOT,Pavel Zacha shot blocked shot by Robert Hagg,2023-03-11T19:06:54Z,2,02:14,17:46,0,2,17.0,Detroit Red Wings,DET
+137,6,17,Boston Bruins,Detroit Red Wings,2022021038354,2022021038,Blocked Shot,354,BLOCKED_SHOT,Matt Grzelcyk shot blocked shot by Ben Chiarot,2023-03-11T19:06:58Z,2,02:18,17:42,0,2,17.0,Detroit Red Wings,DET
+138,6,17,Boston Bruins,Detroit Red Wings,2022021038538,2022021038,Penalty,538,PENALTY,Joe Veleno Tripping against Charlie Coyle,2023-03-11T19:06:58Z,2,02:18,17:42,0,2,17.0,Detroit Red Wings,DET
+139,6,17,Boston Bruins,Detroit Red Wings,202202103890,2022021038,Faceoff,90,FACEOFF,Patrice Bergeron faceoff won against Dylan Larkin,2023-03-11T19:07:41Z,2,02:18,17:42,0,2,6.0,Boston Bruins,BOS
+140,6,17,Boston Bruins,Detroit Red Wings,202202103891,2022021038,Takeaway,91,TAKEAWAY,Takeaway by Patrice Bergeron,2023-03-11T19:07:50Z,2,02:27,17:33,0,2,6.0,Boston Bruins,BOS
+141,6,17,Boston Bruins,Detroit Red Wings,2022021038355,2022021038,Blocked Shot,355,BLOCKED_SHOT,Patrice Bergeron shot blocked shot by Moritz Seider,2023-03-11T19:07:50Z,2,02:27,17:33,0,2,17.0,Detroit Red Wings,DET
+142,6,17,Boston Bruins,Detroit Red Wings,2022021038308,2022021038,Stoppage,308,STOP,Puck Frozen,2023-03-11T19:08:04Z,2,02:41,17:19,0,2,,,
+143,6,17,Boston Bruins,Detroit Red Wings,202202103892,2022021038,Faceoff,92,FACEOFF,Patrice Bergeron faceoff won against Andrew Copp,2023-03-11T19:08:29Z,2,02:41,17:19,0,2,6.0,Boston Bruins,BOS
+144,6,17,Boston Bruins,Detroit Red Wings,202202103893,2022021038,Stoppage,93,STOP,Goalie Stopped,2023-03-11T19:09:05Z,2,03:18,16:42,0,2,,,
+145,6,17,Boston Bruins,Detroit Red Wings,2022021038356,2022021038,Shot,356,SHOT,David Pastrnak Wrist Shot saved by Magnus Hellberg,2023-03-11T19:09:05Z,2,03:18,16:42,0,2,6.0,Boston Bruins,BOS
+146,6,17,Boston Bruins,Detroit Red Wings,202202103894,2022021038,Faceoff,94,FACEOFF,Andrew Copp faceoff won against Pavel Zacha,2023-03-11T19:09:35Z,2,03:18,16:42,0,2,17.0,Detroit Red Wings,DET
+147,6,17,Boston Bruins,Detroit Red Wings,2022021038357,2022021038,Blocked Shot,357,BLOCKED_SHOT,Charlie McAvoy shot blocked shot by Ben Chiarot,2023-03-11T19:09:51Z,2,03:34,16:26,0,2,17.0,Detroit Red Wings,DET
+148,6,17,Boston Bruins,Detroit Red Wings,2022021038358,2022021038,Blocked Shot,358,BLOCKED_SHOT,Charlie McAvoy shot blocked shot by Olli Maatta,2023-03-11T19:10:08Z,2,03:51,16:09,0,2,17.0,Detroit Red Wings,DET
+149,6,17,Boston Bruins,Detroit Red Wings,2022021038359,2022021038,Blocked Shot,359,BLOCKED_SHOT,Charlie McAvoy shot blocked shot by Olli Maatta,2023-03-11T19:10:17Z,2,04:00,16:00,0,2,17.0,Detroit Red Wings,DET
+150,6,17,Boston Bruins,Detroit Red Wings,2022021038309,2022021038,Hit,309,HIT,Olli Maatta hit Tyler Bertuzzi,2023-03-11T19:10:21Z,2,04:04,15:56,0,2,17.0,Detroit Red Wings,DET
+151,6,17,Boston Bruins,Detroit Red Wings,2022021038360,2022021038,Shot,360,SHOT,Charlie McAvoy Snap Shot saved by Magnus Hellberg,2023-03-11T19:10:27Z,2,04:10,15:50,0,2,6.0,Boston Bruins,BOS
+152,6,17,Boston Bruins,Detroit Red Wings,2022021038253,2022021038,Blocked Shot,253,BLOCKED_SHOT,David Krejci shot blocked shot by Olli Maatta,2023-03-11T19:10:30Z,2,04:13,15:47,0,2,17.0,Detroit Red Wings,DET
+153,6,17,Boston Bruins,Detroit Red Wings,2022021038363,2022021038,Shot,363,SHOT,David Krejci Deflected saved by Magnus Hellberg,2023-03-11T19:10:42Z,2,04:25,15:35,0,2,6.0,Boston Bruins,BOS
+154,6,17,Boston Bruins,Detroit Red Wings,2022021038310,2022021038,Stoppage,310,STOP,Goalie Stopped,2023-03-11T19:10:44Z,2,04:26,15:34,0,2,,,
+155,6,17,Boston Bruins,Detroit Red Wings,2022021038362,2022021038,Shot,362,SHOT,David Krejci Backhand saved by Magnus Hellberg,2023-03-11T19:10:44Z,2,04:26,15:34,0,2,6.0,Boston Bruins,BOS
+156,6,17,Boston Bruins,Detroit Red Wings,202202103895,2022021038,Faceoff,95,FACEOFF,Dylan Larkin faceoff won against A.J. Greer,2023-03-11T19:11:32Z,2,04:26,15:34,0,2,17.0,Detroit Red Wings,DET
+157,6,17,Boston Bruins,Detroit Red Wings,2022021038311,2022021038,Hit,311,HIT,Garnet Hathaway hit Gustav Lindstrom,2023-03-11T19:11:40Z,2,04:34,15:26,0,2,6.0,Boston Bruins,BOS
+158,6,17,Boston Bruins,Detroit Red Wings,202202103896,2022021038,Takeaway,96,TAKEAWAY,Takeaway by Dylan Larkin,2023-03-11T19:11:48Z,2,04:42,15:18,0,2,17.0,Detroit Red Wings,DET
+159,6,17,Boston Bruins,Detroit Red Wings,2022021038312,2022021038,Hit,312,HIT,Garnet Hathaway hit Gustav Lindstrom,2023-03-11T19:11:57Z,2,04:51,15:09,0,2,6.0,Boston Bruins,BOS
+160,6,17,Boston Bruins,Detroit Red Wings,2022021038313,2022021038,Hit,313,HIT,A.J. Greer hit Gustav Lindstrom,2023-03-11T19:12:00Z,2,04:54,15:06,0,2,6.0,Boston Bruins,BOS
+161,6,17,Boston Bruins,Detroit Red Wings,2022021038314,2022021038,Stoppage,314,STOP,Goalie Stopped,2023-03-11T19:12:02Z,2,04:56,15:04,0,2,,,
+162,6,17,Boston Bruins,Detroit Red Wings,2022021038364,2022021038,Shot,364,SHOT,Tomas Nosek Wrist Shot saved by Magnus Hellberg,2023-03-11T19:12:02Z,2,04:56,15:04,0,2,6.0,Boston Bruins,BOS
+163,6,17,Boston Bruins,Detroit Red Wings,202202103897,2022021038,Faceoff,97,FACEOFF,Patrice Bergeron faceoff won against Joe Veleno,2023-03-11T19:13:13Z,2,04:56,15:04,0,2,6.0,Boston Bruins,BOS
+164,6,17,Boston Bruins,Detroit Red Wings,202202103898,2022021038,Takeaway,98,TAKEAWAY,Takeaway by Pavel Zacha,2023-03-11T19:14:05Z,2,05:48,14:12,0,2,6.0,Boston Bruins,BOS
+165,6,17,Boston Bruins,Detroit Red Wings,2022021038365,2022021038,Missed Shot,365,MISSED_SHOT,Charlie Coyle Wide of Net Magnus Hellberg,2023-03-11T19:14:24Z,2,06:07,13:53,0,2,6.0,Boston Bruins,BOS
+166,6,17,Boston Bruins,Detroit Red Wings,2022021038315,2022021038,Hit,315,HIT,Charlie Coyle hit Jonatan Berggren,2023-03-11T19:14:30Z,2,06:13,13:47,0,2,6.0,Boston Bruins,BOS
+167,6,17,Boston Bruins,Detroit Red Wings,2022021038316,2022021038,Stoppage,316,STOP,Puck in Netting,2023-03-11T19:14:34Z,2,06:18,13:42,0,2,,,
+168,6,17,Boston Bruins,Detroit Red Wings,2022021038366,2022021038,Blocked Shot,366,BLOCKED_SHOT,Dmitry Orlov shot blocked shot by Moritz Seider,2023-03-11T19:14:34Z,2,06:18,13:42,0,2,17.0,Detroit Red Wings,DET
+169,6,17,Boston Bruins,Detroit Red Wings,2022021038451,2022021038,Faceoff,451,FACEOFF,Austin Czarnik faceoff won against David Krejci,2023-03-11T19:17:06Z,2,06:18,13:42,0,2,17.0,Detroit Red Wings,DET
+170,6,17,Boston Bruins,Detroit Red Wings,2022021038317,2022021038,Stoppage,317,STOP,Goalie Stopped,2023-03-11T19:17:24Z,2,06:36,13:24,0,2,,,
+171,6,17,Boston Bruins,Detroit Red Wings,2022021038367,2022021038,Shot,367,SHOT,Tyler Bertuzzi Tip-In saved by Magnus Hellberg,2023-03-11T19:17:24Z,2,06:36,13:24,0,2,6.0,Boston Bruins,BOS
+172,6,17,Boston Bruins,Detroit Red Wings,2022021038452,2022021038,Faceoff,452,FACEOFF,Tyler Bertuzzi faceoff won against Dylan Larkin,2023-03-11T19:17:53Z,2,06:36,13:24,0,2,6.0,Boston Bruins,BOS
+173,6,17,Boston Bruins,Detroit Red Wings,2022021038318,2022021038,Stoppage,318,STOP,Icing,2023-03-11T19:18:17Z,2,07:00,13:00,0,2,,,
+174,6,17,Boston Bruins,Detroit Red Wings,2022021038453,2022021038,Faceoff,453,FACEOFF,Dylan Larkin faceoff won against Patrice Bergeron,2023-03-11T19:18:41Z,2,07:00,13:00,0,2,17.0,Detroit Red Wings,DET
+175,6,17,Boston Bruins,Detroit Red Wings,2022021038319,2022021038,Hit,319,HIT,Dylan Larkin hit Patrice Bergeron,2023-03-11T19:18:48Z,2,07:07,12:53,0,2,17.0,Detroit Red Wings,DET
+176,6,17,Boston Bruins,Detroit Red Wings,2022021038369,2022021038,Shot,369,SHOT,Moritz Seider Wrist Shot saved by Linus Ullmark,2023-03-11T19:19:12Z,2,07:31,12:29,0,2,17.0,Detroit Red Wings,DET
+177,6,17,Boston Bruins,Detroit Red Wings,2022021038370,2022021038,Missed Shot,370,MISSED_SHOT,A.J. Greer Wide of Net Magnus Hellberg,2023-03-11T19:19:47Z,2,08:06,11:54,0,2,6.0,Boston Bruins,BOS
+178,6,17,Boston Bruins,Detroit Red Wings,2022021038320,2022021038,Hit,320,HIT,A.J. Greer hit Moritz Seider,2023-03-11T19:19:50Z,2,08:09,11:51,0,2,6.0,Boston Bruins,BOS
+179,6,17,Boston Bruins,Detroit Red Wings,2022021038371,2022021038,Blocked Shot,371,BLOCKED_SHOT,A.J. Greer shot blocked shot by Jake Walman,2023-03-11T19:20:08Z,2,08:27,11:33,0,2,17.0,Detroit Red Wings,DET
+180,6,17,Boston Bruins,Detroit Red Wings,2022021038454,2022021038,Giveaway,454,GIVEAWAY,Giveaway by A.J. Greer,2023-03-11T19:20:26Z,2,08:45,11:15,0,2,6.0,Boston Bruins,BOS
+181,6,17,Boston Bruins,Detroit Red Wings,2022021038321,2022021038,Hit,321,HIT,Trent Frederic hit Alex Chiasson,2023-03-11T19:20:44Z,2,09:03,10:57,0,2,6.0,Boston Bruins,BOS
+182,6,17,Boston Bruins,Detroit Red Wings,2022021038373,2022021038,Shot,373,SHOT,Pavel Zacha Tip-In saved by Magnus Hellberg,2023-03-11T19:21:22Z,2,09:41,10:19,0,2,6.0,Boston Bruins,BOS
+183,6,17,Boston Bruins,Detroit Red Wings,2022021038322,2022021038,Hit,322,HIT,Pavel Zacha hit Austin Czarnik,2023-03-11T19:21:28Z,2,09:47,10:13,0,2,6.0,Boston Bruins,BOS
+184,6,17,Boston Bruins,Detroit Red Wings,2022021038455,2022021038,Giveaway,455,GIVEAWAY,Giveaway by Joe Veleno,2023-03-11T19:21:50Z,2,10:09,09:51,0,2,17.0,Detroit Red Wings,DET
+185,6,17,Boston Bruins,Detroit Red Wings,2022021038323,2022021038,Hit,323,HIT,Robert Hagg hit Pavel Zacha,2023-03-11T19:21:51Z,2,10:10,09:50,0,2,17.0,Detroit Red Wings,DET
+186,6,17,Boston Bruins,Detroit Red Wings,2022021038324,2022021038,Stoppage,324,STOP,Offside,2023-03-11T19:21:55Z,2,10:14,09:46,0,2,,,
+187,6,17,Boston Bruins,Detroit Red Wings,2022021038456,2022021038,Faceoff,456,FACEOFF,David Krejci faceoff won against Joe Veleno,2023-03-11T19:24:19Z,2,10:14,09:46,0,2,6.0,Boston Bruins,BOS
+188,6,17,Boston Bruins,Detroit Red Wings,2022021038325,2022021038,Hit,325,HIT,Connor Clifton hit Dylan Larkin,2023-03-11T19:25:07Z,2,11:02,08:58,0,2,6.0,Boston Bruins,BOS
+189,6,17,Boston Bruins,Detroit Red Wings,2022021038326,2022021038,Stoppage,326,STOP,Goalie Stopped,2023-03-11T19:25:21Z,2,11:17,08:43,0,2,,,
+190,6,17,Boston Bruins,Detroit Red Wings,2022021038374,2022021038,Shot,374,SHOT,Lucas Raymond Wrist Shot saved by Linus Ullmark,2023-03-11T19:25:21Z,2,11:17,08:43,0,2,17.0,Detroit Red Wings,DET
+191,6,17,Boston Bruins,Detroit Red Wings,2022021038457,2022021038,Faceoff,457,FACEOFF,Tomas Nosek faceoff won against Andrew Copp,2023-03-11T19:25:53Z,2,11:17,08:43,0,2,6.0,Boston Bruins,BOS
+192,6,17,Boston Bruins,Detroit Red Wings,2022021038327,2022021038,Stoppage,327,STOP,Goalie Stopped,2023-03-11T19:26:03Z,2,11:27,08:33,0,2,,,
+193,6,17,Boston Bruins,Detroit Red Wings,2022021038375,2022021038,Shot,375,SHOT,Charlie McAvoy Wrist Shot saved by Magnus Hellberg,2023-03-11T19:26:03Z,2,11:27,08:33,0,2,6.0,Boston Bruins,BOS
+194,6,17,Boston Bruins,Detroit Red Wings,2022021038458,2022021038,Faceoff,458,FACEOFF,Patrice Bergeron faceoff won against Andrew Copp,2023-03-11T19:26:57Z,2,11:27,08:33,0,2,6.0,Boston Bruins,BOS
+195,6,17,Boston Bruins,Detroit Red Wings,2022021038459,2022021038,Takeaway,459,TAKEAWAY,Takeaway by Brad Marchand,2023-03-11T19:27:18Z,2,11:48,08:12,0,2,6.0,Boston Bruins,BOS
+196,6,17,Boston Bruins,Detroit Red Wings,2022021038328,2022021038,Hit,328,HIT,Charlie Coyle hit Olli Maatta,2023-03-11T19:27:57Z,2,12:27,07:33,0,2,6.0,Boston Bruins,BOS
+197,6,17,Boston Bruins,Detroit Red Wings,2022021038376,2022021038,Goal,376,GOAL,"Hampus Lindholm (8) Wrist Shot, assists: Charlie Coyle (24), Trent Frederic (11)",2023-03-11T19:28:12Z,2,12:43,07:17,1,2,6.0,Boston Bruins,BOS
+198,6,17,Boston Bruins,Detroit Red Wings,2022021038460,2022021038,Faceoff,460,FACEOFF,David Krejci faceoff won against Dylan Larkin,2023-03-11T19:29:13Z,2,12:43,07:17,1,2,6.0,Boston Bruins,BOS
+199,6,17,Boston Bruins,Detroit Red Wings,2022021038377,2022021038,Missed Shot,377,MISSED_SHOT,Dylan Larkin Wide of Net Linus Ullmark,2023-03-11T19:29:42Z,2,13:12,06:48,1,2,17.0,Detroit Red Wings,DET
+200,6,17,Boston Bruins,Detroit Red Wings,2022021038657,2022021038,Penalty,657,PENALTY,Dylan Larkin Interference against David Krejci,2023-03-11T19:29:58Z,2,13:28,06:32,1,2,17.0,Detroit Red Wings,DET
+201,6,17,Boston Bruins,Detroit Red Wings,2022021038461,2022021038,Faceoff,461,FACEOFF,Andrew Copp faceoff won against Patrice Bergeron,2023-03-11T19:31:25Z,2,13:28,06:32,1,2,17.0,Detroit Red Wings,DET
+202,6,17,Boston Bruins,Detroit Red Wings,2022021038330,2022021038,Stoppage,330,STOP,Puck in Netting,2023-03-11T19:31:38Z,2,13:40,06:20,1,2,,,
+203,6,17,Boston Bruins,Detroit Red Wings,2022021038378,2022021038,Blocked Shot,378,BLOCKED_SHOT,David Pastrnak shot blocked shot by Moritz Seider,2023-03-11T19:31:38Z,2,13:40,06:20,1,2,17.0,Detroit Red Wings,DET
+204,6,17,Boston Bruins,Detroit Red Wings,2022021038462,2022021038,Faceoff,462,FACEOFF,Andrew Copp faceoff won against Patrice Bergeron,2023-03-11T19:32:09Z,2,13:40,06:20,1,2,17.0,Detroit Red Wings,DET
+205,6,17,Boston Bruins,Detroit Red Wings,2022021038463,2022021038,Takeaway,463,TAKEAWAY,Takeaway by Moritz Seider,2023-03-11T19:32:28Z,2,13:59,06:01,1,2,17.0,Detroit Red Wings,DET
+206,6,17,Boston Bruins,Detroit Red Wings,2022021038379,2022021038,Goal,379,GOAL,"Patrice Bergeron (24) Tip-In, assists: Jake DeBrusk (19), Dmitry Orlov (23)",2023-03-11T19:32:39Z,2,14:11,05:49,2,2,6.0,Boston Bruins,BOS
+207,6,17,Boston Bruins,Detroit Red Wings,2022021038464,2022021038,Faceoff,464,FACEOFF,Dylan Larkin faceoff won against Charlie Coyle,2023-03-11T19:33:29Z,2,14:11,05:49,2,2,17.0,Detroit Red Wings,DET
+208,6,17,Boston Bruins,Detroit Red Wings,2022021038331,2022021038,Hit,331,HIT,Robert Hagg hit Trent Frederic,2023-03-11T19:33:45Z,2,14:27,05:33,2,2,17.0,Detroit Red Wings,DET
+209,6,17,Boston Bruins,Detroit Red Wings,2022021038332,2022021038,Hit,332,HIT,Robert Hagg hit Trent Frederic,2023-03-11T19:34:08Z,2,14:50,05:10,2,2,17.0,Detroit Red Wings,DET
+210,6,17,Boston Bruins,Detroit Red Wings,2022021038333,2022021038,Stoppage,333,STOP,Puck in Crowd,2023-03-11T19:34:24Z,2,15:06,04:54,2,2,,,
+211,6,17,Boston Bruins,Detroit Red Wings,2022021038380,2022021038,Blocked Shot,380,BLOCKED_SHOT,Filip Zadina shot blocked shot by Matt Grzelcyk,2023-03-11T19:34:24Z,2,15:06,04:54,2,2,6.0,Boston Bruins,BOS
+212,6,17,Boston Bruins,Detroit Red Wings,2022021038465,2022021038,Faceoff,465,FACEOFF,Austin Czarnik faceoff won against Tomas Nosek,2023-03-11T19:36:48Z,2,15:06,04:54,2,2,17.0,Detroit Red Wings,DET
+213,6,17,Boston Bruins,Detroit Red Wings,2022021038334,2022021038,Stoppage,334,STOP,Puck in Netting,2023-03-11T19:36:54Z,2,15:12,04:48,2,2,,,
+214,6,17,Boston Bruins,Detroit Red Wings,2022021038381,2022021038,Blocked Shot,381,BLOCKED_SHOT,Olli Maatta shot blocked shot by Garnet Hathaway,2023-03-11T19:36:54Z,2,15:12,04:48,2,2,6.0,Boston Bruins,BOS
+215,6,17,Boston Bruins,Detroit Red Wings,2022021038466,2022021038,Faceoff,466,FACEOFF,Tomas Nosek faceoff won against Austin Czarnik,2023-03-11T19:37:22Z,2,15:12,04:48,2,2,6.0,Boston Bruins,BOS
+216,6,17,Boston Bruins,Detroit Red Wings,2022021038335,2022021038,Hit,335,HIT,Adam Erne hit Dmitry Orlov,2023-03-11T19:37:31Z,2,15:21,04:39,2,2,17.0,Detroit Red Wings,DET
+217,6,17,Boston Bruins,Detroit Red Wings,2022021038336,2022021038,Hit,336,HIT,Garnet Hathaway hit Alex Chiasson,2023-03-11T19:37:44Z,2,15:34,04:26,2,2,6.0,Boston Bruins,BOS
+218,6,17,Boston Bruins,Detroit Red Wings,2022021038337,2022021038,Hit,337,HIT,Tomas Nosek hit Olli Maatta,2023-03-11T19:37:51Z,2,15:41,04:19,2,2,6.0,Boston Bruins,BOS
+219,6,17,Boston Bruins,Detroit Red Wings,2022021038338,2022021038,Stoppage,338,STOP,Puck in Netting,2023-03-11T19:37:54Z,2,15:44,04:16,2,2,,,
+220,6,17,Boston Bruins,Detroit Red Wings,2022021038382,2022021038,Blocked Shot,382,BLOCKED_SHOT,Tomas Nosek shot blocked shot by Olli Maatta,2023-03-11T19:37:54Z,2,15:44,04:16,2,2,17.0,Detroit Red Wings,DET
+221,6,17,Boston Bruins,Detroit Red Wings,2022021038467,2022021038,Faceoff,467,FACEOFF,Andrew Copp faceoff won against Tyler Bertuzzi,2023-03-11T19:38:29Z,2,15:44,04:16,2,2,17.0,Detroit Red Wings,DET
+222,6,17,Boston Bruins,Detroit Red Wings,2022021038468,2022021038,Giveaway,468,GIVEAWAY,Giveaway by Moritz Seider,2023-03-11T19:38:57Z,2,16:12,03:48,2,2,17.0,Detroit Red Wings,DET
+223,6,17,Boston Bruins,Detroit Red Wings,2022021038339,2022021038,Hit,339,HIT,Moritz Seider hit Matt Grzelcyk,2023-03-11T19:39:08Z,2,16:23,03:37,2,2,17.0,Detroit Red Wings,DET
+224,6,17,Boston Bruins,Detroit Red Wings,2022021038383,2022021038,Blocked Shot,383,BLOCKED_SHOT,Tyler Bertuzzi shot blocked shot by Jake Walman,2023-03-11T19:39:14Z,2,16:29,03:31,2,2,17.0,Detroit Red Wings,DET
+225,6,17,Boston Bruins,Detroit Red Wings,2022021038384,2022021038,Shot,384,SHOT,Charlie McAvoy Wrist Shot saved by Magnus Hellberg,2023-03-11T19:39:15Z,2,16:30,03:30,2,2,6.0,Boston Bruins,BOS
+226,6,17,Boston Bruins,Detroit Red Wings,2022021038254,2022021038,Blocked Shot,254,BLOCKED_SHOT,David Pastrnak shot blocked shot by Moritz Seider,2023-03-11T19:39:31Z,2,16:46,03:14,2,2,17.0,Detroit Red Wings,DET
+227,6,17,Boston Bruins,Detroit Red Wings,2022021038340,2022021038,Stoppage,340,STOP,Player Injury,2023-03-11T19:39:32Z,2,16:47,03:13,2,2,,,
+228,6,17,Boston Bruins,Detroit Red Wings,2022021038469,2022021038,Faceoff,469,FACEOFF,Patrice Bergeron faceoff won against Dylan Larkin,2023-03-11T19:40:27Z,2,16:47,03:13,2,2,6.0,Boston Bruins,BOS
+229,6,17,Boston Bruins,Detroit Red Wings,2022021038470,2022021038,Giveaway,470,GIVEAWAY,Giveaway by Dylan Larkin,2023-03-11T19:41:07Z,2,17:27,02:33,2,2,17.0,Detroit Red Wings,DET
+230,6,17,Boston Bruins,Detroit Red Wings,2022021038385,2022021038,Blocked Shot,385,BLOCKED_SHOT,Patrice Bergeron shot blocked shot by Olli Maatta,2023-03-11T19:41:11Z,2,17:31,02:29,2,2,17.0,Detroit Red Wings,DET
+231,6,17,Boston Bruins,Detroit Red Wings,2022021038341,2022021038,Stoppage,341,STOP,Puck in Netting,2023-03-11T19:41:35Z,2,17:55,02:05,2,2,,,
+232,6,17,Boston Bruins,Detroit Red Wings,2022021038386,2022021038,Blocked Shot,386,BLOCKED_SHOT,Charlie Coyle shot blocked shot by Filip Zadina,2023-03-11T19:41:35Z,2,17:55,02:05,2,2,17.0,Detroit Red Wings,DET
+233,6,17,Boston Bruins,Detroit Red Wings,2022021038471,2022021038,Faceoff,471,FACEOFF,Charlie Coyle faceoff won against Joe Veleno,2023-03-11T19:42:01Z,2,17:55,02:05,2,2,6.0,Boston Bruins,BOS
+234,6,17,Boston Bruins,Detroit Red Wings,2022021038387,2022021038,Shot,387,SHOT,Connor Clifton Wrist Shot saved by Magnus Hellberg,2023-03-11T19:42:07Z,2,18:01,01:59,2,2,6.0,Boston Bruins,BOS
+235,6,17,Boston Bruins,Detroit Red Wings,2022021038342,2022021038,Stoppage,342,STOP,Icing,2023-03-11T19:42:19Z,2,18:12,01:48,2,2,,,
+236,6,17,Boston Bruins,Detroit Red Wings,2022021038472,2022021038,Faceoff,472,FACEOFF,David Krejci faceoff won against Joe Veleno,2023-03-11T19:42:53Z,2,18:12,01:48,2,2,6.0,Boston Bruins,BOS
+237,6,17,Boston Bruins,Detroit Red Wings,2022021038343,2022021038,Stoppage,343,STOP,Offside,2023-03-11T19:43:25Z,2,18:45,01:15,2,2,,,
+238,6,17,Boston Bruins,Detroit Red Wings,2022021038473,2022021038,Faceoff,473,FACEOFF,Charlie Coyle faceoff won against Austin Czarnik,2023-03-11T19:43:59Z,2,18:45,01:15,2,2,6.0,Boston Bruins,BOS
+239,6,17,Boston Bruins,Detroit Red Wings,2022021038474,2022021038,Giveaway,474,GIVEAWAY,Giveaway by Adam Erne,2023-03-11T19:44:06Z,2,18:52,01:08,2,2,17.0,Detroit Red Wings,DET
+240,6,17,Boston Bruins,Detroit Red Wings,2022021038475,2022021038,Giveaway,475,GIVEAWAY,Giveaway by Charlie Coyle,2023-03-11T19:44:26Z,2,19:12,00:48,2,2,6.0,Boston Bruins,BOS
+241,6,17,Boston Bruins,Detroit Red Wings,2022021038344,2022021038,Hit,344,HIT,Dmitry Orlov hit Alex Chiasson,2023-03-11T19:44:36Z,2,19:22,00:38,2,2,6.0,Boston Bruins,BOS
+242,6,17,Boston Bruins,Detroit Red Wings,2022021038345,2022021038,Hit,345,HIT,Charlie Coyle hit Alex Chiasson,2023-03-11T19:44:47Z,2,19:33,00:27,2,2,6.0,Boston Bruins,BOS
+243,6,17,Boston Bruins,Detroit Red Wings,2022021038476,2022021038,Takeaway,476,TAKEAWAY,Takeaway by Andrew Copp,2023-03-11T19:44:54Z,2,19:40,00:20,2,2,17.0,Detroit Red Wings,DET
+244,6,17,Boston Bruins,Detroit Red Wings,2022021038346,2022021038,Period End,346,PERIOD_END,End of 2nd Period,2023-03-11T19:45:15Z,2,20:00,00:00,2,2,,,
+245,6,17,Boston Bruins,Detroit Red Wings,2022021038349,2022021038,Period Official,349,PERIOD_OFFICIAL,Period Official,2023-03-11T19:45:23Z,2,20:00,00:00,2,2,,,
+246,6,17,Boston Bruins,Detroit Red Wings,2022021038350,2022021038,Period Ready,350,PERIOD_READY,Period Ready,2023-03-11T20:02:04Z,3,00:00,20:00,2,2,,,
+247,6,17,Boston Bruins,Detroit Red Wings,2022021038477,2022021038,Period Start,477,PERIOD_START,Period Start,2023-03-11T20:04:16Z,3,00:00,20:00,2,2,,,
+248,6,17,Boston Bruins,Detroit Red Wings,2022021038478,2022021038,Faceoff,478,FACEOFF,Dylan Larkin faceoff won against Tomas Nosek,2023-03-11T20:04:16Z,3,00:00,20:00,2,2,17.0,Detroit Red Wings,DET
+249,6,17,Boston Bruins,Detroit Red Wings,2022021038701,2022021038,Penalty,701,PENALTY,Hampus Lindholm Interference against Lucas Raymond,2023-03-11T20:04:38Z,3,00:23,19:37,2,2,6.0,Boston Bruins,BOS
+250,6,17,Boston Bruins,Detroit Red Wings,2022021038479,2022021038,Faceoff,479,FACEOFF,Patrice Bergeron faceoff won against Dylan Larkin,2023-03-11T20:05:40Z,3,00:23,19:37,2,2,6.0,Boston Bruins,BOS
+251,6,17,Boston Bruins,Detroit Red Wings,2022021038704,2022021038,Hit,704,HIT,Brad Marchand hit Lucas Raymond,2023-03-11T20:06:01Z,3,00:44,19:16,2,2,6.0,Boston Bruins,BOS
+252,6,17,Boston Bruins,Detroit Red Wings,2022021038388,2022021038,Shot,388,SHOT,David Perron Wrist Shot saved by Linus Ullmark,2023-03-11T20:06:10Z,3,00:53,19:07,2,2,17.0,Detroit Red Wings,DET
+253,6,17,Boston Bruins,Detroit Red Wings,2022021038255,2022021038,Shot,255,SHOT,Dylan Larkin Backhand saved by Linus Ullmark,2023-03-11T20:06:15Z,3,00:58,19:02,2,2,17.0,Detroit Red Wings,DET
+254,6,17,Boston Bruins,Detroit Red Wings,2022021038389,2022021038,Shot,389,SHOT,Dylan Larkin Wrist Shot saved by Linus Ullmark,2023-03-11T20:06:16Z,3,00:59,19:01,2,2,17.0,Detroit Red Wings,DET
+255,6,17,Boston Bruins,Detroit Red Wings,2022021038705,2022021038,Stoppage,705,STOP,Goalie Stopped,2023-03-11T20:06:16Z,3,00:59,19:01,2,2,,,
+256,6,17,Boston Bruins,Detroit Red Wings,2022021038480,2022021038,Faceoff,480,FACEOFF,Dylan Larkin faceoff won against Tomas Nosek,2023-03-11T20:06:50Z,3,00:59,19:01,2,2,17.0,Detroit Red Wings,DET
+257,6,17,Boston Bruins,Detroit Red Wings,2022021038391,2022021038,Blocked Shot,391,BLOCKED_SHOT,Lucas Raymond shot blocked shot by Connor Clifton,2023-03-11T20:06:58Z,3,01:07,18:53,2,2,6.0,Boston Bruins,BOS
+258,6,17,Boston Bruins,Detroit Red Wings,2022021038706,2022021038,Stoppage,706,STOP,Puck in Netting,2023-03-11T20:06:58Z,3,01:07,18:53,2,2,,,
+259,6,17,Boston Bruins,Detroit Red Wings,2022021038481,2022021038,Faceoff,481,FACEOFF,Tomas Nosek faceoff won against David Perron,2023-03-11T20:07:26Z,3,01:07,18:53,2,2,6.0,Boston Bruins,BOS
+260,6,17,Boston Bruins,Detroit Red Wings,2022021038392,2022021038,Shot,392,SHOT,Tomas Nosek Wrist Shot saved by Magnus Hellberg,2023-03-11T20:07:32Z,3,01:13,18:47,2,2,6.0,Boston Bruins,BOS
+261,6,17,Boston Bruins,Detroit Red Wings,2022021038707,2022021038,Hit,707,HIT,Dominik Kubalik hit Brandon Carlo,2023-03-11T20:08:09Z,3,01:50,18:10,2,2,17.0,Detroit Red Wings,DET
+262,6,17,Boston Bruins,Detroit Red Wings,2022021038393,2022021038,Blocked Shot,393,BLOCKED_SHOT,Brandon Carlo shot blocked shot by Jonatan Berggren,2023-03-11T20:08:20Z,3,02:01,17:59,2,2,17.0,Detroit Red Wings,DET
+263,6,17,Boston Bruins,Detroit Red Wings,2022021038482,2022021038,Giveaway,482,GIVEAWAY,Giveaway by Filip Zadina,2023-03-11T20:08:35Z,3,02:16,17:44,2,2,17.0,Detroit Red Wings,DET
+264,6,17,Boston Bruins,Detroit Red Wings,2022021038708,2022021038,Stoppage,708,STOP,Icing,2023-03-11T20:08:58Z,3,02:39,17:21,2,2,,,
+265,6,17,Boston Bruins,Detroit Red Wings,2022021038483,2022021038,Faceoff,483,FACEOFF,David Krejci faceoff won against Joe Veleno,2023-03-11T20:09:30Z,3,02:39,17:21,2,2,6.0,Boston Bruins,BOS
+266,6,17,Boston Bruins,Detroit Red Wings,2022021038394,2022021038,Missed Shot,394,MISSED_SHOT,David Pastrnak Wide of Net Magnus Hellberg,2023-03-11T20:09:36Z,3,02:45,17:15,2,2,6.0,Boston Bruins,BOS
+267,6,17,Boston Bruins,Detroit Red Wings,2022021038395,2022021038,Missed Shot,395,MISSED_SHOT,David Krejci Wide of Net Magnus Hellberg,2023-03-11T20:09:36Z,3,02:45,17:15,2,2,6.0,Boston Bruins,BOS
+268,6,17,Boston Bruins,Detroit Red Wings,2022021038396,2022021038,Blocked Shot,396,BLOCKED_SHOT,David Pastrnak shot blocked shot by Joe Veleno,2023-03-11T20:09:43Z,3,02:52,17:08,2,2,17.0,Detroit Red Wings,DET
+269,6,17,Boston Bruins,Detroit Red Wings,2022021038484,2022021038,Giveaway,484,GIVEAWAY,Giveaway by Lucas Raymond,2023-03-11T20:09:57Z,3,03:06,16:54,2,2,17.0,Detroit Red Wings,DET
+270,6,17,Boston Bruins,Detroit Red Wings,2022021038397,2022021038,Shot,397,SHOT,Olli Maatta Slap Shot saved by Linus Ullmark,2023-03-11T20:10:15Z,3,03:24,16:36,2,2,17.0,Detroit Red Wings,DET
+271,6,17,Boston Bruins,Detroit Red Wings,2022021038709,2022021038,Stoppage,709,STOP,Puck in Netting,2023-03-11T20:10:15Z,3,03:24,16:36,2,2,,,
+272,6,17,Boston Bruins,Detroit Red Wings,2022021038485,2022021038,Faceoff,485,FACEOFF,Patrice Bergeron faceoff won against Dylan Larkin,2023-03-11T20:10:43Z,3,03:24,16:36,2,2,6.0,Boston Bruins,BOS
+273,6,17,Boston Bruins,Detroit Red Wings,2022021038486,2022021038,Giveaway,486,GIVEAWAY,Giveaway by Hampus Lindholm,2023-03-11T20:10:51Z,3,03:32,16:28,2,2,6.0,Boston Bruins,BOS
+274,6,17,Boston Bruins,Detroit Red Wings,2022021038398,2022021038,Missed Shot,398,MISSED_SHOT,David Perron Wide of Net Linus Ullmark,2023-03-11T20:11:30Z,3,04:11,15:49,2,2,17.0,Detroit Red Wings,DET
+275,6,17,Boston Bruins,Detroit Red Wings,2022021038710,2022021038,Hit,710,HIT,Jake Walman hit Brad Marchand,2023-03-11T20:11:30Z,3,04:11,15:49,2,2,17.0,Detroit Red Wings,DET
+276,6,17,Boston Bruins,Detroit Red Wings,2022021038487,2022021038,Giveaway,487,GIVEAWAY,Giveaway by Brad Marchand,2023-03-11T20:11:34Z,3,04:15,15:45,2,2,6.0,Boston Bruins,BOS
+277,6,17,Boston Bruins,Detroit Red Wings,2022021038711,2022021038,Stoppage,711,STOP,Puck in Crowd,2023-03-11T20:11:53Z,3,04:34,15:26,2,2,,,
+278,6,17,Boston Bruins,Detroit Red Wings,2022021038488,2022021038,Faceoff,488,FACEOFF,Tomas Nosek faceoff won against Andrew Copp,2023-03-11T20:12:24Z,3,04:34,15:26,2,2,6.0,Boston Bruins,BOS
+279,6,17,Boston Bruins,Detroit Red Wings,2022021038399,2022021038,Shot,399,SHOT,Robert Hagg Slap Shot saved by Linus Ullmark,2023-03-11T20:12:49Z,3,04:59,15:01,2,2,17.0,Detroit Red Wings,DET
+280,6,17,Boston Bruins,Detroit Red Wings,2022021038712,2022021038,Stoppage,712,STOP,Goalie Stopped,2023-03-11T20:12:49Z,3,05:00,15:00,2,2,,,
+281,6,17,Boston Bruins,Detroit Red Wings,2022021038489,2022021038,Faceoff,489,FACEOFF,Joe Veleno faceoff won against Charlie Coyle,2023-03-11T20:13:24Z,3,05:00,15:00,2,2,17.0,Detroit Red Wings,DET
+282,6,17,Boston Bruins,Detroit Red Wings,2022021038713,2022021038,Hit,713,HIT,Jonatan Berggren hit Charlie McAvoy,2023-03-11T20:13:39Z,3,05:15,14:45,2,2,17.0,Detroit Red Wings,DET
+283,6,17,Boston Bruins,Detroit Red Wings,2022021038400,2022021038,Shot,400,SHOT,Filip Zadina Tip-In saved by Linus Ullmark,2023-03-11T20:13:46Z,3,05:22,14:38,2,2,17.0,Detroit Red Wings,DET
+284,6,17,Boston Bruins,Detroit Red Wings,2022021038490,2022021038,Giveaway,490,GIVEAWAY,Giveaway by Charlie McAvoy,2023-03-11T20:13:48Z,3,05:24,14:36,2,2,6.0,Boston Bruins,BOS
+285,6,17,Boston Bruins,Detroit Red Wings,2022021038714,2022021038,Hit,714,HIT,Charlie McAvoy hit Olli Maatta,2023-03-11T20:13:52Z,3,05:28,14:32,2,2,6.0,Boston Bruins,BOS
+286,6,17,Boston Bruins,Detroit Red Wings,2022021038256,2022021038,Missed Shot,256,MISSED_SHOT,Olli Maatta Wide of Net Linus Ullmark,2023-03-11T20:13:54Z,3,05:30,14:30,2,2,17.0,Detroit Red Wings,DET
+287,6,17,Boston Bruins,Detroit Red Wings,2022021038491,2022021038,Takeaway,491,TAKEAWAY,Takeaway by Trent Frederic,2023-03-11T20:14:07Z,3,05:43,14:17,2,2,6.0,Boston Bruins,BOS
+288,6,17,Boston Bruins,Detroit Red Wings,2022021038715,2022021038,Hit,715,HIT,Charlie Coyle hit Joe Veleno,2023-03-11T20:14:23Z,3,05:59,14:01,2,2,6.0,Boston Bruins,BOS
+289,6,17,Boston Bruins,Detroit Red Wings,2022021038602,2022021038,Missed Shot,602,MISSED_SHOT,Tomas Nosek Wide of Net Magnus Hellberg,2023-03-11T20:14:46Z,3,06:22,13:38,2,2,6.0,Boston Bruins,BOS
+290,6,17,Boston Bruins,Detroit Red Wings,2022021038603,2022021038,Shot,603,SHOT,David Pastrnak Wrist Shot saved by Magnus Hellberg,2023-03-11T20:15:28Z,3,07:04,12:56,2,2,6.0,Boston Bruins,BOS
+291,6,17,Boston Bruins,Detroit Red Wings,2022021038716,2022021038,Stoppage,716,STOP,Goalie Stopped,2023-03-11T20:15:28Z,3,07:04,12:56,2,2,,,
+292,6,17,Boston Bruins,Detroit Red Wings,2022021038492,2022021038,Faceoff,492,FACEOFF,Dylan Larkin faceoff won against David Krejci,2023-03-11T20:17:49Z,3,07:04,12:56,2,2,17.0,Detroit Red Wings,DET
+293,6,17,Boston Bruins,Detroit Red Wings,2022021038604,2022021038,Missed Shot,604,MISSED_SHOT,David Krejci Wide of Net Magnus Hellberg,2023-03-11T20:18:10Z,3,07:25,12:35,2,2,6.0,Boston Bruins,BOS
+294,6,17,Boston Bruins,Detroit Red Wings,2022021038717,2022021038,Stoppage,717,STOP,Offside,2023-03-11T20:18:24Z,3,07:39,12:21,2,2,,,
+295,6,17,Boston Bruins,Detroit Red Wings,2022021038493,2022021038,Faceoff,493,FACEOFF,Charlie Coyle faceoff won against Andrew Copp,2023-03-11T20:18:55Z,3,07:39,12:21,2,2,6.0,Boston Bruins,BOS
+296,6,17,Boston Bruins,Detroit Red Wings,2022021038718,2022021038,Stoppage,718,STOP,Puck in Benches,2023-03-11T20:19:03Z,3,07:47,12:13,2,2,,,
+297,6,17,Boston Bruins,Detroit Red Wings,2022021038494,2022021038,Faceoff,494,FACEOFF,Andrew Copp faceoff won against Patrice Bergeron,2023-03-11T20:19:41Z,3,07:47,12:13,2,2,17.0,Detroit Red Wings,DET
+298,6,17,Boston Bruins,Detroit Red Wings,2022021038719,2022021038,Stoppage,719,STOP,Icing,2023-03-11T20:20:05Z,3,08:12,11:48,2,2,,,
+299,6,17,Boston Bruins,Detroit Red Wings,2022021038495,2022021038,Faceoff,495,FACEOFF,Charlie Coyle faceoff won against Andrew Copp,2023-03-11T20:20:37Z,3,08:12,11:48,2,2,6.0,Boston Bruins,BOS
+300,6,17,Boston Bruins,Detroit Red Wings,2022021038720,2022021038,Stoppage,720,STOP,Icing,2023-03-11T20:21:00Z,3,08:35,11:25,2,2,,,
+301,6,17,Boston Bruins,Detroit Red Wings,2022021038496,2022021038,Faceoff,496,FACEOFF,Patrice Bergeron faceoff won against Joe Veleno,2023-03-11T20:21:30Z,3,08:35,11:25,2,2,6.0,Boston Bruins,BOS
+302,6,17,Boston Bruins,Detroit Red Wings,2022021038605,2022021038,Blocked Shot,605,BLOCKED_SHOT,Jake Walman shot blocked shot by Charlie McAvoy,2023-03-11T20:22:06Z,3,09:11,10:49,2,2,6.0,Boston Bruins,BOS
+303,6,17,Boston Bruins,Detroit Red Wings,2022021038721,2022021038,Stoppage,721,STOP,Offside,2023-03-11T20:22:24Z,3,09:29,10:31,2,2,,,
+304,6,17,Boston Bruins,Detroit Red Wings,2022021038498,2022021038,Faceoff,498,FACEOFF,Charlie Coyle faceoff won against Austin Czarnik,2023-03-11T20:23:04Z,3,09:29,10:31,2,2,6.0,Boston Bruins,BOS
+305,6,17,Boston Bruins,Detroit Red Wings,2022021038722,2022021038,Hit,722,HIT,Olli Maatta hit Trent Frederic,2023-03-11T20:23:15Z,3,09:40,10:20,2,2,17.0,Detroit Red Wings,DET
+306,6,17,Boston Bruins,Detroit Red Wings,2022021038723,2022021038,Stoppage,723,STOP,Icing,2023-03-11T20:23:19Z,3,09:43,10:17,2,2,,,
+307,6,17,Boston Bruins,Detroit Red Wings,2022021038499,2022021038,Faceoff,499,FACEOFF,David Krejci faceoff won against Austin Czarnik,2023-03-11T20:23:48Z,3,09:43,10:17,2,2,6.0,Boston Bruins,BOS
+308,6,17,Boston Bruins,Detroit Red Wings,2022021038500,2022021038,Takeaway,500,TAKEAWAY,Takeaway by Adam Erne,2023-03-11T20:23:52Z,3,09:47,10:13,2,2,17.0,Detroit Red Wings,DET
+309,6,17,Boston Bruins,Detroit Red Wings,2022021038606,2022021038,Shot,606,SHOT,Alex Chiasson Wrist Shot saved by Linus Ullmark,2023-03-11T20:24:16Z,3,10:11,09:49,2,2,17.0,Detroit Red Wings,DET
+310,6,17,Boston Bruins,Detroit Red Wings,2022021038724,2022021038,Stoppage,724,STOP,Goalie Stopped,2023-03-11T20:24:16Z,3,10:11,09:49,2,2,,,
+311,6,17,Boston Bruins,Detroit Red Wings,2022021038801,2022021038,Faceoff,801,FACEOFF,Dylan Larkin faceoff won against Tomas Nosek,2023-03-11T20:26:53Z,3,10:11,09:49,2,2,17.0,Detroit Red Wings,DET
+312,6,17,Boston Bruins,Detroit Red Wings,2022021038607,2022021038,Shot,607,SHOT,Jake Walman Wrist Shot saved by Linus Ullmark,2023-03-11T20:26:57Z,3,10:15,09:45,2,2,17.0,Detroit Red Wings,DET
+313,6,17,Boston Bruins,Detroit Red Wings,2022021038725,2022021038,Stoppage,725,STOP,Goalie Stopped,2023-03-11T20:26:58Z,3,10:16,09:44,2,2,,,
+314,6,17,Boston Bruins,Detroit Red Wings,2022021038802,2022021038,Faceoff,802,FACEOFF,Patrice Bergeron faceoff won against Dylan Larkin,2023-03-11T20:27:24Z,3,10:16,09:44,2,2,6.0,Boston Bruins,BOS
+315,6,17,Boston Bruins,Detroit Red Wings,2022021038608,2022021038,Shot,608,SHOT,Lucas Raymond Wrist Shot saved by Linus Ullmark,2023-03-11T20:27:30Z,3,10:22,09:38,2,2,17.0,Detroit Red Wings,DET
+316,6,17,Boston Bruins,Detroit Red Wings,2022021038609,2022021038,Shot,609,SHOT,Robert Hagg Tip-In saved by Linus Ullmark,2023-03-11T20:27:33Z,3,10:25,09:35,2,2,17.0,Detroit Red Wings,DET
+317,6,17,Boston Bruins,Detroit Red Wings,2022021038610,2022021038,Shot,610,SHOT,Patrice Bergeron Wrist Shot saved by Magnus Hellberg,2023-03-11T20:27:59Z,3,10:51,09:09,2,2,6.0,Boston Bruins,BOS
+318,6,17,Boston Bruins,Detroit Red Wings,2022021038726,2022021038,Stoppage,726,STOP,Goalie Stopped,2023-03-11T20:27:59Z,3,10:51,09:09,2,2,,,
+319,6,17,Boston Bruins,Detroit Red Wings,2022021038803,2022021038,Faceoff,803,FACEOFF,Andrew Copp faceoff won against Charlie Coyle,2023-03-11T20:28:38Z,3,10:51,09:09,2,2,17.0,Detroit Red Wings,DET
+320,6,17,Boston Bruins,Detroit Red Wings,2022021038727,2022021038,Hit,727,HIT,Connor Clifton hit Jonatan Berggren,2023-03-11T20:29:46Z,3,11:59,08:01,2,2,6.0,Boston Bruins,BOS
+321,6,17,Boston Bruins,Detroit Red Wings,2022021038804,2022021038,Takeaway,804,TAKEAWAY,Takeaway by Dmitry Orlov,2023-03-11T20:29:52Z,3,12:05,07:55,2,2,6.0,Boston Bruins,BOS
+322,6,17,Boston Bruins,Detroit Red Wings,2022021038611,2022021038,Shot,611,SHOT,Jonatan Berggren Wrist Shot saved by Linus Ullmark,2023-03-11T20:29:56Z,3,12:09,07:51,2,2,17.0,Detroit Red Wings,DET
+323,6,17,Boston Bruins,Detroit Red Wings,2022021038257,2022021038,Shot,257,SHOT,Joe Veleno Backhand saved by Linus Ullmark,2023-03-11T20:29:57Z,3,12:10,07:50,2,2,17.0,Detroit Red Wings,DET
+324,6,17,Boston Bruins,Detroit Red Wings,2022021038728,2022021038,Hit,728,HIT,Robert Hagg hit Tomas Nosek,2023-03-11T20:31:13Z,3,13:25,06:35,2,2,17.0,Detroit Red Wings,DET
+325,6,17,Boston Bruins,Detroit Red Wings,2022021038805,2022021038,Giveaway,805,GIVEAWAY,Giveaway by Charlie McAvoy,2023-03-11T20:31:23Z,3,13:35,06:25,2,2,6.0,Boston Bruins,BOS
+326,6,17,Boston Bruins,Detroit Red Wings,2022021038612,2022021038,Shot,612,SHOT,A.J. Greer Wrist Shot saved by Magnus Hellberg,2023-03-11T20:31:40Z,3,13:52,06:08,2,2,6.0,Boston Bruins,BOS
+327,6,17,Boston Bruins,Detroit Red Wings,2022021038613,2022021038,Goal,613,GOAL,"Garnet Hathaway (10) Wrist Shot, assists: A.J. Greer (6), Tomas Nosek (7)",2023-03-11T20:31:42Z,3,13:54,06:06,3,2,6.0,Boston Bruins,BOS
+328,6,17,Boston Bruins,Detroit Red Wings,2022021038806,2022021038,Faceoff,806,FACEOFF,Charlie Coyle faceoff won against Andrew Copp,2023-03-11T20:32:32Z,3,13:54,06:06,3,2,6.0,Boston Bruins,BOS
+329,6,17,Boston Bruins,Detroit Red Wings,2022021038729,2022021038,Hit,729,HIT,Connor Clifton hit Dominik Kubalik,2023-03-11T20:32:54Z,3,14:16,05:44,3,2,6.0,Boston Bruins,BOS
+330,6,17,Boston Bruins,Detroit Red Wings,2022021038614,2022021038,Missed Shot,614,MISSED_SHOT,Jake Walman Goalpost Linus Ullmark,2023-03-11T20:32:58Z,3,14:20,05:40,3,2,17.0,Detroit Red Wings,DET
+331,6,17,Boston Bruins,Detroit Red Wings,2022021038730,2022021038,Hit,730,HIT,Dmitry Orlov hit Dominik Kubalik,2023-03-11T20:33:20Z,3,14:42,05:18,3,2,6.0,Boston Bruins,BOS
+332,6,17,Boston Bruins,Detroit Red Wings,2022021038615,2022021038,Shot,615,SHOT,Dominik Kubalik Backhand saved by Linus Ullmark,2023-03-11T20:33:35Z,3,14:57,05:03,3,2,17.0,Detroit Red Wings,DET
+333,6,17,Boston Bruins,Detroit Red Wings,2022021038616,2022021038,Shot,616,SHOT,Joe Veleno Wrist Shot saved by Linus Ullmark,2023-03-11T20:34:06Z,3,15:28,04:32,3,2,17.0,Detroit Red Wings,DET
+334,6,17,Boston Bruins,Detroit Red Wings,2022021038731,2022021038,Stoppage,731,STOP,Icing,2023-03-11T20:34:26Z,3,15:48,04:12,3,2,,,
+335,6,17,Boston Bruins,Detroit Red Wings,2022021038807,2022021038,Faceoff,807,FACEOFF,David Krejci faceoff won against Joe Veleno,2023-03-11T20:34:58Z,3,15:48,04:12,3,2,6.0,Boston Bruins,BOS
+336,6,17,Boston Bruins,Detroit Red Wings,2022021038732,2022021038,Hit,732,HIT,Lucas Raymond hit Matt Grzelcyk,2023-03-11T20:35:07Z,3,15:57,04:03,3,2,17.0,Detroit Red Wings,DET
+337,6,17,Boston Bruins,Detroit Red Wings,2022021038617,2022021038,Shot,617,SHOT,Charlie McAvoy Wrist Shot saved by Magnus Hellberg,2023-03-11T20:35:13Z,3,16:03,03:57,3,2,6.0,Boston Bruins,BOS
+338,6,17,Boston Bruins,Detroit Red Wings,2022021038618,2022021038,Shot,618,SHOT,David Krejci Slap Shot saved by Magnus Hellberg,2023-03-11T20:35:25Z,3,16:15,03:45,3,2,6.0,Boston Bruins,BOS
+339,6,17,Boston Bruins,Detroit Red Wings,2022021038733,2022021038,Hit,733,HIT,Dylan Larkin hit Dmitry Orlov,2023-03-11T20:36:01Z,3,16:51,03:09,3,2,17.0,Detroit Red Wings,DET
+340,6,17,Boston Bruins,Detroit Red Wings,2022021038734,2022021038,Hit,734,HIT,Robert Hagg hit Tomas Nosek,2023-03-11T20:36:20Z,3,17:10,02:50,3,2,17.0,Detroit Red Wings,DET
+341,6,17,Boston Bruins,Detroit Red Wings,2022021038619,2022021038,Shot,619,SHOT,Garnet Hathaway Wrist Shot saved by Magnus Hellberg,2023-03-11T20:36:27Z,3,17:17,02:43,3,2,6.0,Boston Bruins,BOS
+342,6,17,Boston Bruins,Detroit Red Wings,2022021038620,2022021038,Shot,620,SHOT,A.J. Greer Poke saved by Magnus Hellberg,2023-03-11T20:36:29Z,3,17:19,02:41,3,2,6.0,Boston Bruins,BOS
+343,6,17,Boston Bruins,Detroit Red Wings,2022021038735,2022021038,Stoppage,735,STOP,Goalie Stopped,2023-03-11T20:36:30Z,3,17:20,02:40,3,2,,,
+344,6,17,Boston Bruins,Detroit Red Wings,2022021038808,2022021038,Faceoff,808,FACEOFF,Andrew Copp faceoff won against Charlie Coyle,2023-03-11T20:39:17Z,3,17:20,02:40,3,2,17.0,Detroit Red Wings,DET
+345,6,17,Boston Bruins,Detroit Red Wings,2022021038809,2022021038,Giveaway,809,GIVEAWAY,Giveaway by Moritz Seider,2023-03-11T20:39:22Z,3,17:25,02:35,3,2,17.0,Detroit Red Wings,DET
+346,6,17,Boston Bruins,Detroit Red Wings,2022021038621,2022021038,Missed Shot,621,MISSED_SHOT,Pavel Zacha Wide of Net Magnus Hellberg,2023-03-11T20:39:29Z,3,17:32,02:28,3,2,6.0,Boston Bruins,BOS
+347,6,17,Boston Bruins,Detroit Red Wings,2022021038736,2022021038,Hit,736,HIT,Dylan Larkin hit Charlie McAvoy,2023-03-11T20:39:49Z,3,17:52,02:08,3,2,17.0,Detroit Red Wings,DET
+348,6,17,Boston Bruins,Detroit Red Wings,2022021038737,2022021038,Hit,737,HIT,David Perron hit David Pastrnak,2023-03-11T20:40:29Z,3,18:32,01:28,3,2,17.0,Detroit Red Wings,DET
+349,6,17,Boston Bruins,Detroit Red Wings,2022021038738,2022021038,Hit,738,HIT,Dylan Larkin hit Hampus Lindholm,2023-03-11T20:41:22Z,3,19:25,00:35,3,2,17.0,Detroit Red Wings,DET
+350,6,17,Boston Bruins,Detroit Red Wings,2022021038622,2022021038,Blocked Shot,622,BLOCKED_SHOT,Lucas Raymond shot blocked shot by Tyler Bertuzzi,2023-03-11T20:41:31Z,3,19:34,00:26,3,2,6.0,Boston Bruins,BOS
+351,6,17,Boston Bruins,Detroit Red Wings,2022021038623,2022021038,Missed Shot,623,MISSED_SHOT,Alex Chiasson Wide of Net Linus Ullmark,2023-03-11T20:41:32Z,3,19:35,00:25,3,2,17.0,Detroit Red Wings,DET
+352,6,17,Boston Bruins,Detroit Red Wings,2022021038739,2022021038,Period End,739,PERIOD_END,End of 3rd Period,2023-03-11T20:41:58Z,3,20:00,00:00,3,2,,,
+353,6,17,Boston Bruins,Detroit Red Wings,2022021038742,2022021038,Period Official,742,PERIOD_OFFICIAL,Period Official,2023-03-11T20:42:09Z,3,20:00,00:00,3,2,,,
+354,6,17,Boston Bruins,Detroit Red Wings,2022021038743,2022021038,Game End,743,GAME_END,Game End,2023-03-11T20:42:11Z,3,20:00,00:00,3,2,,,
+355,6,17,Boston Bruins,Detroit Red Wings,20220210381142,2022021038,Game Official,1142,GAME_OFFICIAL,Game Official,2023-03-12T14:24:00Z,3,20:00,00:00,3,2,,,

@@ -1,0 +1,317 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,14,4,Tampa Bay Lightning,Philadelphia Flyers,20220200531,2022020053,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-10-18T22:14:41Z,1,00:00,20:00,0,0,,,
+1,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005352,2022020053,Period Ready,52,PERIOD_READY,Period Ready,2022-10-18T23:04:38Z,1,00:00,20:00,0,0,,,
+2,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053101,2022020053,Period Start,101,PERIOD_START,Period Start,2022-10-18T23:07:44Z,1,00:00,20:00,0,0,,,
+3,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053102,2022020053,Faceoff,102,FACEOFF,Steven Stamkos faceoff won against Noah Cates,2022-10-18T23:07:44Z,1,00:00,20:00,0,0,14.0,Tampa Bay Lightning,TBL
+4,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053201,2022020053,Shot,201,SHOT,Wade Allison Slap Shot saved by Andrei Vasilevskiy,2022-10-18T23:08:04Z,1,00:20,19:40,0,0,4.0,Philadelphia Flyers,PHI
+5,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005355,2022020053,Hit,55,HIT,Nicholas Paul hit Ivan Provorov,2022-10-18T23:08:13Z,1,00:29,19:31,0,0,14.0,Tampa Bay Lightning,TBL
+6,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005356,2022020053,Hit,56,HIT,Victor Hedman hit Wade Allison,2022-10-18T23:08:22Z,1,00:38,19:22,0,0,14.0,Tampa Bay Lightning,TBL
+7,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053202,2022020053,Shot,202,SHOT,Nicholas Paul Wrist Shot saved by Carter Hart,2022-10-18T23:08:26Z,1,00:42,19:18,0,0,14.0,Tampa Bay Lightning,TBL
+8,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005357,2022020053,Hit,57,HIT,Joel Farabee hit Cal Foote,2022-10-18T23:08:33Z,1,00:49,19:11,0,0,4.0,Philadelphia Flyers,PHI
+9,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005358,2022020053,Hit,58,HIT,Cal Foote hit Kevin Hayes,2022-10-18T23:08:57Z,1,01:13,18:47,0,0,14.0,Tampa Bay Lightning,TBL
+10,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053659,2022020053,Takeaway,659,TAKEAWAY,Takeaway by Travis Sanheim,2022-10-18T23:09:12Z,1,01:28,18:32,0,0,4.0,Philadelphia Flyers,PHI
+11,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053103,2022020053,Takeaway,103,TAKEAWAY,Takeaway by Travis Sanheim,2022-10-18T23:09:16Z,1,01:32,18:28,0,0,4.0,Philadelphia Flyers,PHI
+12,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053204,2022020053,Missed Shot,204,MISSED_SHOT,Travis Sanheim Wide of Net Andrei Vasilevskiy,2022-10-18T23:09:22Z,1,01:38,18:22,0,0,4.0,Philadelphia Flyers,PHI
+13,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005359,2022020053,Stoppage,59,STOP,Net Dislodged Offensive Skater,2022-10-18T23:09:35Z,1,01:51,18:09,0,0,,,
+14,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053205,2022020053,Shot,205,SHOT,Brayden Point Wrist Shot saved by Carter Hart,2022-10-18T23:09:35Z,1,01:51,18:09,0,0,14.0,Tampa Bay Lightning,TBL
+15,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053104,2022020053,Faceoff,104,FACEOFF,Ross Colton faceoff won against Morgan Frost,2022-10-18T23:10:14Z,1,01:51,18:09,0,0,14.0,Tampa Bay Lightning,TBL
+16,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053206,2022020053,Shot,206,SHOT,Cal Foote Wrist Shot saved by Carter Hart,2022-10-18T23:11:08Z,1,02:45,17:15,0,0,14.0,Tampa Bay Lightning,TBL
+17,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005364,2022020053,Takeaway,64,TAKEAWAY,Takeaway by Mikhail Sergachev,2022-10-18T23:11:12Z,1,02:49,17:11,0,0,14.0,Tampa Bay Lightning,TBL
+18,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053652,2022020053,Blocked Shot,652,BLOCKED_SHOT,Cal Foote shot blocked shot by Ivan Provorov,2022-10-18T23:11:15Z,1,02:52,17:08,0,0,4.0,Philadelphia Flyers,PHI
+19,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005362,2022020053,Hit,62,HIT,Zack MacEwen hit Pierre-Edouard Bellemare,2022-10-18T23:11:29Z,1,03:06,16:54,0,0,4.0,Philadelphia Flyers,PHI
+20,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053208,2022020053,Missed Shot,208,MISSED_SHOT,Pierre-Edouard Bellemare Wide of Net Carter Hart,2022-10-18T23:11:58Z,1,03:35,16:25,0,0,14.0,Tampa Bay Lightning,TBL
+21,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053653,2022020053,Blocked Shot,653,BLOCKED_SHOT,Pierre-Edouard Bellemare shot blocked shot by Egor Zamula,2022-10-18T23:11:58Z,1,03:35,16:25,0,0,4.0,Philadelphia Flyers,PHI
+22,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053209,2022020053,Missed Shot,209,MISSED_SHOT,Victor Hedman Wide of Net Carter Hart,2022-10-18T23:13:19Z,1,04:56,15:04,0,0,14.0,Tampa Bay Lightning,TBL
+23,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053654,2022020053,Shot,654,SHOT,Brayden Point Snap Shot saved by Carter Hart,2022-10-18T23:13:24Z,1,05:01,14:59,0,0,14.0,Tampa Bay Lightning,TBL
+24,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005365,2022020053,Stoppage,65,STOP,Offside,2022-10-18T23:14:04Z,1,05:42,14:18,0,0,,,
+25,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053107,2022020053,Faceoff,107,FACEOFF,Kevin Hayes faceoff won against Steven Stamkos,2022-10-18T23:14:38Z,1,05:42,14:18,0,0,4.0,Philadelphia Flyers,PHI
+26,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053211,2022020053,Shot,211,SHOT,Victor Hedman Tip-In saved by Carter Hart,2022-10-18T23:15:00Z,1,06:04,13:56,0,0,14.0,Tampa Bay Lightning,TBL
+27,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005366,2022020053,Stoppage,66,STOP,Offside,2022-10-18T23:15:17Z,1,06:21,13:39,0,0,,,
+28,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053108,2022020053,Faceoff,108,FACEOFF,Morgan Frost faceoff won against Vladislav Namestnikov,2022-10-18T23:17:43Z,1,06:21,13:39,0,0,4.0,Philadelphia Flyers,PHI
+29,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053109,2022020053,Takeaway,109,TAKEAWAY,Takeaway by Nick Perbix,2022-10-18T23:18:03Z,1,06:41,13:19,0,0,14.0,Tampa Bay Lightning,TBL
+30,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005367,2022020053,Hit,67,HIT,Ross Colton hit Travis Sanheim,2022-10-18T23:18:14Z,1,06:52,13:08,0,0,14.0,Tampa Bay Lightning,TBL
+31,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053212,2022020053,Shot,212,SHOT,Nick Perbix Wrist Shot saved by Carter Hart,2022-10-18T23:18:20Z,1,06:58,13:02,0,0,14.0,Tampa Bay Lightning,TBL
+32,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053213,2022020053,Blocked Shot,213,BLOCKED_SHOT,James van Riemsdyk shot blocked shot by Nick Perbix,2022-10-18T23:18:30Z,1,07:08,12:52,0,0,14.0,Tampa Bay Lightning,TBL
+33,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005368,2022020053,Hit,68,HIT,Scott Laughton hit Brayden Point,2022-10-18T23:18:52Z,1,07:30,12:30,0,0,4.0,Philadelphia Flyers,PHI
+34,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005369,2022020053,Stoppage,69,STOP,Icing,2022-10-18T23:18:56Z,1,07:35,12:25,0,0,,,
+35,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053110,2022020053,Faceoff,110,FACEOFF,Kevin Hayes faceoff won against Brayden Point,2022-10-18T23:19:33Z,1,07:35,12:25,0,0,4.0,Philadelphia Flyers,PHI
+36,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005370,2022020053,Stoppage,70,STOP,Icing,2022-10-18T23:19:44Z,1,07:46,12:14,0,0,,,
+37,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053111,2022020053,Faceoff,111,FACEOFF,Noah Cates faceoff won against Brayden Point,2022-10-18T23:20:11Z,1,07:46,12:14,0,0,4.0,Philadelphia Flyers,PHI
+38,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053214,2022020053,Shot,214,SHOT,Joel Farabee Wrist Shot saved by Andrei Vasilevskiy,2022-10-18T23:20:28Z,1,08:03,11:57,0,0,4.0,Philadelphia Flyers,PHI
+39,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053215,2022020053,Missed Shot,215,MISSED_SHOT,Brandon Hagel Wide of Net Carter Hart,2022-10-18T23:20:39Z,1,08:14,11:46,0,0,14.0,Tampa Bay Lightning,TBL
+40,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053216,2022020053,Shot,216,SHOT,Cal Foote Snap Shot saved by Carter Hart,2022-10-18T23:20:55Z,1,08:30,11:30,0,0,14.0,Tampa Bay Lightning,TBL
+41,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005371,2022020053,Hit,71,HIT,Noah Cates hit Brayden Point,2022-10-18T23:20:58Z,1,08:33,11:27,0,0,4.0,Philadelphia Flyers,PHI
+42,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053217,2022020053,Blocked Shot,217,BLOCKED_SHOT,Victor Hedman shot blocked shot by Joel Farabee,2022-10-18T23:21:00Z,1,08:35,11:25,0,0,4.0,Philadelphia Flyers,PHI
+43,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053112,2022020053,Takeaway,112,TAKEAWAY,Takeaway by Cal Foote,2022-10-18T23:21:10Z,1,08:45,11:15,0,0,14.0,Tampa Bay Lightning,TBL
+44,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053218,2022020053,Shot,218,SHOT,Cal Foote Wrist Shot saved by Carter Hart,2022-10-18T23:21:19Z,1,08:54,11:06,0,0,14.0,Tampa Bay Lightning,TBL
+45,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005372,2022020053,Stoppage,72,STOP,Referee or Linesman,2022-10-18T23:21:25Z,1,09:01,10:59,0,0,,,
+46,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053113,2022020053,Faceoff,113,FACEOFF,Jackson Cates faceoff won against Pierre-Edouard Bellemare,2022-10-18T23:22:53Z,1,09:01,10:59,0,0,4.0,Philadelphia Flyers,PHI
+47,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005373,2022020053,Penalty,73,PENALTY,Pat Maroon Fighting against Nicolas Deslauriers,2022-10-18T23:22:56Z,1,09:04,10:56,0,0,14.0,Tampa Bay Lightning,TBL
+48,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005376,2022020053,Penalty,76,PENALTY,Nicolas Deslauriers Fighting against Pat Maroon,2022-10-18T23:22:56Z,1,09:04,10:56,0,0,4.0,Philadelphia Flyers,PHI
+49,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053114,2022020053,Faceoff,114,FACEOFF,Jackson Cates faceoff won against Pierre-Edouard Bellemare,2022-10-18T23:24:18Z,1,09:04,10:56,0,0,4.0,Philadelphia Flyers,PHI
+50,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005379,2022020053,Hit,79,HIT,Pierre-Edouard Bellemare hit Tony DeAngelo,2022-10-18T23:24:44Z,1,09:30,10:30,0,0,14.0,Tampa Bay Lightning,TBL
+51,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053115,2022020053,Giveaway,115,GIVEAWAY,Giveaway by Nick Perbix,2022-10-18T23:25:21Z,1,10:07,09:53,0,0,14.0,Tampa Bay Lightning,TBL
+52,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005380,2022020053,Hit,80,HIT,Travis Sanheim hit Alex Killorn,2022-10-18T23:25:42Z,1,10:28,09:32,0,0,4.0,Philadelphia Flyers,PHI
+53,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053116,2022020053,Giveaway,116,GIVEAWAY,Giveaway by Scott Laughton,2022-10-18T23:25:53Z,1,10:39,09:21,0,0,4.0,Philadelphia Flyers,PHI
+54,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053220,2022020053,Shot,220,SHOT,Jackson Cates Wrist Shot saved by Andrei Vasilevskiy,2022-10-18T23:27:19Z,1,12:05,07:55,0,0,4.0,Philadelphia Flyers,PHI
+55,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005382,2022020053,Stoppage,82,STOP,TV timeout,2022-10-18T23:27:28Z,1,12:14,07:46,0,0,,,
+56,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053221,2022020053,Shot,221,SHOT,Egor Zamula Slap Shot saved by Andrei Vasilevskiy,2022-10-18T23:27:28Z,1,12:14,07:46,0,0,4.0,Philadelphia Flyers,PHI
+57,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053281,2022020053,Penalty,281,PENALTY,Ian Cole Hooking against Jackson Cates,2022-10-18T23:27:28Z,1,12:14,07:46,0,0,14.0,Tampa Bay Lightning,TBL
+58,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053117,2022020053,Faceoff,117,FACEOFF,Kevin Hayes faceoff won against Steven Stamkos,2022-10-18T23:29:50Z,1,12:14,07:46,0,0,4.0,Philadelphia Flyers,PHI
+59,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053222,2022020053,Blocked Shot,222,BLOCKED_SHOT,Travis Konecny shot blocked shot by Erik Cernak,2022-10-18T23:30:14Z,1,12:38,07:22,0,0,14.0,Tampa Bay Lightning,TBL
+60,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053223,2022020053,Missed Shot,223,MISSED_SHOT,Travis Konecny Wide of Net Andrei Vasilevskiy,2022-10-18T23:30:14Z,1,12:38,07:22,0,0,4.0,Philadelphia Flyers,PHI
+61,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005381,2022020053,Stoppage,81,STOP,High Stick,2022-10-18T23:30:21Z,1,12:44,07:16,0,0,,,
+62,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053118,2022020053,Faceoff,118,FACEOFF,Kevin Hayes faceoff won against Pierre-Edouard Bellemare,2022-10-18T23:30:43Z,1,12:44,07:16,0,0,4.0,Philadelphia Flyers,PHI
+63,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053224,2022020053,Shot,224,SHOT,Joel Farabee Wrist Shot saved by Andrei Vasilevskiy,2022-10-18T23:31:50Z,1,13:51,06:09,0,0,4.0,Philadelphia Flyers,PHI
+64,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005383,2022020053,Stoppage,83,STOP,Puck in Netting,2022-10-18T23:32:04Z,1,14:05,05:55,0,0,,,
+65,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053225,2022020053,Blocked Shot,225,BLOCKED_SHOT,Travis Konecny shot blocked shot by Victor Hedman,2022-10-18T23:32:04Z,1,14:05,05:55,0,0,14.0,Tampa Bay Lightning,TBL
+66,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053119,2022020053,Faceoff,119,FACEOFF,Nicholas Paul faceoff won against Morgan Frost,2022-10-18T23:32:46Z,1,14:05,05:55,0,0,14.0,Tampa Bay Lightning,TBL
+67,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053120,2022020053,Takeaway,120,TAKEAWAY,Takeaway by Ian Cole,2022-10-18T23:33:05Z,1,14:24,05:36,0,0,14.0,Tampa Bay Lightning,TBL
+68,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005384,2022020053,Hit,84,HIT,Cal Foote hit Wade Allison,2022-10-18T23:33:38Z,1,14:57,05:03,0,0,14.0,Tampa Bay Lightning,TBL
+69,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005385,2022020053,Hit,85,HIT,Zack MacEwen hit Steven Stamkos,2022-10-18T23:33:46Z,1,15:05,04:55,0,0,4.0,Philadelphia Flyers,PHI
+70,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053226,2022020053,Shot,226,SHOT,Zack MacEwen Wrist Shot saved by Andrei Vasilevskiy,2022-10-18T23:33:51Z,1,15:10,04:50,0,0,4.0,Philadelphia Flyers,PHI
+71,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005386,2022020053,Hit,86,HIT,Travis Konecny hit Pierre-Edouard Bellemare,2022-10-18T23:34:07Z,1,15:26,04:34,0,0,4.0,Philadelphia Flyers,PHI
+72,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053121,2022020053,Giveaway,121,GIVEAWAY,Giveaway by Travis Konecny,2022-10-18T23:34:14Z,1,15:33,04:27,0,0,4.0,Philadelphia Flyers,PHI
+73,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005387,2022020053,Stoppage,87,STOP,Puck in Benches,2022-10-18T23:34:50Z,1,16:09,03:51,0,0,,,
+74,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053122,2022020053,Faceoff,122,FACEOFF,Noah Cates faceoff won against Brayden Point,2022-10-18T23:37:11Z,1,16:09,03:51,0,0,4.0,Philadelphia Flyers,PHI
+75,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053501,2022020053,Blocked Shot,501,BLOCKED_SHOT,Tony DeAngelo shot blocked shot by Victor Hedman,2022-10-18T23:37:36Z,1,16:34,03:26,0,0,14.0,Tampa Bay Lightning,TBL
+76,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053123,2022020053,Takeaway,123,TAKEAWAY,Takeaway by Morgan Frost,2022-10-18T23:37:51Z,1,16:49,03:11,0,0,4.0,Philadelphia Flyers,PHI
+77,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053124,2022020053,Takeaway,124,TAKEAWAY,Takeaway by Cal Foote,2022-10-18T23:37:58Z,1,16:56,03:04,0,0,14.0,Tampa Bay Lightning,TBL
+78,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053125,2022020053,Takeaway,125,TAKEAWAY,Takeaway by James van Riemsdyk,2022-10-18T23:38:05Z,1,17:03,02:57,0,0,4.0,Philadelphia Flyers,PHI
+79,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005388,2022020053,Stoppage,88,STOP,Goalie Stopped,2022-10-18T23:38:24Z,1,17:22,02:38,0,0,,,
+80,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053502,2022020053,Shot,502,SHOT,Corey Perry Wrist Shot saved by Carter Hart,2022-10-18T23:38:24Z,1,17:22,02:38,0,0,14.0,Tampa Bay Lightning,TBL
+81,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053126,2022020053,Faceoff,126,FACEOFF,Steven Stamkos faceoff won against Kevin Hayes,2022-10-18T23:39:03Z,1,17:22,02:38,0,0,14.0,Tampa Bay Lightning,TBL
+82,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005389,2022020053,Stoppage,89,STOP,Icing,2022-10-18T23:39:41Z,1,18:01,01:59,0,0,,,
+83,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053128,2022020053,Faceoff,128,FACEOFF,Jackson Cates faceoff won against Ross Colton,2022-10-18T23:40:08Z,1,18:01,01:59,0,0,4.0,Philadelphia Flyers,PHI
+84,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005390,2022020053,Hit,90,HIT,Ian Cole hit Nick Seeler,2022-10-18T23:40:18Z,1,18:11,01:49,0,0,14.0,Tampa Bay Lightning,TBL
+85,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053129,2022020053,Giveaway,129,GIVEAWAY,Giveaway by Corey Perry,2022-10-18T23:40:24Z,1,18:17,01:43,0,0,14.0,Tampa Bay Lightning,TBL
+86,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053130,2022020053,Takeaway,130,TAKEAWAY,Takeaway by Corey Perry,2022-10-18T23:40:35Z,1,18:28,01:32,0,0,14.0,Tampa Bay Lightning,TBL
+87,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053503,2022020053,Blocked Shot,503,BLOCKED_SHOT,Ian Cole shot blocked shot by Tony DeAngelo,2022-10-18T23:40:38Z,1,18:31,01:29,0,0,4.0,Philadelphia Flyers,PHI
+88,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053131,2022020053,Takeaway,131,TAKEAWAY,Takeaway by Ian Cole,2022-10-18T23:40:47Z,1,18:40,01:20,0,0,14.0,Tampa Bay Lightning,TBL
+89,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005391,2022020053,Stoppage,91,STOP,Offside,2022-10-18T23:41:13Z,1,19:05,00:55,0,0,,,
+90,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053132,2022020053,Faceoff,132,FACEOFF,Brayden Point faceoff won against Noah Cates,2022-10-18T23:41:50Z,1,19:05,00:55,0,0,14.0,Tampa Bay Lightning,TBL
+91,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053504,2022020053,Blocked Shot,504,BLOCKED_SHOT,Victor Hedman shot blocked shot by Noah Cates,2022-10-18T23:42:05Z,1,19:20,00:40,0,0,4.0,Philadelphia Flyers,PHI
+92,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053505,2022020053,Shot,505,SHOT,Brandon Hagel Wrist Shot saved by Carter Hart,2022-10-18T23:42:38Z,1,19:53,00:07,0,0,14.0,Tampa Bay Lightning,TBL
+93,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005392,2022020053,Period End,92,PERIOD_END,End of 1st Period,2022-10-18T23:42:45Z,1,20:00,00:00,0,0,,,
+94,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005395,2022020053,Period Official,95,PERIOD_OFFICIAL,Period Official,2022-10-19T00:01:35Z,1,20:00,00:00,0,0,,,
+95,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005396,2022020053,Period Ready,96,PERIOD_READY,Period Ready,2022-10-19T00:01:41Z,2,00:00,20:00,0,0,,,
+96,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053133,2022020053,Period Start,133,PERIOD_START,Period Start,2022-10-19T00:01:43Z,2,00:00,20:00,0,0,,,
+97,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053135,2022020053,Faceoff,135,FACEOFF,Steven Stamkos faceoff won against Noah Cates,2022-10-19T00:01:49Z,2,00:00,20:00,0,0,14.0,Tampa Bay Lightning,TBL
+98,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053655,2022020053,Blocked Shot,655,BLOCKED_SHOT,Nicholas Paul shot blocked shot by Tony DeAngelo,2022-10-19T00:02:41Z,2,00:08,19:52,0,0,4.0,Philadelphia Flyers,PHI
+99,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005397,2022020053,Stoppage,97,STOP,Icing,2022-10-19T00:02:41Z,2,00:44,19:16,0,0,,,
+100,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053136,2022020053,Faceoff,136,FACEOFF,Steven Stamkos faceoff won against Kevin Hayes,2022-10-19T00:02:41Z,2,00:44,19:16,0,0,14.0,Tampa Bay Lightning,TBL
+101,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053508,2022020053,Blocked Shot,508,BLOCKED_SHOT,Justin Braun shot blocked shot by Nicholas Paul,2022-10-19T00:02:52Z,2,00:55,19:05,0,0,14.0,Tampa Bay Lightning,TBL
+102,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053562,2022020053,Penalty,562,PENALTY,Travis Konecny High-sticking against Nick Perbix,2022-10-19T00:02:57Z,2,01:00,19:00,0,0,4.0,Philadelphia Flyers,PHI
+103,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053137,2022020053,Faceoff,137,FACEOFF,Brayden Point faceoff won against Kevin Hayes,2022-10-19T00:03:43Z,2,01:00,19:00,0,0,14.0,Tampa Bay Lightning,TBL
+104,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053509,2022020053,Shot,509,SHOT,Steven Stamkos Slap Shot saved by Carter Hart,2022-10-19T00:03:47Z,2,01:04,18:56,0,0,14.0,Tampa Bay Lightning,TBL
+105,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053510,2022020053,Goal,510,GOAL,"Steven Stamkos (5) Slap Shot, assists: Vladislav Namestnikov (3), Nikita Kucherov (4)",2022-10-19T00:04:07Z,2,01:25,18:35,1,0,14.0,Tampa Bay Lightning,TBL
+106,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053138,2022020053,Faceoff,138,FACEOFF,Pierre-Edouard Bellemare faceoff won against Morgan Frost,2022-10-19T00:04:57Z,2,01:25,18:35,1,0,14.0,Tampa Bay Lightning,TBL
+107,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005398,2022020053,Hit,98,HIT,Pat Maroon hit Zack MacEwen,2022-10-19T00:05:10Z,2,01:38,18:22,1,0,14.0,Tampa Bay Lightning,TBL
+108,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053511,2022020053,Shot,511,SHOT,Zack MacEwen Wrist Shot saved by Andrei Vasilevskiy,2022-10-19T00:05:12Z,2,01:40,18:20,1,0,4.0,Philadelphia Flyers,PHI
+109,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053512,2022020053,Shot,512,SHOT,Morgan Frost Wrist Shot saved by Andrei Vasilevskiy,2022-10-19T00:05:13Z,2,01:41,18:19,1,0,4.0,Philadelphia Flyers,PHI
+110,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053656,2022020053,Blocked Shot,656,BLOCKED_SHOT,Morgan Frost shot blocked shot by Mikhail Sergachev,2022-10-19T00:05:14Z,2,01:42,18:18,1,0,14.0,Tampa Bay Lightning,TBL
+111,14,4,Tampa Bay Lightning,Philadelphia Flyers,202202005399,2022020053,Hit,99,HIT,Zack MacEwen hit Pierre-Edouard Bellemare,2022-10-19T00:05:28Z,2,01:56,18:04,1,0,4.0,Philadelphia Flyers,PHI
+112,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053139,2022020053,Giveaway,139,GIVEAWAY,Giveaway by Pierre-Edouard Bellemare,2022-10-19T00:05:41Z,2,02:09,17:51,1,0,14.0,Tampa Bay Lightning,TBL
+113,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053100,2022020053,Hit,100,HIT,Travis Sanheim hit Corey Perry,2022-10-19T00:05:46Z,2,02:14,17:46,1,0,4.0,Philadelphia Flyers,PHI
+114,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053513,2022020053,Shot,513,SHOT,Corey Perry Wrist Shot saved by Carter Hart,2022-10-19T00:05:55Z,2,02:23,17:37,1,0,14.0,Tampa Bay Lightning,TBL
+115,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053301,2022020053,Penalty,301,PENALTY,Corey Perry Fighting against Justin Braun,2022-10-19T00:06:04Z,2,02:31,17:29,1,0,14.0,Tampa Bay Lightning,TBL
+116,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053304,2022020053,Penalty,304,PENALTY,Justin Braun Fighting against Corey Perry,2022-10-19T00:06:04Z,2,02:31,17:29,1,0,4.0,Philadelphia Flyers,PHI
+117,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053514,2022020053,Shot,514,SHOT,Corey Perry Wrap-around saved by Carter Hart,2022-10-19T00:06:04Z,2,02:31,17:29,1,0,14.0,Tampa Bay Lightning,TBL
+118,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053576,2022020053,Penalty,576,PENALTY,Zack MacEwen Roughing against Ross Colton,2022-10-19T00:06:04Z,2,02:31,17:29,1,0,4.0,Philadelphia Flyers,PHI
+119,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053140,2022020053,Faceoff,140,FACEOFF,Noah Cates faceoff won against Brayden Point,2022-10-19T00:08:00Z,2,02:31,17:29,1,0,4.0,Philadelphia Flyers,PHI
+120,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053306,2022020053,Stoppage,306,STOP,Icing,2022-10-19T00:08:33Z,2,03:05,16:55,1,0,,,
+121,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053141,2022020053,Faceoff,141,FACEOFF,Steven Stamkos faceoff won against Scott Laughton,2022-10-19T00:09:05Z,2,03:05,16:55,1,0,14.0,Tampa Bay Lightning,TBL
+122,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053307,2022020053,Hit,307,HIT,Nick Seeler hit Steven Stamkos,2022-10-19T00:09:47Z,2,03:47,16:13,1,0,4.0,Philadelphia Flyers,PHI
+123,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053658,2022020053,Missed Shot,658,MISSED_SHOT,Nikita Kucherov Wide of Net Carter Hart,2022-10-19T00:09:51Z,2,03:51,16:09,1,0,14.0,Tampa Bay Lightning,TBL
+124,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053516,2022020053,Missed Shot,516,MISSED_SHOT,Steven Stamkos Wide of Net Carter Hart,2022-10-19T00:09:58Z,2,03:58,16:02,1,0,14.0,Tampa Bay Lightning,TBL
+125,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053517,2022020053,Goal,517,GOAL,"Steven Stamkos (6) Snap Shot, assists: Nikita Kucherov (5), Victor Hedman (3)",2022-10-19T00:10:12Z,2,04:12,15:48,2,0,14.0,Tampa Bay Lightning,TBL
+126,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053142,2022020053,Faceoff,142,FACEOFF,Nicholas Paul faceoff won against Morgan Frost,2022-10-19T00:11:20Z,2,04:12,15:48,2,0,14.0,Tampa Bay Lightning,TBL
+127,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053308,2022020053,Hit,308,HIT,Mikhail Sergachev hit Morgan Frost,2022-10-19T00:11:36Z,2,04:28,15:32,2,0,14.0,Tampa Bay Lightning,TBL
+128,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053518,2022020053,Shot,518,SHOT,Nicholas Paul Wrist Shot saved by Carter Hart,2022-10-19T00:12:09Z,2,05:01,14:59,2,0,14.0,Tampa Bay Lightning,TBL
+129,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053309,2022020053,Stoppage,309,STOP,Icing,2022-10-19T00:12:31Z,2,05:23,14:37,2,0,,,
+130,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053143,2022020053,Faceoff,143,FACEOFF,Pierre-Edouard Bellemare faceoff won against Noah Cates,2022-10-19T00:13:02Z,2,05:23,14:37,2,0,14.0,Tampa Bay Lightning,TBL
+131,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053519,2022020053,Missed Shot,519,MISSED_SHOT,Cole Koepke Wide of Net Carter Hart,2022-10-19T00:13:27Z,2,05:48,14:12,2,0,14.0,Tampa Bay Lightning,TBL
+132,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053310,2022020053,Stoppage,310,STOP,Puck in Crowd,2022-10-19T00:13:31Z,2,05:53,14:07,2,0,,,
+133,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053144,2022020053,Faceoff,144,FACEOFF,Brayden Point faceoff won against Kevin Hayes,2022-10-19T00:14:12Z,2,05:53,14:07,2,0,14.0,Tampa Bay Lightning,TBL
+134,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053145,2022020053,Takeaway,145,TAKEAWAY,Takeaway by Mikhail Sergachev,2022-10-19T00:14:58Z,2,06:39,13:21,2,0,14.0,Tampa Bay Lightning,TBL
+135,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053146,2022020053,Giveaway,146,GIVEAWAY,Giveaway by Kevin Hayes,2022-10-19T00:15:07Z,2,06:48,13:12,2,0,4.0,Philadelphia Flyers,PHI
+136,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053312,2022020053,Stoppage,312,STOP,Goalie Stopped,2022-10-19T00:15:10Z,2,06:51,13:09,2,0,,,
+137,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053520,2022020053,Shot,520,SHOT,Ian Cole Wrist Shot saved by Carter Hart,2022-10-19T00:15:10Z,2,06:51,13:09,2,0,14.0,Tampa Bay Lightning,TBL
+138,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053148,2022020053,Faceoff,148,FACEOFF,Vladislav Namestnikov faceoff won against Noah Cates,2022-10-19T00:17:37Z,2,06:51,13:09,2,0,14.0,Tampa Bay Lightning,TBL
+139,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053521,2022020053,Shot,521,SHOT,Vladislav Namestnikov Batted saved by Carter Hart,2022-10-19T00:17:57Z,2,07:11,12:49,2,0,14.0,Tampa Bay Lightning,TBL
+140,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053522,2022020053,Missed Shot,522,MISSED_SHOT,Victor Hedman Wide of Net Carter Hart,2022-10-19T00:18:14Z,2,07:28,12:32,2,0,14.0,Tampa Bay Lightning,TBL
+141,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053313,2022020053,Stoppage,313,STOP,Goalie Stopped,2022-10-19T00:18:16Z,2,07:30,12:30,2,0,,,
+142,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053523,2022020053,Shot,523,SHOT,Victor Hedman Wrist Shot saved by Carter Hart,2022-10-19T00:18:16Z,2,07:30,12:30,2,0,14.0,Tampa Bay Lightning,TBL
+143,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053149,2022020053,Faceoff,149,FACEOFF,Morgan Frost faceoff won against Nicholas Paul,2022-10-19T00:18:50Z,2,07:30,12:30,2,0,4.0,Philadelphia Flyers,PHI
+144,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053314,2022020053,Hit,314,HIT,Nick Perbix hit Morgan Frost,2022-10-19T00:19:07Z,2,07:47,12:13,2,0,14.0,Tampa Bay Lightning,TBL
+145,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053315,2022020053,Hit,315,HIT,Zack MacEwen hit Cal Foote,2022-10-19T00:19:27Z,2,08:07,11:53,2,0,4.0,Philadelphia Flyers,PHI
+146,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053524,2022020053,Missed Shot,524,MISSED_SHOT,Nikita Kucherov Wide of Net Carter Hart,2022-10-19T00:20:05Z,2,08:45,11:15,2,0,14.0,Tampa Bay Lightning,TBL
+147,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053316,2022020053,Hit,316,HIT,Jackson Cates hit Cal Foote,2022-10-19T00:20:14Z,2,08:54,11:06,2,0,4.0,Philadelphia Flyers,PHI
+148,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053317,2022020053,Stoppage,317,STOP,Offside,2022-10-19T00:20:21Z,2,09:01,10:59,2,0,,,
+149,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053150,2022020053,Faceoff,150,FACEOFF,Kevin Hayes faceoff won against Pierre-Edouard Bellemare,2022-10-19T00:21:13Z,2,09:01,10:59,2,0,4.0,Philadelphia Flyers,PHI
+150,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053525,2022020053,Missed Shot,525,MISSED_SHOT,Travis Konecny Wide of Net Andrei Vasilevskiy,2022-10-19T00:21:20Z,2,09:08,10:52,2,0,4.0,Philadelphia Flyers,PHI
+151,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053318,2022020053,Stoppage,318,STOP,Icing,2022-10-19T00:21:32Z,2,09:20,10:40,2,0,,,
+152,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053451,2022020053,Faceoff,451,FACEOFF,Noah Cates faceoff won against Pierre-Edouard Bellemare,2022-10-19T00:21:58Z,2,09:20,10:40,2,0,4.0,Philadelphia Flyers,PHI
+153,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053452,2022020053,Giveaway,452,GIVEAWAY,Giveaway by Joel Farabee,2022-10-19T00:22:10Z,2,09:32,10:28,2,0,4.0,Philadelphia Flyers,PHI
+154,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053526,2022020053,Missed Shot,526,MISSED_SHOT,Cole Koepke Wide of Net Carter Hart,2022-10-19T00:22:36Z,2,09:58,10:02,2,0,14.0,Tampa Bay Lightning,TBL
+155,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053527,2022020053,Missed Shot,527,MISSED_SHOT,Pat Maroon Wide of Net Carter Hart,2022-10-19T00:22:38Z,2,10:00,10:00,2,0,14.0,Tampa Bay Lightning,TBL
+156,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053319,2022020053,Stoppage,319,STOP,Offside,2022-10-19T00:22:45Z,2,10:06,09:54,2,0,,,
+157,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053453,2022020053,Faceoff,453,FACEOFF,Ross Colton faceoff won against Morgan Frost,2022-10-19T00:25:14Z,2,10:06,09:54,2,0,14.0,Tampa Bay Lightning,TBL
+158,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053320,2022020053,Hit,320,HIT,Scott Laughton hit Nick Perbix,2022-10-19T00:25:26Z,2,10:18,09:42,2,0,4.0,Philadelphia Flyers,PHI
+159,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053528,2022020053,Shot,528,SHOT,Egor Zamula Wrist Shot saved by Andrei Vasilevskiy,2022-10-19T00:25:50Z,2,10:42,09:18,2,0,4.0,Philadelphia Flyers,PHI
+160,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053529,2022020053,Goal,529,GOAL,"Scott Laughton (2) Wrist Shot, assists: Egor Zamula (1), Morgan Frost (1)",2022-10-19T00:25:51Z,2,10:43,09:17,2,1,4.0,Philadelphia Flyers,PHI
+161,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053454,2022020053,Faceoff,454,FACEOFF,Steven Stamkos faceoff won against Noah Cates,2022-10-19T00:26:45Z,2,10:43,09:17,2,1,14.0,Tampa Bay Lightning,TBL
+162,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053530,2022020053,Shot,530,SHOT,Kevin Hayes Snap Shot saved by Andrei Vasilevskiy,2022-10-19T00:27:50Z,2,11:48,08:12,2,1,4.0,Philadelphia Flyers,PHI
+163,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053531,2022020053,Shot,531,SHOT,Travis Konecny Wrist Shot saved by Andrei Vasilevskiy,2022-10-19T00:28:09Z,2,12:07,07:53,2,1,4.0,Philadelphia Flyers,PHI
+164,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053321,2022020053,Hit,321,HIT,Joel Farabee hit Erik Cernak,2022-10-19T00:28:14Z,2,12:12,07:48,2,1,4.0,Philadelphia Flyers,PHI
+165,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053322,2022020053,Hit,322,HIT,Erik Cernak hit Travis Konecny,2022-10-19T00:28:21Z,2,12:19,07:41,2,1,14.0,Tampa Bay Lightning,TBL
+166,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053532,2022020053,Blocked Shot,532,BLOCKED_SHOT,Joel Farabee shot blocked shot by Erik Cernak,2022-10-19T00:28:40Z,2,12:38,07:22,2,1,14.0,Tampa Bay Lightning,TBL
+167,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053533,2022020053,Shot,533,SHOT,Nick Seeler Wrist Shot saved by Andrei Vasilevskiy,2022-10-19T00:28:46Z,2,12:44,07:16,2,1,4.0,Philadelphia Flyers,PHI
+168,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053323,2022020053,Stoppage,323,STOP,Icing,2022-10-19T00:28:51Z,2,12:49,07:11,2,1,,,
+169,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053455,2022020053,Faceoff,455,FACEOFF,Noah Cates faceoff won against Brayden Point,2022-10-19T00:29:21Z,2,12:49,07:11,2,1,4.0,Philadelphia Flyers,PHI
+170,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053660,2022020053,Missed Shot,660,MISSED_SHOT,Travis Sanheim Wide of Net Andrei Vasilevskiy,2022-10-19T00:29:23Z,2,12:51,07:09,2,1,4.0,Philadelphia Flyers,PHI
+171,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053534,2022020053,Missed Shot,534,MISSED_SHOT,Zack MacEwen Wide of Net Andrei Vasilevskiy,2022-10-19T00:29:33Z,2,13:01,06:59,2,1,4.0,Philadelphia Flyers,PHI
+172,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053324,2022020053,Hit,324,HIT,Victor Hedman hit James van Riemsdyk,2022-10-19T00:29:44Z,2,13:12,06:48,2,1,14.0,Tampa Bay Lightning,TBL
+173,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053325,2022020053,Hit,325,HIT,Zack MacEwen hit Pat Maroon,2022-10-19T00:29:48Z,2,13:16,06:44,2,1,4.0,Philadelphia Flyers,PHI
+174,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053326,2022020053,Stoppage,326,STOP,Icing,2022-10-19T00:30:08Z,2,13:36,06:24,2,1,,,
+175,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053456,2022020053,Faceoff,456,FACEOFF,Jackson Cates faceoff won against Pierre-Edouard Bellemare,2022-10-19T00:30:43Z,2,13:36,06:24,2,1,4.0,Philadelphia Flyers,PHI
+176,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053327,2022020053,Stoppage,327,STOP,Goalie Stopped,2022-10-19T00:31:00Z,2,13:53,06:07,2,1,,,
+177,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053535,2022020053,Shot,535,SHOT,Nick Perbix Wrist Shot saved by Carter Hart,2022-10-19T00:31:00Z,2,13:53,06:07,2,1,14.0,Tampa Bay Lightning,TBL
+178,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053457,2022020053,Faceoff,457,FACEOFF,Ross Colton faceoff won against Morgan Frost,2022-10-19T00:31:32Z,2,13:53,06:07,2,1,14.0,Tampa Bay Lightning,TBL
+179,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053536,2022020053,Blocked Shot,536,BLOCKED_SHOT,Mikhail Sergachev shot blocked shot by Wade Allison,2022-10-19T00:31:39Z,2,14:00,06:00,2,1,4.0,Philadelphia Flyers,PHI
+180,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053661,2022020053,Shot,661,SHOT,Corey Perry Snap Shot saved by Carter Hart,2022-10-19T00:31:55Z,2,14:16,05:44,2,1,14.0,Tampa Bay Lightning,TBL
+181,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053662,2022020053,Blocked Shot,662,BLOCKED_SHOT,Mikhail Sergachev shot blocked shot by Wade Allison,2022-10-19T00:31:59Z,2,14:20,05:40,2,1,4.0,Philadelphia Flyers,PHI
+182,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053537,2022020053,Missed Shot,537,MISSED_SHOT,Scott Laughton Wide of Net Andrei Vasilevskiy,2022-10-19T00:32:10Z,2,14:31,05:29,2,1,4.0,Philadelphia Flyers,PHI
+183,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053329,2022020053,Hit,329,HIT,Wade Allison hit Cal Foote,2022-10-19T00:32:16Z,2,14:37,05:23,2,1,4.0,Philadelphia Flyers,PHI
+184,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053330,2022020053,Stoppage,330,STOP,Puck in Crowd,2022-10-19T00:32:45Z,2,15:06,04:54,2,1,,,
+185,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053458,2022020053,Faceoff,458,FACEOFF,Steven Stamkos faceoff won against Noah Cates,2022-10-19T00:35:14Z,2,15:06,04:54,2,1,14.0,Tampa Bay Lightning,TBL
+186,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053538,2022020053,Shot,538,SHOT,Nicholas Paul Backhand saved by Carter Hart,2022-10-19T00:35:40Z,2,15:32,04:28,2,1,14.0,Tampa Bay Lightning,TBL
+187,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053539,2022020053,Blocked Shot,539,BLOCKED_SHOT,James van Riemsdyk shot blocked shot by Mikhail Sergachev,2022-10-19T00:35:53Z,2,15:45,04:15,2,1,14.0,Tampa Bay Lightning,TBL
+188,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053331,2022020053,Stoppage,331,STOP,Icing,2022-10-19T00:36:06Z,2,15:59,04:01,2,1,,,
+189,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053459,2022020053,Faceoff,459,FACEOFF,Brayden Point faceoff won against Kevin Hayes,2022-10-19T00:36:41Z,2,15:59,04:01,2,1,14.0,Tampa Bay Lightning,TBL
+190,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053540,2022020053,Shot,540,SHOT,Erik Cernak Wrist Shot saved by Carter Hart,2022-10-19T00:36:45Z,2,16:03,03:57,2,1,14.0,Tampa Bay Lightning,TBL
+191,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053461,2022020053,Takeaway,461,TAKEAWAY,Takeaway by Nikita Kucherov,2022-10-19T00:36:49Z,2,16:07,03:53,2,1,14.0,Tampa Bay Lightning,TBL
+192,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053541,2022020053,Shot,541,SHOT,Erik Cernak Slap Shot saved by Carter Hart,2022-10-19T00:36:55Z,2,16:13,03:47,2,1,14.0,Tampa Bay Lightning,TBL
+193,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053542,2022020053,Shot,542,SHOT,Brandon Hagel Poke saved by Carter Hart,2022-10-19T00:36:58Z,2,16:16,03:44,2,1,14.0,Tampa Bay Lightning,TBL
+194,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053663,2022020053,Blocked Shot,663,BLOCKED_SHOT,Travis Konecny shot blocked shot by Victor Hedman,2022-10-19T00:37:20Z,2,16:38,03:22,2,1,14.0,Tampa Bay Lightning,TBL
+195,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053543,2022020053,Missed Shot,543,MISSED_SHOT,Tony DeAngelo Wide of Net Andrei Vasilevskiy,2022-10-19T00:37:29Z,2,16:47,03:13,2,1,4.0,Philadelphia Flyers,PHI
+196,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053332,2022020053,Hit,332,HIT,Joel Farabee hit Nikita Kucherov,2022-10-19T00:37:33Z,2,16:51,03:09,2,1,4.0,Philadelphia Flyers,PHI
+197,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053544,2022020053,Blocked Shot,544,BLOCKED_SHOT,Egor Zamula shot blocked shot by Pierre-Edouard Bellemare,2022-10-19T00:37:52Z,2,17:10,02:50,2,1,14.0,Tampa Bay Lightning,TBL
+198,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053545,2022020053,Blocked Shot,545,BLOCKED_SHOT,Nick Seeler shot blocked shot by Brandon Hagel,2022-10-19T00:37:59Z,2,17:17,02:43,2,1,14.0,Tampa Bay Lightning,TBL
+199,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053462,2022020053,Takeaway,462,TAKEAWAY,Takeaway by Nikita Kucherov,2022-10-19T00:38:11Z,2,17:29,02:31,2,1,14.0,Tampa Bay Lightning,TBL
+200,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053333,2022020053,Hit,333,HIT,Scott Laughton hit Cal Foote,2022-10-19T00:38:18Z,2,17:36,02:24,2,1,4.0,Philadelphia Flyers,PHI
+201,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053546,2022020053,Shot,546,SHOT,Nick Seeler Slap Shot saved by Andrei Vasilevskiy,2022-10-19T00:38:24Z,2,17:42,02:18,2,1,4.0,Philadelphia Flyers,PHI
+202,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053334,2022020053,Stoppage,334,STOP,Goalie Stopped,2022-10-19T00:38:30Z,2,17:47,02:13,2,1,,,
+203,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053463,2022020053,Faceoff,463,FACEOFF,Steven Stamkos faceoff won against Jackson Cates,2022-10-19T00:39:09Z,2,17:47,02:13,2,1,14.0,Tampa Bay Lightning,TBL
+204,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053335,2022020053,Hit,335,HIT,Justin Braun hit Erik Cernak,2022-10-19T00:39:15Z,2,17:51,02:09,2,1,4.0,Philadelphia Flyers,PHI
+205,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053336,2022020053,Stoppage,336,STOP,Icing,2022-10-19T00:39:15Z,2,17:54,02:06,2,1,,,
+206,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053464,2022020053,Faceoff,464,FACEOFF,Steven Stamkos faceoff won against Noah Cates,2022-10-19T00:39:47Z,2,17:54,02:06,2,1,14.0,Tampa Bay Lightning,TBL
+207,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053547,2022020053,Missed Shot,547,MISSED_SHOT,Nicholas Paul Wide of Net Carter Hart,2022-10-19T00:39:56Z,2,18:03,01:57,2,1,14.0,Tampa Bay Lightning,TBL
+208,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053548,2022020053,Blocked Shot,548,BLOCKED_SHOT,Nicholas Paul shot blocked shot by Noah Cates,2022-10-19T00:40:20Z,2,18:27,01:33,2,1,4.0,Philadelphia Flyers,PHI
+209,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053337,2022020053,Hit,337,HIT,Travis Sanheim hit Alex Killorn,2022-10-19T00:40:42Z,2,18:49,01:11,2,1,4.0,Philadelphia Flyers,PHI
+210,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053338,2022020053,Stoppage,338,STOP,Puck Frozen,2022-10-19T00:40:50Z,2,18:57,01:03,2,1,,,
+211,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053465,2022020053,Faceoff,465,FACEOFF,Ross Colton faceoff won against Kevin Hayes,2022-10-19T00:41:29Z,2,18:57,01:03,2,1,14.0,Tampa Bay Lightning,TBL
+212,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053549,2022020053,Missed Shot,549,MISSED_SHOT,Erik Cernak Wide of Net Carter Hart,2022-10-19T00:41:35Z,2,19:03,00:57,2,1,14.0,Tampa Bay Lightning,TBL
+213,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053339,2022020053,Hit,339,HIT,Erik Cernak hit Kevin Hayes,2022-10-19T00:41:52Z,2,19:20,00:40,2,1,14.0,Tampa Bay Lightning,TBL
+214,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053550,2022020053,Shot,550,SHOT,Travis Konecny Snap Shot saved by Andrei Vasilevskiy,2022-10-19T00:41:57Z,2,19:25,00:35,2,1,4.0,Philadelphia Flyers,PHI
+215,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053466,2022020053,Takeaway,466,TAKEAWAY,Takeaway by Corey Perry,2022-10-19T00:42:05Z,2,19:33,00:27,2,1,14.0,Tampa Bay Lightning,TBL
+216,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053751,2022020053,Shot,751,SHOT,Corey Perry Backhand saved by Carter Hart,2022-10-19T00:42:06Z,2,19:34,00:26,2,1,14.0,Tampa Bay Lightning,TBL
+217,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053752,2022020053,Shot,752,SHOT,Vladislav Namestnikov Poke saved by Carter Hart,2022-10-19T00:42:07Z,2,19:35,00:25,2,1,14.0,Tampa Bay Lightning,TBL
+218,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053340,2022020053,Stoppage,340,STOP,Goalie Stopped,2022-10-19T00:42:10Z,2,19:36,00:24,2,1,,,
+219,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053467,2022020053,Faceoff,467,FACEOFF,Brayden Point faceoff won against Scott Laughton,2022-10-19T00:43:09Z,2,19:36,00:24,2,1,14.0,Tampa Bay Lightning,TBL
+220,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053753,2022020053,Blocked Shot,753,BLOCKED_SHOT,Nikita Kucherov shot blocked shot by Scott Laughton,2022-10-19T00:43:19Z,2,19:47,00:13,2,1,4.0,Philadelphia Flyers,PHI
+221,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053754,2022020053,Shot,754,SHOT,Wade Allison Wrist Shot saved by Andrei Vasilevskiy,2022-10-19T00:43:26Z,2,19:54,00:06,2,1,4.0,Philadelphia Flyers,PHI
+222,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053341,2022020053,Period End,341,PERIOD_END,End of 2nd Period,2022-10-19T00:43:32Z,2,20:00,00:00,2,1,,,
+223,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053344,2022020053,Period Official,344,PERIOD_OFFICIAL,Period Official,2022-10-19T00:55:04Z,2,20:00,00:00,2,1,,,
+224,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053345,2022020053,Period Ready,345,PERIOD_READY,Period Ready,2022-10-19T00:55:08Z,3,00:00,20:00,2,1,,,
+225,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053468,2022020053,Period Start,468,PERIOD_START,Period Start,2022-10-19T01:02:21Z,3,00:00,20:00,2,1,,,
+226,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053469,2022020053,Faceoff,469,FACEOFF,Steven Stamkos faceoff won against Noah Cates,2022-10-19T01:02:21Z,3,00:00,20:00,2,1,14.0,Tampa Bay Lightning,TBL
+227,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053472,2022020053,Takeaway,472,TAKEAWAY,Takeaway by Cal Foote,2022-10-19T01:02:41Z,3,00:20,19:40,2,1,14.0,Tampa Bay Lightning,TBL
+228,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053902,2022020053,Penalty,902,PENALTY,Steven Stamkos Hooking against Noah Cates,2022-10-19T01:02:46Z,3,00:25,19:35,2,1,14.0,Tampa Bay Lightning,TBL
+229,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053471,2022020053,Faceoff,471,FACEOFF,Pierre-Edouard Bellemare faceoff won against Kevin Hayes,2022-10-19T01:03:27Z,3,00:25,19:35,2,1,14.0,Tampa Bay Lightning,TBL
+230,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053755,2022020053,Missed Shot,755,MISSED_SHOT,James van Riemsdyk Wide of Net Andrei Vasilevskiy,2022-10-19T01:03:33Z,3,00:31,19:29,2,1,4.0,Philadelphia Flyers,PHI
+231,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053756,2022020053,Goal,756,GOAL,"James van Riemsdyk (1) Wrist Shot, assists: Kevin Hayes (4), Tony DeAngelo (3)",2022-10-19T01:04:09Z,3,01:06,18:54,2,2,4.0,Philadelphia Flyers,PHI
+232,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053473,2022020053,Faceoff,473,FACEOFF,Brayden Point faceoff won against Morgan Frost,2022-10-19T01:04:53Z,3,01:06,18:54,2,2,14.0,Tampa Bay Lightning,TBL
+233,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053346,2022020053,Stoppage,346,STOP,Icing,2022-10-19T01:05:10Z,3,01:23,18:37,2,2,,,
+234,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053474,2022020053,Faceoff,474,FACEOFF,Brayden Point faceoff won against Morgan Frost,2022-10-19T01:05:37Z,3,01:23,18:37,2,2,14.0,Tampa Bay Lightning,TBL
+235,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053757,2022020053,Shot,757,SHOT,Mikhail Sergachev Wrist Shot saved by Carter Hart,2022-10-19T01:05:42Z,3,01:28,18:32,2,2,14.0,Tampa Bay Lightning,TBL
+236,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053476,2022020053,Takeaway,476,TAKEAWAY,Takeaway by Brayden Point,2022-10-19T01:06:01Z,3,01:47,18:13,2,2,14.0,Tampa Bay Lightning,TBL
+237,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053347,2022020053,Hit,347,HIT,Cal Foote hit Wade Allison,2022-10-19T01:06:11Z,3,01:57,18:03,2,2,14.0,Tampa Bay Lightning,TBL
+238,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053758,2022020053,Blocked Shot,758,BLOCKED_SHOT,Nick Seeler shot blocked shot by Brandon Hagel,2022-10-19T01:06:16Z,3,02:02,17:58,2,2,14.0,Tampa Bay Lightning,TBL
+239,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053759,2022020053,Missed Shot,759,MISSED_SHOT,Nicolas Deslauriers Wide of Net Andrei Vasilevskiy,2022-10-19T01:06:17Z,3,02:03,17:57,2,2,4.0,Philadelphia Flyers,PHI
+240,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053760,2022020053,Blocked Shot,760,BLOCKED_SHOT,Nick Seeler shot blocked shot by Corey Perry,2022-10-19T01:06:32Z,3,02:18,17:42,2,2,14.0,Tampa Bay Lightning,TBL
+241,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053761,2022020053,Blocked Shot,761,BLOCKED_SHOT,Tanner Laczynski shot blocked shot by Mikhail Sergachev,2022-10-19T01:06:37Z,3,02:23,17:37,2,2,14.0,Tampa Bay Lightning,TBL
+242,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053348,2022020053,Hit,348,HIT,Ian Cole hit Tanner Laczynski,2022-10-19T01:06:55Z,3,02:41,17:19,2,2,14.0,Tampa Bay Lightning,TBL
+243,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053763,2022020053,Blocked Shot,763,BLOCKED_SHOT,Ross Colton shot blocked shot by Noah Cates,2022-10-19T01:07:10Z,3,02:56,17:04,2,2,4.0,Philadelphia Flyers,PHI
+244,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053477,2022020053,Takeaway,477,TAKEAWAY,Takeaway by Pat Maroon,2022-10-19T01:07:25Z,3,03:11,16:49,2,2,14.0,Tampa Bay Lightning,TBL
+245,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053764,2022020053,Shot,764,SHOT,Ross Colton Wrist Shot saved by Carter Hart,2022-10-19T01:07:33Z,3,03:19,16:41,2,2,14.0,Tampa Bay Lightning,TBL
+246,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053349,2022020053,Stoppage,349,STOP,Puck in Netting,2022-10-19T01:07:35Z,3,03:21,16:39,2,2,,,
+247,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053478,2022020053,Faceoff,478,FACEOFF,Nicholas Paul faceoff won against Kevin Hayes,2022-10-19T01:08:15Z,3,03:21,16:39,2,2,14.0,Tampa Bay Lightning,TBL
+248,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053350,2022020053,Hit,350,HIT,Justin Braun hit Nicholas Paul,2022-10-19T01:08:26Z,3,03:32,16:28,2,2,4.0,Philadelphia Flyers,PHI
+249,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053479,2022020053,Giveaway,479,GIVEAWAY,Giveaway by Nicholas Paul,2022-10-19T01:08:27Z,3,03:33,16:27,2,2,14.0,Tampa Bay Lightning,TBL
+250,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053765,2022020053,Shot,765,SHOT,Joel Farabee Backhand saved by Andrei Vasilevskiy,2022-10-19T01:08:54Z,3,04:00,16:00,2,2,4.0,Philadelphia Flyers,PHI
+251,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053766,2022020053,Blocked Shot,766,BLOCKED_SHOT,Morgan Frost shot blocked shot by Victor Hedman,2022-10-19T01:09:05Z,3,04:11,15:49,2,2,14.0,Tampa Bay Lightning,TBL
+252,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053851,2022020053,Hit,851,HIT,Steven Stamkos hit Wade Allison,2022-10-19T01:09:17Z,3,04:23,15:37,2,2,14.0,Tampa Bay Lightning,TBL
+253,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053852,2022020053,Hit,852,HIT,Scott Laughton hit Nick Perbix,2022-10-19T01:09:40Z,3,04:46,15:14,2,2,4.0,Philadelphia Flyers,PHI
+254,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053853,2022020053,Stoppage,853,STOP,Puck in Crowd,2022-10-19T01:09:49Z,3,04:56,15:04,2,2,,,
+255,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053480,2022020053,Faceoff,480,FACEOFF,Brayden Point faceoff won against Jackson Cates,2022-10-19T01:10:18Z,3,04:56,15:04,2,2,14.0,Tampa Bay Lightning,TBL
+256,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053945,2022020053,Penalty,945,PENALTY,Zack MacEwen Holding against Cal Foote,2022-10-19T01:10:56Z,3,05:34,14:26,2,2,4.0,Philadelphia Flyers,PHI
+257,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053481,2022020053,Faceoff,481,FACEOFF,Brayden Point faceoff won against Noah Cates,2022-10-19T01:11:42Z,3,05:34,14:26,2,2,14.0,Tampa Bay Lightning,TBL
+258,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053767,2022020053,Blocked Shot,767,BLOCKED_SHOT,Brayden Point shot blocked shot by Travis Sanheim,2022-10-19T01:11:55Z,3,05:47,14:13,2,2,4.0,Philadelphia Flyers,PHI
+259,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053768,2022020053,Shot,768,SHOT,Steven Stamkos Wrist Shot saved by Carter Hart,2022-10-19T01:12:14Z,3,06:06,13:54,2,2,14.0,Tampa Bay Lightning,TBL
+260,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053482,2022020053,Takeaway,482,TAKEAWAY,Takeaway by Travis Konecny,2022-10-19T01:12:18Z,3,06:10,13:50,2,2,4.0,Philadelphia Flyers,PHI
+261,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053769,2022020053,Shot,769,SHOT,Tony DeAngelo Wrist Shot saved by Andrei Vasilevskiy,2022-10-19T01:12:47Z,3,06:39,13:21,2,2,4.0,Philadelphia Flyers,PHI
+262,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053483,2022020053,Takeaway,483,TAKEAWAY,Takeaway by Andrei Vasilevskiy,2022-10-19T01:13:11Z,3,07:03,12:57,2,2,14.0,Tampa Bay Lightning,TBL
+263,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053770,2022020053,Blocked Shot,770,BLOCKED_SHOT,Ross Colton shot blocked shot by Travis Sanheim,2022-10-19T01:13:34Z,3,07:26,12:34,2,2,4.0,Philadelphia Flyers,PHI
+264,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053771,2022020053,Blocked Shot,771,BLOCKED_SHOT,Ross Colton shot blocked shot by Travis Sanheim,2022-10-19T01:13:46Z,3,07:38,12:22,2,2,4.0,Philadelphia Flyers,PHI
+265,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053772,2022020053,Shot,772,SHOT,Alex Killorn Snap Shot saved by Carter Hart,2022-10-19T01:13:51Z,3,07:43,12:17,2,2,14.0,Tampa Bay Lightning,TBL
+266,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053773,2022020053,Shot,773,SHOT,Corey Perry Deflected saved by Carter Hart,2022-10-19T01:14:07Z,3,07:59,12:01,2,2,14.0,Tampa Bay Lightning,TBL
+267,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053854,2022020053,Hit,854,HIT,Nicolas Deslauriers hit Erik Cernak,2022-10-19T01:15:52Z,3,09:44,10:16,2,2,4.0,Philadelphia Flyers,PHI
+268,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053855,2022020053,Stoppage,855,STOP,Puck in Benches,2022-10-19T01:15:53Z,3,09:46,10:14,2,2,,,
+269,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053484,2022020053,Faceoff,484,FACEOFF,Kevin Hayes faceoff won against Steven Stamkos,2022-10-19T01:18:17Z,3,09:46,10:14,2,2,4.0,Philadelphia Flyers,PHI
+270,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053774,2022020053,Missed Shot,774,MISSED_SHOT,Alex Killorn Over Net Carter Hart,2022-10-19T01:18:37Z,3,10:06,09:54,2,2,14.0,Tampa Bay Lightning,TBL
+271,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053856,2022020053,Hit,856,HIT,Travis Konecny hit Alex Killorn,2022-10-19T01:18:37Z,3,10:06,09:54,2,2,4.0,Philadelphia Flyers,PHI
+272,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053775,2022020053,Shot,775,SHOT,Steven Stamkos Wrist Shot saved by Carter Hart,2022-10-19T01:18:54Z,3,10:23,09:37,2,2,14.0,Tampa Bay Lightning,TBL
+273,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053776,2022020053,Blocked Shot,776,BLOCKED_SHOT,Steven Stamkos shot blocked shot by Tony DeAngelo,2022-10-19T01:19:05Z,3,10:34,09:26,2,2,4.0,Philadelphia Flyers,PHI
+274,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053777,2022020053,Shot,777,SHOT,Joel Farabee Wrist Shot saved by Andrei Vasilevskiy,2022-10-19T01:19:14Z,3,10:43,09:17,2,2,4.0,Philadelphia Flyers,PHI
+275,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053859,2022020053,Stoppage,859,STOP,Puck in Benches,2022-10-19T01:19:20Z,3,10:50,09:10,2,2,,,
+276,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053485,2022020053,Faceoff,485,FACEOFF,Ross Colton faceoff won against Noah Cates,2022-10-19T01:21:32Z,3,10:50,09:10,2,2,14.0,Tampa Bay Lightning,TBL
+277,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053779,2022020053,Shot,779,SHOT,Corey Perry Wrist Shot saved by Carter Hart,2022-10-19T01:21:57Z,3,11:01,08:59,2,2,14.0,Tampa Bay Lightning,TBL
+278,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053860,2022020053,Hit,860,HIT,Corey Perry hit Travis Sanheim,2022-10-19T01:22:06Z,3,11:10,08:50,2,2,14.0,Tampa Bay Lightning,TBL
+279,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053780,2022020053,Shot,780,SHOT,Travis Konecny Tip-In saved by Andrei Vasilevskiy,2022-10-19T01:23:28Z,3,12:32,07:28,2,2,4.0,Philadelphia Flyers,PHI
+280,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053664,2022020053,Blocked Shot,664,BLOCKED_SHOT,Egor Zamula shot blocked shot by Brandon Hagel,2022-10-19T01:23:35Z,3,12:39,07:21,2,2,14.0,Tampa Bay Lightning,TBL
+281,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053486,2022020053,Takeaway,486,TAKEAWAY,Takeaway by Noah Cates,2022-10-19T01:23:38Z,3,12:42,07:18,2,2,4.0,Philadelphia Flyers,PHI
+282,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053782,2022020053,Goal,782,GOAL,"Noah Cates (1) Wrist Shot, assists: none",2022-10-19T01:23:40Z,3,12:44,07:16,2,3,4.0,Philadelphia Flyers,PHI
+283,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053487,2022020053,Faceoff,487,FACEOFF,Morgan Frost faceoff won against Pierre-Edouard Bellemare,2022-10-19T01:24:32Z,3,12:44,07:16,2,3,4.0,Philadelphia Flyers,PHI
+284,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053488,2022020053,Giveaway,488,GIVEAWAY,Giveaway by Victor Hedman,2022-10-19T01:24:58Z,3,13:10,06:50,2,3,14.0,Tampa Bay Lightning,TBL
+285,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053861,2022020053,Hit,861,HIT,Pierre-Edouard Bellemare hit Travis Konecny,2022-10-19T01:25:13Z,3,13:25,06:35,2,3,14.0,Tampa Bay Lightning,TBL
+286,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053783,2022020053,Shot,783,SHOT,Nick Perbix Deflected saved by Carter Hart,2022-10-19T01:26:15Z,3,14:27,05:33,2,3,14.0,Tampa Bay Lightning,TBL
+287,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053863,2022020053,Stoppage,863,STOP,Goalie Stopped,2022-10-19T01:26:15Z,3,14:27,05:33,2,3,,,
+288,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053489,2022020053,Faceoff,489,FACEOFF,Noah Cates faceoff won against Brayden Point,2022-10-19T01:26:57Z,3,14:27,05:33,2,3,4.0,Philadelphia Flyers,PHI
+289,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053864,2022020053,Hit,864,HIT,Zack MacEwen hit Erik Cernak,2022-10-19T01:27:09Z,3,14:39,05:21,2,3,4.0,Philadelphia Flyers,PHI
+290,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053865,2022020053,Hit,865,HIT,Victor Hedman hit James van Riemsdyk,2022-10-19T01:27:30Z,3,15:00,05:00,2,3,14.0,Tampa Bay Lightning,TBL
+291,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053784,2022020053,Missed Shot,784,MISSED_SHOT,Nikita Kucherov Wide of Net Carter Hart,2022-10-19T01:27:37Z,3,15:07,04:53,2,3,14.0,Tampa Bay Lightning,TBL
+292,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053785,2022020053,Shot,785,SHOT,Mikhail Sergachev Wrist Shot saved by Carter Hart,2022-10-19T01:28:08Z,3,15:38,04:22,2,3,14.0,Tampa Bay Lightning,TBL
+293,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053786,2022020053,Missed Shot,786,MISSED_SHOT,Mikhail Sergachev Wide of Net Carter Hart,2022-10-19T01:28:21Z,3,15:51,04:09,2,3,14.0,Tampa Bay Lightning,TBL
+294,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053787,2022020053,Shot,787,SHOT,Vladislav Namestnikov Deflected saved by Carter Hart,2022-10-19T01:28:52Z,3,16:22,03:38,2,3,14.0,Tampa Bay Lightning,TBL
+295,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053866,2022020053,Stoppage,866,STOP,Goalie Stopped,2022-10-19T01:28:52Z,3,16:22,03:38,2,3,,,
+296,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053490,2022020053,Faceoff,490,FACEOFF,Nicholas Paul faceoff won against Noah Cates,2022-10-19T01:31:16Z,3,16:22,03:38,2,3,14.0,Tampa Bay Lightning,TBL
+297,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053867,2022020053,Hit,867,HIT,Scott Laughton hit Vladislav Namestnikov,2022-10-19T01:31:47Z,3,16:53,03:07,2,3,4.0,Philadelphia Flyers,PHI
+298,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053868,2022020053,Hit,868,HIT,Zack MacEwen hit Brandon Hagel,2022-10-19T01:31:47Z,3,16:53,03:07,2,3,4.0,Philadelphia Flyers,PHI
+299,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053788,2022020053,Shot,788,SHOT,Zack MacEwen Batted saved by Andrei Vasilevskiy,2022-10-19T01:31:54Z,3,17:00,03:00,2,3,4.0,Philadelphia Flyers,PHI
+300,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053869,2022020053,Hit,869,HIT,Vladislav Namestnikov hit James van Riemsdyk,2022-10-19T01:32:06Z,3,17:12,02:48,2,3,14.0,Tampa Bay Lightning,TBL
+301,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053870,2022020053,Hit,870,HIT,Steven Stamkos hit James van Riemsdyk,2022-10-19T01:32:23Z,3,17:29,02:31,2,3,14.0,Tampa Bay Lightning,TBL
+302,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053789,2022020053,Shot,789,SHOT,Scott Laughton Wrist Shot saved by Andrei Vasilevskiy,2022-10-19T01:32:39Z,3,17:45,02:15,2,3,4.0,Philadelphia Flyers,PHI
+303,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053665,2022020053,Missed Shot,665,MISSED_SHOT,Steven Stamkos Wide of Net Carter Hart,2022-10-19T01:33:19Z,3,18:25,01:35,2,3,14.0,Tampa Bay Lightning,TBL
+304,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053871,2022020053,Stoppage,871,STOP,Puck in Netting,2022-10-19T01:33:20Z,3,18:26,01:34,2,3,,,
+305,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053491,2022020053,Faceoff,491,FACEOFF,Nicholas Paul faceoff won against Travis Konecny,2022-10-19T01:34:53Z,3,18:26,01:34,2,3,14.0,Tampa Bay Lightning,TBL
+306,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053791,2022020053,Blocked Shot,791,BLOCKED_SHOT,Steven Stamkos shot blocked shot by Ivan Provorov,2022-10-19T01:35:54Z,3,19:27,00:33,2,3,4.0,Philadelphia Flyers,PHI
+307,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053792,2022020053,Missed Shot,792,MISSED_SHOT,Nikita Kucherov Wide of Net Carter Hart,2022-10-19T01:36:24Z,3,19:57,00:03,2,3,14.0,Tampa Bay Lightning,TBL
+308,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053793,2022020053,Shot,793,SHOT,Corey Perry Deflected saved by Carter Hart,2022-10-19T01:36:25Z,3,19:58,00:02,2,3,14.0,Tampa Bay Lightning,TBL
+309,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053872,2022020053,Stoppage,872,STOP,Goalie Stopped,2022-10-19T01:36:25Z,3,19:58,00:02,2,3,,,
+310,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053873,2022020053,Stoppage,873,STOP,Home Timeout,2022-10-19T01:36:25Z,3,19:58,00:02,2,3,,,
+311,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053492,2022020053,Faceoff,492,FACEOFF,Noah Cates faceoff won against Steven Stamkos,2022-10-19T01:38:27Z,3,19:58,00:02,2,3,4.0,Philadelphia Flyers,PHI
+312,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053874,2022020053,Period End,874,PERIOD_END,End of 3rd Period,2022-10-19T01:38:29Z,3,20:00,00:00,2,3,,,
+313,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053877,2022020053,Period Official,877,PERIOD_OFFICIAL,Period Official,2022-10-19T01:38:59Z,3,20:00,00:00,2,3,,,
+314,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053878,2022020053,Game End,878,GAME_END,Game End,2022-10-19T01:39:20Z,3,20:00,00:00,2,3,,,
+315,14,4,Tampa Bay Lightning,Philadelphia Flyers,2022020053879,2022020053,Game Official,879,GAME_OFFICIAL,Game Official,2022-10-19T02:01:38Z,3,20:00,00:00,2,3,,,

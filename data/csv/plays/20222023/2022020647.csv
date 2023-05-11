@@ -1,0 +1,344 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,26,22,Los Angeles Kings,Edmonton Oilers,20220206471,2022020647,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-01-10T02:45:39Z,1,00:00,20:00,0,0,,,
+1,26,22,Los Angeles Kings,Edmonton Oilers,20220206475,2022020647,Period Ready,5,PERIOD_READY,Period Ready,2023-01-10T03:37:57Z,1,00:00,20:00,0,0,,,
+2,26,22,Los Angeles Kings,Edmonton Oilers,202202064751,2022020647,Period Start,51,PERIOD_START,Period Start,2023-01-10T03:38:46Z,1,00:00,20:00,0,0,,,
+3,26,22,Los Angeles Kings,Edmonton Oilers,202202064752,2022020647,Faceoff,52,FACEOFF,Blake Lizotte faceoff won against Ryan Nugent-Hopkins,2023-01-10T03:38:46Z,1,00:00,20:00,0,0,26.0,Los Angeles Kings,LAK
+4,26,22,Los Angeles Kings,Edmonton Oilers,2022020647151,2022020647,Shot,151,SHOT,Tyson Barrie Wrist Shot saved by Pheonix Copley,2023-01-10T03:39:15Z,1,00:29,19:31,0,0,22.0,Edmonton Oilers,EDM
+5,26,22,Los Angeles Kings,Edmonton Oilers,20220206478,2022020647,Hit,8,HIT,Mikey Anderson hit Leon Draisaitl,2023-01-10T03:39:50Z,1,01:04,18:56,0,0,26.0,Los Angeles Kings,LAK
+6,26,22,Los Angeles Kings,Edmonton Oilers,2022020647201,2022020647,Giveaway,201,GIVEAWAY,Giveaway by Phillip Danault,2023-01-10T03:39:56Z,1,01:10,18:50,0,0,26.0,Los Angeles Kings,LAK
+7,26,22,Los Angeles Kings,Edmonton Oilers,2022020647152,2022020647,Shot,152,SHOT,Zach Hyman Tip-In saved by Pheonix Copley,2023-01-10T03:39:59Z,1,01:13,18:47,0,0,22.0,Edmonton Oilers,EDM
+8,26,22,Los Angeles Kings,Edmonton Oilers,2022020647202,2022020647,Stoppage,202,STOP,Goalie Stopped,2023-01-10T03:40:00Z,1,01:15,18:45,0,0,,,
+9,26,22,Los Angeles Kings,Edmonton Oilers,202202064753,2022020647,Faceoff,53,FACEOFF,Anze Kopitar faceoff won against Klim Kostin,2023-01-10T03:40:39Z,1,01:15,18:45,0,0,26.0,Los Angeles Kings,LAK
+10,26,22,Los Angeles Kings,Edmonton Oilers,2022020647153,2022020647,Shot,153,SHOT,Matt Roy Wrist Shot saved by Stuart Skinner,2023-01-10T03:40:49Z,1,01:25,18:35,0,0,26.0,Los Angeles Kings,LAK
+11,26,22,Los Angeles Kings,Edmonton Oilers,2022020647203,2022020647,Stoppage,203,STOP,Puck Frozen,2023-01-10T03:41:28Z,1,02:04,17:56,0,0,,,
+12,26,22,Los Angeles Kings,Edmonton Oilers,202202064754,2022020647,Faceoff,54,FACEOFF,Jaret Anderson-Dolan faceoff won against Dylan Holloway,2023-01-10T03:42:13Z,1,02:04,17:56,0,0,26.0,Los Angeles Kings,LAK
+13,26,22,Los Angeles Kings,Edmonton Oilers,20220206479,2022020647,Giveaway,9,GIVEAWAY,Giveaway by Rasmus Kupari,2023-01-10T03:42:19Z,1,02:10,17:50,0,0,26.0,Los Angeles Kings,LAK
+14,26,22,Los Angeles Kings,Edmonton Oilers,2022020647155,2022020647,Shot,155,SHOT,Philip Broberg Slap Shot saved by Pheonix Copley,2023-01-10T03:42:20Z,1,02:11,17:49,0,0,22.0,Edmonton Oilers,EDM
+15,26,22,Los Angeles Kings,Edmonton Oilers,2022020647204,2022020647,Giveaway,204,GIVEAWAY,Giveaway by Alexander Edler,2023-01-10T03:42:22Z,1,02:13,17:47,0,0,26.0,Los Angeles Kings,LAK
+16,26,22,Los Angeles Kings,Edmonton Oilers,2022020647156,2022020647,Blocked Shot,156,BLOCKED_SHOT,Alexander Edler shot blocked shot by Evan Bouchard,2023-01-10T03:42:58Z,1,02:49,17:11,0,0,22.0,Edmonton Oilers,EDM
+17,26,22,Los Angeles Kings,Edmonton Oilers,2022020647205,2022020647,Stoppage,205,STOP,Icing,2023-01-10T03:43:02Z,1,02:52,17:08,0,0,,,
+18,26,22,Los Angeles Kings,Edmonton Oilers,202202064755,2022020647,Faceoff,55,FACEOFF,Derek Ryan faceoff won against Gabriel Vilardi,2023-01-10T03:43:38Z,1,02:52,17:08,0,0,22.0,Edmonton Oilers,EDM
+19,26,22,Los Angeles Kings,Edmonton Oilers,202202064710,2022020647,Giveaway,10,GIVEAWAY,Giveaway by Tyson Barrie,2023-01-10T03:44:01Z,1,03:15,16:45,0,0,22.0,Edmonton Oilers,EDM
+20,26,22,Los Angeles Kings,Edmonton Oilers,2022020647157,2022020647,Blocked Shot,157,BLOCKED_SHOT,Kevin Fiala shot blocked shot by Tyson Barrie,2023-01-10T03:44:06Z,1,03:20,16:40,0,0,22.0,Edmonton Oilers,EDM
+21,26,22,Los Angeles Kings,Edmonton Oilers,202202064756,2022020647,Shot,56,SHOT,Gabriel Vilardi Snap Shot saved by Stuart Skinner,2023-01-10T03:44:11Z,1,03:25,16:35,0,0,26.0,Los Angeles Kings,LAK
+22,26,22,Los Angeles Kings,Edmonton Oilers,202202064711,2022020647,Giveaway,11,GIVEAWAY,Giveaway by Drew Doughty,2023-01-10T03:44:20Z,1,03:34,16:26,0,0,26.0,Los Angeles Kings,LAK
+23,26,22,Los Angeles Kings,Edmonton Oilers,2022020647206,2022020647,Stoppage,206,STOP,Puck Frozen,2023-01-10T03:44:22Z,1,03:37,16:23,0,0,,,
+24,26,22,Los Angeles Kings,Edmonton Oilers,202202064757,2022020647,Faceoff,57,FACEOFF,Leon Draisaitl faceoff won against Anze Kopitar,2023-01-10T03:45:09Z,1,03:37,16:23,0,0,22.0,Edmonton Oilers,EDM
+25,26,22,Los Angeles Kings,Edmonton Oilers,2022020647129,2022020647,Penalty,129,PENALTY,Quinton Byfield Delaying Game - Puck over glass,2023-01-10T03:45:20Z,1,03:48,16:12,0,0,26.0,Los Angeles Kings,LAK
+26,26,22,Los Angeles Kings,Edmonton Oilers,202202064758,2022020647,Faceoff,58,FACEOFF,Leon Draisaitl faceoff won against Anze Kopitar,2023-01-10T03:46:07Z,1,03:48,16:12,0,0,22.0,Edmonton Oilers,EDM
+27,26,22,Los Angeles Kings,Edmonton Oilers,2022020647208,2022020647,Stoppage,208,STOP,Puck Frozen,2023-01-10T03:46:18Z,1,04:00,16:00,0,0,,,
+28,26,22,Los Angeles Kings,Edmonton Oilers,202202064759,2022020647,Faceoff,59,FACEOFF,Phillip Danault faceoff won against Leon Draisaitl,2023-01-10T03:46:39Z,1,04:00,16:00,0,0,26.0,Los Angeles Kings,LAK
+29,26,22,Los Angeles Kings,Edmonton Oilers,202202064712,2022020647,Hit,12,HIT,Adrian Kempe hit Ryan Nugent-Hopkins,2023-01-10T03:47:20Z,1,04:41,15:19,0,0,26.0,Los Angeles Kings,LAK
+30,26,22,Los Angeles Kings,Edmonton Oilers,202202064713,2022020647,Hit,13,HIT,Adrian Kempe hit Ryan Nugent-Hopkins,2023-01-10T03:47:44Z,1,05:05,14:55,0,0,26.0,Los Angeles Kings,LAK
+31,26,22,Los Angeles Kings,Edmonton Oilers,2022020647159,2022020647,Shot,159,SHOT,Leon Draisaitl Snap Shot saved by Pheonix Copley,2023-01-10T03:47:48Z,1,05:09,14:51,0,0,22.0,Edmonton Oilers,EDM
+32,26,22,Los Angeles Kings,Edmonton Oilers,2022020647160,2022020647,Shot,160,SHOT,Adrian Kempe Wrist Shot saved by Stuart Skinner,2023-01-10T03:47:55Z,1,05:16,14:44,0,0,26.0,Los Angeles Kings,LAK
+33,26,22,Los Angeles Kings,Edmonton Oilers,2022020647161,2022020647,Blocked Shot,161,BLOCKED_SHOT,Evan Bouchard shot blocked shot by Sean Durzi,2023-01-10T03:48:30Z,1,05:51,14:09,0,0,26.0,Los Angeles Kings,LAK
+34,26,22,Los Angeles Kings,Edmonton Oilers,202202064760,2022020647,Missed Shot,60,MISSED_SHOT,Quinton Byfield Wide of Net Stuart Skinner,2023-01-10T03:48:36Z,1,05:57,14:03,0,0,26.0,Los Angeles Kings,LAK
+35,26,22,Los Angeles Kings,Edmonton Oilers,202202064714,2022020647,Hit,14,HIT,Kailer Yamamoto hit Alexander Edler,2023-01-10T03:48:41Z,1,06:02,13:58,0,0,22.0,Edmonton Oilers,EDM
+36,26,22,Los Angeles Kings,Edmonton Oilers,2022020647162,2022020647,Shot,162,SHOT,Blake Lizotte Wrist Shot saved by Stuart Skinner,2023-01-10T03:49:10Z,1,06:31,13:29,0,0,26.0,Los Angeles Kings,LAK
+37,26,22,Los Angeles Kings,Edmonton Oilers,202202064716,2022020647,Hit,16,HIT,Kevin Fiala hit Derek Ryan,2023-01-10T03:49:28Z,1,06:49,13:11,0,0,26.0,Los Angeles Kings,LAK
+38,26,22,Los Angeles Kings,Edmonton Oilers,2022020647163,2022020647,Shot,163,SHOT,Kevin Fiala Wrap-around saved by Stuart Skinner,2023-01-10T03:49:31Z,1,06:52,13:08,0,0,26.0,Los Angeles Kings,LAK
+39,26,22,Los Angeles Kings,Edmonton Oilers,202202064761,2022020647,Blocked Shot,61,BLOCKED_SHOT,Alexander Edler shot blocked shot by Derek Ryan,2023-01-10T03:49:36Z,1,06:57,13:03,0,0,22.0,Edmonton Oilers,EDM
+40,26,22,Los Angeles Kings,Edmonton Oilers,2022020647164,2022020647,Missed Shot,164,MISSED_SHOT,Cody Ceci Wide of Net Pheonix Copley,2023-01-10T03:49:43Z,1,07:04,12:56,0,0,22.0,Edmonton Oilers,EDM
+41,26,22,Los Angeles Kings,Edmonton Oilers,202202064762,2022020647,Missed Shot,62,MISSED_SHOT,Dylan Holloway Wide of Net Pheonix Copley,2023-01-10T03:50:00Z,1,07:21,12:39,0,0,22.0,Edmonton Oilers,EDM
+42,26,22,Los Angeles Kings,Edmonton Oilers,2022020647165,2022020647,Blocked Shot,165,BLOCKED_SHOT,Brett Kulak shot blocked shot by Drew Doughty,2023-01-10T03:50:06Z,1,07:27,12:33,0,0,26.0,Los Angeles Kings,LAK
+43,26,22,Los Angeles Kings,Edmonton Oilers,2022020647209,2022020647,Hit,209,HIT,Tyson Barrie hit Alex Iafallo,2023-01-10T03:50:31Z,1,07:52,12:08,0,0,22.0,Edmonton Oilers,EDM
+44,26,22,Los Angeles Kings,Edmonton Oilers,2022020647166,2022020647,Missed Shot,166,MISSED_SHOT,Alex Iafallo Wide of Net Stuart Skinner,2023-01-10T03:50:37Z,1,07:58,12:02,0,0,26.0,Los Angeles Kings,LAK
+45,26,22,Los Angeles Kings,Edmonton Oilers,2022020647167,2022020647,Shot,167,SHOT,Alex Iafallo Deflected saved by Stuart Skinner,2023-01-10T03:51:03Z,1,08:24,11:36,0,0,26.0,Los Angeles Kings,LAK
+46,26,22,Los Angeles Kings,Edmonton Oilers,2022020647210,2022020647,Stoppage,210,STOP,TV timeout,2023-01-10T03:51:05Z,1,08:25,11:35,0,0,,,
+47,26,22,Los Angeles Kings,Edmonton Oilers,2022020647266,2022020647,Penalty,266,PENALTY,Tyson Barrie Hooking against Viktor Arvidsson,2023-01-10T03:51:05Z,1,08:25,11:35,0,0,22.0,Edmonton Oilers,EDM
+48,26,22,Los Angeles Kings,Edmonton Oilers,2022020647168,2022020647,Faceoff,168,FACEOFF,Connor McDavid faceoff won against Anze Kopitar,2023-01-10T03:53:25Z,1,08:25,11:35,0,0,22.0,Edmonton Oilers,EDM
+49,26,22,Los Angeles Kings,Edmonton Oilers,2022020647169,2022020647,Goal,169,GOAL,"Kevin Fiala (14) Slap Shot, assists: Adrian Kempe (11), Anze Kopitar (22)",2023-01-10T03:54:21Z,1,09:21,10:39,1,0,26.0,Los Angeles Kings,LAK
+50,26,22,Los Angeles Kings,Edmonton Oilers,202202064763,2022020647,Faceoff,63,FACEOFF,Phillip Danault faceoff won against Leon Draisaitl,2023-01-10T03:55:00Z,1,09:21,10:39,1,0,26.0,Los Angeles Kings,LAK
+51,26,22,Los Angeles Kings,Edmonton Oilers,2022020647170,2022020647,Shot,170,SHOT,Sean Durzi Wrist Shot saved by Stuart Skinner,2023-01-10T03:55:08Z,1,09:29,10:31,1,0,26.0,Los Angeles Kings,LAK
+52,26,22,Los Angeles Kings,Edmonton Oilers,2022020647211,2022020647,Stoppage,211,STOP,Goalie Stopped,2023-01-10T03:55:08Z,1,09:30,10:30,1,0,,,
+53,26,22,Los Angeles Kings,Edmonton Oilers,202202064764,2022020647,Faceoff,64,FACEOFF,Leon Draisaitl faceoff won against Quinton Byfield,2023-01-10T03:55:50Z,1,09:30,10:30,1,0,22.0,Edmonton Oilers,EDM
+54,26,22,Los Angeles Kings,Edmonton Oilers,2022020647171,2022020647,Takeaway,171,TAKEAWAY,Takeaway by Evan Bouchard,2023-01-10T03:55:59Z,1,09:39,10:21,1,0,22.0,Edmonton Oilers,EDM
+55,26,22,Los Angeles Kings,Edmonton Oilers,202202064765,2022020647,Shot,65,SHOT,Zach Hyman Snap Shot saved by Pheonix Copley,2023-01-10T03:56:06Z,1,09:46,10:14,1,0,22.0,Edmonton Oilers,EDM
+56,26,22,Los Angeles Kings,Edmonton Oilers,2022020647172,2022020647,Blocked Shot,172,BLOCKED_SHOT,Ryan McLeod shot blocked shot by Sean Durzi,2023-01-10T03:56:32Z,1,10:12,09:48,1,0,26.0,Los Angeles Kings,LAK
+57,26,22,Los Angeles Kings,Edmonton Oilers,202202064721,2022020647,Hit,21,HIT,Anze Kopitar hit Leon Draisaitl,2023-01-10T03:56:41Z,1,10:21,09:39,1,0,26.0,Los Angeles Kings,LAK
+58,26,22,Los Angeles Kings,Edmonton Oilers,2022020647212,2022020647,Stoppage,212,STOP,TV timeout,2023-01-10T03:56:46Z,1,10:27,09:33,1,0,,,
+59,26,22,Los Angeles Kings,Edmonton Oilers,2022020647278,2022020647,Penalty,278,PENALTY,Zach Hyman Tripping against Viktor Arvidsson,2023-01-10T03:56:46Z,1,10:27,09:33,1,0,22.0,Edmonton Oilers,EDM
+60,26,22,Los Angeles Kings,Edmonton Oilers,202202064766,2022020647,Faceoff,66,FACEOFF,Anze Kopitar faceoff won against Ryan Nugent-Hopkins,2023-01-10T03:59:21Z,1,10:27,09:33,1,0,26.0,Los Angeles Kings,LAK
+61,26,22,Los Angeles Kings,Edmonton Oilers,202202064722,2022020647,Giveaway,22,GIVEAWAY,Giveaway by Kevin Fiala,2023-01-10T03:59:46Z,1,10:52,09:08,1,0,26.0,Los Angeles Kings,LAK
+62,26,22,Los Angeles Kings,Edmonton Oilers,202202064723,2022020647,Hit,23,HIT,Kevin Fiala hit Brett Kulak,2023-01-10T04:00:03Z,1,11:09,08:51,1,0,26.0,Los Angeles Kings,LAK
+63,26,22,Los Angeles Kings,Edmonton Oilers,2022020647173,2022020647,Goal,173,GOAL,"Kevin Fiala (15) Snap Shot, assists: Gabriel Vilardi (13)",2023-01-10T04:00:06Z,1,11:11,08:49,2,0,26.0,Los Angeles Kings,LAK
+64,26,22,Los Angeles Kings,Edmonton Oilers,202202064767,2022020647,Faceoff,67,FACEOFF,Phillip Danault faceoff won against Leon Draisaitl,2023-01-10T04:00:51Z,1,11:11,08:49,2,0,26.0,Los Angeles Kings,LAK
+65,26,22,Los Angeles Kings,Edmonton Oilers,2022020647174,2022020647,Shot,174,SHOT,Brett Kulak Wrist Shot saved by Pheonix Copley,2023-01-10T04:01:22Z,1,11:42,08:18,2,0,22.0,Edmonton Oilers,EDM
+66,26,22,Los Angeles Kings,Edmonton Oilers,202202064724,2022020647,Hit,24,HIT,Ryan McLeod hit Viktor Arvidsson,2023-01-10T04:01:45Z,1,12:05,07:55,2,0,22.0,Edmonton Oilers,EDM
+67,26,22,Los Angeles Kings,Edmonton Oilers,2022020647213,2022020647,Stoppage,213,STOP,Icing,2023-01-10T04:02:05Z,1,12:25,07:35,2,0,,,
+68,26,22,Los Angeles Kings,Edmonton Oilers,202202064768,2022020647,Faceoff,68,FACEOFF,Anze Kopitar faceoff won against Connor McDavid,2023-01-10T04:02:31Z,1,12:25,07:35,2,0,26.0,Los Angeles Kings,LAK
+69,26,22,Los Angeles Kings,Edmonton Oilers,202202064725,2022020647,Hit,25,HIT,Adrian Kempe hit Philip Broberg,2023-01-10T04:02:59Z,1,12:53,07:07,2,0,26.0,Los Angeles Kings,LAK
+70,26,22,Los Angeles Kings,Edmonton Oilers,2022020647214,2022020647,Hit,214,HIT,Klim Kostin hit Drew Doughty,2023-01-10T04:03:03Z,1,12:57,07:03,2,0,22.0,Edmonton Oilers,EDM
+71,26,22,Los Angeles Kings,Edmonton Oilers,202202064726,2022020647,Giveaway,26,GIVEAWAY,Giveaway by Stuart Skinner,2023-01-10T04:03:32Z,1,13:26,06:34,2,0,22.0,Edmonton Oilers,EDM
+72,26,22,Los Angeles Kings,Edmonton Oilers,2022020647215,2022020647,Giveaway,215,GIVEAWAY,Giveaway by Darnell Nurse,2023-01-10T04:03:38Z,1,13:32,06:28,2,0,22.0,Edmonton Oilers,EDM
+73,26,22,Los Angeles Kings,Edmonton Oilers,2022020647175,2022020647,Shot,175,SHOT,Sean Walker Wrist Shot saved by Stuart Skinner,2023-01-10T04:03:41Z,1,13:35,06:25,2,0,26.0,Los Angeles Kings,LAK
+74,26,22,Los Angeles Kings,Edmonton Oilers,2022020647216,2022020647,Stoppage,216,STOP,Goalie Stopped,2023-01-10T04:03:43Z,1,13:36,06:24,2,0,,,
+75,26,22,Los Angeles Kings,Edmonton Oilers,202202064769,2022020647,Faceoff,69,FACEOFF,Ryan Nugent-Hopkins faceoff won against Blake Lizotte,2023-01-10T04:04:11Z,1,13:36,06:24,2,0,22.0,Edmonton Oilers,EDM
+76,26,22,Los Angeles Kings,Edmonton Oilers,2022020647176,2022020647,Missed Shot,176,MISSED_SHOT,Brett Kulak Wide of Net Pheonix Copley,2023-01-10T04:04:32Z,1,13:57,06:03,2,0,22.0,Edmonton Oilers,EDM
+77,26,22,Los Angeles Kings,Edmonton Oilers,202202064728,2022020647,Hit,28,HIT,Evan Bouchard hit Matt Roy,2023-01-10T04:05:05Z,1,14:30,05:30,2,0,22.0,Edmonton Oilers,EDM
+78,26,22,Los Angeles Kings,Edmonton Oilers,2022020647177,2022020647,Missed Shot,177,MISSED_SHOT,Gabriel Vilardi Wide of Net Stuart Skinner,2023-01-10T04:05:07Z,1,14:32,05:28,2,0,26.0,Los Angeles Kings,LAK
+79,26,22,Los Angeles Kings,Edmonton Oilers,202202064770,2022020647,Shot,70,SHOT,Sean Durzi Wrist Shot saved by Stuart Skinner,2023-01-10T04:05:13Z,1,14:38,05:22,2,0,26.0,Los Angeles Kings,LAK
+80,26,22,Los Angeles Kings,Edmonton Oilers,2022020647217,2022020647,Stoppage,217,STOP,TV timeout,2023-01-10T04:05:34Z,1,14:59,05:01,2,0,,,
+81,26,22,Los Angeles Kings,Edmonton Oilers,2022020647321,2022020647,Penalty,321,PENALTY,Phillip Danault Holding against Leon Draisaitl,2023-01-10T04:05:34Z,1,14:59,05:01,2,0,26.0,Los Angeles Kings,LAK
+82,26,22,Los Angeles Kings,Edmonton Oilers,202202064771,2022020647,Faceoff,71,FACEOFF,Anze Kopitar faceoff won against Connor McDavid,2023-01-10T04:08:15Z,1,14:59,05:01,2,0,26.0,Los Angeles Kings,LAK
+83,26,22,Los Angeles Kings,Edmonton Oilers,202202064729,2022020647,Giveaway,29,GIVEAWAY,Giveaway by Anze Kopitar,2023-01-10T04:08:39Z,1,15:23,04:37,2,0,26.0,Los Angeles Kings,LAK
+84,26,22,Los Angeles Kings,Edmonton Oilers,2022020647178,2022020647,Shot,178,SHOT,Connor McDavid Wrist Shot saved by Pheonix Copley,2023-01-10T04:08:44Z,1,15:28,04:32,2,0,22.0,Edmonton Oilers,EDM
+85,26,22,Los Angeles Kings,Edmonton Oilers,2022020647218,2022020647,Giveaway,218,GIVEAWAY,Giveaway by Anze Kopitar,2023-01-10T04:08:46Z,1,15:30,04:30,2,0,26.0,Los Angeles Kings,LAK
+86,26,22,Los Angeles Kings,Edmonton Oilers,2022020647179,2022020647,Shot,179,SHOT,Adrian Kempe Wrist Shot saved by Stuart Skinner,2023-01-10T04:09:16Z,1,16:00,04:00,2,0,26.0,Los Angeles Kings,LAK
+87,26,22,Los Angeles Kings,Edmonton Oilers,2022020647180,2022020647,Missed Shot,180,MISSED_SHOT,Kailer Yamamoto Wide of Net Pheonix Copley,2023-01-10T04:10:00Z,1,16:44,03:16,2,0,22.0,Edmonton Oilers,EDM
+88,26,22,Los Angeles Kings,Edmonton Oilers,2022020647181,2022020647,Blocked Shot,181,BLOCKED_SHOT,Evan Bouchard shot blocked shot by Alexander Edler,2023-01-10T04:10:11Z,1,16:55,03:05,2,0,26.0,Los Angeles Kings,LAK
+89,26,22,Los Angeles Kings,Edmonton Oilers,202202064730,2022020647,Blocked Shot,30,BLOCKED_SHOT,Kailer Yamamoto shot blocked shot by Sean Durzi,2023-01-10T04:10:13Z,1,16:57,03:03,2,0,26.0,Los Angeles Kings,LAK
+90,26,22,Los Angeles Kings,Edmonton Oilers,2022020647189,2022020647,Blocked Shot,189,BLOCKED_SHOT,Darnell Nurse shot blocked shot by Rasmus Kupari,2023-01-10T04:10:17Z,1,17:01,02:59,2,0,26.0,Los Angeles Kings,LAK
+91,26,22,Los Angeles Kings,Edmonton Oilers,202202064772,2022020647,Goal,72,GOAL,"Kailer Yamamoto (4) Tip-In, assists: Darnell Nurse (15), Evan Bouchard (12)",2023-01-10T04:10:17Z,1,17:02,02:58,2,1,22.0,Edmonton Oilers,EDM
+92,26,22,Los Angeles Kings,Edmonton Oilers,2022020647182,2022020647,Faceoff,182,FACEOFF,Derek Ryan faceoff won against Rasmus Kupari,2023-01-10T04:11:07Z,1,17:02,02:58,2,1,22.0,Edmonton Oilers,EDM
+93,26,22,Los Angeles Kings,Edmonton Oilers,2022020647219,2022020647,Hit,219,HIT,Rasmus Kupari hit Philip Broberg,2023-01-10T04:11:24Z,1,17:19,02:41,2,1,26.0,Los Angeles Kings,LAK
+94,26,22,Los Angeles Kings,Edmonton Oilers,202202064731,2022020647,Hit,31,HIT,Jesse Puljujarvi hit Alexander Edler,2023-01-10T04:11:32Z,1,17:27,02:33,2,1,22.0,Edmonton Oilers,EDM
+95,26,22,Los Angeles Kings,Edmonton Oilers,202202064732,2022020647,Takeaway,32,TAKEAWAY,Takeaway by Evan Bouchard,2023-01-10T04:11:50Z,1,17:45,02:15,2,1,22.0,Edmonton Oilers,EDM
+96,26,22,Los Angeles Kings,Edmonton Oilers,202202064733,2022020647,Hit,33,HIT,Mikey Anderson hit Dylan Holloway,2023-01-10T04:12:11Z,1,18:06,01:54,2,1,26.0,Los Angeles Kings,LAK
+97,26,22,Los Angeles Kings,Edmonton Oilers,2022020647184,2022020647,Takeaway,184,TAKEAWAY,Takeaway by Phillip Danault,2023-01-10T04:12:33Z,1,18:28,01:32,2,1,26.0,Los Angeles Kings,LAK
+98,26,22,Los Angeles Kings,Edmonton Oilers,2022020647183,2022020647,Shot,183,SHOT,Viktor Arvidsson Backhand saved by Stuart Skinner,2023-01-10T04:12:40Z,1,18:35,01:25,2,1,26.0,Los Angeles Kings,LAK
+99,26,22,Los Angeles Kings,Edmonton Oilers,202202064734,2022020647,Stoppage,34,STOP,Goalie Stopped,2023-01-10T04:12:41Z,1,18:36,01:24,2,1,,,
+100,26,22,Los Angeles Kings,Edmonton Oilers,202202064773,2022020647,Faceoff,73,FACEOFF,Anze Kopitar faceoff won against Connor McDavid,2023-01-10T04:13:08Z,1,18:36,01:24,2,1,26.0,Los Angeles Kings,LAK
+101,26,22,Los Angeles Kings,Edmonton Oilers,2022020647185,2022020647,Shot,185,SHOT,Sean Durzi Slap Shot saved by Stuart Skinner,2023-01-10T04:13:12Z,1,18:40,01:20,2,1,26.0,Los Angeles Kings,LAK
+102,26,22,Los Angeles Kings,Edmonton Oilers,202202064735,2022020647,Stoppage,35,STOP,Offside,2023-01-10T04:13:34Z,1,19:01,00:59,2,1,,,
+103,26,22,Los Angeles Kings,Edmonton Oilers,202202064774,2022020647,Faceoff,74,FACEOFF,Phillip Danault faceoff won against Leon Draisaitl,2023-01-10T04:14:06Z,1,19:01,00:59,2,1,26.0,Los Angeles Kings,LAK
+104,26,22,Los Angeles Kings,Edmonton Oilers,2022020647186,2022020647,Shot,186,SHOT,Alex Iafallo Wrist Shot saved by Stuart Skinner,2023-01-10T04:14:19Z,1,19:14,00:46,2,1,26.0,Los Angeles Kings,LAK
+105,26,22,Los Angeles Kings,Edmonton Oilers,202202064775,2022020647,Shot,75,SHOT,Viktor Arvidsson Snap Shot saved by Stuart Skinner,2023-01-10T04:14:21Z,1,19:16,00:44,2,1,26.0,Los Angeles Kings,LAK
+106,26,22,Los Angeles Kings,Edmonton Oilers,2022020647460,2022020647,Penalty,460,PENALTY,Kailer Yamamoto Slashing against Alex Iafallo,2023-01-10T04:14:24Z,1,19:19,00:41,2,1,22.0,Edmonton Oilers,EDM
+107,26,22,Los Angeles Kings,Edmonton Oilers,202202064776,2022020647,Faceoff,76,FACEOFF,Anze Kopitar faceoff won against Ryan Nugent-Hopkins,2023-01-10T04:15:00Z,1,19:19,00:41,2,1,26.0,Los Angeles Kings,LAK
+108,26,22,Los Angeles Kings,Edmonton Oilers,2022020647187,2022020647,Shot,187,SHOT,Drew Doughty Slap Shot saved by Stuart Skinner,2023-01-10T04:15:18Z,1,19:38,00:22,2,1,26.0,Los Angeles Kings,LAK
+109,26,22,Los Angeles Kings,Edmonton Oilers,202202064737,2022020647,Giveaway,37,GIVEAWAY,Giveaway by Darnell Nurse,2023-01-10T04:15:19Z,1,19:39,00:21,2,1,22.0,Edmonton Oilers,EDM
+110,26,22,Los Angeles Kings,Edmonton Oilers,2022020647188,2022020647,Shot,188,SHOT,Adrian Kempe Wrist Shot saved by Stuart Skinner,2023-01-10T04:15:31Z,1,19:51,00:09,2,1,26.0,Los Angeles Kings,LAK
+111,26,22,Los Angeles Kings,Edmonton Oilers,202202064738,2022020647,Period End,38,PERIOD_END,End of 1st Period,2023-01-10T04:15:40Z,1,20:00,00:00,2,1,,,
+112,26,22,Los Angeles Kings,Edmonton Oilers,202202064741,2022020647,Period Official,41,PERIOD_OFFICIAL,Period Official,2023-01-10T04:19:51Z,1,20:00,00:00,2,1,,,
+113,26,22,Los Angeles Kings,Edmonton Oilers,202202064742,2022020647,Period Ready,42,PERIOD_READY,Period Ready,2023-01-10T04:34:14Z,2,00:00,20:00,2,1,,,
+114,26,22,Los Angeles Kings,Edmonton Oilers,202202064777,2022020647,Period Start,77,PERIOD_START,Period Start,2023-01-10T04:34:21Z,2,00:00,20:00,2,1,,,
+115,26,22,Los Angeles Kings,Edmonton Oilers,202202064778,2022020647,Faceoff,78,FACEOFF,Ryan Nugent-Hopkins faceoff won against Anze Kopitar,2023-01-10T04:34:21Z,2,00:00,20:00,2,1,22.0,Edmonton Oilers,EDM
+116,26,22,Los Angeles Kings,Edmonton Oilers,2022020647190,2022020647,Shot,190,SHOT,Drew Doughty Slap Shot saved by Stuart Skinner,2023-01-10T04:34:48Z,2,00:27,19:33,2,1,26.0,Los Angeles Kings,LAK
+117,26,22,Los Angeles Kings,Edmonton Oilers,202202064743,2022020647,Shot,43,SHOT,Adrian Kempe Deflected saved by Stuart Skinner,2023-01-10T04:34:52Z,2,00:31,19:29,2,1,26.0,Los Angeles Kings,LAK
+118,26,22,Los Angeles Kings,Edmonton Oilers,202202064779,2022020647,Shot,79,SHOT,Anze Kopitar Snap Shot saved by Stuart Skinner,2023-01-10T04:34:54Z,2,00:33,19:27,2,1,26.0,Los Angeles Kings,LAK
+119,26,22,Los Angeles Kings,Edmonton Oilers,2022020647220,2022020647,Stoppage,220,STOP,Puck Frozen,2023-01-10T04:35:06Z,2,00:46,19:14,2,1,,,
+120,26,22,Los Angeles Kings,Edmonton Oilers,202202064780,2022020647,Faceoff,80,FACEOFF,Ryan McLeod faceoff won against Quinton Byfield,2023-01-10T04:35:44Z,2,00:46,19:14,2,1,22.0,Edmonton Oilers,EDM
+121,26,22,Los Angeles Kings,Edmonton Oilers,2022020647191,2022020647,Shot,191,SHOT,Alex Iafallo Wrist Shot saved by Stuart Skinner,2023-01-10T04:36:17Z,2,01:19,18:41,2,1,26.0,Los Angeles Kings,LAK
+122,26,22,Los Angeles Kings,Edmonton Oilers,202202064781,2022020647,Shot,81,SHOT,Viktor Arvidsson Snap Shot saved by Stuart Skinner,2023-01-10T04:36:21Z,2,01:23,18:37,2,1,26.0,Los Angeles Kings,LAK
+123,26,22,Los Angeles Kings,Edmonton Oilers,2022020647475,2022020647,Penalty,475,PENALTY,Phillip Danault High-sticking against Kailer Yamamoto,2023-01-10T04:36:31Z,2,01:33,18:27,2,1,26.0,Los Angeles Kings,LAK
+124,26,22,Los Angeles Kings,Edmonton Oilers,202202064782,2022020647,Faceoff,82,FACEOFF,Leon Draisaitl faceoff won against Blake Lizotte,2023-01-10T04:38:03Z,2,01:33,18:27,2,1,22.0,Edmonton Oilers,EDM
+125,26,22,Los Angeles Kings,Edmonton Oilers,2022020647192,2022020647,Shot,192,SHOT,Connor McDavid Snap Shot saved by Pheonix Copley,2023-01-10T04:38:32Z,2,02:02,17:58,2,1,22.0,Edmonton Oilers,EDM
+126,26,22,Los Angeles Kings,Edmonton Oilers,2022020647221,2022020647,Stoppage,221,STOP,Goalie Stopped,2023-01-10T04:38:33Z,2,02:03,17:57,2,1,,,
+127,26,22,Los Angeles Kings,Edmonton Oilers,202202064783,2022020647,Faceoff,83,FACEOFF,Anze Kopitar faceoff won against Leon Draisaitl,2023-01-10T04:38:59Z,2,02:03,17:57,2,1,26.0,Los Angeles Kings,LAK
+128,26,22,Los Angeles Kings,Edmonton Oilers,202202064745,2022020647,Hit,45,HIT,Rasmus Kupari hit Connor McDavid,2023-01-10T04:39:52Z,2,02:56,17:04,2,1,26.0,Los Angeles Kings,LAK
+129,26,22,Los Angeles Kings,Edmonton Oilers,2022020647193,2022020647,Blocked Shot,193,BLOCKED_SHOT,Tyson Barrie shot blocked shot by Rasmus Kupari,2023-01-10T04:40:06Z,2,03:10,16:50,2,1,26.0,Los Angeles Kings,LAK
+130,26,22,Los Angeles Kings,Edmonton Oilers,202202064746,2022020647,Penalty,46,PENALTY,Too many men/ice served by Klim Kostin,2023-01-10T04:40:09Z,2,03:14,16:46,2,1,22.0,Edmonton Oilers,EDM
+131,26,22,Los Angeles Kings,Edmonton Oilers,202202064785,2022020647,Faceoff,85,FACEOFF,Anze Kopitar faceoff won against Ryan McLeod,2023-01-10T04:41:18Z,2,03:14,16:46,2,1,26.0,Los Angeles Kings,LAK
+132,26,22,Los Angeles Kings,Edmonton Oilers,2022020647194,2022020647,Goal,194,GOAL,"Adrian Kempe (16) Wrist Shot, assists: Kevin Fiala (30), Phillip Danault (19)",2023-01-10T04:41:55Z,2,03:51,16:09,3,1,26.0,Los Angeles Kings,LAK
+133,26,22,Los Angeles Kings,Edmonton Oilers,202202064786,2022020647,Faceoff,86,FACEOFF,Phillip Danault faceoff won against Connor McDavid,2023-01-10T04:43:26Z,2,03:51,16:09,3,1,26.0,Los Angeles Kings,LAK
+134,26,22,Los Angeles Kings,Edmonton Oilers,202202064749,2022020647,Takeaway,49,TAKEAWAY,Takeaway by Klim Kostin,2023-01-10T04:43:41Z,2,04:06,15:54,3,1,22.0,Edmonton Oilers,EDM
+135,26,22,Los Angeles Kings,Edmonton Oilers,202202064750,2022020647,Hit,50,HIT,Klim Kostin hit Mikey Anderson,2023-01-10T04:43:47Z,2,04:12,15:48,3,1,22.0,Edmonton Oilers,EDM
+136,26,22,Los Angeles Kings,Edmonton Oilers,2022020647222,2022020647,Stoppage,222,STOP,Puck in Netting,2023-01-10T04:44:04Z,2,04:29,15:31,3,1,,,
+137,26,22,Los Angeles Kings,Edmonton Oilers,202202064787,2022020647,Faceoff,87,FACEOFF,Leon Draisaitl faceoff won against Anze Kopitar,2023-01-10T04:44:30Z,2,04:29,15:31,3,1,22.0,Edmonton Oilers,EDM
+138,26,22,Los Angeles Kings,Edmonton Oilers,2022020647195,2022020647,Shot,195,SHOT,Adrian Kempe Snap Shot saved by Jack Campbell,2023-01-10T04:44:40Z,2,04:39,15:21,3,1,26.0,Los Angeles Kings,LAK
+139,26,22,Los Angeles Kings,Edmonton Oilers,2022020647196,2022020647,Shot,196,SHOT,Zach Hyman Wrist Shot saved by Pheonix Copley,2023-01-10T04:44:58Z,2,04:57,15:03,3,1,22.0,Edmonton Oilers,EDM
+140,26,22,Los Angeles Kings,Edmonton Oilers,2022020647401,2022020647,Hit,401,HIT,Zach Hyman hit Quinton Byfield,2023-01-10T04:45:05Z,2,05:04,14:56,3,1,22.0,Edmonton Oilers,EDM
+141,26,22,Los Angeles Kings,Edmonton Oilers,2022020647402,2022020647,Hit,402,HIT,Dylan Holloway hit Alexander Edler,2023-01-10T04:45:25Z,2,05:24,14:36,3,1,22.0,Edmonton Oilers,EDM
+142,26,22,Los Angeles Kings,Edmonton Oilers,2022020647223,2022020647,Stoppage,223,STOP,Puck in Netting,2023-01-10T04:45:30Z,2,05:29,14:31,3,1,,,
+143,26,22,Los Angeles Kings,Edmonton Oilers,202202064788,2022020647,Faceoff,88,FACEOFF,Derek Ryan faceoff won against Rasmus Kupari,2023-01-10T04:46:04Z,2,05:29,14:31,3,1,22.0,Edmonton Oilers,EDM
+144,26,22,Los Angeles Kings,Edmonton Oilers,2022020647197,2022020647,Shot,197,SHOT,Dylan Holloway Snap Shot saved by Pheonix Copley,2023-01-10T04:46:06Z,2,05:31,14:29,3,1,22.0,Edmonton Oilers,EDM
+145,26,22,Los Angeles Kings,Edmonton Oilers,2022020647224,2022020647,Stoppage,224,STOP,Goalie Stopped,2023-01-10T04:46:06Z,2,05:32,14:28,3,1,,,
+146,26,22,Los Angeles Kings,Edmonton Oilers,202202064789,2022020647,Faceoff,89,FACEOFF,Derek Ryan faceoff won against Rasmus Kupari,2023-01-10T04:46:28Z,2,05:32,14:28,3,1,22.0,Edmonton Oilers,EDM
+147,26,22,Los Angeles Kings,Edmonton Oilers,2022020647199,2022020647,Blocked Shot,199,BLOCKED_SHOT,Evan Bouchard shot blocked shot by Brendan Lemieux,2023-01-10T04:46:34Z,2,05:38,14:22,3,1,26.0,Los Angeles Kings,LAK
+148,26,22,Los Angeles Kings,Edmonton Oilers,2022020647404,2022020647,Hit,404,HIT,Rasmus Kupari hit Derek Ryan,2023-01-10T04:46:53Z,2,05:57,14:03,3,1,26.0,Los Angeles Kings,LAK
+149,26,22,Los Angeles Kings,Edmonton Oilers,2022020647198,2022020647,Shot,198,SHOT,Brendan Lemieux Wrist Shot saved by Jack Campbell,2023-01-10T04:47:00Z,2,06:04,13:56,3,1,26.0,Los Angeles Kings,LAK
+150,26,22,Los Angeles Kings,Edmonton Oilers,2022020647225,2022020647,Stoppage,225,STOP,Goalie Stopped,2023-01-10T04:47:01Z,2,06:05,13:55,3,1,,,
+151,26,22,Los Angeles Kings,Edmonton Oilers,202202064790,2022020647,Faceoff,90,FACEOFF,Ryan Nugent-Hopkins faceoff won against Blake Lizotte,2023-01-10T04:49:29Z,2,06:05,13:55,3,1,22.0,Edmonton Oilers,EDM
+152,26,22,Los Angeles Kings,Edmonton Oilers,2022020647200,2022020647,Shot,200,SHOT,Warren Foegele Wrist Shot saved by Pheonix Copley,2023-01-10T04:49:35Z,2,06:11,13:49,3,1,22.0,Edmonton Oilers,EDM
+153,26,22,Los Angeles Kings,Edmonton Oilers,2022020647351,2022020647,Shot,351,SHOT,Gabriel Vilardi Snap Shot saved by Jack Campbell,2023-01-10T04:50:16Z,2,06:52,13:08,3,1,26.0,Los Angeles Kings,LAK
+154,26,22,Los Angeles Kings,Edmonton Oilers,2022020647353,2022020647,Missed Shot,353,MISSED_SHOT,Kevin Fiala Wide of Net Jack Campbell,2023-01-10T04:50:29Z,2,07:05,12:55,3,1,26.0,Los Angeles Kings,LAK
+155,26,22,Los Angeles Kings,Edmonton Oilers,2022020647352,2022020647,Shot,352,SHOT,Gabriel Vilardi Snap Shot saved by Jack Campbell,2023-01-10T04:50:31Z,2,07:07,12:53,3,1,26.0,Los Angeles Kings,LAK
+156,26,22,Los Angeles Kings,Edmonton Oilers,2022020647513,2022020647,Penalty,513,PENALTY,Darnell Nurse Slashing against Kevin Fiala,2023-01-10T04:50:33Z,2,07:08,12:52,3,1,22.0,Edmonton Oilers,EDM
+157,26,22,Los Angeles Kings,Edmonton Oilers,202202064791,2022020647,Faceoff,91,FACEOFF,Derek Ryan faceoff won against Anze Kopitar,2023-01-10T04:51:13Z,2,07:08,12:52,3,1,22.0,Edmonton Oilers,EDM
+158,26,22,Los Angeles Kings,Edmonton Oilers,2022020647227,2022020647,Stoppage,227,STOP,Offside,2023-01-10T04:51:39Z,2,07:34,12:26,3,1,,,
+159,26,22,Los Angeles Kings,Edmonton Oilers,202202064792,2022020647,Faceoff,92,FACEOFF,Leon Draisaitl faceoff won against Anze Kopitar,2023-01-10T04:52:04Z,2,07:34,12:26,3,1,22.0,Edmonton Oilers,EDM
+160,26,22,Los Angeles Kings,Edmonton Oilers,2022020647407,2022020647,Hit,407,HIT,Leon Draisaitl hit Gabriel Vilardi,2023-01-10T04:52:35Z,2,08:05,11:55,3,1,22.0,Edmonton Oilers,EDM
+161,26,22,Los Angeles Kings,Edmonton Oilers,2022020647354,2022020647,Shot,354,SHOT,Zach Hyman Tip-In saved by Pheonix Copley,2023-01-10T04:52:41Z,2,08:11,11:49,3,1,22.0,Edmonton Oilers,EDM
+162,26,22,Los Angeles Kings,Edmonton Oilers,2022020647228,2022020647,Hit,228,HIT,Leon Draisaitl hit Kevin Fiala,2023-01-10T04:52:46Z,2,08:16,11:44,3,1,22.0,Edmonton Oilers,EDM
+163,26,22,Los Angeles Kings,Edmonton Oilers,2022020647355,2022020647,Missed Shot,355,MISSED_SHOT,Gabriel Vilardi Wide of Net Jack Campbell,2023-01-10T04:52:52Z,2,08:22,11:38,3,1,26.0,Los Angeles Kings,LAK
+164,26,22,Los Angeles Kings,Edmonton Oilers,2022020647408,2022020647,Giveaway,408,GIVEAWAY,Giveaway by Philip Broberg,2023-01-10T04:52:54Z,2,08:24,11:36,3,1,22.0,Edmonton Oilers,EDM
+165,26,22,Los Angeles Kings,Edmonton Oilers,2022020647229,2022020647,Takeaway,229,TAKEAWAY,Takeaway by Derek Ryan,2023-01-10T04:53:16Z,2,08:46,11:14,3,1,22.0,Edmonton Oilers,EDM
+166,26,22,Los Angeles Kings,Edmonton Oilers,2022020647409,2022020647,Hit,409,HIT,Evan Bouchard hit Viktor Arvidsson,2023-01-10T04:53:59Z,2,09:29,10:31,3,1,22.0,Edmonton Oilers,EDM
+167,26,22,Los Angeles Kings,Edmonton Oilers,2022020647357,2022020647,Shot,357,SHOT,Dylan Holloway Wrist Shot saved by Pheonix Copley,2023-01-10T04:54:15Z,2,09:45,10:15,3,1,22.0,Edmonton Oilers,EDM
+168,26,22,Los Angeles Kings,Edmonton Oilers,2022020647230,2022020647,Stoppage,230,STOP,Goalie Stopped,2023-01-10T04:54:17Z,2,09:46,10:14,3,1,,,
+169,26,22,Los Angeles Kings,Edmonton Oilers,202202064793,2022020647,Faceoff,93,FACEOFF,Blake Lizotte faceoff won against Connor McDavid,2023-01-10T04:54:54Z,2,09:46,10:14,3,1,26.0,Los Angeles Kings,LAK
+170,26,22,Los Angeles Kings,Edmonton Oilers,2022020647231,2022020647,Stoppage,231,STOP,Puck in Crowd,2023-01-10T04:55:05Z,2,09:57,10:03,3,1,,,
+171,26,22,Los Angeles Kings,Edmonton Oilers,202202064794,2022020647,Faceoff,94,FACEOFF,Phillip Danault faceoff won against Dylan Holloway,2023-01-10T04:55:39Z,2,09:57,10:03,3,1,26.0,Los Angeles Kings,LAK
+172,26,22,Los Angeles Kings,Edmonton Oilers,2022020647358,2022020647,Shot,358,SHOT,Phillip Danault Backhand saved by Jack Campbell,2023-01-10T04:55:51Z,2,10:09,09:51,3,1,26.0,Los Angeles Kings,LAK
+173,26,22,Los Angeles Kings,Edmonton Oilers,202202064795,2022020647,Shot,95,SHOT,Alex Iafallo Poke saved by Jack Campbell,2023-01-10T04:55:52Z,2,10:10,09:50,3,1,26.0,Los Angeles Kings,LAK
+174,26,22,Los Angeles Kings,Edmonton Oilers,2022020647232,2022020647,Stoppage,232,STOP,Offside,2023-01-10T04:55:56Z,2,10:15,09:45,3,1,,,
+175,26,22,Los Angeles Kings,Edmonton Oilers,202202064796,2022020647,Faceoff,96,FACEOFF,Blake Lizotte faceoff won against Mattias Janmark,2023-01-10T04:58:20Z,2,10:15,09:45,3,1,26.0,Los Angeles Kings,LAK
+176,26,22,Los Angeles Kings,Edmonton Oilers,2022020647410,2022020647,Hit,410,HIT,Sean Walker hit Warren Foegele,2023-01-10T04:58:43Z,2,10:38,09:22,3,1,26.0,Los Angeles Kings,LAK
+177,26,22,Los Angeles Kings,Edmonton Oilers,2022020647233,2022020647,Stoppage,233,STOP,Offside,2023-01-10T04:58:53Z,2,10:48,09:12,3,1,,,
+178,26,22,Los Angeles Kings,Edmonton Oilers,202202064797,2022020647,Faceoff,97,FACEOFF,Leon Draisaitl faceoff won against Anze Kopitar,2023-01-10T04:59:23Z,2,10:48,09:12,3,1,22.0,Edmonton Oilers,EDM
+179,26,22,Los Angeles Kings,Edmonton Oilers,2022020647359,2022020647,Shot,359,SHOT,Brett Kulak Wrist Shot saved by Pheonix Copley,2023-01-10T04:59:27Z,2,10:52,09:08,3,1,22.0,Edmonton Oilers,EDM
+180,26,22,Los Angeles Kings,Edmonton Oilers,2022020647411,2022020647,Hit,411,HIT,Adrian Kempe hit Brett Kulak,2023-01-10T04:59:28Z,2,10:53,09:07,3,1,26.0,Los Angeles Kings,LAK
+181,26,22,Los Angeles Kings,Edmonton Oilers,2022020647360,2022020647,Blocked Shot,360,BLOCKED_SHOT,Brett Kulak shot blocked shot by Matt Roy,2023-01-10T04:59:38Z,2,11:03,08:57,3,1,26.0,Los Angeles Kings,LAK
+182,26,22,Los Angeles Kings,Edmonton Oilers,2022020647234,2022020647,Hit,234,HIT,Evan Bouchard hit Jaret Anderson-Dolan,2023-01-10T04:59:46Z,2,11:11,08:49,3,1,22.0,Edmonton Oilers,EDM
+183,26,22,Los Angeles Kings,Edmonton Oilers,202202064798,2022020647,Hit,98,HIT,Adrian Kempe hit Brett Kulak,2023-01-10T04:59:48Z,2,11:13,08:47,3,1,26.0,Los Angeles Kings,LAK
+184,26,22,Los Angeles Kings,Edmonton Oilers,2022020647361,2022020647,Shot,361,SHOT,Jaret Anderson-Dolan Backhand saved by Jack Campbell,2023-01-10T04:59:55Z,2,11:20,08:40,3,1,26.0,Los Angeles Kings,LAK
+185,26,22,Los Angeles Kings,Edmonton Oilers,2022020647547,2022020647,Penalty,547,PENALTY,Zach Hyman Hooking against Sean Durzi,2023-01-10T05:00:06Z,2,11:31,08:29,3,1,22.0,Edmonton Oilers,EDM
+186,26,22,Los Angeles Kings,Edmonton Oilers,202202064799,2022020647,Faceoff,99,FACEOFF,Anze Kopitar faceoff won against Ryan Nugent-Hopkins,2023-01-10T05:00:48Z,2,11:31,08:29,3,1,26.0,Los Angeles Kings,LAK
+187,26,22,Los Angeles Kings,Edmonton Oilers,2022020647235,2022020647,Stoppage,235,STOP,Video Review,2023-01-10T05:00:55Z,2,11:38,08:22,3,1,,,
+188,26,22,Los Angeles Kings,Edmonton Oilers,2022020647362,2022020647,Goal,362,GOAL,"Adrian Kempe (17) Slap Shot, assists: Kevin Fiala (31), Drew Doughty (21)",2023-01-10T05:00:55Z,2,11:38,08:22,4,1,26.0,Los Angeles Kings,LAK
+189,26,22,Los Angeles Kings,Edmonton Oilers,2022020647601,2022020647,Faceoff,601,FACEOFF,Derek Ryan faceoff won against Rasmus Kupari,2023-01-10T05:05:00Z,2,11:38,08:22,4,1,22.0,Edmonton Oilers,EDM
+190,26,22,Los Angeles Kings,Edmonton Oilers,2022020647363,2022020647,Missed Shot,363,MISSED_SHOT,Derek Ryan Wide of Net Pheonix Copley,2023-01-10T05:05:43Z,2,12:21,07:39,4,1,22.0,Edmonton Oilers,EDM
+191,26,22,Los Angeles Kings,Edmonton Oilers,2022020647602,2022020647,Hit,602,HIT,Phillip Danault hit Darnell Nurse,2023-01-10T05:06:07Z,2,12:45,07:15,4,1,26.0,Los Angeles Kings,LAK
+192,26,22,Los Angeles Kings,Edmonton Oilers,2022020647563,2022020647,Penalty,563,PENALTY,Brendan Lemieux Tripping against Klim Kostin,2023-01-10T05:06:09Z,2,12:47,07:13,4,1,26.0,Los Angeles Kings,LAK
+193,26,22,Los Angeles Kings,Edmonton Oilers,2022020647603,2022020647,Faceoff,603,FACEOFF,Anze Kopitar faceoff won against Leon Draisaitl,2023-01-10T05:06:49Z,2,12:47,07:13,4,1,26.0,Los Angeles Kings,LAK
+194,26,22,Los Angeles Kings,Edmonton Oilers,2022020647364,2022020647,Missed Shot,364,MISSED_SHOT,Leon Draisaitl Wide of Net Pheonix Copley,2023-01-10T05:07:29Z,2,13:27,06:33,4,1,22.0,Edmonton Oilers,EDM
+195,26,22,Los Angeles Kings,Edmonton Oilers,2022020647416,2022020647,Stoppage,416,STOP,Puck in Netting,2023-01-10T05:07:30Z,2,13:28,06:32,4,1,,,
+196,26,22,Los Angeles Kings,Edmonton Oilers,2022020647604,2022020647,Faceoff,604,FACEOFF,Leon Draisaitl faceoff won against Phillip Danault,2023-01-10T05:07:59Z,2,13:28,06:32,4,1,22.0,Edmonton Oilers,EDM
+197,26,22,Los Angeles Kings,Edmonton Oilers,2022020647365,2022020647,Blocked Shot,365,BLOCKED_SHOT,Connor McDavid shot blocked shot by Alexander Edler,2023-01-10T05:08:10Z,2,13:39,06:21,4,1,26.0,Los Angeles Kings,LAK
+198,26,22,Los Angeles Kings,Edmonton Oilers,2022020647605,2022020647,Blocked Shot,605,BLOCKED_SHOT,Ryan Nugent-Hopkins shot blocked shot by Matt Roy,2023-01-10T05:08:15Z,2,13:44,06:16,4,1,26.0,Los Angeles Kings,LAK
+199,26,22,Los Angeles Kings,Edmonton Oilers,2022020647366,2022020647,Shot,366,SHOT,Connor McDavid Backhand saved by Pheonix Copley,2023-01-10T05:08:45Z,2,14:14,05:46,4,1,22.0,Edmonton Oilers,EDM
+200,26,22,Los Angeles Kings,Edmonton Oilers,2022020647236,2022020647,Stoppage,236,STOP,Goalie Stopped,2023-01-10T05:08:46Z,2,14:15,05:45,4,1,,,
+201,26,22,Los Angeles Kings,Edmonton Oilers,2022020647606,2022020647,Faceoff,606,FACEOFF,Ryan McLeod faceoff won against Adrian Kempe,2023-01-10T05:09:26Z,2,14:15,05:45,4,1,22.0,Edmonton Oilers,EDM
+202,26,22,Los Angeles Kings,Edmonton Oilers,2022020647417,2022020647,Takeaway,417,TAKEAWAY,Takeaway by Adrian Kempe,2023-01-10T05:09:29Z,2,14:18,05:42,4,1,26.0,Los Angeles Kings,LAK
+203,26,22,Los Angeles Kings,Edmonton Oilers,2022020647367,2022020647,Blocked Shot,367,BLOCKED_SHOT,Adrian Kempe shot blocked shot by Kailer Yamamoto,2023-01-10T05:10:03Z,2,14:52,05:08,4,1,22.0,Edmonton Oilers,EDM
+204,26,22,Los Angeles Kings,Edmonton Oilers,2022020647419,2022020647,Penalty,419,PENALTY,Phillip Danault Roughing against Jesse Puljujarvi,2023-01-10T05:10:46Z,2,15:35,04:25,4,1,26.0,Los Angeles Kings,LAK
+205,26,22,Los Angeles Kings,Edmonton Oilers,2022020647422,2022020647,Penalty,422,PENALTY,Phillip Danault Fighting against Jesse Puljujarvi,2023-01-10T05:10:46Z,2,15:35,04:25,4,1,26.0,Los Angeles Kings,LAK
+206,26,22,Los Angeles Kings,Edmonton Oilers,2022020647424,2022020647,Penalty,424,PENALTY,Jesse Puljujarvi Interference against Viktor Arvidsson,2023-01-10T05:10:46Z,2,15:35,04:25,4,1,22.0,Edmonton Oilers,EDM
+207,26,22,Los Angeles Kings,Edmonton Oilers,2022020647427,2022020647,Penalty,427,PENALTY,Jesse Puljujarvi Fighting against Phillip Danault,2023-01-10T05:10:46Z,2,15:35,04:25,4,1,22.0,Edmonton Oilers,EDM
+208,26,22,Los Angeles Kings,Edmonton Oilers,2022020647607,2022020647,Faceoff,607,FACEOFF,Jaret Anderson-Dolan faceoff won against Connor McDavid,2023-01-10T05:14:06Z,2,15:35,04:25,4,1,26.0,Los Angeles Kings,LAK
+209,26,22,Los Angeles Kings,Edmonton Oilers,2022020647429,2022020647,Hit,429,HIT,Jaret Anderson-Dolan hit Brett Kulak,2023-01-10T05:14:32Z,2,15:46,04:14,4,1,26.0,Los Angeles Kings,LAK
+210,26,22,Los Angeles Kings,Edmonton Oilers,2022020647237,2022020647,Stoppage,237,STOP,Icing,2023-01-10T05:15:17Z,2,16:31,03:29,4,1,,,
+211,26,22,Los Angeles Kings,Edmonton Oilers,2022020647608,2022020647,Faceoff,608,FACEOFF,Leon Draisaitl faceoff won against Anze Kopitar,2023-01-10T05:15:46Z,2,16:31,03:29,4,1,22.0,Edmonton Oilers,EDM
+212,26,22,Los Angeles Kings,Edmonton Oilers,2022020647368,2022020647,Blocked Shot,368,BLOCKED_SHOT,Evan Bouchard shot blocked shot by Anze Kopitar,2023-01-10T05:15:50Z,2,16:35,03:25,4,1,26.0,Los Angeles Kings,LAK
+213,26,22,Los Angeles Kings,Edmonton Oilers,2022020647609,2022020647,Goal,609,GOAL,"Ryan McLeod (4) Backhand, assists: Evan Bouchard (13), Philip Broberg (3)",2023-01-10T05:15:52Z,2,16:36,03:24,4,2,22.0,Edmonton Oilers,EDM
+214,26,22,Los Angeles Kings,Edmonton Oilers,2022020647610,2022020647,Faceoff,610,FACEOFF,Leon Draisaitl faceoff won against Blake Lizotte,2023-01-10T05:16:29Z,2,16:36,03:24,4,2,22.0,Edmonton Oilers,EDM
+215,26,22,Los Angeles Kings,Edmonton Oilers,2022020647369,2022020647,Missed Shot,369,MISSED_SHOT,Viktor Arvidsson Wide of Net Jack Campbell,2023-01-10T05:16:53Z,2,17:00,03:00,4,2,26.0,Los Angeles Kings,LAK
+216,26,22,Los Angeles Kings,Edmonton Oilers,2022020647430,2022020647,Blocked Shot,430,BLOCKED_SHOT,Alex Iafallo shot blocked shot by Evan Bouchard,2023-01-10T05:16:59Z,2,17:06,02:54,4,2,22.0,Edmonton Oilers,EDM
+217,26,22,Los Angeles Kings,Edmonton Oilers,2022020647370,2022020647,Shot,370,SHOT,Zach Hyman Wrist Shot saved by Pheonix Copley,2023-01-10T05:17:05Z,2,17:12,02:48,4,2,22.0,Edmonton Oilers,EDM
+218,26,22,Los Angeles Kings,Edmonton Oilers,2022020647378,2022020647,Blocked Shot,378,BLOCKED_SHOT,Ryan McLeod shot blocked shot by Matt Roy,2023-01-10T05:17:07Z,2,17:14,02:46,4,2,26.0,Los Angeles Kings,LAK
+219,26,22,Los Angeles Kings,Edmonton Oilers,2022020647587,2022020647,Penalty,587,PENALTY,Alex Iafallo Tripping against Zach Hyman,2023-01-10T05:17:13Z,2,17:20,02:40,4,2,26.0,Los Angeles Kings,LAK
+220,26,22,Los Angeles Kings,Edmonton Oilers,2022020647611,2022020647,Faceoff,611,FACEOFF,Rasmus Kupari faceoff won against Leon Draisaitl,2023-01-10T05:18:24Z,2,17:20,02:40,4,2,26.0,Los Angeles Kings,LAK
+221,26,22,Los Angeles Kings,Edmonton Oilers,2022020647371,2022020647,Shot,371,SHOT,Zach Hyman Tip-In saved by Pheonix Copley,2023-01-10T05:18:51Z,2,17:47,02:13,4,2,22.0,Edmonton Oilers,EDM
+222,26,22,Los Angeles Kings,Edmonton Oilers,2022020647431,2022020647,Hit,431,HIT,Adrian Kempe hit Connor McDavid,2023-01-10T05:18:58Z,2,17:54,02:06,4,2,26.0,Los Angeles Kings,LAK
+223,26,22,Los Angeles Kings,Edmonton Oilers,2022020647372,2022020647,Blocked Shot,372,BLOCKED_SHOT,Tyson Barrie shot blocked shot by Sean Walker,2023-01-10T05:19:35Z,2,18:31,01:29,4,2,26.0,Los Angeles Kings,LAK
+224,26,22,Los Angeles Kings,Edmonton Oilers,2022020647373,2022020647,Shot,373,SHOT,Ryan Nugent-Hopkins Wrist Shot saved by Pheonix Copley,2023-01-10T05:19:54Z,2,18:50,01:10,4,2,22.0,Edmonton Oilers,EDM
+225,26,22,Los Angeles Kings,Edmonton Oilers,2022020647238,2022020647,Stoppage,238,STOP,Goalie Stopped,2023-01-10T05:19:55Z,2,18:51,01:09,4,2,,,
+226,26,22,Los Angeles Kings,Edmonton Oilers,2022020647612,2022020647,Faceoff,612,FACEOFF,Rasmus Kupari faceoff won against Ryan McLeod,2023-01-10T05:20:33Z,2,18:51,01:09,4,2,26.0,Los Angeles Kings,LAK
+227,26,22,Los Angeles Kings,Edmonton Oilers,2022020647374,2022020647,Shot,374,SHOT,Kailer Yamamoto Tip-In saved by Pheonix Copley,2023-01-10T05:20:44Z,2,19:02,00:58,4,2,22.0,Edmonton Oilers,EDM
+228,26,22,Los Angeles Kings,Edmonton Oilers,2022020647613,2022020647,Shot,613,SHOT,Evan Bouchard Snap Shot saved by Pheonix Copley,2023-01-10T05:21:01Z,2,19:19,00:41,4,2,22.0,Edmonton Oilers,EDM
+229,26,22,Los Angeles Kings,Edmonton Oilers,2022020647375,2022020647,Blocked Shot,375,BLOCKED_SHOT,Rasmus Kupari shot blocked shot by Darnell Nurse,2023-01-10T05:21:08Z,2,19:26,00:34,4,2,22.0,Edmonton Oilers,EDM
+230,26,22,Los Angeles Kings,Edmonton Oilers,2022020647239,2022020647,Stoppage,239,STOP,Puck in Netting,2023-01-10T05:21:10Z,2,19:27,00:33,4,2,,,
+231,26,22,Los Angeles Kings,Edmonton Oilers,2022020647614,2022020647,Faceoff,614,FACEOFF,Gabriel Vilardi faceoff won against Ryan McLeod,2023-01-10T05:21:47Z,2,19:27,00:33,4,2,26.0,Los Angeles Kings,LAK
+232,26,22,Los Angeles Kings,Edmonton Oilers,2022020647376,2022020647,Blocked Shot,376,BLOCKED_SHOT,Quinton Byfield shot blocked shot by Ryan McLeod,2023-01-10T05:21:50Z,2,19:31,00:29,4,2,22.0,Edmonton Oilers,EDM
+233,26,22,Los Angeles Kings,Edmonton Oilers,2022020647615,2022020647,Shot,615,SHOT,Kevin Fiala Snap Shot saved by Jack Campbell,2023-01-10T05:21:53Z,2,19:34,00:26,4,2,26.0,Los Angeles Kings,LAK
+234,26,22,Los Angeles Kings,Edmonton Oilers,2022020647240,2022020647,Stoppage,240,STOP,Goalie Stopped,2023-01-10T05:21:55Z,2,19:35,00:25,4,2,,,
+235,26,22,Los Angeles Kings,Edmonton Oilers,2022020647616,2022020647,Faceoff,616,FACEOFF,Quinton Byfield faceoff won against Derek Ryan,2023-01-10T05:22:21Z,2,19:35,00:25,4,2,26.0,Los Angeles Kings,LAK
+236,26,22,Los Angeles Kings,Edmonton Oilers,2022020647377,2022020647,Blocked Shot,377,BLOCKED_SHOT,Kevin Fiala shot blocked shot by Cody Ceci,2023-01-10T05:22:27Z,2,19:42,00:18,4,2,22.0,Edmonton Oilers,EDM
+237,26,22,Los Angeles Kings,Edmonton Oilers,2022020647617,2022020647,Missed Shot,617,MISSED_SHOT,Drew Doughty Wide of Net Jack Campbell,2023-01-10T05:22:29Z,2,19:44,00:16,4,2,26.0,Los Angeles Kings,LAK
+238,26,22,Los Angeles Kings,Edmonton Oilers,2022020647432,2022020647,Period End,432,PERIOD_END,End of 2nd Period,2023-01-10T05:22:45Z,2,20:00,00:00,4,2,,,
+239,26,22,Los Angeles Kings,Edmonton Oilers,2022020647435,2022020647,Period Official,435,PERIOD_OFFICIAL,Period Official,2023-01-10T05:35:13Z,2,20:00,00:00,4,2,,,
+240,26,22,Los Angeles Kings,Edmonton Oilers,2022020647436,2022020647,Period Ready,436,PERIOD_READY,Period Ready,2023-01-10T05:41:20Z,3,00:00,20:00,4,2,,,
+241,26,22,Los Angeles Kings,Edmonton Oilers,2022020647618,2022020647,Period Start,618,PERIOD_START,Period Start,2023-01-10T05:41:28Z,3,00:00,20:00,4,2,,,
+242,26,22,Los Angeles Kings,Edmonton Oilers,2022020647619,2022020647,Faceoff,619,FACEOFF,Connor McDavid faceoff won against Blake Lizotte,2023-01-10T05:41:28Z,3,00:00,20:00,4,2,22.0,Edmonton Oilers,EDM
+243,26,22,Los Angeles Kings,Edmonton Oilers,2022020647437,2022020647,Giveaway,437,GIVEAWAY,Giveaway by Brett Kulak,2023-01-10T05:41:38Z,3,00:10,19:50,4,2,22.0,Edmonton Oilers,EDM
+244,26,22,Los Angeles Kings,Edmonton Oilers,2022020647379,2022020647,Shot,379,SHOT,Alex Iafallo Wrist Shot saved by Jack Campbell,2023-01-10T05:41:40Z,3,00:12,19:48,4,2,26.0,Los Angeles Kings,LAK
+245,26,22,Los Angeles Kings,Edmonton Oilers,2022020647380,2022020647,Blocked Shot,380,BLOCKED_SHOT,Brett Kulak shot blocked shot by Drew Doughty,2023-01-10T05:41:58Z,3,00:30,19:30,4,2,26.0,Los Angeles Kings,LAK
+246,26,22,Los Angeles Kings,Edmonton Oilers,2022020647438,2022020647,Hit,438,HIT,Connor McDavid hit Mikey Anderson,2023-01-10T05:42:05Z,3,00:37,19:23,4,2,22.0,Edmonton Oilers,EDM
+247,26,22,Los Angeles Kings,Edmonton Oilers,2022020647241,2022020647,Hit,241,HIT,Cody Ceci hit Jaret Anderson-Dolan,2023-01-10T05:42:28Z,3,01:00,19:00,4,2,22.0,Edmonton Oilers,EDM
+248,26,22,Los Angeles Kings,Edmonton Oilers,2022020647439,2022020647,Hit,439,HIT,Matt Roy hit Zach Hyman,2023-01-10T05:42:33Z,3,01:05,18:55,4,2,26.0,Los Angeles Kings,LAK
+249,26,22,Los Angeles Kings,Edmonton Oilers,2022020647381,2022020647,Shot,381,SHOT,Zach Hyman Backhand saved by Pheonix Copley,2023-01-10T05:43:01Z,3,01:33,18:27,4,2,22.0,Edmonton Oilers,EDM
+250,26,22,Los Angeles Kings,Edmonton Oilers,2022020647382,2022020647,Missed Shot,382,MISSED_SHOT,Ryan Mcleod Wide of Net Pheonix Copley,2023-01-10T05:43:14Z,3,01:46,18:14,4,2,22.0,Edmonton Oilers,EDM
+251,26,22,Los Angeles Kings,Edmonton Oilers,2022020647620,2022020647,Shot,620,SHOT,Cody Ceci Deflected saved by Pheonix Copley,2023-01-10T05:43:26Z,3,01:58,18:02,4,2,22.0,Edmonton Oilers,EDM
+252,26,22,Los Angeles Kings,Edmonton Oilers,2022020647242,2022020647,Stoppage,242,STOP,Goalie Stopped,2023-01-10T05:43:27Z,3,02:00,18:00,4,2,,,
+253,26,22,Los Angeles Kings,Edmonton Oilers,2022020647383,2022020647,Faceoff,383,FACEOFF,Rasmus Kupari faceoff won against Ryan Nugent-Hopkins,2023-01-10T05:44:00Z,3,02:00,18:00,4,2,26.0,Los Angeles Kings,LAK
+254,26,22,Los Angeles Kings,Edmonton Oilers,2022020647384,2022020647,Shot,384,SHOT,Brett Kulak Slap Shot saved by Pheonix Copley,2023-01-10T05:45:05Z,3,03:05,16:55,4,2,22.0,Edmonton Oilers,EDM
+255,26,22,Los Angeles Kings,Edmonton Oilers,2022020647440,2022020647,Hit,440,HIT,Matt Roy hit Leon Draisaitl,2023-01-10T05:45:47Z,3,03:47,16:13,4,2,26.0,Los Angeles Kings,LAK
+256,26,22,Los Angeles Kings,Edmonton Oilers,2022020647443,2022020647,Hit,443,HIT,Mikey Anderson hit Zach Hyman,2023-01-10T05:46:33Z,3,04:33,15:27,4,2,26.0,Los Angeles Kings,LAK
+257,26,22,Los Angeles Kings,Edmonton Oilers,2022020647621,2022020647,Giveaway,621,GIVEAWAY,Giveaway by Darnell Nurse,2023-01-10T05:46:39Z,3,04:39,15:21,4,2,22.0,Edmonton Oilers,EDM
+258,26,22,Los Angeles Kings,Edmonton Oilers,2022020647244,2022020647,Stoppage,244,STOP,Offside,2023-01-10T05:46:54Z,3,04:54,15:06,4,2,,,
+259,26,22,Los Angeles Kings,Edmonton Oilers,2022020647622,2022020647,Faceoff,622,FACEOFF,Anze Kopitar faceoff won against Ryan Nugent-Hopkins,2023-01-10T05:47:48Z,3,04:54,15:06,4,2,26.0,Los Angeles Kings,LAK
+260,26,22,Los Angeles Kings,Edmonton Oilers,2022020647446,2022020647,Hit,446,HIT,Ryan Nugent-Hopkins hit Sean Walker,2023-01-10T05:48:21Z,3,05:27,14:33,4,2,22.0,Edmonton Oilers,EDM
+261,26,22,Los Angeles Kings,Edmonton Oilers,2022020647245,2022020647,Stoppage,245,STOP,Offside,2023-01-10T05:48:31Z,3,05:37,14:23,4,2,,,
+262,26,22,Los Angeles Kings,Edmonton Oilers,2022020647623,2022020647,Faceoff,623,FACEOFF,Gabriel Vilardi faceoff won against Kailer Yamamoto,2023-01-10T05:49:24Z,3,05:37,14:23,4,2,26.0,Los Angeles Kings,LAK
+263,26,22,Los Angeles Kings,Edmonton Oilers,2022020647447,2022020647,Hit,447,HIT,Brett Kulak hit Blake Lizotte,2023-01-10T05:49:34Z,3,05:47,14:13,4,2,22.0,Edmonton Oilers,EDM
+264,26,22,Los Angeles Kings,Edmonton Oilers,2022020647385,2022020647,Missed Shot,385,MISSED_SHOT,Phillip Danault Wide of Net Jack Campbell,2023-01-10T05:50:14Z,3,06:27,13:33,4,2,26.0,Los Angeles Kings,LAK
+265,26,22,Los Angeles Kings,Edmonton Oilers,2022020647448,2022020647,Hit,448,HIT,Phillip Danault hit Ryan McLeod,2023-01-10T05:50:23Z,3,06:36,13:24,4,2,26.0,Los Angeles Kings,LAK
+266,26,22,Los Angeles Kings,Edmonton Oilers,2022020647449,2022020647,Hit,449,HIT,Mikey Anderson hit Leon Draisaitl,2023-01-10T05:50:41Z,3,06:54,13:06,4,2,26.0,Los Angeles Kings,LAK
+267,26,22,Los Angeles Kings,Edmonton Oilers,2022020647386,2022020647,Shot,386,SHOT,Cody Ceci Snap Shot saved by Pheonix Copley,2023-01-10T05:50:52Z,3,07:05,12:55,4,2,22.0,Edmonton Oilers,EDM
+268,26,22,Los Angeles Kings,Edmonton Oilers,2022020647246,2022020647,Stoppage,246,STOP,Goalie Stopped,2023-01-10T05:50:52Z,3,07:06,12:54,4,2,,,
+269,26,22,Los Angeles Kings,Edmonton Oilers,2022020647624,2022020647,Faceoff,624,FACEOFF,Phillip Danault faceoff won against Connor McDavid,2023-01-10T05:53:14Z,3,07:06,12:54,4,2,26.0,Los Angeles Kings,LAK
+270,26,22,Los Angeles Kings,Edmonton Oilers,2022020647450,2022020647,Hit,450,HIT,Mikey Anderson hit Jesse Puljujarvi,2023-01-10T05:53:27Z,3,07:19,12:41,4,2,26.0,Los Angeles Kings,LAK
+271,26,22,Los Angeles Kings,Edmonton Oilers,2022020647247,2022020647,Stoppage,247,STOP,Puck in Crowd,2023-01-10T05:53:38Z,3,07:29,12:31,4,2,,,
+272,26,22,Los Angeles Kings,Edmonton Oilers,2022020647625,2022020647,Faceoff,625,FACEOFF,Ryan Nugent-Hopkins faceoff won against Phillip Danault,2023-01-10T05:54:26Z,3,07:29,12:31,4,2,22.0,Edmonton Oilers,EDM
+273,26,22,Los Angeles Kings,Edmonton Oilers,2022020647387,2022020647,Shot,387,SHOT,Darnell Nurse Wrist Shot saved by Pheonix Copley,2023-01-10T05:54:30Z,3,07:33,12:27,4,2,22.0,Edmonton Oilers,EDM
+274,26,22,Los Angeles Kings,Edmonton Oilers,2022020647388,2022020647,Goal,388,GOAL,"Alex Iafallo (7) Wrist Shot, assists: Viktor Arvidsson (21), Drew Doughty (22)",2023-01-10T05:54:41Z,3,07:44,12:16,5,2,26.0,Los Angeles Kings,LAK
+275,26,22,Los Angeles Kings,Edmonton Oilers,2022020647626,2022020647,Faceoff,626,FACEOFF,Rasmus Kupari faceoff won against Derek Ryan,2023-01-10T05:55:28Z,3,07:44,12:16,5,2,26.0,Los Angeles Kings,LAK
+276,26,22,Los Angeles Kings,Edmonton Oilers,2022020647627,2022020647,Takeaway,627,TAKEAWAY,Takeaway by Warren Foegele,2023-01-10T05:55:43Z,3,07:59,12:01,5,2,22.0,Edmonton Oilers,EDM
+277,26,22,Los Angeles Kings,Edmonton Oilers,2022020647389,2022020647,Blocked Shot,389,BLOCKED_SHOT,Warren Foegele shot blocked shot by Jaret Anderson-Dolan,2023-01-10T05:55:54Z,3,08:10,11:50,5,2,26.0,Los Angeles Kings,LAK
+278,26,22,Los Angeles Kings,Edmonton Oilers,2022020647751,2022020647,Missed Shot,751,MISSED_SHOT,Warren Foegele Wide of Net Pheonix Copley,2023-01-10T05:55:56Z,3,08:12,11:48,5,2,22.0,Edmonton Oilers,EDM
+279,26,22,Los Angeles Kings,Edmonton Oilers,2022020647390,2022020647,Missed Shot,390,MISSED_SHOT,Warren Foegele Wide of Net Pheonix Copley,2023-01-10T05:56:09Z,3,08:25,11:35,5,2,22.0,Edmonton Oilers,EDM
+280,26,22,Los Angeles Kings,Edmonton Oilers,2022020647248,2022020647,Stoppage,248,STOP,Puck Frozen,2023-01-10T05:56:09Z,3,08:26,11:34,5,2,,,
+281,26,22,Los Angeles Kings,Edmonton Oilers,2022020647628,2022020647,Faceoff,628,FACEOFF,Anze Kopitar faceoff won against Leon Draisaitl,2023-01-10T05:56:48Z,3,08:26,11:34,5,2,26.0,Los Angeles Kings,LAK
+282,26,22,Los Angeles Kings,Edmonton Oilers,2022020647870,2022020647,Penalty,870,PENALTY,Sean Durzi Fighting against Zach Hyman,2023-01-10T05:56:49Z,3,08:27,11:33,5,2,26.0,Los Angeles Kings,LAK
+283,26,22,Los Angeles Kings,Edmonton Oilers,2022020647874,2022020647,Penalty,874,PENALTY,Zach Hyman Fighting against Sean Durzi,2023-01-10T05:56:49Z,3,08:27,11:33,5,2,22.0,Edmonton Oilers,EDM
+284,26,22,Los Angeles Kings,Edmonton Oilers,2022020647629,2022020647,Faceoff,629,FACEOFF,Anze Kopitar faceoff won against Leon Draisaitl,2023-01-10T05:58:11Z,3,08:27,11:33,5,2,26.0,Los Angeles Kings,LAK
+285,26,22,Los Angeles Kings,Edmonton Oilers,2022020647752,2022020647,Hit,752,HIT,Leon Draisaitl hit Sean Walker,2023-01-10T05:58:19Z,3,08:35,11:25,5,2,22.0,Edmonton Oilers,EDM
+286,26,22,Los Angeles Kings,Edmonton Oilers,2022020647391,2022020647,Missed Shot,391,MISSED_SHOT,Brett Kulak Wide of Net Pheonix Copley,2023-01-10T05:58:45Z,3,09:01,10:59,5,2,22.0,Edmonton Oilers,EDM
+287,26,22,Los Angeles Kings,Edmonton Oilers,2022020647249,2022020647,Takeaway,249,TAKEAWAY,Takeaway by Connor McDavid,2023-01-10T05:59:08Z,3,09:24,10:36,5,2,22.0,Edmonton Oilers,EDM
+288,26,22,Los Angeles Kings,Edmonton Oilers,2022020647392,2022020647,Goal,392,GOAL,"Connor McDavid (34) Snap Shot, assists: none",2023-01-10T05:59:10Z,3,09:26,10:34,5,3,22.0,Edmonton Oilers,EDM
+289,26,22,Los Angeles Kings,Edmonton Oilers,2022020647631,2022020647,Faceoff,631,FACEOFF,Viktor Arvidsson faceoff won against Connor McDavid,2023-01-10T05:59:56Z,3,09:26,10:34,5,3,26.0,Los Angeles Kings,LAK
+290,26,22,Los Angeles Kings,Edmonton Oilers,2022020647393,2022020647,Missed Shot,393,MISSED_SHOT,Kailer Yamamoto Hit Crossbar Pheonix Copley,2023-01-10T06:00:35Z,3,10:05,09:55,5,3,22.0,Edmonton Oilers,EDM
+291,26,22,Los Angeles Kings,Edmonton Oilers,2022020647250,2022020647,Stoppage,250,STOP,TV timeout,2023-01-10T06:00:40Z,3,10:10,09:50,5,3,,,
+292,26,22,Los Angeles Kings,Edmonton Oilers,2022020647889,2022020647,Penalty,889,PENALTY,Evan Bouchard Interference against Mikey Anderson,2023-01-10T06:00:40Z,3,10:10,09:50,5,3,22.0,Edmonton Oilers,EDM
+293,26,22,Los Angeles Kings,Edmonton Oilers,2022020647632,2022020647,Faceoff,632,FACEOFF,Ryan Nugent-Hopkins faceoff won against Anze Kopitar,2023-01-10T06:03:12Z,3,10:10,09:50,5,3,22.0,Edmonton Oilers,EDM
+294,26,22,Los Angeles Kings,Edmonton Oilers,2022020647755,2022020647,Hit,755,HIT,Cody Ceci hit Kevin Fiala,2023-01-10T06:03:30Z,3,10:28,09:32,5,3,22.0,Edmonton Oilers,EDM
+295,26,22,Los Angeles Kings,Edmonton Oilers,2022020647651,2022020647,Stoppage,651,STOP,Puck in Benches,2023-01-10T06:03:35Z,3,10:33,09:27,5,3,,,
+296,26,22,Los Angeles Kings,Edmonton Oilers,2022020647633,2022020647,Faceoff,633,FACEOFF,Anze Kopitar faceoff won against Ryan McLeod,2023-01-10T06:04:03Z,3,10:33,09:27,5,3,26.0,Los Angeles Kings,LAK
+297,26,22,Los Angeles Kings,Edmonton Oilers,2022020647394,2022020647,Shot,394,SHOT,Adrian Kempe Wrist Shot saved by Jack Campbell,2023-01-10T06:04:46Z,3,11:16,08:44,5,3,26.0,Los Angeles Kings,LAK
+298,26,22,Los Angeles Kings,Edmonton Oilers,2022020647652,2022020647,Stoppage,652,STOP,Goalie Stopped,2023-01-10T06:04:48Z,3,11:17,08:43,5,3,,,
+299,26,22,Los Angeles Kings,Edmonton Oilers,2022020647634,2022020647,Faceoff,634,FACEOFF,Phillip Danault faceoff won against Ryan Nugent-Hopkins,2023-01-10T06:05:18Z,3,11:17,08:43,5,3,26.0,Los Angeles Kings,LAK
+300,26,22,Los Angeles Kings,Edmonton Oilers,2022020647395,2022020647,Shot,395,SHOT,Sean Walker Slap Shot saved by Jack Campbell,2023-01-10T06:05:50Z,3,11:49,08:11,5,3,26.0,Los Angeles Kings,LAK
+301,26,22,Los Angeles Kings,Edmonton Oilers,2022020647653,2022020647,Stoppage,653,STOP,Goalie Stopped,2023-01-10T06:05:51Z,3,11:50,08:10,5,3,,,
+302,26,22,Los Angeles Kings,Edmonton Oilers,2022020647635,2022020647,Faceoff,635,FACEOFF,Phillip Danault faceoff won against Leon Draisaitl,2023-01-10T06:06:26Z,3,11:50,08:10,5,3,26.0,Los Angeles Kings,LAK
+303,26,22,Los Angeles Kings,Edmonton Oilers,2022020647396,2022020647,Missed Shot,396,MISSED_SHOT,Alex Iafallo Wide of Net Jack Campbell,2023-01-10T06:06:34Z,3,11:58,08:02,5,3,26.0,Los Angeles Kings,LAK
+304,26,22,Los Angeles Kings,Edmonton Oilers,2022020647636,2022020647,Missed Shot,636,MISSED_SHOT,Alex Iafallo Wide of Net Jack Campbell,2023-01-10T06:06:48Z,3,12:12,07:48,5,3,26.0,Los Angeles Kings,LAK
+305,26,22,Los Angeles Kings,Edmonton Oilers,2022020647654,2022020647,Hit,654,HIT,Cody Ceci hit Viktor Arvidsson,2023-01-10T06:06:50Z,3,12:14,07:46,5,3,22.0,Edmonton Oilers,EDM
+306,26,22,Los Angeles Kings,Edmonton Oilers,2022020647806,2022020647,Blocked Shot,806,BLOCKED_SHOT,Connor McDavid shot blocked shot by Mikey Anderson,2023-01-10T06:06:56Z,3,12:20,07:40,5,3,26.0,Los Angeles Kings,LAK
+307,26,22,Los Angeles Kings,Edmonton Oilers,2022020647756,2022020647,Hit,756,HIT,Phillip Danault hit Connor McDavid,2023-01-10T06:07:02Z,3,12:26,07:34,5,3,26.0,Los Angeles Kings,LAK
+308,26,22,Los Angeles Kings,Edmonton Oilers,2022020647757,2022020647,Hit,757,HIT,Matt Roy hit Kailer Yamamoto,2023-01-10T06:08:04Z,3,13:28,06:32,5,3,26.0,Los Angeles Kings,LAK
+309,26,22,Los Angeles Kings,Edmonton Oilers,2022020647397,2022020647,Shot,397,SHOT,Mattias Janmark Snap Shot saved by Pheonix Copley,2023-01-10T06:08:26Z,3,13:50,06:10,5,3,22.0,Edmonton Oilers,EDM
+310,26,22,Los Angeles Kings,Edmonton Oilers,2022020647919,2022020647,Penalty,919,PENALTY,Quinton Byfield Hooking against Dylan Holloway,2023-01-10T06:08:31Z,3,13:56,06:04,5,3,26.0,Los Angeles Kings,LAK
+311,26,22,Los Angeles Kings,Edmonton Oilers,2022020647637,2022020647,Faceoff,637,FACEOFF,Phillip Danault faceoff won against Leon Draisaitl,2023-01-10T06:09:16Z,3,13:56,06:04,5,3,26.0,Los Angeles Kings,LAK
+312,26,22,Los Angeles Kings,Edmonton Oilers,2022020647398,2022020647,Blocked Shot,398,BLOCKED_SHOT,Connor McDavid shot blocked shot by Sean Durzi,2023-01-10T06:10:20Z,3,15:00,05:00,5,3,26.0,Los Angeles Kings,LAK
+313,26,22,Los Angeles Kings,Edmonton Oilers,2022020647655,2022020647,Stoppage,655,STOP,Offside,2023-01-10T06:10:50Z,3,15:30,04:30,5,3,,,
+314,26,22,Los Angeles Kings,Edmonton Oilers,2022020647638,2022020647,Faceoff,638,FACEOFF,Rasmus Kupari faceoff won against Dylan Holloway,2023-01-10T06:11:42Z,3,15:30,04:30,5,3,26.0,Los Angeles Kings,LAK
+315,26,22,Los Angeles Kings,Edmonton Oilers,2022020647759,2022020647,Hit,759,HIT,Darnell Nurse hit Rasmus Kupari,2023-01-10T06:12:03Z,3,15:51,04:09,5,3,22.0,Edmonton Oilers,EDM
+316,26,22,Los Angeles Kings,Edmonton Oilers,2022020647760,2022020647,Hit,760,HIT,Phillip Danault hit Warren Foegele,2023-01-10T06:12:51Z,3,16:39,03:21,5,3,26.0,Los Angeles Kings,LAK
+317,26,22,Los Angeles Kings,Edmonton Oilers,2022020647399,2022020647,Blocked Shot,399,BLOCKED_SHOT,Cody Ceci shot blocked shot by Viktor Arvidsson,2023-01-10T06:12:57Z,3,16:45,03:15,5,3,26.0,Los Angeles Kings,LAK
+318,26,22,Los Angeles Kings,Edmonton Oilers,2022020647656,2022020647,Hit,656,HIT,Cody Ceci hit Viktor Arvidsson,2023-01-10T06:12:57Z,3,16:45,03:15,5,3,22.0,Edmonton Oilers,EDM
+319,26,22,Los Angeles Kings,Edmonton Oilers,2022020647657,2022020647,Stoppage,657,STOP,Icing,2023-01-10T06:13:35Z,3,17:23,02:37,5,3,,,
+320,26,22,Los Angeles Kings,Edmonton Oilers,2022020647640,2022020647,Faceoff,640,FACEOFF,Leon Draisaitl faceoff won against Anze Kopitar,2023-01-10T06:14:11Z,3,17:23,02:37,5,3,22.0,Edmonton Oilers,EDM
+321,26,22,Los Angeles Kings,Edmonton Oilers,2022020647400,2022020647,Shot,400,SHOT,Zach Hyman Tip-In saved by Pheonix Copley,2023-01-10T06:14:17Z,3,17:29,02:31,5,3,22.0,Edmonton Oilers,EDM
+322,26,22,Los Angeles Kings,Edmonton Oilers,2022020647641,2022020647,Blocked Shot,641,BLOCKED_SHOT,Leon Draisaitl shot blocked shot by Quinton Byfield,2023-01-10T06:14:20Z,3,17:32,02:28,5,3,26.0,Los Angeles Kings,LAK
+323,26,22,Los Angeles Kings,Edmonton Oilers,2022020647642,2022020647,Takeaway,642,TAKEAWAY,Takeaway by Connor McDavid,2023-01-10T06:14:42Z,3,17:54,02:06,5,3,22.0,Edmonton Oilers,EDM
+324,26,22,Los Angeles Kings,Edmonton Oilers,2022020647801,2022020647,Blocked Shot,801,BLOCKED_SHOT,Connor McDavid shot blocked shot by Mikey Anderson,2023-01-10T06:14:50Z,3,18:02,01:58,5,3,26.0,Los Angeles Kings,LAK
+325,26,22,Los Angeles Kings,Edmonton Oilers,2022020647658,2022020647,Stoppage,658,STOP,Puck in Netting,2023-01-10T06:14:51Z,3,18:03,01:57,5,3,,,
+326,26,22,Los Angeles Kings,Edmonton Oilers,2022020647644,2022020647,Faceoff,644,FACEOFF,Connor McDavid faceoff won against Phillip Danault,2023-01-10T06:16:27Z,3,18:03,01:57,5,3,22.0,Edmonton Oilers,EDM
+327,26,22,Los Angeles Kings,Edmonton Oilers,2022020647802,2022020647,Shot,802,SHOT,Ryan Nugent-Hopkins Wrist Shot saved by Pheonix Copley,2023-01-10T06:16:32Z,3,18:08,01:52,5,3,22.0,Edmonton Oilers,EDM
+328,26,22,Los Angeles Kings,Edmonton Oilers,2022020647659,2022020647,Stoppage,659,STOP,Goalie Stopped,2023-01-10T06:16:34Z,3,18:09,01:51,5,3,,,
+329,26,22,Los Angeles Kings,Edmonton Oilers,2022020647645,2022020647,Faceoff,645,FACEOFF,Leon Draisaitl faceoff won against Phillip Danault,2023-01-10T06:16:56Z,3,18:09,01:51,5,3,22.0,Edmonton Oilers,EDM
+330,26,22,Los Angeles Kings,Edmonton Oilers,2022020647803,2022020647,Goal,803,GOAL,"Viktor Arvidsson (12) Wrist Shot, assists: none",2023-01-10T06:17:05Z,3,18:18,01:42,6,3,26.0,Los Angeles Kings,LAK
+331,26,22,Los Angeles Kings,Edmonton Oilers,2022020647646,2022020647,Faceoff,646,FACEOFF,Rasmus Kupari faceoff won against Ryan McLeod,2023-01-10T06:17:46Z,3,18:18,01:42,6,3,26.0,Los Angeles Kings,LAK
+332,26,22,Los Angeles Kings,Edmonton Oilers,2022020647761,2022020647,Penalty,761,PENALTY,Brendan Lemieux Fighting against Klim Kostin,2023-01-10T06:17:51Z,3,18:23,01:37,6,3,26.0,Los Angeles Kings,LAK
+333,26,22,Los Angeles Kings,Edmonton Oilers,2022020647764,2022020647,Penalty,764,PENALTY,Klim Kostin Fighting against Brendan Lemieux,2023-01-10T06:17:51Z,3,18:23,01:37,6,3,22.0,Edmonton Oilers,EDM
+334,26,22,Los Angeles Kings,Edmonton Oilers,2022020647767,2022020647,Penalty,767,PENALTY,Klim Kostin Game Misconduct,2023-01-10T06:17:51Z,3,18:23,01:37,6,3,22.0,Edmonton Oilers,EDM
+335,26,22,Los Angeles Kings,Edmonton Oilers,2022020647647,2022020647,Faceoff,647,FACEOFF,Ryan McLeod faceoff won against Rasmus Kupari,2023-01-10T06:19:18Z,3,18:23,01:37,6,3,22.0,Edmonton Oilers,EDM
+336,26,22,Los Angeles Kings,Edmonton Oilers,2022020647804,2022020647,Blocked Shot,804,BLOCKED_SHOT,Evan Bouchard shot blocked shot by Sean Durzi,2023-01-10T06:19:58Z,3,19:03,00:57,6,3,26.0,Los Angeles Kings,LAK
+337,26,22,Los Angeles Kings,Edmonton Oilers,2022020647648,2022020647,Giveaway,648,GIVEAWAY,Giveaway by Evan Bouchard,2023-01-10T06:20:20Z,3,19:25,00:35,6,3,22.0,Edmonton Oilers,EDM
+338,26,22,Los Angeles Kings,Edmonton Oilers,2022020647805,2022020647,Blocked Shot,805,BLOCKED_SHOT,Kevin Fiala shot blocked shot by Tyson Barrie,2023-01-10T06:20:23Z,3,19:28,00:32,6,3,22.0,Edmonton Oilers,EDM
+339,26,22,Los Angeles Kings,Edmonton Oilers,2022020647769,2022020647,Period End,769,PERIOD_END,End of 3rd Period,2023-01-10T06:20:56Z,3,20:00,00:00,6,3,,,
+340,26,22,Los Angeles Kings,Edmonton Oilers,2022020647772,2022020647,Period Official,772,PERIOD_OFFICIAL,Period Official,2023-01-10T06:21:02Z,3,20:00,00:00,6,3,,,
+341,26,22,Los Angeles Kings,Edmonton Oilers,2022020647773,2022020647,Game End,773,GAME_END,Game End,2023-01-10T06:21:06Z,3,20:00,00:00,6,3,,,
+342,26,22,Los Angeles Kings,Edmonton Oilers,20220206471191,2022020647,Game Official,1191,GAME_OFFICIAL,Game Official,2023-01-10T16:14:35Z,3,20:00,00:00,6,3,,,

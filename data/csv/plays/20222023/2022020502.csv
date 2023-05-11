@@ -1,0 +1,311 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,29,25,Columbus Blue Jackets,Dallas Stars,20220205021,2022020502,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-12-19T23:08:07Z,1,00:00,20:00,0,0,,,
+1,29,25,Columbus Blue Jackets,Dallas Stars,20220205025,2022020502,Period Ready,5,PERIOD_READY,Period Ready,2022-12-20T00:06:28Z,1,00:00,20:00,0,0,,,
+2,29,25,Columbus Blue Jackets,Dallas Stars,202202050251,2022020502,Period Start,51,PERIOD_START,Period Start,2022-12-20T00:08:34Z,1,00:00,20:00,0,0,,,
+3,29,25,Columbus Blue Jackets,Dallas Stars,202202050252,2022020502,Faceoff,52,FACEOFF,Kent Johnson faceoff won against Joe Pavelski,2022-12-20T00:08:34Z,1,00:00,20:00,0,0,29.0,Columbus Blue Jackets,CBJ
+4,29,25,Columbus Blue Jackets,Dallas Stars,2022020502151,2022020502,Shot,151,SHOT,Jason Robertson Deflected saved by Daniil Tarasov,2022-12-20T00:08:51Z,1,00:17,19:43,0,0,25.0,Dallas Stars,DAL
+5,29,25,Columbus Blue Jackets,Dallas Stars,202202050253,2022020502,Giveaway,53,GIVEAWAY,Giveaway by Johnny Gaudreau,2022-12-20T00:08:55Z,1,00:21,19:39,0,0,29.0,Columbus Blue Jackets,CBJ
+6,29,25,Columbus Blue Jackets,Dallas Stars,20220205028,2022020502,Hit,8,HIT,Tim Berni hit Ty Dellandrea,2022-12-20T00:09:44Z,1,01:10,18:50,0,0,29.0,Columbus Blue Jackets,CBJ
+7,29,25,Columbus Blue Jackets,Dallas Stars,2022020502152,2022020502,Missed Shot,152,MISSED_SHOT,Joel Kiviranta Wide of Net Daniil Tarasov,2022-12-20T00:09:50Z,1,01:16,18:44,0,0,25.0,Dallas Stars,DAL
+8,29,25,Columbus Blue Jackets,Dallas Stars,20220205029,2022020502,Stoppage,9,STOP,Referee or Linesman,2022-12-20T00:09:53Z,1,01:20,18:40,0,0,,,
+9,29,25,Columbus Blue Jackets,Dallas Stars,202202050254,2022020502,Faceoff,54,FACEOFF,Jamie Benn faceoff won against Sean Kuraly,2022-12-20T00:10:33Z,1,01:20,18:40,0,0,25.0,Dallas Stars,DAL
+10,29,25,Columbus Blue Jackets,Dallas Stars,2022020502153,2022020502,Blocked Shot,153,BLOCKED_SHOT,Esa Lindell shot blocked shot by Erik Gudbranson,2022-12-20T00:10:38Z,1,01:25,18:35,0,0,29.0,Columbus Blue Jackets,CBJ
+11,29,25,Columbus Blue Jackets,Dallas Stars,2022020502154,2022020502,Shot,154,SHOT,Eric Robinson Snap Shot saved by Jake Oettinger,2022-12-20T00:10:53Z,1,01:40,18:20,0,0,29.0,Columbus Blue Jackets,CBJ
+12,29,25,Columbus Blue Jackets,Dallas Stars,202202050210,2022020502,Hit,10,HIT,Erik Gudbranson hit Mason Marchment,2022-12-20T00:11:06Z,1,01:53,18:07,0,0,29.0,Columbus Blue Jackets,CBJ
+13,29,25,Columbus Blue Jackets,Dallas Stars,202202050211,2022020502,Hit,11,HIT,Andrew Peeke hit Radek Faksa,2022-12-20T00:11:25Z,1,02:12,17:48,0,0,29.0,Columbus Blue Jackets,CBJ
+14,29,25,Columbus Blue Jackets,Dallas Stars,2022020502155,2022020502,Missed Shot,155,MISSED_SHOT,Carson Meyer Wide of Net Jake Oettinger,2022-12-20T00:11:48Z,1,02:35,17:25,0,0,29.0,Columbus Blue Jackets,CBJ
+15,29,25,Columbus Blue Jackets,Dallas Stars,202202050212,2022020502,Stoppage,12,STOP,Puck in Netting,2022-12-20T00:11:50Z,1,02:37,17:23,0,0,,,
+16,29,25,Columbus Blue Jackets,Dallas Stars,202202050255,2022020502,Faceoff,55,FACEOFF,Kent Johnson faceoff won against Joe Pavelski,2022-12-20T00:12:27Z,1,02:37,17:23,0,0,29.0,Columbus Blue Jackets,CBJ
+17,29,25,Columbus Blue Jackets,Dallas Stars,2022020502156,2022020502,Shot,156,SHOT,Jason Robertson Snap Shot saved by Daniil Tarasov,2022-12-20T00:13:00Z,1,03:10,16:50,0,0,25.0,Dallas Stars,DAL
+18,29,25,Columbus Blue Jackets,Dallas Stars,2022020502157,2022020502,Blocked Shot,157,BLOCKED_SHOT,Roope Hintz shot blocked shot by Marcus Bjork,2022-12-20T00:13:03Z,1,03:13,16:47,0,0,29.0,Columbus Blue Jackets,CBJ
+19,29,25,Columbus Blue Jackets,Dallas Stars,202202050213,2022020502,Hit,13,HIT,Tim Berni hit Joel Kiviranta,2022-12-20T00:13:27Z,1,03:37,16:23,0,0,29.0,Columbus Blue Jackets,CBJ
+20,29,25,Columbus Blue Jackets,Dallas Stars,202202050214,2022020502,Stoppage,14,STOP,Puck Frozen,2022-12-20T00:13:33Z,1,03:42,16:18,0,0,,,
+21,29,25,Columbus Blue Jackets,Dallas Stars,202202050256,2022020502,Faceoff,56,FACEOFF,Jack Roslovic faceoff won against Tyler Seguin,2022-12-20T00:13:54Z,1,03:42,16:18,0,0,29.0,Columbus Blue Jackets,CBJ
+22,29,25,Columbus Blue Jackets,Dallas Stars,2022020502158,2022020502,Shot,158,SHOT,Jake Christiansen Wrist Shot saved by Jake Oettinger,2022-12-20T00:14:42Z,1,04:30,15:30,0,0,29.0,Columbus Blue Jackets,CBJ
+23,29,25,Columbus Blue Jackets,Dallas Stars,2022020502159,2022020502,Shot,159,SHOT,Jake Christiansen Slap Shot saved by Jake Oettinger,2022-12-20T00:14:48Z,1,04:36,15:24,0,0,29.0,Columbus Blue Jackets,CBJ
+24,29,25,Columbus Blue Jackets,Dallas Stars,2022020502160,2022020502,Shot,160,SHOT,Mason Marchment Wrist Shot saved by Daniil Tarasov,2022-12-20T00:14:55Z,1,04:43,15:17,0,0,25.0,Dallas Stars,DAL
+25,29,25,Columbus Blue Jackets,Dallas Stars,202202050215,2022020502,Stoppage,15,STOP,Net Dislodged Defensive Skater,2022-12-20T00:14:56Z,1,04:44,15:16,0,0,,,
+26,29,25,Columbus Blue Jackets,Dallas Stars,202202050257,2022020502,Faceoff,57,FACEOFF,Jamie Benn faceoff won against Mathieu Olivier,2022-12-20T00:15:58Z,1,04:44,15:16,0,0,25.0,Dallas Stars,DAL
+27,29,25,Columbus Blue Jackets,Dallas Stars,2022020502161,2022020502,Shot,161,SHOT,Miro Heiskanen Snap Shot saved by Daniil Tarasov,2022-12-20T00:16:00Z,1,04:46,15:14,0,0,25.0,Dallas Stars,DAL
+28,29,25,Columbus Blue Jackets,Dallas Stars,202202050216,2022020502,Stoppage,16,STOP,Goalie Stopped,2022-12-20T00:16:01Z,1,04:47,15:13,0,0,,,
+29,29,25,Columbus Blue Jackets,Dallas Stars,202202050258,2022020502,Faceoff,58,FACEOFF,Jamie Benn faceoff won against Sean Kuraly,2022-12-20T00:16:16Z,1,04:47,15:13,0,0,25.0,Dallas Stars,DAL
+30,29,25,Columbus Blue Jackets,Dallas Stars,2022020502162,2022020502,Shot,162,SHOT,Mason Marchment Deflected saved by Daniil Tarasov,2022-12-20T00:16:20Z,1,04:51,15:09,0,0,25.0,Dallas Stars,DAL
+31,29,25,Columbus Blue Jackets,Dallas Stars,202202050217,2022020502,Hit,17,HIT,Eric Robinson hit Colin Miller,2022-12-20T00:16:59Z,1,05:30,14:30,0,0,29.0,Columbus Blue Jackets,CBJ
+32,29,25,Columbus Blue Jackets,Dallas Stars,202202050218,2022020502,Hit,18,HIT,Eric Robinson hit Colin Miller,2022-12-20T00:17:04Z,1,05:35,14:25,0,0,29.0,Columbus Blue Jackets,CBJ
+33,29,25,Columbus Blue Jackets,Dallas Stars,202202050259,2022020502,Takeaway,59,TAKEAWAY,Takeaway by Eric Robinson,2022-12-20T00:17:12Z,1,05:43,14:17,0,0,29.0,Columbus Blue Jackets,CBJ
+34,29,25,Columbus Blue Jackets,Dallas Stars,2022020502166,2022020502,Blocked Shot,166,BLOCKED_SHOT,Tim Berni shot blocked shot by Ryan Suter,2022-12-20T00:17:16Z,1,05:47,14:13,0,0,25.0,Dallas Stars,DAL
+35,29,25,Columbus Blue Jackets,Dallas Stars,2022020502163,2022020502,Missed Shot,163,MISSED_SHOT,Sean Kuraly Wide of Net Jake Oettinger,2022-12-20T00:17:21Z,1,05:52,14:08,0,0,29.0,Columbus Blue Jackets,CBJ
+36,29,25,Columbus Blue Jackets,Dallas Stars,2022020502164,2022020502,Shot,164,SHOT,Erik Gudbranson Wrist Shot saved by Jake Oettinger,2022-12-20T00:17:23Z,1,05:54,14:06,0,0,29.0,Columbus Blue Jackets,CBJ
+37,29,25,Columbus Blue Jackets,Dallas Stars,202202050219,2022020502,Stoppage,19,STOP,Goalie Stopped,2022-12-20T00:17:25Z,1,05:56,14:04,0,0,,,
+38,29,25,Columbus Blue Jackets,Dallas Stars,202202050260,2022020502,Faceoff,60,FACEOFF,Roope Hintz faceoff won against Jack Roslovic,2022-12-20T00:18:05Z,1,05:56,14:04,0,0,25.0,Dallas Stars,DAL
+39,29,25,Columbus Blue Jackets,Dallas Stars,2022020502167,2022020502,Shot,167,SHOT,Carson Meyer Wrist Shot saved by Jake Oettinger,2022-12-20T00:18:19Z,1,06:10,13:50,0,0,29.0,Columbus Blue Jackets,CBJ
+40,29,25,Columbus Blue Jackets,Dallas Stars,2022020502168,2022020502,Shot,168,SHOT,Jason Robertson Wrist Shot saved by Daniil Tarasov,2022-12-20T00:18:32Z,1,06:23,13:37,0,0,25.0,Dallas Stars,DAL
+41,29,25,Columbus Blue Jackets,Dallas Stars,202202050220,2022020502,Stoppage,20,STOP,Goalie Stopped,2022-12-20T00:18:34Z,1,06:24,13:36,0,0,,,
+42,29,25,Columbus Blue Jackets,Dallas Stars,202202050261,2022020502,Faceoff,61,FACEOFF,Joe Pavelski faceoff won against Sean Kuraly,2022-12-20T00:20:51Z,1,06:24,13:36,0,0,25.0,Dallas Stars,DAL
+43,29,25,Columbus Blue Jackets,Dallas Stars,2022020502169,2022020502,Blocked Shot,169,BLOCKED_SHOT,Miro Heiskanen shot blocked shot by Marcus Bjork,2022-12-20T00:21:16Z,1,06:49,13:11,0,0,29.0,Columbus Blue Jackets,CBJ
+44,29,25,Columbus Blue Jackets,Dallas Stars,202202050222,2022020502,Hit,22,HIT,Marcus Bjork hit Miro Heiskanen,2022-12-20T00:21:18Z,1,06:51,13:09,0,0,29.0,Columbus Blue Jackets,CBJ
+45,29,25,Columbus Blue Jackets,Dallas Stars,202202050262,2022020502,Giveaway,62,GIVEAWAY,Giveaway by Tim Berni,2022-12-20T00:21:52Z,1,07:25,12:35,0,0,29.0,Columbus Blue Jackets,CBJ
+46,29,25,Columbus Blue Jackets,Dallas Stars,2022020502170,2022020502,Shot,170,SHOT,Joel Kiviranta Wrist Shot saved by Daniil Tarasov,2022-12-20T00:21:55Z,1,07:28,12:32,0,0,25.0,Dallas Stars,DAL
+47,29,25,Columbus Blue Jackets,Dallas Stars,202202050223,2022020502,Stoppage,23,STOP,Puck in Netting,2022-12-20T00:22:04Z,1,07:36,12:24,0,0,,,
+48,29,25,Columbus Blue Jackets,Dallas Stars,2022020502171,2022020502,Blocked Shot,171,BLOCKED_SHOT,Tyler Seguin shot blocked shot by Tim Berni,2022-12-20T00:22:04Z,1,07:36,12:24,0,0,29.0,Columbus Blue Jackets,CBJ
+49,29,25,Columbus Blue Jackets,Dallas Stars,202202050263,2022020502,Faceoff,63,FACEOFF,Sean Kuraly faceoff won against Wyatt Johnston,2022-12-20T00:22:42Z,1,07:36,12:24,0,0,29.0,Columbus Blue Jackets,CBJ
+50,29,25,Columbus Blue Jackets,Dallas Stars,202202050264,2022020502,Giveaway,64,GIVEAWAY,Giveaway by Erik Gudbranson,2022-12-20T00:22:56Z,1,07:50,12:10,0,0,29.0,Columbus Blue Jackets,CBJ
+51,29,25,Columbus Blue Jackets,Dallas Stars,2022020502172,2022020502,Blocked Shot,172,BLOCKED_SHOT,Wyatt Johnston shot blocked shot by Tim Berni,2022-12-20T00:23:02Z,1,07:56,12:04,0,0,29.0,Columbus Blue Jackets,CBJ
+52,29,25,Columbus Blue Jackets,Dallas Stars,2022020502173,2022020502,Shot,173,SHOT,Johnny Gaudreau Wrist Shot saved by Jake Oettinger,2022-12-20T00:23:31Z,1,08:25,11:35,0,0,29.0,Columbus Blue Jackets,CBJ
+53,29,25,Columbus Blue Jackets,Dallas Stars,202202050224,2022020502,Hit,24,HIT,Andrew Peeke hit Riley Tufte,2022-12-20T00:23:41Z,1,08:35,11:25,0,0,29.0,Columbus Blue Jackets,CBJ
+54,29,25,Columbus Blue Jackets,Dallas Stars,2022020502174,2022020502,Shot,174,SHOT,Riley Tufte Wrap-around saved by Daniil Tarasov,2022-12-20T00:23:48Z,1,08:42,11:18,0,0,25.0,Dallas Stars,DAL
+55,29,25,Columbus Blue Jackets,Dallas Stars,202202050225,2022020502,Stoppage,25,STOP,Goalie Stopped,2022-12-20T00:23:50Z,1,08:44,11:16,0,0,,,
+56,29,25,Columbus Blue Jackets,Dallas Stars,202202050265,2022020502,Faceoff,65,FACEOFF,Jack Roslovic faceoff won against Luke Glendening,2022-12-20T00:24:41Z,1,08:44,11:16,0,0,29.0,Columbus Blue Jackets,CBJ
+57,29,25,Columbus Blue Jackets,Dallas Stars,202202050266,2022020502,Giveaway,66,GIVEAWAY,Giveaway by Jack Roslovic,2022-12-20T00:25:03Z,1,09:06,10:54,0,0,29.0,Columbus Blue Jackets,CBJ
+58,29,25,Columbus Blue Jackets,Dallas Stars,202202050226,2022020502,Stoppage,26,STOP,Icing,2022-12-20T00:25:09Z,1,09:11,10:49,0,0,,,
+59,29,25,Columbus Blue Jackets,Dallas Stars,202202050267,2022020502,Faceoff,67,FACEOFF,Joe Pavelski faceoff won against Patrik Laine,2022-12-20T00:25:42Z,1,09:11,10:49,0,0,25.0,Dallas Stars,DAL
+60,29,25,Columbus Blue Jackets,Dallas Stars,2022020502175,2022020502,Shot,175,SHOT,Jason Robertson Snap Shot saved by Daniil Tarasov,2022-12-20T00:26:08Z,1,09:37,10:23,0,0,25.0,Dallas Stars,DAL
+61,29,25,Columbus Blue Jackets,Dallas Stars,2022020502176,2022020502,Blocked Shot,176,BLOCKED_SHOT,Miro Heiskanen shot blocked shot by Marcus Bjork,2022-12-20T00:26:25Z,1,09:54,10:06,0,0,29.0,Columbus Blue Jackets,CBJ
+62,29,25,Columbus Blue Jackets,Dallas Stars,2022020502177,2022020502,Shot,177,SHOT,Jason Robertson Wrist Shot saved by Daniil Tarasov,2022-12-20T00:26:37Z,1,10:06,09:54,0,0,25.0,Dallas Stars,DAL
+63,29,25,Columbus Blue Jackets,Dallas Stars,202202050227,2022020502,Stoppage,27,STOP,Puck Frozen,2022-12-20T00:26:45Z,1,10:14,09:46,0,0,,,
+64,29,25,Columbus Blue Jackets,Dallas Stars,202202050268,2022020502,Faceoff,68,FACEOFF,Jamie Benn faceoff won against Gustav Nyquist,2022-12-20T00:29:12Z,1,10:14,09:46,0,0,25.0,Dallas Stars,DAL
+65,29,25,Columbus Blue Jackets,Dallas Stars,2022020502179,2022020502,Shot,179,SHOT,Kirill Marchenko Slap Shot saved by Jake Oettinger,2022-12-20T00:29:35Z,1,10:37,09:23,0,0,29.0,Columbus Blue Jackets,CBJ
+66,29,25,Columbus Blue Jackets,Dallas Stars,2022020502180,2022020502,Blocked Shot,180,BLOCKED_SHOT,Tim Berni shot blocked shot by Mason Marchment,2022-12-20T00:29:41Z,1,10:43,09:17,0,0,25.0,Dallas Stars,DAL
+67,29,25,Columbus Blue Jackets,Dallas Stars,2022020502181,2022020502,Missed Shot,181,MISSED_SHOT,Tim Berni Wide of Net Jake Oettinger,2022-12-20T00:29:53Z,1,10:55,09:05,0,0,29.0,Columbus Blue Jackets,CBJ
+68,29,25,Columbus Blue Jackets,Dallas Stars,202202050269,2022020502,Takeaway,69,TAKEAWAY,Takeaway by Kent Johnson,2022-12-20T00:30:30Z,1,11:32,08:28,0,0,29.0,Columbus Blue Jackets,CBJ
+69,29,25,Columbus Blue Jackets,Dallas Stars,2022020502182,2022020502,Missed Shot,182,MISSED_SHOT,Johnny Gaudreau Wide of Net Jake Oettinger,2022-12-20T00:30:37Z,1,11:39,08:21,0,0,29.0,Columbus Blue Jackets,CBJ
+70,29,25,Columbus Blue Jackets,Dallas Stars,202202050228,2022020502,Hit,28,HIT,Carson Meyer hit Radek Faksa,2022-12-20T00:31:21Z,1,12:23,07:37,0,0,29.0,Columbus Blue Jackets,CBJ
+71,29,25,Columbus Blue Jackets,Dallas Stars,2022020502185,2022020502,Missed Shot,185,MISSED_SHOT,Jani Hakanpää Wide of Net Daniil Tarasov,2022-12-20T00:31:23Z,1,12:25,07:35,0,0,25.0,Dallas Stars,DAL
+72,29,25,Columbus Blue Jackets,Dallas Stars,2022020502401,2022020502,Blocked Shot,401,BLOCKED_SHOT,Esa Lindell shot blocked shot by Erik Gudbranson,2022-12-20T00:31:24Z,1,12:26,07:34,0,0,29.0,Columbus Blue Jackets,CBJ
+73,29,25,Columbus Blue Jackets,Dallas Stars,2022020502186,2022020502,Shot,186,SHOT,Eric Robinson Wrist Shot saved by Jake Oettinger,2022-12-20T00:31:53Z,1,12:55,07:05,0,0,29.0,Columbus Blue Jackets,CBJ
+74,29,25,Columbus Blue Jackets,Dallas Stars,2022020502187,2022020502,Shot,187,SHOT,Jack Roslovic Backhand saved by Jake Oettinger,2022-12-20T00:33:01Z,1,14:03,05:57,0,0,29.0,Columbus Blue Jackets,CBJ
+75,29,25,Columbus Blue Jackets,Dallas Stars,202202050229,2022020502,Stoppage,29,STOP,Goalie Stopped,2022-12-20T00:33:01Z,1,14:04,05:56,0,0,,,
+76,29,25,Columbus Blue Jackets,Dallas Stars,202202050270,2022020502,Faceoff,70,FACEOFF,Tyler Seguin faceoff won against Kent Johnson,2022-12-20T00:35:12Z,1,14:04,05:56,0,0,25.0,Dallas Stars,DAL
+77,29,25,Columbus Blue Jackets,Dallas Stars,202202050230,2022020502,Hit,30,HIT,Erik Gudbranson hit Ty Dellandrea,2022-12-20T00:35:26Z,1,14:18,05:42,0,0,29.0,Columbus Blue Jackets,CBJ
+78,29,25,Columbus Blue Jackets,Dallas Stars,2022020502188,2022020502,Blocked Shot,188,BLOCKED_SHOT,Tyler Seguin shot blocked shot by Erik Gudbranson,2022-12-20T00:35:40Z,1,14:32,05:28,0,0,29.0,Columbus Blue Jackets,CBJ
+79,29,25,Columbus Blue Jackets,Dallas Stars,2022020502189,2022020502,Shot,189,SHOT,Kent Johnson Snap Shot saved by Jake Oettinger,2022-12-20T00:35:53Z,1,14:45,05:15,0,0,29.0,Columbus Blue Jackets,CBJ
+80,29,25,Columbus Blue Jackets,Dallas Stars,202202050231,2022020502,Stoppage,31,STOP,Goalie Stopped,2022-12-20T00:35:54Z,1,14:46,05:14,0,0,,,
+81,29,25,Columbus Blue Jackets,Dallas Stars,202202050271,2022020502,Faceoff,71,FACEOFF,Josh Dunne faceoff won against Luke Glendening,2022-12-20T00:36:23Z,1,14:46,05:14,0,0,29.0,Columbus Blue Jackets,CBJ
+82,29,25,Columbus Blue Jackets,Dallas Stars,2022020502302,2022020502,Shot,302,SHOT,Carson Meyer Wrist Shot saved by Jake Oettinger,2022-12-20T00:36:24Z,1,14:47,05:13,0,0,29.0,Columbus Blue Jackets,CBJ
+83,29,25,Columbus Blue Jackets,Dallas Stars,2022020502301,2022020502,Blocked Shot,301,BLOCKED_SHOT,Mathieu Olivier shot blocked shot by Luke Glendening,2022-12-20T00:36:26Z,1,14:49,05:11,0,0,25.0,Dallas Stars,DAL
+84,29,25,Columbus Blue Jackets,Dallas Stars,202202050232,2022020502,Hit,32,HIT,Jake Christiansen hit Radek Faksa,2022-12-20T00:36:35Z,1,14:58,05:02,0,0,29.0,Columbus Blue Jackets,CBJ
+85,29,25,Columbus Blue Jackets,Dallas Stars,202202050233,2022020502,Stoppage,33,STOP,Icing,2022-12-20T00:36:43Z,1,15:06,04:54,0,0,,,
+86,29,25,Columbus Blue Jackets,Dallas Stars,202202050272,2022020502,Faceoff,72,FACEOFF,Jack Roslovic faceoff won against Radek Faksa,2022-12-20T00:37:13Z,1,15:06,04:54,0,0,29.0,Columbus Blue Jackets,CBJ
+87,29,25,Columbus Blue Jackets,Dallas Stars,2022020502190,2022020502,Missed Shot,190,MISSED_SHOT,Jake Christiansen Wide of Net Jake Oettinger,2022-12-20T00:37:20Z,1,15:13,04:47,0,0,29.0,Columbus Blue Jackets,CBJ
+88,29,25,Columbus Blue Jackets,Dallas Stars,2022020502191,2022020502,Shot,191,SHOT,Andrew Peeke Snap Shot saved by Jake Oettinger,2022-12-20T00:37:26Z,1,15:19,04:41,0,0,29.0,Columbus Blue Jackets,CBJ
+89,29,25,Columbus Blue Jackets,Dallas Stars,2022020502192,2022020502,Missed Shot,192,MISSED_SHOT,Jake Christiansen Wide of Net Jake Oettinger,2022-12-20T00:37:33Z,1,15:26,04:34,0,0,29.0,Columbus Blue Jackets,CBJ
+90,29,25,Columbus Blue Jackets,Dallas Stars,202202050234,2022020502,Hit,34,HIT,Mathieu Olivier hit Nils Lundkvist,2022-12-20T00:38:24Z,1,16:17,03:43,0,0,29.0,Columbus Blue Jackets,CBJ
+91,29,25,Columbus Blue Jackets,Dallas Stars,2022020502193,2022020502,Blocked Shot,193,BLOCKED_SHOT,Miro Heiskanen shot blocked shot by Vladislav Gavrikov,2022-12-20T00:38:38Z,1,16:31,03:29,0,0,29.0,Columbus Blue Jackets,CBJ
+92,29,25,Columbus Blue Jackets,Dallas Stars,202202050235,2022020502,Hit,35,HIT,Eric Robinson hit Nils Lundkvist,2022-12-20T00:38:44Z,1,16:37,03:23,0,0,29.0,Columbus Blue Jackets,CBJ
+93,29,25,Columbus Blue Jackets,Dallas Stars,2022020502194,2022020502,Shot,194,SHOT,Mason Marchment Snap Shot saved by Daniil Tarasov,2022-12-20T00:39:01Z,1,16:54,03:06,0,0,25.0,Dallas Stars,DAL
+94,29,25,Columbus Blue Jackets,Dallas Stars,2022020502195,2022020502,Shot,195,SHOT,Mason Marchment Snap Shot saved by Daniil Tarasov,2022-12-20T00:39:05Z,1,16:58,03:02,0,0,25.0,Dallas Stars,DAL
+95,29,25,Columbus Blue Jackets,Dallas Stars,202202050236,2022020502,Stoppage,36,STOP,Puck in Netting,2022-12-20T00:39:51Z,1,17:44,02:16,0,0,,,
+96,29,25,Columbus Blue Jackets,Dallas Stars,202202050273,2022020502,Faceoff,73,FACEOFF,Tyler Seguin faceoff won against Josh Dunne,2022-12-20T00:40:22Z,1,17:44,02:16,0,0,25.0,Dallas Stars,DAL
+97,29,25,Columbus Blue Jackets,Dallas Stars,2022020502196,2022020502,Shot,196,SHOT,Nils Lundkvist Wrist Shot saved by Daniil Tarasov,2022-12-20T00:40:29Z,1,17:51,02:09,0,0,25.0,Dallas Stars,DAL
+98,29,25,Columbus Blue Jackets,Dallas Stars,202202050237,2022020502,Hit,37,HIT,Carson Meyer hit Miro Heiskanen,2022-12-20T00:40:50Z,1,18:12,01:48,0,0,29.0,Columbus Blue Jackets,CBJ
+99,29,25,Columbus Blue Jackets,Dallas Stars,202202050238,2022020502,Hit,38,HIT,Ty Dellandrea hit Andrew Peeke,2022-12-20T00:40:54Z,1,18:16,01:44,0,0,25.0,Dallas Stars,DAL
+100,29,25,Columbus Blue Jackets,Dallas Stars,202202050274,2022020502,Takeaway,74,TAKEAWAY,Takeaway by Kirill Marchenko,2022-12-20T00:41:04Z,1,18:26,01:34,0,0,29.0,Columbus Blue Jackets,CBJ
+101,29,25,Columbus Blue Jackets,Dallas Stars,2022020502197,2022020502,Shot,197,SHOT,Jack Roslovic Wrist Shot saved by Jake Oettinger,2022-12-20T00:41:15Z,1,18:37,01:23,0,0,29.0,Columbus Blue Jackets,CBJ
+102,29,25,Columbus Blue Jackets,Dallas Stars,202202050239,2022020502,Hit,39,HIT,Erik Gudbranson hit Ty Dellandrea,2022-12-20T00:41:30Z,1,18:52,01:08,0,0,29.0,Columbus Blue Jackets,CBJ
+103,29,25,Columbus Blue Jackets,Dallas Stars,202202050275,2022020502,Takeaway,75,TAKEAWAY,Takeaway by Kirill Marchenko,2022-12-20T00:41:48Z,1,19:10,00:50,0,0,29.0,Columbus Blue Jackets,CBJ
+104,29,25,Columbus Blue Jackets,Dallas Stars,2022020502198,2022020502,Shot,198,SHOT,Ryan Suter Snap Shot saved by Daniil Tarasov,2022-12-20T00:42:04Z,1,19:26,00:34,0,0,25.0,Dallas Stars,DAL
+105,29,25,Columbus Blue Jackets,Dallas Stars,2022020502199,2022020502,Missed Shot,199,MISSED_SHOT,Ryan Suter Wide of Net Daniil Tarasov,2022-12-20T00:42:06Z,1,19:28,00:32,0,0,25.0,Dallas Stars,DAL
+106,29,25,Columbus Blue Jackets,Dallas Stars,202202050240,2022020502,Stoppage,40,STOP,Icing,2022-12-20T00:42:17Z,1,19:39,00:21,0,0,,,
+107,29,25,Columbus Blue Jackets,Dallas Stars,202202050276,2022020502,Faceoff,76,FACEOFF,Joe Pavelski faceoff won against Kent Johnson,2022-12-20T00:42:44Z,1,19:39,00:21,0,0,25.0,Dallas Stars,DAL
+108,29,25,Columbus Blue Jackets,Dallas Stars,2022020502200,2022020502,Missed Shot,200,MISSED_SHOT,Patrik Laine Wide of Net Jake Oettinger,2022-12-20T00:42:57Z,1,19:53,00:07,0,0,29.0,Columbus Blue Jackets,CBJ
+109,29,25,Columbus Blue Jackets,Dallas Stars,202202050241,2022020502,Period End,41,PERIOD_END,End of 1st Period,2022-12-20T00:43:04Z,1,20:00,00:00,0,0,,,
+110,29,25,Columbus Blue Jackets,Dallas Stars,202202050244,2022020502,Period Official,44,PERIOD_OFFICIAL,Period Official,2022-12-20T00:57:24Z,1,20:00,00:00,0,0,,,
+111,29,25,Columbus Blue Jackets,Dallas Stars,202202050245,2022020502,Period Ready,45,PERIOD_READY,Period Ready,2022-12-20T00:59:37Z,2,00:00,20:00,0,0,,,
+112,29,25,Columbus Blue Jackets,Dallas Stars,202202050277,2022020502,Period Start,77,PERIOD_START,Period Start,2022-12-20T01:01:48Z,2,00:00,20:00,0,0,,,
+113,29,25,Columbus Blue Jackets,Dallas Stars,202202050278,2022020502,Faceoff,78,FACEOFF,Sean Kuraly faceoff won against Roope Hintz,2022-12-20T01:01:48Z,2,00:00,20:00,0,0,29.0,Columbus Blue Jackets,CBJ
+114,29,25,Columbus Blue Jackets,Dallas Stars,202202050246,2022020502,Stoppage,46,STOP,Referee or Linesman,2022-12-20T01:01:58Z,2,00:10,19:50,0,0,,,
+115,29,25,Columbus Blue Jackets,Dallas Stars,202202050279,2022020502,Faceoff,79,FACEOFF,Sean Kuraly faceoff won against Roope Hintz,2022-12-20T01:02:39Z,2,00:10,19:50,0,0,29.0,Columbus Blue Jackets,CBJ
+116,29,25,Columbus Blue Jackets,Dallas Stars,202202050247,2022020502,Hit,47,HIT,Sean Kuraly hit Nils Lundkvist,2022-12-20T01:03:02Z,2,00:33,19:27,0,0,29.0,Columbus Blue Jackets,CBJ
+117,29,25,Columbus Blue Jackets,Dallas Stars,2022020502303,2022020502,Shot,303,SHOT,Miro Heiskanen Snap Shot saved by Daniil Tarasov,2022-12-20T01:03:09Z,2,00:40,19:20,0,0,25.0,Dallas Stars,DAL
+118,29,25,Columbus Blue Jackets,Dallas Stars,2022020502304,2022020502,Shot,304,SHOT,Roope Hintz Batted saved by Daniil Tarasov,2022-12-20T01:03:10Z,2,00:41,19:19,0,0,25.0,Dallas Stars,DAL
+119,29,25,Columbus Blue Jackets,Dallas Stars,202202050248,2022020502,Stoppage,48,STOP,Goalie Stopped,2022-12-20T01:03:10Z,2,00:42,19:18,0,0,,,
+120,29,25,Columbus Blue Jackets,Dallas Stars,202202050281,2022020502,Faceoff,81,FACEOFF,Jamie Benn faceoff won against Patrik Laine,2022-12-20T01:03:59Z,2,00:42,19:18,0,0,25.0,Dallas Stars,DAL
+121,29,25,Columbus Blue Jackets,Dallas Stars,2022020502305,2022020502,Shot,305,SHOT,Ryan Suter Snap Shot saved by Daniil Tarasov,2022-12-20T01:04:10Z,2,00:53,19:07,0,0,25.0,Dallas Stars,DAL
+122,29,25,Columbus Blue Jackets,Dallas Stars,2022020502307,2022020502,Goal,307,GOAL,"Wyatt Johnston (8) Snap Shot, assists: Ryan Suter (7), Jamie Benn (17)",2022-12-20T01:04:11Z,2,00:55,19:05,0,1,25.0,Dallas Stars,DAL
+123,29,25,Columbus Blue Jackets,Dallas Stars,202202050282,2022020502,Faceoff,82,FACEOFF,Kent Johnson faceoff won against Tyler Seguin,2022-12-20T01:04:49Z,2,00:55,19:05,0,1,29.0,Columbus Blue Jackets,CBJ
+124,29,25,Columbus Blue Jackets,Dallas Stars,2022020502308,2022020502,Shot,308,SHOT,Patrik Laine Wrist Shot saved by Jake Oettinger,2022-12-20T01:05:03Z,2,01:09,18:51,0,1,29.0,Columbus Blue Jackets,CBJ
+125,29,25,Columbus Blue Jackets,Dallas Stars,2022020502309,2022020502,Blocked Shot,309,BLOCKED_SHOT,Patrik Laine shot blocked shot by Ty Dellandrea,2022-12-20T01:05:22Z,2,01:28,18:32,0,1,25.0,Dallas Stars,DAL
+126,29,25,Columbus Blue Jackets,Dallas Stars,2022020502310,2022020502,Blocked Shot,310,BLOCKED_SHOT,Andrew Peeke shot blocked shot by Esa Lindell,2022-12-20T01:05:31Z,2,01:37,18:23,0,1,25.0,Dallas Stars,DAL
+127,29,25,Columbus Blue Jackets,Dallas Stars,202202050249,2022020502,Stoppage,49,STOP,Puck in Benches,2022-12-20T01:05:34Z,2,01:40,18:20,0,1,,,
+128,29,25,Columbus Blue Jackets,Dallas Stars,202202050283,2022020502,Faceoff,83,FACEOFF,Radek Faksa faceoff won against Jack Roslovic,2022-12-20T01:06:07Z,2,01:40,18:20,0,1,25.0,Dallas Stars,DAL
+129,29,25,Columbus Blue Jackets,Dallas Stars,2022020502311,2022020502,Blocked Shot,311,BLOCKED_SHOT,Radek Faksa shot blocked shot by Erik Gudbranson,2022-12-20T01:06:24Z,2,01:57,18:03,0,1,29.0,Columbus Blue Jackets,CBJ
+130,29,25,Columbus Blue Jackets,Dallas Stars,202202050250,2022020502,Hit,50,HIT,Erik Gudbranson hit Radek Faksa,2022-12-20T01:06:42Z,2,02:15,17:45,0,1,29.0,Columbus Blue Jackets,CBJ
+131,29,25,Columbus Blue Jackets,Dallas Stars,202202050284,2022020502,Giveaway,84,GIVEAWAY,Giveaway by Daniil Tarasov,2022-12-20T01:07:05Z,2,02:38,17:22,0,1,29.0,Columbus Blue Jackets,CBJ
+132,29,25,Columbus Blue Jackets,Dallas Stars,2022020502312,2022020502,Blocked Shot,312,BLOCKED_SHOT,Ryan Suter shot blocked shot by Tim Berni,2022-12-20T01:07:22Z,2,02:55,17:05,0,1,29.0,Columbus Blue Jackets,CBJ
+133,29,25,Columbus Blue Jackets,Dallas Stars,2022020502251,2022020502,Stoppage,251,STOP,Puck in Netting,2022-12-20T01:07:33Z,2,03:06,16:54,0,1,,,
+134,29,25,Columbus Blue Jackets,Dallas Stars,2022020502313,2022020502,Blocked Shot,313,BLOCKED_SHOT,Colin Miller shot blocked shot by Tim Berni,2022-12-20T01:07:33Z,2,03:06,16:54,0,1,29.0,Columbus Blue Jackets,CBJ
+135,29,25,Columbus Blue Jackets,Dallas Stars,202202050285,2022020502,Faceoff,85,FACEOFF,Sean Kuraly faceoff won against Wyatt Johnston,2022-12-20T01:08:05Z,2,03:06,16:54,0,1,29.0,Columbus Blue Jackets,CBJ
+136,29,25,Columbus Blue Jackets,Dallas Stars,2022020502252,2022020502,Hit,252,HIT,Jamie Benn hit Marcus Bjork,2022-12-20T01:08:08Z,2,03:09,16:51,0,1,25.0,Dallas Stars,DAL
+137,29,25,Columbus Blue Jackets,Dallas Stars,2022020502314,2022020502,Missed Shot,314,MISSED_SHOT,Jamie Benn Wide of Net Daniil Tarasov,2022-12-20T01:08:16Z,2,03:17,16:43,0,1,25.0,Dallas Stars,DAL
+138,29,25,Columbus Blue Jackets,Dallas Stars,2022020502316,2022020502,Shot,316,SHOT,Mason Marchment Wrist Shot saved by Daniil Tarasov,2022-12-20T01:08:20Z,2,03:21,16:39,0,1,25.0,Dallas Stars,DAL
+139,29,25,Columbus Blue Jackets,Dallas Stars,2022020502317,2022020502,Shot,317,SHOT,Mason Marchment Wrist Shot saved by Daniil Tarasov,2022-12-20T01:08:23Z,2,03:24,16:36,0,1,25.0,Dallas Stars,DAL
+140,29,25,Columbus Blue Jackets,Dallas Stars,202202050286,2022020502,Takeaway,86,TAKEAWAY,Takeaway by Sean Kuraly,2022-12-20T01:08:30Z,2,03:31,16:29,0,1,29.0,Columbus Blue Jackets,CBJ
+141,29,25,Columbus Blue Jackets,Dallas Stars,2022020502253,2022020502,Hit,253,HIT,Mathieu Olivier hit Wyatt Johnston,2022-12-20T01:08:39Z,2,03:40,16:20,0,1,29.0,Columbus Blue Jackets,CBJ
+142,29,25,Columbus Blue Jackets,Dallas Stars,2022020502254,2022020502,Hit,254,HIT,Andrew Peeke hit Ty Dellandrea,2022-12-20T01:09:12Z,2,04:13,15:47,0,1,29.0,Columbus Blue Jackets,CBJ
+143,29,25,Columbus Blue Jackets,Dallas Stars,202202050287,2022020502,Giveaway,87,GIVEAWAY,Giveaway by Johnny Gaudreau,2022-12-20T01:09:24Z,2,04:25,15:35,0,1,29.0,Columbus Blue Jackets,CBJ
+144,29,25,Columbus Blue Jackets,Dallas Stars,202202050288,2022020502,Takeaway,88,TAKEAWAY,Takeaway by Jake Christiansen,2022-12-20T01:09:39Z,2,04:40,15:20,0,1,29.0,Columbus Blue Jackets,CBJ
+145,29,25,Columbus Blue Jackets,Dallas Stars,202202050289,2022020502,Takeaway,89,TAKEAWAY,Takeaway by Joe Pavelski,2022-12-20T01:09:45Z,2,04:46,15:14,0,1,25.0,Dallas Stars,DAL
+146,29,25,Columbus Blue Jackets,Dallas Stars,2022020502318,2022020502,Missed Shot,318,MISSED_SHOT,Ryan Suter Wide of Net Daniil Tarasov,2022-12-20T01:10:06Z,2,05:07,14:53,0,1,25.0,Dallas Stars,DAL
+147,29,25,Columbus Blue Jackets,Dallas Stars,2022020502319,2022020502,Blocked Shot,319,BLOCKED_SHOT,Riley Tufte shot blocked shot by Andrew Peeke,2022-12-20T01:10:12Z,2,05:13,14:47,0,1,29.0,Columbus Blue Jackets,CBJ
+148,29,25,Columbus Blue Jackets,Dallas Stars,2022020502255,2022020502,Hit,255,HIT,Riley Tufte hit Andrew Peeke,2022-12-20T01:10:24Z,2,05:25,14:35,0,1,25.0,Dallas Stars,DAL
+149,29,25,Columbus Blue Jackets,Dallas Stars,2022020502320,2022020502,Missed Shot,320,MISSED_SHOT,Jake Christiansen Wide of Net Jake Oettinger,2022-12-20T01:10:31Z,2,05:32,14:28,0,1,29.0,Columbus Blue Jackets,CBJ
+150,29,25,Columbus Blue Jackets,Dallas Stars,2022020502321,2022020502,Missed Shot,321,MISSED_SHOT,Tim Berni Wide of Net Jake Oettinger,2022-12-20T01:10:53Z,2,05:54,14:06,0,1,29.0,Columbus Blue Jackets,CBJ
+151,29,25,Columbus Blue Jackets,Dallas Stars,2022020502322,2022020502,Missed Shot,322,MISSED_SHOT,Mathieu Olivier Wide of Net Jake Oettinger,2022-12-20T01:10:59Z,2,06:00,14:00,0,1,29.0,Columbus Blue Jackets,CBJ
+152,29,25,Columbus Blue Jackets,Dallas Stars,2022020502323,2022020502,Missed Shot,323,MISSED_SHOT,Eric Robinson Wide of Net Jake Oettinger,2022-12-20T01:11:15Z,2,06:16,13:44,0,1,29.0,Columbus Blue Jackets,CBJ
+153,29,25,Columbus Blue Jackets,Dallas Stars,2022020502324,2022020502,Missed Shot,324,MISSED_SHOT,Erik Gudbranson Wide of Net Jake Oettinger,2022-12-20T01:11:21Z,2,06:22,13:38,0,1,29.0,Columbus Blue Jackets,CBJ
+154,29,25,Columbus Blue Jackets,Dallas Stars,2022020502325,2022020502,Shot,325,SHOT,Joe Pavelski Snap Shot saved by Daniil Tarasov,2022-12-20T01:11:37Z,2,06:38,13:22,0,1,25.0,Dallas Stars,DAL
+155,29,25,Columbus Blue Jackets,Dallas Stars,2022020502326,2022020502,Shot,326,SHOT,Jack Roslovic Wrist Shot saved by Jake Oettinger,2022-12-20T01:11:51Z,2,06:52,13:08,0,1,29.0,Columbus Blue Jackets,CBJ
+156,29,25,Columbus Blue Jackets,Dallas Stars,2022020502256,2022020502,Stoppage,256,STOP,Puck Frozen,2022-12-20T01:11:51Z,2,06:53,13:07,0,1,,,
+157,29,25,Columbus Blue Jackets,Dallas Stars,202202050290,2022020502,Faceoff,90,FACEOFF,Wyatt Johnston faceoff won against Jack Roslovic,2022-12-20T01:14:06Z,2,06:53,13:07,0,1,25.0,Dallas Stars,DAL
+158,29,25,Columbus Blue Jackets,Dallas Stars,2022020502257,2022020502,Stoppage,257,STOP,Goalie Stopped,2022-12-20T01:14:30Z,2,07:17,12:43,0,1,,,
+159,29,25,Columbus Blue Jackets,Dallas Stars,2022020502327,2022020502,Shot,327,SHOT,Jack Roslovic Wrist Shot saved by Jake Oettinger,2022-12-20T01:14:30Z,2,07:17,12:43,0,1,29.0,Columbus Blue Jackets,CBJ
+160,29,25,Columbus Blue Jackets,Dallas Stars,202202050291,2022020502,Faceoff,91,FACEOFF,Tyler Seguin faceoff won against Kent Johnson,2022-12-20T01:15:13Z,2,07:17,12:43,0,1,25.0,Dallas Stars,DAL
+161,29,25,Columbus Blue Jackets,Dallas Stars,2022020502328,2022020502,Blocked Shot,328,BLOCKED_SHOT,Kent Johnson shot blocked shot by Nils Lundkvist,2022-12-20T01:15:34Z,2,07:38,12:22,0,1,25.0,Dallas Stars,DAL
+162,29,25,Columbus Blue Jackets,Dallas Stars,2022020502258,2022020502,Hit,258,HIT,Andrew Peeke hit Joel Kiviranta,2022-12-20T01:15:53Z,2,07:57,12:03,0,1,29.0,Columbus Blue Jackets,CBJ
+163,29,25,Columbus Blue Jackets,Dallas Stars,2022020502330,2022020502,Missed Shot,330,MISSED_SHOT,Tim Berni Wide of Net Jake Oettinger,2022-12-20T01:16:34Z,2,08:38,11:22,0,1,29.0,Columbus Blue Jackets,CBJ
+164,29,25,Columbus Blue Jackets,Dallas Stars,2022020502331,2022020502,Missed Shot,331,MISSED_SHOT,Erik Gudbranson Wide of Net Jake Oettinger,2022-12-20T01:16:39Z,2,08:43,11:17,0,1,29.0,Columbus Blue Jackets,CBJ
+165,29,25,Columbus Blue Jackets,Dallas Stars,2022020502259,2022020502,Hit,259,HIT,Radek Faksa hit Carson Meyer,2022-12-20T01:16:49Z,2,08:53,11:07,0,1,25.0,Dallas Stars,DAL
+166,29,25,Columbus Blue Jackets,Dallas Stars,2022020502332,2022020502,Shot,332,SHOT,Roope Hintz Tip-In saved by Daniil Tarasov,2022-12-20T01:17:18Z,2,09:22,10:38,0,1,25.0,Dallas Stars,DAL
+167,29,25,Columbus Blue Jackets,Dallas Stars,2022020502333,2022020502,Shot,333,SHOT,Roope Hintz Backhand saved by Daniil Tarasov,2022-12-20T01:17:19Z,2,09:23,10:37,0,1,25.0,Dallas Stars,DAL
+168,29,25,Columbus Blue Jackets,Dallas Stars,2022020502260,2022020502,Stoppage,260,STOP,Goalie Stopped,2022-12-20T01:17:20Z,2,09:24,10:36,0,1,,,
+169,29,25,Columbus Blue Jackets,Dallas Stars,202202050292,2022020502,Faceoff,92,FACEOFF,Joe Pavelski faceoff won against Sean Kuraly,2022-12-20T01:17:57Z,2,09:24,10:36,0,1,25.0,Dallas Stars,DAL
+170,29,25,Columbus Blue Jackets,Dallas Stars,2022020502261,2022020502,Hit,261,HIT,Sean Kuraly hit Joe Pavelski,2022-12-20T01:18:21Z,2,09:48,10:12,0,1,29.0,Columbus Blue Jackets,CBJ
+171,29,25,Columbus Blue Jackets,Dallas Stars,2022020502334,2022020502,Blocked Shot,334,BLOCKED_SHOT,Mason Marchment shot blocked shot by Andrew Peeke,2022-12-20T01:19:13Z,2,10:40,09:20,0,1,29.0,Columbus Blue Jackets,CBJ
+172,29,25,Columbus Blue Jackets,Dallas Stars,202202050293,2022020502,Giveaway,93,GIVEAWAY,Giveaway by Wyatt Johnston,2022-12-20T01:19:15Z,2,10:42,09:18,0,1,25.0,Dallas Stars,DAL
+173,29,25,Columbus Blue Jackets,Dallas Stars,2022020502335,2022020502,Blocked Shot,335,BLOCKED_SHOT,Tyler Seguin shot blocked shot by Tim Berni,2022-12-20T01:19:47Z,2,11:14,08:46,0,1,29.0,Columbus Blue Jackets,CBJ
+174,29,25,Columbus Blue Jackets,Dallas Stars,2022020502336,2022020502,Blocked Shot,336,BLOCKED_SHOT,Jack Roslovic shot blocked shot by Wyatt Johnston,2022-12-20T01:19:49Z,2,11:16,08:44,0,1,25.0,Dallas Stars,DAL
+175,29,25,Columbus Blue Jackets,Dallas Stars,202202050294,2022020502,Takeaway,94,TAKEAWAY,Takeaway by Tyler Seguin,2022-12-20T01:19:55Z,2,11:22,08:38,0,1,25.0,Dallas Stars,DAL
+176,29,25,Columbus Blue Jackets,Dallas Stars,2022020502402,2022020502,Missed Shot,402,MISSED_SHOT,Colin Miller Wide of Net Daniil Tarasov,2022-12-20T01:19:59Z,2,11:26,08:34,0,1,25.0,Dallas Stars,DAL
+177,29,25,Columbus Blue Jackets,Dallas Stars,2022020502262,2022020502,Hit,262,HIT,Andrew Peeke hit Ty Dellandrea,2022-12-20T01:20:37Z,2,12:04,07:56,0,1,29.0,Columbus Blue Jackets,CBJ
+178,29,25,Columbus Blue Jackets,Dallas Stars,202202050295,2022020502,Giveaway,95,GIVEAWAY,Giveaway by Kent Johnson,2022-12-20T01:20:57Z,2,12:24,07:36,0,1,29.0,Columbus Blue Jackets,CBJ
+179,29,25,Columbus Blue Jackets,Dallas Stars,2022020502337,2022020502,Blocked Shot,337,BLOCKED_SHOT,Radek Faksa shot blocked shot by Erik Gudbranson,2022-12-20T01:21:03Z,2,12:30,07:30,0,1,29.0,Columbus Blue Jackets,CBJ
+180,29,25,Columbus Blue Jackets,Dallas Stars,2022020502263,2022020502,Hit,263,HIT,Marcus Bjork hit Jason Robertson,2022-12-20T01:21:24Z,2,12:51,07:09,0,1,29.0,Columbus Blue Jackets,CBJ
+181,29,25,Columbus Blue Jackets,Dallas Stars,2022020502264,2022020502,Stoppage,264,STOP,Icing,2022-12-20T01:21:36Z,2,13:03,06:57,0,1,,,
+182,29,25,Columbus Blue Jackets,Dallas Stars,202202050296,2022020502,Faceoff,96,FACEOFF,Joe Pavelski faceoff won against Sean Kuraly,2022-12-20T01:22:05Z,2,13:03,06:57,0,1,25.0,Dallas Stars,DAL
+183,29,25,Columbus Blue Jackets,Dallas Stars,2022020502338,2022020502,Shot,338,SHOT,Eric Robinson Tip-In saved by Jake Oettinger,2022-12-20T01:22:23Z,2,13:21,06:39,0,1,29.0,Columbus Blue Jackets,CBJ
+184,29,25,Columbus Blue Jackets,Dallas Stars,2022020502265,2022020502,Stoppage,265,STOP,Puck in Netting,2022-12-20T01:22:34Z,2,13:32,06:28,0,1,,,
+185,29,25,Columbus Blue Jackets,Dallas Stars,2022020502339,2022020502,Blocked Shot,339,BLOCKED_SHOT,Vladislav Gavrikov shot blocked shot by Joe Pavelski,2022-12-20T01:22:34Z,2,13:32,06:28,0,1,25.0,Dallas Stars,DAL
+186,29,25,Columbus Blue Jackets,Dallas Stars,202202050297,2022020502,Faceoff,97,FACEOFF,Wyatt Johnston faceoff won against Jack Roslovic,2022-12-20T01:24:53Z,2,13:32,06:28,0,1,25.0,Dallas Stars,DAL
+187,29,25,Columbus Blue Jackets,Dallas Stars,2022020502340,2022020502,Blocked Shot,340,BLOCKED_SHOT,Colin Miller shot blocked shot by Carson Meyer,2022-12-20T01:25:36Z,2,14:15,05:45,0,1,29.0,Columbus Blue Jackets,CBJ
+188,29,25,Columbus Blue Jackets,Dallas Stars,2022020502341,2022020502,Blocked Shot,341,BLOCKED_SHOT,Jamie Benn shot blocked shot by Erik Gudbranson,2022-12-20T01:25:41Z,2,14:20,05:40,0,1,29.0,Columbus Blue Jackets,CBJ
+189,29,25,Columbus Blue Jackets,Dallas Stars,202202050298,2022020502,Giveaway,98,GIVEAWAY,Giveaway by Tyler Seguin,2022-12-20T01:26:09Z,2,14:48,05:12,0,1,25.0,Dallas Stars,DAL
+190,29,25,Columbus Blue Jackets,Dallas Stars,2022020502342,2022020502,Blocked Shot,342,BLOCKED_SHOT,Johnny Gaudreau shot blocked shot by Jani Hakanpää,2022-12-20T01:26:19Z,2,14:58,05:02,0,1,25.0,Dallas Stars,DAL
+191,29,25,Columbus Blue Jackets,Dallas Stars,2022020502343,2022020502,Shot,343,SHOT,Jake Christiansen Snap Shot saved by Jake Oettinger,2022-12-20T01:26:36Z,2,15:15,04:45,0,1,29.0,Columbus Blue Jackets,CBJ
+192,29,25,Columbus Blue Jackets,Dallas Stars,2022020502266,2022020502,Stoppage,266,STOP,Goalie Stopped,2022-12-20T01:26:38Z,2,15:17,04:43,0,1,,,
+193,29,25,Columbus Blue Jackets,Dallas Stars,202202050299,2022020502,Faceoff,99,FACEOFF,Luke Glendening faceoff won against Josh Dunne,2022-12-20T01:28:57Z,2,15:17,04:43,0,1,25.0,Dallas Stars,DAL
+194,29,25,Columbus Blue Jackets,Dallas Stars,2022020502344,2022020502,Blocked Shot,344,BLOCKED_SHOT,Esa Lindell shot blocked shot by Andrew Peeke,2022-12-20T01:29:11Z,2,15:31,04:29,0,1,29.0,Columbus Blue Jackets,CBJ
+195,29,25,Columbus Blue Jackets,Dallas Stars,2022020502345,2022020502,Missed Shot,345,MISSED_SHOT,Kirill Marchenko Wide of Net Jake Oettinger,2022-12-20T01:29:33Z,2,15:53,04:07,0,1,29.0,Columbus Blue Jackets,CBJ
+196,29,25,Columbus Blue Jackets,Dallas Stars,2022020502267,2022020502,Hit,267,HIT,Esa Lindell hit Kirill Marchenko,2022-12-20T01:29:38Z,2,15:58,04:02,0,1,25.0,Dallas Stars,DAL
+197,29,25,Columbus Blue Jackets,Dallas Stars,2022020502268,2022020502,Hit,268,HIT,Carson Meyer hit Luke Glendening,2022-12-20T01:29:51Z,2,16:11,03:49,0,1,29.0,Columbus Blue Jackets,CBJ
+198,29,25,Columbus Blue Jackets,Dallas Stars,2022020502269,2022020502,Hit,269,HIT,Mathieu Olivier hit Roope Hintz,2022-12-20T01:30:18Z,2,16:38,03:22,0,1,29.0,Columbus Blue Jackets,CBJ
+199,29,25,Columbus Blue Jackets,Dallas Stars,2022020502100,2022020502,Takeaway,100,TAKEAWAY,Takeaway by Miro Heiskanen,2022-12-20T01:30:27Z,2,16:47,03:13,0,1,25.0,Dallas Stars,DAL
+200,29,25,Columbus Blue Jackets,Dallas Stars,2022020502346,2022020502,Shot,346,SHOT,Tim Berni Snap Shot saved by Jake Oettinger,2022-12-20T01:30:58Z,2,17:18,02:42,0,1,29.0,Columbus Blue Jackets,CBJ
+201,29,25,Columbus Blue Jackets,Dallas Stars,2022020502270,2022020502,Stoppage,270,STOP,Puck in Netting,2022-12-20T01:30:59Z,2,17:19,02:41,0,1,,,
+202,29,25,Columbus Blue Jackets,Dallas Stars,2022020502451,2022020502,Faceoff,451,FACEOFF,Wyatt Johnston faceoff won against Patrik Laine,2022-12-20T01:31:04Z,2,17:19,02:41,0,1,25.0,Dallas Stars,DAL
+203,29,25,Columbus Blue Jackets,Dallas Stars,2022020502347,2022020502,Shot,347,SHOT,Jamie Benn Wrist Shot saved by Daniil Tarasov,2022-12-20T01:31:46Z,2,17:28,02:32,0,1,25.0,Dallas Stars,DAL
+204,29,25,Columbus Blue Jackets,Dallas Stars,2022020502271,2022020502,Stoppage,271,STOP,Goalie Stopped,2022-12-20T01:31:47Z,2,17:29,02:31,0,1,,,
+205,29,25,Columbus Blue Jackets,Dallas Stars,2022020502452,2022020502,Faceoff,452,FACEOFF,Jamie Benn faceoff won against Jack Roslovic,2022-12-20T01:32:20Z,2,17:29,02:31,0,1,25.0,Dallas Stars,DAL
+206,29,25,Columbus Blue Jackets,Dallas Stars,2022020502348,2022020502,Shot,348,SHOT,Mason Marchment Snap Shot saved by Daniil Tarasov,2022-12-20T01:32:31Z,2,17:40,02:20,0,1,25.0,Dallas Stars,DAL
+207,29,25,Columbus Blue Jackets,Dallas Stars,2022020502272,2022020502,Stoppage,272,STOP,Goalie Stopped,2022-12-20T01:32:32Z,2,17:41,02:19,0,1,,,
+208,29,25,Columbus Blue Jackets,Dallas Stars,2022020502453,2022020502,Faceoff,453,FACEOFF,Jamie Benn faceoff won against Jack Roslovic,2022-12-20T01:32:54Z,2,17:41,02:19,0,1,25.0,Dallas Stars,DAL
+209,29,25,Columbus Blue Jackets,Dallas Stars,2022020502454,2022020502,Giveaway,454,GIVEAWAY,Giveaway by Jamie Benn,2022-12-20T01:32:57Z,2,17:44,02:16,0,1,25.0,Dallas Stars,DAL
+210,29,25,Columbus Blue Jackets,Dallas Stars,2022020502349,2022020502,Shot,349,SHOT,Jamie Benn Wrist Shot saved by Daniil Tarasov,2022-12-20T01:33:14Z,2,18:01,01:59,0,1,25.0,Dallas Stars,DAL
+211,29,25,Columbus Blue Jackets,Dallas Stars,2022020502455,2022020502,Giveaway,455,GIVEAWAY,Giveaway by Mason Marchment,2022-12-20T01:33:15Z,2,18:02,01:58,0,1,25.0,Dallas Stars,DAL
+212,29,25,Columbus Blue Jackets,Dallas Stars,2022020502350,2022020502,Missed Shot,350,MISSED_SHOT,Joel Kiviranta Wide of Net Daniil Tarasov,2022-12-20T01:34:03Z,2,18:50,01:10,0,1,25.0,Dallas Stars,DAL
+213,29,25,Columbus Blue Jackets,Dallas Stars,2022020502601,2022020502,Shot,601,SHOT,Roope Hintz Tip-In saved by Daniil Tarasov,2022-12-20T01:34:23Z,2,19:10,00:50,0,1,25.0,Dallas Stars,DAL
+214,29,25,Columbus Blue Jackets,Dallas Stars,2022020502602,2022020502,Shot,602,SHOT,Marcus Bjork Snap Shot saved by Jake Oettinger,2022-12-20T01:34:39Z,2,19:26,00:34,0,1,29.0,Columbus Blue Jackets,CBJ
+215,29,25,Columbus Blue Jackets,Dallas Stars,2022020502456,2022020502,Giveaway,456,GIVEAWAY,Giveaway by Patrik Laine,2022-12-20T01:34:45Z,2,19:32,00:28,0,1,29.0,Columbus Blue Jackets,CBJ
+216,29,25,Columbus Blue Jackets,Dallas Stars,2022020502273,2022020502,Hit,273,HIT,Vladislav Gavrikov hit Roope Hintz,2022-12-20T01:34:55Z,2,19:42,00:18,0,1,29.0,Columbus Blue Jackets,CBJ
+217,29,25,Columbus Blue Jackets,Dallas Stars,2022020502707,2022020502,Penalty,707,PENALTY,Nils Lundkvist Slashing against Kent Johnson,2022-12-20T01:35:07Z,2,19:54,00:06,0,1,25.0,Dallas Stars,DAL
+218,29,25,Columbus Blue Jackets,Dallas Stars,2022020502457,2022020502,Faceoff,457,FACEOFF,Radek Faksa faceoff won against Jack Roslovic,2022-12-20T01:36:04Z,2,19:54,00:06,0,1,25.0,Dallas Stars,DAL
+219,29,25,Columbus Blue Jackets,Dallas Stars,2022020502274,2022020502,Period End,274,PERIOD_END,End of 2nd Period,2022-12-20T01:36:10Z,2,20:00,00:00,0,1,,,
+220,29,25,Columbus Blue Jackets,Dallas Stars,2022020502277,2022020502,Period Official,277,PERIOD_OFFICIAL,Period Official,2022-12-20T01:51:37Z,2,20:00,00:00,0,1,,,
+221,29,25,Columbus Blue Jackets,Dallas Stars,2022020502278,2022020502,Period Ready,278,PERIOD_READY,Period Ready,2022-12-20T01:52:53Z,3,00:00,20:00,0,1,,,
+222,29,25,Columbus Blue Jackets,Dallas Stars,2022020502458,2022020502,Period Start,458,PERIOD_START,Period Start,2022-12-20T01:55:00Z,3,00:00,20:00,0,1,,,
+223,29,25,Columbus Blue Jackets,Dallas Stars,2022020502459,2022020502,Faceoff,459,FACEOFF,Jack Roslovic faceoff won against Luke Glendening,2022-12-20T01:55:00Z,3,00:00,20:00,0,1,29.0,Columbus Blue Jackets,CBJ
+224,29,25,Columbus Blue Jackets,Dallas Stars,2022020502279,2022020502,Stoppage,279,STOP,Goalie Stopped,2022-12-20T01:55:59Z,3,01:00,19:00,0,1,,,
+225,29,25,Columbus Blue Jackets,Dallas Stars,2022020502604,2022020502,Missed Shot,604,MISSED_SHOT,Jack Roslovic Goalpost Jake Oettinger,2022-12-20T01:55:59Z,3,01:00,19:00,0,1,29.0,Columbus Blue Jackets,CBJ
+226,29,25,Columbus Blue Jackets,Dallas Stars,2022020502460,2022020502,Faceoff,460,FACEOFF,Jack Roslovic faceoff won against Radek Faksa,2022-12-20T01:56:36Z,3,01:00,19:00,0,1,29.0,Columbus Blue Jackets,CBJ
+227,29,25,Columbus Blue Jackets,Dallas Stars,2022020502280,2022020502,Stoppage,280,STOP,Puck in Netting,2022-12-20T01:57:08Z,3,01:32,18:28,0,1,,,
+228,29,25,Columbus Blue Jackets,Dallas Stars,2022020502461,2022020502,Faceoff,461,FACEOFF,Luke Glendening faceoff won against Jack Roslovic,2022-12-20T01:57:29Z,3,01:32,18:28,0,1,25.0,Dallas Stars,DAL
+229,29,25,Columbus Blue Jackets,Dallas Stars,2022020502605,2022020502,Shot,605,SHOT,Jack Roslovic Wrist Shot saved by Jake Oettinger,2022-12-20T01:57:45Z,3,01:48,18:12,0,1,29.0,Columbus Blue Jackets,CBJ
+230,29,25,Columbus Blue Jackets,Dallas Stars,2022020502462,2022020502,Takeaway,462,TAKEAWAY,Takeaway by Joe Pavelski,2022-12-20T01:58:02Z,3,02:05,17:55,0,1,25.0,Dallas Stars,DAL
+231,29,25,Columbus Blue Jackets,Dallas Stars,2022020502606,2022020502,Missed Shot,606,MISSED_SHOT,Nils Lundkvist Wide of Net Daniil Tarasov,2022-12-20T01:58:11Z,3,02:14,17:46,0,1,25.0,Dallas Stars,DAL
+232,29,25,Columbus Blue Jackets,Dallas Stars,2022020502281,2022020502,Hit,281,HIT,Sean Kuraly hit Mason Marchment,2022-12-20T01:59:00Z,3,03:03,16:57,0,1,29.0,Columbus Blue Jackets,CBJ
+233,29,25,Columbus Blue Jackets,Dallas Stars,2022020502282,2022020502,Hit,282,HIT,Andrew Peeke hit Wyatt Johnston,2022-12-20T01:59:24Z,3,03:27,16:33,0,1,29.0,Columbus Blue Jackets,CBJ
+234,29,25,Columbus Blue Jackets,Dallas Stars,2022020502607,2022020502,Shot,607,SHOT,Andrew Peeke Wrist Shot saved by Jake Oettinger,2022-12-20T01:59:34Z,3,03:37,16:23,0,1,29.0,Columbus Blue Jackets,CBJ
+235,29,25,Columbus Blue Jackets,Dallas Stars,2022020502608,2022020502,Shot,608,SHOT,Carson Meyer Backhand saved by Jake Oettinger,2022-12-20T01:59:37Z,3,03:40,16:20,0,1,29.0,Columbus Blue Jackets,CBJ
+236,29,25,Columbus Blue Jackets,Dallas Stars,2022020502283,2022020502,Stoppage,283,STOP,Goalie Stopped,2022-12-20T01:59:38Z,3,03:41,16:19,0,1,,,
+237,29,25,Columbus Blue Jackets,Dallas Stars,2022020502463,2022020502,Faceoff,463,FACEOFF,Tyler Seguin faceoff won against Kent Johnson,2022-12-20T02:00:22Z,3,03:41,16:19,0,1,25.0,Dallas Stars,DAL
+238,29,25,Columbus Blue Jackets,Dallas Stars,2022020502284,2022020502,Stoppage,284,STOP,Icing,2022-12-20T02:00:28Z,3,03:48,16:12,0,1,,,
+239,29,25,Columbus Blue Jackets,Dallas Stars,2022020502464,2022020502,Faceoff,464,FACEOFF,Tyler Seguin faceoff won against Kent Johnson,2022-12-20T02:00:52Z,3,03:48,16:12,0,1,25.0,Dallas Stars,DAL
+240,29,25,Columbus Blue Jackets,Dallas Stars,2022020502609,2022020502,Shot,609,SHOT,Tim Berni Snap Shot saved by Jake Oettinger,2022-12-20T02:01:27Z,3,04:23,15:37,0,1,29.0,Columbus Blue Jackets,CBJ
+241,29,25,Columbus Blue Jackets,Dallas Stars,2022020502285,2022020502,Hit,285,HIT,Riley Tufte hit Tim Berni,2022-12-20T02:01:32Z,3,04:28,15:32,0,1,25.0,Dallas Stars,DAL
+242,29,25,Columbus Blue Jackets,Dallas Stars,2022020502610,2022020502,Blocked Shot,610,BLOCKED_SHOT,Riley Tufte shot blocked shot by Erik Gudbranson,2022-12-20T02:01:39Z,3,04:35,15:25,0,1,29.0,Columbus Blue Jackets,CBJ
+243,29,25,Columbus Blue Jackets,Dallas Stars,2022020502286,2022020502,Hit,286,HIT,Luke Glendening hit Erik Gudbranson,2022-12-20T02:01:47Z,3,04:43,15:17,0,1,25.0,Dallas Stars,DAL
+244,29,25,Columbus Blue Jackets,Dallas Stars,2022020502611,2022020502,Shot,611,SHOT,Eric Robinson Snap Shot saved by Jake Oettinger,2022-12-20T02:01:54Z,3,04:50,15:10,0,1,29.0,Columbus Blue Jackets,CBJ
+245,29,25,Columbus Blue Jackets,Dallas Stars,2022020502287,2022020502,Hit,287,HIT,Eric Robinson hit Luke Glendening,2022-12-20T02:02:01Z,3,04:57,15:03,0,1,29.0,Columbus Blue Jackets,CBJ
+246,29,25,Columbus Blue Jackets,Dallas Stars,2022020502288,2022020502,Hit,288,HIT,Eric Robinson hit Jani Hakanpää,2022-12-20T02:02:19Z,3,05:15,14:45,0,1,29.0,Columbus Blue Jackets,CBJ
+247,29,25,Columbus Blue Jackets,Dallas Stars,2022020502612,2022020502,Blocked Shot,612,BLOCKED_SHOT,Jason Robertson shot blocked shot by Marcus Bjork,2022-12-20T02:02:43Z,3,05:39,14:21,0,1,29.0,Columbus Blue Jackets,CBJ
+248,29,25,Columbus Blue Jackets,Dallas Stars,2022020502613,2022020502,Blocked Shot,613,BLOCKED_SHOT,Jamie Benn shot blocked shot by Andrew Peeke,2022-12-20T02:03:09Z,3,06:05,13:55,0,1,29.0,Columbus Blue Jackets,CBJ
+249,29,25,Columbus Blue Jackets,Dallas Stars,2022020502617,2022020502,Blocked Shot,617,BLOCKED_SHOT,Jamie Benn shot blocked shot by Gustav Nyquist,2022-12-20T02:03:10Z,3,06:06,13:54,0,1,29.0,Columbus Blue Jackets,CBJ
+250,29,25,Columbus Blue Jackets,Dallas Stars,2022020502614,2022020502,Missed Shot,614,MISSED_SHOT,Ryan Suter Wide of Net Daniil Tarasov,2022-12-20T02:03:15Z,3,06:11,13:49,0,1,25.0,Dallas Stars,DAL
+251,29,25,Columbus Blue Jackets,Dallas Stars,2022020502615,2022020502,Missed Shot,615,MISSED_SHOT,Tyler Seguin Over Net Daniil Tarasov,2022-12-20T02:03:51Z,3,06:47,13:13,0,1,25.0,Dallas Stars,DAL
+252,29,25,Columbus Blue Jackets,Dallas Stars,2022020502289,2022020502,Hit,289,HIT,Miro Heiskanen hit Marcus Bjork,2022-12-20T02:04:38Z,3,07:34,12:26,0,1,25.0,Dallas Stars,DAL
+253,29,25,Columbus Blue Jackets,Dallas Stars,2022020502290,2022020502,Hit,290,HIT,Mathieu Olivier hit Jani Hakanpää,2022-12-20T02:05:03Z,3,07:59,12:01,0,1,29.0,Columbus Blue Jackets,CBJ
+254,29,25,Columbus Blue Jackets,Dallas Stars,2022020502465,2022020502,Giveaway,465,GIVEAWAY,Giveaway by Eric Robinson,2022-12-20T02:05:17Z,3,08:13,11:47,0,1,29.0,Columbus Blue Jackets,CBJ
+255,29,25,Columbus Blue Jackets,Dallas Stars,2022020502616,2022020502,Blocked Shot,616,BLOCKED_SHOT,Roope Hintz shot blocked shot by Marcus Bjork,2022-12-20T02:05:23Z,3,08:19,11:41,0,1,29.0,Columbus Blue Jackets,CBJ
+256,29,25,Columbus Blue Jackets,Dallas Stars,2022020502291,2022020502,Stoppage,291,STOP,Puck in Netting,2022-12-20T02:05:24Z,3,08:20,11:40,0,1,,,
+257,29,25,Columbus Blue Jackets,Dallas Stars,2022020502466,2022020502,Faceoff,466,FACEOFF,Sean Kuraly faceoff won against Roope Hintz,2022-12-20T02:07:41Z,3,08:20,11:40,0,1,29.0,Columbus Blue Jackets,CBJ
+258,29,25,Columbus Blue Jackets,Dallas Stars,2022020502618,2022020502,Blocked Shot,618,BLOCKED_SHOT,Jason Robertson shot blocked shot by Marcus Bjork,2022-12-20T02:08:19Z,3,08:58,11:02,0,1,29.0,Columbus Blue Jackets,CBJ
+259,29,25,Columbus Blue Jackets,Dallas Stars,2022020502292,2022020502,Stoppage,292,STOP,Goalie Stopped,2022-12-20T02:09:01Z,3,09:40,10:20,0,1,,,
+260,29,25,Columbus Blue Jackets,Dallas Stars,2022020502619,2022020502,Shot,619,SHOT,Erik Gudbranson Snap Shot saved by Jake Oettinger,2022-12-20T02:09:01Z,3,09:40,10:20,0,1,29.0,Columbus Blue Jackets,CBJ
+261,29,25,Columbus Blue Jackets,Dallas Stars,2022020502467,2022020502,Faceoff,467,FACEOFF,Jamie Benn faceoff won against Jack Roslovic,2022-12-20T02:09:33Z,3,09:40,10:20,0,1,25.0,Dallas Stars,DAL
+262,29,25,Columbus Blue Jackets,Dallas Stars,2022020502620,2022020502,Blocked Shot,620,BLOCKED_SHOT,Gustav Nyquist shot blocked shot by Nils Lundkvist,2022-12-20T02:09:42Z,3,09:49,10:11,0,1,25.0,Dallas Stars,DAL
+263,29,25,Columbus Blue Jackets,Dallas Stars,2022020502621,2022020502,Blocked Shot,621,BLOCKED_SHOT,Jamie Benn shot blocked shot by Erik Gudbranson,2022-12-20T02:10:01Z,3,10:08,09:52,0,1,29.0,Columbus Blue Jackets,CBJ
+264,29,25,Columbus Blue Jackets,Dallas Stars,2022020502403,2022020502,Missed Shot,403,MISSED_SHOT,Wyatt Johnston Wide of Net Daniil Tarasov,2022-12-20T02:10:03Z,3,10:10,09:50,0,1,25.0,Dallas Stars,DAL
+265,29,25,Columbus Blue Jackets,Dallas Stars,2022020502293,2022020502,Stoppage,293,STOP,Puck Frozen,2022-12-20T02:10:05Z,3,10:12,09:48,0,1,,,
+266,29,25,Columbus Blue Jackets,Dallas Stars,2022020502468,2022020502,Faceoff,468,FACEOFF,Tyler Seguin faceoff won against Sean Kuraly,2022-12-20T02:12:24Z,3,10:12,09:48,0,1,25.0,Dallas Stars,DAL
+267,29,25,Columbus Blue Jackets,Dallas Stars,2022020502294,2022020502,Stoppage,294,STOP,Puck Frozen,2022-12-20T02:12:30Z,3,10:19,09:41,0,1,,,
+268,29,25,Columbus Blue Jackets,Dallas Stars,2022020502622,2022020502,Shot,622,SHOT,Ty Dellandrea Wrist Shot saved by Daniil Tarasov,2022-12-20T02:12:30Z,3,10:19,09:41,0,1,25.0,Dallas Stars,DAL
+269,29,25,Columbus Blue Jackets,Dallas Stars,2022020502469,2022020502,Faceoff,469,FACEOFF,Sean Kuraly faceoff won against Ty Dellandrea,2022-12-20T02:12:59Z,3,10:19,09:41,0,1,29.0,Columbus Blue Jackets,CBJ
+270,29,25,Columbus Blue Jackets,Dallas Stars,2022020502295,2022020502,Hit,295,HIT,Andrew Peeke hit Tyler Seguin,2022-12-20T02:13:24Z,3,10:44,09:16,0,1,29.0,Columbus Blue Jackets,CBJ
+271,29,25,Columbus Blue Jackets,Dallas Stars,2022020502296,2022020502,Stoppage,296,STOP,Icing,2022-12-20T02:13:38Z,3,10:58,09:02,0,1,,,
+272,29,25,Columbus Blue Jackets,Dallas Stars,2022020502470,2022020502,Faceoff,470,FACEOFF,Roope Hintz faceoff won against Patrik Laine,2022-12-20T02:14:07Z,3,10:58,09:02,0,1,25.0,Dallas Stars,DAL
+273,29,25,Columbus Blue Jackets,Dallas Stars,2022020502623,2022020502,Shot,623,SHOT,Joe Pavelski Tip-In saved by Daniil Tarasov,2022-12-20T02:14:16Z,3,11:07,08:53,0,1,25.0,Dallas Stars,DAL
+274,29,25,Columbus Blue Jackets,Dallas Stars,2022020502624,2022020502,Shot,624,SHOT,Joe Pavelski Batted saved by Daniil Tarasov,2022-12-20T02:14:20Z,3,11:11,08:49,0,1,25.0,Dallas Stars,DAL
+275,29,25,Columbus Blue Jackets,Dallas Stars,2022020502297,2022020502,Hit,297,HIT,Joe Pavelski hit Kent Johnson,2022-12-20T02:14:22Z,3,11:13,08:47,0,1,25.0,Dallas Stars,DAL
+276,29,25,Columbus Blue Jackets,Dallas Stars,2022020502625,2022020502,Shot,625,SHOT,Mason Marchment Wrist Shot saved by Daniil Tarasov,2022-12-20T02:15:47Z,3,12:38,07:22,0,1,25.0,Dallas Stars,DAL
+277,29,25,Columbus Blue Jackets,Dallas Stars,2022020502298,2022020502,Stoppage,298,STOP,Puck in Netting,2022-12-20T02:15:48Z,3,12:39,07:21,0,1,,,
+278,29,25,Columbus Blue Jackets,Dallas Stars,2022020502471,2022020502,Faceoff,471,FACEOFF,Sean Kuraly faceoff won against Jamie Benn,2022-12-20T02:16:54Z,3,12:39,07:21,0,1,29.0,Columbus Blue Jackets,CBJ
+279,29,25,Columbus Blue Jackets,Dallas Stars,2022020502299,2022020502,Stoppage,299,STOP,Puck in Netting,2022-12-20T02:17:03Z,3,12:47,07:13,0,1,,,
+280,29,25,Columbus Blue Jackets,Dallas Stars,2022020502472,2022020502,Faceoff,472,FACEOFF,Wyatt Johnston faceoff won against Kent Johnson,2022-12-20T02:17:30Z,3,12:47,07:13,0,1,25.0,Dallas Stars,DAL
+281,29,25,Columbus Blue Jackets,Dallas Stars,2022020502473,2022020502,Giveaway,473,GIVEAWAY,Giveaway by Patrik Laine,2022-12-20T02:18:01Z,3,13:18,06:42,0,1,29.0,Columbus Blue Jackets,CBJ
+282,29,25,Columbus Blue Jackets,Dallas Stars,2022020502626,2022020502,Missed Shot,626,MISSED_SHOT,Miro Heiskanen Wide of Net Daniil Tarasov,2022-12-20T02:19:55Z,3,15:12,04:48,0,1,25.0,Dallas Stars,DAL
+283,29,25,Columbus Blue Jackets,Dallas Stars,2022020502300,2022020502,Hit,300,HIT,Sean Kuraly hit Luke Glendening,2022-12-20T02:20:06Z,3,15:23,04:37,0,1,29.0,Columbus Blue Jackets,CBJ
+284,29,25,Columbus Blue Jackets,Dallas Stars,2022020502474,2022020502,Takeaway,474,TAKEAWAY,Takeaway by Jason Robertson,2022-12-20T02:20:07Z,3,15:24,04:36,0,1,25.0,Dallas Stars,DAL
+285,29,25,Columbus Blue Jackets,Dallas Stars,2022020502627,2022020502,Shot,627,SHOT,Nils Lundkvist Wrist Shot saved by Daniil Tarasov,2022-12-20T02:20:21Z,3,15:38,04:22,0,1,25.0,Dallas Stars,DAL
+286,29,25,Columbus Blue Jackets,Dallas Stars,2022020502628,2022020502,Missed Shot,628,MISSED_SHOT,Patrik Laine Wide of Net Jake Oettinger,2022-12-20T02:20:53Z,3,16:10,03:50,0,1,29.0,Columbus Blue Jackets,CBJ
+287,29,25,Columbus Blue Jackets,Dallas Stars,2022020502751,2022020502,Stoppage,751,STOP,Icing,2022-12-20T02:21:17Z,3,16:35,03:25,0,1,,,
+288,29,25,Columbus Blue Jackets,Dallas Stars,2022020502475,2022020502,Faceoff,475,FACEOFF,Tyler Seguin faceoff won against Kent Johnson,2022-12-20T02:21:53Z,3,16:35,03:25,0,1,25.0,Dallas Stars,DAL
+289,29,25,Columbus Blue Jackets,Dallas Stars,2022020502629,2022020502,Shot,629,SHOT,Miro Heiskanen Wrist Shot saved by Daniil Tarasov,2022-12-20T02:21:56Z,3,16:38,03:22,0,1,25.0,Dallas Stars,DAL
+290,29,25,Columbus Blue Jackets,Dallas Stars,2022020502630,2022020502,Missed Shot,630,MISSED_SHOT,Joel Kiviranta Wide of Net Daniil Tarasov,2022-12-20T02:22:14Z,3,16:56,03:04,0,1,25.0,Dallas Stars,DAL
+291,29,25,Columbus Blue Jackets,Dallas Stars,2022020502631,2022020502,Missed Shot,631,MISSED_SHOT,Andrew Peeke Wide of Net Jake Oettinger,2022-12-20T02:22:36Z,3,17:18,02:42,0,1,29.0,Columbus Blue Jackets,CBJ
+292,29,25,Columbus Blue Jackets,Dallas Stars,2022020502632,2022020502,Missed Shot,632,MISSED_SHOT,Gustav Nyquist Goalpost Jake Oettinger,2022-12-20T02:22:41Z,3,17:23,02:37,0,1,29.0,Columbus Blue Jackets,CBJ
+293,29,25,Columbus Blue Jackets,Dallas Stars,2022020502633,2022020502,Blocked Shot,633,BLOCKED_SHOT,Carson Meyer shot blocked shot by Miro Heiskanen,2022-12-20T02:22:45Z,3,17:27,02:33,0,1,25.0,Dallas Stars,DAL
+294,29,25,Columbus Blue Jackets,Dallas Stars,2022020502752,2022020502,Stoppage,752,STOP,Icing,2022-12-20T02:22:58Z,3,17:41,02:19,0,1,,,
+295,29,25,Columbus Blue Jackets,Dallas Stars,2022020502476,2022020502,Faceoff,476,FACEOFF,Mason Marchment faceoff won against Kent Johnson,2022-12-20T02:23:39Z,3,17:41,02:19,0,1,25.0,Dallas Stars,DAL
+296,29,25,Columbus Blue Jackets,Dallas Stars,2022020502753,2022020502,Stoppage,753,STOP,Puck in Netting,2022-12-20T02:23:54Z,3,17:56,02:04,0,1,,,
+297,29,25,Columbus Blue Jackets,Dallas Stars,2022020502477,2022020502,Faceoff,477,FACEOFF,Sean Kuraly faceoff won against Jamie Benn,2022-12-20T02:26:18Z,3,17:56,02:04,0,1,29.0,Columbus Blue Jackets,CBJ
+298,29,25,Columbus Blue Jackets,Dallas Stars,2022020502754,2022020502,Stoppage,754,STOP,Icing,2022-12-20T02:27:09Z,3,18:47,01:13,0,1,,,
+299,29,25,Columbus Blue Jackets,Dallas Stars,2022020502478,2022020502,Faceoff,478,FACEOFF,Sean Kuraly faceoff won against Joe Pavelski,2022-12-20T02:29:00Z,3,18:47,01:13,0,1,29.0,Columbus Blue Jackets,CBJ
+300,29,25,Columbus Blue Jackets,Dallas Stars,2022020502635,2022020502,Goal,635,GOAL,"Jason Robertson (24) Snap Shot, assists: none",2022-12-20T02:29:06Z,3,18:53,01:07,0,2,25.0,Dallas Stars,DAL
+301,29,25,Columbus Blue Jackets,Dallas Stars,2022020502479,2022020502,Faceoff,479,FACEOFF,Tyler Seguin faceoff won against Jack Roslovic,2022-12-20T02:29:46Z,3,18:53,01:07,0,2,25.0,Dallas Stars,DAL
+302,29,25,Columbus Blue Jackets,Dallas Stars,2022020502636,2022020502,Shot,636,SHOT,Jack Roslovic Wrist Shot saved by Jake Oettinger,2022-12-20T02:30:35Z,3,19:43,00:17,0,2,29.0,Columbus Blue Jackets,CBJ
+303,29,25,Columbus Blue Jackets,Dallas Stars,2022020502637,2022020502,Goal,637,GOAL,"Kent Johnson (7) Backhand, assists: Jack Roslovic (12), Gustav Nyquist (8)",2022-12-20T02:30:39Z,3,19:45,00:15,1,2,29.0,Columbus Blue Jackets,CBJ
+304,29,25,Columbus Blue Jackets,Dallas Stars,2022020502480,2022020502,Faceoff,480,FACEOFF,Sean Kuraly faceoff won against Luke Glendening,2022-12-20T02:31:24Z,3,19:45,00:15,1,2,29.0,Columbus Blue Jackets,CBJ
+305,29,25,Columbus Blue Jackets,Dallas Stars,2022020502638,2022020502,Blocked Shot,638,BLOCKED_SHOT,Patrik Laine shot blocked shot by Radek Faksa,2022-12-20T02:31:36Z,3,19:58,00:02,1,2,25.0,Dallas Stars,DAL
+306,29,25,Columbus Blue Jackets,Dallas Stars,2022020502755,2022020502,Period End,755,PERIOD_END,End of 3rd Period,2022-12-20T02:31:38Z,3,20:00,00:00,1,2,,,
+307,29,25,Columbus Blue Jackets,Dallas Stars,2022020502758,2022020502,Period Official,758,PERIOD_OFFICIAL,Period Official,2022-12-20T02:32:20Z,3,20:00,00:00,1,2,,,
+308,29,25,Columbus Blue Jackets,Dallas Stars,2022020502759,2022020502,Game End,759,GAME_END,Game End,2022-12-20T02:32:27Z,3,20:00,00:00,1,2,,,
+309,29,25,Columbus Blue Jackets,Dallas Stars,2022020502760,2022020502,Game Official,760,GAME_OFFICIAL,Game Official,2022-12-20T02:39:44Z,3,20:00,00:00,1,2,,,

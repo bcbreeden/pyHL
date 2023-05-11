@@ -1,0 +1,352 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,10,19,Toronto Maple Leafs,St. Louis Blues,20220206021,2022020602,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-01-03T23:16:26Z,1,00:00,20:00,0,0,,,
+1,10,19,Toronto Maple Leafs,St. Louis Blues,20220206025,2022020602,Period Ready,5,PERIOD_READY,Period Ready,2023-01-04T00:04:28Z,1,00:00,20:00,0,0,,,
+2,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602101,2022020602,Period Start,101,PERIOD_START,Period Start,2023-01-04T00:08:14Z,1,00:00,20:00,0,0,,,
+3,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602102,2022020602,Faceoff,102,FACEOFF,David Kampf faceoff won against Robert Thomas,2023-01-04T00:08:14Z,1,00:00,20:00,0,0,10.0,Toronto Maple Leafs,TOR
+4,10,19,Toronto Maple Leafs,St. Louis Blues,20220206028,2022020602,Blocked Shot,8,BLOCKED_SHOT,David Kampf shot blocked shot by Justin Faulk,2023-01-04T00:08:28Z,1,00:14,19:46,0,0,19.0,St. Louis Blues,STL
+5,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602151,2022020602,Stoppage,151,STOP,Puck in Netting,2023-01-04T00:08:28Z,1,00:14,19:46,0,0,,,
+6,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602103,2022020602,Faceoff,103,FACEOFF,Auston Matthews faceoff won against Brayden Schenn,2023-01-04T00:08:56Z,1,00:14,19:46,0,0,10.0,Toronto Maple Leafs,TOR
+7,10,19,Toronto Maple Leafs,St. Louis Blues,20220206029,2022020602,Shot,9,SHOT,William Nylander Slap Shot saved by Jordan Binnington,2023-01-04T00:09:00Z,1,00:18,19:42,0,0,10.0,Toronto Maple Leafs,TOR
+8,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602104,2022020602,Takeaway,104,TAKEAWAY,Takeaway by Auston Matthews,2023-01-04T00:09:25Z,1,00:43,19:17,0,0,10.0,Toronto Maple Leafs,TOR
+9,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602152,2022020602,Hit,152,HIT,Brayden Schenn hit Mark Giordano,2023-01-04T00:09:31Z,1,00:49,19:11,0,0,19.0,St. Louis Blues,STL
+10,10,19,Toronto Maple Leafs,St. Louis Blues,202202060210,2022020602,Missed Shot,10,MISSED_SHOT,Brayden Schenn Wide of Net Ilya Samsonov,2023-01-04T00:09:38Z,1,00:56,19:04,0,0,19.0,St. Louis Blues,STL
+11,10,19,Toronto Maple Leafs,St. Louis Blues,202202060211,2022020602,Shot,11,SHOT,Nick Leddy Slap Shot saved by Ilya Samsonov,2023-01-04T00:10:10Z,1,01:28,18:32,0,0,19.0,St. Louis Blues,STL
+12,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602153,2022020602,Stoppage,153,STOP,Goalie Stopped,2023-01-04T00:10:10Z,1,01:28,18:32,0,0,,,
+13,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602105,2022020602,Faceoff,105,FACEOFF,David Kampf faceoff won against Robert Thomas,2023-01-04T00:10:39Z,1,01:28,18:32,0,0,10.0,Toronto Maple Leafs,TOR
+14,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602154,2022020602,Hit,154,HIT,Pavel Buchnevich hit Timothy Liljegren,2023-01-04T00:10:49Z,1,01:38,18:22,0,0,19.0,St. Louis Blues,STL
+15,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602155,2022020602,Hit,155,HIT,Pavel Buchnevich hit Alexander Kerfoot,2023-01-04T00:11:00Z,1,01:49,18:11,0,0,19.0,St. Louis Blues,STL
+16,10,19,Toronto Maple Leafs,St. Louis Blues,202202060212,2022020602,Shot,12,SHOT,Jake Neighbours Wrist Shot saved by Ilya Samsonov,2023-01-04T00:11:26Z,1,02:15,17:45,0,0,19.0,St. Louis Blues,STL
+17,10,19,Toronto Maple Leafs,St. Louis Blues,202202060213,2022020602,Shot,13,SHOT,Jake Neighbours Wrist Shot saved by Ilya Samsonov,2023-01-04T00:11:27Z,1,02:16,17:44,0,0,19.0,St. Louis Blues,STL
+18,10,19,Toronto Maple Leafs,St. Louis Blues,202202060214,2022020602,Shot,14,SHOT,Josh Leivo Wrist Shot saved by Ilya Samsonov,2023-01-04T00:11:28Z,1,02:17,17:43,0,0,19.0,St. Louis Blues,STL
+19,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602156,2022020602,Stoppage,156,STOP,Icing,2023-01-04T00:11:45Z,1,02:34,17:26,0,0,,,
+20,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602106,2022020602,Faceoff,106,FACEOFF,Pontus Holmberg faceoff won against Alexey Toropchenko,2023-01-04T00:12:18Z,1,02:34,17:26,0,0,10.0,Toronto Maple Leafs,TOR
+21,10,19,Toronto Maple Leafs,St. Louis Blues,202202060215,2022020602,Missed Shot,15,MISSED_SHOT,Zach Aston-Reese Wide of Net Jordan Binnington,2023-01-04T00:12:30Z,1,02:46,17:14,0,0,10.0,Toronto Maple Leafs,TOR
+22,10,19,Toronto Maple Leafs,St. Louis Blues,202202060216,2022020602,Blocked Shot,16,BLOCKED_SHOT,Mark Giordano shot blocked shot by Calle Rosen,2023-01-04T00:12:50Z,1,03:06,16:54,0,0,19.0,St. Louis Blues,STL
+23,10,19,Toronto Maple Leafs,St. Louis Blues,202202060217,2022020602,Shot,17,SHOT,Niko Mikkola Slap Shot saved by Ilya Samsonov,2023-01-04T00:13:01Z,1,03:17,16:43,0,0,19.0,St. Louis Blues,STL
+24,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602157,2022020602,Hit,157,HIT,Brayden Schenn hit Mark Giordano,2023-01-04T00:13:08Z,1,03:24,16:36,0,0,19.0,St. Louis Blues,STL
+25,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602158,2022020602,Hit,158,HIT,Justin Holl hit Brayden Schenn,2023-01-04T00:13:15Z,1,03:31,16:29,0,0,10.0,Toronto Maple Leafs,TOR
+26,10,19,Toronto Maple Leafs,St. Louis Blues,202202060218,2022020602,Shot,18,SHOT,William Nylander Wrist Shot saved by Jordan Binnington,2023-01-04T00:13:30Z,1,03:46,16:14,0,0,10.0,Toronto Maple Leafs,TOR
+27,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602107,2022020602,Takeaway,107,TAKEAWAY,Takeaway by John Tavares,2023-01-04T00:13:43Z,1,03:59,16:01,0,0,10.0,Toronto Maple Leafs,TOR
+28,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602108,2022020602,Takeaway,108,TAKEAWAY,Takeaway by Mitchell Marner,2023-01-04T00:13:49Z,1,04:05,15:55,0,0,10.0,Toronto Maple Leafs,TOR
+29,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602160,2022020602,Penalty,160,PENALTY,Justin Faulk Tripping against Mitchell Marner,2023-01-04T00:13:53Z,1,04:10,15:50,0,0,19.0,St. Louis Blues,STL
+30,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602109,2022020602,Faceoff,109,FACEOFF,John Tavares faceoff won against Noel Acciari,2023-01-04T00:14:42Z,1,04:10,15:50,0,0,10.0,Toronto Maple Leafs,TOR
+31,10,19,Toronto Maple Leafs,St. Louis Blues,202202060219,2022020602,Blocked Shot,19,BLOCKED_SHOT,Michael Bunting shot blocked shot by Niko Mikkola,2023-01-04T00:14:51Z,1,04:19,15:41,0,0,19.0,St. Louis Blues,STL
+32,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602163,2022020602,Hit,163,HIT,Robert Bortuzzo hit John Tavares,2023-01-04T00:15:16Z,1,04:44,15:16,0,0,19.0,St. Louis Blues,STL
+33,10,19,Toronto Maple Leafs,St. Louis Blues,202202060220,2022020602,Goal,20,GOAL,"Brandon Saad (9) Wrist Shot, assists: Noel Acciari (5), Colton Parayko (9)",2023-01-04T00:15:24Z,1,04:52,15:08,0,1,19.0,St. Louis Blues,STL
+34,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602110,2022020602,Faceoff,110,FACEOFF,Pontus Holmberg faceoff won against Robert Thomas,2023-01-04T00:16:03Z,1,04:52,15:08,0,1,10.0,Toronto Maple Leafs,TOR
+35,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602164,2022020602,Hit,164,HIT,Robert Bortuzzo hit Rasmus Sandin,2023-01-04T00:16:47Z,1,05:36,14:24,0,1,19.0,St. Louis Blues,STL
+36,10,19,Toronto Maple Leafs,St. Louis Blues,202202060221,2022020602,Missed Shot,21,MISSED_SHOT,Pierre Engvall Wide of Net Jordan Binnington,2023-01-04T00:17:05Z,1,05:54,14:06,0,1,10.0,Toronto Maple Leafs,TOR
+37,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602165,2022020602,Stoppage,165,STOP,Puck in Netting,2023-01-04T00:17:10Z,1,05:58,14:02,0,1,,,
+38,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602111,2022020602,Faceoff,111,FACEOFF,Noel Acciari faceoff won against John Tavares,2023-01-04T00:17:40Z,1,05:58,14:02,0,1,19.0,St. Louis Blues,STL
+39,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602166,2022020602,Hit,166,HIT,Pavel Buchnevich hit Calle Jarnkrok,2023-01-04T00:18:29Z,1,06:47,13:13,0,1,19.0,St. Louis Blues,STL
+40,10,19,Toronto Maple Leafs,St. Louis Blues,202202060222,2022020602,Shot,22,SHOT,Josh Leivo Wrist Shot saved by Ilya Samsonov,2023-01-04T00:19:33Z,1,07:51,12:09,0,1,19.0,St. Louis Blues,STL
+41,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602168,2022020602,Penalty,168,PENALTY,Tyler Pitlick Tripping against Zach Aston-Reese,2023-01-04T00:19:44Z,1,08:02,11:58,0,1,19.0,St. Louis Blues,STL
+42,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602170,2022020602,Stoppage,170,STOP,Referee or Linesman,2023-01-04T00:19:44Z,1,08:02,11:58,0,1,,,
+43,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602112,2022020602,Faceoff,112,FACEOFF,Noel Acciari faceoff won against John Tavares,2023-01-04T00:22:03Z,1,08:02,11:58,0,1,19.0,St. Louis Blues,STL
+44,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602113,2022020602,Takeaway,113,TAKEAWAY,Takeaway by Mitchell Marner,2023-01-04T00:22:41Z,1,08:40,11:20,0,1,10.0,Toronto Maple Leafs,TOR
+45,10,19,Toronto Maple Leafs,St. Louis Blues,202202060223,2022020602,Missed Shot,23,MISSED_SHOT,John Tavares Wide of Net Jordan Binnington,2023-01-04T00:22:52Z,1,08:51,11:09,0,1,10.0,Toronto Maple Leafs,TOR
+46,10,19,Toronto Maple Leafs,St. Louis Blues,202202060224,2022020602,Missed Shot,24,MISSED_SHOT,Auston Matthews Wide of Net Jordan Binnington,2023-01-04T00:23:02Z,1,09:01,10:59,0,1,10.0,Toronto Maple Leafs,TOR
+47,10,19,Toronto Maple Leafs,St. Louis Blues,202202060225,2022020602,Blocked Shot,25,BLOCKED_SHOT,William Nylander shot blocked shot by Colton Parayko,2023-01-04T00:23:08Z,1,09:07,10:53,0,1,19.0,St. Louis Blues,STL
+48,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602171,2022020602,Stoppage,171,STOP,Puck in Netting,2023-01-04T00:23:09Z,1,09:08,10:52,0,1,,,
+49,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602114,2022020602,Faceoff,114,FACEOFF,Robert Thomas faceoff won against Pontus Holmberg,2023-01-04T00:23:49Z,1,09:08,10:52,0,1,19.0,St. Louis Blues,STL
+50,10,19,Toronto Maple Leafs,St. Louis Blues,202202060226,2022020602,Blocked Shot,26,BLOCKED_SHOT,Morgan Rielly shot blocked shot by Robert Bortuzzo,2023-01-04T00:24:28Z,1,09:47,10:13,0,1,19.0,St. Louis Blues,STL
+51,10,19,Toronto Maple Leafs,St. Louis Blues,202202060227,2022020602,Missed Shot,27,MISSED_SHOT,Calle Jarnkrok Wide of Net Jordan Binnington,2023-01-04T00:24:30Z,1,09:49,10:11,0,1,10.0,Toronto Maple Leafs,TOR
+52,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602115,2022020602,Giveaway,115,GIVEAWAY,Giveaway by Calle Rosen,2023-01-04T00:25:21Z,1,10:40,09:20,0,1,19.0,St. Louis Blues,STL
+53,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602172,2022020602,Hit,172,HIT,Nick Leddy hit Zach Aston-Reese,2023-01-04T00:25:26Z,1,10:45,09:15,0,1,19.0,St. Louis Blues,STL
+54,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602116,2022020602,Takeaway,116,TAKEAWAY,Takeaway by David Kampf,2023-01-04T00:25:30Z,1,10:49,09:11,0,1,10.0,Toronto Maple Leafs,TOR
+55,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602173,2022020602,Stoppage,173,STOP,Icing,2023-01-04T00:25:41Z,1,11:00,09:00,0,1,,,
+56,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602117,2022020602,Faceoff,117,FACEOFF,Auston Matthews faceoff won against Brayden Schenn,2023-01-04T00:26:04Z,1,11:00,09:00,0,1,10.0,Toronto Maple Leafs,TOR
+57,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602177,2022020602,Stoppage,177,STOP,Referee or Linesman,2023-01-04T00:26:17Z,1,11:14,08:46,0,1,,,
+58,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602248,2022020602,Penalty,248,PENALTY,Michael Bunting Hooking against Calle Rosen,2023-01-04T00:26:17Z,1,11:14,08:46,0,1,10.0,Toronto Maple Leafs,TOR
+59,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602118,2022020602,Faceoff,118,FACEOFF,Robert Thomas faceoff won against David Kampf,2023-01-04T00:28:43Z,1,11:14,08:46,0,1,19.0,St. Louis Blues,STL
+60,10,19,Toronto Maple Leafs,St. Louis Blues,202202060228,2022020602,Missed Shot,28,MISSED_SHOT,Brayden Schenn Wide of Net Ilya Samsonov,2023-01-04T00:29:15Z,1,11:46,08:14,0,1,19.0,St. Louis Blues,STL
+61,10,19,Toronto Maple Leafs,St. Louis Blues,202202060229,2022020602,Shot,29,SHOT,Pavel Buchnevich Wrist Shot saved by Ilya Samsonov,2023-01-04T00:29:51Z,1,12:22,07:38,0,1,19.0,St. Louis Blues,STL
+62,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602178,2022020602,Stoppage,178,STOP,Puck in Crowd,2023-01-04T00:29:51Z,1,12:22,07:38,0,1,,,
+63,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602119,2022020602,Faceoff,119,FACEOFF,Brayden Schenn faceoff won against Calle Jarnkrok,2023-01-04T00:30:21Z,1,12:22,07:38,0,1,19.0,St. Louis Blues,STL
+64,10,19,Toronto Maple Leafs,St. Louis Blues,202202060230,2022020602,Shot,30,SHOT,Robert Thomas Wrist Shot saved by Ilya Samsonov,2023-01-04T00:30:47Z,1,12:48,07:12,0,1,19.0,St. Louis Blues,STL
+65,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602120,2022020602,Giveaway,120,GIVEAWAY,Giveaway by Alexander Kerfoot,2023-01-04T00:30:52Z,1,12:53,07:07,0,1,10.0,Toronto Maple Leafs,TOR
+66,10,19,Toronto Maple Leafs,St. Louis Blues,202202060235,2022020602,Blocked Shot,35,BLOCKED_SHOT,Jordan Kyrou shot blocked shot by Timothy Liljegren,2023-01-04T00:30:59Z,1,13:00,07:00,0,1,10.0,Toronto Maple Leafs,TOR
+67,10,19,Toronto Maple Leafs,St. Louis Blues,202202060231,2022020602,Goal,31,GOAL,"Brayden Schenn (8) Deflected, assists: Jordan Kyrou (19), Robert Thomas (26)",2023-01-04T00:31:00Z,1,13:01,06:59,0,2,19.0,St. Louis Blues,STL
+68,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602121,2022020602,Faceoff,121,FACEOFF,Auston Matthews faceoff won against Noel Acciari,2023-01-04T00:31:46Z,1,13:01,06:59,0,2,10.0,Toronto Maple Leafs,TOR
+69,10,19,Toronto Maple Leafs,St. Louis Blues,202202060232,2022020602,Shot,32,SHOT,Michael Bunting Deflected saved by Jordan Binnington,2023-01-04T00:32:06Z,1,13:21,06:39,0,2,10.0,Toronto Maple Leafs,TOR
+70,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602179,2022020602,Stoppage,179,STOP,Goalie Stopped,2023-01-04T00:32:06Z,1,13:21,06:39,0,2,,,
+71,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602122,2022020602,Faceoff,122,FACEOFF,Noel Acciari faceoff won against Auston Matthews,2023-01-04T00:32:48Z,1,13:21,06:39,0,2,19.0,St. Louis Blues,STL
+72,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602180,2022020602,Hit,180,HIT,Noel Acciari hit Michael Bunting,2023-01-04T00:33:05Z,1,13:38,06:22,0,2,19.0,St. Louis Blues,STL
+73,10,19,Toronto Maple Leafs,St. Louis Blues,202202060233,2022020602,Blocked Shot,33,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Nick Leddy,2023-01-04T00:33:44Z,1,14:17,05:43,0,2,19.0,St. Louis Blues,STL
+74,10,19,Toronto Maple Leafs,St. Louis Blues,202202060234,2022020602,Shot,34,SHOT,John Tavares Wrist Shot saved by Jordan Binnington,2023-01-04T00:34:01Z,1,14:34,05:26,0,2,10.0,Toronto Maple Leafs,TOR
+75,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602181,2022020602,Stoppage,181,STOP,Goalie Stopped,2023-01-04T00:34:03Z,1,14:36,05:24,0,2,,,
+76,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602123,2022020602,Faceoff,123,FACEOFF,Auston Matthews faceoff won against Brayden Schenn,2023-01-04T00:36:25Z,1,14:36,05:24,0,2,10.0,Toronto Maple Leafs,TOR
+77,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602182,2022020602,Hit,182,HIT,Jake Neighbours hit Timothy Liljegren,2023-01-04T00:36:33Z,1,14:44,05:16,0,2,19.0,St. Louis Blues,STL
+78,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602183,2022020602,Hit,183,HIT,Brayden Schenn hit Auston Matthews,2023-01-04T00:36:39Z,1,14:50,05:10,0,2,19.0,St. Louis Blues,STL
+79,10,19,Toronto Maple Leafs,St. Louis Blues,202202060236,2022020602,Shot,36,SHOT,Auston Matthews Slap Shot saved by Jordan Binnington,2023-01-04T00:36:49Z,1,15:00,05:00,0,2,10.0,Toronto Maple Leafs,TOR
+80,10,19,Toronto Maple Leafs,St. Louis Blues,202202060237,2022020602,Blocked Shot,37,BLOCKED_SHOT,Jordan Kyrou shot blocked shot by TJ Brodie,2023-01-04T00:37:24Z,1,15:35,04:25,0,2,10.0,Toronto Maple Leafs,TOR
+81,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602184,2022020602,Hit,184,HIT,Justin Holl hit Nick Leddy,2023-01-04T00:37:56Z,1,16:07,03:53,0,2,10.0,Toronto Maple Leafs,TOR
+82,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602185,2022020602,Hit,185,HIT,Tyler Pitlick hit Dryden Hunt,2023-01-04T00:38:04Z,1,16:15,03:45,0,2,19.0,St. Louis Blues,STL
+83,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602186,2022020602,Hit,186,HIT,Robert Bortuzzo hit Dryden Hunt,2023-01-04T00:38:17Z,1,16:28,03:32,0,2,19.0,St. Louis Blues,STL
+84,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602187,2022020602,Hit,187,HIT,David Kampf hit Calle Rosen,2023-01-04T00:39:08Z,1,17:19,02:41,0,2,10.0,Toronto Maple Leafs,TOR
+85,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602124,2022020602,Giveaway,124,GIVEAWAY,Giveaway by Ivan Barbashev,2023-01-04T00:39:13Z,1,17:24,02:36,0,2,19.0,St. Louis Blues,STL
+86,10,19,Toronto Maple Leafs,St. Louis Blues,202202060238,2022020602,Goal,38,GOAL,"Pierre Engvall (8) Tip-In, assists: Alexander Kerfoot (13), David Kampf (11)",2023-01-04T00:39:18Z,1,17:28,02:32,1,2,10.0,Toronto Maple Leafs,TOR
+87,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602125,2022020602,Faceoff,125,FACEOFF,David Kampf faceoff won against Robert Thomas,2023-01-04T00:40:02Z,1,17:28,02:32,1,2,10.0,Toronto Maple Leafs,TOR
+88,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602188,2022020602,Hit,188,HIT,Noel Acciari hit William Nylander,2023-01-04T00:41:02Z,1,18:28,01:32,1,2,19.0,St. Louis Blues,STL
+89,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602126,2022020602,Takeaway,126,TAKEAWAY,Takeaway by William Nylander,2023-01-04T00:41:17Z,1,18:43,01:17,1,2,10.0,Toronto Maple Leafs,TOR
+90,10,19,Toronto Maple Leafs,St. Louis Blues,202202060239,2022020602,Shot,39,SHOT,Michael Bunting Wrist Shot saved by Jordan Binnington,2023-01-04T00:41:19Z,1,18:45,01:15,1,2,10.0,Toronto Maple Leafs,TOR
+91,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602127,2022020602,Takeaway,127,TAKEAWAY,Takeaway by Auston Matthews,2023-01-04T00:41:24Z,1,18:50,01:10,1,2,10.0,Toronto Maple Leafs,TOR
+92,10,19,Toronto Maple Leafs,St. Louis Blues,202202060240,2022020602,Shot,40,SHOT,Auston Matthews Snap Shot saved by Jordan Binnington,2023-01-04T00:41:25Z,1,18:51,01:09,1,2,10.0,Toronto Maple Leafs,TOR
+93,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602189,2022020602,Hit,189,HIT,Morgan Rielly hit Jake Neighbours,2023-01-04T00:41:34Z,1,19:00,01:00,1,2,10.0,Toronto Maple Leafs,TOR
+94,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602128,2022020602,Giveaway,128,GIVEAWAY,Giveaway by Mark Giordano,2023-01-04T00:41:35Z,1,19:01,00:59,1,2,10.0,Toronto Maple Leafs,TOR
+95,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602190,2022020602,Hit,190,HIT,Josh Leivo hit Mitchell Marner,2023-01-04T00:41:43Z,1,19:09,00:51,1,2,19.0,St. Louis Blues,STL
+96,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602191,2022020602,Hit,191,HIT,John Tavares hit Brayden Schenn,2023-01-04T00:42:00Z,1,19:26,00:34,1,2,10.0,Toronto Maple Leafs,TOR
+97,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602192,2022020602,Hit,192,HIT,Alexey Toropchenko hit Justin Holl,2023-01-04T00:42:15Z,1,19:41,00:19,1,2,19.0,St. Louis Blues,STL
+98,10,19,Toronto Maple Leafs,St. Louis Blues,202202060241,2022020602,Period End,41,PERIOD_END,End of 1st Period,2023-01-04T00:42:34Z,1,20:00,00:00,1,2,,,
+99,10,19,Toronto Maple Leafs,St. Louis Blues,202202060244,2022020602,Period Official,44,PERIOD_OFFICIAL,Period Official,2023-01-04T00:57:47Z,1,20:00,00:00,1,2,,,
+100,10,19,Toronto Maple Leafs,St. Louis Blues,202202060245,2022020602,Period Ready,45,PERIOD_READY,Period Ready,2023-01-04T00:57:54Z,2,00:00,20:00,1,2,,,
+101,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602129,2022020602,Period Start,129,PERIOD_START,Period Start,2023-01-04T01:01:15Z,2,00:00,20:00,1,2,,,
+102,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602130,2022020602,Faceoff,130,FACEOFF,David Kampf faceoff won against Robert Thomas,2023-01-04T01:01:15Z,2,00:00,20:00,1,2,10.0,Toronto Maple Leafs,TOR
+103,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602193,2022020602,Hit,193,HIT,Michael Bunting hit Niko Mikkola,2023-01-04T01:02:43Z,2,01:28,18:32,1,2,10.0,Toronto Maple Leafs,TOR
+104,10,19,Toronto Maple Leafs,St. Louis Blues,202202060246,2022020602,Shot,46,SHOT,Brayden Schenn Wrist Shot saved by Ilya Samsonov,2023-01-04T01:02:51Z,2,01:36,18:24,1,2,19.0,St. Louis Blues,STL
+105,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602194,2022020602,Stoppage,194,STOP,Goalie Stopped,2023-01-04T01:02:51Z,2,01:36,18:24,1,2,,,
+106,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602131,2022020602,Faceoff,131,FACEOFF,John Tavares faceoff won against Robert Thomas,2023-01-04T01:03:27Z,2,01:36,18:24,1,2,10.0,Toronto Maple Leafs,TOR
+107,10,19,Toronto Maple Leafs,St. Louis Blues,202202060247,2022020602,Missed Shot,47,MISSED_SHOT,Timothy Liljegren Wide of Net Jordan Binnington,2023-01-04T01:03:44Z,2,01:53,18:07,1,2,10.0,Toronto Maple Leafs,TOR
+108,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602384,2022020602,Penalty,384,PENALTY,John Tavares High-sticking against Nick Leddy,2023-01-04T01:03:44Z,2,01:53,18:07,1,2,10.0,Toronto Maple Leafs,TOR
+109,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602132,2022020602,Faceoff,132,FACEOFF,Brayden Schenn faceoff won against David Kampf,2023-01-04T01:04:28Z,2,01:53,18:07,1,2,19.0,St. Louis Blues,STL
+110,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602198,2022020602,Hit,198,HIT,David Kampf hit Robert Thomas,2023-01-04T01:04:40Z,2,02:05,17:55,1,2,10.0,Toronto Maple Leafs,TOR
+111,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602135,2022020602,Giveaway,135,GIVEAWAY,Giveaway by Robert Thomas,2023-01-04T01:04:42Z,2,02:07,17:53,1,2,19.0,St. Louis Blues,STL
+112,10,19,Toronto Maple Leafs,St. Louis Blues,202202060248,2022020602,Blocked Shot,48,BLOCKED_SHOT,Justin Faulk shot blocked shot by Alexander Kerfoot,2023-01-04T01:05:31Z,2,02:56,17:04,1,2,10.0,Toronto Maple Leafs,TOR
+113,10,19,Toronto Maple Leafs,St. Louis Blues,202202060249,2022020602,Missed Shot,49,MISSED_SHOT,Brayden Schenn Wide of Net Ilya Samsonov,2023-01-04T01:05:37Z,2,03:02,16:58,1,2,19.0,St. Louis Blues,STL
+114,10,19,Toronto Maple Leafs,St. Louis Blues,202202060250,2022020602,Shot,50,SHOT,Brayden Schenn Wrist Shot saved by Ilya Samsonov,2023-01-04T01:05:40Z,2,03:05,16:55,1,2,19.0,St. Louis Blues,STL
+115,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602251,2022020602,Goal,251,GOAL,"Jordan Kyrou (18) Wrist Shot, assists: Pavel Buchnevich (17)",2023-01-04T01:05:44Z,2,03:09,16:51,1,3,19.0,St. Louis Blues,STL
+116,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602136,2022020602,Faceoff,136,FACEOFF,Pontus Holmberg faceoff won against Noel Acciari,2023-01-04T01:06:33Z,2,03:09,16:51,1,3,10.0,Toronto Maple Leafs,TOR
+117,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602252,2022020602,Shot,252,SHOT,Josh Leivo Wrist Shot saved by Ilya Samsonov,2023-01-04T01:06:42Z,2,03:18,16:42,1,3,19.0,St. Louis Blues,STL
+118,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602253,2022020602,Shot,253,SHOT,Dryden Hunt Wrist Shot saved by Jordan Binnington,2023-01-04T01:06:52Z,2,03:28,16:32,1,3,10.0,Toronto Maple Leafs,TOR
+119,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602254,2022020602,Shot,254,SHOT,Zach Aston-Reese Wrist Shot saved by Jordan Binnington,2023-01-04T01:07:02Z,2,03:38,16:22,1,3,10.0,Toronto Maple Leafs,TOR
+120,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602199,2022020602,Hit,199,HIT,Jake Neighbours hit Pontus Holmberg,2023-01-04T01:07:10Z,2,03:46,16:14,1,3,19.0,St. Louis Blues,STL
+121,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602651,2022020602,Blocked Shot,651,BLOCKED_SHOT,Timothy Liljegren shot blocked shot by Jake Neighbours,2023-01-04T01:07:15Z,2,03:51,16:09,1,3,19.0,St. Louis Blues,STL
+122,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602255,2022020602,Missed Shot,255,MISSED_SHOT,Zach Aston-Reese Wide of Net Jordan Binnington,2023-01-04T01:07:20Z,2,03:56,16:04,1,3,10.0,Toronto Maple Leafs,TOR
+123,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602200,2022020602,Hit,200,HIT,Dryden Hunt hit Robert Bortuzzo,2023-01-04T01:07:23Z,2,03:59,16:01,1,3,10.0,Toronto Maple Leafs,TOR
+124,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602256,2022020602,Shot,256,SHOT,Ivan Barbashev Snap Shot saved by Ilya Samsonov,2023-01-04T01:07:34Z,2,04:10,15:50,1,3,19.0,St. Louis Blues,STL
+125,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602401,2022020602,Hit,401,HIT,Rasmus Sandin hit Ivan Barbashev,2023-01-04T01:07:39Z,2,04:15,15:45,1,3,10.0,Toronto Maple Leafs,TOR
+126,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602257,2022020602,Goal,257,GOAL,"William Nylander (22) Slap Shot, assists: Michael Bunting (16), Auston Matthews (25)",2023-01-04T01:08:02Z,2,04:38,15:22,2,3,10.0,Toronto Maple Leafs,TOR
+127,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602137,2022020602,Faceoff,137,FACEOFF,John Tavares faceoff won against Nikita Alexandrov,2023-01-04T01:08:46Z,2,04:38,15:22,2,3,10.0,Toronto Maple Leafs,TOR
+128,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602402,2022020602,Hit,402,HIT,Tyler Pitlick hit Mark Giordano,2023-01-04T01:08:54Z,2,04:46,15:14,2,3,19.0,St. Louis Blues,STL
+129,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602138,2022020602,Takeaway,138,TAKEAWAY,Takeaway by Mitchell Marner,2023-01-04T01:09:03Z,2,04:55,15:05,2,3,10.0,Toronto Maple Leafs,TOR
+130,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602139,2022020602,Takeaway,139,TAKEAWAY,Takeaway by Mitchell Marner,2023-01-04T01:09:11Z,2,05:03,14:57,2,3,10.0,Toronto Maple Leafs,TOR
+131,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602140,2022020602,Giveaway,140,GIVEAWAY,Giveaway by Alexander Kerfoot,2023-01-04T01:09:48Z,2,05:40,14:20,2,3,10.0,Toronto Maple Leafs,TOR
+132,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602258,2022020602,Blocked Shot,258,BLOCKED_SHOT,Calle Rosen shot blocked shot by David Kampf,2023-01-04T01:09:49Z,2,05:41,14:19,2,3,10.0,Toronto Maple Leafs,TOR
+133,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602259,2022020602,Missed Shot,259,MISSED_SHOT,Zach Aston-Reese Wide of Net Jordan Binnington,2023-01-04T01:10:32Z,2,06:24,13:36,2,3,10.0,Toronto Maple Leafs,TOR
+134,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602403,2022020602,Hit,403,HIT,Jake Neighbours hit Dryden Hunt,2023-01-04T01:10:38Z,2,06:30,13:30,2,3,19.0,St. Louis Blues,STL
+135,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602410,2022020602,Hit,410,HIT,Robert Thomas hit Dryden Hunt,2023-01-04T01:10:39Z,2,06:31,13:29,2,3,19.0,St. Louis Blues,STL
+136,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602404,2022020602,Hit,404,HIT,Josh Leivo hit Pontus Holmberg,2023-01-04T01:11:09Z,2,07:01,12:59,2,3,19.0,St. Louis Blues,STL
+137,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602141,2022020602,Giveaway,141,GIVEAWAY,Giveaway by Timothy Liljegren,2023-01-04T01:11:27Z,2,07:19,12:41,2,3,10.0,Toronto Maple Leafs,TOR
+138,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602405,2022020602,Hit,405,HIT,Timothy Liljegren hit Noel Acciari,2023-01-04T01:11:37Z,2,07:29,12:31,2,3,10.0,Toronto Maple Leafs,TOR
+139,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602260,2022020602,Blocked Shot,260,BLOCKED_SHOT,Justin Faulk shot blocked shot by Auston Matthews,2023-01-04T01:11:51Z,2,07:43,12:17,2,3,10.0,Toronto Maple Leafs,TOR
+140,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602261,2022020602,Shot,261,SHOT,Nick Leddy Tip-In saved by Ilya Samsonov,2023-01-04T01:11:54Z,2,07:46,12:14,2,3,19.0,St. Louis Blues,STL
+141,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602142,2022020602,Giveaway,142,GIVEAWAY,Giveaway by Auston Matthews,2023-01-04T01:11:58Z,2,07:50,12:10,2,3,10.0,Toronto Maple Leafs,TOR
+142,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602406,2022020602,Hit,406,HIT,Brayden Schenn hit Timothy Liljegren,2023-01-04T01:12:18Z,2,08:10,11:50,2,3,19.0,St. Louis Blues,STL
+143,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602407,2022020602,Hit,407,HIT,Niko Mikkola hit John Tavares,2023-01-04T01:12:25Z,2,08:17,11:43,2,3,19.0,St. Louis Blues,STL
+144,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602652,2022020602,Missed Shot,652,MISSED_SHOT,Brandon Saad Wide of Net Ilya Samsonov,2023-01-04T01:12:33Z,2,08:25,11:35,2,3,19.0,St. Louis Blues,STL
+145,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602263,2022020602,Shot,263,SHOT,Brandon Saad Wrist Shot saved by Ilya Samsonov,2023-01-04T01:12:44Z,2,08:36,11:24,2,3,19.0,St. Louis Blues,STL
+146,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602408,2022020602,Stoppage,408,STOP,Goalie Stopped,2023-01-04T01:12:45Z,2,08:37,11:23,2,3,,,
+147,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602143,2022020602,Faceoff,143,FACEOFF,Robert Thomas faceoff won against David Kampf,2023-01-04T01:15:06Z,2,08:37,11:23,2,3,19.0,St. Louis Blues,STL
+148,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602409,2022020602,Stoppage,409,STOP,Goalie Stopped,2023-01-04T01:15:28Z,2,08:59,11:01,2,3,,,
+149,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602144,2022020602,Faceoff,144,FACEOFF,Brayden Schenn faceoff won against David Kampf,2023-01-04T01:16:09Z,2,08:59,11:01,2,3,19.0,St. Louis Blues,STL
+150,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602264,2022020602,Blocked Shot,264,BLOCKED_SHOT,Justin Faulk shot blocked shot by Alexander Kerfoot,2023-01-04T01:16:23Z,2,09:13,10:47,2,3,10.0,Toronto Maple Leafs,TOR
+151,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602265,2022020602,Missed Shot,265,MISSED_SHOT,Brayden Schenn Wide of Net Ilya Samsonov,2023-01-04T01:16:24Z,2,09:14,10:46,2,3,19.0,St. Louis Blues,STL
+152,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602411,2022020602,Hit,411,HIT,Brayden Schenn hit David Kampf,2023-01-04T01:16:49Z,2,09:39,10:21,2,3,19.0,St. Louis Blues,STL
+153,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602412,2022020602,Hit,412,HIT,Dryden Hunt hit Josh Leivo,2023-01-04T01:17:22Z,2,10:12,09:48,2,3,10.0,Toronto Maple Leafs,TOR
+154,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602413,2022020602,Hit,413,HIT,Jake Neighbours hit Mark Giordano,2023-01-04T01:17:35Z,2,10:25,09:35,2,3,19.0,St. Louis Blues,STL
+155,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602266,2022020602,Shot,266,SHOT,Josh Leivo Wrist Shot saved by Ilya Samsonov,2023-01-04T01:17:37Z,2,10:27,09:33,2,3,19.0,St. Louis Blues,STL
+156,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602267,2022020602,Goal,267,GOAL,"Josh Leivo (4) Wrist Shot, assists: Jake Neighbours (1), Noel Acciari (6)",2023-01-04T01:17:38Z,2,10:28,09:32,2,4,19.0,St. Louis Blues,STL
+157,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602145,2022020602,Faceoff,145,FACEOFF,Auston Matthews faceoff won against Robert Thomas,2023-01-04T01:18:23Z,2,10:28,09:32,2,4,10.0,Toronto Maple Leafs,TOR
+158,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602146,2022020602,Takeaway,146,TAKEAWAY,Takeaway by Michael Bunting,2023-01-04T01:18:34Z,2,10:39,09:21,2,4,10.0,Toronto Maple Leafs,TOR
+159,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602272,2022020602,Shot,272,SHOT,TJ Brodie Wrist Shot saved by Jordan Binnington,2023-01-04T01:18:37Z,2,10:42,09:18,2,4,10.0,Toronto Maple Leafs,TOR
+160,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602268,2022020602,Goal,268,GOAL,"Michael Bunting (12) Wrist Shot, assists: TJ Brodie (5)",2023-01-04T01:18:41Z,2,10:45,09:15,3,4,10.0,Toronto Maple Leafs,TOR
+161,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602147,2022020602,Faceoff,147,FACEOFF,Auston Matthews faceoff won against Robert Thomas,2023-01-04T01:19:22Z,2,10:45,09:15,3,4,10.0,Toronto Maple Leafs,TOR
+162,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602148,2022020602,Takeaway,148,TAKEAWAY,Takeaway by Pavel Buchnevich,2023-01-04T01:19:48Z,2,11:11,08:49,3,4,19.0,St. Louis Blues,STL
+163,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602414,2022020602,Hit,414,HIT,Robert Thomas hit TJ Brodie,2023-01-04T01:19:59Z,2,11:22,08:38,3,4,19.0,St. Louis Blues,STL
+164,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602269,2022020602,Goal,269,GOAL,"Brandon Saad (10) Wrist Shot, assists: Brayden Schenn (21), Colton Parayko (10)",2023-01-04T01:20:23Z,2,11:45,08:15,3,5,19.0,St. Louis Blues,STL
+165,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602149,2022020602,Faceoff,149,FACEOFF,David Kampf faceoff won against Brayden Schenn,2023-01-04T01:21:05Z,2,11:45,08:15,3,5,10.0,Toronto Maple Leafs,TOR
+166,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602415,2022020602,Hit,415,HIT,Ivan Barbashev hit Pierre Engvall,2023-01-04T01:21:20Z,2,12:00,08:00,3,5,19.0,St. Louis Blues,STL
+167,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602150,2022020602,Giveaway,150,GIVEAWAY,Giveaway by Ivan Barbashev,2023-01-04T01:21:22Z,2,12:02,07:58,3,5,19.0,St. Louis Blues,STL
+168,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602270,2022020602,Shot,270,SHOT,Nikita Alexandrov Snap Shot saved by Ilya Samsonov,2023-01-04T01:21:51Z,2,12:31,07:29,3,5,19.0,St. Louis Blues,STL
+169,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602271,2022020602,Shot,271,SHOT,Nick Leddy Slap Shot saved by Ilya Samsonov,2023-01-04T01:21:59Z,2,12:39,07:21,3,5,19.0,St. Louis Blues,STL
+170,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602416,2022020602,Stoppage,416,STOP,Goalie Stopped,2023-01-04T01:22:00Z,2,12:40,07:20,3,5,,,
+171,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602451,2022020602,Faceoff,451,FACEOFF,David Kampf faceoff won against Nikita Alexandrov,2023-01-04T01:24:18Z,2,12:40,07:20,3,5,10.0,Toronto Maple Leafs,TOR
+172,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602452,2022020602,Takeaway,452,TAKEAWAY,Takeaway by Pierre Engvall,2023-01-04T01:24:50Z,2,13:12,06:48,3,5,10.0,Toronto Maple Leafs,TOR
+173,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602417,2022020602,Hit,417,HIT,Zach Aston-Reese hit Calle Rosen,2023-01-04T01:25:44Z,2,14:06,05:54,3,5,10.0,Toronto Maple Leafs,TOR
+174,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602418,2022020602,Hit,418,HIT,Dryden Hunt hit Robert Bortuzzo,2023-01-04T01:25:49Z,2,14:11,05:49,3,5,10.0,Toronto Maple Leafs,TOR
+175,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602419,2022020602,Stoppage,419,STOP,Icing,2023-01-04T01:25:54Z,2,14:16,05:44,3,5,,,
+176,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602453,2022020602,Faceoff,453,FACEOFF,Noel Acciari faceoff won against Auston Matthews,2023-01-04T01:26:17Z,2,14:16,05:44,3,5,19.0,St. Louis Blues,STL
+177,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602273,2022020602,Goal,273,GOAL,"Auston Matthews (19) Wrist Shot, assists: William Nylander (22), Timothy Liljegren (5)",2023-01-04T01:26:39Z,2,14:37,05:23,4,5,10.0,Toronto Maple Leafs,TOR
+178,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602454,2022020602,Faceoff,454,FACEOFF,John Tavares faceoff won against Robert Thomas,2023-01-04T01:27:28Z,2,14:37,05:23,4,5,10.0,Toronto Maple Leafs,TOR
+179,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602274,2022020602,Missed Shot,274,MISSED_SHOT,John Tavares Wide of Net Jordan Binnington,2023-01-04T01:27:55Z,2,15:04,04:56,4,5,10.0,Toronto Maple Leafs,TOR
+180,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602275,2022020602,Shot,275,SHOT,Mark Giordano Wrist Shot saved by Jordan Binnington,2023-01-04T01:27:58Z,2,15:07,04:53,4,5,10.0,Toronto Maple Leafs,TOR
+181,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602420,2022020602,Stoppage,420,STOP,Goalie Stopped,2023-01-04T01:27:58Z,2,15:07,04:53,4,5,,,
+182,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602455,2022020602,Faceoff,455,FACEOFF,Robert Thomas faceoff won against David Kampf,2023-01-04T01:30:14Z,2,15:07,04:53,4,5,19.0,St. Louis Blues,STL
+183,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602421,2022020602,Stoppage,421,STOP,Hand Pass,2023-01-04T01:30:19Z,2,15:12,04:48,4,5,,,
+184,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602456,2022020602,Faceoff,456,FACEOFF,David Kampf faceoff won against Brayden Schenn,2023-01-04T01:30:46Z,2,15:12,04:48,4,5,10.0,Toronto Maple Leafs,TOR
+185,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602276,2022020602,Shot,276,SHOT,Ivan Barbashev Wrist Shot saved by Ilya Samsonov,2023-01-04T01:31:05Z,2,15:31,04:29,4,5,19.0,St. Louis Blues,STL
+186,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602277,2022020602,Missed Shot,277,MISSED_SHOT,Brandon Saad Wide of Net Ilya Samsonov,2023-01-04T01:31:10Z,2,15:36,04:24,4,5,19.0,St. Louis Blues,STL
+187,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602457,2022020602,Giveaway,457,GIVEAWAY,Giveaway by Ivan Barbashev,2023-01-04T01:31:47Z,2,16:13,03:47,4,5,19.0,St. Louis Blues,STL
+188,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602278,2022020602,Shot,278,SHOT,Calle Jarnkrok Snap Shot saved by Jordan Binnington,2023-01-04T01:33:23Z,2,17:49,02:11,4,5,10.0,Toronto Maple Leafs,TOR
+189,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602422,2022020602,Hit,422,HIT,John Tavares hit Nick Leddy,2023-01-04T01:33:28Z,2,17:54,02:06,4,5,10.0,Toronto Maple Leafs,TOR
+190,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602423,2022020602,Stoppage,423,STOP,High Stick,2023-01-04T01:33:33Z,2,17:58,02:02,4,5,,,
+191,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602458,2022020602,Faceoff,458,FACEOFF,John Tavares faceoff won against Brayden Schenn,2023-01-04T01:34:05Z,2,17:58,02:02,4,5,10.0,Toronto Maple Leafs,TOR
+192,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602424,2022020602,Hit,424,HIT,Colton Parayko hit Calle Jarnkrok,2023-01-04T01:34:32Z,2,18:25,01:35,4,5,19.0,St. Louis Blues,STL
+193,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602425,2022020602,Hit,425,HIT,David Kampf hit Niko Mikkola,2023-01-04T01:34:47Z,2,18:40,01:20,4,5,10.0,Toronto Maple Leafs,TOR
+194,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602279,2022020602,Shot,279,SHOT,Rasmus Sandin Slap Shot saved by Jordan Binnington,2023-01-04T01:34:50Z,2,18:43,01:17,4,5,10.0,Toronto Maple Leafs,TOR
+195,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602426,2022020602,Stoppage,426,STOP,Goalie Stopped,2023-01-04T01:34:50Z,2,18:43,01:17,4,5,,,
+196,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602459,2022020602,Faceoff,459,FACEOFF,Robert Thomas faceoff won against Auston Matthews,2023-01-04T01:35:26Z,2,18:43,01:17,4,5,19.0,St. Louis Blues,STL
+197,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602427,2022020602,Stoppage,427,STOP,Icing,2023-01-04T01:35:33Z,2,18:50,01:10,4,5,,,
+198,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602460,2022020602,Faceoff,460,FACEOFF,Robert Thomas faceoff won against Auston Matthews,2023-01-04T01:36:00Z,2,18:50,01:10,4,5,19.0,St. Louis Blues,STL
+199,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602280,2022020602,Missed Shot,280,MISSED_SHOT,Michael Bunting Over Net Jordan Binnington,2023-01-04T01:36:26Z,2,19:16,00:44,4,5,10.0,Toronto Maple Leafs,TOR
+200,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602428,2022020602,Hit,428,HIT,Robert Thomas hit Justin Holl,2023-01-04T01:36:33Z,2,19:23,00:37,4,5,19.0,St. Louis Blues,STL
+201,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602429,2022020602,Stoppage,429,STOP,Puck in Netting,2023-01-04T01:36:36Z,2,19:25,00:35,4,5,,,
+202,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602461,2022020602,Faceoff,461,FACEOFF,John Tavares faceoff won against Brayden Schenn,2023-01-04T01:37:05Z,2,19:25,00:35,4,5,10.0,Toronto Maple Leafs,TOR
+203,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602462,2022020602,Giveaway,462,GIVEAWAY,Giveaway by Colton Parayko,2023-01-04T01:37:23Z,2,19:43,00:17,4,5,19.0,St. Louis Blues,STL
+204,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602281,2022020602,Period End,281,PERIOD_END,End of 2nd Period,2023-01-04T01:37:40Z,2,20:00,00:00,4,5,,,
+205,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602284,2022020602,Period Official,284,PERIOD_OFFICIAL,Period Official,2023-01-04T01:56:26Z,2,20:00,00:00,4,5,,,
+206,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602285,2022020602,Period Ready,285,PERIOD_READY,Period Ready,2023-01-04T01:56:29Z,3,00:00,20:00,4,5,,,
+207,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602463,2022020602,Period Start,463,PERIOD_START,Period Start,2023-01-04T01:56:34Z,3,00:00,20:00,4,5,,,
+208,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602464,2022020602,Faceoff,464,FACEOFF,Robert Thomas faceoff won against David Kampf,2023-01-04T01:56:34Z,3,00:00,20:00,4,5,19.0,St. Louis Blues,STL
+209,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602430,2022020602,Hit,430,HIT,Jordan Kyrou hit TJ Brodie,2023-01-04T01:57:09Z,3,00:35,19:25,4,5,19.0,St. Louis Blues,STL
+210,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602431,2022020602,Hit,431,HIT,Brayden Schenn hit Auston Matthews,2023-01-04T01:58:02Z,3,01:28,18:32,4,5,19.0,St. Louis Blues,STL
+211,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602465,2022020602,Giveaway,465,GIVEAWAY,Giveaway by Niko Mikkola,2023-01-04T01:58:14Z,3,01:40,18:20,4,5,19.0,St. Louis Blues,STL
+212,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602286,2022020602,Missed Shot,286,MISSED_SHOT,Michael Bunting Wide of Net Jordan Binnington,2023-01-04T01:58:16Z,3,01:42,18:18,4,5,10.0,Toronto Maple Leafs,TOR
+213,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602287,2022020602,Missed Shot,287,MISSED_SHOT,Auston Matthews Wide of Net Jordan Binnington,2023-01-04T01:58:23Z,3,01:49,18:11,4,5,10.0,Toronto Maple Leafs,TOR
+214,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602288,2022020602,Missed Shot,288,MISSED_SHOT,Auston Matthews Wide of Net Jordan Binnington,2023-01-04T01:58:29Z,3,01:55,18:05,4,5,10.0,Toronto Maple Leafs,TOR
+215,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602653,2022020602,Blocked Shot,653,BLOCKED_SHOT,Auston Matthews shot blocked shot by Colton Parayko,2023-01-04T01:58:34Z,3,02:00,18:00,4,5,19.0,St. Louis Blues,STL
+216,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602432,2022020602,Stoppage,432,STOP,Net Dislodged Offensive Skater,2023-01-04T01:58:36Z,3,02:01,17:59,4,5,,,
+217,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602466,2022020602,Faceoff,466,FACEOFF,John Tavares faceoff won against Noel Acciari,2023-01-04T01:59:08Z,3,02:01,17:59,4,5,10.0,Toronto Maple Leafs,TOR
+218,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602433,2022020602,Hit,433,HIT,Justin Faulk hit John Tavares,2023-01-04T01:59:40Z,3,02:33,17:27,4,5,19.0,St. Louis Blues,STL
+219,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602289,2022020602,Blocked Shot,289,BLOCKED_SHOT,Morgan Rielly shot blocked shot by Tyler Pitlick,2023-01-04T02:00:44Z,3,03:37,16:23,4,5,19.0,St. Louis Blues,STL
+220,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602434,2022020602,Hit,434,HIT,Zach Aston-Reese hit Tyler Pitlick,2023-01-04T02:00:48Z,3,03:41,16:19,4,5,10.0,Toronto Maple Leafs,TOR
+221,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602435,2022020602,Hit,435,HIT,Pavel Buchnevich hit Morgan Rielly,2023-01-04T02:01:08Z,3,04:01,15:59,4,5,19.0,St. Louis Blues,STL
+222,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602290,2022020602,Shot,290,SHOT,Justin Faulk Snap Shot saved by Ilya Samsonov,2023-01-04T02:01:33Z,3,04:26,15:34,4,5,19.0,St. Louis Blues,STL
+223,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602291,2022020602,Shot,291,SHOT,Mark Giordano Wrist Shot saved by Jordan Binnington,2023-01-04T02:01:43Z,3,04:36,15:24,4,5,10.0,Toronto Maple Leafs,TOR
+224,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602436,2022020602,Hit,436,HIT,Robert Bortuzzo hit Pierre Engvall,2023-01-04T02:02:18Z,3,05:11,14:49,4,5,19.0,St. Louis Blues,STL
+225,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602293,2022020602,Blocked Shot,293,BLOCKED_SHOT,Timothy Liljegren shot blocked shot by Robert Bortuzzo,2023-01-04T02:02:20Z,3,05:13,14:47,4,5,19.0,St. Louis Blues,STL
+226,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602292,2022020602,Shot,292,SHOT,Pierre Engvall Wrist Shot saved by Jordan Binnington,2023-01-04T02:02:21Z,3,05:15,14:45,4,5,10.0,Toronto Maple Leafs,TOR
+227,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602437,2022020602,Stoppage,437,STOP,Goalie Stopped,2023-01-04T02:02:21Z,3,05:15,14:45,4,5,,,
+228,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602467,2022020602,Faceoff,467,FACEOFF,Noel Acciari faceoff won against John Tavares,2023-01-04T02:02:50Z,3,05:15,14:45,4,5,19.0,St. Louis Blues,STL
+229,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602294,2022020602,Missed Shot,294,MISSED_SHOT,Noel Acciari Wide of Net Ilya Samsonov,2023-01-04T02:03:11Z,3,05:36,14:24,4,5,19.0,St. Louis Blues,STL
+230,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602438,2022020602,Hit,438,HIT,Josh Leivo hit Dryden Hunt,2023-01-04T02:03:19Z,3,05:44,14:16,4,5,19.0,St. Louis Blues,STL
+231,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602439,2022020602,Hit,439,HIT,Noel Acciari hit Mitchell Marner,2023-01-04T02:03:24Z,3,05:49,14:11,4,5,19.0,St. Louis Blues,STL
+232,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602295,2022020602,Shot,295,SHOT,Rasmus Sandin Wrist Shot saved by Jordan Binnington,2023-01-04T02:03:30Z,3,05:55,14:05,4,5,10.0,Toronto Maple Leafs,TOR
+233,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602440,2022020602,Hit,440,HIT,Niko Mikkola hit Dryden Hunt,2023-01-04T02:03:52Z,3,06:17,13:43,4,5,19.0,St. Louis Blues,STL
+234,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602441,2022020602,Hit,441,HIT,Noel Acciari hit TJ Brodie,2023-01-04T02:03:59Z,3,06:24,13:36,4,5,19.0,St. Louis Blues,STL
+235,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602442,2022020602,Stoppage,442,STOP,Puck in Crowd,2023-01-04T02:04:08Z,3,06:32,13:28,4,5,,,
+236,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602468,2022020602,Faceoff,468,FACEOFF,Auston Matthews faceoff won against Robert Thomas,2023-01-04T02:06:28Z,3,06:32,13:28,4,5,10.0,Toronto Maple Leafs,TOR
+237,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602469,2022020602,Takeaway,469,TAKEAWAY,Takeaway by Robert Thomas,2023-01-04T02:06:43Z,3,06:47,13:13,4,5,19.0,St. Louis Blues,STL
+238,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602837,2022020602,Penalty,837,PENALTY,Robert Thomas High-sticking against Michael Bunting,2023-01-04T02:06:50Z,3,06:54,13:06,4,5,19.0,St. Louis Blues,STL
+239,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602470,2022020602,Faceoff,470,FACEOFF,John Tavares faceoff won against Noel Acciari,2023-01-04T02:07:28Z,3,06:54,13:06,4,5,10.0,Toronto Maple Leafs,TOR
+240,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602296,2022020602,Shot,296,SHOT,Michael Bunting Wrist Shot saved by Jordan Binnington,2023-01-04T02:07:52Z,3,07:18,12:42,4,5,10.0,Toronto Maple Leafs,TOR
+241,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602472,2022020602,Giveaway,472,GIVEAWAY,Giveaway by William Nylander,2023-01-04T02:07:55Z,3,07:21,12:39,4,5,10.0,Toronto Maple Leafs,TOR
+242,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602297,2022020602,Goal,297,GOAL,"Michael Bunting (13) Wrist Shot, assists: William Nylander (23), Mitchell Marner (29)",2023-01-04T02:08:28Z,3,07:55,12:05,5,5,10.0,Toronto Maple Leafs,TOR
+243,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602473,2022020602,Faceoff,473,FACEOFF,Brayden Schenn faceoff won against David Kampf,2023-01-04T02:09:23Z,3,07:55,12:05,5,5,19.0,St. Louis Blues,STL
+244,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602474,2022020602,Giveaway,474,GIVEAWAY,Giveaway by Brandon Saad,2023-01-04T02:09:42Z,3,08:14,11:46,5,5,19.0,St. Louis Blues,STL
+245,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602298,2022020602,Blocked Shot,298,BLOCKED_SHOT,Pierre Engvall shot blocked shot by Justin Faulk,2023-01-04T02:09:57Z,3,08:29,11:31,5,5,19.0,St. Louis Blues,STL
+246,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602445,2022020602,Hit,445,HIT,Robert Bortuzzo hit David Kampf,2023-01-04T02:10:16Z,3,08:48,11:12,5,5,19.0,St. Louis Blues,STL
+247,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602446,2022020602,Hit,446,HIT,Robert Bortuzzo hit David Kampf,2023-01-04T02:10:23Z,3,08:55,11:05,5,5,19.0,St. Louis Blues,STL
+248,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602447,2022020602,Hit,447,HIT,Brayden Schenn hit Mark Giordano,2023-01-04T02:10:30Z,3,09:02,10:58,5,5,19.0,St. Louis Blues,STL
+249,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602299,2022020602,Blocked Shot,299,BLOCKED_SHOT,Zach Aston-Reese shot blocked shot by Nick Leddy,2023-01-04T02:10:37Z,3,09:09,10:51,5,5,19.0,St. Louis Blues,STL
+250,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602300,2022020602,Blocked Shot,300,BLOCKED_SHOT,Zach Aston-Reese shot blocked shot by Nick Leddy,2023-01-04T02:10:39Z,3,09:11,10:49,5,5,19.0,St. Louis Blues,STL
+251,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602448,2022020602,Hit,448,HIT,Zach Aston-Reese hit Ivan Barbashev,2023-01-04T02:10:42Z,3,09:14,10:46,5,5,10.0,Toronto Maple Leafs,TOR
+252,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602449,2022020602,Stoppage,449,STOP,Icing,2023-01-04T02:10:46Z,3,09:18,10:42,5,5,,,
+253,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602475,2022020602,Faceoff,475,FACEOFF,Auston Matthews faceoff won against Brayden Schenn,2023-01-04T02:11:14Z,3,09:18,10:42,5,5,10.0,Toronto Maple Leafs,TOR
+254,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602450,2022020602,Hit,450,HIT,Brayden Schenn hit Auston Matthews,2023-01-04T02:11:22Z,3,09:26,10:34,5,5,19.0,St. Louis Blues,STL
+255,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602751,2022020602,Hit,751,HIT,Noel Acciari hit Mitchell Marner,2023-01-04T02:12:29Z,3,10:33,09:27,5,5,19.0,St. Louis Blues,STL
+256,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602701,2022020602,Blocked Shot,701,BLOCKED_SHOT,Calle Jarnkrok shot blocked shot by Noel Acciari,2023-01-04T02:12:35Z,3,10:39,09:21,5,5,19.0,St. Louis Blues,STL
+257,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602702,2022020602,Missed Shot,702,MISSED_SHOT,John Tavares Wide of Net Jordan Binnington,2023-01-04T02:12:45Z,3,10:49,09:11,5,5,10.0,Toronto Maple Leafs,TOR
+258,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602752,2022020602,Hit,752,HIT,Justin Faulk hit Mitchell Marner,2023-01-04T02:12:50Z,3,10:54,09:06,5,5,19.0,St. Louis Blues,STL
+259,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602477,2022020602,Takeaway,477,TAKEAWAY,Takeaway by Justin Holl,2023-01-04T02:13:07Z,3,11:11,08:49,5,5,10.0,Toronto Maple Leafs,TOR
+260,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602703,2022020602,Shot,703,SHOT,Pierre Engvall Wrist Shot saved by Jordan Binnington,2023-01-04T02:13:28Z,3,11:32,08:28,5,5,10.0,Toronto Maple Leafs,TOR
+261,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602753,2022020602,Stoppage,753,STOP,Goalie Stopped,2023-01-04T02:13:28Z,3,11:32,08:28,5,5,,,
+262,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602478,2022020602,Faceoff,478,FACEOFF,Auston Matthews faceoff won against Brayden Schenn,2023-01-04T02:15:48Z,3,11:32,08:28,5,5,10.0,Toronto Maple Leafs,TOR
+263,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602704,2022020602,Blocked Shot,704,BLOCKED_SHOT,Brayden Schenn shot blocked shot by TJ Brodie,2023-01-04T02:16:03Z,3,11:47,08:13,5,5,10.0,Toronto Maple Leafs,TOR
+264,10,19,Toronto Maple Leafs,St. Louis Blues,20220206021109,2022020602,Missed Shot,1109,MISSED_SHOT,Ivan Barbashev Wide of Net Ilya Samsonov,2023-01-04T02:16:05Z,3,11:49,08:11,5,5,19.0,St. Louis Blues,STL
+265,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602754,2022020602,Hit,754,HIT,Ivan Barbashev hit TJ Brodie,2023-01-04T02:16:09Z,3,11:53,08:07,5,5,19.0,St. Louis Blues,STL
+266,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602755,2022020602,Stoppage,755,STOP,Icing,2023-01-04T02:16:19Z,3,12:02,07:58,5,5,,,
+267,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602479,2022020602,Faceoff,479,FACEOFF,Robert Thomas faceoff won against Auston Matthews,2023-01-04T02:16:49Z,3,12:02,07:58,5,5,19.0,St. Louis Blues,STL
+268,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602480,2022020602,Giveaway,480,GIVEAWAY,Giveaway by Nick Leddy,2023-01-04T02:16:56Z,3,12:09,07:51,5,5,19.0,St. Louis Blues,STL
+269,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602756,2022020602,Stoppage,756,STOP,Puck in Benches,2023-01-04T02:17:12Z,3,12:25,07:35,5,5,,,
+270,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602481,2022020602,Faceoff,481,FACEOFF,Noel Acciari faceoff won against John Tavares,2023-01-04T02:17:36Z,3,12:25,07:35,5,5,19.0,St. Louis Blues,STL
+271,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602757,2022020602,Hit,757,HIT,Rasmus Sandin hit Josh Leivo,2023-01-04T02:17:47Z,3,12:36,07:24,5,5,10.0,Toronto Maple Leafs,TOR
+272,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602758,2022020602,Hit,758,HIT,Jake Neighbours hit Timothy Liljegren,2023-01-04T02:17:53Z,3,12:42,07:18,5,5,19.0,St. Louis Blues,STL
+273,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602759,2022020602,Hit,759,HIT,Noel Acciari hit Timothy Liljegren,2023-01-04T02:18:12Z,3,13:01,06:59,5,5,19.0,St. Louis Blues,STL
+274,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602760,2022020602,Hit,760,HIT,Tyler Pitlick hit Pontus Holmberg,2023-01-04T02:18:38Z,3,13:27,06:33,5,5,19.0,St. Louis Blues,STL
+275,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602761,2022020602,Hit,761,HIT,Niko Mikkola hit Dryden Hunt,2023-01-04T02:18:51Z,3,13:40,06:20,5,5,19.0,St. Louis Blues,STL
+276,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602705,2022020602,Blocked Shot,705,BLOCKED_SHOT,Mark Giordano shot blocked shot by Alexey Toropchenko,2023-01-04T02:18:55Z,3,13:44,06:16,5,5,19.0,St. Louis Blues,STL
+277,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602706,2022020602,Missed Shot,706,MISSED_SHOT,Dryden Hunt Wide of Net Jordan Binnington,2023-01-04T02:19:12Z,3,14:01,05:59,5,5,10.0,Toronto Maple Leafs,TOR
+278,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602762,2022020602,Stoppage,762,STOP,Hand Pass,2023-01-04T02:19:22Z,3,14:11,05:49,5,5,,,
+279,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602482,2022020602,Faceoff,482,FACEOFF,John Tavares faceoff won against Brayden Schenn,2023-01-04T02:21:38Z,3,14:11,05:49,5,5,10.0,Toronto Maple Leafs,TOR
+280,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602707,2022020602,Blocked Shot,707,BLOCKED_SHOT,Justin Faulk shot blocked shot by Calle Jarnkrok,2023-01-04T02:22:08Z,3,14:41,05:19,5,5,10.0,Toronto Maple Leafs,TOR
+281,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602708,2022020602,Shot,708,SHOT,John Tavares Wrist Shot saved by Jordan Binnington,2023-01-04T02:22:16Z,3,14:49,05:11,5,5,10.0,Toronto Maple Leafs,TOR
+282,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602763,2022020602,Stoppage,763,STOP,Goalie Stopped,2023-01-04T02:22:16Z,3,14:49,05:11,5,5,,,
+283,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602483,2022020602,Faceoff,483,FACEOFF,Robert Thomas faceoff won against Auston Matthews,2023-01-04T02:22:49Z,3,14:49,05:11,5,5,19.0,St. Louis Blues,STL
+284,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602709,2022020602,Shot,709,SHOT,Jordan Kyrou Wrist Shot saved by Ilya Samsonov,2023-01-04T02:23:11Z,3,15:11,04:49,5,5,19.0,St. Louis Blues,STL
+285,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602710,2022020602,Blocked Shot,710,BLOCKED_SHOT,Robert Thomas shot blocked shot by Mark Giordano,2023-01-04T02:23:17Z,3,15:17,04:43,5,5,10.0,Toronto Maple Leafs,TOR
+286,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602711,2022020602,Blocked Shot,711,BLOCKED_SHOT,Robert Bortuzzo shot blocked shot by Mark Giordano,2023-01-04T02:23:19Z,3,15:19,04:41,5,5,10.0,Toronto Maple Leafs,TOR
+287,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602712,2022020602,Blocked Shot,712,BLOCKED_SHOT,William Nylander shot blocked shot by Robert Bortuzzo,2023-01-04T02:23:32Z,3,15:32,04:28,5,5,19.0,St. Louis Blues,STL
+288,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602713,2022020602,Shot,713,SHOT,Colton Parayko Slap Shot saved by Ilya Samsonov,2023-01-04T02:23:40Z,3,15:40,04:20,5,5,19.0,St. Louis Blues,STL
+289,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602484,2022020602,Takeaway,484,TAKEAWAY,Takeaway by Noel Acciari,2023-01-04T02:23:54Z,3,15:54,04:06,5,5,19.0,St. Louis Blues,STL
+290,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602714,2022020602,Missed Shot,714,MISSED_SHOT,Morgan Rielly Wide of Net Jordan Binnington,2023-01-04T02:24:44Z,3,16:44,03:16,5,5,10.0,Toronto Maple Leafs,TOR
+291,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602764,2022020602,Hit,764,HIT,Tyler Pitlick hit Pontus Holmberg,2023-01-04T02:24:48Z,3,16:48,03:12,5,5,19.0,St. Louis Blues,STL
+292,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602715,2022020602,Blocked Shot,715,BLOCKED_SHOT,Justin Faulk shot blocked shot by Mark Giordano,2023-01-04T02:25:10Z,3,17:10,02:50,5,5,10.0,Toronto Maple Leafs,TOR
+293,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602765,2022020602,Hit,765,HIT,Justin Holl hit Tyler Pitlick,2023-01-04T02:25:15Z,3,17:15,02:45,5,5,10.0,Toronto Maple Leafs,TOR
+294,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602485,2022020602,Giveaway,485,GIVEAWAY,Giveaway by Auston Matthews,2023-01-04T02:25:40Z,3,17:40,02:20,5,5,10.0,Toronto Maple Leafs,TOR
+295,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602716,2022020602,Blocked Shot,716,BLOCKED_SHOT,Nick Leddy shot blocked shot by Michael Bunting,2023-01-04T02:25:48Z,3,17:48,02:12,5,5,10.0,Toronto Maple Leafs,TOR
+296,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602766,2022020602,Stoppage,766,STOP,Puck in Netting,2023-01-04T02:25:48Z,3,17:48,02:12,5,5,,,
+297,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602486,2022020602,Faceoff,486,FACEOFF,John Tavares faceoff won against Brayden Schenn,2023-01-04T02:26:31Z,3,17:48,02:12,5,5,10.0,Toronto Maple Leafs,TOR
+298,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602487,2022020602,Giveaway,487,GIVEAWAY,Giveaway by Niko Mikkola,2023-01-04T02:26:45Z,3,18:02,01:58,5,5,19.0,St. Louis Blues,STL
+299,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602717,2022020602,Missed Shot,717,MISSED_SHOT,Mitchell Marner Wide of Net Jordan Binnington,2023-01-04T02:26:51Z,3,18:08,01:52,5,5,10.0,Toronto Maple Leafs,TOR
+300,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602767,2022020602,Stoppage,767,STOP,Offside,2023-01-04T02:27:00Z,3,18:17,01:43,5,5,,,
+301,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602488,2022020602,Faceoff,488,FACEOFF,David Kampf faceoff won against Robert Thomas,2023-01-04T02:27:29Z,3,18:17,01:43,5,5,10.0,Toronto Maple Leafs,TOR
+302,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602718,2022020602,Missed Shot,718,MISSED_SHOT,Nick Leddy Wide of Net Ilya Samsonov,2023-01-04T02:27:58Z,3,18:46,01:14,5,5,19.0,St. Louis Blues,STL
+303,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602719,2022020602,Shot,719,SHOT,Robert Thomas Tip-In saved by Ilya Samsonov,2023-01-04T02:28:07Z,3,18:55,01:05,5,5,19.0,St. Louis Blues,STL
+304,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602768,2022020602,Stoppage,768,STOP,Goalie Stopped,2023-01-04T02:28:07Z,3,18:55,01:05,5,5,,,
+305,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602489,2022020602,Faceoff,489,FACEOFF,Auston Matthews faceoff won against Noel Acciari,2023-01-04T02:28:37Z,3,18:55,01:05,5,5,10.0,Toronto Maple Leafs,TOR
+306,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602769,2022020602,Stoppage,769,STOP,Icing,2023-01-04T02:28:48Z,3,19:04,00:56,5,5,,,
+307,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602490,2022020602,Faceoff,490,FACEOFF,Auston Matthews faceoff won against Noel Acciari,2023-01-04T02:29:10Z,3,19:04,00:56,5,5,10.0,Toronto Maple Leafs,TOR
+308,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602770,2022020602,Hit,770,HIT,Noel Acciari hit William Nylander,2023-01-04T02:29:25Z,3,19:20,00:40,5,5,19.0,St. Louis Blues,STL
+309,10,19,Toronto Maple Leafs,St. Louis Blues,20220206021110,2022020602,Missed Shot,1110,MISSED_SHOT,Mitchell Marner Wide of Net Jordan Binnington,2023-01-04T02:29:40Z,3,19:35,00:25,5,5,10.0,Toronto Maple Leafs,TOR
+310,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602771,2022020602,Hit,771,HIT,Jordan Kyrou hit Mark Giordano,2023-01-04T02:29:56Z,3,19:51,00:09,5,5,19.0,St. Louis Blues,STL
+311,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602721,2022020602,Period End,721,PERIOD_END,End of 3rd Period,2023-01-04T02:30:05Z,3,20:00,00:00,5,5,,,
+312,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602724,2022020602,Period Official,724,PERIOD_OFFICIAL,Period Official,2023-01-04T02:30:14Z,3,20:00,00:00,5,5,,,
+313,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602725,2022020602,Period Ready,725,PERIOD_READY,Period Ready,2023-01-04T02:30:20Z,4,00:00,05:00,5,5,,,
+314,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602491,2022020602,Period Start,491,PERIOD_START,Period Start,2023-01-04T02:32:23Z,4,00:00,05:00,5,5,,,
+315,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602492,2022020602,Faceoff,492,FACEOFF,David Kampf faceoff won against Robert Thomas,2023-01-04T02:32:23Z,4,00:00,05:00,5,5,10.0,Toronto Maple Leafs,TOR
+316,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602726,2022020602,Shot,726,SHOT,John Tavares Backhand saved by Jordan Binnington,2023-01-04T02:34:04Z,4,01:41,03:19,5,5,10.0,Toronto Maple Leafs,TOR
+317,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602727,2022020602,Blocked Shot,727,BLOCKED_SHOT,Auston Matthews shot blocked shot by Brayden Schenn,2023-01-04T02:34:43Z,4,02:20,02:40,5,5,19.0,St. Louis Blues,STL
+318,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602728,2022020602,Missed Shot,728,MISSED_SHOT,Auston Matthews Wide of Net Jordan Binnington,2023-01-04T02:34:48Z,4,02:25,02:35,5,5,10.0,Toronto Maple Leafs,TOR
+319,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602729,2022020602,Blocked Shot,729,BLOCKED_SHOT,Colton Parayko shot blocked shot by William Nylander,2023-01-04T02:34:57Z,4,02:34,02:26,5,5,10.0,Toronto Maple Leafs,TOR
+320,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602730,2022020602,Shot,730,SHOT,Pavel Buchnevich Backhand saved by Ilya Samsonov,2023-01-04T02:35:09Z,4,02:46,02:14,5,5,19.0,St. Louis Blues,STL
+321,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602493,2022020602,Takeaway,493,TAKEAWAY,Takeaway by Brayden Schenn,2023-01-04T02:35:10Z,4,02:47,02:13,5,5,19.0,St. Louis Blues,STL
+322,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602731,2022020602,Missed Shot,731,MISSED_SHOT,Brayden Schenn Wide of Net Ilya Samsonov,2023-01-04T02:35:15Z,4,02:52,02:08,5,5,19.0,St. Louis Blues,STL
+323,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602732,2022020602,Shot,732,SHOT,Pavel Buchnevich Backhand saved by Ilya Samsonov,2023-01-04T02:35:22Z,4,02:59,02:01,5,5,19.0,St. Louis Blues,STL
+324,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602733,2022020602,Shot,733,SHOT,Brayden Schenn Wrist Shot saved by Ilya Samsonov,2023-01-04T02:35:27Z,4,03:04,01:56,5,5,19.0,St. Louis Blues,STL
+325,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602494,2022020602,Takeaway,494,TAKEAWAY,Takeaway by Jordan Kyrou,2023-01-04T02:35:51Z,4,03:28,01:32,5,5,19.0,St. Louis Blues,STL
+326,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602734,2022020602,Blocked Shot,734,BLOCKED_SHOT,Colton Parayko shot blocked shot by TJ Brodie,2023-01-04T02:36:23Z,4,04:00,01:00,5,5,10.0,Toronto Maple Leafs,TOR
+327,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602735,2022020602,Shot,735,SHOT,Ivan Barbashev Wrist Shot saved by Ilya Samsonov,2023-01-04T02:36:51Z,4,04:28,00:32,5,5,19.0,St. Louis Blues,STL
+328,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602736,2022020602,Blocked Shot,736,BLOCKED_SHOT,Brayden Schenn shot blocked shot by Rasmus Sandin,2023-01-04T02:37:09Z,4,04:46,00:14,5,5,10.0,Toronto Maple Leafs,TOR
+329,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602495,2022020602,Giveaway,495,GIVEAWAY,Giveaway by John Tavares,2023-01-04T02:37:13Z,4,04:50,00:10,5,5,10.0,Toronto Maple Leafs,TOR
+330,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602737,2022020602,Shot,737,SHOT,Nick Leddy Wrist Shot saved by Ilya Samsonov,2023-01-04T02:37:18Z,4,04:55,00:05,5,5,19.0,St. Louis Blues,STL
+331,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602772,2022020602,Stoppage,772,STOP,Goalie Stopped,2023-01-04T02:37:21Z,4,04:57,00:03,5,5,,,
+332,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602496,2022020602,Faceoff,496,FACEOFF,Robert Thomas faceoff won against David Kampf,2023-01-04T02:37:59Z,4,04:57,00:03,5,5,19.0,St. Louis Blues,STL
+333,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602738,2022020602,Blocked Shot,738,BLOCKED_SHOT,Jordan Kyrou shot blocked shot by TJ Brodie,2023-01-04T02:38:01Z,4,04:59,00:01,5,5,10.0,Toronto Maple Leafs,TOR
+334,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602739,2022020602,Period End,739,PERIOD_END,End of OT,2023-01-04T02:38:02Z,4,05:00,00:00,5,5,,,
+335,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602742,2022020602,Period Official,742,PERIOD_OFFICIAL,Period Official,2023-01-04T02:38:18Z,4,05:00,00:00,5,5,,,
+336,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602743,2022020602,Period Ready,743,PERIOD_READY,Period Ready,2023-01-04T02:38:40Z,5,00:00,00:00,5,5,,,
+337,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602744,2022020602,Period Start,744,PERIOD_START,Period Start,2023-01-04T02:40:37Z,5,00:00,00:00,5,5,,,
+338,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602745,2022020602,Missed Shot,745,MISSED_SHOT,William Nylander Wide of Net Jordan Binnington,2023-01-04T02:41:00Z,5,00:00,00:00,5,5,10.0,Toronto Maple Leafs,TOR
+339,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602746,2022020602,Shot,746,SHOT,Jordan Kyrou Wrist Shot saved by Ilya Samsonov,2023-01-04T02:41:58Z,5,00:00,00:00,5,5,19.0,St. Louis Blues,STL
+340,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602747,2022020602,Goal,747,GOAL,Auston Matthews - Backhand,2023-01-04T02:43:16Z,5,00:00,00:00,5,5,10.0,Toronto Maple Leafs,TOR
+341,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602748,2022020602,Goal,748,GOAL,Robert Thomas - Wrist Shot,2023-01-04T02:43:26Z,5,00:00,00:00,5,5,19.0,St. Louis Blues,STL
+342,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602749,2022020602,Goal,749,GOAL,Mitchell Marner - Wrist Shot,2023-01-04T02:43:41Z,5,00:00,00:00,5,5,10.0,Toronto Maple Leafs,TOR
+343,10,19,Toronto Maple Leafs,St. Louis Blues,2022020602750,2022020602,Goal,750,GOAL,Pavel Buchnevich - Backhand,2023-01-04T02:43:57Z,5,00:00,00:00,5,5,19.0,St. Louis Blues,STL
+344,10,19,Toronto Maple Leafs,St. Louis Blues,20220206021101,2022020602,Shot,1101,SHOT,Rasmus Sandin Wrist Shot saved by Jordan Binnington,2023-01-04T02:44:16Z,5,00:00,00:00,5,5,10.0,Toronto Maple Leafs,TOR
+345,10,19,Toronto Maple Leafs,St. Louis Blues,20220206021102,2022020602,Goal,1102,GOAL,Brayden Schenn - Wrist Shot,2023-01-04T02:44:54Z,5,00:00,00:00,5,5,19.0,St. Louis Blues,STL
+346,10,19,Toronto Maple Leafs,St. Louis Blues,20220206021103,2022020602,Shootout Complete,1103,SHOOTOUT_COMPLETE,End of Shootout,2023-01-04T02:44:54Z,5,00:00,00:00,5,5,,,
+347,10,19,Toronto Maple Leafs,St. Louis Blues,20220206021104,2022020602,Period End,1104,PERIOD_END,End of OT,2023-01-04T02:44:54Z,5,00:00,00:00,5,5,,,
+348,10,19,Toronto Maple Leafs,St. Louis Blues,20220206021107,2022020602,Period Official,1107,PERIOD_OFFICIAL,Period Official,2023-01-04T02:45:50Z,5,00:00,00:00,5,5,,,
+349,10,19,Toronto Maple Leafs,St. Louis Blues,20220206021108,2022020602,Game End,1108,GAME_END,Game End,2023-01-04T02:45:52Z,5,00:00,00:00,5,5,,,
+350,10,19,Toronto Maple Leafs,St. Louis Blues,20220206021111,2022020602,Game Official,1111,GAME_OFFICIAL,Game Official,2023-01-04T03:35:24Z,5,00:00,00:00,5,5,,,

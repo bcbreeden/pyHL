@@ -1,0 +1,327 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,15,21,Washington Capitals,Colorado Avalanche,20220202781,2022020278,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-11-19T23:15:48Z,1,00:00,20:00,0,0,,,
+1,15,21,Washington Capitals,Colorado Avalanche,20220202785,2022020278,Period Ready,5,PERIOD_READY,Period Ready,2022-11-20T00:12:07Z,1,00:00,20:00,0,0,,,
+2,15,21,Washington Capitals,Colorado Avalanche,2022020278101,2022020278,Period Start,101,PERIOD_START,Period Start,2022-11-20T00:13:16Z,1,00:00,20:00,0,0,,,
+3,15,21,Washington Capitals,Colorado Avalanche,2022020278102,2022020278,Faceoff,102,FACEOFF,Nic Dowd faceoff won against Nathan MacKinnon,2022-11-20T00:13:16Z,1,00:00,20:00,0,0,15.0,Washington Capitals,WSH
+4,15,21,Washington Capitals,Colorado Avalanche,2022020278151,2022020278,Giveaway,151,GIVEAWAY,Giveaway by Nick Jensen,2022-11-20T00:14:04Z,1,00:48,19:12,0,0,15.0,Washington Capitals,WSH
+5,15,21,Washington Capitals,Colorado Avalanche,2022020278152,2022020278,Hit,152,HIT,Martin Fehervary hit Logan O'Connor,2022-11-20T00:14:08Z,1,00:52,19:08,0,0,15.0,Washington Capitals,WSH
+6,15,21,Washington Capitals,Colorado Avalanche,20220202788,2022020278,Missed Shot,8,MISSED_SHOT,Josh Manson Wide of Net Darcy Kuemper,2022-11-20T00:14:19Z,1,01:03,18:57,0,0,21.0,Colorado Avalanche,COL
+7,15,21,Washington Capitals,Colorado Avalanche,20220202789,2022020278,Shot,9,SHOT,Jacob MacDonald Wrist Shot saved by Darcy Kuemper,2022-11-20T00:14:32Z,1,01:16,18:44,0,0,21.0,Colorado Avalanche,COL
+8,15,21,Washington Capitals,Colorado Avalanche,2022020278153,2022020278,Hit,153,HIT,Conor Sheary hit Jacob MacDonald,2022-11-20T00:14:34Z,1,01:18,18:42,0,0,15.0,Washington Capitals,WSH
+9,15,21,Washington Capitals,Colorado Avalanche,202202027810,2022020278,Missed Shot,10,MISSED_SHOT,J.T. Compher Wide of Net Darcy Kuemper,2022-11-20T00:14:37Z,1,01:21,18:39,0,0,21.0,Colorado Avalanche,COL
+10,15,21,Washington Capitals,Colorado Avalanche,2022020278154,2022020278,Giveaway,154,GIVEAWAY,Giveaway by John Carlson,2022-11-20T00:15:17Z,1,02:01,17:59,0,0,15.0,Washington Capitals,WSH
+11,15,21,Washington Capitals,Colorado Avalanche,202202027811,2022020278,Blocked Shot,11,BLOCKED_SHOT,Nicolas Aube-Kubel shot blocked shot by Andreas Englund,2022-11-20T00:15:45Z,1,02:29,17:31,0,0,21.0,Colorado Avalanche,COL
+12,15,21,Washington Capitals,Colorado Avalanche,202202027812,2022020278,Shot,12,SHOT,Anthony Mantha Snap Shot saved by Alexandar Georgiev,2022-11-20T00:15:46Z,1,02:30,17:30,0,0,15.0,Washington Capitals,WSH
+13,15,21,Washington Capitals,Colorado Avalanche,2022020278155,2022020278,Hit,155,HIT,Nicolas Aube-Kubel hit Andreas Englund,2022-11-20T00:15:52Z,1,02:36,17:24,0,0,15.0,Washington Capitals,WSH
+14,15,21,Washington Capitals,Colorado Avalanche,2022020278156,2022020278,Takeaway,156,TAKEAWAY,Takeaway by John Carlson,2022-11-20T00:15:54Z,1,02:38,17:22,0,0,15.0,Washington Capitals,WSH
+15,15,21,Washington Capitals,Colorado Avalanche,202202027813,2022020278,Shot,13,SHOT,Erik Gustafsson Snap Shot saved by Alexandar Georgiev,2022-11-20T00:16:02Z,1,02:46,17:14,0,0,15.0,Washington Capitals,WSH
+16,15,21,Washington Capitals,Colorado Avalanche,2022020278103,2022020278,Stoppage,103,STOP,Icing,2022-11-20T00:16:22Z,1,03:05,16:55,0,0,,,
+17,15,21,Washington Capitals,Colorado Avalanche,2022020278104,2022020278,Faceoff,104,FACEOFF,Jayson Megna faceoff won against Dylan Strome,2022-11-20T00:16:50Z,1,03:05,16:55,0,0,21.0,Colorado Avalanche,COL
+18,15,21,Washington Capitals,Colorado Avalanche,2022020278157,2022020278,Hit,157,HIT,Andreas Englund hit Nick Jensen,2022-11-20T00:17:18Z,1,03:33,16:27,0,0,21.0,Colorado Avalanche,COL
+19,15,21,Washington Capitals,Colorado Avalanche,202202027814,2022020278,Blocked Shot,14,BLOCKED_SHOT,Nick Jensen shot blocked shot by Nathan MacKinnon,2022-11-20T00:17:41Z,1,03:56,16:04,0,0,21.0,Colorado Avalanche,COL
+20,15,21,Washington Capitals,Colorado Avalanche,2022020278158,2022020278,Hit,158,HIT,Sonny Milano hit Devon Toews,2022-11-20T00:18:34Z,1,04:49,15:11,0,0,15.0,Washington Capitals,WSH
+21,15,21,Washington Capitals,Colorado Avalanche,2022020278159,2022020278,Hit,159,HIT,Alex Newhook hit Garnet Hathaway,2022-11-20T00:19:28Z,1,05:43,14:17,0,0,21.0,Colorado Avalanche,COL
+22,15,21,Washington Capitals,Colorado Avalanche,202202027815,2022020278,Shot,15,SHOT,Marcus Johansson Snap Shot saved by Alexandar Georgiev,2022-11-20T00:19:57Z,1,06:12,13:48,0,0,15.0,Washington Capitals,WSH
+23,15,21,Washington Capitals,Colorado Avalanche,202202027816,2022020278,Missed Shot,16,MISSED_SHOT,Nick Jensen Wide of Net Alexandar Georgiev,2022-11-20T00:20:01Z,1,06:16,13:44,0,0,15.0,Washington Capitals,WSH
+24,15,21,Washington Capitals,Colorado Avalanche,202202027817,2022020278,Blocked Shot,17,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Martin Fehervary,2022-11-20T00:20:12Z,1,06:27,13:33,0,0,15.0,Washington Capitals,WSH
+25,15,21,Washington Capitals,Colorado Avalanche,202202027818,2022020278,Blocked Shot,18,BLOCKED_SHOT,Artturi Lehkonen shot blocked shot by Nick Jensen,2022-11-20T00:20:14Z,1,06:29,13:31,0,0,15.0,Washington Capitals,WSH
+26,15,21,Washington Capitals,Colorado Avalanche,2022020278105,2022020278,Stoppage,105,STOP,Puck in Netting,2022-11-20T00:20:15Z,1,06:31,13:29,0,0,,,
+27,15,21,Washington Capitals,Colorado Avalanche,2022020278106,2022020278,Faceoff,106,FACEOFF,Lars Eller faceoff won against Mikko Rantanen,2022-11-20T00:22:43Z,1,06:31,13:29,0,0,15.0,Washington Capitals,WSH
+28,15,21,Washington Capitals,Colorado Avalanche,2022020278216,2022020278,Penalty,216,PENALTY,Nick Jensen Tripping against Nathan MacKinnon,2022-11-20T00:22:50Z,1,06:38,13:22,0,0,15.0,Washington Capitals,WSH
+29,15,21,Washington Capitals,Colorado Avalanche,2022020278107,2022020278,Faceoff,107,FACEOFF,Lars Eller faceoff won against Nathan MacKinnon,2022-11-20T00:23:31Z,1,06:38,13:22,0,0,15.0,Washington Capitals,WSH
+30,15,21,Washington Capitals,Colorado Avalanche,202202027819,2022020278,Missed Shot,19,MISSED_SHOT,Mikko Rantanen Goalpost Darcy Kuemper,2022-11-20T00:23:57Z,1,07:04,12:56,0,0,21.0,Colorado Avalanche,COL
+31,15,21,Washington Capitals,Colorado Avalanche,202202027820,2022020278,Missed Shot,20,MISSED_SHOT,Mikko Rantanen Wide of Net Darcy Kuemper,2022-11-20T00:24:02Z,1,07:09,12:51,0,0,21.0,Colorado Avalanche,COL
+32,15,21,Washington Capitals,Colorado Avalanche,202202027821,2022020278,Blocked Shot,21,BLOCKED_SHOT,Cale Makar shot blocked shot by Lars Eller,2022-11-20T00:24:13Z,1,07:20,12:40,0,0,15.0,Washington Capitals,WSH
+33,15,21,Washington Capitals,Colorado Avalanche,202202027822,2022020278,Missed Shot,22,MISSED_SHOT,Mikko Rantanen Wide of Net Darcy Kuemper,2022-11-20T00:24:29Z,1,07:36,12:24,0,0,21.0,Colorado Avalanche,COL
+34,15,21,Washington Capitals,Colorado Avalanche,202202027823,2022020278,Shot,23,SHOT,Mikko Rantanen Snap Shot saved by Darcy Kuemper,2022-11-20T00:24:38Z,1,07:45,12:15,0,0,21.0,Colorado Avalanche,COL
+35,15,21,Washington Capitals,Colorado Avalanche,2022020278405,2022020278,Takeaway,405,TAKEAWAY,Takeaway by Nic Dowd,2022-11-20T00:25:23Z,1,08:30,11:30,0,0,15.0,Washington Capitals,WSH
+36,15,21,Washington Capitals,Colorado Avalanche,2022020278108,2022020278,Stoppage,108,STOP,Icing,2022-11-20T00:25:34Z,1,08:41,11:19,0,0,,,
+37,15,21,Washington Capitals,Colorado Avalanche,2022020278109,2022020278,Faceoff,109,FACEOFF,Evgeny Kuznetsov faceoff won against J.T. Compher,2022-11-20T00:26:03Z,1,08:41,11:19,0,0,15.0,Washington Capitals,WSH
+38,15,21,Washington Capitals,Colorado Avalanche,202202027824,2022020278,Shot,24,SHOT,Erik Gustafsson Snap Shot saved by Alexandar Georgiev,2022-11-20T00:26:07Z,1,08:45,11:15,0,0,15.0,Washington Capitals,WSH
+39,15,21,Washington Capitals,Colorado Avalanche,202202027825,2022020278,Missed Shot,25,MISSED_SHOT,Alex Ovechkin Wide of Net Alexandar Georgiev,2022-11-20T00:26:20Z,1,08:58,11:02,0,0,15.0,Washington Capitals,WSH
+40,15,21,Washington Capitals,Colorado Avalanche,2022020278401,2022020278,Shot,401,SHOT,Evgeny Kuznetsov Snap Shot saved by Alexandar Georgiev,2022-11-20T00:26:37Z,1,09:15,10:45,0,0,15.0,Washington Capitals,WSH
+41,15,21,Washington Capitals,Colorado Avalanche,2022020278402,2022020278,Blocked Shot,402,BLOCKED_SHOT,Erik Gustafsson shot blocked shot by Jacob MacDonald,2022-11-20T00:26:40Z,1,09:18,10:42,0,0,21.0,Colorado Avalanche,COL
+42,15,21,Washington Capitals,Colorado Avalanche,202202027827,2022020278,Shot,27,SHOT,Martin Fehervary Wrist Shot saved by Alexandar Georgiev,2022-11-20T00:27:01Z,1,09:39,10:21,0,0,15.0,Washington Capitals,WSH
+43,15,21,Washington Capitals,Colorado Avalanche,2022020278110,2022020278,Stoppage,110,STOP,Goalie Stopped,2022-11-20T00:27:02Z,1,09:40,10:20,0,0,,,
+44,15,21,Washington Capitals,Colorado Avalanche,2022020278111,2022020278,Faceoff,111,FACEOFF,Jayson Megna faceoff won against Dylan Strome,2022-11-20T00:27:27Z,1,09:40,10:20,0,0,21.0,Colorado Avalanche,COL
+45,15,21,Washington Capitals,Colorado Avalanche,2022020278160,2022020278,Takeaway,160,TAKEAWAY,Takeaway by Dylan Strome,2022-11-20T00:27:38Z,1,09:51,10:09,0,0,15.0,Washington Capitals,WSH
+46,15,21,Washington Capitals,Colorado Avalanche,202202027828,2022020278,Blocked Shot,28,BLOCKED_SHOT,John Carlson shot blocked shot by Erik Johnson,2022-11-20T00:27:42Z,1,09:55,10:05,0,0,21.0,Colorado Avalanche,COL
+47,15,21,Washington Capitals,Colorado Avalanche,2022020278112,2022020278,Stoppage,112,STOP,Puck in Netting,2022-11-20T00:27:43Z,1,09:56,10:04,0,0,,,
+48,15,21,Washington Capitals,Colorado Avalanche,2022020278113,2022020278,Faceoff,113,FACEOFF,Lars Eller faceoff won against Evan Rodrigues,2022-11-20T00:28:25Z,1,09:56,10:04,0,0,15.0,Washington Capitals,WSH
+49,15,21,Washington Capitals,Colorado Avalanche,2022020278161,2022020278,Takeaway,161,TAKEAWAY,Takeaway by John Carlson,2022-11-20T00:28:33Z,1,10:04,09:56,0,0,15.0,Washington Capitals,WSH
+50,15,21,Washington Capitals,Colorado Avalanche,2022020278162,2022020278,Hit,162,HIT,Andreas Englund hit Lars Eller,2022-11-20T00:28:46Z,1,10:17,09:43,0,0,21.0,Colorado Avalanche,COL
+51,15,21,Washington Capitals,Colorado Avalanche,202202027829,2022020278,Shot,29,SHOT,Conor Sheary Tip-In saved by Alexandar Georgiev,2022-11-20T00:29:24Z,1,10:55,09:05,0,0,15.0,Washington Capitals,WSH
+52,15,21,Washington Capitals,Colorado Avalanche,202202027830,2022020278,Missed Shot,30,MISSED_SHOT,Mikko Rantanen Wide of Net Darcy Kuemper,2022-11-20T00:29:34Z,1,11:05,08:55,0,0,21.0,Colorado Avalanche,COL
+53,15,21,Washington Capitals,Colorado Avalanche,202202027831,2022020278,Blocked Shot,31,BLOCKED_SHOT,Cale Makar shot blocked shot by Alex Ovechkin,2022-11-20T00:29:44Z,1,11:15,08:45,0,0,15.0,Washington Capitals,WSH
+54,15,21,Washington Capitals,Colorado Avalanche,2022020278163,2022020278,Takeaway,163,TAKEAWAY,Takeaway by Dylan Strome,2022-11-20T00:29:56Z,1,11:27,08:33,0,0,15.0,Washington Capitals,WSH
+55,15,21,Washington Capitals,Colorado Avalanche,202202027832,2022020278,Shot,32,SHOT,Trevor van Riemsdyk Snap Shot saved by Alexandar Georgiev,2022-11-20T00:30:06Z,1,11:37,08:23,0,0,15.0,Washington Capitals,WSH
+56,15,21,Washington Capitals,Colorado Avalanche,202202027833,2022020278,Missed Shot,33,MISSED_SHOT,Dylan Strome Over Net Alexandar Georgiev,2022-11-20T00:30:13Z,1,11:44,08:16,0,0,15.0,Washington Capitals,WSH
+57,15,21,Washington Capitals,Colorado Avalanche,2022020278164,2022020278,Giveaway,164,GIVEAWAY,Giveaway by Trevor van Riemsdyk,2022-11-20T00:30:19Z,1,11:50,08:10,0,0,15.0,Washington Capitals,WSH
+58,15,21,Washington Capitals,Colorado Avalanche,202202027834,2022020278,Shot,34,SHOT,Matt Irwin Snap Shot saved by Alexandar Georgiev,2022-11-20T00:30:22Z,1,11:53,08:07,0,0,15.0,Washington Capitals,WSH
+59,15,21,Washington Capitals,Colorado Avalanche,2022020278114,2022020278,Stoppage,114,STOP,Goalie Stopped,2022-11-20T00:30:22Z,1,11:54,08:06,0,0,,,
+60,15,21,Washington Capitals,Colorado Avalanche,2022020278115,2022020278,Faceoff,115,FACEOFF,J.T. Compher faceoff won against Alex Ovechkin,2022-11-20T00:32:50Z,1,11:54,08:06,0,0,21.0,Colorado Avalanche,COL
+61,15,21,Washington Capitals,Colorado Avalanche,2022020278116,2022020278,Stoppage,116,STOP,Icing,2022-11-20T00:32:57Z,1,12:00,08:00,0,0,,,
+62,15,21,Washington Capitals,Colorado Avalanche,2022020278117,2022020278,Faceoff,117,FACEOFF,Evgeny Kuznetsov faceoff won against J.T. Compher,2022-11-20T00:33:26Z,1,12:00,08:00,0,0,15.0,Washington Capitals,WSH
+63,15,21,Washington Capitals,Colorado Avalanche,202202027835,2022020278,Shot,35,SHOT,John Carlson Slap Shot saved by Alexandar Georgiev,2022-11-20T00:33:28Z,1,12:02,07:58,0,0,15.0,Washington Capitals,WSH
+64,15,21,Washington Capitals,Colorado Avalanche,202202027836,2022020278,Shot,36,SHOT,Alex Ovechkin Backhand saved by Alexandar Georgiev,2022-11-20T00:33:30Z,1,12:04,07:56,0,0,15.0,Washington Capitals,WSH
+65,15,21,Washington Capitals,Colorado Avalanche,2022020278165,2022020278,Hit,165,HIT,Dryden Hunt hit Lars Eller,2022-11-20T00:34:19Z,1,12:53,07:07,0,0,21.0,Colorado Avalanche,COL
+66,15,21,Washington Capitals,Colorado Avalanche,2022020278451,2022020278,Takeaway,451,TAKEAWAY,Takeaway by Erik Johnson,2022-11-20T00:34:22Z,1,12:56,07:04,0,0,21.0,Colorado Avalanche,COL
+67,15,21,Washington Capitals,Colorado Avalanche,202202027837,2022020278,Shot,37,SHOT,Lars Eller Backhand saved by Alexandar Georgiev,2022-11-20T00:34:49Z,1,13:23,06:37,0,0,15.0,Washington Capitals,WSH
+68,15,21,Washington Capitals,Colorado Avalanche,2022020278166,2022020278,Takeaway,166,TAKEAWAY,Takeaway by Evan Rodrigues,2022-11-20T00:35:16Z,1,13:50,06:10,0,0,21.0,Colorado Avalanche,COL
+69,15,21,Washington Capitals,Colorado Avalanche,2022020278118,2022020278,Stoppage,118,STOP,Offside,2022-11-20T00:35:20Z,1,13:54,06:06,0,0,,,
+70,15,21,Washington Capitals,Colorado Avalanche,2022020278119,2022020278,Faceoff,119,FACEOFF,Nic Dowd faceoff won against Nathan MacKinnon,2022-11-20T00:35:59Z,1,13:54,06:06,0,0,15.0,Washington Capitals,WSH
+71,15,21,Washington Capitals,Colorado Avalanche,2022020278120,2022020278,Stoppage,120,STOP,Puck in Benches,2022-11-20T00:36:05Z,1,14:00,06:00,0,0,,,
+72,15,21,Washington Capitals,Colorado Avalanche,2022020278121,2022020278,Faceoff,121,FACEOFF,Nathan MacKinnon faceoff won against Nic Dowd,2022-11-20T00:36:27Z,1,14:00,06:00,0,0,21.0,Colorado Avalanche,COL
+73,15,21,Washington Capitals,Colorado Avalanche,2022020278167,2022020278,Hit,167,HIT,Artturi Lehkonen hit Nick Jensen,2022-11-20T00:36:40Z,1,14:13,05:47,0,0,21.0,Colorado Avalanche,COL
+74,15,21,Washington Capitals,Colorado Avalanche,202202027838,2022020278,Shot,38,SHOT,Garnet Hathaway Backhand saved by Alexandar Georgiev,2022-11-20T00:36:49Z,1,14:22,05:38,0,0,15.0,Washington Capitals,WSH
+75,15,21,Washington Capitals,Colorado Avalanche,2022020278122,2022020278,Stoppage,122,STOP,Goalie Stopped,2022-11-20T00:36:50Z,1,14:23,05:37,0,0,,,
+76,15,21,Washington Capitals,Colorado Avalanche,2022020278125,2022020278,Faceoff,125,FACEOFF,Dylan Strome faceoff won against J.T. Compher,2022-11-20T00:39:18Z,1,14:23,05:37,0,0,15.0,Washington Capitals,WSH
+77,15,21,Washington Capitals,Colorado Avalanche,202202027839,2022020278,Shot,39,SHOT,Alex Ovechkin Wrist Shot saved by Alexandar Georgiev,2022-11-20T00:39:21Z,1,14:26,05:34,0,0,15.0,Washington Capitals,WSH
+78,15,21,Washington Capitals,Colorado Avalanche,2022020278126,2022020278,Stoppage,126,STOP,Puck Frozen,2022-11-20T00:39:23Z,1,14:28,05:32,0,0,,,
+79,15,21,Washington Capitals,Colorado Avalanche,2022020278127,2022020278,Faceoff,127,FACEOFF,J.T. Compher faceoff won against Conor Sheary,2022-11-20T00:40:02Z,1,14:28,05:32,0,0,21.0,Colorado Avalanche,COL
+80,15,21,Washington Capitals,Colorado Avalanche,2022020278168,2022020278,Hit,168,HIT,Erik Gustafsson hit J.T. Compher,2022-11-20T00:40:17Z,1,14:43,05:17,0,0,15.0,Washington Capitals,WSH
+81,15,21,Washington Capitals,Colorado Avalanche,202202027840,2022020278,Shot,40,SHOT,Devon Toews Wrist Shot saved by Darcy Kuemper,2022-11-20T00:40:23Z,1,14:49,05:11,0,0,21.0,Colorado Avalanche,COL
+82,15,21,Washington Capitals,Colorado Avalanche,202202027841,2022020278,Blocked Shot,41,BLOCKED_SHOT,Alex Ovechkin shot blocked shot by Devon Toews,2022-11-20T00:40:29Z,1,14:55,05:05,0,0,21.0,Colorado Avalanche,COL
+83,15,21,Washington Capitals,Colorado Avalanche,2022020278128,2022020278,Stoppage,128,STOP,Puck in Netting,2022-11-20T00:40:30Z,1,14:56,05:04,0,0,,,
+84,15,21,Washington Capitals,Colorado Avalanche,2022020278129,2022020278,Faceoff,129,FACEOFF,Mikko Rantanen faceoff won against Evgeny Kuznetsov,2022-11-20T00:41:11Z,1,14:56,05:04,0,0,21.0,Colorado Avalanche,COL
+85,15,21,Washington Capitals,Colorado Avalanche,202202027842,2022020278,Missed Shot,42,MISSED_SHOT,Artturi Lehkonen Wide of Net Darcy Kuemper,2022-11-20T00:41:23Z,1,15:08,04:52,0,0,21.0,Colorado Avalanche,COL
+86,15,21,Washington Capitals,Colorado Avalanche,202202027843,2022020278,Blocked Shot,43,BLOCKED_SHOT,Martin Fehervary shot blocked shot by Josh Manson,2022-11-20T00:41:40Z,1,15:25,04:35,0,0,21.0,Colorado Avalanche,COL
+87,15,21,Washington Capitals,Colorado Avalanche,2022020278169,2022020278,Giveaway,169,GIVEAWAY,Giveaway by Josh Manson,2022-11-20T00:41:50Z,1,15:35,04:25,0,0,21.0,Colorado Avalanche,COL
+88,15,21,Washington Capitals,Colorado Avalanche,2022020278170,2022020278,Hit,170,HIT,Dryden Hunt hit Trevor van Riemsdyk,2022-11-20T00:42:24Z,1,16:09,03:51,0,0,21.0,Colorado Avalanche,COL
+89,15,21,Washington Capitals,Colorado Avalanche,2022020278408,2022020278,Giveaway,408,GIVEAWAY,Giveaway by Andreas Englund,2022-11-20T00:42:46Z,1,16:31,03:29,0,0,21.0,Colorado Avalanche,COL
+90,15,21,Washington Capitals,Colorado Avalanche,202202027844,2022020278,Missed Shot,44,MISSED_SHOT,Logan O'Connor Wide of Net Darcy Kuemper,2022-11-20T00:43:31Z,1,17:16,02:44,0,0,21.0,Colorado Avalanche,COL
+91,15,21,Washington Capitals,Colorado Avalanche,202202027845,2022020278,Shot,45,SHOT,Andrew Cogliano Tip-In saved by Darcy Kuemper,2022-11-20T00:43:35Z,1,17:20,02:40,0,0,21.0,Colorado Avalanche,COL
+92,15,21,Washington Capitals,Colorado Avalanche,202202027846,2022020278,Blocked Shot,46,BLOCKED_SHOT,Artturi Lehkonen shot blocked shot by Nick Jensen,2022-11-20T00:43:53Z,1,17:38,02:22,0,0,15.0,Washington Capitals,WSH
+93,15,21,Washington Capitals,Colorado Avalanche,2022020278361,2022020278,Penalty,361,PENALTY,Garnet Hathaway Tripping against Nathan MacKinnon,2022-11-20T00:44:11Z,1,17:56,02:04,0,0,15.0,Washington Capitals,WSH
+94,15,21,Washington Capitals,Colorado Avalanche,2022020278130,2022020278,Faceoff,130,FACEOFF,Lars Eller faceoff won against Nathan MacKinnon,2022-11-20T00:44:51Z,1,17:56,02:04,0,0,15.0,Washington Capitals,WSH
+95,15,21,Washington Capitals,Colorado Avalanche,2022020278174,2022020278,Takeaway,174,TAKEAWAY,Takeaway by John Carlson,2022-11-20T00:45:13Z,1,18:18,01:42,0,0,15.0,Washington Capitals,WSH
+96,15,21,Washington Capitals,Colorado Avalanche,2022020278367,2022020278,Penalty,367,PENALTY,Lars Eller Tripping against Mikko Rantanen,2022-11-20T00:45:25Z,1,18:30,01:30,0,0,15.0,Washington Capitals,WSH
+97,15,21,Washington Capitals,Colorado Avalanche,2022020278131,2022020278,Faceoff,131,FACEOFF,Nathan MacKinnon faceoff won against Nic Dowd,2022-11-20T00:46:30Z,1,18:30,01:30,0,0,21.0,Colorado Avalanche,COL
+98,15,21,Washington Capitals,Colorado Avalanche,202202027847,2022020278,Blocked Shot,47,BLOCKED_SHOT,Evan Rodrigues shot blocked shot by Nick Jensen,2022-11-20T00:46:41Z,1,18:41,01:19,0,0,15.0,Washington Capitals,WSH
+99,15,21,Washington Capitals,Colorado Avalanche,202202027848,2022020278,Blocked Shot,48,BLOCKED_SHOT,Artturi Lehkonen shot blocked shot by Nick Jensen,2022-11-20T00:46:44Z,1,18:44,01:16,0,0,15.0,Washington Capitals,WSH
+100,15,21,Washington Capitals,Colorado Avalanche,2022020278403,2022020278,Blocked Shot,403,BLOCKED_SHOT,Artturi Lehkonen shot blocked shot by Nick Jensen,2022-11-20T00:46:45Z,1,18:45,01:15,0,0,15.0,Washington Capitals,WSH
+101,15,21,Washington Capitals,Colorado Avalanche,2022020278404,2022020278,Shot,404,SHOT,Evan Rodrigues Snap Shot saved by Darcy Kuemper,2022-11-20T00:46:46Z,1,18:46,01:14,0,0,21.0,Colorado Avalanche,COL
+102,15,21,Washington Capitals,Colorado Avalanche,202202027849,2022020278,Shot,49,SHOT,Nathan MacKinnon Snap Shot saved by Darcy Kuemper,2022-11-20T00:46:56Z,1,18:56,01:04,0,0,21.0,Colorado Avalanche,COL
+103,15,21,Washington Capitals,Colorado Avalanche,202202027850,2022020278,Shot,50,SHOT,Evan Rodrigues Wrist Shot saved by Darcy Kuemper,2022-11-20T00:47:13Z,1,19:13,00:47,0,0,21.0,Colorado Avalanche,COL
+104,15,21,Washington Capitals,Colorado Avalanche,2022020278251,2022020278,Blocked Shot,251,BLOCKED_SHOT,Mikko Rantanen shot blocked shot by Nic Dowd,2022-11-20T00:47:24Z,1,19:24,00:36,0,0,15.0,Washington Capitals,WSH
+105,15,21,Washington Capitals,Colorado Avalanche,2022020278252,2022020278,Blocked Shot,252,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Trevor van Riemsdyk,2022-11-20T00:47:36Z,1,19:36,00:24,0,0,15.0,Washington Capitals,WSH
+106,15,21,Washington Capitals,Colorado Avalanche,2022020278253,2022020278,Goal,253,GOAL,"Cale Makar (4) Slap Shot, assists: Nathan MacKinnon (21), Artturi Lehkonen (7)",2022-11-20T00:47:40Z,1,19:39,00:21,0,1,21.0,Colorado Avalanche,COL
+107,15,21,Washington Capitals,Colorado Avalanche,2022020278132,2022020278,Faceoff,132,FACEOFF,Nathan MacKinnon faceoff won against Evgeny Kuznetsov,2022-11-20T00:48:24Z,1,19:39,00:21,0,1,21.0,Colorado Avalanche,COL
+108,15,21,Washington Capitals,Colorado Avalanche,2022020278254,2022020278,Blocked Shot,254,BLOCKED_SHOT,Evan Rodrigues shot blocked shot by Martin Fehervary,2022-11-20T00:48:40Z,1,19:56,00:04,0,1,15.0,Washington Capitals,WSH
+109,15,21,Washington Capitals,Colorado Avalanche,2022020278133,2022020278,Stoppage,133,STOP,Puck in Netting,2022-11-20T00:48:42Z,1,19:57,00:03,0,1,,,
+110,15,21,Washington Capitals,Colorado Avalanche,2022020278134,2022020278,Faceoff,134,FACEOFF,Mikko Rantanen faceoff won against Evgeny Kuznetsov,2022-11-20T00:49:05Z,1,19:57,00:03,0,1,21.0,Colorado Avalanche,COL
+111,15,21,Washington Capitals,Colorado Avalanche,2022020278255,2022020278,Period End,255,PERIOD_END,End of 1st Period,2022-11-20T00:49:08Z,1,20:00,00:00,0,1,,,
+112,15,21,Washington Capitals,Colorado Avalanche,2022020278258,2022020278,Period Official,258,PERIOD_OFFICIAL,Period Official,2022-11-20T00:55:09Z,1,20:00,00:00,0,1,,,
+113,15,21,Washington Capitals,Colorado Avalanche,2022020278259,2022020278,Period Ready,259,PERIOD_READY,Period Ready,2022-11-20T01:05:44Z,2,00:00,20:00,0,1,,,
+114,15,21,Washington Capitals,Colorado Avalanche,2022020278135,2022020278,Period Start,135,PERIOD_START,Period Start,2022-11-20T01:07:59Z,2,00:00,20:00,0,1,,,
+115,15,21,Washington Capitals,Colorado Avalanche,2022020278136,2022020278,Faceoff,136,FACEOFF,Nic Dowd faceoff won against Nathan MacKinnon,2022-11-20T01:07:59Z,2,00:00,20:00,0,1,15.0,Washington Capitals,WSH
+116,15,21,Washington Capitals,Colorado Avalanche,2022020278176,2022020278,Giveaway,176,GIVEAWAY,Giveaway by Mikko Rantanen,2022-11-20T01:08:22Z,2,00:23,19:37,0,1,21.0,Colorado Avalanche,COL
+117,15,21,Washington Capitals,Colorado Avalanche,2022020278177,2022020278,Takeaway,177,TAKEAWAY,Takeaway by Nathan MacKinnon,2022-11-20T01:08:24Z,2,00:25,19:35,0,1,21.0,Colorado Avalanche,COL
+118,15,21,Washington Capitals,Colorado Avalanche,2022020278179,2022020278,Hit,179,HIT,Garnet Hathaway hit Evan Rodrigues,2022-11-20T01:08:36Z,2,00:37,19:23,0,1,15.0,Washington Capitals,WSH
+119,15,21,Washington Capitals,Colorado Avalanche,2022020278137,2022020278,Stoppage,137,STOP,Icing,2022-11-20T01:08:37Z,2,00:38,19:22,0,1,,,
+120,15,21,Washington Capitals,Colorado Avalanche,2022020278138,2022020278,Faceoff,138,FACEOFF,Lars Eller faceoff won against Andrew Cogliano,2022-11-20T01:09:16Z,2,00:38,19:22,0,1,15.0,Washington Capitals,WSH
+121,15,21,Washington Capitals,Colorado Avalanche,2022020278180,2022020278,Hit,180,HIT,Nic Dowd hit Erik Johnson,2022-11-20T01:09:22Z,2,00:44,19:16,0,1,15.0,Washington Capitals,WSH
+122,15,21,Washington Capitals,Colorado Avalanche,2022020278181,2022020278,Takeaway,181,TAKEAWAY,Takeaway by Andrew Cogliano,2022-11-20T01:09:40Z,2,01:02,18:58,0,1,21.0,Colorado Avalanche,COL
+123,15,21,Washington Capitals,Colorado Avalanche,2022020278260,2022020278,Missed Shot,260,MISSED_SHOT,J.T. Compher Wide of Net Darcy Kuemper,2022-11-20T01:09:44Z,2,01:06,18:54,0,1,21.0,Colorado Avalanche,COL
+124,15,21,Washington Capitals,Colorado Avalanche,2022020278182,2022020278,Hit,182,HIT,Erik Johnson hit Nic Dowd,2022-11-20T01:09:47Z,2,01:09,18:51,0,1,21.0,Colorado Avalanche,COL
+125,15,21,Washington Capitals,Colorado Avalanche,2022020278261,2022020278,Missed Shot,261,MISSED_SHOT,Evan Rodrigues Over Net Darcy Kuemper,2022-11-20T01:10:24Z,2,01:46,18:14,0,1,21.0,Colorado Avalanche,COL
+126,15,21,Washington Capitals,Colorado Avalanche,2022020278184,2022020278,Takeaway,184,TAKEAWAY,Takeaway by Alex Ovechkin,2022-11-20T01:10:46Z,2,02:08,17:52,0,1,15.0,Washington Capitals,WSH
+127,15,21,Washington Capitals,Colorado Avalanche,2022020278262,2022020278,Shot,262,SHOT,Artturi Lehkonen Backhand saved by Darcy Kuemper,2022-11-20T01:11:03Z,2,02:25,17:35,0,1,21.0,Colorado Avalanche,COL
+128,15,21,Washington Capitals,Colorado Avalanche,2022020278185,2022020278,Takeaway,185,TAKEAWAY,Takeaway by Nick Jensen,2022-11-20T01:11:43Z,2,03:05,16:55,0,1,15.0,Washington Capitals,WSH
+129,15,21,Washington Capitals,Colorado Avalanche,2022020278406,2022020278,Hit,406,HIT,Nicolas Aube-Kubel hit Anton Blidh,2022-11-20T01:11:59Z,2,03:21,16:39,0,1,15.0,Washington Capitals,WSH
+130,15,21,Washington Capitals,Colorado Avalanche,2022020278263,2022020278,Shot,263,SHOT,Conor Sheary Snap Shot saved by Alexandar Georgiev,2022-11-20T01:12:34Z,2,03:56,16:04,0,1,15.0,Washington Capitals,WSH
+131,15,21,Washington Capitals,Colorado Avalanche,2022020278186,2022020278,Hit,186,HIT,Jacob MacDonald hit Lars Eller,2022-11-20T01:12:44Z,2,04:06,15:54,0,1,21.0,Colorado Avalanche,COL
+132,15,21,Washington Capitals,Colorado Avalanche,2022020278264,2022020278,Missed Shot,264,MISSED_SHOT,J.T. Compher Wide of Net Darcy Kuemper,2022-11-20T01:13:03Z,2,04:25,15:35,0,1,21.0,Colorado Avalanche,COL
+133,15,21,Washington Capitals,Colorado Avalanche,2022020278187,2022020278,Hit,187,HIT,Erik Johnson hit Trevor van Riemsdyk,2022-11-20T01:13:12Z,2,04:34,15:26,0,1,21.0,Colorado Avalanche,COL
+134,15,21,Washington Capitals,Colorado Avalanche,2022020278265,2022020278,Missed Shot,265,MISSED_SHOT,Artturi Lehkonen Wide of Net Darcy Kuemper,2022-11-20T01:13:29Z,2,04:51,15:09,0,1,21.0,Colorado Avalanche,COL
+135,15,21,Washington Capitals,Colorado Avalanche,2022020278266,2022020278,Shot,266,SHOT,Devon Toews Snap Shot saved by Darcy Kuemper,2022-11-20T01:14:03Z,2,05:25,14:35,0,1,21.0,Colorado Avalanche,COL
+136,15,21,Washington Capitals,Colorado Avalanche,2022020278267,2022020278,Missed Shot,267,MISSED_SHOT,Artturi Lehkonen Wide of Net Darcy Kuemper,2022-11-20T01:14:25Z,2,05:47,14:13,0,1,21.0,Colorado Avalanche,COL
+137,15,21,Washington Capitals,Colorado Avalanche,2022020278190,2022020278,Giveaway,190,GIVEAWAY,Giveaway by Nathan MacKinnon,2022-11-20T01:14:26Z,2,05:48,14:12,0,1,21.0,Colorado Avalanche,COL
+138,15,21,Washington Capitals,Colorado Avalanche,2022020278268,2022020278,Blocked Shot,268,BLOCKED_SHOT,Anthony Mantha shot blocked shot by Josh Manson,2022-11-20T01:14:55Z,2,06:17,13:43,0,1,21.0,Colorado Avalanche,COL
+139,15,21,Washington Capitals,Colorado Avalanche,2022020278139,2022020278,Stoppage,139,STOP,Puck in Netting,2022-11-20T01:15:00Z,2,06:18,13:42,0,1,,,
+140,15,21,Washington Capitals,Colorado Avalanche,2022020278140,2022020278,Faceoff,140,FACEOFF,Evan Rodrigues faceoff won against Evgeny Kuznetsov,2022-11-20T01:17:12Z,2,06:18,13:42,0,1,21.0,Colorado Avalanche,COL
+141,15,21,Washington Capitals,Colorado Avalanche,2022020278191,2022020278,Giveaway,191,GIVEAWAY,Giveaway by Josh Manson,2022-11-20T01:17:41Z,2,06:47,13:13,0,1,21.0,Colorado Avalanche,COL
+142,15,21,Washington Capitals,Colorado Avalanche,2022020278269,2022020278,Shot,269,SHOT,Jacob MacDonald Snap Shot saved by Darcy Kuemper,2022-11-20T01:17:55Z,2,07:01,12:59,0,1,21.0,Colorado Avalanche,COL
+143,15,21,Washington Capitals,Colorado Avalanche,2022020278270,2022020278,Blocked Shot,270,BLOCKED_SHOT,Matt Irwin shot blocked shot by Erik Johnson,2022-11-20T01:18:28Z,2,07:34,12:26,0,1,21.0,Colorado Avalanche,COL
+144,15,21,Washington Capitals,Colorado Avalanche,2022020278271,2022020278,Shot,271,SHOT,Garnet Hathaway Backhand saved by Alexandar Georgiev,2022-11-20T01:19:04Z,2,08:10,11:50,0,1,15.0,Washington Capitals,WSH
+145,15,21,Washington Capitals,Colorado Avalanche,2022020278648,2022020278,Penalty,648,PENALTY,Devon Toews Holding against Garnet Hathaway,2022-11-20T01:19:05Z,2,08:11,11:49,0,1,21.0,Colorado Avalanche,COL
+146,15,21,Washington Capitals,Colorado Avalanche,2022020278141,2022020278,Faceoff,141,FACEOFF,Dylan Strome faceoff won against Evan Rodrigues,2022-11-20T01:19:58Z,2,08:11,11:49,0,1,15.0,Washington Capitals,WSH
+147,15,21,Washington Capitals,Colorado Avalanche,2022020278272,2022020278,Shot,272,SHOT,Dylan Strome Tip-In saved by Alexandar Georgiev,2022-11-20T01:20:26Z,2,08:39,11:21,0,1,15.0,Washington Capitals,WSH
+148,15,21,Washington Capitals,Colorado Avalanche,2022020278273,2022020278,Shot,273,SHOT,Evan Rodrigues Slap Shot saved by Darcy Kuemper,2022-11-20T01:20:33Z,2,08:46,11:14,0,1,21.0,Colorado Avalanche,COL
+149,15,21,Washington Capitals,Colorado Avalanche,2022020278274,2022020278,Blocked Shot,274,BLOCKED_SHOT,John Carlson shot blocked shot by Erik Johnson,2022-11-20T01:20:51Z,2,09:04,10:56,0,1,21.0,Colorado Avalanche,COL
+150,15,21,Washington Capitals,Colorado Avalanche,2022020278193,2022020278,Hit,193,HIT,John Carlson hit Logan O'Connor,2022-11-20T01:21:02Z,2,09:15,10:45,0,1,15.0,Washington Capitals,WSH
+151,15,21,Washington Capitals,Colorado Avalanche,2022020278275,2022020278,Blocked Shot,275,BLOCKED_SHOT,Alex Ovechkin shot blocked shot by J.T. Compher,2022-11-20T01:21:23Z,2,09:36,10:24,0,1,21.0,Colorado Avalanche,COL
+152,15,21,Washington Capitals,Colorado Avalanche,2022020278194,2022020278,Hit,194,HIT,Evan Rodrigues hit Sonny Milano,2022-11-20T01:22:04Z,2,10:17,09:43,0,1,21.0,Colorado Avalanche,COL
+153,15,21,Washington Capitals,Colorado Avalanche,2022020278195,2022020278,Hit,195,HIT,Artturi Lehkonen hit Conor Sheary,2022-11-20T01:22:09Z,2,10:22,09:38,0,1,21.0,Colorado Avalanche,COL
+154,15,21,Washington Capitals,Colorado Avalanche,2022020278196,2022020278,Hit,196,HIT,Garnet Hathaway hit Artturi Lehkonen,2022-11-20T01:22:22Z,2,10:35,09:25,0,1,15.0,Washington Capitals,WSH
+155,15,21,Washington Capitals,Colorado Avalanche,2022020278197,2022020278,Takeaway,197,TAKEAWAY,Takeaway by Nic Dowd,2022-11-20T01:22:43Z,2,10:56,09:04,0,1,15.0,Washington Capitals,WSH
+156,15,21,Washington Capitals,Colorado Avalanche,2022020278276,2022020278,Shot,276,SHOT,Garnet Hathaway Snap Shot saved by Alexandar Georgiev,2022-11-20T01:22:46Z,2,10:59,09:01,0,1,15.0,Washington Capitals,WSH
+157,15,21,Washington Capitals,Colorado Avalanche,2022020278277,2022020278,Blocked Shot,277,BLOCKED_SHOT,Nick Jensen shot blocked shot by Jacob MacDonald,2022-11-20T01:22:54Z,2,11:07,08:53,0,1,21.0,Colorado Avalanche,COL
+158,15,21,Washington Capitals,Colorado Avalanche,2022020278199,2022020278,Giveaway,199,GIVEAWAY,Giveaway by Jacob MacDonald,2022-11-20T01:22:57Z,2,11:10,08:50,0,1,21.0,Colorado Avalanche,COL
+159,15,21,Washington Capitals,Colorado Avalanche,2022020278142,2022020278,Stoppage,142,STOP,Offside,2022-11-20T01:23:02Z,2,11:16,08:44,0,1,,,
+160,15,21,Washington Capitals,Colorado Avalanche,2022020278143,2022020278,Faceoff,143,FACEOFF,Evgeny Kuznetsov faceoff won against Jayson Megna,2022-11-20T01:25:23Z,2,11:16,08:44,0,1,15.0,Washington Capitals,WSH
+161,15,21,Washington Capitals,Colorado Avalanche,2022020278278,2022020278,Missed Shot,278,MISSED_SHOT,Sonny Milano Wide of Net Alexandar Georgiev,2022-11-20T01:25:45Z,2,11:38,08:22,0,1,15.0,Washington Capitals,WSH
+162,15,21,Washington Capitals,Colorado Avalanche,2022020278279,2022020278,Missed Shot,279,MISSED_SHOT,Aliaksei Protas Wide of Net Alexandar Georgiev,2022-11-20T01:25:57Z,2,11:50,08:10,0,1,15.0,Washington Capitals,WSH
+163,15,21,Washington Capitals,Colorado Avalanche,2022020278200,2022020278,Hit,200,HIT,Dryden Hunt hit Matt Irwin,2022-11-20T01:26:10Z,2,12:03,07:57,0,1,21.0,Colorado Avalanche,COL
+164,15,21,Washington Capitals,Colorado Avalanche,2022020278551,2022020278,Hit,551,HIT,Trevor van Riemsdyk hit Artturi Lehkonen,2022-11-20T01:26:26Z,2,12:19,07:41,0,1,15.0,Washington Capitals,WSH
+165,15,21,Washington Capitals,Colorado Avalanche,2022020278280,2022020278,Blocked Shot,280,BLOCKED_SHOT,Cale Makar shot blocked shot by Sonny Milano,2022-11-20T01:26:32Z,2,12:25,07:35,0,1,15.0,Washington Capitals,WSH
+166,15,21,Washington Capitals,Colorado Avalanche,2022020278281,2022020278,Shot,281,SHOT,Mikko Rantanen Tip-In saved by Darcy Kuemper,2022-11-20T01:26:42Z,2,12:35,07:25,0,1,21.0,Colorado Avalanche,COL
+167,15,21,Washington Capitals,Colorado Avalanche,2022020278144,2022020278,Stoppage,144,STOP,Goalie Stopped,2022-11-20T01:26:44Z,2,12:37,07:23,0,1,,,
+168,15,21,Washington Capitals,Colorado Avalanche,2022020278145,2022020278,Faceoff,145,FACEOFF,Evan Rodrigues faceoff won against Lars Eller,2022-11-20T01:27:26Z,2,12:37,07:23,0,1,21.0,Colorado Avalanche,COL
+169,15,21,Washington Capitals,Colorado Avalanche,2022020278282,2022020278,Shot,282,SHOT,Jacob MacDonald Slap Shot saved by Darcy Kuemper,2022-11-20T01:27:46Z,2,12:57,07:03,0,1,21.0,Colorado Avalanche,COL
+170,15,21,Washington Capitals,Colorado Avalanche,2022020278552,2022020278,Takeaway,552,TAKEAWAY,Takeaway by Josh Manson,2022-11-20T01:27:53Z,2,13:04,06:56,0,1,21.0,Colorado Avalanche,COL
+171,15,21,Washington Capitals,Colorado Avalanche,2022020278283,2022020278,Goal,283,GOAL,"Nathan MacKinnon (5) Snap Shot, assists: Josh Manson (3), Alex Newhook (2)",2022-11-20T01:28:03Z,2,13:14,06:46,0,2,21.0,Colorado Avalanche,COL
+172,15,21,Washington Capitals,Colorado Avalanche,2022020278146,2022020278,Faceoff,146,FACEOFF,Dylan Strome faceoff won against J.T. Compher,2022-11-20T01:28:52Z,2,13:14,06:46,0,2,15.0,Washington Capitals,WSH
+173,15,21,Washington Capitals,Colorado Avalanche,2022020278553,2022020278,Takeaway,553,TAKEAWAY,Takeaway by John Carlson,2022-11-20T01:29:18Z,2,13:40,06:20,0,2,15.0,Washington Capitals,WSH
+174,15,21,Washington Capitals,Colorado Avalanche,2022020278554,2022020278,Takeaway,554,TAKEAWAY,Takeaway by Andrew Cogliano,2022-11-20T01:29:22Z,2,13:44,06:16,0,2,21.0,Colorado Avalanche,COL
+175,15,21,Washington Capitals,Colorado Avalanche,2022020278147,2022020278,Hit,147,HIT,Alex Ovechkin hit Erik Johnson,2022-11-20T01:29:40Z,2,14:02,05:58,0,2,15.0,Washington Capitals,WSH
+176,15,21,Washington Capitals,Colorado Avalanche,2022020278148,2022020278,Stoppage,148,STOP,Offside,2022-11-20T01:29:48Z,2,14:10,05:50,0,2,,,
+177,15,21,Washington Capitals,Colorado Avalanche,2022020278149,2022020278,Faceoff,149,FACEOFF,Nathan MacKinnon faceoff won against Nic Dowd,2022-11-20T01:32:03Z,2,14:10,05:50,0,2,21.0,Colorado Avalanche,COL
+178,15,21,Washington Capitals,Colorado Avalanche,2022020278284,2022020278,Shot,284,SHOT,Garnet Hathaway Snap Shot saved by Alexandar Georgiev,2022-11-20T01:32:15Z,2,14:22,05:38,0,2,15.0,Washington Capitals,WSH
+179,15,21,Washington Capitals,Colorado Avalanche,2022020278150,2022020278,Stoppage,150,STOP,Goalie Stopped,2022-11-20T01:32:16Z,2,14:23,05:37,0,2,,,
+180,15,21,Washington Capitals,Colorado Avalanche,2022020278501,2022020278,Faceoff,501,FACEOFF,Marcus Johansson faceoff won against Nathan MacKinnon,2022-11-20T01:32:56Z,2,14:23,05:37,0,2,15.0,Washington Capitals,WSH
+181,15,21,Washington Capitals,Colorado Avalanche,2022020278555,2022020278,Hit,555,HIT,Nic Dowd hit Devon Toews,2022-11-20T01:33:05Z,2,14:32,05:28,0,2,15.0,Washington Capitals,WSH
+182,15,21,Washington Capitals,Colorado Avalanche,2022020278285,2022020278,Blocked Shot,285,BLOCKED_SHOT,Nick Jensen shot blocked shot by Devon Toews,2022-11-20T01:33:13Z,2,14:40,05:20,0,2,21.0,Colorado Avalanche,COL
+183,15,21,Washington Capitals,Colorado Avalanche,2022020278407,2022020278,Hit,407,HIT,Garnet Hathaway hit Nathan MacKinnon,2022-11-20T01:33:22Z,2,14:49,05:11,0,2,15.0,Washington Capitals,WSH
+184,15,21,Washington Capitals,Colorado Avalanche,2022020278556,2022020278,Giveaway,556,GIVEAWAY,Giveaway by Nic Dowd,2022-11-20T01:33:25Z,2,14:52,05:08,0,2,15.0,Washington Capitals,WSH
+185,15,21,Washington Capitals,Colorado Avalanche,2022020278557,2022020278,Giveaway,557,GIVEAWAY,Giveaway by Nathan MacKinnon,2022-11-20T01:33:27Z,2,14:54,05:06,0,2,21.0,Colorado Avalanche,COL
+186,15,21,Washington Capitals,Colorado Avalanche,2022020278286,2022020278,Blocked Shot,286,BLOCKED_SHOT,Cale Makar shot blocked shot by Garnet Hathaway,2022-11-20T01:33:38Z,2,15:05,04:55,0,2,15.0,Washington Capitals,WSH
+187,15,21,Washington Capitals,Colorado Avalanche,2022020278287,2022020278,Missed Shot,287,MISSED_SHOT,Erik Gustafsson Wide of Net Alexandar Georgiev,2022-11-20T01:33:59Z,2,15:26,04:34,0,2,15.0,Washington Capitals,WSH
+188,15,21,Washington Capitals,Colorado Avalanche,2022020278288,2022020278,Shot,288,SHOT,John Carlson Snap Shot saved by Alexandar Georgiev,2022-11-20T01:34:08Z,2,15:35,04:25,0,2,15.0,Washington Capitals,WSH
+189,15,21,Washington Capitals,Colorado Avalanche,2022020278289,2022020278,Blocked Shot,289,BLOCKED_SHOT,Sonny Milano shot blocked shot by Jacob MacDonald,2022-11-20T01:34:23Z,2,15:50,04:10,0,2,21.0,Colorado Avalanche,COL
+190,15,21,Washington Capitals,Colorado Avalanche,2022020278290,2022020278,Shot,290,SHOT,Martin Kaut Backhand saved by Darcy Kuemper,2022-11-20T01:34:48Z,2,16:15,03:45,0,2,21.0,Colorado Avalanche,COL
+191,15,21,Washington Capitals,Colorado Avalanche,2022020278560,2022020278,Giveaway,560,GIVEAWAY,Giveaway by Evan Rodrigues,2022-11-20T01:34:58Z,2,16:25,03:35,0,2,21.0,Colorado Avalanche,COL
+192,15,21,Washington Capitals,Colorado Avalanche,2022020278502,2022020278,Stoppage,502,STOP,Icing,2022-11-20T01:35:12Z,2,16:39,03:21,0,2,,,
+193,15,21,Washington Capitals,Colorado Avalanche,2022020278503,2022020278,Faceoff,503,FACEOFF,Dylan Strome faceoff won against Artturi Lehkonen,2022-11-20T01:35:58Z,2,16:39,03:21,0,2,15.0,Washington Capitals,WSH
+194,15,21,Washington Capitals,Colorado Avalanche,2022020278291,2022020278,Missed Shot,291,MISSED_SHOT,Devon Toews Wide of Net Darcy Kuemper,2022-11-20T01:36:08Z,2,16:49,03:11,0,2,21.0,Colorado Avalanche,COL
+195,15,21,Washington Capitals,Colorado Avalanche,2022020278563,2022020278,Hit,563,HIT,Alex Ovechkin hit Nathan MacKinnon,2022-11-20T01:36:12Z,2,16:53,03:07,0,2,15.0,Washington Capitals,WSH
+196,15,21,Washington Capitals,Colorado Avalanche,2022020278292,2022020278,Missed Shot,292,MISSED_SHOT,Alex Ovechkin Wide of Net Alexandar Georgiev,2022-11-20T01:36:19Z,2,17:00,03:00,0,2,15.0,Washington Capitals,WSH
+197,15,21,Washington Capitals,Colorado Avalanche,2022020278293,2022020278,Shot,293,SHOT,Conor Sheary Wrist Shot saved by Alexandar Georgiev,2022-11-20T01:36:47Z,2,17:28,02:32,0,2,15.0,Washington Capitals,WSH
+198,15,21,Washington Capitals,Colorado Avalanche,2022020278755,2022020278,Penalty,755,PENALTY,Mikko Rantanen Tripping against Dylan Strome,2022-11-20T01:36:50Z,2,17:31,02:29,0,2,21.0,Colorado Avalanche,COL
+199,15,21,Washington Capitals,Colorado Avalanche,2022020278504,2022020278,Faceoff,504,FACEOFF,Evgeny Kuznetsov faceoff won against J.T. Compher,2022-11-20T01:37:55Z,2,17:31,02:29,0,2,15.0,Washington Capitals,WSH
+200,15,21,Washington Capitals,Colorado Avalanche,2022020278565,2022020278,Hit,565,HIT,Sonny Milano hit Erik Johnson,2022-11-20T01:39:19Z,2,18:55,01:05,0,2,15.0,Washington Capitals,WSH
+201,15,21,Washington Capitals,Colorado Avalanche,2022020278567,2022020278,Takeaway,567,TAKEAWAY,Takeaway by Alex Ovechkin,2022-11-20T01:39:40Z,2,19:16,00:44,0,2,15.0,Washington Capitals,WSH
+202,15,21,Washington Capitals,Colorado Avalanche,2022020278294,2022020278,Blocked Shot,294,BLOCKED_SHOT,Anthony Mantha shot blocked shot by Cale Makar,2022-11-20T01:39:46Z,2,19:22,00:38,0,2,21.0,Colorado Avalanche,COL
+203,15,21,Washington Capitals,Colorado Avalanche,2022020278295,2022020278,Blocked Shot,295,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Erik Gustafsson,2022-11-20T01:40:09Z,2,19:45,00:15,0,2,15.0,Washington Capitals,WSH
+204,15,21,Washington Capitals,Colorado Avalanche,2022020278296,2022020278,Shot,296,SHOT,Trevor van Riemsdyk Wrist Shot saved by Alexandar Georgiev,2022-11-20T01:40:23Z,2,19:59,00:01,0,2,15.0,Washington Capitals,WSH
+205,15,21,Washington Capitals,Colorado Avalanche,2022020278297,2022020278,Period End,297,PERIOD_END,End of 2nd Period,2022-11-20T01:40:24Z,2,20:00,00:00,0,2,,,
+206,15,21,Washington Capitals,Colorado Avalanche,2022020278300,2022020278,Period Official,300,PERIOD_OFFICIAL,Period Official,2022-11-20T01:46:52Z,2,20:00,00:00,0,2,,,
+207,15,21,Washington Capitals,Colorado Avalanche,2022020278701,2022020278,Period Ready,701,PERIOD_READY,Period Ready,2022-11-20T01:56:58Z,3,00:00,20:00,0,2,,,
+208,15,21,Washington Capitals,Colorado Avalanche,2022020278505,2022020278,Period Start,505,PERIOD_START,Period Start,2022-11-20T01:59:14Z,3,00:00,20:00,0,2,,,
+209,15,21,Washington Capitals,Colorado Avalanche,2022020278506,2022020278,Faceoff,506,FACEOFF,Nic Dowd faceoff won against Nathan MacKinnon,2022-11-20T01:59:14Z,3,00:00,20:00,0,2,15.0,Washington Capitals,WSH
+210,15,21,Washington Capitals,Colorado Avalanche,2022020278568,2022020278,Hit,568,HIT,Garnet Hathaway hit Nathan MacKinnon,2022-11-20T01:59:31Z,3,00:17,19:43,0,2,15.0,Washington Capitals,WSH
+211,15,21,Washington Capitals,Colorado Avalanche,2022020278569,2022020278,Hit,569,HIT,Devon Toews hit Nic Dowd,2022-11-20T01:59:33Z,3,00:19,19:41,0,2,21.0,Colorado Avalanche,COL
+212,15,21,Washington Capitals,Colorado Avalanche,2022020278702,2022020278,Shot,702,SHOT,Artturi Lehkonen Wrist Shot saved by Darcy Kuemper,2022-11-20T01:59:41Z,3,00:27,19:33,0,2,21.0,Colorado Avalanche,COL
+213,15,21,Washington Capitals,Colorado Avalanche,2022020278570,2022020278,Hit,570,HIT,Mikko Rantanen hit Nick Jensen,2022-11-20T01:59:48Z,3,00:34,19:26,0,2,21.0,Colorado Avalanche,COL
+214,15,21,Washington Capitals,Colorado Avalanche,2022020278571,2022020278,Giveaway,571,GIVEAWAY,Giveaway by Alex Ovechkin,2022-11-20T02:00:09Z,3,00:55,19:05,0,2,15.0,Washington Capitals,WSH
+215,15,21,Washington Capitals,Colorado Avalanche,2022020278703,2022020278,Blocked Shot,703,BLOCKED_SHOT,Andrew Cogliano shot blocked shot by Dylan Strome,2022-11-20T02:00:38Z,3,01:24,18:36,0,2,15.0,Washington Capitals,WSH
+216,15,21,Washington Capitals,Colorado Avalanche,2022020278507,2022020278,Stoppage,507,STOP,Puck in Benches,2022-11-20T02:00:42Z,3,01:27,18:33,0,2,,,
+217,15,21,Washington Capitals,Colorado Avalanche,2022020278508,2022020278,Faceoff,508,FACEOFF,Lars Eller faceoff won against Evan Rodrigues,2022-11-20T02:01:33Z,3,01:27,18:33,0,2,15.0,Washington Capitals,WSH
+218,15,21,Washington Capitals,Colorado Avalanche,2022020278704,2022020278,Shot,704,SHOT,Matt Irwin Snap Shot saved by Alexandar Georgiev,2022-11-20T02:01:43Z,3,01:37,18:23,0,2,15.0,Washington Capitals,WSH
+219,15,21,Washington Capitals,Colorado Avalanche,2022020278509,2022020278,Stoppage,509,STOP,Offside,2022-11-20T02:02:06Z,3,02:00,18:00,0,2,,,
+220,15,21,Washington Capitals,Colorado Avalanche,2022020278510,2022020278,Faceoff,510,FACEOFF,Jayson Megna faceoff won against Evgeny Kuznetsov,2022-11-20T02:02:36Z,3,02:00,18:00,0,2,21.0,Colorado Avalanche,COL
+221,15,21,Washington Capitals,Colorado Avalanche,2022020278511,2022020278,Stoppage,511,STOP,Puck in Benches,2022-11-20T02:02:40Z,3,02:04,17:56,0,2,,,
+222,15,21,Washington Capitals,Colorado Avalanche,2022020278512,2022020278,Faceoff,512,FACEOFF,Jayson Megna faceoff won against Evgeny Kuznetsov,2022-11-20T02:03:06Z,3,02:04,17:56,0,2,21.0,Colorado Avalanche,COL
+223,15,21,Washington Capitals,Colorado Avalanche,2022020278572,2022020278,Hit,572,HIT,Anton Blidh hit Sonny Milano,2022-11-20T02:03:26Z,3,02:24,17:36,0,2,21.0,Colorado Avalanche,COL
+224,15,21,Washington Capitals,Colorado Avalanche,2022020278705,2022020278,Shot,705,SHOT,Evgeny Kuznetsov Snap Shot saved by Alexandar Georgiev,2022-11-20T02:03:35Z,3,02:33,17:27,0,2,15.0,Washington Capitals,WSH
+225,15,21,Washington Capitals,Colorado Avalanche,2022020278513,2022020278,Stoppage,513,STOP,Goalie Stopped,2022-11-20T02:03:36Z,3,02:34,17:26,0,2,,,
+226,15,21,Washington Capitals,Colorado Avalanche,2022020278514,2022020278,Faceoff,514,FACEOFF,Nic Dowd faceoff won against Nathan MacKinnon,2022-11-20T02:04:10Z,3,02:34,17:26,0,2,15.0,Washington Capitals,WSH
+227,15,21,Washington Capitals,Colorado Avalanche,2022020278706,2022020278,Shot,706,SHOT,Nic Dowd Snap Shot saved by Alexandar Georgiev,2022-11-20T02:04:49Z,3,03:13,16:47,0,2,15.0,Washington Capitals,WSH
+228,15,21,Washington Capitals,Colorado Avalanche,2022020278515,2022020278,Stoppage,515,STOP,Net Dislodged Defensive Skater,2022-11-20T02:04:51Z,3,03:14,16:46,0,2,,,
+229,15,21,Washington Capitals,Colorado Avalanche,2022020278517,2022020278,Faceoff,517,FACEOFF,Andrew Cogliano faceoff won against Evgeny Kuznetsov,2022-11-20T02:06:04Z,3,03:14,16:46,0,2,21.0,Colorado Avalanche,COL
+230,15,21,Washington Capitals,Colorado Avalanche,2022020278518,2022020278,Stoppage,518,STOP,Icing,2022-11-20T02:06:13Z,3,03:23,16:37,0,2,,,
+231,15,21,Washington Capitals,Colorado Avalanche,2022020278519,2022020278,Faceoff,519,FACEOFF,Andrew Cogliano faceoff won against Conor Sheary,2022-11-20T02:06:52Z,3,03:23,16:37,0,2,21.0,Colorado Avalanche,COL
+232,15,21,Washington Capitals,Colorado Avalanche,2022020278707,2022020278,Missed Shot,707,MISSED_SHOT,Logan O'Connor Wide of Net Darcy Kuemper,2022-11-20T02:07:01Z,3,03:32,16:28,0,2,21.0,Colorado Avalanche,COL
+233,15,21,Washington Capitals,Colorado Avalanche,2022020278409,2022020278,Blocked Shot,409,BLOCKED_SHOT,Andrew Cogliano shot blocked shot by John Carlson,2022-11-20T02:07:05Z,3,03:36,16:24,0,2,15.0,Washington Capitals,WSH
+234,15,21,Washington Capitals,Colorado Avalanche,2022020278708,2022020278,Shot,708,SHOT,Josh Manson Wrist Shot saved by Darcy Kuemper,2022-11-20T02:07:07Z,3,03:38,16:22,0,2,21.0,Colorado Avalanche,COL
+235,15,21,Washington Capitals,Colorado Avalanche,2022020278573,2022020278,Takeaway,573,TAKEAWAY,Takeaway by Conor Sheary,2022-11-20T02:07:38Z,3,04:09,15:51,0,2,15.0,Washington Capitals,WSH
+236,15,21,Washington Capitals,Colorado Avalanche,2022020278709,2022020278,Blocked Shot,709,BLOCKED_SHOT,Evgeny Kuznetsov shot blocked shot by Erik Johnson,2022-11-20T02:07:39Z,3,04:10,15:50,0,2,21.0,Colorado Avalanche,COL
+237,15,21,Washington Capitals,Colorado Avalanche,2022020278577,2022020278,Hit,577,HIT,Jacob MacDonald hit Alex Ovechkin,2022-11-20T02:07:52Z,3,04:23,15:37,0,2,21.0,Colorado Avalanche,COL
+238,15,21,Washington Capitals,Colorado Avalanche,2022020278574,2022020278,Hit,574,HIT,Trevor van Riemsdyk hit Martin Kaut,2022-11-20T02:08:02Z,3,04:33,15:27,0,2,15.0,Washington Capitals,WSH
+239,15,21,Washington Capitals,Colorado Avalanche,2022020278710,2022020278,Shot,710,SHOT,Anthony Mantha Snap Shot saved by Alexandar Georgiev,2022-11-20T02:09:37Z,3,06:08,13:52,0,2,15.0,Washington Capitals,WSH
+240,15,21,Washington Capitals,Colorado Avalanche,2022020278520,2022020278,Stoppage,520,STOP,Goalie Stopped,2022-11-20T02:09:38Z,3,06:09,13:51,0,2,,,
+241,15,21,Washington Capitals,Colorado Avalanche,2022020278522,2022020278,Faceoff,522,FACEOFF,Evgeny Kuznetsov faceoff won against J.T. Compher,2022-11-20T02:12:02Z,3,06:09,13:51,0,2,15.0,Washington Capitals,WSH
+242,15,21,Washington Capitals,Colorado Avalanche,2022020278711,2022020278,Blocked Shot,711,BLOCKED_SHOT,Erik Gustafsson shot blocked shot by Andrew Cogliano,2022-11-20T02:12:09Z,3,06:16,13:44,0,2,21.0,Colorado Avalanche,COL
+243,15,21,Washington Capitals,Colorado Avalanche,2022020278712,2022020278,Missed Shot,712,MISSED_SHOT,Logan O'Connor Wide of Net Darcy Kuemper,2022-11-20T02:12:15Z,3,06:22,13:38,0,2,21.0,Colorado Avalanche,COL
+244,15,21,Washington Capitals,Colorado Avalanche,2022020278410,2022020278,Takeaway,410,TAKEAWAY,Takeaway by Cale Makar,2022-11-20T02:12:47Z,3,06:54,13:06,0,2,21.0,Colorado Avalanche,COL
+245,15,21,Washington Capitals,Colorado Avalanche,2022020278581,2022020278,Giveaway,581,GIVEAWAY,Giveaway by Cale Makar,2022-11-20T02:12:48Z,3,06:55,13:05,0,2,21.0,Colorado Avalanche,COL
+246,15,21,Washington Capitals,Colorado Avalanche,2022020278713,2022020278,Shot,713,SHOT,Alex Newhook Wrist Shot saved by Darcy Kuemper,2022-11-20T02:12:57Z,3,07:04,12:56,0,2,21.0,Colorado Avalanche,COL
+247,15,21,Washington Capitals,Colorado Avalanche,2022020278714,2022020278,Blocked Shot,714,BLOCKED_SHOT,Cale Makar shot blocked shot by Matt Irwin,2022-11-20T02:13:02Z,3,07:09,12:51,0,2,15.0,Washington Capitals,WSH
+248,15,21,Washington Capitals,Colorado Avalanche,2022020278725,2022020278,Shot,725,SHOT,Dylan Strome Wrist Shot saved by Alexandar Georgiev,2022-11-20T02:13:16Z,3,07:23,12:37,0,2,15.0,Washington Capitals,WSH
+249,15,21,Washington Capitals,Colorado Avalanche,2022020278523,2022020278,Stoppage,523,STOP,Goalie Stopped,2022-11-20T02:13:18Z,3,07:25,12:35,0,2,,,
+250,15,21,Washington Capitals,Colorado Avalanche,2022020278524,2022020278,Faceoff,524,FACEOFF,Nic Dowd faceoff won against Nathan MacKinnon,2022-11-20T02:13:54Z,3,07:25,12:35,0,2,15.0,Washington Capitals,WSH
+251,15,21,Washington Capitals,Colorado Avalanche,2022020278715,2022020278,Blocked Shot,715,BLOCKED_SHOT,Nick Jensen shot blocked shot by Josh Manson,2022-11-20T02:14:05Z,3,07:36,12:24,0,2,21.0,Colorado Avalanche,COL
+252,15,21,Washington Capitals,Colorado Avalanche,2022020278583,2022020278,Hit,583,HIT,Garnet Hathaway hit Mikko Rantanen,2022-11-20T02:14:11Z,3,07:42,12:18,0,2,15.0,Washington Capitals,WSH
+253,15,21,Washington Capitals,Colorado Avalanche,2022020278584,2022020278,Takeaway,584,TAKEAWAY,Takeaway by Garnet Hathaway,2022-11-20T02:14:13Z,3,07:44,12:16,0,2,15.0,Washington Capitals,WSH
+254,15,21,Washington Capitals,Colorado Avalanche,2022020278716,2022020278,Shot,716,SHOT,Garnet Hathaway Snap Shot saved by Alexandar Georgiev,2022-11-20T02:14:18Z,3,07:49,12:11,0,2,15.0,Washington Capitals,WSH
+255,15,21,Washington Capitals,Colorado Avalanche,2022020278525,2022020278,Takeaway,525,TAKEAWAY,Takeaway by Nathan MacKinnon,2022-11-20T02:14:30Z,3,08:01,11:59,0,2,21.0,Colorado Avalanche,COL
+256,15,21,Washington Capitals,Colorado Avalanche,2022020278526,2022020278,Stoppage,526,STOP,Offside,2022-11-20T02:14:36Z,3,08:07,11:53,0,2,,,
+257,15,21,Washington Capitals,Colorado Avalanche,2022020278527,2022020278,Faceoff,527,FACEOFF,Lars Eller faceoff won against J.T. Compher,2022-11-20T02:15:10Z,3,08:07,11:53,0,2,15.0,Washington Capitals,WSH
+258,15,21,Washington Capitals,Colorado Avalanche,2022020278717,2022020278,Shot,717,SHOT,John Carlson Slap Shot saved by Alexandar Georgiev,2022-11-20T02:15:13Z,3,08:10,11:50,0,2,15.0,Washington Capitals,WSH
+259,15,21,Washington Capitals,Colorado Avalanche,2022020278718,2022020278,Shot,718,SHOT,John Carlson Snap Shot saved by Alexandar Georgiev,2022-11-20T02:15:33Z,3,08:30,11:30,0,2,15.0,Washington Capitals,WSH
+260,15,21,Washington Capitals,Colorado Avalanche,2022020278586,2022020278,Takeaway,586,TAKEAWAY,Takeaway by John Carlson,2022-11-20T02:15:46Z,3,08:43,11:17,0,2,15.0,Washington Capitals,WSH
+261,15,21,Washington Capitals,Colorado Avalanche,2022020278720,2022020278,Shot,720,SHOT,Jacob MacDonald Slap Shot saved by Darcy Kuemper,2022-11-20T02:15:59Z,3,08:56,11:04,0,2,21.0,Colorado Avalanche,COL
+262,15,21,Washington Capitals,Colorado Avalanche,2022020278719,2022020278,Goal,719,GOAL,"Andrew Cogliano (2) Deflected, assists: Jacob MacDonald (1), J.T. Compher (5)",2022-11-20T02:16:00Z,3,08:57,11:03,0,3,21.0,Colorado Avalanche,COL
+263,15,21,Washington Capitals,Colorado Avalanche,2022020278528,2022020278,Faceoff,528,FACEOFF,Evgeny Kuznetsov faceoff won against Evan Rodrigues,2022-11-20T02:16:47Z,3,08:57,11:03,0,3,15.0,Washington Capitals,WSH
+264,15,21,Washington Capitals,Colorado Avalanche,2022020278529,2022020278,Stoppage,529,STOP,Icing,2022-11-20T02:17:08Z,3,09:19,10:41,0,3,,,
+265,15,21,Washington Capitals,Colorado Avalanche,2022020278530,2022020278,Faceoff,530,FACEOFF,Evgeny Kuznetsov faceoff won against Alex Newhook,2022-11-20T02:17:35Z,3,09:19,10:41,0,3,15.0,Washington Capitals,WSH
+266,15,21,Washington Capitals,Colorado Avalanche,2022020278721,2022020278,Missed Shot,721,MISSED_SHOT,Jacob MacDonald Wide of Net Darcy Kuemper,2022-11-20T02:17:43Z,3,09:27,10:33,0,3,21.0,Colorado Avalanche,COL
+267,15,21,Washington Capitals,Colorado Avalanche,2022020278722,2022020278,Shot,722,SHOT,Marcus Johansson Snap Shot saved by Alexandar Georgiev,2022-11-20T02:17:58Z,3,09:42,10:18,0,3,15.0,Washington Capitals,WSH
+268,15,21,Washington Capitals,Colorado Avalanche,2022020278531,2022020278,Stoppage,531,STOP,Goalie Stopped,2022-11-20T02:17:59Z,3,09:43,10:17,0,3,,,
+269,15,21,Washington Capitals,Colorado Avalanche,2022020278532,2022020278,Faceoff,532,FACEOFF,Dryden Hunt faceoff won against Dylan Strome,2022-11-20T02:18:53Z,3,09:43,10:17,0,3,21.0,Colorado Avalanche,COL
+270,15,21,Washington Capitals,Colorado Avalanche,2022020278587,2022020278,Hit,587,HIT,Matt Irwin hit Anton Blidh,2022-11-20T02:19:02Z,3,09:52,10:08,0,3,15.0,Washington Capitals,WSH
+271,15,21,Washington Capitals,Colorado Avalanche,2022020278723,2022020278,Shot,723,SHOT,Cale Makar Snap Shot saved by Darcy Kuemper,2022-11-20T02:19:14Z,3,10:04,09:56,0,3,21.0,Colorado Avalanche,COL
+272,15,21,Washington Capitals,Colorado Avalanche,2022020278533,2022020278,Stoppage,533,STOP,Goalie Stopped,2022-11-20T02:19:16Z,3,10:06,09:54,0,3,,,
+273,15,21,Washington Capitals,Colorado Avalanche,2022020278534,2022020278,Faceoff,534,FACEOFF,Nic Dowd faceoff won against Mikko Rantanen,2022-11-20T02:21:39Z,3,10:06,09:54,0,3,15.0,Washington Capitals,WSH
+274,15,21,Washington Capitals,Colorado Avalanche,2022020278588,2022020278,Hit,588,HIT,Artturi Lehkonen hit Nicolas Aube-Kubel,2022-11-20T02:21:46Z,3,10:13,09:47,0,3,21.0,Colorado Avalanche,COL
+275,15,21,Washington Capitals,Colorado Avalanche,2022020278724,2022020278,Missed Shot,724,MISSED_SHOT,Nick Jensen Wide of Net Alexandar Georgiev,2022-11-20T02:21:55Z,3,10:22,09:38,0,3,15.0,Washington Capitals,WSH
+276,15,21,Washington Capitals,Colorado Avalanche,2022020278535,2022020278,Stoppage,535,STOP,Offside,2022-11-20T02:22:10Z,3,10:37,09:23,0,3,,,
+277,15,21,Washington Capitals,Colorado Avalanche,2022020278536,2022020278,Faceoff,536,FACEOFF,J.T. Compher faceoff won against Evgeny Kuznetsov,2022-11-20T02:22:37Z,3,10:37,09:23,0,3,21.0,Colorado Avalanche,COL
+278,15,21,Washington Capitals,Colorado Avalanche,2022020278589,2022020278,Takeaway,589,TAKEAWAY,Takeaway by Alex Newhook,2022-11-20T02:23:20Z,3,11:20,08:40,0,3,21.0,Colorado Avalanche,COL
+279,15,21,Washington Capitals,Colorado Avalanche,2022020278590,2022020278,Giveaway,590,GIVEAWAY,Giveaway by Alexandar Georgiev,2022-11-20T02:23:49Z,3,11:49,08:11,0,3,21.0,Colorado Avalanche,COL
+280,15,21,Washington Capitals,Colorado Avalanche,2022020278726,2022020278,Missed Shot,726,MISSED_SHOT,Trevor van Riemsdyk Wide of Net Alexandar Georgiev,2022-11-20T02:23:49Z,3,11:49,08:11,0,3,15.0,Washington Capitals,WSH
+281,15,21,Washington Capitals,Colorado Avalanche,2022020278411,2022020278,Takeaway,411,TAKEAWAY,Takeaway by Matt Irwin,2022-11-20T02:23:51Z,3,11:51,08:09,0,3,15.0,Washington Capitals,WSH
+282,15,21,Washington Capitals,Colorado Avalanche,2022020278727,2022020278,Shot,727,SHOT,Anthony Mantha Deflected saved by Alexandar Georgiev,2022-11-20T02:23:58Z,3,11:58,08:02,0,3,15.0,Washington Capitals,WSH
+283,15,21,Washington Capitals,Colorado Avalanche,2022020278592,2022020278,Takeaway,592,TAKEAWAY,Takeaway by Trevor van Riemsdyk,2022-11-20T02:24:41Z,3,12:41,07:19,0,3,15.0,Washington Capitals,WSH
+284,15,21,Washington Capitals,Colorado Avalanche,2022020278593,2022020278,Hit,593,HIT,Dryden Hunt hit Nick Jensen,2022-11-20T02:24:56Z,3,12:56,07:04,0,3,21.0,Colorado Avalanche,COL
+285,15,21,Washington Capitals,Colorado Avalanche,2022020278728,2022020278,Shot,728,SHOT,Devon Toews Snap Shot saved by Darcy Kuemper,2022-11-20T02:24:58Z,3,12:58,07:02,0,3,21.0,Colorado Avalanche,COL
+286,15,21,Washington Capitals,Colorado Avalanche,2022020278537,2022020278,Stoppage,537,STOP,Goalie Stopped,2022-11-20T02:25:01Z,3,13:01,06:59,0,3,,,
+287,15,21,Washington Capitals,Colorado Avalanche,2022020278538,2022020278,Faceoff,538,FACEOFF,Nic Dowd faceoff won against Nathan MacKinnon,2022-11-20T02:25:45Z,3,13:01,06:59,0,3,15.0,Washington Capitals,WSH
+288,15,21,Washington Capitals,Colorado Avalanche,2022020278539,2022020278,Stoppage,539,STOP,Puck in Benches,2022-11-20T02:25:49Z,3,13:05,06:55,0,3,,,
+289,15,21,Washington Capitals,Colorado Avalanche,2022020278540,2022020278,Faceoff,540,FACEOFF,Mikko Rantanen faceoff won against Nic Dowd,2022-11-20T02:26:21Z,3,13:05,06:55,0,3,21.0,Colorado Avalanche,COL
+290,15,21,Washington Capitals,Colorado Avalanche,2022020278729,2022020278,Shot,729,SHOT,Nathan MacKinnon Snap Shot saved by Darcy Kuemper,2022-11-20T02:26:25Z,3,13:09,06:51,0,3,21.0,Colorado Avalanche,COL
+291,15,21,Washington Capitals,Colorado Avalanche,2022020278730,2022020278,Missed Shot,730,MISSED_SHOT,Artturi Lehkonen Wide of Net Darcy Kuemper,2022-11-20T02:26:34Z,3,13:18,06:42,0,3,21.0,Colorado Avalanche,COL
+292,15,21,Washington Capitals,Colorado Avalanche,2022020278731,2022020278,Shot,731,SHOT,Mikko Rantanen Backhand saved by Darcy Kuemper,2022-11-20T02:26:46Z,3,13:30,06:30,0,3,21.0,Colorado Avalanche,COL
+293,15,21,Washington Capitals,Colorado Avalanche,2022020278732,2022020278,Missed Shot,732,MISSED_SHOT,Artturi Lehkonen Wide of Net Darcy Kuemper,2022-11-20T02:26:59Z,3,13:43,06:17,0,3,21.0,Colorado Avalanche,COL
+294,15,21,Washington Capitals,Colorado Avalanche,2022020278412,2022020278,Hit,412,HIT,Garnet Hathaway hit Erik Johnson,2022-11-20T02:27:02Z,3,13:46,06:14,0,3,15.0,Washington Capitals,WSH
+295,15,21,Washington Capitals,Colorado Avalanche,2022020278594,2022020278,Hit,594,HIT,Nic Dowd hit J.T. Compher,2022-11-20T02:28:12Z,3,14:56,05:04,0,3,15.0,Washington Capitals,WSH
+296,15,21,Washington Capitals,Colorado Avalanche,2022020278734,2022020278,Shot,734,SHOT,Martin Kaut Wrist Shot saved by Darcy Kuemper,2022-11-20T02:28:39Z,3,15:23,04:37,0,3,21.0,Colorado Avalanche,COL
+297,15,21,Washington Capitals,Colorado Avalanche,2022020278541,2022020278,Stoppage,541,STOP,Goalie Stopped,2022-11-20T02:28:40Z,3,15:24,04:36,0,3,,,
+298,15,21,Washington Capitals,Colorado Avalanche,2022020278542,2022020278,Faceoff,542,FACEOFF,Evan Rodrigues faceoff won against Evgeny Kuznetsov,2022-11-20T02:31:25Z,3,15:24,04:36,0,3,21.0,Colorado Avalanche,COL
+299,15,21,Washington Capitals,Colorado Avalanche,2022020278735,2022020278,Shot,735,SHOT,Alex Newhook Tip-In saved by Darcy Kuemper,2022-11-20T02:31:27Z,3,15:26,04:34,0,3,21.0,Colorado Avalanche,COL
+300,15,21,Washington Capitals,Colorado Avalanche,2022020278414,2022020278,Giveaway,414,GIVEAWAY,Giveaway by Alex Ovechkin,2022-11-20T02:32:11Z,3,16:10,03:50,0,3,15.0,Washington Capitals,WSH
+301,15,21,Washington Capitals,Colorado Avalanche,2022020278736,2022020278,Goal,736,GOAL,"Artturi Lehkonen (6) Snap Shot, assists: none",2022-11-20T02:32:13Z,3,16:12,03:48,0,4,21.0,Colorado Avalanche,COL
+302,15,21,Washington Capitals,Colorado Avalanche,2022020278543,2022020278,Faceoff,543,FACEOFF,Jayson Megna faceoff won against Lars Eller,2022-11-20T02:32:52Z,3,16:12,03:48,0,4,21.0,Colorado Avalanche,COL
+303,15,21,Washington Capitals,Colorado Avalanche,2022020278595,2022020278,Hit,595,HIT,Jayson Megna hit Lars Eller,2022-11-20T02:33:00Z,3,16:20,03:40,0,4,21.0,Colorado Avalanche,COL
+304,15,21,Washington Capitals,Colorado Avalanche,2022020278596,2022020278,Hit,596,HIT,Dryden Hunt hit Matt Irwin,2022-11-20T02:33:29Z,3,16:49,03:11,0,4,21.0,Colorado Avalanche,COL
+305,15,21,Washington Capitals,Colorado Avalanche,2022020278737,2022020278,Shot,737,SHOT,J.T. Compher Snap Shot saved by Darcy Kuemper,2022-11-20T02:33:31Z,3,16:51,03:09,0,4,21.0,Colorado Avalanche,COL
+306,15,21,Washington Capitals,Colorado Avalanche,2022020278544,2022020278,Stoppage,544,STOP,Goalie Stopped,2022-11-20T02:33:32Z,3,16:52,03:08,0,4,,,
+307,15,21,Washington Capitals,Colorado Avalanche,2022020278545,2022020278,Faceoff,545,FACEOFF,Nicolas Aube-Kubel faceoff won against Andrew Cogliano,2022-11-20T02:34:14Z,3,16:52,03:08,0,4,15.0,Washington Capitals,WSH
+308,15,21,Washington Capitals,Colorado Avalanche,2022020278546,2022020278,Stoppage,546,STOP,Puck in Crowd,2022-11-20T02:34:43Z,3,17:21,02:39,0,4,,,
+309,15,21,Washington Capitals,Colorado Avalanche,2022020278547,2022020278,Faceoff,547,FACEOFF,Dylan Strome faceoff won against Evan Rodrigues,2022-11-20T02:35:14Z,3,17:21,02:39,0,4,15.0,Washington Capitals,WSH
+310,15,21,Washington Capitals,Colorado Avalanche,2022020278548,2022020278,Stoppage,548,STOP,Puck Frozen,2022-11-20T02:35:43Z,3,17:51,02:09,0,4,,,
+311,15,21,Washington Capitals,Colorado Avalanche,2022020278549,2022020278,Faceoff,549,FACEOFF,J.T. Compher faceoff won against Dylan Strome,2022-11-20T02:36:12Z,3,17:51,02:09,0,4,21.0,Colorado Avalanche,COL
+312,15,21,Washington Capitals,Colorado Avalanche,2022020278550,2022020278,Stoppage,550,STOP,Offside,2022-11-20T02:36:33Z,3,18:11,01:49,0,4,,,
+313,15,21,Washington Capitals,Colorado Avalanche,2022020278901,2022020278,Faceoff,901,FACEOFF,Nic Dowd faceoff won against Jayson Megna,2022-11-20T02:37:00Z,3,18:11,01:49,0,4,15.0,Washington Capitals,WSH
+314,15,21,Washington Capitals,Colorado Avalanche,2022020278902,2022020278,Stoppage,902,STOP,Icing,2022-11-20T02:37:10Z,3,18:20,01:40,0,4,,,
+315,15,21,Washington Capitals,Colorado Avalanche,2022020278903,2022020278,Faceoff,903,FACEOFF,Nic Dowd faceoff won against Jayson Megna,2022-11-20T02:37:38Z,3,18:20,01:40,0,4,15.0,Washington Capitals,WSH
+316,15,21,Washington Capitals,Colorado Avalanche,2022020278904,2022020278,Stoppage,904,STOP,Icing,2022-11-20T02:37:48Z,3,18:29,01:31,0,4,,,
+317,15,21,Washington Capitals,Colorado Avalanche,2022020278905,2022020278,Faceoff,905,FACEOFF,Nic Dowd faceoff won against Jayson Megna,2022-11-20T02:38:18Z,3,18:29,01:31,0,4,15.0,Washington Capitals,WSH
+318,15,21,Washington Capitals,Colorado Avalanche,2022020278597,2022020278,Hit,597,HIT,Jayson Megna hit Nicolas Aube-Kubel,2022-11-20T02:38:28Z,3,18:39,01:21,0,4,21.0,Colorado Avalanche,COL
+319,15,21,Washington Capitals,Colorado Avalanche,2022020278598,2022020278,Hit,598,HIT,Anton Blidh hit Matt Irwin,2022-11-20T02:38:34Z,3,18:45,01:15,0,4,21.0,Colorado Avalanche,COL
+320,15,21,Washington Capitals,Colorado Avalanche,2022020278599,2022020278,Hit,599,HIT,Garnet Hathaway hit Dryden Hunt,2022-11-20T02:38:38Z,3,18:49,01:11,0,4,15.0,Washington Capitals,WSH
+321,15,21,Washington Capitals,Colorado Avalanche,2022020278739,2022020278,Blocked Shot,739,BLOCKED_SHOT,Anthony Mantha shot blocked shot by Alex Newhook,2022-11-20T02:39:33Z,3,19:44,00:16,0,4,21.0,Colorado Avalanche,COL
+322,15,21,Washington Capitals,Colorado Avalanche,2022020278740,2022020278,Period End,740,PERIOD_END,End of 3rd Period,2022-11-20T02:39:50Z,3,20:00,00:00,0,4,,,
+323,15,21,Washington Capitals,Colorado Avalanche,2022020278743,2022020278,Period Official,743,PERIOD_OFFICIAL,Period Official,2022-11-20T02:40:07Z,3,20:00,00:00,0,4,,,
+324,15,21,Washington Capitals,Colorado Avalanche,2022020278744,2022020278,Game End,744,GAME_END,Game End,2022-11-20T02:40:10Z,3,20:00,00:00,0,4,,,
+325,15,21,Washington Capitals,Colorado Avalanche,2022020278745,2022020278,Game Official,745,GAME_OFFICIAL,Game Official,2022-11-20T02:50:24Z,3,20:00,00:00,0,4,,,

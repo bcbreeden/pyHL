@@ -1,0 +1,356 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,54,28,Vegas Golden Knights,San Jose Sharks,20220208771,2022020877,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-02-17T02:16:05Z,1,00:00,20:00,0,0,,,
+1,54,28,Vegas Golden Knights,San Jose Sharks,20220208775,2022020877,Period Ready,5,PERIOD_READY,Period Ready,2023-02-17T03:07:55Z,1,00:00,20:00,0,0,,,
+2,54,28,Vegas Golden Knights,San Jose Sharks,202202087751,2022020877,Period Start,51,PERIOD_START,Period Start,2023-02-17T03:08:51Z,1,00:00,20:00,0,0,,,
+3,54,28,Vegas Golden Knights,San Jose Sharks,202202087752,2022020877,Faceoff,52,FACEOFF,Nicolas Roy faceoff won against Logan Couture,2023-02-17T03:08:51Z,1,00:00,20:00,0,0,54.0,Vegas Golden Knights,VGK
+4,54,28,Vegas Golden Knights,San Jose Sharks,202202087753,2022020877,Shot,53,SHOT,Shea Theodore Slap Shot saved by Kaapo Kahkonen,2023-02-17T03:09:21Z,1,00:30,19:30,0,0,54.0,Vegas Golden Knights,VGK
+5,54,28,Vegas Golden Knights,San Jose Sharks,20220208778,2022020877,Stoppage,8,STOP,Goalie Stopped,2023-02-17T03:09:21Z,1,00:31,19:29,0,0,,,
+6,54,28,Vegas Golden Knights,San Jose Sharks,20220208779,2022020877,Faceoff,9,FACEOFF,Tomas Hertl faceoff won against Chandler Stephenson,2023-02-17T03:09:48Z,1,00:31,19:29,0,0,28.0,San Jose Sharks,SJS
+7,54,28,Vegas Golden Knights,San Jose Sharks,202202087754,2022020877,Blocked Shot,54,BLOCKED_SHOT,Phil Kessel shot blocked shot by Tomas Hertl,2023-02-17T03:10:10Z,1,00:53,19:07,0,0,28.0,San Jose Sharks,SJS
+8,54,28,Vegas Golden Knights,San Jose Sharks,202202087710,2022020877,Takeaway,10,TAKEAWAY,Takeaway by Noah Gregor,2023-02-17T03:10:22Z,1,01:05,18:55,0,0,28.0,San Jose Sharks,SJS
+9,54,28,Vegas Golden Knights,San Jose Sharks,202202087711,2022020877,Stoppage,11,STOP,Goalie Stopped,2023-02-17T03:10:28Z,1,01:11,18:49,0,0,,,
+10,54,28,Vegas Golden Knights,San Jose Sharks,202202087755,2022020877,Shot,55,SHOT,Nick Cicek Wrist Shot saved by Adin Hill,2023-02-17T03:10:28Z,1,01:11,18:49,0,0,28.0,San Jose Sharks,SJS
+11,54,28,Vegas Golden Knights,San Jose Sharks,202202087756,2022020877,Faceoff,56,FACEOFF,William Karlsson faceoff won against Nico Sturm,2023-02-17T03:10:54Z,1,01:11,18:49,0,0,54.0,Vegas Golden Knights,VGK
+12,54,28,Vegas Golden Knights,San Jose Sharks,202202087712,2022020877,Stoppage,12,STOP,Offside,2023-02-17T03:11:02Z,1,01:19,18:41,0,0,,,
+13,54,28,Vegas Golden Knights,San Jose Sharks,202202087757,2022020877,Faceoff,57,FACEOFF,Nico Sturm faceoff won against William Karlsson,2023-02-17T03:11:18Z,1,01:19,18:41,0,0,28.0,San Jose Sharks,SJS
+14,54,28,Vegas Golden Knights,San Jose Sharks,202202087758,2022020877,Blocked Shot,58,BLOCKED_SHOT,Nicolas Hague shot blocked shot by Nico Sturm,2023-02-17T03:11:41Z,1,01:42,18:18,0,0,28.0,San Jose Sharks,SJS
+15,54,28,Vegas Golden Knights,San Jose Sharks,202202087713,2022020877,Shot,13,SHOT,Zach Whitecloud Wrist Shot saved by Kaapo Kahkonen,2023-02-17T03:11:42Z,1,01:43,18:17,0,0,54.0,Vegas Golden Knights,VGK
+16,54,28,Vegas Golden Knights,San Jose Sharks,2022020877253,2022020877,Blocked Shot,253,BLOCKED_SHOT,Nick Cicek shot blocked shot by Reilly Smith,2023-02-17T03:11:42Z,1,01:44,18:16,0,0,54.0,Vegas Golden Knights,VGK
+17,54,28,Vegas Golden Knights,San Jose Sharks,202202087714,2022020877,Giveaway,14,GIVEAWAY,Giveaway by Oskar Lindblom,2023-02-17T03:11:56Z,1,01:57,18:03,0,0,28.0,San Jose Sharks,SJS
+18,54,28,Vegas Golden Knights,San Jose Sharks,2022020877364,2022020877,Blocked Shot,364,BLOCKED_SHOT,Nicolas Hague shot blocked shot by Mario Ferraro,2023-02-17T03:11:59Z,1,02:00,18:00,0,0,28.0,San Jose Sharks,SJS
+19,54,28,Vegas Golden Knights,San Jose Sharks,202202087759,2022020877,Blocked Shot,59,BLOCKED_SHOT,Nicolas Hague shot blocked shot by Mario Ferraro,2023-02-17T03:12:00Z,1,02:01,17:59,0,0,28.0,San Jose Sharks,SJS
+20,54,28,Vegas Golden Knights,San Jose Sharks,202202087715,2022020877,Stoppage,15,STOP,Goalie Stopped,2023-02-17T03:12:32Z,1,02:33,17:27,0,0,,,
+21,54,28,Vegas Golden Knights,San Jose Sharks,202202087760,2022020877,Shot,60,SHOT,Jonathan Marchessault Deflected saved by Kaapo Kahkonen,2023-02-17T03:12:32Z,1,02:33,17:27,0,0,54.0,Vegas Golden Knights,VGK
+22,54,28,Vegas Golden Knights,San Jose Sharks,202202087761,2022020877,Faceoff,61,FACEOFF,Jack Eichel faceoff won against Tomas Hertl,2023-02-17T03:12:58Z,1,02:33,17:27,0,0,54.0,Vegas Golden Knights,VGK
+23,54,28,Vegas Golden Knights,San Jose Sharks,202202087762,2022020877,Blocked Shot,62,BLOCKED_SHOT,Brayden McNabb shot blocked shot by Jacob MacDonald,2023-02-17T03:13:06Z,1,02:41,17:19,0,0,28.0,San Jose Sharks,SJS
+24,54,28,Vegas Golden Knights,San Jose Sharks,202202087716,2022020877,Hit,16,HIT,Jacob MacDonald hit Paul Cotter,2023-02-17T03:13:24Z,1,02:59,17:01,0,0,28.0,San Jose Sharks,SJS
+25,54,28,Vegas Golden Knights,San Jose Sharks,2022020877251,2022020877,Blocked Shot,251,BLOCKED_SHOT,Paul Cotter shot blocked shot by Jacob MacDonald,2023-02-17T03:13:30Z,1,03:05,16:55,0,0,28.0,San Jose Sharks,SJS
+26,54,28,Vegas Golden Knights,San Jose Sharks,202202087717,2022020877,Stoppage,17,STOP,Net Dislodged Offensive Skater,2023-02-17T03:13:45Z,1,03:20,16:40,0,0,,,
+27,54,28,Vegas Golden Knights,San Jose Sharks,202202087764,2022020877,Faceoff,64,FACEOFF,Nicolas Roy faceoff won against Steven Lorentz,2023-02-17T03:14:29Z,1,03:20,16:40,0,0,54.0,Vegas Golden Knights,VGK
+28,54,28,Vegas Golden Knights,San Jose Sharks,202202087718,2022020877,Stoppage,18,STOP,Icing,2023-02-17T03:14:36Z,1,03:28,16:32,0,0,,,
+29,54,28,Vegas Golden Knights,San Jose Sharks,202202087765,2022020877,Faceoff,65,FACEOFF,Steven Lorentz faceoff won against Nicolas Roy,2023-02-17T03:15:04Z,1,03:28,16:32,0,0,28.0,San Jose Sharks,SJS
+30,54,28,Vegas Golden Knights,San Jose Sharks,202202087766,2022020877,Blocked Shot,66,BLOCKED_SHOT,Marc-Edouard Vlasic shot blocked shot by Zach Whitecloud,2023-02-17T03:15:11Z,1,03:35,16:25,0,0,54.0,Vegas Golden Knights,VGK
+31,54,28,Vegas Golden Knights,San Jose Sharks,202202087719,2022020877,Hit,19,HIT,Keegan Kolesar hit Kevin Labanc,2023-02-17T03:15:17Z,1,03:41,16:19,0,0,54.0,Vegas Golden Knights,VGK
+32,54,28,Vegas Golden Knights,San Jose Sharks,202202087767,2022020877,Blocked Shot,67,BLOCKED_SHOT,Brett Howden shot blocked shot by Marc-Edouard Vlasic,2023-02-17T03:15:24Z,1,03:48,16:12,0,0,28.0,San Jose Sharks,SJS
+33,54,28,Vegas Golden Knights,San Jose Sharks,202202087720,2022020877,Stoppage,20,STOP,Icing,2023-02-17T03:16:09Z,1,04:33,15:27,0,0,,,
+34,54,28,Vegas Golden Knights,San Jose Sharks,202202087768,2022020877,Faceoff,68,FACEOFF,Tomas Hertl faceoff won against Chandler Stephenson,2023-02-17T03:16:33Z,1,04:33,15:27,0,0,28.0,San Jose Sharks,SJS
+35,54,28,Vegas Golden Knights,San Jose Sharks,202202087769,2022020877,Blocked Shot,69,BLOCKED_SHOT,Jacob MacDonald shot blocked shot by Alec Martinez,2023-02-17T03:16:36Z,1,04:36,15:24,0,0,54.0,Vegas Golden Knights,VGK
+36,54,28,Vegas Golden Knights,San Jose Sharks,2022020877254,2022020877,Blocked Shot,254,BLOCKED_SHOT,Oskar Lindblom shot blocked shot by Alec Martinez,2023-02-17T03:16:37Z,1,04:37,15:23,0,0,54.0,Vegas Golden Knights,VGK
+37,54,28,Vegas Golden Knights,San Jose Sharks,202202087770,2022020877,Blocked Shot,70,BLOCKED_SHOT,Alex Pietrangelo shot blocked shot by Oskar Lindblom,2023-02-17T03:16:52Z,1,04:52,15:08,0,0,28.0,San Jose Sharks,SJS
+38,54,28,Vegas Golden Knights,San Jose Sharks,2022020877252,2022020877,Blocked Shot,252,BLOCKED_SHOT,Alec Martinez shot blocked shot by Erik Karlsson,2023-02-17T03:17:05Z,1,05:05,14:55,0,0,28.0,San Jose Sharks,SJS
+39,54,28,Vegas Golden Knights,San Jose Sharks,202202087721,2022020877,Takeaway,21,TAKEAWAY,Takeaway by Kevin Labanc,2023-02-17T03:18:15Z,1,06:15,13:45,0,0,28.0,San Jose Sharks,SJS
+40,54,28,Vegas Golden Knights,San Jose Sharks,202202087771,2022020877,Blocked Shot,71,BLOCKED_SHOT,Evgeny Svechnikov shot blocked shot by Brayden McNabb,2023-02-17T03:18:20Z,1,06:20,13:40,0,0,54.0,Vegas Golden Knights,VGK
+41,54,28,Vegas Golden Knights,San Jose Sharks,202202087773,2022020877,Shot,73,SHOT,Paul Cotter Backhand saved by Kaapo Kahkonen,2023-02-17T03:18:26Z,1,06:26,13:34,0,0,54.0,Vegas Golden Knights,VGK
+42,54,28,Vegas Golden Knights,San Jose Sharks,202202087722,2022020877,Hit,22,HIT,Mario Ferraro hit Paul Cotter,2023-02-17T03:18:29Z,1,06:29,13:31,0,0,28.0,San Jose Sharks,SJS
+43,54,28,Vegas Golden Knights,San Jose Sharks,202202087724,2022020877,Stoppage,24,STOP,Referee or Linesman,2023-02-17T03:18:33Z,1,06:33,13:27,0,0,,,
+44,54,28,Vegas Golden Knights,San Jose Sharks,2022020877151,2022020877,Penalty,151,PENALTY,Mario Ferraro Tripping against Paul Cotter,2023-02-17T03:18:33Z,1,06:33,13:27,0,0,28.0,San Jose Sharks,SJS
+45,54,28,Vegas Golden Knights,San Jose Sharks,202202087774,2022020877,Faceoff,74,FACEOFF,William Karlsson faceoff won against Logan Couture,2023-02-17T03:20:55Z,1,06:33,13:27,0,0,54.0,Vegas Golden Knights,VGK
+46,54,28,Vegas Golden Knights,San Jose Sharks,202202087725,2022020877,Giveaway,25,GIVEAWAY,Giveaway by Matt Benning,2023-02-17T03:21:02Z,1,06:40,13:20,0,0,28.0,San Jose Sharks,SJS
+47,54,28,Vegas Golden Knights,San Jose Sharks,202202087775,2022020877,Shot,75,SHOT,Chandler Stephenson Snap Shot saved by Kaapo Kahkonen,2023-02-17T03:21:03Z,1,06:41,13:19,0,0,54.0,Vegas Golden Knights,VGK
+48,54,28,Vegas Golden Knights,San Jose Sharks,202202087776,2022020877,Shot,76,SHOT,Logan Couture Snap Shot saved by Adin Hill,2023-02-17T03:21:04Z,1,06:42,13:18,0,0,28.0,San Jose Sharks,SJS
+49,54,28,Vegas Golden Knights,San Jose Sharks,202202087777,2022020877,Shot,77,SHOT,Alex Pietrangelo Wrist Shot saved by Kaapo Kahkonen,2023-02-17T03:21:15Z,1,06:53,13:07,0,0,54.0,Vegas Golden Knights,VGK
+50,54,28,Vegas Golden Knights,San Jose Sharks,202202087726,2022020877,Hit,26,HIT,Jacob MacDonald hit Chandler Stephenson,2023-02-17T03:21:48Z,1,07:26,12:34,0,0,28.0,San Jose Sharks,SJS
+51,54,28,Vegas Golden Knights,San Jose Sharks,202202087778,2022020877,Blocked Shot,78,BLOCKED_SHOT,Chandler Stephenson shot blocked shot by Nick Cicek,2023-02-17T03:22:17Z,1,07:55,12:05,0,0,28.0,San Jose Sharks,SJS
+52,54,28,Vegas Golden Knights,San Jose Sharks,202202087779,2022020877,Shot,79,SHOT,Shea Theodore Wrist Shot saved by Kaapo Kahkonen,2023-02-17T03:23:00Z,1,08:38,11:22,0,0,54.0,Vegas Golden Knights,VGK
+53,54,28,Vegas Golden Knights,San Jose Sharks,202202087780,2022020877,Missed Shot,80,MISSED_SHOT,Brayden McNabb Wide of Net Kaapo Kahkonen,2023-02-17T03:23:23Z,1,09:01,10:59,0,0,54.0,Vegas Golden Knights,VGK
+54,54,28,Vegas Golden Knights,San Jose Sharks,202202087727,2022020877,Stoppage,27,STOP,Referee or Linesman,2023-02-17T03:23:36Z,1,09:14,10:46,0,0,,,
+55,54,28,Vegas Golden Knights,San Jose Sharks,2022020877172,2022020877,Penalty,172,PENALTY,Tomas Hertl High-sticking against Brayden McNabb,2023-02-17T03:23:36Z,1,09:14,10:46,0,0,28.0,San Jose Sharks,SJS
+56,54,28,Vegas Golden Knights,San Jose Sharks,202202087781,2022020877,Faceoff,81,FACEOFF,Chandler Stephenson faceoff won against Logan Couture,2023-02-17T03:24:26Z,1,09:14,10:46,0,0,54.0,Vegas Golden Knights,VGK
+57,54,28,Vegas Golden Knights,San Jose Sharks,202202087782,2022020877,Missed Shot,82,MISSED_SHOT,Alex Pietrangelo Wide of Net Kaapo Kahkonen,2023-02-17T03:24:41Z,1,09:29,10:31,0,0,54.0,Vegas Golden Knights,VGK
+58,54,28,Vegas Golden Knights,San Jose Sharks,202202087783,2022020877,Shot,83,SHOT,William Carrier Wrist Shot saved by Kaapo Kahkonen,2023-02-17T03:24:43Z,1,09:31,10:29,0,0,54.0,Vegas Golden Knights,VGK
+59,54,28,Vegas Golden Knights,San Jose Sharks,202202087728,2022020877,Takeaway,28,TAKEAWAY,Takeaway by Steven Lorentz,2023-02-17T03:25:11Z,1,09:59,10:01,0,0,28.0,San Jose Sharks,SJS
+60,54,28,Vegas Golden Knights,San Jose Sharks,202202087729,2022020877,Takeaway,29,TAKEAWAY,Takeaway by Alex Pietrangelo,2023-02-17T03:25:16Z,1,10:04,09:56,0,0,54.0,Vegas Golden Knights,VGK
+61,54,28,Vegas Golden Knights,San Jose Sharks,202202087730,2022020877,Stoppage,30,STOP,Goalie Stopped,2023-02-17T03:25:35Z,1,10:23,09:37,0,0,,,
+62,54,28,Vegas Golden Knights,San Jose Sharks,202202087784,2022020877,Shot,84,SHOT,Jonathan Marchessault Snap Shot saved by Kaapo Kahkonen,2023-02-17T03:25:35Z,1,10:23,09:37,0,0,54.0,Vegas Golden Knights,VGK
+63,54,28,Vegas Golden Knights,San Jose Sharks,202202087785,2022020877,Faceoff,85,FACEOFF,Nicolas Roy faceoff won against Nick Bonino,2023-02-17T03:26:00Z,1,10:23,09:37,0,0,54.0,Vegas Golden Knights,VGK
+64,54,28,Vegas Golden Knights,San Jose Sharks,202202087786,2022020877,Missed Shot,86,MISSED_SHOT,Reilly Smith Wide of Net Kaapo Kahkonen,2023-02-17T03:26:09Z,1,10:32,09:28,0,0,54.0,Vegas Golden Knights,VGK
+65,54,28,Vegas Golden Knights,San Jose Sharks,202202087731,2022020877,Stoppage,31,STOP,Puck in Crowd,2023-02-17T03:26:20Z,1,10:43,09:17,0,0,,,
+66,54,28,Vegas Golden Knights,San Jose Sharks,202202087787,2022020877,Faceoff,87,FACEOFF,Jack Eichel faceoff won against Steven Lorentz,2023-02-17T03:26:57Z,1,10:43,09:17,0,0,54.0,Vegas Golden Knights,VGK
+67,54,28,Vegas Golden Knights,San Jose Sharks,202202087788,2022020877,Shot,88,SHOT,Jonathan Marchessault Wrist Shot saved by Kaapo Kahkonen,2023-02-17T03:27:29Z,1,11:15,08:45,0,0,54.0,Vegas Golden Knights,VGK
+68,54,28,Vegas Golden Knights,San Jose Sharks,202202087789,2022020877,Blocked Shot,89,BLOCKED_SHOT,Reilly Smith shot blocked shot by Nick Bonino,2023-02-17T03:27:30Z,1,11:16,08:44,0,0,28.0,San Jose Sharks,SJS
+69,54,28,Vegas Golden Knights,San Jose Sharks,202202087790,2022020877,Missed Shot,90,MISSED_SHOT,Reilly Smith Wide of Net Kaapo Kahkonen,2023-02-17T03:27:34Z,1,11:20,08:40,0,0,54.0,Vegas Golden Knights,VGK
+70,54,28,Vegas Golden Knights,San Jose Sharks,202202087732,2022020877,Stoppage,32,STOP,Icing,2023-02-17T03:27:51Z,1,11:37,08:23,0,0,,,
+71,54,28,Vegas Golden Knights,San Jose Sharks,202202087791,2022020877,Faceoff,91,FACEOFF,Tomas Hertl faceoff won against Jack Eichel,2023-02-17T03:28:19Z,1,11:37,08:23,0,0,28.0,San Jose Sharks,SJS
+72,54,28,Vegas Golden Knights,San Jose Sharks,202202087792,2022020877,Shot,92,SHOT,Zach Whitecloud Wrist Shot saved by Kaapo Kahkonen,2023-02-17T03:28:58Z,1,12:16,07:44,0,0,54.0,Vegas Golden Knights,VGK
+73,54,28,Vegas Golden Knights,San Jose Sharks,202202087793,2022020877,Blocked Shot,93,BLOCKED_SHOT,Nicolas Hague shot blocked shot by Timo Meier,2023-02-17T03:29:10Z,1,12:28,07:32,0,0,28.0,San Jose Sharks,SJS
+74,54,28,Vegas Golden Knights,San Jose Sharks,202202087733,2022020877,Stoppage,33,STOP,Goalie Stopped,2023-02-17T03:29:28Z,1,12:46,07:14,0,0,,,
+75,54,28,Vegas Golden Knights,San Jose Sharks,202202087794,2022020877,Shot,94,SHOT,Zach Whitecloud Slap Shot saved by Kaapo Kahkonen,2023-02-17T03:29:28Z,1,12:46,07:14,0,0,54.0,Vegas Golden Knights,VGK
+76,54,28,Vegas Golden Knights,San Jose Sharks,202202087796,2022020877,Faceoff,96,FACEOFF,Chandler Stephenson faceoff won against Tomas Hertl,2023-02-17T03:31:42Z,1,12:46,07:14,0,0,54.0,Vegas Golden Knights,VGK
+77,54,28,Vegas Golden Knights,San Jose Sharks,202202087734,2022020877,Hit,34,HIT,Timo Meier hit Chandler Stephenson,2023-02-17T03:32:10Z,1,13:14,06:46,0,0,28.0,San Jose Sharks,SJS
+78,54,28,Vegas Golden Knights,San Jose Sharks,202202087735,2022020877,Stoppage,35,STOP,Icing,2023-02-17T03:32:11Z,1,13:15,06:45,0,0,,,
+79,54,28,Vegas Golden Knights,San Jose Sharks,202202087797,2022020877,Faceoff,97,FACEOFF,Chandler Stephenson faceoff won against Tomas Hertl,2023-02-17T03:32:37Z,1,13:15,06:45,0,0,54.0,Vegas Golden Knights,VGK
+80,54,28,Vegas Golden Knights,San Jose Sharks,202202087736,2022020877,Hit,36,HIT,Timo Meier hit William Carrier,2023-02-17T03:32:46Z,1,13:24,06:36,0,0,28.0,San Jose Sharks,SJS
+81,54,28,Vegas Golden Knights,San Jose Sharks,202202087737,2022020877,Hit,37,HIT,Brett Howden hit Jacob MacDonald,2023-02-17T03:33:09Z,1,13:47,06:13,0,0,54.0,Vegas Golden Knights,VGK
+82,54,28,Vegas Golden Knights,San Jose Sharks,202202087798,2022020877,Blocked Shot,98,BLOCKED_SHOT,Noah Gregor shot blocked shot by Shea Theodore,2023-02-17T03:33:17Z,1,13:55,06:05,0,0,54.0,Vegas Golden Knights,VGK
+83,54,28,Vegas Golden Knights,San Jose Sharks,202202087799,2022020877,Blocked Shot,99,BLOCKED_SHOT,Matt Benning shot blocked shot by Brayden McNabb,2023-02-17T03:33:37Z,1,14:15,05:45,0,0,54.0,Vegas Golden Knights,VGK
+84,54,28,Vegas Golden Knights,San Jose Sharks,202202087738,2022020877,Hit,38,HIT,Noah Gregor hit Keegan Kolesar,2023-02-17T03:33:41Z,1,14:19,05:41,0,0,28.0,San Jose Sharks,SJS
+85,54,28,Vegas Golden Knights,San Jose Sharks,202202087741,2022020877,Stoppage,41,STOP,Referee or Linesman,2023-02-17T03:34:01Z,1,14:40,05:20,0,0,,,
+86,54,28,Vegas Golden Knights,San Jose Sharks,202202087743,2022020877,Penalty,43,PENALTY,Brett Howden Cross-checking against Noah Gregor,2023-02-17T03:34:01Z,1,14:40,05:20,0,0,54.0,Vegas Golden Knights,VGK
+87,54,28,Vegas Golden Knights,San Jose Sharks,2022020877100,2022020877,Faceoff,100,FACEOFF,Tomas Hertl faceoff won against Nicolas Roy,2023-02-17T03:36:26Z,1,14:40,05:20,0,0,28.0,San Jose Sharks,SJS
+88,54,28,Vegas Golden Knights,San Jose Sharks,202202087746,2022020877,Giveaway,46,GIVEAWAY,Giveaway by Tomas Hertl,2023-02-17T03:36:44Z,1,14:58,05:02,0,0,28.0,San Jose Sharks,SJS
+89,54,28,Vegas Golden Knights,San Jose Sharks,2022020877351,2022020877,Shot,351,SHOT,Timo Meier Snap Shot saved by Adin Hill,2023-02-17T03:38:04Z,1,16:18,03:42,0,0,28.0,San Jose Sharks,SJS
+90,54,28,Vegas Golden Knights,San Jose Sharks,2022020877352,2022020877,Shot,352,SHOT,Michael Eyssimont Snap Shot saved by Adin Hill,2023-02-17T03:38:21Z,1,16:35,03:25,0,0,28.0,San Jose Sharks,SJS
+91,54,28,Vegas Golden Knights,San Jose Sharks,202202087747,2022020877,Stoppage,47,STOP,Goalie Stopped,2023-02-17T03:38:22Z,1,16:36,03:24,0,0,,,
+92,54,28,Vegas Golden Knights,San Jose Sharks,2022020877353,2022020877,Faceoff,353,FACEOFF,Chandler Stephenson faceoff won against Steven Lorentz,2023-02-17T03:38:53Z,1,16:36,03:24,0,0,54.0,Vegas Golden Knights,VGK
+93,54,28,Vegas Golden Knights,San Jose Sharks,202202087748,2022020877,Hit,48,HIT,William Carrier hit Mario Ferraro,2023-02-17T03:39:04Z,1,16:47,03:13,0,0,54.0,Vegas Golden Knights,VGK
+94,54,28,Vegas Golden Knights,San Jose Sharks,202202087749,2022020877,Takeaway,49,TAKEAWAY,Takeaway by Mario Ferraro,2023-02-17T03:39:32Z,1,17:15,02:45,0,0,28.0,San Jose Sharks,SJS
+95,54,28,Vegas Golden Knights,San Jose Sharks,2022020877354,2022020877,Blocked Shot,354,BLOCKED_SHOT,Shea Theodore shot blocked shot by Michael Eyssimont,2023-02-17T03:39:52Z,1,17:35,02:25,0,0,28.0,San Jose Sharks,SJS
+96,54,28,Vegas Golden Knights,San Jose Sharks,202202087750,2022020877,Stoppage,50,STOP,Referee or Linesman,2023-02-17T03:39:56Z,1,17:39,02:21,0,0,,,
+97,54,28,Vegas Golden Knights,San Jose Sharks,2022020877235,2022020877,Penalty,235,PENALTY,Michael Eyssimont Tripping against Shea Theodore,2023-02-17T03:39:56Z,1,17:39,02:21,0,0,28.0,San Jose Sharks,SJS
+98,54,28,Vegas Golden Knights,San Jose Sharks,2022020877355,2022020877,Faceoff,355,FACEOFF,Nicolas Roy faceoff won against Logan Couture,2023-02-17T03:41:00Z,1,17:39,02:21,0,0,54.0,Vegas Golden Knights,VGK
+99,54,28,Vegas Golden Knights,San Jose Sharks,2022020877356,2022020877,Missed Shot,356,MISSED_SHOT,Jack Eichel Wide of Net Kaapo Kahkonen,2023-02-17T03:41:08Z,1,17:47,02:13,0,0,54.0,Vegas Golden Knights,VGK
+100,54,28,Vegas Golden Knights,San Jose Sharks,2022020877357,2022020877,Shot,357,SHOT,Nicolas Roy Wrist Shot saved by Kaapo Kahkonen,2023-02-17T03:41:33Z,1,18:12,01:48,0,0,54.0,Vegas Golden Knights,VGK
+101,54,28,Vegas Golden Knights,San Jose Sharks,2022020877302,2022020877,Hit,302,HIT,Steven Lorentz hit Nicolas Roy,2023-02-17T03:41:51Z,1,18:30,01:30,0,0,28.0,San Jose Sharks,SJS
+102,54,28,Vegas Golden Knights,San Jose Sharks,2022020877303,2022020877,Stoppage,303,STOP,Goalie Stopped,2023-02-17T03:42:10Z,1,18:49,01:11,0,0,,,
+103,54,28,Vegas Golden Knights,San Jose Sharks,2022020877358,2022020877,Shot,358,SHOT,William Karlsson Backhand saved by Kaapo Kahkonen,2023-02-17T03:42:10Z,1,18:49,01:11,0,0,54.0,Vegas Golden Knights,VGK
+104,54,28,Vegas Golden Knights,San Jose Sharks,2022020877359,2022020877,Faceoff,359,FACEOFF,Nick Bonino faceoff won against William Karlsson,2023-02-17T03:42:34Z,1,18:49,01:11,0,0,28.0,San Jose Sharks,SJS
+105,54,28,Vegas Golden Knights,San Jose Sharks,2022020877360,2022020877,Blocked Shot,360,BLOCKED_SHOT,Logan Couture shot blocked shot by Alex Pietrangelo,2023-02-17T03:43:12Z,1,19:27,00:33,0,0,54.0,Vegas Golden Knights,VGK
+106,54,28,Vegas Golden Knights,San Jose Sharks,2022020877304,2022020877,Stoppage,304,STOP,Puck in Crowd,2023-02-17T03:43:18Z,1,19:32,00:28,0,0,,,
+107,54,28,Vegas Golden Knights,San Jose Sharks,2022020877361,2022020877,Faceoff,361,FACEOFF,Tomas Hertl faceoff won against Nicolas Roy,2023-02-17T03:43:50Z,1,19:32,00:28,0,0,28.0,San Jose Sharks,SJS
+108,54,28,Vegas Golden Knights,San Jose Sharks,2022020877305,2022020877,Giveaway,305,GIVEAWAY,Giveaway by Jacob MacDonald,2023-02-17T03:43:57Z,1,19:39,00:21,0,0,28.0,San Jose Sharks,SJS
+109,54,28,Vegas Golden Knights,San Jose Sharks,2022020877362,2022020877,Missed Shot,362,MISSED_SHOT,Timo Meier Wide of Net Adin Hill,2023-02-17T03:44:06Z,1,19:49,00:11,0,0,28.0,San Jose Sharks,SJS
+110,54,28,Vegas Golden Knights,San Jose Sharks,2022020877306,2022020877,Hit,306,HIT,Paul Cotter hit Jacob MacDonald,2023-02-17T03:44:07Z,1,19:50,00:10,0,0,54.0,Vegas Golden Knights,VGK
+111,54,28,Vegas Golden Knights,San Jose Sharks,2022020877363,2022020877,Blocked Shot,363,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Brett Howden,2023-02-17T03:44:13Z,1,19:56,00:04,0,0,54.0,Vegas Golden Knights,VGK
+112,54,28,Vegas Golden Knights,San Jose Sharks,2022020877308,2022020877,Period End,308,PERIOD_END,End of 1st Period,2023-02-17T03:44:17Z,1,20:00,00:00,0,0,,,
+113,54,28,Vegas Golden Knights,San Jose Sharks,2022020877313,2022020877,Period Official,313,PERIOD_OFFICIAL,Period Official,2023-02-17T04:02:59Z,1,20:00,00:00,0,0,,,
+114,54,28,Vegas Golden Knights,San Jose Sharks,2022020877314,2022020877,Period Ready,314,PERIOD_READY,Period Ready,2023-02-17T04:03:02Z,2,00:00,20:00,0,0,,,
+115,54,28,Vegas Golden Knights,San Jose Sharks,2022020877365,2022020877,Period Start,365,PERIOD_START,Period Start,2023-02-17T04:03:13Z,2,00:00,20:00,0,0,,,
+116,54,28,Vegas Golden Knights,San Jose Sharks,2022020877366,2022020877,Faceoff,366,FACEOFF,Brett Howden faceoff won against Logan Couture,2023-02-17T04:03:13Z,2,00:00,20:00,0,0,54.0,Vegas Golden Knights,VGK
+117,54,28,Vegas Golden Knights,San Jose Sharks,2022020877368,2022020877,Blocked Shot,368,BLOCKED_SHOT,Keegan Kolesar shot blocked shot by Logan Couture,2023-02-17T04:03:58Z,2,00:45,19:15,0,0,28.0,San Jose Sharks,SJS
+118,54,28,Vegas Golden Knights,San Jose Sharks,2022020877369,2022020877,Missed Shot,369,MISSED_SHOT,Timo Meier Wide of Net Adin Hill,2023-02-17T04:04:16Z,2,01:03,18:57,0,0,28.0,San Jose Sharks,SJS
+119,54,28,Vegas Golden Knights,San Jose Sharks,2022020877370,2022020877,Shot,370,SHOT,Kevin Labanc Snap Shot saved by Adin Hill,2023-02-17T04:04:37Z,2,01:24,18:36,0,0,28.0,San Jose Sharks,SJS
+120,54,28,Vegas Golden Knights,San Jose Sharks,2022020877315,2022020877,Stoppage,315,STOP,Goalie Stopped,2023-02-17T04:04:38Z,2,01:25,18:35,0,0,,,
+121,54,28,Vegas Golden Knights,San Jose Sharks,2022020877371,2022020877,Faceoff,371,FACEOFF,Tomas Hertl faceoff won against Jack Eichel,2023-02-17T04:05:31Z,2,01:25,18:35,0,0,28.0,San Jose Sharks,SJS
+122,54,28,Vegas Golden Knights,San Jose Sharks,2022020877372,2022020877,Shot,372,SHOT,Kevin Labanc Wrist Shot saved by Adin Hill,2023-02-17T04:05:36Z,2,01:30,18:30,0,0,28.0,San Jose Sharks,SJS
+123,54,28,Vegas Golden Knights,San Jose Sharks,2022020877316,2022020877,Stoppage,316,STOP,Puck in Benches,2023-02-17T04:06:16Z,2,02:09,17:51,0,0,,,
+124,54,28,Vegas Golden Knights,San Jose Sharks,2022020877373,2022020877,Faceoff,373,FACEOFF,William Karlsson faceoff won against Nick Bonino,2023-02-17T04:06:42Z,2,02:09,17:51,0,0,54.0,Vegas Golden Knights,VGK
+125,54,28,Vegas Golden Knights,San Jose Sharks,2022020877317,2022020877,Stoppage,317,STOP,Puck in Crowd,2023-02-17T04:06:57Z,2,02:24,17:36,0,0,,,
+126,54,28,Vegas Golden Knights,San Jose Sharks,2022020877374,2022020877,Faceoff,374,FACEOFF,William Karlsson faceoff won against Nick Bonino,2023-02-17T04:07:19Z,2,02:24,17:36,0,0,54.0,Vegas Golden Knights,VGK
+127,54,28,Vegas Golden Knights,San Jose Sharks,2022020877318,2022020877,Hit,318,HIT,Nick Cicek hit William Karlsson,2023-02-17T04:07:41Z,2,02:46,17:14,0,0,28.0,San Jose Sharks,SJS
+128,54,28,Vegas Golden Knights,San Jose Sharks,2022020877319,2022020877,Stoppage,319,STOP,Puck in Netting,2023-02-17T04:07:47Z,2,02:51,17:09,0,0,,,
+129,54,28,Vegas Golden Knights,San Jose Sharks,2022020877375,2022020877,Blocked Shot,375,BLOCKED_SHOT,Reilly Smith shot blocked shot by Mario Ferraro,2023-02-17T04:07:47Z,2,02:51,17:09,0,0,28.0,San Jose Sharks,SJS
+130,54,28,Vegas Golden Knights,San Jose Sharks,2022020877376,2022020877,Faceoff,376,FACEOFF,Chandler Stephenson faceoff won against Steven Lorentz,2023-02-17T04:08:18Z,2,02:51,17:09,0,0,54.0,Vegas Golden Knights,VGK
+131,54,28,Vegas Golden Knights,San Jose Sharks,2022020877320,2022020877,Stoppage,320,STOP,Icing,2023-02-17T04:08:31Z,2,03:04,16:56,0,0,,,
+132,54,28,Vegas Golden Knights,San Jose Sharks,2022020877377,2022020877,Faceoff,377,FACEOFF,Chandler Stephenson faceoff won against Steven Lorentz,2023-02-17T04:09:05Z,2,03:04,16:56,0,0,54.0,Vegas Golden Knights,VGK
+133,54,28,Vegas Golden Knights,San Jose Sharks,2022020877378,2022020877,Missed Shot,378,MISSED_SHOT,Shea Theodore Wide of Net Kaapo Kahkonen,2023-02-17T04:09:12Z,2,03:11,16:49,0,0,54.0,Vegas Golden Knights,VGK
+134,54,28,Vegas Golden Knights,San Jose Sharks,2022020877321,2022020877,Hit,321,HIT,William Carrier hit Steven Lorentz,2023-02-17T04:09:15Z,2,03:14,16:46,0,0,54.0,Vegas Golden Knights,VGK
+135,54,28,Vegas Golden Knights,San Jose Sharks,2022020877322,2022020877,Giveaway,322,GIVEAWAY,Giveaway by Logan Couture,2023-02-17T04:10:15Z,2,04:14,15:46,0,0,28.0,San Jose Sharks,SJS
+136,54,28,Vegas Golden Knights,San Jose Sharks,2022020877323,2022020877,Hit,323,HIT,Keegan Kolesar hit Matt Benning,2023-02-17T04:10:40Z,2,04:39,15:21,0,0,54.0,Vegas Golden Knights,VGK
+137,54,28,Vegas Golden Knights,San Jose Sharks,2022020877380,2022020877,Missed Shot,380,MISSED_SHOT,Timo Meier Over Net Adin Hill,2023-02-17T04:10:50Z,2,04:49,15:11,0,0,28.0,San Jose Sharks,SJS
+138,54,28,Vegas Golden Knights,San Jose Sharks,2022020877324,2022020877,Hit,324,HIT,Keegan Kolesar hit Marc-Edouard Vlasic,2023-02-17T04:10:51Z,2,04:50,15:10,0,0,54.0,Vegas Golden Knights,VGK
+139,54,28,Vegas Golden Knights,San Jose Sharks,2022020877325,2022020877,Takeaway,325,TAKEAWAY,Takeaway by Alex Pietrangelo,2023-02-17T04:11:20Z,2,05:19,14:41,0,0,54.0,Vegas Golden Knights,VGK
+140,54,28,Vegas Golden Knights,San Jose Sharks,2022020877326,2022020877,Stoppage,326,STOP,Icing,2023-02-17T04:11:25Z,2,05:25,14:35,0,0,,,
+141,54,28,Vegas Golden Knights,San Jose Sharks,2022020877381,2022020877,Faceoff,381,FACEOFF,Noah Gregor faceoff won against Nicolas Roy,2023-02-17T04:11:59Z,2,05:25,14:35,0,0,28.0,San Jose Sharks,SJS
+142,54,28,Vegas Golden Knights,San Jose Sharks,2022020877382,2022020877,Blocked Shot,382,BLOCKED_SHOT,Mario Ferraro shot blocked shot by Brett Howden,2023-02-17T04:12:01Z,2,05:27,14:33,0,0,54.0,Vegas Golden Knights,VGK
+143,54,28,Vegas Golden Knights,San Jose Sharks,2022020877327,2022020877,Takeaway,327,TAKEAWAY,Takeaway by Nick Bonino,2023-02-17T04:12:44Z,2,06:10,13:50,0,0,28.0,San Jose Sharks,SJS
+144,54,28,Vegas Golden Knights,San Jose Sharks,2022020877328,2022020877,Hit,328,HIT,Evgeny Svechnikov hit Nicolas Hague,2023-02-17T04:12:55Z,2,06:21,13:39,0,0,28.0,San Jose Sharks,SJS
+145,54,28,Vegas Golden Knights,San Jose Sharks,2022020877329,2022020877,Giveaway,329,GIVEAWAY,Giveaway by Jack Eichel,2023-02-17T04:13:08Z,2,06:34,13:26,0,0,54.0,Vegas Golden Knights,VGK
+146,54,28,Vegas Golden Knights,San Jose Sharks,2022020877383,2022020877,Shot,383,SHOT,Evgeny Svechnikov Tip-In saved by Adin Hill,2023-02-17T04:13:13Z,2,06:39,13:21,0,0,28.0,San Jose Sharks,SJS
+147,54,28,Vegas Golden Knights,San Jose Sharks,2022020877384,2022020877,Missed Shot,384,MISSED_SHOT,Marc-Edouard Vlasic Wide of Net Adin Hill,2023-02-17T04:13:15Z,2,06:41,13:19,0,0,28.0,San Jose Sharks,SJS
+148,54,28,Vegas Golden Knights,San Jose Sharks,2022020877330,2022020877,Takeaway,330,TAKEAWAY,Takeaway by Adin Hill,2023-02-17T04:13:40Z,2,07:06,12:54,0,0,54.0,Vegas Golden Knights,VGK
+149,54,28,Vegas Golden Knights,San Jose Sharks,2022020877331,2022020877,Takeaway,331,TAKEAWAY,Takeaway by Alexander Barabanov,2023-02-17T04:13:51Z,2,07:17,12:43,0,0,28.0,San Jose Sharks,SJS
+150,54,28,Vegas Golden Knights,San Jose Sharks,2022020877385,2022020877,Missed Shot,385,MISSED_SHOT,Logan Couture Wide of Net Adin Hill,2023-02-17T04:13:57Z,2,07:23,12:37,0,0,28.0,San Jose Sharks,SJS
+151,54,28,Vegas Golden Knights,San Jose Sharks,2022020877332,2022020877,Hit,332,HIT,Paul Cotter hit Alexander Barabanov,2023-02-17T04:13:58Z,2,07:24,12:36,0,0,54.0,Vegas Golden Knights,VGK
+152,54,28,Vegas Golden Knights,San Jose Sharks,2022020877386,2022020877,Missed Shot,386,MISSED_SHOT,Paul Cotter Wide of Net Kaapo Kahkonen,2023-02-17T04:14:07Z,2,07:33,12:27,0,0,54.0,Vegas Golden Knights,VGK
+153,54,28,Vegas Golden Knights,San Jose Sharks,2022020877387,2022020877,Shot,387,SHOT,Timo Meier Wrist Shot saved by Adin Hill,2023-02-17T04:14:17Z,2,07:43,12:17,0,0,28.0,San Jose Sharks,SJS
+154,54,28,Vegas Golden Knights,San Jose Sharks,2022020877333,2022020877,Hit,333,HIT,Michael Amadio hit Jacob MacDonald,2023-02-17T04:14:23Z,2,07:49,12:11,0,0,54.0,Vegas Golden Knights,VGK
+155,54,28,Vegas Golden Knights,San Jose Sharks,2022020877388,2022020877,Blocked Shot,388,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Brayden McNabb,2023-02-17T04:14:31Z,2,07:57,12:03,0,0,54.0,Vegas Golden Knights,VGK
+156,54,28,Vegas Golden Knights,San Jose Sharks,2022020877334,2022020877,Stoppage,334,STOP,Icing,2023-02-17T04:15:04Z,2,08:31,11:29,0,0,,,
+157,54,28,Vegas Golden Knights,San Jose Sharks,2022020877389,2022020877,Faceoff,389,FACEOFF,Chandler Stephenson faceoff won against Nick Bonino,2023-02-17T04:15:28Z,2,08:31,11:29,0,0,54.0,Vegas Golden Knights,VGK
+158,54,28,Vegas Golden Knights,San Jose Sharks,2022020877335,2022020877,Giveaway,335,GIVEAWAY,Giveaway by Alec Martinez,2023-02-17T04:15:33Z,2,08:36,11:24,0,0,54.0,Vegas Golden Knights,VGK
+159,54,28,Vegas Golden Knights,San Jose Sharks,2022020877336,2022020877,Hit,336,HIT,Noah Gregor hit Alec Martinez,2023-02-17T04:15:45Z,2,08:48,11:12,0,0,28.0,San Jose Sharks,SJS
+160,54,28,Vegas Golden Knights,San Jose Sharks,2022020877337,2022020877,Stoppage,337,STOP,High Stick,2023-02-17T04:15:48Z,2,08:50,11:10,0,0,,,
+161,54,28,Vegas Golden Knights,San Jose Sharks,2022020877390,2022020877,Faceoff,390,FACEOFF,Chandler Stephenson faceoff won against Nick Bonino,2023-02-17T04:18:05Z,2,08:50,11:10,0,0,54.0,Vegas Golden Knights,VGK
+162,54,28,Vegas Golden Knights,San Jose Sharks,2022020877391,2022020877,Missed Shot,391,MISSED_SHOT,Chandler Stephenson Wide of Net Kaapo Kahkonen,2023-02-17T04:18:25Z,2,09:10,10:50,0,0,54.0,Vegas Golden Knights,VGK
+163,54,28,Vegas Golden Knights,San Jose Sharks,2022020877338,2022020877,Hit,338,HIT,Zach Whitecloud hit Noah Gregor,2023-02-17T04:18:34Z,2,09:19,10:41,0,0,54.0,Vegas Golden Knights,VGK
+164,54,28,Vegas Golden Knights,San Jose Sharks,2022020877392,2022020877,Shot,392,SHOT,Marc-Edouard Vlasic Wrist Shot saved by Adin Hill,2023-02-17T04:18:45Z,2,09:30,10:30,0,0,28.0,San Jose Sharks,SJS
+165,54,28,Vegas Golden Knights,San Jose Sharks,2022020877339,2022020877,Stoppage,339,STOP,Offside,2023-02-17T04:19:30Z,2,10:15,09:45,0,0,,,
+166,54,28,Vegas Golden Knights,San Jose Sharks,2022020877393,2022020877,Faceoff,393,FACEOFF,Nicolas Roy faceoff won against Logan Couture,2023-02-17T04:21:58Z,2,10:15,09:45,0,0,54.0,Vegas Golden Knights,VGK
+167,54,28,Vegas Golden Knights,San Jose Sharks,2022020877394,2022020877,Blocked Shot,394,BLOCKED_SHOT,Michael Eyssimont shot blocked shot by Shea Theodore,2023-02-17T04:22:09Z,2,10:26,09:34,0,0,54.0,Vegas Golden Knights,VGK
+168,54,28,Vegas Golden Knights,San Jose Sharks,2022020877340,2022020877,Hit,340,HIT,Brayden McNabb hit Alexander Barabanov,2023-02-17T04:22:15Z,2,10:32,09:28,0,0,54.0,Vegas Golden Knights,VGK
+169,54,28,Vegas Golden Knights,San Jose Sharks,2022020877341,2022020877,Hit,341,HIT,Alexander Barabanov hit Brayden McNabb,2023-02-17T04:22:36Z,2,10:53,09:07,0,0,28.0,San Jose Sharks,SJS
+170,54,28,Vegas Golden Knights,San Jose Sharks,2022020877342,2022020877,Hit,342,HIT,Brayden McNabb hit Michael Eyssimont,2023-02-17T04:22:44Z,2,11:01,08:59,0,0,54.0,Vegas Golden Knights,VGK
+171,54,28,Vegas Golden Knights,San Jose Sharks,2022020877343,2022020877,Takeaway,343,TAKEAWAY,Takeaway by William Karlsson,2023-02-17T04:22:52Z,2,11:09,08:51,0,0,54.0,Vegas Golden Knights,VGK
+172,54,28,Vegas Golden Knights,San Jose Sharks,2022020877346,2022020877,Hit,346,HIT,Nick Cicek hit William Karlsson,2023-02-17T04:22:54Z,2,11:11,08:49,0,0,28.0,San Jose Sharks,SJS
+173,54,28,Vegas Golden Knights,San Jose Sharks,2022020877395,2022020877,Shot,395,SHOT,Alex Pietrangelo Wrist Shot saved by Kaapo Kahkonen,2023-02-17T04:22:57Z,2,11:14,08:46,0,0,54.0,Vegas Golden Knights,VGK
+174,54,28,Vegas Golden Knights,San Jose Sharks,2022020877344,2022020877,Hit,344,HIT,Tomas Hertl hit William Karlsson,2023-02-17T04:23:08Z,2,11:25,08:35,0,0,28.0,San Jose Sharks,SJS
+175,54,28,Vegas Golden Knights,San Jose Sharks,2022020877396,2022020877,Missed Shot,396,MISSED_SHOT,Alex Pietrangelo Wide of Net Kaapo Kahkonen,2023-02-17T04:23:08Z,2,11:25,08:35,0,0,54.0,Vegas Golden Knights,VGK
+176,54,28,Vegas Golden Knights,San Jose Sharks,2022020877345,2022020877,Stoppage,345,STOP,Puck Frozen,2023-02-17T04:23:16Z,2,11:34,08:26,0,0,,,
+177,54,28,Vegas Golden Knights,San Jose Sharks,2022020877585,2022020877,Penalty,585,PENALTY,Tomas Hertl Tripping against William Karlsson,2023-02-17T04:23:16Z,2,11:34,08:26,0,0,28.0,San Jose Sharks,SJS
+178,54,28,Vegas Golden Knights,San Jose Sharks,2022020877397,2022020877,Faceoff,397,FACEOFF,William Karlsson faceoff won against Nick Bonino,2023-02-17T04:24:08Z,2,11:34,08:26,0,0,54.0,Vegas Golden Knights,VGK
+179,54,28,Vegas Golden Knights,San Jose Sharks,2022020877347,2022020877,Takeaway,347,TAKEAWAY,Takeaway by Kaapo Kahkonen,2023-02-17T04:24:49Z,2,12:15,07:45,0,0,28.0,San Jose Sharks,SJS
+180,54,28,Vegas Golden Knights,San Jose Sharks,2022020877398,2022020877,Blocked Shot,398,BLOCKED_SHOT,Jack Eichel shot blocked shot by Nick Cicek,2023-02-17T04:25:35Z,2,13:01,06:59,0,0,28.0,San Jose Sharks,SJS
+181,54,28,Vegas Golden Knights,San Jose Sharks,2022020877348,2022020877,Stoppage,348,STOP,Puck in Netting,2023-02-17T04:25:46Z,2,13:11,06:49,0,0,,,
+182,54,28,Vegas Golden Knights,San Jose Sharks,2022020877399,2022020877,Blocked Shot,399,BLOCKED_SHOT,Shea Theodore shot blocked shot by Nick Cicek,2023-02-17T04:25:46Z,2,13:11,06:49,0,0,28.0,San Jose Sharks,SJS
+183,54,28,Vegas Golden Knights,San Jose Sharks,2022020877400,2022020877,Faceoff,400,FACEOFF,Chandler Stephenson faceoff won against Nick Bonino,2023-02-17T04:26:15Z,2,13:11,06:49,0,0,54.0,Vegas Golden Knights,VGK
+184,54,28,Vegas Golden Knights,San Jose Sharks,2022020877451,2022020877,Missed Shot,451,MISSED_SHOT,Reilly Smith Wide of Net Kaapo Kahkonen,2023-02-17T04:26:16Z,2,13:18,06:42,0,0,54.0,Vegas Golden Knights,VGK
+185,54,28,Vegas Golden Knights,San Jose Sharks,2022020877349,2022020877,Hit,349,HIT,Reilly Smith hit Mario Ferraro,2023-02-17T04:26:38Z,2,13:34,06:26,0,0,54.0,Vegas Golden Knights,VGK
+186,54,28,Vegas Golden Knights,San Jose Sharks,2022020877350,2022020877,Giveaway,350,GIVEAWAY,Giveaway by Chandler Stephenson,2023-02-17T04:26:42Z,2,13:38,06:22,0,0,54.0,Vegas Golden Knights,VGK
+187,54,28,Vegas Golden Knights,San Jose Sharks,2022020877501,2022020877,Stoppage,501,STOP,Puck Frozen,2023-02-17T04:26:43Z,2,13:39,06:21,0,0,,,
+188,54,28,Vegas Golden Knights,San Jose Sharks,2022020877453,2022020877,Faceoff,453,FACEOFF,Tomas Hertl faceoff won against Nicolas Roy,2023-02-17T04:27:18Z,2,13:39,06:21,0,0,28.0,San Jose Sharks,SJS
+189,54,28,Vegas Golden Knights,San Jose Sharks,2022020877454,2022020877,Missed Shot,454,MISSED_SHOT,Alec Martinez Wide of Net Kaapo Kahkonen,2023-02-17T04:27:21Z,2,13:42,06:18,0,0,54.0,Vegas Golden Knights,VGK
+190,54,28,Vegas Golden Knights,San Jose Sharks,2022020877502,2022020877,Hit,502,HIT,Jacob MacDonald hit Keegan Kolesar,2023-02-17T04:27:50Z,2,14:11,05:49,0,0,28.0,San Jose Sharks,SJS
+191,54,28,Vegas Golden Knights,San Jose Sharks,2022020877455,2022020877,Missed Shot,455,MISSED_SHOT,Brett Howden Wide of Net Kaapo Kahkonen,2023-02-17T04:27:52Z,2,14:13,05:47,0,0,54.0,Vegas Golden Knights,VGK
+192,54,28,Vegas Golden Knights,San Jose Sharks,2022020877459,2022020877,Blocked Shot,459,BLOCKED_SHOT,Alex Pietrangelo shot blocked shot by Timo Meier,2023-02-17T04:27:57Z,2,14:18,05:42,0,0,28.0,San Jose Sharks,SJS
+193,54,28,Vegas Golden Knights,San Jose Sharks,2022020877457,2022020877,Blocked Shot,457,BLOCKED_SHOT,Alex Pietrangelo shot blocked shot by Timo Meier,2023-02-17T04:28:04Z,2,14:25,05:35,0,0,28.0,San Jose Sharks,SJS
+194,54,28,Vegas Golden Knights,San Jose Sharks,2022020877458,2022020877,Shot,458,SHOT,Michael Amadio Backhand saved by Kaapo Kahkonen,2023-02-17T04:28:14Z,2,14:35,05:25,0,0,54.0,Vegas Golden Knights,VGK
+195,54,28,Vegas Golden Knights,San Jose Sharks,2022020877460,2022020877,Shot,460,SHOT,Michael Amadio Deflected saved by Kaapo Kahkonen,2023-02-17T04:28:26Z,2,14:47,05:13,0,0,54.0,Vegas Golden Knights,VGK
+196,54,28,Vegas Golden Knights,San Jose Sharks,2022020877503,2022020877,Stoppage,503,STOP,Goalie Stopped,2023-02-17T04:28:27Z,2,14:48,05:12,0,0,,,
+197,54,28,Vegas Golden Knights,San Jose Sharks,2022020877461,2022020877,Faceoff,461,FACEOFF,Jack Eichel faceoff won against Nick Bonino,2023-02-17T04:30:39Z,2,14:48,05:12,0,0,54.0,Vegas Golden Knights,VGK
+198,54,28,Vegas Golden Knights,San Jose Sharks,2022020877462,2022020877,Shot,462,SHOT,Zach Whitecloud Wrist Shot saved by Kaapo Kahkonen,2023-02-17T04:30:45Z,2,14:54,05:06,0,0,54.0,Vegas Golden Knights,VGK
+199,54,28,Vegas Golden Knights,San Jose Sharks,2022020877463,2022020877,Blocked Shot,463,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Nicolas Hague,2023-02-17T04:31:01Z,2,15:10,04:50,0,0,54.0,Vegas Golden Knights,VGK
+200,54,28,Vegas Golden Knights,San Jose Sharks,2022020877504,2022020877,Stoppage,504,STOP,Icing,2023-02-17T04:31:16Z,2,15:25,04:35,0,0,,,
+201,54,28,Vegas Golden Knights,San Jose Sharks,2022020877464,2022020877,Faceoff,464,FACEOFF,Jack Eichel faceoff won against Tomas Hertl,2023-02-17T04:31:45Z,2,15:25,04:35,0,0,54.0,Vegas Golden Knights,VGK
+202,54,28,Vegas Golden Knights,San Jose Sharks,2022020877465,2022020877,Blocked Shot,465,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Brayden McNabb,2023-02-17T04:32:13Z,2,15:53,04:07,0,0,54.0,Vegas Golden Knights,VGK
+203,54,28,Vegas Golden Knights,San Jose Sharks,2022020877466,2022020877,Missed Shot,466,MISSED_SHOT,Tomas Hertl Wide of Net Adin Hill,2023-02-17T04:32:33Z,2,16:13,03:47,0,0,28.0,San Jose Sharks,SJS
+204,54,28,Vegas Golden Knights,San Jose Sharks,2022020877467,2022020877,Shot,467,SHOT,Shea Theodore Wrist Shot saved by Kaapo Kahkonen,2023-02-17T04:32:51Z,2,16:31,03:29,0,0,54.0,Vegas Golden Knights,VGK
+205,54,28,Vegas Golden Knights,San Jose Sharks,2022020877468,2022020877,Shot,468,SHOT,Alexander Barabanov Wrist Shot saved by Adin Hill,2023-02-17T04:33:00Z,2,16:40,03:20,0,0,28.0,San Jose Sharks,SJS
+206,54,28,Vegas Golden Knights,San Jose Sharks,2022020877469,2022020877,Shot,469,SHOT,Logan Couture Wrist Shot saved by Adin Hill,2023-02-17T04:33:03Z,2,16:43,03:17,0,0,28.0,San Jose Sharks,SJS
+207,54,28,Vegas Golden Knights,San Jose Sharks,2022020877505,2022020877,Stoppage,505,STOP,Goalie Stopped,2023-02-17T04:33:03Z,2,16:43,03:17,0,0,,,
+208,54,28,Vegas Golden Knights,San Jose Sharks,2022020877470,2022020877,Faceoff,470,FACEOFF,Logan Couture faceoff won against Chandler Stephenson,2023-02-17T04:33:34Z,2,16:43,03:17,0,0,28.0,San Jose Sharks,SJS
+209,54,28,Vegas Golden Knights,San Jose Sharks,2022020877471,2022020877,Missed Shot,471,MISSED_SHOT,Matt Benning Wide of Net Adin Hill,2023-02-17T04:33:47Z,2,16:56,03:04,0,0,28.0,San Jose Sharks,SJS
+210,54,28,Vegas Golden Knights,San Jose Sharks,2022020877751,2022020877,Shot,751,SHOT,Marc-Edouard Vlasic Slap Shot saved by Adin Hill,2023-02-17T04:33:52Z,2,17:01,02:59,0,0,28.0,San Jose Sharks,SJS
+211,54,28,Vegas Golden Knights,San Jose Sharks,2022020877472,2022020877,Goal,472,GOAL,"Alexander Barabanov (10) Wrist Shot, assists: Marc-Edouard Vlasic (14), Logan Couture (26)",2023-02-17T04:33:56Z,2,17:04,02:56,0,1,28.0,San Jose Sharks,SJS
+212,54,28,Vegas Golden Knights,San Jose Sharks,2022020877506,2022020877,Faceoff,506,FACEOFF,Brett Howden faceoff won against Nick Bonino,2023-02-17T04:34:43Z,2,17:04,02:56,0,1,54.0,Vegas Golden Knights,VGK
+213,54,28,Vegas Golden Knights,San Jose Sharks,2022020877507,2022020877,Hit,507,HIT,Nicolas Hague hit Noah Gregor,2023-02-17T04:35:02Z,2,17:23,02:37,0,1,54.0,Vegas Golden Knights,VGK
+214,54,28,Vegas Golden Knights,San Jose Sharks,2022020877508,2022020877,Hit,508,HIT,Keegan Kolesar hit Nick Cicek,2023-02-17T04:35:18Z,2,17:39,02:21,0,1,54.0,Vegas Golden Knights,VGK
+215,54,28,Vegas Golden Knights,San Jose Sharks,2022020877509,2022020877,Stoppage,509,STOP,Net Dislodged Defensive Skater,2023-02-17T04:35:20Z,2,17:41,02:19,0,1,,,
+216,54,28,Vegas Golden Knights,San Jose Sharks,2022020877473,2022020877,Faceoff,473,FACEOFF,Nicolas Roy faceoff won against Nick Bonino,2023-02-17T04:35:58Z,2,17:41,02:19,0,1,54.0,Vegas Golden Knights,VGK
+217,54,28,Vegas Golden Knights,San Jose Sharks,2022020877510,2022020877,Stoppage,510,STOP,Hand Pass,2023-02-17T04:36:12Z,2,17:55,02:05,0,1,,,
+218,54,28,Vegas Golden Knights,San Jose Sharks,2022020877474,2022020877,Faceoff,474,FACEOFF,Jack Eichel faceoff won against Nick Bonino,2023-02-17T04:36:36Z,2,17:55,02:05,0,1,54.0,Vegas Golden Knights,VGK
+219,54,28,Vegas Golden Knights,San Jose Sharks,2022020877511,2022020877,Stoppage,511,STOP,Referee or Linesman,2023-02-17T04:36:45Z,2,18:03,01:57,0,1,,,
+220,54,28,Vegas Golden Knights,San Jose Sharks,2022020877634,2022020877,Penalty,634,PENALTY,Noah Gregor Tripping against Paul Cotter,2023-02-17T04:36:45Z,2,18:03,01:57,0,1,28.0,San Jose Sharks,SJS
+221,54,28,Vegas Golden Knights,San Jose Sharks,2022020877475,2022020877,Faceoff,475,FACEOFF,Nick Bonino faceoff won against Nicolas Roy,2023-02-17T04:37:30Z,2,18:03,01:57,0,1,28.0,San Jose Sharks,SJS
+222,54,28,Vegas Golden Knights,San Jose Sharks,2022020877513,2022020877,Takeaway,513,TAKEAWAY,Takeaway by Jack Eichel,2023-02-17T04:37:37Z,2,18:10,01:50,0,1,54.0,Vegas Golden Knights,VGK
+223,54,28,Vegas Golden Knights,San Jose Sharks,2022020877476,2022020877,Shot,476,SHOT,Jack Eichel Backhand saved by Kaapo Kahkonen,2023-02-17T04:38:02Z,2,18:35,01:25,0,1,54.0,Vegas Golden Knights,VGK
+224,54,28,Vegas Golden Knights,San Jose Sharks,2022020877477,2022020877,Shot,477,SHOT,Nicolas Roy Tip-In saved by Kaapo Kahkonen,2023-02-17T04:38:17Z,2,18:50,01:10,0,1,54.0,Vegas Golden Knights,VGK
+225,54,28,Vegas Golden Knights,San Jose Sharks,2022020877512,2022020877,Takeaway,512,TAKEAWAY,Takeaway by Steven Lorentz,2023-02-17T04:38:24Z,2,18:57,01:03,0,1,28.0,San Jose Sharks,SJS
+226,54,28,Vegas Golden Knights,San Jose Sharks,2022020877478,2022020877,Shot,478,SHOT,Shea Theodore Wrist Shot saved by Kaapo Kahkonen,2023-02-17T04:38:52Z,2,19:25,00:35,0,1,54.0,Vegas Golden Knights,VGK
+227,54,28,Vegas Golden Knights,San Jose Sharks,2022020877479,2022020877,Blocked Shot,479,BLOCKED_SHOT,William Carrier shot blocked shot by Mario Ferraro,2023-02-17T04:39:25Z,2,19:58,00:02,0,1,28.0,San Jose Sharks,SJS
+228,54,28,Vegas Golden Knights,San Jose Sharks,2022020877514,2022020877,Period End,514,PERIOD_END,End of 2nd Period,2023-02-17T04:39:27Z,2,20:00,00:00,0,1,,,
+229,54,28,Vegas Golden Knights,San Jose Sharks,2022020877517,2022020877,Period Official,517,PERIOD_OFFICIAL,Period Official,2023-02-17T04:48:49Z,2,20:00,00:00,0,1,,,
+230,54,28,Vegas Golden Knights,San Jose Sharks,2022020877518,2022020877,Period Ready,518,PERIOD_READY,Period Ready,2023-02-17T04:57:19Z,3,00:00,20:00,0,1,,,
+231,54,28,Vegas Golden Knights,San Jose Sharks,2022020877480,2022020877,Period Start,480,PERIOD_START,Period Start,2023-02-17T04:58:15Z,3,00:00,20:00,0,1,,,
+232,54,28,Vegas Golden Knights,San Jose Sharks,2022020877481,2022020877,Faceoff,481,FACEOFF,William Karlsson faceoff won against Tomas Hertl,2023-02-17T04:58:15Z,3,00:00,20:00,0,1,54.0,Vegas Golden Knights,VGK
+233,54,28,Vegas Golden Knights,San Jose Sharks,2022020877519,2022020877,Hit,519,HIT,Brayden McNabb hit Noah Gregor,2023-02-17T04:58:27Z,3,00:12,19:48,0,1,54.0,Vegas Golden Knights,VGK
+234,54,28,Vegas Golden Knights,San Jose Sharks,2022020877482,2022020877,Shot,482,SHOT,Timo Meier Snap Shot saved by Adin Hill,2023-02-17T04:58:46Z,3,00:31,19:29,0,1,28.0,San Jose Sharks,SJS
+235,54,28,Vegas Golden Knights,San Jose Sharks,2022020877521,2022020877,Stoppage,521,STOP,Referee or Linesman,2023-02-17T04:58:56Z,3,00:42,19:18,0,1,,,
+236,54,28,Vegas Golden Knights,San Jose Sharks,2022020877655,2022020877,Penalty,655,PENALTY,Jacob MacDonald Holding against Michael Amadio,2023-02-17T04:58:56Z,3,00:42,19:18,0,1,28.0,San Jose Sharks,SJS
+237,54,28,Vegas Golden Knights,San Jose Sharks,2022020877483,2022020877,Faceoff,483,FACEOFF,Nicolas Roy faceoff won against Nick Bonino,2023-02-17T04:59:39Z,3,00:42,19:18,0,1,54.0,Vegas Golden Knights,VGK
+238,54,28,Vegas Golden Knights,San Jose Sharks,2022020877522,2022020877,Hit,522,HIT,Matt Benning hit Nicolas Roy,2023-02-17T04:59:47Z,3,00:50,19:10,0,1,28.0,San Jose Sharks,SJS
+239,54,28,Vegas Golden Knights,San Jose Sharks,2022020877484,2022020877,Missed Shot,484,MISSED_SHOT,Nicolas Roy Wide of Net Kaapo Kahkonen,2023-02-17T04:59:53Z,3,00:56,19:04,0,1,54.0,Vegas Golden Knights,VGK
+240,54,28,Vegas Golden Knights,San Jose Sharks,2022020877485,2022020877,Missed Shot,485,MISSED_SHOT,Shea Theodore Wide of Net Kaapo Kahkonen,2023-02-17T05:00:10Z,3,01:13,18:47,0,1,54.0,Vegas Golden Knights,VGK
+241,54,28,Vegas Golden Knights,San Jose Sharks,2022020877486,2022020877,Shot,486,SHOT,Reilly Smith Wrist Shot saved by Kaapo Kahkonen,2023-02-17T05:00:17Z,3,01:20,18:40,0,1,54.0,Vegas Golden Knights,VGK
+242,54,28,Vegas Golden Knights,San Jose Sharks,2022020877487,2022020877,Shot,487,SHOT,Nicolas Roy Wrist Shot saved by Kaapo Kahkonen,2023-02-17T05:00:22Z,3,01:25,18:35,0,1,54.0,Vegas Golden Knights,VGK
+243,54,28,Vegas Golden Knights,San Jose Sharks,2022020877523,2022020877,Stoppage,523,STOP,Goalie Stopped,2023-02-17T05:00:22Z,3,01:26,18:34,0,1,,,
+244,54,28,Vegas Golden Knights,San Jose Sharks,2022020877488,2022020877,Faceoff,488,FACEOFF,Steven Lorentz faceoff won against William Karlsson,2023-02-17T05:01:41Z,3,01:26,18:34,0,1,28.0,San Jose Sharks,SJS
+245,54,28,Vegas Golden Knights,San Jose Sharks,2022020877489,2022020877,Shot,489,SHOT,William Carrier Tip-In saved by Kaapo Kahkonen,2023-02-17T05:02:05Z,3,01:50,18:10,0,1,54.0,Vegas Golden Knights,VGK
+246,54,28,Vegas Golden Knights,San Jose Sharks,2022020877524,2022020877,Hit,524,HIT,Chandler Stephenson hit Matt Benning,2023-02-17T05:02:17Z,3,02:02,17:58,0,1,54.0,Vegas Golden Knights,VGK
+247,54,28,Vegas Golden Knights,San Jose Sharks,2022020877490,2022020877,Missed Shot,490,MISSED_SHOT,Alex Pietrangelo Wide of Net Kaapo Kahkonen,2023-02-17T05:02:54Z,3,02:39,17:21,0,1,54.0,Vegas Golden Knights,VGK
+248,54,28,Vegas Golden Knights,San Jose Sharks,2022020877525,2022020877,Hit,525,HIT,Jacob MacDonald hit Michael Amadio,2023-02-17T05:03:04Z,3,02:49,17:11,0,1,28.0,San Jose Sharks,SJS
+249,54,28,Vegas Golden Knights,San Jose Sharks,2022020877526,2022020877,Giveaway,526,GIVEAWAY,Giveaway by Erik Karlsson,2023-02-17T05:03:42Z,3,03:27,16:33,0,1,28.0,San Jose Sharks,SJS
+250,54,28,Vegas Golden Knights,San Jose Sharks,2022020877491,2022020877,Shot,491,SHOT,Paul Cotter Snap Shot saved by Kaapo Kahkonen,2023-02-17T05:03:47Z,3,03:32,16:28,0,1,54.0,Vegas Golden Knights,VGK
+251,54,28,Vegas Golden Knights,San Jose Sharks,2022020877527,2022020877,Stoppage,527,STOP,Goalie Stopped,2023-02-17T05:03:48Z,3,03:33,16:27,0,1,,,
+252,54,28,Vegas Golden Knights,San Jose Sharks,2022020877492,2022020877,Faceoff,492,FACEOFF,Tomas Hertl faceoff won against Nicolas Roy,2023-02-17T05:04:29Z,3,03:33,16:27,0,1,28.0,San Jose Sharks,SJS
+253,54,28,Vegas Golden Knights,San Jose Sharks,2022020877529,2022020877,Takeaway,529,TAKEAWAY,Takeaway by Nicolas Roy,2023-02-17T05:04:44Z,3,03:48,16:12,0,1,54.0,Vegas Golden Knights,VGK
+254,54,28,Vegas Golden Knights,San Jose Sharks,2022020877530,2022020877,Hit,530,HIT,Keegan Kolesar hit Alexander Barabanov,2023-02-17T05:04:48Z,3,03:52,16:08,0,1,54.0,Vegas Golden Knights,VGK
+255,54,28,Vegas Golden Knights,San Jose Sharks,2022020877531,2022020877,Hit,531,HIT,Jacob MacDonald hit Brett Howden,2023-02-17T05:04:53Z,3,03:57,16:03,0,1,28.0,San Jose Sharks,SJS
+256,54,28,Vegas Golden Knights,San Jose Sharks,2022020877532,2022020877,Takeaway,532,TAKEAWAY,Takeaway by Erik Karlsson,2023-02-17T05:05:05Z,3,04:09,15:51,0,1,28.0,San Jose Sharks,SJS
+257,54,28,Vegas Golden Knights,San Jose Sharks,2022020877533,2022020877,Takeaway,533,TAKEAWAY,Takeaway by Alex Pietrangelo,2023-02-17T05:05:56Z,3,05:00,15:00,0,1,54.0,Vegas Golden Knights,VGK
+258,54,28,Vegas Golden Knights,San Jose Sharks,2022020877534,2022020877,Hit,534,HIT,Nick Cicek hit William Carrier,2023-02-17T05:06:24Z,3,05:28,14:32,0,1,28.0,San Jose Sharks,SJS
+259,54,28,Vegas Golden Knights,San Jose Sharks,2022020877493,2022020877,Shot,493,SHOT,Nick Bonino Snap Shot saved by Adin Hill,2023-02-17T05:06:31Z,3,05:35,14:25,0,1,28.0,San Jose Sharks,SJS
+260,54,28,Vegas Golden Knights,San Jose Sharks,2022020877535,2022020877,Takeaway,535,TAKEAWAY,Takeaway by Jack Eichel,2023-02-17T05:07:15Z,3,06:19,13:41,0,1,54.0,Vegas Golden Knights,VGK
+261,54,28,Vegas Golden Knights,San Jose Sharks,2022020877494,2022020877,Goal,494,GOAL,"Paul Cotter (11) Snap Shot, assists: Jack Eichel (22)",2023-02-17T05:07:19Z,3,06:22,13:38,1,1,54.0,Vegas Golden Knights,VGK
+262,54,28,Vegas Golden Knights,San Jose Sharks,2022020877536,2022020877,Faceoff,536,FACEOFF,Logan Couture faceoff won against Nicolas Roy,2023-02-17T05:08:04Z,3,06:22,13:38,1,1,28.0,San Jose Sharks,SJS
+263,54,28,Vegas Golden Knights,San Jose Sharks,2022020877538,2022020877,Stoppage,538,STOP,Offside,2023-02-17T05:08:10Z,3,06:29,13:31,1,1,,,
+264,54,28,Vegas Golden Knights,San Jose Sharks,2022020877495,2022020877,Faceoff,495,FACEOFF,Jack Eichel faceoff won against Logan Couture,2023-02-17T05:10:22Z,3,06:29,13:31,1,1,54.0,Vegas Golden Knights,VGK
+265,54,28,Vegas Golden Knights,San Jose Sharks,2022020877539,2022020877,Hit,539,HIT,Paul Cotter hit Matt Benning,2023-02-17T05:10:30Z,3,06:37,13:23,1,1,54.0,Vegas Golden Knights,VGK
+266,54,28,Vegas Golden Knights,San Jose Sharks,2022020877540,2022020877,Stoppage,540,STOP,Icing,2023-02-17T05:10:31Z,3,06:39,13:21,1,1,,,
+267,54,28,Vegas Golden Knights,San Jose Sharks,2022020877496,2022020877,Faceoff,496,FACEOFF,Jack Eichel faceoff won against Logan Couture,2023-02-17T05:10:56Z,3,06:39,13:21,1,1,54.0,Vegas Golden Knights,VGK
+268,54,28,Vegas Golden Knights,San Jose Sharks,2022020877497,2022020877,Shot,497,SHOT,Shea Theodore Wrist Shot saved by Kaapo Kahkonen,2023-02-17T05:11:01Z,3,06:44,13:16,1,1,54.0,Vegas Golden Knights,VGK
+269,54,28,Vegas Golden Knights,San Jose Sharks,2022020877541,2022020877,Stoppage,541,STOP,Goalie Stopped,2023-02-17T05:11:01Z,3,06:44,13:16,1,1,,,
+270,54,28,Vegas Golden Knights,San Jose Sharks,2022020877498,2022020877,Faceoff,498,FACEOFF,Jack Eichel faceoff won against Logan Couture,2023-02-17T05:11:17Z,3,06:44,13:16,1,1,54.0,Vegas Golden Knights,VGK
+271,54,28,Vegas Golden Knights,San Jose Sharks,2022020877542,2022020877,Hit,542,HIT,Paul Cotter hit Marc-Edouard Vlasic,2023-02-17T05:11:24Z,3,06:51,13:09,1,1,54.0,Vegas Golden Knights,VGK
+272,54,28,Vegas Golden Knights,San Jose Sharks,2022020877499,2022020877,Blocked Shot,499,BLOCKED_SHOT,Marc-Edouard Vlasic shot blocked shot by Jack Eichel,2023-02-17T05:11:36Z,3,07:03,12:57,1,1,54.0,Vegas Golden Knights,VGK
+273,54,28,Vegas Golden Knights,San Jose Sharks,2022020877500,2022020877,Shot,500,SHOT,Jack Eichel Snap Shot saved by Kaapo Kahkonen,2023-02-17T05:11:49Z,3,07:16,12:44,1,1,54.0,Vegas Golden Knights,VGK
+274,54,28,Vegas Golden Knights,San Jose Sharks,2022020877543,2022020877,Stoppage,543,STOP,Goalie Stopped,2023-02-17T05:11:49Z,3,07:16,12:44,1,1,,,
+275,54,28,Vegas Golden Knights,San Jose Sharks,2022020877701,2022020877,Faceoff,701,FACEOFF,Nick Bonino faceoff won against William Karlsson,2023-02-17T05:12:18Z,3,07:16,12:44,1,1,28.0,San Jose Sharks,SJS
+276,54,28,Vegas Golden Knights,San Jose Sharks,2022020877544,2022020877,Stoppage,544,STOP,Puck Frozen,2023-02-17T05:12:29Z,3,07:27,12:33,1,1,,,
+277,54,28,Vegas Golden Knights,San Jose Sharks,2022020877702,2022020877,Faceoff,702,FACEOFF,Nick Bonino faceoff won against William Karlsson,2023-02-17T05:12:53Z,3,07:27,12:33,1,1,28.0,San Jose Sharks,SJS
+278,54,28,Vegas Golden Knights,San Jose Sharks,2022020877545,2022020877,Takeaway,545,TAKEAWAY,Takeaway by William Karlsson,2023-02-17T05:13:08Z,3,07:42,12:18,1,1,54.0,Vegas Golden Knights,VGK
+279,54,28,Vegas Golden Knights,San Jose Sharks,2022020877703,2022020877,Shot,703,SHOT,Michael Amadio Wrist Shot saved by Kaapo Kahkonen,2023-02-17T05:13:10Z,3,07:44,12:16,1,1,54.0,Vegas Golden Knights,VGK
+280,54,28,Vegas Golden Knights,San Jose Sharks,2022020877546,2022020877,Takeaway,546,TAKEAWAY,Takeaway by Zach Whitecloud,2023-02-17T05:13:23Z,3,07:57,12:03,1,1,54.0,Vegas Golden Knights,VGK
+281,54,28,Vegas Golden Knights,San Jose Sharks,2022020877547,2022020877,Stoppage,547,STOP,Icing,2023-02-17T05:13:36Z,3,08:10,11:50,1,1,,,
+282,54,28,Vegas Golden Knights,San Jose Sharks,2022020877704,2022020877,Faceoff,704,FACEOFF,Steven Lorentz faceoff won against Nicolas Roy,2023-02-17T05:14:00Z,3,08:10,11:50,1,1,28.0,San Jose Sharks,SJS
+283,54,28,Vegas Golden Knights,San Jose Sharks,2022020877548,2022020877,Hit,548,HIT,Kevin Labanc hit Nicolas Roy,2023-02-17T05:14:45Z,3,08:55,11:05,1,1,28.0,San Jose Sharks,SJS
+284,54,28,Vegas Golden Knights,San Jose Sharks,2022020877705,2022020877,Missed Shot,705,MISSED_SHOT,Kevin Labanc Over Net Adin Hill,2023-02-17T05:14:54Z,3,09:04,10:56,1,1,28.0,San Jose Sharks,SJS
+285,54,28,Vegas Golden Knights,San Jose Sharks,2022020877706,2022020877,Missed Shot,706,MISSED_SHOT,Kevin Labanc Wide of Net Adin Hill,2023-02-17T05:14:57Z,3,09:07,10:53,1,1,28.0,San Jose Sharks,SJS
+286,54,28,Vegas Golden Knights,San Jose Sharks,2022020877707,2022020877,Shot,707,SHOT,Tomas Hertl Tip-In saved by Adin Hill,2023-02-17T05:15:01Z,3,09:11,10:49,1,1,28.0,San Jose Sharks,SJS
+287,54,28,Vegas Golden Knights,San Jose Sharks,2022020877708,2022020877,Shot,708,SHOT,Marc-Edouard Vlasic Slap Shot saved by Adin Hill,2023-02-17T05:15:12Z,3,09:22,10:38,1,1,28.0,San Jose Sharks,SJS
+288,54,28,Vegas Golden Knights,San Jose Sharks,2022020877549,2022020877,Stoppage,549,STOP,Referee or Linesman,2023-02-17T05:15:17Z,3,09:27,10:33,1,1,,,
+289,54,28,Vegas Golden Knights,San Jose Sharks,2022020877874,2022020877,Penalty,874,PENALTY,Timo Meier High-sticking against Nicolas Roy,2023-02-17T05:15:17Z,3,09:27,10:33,1,1,28.0,San Jose Sharks,SJS
+290,54,28,Vegas Golden Knights,San Jose Sharks,2022020877709,2022020877,Faceoff,709,FACEOFF,William Karlsson faceoff won against Nick Bonino,2023-02-17T05:16:06Z,3,09:27,10:33,1,1,54.0,Vegas Golden Knights,VGK
+291,54,28,Vegas Golden Knights,San Jose Sharks,2022020877550,2022020877,Hit,550,HIT,Matt Benning hit William Carrier,2023-02-17T05:16:13Z,3,09:34,10:26,1,1,28.0,San Jose Sharks,SJS
+292,54,28,Vegas Golden Knights,San Jose Sharks,2022020877710,2022020877,Missed Shot,710,MISSED_SHOT,Alex Pietrangelo Wide of Net Kaapo Kahkonen,2023-02-17T05:16:25Z,3,09:46,10:14,1,1,54.0,Vegas Golden Knights,VGK
+293,54,28,Vegas Golden Knights,San Jose Sharks,2022020877711,2022020877,Shot,711,SHOT,Michael Amadio Slap Shot saved by Kaapo Kahkonen,2023-02-17T05:16:26Z,3,09:48,10:12,1,1,54.0,Vegas Golden Knights,VGK
+294,54,28,Vegas Golden Knights,San Jose Sharks,2022020877255,2022020877,Shot,255,SHOT,William Karlsson Snap Shot saved by Kaapo Kahkonen,2023-02-17T05:16:34Z,3,09:50,10:10,1,1,54.0,Vegas Golden Knights,VGK
+295,54,28,Vegas Golden Knights,San Jose Sharks,2022020877713,2022020877,Shot,713,SHOT,Chandler Stephenson Snap Shot saved by Kaapo Kahkonen,2023-02-17T05:16:36Z,3,09:56,10:04,1,1,54.0,Vegas Golden Knights,VGK
+296,54,28,Vegas Golden Knights,San Jose Sharks,2022020877801,2022020877,Stoppage,801,STOP,Goalie Stopped,2023-02-17T05:16:36Z,3,09:56,10:04,1,1,,,
+297,54,28,Vegas Golden Knights,San Jose Sharks,2022020877714,2022020877,Faceoff,714,FACEOFF,William Karlsson faceoff won against Steven Lorentz,2023-02-17T05:17:07Z,3,09:56,10:04,1,1,54.0,Vegas Golden Knights,VGK
+298,54,28,Vegas Golden Knights,San Jose Sharks,2022020877715,2022020877,Blocked Shot,715,BLOCKED_SHOT,Michael Amadio shot blocked shot by Mario Ferraro,2023-02-17T05:17:14Z,3,10:03,09:57,1,1,28.0,San Jose Sharks,SJS
+299,54,28,Vegas Golden Knights,San Jose Sharks,2022020877802,2022020877,Stoppage,802,STOP,Offside,2023-02-17T05:17:43Z,3,10:32,09:28,1,1,,,
+300,54,28,Vegas Golden Knights,San Jose Sharks,2022020877716,2022020877,Faceoff,716,FACEOFF,Nick Bonino faceoff won against Nicolas Roy,2023-02-17T05:18:04Z,3,10:32,09:28,1,1,28.0,San Jose Sharks,SJS
+301,54,28,Vegas Golden Knights,San Jose Sharks,2022020877717,2022020877,Shot,717,SHOT,Jack Eichel Snap Shot saved by Kaapo Kahkonen,2023-02-17T05:18:50Z,3,11:18,08:42,1,1,54.0,Vegas Golden Knights,VGK
+302,54,28,Vegas Golden Knights,San Jose Sharks,2022020877803,2022020877,Hit,803,HIT,Zach Whitecloud hit Timo Meier,2023-02-17T05:19:25Z,3,11:53,08:07,1,1,54.0,Vegas Golden Knights,VGK
+303,54,28,Vegas Golden Knights,San Jose Sharks,2022020877804,2022020877,Hit,804,HIT,Keegan Kolesar hit Erik Karlsson,2023-02-17T05:20:08Z,3,12:36,07:24,1,1,54.0,Vegas Golden Knights,VGK
+304,54,28,Vegas Golden Knights,San Jose Sharks,2022020877805,2022020877,Stoppage,805,STOP,Offside,2023-02-17T05:20:19Z,3,12:47,07:13,1,1,,,
+305,54,28,Vegas Golden Knights,San Jose Sharks,2022020877718,2022020877,Faceoff,718,FACEOFF,William Karlsson faceoff won against Logan Couture,2023-02-17T05:22:32Z,3,12:47,07:13,1,1,54.0,Vegas Golden Knights,VGK
+306,54,28,Vegas Golden Knights,San Jose Sharks,2022020877719,2022020877,Shot,719,SHOT,Michael Eyssimont Snap Shot saved by Adin Hill,2023-02-17T05:22:39Z,3,12:54,07:06,1,1,28.0,San Jose Sharks,SJS
+307,54,28,Vegas Golden Knights,San Jose Sharks,2022020877807,2022020877,Takeaway,807,TAKEAWAY,Takeaway by Logan Couture,2023-02-17T05:22:59Z,3,13:14,06:46,1,1,28.0,San Jose Sharks,SJS
+308,54,28,Vegas Golden Knights,San Jose Sharks,2022020877720,2022020877,Shot,720,SHOT,Alexander Barabanov Snap Shot saved by Adin Hill,2023-02-17T05:23:00Z,3,13:15,06:45,1,1,28.0,San Jose Sharks,SJS
+309,54,28,Vegas Golden Knights,San Jose Sharks,2022020877806,2022020877,Stoppage,806,STOP,Goalie Stopped,2023-02-17T05:23:00Z,3,13:16,06:44,1,1,,,
+310,54,28,Vegas Golden Knights,San Jose Sharks,2022020877721,2022020877,Faceoff,721,FACEOFF,Nick Bonino faceoff won against Jack Eichel,2023-02-17T05:23:33Z,3,13:16,06:44,1,1,28.0,San Jose Sharks,SJS
+311,54,28,Vegas Golden Knights,San Jose Sharks,2022020877722,2022020877,Shot,722,SHOT,Erik Karlsson Wrist Shot saved by Adin Hill,2023-02-17T05:23:37Z,3,13:20,06:40,1,1,28.0,San Jose Sharks,SJS
+312,54,28,Vegas Golden Knights,San Jose Sharks,2022020877808,2022020877,Giveaway,808,GIVEAWAY,Giveaway by Jacob MacDonald,2023-02-17T05:24:03Z,3,13:46,06:14,1,1,28.0,San Jose Sharks,SJS
+313,54,28,Vegas Golden Knights,San Jose Sharks,2022020877723,2022020877,Blocked Shot,723,BLOCKED_SHOT,Zach Whitecloud shot blocked shot by Jacob MacDonald,2023-02-17T05:24:12Z,3,13:55,06:05,1,1,28.0,San Jose Sharks,SJS
+314,54,28,Vegas Golden Knights,San Jose Sharks,2022020877809,2022020877,Hit,809,HIT,Zach Whitecloud hit Evgeny Svechnikov,2023-02-17T05:24:20Z,3,14:03,05:57,1,1,54.0,Vegas Golden Knights,VGK
+315,54,28,Vegas Golden Knights,San Jose Sharks,2022020877724,2022020877,Shot,724,SHOT,Oskar Lindblom Tip-In saved by Adin Hill,2023-02-17T05:24:27Z,3,14:10,05:50,1,1,28.0,San Jose Sharks,SJS
+316,54,28,Vegas Golden Knights,San Jose Sharks,2022020877725,2022020877,Missed Shot,725,MISSED_SHOT,William Carrier Wide of Net Kaapo Kahkonen,2023-02-17T05:25:20Z,3,15:03,04:57,1,1,54.0,Vegas Golden Knights,VGK
+317,54,28,Vegas Golden Knights,San Jose Sharks,2022020877726,2022020877,Shot,726,SHOT,Tomas Hertl Wrist Shot saved by Adin Hill,2023-02-17T05:25:24Z,3,15:07,04:53,1,1,28.0,San Jose Sharks,SJS
+318,54,28,Vegas Golden Knights,San Jose Sharks,2022020877810,2022020877,Stoppage,810,STOP,Goalie Stopped,2023-02-17T05:25:26Z,3,15:09,04:51,1,1,,,
+319,54,28,Vegas Golden Knights,San Jose Sharks,2022020877727,2022020877,Faceoff,727,FACEOFF,William Karlsson faceoff won against Logan Couture,2023-02-17T05:27:43Z,3,15:09,04:51,1,1,54.0,Vegas Golden Knights,VGK
+320,54,28,Vegas Golden Knights,San Jose Sharks,2022020877728,2022020877,Shot,728,SHOT,Michael Amadio Wrist Shot saved by Kaapo Kahkonen,2023-02-17T05:27:52Z,3,15:18,04:42,1,1,54.0,Vegas Golden Knights,VGK
+321,54,28,Vegas Golden Knights,San Jose Sharks,2022020877811,2022020877,Stoppage,811,STOP,Referee or Linesman,2023-02-17T05:28:00Z,3,15:26,04:34,1,1,,,
+322,54,28,Vegas Golden Knights,San Jose Sharks,2022020877729,2022020877,Faceoff,729,FACEOFF,William Karlsson faceoff won against Logan Couture,2023-02-17T05:28:37Z,3,15:26,04:34,1,1,54.0,Vegas Golden Knights,VGK
+323,54,28,Vegas Golden Knights,San Jose Sharks,2022020877730,2022020877,Shot,730,SHOT,Michael Eyssimont Snap Shot saved by Adin Hill,2023-02-17T05:28:55Z,3,15:44,04:16,1,1,28.0,San Jose Sharks,SJS
+324,54,28,Vegas Golden Knights,San Jose Sharks,2022020877731,2022020877,Shot,731,SHOT,Shea Theodore Snap Shot saved by Kaapo Kahkonen,2023-02-17T05:29:09Z,3,15:58,04:02,1,1,54.0,Vegas Golden Knights,VGK
+325,54,28,Vegas Golden Knights,San Jose Sharks,2022020877732,2022020877,Missed Shot,732,MISSED_SHOT,Michael Amadio Wide of Net Kaapo Kahkonen,2023-02-17T05:29:18Z,3,16:07,03:53,1,1,54.0,Vegas Golden Knights,VGK
+326,54,28,Vegas Golden Knights,San Jose Sharks,2022020877812,2022020877,Hit,812,HIT,Paul Cotter hit Matt Benning,2023-02-17T05:29:44Z,3,16:33,03:27,1,1,54.0,Vegas Golden Knights,VGK
+327,54,28,Vegas Golden Knights,San Jose Sharks,2022020877813,2022020877,Hit,813,HIT,Nick Bonino hit Shea Theodore,2023-02-17T05:29:54Z,3,16:43,03:17,1,1,28.0,San Jose Sharks,SJS
+328,54,28,Vegas Golden Knights,San Jose Sharks,2022020877814,2022020877,Hit,814,HIT,Steven Lorentz hit Jack Eichel,2023-02-17T05:30:26Z,3,17:15,02:45,1,1,28.0,San Jose Sharks,SJS
+329,54,28,Vegas Golden Knights,San Jose Sharks,2022020877733,2022020877,Missed Shot,733,MISSED_SHOT,Nicolas Hague Wide of Net Kaapo Kahkonen,2023-02-17T05:30:36Z,3,17:25,02:35,1,1,54.0,Vegas Golden Knights,VGK
+330,54,28,Vegas Golden Knights,San Jose Sharks,2022020877734,2022020877,Blocked Shot,734,BLOCKED_SHOT,Kevin Labanc shot blocked shot by Phil Kessel,2023-02-17T05:31:00Z,3,17:49,02:11,1,1,54.0,Vegas Golden Knights,VGK
+331,54,28,Vegas Golden Knights,San Jose Sharks,2022020877735,2022020877,Missed Shot,735,MISSED_SHOT,Jacob MacDonald Wide of Net Adin Hill,2023-02-17T05:31:11Z,3,18:00,02:00,1,1,28.0,San Jose Sharks,SJS
+332,54,28,Vegas Golden Knights,San Jose Sharks,2022020877815,2022020877,Hit,815,HIT,Kevin Labanc hit Alex Pietrangelo,2023-02-17T05:31:22Z,3,18:11,01:49,1,1,28.0,San Jose Sharks,SJS
+333,54,28,Vegas Golden Knights,San Jose Sharks,2022020877736,2022020877,Blocked Shot,736,BLOCKED_SHOT,Kevin Labanc shot blocked shot by Alex Pietrangelo,2023-02-17T05:31:25Z,3,18:14,01:46,1,1,54.0,Vegas Golden Knights,VGK
+334,54,28,Vegas Golden Knights,San Jose Sharks,2022020877737,2022020877,Shot,737,SHOT,Kevin Labanc Slap Shot saved by Adin Hill,2023-02-17T05:31:33Z,3,18:22,01:38,1,1,28.0,San Jose Sharks,SJS
+335,54,28,Vegas Golden Knights,San Jose Sharks,2022020877816,2022020877,Stoppage,816,STOP,Goalie Stopped,2023-02-17T05:31:33Z,3,18:22,01:38,1,1,,,
+336,54,28,Vegas Golden Knights,San Jose Sharks,2022020877738,2022020877,Faceoff,738,FACEOFF,William Karlsson faceoff won against Logan Couture,2023-02-17T05:32:08Z,3,18:22,01:38,1,1,54.0,Vegas Golden Knights,VGK
+337,54,28,Vegas Golden Knights,San Jose Sharks,2022020877739,2022020877,Shot,739,SHOT,Jacob MacDonald Snap Shot saved by Adin Hill,2023-02-17T05:32:36Z,3,18:50,01:10,1,1,28.0,San Jose Sharks,SJS
+338,54,28,Vegas Golden Knights,San Jose Sharks,2022020877740,2022020877,Shot,740,SHOT,Jack Eichel Wrist Shot saved by Kaapo Kahkonen,2023-02-17T05:33:13Z,3,19:27,00:33,1,1,54.0,Vegas Golden Knights,VGK
+339,54,28,Vegas Golden Knights,San Jose Sharks,2022020877817,2022020877,Stoppage,817,STOP,Goalie Stopped,2023-02-17T05:33:15Z,3,19:28,00:32,1,1,,,
+340,54,28,Vegas Golden Knights,San Jose Sharks,2022020877741,2022020877,Faceoff,741,FACEOFF,Nicolas Roy faceoff won against Nick Bonino,2023-02-17T05:33:49Z,3,19:28,00:32,1,1,54.0,Vegas Golden Knights,VGK
+341,54,28,Vegas Golden Knights,San Jose Sharks,2022020877818,2022020877,Stoppage,818,STOP,Puck in Crowd,2023-02-17T05:33:59Z,3,19:38,00:22,1,1,,,
+342,54,28,Vegas Golden Knights,San Jose Sharks,2022020877742,2022020877,Faceoff,742,FACEOFF,Chandler Stephenson faceoff won against Nick Bonino,2023-02-17T05:34:24Z,3,19:38,00:22,1,1,54.0,Vegas Golden Knights,VGK
+343,54,28,Vegas Golden Knights,San Jose Sharks,2022020877743,2022020877,Missed Shot,743,MISSED_SHOT,Shea Theodore Wide of Net Kaapo Kahkonen,2023-02-17T05:34:28Z,3,19:42,00:18,1,1,54.0,Vegas Golden Knights,VGK
+344,54,28,Vegas Golden Knights,San Jose Sharks,2022020877744,2022020877,Goal,744,GOAL,"William Carrier (15) Wrist Shot, assists: Chandler Stephenson (36), Shea Theodore (21)",2023-02-17T05:34:28Z,3,19:42,00:18,2,1,54.0,Vegas Golden Knights,VGK
+345,54,28,Vegas Golden Knights,San Jose Sharks,2022020877820,2022020877,Stoppage,820,STOP,Visitor Timeout,2023-02-17T05:34:28Z,3,19:42,00:18,2,1,,,
+346,54,28,Vegas Golden Knights,San Jose Sharks,2022020877821,2022020877,Penalty,821,PENALTY,Nick Bonino Abuse of Officials,2023-02-17T05:34:28Z,3,19:42,00:18,2,1,28.0,San Jose Sharks,SJS
+347,54,28,Vegas Golden Knights,San Jose Sharks,2022020877745,2022020877,Faceoff,745,FACEOFF,Tomas Hertl faceoff won against Nicolas Roy,2023-02-17T05:36:44Z,3,19:42,00:18,2,1,28.0,San Jose Sharks,SJS
+348,54,28,Vegas Golden Knights,San Jose Sharks,2022020877746,2022020877,Shot,746,SHOT,Timo Meier Snap Shot saved by Adin Hill,2023-02-17T05:36:48Z,3,19:47,00:13,2,1,28.0,San Jose Sharks,SJS
+349,54,28,Vegas Golden Knights,San Jose Sharks,2022020877824,2022020877,Stoppage,824,STOP,Goalie Stopped,2023-02-17T05:36:48Z,3,19:47,00:13,2,1,,,
+350,54,28,Vegas Golden Knights,San Jose Sharks,2022020877747,2022020877,Faceoff,747,FACEOFF,Nicolas Roy faceoff won against Tomas Hertl,2023-02-17T05:37:28Z,3,19:47,00:13,2,1,54.0,Vegas Golden Knights,VGK
+351,54,28,Vegas Golden Knights,San Jose Sharks,2022020877825,2022020877,Period End,825,PERIOD_END,End of 3rd Period,2023-02-17T05:37:41Z,3,20:00,00:00,2,1,,,
+352,54,28,Vegas Golden Knights,San Jose Sharks,2022020877828,2022020877,Period Official,828,PERIOD_OFFICIAL,Period Official,2023-02-17T05:44:55Z,3,20:00,00:00,2,1,,,
+353,54,28,Vegas Golden Knights,San Jose Sharks,2022020877829,2022020877,Game End,829,GAME_END,Game End,2023-02-17T05:44:57Z,3,20:00,00:00,2,1,,,
+354,54,28,Vegas Golden Knights,San Jose Sharks,20220208771141,2022020877,Game Official,1141,GAME_OFFICIAL,Game Official,2023-02-17T16:17:14Z,3,20:00,00:00,2,1,,,

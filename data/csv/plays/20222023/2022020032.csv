@@ -1,0 +1,333 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,2,24,New York Islanders,Anaheim Ducks,20220200321,2022020032,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-10-15T22:30:17Z,1,00:00,20:00,0,0,,,
+1,2,24,New York Islanders,Anaheim Ducks,202202003253,2022020032,Period Ready,53,PERIOD_READY,Period Ready,2022-10-15T23:36:56Z,1,00:00,20:00,0,0,,,
+2,2,24,New York Islanders,Anaheim Ducks,202202003256,2022020032,Period Start,56,PERIOD_START,Period Start,2022-10-15T23:38:05Z,1,00:00,20:00,0,0,,,
+3,2,24,New York Islanders,Anaheim Ducks,2022020032101,2022020032,Faceoff,101,FACEOFF,Casey Cizikas faceoff won against Derek Grant,2022-10-15T23:38:05Z,1,00:00,20:00,0,0,2.0,New York Islanders,NYI
+4,2,24,New York Islanders,Anaheim Ducks,202202003257,2022020032,Stoppage,57,STOP,Icing,2022-10-15T23:38:14Z,1,00:10,19:50,0,0,,,
+5,2,24,New York Islanders,Anaheim Ducks,2022020032102,2022020032,Faceoff,102,FACEOFF,Casey Cizikas faceoff won against Frank Vatrano,2022-10-15T23:38:45Z,1,00:10,19:50,0,0,2.0,New York Islanders,NYI
+6,2,24,New York Islanders,Anaheim Ducks,202202003258,2022020032,Hit,58,HIT,Cal Clutterbuck hit John Klingberg,2022-10-15T23:39:11Z,1,00:36,19:24,0,0,2.0,New York Islanders,NYI
+7,2,24,New York Islanders,Anaheim Ducks,202202003259,2022020032,Stoppage,59,STOP,Icing,2022-10-15T23:39:14Z,1,00:38,19:22,0,0,,,
+8,2,24,New York Islanders,Anaheim Ducks,2022020032103,2022020032,Faceoff,103,FACEOFF,Trevor Zegras faceoff won against Brock Nelson,2022-10-15T23:39:39Z,1,00:38,19:22,0,0,24.0,Anaheim Ducks,ANA
+9,2,24,New York Islanders,Anaheim Ducks,2022020032153,2022020032,Blocked Shot,153,BLOCKED_SHOT,Adam Pelech shot blocked shot by Pavol Regenda,2022-10-15T23:39:44Z,1,00:43,19:17,0,0,24.0,Anaheim Ducks,ANA
+10,2,24,New York Islanders,Anaheim Ducks,2022020032157,2022020032,Missed Shot,157,MISSED_SHOT,Mason McTavish Wide of Net Ilya Sorokin,2022-10-15T23:40:25Z,1,01:24,18:36,0,0,24.0,Anaheim Ducks,ANA
+11,2,24,New York Islanders,Anaheim Ducks,2022020032451,2022020032,Missed Shot,451,MISSED_SHOT,Troy Terry Wide of Net Ilya Sorokin,2022-10-15T23:40:41Z,1,01:40,18:20,0,0,24.0,Anaheim Ducks,ANA
+12,2,24,New York Islanders,Anaheim Ducks,2022020032156,2022020032,Missed Shot,156,MISSED_SHOT,Jamie Drysdale Wide of Net Ilya Sorokin,2022-10-15T23:40:46Z,1,01:45,18:15,0,0,24.0,Anaheim Ducks,ANA
+13,2,24,New York Islanders,Anaheim Ducks,2022020032253,2022020032,Penalty,253,PENALTY,Ryan Strome Hooking against Alexander Romanov,2022-10-15T23:40:46Z,1,01:46,18:14,0,0,24.0,Anaheim Ducks,ANA
+14,2,24,New York Islanders,Anaheim Ducks,2022020032104,2022020032,Faceoff,104,FACEOFF,Derek Grant faceoff won against Brock Nelson,2022-10-15T23:41:25Z,1,01:46,18:14,0,0,24.0,Anaheim Ducks,ANA
+15,2,24,New York Islanders,Anaheim Ducks,202202003260,2022020032,Stoppage,60,STOP,Offside,2022-10-15T23:41:45Z,1,02:06,17:54,0,0,,,
+16,2,24,New York Islanders,Anaheim Ducks,2022020032105,2022020032,Faceoff,105,FACEOFF,Brock Nelson faceoff won against Isac Lundestrom,2022-10-15T23:42:12Z,1,02:06,17:54,0,0,2.0,New York Islanders,NYI
+17,2,24,New York Islanders,Anaheim Ducks,2022020032158,2022020032,Blocked Shot,158,BLOCKED_SHOT,Brock Nelson shot blocked shot by Dmitry Kulikov,2022-10-15T23:42:35Z,1,02:29,17:31,0,0,24.0,Anaheim Ducks,ANA
+18,2,24,New York Islanders,Anaheim Ducks,202202003261,2022020032,Stoppage,61,STOP,Goalie Stopped,2022-10-15T23:42:43Z,1,02:36,17:24,0,0,,,
+19,2,24,New York Islanders,Anaheim Ducks,2022020032159,2022020032,Shot,159,SHOT,Noah Dobson Wrist Shot saved by John Gibson,2022-10-15T23:42:43Z,1,02:36,17:24,0,0,2.0,New York Islanders,NYI
+20,2,24,New York Islanders,Anaheim Ducks,2022020032106,2022020032,Faceoff,106,FACEOFF,Jean-Gabriel Pageau faceoff won against Derek Grant,2022-10-15T23:43:13Z,1,02:36,17:24,0,0,2.0,New York Islanders,NYI
+21,2,24,New York Islanders,Anaheim Ducks,2022020032160,2022020032,Shot,160,SHOT,Zach Parise Tip-In saved by John Gibson,2022-10-15T23:43:32Z,1,02:55,17:05,0,0,2.0,New York Islanders,NYI
+22,2,24,New York Islanders,Anaheim Ducks,2022020032107,2022020032,Giveaway,107,GIVEAWAY,Giveaway by Zach Parise,2022-10-15T23:43:40Z,1,03:03,16:57,0,0,2.0,New York Islanders,NYI
+23,2,24,New York Islanders,Anaheim Ducks,2022020032161,2022020032,Shot,161,SHOT,Anthony Beauvillier Slap Shot saved by John Gibson,2022-10-15T23:44:16Z,1,03:39,16:21,0,0,2.0,New York Islanders,NYI
+24,2,24,New York Islanders,Anaheim Ducks,202202003263,2022020032,Hit,63,HIT,Casey Cizikas hit John Klingberg,2022-10-15T23:44:35Z,1,03:58,16:02,0,0,2.0,New York Islanders,NYI
+25,2,24,New York Islanders,Anaheim Ducks,2022020032452,2022020032,Blocked Shot,452,BLOCKED_SHOT,Troy Terry shot blocked shot by Adam Pelech,2022-10-15T23:44:36Z,1,03:59,16:01,0,0,2.0,New York Islanders,NYI
+26,2,24,New York Islanders,Anaheim Ducks,2022020032162,2022020032,Blocked Shot,162,BLOCKED_SHOT,Troy Terry shot blocked shot by Adam Pelech,2022-10-15T23:44:38Z,1,04:01,15:59,0,0,2.0,New York Islanders,NYI
+27,2,24,New York Islanders,Anaheim Ducks,202202003264,2022020032,Hit,64,HIT,Matt Martin hit Ryan Strome,2022-10-15T23:44:49Z,1,04:12,15:48,0,0,2.0,New York Islanders,NYI
+28,2,24,New York Islanders,Anaheim Ducks,2022020032163,2022020032,Shot,163,SHOT,Cal Clutterbuck Snap Shot saved by John Gibson,2022-10-15T23:44:49Z,1,04:12,15:48,0,0,2.0,New York Islanders,NYI
+29,2,24,New York Islanders,Anaheim Ducks,2022020032190,2022020032,Shot,190,SHOT,Cal Clutterbuck Wrist Shot saved by John Gibson,2022-10-15T23:44:49Z,1,04:12,15:48,0,0,2.0,New York Islanders,NYI
+30,2,24,New York Islanders,Anaheim Ducks,202202003265,2022020032,Stoppage,65,STOP,Puck Frozen,2022-10-15T23:44:59Z,1,04:22,15:38,0,0,,,
+31,2,24,New York Islanders,Anaheim Ducks,2022020032453,2022020032,Blocked Shot,453,BLOCKED_SHOT,Scott Mayfield shot blocked shot by Dmitry Kulikov,2022-10-15T23:44:59Z,1,04:22,15:38,0,0,24.0,Anaheim Ducks,ANA
+32,2,24,New York Islanders,Anaheim Ducks,2022020032108,2022020032,Faceoff,108,FACEOFF,Brock Nelson faceoff won against Derek Grant,2022-10-15T23:45:46Z,1,04:22,15:38,0,0,2.0,New York Islanders,NYI
+33,2,24,New York Islanders,Anaheim Ducks,2022020032164,2022020032,Blocked Shot,164,BLOCKED_SHOT,Robin Salo shot blocked shot by Jamie Drysdale,2022-10-15T23:46:02Z,1,04:38,15:22,0,0,24.0,Anaheim Ducks,ANA
+34,2,24,New York Islanders,Anaheim Ducks,202202003266,2022020032,Hit,66,HIT,Anders Lee hit Dmitry Kulikov,2022-10-15T23:46:17Z,1,04:53,15:07,0,0,2.0,New York Islanders,NYI
+35,2,24,New York Islanders,Anaheim Ducks,202202003267,2022020032,Stoppage,67,STOP,Goalie Stopped,2022-10-15T23:46:21Z,1,04:57,15:03,0,0,,,
+36,2,24,New York Islanders,Anaheim Ducks,2022020032165,2022020032,Shot,165,SHOT,Scott Mayfield Wrist Shot saved by John Gibson,2022-10-15T23:46:21Z,1,04:57,15:03,0,0,2.0,New York Islanders,NYI
+37,2,24,New York Islanders,Anaheim Ducks,2022020032109,2022020032,Faceoff,109,FACEOFF,Adam Henrique faceoff won against Mathew Barzal,2022-10-15T23:47:05Z,1,04:57,15:03,0,0,24.0,Anaheim Ducks,ANA
+38,2,24,New York Islanders,Anaheim Ducks,2022020032166,2022020032,Shot,166,SHOT,Simon Benoit Wrist Shot saved by Ilya Sorokin,2022-10-15T23:47:21Z,1,05:13,14:47,0,0,24.0,Anaheim Ducks,ANA
+39,2,24,New York Islanders,Anaheim Ducks,202202003268,2022020032,Missed Shot,68,MISSED_SHOT,Adam Henrique Wide of Net Ilya Sorokin,2022-10-15T23:47:22Z,1,05:14,14:46,0,0,24.0,Anaheim Ducks,ANA
+40,2,24,New York Islanders,Anaheim Ducks,2022020032110,2022020032,Giveaway,110,GIVEAWAY,Giveaway by Noah Dobson,2022-10-15T23:47:43Z,1,05:35,14:25,0,0,2.0,New York Islanders,NYI
+41,2,24,New York Islanders,Anaheim Ducks,202202003270,2022020032,Stoppage,70,STOP,Offside,2022-10-15T23:48:06Z,1,05:58,14:02,0,0,,,
+42,2,24,New York Islanders,Anaheim Ducks,2022020032111,2022020032,Faceoff,111,FACEOFF,Ryan Strome faceoff won against Jean-Gabriel Pageau,2022-10-15T23:48:34Z,1,05:58,14:02,0,0,24.0,Anaheim Ducks,ANA
+43,2,24,New York Islanders,Anaheim Ducks,202202003271,2022020032,Giveaway,71,GIVEAWAY,Giveaway by Jean-Gabriel Pageau,2022-10-15T23:48:52Z,1,06:16,13:44,0,0,2.0,New York Islanders,NYI
+44,2,24,New York Islanders,Anaheim Ducks,2022020032167,2022020032,Shot,167,SHOT,Dmitry Kulikov Wrist Shot saved by Ilya Sorokin,2022-10-15T23:48:56Z,1,06:20,13:40,0,0,24.0,Anaheim Ducks,ANA
+45,2,24,New York Islanders,Anaheim Ducks,202202003272,2022020032,Hit,72,HIT,Dmitry Kulikov hit Jean-Gabriel Pageau,2022-10-15T23:49:03Z,1,06:27,13:33,0,0,24.0,Anaheim Ducks,ANA
+46,2,24,New York Islanders,Anaheim Ducks,2022020032168,2022020032,Shot,168,SHOT,Jean-Gabriel Pageau Wrist Shot saved by John Gibson,2022-10-15T23:49:13Z,1,06:37,13:23,0,0,2.0,New York Islanders,NYI
+47,2,24,New York Islanders,Anaheim Ducks,202202003273,2022020032,Hit,73,HIT,Cal Clutterbuck hit Simon Benoit,2022-10-15T23:49:46Z,1,07:10,12:50,0,0,2.0,New York Islanders,NYI
+48,2,24,New York Islanders,Anaheim Ducks,202202003274,2022020032,Hit,74,HIT,Cal Clutterbuck hit Max Comtois,2022-10-15T23:49:57Z,1,07:21,12:39,0,0,2.0,New York Islanders,NYI
+49,2,24,New York Islanders,Anaheim Ducks,2022020032169,2022020032,Blocked Shot,169,BLOCKED_SHOT,Simon Benoit shot blocked shot by Casey Cizikas,2022-10-15T23:50:01Z,1,07:25,12:35,0,0,2.0,New York Islanders,NYI
+50,2,24,New York Islanders,Anaheim Ducks,202202003275,2022020032,Blocked Shot,75,BLOCKED_SHOT,Matt Martin shot blocked shot by Kevin Shattenkirk,2022-10-15T23:50:06Z,1,07:30,12:30,0,0,24.0,Anaheim Ducks,ANA
+51,2,24,New York Islanders,Anaheim Ducks,202202003276,2022020032,Stoppage,76,STOP,Offside,2022-10-15T23:50:51Z,1,08:15,11:45,0,0,,,
+52,2,24,New York Islanders,Anaheim Ducks,2022020032112,2022020032,Faceoff,112,FACEOFF,Mathew Barzal faceoff won against Trevor Zegras,2022-10-15T23:53:03Z,1,08:15,11:45,0,0,2.0,New York Islanders,NYI
+53,2,24,New York Islanders,Anaheim Ducks,202202003277,2022020032,Giveaway,77,GIVEAWAY,Giveaway by Ryan Pulock,2022-10-15T23:53:16Z,1,08:28,11:32,0,0,2.0,New York Islanders,NYI
+54,2,24,New York Islanders,Anaheim Ducks,2022020032173,2022020032,Blocked Shot,173,BLOCKED_SHOT,Cam Fowler shot blocked shot by Ryan Pulock,2022-10-15T23:53:32Z,1,08:44,11:16,0,0,2.0,New York Islanders,NYI
+55,2,24,New York Islanders,Anaheim Ducks,2022020032114,2022020032,Giveaway,114,GIVEAWAY,Giveaway by Trevor Zegras,2022-10-15T23:53:44Z,1,08:56,11:04,0,0,24.0,Anaheim Ducks,ANA
+56,2,24,New York Islanders,Anaheim Ducks,2022020032174,2022020032,Missed Shot,174,MISSED_SHOT,Noah Dobson Wide of Net John Gibson,2022-10-15T23:54:06Z,1,09:18,10:42,0,0,2.0,New York Islanders,NYI
+57,2,24,New York Islanders,Anaheim Ducks,2022020032115,2022020032,Takeaway,115,TAKEAWAY,Takeaway by Troy Terry,2022-10-15T23:54:34Z,1,09:46,10:14,0,0,24.0,Anaheim Ducks,ANA
+58,2,24,New York Islanders,Anaheim Ducks,2022020032175,2022020032,Shot,175,SHOT,Ryan Strome Wrist Shot saved by Ilya Sorokin,2022-10-15T23:54:38Z,1,09:50,10:10,0,0,24.0,Anaheim Ducks,ANA
+59,2,24,New York Islanders,Anaheim Ducks,202202003278,2022020032,Blocked Shot,78,BLOCKED_SHOT,Mason McTavish shot blocked shot by Alexander Romanov,2022-10-15T23:54:44Z,1,09:56,10:04,0,0,2.0,New York Islanders,NYI
+60,2,24,New York Islanders,Anaheim Ducks,2022020032116,2022020032,Takeaway,116,TAKEAWAY,Takeaway by Anthony Beauvillier,2022-10-15T23:55:17Z,1,10:29,09:31,0,0,2.0,New York Islanders,NYI
+61,2,24,New York Islanders,Anaheim Ducks,2022020032177,2022020032,Missed Shot,177,MISSED_SHOT,Anders Lee Wide of Net John Gibson,2022-10-15T23:55:20Z,1,10:32,09:28,0,0,2.0,New York Islanders,NYI
+62,2,24,New York Islanders,Anaheim Ducks,2022020032176,2022020032,Goal,176,GOAL,"Scott Mayfield (1) Wrist Shot, assists: Anders Lee (1), Anthony Beauvillier (1)",2022-10-15T23:55:23Z,1,10:34,09:26,1,0,2.0,New York Islanders,NYI
+63,2,24,New York Islanders,Anaheim Ducks,202202003279,2022020032,Faceoff,79,FACEOFF,Brock Nelson faceoff won against Isac Lundestrom,2022-10-15T23:56:24Z,1,10:34,09:26,1,0,2.0,New York Islanders,NYI
+64,2,24,New York Islanders,Anaheim Ducks,202202003280,2022020032,Stoppage,80,STOP,Goalie Stopped,2022-10-15T23:56:36Z,1,10:47,09:13,1,0,,,
+65,2,24,New York Islanders,Anaheim Ducks,2022020032178,2022020032,Shot,178,SHOT,Adam Henrique Backhand saved by Ilya Sorokin,2022-10-15T23:56:36Z,1,10:47,09:13,1,0,24.0,Anaheim Ducks,ANA
+66,2,24,New York Islanders,Anaheim Ducks,2022020032118,2022020032,Faceoff,118,FACEOFF,Brock Nelson faceoff won against Ryan Strome,2022-10-15T23:58:49Z,1,10:47,09:13,1,0,2.0,New York Islanders,NYI
+67,2,24,New York Islanders,Anaheim Ducks,2022020032179,2022020032,Blocked Shot,179,BLOCKED_SHOT,Jamie Drysdale shot blocked shot by Anders Lee,2022-10-15T23:58:55Z,1,10:53,09:07,1,0,2.0,New York Islanders,NYI
+68,2,24,New York Islanders,Anaheim Ducks,2022020032181,2022020032,Blocked Shot,181,BLOCKED_SHOT,Anthony Beauvillier shot blocked shot by Dmitry Kulikov,2022-10-15T23:59:23Z,1,11:21,08:39,1,0,24.0,Anaheim Ducks,ANA
+69,2,24,New York Islanders,Anaheim Ducks,2022020032454,2022020032,Blocked Shot,454,BLOCKED_SHOT,Dmitry Kulikov shot blocked shot by Brock Nelson,2022-10-15T23:59:31Z,1,11:29,08:31,1,0,2.0,New York Islanders,NYI
+70,2,24,New York Islanders,Anaheim Ducks,202202003281,2022020032,Hit,81,HIT,Adam Pelech hit Jamie Drysdale,2022-10-15T23:59:35Z,1,11:33,08:27,1,0,2.0,New York Islanders,NYI
+71,2,24,New York Islanders,Anaheim Ducks,202202003282,2022020032,Shot,82,SHOT,Adam Pelech Wrist Shot saved by John Gibson,2022-10-15T23:59:48Z,1,11:46,08:14,1,0,2.0,New York Islanders,NYI
+72,2,24,New York Islanders,Anaheim Ducks,2022020032119,2022020032,Giveaway,119,GIVEAWAY,Giveaway by Pavol Regenda,2022-10-16T00:00:08Z,1,12:06,07:54,1,0,24.0,Anaheim Ducks,ANA
+73,2,24,New York Islanders,Anaheim Ducks,202202003283,2022020032,Hit,83,HIT,Kevin Shattenkirk hit Matt Martin,2022-10-16T00:00:10Z,1,12:08,07:52,1,0,24.0,Anaheim Ducks,ANA
+74,2,24,New York Islanders,Anaheim Ducks,2022020032182,2022020032,Goal,182,GOAL,"Noah Dobson (2) Wrist Shot, assists: Matt Martin (1)",2022-10-16T00:00:10Z,1,12:08,07:52,2,0,2.0,New York Islanders,NYI
+75,2,24,New York Islanders,Anaheim Ducks,202202003284,2022020032,Faceoff,84,FACEOFF,Casey Cizikas faceoff won against Trevor Zegras,2022-10-16T00:00:45Z,1,12:08,07:52,2,0,2.0,New York Islanders,NYI
+76,2,24,New York Islanders,Anaheim Ducks,202202003285,2022020032,Hit,85,HIT,Cal Clutterbuck hit Pavol Regenda,2022-10-16T00:01:04Z,1,12:27,07:33,2,0,2.0,New York Islanders,NYI
+77,2,24,New York Islanders,Anaheim Ducks,2022020032120,2022020032,Giveaway,120,GIVEAWAY,Giveaway by Matt Martin,2022-10-16T00:01:25Z,1,12:48,07:12,2,0,2.0,New York Islanders,NYI
+78,2,24,New York Islanders,Anaheim Ducks,202202003287,2022020032,Stoppage,87,STOP,Puck in Netting,2022-10-16T00:02:56Z,1,14:19,05:41,2,0,,,
+79,2,24,New York Islanders,Anaheim Ducks,2022020032183,2022020032,Blocked Shot,183,BLOCKED_SHOT,Derek Grant shot blocked shot by Ryan Pulock,2022-10-16T00:02:56Z,1,14:19,05:41,2,0,2.0,New York Islanders,NYI
+80,2,24,New York Islanders,Anaheim Ducks,2022020032121,2022020032,Faceoff,121,FACEOFF,Trevor Zegras faceoff won against Jean-Gabriel Pageau,2022-10-16T00:05:09Z,1,14:19,05:41,2,0,24.0,Anaheim Ducks,ANA
+81,2,24,New York Islanders,Anaheim Ducks,202202003288,2022020032,Shot,88,SHOT,John Klingberg Wrist Shot saved by Ilya Sorokin,2022-10-16T00:05:17Z,1,14:27,05:33,2,0,24.0,Anaheim Ducks,ANA
+82,2,24,New York Islanders,Anaheim Ducks,202202003289,2022020032,Stoppage,89,STOP,Goalie Stopped,2022-10-16T00:05:17Z,1,14:27,05:33,2,0,,,
+83,2,24,New York Islanders,Anaheim Ducks,2022020032122,2022020032,Faceoff,122,FACEOFF,Ryan Strome faceoff won against Anders Lee,2022-10-16T00:05:51Z,1,14:27,05:33,2,0,24.0,Anaheim Ducks,ANA
+84,2,24,New York Islanders,Anaheim Ducks,2022020032351,2022020032,Penalty,351,PENALTY,Adam Pelech Cross-checking against Troy Terry,2022-10-16T00:06:02Z,1,14:39,05:21,2,0,2.0,New York Islanders,NYI
+85,2,24,New York Islanders,Anaheim Ducks,2022020032123,2022020032,Faceoff,123,FACEOFF,Ryan Strome faceoff won against Casey Cizikas,2022-10-16T00:06:37Z,1,14:39,05:21,2,0,24.0,Anaheim Ducks,ANA
+86,2,24,New York Islanders,Anaheim Ducks,202202003290,2022020032,Stoppage,90,STOP,Puck in Crowd,2022-10-16T00:07:14Z,1,15:15,04:45,2,0,,,
+87,2,24,New York Islanders,Anaheim Ducks,2022020032124,2022020032,Faceoff,124,FACEOFF,Jean-Gabriel Pageau faceoff won against Pavol Regenda,2022-10-16T00:07:50Z,1,15:15,04:45,2,0,2.0,New York Islanders,NYI
+88,2,24,New York Islanders,Anaheim Ducks,2022020032125,2022020032,Takeaway,125,TAKEAWAY,Takeaway by Jean-Gabriel Pageau,2022-10-16T00:08:22Z,1,15:47,04:13,2,0,2.0,New York Islanders,NYI
+89,2,24,New York Islanders,Anaheim Ducks,2022020032126,2022020032,Giveaway,126,GIVEAWAY,Giveaway by Anthony Beauvillier,2022-10-16T00:09:25Z,1,16:50,03:10,2,0,2.0,New York Islanders,NYI
+90,2,24,New York Islanders,Anaheim Ducks,2022020032127,2022020032,Giveaway,127,GIVEAWAY,Giveaway by Brock Nelson,2022-10-16T00:09:30Z,1,16:55,03:05,2,0,2.0,New York Islanders,NYI
+91,2,24,New York Islanders,Anaheim Ducks,2022020032455,2022020032,Blocked Shot,455,BLOCKED_SHOT,Mason McTavish shot blocked shot by Brock Nelson,2022-10-16T00:09:42Z,1,17:07,02:53,2,0,2.0,New York Islanders,NYI
+92,2,24,New York Islanders,Anaheim Ducks,202202003292,2022020032,Hit,92,HIT,Simon Benoit hit Anders Lee,2022-10-16T00:09:59Z,1,17:24,02:36,2,0,24.0,Anaheim Ducks,ANA
+93,2,24,New York Islanders,Anaheim Ducks,202202003293,2022020032,Hit,93,HIT,Ryan Pulock hit Jakob Silfverberg,2022-10-16T00:10:17Z,1,17:42,02:18,2,0,2.0,New York Islanders,NYI
+94,2,24,New York Islanders,Anaheim Ducks,2022020032456,2022020032,Shot,456,SHOT,Zach Parise Wrist Shot saved by John Gibson,2022-10-16T00:10:50Z,1,18:15,01:45,2,0,2.0,New York Islanders,NYI
+95,2,24,New York Islanders,Anaheim Ducks,2022020032189,2022020032,Missed Shot,189,MISSED_SHOT,Zach Parise Wide of Net John Gibson,2022-10-16T00:11:00Z,1,18:25,01:35,2,0,2.0,New York Islanders,NYI
+96,2,24,New York Islanders,Anaheim Ducks,2022020032185,2022020032,Shot,185,SHOT,Ryan Pulock Wrist Shot saved by John Gibson,2022-10-16T00:11:01Z,1,18:26,01:34,2,0,2.0,New York Islanders,NYI
+97,2,24,New York Islanders,Anaheim Ducks,202202003294,2022020032,Stoppage,94,STOP,Goalie Stopped,2022-10-16T00:11:02Z,1,18:27,01:33,2,0,,,
+98,2,24,New York Islanders,Anaheim Ducks,2022020032186,2022020032,Shot,186,SHOT,Zach Parise Backhand saved by John Gibson,2022-10-16T00:11:02Z,1,18:27,01:33,2,0,2.0,New York Islanders,NYI
+99,2,24,New York Islanders,Anaheim Ducks,2022020032128,2022020032,Faceoff,128,FACEOFF,Jean-Gabriel Pageau faceoff won against Isac Lundestrom,2022-10-16T00:12:00Z,1,18:27,01:33,2,0,2.0,New York Islanders,NYI
+100,2,24,New York Islanders,Anaheim Ducks,2022020032457,2022020032,Blocked Shot,457,BLOCKED_SHOT,Isac Lundestrom shot blocked shot by Scott Mayfield,2022-10-16T00:12:26Z,1,18:53,01:07,2,0,2.0,New York Islanders,NYI
+101,2,24,New York Islanders,Anaheim Ducks,2022020032187,2022020032,Shot,187,SHOT,Isac Lundestrom Wrist Shot saved by Ilya Sorokin,2022-10-16T00:12:30Z,1,18:57,01:03,2,0,24.0,Anaheim Ducks,ANA
+102,2,24,New York Islanders,Anaheim Ducks,2022020032281,2022020032,Penalty,281,PENALTY,Isac Lundestrom Interference against Jean-Gabriel Pageau,2022-10-16T00:12:31Z,1,18:58,01:02,2,0,24.0,Anaheim Ducks,ANA
+103,2,24,New York Islanders,Anaheim Ducks,2022020032129,2022020032,Faceoff,129,FACEOFF,Ryan Strome faceoff won against Brock Nelson,2022-10-16T00:13:19Z,1,18:58,01:02,2,0,24.0,Anaheim Ducks,ANA
+104,2,24,New York Islanders,Anaheim Ducks,202202003295,2022020032,Stoppage,95,STOP,Goalie Stopped,2022-10-16T00:13:49Z,1,19:27,00:33,2,0,,,
+105,2,24,New York Islanders,Anaheim Ducks,2022020032188,2022020032,Shot,188,SHOT,Kyle Palmieri Snap Shot saved by John Gibson,2022-10-16T00:13:49Z,1,19:27,00:33,2,0,2.0,New York Islanders,NYI
+106,2,24,New York Islanders,Anaheim Ducks,2022020032130,2022020032,Faceoff,130,FACEOFF,Derek Grant faceoff won against Jean-Gabriel Pageau,2022-10-16T00:14:23Z,1,19:27,00:33,2,0,24.0,Anaheim Ducks,ANA
+107,2,24,New York Islanders,Anaheim Ducks,2022020032131,2022020032,Giveaway,131,GIVEAWAY,Giveaway by Mathew Barzal,2022-10-16T00:14:42Z,1,19:47,00:13,2,0,2.0,New York Islanders,NYI
+108,2,24,New York Islanders,Anaheim Ducks,202202003296,2022020032,Stoppage,96,STOP,High Stick,2022-10-16T00:14:53Z,1,19:57,00:03,2,0,,,
+109,2,24,New York Islanders,Anaheim Ducks,2022020032132,2022020032,Faceoff,132,FACEOFF,Brock Nelson faceoff won against Ryan Strome,2022-10-16T00:15:23Z,1,19:57,00:03,2,0,2.0,New York Islanders,NYI
+110,2,24,New York Islanders,Anaheim Ducks,202202003297,2022020032,Period End,97,PERIOD_END,End of 1st Period,2022-10-16T00:15:25Z,1,20:00,00:00,2,0,,,
+111,2,24,New York Islanders,Anaheim Ducks,2022020032100,2022020032,Period Official,100,PERIOD_OFFICIAL,Period Official,2022-10-16T00:31:31Z,1,20:00,00:00,2,0,,,
+112,2,24,New York Islanders,Anaheim Ducks,2022020032401,2022020032,Period Ready,401,PERIOD_READY,Period Ready,2022-10-16T00:34:04Z,2,00:00,20:00,2,0,,,
+113,2,24,New York Islanders,Anaheim Ducks,2022020032133,2022020032,Period Start,133,PERIOD_START,Period Start,2022-10-16T00:34:16Z,2,00:00,20:00,2,0,,,
+114,2,24,New York Islanders,Anaheim Ducks,2022020032134,2022020032,Faceoff,134,FACEOFF,Derek Grant faceoff won against Brock Nelson,2022-10-16T00:34:16Z,2,00:00,20:00,2,0,24.0,Anaheim Ducks,ANA
+115,2,24,New York Islanders,Anaheim Ducks,2022020032375,2022020032,Penalty,375,PENALTY,Mathew Barzal Hooking against Jakob Silfverberg,2022-10-16T00:34:24Z,2,00:08,19:52,2,0,2.0,New York Islanders,NYI
+116,2,24,New York Islanders,Anaheim Ducks,2022020032135,2022020032,Faceoff,135,FACEOFF,Adam Henrique faceoff won against Jean-Gabriel Pageau,2022-10-16T00:35:07Z,2,00:08,19:52,2,0,24.0,Anaheim Ducks,ANA
+117,2,24,New York Islanders,Anaheim Ducks,2022020032191,2022020032,Shot,191,SHOT,Frank Vatrano Wrist Shot saved by Ilya Sorokin,2022-10-16T00:35:36Z,2,00:38,19:22,2,0,24.0,Anaheim Ducks,ANA
+118,2,24,New York Islanders,Anaheim Ducks,2022020032402,2022020032,Stoppage,402,STOP,Goalie Stopped,2022-10-16T00:35:36Z,2,00:38,19:22,2,0,,,
+119,2,24,New York Islanders,Anaheim Ducks,2022020032136,2022020032,Faceoff,136,FACEOFF,Casey Cizikas faceoff won against Derek Grant,2022-10-16T00:36:08Z,2,00:38,19:22,2,0,2.0,New York Islanders,NYI
+120,2,24,New York Islanders,Anaheim Ducks,2022020032192,2022020032,Missed Shot,192,MISSED_SHOT,Cal Clutterbuck Wide of Net John Gibson,2022-10-16T00:36:28Z,2,00:58,19:02,2,0,2.0,New York Islanders,NYI
+121,2,24,New York Islanders,Anaheim Ducks,2022020032193,2022020032,Blocked Shot,193,BLOCKED_SHOT,Troy Terry shot blocked shot by Alexander Romanov,2022-10-16T00:37:14Z,2,01:44,18:16,2,0,2.0,New York Islanders,NYI
+122,2,24,New York Islanders,Anaheim Ducks,2022020032194,2022020032,Shot,194,SHOT,Troy Terry Wrist Shot saved by Ilya Sorokin,2022-10-16T00:38:02Z,2,02:32,17:28,2,0,24.0,Anaheim Ducks,ANA
+123,2,24,New York Islanders,Anaheim Ducks,2022020032195,2022020032,Blocked Shot,195,BLOCKED_SHOT,Ryan Strome shot blocked shot by Brock Nelson,2022-10-16T00:38:02Z,2,02:32,17:28,2,0,2.0,New York Islanders,NYI
+124,2,24,New York Islanders,Anaheim Ducks,2022020032403,2022020032,Stoppage,403,STOP,Puck in Netting,2022-10-16T00:38:04Z,2,02:34,17:26,2,0,,,
+125,2,24,New York Islanders,Anaheim Ducks,2022020032137,2022020032,Faceoff,137,FACEOFF,Brock Nelson faceoff won against Isac Lundestrom,2022-10-16T00:38:32Z,2,02:34,17:26,2,0,2.0,New York Islanders,NYI
+126,2,24,New York Islanders,Anaheim Ducks,2022020032404,2022020032,Stoppage,404,STOP,Icing,2022-10-16T00:38:40Z,2,02:41,17:19,2,0,,,
+127,2,24,New York Islanders,Anaheim Ducks,2022020032138,2022020032,Faceoff,138,FACEOFF,Isac Lundestrom faceoff won against Brock Nelson,2022-10-16T00:39:18Z,2,02:41,17:19,2,0,24.0,Anaheim Ducks,ANA
+128,2,24,New York Islanders,Anaheim Ducks,2022020032196,2022020032,Shot,196,SHOT,Isac Lundestrom Wrist Shot saved by Ilya Sorokin,2022-10-16T00:39:23Z,2,02:46,17:14,2,0,24.0,Anaheim Ducks,ANA
+129,2,24,New York Islanders,Anaheim Ducks,2022020032405,2022020032,Hit,405,HIT,Max Comtois hit Anders Lee,2022-10-16T00:39:39Z,2,03:02,16:58,2,0,24.0,Anaheim Ducks,ANA
+130,2,24,New York Islanders,Anaheim Ducks,2022020032197,2022020032,Blocked Shot,197,BLOCKED_SHOT,Isac Lundestrom shot blocked shot by Anthony Beauvillier,2022-10-16T00:39:50Z,2,03:13,16:47,2,0,2.0,New York Islanders,NYI
+131,2,24,New York Islanders,Anaheim Ducks,2022020032139,2022020032,Giveaway,139,GIVEAWAY,Giveaway by Zach Parise,2022-10-16T00:40:10Z,2,03:33,16:27,2,0,2.0,New York Islanders,NYI
+132,2,24,New York Islanders,Anaheim Ducks,2022020032406,2022020032,Hit,406,HIT,Pavol Regenda hit Mathew Barzal,2022-10-16T00:40:28Z,2,03:51,16:09,2,0,24.0,Anaheim Ducks,ANA
+133,2,24,New York Islanders,Anaheim Ducks,2022020032407,2022020032,Hit,407,HIT,Pavol Regenda hit Kyle Palmieri,2022-10-16T00:40:41Z,2,04:04,15:56,2,0,24.0,Anaheim Ducks,ANA
+134,2,24,New York Islanders,Anaheim Ducks,2022020032198,2022020032,Shot,198,SHOT,Cal Clutterbuck Tip-In saved by John Gibson,2022-10-16T00:40:57Z,2,04:20,15:40,2,0,2.0,New York Islanders,NYI
+135,2,24,New York Islanders,Anaheim Ducks,2022020032199,2022020032,Shot,199,SHOT,Frank Vatrano Slap Shot saved by Ilya Sorokin,2022-10-16T00:41:18Z,2,04:41,15:19,2,0,24.0,Anaheim Ducks,ANA
+136,2,24,New York Islanders,Anaheim Ducks,2022020032408,2022020032,Stoppage,408,STOP,Goalie Stopped,2022-10-16T00:41:18Z,2,04:41,15:19,2,0,,,
+137,2,24,New York Islanders,Anaheim Ducks,2022020032140,2022020032,Faceoff,140,FACEOFF,Casey Cizikas faceoff won against Ryan Strome,2022-10-16T00:41:52Z,2,04:41,15:19,2,0,2.0,New York Islanders,NYI
+138,2,24,New York Islanders,Anaheim Ducks,2022020032200,2022020032,Missed Shot,200,MISSED_SHOT,Mason McTavish Wide of Net Ilya Sorokin,2022-10-16T00:42:14Z,2,05:03,14:57,2,0,24.0,Anaheim Ducks,ANA
+139,2,24,New York Islanders,Anaheim Ducks,2022020032141,2022020032,Takeaway,141,TAKEAWAY,Takeaway by Jean-Gabriel Pageau,2022-10-16T00:42:41Z,2,05:30,14:30,2,0,2.0,New York Islanders,NYI
+140,2,24,New York Islanders,Anaheim Ducks,2022020032501,2022020032,Goal,501,GOAL,"Oliver Wahlstrom (1) Backhand, assists: Jean-Gabriel Pageau (1)",2022-10-16T00:42:46Z,2,05:34,14:26,3,0,2.0,New York Islanders,NYI
+141,2,24,New York Islanders,Anaheim Ducks,2022020032409,2022020032,Faceoff,409,FACEOFF,Jean-Gabriel Pageau faceoff won against Derek Grant,2022-10-16T00:43:24Z,2,05:34,14:26,3,0,2.0,New York Islanders,NYI
+142,2,24,New York Islanders,Anaheim Ducks,2022020032414,2022020032,Hit,414,HIT,Max Jones hit Oliver Wahlstrom,2022-10-16T00:43:25Z,2,05:35,14:25,3,0,24.0,Anaheim Ducks,ANA
+143,2,24,New York Islanders,Anaheim Ducks,2022020032410,2022020032,Hit,410,HIT,Oliver Wahlstrom hit Dmitry Kulikov,2022-10-16T00:43:37Z,2,05:47,14:13,3,0,2.0,New York Islanders,NYI
+144,2,24,New York Islanders,Anaheim Ducks,2022020032142,2022020032,Giveaway,142,GIVEAWAY,Giveaway by John Gibson,2022-10-16T00:44:03Z,2,06:13,13:47,3,0,24.0,Anaheim Ducks,ANA
+145,2,24,New York Islanders,Anaheim Ducks,2022020032502,2022020032,Shot,502,SHOT,Anders Lee Backhand saved by John Gibson,2022-10-16T00:44:21Z,2,06:31,13:29,3,0,2.0,New York Islanders,NYI
+146,2,24,New York Islanders,Anaheim Ducks,2022020032411,2022020032,Stoppage,411,STOP,TV timeout,2022-10-16T00:44:31Z,2,06:40,13:20,3,0,,,
+147,2,24,New York Islanders,Anaheim Ducks,2022020032682,2022020032,Penalty,682,PENALTY,Brock Nelson Holding against Max Jones,2022-10-16T00:44:31Z,2,06:40,13:20,3,0,2.0,New York Islanders,NYI
+148,2,24,New York Islanders,Anaheim Ducks,2022020032687,2022020032,Penalty,687,PENALTY,Max Jones High-sticking against Brock Nelson,2022-10-16T00:44:31Z,2,06:40,13:20,3,0,24.0,Anaheim Ducks,ANA
+149,2,24,New York Islanders,Anaheim Ducks,2022020032143,2022020032,Faceoff,143,FACEOFF,Jean-Gabriel Pageau faceoff won against Ryan Strome,2022-10-16T00:46:56Z,2,06:40,13:20,3,0,2.0,New York Islanders,NYI
+150,2,24,New York Islanders,Anaheim Ducks,2022020032503,2022020032,Shot,503,SHOT,Ryan Pulock Wrist Shot saved by John Gibson,2022-10-16T00:47:18Z,2,07:02,12:58,3,0,2.0,New York Islanders,NYI
+151,2,24,New York Islanders,Anaheim Ducks,2022020032504,2022020032,Shot,504,SHOT,Ryan Strome Wrist Shot saved by Ilya Sorokin,2022-10-16T00:47:31Z,2,07:15,12:45,3,0,24.0,Anaheim Ducks,ANA
+152,2,24,New York Islanders,Anaheim Ducks,2022020032505,2022020032,Shot,505,SHOT,Troy Terry Wrist Shot saved by Ilya Sorokin,2022-10-16T00:47:34Z,2,07:18,12:42,3,0,24.0,Anaheim Ducks,ANA
+153,2,24,New York Islanders,Anaheim Ducks,2022020032412,2022020032,Stoppage,412,STOP,Goalie Stopped,2022-10-16T00:47:34Z,2,07:19,12:41,3,0,,,
+154,2,24,New York Islanders,Anaheim Ducks,2022020032144,2022020032,Faceoff,144,FACEOFF,Trevor Zegras faceoff won against Casey Cizikas,2022-10-16T00:48:04Z,2,07:19,12:41,3,0,24.0,Anaheim Ducks,ANA
+155,2,24,New York Islanders,Anaheim Ducks,2022020032145,2022020032,Giveaway,145,GIVEAWAY,Giveaway by Frank Vatrano,2022-10-16T00:48:14Z,2,07:29,12:31,3,0,24.0,Anaheim Ducks,ANA
+156,2,24,New York Islanders,Anaheim Ducks,2022020032413,2022020032,Stoppage,413,STOP,Offside,2022-10-16T00:48:25Z,2,07:39,12:21,3,0,,,
+157,2,24,New York Islanders,Anaheim Ducks,2022020032146,2022020032,Faceoff,146,FACEOFF,Ryan Strome faceoff won against Mathew Barzal,2022-10-16T00:48:53Z,2,07:39,12:21,3,0,24.0,Anaheim Ducks,ANA
+158,2,24,New York Islanders,Anaheim Ducks,2022020032508,2022020032,Blocked Shot,508,BLOCKED_SHOT,Cam Fowler shot blocked shot by Alexander Romanov,2022-10-16T00:49:16Z,2,08:02,11:58,3,0,2.0,New York Islanders,NYI
+159,2,24,New York Islanders,Anaheim Ducks,2022020032509,2022020032,Missed Shot,509,MISSED_SHOT,Noah Dobson Over Net John Gibson,2022-10-16T00:49:26Z,2,08:12,11:48,3,0,2.0,New York Islanders,NYI
+160,2,24,New York Islanders,Anaheim Ducks,2022020032147,2022020032,Giveaway,147,GIVEAWAY,Giveaway by Kyle Palmieri,2022-10-16T00:49:27Z,2,08:13,11:47,3,0,2.0,New York Islanders,NYI
+161,2,24,New York Islanders,Anaheim Ducks,2022020032415,2022020032,Shot,415,SHOT,Anthony Beauvillier Slap Shot saved by John Gibson,2022-10-16T00:49:51Z,2,08:38,11:22,3,0,2.0,New York Islanders,NYI
+162,2,24,New York Islanders,Anaheim Ducks,2022020032416,2022020032,Stoppage,416,STOP,Goalie Stopped,2022-10-16T00:49:51Z,2,08:38,11:22,3,0,,,
+163,2,24,New York Islanders,Anaheim Ducks,2022020032148,2022020032,Faceoff,148,FACEOFF,Anders Lee faceoff won against Derek Grant,2022-10-16T00:50:27Z,2,08:38,11:22,3,0,2.0,New York Islanders,NYI
+164,2,24,New York Islanders,Anaheim Ducks,2022020032417,2022020032,Shot,417,SHOT,Scott Mayfield Wrist Shot saved by John Gibson,2022-10-16T00:50:32Z,2,08:43,11:17,3,0,2.0,New York Islanders,NYI
+165,2,24,New York Islanders,Anaheim Ducks,2022020032418,2022020032,Stoppage,418,STOP,Goalie Stopped,2022-10-16T00:50:32Z,2,08:43,11:17,3,0,,,
+166,2,24,New York Islanders,Anaheim Ducks,2022020032149,2022020032,Faceoff,149,FACEOFF,Derek Grant faceoff won against Brock Nelson,2022-10-16T00:50:57Z,2,08:43,11:17,3,0,24.0,Anaheim Ducks,ANA
+167,2,24,New York Islanders,Anaheim Ducks,2022020032419,2022020032,Hit,419,HIT,Max Jones hit Anders Lee,2022-10-16T00:51:14Z,2,09:00,11:00,3,0,24.0,Anaheim Ducks,ANA
+168,2,24,New York Islanders,Anaheim Ducks,2022020032420,2022020032,Stoppage,420,STOP,Puck Frozen,2022-10-16T00:51:19Z,2,09:04,10:56,3,0,,,
+169,2,24,New York Islanders,Anaheim Ducks,2022020032150,2022020032,Faceoff,150,FACEOFF,Jean-Gabriel Pageau faceoff won against Isac Lundestrom,2022-10-16T00:51:57Z,2,09:04,10:56,3,0,2.0,New York Islanders,NYI
+170,2,24,New York Islanders,Anaheim Ducks,2022020032421,2022020032,Hit,421,HIT,Dmitry Kulikov hit Jean-Gabriel Pageau,2022-10-16T00:52:21Z,2,09:28,10:32,3,0,24.0,Anaheim Ducks,ANA
+171,2,24,New York Islanders,Anaheim Ducks,2022020032458,2022020032,Blocked Shot,458,BLOCKED_SHOT,Adam Henrique shot blocked shot by Adam Pelech,2022-10-16T00:52:43Z,2,09:50,10:10,3,0,2.0,New York Islanders,NYI
+172,2,24,New York Islanders,Anaheim Ducks,2022020032601,2022020032,Giveaway,601,GIVEAWAY,Giveaway by Dmitry Kulikov,2022-10-16T00:52:57Z,2,10:04,09:56,3,0,24.0,Anaheim Ducks,ANA
+173,2,24,New York Islanders,Anaheim Ducks,2022020032511,2022020032,Missed Shot,511,MISSED_SHOT,Ryan Pulock Wide of Net John Gibson,2022-10-16T00:53:01Z,2,10:08,09:52,3,0,2.0,New York Islanders,NYI
+174,2,24,New York Islanders,Anaheim Ducks,2022020032512,2022020032,Shot,512,SHOT,Pavol Regenda Wrist Shot saved by Ilya Sorokin,2022-10-16T00:53:34Z,2,10:41,09:19,3,0,24.0,Anaheim Ducks,ANA
+175,2,24,New York Islanders,Anaheim Ducks,2022020032513,2022020032,Blocked Shot,513,BLOCKED_SHOT,Trevor Zegras shot blocked shot by Alexander Romanov,2022-10-16T00:53:42Z,2,10:49,09:11,3,0,2.0,New York Islanders,NYI
+176,2,24,New York Islanders,Anaheim Ducks,2022020032602,2022020032,Giveaway,602,GIVEAWAY,Giveaway by Noah Dobson,2022-10-16T00:54:01Z,2,11:08,08:52,3,0,2.0,New York Islanders,NYI
+177,2,24,New York Islanders,Anaheim Ducks,2022020032459,2022020032,Missed Shot,459,MISSED_SHOT,Pavol Regenda Wide of Net Ilya Sorokin,2022-10-16T00:54:04Z,2,11:11,08:49,3,0,24.0,Anaheim Ducks,ANA
+178,2,24,New York Islanders,Anaheim Ducks,2022020032422,2022020032,Stoppage,422,STOP,Offside,2022-10-16T00:54:12Z,2,11:19,08:41,3,0,,,
+179,2,24,New York Islanders,Anaheim Ducks,2022020032603,2022020032,Faceoff,603,FACEOFF,Brock Nelson faceoff won against Ryan Strome,2022-10-16T00:56:23Z,2,11:19,08:41,3,0,2.0,New York Islanders,NYI
+180,2,24,New York Islanders,Anaheim Ducks,2022020032423,2022020032,Hit,423,HIT,Anthony Beauvillier hit John Klingberg,2022-10-16T00:56:53Z,2,11:49,08:11,3,0,2.0,New York Islanders,NYI
+181,2,24,New York Islanders,Anaheim Ducks,2022020032460,2022020032,Blocked Shot,460,BLOCKED_SHOT,Ryan Pulock shot blocked shot by John Klingberg,2022-10-16T00:56:53Z,2,11:49,08:11,3,0,24.0,Anaheim Ducks,ANA
+182,2,24,New York Islanders,Anaheim Ducks,2022020032604,2022020032,Giveaway,604,GIVEAWAY,Giveaway by Cam Fowler,2022-10-16T00:57:23Z,2,12:19,07:41,3,0,24.0,Anaheim Ducks,ANA
+183,2,24,New York Islanders,Anaheim Ducks,2022020032516,2022020032,Missed Shot,516,MISSED_SHOT,Ryan Pulock Wide of Net John Gibson,2022-10-16T00:57:27Z,2,12:23,07:37,3,0,2.0,New York Islanders,NYI
+184,2,24,New York Islanders,Anaheim Ducks,2022020032515,2022020032,Shot,515,SHOT,Adam Pelech Wrist Shot saved by John Gibson,2022-10-16T00:57:33Z,2,12:29,07:31,3,0,2.0,New York Islanders,NYI
+185,2,24,New York Islanders,Anaheim Ducks,2022020032424,2022020032,Stoppage,424,STOP,Goalie Stopped,2022-10-16T00:57:35Z,2,12:31,07:29,3,0,,,
+186,2,24,New York Islanders,Anaheim Ducks,2022020032605,2022020032,Faceoff,605,FACEOFF,Isac Lundestrom faceoff won against Mathew Barzal,2022-10-16T00:58:04Z,2,12:31,07:29,3,0,24.0,Anaheim Ducks,ANA
+187,2,24,New York Islanders,Anaheim Ducks,2022020032517,2022020032,Goal,517,GOAL,"Scott Mayfield (2) Slap Shot, assists: Mathew Barzal (2), Zach Parise (1)",2022-10-16T00:58:27Z,2,12:55,07:05,4,0,2.0,New York Islanders,NYI
+188,2,24,New York Islanders,Anaheim Ducks,2022020032425,2022020032,Faceoff,425,FACEOFF,Derek Grant faceoff won against Casey Cizikas,2022-10-16T00:59:05Z,2,12:55,07:05,4,0,24.0,Anaheim Ducks,ANA
+189,2,24,New York Islanders,Anaheim Ducks,2022020032426,2022020032,Stoppage,426,STOP,Puck in Crowd,2022-10-16T00:59:21Z,2,13:11,06:49,4,0,,,
+190,2,24,New York Islanders,Anaheim Ducks,2022020032606,2022020032,Faceoff,606,FACEOFF,Trevor Zegras faceoff won against Matt Martin,2022-10-16T00:59:57Z,2,13:11,06:49,4,0,24.0,Anaheim Ducks,ANA
+191,2,24,New York Islanders,Anaheim Ducks,2022020032461,2022020032,Missed Shot,461,MISSED_SHOT,Pavol Regenda Wide of Net Ilya Sorokin,2022-10-16T01:00:03Z,2,13:17,06:43,4,0,24.0,Anaheim Ducks,ANA
+192,2,24,New York Islanders,Anaheim Ducks,2022020032427,2022020032,Stoppage,427,STOP,Offside,2022-10-16T01:00:12Z,2,13:26,06:34,4,0,,,
+193,2,24,New York Islanders,Anaheim Ducks,2022020032607,2022020032,Faceoff,607,FACEOFF,Jean-Gabriel Pageau faceoff won against Derek Grant,2022-10-16T01:00:43Z,2,13:26,06:34,4,0,2.0,New York Islanders,NYI
+194,2,24,New York Islanders,Anaheim Ducks,2022020032428,2022020032,Hit,428,HIT,Jean-Gabriel Pageau hit John Klingberg,2022-10-16T01:00:55Z,2,13:38,06:22,4,0,2.0,New York Islanders,NYI
+195,2,24,New York Islanders,Anaheim Ducks,2022020032518,2022020032,Shot,518,SHOT,Alexander Romanov Wrist Shot saved by John Gibson,2022-10-16T01:01:09Z,2,13:52,06:08,4,0,2.0,New York Islanders,NYI
+196,2,24,New York Islanders,Anaheim Ducks,2022020032519,2022020032,Goal,519,GOAL,"Anthony Beauvillier (1) Wrist Shot, assists: Ryan Pulock (1), Anders Lee (2)",2022-10-16T01:01:45Z,2,14:27,05:33,5,0,2.0,New York Islanders,NYI
+197,2,24,New York Islanders,Anaheim Ducks,2022020032429,2022020032,Faceoff,429,FACEOFF,Ryan Strome faceoff won against Anders Lee,2022-10-16T01:02:29Z,2,14:27,05:33,5,0,24.0,Anaheim Ducks,ANA
+198,2,24,New York Islanders,Anaheim Ducks,2022020032430,2022020032,Hit,430,HIT,Kevin Shattenkirk hit Brock Nelson,2022-10-16T01:03:02Z,2,15:00,05:00,5,0,24.0,Anaheim Ducks,ANA
+199,2,24,New York Islanders,Anaheim Ducks,2022020032608,2022020032,Takeaway,608,TAKEAWAY,Takeaway by Anthony Beauvillier,2022-10-16T01:03:06Z,2,15:04,04:56,5,0,2.0,New York Islanders,NYI
+200,2,24,New York Islanders,Anaheim Ducks,2022020032520,2022020032,Shot,520,SHOT,Robin Salo Wrist Shot saved by John Gibson,2022-10-16T01:03:10Z,2,15:08,04:52,5,0,2.0,New York Islanders,NYI
+201,2,24,New York Islanders,Anaheim Ducks,2022020032431,2022020032,Hit,431,HIT,Max Comtois hit Kyle Palmieri,2022-10-16T01:04:00Z,2,15:58,04:02,5,0,24.0,Anaheim Ducks,ANA
+202,2,24,New York Islanders,Anaheim Ducks,2022020032610,2022020032,Takeaway,610,TAKEAWAY,Takeaway by Mathew Barzal,2022-10-16T01:04:13Z,2,16:11,03:49,5,0,2.0,New York Islanders,NYI
+203,2,24,New York Islanders,Anaheim Ducks,2022020032611,2022020032,Giveaway,611,GIVEAWAY,Giveaway by Mathew Barzal,2022-10-16T01:04:15Z,2,16:13,03:47,5,0,2.0,New York Islanders,NYI
+204,2,24,New York Islanders,Anaheim Ducks,2022020032432,2022020032,Hit,432,HIT,Derek Grant hit Noah Dobson,2022-10-16T01:04:32Z,2,16:30,03:30,5,0,24.0,Anaheim Ducks,ANA
+205,2,24,New York Islanders,Anaheim Ducks,2022020032433,2022020032,Stoppage,433,STOP,Puck in Netting,2022-10-16T01:04:46Z,2,16:44,03:16,5,0,,,
+206,2,24,New York Islanders,Anaheim Ducks,2022020032521,2022020032,Blocked Shot,521,BLOCKED_SHOT,Matt Martin shot blocked shot by Trevor Zegras,2022-10-16T01:04:46Z,2,16:44,03:16,5,0,24.0,Anaheim Ducks,ANA
+207,2,24,New York Islanders,Anaheim Ducks,2022020032289,2022020032,Faceoff,289,FACEOFF,Jean-Gabriel Pageau faceoff won against Ryan Strome,2022-10-16T01:06:58Z,2,16:44,03:16,5,0,2.0,New York Islanders,NYI
+208,2,24,New York Islanders,Anaheim Ducks,2022020032523,2022020032,Blocked Shot,523,BLOCKED_SHOT,Cam Fowler shot blocked shot by Ryan Pulock,2022-10-16T01:07:18Z,2,17:04,02:56,5,0,2.0,New York Islanders,NYI
+209,2,24,New York Islanders,Anaheim Ducks,2022020032522,2022020032,Missed Shot,522,MISSED_SHOT,Troy Terry Wide of Net Ilya Sorokin,2022-10-16T01:07:19Z,2,17:05,02:55,5,0,24.0,Anaheim Ducks,ANA
+210,2,24,New York Islanders,Anaheim Ducks,2022020032434,2022020032,Stoppage,434,STOP,Puck in Crowd,2022-10-16T01:07:38Z,2,17:24,02:36,5,0,,,
+211,2,24,New York Islanders,Anaheim Ducks,2022020032290,2022020032,Faceoff,290,FACEOFF,Brock Nelson faceoff won against Trevor Zegras,2022-10-16T01:08:06Z,2,17:24,02:36,5,0,2.0,New York Islanders,NYI
+212,2,24,New York Islanders,Anaheim Ducks,2022020032524,2022020032,Blocked Shot,524,BLOCKED_SHOT,Jakob Silfverberg shot blocked shot by Alexander Romanov,2022-10-16T01:08:34Z,2,17:52,02:08,5,0,2.0,New York Islanders,NYI
+213,2,24,New York Islanders,Anaheim Ducks,2022020032435,2022020032,Missed Shot,435,MISSED_SHOT,Simon Benoit Wide of Net Ilya Sorokin,2022-10-16T01:08:36Z,2,17:54,02:06,5,0,24.0,Anaheim Ducks,ANA
+214,2,24,New York Islanders,Anaheim Ducks,2022020032525,2022020032,Shot,525,SHOT,Mason McTavish Wrist Shot saved by Ilya Sorokin,2022-10-16T01:08:53Z,2,18:11,01:49,5,0,24.0,Anaheim Ducks,ANA
+215,2,24,New York Islanders,Anaheim Ducks,2022020032526,2022020032,Shot,526,SHOT,Mason McTavish Wrist Shot saved by Ilya Sorokin,2022-10-16T01:08:53Z,2,18:11,01:49,5,0,24.0,Anaheim Ducks,ANA
+216,2,24,New York Islanders,Anaheim Ducks,2022020032612,2022020032,Giveaway,612,GIVEAWAY,Giveaway by Trevor Zegras,2022-10-16T01:09:04Z,2,18:22,01:38,5,0,24.0,Anaheim Ducks,ANA
+217,2,24,New York Islanders,Anaheim Ducks,2022020032527,2022020032,Shot,527,SHOT,Mathew Barzal Backhand saved by John Gibson,2022-10-16T01:09:33Z,2,18:51,01:09,5,0,2.0,New York Islanders,NYI
+218,2,24,New York Islanders,Anaheim Ducks,2022020032528,2022020032,Missed Shot,528,MISSED_SHOT,Scott Mayfield Wide of Net John Gibson,2022-10-16T01:09:43Z,2,19:01,00:59,5,0,2.0,New York Islanders,NYI
+219,2,24,New York Islanders,Anaheim Ducks,2022020032462,2022020032,Missed Shot,462,MISSED_SHOT,Scott Mayfield Wide of Net John Gibson,2022-10-16T01:09:50Z,2,19:08,00:52,5,0,2.0,New York Islanders,NYI
+220,2,24,New York Islanders,Anaheim Ducks,2022020032529,2022020032,Blocked Shot,529,BLOCKED_SHOT,Scott Mayfield shot blocked shot by Adam Henrique,2022-10-16T01:09:57Z,2,19:15,00:45,5,0,24.0,Anaheim Ducks,ANA
+221,2,24,New York Islanders,Anaheim Ducks,2022020032436,2022020032,Stoppage,436,STOP,Icing,2022-10-16T01:10:04Z,2,19:22,00:38,5,0,,,
+222,2,24,New York Islanders,Anaheim Ducks,2022020032613,2022020032,Faceoff,613,FACEOFF,Brock Nelson faceoff won against Isac Lundestrom,2022-10-16T01:10:41Z,2,19:22,00:38,5,0,2.0,New York Islanders,NYI
+223,2,24,New York Islanders,Anaheim Ducks,2022020032437,2022020032,Stoppage,437,STOP,Goalie Stopped,2022-10-16T01:10:47Z,2,19:28,00:32,5,0,,,
+224,2,24,New York Islanders,Anaheim Ducks,2022020032530,2022020032,Shot,530,SHOT,Ryan Pulock Wrist Shot saved by John Gibson,2022-10-16T01:10:47Z,2,19:28,00:32,5,0,2.0,New York Islanders,NYI
+225,2,24,New York Islanders,Anaheim Ducks,2022020032614,2022020032,Faceoff,614,FACEOFF,Casey Cizikas faceoff won against Derek Grant,2022-10-16T01:11:18Z,2,19:28,00:32,5,0,2.0,New York Islanders,NYI
+226,2,24,New York Islanders,Anaheim Ducks,2022020032463,2022020032,Missed Shot,463,MISSED_SHOT,Cal Clutterbuck Wide of Net John Gibson,2022-10-16T01:11:23Z,2,19:33,00:27,5,0,2.0,New York Islanders,NYI
+227,2,24,New York Islanders,Anaheim Ducks,2022020032438,2022020032,Period End,438,PERIOD_END,End of 2nd Period,2022-10-16T01:11:50Z,2,20:00,00:00,5,0,,,
+228,2,24,New York Islanders,Anaheim Ducks,2022020032441,2022020032,Period Official,441,PERIOD_OFFICIAL,Period Official,2022-10-16T01:14:01Z,2,20:00,00:00,5,0,,,
+229,2,24,New York Islanders,Anaheim Ducks,2022020032442,2022020032,Period Ready,442,PERIOD_READY,Period Ready,2022-10-16T01:29:09Z,3,00:00,20:00,5,0,,,
+230,2,24,New York Islanders,Anaheim Ducks,2022020032443,2022020032,Period Start,443,PERIOD_START,Period Start,2022-10-16T01:30:38Z,3,00:00,20:00,5,0,,,
+231,2,24,New York Islanders,Anaheim Ducks,2022020032615,2022020032,Faceoff,615,FACEOFF,Ryan Strome faceoff won against Casey Cizikas,2022-10-16T01:30:38Z,3,00:00,20:00,5,0,24.0,Anaheim Ducks,ANA
+232,2,24,New York Islanders,Anaheim Ducks,2022020032616,2022020032,Giveaway,616,GIVEAWAY,Giveaway by Noah Dobson,2022-10-16T01:31:33Z,3,00:55,19:05,5,0,2.0,New York Islanders,NYI
+233,2,24,New York Islanders,Anaheim Ducks,2022020032464,2022020032,Missed Shot,464,MISSED_SHOT,Troy Terry Wide of Net Ilya Sorokin,2022-10-16T01:31:38Z,3,01:00,19:00,5,0,24.0,Anaheim Ducks,ANA
+234,2,24,New York Islanders,Anaheim Ducks,2022020032531,2022020032,Shot,531,SHOT,Trevor Zegras Wrist Shot saved by Ilya Sorokin,2022-10-16T01:31:48Z,3,01:10,18:50,5,0,24.0,Anaheim Ducks,ANA
+235,2,24,New York Islanders,Anaheim Ducks,2022020032444,2022020032,Shot,444,SHOT,Jamie Drysdale Wrist Shot saved by Ilya Sorokin,2022-10-16T01:32:03Z,3,01:25,18:35,5,0,24.0,Anaheim Ducks,ANA
+236,2,24,New York Islanders,Anaheim Ducks,2022020032617,2022020032,Giveaway,617,GIVEAWAY,Giveaway by Noah Dobson,2022-10-16T01:32:05Z,3,01:27,18:33,5,0,2.0,New York Islanders,NYI
+237,2,24,New York Islanders,Anaheim Ducks,2022020032532,2022020032,Goal,532,GOAL,"Troy Terry (3) Wrist Shot, assists: none",2022-10-16T01:32:07Z,3,01:29,18:31,5,1,24.0,Anaheim Ducks,ANA
+238,2,24,New York Islanders,Anaheim Ducks,2022020032445,2022020032,Faceoff,445,FACEOFF,Jean-Gabriel Pageau faceoff won against Isac Lundestrom,2022-10-16T01:32:54Z,3,01:29,18:31,5,1,2.0,New York Islanders,NYI
+239,2,24,New York Islanders,Anaheim Ducks,2022020032446,2022020032,Hit,446,HIT,Jean-Gabriel Pageau hit Simon Benoit,2022-10-16T01:33:06Z,3,01:41,18:19,5,1,2.0,New York Islanders,NYI
+240,2,24,New York Islanders,Anaheim Ducks,2022020032447,2022020032,Stoppage,447,STOP,Icing,2022-10-16T01:33:06Z,3,01:41,18:19,5,1,,,
+241,2,24,New York Islanders,Anaheim Ducks,2022020032618,2022020032,Faceoff,618,FACEOFF,Jean-Gabriel Pageau faceoff won against Isac Lundestrom,2022-10-16T01:33:31Z,3,01:41,18:19,5,1,2.0,New York Islanders,NYI
+242,2,24,New York Islanders,Anaheim Ducks,2022020032448,2022020032,Stoppage,448,STOP,Puck in Crowd,2022-10-16T01:33:36Z,3,01:46,18:14,5,1,,,
+243,2,24,New York Islanders,Anaheim Ducks,2022020032533,2022020032,Shot,533,SHOT,Oliver Wahlstrom Slap Shot saved by Anthony Stolarz,2022-10-16T01:33:36Z,3,01:46,18:14,5,1,2.0,New York Islanders,NYI
+244,2,24,New York Islanders,Anaheim Ducks,2022020032619,2022020032,Faceoff,619,FACEOFF,Isac Lundestrom faceoff won against Jean-Gabriel Pageau,2022-10-16T01:34:04Z,3,01:46,18:14,5,1,24.0,Anaheim Ducks,ANA
+245,2,24,New York Islanders,Anaheim Ducks,2022020032449,2022020032,Stoppage,449,STOP,Puck Frozen,2022-10-16T01:34:25Z,3,02:08,17:52,5,1,,,
+246,2,24,New York Islanders,Anaheim Ducks,2022020032534,2022020032,Missed Shot,534,MISSED_SHOT,Oliver Wahlstrom Wide of Net Anthony Stolarz,2022-10-16T01:34:25Z,3,02:08,17:52,5,1,2.0,New York Islanders,NYI
+247,2,24,New York Islanders,Anaheim Ducks,2022020032620,2022020032,Faceoff,620,FACEOFF,Kyle Palmieri faceoff won against Derek Grant,2022-10-16T01:34:58Z,3,02:08,17:52,5,1,2.0,New York Islanders,NYI
+248,2,24,New York Islanders,Anaheim Ducks,2022020032621,2022020032,Giveaway,621,GIVEAWAY,Giveaway by Zach Parise,2022-10-16T01:35:12Z,3,02:22,17:38,5,1,2.0,New York Islanders,NYI
+249,2,24,New York Islanders,Anaheim Ducks,2022020032535,2022020032,Shot,535,SHOT,Kyle Palmieri Wrist Shot saved by Anthony Stolarz,2022-10-16T01:35:32Z,3,02:42,17:18,5,1,2.0,New York Islanders,NYI
+250,2,24,New York Islanders,Anaheim Ducks,2022020032450,2022020032,Blocked Shot,450,BLOCKED_SHOT,Noah Dobson shot blocked shot by Pavol Regenda,2022-10-16T01:35:39Z,3,02:49,17:11,5,1,24.0,Anaheim Ducks,ANA
+251,2,24,New York Islanders,Anaheim Ducks,2022020032465,2022020032,Missed Shot,465,MISSED_SHOT,Mathew Barzal Wide of Net Anthony Stolarz,2022-10-16T01:35:44Z,3,02:54,17:06,5,1,2.0,New York Islanders,NYI
+252,2,24,New York Islanders,Anaheim Ducks,2022020032855,2022020032,Penalty,855,PENALTY,Alexander Romanov Hooking against Jakob Silfverberg,2022-10-16T01:35:57Z,3,03:06,16:54,5,1,2.0,New York Islanders,NYI
+253,2,24,New York Islanders,Anaheim Ducks,2022020032622,2022020032,Faceoff,622,FACEOFF,Casey Cizikas faceoff won against Ryan Strome,2022-10-16T01:36:31Z,3,03:06,16:54,5,1,2.0,New York Islanders,NYI
+254,2,24,New York Islanders,Anaheim Ducks,2022020032623,2022020032,Giveaway,623,GIVEAWAY,Giveaway by Casey Cizikas,2022-10-16T01:37:04Z,3,03:39,16:21,5,1,2.0,New York Islanders,NYI
+255,2,24,New York Islanders,Anaheim Ducks,2022020032537,2022020032,Missed Shot,537,MISSED_SHOT,John Klingberg Wide of Net Ilya Sorokin,2022-10-16T01:37:07Z,3,03:42,16:18,5,1,24.0,Anaheim Ducks,ANA
+256,2,24,New York Islanders,Anaheim Ducks,2022020032624,2022020032,Takeaway,624,TAKEAWAY,Takeaway by John Klingberg,2022-10-16T01:37:08Z,3,03:43,16:17,5,1,24.0,Anaheim Ducks,ANA
+257,2,24,New York Islanders,Anaheim Ducks,2022020032860,2022020032,Penalty,860,PENALTY,Scott Mayfield Elbowing against Trevor Zegras,2022-10-16T01:37:18Z,3,03:53,16:07,5,1,2.0,New York Islanders,NYI
+258,2,24,New York Islanders,Anaheim Ducks,2022020032625,2022020032,Faceoff,625,FACEOFF,Ryan Strome faceoff won against Jean-Gabriel Pageau,2022-10-16T01:37:59Z,3,03:53,16:07,5,1,24.0,Anaheim Ducks,ANA
+259,2,24,New York Islanders,Anaheim Ducks,2022020032538,2022020032,Missed Shot,538,MISSED_SHOT,Troy Terry Wide of Net Ilya Sorokin,2022-10-16T01:38:16Z,3,04:10,15:50,5,1,24.0,Anaheim Ducks,ANA
+260,2,24,New York Islanders,Anaheim Ducks,2022020032539,2022020032,Shot,539,SHOT,John Klingberg Wrist Shot saved by Ilya Sorokin,2022-10-16T01:38:23Z,3,04:17,15:43,5,1,24.0,Anaheim Ducks,ANA
+261,2,24,New York Islanders,Anaheim Ducks,2022020032751,2022020032,Stoppage,751,STOP,Goalie Stopped,2022-10-16T01:38:23Z,3,04:17,15:43,5,1,,,
+262,2,24,New York Islanders,Anaheim Ducks,2022020032752,2022020032,Stoppage,752,STOP,Visitor Timeout,2022-10-16T01:38:23Z,3,04:17,15:43,5,1,,,
+263,2,24,New York Islanders,Anaheim Ducks,2022020032626,2022020032,Faceoff,626,FACEOFF,Jean-Gabriel Pageau faceoff won against Ryan Strome,2022-10-16T01:39:41Z,3,04:17,15:43,5,1,2.0,New York Islanders,NYI
+264,2,24,New York Islanders,Anaheim Ducks,2022020032540,2022020032,Shot,540,SHOT,Trevor Zegras Slap Shot saved by Ilya Sorokin,2022-10-16T01:39:59Z,3,04:35,15:25,5,1,24.0,Anaheim Ducks,ANA
+265,2,24,New York Islanders,Anaheim Ducks,2022020032627,2022020032,Giveaway,627,GIVEAWAY,Giveaway by Adam Pelech,2022-10-16T01:40:10Z,3,04:46,15:14,5,1,2.0,New York Islanders,NYI
+266,2,24,New York Islanders,Anaheim Ducks,2022020032546,2022020032,Blocked Shot,546,BLOCKED_SHOT,Troy Terry shot blocked shot by Jean-Gabriel Pageau,2022-10-16T01:40:12Z,3,04:48,15:12,5,1,2.0,New York Islanders,NYI
+267,2,24,New York Islanders,Anaheim Ducks,2022020032547,2022020032,Blocked Shot,547,BLOCKED_SHOT,John Klingberg shot blocked shot by Jean-Gabriel Pageau,2022-10-16T01:40:17Z,3,04:53,15:07,5,1,2.0,New York Islanders,NYI
+268,2,24,New York Islanders,Anaheim Ducks,2022020032628,2022020032,Giveaway,628,GIVEAWAY,Giveaway by Pavol Regenda,2022-10-16T01:41:15Z,3,05:51,14:09,5,1,24.0,Anaheim Ducks,ANA
+269,2,24,New York Islanders,Anaheim Ducks,2022020032753,2022020032,Hit,753,HIT,Kevin Shattenkirk hit Brock Nelson,2022-10-16T01:41:50Z,3,06:26,13:34,5,1,24.0,Anaheim Ducks,ANA
+270,2,24,New York Islanders,Anaheim Ducks,2022020032542,2022020032,Shot,542,SHOT,Ryan Pulock Slap Shot saved by Anthony Stolarz,2022-10-16T01:42:06Z,3,06:42,13:18,5,1,2.0,New York Islanders,NYI
+271,2,24,New York Islanders,Anaheim Ducks,2022020032754,2022020032,Stoppage,754,STOP,Goalie Stopped,2022-10-16T01:42:06Z,3,06:42,13:18,5,1,,,
+272,2,24,New York Islanders,Anaheim Ducks,2022020032629,2022020032,Faceoff,629,FACEOFF,Derek Grant faceoff won against Kyle Palmieri,2022-10-16T01:44:23Z,3,06:42,13:18,5,1,24.0,Anaheim Ducks,ANA
+273,2,24,New York Islanders,Anaheim Ducks,2022020032755,2022020032,Stoppage,755,STOP,Offside,2022-10-16T01:44:37Z,3,06:56,13:04,5,1,,,
+274,2,24,New York Islanders,Anaheim Ducks,2022020032630,2022020032,Faceoff,630,FACEOFF,Derek Grant faceoff won against Mathew Barzal,2022-10-16T01:45:04Z,3,06:56,13:04,5,1,24.0,Anaheim Ducks,ANA
+275,2,24,New York Islanders,Anaheim Ducks,2022020032756,2022020032,Hit,756,HIT,Max Jones hit Robin Salo,2022-10-16T01:45:33Z,3,07:25,12:35,5,1,24.0,Anaheim Ducks,ANA
+276,2,24,New York Islanders,Anaheim Ducks,2022020032632,2022020032,Giveaway,632,GIVEAWAY,Giveaway by Robin Salo,2022-10-16T01:45:37Z,3,07:29,12:31,5,1,2.0,New York Islanders,NYI
+277,2,24,New York Islanders,Anaheim Ducks,2022020032543,2022020032,Missed Shot,543,MISSED_SHOT,Dmitry Kulikov Over Net Ilya Sorokin,2022-10-16T01:45:40Z,3,07:32,12:28,5,1,24.0,Anaheim Ducks,ANA
+278,2,24,New York Islanders,Anaheim Ducks,2022020032544,2022020032,Missed Shot,544,MISSED_SHOT,Frank Vatrano Over Net Ilya Sorokin,2022-10-16T01:47:21Z,3,09:13,10:47,5,1,24.0,Anaheim Ducks,ANA
+279,2,24,New York Islanders,Anaheim Ducks,2022020032545,2022020032,Shot,545,SHOT,Mason McTavish Wrist Shot saved by Ilya Sorokin,2022-10-16T01:47:24Z,3,09:16,10:44,5,1,24.0,Anaheim Ducks,ANA
+280,2,24,New York Islanders,Anaheim Ducks,2022020032757,2022020032,Stoppage,757,STOP,Goalie Stopped,2022-10-16T01:47:24Z,3,09:16,10:44,5,1,,,
+281,2,24,New York Islanders,Anaheim Ducks,2022020032633,2022020032,Faceoff,633,FACEOFF,Brock Nelson faceoff won against Ryan Strome,2022-10-16T01:47:57Z,3,09:16,10:44,5,1,2.0,New York Islanders,NYI
+282,2,24,New York Islanders,Anaheim Ducks,2022020032758,2022020032,Stoppage,758,STOP,Icing,2022-10-16T01:48:15Z,3,09:34,10:26,5,1,,,
+283,2,24,New York Islanders,Anaheim Ducks,2022020032635,2022020032,Faceoff,635,FACEOFF,Brock Nelson faceoff won against Isac Lundestrom,2022-10-16T01:48:41Z,3,09:34,10:26,5,1,2.0,New York Islanders,NYI
+284,2,24,New York Islanders,Anaheim Ducks,20220200321015,2022020032,Penalty,1015,PENALTY,Troy Terry Hooking against Robin Salo,2022-10-16T01:50:01Z,3,10:53,09:07,5,1,24.0,Anaheim Ducks,ANA
+285,2,24,New York Islanders,Anaheim Ducks,2022020032636,2022020032,Faceoff,636,FACEOFF,Ryan Strome faceoff won against Brock Nelson,2022-10-16T01:52:14Z,3,10:53,09:07,5,1,24.0,Anaheim Ducks,ANA
+286,2,24,New York Islanders,Anaheim Ducks,2022020032548,2022020032,Shot,548,SHOT,Brock Nelson Wrist Shot saved by Anthony Stolarz,2022-10-16T01:52:35Z,3,11:14,08:46,5,1,2.0,New York Islanders,NYI
+287,2,24,New York Islanders,Anaheim Ducks,2022020032759,2022020032,Stoppage,759,STOP,Offside,2022-10-16T01:53:00Z,3,11:39,08:21,5,1,,,
+288,2,24,New York Islanders,Anaheim Ducks,2022020032637,2022020032,Faceoff,637,FACEOFF,Brock Nelson faceoff won against Isac Lundestrom,2022-10-16T01:53:25Z,3,11:39,08:21,5,1,2.0,New York Islanders,NYI
+289,2,24,New York Islanders,Anaheim Ducks,2022020032549,2022020032,Shot,549,SHOT,Brock Nelson Tip-In saved by Anthony Stolarz,2022-10-16T01:54:00Z,3,12:14,07:46,5,1,2.0,New York Islanders,NYI
+290,2,24,New York Islanders,Anaheim Ducks,2022020032760,2022020032,Blocked Shot,760,BLOCKED_SHOT,Robin Salo shot blocked shot by Kevin Shattenkirk,2022-10-16T01:54:06Z,3,12:20,07:40,5,1,24.0,Anaheim Ducks,ANA
+291,2,24,New York Islanders,Anaheim Ducks,2022020032550,2022020032,Shot,550,SHOT,Kyle Palmieri Wrist Shot saved by Anthony Stolarz,2022-10-16T01:54:20Z,3,12:34,07:26,5,1,2.0,New York Islanders,NYI
+292,2,24,New York Islanders,Anaheim Ducks,2022020032901,2022020032,Blocked Shot,901,BLOCKED_SHOT,Robin Salo shot blocked shot by Simon Benoit,2022-10-16T01:54:37Z,3,12:51,07:09,5,1,24.0,Anaheim Ducks,ANA
+293,2,24,New York Islanders,Anaheim Ducks,2022020032638,2022020032,Giveaway,638,GIVEAWAY,Giveaway by Simon Benoit,2022-10-16T01:54:40Z,3,12:54,07:06,5,1,24.0,Anaheim Ducks,ANA
+294,2,24,New York Islanders,Anaheim Ducks,2022020032902,2022020032,Goal,902,GOAL,"Robin Salo (1) Slap Shot, assists: Mathew Barzal (3), Anders Lee (3)",2022-10-16T01:54:49Z,3,13:03,06:57,6,1,2.0,New York Islanders,NYI
+295,2,24,New York Islanders,Anaheim Ducks,2022020032761,2022020032,Faceoff,761,FACEOFF,Casey Cizikas faceoff won against Trevor Zegras,2022-10-16T01:55:27Z,3,13:03,06:57,6,1,2.0,New York Islanders,NYI
+296,2,24,New York Islanders,Anaheim Ducks,2022020032639,2022020032,Takeaway,639,TAKEAWAY,Takeaway by Casey Cizikas,2022-10-16T01:55:48Z,3,13:24,06:36,6,1,2.0,New York Islanders,NYI
+297,2,24,New York Islanders,Anaheim Ducks,2022020032762,2022020032,Stoppage,762,STOP,Puck in Netting,2022-10-16T01:56:29Z,3,14:05,05:55,6,1,,,
+298,2,24,New York Islanders,Anaheim Ducks,2022020032640,2022020032,Faceoff,640,FACEOFF,Jean-Gabriel Pageau faceoff won against Ryan Strome,2022-10-16T01:58:46Z,3,14:05,05:55,6,1,2.0,New York Islanders,NYI
+299,2,24,New York Islanders,Anaheim Ducks,2022020032641,2022020032,Giveaway,641,GIVEAWAY,Giveaway by Scott Mayfield,2022-10-16T01:59:03Z,3,14:22,05:38,6,1,2.0,New York Islanders,NYI
+300,2,24,New York Islanders,Anaheim Ducks,2022020032763,2022020032,Stoppage,763,STOP,Icing,2022-10-16T01:59:13Z,3,14:33,05:27,6,1,,,
+301,2,24,New York Islanders,Anaheim Ducks,2022020032642,2022020032,Faceoff,642,FACEOFF,Isac Lundestrom faceoff won against Jean-Gabriel Pageau,2022-10-16T01:59:50Z,3,14:33,05:27,6,1,24.0,Anaheim Ducks,ANA
+302,2,24,New York Islanders,Anaheim Ducks,2022020032764,2022020032,Hit,764,HIT,Oliver Wahlstrom hit Cam Fowler,2022-10-16T01:59:59Z,3,14:42,05:18,6,1,2.0,New York Islanders,NYI
+303,2,24,New York Islanders,Anaheim Ducks,2022020032903,2022020032,Shot,903,SHOT,Adam Henrique Wrist Shot saved by Ilya Sorokin,2022-10-16T02:00:12Z,3,14:55,05:05,6,1,24.0,Anaheim Ducks,ANA
+304,2,24,New York Islanders,Anaheim Ducks,2022020032904,2022020032,Shot,904,SHOT,Pavol Regenda Wrist Shot saved by Ilya Sorokin,2022-10-16T02:00:16Z,3,14:58,05:02,6,1,24.0,Anaheim Ducks,ANA
+305,2,24,New York Islanders,Anaheim Ducks,2022020032765,2022020032,Stoppage,765,STOP,Net Dislodged Offensive Skater,2022-10-16T02:00:16Z,3,14:59,05:01,6,1,,,
+306,2,24,New York Islanders,Anaheim Ducks,2022020032643,2022020032,Faceoff,643,FACEOFF,Trevor Zegras faceoff won against Brock Nelson,2022-10-16T02:00:47Z,3,14:59,05:01,6,1,24.0,Anaheim Ducks,ANA
+307,2,24,New York Islanders,Anaheim Ducks,2022020032766,2022020032,Hit,766,HIT,Alexander Romanov hit Frank Vatrano,2022-10-16T02:01:20Z,3,15:32,04:28,6,1,2.0,New York Islanders,NYI
+308,2,24,New York Islanders,Anaheim Ducks,2022020032905,2022020032,Shot,905,SHOT,Mathew Barzal Wrist Shot saved by Anthony Stolarz,2022-10-16T02:01:42Z,3,15:53,04:07,6,1,2.0,New York Islanders,NYI
+309,2,24,New York Islanders,Anaheim Ducks,20220200321044,2022020032,Penalty,1044,PENALTY,Max Comtois Tripping against Anthony Beauvillier,2022-10-16T02:01:42Z,3,15:53,04:07,6,1,24.0,Anaheim Ducks,ANA
+310,2,24,New York Islanders,Anaheim Ducks,2022020032644,2022020032,Faceoff,644,FACEOFF,Derek Grant faceoff won against Jean-Gabriel Pageau,2022-10-16T02:02:30Z,3,15:53,04:07,6,1,24.0,Anaheim Ducks,ANA
+311,2,24,New York Islanders,Anaheim Ducks,2022020032906,2022020032,Missed Shot,906,MISSED_SHOT,Zach Parise Wide of Net Anthony Stolarz,2022-10-16T02:02:56Z,3,16:19,03:41,6,1,2.0,New York Islanders,NYI
+312,2,24,New York Islanders,Anaheim Ducks,2022020032907,2022020032,Shot,907,SHOT,Josh Bailey Wrist Shot saved by Anthony Stolarz,2022-10-16T02:03:05Z,3,16:28,03:32,6,1,2.0,New York Islanders,NYI
+313,2,24,New York Islanders,Anaheim Ducks,2022020032908,2022020032,Blocked Shot,908,BLOCKED_SHOT,Robin Salo shot blocked shot by Frank Vatrano,2022-10-16T02:03:38Z,3,17:01,02:59,6,1,24.0,Anaheim Ducks,ANA
+314,2,24,New York Islanders,Anaheim Ducks,2022020032909,2022020032,Missed Shot,909,MISSED_SHOT,Anthony Beauvillier Wide of Net Anthony Stolarz,2022-10-16T02:03:48Z,3,17:11,02:49,6,1,2.0,New York Islanders,NYI
+315,2,24,New York Islanders,Anaheim Ducks,2022020032910,2022020032,Missed Shot,910,MISSED_SHOT,Anthony Beauvillier Wide of Net Anthony Stolarz,2022-10-16T02:04:14Z,3,17:37,02:23,6,1,2.0,New York Islanders,NYI
+316,2,24,New York Islanders,Anaheim Ducks,2022020032911,2022020032,Blocked Shot,911,BLOCKED_SHOT,Robin Salo shot blocked shot by Frank Vatrano,2022-10-16T02:04:27Z,3,17:50,02:10,6,1,24.0,Anaheim Ducks,ANA
+317,2,24,New York Islanders,Anaheim Ducks,2022020032768,2022020032,Shot,768,SHOT,Mathew Barzal Wrist Shot saved by Anthony Stolarz,2022-10-16T02:04:32Z,3,17:55,02:05,6,1,2.0,New York Islanders,NYI
+318,2,24,New York Islanders,Anaheim Ducks,2022020032769,2022020032,Stoppage,769,STOP,Goalie Stopped,2022-10-16T02:04:32Z,3,17:55,02:05,6,1,,,
+319,2,24,New York Islanders,Anaheim Ducks,2022020032645,2022020032,Faceoff,645,FACEOFF,Casey Cizikas faceoff won against Trevor Zegras,2022-10-16T02:05:06Z,3,17:55,02:05,6,1,2.0,New York Islanders,NYI
+320,2,24,New York Islanders,Anaheim Ducks,2022020032912,2022020032,Missed Shot,912,MISSED_SHOT,Noah Dobson Over Net Anthony Stolarz,2022-10-16T02:05:15Z,3,18:04,01:56,6,1,2.0,New York Islanders,NYI
+321,2,24,New York Islanders,Anaheim Ducks,2022020032770,2022020032,Hit,770,HIT,Matt Martin hit Troy Terry,2022-10-16T02:05:29Z,3,18:18,01:42,6,1,2.0,New York Islanders,NYI
+322,2,24,New York Islanders,Anaheim Ducks,2022020032771,2022020032,Hit,771,HIT,Alexander Romanov hit Trevor Zegras,2022-10-16T02:05:41Z,3,18:30,01:30,6,1,2.0,New York Islanders,NYI
+323,2,24,New York Islanders,Anaheim Ducks,2022020032772,2022020032,Hit,772,HIT,Kyle Palmieri hit Dmitry Kulikov,2022-10-16T02:06:10Z,3,18:59,01:01,6,1,2.0,New York Islanders,NYI
+324,2,24,New York Islanders,Anaheim Ducks,2022020032775,2022020032,Stoppage,775,STOP,Referee or Linesman,2022-10-16T02:06:14Z,3,19:02,00:58,6,1,,,
+325,2,24,New York Islanders,Anaheim Ducks,2022020032913,2022020032,Goal,913,GOAL,"Robin Salo (2) Slap Shot, assists: Oliver Wahlstrom (1), Brock Nelson (2)",2022-10-16T02:06:14Z,3,19:02,00:58,7,1,2.0,New York Islanders,NYI
+326,2,24,New York Islanders,Anaheim Ducks,2022020032774,2022020032,Faceoff,774,FACEOFF,Jean-Gabriel Pageau faceoff won against Ryan Strome,2022-10-16T02:09:06Z,3,19:02,00:58,7,1,2.0,New York Islanders,NYI
+327,2,24,New York Islanders,Anaheim Ducks,20220200321201,2022020032,Official Challenge,1201,CHALLENGE,Coach's Challenge,2022-10-16T02:09:06Z,3,19:02,00:58,7,1,,,
+328,2,24,New York Islanders,Anaheim Ducks,2022020032777,2022020032,Period End,777,PERIOD_END,End of 3rd Period,2022-10-16T02:10:04Z,3,20:00,00:00,7,1,,,
+329,2,24,New York Islanders,Anaheim Ducks,2022020032780,2022020032,Period Official,780,PERIOD_OFFICIAL,Period Official,2022-10-16T02:10:11Z,3,20:00,00:00,7,1,,,
+330,2,24,New York Islanders,Anaheim Ducks,2022020032781,2022020032,Game End,781,GAME_END,Game End,2022-10-16T02:10:14Z,3,20:00,00:00,7,1,,,
+331,2,24,New York Islanders,Anaheim Ducks,20220200321202,2022020032,Game Official,1202,GAME_OFFICIAL,Game Official,2022-10-16T07:38:38Z,3,20:00,00:00,7,1,,,

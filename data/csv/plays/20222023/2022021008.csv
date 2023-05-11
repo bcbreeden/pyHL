@@ -1,0 +1,383 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,25,20,Dallas Stars,Calgary Flames,20220210081,2022021008,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-03-07T00:45:10Z,1,00:00,20:00,0,0,,,
+1,25,20,Dallas Stars,Calgary Flames,20220210085,2022021008,Period Ready,5,PERIOD_READY,Period Ready,2023-03-07T01:34:45Z,1,00:00,20:00,0,0,,,
+2,25,20,Dallas Stars,Calgary Flames,202202100851,2022021008,Period Start,51,PERIOD_START,Period Start,2023-03-07T01:38:38Z,1,00:00,20:00,0,0,,,
+3,25,20,Dallas Stars,Calgary Flames,202202100852,2022021008,Faceoff,52,FACEOFF,Mikael Backlund faceoff won against Joe Pavelski,2023-03-07T01:38:38Z,1,00:00,20:00,0,0,20.0,Calgary Flames,CGY
+4,25,20,Dallas Stars,Calgary Flames,2022021008151,2022021008,Missed Shot,151,MISSED_SHOT,MacKenzie Weegar Wide of Net Jake Oettinger,2023-03-07T01:38:47Z,1,00:09,19:51,0,0,20.0,Calgary Flames,CGY
+5,25,20,Dallas Stars,Calgary Flames,20220210088,2022021008,Takeaway,8,TAKEAWAY,Takeaway by Miro Heiskanen,2023-03-07T01:39:04Z,1,00:26,19:34,0,0,25.0,Dallas Stars,DAL
+6,25,20,Dallas Stars,Calgary Flames,2022021008152,2022021008,Shot,152,SHOT,Joe Pavelski Backhand saved by Jacob Markstrom,2023-03-07T01:39:08Z,1,00:30,19:30,0,0,25.0,Dallas Stars,DAL
+7,25,20,Dallas Stars,Calgary Flames,20220210089,2022021008,Stoppage,9,STOP,Goalie Stopped,2023-03-07T01:39:09Z,1,00:31,19:29,0,0,,,
+8,25,20,Dallas Stars,Calgary Flames,202202100853,2022021008,Faceoff,53,FACEOFF,Jamie Benn faceoff won against Elias Lindholm,2023-03-07T01:39:36Z,1,00:31,19:29,0,0,25.0,Dallas Stars,DAL
+9,25,20,Dallas Stars,Calgary Flames,2022021008153,2022021008,Blocked Shot,153,BLOCKED_SHOT,Elias Lindholm shot blocked shot by Miro Heiskanen,2023-03-07T01:39:50Z,1,00:45,19:15,0,0,25.0,Dallas Stars,DAL
+10,25,20,Dallas Stars,Calgary Flames,202202100810,2022021008,Stoppage,10,STOP,Puck in Netting,2023-03-07T01:39:51Z,1,00:46,19:14,0,0,,,
+11,25,20,Dallas Stars,Calgary Flames,202202100854,2022021008,Faceoff,54,FACEOFF,Nazem Kadri faceoff won against Jamie Benn,2023-03-07T01:40:29Z,1,00:46,19:14,0,0,20.0,Calgary Flames,CGY
+12,25,20,Dallas Stars,Calgary Flames,2022021008154,2022021008,Missed Shot,154,MISSED_SHOT,Noah Hanifin Wide of Net Jake Oettinger,2023-03-07T01:40:33Z,1,00:50,19:10,0,0,20.0,Calgary Flames,CGY
+13,25,20,Dallas Stars,Calgary Flames,202202100855,2022021008,Hit,55,HIT,Jani Hakanpää hit Nazem Kadri,2023-03-07T01:40:38Z,1,00:55,19:05,0,0,25.0,Dallas Stars,DAL
+14,25,20,Dallas Stars,Calgary Flames,202202100811,2022021008,Takeaway,11,TAKEAWAY,Takeaway by Nazem Kadri,2023-03-07T01:40:46Z,1,01:03,18:57,0,0,20.0,Calgary Flames,CGY
+15,25,20,Dallas Stars,Calgary Flames,2022021008155,2022021008,Shot,155,SHOT,Nick Ritchie Backhand saved by Jake Oettinger,2023-03-07T01:40:56Z,1,01:13,18:47,0,0,20.0,Calgary Flames,CGY
+16,25,20,Dallas Stars,Calgary Flames,202202100812,2022021008,Stoppage,12,STOP,Offside,2023-03-07T01:41:11Z,1,01:27,18:33,0,0,,,
+17,25,20,Dallas Stars,Calgary Flames,202202100856,2022021008,Faceoff,56,FACEOFF,Tyler Seguin faceoff won against Dillon Dube,2023-03-07T01:41:32Z,1,01:27,18:33,0,0,25.0,Dallas Stars,DAL
+18,25,20,Dallas Stars,Calgary Flames,202202100857,2022021008,Hit,57,HIT,Ryan Suter hit Trevor Lewis,2023-03-07T01:41:54Z,1,01:49,18:11,0,0,25.0,Dallas Stars,DAL
+19,25,20,Dallas Stars,Calgary Flames,2022021008156,2022021008,Shot,156,SHOT,Trevor Lewis Backhand saved by Jake Oettinger,2023-03-07T01:41:55Z,1,01:50,18:10,0,0,20.0,Calgary Flames,CGY
+20,25,20,Dallas Stars,Calgary Flames,202202100813,2022021008,Stoppage,13,STOP,Goalie Stopped,2023-03-07T01:41:57Z,1,01:52,18:08,0,0,,,
+21,25,20,Dallas Stars,Calgary Flames,202202100858,2022021008,Faceoff,58,FACEOFF,Elias Lindholm faceoff won against Ty Dellandrea,2023-03-07T01:42:40Z,1,01:52,18:08,0,0,20.0,Calgary Flames,CGY
+22,25,20,Dallas Stars,Calgary Flames,2022021008157,2022021008,Shot,157,SHOT,MacKenzie Weegar Snap Shot saved by Jake Oettinger,2023-03-07T01:42:41Z,1,01:53,18:07,0,0,20.0,Calgary Flames,CGY
+23,25,20,Dallas Stars,Calgary Flames,202202100814,2022021008,Stoppage,14,STOP,Goalie Stopped,2023-03-07T01:42:42Z,1,01:54,18:06,0,0,,,
+24,25,20,Dallas Stars,Calgary Flames,202202100859,2022021008,Faceoff,59,FACEOFF,Elias Lindholm faceoff won against Radek Faksa,2023-03-07T01:42:59Z,1,01:54,18:06,0,0,20.0,Calgary Flames,CGY
+25,25,20,Dallas Stars,Calgary Flames,202202100860,2022021008,Hit,60,HIT,Rasmus Andersson hit Joel Kiviranta,2023-03-07T01:43:13Z,1,02:08,17:52,0,0,20.0,Calgary Flames,CGY
+26,25,20,Dallas Stars,Calgary Flames,202202100861,2022021008,Hit,61,HIT,Jakob Pelletier hit Miro Heiskanen,2023-03-07T01:43:21Z,1,02:16,17:44,0,0,20.0,Calgary Flames,CGY
+27,25,20,Dallas Stars,Calgary Flames,202202100862,2022021008,Hit,62,HIT,Blake Coleman hit Miro Heiskanen,2023-03-07T01:43:35Z,1,02:30,17:30,0,0,20.0,Calgary Flames,CGY
+28,25,20,Dallas Stars,Calgary Flames,202202100863,2022021008,Hit,63,HIT,Jason Robertson hit Noah Hanifin,2023-03-07T01:44:04Z,1,02:59,17:01,0,0,25.0,Dallas Stars,DAL
+29,25,20,Dallas Stars,Calgary Flames,2022021008158,2022021008,Blocked Shot,158,BLOCKED_SHOT,Joe Pavelski shot blocked shot by Noah Hanifin,2023-03-07T01:44:07Z,1,03:02,16:58,0,0,20.0,Calgary Flames,CGY
+30,25,20,Dallas Stars,Calgary Flames,2022021008159,2022021008,Shot,159,SHOT,Jason Robertson Snap Shot saved by Jacob Markstrom,2023-03-07T01:44:09Z,1,03:04,16:56,0,0,25.0,Dallas Stars,DAL
+31,25,20,Dallas Stars,Calgary Flames,202202100864,2022021008,Hit,64,HIT,Jason Robertson hit Chris Tanev,2023-03-07T01:44:26Z,1,03:21,16:39,0,0,25.0,Dallas Stars,DAL
+32,25,20,Dallas Stars,Calgary Flames,202202100815,2022021008,Takeaway,15,TAKEAWAY,Takeaway by Nils Lundkvist,2023-03-07T01:44:35Z,1,03:30,16:30,0,0,25.0,Dallas Stars,DAL
+33,25,20,Dallas Stars,Calgary Flames,2022021008160,2022021008,Shot,160,SHOT,Wyatt Johnston Snap Shot saved by Jacob Markstrom,2023-03-07T01:44:46Z,1,03:41,16:19,0,0,25.0,Dallas Stars,DAL
+34,25,20,Dallas Stars,Calgary Flames,202202100816,2022021008,Stoppage,16,STOP,Goalie Stopped,2023-03-07T01:44:46Z,1,03:42,16:18,0,0,,,
+35,25,20,Dallas Stars,Calgary Flames,202202100865,2022021008,Faceoff,65,FACEOFF,Nazem Kadri faceoff won against Jamie Benn,2023-03-07T01:45:13Z,1,03:42,16:18,0,0,20.0,Calgary Flames,CGY
+36,25,20,Dallas Stars,Calgary Flames,2022021008162,2022021008,Shot,162,SHOT,Jonathan Huberdeau Wrist Shot saved by Jake Oettinger,2023-03-07T01:45:21Z,1,03:50,16:10,0,0,20.0,Calgary Flames,CGY
+37,25,20,Dallas Stars,Calgary Flames,2022021008163,2022021008,Goal,163,GOAL,"Nick Ritchie (10) Poke, assists: Jonathan Huberdeau (29), MacKenzie Weegar (18)",2023-03-07T01:45:24Z,1,03:53,16:07,0,1,20.0,Calgary Flames,CGY
+38,25,20,Dallas Stars,Calgary Flames,202202100866,2022021008,Faceoff,66,FACEOFF,Nazem Kadri faceoff won against Tyler Seguin,2023-03-07T01:46:06Z,1,03:53,16:07,0,1,20.0,Calgary Flames,CGY
+39,25,20,Dallas Stars,Calgary Flames,202202100817,2022021008,Takeaway,17,TAKEAWAY,Takeaway by MacKenzie Weegar,2023-03-07T01:46:35Z,1,04:19,15:41,0,1,20.0,Calgary Flames,CGY
+40,25,20,Dallas Stars,Calgary Flames,202202100867,2022021008,Hit,67,HIT,Colin Miller hit Trevor Lewis,2023-03-07T01:46:45Z,1,04:29,15:31,0,1,25.0,Dallas Stars,DAL
+41,25,20,Dallas Stars,Calgary Flames,202202100868,2022021008,Hit,68,HIT,Trevor Lewis hit Mason Marchment,2023-03-07T01:46:54Z,1,04:38,15:22,0,1,20.0,Calgary Flames,CGY
+42,25,20,Dallas Stars,Calgary Flames,202202100818,2022021008,Stoppage,18,STOP,Icing,2023-03-07T01:46:57Z,1,04:41,15:19,0,1,,,
+43,25,20,Dallas Stars,Calgary Flames,202202100869,2022021008,Faceoff,69,FACEOFF,Tyler Seguin faceoff won against Dillon Dube,2023-03-07T01:47:21Z,1,04:41,15:19,0,1,25.0,Dallas Stars,DAL
+44,25,20,Dallas Stars,Calgary Flames,202202100819,2022021008,Takeaway,19,TAKEAWAY,Takeaway by Nikita Zadorov,2023-03-07T01:47:33Z,1,04:53,15:07,0,1,20.0,Calgary Flames,CGY
+45,25,20,Dallas Stars,Calgary Flames,2022021008164,2022021008,Missed Shot,164,MISSED_SHOT,Joel Kiviranta Over Net Jacob Markstrom,2023-03-07T01:48:04Z,1,05:24,14:36,0,1,25.0,Dallas Stars,DAL
+46,25,20,Dallas Stars,Calgary Flames,202202100870,2022021008,Hit,70,HIT,Trevor Lewis hit Miro Heiskanen,2023-03-07T01:48:06Z,1,05:26,14:34,0,1,20.0,Calgary Flames,CGY
+47,25,20,Dallas Stars,Calgary Flames,202202100820,2022021008,Giveaway,20,GIVEAWAY,Giveaway by Miro Heiskanen,2023-03-07T01:48:21Z,1,05:41,14:19,0,1,25.0,Dallas Stars,DAL
+48,25,20,Dallas Stars,Calgary Flames,2022021008166,2022021008,Shot,166,SHOT,Elias Lindholm Snap Shot saved by Jake Oettinger,2023-03-07T01:48:47Z,1,06:07,13:53,0,1,20.0,Calgary Flames,CGY
+49,25,20,Dallas Stars,Calgary Flames,2022021008167,2022021008,Shot,167,SHOT,Andrew Mangiapane Snap Shot saved by Jake Oettinger,2023-03-07T01:49:17Z,1,06:37,13:23,0,1,20.0,Calgary Flames,CGY
+50,25,20,Dallas Stars,Calgary Flames,202202100823,2022021008,Stoppage,23,STOP,TV timeout,2023-03-07T01:49:33Z,1,06:53,13:07,0,1,,,
+51,25,20,Dallas Stars,Calgary Flames,2022021008217,2022021008,Penalty,217,PENALTY,Miro Heiskanen Slashing against Andrew Mangiapane,2023-03-07T01:49:33Z,1,06:53,13:07,0,1,25.0,Dallas Stars,DAL
+52,25,20,Dallas Stars,Calgary Flames,2022021008301,2022021008,Faceoff,301,FACEOFF,Nazem Kadri faceoff won against Tyler Seguin,2023-03-07T01:52:06Z,1,06:53,13:07,0,1,20.0,Calgary Flames,CGY
+53,25,20,Dallas Stars,Calgary Flames,2022021008168,2022021008,Shot,168,SHOT,Noah Hanifin Wrist Shot saved by Jake Oettinger,2023-03-07T01:52:13Z,1,07:00,13:00,0,1,20.0,Calgary Flames,CGY
+54,25,20,Dallas Stars,Calgary Flames,2022021008169,2022021008,Shot,169,SHOT,Jonathan Huberdeau Wrist Shot saved by Jake Oettinger,2023-03-07T01:52:23Z,1,07:10,12:50,0,1,20.0,Calgary Flames,CGY
+55,25,20,Dallas Stars,Calgary Flames,202202100824,2022021008,Takeaway,24,TAKEAWAY,Takeaway by Jonathan Huberdeau,2023-03-07T01:52:28Z,1,07:15,12:45,0,1,20.0,Calgary Flames,CGY
+56,25,20,Dallas Stars,Calgary Flames,202202100871,2022021008,Hit,71,HIT,Andrew Mangiapane hit Jani Hakanpää,2023-03-07T01:52:28Z,1,07:15,12:45,0,1,20.0,Calgary Flames,CGY
+57,25,20,Dallas Stars,Calgary Flames,2022021008170,2022021008,Missed Shot,170,MISSED_SHOT,Nick Ritchie Wide of Net Jake Oettinger,2023-03-07T01:52:29Z,1,07:16,12:44,0,1,20.0,Calgary Flames,CGY
+58,25,20,Dallas Stars,Calgary Flames,202202100872,2022021008,Hit,72,HIT,Andrew Mangiapane hit Jani Hakanpää,2023-03-07T01:52:38Z,1,07:25,12:35,0,1,20.0,Calgary Flames,CGY
+59,25,20,Dallas Stars,Calgary Flames,2022021008551,2022021008,Missed Shot,551,MISSED_SHOT,Nazem Kadri Wide of Net Jake Oettinger,2023-03-07T01:52:40Z,1,07:27,12:33,0,1,20.0,Calgary Flames,CGY
+60,25,20,Dallas Stars,Calgary Flames,202202100873,2022021008,Hit,73,HIT,Tyler Seguin hit Jonathan Huberdeau,2023-03-07T01:52:46Z,1,07:33,12:27,0,1,25.0,Dallas Stars,DAL
+61,25,20,Dallas Stars,Calgary Flames,202202100874,2022021008,Hit,74,HIT,Nick Ritchie hit Jani Hakanpää,2023-03-07T01:53:04Z,1,07:51,12:09,0,1,20.0,Calgary Flames,CGY
+62,25,20,Dallas Stars,Calgary Flames,2022021008171,2022021008,Shot,171,SHOT,Nazem Kadri Wrist Shot saved by Jake Oettinger,2023-03-07T01:53:08Z,1,07:55,12:05,0,1,20.0,Calgary Flames,CGY
+63,25,20,Dallas Stars,Calgary Flames,202202100825,2022021008,Stoppage,25,STOP,Goalie Stopped,2023-03-07T01:53:09Z,1,07:56,12:04,0,1,,,
+64,25,20,Dallas Stars,Calgary Flames,2022021008302,2022021008,Faceoff,302,FACEOFF,Elias Lindholm faceoff won against Jamie Benn,2023-03-07T01:53:41Z,1,07:56,12:04,0,1,20.0,Calgary Flames,CGY
+65,25,20,Dallas Stars,Calgary Flames,2022021008172,2022021008,Shot,172,SHOT,Elias Lindholm Snap Shot saved by Jake Oettinger,2023-03-07T01:53:47Z,1,08:02,11:58,0,1,20.0,Calgary Flames,CGY
+66,25,20,Dallas Stars,Calgary Flames,2022021008173,2022021008,Shot,173,SHOT,Elias Lindholm Wrist Shot saved by Jake Oettinger,2023-03-07T01:54:07Z,1,08:22,11:38,0,1,20.0,Calgary Flames,CGY
+67,25,20,Dallas Stars,Calgary Flames,202202100826,2022021008,Stoppage,26,STOP,Goalie Stopped,2023-03-07T01:54:09Z,1,08:23,11:37,0,1,,,
+68,25,20,Dallas Stars,Calgary Flames,2022021008303,2022021008,Faceoff,303,FACEOFF,Radek Faksa faceoff won against Elias Lindholm,2023-03-07T01:54:51Z,1,08:23,11:37,0,1,25.0,Dallas Stars,DAL
+69,25,20,Dallas Stars,Calgary Flames,202202100875,2022021008,Hit,75,HIT,Esa Lindell hit Mikael Backlund,2023-03-07T01:55:11Z,1,08:43,11:17,0,1,25.0,Dallas Stars,DAL
+70,25,20,Dallas Stars,Calgary Flames,2022021008174,2022021008,Shot,174,SHOT,Radek Faksa Wrist Shot saved by Jacob Markstrom,2023-03-07T01:55:15Z,1,08:47,11:13,0,1,25.0,Dallas Stars,DAL
+71,25,20,Dallas Stars,Calgary Flames,2022021008175,2022021008,Shot,175,SHOT,Jason Robertson Deflected saved by Jacob Markstrom,2023-03-07T01:55:47Z,1,09:19,10:41,0,1,25.0,Dallas Stars,DAL
+72,25,20,Dallas Stars,Calgary Flames,202202100827,2022021008,Takeaway,27,TAKEAWAY,Takeaway by Joe Pavelski,2023-03-07T01:55:55Z,1,09:27,10:33,0,1,25.0,Dallas Stars,DAL
+73,25,20,Dallas Stars,Calgary Flames,2022021008176,2022021008,Missed Shot,176,MISSED_SHOT,Jason Robertson Wide of Net Jacob Markstrom,2023-03-07T01:55:57Z,1,09:29,10:31,0,1,25.0,Dallas Stars,DAL
+74,25,20,Dallas Stars,Calgary Flames,2022021008177,2022021008,Shot,177,SHOT,Trevor Lewis Wrist Shot saved by Jake Oettinger,2023-03-07T01:56:08Z,1,09:40,10:20,0,1,20.0,Calgary Flames,CGY
+75,25,20,Dallas Stars,Calgary Flames,202202100876,2022021008,Hit,76,HIT,Nick Ritchie hit Jason Robertson,2023-03-07T01:56:10Z,1,09:42,10:18,0,1,20.0,Calgary Flames,CGY
+76,25,20,Dallas Stars,Calgary Flames,202202100828,2022021008,Giveaway,28,GIVEAWAY,Giveaway by Max Domi,2023-03-07T01:56:14Z,1,09:46,10:14,0,1,25.0,Dallas Stars,DAL
+77,25,20,Dallas Stars,Calgary Flames,202202100877,2022021008,Hit,77,HIT,Jonathan Huberdeau hit Mason Marchment,2023-03-07T01:56:30Z,1,10:02,09:58,0,1,20.0,Calgary Flames,CGY
+78,25,20,Dallas Stars,Calgary Flames,202202100878,2022021008,Hit,78,HIT,Tyler Seguin hit Nick Ritchie,2023-03-07T01:56:39Z,1,10:11,09:49,0,1,25.0,Dallas Stars,DAL
+79,25,20,Dallas Stars,Calgary Flames,202202100829,2022021008,Stoppage,29,STOP,Icing,2023-03-07T01:57:19Z,1,10:51,09:09,0,1,,,
+80,25,20,Dallas Stars,Calgary Flames,2022021008304,2022021008,Faceoff,304,FACEOFF,Roope Hintz faceoff won against Mikael Backlund,2023-03-07T01:57:45Z,1,10:51,09:09,0,1,25.0,Dallas Stars,DAL
+81,25,20,Dallas Stars,Calgary Flames,2022021008178,2022021008,Blocked Shot,178,BLOCKED_SHOT,Jason Robertson shot blocked shot by Mikael Backlund,2023-03-07T01:57:50Z,1,10:56,09:04,0,1,20.0,Calgary Flames,CGY
+82,25,20,Dallas Stars,Calgary Flames,202202100830,2022021008,Giveaway,30,GIVEAWAY,Giveaway by Troy Stecher,2023-03-07T01:57:51Z,1,10:57,09:03,0,1,20.0,Calgary Flames,CGY
+83,25,20,Dallas Stars,Calgary Flames,2022021008179,2022021008,Shot,179,SHOT,Joe Pavelski Wrist Shot saved by Jacob Markstrom,2023-03-07T01:58:00Z,1,11:06,08:54,0,1,25.0,Dallas Stars,DAL
+84,25,20,Dallas Stars,Calgary Flames,2022021008180,2022021008,Missed Shot,180,MISSED_SHOT,Jason Robertson Goalpost Jacob Markstrom,2023-03-07T01:58:03Z,1,11:09,08:51,0,1,25.0,Dallas Stars,DAL
+85,25,20,Dallas Stars,Calgary Flames,202202100831,2022021008,Takeaway,31,TAKEAWAY,Takeaway by Blake Coleman,2023-03-07T01:58:19Z,1,11:25,08:35,0,1,20.0,Calgary Flames,CGY
+86,25,20,Dallas Stars,Calgary Flames,202202100832,2022021008,Stoppage,32,STOP,Puck in Benches,2023-03-07T01:58:37Z,1,11:43,08:17,0,1,,,
+87,25,20,Dallas Stars,Calgary Flames,2022021008305,2022021008,Faceoff,305,FACEOFF,Tyler Seguin faceoff won against Elias Lindholm,2023-03-07T02:00:55Z,1,11:43,08:17,0,1,25.0,Dallas Stars,DAL
+88,25,20,Dallas Stars,Calgary Flames,2022021008181,2022021008,Blocked Shot,181,BLOCKED_SHOT,Tyler Toffoli shot blocked shot by Colin Miller,2023-03-07T02:01:23Z,1,12:11,07:49,0,1,25.0,Dallas Stars,DAL
+89,25,20,Dallas Stars,Calgary Flames,2022021008182,2022021008,Blocked Shot,182,BLOCKED_SHOT,Tyler Toffoli shot blocked shot by Mason Marchment,2023-03-07T02:01:24Z,1,12:12,07:48,0,1,25.0,Dallas Stars,DAL
+90,25,20,Dallas Stars,Calgary Flames,2022021008183,2022021008,Blocked Shot,183,BLOCKED_SHOT,Jakob Pelletier shot blocked shot by Mason Marchment,2023-03-07T02:01:31Z,1,12:19,07:41,0,1,25.0,Dallas Stars,DAL
+91,25,20,Dallas Stars,Calgary Flames,2022021008184,2022021008,Shot,184,SHOT,Tyler Toffoli Slap Shot saved by Jake Oettinger,2023-03-07T02:01:41Z,1,12:29,07:31,0,1,20.0,Calgary Flames,CGY
+92,25,20,Dallas Stars,Calgary Flames,202202100833,2022021008,Giveaway,33,GIVEAWAY,Giveaway by Troy Stecher,2023-03-07T02:01:48Z,1,12:36,07:24,0,1,20.0,Calgary Flames,CGY
+93,25,20,Dallas Stars,Calgary Flames,2022021008185,2022021008,Blocked Shot,185,BLOCKED_SHOT,Jani Hakanpää shot blocked shot by Nikita Zadorov,2023-03-07T02:02:04Z,1,12:52,07:08,0,1,20.0,Calgary Flames,CGY
+94,25,20,Dallas Stars,Calgary Flames,202202100879,2022021008,Hit,79,HIT,Jamie Benn hit Nikita Zadorov,2023-03-07T02:02:22Z,1,13:10,06:50,0,1,25.0,Dallas Stars,DAL
+95,25,20,Dallas Stars,Calgary Flames,2022021008186,2022021008,Shot,186,SHOT,Troy Stecher Wrist Shot saved by Jake Oettinger,2023-03-07T02:02:30Z,1,13:18,06:42,0,1,20.0,Calgary Flames,CGY
+96,25,20,Dallas Stars,Calgary Flames,202202100834,2022021008,Stoppage,34,STOP,Goalie Stopped,2023-03-07T02:02:31Z,1,13:19,06:41,0,1,,,
+97,25,20,Dallas Stars,Calgary Flames,2022021008306,2022021008,Faceoff,306,FACEOFF,Nazem Kadri faceoff won against Joe Pavelski,2023-03-07T02:03:09Z,1,13:19,06:41,0,1,20.0,Calgary Flames,CGY
+98,25,20,Dallas Stars,Calgary Flames,202202100835,2022021008,Giveaway,35,GIVEAWAY,Giveaway by Miro Heiskanen,2023-03-07T02:03:18Z,1,13:28,06:32,0,1,25.0,Dallas Stars,DAL
+99,25,20,Dallas Stars,Calgary Flames,2022021008187,2022021008,Missed Shot,187,MISSED_SHOT,Nick Ritchie Wide of Net Jake Oettinger,2023-03-07T02:03:22Z,1,13:32,06:28,0,1,20.0,Calgary Flames,CGY
+100,25,20,Dallas Stars,Calgary Flames,2022021008188,2022021008,Missed Shot,188,MISSED_SHOT,Nils Lundkvist Wide of Net Jacob Markstrom,2023-03-07T02:03:59Z,1,14:09,05:51,0,1,25.0,Dallas Stars,DAL
+101,25,20,Dallas Stars,Calgary Flames,202202100836,2022021008,Stoppage,36,STOP,Icing,2023-03-07T02:04:12Z,1,14:22,05:38,0,1,,,
+102,25,20,Dallas Stars,Calgary Flames,2022021008307,2022021008,Faceoff,307,FACEOFF,Ty Dellandrea faceoff won against Mikael Backlund,2023-03-07T02:04:38Z,1,14:22,05:38,0,1,25.0,Dallas Stars,DAL
+103,25,20,Dallas Stars,Calgary Flames,202202100837,2022021008,Stoppage,37,STOP,Puck in Benches,2023-03-07T02:04:43Z,1,14:27,05:33,0,1,,,
+104,25,20,Dallas Stars,Calgary Flames,2022021008308,2022021008,Faceoff,308,FACEOFF,Mikael Backlund faceoff won against Tyler Seguin,2023-03-07T02:06:54Z,1,14:27,05:33,0,1,20.0,Calgary Flames,CGY
+105,25,20,Dallas Stars,Calgary Flames,202202100838,2022021008,Takeaway,38,TAKEAWAY,Takeaway by Max Domi,2023-03-07T02:07:06Z,1,14:39,05:21,0,1,25.0,Dallas Stars,DAL
+106,25,20,Dallas Stars,Calgary Flames,2022021008189,2022021008,Shot,189,SHOT,Max Domi Wrist Shot saved by Jacob Markstrom,2023-03-07T02:07:10Z,1,14:43,05:17,0,1,25.0,Dallas Stars,DAL
+107,25,20,Dallas Stars,Calgary Flames,2022021008190,2022021008,Shot,190,SHOT,Blake Coleman Wrist Shot saved by Jake Oettinger,2023-03-07T02:07:18Z,1,14:51,05:09,0,1,20.0,Calgary Flames,CGY
+108,25,20,Dallas Stars,Calgary Flames,202202100839,2022021008,Stoppage,39,STOP,Goalie Stopped,2023-03-07T02:07:20Z,1,14:53,05:07,0,1,,,
+109,25,20,Dallas Stars,Calgary Flames,2022021008309,2022021008,Faceoff,309,FACEOFF,Wyatt Johnston faceoff won against Elias Lindholm,2023-03-07T02:07:49Z,1,14:53,05:07,0,1,25.0,Dallas Stars,DAL
+110,25,20,Dallas Stars,Calgary Flames,2022021008191,2022021008,Shot,191,SHOT,Jakob Pelletier Snap Shot saved by Jake Oettinger,2023-03-07T02:08:09Z,1,15:13,04:47,0,1,20.0,Calgary Flames,CGY
+111,25,20,Dallas Stars,Calgary Flames,202202100880,2022021008,Hit,80,HIT,Jani Hakanpää hit Dillon Dube,2023-03-07T02:08:28Z,1,15:32,04:28,0,1,25.0,Dallas Stars,DAL
+112,25,20,Dallas Stars,Calgary Flames,202202100881,2022021008,Hit,81,HIT,Jani Hakanpää hit Dillon Dube,2023-03-07T02:08:38Z,1,15:42,04:18,0,1,25.0,Dallas Stars,DAL
+113,25,20,Dallas Stars,Calgary Flames,202202100840,2022021008,Stoppage,40,STOP,Puck Frozen,2023-03-07T02:08:52Z,1,15:55,04:05,0,1,,,
+114,25,20,Dallas Stars,Calgary Flames,2022021008310,2022021008,Faceoff,310,FACEOFF,Ty Dellandrea faceoff won against Nazem Kadri,2023-03-07T02:09:30Z,1,15:55,04:05,0,1,25.0,Dallas Stars,DAL
+115,25,20,Dallas Stars,Calgary Flames,202202100841,2022021008,Stoppage,41,STOP,Icing,2023-03-07T02:09:36Z,1,16:02,03:58,0,1,,,
+116,25,20,Dallas Stars,Calgary Flames,2022021008311,2022021008,Faceoff,311,FACEOFF,Ty Dellandrea faceoff won against Nazem Kadri,2023-03-07T02:09:59Z,1,16:02,03:58,0,1,25.0,Dallas Stars,DAL
+117,25,20,Dallas Stars,Calgary Flames,202202100842,2022021008,Takeaway,42,TAKEAWAY,Takeaway by MacKenzie Weegar,2023-03-07T02:10:44Z,1,16:47,03:13,0,1,20.0,Calgary Flames,CGY
+118,25,20,Dallas Stars,Calgary Flames,2022021008192,2022021008,Shot,192,SHOT,Mason Marchment Wrist Shot saved by Jacob Markstrom,2023-03-07T02:11:00Z,1,17:03,02:57,0,1,25.0,Dallas Stars,DAL
+119,25,20,Dallas Stars,Calgary Flames,2022021008193,2022021008,Missed Shot,193,MISSED_SHOT,Ryan Suter Wide of Net Jacob Markstrom,2023-03-07T02:11:09Z,1,17:12,02:48,0,1,25.0,Dallas Stars,DAL
+120,25,20,Dallas Stars,Calgary Flames,2022021008194,2022021008,Missed Shot,194,MISSED_SHOT,Mikael Backlund Over Net Jake Oettinger,2023-03-07T02:11:18Z,1,17:21,02:39,0,1,20.0,Calgary Flames,CGY
+121,25,20,Dallas Stars,Calgary Flames,2022021008195,2022021008,Shot,195,SHOT,Jamie Benn Wrist Shot saved by Jacob Markstrom,2023-03-07T02:11:51Z,1,17:54,02:06,0,1,25.0,Dallas Stars,DAL
+122,25,20,Dallas Stars,Calgary Flames,202202100843,2022021008,Stoppage,43,STOP,Goalie Stopped,2023-03-07T02:11:52Z,1,17:55,02:05,0,1,,,
+123,25,20,Dallas Stars,Calgary Flames,2022021008312,2022021008,Faceoff,312,FACEOFF,Dillon Dube faceoff won against Joe Pavelski,2023-03-07T02:12:23Z,1,17:55,02:05,0,1,20.0,Calgary Flames,CGY
+124,25,20,Dallas Stars,Calgary Flames,202202100882,2022021008,Hit,82,HIT,Noah Hanifin hit Roope Hintz,2023-03-07T02:12:51Z,1,18:23,01:37,0,1,20.0,Calgary Flames,CGY
+125,25,20,Dallas Stars,Calgary Flames,2022021008516,2022021008,Penalty,516,PENALTY,Chris Tanev Holding against Jason Robertson,2023-03-07T02:12:58Z,1,18:30,01:30,0,1,20.0,Calgary Flames,CGY
+126,25,20,Dallas Stars,Calgary Flames,2022021008313,2022021008,Faceoff,313,FACEOFF,Mikael Backlund faceoff won against Tyler Seguin,2023-03-07T02:13:34Z,1,18:30,01:30,0,1,20.0,Calgary Flames,CGY
+127,25,20,Dallas Stars,Calgary Flames,202202100844,2022021008,Stoppage,44,STOP,Puck in Crowd,2023-03-07T02:13:39Z,1,18:35,01:25,0,1,,,
+128,25,20,Dallas Stars,Calgary Flames,2022021008314,2022021008,Faceoff,314,FACEOFF,Tyler Seguin faceoff won against Mikael Backlund,2023-03-07T02:13:55Z,1,18:35,01:25,0,1,25.0,Dallas Stars,DAL
+129,25,20,Dallas Stars,Calgary Flames,202202100845,2022021008,Stoppage,45,STOP,Offside,2023-03-07T02:14:02Z,1,18:43,01:17,0,1,,,
+130,25,20,Dallas Stars,Calgary Flames,2022021008315,2022021008,Faceoff,315,FACEOFF,Elias Lindholm faceoff won against Max Domi,2023-03-07T02:14:26Z,1,18:43,01:17,0,1,20.0,Calgary Flames,CGY
+131,25,20,Dallas Stars,Calgary Flames,2022021008196,2022021008,Shot,196,SHOT,Roope Hintz Wrist Shot saved by Jacob Markstrom,2023-03-07T02:15:41Z,1,19:58,00:02,0,1,25.0,Dallas Stars,DAL
+132,25,20,Dallas Stars,Calgary Flames,202202100846,2022021008,Period End,46,PERIOD_END,End of 1st Period,2023-03-07T02:15:44Z,1,20:00,00:00,0,1,,,
+133,25,20,Dallas Stars,Calgary Flames,202202100849,2022021008,Period Official,49,PERIOD_OFFICIAL,Period Official,2023-03-07T02:29:52Z,1,20:00,00:00,0,1,,,
+134,25,20,Dallas Stars,Calgary Flames,202202100850,2022021008,Period Ready,50,PERIOD_READY,Period Ready,2023-03-07T02:32:22Z,2,00:00,20:00,0,1,,,
+135,25,20,Dallas Stars,Calgary Flames,2022021008316,2022021008,Period Start,316,PERIOD_START,Period Start,2023-03-07T02:34:33Z,2,00:00,20:00,0,1,,,
+136,25,20,Dallas Stars,Calgary Flames,2022021008317,2022021008,Faceoff,317,FACEOFF,Elias Lindholm faceoff won against Jamie Benn,2023-03-07T02:34:33Z,2,00:00,20:00,0,1,20.0,Calgary Flames,CGY
+137,25,20,Dallas Stars,Calgary Flames,2022021008252,2022021008,Giveaway,252,GIVEAWAY,Giveaway by Mikael Backlund,2023-03-07T02:34:59Z,2,00:24,19:36,0,1,20.0,Calgary Flames,CGY
+138,25,20,Dallas Stars,Calgary Flames,2022021008251,2022021008,Giveaway,251,GIVEAWAY,Giveaway by Jason Robertson,2023-03-07T02:35:00Z,2,00:27,19:33,0,1,25.0,Dallas Stars,DAL
+139,25,20,Dallas Stars,Calgary Flames,2022021008253,2022021008,Takeaway,253,TAKEAWAY,Takeaway by Max Domi,2023-03-07T02:35:17Z,2,00:44,19:16,0,1,25.0,Dallas Stars,DAL
+140,25,20,Dallas Stars,Calgary Flames,2022021008254,2022021008,Stoppage,254,STOP,Icing,2023-03-07T02:35:21Z,2,00:48,19:12,0,1,,,
+141,25,20,Dallas Stars,Calgary Flames,2022021008318,2022021008,Faceoff,318,FACEOFF,Nazem Kadri faceoff won against Tyler Seguin,2023-03-07T02:36:08Z,2,00:48,19:12,0,1,20.0,Calgary Flames,CGY
+142,25,20,Dallas Stars,Calgary Flames,202202100883,2022021008,Hit,83,HIT,Nick Ritchie hit Esa Lindell,2023-03-07T02:36:13Z,2,00:53,19:07,0,1,20.0,Calgary Flames,CGY
+143,25,20,Dallas Stars,Calgary Flames,2022021008255,2022021008,Takeaway,255,TAKEAWAY,Takeaway by Jani Hakanpää,2023-03-07T02:36:30Z,2,01:10,18:50,0,1,25.0,Dallas Stars,DAL
+144,25,20,Dallas Stars,Calgary Flames,202202100885,2022021008,Hit,85,HIT,Mason Marchment hit Noah Hanifin,2023-03-07T02:36:44Z,2,01:24,18:36,0,1,25.0,Dallas Stars,DAL
+145,25,20,Dallas Stars,Calgary Flames,202202100886,2022021008,Hit,86,HIT,Trevor Lewis hit Colin Miller,2023-03-07T02:37:04Z,2,01:44,18:16,0,1,20.0,Calgary Flames,CGY
+146,25,20,Dallas Stars,Calgary Flames,2022021008256,2022021008,Giveaway,256,GIVEAWAY,Giveaway by Jamie Benn,2023-03-07T02:37:07Z,2,01:47,18:13,0,1,25.0,Dallas Stars,DAL
+147,25,20,Dallas Stars,Calgary Flames,2022021008257,2022021008,Stoppage,257,STOP,Puck in Crowd,2023-03-07T02:37:18Z,2,01:57,18:03,0,1,,,
+148,25,20,Dallas Stars,Calgary Flames,2022021008319,2022021008,Faceoff,319,FACEOFF,Mikael Backlund faceoff won against Radek Faksa,2023-03-07T02:37:57Z,2,01:57,18:03,0,1,20.0,Calgary Flames,CGY
+149,25,20,Dallas Stars,Calgary Flames,202202100887,2022021008,Hit,87,HIT,Ty Dellandrea hit Blake Coleman,2023-03-07T02:38:17Z,2,02:17,17:43,0,1,25.0,Dallas Stars,DAL
+150,25,20,Dallas Stars,Calgary Flames,2022021008258,2022021008,Giveaway,258,GIVEAWAY,Giveaway by Nils Lundkvist,2023-03-07T02:38:26Z,2,02:26,17:34,0,1,25.0,Dallas Stars,DAL
+151,25,20,Dallas Stars,Calgary Flames,2022021008259,2022021008,Stoppage,259,STOP,Icing,2023-03-07T02:38:33Z,2,02:33,17:27,0,1,,,
+152,25,20,Dallas Stars,Calgary Flames,2022021008320,2022021008,Faceoff,320,FACEOFF,Elias Lindholm faceoff won against Radek Faksa,2023-03-07T02:39:08Z,2,02:33,17:27,0,1,20.0,Calgary Flames,CGY
+153,25,20,Dallas Stars,Calgary Flames,2022021008197,2022021008,Blocked Shot,197,BLOCKED_SHOT,Tyler Toffoli shot blocked shot by Ryan Suter,2023-03-07T02:39:12Z,2,02:37,17:23,0,1,25.0,Dallas Stars,DAL
+154,25,20,Dallas Stars,Calgary Flames,2022021008260,2022021008,Takeaway,260,TAKEAWAY,Takeaway by Jason Robertson,2023-03-07T02:39:34Z,2,02:59,17:01,0,1,25.0,Dallas Stars,DAL
+155,25,20,Dallas Stars,Calgary Flames,2022021008198,2022021008,Blocked Shot,198,BLOCKED_SHOT,Joe Pavelski shot blocked shot by Jakob Pelletier,2023-03-07T02:39:45Z,2,03:10,16:50,0,1,20.0,Calgary Flames,CGY
+156,25,20,Dallas Stars,Calgary Flames,2022021008199,2022021008,Shot,199,SHOT,Max Domi Backhand saved by Jacob Markstrom,2023-03-07T02:40:29Z,2,03:54,16:06,0,1,25.0,Dallas Stars,DAL
+157,25,20,Dallas Stars,Calgary Flames,2022021008200,2022021008,Shot,200,SHOT,Nazem Kadri Snap Shot saved by Jake Oettinger,2023-03-07T02:41:01Z,2,04:26,15:34,0,1,20.0,Calgary Flames,CGY
+158,25,20,Dallas Stars,Calgary Flames,2022021008401,2022021008,Missed Shot,401,MISSED_SHOT,Nikita Zadorov Wide of Net Jake Oettinger,2023-03-07T02:41:04Z,2,04:29,15:31,0,1,20.0,Calgary Flames,CGY
+159,25,20,Dallas Stars,Calgary Flames,2022021008402,2022021008,Shot,402,SHOT,Nikita Zadorov Snap Shot saved by Jake Oettinger,2023-03-07T02:41:14Z,2,04:39,15:21,0,1,20.0,Calgary Flames,CGY
+160,25,20,Dallas Stars,Calgary Flames,2022021008403,2022021008,Goal,403,GOAL,"Nikita Zadorov (9) Slap Shot, assists: Troy Stecher (8), Nazem Kadri (25)",2023-03-07T02:41:25Z,2,04:51,15:09,0,2,20.0,Calgary Flames,CGY
+161,25,20,Dallas Stars,Calgary Flames,2022021008321,2022021008,Faceoff,321,FACEOFF,Mikael Backlund faceoff won against Jamie Benn,2023-03-07T02:42:05Z,2,04:51,15:09,0,2,20.0,Calgary Flames,CGY
+162,25,20,Dallas Stars,Calgary Flames,2022021008404,2022021008,Blocked Shot,404,BLOCKED_SHOT,Andrew Mangiapane shot blocked shot by Evgenii Dadonov,2023-03-07T02:42:12Z,2,04:58,15:02,0,2,25.0,Dallas Stars,DAL
+163,25,20,Dallas Stars,Calgary Flames,2022021008405,2022021008,Shot,405,SHOT,Andrew Mangiapane Backhand saved by Jake Oettinger,2023-03-07T02:42:19Z,2,05:05,14:55,0,2,20.0,Calgary Flames,CGY
+164,25,20,Dallas Stars,Calgary Flames,2022021008261,2022021008,Stoppage,261,STOP,Goalie Stopped,2023-03-07T02:42:21Z,2,05:07,14:53,0,2,,,
+165,25,20,Dallas Stars,Calgary Flames,2022021008322,2022021008,Faceoff,322,FACEOFF,Jamie Benn faceoff won against Mikael Backlund,2023-03-07T02:42:49Z,2,05:07,14:53,0,2,25.0,Dallas Stars,DAL
+166,25,20,Dallas Stars,Calgary Flames,2022021008262,2022021008,Takeaway,262,TAKEAWAY,Takeaway by Chris Tanev,2023-03-07T02:42:59Z,2,05:17,14:43,0,2,20.0,Calgary Flames,CGY
+167,25,20,Dallas Stars,Calgary Flames,2022021008406,2022021008,Missed Shot,406,MISSED_SHOT,Jamie Benn Wide of Net Jacob Markstrom,2023-03-07T02:43:16Z,2,05:34,14:26,0,2,25.0,Dallas Stars,DAL
+168,25,20,Dallas Stars,Calgary Flames,2022021008407,2022021008,Shot,407,SHOT,Ty Dellandrea Snap Shot saved by Jacob Markstrom,2023-03-07T02:43:55Z,2,06:13,13:47,0,2,25.0,Dallas Stars,DAL
+169,25,20,Dallas Stars,Calgary Flames,2022021008408,2022021008,Shot,408,SHOT,Tyler Toffoli Wrist Shot saved by Jake Oettinger,2023-03-07T02:44:01Z,2,06:19,13:41,0,2,20.0,Calgary Flames,CGY
+170,25,20,Dallas Stars,Calgary Flames,2022021008409,2022021008,Shot,409,SHOT,Nikita Zadorov Snap Shot saved by Jake Oettinger,2023-03-07T02:44:37Z,2,06:55,13:05,0,2,20.0,Calgary Flames,CGY
+171,25,20,Dallas Stars,Calgary Flames,2022021008263,2022021008,Stoppage,263,STOP,Goalie Stopped,2023-03-07T02:44:38Z,2,06:56,13:04,0,2,,,
+172,25,20,Dallas Stars,Calgary Flames,2022021008323,2022021008,Faceoff,323,FACEOFF,Joe Pavelski faceoff won against Nazem Kadri,2023-03-07T02:46:56Z,2,06:56,13:04,0,2,25.0,Dallas Stars,DAL
+173,25,20,Dallas Stars,Calgary Flames,2022021008264,2022021008,Stoppage,264,STOP,Referee or Linesman,2023-03-07T02:47:12Z,2,07:12,12:48,0,2,,,
+174,25,20,Dallas Stars,Calgary Flames,2022021008324,2022021008,Faceoff,324,FACEOFF,Max Domi faceoff won against Nazem Kadri,2023-03-07T02:48:16Z,2,07:12,12:48,0,2,25.0,Dallas Stars,DAL
+175,25,20,Dallas Stars,Calgary Flames,202202100889,2022021008,Hit,89,HIT,Mason Marchment hit Rasmus Andersson,2023-03-07T02:48:32Z,2,07:28,12:32,0,2,25.0,Dallas Stars,DAL
+176,25,20,Dallas Stars,Calgary Flames,202202100890,2022021008,Hit,90,HIT,Mason Marchment hit Nazem Kadri,2023-03-07T02:48:39Z,2,07:35,12:25,0,2,25.0,Dallas Stars,DAL
+177,25,20,Dallas Stars,Calgary Flames,2022021008265,2022021008,Stoppage,265,STOP,Icing,2023-03-07T02:48:41Z,2,07:37,12:23,0,2,,,
+178,25,20,Dallas Stars,Calgary Flames,2022021008325,2022021008,Faceoff,325,FACEOFF,Max Domi faceoff won against Nazem Kadri,2023-03-07T02:49:35Z,2,07:37,12:23,0,2,25.0,Dallas Stars,DAL
+179,25,20,Dallas Stars,Calgary Flames,2022021008266,2022021008,Giveaway,266,GIVEAWAY,Giveaway by Jani Hakanpää,2023-03-07T02:49:44Z,2,07:46,12:14,0,2,25.0,Dallas Stars,DAL
+180,25,20,Dallas Stars,Calgary Flames,2022021008410,2022021008,Shot,410,SHOT,MacKenzie Weegar Wrist Shot saved by Jake Oettinger,2023-03-07T02:49:52Z,2,07:54,12:06,0,2,20.0,Calgary Flames,CGY
+181,25,20,Dallas Stars,Calgary Flames,2022021008411,2022021008,Missed Shot,411,MISSED_SHOT,Max Domi Goalpost Jacob Markstrom,2023-03-07T02:50:09Z,2,08:11,11:49,0,2,25.0,Dallas Stars,DAL
+182,25,20,Dallas Stars,Calgary Flames,202202100891,2022021008,Hit,91,HIT,Dillon Dube hit Mason Marchment,2023-03-07T02:50:11Z,2,08:13,11:47,0,2,20.0,Calgary Flames,CGY
+183,25,20,Dallas Stars,Calgary Flames,2022021008412,2022021008,Shot,412,SHOT,Noah Hanifin Backhand saved by Jake Oettinger,2023-03-07T02:50:29Z,2,08:31,11:29,0,2,20.0,Calgary Flames,CGY
+184,25,20,Dallas Stars,Calgary Flames,2022021008267,2022021008,Giveaway,267,GIVEAWAY,Giveaway by Dillon Dube,2023-03-07T02:50:34Z,2,08:36,11:24,0,2,20.0,Calgary Flames,CGY
+185,25,20,Dallas Stars,Calgary Flames,2022021008413,2022021008,Shot,413,SHOT,Evgenii Dadonov Wrist Shot saved by Jacob Markstrom,2023-03-07T02:50:38Z,2,08:40,11:20,0,2,25.0,Dallas Stars,DAL
+186,25,20,Dallas Stars,Calgary Flames,2022021008414,2022021008,Shot,414,SHOT,Evgenii Dadonov Deflected saved by Jacob Markstrom,2023-03-07T02:50:46Z,2,08:48,11:12,0,2,25.0,Dallas Stars,DAL
+187,25,20,Dallas Stars,Calgary Flames,2022021008703,2022021008,Penalty,703,PENALTY,Dillon Dube Tripping against Ryan Suter,2023-03-07T02:50:48Z,2,08:49,11:11,0,2,20.0,Calgary Flames,CGY
+188,25,20,Dallas Stars,Calgary Flames,2022021008326,2022021008,Faceoff,326,FACEOFF,Jamie Benn faceoff won against Elias Lindholm,2023-03-07T02:51:28Z,2,08:49,11:11,0,2,25.0,Dallas Stars,DAL
+189,25,20,Dallas Stars,Calgary Flames,2022021008415,2022021008,Blocked Shot,415,BLOCKED_SHOT,Miro Heiskanen shot blocked shot by Nikita Zadorov,2023-03-07T02:51:35Z,2,08:56,11:04,0,2,20.0,Calgary Flames,CGY
+190,25,20,Dallas Stars,Calgary Flames,2022021008268,2022021008,Giveaway,268,GIVEAWAY,Giveaway by Jamie Benn,2023-03-07T02:51:57Z,2,09:18,10:42,0,2,25.0,Dallas Stars,DAL
+191,25,20,Dallas Stars,Calgary Flames,202202100892,2022021008,Hit,92,HIT,Jamie Benn hit Elias Lindholm,2023-03-07T02:52:04Z,2,09:25,10:35,0,2,25.0,Dallas Stars,DAL
+192,25,20,Dallas Stars,Calgary Flames,2022021008269,2022021008,Giveaway,269,GIVEAWAY,Giveaway by Jamie Benn,2023-03-07T02:52:17Z,2,09:38,10:22,0,2,25.0,Dallas Stars,DAL
+193,25,20,Dallas Stars,Calgary Flames,2022021008416,2022021008,Shot,416,SHOT,Blake Coleman Snap Shot saved by Jake Oettinger,2023-03-07T02:52:24Z,2,09:45,10:15,0,2,20.0,Calgary Flames,CGY
+194,25,20,Dallas Stars,Calgary Flames,202202100893,2022021008,Hit,93,HIT,Chris Tanev hit Max Domi,2023-03-07T02:52:52Z,2,10:13,09:47,0,2,20.0,Calgary Flames,CGY
+195,25,20,Dallas Stars,Calgary Flames,2022021008417,2022021008,Blocked Shot,417,BLOCKED_SHOT,Max Domi shot blocked shot by Chris Tanev,2023-03-07T02:53:00Z,2,10:21,09:39,0,2,20.0,Calgary Flames,CGY
+196,25,20,Dallas Stars,Calgary Flames,2022021008271,2022021008,Takeaway,271,TAKEAWAY,Takeaway by Chris Tanev,2023-03-07T02:53:06Z,2,10:27,09:33,0,2,20.0,Calgary Flames,CGY
+197,25,20,Dallas Stars,Calgary Flames,2022021008270,2022021008,Giveaway,270,GIVEAWAY,Giveaway by Chris Tanev,2023-03-07T02:53:08Z,2,10:29,09:31,0,2,20.0,Calgary Flames,CGY
+198,25,20,Dallas Stars,Calgary Flames,2022021008418,2022021008,Blocked Shot,418,BLOCKED_SHOT,Max Domi shot blocked shot by Chris Tanev,2023-03-07T02:53:14Z,2,10:35,09:25,0,2,20.0,Calgary Flames,CGY
+199,25,20,Dallas Stars,Calgary Flames,2022021008272,2022021008,Giveaway,272,GIVEAWAY,Giveaway by Nikita Zadorov,2023-03-07T02:53:39Z,2,11:00,09:00,0,2,20.0,Calgary Flames,CGY
+200,25,20,Dallas Stars,Calgary Flames,202202100894,2022021008,Hit,94,HIT,Radek Faksa hit Nikita Zadorov,2023-03-07T02:53:57Z,2,11:18,08:42,0,2,25.0,Dallas Stars,DAL
+201,25,20,Dallas Stars,Calgary Flames,2022021008273,2022021008,Giveaway,273,GIVEAWAY,Giveaway by Nick Ritchie,2023-03-07T02:53:58Z,2,11:19,08:41,0,2,20.0,Calgary Flames,CGY
+202,25,20,Dallas Stars,Calgary Flames,2022021008274,2022021008,Stoppage,274,STOP,TV timeout,2023-03-07T02:54:04Z,2,11:25,08:35,0,2,,,
+203,25,20,Dallas Stars,Calgary Flames,2022021008729,2022021008,Penalty,729,PENALTY,Nikita Zadorov Holding against Radek Faksa,2023-03-07T02:54:04Z,2,11:25,08:35,0,2,20.0,Calgary Flames,CGY
+204,25,20,Dallas Stars,Calgary Flames,2022021008327,2022021008,Faceoff,327,FACEOFF,Jamie Benn faceoff won against Elias Lindholm,2023-03-07T02:56:25Z,2,11:25,08:35,0,2,25.0,Dallas Stars,DAL
+205,25,20,Dallas Stars,Calgary Flames,2022021008419,2022021008,Blocked Shot,419,BLOCKED_SHOT,Roope Hintz shot blocked shot by Chris Tanev,2023-03-07T02:56:31Z,2,11:31,08:29,0,2,20.0,Calgary Flames,CGY
+206,25,20,Dallas Stars,Calgary Flames,2022021008420,2022021008,Goal,420,GOAL,"Jason Robertson (38) Slap Shot, assists: Miro Heiskanen (38), Jamie Benn (31)",2023-03-07T02:56:48Z,2,11:48,08:12,1,2,25.0,Dallas Stars,DAL
+207,25,20,Dallas Stars,Calgary Flames,202202100895,2022021008,Faceoff,95,FACEOFF,Nazem Kadri faceoff won against Max Domi,2023-03-07T02:57:35Z,2,11:48,08:12,1,2,20.0,Calgary Flames,CGY
+208,25,20,Dallas Stars,Calgary Flames,2022021008421,2022021008,Blocked Shot,421,BLOCKED_SHOT,Rasmus Andersson shot blocked shot by Jani Hakanpää,2023-03-07T02:57:46Z,2,11:59,08:01,1,2,25.0,Dallas Stars,DAL
+209,25,20,Dallas Stars,Calgary Flames,2022021008422,2022021008,Shot,422,SHOT,Nick Ritchie Snap Shot saved by Jake Oettinger,2023-03-07T02:57:55Z,2,12:08,07:52,1,2,20.0,Calgary Flames,CGY
+210,25,20,Dallas Stars,Calgary Flames,2022021008275,2022021008,Giveaway,275,GIVEAWAY,Giveaway by Mason Marchment,2023-03-07T02:57:58Z,2,12:11,07:49,1,2,25.0,Dallas Stars,DAL
+211,25,20,Dallas Stars,Calgary Flames,2022021008276,2022021008,Takeaway,276,TAKEAWAY,Takeaway by Mason Marchment,2023-03-07T02:58:04Z,2,12:17,07:43,1,2,25.0,Dallas Stars,DAL
+212,25,20,Dallas Stars,Calgary Flames,202202100896,2022021008,Hit,96,HIT,MacKenzie Weegar hit Mason Marchment,2023-03-07T02:58:05Z,2,12:18,07:42,1,2,20.0,Calgary Flames,CGY
+213,25,20,Dallas Stars,Calgary Flames,2022021008423,2022021008,Shot,423,SHOT,Nazem Kadri Wrist Shot saved by Jake Oettinger,2023-03-07T02:58:26Z,2,12:39,07:21,1,2,20.0,Calgary Flames,CGY
+214,25,20,Dallas Stars,Calgary Flames,2022021008277,2022021008,Stoppage,277,STOP,Goalie Stopped,2023-03-07T02:58:27Z,2,12:41,07:19,1,2,,,
+215,25,20,Dallas Stars,Calgary Flames,2022021008329,2022021008,Faceoff,329,FACEOFF,Wyatt Johnston faceoff won against Dillon Dube,2023-03-07T02:59:01Z,2,12:41,07:19,1,2,25.0,Dallas Stars,DAL
+216,25,20,Dallas Stars,Calgary Flames,2022021008278,2022021008,Stoppage,278,STOP,Icing,2023-03-07T02:59:08Z,2,12:48,07:12,1,2,,,
+217,25,20,Dallas Stars,Calgary Flames,2022021008330,2022021008,Faceoff,330,FACEOFF,Jamie Benn faceoff won against Trevor Lewis,2023-03-07T02:59:32Z,2,12:48,07:12,1,2,25.0,Dallas Stars,DAL
+218,25,20,Dallas Stars,Calgary Flames,2022021008279,2022021008,Giveaway,279,GIVEAWAY,Giveaway by Ryan Suter,2023-03-07T02:59:34Z,2,12:50,07:10,1,2,25.0,Dallas Stars,DAL
+219,25,20,Dallas Stars,Calgary Flames,2022021008280,2022021008,Takeaway,280,TAKEAWAY,Takeaway by Jamie Benn,2023-03-07T02:59:49Z,2,13:05,06:55,1,2,25.0,Dallas Stars,DAL
+220,25,20,Dallas Stars,Calgary Flames,2022021008281,2022021008,Giveaway,281,GIVEAWAY,Giveaway by Dillon Dube,2023-03-07T03:00:23Z,2,13:39,06:21,1,2,20.0,Calgary Flames,CGY
+221,25,20,Dallas Stars,Calgary Flames,202202100898,2022021008,Hit,98,HIT,Tyler Toffoli hit Nils Lundkvist,2023-03-07T03:00:32Z,2,13:48,06:12,1,2,20.0,Calgary Flames,CGY
+222,25,20,Dallas Stars,Calgary Flames,202202100899,2022021008,Hit,99,HIT,Joel Kiviranta hit MacKenzie Weegar,2023-03-07T03:00:58Z,2,14:14,05:46,1,2,25.0,Dallas Stars,DAL
+223,25,20,Dallas Stars,Calgary Flames,2022021008282,2022021008,Giveaway,282,GIVEAWAY,Giveaway by Roope Hintz,2023-03-07T03:01:25Z,2,14:41,05:19,1,2,25.0,Dallas Stars,DAL
+224,25,20,Dallas Stars,Calgary Flames,2022021008283,2022021008,Giveaway,283,GIVEAWAY,Giveaway by Ryan Suter,2023-03-07T03:01:35Z,2,14:51,05:09,1,2,25.0,Dallas Stars,DAL
+225,25,20,Dallas Stars,Calgary Flames,2022021008100,2022021008,Hit,100,HIT,Roope Hintz hit Rasmus Andersson,2023-03-07T03:01:43Z,2,14:59,05:01,1,2,25.0,Dallas Stars,DAL
+226,25,20,Dallas Stars,Calgary Flames,2022021008284,2022021008,Giveaway,284,GIVEAWAY,Giveaway by Joe Pavelski,2023-03-07T03:01:50Z,2,15:06,04:54,1,2,25.0,Dallas Stars,DAL
+227,25,20,Dallas Stars,Calgary Flames,2022021008285,2022021008,Stoppage,285,STOP,Offside,2023-03-07T03:02:10Z,2,15:26,04:34,1,2,,,
+228,25,20,Dallas Stars,Calgary Flames,2022021008331,2022021008,Faceoff,331,FACEOFF,Max Domi faceoff won against Nazem Kadri,2023-03-07T03:04:24Z,2,15:26,04:34,1,2,25.0,Dallas Stars,DAL
+229,25,20,Dallas Stars,Calgary Flames,2022021008286,2022021008,Giveaway,286,GIVEAWAY,Giveaway by Chris Tanev,2023-03-07T03:04:36Z,2,15:38,04:22,1,2,20.0,Calgary Flames,CGY
+230,25,20,Dallas Stars,Calgary Flames,2022021008287,2022021008,Takeaway,287,TAKEAWAY,Takeaway by Tyler Seguin,2023-03-07T03:04:39Z,2,15:40,04:20,1,2,25.0,Dallas Stars,DAL
+231,25,20,Dallas Stars,Calgary Flames,2022021008424,2022021008,Goal,424,GOAL,"Max Domi (19) Snap Shot, assists: Mason Marchment (17), Tyler Seguin (25)",2023-03-07T03:04:40Z,2,15:42,04:18,2,2,25.0,Dallas Stars,DAL
+232,25,20,Dallas Stars,Calgary Flames,2022021008332,2022021008,Faceoff,332,FACEOFF,Jamie Benn faceoff won against Nazem Kadri,2023-03-07T03:05:23Z,2,15:42,04:18,2,2,25.0,Dallas Stars,DAL
+233,25,20,Dallas Stars,Calgary Flames,2022021008352,2022021008,Hit,352,HIT,Esa Lindell hit Nick Ritchie,2023-03-07T03:05:35Z,2,15:54,04:06,2,2,25.0,Dallas Stars,DAL
+234,25,20,Dallas Stars,Calgary Flames,2022021008425,2022021008,Shot,425,SHOT,Jamie Benn Wrist Shot saved by Jacob Markstrom,2023-03-07T03:05:48Z,2,16:07,03:53,2,2,25.0,Dallas Stars,DAL
+235,25,20,Dallas Stars,Calgary Flames,2022021008426,2022021008,Missed Shot,426,MISSED_SHOT,Jamie Benn Wide of Net Jacob Markstrom,2023-03-07T03:05:55Z,2,16:14,03:46,2,2,25.0,Dallas Stars,DAL
+236,25,20,Dallas Stars,Calgary Flames,2022021008353,2022021008,Hit,353,HIT,Evgenii Dadonov hit Nazem Kadri,2023-03-07T03:06:11Z,2,16:30,03:30,2,2,25.0,Dallas Stars,DAL
+237,25,20,Dallas Stars,Calgary Flames,2022021008354,2022021008,Hit,354,HIT,Trevor Lewis hit Miro Heiskanen,2023-03-07T03:06:24Z,2,16:43,03:17,2,2,20.0,Calgary Flames,CGY
+238,25,20,Dallas Stars,Calgary Flames,2022021008288,2022021008,Stoppage,288,STOP,Puck in Crowd,2023-03-07T03:06:29Z,2,16:48,03:12,2,2,,,
+239,25,20,Dallas Stars,Calgary Flames,2022021008333,2022021008,Faceoff,333,FACEOFF,Ty Dellandrea faceoff won against Mikael Backlund,2023-03-07T03:06:59Z,2,16:48,03:12,2,2,25.0,Dallas Stars,DAL
+240,25,20,Dallas Stars,Calgary Flames,2022021008289,2022021008,Stoppage,289,STOP,Icing,2023-03-07T03:07:09Z,2,16:58,03:02,2,2,,,
+241,25,20,Dallas Stars,Calgary Flames,2022021008334,2022021008,Faceoff,334,FACEOFF,Ty Dellandrea faceoff won against Mikael Backlund,2023-03-07T03:07:35Z,2,16:58,03:02,2,2,25.0,Dallas Stars,DAL
+242,25,20,Dallas Stars,Calgary Flames,2022021008290,2022021008,Takeaway,290,TAKEAWAY,Takeaway by Mikael Backlund,2023-03-07T03:07:48Z,2,17:11,02:49,2,2,20.0,Calgary Flames,CGY
+243,25,20,Dallas Stars,Calgary Flames,2022021008356,2022021008,Hit,356,HIT,Mikael Backlund hit Ty Dellandrea,2023-03-07T03:07:52Z,2,17:15,02:45,2,2,20.0,Calgary Flames,CGY
+244,25,20,Dallas Stars,Calgary Flames,2022021008291,2022021008,Stoppage,291,STOP,Icing,2023-03-07T03:07:56Z,2,17:19,02:41,2,2,,,
+245,25,20,Dallas Stars,Calgary Flames,2022021008335,2022021008,Faceoff,335,FACEOFF,Elias Lindholm faceoff won against Radek Faksa,2023-03-07T03:08:30Z,2,17:19,02:41,2,2,20.0,Calgary Flames,CGY
+246,25,20,Dallas Stars,Calgary Flames,2022021008427,2022021008,Shot,427,SHOT,Chris Tanev Snap Shot saved by Jake Oettinger,2023-03-07T03:08:33Z,2,17:22,02:38,2,2,20.0,Calgary Flames,CGY
+247,25,20,Dallas Stars,Calgary Flames,2022021008292,2022021008,Giveaway,292,GIVEAWAY,Giveaway by Jakob Pelletier,2023-03-07T03:08:50Z,2,17:39,02:21,2,2,20.0,Calgary Flames,CGY
+248,25,20,Dallas Stars,Calgary Flames,2022021008358,2022021008,Hit,358,HIT,Joel Kiviranta hit Chris Tanev,2023-03-07T03:08:57Z,2,17:46,02:14,2,2,25.0,Dallas Stars,DAL
+249,25,20,Dallas Stars,Calgary Flames,2022021008429,2022021008,Goal,429,GOAL,"Elias Lindholm (18) , assists: none",2023-03-07T03:09:04Z,2,17:53,02:07,2,3,20.0,Calgary Flames,CGY
+250,25,20,Dallas Stars,Calgary Flames,2022021008336,2022021008,Faceoff,336,FACEOFF,Dillon Dube faceoff won against Roope Hintz,2023-03-07T03:09:51Z,2,17:53,02:07,2,3,20.0,Calgary Flames,CGY
+251,25,20,Dallas Stars,Calgary Flames,2022021008294,2022021008,Giveaway,294,GIVEAWAY,Giveaway by Joe Pavelski,2023-03-07T03:10:36Z,2,18:38,01:22,2,3,25.0,Dallas Stars,DAL
+252,25,20,Dallas Stars,Calgary Flames,2022021008295,2022021008,Takeaway,295,TAKEAWAY,Takeaway by Max Domi,2023-03-07T03:10:42Z,2,18:44,01:16,2,3,25.0,Dallas Stars,DAL
+253,25,20,Dallas Stars,Calgary Flames,2022021008430,2022021008,Shot,430,SHOT,Mason Marchment Wrist Shot saved by Jacob Markstrom,2023-03-07T03:11:21Z,2,19:23,00:37,2,3,25.0,Dallas Stars,DAL
+254,25,20,Dallas Stars,Calgary Flames,2022021008431,2022021008,Shot,431,SHOT,Blake Coleman Wrist Shot saved by Jake Oettinger,2023-03-07T03:11:27Z,2,19:29,00:31,2,3,20.0,Calgary Flames,CGY
+255,25,20,Dallas Stars,Calgary Flames,2022021008296,2022021008,Stoppage,296,STOP,Goalie Puck Frozen Played Beyond Center Line,2023-03-07T03:11:30Z,2,19:31,00:29,2,3,,,
+256,25,20,Dallas Stars,Calgary Flames,2022021008337,2022021008,Faceoff,337,FACEOFF,Tyler Seguin faceoff won against Mikael Backlund,2023-03-07T03:11:58Z,2,19:31,00:29,2,3,25.0,Dallas Stars,DAL
+257,25,20,Dallas Stars,Calgary Flames,2022021008297,2022021008,Stoppage,297,STOP,Puck in Crowd,2023-03-07T03:12:02Z,2,19:35,00:25,2,3,,,
+258,25,20,Dallas Stars,Calgary Flames,2022021008338,2022021008,Faceoff,338,FACEOFF,Mikael Backlund faceoff won against Wyatt Johnston,2023-03-07T03:12:30Z,2,19:35,00:25,2,3,20.0,Calgary Flames,CGY
+259,25,20,Dallas Stars,Calgary Flames,2022021008359,2022021008,Hit,359,HIT,Blake Coleman hit Esa Lindell,2023-03-07T03:12:48Z,2,19:53,00:07,2,3,20.0,Calgary Flames,CGY
+260,25,20,Dallas Stars,Calgary Flames,2022021008298,2022021008,Stoppage,298,STOP,Puck Frozen,2023-03-07T03:12:51Z,2,19:56,00:04,2,3,,,
+261,25,20,Dallas Stars,Calgary Flames,2022021008339,2022021008,Faceoff,339,FACEOFF,Elias Lindholm faceoff won against Jamie Benn,2023-03-07T03:13:38Z,2,19:56,00:04,2,3,20.0,Calgary Flames,CGY
+262,25,20,Dallas Stars,Calgary Flames,2022021008299,2022021008,Stoppage,299,STOP,Puck in Crowd,2023-03-07T03:13:40Z,2,19:58,00:02,2,3,,,
+263,25,20,Dallas Stars,Calgary Flames,2022021008340,2022021008,Faceoff,340,FACEOFF,Mikael Backlund faceoff won against Jamie Benn,2023-03-07T03:14:07Z,2,19:58,00:02,2,3,20.0,Calgary Flames,CGY
+264,25,20,Dallas Stars,Calgary Flames,2022021008432,2022021008,Blocked Shot,432,BLOCKED_SHOT,Rasmus Andersson shot blocked shot by Esa Lindell,2023-03-07T03:14:07Z,2,19:59,00:01,2,3,25.0,Dallas Stars,DAL
+265,25,20,Dallas Stars,Calgary Flames,2022021008300,2022021008,Period End,300,PERIOD_END,End of 2nd Period,2023-03-07T03:14:08Z,2,20:00,00:00,2,3,,,
+266,25,20,Dallas Stars,Calgary Flames,2022021008753,2022021008,Period Official,753,PERIOD_OFFICIAL,Period Official,2023-03-07T03:19:50Z,2,20:00,00:00,2,3,,,
+267,25,20,Dallas Stars,Calgary Flames,2022021008754,2022021008,Period Ready,754,PERIOD_READY,Period Ready,2023-03-07T03:31:11Z,3,00:00,20:00,2,3,,,
+268,25,20,Dallas Stars,Calgary Flames,2022021008341,2022021008,Period Start,341,PERIOD_START,Period Start,2023-03-07T03:32:51Z,3,00:00,20:00,2,3,,,
+269,25,20,Dallas Stars,Calgary Flames,2022021008342,2022021008,Faceoff,342,FACEOFF,Mikael Backlund faceoff won against Wyatt Johnston,2023-03-07T03:32:51Z,3,00:00,20:00,2,3,20.0,Calgary Flames,CGY
+270,25,20,Dallas Stars,Calgary Flames,2022021008360,2022021008,Hit,360,HIT,Rasmus Andersson hit Jamie Benn,2023-03-07T03:33:11Z,3,00:20,19:40,2,3,20.0,Calgary Flames,CGY
+271,25,20,Dallas Stars,Calgary Flames,2022021008433,2022021008,Shot,433,SHOT,Wyatt Johnston Tip-In saved by Jacob Markstrom,2023-03-07T03:33:13Z,3,00:22,19:38,2,3,25.0,Dallas Stars,DAL
+272,25,20,Dallas Stars,Calgary Flames,2022021008361,2022021008,Hit,361,HIT,MacKenzie Weegar hit Wyatt Johnston,2023-03-07T03:33:32Z,3,00:41,19:19,2,3,20.0,Calgary Flames,CGY
+273,25,20,Dallas Stars,Calgary Flames,2022021008755,2022021008,Giveaway,755,GIVEAWAY,Giveaway by Jason Robertson,2023-03-07T03:33:45Z,3,00:54,19:06,2,3,25.0,Dallas Stars,DAL
+274,25,20,Dallas Stars,Calgary Flames,2022021008434,2022021008,Missed Shot,434,MISSED_SHOT,Blake Coleman Wide of Net Jake Oettinger,2023-03-07T03:33:47Z,3,00:56,19:04,2,3,20.0,Calgary Flames,CGY
+275,25,20,Dallas Stars,Calgary Flames,2022021008756,2022021008,Stoppage,756,STOP,Puck in Netting,2023-03-07T03:33:59Z,3,01:07,18:53,2,3,,,
+276,25,20,Dallas Stars,Calgary Flames,2022021008343,2022021008,Faceoff,343,FACEOFF,Elias Lindholm faceoff won against Joe Pavelski,2023-03-07T03:34:21Z,3,01:07,18:53,2,3,20.0,Calgary Flames,CGY
+277,25,20,Dallas Stars,Calgary Flames,2022021008435,2022021008,Blocked Shot,435,BLOCKED_SHOT,Noah Hanifin shot blocked shot by Esa Lindell,2023-03-07T03:34:31Z,3,01:17,18:43,2,3,25.0,Dallas Stars,DAL
+278,25,20,Dallas Stars,Calgary Flames,2022021008757,2022021008,Stoppage,757,STOP,Offside,2023-03-07T03:34:38Z,3,01:24,18:36,2,3,,,
+279,25,20,Dallas Stars,Calgary Flames,2022021008344,2022021008,Faceoff,344,FACEOFF,Nazem Kadri faceoff won against Max Domi,2023-03-07T03:35:01Z,3,01:24,18:36,2,3,20.0,Calgary Flames,CGY
+280,25,20,Dallas Stars,Calgary Flames,2022021008436,2022021008,Missed Shot,436,MISSED_SHOT,Jonathan Huberdeau Wide of Net Jake Oettinger,2023-03-07T03:35:11Z,3,01:34,18:26,2,3,20.0,Calgary Flames,CGY
+281,25,20,Dallas Stars,Calgary Flames,2022021008437,2022021008,Missed Shot,437,MISSED_SHOT,Troy Stecher Wide of Net Jake Oettinger,2023-03-07T03:35:16Z,3,01:39,18:21,2,3,20.0,Calgary Flames,CGY
+282,25,20,Dallas Stars,Calgary Flames,2022021008438,2022021008,Shot,438,SHOT,Troy Stecher Wrist Shot saved by Jake Oettinger,2023-03-07T03:35:26Z,3,01:49,18:11,2,3,20.0,Calgary Flames,CGY
+283,25,20,Dallas Stars,Calgary Flames,2022021008758,2022021008,Takeaway,758,TAKEAWAY,Takeaway by Max Domi,2023-03-07T03:35:34Z,3,01:57,18:03,2,3,25.0,Dallas Stars,DAL
+284,25,20,Dallas Stars,Calgary Flames,2022021008362,2022021008,Hit,362,HIT,Trevor Lewis hit Nils Lundkvist,2023-03-07T03:36:01Z,3,02:24,17:36,2,3,20.0,Calgary Flames,CGY
+285,25,20,Dallas Stars,Calgary Flames,2022021008439,2022021008,Blocked Shot,439,BLOCKED_SHOT,Nils Lundkvist shot blocked shot by MacKenzie Weegar,2023-03-07T03:36:07Z,3,02:30,17:30,2,3,20.0,Calgary Flames,CGY
+286,25,20,Dallas Stars,Calgary Flames,2022021008440,2022021008,Missed Shot,440,MISSED_SHOT,Radek Faksa Wide of Net Jacob Markstrom,2023-03-07T03:36:09Z,3,02:32,17:28,2,3,25.0,Dallas Stars,DAL
+287,25,20,Dallas Stars,Calgary Flames,2022021008759,2022021008,Giveaway,759,GIVEAWAY,Giveaway by Wyatt Johnston,2023-03-07T03:36:31Z,3,02:54,17:06,2,3,25.0,Dallas Stars,DAL
+288,25,20,Dallas Stars,Calgary Flames,2022021008441,2022021008,Shot,441,SHOT,Wyatt Johnston Snap Shot saved by Jacob Markstrom,2023-03-07T03:36:50Z,3,03:13,16:47,2,3,25.0,Dallas Stars,DAL
+289,25,20,Dallas Stars,Calgary Flames,2022021008363,2022021008,Hit,363,HIT,Chris Tanev hit Evgenii Dadonov,2023-03-07T03:37:02Z,3,03:25,16:35,2,3,20.0,Calgary Flames,CGY
+290,25,20,Dallas Stars,Calgary Flames,2022021008364,2022021008,Hit,364,HIT,Esa Lindell hit Tyler Toffoli,2023-03-07T03:37:27Z,3,03:50,16:10,2,3,25.0,Dallas Stars,DAL
+291,25,20,Dallas Stars,Calgary Flames,2022021008442,2022021008,Missed Shot,442,MISSED_SHOT,Tyler Toffoli Wide of Net Jake Oettinger,2023-03-07T03:37:52Z,3,04:14,15:46,2,3,20.0,Calgary Flames,CGY
+292,25,20,Dallas Stars,Calgary Flames,2022021008760,2022021008,Giveaway,760,GIVEAWAY,Giveaway by Joe Pavelski,2023-03-07T03:37:56Z,3,04:19,15:41,2,3,25.0,Dallas Stars,DAL
+293,25,20,Dallas Stars,Calgary Flames,2022021008443,2022021008,Goal,443,GOAL,"Rasmus Andersson (8) Wrist Shot, assists: Nazem Kadri (26)",2023-03-07T03:38:02Z,3,04:24,15:36,2,4,20.0,Calgary Flames,CGY
+294,25,20,Dallas Stars,Calgary Flames,2022021008345,2022021008,Faceoff,345,FACEOFF,Nazem Kadri faceoff won against Tyler Seguin,2023-03-07T03:38:42Z,3,04:24,15:36,2,4,20.0,Calgary Flames,CGY
+295,25,20,Dallas Stars,Calgary Flames,2022021008761,2022021008,Stoppage,761,STOP,Puck in Benches,2023-03-07T03:38:49Z,3,04:31,15:29,2,4,,,
+296,25,20,Dallas Stars,Calgary Flames,2022021008346,2022021008,Faceoff,346,FACEOFF,Tyler Seguin faceoff won against Nazem Kadri,2023-03-07T03:39:13Z,3,04:31,15:29,2,4,25.0,Dallas Stars,DAL
+297,25,20,Dallas Stars,Calgary Flames,2022021008762,2022021008,Stoppage,762,STOP,Puck in Crowd,2023-03-07T03:39:21Z,3,04:39,15:21,2,4,,,
+298,25,20,Dallas Stars,Calgary Flames,2022021008366,2022021008,Faceoff,366,FACEOFF,Elias Lindholm faceoff won against Max Domi,2023-03-07T03:39:51Z,3,04:39,15:21,2,4,20.0,Calgary Flames,CGY
+299,25,20,Dallas Stars,Calgary Flames,2022021008763,2022021008,Giveaway,763,GIVEAWAY,Giveaway by MacKenzie Weegar,2023-03-07T03:39:54Z,3,04:42,15:18,2,4,20.0,Calgary Flames,CGY
+300,25,20,Dallas Stars,Calgary Flames,2022021008444,2022021008,Shot,444,SHOT,Mason Marchment Backhand saved by Jacob Markstrom,2023-03-07T03:40:21Z,3,05:09,14:51,2,4,25.0,Dallas Stars,DAL
+301,25,20,Dallas Stars,Calgary Flames,2022021008764,2022021008,Stoppage,764,STOP,Goalie Stopped,2023-03-07T03:40:22Z,3,05:11,14:49,2,4,,,
+302,25,20,Dallas Stars,Calgary Flames,2022021008347,2022021008,Faceoff,347,FACEOFF,Mikael Backlund faceoff won against Radek Faksa,2023-03-07T03:41:03Z,3,05:11,14:49,2,4,20.0,Calgary Flames,CGY
+303,25,20,Dallas Stars,Calgary Flames,2022021008765,2022021008,Giveaway,765,GIVEAWAY,Giveaway by Joel Kiviranta,2023-03-07T03:41:27Z,3,05:35,14:25,2,4,25.0,Dallas Stars,DAL
+304,25,20,Dallas Stars,Calgary Flames,2022021008766,2022021008,Stoppage,766,STOP,Offside,2023-03-07T03:41:40Z,3,05:48,14:12,2,4,,,
+305,25,20,Dallas Stars,Calgary Flames,2022021008348,2022021008,Faceoff,348,FACEOFF,Dillon Dube faceoff won against Wyatt Johnston,2023-03-07T03:42:03Z,3,05:48,14:12,2,4,20.0,Calgary Flames,CGY
+306,25,20,Dallas Stars,Calgary Flames,2022021008445,2022021008,Blocked Shot,445,BLOCKED_SHOT,Joe Pavelski shot blocked shot by Troy Stecher,2023-03-07T03:42:52Z,3,06:37,13:23,2,4,20.0,Calgary Flames,CGY
+307,25,20,Dallas Stars,Calgary Flames,2022021008367,2022021008,Hit,367,HIT,Nazem Kadri hit Esa Lindell,2023-03-07T03:43:10Z,3,06:55,13:05,2,4,20.0,Calgary Flames,CGY
+308,25,20,Dallas Stars,Calgary Flames,2022021008446,2022021008,Shot,446,SHOT,Ryan Suter Snap Shot saved by Jacob Markstrom,2023-03-07T03:44:06Z,3,07:51,12:09,2,4,25.0,Dallas Stars,DAL
+309,25,20,Dallas Stars,Calgary Flames,2022021008767,2022021008,Stoppage,767,STOP,Goalie Stopped,2023-03-07T03:44:07Z,3,07:52,12:08,2,4,,,
+310,25,20,Dallas Stars,Calgary Flames,2022021008349,2022021008,Faceoff,349,FACEOFF,Mikael Backlund faceoff won against Joe Pavelski,2023-03-07T03:46:19Z,3,07:52,12:08,2,4,20.0,Calgary Flames,CGY
+311,25,20,Dallas Stars,Calgary Flames,2022021008768,2022021008,Takeaway,768,TAKEAWAY,Takeaway by Miro Heiskanen,2023-03-07T03:46:25Z,3,07:58,12:02,2,4,25.0,Dallas Stars,DAL
+312,25,20,Dallas Stars,Calgary Flames,2022021008447,2022021008,Missed Shot,447,MISSED_SHOT,Joe Pavelski Wide of Net Jacob Markstrom,2023-03-07T03:46:35Z,3,08:08,11:52,2,4,25.0,Dallas Stars,DAL
+313,25,20,Dallas Stars,Calgary Flames,2022021008448,2022021008,Shot,448,SHOT,Colin Miller Slap Shot saved by Jacob Markstrom,2023-03-07T03:46:37Z,3,08:10,11:50,2,4,25.0,Dallas Stars,DAL
+314,25,20,Dallas Stars,Calgary Flames,2022021008449,2022021008,Shot,449,SHOT,Jason Robertson Snap Shot saved by Jacob Markstrom,2023-03-07T03:46:39Z,3,08:12,11:48,2,4,25.0,Dallas Stars,DAL
+315,25,20,Dallas Stars,Calgary Flames,2022021008769,2022021008,Stoppage,769,STOP,Goalie Stopped,2023-03-07T03:46:40Z,3,08:13,11:47,2,4,,,
+316,25,20,Dallas Stars,Calgary Flames,2022021008350,2022021008,Faceoff,350,FACEOFF,Jamie Benn faceoff won against Elias Lindholm,2023-03-07T03:47:07Z,3,08:13,11:47,2,4,25.0,Dallas Stars,DAL
+317,25,20,Dallas Stars,Calgary Flames,2022021008450,2022021008,Missed Shot,450,MISSED_SHOT,Miro Heiskanen Wide of Net Jacob Markstrom,2023-03-07T03:47:12Z,3,08:18,11:42,2,4,25.0,Dallas Stars,DAL
+318,25,20,Dallas Stars,Calgary Flames,2022021008980,2022021008,Penalty,980,PENALTY,Miro Heiskanen Holding against Tyler Toffoli,2023-03-07T03:47:20Z,3,08:26,11:34,2,4,25.0,Dallas Stars,DAL
+319,25,20,Dallas Stars,Calgary Flames,2022021008651,2022021008,Faceoff,651,FACEOFF,Mikael Backlund faceoff won against Ty Dellandrea,2023-03-07T03:48:02Z,3,08:26,11:34,2,4,20.0,Calgary Flames,CGY
+320,25,20,Dallas Stars,Calgary Flames,2022021008851,2022021008,Shot,851,SHOT,Rasmus Andersson Wrist Shot saved by Jake Oettinger,2023-03-07T03:48:09Z,3,08:33,11:27,2,4,20.0,Calgary Flames,CGY
+321,25,20,Dallas Stars,Calgary Flames,2022021008770,2022021008,Stoppage,770,STOP,Goalie Stopped,2023-03-07T03:48:10Z,3,08:34,11:26,2,4,,,
+322,25,20,Dallas Stars,Calgary Flames,2022021008652,2022021008,Faceoff,652,FACEOFF,Elias Lindholm faceoff won against Radek Faksa,2023-03-07T03:48:31Z,3,08:34,11:26,2,4,20.0,Calgary Flames,CGY
+323,25,20,Dallas Stars,Calgary Flames,2022021008852,2022021008,Missed Shot,852,MISSED_SHOT,Mikael Backlund Wide of Net Jake Oettinger,2023-03-07T03:49:11Z,3,09:14,10:46,2,4,20.0,Calgary Flames,CGY
+324,25,20,Dallas Stars,Calgary Flames,2022021008853,2022021008,Shot,853,SHOT,Jakob Pelletier Wrist Shot saved by Jake Oettinger,2023-03-07T03:49:20Z,3,09:23,10:37,2,4,20.0,Calgary Flames,CGY
+325,25,20,Dallas Stars,Calgary Flames,2022021008854,2022021008,Shot,854,SHOT,Tyler Toffoli Wrist Shot saved by Jake Oettinger,2023-03-07T03:49:29Z,3,09:32,10:28,2,4,20.0,Calgary Flames,CGY
+326,25,20,Dallas Stars,Calgary Flames,2022021008771,2022021008,Stoppage,771,STOP,Goalie Stopped,2023-03-07T03:49:30Z,3,09:33,10:27,2,4,,,
+327,25,20,Dallas Stars,Calgary Flames,2022021008653,2022021008,Faceoff,653,FACEOFF,Joe Pavelski faceoff won against Nazem Kadri,2023-03-07T03:49:59Z,3,09:33,10:27,2,4,25.0,Dallas Stars,DAL
+328,25,20,Dallas Stars,Calgary Flames,2022021008772,2022021008,Giveaway,772,GIVEAWAY,Giveaway by Joe Pavelski,2023-03-07T03:50:10Z,3,09:43,10:17,2,4,25.0,Dallas Stars,DAL
+329,25,20,Dallas Stars,Calgary Flames,2022021008856,2022021008,Goal,856,GOAL,"Roope Hintz (30) Backhand, assists: Joe Pavelski (41)",2023-03-07T03:50:15Z,3,09:49,10:11,3,4,25.0,Dallas Stars,DAL
+330,25,20,Dallas Stars,Calgary Flames,2022021008654,2022021008,Faceoff,654,FACEOFF,Wyatt Johnston faceoff won against Nazem Kadri,2023-03-07T03:51:00Z,3,09:49,10:11,3,4,25.0,Dallas Stars,DAL
+331,25,20,Dallas Stars,Calgary Flames,2022021008857,2022021008,Blocked Shot,857,BLOCKED_SHOT,Wyatt Johnston shot blocked shot by Noah Hanifin,2023-03-07T03:51:24Z,3,10:13,09:47,3,4,20.0,Calgary Flames,CGY
+332,25,20,Dallas Stars,Calgary Flames,2022021008858,2022021008,Shot,858,SHOT,Esa Lindell Wrist Shot saved by Jacob Markstrom,2023-03-07T03:51:32Z,3,10:21,09:39,3,4,25.0,Dallas Stars,DAL
+333,25,20,Dallas Stars,Calgary Flames,2022021008368,2022021008,Hit,368,HIT,MacKenzie Weegar hit Jason Robertson,2023-03-07T03:51:45Z,3,10:34,09:26,3,4,20.0,Calgary Flames,CGY
+334,25,20,Dallas Stars,Calgary Flames,2022021008859,2022021008,Shot,859,SHOT,Mikael Backlund Backhand saved by Jake Oettinger,2023-03-07T03:52:22Z,3,11:11,08:49,3,4,20.0,Calgary Flames,CGY
+335,25,20,Dallas Stars,Calgary Flames,2022021008369,2022021008,Hit,369,HIT,Blake Coleman hit Nils Lundkvist,2023-03-07T03:52:52Z,3,11:41,08:19,3,4,20.0,Calgary Flames,CGY
+336,25,20,Dallas Stars,Calgary Flames,2022021008773,2022021008,Stoppage,773,STOP,Icing,2023-03-07T03:53:00Z,3,11:49,08:11,3,4,,,
+337,25,20,Dallas Stars,Calgary Flames,2022021008655,2022021008,Faceoff,655,FACEOFF,Jamie Benn faceoff won against Elias Lindholm,2023-03-07T03:53:40Z,3,11:49,08:11,3,4,25.0,Dallas Stars,DAL
+338,25,20,Dallas Stars,Calgary Flames,2022021008774,2022021008,Giveaway,774,GIVEAWAY,Giveaway by Wyatt Johnston,2023-03-07T03:54:05Z,3,12:14,07:46,3,4,25.0,Dallas Stars,DAL
+339,25,20,Dallas Stars,Calgary Flames,2022021008861,2022021008,Missed Shot,861,MISSED_SHOT,Joel Kiviranta Wide of Net Jacob Markstrom,2023-03-07T03:54:30Z,3,12:39,07:21,3,4,25.0,Dallas Stars,DAL
+340,25,20,Dallas Stars,Calgary Flames,2022021008860,2022021008,Shot,860,SHOT,Miro Heiskanen Snap Shot saved by Jacob Markstrom,2023-03-07T03:54:33Z,3,12:42,07:18,3,4,25.0,Dallas Stars,DAL
+341,25,20,Dallas Stars,Calgary Flames,2022021008775,2022021008,Stoppage,775,STOP,Goalie Stopped,2023-03-07T03:54:35Z,3,12:44,07:16,3,4,,,
+342,25,20,Dallas Stars,Calgary Flames,2022021008656,2022021008,Faceoff,656,FACEOFF,Elias Lindholm faceoff won against Roope Hintz,2023-03-07T03:56:56Z,3,12:44,07:16,3,4,20.0,Calgary Flames,CGY
+343,25,20,Dallas Stars,Calgary Flames,2022021008370,2022021008,Hit,370,HIT,Trevor Lewis hit Mason Marchment,2023-03-07T03:57:37Z,3,13:25,06:35,3,4,20.0,Calgary Flames,CGY
+344,25,20,Dallas Stars,Calgary Flames,2022021008862,2022021008,Shot,862,SHOT,Max Domi Wrist Shot saved by Jacob Markstrom,2023-03-07T03:57:41Z,3,13:29,06:31,3,4,25.0,Dallas Stars,DAL
+345,25,20,Dallas Stars,Calgary Flames,2022021008776,2022021008,Stoppage,776,STOP,Goalie Stopped,2023-03-07T03:57:43Z,3,13:30,06:30,3,4,,,
+346,25,20,Dallas Stars,Calgary Flames,2022021008371,2022021008,Faceoff,371,FACEOFF,Mikael Backlund faceoff won against Max Domi,2023-03-07T03:58:14Z,3,13:30,06:30,3,4,20.0,Calgary Flames,CGY
+347,25,20,Dallas Stars,Calgary Flames,2022021008863,2022021008,Blocked Shot,863,BLOCKED_SHOT,Max Domi shot blocked shot by Noah Hanifin,2023-03-07T03:58:29Z,3,13:45,06:15,3,4,20.0,Calgary Flames,CGY
+348,25,20,Dallas Stars,Calgary Flames,2022021008864,2022021008,Shot,864,SHOT,Mason Marchment Wrist Shot saved by Jacob Markstrom,2023-03-07T03:58:40Z,3,13:56,06:04,3,4,25.0,Dallas Stars,DAL
+349,25,20,Dallas Stars,Calgary Flames,2022021008777,2022021008,Stoppage,777,STOP,Icing,2023-03-07T03:58:50Z,3,14:07,05:53,3,4,,,
+350,25,20,Dallas Stars,Calgary Flames,2022021008658,2022021008,Faceoff,658,FACEOFF,Jamie Benn faceoff won against Nazem Kadri,2023-03-07T03:59:35Z,3,14:07,05:53,3,4,25.0,Dallas Stars,DAL
+351,25,20,Dallas Stars,Calgary Flames,2022021008865,2022021008,Goal,865,GOAL,"Jamie Benn (26) Tip-In, assists: Esa Lindell (12), Jani Hakanpää (6)",2023-03-07T03:59:40Z,3,14:12,05:48,4,4,25.0,Dallas Stars,DAL
+352,25,20,Dallas Stars,Calgary Flames,2022021008659,2022021008,Faceoff,659,FACEOFF,Elias Lindholm faceoff won against Wyatt Johnston,2023-03-07T04:00:25Z,3,14:12,05:48,4,4,20.0,Calgary Flames,CGY
+353,25,20,Dallas Stars,Calgary Flames,2022021008778,2022021008,Giveaway,778,GIVEAWAY,Giveaway by Miro Heiskanen,2023-03-07T04:00:51Z,3,14:38,05:22,4,4,25.0,Dallas Stars,DAL
+354,25,20,Dallas Stars,Calgary Flames,2022021008372,2022021008,Hit,372,HIT,Wyatt Johnston hit Tyler Toffoli,2023-03-07T04:00:56Z,3,14:41,05:19,4,4,25.0,Dallas Stars,DAL
+355,25,20,Dallas Stars,Calgary Flames,2022021008866,2022021008,Missed Shot,866,MISSED_SHOT,Nils Lundkvist Wide of Net Jacob Markstrom,2023-03-07T04:01:12Z,3,14:59,05:01,4,4,25.0,Dallas Stars,DAL
+356,25,20,Dallas Stars,Calgary Flames,2022021008867,2022021008,Missed Shot,867,MISSED_SHOT,Jason Robertson Wide of Net Jacob Markstrom,2023-03-07T04:01:15Z,3,15:02,04:58,4,4,25.0,Dallas Stars,DAL
+357,25,20,Dallas Stars,Calgary Flames,2022021008373,2022021008,Hit,373,HIT,Dillon Dube hit Jason Robertson,2023-03-07T04:01:21Z,3,15:08,04:52,4,4,20.0,Calgary Flames,CGY
+358,25,20,Dallas Stars,Calgary Flames,2022021008374,2022021008,Hit,374,HIT,Blake Coleman hit Nils Lundkvist,2023-03-07T04:01:44Z,3,15:31,04:29,4,4,20.0,Calgary Flames,CGY
+359,25,20,Dallas Stars,Calgary Flames,2022021008779,2022021008,Giveaway,779,GIVEAWAY,Giveaway by Troy Stecher,2023-03-07T04:02:13Z,3,16:00,04:00,4,4,20.0,Calgary Flames,CGY
+360,25,20,Dallas Stars,Calgary Flames,2022021008375,2022021008,Hit,375,HIT,Andrew Mangiapane hit Esa Lindell,2023-03-07T04:02:16Z,3,16:03,03:57,4,4,20.0,Calgary Flames,CGY
+361,25,20,Dallas Stars,Calgary Flames,2022021008868,2022021008,Shot,868,SHOT,Radek Faksa Tip-In saved by Jacob Markstrom,2023-03-07T04:02:29Z,3,16:16,03:44,4,4,25.0,Dallas Stars,DAL
+362,25,20,Dallas Stars,Calgary Flames,2022021008780,2022021008,Stoppage,780,STOP,Goalie Stopped,2023-03-07T04:02:30Z,3,16:17,03:43,4,4,,,
+363,25,20,Dallas Stars,Calgary Flames,2022021008660,2022021008,Faceoff,660,FACEOFF,Mikael Backlund faceoff won against Tyler Seguin,2023-03-07T04:04:42Z,3,16:17,03:43,4,4,20.0,Calgary Flames,CGY
+364,25,20,Dallas Stars,Calgary Flames,20220210081072,2022021008,Penalty,1072,PENALTY,Nick Ritchie Boarding against Miro Heiskanen,2023-03-07T04:05:27Z,3,17:02,02:58,4,4,20.0,Calgary Flames,CGY
+365,25,20,Dallas Stars,Calgary Flames,2022021008661,2022021008,Faceoff,661,FACEOFF,Jamie Benn faceoff won against Elias Lindholm,2023-03-07T04:06:28Z,3,17:02,02:58,4,4,25.0,Dallas Stars,DAL
+366,25,20,Dallas Stars,Calgary Flames,2022021008869,2022021008,Shot,869,SHOT,Joe Pavelski Wrist Shot saved by Jacob Markstrom,2023-03-07T04:06:33Z,3,17:07,02:53,4,4,25.0,Dallas Stars,DAL
+367,25,20,Dallas Stars,Calgary Flames,2022021008870,2022021008,Shot,870,SHOT,Jason Robertson Snap Shot saved by Jacob Markstrom,2023-03-07T04:06:36Z,3,17:10,02:50,4,4,25.0,Dallas Stars,DAL
+368,25,20,Dallas Stars,Calgary Flames,2022021008781,2022021008,Stoppage,781,STOP,Goalie Stopped,2023-03-07T04:06:38Z,3,17:11,02:49,4,4,,,
+369,25,20,Dallas Stars,Calgary Flames,2022021008662,2022021008,Faceoff,662,FACEOFF,Elias Lindholm faceoff won against Jamie Benn,2023-03-07T04:07:07Z,3,17:11,02:49,4,4,20.0,Calgary Flames,CGY
+370,25,20,Dallas Stars,Calgary Flames,2022021008782,2022021008,Stoppage,782,STOP,Offside,2023-03-07T04:07:25Z,3,17:29,02:31,4,4,,,
+371,25,20,Dallas Stars,Calgary Flames,2022021008663,2022021008,Faceoff,663,FACEOFF,Elias Lindholm faceoff won against Jamie Benn,2023-03-07T04:07:52Z,3,17:29,02:31,4,4,20.0,Calgary Flames,CGY
+372,25,20,Dallas Stars,Calgary Flames,2022021008377,2022021008,Hit,377,HIT,Chris Tanev hit Jamie Benn,2023-03-07T04:08:14Z,3,17:51,02:09,4,4,20.0,Calgary Flames,CGY
+373,25,20,Dallas Stars,Calgary Flames,2022021008871,2022021008,Blocked Shot,871,BLOCKED_SHOT,Max Domi shot blocked shot by Noah Hanifin,2023-03-07T04:09:32Z,3,19:09,00:51,4,4,20.0,Calgary Flames,CGY
+374,25,20,Dallas Stars,Calgary Flames,2022021008783,2022021008,Takeaway,783,TAKEAWAY,Takeaway by Rasmus Andersson,2023-03-07T04:09:42Z,3,19:17,00:43,4,4,20.0,Calgary Flames,CGY
+375,25,20,Dallas Stars,Calgary Flames,2022021008378,2022021008,Hit,378,HIT,MacKenzie Weegar hit Ty Dellandrea,2023-03-07T04:10:09Z,3,19:46,00:14,4,4,20.0,Calgary Flames,CGY
+376,25,20,Dallas Stars,Calgary Flames,2022021008872,2022021008,Goal,872,GOAL,"Tyler Toffoli (26) Wrist Shot, assists: Jonathan Huberdeau (30), MacKenzie Weegar (19)",2023-03-07T04:10:18Z,3,19:53,00:07,4,5,20.0,Calgary Flames,CGY
+377,25,20,Dallas Stars,Calgary Flames,2022021008664,2022021008,Faceoff,664,FACEOFF,Joe Pavelski faceoff won against Mikael Backlund,2023-03-07T04:11:51Z,3,19:53,00:07,4,5,25.0,Dallas Stars,DAL
+378,25,20,Dallas Stars,Calgary Flames,2022021008784,2022021008,Period End,784,PERIOD_END,End of 3rd Period,2023-03-07T04:11:57Z,3,20:00,00:00,4,5,,,
+379,25,20,Dallas Stars,Calgary Flames,2022021008787,2022021008,Period Official,787,PERIOD_OFFICIAL,Period Official,2023-03-07T04:12:04Z,3,20:00,00:00,4,5,,,
+380,25,20,Dallas Stars,Calgary Flames,2022021008788,2022021008,Game End,788,GAME_END,Game End,2023-03-07T04:12:08Z,3,20:00,00:00,4,5,,,
+381,25,20,Dallas Stars,Calgary Flames,2022021008789,2022021008,Game Official,789,GAME_OFFICIAL,Game Official,2023-03-07T04:19:18Z,3,20:00,00:00,4,5,,,

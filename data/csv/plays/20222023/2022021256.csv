@@ -1,0 +1,314 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,28,21,San Jose Sharks,Colorado Avalanche,20220212561,2022021256,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-04-07T01:45:01Z,1,00:00,20:00,0,0,,,
+1,28,21,San Jose Sharks,Colorado Avalanche,20220212565,2022021256,Period Ready,5,PERIOD_READY,Period Ready,2023-04-07T02:37:31Z,1,00:00,20:00,0,0,,,
+2,28,21,San Jose Sharks,Colorado Avalanche,2022021256101,2022021256,Period Start,101,PERIOD_START,Period Start,2023-04-07T02:40:04Z,1,00:00,20:00,0,0,,,
+3,28,21,San Jose Sharks,Colorado Avalanche,2022021256102,2022021256,Faceoff,102,FACEOFF,Nathan MacKinnon faceoff won against Tomas Hertl,2023-04-07T02:40:04Z,1,00:00,20:00,0,0,21.0,Colorado Avalanche,COL
+4,28,21,San Jose Sharks,Colorado Avalanche,2022021256151,2022021256,Hit,151,HIT,Jacob Peterson hit Mikko Rantanen,2023-04-07T02:40:24Z,1,00:22,19:38,0,0,28.0,San Jose Sharks,SJS
+5,28,21,San Jose Sharks,Colorado Avalanche,20220212568,2022021256,Shot,8,SHOT,Erik Karlsson Wrist Shot saved by Alexandar Georgiev,2023-04-07T02:40:48Z,1,00:46,19:14,0,0,28.0,San Jose Sharks,SJS
+6,28,21,San Jose Sharks,Colorado Avalanche,2022021256152,2022021256,Stoppage,152,STOP,Goalie Stopped,2023-04-07T02:40:50Z,1,00:48,19:12,0,0,,,
+7,28,21,San Jose Sharks,Colorado Avalanche,2022021256103,2022021256,Faceoff,103,FACEOFF,J.T. Compher faceoff won against Logan Couture,2023-04-07T02:41:15Z,1,00:48,19:12,0,0,21.0,Colorado Avalanche,COL
+8,28,21,San Jose Sharks,Colorado Avalanche,2022021256104,2022021256,Takeaway,104,TAKEAWAY,Takeaway by Noah Gregor,2023-04-07T02:41:53Z,1,01:26,18:34,0,0,28.0,San Jose Sharks,SJS
+9,28,21,San Jose Sharks,Colorado Avalanche,2022021256153,2022021256,Hit,153,HIT,Denis Malgin hit Noah Gregor,2023-04-07T02:41:56Z,1,01:29,18:31,0,0,21.0,Colorado Avalanche,COL
+10,28,21,San Jose Sharks,Colorado Avalanche,20220212569,2022021256,Shot,9,SHOT,Denis Malgin Wrist Shot saved by Kaapo Kahkonen,2023-04-07T02:42:04Z,1,01:37,18:23,0,0,21.0,Colorado Avalanche,COL
+11,28,21,San Jose Sharks,Colorado Avalanche,2022021256154,2022021256,Stoppage,154,STOP,Goalie Stopped,2023-04-07T02:42:05Z,1,01:38,18:22,0,0,,,
+12,28,21,San Jose Sharks,Colorado Avalanche,2022021256105,2022021256,Faceoff,105,FACEOFF,Lars Eller faceoff won against Nico Sturm,2023-04-07T02:42:28Z,1,01:38,18:22,0,0,21.0,Colorado Avalanche,COL
+13,28,21,San Jose Sharks,Colorado Avalanche,2022021256155,2022021256,Stoppage,155,STOP,Icing,2023-04-07T02:42:35Z,1,01:45,18:15,0,0,,,
+14,28,21,San Jose Sharks,Colorado Avalanche,2022021256106,2022021256,Faceoff,106,FACEOFF,Nico Sturm faceoff won against Andrew Cogliano,2023-04-07T02:43:01Z,1,01:45,18:15,0,0,28.0,San Jose Sharks,SJS
+15,28,21,San Jose Sharks,Colorado Avalanche,2022021256156,2022021256,Hit,156,HIT,Andrew Cogliano hit Henry Thrun,2023-04-07T02:43:06Z,1,01:50,18:10,0,0,21.0,Colorado Avalanche,COL
+16,28,21,San Jose Sharks,Colorado Avalanche,202202125610,2022021256,Blocked Shot,10,BLOCKED_SHOT,Mario Ferraro shot blocked shot by Samuel Girard,2023-04-07T02:45:15Z,1,03:19,16:41,0,0,21.0,Colorado Avalanche,COL
+17,28,21,San Jose Sharks,Colorado Avalanche,2022021256107,2022021256,Faceoff,107,FACEOFF,Tomas Hertl faceoff won against Nathan MacKinnon,2023-04-07T02:44:42Z,1,03:20,16:40,0,0,28.0,San Jose Sharks,SJS
+18,28,21,San Jose Sharks,Colorado Avalanche,2022021256157,2022021256,Stoppage,157,STOP,Puck in Netting,2023-04-07T02:45:15Z,1,03:20,16:40,0,0,,,
+19,28,21,San Jose Sharks,Colorado Avalanche,202202125611,2022021256,Shot,11,SHOT,Mikko Rantanen Wrist Shot saved by Kaapo Kahkonen,2023-04-07T02:45:32Z,1,03:36,16:24,0,0,21.0,Colorado Avalanche,COL
+20,28,21,San Jose Sharks,Colorado Avalanche,2022021256158,2022021256,Stoppage,158,STOP,Goalie Stopped,2023-04-07T02:45:32Z,1,03:37,16:23,0,0,,,
+21,28,21,San Jose Sharks,Colorado Avalanche,2022021256108,2022021256,Faceoff,108,FACEOFF,Tomas Hertl faceoff won against Nathan MacKinnon,2023-04-07T02:45:45Z,1,03:37,16:23,0,0,28.0,San Jose Sharks,SJS
+22,28,21,San Jose Sharks,Colorado Avalanche,202202125612,2022021256,Shot,12,SHOT,Nathan MacKinnon Snap Shot saved by Kaapo Kahkonen,2023-04-07T02:46:01Z,1,03:53,16:07,0,0,21.0,Colorado Avalanche,COL
+23,28,21,San Jose Sharks,Colorado Avalanche,202202125613,2022021256,Blocked Shot,13,BLOCKED_SHOT,Devon Toews shot blocked shot by Mario Ferraro,2023-04-07T02:46:05Z,1,03:57,16:03,0,0,28.0,San Jose Sharks,SJS
+24,28,21,San Jose Sharks,Colorado Avalanche,2022021256109,2022021256,Takeaway,109,TAKEAWAY,Takeaway by Noah Gregor,2023-04-07T02:46:29Z,1,04:21,15:39,0,0,28.0,San Jose Sharks,SJS
+25,28,21,San Jose Sharks,Colorado Avalanche,2022021256110,2022021256,Takeaway,110,TAKEAWAY,Takeaway by Logan Couture,2023-04-07T02:46:34Z,1,04:26,15:34,0,0,28.0,San Jose Sharks,SJS
+26,28,21,San Jose Sharks,Colorado Avalanche,2022021256159,2022021256,Hit,159,HIT,Noah Gregor hit Denis Malgin,2023-04-07T02:46:35Z,1,04:27,15:33,0,0,28.0,San Jose Sharks,SJS
+27,28,21,San Jose Sharks,Colorado Avalanche,202202125614,2022021256,Missed Shot,14,MISSED_SHOT,Thomas Bordeleau Wide of Net Alexandar Georgiev,2023-04-07T02:46:36Z,1,04:28,15:32,0,0,28.0,San Jose Sharks,SJS
+28,28,21,San Jose Sharks,Colorado Avalanche,2022021256111,2022021256,Giveaway,111,GIVEAWAY,Giveaway by Henry Thrun,2023-04-07T02:47:15Z,1,05:07,14:53,0,0,28.0,San Jose Sharks,SJS
+29,28,21,San Jose Sharks,Colorado Avalanche,202202125615,2022021256,Missed Shot,15,MISSED_SHOT,Fabian Zetterlund Wide of Net Alexandar Georgiev,2023-04-07T02:47:17Z,1,05:09,14:51,0,0,28.0,San Jose Sharks,SJS
+30,28,21,San Jose Sharks,Colorado Avalanche,2022021256160,2022021256,Hit,160,HIT,Radim Simek hit Andrew Cogliano,2023-04-07T02:47:24Z,1,05:16,14:44,0,0,28.0,San Jose Sharks,SJS
+31,28,21,San Jose Sharks,Colorado Avalanche,2022021256112,2022021256,Giveaway,112,GIVEAWAY,Giveaway by Adam Raska,2023-04-07T02:47:45Z,1,05:37,14:23,0,0,28.0,San Jose Sharks,SJS
+32,28,21,San Jose Sharks,Colorado Avalanche,2022021256113,2022021256,Takeaway,113,TAKEAWAY,Takeaway by Steven Lorentz,2023-04-07T02:48:01Z,1,05:53,14:07,0,0,28.0,San Jose Sharks,SJS
+33,28,21,San Jose Sharks,Colorado Avalanche,202202125616,2022021256,Missed Shot,16,MISSED_SHOT,Jacob MacDonald Wide of Net Alexandar Georgiev,2023-04-07T02:48:03Z,1,05:55,14:05,0,0,28.0,San Jose Sharks,SJS
+34,28,21,San Jose Sharks,Colorado Avalanche,2022021256161,2022021256,Hit,161,HIT,Steven Lorentz hit Bowen Byram,2023-04-07T02:48:08Z,1,06:00,14:00,0,0,28.0,San Jose Sharks,SJS
+35,28,21,San Jose Sharks,Colorado Avalanche,202202125617,2022021256,Shot,17,SHOT,Tomas Hertl Tip-In saved by Alexandar Georgiev,2023-04-07T02:48:35Z,1,06:27,13:33,0,0,28.0,San Jose Sharks,SJS
+36,28,21,San Jose Sharks,Colorado Avalanche,202202125618,2022021256,Missed Shot,18,MISSED_SHOT,Marc-Edouard Vlasic Wide of Net Alexandar Georgiev,2023-04-07T02:48:43Z,1,06:35,13:25,0,0,28.0,San Jose Sharks,SJS
+37,28,21,San Jose Sharks,Colorado Avalanche,202202125648,2022021256,Missed Shot,48,MISSED_SHOT,Jacob Peterson Wide of Net Alexandar Georgiev,2023-04-07T02:49:06Z,1,06:58,13:02,0,0,28.0,San Jose Sharks,SJS
+38,28,21,San Jose Sharks,Colorado Avalanche,202202125619,2022021256,Missed Shot,19,MISSED_SHOT,Jacob Peterson Wide of Net Alexandar Georgiev,2023-04-07T02:49:08Z,1,07:00,13:00,0,0,28.0,San Jose Sharks,SJS
+39,28,21,San Jose Sharks,Colorado Avalanche,202202125620,2022021256,Blocked Shot,20,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Devon Toews,2023-04-07T02:49:17Z,1,07:09,12:51,0,0,21.0,Colorado Avalanche,COL
+40,28,21,San Jose Sharks,Colorado Avalanche,2022021256114,2022021256,Takeaway,114,TAKEAWAY,Takeaway by Devon Toews,2023-04-07T02:49:25Z,1,07:17,12:43,0,0,21.0,Colorado Avalanche,COL
+41,28,21,San Jose Sharks,Colorado Avalanche,202202125621,2022021256,Blocked Shot,21,BLOCKED_SHOT,Evan Rodrigues shot blocked shot by Marc-Edouard Vlasic,2023-04-07T02:49:34Z,1,07:26,12:34,0,0,28.0,San Jose Sharks,SJS
+42,28,21,San Jose Sharks,Colorado Avalanche,2022021256115,2022021256,Giveaway,115,GIVEAWAY,Giveaway by Henry Thrun,2023-04-07T02:50:03Z,1,07:55,12:05,0,0,28.0,San Jose Sharks,SJS
+43,28,21,San Jose Sharks,Colorado Avalanche,202202125622,2022021256,Shot,22,SHOT,J.T. Compher Wrist Shot saved by Kaapo Kahkonen,2023-04-07T02:50:07Z,1,07:59,12:01,0,0,21.0,Colorado Avalanche,COL
+44,28,21,San Jose Sharks,Colorado Avalanche,202202125623,2022021256,Missed Shot,23,MISSED_SHOT,Denis Malgin Wide of Net Kaapo Kahkonen,2023-04-07T02:50:29Z,1,08:21,11:39,0,0,21.0,Colorado Avalanche,COL
+45,28,21,San Jose Sharks,Colorado Avalanche,2022021256162,2022021256,Hit,162,HIT,Valeri Nichushkin hit Mario Ferraro,2023-04-07T02:50:33Z,1,08:25,11:35,0,0,21.0,Colorado Avalanche,COL
+46,28,21,San Jose Sharks,Colorado Avalanche,2022021256116,2022021256,Giveaway,116,GIVEAWAY,Giveaway by Kurtis MacDermid,2023-04-07T02:50:42Z,1,08:34,11:26,0,0,21.0,Colorado Avalanche,COL
+47,28,21,San Jose Sharks,Colorado Avalanche,202202125624,2022021256,Blocked Shot,24,BLOCKED_SHOT,Fabian Zetterlund shot blocked shot by Kurtis MacDermid,2023-04-07T02:50:43Z,1,08:35,11:25,0,0,21.0,Colorado Avalanche,COL
+48,28,21,San Jose Sharks,Colorado Avalanche,202202125625,2022021256,Missed Shot,25,MISSED_SHOT,Fabian Zetterlund Wide of Net Alexandar Georgiev,2023-04-07T02:50:59Z,1,08:51,11:09,0,0,28.0,San Jose Sharks,SJS
+49,28,21,San Jose Sharks,Colorado Avalanche,202202125626,2022021256,Shot,26,SHOT,Nico Sturm Snap Shot saved by Alexandar Georgiev,2023-04-07T02:51:06Z,1,08:58,11:02,0,0,28.0,San Jose Sharks,SJS
+50,28,21,San Jose Sharks,Colorado Avalanche,2022021256163,2022021256,Hit,163,HIT,Adam Raska hit Matt Nieto,2023-04-07T02:51:49Z,1,09:41,10:19,0,0,28.0,San Jose Sharks,SJS
+51,28,21,San Jose Sharks,Colorado Avalanche,202202125627,2022021256,Blocked Shot,27,BLOCKED_SHOT,Samuel Girard shot blocked shot by Steven Lorentz,2023-04-07T02:51:58Z,1,09:50,10:10,0,0,28.0,San Jose Sharks,SJS
+52,28,21,San Jose Sharks,Colorado Avalanche,202202125628,2022021256,Blocked Shot,28,BLOCKED_SHOT,Alex Newhook shot blocked shot by Erik Karlsson,2023-04-07T02:52:23Z,1,10:15,09:45,0,0,28.0,San Jose Sharks,SJS
+53,28,21,San Jose Sharks,Colorado Avalanche,202202125629,2022021256,Blocked Shot,29,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Alex Newhook,2023-04-07T02:52:27Z,1,10:19,09:41,0,0,21.0,Colorado Avalanche,COL
+54,28,21,San Jose Sharks,Colorado Avalanche,202202125630,2022021256,Blocked Shot,30,BLOCKED_SHOT,Kevin Labanc shot blocked shot by Nathan MacKinnon,2023-04-07T02:52:41Z,1,10:33,09:27,0,0,21.0,Colorado Avalanche,COL
+55,28,21,San Jose Sharks,Colorado Avalanche,2022021256164,2022021256,Stoppage,164,STOP,Puck in Netting,2023-04-07T02:52:43Z,1,10:34,09:26,0,0,,,
+56,28,21,San Jose Sharks,Colorado Avalanche,2022021256117,2022021256,Faceoff,117,FACEOFF,Logan Couture faceoff won against Lars Eller,2023-04-07T02:55:02Z,1,10:34,09:26,0,0,28.0,San Jose Sharks,SJS
+57,28,21,San Jose Sharks,Colorado Avalanche,202202125631,2022021256,Blocked Shot,31,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Andrew Cogliano,2023-04-07T02:55:04Z,1,10:36,09:24,0,0,21.0,Colorado Avalanche,COL
+58,28,21,San Jose Sharks,Colorado Avalanche,2022021256165,2022021256,Hit,165,HIT,Noah Gregor hit Andrew Cogliano,2023-04-07T02:55:32Z,1,11:04,08:56,0,0,28.0,San Jose Sharks,SJS
+59,28,21,San Jose Sharks,Colorado Avalanche,2022021256118,2022021256,Giveaway,118,GIVEAWAY,Giveaway by Thomas Bordeleau,2023-04-07T02:55:50Z,1,11:22,08:38,0,0,28.0,San Jose Sharks,SJS
+60,28,21,San Jose Sharks,Colorado Avalanche,2022021256166,2022021256,Hit,166,HIT,Fabian Zetterlund hit Lars Eller,2023-04-07T02:55:54Z,1,11:26,08:34,0,0,28.0,San Jose Sharks,SJS
+61,28,21,San Jose Sharks,Colorado Avalanche,202202125632,2022021256,Blocked Shot,32,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Fabian Zetterlund,2023-04-07T02:56:31Z,1,12:03,07:57,0,0,28.0,San Jose Sharks,SJS
+62,28,21,San Jose Sharks,Colorado Avalanche,202202125633,2022021256,Blocked Shot,33,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Bowen Byram,2023-04-07T02:57:23Z,1,12:55,07:05,0,0,21.0,Colorado Avalanche,COL
+63,28,21,San Jose Sharks,Colorado Avalanche,2022021256119,2022021256,Giveaway,119,GIVEAWAY,Giveaway by Radim Simek,2023-04-07T02:57:47Z,1,13:19,06:41,0,0,28.0,San Jose Sharks,SJS
+64,28,21,San Jose Sharks,Colorado Avalanche,2022021256167,2022021256,Hit,167,HIT,Adam Raska hit Kurtis MacDermid,2023-04-07T02:58:28Z,1,14:00,06:00,0,0,28.0,San Jose Sharks,SJS
+65,28,21,San Jose Sharks,Colorado Avalanche,2022021256120,2022021256,Giveaway,120,GIVEAWAY,Giveaway by Samuel Girard,2023-04-07T02:58:46Z,1,14:18,05:42,0,0,21.0,Colorado Avalanche,COL
+66,28,21,San Jose Sharks,Colorado Avalanche,2022021256121,2022021256,Giveaway,121,GIVEAWAY,Giveaway by Logan Couture,2023-04-07T02:59:13Z,1,14:45,05:15,0,0,28.0,San Jose Sharks,SJS
+67,28,21,San Jose Sharks,Colorado Avalanche,202202125634,2022021256,Missed Shot,34,MISSED_SHOT,Noah Gregor Wide of Net Alexandar Georgiev,2023-04-07T02:59:40Z,1,15:12,04:48,0,0,28.0,San Jose Sharks,SJS
+68,28,21,San Jose Sharks,Colorado Avalanche,2022021256122,2022021256,Giveaway,122,GIVEAWAY,Giveaway by Jack Johnson,2023-04-07T02:59:40Z,1,15:12,04:48,0,0,21.0,Colorado Avalanche,COL
+69,28,21,San Jose Sharks,Colorado Avalanche,202202125635,2022021256,Blocked Shot,35,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Jack Johnson,2023-04-07T03:00:03Z,1,15:35,04:25,0,0,21.0,Colorado Avalanche,COL
+70,28,21,San Jose Sharks,Colorado Avalanche,2022021256168,2022021256,Stoppage,168,STOP,Puck in Netting,2023-04-07T03:00:03Z,1,15:36,04:24,0,0,,,
+71,28,21,San Jose Sharks,Colorado Avalanche,2022021256123,2022021256,Faceoff,123,FACEOFF,J.T. Compher faceoff won against Tomas Hertl,2023-04-07T03:02:21Z,1,15:36,04:24,0,0,21.0,Colorado Avalanche,COL
+72,28,21,San Jose Sharks,Colorado Avalanche,202202125636,2022021256,Shot,36,SHOT,Kevin Labanc Slap Shot saved by Alexandar Georgiev,2023-04-07T03:02:26Z,1,15:41,04:19,0,0,28.0,San Jose Sharks,SJS
+73,28,21,San Jose Sharks,Colorado Avalanche,202202125637,2022021256,Goal,37,GOAL,"Erik Karlsson (23) Backhand, assists: Kevin Labanc (18), Jacob Peterson (4)",2023-04-07T03:02:29Z,1,15:43,04:17,1,0,28.0,San Jose Sharks,SJS
+74,28,21,San Jose Sharks,Colorado Avalanche,2022021256124,2022021256,Faceoff,124,FACEOFF,Tomas Hertl faceoff won against J.T. Compher,2023-04-07T03:03:13Z,1,15:43,04:17,1,0,28.0,San Jose Sharks,SJS
+75,28,21,San Jose Sharks,Colorado Avalanche,2022021256169,2022021256,Stoppage,169,STOP,Offside,2023-04-07T03:03:21Z,1,15:51,04:09,1,0,,,
+76,28,21,San Jose Sharks,Colorado Avalanche,2022021256125,2022021256,Faceoff,125,FACEOFF,J.T. Compher faceoff won against Tomas Hertl,2023-04-07T03:03:47Z,1,15:51,04:09,1,0,21.0,Colorado Avalanche,COL
+77,28,21,San Jose Sharks,Colorado Avalanche,2022021256170,2022021256,Hit,170,HIT,Kevin Labanc hit Bowen Byram,2023-04-07T03:03:55Z,1,15:59,04:01,1,0,28.0,San Jose Sharks,SJS
+78,28,21,San Jose Sharks,Colorado Avalanche,2022021256171,2022021256,Hit,171,HIT,Bowen Byram hit Tomas Hertl,2023-04-07T03:04:01Z,1,16:05,03:55,1,0,21.0,Colorado Avalanche,COL
+79,28,21,San Jose Sharks,Colorado Avalanche,2022021256172,2022021256,Hit,172,HIT,Erik Johnson hit Evgeny Svechnikov,2023-04-07T03:04:21Z,1,16:25,03:35,1,0,21.0,Colorado Avalanche,COL
+80,28,21,San Jose Sharks,Colorado Avalanche,202202125638,2022021256,Shot,38,SHOT,Nathan MacKinnon Backhand saved by Kaapo Kahkonen,2023-04-07T03:04:40Z,1,16:44,03:16,1,0,21.0,Colorado Avalanche,COL
+81,28,21,San Jose Sharks,Colorado Avalanche,202202125639,2022021256,Goal,39,GOAL,"Mikko Rantanen (50) Wrist Shot, assists: Nathan MacKinnon (65), Samuel Girard (28)",2023-04-07T03:04:41Z,1,16:45,03:15,1,1,21.0,Colorado Avalanche,COL
+82,28,21,San Jose Sharks,Colorado Avalanche,2022021256126,2022021256,Faceoff,126,FACEOFF,Nico Sturm faceoff won against Lars Eller,2023-04-07T03:05:22Z,1,16:45,03:15,1,1,28.0,San Jose Sharks,SJS
+83,28,21,San Jose Sharks,Colorado Avalanche,2022021256173,2022021256,Stoppage,173,STOP,Puck in Benches,2023-04-07T03:05:39Z,1,17:02,02:58,1,1,,,
+84,28,21,San Jose Sharks,Colorado Avalanche,2022021256127,2022021256,Faceoff,127,FACEOFF,Steven Lorentz faceoff won against Lars Eller,2023-04-07T03:07:57Z,1,17:02,02:58,1,1,28.0,San Jose Sharks,SJS
+85,28,21,San Jose Sharks,Colorado Avalanche,2022021256174,2022021256,Hit,174,HIT,Erik Johnson hit Steven Lorentz,2023-04-07T03:08:07Z,1,17:12,02:48,1,1,21.0,Colorado Avalanche,COL
+86,28,21,San Jose Sharks,Colorado Avalanche,202202125640,2022021256,Blocked Shot,40,BLOCKED_SHOT,Jacob MacDonald shot blocked shot by Erik Johnson,2023-04-07T03:08:40Z,1,17:45,02:15,1,1,21.0,Colorado Avalanche,COL
+87,28,21,San Jose Sharks,Colorado Avalanche,2022021256128,2022021256,Takeaway,128,TAKEAWAY,Takeaway by Jacob MacDonald,2023-04-07T03:08:40Z,1,17:45,02:15,1,1,28.0,San Jose Sharks,SJS
+88,28,21,San Jose Sharks,Colorado Avalanche,2022021256175,2022021256,Stoppage,175,STOP,Puck in Netting,2023-04-07T03:08:41Z,1,17:46,02:14,1,1,,,
+89,28,21,San Jose Sharks,Colorado Avalanche,2022021256129,2022021256,Faceoff,129,FACEOFF,Tomas Hertl faceoff won against J.T. Compher,2023-04-07T03:09:09Z,1,17:46,02:14,1,1,28.0,San Jose Sharks,SJS
+90,28,21,San Jose Sharks,Colorado Avalanche,202202125641,2022021256,Shot,41,SHOT,J.T. Compher Tip-In saved by Kaapo Kahkonen,2023-04-07T03:09:29Z,1,18:06,01:54,1,1,21.0,Colorado Avalanche,COL
+91,28,21,San Jose Sharks,Colorado Avalanche,2022021256176,2022021256,Hit,176,HIT,Mikko Rantanen hit Matt Benning,2023-04-07T03:10:40Z,1,19:17,00:43,1,1,21.0,Colorado Avalanche,COL
+92,28,21,San Jose Sharks,Colorado Avalanche,2022021256177,2022021256,Hit,177,HIT,Noah Gregor hit Evan Rodrigues,2023-04-07T03:10:48Z,1,19:25,00:35,1,1,28.0,San Jose Sharks,SJS
+93,28,21,San Jose Sharks,Colorado Avalanche,202202125642,2022021256,Missed Shot,42,MISSED_SHOT,Nico Sturm Wide of Net Alexandar Georgiev,2023-04-07T03:10:56Z,1,19:33,00:27,1,1,28.0,San Jose Sharks,SJS
+94,28,21,San Jose Sharks,Colorado Avalanche,2022021256178,2022021256,Hit,178,HIT,Nathan MacKinnon hit Nico Sturm,2023-04-07T03:11:00Z,1,19:37,00:23,1,1,21.0,Colorado Avalanche,COL
+95,28,21,San Jose Sharks,Colorado Avalanche,202202125643,2022021256,Shot,43,SHOT,Evgeny Svechnikov Wrist Shot saved by Alexandar Georgiev,2023-04-07T03:11:03Z,1,19:40,00:20,1,1,28.0,San Jose Sharks,SJS
+96,28,21,San Jose Sharks,Colorado Avalanche,2022021256179,2022021256,Hit,179,HIT,Jack Johnson hit Evgeny Svechnikov,2023-04-07T03:11:10Z,1,19:47,00:13,1,1,21.0,Colorado Avalanche,COL
+97,28,21,San Jose Sharks,Colorado Avalanche,202202125644,2022021256,Period End,44,PERIOD_END,End of 1st Period,2023-04-07T03:11:24Z,1,20:00,00:00,1,1,,,
+98,28,21,San Jose Sharks,Colorado Avalanche,202202125647,2022021256,Period Official,47,PERIOD_OFFICIAL,Period Official,2023-04-07T03:16:39Z,1,20:00,00:00,1,1,,,
+99,28,21,San Jose Sharks,Colorado Avalanche,202202125649,2022021256,Period Ready,49,PERIOD_READY,Period Ready,2023-04-07T03:27:56Z,2,00:00,20:00,1,1,,,
+100,28,21,San Jose Sharks,Colorado Avalanche,2022021256130,2022021256,Period Start,130,PERIOD_START,Period Start,2023-04-07T03:30:09Z,2,00:00,20:00,1,1,,,
+101,28,21,San Jose Sharks,Colorado Avalanche,2022021256131,2022021256,Faceoff,131,FACEOFF,Tomas Hertl faceoff won against Nathan MacKinnon,2023-04-07T03:30:09Z,2,00:00,20:00,1,1,28.0,San Jose Sharks,SJS
+102,28,21,San Jose Sharks,Colorado Avalanche,202202125650,2022021256,Blocked Shot,50,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Nathan MacKinnon,2023-04-07T03:30:41Z,2,00:32,19:28,1,1,21.0,Colorado Avalanche,COL
+103,28,21,San Jose Sharks,Colorado Avalanche,2022021256252,2022021256,Shot,252,SHOT,Mikko Rantanen Wrist Shot saved by Kaapo Kahkonen,2023-04-07T03:30:44Z,2,00:35,19:25,1,1,21.0,Colorado Avalanche,COL
+104,28,21,San Jose Sharks,Colorado Avalanche,2022021256253,2022021256,Missed Shot,253,MISSED_SHOT,Noah Gregor Goalpost Alexandar Georgiev,2023-04-07T03:31:36Z,2,01:27,18:33,1,1,28.0,San Jose Sharks,SJS
+105,28,21,San Jose Sharks,Colorado Avalanche,2022021256254,2022021256,Shot,254,SHOT,Valeri Nichushkin Slap Shot saved by Kaapo Kahkonen,2023-04-07T03:31:53Z,2,01:44,18:16,1,1,21.0,Colorado Avalanche,COL
+106,28,21,San Jose Sharks,Colorado Avalanche,2022021256180,2022021256,Stoppage,180,STOP,Goalie Stopped,2023-04-07T03:31:54Z,2,01:45,18:15,1,1,,,
+107,28,21,San Jose Sharks,Colorado Avalanche,2022021256132,2022021256,Faceoff,132,FACEOFF,Nico Sturm faceoff won against Lars Eller,2023-04-07T03:32:22Z,2,01:45,18:15,1,1,28.0,San Jose Sharks,SJS
+108,28,21,San Jose Sharks,Colorado Avalanche,2022021256256,2022021256,Shot,256,SHOT,Andrew Cogliano Wrist Shot saved by Kaapo Kahkonen,2023-04-07T03:32:52Z,2,02:15,17:45,1,1,21.0,Colorado Avalanche,COL
+109,28,21,San Jose Sharks,Colorado Avalanche,2022021256257,2022021256,Shot,257,SHOT,Erik Johnson Wrist Shot saved by Kaapo Kahkonen,2023-04-07T03:32:57Z,2,02:20,17:40,1,1,21.0,Colorado Avalanche,COL
+110,28,21,San Jose Sharks,Colorado Avalanche,2022021256258,2022021256,Shot,258,SHOT,Logan O'Connor Wrist Shot saved by Kaapo Kahkonen,2023-04-07T03:33:00Z,2,02:23,17:37,1,1,21.0,Colorado Avalanche,COL
+111,28,21,San Jose Sharks,Colorado Avalanche,2022021256181,2022021256,Stoppage,181,STOP,Goalie Stopped,2023-04-07T03:33:00Z,2,02:24,17:36,1,1,,,
+112,28,21,San Jose Sharks,Colorado Avalanche,2022021256133,2022021256,Faceoff,133,FACEOFF,Tomas Hertl faceoff won against Mikko Rantanen,2023-04-07T03:33:49Z,2,02:24,17:36,1,1,28.0,San Jose Sharks,SJS
+113,28,21,San Jose Sharks,Colorado Avalanche,2022021256142,2022021256,Takeaway,142,TAKEAWAY,Takeaway by Nathan MacKinnon,2023-04-07T03:33:55Z,2,02:30,17:30,1,1,21.0,Colorado Avalanche,COL
+114,28,21,San Jose Sharks,Colorado Avalanche,2022021256259,2022021256,Goal,259,GOAL,"Mikko Rantanen (51) Backhand, assists: Evan Rodrigues (21), Nathan MacKinnon (66)",2023-04-07T03:33:57Z,2,02:32,17:28,1,2,21.0,Colorado Avalanche,COL
+115,28,21,San Jose Sharks,Colorado Avalanche,2022021256134,2022021256,Faceoff,134,FACEOFF,Nathan MacKinnon faceoff won against Tomas Hertl,2023-04-07T03:34:34Z,2,02:32,17:28,1,2,21.0,Colorado Avalanche,COL
+116,28,21,San Jose Sharks,Colorado Avalanche,2022021256501,2022021256,Penalty,501,PENALTY,Tomas Hertl Tripping against Devon Toews,2023-04-07T03:34:56Z,2,02:54,17:06,1,2,28.0,San Jose Sharks,SJS
+117,28,21,San Jose Sharks,Colorado Avalanche,2022021256136,2022021256,Faceoff,136,FACEOFF,J.T. Compher faceoff won against Logan Couture,2023-04-07T03:35:30Z,2,02:54,17:06,1,2,21.0,Colorado Avalanche,COL
+118,28,21,San Jose Sharks,Colorado Avalanche,2022021256260,2022021256,Blocked Shot,260,BLOCKED_SHOT,Devon Toews shot blocked shot by Logan Couture,2023-04-07T03:35:41Z,2,03:05,16:55,1,2,28.0,San Jose Sharks,SJS
+119,28,21,San Jose Sharks,Colorado Avalanche,2022021256137,2022021256,Giveaway,137,GIVEAWAY,Giveaway by Jacob Peterson,2023-04-07T03:36:30Z,2,03:54,16:06,1,2,28.0,San Jose Sharks,SJS
+120,28,21,San Jose Sharks,Colorado Avalanche,2022021256261,2022021256,Shot,261,SHOT,Mikko Rantanen Wrist Shot saved by Kaapo Kahkonen,2023-04-07T03:36:33Z,2,03:57,16:03,1,2,21.0,Colorado Avalanche,COL
+121,28,21,San Jose Sharks,Colorado Avalanche,2022021256262,2022021256,Shot,262,SHOT,Devon Toews Wrist Shot saved by Kaapo Kahkonen,2023-04-07T03:36:57Z,2,04:21,15:39,1,2,21.0,Colorado Avalanche,COL
+122,28,21,San Jose Sharks,Colorado Avalanche,2022021256182,2022021256,Hit,182,HIT,Erik Karlsson hit Nathan MacKinnon,2023-04-07T03:37:04Z,2,04:28,15:32,1,2,28.0,San Jose Sharks,SJS
+123,28,21,San Jose Sharks,Colorado Avalanche,2022021256263,2022021256,Blocked Shot,263,BLOCKED_SHOT,Mikko Rantanen shot blocked shot by Marc-Edouard Vlasic,2023-04-07T03:37:17Z,2,04:40,15:20,1,2,28.0,San Jose Sharks,SJS
+124,28,21,San Jose Sharks,Colorado Avalanche,2022021256264,2022021256,Blocked Shot,264,BLOCKED_SHOT,Evan Rodrigues shot blocked shot by Radim Simek,2023-04-07T03:37:46Z,2,05:10,14:50,1,2,28.0,San Jose Sharks,SJS
+125,28,21,San Jose Sharks,Colorado Avalanche,2022021256184,2022021256,Hit,184,HIT,Radim Simek hit Alex Newhook,2023-04-07T03:37:53Z,2,05:17,14:43,1,2,28.0,San Jose Sharks,SJS
+126,28,21,San Jose Sharks,Colorado Avalanche,2022021256183,2022021256,Stoppage,183,STOP,Hand Pass,2023-04-07T03:37:58Z,2,05:21,14:39,1,2,,,
+127,28,21,San Jose Sharks,Colorado Avalanche,2022021256138,2022021256,Faceoff,138,FACEOFF,Lars Eller faceoff won against Thomas Bordeleau,2023-04-07T03:38:23Z,2,05:21,14:39,1,2,21.0,Colorado Avalanche,COL
+128,28,21,San Jose Sharks,Colorado Avalanche,2022021256139,2022021256,Takeaway,139,TAKEAWAY,Takeaway by Thomas Bordeleau,2023-04-07T03:38:54Z,2,05:52,14:08,1,2,28.0,San Jose Sharks,SJS
+129,28,21,San Jose Sharks,Colorado Avalanche,2022021256185,2022021256,Hit,185,HIT,Kurtis MacDermid hit Fabian Zetterlund,2023-04-07T03:39:32Z,2,06:30,13:30,1,2,21.0,Colorado Avalanche,COL
+130,28,21,San Jose Sharks,Colorado Avalanche,2022021256265,2022021256,Shot,265,SHOT,Ben Meyers Backhand saved by Kaapo Kahkonen,2023-04-07T03:39:38Z,2,06:36,13:24,1,2,21.0,Colorado Avalanche,COL
+131,28,21,San Jose Sharks,Colorado Avalanche,2022021256186,2022021256,Hit,186,HIT,Ben Meyers hit Henry Thrun,2023-04-07T03:39:46Z,2,06:44,13:16,1,2,21.0,Colorado Avalanche,COL
+132,28,21,San Jose Sharks,Colorado Avalanche,2022021256140,2022021256,Giveaway,140,GIVEAWAY,Giveaway by Alexandar Georgiev,2023-04-07T03:40:06Z,2,07:04,12:56,1,2,21.0,Colorado Avalanche,COL
+133,28,21,San Jose Sharks,Colorado Avalanche,2022021256266,2022021256,Shot,266,SHOT,Matt Nieto Wrist Shot saved by Kaapo Kahkonen,2023-04-07T03:40:14Z,2,07:12,12:48,1,2,21.0,Colorado Avalanche,COL
+134,28,21,San Jose Sharks,Colorado Avalanche,2022021256187,2022021256,Stoppage,187,STOP,Goalie Stopped,2023-04-07T03:40:15Z,2,07:13,12:47,1,2,,,
+135,28,21,San Jose Sharks,Colorado Avalanche,2022021256143,2022021256,Faceoff,143,FACEOFF,Mikko Rantanen faceoff won against Tomas Hertl,2023-04-07T03:42:28Z,2,07:13,12:47,1,2,21.0,Colorado Avalanche,COL
+136,28,21,San Jose Sharks,Colorado Avalanche,2022021256267,2022021256,Goal,267,GOAL,"Nathan MacKinnon (37) Wrist Shot, assists: Samuel Girard (29), Mikko Rantanen (46)",2023-04-07T03:42:35Z,2,07:19,12:41,1,3,21.0,Colorado Avalanche,COL
+137,28,21,San Jose Sharks,Colorado Avalanche,2022021256144,2022021256,Faceoff,144,FACEOFF,Nathan MacKinnon faceoff won against Logan Couture,2023-04-07T03:43:16Z,2,07:19,12:41,1,3,21.0,Colorado Avalanche,COL
+138,28,21,San Jose Sharks,Colorado Avalanche,2022021256268,2022021256,Blocked Shot,268,BLOCKED_SHOT,Mikko Rantanen shot blocked shot by Logan Couture,2023-04-07T03:43:38Z,2,07:41,12:19,1,3,28.0,San Jose Sharks,SJS
+139,28,21,San Jose Sharks,Colorado Avalanche,2022021256188,2022021256,Hit,188,HIT,Noah Gregor hit Evan Rodrigues,2023-04-07T03:43:46Z,2,07:49,12:11,1,3,28.0,San Jose Sharks,SJS
+140,28,21,San Jose Sharks,Colorado Avalanche,2022021256269,2022021256,Goal,269,GOAL,"Mikko Rantanen (52) Snap Shot, assists: Nathan MacKinnon (67), Devon Toews (37)",2023-04-07T03:44:02Z,2,08:06,11:54,1,4,21.0,Colorado Avalanche,COL
+141,28,21,San Jose Sharks,Colorado Avalanche,2022021256145,2022021256,Faceoff,145,FACEOFF,Steven Lorentz faceoff won against J.T. Compher,2023-04-07T03:45:23Z,2,08:06,11:54,1,4,28.0,San Jose Sharks,SJS
+142,28,21,San Jose Sharks,Colorado Avalanche,2022021256270,2022021256,Shot,270,SHOT,Steven Lorentz Wrist Shot saved by Alexandar Georgiev,2023-04-07T03:45:41Z,2,08:24,11:36,1,4,28.0,San Jose Sharks,SJS
+143,28,21,San Jose Sharks,Colorado Avalanche,2022021256189,2022021256,Hit,189,HIT,Adam Raska hit Denis Malgin,2023-04-07T03:45:44Z,2,08:27,11:33,1,4,28.0,San Jose Sharks,SJS
+144,28,21,San Jose Sharks,Colorado Avalanche,2022021256271,2022021256,Shot,271,SHOT,Jacob MacDonald Tip-In saved by Alexandar Georgiev,2023-04-07T03:45:44Z,2,08:27,11:33,1,4,28.0,San Jose Sharks,SJS
+145,28,21,San Jose Sharks,Colorado Avalanche,2022021256190,2022021256,Stoppage,190,STOP,Goalie Stopped,2023-04-07T03:45:45Z,2,08:28,11:32,1,4,,,
+146,28,21,San Jose Sharks,Colorado Avalanche,2022021256146,2022021256,Faceoff,146,FACEOFF,Steven Lorentz faceoff won against J.T. Compher,2023-04-07T03:46:25Z,2,08:28,11:32,1,4,28.0,San Jose Sharks,SJS
+147,28,21,San Jose Sharks,Colorado Avalanche,2022021256272,2022021256,Goal,272,GOAL,"Steven Lorentz (9) Wrist Shot, assists: Erik Karlsson (75), Jacob MacDonald (7)",2023-04-07T03:46:38Z,2,08:41,11:19,2,4,28.0,San Jose Sharks,SJS
+148,28,21,San Jose Sharks,Colorado Avalanche,2022021256147,2022021256,Faceoff,147,FACEOFF,Lars Eller faceoff won against Nico Sturm,2023-04-07T03:47:26Z,2,08:41,11:19,2,4,21.0,Colorado Avalanche,COL
+149,28,21,San Jose Sharks,Colorado Avalanche,2022021256148,2022021256,Giveaway,148,GIVEAWAY,Giveaway by James Reimer,2023-04-07T03:47:43Z,2,08:58,11:02,2,4,28.0,San Jose Sharks,SJS
+150,28,21,San Jose Sharks,Colorado Avalanche,2022021256191,2022021256,Hit,191,HIT,Mario Ferraro hit Logan O'Connor,2023-04-07T03:47:46Z,2,09:01,10:59,2,4,28.0,San Jose Sharks,SJS
+151,28,21,San Jose Sharks,Colorado Avalanche,2022021256538,2022021256,Penalty,538,PENALTY,Lars Eller Hooking against Nico Sturm,2023-04-07T03:47:53Z,2,09:08,10:52,2,4,21.0,Colorado Avalanche,COL
+152,28,21,San Jose Sharks,Colorado Avalanche,2022021256149,2022021256,Faceoff,149,FACEOFF,J.T. Compher faceoff won against Tomas Hertl,2023-04-07T03:48:39Z,2,09:08,10:52,2,4,21.0,Colorado Avalanche,COL
+153,28,21,San Jose Sharks,Colorado Avalanche,2022021256273,2022021256,Shot,273,SHOT,Logan Couture Tip-In saved by Alexandar Georgiev,2023-04-07T03:49:54Z,2,10:23,09:37,2,4,28.0,San Jose Sharks,SJS
+154,28,21,San Jose Sharks,Colorado Avalanche,2022021256275,2022021256,Shot,275,SHOT,Jacob MacDonald Wrist Shot saved by Alexandar Georgiev,2023-04-07T03:50:42Z,2,11:11,08:49,2,4,28.0,San Jose Sharks,SJS
+155,28,21,San Jose Sharks,Colorado Avalanche,2022021256193,2022021256,Stoppage,193,STOP,Goalie Stopped,2023-04-07T03:50:43Z,2,11:12,08:48,2,4,,,
+156,28,21,San Jose Sharks,Colorado Avalanche,2022021256150,2022021256,Faceoff,150,FACEOFF,Tomas Hertl faceoff won against Nathan MacKinnon,2023-04-07T03:53:01Z,2,11:12,08:48,2,4,28.0,San Jose Sharks,SJS
+157,28,21,San Jose Sharks,Colorado Avalanche,2022021256276,2022021256,Shot,276,SHOT,Henry Thrun Slap Shot saved by Alexandar Georgiev,2023-04-07T03:53:04Z,2,11:15,08:45,2,4,28.0,San Jose Sharks,SJS
+158,28,21,San Jose Sharks,Colorado Avalanche,2022021256194,2022021256,Hit,194,HIT,Jacob Peterson hit Evan Rodrigues,2023-04-07T03:53:10Z,2,11:21,08:39,2,4,28.0,San Jose Sharks,SJS
+159,28,21,San Jose Sharks,Colorado Avalanche,2022021256195,2022021256,Hit,195,HIT,Tomas Hertl hit Bowen Byram,2023-04-07T03:53:25Z,2,11:36,08:24,2,4,28.0,San Jose Sharks,SJS
+160,28,21,San Jose Sharks,Colorado Avalanche,2022021256277,2022021256,Blocked Shot,277,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Bowen Byram,2023-04-07T03:53:27Z,2,11:38,08:22,2,4,21.0,Colorado Avalanche,COL
+161,28,21,San Jose Sharks,Colorado Avalanche,2022021256196,2022021256,Stoppage,196,STOP,Puck in Netting,2023-04-07T03:53:28Z,2,11:39,08:21,2,4,,,
+162,28,21,San Jose Sharks,Colorado Avalanche,2022021256401,2022021256,Faceoff,401,FACEOFF,Logan Couture faceoff won against J.T. Compher,2023-04-07T03:54:06Z,2,11:39,08:21,2,4,28.0,San Jose Sharks,SJS
+163,28,21,San Jose Sharks,Colorado Avalanche,2022021256402,2022021256,Takeaway,402,TAKEAWAY,Takeaway by Matt Nieto,2023-04-07T03:54:27Z,2,12:00,08:00,2,4,21.0,Colorado Avalanche,COL
+164,28,21,San Jose Sharks,Colorado Avalanche,2022021256198,2022021256,Hit,198,HIT,Andrew Cogliano hit Matt Benning,2023-04-07T03:55:10Z,2,12:43,07:17,2,4,21.0,Colorado Avalanche,COL
+165,28,21,San Jose Sharks,Colorado Avalanche,2022021256199,2022021256,Stoppage,199,STOP,Offside,2023-04-07T03:55:13Z,2,12:46,07:14,2,4,,,
+166,28,21,San Jose Sharks,Colorado Avalanche,2022021256403,2022021256,Faceoff,403,FACEOFF,Tomas Hertl faceoff won against Nathan MacKinnon,2023-04-07T03:56:07Z,2,12:46,07:14,2,4,28.0,San Jose Sharks,SJS
+167,28,21,San Jose Sharks,Colorado Avalanche,2022021256278,2022021256,Shot,278,SHOT,Samuel Girard Snap Shot saved by James Reimer,2023-04-07T03:56:24Z,2,13:03,06:57,2,4,21.0,Colorado Avalanche,COL
+168,28,21,San Jose Sharks,Colorado Avalanche,2022021256404,2022021256,Giveaway,404,GIVEAWAY,Giveaway by Marc-Edouard Vlasic,2023-04-07T03:56:33Z,2,13:12,06:48,2,4,28.0,San Jose Sharks,SJS
+169,28,21,San Jose Sharks,Colorado Avalanche,2022021256200,2022021256,Hit,200,HIT,Fabian Zetterlund hit Bowen Byram,2023-04-07T03:57:19Z,2,13:58,06:02,2,4,28.0,San Jose Sharks,SJS
+170,28,21,San Jose Sharks,Colorado Avalanche,2022021256451,2022021256,Hit,451,HIT,Evgeny Svechnikov hit Jack Johnson,2023-04-07T03:57:28Z,2,14:07,05:53,2,4,28.0,San Jose Sharks,SJS
+171,28,21,San Jose Sharks,Colorado Avalanche,2022021256453,2022021256,Hit,453,HIT,Bowen Byram hit Nico Sturm,2023-04-07T03:57:36Z,2,14:15,05:45,2,4,21.0,Colorado Avalanche,COL
+172,28,21,San Jose Sharks,Colorado Avalanche,2022021256454,2022021256,Hit,454,HIT,Adam Raska hit Jack Johnson,2023-04-07T03:57:51Z,2,14:30,05:30,2,4,28.0,San Jose Sharks,SJS
+173,28,21,San Jose Sharks,Colorado Avalanche,2022021256279,2022021256,Missed Shot,279,MISSED_SHOT,Henry Thrun Wide of Net Alexandar Georgiev,2023-04-07T03:58:02Z,2,14:41,05:19,2,4,28.0,San Jose Sharks,SJS
+174,28,21,San Jose Sharks,Colorado Avalanche,2022021256280,2022021256,Shot,280,SHOT,Steven Lorentz Wrist Shot saved by Alexandar Georgiev,2023-04-07T03:58:05Z,2,14:44,05:16,2,4,28.0,San Jose Sharks,SJS
+175,28,21,San Jose Sharks,Colorado Avalanche,2022021256281,2022021256,Blocked Shot,281,BLOCKED_SHOT,Adam Raska shot blocked shot by Denis Malgin,2023-04-07T03:58:08Z,2,14:47,05:13,2,4,21.0,Colorado Avalanche,COL
+176,28,21,San Jose Sharks,Colorado Avalanche,2022021256283,2022021256,Takeaway,283,TAKEAWAY,Takeaway by Matt Nieto,2023-04-07T03:58:25Z,2,15:04,04:56,2,4,21.0,Colorado Avalanche,COL
+177,28,21,San Jose Sharks,Colorado Avalanche,2022021256282,2022021256,Goal,282,GOAL,"Ben Meyers (2) Wrist Shot, assists: Matt Nieto (11)",2023-04-07T03:58:29Z,2,15:08,04:52,2,5,21.0,Colorado Avalanche,COL
+178,28,21,San Jose Sharks,Colorado Avalanche,2022021256405,2022021256,Faceoff,405,FACEOFF,Alex Newhook faceoff won against Tomas Hertl,2023-04-07T03:59:18Z,2,15:08,04:52,2,5,21.0,Colorado Avalanche,COL
+179,28,21,San Jose Sharks,Colorado Avalanche,2022021256455,2022021256,Stoppage,455,STOP,Puck Frozen,2023-04-07T03:59:31Z,2,15:21,04:39,2,5,,,
+180,28,21,San Jose Sharks,Colorado Avalanche,2022021256406,2022021256,Faceoff,406,FACEOFF,Nathan MacKinnon faceoff won against Tomas Hertl,2023-04-07T04:01:47Z,2,15:21,04:39,2,5,21.0,Colorado Avalanche,COL
+181,28,21,San Jose Sharks,Colorado Avalanche,2022021256456,2022021256,Stoppage,456,STOP,Offside,2023-04-07T04:02:25Z,2,15:59,04:01,2,5,,,
+182,28,21,San Jose Sharks,Colorado Avalanche,2022021256407,2022021256,Faceoff,407,FACEOFF,Lars Eller faceoff won against Logan Couture,2023-04-07T04:02:53Z,2,15:59,04:01,2,5,21.0,Colorado Avalanche,COL
+183,28,21,San Jose Sharks,Colorado Avalanche,2022021256284,2022021256,Missed Shot,284,MISSED_SHOT,Lars Eller Wide of Net James Reimer,2023-04-07T04:03:04Z,2,16:10,03:50,2,5,21.0,Colorado Avalanche,COL
+184,28,21,San Jose Sharks,Colorado Avalanche,2022021256408,2022021256,Giveaway,408,GIVEAWAY,Giveaway by Marc-Edouard Vlasic,2023-04-07T04:03:04Z,2,16:10,03:50,2,5,28.0,San Jose Sharks,SJS
+185,28,21,San Jose Sharks,Colorado Avalanche,2022021256285,2022021256,Missed Shot,285,MISSED_SHOT,Marc-Edouard Vlasic Wide of Net Alexandar Georgiev,2023-04-07T04:03:22Z,2,16:28,03:32,2,5,28.0,San Jose Sharks,SJS
+186,28,21,San Jose Sharks,Colorado Avalanche,2022021256457,2022021256,Hit,457,HIT,Steven Lorentz hit Jack Johnson,2023-04-07T04:03:57Z,2,17:03,02:57,2,5,28.0,San Jose Sharks,SJS
+187,28,21,San Jose Sharks,Colorado Avalanche,2022021256458,2022021256,Hit,458,HIT,Evgeny Svechnikov hit Mikko Rantanen,2023-04-07T04:04:46Z,2,17:52,02:08,2,5,28.0,San Jose Sharks,SJS
+188,28,21,San Jose Sharks,Colorado Avalanche,2022021256459,2022021256,Hit,459,HIT,Mikko Rantanen hit Evgeny Svechnikov,2023-04-07T04:05:01Z,2,18:07,01:53,2,5,21.0,Colorado Avalanche,COL
+189,28,21,San Jose Sharks,Colorado Avalanche,2022021256460,2022021256,Hit,460,HIT,Matt Benning hit Nathan MacKinnon,2023-04-07T04:05:23Z,2,18:29,01:31,2,5,28.0,San Jose Sharks,SJS
+190,28,21,San Jose Sharks,Colorado Avalanche,2022021256286,2022021256,Blocked Shot,286,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Tomas Hertl,2023-04-07T04:05:27Z,2,18:33,01:27,2,5,28.0,San Jose Sharks,SJS
+191,28,21,San Jose Sharks,Colorado Avalanche,2022021256287,2022021256,Shot,287,SHOT,Matt Nieto Tip-In saved by James Reimer,2023-04-07T04:05:37Z,2,18:43,01:17,2,5,21.0,Colorado Avalanche,COL
+192,28,21,San Jose Sharks,Colorado Avalanche,2022021256409,2022021256,Takeaway,409,TAKEAWAY,Takeaway by Tomas Hertl,2023-04-07T04:06:05Z,2,19:11,00:49,2,5,28.0,San Jose Sharks,SJS
+193,28,21,San Jose Sharks,Colorado Avalanche,2022021256288,2022021256,Blocked Shot,288,BLOCKED_SHOT,Jacob MacDonald shot blocked shot by Matt Nieto,2023-04-07T04:06:09Z,2,19:15,00:45,2,5,21.0,Colorado Avalanche,COL
+194,28,21,San Jose Sharks,Colorado Avalanche,2022021256289,2022021256,Shot,289,SHOT,Steven Lorentz Slap Shot saved by Alexandar Georgiev,2023-04-07T04:06:23Z,2,19:29,00:31,2,5,28.0,San Jose Sharks,SJS
+195,28,21,San Jose Sharks,Colorado Avalanche,2022021256461,2022021256,Stoppage,461,STOP,Goalie Stopped,2023-04-07T04:06:25Z,2,19:30,00:30,2,5,,,
+196,28,21,San Jose Sharks,Colorado Avalanche,2022021256410,2022021256,Faceoff,410,FACEOFF,Lars Eller faceoff won against Steven Lorentz,2023-04-07T04:06:58Z,2,19:30,00:30,2,5,21.0,Colorado Avalanche,COL
+197,28,21,San Jose Sharks,Colorado Avalanche,2022021256462,2022021256,Hit,462,HIT,Steven Lorentz hit Lars Eller,2023-04-07T04:07:07Z,2,19:39,00:21,2,5,28.0,San Jose Sharks,SJS
+198,28,21,San Jose Sharks,Colorado Avalanche,2022021256290,2022021256,Period End,290,PERIOD_END,End of 2nd Period,2023-04-07T04:07:28Z,2,20:00,00:00,2,5,,,
+199,28,21,San Jose Sharks,Colorado Avalanche,2022021256293,2022021256,Period Official,293,PERIOD_OFFICIAL,Period Official,2023-04-07T04:07:32Z,2,20:00,00:00,2,5,,,
+200,28,21,San Jose Sharks,Colorado Avalanche,2022021256294,2022021256,Period Ready,294,PERIOD_READY,Period Ready,2023-04-07T04:24:14Z,3,00:00,20:00,2,5,,,
+201,28,21,San Jose Sharks,Colorado Avalanche,2022021256411,2022021256,Period Start,411,PERIOD_START,Period Start,2023-04-07T04:26:23Z,3,00:00,20:00,2,5,,,
+202,28,21,San Jose Sharks,Colorado Avalanche,2022021256412,2022021256,Faceoff,412,FACEOFF,Tomas Hertl faceoff won against Nathan MacKinnon,2023-04-07T04:26:23Z,3,00:00,20:00,2,5,28.0,San Jose Sharks,SJS
+203,28,21,San Jose Sharks,Colorado Avalanche,2022021256463,2022021256,Stoppage,463,STOP,Offside,2023-04-07T04:26:33Z,3,00:09,19:51,2,5,,,
+204,28,21,San Jose Sharks,Colorado Avalanche,2022021256413,2022021256,Faceoff,413,FACEOFF,Nathan MacKinnon faceoff won against Tomas Hertl,2023-04-07T04:26:54Z,3,00:09,19:51,2,5,21.0,Colorado Avalanche,COL
+205,28,21,San Jose Sharks,Colorado Avalanche,2022021256295,2022021256,Blocked Shot,295,BLOCKED_SHOT,Jacob Peterson shot blocked shot by Samuel Girard,2023-04-07T04:27:07Z,3,00:22,19:38,2,5,21.0,Colorado Avalanche,COL
+206,28,21,San Jose Sharks,Colorado Avalanche,2022021256414,2022021256,Giveaway,414,GIVEAWAY,Giveaway by Samuel Girard,2023-04-07T04:27:08Z,3,00:23,19:37,2,5,21.0,Colorado Avalanche,COL
+207,28,21,San Jose Sharks,Colorado Avalanche,2022021256415,2022021256,Giveaway,415,GIVEAWAY,Giveaway by Kevin Labanc,2023-04-07T04:27:20Z,3,00:35,19:25,2,5,28.0,San Jose Sharks,SJS
+208,28,21,San Jose Sharks,Colorado Avalanche,2022021256416,2022021256,Takeaway,416,TAKEAWAY,Takeaway by Erik Karlsson,2023-04-07T04:27:22Z,3,00:37,19:23,2,5,28.0,San Jose Sharks,SJS
+209,28,21,San Jose Sharks,Colorado Avalanche,2022021256464,2022021256,Hit,464,HIT,Adam Raska hit Kurtis MacDermid,2023-04-07T04:28:33Z,3,01:48,18:12,2,5,28.0,San Jose Sharks,SJS
+210,28,21,San Jose Sharks,Colorado Avalanche,2022021256465,2022021256,Hit,465,HIT,Steven Lorentz hit Logan O'Connor,2023-04-07T04:28:39Z,3,01:54,18:06,2,5,28.0,San Jose Sharks,SJS
+211,28,21,San Jose Sharks,Colorado Avalanche,2022021256466,2022021256,Hit,466,HIT,Radim Simek hit Logan O'Connor,2023-04-07T04:28:55Z,3,02:10,17:50,2,5,28.0,San Jose Sharks,SJS
+212,28,21,San Jose Sharks,Colorado Avalanche,2022021256467,2022021256,Stoppage,467,STOP,Icing,2023-04-07T04:29:18Z,3,02:33,17:27,2,5,,,
+213,28,21,San Jose Sharks,Colorado Avalanche,2022021256417,2022021256,Faceoff,417,FACEOFF,Alex Newhook faceoff won against Tomas Hertl,2023-04-07T04:29:45Z,3,02:33,17:27,2,5,21.0,Colorado Avalanche,COL
+214,28,21,San Jose Sharks,Colorado Avalanche,2022021256468,2022021256,Hit,468,HIT,Kevin Labanc hit Jack Johnson,2023-04-07T04:29:51Z,3,02:39,17:21,2,5,28.0,San Jose Sharks,SJS
+215,28,21,San Jose Sharks,Colorado Avalanche,2022021256296,2022021256,Missed Shot,296,MISSED_SHOT,Erik Karlsson Wide of Net Alexandar Georgiev,2023-04-07T04:30:11Z,3,02:59,17:01,2,5,28.0,San Jose Sharks,SJS
+216,28,21,San Jose Sharks,Colorado Avalanche,2022021256297,2022021256,Goal,297,GOAL,"Ben Meyers (3) Wrist Shot, assists: Alex Newhook (15), Matt Nieto (12)",2023-04-07T04:30:24Z,3,03:12,16:48,2,6,21.0,Colorado Avalanche,COL
+217,28,21,San Jose Sharks,Colorado Avalanche,2022021256418,2022021256,Faceoff,418,FACEOFF,Logan Couture faceoff won against Nathan MacKinnon,2023-04-07T04:31:03Z,3,03:12,16:48,2,6,28.0,San Jose Sharks,SJS
+218,28,21,San Jose Sharks,Colorado Avalanche,2022021256419,2022021256,Takeaway,419,TAKEAWAY,Takeaway by Evan Rodrigues,2023-04-07T04:31:18Z,3,03:27,16:33,2,6,21.0,Colorado Avalanche,COL
+219,28,21,San Jose Sharks,Colorado Avalanche,2022021256420,2022021256,Giveaway,420,GIVEAWAY,Giveaway by Nathan MacKinnon,2023-04-07T04:31:24Z,3,03:33,16:27,2,6,21.0,Colorado Avalanche,COL
+220,28,21,San Jose Sharks,Colorado Avalanche,2022021256421,2022021256,Takeaway,421,TAKEAWAY,Takeaway by Radim Simek,2023-04-07T04:31:39Z,3,03:48,16:12,2,6,28.0,San Jose Sharks,SJS
+221,28,21,San Jose Sharks,Colorado Avalanche,2022021256298,2022021256,Missed Shot,298,MISSED_SHOT,Henry Thrun Wide of Net Alexandar Georgiev,2023-04-07T04:31:51Z,3,04:00,16:00,2,6,28.0,San Jose Sharks,SJS
+222,28,21,San Jose Sharks,Colorado Avalanche,2022021256469,2022021256,Stoppage,469,STOP,Goalie Stopped,2023-04-07T04:31:52Z,3,04:01,15:59,2,6,,,
+223,28,21,San Jose Sharks,Colorado Avalanche,2022021256422,2022021256,Faceoff,422,FACEOFF,J.T. Compher faceoff won against Steven Lorentz,2023-04-07T04:32:24Z,3,04:01,15:59,2,6,21.0,Colorado Avalanche,COL
+224,28,21,San Jose Sharks,Colorado Avalanche,2022021256423,2022021256,Giveaway,423,GIVEAWAY,Giveaway by Adam Raska,2023-04-07T04:32:34Z,3,04:11,15:49,2,6,28.0,San Jose Sharks,SJS
+225,28,21,San Jose Sharks,Colorado Avalanche,2022021256470,2022021256,Hit,470,HIT,Steven Lorentz hit Valeri Nichushkin,2023-04-07T04:32:51Z,3,04:28,15:32,2,6,28.0,San Jose Sharks,SJS
+226,28,21,San Jose Sharks,Colorado Avalanche,2022021256471,2022021256,Stoppage,471,STOP,Icing,2023-04-07T04:33:16Z,3,04:52,15:08,2,6,,,
+227,28,21,San Jose Sharks,Colorado Avalanche,2022021256425,2022021256,Faceoff,425,FACEOFF,Nico Sturm faceoff won against Lars Eller,2023-04-07T04:33:45Z,3,04:52,15:08,2,6,28.0,San Jose Sharks,SJS
+228,28,21,San Jose Sharks,Colorado Avalanche,2022021256299,2022021256,Missed Shot,299,MISSED_SHOT,Fabian Zetterlund Wide of Net Alexandar Georgiev,2023-04-07T04:33:47Z,3,04:54,15:06,2,6,28.0,San Jose Sharks,SJS
+229,28,21,San Jose Sharks,Colorado Avalanche,2022021256426,2022021256,Giveaway,426,GIVEAWAY,Giveaway by Lars Eller,2023-04-07T04:34:00Z,3,05:06,14:54,2,6,21.0,Colorado Avalanche,COL
+230,28,21,San Jose Sharks,Colorado Avalanche,2022021256473,2022021256,Stoppage,473,STOP,Offside,2023-04-07T04:34:01Z,3,05:08,14:52,2,6,,,
+231,28,21,San Jose Sharks,Colorado Avalanche,2022021256427,2022021256,Faceoff,427,FACEOFF,Alex Newhook faceoff won against Nico Sturm,2023-04-07T04:34:27Z,3,05:08,14:52,2,6,21.0,Colorado Avalanche,COL
+232,28,21,San Jose Sharks,Colorado Avalanche,2022021256300,2022021256,Missed Shot,300,MISSED_SHOT,Bowen  Byram Wide of Net James Reimer,2023-04-07T04:34:55Z,3,05:36,14:24,2,6,21.0,Colorado Avalanche,COL
+233,28,21,San Jose Sharks,Colorado Avalanche,2022021256603,2022021256,Shot,603,SHOT,Matt Nieto Tip-In saved by James Reimer,2023-04-07T04:35:02Z,3,05:43,14:17,2,6,21.0,Colorado Avalanche,COL
+234,28,21,San Jose Sharks,Colorado Avalanche,2022021256602,2022021256,Shot,602,SHOT,Matt Nieto Wrist Shot saved by James Reimer,2023-04-07T04:35:03Z,3,05:44,14:16,2,6,21.0,Colorado Avalanche,COL
+235,28,21,San Jose Sharks,Colorado Avalanche,2022021256474,2022021256,Stoppage,474,STOP,Goalie Stopped,2023-04-07T04:35:06Z,3,05:47,14:13,2,6,,,
+236,28,21,San Jose Sharks,Colorado Avalanche,2022021256428,2022021256,Faceoff,428,FACEOFF,Tomas Hertl faceoff won against Nathan MacKinnon,2023-04-07T04:35:42Z,3,05:47,14:13,2,6,28.0,San Jose Sharks,SJS
+237,28,21,San Jose Sharks,Colorado Avalanche,2022021256605,2022021256,Blocked Shot,605,BLOCKED_SHOT,Evan Rodrigues shot blocked shot by Tomas Hertl,2023-04-07T04:36:25Z,3,06:30,13:30,2,6,28.0,San Jose Sharks,SJS
+238,28,21,San Jose Sharks,Colorado Avalanche,2022021256475,2022021256,Stoppage,475,STOP,Goalie Stopped,2023-04-07T04:36:26Z,3,06:31,13:29,2,6,,,
+239,28,21,San Jose Sharks,Colorado Avalanche,2022021256429,2022021256,Faceoff,429,FACEOFF,J.T. Compher faceoff won against Logan Couture,2023-04-07T04:38:39Z,3,06:31,13:29,2,6,21.0,Colorado Avalanche,COL
+240,28,21,San Jose Sharks,Colorado Avalanche,2022021256606,2022021256,Shot,606,SHOT,Valeri Nichushkin Tip-In saved by James Reimer,2023-04-07T04:38:41Z,3,06:33,13:27,2,6,21.0,Colorado Avalanche,COL
+241,28,21,San Jose Sharks,Colorado Avalanche,2022021256607,2022021256,Shot,607,SHOT,Erik Johnson Slap Shot saved by James Reimer,2023-04-07T04:38:47Z,3,06:39,13:21,2,6,21.0,Colorado Avalanche,COL
+242,28,21,San Jose Sharks,Colorado Avalanche,2022021256608,2022021256,Shot,608,SHOT,Denis Malgin Wrist Shot saved by James Reimer,2023-04-07T04:38:48Z,3,06:40,13:20,2,6,21.0,Colorado Avalanche,COL
+243,28,21,San Jose Sharks,Colorado Avalanche,2022021256609,2022021256,Blocked Shot,609,BLOCKED_SHOT,Bowen Byram shot blocked shot by Radim Simek,2023-04-07T04:38:54Z,3,06:46,13:14,2,6,28.0,San Jose Sharks,SJS
+244,28,21,San Jose Sharks,Colorado Avalanche,2022021256476,2022021256,Stoppage,476,STOP,Icing,2023-04-07T04:39:52Z,3,07:44,12:16,2,6,,,
+245,28,21,San Jose Sharks,Colorado Avalanche,2022021256430,2022021256,Faceoff,430,FACEOFF,Steven Lorentz faceoff won against Lars Eller,2023-04-07T04:40:22Z,3,07:44,12:16,2,6,28.0,San Jose Sharks,SJS
+246,28,21,San Jose Sharks,Colorado Avalanche,2022021256477,2022021256,Hit,477,HIT,Erik Johnson hit Steven Lorentz,2023-04-07T04:40:37Z,3,07:59,12:01,2,6,21.0,Colorado Avalanche,COL
+247,28,21,San Jose Sharks,Colorado Avalanche,2022021256478,2022021256,Stoppage,478,STOP,Puck in Benches,2023-04-07T04:40:51Z,3,08:12,11:48,2,6,,,
+248,28,21,San Jose Sharks,Colorado Avalanche,2022021256431,2022021256,Faceoff,431,FACEOFF,Tomas Hertl faceoff won against Nathan MacKinnon,2023-04-07T04:41:23Z,3,08:12,11:48,2,6,28.0,San Jose Sharks,SJS
+249,28,21,San Jose Sharks,Colorado Avalanche,2022021256610,2022021256,Blocked Shot,610,BLOCKED_SHOT,Evan Rodrigues shot blocked shot by Radim Simek,2023-04-07T04:41:45Z,3,08:34,11:26,2,6,28.0,San Jose Sharks,SJS
+250,28,21,San Jose Sharks,Colorado Avalanche,2022021256432,2022021256,Giveaway,432,GIVEAWAY,Giveaway by Samuel Girard,2023-04-07T04:42:00Z,3,08:49,11:11,2,6,21.0,Colorado Avalanche,COL
+251,28,21,San Jose Sharks,Colorado Avalanche,2022021256435,2022021256,Takeaway,435,TAKEAWAY,Takeaway by Marc-Edouard Vlasic,2023-04-07T04:42:19Z,3,09:08,10:52,2,6,28.0,San Jose Sharks,SJS
+252,28,21,San Jose Sharks,Colorado Avalanche,2022021256479,2022021256,Stoppage,479,STOP,Offside,2023-04-07T04:42:20Z,3,09:09,10:51,2,6,,,
+253,28,21,San Jose Sharks,Colorado Avalanche,2022021256436,2022021256,Faceoff,436,FACEOFF,Logan Couture faceoff won against Alex Newhook,2023-04-07T04:42:55Z,3,09:09,10:51,2,6,28.0,San Jose Sharks,SJS
+254,28,21,San Jose Sharks,Colorado Avalanche,2022021256611,2022021256,Missed Shot,611,MISSED_SHOT,Marc-Edouard Vlasic Over Net Alexandar Georgiev,2023-04-07T04:43:21Z,3,09:35,10:25,2,6,28.0,San Jose Sharks,SJS
+255,28,21,San Jose Sharks,Colorado Avalanche,2022021256612,2022021256,Blocked Shot,612,BLOCKED_SHOT,Steven Lorentz shot blocked shot by Erik Johnson,2023-04-07T04:43:46Z,3,10:00,10:00,2,6,21.0,Colorado Avalanche,COL
+256,28,21,San Jose Sharks,Colorado Avalanche,2022021256437,2022021256,Giveaway,437,GIVEAWAY,Giveaway by Valeri Nichushkin,2023-04-07T04:43:59Z,3,10:13,09:47,2,6,21.0,Colorado Avalanche,COL
+257,28,21,San Jose Sharks,Colorado Avalanche,2022021256613,2022021256,Shot,613,SHOT,Henry Thrun Wrist Shot saved by Alexandar Georgiev,2023-04-07T04:44:01Z,3,10:15,09:45,2,6,28.0,San Jose Sharks,SJS
+258,28,21,San Jose Sharks,Colorado Avalanche,2022021256614,2022021256,Shot,614,SHOT,Jack Johnson Wrist Shot saved by James Reimer,2023-04-07T04:44:28Z,3,10:42,09:18,2,6,21.0,Colorado Avalanche,COL
+259,28,21,San Jose Sharks,Colorado Avalanche,2022021256480,2022021256,Stoppage,480,STOP,Offside,2023-04-07T04:45:15Z,3,11:29,08:31,2,6,,,
+260,28,21,San Jose Sharks,Colorado Avalanche,2022021256439,2022021256,Faceoff,439,FACEOFF,Tomas Hertl faceoff won against Nathan MacKinnon,2023-04-07T04:47:32Z,3,11:29,08:31,2,6,28.0,San Jose Sharks,SJS
+261,28,21,San Jose Sharks,Colorado Avalanche,2022021256615,2022021256,Blocked Shot,615,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Samuel Girard,2023-04-07T04:47:47Z,3,11:44,08:16,2,6,21.0,Colorado Avalanche,COL
+262,28,21,San Jose Sharks,Colorado Avalanche,2022021256481,2022021256,Stoppage,481,STOP,Puck Frozen,2023-04-07T04:47:48Z,3,11:46,08:14,2,6,,,
+263,28,21,San Jose Sharks,Colorado Avalanche,2022021256440,2022021256,Faceoff,440,FACEOFF,Nathan MacKinnon faceoff won against Tomas Hertl,2023-04-07T04:48:09Z,3,11:46,08:14,2,6,21.0,Colorado Avalanche,COL
+264,28,21,San Jose Sharks,Colorado Avalanche,2022021256482,2022021256,Stoppage,482,STOP,Puck in Netting,2023-04-07T04:48:30Z,3,12:07,07:53,2,6,,,
+265,28,21,San Jose Sharks,Colorado Avalanche,2022021256441,2022021256,Faceoff,441,FACEOFF,Alex Newhook faceoff won against Logan Couture,2023-04-07T04:48:59Z,3,12:07,07:53,2,6,21.0,Colorado Avalanche,COL
+266,28,21,San Jose Sharks,Colorado Avalanche,2022021256483,2022021256,Stoppage,483,STOP,Icing,2023-04-07T04:50:00Z,3,13:08,06:52,2,6,,,
+267,28,21,San Jose Sharks,Colorado Avalanche,2022021256442,2022021256,Faceoff,442,FACEOFF,J.T. Compher faceoff won against Steven Lorentz,2023-04-07T04:50:33Z,3,13:08,06:52,2,6,21.0,Colorado Avalanche,COL
+268,28,21,San Jose Sharks,Colorado Avalanche,2022021256616,2022021256,Shot,616,SHOT,Jacob MacDonald Wrist Shot saved by Alexandar Georgiev,2023-04-07T04:50:59Z,3,13:34,06:26,2,6,28.0,San Jose Sharks,SJS
+269,28,21,San Jose Sharks,Colorado Avalanche,2022021256484,2022021256,Stoppage,484,STOP,Puck in Netting,2023-04-07T04:51:00Z,3,13:35,06:25,2,6,,,
+270,28,21,San Jose Sharks,Colorado Avalanche,2022021256443,2022021256,Faceoff,443,FACEOFF,Lars Eller faceoff won against Nico Sturm,2023-04-07T04:51:32Z,3,13:35,06:25,2,6,21.0,Colorado Avalanche,COL
+271,28,21,San Jose Sharks,Colorado Avalanche,2022021256485,2022021256,Stoppage,485,STOP,Icing,2023-04-07T04:51:39Z,3,13:42,06:18,2,6,,,
+272,28,21,San Jose Sharks,Colorado Avalanche,2022021256444,2022021256,Faceoff,444,FACEOFF,Nico Sturm faceoff won against Lars Eller,2023-04-07T04:52:05Z,3,13:42,06:18,2,6,28.0,San Jose Sharks,SJS
+273,28,21,San Jose Sharks,Colorado Avalanche,2022021256486,2022021256,Hit,486,HIT,Radim Simek hit Logan O'Connor,2023-04-07T04:52:17Z,3,13:54,06:06,2,6,28.0,San Jose Sharks,SJS
+274,28,21,San Jose Sharks,Colorado Avalanche,2022021256445,2022021256,Takeaway,445,TAKEAWAY,Takeaway by Evgeny Svechnikov,2023-04-07T04:52:30Z,3,14:07,05:53,2,6,28.0,San Jose Sharks,SJS
+275,28,21,San Jose Sharks,Colorado Avalanche,2022021256446,2022021256,Takeaway,446,TAKEAWAY,Takeaway by Thomas Bordeleau,2023-04-07T04:53:36Z,3,15:13,04:47,2,6,28.0,San Jose Sharks,SJS
+276,28,21,San Jose Sharks,Colorado Avalanche,2022021256617,2022021256,Missed Shot,617,MISSED_SHOT,Noah Gregor Wide of Net Alexandar Georgiev,2023-04-07T04:53:39Z,3,15:16,04:44,2,6,28.0,San Jose Sharks,SJS
+277,28,21,San Jose Sharks,Colorado Avalanche,2022021256618,2022021256,Shot,618,SHOT,Logan Couture Backhand saved by Alexandar Georgiev,2023-04-07T04:53:44Z,3,15:21,04:39,2,6,28.0,San Jose Sharks,SJS
+278,28,21,San Jose Sharks,Colorado Avalanche,2022021256487,2022021256,Stoppage,487,STOP,Goalie Stopped,2023-04-07T04:53:45Z,3,15:22,04:38,2,6,,,
+279,28,21,San Jose Sharks,Colorado Avalanche,2022021256447,2022021256,Faceoff,447,FACEOFF,Logan Couture faceoff won against Alex Newhook,2023-04-07T04:56:00Z,3,15:22,04:38,2,6,28.0,San Jose Sharks,SJS
+280,28,21,San Jose Sharks,Colorado Avalanche,2022021256619,2022021256,Shot,619,SHOT,Logan Couture Tip-In saved by Alexandar Georgiev,2023-04-07T04:56:04Z,3,15:26,04:34,2,6,28.0,San Jose Sharks,SJS
+281,28,21,San Jose Sharks,Colorado Avalanche,2022021256448,2022021256,Giveaway,448,GIVEAWAY,Giveaway by Erik Karlsson,2023-04-07T04:56:35Z,3,15:57,04:03,2,6,28.0,San Jose Sharks,SJS
+282,28,21,San Jose Sharks,Colorado Avalanche,2022021256488,2022021256,Hit,488,HIT,Kurtis MacDermid hit Adam Raska,2023-04-07T04:56:57Z,3,16:19,03:41,2,6,21.0,Colorado Avalanche,COL
+283,28,21,San Jose Sharks,Colorado Avalanche,2022021256620,2022021256,Blocked Shot,620,BLOCKED_SHOT,Kurtis MacDermid shot blocked shot by Jacob MacDonald,2023-04-07T04:57:04Z,3,16:26,03:34,2,6,28.0,San Jose Sharks,SJS
+284,28,21,San Jose Sharks,Colorado Avalanche,2022021256621,2022021256,Shot,621,SHOT,Fabian Zetterlund Snap Shot saved by Alexandar Georgiev,2023-04-07T04:57:21Z,3,16:43,03:17,2,6,28.0,San Jose Sharks,SJS
+285,28,21,San Jose Sharks,Colorado Avalanche,2022021256489,2022021256,Stoppage,489,STOP,Goalie Stopped,2023-04-07T04:57:23Z,3,16:44,03:16,2,6,,,
+286,28,21,San Jose Sharks,Colorado Avalanche,2022021256449,2022021256,Faceoff,449,FACEOFF,Nico Sturm faceoff won against Lars Eller,2023-04-07T04:57:52Z,3,16:44,03:16,2,6,28.0,San Jose Sharks,SJS
+287,28,21,San Jose Sharks,Colorado Avalanche,2022021256622,2022021256,Shot,622,SHOT,Fabian Zetterlund Wrist Shot saved by Alexandar Georgiev,2023-04-07T04:58:18Z,3,17:10,02:50,2,6,28.0,San Jose Sharks,SJS
+288,28,21,San Jose Sharks,Colorado Avalanche,2022021256490,2022021256,Stoppage,490,STOP,Goalie Stopped,2023-04-07T04:58:20Z,3,17:12,02:48,2,6,,,
+289,28,21,San Jose Sharks,Colorado Avalanche,2022021256450,2022021256,Faceoff,450,FACEOFF,Tomas Hertl faceoff won against Nathan MacKinnon,2023-04-07T04:58:50Z,3,17:12,02:48,2,6,28.0,San Jose Sharks,SJS
+290,28,21,San Jose Sharks,Colorado Avalanche,2022021256623,2022021256,Blocked Shot,623,BLOCKED_SHOT,Kevin Labanc shot blocked shot by Nathan MacKinnon,2023-04-07T04:59:08Z,3,17:30,02:30,2,6,21.0,Colorado Avalanche,COL
+291,28,21,San Jose Sharks,Colorado Avalanche,2022021256624,2022021256,Shot,624,SHOT,Kevin Labanc Tip-In saved by Alexandar Georgiev,2023-04-07T04:59:11Z,3,17:33,02:27,2,6,28.0,San Jose Sharks,SJS
+292,28,21,San Jose Sharks,Colorado Avalanche,2022021256491,2022021256,Stoppage,491,STOP,Goalie Stopped,2023-04-07T04:59:13Z,3,17:34,02:26,2,6,,,
+293,28,21,San Jose Sharks,Colorado Avalanche,2022021256751,2022021256,Faceoff,751,FACEOFF,Alex Newhook faceoff won against Tomas Hertl,2023-04-07T04:59:41Z,3,17:34,02:26,2,6,21.0,Colorado Avalanche,COL
+294,28,21,San Jose Sharks,Colorado Avalanche,2022021256625,2022021256,Shot,625,SHOT,Kevin Labanc Wrist Shot saved by Alexandar Georgiev,2023-04-07T05:00:08Z,3,18:01,01:59,2,6,28.0,San Jose Sharks,SJS
+295,28,21,San Jose Sharks,Colorado Avalanche,2022021256626,2022021256,Shot,626,SHOT,Alex Newhook Slap Shot saved by James Reimer,2023-04-07T05:00:28Z,3,18:21,01:39,2,6,21.0,Colorado Avalanche,COL
+296,28,21,San Jose Sharks,Colorado Avalanche,2022021256492,2022021256,Stoppage,492,STOP,Goalie Stopped,2023-04-07T05:00:28Z,3,18:22,01:38,2,6,,,
+297,28,21,San Jose Sharks,Colorado Avalanche,2022021256752,2022021256,Faceoff,752,FACEOFF,J.T. Compher faceoff won against Logan Couture,2023-04-07T05:00:56Z,3,18:22,01:38,2,6,21.0,Colorado Avalanche,COL
+298,28,21,San Jose Sharks,Colorado Avalanche,2022021256627,2022021256,Shot,627,SHOT,Erik Johnson Wrist Shot saved by James Reimer,2023-04-07T05:01:39Z,3,19:05,00:55,2,6,21.0,Colorado Avalanche,COL
+299,28,21,San Jose Sharks,Colorado Avalanche,2022021256493,2022021256,Stoppage,493,STOP,Goalie Stopped,2023-04-07T05:01:41Z,3,19:06,00:54,2,6,,,
+300,28,21,San Jose Sharks,Colorado Avalanche,2022021256753,2022021256,Faceoff,753,FACEOFF,Lars Eller faceoff won against Steven Lorentz,2023-04-07T05:02:09Z,3,19:06,00:54,2,6,21.0,Colorado Avalanche,COL
+301,28,21,San Jose Sharks,Colorado Avalanche,2022021256628,2022021256,Blocked Shot,628,BLOCKED_SHOT,Kurtis MacDermid shot blocked shot by Radim Simek,2023-04-07T05:02:13Z,3,19:11,00:49,2,6,28.0,San Jose Sharks,SJS
+302,28,21,San Jose Sharks,Colorado Avalanche,2022021256494,2022021256,Stoppage,494,STOP,Icing,2023-04-07T05:02:35Z,3,19:32,00:28,2,6,,,
+303,28,21,San Jose Sharks,Colorado Avalanche,2022021256754,2022021256,Faceoff,754,FACEOFF,Steven Lorentz faceoff won against Lars Eller,2023-04-07T05:03:07Z,3,19:32,00:28,2,6,28.0,San Jose Sharks,SJS
+304,28,21,San Jose Sharks,Colorado Avalanche,2022021256629,2022021256,Blocked Shot,629,BLOCKED_SHOT,Jacob MacDonald shot blocked shot by Logan O'Connor,2023-04-07T05:03:11Z,3,19:37,00:23,2,6,21.0,Colorado Avalanche,COL
+305,28,21,San Jose Sharks,Colorado Avalanche,2022021256630,2022021256,Shot,630,SHOT,Henry Thrun Wrist Shot saved by Alexandar Georgiev,2023-04-07T05:03:23Z,3,19:49,00:11,2,6,28.0,San Jose Sharks,SJS
+306,28,21,San Jose Sharks,Colorado Avalanche,2022021256495,2022021256,Stoppage,495,STOP,Goalie Stopped,2023-04-07T05:03:24Z,3,19:50,00:10,2,6,,,
+307,28,21,San Jose Sharks,Colorado Avalanche,2022021256755,2022021256,Faceoff,755,FACEOFF,Steven Lorentz faceoff won against Alex Newhook,2023-04-07T05:03:49Z,3,19:50,00:10,2,6,28.0,San Jose Sharks,SJS
+308,28,21,San Jose Sharks,Colorado Avalanche,2022021256631,2022021256,Missed Shot,631,MISSED_SHOT,Radim Simek Wide of Net Alexandar Georgiev,2023-04-07T05:03:52Z,3,19:54,00:06,2,6,28.0,San Jose Sharks,SJS
+309,28,21,San Jose Sharks,Colorado Avalanche,2022021256632,2022021256,Period End,632,PERIOD_END,End of 3rd Period,2023-04-07T05:03:58Z,3,20:00,00:00,2,6,,,
+310,28,21,San Jose Sharks,Colorado Avalanche,2022021256635,2022021256,Period Official,635,PERIOD_OFFICIAL,Period Official,2023-04-07T05:04:05Z,3,20:00,00:00,2,6,,,
+311,28,21,San Jose Sharks,Colorado Avalanche,2022021256636,2022021256,Game End,636,GAME_END,Game End,2023-04-07T05:04:07Z,3,20:00,00:00,2,6,,,
+312,28,21,San Jose Sharks,Colorado Avalanche,2022021256637,2022021256,Game Official,637,GAME_OFFICIAL,Game Official,2023-04-07T05:15:36Z,3,20:00,00:00,2,6,,,

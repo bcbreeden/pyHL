@@ -1,0 +1,345 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,5,29,Pittsburgh Penguins,Columbus Blue Jackets,20220204041,2022020404,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-12-06T23:15:18Z,1,00:00,20:00,0,0,,,
+1,5,29,Pittsburgh Penguins,Columbus Blue Jackets,20220204045,2022020404,Period Ready,5,PERIOD_READY,Period Ready,2022-12-07T00:05:46Z,1,00:00,20:00,0,0,,,
+2,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040451,2022020404,Period Start,51,PERIOD_START,Period Start,2022-12-07T00:08:09Z,1,00:00,20:00,0,0,,,
+3,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040452,2022020404,Faceoff,52,FACEOFF,Sidney Crosby faceoff won against Sean Kuraly,2022-12-07T00:08:09Z,1,00:00,20:00,0,0,5.0,Pittsburgh Penguins,PIT
+4,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404151,2022020404,Blocked Shot,151,BLOCKED_SHOT,Eric Robinson shot blocked shot by Jeff Petry,2022-12-07T00:08:16Z,1,00:07,19:53,0,0,5.0,Pittsburgh Penguins,PIT
+5,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040453,2022020404,Giveaway,53,GIVEAWAY,Giveaway by Marcus Pettersson,2022-12-07T00:08:25Z,1,00:16,19:44,0,0,5.0,Pittsburgh Penguins,PIT
+6,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040454,2022020404,Hit,54,HIT,Mathieu Olivier hit Marcus Pettersson,2022-12-07T00:08:35Z,1,00:26,19:34,0,0,29.0,Columbus Blue Jackets,CBJ
+7,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404152,2022020404,Goal,152,GOAL,"Johnny Gaudreau (9) Snap Shot, assists: Patrik Laine (3)",2022-12-07T00:09:10Z,1,01:00,19:00,0,1,29.0,Columbus Blue Jackets,CBJ
+8,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040455,2022020404,Faceoff,55,FACEOFF,Jeff Carter faceoff won against Jack Roslovic,2022-12-07T00:09:52Z,1,01:00,19:00,0,1,5.0,Pittsburgh Penguins,PIT
+9,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404153,2022020404,Shot,153,SHOT,Chad Ruhwedel Wrist Shot saved by Elvis Merzlikins,2022-12-07T00:10:15Z,1,01:23,18:37,0,1,5.0,Pittsburgh Penguins,PIT
+10,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404154,2022020404,Shot,154,SHOT,Brock McGinn Wrist Shot saved by Elvis Merzlikins,2022-12-07T00:10:21Z,1,01:29,18:31,0,1,5.0,Pittsburgh Penguins,PIT
+11,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404155,2022020404,Blocked Shot,155,BLOCKED_SHOT,Kirill Marchenko shot blocked shot by Jeff Petry,2022-12-07T00:11:11Z,1,02:19,17:41,0,1,5.0,Pittsburgh Penguins,PIT
+12,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040456,2022020404,Hit,56,HIT,Sean Kuraly hit Jan Rutta,2022-12-07T00:11:24Z,1,02:32,17:28,0,1,29.0,Columbus Blue Jackets,CBJ
+13,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040457,2022020404,Hit,57,HIT,Eric Robinson hit Marcus Pettersson,2022-12-07T00:11:31Z,1,02:38,17:22,0,1,29.0,Columbus Blue Jackets,CBJ
+14,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040458,2022020404,Stoppage,58,STOP,Icing,2022-12-07T00:11:31Z,1,02:38,17:22,0,1,,,
+15,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040459,2022020404,Faceoff,59,FACEOFF,Teddy Blueger faceoff won against Boone Jenner,2022-12-07T00:11:52Z,1,02:38,17:22,0,1,5.0,Pittsburgh Penguins,PIT
+16,5,29,Pittsburgh Penguins,Columbus Blue Jackets,20220204048,2022020404,Giveaway,8,GIVEAWAY,Giveaway by Patrik Laine,2022-12-07T00:12:04Z,1,02:50,17:10,0,1,29.0,Columbus Blue Jackets,CBJ
+17,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040460,2022020404,Hit,60,HIT,Josh Archibald hit Boone Jenner,2022-12-07T00:12:28Z,1,03:14,16:46,0,1,5.0,Pittsburgh Penguins,PIT
+18,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040461,2022020404,Hit,61,HIT,Josh Archibald hit Gavin Bayreuther,2022-12-07T00:12:38Z,1,03:24,16:36,0,1,5.0,Pittsburgh Penguins,PIT
+19,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040462,2022020404,Giveaway,62,GIVEAWAY,Giveaway by Evgeni Malkin,2022-12-07T00:13:07Z,1,03:53,16:07,0,1,5.0,Pittsburgh Penguins,PIT
+20,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404156,2022020404,Shot,156,SHOT,Eric Robinson Tip-In saved by Tristan Jarry,2022-12-07T00:13:20Z,1,04:06,15:54,0,1,29.0,Columbus Blue Jackets,CBJ
+21,5,29,Pittsburgh Penguins,Columbus Blue Jackets,20220204049,2022020404,Stoppage,9,STOP,Goalie Stopped,2022-12-07T00:13:21Z,1,04:07,15:53,0,1,,,
+22,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040463,2022020404,Faceoff,63,FACEOFF,Jeff Carter faceoff won against Gustav Nyquist,2022-12-07T00:14:04Z,1,04:07,15:53,0,1,5.0,Pittsburgh Penguins,PIT
+23,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040464,2022020404,Giveaway,64,GIVEAWAY,Giveaway by Brock McGinn,2022-12-07T00:14:15Z,1,04:18,15:42,0,1,5.0,Pittsburgh Penguins,PIT
+24,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040465,2022020404,Hit,65,HIT,Kasperi Kapanen hit Tim Berni,2022-12-07T00:14:35Z,1,04:38,15:22,0,1,5.0,Pittsburgh Penguins,PIT
+25,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040466,2022020404,Takeaway,66,TAKEAWAY,Takeaway by Jake Guentzel,2022-12-07T00:14:53Z,1,04:56,15:04,0,1,5.0,Pittsburgh Penguins,PIT
+26,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040467,2022020404,Hit,67,HIT,Jake Guentzel hit Vladislav Gavrikov,2022-12-07T00:15:34Z,1,05:37,14:23,0,1,5.0,Pittsburgh Penguins,PIT
+27,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404157,2022020404,Shot,157,SHOT,Boone Jenner Wrist Shot saved by Tristan Jarry,2022-12-07T00:15:36Z,1,05:39,14:21,0,1,29.0,Columbus Blue Jackets,CBJ
+28,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404158,2022020404,Blocked Shot,158,BLOCKED_SHOT,Gavin Bayreuther shot blocked shot by Jake Guentzel,2022-12-07T00:15:49Z,1,05:52,14:08,0,1,5.0,Pittsburgh Penguins,PIT
+29,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040410,2022020404,Blocked Shot,10,BLOCKED_SHOT,Patrik Laine shot blocked shot by Sidney Crosby,2022-12-07T00:15:54Z,1,05:57,14:03,0,1,5.0,Pittsburgh Penguins,PIT
+30,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404351,2022020404,Missed Shot,351,MISSED_SHOT,Patrik Laine Over Net Tristan Jarry,2022-12-07T00:15:55Z,1,05:58,14:02,0,1,29.0,Columbus Blue Jackets,CBJ
+31,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040468,2022020404,Hit,68,HIT,Rickard Rakell hit Gavin Bayreuther,2022-12-07T00:16:15Z,1,06:18,13:42,0,1,5.0,Pittsburgh Penguins,PIT
+32,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404159,2022020404,Missed Shot,159,MISSED_SHOT,Erik Gudbranson Wide of Net Tristan Jarry,2022-12-07T00:16:28Z,1,06:31,13:29,0,1,29.0,Columbus Blue Jackets,CBJ
+33,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040469,2022020404,Takeaway,69,TAKEAWAY,Takeaway by Tim Berni,2022-12-07T00:16:43Z,1,06:46,13:14,0,1,29.0,Columbus Blue Jackets,CBJ
+34,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040411,2022020404,Hit,11,HIT,Danton Heinen hit Tim Berni,2022-12-07T00:16:44Z,1,06:47,13:13,0,1,5.0,Pittsburgh Penguins,PIT
+35,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040470,2022020404,Hit,70,HIT,Jeff Petry hit Cole Sillinger,2022-12-07T00:16:51Z,1,06:54,13:06,0,1,5.0,Pittsburgh Penguins,PIT
+36,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404160,2022020404,Missed Shot,160,MISSED_SHOT,Yegor Chinakhov Wide of Net Tristan Jarry,2022-12-07T00:16:58Z,1,07:01,12:59,0,1,29.0,Columbus Blue Jackets,CBJ
+37,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040471,2022020404,Hit,71,HIT,Jason Zucker hit Gavin Bayreuther,2022-12-07T00:17:13Z,1,07:16,12:44,0,1,5.0,Pittsburgh Penguins,PIT
+38,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040472,2022020404,Hit,72,HIT,Mathieu Olivier hit Evgeni Malkin,2022-12-07T00:17:24Z,1,07:27,12:33,0,1,29.0,Columbus Blue Jackets,CBJ
+39,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040474,2022020404,Hit,74,HIT,Marcus Pettersson hit Sean Kuraly,2022-12-07T00:17:26Z,1,07:29,12:31,0,1,5.0,Pittsburgh Penguins,PIT
+40,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040473,2022020404,Hit,73,HIT,Jason Zucker hit Andrew Peeke,2022-12-07T00:17:33Z,1,07:36,12:24,0,1,5.0,Pittsburgh Penguins,PIT
+41,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404161,2022020404,Shot,161,SHOT,Gavin Bayreuther Snap Shot saved by Tristan Jarry,2022-12-07T00:17:33Z,1,07:36,12:24,0,1,29.0,Columbus Blue Jackets,CBJ
+42,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040412,2022020404,Stoppage,12,STOP,Goalie Stopped,2022-12-07T00:17:34Z,1,07:37,12:23,0,1,,,
+43,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040413,2022020404,Faceoff,13,FACEOFF,Boone Jenner faceoff won against Sidney Crosby,2022-12-07T00:19:49Z,1,07:37,12:23,0,1,29.0,Columbus Blue Jackets,CBJ
+44,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404162,2022020404,Missed Shot,162,MISSED_SHOT,Tim Berni Wide of Net Tristan Jarry,2022-12-07T00:19:56Z,1,07:44,12:16,0,1,29.0,Columbus Blue Jackets,CBJ
+45,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404163,2022020404,Missed Shot,163,MISSED_SHOT,Erik Gudbranson Wide of Net Tristan Jarry,2022-12-07T00:20:01Z,1,07:49,12:11,0,1,29.0,Columbus Blue Jackets,CBJ
+46,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040414,2022020404,Hit,14,HIT,Marcus Pettersson hit Patrik Laine,2022-12-07T00:20:03Z,1,07:51,12:09,0,1,5.0,Pittsburgh Penguins,PIT
+47,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404164,2022020404,Shot,164,SHOT,Tim Berni Wrist Shot saved by Tristan Jarry,2022-12-07T00:20:10Z,1,07:58,12:02,0,1,29.0,Columbus Blue Jackets,CBJ
+48,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040476,2022020404,Hit,76,HIT,Erik Gudbranson hit Jake Guentzel,2022-12-07T00:20:20Z,1,08:08,11:52,0,1,29.0,Columbus Blue Jackets,CBJ
+49,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404165,2022020404,Shot,165,SHOT,Jeff Petry Wrist Shot saved by Elvis Merzlikins,2022-12-07T00:20:36Z,1,08:24,11:36,0,1,5.0,Pittsburgh Penguins,PIT
+50,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040415,2022020404,Shot,15,SHOT,Rickard Rakell Wrist Shot saved by Elvis Merzlikins,2022-12-07T00:20:39Z,1,08:27,11:33,0,1,5.0,Pittsburgh Penguins,PIT
+51,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040477,2022020404,Stoppage,77,STOP,Puck in Crowd,2022-12-07T00:20:41Z,1,08:28,11:32,0,1,,,
+52,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040478,2022020404,Faceoff,78,FACEOFF,Jack Roslovic faceoff won against Jeff Carter,2022-12-07T00:21:12Z,1,08:28,11:32,0,1,29.0,Columbus Blue Jackets,CBJ
+53,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040479,2022020404,Stoppage,79,STOP,Icing,2022-12-07T00:21:16Z,1,08:33,11:27,0,1,,,
+54,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040480,2022020404,Faceoff,80,FACEOFF,Jeff Carter faceoff won against Jack Roslovic,2022-12-07T00:21:41Z,1,08:33,11:27,0,1,5.0,Pittsburgh Penguins,PIT
+55,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040481,2022020404,Hit,81,HIT,Brock McGinn hit Marcus Bjork,2022-12-07T00:21:51Z,1,08:43,11:17,0,1,5.0,Pittsburgh Penguins,PIT
+56,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040482,2022020404,Hit,82,HIT,Jack Roslovic hit Brian Dumoulin,2022-12-07T00:22:00Z,1,08:52,11:08,0,1,29.0,Columbus Blue Jackets,CBJ
+57,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040416,2022020404,Hit,16,HIT,Gavin Bayreuther hit Brock McGinn,2022-12-07T00:22:05Z,1,08:57,11:03,0,1,29.0,Columbus Blue Jackets,CBJ
+58,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040417,2022020404,Stoppage,17,STOP,Puck Frozen,2022-12-07T00:22:12Z,1,09:04,10:56,0,1,,,
+59,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404166,2022020404,Shot,166,SHOT,Gustav Nyquist Backhand saved by Tristan Jarry,2022-12-07T00:22:12Z,1,09:04,10:56,0,1,29.0,Columbus Blue Jackets,CBJ
+60,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404228,2022020404,Penalty,228,PENALTY,Brock McGinn Cross-checking against Gustav Nyquist,2022-12-07T00:22:12Z,1,09:04,10:56,0,1,5.0,Pittsburgh Penguins,PIT
+61,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040483,2022020404,Faceoff,83,FACEOFF,Boone Jenner faceoff won against Jeff Carter,2022-12-07T00:23:20Z,1,09:04,10:56,0,1,29.0,Columbus Blue Jackets,CBJ
+62,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404167,2022020404,Blocked Shot,167,BLOCKED_SHOT,Kirill Marchenko shot blocked shot by Jeff Carter,2022-12-07T00:23:29Z,1,09:13,10:47,0,1,5.0,Pittsburgh Penguins,PIT
+63,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404168,2022020404,Shot,168,SHOT,Patrik Laine Wrist Shot saved by Tristan Jarry,2022-12-07T00:23:58Z,1,09:42,10:18,0,1,29.0,Columbus Blue Jackets,CBJ
+64,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040418,2022020404,Stoppage,18,STOP,Puck in Benches,2022-12-07T00:24:04Z,1,09:49,10:11,0,1,,,
+65,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040484,2022020404,Faceoff,84,FACEOFF,Gustav Nyquist faceoff won against Jeff Carter,2022-12-07T00:24:48Z,1,09:49,10:11,0,1,29.0,Columbus Blue Jackets,CBJ
+66,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404352,2022020404,Blocked Shot,352,BLOCKED_SHOT,Vladislav Gavrikov shot blocked shot by Brian Dumoulin,2022-12-07T00:25:15Z,1,10:16,09:44,0,1,5.0,Pittsburgh Penguins,PIT
+67,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040419,2022020404,Shot,19,SHOT,Vladislav Gavrikov Snap Shot saved by Tristan Jarry,2022-12-07T00:25:55Z,1,10:56,09:04,0,1,29.0,Columbus Blue Jackets,CBJ
+68,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040420,2022020404,Stoppage,20,STOP,Goalie Stopped,2022-12-07T00:25:56Z,1,10:57,09:03,0,1,,,
+69,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040485,2022020404,Faceoff,85,FACEOFF,Jeff Carter faceoff won against Boone Jenner,2022-12-07T00:26:48Z,1,10:57,09:03,0,1,5.0,Pittsburgh Penguins,PIT
+70,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404171,2022020404,Blocked Shot,171,BLOCKED_SHOT,Johnny Gaudreau shot blocked shot by Jan Rutta,2022-12-07T00:27:07Z,1,11:16,08:44,0,1,5.0,Pittsburgh Penguins,PIT
+71,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040486,2022020404,Hit,86,HIT,Boone Jenner hit Jan Rutta,2022-12-07T00:27:21Z,1,11:30,08:30,0,1,29.0,Columbus Blue Jackets,CBJ
+72,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404172,2022020404,Blocked Shot,172,BLOCKED_SHOT,Boone Jenner shot blocked shot by Brian Dumoulin,2022-12-07T00:27:32Z,1,11:41,08:19,0,1,5.0,Pittsburgh Penguins,PIT
+73,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404353,2022020404,Missed Shot,353,MISSED_SHOT,Chad Ruhwedel Wide of Net Elvis Merzlikins,2022-12-07T00:27:42Z,1,11:51,08:09,0,1,5.0,Pittsburgh Penguins,PIT
+74,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040487,2022020404,Hit,87,HIT,Rickard Rakell hit Sean Kuraly,2022-12-07T00:28:20Z,1,12:29,07:31,0,1,5.0,Pittsburgh Penguins,PIT
+75,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404174,2022020404,Blocked Shot,174,BLOCKED_SHOT,Jake Guentzel shot blocked shot by Sean Kuraly,2022-12-07T00:28:46Z,1,12:55,07:05,0,1,29.0,Columbus Blue Jackets,CBJ
+76,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040421,2022020404,Stoppage,21,STOP,Icing,2022-12-07T00:28:52Z,1,13:01,06:59,0,1,,,
+77,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404306,2022020404,Penalty,306,PENALTY,Jake Guentzel High-sticking against Eric Robinson,2022-12-07T00:28:52Z,1,13:01,06:59,0,1,5.0,Pittsburgh Penguins,PIT
+78,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040488,2022020404,Faceoff,88,FACEOFF,Boone Jenner faceoff won against Jeff Carter,2022-12-07T00:31:23Z,1,13:01,06:59,0,1,29.0,Columbus Blue Jackets,CBJ
+79,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404175,2022020404,Blocked Shot,175,BLOCKED_SHOT,Patrik Laine shot blocked shot by Marcus Pettersson,2022-12-07T00:32:05Z,1,13:43,06:17,0,1,5.0,Pittsburgh Penguins,PIT
+80,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040490,2022020404,Hit,90,HIT,Brian Dumoulin hit Jack Roslovic,2022-12-07T00:32:59Z,1,14:37,05:23,0,1,5.0,Pittsburgh Penguins,PIT
+81,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040422,2022020404,Hit,22,HIT,Josh Archibald hit Jack Roslovic,2022-12-07T00:33:00Z,1,14:38,05:22,0,1,5.0,Pittsburgh Penguins,PIT
+82,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404176,2022020404,Blocked Shot,176,BLOCKED_SHOT,Vladislav Gavrikov shot blocked shot by Bryan Rust,2022-12-07T00:33:13Z,1,14:51,05:09,0,1,5.0,Pittsburgh Penguins,PIT
+83,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404177,2022020404,Blocked Shot,177,BLOCKED_SHOT,Kent Johnson shot blocked shot by Jan Rutta,2022-12-07T00:33:31Z,1,15:09,04:51,0,1,5.0,Pittsburgh Penguins,PIT
+84,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040423,2022020404,Hit,23,HIT,Jason Zucker hit Tim Berni,2022-12-07T00:34:09Z,1,15:47,04:13,0,1,5.0,Pittsburgh Penguins,PIT
+85,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404178,2022020404,Shot,178,SHOT,Pierre-Olivier Joseph Snap Shot saved by Elvis Merzlikins,2022-12-07T00:34:31Z,1,16:09,03:51,0,1,5.0,Pittsburgh Penguins,PIT
+86,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040492,2022020404,Giveaway,92,GIVEAWAY,Giveaway by Boone Jenner,2022-12-07T00:34:58Z,1,16:36,03:24,0,1,29.0,Columbus Blue Jackets,CBJ
+87,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404179,2022020404,Shot,179,SHOT,Boone Jenner Tip-In saved by Tristan Jarry,2022-12-07T00:35:05Z,1,16:43,03:17,0,1,29.0,Columbus Blue Jackets,CBJ
+88,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404180,2022020404,Shot,180,SHOT,Rickard Rakell Wrist Shot saved by Elvis Merzlikins,2022-12-07T00:35:15Z,1,16:53,03:07,0,1,5.0,Pittsburgh Penguins,PIT
+89,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040493,2022020404,Giveaway,93,GIVEAWAY,Giveaway by Brock McGinn,2022-12-07T00:35:48Z,1,17:26,02:34,0,1,5.0,Pittsburgh Penguins,PIT
+90,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404181,2022020404,Blocked Shot,181,BLOCKED_SHOT,Vladislav Gavrikov shot blocked shot by Jan Rutta,2022-12-07T00:35:55Z,1,17:33,02:27,0,1,5.0,Pittsburgh Penguins,PIT
+91,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040424,2022020404,Shot,24,SHOT,Yegor Chinakhov Wrist Shot saved by Tristan Jarry,2022-12-07T00:35:58Z,1,17:36,02:24,0,1,29.0,Columbus Blue Jackets,CBJ
+92,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040425,2022020404,Giveaway,25,GIVEAWAY,Giveaway by Elvis Merzlikins,2022-12-07T00:36:13Z,1,17:51,02:09,0,1,29.0,Columbus Blue Jackets,CBJ
+93,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404182,2022020404,Shot,182,SHOT,Jan Rutta Slap Shot saved by Elvis Merzlikins,2022-12-07T00:36:22Z,1,18:00,02:00,0,1,5.0,Pittsburgh Penguins,PIT
+94,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040426,2022020404,Stoppage,26,STOP,Goalie Stopped,2022-12-07T00:36:23Z,1,18:01,01:59,0,1,,,
+95,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040495,2022020404,Faceoff,95,FACEOFF,Evgeni Malkin faceoff won against Sean Kuraly,2022-12-07T00:38:49Z,1,18:01,01:59,0,1,5.0,Pittsburgh Penguins,PIT
+96,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040427,2022020404,Blocked Shot,27,BLOCKED_SHOT,Marcus Pettersson shot blocked shot by Sean Kuraly,2022-12-07T00:38:55Z,1,18:07,01:53,0,1,29.0,Columbus Blue Jackets,CBJ
+97,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404184,2022020404,Shot,184,SHOT,Jason Zucker Wrist Shot saved by Elvis Merzlikins,2022-12-07T00:38:56Z,1,18:08,01:52,0,1,5.0,Pittsburgh Penguins,PIT
+98,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404185,2022020404,Blocked Shot,185,BLOCKED_SHOT,Sean Kuraly shot blocked shot by Marcus Pettersson,2022-12-07T00:39:05Z,1,18:17,01:43,0,1,5.0,Pittsburgh Penguins,PIT
+99,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040496,2022020404,Stoppage,96,STOP,Puck in Crowd,2022-12-07T00:39:06Z,1,18:18,01:42,0,1,,,
+100,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040497,2022020404,Faceoff,97,FACEOFF,Boone Jenner faceoff won against Sidney Crosby,2022-12-07T00:39:49Z,1,18:18,01:42,0,1,29.0,Columbus Blue Jackets,CBJ
+101,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040498,2022020404,Hit,98,HIT,Brian Dumoulin hit Boone Jenner,2022-12-07T00:40:04Z,1,18:33,01:27,0,1,5.0,Pittsburgh Penguins,PIT
+102,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404187,2022020404,Blocked Shot,187,BLOCKED_SHOT,Marcus Bjork shot blocked shot by Brian Dumoulin,2022-12-07T00:40:38Z,1,19:07,00:53,0,1,5.0,Pittsburgh Penguins,PIT
+103,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404100,2022020404,Hit,100,HIT,Jeff Petry hit Kent Johnson,2022-12-07T00:41:20Z,1,19:49,00:11,0,1,5.0,Pittsburgh Penguins,PIT
+104,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404186,2022020404,Shot,186,SHOT,Kasperi Kapanen Wrist Shot saved by Elvis Merzlikins,2022-12-07T00:41:27Z,1,19:56,00:04,0,1,5.0,Pittsburgh Penguins,PIT
+105,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040428,2022020404,Period End,28,PERIOD_END,End of 1st Period,2022-12-07T00:41:31Z,1,20:00,00:00,0,1,,,
+106,5,29,Pittsburgh Penguins,Columbus Blue Jackets,202202040431,2022020404,Period Official,31,PERIOD_OFFICIAL,Period Official,2022-12-07T00:41:37Z,1,20:00,00:00,0,1,,,
+107,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404551,2022020404,Period Ready,551,PERIOD_READY,Period Ready,2022-12-07T00:59:35Z,2,00:00,20:00,0,1,,,
+108,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404251,2022020404,Period Start,251,PERIOD_START,Period Start,2022-12-07T01:00:11Z,2,00:00,20:00,0,1,,,
+109,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404252,2022020404,Faceoff,252,FACEOFF,Sean Kuraly faceoff won against Sidney Crosby,2022-12-07T01:00:11Z,2,00:00,20:00,0,1,29.0,Columbus Blue Jackets,CBJ
+110,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404552,2022020404,Stoppage,552,STOP,Icing,2022-12-07T01:00:22Z,2,00:10,19:50,0,1,,,
+111,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404253,2022020404,Faceoff,253,FACEOFF,Sean Kuraly faceoff won against Sidney Crosby,2022-12-07T01:00:51Z,2,00:10,19:50,0,1,29.0,Columbus Blue Jackets,CBJ
+112,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404188,2022020404,Shot,188,SHOT,Eric Robinson Snap Shot saved by Tristan Jarry,2022-12-07T01:01:23Z,2,00:42,19:18,0,1,29.0,Columbus Blue Jackets,CBJ
+113,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404254,2022020404,Hit,254,HIT,Sean Kuraly hit Marcus Pettersson,2022-12-07T01:01:27Z,2,00:46,19:14,0,1,29.0,Columbus Blue Jackets,CBJ
+114,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404189,2022020404,Shot,189,SHOT,Jan Rutta Wrist Shot saved by Elvis Merzlikins,2022-12-07T01:01:50Z,2,01:09,18:51,0,1,5.0,Pittsburgh Penguins,PIT
+115,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404190,2022020404,Missed Shot,190,MISSED_SHOT,Brian Dumoulin Wide of Net Elvis Merzlikins,2022-12-07T01:01:56Z,2,01:15,18:45,0,1,5.0,Pittsburgh Penguins,PIT
+116,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404553,2022020404,Goal,553,GOAL,"Bryan Rust (7) Wrist Shot, assists: Brian Dumoulin (6)",2022-12-07T01:01:56Z,2,01:15,18:45,1,1,5.0,Pittsburgh Penguins,PIT
+117,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404255,2022020404,Faceoff,255,FACEOFF,Boone Jenner faceoff won against Jeff Carter,2022-12-07T01:02:58Z,2,01:15,18:45,1,1,29.0,Columbus Blue Jackets,CBJ
+118,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404256,2022020404,Hit,256,HIT,Kasperi Kapanen hit Vladislav Gavrikov,2022-12-07T01:03:08Z,2,01:25,18:35,1,1,5.0,Pittsburgh Penguins,PIT
+119,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404191,2022020404,Missed Shot,191,MISSED_SHOT,Boone Jenner Wide of Net Tristan Jarry,2022-12-07T01:03:17Z,2,01:34,18:26,1,1,29.0,Columbus Blue Jackets,CBJ
+120,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404257,2022020404,Hit,257,HIT,Brock McGinn hit Andrew Peeke,2022-12-07T01:03:33Z,2,01:50,18:10,1,1,5.0,Pittsburgh Penguins,PIT
+121,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404192,2022020404,Shot,192,SHOT,Jeff Carter Snap Shot saved by Elvis Merzlikins,2022-12-07T01:03:36Z,2,01:53,18:07,1,1,5.0,Pittsburgh Penguins,PIT
+122,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404554,2022020404,Stoppage,554,STOP,Goalie Stopped,2022-12-07T01:03:39Z,2,01:55,18:05,1,1,,,
+123,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404258,2022020404,Faceoff,258,FACEOFF,Sidney Crosby faceoff won against Gustav Nyquist,2022-12-07T01:04:13Z,2,01:55,18:05,1,1,5.0,Pittsburgh Penguins,PIT
+124,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404193,2022020404,Shot,193,SHOT,Jake Guentzel Snap Shot saved by Elvis Merzlikins,2022-12-07T01:04:19Z,2,02:01,17:59,1,1,5.0,Pittsburgh Penguins,PIT
+125,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404194,2022020404,Goal,194,GOAL,"Sidney Crosby (14) Wrist Shot, assists: Jake Guentzel (13), Rickard Rakell (6)",2022-12-07T01:04:20Z,2,02:02,17:58,2,1,5.0,Pittsburgh Penguins,PIT
+126,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404259,2022020404,Faceoff,259,FACEOFF,Sidney Crosby faceoff won against Jack Roslovic,2022-12-07T01:04:59Z,2,02:02,17:58,2,1,5.0,Pittsburgh Penguins,PIT
+127,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404195,2022020404,Missed Shot,195,MISSED_SHOT,Gustav Nyquist Wide of Net Tristan Jarry,2022-12-07T01:05:17Z,2,02:20,17:40,2,1,29.0,Columbus Blue Jackets,CBJ
+128,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404260,2022020404,Hit,260,HIT,Marcus Bjork hit Teddy Blueger,2022-12-07T01:06:14Z,2,03:17,16:43,2,1,29.0,Columbus Blue Jackets,CBJ
+129,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404261,2022020404,Takeaway,261,TAKEAWAY,Takeaway by Vladislav Gavrikov,2022-12-07T01:06:47Z,2,03:50,16:10,2,1,29.0,Columbus Blue Jackets,CBJ
+130,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404555,2022020404,Stoppage,555,STOP,Hand Pass,2022-12-07T01:06:48Z,2,03:51,16:09,2,1,,,
+131,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404262,2022020404,Faceoff,262,FACEOFF,Sean Kuraly faceoff won against Evgeni Malkin,2022-12-07T01:07:19Z,2,03:51,16:09,2,1,29.0,Columbus Blue Jackets,CBJ
+132,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404556,2022020404,Stoppage,556,STOP,Icing,2022-12-07T01:07:25Z,2,03:58,16:02,2,1,,,
+133,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404264,2022020404,Faceoff,264,FACEOFF,Evgeni Malkin faceoff won against Sean Kuraly,2022-12-07T01:07:50Z,2,03:58,16:02,2,1,5.0,Pittsburgh Penguins,PIT
+134,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404196,2022020404,Shot,196,SHOT,Jason Zucker Wrist Shot saved by Elvis Merzlikins,2022-12-07T01:07:56Z,2,04:04,15:56,2,1,5.0,Pittsburgh Penguins,PIT
+135,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404197,2022020404,Shot,197,SHOT,Mathieu Olivier Wrist Shot saved by Tristan Jarry,2022-12-07T01:08:19Z,2,04:27,15:33,2,1,29.0,Columbus Blue Jackets,CBJ
+136,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404557,2022020404,Stoppage,557,STOP,Goalie Stopped,2022-12-07T01:08:21Z,2,04:28,15:32,2,1,,,
+137,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404265,2022020404,Faceoff,265,FACEOFF,Patrik Laine faceoff won against Jeff Carter,2022-12-07T01:09:07Z,2,04:28,15:32,2,1,29.0,Columbus Blue Jackets,CBJ
+138,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404198,2022020404,Blocked Shot,198,BLOCKED_SHOT,Tim Berni shot blocked shot by Jeff Carter,2022-12-07T01:09:14Z,2,04:35,15:25,2,1,5.0,Pittsburgh Penguins,PIT
+139,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404266,2022020404,Giveaway,266,GIVEAWAY,Giveaway by Brock McGinn,2022-12-07T01:09:27Z,2,04:48,15:12,2,1,5.0,Pittsburgh Penguins,PIT
+140,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404199,2022020404,Shot,199,SHOT,Patrik Laine Backhand saved by Tristan Jarry,2022-12-07T01:09:28Z,2,04:49,15:11,2,1,29.0,Columbus Blue Jackets,CBJ
+141,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404608,2022020404,Penalty,608,PENALTY,Jeff Carter Slashing against Patrik Laine,2022-12-07T01:09:28Z,2,04:50,15:10,2,1,5.0,Pittsburgh Penguins,PIT
+142,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404267,2022020404,Faceoff,267,FACEOFF,Boone Jenner faceoff won against Teddy Blueger,2022-12-07T01:10:12Z,2,04:50,15:10,2,1,29.0,Columbus Blue Jackets,CBJ
+143,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404268,2022020404,Takeaway,268,TAKEAWAY,Takeaway by Brian Dumoulin,2022-12-07T01:10:53Z,2,05:31,14:29,2,1,5.0,Pittsburgh Penguins,PIT
+144,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404200,2022020404,Missed Shot,200,MISSED_SHOT,Kirill Marchenko Wide of Net Tristan Jarry,2022-12-07T01:11:03Z,2,05:41,14:19,2,1,29.0,Columbus Blue Jackets,CBJ
+145,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404401,2022020404,Blocked Shot,401,BLOCKED_SHOT,Yegor Chinakhov shot blocked shot by Jeff Petry,2022-12-07T01:12:11Z,2,06:49,13:11,2,1,5.0,Pittsburgh Penguins,PIT
+146,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404558,2022020404,Blocked Shot,558,BLOCKED_SHOT,Gustav Nyquist shot blocked shot by Marcus Pettersson,2022-12-07T01:12:18Z,2,06:56,13:04,2,1,5.0,Pittsburgh Penguins,PIT
+147,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404402,2022020404,Shot,402,SHOT,Kent Johnson Snap Shot saved by Tristan Jarry,2022-12-07T01:12:21Z,2,06:59,13:01,2,1,29.0,Columbus Blue Jackets,CBJ
+148,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404559,2022020404,Blocked Shot,559,BLOCKED_SHOT,Erik Gudbranson shot blocked shot by Marcus Pettersson,2022-12-07T01:12:31Z,2,07:09,12:51,2,1,5.0,Pittsburgh Penguins,PIT
+149,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404270,2022020404,Hit,270,HIT,Mathieu Olivier hit Marcus Pettersson,2022-12-07T01:12:44Z,2,07:22,12:38,2,1,29.0,Columbus Blue Jackets,CBJ
+150,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404354,2022020404,Missed Shot,354,MISSED_SHOT,Eric Robinson Wide of Net Tristan Jarry,2022-12-07T01:12:47Z,2,07:25,12:35,2,1,29.0,Columbus Blue Jackets,CBJ
+151,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404560,2022020404,Shot,560,SHOT,Sean Kuraly Backhand saved by Tristan Jarry,2022-12-07T01:12:50Z,2,07:28,12:32,2,1,29.0,Columbus Blue Jackets,CBJ
+152,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404269,2022020404,Takeaway,269,TAKEAWAY,Takeaway by Sidney Crosby,2022-12-07T01:13:02Z,2,07:40,12:20,2,1,5.0,Pittsburgh Penguins,PIT
+153,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404561,2022020404,Hit,561,HIT,Sean Kuraly hit Sidney Crosby,2022-12-07T01:13:06Z,2,07:44,12:16,2,1,29.0,Columbus Blue Jackets,CBJ
+154,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404562,2022020404,Hit,562,HIT,Mathieu Olivier hit Pierre-Olivier Joseph,2022-12-07T01:13:28Z,2,08:06,11:54,2,1,29.0,Columbus Blue Jackets,CBJ
+155,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404272,2022020404,Hit,272,HIT,Boone Jenner hit Chad Ruhwedel,2022-12-07T01:13:56Z,2,08:34,11:26,2,1,29.0,Columbus Blue Jackets,CBJ
+156,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404404,2022020404,Missed Shot,404,MISSED_SHOT,Bryan Rust Wide of Net Elvis Merzlikins,2022-12-07T01:14:05Z,2,08:43,11:17,2,1,5.0,Pittsburgh Penguins,PIT
+157,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404563,2022020404,Missed Shot,563,MISSED_SHOT,Bryan Rust Wide of Net Elvis Merzlikins,2022-12-07T01:14:11Z,2,08:49,11:11,2,1,5.0,Pittsburgh Penguins,PIT
+158,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404405,2022020404,Shot,405,SHOT,Jan Rutta Wrist Shot saved by Elvis Merzlikins,2022-12-07T01:14:25Z,2,09:03,10:57,2,1,5.0,Pittsburgh Penguins,PIT
+159,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404564,2022020404,Stoppage,564,STOP,Puck in Netting,2022-12-07T01:14:26Z,2,09:04,10:56,2,1,,,
+160,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404565,2022020404,Faceoff,565,FACEOFF,Sean Kuraly faceoff won against Sidney Crosby,2022-12-07T01:16:50Z,2,09:04,10:56,2,1,29.0,Columbus Blue Jackets,CBJ
+161,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404406,2022020404,Shot,406,SHOT,Rickard Rakell Wrist Shot saved by Elvis Merzlikins,2022-12-07T01:16:53Z,2,09:07,10:53,2,1,5.0,Pittsburgh Penguins,PIT
+162,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404273,2022020404,Takeaway,273,TAKEAWAY,Takeaway by Pierre-Olivier Joseph,2022-12-07T01:17:01Z,2,09:15,10:45,2,1,5.0,Pittsburgh Penguins,PIT
+163,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404274,2022020404,Hit,274,HIT,Sean Kuraly hit Jake Guentzel,2022-12-07T01:17:10Z,2,09:24,10:36,2,1,29.0,Columbus Blue Jackets,CBJ
+164,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404642,2022020404,Penalty,642,PENALTY,Marcus Bjork Holding against Jake Guentzel,2022-12-07T01:17:14Z,2,09:29,10:31,2,1,29.0,Columbus Blue Jackets,CBJ
+165,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404276,2022020404,Faceoff,276,FACEOFF,Boone Jenner faceoff won against Sidney Crosby,2022-12-07T01:18:00Z,2,09:29,10:31,2,1,29.0,Columbus Blue Jackets,CBJ
+166,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404407,2022020404,Shot,407,SHOT,Vladislav Gavrikov Wrist Shot saved by Tristan Jarry,2022-12-07T01:18:07Z,2,09:36,10:24,2,1,29.0,Columbus Blue Jackets,CBJ
+167,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404408,2022020404,Shot,408,SHOT,Jake Guentzel Snap Shot saved by Elvis Merzlikins,2022-12-07T01:18:34Z,2,10:03,09:57,2,1,5.0,Pittsburgh Penguins,PIT
+168,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404409,2022020404,Goal,409,GOAL,"Sidney Crosby (15) Tip-In, assists: Jake Guentzel (14), Evgeni Malkin (17)",2022-12-07T01:18:45Z,2,10:14,09:46,3,1,5.0,Pittsburgh Penguins,PIT
+169,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404566,2022020404,Stoppage,566,STOP,Challenge Away: goalie interference,2022-12-07T01:18:45Z,2,10:14,09:46,3,1,,,
+170,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404567,2022020404,Official Challenge,567,CHALLENGE,Coach's Challenge,2022-12-07T01:18:45Z,2,10:14,09:46,3,1,29.0,Columbus Blue Jackets,CBJ
+171,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404649,2022020404,Penalty,649,PENALTY,Delaying Game - Unsucc. chlg served by Kirill Marchenko,2022-12-07T01:18:45Z,2,10:14,09:46,3,1,29.0,Columbus Blue Jackets,CBJ
+172,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404410,2022020404,Faceoff,410,FACEOFF,Sidney Crosby faceoff won against Sean Kuraly,2022-12-07T01:22:39Z,2,10:14,09:46,3,1,5.0,Pittsburgh Penguins,PIT
+173,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404411,2022020404,Shot,411,SHOT,Sean Kuraly Wrist Shot saved by Tristan Jarry,2022-12-07T01:23:08Z,2,10:43,09:17,3,1,29.0,Columbus Blue Jackets,CBJ
+174,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404278,2022020404,Stoppage,278,STOP,Goalie Stopped,2022-12-07T01:23:09Z,2,10:44,09:16,3,1,,,
+175,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404279,2022020404,Faceoff,279,FACEOFF,Sidney Crosby faceoff won against Jack Roslovic,2022-12-07T01:23:44Z,2,10:44,09:16,3,1,5.0,Pittsburgh Penguins,PIT
+176,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404569,2022020404,Shot,569,SHOT,Sidney Crosby Slap Shot saved by Elvis Merzlikins,2022-12-07T01:24:16Z,2,11:16,08:44,3,1,5.0,Pittsburgh Penguins,PIT
+177,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404413,2022020404,Shot,413,SHOT,Jeff Petry Slap Shot saved by Elvis Merzlikins,2022-12-07T01:24:29Z,2,11:29,08:31,3,1,5.0,Pittsburgh Penguins,PIT
+178,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404570,2022020404,Missed Shot,570,MISSED_SHOT,Evgeni Malkin Wide of Net Elvis Merzlikins,2022-12-07T01:24:33Z,2,11:33,08:27,3,1,5.0,Pittsburgh Penguins,PIT
+179,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404414,2022020404,Shot,414,SHOT,Jake Guentzel Slap Shot saved by Elvis Merzlikins,2022-12-07T01:24:53Z,2,11:53,08:07,3,1,5.0,Pittsburgh Penguins,PIT
+180,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404571,2022020404,Stoppage,571,STOP,Goalie Stopped,2022-12-07T01:24:56Z,2,11:56,08:04,3,1,,,
+181,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404280,2022020404,Faceoff,280,FACEOFF,Sean Kuraly faceoff won against Jeff Carter,2022-12-07T01:25:32Z,2,11:56,08:04,3,1,29.0,Columbus Blue Jackets,CBJ
+182,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404415,2022020404,Missed Shot,415,MISSED_SHOT,Marcus Pettersson Wide of Net Elvis Merzlikins,2022-12-07T01:26:05Z,2,12:29,07:31,3,1,5.0,Pittsburgh Penguins,PIT
+183,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404572,2022020404,Blocked Shot,572,BLOCKED_SHOT,Jeff Carter shot blocked shot by Kirill Marchenko,2022-12-07T01:26:12Z,2,12:36,07:24,3,1,29.0,Columbus Blue Jackets,CBJ
+184,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404416,2022020404,Shot,416,SHOT,Kirill Marchenko Wrist Shot saved by Tristan Jarry,2022-12-07T01:26:23Z,2,12:47,07:13,3,1,29.0,Columbus Blue Jackets,CBJ
+185,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404281,2022020404,Takeaway,281,TAKEAWAY,Takeaway by Gavin Bayreuther,2022-12-07T01:26:45Z,2,13:09,06:51,3,1,29.0,Columbus Blue Jackets,CBJ
+186,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404417,2022020404,Shot,417,SHOT,Gavin Bayreuther Snap Shot saved by Tristan Jarry,2022-12-07T01:27:04Z,2,13:28,06:32,3,1,29.0,Columbus Blue Jackets,CBJ
+187,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404282,2022020404,Stoppage,282,STOP,Icing,2022-12-07T01:27:24Z,2,13:48,06:12,3,1,,,
+188,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404283,2022020404,Faceoff,283,FACEOFF,Boone Jenner faceoff won against Jeff Carter,2022-12-07T01:27:48Z,2,13:48,06:12,3,1,29.0,Columbus Blue Jackets,CBJ
+189,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404284,2022020404,Hit,284,HIT,Boone Jenner hit Danton Heinen,2022-12-07T01:27:57Z,2,13:57,06:03,3,1,29.0,Columbus Blue Jackets,CBJ
+190,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404573,2022020404,Stoppage,573,STOP,Puck in Crowd,2022-12-07T01:27:59Z,2,13:58,06:02,3,1,,,
+191,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404286,2022020404,Faceoff,286,FACEOFF,Jack Roslovic faceoff won against Jeff Carter,2022-12-07T01:30:55Z,2,13:58,06:02,3,1,29.0,Columbus Blue Jackets,CBJ
+192,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404287,2022020404,Takeaway,287,TAKEAWAY,Takeaway by Teddy Blueger,2022-12-07T01:31:04Z,2,14:07,05:53,3,1,5.0,Pittsburgh Penguins,PIT
+193,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404419,2022020404,Shot,419,SHOT,Teddy Blueger Wrist Shot saved by Elvis Merzlikins,2022-12-07T01:31:09Z,2,14:13,05:47,3,1,5.0,Pittsburgh Penguins,PIT
+194,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404575,2022020404,Penalty,575,PENALTY,Tim Berni PS - Hooking on breakaway against Teddy Blueger,2022-12-07T01:31:09Z,2,14:13,05:47,3,1,29.0,Columbus Blue Jackets,CBJ
+195,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404288,2022020404,Faceoff,288,FACEOFF,Sidney Crosby faceoff won against Sean Kuraly,2022-12-07T01:32:20Z,2,14:13,05:47,3,1,5.0,Pittsburgh Penguins,PIT
+196,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404420,2022020404,Missed Shot,420,MISSED_SHOT,Jake Guentzel Wide of Net Elvis Merzlikins,2022-12-07T01:32:22Z,2,14:15,05:45,3,1,5.0,Pittsburgh Penguins,PIT
+197,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404289,2022020404,Takeaway,289,TAKEAWAY,Takeaway by Sean Kuraly,2022-12-07T01:32:33Z,2,14:26,05:34,3,1,29.0,Columbus Blue Jackets,CBJ
+198,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404357,2022020404,Stoppage,357,STOP,Offside,2022-12-07T01:32:40Z,2,14:33,05:27,3,1,,,
+199,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404290,2022020404,Faceoff,290,FACEOFF,Boone Jenner faceoff won against Sidney Crosby,2022-12-07T01:33:05Z,2,14:33,05:27,3,1,29.0,Columbus Blue Jackets,CBJ
+200,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404421,2022020404,Blocked Shot,421,BLOCKED_SHOT,Boone Jenner shot blocked shot by Jeff Petry,2022-12-07T01:33:14Z,2,14:42,05:18,3,1,5.0,Pittsburgh Penguins,PIT
+201,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404578,2022020404,Stoppage,578,STOP,Puck in Netting,2022-12-07T01:33:16Z,2,14:44,05:16,3,1,,,
+202,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404291,2022020404,Faceoff,291,FACEOFF,Boone Jenner faceoff won against Jeff Carter,2022-12-07T01:33:46Z,2,14:44,05:16,3,1,29.0,Columbus Blue Jackets,CBJ
+203,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404422,2022020404,Shot,422,SHOT,Marcus Bjork Wrist Shot saved by Tristan Jarry,2022-12-07T01:33:54Z,2,14:52,05:08,3,1,29.0,Columbus Blue Jackets,CBJ
+204,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404423,2022020404,Shot,423,SHOT,Jeff Carter Snap Shot saved by Elvis Merzlikins,2022-12-07T01:34:07Z,2,15:05,04:55,3,1,5.0,Pittsburgh Penguins,PIT
+205,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404292,2022020404,Stoppage,292,STOP,Goalie Stopped,2022-12-07T01:34:08Z,2,15:06,04:54,3,1,,,
+206,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404580,2022020404,Faceoff,580,FACEOFF,Evgeni Malkin faceoff won against Sean Kuraly,2022-12-07T01:36:24Z,2,15:06,04:54,3,1,5.0,Pittsburgh Penguins,PIT
+207,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404424,2022020404,Missed Shot,424,MISSED_SHOT,Jeff Petry Over Net Elvis Merzlikins,2022-12-07T01:36:29Z,2,15:11,04:49,3,1,5.0,Pittsburgh Penguins,PIT
+208,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404425,2022020404,Blocked Shot,425,BLOCKED_SHOT,Marcus Pettersson shot blocked shot by Sean Kuraly,2022-12-07T01:36:43Z,2,15:25,04:35,3,1,29.0,Columbus Blue Jackets,CBJ
+209,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404581,2022020404,Missed Shot,581,MISSED_SHOT,Evgeni Malkin Wide of Net Elvis Merzlikins,2022-12-07T01:36:45Z,2,15:27,04:33,3,1,5.0,Pittsburgh Penguins,PIT
+210,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404293,2022020404,Hit,293,HIT,Sean Kuraly hit Evgeni Malkin,2022-12-07T01:36:46Z,2,15:28,04:32,3,1,29.0,Columbus Blue Jackets,CBJ
+211,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404582,2022020404,Shot,582,SHOT,Evgeni Malkin Slap Shot saved by Elvis Merzlikins,2022-12-07T01:36:56Z,2,15:38,04:22,3,1,5.0,Pittsburgh Penguins,PIT
+212,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404585,2022020404,Stoppage,585,STOP,Goalie Stopped,2022-12-07T01:36:59Z,2,15:40,04:20,3,1,,,
+213,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404294,2022020404,Faceoff,294,FACEOFF,Sidney Crosby faceoff won against Boone Jenner,2022-12-07T01:37:30Z,2,15:40,04:20,3,1,5.0,Pittsburgh Penguins,PIT
+214,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404426,2022020404,Shot,426,SHOT,Jake Guentzel Deflected saved by Elvis Merzlikins,2022-12-07T01:37:44Z,2,15:54,04:06,3,1,5.0,Pittsburgh Penguins,PIT
+215,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404295,2022020404,Stoppage,295,STOP,Goalie Stopped,2022-12-07T01:37:45Z,2,15:55,04:05,3,1,,,
+216,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404296,2022020404,Faceoff,296,FACEOFF,Sidney Crosby faceoff won against Boone Jenner,2022-12-07T01:38:07Z,2,15:55,04:05,3,1,5.0,Pittsburgh Penguins,PIT
+217,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404427,2022020404,Missed Shot,427,MISSED_SHOT,Jake Guentzel Wide of Net Elvis Merzlikins,2022-12-07T01:38:10Z,2,15:58,04:02,3,1,5.0,Pittsburgh Penguins,PIT
+218,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404428,2022020404,Missed Shot,428,MISSED_SHOT,Jan Rutta Wide of Net Elvis Merzlikins,2022-12-07T01:38:20Z,2,16:08,03:52,3,1,5.0,Pittsburgh Penguins,PIT
+219,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404297,2022020404,Hit,297,HIT,Boone Jenner hit Sidney Crosby,2022-12-07T01:38:41Z,2,16:29,03:31,3,1,29.0,Columbus Blue Jackets,CBJ
+220,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404429,2022020404,Missed Shot,429,MISSED_SHOT,Erik Gudbranson Over Net Tristan Jarry,2022-12-07T01:39:35Z,2,17:23,02:37,3,1,29.0,Columbus Blue Jackets,CBJ
+221,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404584,2022020404,Stoppage,584,STOP,Puck in Netting,2022-12-07T01:39:57Z,2,17:45,02:15,3,1,,,
+222,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404299,2022020404,Faceoff,299,FACEOFF,Jack Roslovic faceoff won against Jeff Carter,2022-12-07T01:40:26Z,2,17:45,02:15,3,1,29.0,Columbus Blue Jackets,CBJ
+223,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404300,2022020404,Takeaway,300,TAKEAWAY,Takeaway by Kent Johnson,2022-12-07T01:40:33Z,2,17:52,02:08,3,1,29.0,Columbus Blue Jackets,CBJ
+224,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404586,2022020404,Hit,586,HIT,Jack Roslovic hit Pierre-Olivier Joseph,2022-12-07T01:40:40Z,2,17:59,02:01,3,1,29.0,Columbus Blue Jackets,CBJ
+225,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404701,2022020404,Hit,701,HIT,Gavin Bayreuther hit Brock McGinn,2022-12-07T01:40:57Z,2,18:16,01:44,3,1,29.0,Columbus Blue Jackets,CBJ
+226,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404587,2022020404,Hit,587,HIT,Kasperi Kapanen hit Andrew Peeke,2022-12-07T01:41:04Z,2,18:23,01:37,3,1,5.0,Pittsburgh Penguins,PIT
+227,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404702,2022020404,Stoppage,702,STOP,Icing,2022-12-07T01:41:08Z,2,18:28,01:32,3,1,,,
+228,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404703,2022020404,Faceoff,703,FACEOFF,Evgeni Malkin faceoff won against Jack Roslovic,2022-12-07T01:42:21Z,2,18:28,01:32,3,1,5.0,Pittsburgh Penguins,PIT
+229,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404430,2022020404,Shot,430,SHOT,Jason Zucker Snap Shot saved by Elvis Merzlikins,2022-12-07T01:42:26Z,2,18:33,01:27,3,1,5.0,Pittsburgh Penguins,PIT
+230,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404588,2022020404,Stoppage,588,STOP,Icing,2022-12-07T01:42:45Z,2,18:51,01:09,3,1,,,
+231,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404704,2022020404,Faceoff,704,FACEOFF,Evgeni Malkin faceoff won against Jack Roslovic,2022-12-07T01:43:09Z,2,18:51,01:09,3,1,5.0,Pittsburgh Penguins,PIT
+232,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404705,2022020404,Hit,705,HIT,Andrew Peeke hit Jason Zucker,2022-12-07T01:43:20Z,2,19:02,00:58,3,1,29.0,Columbus Blue Jackets,CBJ
+233,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404589,2022020404,Hit,589,HIT,Andrew Peeke hit Bryan Rust,2022-12-07T01:43:24Z,2,19:06,00:54,3,1,29.0,Columbus Blue Jackets,CBJ
+234,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404706,2022020404,Giveaway,706,GIVEAWAY,Giveaway by Evgeni Malkin,2022-12-07T01:43:42Z,2,19:24,00:36,3,1,5.0,Pittsburgh Penguins,PIT
+235,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404431,2022020404,Shot,431,SHOT,Boone Jenner Snap Shot saved by Tristan Jarry,2022-12-07T01:43:44Z,2,19:26,00:34,3,1,29.0,Columbus Blue Jackets,CBJ
+236,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404432,2022020404,Shot,432,SHOT,Johnny Gaudreau Wrist Shot saved by Tristan Jarry,2022-12-07T01:43:53Z,2,19:35,00:25,3,1,29.0,Columbus Blue Jackets,CBJ
+237,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404433,2022020404,Shot,433,SHOT,Patrik Laine Slap Shot saved by Tristan Jarry,2022-12-07T01:44:04Z,2,19:46,00:14,3,1,29.0,Columbus Blue Jackets,CBJ
+238,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404590,2022020404,Stoppage,590,STOP,Icing,2022-12-07T01:44:12Z,2,19:54,00:06,3,1,,,
+239,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404707,2022020404,Faceoff,707,FACEOFF,Evgeni Malkin faceoff won against Boone Jenner,2022-12-07T01:44:56Z,2,19:54,00:06,3,1,5.0,Pittsburgh Penguins,PIT
+240,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404591,2022020404,Period End,591,PERIOD_END,End of 2nd Period,2022-12-07T01:45:02Z,2,20:00,00:00,3,1,,,
+241,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404594,2022020404,Period Official,594,PERIOD_OFFICIAL,Period Official,2022-12-07T01:45:06Z,2,20:00,00:00,3,1,,,
+242,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404595,2022020404,Period Ready,595,PERIOD_READY,Period Ready,2022-12-07T02:03:17Z,3,00:00,20:00,3,1,,,
+243,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404708,2022020404,Period Start,708,PERIOD_START,Period Start,2022-12-07T02:03:56Z,3,00:00,20:00,3,1,,,
+244,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404709,2022020404,Faceoff,709,FACEOFF,Sidney Crosby faceoff won against Boone Jenner,2022-12-07T02:03:56Z,3,00:00,20:00,3,1,5.0,Pittsburgh Penguins,PIT
+245,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404434,2022020404,Missed Shot,434,MISSED_SHOT,Sidney Crosby Wide of Net Elvis Merzlikins,2022-12-07T02:04:05Z,3,00:09,19:51,3,1,5.0,Pittsburgh Penguins,PIT
+246,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404596,2022020404,Shot,596,SHOT,Jake Guentzel Backhand saved by Elvis Merzlikins,2022-12-07T02:04:09Z,3,00:13,19:47,3,1,5.0,Pittsburgh Penguins,PIT
+247,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404435,2022020404,Missed Shot,435,MISSED_SHOT,Jake Guentzel Wide of Net Elvis Merzlikins,2022-12-07T02:04:25Z,3,00:29,19:31,3,1,5.0,Pittsburgh Penguins,PIT
+248,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404598,2022020404,Stoppage,598,STOP,Puck in Crowd,2022-12-07T02:04:36Z,3,00:41,19:19,3,1,,,
+249,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404804,2022020404,Penalty,804,PENALTY,Tim Berni Hooking against Rickard Rakell,2022-12-07T02:04:36Z,3,00:41,19:19,3,1,29.0,Columbus Blue Jackets,CBJ
+250,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404710,2022020404,Faceoff,710,FACEOFF,Sean Kuraly faceoff won against Sidney Crosby,2022-12-07T02:05:11Z,3,00:41,19:19,3,1,29.0,Columbus Blue Jackets,CBJ
+251,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404711,2022020404,Hit,711,HIT,Andrew Peeke hit Jake Guentzel,2022-12-07T02:06:05Z,3,01:35,18:25,3,1,29.0,Columbus Blue Jackets,CBJ
+252,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404436,2022020404,Shot,436,SHOT,Jeff Petry Slap Shot saved by Elvis Merzlikins,2022-12-07T02:06:16Z,3,01:46,18:14,3,1,5.0,Pittsburgh Penguins,PIT
+253,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404600,2022020404,Blocked Shot,600,BLOCKED_SHOT,Sidney Crosby shot blocked shot by Vladislav Gavrikov,2022-12-07T02:06:20Z,3,01:50,18:10,3,1,29.0,Columbus Blue Jackets,CBJ
+254,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404751,2022020404,Blocked Shot,751,BLOCKED_SHOT,Jeff Petry shot blocked shot by Vladislav Gavrikov,2022-12-07T02:06:25Z,3,01:55,18:05,3,1,29.0,Columbus Blue Jackets,CBJ
+255,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404752,2022020404,Blocked Shot,752,BLOCKED_SHOT,Sidney Crosby shot blocked shot by Vladislav Gavrikov,2022-12-07T02:06:27Z,3,01:57,18:03,3,1,29.0,Columbus Blue Jackets,CBJ
+256,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404438,2022020404,Shot,438,SHOT,Sidney Crosby Wrist Shot saved by Elvis Merzlikins,2022-12-07T02:06:42Z,3,02:10,17:50,3,1,5.0,Pittsburgh Penguins,PIT
+257,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404712,2022020404,Stoppage,712,STOP,Goalie Stopped,2022-12-07T02:06:42Z,3,02:11,17:49,3,1,,,
+258,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404713,2022020404,Faceoff,713,FACEOFF,Gustav Nyquist faceoff won against Jeff Carter,2022-12-07T02:07:51Z,3,02:11,17:49,3,1,29.0,Columbus Blue Jackets,CBJ
+259,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404439,2022020404,Shot,439,SHOT,Jeff Carter Wrist Shot saved by Elvis Merzlikins,2022-12-07T02:08:17Z,3,02:37,17:23,3,1,5.0,Pittsburgh Penguins,PIT
+260,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404714,2022020404,Giveaway,714,GIVEAWAY,Giveaway by Gustav Nyquist,2022-12-07T02:08:24Z,3,02:44,17:16,3,1,29.0,Columbus Blue Jackets,CBJ
+261,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404440,2022020404,Blocked Shot,440,BLOCKED_SHOT,Mathieu Olivier shot blocked shot by Jan Rutta,2022-12-07T02:08:43Z,3,03:03,16:57,3,1,5.0,Pittsburgh Penguins,PIT
+262,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404441,2022020404,Shot,441,SHOT,Josh Archibald Wrist Shot saved by Elvis Merzlikins,2022-12-07T02:08:57Z,3,03:17,16:43,3,1,5.0,Pittsburgh Penguins,PIT
+263,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404715,2022020404,Stoppage,715,STOP,Goalie Stopped,2022-12-07T02:08:58Z,3,03:18,16:42,3,1,,,
+264,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404716,2022020404,Faceoff,716,FACEOFF,Evgeni Malkin faceoff won against Sean Kuraly,2022-12-07T02:09:29Z,3,03:18,16:42,3,1,5.0,Pittsburgh Penguins,PIT
+265,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404442,2022020404,Shot,442,SHOT,Sean Kuraly Wrist Shot saved by Tristan Jarry,2022-12-07T02:09:53Z,3,03:42,16:18,3,1,29.0,Columbus Blue Jackets,CBJ
+266,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404753,2022020404,Stoppage,753,STOP,Goalie Stopped,2022-12-07T02:09:55Z,3,03:44,16:16,3,1,,,
+267,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404717,2022020404,Faceoff,717,FACEOFF,Patrik Laine faceoff won against Danton Heinen,2022-12-07T02:10:43Z,3,03:44,16:16,3,1,29.0,Columbus Blue Jackets,CBJ
+268,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404359,2022020404,Blocked Shot,359,BLOCKED_SHOT,Marcus Pettersson shot blocked shot by Marcus Bjork,2022-12-07T02:10:46Z,3,03:47,16:13,3,1,29.0,Columbus Blue Jackets,CBJ
+269,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404718,2022020404,Hit,718,HIT,Teddy Blueger hit Marcus Bjork,2022-12-07T02:10:59Z,3,04:00,16:00,3,1,5.0,Pittsburgh Penguins,PIT
+270,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404827,2022020404,Penalty,827,PENALTY,Josh Archibald Tripping against Boone Jenner,2022-12-07T02:11:38Z,3,04:39,15:21,3,1,5.0,Pittsburgh Penguins,PIT
+271,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404719,2022020404,Faceoff,719,FACEOFF,Jeff Carter faceoff won against Patrik Laine,2022-12-07T02:12:19Z,3,04:39,15:21,3,1,5.0,Pittsburgh Penguins,PIT
+272,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404720,2022020404,Hit,720,HIT,Kirill Marchenko hit Brian Dumoulin,2022-12-07T02:12:41Z,3,05:01,14:59,3,1,29.0,Columbus Blue Jackets,CBJ
+273,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404721,2022020404,Takeaway,721,TAKEAWAY,Takeaway by Brock McGinn,2022-12-07T02:13:16Z,3,05:36,14:24,3,1,5.0,Pittsburgh Penguins,PIT
+274,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404443,2022020404,Missed Shot,443,MISSED_SHOT,Yegor Chinakhov Wide of Net Tristan Jarry,2022-12-07T02:13:57Z,3,06:17,13:43,3,1,29.0,Columbus Blue Jackets,CBJ
+275,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404444,2022020404,Blocked Shot,444,BLOCKED_SHOT,Yegor Chinakhov shot blocked shot by Jeff Petry,2022-12-07T02:14:18Z,3,06:38,13:22,3,1,5.0,Pittsburgh Penguins,PIT
+276,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404722,2022020404,Hit,722,HIT,Jeff Petry hit Kent Johnson,2022-12-07T02:14:26Z,3,06:46,13:14,3,1,5.0,Pittsburgh Penguins,PIT
+277,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404755,2022020404,Stoppage,755,STOP,Icing,2022-12-07T02:15:00Z,3,07:19,12:41,3,1,,,
+278,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404723,2022020404,Faceoff,723,FACEOFF,Sean Kuraly faceoff won against Sidney Crosby,2022-12-07T02:15:24Z,3,07:19,12:41,3,1,29.0,Columbus Blue Jackets,CBJ
+279,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404445,2022020404,Shot,445,SHOT,Evgeni Malkin Slap Shot saved by Elvis Merzlikins,2022-12-07T02:15:44Z,3,07:39,12:21,3,1,5.0,Pittsburgh Penguins,PIT
+280,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404756,2022020404,Stoppage,756,STOP,Goalie Stopped,2022-12-07T02:15:45Z,3,07:40,12:20,3,1,,,
+281,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404724,2022020404,Faceoff,724,FACEOFF,Boone Jenner faceoff won against Evgeni Malkin,2022-12-07T02:17:55Z,3,07:40,12:20,3,1,29.0,Columbus Blue Jackets,CBJ
+282,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404725,2022020404,Hit,725,HIT,Jan Rutta hit Patrik Laine,2022-12-07T02:18:07Z,3,07:52,12:08,3,1,5.0,Pittsburgh Penguins,PIT
+283,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404726,2022020404,Takeaway,726,TAKEAWAY,Takeaway by Evgeni Malkin,2022-12-07T02:18:25Z,3,08:10,11:50,3,1,5.0,Pittsburgh Penguins,PIT
+284,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404446,2022020404,Shot,446,SHOT,Erik Gudbranson Snap Shot saved by Tristan Jarry,2022-12-07T02:18:32Z,3,08:17,11:43,3,1,29.0,Columbus Blue Jackets,CBJ
+285,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404360,2022020404,Blocked Shot,360,BLOCKED_SHOT,Patrik Laine shot blocked shot by Jason Zucker,2022-12-07T02:18:37Z,3,08:22,11:38,3,1,5.0,Pittsburgh Penguins,PIT
+286,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404447,2022020404,Shot,447,SHOT,Patrik Laine Between Legs saved by Tristan Jarry,2022-12-07T02:18:46Z,3,08:31,11:29,3,1,29.0,Columbus Blue Jackets,CBJ
+287,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404757,2022020404,Stoppage,757,STOP,Goalie Stopped,2022-12-07T02:18:46Z,3,08:32,11:28,3,1,,,
+288,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404727,2022020404,Faceoff,727,FACEOFF,Jeff Carter faceoff won against Cole Sillinger,2022-12-07T02:19:24Z,3,08:32,11:28,3,1,5.0,Pittsburgh Penguins,PIT
+289,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404728,2022020404,Hit,728,HIT,Kasperi Kapanen hit Marcus Bjork,2022-12-07T02:19:58Z,3,09:06,10:54,3,1,5.0,Pittsburgh Penguins,PIT
+290,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404448,2022020404,Shot,448,SHOT,Cole Sillinger Wrist Shot saved by Tristan Jarry,2022-12-07T02:20:16Z,3,09:24,10:36,3,1,29.0,Columbus Blue Jackets,CBJ
+291,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404758,2022020404,Blocked Shot,758,BLOCKED_SHOT,Yegor Chinakhov shot blocked shot by Jeff Carter,2022-12-07T02:20:19Z,3,09:27,10:33,3,1,5.0,Pittsburgh Penguins,PIT
+292,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404449,2022020404,Shot,449,SHOT,Gustav Nyquist Wrist Shot saved by Tristan Jarry,2022-12-07T02:20:26Z,3,09:34,10:26,3,1,29.0,Columbus Blue Jackets,CBJ
+293,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404851,2022020404,Blocked Shot,851,BLOCKED_SHOT,Yegor Chinakhov shot blocked shot by Kasperi Kapanen,2022-12-07T02:20:27Z,3,09:35,10:25,3,1,5.0,Pittsburgh Penguins,PIT
+294,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404450,2022020404,Shot,450,SHOT,Kirill Marchenko Tip-In saved by Tristan Jarry,2022-12-07T02:21:13Z,3,10:21,09:39,3,1,29.0,Columbus Blue Jackets,CBJ
+295,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404759,2022020404,Stoppage,759,STOP,Puck in Benches,2022-12-07T02:21:27Z,3,10:35,09:25,3,1,,,
+296,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404729,2022020404,Faceoff,729,FACEOFF,Sean Kuraly faceoff won against Sidney Crosby,2022-12-07T02:23:41Z,3,10:35,09:25,3,1,29.0,Columbus Blue Jackets,CBJ
+297,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404852,2022020404,Missed Shot,852,MISSED_SHOT,Sidney Crosby Wide of Net Elvis Merzlikins,2022-12-07T02:24:01Z,3,10:55,09:05,3,1,5.0,Pittsburgh Penguins,PIT
+298,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404730,2022020404,Hit,730,HIT,Sidney Crosby hit Erik Gudbranson,2022-12-07T02:24:07Z,3,11:01,08:59,3,1,5.0,Pittsburgh Penguins,PIT
+299,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404760,2022020404,Stoppage,760,STOP,Offside,2022-12-07T02:24:09Z,3,11:03,08:57,3,1,,,
+300,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404731,2022020404,Faceoff,731,FACEOFF,Teddy Blueger faceoff won against Boone Jenner,2022-12-07T02:24:34Z,3,11:03,08:57,3,1,5.0,Pittsburgh Penguins,PIT
+301,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404732,2022020404,Hit,732,HIT,Boone Jenner hit Jan Rutta,2022-12-07T02:25:22Z,3,11:51,08:09,3,1,29.0,Columbus Blue Jackets,CBJ
+302,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404733,2022020404,Hit,733,HIT,Teddy Blueger hit Gavin Bayreuther,2022-12-07T02:25:28Z,3,11:57,08:03,3,1,5.0,Pittsburgh Penguins,PIT
+303,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404761,2022020404,Hit,761,HIT,Jeff Petry hit Cole Sillinger,2022-12-07T02:26:10Z,3,12:39,07:21,3,1,5.0,Pittsburgh Penguins,PIT
+304,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404734,2022020404,Hit,734,HIT,Kasperi Kapanen hit Erik Gudbranson,2022-12-07T02:26:30Z,3,12:59,07:01,3,1,5.0,Pittsburgh Penguins,PIT
+305,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404762,2022020404,Takeaway,762,TAKEAWAY,Takeaway by Evgeni Malkin,2022-12-07T02:26:33Z,3,13:02,06:58,3,1,5.0,Pittsburgh Penguins,PIT
+306,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404764,2022020404,Stoppage,764,STOP,Offside,2022-12-07T02:26:40Z,3,13:09,06:51,3,1,,,
+307,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404735,2022020404,Faceoff,735,FACEOFF,Kent Johnson faceoff won against Sidney Crosby,2022-12-07T02:27:13Z,3,13:09,06:51,3,1,29.0,Columbus Blue Jackets,CBJ
+308,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404736,2022020404,Hit,736,HIT,Kirill Marchenko hit Brian Dumoulin,2022-12-07T02:27:33Z,3,13:29,06:31,3,1,29.0,Columbus Blue Jackets,CBJ
+309,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404765,2022020404,Stoppage,765,STOP,Referee or Linesman,2022-12-07T02:27:35Z,3,13:31,06:29,3,1,,,
+310,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404737,2022020404,Faceoff,737,FACEOFF,Jeff Carter faceoff won against Kent Johnson,2022-12-07T02:28:47Z,3,13:31,06:29,3,1,5.0,Pittsburgh Penguins,PIT
+311,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404738,2022020404,Takeaway,738,TAKEAWAY,Takeaway by Kasperi Kapanen,2022-12-07T02:28:58Z,3,13:42,06:18,3,1,5.0,Pittsburgh Penguins,PIT
+312,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404853,2022020404,Missed Shot,853,MISSED_SHOT,Brock McGinn Wide of Net Elvis Merzlikins,2022-12-07T02:29:17Z,3,14:01,05:59,3,1,5.0,Pittsburgh Penguins,PIT
+313,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404766,2022020404,Blocked Shot,766,BLOCKED_SHOT,Jeff Carter shot blocked shot by Kent Johnson,2022-12-07T02:29:18Z,3,14:02,05:58,3,1,29.0,Columbus Blue Jackets,CBJ
+314,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404854,2022020404,Blocked Shot,854,BLOCKED_SHOT,Andrew Peeke shot blocked shot by Josh Archibald,2022-12-07T02:29:52Z,3,14:36,05:24,3,1,5.0,Pittsburgh Penguins,PIT
+315,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404739,2022020404,Hit,739,HIT,Gavin Bayreuther hit Josh Archibald,2022-12-07T02:30:00Z,3,14:44,05:16,3,1,29.0,Columbus Blue Jackets,CBJ
+316,5,29,Pittsburgh Penguins,Columbus Blue Jackets,20220204041004,2022020404,Penalty,1004,PENALTY,Gavin Bayreuther High-sticking against Josh Archibald,2022-12-07T02:30:00Z,3,14:45,05:15,3,1,29.0,Columbus Blue Jackets,CBJ
+317,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404740,2022020404,Faceoff,740,FACEOFF,Sean Kuraly faceoff won against Sidney Crosby,2022-12-07T02:32:21Z,3,14:45,05:15,3,1,29.0,Columbus Blue Jackets,CBJ
+318,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404855,2022020404,Shot,855,SHOT,Vladislav Gavrikov Wrist Shot saved by Tristan Jarry,2022-12-07T02:32:57Z,3,15:21,04:39,3,1,29.0,Columbus Blue Jackets,CBJ
+319,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404768,2022020404,Stoppage,768,STOP,Goalie Stopped,2022-12-07T02:33:02Z,3,15:26,04:34,3,1,,,
+320,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404741,2022020404,Faceoff,741,FACEOFF,Sidney Crosby faceoff won against Cole Sillinger,2022-12-07T02:33:29Z,3,15:26,04:34,3,1,5.0,Pittsburgh Penguins,PIT
+321,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404742,2022020404,Giveaway,742,GIVEAWAY,Giveaway by Evgeni Malkin,2022-12-07T02:33:45Z,3,15:42,04:18,3,1,5.0,Pittsburgh Penguins,PIT
+322,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404769,2022020404,Giveaway,769,GIVEAWAY,Giveaway by Evgeni Malkin,2022-12-07T02:34:19Z,3,16:16,03:44,3,1,5.0,Pittsburgh Penguins,PIT
+323,5,29,Pittsburgh Penguins,Columbus Blue Jackets,20220204041016,2022020404,Penalty,1016,PENALTY,Jeff Petry Tripping against Eric Robinson,2022-12-07T02:34:23Z,3,16:20,03:40,3,1,5.0,Pittsburgh Penguins,PIT
+324,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404743,2022020404,Faceoff,743,FACEOFF,Boone Jenner faceoff won against Teddy Blueger,2022-12-07T02:35:28Z,3,16:20,03:40,3,1,29.0,Columbus Blue Jackets,CBJ
+325,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404856,2022020404,Missed Shot,856,MISSED_SHOT,Bryan Rust Wide of Net Elvis Merzlikins,2022-12-07T02:35:39Z,3,16:31,03:29,3,1,5.0,Pittsburgh Penguins,PIT
+326,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404857,2022020404,Goal,857,GOAL,"Teddy Blueger (1) Wrist Shot, assists: Bryan Rust (9)",2022-12-07T02:35:41Z,3,16:33,03:27,4,1,5.0,Pittsburgh Penguins,PIT
+327,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404744,2022020404,Faceoff,744,FACEOFF,Teddy Blueger faceoff won against Boone Jenner,2022-12-07T02:36:46Z,3,16:33,03:27,4,1,5.0,Pittsburgh Penguins,PIT
+328,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404858,2022020404,Shot,858,SHOT,Boone Jenner Tip-In saved by Tristan Jarry,2022-12-07T02:37:25Z,3,17:12,02:48,4,1,29.0,Columbus Blue Jackets,CBJ
+329,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404859,2022020404,Shot,859,SHOT,Gustav Nyquist Wrist Shot saved by Tristan Jarry,2022-12-07T02:37:59Z,3,17:46,02:14,4,1,29.0,Columbus Blue Jackets,CBJ
+330,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404860,2022020404,Shot,860,SHOT,Patrik Laine Wrist Shot saved by Tristan Jarry,2022-12-07T02:38:28Z,3,18:15,01:45,4,1,29.0,Columbus Blue Jackets,CBJ
+331,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404861,2022020404,Shot,861,SHOT,Kent Johnson Backhand saved by Tristan Jarry,2022-12-07T02:38:40Z,3,18:27,01:33,4,1,29.0,Columbus Blue Jackets,CBJ
+332,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404770,2022020404,Shot,770,SHOT,Patrik Laine Slap Shot saved by Tristan Jarry,2022-12-07T02:38:46Z,3,18:33,01:27,4,1,29.0,Columbus Blue Jackets,CBJ
+333,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404862,2022020404,Missed Shot,862,MISSED_SHOT,Patrik Laine Wide of Net Tristan Jarry,2022-12-07T02:39:03Z,3,18:50,01:10,4,1,29.0,Columbus Blue Jackets,CBJ
+334,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404771,2022020404,Shot,771,SHOT,Gustav Nyquist Backhand saved by Tristan Jarry,2022-12-07T02:39:06Z,3,18:53,01:07,4,1,29.0,Columbus Blue Jackets,CBJ
+335,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404863,2022020404,Shot,863,SHOT,Patrik Laine Slap Shot saved by Tristan Jarry,2022-12-07T02:39:10Z,3,18:57,01:03,4,1,29.0,Columbus Blue Jackets,CBJ
+336,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404772,2022020404,Shot,772,SHOT,Patrik Laine Wrist Shot saved by Tristan Jarry,2022-12-07T02:39:13Z,3,19:00,01:00,4,1,29.0,Columbus Blue Jackets,CBJ
+337,5,29,Pittsburgh Penguins,Columbus Blue Jackets,20220204041031,2022020404,Penalty,1031,PENALTY,Gustav Nyquist Interference - Goalkeeper against Tristan Jarry,2022-12-07T02:39:26Z,3,19:12,00:48,4,1,29.0,Columbus Blue Jackets,CBJ
+338,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404746,2022020404,Faceoff,746,FACEOFF,Sean Kuraly faceoff won against Jeff Carter,2022-12-07T02:40:41Z,3,19:12,00:48,4,1,29.0,Columbus Blue Jackets,CBJ
+339,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404864,2022020404,Shot,864,SHOT,Vladislav Gavrikov Wrist Shot saved by Tristan Jarry,2022-12-07T02:41:21Z,3,19:52,00:08,4,1,29.0,Columbus Blue Jackets,CBJ
+340,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404773,2022020404,Period End,773,PERIOD_END,End of 3rd Period,2022-12-07T02:41:29Z,3,20:00,00:00,4,1,,,
+341,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404776,2022020404,Period Official,776,PERIOD_OFFICIAL,Period Official,2022-12-07T02:41:34Z,3,20:00,00:00,4,1,,,
+342,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404777,2022020404,Game End,777,GAME_END,Game End,2022-12-07T02:41:38Z,3,20:00,00:00,4,1,,,
+343,5,29,Pittsburgh Penguins,Columbus Blue Jackets,2022020404778,2022020404,Game Official,778,GAME_OFFICIAL,Game Official,2022-12-07T02:50:29Z,3,20:00,00:00,4,1,,,

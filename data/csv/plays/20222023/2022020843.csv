@@ -1,0 +1,341 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,30,1,Minnesota Wild,New Jersey Devils,20220208431,2022020843,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-02-12T00:21:05Z,1,00:00,20:00,0,0,,,
+1,30,1,Minnesota Wild,New Jersey Devils,20220208435,2022020843,Period Ready,5,PERIOD_READY,Period Ready,2023-02-12T01:12:58Z,1,00:00,20:00,0,0,,,
+2,30,1,Minnesota Wild,New Jersey Devils,20220208438,2022020843,Period Start,8,PERIOD_START,Period Start,2023-02-12T01:13:09Z,1,00:00,20:00,0,0,,,
+3,30,1,Minnesota Wild,New Jersey Devils,20220208439,2022020843,Faceoff,9,FACEOFF,Joel Eriksson Ek faceoff won against Erik Haula,2023-02-12T01:13:09Z,1,00:00,20:00,0,0,30.0,Minnesota Wild,MIN
+4,30,1,Minnesota Wild,New Jersey Devils,202202084310,2022020843,Missed Shot,10,MISSED_SHOT,Matt Dumba Wide of Net Vitek Vanecek,2023-02-12T01:13:41Z,1,00:32,19:28,0,0,30.0,Minnesota Wild,MIN
+5,30,1,Minnesota Wild,New Jersey Devils,202202084311,2022020843,Shot,11,SHOT,Matt Boldy Tip-In saved by Vitek Vanecek,2023-02-12T01:13:51Z,1,00:42,19:18,0,0,30.0,Minnesota Wild,MIN
+6,30,1,Minnesota Wild,New Jersey Devils,2022020843101,2022020843,Stoppage,101,STOP,Goalie Stopped,2023-02-12T01:13:53Z,1,00:44,19:16,0,0,,,
+7,30,1,Minnesota Wild,New Jersey Devils,202202084312,2022020843,Faceoff,12,FACEOFF,Frederick Gaudreau faceoff won against Ondrej Palat,2023-02-12T01:14:42Z,1,00:44,19:16,0,0,30.0,Minnesota Wild,MIN
+8,30,1,Minnesota Wild,New Jersey Devils,202202084313,2022020843,Missed Shot,13,MISSED_SHOT,Jordan Greenway Wide of Net Vitek Vanecek,2023-02-12T01:14:46Z,1,00:48,19:12,0,0,30.0,Minnesota Wild,MIN
+9,30,1,Minnesota Wild,New Jersey Devils,2022020843152,2022020843,Hit,152,HIT,Marcus Foligno hit Damon Severson,2023-02-12T01:14:56Z,1,00:58,19:02,0,0,30.0,Minnesota Wild,MIN
+10,30,1,Minnesota Wild,New Jersey Devils,2022020843102,2022020843,Stoppage,102,STOP,Icing,2023-02-12T01:15:08Z,1,01:10,18:50,0,0,,,
+11,30,1,Minnesota Wild,New Jersey Devils,202202084314,2022020843,Faceoff,14,FACEOFF,Ryan Hartman faceoff won against Nico Hischier,2023-02-12T01:15:29Z,1,01:10,18:50,0,0,30.0,Minnesota Wild,MIN
+12,30,1,Minnesota Wild,New Jersey Devils,2022020843103,2022020843,Shot,103,SHOT,Jesper Boqvist Wrist Shot saved by Filip Gustavsson,2023-02-12T01:15:58Z,1,01:39,18:21,0,0,1.0,New Jersey Devils,NJD
+13,30,1,Minnesota Wild,New Jersey Devils,2022020843104,2022020843,Stoppage,104,STOP,Goalie Stopped,2023-02-12T01:15:59Z,1,01:41,18:19,0,0,,,
+14,30,1,Minnesota Wild,New Jersey Devils,202202084315,2022020843,Faceoff,15,FACEOFF,Ryan Hartman faceoff won against Dawson Mercer,2023-02-12T01:16:22Z,1,01:41,18:19,0,0,30.0,Minnesota Wild,MIN
+15,30,1,Minnesota Wild,New Jersey Devils,2022020843153,2022020843,Takeaway,153,TAKEAWAY,Takeaway by Ryan Hartman,2023-02-12T01:16:55Z,1,02:14,17:46,0,0,30.0,Minnesota Wild,MIN
+16,30,1,Minnesota Wild,New Jersey Devils,2022020843154,2022020843,Hit,154,HIT,Jonas Brodin hit Jesper Boqvist,2023-02-12T01:17:18Z,1,02:37,17:23,0,0,30.0,Minnesota Wild,MIN
+17,30,1,Minnesota Wild,New Jersey Devils,2022020843155,2022020843,Hit,155,HIT,Mason Shaw hit Miles Wood,2023-02-12T01:17:40Z,1,02:59,17:01,0,0,30.0,Minnesota Wild,MIN
+18,30,1,Minnesota Wild,New Jersey Devils,2022020843156,2022020843,Hit,156,HIT,Nathan Bastian hit Connor Dewar,2023-02-12T01:17:43Z,1,03:02,16:58,0,0,1.0,New Jersey Devils,NJD
+19,30,1,Minnesota Wild,New Jersey Devils,2022020843157,2022020843,Hit,157,HIT,Brandon Duhaime hit Nathan Bastian,2023-02-12T01:17:59Z,1,03:18,16:42,0,0,30.0,Minnesota Wild,MIN
+20,30,1,Minnesota Wild,New Jersey Devils,202202084316,2022020843,Shot,16,SHOT,Yegor Sharangovich Backhand saved by Filip Gustavsson,2023-02-12T01:18:35Z,1,03:54,16:06,0,0,1.0,New Jersey Devils,NJD
+21,30,1,Minnesota Wild,New Jersey Devils,202202084317,2022020843,Blocked Shot,17,BLOCKED_SHOT,Erik Haula shot blocked shot by Jordan Greenway,2023-02-12T01:18:46Z,1,04:05,15:55,0,0,30.0,Minnesota Wild,MIN
+22,30,1,Minnesota Wild,New Jersey Devils,2022020843105,2022020843,Stoppage,105,STOP,Offside,2023-02-12T01:18:48Z,1,04:07,15:53,0,0,,,
+23,30,1,Minnesota Wild,New Jersey Devils,202202084318,2022020843,Faceoff,18,FACEOFF,Nico Hischier faceoff won against Jordan Greenway,2023-02-12T01:19:17Z,1,04:07,15:53,0,0,1.0,New Jersey Devils,NJD
+24,30,1,Minnesota Wild,New Jersey Devils,2022020843107,2022020843,Shot,107,SHOT,Ondrej Palat Slap Shot saved by Filip Gustavsson,2023-02-12T01:19:34Z,1,04:24,15:36,0,0,1.0,New Jersey Devils,NJD
+25,30,1,Minnesota Wild,New Jersey Devils,2022020843352,2022020843,Shot,352,SHOT,Ondrej Palat Wrist Shot saved by Filip Gustavsson,2023-02-12T01:19:34Z,1,04:24,15:36,0,0,1.0,New Jersey Devils,NJD
+26,30,1,Minnesota Wild,New Jersey Devils,2022020843106,2022020843,Shot,106,SHOT,Jesper Bratt Wrist Shot saved by Filip Gustavsson,2023-02-12T01:19:37Z,1,04:27,15:33,0,0,1.0,New Jersey Devils,NJD
+27,30,1,Minnesota Wild,New Jersey Devils,2022020843108,2022020843,Stoppage,108,STOP,Goalie Stopped,2023-02-12T01:19:45Z,1,04:35,15:25,0,0,,,
+28,30,1,Minnesota Wild,New Jersey Devils,202202084319,2022020843,Faceoff,19,FACEOFF,Michael McLeod faceoff won against Ryan Hartman,2023-02-12T01:20:24Z,1,04:35,15:25,0,0,1.0,New Jersey Devils,NJD
+29,30,1,Minnesota Wild,New Jersey Devils,2022020843109,2022020843,Shot,109,SHOT,John Marino Wrist Shot saved by Filip Gustavsson,2023-02-12T01:20:28Z,1,04:39,15:21,0,0,1.0,New Jersey Devils,NJD
+30,30,1,Minnesota Wild,New Jersey Devils,2022020843110,2022020843,Stoppage,110,STOP,Goalie Stopped,2023-02-12T01:20:29Z,1,04:40,15:20,0,0,,,
+31,30,1,Minnesota Wild,New Jersey Devils,202202084320,2022020843,Faceoff,20,FACEOFF,Ryan Hartman faceoff won against Michael McLeod,2023-02-12T01:20:49Z,1,04:40,15:20,0,0,30.0,Minnesota Wild,MIN
+32,30,1,Minnesota Wild,New Jersey Devils,2022020843158,2022020843,Takeaway,158,TAKEAWAY,Takeaway by Kirill Kaprizov,2023-02-12T01:21:04Z,1,04:55,15:05,0,0,30.0,Minnesota Wild,MIN
+33,30,1,Minnesota Wild,New Jersey Devils,202202084383,2022020843,Penalty,83,PENALTY,Miles Wood Holding against Jonas Brodin,2023-02-12T01:21:13Z,1,05:04,14:56,0,0,1.0,New Jersey Devils,NJD
+34,30,1,Minnesota Wild,New Jersey Devils,202202084321,2022020843,Faceoff,21,FACEOFF,Dawson Mercer faceoff won against Joel Eriksson Ek,2023-02-12T01:21:59Z,1,05:04,14:56,0,0,1.0,New Jersey Devils,NJD
+35,30,1,Minnesota Wild,New Jersey Devils,202202084322,2022020843,Goal,22,GOAL,"Joel Eriksson Ek (20) Tip-In, assists: Calen Addison (23), Mats Zuccarello (32)",2023-02-12T01:22:47Z,1,05:52,14:08,1,0,30.0,Minnesota Wild,MIN
+36,30,1,Minnesota Wild,New Jersey Devils,202202084323,2022020843,Faceoff,23,FACEOFF,Nico Hischier faceoff won against Frederick Gaudreau,2023-02-12T01:23:38Z,1,05:52,14:08,1,0,1.0,New Jersey Devils,NJD
+37,30,1,Minnesota Wild,New Jersey Devils,2022020843111,2022020843,Stoppage,111,STOP,Offside,2023-02-12T01:23:52Z,1,06:06,13:54,1,0,,,
+38,30,1,Minnesota Wild,New Jersey Devils,202202084324,2022020843,Faceoff,24,FACEOFF,Frederick Gaudreau faceoff won against Nico Hischier,2023-02-12T01:26:14Z,1,06:06,13:54,1,0,30.0,Minnesota Wild,MIN
+39,30,1,Minnesota Wild,New Jersey Devils,202202084325,2022020843,Shot,25,SHOT,Jared Spurgeon Slap Shot saved by Vitek Vanecek,2023-02-12T01:26:38Z,1,06:30,13:30,1,0,30.0,Minnesota Wild,MIN
+40,30,1,Minnesota Wild,New Jersey Devils,2022020843112,2022020843,Stoppage,112,STOP,Goalie Stopped,2023-02-12T01:26:40Z,1,06:31,13:29,1,0,,,
+41,30,1,Minnesota Wild,New Jersey Devils,202202084326,2022020843,Faceoff,26,FACEOFF,Mats Zuccarello faceoff won against Jesper Boqvist,2023-02-12T01:27:20Z,1,06:31,13:29,1,0,30.0,Minnesota Wild,MIN
+42,30,1,Minnesota Wild,New Jersey Devils,2022020843113,2022020843,Blocked Shot,113,BLOCKED_SHOT,Ryan Hartman shot blocked shot by Erik Haula,2023-02-12T01:28:16Z,1,07:27,12:33,1,0,1.0,New Jersey Devils,NJD
+43,30,1,Minnesota Wild,New Jersey Devils,2022020843159,2022020843,Hit,159,HIT,Erik Haula hit Mason Shaw,2023-02-12T01:28:19Z,1,07:30,12:30,1,0,1.0,New Jersey Devils,NJD
+44,30,1,Minnesota Wild,New Jersey Devils,202202084327,2022020843,Shot,27,SHOT,Ryan Hartman Slap Shot saved by Vitek Vanecek,2023-02-12T01:28:20Z,1,07:31,12:29,1,0,30.0,Minnesota Wild,MIN
+45,30,1,Minnesota Wild,New Jersey Devils,2022020843115,2022020843,Blocked Shot,115,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by Erik Haula,2023-02-12T01:28:37Z,1,07:48,12:12,1,0,1.0,New Jersey Devils,NJD
+46,30,1,Minnesota Wild,New Jersey Devils,2022020843160,2022020843,Giveaway,160,GIVEAWAY,Giveaway by John Marino,2023-02-12T01:28:42Z,1,07:53,12:07,1,0,1.0,New Jersey Devils,NJD
+47,30,1,Minnesota Wild,New Jersey Devils,2022020843117,2022020843,Takeaway,117,TAKEAWAY,Takeaway by Jonas Brodin,2023-02-12T01:28:54Z,1,08:05,11:55,1,0,30.0,Minnesota Wild,MIN
+48,30,1,Minnesota Wild,New Jersey Devils,202202084328,2022020843,Shot,28,SHOT,Jonas Brodin Wrist Shot saved by Vitek Vanecek,2023-02-12T01:28:57Z,1,08:08,11:52,1,0,30.0,Minnesota Wild,MIN
+49,30,1,Minnesota Wild,New Jersey Devils,2022020843118,2022020843,Stoppage,118,STOP,Goalie Stopped,2023-02-12T01:28:59Z,1,08:10,11:50,1,0,,,
+50,30,1,Minnesota Wild,New Jersey Devils,202202084329,2022020843,Faceoff,29,FACEOFF,Joel Eriksson Ek faceoff won against Nathan Bastian,2023-02-12T01:29:39Z,1,08:10,11:50,1,0,30.0,Minnesota Wild,MIN
+51,30,1,Minnesota Wild,New Jersey Devils,202202084330,2022020843,Shot,30,SHOT,Joel Eriksson Ek Wrist Shot saved by Vitek Vanecek,2023-02-12T01:29:46Z,1,08:17,11:43,1,0,30.0,Minnesota Wild,MIN
+52,30,1,Minnesota Wild,New Jersey Devils,2022020843119,2022020843,Blocked Shot,119,BLOCKED_SHOT,Jake Middleton shot blocked shot by John Marino,2023-02-12T01:29:51Z,1,08:22,11:38,1,0,1.0,New Jersey Devils,NJD
+53,30,1,Minnesota Wild,New Jersey Devils,2022020843161,2022020843,Hit,161,HIT,Miles Wood hit Jake Middleton,2023-02-12T01:30:11Z,1,08:42,11:18,1,0,1.0,New Jersey Devils,NJD
+54,30,1,Minnesota Wild,New Jersey Devils,2022020843120,2022020843,Stoppage,120,STOP,Puck in Crowd,2023-02-12T01:30:16Z,1,08:48,11:12,1,0,,,
+55,30,1,Minnesota Wild,New Jersey Devils,202202084331,2022020843,Faceoff,31,FACEOFF,Frederick Gaudreau faceoff won against Nico Hischier,2023-02-12T01:30:45Z,1,08:48,11:12,1,0,30.0,Minnesota Wild,MIN
+56,30,1,Minnesota Wild,New Jersey Devils,2022020843162,2022020843,Hit,162,HIT,Dougie Hamilton hit Frederick Gaudreau,2023-02-12T01:31:15Z,1,09:18,10:42,1,0,1.0,New Jersey Devils,NJD
+57,30,1,Minnesota Wild,New Jersey Devils,2022020843351,2022020843,Hit,351,HIT,Jordan Greenway hit Jesper Bratt,2023-02-12T01:31:21Z,1,09:24,10:36,1,0,30.0,Minnesota Wild,MIN
+58,30,1,Minnesota Wild,New Jersey Devils,2022020843121,2022020843,Stoppage,121,STOP,Icing,2023-02-12T01:31:25Z,1,09:28,10:32,1,0,,,
+59,30,1,Minnesota Wild,New Jersey Devils,202202084332,2022020843,Faceoff,32,FACEOFF,Nico Hischier faceoff won against Ryan Hartman,2023-02-12T01:31:55Z,1,09:28,10:32,1,0,1.0,New Jersey Devils,NJD
+60,30,1,Minnesota Wild,New Jersey Devils,2022020843122,2022020843,Blocked Shot,122,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by Ryan Graves,2023-02-12T01:32:12Z,1,09:45,10:15,1,0,1.0,New Jersey Devils,NJD
+61,30,1,Minnesota Wild,New Jersey Devils,2022020843123,2022020843,Blocked Shot,123,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by Ryan Graves,2023-02-12T01:32:18Z,1,09:51,10:09,1,0,1.0,New Jersey Devils,NJD
+62,30,1,Minnesota Wild,New Jersey Devils,2022020843165,2022020843,Takeaway,165,TAKEAWAY,Takeaway by Calen Addison,2023-02-12T01:32:34Z,1,10:07,09:53,1,0,30.0,Minnesota Wild,MIN
+63,30,1,Minnesota Wild,New Jersey Devils,2022020843124,2022020843,Blocked Shot,124,BLOCKED_SHOT,Mason Shaw shot blocked shot by Jesper Boqvist,2023-02-12T01:33:08Z,1,10:41,09:19,1,0,1.0,New Jersey Devils,NJD
+64,30,1,Minnesota Wild,New Jersey Devils,2022020843166,2022020843,Hit,166,HIT,Fabian Zetterlund hit Matt Boldy,2023-02-12T01:34:25Z,1,11:58,08:02,1,0,1.0,New Jersey Devils,NJD
+65,30,1,Minnesota Wild,New Jersey Devils,2022020843125,2022020843,Stoppage,125,STOP,Puck in Netting,2023-02-12T01:34:27Z,1,12:00,08:00,1,0,,,
+66,30,1,Minnesota Wild,New Jersey Devils,202202084333,2022020843,Faceoff,33,FACEOFF,Michael McLeod faceoff won against Ryan Hartman,2023-02-12T01:36:48Z,1,12:00,08:00,1,0,1.0,New Jersey Devils,NJD
+67,30,1,Minnesota Wild,New Jersey Devils,2022020843167,2022020843,Hit,167,HIT,Jon Merrill hit Nathan Bastian,2023-02-12T01:36:57Z,1,12:09,07:51,1,0,30.0,Minnesota Wild,MIN
+68,30,1,Minnesota Wild,New Jersey Devils,202202084334,2022020843,Blocked Shot,34,BLOCKED_SHOT,Ryan Graves shot blocked shot by Mats Zuccarello,2023-02-12T01:37:10Z,1,12:22,07:38,1,0,30.0,Minnesota Wild,MIN
+69,30,1,Minnesota Wild,New Jersey Devils,2022020843168,2022020843,Hit,168,HIT,Miles Wood hit Jon Merrill,2023-02-12T01:37:14Z,1,12:26,07:34,1,0,1.0,New Jersey Devils,NJD
+70,30,1,Minnesota Wild,New Jersey Devils,2022020843169,2022020843,Hit,169,HIT,Marcus Foligno hit Jonas Siegenthaler,2023-02-12T01:38:13Z,1,13:25,06:35,1,0,30.0,Minnesota Wild,MIN
+71,30,1,Minnesota Wild,New Jersey Devils,2022020843170,2022020843,Hit,170,HIT,Jake Middleton hit Nico Hischier,2023-02-12T01:38:24Z,1,13:36,06:24,1,0,30.0,Minnesota Wild,MIN
+72,30,1,Minnesota Wild,New Jersey Devils,2022020843171,2022020843,Hit,171,HIT,Jesper Boqvist hit Joel Eriksson Ek,2023-02-12T01:38:38Z,1,13:50,06:10,1,0,1.0,New Jersey Devils,NJD
+73,30,1,Minnesota Wild,New Jersey Devils,2022020843172,2022020843,Hit,172,HIT,Tomas Tatar hit Connor Dewar,2023-02-12T01:39:06Z,1,14:18,05:42,1,0,1.0,New Jersey Devils,NJD
+74,30,1,Minnesota Wild,New Jersey Devils,202202084335,2022020843,Shot,35,SHOT,Joel Eriksson Ek Snap Shot saved by Vitek Vanecek,2023-02-12T01:39:07Z,1,14:19,05:41,1,0,30.0,Minnesota Wild,MIN
+75,30,1,Minnesota Wild,New Jersey Devils,2022020843353,2022020843,Hit,353,HIT,Matt Boldy hit Erik Haula,2023-02-12T01:39:17Z,1,14:29,05:31,1,0,30.0,Minnesota Wild,MIN
+76,30,1,Minnesota Wild,New Jersey Devils,2022020843173,2022020843,Hit,173,HIT,Connor Dewar hit Erik Haula,2023-02-12T01:39:38Z,1,14:50,05:10,1,0,30.0,Minnesota Wild,MIN
+77,30,1,Minnesota Wild,New Jersey Devils,2022020843129,2022020843,Stoppage,129,STOP,TV timeout,2023-02-12T01:40:32Z,1,15:44,04:16,1,0,,,
+78,30,1,Minnesota Wild,New Jersey Devils,2022020843410,2022020843,Penalty,410,PENALTY,Kirill Kaprizov Tripping against Michael McLeod,2023-02-12T01:40:32Z,1,15:44,04:16,1,0,30.0,Minnesota Wild,MIN
+79,30,1,Minnesota Wild,New Jersey Devils,202202084336,2022020843,Faceoff,36,FACEOFF,Nico Hischier faceoff won against Frederick Gaudreau,2023-02-12T01:42:44Z,1,15:44,04:16,1,0,1.0,New Jersey Devils,NJD
+80,30,1,Minnesota Wild,New Jersey Devils,2022020843130,2022020843,Shot,130,SHOT,Dougie Hamilton Snap Shot saved by Filip Gustavsson,2023-02-12T01:43:17Z,1,16:17,03:43,1,0,1.0,New Jersey Devils,NJD
+81,30,1,Minnesota Wild,New Jersey Devils,2022020843131,2022020843,Stoppage,131,STOP,Goalie Stopped,2023-02-12T01:43:18Z,1,16:18,03:42,1,0,,,
+82,30,1,Minnesota Wild,New Jersey Devils,202202084337,2022020843,Faceoff,37,FACEOFF,Nico Hischier faceoff won against Connor Dewar,2023-02-12T01:43:51Z,1,16:18,03:42,1,0,1.0,New Jersey Devils,NJD
+83,30,1,Minnesota Wild,New Jersey Devils,2022020843174,2022020843,Hit,174,HIT,Ondrej Palat hit Mason Shaw,2023-02-12T01:44:23Z,1,16:50,03:10,1,0,1.0,New Jersey Devils,NJD
+84,30,1,Minnesota Wild,New Jersey Devils,2022020843132,2022020843,Shot,132,SHOT,Miles Wood Snap Shot saved by Filip Gustavsson,2023-02-12T01:44:46Z,1,17:13,02:47,1,0,1.0,New Jersey Devils,NJD
+85,30,1,Minnesota Wild,New Jersey Devils,2022020843133,2022020843,Stoppage,133,STOP,Icing,2023-02-12T01:45:52Z,1,18:19,01:41,1,0,,,
+86,30,1,Minnesota Wild,New Jersey Devils,202202084338,2022020843,Faceoff,38,FACEOFF,Matt Boldy faceoff won against Michael McLeod,2023-02-12T01:46:22Z,1,18:19,01:41,1,0,30.0,Minnesota Wild,MIN
+87,30,1,Minnesota Wild,New Jersey Devils,2022020843175,2022020843,Giveaway,175,GIVEAWAY,Giveaway by Filip Gustavsson,2023-02-12T01:46:40Z,1,18:37,01:23,1,0,30.0,Minnesota Wild,MIN
+88,30,1,Minnesota Wild,New Jersey Devils,2022020843176,2022020843,Hit,176,HIT,Mats Zuccarello hit Michael McLeod,2023-02-12T01:46:49Z,1,18:46,01:14,1,0,30.0,Minnesota Wild,MIN
+89,30,1,Minnesota Wild,New Jersey Devils,2022020843134,2022020843,Missed Shot,134,MISSED_SHOT,John Marino Wide of Net Filip Gustavsson,2023-02-12T01:47:03Z,1,19:00,01:00,1,0,1.0,New Jersey Devils,NJD
+90,30,1,Minnesota Wild,New Jersey Devils,2022020843135,2022020843,Stoppage,135,STOP,Offside,2023-02-12T01:47:46Z,1,19:41,00:19,1,0,,,
+91,30,1,Minnesota Wild,New Jersey Devils,202202084339,2022020843,Faceoff,39,FACEOFF,Nico Hischier faceoff won against Sam Steel,2023-02-12T01:48:14Z,1,19:41,00:19,1,0,1.0,New Jersey Devils,NJD
+92,30,1,Minnesota Wild,New Jersey Devils,2022020843178,2022020843,Hit,178,HIT,Kevin Bahl hit Jordan Greenway,2023-02-12T01:48:26Z,1,19:54,00:06,1,0,1.0,New Jersey Devils,NJD
+93,30,1,Minnesota Wild,New Jersey Devils,2022020843136,2022020843,Blocked Shot,136,BLOCKED_SHOT,Jonas Brodin shot blocked shot by Jonas Siegenthaler,2023-02-12T01:48:29Z,1,19:57,00:03,1,0,1.0,New Jersey Devils,NJD
+94,30,1,Minnesota Wild,New Jersey Devils,202202084340,2022020843,Period End,40,PERIOD_END,End of 1st Period,2023-02-12T01:48:32Z,1,20:00,00:00,1,0,,,
+95,30,1,Minnesota Wild,New Jersey Devils,2022020843137,2022020843,Penalty,137,PENALTY,Jonas Siegenthaler Hooking against Marcus Foligno,2023-02-12T01:48:32Z,1,20:00,00:00,1,0,1.0,New Jersey Devils,NJD
+96,30,1,Minnesota Wild,New Jersey Devils,202202084343,2022020843,Period Official,43,PERIOD_OFFICIAL,Period Official,2023-02-12T01:48:48Z,1,20:00,00:00,1,0,,,
+97,30,1,Minnesota Wild,New Jersey Devils,202202084344,2022020843,Period Ready,44,PERIOD_READY,Period Ready,2023-02-12T02:07:30Z,2,00:00,20:00,1,0,,,
+98,30,1,Minnesota Wild,New Jersey Devils,202202084345,2022020843,Period Start,45,PERIOD_START,Period Start,2023-02-12T02:07:33Z,2,00:00,20:00,1,0,,,
+99,30,1,Minnesota Wild,New Jersey Devils,202202084346,2022020843,Faceoff,46,FACEOFF,Nico Hischier faceoff won against Joel Eriksson Ek,2023-02-12T02:07:33Z,2,00:00,20:00,1,0,1.0,New Jersey Devils,NJD
+100,30,1,Minnesota Wild,New Jersey Devils,202202084347,2022020843,Shot,47,SHOT,Nico Hischier Snap Shot saved by Filip Gustavsson,2023-02-12T02:07:56Z,2,00:23,19:37,1,0,1.0,New Jersey Devils,NJD
+101,30,1,Minnesota Wild,New Jersey Devils,2022020843179,2022020843,Takeaway,179,TAKEAWAY,Takeaway by Erik Haula,2023-02-12T02:08:08Z,2,00:35,19:25,1,0,1.0,New Jersey Devils,NJD
+102,30,1,Minnesota Wild,New Jersey Devils,2022020843451,2022020843,Penalty,451,PENALTY,Joel Eriksson Ek Holding against Erik Haula,2023-02-12T02:08:12Z,2,00:40,19:20,1,0,30.0,Minnesota Wild,MIN
+103,30,1,Minnesota Wild,New Jersey Devils,202202084348,2022020843,Faceoff,48,FACEOFF,Dawson Mercer faceoff won against Frederick Gaudreau,2023-02-12T02:08:56Z,2,00:40,19:20,1,0,1.0,New Jersey Devils,NJD
+104,30,1,Minnesota Wild,New Jersey Devils,202202084349,2022020843,Missed Shot,49,MISSED_SHOT,Dawson Mercer Wide of Net Filip Gustavsson,2023-02-12T02:09:05Z,2,00:49,19:11,1,0,1.0,New Jersey Devils,NJD
+105,30,1,Minnesota Wild,New Jersey Devils,2022020843180,2022020843,Hit,180,HIT,Damon Severson hit Matt Boldy,2023-02-12T02:09:15Z,2,00:59,19:01,1,0,1.0,New Jersey Devils,NJD
+106,30,1,Minnesota Wild,New Jersey Devils,2022020843140,2022020843,Hit,140,HIT,Jared Spurgeon hit Dawson Mercer,2023-02-12T02:09:26Z,2,01:10,18:50,1,0,30.0,Minnesota Wild,MIN
+107,30,1,Minnesota Wild,New Jersey Devils,2022020843141,2022020843,Blocked Shot,141,BLOCKED_SHOT,Yegor Sharangovich shot blocked shot by Jonas Brodin,2023-02-12T02:09:55Z,2,01:39,18:21,1,0,30.0,Minnesota Wild,MIN
+108,30,1,Minnesota Wild,New Jersey Devils,202202084350,2022020843,Shot,50,SHOT,Ryan Graves Slap Shot saved by Filip Gustavsson,2023-02-12T02:10:07Z,2,01:51,18:09,1,0,1.0,New Jersey Devils,NJD
+109,30,1,Minnesota Wild,New Jersey Devils,2022020843142,2022020843,Stoppage,142,STOP,Goalie Stopped,2023-02-12T02:10:09Z,2,01:52,18:08,1,0,,,
+110,30,1,Minnesota Wild,New Jersey Devils,2022020843251,2022020843,Faceoff,251,FACEOFF,Ryan Hartman faceoff won against Nico Hischier,2023-02-12T02:10:38Z,2,01:52,18:08,1,0,30.0,Minnesota Wild,MIN
+111,30,1,Minnesota Wild,New Jersey Devils,2022020843181,2022020843,Takeaway,181,TAKEAWAY,Takeaway by Ondrej Palat,2023-02-12T02:10:43Z,2,01:57,18:03,1,0,1.0,New Jersey Devils,NJD
+112,30,1,Minnesota Wild,New Jersey Devils,2022020843252,2022020843,Missed Shot,252,MISSED_SHOT,Dougie Hamilton Wide of Net Filip Gustavsson,2023-02-12T02:10:57Z,2,02:11,17:49,1,0,1.0,New Jersey Devils,NJD
+113,30,1,Minnesota Wild,New Jersey Devils,2022020843253,2022020843,Shot,253,SHOT,Nico Hischier Tip-In saved by Filip Gustavsson,2023-02-12T02:11:05Z,2,02:19,17:41,1,0,1.0,New Jersey Devils,NJD
+114,30,1,Minnesota Wild,New Jersey Devils,2022020843143,2022020843,Blocked Shot,143,BLOCKED_SHOT,Tomas Tatar shot blocked shot by Jonas Brodin,2023-02-12T02:11:27Z,2,02:41,17:19,1,0,30.0,Minnesota Wild,MIN
+115,30,1,Minnesota Wild,New Jersey Devils,2022020843254,2022020843,Goal,254,GOAL,"Tomas Tatar (11) Slap Shot, assists: Ondrej Palat (7), Dougie Hamilton (37)",2023-02-12T02:11:30Z,2,02:45,17:15,1,1,1.0,New Jersey Devils,NJD
+116,30,1,Minnesota Wild,New Jersey Devils,2022020843255,2022020843,Faceoff,255,FACEOFF,Michael McLeod faceoff won against Joel Eriksson Ek,2023-02-12T02:12:13Z,2,02:45,17:15,1,1,1.0,New Jersey Devils,NJD
+117,30,1,Minnesota Wild,New Jersey Devils,2022020843182,2022020843,Hit,182,HIT,Michael McLeod hit Joel Eriksson Ek,2023-02-12T02:12:23Z,2,02:55,17:05,1,1,1.0,New Jersey Devils,NJD
+118,30,1,Minnesota Wild,New Jersey Devils,2022020843183,2022020843,Hit,183,HIT,Ryan Graves hit Marcus Foligno,2023-02-12T02:12:48Z,2,03:20,16:40,1,1,1.0,New Jersey Devils,NJD
+119,30,1,Minnesota Wild,New Jersey Devils,2022020843184,2022020843,Takeaway,184,TAKEAWAY,Takeaway by Mats Zuccarello,2023-02-12T02:13:04Z,2,03:36,16:24,1,1,30.0,Minnesota Wild,MIN
+120,30,1,Minnesota Wild,New Jersey Devils,2022020843144,2022020843,Penalty,144,PENALTY,Ryan Hartman Fighting against Nathan Bastian,2023-02-12T02:13:14Z,2,03:45,16:15,1,1,30.0,Minnesota Wild,MIN
+121,30,1,Minnesota Wild,New Jersey Devils,2022020843146,2022020843,Penalty,146,PENALTY,Ryan Hartman Misconduct against Nathan Bastian,2023-02-12T02:13:14Z,2,03:45,16:15,1,1,30.0,Minnesota Wild,MIN
+122,30,1,Minnesota Wild,New Jersey Devils,2022020843148,2022020843,Penalty,148,PENALTY,Nathan Bastian Fighting against Ryan Hartman,2023-02-12T02:13:14Z,2,03:45,16:15,1,1,1.0,New Jersey Devils,NJD
+123,30,1,Minnesota Wild,New Jersey Devils,2022020843481,2022020843,Penalty,481,PENALTY,Nathan Bastian Roughing against Kirill Kaprizov,2023-02-12T02:13:14Z,2,03:45,16:15,1,1,1.0,New Jersey Devils,NJD
+124,30,1,Minnesota Wild,New Jersey Devils,2022020843484,2022020843,Penalty,484,PENALTY,Ryan Hartman Instigator against Nathan Bastian,2023-02-12T02:13:14Z,2,03:45,16:15,1,1,30.0,Minnesota Wild,MIN
+125,30,1,Minnesota Wild,New Jersey Devils,2022020843256,2022020843,Faceoff,256,FACEOFF,Matt Boldy faceoff won against Erik Haula,2023-02-12T02:15:54Z,2,03:45,16:15,1,1,30.0,Minnesota Wild,MIN
+126,30,1,Minnesota Wild,New Jersey Devils,2022020843187,2022020843,Shot,187,SHOT,Kirill Kaprizov Wrist Shot saved by Vitek Vanecek,2023-02-12T02:16:16Z,2,04:07,15:53,1,1,30.0,Minnesota Wild,MIN
+127,30,1,Minnesota Wild,New Jersey Devils,2022020843258,2022020843,Shot,258,SHOT,Nico Hischier Snap Shot saved by Filip Gustavsson,2023-02-12T02:16:50Z,2,04:41,15:19,1,1,1.0,New Jersey Devils,NJD
+128,30,1,Minnesota Wild,New Jersey Devils,2022020843188,2022020843,Stoppage,188,STOP,Goalie Stopped,2023-02-12T02:16:51Z,2,04:42,15:18,1,1,,,
+129,30,1,Minnesota Wild,New Jersey Devils,2022020843259,2022020843,Faceoff,259,FACEOFF,Frederick Gaudreau faceoff won against Nico Hischier,2023-02-12T02:17:16Z,2,04:42,15:18,1,1,30.0,Minnesota Wild,MIN
+130,30,1,Minnesota Wild,New Jersey Devils,2022020843150,2022020843,Blocked Shot,150,BLOCKED_SHOT,Ryan Graves shot blocked shot by Frederick Gaudreau,2023-02-12T02:17:59Z,2,05:25,14:35,1,1,30.0,Minnesota Wild,MIN
+131,30,1,Minnesota Wild,New Jersey Devils,2022020843301,2022020843,Blocked Shot,301,BLOCKED_SHOT,Ryan Graves shot blocked shot by Marcus Foligno,2023-02-12T02:18:05Z,2,05:31,14:29,1,1,30.0,Minnesota Wild,MIN
+132,30,1,Minnesota Wild,New Jersey Devils,2022020843260,2022020843,Missed Shot,260,MISSED_SHOT,Ryan Graves Wide of Net Filip Gustavsson,2023-02-12T02:18:13Z,2,05:38,14:22,1,1,1.0,New Jersey Devils,NJD
+133,30,1,Minnesota Wild,New Jersey Devils,2022020843354,2022020843,Takeaway,354,TAKEAWAY,Takeaway by Jesper Boqvist,2023-02-12T02:18:31Z,2,05:56,14:04,1,1,1.0,New Jersey Devils,NJD
+134,30,1,Minnesota Wild,New Jersey Devils,2022020843302,2022020843,Takeaway,302,TAKEAWAY,Takeaway by Matt Dumba,2023-02-12T02:18:32Z,2,05:58,14:02,1,1,30.0,Minnesota Wild,MIN
+135,30,1,Minnesota Wild,New Jersey Devils,2022020843261,2022020843,Goal,261,GOAL,"Tomas Tatar (12) Deflected, assists: Damon Severson (13), Jesper Boqvist (4)",2023-02-12T02:18:38Z,2,06:04,13:56,1,2,1.0,New Jersey Devils,NJD
+136,30,1,Minnesota Wild,New Jersey Devils,2022020843262,2022020843,Faceoff,262,FACEOFF,Michael McLeod faceoff won against Sam Steel,2023-02-12T02:19:23Z,2,06:04,13:56,1,2,1.0,New Jersey Devils,NJD
+137,30,1,Minnesota Wild,New Jersey Devils,2022020843263,2022020843,Missed Shot,263,MISSED_SHOT,Miles Wood Goalpost Filip Gustavsson,2023-02-12T02:19:44Z,2,06:25,13:35,1,2,1.0,New Jersey Devils,NJD
+138,30,1,Minnesota Wild,New Jersey Devils,2022020843303,2022020843,Stoppage,303,STOP,Puck Frozen,2023-02-12T02:19:45Z,2,06:26,13:34,1,2,,,
+139,30,1,Minnesota Wild,New Jersey Devils,2022020843264,2022020843,Faceoff,264,FACEOFF,Erik Haula faceoff won against Joel Eriksson Ek,2023-02-12T02:22:01Z,2,06:26,13:34,1,2,1.0,New Jersey Devils,NJD
+140,30,1,Minnesota Wild,New Jersey Devils,2022020843265,2022020843,Missed Shot,265,MISSED_SHOT,Erik Haula Over Net Filip Gustavsson,2023-02-12T02:22:10Z,2,06:35,13:25,1,2,1.0,New Jersey Devils,NJD
+141,30,1,Minnesota Wild,New Jersey Devils,2022020843304,2022020843,Blocked Shot,304,BLOCKED_SHOT,Yegor Sharangovich shot blocked shot by Joel Eriksson Ek,2023-02-12T02:22:21Z,2,06:46,13:14,1,2,30.0,Minnesota Wild,MIN
+142,30,1,Minnesota Wild,New Jersey Devils,2022020843305,2022020843,Stoppage,305,STOP,Puck Frozen,2023-02-12T02:22:24Z,2,06:49,13:11,1,2,,,
+143,30,1,Minnesota Wild,New Jersey Devils,2022020843266,2022020843,Faceoff,266,FACEOFF,Frederick Gaudreau faceoff won against Nico Hischier,2023-02-12T02:22:57Z,2,06:49,13:11,1,2,30.0,Minnesota Wild,MIN
+144,30,1,Minnesota Wild,New Jersey Devils,2022020843267,2022020843,Blocked Shot,267,BLOCKED_SHOT,Jonas Brodin shot blocked shot by Ryan Graves,2023-02-12T02:23:13Z,2,07:05,12:55,1,2,1.0,New Jersey Devils,NJD
+145,30,1,Minnesota Wild,New Jersey Devils,2022020843190,2022020843,Hit,190,HIT,Marcus Foligno hit Ryan Graves,2023-02-12T02:23:29Z,2,07:21,12:39,1,2,30.0,Minnesota Wild,MIN
+146,30,1,Minnesota Wild,New Jersey Devils,2022020843306,2022020843,Hit,306,HIT,Frederick Gaudreau hit Nico Hischier,2023-02-12T02:23:41Z,2,07:33,12:27,1,2,30.0,Minnesota Wild,MIN
+147,30,1,Minnesota Wild,New Jersey Devils,2022020843307,2022020843,Shot,307,SHOT,Sam Steel Snap Shot saved by Vitek Vanecek,2023-02-12T02:23:55Z,2,07:47,12:13,1,2,30.0,Minnesota Wild,MIN
+148,30,1,Minnesota Wild,New Jersey Devils,2022020843308,2022020843,Blocked Shot,308,BLOCKED_SHOT,Jesper Boqvist shot blocked shot by Jon Merrill,2023-02-12T02:24:03Z,2,07:55,12:05,1,2,30.0,Minnesota Wild,MIN
+149,30,1,Minnesota Wild,New Jersey Devils,2022020843268,2022020843,Blocked Shot,268,BLOCKED_SHOT,Mats Zuccarello shot blocked shot by Jesper Boqvist,2023-02-12T02:24:29Z,2,08:21,11:39,1,2,1.0,New Jersey Devils,NJD
+150,30,1,Minnesota Wild,New Jersey Devils,2022020843309,2022020843,Stoppage,309,STOP,Puck in Netting,2023-02-12T02:24:30Z,2,08:22,11:38,1,2,,,
+151,30,1,Minnesota Wild,New Jersey Devils,2022020843269,2022020843,Faceoff,269,FACEOFF,Erik Haula faceoff won against Joel Eriksson Ek,2023-02-12T02:25:02Z,2,08:22,11:38,1,2,1.0,New Jersey Devils,NJD
+152,30,1,Minnesota Wild,New Jersey Devils,2022020843310,2022020843,Shot,310,SHOT,Jared Spurgeon Wrist Shot saved by Vitek Vanecek,2023-02-12T02:25:10Z,2,08:30,11:30,1,2,30.0,Minnesota Wild,MIN
+153,30,1,Minnesota Wild,New Jersey Devils,2022020843191,2022020843,Hit,191,HIT,Brandon Duhaime hit Jonas Siegenthaler,2023-02-12T02:25:22Z,2,08:42,11:18,1,2,30.0,Minnesota Wild,MIN
+154,30,1,Minnesota Wild,New Jersey Devils,2022020843270,2022020843,Shot,270,SHOT,Erik Haula Wrist Shot saved by Filip Gustavsson,2023-02-12T02:25:41Z,2,09:01,10:59,1,2,1.0,New Jersey Devils,NJD
+155,30,1,Minnesota Wild,New Jersey Devils,2022020843311,2022020843,Stoppage,311,STOP,Offside,2023-02-12T02:26:14Z,2,09:35,10:25,1,2,,,
+156,30,1,Minnesota Wild,New Jersey Devils,2022020843271,2022020843,Faceoff,271,FACEOFF,Connor Dewar faceoff won against Michael McLeod,2023-02-12T02:26:47Z,2,09:35,10:25,1,2,30.0,Minnesota Wild,MIN
+157,30,1,Minnesota Wild,New Jersey Devils,2022020843312,2022020843,Stoppage,312,STOP,Puck in Crowd,2023-02-12T02:26:53Z,2,09:40,10:20,1,2,,,
+158,30,1,Minnesota Wild,New Jersey Devils,2022020843272,2022020843,Faceoff,272,FACEOFF,Nico Hischier faceoff won against Frederick Gaudreau,2023-02-12T02:27:26Z,2,09:40,10:20,1,2,1.0,New Jersey Devils,NJD
+159,30,1,Minnesota Wild,New Jersey Devils,2022020843192,2022020843,Takeaway,192,TAKEAWAY,Takeaway by Jordan Greenway,2023-02-12T02:27:55Z,2,10:09,09:51,1,2,30.0,Minnesota Wild,MIN
+160,30,1,Minnesota Wild,New Jersey Devils,2022020843313,2022020843,Shot,313,SHOT,Jordan Greenway Snap Shot saved by Vitek Vanecek,2023-02-12T02:28:05Z,2,10:19,09:41,1,2,30.0,Minnesota Wild,MIN
+161,30,1,Minnesota Wild,New Jersey Devils,2022020843314,2022020843,Stoppage,314,STOP,Goalie Stopped,2023-02-12T02:28:06Z,2,10:20,09:40,1,2,,,
+162,30,1,Minnesota Wild,New Jersey Devils,2022020843273,2022020843,Faceoff,273,FACEOFF,Mason Shaw faceoff won against Erik Haula,2023-02-12T02:30:19Z,2,10:20,09:40,1,2,30.0,Minnesota Wild,MIN
+163,30,1,Minnesota Wild,New Jersey Devils,2022020843274,2022020843,Blocked Shot,274,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by Erik Haula,2023-02-12T02:30:24Z,2,10:25,09:35,1,2,1.0,New Jersey Devils,NJD
+164,30,1,Minnesota Wild,New Jersey Devils,2022020843275,2022020843,Missed Shot,275,MISSED_SHOT,Jesper Boqvist Wide of Net Filip Gustavsson,2023-02-12T02:31:42Z,2,11:43,08:17,1,2,1.0,New Jersey Devils,NJD
+165,30,1,Minnesota Wild,New Jersey Devils,2022020843193,2022020843,Takeaway,193,TAKEAWAY,Takeaway by Mats Zuccarello,2023-02-12T02:31:44Z,2,11:45,08:15,1,2,30.0,Minnesota Wild,MIN
+166,30,1,Minnesota Wild,New Jersey Devils,2022020843315,2022020843,Missed Shot,315,MISSED_SHOT,Brandon Duhaime Wide of Net Vitek Vanecek,2023-02-12T02:31:53Z,2,11:54,08:06,1,2,30.0,Minnesota Wild,MIN
+167,30,1,Minnesota Wild,New Jersey Devils,2022020843194,2022020843,Hit,194,HIT,Brandon Duhaime hit Ryan Graves,2023-02-12T02:32:08Z,2,12:09,07:51,1,2,30.0,Minnesota Wild,MIN
+168,30,1,Minnesota Wild,New Jersey Devils,2022020843195,2022020843,Hit,195,HIT,Matt Boldy hit Tomas Tatar,2023-02-12T02:32:15Z,2,12:16,07:44,1,2,30.0,Minnesota Wild,MIN
+169,30,1,Minnesota Wild,New Jersey Devils,2022020843276,2022020843,Blocked Shot,276,BLOCKED_SHOT,Frederick Gaudreau shot blocked shot by Ryan Graves,2023-02-12T02:32:24Z,2,12:25,07:35,1,2,1.0,New Jersey Devils,NJD
+170,30,1,Minnesota Wild,New Jersey Devils,2022020843316,2022020843,Stoppage,316,STOP,Puck in Netting,2023-02-12T02:32:25Z,2,12:26,07:34,1,2,,,
+171,30,1,Minnesota Wild,New Jersey Devils,2022020843277,2022020843,Faceoff,277,FACEOFF,Michael McLeod faceoff won against Frederick Gaudreau,2023-02-12T02:33:01Z,2,12:26,07:34,1,2,1.0,New Jersey Devils,NJD
+172,30,1,Minnesota Wild,New Jersey Devils,2022020843278,2022020843,Blocked Shot,278,BLOCKED_SHOT,Jordan Greenway shot blocked shot by Damon Severson,2023-02-12T02:33:11Z,2,12:36,07:24,1,2,1.0,New Jersey Devils,NJD
+173,30,1,Minnesota Wild,New Jersey Devils,2022020843196,2022020843,Hit,196,HIT,Marcus Foligno hit Kevin Bahl,2023-02-12T02:33:16Z,2,12:41,07:19,1,2,30.0,Minnesota Wild,MIN
+174,30,1,Minnesota Wild,New Jersey Devils,2022020843279,2022020843,Missed Shot,279,MISSED_SHOT,Dougie Hamilton Wide of Net Filip Gustavsson,2023-02-12T02:33:35Z,2,13:00,07:00,1,2,1.0,New Jersey Devils,NJD
+175,30,1,Minnesota Wild,New Jersey Devils,2022020843317,2022020843,Stoppage,317,STOP,Puck Frozen,2023-02-12T02:33:36Z,2,13:01,06:59,1,2,,,
+176,30,1,Minnesota Wild,New Jersey Devils,2022020843280,2022020843,Faceoff,280,FACEOFF,Joel Eriksson Ek faceoff won against Dawson Mercer,2023-02-12T02:34:12Z,2,13:01,06:59,1,2,30.0,Minnesota Wild,MIN
+177,30,1,Minnesota Wild,New Jersey Devils,2022020843197,2022020843,Hit,197,HIT,Joel Eriksson Ek hit Dawson Mercer,2023-02-12T02:34:29Z,2,13:18,06:42,1,2,30.0,Minnesota Wild,MIN
+178,30,1,Minnesota Wild,New Jersey Devils,2022020843198,2022020843,Takeaway,198,TAKEAWAY,Takeaway by Erik Haula,2023-02-12T02:35:00Z,2,13:49,06:11,1,2,1.0,New Jersey Devils,NJD
+179,30,1,Minnesota Wild,New Jersey Devils,2022020843318,2022020843,Blocked Shot,318,BLOCKED_SHOT,Yegor Sharangovich shot blocked shot by Mats Zuccarello,2023-02-12T02:35:09Z,2,13:58,06:02,1,2,30.0,Minnesota Wild,MIN
+180,30,1,Minnesota Wild,New Jersey Devils,2022020843199,2022020843,Hit,199,HIT,Connor Dewar hit Erik Haula,2023-02-12T02:35:38Z,2,14:27,05:33,1,2,30.0,Minnesota Wild,MIN
+181,30,1,Minnesota Wild,New Jersey Devils,2022020843319,2022020843,Stoppage,319,STOP,Icing,2023-02-12T02:35:39Z,2,14:29,05:31,1,2,,,
+182,30,1,Minnesota Wild,New Jersey Devils,2022020843281,2022020843,Faceoff,281,FACEOFF,Erik Haula faceoff won against Joel Eriksson Ek,2023-02-12T02:36:13Z,2,14:29,05:31,1,2,1.0,New Jersey Devils,NJD
+183,30,1,Minnesota Wild,New Jersey Devils,2022020843320,2022020843,Stoppage,320,STOP,Puck in Netting,2023-02-12T02:36:19Z,2,14:35,05:25,1,2,,,
+184,30,1,Minnesota Wild,New Jersey Devils,2022020843282,2022020843,Faceoff,282,FACEOFF,Joel Eriksson Ek faceoff won against Michael McLeod,2023-02-12T02:38:38Z,2,14:35,05:25,1,2,30.0,Minnesota Wild,MIN
+185,30,1,Minnesota Wild,New Jersey Devils,2022020843200,2022020843,Hit,200,HIT,Jake Middleton hit Nathan Bastian,2023-02-12T02:39:01Z,2,14:58,05:02,1,2,30.0,Minnesota Wild,MIN
+186,30,1,Minnesota Wild,New Jersey Devils,2022020843283,2022020843,Shot,283,SHOT,Ryan Graves Snap Shot saved by Filip Gustavsson,2023-02-12T02:39:09Z,2,15:06,04:54,1,2,1.0,New Jersey Devils,NJD
+187,30,1,Minnesota Wild,New Jersey Devils,2022020843321,2022020843,Stoppage,321,STOP,Goalie Stopped,2023-02-12T02:39:09Z,2,15:07,04:53,1,2,,,
+188,30,1,Minnesota Wild,New Jersey Devils,2022020843284,2022020843,Faceoff,284,FACEOFF,Nico Hischier faceoff won against Frederick Gaudreau,2023-02-12T02:39:41Z,2,15:07,04:53,1,2,1.0,New Jersey Devils,NJD
+189,30,1,Minnesota Wild,New Jersey Devils,2022020843322,2022020843,Blocked Shot,322,BLOCKED_SHOT,Dawson Mercer shot blocked shot by Marcus Foligno,2023-02-12T02:39:42Z,2,15:08,04:52,1,2,30.0,Minnesota Wild,MIN
+190,30,1,Minnesota Wild,New Jersey Devils,2022020843323,2022020843,Stoppage,323,STOP,Puck Frozen,2023-02-12T02:39:44Z,2,15:10,04:50,1,2,,,
+191,30,1,Minnesota Wild,New Jersey Devils,2022020843285,2022020843,Faceoff,285,FACEOFF,Dawson Mercer faceoff won against Jordan Greenway,2023-02-12T02:40:18Z,2,15:10,04:50,1,2,1.0,New Jersey Devils,NJD
+192,30,1,Minnesota Wild,New Jersey Devils,2022020843324,2022020843,Stoppage,324,STOP,Puck in Benches,2023-02-12T02:40:36Z,2,15:28,04:32,1,2,,,
+193,30,1,Minnesota Wild,New Jersey Devils,2022020843286,2022020843,Faceoff,286,FACEOFF,Matt Boldy faceoff won against Tomas Tatar,2023-02-12T02:41:13Z,2,15:28,04:32,1,2,30.0,Minnesota Wild,MIN
+194,30,1,Minnesota Wild,New Jersey Devils,2022020843501,2022020843,Hit,501,HIT,Matt Boldy hit Jonas Siegenthaler,2023-02-12T02:41:34Z,2,15:49,04:11,1,2,30.0,Minnesota Wild,MIN
+195,30,1,Minnesota Wild,New Jersey Devils,2022020843325,2022020843,Shot,325,SHOT,Sam Steel Wrist Shot saved by Vitek Vanecek,2023-02-12T02:42:36Z,2,16:51,03:09,1,2,30.0,Minnesota Wild,MIN
+196,30,1,Minnesota Wild,New Jersey Devils,2022020843326,2022020843,Shot,326,SHOT,Mason Shaw Slap Shot saved by Vitek Vanecek,2023-02-12T02:42:43Z,2,16:58,03:02,1,2,30.0,Minnesota Wild,MIN
+197,30,1,Minnesota Wild,New Jersey Devils,2022020843327,2022020843,Stoppage,327,STOP,Offside,2023-02-12T02:43:15Z,2,17:31,02:29,1,2,,,
+198,30,1,Minnesota Wild,New Jersey Devils,2022020843287,2022020843,Faceoff,287,FACEOFF,Michael McLeod faceoff won against Matt Boldy,2023-02-12T02:43:46Z,2,17:31,02:29,1,2,1.0,New Jersey Devils,NJD
+199,30,1,Minnesota Wild,New Jersey Devils,2022020843328,2022020843,Shot,328,SHOT,Matt Boldy Wrist Shot saved by Vitek Vanecek,2023-02-12T02:44:00Z,2,17:45,02:15,1,2,30.0,Minnesota Wild,MIN
+200,30,1,Minnesota Wild,New Jersey Devils,2022020843329,2022020843,Stoppage,329,STOP,Goalie Stopped,2023-02-12T02:44:01Z,2,17:46,02:14,1,2,,,
+201,30,1,Minnesota Wild,New Jersey Devils,2022020843288,2022020843,Faceoff,288,FACEOFF,Nico Hischier faceoff won against Frederick Gaudreau,2023-02-12T02:44:44Z,2,17:46,02:14,1,2,1.0,New Jersey Devils,NJD
+202,30,1,Minnesota Wild,New Jersey Devils,2022020843289,2022020843,Blocked Shot,289,BLOCKED_SHOT,Frederick Gaudreau shot blocked shot by Dougie Hamilton,2023-02-12T02:44:54Z,2,17:56,02:04,1,2,1.0,New Jersey Devils,NJD
+203,30,1,Minnesota Wild,New Jersey Devils,2022020843502,2022020843,Hit,502,HIT,Matt Dumba hit Ondrej Palat,2023-02-12T02:45:11Z,2,18:13,01:47,1,2,30.0,Minnesota Wild,MIN
+204,30,1,Minnesota Wild,New Jersey Devils,2022020843692,2022020843,Penalty,692,PENALTY,Jonas Siegenthaler Cross-checking against Matt Dumba,2023-02-12T02:45:19Z,2,18:19,01:41,1,2,1.0,New Jersey Devils,NJD
+205,30,1,Minnesota Wild,New Jersey Devils,2022020843291,2022020843,Faceoff,291,FACEOFF,Michael McLeod faceoff won against Joel Eriksson Ek,2023-02-12T02:46:16Z,2,18:19,01:41,1,2,1.0,New Jersey Devils,NJD
+206,30,1,Minnesota Wild,New Jersey Devils,2022020843292,2022020843,Blocked Shot,292,BLOCKED_SHOT,Mats Zuccarello shot blocked shot by Nico Hischier,2023-02-12T02:47:23Z,2,19:26,00:34,1,2,1.0,New Jersey Devils,NJD
+207,30,1,Minnesota Wild,New Jersey Devils,2022020843330,2022020843,Missed Shot,330,MISSED_SHOT,Calen Addison Wide of Net Vitek Vanecek,2023-02-12T02:47:27Z,2,19:30,00:30,1,2,30.0,Minnesota Wild,MIN
+208,30,1,Minnesota Wild,New Jersey Devils,2022020843293,2022020843,Shot,293,SHOT,Yegor Sharangovich Wrist Shot saved by Filip Gustavsson,2023-02-12T02:47:33Z,2,19:36,00:24,1,2,1.0,New Jersey Devils,NJD
+209,30,1,Minnesota Wild,New Jersey Devils,2022020843331,2022020843,Stoppage,331,STOP,Goalie Stopped,2023-02-12T02:47:35Z,2,19:37,00:23,1,2,,,
+210,30,1,Minnesota Wild,New Jersey Devils,2022020843294,2022020843,Faceoff,294,FACEOFF,Michael McLeod faceoff won against Sam Steel,2023-02-12T02:48:03Z,2,19:37,00:23,1,2,1.0,New Jersey Devils,NJD
+211,30,1,Minnesota Wild,New Jersey Devils,2022020843503,2022020843,Hit,503,HIT,Erik Haula hit Sam Steel,2023-02-12T02:48:21Z,2,19:54,00:06,1,2,1.0,New Jersey Devils,NJD
+212,30,1,Minnesota Wild,New Jersey Devils,2022020843332,2022020843,Stoppage,332,STOP,Puck in Benches,2023-02-12T02:48:23Z,2,19:56,00:04,1,2,,,
+213,30,1,Minnesota Wild,New Jersey Devils,2022020843295,2022020843,Faceoff,295,FACEOFF,Sam Steel faceoff won against Michael McLeod,2023-02-12T02:48:47Z,2,19:56,00:04,1,2,30.0,Minnesota Wild,MIN
+214,30,1,Minnesota Wild,New Jersey Devils,2022020843333,2022020843,Shot,333,SHOT,Frederick Gaudreau Backhand saved by Vitek Vanecek,2023-02-12T02:48:50Z,2,19:59,00:01,1,2,30.0,Minnesota Wild,MIN
+215,30,1,Minnesota Wild,New Jersey Devils,2022020843296,2022020843,Period End,296,PERIOD_END,End of 2nd Period,2023-02-12T02:48:51Z,2,20:00,00:00,1,2,,,
+216,30,1,Minnesota Wild,New Jersey Devils,2022020843299,2022020843,Period Official,299,PERIOD_OFFICIAL,Period Official,2023-02-12T02:48:59Z,2,20:00,00:00,1,2,,,
+217,30,1,Minnesota Wild,New Jersey Devils,2022020843300,2022020843,Period Ready,300,PERIOD_READY,Period Ready,2023-02-12T03:09:31Z,3,00:00,20:00,1,2,,,
+218,30,1,Minnesota Wild,New Jersey Devils,2022020843701,2022020843,Period Start,701,PERIOD_START,Period Start,2023-02-12T03:09:32Z,3,00:00,20:00,1,2,,,
+219,30,1,Minnesota Wild,New Jersey Devils,2022020843702,2022020843,Faceoff,702,FACEOFF,Matt Boldy faceoff won against Nico Hischier,2023-02-12T03:09:32Z,3,00:00,20:00,1,2,30.0,Minnesota Wild,MIN
+220,30,1,Minnesota Wild,New Jersey Devils,2022020843703,2022020843,Missed Shot,703,MISSED_SHOT,Mats Zuccarello Wide of Net Vitek Vanecek,2023-02-12T03:09:55Z,3,00:23,19:37,1,2,30.0,Minnesota Wild,MIN
+221,30,1,Minnesota Wild,New Jersey Devils,2022020843704,2022020843,Shot,704,SHOT,Mats Zuccarello Snap Shot saved by Vitek Vanecek,2023-02-12T03:10:07Z,3,00:35,19:25,1,2,30.0,Minnesota Wild,MIN
+222,30,1,Minnesota Wild,New Jersey Devils,2022020843504,2022020843,Hit,504,HIT,Matt Boldy hit Jonas Siegenthaler,2023-02-12T03:10:10Z,3,00:38,19:22,1,2,30.0,Minnesota Wild,MIN
+223,30,1,Minnesota Wild,New Jersey Devils,2022020843705,2022020843,Blocked Shot,705,BLOCKED_SHOT,Mats Zuccarello shot blocked shot by John Marino,2023-02-12T03:10:11Z,3,00:39,19:21,1,2,1.0,New Jersey Devils,NJD
+224,30,1,Minnesota Wild,New Jersey Devils,2022020843334,2022020843,Blocked Shot,334,BLOCKED_SHOT,Matt Boldy shot blocked shot by Jonas Siegenthaler,2023-02-12T03:10:15Z,3,00:43,19:17,1,2,1.0,New Jersey Devils,NJD
+225,30,1,Minnesota Wild,New Jersey Devils,2022020843335,2022020843,Stoppage,335,STOP,Puck in Netting,2023-02-12T03:10:17Z,3,00:45,19:15,1,2,,,
+226,30,1,Minnesota Wild,New Jersey Devils,2022020843706,2022020843,Faceoff,706,FACEOFF,Frederick Gaudreau faceoff won against Erik Haula,2023-02-12T03:10:48Z,3,00:45,19:15,1,2,30.0,Minnesota Wild,MIN
+227,30,1,Minnesota Wild,New Jersey Devils,2022020843707,2022020843,Blocked Shot,707,BLOCKED_SHOT,Marcus Foligno shot blocked shot by Damon Severson,2023-02-12T03:10:54Z,3,00:51,19:09,1,2,1.0,New Jersey Devils,NJD
+228,30,1,Minnesota Wild,New Jersey Devils,2022020843336,2022020843,Stoppage,336,STOP,Puck Frozen,2023-02-12T03:10:55Z,3,00:53,19:07,1,2,,,
+229,30,1,Minnesota Wild,New Jersey Devils,2022020843708,2022020843,Faceoff,708,FACEOFF,Frederick Gaudreau faceoff won against Michael McLeod,2023-02-12T03:11:26Z,3,00:53,19:07,1,2,30.0,Minnesota Wild,MIN
+230,30,1,Minnesota Wild,New Jersey Devils,2022020843505,2022020843,Stoppage,505,STOP,Offside,2023-02-12T03:11:33Z,3,00:59,19:01,1,2,,,
+231,30,1,Minnesota Wild,New Jersey Devils,2022020843709,2022020843,Faceoff,709,FACEOFF,Michael McLeod faceoff won against Ryan Hartman,2023-02-12T03:11:57Z,3,00:59,19:01,1,2,1.0,New Jersey Devils,NJD
+232,30,1,Minnesota Wild,New Jersey Devils,2022020843506,2022020843,Shot,506,SHOT,Miles Wood Snap Shot saved by Filip Gustavsson,2023-02-12T03:12:17Z,3,01:19,18:41,1,2,1.0,New Jersey Devils,NJD
+233,30,1,Minnesota Wild,New Jersey Devils,2022020843507,2022020843,Giveaway,507,GIVEAWAY,Giveaway by Jared Spurgeon,2023-02-12T03:12:25Z,3,01:27,18:33,1,2,30.0,Minnesota Wild,MIN
+234,30,1,Minnesota Wild,New Jersey Devils,2022020843710,2022020843,Blocked Shot,710,BLOCKED_SHOT,Mats Zuccarello shot blocked shot by Jonas Siegenthaler,2023-02-12T03:12:30Z,3,01:32,18:28,1,2,1.0,New Jersey Devils,NJD
+235,30,1,Minnesota Wild,New Jersey Devils,2022020843337,2022020843,Stoppage,337,STOP,Icing,2023-02-12T03:12:47Z,3,01:48,18:12,1,2,,,
+236,30,1,Minnesota Wild,New Jersey Devils,2022020843711,2022020843,Faceoff,711,FACEOFF,Joel Eriksson Ek faceoff won against Jesper Boqvist,2023-02-12T03:13:10Z,3,01:48,18:12,1,2,30.0,Minnesota Wild,MIN
+237,30,1,Minnesota Wild,New Jersey Devils,2022020843355,2022020843,Blocked Shot,355,BLOCKED_SHOT,Jon Merrill shot blocked shot by Jonas Siegenthaler,2023-02-12T03:13:15Z,3,01:53,18:07,1,2,1.0,New Jersey Devils,NJD
+238,30,1,Minnesota Wild,New Jersey Devils,2022020843712,2022020843,Missed Shot,712,MISSED_SHOT,Brandon Duhaime Wide of Net Vitek Vanecek,2023-02-12T03:13:20Z,3,01:58,18:02,1,2,30.0,Minnesota Wild,MIN
+239,30,1,Minnesota Wild,New Jersey Devils,2022020843713,2022020843,Shot,713,SHOT,Matt Boldy Snap Shot saved by Vitek Vanecek,2023-02-12T03:13:34Z,3,02:12,17:48,1,2,30.0,Minnesota Wild,MIN
+240,30,1,Minnesota Wild,New Jersey Devils,2022020843338,2022020843,Stoppage,338,STOP,Icing,2023-02-12T03:14:07Z,3,02:45,17:15,1,2,,,
+241,30,1,Minnesota Wild,New Jersey Devils,2022020843714,2022020843,Faceoff,714,FACEOFF,Nico Hischier faceoff won against Sam Steel,2023-02-12T03:14:41Z,3,02:45,17:15,1,2,1.0,New Jersey Devils,NJD
+242,30,1,Minnesota Wild,New Jersey Devils,2022020843508,2022020843,Hit,508,HIT,Connor Dewar hit Ondrej Palat,2023-02-12T03:15:02Z,3,03:06,16:54,1,2,30.0,Minnesota Wild,MIN
+243,30,1,Minnesota Wild,New Jersey Devils,2022020843339,2022020843,Blocked Shot,339,BLOCKED_SHOT,Connor Dewar shot blocked shot by Ondrej Palat,2023-02-12T03:15:11Z,3,03:15,16:45,1,2,1.0,New Jersey Devils,NJD
+244,30,1,Minnesota Wild,New Jersey Devils,2022020843715,2022020843,Shot,715,SHOT,Marcus Foligno Wrist Shot saved by Vitek Vanecek,2023-02-12T03:15:31Z,3,03:35,16:25,1,2,30.0,Minnesota Wild,MIN
+245,30,1,Minnesota Wild,New Jersey Devils,2022020843509,2022020843,Hit,509,HIT,Ondrej Palat hit Marcus Foligno,2023-02-12T03:15:48Z,3,03:52,16:08,1,2,1.0,New Jersey Devils,NJD
+246,30,1,Minnesota Wild,New Jersey Devils,2022020843716,2022020843,Missed Shot,716,MISSED_SHOT,Jared Spurgeon Wide of Net Vitek Vanecek,2023-02-12T03:16:07Z,3,04:11,15:49,1,2,30.0,Minnesota Wild,MIN
+247,30,1,Minnesota Wild,New Jersey Devils,2022020843510,2022020843,Takeaway,510,TAKEAWAY,Takeaway by Ondrej Palat,2023-02-12T03:16:17Z,3,04:21,15:39,1,2,1.0,New Jersey Devils,NJD
+248,30,1,Minnesota Wild,New Jersey Devils,2022020843511,2022020843,Giveaway,511,GIVEAWAY,Giveaway by Ondrej Palat,2023-02-12T03:16:20Z,3,04:24,15:36,1,2,1.0,New Jersey Devils,NJD
+249,30,1,Minnesota Wild,New Jersey Devils,2022020843514,2022020843,Takeaway,514,TAKEAWAY,Takeaway by Frederick Gaudreau,2023-02-12T03:16:45Z,3,04:49,15:11,1,2,30.0,Minnesota Wild,MIN
+250,30,1,Minnesota Wild,New Jersey Devils,2022020843512,2022020843,Takeaway,512,TAKEAWAY,Takeaway by Kirill Kaprizov,2023-02-12T03:16:59Z,3,05:03,14:57,1,2,30.0,Minnesota Wild,MIN
+251,30,1,Minnesota Wild,New Jersey Devils,2022020843717,2022020843,Goal,717,GOAL,"Ryan Hartman (6) Deflected, assists: Matt Dumba (9), Jonas Brodin (7)",2023-02-12T03:17:20Z,3,05:25,14:35,2,2,30.0,Minnesota Wild,MIN
+252,30,1,Minnesota Wild,New Jersey Devils,2022020843718,2022020843,Faceoff,718,FACEOFF,Sam Steel faceoff won against Michael McLeod,2023-02-12T03:18:15Z,3,05:25,14:35,2,2,30.0,Minnesota Wild,MIN
+253,30,1,Minnesota Wild,New Jersey Devils,2022020843513,2022020843,Hit,513,HIT,Miles Wood hit Matt Dumba,2023-02-12T03:18:34Z,3,05:44,14:16,2,2,1.0,New Jersey Devils,NJD
+254,30,1,Minnesota Wild,New Jersey Devils,2022020843340,2022020843,Shot,340,SHOT,Damon Severson Wrist Shot saved by Filip Gustavsson,2023-02-12T03:18:48Z,3,05:58,14:02,2,2,1.0,New Jersey Devils,NJD
+255,30,1,Minnesota Wild,New Jersey Devils,2022020843341,2022020843,Stoppage,341,STOP,Goalie Stopped,2023-02-12T03:18:49Z,3,05:59,14:01,2,2,,,
+256,30,1,Minnesota Wild,New Jersey Devils,2022020843719,2022020843,Faceoff,719,FACEOFF,Joel Eriksson Ek faceoff won against Jesper Boqvist,2023-02-12T03:19:21Z,3,05:59,14:01,2,2,30.0,Minnesota Wild,MIN
+257,30,1,Minnesota Wild,New Jersey Devils,2022020843342,2022020843,Shot,342,SHOT,Tomas Tatar Wrist Shot saved by Filip Gustavsson,2023-02-12T03:19:37Z,3,06:15,13:45,2,2,1.0,New Jersey Devils,NJD
+258,30,1,Minnesota Wild,New Jersey Devils,2022020843343,2022020843,Stoppage,343,STOP,Goalie Stopped,2023-02-12T03:19:37Z,3,06:16,13:44,2,2,,,
+259,30,1,Minnesota Wild,New Jersey Devils,2022020843720,2022020843,Faceoff,720,FACEOFF,Frederick Gaudreau faceoff won against Nico Hischier,2023-02-12T03:21:52Z,3,06:16,13:44,2,2,30.0,Minnesota Wild,MIN
+260,30,1,Minnesota Wild,New Jersey Devils,2022020843515,2022020843,Hit,515,HIT,Jake Middleton hit Nico Hischier,2023-02-12T03:22:09Z,3,06:33,13:27,2,2,30.0,Minnesota Wild,MIN
+261,30,1,Minnesota Wild,New Jersey Devils,2022020843516,2022020843,Takeaway,516,TAKEAWAY,Takeaway by John Marino,2023-02-12T03:22:26Z,3,06:50,13:10,2,2,1.0,New Jersey Devils,NJD
+262,30,1,Minnesota Wild,New Jersey Devils,2022020843517,2022020843,Takeaway,517,TAKEAWAY,Takeaway by Ryan Hartman,2023-02-12T03:22:47Z,3,07:11,12:49,2,2,30.0,Minnesota Wild,MIN
+263,30,1,Minnesota Wild,New Jersey Devils,2022020843721,2022020843,Missed Shot,721,MISSED_SHOT,Mats Zuccarello Wide of Net Vitek Vanecek,2023-02-12T03:22:50Z,3,07:14,12:46,2,2,30.0,Minnesota Wild,MIN
+264,30,1,Minnesota Wild,New Jersey Devils,2022020843344,2022020843,Stoppage,344,STOP,Offside,2023-02-12T03:22:59Z,3,07:22,12:38,2,2,,,
+265,30,1,Minnesota Wild,New Jersey Devils,2022020843722,2022020843,Faceoff,722,FACEOFF,Erik Haula faceoff won against Ryan Hartman,2023-02-12T03:23:31Z,3,07:22,12:38,2,2,1.0,New Jersey Devils,NJD
+266,30,1,Minnesota Wild,New Jersey Devils,2022020843723,2022020843,Shot,723,SHOT,Kirill Kaprizov Snap Shot saved by Vitek Vanecek,2023-02-12T03:23:45Z,3,07:36,12:24,2,2,30.0,Minnesota Wild,MIN
+267,30,1,Minnesota Wild,New Jersey Devils,2022020843345,2022020843,Shot,345,SHOT,Yegor Sharangovich Snap Shot saved by Filip Gustavsson,2023-02-12T03:23:55Z,3,07:46,12:14,2,2,1.0,New Jersey Devils,NJD
+268,30,1,Minnesota Wild,New Jersey Devils,2022020843346,2022020843,Stoppage,346,STOP,Puck in Netting,2023-02-12T03:24:00Z,3,07:51,12:09,2,2,,,
+269,30,1,Minnesota Wild,New Jersey Devils,2022020843724,2022020843,Faceoff,724,FACEOFF,Sam Steel faceoff won against Fabian Zetterlund,2023-02-12T03:24:43Z,3,07:51,12:09,2,2,30.0,Minnesota Wild,MIN
+270,30,1,Minnesota Wild,New Jersey Devils,2022020843518,2022020843,Hit,518,HIT,Kevin Bahl hit Mason Shaw,2023-02-12T03:24:49Z,3,07:57,12:03,2,2,1.0,New Jersey Devils,NJD
+271,30,1,Minnesota Wild,New Jersey Devils,2022020843347,2022020843,Shot,347,SHOT,Fabian Zetterlund Slap Shot saved by Filip Gustavsson,2023-02-12T03:25:01Z,3,08:09,11:51,2,2,1.0,New Jersey Devils,NJD
+272,30,1,Minnesota Wild,New Jersey Devils,2022020843725,2022020843,Shot,725,SHOT,Connor Dewar Poke saved by Vitek Vanecek,2023-02-12T03:25:19Z,3,08:26,11:34,2,2,30.0,Minnesota Wild,MIN
+273,30,1,Minnesota Wild,New Jersey Devils,2022020843519,2022020843,Stoppage,519,STOP,Goalie Stopped,2023-02-12T03:25:19Z,3,08:27,11:33,2,2,,,
+274,30,1,Minnesota Wild,New Jersey Devils,2022020843726,2022020843,Faceoff,726,FACEOFF,Nico Hischier faceoff won against Joel Eriksson Ek,2023-02-12T03:26:06Z,3,08:27,11:33,2,2,1.0,New Jersey Devils,NJD
+275,30,1,Minnesota Wild,New Jersey Devils,2022020843520,2022020843,Hit,520,HIT,Brandon Duhaime hit John Marino,2023-02-12T03:26:39Z,3,09:00,11:00,2,2,30.0,Minnesota Wild,MIN
+276,30,1,Minnesota Wild,New Jersey Devils,2022020843521,2022020843,Hit,521,HIT,Jordan Greenway hit Dougie Hamilton,2023-02-12T03:27:19Z,3,09:40,10:20,2,2,30.0,Minnesota Wild,MIN
+277,30,1,Minnesota Wild,New Jersey Devils,2022020843522,2022020843,Hit,522,HIT,Marcus Foligno hit Jesper Bratt,2023-02-12T03:27:20Z,3,09:41,10:19,2,2,30.0,Minnesota Wild,MIN
+278,30,1,Minnesota Wild,New Jersey Devils,2022020843348,2022020843,Shot,348,SHOT,Erik Haula Slap Shot saved by Filip Gustavsson,2023-02-12T03:27:23Z,3,09:44,10:16,2,2,1.0,New Jersey Devils,NJD
+279,30,1,Minnesota Wild,New Jersey Devils,2022020843349,2022020843,Stoppage,349,STOP,Goalie Stopped,2023-02-12T03:27:24Z,3,09:45,10:15,2,2,,,
+280,30,1,Minnesota Wild,New Jersey Devils,2022020843727,2022020843,Faceoff,727,FACEOFF,Michael McLeod faceoff won against Ryan Hartman,2023-02-12T03:28:04Z,3,09:45,10:15,2,2,1.0,New Jersey Devils,NJD
+281,30,1,Minnesota Wild,New Jersey Devils,2022020843350,2022020843,Missed Shot,350,MISSED_SHOT,Miles Wood Wide of Net Filip Gustavsson,2023-02-12T03:28:07Z,3,09:48,10:12,2,2,1.0,New Jersey Devils,NJD
+282,30,1,Minnesota Wild,New Jersey Devils,2022020843751,2022020843,Shot,751,SHOT,Ryan Graves Slap Shot saved by Filip Gustavsson,2023-02-12T03:28:15Z,3,09:56,10:04,2,2,1.0,New Jersey Devils,NJD
+283,30,1,Minnesota Wild,New Jersey Devils,2022020843752,2022020843,Stoppage,752,STOP,Icing,2023-02-12T03:28:40Z,3,10:21,09:39,2,2,,,
+284,30,1,Minnesota Wild,New Jersey Devils,2022020843728,2022020843,Faceoff,728,FACEOFF,Sam Steel faceoff won against Michael McLeod,2023-02-12T03:29:10Z,3,10:21,09:39,2,2,30.0,Minnesota Wild,MIN
+285,30,1,Minnesota Wild,New Jersey Devils,2022020843729,2022020843,Missed Shot,729,MISSED_SHOT,Connor Dewar Wide of Net Vitek Vanecek,2023-02-12T03:29:15Z,3,10:26,09:34,2,2,30.0,Minnesota Wild,MIN
+286,30,1,Minnesota Wild,New Jersey Devils,2022020843523,2022020843,Hit,523,HIT,Ryan Graves hit Connor Dewar,2023-02-12T03:29:30Z,3,10:41,09:19,2,2,1.0,New Jersey Devils,NJD
+287,30,1,Minnesota Wild,New Jersey Devils,2022020843753,2022020843,Takeaway,753,TAKEAWAY,Takeaway by Sam Steel,2023-02-12T03:29:45Z,3,10:56,09:04,2,2,30.0,Minnesota Wild,MIN
+288,30,1,Minnesota Wild,New Jersey Devils,2022020843730,2022020843,Missed Shot,730,MISSED_SHOT,Jake Middleton Wide of Net Vitek Vanecek,2023-02-12T03:29:48Z,3,10:59,09:01,2,2,30.0,Minnesota Wild,MIN
+289,30,1,Minnesota Wild,New Jersey Devils,2022020843525,2022020843,Hit,525,HIT,Fabian Zetterlund hit Mason Shaw,2023-02-12T03:29:56Z,3,11:07,08:53,2,2,1.0,New Jersey Devils,NJD
+290,30,1,Minnesota Wild,New Jersey Devils,2022020843526,2022020843,Hit,526,HIT,Jared Spurgeon hit Dawson Mercer,2023-02-12T03:30:57Z,3,12:08,07:52,2,2,30.0,Minnesota Wild,MIN
+291,30,1,Minnesota Wild,New Jersey Devils,2022020843731,2022020843,Blocked Shot,731,BLOCKED_SHOT,Jonas Siegenthaler shot blocked shot by Jordan Greenway,2023-02-12T03:30:59Z,3,12:10,07:50,2,2,30.0,Minnesota Wild,MIN
+292,30,1,Minnesota Wild,New Jersey Devils,2022020843754,2022020843,Shot,754,SHOT,Jesper Bratt Wrist Shot saved by Filip Gustavsson,2023-02-12T03:31:24Z,3,12:32,07:28,2,2,1.0,New Jersey Devils,NJD
+293,30,1,Minnesota Wild,New Jersey Devils,2022020843528,2022020843,Giveaway,528,GIVEAWAY,Giveaway by Vitek Vanecek,2023-02-12T03:31:47Z,3,12:55,07:05,2,2,1.0,New Jersey Devils,NJD
+294,30,1,Minnesota Wild,New Jersey Devils,2022020843755,2022020843,Takeaway,755,TAKEAWAY,Takeaway by Ryan Graves,2023-02-12T03:31:51Z,3,12:59,07:01,2,2,1.0,New Jersey Devils,NJD
+295,30,1,Minnesota Wild,New Jersey Devils,2022020843529,2022020843,Giveaway,529,GIVEAWAY,Giveaway by Miles Wood,2023-02-12T03:32:19Z,3,13:27,06:33,2,2,1.0,New Jersey Devils,NJD
+296,30,1,Minnesota Wild,New Jersey Devils,2022020843756,2022020843,Stoppage,756,STOP,Offside,2023-02-12T03:33:04Z,3,14:12,05:48,2,2,,,
+297,30,1,Minnesota Wild,New Jersey Devils,2022020843732,2022020843,Faceoff,732,FACEOFF,Erik Haula faceoff won against Frederick Gaudreau,2023-02-12T03:35:30Z,3,14:12,05:48,2,2,1.0,New Jersey Devils,NJD
+298,30,1,Minnesota Wild,New Jersey Devils,2022020843757,2022020843,Blocked Shot,757,BLOCKED_SHOT,Matt Boldy shot blocked shot by Dougie Hamilton,2023-02-12T03:36:20Z,3,15:02,04:58,2,2,1.0,New Jersey Devils,NJD
+299,30,1,Minnesota Wild,New Jersey Devils,2022020843530,2022020843,Hit,530,HIT,Dougie Hamilton hit Matt Boldy,2023-02-12T03:36:25Z,3,15:07,04:53,2,2,1.0,New Jersey Devils,NJD
+300,30,1,Minnesota Wild,New Jersey Devils,2022020843531,2022020843,Hit,531,HIT,Matt Dumba hit Damon Severson,2023-02-12T03:37:08Z,3,15:50,04:10,2,2,30.0,Minnesota Wild,MIN
+301,30,1,Minnesota Wild,New Jersey Devils,2022020843733,2022020843,Missed Shot,733,MISSED_SHOT,Mats Zuccarello Wide of Net Vitek Vanecek,2023-02-12T03:37:16Z,3,15:58,04:02,2,2,30.0,Minnesota Wild,MIN
+302,30,1,Minnesota Wild,New Jersey Devils,2022020843734,2022020843,Shot,734,SHOT,Ryan Hartman Tip-In saved by Vitek Vanecek,2023-02-12T03:37:40Z,3,16:22,03:38,2,2,30.0,Minnesota Wild,MIN
+303,30,1,Minnesota Wild,New Jersey Devils,2022020843758,2022020843,Stoppage,758,STOP,Goalie Stopped,2023-02-12T03:37:40Z,3,16:23,03:37,2,2,,,
+304,30,1,Minnesota Wild,New Jersey Devils,2022020843735,2022020843,Faceoff,735,FACEOFF,Michael McLeod faceoff won against Joel Eriksson Ek,2023-02-12T03:39:51Z,3,16:23,03:37,2,2,1.0,New Jersey Devils,NJD
+305,30,1,Minnesota Wild,New Jersey Devils,2022020843532,2022020843,Takeaway,532,TAKEAWAY,Takeaway by Brandon Duhaime,2023-02-12T03:40:25Z,3,16:57,03:03,2,2,30.0,Minnesota Wild,MIN
+306,30,1,Minnesota Wild,New Jersey Devils,2022020843736,2022020843,Missed Shot,736,MISSED_SHOT,Sam Steel Wide of Net Vitek Vanecek,2023-02-12T03:40:45Z,3,17:17,02:43,2,2,30.0,Minnesota Wild,MIN
+307,30,1,Minnesota Wild,New Jersey Devils,2022020843759,2022020843,Missed Shot,759,MISSED_SHOT,Fabian Zetterlund Wide of Net Filip Gustavsson,2023-02-12T03:41:44Z,3,18:16,01:44,2,2,1.0,New Jersey Devils,NJD
+308,30,1,Minnesota Wild,New Jersey Devils,2022020843737,2022020843,Missed Shot,737,MISSED_SHOT,Ryan Hartman Wide of Net Vitek Vanecek,2023-02-12T03:42:03Z,3,18:35,01:25,2,2,30.0,Minnesota Wild,MIN
+309,30,1,Minnesota Wild,New Jersey Devils,2022020843533,2022020843,Hit,533,HIT,Matt Dumba hit Dawson Mercer,2023-02-12T03:42:28Z,3,19:00,01:00,2,2,30.0,Minnesota Wild,MIN
+310,30,1,Minnesota Wild,New Jersey Devils,2022020843760,2022020843,Shot,760,SHOT,Dawson Mercer Wrist Shot saved by Filip Gustavsson,2023-02-12T03:42:34Z,3,19:06,00:54,2,2,1.0,New Jersey Devils,NJD
+311,30,1,Minnesota Wild,New Jersey Devils,2022020843738,2022020843,Period End,738,PERIOD_END,End of 3rd Period,2023-02-12T03:43:29Z,3,20:00,00:00,2,2,,,
+312,30,1,Minnesota Wild,New Jersey Devils,2022020843741,2022020843,Period Official,741,PERIOD_OFFICIAL,Period Official,2023-02-12T03:43:33Z,3,20:00,00:00,2,2,,,
+313,30,1,Minnesota Wild,New Jersey Devils,2022020843742,2022020843,Period Ready,742,PERIOD_READY,Period Ready,2023-02-12T03:45:26Z,4,00:00,05:00,2,2,,,
+314,30,1,Minnesota Wild,New Jersey Devils,2022020843743,2022020843,Period Start,743,PERIOD_START,Period Start,2023-02-12T03:45:50Z,4,00:00,05:00,2,2,,,
+315,30,1,Minnesota Wild,New Jersey Devils,2022020843744,2022020843,Faceoff,744,FACEOFF,Nico Hischier faceoff won against Joel Eriksson Ek,2023-02-12T03:45:50Z,4,00:00,05:00,2,2,1.0,New Jersey Devils,NJD
+316,30,1,Minnesota Wild,New Jersey Devils,2022020843761,2022020843,Missed Shot,761,MISSED_SHOT,Joel Eriksson Ek Wide of Net Vitek Vanecek,2023-02-12T03:46:27Z,4,00:37,04:23,2,2,30.0,Minnesota Wild,MIN
+317,30,1,Minnesota Wild,New Jersey Devils,2022020843762,2022020843,Blocked Shot,762,BLOCKED_SHOT,Jesper Bratt shot blocked shot by Frederick Gaudreau,2023-02-12T03:48:45Z,4,02:55,02:05,2,2,30.0,Minnesota Wild,MIN
+318,30,1,Minnesota Wild,New Jersey Devils,2022020843745,2022020843,Shot,745,SHOT,Yegor Sharangovich Backhand saved by Filip Gustavsson,2023-02-12T03:49:08Z,4,03:18,01:42,2,2,1.0,New Jersey Devils,NJD
+319,30,1,Minnesota Wild,New Jersey Devils,2022020843763,2022020843,Shot,763,SHOT,Matt Dumba Wrist Shot saved by Vitek Vanecek,2023-02-12T03:49:38Z,4,03:48,01:12,2,2,30.0,Minnesota Wild,MIN
+320,30,1,Minnesota Wild,New Jersey Devils,2022020843764,2022020843,Shot,764,SHOT,Matt Dumba Wrist Shot saved by Vitek Vanecek,2023-02-12T03:49:39Z,4,03:49,01:11,2,2,30.0,Minnesota Wild,MIN
+321,30,1,Minnesota Wild,New Jersey Devils,2022020843746,2022020843,Shot,746,SHOT,Yegor Sharangovich Snap Shot saved by Filip Gustavsson,2023-02-12T03:49:46Z,4,03:56,01:04,2,2,1.0,New Jersey Devils,NJD
+322,30,1,Minnesota Wild,New Jersey Devils,2022020843765,2022020843,Missed Shot,765,MISSED_SHOT,Mats Zuccarello Wide of Net Vitek Vanecek,2023-02-12T03:50:00Z,4,04:10,00:50,2,2,30.0,Minnesota Wild,MIN
+323,30,1,Minnesota Wild,New Jersey Devils,2022020843747,2022020843,Shot,747,SHOT,Dougie Hamilton Slap Shot saved by Filip Gustavsson,2023-02-12T03:50:22Z,4,04:32,00:28,2,2,1.0,New Jersey Devils,NJD
+324,30,1,Minnesota Wild,New Jersey Devils,2022020843766,2022020843,Missed Shot,766,MISSED_SHOT,Matt Boldy Over Net Vitek Vanecek,2023-02-12T03:50:46Z,4,04:56,00:04,2,2,30.0,Minnesota Wild,MIN
+325,30,1,Minnesota Wild,New Jersey Devils,2022020843748,2022020843,Blocked Shot,748,BLOCKED_SHOT,Jonas Brodin shot blocked shot by Ondrej Palat,2023-02-12T03:50:49Z,4,04:59,00:01,2,2,1.0,New Jersey Devils,NJD
+326,30,1,Minnesota Wild,New Jersey Devils,2022020843749,2022020843,Period End,749,PERIOD_END,End of OT,2023-02-12T03:50:51Z,4,05:00,00:00,2,2,,,
+327,30,1,Minnesota Wild,New Jersey Devils,2022020843902,2022020843,Period Official,902,PERIOD_OFFICIAL,Period Official,2023-02-12T03:51:06Z,4,05:00,00:00,2,2,,,
+328,30,1,Minnesota Wild,New Jersey Devils,2022020843903,2022020843,Period Ready,903,PERIOD_READY,Period Ready,2023-02-12T03:52:09Z,5,00:00,00:00,2,2,,,
+329,30,1,Minnesota Wild,New Jersey Devils,2022020843904,2022020843,Period Start,904,PERIOD_START,Period Start,2023-02-12T03:52:36Z,5,00:00,00:00,2,2,,,
+330,30,1,Minnesota Wild,New Jersey Devils,2022020843905,2022020843,Goal,905,GOAL,Mats Zuccarello - Wrist Shot,2023-02-12T03:52:43Z,5,00:00,00:00,2,2,30.0,Minnesota Wild,MIN
+331,30,1,Minnesota Wild,New Jersey Devils,2022020843906,2022020843,Shot,906,SHOT,Tomas Tatar Wrist Shot saved by Filip Gustavsson,2023-02-12T03:53:10Z,5,00:00,00:00,2,2,1.0,New Jersey Devils,NJD
+332,30,1,Minnesota Wild,New Jersey Devils,2022020843907,2022020843,Shot,907,SHOT,Kirill Kaprizov Snap Shot saved by Vitek Vanecek,2023-02-12T03:53:42Z,5,00:00,00:00,2,2,30.0,Minnesota Wild,MIN
+333,30,1,Minnesota Wild,New Jersey Devils,2022020843908,2022020843,Shot,908,SHOT,Jesper Bratt Wrist Shot saved by Filip Gustavsson,2023-02-12T03:54:14Z,5,00:00,00:00,2,2,1.0,New Jersey Devils,NJD
+334,30,1,Minnesota Wild,New Jersey Devils,2022020843909,2022020843,Goal,909,GOAL,Frederick Gaudreau - Snap Shot,2023-02-12T03:54:47Z,5,00:00,00:00,2,2,30.0,Minnesota Wild,MIN
+335,30,1,Minnesota Wild,New Jersey Devils,2022020843910,2022020843,Shootout Complete,910,SHOOTOUT_COMPLETE,End of Shootout,2023-02-12T03:54:47Z,5,00:00,00:00,2,2,,,
+336,30,1,Minnesota Wild,New Jersey Devils,2022020843911,2022020843,Period End,911,PERIOD_END,End of OT,2023-02-12T03:54:47Z,5,00:00,00:00,2,2,,,
+337,30,1,Minnesota Wild,New Jersey Devils,2022020843914,2022020843,Period Official,914,PERIOD_OFFICIAL,Period Official,2023-02-12T03:55:12Z,5,00:00,00:00,2,2,,,
+338,30,1,Minnesota Wild,New Jersey Devils,2022020843915,2022020843,Game End,915,GAME_END,Game End,2023-02-12T03:55:14Z,5,00:00,00:00,2,2,,,
+339,30,1,Minnesota Wild,New Jersey Devils,2022020843916,2022020843,Game Official,916,GAME_OFFICIAL,Game Official,2023-02-12T04:02:16Z,5,00:00,00:00,2,2,,,

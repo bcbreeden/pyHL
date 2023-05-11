@@ -1,0 +1,332 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,14,17,Tampa Bay Lightning,Detroit Red Wings,20220204051,2022020405,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-12-06T23:17:15Z,1,00:00,20:00,0,0,,,
+1,14,17,Tampa Bay Lightning,Detroit Red Wings,20220204055,2022020405,Period Ready,5,PERIOD_READY,Period Ready,2022-12-07T00:06:56Z,1,00:00,20:00,0,0,,,
+2,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040551,2022020405,Period Start,51,PERIOD_START,Period Start,2022-12-07T00:09:45Z,1,00:00,20:00,0,0,,,
+3,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040552,2022020405,Faceoff,52,FACEOFF,Anthony Cirelli faceoff won against Andrew Copp,2022-12-07T00:09:45Z,1,00:00,20:00,0,0,14.0,Tampa Bay Lightning,TBL
+4,14,17,Tampa Bay Lightning,Detroit Red Wings,20220204058,2022020405,Hit,8,HIT,Adam Erne hit Erik Cernak,2022-12-07T00:09:53Z,1,00:08,19:52,0,0,17.0,Detroit Red Wings,DET
+5,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405151,2022020405,Blocked Shot,151,BLOCKED_SHOT,Anthony Cirelli shot blocked shot by Ben Chiarot,2022-12-07T00:10:00Z,1,00:15,19:45,0,0,17.0,Detroit Red Wings,DET
+6,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040553,2022020405,Takeaway,53,TAKEAWAY,Takeaway by Vladislav Namestnikov,2022-12-07T00:10:12Z,1,00:27,19:33,0,0,14.0,Tampa Bay Lightning,TBL
+7,14,17,Tampa Bay Lightning,Detroit Red Wings,20220204059,2022020405,Hit,9,HIT,Dylan Larkin hit Mikhail Sergachev,2022-12-07T00:10:24Z,1,00:39,19:21,0,0,17.0,Detroit Red Wings,DET
+8,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040510,2022020405,Hit,10,HIT,Olli Maatta hit Brandon Hagel,2022-12-07T00:10:44Z,1,00:59,19:01,0,0,17.0,Detroit Red Wings,DET
+9,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040554,2022020405,Giveaway,54,GIVEAWAY,Giveaway by Nikita Kucherov,2022-12-07T00:11:02Z,1,01:17,18:43,0,0,14.0,Tampa Bay Lightning,TBL
+10,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040511,2022020405,Hit,11,HIT,Zach Bogosian hit Michael Rasmussen,2022-12-07T00:11:19Z,1,01:34,18:26,0,0,14.0,Tampa Bay Lightning,TBL
+11,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405152,2022020405,Shot,152,SHOT,Pius Suter Backhand saved by Andrei Vasilevskiy,2022-12-07T00:11:21Z,1,01:36,18:24,0,0,17.0,Detroit Red Wings,DET
+12,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040512,2022020405,Stoppage,12,STOP,Goalie Stopped,2022-12-07T00:11:22Z,1,01:38,18:22,0,0,,,
+13,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405153,2022020405,Shot,153,SHOT,Dominik Kubalik Wrist Shot saved by Andrei Vasilevskiy,2022-12-07T00:11:22Z,1,01:38,18:22,0,0,17.0,Detroit Red Wings,DET
+14,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040555,2022020405,Faceoff,55,FACEOFF,Michael Rasmussen faceoff won against Nicholas Paul,2022-12-07T00:11:48Z,1,01:38,18:22,0,0,17.0,Detroit Red Wings,DET
+15,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405154,2022020405,Shot,154,SHOT,Moritz Seider Wrist Shot saved by Andrei Vasilevskiy,2022-12-07T00:11:55Z,1,01:45,18:15,0,0,17.0,Detroit Red Wings,DET
+16,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405155,2022020405,Blocked Shot,155,BLOCKED_SHOT,Ben Chiarot shot blocked shot by Steven Stamkos,2022-12-07T00:12:19Z,1,02:09,17:51,0,0,14.0,Tampa Bay Lightning,TBL
+17,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040513,2022020405,Stoppage,13,STOP,Goalie Stopped,2022-12-07T00:12:27Z,1,02:16,17:44,0,0,,,
+18,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405156,2022020405,Shot,156,SHOT,Moritz Seider Wrist Shot saved by Andrei Vasilevskiy,2022-12-07T00:12:27Z,1,02:16,17:44,0,0,17.0,Detroit Red Wings,DET
+19,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040556,2022020405,Faceoff,56,FACEOFF,Pierre-Edouard Bellemare faceoff won against Joe Veleno,2022-12-07T00:12:59Z,1,02:16,17:44,0,0,14.0,Tampa Bay Lightning,TBL
+20,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040514,2022020405,Stoppage,14,STOP,Offside,2022-12-07T00:13:07Z,1,02:25,17:35,0,0,,,
+21,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040557,2022020405,Faceoff,57,FACEOFF,Pierre-Edouard Bellemare faceoff won against Joe Veleno,2022-12-07T00:13:31Z,1,02:25,17:35,0,0,14.0,Tampa Bay Lightning,TBL
+22,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405157,2022020405,Missed Shot,157,MISSED_SHOT,Ross Colton Wide of Net Ville Husso,2022-12-07T00:13:41Z,1,02:35,17:25,0,0,14.0,Tampa Bay Lightning,TBL
+23,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040515,2022020405,Stoppage,15,STOP,Goalie Stopped,2022-12-07T00:13:41Z,1,02:36,17:24,0,0,,,
+24,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405159,2022020405,Shot,159,SHOT,Ross Colton Backhand saved by Ville Husso,2022-12-07T00:13:41Z,1,02:36,17:24,0,0,14.0,Tampa Bay Lightning,TBL
+25,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040558,2022020405,Faceoff,58,FACEOFF,Anthony Cirelli faceoff won against Andrew Copp,2022-12-07T00:14:14Z,1,02:36,17:24,0,0,14.0,Tampa Bay Lightning,TBL
+26,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040559,2022020405,Giveaway,59,GIVEAWAY,Giveaway by Zach Bogosian,2022-12-07T00:14:34Z,1,02:56,17:04,0,0,14.0,Tampa Bay Lightning,TBL
+27,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040560,2022020405,Giveaway,60,GIVEAWAY,Giveaway by Zach Bogosian,2022-12-07T00:14:38Z,1,03:00,17:00,0,0,14.0,Tampa Bay Lightning,TBL
+28,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405160,2022020405,Shot,160,SHOT,Andrew Copp Snap Shot saved by Andrei Vasilevskiy,2022-12-07T00:14:38Z,1,03:00,17:00,0,0,17.0,Detroit Red Wings,DET
+29,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405161,2022020405,Blocked Shot,161,BLOCKED_SHOT,Filip Hronek shot blocked shot by Anthony Cirelli,2022-12-07T00:14:55Z,1,03:17,16:43,0,0,14.0,Tampa Bay Lightning,TBL
+30,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405125,2022020405,Penalty,125,PENALTY,Oskar Sundqvist Tripping against Nick Perbix,2022-12-07T00:15:06Z,1,03:27,16:33,0,0,17.0,Detroit Red Wings,DET
+31,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040561,2022020405,Faceoff,61,FACEOFF,Steven Stamkos faceoff won against Dylan Larkin,2022-12-07T00:15:45Z,1,03:27,16:33,0,0,14.0,Tampa Bay Lightning,TBL
+32,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405301,2022020405,Shot,301,SHOT,Dylan Larkin Backhand saved by Andrei Vasilevskiy,2022-12-07T00:15:58Z,1,03:40,16:20,0,0,17.0,Detroit Red Wings,DET
+33,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040517,2022020405,Stoppage,17,STOP,Goalie Stopped,2022-12-07T00:16:31Z,1,04:14,15:46,0,0,,,
+34,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405162,2022020405,Shot,162,SHOT,Nikita Kucherov Wrist Shot saved by Ville Husso,2022-12-07T00:16:31Z,1,04:14,15:46,0,0,14.0,Tampa Bay Lightning,TBL
+35,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040562,2022020405,Faceoff,62,FACEOFF,Steven Stamkos faceoff won against Michael Rasmussen,2022-12-07T00:16:56Z,1,04:14,15:46,0,0,14.0,Tampa Bay Lightning,TBL
+36,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040518,2022020405,Hit,18,HIT,Ben Chiarot hit Ross Colton,2022-12-07T00:17:52Z,1,05:10,14:50,0,0,17.0,Detroit Red Wings,DET
+37,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405163,2022020405,Missed Shot,163,MISSED_SHOT,Corey Perry Wide of Net Ville Husso,2022-12-07T00:18:11Z,1,05:29,14:31,0,0,14.0,Tampa Bay Lightning,TBL
+38,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040519,2022020405,Stoppage,19,STOP,Icing,2022-12-07T00:18:16Z,1,05:35,14:25,0,0,,,
+39,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040563,2022020405,Faceoff,63,FACEOFF,Andrew Copp faceoff won against Anthony Cirelli,2022-12-07T00:18:48Z,1,05:35,14:25,0,0,17.0,Detroit Red Wings,DET
+40,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040564,2022020405,Giveaway,64,GIVEAWAY,Giveaway by Anthony Cirelli,2022-12-07T00:19:14Z,1,06:01,13:59,0,0,14.0,Tampa Bay Lightning,TBL
+41,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040520,2022020405,Stoppage,20,STOP,Goalie Stopped,2022-12-07T00:19:45Z,1,06:32,13:28,0,0,,,
+42,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405164,2022020405,Shot,164,SHOT,Jake Walman Wrist Shot saved by Andrei Vasilevskiy,2022-12-07T00:19:45Z,1,06:32,13:28,0,0,17.0,Detroit Red Wings,DET
+43,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040565,2022020405,Faceoff,65,FACEOFF,Brayden Point faceoff won against Dylan Larkin,2022-12-07T00:22:05Z,1,06:32,13:28,0,0,14.0,Tampa Bay Lightning,TBL
+44,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040521,2022020405,Hit,21,HIT,David Perron hit Brandon Hagel,2022-12-07T00:22:13Z,1,06:40,13:20,0,0,17.0,Detroit Red Wings,DET
+45,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040522,2022020405,Hit,22,HIT,Ian Cole hit Moritz Seider,2022-12-07T00:22:21Z,1,06:48,13:12,0,0,14.0,Tampa Bay Lightning,TBL
+46,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040523,2022020405,Stoppage,23,STOP,Goalie Stopped,2022-12-07T00:22:28Z,1,06:55,13:05,0,0,,,
+47,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405165,2022020405,Shot,165,SHOT,Nikita Kucherov Slap Shot saved by Ville Husso,2022-12-07T00:22:28Z,1,06:55,13:05,0,0,14.0,Tampa Bay Lightning,TBL
+48,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040566,2022020405,Faceoff,66,FACEOFF,Michael Rasmussen faceoff won against Brayden Point,2022-12-07T00:23:01Z,1,06:55,13:05,0,0,17.0,Detroit Red Wings,DET
+49,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040567,2022020405,Giveaway,67,GIVEAWAY,Giveaway by Nikita Kucherov,2022-12-07T00:23:30Z,1,07:24,12:36,0,0,14.0,Tampa Bay Lightning,TBL
+50,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040569,2022020405,Takeaway,69,TAKEAWAY,Takeaway by Brandon Hagel,2022-12-07T00:23:32Z,1,07:26,12:34,0,0,14.0,Tampa Bay Lightning,TBL
+51,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040524,2022020405,Hit,24,HIT,Zach Bogosian hit Adam Erne,2022-12-07T00:24:01Z,1,07:55,12:05,0,0,14.0,Tampa Bay Lightning,TBL
+52,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040525,2022020405,Stoppage,25,STOP,Offside,2022-12-07T00:24:12Z,1,08:06,11:54,0,0,,,
+53,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040570,2022020405,Faceoff,70,FACEOFF,Austin Czarnik faceoff won against Pierre-Edouard Bellemare,2022-12-07T00:24:44Z,1,08:06,11:54,0,0,17.0,Detroit Red Wings,DET
+54,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040526,2022020405,Hit,26,HIT,Ross Colton hit Joe Veleno,2022-12-07T00:24:50Z,1,08:12,11:48,0,0,14.0,Tampa Bay Lightning,TBL
+55,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040571,2022020405,Takeaway,71,TAKEAWAY,Takeaway by Mikhail Sergachev,2022-12-07T00:25:26Z,1,08:48,11:12,0,0,14.0,Tampa Bay Lightning,TBL
+56,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405166,2022020405,Missed Shot,166,MISSED_SHOT,Filip Hronek Over Net Andrei Vasilevskiy,2022-12-07T00:25:32Z,1,08:54,11:06,0,0,17.0,Detroit Red Wings,DET
+57,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040572,2022020405,Giveaway,72,GIVEAWAY,Giveaway by Mikhail Sergachev,2022-12-07T00:25:34Z,1,08:56,11:04,0,0,14.0,Tampa Bay Lightning,TBL
+58,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040573,2022020405,Giveaway,73,GIVEAWAY,Giveaway by Alex Killorn,2022-12-07T00:26:03Z,1,09:25,10:35,0,0,14.0,Tampa Bay Lightning,TBL
+59,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040527,2022020405,Hit,27,HIT,Alex Killorn hit David Perron,2022-12-07T00:26:15Z,1,09:37,10:23,0,0,14.0,Tampa Bay Lightning,TBL
+60,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405167,2022020405,Missed Shot,167,MISSED_SHOT,Jordan Oesterle Goalpost Andrei Vasilevskiy,2022-12-07T00:26:19Z,1,09:41,10:19,0,0,17.0,Detroit Red Wings,DET
+61,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405168,2022020405,Shot,168,SHOT,Vladislav Namestnikov Tip-In saved by Ville Husso,2022-12-07T00:26:48Z,1,10:10,09:50,0,0,14.0,Tampa Bay Lightning,TBL
+62,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405169,2022020405,Missed Shot,169,MISSED_SHOT,Mikhail Sergachev Wide of Net Ville Husso,2022-12-07T00:26:58Z,1,10:20,09:40,0,0,14.0,Tampa Bay Lightning,TBL
+63,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405302,2022020405,Shot,302,SHOT,Victor Hedman Wrist Shot saved by Ville Husso,2022-12-07T00:27:03Z,1,10:25,09:35,0,0,14.0,Tampa Bay Lightning,TBL
+64,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405303,2022020405,Shot,303,SHOT,Anthony Cirelli Tip-In saved by Ville Husso,2022-12-07T00:27:05Z,1,10:27,09:33,0,0,14.0,Tampa Bay Lightning,TBL
+65,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405170,2022020405,Shot,170,SHOT,Mikhail Sergachev Wrist Shot saved by Ville Husso,2022-12-07T00:27:06Z,1,10:28,09:32,0,0,14.0,Tampa Bay Lightning,TBL
+66,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405304,2022020405,Shot,304,SHOT,Mikhail Sergachev Poke saved by Ville Husso,2022-12-07T00:27:07Z,1,10:29,09:31,0,0,14.0,Tampa Bay Lightning,TBL
+67,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040528,2022020405,Stoppage,28,STOP,Goalie Stopped,2022-12-07T00:27:08Z,1,10:30,09:30,0,0,,,
+68,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040574,2022020405,Faceoff,74,FACEOFF,Michael Rasmussen faceoff won against Brandon Hagel,2022-12-07T00:29:40Z,1,10:30,09:30,0,0,17.0,Detroit Red Wings,DET
+69,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405171,2022020405,Blocked Shot,171,BLOCKED_SHOT,Nikita Kucherov shot blocked shot by Moritz Seider,2022-12-07T00:30:08Z,1,10:58,09:02,0,0,17.0,Detroit Red Wings,DET
+70,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040529,2022020405,Hit,29,HIT,Brandon Hagel hit Ben Chiarot,2022-12-07T00:30:25Z,1,11:15,08:45,0,0,14.0,Tampa Bay Lightning,TBL
+71,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040530,2022020405,Stoppage,30,STOP,Offside,2022-12-07T00:31:16Z,1,12:05,07:55,0,0,,,
+72,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040575,2022020405,Faceoff,75,FACEOFF,Steven Stamkos faceoff won against Dylan Larkin,2022-12-07T00:31:40Z,1,12:05,07:55,0,0,14.0,Tampa Bay Lightning,TBL
+73,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405172,2022020405,Missed Shot,172,MISSED_SHOT,David Perron Over Net Andrei Vasilevskiy,2022-12-07T00:31:57Z,1,12:22,07:38,0,0,17.0,Detroit Red Wings,DET
+74,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040576,2022020405,Takeaway,76,TAKEAWAY,Takeaway by Dylan Larkin,2022-12-07T00:32:28Z,1,12:53,07:07,0,0,17.0,Detroit Red Wings,DET
+75,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405173,2022020405,Missed Shot,173,MISSED_SHOT,Moritz Seider Over Net Andrei Vasilevskiy,2022-12-07T00:32:32Z,1,12:57,07:03,0,0,17.0,Detroit Red Wings,DET
+76,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040531,2022020405,Hit,31,HIT,Vladislav Namestnikov hit Andrew Copp,2022-12-07T00:32:59Z,1,13:24,06:36,0,0,14.0,Tampa Bay Lightning,TBL
+77,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040577,2022020405,Takeaway,77,TAKEAWAY,Takeaway by Pat Maroon,2022-12-07T00:33:02Z,1,13:27,06:33,0,0,14.0,Tampa Bay Lightning,TBL
+78,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405174,2022020405,Missed Shot,174,MISSED_SHOT,Anthony Cirelli Wide of Net Ville Husso,2022-12-07T00:33:07Z,1,13:32,06:28,0,0,14.0,Tampa Bay Lightning,TBL
+79,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040578,2022020405,Takeaway,78,TAKEAWAY,Takeaway by Oskar Sundqvist,2022-12-07T00:33:19Z,1,13:44,06:16,0,0,17.0,Detroit Red Wings,DET
+80,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040579,2022020405,Giveaway,79,GIVEAWAY,Giveaway by Nikita Kucherov,2022-12-07T00:33:48Z,1,14:13,05:47,0,0,14.0,Tampa Bay Lightning,TBL
+81,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405175,2022020405,Shot,175,SHOT,Dominik Kubalik Wrist Shot saved by Andrei Vasilevskiy,2022-12-07T00:33:54Z,1,14:19,05:41,0,0,17.0,Detroit Red Wings,DET
+82,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040532,2022020405,Hit,32,HIT,Ben Chiarot hit Brayden Point,2022-12-07T00:34:05Z,1,14:30,05:30,0,0,17.0,Detroit Red Wings,DET
+83,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040580,2022020405,Giveaway,80,GIVEAWAY,Giveaway by Nikita Kucherov,2022-12-07T00:34:12Z,1,14:37,05:23,0,0,14.0,Tampa Bay Lightning,TBL
+84,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405176,2022020405,Shot,176,SHOT,Jordan Oesterle Wrist Shot saved by Andrei Vasilevskiy,2022-12-07T00:34:40Z,1,15:05,04:55,0,0,17.0,Detroit Red Wings,DET
+85,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405177,2022020405,Missed Shot,177,MISSED_SHOT,Joe Veleno Wide of Net Andrei Vasilevskiy,2022-12-07T00:34:48Z,1,15:13,04:47,0,0,17.0,Detroit Red Wings,DET
+86,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040583,2022020405,Takeaway,83,TAKEAWAY,Takeaway by Corey Perry,2022-12-07T00:35:00Z,1,15:25,04:35,0,0,14.0,Tampa Bay Lightning,TBL
+87,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405178,2022020405,Shot,178,SHOT,Corey Perry Wrist Shot saved by Ville Husso,2022-12-07T00:35:04Z,1,15:29,04:31,0,0,14.0,Tampa Bay Lightning,TBL
+88,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405305,2022020405,Blocked Shot,305,BLOCKED_SHOT,Corey Perry shot blocked shot by Joe Veleno,2022-12-07T00:35:07Z,1,15:32,04:28,0,0,17.0,Detroit Red Wings,DET
+89,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405179,2022020405,Shot,179,SHOT,Nick Perbix Wrist Shot saved by Ville Husso,2022-12-07T00:35:12Z,1,15:37,04:23,0,0,14.0,Tampa Bay Lightning,TBL
+90,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040584,2022020405,Giveaway,84,GIVEAWAY,Giveaway by Pierre-Edouard Bellemare,2022-12-07T00:35:23Z,1,15:48,04:12,0,0,14.0,Tampa Bay Lightning,TBL
+91,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040585,2022020405,Takeaway,85,TAKEAWAY,Takeaway by Lucas Raymond,2022-12-07T00:35:35Z,1,16:00,04:00,0,0,17.0,Detroit Red Wings,DET
+92,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040533,2022020405,Hit,33,HIT,David Perron hit Erik Cernak,2022-12-07T00:35:53Z,1,16:18,03:42,0,0,17.0,Detroit Red Wings,DET
+93,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405180,2022020405,Missed Shot,180,MISSED_SHOT,Steven Stamkos Wide of Net Ville Husso,2022-12-07T00:36:14Z,1,16:39,03:21,0,0,14.0,Tampa Bay Lightning,TBL
+94,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040586,2022020405,Giveaway,86,GIVEAWAY,Giveaway by Steven Stamkos,2022-12-07T00:36:27Z,1,16:52,03:08,0,0,14.0,Tampa Bay Lightning,TBL
+95,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405181,2022020405,Shot,181,SHOT,Lucas Raymond Wrist Shot saved by Andrei Vasilevskiy,2022-12-07T00:36:30Z,1,16:55,03:05,0,0,17.0,Detroit Red Wings,DET
+96,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040587,2022020405,Takeaway,87,TAKEAWAY,Takeaway by Vladislav Namestnikov,2022-12-07T00:37:03Z,1,17:28,02:32,0,0,14.0,Tampa Bay Lightning,TBL
+97,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405182,2022020405,Shot,182,SHOT,Pat Maroon Wrist Shot saved by Ville Husso,2022-12-07T00:37:06Z,1,17:31,02:29,0,0,14.0,Tampa Bay Lightning,TBL
+98,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040588,2022020405,Takeaway,88,TAKEAWAY,Takeaway by Pat Maroon,2022-12-07T00:37:07Z,1,17:32,02:28,0,0,14.0,Tampa Bay Lightning,TBL
+99,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405183,2022020405,Missed Shot,183,MISSED_SHOT,Anthony Cirelli Wide of Net Ville Husso,2022-12-07T00:37:26Z,1,17:51,02:09,0,0,14.0,Tampa Bay Lightning,TBL
+100,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040589,2022020405,Takeaway,89,TAKEAWAY,Takeaway by Victor Hedman,2022-12-07T00:37:28Z,1,17:53,02:07,0,0,14.0,Tampa Bay Lightning,TBL
+101,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405184,2022020405,Shot,184,SHOT,Michael Rasmussen Wrist Shot saved by Andrei Vasilevskiy,2022-12-07T00:38:01Z,1,18:26,01:34,0,0,17.0,Detroit Red Wings,DET
+102,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040534,2022020405,Stoppage,34,STOP,Goalie Stopped,2022-12-07T00:38:07Z,1,18:33,01:27,0,0,,,
+103,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405185,2022020405,Missed Shot,185,MISSED_SHOT,Filip Hronek Wide of Net Andrei Vasilevskiy,2022-12-07T00:38:07Z,1,18:33,01:27,0,0,17.0,Detroit Red Wings,DET
+104,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405186,2022020405,Shot,186,SHOT,Dominik Kubalik Wrist Shot saved by Andrei Vasilevskiy,2022-12-07T00:38:07Z,1,18:33,01:27,0,0,17.0,Detroit Red Wings,DET
+105,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040590,2022020405,Faceoff,90,FACEOFF,Michael Rasmussen faceoff won against Steven Stamkos,2022-12-07T00:40:35Z,1,18:33,01:27,0,0,17.0,Detroit Red Wings,DET
+106,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405187,2022020405,Blocked Shot,187,BLOCKED_SHOT,Dominik Kubalik shot blocked shot by Nick Perbix,2022-12-07T00:40:40Z,1,18:38,01:22,0,0,14.0,Tampa Bay Lightning,TBL
+107,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040535,2022020405,Stoppage,35,STOP,Icing,2022-12-07T00:40:48Z,1,18:46,01:14,0,0,,,
+108,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040591,2022020405,Faceoff,91,FACEOFF,Steven Stamkos faceoff won against Dylan Larkin,2022-12-07T00:41:11Z,1,18:46,01:14,0,0,14.0,Tampa Bay Lightning,TBL
+109,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040536,2022020405,Hit,36,HIT,Ben Chiarot hit Nicholas Paul,2022-12-07T00:41:21Z,1,18:56,01:04,0,0,17.0,Detroit Red Wings,DET
+110,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405188,2022020405,Missed Shot,188,MISSED_SHOT,Dylan Larkin Wide of Net Andrei Vasilevskiy,2022-12-07T00:41:39Z,1,19:14,00:46,0,0,17.0,Detroit Red Wings,DET
+111,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405189,2022020405,Blocked Shot,189,BLOCKED_SHOT,Dylan Larkin shot blocked shot by Victor Hedman,2022-12-07T00:41:42Z,1,19:17,00:43,0,0,14.0,Tampa Bay Lightning,TBL
+112,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040537,2022020405,Hit,37,HIT,Ben Chiarot hit Alex Killorn,2022-12-07T00:41:50Z,1,19:25,00:35,0,0,17.0,Detroit Red Wings,DET
+113,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040538,2022020405,Stoppage,38,STOP,Offside,2022-12-07T00:42:14Z,1,19:48,00:12,0,0,,,
+114,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040592,2022020405,Takeaway,92,TAKEAWAY,Takeaway by Joe Veleno,2022-12-07T00:42:14Z,1,19:48,00:12,0,0,17.0,Detroit Red Wings,DET
+115,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040593,2022020405,Faceoff,93,FACEOFF,Joe Veleno faceoff won against Anthony Cirelli,2022-12-07T00:42:38Z,1,19:48,00:12,0,0,17.0,Detroit Red Wings,DET
+116,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040539,2022020405,Period End,39,PERIOD_END,End of 1st Period,2022-12-07T00:42:49Z,1,20:00,00:00,0,0,,,
+117,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040542,2022020405,Period Official,42,PERIOD_OFFICIAL,Period Official,2022-12-07T00:58:11Z,1,20:00,00:00,0,0,,,
+118,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040543,2022020405,Period Ready,43,PERIOD_READY,Period Ready,2022-12-07T00:58:15Z,2,00:00,20:00,0,0,,,
+119,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040594,2022020405,Period Start,94,PERIOD_START,Period Start,2022-12-07T01:01:33Z,2,00:00,20:00,0,0,,,
+120,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040595,2022020405,Faceoff,95,FACEOFF,Anthony Cirelli faceoff won against Andrew Copp,2022-12-07T01:01:33Z,2,00:00,20:00,0,0,14.0,Tampa Bay Lightning,TBL
+121,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405190,2022020405,Shot,190,SHOT,Victor Hedman Wrist Shot saved by Ville Husso,2022-12-07T01:02:17Z,2,00:44,19:16,0,0,14.0,Tampa Bay Lightning,TBL
+122,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040596,2022020405,Takeaway,96,TAKEAWAY,Takeaway by Nikita Kucherov,2022-12-07T01:02:30Z,2,00:57,19:03,0,0,14.0,Tampa Bay Lightning,TBL
+123,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040544,2022020405,Hit,44,HIT,Moritz Seider hit Brandon Hagel,2022-12-07T01:02:35Z,2,01:02,18:58,0,0,17.0,Detroit Red Wings,DET
+124,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040545,2022020405,Hit,45,HIT,Erik Cernak hit Dylan Larkin,2022-12-07T01:02:55Z,2,01:22,18:38,0,0,14.0,Tampa Bay Lightning,TBL
+125,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040546,2022020405,Stoppage,46,STOP,Puck Frozen,2022-12-07T01:03:06Z,2,01:32,18:28,0,0,,,
+126,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040597,2022020405,Faceoff,97,FACEOFF,Steven Stamkos faceoff won against Michael Rasmussen,2022-12-07T01:03:34Z,2,01:32,18:28,0,0,14.0,Tampa Bay Lightning,TBL
+127,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405353,2022020405,Giveaway,353,GIVEAWAY,Giveaway by Mikhail Sergachev,2022-12-07T01:03:52Z,2,01:50,18:10,0,0,14.0,Tampa Bay Lightning,TBL
+128,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405191,2022020405,Goal,191,GOAL,"Michael Rasmussen (4) Wrist Shot, assists: Dominik Kubalik (15), Filip Hronek (17)",2022-12-07T01:03:56Z,2,01:54,18:06,0,1,17.0,Detroit Red Wings,DET
+129,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040598,2022020405,Faceoff,98,FACEOFF,Pierre-Edouard Bellemare faceoff won against Joe Veleno,2022-12-07T01:04:44Z,2,01:54,18:06,0,1,14.0,Tampa Bay Lightning,TBL
+130,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040548,2022020405,Hit,48,HIT,Austin Czarnik hit Ian Cole,2022-12-07T01:04:59Z,2,02:09,17:51,0,1,17.0,Detroit Red Wings,DET
+131,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405192,2022020405,Blocked Shot,192,BLOCKED_SHOT,Austin Czarnik shot blocked shot by Pierre-Edouard Bellemare,2022-12-07T01:05:07Z,2,02:17,17:43,0,1,14.0,Tampa Bay Lightning,TBL
+132,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405306,2022020405,Missed Shot,306,MISSED_SHOT,Corey Perry Wide of Net Ville Husso,2022-12-07T01:05:19Z,2,02:29,17:31,0,1,14.0,Tampa Bay Lightning,TBL
+133,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405194,2022020405,Blocked Shot,194,BLOCKED_SHOT,Ross Colton shot blocked shot by Jordan Oesterle,2022-12-07T01:05:41Z,2,02:51,17:09,0,1,17.0,Detroit Red Wings,DET
+134,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405538,2022020405,Penalty,538,PENALTY,Austin Czarnik Hooking against Corey Perry,2022-12-07T01:05:43Z,2,02:53,17:07,0,1,17.0,Detroit Red Wings,DET
+135,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040599,2022020405,Faceoff,99,FACEOFF,Steven Stamkos faceoff won against Dylan Larkin,2022-12-07T01:06:15Z,2,02:53,17:07,0,1,14.0,Tampa Bay Lightning,TBL
+136,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405196,2022020405,Missed Shot,196,MISSED_SHOT,Steven Stamkos Wide of Net Ville Husso,2022-12-07T01:06:47Z,2,03:25,16:35,0,1,14.0,Tampa Bay Lightning,TBL
+137,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405195,2022020405,Shot,195,SHOT,Brayden Point Wrist Shot saved by Ville Husso,2022-12-07T01:06:49Z,2,03:27,16:33,0,1,14.0,Tampa Bay Lightning,TBL
+138,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405197,2022020405,Blocked Shot,197,BLOCKED_SHOT,Nikita Kucherov shot blocked shot by Olli Maatta,2022-12-07T01:07:11Z,2,03:49,16:11,0,1,17.0,Detroit Red Wings,DET
+139,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405198,2022020405,Shot,198,SHOT,Andrew Copp Wrist Shot saved by Andrei Vasilevskiy,2022-12-07T01:07:39Z,2,04:16,15:44,0,1,17.0,Detroit Red Wings,DET
+140,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405199,2022020405,Missed Shot,199,MISSED_SHOT,Victor Hedman Wide of Net Ville Husso,2022-12-07T01:08:05Z,2,04:43,15:17,0,1,14.0,Tampa Bay Lightning,TBL
+141,14,17,Tampa Bay Lightning,Detroit Red Wings,202202040550,2022020405,Hit,50,HIT,Jake Walman hit Erik Cernak,2022-12-07T01:08:23Z,2,05:01,14:59,0,1,17.0,Detroit Red Wings,DET
+142,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405251,2022020405,Hit,251,HIT,Ross Colton hit Dylan Larkin,2022-12-07T01:08:36Z,2,05:14,14:46,0,1,14.0,Tampa Bay Lightning,TBL
+143,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405200,2022020405,Missed Shot,200,MISSED_SHOT,Pat Maroon Wide of Net Ville Husso,2022-12-07T01:08:58Z,2,05:36,14:24,0,1,14.0,Tampa Bay Lightning,TBL
+144,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405451,2022020405,Missed Shot,451,MISSED_SHOT,Pat Maroon Wide of Net Ville Husso,2022-12-07T01:09:10Z,2,05:48,14:12,0,1,14.0,Tampa Bay Lightning,TBL
+145,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405100,2022020405,Takeaway,100,TAKEAWAY,Takeaway by Jake Walman,2022-12-07T01:09:41Z,2,06:19,13:41,0,1,17.0,Detroit Red Wings,DET
+146,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405252,2022020405,Hit,252,HIT,Joe Veleno hit Victor Hedman,2022-12-07T01:10:01Z,2,06:39,13:21,0,1,17.0,Detroit Red Wings,DET
+147,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405253,2022020405,Hit,253,HIT,Joe Veleno hit Victor Hedman,2022-12-07T01:10:15Z,2,06:53,13:07,0,1,17.0,Detroit Red Wings,DET
+148,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405351,2022020405,Giveaway,351,GIVEAWAY,Giveaway by Zach Bogosian,2022-12-07T01:10:39Z,2,07:17,12:43,0,1,14.0,Tampa Bay Lightning,TBL
+149,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405254,2022020405,Stoppage,254,STOP,Icing,2022-12-07T01:10:46Z,2,07:24,12:36,0,1,,,
+150,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405352,2022020405,Faceoff,352,FACEOFF,Joe Veleno faceoff won against Brayden Point,2022-12-07T01:11:25Z,2,07:24,12:36,0,1,17.0,Detroit Red Wings,DET
+151,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405255,2022020405,Stoppage,255,STOP,Puck in Benches,2022-12-07T01:11:29Z,2,07:28,12:32,0,1,,,
+152,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405354,2022020405,Faceoff,354,FACEOFF,Michael Rasmussen faceoff won against Brayden Point,2022-12-07T01:13:49Z,2,07:28,12:32,0,1,17.0,Detroit Red Wings,DET
+153,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405256,2022020405,Hit,256,HIT,Brayden Point hit Michael Rasmussen,2022-12-07T01:13:58Z,2,07:37,12:23,0,1,14.0,Tampa Bay Lightning,TBL
+154,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405356,2022020405,Takeaway,356,TAKEAWAY,Takeaway by Brandon Hagel,2022-12-07T01:14:14Z,2,07:53,12:07,0,1,14.0,Tampa Bay Lightning,TBL
+155,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405452,2022020405,Shot,452,SHOT,Brayden Point Tip-In saved by Ville Husso,2022-12-07T01:14:36Z,2,08:15,11:45,0,1,14.0,Tampa Bay Lightning,TBL
+156,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405257,2022020405,Hit,257,HIT,Moritz Seider hit Brandon Hagel,2022-12-07T01:14:43Z,2,08:22,11:38,0,1,17.0,Detroit Red Wings,DET
+157,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405357,2022020405,Takeaway,357,TAKEAWAY,Takeaway by Andrew Copp,2022-12-07T01:14:50Z,2,08:29,11:31,0,1,17.0,Detroit Red Wings,DET
+158,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405453,2022020405,Blocked Shot,453,BLOCKED_SHOT,Oskar Sundqvist shot blocked shot by Victor Hedman,2022-12-07T01:15:19Z,2,08:58,11:02,0,1,14.0,Tampa Bay Lightning,TBL
+159,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405258,2022020405,Stoppage,258,STOP,Puck in Netting,2022-12-07T01:15:19Z,2,08:59,11:01,0,1,,,
+160,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405358,2022020405,Faceoff,358,FACEOFF,Dylan Larkin faceoff won against Nicholas Paul,2022-12-07T01:15:48Z,2,08:59,11:01,0,1,17.0,Detroit Red Wings,DET
+161,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405454,2022020405,Missed Shot,454,MISSED_SHOT,Filip Hronek Wide of Net Andrei Vasilevskiy,2022-12-07T01:15:53Z,2,09:04,10:56,0,1,17.0,Detroit Red Wings,DET
+162,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405259,2022020405,Stoppage,259,STOP,Puck Frozen,2022-12-07T01:16:05Z,2,09:17,10:43,0,1,,,
+163,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405359,2022020405,Faceoff,359,FACEOFF,Lucas Raymond faceoff won against Nicholas Paul,2022-12-07T01:16:32Z,2,09:17,10:43,0,1,17.0,Detroit Red Wings,DET
+164,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405455,2022020405,Shot,455,SHOT,Dylan Larkin Wrist Shot saved by Andrei Vasilevskiy,2022-12-07T01:16:35Z,2,09:20,10:40,0,1,17.0,Detroit Red Wings,DET
+165,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405307,2022020405,Missed Shot,307,MISSED_SHOT,Jake Walman Wide of Net Andrei Vasilevskiy,2022-12-07T01:16:39Z,2,09:24,10:36,0,1,17.0,Detroit Red Wings,DET
+166,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405456,2022020405,Blocked Shot,456,BLOCKED_SHOT,Nick Perbix shot blocked shot by Jake Walman,2022-12-07T01:17:15Z,2,10:00,10:00,0,1,17.0,Detroit Red Wings,DET
+167,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405260,2022020405,Hit,260,HIT,Steven Stamkos hit David Perron,2022-12-07T01:17:21Z,2,10:06,09:54,0,1,14.0,Tampa Bay Lightning,TBL
+168,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405261,2022020405,Hit,261,HIT,Pierre-Edouard Bellemare hit Joe Veleno,2022-12-07T01:17:53Z,2,10:38,09:22,0,1,14.0,Tampa Bay Lightning,TBL
+169,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405262,2022020405,Hit,262,HIT,Filip Hronek hit Victor Hedman,2022-12-07T01:18:13Z,2,10:58,09:02,0,1,17.0,Detroit Red Wings,DET
+170,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405457,2022020405,Shot,457,SHOT,Michael Rasmussen Wrist Shot saved by Andrei Vasilevskiy,2022-12-07T01:18:47Z,2,11:32,08:28,0,1,17.0,Detroit Red Wings,DET
+171,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405263,2022020405,Hit,263,HIT,Zach Bogosian hit Dominik Kubalik,2022-12-07T01:19:09Z,2,11:54,08:06,0,1,14.0,Tampa Bay Lightning,TBL
+172,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405360,2022020405,Takeaway,360,TAKEAWAY,Takeaway by Nikita Kucherov,2022-12-07T01:19:18Z,2,12:03,07:57,0,1,14.0,Tampa Bay Lightning,TBL
+173,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405264,2022020405,Stoppage,264,STOP,Offside,2022-12-07T01:19:44Z,2,12:29,07:31,0,1,,,
+174,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405361,2022020405,Faceoff,361,FACEOFF,Andrew Copp faceoff won against Anthony Cirelli,2022-12-07T01:22:02Z,2,12:29,07:31,0,1,17.0,Detroit Red Wings,DET
+175,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405265,2022020405,Hit,265,HIT,Adam Erne hit Nick Perbix,2022-12-07T01:22:31Z,2,12:58,07:02,0,1,17.0,Detroit Red Wings,DET
+176,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405266,2022020405,Hit,266,HIT,Adam Erne hit Nick Perbix,2022-12-07T01:22:41Z,2,13:08,06:52,0,1,17.0,Detroit Red Wings,DET
+177,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405267,2022020405,Hit,267,HIT,Pat Maroon hit Oskar Sundqvist,2022-12-07T01:22:54Z,2,13:21,06:39,0,1,14.0,Tampa Bay Lightning,TBL
+178,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405268,2022020405,Hit,268,HIT,Nicholas Paul hit Olli Maatta,2022-12-07T01:23:18Z,2,13:45,06:15,0,1,14.0,Tampa Bay Lightning,TBL
+179,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405269,2022020405,Hit,269,HIT,Erik Cernak hit Lucas Raymond,2022-12-07T01:23:38Z,2,14:05,05:55,0,1,14.0,Tampa Bay Lightning,TBL
+180,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405270,2022020405,Stoppage,270,STOP,Puck in Netting,2022-12-07T01:23:43Z,2,14:10,05:50,0,1,,,
+181,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405458,2022020405,Blocked Shot,458,BLOCKED_SHOT,Dylan Larkin shot blocked shot by Ian Cole,2022-12-07T01:23:43Z,2,14:10,05:50,0,1,14.0,Tampa Bay Lightning,TBL
+182,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405362,2022020405,Faceoff,362,FACEOFF,Austin Czarnik faceoff won against Pierre-Edouard Bellemare,2022-12-07T01:26:19Z,2,14:10,05:50,0,1,17.0,Detroit Red Wings,DET
+183,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405459,2022020405,Shot,459,SHOT,Jonatan Berggren Wrist Shot saved by Andrei Vasilevskiy,2022-12-07T01:26:22Z,2,14:13,05:47,0,1,17.0,Detroit Red Wings,DET
+184,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405271,2022020405,Hit,271,HIT,Ross Colton hit Joe Veleno,2022-12-07T01:26:55Z,2,14:46,05:14,0,1,14.0,Tampa Bay Lightning,TBL
+185,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405460,2022020405,Shot,460,SHOT,Brayden Point Wrist Shot saved by Ville Husso,2022-12-07T01:27:30Z,2,15:21,04:39,0,1,14.0,Tampa Bay Lightning,TBL
+186,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405363,2022020405,Takeaway,363,TAKEAWAY,Takeaway by Brandon Hagel,2022-12-07T01:27:40Z,2,15:31,04:29,0,1,14.0,Tampa Bay Lightning,TBL
+187,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405272,2022020405,Hit,272,HIT,Michael Rasmussen hit Erik Cernak,2022-12-07T01:27:47Z,2,15:38,04:22,0,1,17.0,Detroit Red Wings,DET
+188,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405461,2022020405,Shot,461,SHOT,Dominik Kubalik Slap Shot saved by Andrei Vasilevskiy,2022-12-07T01:28:06Z,2,15:57,04:03,0,1,17.0,Detroit Red Wings,DET
+189,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405364,2022020405,Giveaway,364,GIVEAWAY,Giveaway by Brayden Point,2022-12-07T01:28:23Z,2,16:14,03:46,0,1,14.0,Tampa Bay Lightning,TBL
+190,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405273,2022020405,Hit,273,HIT,Olli Maatta hit Anthony Cirelli,2022-12-07T01:29:02Z,2,16:53,03:07,0,1,17.0,Detroit Red Wings,DET
+191,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405650,2022020405,Penalty,650,PENALTY,Vladislav Namestnikov Cross-checking against Olli Maatta,2022-12-07T01:29:32Z,2,17:23,02:37,0,1,14.0,Tampa Bay Lightning,TBL
+192,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405365,2022020405,Faceoff,365,FACEOFF,Steven Stamkos faceoff won against Dylan Larkin,2022-12-07T01:30:25Z,2,17:23,02:37,0,1,14.0,Tampa Bay Lightning,TBL
+193,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405462,2022020405,Missed Shot,462,MISSED_SHOT,David Perron Wide of Net Andrei Vasilevskiy,2022-12-07T01:31:00Z,2,17:58,02:02,0,1,17.0,Detroit Red Wings,DET
+194,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405366,2022020405,Takeaway,366,TAKEAWAY,Takeaway by Pierre-Edouard Bellemare,2022-12-07T01:31:02Z,2,18:00,02:00,0,1,14.0,Tampa Bay Lightning,TBL
+195,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405660,2022020405,Penalty,660,PENALTY,Brandon Hagel Interference against Dominik Kubalik,2022-12-07T01:31:39Z,2,18:36,01:24,0,1,14.0,Tampa Bay Lightning,TBL
+196,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405663,2022020405,Penalty,663,PENALTY,Dominik Kubalik Holding against Brandon Hagel,2022-12-07T01:31:39Z,2,18:36,01:24,0,1,17.0,Detroit Red Wings,DET
+197,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405367,2022020405,Faceoff,367,FACEOFF,Andrew Copp faceoff won against Steven Stamkos,2022-12-07T01:32:43Z,2,18:36,01:24,0,1,17.0,Detroit Red Wings,DET
+198,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405463,2022020405,Missed Shot,463,MISSED_SHOT,Nicholas Paul Goalpost Ville Husso,2022-12-07T01:33:27Z,2,19:10,00:50,0,1,14.0,Tampa Bay Lightning,TBL
+199,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405368,2022020405,Takeaway,368,TAKEAWAY,Takeaway by Nicholas Paul,2022-12-07T01:33:29Z,2,19:12,00:48,0,1,14.0,Tampa Bay Lightning,TBL
+200,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405464,2022020405,Shot,464,SHOT,Jonatan Berggren Wrist Shot saved by Andrei Vasilevskiy,2022-12-07T01:33:45Z,2,19:28,00:32,0,1,17.0,Detroit Red Wings,DET
+201,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405275,2022020405,Stoppage,275,STOP,Goalie Stopped,2022-12-07T01:34:03Z,2,19:45,00:15,0,1,,,
+202,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405465,2022020405,Shot,465,SHOT,Nick Perbix Wrist Shot saved by Ville Husso,2022-12-07T01:34:03Z,2,19:45,00:15,0,1,14.0,Tampa Bay Lightning,TBL
+203,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405369,2022020405,Faceoff,369,FACEOFF,Brayden Point faceoff won against Michael Rasmussen,2022-12-07T01:35:02Z,2,19:45,00:15,0,1,14.0,Tampa Bay Lightning,TBL
+204,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405466,2022020405,Blocked Shot,466,BLOCKED_SHOT,Nikita Kucherov shot blocked shot by Filip Hronek,2022-12-07T01:35:11Z,2,19:54,00:06,0,1,17.0,Detroit Red Wings,DET
+205,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405276,2022020405,Period End,276,PERIOD_END,End of 2nd Period,2022-12-07T01:35:17Z,2,20:00,00:00,0,1,,,
+206,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405279,2022020405,Period Official,279,PERIOD_OFFICIAL,Period Official,2022-12-07T01:50:31Z,2,20:00,00:00,0,1,,,
+207,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405280,2022020405,Period Ready,280,PERIOD_READY,Period Ready,2022-12-07T01:50:34Z,3,00:00,20:00,0,1,,,
+208,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405370,2022020405,Period Start,370,PERIOD_START,Period Start,2022-12-07T01:54:04Z,3,00:00,20:00,0,1,,,
+209,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405371,2022020405,Faceoff,371,FACEOFF,Andrew Copp faceoff won against Steven Stamkos,2022-12-07T01:54:04Z,3,00:00,20:00,0,1,17.0,Detroit Red Wings,DET
+210,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405851,2022020405,Missed Shot,851,MISSED_SHOT,Nikita Kucherov Wide of Net Ville Husso,2022-12-07T01:54:30Z,3,00:26,19:34,0,1,14.0,Tampa Bay Lightning,TBL
+211,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405281,2022020405,Stoppage,281,STOP,Goalie Stopped,2022-12-07T01:54:32Z,3,00:28,19:32,0,1,,,
+212,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405852,2022020405,Shot,852,SHOT,Nick Perbix Slap Shot saved by Ville Husso,2022-12-07T01:54:32Z,3,00:28,19:32,0,1,14.0,Tampa Bay Lightning,TBL
+213,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405372,2022020405,Faceoff,372,FACEOFF,Brayden Point faceoff won against Dylan Larkin,2022-12-07T01:55:10Z,3,00:28,19:32,0,1,14.0,Tampa Bay Lightning,TBL
+214,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405853,2022020405,Missed Shot,853,MISSED_SHOT,Anthony Cirelli Wide of Net Ville Husso,2022-12-07T01:55:18Z,3,00:36,19:24,0,1,14.0,Tampa Bay Lightning,TBL
+215,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405855,2022020405,Blocked Shot,855,BLOCKED_SHOT,Brayden Point shot blocked shot by Olli Maatta,2022-12-07T01:55:25Z,3,00:43,19:17,0,1,17.0,Detroit Red Wings,DET
+216,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405282,2022020405,Stoppage,282,STOP,Goalie Stopped,2022-12-07T01:55:27Z,3,00:45,19:15,0,1,,,
+217,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405854,2022020405,Shot,854,SHOT,Anthony Cirelli Wrist Shot saved by Ville Husso,2022-12-07T01:55:27Z,3,00:45,19:15,0,1,14.0,Tampa Bay Lightning,TBL
+218,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405373,2022020405,Faceoff,373,FACEOFF,Brayden Point faceoff won against Dylan Larkin,2022-12-07T01:56:01Z,3,00:45,19:15,0,1,14.0,Tampa Bay Lightning,TBL
+219,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405283,2022020405,Hit,283,HIT,Moritz Seider hit Anthony Cirelli,2022-12-07T01:56:22Z,3,01:06,18:54,0,1,17.0,Detroit Red Wings,DET
+220,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405856,2022020405,Blocked Shot,856,BLOCKED_SHOT,Pat Maroon shot blocked shot by Moritz Seider,2022-12-07T01:56:49Z,3,01:33,18:27,0,1,17.0,Detroit Red Wings,DET
+221,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405284,2022020405,Stoppage,284,STOP,Icing,2022-12-07T01:56:55Z,3,01:39,18:21,0,1,,,
+222,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405374,2022020405,Faceoff,374,FACEOFF,Nicholas Paul faceoff won against Michael Rasmussen,2022-12-07T01:57:27Z,3,01:39,18:21,0,1,14.0,Tampa Bay Lightning,TBL
+223,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405285,2022020405,Stoppage,285,STOP,Goalie Stopped,2022-12-07T01:57:31Z,3,01:43,18:17,0,1,,,
+224,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405857,2022020405,Shot,857,SHOT,Mikhail Sergachev Wrist Shot saved by Ville Husso,2022-12-07T01:57:31Z,3,01:43,18:17,0,1,14.0,Tampa Bay Lightning,TBL
+225,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405375,2022020405,Faceoff,375,FACEOFF,Michael Rasmussen faceoff won against Nicholas Paul,2022-12-07T01:57:50Z,3,01:43,18:17,0,1,17.0,Detroit Red Wings,DET
+226,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405286,2022020405,Hit,286,HIT,Pat Maroon hit Jordan Oesterle,2022-12-07T01:58:19Z,3,02:12,17:48,0,1,14.0,Tampa Bay Lightning,TBL
+227,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405287,2022020405,Hit,287,HIT,Ross Colton hit Jordan Oesterle,2022-12-07T01:58:36Z,3,02:29,17:31,0,1,14.0,Tampa Bay Lightning,TBL
+228,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405376,2022020405,Takeaway,376,TAKEAWAY,Takeaway by Jonatan Berggren,2022-12-07T01:58:45Z,3,02:38,17:22,0,1,17.0,Detroit Red Wings,DET
+229,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405288,2022020405,Hit,288,HIT,Filip Hronek hit Pierre-Edouard Bellemare,2022-12-07T01:59:20Z,3,03:13,16:47,0,1,17.0,Detroit Red Wings,DET
+230,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405289,2022020405,Hit,289,HIT,Austin Czarnik hit Ross Colton,2022-12-07T01:59:30Z,3,03:23,16:37,0,1,17.0,Detroit Red Wings,DET
+231,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405290,2022020405,Stoppage,290,STOP,Puck in Netting,2022-12-07T01:59:49Z,3,03:41,16:19,0,1,,,
+232,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405377,2022020405,Faceoff,377,FACEOFF,Steven Stamkos faceoff won against Andrew Copp,2022-12-07T02:00:27Z,3,03:41,16:19,0,1,14.0,Tampa Bay Lightning,TBL
+233,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405858,2022020405,Shot,858,SHOT,Nick Perbix Snap Shot saved by Ville Husso,2022-12-07T02:00:28Z,3,03:42,16:18,0,1,14.0,Tampa Bay Lightning,TBL
+234,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405859,2022020405,Shot,859,SHOT,Nick Perbix Snap Shot saved by Ville Husso,2022-12-07T02:00:48Z,3,04:02,15:58,0,1,14.0,Tampa Bay Lightning,TBL
+235,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405291,2022020405,Stoppage,291,STOP,Goalie Stopped,2022-12-07T02:00:51Z,3,04:06,15:54,0,1,,,
+236,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405860,2022020405,Shot,860,SHOT,Nikita Kucherov Backhand saved by Ville Husso,2022-12-07T02:00:51Z,3,04:06,15:54,0,1,14.0,Tampa Bay Lightning,TBL
+237,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405378,2022020405,Faceoff,378,FACEOFF,Brayden Point faceoff won against Dylan Larkin,2022-12-07T02:01:37Z,3,04:06,15:54,0,1,14.0,Tampa Bay Lightning,TBL
+238,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405862,2022020405,Shot,862,SHOT,Brayden Point Backhand saved by Ville Husso,2022-12-07T02:01:41Z,3,04:10,15:50,0,1,14.0,Tampa Bay Lightning,TBL
+239,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405861,2022020405,Shot,861,SHOT,Erik Cernak Snap Shot saved by Ville Husso,2022-12-07T02:01:43Z,3,04:12,15:48,0,1,14.0,Tampa Bay Lightning,TBL
+240,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405292,2022020405,Stoppage,292,STOP,Goalie Stopped,2022-12-07T02:02:15Z,3,04:45,15:15,0,1,,,
+241,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405863,2022020405,Shot,863,SHOT,David Perron Wrist Shot saved by Andrei Vasilevskiy,2022-12-07T02:02:15Z,3,04:45,15:15,0,1,17.0,Detroit Red Wings,DET
+242,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405379,2022020405,Faceoff,379,FACEOFF,Nicholas Paul faceoff won against Michael Rasmussen,2022-12-07T02:02:55Z,3,04:45,15:15,0,1,14.0,Tampa Bay Lightning,TBL
+243,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405381,2022020405,Takeaway,381,TAKEAWAY,Takeaway by Nicholas Paul,2022-12-07T02:03:20Z,3,05:10,14:50,0,1,14.0,Tampa Bay Lightning,TBL
+244,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405382,2022020405,Takeaway,382,TAKEAWAY,Takeaway by Austin Czarnik,2022-12-07T02:03:48Z,3,05:38,14:22,0,1,17.0,Detroit Red Wings,DET
+245,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405293,2022020405,Hit,293,HIT,Victor Hedman hit Joe Veleno,2022-12-07T02:03:52Z,3,05:42,14:18,0,1,14.0,Tampa Bay Lightning,TBL
+246,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405864,2022020405,Missed Shot,864,MISSED_SHOT,Austin Czarnik Wide of Net Andrei Vasilevskiy,2022-12-07T02:04:03Z,3,05:53,14:07,0,1,17.0,Detroit Red Wings,DET
+247,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405866,2022020405,Shot,866,SHOT,Olli Maatta Wrist Shot saved by Andrei Vasilevskiy,2022-12-07T02:04:05Z,3,05:55,14:05,0,1,17.0,Detroit Red Wings,DET
+248,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405865,2022020405,Goal,865,GOAL,"Jonatan Berggren (3) Tip-In, assists: Olli Maatta (8), Joe Veleno (3)",2022-12-07T02:04:10Z,3,05:59,14:01,0,2,17.0,Detroit Red Wings,DET
+249,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405383,2022020405,Faceoff,383,FACEOFF,Andrew Copp faceoff won against Steven Stamkos,2022-12-07T02:05:08Z,3,05:59,14:01,0,2,17.0,Detroit Red Wings,DET
+250,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405867,2022020405,Missed Shot,867,MISSED_SHOT,Andrew Copp Wide of Net Andrei Vasilevskiy,2022-12-07T02:05:23Z,3,06:14,13:46,0,2,17.0,Detroit Red Wings,DET
+251,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405294,2022020405,Stoppage,294,STOP,Hand Pass,2022-12-07T02:05:25Z,3,06:16,13:44,0,2,,,
+252,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405384,2022020405,Faceoff,384,FACEOFF,Anthony Cirelli faceoff won against Dylan Larkin,2022-12-07T02:07:41Z,3,06:16,13:44,0,2,14.0,Tampa Bay Lightning,TBL
+253,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405868,2022020405,Shot,868,SHOT,Anthony Cirelli Backhand saved by Ville Husso,2022-12-07T02:07:55Z,3,06:30,13:30,0,2,14.0,Tampa Bay Lightning,TBL
+254,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405869,2022020405,Shot,869,SHOT,Brayden Point Wrist Shot saved by Ville Husso,2022-12-07T02:08:00Z,3,06:35,13:25,0,2,14.0,Tampa Bay Lightning,TBL
+255,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405295,2022020405,Stoppage,295,STOP,Puck Frozen,2022-12-07T02:08:01Z,3,06:37,13:23,0,2,,,
+256,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405385,2022020405,Faceoff,385,FACEOFF,Andrew Copp faceoff won against Steven Stamkos,2022-12-07T02:08:37Z,3,06:37,13:23,0,2,17.0,Detroit Red Wings,DET
+257,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405296,2022020405,Hit,296,HIT,Olli Maatta hit Vladislav Namestnikov,2022-12-07T02:08:47Z,3,06:47,13:13,0,2,17.0,Detroit Red Wings,DET
+258,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405386,2022020405,Giveaway,386,GIVEAWAY,Giveaway by Oskar Sundqvist,2022-12-07T02:08:51Z,3,06:51,13:09,0,2,17.0,Detroit Red Wings,DET
+259,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405297,2022020405,Hit,297,HIT,Filip Hronek hit Vladislav Namestnikov,2022-12-07T02:09:09Z,3,07:09,12:51,0,2,17.0,Detroit Red Wings,DET
+260,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405298,2022020405,Stoppage,298,STOP,Goalie Stopped,2022-12-07T02:09:31Z,3,07:31,12:29,0,2,,,
+261,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405870,2022020405,Shot,870,SHOT,Adam Erne Backhand saved by Andrei Vasilevskiy,2022-12-07T02:09:31Z,3,07:31,12:29,0,2,17.0,Detroit Red Wings,DET
+262,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405387,2022020405,Faceoff,387,FACEOFF,Pius Suter faceoff won against Nicholas Paul,2022-12-07T02:10:05Z,3,07:31,12:29,0,2,17.0,Detroit Red Wings,DET
+263,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405872,2022020405,Shot,872,SHOT,Nicholas Paul Wrist Shot saved by Ville Husso,2022-12-07T02:10:16Z,3,07:42,12:18,0,2,14.0,Tampa Bay Lightning,TBL
+264,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405873,2022020405,Shot,873,SHOT,Nicholas Paul Wrist Shot saved by Ville Husso,2022-12-07T02:10:19Z,3,07:45,12:15,0,2,14.0,Tampa Bay Lightning,TBL
+265,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405871,2022020405,Blocked Shot,871,BLOCKED_SHOT,Dominik Kubalik shot blocked shot by Nick Perbix,2022-12-07T02:10:22Z,3,07:48,12:12,0,2,14.0,Tampa Bay Lightning,TBL
+266,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405874,2022020405,Missed Shot,874,MISSED_SHOT,Mikhail Sergachev Wide of Net Ville Husso,2022-12-07T02:11:20Z,3,08:46,11:14,0,2,14.0,Tampa Bay Lightning,TBL
+267,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405300,2022020405,Hit,300,HIT,Corey Perry hit Dylan Larkin,2022-12-07T02:11:47Z,3,09:13,10:47,0,2,14.0,Tampa Bay Lightning,TBL
+268,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405388,2022020405,Takeaway,388,TAKEAWAY,Takeaway by Dylan Larkin,2022-12-07T02:12:00Z,3,09:26,10:34,0,2,17.0,Detroit Red Wings,DET
+269,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405875,2022020405,Shot,875,SHOT,Lucas Raymond Snap Shot saved by Andrei Vasilevskiy,2022-12-07T02:12:03Z,3,09:29,10:31,0,2,17.0,Detroit Red Wings,DET
+270,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405310,2022020405,Shot,310,SHOT,Brayden Point Wrist Shot saved by Ville Husso,2022-12-07T02:12:06Z,3,09:32,10:28,0,2,14.0,Tampa Bay Lightning,TBL
+271,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405311,2022020405,Blocked Shot,311,BLOCKED_SHOT,Anthony Cirelli shot blocked shot by Dylan Larkin,2022-12-07T02:12:07Z,3,09:33,10:27,0,2,17.0,Detroit Red Wings,DET
+272,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405876,2022020405,Shot,876,SHOT,Brayden Point Wrist Shot saved by Ville Husso,2022-12-07T02:12:10Z,3,09:36,10:24,0,2,14.0,Tampa Bay Lightning,TBL
+273,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405312,2022020405,Shot,312,SHOT,Brandon Hagel Wrist Shot saved by Ville Husso,2022-12-07T02:12:13Z,3,09:39,10:21,0,2,14.0,Tampa Bay Lightning,TBL
+274,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405877,2022020405,Shot,877,SHOT,Anthony Cirelli Wrist Shot saved by Ville Husso,2022-12-07T02:12:23Z,3,09:49,10:11,0,2,14.0,Tampa Bay Lightning,TBL
+275,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405308,2022020405,Shot,308,SHOT,Brayden Point Wrist Shot saved by Ville Husso,2022-12-07T02:12:27Z,3,09:53,10:07,0,2,14.0,Tampa Bay Lightning,TBL
+276,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405702,2022020405,Hit,702,HIT,Moritz Seider hit Anthony Cirelli,2022-12-07T02:12:38Z,3,10:04,09:56,0,2,17.0,Detroit Red Wings,DET
+277,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405309,2022020405,Shot,309,SHOT,Anthony Cirelli Wrist Shot saved by Ville Husso,2022-12-07T02:12:39Z,3,10:05,09:55,0,2,14.0,Tampa Bay Lightning,TBL
+278,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405878,2022020405,Shot,878,SHOT,Anthony Cirelli Deflected saved by Ville Husso,2022-12-07T02:12:41Z,3,10:07,09:53,0,2,14.0,Tampa Bay Lightning,TBL
+279,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405703,2022020405,Stoppage,703,STOP,Net Dislodged Defensive Skater,2022-12-07T02:12:46Z,3,10:11,09:49,0,2,,,
+280,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405389,2022020405,Faceoff,389,FACEOFF,Steven Stamkos faceoff won against Andrew Copp,2022-12-07T02:15:29Z,3,10:11,09:49,0,2,14.0,Tampa Bay Lightning,TBL
+281,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405879,2022020405,Missed Shot,879,MISSED_SHOT,Mikhail Sergachev Wide of Net Ville Husso,2022-12-07T02:15:49Z,3,10:31,09:29,0,2,14.0,Tampa Bay Lightning,TBL
+282,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405880,2022020405,Missed Shot,880,MISSED_SHOT,Nikita Kucherov Wide of Net Ville Husso,2022-12-07T02:16:06Z,3,10:48,09:12,0,2,14.0,Tampa Bay Lightning,TBL
+283,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405881,2022020405,Shot,881,SHOT,Steven Stamkos Wrist Shot saved by Ville Husso,2022-12-07T02:16:16Z,3,10:58,09:02,0,2,14.0,Tampa Bay Lightning,TBL
+284,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405704,2022020405,Hit,704,HIT,Vladislav Namestnikov hit Olli Maatta,2022-12-07T02:16:19Z,3,11:01,08:59,0,2,14.0,Tampa Bay Lightning,TBL
+285,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405705,2022020405,Hit,705,HIT,Jonatan Berggren hit Pat Maroon,2022-12-07T02:16:46Z,3,11:28,08:32,0,2,17.0,Detroit Red Wings,DET
+286,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405706,2022020405,Hit,706,HIT,Jake Walman hit Nicholas Paul,2022-12-07T02:16:59Z,3,11:41,08:19,0,2,17.0,Detroit Red Wings,DET
+287,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405882,2022020405,Shot,882,SHOT,Nick Perbix Snap Shot saved by Ville Husso,2022-12-07T02:17:24Z,3,12:06,07:54,0,2,14.0,Tampa Bay Lightning,TBL
+288,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405883,2022020405,Blocked Shot,883,BLOCKED_SHOT,Moritz Seider shot blocked shot by Anthony Cirelli,2022-12-07T02:18:00Z,3,12:42,07:18,0,2,14.0,Tampa Bay Lightning,TBL
+289,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405884,2022020405,Shot,884,SHOT,Anthony Cirelli Backhand saved by Ville Husso,2022-12-07T02:18:23Z,3,13:05,06:55,0,2,14.0,Tampa Bay Lightning,TBL
+290,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405885,2022020405,Blocked Shot,885,BLOCKED_SHOT,Erik Cernak shot blocked shot by Lucas Raymond,2022-12-07T02:18:28Z,3,13:10,06:50,0,2,17.0,Detroit Red Wings,DET
+291,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405390,2022020405,Takeaway,390,TAKEAWAY,Takeaway by Oskar Sundqvist,2022-12-07T02:18:53Z,3,13:35,06:25,0,2,17.0,Detroit Red Wings,DET
+292,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405391,2022020405,Takeaway,391,TAKEAWAY,Takeaway by Nick Perbix,2022-12-07T02:19:05Z,3,13:47,06:13,0,2,14.0,Tampa Bay Lightning,TBL
+293,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405392,2022020405,Takeaway,392,TAKEAWAY,Takeaway by Vladislav Namestnikov,2022-12-07T02:19:17Z,3,13:59,06:01,0,2,14.0,Tampa Bay Lightning,TBL
+294,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405393,2022020405,Takeaway,393,TAKEAWAY,Takeaway by Oskar Sundqvist,2022-12-07T02:19:21Z,3,14:03,05:57,0,2,17.0,Detroit Red Wings,DET
+295,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405707,2022020405,Stoppage,707,STOP,Goalie Stopped,2022-12-07T02:19:57Z,3,14:39,05:21,0,2,,,
+296,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405886,2022020405,Shot,886,SHOT,Pierre-Edouard Bellemare Snap Shot saved by Ville Husso,2022-12-07T02:19:57Z,3,14:39,05:21,0,2,14.0,Tampa Bay Lightning,TBL
+297,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405394,2022020405,Faceoff,394,FACEOFF,Steven Stamkos faceoff won against Joe Veleno,2022-12-07T02:22:15Z,3,14:39,05:21,0,2,14.0,Tampa Bay Lightning,TBL
+298,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405887,2022020405,Shot,887,SHOT,Nikita Kucherov Wrist Shot saved by Ville Husso,2022-12-07T02:22:22Z,3,14:46,05:14,0,2,14.0,Tampa Bay Lightning,TBL
+299,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405888,2022020405,Goal,888,GOAL,"Steven Stamkos (14) Slap Shot, assists: Victor Hedman (10), Corey Perry (8)",2022-12-07T02:22:29Z,3,14:52,05:08,1,2,14.0,Tampa Bay Lightning,TBL
+300,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405395,2022020405,Faceoff,395,FACEOFF,Anthony Cirelli faceoff won against Dylan Larkin,2022-12-07T02:23:08Z,3,14:52,05:08,1,2,14.0,Tampa Bay Lightning,TBL
+301,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405708,2022020405,Hit,708,HIT,Erik Cernak hit Lucas Raymond,2022-12-07T02:23:19Z,3,15:03,04:57,1,2,14.0,Tampa Bay Lightning,TBL
+302,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405889,2022020405,Hit,889,HIT,David Perron hit Ian Cole,2022-12-07T02:23:43Z,3,15:27,04:33,1,2,17.0,Detroit Red Wings,DET
+303,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405890,2022020405,Shot,890,SHOT,Victor Hedman Wrist Shot saved by Ville Husso,2022-12-07T02:24:20Z,3,16:04,03:56,1,2,14.0,Tampa Bay Lightning,TBL
+304,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405709,2022020405,Stoppage,709,STOP,Icing,2022-12-07T02:24:28Z,3,16:11,03:49,1,2,,,
+305,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405396,2022020405,Faceoff,396,FACEOFF,Brayden Point faceoff won against Andrew Copp,2022-12-07T02:25:26Z,3,16:11,03:49,1,2,14.0,Tampa Bay Lightning,TBL
+306,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405397,2022020405,Giveaway,397,GIVEAWAY,Giveaway by Nikita Kucherov,2022-12-07T02:25:33Z,3,16:18,03:42,1,2,14.0,Tampa Bay Lightning,TBL
+307,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405891,2022020405,Goal,891,GOAL,"Adam Erne (4) Wrist Shot, assists: Andrew Copp (12)",2022-12-07T02:25:37Z,3,16:22,03:38,1,3,17.0,Detroit Red Wings,DET
+308,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405398,2022020405,Faceoff,398,FACEOFF,Michael Rasmussen faceoff won against Anthony Cirelli,2022-12-07T02:26:19Z,3,16:22,03:38,1,3,17.0,Detroit Red Wings,DET
+309,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405892,2022020405,Blocked Shot,892,BLOCKED_SHOT,Pius Suter shot blocked shot by Mikhail Sergachev,2022-12-07T02:26:57Z,3,17:00,03:00,1,3,14.0,Tampa Bay Lightning,TBL
+310,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405399,2022020405,Giveaway,399,GIVEAWAY,Giveaway by Alex Killorn,2022-12-07T02:27:17Z,3,17:20,02:40,1,3,14.0,Tampa Bay Lightning,TBL
+311,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405893,2022020405,Goal,893,GOAL,"Brayden Point (11) Backhand, assists: Alex Killorn (13), Nikita Kucherov (26)",2022-12-07T02:27:31Z,3,17:34,02:26,2,3,14.0,Tampa Bay Lightning,TBL
+312,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405801,2022020405,Faceoff,801,FACEOFF,Dylan Larkin faceoff won against Nicholas Paul,2022-12-07T02:28:19Z,3,17:34,02:26,2,3,17.0,Detroit Red Wings,DET
+313,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405894,2022020405,Shot,894,SHOT,Nicholas Paul Snap Shot saved by Ville Husso,2022-12-07T02:28:44Z,3,17:59,02:01,2,3,14.0,Tampa Bay Lightning,TBL
+314,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405895,2022020405,Shot,895,SHOT,Anthony Cirelli Snap Shot saved by Ville Husso,2022-12-07T02:28:49Z,3,18:04,01:56,2,3,14.0,Tampa Bay Lightning,TBL
+315,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405710,2022020405,Hit,710,HIT,Anthony Cirelli hit Lucas Raymond,2022-12-07T02:28:52Z,3,18:07,01:53,2,3,14.0,Tampa Bay Lightning,TBL
+316,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405802,2022020405,Takeaway,802,TAKEAWAY,Takeaway by Oskar Sundqvist,2022-12-07T02:29:13Z,3,18:28,01:32,2,3,17.0,Detroit Red Wings,DET
+317,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405803,2022020405,Takeaway,803,TAKEAWAY,Takeaway by David Perron,2022-12-07T02:29:38Z,3,18:53,01:07,2,3,17.0,Detroit Red Wings,DET
+318,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405711,2022020405,Stoppage,711,STOP,Icing,2022-12-07T02:29:42Z,3,18:57,01:03,2,3,,,
+319,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405804,2022020405,Faceoff,804,FACEOFF,Andrew Copp faceoff won against Steven Stamkos,2022-12-07T02:30:07Z,3,18:57,01:03,2,3,17.0,Detroit Red Wings,DET
+320,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405712,2022020405,Stoppage,712,STOP,Icing,2022-12-07T02:30:17Z,3,19:05,00:55,2,3,,,
+321,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405805,2022020405,Faceoff,805,FACEOFF,Steven Stamkos faceoff won against Andrew Copp,2022-12-07T02:30:37Z,3,19:05,00:55,2,3,14.0,Tampa Bay Lightning,TBL
+322,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405896,2022020405,Shot,896,SHOT,Nikita Kucherov Wrist Shot saved by Ville Husso,2022-12-07T02:30:43Z,3,19:12,00:48,2,3,14.0,Tampa Bay Lightning,TBL
+323,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405713,2022020405,Hit,713,HIT,Olli Maatta hit Corey Perry,2022-12-07T02:30:47Z,3,19:16,00:44,2,3,17.0,Detroit Red Wings,DET
+324,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405714,2022020405,Hit,714,HIT,Olli Maatta hit Alex Killorn,2022-12-07T02:30:55Z,3,19:24,00:36,2,3,17.0,Detroit Red Wings,DET
+325,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405897,2022020405,Goal,897,GOAL,"David Perron (8) Poke, assists: Andrew Copp (13), Filip Hronek (18)",2022-12-07T02:31:06Z,3,19:35,00:25,2,4,17.0,Detroit Red Wings,DET
+326,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405806,2022020405,Faceoff,806,FACEOFF,Ross Colton faceoff won against Michael Rasmussen,2022-12-07T02:31:50Z,3,19:35,00:25,2,4,14.0,Tampa Bay Lightning,TBL
+327,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405715,2022020405,Period End,715,PERIOD_END,End of 3rd Period,2022-12-07T02:32:14Z,3,20:00,00:00,2,4,,,
+328,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405718,2022020405,Period Official,718,PERIOD_OFFICIAL,Period Official,2022-12-07T02:33:28Z,3,20:00,00:00,2,4,,,
+329,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405719,2022020405,Game End,719,GAME_END,Game End,2022-12-07T02:34:32Z,3,20:00,00:00,2,4,,,
+330,14,17,Tampa Bay Lightning,Detroit Red Wings,2022020405720,2022020405,Game Official,720,GAME_OFFICIAL,Game Official,2022-12-07T02:59:26Z,3,20:00,00:00,2,4,,,

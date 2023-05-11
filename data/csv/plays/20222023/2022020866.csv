@@ -1,0 +1,299 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,30,21,Minnesota Wild,Colorado Avalanche,20220208661,2022020866,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-02-16T01:21:26Z,1,00:00,20:00,0,0,,,
+1,30,21,Minnesota Wild,Colorado Avalanche,20220208665,2022020866,Period Ready,5,PERIOD_READY,Period Ready,2023-02-16T02:52:41Z,1,00:00,20:00,0,0,,,
+2,30,21,Minnesota Wild,Colorado Avalanche,20220208668,2022020866,Period Start,8,PERIOD_START,Period Start,2023-02-16T02:52:47Z,1,00:00,20:00,0,0,,,
+3,30,21,Minnesota Wild,Colorado Avalanche,20220208669,2022020866,Faceoff,9,FACEOFF,Joel Eriksson Ek faceoff won against Nathan MacKinnon,2023-02-16T02:52:47Z,1,00:00,20:00,0,0,30.0,Minnesota Wild,MIN
+4,30,21,Minnesota Wild,Colorado Avalanche,2022020866163,2022020866,Hit,163,HIT,Josh Manson hit Brandon Duhaime,2023-02-16T02:52:51Z,1,00:04,19:56,0,0,21.0,Colorado Avalanche,COL
+5,30,21,Minnesota Wild,Colorado Avalanche,2022020866101,2022020866,Stoppage,101,STOP,Puck in Benches,2023-02-16T02:52:55Z,1,00:08,19:52,0,0,,,
+6,30,21,Minnesota Wild,Colorado Avalanche,202202086610,2022020866,Faceoff,10,FACEOFF,Joel Eriksson Ek faceoff won against Nathan MacKinnon,2023-02-16T02:53:16Z,1,00:08,19:52,0,0,30.0,Minnesota Wild,MIN
+7,30,21,Minnesota Wild,Colorado Avalanche,2022020866102,2022020866,Missed Shot,102,MISSED_SHOT,Artturi Lehkonen Wide of Net Marc-Andre Fleury,2023-02-16T02:53:25Z,1,00:17,19:43,0,0,21.0,Colorado Avalanche,COL
+8,30,21,Minnesota Wild,Colorado Avalanche,202202086611,2022020866,Missed Shot,11,MISSED_SHOT,Matt Boldy Wide of Net Alexandar Georgiev,2023-02-16T02:53:38Z,1,00:30,19:30,0,0,30.0,Minnesota Wild,MIN
+9,30,21,Minnesota Wild,Colorado Avalanche,2022020866103,2022020866,Blocked Shot,103,BLOCKED_SHOT,Jared Spurgeon shot blocked shot by Artturi Lehkonen,2023-02-16T02:54:01Z,1,00:53,19:07,0,0,21.0,Colorado Avalanche,COL
+10,30,21,Minnesota Wild,Colorado Avalanche,2022020866152,2022020866,Hit,152,HIT,Jake Middleton hit Valeri Nichushkin,2023-02-16T02:54:07Z,1,00:59,19:01,0,0,30.0,Minnesota Wild,MIN
+11,30,21,Minnesota Wild,Colorado Avalanche,202202086612,2022020866,Shot,12,SHOT,Ryan Hartman Wrist Shot saved by Alexandar Georgiev,2023-02-16T02:54:47Z,1,01:39,18:21,0,0,30.0,Minnesota Wild,MIN
+12,30,21,Minnesota Wild,Colorado Avalanche,202202086613,2022020866,Shot,13,SHOT,Jonas Brodin Wrist Shot saved by Alexandar Georgiev,2023-02-16T02:54:55Z,1,01:47,18:13,0,0,30.0,Minnesota Wild,MIN
+13,30,21,Minnesota Wild,Colorado Avalanche,2022020866251,2022020866,Takeaway,251,TAKEAWAY,Takeaway by Logan O'Connor,2023-02-16T02:55:34Z,1,02:26,17:34,0,0,21.0,Colorado Avalanche,COL
+14,30,21,Minnesota Wild,Colorado Avalanche,2022020866156,2022020866,Hit,156,HIT,Jon Merrill hit Logan O'Connor,2023-02-16T02:55:41Z,1,02:33,17:27,0,0,30.0,Minnesota Wild,MIN
+15,30,21,Minnesota Wild,Colorado Avalanche,2022020866157,2022020866,Hit,157,HIT,Jordan Greenway hit Alex Newhook,2023-02-16T02:55:41Z,1,02:33,17:27,0,0,30.0,Minnesota Wild,MIN
+16,30,21,Minnesota Wild,Colorado Avalanche,2022020866104,2022020866,Shot,104,SHOT,Matt Nieto Snap Shot saved by Marc-Andre Fleury,2023-02-16T02:56:02Z,1,02:54,17:06,0,0,21.0,Colorado Avalanche,COL
+17,30,21,Minnesota Wild,Colorado Avalanche,202202086679,2022020866,Penalty,79,PENALTY,J.T. Compher Interference against Jared Spurgeon,2023-02-16T02:56:14Z,1,03:06,16:54,0,0,21.0,Colorado Avalanche,COL
+18,30,21,Minnesota Wild,Colorado Avalanche,202202086614,2022020866,Faceoff,14,FACEOFF,Joel Eriksson Ek faceoff won against Evan Rodrigues,2023-02-16T02:56:57Z,1,03:06,16:54,0,0,30.0,Minnesota Wild,MIN
+19,30,21,Minnesota Wild,Colorado Avalanche,2022020866105,2022020866,Blocked Shot,105,BLOCKED_SHOT,Alex Goligoski shot blocked shot by Valeri Nichushkin,2023-02-16T02:57:07Z,1,03:16,16:44,0,0,21.0,Colorado Avalanche,COL
+20,30,21,Minnesota Wild,Colorado Avalanche,202202086615,2022020866,Missed Shot,15,MISSED_SHOT,Joel Eriksson Ek Goalpost Alexandar Georgiev,2023-02-16T02:57:41Z,1,03:50,16:10,0,0,30.0,Minnesota Wild,MIN
+21,30,21,Minnesota Wild,Colorado Avalanche,2022020866158,2022020866,Giveaway,158,GIVEAWAY,Giveaway by Kirill Kaprizov,2023-02-16T02:57:59Z,1,04:08,15:52,0,0,30.0,Minnesota Wild,MIN
+22,30,21,Minnesota Wild,Colorado Avalanche,2022020866106,2022020866,Blocked Shot,106,BLOCKED_SHOT,Jonas Brodin shot blocked shot by Bowen Byram,2023-02-16T02:58:14Z,1,04:23,15:37,0,0,21.0,Colorado Avalanche,COL
+23,30,21,Minnesota Wild,Colorado Avalanche,2022020866159,2022020866,Giveaway,159,GIVEAWAY,Giveaway by Bowen  Byram,2023-02-16T02:58:45Z,1,04:54,15:06,0,0,21.0,Colorado Avalanche,COL
+24,30,21,Minnesota Wild,Colorado Avalanche,202202086616,2022020866,Missed Shot,16,MISSED_SHOT,Ryan Hartman Wide of Net Alexandar Georgiev,2023-02-16T02:58:46Z,1,04:55,15:05,0,0,30.0,Minnesota Wild,MIN
+25,30,21,Minnesota Wild,Colorado Avalanche,202202086617,2022020866,Shot,17,SHOT,Jared Spurgeon Snap Shot saved by Alexandar Georgiev,2023-02-16T02:58:58Z,1,05:07,14:53,0,0,30.0,Minnesota Wild,MIN
+26,30,21,Minnesota Wild,Colorado Avalanche,202202086618,2022020866,Blocked Shot,18,BLOCKED_SHOT,Artturi Lehkonen shot blocked shot by Matt Dumba,2023-02-16T02:59:10Z,1,05:19,14:41,0,0,30.0,Minnesota Wild,MIN
+27,30,21,Minnesota Wild,Colorado Avalanche,2022020866160,2022020866,Giveaway,160,GIVEAWAY,Giveaway by Ryan Reaves,2023-02-16T02:59:19Z,1,05:28,14:32,0,0,30.0,Minnesota Wild,MIN
+28,30,21,Minnesota Wild,Colorado Avalanche,2022020866161,2022020866,Hit,161,HIT,Brandon Duhaime hit Brad Hunt,2023-02-16T03:00:17Z,1,06:26,13:34,0,0,30.0,Minnesota Wild,MIN
+29,30,21,Minnesota Wild,Colorado Avalanche,2022020866162,2022020866,Hit,162,HIT,Matt Boldy hit Brad Hunt,2023-02-16T03:00:24Z,1,06:33,13:27,0,0,30.0,Minnesota Wild,MIN
+30,30,21,Minnesota Wild,Colorado Avalanche,202202086619,2022020866,Shot,19,SHOT,Joel Eriksson Ek Snap Shot saved by Alexandar Georgiev,2023-02-16T03:00:38Z,1,06:47,13:13,0,0,30.0,Minnesota Wild,MIN
+31,30,21,Minnesota Wild,Colorado Avalanche,2022020866252,2022020866,Missed Shot,252,MISSED_SHOT,Joel Eriksson Ek Wide of Net Alexandar Georgiev,2023-02-16T03:00:41Z,1,06:50,13:10,0,0,30.0,Minnesota Wild,MIN
+32,30,21,Minnesota Wild,Colorado Avalanche,2022020866107,2022020866,Blocked Shot,107,BLOCKED_SHOT,Andrew Cogliano shot blocked shot by Jon Merrill,2023-02-16T03:00:59Z,1,07:08,12:52,0,0,30.0,Minnesota Wild,MIN
+33,30,21,Minnesota Wild,Colorado Avalanche,202202086621,2022020866,Missed Shot,21,MISSED_SHOT,Mats Zuccarello Wide of Net Alexandar Georgiev,2023-02-16T03:01:09Z,1,07:18,12:42,0,0,30.0,Minnesota Wild,MIN
+34,30,21,Minnesota Wild,Colorado Avalanche,202202086622,2022020866,Shot,22,SHOT,Jonas Brodin Snap Shot saved by Alexandar Georgiev,2023-02-16T03:01:24Z,1,07:33,12:27,0,0,30.0,Minnesota Wild,MIN
+35,30,21,Minnesota Wild,Colorado Avalanche,2022020866108,2022020866,Stoppage,108,STOP,Puck in Netting,2023-02-16T03:01:24Z,1,07:33,12:27,0,0,,,
+36,30,21,Minnesota Wild,Colorado Avalanche,202202086623,2022020866,Faceoff,23,FACEOFF,J.T. Compher faceoff won against Frederick Gaudreau,2023-02-16T03:03:51Z,1,07:33,12:27,0,0,21.0,Colorado Avalanche,COL
+37,30,21,Minnesota Wild,Colorado Avalanche,2022020866164,2022020866,Giveaway,164,GIVEAWAY,Giveaway by Evan Rodrigues,2023-02-16T03:04:10Z,1,07:52,12:08,0,0,21.0,Colorado Avalanche,COL
+38,30,21,Minnesota Wild,Colorado Avalanche,2022020866165,2022020866,Hit,165,HIT,Andreas Englund hit Sam Steel,2023-02-16T03:04:39Z,1,08:21,11:39,0,0,21.0,Colorado Avalanche,COL
+39,30,21,Minnesota Wild,Colorado Avalanche,2022020866109,2022020866,Stoppage,109,STOP,Goalie Stopped,2023-02-16T03:05:06Z,1,08:48,11:12,0,0,,,
+40,30,21,Minnesota Wild,Colorado Avalanche,202202086625,2022020866,Faceoff,25,FACEOFF,Alex Newhook faceoff won against Ryan Hartman,2023-02-16T03:05:43Z,1,08:48,11:12,0,0,21.0,Colorado Avalanche,COL
+41,30,21,Minnesota Wild,Colorado Avalanche,2022020866110,2022020866,Stoppage,110,STOP,Icing,2023-02-16T03:06:35Z,1,09:40,10:20,0,0,,,
+42,30,21,Minnesota Wild,Colorado Avalanche,202202086626,2022020866,Faceoff,26,FACEOFF,Ryan Hartman faceoff won against Nathan MacKinnon,2023-02-16T03:07:09Z,1,09:40,10:20,0,0,30.0,Minnesota Wild,MIN
+43,30,21,Minnesota Wild,Colorado Avalanche,2022020866166,2022020866,Hit,166,HIT,Brandon Duhaime hit Bowen Byram,2023-02-16T03:07:36Z,1,10:07,09:53,0,0,30.0,Minnesota Wild,MIN
+44,30,21,Minnesota Wild,Colorado Avalanche,2022020866167,2022020866,Giveaway,167,GIVEAWAY,Giveaway by Marc-Andre Fleury,2023-02-16T03:07:49Z,1,10:20,09:40,0,0,30.0,Minnesota Wild,MIN
+45,30,21,Minnesota Wild,Colorado Avalanche,2022020866111,2022020866,Shot,111,SHOT,Nathan MacKinnon Wrist Shot saved by Marc-Andre Fleury,2023-02-16T03:07:56Z,1,10:27,09:33,0,0,21.0,Colorado Avalanche,COL
+46,30,21,Minnesota Wild,Colorado Avalanche,2022020866112,2022020866,Stoppage,112,STOP,Goalie Stopped,2023-02-16T03:07:57Z,1,10:28,09:32,0,0,,,
+47,30,21,Minnesota Wild,Colorado Avalanche,202202086627,2022020866,Faceoff,27,FACEOFF,Connor Dewar faceoff won against J.T. Compher,2023-02-16T03:10:18Z,1,10:28,09:32,0,0,30.0,Minnesota Wild,MIN
+48,30,21,Minnesota Wild,Colorado Avalanche,202202086628,2022020866,Shot,28,SHOT,Mason Shaw Slap Shot saved by Alexandar Georgiev,2023-02-16T03:10:35Z,1,10:45,09:15,0,0,30.0,Minnesota Wild,MIN
+49,30,21,Minnesota Wild,Colorado Avalanche,2022020866168,2022020866,Hit,168,HIT,Devon Toews hit Connor Dewar,2023-02-16T03:10:39Z,1,10:49,09:11,0,0,21.0,Colorado Avalanche,COL
+50,30,21,Minnesota Wild,Colorado Avalanche,2022020866169,2022020866,Hit,169,HIT,Jonas Brodin hit Evan Rodrigues,2023-02-16T03:10:51Z,1,11:01,08:59,0,0,30.0,Minnesota Wild,MIN
+51,30,21,Minnesota Wild,Colorado Avalanche,2022020866113,2022020866,Stoppage,113,STOP,Goalie Puck Frozen Played Beyond Center Line,2023-02-16T03:11:04Z,1,11:14,08:46,0,0,,,
+52,30,21,Minnesota Wild,Colorado Avalanche,202202086629,2022020866,Faceoff,29,FACEOFF,Alex Newhook faceoff won against Frederick Gaudreau,2023-02-16T03:11:43Z,1,11:14,08:46,0,0,21.0,Colorado Avalanche,COL
+53,30,21,Minnesota Wild,Colorado Avalanche,202202086630,2022020866,Shot,30,SHOT,Jordan Greenway Snap Shot saved by Alexandar Georgiev,2023-02-16T03:11:55Z,1,11:26,08:34,0,0,30.0,Minnesota Wild,MIN
+54,30,21,Minnesota Wild,Colorado Avalanche,202202086631,2022020866,Shot,31,SHOT,Frederick Gaudreau Wrist Shot saved by Alexandar Georgiev,2023-02-16T03:11:59Z,1,11:30,08:30,0,0,30.0,Minnesota Wild,MIN
+55,30,21,Minnesota Wild,Colorado Avalanche,202202086632,2022020866,Shot,32,SHOT,Jordan Greenway Wrist Shot saved by Alexandar Georgiev,2023-02-16T03:12:01Z,1,11:32,08:28,0,0,30.0,Minnesota Wild,MIN
+56,30,21,Minnesota Wild,Colorado Avalanche,202202086633,2022020866,Missed Shot,33,MISSED_SHOT,Jon Merrill Wide of Net Alexandar Georgiev,2023-02-16T03:12:11Z,1,11:42,08:18,0,0,30.0,Minnesota Wild,MIN
+57,30,21,Minnesota Wild,Colorado Avalanche,2022020866253,2022020866,Blocked Shot,253,BLOCKED_SHOT,Jordan Greenway shot blocked shot by Alex Newhook,2023-02-16T03:12:16Z,1,11:47,08:13,0,0,21.0,Colorado Avalanche,COL
+58,30,21,Minnesota Wild,Colorado Avalanche,202202086634,2022020866,Shot,34,SHOT,Jordan Greenway Wrist Shot saved by Alexandar Georgiev,2023-02-16T03:12:17Z,1,11:48,08:12,0,0,30.0,Minnesota Wild,MIN
+59,30,21,Minnesota Wild,Colorado Avalanche,2022020866170,2022020866,Hit,170,HIT,Sam Steel hit Andrew Cogliano,2023-02-16T03:12:30Z,1,12:01,07:59,0,0,30.0,Minnesota Wild,MIN
+60,30,21,Minnesota Wild,Colorado Avalanche,2022020866177,2022020866,Hit,177,HIT,Alex Newhook hit Sam Steel,2023-02-16T03:12:32Z,1,12:03,07:57,0,0,21.0,Colorado Avalanche,COL
+61,30,21,Minnesota Wild,Colorado Avalanche,202202086635,2022020866,Shot,35,SHOT,Matt Boldy Tip-In saved by Alexandar Georgiev,2023-02-16T03:13:00Z,1,12:31,07:29,0,0,30.0,Minnesota Wild,MIN
+62,30,21,Minnesota Wild,Colorado Avalanche,2022020866172,2022020866,Hit,172,HIT,Bowen Byram hit Matt Boldy,2023-02-16T03:13:03Z,1,12:34,07:26,0,0,21.0,Colorado Avalanche,COL
+63,30,21,Minnesota Wild,Colorado Avalanche,2022020866359,2022020866,Penalty,359,PENALTY,Matt Boldy Fighting against Bowen Byram,2023-02-16T03:13:07Z,1,12:38,07:22,0,0,30.0,Minnesota Wild,MIN
+64,30,21,Minnesota Wild,Colorado Avalanche,2022020866363,2022020866,Penalty,363,PENALTY,Bowen Byram Fighting against Matt Boldy,2023-02-16T03:13:07Z,1,12:38,07:22,0,0,21.0,Colorado Avalanche,COL
+65,30,21,Minnesota Wild,Colorado Avalanche,202202086636,2022020866,Faceoff,36,FACEOFF,Frederick Gaudreau faceoff won against Nathan MacKinnon,2023-02-16T03:14:25Z,1,12:38,07:22,0,0,30.0,Minnesota Wild,MIN
+66,30,21,Minnesota Wild,Colorado Avalanche,202202086637,2022020866,Blocked Shot,37,BLOCKED_SHOT,Valeri Nichushkin shot blocked shot by Jake Middleton,2023-02-16T03:14:40Z,1,12:53,07:07,0,0,30.0,Minnesota Wild,MIN
+67,30,21,Minnesota Wild,Colorado Avalanche,2022020866115,2022020866,Stoppage,115,STOP,Icing,2023-02-16T03:14:51Z,1,13:04,06:56,0,0,,,
+68,30,21,Minnesota Wild,Colorado Avalanche,202202086638,2022020866,Faceoff,38,FACEOFF,J.T. Compher faceoff won against Joel Eriksson Ek,2023-02-16T03:15:16Z,1,13:04,06:56,0,0,21.0,Colorado Avalanche,COL
+69,30,21,Minnesota Wild,Colorado Avalanche,202202086639,2022020866,Blocked Shot,39,BLOCKED_SHOT,Mikko Rantanen shot blocked shot by Joel Eriksson Ek,2023-02-16T03:15:23Z,1,13:11,06:49,0,0,30.0,Minnesota Wild,MIN
+70,30,21,Minnesota Wild,Colorado Avalanche,2022020866451,2022020866,Takeaway,451,TAKEAWAY,Takeaway by Mikko Rantanen,2023-02-16T03:15:34Z,1,13:22,06:38,0,0,21.0,Colorado Avalanche,COL
+71,30,21,Minnesota Wild,Colorado Avalanche,2022020866116,2022020866,Shot,116,SHOT,J.T. Compher Backhand saved by Marc-Andre Fleury,2023-02-16T03:15:37Z,1,13:25,06:35,0,0,21.0,Colorado Avalanche,COL
+72,30,21,Minnesota Wild,Colorado Avalanche,202202086640,2022020866,Blocked Shot,40,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Matt Dumba,2023-02-16T03:16:10Z,1,13:58,06:02,0,0,30.0,Minnesota Wild,MIN
+73,30,21,Minnesota Wild,Colorado Avalanche,202202086641,2022020866,Blocked Shot,41,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Ryan Hartman,2023-02-16T03:16:19Z,1,14:07,05:53,0,0,30.0,Minnesota Wild,MIN
+74,30,21,Minnesota Wild,Colorado Avalanche,2022020866117,2022020866,Shot,117,SHOT,Nathan MacKinnon Wrist Shot saved by Marc-Andre Fleury,2023-02-16T03:16:36Z,1,14:24,05:36,0,0,21.0,Colorado Avalanche,COL
+75,30,21,Minnesota Wild,Colorado Avalanche,2022020866176,2022020866,Hit,176,HIT,Connor Dewar hit Matt Nieto,2023-02-16T03:16:42Z,1,14:30,05:30,0,0,30.0,Minnesota Wild,MIN
+76,30,21,Minnesota Wild,Colorado Avalanche,202202086642,2022020866,Shot,42,SHOT,Connor Dewar Backhand saved by Alexandar Georgiev,2023-02-16T03:16:54Z,1,14:42,05:18,0,0,30.0,Minnesota Wild,MIN
+77,30,21,Minnesota Wild,Colorado Avalanche,2022020866119,2022020866,Stoppage,119,STOP,Goalie Stopped,2023-02-16T03:16:57Z,1,14:46,05:14,0,0,,,
+78,30,21,Minnesota Wild,Colorado Avalanche,202202086643,2022020866,Faceoff,43,FACEOFF,Alex Newhook faceoff won against Frederick Gaudreau,2023-02-16T03:19:48Z,1,14:46,05:14,0,0,21.0,Colorado Avalanche,COL
+79,30,21,Minnesota Wild,Colorado Avalanche,2022020866178,2022020866,Hit,178,HIT,Logan O'Connor hit Jon Merrill,2023-02-16T03:20:14Z,1,15:12,04:48,0,0,21.0,Colorado Avalanche,COL
+80,30,21,Minnesota Wild,Colorado Avalanche,2022020866120,2022020866,Goal,120,GOAL,"Andrew Cogliano (9) Wrist Shot, assists: Devon Toews (25), Samuel Girard (15)",2023-02-16T03:20:16Z,1,15:14,04:46,0,1,21.0,Colorado Avalanche,COL
+81,30,21,Minnesota Wild,Colorado Avalanche,202202086644,2022020866,Faceoff,44,FACEOFF,J.T. Compher faceoff won against Sam Steel,2023-02-16T03:20:59Z,1,15:14,04:46,0,1,21.0,Colorado Avalanche,COL
+82,30,21,Minnesota Wild,Colorado Avalanche,202202086645,2022020866,Blocked Shot,45,BLOCKED_SHOT,Brad Hunt shot blocked shot by Jordan Greenway,2023-02-16T03:21:36Z,1,15:51,04:09,0,1,30.0,Minnesota Wild,MIN
+83,30,21,Minnesota Wild,Colorado Avalanche,2022020866121,2022020866,Stoppage,121,STOP,Puck in Netting,2023-02-16T03:22:12Z,1,16:28,03:32,0,1,,,
+84,30,21,Minnesota Wild,Colorado Avalanche,202202086646,2022020866,Faceoff,46,FACEOFF,Ryan Hartman faceoff won against Nathan MacKinnon,2023-02-16T03:22:58Z,1,16:28,03:32,0,1,30.0,Minnesota Wild,MIN
+85,30,21,Minnesota Wild,Colorado Avalanche,202202086647,2022020866,Shot,47,SHOT,Jake Middleton Wrist Shot saved by Alexandar Georgiev,2023-02-16T03:23:00Z,1,16:30,03:30,0,1,30.0,Minnesota Wild,MIN
+86,30,21,Minnesota Wild,Colorado Avalanche,2022020866122,2022020866,Stoppage,122,STOP,Goalie Stopped,2023-02-16T03:23:01Z,1,16:31,03:29,0,1,,,
+87,30,21,Minnesota Wild,Colorado Avalanche,202202086648,2022020866,Faceoff,48,FACEOFF,Ryan Hartman faceoff won against Nathan MacKinnon,2023-02-16T03:23:16Z,1,16:31,03:29,0,1,30.0,Minnesota Wild,MIN
+88,30,21,Minnesota Wild,Colorado Avalanche,202202086649,2022020866,Shot,49,SHOT,Jake Middleton Wrist Shot saved by Alexandar Georgiev,2023-02-16T03:23:22Z,1,16:37,03:23,0,1,30.0,Minnesota Wild,MIN
+89,30,21,Minnesota Wild,Colorado Avalanche,202202086650,2022020866,Missed Shot,50,MISSED_SHOT,Jared Spurgeon Wide of Net Alexandar Georgiev,2023-02-16T03:23:30Z,1,16:45,03:15,0,1,30.0,Minnesota Wild,MIN
+90,30,21,Minnesota Wild,Colorado Avalanche,2022020866123,2022020866,Stoppage,123,STOP,Goalie Stopped,2023-02-16T03:23:31Z,1,16:46,03:14,0,1,,,
+91,30,21,Minnesota Wild,Colorado Avalanche,2022020866301,2022020866,Faceoff,301,FACEOFF,Ryan Hartman faceoff won against Alex Newhook,2023-02-16T03:23:59Z,1,16:46,03:14,0,1,30.0,Minnesota Wild,MIN
+92,30,21,Minnesota Wild,Colorado Avalanche,2022020866124,2022020866,Blocked Shot,124,BLOCKED_SHOT,Mats Zuccarello shot blocked shot by Alex Newhook,2023-02-16T03:24:03Z,1,16:50,03:10,0,1,21.0,Colorado Avalanche,COL
+93,30,21,Minnesota Wild,Colorado Avalanche,2022020866302,2022020866,Shot,302,SHOT,Jared Spurgeon Wrist Shot saved by Alexandar Georgiev,2023-02-16T03:24:04Z,1,16:51,03:09,0,1,30.0,Minnesota Wild,MIN
+94,30,21,Minnesota Wild,Colorado Avalanche,2022020866180,2022020866,Hit,180,HIT,Mats Zuccarello hit Josh Manson,2023-02-16T03:24:09Z,1,16:56,03:04,0,1,30.0,Minnesota Wild,MIN
+95,30,21,Minnesota Wild,Colorado Avalanche,2022020866303,2022020866,Shot,303,SHOT,Jake Middleton Wrist Shot saved by Alexandar Georgiev,2023-02-16T03:24:39Z,1,17:26,02:34,0,1,30.0,Minnesota Wild,MIN
+96,30,21,Minnesota Wild,Colorado Avalanche,2022020866125,2022020866,Stoppage,125,STOP,Icing,2023-02-16T03:24:55Z,1,17:41,02:19,0,1,,,
+97,30,21,Minnesota Wild,Colorado Avalanche,2022020866304,2022020866,Faceoff,304,FACEOFF,Connor Dewar faceoff won against Alex Newhook,2023-02-16T03:25:36Z,1,17:41,02:19,0,1,30.0,Minnesota Wild,MIN
+98,30,21,Minnesota Wild,Colorado Avalanche,2022020866126,2022020866,Blocked Shot,126,BLOCKED_SHOT,Jonas Brodin shot blocked shot by Devon Toews,2023-02-16T03:25:49Z,1,17:54,02:06,0,1,21.0,Colorado Avalanche,COL
+99,30,21,Minnesota Wild,Colorado Avalanche,2022020866127,2022020866,Blocked Shot,127,BLOCKED_SHOT,Connor Dewar shot blocked shot by Josh Manson,2023-02-16T03:26:03Z,1,18:08,01:52,0,1,21.0,Colorado Avalanche,COL
+100,30,21,Minnesota Wild,Colorado Avalanche,2022020866128,2022020866,Stoppage,128,STOP,Puck in Netting,2023-02-16T03:26:03Z,1,18:09,01:51,0,1,,,
+101,30,21,Minnesota Wild,Colorado Avalanche,2022020866507,2022020866,Penalty,507,PENALTY,Mason Shaw Slashing against Josh Manson,2023-02-16T03:26:03Z,1,18:09,01:51,0,1,30.0,Minnesota Wild,MIN
+102,30,21,Minnesota Wild,Colorado Avalanche,2022020866305,2022020866,Faceoff,305,FACEOFF,Frederick Gaudreau faceoff won against Mikko Rantanen,2023-02-16T03:27:09Z,1,18:09,01:51,0,1,30.0,Minnesota Wild,MIN
+103,30,21,Minnesota Wild,Colorado Avalanche,2022020866181,2022020866,Takeaway,181,TAKEAWAY,Takeaway by Joel Eriksson Ek,2023-02-16T03:27:39Z,1,18:39,01:21,0,1,30.0,Minnesota Wild,MIN
+104,30,21,Minnesota Wild,Colorado Avalanche,2022020866129,2022020866,Shot,129,SHOT,Artturi Lehkonen Deflected saved by Marc-Andre Fleury,2023-02-16T03:28:05Z,1,19:05,00:55,0,1,21.0,Colorado Avalanche,COL
+105,30,21,Minnesota Wild,Colorado Avalanche,2022020866306,2022020866,Blocked Shot,306,BLOCKED_SHOT,Mikko Rantanen shot blocked shot by Jonas Brodin,2023-02-16T03:28:11Z,1,19:11,00:49,0,1,30.0,Minnesota Wild,MIN
+106,30,21,Minnesota Wild,Colorado Avalanche,2022020866313,2022020866,Shot,313,SHOT,Joel Eriksson Ek Snap Shot saved by Alexandar Georgiev,2023-02-16T03:28:16Z,1,19:16,00:44,0,1,30.0,Minnesota Wild,MIN
+107,30,21,Minnesota Wild,Colorado Avalanche,2022020866130,2022020866,Stoppage,130,STOP,Icing,2023-02-16T03:28:54Z,1,19:53,00:07,0,1,,,
+108,30,21,Minnesota Wild,Colorado Avalanche,2022020866307,2022020866,Faceoff,307,FACEOFF,Matt Boldy faceoff won against J.T. Compher,2023-02-16T03:29:28Z,1,19:53,00:07,0,1,30.0,Minnesota Wild,MIN
+109,30,21,Minnesota Wild,Colorado Avalanche,2022020866131,2022020866,Blocked Shot,131,BLOCKED_SHOT,Alex Goligoski shot blocked shot by Evan Rodrigues,2023-02-16T03:29:33Z,1,19:59,00:01,0,1,21.0,Colorado Avalanche,COL
+110,30,21,Minnesota Wild,Colorado Avalanche,2022020866309,2022020866,Period End,309,PERIOD_END,End of 1st Period,2023-02-16T03:29:34Z,1,20:00,00:00,0,1,,,
+111,30,21,Minnesota Wild,Colorado Avalanche,2022020866312,2022020866,Period Official,312,PERIOD_OFFICIAL,Period Official,2023-02-16T03:30:35Z,1,20:00,00:00,0,1,,,
+112,30,21,Minnesota Wild,Colorado Avalanche,2022020866314,2022020866,Period Ready,314,PERIOD_READY,Period Ready,2023-02-16T03:48:19Z,2,00:00,20:00,0,1,,,
+113,30,21,Minnesota Wild,Colorado Avalanche,2022020866315,2022020866,Period Start,315,PERIOD_START,Period Start,2023-02-16T03:48:29Z,2,00:00,20:00,0,1,,,
+114,30,21,Minnesota Wild,Colorado Avalanche,2022020866316,2022020866,Faceoff,316,FACEOFF,Joel Eriksson Ek faceoff won against Nathan MacKinnon,2023-02-16T03:48:29Z,2,00:00,20:00,0,1,30.0,Minnesota Wild,MIN
+115,30,21,Minnesota Wild,Colorado Avalanche,2022020866182,2022020866,Giveaway,182,GIVEAWAY,Giveaway by Joel Eriksson Ek,2023-02-16T03:49:08Z,2,00:39,19:21,0,1,30.0,Minnesota Wild,MIN
+116,30,21,Minnesota Wild,Colorado Avalanche,2022020866254,2022020866,Hit,254,HIT,Valeri Nichushkin hit Joel Eriksson Ek,2023-02-16T03:49:08Z,2,00:39,19:21,0,1,21.0,Colorado Avalanche,COL
+117,30,21,Minnesota Wild,Colorado Avalanche,2022020866132,2022020866,Stoppage,132,STOP,Offside,2023-02-16T03:49:13Z,2,00:44,19:16,0,1,,,
+118,30,21,Minnesota Wild,Colorado Avalanche,2022020866317,2022020866,Faceoff,317,FACEOFF,Ryan Hartman faceoff won against J.T. Compher,2023-02-16T03:49:50Z,2,00:44,19:16,0,1,30.0,Minnesota Wild,MIN
+119,30,21,Minnesota Wild,Colorado Avalanche,2022020866184,2022020866,Takeaway,184,TAKEAWAY,Takeaway by Matt Dumba,2023-02-16T03:50:22Z,2,01:16,18:44,0,1,30.0,Minnesota Wild,MIN
+120,30,21,Minnesota Wild,Colorado Avalanche,2022020866133,2022020866,Stoppage,133,STOP,Icing,2023-02-16T03:51:06Z,2,02:00,18:00,0,1,,,
+121,30,21,Minnesota Wild,Colorado Avalanche,2022020866318,2022020866,Faceoff,318,FACEOFF,Nathan MacKinnon faceoff won against Sam Steel,2023-02-16T03:51:30Z,2,02:00,18:00,0,1,21.0,Colorado Avalanche,COL
+122,30,21,Minnesota Wild,Colorado Avalanche,2022020866319,2022020866,Shot,319,SHOT,Josh Manson Slap Shot saved by Marc-Andre Fleury,2023-02-16T03:51:33Z,2,02:03,17:57,0,1,21.0,Colorado Avalanche,COL
+123,30,21,Minnesota Wild,Colorado Avalanche,2022020866320,2022020866,Goal,320,GOAL,"Denis Malgin (4) Snap Shot, assists: Nathan MacKinnon (44), Josh Manson (5)",2023-02-16T03:51:50Z,2,02:20,17:40,0,2,21.0,Colorado Avalanche,COL
+124,30,21,Minnesota Wild,Colorado Avalanche,2022020866321,2022020866,Faceoff,321,FACEOFF,Alex Newhook faceoff won against Sam Steel,2023-02-16T03:52:30Z,2,02:20,17:40,0,2,21.0,Colorado Avalanche,COL
+125,30,21,Minnesota Wild,Colorado Avalanche,2022020866134,2022020866,Shot,134,SHOT,Jon Merrill Slap Shot saved by Alexandar Georgiev,2023-02-16T03:52:58Z,2,02:46,17:14,0,2,30.0,Minnesota Wild,MIN
+126,30,21,Minnesota Wild,Colorado Avalanche,2022020866185,2022020866,Hit,185,HIT,Alex Newhook hit Jon Merrill,2023-02-16T03:52:59Z,2,02:47,17:13,0,2,21.0,Colorado Avalanche,COL
+127,30,21,Minnesota Wild,Colorado Avalanche,2022020866135,2022020866,Stoppage,135,STOP,Puck Frozen,2023-02-16T03:53:08Z,2,02:56,17:04,0,2,,,
+128,30,21,Minnesota Wild,Colorado Avalanche,2022020866322,2022020866,Faceoff,322,FACEOFF,Evan Rodrigues faceoff won against Connor Dewar,2023-02-16T03:53:45Z,2,02:56,17:04,0,2,21.0,Colorado Avalanche,COL
+129,30,21,Minnesota Wild,Colorado Avalanche,2022020866136,2022020866,Shot,136,SHOT,Jake Middleton Snap Shot saved by Alexandar Georgiev,2023-02-16T03:54:03Z,2,03:14,16:46,0,2,30.0,Minnesota Wild,MIN
+130,30,21,Minnesota Wild,Colorado Avalanche,2022020866137,2022020866,Stoppage,137,STOP,Goalie Stopped,2023-02-16T03:54:04Z,2,03:15,16:45,0,2,,,
+131,30,21,Minnesota Wild,Colorado Avalanche,2022020866323,2022020866,Faceoff,323,FACEOFF,Ryan Hartman faceoff won against J.T. Compher,2023-02-16T03:54:37Z,2,03:15,16:45,0,2,30.0,Minnesota Wild,MIN
+132,30,21,Minnesota Wild,Colorado Avalanche,2022020866324,2022020866,Blocked Shot,324,BLOCKED_SHOT,Jared Spurgeon shot blocked shot by Bowen Byram,2023-02-16T03:54:57Z,2,03:35,16:25,0,2,21.0,Colorado Avalanche,COL
+133,30,21,Minnesota Wild,Colorado Avalanche,2022020866138,2022020866,Stoppage,138,STOP,Offside,2023-02-16T03:55:06Z,2,03:45,16:15,0,2,,,
+134,30,21,Minnesota Wild,Colorado Avalanche,2022020866325,2022020866,Faceoff,325,FACEOFF,Connor Dewar faceoff won against Alex Newhook,2023-02-16T03:55:38Z,2,03:45,16:15,0,2,30.0,Minnesota Wild,MIN
+135,30,21,Minnesota Wild,Colorado Avalanche,2022020866186,2022020866,Hit,186,HIT,Ryan Reaves hit Samuel Girard,2023-02-16T03:55:54Z,2,04:01,15:59,0,2,30.0,Minnesota Wild,MIN
+136,30,21,Minnesota Wild,Colorado Avalanche,2022020866139,2022020866,Shot,139,SHOT,Matt Dumba Wrist Shot saved by Alexandar Georgiev,2023-02-16T03:56:02Z,2,04:09,15:51,0,2,30.0,Minnesota Wild,MIN
+137,30,21,Minnesota Wild,Colorado Avalanche,2022020866140,2022020866,Blocked Shot,140,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Jonas Brodin,2023-02-16T03:56:33Z,2,04:40,15:20,0,2,30.0,Minnesota Wild,MIN
+138,30,21,Minnesota Wild,Colorado Avalanche,2022020866141,2022020866,Stoppage,141,STOP,Puck in Netting,2023-02-16T03:56:35Z,2,04:41,15:19,0,2,,,
+139,30,21,Minnesota Wild,Colorado Avalanche,2022020866326,2022020866,Faceoff,326,FACEOFF,J.T. Compher faceoff won against Joel Eriksson Ek,2023-02-16T03:57:10Z,2,04:41,15:19,0,2,21.0,Colorado Avalanche,COL
+140,30,21,Minnesota Wild,Colorado Avalanche,2022020866142,2022020866,Blocked Shot,142,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Joel Eriksson Ek,2023-02-16T03:57:17Z,2,04:48,15:12,0,2,30.0,Minnesota Wild,MIN
+141,30,21,Minnesota Wild,Colorado Avalanche,2022020866327,2022020866,Shot,327,SHOT,Joel Eriksson Ek Snap Shot saved by Alexandar Georgiev,2023-02-16T03:57:26Z,2,04:57,15:03,0,2,30.0,Minnesota Wild,MIN
+142,30,21,Minnesota Wild,Colorado Avalanche,2022020866143,2022020866,Stoppage,143,STOP,Goalie Stopped,2023-02-16T03:57:28Z,2,04:58,15:02,0,2,,,
+143,30,21,Minnesota Wild,Colorado Avalanche,2022020866328,2022020866,Faceoff,328,FACEOFF,Joel Eriksson Ek faceoff won against J.T. Compher,2023-02-16T03:58:03Z,2,04:58,15:02,0,2,30.0,Minnesota Wild,MIN
+144,30,21,Minnesota Wild,Colorado Avalanche,2022020866144,2022020866,Shot,144,SHOT,Matt Boldy Snap Shot saved by Alexandar Georgiev,2023-02-16T03:58:10Z,2,05:05,14:55,0,2,30.0,Minnesota Wild,MIN
+145,30,21,Minnesota Wild,Colorado Avalanche,2022020866145,2022020866,Stoppage,145,STOP,Goalie Stopped,2023-02-16T03:58:11Z,2,05:06,14:54,0,2,,,
+146,30,21,Minnesota Wild,Colorado Avalanche,2022020866329,2022020866,Faceoff,329,FACEOFF,J.T. Compher faceoff won against Ryan Hartman,2023-02-16T03:58:37Z,2,05:06,14:54,0,2,21.0,Colorado Avalanche,COL
+147,30,21,Minnesota Wild,Colorado Avalanche,2022020866187,2022020866,Giveaway,187,GIVEAWAY,Giveaway by Josh Manson,2023-02-16T03:58:43Z,2,05:12,14:48,0,2,21.0,Colorado Avalanche,COL
+148,30,21,Minnesota Wild,Colorado Avalanche,2022020866146,2022020866,Missed Shot,146,MISSED_SHOT,Mats Zuccarello Wide of Net Alexandar Georgiev,2023-02-16T03:58:45Z,2,05:14,14:46,0,2,30.0,Minnesota Wild,MIN
+149,30,21,Minnesota Wild,Colorado Avalanche,2022020866188,2022020866,Hit,188,HIT,Jared Spurgeon hit J.T. Compher,2023-02-16T03:59:02Z,2,05:31,14:29,0,2,30.0,Minnesota Wild,MIN
+150,30,21,Minnesota Wild,Colorado Avalanche,2022020866147,2022020866,Missed Shot,147,MISSED_SHOT,Ryan Hartman Wide of Net Alexandar Georgiev,2023-02-16T03:59:10Z,2,05:39,14:21,0,2,30.0,Minnesota Wild,MIN
+151,30,21,Minnesota Wild,Colorado Avalanche,2022020866614,2022020866,Penalty,614,PENALTY,Mikko Rantanen Slashing against Kirill Kaprizov,2023-02-16T03:59:21Z,2,05:50,14:10,0,2,21.0,Colorado Avalanche,COL
+152,30,21,Minnesota Wild,Colorado Avalanche,2022020866332,2022020866,Faceoff,332,FACEOFF,Joel Eriksson Ek faceoff won against J.T. Compher,2023-02-16T04:00:19Z,2,05:50,14:10,0,2,30.0,Minnesota Wild,MIN
+153,30,21,Minnesota Wild,Colorado Avalanche,2022020866333,2022020866,Missed Shot,333,MISSED_SHOT,Valeri Nichushkin Wide of Net Marc-Andre Fleury,2023-02-16T04:00:29Z,2,06:00,14:00,0,2,21.0,Colorado Avalanche,COL
+154,30,21,Minnesota Wild,Colorado Avalanche,2022020866148,2022020866,Goal,148,GOAL,"Joel Eriksson Ek (21) Tip-In, assists: Mats Zuccarello (34), Matt Boldy (22)",2023-02-16T04:01:38Z,2,07:09,12:51,1,2,30.0,Minnesota Wild,MIN
+155,30,21,Minnesota Wild,Colorado Avalanche,2022020866334,2022020866,Faceoff,334,FACEOFF,Sam Steel faceoff won against J.T. Compher,2023-02-16T04:02:53Z,2,07:09,12:51,1,2,30.0,Minnesota Wild,MIN
+156,30,21,Minnesota Wild,Colorado Avalanche,2022020866335,2022020866,Missed Shot,335,MISSED_SHOT,Andreas Englund Wide of Net Marc-Andre Fleury,2023-02-16T04:03:52Z,2,08:08,11:52,1,2,21.0,Colorado Avalanche,COL
+157,30,21,Minnesota Wild,Colorado Avalanche,2022020866150,2022020866,Blocked Shot,150,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Jonas Brodin,2023-02-16T04:04:11Z,2,08:27,11:33,1,2,30.0,Minnesota Wild,MIN
+158,30,21,Minnesota Wild,Colorado Avalanche,2022020866551,2022020866,Stoppage,551,STOP,Puck in Netting,2023-02-16T04:04:12Z,2,08:28,11:32,1,2,,,
+159,30,21,Minnesota Wild,Colorado Avalanche,2022020866336,2022020866,Faceoff,336,FACEOFF,Joel Eriksson Ek faceoff won against Nathan MacKinnon,2023-02-16T04:06:39Z,2,08:28,11:32,1,2,30.0,Minnesota Wild,MIN
+160,30,21,Minnesota Wild,Colorado Avalanche,2022020866191,2022020866,Takeaway,191,TAKEAWAY,Takeaway by Brandon Duhaime,2023-02-16T04:06:47Z,2,08:36,11:24,1,2,30.0,Minnesota Wild,MIN
+161,30,21,Minnesota Wild,Colorado Avalanche,2022020866552,2022020866,Shot,552,SHOT,Jared Spurgeon Snap Shot saved by Alexandar Georgiev,2023-02-16T04:06:53Z,2,08:42,11:18,1,2,30.0,Minnesota Wild,MIN
+162,30,21,Minnesota Wild,Colorado Avalanche,2022020866192,2022020866,Hit,192,HIT,Josh Manson hit Joel Eriksson Ek,2023-02-16T04:07:00Z,2,08:49,11:11,1,2,21.0,Colorado Avalanche,COL
+163,30,21,Minnesota Wild,Colorado Avalanche,2022020866553,2022020866,Missed Shot,553,MISSED_SHOT,Brandon Duhaime Wide of Net Alexandar Georgiev,2023-02-16T04:07:10Z,2,08:59,11:01,1,2,30.0,Minnesota Wild,MIN
+164,30,21,Minnesota Wild,Colorado Avalanche,2022020866554,2022020866,Missed Shot,554,MISSED_SHOT,Jake Middleton Wide of Net Alexandar Georgiev,2023-02-16T04:07:23Z,2,09:12,10:48,1,2,30.0,Minnesota Wild,MIN
+165,30,21,Minnesota Wild,Colorado Avalanche,2022020866555,2022020866,Blocked Shot,555,BLOCKED_SHOT,Evan Rodrigues shot blocked shot by Matt Dumba,2023-02-16T04:08:24Z,2,10:13,09:47,1,2,30.0,Minnesota Wild,MIN
+166,30,21,Minnesota Wild,Colorado Avalanche,2022020866193,2022020866,Hit,193,HIT,Mats Zuccarello hit Evan Rodrigues,2023-02-16T04:08:25Z,2,10:14,09:46,1,2,30.0,Minnesota Wild,MIN
+167,30,21,Minnesota Wild,Colorado Avalanche,2022020866556,2022020866,Stoppage,556,STOP,Icing,2023-02-16T04:09:00Z,2,10:49,09:11,1,2,,,
+168,30,21,Minnesota Wild,Colorado Avalanche,2022020866338,2022020866,Faceoff,338,FACEOFF,Connor Dewar faceoff won against J.T. Compher,2023-02-16T04:09:30Z,2,10:49,09:11,1,2,30.0,Minnesota Wild,MIN
+169,30,21,Minnesota Wild,Colorado Avalanche,2022020866557,2022020866,Shot,557,SHOT,Mason Shaw Wrist Shot saved by Alexandar Georgiev,2023-02-16T04:09:34Z,2,10:53,09:07,1,2,30.0,Minnesota Wild,MIN
+170,30,21,Minnesota Wild,Colorado Avalanche,2022020866558,2022020866,Stoppage,558,STOP,Goalie Stopped,2023-02-16T04:09:36Z,2,10:54,09:06,1,2,,,
+171,30,21,Minnesota Wild,Colorado Avalanche,2022020866339,2022020866,Faceoff,339,FACEOFF,Sam Steel faceoff won against Nathan MacKinnon,2023-02-16T04:11:56Z,2,10:54,09:06,1,2,30.0,Minnesota Wild,MIN
+172,30,21,Minnesota Wild,Colorado Avalanche,2022020866194,2022020866,Takeaway,194,TAKEAWAY,Takeaway by Frederick Gaudreau,2023-02-16T04:12:07Z,2,11:05,08:55,1,2,30.0,Minnesota Wild,MIN
+173,30,21,Minnesota Wild,Colorado Avalanche,2022020866559,2022020866,Stoppage,559,STOP,Puck Frozen,2023-02-16T04:12:33Z,2,11:31,08:29,1,2,,,
+174,30,21,Minnesota Wild,Colorado Avalanche,2022020866340,2022020866,Faceoff,340,FACEOFF,Ryan Hartman faceoff won against J.T. Compher,2023-02-16T04:13:13Z,2,11:31,08:29,1,2,30.0,Minnesota Wild,MIN
+175,30,21,Minnesota Wild,Colorado Avalanche,2022020866560,2022020866,Missed Shot,560,MISSED_SHOT,Ryan Hartman Wide of Net Alexandar Georgiev,2023-02-16T04:13:32Z,2,11:50,08:10,1,2,30.0,Minnesota Wild,MIN
+176,30,21,Minnesota Wild,Colorado Avalanche,2022020866341,2022020866,Blocked Shot,341,BLOCKED_SHOT,Ryan Hartman shot blocked shot by J.T. Compher,2023-02-16T04:13:49Z,2,12:07,07:53,1,2,21.0,Colorado Avalanche,COL
+177,30,21,Minnesota Wild,Colorado Avalanche,2022020866342,2022020866,Blocked Shot,342,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by Andrew Cogliano,2023-02-16T04:14:05Z,2,12:23,07:37,1,2,21.0,Colorado Avalanche,COL
+178,30,21,Minnesota Wild,Colorado Avalanche,2022020866561,2022020866,Stoppage,561,STOP,Puck in Netting,2023-02-16T04:14:06Z,2,12:24,07:36,1,2,,,
+179,30,21,Minnesota Wild,Colorado Avalanche,2022020866343,2022020866,Faceoff,343,FACEOFF,Alex Newhook faceoff won against Mason Shaw,2023-02-16T04:14:47Z,2,12:24,07:36,1,2,21.0,Colorado Avalanche,COL
+180,30,21,Minnesota Wild,Colorado Avalanche,2022020866195,2022020866,Hit,195,HIT,Mason Shaw hit Andrew Cogliano,2023-02-16T04:15:55Z,2,13:32,06:28,1,2,30.0,Minnesota Wild,MIN
+181,30,21,Minnesota Wild,Colorado Avalanche,2022020866562,2022020866,Blocked Shot,562,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Joel Eriksson Ek,2023-02-16T04:16:10Z,2,13:47,06:13,1,2,30.0,Minnesota Wild,MIN
+182,30,21,Minnesota Wild,Colorado Avalanche,2022020866563,2022020866,Blocked Shot,563,BLOCKED_SHOT,Matt Boldy shot blocked shot by Valeri Nichushkin,2023-02-16T04:16:27Z,2,14:04,05:56,1,2,21.0,Colorado Avalanche,COL
+183,30,21,Minnesota Wild,Colorado Avalanche,2022020866255,2022020866,Shot,255,SHOT,Brandon Duhaime Wrap-around saved by Alexandar Georgiev,2023-02-16T04:16:28Z,2,14:05,05:55,1,2,30.0,Minnesota Wild,MIN
+184,30,21,Minnesota Wild,Colorado Avalanche,2022020866196,2022020866,Hit,196,HIT,Brandon Duhaime hit Samuel Girard,2023-02-16T04:16:36Z,2,14:13,05:47,1,2,30.0,Minnesota Wild,MIN
+185,30,21,Minnesota Wild,Colorado Avalanche,2022020866564,2022020866,Shot,564,SHOT,Brandon Duhaime Wrist Shot saved by Alexandar Georgiev,2023-02-16T04:16:37Z,2,14:14,05:46,1,2,30.0,Minnesota Wild,MIN
+186,30,21,Minnesota Wild,Colorado Avalanche,2022020866565,2022020866,Stoppage,565,STOP,Goalie Stopped,2023-02-16T04:16:39Z,2,14:15,05:45,1,2,,,
+187,30,21,Minnesota Wild,Colorado Avalanche,2022020866344,2022020866,Faceoff,344,FACEOFF,Sam Steel faceoff won against J.T. Compher,2023-02-16T04:19:07Z,2,14:15,05:45,1,2,30.0,Minnesota Wild,MIN
+188,30,21,Minnesota Wild,Colorado Avalanche,2022020866345,2022020866,Blocked Shot,345,BLOCKED_SHOT,Jonas Brodin shot blocked shot by Mikko Rantanen,2023-02-16T04:19:10Z,2,14:18,05:42,1,2,21.0,Colorado Avalanche,COL
+189,30,21,Minnesota Wild,Colorado Avalanche,2022020866566,2022020866,Stoppage,566,STOP,Puck in Crowd,2023-02-16T04:19:20Z,2,14:28,05:32,1,2,,,
+190,30,21,Minnesota Wild,Colorado Avalanche,2022020866346,2022020866,Faceoff,346,FACEOFF,Mikko Rantanen faceoff won against Frederick Gaudreau,2023-02-16T04:19:50Z,2,14:28,05:32,1,2,21.0,Colorado Avalanche,COL
+191,30,21,Minnesota Wild,Colorado Avalanche,2022020866567,2022020866,Shot,567,SHOT,Sam Steel Wrist Shot saved by Alexandar Georgiev,2023-02-16T04:20:16Z,2,14:54,05:06,1,2,30.0,Minnesota Wild,MIN
+192,30,21,Minnesota Wild,Colorado Avalanche,2022020866197,2022020866,Hit,197,HIT,Devon Toews hit Kirill Kaprizov,2023-02-16T04:20:50Z,2,15:28,04:32,1,2,21.0,Colorado Avalanche,COL
+193,30,21,Minnesota Wild,Colorado Avalanche,2022020866347,2022020866,Blocked Shot,347,BLOCKED_SHOT,Jake Middleton shot blocked shot by Denis Malgin,2023-02-16T04:21:03Z,2,15:41,04:19,1,2,21.0,Colorado Avalanche,COL
+194,30,21,Minnesota Wild,Colorado Avalanche,2022020866568,2022020866,Stoppage,568,STOP,Puck in Netting,2023-02-16T04:21:03Z,2,15:42,04:18,1,2,,,
+195,30,21,Minnesota Wild,Colorado Avalanche,2022020866348,2022020866,Faceoff,348,FACEOFF,Alex Newhook faceoff won against Ryan Hartman,2023-02-16T04:21:35Z,2,15:42,04:18,1,2,21.0,Colorado Avalanche,COL
+196,30,21,Minnesota Wild,Colorado Avalanche,2022020866198,2022020866,Takeaway,198,TAKEAWAY,Takeaway by Jonas Brodin,2023-02-16T04:21:41Z,2,15:48,04:12,1,2,30.0,Minnesota Wild,MIN
+197,30,21,Minnesota Wild,Colorado Avalanche,2022020866569,2022020866,Stoppage,569,STOP,Offside,2023-02-16T04:22:06Z,2,16:13,03:47,1,2,,,
+198,30,21,Minnesota Wild,Colorado Avalanche,2022020866349,2022020866,Faceoff,349,FACEOFF,Artturi Lehkonen faceoff won against Joel Eriksson Ek,2023-02-16T04:22:46Z,2,16:13,03:47,1,2,21.0,Colorado Avalanche,COL
+199,30,21,Minnesota Wild,Colorado Avalanche,2022020866350,2022020866,Goal,350,GOAL,"Nathan MacKinnon (18) Snap Shot, assists: Artturi Lehkonen (20), Devon Toews (26)",2023-02-16T04:23:02Z,2,16:29,03:31,1,3,21.0,Colorado Avalanche,COL
+200,30,21,Minnesota Wild,Colorado Avalanche,2022020866651,2022020866,Faceoff,651,FACEOFF,Joel Eriksson Ek faceoff won against Nathan MacKinnon,2023-02-16T04:23:48Z,2,16:29,03:31,1,3,30.0,Minnesota Wild,MIN
+201,30,21,Minnesota Wild,Colorado Avalanche,2022020866200,2022020866,Hit,200,HIT,Josh Manson hit Joel Eriksson Ek,2023-02-16T04:24:21Z,2,17:02,02:58,1,3,21.0,Colorado Avalanche,COL
+202,30,21,Minnesota Wild,Colorado Avalanche,2022020866401,2022020866,Hit,401,HIT,Connor Dewar hit Mikko Rantanen,2023-02-16T04:25:01Z,2,17:42,02:18,1,3,30.0,Minnesota Wild,MIN
+203,30,21,Minnesota Wild,Colorado Avalanche,2022020866570,2022020866,Shot,570,SHOT,Jordan Greenway Snap Shot saved by Alexandar Georgiev,2023-02-16T04:25:46Z,2,18:27,01:33,1,3,30.0,Minnesota Wild,MIN
+204,30,21,Minnesota Wild,Colorado Avalanche,2022020866571,2022020866,Stoppage,571,STOP,Goalie Stopped,2023-02-16T04:25:47Z,2,18:28,01:32,1,3,,,
+205,30,21,Minnesota Wild,Colorado Avalanche,2022020866652,2022020866,Faceoff,652,FACEOFF,Alex Newhook faceoff won against Sam Steel,2023-02-16T04:26:19Z,2,18:28,01:32,1,3,21.0,Colorado Avalanche,COL
+206,30,21,Minnesota Wild,Colorado Avalanche,2022020866653,2022020866,Blocked Shot,653,BLOCKED_SHOT,Jordan Greenway shot blocked shot by Josh Manson,2023-02-16T04:26:28Z,2,18:37,01:23,1,3,21.0,Colorado Avalanche,COL
+207,30,21,Minnesota Wild,Colorado Avalanche,2022020866572,2022020866,Shot,572,SHOT,Frederick Gaudreau Backhand saved by Alexandar Georgiev,2023-02-16T04:26:50Z,2,18:59,01:01,1,3,30.0,Minnesota Wild,MIN
+208,30,21,Minnesota Wild,Colorado Avalanche,2022020866402,2022020866,Hit,402,HIT,Logan O'Connor hit Frederick Gaudreau,2023-02-16T04:27:04Z,2,19:13,00:47,1,3,21.0,Colorado Avalanche,COL
+209,30,21,Minnesota Wild,Colorado Avalanche,2022020866654,2022020866,Shot,654,SHOT,Artturi Lehkonen Deflected saved by Marc-Andre Fleury,2023-02-16T04:27:14Z,2,19:23,00:37,1,3,21.0,Colorado Avalanche,COL
+210,30,21,Minnesota Wild,Colorado Avalanche,2022020866655,2022020866,Blocked Shot,655,BLOCKED_SHOT,Matt Dumba shot blocked shot by Artturi Lehkonen,2023-02-16T04:27:46Z,2,19:55,00:05,1,3,21.0,Colorado Avalanche,COL
+211,30,21,Minnesota Wild,Colorado Avalanche,2022020866656,2022020866,Period End,656,PERIOD_END,End of 2nd Period,2023-02-16T04:27:52Z,2,20:00,00:00,1,3,,,
+212,30,21,Minnesota Wild,Colorado Avalanche,2022020866659,2022020866,Period Official,659,PERIOD_OFFICIAL,Period Official,2023-02-16T04:27:57Z,2,20:00,00:00,1,3,,,
+213,30,21,Minnesota Wild,Colorado Avalanche,2022020866660,2022020866,Period Ready,660,PERIOD_READY,Period Ready,2023-02-16T04:46:44Z,3,00:00,20:00,1,3,,,
+214,30,21,Minnesota Wild,Colorado Avalanche,2022020866661,2022020866,Period Start,661,PERIOD_START,Period Start,2023-02-16T04:47:12Z,3,00:00,20:00,1,3,,,
+215,30,21,Minnesota Wild,Colorado Avalanche,2022020866662,2022020866,Faceoff,662,FACEOFF,Joel Eriksson Ek faceoff won against Nathan MacKinnon,2023-02-16T04:47:12Z,3,00:00,20:00,1,3,30.0,Minnesota Wild,MIN
+216,30,21,Minnesota Wild,Colorado Avalanche,2022020866403,2022020866,Hit,403,HIT,Jared Spurgeon hit Artturi Lehkonen,2023-02-16T04:47:36Z,3,00:24,19:36,1,3,30.0,Minnesota Wild,MIN
+217,30,21,Minnesota Wild,Colorado Avalanche,2022020866663,2022020866,Blocked Shot,663,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Jake Middleton,2023-02-16T04:47:50Z,3,00:38,19:22,1,3,30.0,Minnesota Wild,MIN
+218,30,21,Minnesota Wild,Colorado Avalanche,2022020866664,2022020866,Shot,664,SHOT,Matt Boldy Snap Shot saved by Alexandar Georgiev,2023-02-16T04:48:35Z,3,01:23,18:37,1,3,30.0,Minnesota Wild,MIN
+219,30,21,Minnesota Wild,Colorado Avalanche,2022020866573,2022020866,Shot,573,SHOT,Andrew Cogliano Wrist Shot saved by Marc-Andre Fleury,2023-02-16T04:49:08Z,3,01:56,18:04,1,3,21.0,Colorado Avalanche,COL
+220,30,21,Minnesota Wild,Colorado Avalanche,2022020866665,2022020866,Missed Shot,665,MISSED_SHOT,Alex Newhook Wide of Net Marc-Andre Fleury,2023-02-16T04:49:11Z,3,01:59,18:01,1,3,21.0,Colorado Avalanche,COL
+221,30,21,Minnesota Wild,Colorado Avalanche,2022020866574,2022020866,Shot,574,SHOT,Nathan MacKinnon Snap Shot saved by Marc-Andre Fleury,2023-02-16T04:49:48Z,3,02:36,17:24,1,3,21.0,Colorado Avalanche,COL
+222,30,21,Minnesota Wild,Colorado Avalanche,2022020866575,2022020866,Shot,575,SHOT,Josh Manson Snap Shot saved by Marc-Andre Fleury,2023-02-16T04:50:24Z,3,03:12,16:48,1,3,21.0,Colorado Avalanche,COL
+223,30,21,Minnesota Wild,Colorado Avalanche,2022020866404,2022020866,Takeaway,404,TAKEAWAY,Takeaway by Sam Steel,2023-02-16T04:50:33Z,3,03:21,16:39,1,3,30.0,Minnesota Wild,MIN
+224,30,21,Minnesota Wild,Colorado Avalanche,2022020866405,2022020866,Hit,405,HIT,Mikko Rantanen hit Sam Steel,2023-02-16T04:50:45Z,3,03:33,16:27,1,3,21.0,Colorado Avalanche,COL
+225,30,21,Minnesota Wild,Colorado Avalanche,2022020866666,2022020866,Missed Shot,666,MISSED_SHOT,Jordan Greenway Wide of Net Alexandar Georgiev,2023-02-16T04:50:51Z,3,03:39,16:21,1,3,30.0,Minnesota Wild,MIN
+226,30,21,Minnesota Wild,Colorado Avalanche,2022020866667,2022020866,Shot,667,SHOT,Ryan Hartman Snap Shot saved by Alexandar Georgiev,2023-02-16T04:50:56Z,3,03:44,16:16,1,3,30.0,Minnesota Wild,MIN
+227,30,21,Minnesota Wild,Colorado Avalanche,2022020866576,2022020866,Stoppage,576,STOP,Goalie Stopped,2023-02-16T04:50:56Z,3,03:45,16:15,1,3,,,
+228,30,21,Minnesota Wild,Colorado Avalanche,2022020866668,2022020866,Faceoff,668,FACEOFF,Joel Eriksson Ek faceoff won against Nathan MacKinnon,2023-02-16T04:51:26Z,3,03:45,16:15,1,3,30.0,Minnesota Wild,MIN
+229,30,21,Minnesota Wild,Colorado Avalanche,2022020866577,2022020866,Missed Shot,577,MISSED_SHOT,Nathan MacKinnon Wide of Net Marc-Andre Fleury,2023-02-16T04:51:35Z,3,03:54,16:06,1,3,21.0,Colorado Avalanche,COL
+230,30,21,Minnesota Wild,Colorado Avalanche,2022020866669,2022020866,Shot,669,SHOT,Joel Eriksson Ek Snap Shot saved by Alexandar Georgiev,2023-02-16T04:51:47Z,3,04:06,15:54,1,3,30.0,Minnesota Wild,MIN
+231,30,21,Minnesota Wild,Colorado Avalanche,2022020866670,2022020866,Blocked Shot,670,BLOCKED_SHOT,Logan O'Connor shot blocked shot by Jonas Brodin,2023-02-16T04:52:10Z,3,04:29,15:31,1,3,30.0,Minnesota Wild,MIN
+232,30,21,Minnesota Wild,Colorado Avalanche,2022020866578,2022020866,Blocked Shot,578,BLOCKED_SHOT,Denis Malgin shot blocked shot by Jon Merrill,2023-02-16T04:52:51Z,3,05:10,14:50,1,3,30.0,Minnesota Wild,MIN
+233,30,21,Minnesota Wild,Colorado Avalanche,2022020866671,2022020866,Blocked Shot,671,BLOCKED_SHOT,Connor Dewar shot blocked shot by Josh Manson,2023-02-16T04:53:09Z,3,05:28,14:32,1,3,21.0,Colorado Avalanche,COL
+234,30,21,Minnesota Wild,Colorado Avalanche,2022020866407,2022020866,Hit,407,HIT,Connor Dewar hit J.T. Compher,2023-02-16T04:53:21Z,3,05:40,14:20,1,3,30.0,Minnesota Wild,MIN
+235,30,21,Minnesota Wild,Colorado Avalanche,2022020866672,2022020866,Missed Shot,672,MISSED_SHOT,Frederick Gaudreau Wide of Net Alexandar Georgiev,2023-02-16T04:53:56Z,3,06:15,13:45,1,3,30.0,Minnesota Wild,MIN
+236,30,21,Minnesota Wild,Colorado Avalanche,2022020866673,2022020866,Missed Shot,673,MISSED_SHOT,Jared Spurgeon Wide of Net Alexandar Georgiev,2023-02-16T04:54:09Z,3,06:28,13:32,1,3,30.0,Minnesota Wild,MIN
+237,30,21,Minnesota Wild,Colorado Avalanche,2022020866408,2022020866,Hit,408,HIT,Bowen Byram hit Mason Shaw,2023-02-16T04:54:15Z,3,06:32,13:28,1,3,21.0,Colorado Avalanche,COL
+238,30,21,Minnesota Wild,Colorado Avalanche,2022020866409,2022020866,Hit,409,HIT,Valeri Nichushkin hit Ryan Reaves,2023-02-16T04:54:33Z,3,06:52,13:08,1,3,21.0,Colorado Avalanche,COL
+239,30,21,Minnesota Wild,Colorado Avalanche,2022020866580,2022020866,Shot,580,SHOT,Artturi Lehkonen Snap Shot saved by Marc-Andre Fleury,2023-02-16T04:54:40Z,3,06:59,13:01,1,3,21.0,Colorado Avalanche,COL
+240,30,21,Minnesota Wild,Colorado Avalanche,2022020866581,2022020866,Shot,581,SHOT,Valeri Nichushkin Deflected saved by Marc-Andre Fleury,2023-02-16T04:54:53Z,3,07:12,12:48,1,3,21.0,Colorado Avalanche,COL
+241,30,21,Minnesota Wild,Colorado Avalanche,2022020866584,2022020866,Shot,584,SHOT,Nathan MacKinnon Backhand saved by Marc-Andre Fleury,2023-02-16T04:54:56Z,3,07:15,12:45,1,3,21.0,Colorado Avalanche,COL
+242,30,21,Minnesota Wild,Colorado Avalanche,2022020866582,2022020866,Shot,582,SHOT,Nathan MacKinnon Wrist Shot saved by Marc-Andre Fleury,2023-02-16T04:55:06Z,3,07:25,12:35,1,3,21.0,Colorado Avalanche,COL
+243,30,21,Minnesota Wild,Colorado Avalanche,2022020866674,2022020866,Missed Shot,674,MISSED_SHOT,Ryan Hartman Wide of Net Alexandar Georgiev,2023-02-16T04:55:33Z,3,07:52,12:08,1,3,30.0,Minnesota Wild,MIN
+244,30,21,Minnesota Wild,Colorado Avalanche,2022020866410,2022020866,Hit,410,HIT,Evan Rodrigues hit Matt Boldy,2023-02-16T04:56:10Z,3,08:29,11:31,1,3,21.0,Colorado Avalanche,COL
+245,30,21,Minnesota Wild,Colorado Avalanche,2022020866585,2022020866,Shot,585,SHOT,Valeri Nichushkin Wrist Shot saved by Marc-Andre Fleury,2023-02-16T04:56:55Z,3,09:14,10:46,1,3,21.0,Colorado Avalanche,COL
+246,30,21,Minnesota Wild,Colorado Avalanche,2022020866675,2022020866,Missed Shot,675,MISSED_SHOT,Connor Dewar Wide of Net Alexandar Georgiev,2023-02-16T04:57:34Z,3,09:53,10:07,1,3,30.0,Minnesota Wild,MIN
+247,30,21,Minnesota Wild,Colorado Avalanche,2022020866411,2022020866,Hit,411,HIT,Andreas Englund hit Connor Dewar,2023-02-16T04:57:40Z,3,09:59,10:01,1,3,21.0,Colorado Avalanche,COL
+248,30,21,Minnesota Wild,Colorado Avalanche,2022020866586,2022020866,Blocked Shot,586,BLOCKED_SHOT,Jonas Brodin shot blocked shot by J.T. Compher,2023-02-16T04:57:50Z,3,10:09,09:51,1,3,21.0,Colorado Avalanche,COL
+249,30,21,Minnesota Wild,Colorado Avalanche,2022020866676,2022020866,Shot,676,SHOT,Sam Steel Snap Shot saved by Alexandar Georgiev,2023-02-16T04:58:12Z,3,10:31,09:29,1,3,30.0,Minnesota Wild,MIN
+250,30,21,Minnesota Wild,Colorado Avalanche,2022020866412,2022020866,Giveaway,412,GIVEAWAY,Giveaway by Alex Goligoski,2023-02-16T04:58:26Z,3,10:42,09:18,1,3,30.0,Minnesota Wild,MIN
+251,30,21,Minnesota Wild,Colorado Avalanche,2022020866587,2022020866,Stoppage,587,STOP,Icing,2023-02-16T04:58:29Z,3,10:48,09:12,1,3,,,
+252,30,21,Minnesota Wild,Colorado Avalanche,2022020866677,2022020866,Faceoff,677,FACEOFF,Matt Boldy faceoff won against Nathan MacKinnon,2023-02-16T04:59:03Z,3,10:48,09:12,1,3,30.0,Minnesota Wild,MIN
+253,30,21,Minnesota Wild,Colorado Avalanche,2022020866416,2022020866,Hit,416,HIT,Samuel Girard hit Mats Zuccarello,2023-02-16T04:58:22Z,3,10:58,09:02,1,3,21.0,Colorado Avalanche,COL
+254,30,21,Minnesota Wild,Colorado Avalanche,2022020866678,2022020866,Shot,678,SHOT,Jonas Brodin Snap Shot saved by Alexandar Georgiev,2023-02-16T04:59:16Z,3,11:01,08:59,1,3,30.0,Minnesota Wild,MIN
+255,30,21,Minnesota Wild,Colorado Avalanche,2022020866679,2022020866,Blocked Shot,679,BLOCKED_SHOT,Denis Malgin shot blocked shot by Mats Zuccarello,2023-02-16T04:59:29Z,3,11:14,08:46,1,3,30.0,Minnesota Wild,MIN
+256,30,21,Minnesota Wild,Colorado Avalanche,2022020866413,2022020866,Hit,413,HIT,Denis Malgin hit Matt Boldy,2023-02-16T04:59:46Z,3,11:31,08:29,1,3,21.0,Colorado Avalanche,COL
+257,30,21,Minnesota Wild,Colorado Avalanche,2022020866588,2022020866,Shot,588,SHOT,Mikko Rantanen Wrist Shot saved by Marc-Andre Fleury,2023-02-16T05:00:18Z,3,12:03,07:57,1,3,21.0,Colorado Avalanche,COL
+258,30,21,Minnesota Wild,Colorado Avalanche,2022020866680,2022020866,Shot,680,SHOT,Brandon Duhaime Snap Shot saved by Alexandar Georgiev,2023-02-16T05:00:36Z,3,12:21,07:39,1,3,30.0,Minnesota Wild,MIN
+259,30,21,Minnesota Wild,Colorado Avalanche,2022020866415,2022020866,Hit,415,HIT,Josh Manson hit Connor Dewar,2023-02-16T05:00:58Z,3,12:43,07:17,1,3,21.0,Colorado Avalanche,COL
+260,30,21,Minnesota Wild,Colorado Avalanche,2022020866681,2022020866,Blocked Shot,681,BLOCKED_SHOT,Bowen Byram shot blocked shot by Frederick Gaudreau,2023-02-16T05:01:04Z,3,12:49,07:11,1,3,30.0,Minnesota Wild,MIN
+261,30,21,Minnesota Wild,Colorado Avalanche,2022020866682,2022020866,Shot,682,SHOT,Mason Shaw Wrist Shot saved by Alexandar Georgiev,2023-02-16T05:01:39Z,3,13:24,06:36,1,3,30.0,Minnesota Wild,MIN
+262,30,21,Minnesota Wild,Colorado Avalanche,2022020866589,2022020866,Stoppage,589,STOP,Goalie Stopped,2023-02-16T05:01:41Z,3,13:26,06:34,1,3,,,
+263,30,21,Minnesota Wild,Colorado Avalanche,2022020866683,2022020866,Faceoff,683,FACEOFF,J.T. Compher faceoff won against Matt Boldy,2023-02-16T05:04:22Z,3,13:26,06:34,1,3,21.0,Colorado Avalanche,COL
+264,30,21,Minnesota Wild,Colorado Avalanche,2022020866417,2022020866,Hit,417,HIT,Mats Zuccarello hit Samuel Girard,2023-02-16T05:04:27Z,3,13:31,06:29,1,3,30.0,Minnesota Wild,MIN
+265,30,21,Minnesota Wild,Colorado Avalanche,2022020866684,2022020866,Goal,684,GOAL,"Kirill Kaprizov (31) Backhand, assists: Mats Zuccarello (35), Jonas Brodin (8)",2023-02-16T05:05:03Z,3,14:07,05:53,2,3,30.0,Minnesota Wild,MIN
+266,30,21,Minnesota Wild,Colorado Avalanche,2022020866685,2022020866,Faceoff,685,FACEOFF,Nathan MacKinnon faceoff won against Ryan Hartman,2023-02-16T05:05:51Z,3,14:07,05:53,2,3,21.0,Colorado Avalanche,COL
+267,30,21,Minnesota Wild,Colorado Avalanche,2022020866590,2022020866,Blocked Shot,590,BLOCKED_SHOT,Brandon Duhaime shot blocked shot by Josh Manson,2023-02-16T05:06:12Z,3,14:28,05:32,2,3,21.0,Colorado Avalanche,COL
+268,30,21,Minnesota Wild,Colorado Avalanche,2022020866591,2022020866,Blocked Shot,591,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by J.T. Compher,2023-02-16T05:07:23Z,3,15:39,04:21,2,3,21.0,Colorado Avalanche,COL
+269,30,21,Minnesota Wild,Colorado Avalanche,2022020866592,2022020866,Stoppage,592,STOP,Puck in Netting,2023-02-16T05:07:24Z,3,15:40,04:20,2,3,,,
+270,30,21,Minnesota Wild,Colorado Avalanche,2022020866686,2022020866,Faceoff,686,FACEOFF,Ryan Hartman faceoff won against Nathan MacKinnon,2023-02-16T05:10:17Z,3,15:40,04:20,2,3,30.0,Minnesota Wild,MIN
+271,30,21,Minnesota Wild,Colorado Avalanche,2022020866687,2022020866,Shot,687,SHOT,Joel Eriksson Ek Wrist Shot saved by Alexandar Georgiev,2023-02-16T05:10:39Z,3,16:02,03:58,2,3,30.0,Minnesota Wild,MIN
+272,30,21,Minnesota Wild,Colorado Avalanche,2022020866593,2022020866,Stoppage,593,STOP,Goalie Stopped,2023-02-16T05:10:41Z,3,16:04,03:56,2,3,,,
+273,30,21,Minnesota Wild,Colorado Avalanche,2022020866688,2022020866,Faceoff,688,FACEOFF,Matt Boldy faceoff won against J.T. Compher,2023-02-16T05:11:23Z,3,16:04,03:56,2,3,30.0,Minnesota Wild,MIN
+274,30,21,Minnesota Wild,Colorado Avalanche,2022020866689,2022020866,Shot,689,SHOT,Jonas Brodin Slap Shot saved by Alexandar Georgiev,2023-02-16T05:11:29Z,3,16:10,03:50,2,3,30.0,Minnesota Wild,MIN
+275,30,21,Minnesota Wild,Colorado Avalanche,2022020866594,2022020866,Blocked Shot,594,BLOCKED_SHOT,Jonas Brodin shot blocked shot by Josh Manson,2023-02-16T05:11:38Z,3,16:19,03:41,2,3,21.0,Colorado Avalanche,COL
+276,30,21,Minnesota Wild,Colorado Avalanche,2022020866595,2022020866,Stoppage,595,STOP,Puck in Netting,2023-02-16T05:11:39Z,3,16:20,03:40,2,3,,,
+277,30,21,Minnesota Wild,Colorado Avalanche,2022020866690,2022020866,Faceoff,690,FACEOFF,Nathan MacKinnon faceoff won against Matt Boldy,2023-02-16T05:12:08Z,3,16:20,03:40,2,3,21.0,Colorado Avalanche,COL
+278,30,21,Minnesota Wild,Colorado Avalanche,2022020866691,2022020866,Shot,691,SHOT,Jared Spurgeon Tip-In saved by Alexandar Georgiev,2023-02-16T05:12:44Z,3,16:56,03:04,2,3,30.0,Minnesota Wild,MIN
+279,30,21,Minnesota Wild,Colorado Avalanche,2022020866692,2022020866,Missed Shot,692,MISSED_SHOT,Kirill Kaprizov Wide of Net Alexandar Georgiev,2023-02-16T05:13:52Z,3,18:04,01:56,2,3,30.0,Minnesota Wild,MIN
+280,30,21,Minnesota Wild,Colorado Avalanche,2022020866418,2022020866,Hit,418,HIT,Evan Rodrigues hit Joel Eriksson Ek,2023-02-16T05:13:56Z,3,18:08,01:52,2,3,21.0,Colorado Avalanche,COL
+281,30,21,Minnesota Wild,Colorado Avalanche,2022020866693,2022020866,Shot,693,SHOT,Kirill Kaprizov Backhand saved by Alexandar Georgiev,2023-02-16T05:14:03Z,3,18:15,01:45,2,3,30.0,Minnesota Wild,MIN
+282,30,21,Minnesota Wild,Colorado Avalanche,2022020866694,2022020866,Missed Shot,694,MISSED_SHOT,Joel Eriksson Ek Wide of Net Alexandar Georgiev,2023-02-16T05:14:17Z,3,18:29,01:31,2,3,30.0,Minnesota Wild,MIN
+283,30,21,Minnesota Wild,Colorado Avalanche,2022020866596,2022020866,Blocked Shot,596,BLOCKED_SHOT,Mats Zuccarello shot blocked shot by Mikko Rantanen,2023-02-16T05:14:24Z,3,18:36,01:24,2,3,21.0,Colorado Avalanche,COL
+284,30,21,Minnesota Wild,Colorado Avalanche,2022020866597,2022020866,Stoppage,597,STOP,Icing,2023-02-16T05:14:33Z,3,18:46,01:14,2,3,,,
+285,30,21,Minnesota Wild,Colorado Avalanche,2022020866695,2022020866,Faceoff,695,FACEOFF,J.T. Compher faceoff won against Joel Eriksson Ek,2023-02-16T05:16:27Z,3,18:46,01:14,2,3,21.0,Colorado Avalanche,COL
+286,30,21,Minnesota Wild,Colorado Avalanche,2022020866598,2022020866,Missed Shot,598,MISSED_SHOT,Mikko Rantanen Wide of Net,2023-02-16T05:16:34Z,3,18:53,01:07,2,3,21.0,Colorado Avalanche,COL
+287,30,21,Minnesota Wild,Colorado Avalanche,2022020866696,2022020866,Missed Shot,696,MISSED_SHOT,Matt Boldy Wide of Net Alexandar Georgiev,2023-02-16T05:16:47Z,3,19:06,00:54,2,3,30.0,Minnesota Wild,MIN
+288,30,21,Minnesota Wild,Colorado Avalanche,2022020866599,2022020866,Stoppage,599,STOP,Icing,2023-02-16T05:17:07Z,3,19:25,00:35,2,3,,,
+289,30,21,Minnesota Wild,Colorado Avalanche,2022020866697,2022020866,Faceoff,697,FACEOFF,Nathan MacKinnon faceoff won against Joel Eriksson Ek,2023-02-16T05:17:31Z,3,19:25,00:35,2,3,21.0,Colorado Avalanche,COL
+290,30,21,Minnesota Wild,Colorado Avalanche,2022020866698,2022020866,Shot,698,SHOT,Jared Spurgeon Slap Shot saved by Alexandar Georgiev,2023-02-16T05:17:48Z,3,19:42,00:18,2,3,30.0,Minnesota Wild,MIN
+291,30,21,Minnesota Wild,Colorado Avalanche,2022020866600,2022020866,Stoppage,600,STOP,Icing,2023-02-16T05:18:04Z,3,19:57,00:03,2,3,,,
+292,30,21,Minnesota Wild,Colorado Avalanche,2022020866699,2022020866,Faceoff,699,FACEOFF,Nathan MacKinnon faceoff won against Joel Eriksson Ek,2023-02-16T05:18:36Z,3,19:57,00:03,2,3,21.0,Colorado Avalanche,COL
+293,30,21,Minnesota Wild,Colorado Avalanche,2022020866419,2022020866,Hit,419,HIT,Devon Toews hit Matt Boldy,2023-02-16T05:18:37Z,3,19:59,00:01,2,3,21.0,Colorado Avalanche,COL
+294,30,21,Minnesota Wild,Colorado Avalanche,2022020866700,2022020866,Period End,700,PERIOD_END,End of 3rd Period,2023-02-16T05:18:38Z,3,20:00,00:00,2,3,,,
+295,30,21,Minnesota Wild,Colorado Avalanche,2022020866903,2022020866,Period Official,903,PERIOD_OFFICIAL,Period Official,2023-02-16T05:18:46Z,3,20:00,00:00,2,3,,,
+296,30,21,Minnesota Wild,Colorado Avalanche,2022020866904,2022020866,Game End,904,GAME_END,Game End,2023-02-16T05:18:49Z,3,20:00,00:00,2,3,,,
+297,30,21,Minnesota Wild,Colorado Avalanche,2022020866905,2022020866,Game Official,905,GAME_OFFICIAL,Game Official,2023-02-16T05:27:40Z,3,20:00,00:00,2,3,,,

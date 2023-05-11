@@ -1,0 +1,329 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,5,24,Pittsburgh Penguins,Anaheim Ducks,20220207001,2022020700,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-01-16T23:15:12Z,1,00:00,20:00,0,0,,,
+1,5,24,Pittsburgh Penguins,Anaheim Ducks,20220207005,2022020700,Period Ready,5,PERIOD_READY,Period Ready,2023-01-17T00:05:54Z,1,00:00,20:00,0,0,,,
+2,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070051,2022020700,Period Start,51,PERIOD_START,Period Start,2023-01-17T00:08:42Z,1,00:00,20:00,0,0,,,
+3,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070052,2022020700,Faceoff,52,FACEOFF,Sam Carrick faceoff won against Sidney Crosby,2023-01-17T00:08:42Z,1,00:00,20:00,0,0,24.0,Anaheim Ducks,ANA
+4,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070053,2022020700,Hit,53,HIT,Ty Smith hit Sam Carrick,2023-01-17T00:08:53Z,1,00:11,19:49,0,0,5.0,Pittsburgh Penguins,PIT
+5,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070054,2022020700,Hit,54,HIT,Dmitry Kulikov hit Sidney Crosby,2023-01-17T00:09:08Z,1,00:26,19:34,0,0,24.0,Anaheim Ducks,ANA
+6,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070055,2022020700,Hit,55,HIT,Sam Carrick hit Brian Dumoulin,2023-01-17T00:09:28Z,1,00:46,19:14,0,0,24.0,Anaheim Ducks,ANA
+7,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700152,2022020700,Blocked Shot,152,BLOCKED_SHOT,John Klingberg shot blocked shot by Rickard Rakell,2023-01-17T00:09:54Z,1,01:12,18:48,0,0,5.0,Pittsburgh Penguins,PIT
+8,5,24,Pittsburgh Penguins,Anaheim Ducks,20220207008,2022020700,Blocked Shot,8,BLOCKED_SHOT,John Klingberg shot blocked shot by Rickard Rakell,2023-01-17T00:10:01Z,1,01:19,18:41,0,0,5.0,Pittsburgh Penguins,PIT
+9,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070056,2022020700,Giveaway,56,GIVEAWAY,Giveaway by Jason Zucker,2023-01-17T00:10:21Z,1,01:39,18:21,0,0,5.0,Pittsburgh Penguins,PIT
+10,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070057,2022020700,Hit,57,HIT,Teddy Blueger hit Kevin Shattenkirk,2023-01-17T00:10:45Z,1,02:03,17:57,0,0,5.0,Pittsburgh Penguins,PIT
+11,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700153,2022020700,Shot,153,SHOT,Troy Terry Wrist Shot saved by Casey DeSmith,2023-01-17T00:10:48Z,1,02:06,17:54,0,0,24.0,Anaheim Ducks,ANA
+12,5,24,Pittsburgh Penguins,Anaheim Ducks,20220207009,2022020700,Shot,9,SHOT,Mason McTavish Snap Shot saved by Casey DeSmith,2023-01-17T00:10:49Z,1,02:07,17:53,0,0,24.0,Anaheim Ducks,ANA
+13,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070010,2022020700,Stoppage,10,STOP,Goalie Stopped,2023-01-17T00:10:51Z,1,02:09,17:51,0,0,,,
+14,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070058,2022020700,Faceoff,58,FACEOFF,Jayson Megna faceoff won against Jonathan Gruden,2023-01-17T00:11:32Z,1,02:09,17:51,0,0,24.0,Anaheim Ducks,ANA
+15,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070059,2022020700,Hit,59,HIT,Mark Friedman hit Brett Leason,2023-01-17T00:11:38Z,1,02:15,17:45,0,0,5.0,Pittsburgh Penguins,PIT
+16,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070011,2022020700,Hit,11,HIT,Jayson Megna hit Marcus Pettersson,2023-01-17T00:11:47Z,1,02:24,17:36,0,0,24.0,Anaheim Ducks,ANA
+17,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070012,2022020700,Stoppage,12,STOP,Icing,2023-01-17T00:12:05Z,1,02:41,17:19,0,0,,,
+18,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070060,2022020700,Faceoff,60,FACEOFF,Mason McTavish faceoff won against Jonathan Gruden,2023-01-17T00:12:30Z,1,02:41,17:19,0,0,24.0,Anaheim Ducks,ANA
+19,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700154,2022020700,Missed Shot,154,MISSED_SHOT,Ty Smith Wide of Net John Gibson,2023-01-17T00:12:51Z,1,03:02,16:58,0,0,5.0,Pittsburgh Penguins,PIT
+20,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700155,2022020700,Shot,155,SHOT,Ty Smith Snap Shot saved by John Gibson,2023-01-17T00:13:03Z,1,03:14,16:46,0,0,5.0,Pittsburgh Penguins,PIT
+21,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700156,2022020700,Missed Shot,156,MISSED_SHOT,Sidney Crosby Wide of Net John Gibson,2023-01-17T00:13:21Z,1,03:32,16:28,0,0,5.0,Pittsburgh Penguins,PIT
+22,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700157,2022020700,Goal,157,GOAL,"Jason Zucker (11) Wrap-around, assists: Evgeni Malkin (26), Rickard Rakell (12)",2023-01-17T00:14:06Z,1,04:16,15:44,1,0,5.0,Pittsburgh Penguins,PIT
+23,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070061,2022020700,Faceoff,61,FACEOFF,Trevor Zegras faceoff won against Teddy Blueger,2023-01-17T00:14:48Z,1,04:16,15:44,1,0,24.0,Anaheim Ducks,ANA
+24,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070062,2022020700,Stoppage,62,STOP,Puck in Netting,2023-01-17T00:15:00Z,1,04:29,15:31,1,0,,,
+25,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070063,2022020700,Faceoff,63,FACEOFF,Ryan Strome faceoff won against Jeff Carter,2023-01-17T00:15:34Z,1,04:29,15:31,1,0,24.0,Anaheim Ducks,ANA
+26,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700159,2022020700,Blocked Shot,159,BLOCKED_SHOT,Teddy Blueger shot blocked shot by Urho Vaakanainen,2023-01-17T00:15:55Z,1,04:50,15:10,1,0,24.0,Anaheim Ducks,ANA
+27,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070013,2022020700,Stoppage,13,STOP,Puck Frozen,2023-01-17T00:16:03Z,1,04:58,15:02,1,0,,,
+28,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700143,2022020700,Penalty,143,PENALTY,Kevin Shattenkirk Roughing against Teddy Blueger,2023-01-17T00:16:03Z,1,04:58,15:02,1,0,24.0,Anaheim Ducks,ANA
+29,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070064,2022020700,Faceoff,64,FACEOFF,Sidney Crosby faceoff won against Adam Henrique,2023-01-17T00:17:02Z,1,04:58,15:02,1,0,5.0,Pittsburgh Penguins,PIT
+30,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700160,2022020700,Missed Shot,160,MISSED_SHOT,Evgeni Malkin Wide of Net John Gibson,2023-01-17T00:17:03Z,1,04:59,15:01,1,0,5.0,Pittsburgh Penguins,PIT
+31,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700205,2022020700,Shot,205,SHOT,Simon Benoit Wrist Shot saved by Casey DeSmith,2023-01-17T00:17:09Z,1,05:05,14:55,1,0,24.0,Anaheim Ducks,ANA
+32,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070065,2022020700,Stoppage,65,STOP,Offside,2023-01-17T00:17:41Z,1,05:37,14:23,1,0,,,
+33,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070066,2022020700,Faceoff,66,FACEOFF,Sidney Crosby faceoff won against Adam Henrique,2023-01-17T00:18:10Z,1,05:37,14:23,1,0,5.0,Pittsburgh Penguins,PIT
+34,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700161,2022020700,Blocked Shot,161,BLOCKED_SHOT,Rickard Rakell shot blocked shot by Urho Vaakanainen,2023-01-17T00:19:03Z,1,06:30,13:30,1,0,24.0,Anaheim Ducks,ANA
+35,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070015,2022020700,Missed Shot,15,MISSED_SHOT,Evgeni Malkin Wide of Net John Gibson,2023-01-17T00:19:12Z,1,06:39,13:21,1,0,5.0,Pittsburgh Penguins,PIT
+36,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700162,2022020700,Shot,162,SHOT,Ty Smith Wrist Shot saved by John Gibson,2023-01-17T00:19:15Z,1,06:42,13:18,1,0,5.0,Pittsburgh Penguins,PIT
+37,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070016,2022020700,Stoppage,16,STOP,Goalie Stopped,2023-01-17T00:19:16Z,1,06:43,13:17,1,0,,,
+38,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070067,2022020700,Faceoff,67,FACEOFF,Jason Zucker faceoff won against Sam Carrick,2023-01-17T00:19:53Z,1,06:43,13:17,1,0,5.0,Pittsburgh Penguins,PIT
+39,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700163,2022020700,Blocked Shot,163,BLOCKED_SHOT,Marcus Pettersson shot blocked shot by Simon Benoit,2023-01-17T00:20:04Z,1,06:54,13:06,1,0,24.0,Anaheim Ducks,ANA
+40,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070017,2022020700,Missed Shot,17,MISSED_SHOT,Jeff Carter Wide of Net John Gibson,2023-01-17T00:20:12Z,1,07:02,12:58,1,0,5.0,Pittsburgh Penguins,PIT
+41,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700165,2022020700,Shot,165,SHOT,Sam Carrick Wrist Shot saved by Casey DeSmith,2023-01-17T00:20:24Z,1,07:14,12:46,1,0,24.0,Anaheim Ducks,ANA
+42,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070068,2022020700,Hit,68,HIT,Jeff Carter hit Max Jones,2023-01-17T00:20:32Z,1,07:22,12:38,1,0,5.0,Pittsburgh Penguins,PIT
+43,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070018,2022020700,Blocked Shot,18,BLOCKED_SHOT,Jeff Carter shot blocked shot by Simon Benoit,2023-01-17T00:20:43Z,1,07:33,12:27,1,0,24.0,Anaheim Ducks,ANA
+44,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700168,2022020700,Blocked Shot,168,BLOCKED_SHOT,Jonathan Gruden shot blocked shot by John Klingberg,2023-01-17T00:21:03Z,1,07:53,12:07,1,0,24.0,Anaheim Ducks,ANA
+45,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700169,2022020700,Shot,169,SHOT,Brock McGinn Wrist Shot saved by John Gibson,2023-01-17T00:21:23Z,1,08:13,11:47,1,0,5.0,Pittsburgh Penguins,PIT
+46,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070069,2022020700,Giveaway,69,GIVEAWAY,Giveaway by Sidney Crosby,2023-01-17T00:21:48Z,1,08:38,11:22,1,0,5.0,Pittsburgh Penguins,PIT
+47,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070070,2022020700,Hit,70,HIT,Chad Ruhwedel hit Trevor Zegras,2023-01-17T00:22:07Z,1,08:57,11:03,1,0,5.0,Pittsburgh Penguins,PIT
+48,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070020,2022020700,Hit,20,HIT,Max Comtois hit Jake Guentzel,2023-01-17T00:22:13Z,1,09:03,10:57,1,0,24.0,Anaheim Ducks,ANA
+49,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700170,2022020700,Blocked Shot,170,BLOCKED_SHOT,Rickard Rakell shot blocked shot by Simon Benoit,2023-01-17T00:22:30Z,1,09:20,10:40,1,0,24.0,Anaheim Ducks,ANA
+50,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700171,2022020700,Shot,171,SHOT,Brian Dumoulin Snap Shot saved by John Gibson,2023-01-17T00:22:45Z,1,09:35,10:25,1,0,5.0,Pittsburgh Penguins,PIT
+51,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070021,2022020700,Stoppage,21,STOP,Goalie Stopped,2023-01-17T00:22:46Z,1,09:36,10:24,1,0,,,
+52,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070072,2022020700,Faceoff,72,FACEOFF,Sam Carrick faceoff won against Jeff Carter,2023-01-17T00:25:12Z,1,09:36,10:24,1,0,24.0,Anaheim Ducks,ANA
+53,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070073,2022020700,Giveaway,73,GIVEAWAY,Giveaway by John Klingberg,2023-01-17T00:25:16Z,1,09:40,10:20,1,0,24.0,Anaheim Ducks,ANA
+54,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070022,2022020700,Hit,22,HIT,Sam Carrick hit Jeff Carter,2023-01-17T00:25:30Z,1,09:54,10:06,1,0,24.0,Anaheim Ducks,ANA
+55,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070074,2022020700,Hit,74,HIT,Teddy Blueger hit Jakob Silfverberg,2023-01-17T00:25:44Z,1,10:08,09:52,1,0,5.0,Pittsburgh Penguins,PIT
+56,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700172,2022020700,Blocked Shot,172,BLOCKED_SHOT,Troy Terry shot blocked shot by Brian Dumoulin,2023-01-17T00:26:23Z,1,10:47,09:13,1,0,5.0,Pittsburgh Penguins,PIT
+57,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700173,2022020700,Shot,173,SHOT,Troy Terry Wrist Shot saved by Casey DeSmith,2023-01-17T00:26:34Z,1,10:58,09:02,1,0,24.0,Anaheim Ducks,ANA
+58,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070075,2022020700,Hit,75,HIT,Brian Dumoulin hit Troy Terry,2023-01-17T00:26:35Z,1,10:59,09:01,1,0,5.0,Pittsburgh Penguins,PIT
+59,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070076,2022020700,Hit,76,HIT,Cam Fowler hit Sidney Crosby,2023-01-17T00:26:50Z,1,11:14,08:46,1,0,24.0,Anaheim Ducks,ANA
+60,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700174,2022020700,Shot,174,SHOT,Rickard Rakell Wrist Shot saved by John Gibson,2023-01-17T00:27:07Z,1,11:31,08:29,1,0,5.0,Pittsburgh Penguins,PIT
+61,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070077,2022020700,Hit,77,HIT,Max Jones hit Marcus Pettersson,2023-01-17T00:27:44Z,1,12:08,07:52,1,0,24.0,Anaheim Ducks,ANA
+62,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070023,2022020700,Takeaway,23,TAKEAWAY,Takeaway by John Klingberg,2023-01-17T00:27:45Z,1,12:09,07:51,1,0,24.0,Anaheim Ducks,ANA
+63,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700175,2022020700,Shot,175,SHOT,Max Jones Wrist Shot saved by Casey DeSmith,2023-01-17T00:27:56Z,1,12:20,07:40,1,0,24.0,Anaheim Ducks,ANA
+64,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700203,2022020700,Missed Shot,203,MISSED_SHOT,Brett Leason Wide of Net Casey DeSmith,2023-01-17T00:27:58Z,1,12:22,07:38,1,0,24.0,Anaheim Ducks,ANA
+65,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700176,2022020700,Shot,176,SHOT,Simon Benoit Wrist Shot saved by Casey DeSmith,2023-01-17T00:28:10Z,1,12:34,07:26,1,0,24.0,Anaheim Ducks,ANA
+66,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070078,2022020700,Hit,78,HIT,Teddy Blueger hit Dmitry Kulikov,2023-01-17T00:28:34Z,1,12:58,07:02,1,0,5.0,Pittsburgh Penguins,PIT
+67,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070024,2022020700,Giveaway,24,GIVEAWAY,Giveaway by Jeff Carter,2023-01-17T00:28:40Z,1,13:04,06:56,1,0,5.0,Pittsburgh Penguins,PIT
+68,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700177,2022020700,Missed Shot,177,MISSED_SHOT,Pierre-Olivier Joseph Wide of Net John Gibson,2023-01-17T00:29:00Z,1,13:24,06:36,1,0,5.0,Pittsburgh Penguins,PIT
+69,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700178,2022020700,Shot,178,SHOT,Ryan Strome Wrist Shot saved by Casey DeSmith,2023-01-17T00:29:50Z,1,14:14,05:46,1,0,24.0,Anaheim Ducks,ANA
+70,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070079,2022020700,Hit,79,HIT,Marcus Pettersson hit Trevor Zegras,2023-01-17T00:29:54Z,1,14:18,05:42,1,0,5.0,Pittsburgh Penguins,PIT
+71,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070080,2022020700,Hit,80,HIT,Evgeni Malkin hit Simon Benoit,2023-01-17T00:30:30Z,1,14:54,05:06,1,0,5.0,Pittsburgh Penguins,PIT
+72,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700179,2022020700,Shot,179,SHOT,Brian Dumoulin Wrist Shot saved by John Gibson,2023-01-17T00:30:58Z,1,15:22,04:38,1,0,5.0,Pittsburgh Penguins,PIT
+73,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070081,2022020700,Hit,81,HIT,Jayson Megna hit Evgeni Malkin,2023-01-17T00:31:00Z,1,15:24,04:36,1,0,24.0,Anaheim Ducks,ANA
+74,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700180,2022020700,Shot,180,SHOT,Pierre-Olivier Joseph Wrist Shot saved by John Gibson,2023-01-17T00:31:23Z,1,15:47,04:13,1,0,5.0,Pittsburgh Penguins,PIT
+75,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070025,2022020700,Shot,25,SHOT,Brock McGinn Wrist Shot saved by John Gibson,2023-01-17T00:31:26Z,1,15:50,04:10,1,0,5.0,Pittsburgh Penguins,PIT
+76,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700204,2022020700,Blocked Shot,204,BLOCKED_SHOT,Pierre-Olivier Joseph shot blocked shot by Jakob Silfverberg,2023-01-17T00:31:28Z,1,15:52,04:08,1,0,24.0,Anaheim Ducks,ANA
+77,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700181,2022020700,Shot,181,SHOT,Jakob Silfverberg Wrist Shot saved by Casey DeSmith,2023-01-17T00:31:41Z,1,16:05,03:55,1,0,24.0,Anaheim Ducks,ANA
+78,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700182,2022020700,Shot,182,SHOT,Teddy Blueger Wrist Shot saved by John Gibson,2023-01-17T00:32:15Z,1,16:39,03:21,1,0,5.0,Pittsburgh Penguins,PIT
+79,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070082,2022020700,Takeaway,82,TAKEAWAY,Takeaway by Marcus Pettersson,2023-01-17T00:32:29Z,1,16:53,03:07,1,0,5.0,Pittsburgh Penguins,PIT
+80,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700183,2022020700,Shot,183,SHOT,Trevor Zegras Snap Shot saved by Casey DeSmith,2023-01-17T00:32:38Z,1,17:02,02:58,1,0,24.0,Anaheim Ducks,ANA
+81,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070026,2022020700,Stoppage,26,STOP,Goalie Stopped,2023-01-17T00:32:40Z,1,17:04,02:56,1,0,,,
+82,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700506,2022020700,Penalty,506,PENALTY,Mark Friedman Roughing against Adam Henrique,2023-01-17T00:32:40Z,1,17:04,02:56,1,0,5.0,Pittsburgh Penguins,PIT
+83,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070083,2022020700,Faceoff,83,FACEOFF,Jeff Carter faceoff won against Adam Henrique,2023-01-17T00:34:58Z,1,17:04,02:56,1,0,5.0,Pittsburgh Penguins,PIT
+84,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700184,2022020700,Shot,184,SHOT,Troy Terry Snap Shot saved by Casey DeSmith,2023-01-17T00:35:39Z,1,17:45,02:15,1,0,24.0,Anaheim Ducks,ANA
+85,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070027,2022020700,Shot,27,SHOT,Mason McTavish Wrist Shot saved by Casey DeSmith,2023-01-17T00:35:43Z,1,17:49,02:11,1,0,24.0,Anaheim Ducks,ANA
+86,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700185,2022020700,Goal,185,GOAL,"Adam Henrique (14) Wrist Shot, assists: Mason McTavish (18), Troy Terry (23)",2023-01-17T00:35:43Z,1,17:50,02:10,1,1,24.0,Anaheim Ducks,ANA
+87,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070084,2022020700,Faceoff,84,FACEOFF,Sam Carrick faceoff won against Sidney Crosby,2023-01-17T00:36:37Z,1,17:50,02:10,1,1,24.0,Anaheim Ducks,ANA
+88,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700186,2022020700,Shot,186,SHOT,Sam Carrick Snap Shot saved by Casey DeSmith,2023-01-17T00:36:46Z,1,17:59,02:01,1,1,24.0,Anaheim Ducks,ANA
+89,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700188,2022020700,Blocked Shot,188,BLOCKED_SHOT,Sidney Crosby shot blocked shot by John Klingberg,2023-01-17T00:37:00Z,1,18:13,01:47,1,1,24.0,Anaheim Ducks,ANA
+90,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070028,2022020700,Stoppage,28,STOP,Puck Frozen,2023-01-17T00:37:03Z,1,18:15,01:45,1,1,,,
+91,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700187,2022020700,Shot,187,SHOT,Bryan Rust Wrist Shot saved by John Gibson,2023-01-17T00:37:03Z,1,18:15,01:45,1,1,5.0,Pittsburgh Penguins,PIT
+92,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070085,2022020700,Faceoff,85,FACEOFF,Sidney Crosby faceoff won against Jakob Silfverberg,2023-01-17T00:39:22Z,1,18:15,01:45,1,1,5.0,Pittsburgh Penguins,PIT
+93,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700189,2022020700,Blocked Shot,189,BLOCKED_SHOT,Jake Guentzel shot blocked shot by Jakob Silfverberg,2023-01-17T00:39:25Z,1,18:18,01:42,1,1,24.0,Anaheim Ducks,ANA
+94,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070029,2022020700,Shot,29,SHOT,Ty Smith Wrist Shot saved by John Gibson,2023-01-17T00:39:39Z,1,18:32,01:28,1,1,5.0,Pittsburgh Penguins,PIT
+95,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070086,2022020700,Hit,86,HIT,Sam Carrick hit Bryan Rust,2023-01-17T00:39:39Z,1,18:32,01:28,1,1,24.0,Anaheim Ducks,ANA
+96,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070030,2022020700,Hit,30,HIT,Simon Benoit hit Sidney Crosby,2023-01-17T00:39:53Z,1,18:46,01:14,1,1,24.0,Anaheim Ducks,ANA
+97,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070087,2022020700,Hit,87,HIT,Jason Zucker hit Dmitry Kulikov,2023-01-17T00:40:13Z,1,19:06,00:54,1,1,5.0,Pittsburgh Penguins,PIT
+98,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070088,2022020700,Giveaway,88,GIVEAWAY,Giveaway by Jason Zucker,2023-01-17T00:40:28Z,1,19:21,00:39,1,1,5.0,Pittsburgh Penguins,PIT
+99,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700190,2022020700,Shot,190,SHOT,Cam Fowler Snap Shot saved by Casey DeSmith,2023-01-17T00:40:34Z,1,19:27,00:33,1,1,24.0,Anaheim Ducks,ANA
+100,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070031,2022020700,Stoppage,31,STOP,Goalie Stopped,2023-01-17T00:40:36Z,1,19:28,00:32,1,1,,,
+101,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070089,2022020700,Faceoff,89,FACEOFF,Jeff Carter faceoff won against Adam Henrique,2023-01-17T00:41:19Z,1,19:28,00:32,1,1,5.0,Pittsburgh Penguins,PIT
+102,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070032,2022020700,Period End,32,PERIOD_END,End of 1st Period,2023-01-17T00:41:51Z,1,20:00,00:00,1,1,,,
+103,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070035,2022020700,Period Official,35,PERIOD_OFFICIAL,Period Official,2023-01-17T00:41:58Z,1,20:00,00:00,1,1,,,
+104,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070036,2022020700,Period Ready,36,PERIOD_READY,Period Ready,2023-01-17T01:00:10Z,2,00:00,20:00,1,1,,,
+105,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070090,2022020700,Period Start,90,PERIOD_START,Period Start,2023-01-17T01:00:28Z,2,00:00,20:00,1,1,,,
+106,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070091,2022020700,Faceoff,91,FACEOFF,Sidney Crosby faceoff won against Sam Carrick,2023-01-17T01:00:28Z,2,00:00,20:00,1,1,5.0,Pittsburgh Penguins,PIT
+107,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700191,2022020700,Blocked Shot,191,BLOCKED_SHOT,Frank Vatrano shot blocked shot by Ty Smith,2023-01-17T01:00:45Z,2,00:17,19:43,1,1,5.0,Pittsburgh Penguins,PIT
+108,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070039,2022020700,Hit,39,HIT,Ty Smith hit Frank Vatrano,2023-01-17T01:00:46Z,2,00:18,19:42,1,1,5.0,Pittsburgh Penguins,PIT
+109,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070092,2022020700,Hit,92,HIT,Marcus Pettersson hit Max Comtois,2023-01-17T01:01:23Z,2,00:55,19:05,1,1,5.0,Pittsburgh Penguins,PIT
+110,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700192,2022020700,Shot,192,SHOT,John Klingberg Snap Shot saved by Casey DeSmith,2023-01-17T01:01:24Z,2,00:56,19:04,1,1,24.0,Anaheim Ducks,ANA
+111,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070037,2022020700,Stoppage,37,STOP,Goalie Stopped,2023-01-17T01:01:27Z,2,00:58,19:02,1,1,,,
+112,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070093,2022020700,Faceoff,93,FACEOFF,Teddy Blueger faceoff won against Ryan Strome,2023-01-17T01:01:59Z,2,00:58,19:02,1,1,5.0,Pittsburgh Penguins,PIT
+113,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700193,2022020700,Shot,193,SHOT,Jeff Carter Wrist Shot saved by John Gibson,2023-01-17T01:02:12Z,2,01:11,18:49,1,1,5.0,Pittsburgh Penguins,PIT
+114,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070038,2022020700,Takeaway,38,TAKEAWAY,Takeaway by Teddy Blueger,2023-01-17T01:02:25Z,2,01:24,18:36,1,1,5.0,Pittsburgh Penguins,PIT
+115,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700194,2022020700,Blocked Shot,194,BLOCKED_SHOT,Rickard Rakell shot blocked shot by Urho Vaakanainen,2023-01-17T01:03:21Z,2,02:20,17:40,1,1,24.0,Anaheim Ducks,ANA
+116,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700206,2022020700,Shot,206,SHOT,Jason Zucker Wrist Shot saved by John Gibson,2023-01-17T01:03:27Z,2,02:26,17:34,1,1,5.0,Pittsburgh Penguins,PIT
+117,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700195,2022020700,Shot,195,SHOT,Jason Zucker Wrist Shot saved by John Gibson,2023-01-17T01:03:28Z,2,02:27,17:33,1,1,5.0,Pittsburgh Penguins,PIT
+118,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070040,2022020700,Stoppage,40,STOP,Goalie Stopped,2023-01-17T01:03:29Z,2,02:29,17:31,1,1,,,
+119,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070094,2022020700,Faceoff,94,FACEOFF,Jayson Megna faceoff won against Sidney Crosby,2023-01-17T01:04:24Z,2,02:29,17:31,1,1,24.0,Anaheim Ducks,ANA
+120,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070095,2022020700,Hit,95,HIT,Max Jones hit Ty Smith,2023-01-17T01:04:35Z,2,02:40,17:20,1,1,24.0,Anaheim Ducks,ANA
+121,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700196,2022020700,Shot,196,SHOT,Jayson Megna Wrist Shot saved by Casey DeSmith,2023-01-17T01:04:38Z,2,02:43,17:17,1,1,24.0,Anaheim Ducks,ANA
+122,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070096,2022020700,Hit,96,HIT,Kasperi Kapanen hit Kevin Shattenkirk,2023-01-17T01:05:25Z,2,03:30,16:30,1,1,5.0,Pittsburgh Penguins,PIT
+123,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070042,2022020700,Stoppage,42,STOP,Icing,2023-01-17T01:05:34Z,2,03:39,16:21,1,1,,,
+124,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070097,2022020700,Faceoff,97,FACEOFF,Sam Carrick faceoff won against Jonathan Gruden,2023-01-17T01:05:57Z,2,03:39,16:21,1,1,24.0,Anaheim Ducks,ANA
+125,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070098,2022020700,Hit,98,HIT,Brock McGinn hit Cam Fowler,2023-01-17T01:06:05Z,2,03:47,16:13,1,1,5.0,Pittsburgh Penguins,PIT
+126,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070099,2022020700,Hit,99,HIT,Jonathan Gruden hit Jakob Silfverberg,2023-01-17T01:06:14Z,2,03:56,16:04,1,1,5.0,Pittsburgh Penguins,PIT
+127,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070043,2022020700,Hit,43,HIT,Jonathan Gruden hit Sam Carrick,2023-01-17T01:06:23Z,2,04:05,15:55,1,1,5.0,Pittsburgh Penguins,PIT
+128,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700197,2022020700,Blocked Shot,197,BLOCKED_SHOT,Frank Vatrano shot blocked shot by Mark Friedman,2023-01-17T01:06:24Z,2,04:06,15:54,1,1,5.0,Pittsburgh Penguins,PIT
+129,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700208,2022020700,Blocked Shot,208,BLOCKED_SHOT,Sam Carrick shot blocked shot by Marcus Pettersson,2023-01-17T01:06:26Z,2,04:08,15:52,1,1,5.0,Pittsburgh Penguins,PIT
+130,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700198,2022020700,Missed Shot,198,MISSED_SHOT,Trevor Zegras Wide of Net Casey DeSmith,2023-01-17T01:06:58Z,2,04:40,15:20,1,1,24.0,Anaheim Ducks,ANA
+131,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700207,2022020700,Blocked Shot,207,BLOCKED_SHOT,John Klingberg shot blocked shot by Teddy Blueger,2023-01-17T01:07:02Z,2,04:44,15:16,1,1,5.0,Pittsburgh Penguins,PIT
+132,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700199,2022020700,Shot,199,SHOT,Jeff Carter Wrist Shot saved by John Gibson,2023-01-17T01:07:13Z,2,04:55,15:05,1,1,5.0,Pittsburgh Penguins,PIT
+133,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700100,2022020700,Hit,100,HIT,Simon Benoit hit Drew O'Connor,2023-01-17T01:07:20Z,2,05:02,14:58,1,1,24.0,Anaheim Ducks,ANA
+134,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070045,2022020700,Hit,45,HIT,Pierre-Olivier Joseph hit John Klingberg,2023-01-17T01:07:30Z,2,05:12,14:48,1,1,5.0,Pittsburgh Penguins,PIT
+135,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700200,2022020700,Shot,200,SHOT,Ryan Strome Wrist Shot saved by Casey DeSmith,2023-01-17T01:07:34Z,2,05:16,14:44,1,1,24.0,Anaheim Ducks,ANA
+136,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070046,2022020700,Stoppage,46,STOP,Icing,2023-01-17T01:07:51Z,2,05:33,14:27,1,1,,,
+137,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700451,2022020700,Faceoff,451,FACEOFF,Evgeni Malkin faceoff won against Trevor Zegras,2023-01-17T01:08:20Z,2,05:33,14:27,1,1,5.0,Pittsburgh Penguins,PIT
+138,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700351,2022020700,Missed Shot,351,MISSED_SHOT,Jason Zucker Wide of Net John Gibson,2023-01-17T01:08:30Z,2,05:43,14:17,1,1,5.0,Pittsburgh Penguins,PIT
+139,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700352,2022020700,Shot,352,SHOT,Rickard Rakell Tip-In saved by John Gibson,2023-01-17T01:08:46Z,2,05:59,14:01,1,1,5.0,Pittsburgh Penguins,PIT
+140,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700354,2022020700,Missed Shot,354,MISSED_SHOT,Adam Henrique Wide of Net Casey DeSmith,2023-01-17T01:08:58Z,2,06:11,13:49,1,1,24.0,Anaheim Ducks,ANA
+141,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700452,2022020700,Takeaway,452,TAKEAWAY,Takeaway by Adam Henrique,2023-01-17T01:09:12Z,2,06:25,13:35,1,1,24.0,Anaheim Ducks,ANA
+142,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700453,2022020700,Hit,453,HIT,Chad Ruhwedel hit Jayson Megna,2023-01-17T01:09:37Z,2,06:50,13:10,1,1,5.0,Pittsburgh Penguins,PIT
+143,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700454,2022020700,Hit,454,HIT,Brett Leason hit Pierre-Olivier Joseph,2023-01-17T01:09:47Z,2,07:00,13:00,1,1,24.0,Anaheim Ducks,ANA
+144,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700455,2022020700,Hit,455,HIT,Mark Friedman hit Brett Leason,2023-01-17T01:10:00Z,2,07:13,12:47,1,1,5.0,Pittsburgh Penguins,PIT
+145,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700456,2022020700,Hit,456,HIT,Bryan Rust hit Dmitry Kulikov,2023-01-17T01:10:10Z,2,07:23,12:37,1,1,5.0,Pittsburgh Penguins,PIT
+146,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070047,2022020700,Hit,47,HIT,Brett Leason hit Mark Friedman,2023-01-17T01:10:19Z,2,07:32,12:28,1,1,24.0,Anaheim Ducks,ANA
+147,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700355,2022020700,Shot,355,SHOT,Sam Carrick Wrist Shot saved by Casey DeSmith,2023-01-17T01:10:38Z,2,07:51,12:09,1,1,24.0,Anaheim Ducks,ANA
+148,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700356,2022020700,Shot,356,SHOT,Kasperi Kapanen Wrist Shot saved by John Gibson,2023-01-17T01:10:53Z,2,08:06,11:54,1,1,5.0,Pittsburgh Penguins,PIT
+149,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070048,2022020700,Stoppage,48,STOP,Goalie Stopped,2023-01-17T01:10:55Z,2,08:08,11:52,1,1,,,
+150,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700457,2022020700,Faceoff,457,FACEOFF,Sam Carrick faceoff won against Evgeni Malkin,2023-01-17T01:13:17Z,2,08:08,11:52,1,1,24.0,Anaheim Ducks,ANA
+151,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070049,2022020700,Stoppage,49,STOP,Puck Frozen,2023-01-17T01:13:24Z,2,08:15,11:45,1,1,,,
+152,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700458,2022020700,Faceoff,458,FACEOFF,Evgeni Malkin faceoff won against Sam Carrick,2023-01-17T01:13:48Z,2,08:15,11:45,1,1,5.0,Pittsburgh Penguins,PIT
+153,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700357,2022020700,Blocked Shot,357,BLOCKED_SHOT,Rickard Rakell shot blocked shot by Jakob Silfverberg,2023-01-17T01:13:50Z,2,08:17,11:43,1,1,24.0,Anaheim Ducks,ANA
+154,5,24,Pittsburgh Penguins,Anaheim Ducks,202202070050,2022020700,Stoppage,50,STOP,Puck in Netting,2023-01-17T01:13:50Z,2,08:18,11:42,1,1,,,
+155,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700459,2022020700,Faceoff,459,FACEOFF,Evgeni Malkin faceoff won against Sam Carrick,2023-01-17T01:14:05Z,2,08:18,11:42,1,1,5.0,Pittsburgh Penguins,PIT
+156,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700358,2022020700,Shot,358,SHOT,Ty Smith Slap Shot saved by John Gibson,2023-01-17T01:14:25Z,2,08:38,11:22,1,1,5.0,Pittsburgh Penguins,PIT
+157,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700359,2022020700,Shot,359,SHOT,Rickard Rakell Backhand saved by John Gibson,2023-01-17T01:14:26Z,2,08:39,11:21,1,1,5.0,Pittsburgh Penguins,PIT
+158,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700365,2022020700,Blocked Shot,365,BLOCKED_SHOT,Jason Zucker shot blocked shot by Simon Benoit,2023-01-17T01:14:29Z,2,08:42,11:18,1,1,24.0,Anaheim Ducks,ANA
+159,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700209,2022020700,Blocked Shot,209,BLOCKED_SHOT,Rickard Rakell shot blocked shot by Simon Benoit,2023-01-17T01:14:31Z,2,08:44,11:16,1,1,24.0,Anaheim Ducks,ANA
+160,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700360,2022020700,Goal,360,GOAL,"Evgeni Malkin (15) Wrist Shot, assists: Rickard Rakell (13), Jason Zucker (17)",2023-01-17T01:14:34Z,2,08:46,11:14,2,1,5.0,Pittsburgh Penguins,PIT
+161,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700460,2022020700,Faceoff,460,FACEOFF,Trevor Zegras faceoff won against Sidney Crosby,2023-01-17T01:15:19Z,2,08:46,11:14,2,1,24.0,Anaheim Ducks,ANA
+162,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700461,2022020700,Hit,461,HIT,Mark Friedman hit Max Comtois,2023-01-17T01:15:28Z,2,08:55,11:05,2,1,5.0,Pittsburgh Penguins,PIT
+163,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700401,2022020700,Stoppage,401,STOP,Hand Pass,2023-01-17T01:15:47Z,2,09:14,10:46,2,1,,,
+164,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700462,2022020700,Faceoff,462,FACEOFF,Trevor Zegras faceoff won against Jonathan Gruden,2023-01-17T01:16:23Z,2,09:14,10:46,2,1,24.0,Anaheim Ducks,ANA
+165,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700463,2022020700,Takeaway,463,TAKEAWAY,Takeaway by Jonathan Gruden,2023-01-17T01:16:42Z,2,09:33,10:27,2,1,5.0,Pittsburgh Penguins,PIT
+166,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700402,2022020700,Hit,402,HIT,Dmitry Kulikov hit Jonathan Gruden,2023-01-17T01:16:45Z,2,09:36,10:24,2,1,24.0,Anaheim Ducks,ANA
+167,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700361,2022020700,Blocked Shot,361,BLOCKED_SHOT,Drew O'Connor shot blocked shot by Mason McTavish,2023-01-17T01:17:28Z,2,10:19,09:41,2,1,24.0,Anaheim Ducks,ANA
+168,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700464,2022020700,Hit,464,HIT,Drew O'Connor hit Cam Fowler,2023-01-17T01:17:29Z,2,10:20,09:40,2,1,5.0,Pittsburgh Penguins,PIT
+169,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700403,2022020700,Blocked Shot,403,BLOCKED_SHOT,Jeff Carter shot blocked shot by Mason McTavish,2023-01-17T01:17:37Z,2,10:28,09:32,2,1,24.0,Anaheim Ducks,ANA
+170,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700362,2022020700,Missed Shot,362,MISSED_SHOT,Jeff Carter Wide of Net John Gibson,2023-01-17T01:17:46Z,2,10:37,09:23,2,1,5.0,Pittsburgh Penguins,PIT
+171,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700363,2022020700,Shot,363,SHOT,Urho Vaakanainen Wrist Shot saved by Casey DeSmith,2023-01-17T01:17:59Z,2,10:50,09:10,2,1,24.0,Anaheim Ducks,ANA
+172,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700465,2022020700,Hit,465,HIT,Rickard Rakell hit Brett Leason,2023-01-17T01:18:39Z,2,11:30,08:30,2,1,5.0,Pittsburgh Penguins,PIT
+173,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700404,2022020700,Stoppage,404,STOP,Icing,2023-01-17T01:18:59Z,2,11:50,08:10,2,1,,,
+174,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700466,2022020700,Faceoff,466,FACEOFF,Evgeni Malkin faceoff won against Trevor Zegras,2023-01-17T01:19:24Z,2,11:50,08:10,2,1,5.0,Pittsburgh Penguins,PIT
+175,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700467,2022020700,Hit,467,HIT,Jason Zucker hit John Klingberg,2023-01-17T01:19:30Z,2,11:56,08:04,2,1,5.0,Pittsburgh Penguins,PIT
+176,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700364,2022020700,Shot,364,SHOT,Jake Guentzel Wrist Shot saved by John Gibson,2023-01-17T01:20:10Z,2,12:36,07:24,2,1,5.0,Pittsburgh Penguins,PIT
+177,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700405,2022020700,Stoppage,405,STOP,Goalie Stopped,2023-01-17T01:20:11Z,2,12:37,07:23,2,1,,,
+178,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700469,2022020700,Faceoff,469,FACEOFF,Sam Carrick faceoff won against Sidney Crosby,2023-01-17T01:22:25Z,2,12:37,07:23,2,1,24.0,Anaheim Ducks,ANA
+179,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700470,2022020700,Takeaway,470,TAKEAWAY,Takeaway by Sidney Crosby,2023-01-17T01:22:34Z,2,12:46,07:14,2,1,5.0,Pittsburgh Penguins,PIT
+180,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700630,2022020700,Penalty,630,PENALTY,Jakob Silfverberg Hooking against Sidney Crosby,2023-01-17T01:22:39Z,2,12:51,07:09,2,1,24.0,Anaheim Ducks,ANA
+181,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700472,2022020700,Faceoff,472,FACEOFF,Sidney Crosby faceoff won against Sam Carrick,2023-01-17T01:23:29Z,2,12:51,07:09,2,1,5.0,Pittsburgh Penguins,PIT
+182,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700366,2022020700,Shot,366,SHOT,Sidney Crosby Wrist Shot saved by John Gibson,2023-01-17T01:23:40Z,2,13:02,06:58,2,1,5.0,Pittsburgh Penguins,PIT
+183,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700407,2022020700,Shot,407,SHOT,Evgeni Malkin Slap Shot saved by John Gibson,2023-01-17T01:23:47Z,2,13:09,06:51,2,1,5.0,Pittsburgh Penguins,PIT
+184,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700635,2022020700,Penalty,635,PENALTY,Dmitry Kulikov Cross-checking against Jake Guentzel,2023-01-17T01:23:50Z,2,13:11,06:49,2,1,24.0,Anaheim Ducks,ANA
+185,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700473,2022020700,Faceoff,473,FACEOFF,Sidney Crosby faceoff won against Adam Henrique,2023-01-17T01:24:45Z,2,13:11,06:49,2,1,5.0,Pittsburgh Penguins,PIT
+186,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700367,2022020700,Missed Shot,367,MISSED_SHOT,Ty Smith Wide of Net John Gibson,2023-01-17T01:24:59Z,2,13:25,06:35,2,1,5.0,Pittsburgh Penguins,PIT
+187,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700368,2022020700,Shot,368,SHOT,Evgeni Malkin Slap Shot saved by John Gibson,2023-01-17T01:25:10Z,2,13:36,06:24,2,1,5.0,Pittsburgh Penguins,PIT
+188,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700369,2022020700,Shot,369,SHOT,Bryan Rust Wrist Shot saved by John Gibson,2023-01-17T01:25:27Z,2,13:53,06:07,2,1,5.0,Pittsburgh Penguins,PIT
+189,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700474,2022020700,Takeaway,474,TAKEAWAY,Takeaway by Simon Benoit,2023-01-17T01:25:44Z,2,14:10,05:50,2,1,24.0,Anaheim Ducks,ANA
+190,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700641,2022020700,Penalty,641,PENALTY,Jake Guentzel Hooking against Simon Benoit,2023-01-17T01:25:48Z,2,14:14,05:46,2,1,5.0,Pittsburgh Penguins,PIT
+191,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700475,2022020700,Faceoff,475,FACEOFF,Sidney Crosby faceoff won against Jayson Megna,2023-01-17T01:26:36Z,2,14:14,05:46,2,1,5.0,Pittsburgh Penguins,PIT
+192,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700370,2022020700,Blocked Shot,370,BLOCKED_SHOT,Evgeni Malkin shot blocked shot by Kevin Shattenkirk,2023-01-17T01:27:01Z,2,14:39,05:21,2,1,24.0,Anaheim Ducks,ANA
+193,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700371,2022020700,Shot,371,SHOT,Ty Smith Slap Shot saved by John Gibson,2023-01-17T01:27:06Z,2,14:44,05:16,2,1,5.0,Pittsburgh Penguins,PIT
+194,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700408,2022020700,Stoppage,408,STOP,Goalie Stopped,2023-01-17T01:27:07Z,2,14:45,05:15,2,1,,,
+195,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700476,2022020700,Faceoff,476,FACEOFF,Adam Henrique faceoff won against Sidney Crosby,2023-01-17T01:27:33Z,2,14:45,05:15,2,1,24.0,Anaheim Ducks,ANA
+196,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700372,2022020700,Shot,372,SHOT,Bryan Rust Backhand saved by John Gibson,2023-01-17T01:27:56Z,2,15:08,04:52,2,1,5.0,Pittsburgh Penguins,PIT
+197,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700373,2022020700,Blocked Shot,373,BLOCKED_SHOT,Troy Terry shot blocked shot by Marcus Pettersson,2023-01-17T01:28:21Z,2,15:33,04:27,2,1,5.0,Pittsburgh Penguins,PIT
+198,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700374,2022020700,Shot,374,SHOT,Cam Fowler Slap Shot saved by Casey DeSmith,2023-01-17T01:28:30Z,2,15:42,04:18,2,1,24.0,Anaheim Ducks,ANA
+199,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700375,2022020700,Shot,375,SHOT,Frank Vatrano Wrist Shot saved by Casey DeSmith,2023-01-17T01:29:44Z,2,16:56,03:04,2,1,24.0,Anaheim Ducks,ANA
+200,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700409,2022020700,Blocked Shot,409,BLOCKED_SHOT,Max Comtois shot blocked shot by Marcus Pettersson,2023-01-17T01:29:46Z,2,16:58,03:02,2,1,5.0,Pittsburgh Penguins,PIT
+201,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700376,2022020700,Shot,376,SHOT,Urho Vaakanainen Slap Shot saved by Casey DeSmith,2023-01-17T01:29:53Z,2,17:05,02:55,2,1,24.0,Anaheim Ducks,ANA
+202,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700410,2022020700,Blocked Shot,410,BLOCKED_SHOT,John Klingberg shot blocked shot by Teddy Blueger,2023-01-17T01:30:12Z,2,17:24,02:36,2,1,5.0,Pittsburgh Penguins,PIT
+203,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700477,2022020700,Takeaway,477,TAKEAWAY,Takeaway by Drew O'Connor,2023-01-17T01:30:35Z,2,17:47,02:13,2,1,5.0,Pittsburgh Penguins,PIT
+204,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700377,2022020700,Shot,377,SHOT,Drew O'Connor Wrist Shot saved by John Gibson,2023-01-17T01:30:44Z,2,17:56,02:04,2,1,5.0,Pittsburgh Penguins,PIT
+205,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700478,2022020700,Stoppage,478,STOP,Goalie Stopped,2023-01-17T01:30:45Z,2,17:57,02:03,2,1,,,
+206,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700479,2022020700,Faceoff,479,FACEOFF,Mason McTavish faceoff won against Evgeni Malkin,2023-01-17T01:33:05Z,2,17:57,02:03,2,1,24.0,Anaheim Ducks,ANA
+207,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700480,2022020700,Giveaway,480,GIVEAWAY,Giveaway by Ty Smith,2023-01-17T01:33:38Z,2,18:30,01:30,2,1,5.0,Pittsburgh Penguins,PIT
+208,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700411,2022020700,Stoppage,411,STOP,Icing,2023-01-17T01:34:13Z,2,19:05,00:55,2,1,,,
+209,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700481,2022020700,Faceoff,481,FACEOFF,Sidney Crosby faceoff won against Trevor Zegras,2023-01-17T01:34:37Z,2,19:05,00:55,2,1,5.0,Pittsburgh Penguins,PIT
+210,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700482,2022020700,Giveaway,482,GIVEAWAY,Giveaway by Brian Dumoulin,2023-01-17T01:34:43Z,2,19:12,00:48,2,1,5.0,Pittsburgh Penguins,PIT
+211,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700679,2022020700,Penalty,679,PENALTY,Ty Smith Cross-checking against Trevor Zegras,2023-01-17T01:34:50Z,2,19:18,00:42,2,1,5.0,Pittsburgh Penguins,PIT
+212,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700483,2022020700,Faceoff,483,FACEOFF,Adam Henrique faceoff won against Jeff Carter,2023-01-17T01:35:36Z,2,19:18,00:42,2,1,24.0,Anaheim Ducks,ANA
+213,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700378,2022020700,Blocked Shot,378,BLOCKED_SHOT,Trevor Zegras shot blocked shot by Chad Ruhwedel,2023-01-17T01:35:41Z,2,19:23,00:37,2,1,5.0,Pittsburgh Penguins,PIT
+214,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700379,2022020700,Shot,379,SHOT,Mason McTavish Slap Shot saved by Casey DeSmith,2023-01-17T01:36:17Z,2,19:59,00:01,2,1,24.0,Anaheim Ducks,ANA
+215,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700412,2022020700,Period End,412,PERIOD_END,End of 2nd Period,2023-01-17T01:36:18Z,2,20:00,00:00,2,1,,,
+216,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700415,2022020700,Period Official,415,PERIOD_OFFICIAL,Period Official,2023-01-17T01:36:28Z,2,20:00,00:00,2,1,,,
+217,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700416,2022020700,Period Ready,416,PERIOD_READY,Period Ready,2023-01-17T01:54:21Z,3,00:00,20:00,2,1,,,
+218,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700484,2022020700,Period Start,484,PERIOD_START,Period Start,2023-01-17T01:55:04Z,3,00:00,20:00,2,1,,,
+219,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700485,2022020700,Faceoff,485,FACEOFF,Teddy Blueger faceoff won against Adam Henrique,2023-01-17T01:55:04Z,3,00:00,20:00,2,1,5.0,Pittsburgh Penguins,PIT
+220,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700486,2022020700,Hit,486,HIT,Adam Henrique hit Brian Dumoulin,2023-01-17T01:55:20Z,3,00:16,19:44,2,1,24.0,Anaheim Ducks,ANA
+221,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700380,2022020700,Blocked Shot,380,BLOCKED_SHOT,Adam Henrique shot blocked shot by Brian Dumoulin,2023-01-17T01:55:45Z,3,00:41,19:19,2,1,5.0,Pittsburgh Penguins,PIT
+222,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700487,2022020700,Takeaway,487,TAKEAWAY,Takeaway by Teddy Blueger,2023-01-17T01:55:47Z,3,00:43,19:17,2,1,5.0,Pittsburgh Penguins,PIT
+223,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700488,2022020700,Hit,488,HIT,Mark Friedman hit Frank Vatrano,2023-01-17T01:56:25Z,3,01:21,18:39,2,1,5.0,Pittsburgh Penguins,PIT
+224,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700381,2022020700,Shot,381,SHOT,Sidney Crosby Snap Shot saved by John Gibson,2023-01-17T01:56:50Z,3,01:46,18:14,2,1,5.0,Pittsburgh Penguins,PIT
+225,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700489,2022020700,Hit,489,HIT,Pierre-Olivier Joseph hit Max Jones,2023-01-17T01:57:13Z,3,02:09,17:51,2,1,5.0,Pittsburgh Penguins,PIT
+226,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700417,2022020700,Hit,417,HIT,Max Comtois hit Chad Ruhwedel,2023-01-17T01:57:21Z,3,02:17,17:43,2,1,24.0,Anaheim Ducks,ANA
+227,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700418,2022020700,Stoppage,418,STOP,Puck in Crowd,2023-01-17T01:57:24Z,3,02:19,17:41,2,1,,,
+228,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700490,2022020700,Faceoff,490,FACEOFF,Jeff Carter faceoff won against Jayson Megna,2023-01-17T01:58:22Z,3,02:19,17:41,2,1,5.0,Pittsburgh Penguins,PIT
+229,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700491,2022020700,Giveaway,491,GIVEAWAY,Giveaway by Mark Friedman,2023-01-17T01:58:29Z,3,02:26,17:34,2,1,5.0,Pittsburgh Penguins,PIT
+230,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700419,2022020700,Giveaway,419,GIVEAWAY,Giveaway by Frank Vatrano,2023-01-17T01:58:37Z,3,02:34,17:26,2,1,24.0,Anaheim Ducks,ANA
+231,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700492,2022020700,Hit,492,HIT,Jayson Megna hit Mark Friedman,2023-01-17T01:58:38Z,3,02:35,17:25,2,1,24.0,Anaheim Ducks,ANA
+232,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700493,2022020700,Hit,493,HIT,Jayson Megna hit Mark Friedman,2023-01-17T01:58:48Z,3,02:45,17:15,2,1,24.0,Anaheim Ducks,ANA
+233,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700382,2022020700,Shot,382,SHOT,Jason Zucker Wrist Shot saved by John Gibson,2023-01-17T01:58:50Z,3,02:47,17:13,2,1,5.0,Pittsburgh Penguins,PIT
+234,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700494,2022020700,Takeaway,494,TAKEAWAY,Takeaway by Evgeni Malkin,2023-01-17T01:59:17Z,3,03:14,16:46,2,1,5.0,Pittsburgh Penguins,PIT
+235,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700495,2022020700,Giveaway,495,GIVEAWAY,Giveaway by Jason Zucker,2023-01-17T01:59:24Z,3,03:21,16:39,2,1,5.0,Pittsburgh Penguins,PIT
+236,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700420,2022020700,Stoppage,420,STOP,High Stick,2023-01-17T02:00:31Z,3,04:28,15:32,2,1,,,
+237,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700496,2022020700,Faceoff,496,FACEOFF,Sam Carrick faceoff won against Sidney Crosby,2023-01-17T02:01:01Z,3,04:28,15:32,2,1,24.0,Anaheim Ducks,ANA
+238,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700497,2022020700,Hit,497,HIT,Sam Carrick hit Marcus Pettersson,2023-01-17T02:01:09Z,3,04:36,15:24,2,1,24.0,Anaheim Ducks,ANA
+239,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700422,2022020700,Stoppage,422,STOP,Offside,2023-01-17T02:01:18Z,3,04:45,15:15,2,1,,,
+240,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700498,2022020700,Faceoff,498,FACEOFF,Sidney Crosby faceoff won against Sam Carrick,2023-01-17T02:01:39Z,3,04:45,15:15,2,1,5.0,Pittsburgh Penguins,PIT
+241,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700383,2022020700,Blocked Shot,383,BLOCKED_SHOT,Chad Ruhwedel shot blocked shot by Max Jones,2023-01-17T02:02:23Z,3,05:29,14:31,2,1,24.0,Anaheim Ducks,ANA
+242,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700499,2022020700,Hit,499,HIT,Kevin Shattenkirk hit Drew O'Connor,2023-01-17T02:02:26Z,3,05:32,14:28,2,1,24.0,Anaheim Ducks,ANA
+243,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700423,2022020700,Hit,423,HIT,Jason Zucker hit Kevin Shattenkirk,2023-01-17T02:03:22Z,3,06:28,13:32,2,1,5.0,Pittsburgh Penguins,PIT
+244,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700500,2022020700,Giveaway,500,GIVEAWAY,Giveaway by Evgeni Malkin,2023-01-17T02:03:23Z,3,06:29,13:31,2,1,5.0,Pittsburgh Penguins,PIT
+245,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700701,2022020700,Hit,701,HIT,John Klingberg hit Jason Zucker,2023-01-17T02:03:37Z,3,06:43,13:17,2,1,24.0,Anaheim Ducks,ANA
+246,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700424,2022020700,Stoppage,424,STOP,High Stick,2023-01-17T02:03:49Z,3,06:54,13:06,2,1,,,
+247,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700702,2022020700,Faceoff,702,FACEOFF,Sidney Crosby faceoff won against Mason McTavish,2023-01-17T02:06:04Z,3,06:54,13:06,2,1,5.0,Pittsburgh Penguins,PIT
+248,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700385,2022020700,Missed Shot,385,MISSED_SHOT,Simon Benoit Wide of Net Casey DeSmith,2023-01-17T02:06:19Z,3,07:09,12:51,2,1,24.0,Anaheim Ducks,ANA
+249,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700425,2022020700,Shot,425,SHOT,John Klingberg Wrist Shot saved by Casey DeSmith,2023-01-17T02:06:20Z,3,07:10,12:50,2,1,24.0,Anaheim Ducks,ANA
+250,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700426,2022020700,Stoppage,426,STOP,Net Dislodged by Goaltender,2023-01-17T02:06:22Z,3,07:12,12:48,2,1,,,
+251,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700703,2022020700,Faceoff,703,FACEOFF,Jeff Carter faceoff won against Mason McTavish,2023-01-17T02:07:01Z,3,07:12,12:48,2,1,5.0,Pittsburgh Penguins,PIT
+252,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700386,2022020700,Missed Shot,386,MISSED_SHOT,Troy Terry Wide of Net Casey DeSmith,2023-01-17T02:07:11Z,3,07:22,12:38,2,1,24.0,Anaheim Ducks,ANA
+253,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700427,2022020700,Giveaway,427,GIVEAWAY,Giveaway by Simon Benoit,2023-01-17T02:07:22Z,3,07:33,12:27,2,1,24.0,Anaheim Ducks,ANA
+254,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700387,2022020700,Shot,387,SHOT,Chad Ruhwedel Wrist Shot saved by John Gibson,2023-01-17T02:07:26Z,3,07:37,12:23,2,1,5.0,Pittsburgh Penguins,PIT
+255,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700388,2022020700,Shot,388,SHOT,Chad Ruhwedel Wrist Shot saved by John Gibson,2023-01-17T02:07:28Z,3,07:39,12:21,2,1,5.0,Pittsburgh Penguins,PIT
+256,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700389,2022020700,Blocked Shot,389,BLOCKED_SHOT,Trevor Zegras shot blocked shot by Marcus Pettersson,2023-01-17T02:07:46Z,3,07:57,12:03,2,1,5.0,Pittsburgh Penguins,PIT
+257,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700705,2022020700,Giveaway,705,GIVEAWAY,Giveaway by Brian Dumoulin,2023-01-17T02:08:06Z,3,08:17,11:43,2,1,5.0,Pittsburgh Penguins,PIT
+258,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700390,2022020700,Missed Shot,390,MISSED_SHOT,Jake Guentzel Wide of Net John Gibson,2023-01-17T02:08:19Z,3,08:31,11:29,2,1,5.0,Pittsburgh Penguins,PIT
+259,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700428,2022020700,Blocked Shot,428,BLOCKED_SHOT,Bryan Rust shot blocked shot by Max Comtois,2023-01-17T02:08:19Z,3,08:31,11:29,2,1,24.0,Anaheim Ducks,ANA
+260,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700429,2022020700,Stoppage,429,STOP,Puck in Netting,2023-01-17T02:08:20Z,3,08:31,11:29,2,1,,,
+261,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700706,2022020700,Faceoff,706,FACEOFF,Sam Carrick faceoff won against Evgeni Malkin,2023-01-17T02:08:53Z,3,08:31,11:29,2,1,24.0,Anaheim Ducks,ANA
+262,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700392,2022020700,Shot,392,SHOT,Ty Smith Wrist Shot saved by John Gibson,2023-01-17T02:09:00Z,3,08:38,11:22,2,1,5.0,Pittsburgh Penguins,PIT
+263,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700391,2022020700,Shot,391,SHOT,Evgeni Malkin Wrist Shot saved by John Gibson,2023-01-17T02:09:02Z,3,08:40,11:20,2,1,5.0,Pittsburgh Penguins,PIT
+264,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700430,2022020700,Shot,430,SHOT,Evgeni Malkin Wrap-around saved by John Gibson,2023-01-17T02:09:03Z,3,08:41,11:19,2,1,5.0,Pittsburgh Penguins,PIT
+265,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700707,2022020700,Hit,707,HIT,Sam Carrick hit Evgeni Malkin,2023-01-17T02:09:27Z,3,09:05,10:55,2,1,24.0,Anaheim Ducks,ANA
+266,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700853,2022020700,Penalty,853,PENALTY,Kevin Shattenkirk High-sticking against Evgeni Malkin,2023-01-17T02:09:33Z,3,09:11,10:49,2,1,24.0,Anaheim Ducks,ANA
+267,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700708,2022020700,Faceoff,708,FACEOFF,Adam Henrique faceoff won against Sidney Crosby,2023-01-17T02:10:11Z,3,09:11,10:49,2,1,24.0,Anaheim Ducks,ANA
+268,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700393,2022020700,Missed Shot,393,MISSED_SHOT,Evgeni Malkin Goalpost John Gibson,2023-01-17T02:10:31Z,3,09:31,10:29,2,1,5.0,Pittsburgh Penguins,PIT
+269,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700858,2022020700,Penalty,858,PENALTY,Rickard Rakell Tripping against Simon Benoit,2023-01-17T02:10:51Z,3,09:51,10:09,2,1,5.0,Pittsburgh Penguins,PIT
+270,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700709,2022020700,Faceoff,709,FACEOFF,Jeff Carter faceoff won against Ryan Strome,2023-01-17T02:12:06Z,3,09:51,10:09,2,1,5.0,Pittsburgh Penguins,PIT
+271,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700394,2022020700,Shot,394,SHOT,Marcus Pettersson Slap Shot saved by John Gibson,2023-01-17T02:12:20Z,3,10:05,09:55,2,1,5.0,Pittsburgh Penguins,PIT
+272,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700710,2022020700,Giveaway,710,GIVEAWAY,Giveaway by Jeff Carter,2023-01-17T02:12:30Z,3,10:15,09:45,2,1,5.0,Pittsburgh Penguins,PIT
+273,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700395,2022020700,Shot,395,SHOT,Max Comtois Wrist Shot saved by Casey DeSmith,2023-01-17T02:12:33Z,3,10:18,09:42,2,1,24.0,Anaheim Ducks,ANA
+274,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700431,2022020700,Giveaway,431,GIVEAWAY,Giveaway by Ryan Strome,2023-01-17T02:12:38Z,3,10:23,09:37,2,1,24.0,Anaheim Ducks,ANA
+275,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700432,2022020700,Stoppage,432,STOP,Offside,2023-01-17T02:12:51Z,3,10:37,09:23,2,1,,,
+276,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700711,2022020700,Faceoff,711,FACEOFF,Sidney Crosby faceoff won against Trevor Zegras,2023-01-17T02:14:59Z,3,10:37,09:23,2,1,5.0,Pittsburgh Penguins,PIT
+277,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700396,2022020700,Goal,396,GOAL,"John Klingberg (6) Wrist Shot, assists: Trevor Zegras (20), Troy Terry (24)",2023-01-17T02:15:39Z,3,11:16,08:44,2,2,24.0,Anaheim Ducks,ANA
+278,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700713,2022020700,Faceoff,713,FACEOFF,Jonathan Gruden faceoff won against Mason McTavish,2023-01-17T02:16:29Z,3,11:16,08:44,2,2,5.0,Pittsburgh Penguins,PIT
+279,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700714,2022020700,Hit,714,HIT,Brian Dumoulin hit Jakob Silfverberg,2023-01-17T02:17:05Z,3,11:52,08:08,2,2,5.0,Pittsburgh Penguins,PIT
+280,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700397,2022020700,Blocked Shot,397,BLOCKED_SHOT,Ty Smith shot blocked shot by Urho Vaakanainen,2023-01-17T02:17:11Z,3,11:58,08:02,2,2,24.0,Anaheim Ducks,ANA
+281,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700399,2022020700,Blocked Shot,399,BLOCKED_SHOT,Drew O'Connor shot blocked shot by Urho Vaakanainen,2023-01-17T02:17:49Z,3,12:36,07:24,2,2,24.0,Anaheim Ducks,ANA
+282,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700400,2022020700,Missed Shot,400,MISSED_SHOT,Mark Friedman Wide of Net John Gibson,2023-01-17T02:17:52Z,3,12:39,07:21,2,2,5.0,Pittsburgh Penguins,PIT
+283,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700715,2022020700,Hit,715,HIT,Evgeni Malkin hit Sam Carrick,2023-01-17T02:18:14Z,3,13:01,06:59,2,2,5.0,Pittsburgh Penguins,PIT
+284,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700716,2022020700,Hit,716,HIT,Max Jones hit Chad Ruhwedel,2023-01-17T02:18:40Z,3,13:27,06:33,2,2,24.0,Anaheim Ducks,ANA
+285,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700433,2022020700,Takeaway,433,TAKEAWAY,Takeaway by Sam Carrick,2023-01-17T02:18:43Z,3,13:30,06:30,2,2,24.0,Anaheim Ducks,ANA
+286,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700717,2022020700,Takeaway,717,TAKEAWAY,Takeaway by Sidney Crosby,2023-01-17T02:19:11Z,3,13:58,06:02,2,2,5.0,Pittsburgh Penguins,PIT
+287,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700718,2022020700,Hit,718,HIT,Max Jones hit Brock McGinn,2023-01-17T02:19:57Z,3,14:44,05:16,2,2,24.0,Anaheim Ducks,ANA
+288,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700434,2022020700,Stoppage,434,STOP,Offside,2023-01-17T02:20:18Z,3,15:05,04:55,2,2,,,
+289,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700719,2022020700,Faceoff,719,FACEOFF,Evgeni Malkin faceoff won against Trevor Zegras,2023-01-17T02:23:10Z,3,15:05,04:55,2,2,5.0,Pittsburgh Penguins,PIT
+290,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700720,2022020700,Hit,720,HIT,Jason Zucker hit John Klingberg,2023-01-17T02:23:20Z,3,15:15,04:45,2,2,5.0,Pittsburgh Penguins,PIT
+291,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700721,2022020700,Hit,721,HIT,Chad Ruhwedel hit Max Comtois,2023-01-17T02:23:33Z,3,15:28,04:32,2,2,5.0,Pittsburgh Penguins,PIT
+292,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700751,2022020700,Goal,751,GOAL,"Trevor Zegras (14) Wrist Shot, assists: Ryan Strome (12)",2023-01-17T02:23:45Z,3,15:40,04:20,2,3,24.0,Anaheim Ducks,ANA
+293,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700722,2022020700,Faceoff,722,FACEOFF,Sidney Crosby faceoff won against Sam Carrick,2023-01-17T02:24:32Z,3,15:40,04:20,2,3,5.0,Pittsburgh Penguins,PIT
+294,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700723,2022020700,Giveaway,723,GIVEAWAY,Giveaway by Brian Dumoulin,2023-01-17T02:25:06Z,3,16:14,03:46,2,3,5.0,Pittsburgh Penguins,PIT
+295,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700752,2022020700,Shot,752,SHOT,Mark Friedman Wrist Shot saved by John Gibson,2023-01-17T02:25:45Z,3,16:53,03:07,2,3,5.0,Pittsburgh Penguins,PIT
+296,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700753,2022020700,Shot,753,SHOT,Marcus Pettersson Slap Shot saved by John Gibson,2023-01-17T02:25:48Z,3,16:56,03:04,2,3,5.0,Pittsburgh Penguins,PIT
+297,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700724,2022020700,Stoppage,724,STOP,Puck in Netting,2023-01-17T02:25:49Z,3,16:57,03:03,2,3,,,
+298,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700725,2022020700,Faceoff,725,FACEOFF,Evgeni Malkin faceoff won against Sam Carrick,2023-01-17T02:26:24Z,3,16:57,03:03,2,3,5.0,Pittsburgh Penguins,PIT
+299,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700754,2022020700,Missed Shot,754,MISSED_SHOT,Ty Smith Wide of Net John Gibson,2023-01-17T02:26:31Z,3,17:04,02:56,2,3,5.0,Pittsburgh Penguins,PIT
+300,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700755,2022020700,Blocked Shot,755,BLOCKED_SHOT,Jason Zucker shot blocked shot by John Klingberg,2023-01-17T02:27:01Z,3,17:34,02:26,2,3,24.0,Anaheim Ducks,ANA
+301,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700756,2022020700,Shot,756,SHOT,Kasperi Kapanen Wrist Shot saved by John Gibson,2023-01-17T02:27:04Z,3,17:37,02:23,2,3,5.0,Pittsburgh Penguins,PIT
+302,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700436,2022020700,Stoppage,436,STOP,Goalie Stopped,2023-01-17T02:27:05Z,3,17:38,02:22,2,3,,,
+303,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700726,2022020700,Faceoff,726,FACEOFF,Jeff Carter faceoff won against Mason McTavish,2023-01-17T02:27:45Z,3,17:38,02:22,2,3,5.0,Pittsburgh Penguins,PIT
+304,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700757,2022020700,Shot,757,SHOT,Kasperi Kapanen Wrist Shot saved by John Gibson,2023-01-17T02:28:12Z,3,18:05,01:55,2,3,5.0,Pittsburgh Penguins,PIT
+305,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700758,2022020700,Missed Shot,758,MISSED_SHOT,Jeff Carter Goalpost John Gibson,2023-01-17T02:28:17Z,3,18:07,01:53,2,3,5.0,Pittsburgh Penguins,PIT
+306,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700437,2022020700,Shot,437,SHOT,Jeff Carter Backhand saved by John Gibson,2023-01-17T02:28:15Z,3,18:08,01:52,2,3,5.0,Pittsburgh Penguins,PIT
+307,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700439,2022020700,Stoppage,439,STOP,Net Dislodged by Goaltender,2023-01-17T02:28:17Z,3,18:09,01:51,2,3,,,
+308,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700727,2022020700,Faceoff,727,FACEOFF,Sam Carrick faceoff won against Sidney Crosby,2023-01-17T02:29:03Z,3,18:09,01:51,2,3,24.0,Anaheim Ducks,ANA
+309,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700445,2022020700,Stoppage,445,STOP,Puck in Netting,2023-01-17T02:29:43Z,3,18:26,01:34,2,3,,,
+310,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700728,2022020700,Faceoff,728,FACEOFF,Sam Carrick faceoff won against Sidney Crosby,2023-01-17T02:29:43Z,3,18:26,01:34,2,3,24.0,Anaheim Ducks,ANA
+311,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700759,2022020700,Shot,759,SHOT,Rickard Rakell Wrist Shot saved by John Gibson,2023-01-17T02:30:49Z,3,19:32,00:28,2,3,5.0,Pittsburgh Penguins,PIT
+312,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700440,2022020700,Missed Shot,440,MISSED_SHOT,Jake Guentzel Wide of Net John Gibson,2023-01-17T02:30:51Z,3,19:34,00:26,2,3,5.0,Pittsburgh Penguins,PIT
+313,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700761,2022020700,Goal,761,GOAL,"Bryan Rust (10) Wrist Shot, assists: Jake Guentzel (21), Rickard Rakell (14)",2023-01-17T02:30:53Z,3,19:35,00:25,3,3,5.0,Pittsburgh Penguins,PIT
+314,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700729,2022020700,Faceoff,729,FACEOFF,Teddy Blueger faceoff won against Trevor Zegras,2023-01-17T02:31:51Z,3,19:35,00:25,3,3,5.0,Pittsburgh Penguins,PIT
+315,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700441,2022020700,Period End,441,PERIOD_END,End of 3rd Period,2023-01-17T02:32:16Z,3,20:00,00:00,3,3,,,
+316,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700444,2022020700,Period Official,444,PERIOD_OFFICIAL,Period Official,2023-01-17T02:32:26Z,3,20:00,00:00,3,3,,,
+317,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700446,2022020700,Period Ready,446,PERIOD_READY,Period Ready,2023-01-17T02:34:03Z,4,00:00,05:00,3,3,,,
+318,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700447,2022020700,Period Start,447,PERIOD_START,Period Start,2023-01-17T02:34:36Z,4,00:00,05:00,3,3,,,
+319,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700731,2022020700,Faceoff,731,FACEOFF,Trevor Zegras faceoff won against Sidney Crosby,2023-01-17T02:34:36Z,4,00:00,05:00,3,3,24.0,Anaheim Ducks,ANA
+320,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700762,2022020700,Shot,762,SHOT,Ryan Strome Slap Shot saved by Casey DeSmith,2023-01-17T02:34:49Z,4,00:13,04:47,3,3,24.0,Anaheim Ducks,ANA
+321,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700732,2022020700,Takeaway,732,TAKEAWAY,Takeaway by Trevor Zegras,2023-01-17T02:34:57Z,4,00:21,04:39,3,3,24.0,Anaheim Ducks,ANA
+322,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700448,2022020700,Giveaway,448,GIVEAWAY,Giveaway by Trevor Zegras,2023-01-17T02:35:05Z,4,00:29,04:31,3,3,24.0,Anaheim Ducks,ANA
+323,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700449,2022020700,Period End,449,PERIOD_END,End of OT,2023-01-17T02:35:10Z,4,00:33,04:27,3,3,,,
+324,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700763,2022020700,Goal,763,GOAL,"Jake Guentzel (18) Wrist Shot, assists: Sidney Crosby (28)",2023-01-17T02:35:10Z,4,00:33,04:27,4,3,5.0,Pittsburgh Penguins,PIT
+325,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700902,2022020700,Period Official,902,PERIOD_OFFICIAL,Period Official,2023-01-17T02:35:46Z,4,00:33,04:27,4,3,,,
+326,5,24,Pittsburgh Penguins,Anaheim Ducks,2022020700903,2022020700,Game End,903,GAME_END,Game End,2023-01-17T02:35:48Z,4,00:33,04:27,4,3,,,
+327,5,24,Pittsburgh Penguins,Anaheim Ducks,20220207001141,2022020700,Game Official,1141,GAME_OFFICIAL,Game Official,2023-01-17T14:46:30Z,4,00:33,04:27,4,3,,,

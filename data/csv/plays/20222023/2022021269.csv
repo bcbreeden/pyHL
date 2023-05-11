@@ -1,0 +1,346 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,25,54,Dallas Stars,Vegas Golden Knights,20220212691,2022021269,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-04-08T18:47:00Z,1,00:00,20:00,0,0,,,
+1,25,54,Dallas Stars,Vegas Golden Knights,20220212695,2022021269,Period Ready,5,PERIOD_READY,Period Ready,2023-04-08T19:40:27Z,1,00:00,20:00,0,0,,,
+2,25,54,Dallas Stars,Vegas Golden Knights,202202126951,2022021269,Period Start,51,PERIOD_START,Period Start,2023-04-08T19:42:45Z,1,00:00,20:00,0,0,,,
+3,25,54,Dallas Stars,Vegas Golden Knights,202202126952,2022021269,Faceoff,52,FACEOFF,Brett Howden faceoff won against Joe Pavelski,2023-04-08T19:42:45Z,1,00:00,20:00,0,0,54.0,Vegas Golden Knights,VGK
+4,25,54,Dallas Stars,Vegas Golden Knights,202202126953,2022021269,Hit,53,HIT,Joe Pavelski hit Brett Howden,2023-04-08T19:42:53Z,1,00:08,19:52,0,0,25.0,Dallas Stars,DAL
+5,25,54,Dallas Stars,Vegas Golden Knights,20220212698,2022021269,Giveaway,8,GIVEAWAY,Giveaway by Roope Hintz,2023-04-08T19:43:00Z,1,00:15,19:45,0,0,25.0,Dallas Stars,DAL
+6,25,54,Dallas Stars,Vegas Golden Knights,20220212699,2022021269,Giveaway,9,GIVEAWAY,Giveaway by Jason Robertson,2023-04-08T19:43:18Z,1,00:33,19:27,0,0,25.0,Dallas Stars,DAL
+7,25,54,Dallas Stars,Vegas Golden Knights,2022021269151,2022021269,Blocked Shot,151,BLOCKED_SHOT,Jamie Benn shot blocked shot by Jonathan Marchessault,2023-04-08T19:43:33Z,1,00:48,19:12,0,0,54.0,Vegas Golden Knights,VGK
+8,25,54,Dallas Stars,Vegas Golden Knights,202202126910,2022021269,Stoppage,10,STOP,Puck Frozen,2023-04-08T19:43:56Z,1,01:10,18:50,0,0,,,
+9,25,54,Dallas Stars,Vegas Golden Knights,202202126954,2022021269,Faceoff,54,FACEOFF,William Karlsson faceoff won against Max Domi,2023-04-08T19:44:25Z,1,01:10,18:50,0,0,54.0,Vegas Golden Knights,VGK
+10,25,54,Dallas Stars,Vegas Golden Knights,2022021269152,2022021269,Blocked Shot,152,BLOCKED_SHOT,Ty Dellandrea shot blocked shot by Ben Hutton,2023-04-08T19:44:40Z,1,01:25,18:35,0,0,54.0,Vegas Golden Knights,VGK
+11,25,54,Dallas Stars,Vegas Golden Knights,202202126911,2022021269,Stoppage,11,STOP,Puck in Crowd,2023-04-08T19:44:48Z,1,01:33,18:27,0,0,,,
+12,25,54,Dallas Stars,Vegas Golden Knights,202202126955,2022021269,Faceoff,55,FACEOFF,William Karlsson faceoff won against Roope Hintz,2023-04-08T19:45:23Z,1,01:33,18:27,0,0,54.0,Vegas Golden Knights,VGK
+13,25,54,Dallas Stars,Vegas Golden Knights,202202126912,2022021269,Stoppage,12,STOP,Icing,2023-04-08T19:45:37Z,1,01:47,18:13,0,0,,,
+14,25,54,Dallas Stars,Vegas Golden Knights,202202126956,2022021269,Faceoff,56,FACEOFF,Joe Pavelski faceoff won against Chandler Stephenson,2023-04-08T19:46:01Z,1,01:47,18:13,0,0,25.0,Dallas Stars,DAL
+15,25,54,Dallas Stars,Vegas Golden Knights,202202126913,2022021269,Giveaway,13,GIVEAWAY,Giveaway by Phil Kessel,2023-04-08T19:46:32Z,1,02:18,17:42,0,0,54.0,Vegas Golden Knights,VGK
+16,25,54,Dallas Stars,Vegas Golden Knights,202202126957,2022021269,Hit,57,HIT,Luke Glendening hit Alex Pietrangelo,2023-04-08T19:46:38Z,1,02:24,17:36,0,0,25.0,Dallas Stars,DAL
+17,25,54,Dallas Stars,Vegas Golden Knights,202202126958,2022021269,Hit,58,HIT,Paul Cotter hit Thomas Harley,2023-04-08T19:46:59Z,1,02:45,17:15,0,0,54.0,Vegas Golden Knights,VGK
+18,25,54,Dallas Stars,Vegas Golden Knights,202202126914,2022021269,Stoppage,14,STOP,Icing,2023-04-08T19:47:03Z,1,02:49,17:11,0,0,,,
+19,25,54,Dallas Stars,Vegas Golden Knights,202202126959,2022021269,Faceoff,59,FACEOFF,Radek Faksa faceoff won against Nicolas Roy,2023-04-08T19:47:33Z,1,02:49,17:11,0,0,25.0,Dallas Stars,DAL
+20,25,54,Dallas Stars,Vegas Golden Knights,2022021269153,2022021269,Shot,153,SHOT,Pavel Dorofeyev Backhand saved by Jake Oettinger,2023-04-08T19:47:54Z,1,03:10,16:50,0,0,54.0,Vegas Golden Knights,VGK
+21,25,54,Dallas Stars,Vegas Golden Knights,202202126915,2022021269,Stoppage,15,STOP,Goalie Stopped,2023-04-08T19:47:56Z,1,03:11,16:49,0,0,,,
+22,25,54,Dallas Stars,Vegas Golden Knights,202202126960,2022021269,Faceoff,60,FACEOFF,Jamie Benn faceoff won against William Karlsson,2023-04-08T19:48:26Z,1,03:11,16:49,0,0,25.0,Dallas Stars,DAL
+23,25,54,Dallas Stars,Vegas Golden Knights,202202126961,2022021269,Hit,61,HIT,Brayden McNabb hit Jamie Benn,2023-04-08T19:48:34Z,1,03:19,16:41,0,0,54.0,Vegas Golden Knights,VGK
+24,25,54,Dallas Stars,Vegas Golden Knights,202202126916,2022021269,Stoppage,16,STOP,Puck in Crowd,2023-04-08T19:49:23Z,1,04:08,15:52,0,0,,,
+25,25,54,Dallas Stars,Vegas Golden Knights,202202126962,2022021269,Faceoff,62,FACEOFF,Tyler Seguin faceoff won against Chandler Stephenson,2023-04-08T19:49:45Z,1,04:08,15:52,0,0,25.0,Dallas Stars,DAL
+26,25,54,Dallas Stars,Vegas Golden Knights,2022021269155,2022021269,Blocked Shot,155,BLOCKED_SHOT,Max Domi shot blocked shot by Alec Martinez,2023-04-08T19:49:59Z,1,04:22,15:38,0,0,54.0,Vegas Golden Knights,VGK
+27,25,54,Dallas Stars,Vegas Golden Knights,2022021269154,2022021269,Shot,154,SHOT,Tyler Seguin Snap Shot saved by Jonathan Quick,2023-04-08T19:50:03Z,1,04:26,15:34,0,0,25.0,Dallas Stars,DAL
+28,25,54,Dallas Stars,Vegas Golden Knights,202202126917,2022021269,Stoppage,17,STOP,Goalie Stopped,2023-04-08T19:50:04Z,1,04:27,15:33,0,0,,,
+29,25,54,Dallas Stars,Vegas Golden Knights,202202126963,2022021269,Faceoff,63,FACEOFF,Tyler Seguin faceoff won against Chandler Stephenson,2023-04-08T19:50:30Z,1,04:27,15:33,0,0,25.0,Dallas Stars,DAL
+30,25,54,Dallas Stars,Vegas Golden Knights,2022021269156,2022021269,Blocked Shot,156,BLOCKED_SHOT,Miro Heiskanen shot blocked shot by Alex Pietrangelo,2023-04-08T19:50:36Z,1,04:33,15:27,0,0,54.0,Vegas Golden Knights,VGK
+31,25,54,Dallas Stars,Vegas Golden Knights,2022021269157,2022021269,Blocked Shot,157,BLOCKED_SHOT,Miro Heiskanen shot blocked shot by Alex Pietrangelo,2023-04-08T19:50:52Z,1,04:49,15:11,0,0,54.0,Vegas Golden Knights,VGK
+32,25,54,Dallas Stars,Vegas Golden Knights,2022021269158,2022021269,Shot,158,SHOT,Phil Kessel Backhand saved by Jake Oettinger,2023-04-08T19:51:09Z,1,05:06,14:54,0,0,54.0,Vegas Golden Knights,VGK
+33,25,54,Dallas Stars,Vegas Golden Knights,202202126918,2022021269,Takeaway,18,TAKEAWAY,Takeaway by Brayden McNabb,2023-04-08T19:51:40Z,1,05:37,14:23,0,0,54.0,Vegas Golden Knights,VGK
+34,25,54,Dallas Stars,Vegas Golden Knights,202202126919,2022021269,Giveaway,19,GIVEAWAY,Giveaway by Keegan Kolesar,2023-04-08T19:51:45Z,1,05:42,14:18,0,0,54.0,Vegas Golden Knights,VGK
+35,25,54,Dallas Stars,Vegas Golden Knights,2022021269159,2022021269,Shot,159,SHOT,Jani Hakanpää Snap Shot saved by Jonathan Quick,2023-04-08T19:52:18Z,1,06:15,13:45,0,0,25.0,Dallas Stars,DAL
+36,25,54,Dallas Stars,Vegas Golden Knights,202202126964,2022021269,Hit,64,HIT,Nicolas Hague hit Wyatt Johnston,2023-04-08T19:52:41Z,1,06:38,13:22,0,0,54.0,Vegas Golden Knights,VGK
+37,25,54,Dallas Stars,Vegas Golden Knights,202202126965,2022021269,Hit,65,HIT,Jamie Benn hit Nicolas Roy,2023-04-08T19:52:51Z,1,06:48,13:12,0,0,25.0,Dallas Stars,DAL
+38,25,54,Dallas Stars,Vegas Golden Knights,2022021269160,2022021269,Shot,160,SHOT,Jamie Benn Poke saved by Jonathan Quick,2023-04-08T19:52:55Z,1,06:52,13:08,0,0,25.0,Dallas Stars,DAL
+39,25,54,Dallas Stars,Vegas Golden Knights,202202126920,2022021269,Stoppage,20,STOP,Goalie Stopped,2023-04-08T19:52:56Z,1,06:53,13:07,0,0,,,
+40,25,54,Dallas Stars,Vegas Golden Knights,2022021269251,2022021269,Faceoff,251,FACEOFF,Jamie Benn faceoff won against William Karlsson,2023-04-08T19:55:21Z,1,06:53,13:07,0,0,25.0,Dallas Stars,DAL
+41,25,54,Dallas Stars,Vegas Golden Knights,202202126967,2022021269,Hit,67,HIT,Michael Amadio hit Miro Heiskanen,2023-04-08T19:55:37Z,1,07:09,12:51,0,0,54.0,Vegas Golden Knights,VGK
+42,25,54,Dallas Stars,Vegas Golden Knights,2022021269161,2022021269,Shot,161,SHOT,Wyatt Johnston Wrist Shot saved by Jonathan Quick,2023-04-08T19:55:47Z,1,07:19,12:41,0,0,25.0,Dallas Stars,DAL
+43,25,54,Dallas Stars,Vegas Golden Knights,202202126921,2022021269,Giveaway,21,GIVEAWAY,Giveaway by Jani Hakanpää,2023-04-08T19:56:12Z,1,07:44,12:16,0,0,25.0,Dallas Stars,DAL
+44,25,54,Dallas Stars,Vegas Golden Knights,2022021269162,2022021269,Shot,162,SHOT,Phil Kessel Wrist Shot saved by Jake Oettinger,2023-04-08T19:56:13Z,1,07:45,12:15,0,0,54.0,Vegas Golden Knights,VGK
+45,25,54,Dallas Stars,Vegas Golden Knights,202202126922,2022021269,Stoppage,22,STOP,Puck in Netting,2023-04-08T19:56:15Z,1,07:46,12:14,0,0,,,
+46,25,54,Dallas Stars,Vegas Golden Knights,2022021269252,2022021269,Faceoff,252,FACEOFF,Tyler Seguin faceoff won against Chandler Stephenson,2023-04-08T19:56:45Z,1,07:46,12:14,0,0,25.0,Dallas Stars,DAL
+47,25,54,Dallas Stars,Vegas Golden Knights,202202126923,2022021269,Stoppage,23,STOP,Icing,2023-04-08T19:56:54Z,1,07:55,12:05,0,0,,,
+48,25,54,Dallas Stars,Vegas Golden Knights,2022021269253,2022021269,Faceoff,253,FACEOFF,Tyler Seguin faceoff won against Chandler Stephenson,2023-04-08T19:57:18Z,1,07:55,12:05,0,0,25.0,Dallas Stars,DAL
+49,25,54,Dallas Stars,Vegas Golden Knights,2022021269223,2022021269,Penalty,223,PENALTY,Max Domi Tripping against Nicolas Hague,2023-04-08T19:57:24Z,1,08:02,11:58,0,0,25.0,Dallas Stars,DAL
+50,25,54,Dallas Stars,Vegas Golden Knights,2022021269254,2022021269,Faceoff,254,FACEOFF,Chandler Stephenson faceoff won against Radek Faksa,2023-04-08T19:58:41Z,1,08:02,11:58,0,0,54.0,Vegas Golden Knights,VGK
+51,25,54,Dallas Stars,Vegas Golden Knights,2022021269163,2022021269,Shot,163,SHOT,Joel Kiviranta Wrist Shot saved by Jonathan Quick,2023-04-08T19:58:56Z,1,08:17,11:43,0,0,25.0,Dallas Stars,DAL
+52,25,54,Dallas Stars,Vegas Golden Knights,2022021269164,2022021269,Missed Shot,164,MISSED_SHOT,Phil Kessel Over Net Jake Oettinger,2023-04-08T20:00:23Z,1,09:44,10:16,0,0,54.0,Vegas Golden Knights,VGK
+53,25,54,Dallas Stars,Vegas Golden Knights,202202126924,2022021269,Stoppage,24,STOP,Puck in Netting,2023-04-08T20:00:25Z,1,09:45,10:15,0,0,,,
+54,25,54,Dallas Stars,Vegas Golden Knights,2022021269255,2022021269,Faceoff,255,FACEOFF,Jamie Benn faceoff won against Nicolas Roy,2023-04-08T20:00:58Z,1,09:45,10:15,0,0,25.0,Dallas Stars,DAL
+55,25,54,Dallas Stars,Vegas Golden Knights,202202126925,2022021269,Giveaway,25,GIVEAWAY,Giveaway by Jani Hakanpää,2023-04-08T20:01:04Z,1,09:51,10:09,0,0,25.0,Dallas Stars,DAL
+56,25,54,Dallas Stars,Vegas Golden Knights,202202126968,2022021269,Hit,68,HIT,Keegan Kolesar hit Colin Miller,2023-04-08T20:01:59Z,1,10:46,09:14,0,0,54.0,Vegas Golden Knights,VGK
+57,25,54,Dallas Stars,Vegas Golden Knights,202202126969,2022021269,Hit,69,HIT,Paul Cotter hit Miro Heiskanen,2023-04-08T20:02:28Z,1,11:15,08:45,0,0,54.0,Vegas Golden Knights,VGK
+58,25,54,Dallas Stars,Vegas Golden Knights,202202126926,2022021269,Takeaway,26,TAKEAWAY,Takeaway by Miro Heiskanen,2023-04-08T20:02:30Z,1,11:17,08:43,0,0,25.0,Dallas Stars,DAL
+59,25,54,Dallas Stars,Vegas Golden Knights,2022021269165,2022021269,Blocked Shot,165,BLOCKED_SHOT,Ryan Suter shot blocked shot by Zach Whitecloud,2023-04-08T20:03:02Z,1,11:49,08:11,0,0,54.0,Vegas Golden Knights,VGK
+60,25,54,Dallas Stars,Vegas Golden Knights,2022021269166,2022021269,Missed Shot,166,MISSED_SHOT,Jamie Benn Over Net Jonathan Quick,2023-04-08T20:03:04Z,1,11:51,08:09,0,0,25.0,Dallas Stars,DAL
+61,25,54,Dallas Stars,Vegas Golden Knights,202202126927,2022021269,Stoppage,27,STOP,Puck in Netting,2023-04-08T20:03:05Z,1,11:52,08:08,0,0,,,
+62,25,54,Dallas Stars,Vegas Golden Knights,2022021269256,2022021269,Faceoff,256,FACEOFF,Wyatt Johnston faceoff won against William Karlsson,2023-04-08T20:05:33Z,1,11:52,08:08,0,0,25.0,Dallas Stars,DAL
+63,25,54,Dallas Stars,Vegas Golden Knights,2022021269167,2022021269,Missed Shot,167,MISSED_SHOT,Wyatt Johnston Over Net Jonathan Quick,2023-04-08T20:05:39Z,1,11:58,08:02,0,0,25.0,Dallas Stars,DAL
+64,25,54,Dallas Stars,Vegas Golden Knights,202202126928,2022021269,Stoppage,28,STOP,Offside,2023-04-08T20:05:49Z,1,12:08,07:52,0,0,,,
+65,25,54,Dallas Stars,Vegas Golden Knights,2022021269257,2022021269,Faceoff,257,FACEOFF,Joe Pavelski faceoff won against Chandler Stephenson,2023-04-08T20:06:14Z,1,12:08,07:52,0,0,25.0,Dallas Stars,DAL
+66,25,54,Dallas Stars,Vegas Golden Knights,2022021269168,2022021269,Missed Shot,168,MISSED_SHOT,Roope Hintz Wide of Net Jonathan Quick,2023-04-08T20:06:34Z,1,12:28,07:32,0,0,25.0,Dallas Stars,DAL
+67,25,54,Dallas Stars,Vegas Golden Knights,202202126929,2022021269,Takeaway,29,TAKEAWAY,Takeaway by Ivan Barbashev,2023-04-08T20:06:41Z,1,12:35,07:25,0,0,54.0,Vegas Golden Knights,VGK
+68,25,54,Dallas Stars,Vegas Golden Knights,202202126930,2022021269,Giveaway,30,GIVEAWAY,Giveaway by Ivan Barbashev,2023-04-08T20:06:43Z,1,12:37,07:23,0,0,54.0,Vegas Golden Knights,VGK
+69,25,54,Dallas Stars,Vegas Golden Knights,2022021269169,2022021269,Missed Shot,169,MISSED_SHOT,Ivan Barbashev Wide of Net Jake Oettinger,2023-04-08T20:07:03Z,1,12:57,07:03,0,0,54.0,Vegas Golden Knights,VGK
+70,25,54,Dallas Stars,Vegas Golden Knights,2022021269170,2022021269,Missed Shot,170,MISSED_SHOT,Alex Pietrangelo Wide of Net Jake Oettinger,2023-04-08T20:07:24Z,1,13:18,06:42,0,0,54.0,Vegas Golden Knights,VGK
+71,25,54,Dallas Stars,Vegas Golden Knights,202202126931,2022021269,Stoppage,31,STOP,Goalie Stopped,2023-04-08T20:07:26Z,1,13:20,06:40,0,0,,,
+72,25,54,Dallas Stars,Vegas Golden Knights,2022021269258,2022021269,Faceoff,258,FACEOFF,Jonathan Marchessault faceoff won against Radek Faksa,2023-04-08T20:08:15Z,1,13:20,06:40,0,0,54.0,Vegas Golden Knights,VGK
+73,25,54,Dallas Stars,Vegas Golden Knights,202202126970,2022021269,Hit,70,HIT,Radek Faksa hit Jonathan Marchessault,2023-04-08T20:08:21Z,1,13:26,06:34,0,0,25.0,Dallas Stars,DAL
+74,25,54,Dallas Stars,Vegas Golden Knights,202202126932,2022021269,Takeaway,32,TAKEAWAY,Takeaway by Brett Howden,2023-04-08T20:08:30Z,1,13:35,06:25,0,0,54.0,Vegas Golden Knights,VGK
+75,25,54,Dallas Stars,Vegas Golden Knights,2022021269171,2022021269,Shot,171,SHOT,Pavel Dorofeyev Snap Shot saved by Jake Oettinger,2023-04-08T20:08:35Z,1,13:40,06:20,0,0,54.0,Vegas Golden Knights,VGK
+76,25,54,Dallas Stars,Vegas Golden Knights,2022021269172,2022021269,Shot,172,SHOT,Pavel Dorofeyev Snap Shot saved by Jake Oettinger,2023-04-08T20:08:36Z,1,13:41,06:19,0,0,54.0,Vegas Golden Knights,VGK
+77,25,54,Dallas Stars,Vegas Golden Knights,2022021269173,2022021269,Blocked Shot,173,BLOCKED_SHOT,Jonathan Marchessault shot blocked shot by Jani Hakanpää,2023-04-08T20:08:39Z,1,13:44,06:16,0,0,25.0,Dallas Stars,DAL
+78,25,54,Dallas Stars,Vegas Golden Knights,202202126933,2022021269,Stoppage,33,STOP,Puck Frozen,2023-04-08T20:08:40Z,1,13:45,06:15,0,0,,,
+79,25,54,Dallas Stars,Vegas Golden Knights,2022021269259,2022021269,Faceoff,259,FACEOFF,Tyler Seguin faceoff won against Brett Howden,2023-04-08T20:09:18Z,1,13:45,06:15,0,0,25.0,Dallas Stars,DAL
+80,25,54,Dallas Stars,Vegas Golden Knights,202202126971,2022021269,Hit,71,HIT,Keegan Kolesar hit Max Domi,2023-04-08T20:09:24Z,1,13:51,06:09,0,0,54.0,Vegas Golden Knights,VGK
+81,25,54,Dallas Stars,Vegas Golden Knights,202202126934,2022021269,Stoppage,34,STOP,Puck in Netting,2023-04-08T20:09:33Z,1,14:01,05:59,0,0,,,
+82,25,54,Dallas Stars,Vegas Golden Knights,2022021269260,2022021269,Faceoff,260,FACEOFF,Tyler Seguin faceoff won against Brett Howden,2023-04-08T20:11:49Z,1,14:01,05:59,0,0,25.0,Dallas Stars,DAL
+83,25,54,Dallas Stars,Vegas Golden Knights,2022021269174,2022021269,Goal,174,GOAL,"Brett Howden (6) Wrist Shot, assists: Keegan Kolesar (10), Ben Hutton (5)",2023-04-08T20:12:09Z,1,14:21,05:39,0,1,54.0,Vegas Golden Knights,VGK
+84,25,54,Dallas Stars,Vegas Golden Knights,2022021269261,2022021269,Faceoff,261,FACEOFF,William Karlsson faceoff won against Wyatt Johnston,2023-04-08T20:12:50Z,1,14:21,05:39,0,1,54.0,Vegas Golden Knights,VGK
+85,25,54,Dallas Stars,Vegas Golden Knights,202202126935,2022021269,Giveaway,35,GIVEAWAY,Giveaway by William Karlsson,2023-04-08T20:13:06Z,1,14:37,05:23,0,1,54.0,Vegas Golden Knights,VGK
+86,25,54,Dallas Stars,Vegas Golden Knights,2022021269175,2022021269,Blocked Shot,175,BLOCKED_SHOT,Alex Pietrangelo shot blocked shot by Jason Robertson,2023-04-08T20:14:05Z,1,15:36,04:24,0,1,25.0,Dallas Stars,DAL
+87,25,54,Dallas Stars,Vegas Golden Knights,202202126936,2022021269,Stoppage,36,STOP,Puck in Netting,2023-04-08T20:14:07Z,1,15:38,04:22,0,1,,,
+88,25,54,Dallas Stars,Vegas Golden Knights,2022021269262,2022021269,Faceoff,262,FACEOFF,Nicolas Roy faceoff won against Radek Faksa,2023-04-08T20:14:45Z,1,15:38,04:22,0,1,54.0,Vegas Golden Knights,VGK
+89,25,54,Dallas Stars,Vegas Golden Knights,202202126972,2022021269,Hit,72,HIT,Radek Faksa hit Pavel Dorofeyev,2023-04-08T20:14:51Z,1,15:44,04:16,0,1,25.0,Dallas Stars,DAL
+90,25,54,Dallas Stars,Vegas Golden Knights,2022021269176,2022021269,Shot,176,SHOT,Jonathan Marchessault Tip-In saved by Jake Oettinger,2023-04-08T20:15:06Z,1,15:59,04:01,0,1,54.0,Vegas Golden Knights,VGK
+91,25,54,Dallas Stars,Vegas Golden Knights,202202126973,2022021269,Hit,73,HIT,Joel Kiviranta hit Ben Hutton,2023-04-08T20:15:34Z,1,16:27,03:33,0,1,25.0,Dallas Stars,DAL
+92,25,54,Dallas Stars,Vegas Golden Knights,202202126974,2022021269,Hit,74,HIT,Ty Dellandrea hit Nicolas Hague,2023-04-08T20:15:38Z,1,16:31,03:29,0,1,25.0,Dallas Stars,DAL
+93,25,54,Dallas Stars,Vegas Golden Knights,202202126937,2022021269,Stoppage,37,STOP,Goalie Stopped,2023-04-08T20:16:03Z,1,16:56,03:04,0,1,,,
+94,25,54,Dallas Stars,Vegas Golden Knights,2022021269177,2022021269,Shot,177,SHOT,Paul Cotter Deflected saved by Jake Oettinger,2023-04-08T20:16:03Z,1,16:56,03:04,0,1,54.0,Vegas Golden Knights,VGK
+95,25,54,Dallas Stars,Vegas Golden Knights,2022021269263,2022021269,Faceoff,263,FACEOFF,Wyatt Johnston faceoff won against William Karlsson,2023-04-08T20:16:33Z,1,16:56,03:04,0,1,25.0,Dallas Stars,DAL
+96,25,54,Dallas Stars,Vegas Golden Knights,202202126938,2022021269,Giveaway,38,GIVEAWAY,Giveaway by Wyatt Johnston,2023-04-08T20:16:42Z,1,17:05,02:55,0,1,25.0,Dallas Stars,DAL
+97,25,54,Dallas Stars,Vegas Golden Knights,2022021269178,2022021269,Shot,178,SHOT,Jamie Benn Wrist Shot saved by Jonathan Quick,2023-04-08T20:17:00Z,1,17:23,02:37,0,1,25.0,Dallas Stars,DAL
+98,25,54,Dallas Stars,Vegas Golden Knights,202202126939,2022021269,Giveaway,39,GIVEAWAY,Giveaway by William Karlsson,2023-04-08T20:17:14Z,1,17:37,02:23,0,1,54.0,Vegas Golden Knights,VGK
+99,25,54,Dallas Stars,Vegas Golden Knights,2022021269179,2022021269,Shot,179,SHOT,Esa Lindell Wrist Shot saved by Jonathan Quick,2023-04-08T20:17:32Z,1,17:55,02:05,0,1,25.0,Dallas Stars,DAL
+100,25,54,Dallas Stars,Vegas Golden Knights,202202126940,2022021269,Stoppage,40,STOP,Goalie Stopped,2023-04-08T20:17:33Z,1,17:56,02:04,0,1,,,
+101,25,54,Dallas Stars,Vegas Golden Knights,2022021269264,2022021269,Faceoff,264,FACEOFF,Chandler Stephenson faceoff won against Joe Pavelski,2023-04-08T20:18:03Z,1,17:56,02:04,0,1,54.0,Vegas Golden Knights,VGK
+102,25,54,Dallas Stars,Vegas Golden Knights,202202126941,2022021269,Stoppage,41,STOP,Referee or Linesman,2023-04-08T20:18:20Z,1,18:13,01:47,0,1,,,
+103,25,54,Dallas Stars,Vegas Golden Knights,2022021269265,2022021269,Faceoff,265,FACEOFF,Joe Pavelski faceoff won against Chandler Stephenson,2023-04-08T20:18:51Z,1,18:13,01:47,0,1,25.0,Dallas Stars,DAL
+104,25,54,Dallas Stars,Vegas Golden Knights,202202126975,2022021269,Hit,75,HIT,Ivan Barbashev hit Jani Hakanpää,2023-04-08T20:19:00Z,1,18:22,01:38,0,1,54.0,Vegas Golden Knights,VGK
+105,25,54,Dallas Stars,Vegas Golden Knights,202202126942,2022021269,Giveaway,42,GIVEAWAY,Giveaway by Esa Lindell,2023-04-08T20:19:25Z,1,18:46,01:14,0,1,25.0,Dallas Stars,DAL
+106,25,54,Dallas Stars,Vegas Golden Knights,2022021269180,2022021269,Shot,180,SHOT,Nicolas Roy Backhand saved by Jake Oettinger,2023-04-08T20:19:30Z,1,18:52,01:08,0,1,54.0,Vegas Golden Knights,VGK
+107,25,54,Dallas Stars,Vegas Golden Knights,202202126976,2022021269,Hit,76,HIT,Paul Cotter hit Miro Heiskanen,2023-04-08T20:20:13Z,1,19:35,00:25,0,1,54.0,Vegas Golden Knights,VGK
+108,25,54,Dallas Stars,Vegas Golden Knights,2022021269181,2022021269,Shot,181,SHOT,Tyler Seguin Wrist Shot saved by Jonathan Quick,2023-04-08T20:20:20Z,1,19:42,00:18,0,1,25.0,Dallas Stars,DAL
+109,25,54,Dallas Stars,Vegas Golden Knights,2022021269182,2022021269,Shot,182,SHOT,Tyler Seguin Wrist Shot saved by Jonathan Quick,2023-04-08T20:20:34Z,1,19:56,00:04,0,1,25.0,Dallas Stars,DAL
+110,25,54,Dallas Stars,Vegas Golden Knights,202202126943,2022021269,Period End,43,PERIOD_END,End of 1st Period,2023-04-08T20:20:39Z,1,20:00,00:00,0,1,,,
+111,25,54,Dallas Stars,Vegas Golden Knights,202202126946,2022021269,Period Official,46,PERIOD_OFFICIAL,Period Official,2023-04-08T20:28:54Z,1,20:00,00:00,0,1,,,
+112,25,54,Dallas Stars,Vegas Golden Knights,202202126947,2022021269,Period Ready,47,PERIOD_READY,Period Ready,2023-04-08T20:37:20Z,2,00:00,20:00,0,1,,,
+113,25,54,Dallas Stars,Vegas Golden Knights,2022021269266,2022021269,Period Start,266,PERIOD_START,Period Start,2023-04-08T20:39:37Z,2,00:00,20:00,0,1,,,
+114,25,54,Dallas Stars,Vegas Golden Knights,2022021269267,2022021269,Faceoff,267,FACEOFF,Jamie Benn faceoff won against Brett Howden,2023-04-08T20:39:37Z,2,00:00,20:00,0,1,25.0,Dallas Stars,DAL
+115,25,54,Dallas Stars,Vegas Golden Knights,2022021269183,2022021269,Shot,183,SHOT,Evgenii Dadonov Snap Shot saved by Jonathan Quick,2023-04-08T20:39:44Z,2,00:07,19:53,0,1,25.0,Dallas Stars,DAL
+116,25,54,Dallas Stars,Vegas Golden Knights,2022021269430,2022021269,Penalty,430,PENALTY,Brett Howden Hooking against Jamie Benn,2023-04-08T20:39:59Z,2,00:22,19:38,0,1,54.0,Vegas Golden Knights,VGK
+117,25,54,Dallas Stars,Vegas Golden Knights,2022021269268,2022021269,Faceoff,268,FACEOFF,Nicolas Roy faceoff won against Jamie Benn,2023-04-08T20:40:39Z,2,00:22,19:38,0,1,54.0,Vegas Golden Knights,VGK
+118,25,54,Dallas Stars,Vegas Golden Knights,202202126948,2022021269,Giveaway,48,GIVEAWAY,Giveaway by Joe Pavelski,2023-04-08T20:41:10Z,2,00:53,19:07,0,1,25.0,Dallas Stars,DAL
+119,25,54,Dallas Stars,Vegas Golden Knights,202202126949,2022021269,Stoppage,49,STOP,Offside,2023-04-08T20:41:26Z,2,01:09,18:51,0,1,,,
+120,25,54,Dallas Stars,Vegas Golden Knights,2022021269269,2022021269,Faceoff,269,FACEOFF,Tyler Seguin faceoff won against William Karlsson,2023-04-08T20:41:51Z,2,01:09,18:51,0,1,25.0,Dallas Stars,DAL
+121,25,54,Dallas Stars,Vegas Golden Knights,2022021269184,2022021269,Blocked Shot,184,BLOCKED_SHOT,Wyatt Johnston shot blocked shot by Brayden McNabb,2023-04-08T20:42:32Z,2,01:50,18:10,0,1,54.0,Vegas Golden Knights,VGK
+122,25,54,Dallas Stars,Vegas Golden Knights,2022021269185,2022021269,Shot,185,SHOT,Alex Pietrangelo Wrist Shot saved by Jake Oettinger,2023-04-08T20:42:55Z,2,02:13,17:47,0,1,54.0,Vegas Golden Knights,VGK
+123,25,54,Dallas Stars,Vegas Golden Knights,202202126950,2022021269,Giveaway,50,GIVEAWAY,Giveaway by Joe Pavelski,2023-04-08T20:43:07Z,2,02:25,17:35,0,1,25.0,Dallas Stars,DAL
+124,25,54,Dallas Stars,Vegas Golden Knights,2022021269186,2022021269,Shot,186,SHOT,Jason Robertson Snap Shot saved by Jonathan Quick,2023-04-08T20:43:19Z,2,02:37,17:23,0,1,25.0,Dallas Stars,DAL
+125,25,54,Dallas Stars,Vegas Golden Knights,2022021269187,2022021269,Shot,187,SHOT,Jonathan Marchessault Wrist Shot saved by Jake Oettinger,2023-04-08T20:43:35Z,2,02:53,17:07,0,1,54.0,Vegas Golden Knights,VGK
+126,25,54,Dallas Stars,Vegas Golden Knights,2022021269351,2022021269,Giveaway,351,GIVEAWAY,Giveaway by Jason Robertson,2023-04-08T20:43:43Z,2,03:01,16:59,0,1,25.0,Dallas Stars,DAL
+127,25,54,Dallas Stars,Vegas Golden Knights,2022021269188,2022021269,Missed Shot,188,MISSED_SHOT,Jonathan Marchessault Wide of Net Jake Oettinger,2023-04-08T20:43:46Z,2,03:04,16:56,0,1,54.0,Vegas Golden Knights,VGK
+128,25,54,Dallas Stars,Vegas Golden Knights,202202126977,2022021269,Hit,77,HIT,Colin Miller hit Jonathan Marchessault,2023-04-08T20:43:48Z,2,03:06,16:54,0,1,25.0,Dallas Stars,DAL
+129,25,54,Dallas Stars,Vegas Golden Knights,2022021269352,2022021269,Stoppage,352,STOP,Referee or Linesman,2023-04-08T20:43:55Z,2,03:13,16:47,0,1,,,
+130,25,54,Dallas Stars,Vegas Golden Knights,2022021269270,2022021269,Faceoff,270,FACEOFF,Ivan Barbashev faceoff won against Luke Glendening,2023-04-08T20:45:22Z,2,03:13,16:47,0,1,54.0,Vegas Golden Knights,VGK
+131,25,54,Dallas Stars,Vegas Golden Knights,202202126978,2022021269,Hit,78,HIT,Luke Glendening hit Nicolas Hague,2023-04-08T20:45:50Z,2,03:41,16:19,0,1,25.0,Dallas Stars,DAL
+132,25,54,Dallas Stars,Vegas Golden Knights,2022021269701,2022021269,Shot,701,SHOT,Esa Lindell Wrist Shot saved by Jonathan Quick,2023-04-08T20:45:54Z,2,03:45,16:15,0,1,25.0,Dallas Stars,DAL
+133,25,54,Dallas Stars,Vegas Golden Knights,2022021269189,2022021269,Blocked Shot,189,BLOCKED_SHOT,Luke Glendening shot blocked shot by Ben Hutton,2023-04-08T20:45:56Z,2,03:47,16:13,0,1,54.0,Vegas Golden Knights,VGK
+134,25,54,Dallas Stars,Vegas Golden Knights,2022021269190,2022021269,Missed Shot,190,MISSED_SHOT,Evgenii Dadonov Wide of Net Jonathan Quick,2023-04-08T20:46:15Z,2,04:06,15:54,0,1,25.0,Dallas Stars,DAL
+135,25,54,Dallas Stars,Vegas Golden Knights,2022021269353,2022021269,Giveaway,353,GIVEAWAY,Giveaway by Phil Kessel,2023-04-08T20:46:24Z,2,04:15,15:45,0,1,54.0,Vegas Golden Knights,VGK
+136,25,54,Dallas Stars,Vegas Golden Knights,2022021269354,2022021269,Takeaway,354,TAKEAWAY,Takeaway by Phil Kessel,2023-04-08T20:46:28Z,2,04:19,15:41,0,1,54.0,Vegas Golden Knights,VGK
+137,25,54,Dallas Stars,Vegas Golden Knights,2022021269355,2022021269,Giveaway,355,GIVEAWAY,Giveaway by Phil Kessel,2023-04-08T20:46:30Z,2,04:21,15:39,0,1,54.0,Vegas Golden Knights,VGK
+138,25,54,Dallas Stars,Vegas Golden Knights,2022021269191,2022021269,Blocked Shot,191,BLOCKED_SHOT,Colin Miller shot blocked shot by Phil Kessel,2023-04-08T20:46:32Z,2,04:23,15:37,0,1,54.0,Vegas Golden Knights,VGK
+139,25,54,Dallas Stars,Vegas Golden Knights,2022021269192,2022021269,Shot,192,SHOT,Tyler Seguin Wrist Shot saved by Jonathan Quick,2023-04-08T20:46:44Z,2,04:35,15:25,0,1,25.0,Dallas Stars,DAL
+140,25,54,Dallas Stars,Vegas Golden Knights,2022021269356,2022021269,Stoppage,356,STOP,Goalie Stopped,2023-04-08T20:46:45Z,2,04:36,15:24,0,1,,,
+141,25,54,Dallas Stars,Vegas Golden Knights,2022021269271,2022021269,Faceoff,271,FACEOFF,Max Domi faceoff won against Brett Howden,2023-04-08T20:47:20Z,2,04:36,15:24,0,1,25.0,Dallas Stars,DAL
+142,25,54,Dallas Stars,Vegas Golden Knights,2022021269193,2022021269,Shot,193,SHOT,Tyler Seguin Wrist Shot saved by Jonathan Quick,2023-04-08T20:47:23Z,2,04:39,15:21,0,1,25.0,Dallas Stars,DAL
+143,25,54,Dallas Stars,Vegas Golden Knights,2022021269357,2022021269,Stoppage,357,STOP,Icing,2023-04-08T20:47:30Z,2,04:45,15:15,0,1,,,
+144,25,54,Dallas Stars,Vegas Golden Knights,2022021269272,2022021269,Faceoff,272,FACEOFF,Brett Howden faceoff won against Max Domi,2023-04-08T20:47:58Z,2,04:45,15:15,0,1,54.0,Vegas Golden Knights,VGK
+145,25,54,Dallas Stars,Vegas Golden Knights,202202126979,2022021269,Hit,79,HIT,Tyler Seguin hit Keegan Kolesar,2023-04-08T20:48:01Z,2,04:48,15:12,0,1,25.0,Dallas Stars,DAL
+146,25,54,Dallas Stars,Vegas Golden Knights,2022021269358,2022021269,Stoppage,358,STOP,Icing,2023-04-08T20:48:28Z,2,05:16,14:44,0,1,,,
+147,25,54,Dallas Stars,Vegas Golden Knights,2022021269273,2022021269,Faceoff,273,FACEOFF,William Karlsson faceoff won against Tyler Seguin,2023-04-08T20:48:57Z,2,05:16,14:44,0,1,54.0,Vegas Golden Knights,VGK
+148,25,54,Dallas Stars,Vegas Golden Knights,202202126980,2022021269,Hit,80,HIT,Joe Pavelski hit Reilly Smith,2023-04-08T20:49:28Z,2,05:47,14:13,0,1,25.0,Dallas Stars,DAL
+149,25,54,Dallas Stars,Vegas Golden Knights,202202126981,2022021269,Hit,81,HIT,Michael Amadio hit Miro Heiskanen,2023-04-08T20:49:38Z,2,05:57,14:03,0,1,54.0,Vegas Golden Knights,VGK
+150,25,54,Dallas Stars,Vegas Golden Knights,2022021269194,2022021269,Shot,194,SHOT,Jason Robertson Wrist Shot saved by Jonathan Quick,2023-04-08T20:49:52Z,2,06:11,13:49,0,1,25.0,Dallas Stars,DAL
+151,25,54,Dallas Stars,Vegas Golden Knights,2022021269195,2022021269,Shot,195,SHOT,Pavel Dorofeyev Wrist Shot saved by Jake Oettinger,2023-04-08T20:50:02Z,2,06:21,13:39,0,1,54.0,Vegas Golden Knights,VGK
+152,25,54,Dallas Stars,Vegas Golden Knights,2022021269198,2022021269,Missed Shot,198,MISSED_SHOT,Jonathan Marchessault Wide of Net Jake Oettinger,2023-04-08T20:50:04Z,2,06:23,13:37,0,1,54.0,Vegas Golden Knights,VGK
+153,25,54,Dallas Stars,Vegas Golden Knights,2022021269196,2022021269,Blocked Shot,196,BLOCKED_SHOT,Nicolas Roy shot blocked shot by Miro Heiskanen,2023-04-08T20:50:19Z,2,06:38,13:22,0,1,25.0,Dallas Stars,DAL
+154,25,54,Dallas Stars,Vegas Golden Knights,2022021269359,2022021269,Giveaway,359,GIVEAWAY,Giveaway by Jani Hakanpää,2023-04-08T20:50:57Z,2,07:16,12:44,0,1,25.0,Dallas Stars,DAL
+155,25,54,Dallas Stars,Vegas Golden Knights,202202126982,2022021269,Hit,82,HIT,Jani Hakanpää hit Ivan Barbashev,2023-04-08T20:51:03Z,2,07:22,12:38,0,1,25.0,Dallas Stars,DAL
+156,25,54,Dallas Stars,Vegas Golden Knights,202202126983,2022021269,Hit,83,HIT,Brayden McNabb hit Luke Glendening,2023-04-08T20:51:04Z,2,07:24,12:36,0,1,54.0,Vegas Golden Knights,VGK
+157,25,54,Dallas Stars,Vegas Golden Knights,2022021269360,2022021269,Giveaway,360,GIVEAWAY,Giveaway by Chandler Stephenson,2023-04-08T20:51:17Z,2,07:36,12:24,0,1,54.0,Vegas Golden Knights,VGK
+158,25,54,Dallas Stars,Vegas Golden Knights,2022021269361,2022021269,Stoppage,361,STOP,Puck Frozen,2023-04-08T20:51:35Z,2,07:53,12:07,0,1,,,
+159,25,54,Dallas Stars,Vegas Golden Knights,2022021269274,2022021269,Faceoff,274,FACEOFF,Tyler Seguin faceoff won against Brett Howden,2023-04-08T20:53:54Z,2,07:53,12:07,0,1,25.0,Dallas Stars,DAL
+160,25,54,Dallas Stars,Vegas Golden Knights,202202126984,2022021269,Hit,84,HIT,Brett Howden hit Colin Miller,2023-04-08T20:54:11Z,2,08:10,11:50,0,1,54.0,Vegas Golden Knights,VGK
+161,25,54,Dallas Stars,Vegas Golden Knights,202202126985,2022021269,Hit,85,HIT,Tyler Seguin hit Ben Hutton,2023-04-08T20:54:19Z,2,08:18,11:42,0,1,25.0,Dallas Stars,DAL
+162,25,54,Dallas Stars,Vegas Golden Knights,2022021269199,2022021269,Missed Shot,199,MISSED_SHOT,Ty Dellandrea Over Net Jonathan Quick,2023-04-08T20:54:38Z,2,08:37,11:23,0,1,25.0,Dallas Stars,DAL
+163,25,54,Dallas Stars,Vegas Golden Knights,2022021269200,2022021269,Blocked Shot,200,BLOCKED_SHOT,Jamie Benn shot blocked shot by William Karlsson,2023-04-08T20:55:14Z,2,09:13,10:47,0,1,54.0,Vegas Golden Knights,VGK
+164,25,54,Dallas Stars,Vegas Golden Knights,2022021269362,2022021269,Takeaway,362,TAKEAWAY,Takeaway by Wyatt Johnston,2023-04-08T20:55:21Z,2,09:20,10:40,0,1,25.0,Dallas Stars,DAL
+165,25,54,Dallas Stars,Vegas Golden Knights,2022021269451,2022021269,Missed Shot,451,MISSED_SHOT,William Karlsson Wide of Net Jake Oettinger,2023-04-08T20:55:35Z,2,09:34,10:26,0,1,54.0,Vegas Golden Knights,VGK
+166,25,54,Dallas Stars,Vegas Golden Knights,202202126986,2022021269,Hit,86,HIT,Alex Pietrangelo hit Roope Hintz,2023-04-08T20:56:04Z,2,10:03,09:57,0,1,54.0,Vegas Golden Knights,VGK
+167,25,54,Dallas Stars,Vegas Golden Knights,2022021269364,2022021269,Stoppage,364,STOP,Referee or Linesman,2023-04-08T20:56:40Z,2,10:39,09:21,0,1,,,
+168,25,54,Dallas Stars,Vegas Golden Knights,2022021269670,2022021269,Penalty,670,PENALTY,Jonathan Marchessault Hooking against Jason Robertson,2023-04-08T20:56:40Z,2,10:39,09:21,0,1,54.0,Vegas Golden Knights,VGK
+169,25,54,Dallas Stars,Vegas Golden Knights,202202126987,2022021269,Faceoff,87,FACEOFF,Nicolas Roy faceoff won against Jamie Benn,2023-04-08T20:59:04Z,2,10:39,09:21,0,1,54.0,Vegas Golden Knights,VGK
+170,25,54,Dallas Stars,Vegas Golden Knights,2022021269452,2022021269,Shot,452,SHOT,Roope Hintz Tip-In saved by Jonathan Quick,2023-04-08T20:59:12Z,2,10:47,09:13,0,1,25.0,Dallas Stars,DAL
+171,25,54,Dallas Stars,Vegas Golden Knights,2022021269366,2022021269,Stoppage,366,STOP,Goalie Stopped,2023-04-08T20:59:14Z,2,10:49,09:11,0,1,,,
+172,25,54,Dallas Stars,Vegas Golden Knights,202202126988,2022021269,Faceoff,88,FACEOFF,Chandler Stephenson faceoff won against Joe Pavelski,2023-04-08T20:59:36Z,2,10:49,09:11,0,1,54.0,Vegas Golden Knights,VGK
+173,25,54,Dallas Stars,Vegas Golden Knights,2022021269453,2022021269,Missed Shot,453,MISSED_SHOT,Joe Pavelski Wide of Net Jonathan Quick,2023-04-08T20:59:42Z,2,10:55,09:05,0,1,25.0,Dallas Stars,DAL
+174,25,54,Dallas Stars,Vegas Golden Knights,2022021269367,2022021269,Takeaway,367,TAKEAWAY,Takeaway by Reilly Smith,2023-04-08T21:00:16Z,2,11:29,08:31,0,1,54.0,Vegas Golden Knights,VGK
+175,25,54,Dallas Stars,Vegas Golden Knights,2022021269454,2022021269,Blocked Shot,454,BLOCKED_SHOT,William Karlsson shot blocked shot by Max Domi,2023-04-08T21:00:18Z,2,11:31,08:29,0,1,25.0,Dallas Stars,DAL
+176,25,54,Dallas Stars,Vegas Golden Knights,2022021269368,2022021269,Giveaway,368,GIVEAWAY,Giveaway by Wyatt Johnston,2023-04-08T21:01:05Z,2,12:18,07:42,0,1,25.0,Dallas Stars,DAL
+177,25,54,Dallas Stars,Vegas Golden Knights,2022021269369,2022021269,Giveaway,369,GIVEAWAY,Giveaway by Colin Miller,2023-04-08T21:01:25Z,2,12:38,07:22,0,1,25.0,Dallas Stars,DAL
+178,25,54,Dallas Stars,Vegas Golden Knights,2022021269370,2022021269,Stoppage,370,STOP,Hand Pass,2023-04-08T21:01:30Z,2,12:42,07:18,0,1,,,
+179,25,54,Dallas Stars,Vegas Golden Knights,202202126989,2022021269,Faceoff,89,FACEOFF,Radek Faksa faceoff won against Chandler Stephenson,2023-04-08T21:01:59Z,2,12:42,07:18,0,1,25.0,Dallas Stars,DAL
+180,25,54,Dallas Stars,Vegas Golden Knights,202202126990,2022021269,Hit,90,HIT,Luke Glendening hit Ben Hutton,2023-04-08T21:02:06Z,2,12:49,07:11,0,1,25.0,Dallas Stars,DAL
+181,25,54,Dallas Stars,Vegas Golden Knights,2022021269455,2022021269,Goal,455,GOAL,"Joel Kiviranta (8) Wrist Shot, assists: Radek Faksa (9), Thomas Harley (1)",2023-04-08T21:02:16Z,2,12:59,07:01,1,1,25.0,Dallas Stars,DAL
+182,25,54,Dallas Stars,Vegas Golden Knights,2022021269275,2022021269,Faceoff,275,FACEOFF,Luke Glendening faceoff won against Brett Howden,2023-04-08T21:03:12Z,2,12:59,07:01,1,1,25.0,Dallas Stars,DAL
+183,25,54,Dallas Stars,Vegas Golden Knights,2022021269371,2022021269,Giveaway,371,GIVEAWAY,Giveaway by Jani Hakanpää,2023-04-08T21:03:40Z,2,13:27,06:33,1,1,25.0,Dallas Stars,DAL
+184,25,54,Dallas Stars,Vegas Golden Knights,2022021269372,2022021269,Giveaway,372,GIVEAWAY,Giveaway by Keegan Kolesar,2023-04-08T21:03:42Z,2,13:29,06:31,1,1,54.0,Vegas Golden Knights,VGK
+185,25,54,Dallas Stars,Vegas Golden Knights,202202126992,2022021269,Hit,92,HIT,Miro Heiskanen hit Paul Cotter,2023-04-08T21:04:03Z,2,13:50,06:10,1,1,25.0,Dallas Stars,DAL
+186,25,54,Dallas Stars,Vegas Golden Knights,202202126993,2022021269,Hit,93,HIT,Nicolas Roy hit Jani Hakanpää,2023-04-08T21:04:09Z,2,13:56,06:04,1,1,54.0,Vegas Golden Knights,VGK
+187,25,54,Dallas Stars,Vegas Golden Knights,2022021269456,2022021269,Shot,456,SHOT,Pavel Dorofeyev Wrist Shot saved by Jake Oettinger,2023-04-08T21:04:18Z,2,14:05,05:55,1,1,54.0,Vegas Golden Knights,VGK
+188,25,54,Dallas Stars,Vegas Golden Knights,2022021269373,2022021269,Stoppage,373,STOP,Goalie Stopped,2023-04-08T21:04:20Z,2,14:06,05:54,1,1,,,
+189,25,54,Dallas Stars,Vegas Golden Knights,2022021269276,2022021269,Faceoff,276,FACEOFF,Nicolas Roy faceoff won against Joe Pavelski,2023-04-08T21:06:50Z,2,14:06,05:54,1,1,54.0,Vegas Golden Knights,VGK
+190,25,54,Dallas Stars,Vegas Golden Knights,202202126994,2022021269,Hit,94,HIT,Joe Pavelski hit Jonathan Marchessault,2023-04-08T21:07:07Z,2,14:23,05:37,1,1,25.0,Dallas Stars,DAL
+191,25,54,Dallas Stars,Vegas Golden Knights,2022021269374,2022021269,Giveaway,374,GIVEAWAY,Giveaway by Ryan Suter,2023-04-08T21:07:08Z,2,14:24,05:36,1,1,25.0,Dallas Stars,DAL
+192,25,54,Dallas Stars,Vegas Golden Knights,2022021269457,2022021269,Blocked Shot,457,BLOCKED_SHOT,Jonathan Marchessault shot blocked shot by Miro Heiskanen,2023-04-08T21:07:31Z,2,14:47,05:13,1,1,25.0,Dallas Stars,DAL
+193,25,54,Dallas Stars,Vegas Golden Knights,2022021269458,2022021269,Shot,458,SHOT,Alex Pietrangelo Wrist Shot saved by Jake Oettinger,2023-04-08T21:07:42Z,2,14:58,05:02,1,1,54.0,Vegas Golden Knights,VGK
+194,25,54,Dallas Stars,Vegas Golden Knights,2022021269702,2022021269,Blocked Shot,702,BLOCKED_SHOT,Nicolas Roy shot blocked shot by Roope Hintz,2023-04-08T21:07:44Z,2,15:00,05:00,1,1,25.0,Dallas Stars,DAL
+195,25,54,Dallas Stars,Vegas Golden Knights,2022021269375,2022021269,Takeaway,375,TAKEAWAY,Takeaway by Reilly Smith,2023-04-08T21:07:59Z,2,15:15,04:45,1,1,54.0,Vegas Golden Knights,VGK
+196,25,54,Dallas Stars,Vegas Golden Knights,202202126995,2022021269,Hit,95,HIT,Jamie Benn hit Michael Amadio,2023-04-08T21:08:05Z,2,15:21,04:39,1,1,25.0,Dallas Stars,DAL
+197,25,54,Dallas Stars,Vegas Golden Knights,2022021269459,2022021269,Shot,459,SHOT,Ty Dellandrea Wrist Shot saved by Jonathan Quick,2023-04-08T21:08:46Z,2,16:02,03:58,1,1,25.0,Dallas Stars,DAL
+198,25,54,Dallas Stars,Vegas Golden Knights,202202126996,2022021269,Hit,96,HIT,Colin Miller hit Chandler Stephenson,2023-04-08T21:09:27Z,2,16:43,03:17,1,1,25.0,Dallas Stars,DAL
+199,25,54,Dallas Stars,Vegas Golden Knights,2022021269376,2022021269,Giveaway,376,GIVEAWAY,Giveaway by Ty Dellandrea,2023-04-08T21:09:33Z,2,16:49,03:11,1,1,25.0,Dallas Stars,DAL
+200,25,54,Dallas Stars,Vegas Golden Knights,2022021269460,2022021269,Shot,460,SHOT,Joel Kiviranta Snap Shot saved by Jonathan Quick,2023-04-08T21:10:08Z,2,17:24,02:36,1,1,25.0,Dallas Stars,DAL
+201,25,54,Dallas Stars,Vegas Golden Knights,2022021269377,2022021269,Stoppage,377,STOP,Goalie Stopped,2023-04-08T21:10:11Z,2,17:26,02:34,1,1,,,
+202,25,54,Dallas Stars,Vegas Golden Knights,2022021269277,2022021269,Faceoff,277,FACEOFF,Luke Glendening faceoff won against Brett Howden,2023-04-08T21:10:42Z,2,17:26,02:34,1,1,25.0,Dallas Stars,DAL
+203,25,54,Dallas Stars,Vegas Golden Knights,202202126997,2022021269,Hit,97,HIT,Keegan Kolesar hit Esa Lindell,2023-04-08T21:10:51Z,2,17:35,02:25,1,1,54.0,Vegas Golden Knights,VGK
+204,25,54,Dallas Stars,Vegas Golden Knights,202202126998,2022021269,Hit,98,HIT,Radek Faksa hit Brayden McNabb,2023-04-08T21:11:14Z,2,17:58,02:02,1,1,25.0,Dallas Stars,DAL
+205,25,54,Dallas Stars,Vegas Golden Knights,202202126999,2022021269,Hit,99,HIT,Joe Pavelski hit Paul Cotter,2023-04-08T21:11:27Z,2,18:11,01:49,1,1,25.0,Dallas Stars,DAL
+206,25,54,Dallas Stars,Vegas Golden Knights,2022021269378,2022021269,Giveaway,378,GIVEAWAY,Giveaway by Jonathan Marchessault,2023-04-08T21:11:46Z,2,18:30,01:30,1,1,54.0,Vegas Golden Knights,VGK
+207,25,54,Dallas Stars,Vegas Golden Knights,2022021269100,2022021269,Hit,100,HIT,Joe Pavelski hit Alec Martinez,2023-04-08T21:11:50Z,2,18:34,01:26,1,1,25.0,Dallas Stars,DAL
+208,25,54,Dallas Stars,Vegas Golden Knights,2022021269461,2022021269,Blocked Shot,461,BLOCKED_SHOT,Jonathan Marchessault shot blocked shot by Ryan Suter,2023-04-08T21:12:28Z,2,19:12,00:48,1,1,25.0,Dallas Stars,DAL
+209,25,54,Dallas Stars,Vegas Golden Knights,2022021269791,2022021269,Penalty,791,PENALTY,Miro Heiskanen Slashing against Jonathan Marchessault,2023-04-08T21:12:31Z,2,19:13,00:47,1,1,25.0,Dallas Stars,DAL
+210,25,54,Dallas Stars,Vegas Golden Knights,2022021269279,2022021269,Faceoff,279,FACEOFF,William Karlsson faceoff won against Luke Glendening,2023-04-08T21:13:18Z,2,19:13,00:47,1,1,54.0,Vegas Golden Knights,VGK
+211,25,54,Dallas Stars,Vegas Golden Knights,2022021269462,2022021269,Shot,462,SHOT,Ben Hutton Slap Shot saved by Jake Oettinger,2023-04-08T21:13:56Z,2,19:52,00:08,1,1,54.0,Vegas Golden Knights,VGK
+212,25,54,Dallas Stars,Vegas Golden Knights,2022021269380,2022021269,Period End,380,PERIOD_END,End of 2nd Period,2023-04-08T21:14:04Z,2,20:00,00:00,1,1,,,
+213,25,54,Dallas Stars,Vegas Golden Knights,2022021269383,2022021269,Period Official,383,PERIOD_OFFICIAL,Period Official,2023-04-08T21:20:12Z,2,20:00,00:00,1,1,,,
+214,25,54,Dallas Stars,Vegas Golden Knights,2022021269384,2022021269,Period Ready,384,PERIOD_READY,Period Ready,2023-04-08T21:30:41Z,3,00:00,20:00,1,1,,,
+215,25,54,Dallas Stars,Vegas Golden Knights,2022021269280,2022021269,Period Start,280,PERIOD_START,Period Start,2023-04-08T21:33:14Z,3,00:00,20:00,1,1,,,
+216,25,54,Dallas Stars,Vegas Golden Knights,2022021269281,2022021269,Faceoff,281,FACEOFF,Chandler Stephenson faceoff won against Luke Glendening,2023-04-08T21:33:14Z,3,00:00,20:00,1,1,54.0,Vegas Golden Knights,VGK
+217,25,54,Dallas Stars,Vegas Golden Knights,2022021269464,2022021269,Missed Shot,464,MISSED_SHOT,Chandler Stephenson Wide of Net Jake Oettinger,2023-04-08T21:34:27Z,3,01:13,18:47,1,1,54.0,Vegas Golden Knights,VGK
+218,25,54,Dallas Stars,Vegas Golden Knights,2022021269385,2022021269,Giveaway,385,GIVEAWAY,Giveaway by Miro Heiskanen,2023-04-08T21:34:36Z,3,01:22,18:38,1,1,25.0,Dallas Stars,DAL
+219,25,54,Dallas Stars,Vegas Golden Knights,2022021269386,2022021269,Giveaway,386,GIVEAWAY,Giveaway by Ben Hutton,2023-04-08T21:35:06Z,3,01:52,18:08,1,1,54.0,Vegas Golden Knights,VGK
+220,25,54,Dallas Stars,Vegas Golden Knights,2022021269387,2022021269,Stoppage,387,STOP,Icing,2023-04-08T21:35:24Z,3,02:09,17:51,1,1,,,
+221,25,54,Dallas Stars,Vegas Golden Knights,2022021269282,2022021269,Faceoff,282,FACEOFF,Joe Pavelski faceoff won against Brett Howden,2023-04-08T21:35:49Z,3,02:09,17:51,1,1,25.0,Dallas Stars,DAL
+222,25,54,Dallas Stars,Vegas Golden Knights,2022021269501,2022021269,Hit,501,HIT,Keegan Kolesar hit Jason Robertson,2023-04-08T21:35:54Z,3,02:14,17:46,1,1,54.0,Vegas Golden Knights,VGK
+223,25,54,Dallas Stars,Vegas Golden Knights,2022021269465,2022021269,Blocked Shot,465,BLOCKED_SHOT,Roope Hintz shot blocked shot by Brayden McNabb,2023-04-08T21:36:01Z,3,02:21,17:39,1,1,54.0,Vegas Golden Knights,VGK
+224,25,54,Dallas Stars,Vegas Golden Knights,2022021269388,2022021269,Stoppage,388,STOP,Icing,2023-04-08T21:36:16Z,3,02:36,17:24,1,1,,,
+225,25,54,Dallas Stars,Vegas Golden Knights,2022021269283,2022021269,Faceoff,283,FACEOFF,Brett Howden faceoff won against Max Domi,2023-04-08T21:36:43Z,3,02:36,17:24,1,1,54.0,Vegas Golden Knights,VGK
+226,25,54,Dallas Stars,Vegas Golden Knights,2022021269502,2022021269,Hit,502,HIT,Ty Dellandrea hit Zach Whitecloud,2023-04-08T21:36:47Z,3,02:40,17:20,1,1,25.0,Dallas Stars,DAL
+227,25,54,Dallas Stars,Vegas Golden Knights,2022021269466,2022021269,Blocked Shot,466,BLOCKED_SHOT,Max Domi shot blocked shot by Brayden McNabb,2023-04-08T21:36:55Z,3,02:48,17:12,1,1,54.0,Vegas Golden Knights,VGK
+228,25,54,Dallas Stars,Vegas Golden Knights,2022021269389,2022021269,Stoppage,389,STOP,Puck in Crowd,2023-04-08T21:36:58Z,3,02:51,17:09,1,1,,,
+229,25,54,Dallas Stars,Vegas Golden Knights,2022021269284,2022021269,Faceoff,284,FACEOFF,Max Domi faceoff won against Nicolas Roy,2023-04-08T21:37:32Z,3,02:51,17:09,1,1,25.0,Dallas Stars,DAL
+230,25,54,Dallas Stars,Vegas Golden Knights,2022021269467,2022021269,Shot,467,SHOT,Ryan Suter Wrist Shot saved by Jonathan Quick,2023-04-08T21:37:44Z,3,03:03,16:57,1,1,25.0,Dallas Stars,DAL
+231,25,54,Dallas Stars,Vegas Golden Knights,2022021269390,2022021269,Stoppage,390,STOP,Goalie Stopped,2023-04-08T21:37:46Z,3,03:04,16:56,1,1,,,
+232,25,54,Dallas Stars,Vegas Golden Knights,2022021269285,2022021269,Faceoff,285,FACEOFF,Chandler Stephenson faceoff won against Joe Pavelski,2023-04-08T21:38:17Z,3,03:04,16:56,1,1,54.0,Vegas Golden Knights,VGK
+233,25,54,Dallas Stars,Vegas Golden Knights,2022021269468,2022021269,Missed Shot,468,MISSED_SHOT,Ivan Barbashev Wide of Net Jake Oettinger,2023-04-08T21:39:04Z,3,03:51,16:09,1,1,54.0,Vegas Golden Knights,VGK
+234,25,54,Dallas Stars,Vegas Golden Knights,2022021269503,2022021269,Hit,503,HIT,Roope Hintz hit Alex Pietrangelo,2023-04-08T21:39:04Z,3,03:51,16:09,1,1,25.0,Dallas Stars,DAL
+235,25,54,Dallas Stars,Vegas Golden Knights,2022021269469,2022021269,Shot,469,SHOT,Jonathan Marchessault Wrist Shot saved by Jake Oettinger,2023-04-08T21:39:16Z,3,04:03,15:57,1,1,54.0,Vegas Golden Knights,VGK
+236,25,54,Dallas Stars,Vegas Golden Knights,2022021269470,2022021269,Missed Shot,470,MISSED_SHOT,Esa Lindell Wide of Net Jonathan Quick,2023-04-08T21:39:39Z,3,04:26,15:34,1,1,25.0,Dallas Stars,DAL
+237,25,54,Dallas Stars,Vegas Golden Knights,2022021269471,2022021269,Blocked Shot,471,BLOCKED_SHOT,Esa Lindell shot blocked shot by Jonathan Marchessault,2023-04-08T21:39:43Z,3,04:30,15:30,1,1,54.0,Vegas Golden Knights,VGK
+238,25,54,Dallas Stars,Vegas Golden Knights,2022021269504,2022021269,Hit,504,HIT,Luke Glendening hit Ben Hutton,2023-04-08T21:39:50Z,3,04:37,15:23,1,1,25.0,Dallas Stars,DAL
+239,25,54,Dallas Stars,Vegas Golden Knights,2022021269505,2022021269,Hit,505,HIT,Reilly Smith hit Thomas Harley,2023-04-08T21:40:23Z,3,05:10,14:50,1,1,54.0,Vegas Golden Knights,VGK
+240,25,54,Dallas Stars,Vegas Golden Knights,2022021269391,2022021269,Giveaway,391,GIVEAWAY,Giveaway by Wyatt Johnston,2023-04-08T21:40:25Z,3,05:12,14:48,1,1,25.0,Dallas Stars,DAL
+241,25,54,Dallas Stars,Vegas Golden Knights,2022021269506,2022021269,Hit,506,HIT,Jamie Benn hit Paul Cotter,2023-04-08T21:41:00Z,3,05:47,14:13,1,1,25.0,Dallas Stars,DAL
+242,25,54,Dallas Stars,Vegas Golden Knights,2022021269507,2022021269,Hit,507,HIT,Paul Cotter hit Miro Heiskanen,2023-04-08T21:41:11Z,3,05:58,14:02,1,1,54.0,Vegas Golden Knights,VGK
+243,25,54,Dallas Stars,Vegas Golden Knights,2022021269393,2022021269,Stoppage,393,STOP,Offside,2023-04-08T21:41:49Z,3,06:36,13:24,1,1,,,
+244,25,54,Dallas Stars,Vegas Golden Knights,2022021269286,2022021269,Faceoff,286,FACEOFF,Roope Hintz faceoff won against Chandler Stephenson,2023-04-08T21:44:13Z,3,06:36,13:24,1,1,25.0,Dallas Stars,DAL
+245,25,54,Dallas Stars,Vegas Golden Knights,2022021269472,2022021269,Shot,472,SHOT,Luke Glendening Backhand saved by Jonathan Quick,2023-04-08T21:45:03Z,3,07:26,12:34,1,1,25.0,Dallas Stars,DAL
+246,25,54,Dallas Stars,Vegas Golden Knights,2022021269473,2022021269,Shot,473,SHOT,Michael Amadio Tip-In saved by Jake Oettinger,2023-04-08T21:45:29Z,3,07:52,12:08,1,1,54.0,Vegas Golden Knights,VGK
+247,25,54,Dallas Stars,Vegas Golden Knights,2022021269394,2022021269,Stoppage,394,STOP,Icing,2023-04-08T21:46:01Z,3,08:24,11:36,1,1,,,
+248,25,54,Dallas Stars,Vegas Golden Knights,2022021269287,2022021269,Faceoff,287,FACEOFF,William Karlsson faceoff won against Max Domi,2023-04-08T21:46:36Z,3,08:24,11:36,1,1,54.0,Vegas Golden Knights,VGK
+249,25,54,Dallas Stars,Vegas Golden Knights,2022021269395,2022021269,Giveaway,395,GIVEAWAY,Giveaway by Ty Dellandrea,2023-04-08T21:47:15Z,3,09:02,10:58,1,1,25.0,Dallas Stars,DAL
+250,25,54,Dallas Stars,Vegas Golden Knights,2022021269474,2022021269,Blocked Shot,474,BLOCKED_SHOT,Roope Hintz shot blocked shot by Alec Martinez,2023-04-08T21:47:41Z,3,09:29,10:31,1,1,54.0,Vegas Golden Knights,VGK
+251,25,54,Dallas Stars,Vegas Golden Knights,2022021269396,2022021269,Stoppage,396,STOP,Puck in Netting,2023-04-08T21:47:43Z,3,09:31,10:29,1,1,,,
+252,25,54,Dallas Stars,Vegas Golden Knights,2022021269288,2022021269,Faceoff,288,FACEOFF,Brett Howden faceoff won against Wyatt Johnston,2023-04-08T21:48:18Z,3,09:31,10:29,1,1,54.0,Vegas Golden Knights,VGK
+253,25,54,Dallas Stars,Vegas Golden Knights,2022021269397,2022021269,Stoppage,397,STOP,Puck in Netting,2023-04-08T21:48:28Z,3,09:41,10:19,1,1,,,
+254,25,54,Dallas Stars,Vegas Golden Knights,2022021269289,2022021269,Faceoff,289,FACEOFF,Joe Pavelski faceoff won against Brett Howden,2023-04-08T21:48:59Z,3,09:41,10:19,1,1,25.0,Dallas Stars,DAL
+255,25,54,Dallas Stars,Vegas Golden Knights,2022021269508,2022021269,Hit,508,HIT,Joe Pavelski hit Brayden McNabb,2023-04-08T21:49:13Z,3,09:55,10:05,1,1,25.0,Dallas Stars,DAL
+256,25,54,Dallas Stars,Vegas Golden Knights,2022021269398,2022021269,Stoppage,398,STOP,Referee or Linesman,2023-04-08T21:49:31Z,3,10:14,09:46,1,1,,,
+257,25,54,Dallas Stars,Vegas Golden Knights,2022021269399,2022021269,Stoppage,399,STOP,TV timeout,2023-04-08T21:49:31Z,3,10:14,09:46,1,1,,,
+258,25,54,Dallas Stars,Vegas Golden Knights,2022021269290,2022021269,Faceoff,290,FACEOFF,Chandler Stephenson faceoff won against Joe Pavelski,2023-04-08T21:52:40Z,3,10:14,09:46,1,1,54.0,Vegas Golden Knights,VGK
+259,25,54,Dallas Stars,Vegas Golden Knights,2022021269475,2022021269,Missed Shot,475,MISSED_SHOT,Joe Pavelski Wide of Net Jonathan Quick,2023-04-08T21:53:22Z,3,10:56,09:04,1,1,25.0,Dallas Stars,DAL
+260,25,54,Dallas Stars,Vegas Golden Knights,2022021269476,2022021269,Shot,476,SHOT,Michael Amadio Backhand saved by Jake Oettinger,2023-04-08T21:53:32Z,3,11:06,08:54,1,1,54.0,Vegas Golden Knights,VGK
+261,25,54,Dallas Stars,Vegas Golden Knights,2022021269477,2022021269,Missed Shot,477,MISSED_SHOT,Michael Amadio Goalpost Jake Oettinger,2023-04-08T21:53:37Z,3,11:11,08:49,1,1,54.0,Vegas Golden Knights,VGK
+262,25,54,Dallas Stars,Vegas Golden Knights,2022021269478,2022021269,Shot,478,SHOT,Nicolas Hague Wrist Shot saved by Jake Oettinger,2023-04-08T21:53:37Z,3,11:11,08:49,1,1,54.0,Vegas Golden Knights,VGK
+263,25,54,Dallas Stars,Vegas Golden Knights,2022021269479,2022021269,Blocked Shot,479,BLOCKED_SHOT,Nicolas Hague shot blocked shot by Joel Kiviranta,2023-04-08T21:53:45Z,3,11:19,08:41,1,1,25.0,Dallas Stars,DAL
+264,25,54,Dallas Stars,Vegas Golden Knights,2022021269400,2022021269,Stoppage,400,STOP,Icing,2023-04-08T21:53:51Z,3,11:26,08:34,1,1,,,
+265,25,54,Dallas Stars,Vegas Golden Knights,2022021269291,2022021269,Faceoff,291,FACEOFF,Nicolas Roy faceoff won against Radek Faksa,2023-04-08T21:54:19Z,3,11:26,08:34,1,1,54.0,Vegas Golden Knights,VGK
+266,25,54,Dallas Stars,Vegas Golden Knights,2022021269480,2022021269,Blocked Shot,480,BLOCKED_SHOT,Ben Hutton shot blocked shot by Miro Heiskanen,2023-04-08T21:54:31Z,3,11:38,08:22,1,1,25.0,Dallas Stars,DAL
+267,25,54,Dallas Stars,Vegas Golden Knights,2022021269481,2022021269,Shot,481,SHOT,Esa Lindell Wrist Shot saved by Jonathan Quick,2023-04-08T21:55:12Z,3,12:19,07:41,1,1,25.0,Dallas Stars,DAL
+268,25,54,Dallas Stars,Vegas Golden Knights,2022021269509,2022021269,Hit,509,HIT,Keegan Kolesar hit Max Domi,2023-04-08T21:55:12Z,3,12:19,07:41,1,1,54.0,Vegas Golden Knights,VGK
+269,25,54,Dallas Stars,Vegas Golden Knights,2022021269482,2022021269,Shot,482,SHOT,Max Domi Snap Shot saved by Jonathan Quick,2023-04-08T21:55:16Z,3,12:23,07:37,1,1,25.0,Dallas Stars,DAL
+270,25,54,Dallas Stars,Vegas Golden Knights,2022021269851,2022021269,Stoppage,851,STOP,Goalie Stopped,2023-04-08T21:55:17Z,3,12:24,07:36,1,1,,,
+271,25,54,Dallas Stars,Vegas Golden Knights,2022021269292,2022021269,Faceoff,292,FACEOFF,Jamie Benn faceoff won against Brett Howden,2023-04-08T21:56:08Z,3,12:24,07:36,1,1,25.0,Dallas Stars,DAL
+272,25,54,Dallas Stars,Vegas Golden Knights,2022021269484,2022021269,Blocked Shot,484,BLOCKED_SHOT,Paul Cotter shot blocked shot by Thomas Harley,2023-04-08T21:56:45Z,3,13:01,06:59,1,1,25.0,Dallas Stars,DAL
+273,25,54,Dallas Stars,Vegas Golden Knights,2022021269852,2022021269,Stoppage,852,STOP,Puck in Netting,2023-04-08T21:56:46Z,3,13:02,06:58,1,1,,,
+274,25,54,Dallas Stars,Vegas Golden Knights,2022021269293,2022021269,Faceoff,293,FACEOFF,Joe Pavelski faceoff won against Chandler Stephenson,2023-04-08T21:57:20Z,3,13:02,06:58,1,1,25.0,Dallas Stars,DAL
+275,25,54,Dallas Stars,Vegas Golden Knights,2022021269853,2022021269,Giveaway,853,GIVEAWAY,Giveaway by Jani Hakanpää,2023-04-08T21:57:34Z,3,13:16,06:44,1,1,25.0,Dallas Stars,DAL
+276,25,54,Dallas Stars,Vegas Golden Knights,2022021269510,2022021269,Hit,510,HIT,Jani Hakanpää hit Chandler Stephenson,2023-04-08T21:57:39Z,3,13:21,06:39,1,1,25.0,Dallas Stars,DAL
+277,25,54,Dallas Stars,Vegas Golden Knights,2022021269511,2022021269,Hit,511,HIT,Radek Faksa hit Nicolas Hague,2023-04-08T21:58:29Z,3,14:11,05:49,1,1,25.0,Dallas Stars,DAL
+278,25,54,Dallas Stars,Vegas Golden Knights,2022021269854,2022021269,Giveaway,854,GIVEAWAY,Giveaway by Ben Hutton,2023-04-08T21:58:32Z,3,14:14,05:46,1,1,54.0,Vegas Golden Knights,VGK
+279,25,54,Dallas Stars,Vegas Golden Knights,2022021269512,2022021269,Hit,512,HIT,Ben Hutton hit Radek Faksa,2023-04-08T21:58:39Z,3,14:21,05:39,1,1,54.0,Vegas Golden Knights,VGK
+280,25,54,Dallas Stars,Vegas Golden Knights,2022021269485,2022021269,Missed Shot,485,MISSED_SHOT,Max Domi Wide of Net Jonathan Quick,2023-04-08T21:58:42Z,3,14:24,05:36,1,1,25.0,Dallas Stars,DAL
+281,25,54,Dallas Stars,Vegas Golden Knights,2022021269855,2022021269,Giveaway,855,GIVEAWAY,Giveaway by Radek Faksa,2023-04-08T21:58:52Z,3,14:33,05:27,1,1,25.0,Dallas Stars,DAL
+282,25,54,Dallas Stars,Vegas Golden Knights,2022021269856,2022021269,Stoppage,856,STOP,Icing,2023-04-08T21:59:14Z,3,14:57,05:03,1,1,,,
+283,25,54,Dallas Stars,Vegas Golden Knights,2022021269294,2022021269,Faceoff,294,FACEOFF,Nicolas Roy faceoff won against Tyler Seguin,2023-04-08T21:59:45Z,3,14:57,05:03,1,1,54.0,Vegas Golden Knights,VGK
+284,25,54,Dallas Stars,Vegas Golden Knights,2022021269857,2022021269,Giveaway,857,GIVEAWAY,Giveaway by Thomas Harley,2023-04-08T22:00:17Z,3,15:29,04:31,1,1,25.0,Dallas Stars,DAL
+285,25,54,Dallas Stars,Vegas Golden Knights,2022021269858,2022021269,Giveaway,858,GIVEAWAY,Giveaway by Pavel Dorofeyev,2023-04-08T22:00:25Z,3,15:37,04:23,1,1,54.0,Vegas Golden Knights,VGK
+286,25,54,Dallas Stars,Vegas Golden Knights,2022021269859,2022021269,Stoppage,859,STOP,Icing,2023-04-08T22:00:31Z,3,15:42,04:18,1,1,,,
+287,25,54,Dallas Stars,Vegas Golden Knights,2022021269295,2022021269,Faceoff,295,FACEOFF,Tyler Seguin faceoff won against Chandler Stephenson,2023-04-08T22:00:59Z,3,15:42,04:18,1,1,25.0,Dallas Stars,DAL
+288,25,54,Dallas Stars,Vegas Golden Knights,2022021269860,2022021269,Takeaway,860,TAKEAWAY,Takeaway by Colin Miller,2023-04-08T22:01:11Z,3,15:52,04:08,1,1,25.0,Dallas Stars,DAL
+289,25,54,Dallas Stars,Vegas Golden Knights,2022021269486,2022021269,Missed Shot,486,MISSED_SHOT,Evgenii Dadonov Goalpost Jonathan Quick,2023-04-08T22:01:35Z,3,16:18,03:42,1,1,25.0,Dallas Stars,DAL
+290,25,54,Dallas Stars,Vegas Golden Knights,2022021269487,2022021269,Shot,487,SHOT,Evgenii Dadonov Wrist Shot saved by Jonathan Quick,2023-04-08T22:01:51Z,3,16:34,03:26,1,1,25.0,Dallas Stars,DAL
+291,25,54,Dallas Stars,Vegas Golden Knights,2022021269513,2022021269,Hit,513,HIT,Paul Cotter hit Esa Lindell,2023-04-08T22:01:58Z,3,16:41,03:19,1,1,54.0,Vegas Golden Knights,VGK
+292,25,54,Dallas Stars,Vegas Golden Knights,2022021269861,2022021269,Giveaway,861,GIVEAWAY,Giveaway by Miro Heiskanen,2023-04-08T22:02:29Z,3,17:12,02:48,1,1,25.0,Dallas Stars,DAL
+293,25,54,Dallas Stars,Vegas Golden Knights,2022021269514,2022021269,Hit,514,HIT,Miro Heiskanen hit William Karlsson,2023-04-08T22:02:35Z,3,17:18,02:42,1,1,25.0,Dallas Stars,DAL
+294,25,54,Dallas Stars,Vegas Golden Knights,2022021269862,2022021269,Giveaway,862,GIVEAWAY,Giveaway by Michael Amadio,2023-04-08T22:02:42Z,3,17:23,02:37,1,1,54.0,Vegas Golden Knights,VGK
+295,25,54,Dallas Stars,Vegas Golden Knights,2022021269515,2022021269,Hit,515,HIT,William Karlsson hit Miro Heiskanen,2023-04-08T22:02:47Z,3,17:30,02:30,1,1,54.0,Vegas Golden Knights,VGK
+296,25,54,Dallas Stars,Vegas Golden Knights,2022021269863,2022021269,Giveaway,863,GIVEAWAY,Giveaway by Miro Heiskanen,2023-04-08T22:03:54Z,3,18:37,01:23,1,1,25.0,Dallas Stars,DAL
+297,25,54,Dallas Stars,Vegas Golden Knights,2022021269488,2022021269,Missed Shot,488,MISSED_SHOT,Phil Kessel Wide of Net Jake Oettinger,2023-04-08T22:03:56Z,3,18:39,01:21,1,1,54.0,Vegas Golden Knights,VGK
+298,25,54,Dallas Stars,Vegas Golden Knights,2022021269864,2022021269,Takeaway,864,TAKEAWAY,Takeaway by Phil Kessel,2023-04-08T22:04:03Z,3,18:46,01:14,1,1,54.0,Vegas Golden Knights,VGK
+299,25,54,Dallas Stars,Vegas Golden Knights,2022021269489,2022021269,Blocked Shot,489,BLOCKED_SHOT,Max Domi shot blocked shot by Nicolas Hague,2023-04-08T22:04:32Z,3,19:15,00:45,1,1,54.0,Vegas Golden Knights,VGK
+300,25,54,Dallas Stars,Vegas Golden Knights,2022021269865,2022021269,Stoppage,865,STOP,Puck in Netting,2023-04-08T22:04:34Z,3,19:16,00:44,1,1,,,
+301,25,54,Dallas Stars,Vegas Golden Knights,2022021269866,2022021269,Stoppage,866,STOP,Home Timeout,2023-04-08T22:04:34Z,3,19:16,00:44,1,1,,,
+302,25,54,Dallas Stars,Vegas Golden Knights,2022021269297,2022021269,Faceoff,297,FACEOFF,Jamie Benn faceoff won against Nicolas Roy,2023-04-08T22:06:11Z,3,19:16,00:44,1,1,25.0,Dallas Stars,DAL
+303,25,54,Dallas Stars,Vegas Golden Knights,2022021269867,2022021269,Giveaway,867,GIVEAWAY,Giveaway by Alec Martinez,2023-04-08T22:06:33Z,3,19:38,00:22,1,1,54.0,Vegas Golden Knights,VGK
+304,25,54,Dallas Stars,Vegas Golden Knights,2022021269490,2022021269,Blocked Shot,490,BLOCKED_SHOT,Ryan Suter shot blocked shot by Alex Pietrangelo,2023-04-08T22:06:40Z,3,19:45,00:15,1,1,54.0,Vegas Golden Knights,VGK
+305,25,54,Dallas Stars,Vegas Golden Knights,2022021269517,2022021269,Hit,517,HIT,William Karlsson hit Jamie Benn,2023-04-08T22:06:41Z,3,19:46,00:14,1,1,54.0,Vegas Golden Knights,VGK
+306,25,54,Dallas Stars,Vegas Golden Knights,2022021269868,2022021269,Takeaway,868,TAKEAWAY,Takeaway by Tyler Seguin,2023-04-08T22:06:53Z,3,19:58,00:02,1,1,25.0,Dallas Stars,DAL
+307,25,54,Dallas Stars,Vegas Golden Knights,2022021269869,2022021269,Period End,869,PERIOD_END,End of 3rd Period,2023-04-08T22:06:55Z,3,20:00,00:00,1,1,,,
+308,25,54,Dallas Stars,Vegas Golden Knights,2022021269872,2022021269,Period Official,872,PERIOD_OFFICIAL,Period Official,2023-04-08T22:07:07Z,3,20:00,00:00,1,1,,,
+309,25,54,Dallas Stars,Vegas Golden Knights,2022021269873,2022021269,Period Ready,873,PERIOD_READY,Period Ready,2023-04-08T22:07:43Z,4,00:00,05:00,1,1,,,
+310,25,54,Dallas Stars,Vegas Golden Knights,2022021269518,2022021269,Period Start,518,PERIOD_START,Period Start,2023-04-08T22:09:25Z,4,00:00,05:00,1,1,,,
+311,25,54,Dallas Stars,Vegas Golden Knights,2022021269519,2022021269,Faceoff,519,FACEOFF,Jamie Benn faceoff won against Chandler Stephenson,2023-04-08T22:09:25Z,4,00:00,05:00,1,1,25.0,Dallas Stars,DAL
+312,25,54,Dallas Stars,Vegas Golden Knights,2022021269491,2022021269,Missed Shot,491,MISSED_SHOT,Joe Pavelski Over Net Jonathan Quick,2023-04-08T22:10:09Z,4,00:44,04:16,1,1,25.0,Dallas Stars,DAL
+313,25,54,Dallas Stars,Vegas Golden Knights,2022021269492,2022021269,Shot,492,SHOT,Chandler Stephenson Wrist Shot saved by Jake Oettinger,2023-04-08T22:10:17Z,4,00:52,04:08,1,1,54.0,Vegas Golden Knights,VGK
+314,25,54,Dallas Stars,Vegas Golden Knights,2022021269493,2022021269,Blocked Shot,493,BLOCKED_SHOT,Chandler Stephenson shot blocked shot by Joe Pavelski,2023-04-08T22:10:19Z,4,00:54,04:06,1,1,25.0,Dallas Stars,DAL
+315,25,54,Dallas Stars,Vegas Golden Knights,2022021269494,2022021269,Shot,494,SHOT,Jason Robertson Snap Shot saved by Jonathan Quick,2023-04-08T22:11:02Z,4,01:37,03:23,1,1,25.0,Dallas Stars,DAL
+316,25,54,Dallas Stars,Vegas Golden Knights,2022021269495,2022021269,Blocked Shot,495,BLOCKED_SHOT,Reilly Smith shot blocked shot by Thomas Harley,2023-04-08T22:11:13Z,4,01:48,03:12,1,1,25.0,Dallas Stars,DAL
+317,25,54,Dallas Stars,Vegas Golden Knights,2022021269874,2022021269,Stoppage,874,STOP,Puck in Netting,2023-04-08T22:11:14Z,4,01:49,03:11,1,1,,,
+318,25,54,Dallas Stars,Vegas Golden Knights,2022021269520,2022021269,Faceoff,520,FACEOFF,Tyler Seguin faceoff won against Nicolas Roy,2023-04-08T22:11:51Z,4,01:49,03:11,1,1,25.0,Dallas Stars,DAL
+319,25,54,Dallas Stars,Vegas Golden Knights,2022021269496,2022021269,Missed Shot,496,MISSED_SHOT,Max Domi Hit Crossbar Jonathan Quick,2023-04-08T22:12:04Z,4,02:02,02:58,1,1,25.0,Dallas Stars,DAL
+320,25,54,Dallas Stars,Vegas Golden Knights,2022021269875,2022021269,Stoppage,875,STOP,Puck in Netting,2023-04-08T22:12:05Z,4,02:03,02:57,1,1,,,
+321,25,54,Dallas Stars,Vegas Golden Knights,2022021269521,2022021269,Faceoff,521,FACEOFF,Chandler Stephenson faceoff won against Tyler Seguin,2023-04-08T22:12:41Z,4,02:03,02:57,1,1,54.0,Vegas Golden Knights,VGK
+322,25,54,Dallas Stars,Vegas Golden Knights,2022021269876,2022021269,Takeaway,876,TAKEAWAY,Takeaway by Miro Heiskanen,2023-04-08T22:12:52Z,4,02:14,02:46,1,1,25.0,Dallas Stars,DAL
+323,25,54,Dallas Stars,Vegas Golden Knights,2022021269497,2022021269,Missed Shot,497,MISSED_SHOT,Chandler Stephenson Wide of Net Jake Oettinger,2023-04-08T22:13:16Z,4,02:38,02:22,1,1,54.0,Vegas Golden Knights,VGK
+324,25,54,Dallas Stars,Vegas Golden Knights,2022021269498,2022021269,Missed Shot,498,MISSED_SHOT,Reilly Smith Goalpost Jake Oettinger,2023-04-08T22:13:39Z,4,03:01,01:59,1,1,54.0,Vegas Golden Knights,VGK
+325,25,54,Dallas Stars,Vegas Golden Knights,2022021269523,2022021269,Hit,523,HIT,Reilly Smith hit Miro Heiskanen,2023-04-08T22:13:47Z,4,03:09,01:51,1,1,54.0,Vegas Golden Knights,VGK
+326,25,54,Dallas Stars,Vegas Golden Knights,2022021269499,2022021269,Blocked Shot,499,BLOCKED_SHOT,Reilly Smith shot blocked shot by Max Domi,2023-04-08T22:14:11Z,4,03:33,01:27,1,1,25.0,Dallas Stars,DAL
+327,25,54,Dallas Stars,Vegas Golden Knights,2022021269878,2022021269,Giveaway,878,GIVEAWAY,Giveaway by Reilly Smith,2023-04-08T22:14:13Z,4,03:35,01:25,1,1,54.0,Vegas Golden Knights,VGK
+328,25,54,Dallas Stars,Vegas Golden Knights,2022021269879,2022021269,Takeaway,879,TAKEAWAY,Takeaway by Chandler Stephenson,2023-04-08T22:15:30Z,4,04:52,00:08,1,1,54.0,Vegas Golden Knights,VGK
+329,25,54,Dallas Stars,Vegas Golden Knights,2022021269880,2022021269,Takeaway,880,TAKEAWAY,Takeaway by Jason Robertson,2023-04-08T22:15:36Z,4,04:58,00:02,1,1,25.0,Dallas Stars,DAL
+330,25,54,Dallas Stars,Vegas Golden Knights,2022021269881,2022021269,Period End,881,PERIOD_END,End of OT,2023-04-08T22:15:39Z,4,05:00,00:00,1,1,,,
+331,25,54,Dallas Stars,Vegas Golden Knights,2022021269884,2022021269,Period Official,884,PERIOD_OFFICIAL,Period Official,2023-04-08T22:15:46Z,4,05:00,00:00,1,1,,,
+332,25,54,Dallas Stars,Vegas Golden Knights,2022021269885,2022021269,Period Ready,885,PERIOD_READY,Period Ready,2023-04-08T22:15:59Z,5,00:00,00:00,1,1,,,
+333,25,54,Dallas Stars,Vegas Golden Knights,2022021269886,2022021269,Period Start,886,PERIOD_START,Period Start,2023-04-08T22:17:11Z,5,00:00,00:00,1,1,,,
+334,25,54,Dallas Stars,Vegas Golden Knights,2022021269500,2022021269,Shot,500,SHOT,Jason Robertson Backhand saved by Jonathan Quick,2023-04-08T22:17:38Z,5,00:00,00:00,1,1,25.0,Dallas Stars,DAL
+335,25,54,Dallas Stars,Vegas Golden Knights,2022021269951,2022021269,Shot,951,SHOT,Pavel Dorofeyev Backhand saved by Jake Oettinger,2023-04-08T22:18:11Z,5,00:00,00:00,1,1,54.0,Vegas Golden Knights,VGK
+336,25,54,Dallas Stars,Vegas Golden Knights,2022021269952,2022021269,Goal,952,GOAL,Roope Hintz - Wrist Shot,2023-04-08T22:18:46Z,5,00:00,00:00,1,1,25.0,Dallas Stars,DAL
+337,25,54,Dallas Stars,Vegas Golden Knights,2022021269953,2022021269,Shot,953,SHOT,Jonathan Marchessault Wrist Shot saved by Jake Oettinger,2023-04-08T22:19:18Z,5,00:00,00:00,1,1,54.0,Vegas Golden Knights,VGK
+338,25,54,Dallas Stars,Vegas Golden Knights,2022021269954,2022021269,Shot,954,SHOT,Joe Pavelski Wrist Shot saved by Jonathan Quick,2023-04-08T22:19:49Z,5,00:00,00:00,1,1,25.0,Dallas Stars,DAL
+339,25,54,Dallas Stars,Vegas Golden Knights,2022021269887,2022021269,Period End,887,PERIOD_END,End of OT,2023-04-08T22:20:22Z,5,00:00,00:00,1,1,,,
+340,25,54,Dallas Stars,Vegas Golden Knights,2022021269955,2022021269,Shot,955,SHOT,Paul Cotter Wrist Shot saved by Jake Oettinger,2023-04-08T22:20:22Z,5,00:00,00:00,1,1,54.0,Vegas Golden Knights,VGK
+341,25,54,Dallas Stars,Vegas Golden Knights,2022021269956,2022021269,Shootout Complete,956,SHOOTOUT_COMPLETE,End of Shootout,2023-04-08T22:20:22Z,5,00:00,00:00,1,1,,,
+342,25,54,Dallas Stars,Vegas Golden Knights,2022021269890,2022021269,Period Official,890,PERIOD_OFFICIAL,Period Official,2023-04-08T22:20:30Z,5,00:00,00:00,1,1,,,
+343,25,54,Dallas Stars,Vegas Golden Knights,2022021269891,2022021269,Game End,891,GAME_END,Game End,2023-04-08T22:20:44Z,5,00:00,00:00,1,1,,,
+344,25,54,Dallas Stars,Vegas Golden Knights,2022021269892,2022021269,Game Official,892,GAME_OFFICIAL,Game Official,2023-04-08T22:27:10Z,5,00:00,00:00,1,1,,,

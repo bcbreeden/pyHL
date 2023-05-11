@@ -1,0 +1,359 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,53,4,Arizona Coyotes,Philadelphia Flyers,20220204451,2022020445,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-12-11T23:15:17Z,1,00:00,20:00,0,0,,,
+1,53,4,Arizona Coyotes,Philadelphia Flyers,20220204455,2022020445,Period Ready,5,PERIOD_READY,Period Ready,2022-12-12T00:06:02Z,1,00:00,20:00,0,0,,,
+2,53,4,Arizona Coyotes,Philadelphia Flyers,202202044551,2022020445,Period Start,51,PERIOD_START,Period Start,2022-12-12T00:08:13Z,1,00:00,20:00,0,0,,,
+3,53,4,Arizona Coyotes,Philadelphia Flyers,202202044552,2022020445,Faceoff,52,FACEOFF,Nick Bjugstad faceoff won against Scott Laughton,2022-12-12T00:08:13Z,1,00:00,20:00,0,0,53.0,Arizona Coyotes,ARI
+4,53,4,Arizona Coyotes,Philadelphia Flyers,202202044553,2022020445,Giveaway,53,GIVEAWAY,Giveaway by Ivan Provorov,2022-12-12T00:08:31Z,1,00:18,19:42,0,0,4.0,Philadelphia Flyers,PHI
+5,53,4,Arizona Coyotes,Philadelphia Flyers,20220204458,2022020445,Stoppage,8,STOP,Puck in Benches,2022-12-12T00:08:33Z,1,00:20,19:40,0,0,,,
+6,53,4,Arizona Coyotes,Philadelphia Flyers,202202044554,2022020445,Faceoff,54,FACEOFF,Noah Cates faceoff won against Travis Boyd,2022-12-12T00:08:57Z,1,00:20,19:40,0,0,4.0,Philadelphia Flyers,PHI
+7,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445151,2022020445,Shot,151,SHOT,Kevin Hayes Wrist Shot saved by Karel Vejmelka,2022-12-12T00:09:13Z,1,00:36,19:24,0,0,4.0,Philadelphia Flyers,PHI
+8,53,4,Arizona Coyotes,Philadelphia Flyers,202202044555,2022020445,Giveaway,55,GIVEAWAY,Giveaway by Travis Boyd,2022-12-12T00:09:19Z,1,00:42,19:18,0,0,53.0,Arizona Coyotes,ARI
+9,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445152,2022020445,Shot,152,SHOT,Justin Braun Snap Shot saved by Karel Vejmelka,2022-12-12T00:09:20Z,1,00:43,19:17,0,0,4.0,Philadelphia Flyers,PHI
+10,53,4,Arizona Coyotes,Philadelphia Flyers,20220204459,2022020445,Stoppage,9,STOP,Goalie Stopped,2022-12-12T00:09:21Z,1,00:44,19:16,0,0,,,
+11,53,4,Arizona Coyotes,Philadelphia Flyers,202202044556,2022020445,Faceoff,56,FACEOFF,Jack McBain faceoff won against Morgan Frost,2022-12-12T00:09:48Z,1,00:44,19:16,0,0,53.0,Arizona Coyotes,ARI
+12,53,4,Arizona Coyotes,Philadelphia Flyers,202202044510,2022020445,Hit,10,HIT,Nick Seeler hit Jack McBain,2022-12-12T00:09:59Z,1,00:55,19:05,0,0,4.0,Philadelphia Flyers,PHI
+13,53,4,Arizona Coyotes,Philadelphia Flyers,202202044511,2022020445,Hit,11,HIT,Christian Fischer hit James van Riemsdyk,2022-12-12T00:10:07Z,1,01:03,18:57,0,0,53.0,Arizona Coyotes,ARI
+14,53,4,Arizona Coyotes,Philadelphia Flyers,202202044512,2022020445,Hit,12,HIT,Christian Fischer hit Owen Tippett,2022-12-12T00:10:16Z,1,01:12,18:48,0,0,53.0,Arizona Coyotes,ARI
+15,53,4,Arizona Coyotes,Philadelphia Flyers,202202044513,2022020445,Hit,13,HIT,Liam O'Brien hit Nick Seeler,2022-12-12T00:10:23Z,1,01:19,18:41,0,0,53.0,Arizona Coyotes,ARI
+16,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445153,2022020445,Shot,153,SHOT,Jakob Chychrun Wrist Shot saved by Carter Hart,2022-12-12T00:10:31Z,1,01:27,18:33,0,0,53.0,Arizona Coyotes,ARI
+17,53,4,Arizona Coyotes,Philadelphia Flyers,202202044514,2022020445,Shot,14,SHOT,Nick Ritchie Wrist Shot saved by Carter Hart,2022-12-12T00:10:33Z,1,01:29,18:31,0,0,53.0,Arizona Coyotes,ARI
+18,53,4,Arizona Coyotes,Philadelphia Flyers,202202044515,2022020445,Stoppage,15,STOP,Goalie Stopped,2022-12-12T00:10:34Z,1,01:30,18:30,0,0,,,
+19,53,4,Arizona Coyotes,Philadelphia Flyers,202202044557,2022020445,Faceoff,57,FACEOFF,Barrett Hayton faceoff won against Patrick Brown,2022-12-12T00:11:05Z,1,01:30,18:30,0,0,53.0,Arizona Coyotes,ARI
+20,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445154,2022020445,Blocked Shot,154,BLOCKED_SHOT,Jakob Chychrun shot blocked shot by Patrick Brown,2022-12-12T00:11:14Z,1,01:39,18:21,0,0,4.0,Philadelphia Flyers,PHI
+21,53,4,Arizona Coyotes,Philadelphia Flyers,202202044516,2022020445,Hit,16,HIT,Nicolas Deslauriers hit Juuso Valimaki,2022-12-12T00:11:23Z,1,01:48,18:12,0,0,4.0,Philadelphia Flyers,PHI
+22,53,4,Arizona Coyotes,Philadelphia Flyers,202202044517,2022020445,Hit,17,HIT,Rasmus Ristolainen hit Barrett Hayton,2022-12-12T00:11:42Z,1,02:07,17:53,0,0,4.0,Philadelphia Flyers,PHI
+23,53,4,Arizona Coyotes,Philadelphia Flyers,202202044518,2022020445,Hit,18,HIT,Zack MacEwen hit Josh Brown,2022-12-12T00:11:54Z,1,02:19,17:41,0,0,4.0,Philadelphia Flyers,PHI
+24,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445155,2022020445,Missed Shot,155,MISSED_SHOT,Nick Bjugstad Wide of Net Carter Hart,2022-12-12T00:11:57Z,1,02:22,17:38,0,0,53.0,Arizona Coyotes,ARI
+25,53,4,Arizona Coyotes,Philadelphia Flyers,202202044519,2022020445,Hit,19,HIT,Joel Farabee hit Nick Bjugstad,2022-12-12T00:12:12Z,1,02:37,17:23,0,0,4.0,Philadelphia Flyers,PHI
+26,53,4,Arizona Coyotes,Philadelphia Flyers,202202044520,2022020445,Hit,20,HIT,Nick Bjugstad hit Travis Sanheim,2022-12-12T00:12:18Z,1,02:43,17:17,0,0,53.0,Arizona Coyotes,ARI
+27,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445156,2022020445,Shot,156,SHOT,Kevin Hayes Snap Shot saved by Karel Vejmelka,2022-12-12T00:12:34Z,1,02:59,17:01,0,0,4.0,Philadelphia Flyers,PHI
+28,53,4,Arizona Coyotes,Philadelphia Flyers,202202044521,2022020445,Shot,21,SHOT,Travis Konecny Wrist Shot saved by Karel Vejmelka,2022-12-12T00:12:36Z,1,03:01,16:59,0,0,4.0,Philadelphia Flyers,PHI
+29,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445158,2022020445,Shot,158,SHOT,Nick Seeler Wrist Shot saved by Karel Vejmelka,2022-12-12T00:12:40Z,1,03:05,16:55,0,0,4.0,Philadelphia Flyers,PHI
+30,53,4,Arizona Coyotes,Philadelphia Flyers,202202044522,2022020445,Stoppage,22,STOP,Goalie Stopped,2022-12-12T00:12:40Z,1,03:06,16:54,0,0,,,
+31,53,4,Arizona Coyotes,Philadelphia Flyers,202202044559,2022020445,Faceoff,59,FACEOFF,Kevin Hayes faceoff won against Jack McBain,2022-12-12T00:13:13Z,1,03:06,16:54,0,0,4.0,Philadelphia Flyers,PHI
+32,53,4,Arizona Coyotes,Philadelphia Flyers,202202044560,2022020445,Takeaway,60,TAKEAWAY,Takeaway by Travis Konecny,2022-12-12T00:13:23Z,1,03:16,16:44,0,0,4.0,Philadelphia Flyers,PHI
+33,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445159,2022020445,Missed Shot,159,MISSED_SHOT,Noah Cates Wide of Net Karel Vejmelka,2022-12-12T00:13:27Z,1,03:20,16:40,0,0,4.0,Philadelphia Flyers,PHI
+34,53,4,Arizona Coyotes,Philadelphia Flyers,202202044523,2022020445,Hit,23,HIT,Jack McBain hit Travis Konecny,2022-12-12T00:13:34Z,1,03:27,16:33,0,0,53.0,Arizona Coyotes,ARI
+35,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445160,2022020445,Shot,160,SHOT,Rasmus Ristolainen Wrist Shot saved by Karel Vejmelka,2022-12-12T00:13:59Z,1,03:52,16:08,0,0,4.0,Philadelphia Flyers,PHI
+36,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445161,2022020445,Missed Shot,161,MISSED_SHOT,Clayton Keller Over Net Carter Hart,2022-12-12T00:14:09Z,1,04:02,15:58,0,0,53.0,Arizona Coyotes,ARI
+37,53,4,Arizona Coyotes,Philadelphia Flyers,202202044561,2022020445,Giveaway,61,GIVEAWAY,Giveaway by Ivan Provorov,2022-12-12T00:14:22Z,1,04:15,15:45,0,0,4.0,Philadelphia Flyers,PHI
+38,53,4,Arizona Coyotes,Philadelphia Flyers,202202044524,2022020445,Stoppage,24,STOP,Puck in Netting,2022-12-12T00:14:43Z,1,04:36,15:24,0,0,,,
+39,53,4,Arizona Coyotes,Philadelphia Flyers,202202044562,2022020445,Faceoff,62,FACEOFF,Nick Bjugstad faceoff won against Patrick Brown,2022-12-12T00:15:15Z,1,04:36,15:24,0,0,53.0,Arizona Coyotes,ARI
+40,53,4,Arizona Coyotes,Philadelphia Flyers,202202044525,2022020445,Stoppage,25,STOP,Puck in Netting,2022-12-12T00:15:33Z,1,04:53,15:07,0,0,,,
+41,53,4,Arizona Coyotes,Philadelphia Flyers,202202044563,2022020445,Faceoff,63,FACEOFF,Barrett Hayton faceoff won against Scott Laughton,2022-12-12T00:16:00Z,1,04:53,15:07,0,0,53.0,Arizona Coyotes,ARI
+42,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445162,2022020445,Blocked Shot,162,BLOCKED_SHOT,J.J. Moser shot blocked shot by Zack MacEwen,2022-12-12T00:16:05Z,1,04:58,15:02,0,0,4.0,Philadelphia Flyers,PHI
+43,53,4,Arizona Coyotes,Philadelphia Flyers,202202044526,2022020445,Blocked Shot,26,BLOCKED_SHOT,Nick Ritchie shot blocked shot by Nick Seeler,2022-12-12T00:16:10Z,1,05:03,14:57,0,0,4.0,Philadelphia Flyers,PHI
+44,53,4,Arizona Coyotes,Philadelphia Flyers,202202044527,2022020445,Stoppage,27,STOP,Icing,2022-12-12T00:16:35Z,1,05:29,14:31,0,0,,,
+45,53,4,Arizona Coyotes,Philadelphia Flyers,202202044566,2022020445,Faceoff,66,FACEOFF,Scott Laughton faceoff won against Jack McBain,2022-12-12T00:17:11Z,1,05:29,14:31,0,0,4.0,Philadelphia Flyers,PHI
+46,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445163,2022020445,Blocked Shot,163,BLOCKED_SHOT,Jack McBain shot blocked shot by Cam York,2022-12-12T00:17:22Z,1,05:40,14:20,0,0,4.0,Philadelphia Flyers,PHI
+47,53,4,Arizona Coyotes,Philadelphia Flyers,202202044528,2022020445,Stoppage,28,STOP,Hand Pass,2022-12-12T00:17:44Z,1,06:02,13:58,0,0,,,
+48,53,4,Arizona Coyotes,Philadelphia Flyers,202202044568,2022020445,Faceoff,68,FACEOFF,Travis Boyd faceoff won against Noah Cates,2022-12-12T00:19:55Z,1,06:02,13:58,0,0,53.0,Arizona Coyotes,ARI
+49,53,4,Arizona Coyotes,Philadelphia Flyers,202202044529,2022020445,Hit,29,HIT,Kevin Hayes hit Jakob Chychrun,2022-12-12T00:20:20Z,1,06:27,13:33,0,0,4.0,Philadelphia Flyers,PHI
+50,53,4,Arizona Coyotes,Philadelphia Flyers,202202044569,2022020445,Giveaway,69,GIVEAWAY,Giveaway by Jakob Chychrun,2022-12-12T00:20:20Z,1,06:27,13:33,0,0,53.0,Arizona Coyotes,ARI
+51,53,4,Arizona Coyotes,Philadelphia Flyers,202202044570,2022020445,Giveaway,70,GIVEAWAY,Giveaway by Nick Schmaltz,2022-12-12T00:20:34Z,1,06:41,13:19,0,0,53.0,Arizona Coyotes,ARI
+52,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445301,2022020445,Hit,301,HIT,Jakob Chychrun hit Travis Konecny,2022-12-12T00:20:39Z,1,06:46,13:14,0,0,53.0,Arizona Coyotes,ARI
+53,53,4,Arizona Coyotes,Philadelphia Flyers,202202044530,2022020445,Stoppage,30,STOP,Puck in Benches,2022-12-12T00:21:20Z,1,07:28,12:32,0,0,,,
+54,53,4,Arizona Coyotes,Philadelphia Flyers,202202044571,2022020445,Faceoff,71,FACEOFF,Barrett Hayton faceoff won against Lukas Sedlak,2022-12-12T00:21:42Z,1,07:28,12:32,0,0,53.0,Arizona Coyotes,ARI
+55,53,4,Arizona Coyotes,Philadelphia Flyers,202202044531,2022020445,Hit,31,HIT,Lukas Sedlak hit Nick Ritchie,2022-12-12T00:21:53Z,1,07:39,12:21,0,0,4.0,Philadelphia Flyers,PHI
+56,53,4,Arizona Coyotes,Philadelphia Flyers,202202044532,2022020445,Hit,32,HIT,Nick Ritchie hit Nicolas Deslauriers,2022-12-12T00:22:00Z,1,07:46,12:14,0,0,53.0,Arizona Coyotes,ARI
+57,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445164,2022020445,Shot,164,SHOT,Nicolas Deslauriers Wrist Shot saved by Karel Vejmelka,2022-12-12T00:22:06Z,1,07:52,12:08,0,0,4.0,Philadelphia Flyers,PHI
+58,53,4,Arizona Coyotes,Philadelphia Flyers,202202044533,2022020445,Hit,33,HIT,Nicolas Deslauriers hit Barrett Hayton,2022-12-12T00:22:13Z,1,07:59,12:01,0,0,4.0,Philadelphia Flyers,PHI
+59,53,4,Arizona Coyotes,Philadelphia Flyers,202202044535,2022020445,Stoppage,35,STOP,Icing,2022-12-12T00:22:44Z,1,08:30,11:30,0,0,,,
+60,53,4,Arizona Coyotes,Philadelphia Flyers,202202044572,2022020445,Faceoff,72,FACEOFF,Christian Fischer faceoff won against Scott Laughton,2022-12-12T00:23:25Z,1,08:30,11:30,0,0,53.0,Arizona Coyotes,ARI
+61,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445166,2022020445,Missed Shot,166,MISSED_SHOT,Juuso Valimaki Over Net Carter Hart,2022-12-12T00:23:28Z,1,08:33,11:27,0,0,53.0,Arizona Coyotes,ARI
+62,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445302,2022020445,Blocked Shot,302,BLOCKED_SHOT,Jack McBain shot blocked shot by Zack MacEwen,2022-12-12T00:23:35Z,1,08:40,11:20,0,0,4.0,Philadelphia Flyers,PHI
+63,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445167,2022020445,Missed Shot,167,MISSED_SHOT,Scott Laughton Wide of Net Karel Vejmelka,2022-12-12T00:23:43Z,1,08:48,11:12,0,0,4.0,Philadelphia Flyers,PHI
+64,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445168,2022020445,Shot,168,SHOT,Travis Sanheim Wrist Shot saved by Karel Vejmelka,2022-12-12T00:23:51Z,1,08:56,11:04,0,0,4.0,Philadelphia Flyers,PHI
+65,53,4,Arizona Coyotes,Philadelphia Flyers,202202044536,2022020445,Stoppage,36,STOP,Goalie Stopped,2022-12-12T00:23:52Z,1,08:57,11:03,0,0,,,
+66,53,4,Arizona Coyotes,Philadelphia Flyers,202202044573,2022020445,Faceoff,73,FACEOFF,Travis Boyd faceoff won against Noah Cates,2022-12-12T00:24:26Z,1,08:57,11:03,0,0,53.0,Arizona Coyotes,ARI
+67,53,4,Arizona Coyotes,Philadelphia Flyers,202202044574,2022020445,Giveaway,74,GIVEAWAY,Giveaway by Travis Sanheim,2022-12-12T00:24:35Z,1,09:06,10:54,0,0,4.0,Philadelphia Flyers,PHI
+68,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445169,2022020445,Shot,169,SHOT,Nick Schmaltz Wrist Shot saved by Carter Hart,2022-12-12T00:24:48Z,1,09:19,10:41,0,0,53.0,Arizona Coyotes,ARI
+69,53,4,Arizona Coyotes,Philadelphia Flyers,202202044537,2022020445,Shot,37,SHOT,Clayton Keller Snap Shot saved by Carter Hart,2022-12-12T00:24:50Z,1,09:21,10:39,0,0,53.0,Arizona Coyotes,ARI
+70,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445170,2022020445,Missed Shot,170,MISSED_SHOT,Josh Brown Wide of Net Carter Hart,2022-12-12T00:25:32Z,1,10:03,09:57,0,0,53.0,Arizona Coyotes,ARI
+71,53,4,Arizona Coyotes,Philadelphia Flyers,202202044538,2022020445,Stoppage,38,STOP,Goalie Stopped,2022-12-12T00:25:33Z,1,10:04,09:56,0,0,,,
+72,53,4,Arizona Coyotes,Philadelphia Flyers,202202044578,2022020445,Faceoff,78,FACEOFF,Barrett Hayton faceoff won against Lukas Sedlak,2022-12-12T00:27:43Z,1,10:04,09:56,0,0,53.0,Arizona Coyotes,ARI
+73,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445171,2022020445,Blocked Shot,171,BLOCKED_SHOT,Troy Stecher shot blocked shot by Lukas Sedlak,2022-12-12T00:27:49Z,1,10:10,09:50,0,0,4.0,Philadelphia Flyers,PHI
+74,53,4,Arizona Coyotes,Philadelphia Flyers,202202044539,2022020445,Hit,39,HIT,Patrick Brown hit Troy Stecher,2022-12-12T00:27:55Z,1,10:16,09:44,0,0,4.0,Philadelphia Flyers,PHI
+75,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445172,2022020445,Shot,172,SHOT,Nick Ritchie Wrist Shot saved by Carter Hart,2022-12-12T00:28:01Z,1,10:22,09:38,0,0,53.0,Arizona Coyotes,ARI
+76,53,4,Arizona Coyotes,Philadelphia Flyers,202202044540,2022020445,Stoppage,40,STOP,Puck in Netting,2022-12-12T00:28:02Z,1,10:23,09:37,0,0,,,
+77,53,4,Arizona Coyotes,Philadelphia Flyers,202202044579,2022020445,Faceoff,79,FACEOFF,Scott Laughton faceoff won against Jack McBain,2022-12-12T00:28:46Z,1,10:23,09:37,0,0,4.0,Philadelphia Flyers,PHI
+78,53,4,Arizona Coyotes,Philadelphia Flyers,202202044541,2022020445,Hit,41,HIT,Jack McBain hit Justin Braun,2022-12-12T00:28:49Z,1,10:26,09:34,0,0,53.0,Arizona Coyotes,ARI
+79,53,4,Arizona Coyotes,Philadelphia Flyers,202202044542,2022020445,Stoppage,42,STOP,Puck in Netting,2022-12-12T00:29:05Z,1,10:41,09:19,0,0,,,
+80,53,4,Arizona Coyotes,Philadelphia Flyers,202202044580,2022020445,Faceoff,80,FACEOFF,Travis Boyd faceoff won against Noah Cates,2022-12-12T00:29:33Z,1,10:41,09:19,0,0,53.0,Arizona Coyotes,ARI
+81,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445246,2022020445,Penalty,246,PENALTY,Rasmus Ristolainen Slashing against Nick Schmaltz,2022-12-12T00:29:42Z,1,10:49,09:11,0,0,4.0,Philadelphia Flyers,PHI
+82,53,4,Arizona Coyotes,Philadelphia Flyers,202202044582,2022020445,Faceoff,82,FACEOFF,Scott Laughton faceoff won against Travis Boyd,2022-12-12T00:30:40Z,1,10:49,09:11,0,0,4.0,Philadelphia Flyers,PHI
+83,53,4,Arizona Coyotes,Philadelphia Flyers,202202044544,2022020445,Stoppage,44,STOP,Goalie Stopped,2022-12-12T00:31:13Z,1,11:22,08:38,0,0,,,
+84,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445173,2022020445,Shot,173,SHOT,Jakob Chychrun Wrist Shot saved by Carter Hart,2022-12-12T00:31:13Z,1,11:22,08:38,0,0,53.0,Arizona Coyotes,ARI
+85,53,4,Arizona Coyotes,Philadelphia Flyers,202202044583,2022020445,Faceoff,83,FACEOFF,Barrett Hayton faceoff won against Lukas Sedlak,2022-12-12T00:31:36Z,1,11:22,08:38,0,0,53.0,Arizona Coyotes,ARI
+86,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445174,2022020445,Shot,174,SHOT,Nick Schmaltz Slap Shot saved by Carter Hart,2022-12-12T00:32:11Z,1,11:57,08:03,0,0,53.0,Arizona Coyotes,ARI
+87,53,4,Arizona Coyotes,Philadelphia Flyers,202202044545,2022020445,Stoppage,45,STOP,Puck in Netting,2022-12-12T00:32:12Z,1,11:58,08:02,0,0,,,
+88,53,4,Arizona Coyotes,Philadelphia Flyers,202202044584,2022020445,Faceoff,84,FACEOFF,Patrick Brown faceoff won against Nick Schmaltz,2022-12-12T00:32:51Z,1,11:58,08:02,0,0,4.0,Philadelphia Flyers,PHI
+89,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445175,2022020445,Missed Shot,175,MISSED_SHOT,Nick Ritchie Wide of Net Carter Hart,2022-12-12T00:33:31Z,1,12:38,07:22,0,0,53.0,Arizona Coyotes,ARI
+90,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445176,2022020445,Goal,176,GOAL,"Clayton Keller (8) Wrist Shot, assists: J.J. Moser (11), Nick Ritchie (5)",2022-12-12T00:33:39Z,1,12:46,07:14,1,0,53.0,Arizona Coyotes,ARI
+91,53,4,Arizona Coyotes,Philadelphia Flyers,202202044585,2022020445,Faceoff,85,FACEOFF,Jack McBain faceoff won against Noah Cates,2022-12-12T00:34:21Z,1,12:46,07:14,1,0,53.0,Arizona Coyotes,ARI
+92,53,4,Arizona Coyotes,Philadelphia Flyers,202202044546,2022020445,Stoppage,46,STOP,Puck in Netting,2022-12-12T00:34:27Z,1,12:52,07:08,1,0,,,
+93,53,4,Arizona Coyotes,Philadelphia Flyers,202202044586,2022020445,Faceoff,86,FACEOFF,Noah Cates faceoff won against Jack McBain,2022-12-12T00:35:00Z,1,12:52,07:08,1,0,4.0,Philadelphia Flyers,PHI
+94,53,4,Arizona Coyotes,Philadelphia Flyers,202202044547,2022020445,Hit,47,HIT,Owen Tippett hit Liam O'Brien,2022-12-12T00:35:39Z,1,13:31,06:29,1,0,4.0,Philadelphia Flyers,PHI
+95,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445177,2022020445,Shot,177,SHOT,Lawson Crouse Wrist Shot saved by Carter Hart,2022-12-12T00:35:53Z,1,13:45,06:15,1,0,53.0,Arizona Coyotes,ARI
+96,53,4,Arizona Coyotes,Philadelphia Flyers,202202044548,2022020445,Shot,48,SHOT,Lawson Crouse Snap Shot saved by Carter Hart,2022-12-12T00:35:55Z,1,13:47,06:13,1,0,53.0,Arizona Coyotes,ARI
+97,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445178,2022020445,Shot,178,SHOT,Lawson Crouse Wrist Shot saved by Carter Hart,2022-12-12T00:36:11Z,1,14:03,05:57,1,0,53.0,Arizona Coyotes,ARI
+98,53,4,Arizona Coyotes,Philadelphia Flyers,202202044549,2022020445,Stoppage,49,STOP,Offside,2022-12-12T00:36:40Z,1,14:32,05:28,1,0,,,
+99,53,4,Arizona Coyotes,Philadelphia Flyers,202202044587,2022020445,Faceoff,87,FACEOFF,Jack McBain faceoff won against Kevin Hayes,2022-12-12T00:38:50Z,1,14:32,05:28,1,0,53.0,Arizona Coyotes,ARI
+100,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445425,2022020445,Penalty,425,PENALTY,Troy Stecher Interference against Travis Konecny,2022-12-12T00:39:01Z,1,14:43,05:17,1,0,53.0,Arizona Coyotes,ARI
+101,53,4,Arizona Coyotes,Philadelphia Flyers,202202044589,2022020445,Faceoff,89,FACEOFF,Lawson Crouse faceoff won against Kevin Hayes,2022-12-12T00:39:58Z,1,14:43,05:17,1,0,53.0,Arizona Coyotes,ARI
+102,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445179,2022020445,Blocked Shot,179,BLOCKED_SHOT,Kevin Hayes shot blocked shot by Josh Brown,2022-12-12T00:40:24Z,1,15:09,04:51,1,0,53.0,Arizona Coyotes,ARI
+103,53,4,Arizona Coyotes,Philadelphia Flyers,202202044590,2022020445,Giveaway,90,GIVEAWAY,Giveaway by Morgan Frost,2022-12-12T00:40:32Z,1,15:17,04:43,1,0,4.0,Philadelphia Flyers,PHI
+104,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445180,2022020445,Shot,180,SHOT,Owen Tippett Wrist Shot saved by Karel Vejmelka,2022-12-12T00:41:33Z,1,16:18,03:42,1,0,4.0,Philadelphia Flyers,PHI
+105,53,4,Arizona Coyotes,Philadelphia Flyers,202202044550,2022020445,Hit,50,HIT,Noah Cates hit Juuso Valimaki,2022-12-12T00:41:53Z,1,16:38,03:22,1,0,4.0,Philadelphia Flyers,PHI
+106,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445251,2022020445,Hit,251,HIT,Nicolas Deslauriers hit Juuso Valimaki,2022-12-12T00:42:56Z,1,17:41,02:19,1,0,4.0,Philadelphia Flyers,PHI
+107,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445181,2022020445,Shot,181,SHOT,Liam O'Brien Wrist Shot saved by Carter Hart,2022-12-12T00:43:30Z,1,18:15,01:45,1,0,53.0,Arizona Coyotes,ARI
+108,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445252,2022020445,Stoppage,252,STOP,Goalie Stopped,2022-12-12T00:43:30Z,1,18:15,01:45,1,0,,,
+109,53,4,Arizona Coyotes,Philadelphia Flyers,202202044591,2022020445,Faceoff,91,FACEOFF,Scott Laughton faceoff won against Jack McBain,2022-12-12T00:44:13Z,1,18:15,01:45,1,0,4.0,Philadelphia Flyers,PHI
+110,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445182,2022020445,Missed Shot,182,MISSED_SHOT,Jack McBain Wide of Net Carter Hart,2022-12-12T00:44:21Z,1,18:23,01:37,1,0,53.0,Arizona Coyotes,ARI
+111,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445253,2022020445,Hit,253,HIT,Scott Laughton hit Patrik Nemeth,2022-12-12T00:44:32Z,1,18:34,01:26,1,0,4.0,Philadelphia Flyers,PHI
+112,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445254,2022020445,Hit,254,HIT,Justin Braun hit Jack McBain,2022-12-12T00:44:45Z,1,18:47,01:13,1,0,4.0,Philadelphia Flyers,PHI
+113,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445183,2022020445,Shot,183,SHOT,Jakob Chychrun Slap Shot saved by Carter Hart,2022-12-12T00:45:22Z,1,19:24,00:36,1,0,53.0,Arizona Coyotes,ARI
+114,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445255,2022020445,Stoppage,255,STOP,Goalie Stopped,2022-12-12T00:45:24Z,1,19:25,00:35,1,0,,,
+115,53,4,Arizona Coyotes,Philadelphia Flyers,202202044592,2022020445,Faceoff,92,FACEOFF,Zack MacEwen faceoff won against Nick Bjugstad,2022-12-12T00:46:13Z,1,19:25,00:35,1,0,4.0,Philadelphia Flyers,PHI
+116,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445256,2022020445,Period End,256,PERIOD_END,End of 1st Period,2022-12-12T00:46:48Z,1,20:00,00:00,1,0,,,
+117,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445259,2022020445,Period Official,259,PERIOD_OFFICIAL,Period Official,2022-12-12T01:00:21Z,1,20:00,00:00,1,0,,,
+118,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445260,2022020445,Period Ready,260,PERIOD_READY,Period Ready,2022-12-12T01:03:41Z,2,00:00,20:00,1,0,,,
+119,53,4,Arizona Coyotes,Philadelphia Flyers,202202044593,2022020445,Period Start,93,PERIOD_START,Period Start,2022-12-12T01:05:36Z,2,00:00,20:00,1,0,,,
+120,53,4,Arizona Coyotes,Philadelphia Flyers,202202044594,2022020445,Faceoff,94,FACEOFF,Scott Laughton faceoff won against Nick Bjugstad,2022-12-12T01:05:36Z,2,00:00,20:00,1,0,4.0,Philadelphia Flyers,PHI
+121,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445184,2022020445,Blocked Shot,184,BLOCKED_SHOT,Matias Maccelli shot blocked shot by Rasmus Ristolainen,2022-12-12T01:05:41Z,2,00:05,19:55,1,0,4.0,Philadelphia Flyers,PHI
+122,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445261,2022020445,Stoppage,261,STOP,Puck in Netting,2022-12-12T01:05:42Z,2,00:07,19:53,1,0,,,
+123,53,4,Arizona Coyotes,Philadelphia Flyers,202202044595,2022020445,Faceoff,95,FACEOFF,Scott Laughton faceoff won against Nick Bjugstad,2022-12-12T01:06:01Z,2,00:07,19:53,1,0,4.0,Philadelphia Flyers,PHI
+124,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445262,2022020445,Hit,262,HIT,Joel Farabee hit Josh Brown,2022-12-12T01:06:14Z,2,00:20,19:40,1,0,4.0,Philadelphia Flyers,PHI
+125,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445263,2022020445,Hit,263,HIT,Nick Bjugstad hit Ivan Provorov,2022-12-12T01:06:25Z,2,00:31,19:29,1,0,53.0,Arizona Coyotes,ARI
+126,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445185,2022020445,Shot,185,SHOT,Zack MacEwen Wrist Shot saved by Karel Vejmelka,2022-12-12T01:06:32Z,2,00:38,19:22,1,0,4.0,Philadelphia Flyers,PHI
+127,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445264,2022020445,Stoppage,264,STOP,Goalie Stopped,2022-12-12T01:06:34Z,2,00:39,19:21,1,0,,,
+128,53,4,Arizona Coyotes,Philadelphia Flyers,202202044596,2022020445,Faceoff,96,FACEOFF,Kevin Hayes faceoff won against Barrett Hayton,2022-12-12T01:07:04Z,2,00:39,19:21,1,0,4.0,Philadelphia Flyers,PHI
+129,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445186,2022020445,Missed Shot,186,MISSED_SHOT,Travis Konecny Wide of Net Karel Vejmelka,2022-12-12T01:07:06Z,2,00:41,19:19,1,0,4.0,Philadelphia Flyers,PHI
+130,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445265,2022020445,Hit,265,HIT,Noah Cates hit Shayne Gostisbehere,2022-12-12T01:07:35Z,2,01:10,18:50,1,0,4.0,Philadelphia Flyers,PHI
+131,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445187,2022020445,Shot,187,SHOT,Clayton Keller Wrist Shot saved by Carter Hart,2022-12-12T01:07:55Z,2,01:30,18:30,1,0,53.0,Arizona Coyotes,ARI
+132,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445266,2022020445,Stoppage,266,STOP,Goalie Stopped,2022-12-12T01:07:56Z,2,01:31,18:29,1,0,,,
+133,53,4,Arizona Coyotes,Philadelphia Flyers,202202044597,2022020445,Faceoff,97,FACEOFF,Travis Boyd faceoff won against Morgan Frost,2022-12-12T01:08:21Z,2,01:31,18:29,1,0,53.0,Arizona Coyotes,ARI
+134,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445188,2022020445,Blocked Shot,188,BLOCKED_SHOT,Juuso Valimaki shot blocked shot by Cam York,2022-12-12T01:08:23Z,2,01:33,18:27,1,0,4.0,Philadelphia Flyers,PHI
+135,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445267,2022020445,Hit,267,HIT,Owen Tippett hit J.J. Moser,2022-12-12T01:08:32Z,2,01:42,18:18,1,0,4.0,Philadelphia Flyers,PHI
+136,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445189,2022020445,Blocked Shot,189,BLOCKED_SHOT,Cam York shot blocked shot by Matias Maccelli,2022-12-12T01:08:47Z,2,01:57,18:03,1,0,53.0,Arizona Coyotes,ARI
+137,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445190,2022020445,Goal,190,GOAL,"Morgan Frost (4) Wrist Shot, assists: James van Riemsdyk (4), Owen Tippett (5)",2022-12-12T01:09:00Z,2,02:09,17:51,1,1,4.0,Philadelphia Flyers,PHI
+138,53,4,Arizona Coyotes,Philadelphia Flyers,202202044598,2022020445,Faceoff,98,FACEOFF,Jack McBain faceoff won against Lukas Sedlak,2022-12-12T01:09:32Z,2,02:09,17:51,1,1,53.0,Arizona Coyotes,ARI
+139,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445268,2022020445,Hit,268,HIT,Liam O'Brien hit Ivan Provorov,2022-12-12T01:10:08Z,2,02:45,17:15,1,1,53.0,Arizona Coyotes,ARI
+140,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445269,2022020445,Stoppage,269,STOP,Puck Frozen,2022-12-12T01:10:44Z,2,03:21,16:39,1,1,,,
+141,53,4,Arizona Coyotes,Philadelphia Flyers,202202044599,2022020445,Faceoff,99,FACEOFF,Nick Bjugstad faceoff won against Noah Cates,2022-12-12T01:11:08Z,2,03:21,16:39,1,1,53.0,Arizona Coyotes,ARI
+142,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445270,2022020445,Stoppage,270,STOP,Puck in Benches,2022-12-12T01:11:19Z,2,03:31,16:29,1,1,,,
+143,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445100,2022020445,Faceoff,100,FACEOFF,Noah Cates faceoff won against Nick Bjugstad,2022-12-12T01:11:46Z,2,03:31,16:29,1,1,4.0,Philadelphia Flyers,PHI
+144,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445271,2022020445,Hit,271,HIT,Lawson Crouse hit Noah Cates,2022-12-12T01:12:01Z,2,03:46,16:14,1,1,53.0,Arizona Coyotes,ARI
+145,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445550,2022020445,Penalty,550,PENALTY,Nick Seeler Roughing against Lawson Crouse,2022-12-12T01:12:05Z,2,03:50,16:10,1,1,4.0,Philadelphia Flyers,PHI
+146,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445554,2022020445,Penalty,554,PENALTY,Lawson Crouse Roughing against Nick Seeler,2022-12-12T01:12:05Z,2,03:50,16:10,1,1,53.0,Arizona Coyotes,ARI
+147,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445351,2022020445,Faceoff,351,FACEOFF,Morgan Frost faceoff won against Travis Boyd,2022-12-12T01:13:19Z,2,03:50,16:10,1,1,4.0,Philadelphia Flyers,PHI
+148,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445352,2022020445,Takeaway,352,TAKEAWAY,Takeaway by Morgan Frost,2022-12-12T01:13:33Z,2,04:04,15:56,1,1,4.0,Philadelphia Flyers,PHI
+149,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445191,2022020445,Goal,191,GOAL,"James van Riemsdyk (3) Snap Shot, assists: Morgan Frost (4)",2022-12-12T01:13:37Z,2,04:08,15:52,1,2,4.0,Philadelphia Flyers,PHI
+150,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445353,2022020445,Faceoff,353,FACEOFF,Barrett Hayton faceoff won against Noah Cates,2022-12-12T01:14:11Z,2,04:08,15:52,1,2,53.0,Arizona Coyotes,ARI
+151,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445192,2022020445,Blocked Shot,192,BLOCKED_SHOT,Travis Konecny shot blocked shot by Patrik Nemeth,2022-12-12T01:14:55Z,2,04:52,15:08,1,2,53.0,Arizona Coyotes,ARI
+152,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445354,2022020445,Giveaway,354,GIVEAWAY,Giveaway by Troy Stecher,2022-12-12T01:15:29Z,2,05:26,14:34,1,2,53.0,Arizona Coyotes,ARI
+153,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445193,2022020445,Shot,193,SHOT,Scott Laughton Snap Shot saved by Karel Vejmelka,2022-12-12T01:15:32Z,2,05:29,14:31,1,2,4.0,Philadelphia Flyers,PHI
+154,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445272,2022020445,Stoppage,272,STOP,Goalie Stopped,2022-12-12T01:15:33Z,2,05:30,14:30,1,2,,,
+155,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445355,2022020445,Faceoff,355,FACEOFF,Nick Bjugstad faceoff won against Morgan Frost,2022-12-12T01:16:08Z,2,05:30,14:30,1,2,53.0,Arizona Coyotes,ARI
+156,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445273,2022020445,Hit,273,HIT,Nick Bjugstad hit Rasmus Ristolainen,2022-12-12T01:16:27Z,2,05:49,14:11,1,2,53.0,Arizona Coyotes,ARI
+157,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445194,2022020445,Shot,194,SHOT,Owen Tippett Wrist Shot saved by Karel Vejmelka,2022-12-12T01:16:32Z,2,05:54,14:06,1,2,4.0,Philadelphia Flyers,PHI
+158,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445195,2022020445,Missed Shot,195,MISSED_SHOT,Kevin Hayes Wide of Net Karel Vejmelka,2022-12-12T01:16:52Z,2,06:14,13:46,1,2,4.0,Philadelphia Flyers,PHI
+159,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445274,2022020445,Shot,274,SHOT,Noah Cates Snap Shot saved by Karel Vejmelka,2022-12-12T01:16:58Z,2,06:20,13:40,1,2,4.0,Philadelphia Flyers,PHI
+160,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445196,2022020445,Missed Shot,196,MISSED_SHOT,Travis Sanheim Over Net Karel Vejmelka,2022-12-12T01:17:05Z,2,06:27,13:33,1,2,4.0,Philadelphia Flyers,PHI
+161,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445197,2022020445,Missed Shot,197,MISSED_SHOT,Kevin Hayes Wide of Net Karel Vejmelka,2022-12-12T01:17:17Z,2,06:39,13:21,1,2,4.0,Philadelphia Flyers,PHI
+162,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445198,2022020445,Shot,198,SHOT,Travis Boyd Tip-In saved by Carter Hart,2022-12-12T01:17:52Z,2,07:14,12:46,1,2,53.0,Arizona Coyotes,ARI
+163,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445275,2022020445,Stoppage,275,STOP,Goalie Stopped,2022-12-12T01:17:53Z,2,07:15,12:45,1,2,,,
+164,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445357,2022020445,Faceoff,357,FACEOFF,Scott Laughton faceoff won against Travis Boyd,2022-12-12T01:20:17Z,2,07:15,12:45,1,2,4.0,Philadelphia Flyers,PHI
+165,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445276,2022020445,Hit,276,HIT,J.J. Moser hit Zack MacEwen,2022-12-12T01:20:32Z,2,07:30,12:30,1,2,53.0,Arizona Coyotes,ARI
+166,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445303,2022020445,Blocked Shot,303,BLOCKED_SHOT,Ivan Provorov shot blocked shot by Travis Boyd,2022-12-12T01:20:33Z,2,07:31,12:29,1,2,53.0,Arizona Coyotes,ARI
+167,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445199,2022020445,Blocked Shot,199,BLOCKED_SHOT,Rasmus Ristolainen shot blocked shot by Travis Boyd,2022-12-12T01:20:40Z,2,07:38,12:22,1,2,53.0,Arizona Coyotes,ARI
+168,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445200,2022020445,Goal,200,GOAL,"Clayton Keller (9) Backhand, assists: Nick Schmaltz (2), Travis Boyd (9)",2022-12-12T01:20:47Z,2,07:45,12:15,2,2,53.0,Arizona Coyotes,ARI
+169,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445358,2022020445,Faceoff,358,FACEOFF,Lukas Sedlak faceoff won against Jack McBain,2022-12-12T01:21:19Z,2,07:45,12:15,2,2,4.0,Philadelphia Flyers,PHI
+170,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445277,2022020445,Stoppage,277,STOP,Goalie Stopped,2022-12-12T01:22:35Z,2,08:51,11:09,2,2,,,
+171,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445451,2022020445,Shot,451,SHOT,Troy Stecher Wrist Shot saved by Carter Hart,2022-12-12T01:22:35Z,2,08:51,11:09,2,2,53.0,Arizona Coyotes,ARI
+172,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445359,2022020445,Faceoff,359,FACEOFF,Nick Bjugstad faceoff won against Morgan Frost,2022-12-12T01:23:38Z,2,08:51,11:09,2,2,53.0,Arizona Coyotes,ARI
+173,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445452,2022020445,Blocked Shot,452,BLOCKED_SHOT,J.J. Moser shot blocked shot by Owen Tippett,2022-12-12T01:23:41Z,2,08:54,11:06,2,2,4.0,Philadelphia Flyers,PHI
+174,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445278,2022020445,Stoppage,278,STOP,Goalie Stopped,2022-12-12T01:24:20Z,2,09:33,10:27,2,2,,,
+175,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445453,2022020445,Shot,453,SHOT,Juuso Valimaki Wrist Shot saved by Carter Hart,2022-12-12T01:24:20Z,2,09:33,10:27,2,2,53.0,Arizona Coyotes,ARI
+176,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445361,2022020445,Faceoff,361,FACEOFF,Travis Boyd faceoff won against Noah Cates,2022-12-12T01:25:11Z,2,09:33,10:27,2,2,53.0,Arizona Coyotes,ARI
+177,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445454,2022020445,Blocked Shot,454,BLOCKED_SHOT,Shayne Gostisbehere shot blocked shot by Rasmus Ristolainen,2022-12-12T01:25:19Z,2,09:41,10:19,2,2,4.0,Philadelphia Flyers,PHI
+178,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445279,2022020445,Stoppage,279,STOP,Puck in Netting,2022-12-12T01:25:34Z,2,09:55,10:05,2,2,,,
+179,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445362,2022020445,Faceoff,362,FACEOFF,Scott Laughton faceoff won against Jack McBain,2022-12-12T01:26:04Z,2,09:55,10:05,2,2,4.0,Philadelphia Flyers,PHI
+180,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445455,2022020445,Shot,455,SHOT,Christian Fischer Wrist Shot saved by Carter Hart,2022-12-12T01:26:21Z,2,10:12,09:48,2,2,53.0,Arizona Coyotes,ARI
+181,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445280,2022020445,Shot,280,SHOT,Liam O'Brien Tip-In saved by Carter Hart,2022-12-12T01:26:26Z,2,10:17,09:43,2,2,53.0,Arizona Coyotes,ARI
+182,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445456,2022020445,Blocked Shot,456,BLOCKED_SHOT,J.J. Moser shot blocked shot by Travis Sanheim,2022-12-12T01:26:28Z,2,10:19,09:41,2,2,4.0,Philadelphia Flyers,PHI
+183,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445457,2022020445,Goal,457,GOAL,"Jack McBain (4) Wrist Shot, assists: J.J. Moser (12), Liam O'Brien (4)",2022-12-12T01:26:30Z,2,10:21,09:39,3,2,53.0,Arizona Coyotes,ARI
+184,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445363,2022020445,Faceoff,363,FACEOFF,Barrett Hayton faceoff won against Kevin Hayes,2022-12-12T01:27:08Z,2,10:21,09:39,3,2,53.0,Arizona Coyotes,ARI
+185,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445458,2022020445,Shot,458,SHOT,Travis Konecny Wrist Shot saved by Karel Vejmelka,2022-12-12T01:27:18Z,2,10:31,09:29,3,2,4.0,Philadelphia Flyers,PHI
+186,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445459,2022020445,Shot,459,SHOT,Kevin Hayes Snap Shot saved by Karel Vejmelka,2022-12-12T01:27:28Z,2,10:41,09:19,3,2,4.0,Philadelphia Flyers,PHI
+187,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445281,2022020445,Stoppage,281,STOP,Goalie Stopped,2022-12-12T01:27:29Z,2,10:42,09:18,3,2,,,
+188,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445365,2022020445,Faceoff,365,FACEOFF,Jack McBain faceoff won against Morgan Frost,2022-12-12T01:29:41Z,2,10:42,09:18,3,2,53.0,Arizona Coyotes,ARI
+189,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445282,2022020445,Hit,282,HIT,Jack McBain hit Owen Tippett,2022-12-12T01:29:47Z,2,10:48,09:12,3,2,53.0,Arizona Coyotes,ARI
+190,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445366,2022020445,Giveaway,366,GIVEAWAY,Giveaway by Owen Tippett,2022-12-12T01:30:24Z,2,11:25,08:35,3,2,4.0,Philadelphia Flyers,PHI
+191,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445460,2022020445,Shot,460,SHOT,Travis Konecny Wrist Shot saved by Karel Vejmelka,2022-12-12T01:30:40Z,2,11:41,08:19,3,2,4.0,Philadelphia Flyers,PHI
+192,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445461,2022020445,Blocked Shot,461,BLOCKED_SHOT,Troy Stecher shot blocked shot by Ivan Provorov,2022-12-12T01:31:29Z,2,12:30,07:30,3,2,4.0,Philadelphia Flyers,PHI
+193,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445367,2022020445,Giveaway,367,GIVEAWAY,Giveaway by Matias Maccelli,2022-12-12T01:31:36Z,2,12:37,07:23,3,2,53.0,Arizona Coyotes,ARI
+194,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445462,2022020445,Shot,462,SHOT,Juuso Valimaki Wrist Shot saved by Carter Hart,2022-12-12T01:31:53Z,2,12:54,07:06,3,2,53.0,Arizona Coyotes,ARI
+195,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445463,2022020445,Blocked Shot,463,BLOCKED_SHOT,Troy Stecher shot blocked shot by Kevin Hayes,2022-12-12T01:32:00Z,2,13:01,06:59,3,2,4.0,Philadelphia Flyers,PHI
+196,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445283,2022020445,Stoppage,283,STOP,Icing,2022-12-12T01:32:09Z,2,13:10,06:50,3,2,,,
+197,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445368,2022020445,Faceoff,368,FACEOFF,Kevin Hayes faceoff won against Travis Boyd,2022-12-12T01:32:35Z,2,13:10,06:50,3,2,4.0,Philadelphia Flyers,PHI
+198,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445284,2022020445,Hit,284,HIT,J.J. Moser hit Zack MacEwen,2022-12-12T01:32:54Z,2,13:29,06:31,3,2,53.0,Arizona Coyotes,ARI
+199,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445464,2022020445,Shot,464,SHOT,Nick Seeler Wrist Shot saved by Karel Vejmelka,2022-12-12T01:33:04Z,2,13:39,06:21,3,2,4.0,Philadelphia Flyers,PHI
+200,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445285,2022020445,Stoppage,285,STOP,Goalie Stopped,2022-12-12T01:33:06Z,2,13:41,06:19,3,2,,,
+201,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445369,2022020445,Faceoff,369,FACEOFF,Jack McBain faceoff won against Scott Laughton,2022-12-12T01:33:48Z,2,13:41,06:19,3,2,53.0,Arizona Coyotes,ARI
+202,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445286,2022020445,Hit,286,HIT,Cam York hit Liam O'Brien,2022-12-12T01:34:29Z,2,14:22,05:38,3,2,4.0,Philadelphia Flyers,PHI
+203,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445287,2022020445,Hit,287,HIT,Jakob Chychrun hit Patrick Brown,2022-12-12T01:34:38Z,2,14:31,05:29,3,2,53.0,Arizona Coyotes,ARI
+204,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445465,2022020445,Shot,465,SHOT,Patrick Brown Wrist Shot saved by Karel Vejmelka,2022-12-12T01:34:44Z,2,14:37,05:23,3,2,4.0,Philadelphia Flyers,PHI
+205,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445288,2022020445,Stoppage,288,STOP,Goalie Stopped,2022-12-12T01:34:45Z,2,14:38,05:22,3,2,,,
+206,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445371,2022020445,Faceoff,371,FACEOFF,Morgan Frost faceoff won against Nick Bjugstad,2022-12-12T01:36:53Z,2,14:38,05:22,3,2,4.0,Philadelphia Flyers,PHI
+207,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445466,2022020445,Shot,466,SHOT,Owen Tippett Wrist Shot saved by Karel Vejmelka,2022-12-12T01:36:59Z,2,14:44,05:16,3,2,4.0,Philadelphia Flyers,PHI
+208,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445289,2022020445,Missed Shot,289,MISSED_SHOT,James van Riemsdyk Wide of Net Karel Vejmelka,2022-12-12T01:37:04Z,2,14:49,05:11,3,2,4.0,Philadelphia Flyers,PHI
+209,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445467,2022020445,Missed Shot,467,MISSED_SHOT,Cam York Wide of Net Karel Vejmelka,2022-12-12T01:37:19Z,2,15:04,04:56,3,2,4.0,Philadelphia Flyers,PHI
+210,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445468,2022020445,Blocked Shot,468,BLOCKED_SHOT,Travis Sanheim shot blocked shot by Lawson Crouse,2022-12-12T01:37:48Z,2,15:33,04:27,3,2,53.0,Arizona Coyotes,ARI
+211,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445469,2022020445,Missed Shot,469,MISSED_SHOT,Travis Konecny Over Net Karel Vejmelka,2022-12-12T01:38:02Z,2,15:47,04:13,3,2,4.0,Philadelphia Flyers,PHI
+212,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445470,2022020445,Shot,470,SHOT,Ivan Provorov Backhand saved by Karel Vejmelka,2022-12-12T01:38:16Z,2,16:01,03:59,3,2,4.0,Philadelphia Flyers,PHI
+213,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445290,2022020445,Stoppage,290,STOP,Icing,2022-12-12T01:38:22Z,2,16:06,03:54,3,2,,,
+214,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445372,2022020445,Faceoff,372,FACEOFF,Barrett Hayton faceoff won against Kevin Hayes,2022-12-12T01:38:42Z,2,16:06,03:54,3,2,53.0,Arizona Coyotes,ARI
+215,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445291,2022020445,Hit,291,HIT,Scott Laughton hit J.J. Moser,2022-12-12T01:39:04Z,2,16:28,03:32,3,2,4.0,Philadelphia Flyers,PHI
+216,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445471,2022020445,Blocked Shot,471,BLOCKED_SHOT,Kevin Hayes shot blocked shot by Clayton Keller,2022-12-12T01:39:13Z,2,16:37,03:23,3,2,53.0,Arizona Coyotes,ARI
+217,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445292,2022020445,Shot,292,SHOT,Rasmus Ristolainen Wrist Shot saved by Karel Vejmelka,2022-12-12T01:39:18Z,2,16:42,03:18,3,2,4.0,Philadelphia Flyers,PHI
+218,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445293,2022020445,Stoppage,293,STOP,Icing,2022-12-12T01:39:25Z,2,16:49,03:11,3,2,,,
+219,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445373,2022020445,Faceoff,373,FACEOFF,Morgan Frost faceoff won against Barrett Hayton,2022-12-12T01:39:49Z,2,16:49,03:11,3,2,4.0,Philadelphia Flyers,PHI
+220,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445472,2022020445,Missed Shot,472,MISSED_SHOT,Justin Braun Wide of Net Karel Vejmelka,2022-12-12T01:40:15Z,2,17:15,02:45,3,2,4.0,Philadelphia Flyers,PHI
+221,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445473,2022020445,Blocked Shot,473,BLOCKED_SHOT,Justin Braun shot blocked shot by Christian Fischer,2022-12-12T01:40:18Z,2,17:18,02:42,3,2,53.0,Arizona Coyotes,ARI
+222,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445294,2022020445,Stoppage,294,STOP,Puck in Netting,2022-12-12T01:40:20Z,2,17:20,02:40,3,2,,,
+223,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445374,2022020445,Faceoff,374,FACEOFF,Kevin Hayes faceoff won against Jack McBain,2022-12-12T01:40:51Z,2,17:20,02:40,3,2,4.0,Philadelphia Flyers,PHI
+224,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445474,2022020445,Blocked Shot,474,BLOCKED_SHOT,Travis Konecny shot blocked shot by Christian Fischer,2022-12-12T01:40:58Z,2,17:27,02:33,3,2,53.0,Arizona Coyotes,ARI
+225,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445295,2022020445,Hit,295,HIT,Jack McBain hit Rasmus Ristolainen,2022-12-12T01:41:06Z,2,17:35,02:25,3,2,53.0,Arizona Coyotes,ARI
+226,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445296,2022020445,Hit,296,HIT,Jack McBain hit Rasmus Ristolainen,2022-12-12T01:41:25Z,2,17:54,02:06,3,2,53.0,Arizona Coyotes,ARI
+227,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445297,2022020445,Stoppage,297,STOP,Icing,2022-12-12T01:41:33Z,2,18:01,01:59,3,2,,,
+228,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445375,2022020445,Faceoff,375,FACEOFF,Jack McBain faceoff won against Morgan Frost,2022-12-12T01:42:01Z,2,18:01,01:59,3,2,53.0,Arizona Coyotes,ARI
+229,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445475,2022020445,Shot,475,SHOT,James van Riemsdyk Snap Shot saved by Karel Vejmelka,2022-12-12T01:42:18Z,2,18:18,01:42,3,2,4.0,Philadelphia Flyers,PHI
+230,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445476,2022020445,Missed Shot,476,MISSED_SHOT,Morgan Frost Wide of Net Karel Vejmelka,2022-12-12T01:42:27Z,2,18:27,01:33,3,2,4.0,Philadelphia Flyers,PHI
+231,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445477,2022020445,Goal,477,GOAL,"Owen Tippett (8) Wrist Shot, assists: James van Riemsdyk (5), Morgan Frost (5)",2022-12-12T01:42:42Z,2,18:42,01:18,3,3,4.0,Philadelphia Flyers,PHI
+232,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445376,2022020445,Faceoff,376,FACEOFF,Scott Laughton faceoff won against Nick Bjugstad,2022-12-12T01:43:22Z,2,18:42,01:18,3,3,4.0,Philadelphia Flyers,PHI
+233,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445478,2022020445,Blocked Shot,478,BLOCKED_SHOT,Nick Seeler shot blocked shot by Lawson Crouse,2022-12-12T01:43:42Z,2,19:02,00:58,3,3,53.0,Arizona Coyotes,ARI
+234,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445479,2022020445,Shot,479,SHOT,Ivan Provorov Wrist Shot saved by Karel Vejmelka,2022-12-12T01:44:19Z,2,19:39,00:21,3,3,4.0,Philadelphia Flyers,PHI
+235,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445298,2022020445,Hit,298,HIT,Liam O'Brien hit Ivan Provorov,2022-12-12T01:44:37Z,2,19:57,00:03,3,3,53.0,Arizona Coyotes,ARI
+236,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445299,2022020445,Period End,299,PERIOD_END,End of 2nd Period,2022-12-12T01:44:40Z,2,20:00,00:00,3,3,,,
+237,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445602,2022020445,Period Official,602,PERIOD_OFFICIAL,Period Official,2022-12-12T02:01:08Z,2,20:00,00:00,3,3,,,
+238,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445603,2022020445,Period Ready,603,PERIOD_READY,Period Ready,2022-12-12T02:01:30Z,3,00:00,20:00,3,3,,,
+239,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445377,2022020445,Period Start,377,PERIOD_START,Period Start,2022-12-12T02:03:39Z,3,00:00,20:00,3,3,,,
+240,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445378,2022020445,Faceoff,378,FACEOFF,Jack McBain faceoff won against Noah Cates,2022-12-12T02:03:39Z,3,00:00,20:00,3,3,53.0,Arizona Coyotes,ARI
+241,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445604,2022020445,Stoppage,604,STOP,Icing,2022-12-12T02:03:55Z,3,00:17,19:43,3,3,,,
+242,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445379,2022020445,Faceoff,379,FACEOFF,Noah Cates faceoff won against Barrett Hayton,2022-12-12T02:04:23Z,3,00:17,19:43,3,3,4.0,Philadelphia Flyers,PHI
+243,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445605,2022020445,Stoppage,605,STOP,Icing,2022-12-12T02:05:07Z,3,01:00,19:00,3,3,,,
+244,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445380,2022020445,Faceoff,380,FACEOFF,Jack McBain faceoff won against Lukas Sedlak,2022-12-12T02:05:31Z,3,01:00,19:00,3,3,53.0,Arizona Coyotes,ARI
+245,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445606,2022020445,Hit,606,HIT,Liam O'Brien hit Zack MacEwen,2022-12-12T02:05:48Z,3,01:17,18:43,3,3,53.0,Arizona Coyotes,ARI
+246,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445480,2022020445,Shot,480,SHOT,Lukas Sedlak Backhand saved by Karel Vejmelka,2022-12-12T02:05:52Z,3,01:21,18:39,3,3,4.0,Philadelphia Flyers,PHI
+247,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445611,2022020445,Hit,611,HIT,Zack MacEwen hit Josh Brown,2022-12-12T02:05:56Z,3,01:25,18:35,3,3,4.0,Philadelphia Flyers,PHI
+248,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445608,2022020445,Penalty,608,PENALTY,Josh Brown Fighting against Zack MacEwen,2022-12-12T02:06:01Z,3,01:30,18:30,3,3,53.0,Arizona Coyotes,ARI
+249,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445731,2022020445,Penalty,731,PENALTY,Zack MacEwen Fighting against Josh Brown,2022-12-12T02:06:01Z,3,01:30,18:30,3,3,4.0,Philadelphia Flyers,PHI
+250,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445381,2022020445,Faceoff,381,FACEOFF,Patrick Brown faceoff won against Nick Bjugstad,2022-12-12T02:07:20Z,3,01:30,18:30,3,3,4.0,Philadelphia Flyers,PHI
+251,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445612,2022020445,Stoppage,612,STOP,Puck Frozen,2022-12-12T02:07:29Z,3,01:39,18:21,3,3,,,
+252,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445382,2022020445,Faceoff,382,FACEOFF,Nick Bjugstad faceoff won against Patrick Brown,2022-12-12T02:07:55Z,3,01:39,18:21,3,3,53.0,Arizona Coyotes,ARI
+253,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445481,2022020445,Blocked Shot,481,BLOCKED_SHOT,Patrick Brown shot blocked shot by Patrik Nemeth,2022-12-12T02:08:05Z,3,01:49,18:11,3,3,53.0,Arizona Coyotes,ARI
+254,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445482,2022020445,Missed Shot,482,MISSED_SHOT,Noah Cates Wide of Net Karel Vejmelka,2022-12-12T02:08:38Z,3,02:22,17:38,3,3,4.0,Philadelphia Flyers,PHI
+255,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445613,2022020445,Stoppage,613,STOP,Icing,2022-12-12T02:08:48Z,3,02:32,17:28,3,3,,,
+256,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445383,2022020445,Faceoff,383,FACEOFF,Nick Bjugstad faceoff won against Kevin Hayes,2022-12-12T02:09:19Z,3,02:32,17:28,3,3,53.0,Arizona Coyotes,ARI
+257,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445483,2022020445,Shot,483,SHOT,Travis Boyd Wrist Shot saved by Carter Hart,2022-12-12T02:09:53Z,3,03:06,16:54,3,3,53.0,Arizona Coyotes,ARI
+258,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445484,2022020445,Shot,484,SHOT,Jakob Chychrun Wrist Shot saved by Carter Hart,2022-12-12T02:09:55Z,3,03:08,16:52,3,3,53.0,Arizona Coyotes,ARI
+259,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445614,2022020445,Stoppage,614,STOP,Goalie Stopped,2022-12-12T02:09:57Z,3,03:09,16:51,3,3,,,
+260,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445384,2022020445,Faceoff,384,FACEOFF,Morgan Frost faceoff won against Jack McBain,2022-12-12T02:10:28Z,3,03:09,16:51,3,3,4.0,Philadelphia Flyers,PHI
+261,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445485,2022020445,Missed Shot,485,MISSED_SHOT,Christian Fischer Wide of Net Carter Hart,2022-12-12T02:11:02Z,3,03:43,16:17,3,3,53.0,Arizona Coyotes,ARI
+262,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445486,2022020445,Missed Shot,486,MISSED_SHOT,Owen Tippett Wide of Net Karel Vejmelka,2022-12-12T02:11:10Z,3,03:51,16:09,3,3,4.0,Philadelphia Flyers,PHI
+263,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445385,2022020445,Giveaway,385,GIVEAWAY,Giveaway by J.J. Moser,2022-12-12T02:11:34Z,3,04:15,15:45,3,3,53.0,Arizona Coyotes,ARI
+264,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445615,2022020445,Hit,615,HIT,Lawson Crouse hit Lukas Sedlak,2022-12-12T02:12:07Z,3,04:48,15:12,3,3,53.0,Arizona Coyotes,ARI
+265,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445487,2022020445,Missed Shot,487,MISSED_SHOT,Rasmus Ristolainen Wide of Net Karel Vejmelka,2022-12-12T02:12:28Z,3,05:09,14:51,3,3,4.0,Philadelphia Flyers,PHI
+266,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445488,2022020445,Shot,488,SHOT,Kevin Hayes Wrist Shot saved by Karel Vejmelka,2022-12-12T02:12:36Z,3,05:17,14:43,3,3,4.0,Philadelphia Flyers,PHI
+267,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445489,2022020445,Shot,489,SHOT,Kevin Hayes Tip-In saved by Karel Vejmelka,2022-12-12T02:12:42Z,3,05:23,14:37,3,3,4.0,Philadelphia Flyers,PHI
+268,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445490,2022020445,Blocked Shot,490,BLOCKED_SHOT,Morgan Frost shot blocked shot by Jakob Chychrun,2022-12-12T02:13:15Z,3,05:56,14:04,3,3,53.0,Arizona Coyotes,ARI
+269,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445491,2022020445,Missed Shot,491,MISSED_SHOT,Joel Farabee Wide of Net Karel Vejmelka,2022-12-12T02:14:08Z,3,06:49,13:11,3,3,4.0,Philadelphia Flyers,PHI
+270,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445616,2022020445,Hit,616,HIT,Jack McBain hit Justin Braun,2022-12-12T02:14:21Z,3,07:02,12:58,3,3,53.0,Arizona Coyotes,ARI
+271,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445492,2022020445,Shot,492,SHOT,Justin Braun Slap Shot saved by Karel Vejmelka,2022-12-12T02:14:27Z,3,07:08,12:52,3,3,4.0,Philadelphia Flyers,PHI
+272,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445617,2022020445,Stoppage,617,STOP,Puck in Benches,2022-12-12T02:14:30Z,3,07:12,12:48,3,3,,,
+273,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445386,2022020445,Faceoff,386,FACEOFF,Noah Cates faceoff won against Barrett Hayton,2022-12-12T02:16:58Z,3,07:12,12:48,3,3,4.0,Philadelphia Flyers,PHI
+274,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445493,2022020445,Shot,493,SHOT,Ivan Provorov Wrist Shot saved by Karel Vejmelka,2022-12-12T02:17:03Z,3,07:17,12:43,3,3,4.0,Philadelphia Flyers,PHI
+275,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445618,2022020445,Blocked Shot,618,BLOCKED_SHOT,Travis Konecny shot blocked shot by Nick Ritchie,2022-12-12T02:17:07Z,3,07:21,12:39,3,3,53.0,Arizona Coyotes,ARI
+276,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445494,2022020445,Goal,494,GOAL,"Nick Ritchie (7) Backhand, assists: none",2022-12-12T02:17:13Z,3,07:27,12:33,4,3,53.0,Arizona Coyotes,ARI
+277,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445388,2022020445,Faceoff,388,FACEOFF,Morgan Frost faceoff won against Nick Bjugstad,2022-12-12T02:17:57Z,3,07:27,12:33,4,3,4.0,Philadelphia Flyers,PHI
+278,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445495,2022020445,Blocked Shot,495,BLOCKED_SHOT,Morgan Frost shot blocked shot by Troy Stecher,2022-12-12T02:18:08Z,3,07:38,12:22,4,3,53.0,Arizona Coyotes,ARI
+279,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445619,2022020445,Stoppage,619,STOP,Puck in Netting,2022-12-12T02:18:10Z,3,07:40,12:20,4,3,,,
+280,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445389,2022020445,Faceoff,389,FACEOFF,Nick Bjugstad faceoff won against Morgan Frost,2022-12-12T02:18:34Z,3,07:40,12:20,4,3,53.0,Arizona Coyotes,ARI
+281,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445620,2022020445,Hit,620,HIT,Morgan Frost hit Matias Maccelli,2022-12-12T02:18:44Z,3,07:50,12:10,4,3,4.0,Philadelphia Flyers,PHI
+282,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445496,2022020445,Shot,496,SHOT,Christian Fischer Wrist Shot saved by Carter Hart,2022-12-12T02:19:15Z,3,08:21,11:39,4,3,53.0,Arizona Coyotes,ARI
+283,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445900,2022020445,Penalty,900,PENALTY,Jakob Chychrun High-sticking against Zack MacEwen,2022-12-12T02:19:25Z,3,08:31,11:29,4,3,53.0,Arizona Coyotes,ARI
+284,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445390,2022020445,Faceoff,390,FACEOFF,Nick Bjugstad faceoff won against Kevin Hayes,2022-12-12T02:20:30Z,3,08:31,11:29,4,3,53.0,Arizona Coyotes,ARI
+285,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445497,2022020445,Blocked Shot,497,BLOCKED_SHOT,Cam York shot blocked shot by Josh Brown,2022-12-12T02:20:37Z,3,08:38,11:22,4,3,53.0,Arizona Coyotes,ARI
+286,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445621,2022020445,Hit,621,HIT,Scott Laughton hit Barrett Hayton,2022-12-12T02:21:59Z,3,10:00,10:00,4,3,4.0,Philadelphia Flyers,PHI
+287,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445498,2022020445,Missed Shot,498,MISSED_SHOT,Travis Konecny Wide of Net Karel Vejmelka,2022-12-12T02:22:36Z,3,10:37,09:23,4,3,4.0,Philadelphia Flyers,PHI
+288,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445622,2022020445,Stoppage,622,STOP,High Stick,2022-12-12T02:22:47Z,3,10:48,09:12,4,3,,,
+289,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445391,2022020445,Faceoff,391,FACEOFF,Morgan Frost faceoff won against Travis Boyd,2022-12-12T02:24:58Z,3,10:48,09:12,4,3,4.0,Philadelphia Flyers,PHI
+290,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445623,2022020445,Hit,623,HIT,Morgan Frost hit J.J. Moser,2022-12-12T02:25:11Z,3,11:01,08:59,4,3,4.0,Philadelphia Flyers,PHI
+291,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445392,2022020445,Giveaway,392,GIVEAWAY,Giveaway by J.J. Moser,2022-12-12T02:25:22Z,3,11:12,08:48,4,3,53.0,Arizona Coyotes,ARI
+292,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445624,2022020445,Hit,624,HIT,Jack McBain hit Travis Konecny,2022-12-12T02:26:00Z,3,11:50,08:10,4,3,53.0,Arizona Coyotes,ARI
+293,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445393,2022020445,Giveaway,393,GIVEAWAY,Giveaway by Shayne Gostisbehere,2022-12-12T02:26:03Z,3,11:53,08:07,4,3,53.0,Arizona Coyotes,ARI
+294,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445499,2022020445,Missed Shot,499,MISSED_SHOT,Travis Konecny Wide of Net Karel Vejmelka,2022-12-12T02:26:04Z,3,11:54,08:06,4,3,4.0,Philadelphia Flyers,PHI
+295,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445625,2022020445,Stoppage,625,STOP,Goalie Stopped,2022-12-12T02:26:05Z,3,11:55,08:05,4,3,,,
+296,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445394,2022020445,Faceoff,394,FACEOFF,Scott Laughton faceoff won against Nick Bjugstad,2022-12-12T02:26:33Z,3,11:55,08:05,4,3,4.0,Philadelphia Flyers,PHI
+297,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445500,2022020445,Shot,500,SHOT,Lukas Sedlak Deflected saved by Karel Vejmelka,2022-12-12T02:26:36Z,3,11:58,08:02,4,3,4.0,Philadelphia Flyers,PHI
+298,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445626,2022020445,Stoppage,626,STOP,Goalie Stopped,2022-12-12T02:26:38Z,3,11:59,08:01,4,3,,,
+299,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445395,2022020445,Faceoff,395,FACEOFF,Scott Laughton faceoff won against Nick Bjugstad,2022-12-12T02:26:53Z,3,11:59,08:01,4,3,4.0,Philadelphia Flyers,PHI
+300,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445801,2022020445,Blocked Shot,801,BLOCKED_SHOT,Nick Seeler shot blocked shot by Patrik Nemeth,2022-12-12T02:26:58Z,3,12:04,07:56,4,3,53.0,Arizona Coyotes,ARI
+301,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445627,2022020445,Stoppage,627,STOP,Puck in Netting,2022-12-12T02:26:59Z,3,12:05,07:55,4,3,,,
+302,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445396,2022020445,Faceoff,396,FACEOFF,Travis Boyd faceoff won against Scott Laughton,2022-12-12T02:27:28Z,3,12:05,07:55,4,3,53.0,Arizona Coyotes,ARI
+303,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445628,2022020445,Hit,628,HIT,Travis Boyd hit Zack MacEwen,2022-12-12T02:27:43Z,3,12:20,07:40,4,3,53.0,Arizona Coyotes,ARI
+304,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445629,2022020445,Hit,629,HIT,Travis Sanheim hit Barrett Hayton,2022-12-12T02:28:38Z,3,13:15,06:45,4,3,4.0,Philadelphia Flyers,PHI
+305,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445802,2022020445,Shot,802,SHOT,Shayne Gostisbehere Wrist Shot saved by Carter Hart,2022-12-12T02:29:16Z,3,13:53,06:07,4,3,53.0,Arizona Coyotes,ARI
+306,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445803,2022020445,Shot,803,SHOT,Travis Konecny Backhand saved by Karel Vejmelka,2022-12-12T02:29:35Z,3,14:12,05:48,4,3,4.0,Philadelphia Flyers,PHI
+307,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445630,2022020445,Stoppage,630,STOP,Goalie Stopped,2022-12-12T02:29:36Z,3,14:13,05:47,4,3,,,
+308,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445397,2022020445,Faceoff,397,FACEOFF,Morgan Frost faceoff won against Jack McBain,2022-12-12T02:31:57Z,3,14:13,05:47,4,3,4.0,Philadelphia Flyers,PHI
+309,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445804,2022020445,Shot,804,SHOT,Travis Sanheim Snap Shot saved by Karel Vejmelka,2022-12-12T02:32:02Z,3,14:18,05:42,4,3,4.0,Philadelphia Flyers,PHI
+310,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445632,2022020445,Stoppage,632,STOP,Goalie Stopped,2022-12-12T02:32:05Z,3,14:22,05:38,4,3,,,
+311,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445398,2022020445,Faceoff,398,FACEOFF,Travis Boyd faceoff won against Morgan Frost,2022-12-12T02:32:48Z,3,14:22,05:38,4,3,53.0,Arizona Coyotes,ARI
+312,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445399,2022020445,Takeaway,399,TAKEAWAY,Takeaway by Owen Tippett,2022-12-12T02:32:56Z,3,14:30,05:30,4,3,4.0,Philadelphia Flyers,PHI
+313,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445633,2022020445,Stoppage,633,STOP,Icing,2022-12-12T02:33:32Z,3,15:07,04:53,4,3,,,
+314,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445400,2022020445,Faceoff,400,FACEOFF,Kevin Hayes faceoff won against Nick Bjugstad,2022-12-12T02:33:59Z,3,15:07,04:53,4,3,4.0,Philadelphia Flyers,PHI
+315,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445805,2022020445,Shot,805,SHOT,Ivan Provorov Wrist Shot saved by Karel Vejmelka,2022-12-12T02:34:32Z,3,15:40,04:20,4,3,4.0,Philadelphia Flyers,PHI
+316,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445751,2022020445,Giveaway,751,GIVEAWAY,Giveaway by Morgan Frost,2022-12-12T02:34:50Z,3,15:58,04:02,4,3,4.0,Philadelphia Flyers,PHI
+317,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445634,2022020445,Hit,634,HIT,Patrik Nemeth hit Travis Sanheim,2022-12-12T02:35:08Z,3,16:16,03:44,4,3,53.0,Arizona Coyotes,ARI
+318,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445806,2022020445,Blocked Shot,806,BLOCKED_SHOT,Owen Tippett shot blocked shot by Troy Stecher,2022-12-12T02:35:24Z,3,16:32,03:28,4,3,53.0,Arizona Coyotes,ARI
+319,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445635,2022020445,Shot,635,SHOT,Scott Laughton Wrist Shot saved by Karel Vejmelka,2022-12-12T02:35:25Z,3,16:33,03:27,4,3,4.0,Philadelphia Flyers,PHI
+320,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445636,2022020445,Stoppage,636,STOP,Goalie Stopped,2022-12-12T02:35:29Z,3,16:36,03:24,4,3,,,
+321,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445752,2022020445,Faceoff,752,FACEOFF,Travis Boyd faceoff won against Kevin Hayes,2022-12-12T02:36:15Z,3,16:36,03:24,4,3,53.0,Arizona Coyotes,ARI
+322,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445807,2022020445,Missed Shot,807,MISSED_SHOT,Ivan Provorov Wide of Net Karel Vejmelka,2022-12-12T02:36:44Z,3,17:05,02:55,4,3,4.0,Philadelphia Flyers,PHI
+323,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445637,2022020445,Hit,637,HIT,Nick Ritchie hit James van Riemsdyk,2022-12-12T02:37:04Z,3,17:25,02:35,4,3,53.0,Arizona Coyotes,ARI
+324,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445808,2022020445,Missed Shot,808,MISSED_SHOT,Morgan Frost Wide of Net Karel Vejmelka,2022-12-12T02:37:06Z,3,17:27,02:33,4,3,4.0,Philadelphia Flyers,PHI
+325,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445304,2022020445,Shot,304,SHOT,James van Riemsdyk Wrap-around saved by Karel Vejmelka,2022-12-12T02:37:09Z,3,17:30,02:30,4,3,4.0,Philadelphia Flyers,PHI
+326,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445638,2022020445,Stoppage,638,STOP,Goalie Stopped,2022-12-12T02:37:09Z,3,17:31,02:29,4,3,,,
+327,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445754,2022020445,Faceoff,754,FACEOFF,Barrett Hayton faceoff won against Kevin Hayes,2022-12-12T02:39:05Z,3,17:31,02:29,4,3,53.0,Arizona Coyotes,ARI
+328,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445639,2022020445,Stoppage,639,STOP,Icing,2022-12-12T02:39:11Z,3,17:37,02:23,4,3,,,
+329,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445755,2022020445,Faceoff,755,FACEOFF,Barrett Hayton faceoff won against Kevin Hayes,2022-12-12T02:39:43Z,3,17:37,02:23,4,3,53.0,Arizona Coyotes,ARI
+330,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445809,2022020445,Shot,809,SHOT,Travis Konecny Wrist Shot saved by Karel Vejmelka,2022-12-12T02:39:46Z,3,17:40,02:20,4,3,4.0,Philadelphia Flyers,PHI
+331,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445810,2022020445,Goal,810,GOAL,"Travis Konecny (11) Wrist Shot, assists: Morgan Frost (6), James van Riemsdyk (6)",2022-12-12T02:39:49Z,3,17:43,02:17,4,4,4.0,Philadelphia Flyers,PHI
+332,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445756,2022020445,Faceoff,756,FACEOFF,Jack McBain faceoff won against Lukas Sedlak,2022-12-12T02:40:45Z,3,17:43,02:17,4,4,53.0,Arizona Coyotes,ARI
+333,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445640,2022020445,Stoppage,640,STOP,Icing,2022-12-12T02:42:01Z,3,18:59,01:01,4,4,,,
+334,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445757,2022020445,Faceoff,757,FACEOFF,Kevin Hayes faceoff won against Nick Bjugstad,2022-12-12T02:42:30Z,3,18:59,01:01,4,4,4.0,Philadelphia Flyers,PHI
+335,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445641,2022020445,Hit,641,HIT,Liam O'Brien hit Travis Sanheim,2022-12-12T02:43:15Z,3,19:44,00:16,4,4,53.0,Arizona Coyotes,ARI
+336,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445642,2022020445,Period End,642,PERIOD_END,End of 3rd Period,2022-12-12T02:43:31Z,3,20:00,00:00,4,4,,,
+337,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445645,2022020445,Period Official,645,PERIOD_OFFICIAL,Period Official,2022-12-12T02:43:41Z,3,20:00,00:00,4,4,,,
+338,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445646,2022020445,Period Ready,646,PERIOD_READY,Period Ready,2022-12-12T02:44:37Z,4,00:00,05:00,4,4,,,
+339,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445758,2022020445,Period Start,758,PERIOD_START,Period Start,2022-12-12T02:45:39Z,4,00:00,05:00,4,4,,,
+340,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445759,2022020445,Faceoff,759,FACEOFF,Scott Laughton faceoff won against Travis Boyd,2022-12-12T02:45:39Z,4,00:00,05:00,4,4,4.0,Philadelphia Flyers,PHI
+341,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445811,2022020445,Blocked Shot,811,BLOCKED_SHOT,Cam York shot blocked shot by Shayne Gostisbehere,2022-12-12T02:46:07Z,4,00:28,04:32,4,4,53.0,Arizona Coyotes,ARI
+342,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445647,2022020445,Stoppage,647,STOP,Icing,2022-12-12T02:46:43Z,4,01:04,03:56,4,4,,,
+343,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445760,2022020445,Faceoff,760,FACEOFF,Morgan Frost faceoff won against Nick Schmaltz,2022-12-12T02:47:15Z,4,01:04,03:56,4,4,4.0,Philadelphia Flyers,PHI
+344,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445813,2022020445,Missed Shot,813,MISSED_SHOT,Cam York Hit Crossbar Karel Vejmelka,2022-12-12T02:48:06Z,4,01:55,03:05,4,4,4.0,Philadelphia Flyers,PHI
+345,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445648,2022020445,Stoppage,648,STOP,Puck in Netting,2022-12-12T02:48:08Z,4,01:57,03:03,4,4,,,
+346,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445761,2022020445,Faceoff,761,FACEOFF,Jack McBain faceoff won against Travis Konecny,2022-12-12T02:48:39Z,4,01:57,03:03,4,4,53.0,Arizona Coyotes,ARI
+347,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445814,2022020445,Shot,814,SHOT,Shayne Gostisbehere Wrist Shot saved by Carter Hart,2022-12-12T02:49:24Z,4,02:42,02:18,4,4,53.0,Arizona Coyotes,ARI
+348,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445815,2022020445,Shot,815,SHOT,Morgan Frost Wrist Shot saved by Karel Vejmelka,2022-12-12T02:49:36Z,4,02:54,02:06,4,4,4.0,Philadelphia Flyers,PHI
+349,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445649,2022020445,Hit,649,HIT,Lawson Crouse hit Travis Sanheim,2022-12-12T02:49:42Z,4,03:00,02:00,4,4,53.0,Arizona Coyotes,ARI
+350,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445816,2022020445,Shot,816,SHOT,Noah Cates Wrist Shot saved by Karel Vejmelka,2022-12-12T02:50:18Z,4,03:36,01:24,4,4,4.0,Philadelphia Flyers,PHI
+351,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445650,2022020445,Hit,650,HIT,Noah Cates hit Matias Maccelli,2022-12-12T02:50:35Z,4,03:53,01:07,4,4,4.0,Philadelphia Flyers,PHI
+352,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445817,2022020445,Missed Shot,817,MISSED_SHOT,Jakob Chychrun Wide of Net Carter Hart,2022-12-12T02:50:58Z,4,04:16,00:44,4,4,53.0,Arizona Coyotes,ARI
+353,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445818,2022020445,Goal,818,GOAL,"Clayton Keller (10) Wrist Shot, assists: Jakob Chychrun (6), Nick Schmaltz (3)",2022-12-12T02:51:20Z,4,04:37,00:23,5,4,53.0,Arizona Coyotes,ARI
+354,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445951,2022020445,Period End,951,PERIOD_END,End of OT,2022-12-12T02:51:20Z,4,04:37,00:23,5,4,,,
+355,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445954,2022020445,Period Official,954,PERIOD_OFFICIAL,Period Official,2022-12-12T02:51:54Z,4,04:37,00:23,5,4,,,
+356,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445955,2022020445,Game End,955,GAME_END,Game End,2022-12-12T02:51:58Z,4,04:37,00:23,5,4,,,
+357,53,4,Arizona Coyotes,Philadelphia Flyers,2022020445956,2022020445,Game Official,956,GAME_OFFICIAL,Game Official,2022-12-12T03:03:54Z,4,04:37,00:23,5,4,,,

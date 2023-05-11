@@ -1,0 +1,312 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,13,8,Florida Panthers,Montréal Canadiens,20220210811,2022021081,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-03-16T22:08:49Z,1,00:00,20:00,0,0,,,
+1,13,8,Florida Panthers,Montréal Canadiens,20220210815,2022021081,Period Ready,5,PERIOD_READY,Period Ready,2023-03-16T23:07:55Z,1,00:00,20:00,0,0,,,
+2,13,8,Florida Panthers,Montréal Canadiens,202202108151,2022021081,Period Start,51,PERIOD_START,Period Start,2023-03-16T23:08:58Z,1,00:00,20:00,0,0,,,
+3,13,8,Florida Panthers,Montréal Canadiens,202202108152,2022021081,Faceoff,52,FACEOFF,Jonathan Drouin faceoff won against Aleksander Barkov,2023-03-16T23:08:58Z,1,00:00,20:00,0,0,8.0,Montréal Canadiens,MTL
+4,13,8,Florida Panthers,Montréal Canadiens,2022021081151,2022021081,Goal,151,GOAL,"Mike Matheson (7) Wrist Shot, assists: Josh Anderson (10), Jonathan Drouin (25)",2023-03-16T23:09:14Z,1,00:16,19:44,0,1,8.0,Montréal Canadiens,MTL
+5,13,8,Florida Panthers,Montréal Canadiens,202202108153,2022021081,Faceoff,53,FACEOFF,Aleksander Barkov faceoff won against Jonathan Drouin,2023-03-16T23:09:47Z,1,00:16,19:44,0,1,13.0,Florida Panthers,FLA
+6,13,8,Florida Panthers,Montréal Canadiens,202202108154,2022021081,Blocked Shot,54,BLOCKED_SHOT,Nick Suzuki shot blocked shot by Aaron Ekblad,2023-03-16T23:10:36Z,1,01:05,18:55,0,1,13.0,Florida Panthers,FLA
+7,13,8,Florida Panthers,Montréal Canadiens,20220210818,2022021081,Hit,8,HIT,Sam Bennett hit Nick Suzuki,2023-03-16T23:10:43Z,1,01:12,18:48,0,1,13.0,Florida Panthers,FLA
+8,13,8,Florida Panthers,Montréal Canadiens,20220210819,2022021081,Hit,9,HIT,Gustav Forsling hit Rafael Harvey-Pinard,2023-03-16T23:10:54Z,1,01:23,18:37,0,1,13.0,Florida Panthers,FLA
+9,13,8,Florida Panthers,Montréal Canadiens,2022021081154,2022021081,Missed Shot,154,MISSED_SHOT,Mike Hoffman Wide of Net Sergei Bobrovsky,2023-03-16T23:11:12Z,1,01:41,18:19,0,1,8.0,Montréal Canadiens,MTL
+10,13,8,Florida Panthers,Montréal Canadiens,202202108110,2022021081,Stoppage,10,STOP,Hand Pass,2023-03-16T23:11:23Z,1,01:52,18:08,0,1,,,
+11,13,8,Florida Panthers,Montréal Canadiens,202202108155,2022021081,Faceoff,55,FACEOFF,Anton Lundell faceoff won against Alex Belzile,2023-03-16T23:11:45Z,1,01:52,18:08,0,1,13.0,Florida Panthers,FLA
+12,13,8,Florida Panthers,Montréal Canadiens,202202108156,2022021081,Giveaway,56,GIVEAWAY,Giveaway by Mike Hoffman,2023-03-16T23:12:08Z,1,02:15,17:45,0,1,8.0,Montréal Canadiens,MTL
+13,13,8,Florida Panthers,Montréal Canadiens,2022021081155,2022021081,Shot,155,SHOT,Anton Lundell Wrist Shot saved by Sam Montembeault,2023-03-16T23:12:12Z,1,02:19,17:41,0,1,13.0,Florida Panthers,FLA
+14,13,8,Florida Panthers,Montréal Canadiens,202202108157,2022021081,Giveaway,57,GIVEAWAY,Giveaway by Johnathan Kovacevic,2023-03-16T23:12:32Z,1,02:39,17:21,0,1,8.0,Montréal Canadiens,MTL
+15,13,8,Florida Panthers,Montréal Canadiens,2022021081156,2022021081,Goal,156,GOAL,"Colin White (8) Wrist Shot, assists: Nick Cousins (18), Eric Staal (12)",2023-03-16T23:12:37Z,1,02:43,17:17,1,1,13.0,Florida Panthers,FLA
+16,13,8,Florida Panthers,Montréal Canadiens,202202108158,2022021081,Faceoff,58,FACEOFF,Sam Bennett faceoff won against Jonathan Drouin,2023-03-16T23:13:17Z,1,02:43,17:17,1,1,13.0,Florida Panthers,FLA
+17,13,8,Florida Panthers,Montréal Canadiens,2022021081157,2022021081,Goal,157,GOAL,"Carter Verhaeghe (33) Wrist Shot, assists: Sam Bennett (22)",2023-03-16T23:13:51Z,1,03:17,16:43,2,1,13.0,Florida Panthers,FLA
+18,13,8,Florida Panthers,Montréal Canadiens,202202108159,2022021081,Faceoff,59,FACEOFF,Nick Suzuki faceoff won against Aleksander Barkov,2023-03-16T23:14:31Z,1,03:17,16:43,2,1,8.0,Montréal Canadiens,MTL
+19,13,8,Florida Panthers,Montréal Canadiens,2022021081158,2022021081,Missed Shot,158,MISSED_SHOT,Kaiden Guhle Wide of Net Sergei Bobrovsky,2023-03-16T23:14:56Z,1,03:42,16:18,2,1,8.0,Montréal Canadiens,MTL
+20,13,8,Florida Panthers,Montréal Canadiens,202202108111,2022021081,Hit,11,HIT,Aaron Ekblad hit Rafael Harvey-Pinard,2023-03-16T23:15:00Z,1,03:46,16:14,2,1,13.0,Florida Panthers,FLA
+21,13,8,Florida Panthers,Montréal Canadiens,202202108160,2022021081,Takeaway,60,TAKEAWAY,Takeaway by Sam Reinhart,2023-03-16T23:15:27Z,1,04:13,15:47,2,1,13.0,Florida Panthers,FLA
+22,13,8,Florida Panthers,Montréal Canadiens,202202108112,2022021081,Hit,12,HIT,Sam Reinhart hit Alex Belzile,2023-03-16T23:15:38Z,1,04:24,15:36,2,1,13.0,Florida Panthers,FLA
+23,13,8,Florida Panthers,Montréal Canadiens,2022021081159,2022021081,Shot,159,SHOT,Radko Gudas Wrist Shot saved by Sam Montembeault,2023-03-16T23:15:50Z,1,04:36,15:24,2,1,13.0,Florida Panthers,FLA
+24,13,8,Florida Panthers,Montréal Canadiens,2022021081160,2022021081,Shot,160,SHOT,Radko Gudas Wrist Shot saved by Sam Montembeault,2023-03-16T23:15:56Z,1,04:42,15:18,2,1,13.0,Florida Panthers,FLA
+25,13,8,Florida Panthers,Montréal Canadiens,202202108113,2022021081,Hit,13,HIT,Marc Staal hit Anthony Richard,2023-03-16T23:16:21Z,1,05:07,14:53,2,1,13.0,Florida Panthers,FLA
+26,13,8,Florida Panthers,Montréal Canadiens,2022021081161,2022021081,Goal,161,GOAL,"Anthony Richard (3) Wrist Shot, assists: Kaiden Guhle (14)",2023-03-16T23:16:34Z,1,05:20,14:40,2,2,8.0,Montréal Canadiens,MTL
+27,13,8,Florida Panthers,Montréal Canadiens,202202108161,2022021081,Faceoff,61,FACEOFF,Jonathan Drouin faceoff won against Sam Bennett,2023-03-16T23:17:13Z,1,05:20,14:40,2,2,8.0,Montréal Canadiens,MTL
+28,13,8,Florida Panthers,Montréal Canadiens,202202108114,2022021081,Stoppage,14,STOP,Puck in Crowd,2023-03-16T23:17:29Z,1,05:35,14:25,2,2,,,
+29,13,8,Florida Panthers,Montréal Canadiens,202202108162,2022021081,Faceoff,62,FACEOFF,Sam Bennett faceoff won against Jonathan Drouin,2023-03-16T23:17:53Z,1,05:35,14:25,2,2,13.0,Florida Panthers,FLA
+30,13,8,Florida Panthers,Montréal Canadiens,2022021081163,2022021081,Goal,163,GOAL,"Gustav Forsling (9) Wrist Shot, assists: Matthew Tkachuk (58)",2023-03-16T23:18:21Z,1,06:04,13:56,3,2,13.0,Florida Panthers,FLA
+31,13,8,Florida Panthers,Montréal Canadiens,202202108163,2022021081,Faceoff,63,FACEOFF,Aleksander Barkov faceoff won against Nick Suzuki,2023-03-16T23:20:03Z,1,06:04,13:56,3,2,13.0,Florida Panthers,FLA
+32,13,8,Florida Panthers,Montréal Canadiens,2022021081164,2022021081,Shot,164,SHOT,Anton Lundell Wrist Shot saved by Jake Allen,2023-03-16T23:21:06Z,1,07:07,12:53,3,2,13.0,Florida Panthers,FLA
+33,13,8,Florida Panthers,Montréal Canadiens,2022021081301,2022021081,Blocked Shot,301,BLOCKED_SHOT,Alex Belzile shot blocked shot by Josh Mahura,2023-03-16T23:21:24Z,1,07:25,12:35,3,2,13.0,Florida Panthers,FLA
+34,13,8,Florida Panthers,Montréal Canadiens,2022021081165,2022021081,Missed Shot,165,MISSED_SHOT,Eric Staal Wide of Net Jake Allen,2023-03-16T23:21:48Z,1,07:49,12:11,3,2,13.0,Florida Panthers,FLA
+35,13,8,Florida Panthers,Montréal Canadiens,202202108115,2022021081,Hit,15,HIT,Ryan Lomberg hit Rem Pitlick,2023-03-16T23:21:49Z,1,07:51,12:09,3,2,13.0,Florida Panthers,FLA
+36,13,8,Florida Panthers,Montréal Canadiens,202202108116,2022021081,Hit,16,HIT,Nick Cousins hit Kaiden Guhle,2023-03-16T23:22:07Z,1,08:08,11:52,3,2,13.0,Florida Panthers,FLA
+37,13,8,Florida Panthers,Montréal Canadiens,2022021081166,2022021081,Goal,166,GOAL,"Michael Pezzetta (6) Deflected, assists: Anthony Richard (2), Chris Tierney (5)",2023-03-16T23:22:17Z,1,08:18,11:42,3,3,8.0,Montréal Canadiens,MTL
+38,13,8,Florida Panthers,Montréal Canadiens,202202108164,2022021081,Faceoff,64,FACEOFF,Colin White faceoff won against Chris Tierney,2023-03-16T23:23:07Z,1,08:18,11:42,3,3,13.0,Florida Panthers,FLA
+39,13,8,Florida Panthers,Montréal Canadiens,202202108117,2022021081,Stoppage,17,STOP,Icing,2023-03-16T23:23:17Z,1,08:28,11:32,3,3,,,
+40,13,8,Florida Panthers,Montréal Canadiens,202202108165,2022021081,Faceoff,65,FACEOFF,Sam Bennett faceoff won against Chris Tierney,2023-03-16T23:23:51Z,1,08:28,11:32,3,3,13.0,Florida Panthers,FLA
+41,13,8,Florida Panthers,Montréal Canadiens,2022021081167,2022021081,Blocked Shot,167,BLOCKED_SHOT,Carter Verhaeghe shot blocked shot by Michael Pezzetta,2023-03-16T23:23:56Z,1,08:33,11:27,3,3,8.0,Montréal Canadiens,MTL
+42,13,8,Florida Panthers,Montréal Canadiens,202202108118,2022021081,Stoppage,18,STOP,Puck in Crowd,2023-03-16T23:23:56Z,1,08:34,11:26,3,3,,,
+43,13,8,Florida Panthers,Montréal Canadiens,202202108166,2022021081,Faceoff,66,FACEOFF,Aleksander Barkov faceoff won against Nick Suzuki,2023-03-16T23:26:17Z,1,08:34,11:26,3,3,13.0,Florida Panthers,FLA
+44,13,8,Florida Panthers,Montréal Canadiens,2022021081168,2022021081,Shot,168,SHOT,Aleksander Barkov Deflected saved by Jake Allen,2023-03-16T23:26:42Z,1,08:59,11:01,3,3,13.0,Florida Panthers,FLA
+45,13,8,Florida Panthers,Montréal Canadiens,2022021081169,2022021081,Goal,169,GOAL,"Aaron Ekblad (11) Wrist Shot, assists: Eetu Luostarinen (21), Aleksander Barkov (40)",2023-03-16T23:26:53Z,1,09:09,10:51,4,3,13.0,Florida Panthers,FLA
+46,13,8,Florida Panthers,Montréal Canadiens,202202108167,2022021081,Faceoff,67,FACEOFF,Jonathan Drouin faceoff won against Sam Bennett,2023-03-16T23:27:34Z,1,09:09,10:51,4,3,8.0,Montréal Canadiens,MTL
+47,13,8,Florida Panthers,Montréal Canadiens,202202108119,2022021081,Stoppage,19,STOP,Puck in Benches,2023-03-16T23:27:39Z,1,09:14,10:46,4,3,,,
+48,13,8,Florida Panthers,Montréal Canadiens,202202108168,2022021081,Faceoff,68,FACEOFF,Sam Bennett faceoff won against Jonathan Drouin,2023-03-16T23:27:59Z,1,09:14,10:46,4,3,13.0,Florida Panthers,FLA
+49,13,8,Florida Panthers,Montréal Canadiens,202202108169,2022021081,Takeaway,69,TAKEAWAY,Takeaway by Carter Verhaeghe,2023-03-16T23:28:21Z,1,09:36,10:24,4,3,13.0,Florida Panthers,FLA
+50,13,8,Florida Panthers,Montréal Canadiens,2022021081170,2022021081,Shot,170,SHOT,Carter Verhaeghe Wrist Shot saved by Jake Allen,2023-03-16T23:28:25Z,1,09:40,10:20,4,3,13.0,Florida Panthers,FLA
+51,13,8,Florida Panthers,Montréal Canadiens,202202108120,2022021081,Stoppage,20,STOP,Offside,2023-03-16T23:28:34Z,1,09:49,10:11,4,3,,,
+52,13,8,Florida Panthers,Montréal Canadiens,202202108170,2022021081,Faceoff,70,FACEOFF,Jonathan Drouin faceoff won against Anton Lundell,2023-03-16T23:29:07Z,1,09:49,10:11,4,3,8.0,Montréal Canadiens,MTL
+53,13,8,Florida Panthers,Montréal Canadiens,202202108171,2022021081,Giveaway,71,GIVEAWAY,Giveaway by Ryan Lomberg,2023-03-16T23:29:34Z,1,10:16,09:44,4,3,13.0,Florida Panthers,FLA
+54,13,8,Florida Panthers,Montréal Canadiens,2022021081171,2022021081,Goal,171,GOAL,"Ryan Lomberg (10) Tip-In, assists: Radko Gudas (10), Josh Mahura (10)",2023-03-16T23:29:52Z,1,10:33,09:27,5,3,13.0,Florida Panthers,FLA
+55,13,8,Florida Panthers,Montréal Canadiens,202202108172,2022021081,Faceoff,72,FACEOFF,Alex Belzile faceoff won against Colin White,2023-03-16T23:30:36Z,1,10:33,09:27,5,3,8.0,Montréal Canadiens,MTL
+56,13,8,Florida Panthers,Montréal Canadiens,2022021081172,2022021081,Shot,172,SHOT,Aaron Ekblad Wrist Shot saved by Jake Allen,2023-03-16T23:31:16Z,1,11:13,08:47,5,3,13.0,Florida Panthers,FLA
+57,13,8,Florida Panthers,Montréal Canadiens,202202108121,2022021081,Hit,21,HIT,David Savard hit Matthew Tkachuk,2023-03-16T23:31:35Z,1,11:31,08:29,5,3,8.0,Montréal Canadiens,MTL
+58,13,8,Florida Panthers,Montréal Canadiens,2022021081173,2022021081,Shot,173,SHOT,Matthew Tkachuk Snap Shot saved by Jake Allen,2023-03-16T23:31:36Z,1,11:33,08:27,5,3,13.0,Florida Panthers,FLA
+59,13,8,Florida Panthers,Montréal Canadiens,2022021081174,2022021081,Blocked Shot,174,BLOCKED_SHOT,Gustav Forsling shot blocked shot by Chris Tierney,2023-03-16T23:31:43Z,1,11:40,08:20,5,3,8.0,Montréal Canadiens,MTL
+60,13,8,Florida Panthers,Montréal Canadiens,2022021081175,2022021081,Missed Shot,175,MISSED_SHOT,Anthony Richard Wide of Net Sergei Bobrovsky,2023-03-16T23:31:57Z,1,11:54,08:06,5,3,8.0,Montréal Canadiens,MTL
+61,13,8,Florida Panthers,Montréal Canadiens,202202108122,2022021081,Stoppage,22,STOP,Goalie Stopped,2023-03-16T23:31:58Z,1,11:55,08:05,5,3,,,
+62,13,8,Florida Panthers,Montréal Canadiens,202202108173,2022021081,Faceoff,73,FACEOFF,Sam Reinhart faceoff won against Chris Tierney,2023-03-16T23:34:24Z,1,11:55,08:05,5,3,13.0,Florida Panthers,FLA
+63,13,8,Florida Panthers,Montréal Canadiens,202202108123,2022021081,Hit,23,HIT,Radko Gudas hit Kaiden Guhle,2023-03-16T23:34:39Z,1,12:10,07:50,5,3,13.0,Florida Panthers,FLA
+64,13,8,Florida Panthers,Montréal Canadiens,2022021081176,2022021081,Shot,176,SHOT,Kaiden Guhle Wrist Shot saved by Sergei Bobrovsky,2023-03-16T23:34:40Z,1,12:11,07:49,5,3,8.0,Montréal Canadiens,MTL
+65,13,8,Florida Panthers,Montréal Canadiens,2022021081177,2022021081,Goal,177,GOAL,"Sam Reinhart (24) Wrist Shot, assists: Josh Mahura (11)",2023-03-16T23:34:51Z,1,12:22,07:38,6,3,13.0,Florida Panthers,FLA
+66,13,8,Florida Panthers,Montréal Canadiens,202202108174,2022021081,Faceoff,74,FACEOFF,Aleksander Barkov faceoff won against Nick Suzuki,2023-03-16T23:37:11Z,1,12:22,07:38,6,3,13.0,Florida Panthers,FLA
+67,13,8,Florida Panthers,Montréal Canadiens,2022021081178,2022021081,Missed Shot,178,MISSED_SHOT,Aaron Ekblad Wide of Net Jake Allen,2023-03-16T23:37:26Z,1,12:37,07:23,6,3,13.0,Florida Panthers,FLA
+68,13,8,Florida Panthers,Montréal Canadiens,202202108175,2022021081,Takeaway,75,TAKEAWAY,Takeaway by Anthony Duclair,2023-03-16T23:37:31Z,1,12:42,07:18,6,3,13.0,Florida Panthers,FLA
+69,13,8,Florida Panthers,Montréal Canadiens,2022021081179,2022021081,Shot,179,SHOT,Eetu Luostarinen Tip-In saved by Jake Allen,2023-03-16T23:37:39Z,1,12:50,07:10,6,3,13.0,Florida Panthers,FLA
+70,13,8,Florida Panthers,Montréal Canadiens,202202108124,2022021081,Stoppage,24,STOP,Icing,2023-03-16T23:37:59Z,1,13:10,06:50,6,3,,,
+71,13,8,Florida Panthers,Montréal Canadiens,202202108176,2022021081,Faceoff,76,FACEOFF,Jonathan Drouin faceoff won against Sam Bennett,2023-03-16T23:38:22Z,1,13:10,06:50,6,3,8.0,Montréal Canadiens,MTL
+72,13,8,Florida Panthers,Montréal Canadiens,202202108177,2022021081,Missed Shot,77,MISSED_SHOT,Matthew Tkachuk Wide of Net Jake Allen,2023-03-16T23:38:25Z,1,13:13,06:47,6,3,13.0,Florida Panthers,FLA
+73,13,8,Florida Panthers,Montréal Canadiens,2022021081180,2022021081,Goal,180,GOAL,"Carter Verhaeghe (34) Wrist Shot, assists: Matthew Tkachuk (59)",2023-03-16T23:38:31Z,1,13:18,06:42,7,3,13.0,Florida Panthers,FLA
+74,13,8,Florida Panthers,Montréal Canadiens,202202108178,2022021081,Faceoff,78,FACEOFF,Sam Bennett faceoff won against Jonathan Drouin,2023-03-16T23:39:08Z,1,13:18,06:42,7,3,13.0,Florida Panthers,FLA
+75,13,8,Florida Panthers,Montréal Canadiens,202202108179,2022021081,Takeaway,79,TAKEAWAY,Takeaway by Denis Gurianov,2023-03-16T23:39:13Z,1,13:23,06:37,7,3,8.0,Montréal Canadiens,MTL
+76,13,8,Florida Panthers,Montréal Canadiens,2022021081181,2022021081,Shot,181,SHOT,Sam Bennett Wrist Shot saved by Jake Allen,2023-03-16T23:39:35Z,1,13:45,06:15,7,3,13.0,Florida Panthers,FLA
+77,13,8,Florida Panthers,Montréal Canadiens,202202108125,2022021081,Hit,25,HIT,Colin White hit David Savard,2023-03-16T23:40:14Z,1,14:24,05:36,7,3,13.0,Florida Panthers,FLA
+78,13,8,Florida Panthers,Montréal Canadiens,2022021081182,2022021081,Shot,182,SHOT,Alex Belzile Wrist Shot saved by Sergei Bobrovsky,2023-03-16T23:40:22Z,1,14:32,05:28,7,3,8.0,Montréal Canadiens,MTL
+79,13,8,Florida Panthers,Montréal Canadiens,202202108126,2022021081,Stoppage,26,STOP,Goalie Stopped,2023-03-16T23:41:14Z,1,15:24,04:36,7,3,,,
+80,13,8,Florida Panthers,Montréal Canadiens,2022021081183,2022021081,Shot,183,SHOT,Johnathan Kovacevic Slap Shot saved by Sergei Bobrovsky,2023-03-16T23:41:14Z,1,15:24,04:36,7,3,8.0,Montréal Canadiens,MTL
+81,13,8,Florida Panthers,Montréal Canadiens,202202108180,2022021081,Faceoff,80,FACEOFF,Aleksander Barkov faceoff won against Jesse Ylonen,2023-03-16T23:43:36Z,1,15:24,04:36,7,3,13.0,Florida Panthers,FLA
+82,13,8,Florida Panthers,Montréal Canadiens,202202108127,2022021081,Hit,27,HIT,Joel Edmundson hit Sam Reinhart,2023-03-16T23:44:40Z,1,16:28,03:32,7,3,8.0,Montréal Canadiens,MTL
+83,13,8,Florida Panthers,Montréal Canadiens,202202108128,2022021081,Stoppage,28,STOP,Offside,2023-03-16T23:44:55Z,1,16:43,03:17,7,3,,,
+84,13,8,Florida Panthers,Montréal Canadiens,202202108181,2022021081,Faceoff,81,FACEOFF,Sam Bennett faceoff won against Alex Belzile,2023-03-16T23:45:24Z,1,16:43,03:17,7,3,13.0,Florida Panthers,FLA
+85,13,8,Florida Panthers,Montréal Canadiens,202202108184,2022021081,Blocked Shot,84,BLOCKED_SHOT,Alex Belzile shot blocked shot by Radko Gudas,2023-03-16T23:45:46Z,1,17:05,02:55,7,3,13.0,Florida Panthers,FLA
+86,13,8,Florida Panthers,Montréal Canadiens,202202108129,2022021081,Hit,29,HIT,Radko Gudas hit Rem Pitlick,2023-03-16T23:46:03Z,1,17:22,02:38,7,3,13.0,Florida Panthers,FLA
+87,13,8,Florida Panthers,Montréal Canadiens,2022021081184,2022021081,Takeaway,184,TAKEAWAY,Takeaway by Carter Verhaeghe,2023-03-16T23:46:24Z,1,17:43,02:17,7,3,13.0,Florida Panthers,FLA
+88,13,8,Florida Panthers,Montréal Canadiens,2022021081288,2022021081,Penalty,288,PENALTY,Kaiden Guhle Tripping against Colin White,2023-03-16T23:46:42Z,1,18:01,01:59,7,3,8.0,Montréal Canadiens,MTL
+89,13,8,Florida Panthers,Montréal Canadiens,202202108185,2022021081,Faceoff,85,FACEOFF,Sam Reinhart faceoff won against Chris Tierney,2023-03-16T23:47:28Z,1,18:01,01:59,7,3,13.0,Florida Panthers,FLA
+90,13,8,Florida Panthers,Montréal Canadiens,2022021081185,2022021081,Blocked Shot,185,BLOCKED_SHOT,Carter Verhaeghe shot blocked shot by Rafael Harvey-Pinard,2023-03-16T23:47:43Z,1,18:16,01:44,7,3,8.0,Montréal Canadiens,MTL
+91,13,8,Florida Panthers,Montréal Canadiens,2022021081187,2022021081,Blocked Shot,187,BLOCKED_SHOT,Carter Verhaeghe shot blocked shot by Rafael Harvey-Pinard,2023-03-16T23:48:09Z,1,18:42,01:18,7,3,8.0,Montréal Canadiens,MTL
+92,13,8,Florida Panthers,Montréal Canadiens,2022021081188,2022021081,Shot,188,SHOT,Carter Verhaeghe Wrist Shot saved by Jake Allen,2023-03-16T23:48:14Z,1,18:47,01:13,7,3,13.0,Florida Panthers,FLA
+93,13,8,Florida Panthers,Montréal Canadiens,2022021081189,2022021081,Shot,189,SHOT,Matthew Tkachuk Wrist Shot saved by Jake Allen,2023-03-16T23:48:42Z,1,19:15,00:45,7,3,13.0,Florida Panthers,FLA
+94,13,8,Florida Panthers,Montréal Canadiens,202202108131,2022021081,Stoppage,31,STOP,Goalie Stopped,2023-03-16T23:48:44Z,1,19:16,00:44,7,3,,,
+95,13,8,Florida Panthers,Montréal Canadiens,202202108186,2022021081,Faceoff,86,FACEOFF,Chris Tierney faceoff won against Sam Bennett,2023-03-16T23:49:15Z,1,19:16,00:44,7,3,8.0,Montréal Canadiens,MTL
+96,13,8,Florida Panthers,Montréal Canadiens,202202108132,2022021081,Stoppage,32,STOP,High Stick,2023-03-16T23:49:21Z,1,19:22,00:38,7,3,,,
+97,13,8,Florida Panthers,Montréal Canadiens,202202108187,2022021081,Faceoff,87,FACEOFF,Sam Bennett faceoff won against Nick Suzuki,2023-03-16T23:49:46Z,1,19:22,00:38,7,3,13.0,Florida Panthers,FLA
+98,13,8,Florida Panthers,Montréal Canadiens,202202108188,2022021081,Giveaway,88,GIVEAWAY,Giveaway by Matthew Tkachuk,2023-03-16T23:49:52Z,1,19:29,00:31,7,3,13.0,Florida Panthers,FLA
+99,13,8,Florida Panthers,Montréal Canadiens,2022021081191,2022021081,Missed Shot,191,MISSED_SHOT,Sam Bennett Wide of Net Jake Allen,2023-03-16T23:50:18Z,1,19:55,00:05,7,3,13.0,Florida Panthers,FLA
+100,13,8,Florida Panthers,Montréal Canadiens,202202108133,2022021081,Period End,33,PERIOD_END,End of 1st Period,2023-03-16T23:50:23Z,1,20:00,00:00,7,3,,,
+101,13,8,Florida Panthers,Montréal Canadiens,202202108136,2022021081,Period Official,36,PERIOD_OFFICIAL,Period Official,2023-03-16T23:50:30Z,1,20:00,00:00,7,3,,,
+102,13,8,Florida Panthers,Montréal Canadiens,202202108137,2022021081,Period Ready,37,PERIOD_READY,Period Ready,2023-03-17T00:06:55Z,2,00:00,20:00,7,3,,,
+103,13,8,Florida Panthers,Montréal Canadiens,202202108189,2022021081,Period Start,89,PERIOD_START,Period Start,2023-03-17T00:09:09Z,2,00:00,20:00,7,3,,,
+104,13,8,Florida Panthers,Montréal Canadiens,202202108190,2022021081,Faceoff,90,FACEOFF,Aleksander Barkov faceoff won against Nick Suzuki,2023-03-17T00:09:09Z,2,00:00,20:00,7,3,13.0,Florida Panthers,FLA
+105,13,8,Florida Panthers,Montréal Canadiens,2022021081192,2022021081,Missed Shot,192,MISSED_SHOT,Anthony Duclair Wide of Net Jake Allen,2023-03-17T00:09:23Z,2,00:14,19:46,7,3,13.0,Florida Panthers,FLA
+106,13,8,Florida Panthers,Montréal Canadiens,2022021081193,2022021081,Shot,193,SHOT,Brandon Montour Wrist Shot saved by Jake Allen,2023-03-17T00:09:26Z,2,00:17,19:43,7,3,13.0,Florida Panthers,FLA
+107,13,8,Florida Panthers,Montréal Canadiens,2022021081194,2022021081,Blocked Shot,194,BLOCKED_SHOT,Gustav Forsling shot blocked shot by Johnathan Kovacevic,2023-03-17T00:10:31Z,2,01:22,18:38,7,3,8.0,Montréal Canadiens,MTL
+108,13,8,Florida Panthers,Montréal Canadiens,2022021081195,2022021081,Missed Shot,195,MISSED_SHOT,Aaron Ekblad Wide of Net Jake Allen,2023-03-17T00:10:39Z,2,01:30,18:30,7,3,13.0,Florida Panthers,FLA
+109,13,8,Florida Panthers,Montréal Canadiens,2022021081196,2022021081,Blocked Shot,196,BLOCKED_SHOT,Gustav Forsling shot blocked shot by Josh Anderson,2023-03-17T00:10:47Z,2,01:38,18:22,7,3,8.0,Montréal Canadiens,MTL
+110,13,8,Florida Panthers,Montréal Canadiens,2022021081197,2022021081,Shot,197,SHOT,Alex Belzile Backhand saved by Sergei Bobrovsky,2023-03-17T00:11:31Z,2,02:22,17:38,7,3,8.0,Montréal Canadiens,MTL
+111,13,8,Florida Panthers,Montréal Canadiens,202202108138,2022021081,Stoppage,38,STOP,Goalie Stopped,2023-03-17T00:11:33Z,2,02:23,17:37,7,3,,,
+112,13,8,Florida Panthers,Montréal Canadiens,202202108191,2022021081,Faceoff,91,FACEOFF,Nick Suzuki faceoff won against Aleksander Barkov,2023-03-17T00:12:13Z,2,02:23,17:37,7,3,8.0,Montréal Canadiens,MTL
+113,13,8,Florida Panthers,Montréal Canadiens,2022021081198,2022021081,Goal,198,GOAL,"Rafael Harvey-Pinard (9) Tip-In, assists: Justin Barron (9), Joel Edmundson (8)",2023-03-17T00:12:16Z,2,02:26,17:34,7,4,8.0,Montréal Canadiens,MTL
+114,13,8,Florida Panthers,Montréal Canadiens,202202108192,2022021081,Faceoff,92,FACEOFF,Nick Suzuki faceoff won against Aleksander Barkov,2023-03-17T00:12:48Z,2,02:26,17:34,7,4,8.0,Montréal Canadiens,MTL
+115,13,8,Florida Panthers,Montréal Canadiens,202202108139,2022021081,Hit,39,HIT,Nick Suzuki hit Anthony Duclair,2023-03-17T00:13:01Z,2,02:39,17:21,7,4,8.0,Montréal Canadiens,MTL
+116,13,8,Florida Panthers,Montréal Canadiens,2022021081413,2022021081,Hit,413,HIT,Radko Gudas hit David Savard,2023-03-17T00:13:01Z,2,02:39,17:21,7,4,13.0,Florida Panthers,FLA
+117,13,8,Florida Panthers,Montréal Canadiens,202202108140,2022021081,Stoppage,40,STOP,Puck in Benches,2023-03-17T00:13:07Z,2,02:45,17:15,7,4,,,
+118,13,8,Florida Panthers,Montréal Canadiens,202202108193,2022021081,Faceoff,93,FACEOFF,Chris Tierney faceoff won against Eric Staal,2023-03-17T00:13:43Z,2,02:45,17:15,7,4,8.0,Montréal Canadiens,MTL
+119,13,8,Florida Panthers,Montréal Canadiens,2022021081199,2022021081,Blocked Shot,199,BLOCKED_SHOT,Eric Staal shot blocked shot by Kaiden Guhle,2023-03-17T00:13:58Z,2,03:00,17:00,7,4,8.0,Montréal Canadiens,MTL
+120,13,8,Florida Panthers,Montréal Canadiens,2022021081200,2022021081,Missed Shot,200,MISSED_SHOT,Eric Staal Wide of Net Jake Allen,2023-03-17T00:14:00Z,2,03:02,16:58,7,4,13.0,Florida Panthers,FLA
+121,13,8,Florida Panthers,Montréal Canadiens,202202108141,2022021081,Hit,41,HIT,Michael Pezzetta hit Marc Staal,2023-03-17T00:14:14Z,2,03:16,16:44,7,4,8.0,Montréal Canadiens,MTL
+122,13,8,Florida Panthers,Montréal Canadiens,2022021081402,2022021081,Hit,402,HIT,Michael Pezzetta hit Sam Bennett,2023-03-17T00:14:32Z,2,03:34,16:26,7,4,8.0,Montréal Canadiens,MTL
+123,13,8,Florida Panthers,Montréal Canadiens,2022021081528,2022021081,Penalty,528,PENALTY,Chris Tierney Delaying Game,2023-03-17T00:14:34Z,2,03:36,16:24,7,4,8.0,Montréal Canadiens,MTL
+124,13,8,Florida Panthers,Montréal Canadiens,202202108194,2022021081,Faceoff,94,FACEOFF,Nick Suzuki faceoff won against Sam Reinhart,2023-03-17T00:15:13Z,2,03:36,16:24,7,4,8.0,Montréal Canadiens,MTL
+125,13,8,Florida Panthers,Montréal Canadiens,2022021081302,2022021081,Shot,302,SHOT,Nick Suzuki Wrist Shot saved by Sergei Bobrovsky,2023-03-17T00:15:17Z,2,03:40,16:20,7,4,8.0,Montréal Canadiens,MTL
+126,13,8,Florida Panthers,Montréal Canadiens,2022021081449,2022021081,Shot,449,SHOT,Nick Suzuki Wrist Shot saved by Sergei Bobrovsky,2023-03-17T00:15:18Z,2,03:41,16:19,7,4,8.0,Montréal Canadiens,MTL
+127,13,8,Florida Panthers,Montréal Canadiens,2022021081304,2022021081,Shot,304,SHOT,Carter Verhaeghe Wrist Shot saved by Jake Allen,2023-03-17T00:15:34Z,2,03:57,16:03,7,4,13.0,Florida Panthers,FLA
+128,13,8,Florida Panthers,Montréal Canadiens,2022021081404,2022021081,Blocked Shot,404,BLOCKED_SHOT,Carter Verhaeghe shot blocked shot by David Savard,2023-03-17T00:15:38Z,2,04:01,15:59,7,4,8.0,Montréal Canadiens,MTL
+129,13,8,Florida Panthers,Montréal Canadiens,2022021081405,2022021081,Hit,405,HIT,Josh Anderson hit Sam Reinhart,2023-03-17T00:16:13Z,2,04:36,15:24,7,4,8.0,Montréal Canadiens,MTL
+130,13,8,Florida Panthers,Montréal Canadiens,2022021081406,2022021081,Shot,406,SHOT,Mike Matheson Wrist Shot saved by Sergei Bobrovsky,2023-03-17T00:16:27Z,2,04:50,15:10,7,4,8.0,Montréal Canadiens,MTL
+131,13,8,Florida Panthers,Montréal Canadiens,2022021081407,2022021081,Blocked Shot,407,BLOCKED_SHOT,Aaron Ekblad shot blocked shot by Johnathan Kovacevic,2023-03-17T00:16:55Z,2,05:18,14:42,7,4,8.0,Montréal Canadiens,MTL
+132,13,8,Florida Panthers,Montréal Canadiens,2022021081408,2022021081,Shot,408,SHOT,Brandon Montour Snap Shot saved by Jake Allen,2023-03-17T00:17:07Z,2,05:30,14:30,7,4,13.0,Florida Panthers,FLA
+133,13,8,Florida Panthers,Montréal Canadiens,2022021081409,2022021081,Goal,409,GOAL,"Aaron Ekblad (12) Wrist Shot, assists: Brandon Montour (44), Matthew Tkachuk (60)",2023-03-17T00:17:08Z,2,05:31,14:29,8,4,13.0,Florida Panthers,FLA
+134,13,8,Florida Panthers,Montréal Canadiens,202202108195,2022021081,Faceoff,95,FACEOFF,Jonathan Drouin faceoff won against Anton Lundell,2023-03-17T00:17:57Z,2,05:31,14:29,8,4,8.0,Montréal Canadiens,MTL
+135,13,8,Florida Panthers,Montréal Canadiens,202202108142,2022021081,Hit,42,HIT,David Savard hit Anton Lundell,2023-03-17T00:18:27Z,2,06:01,13:59,8,4,8.0,Montréal Canadiens,MTL
+136,13,8,Florida Panthers,Montréal Canadiens,2022021081422,2022021081,Hit,422,HIT,Josh Anderson hit Gustav Forsling,2023-03-17T00:18:27Z,2,06:01,13:59,8,4,8.0,Montréal Canadiens,MTL
+137,13,8,Florida Panthers,Montréal Canadiens,202202108143,2022021081,Hit,43,HIT,Ryan Lomberg hit Joel Edmundson,2023-03-17T00:18:52Z,2,06:26,13:34,8,4,13.0,Florida Panthers,FLA
+138,13,8,Florida Panthers,Montréal Canadiens,202202108144,2022021081,Hit,44,HIT,Joel Edmundson hit Ryan Lomberg,2023-03-17T00:18:53Z,2,06:27,13:33,8,4,8.0,Montréal Canadiens,MTL
+139,13,8,Florida Panthers,Montréal Canadiens,2022021081411,2022021081,Shot,411,SHOT,Justin Barron Wrist Shot saved by Sergei Bobrovsky,2023-03-17T00:19:08Z,2,06:42,13:18,8,4,8.0,Montréal Canadiens,MTL
+140,13,8,Florida Panthers,Montréal Canadiens,202202108145,2022021081,Stoppage,45,STOP,Puck in Crowd,2023-03-17T00:19:10Z,2,06:44,13:16,8,4,,,
+141,13,8,Florida Panthers,Montréal Canadiens,202202108196,2022021081,Faceoff,96,FACEOFF,Aleksander Barkov faceoff won against Nick Suzuki,2023-03-17T00:21:28Z,2,06:44,13:16,8,4,13.0,Florida Panthers,FLA
+142,13,8,Florida Panthers,Montréal Canadiens,202202108146,2022021081,Stoppage,46,STOP,Icing,2023-03-17T00:21:34Z,2,06:50,13:10,8,4,,,
+143,13,8,Florida Panthers,Montréal Canadiens,202202108197,2022021081,Faceoff,97,FACEOFF,Aleksander Barkov faceoff won against Nick Suzuki,2023-03-17T00:21:58Z,2,06:50,13:10,8,4,13.0,Florida Panthers,FLA
+144,13,8,Florida Panthers,Montréal Canadiens,202202108198,2022021081,Takeaway,98,TAKEAWAY,Takeaway by Aleksander Barkov,2023-03-17T00:22:13Z,2,07:05,12:55,8,4,13.0,Florida Panthers,FLA
+145,13,8,Florida Panthers,Montréal Canadiens,2022021081412,2022021081,Goal,412,GOAL,"Matthew Tkachuk (31) Wrist Shot, assists: Aleksander Barkov (41)",2023-03-17T00:22:41Z,2,07:33,12:27,9,4,13.0,Florida Panthers,FLA
+146,13,8,Florida Panthers,Montréal Canadiens,202202108199,2022021081,Faceoff,99,FACEOFF,Chris Tierney faceoff won against Eric Staal,2023-03-17T00:23:30Z,2,07:33,12:27,9,4,8.0,Montréal Canadiens,MTL
+147,13,8,Florida Panthers,Montréal Canadiens,202202108147,2022021081,Hit,47,HIT,Michael Pezzetta hit Eric Staal,2023-03-17T00:23:46Z,2,07:49,12:11,9,4,8.0,Montréal Canadiens,MTL
+148,13,8,Florida Panthers,Montréal Canadiens,202202108148,2022021081,Hit,48,HIT,Anthony Richard hit Brandon Montour,2023-03-17T00:24:02Z,2,08:05,11:55,9,4,8.0,Montréal Canadiens,MTL
+149,13,8,Florida Panthers,Montréal Canadiens,2022021081559,2022021081,Penalty,559,PENALTY,Anthony Richard Tripping against Brandon Montour,2023-03-17T00:24:07Z,2,08:10,11:50,9,4,8.0,Montréal Canadiens,MTL
+150,13,8,Florida Panthers,Montréal Canadiens,2022021081100,2022021081,Faceoff,100,FACEOFF,Sam Reinhart faceoff won against Chris Tierney,2023-03-17T00:24:51Z,2,08:10,11:50,9,4,13.0,Florida Panthers,FLA
+151,13,8,Florida Panthers,Montréal Canadiens,2022021081414,2022021081,Missed Shot,414,MISSED_SHOT,Brandon Montour Wide of Net Sam Montembeault,2023-03-17T00:25:18Z,2,08:37,11:23,9,4,13.0,Florida Panthers,FLA
+152,13,8,Florida Panthers,Montréal Canadiens,2022021081303,2022021081,Blocked Shot,303,BLOCKED_SHOT,Carter Verhaeghe shot blocked shot by David Savard,2023-03-17T00:25:19Z,2,08:38,11:22,9,4,8.0,Montréal Canadiens,MTL
+153,13,8,Florida Panthers,Montréal Canadiens,2022021081415,2022021081,Shot,415,SHOT,Carter Verhaeghe Wrist Shot saved by Sam Montembeault,2023-03-17T00:25:21Z,2,08:40,11:20,9,4,13.0,Florida Panthers,FLA
+154,13,8,Florida Panthers,Montréal Canadiens,2022021081416,2022021081,Shot,416,SHOT,Aleksander Barkov Wrist Shot saved by Sam Montembeault,2023-03-17T00:25:21Z,2,08:40,11:20,9,4,13.0,Florida Panthers,FLA
+155,13,8,Florida Panthers,Montréal Canadiens,2022021081351,2022021081,Giveaway,351,GIVEAWAY,Giveaway by Brandon Montour,2023-03-17T00:26:13Z,2,09:32,10:28,9,4,13.0,Florida Panthers,FLA
+156,13,8,Florida Panthers,Montréal Canadiens,202202108150,2022021081,Hit,50,HIT,Nick Suzuki hit Sam Bennett,2023-03-17T00:26:32Z,2,09:51,10:09,9,4,8.0,Montréal Canadiens,MTL
+157,13,8,Florida Panthers,Montréal Canadiens,2022021081418,2022021081,Missed Shot,418,MISSED_SHOT,Matthew Tkachuk Wide of Net Sam Montembeault,2023-03-17T00:26:51Z,2,10:10,09:50,9,4,13.0,Florida Panthers,FLA
+158,13,8,Florida Panthers,Montréal Canadiens,2022021081352,2022021081,Missed Shot,352,MISSED_SHOT,Anthony Duclair Wide of Net Sam Montembeault,2023-03-17T00:26:54Z,2,10:13,09:47,9,4,13.0,Florida Panthers,FLA
+159,13,8,Florida Panthers,Montréal Canadiens,2022021081451,2022021081,Hit,451,HIT,Radko Gudas hit Rem Pitlick,2023-03-17T00:27:07Z,2,10:26,09:34,9,4,13.0,Florida Panthers,FLA
+160,13,8,Florida Panthers,Montréal Canadiens,2022021081420,2022021081,Missed Shot,420,MISSED_SHOT,Josh Mahura Wide of Net Sam Montembeault,2023-03-17T00:27:23Z,2,10:42,09:18,9,4,13.0,Florida Panthers,FLA
+161,13,8,Florida Panthers,Montréal Canadiens,2022021081421,2022021081,Blocked Shot,421,BLOCKED_SHOT,Josh Mahura shot blocked shot by Alex Belzile,2023-03-17T00:27:39Z,2,10:58,09:02,9,4,8.0,Montréal Canadiens,MTL
+162,13,8,Florida Panthers,Montréal Canadiens,2022021081452,2022021081,Stoppage,452,STOP,Puck in Netting,2023-03-17T00:27:40Z,2,10:59,09:01,9,4,,,
+163,13,8,Florida Panthers,Montréal Canadiens,2022021081353,2022021081,Faceoff,353,FACEOFF,Anton Lundell faceoff won against Alex Belzile,2023-03-17T00:29:53Z,2,10:59,09:01,9,4,13.0,Florida Panthers,FLA
+164,13,8,Florida Panthers,Montréal Canadiens,2022021081423,2022021081,Shot,423,SHOT,Mike Hoffman Wrist Shot saved by Sergei Bobrovsky,2023-03-17T00:30:06Z,2,11:12,08:48,9,4,8.0,Montréal Canadiens,MTL
+165,13,8,Florida Panthers,Montréal Canadiens,2022021081424,2022021081,Blocked Shot,424,BLOCKED_SHOT,Anton Lundell shot blocked shot by Kaiden Guhle,2023-03-17T00:30:15Z,2,11:21,08:39,9,4,8.0,Montréal Canadiens,MTL
+166,13,8,Florida Panthers,Montréal Canadiens,2022021081453,2022021081,Stoppage,453,STOP,Icing,2023-03-17T00:30:28Z,2,11:34,08:26,9,4,,,
+167,13,8,Florida Panthers,Montréal Canadiens,2022021081354,2022021081,Faceoff,354,FACEOFF,Jonathan Drouin faceoff won against Sam Reinhart,2023-03-17T00:31:00Z,2,11:34,08:26,9,4,8.0,Montréal Canadiens,MTL
+168,13,8,Florida Panthers,Montréal Canadiens,2022021081425,2022021081,Shot,425,SHOT,Josh Anderson Wrist Shot saved by Sergei Bobrovsky,2023-03-17T00:31:05Z,2,11:39,08:21,9,4,8.0,Montréal Canadiens,MTL
+169,13,8,Florida Panthers,Montréal Canadiens,2022021081450,2022021081,Shot,450,SHOT,Josh Anderson Wrist Shot saved by Sergei Bobrovsky,2023-03-17T00:31:05Z,2,11:39,08:21,9,4,8.0,Montréal Canadiens,MTL
+170,13,8,Florida Panthers,Montréal Canadiens,2022021081454,2022021081,Stoppage,454,STOP,Goalie Stopped,2023-03-17T00:31:07Z,2,11:40,08:20,9,4,,,
+171,13,8,Florida Panthers,Montréal Canadiens,2022021081355,2022021081,Faceoff,355,FACEOFF,Eric Staal faceoff won against Jonathan Drouin,2023-03-17T00:31:59Z,2,11:40,08:20,9,4,13.0,Florida Panthers,FLA
+172,13,8,Florida Panthers,Montréal Canadiens,2022021081456,2022021081,Stoppage,456,STOP,Icing,2023-03-17T00:32:07Z,2,11:48,08:12,9,4,,,
+173,13,8,Florida Panthers,Montréal Canadiens,2022021081356,2022021081,Faceoff,356,FACEOFF,Colin White faceoff won against Jonathan Drouin,2023-03-17T00:32:37Z,2,11:48,08:12,9,4,13.0,Florida Panthers,FLA
+174,13,8,Florida Panthers,Montréal Canadiens,2022021081457,2022021081,Hit,457,HIT,Josh Anderson hit Nick Cousins,2023-03-17T00:33:08Z,2,12:19,07:41,9,4,8.0,Montréal Canadiens,MTL
+175,13,8,Florida Panthers,Montréal Canadiens,2022021081458,2022021081,Hit,458,HIT,Eetu Luostarinen hit Kaiden Guhle,2023-03-17T00:33:25Z,2,12:36,07:24,9,4,13.0,Florida Panthers,FLA
+176,13,8,Florida Panthers,Montréal Canadiens,2022021081426,2022021081,Blocked Shot,426,BLOCKED_SHOT,Gustav Forsling shot blocked shot by Jesse Ylonen,2023-03-17T00:33:42Z,2,12:53,07:07,9,4,8.0,Montréal Canadiens,MTL
+177,13,8,Florida Panthers,Montréal Canadiens,2022021081428,2022021081,Hit,428,HIT,Jesse Ylonen hit Aaron Ekblad,2023-03-17T00:33:42Z,2,12:53,07:07,9,4,8.0,Montréal Canadiens,MTL
+178,13,8,Florida Panthers,Montréal Canadiens,2022021081459,2022021081,Stoppage,459,STOP,Goalie Stopped,2023-03-17T00:34:37Z,2,13:48,06:12,9,4,,,
+179,13,8,Florida Panthers,Montréal Canadiens,2022021081357,2022021081,Faceoff,357,FACEOFF,Sam Bennett faceoff won against Chris Tierney,2023-03-17T00:35:19Z,2,13:48,06:12,9,4,13.0,Florida Panthers,FLA
+180,13,8,Florida Panthers,Montréal Canadiens,2022021081429,2022021081,Shot,429,SHOT,David Savard Wrist Shot saved by Sergei Bobrovsky,2023-03-17T00:35:37Z,2,14:06,05:54,9,4,8.0,Montréal Canadiens,MTL
+181,13,8,Florida Panthers,Montréal Canadiens,2022021081460,2022021081,Stoppage,460,STOP,Goalie Stopped,2023-03-17T00:35:38Z,2,14:07,05:53,9,4,,,
+182,13,8,Florida Panthers,Montréal Canadiens,2022021081358,2022021081,Faceoff,358,FACEOFF,Chris Tierney faceoff won against Colin White,2023-03-17T00:38:03Z,2,14:07,05:53,9,4,8.0,Montréal Canadiens,MTL
+183,13,8,Florida Panthers,Montréal Canadiens,2022021081430,2022021081,Shot,430,SHOT,Justin Barron Wrist Shot saved by Sergei Bobrovsky,2023-03-17T00:38:06Z,2,14:10,05:50,9,4,8.0,Montréal Canadiens,MTL
+184,13,8,Florida Panthers,Montréal Canadiens,2022021081461,2022021081,Hit,461,HIT,Michael Pezzetta hit Brandon Montour,2023-03-17T00:38:13Z,2,14:17,05:43,9,4,8.0,Montréal Canadiens,MTL
+185,13,8,Florida Panthers,Montréal Canadiens,2022021081431,2022021081,Takeaway,431,TAKEAWAY,Takeaway by Brandon Montour,2023-03-17T00:38:15Z,2,14:19,05:41,9,4,13.0,Florida Panthers,FLA
+186,13,8,Florida Panthers,Montréal Canadiens,2022021081462,2022021081,Hit,462,HIT,Marc Staal hit Anthony Richard,2023-03-17T00:38:22Z,2,14:26,05:34,9,4,13.0,Florida Panthers,FLA
+187,13,8,Florida Panthers,Montréal Canadiens,2022021081432,2022021081,Missed Shot,432,MISSED_SHOT,Justin Barron Wide of Net Sergei Bobrovsky,2023-03-17T00:38:31Z,2,14:35,05:25,9,4,8.0,Montréal Canadiens,MTL
+188,13,8,Florida Panthers,Montréal Canadiens,2022021081463,2022021081,Hit,463,HIT,Joel Edmundson hit Anton Lundell,2023-03-17T00:38:57Z,2,15:01,04:59,9,4,8.0,Montréal Canadiens,MTL
+189,13,8,Florida Panthers,Montréal Canadiens,2022021081433,2022021081,Shot,433,SHOT,Aaron Ekblad Wrist Shot saved by Sam Montembeault,2023-03-17T00:39:16Z,2,15:20,04:40,9,4,13.0,Florida Panthers,FLA
+190,13,8,Florida Panthers,Montréal Canadiens,2022021081464,2022021081,Stoppage,464,STOP,Goalie Stopped,2023-03-17T00:39:18Z,2,15:21,04:39,9,4,,,
+191,13,8,Florida Panthers,Montréal Canadiens,2022021081359,2022021081,Faceoff,359,FACEOFF,Sam Reinhart faceoff won against Alex Belzile,2023-03-17T00:39:47Z,2,15:21,04:39,9,4,13.0,Florida Panthers,FLA
+192,13,8,Florida Panthers,Montréal Canadiens,2022021081465,2022021081,Hit,465,HIT,Mike Hoffman hit Radko Gudas,2023-03-17T00:40:06Z,2,15:40,04:20,9,4,8.0,Montréal Canadiens,MTL
+193,13,8,Florida Panthers,Montréal Canadiens,2022021081360,2022021081,Giveaway,360,GIVEAWAY,Giveaway by Mike Hoffman,2023-03-17T00:40:26Z,2,16:00,04:00,9,4,8.0,Montréal Canadiens,MTL
+194,13,8,Florida Panthers,Montréal Canadiens,2022021081436,2022021081,Hit,436,HIT,Ryan Lomberg hit Johnathan Kovacevic,2023-03-17T00:40:26Z,2,16:00,04:00,9,4,13.0,Florida Panthers,FLA
+195,13,8,Florida Panthers,Montréal Canadiens,2022021081434,2022021081,Shot,434,SHOT,Rem Pitlick Tip-In saved by Sergei Bobrovsky,2023-03-17T00:40:32Z,2,16:06,03:54,9,4,8.0,Montréal Canadiens,MTL
+196,13,8,Florida Panthers,Montréal Canadiens,2022021081435,2022021081,Shot,435,SHOT,Sam Reinhart Wrist Shot saved by Sam Montembeault,2023-03-17T00:40:42Z,2,16:16,03:44,9,4,13.0,Florida Panthers,FLA
+197,13,8,Florida Panthers,Montréal Canadiens,2022021081361,2022021081,Missed Shot,361,MISSED_SHOT,Gustav Forsling Wide of Net Sam Montembeault,2023-03-17T00:40:47Z,2,16:21,03:39,9,4,13.0,Florida Panthers,FLA
+198,13,8,Florida Panthers,Montréal Canadiens,2022021081437,2022021081,Shot,437,SHOT,Anthony Duclair Slap Shot saved by Sam Montembeault,2023-03-17T00:41:24Z,2,16:58,03:02,9,4,13.0,Florida Panthers,FLA
+199,13,8,Florida Panthers,Montréal Canadiens,2022021081438,2022021081,Shot,438,SHOT,Aleksander Barkov Tip-In saved by Sam Montembeault,2023-03-17T00:41:30Z,2,17:04,02:56,9,4,13.0,Florida Panthers,FLA
+200,13,8,Florida Panthers,Montréal Canadiens,2022021081466,2022021081,Stoppage,466,STOP,Goalie Stopped,2023-03-17T00:41:30Z,2,17:05,02:55,9,4,,,
+201,13,8,Florida Panthers,Montréal Canadiens,2022021081362,2022021081,Faceoff,362,FACEOFF,Sam Bennett faceoff won against Nick Suzuki,2023-03-17T00:42:07Z,2,17:05,02:55,9,4,13.0,Florida Panthers,FLA
+202,13,8,Florida Panthers,Montréal Canadiens,2022021081439,2022021081,Missed Shot,439,MISSED_SHOT,Kaiden Guhle Wide of Net Sergei Bobrovsky,2023-03-17T00:42:29Z,2,17:27,02:33,9,4,8.0,Montréal Canadiens,MTL
+203,13,8,Florida Panthers,Montréal Canadiens,2022021081440,2022021081,Missed Shot,440,MISSED_SHOT,Denis Gurianov Hit Crossbar Sergei Bobrovsky,2023-03-17T00:42:33Z,2,17:31,02:29,9,4,8.0,Montréal Canadiens,MTL
+204,13,8,Florida Panthers,Montréal Canadiens,2022021081363,2022021081,Giveaway,363,GIVEAWAY,Giveaway by Josh Anderson,2023-03-17T00:42:53Z,2,17:51,02:09,9,4,8.0,Montréal Canadiens,MTL
+205,13,8,Florida Panthers,Montréal Canadiens,2022021081441,2022021081,Blocked Shot,441,BLOCKED_SHOT,Aaron Ekblad shot blocked shot by Nick Suzuki,2023-03-17T00:43:11Z,2,18:09,01:51,9,4,8.0,Montréal Canadiens,MTL
+206,13,8,Florida Panthers,Montréal Canadiens,2022021081442,2022021081,Shot,442,SHOT,Gustav Forsling Slap Shot saved by Sam Montembeault,2023-03-17T00:43:28Z,2,18:26,01:34,9,4,13.0,Florida Panthers,FLA
+207,13,8,Florida Panthers,Montréal Canadiens,2022021081467,2022021081,Stoppage,467,STOP,Goalie Stopped,2023-03-17T00:43:29Z,2,18:27,01:33,9,4,,,
+208,13,8,Florida Panthers,Montréal Canadiens,2022021081364,2022021081,Faceoff,364,FACEOFF,Jonathan Drouin faceoff won against Anton Lundell,2023-03-17T00:44:00Z,2,18:27,01:33,9,4,8.0,Montréal Canadiens,MTL
+209,13,8,Florida Panthers,Montréal Canadiens,2022021081369,2022021081,Shot,369,SHOT,Gustav Forsling Wrist Shot saved by Sam Montembeault,2023-03-17T00:44:02Z,2,18:29,01:31,9,4,13.0,Florida Panthers,FLA
+210,13,8,Florida Panthers,Montréal Canadiens,2022021081468,2022021081,Hit,468,HIT,Rafael Harvey-Pinard hit Gustav Forsling,2023-03-17T00:44:10Z,2,18:37,01:23,9,4,8.0,Montréal Canadiens,MTL
+211,13,8,Florida Panthers,Montréal Canadiens,2022021081443,2022021081,Shot,443,SHOT,Sam Reinhart Wrist Shot saved by Sam Montembeault,2023-03-17T00:44:27Z,2,18:54,01:06,9,4,13.0,Florida Panthers,FLA
+212,13,8,Florida Panthers,Montréal Canadiens,2022021081469,2022021081,Stoppage,469,STOP,Goalie Stopped,2023-03-17T00:44:28Z,2,18:55,01:05,9,4,,,
+213,13,8,Florida Panthers,Montréal Canadiens,2022021081365,2022021081,Faceoff,365,FACEOFF,Aleksander Barkov faceoff won against Alex Belzile,2023-03-17T00:44:57Z,2,18:55,01:05,9,4,13.0,Florida Panthers,FLA
+214,13,8,Florida Panthers,Montréal Canadiens,2022021081444,2022021081,Blocked Shot,444,BLOCKED_SHOT,Anthony Duclair shot blocked shot by Justin Barron,2023-03-17T00:45:00Z,2,18:58,01:02,9,4,8.0,Montréal Canadiens,MTL
+215,13,8,Florida Panthers,Montréal Canadiens,2022021081470,2022021081,Stoppage,470,STOP,Offside,2023-03-17T00:45:17Z,2,19:13,00:47,9,4,,,
+216,13,8,Florida Panthers,Montréal Canadiens,2022021081366,2022021081,Faceoff,366,FACEOFF,Aleksander Barkov faceoff won against Alex Belzile,2023-03-17T00:45:46Z,2,19:13,00:47,9,4,13.0,Florida Panthers,FLA
+217,13,8,Florida Panthers,Montréal Canadiens,2022021081471,2022021081,Stoppage,471,STOP,Icing,2023-03-17T00:46:09Z,2,19:36,00:24,9,4,,,
+218,13,8,Florida Panthers,Montréal Canadiens,2022021081367,2022021081,Faceoff,367,FACEOFF,Sam Bennett faceoff won against Alex Belzile,2023-03-17T00:46:37Z,2,19:36,00:24,9,4,13.0,Florida Panthers,FLA
+219,13,8,Florida Panthers,Montréal Canadiens,2022021081446,2022021081,Shot,446,SHOT,Brandon Montour Wrist Shot saved by Sam Montembeault,2023-03-17T00:46:40Z,2,19:40,00:20,9,4,13.0,Florida Panthers,FLA
+220,13,8,Florida Panthers,Montréal Canadiens,2022021081472,2022021081,Stoppage,472,STOP,Goalie Stopped,2023-03-17T00:46:42Z,2,19:41,00:19,9,4,,,
+221,13,8,Florida Panthers,Montréal Canadiens,2022021081368,2022021081,Faceoff,368,FACEOFF,Sam Bennett faceoff won against Chris Tierney,2023-03-17T00:47:08Z,2,19:41,00:19,9,4,13.0,Florida Panthers,FLA
+222,13,8,Florida Panthers,Montréal Canadiens,2022021081447,2022021081,Shot,447,SHOT,Marc Staal Wrist Shot saved by Sam Montembeault,2023-03-17T00:47:20Z,2,19:53,00:07,9,4,13.0,Florida Panthers,FLA
+223,13,8,Florida Panthers,Montréal Canadiens,2022021081448,2022021081,Shot,448,SHOT,Michael Pezzetta Wrist Shot saved by Sergei Bobrovsky,2023-03-17T00:47:26Z,2,19:59,00:01,9,4,8.0,Montréal Canadiens,MTL
+224,13,8,Florida Panthers,Montréal Canadiens,2022021081473,2022021081,Period End,473,PERIOD_END,End of 2nd Period,2023-03-17T00:47:27Z,2,20:00,00:00,9,4,,,
+225,13,8,Florida Panthers,Montréal Canadiens,2022021081476,2022021081,Period Official,476,PERIOD_OFFICIAL,Period Official,2023-03-17T00:47:33Z,2,20:00,00:00,9,4,,,
+226,13,8,Florida Panthers,Montréal Canadiens,2022021081477,2022021081,Period Ready,477,PERIOD_READY,Period Ready,2023-03-17T01:04:00Z,3,00:00,20:00,9,4,,,
+227,13,8,Florida Panthers,Montréal Canadiens,2022021081370,2022021081,Period Start,370,PERIOD_START,Period Start,2023-03-17T01:06:11Z,3,00:00,20:00,9,4,,,
+228,13,8,Florida Panthers,Montréal Canadiens,2022021081371,2022021081,Faceoff,371,FACEOFF,Aleksander Barkov faceoff won against Nick Suzuki,2023-03-17T01:06:11Z,3,00:00,20:00,9,4,13.0,Florida Panthers,FLA
+229,13,8,Florida Panthers,Montréal Canadiens,2022021081478,2022021081,Hit,478,HIT,Kaiden Guhle hit Anton Lundell,2023-03-17T01:08:01Z,3,01:50,18:10,9,4,8.0,Montréal Canadiens,MTL
+230,13,8,Florida Panthers,Montréal Canadiens,2022021081663,2022021081,Hit,663,HIT,Radko Gudas hit Kaiden Guhle,2023-03-17T01:08:01Z,3,01:50,18:10,9,4,13.0,Florida Panthers,FLA
+231,13,8,Florida Panthers,Montréal Canadiens,2022021081651,2022021081,Shot,651,SHOT,Mike Hoffman Wrist Shot saved by Sergei Bobrovsky,2023-03-17T01:08:18Z,3,02:07,17:53,9,4,8.0,Montréal Canadiens,MTL
+232,13,8,Florida Panthers,Montréal Canadiens,2022021081652,2022021081,Shot,652,SHOT,Nick Suzuki Backhand saved by Sergei Bobrovsky,2023-03-17T01:09:32Z,3,03:21,16:39,9,4,8.0,Montréal Canadiens,MTL
+233,13,8,Florida Panthers,Montréal Canadiens,2022021081653,2022021081,Shot,653,SHOT,Nick Suzuki Snap Shot saved by Sergei Bobrovsky,2023-03-17T01:09:40Z,3,03:29,16:31,9,4,8.0,Montréal Canadiens,MTL
+234,13,8,Florida Panthers,Montréal Canadiens,2022021081479,2022021081,Hit,479,HIT,Kaiden Guhle hit Matthew Tkachuk,2023-03-17T01:10:18Z,3,04:07,15:53,9,4,8.0,Montréal Canadiens,MTL
+235,13,8,Florida Panthers,Montréal Canadiens,2022021081654,2022021081,Missed Shot,654,MISSED_SHOT,Carter Verhaeghe Wide of Net Sam Montembeault,2023-03-17T01:10:23Z,3,04:12,15:48,9,4,13.0,Florida Panthers,FLA
+236,13,8,Florida Panthers,Montréal Canadiens,2022021081480,2022021081,Hit,480,HIT,Denis Gurianov hit Radko Gudas,2023-03-17T01:10:46Z,3,04:35,15:25,9,4,8.0,Montréal Canadiens,MTL
+237,13,8,Florida Panthers,Montréal Canadiens,2022021081671,2022021081,Shot,671,SHOT,Josh Anderson Wrist Shot saved by Sergei Bobrovsky,2023-03-17T01:11:01Z,3,04:50,15:10,9,4,8.0,Montréal Canadiens,MTL
+238,13,8,Florida Panthers,Montréal Canadiens,2022021081730,2022021081,Penalty,730,PENALTY,Aaron Ekblad Interference against Joel Edmundson,2023-03-17T01:11:12Z,3,05:00,15:00,9,4,13.0,Florida Panthers,FLA
+239,13,8,Florida Panthers,Montréal Canadiens,2022021081373,2022021081,Faceoff,373,FACEOFF,Eric Staal faceoff won against Nick Suzuki,2023-03-17T01:11:58Z,3,05:00,15:00,9,4,13.0,Florida Panthers,FLA
+240,13,8,Florida Panthers,Montréal Canadiens,2022021081375,2022021081,Giveaway,375,GIVEAWAY,Giveaway by Radko Gudas,2023-03-17T01:12:40Z,3,05:42,14:18,9,4,13.0,Florida Panthers,FLA
+241,13,8,Florida Panthers,Montréal Canadiens,2022021081655,2022021081,Goal,655,GOAL,"Rem Pitlick (5) Slap Shot, assists: Mike Matheson (16)",2023-03-17T01:12:45Z,3,05:47,14:13,9,5,8.0,Montréal Canadiens,MTL
+242,13,8,Florida Panthers,Montréal Canadiens,2022021081374,2022021081,Faceoff,374,FACEOFF,Alex Belzile faceoff won against Anton Lundell,2023-03-17T01:13:31Z,3,05:47,14:13,9,5,8.0,Montréal Canadiens,MTL
+243,13,8,Florida Panthers,Montréal Canadiens,2022021081482,2022021081,Stoppage,482,STOP,Offside,2023-03-17T01:13:40Z,3,05:56,14:04,9,5,,,
+244,13,8,Florida Panthers,Montréal Canadiens,2022021081376,2022021081,Faceoff,376,FACEOFF,Alex Belzile faceoff won against Anton Lundell,2023-03-17T01:14:04Z,3,05:56,14:04,9,5,8.0,Montréal Canadiens,MTL
+245,13,8,Florida Panthers,Montréal Canadiens,2022021081656,2022021081,Shot,656,SHOT,Sam Reinhart Tip-In saved by Sam Montembeault,2023-03-17T01:14:19Z,3,06:11,13:49,9,5,13.0,Florida Panthers,FLA
+246,13,8,Florida Panthers,Montréal Canadiens,2022021081483,2022021081,Stoppage,483,STOP,Icing,2023-03-17T01:14:56Z,3,06:47,13:13,9,5,,,
+247,13,8,Florida Panthers,Montréal Canadiens,2022021081377,2022021081,Faceoff,377,FACEOFF,Chris Tierney faceoff won against Eric Staal,2023-03-17T01:15:31Z,3,06:47,13:13,9,5,8.0,Montréal Canadiens,MTL
+248,13,8,Florida Panthers,Montréal Canadiens,2022021081484,2022021081,Stoppage,484,STOP,Referee or Linesman,2023-03-17T01:15:50Z,3,07:06,12:54,9,5,,,
+249,13,8,Florida Panthers,Montréal Canadiens,2022021081485,2022021081,Stoppage,485,STOP,TV timeout,2023-03-17T01:15:50Z,3,07:06,12:54,9,5,,,
+250,13,8,Florida Panthers,Montréal Canadiens,2022021081378,2022021081,Faceoff,378,FACEOFF,Jonathan Drouin faceoff won against Sam Bennett,2023-03-17T01:18:37Z,3,07:06,12:54,9,5,8.0,Montréal Canadiens,MTL
+251,13,8,Florida Panthers,Montréal Canadiens,2022021081486,2022021081,Stoppage,486,STOP,Goalie Stopped,2023-03-17T01:18:40Z,3,07:08,12:52,9,5,,,
+252,13,8,Florida Panthers,Montréal Canadiens,2022021081379,2022021081,Faceoff,379,FACEOFF,Jonathan Drouin faceoff won against Sam Bennett,2023-03-17T01:18:52Z,3,07:08,12:52,9,5,8.0,Montréal Canadiens,MTL
+253,13,8,Florida Panthers,Montréal Canadiens,2022021081487,2022021081,Stoppage,487,STOP,Puck in Benches,2023-03-17T01:19:13Z,3,07:29,12:31,9,5,,,
+254,13,8,Florida Panthers,Montréal Canadiens,2022021081380,2022021081,Faceoff,380,FACEOFF,Jonathan Drouin faceoff won against Sam Bennett,2023-03-17T01:19:37Z,3,07:29,12:31,9,5,8.0,Montréal Canadiens,MTL
+255,13,8,Florida Panthers,Montréal Canadiens,2022021081657,2022021081,Shot,657,SHOT,Mike Matheson Wrap-around saved by Sergei Bobrovsky,2023-03-17T01:19:46Z,3,07:38,12:22,9,5,8.0,Montréal Canadiens,MTL
+256,13,8,Florida Panthers,Montréal Canadiens,2022021081488,2022021081,Hit,488,HIT,Jesse Ylonen hit Eetu Luostarinen,2023-03-17T01:20:28Z,3,08:20,11:40,9,5,8.0,Montréal Canadiens,MTL
+257,13,8,Florida Panthers,Montréal Canadiens,2022021081658,2022021081,Shot,658,SHOT,Josh Mahura Snap Shot saved by Sam Montembeault,2023-03-17T01:21:10Z,3,09:02,10:58,9,5,13.0,Florida Panthers,FLA
+258,13,8,Florida Panthers,Montréal Canadiens,2022021081659,2022021081,Missed Shot,659,MISSED_SHOT,Anthony Richard Wide of Net Sergei Bobrovsky,2023-03-17T01:22:03Z,3,09:55,10:05,9,5,8.0,Montréal Canadiens,MTL
+259,13,8,Florida Panthers,Montréal Canadiens,2022021081660,2022021081,Missed Shot,660,MISSED_SHOT,Anthony Richard Wide of Net Sergei Bobrovsky,2023-03-17T01:22:13Z,3,10:03,09:57,9,5,8.0,Montréal Canadiens,MTL
+260,13,8,Florida Panthers,Montréal Canadiens,2022021081489,2022021081,Stoppage,489,STOP,Icing,2023-03-17T01:22:33Z,3,10:25,09:35,9,5,,,
+261,13,8,Florida Panthers,Montréal Canadiens,2022021081381,2022021081,Faceoff,381,FACEOFF,Chris Tierney faceoff won against Eric Staal,2023-03-17T01:23:06Z,3,10:25,09:35,9,5,8.0,Montréal Canadiens,MTL
+262,13,8,Florida Panthers,Montréal Canadiens,2022021081668,2022021081,Hit,668,HIT,Michael Pezzetta hit Eric Staal,2023-03-17T01:23:07Z,3,10:27,09:33,9,5,8.0,Montréal Canadiens,MTL
+263,13,8,Florida Panthers,Montréal Canadiens,2022021081382,2022021081,Shot,382,SHOT,Brandon Montour Snap Shot saved by Sam Montembeault,2023-03-17T01:23:23Z,3,10:42,09:18,9,5,13.0,Florida Panthers,FLA
+264,13,8,Florida Panthers,Montréal Canadiens,2022021081661,2022021081,Missed Shot,661,MISSED_SHOT,Denis Gurianov Wide of Net Sergei Bobrovsky,2023-03-17T01:24:02Z,3,11:21,08:39,9,5,8.0,Montréal Canadiens,MTL
+265,13,8,Florida Panthers,Montréal Canadiens,2022021081662,2022021081,Shot,662,SHOT,Denis Gurianov Backhand saved by Sergei Bobrovsky,2023-03-17T01:24:22Z,3,11:41,08:19,9,5,8.0,Montréal Canadiens,MTL
+266,13,8,Florida Panthers,Montréal Canadiens,2022021081490,2022021081,Stoppage,490,STOP,Goalie Stopped,2023-03-17T01:24:23Z,3,11:42,08:18,9,5,,,
+267,13,8,Florida Panthers,Montréal Canadiens,2022021081383,2022021081,Faceoff,383,FACEOFF,Nick Suzuki faceoff won against Aleksander Barkov,2023-03-17T01:26:33Z,3,11:42,08:18,9,5,8.0,Montréal Canadiens,MTL
+268,13,8,Florida Panthers,Montréal Canadiens,2022021081664,2022021081,Missed Shot,664,MISSED_SHOT,David Savard Wide of Net Sergei Bobrovsky,2023-03-17T01:26:36Z,3,11:45,08:15,9,5,8.0,Montréal Canadiens,MTL
+269,13,8,Florida Panthers,Montréal Canadiens,2022021081491,2022021081,Hit,491,HIT,Nick Suzuki hit Eetu Luostarinen,2023-03-17T01:26:43Z,3,11:52,08:08,9,5,8.0,Montréal Canadiens,MTL
+270,13,8,Florida Panthers,Montréal Canadiens,2022021081665,2022021081,Shot,665,SHOT,Aleksander Barkov Deflected saved by Sam Montembeault,2023-03-17T01:26:56Z,3,12:05,07:55,9,5,13.0,Florida Panthers,FLA
+271,13,8,Florida Panthers,Montréal Canadiens,2022021081492,2022021081,Stoppage,492,STOP,Goalie Stopped,2023-03-17T01:26:57Z,3,12:06,07:54,9,5,,,
+272,13,8,Florida Panthers,Montréal Canadiens,2022021081384,2022021081,Faceoff,384,FACEOFF,Colin White faceoff won against Nick Suzuki,2023-03-17T01:27:25Z,3,12:06,07:54,9,5,13.0,Florida Panthers,FLA
+273,13,8,Florida Panthers,Montréal Canadiens,2022021081493,2022021081,Hit,493,HIT,Colin White hit Nick Suzuki,2023-03-17T01:27:31Z,3,12:12,07:48,9,5,13.0,Florida Panthers,FLA
+274,13,8,Florida Panthers,Montréal Canadiens,2022021081494,2022021081,Hit,494,HIT,Colin White hit Jesse Ylonen,2023-03-17T01:27:41Z,3,12:22,07:38,9,5,13.0,Florida Panthers,FLA
+275,13,8,Florida Panthers,Montréal Canadiens,2022021081305,2022021081,Missed Shot,305,MISSED_SHOT,Colin White Wide of Net Sam Montembeault,2023-03-17T01:27:49Z,3,12:30,07:30,9,5,13.0,Florida Panthers,FLA
+276,13,8,Florida Panthers,Montréal Canadiens,2022021081667,2022021081,Shot,667,SHOT,Mike Hoffman Wrist Shot saved by Sergei Bobrovsky,2023-03-17T01:28:19Z,3,13:00,07:00,9,5,8.0,Montréal Canadiens,MTL
+277,13,8,Florida Panthers,Montréal Canadiens,2022021081495,2022021081,Hit,495,HIT,Josh Mahura hit Rem Pitlick,2023-03-17T01:28:30Z,3,13:11,06:49,9,5,13.0,Florida Panthers,FLA
+278,13,8,Florida Panthers,Montréal Canadiens,2022021081496,2022021081,Hit,496,HIT,Radko Gudas hit Mike Matheson,2023-03-17T01:28:49Z,3,13:30,06:30,9,5,13.0,Florida Panthers,FLA
+279,13,8,Florida Panthers,Montréal Canadiens,2022021081497,2022021081,Hit,497,HIT,Sam Reinhart hit Michael Pezzetta,2023-03-17T01:28:54Z,3,13:35,06:25,9,5,13.0,Florida Panthers,FLA
+280,13,8,Florida Panthers,Montréal Canadiens,2022021081498,2022021081,Stoppage,498,STOP,Icing,2023-03-17T01:29:32Z,3,14:13,05:47,9,5,,,
+281,13,8,Florida Panthers,Montréal Canadiens,2022021081385,2022021081,Faceoff,385,FACEOFF,Jonathan Drouin faceoff won against Sam Bennett,2023-03-17T01:29:57Z,3,14:13,05:47,9,5,8.0,Montréal Canadiens,MTL
+282,13,8,Florida Panthers,Montréal Canadiens,2022021081386,2022021081,Shot,386,SHOT,Joel Edmundson Slap Shot saved by Sergei Bobrovsky,2023-03-17T01:29:59Z,3,14:15,05:45,9,5,8.0,Montréal Canadiens,MTL
+283,13,8,Florida Panthers,Montréal Canadiens,2022021081499,2022021081,Stoppage,499,STOP,Puck in Crowd,2023-03-17T01:30:11Z,3,14:27,05:33,9,5,,,
+284,13,8,Florida Panthers,Montréal Canadiens,2022021081388,2022021081,Faceoff,388,FACEOFF,Jonathan Drouin faceoff won against Colin White,2023-03-17T01:32:20Z,3,14:27,05:33,9,5,8.0,Montréal Canadiens,MTL
+285,13,8,Florida Panthers,Montréal Canadiens,2022021081500,2022021081,Stoppage,500,STOP,Offside,2023-03-17T01:32:30Z,3,14:36,05:24,9,5,,,
+286,13,8,Florida Panthers,Montréal Canadiens,2022021081389,2022021081,Faceoff,389,FACEOFF,Jonathan Drouin faceoff won against Eric Staal,2023-03-17T01:32:48Z,3,14:36,05:24,9,5,8.0,Montréal Canadiens,MTL
+287,13,8,Florida Panthers,Montréal Canadiens,2022021081751,2022021081,Hit,751,HIT,Radko Gudas hit Josh Anderson,2023-03-17T01:33:15Z,3,15:03,04:57,9,5,13.0,Florida Panthers,FLA
+288,13,8,Florida Panthers,Montréal Canadiens,2022021081306,2022021081,Blocked Shot,306,BLOCKED_SHOT,Josh Anderson shot blocked shot by Radko Gudas,2023-03-17T01:33:18Z,3,15:07,04:53,9,5,13.0,Florida Panthers,FLA
+289,13,8,Florida Panthers,Montréal Canadiens,2022021081669,2022021081,Shot,669,SHOT,Aaron Ekblad Slap Shot saved by Sam Montembeault,2023-03-17T01:33:33Z,3,15:21,04:39,9,5,13.0,Florida Panthers,FLA
+290,13,8,Florida Panthers,Montréal Canadiens,2022021081752,2022021081,Hit,752,HIT,Michael Pezzetta hit Gustav Forsling,2023-03-17T01:33:51Z,3,15:39,04:21,9,5,8.0,Montréal Canadiens,MTL
+291,13,8,Florida Panthers,Montréal Canadiens,2022021081390,2022021081,Giveaway,390,GIVEAWAY,Giveaway by David Savard,2023-03-17T01:34:49Z,3,16:37,03:23,9,5,8.0,Montréal Canadiens,MTL
+292,13,8,Florida Panthers,Montréal Canadiens,2022021081670,2022021081,Shot,670,SHOT,Johnathan Kovacevic Wrist Shot saved by Sergei Bobrovsky,2023-03-17T01:35:20Z,3,17:08,02:52,9,5,8.0,Montréal Canadiens,MTL
+293,13,8,Florida Panthers,Montréal Canadiens,2022021081753,2022021081,Stoppage,753,STOP,Goalie Stopped,2023-03-17T01:35:21Z,3,17:09,02:51,9,5,,,
+294,13,8,Florida Panthers,Montréal Canadiens,2022021081754,2022021081,Penalty,754,PENALTY,Johnathan Kovacevic Misconduct,2023-03-17T01:35:21Z,3,17:09,02:51,9,5,8.0,Montréal Canadiens,MTL
+295,13,8,Florida Panthers,Montréal Canadiens,2022021081757,2022021081,Penalty,757,PENALTY,Nick Suzuki Game Misconduct against Anton Lundell,2023-03-17T01:35:21Z,3,17:09,02:51,9,5,8.0,Montréal Canadiens,MTL
+296,13,8,Florida Panthers,Montréal Canadiens,2022021081985,2022021081,Penalty,985,PENALTY,Nick Suzuki Cross-checking against Anton Lundell,2023-03-17T01:35:21Z,3,17:09,02:51,9,5,8.0,Montréal Canadiens,MTL
+297,13,8,Florida Panthers,Montréal Canadiens,2022021081391,2022021081,Faceoff,391,FACEOFF,Chris Tierney faceoff won against Colin White,2023-03-17T01:38:55Z,3,17:09,02:51,9,5,8.0,Montréal Canadiens,MTL
+298,13,8,Florida Panthers,Montréal Canadiens,2022021081672,2022021081,Shot,672,SHOT,Colin White Wrist Shot saved by Sam Montembeault,2023-03-17T01:39:27Z,3,17:41,02:19,9,5,13.0,Florida Panthers,FLA
+299,13,8,Florida Panthers,Montréal Canadiens,2022021081760,2022021081,Hit,760,HIT,David Savard hit Anton Lundell,2023-03-17T01:40:06Z,3,18:20,01:40,9,5,8.0,Montréal Canadiens,MTL
+300,13,8,Florida Panthers,Montréal Canadiens,2022021081761,2022021081,Hit,761,HIT,Marc Staal hit Kaiden Guhle,2023-03-17T01:40:22Z,3,18:36,01:24,9,5,13.0,Florida Panthers,FLA
+301,13,8,Florida Panthers,Montréal Canadiens,2022021081673,2022021081,Shot,673,SHOT,Michael Pezzetta Wrist Shot saved by Sergei Bobrovsky,2023-03-17T01:40:49Z,3,19:03,00:57,9,5,8.0,Montréal Canadiens,MTL
+302,13,8,Florida Panthers,Montréal Canadiens,2022021081674,2022021081,Shot,674,SHOT,Ryan Lomberg Wrist Shot saved by Sam Montembeault,2023-03-17T01:41:03Z,3,19:17,00:43,9,5,13.0,Florida Panthers,FLA
+303,13,8,Florida Panthers,Montréal Canadiens,2022021081762,2022021081,Stoppage,762,STOP,Goalie Stopped,2023-03-17T01:41:05Z,3,19:18,00:42,9,5,,,
+304,13,8,Florida Panthers,Montréal Canadiens,2022021081392,2022021081,Faceoff,392,FACEOFF,Eric Staal faceoff won against Alex Belzile,2023-03-17T01:41:30Z,3,19:18,00:42,9,5,13.0,Florida Panthers,FLA
+305,13,8,Florida Panthers,Montréal Canadiens,2022021081393,2022021081,Blocked Shot,393,BLOCKED_SHOT,Radko Gudas shot blocked shot by Alex Belzile,2023-03-17T01:41:36Z,3,19:24,00:36,9,5,8.0,Montréal Canadiens,MTL
+306,13,8,Florida Panthers,Montréal Canadiens,2022021081394,2022021081,Takeaway,394,TAKEAWAY,Takeaway by Rafael Harvey-Pinard,2023-03-17T01:42:02Z,3,19:50,00:10,9,5,8.0,Montréal Canadiens,MTL
+307,13,8,Florida Panthers,Montréal Canadiens,2022021081763,2022021081,Period End,763,PERIOD_END,End of 3rd Period,2023-03-17T01:42:12Z,3,20:00,00:00,9,5,,,
+308,13,8,Florida Panthers,Montréal Canadiens,2022021081766,2022021081,Period Official,766,PERIOD_OFFICIAL,Period Official,2023-03-17T01:42:15Z,3,20:00,00:00,9,5,,,
+309,13,8,Florida Panthers,Montréal Canadiens,2022021081767,2022021081,Game End,767,GAME_END,Game End,2023-03-17T01:42:19Z,3,20:00,00:00,9,5,,,
+310,13,8,Florida Panthers,Montréal Canadiens,20220210811142,2022021081,Game Official,1142,GAME_OFFICIAL,Game Official,2023-03-17T16:44:32Z,3,20:00,00:00,9,5,,,

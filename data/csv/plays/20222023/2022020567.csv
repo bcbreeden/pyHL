@@ -1,0 +1,315 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,2,29,New York Islanders,Columbus Blue Jackets,20220205671,2022020567,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-12-29T23:31:20Z,1,00:00,20:00,0,0,,,
+1,2,29,New York Islanders,Columbus Blue Jackets,20220205675,2022020567,Period Ready,5,PERIOD_READY,Period Ready,2022-12-30T00:35:48Z,1,00:00,20:00,0,0,,,
+2,2,29,New York Islanders,Columbus Blue Jackets,20220205678,2022020567,Period Start,8,PERIOD_START,Period Start,2022-12-30T00:38:04Z,1,00:00,20:00,0,0,,,
+3,2,29,New York Islanders,Columbus Blue Jackets,202202056751,2022020567,Faceoff,51,FACEOFF,Casey Cizikas faceoff won against Sean Kuraly,2022-12-30T00:38:04Z,1,00:00,20:00,0,0,2.0,New York Islanders,NYI
+4,2,29,New York Islanders,Columbus Blue Jackets,20220205679,2022020567,Hit,9,HIT,Tim Berni hit Matt Martin,2022-12-30T00:38:25Z,1,00:21,19:39,0,0,29.0,Columbus Blue Jackets,CBJ
+5,2,29,New York Islanders,Columbus Blue Jackets,2022020567151,2022020567,Blocked Shot,151,BLOCKED_SHOT,Matt Martin shot blocked shot by Eric Robinson,2022-12-30T00:38:29Z,1,00:25,19:35,0,0,29.0,Columbus Blue Jackets,CBJ
+6,2,29,New York Islanders,Columbus Blue Jackets,2022020567202,2022020567,Missed Shot,202,MISSED_SHOT,Zach Parise Wide of Net Joonas Korpisalo,2022-12-30T00:39:09Z,1,01:05,18:55,0,0,2.0,New York Islanders,NYI
+7,2,29,New York Islanders,Columbus Blue Jackets,2022020567152,2022020567,Missed Shot,152,MISSED_SHOT,Scott Mayfield Wide of Net Joonas Korpisalo,2022-12-30T00:39:14Z,1,01:10,18:50,0,0,2.0,New York Islanders,NYI
+8,2,29,New York Islanders,Columbus Blue Jackets,2022020567153,2022020567,Shot,153,SHOT,Zach Parise Wrist Shot saved by Joonas Korpisalo,2022-12-30T00:39:25Z,1,01:21,18:39,0,0,2.0,New York Islanders,NYI
+9,2,29,New York Islanders,Columbus Blue Jackets,202202056711,2022020567,Stoppage,11,STOP,Goalie Stopped,2022-12-30T00:39:27Z,1,01:23,18:37,0,0,,,
+10,2,29,New York Islanders,Columbus Blue Jackets,202202056752,2022020567,Faceoff,52,FACEOFF,Brock Nelson faceoff won against Jack Roslovic,2022-12-30T00:39:54Z,1,01:23,18:37,0,0,2.0,New York Islanders,NYI
+11,2,29,New York Islanders,Columbus Blue Jackets,2022020567154,2022020567,Blocked Shot,154,BLOCKED_SHOT,Brock Nelson shot blocked shot by Marcus Bjork,2022-12-30T00:39:56Z,1,01:25,18:35,0,0,29.0,Columbus Blue Jackets,CBJ
+12,2,29,New York Islanders,Columbus Blue Jackets,2022020567211,2022020567,Blocked Shot,211,BLOCKED_SHOT,Emil Bemstrom shot blocked shot by Sebastian Aho,2022-12-30T00:40:05Z,1,01:34,18:26,0,0,2.0,New York Islanders,NYI
+13,2,29,New York Islanders,Columbus Blue Jackets,2022020567155,2022020567,Shot,155,SHOT,Anthony Beauvillier Wrist Shot saved by Joonas Korpisalo,2022-12-30T00:40:30Z,1,01:59,18:01,0,0,2.0,New York Islanders,NYI
+14,2,29,New York Islanders,Columbus Blue Jackets,202202056713,2022020567,Stoppage,13,STOP,Goalie Stopped,2022-12-30T00:40:31Z,1,02:00,18:00,0,0,,,
+15,2,29,New York Islanders,Columbus Blue Jackets,202202056753,2022020567,Faceoff,53,FACEOFF,Sean Kuraly faceoff won against Mathew Barzal,2022-12-30T00:41:00Z,1,02:00,18:00,0,0,29.0,Columbus Blue Jackets,CBJ
+16,2,29,New York Islanders,Columbus Blue Jackets,2022020567156,2022020567,Missed Shot,156,MISSED_SHOT,Kirill Marchenko Wide of Net Ilya Sorokin,2022-12-30T00:41:13Z,1,02:13,17:47,0,0,29.0,Columbus Blue Jackets,CBJ
+17,2,29,New York Islanders,Columbus Blue Jackets,202202056714,2022020567,Stoppage,14,STOP,Goalie Stopped,2022-12-30T00:41:27Z,1,02:27,17:33,0,0,,,
+18,2,29,New York Islanders,Columbus Blue Jackets,2022020567157,2022020567,Shot,157,SHOT,Kirill Marchenko Wrist Shot saved by Ilya Sorokin,2022-12-30T00:41:27Z,1,02:27,17:33,0,0,29.0,Columbus Blue Jackets,CBJ
+19,2,29,New York Islanders,Columbus Blue Jackets,202202056754,2022020567,Faceoff,54,FACEOFF,Cole Sillinger faceoff won against Brock Nelson,2022-12-30T00:41:57Z,1,02:27,17:33,0,0,29.0,Columbus Blue Jackets,CBJ
+20,2,29,New York Islanders,Columbus Blue Jackets,2022020567158,2022020567,Blocked Shot,158,BLOCKED_SHOT,Carson Meyer shot blocked shot by Anthony Beauvillier,2022-12-30T00:41:58Z,1,02:28,17:32,0,0,2.0,New York Islanders,NYI
+21,2,29,New York Islanders,Columbus Blue Jackets,2022020567159,2022020567,Shot,159,SHOT,Brock Nelson Wrist Shot saved by Joonas Korpisalo,2022-12-30T00:42:10Z,1,02:40,17:20,0,0,2.0,New York Islanders,NYI
+22,2,29,New York Islanders,Columbus Blue Jackets,202202056715,2022020567,Stoppage,15,STOP,Icing,2022-12-30T00:42:29Z,1,02:59,17:01,0,0,,,
+23,2,29,New York Islanders,Columbus Blue Jackets,202202056755,2022020567,Faceoff,55,FACEOFF,Brock Nelson faceoff won against Jack Roslovic,2022-12-30T00:43:01Z,1,02:59,17:01,0,0,2.0,New York Islanders,NYI
+24,2,29,New York Islanders,Columbus Blue Jackets,2022020567160,2022020567,Missed Shot,160,MISSED_SHOT,Scott Mayfield Wide of Net Joonas Korpisalo,2022-12-30T00:43:30Z,1,03:28,16:32,0,0,2.0,New York Islanders,NYI
+25,2,29,New York Islanders,Columbus Blue Jackets,202202056716,2022020567,Stoppage,16,STOP,Goalie Stopped,2022-12-30T00:43:41Z,1,03:38,16:22,0,0,,,
+26,2,29,New York Islanders,Columbus Blue Jackets,2022020567161,2022020567,Shot,161,SHOT,Scott Mayfield Wrist Shot saved by Joonas Korpisalo,2022-12-30T00:43:41Z,1,03:38,16:22,0,0,2.0,New York Islanders,NYI
+27,2,29,New York Islanders,Columbus Blue Jackets,202202056756,2022020567,Faceoff,56,FACEOFF,Aatu Raty faceoff won against Sean Kuraly,2022-12-30T00:44:05Z,1,03:38,16:22,0,0,2.0,New York Islanders,NYI
+28,2,29,New York Islanders,Columbus Blue Jackets,202202056717,2022020567,Hit,17,HIT,Sean Kuraly hit Aatu Raty,2022-12-30T00:44:19Z,1,03:52,16:08,0,0,29.0,Columbus Blue Jackets,CBJ
+29,2,29,New York Islanders,Columbus Blue Jackets,202202056718,2022020567,Hit,18,HIT,Mathieu Olivier hit Aatu Raty,2022-12-30T00:44:34Z,1,04:07,15:53,0,0,29.0,Columbus Blue Jackets,CBJ
+30,2,29,New York Islanders,Columbus Blue Jackets,202202056719,2022020567,Hit,19,HIT,Marcus Bjork hit Matt Martin,2022-12-30T00:44:45Z,1,04:18,15:42,0,0,29.0,Columbus Blue Jackets,CBJ
+31,2,29,New York Islanders,Columbus Blue Jackets,202202056757,2022020567,Takeaway,57,TAKEAWAY,Takeaway by Sean Kuraly,2022-12-30T00:44:56Z,1,04:29,15:31,0,0,29.0,Columbus Blue Jackets,CBJ
+32,2,29,New York Islanders,Columbus Blue Jackets,202202056720,2022020567,Hit,20,HIT,Andrew Peeke hit Mathew Barzal,2022-12-30T00:45:07Z,1,04:40,15:20,0,0,29.0,Columbus Blue Jackets,CBJ
+33,2,29,New York Islanders,Columbus Blue Jackets,202202056721,2022020567,Hit,21,HIT,Andrew Peeke hit Mathew Barzal,2022-12-30T00:45:14Z,1,04:47,15:13,0,0,29.0,Columbus Blue Jackets,CBJ
+34,2,29,New York Islanders,Columbus Blue Jackets,2022020567162,2022020567,Shot,162,SHOT,Tim Berni Snap Shot saved by Ilya Sorokin,2022-12-30T00:45:46Z,1,05:19,14:41,0,0,29.0,Columbus Blue Jackets,CBJ
+35,2,29,New York Islanders,Columbus Blue Jackets,202202056722,2022020567,Hit,22,HIT,Scott Mayfield hit Tim Berni,2022-12-30T00:46:06Z,1,05:39,14:21,0,0,2.0,New York Islanders,NYI
+36,2,29,New York Islanders,Columbus Blue Jackets,202202056723,2022020567,Stoppage,23,STOP,Offside,2022-12-30T00:46:18Z,1,05:51,14:09,0,0,,,
+37,2,29,New York Islanders,Columbus Blue Jackets,202202056758,2022020567,Faceoff,58,FACEOFF,Cole Sillinger faceoff won against Mathew Barzal,2022-12-30T00:46:44Z,1,05:51,14:09,0,0,29.0,Columbus Blue Jackets,CBJ
+38,2,29,New York Islanders,Columbus Blue Jackets,202202056724,2022020567,Hit,24,HIT,Alexander Romanov hit Liam Foudy,2022-12-30T00:47:16Z,1,06:23,13:37,0,0,2.0,New York Islanders,NYI
+39,2,29,New York Islanders,Columbus Blue Jackets,202202056759,2022020567,Takeaway,59,TAKEAWAY,Takeaway by Liam Foudy,2022-12-30T00:47:18Z,1,06:25,13:35,0,0,29.0,Columbus Blue Jackets,CBJ
+40,2,29,New York Islanders,Columbus Blue Jackets,2022020567163,2022020567,Blocked Shot,163,BLOCKED_SHOT,Cole Sillinger shot blocked shot by Mathew Barzal,2022-12-30T00:47:24Z,1,06:31,13:29,0,0,2.0,New York Islanders,NYI
+41,2,29,New York Islanders,Columbus Blue Jackets,202202056760,2022020567,Giveaway,60,GIVEAWAY,Giveaway by Josh Bailey,2022-12-30T00:47:26Z,1,06:33,13:27,0,0,2.0,New York Islanders,NYI
+42,2,29,New York Islanders,Columbus Blue Jackets,202202056761,2022020567,Giveaway,61,GIVEAWAY,Giveaway by Andrew Peeke,2022-12-30T00:47:47Z,1,06:54,13:06,0,0,29.0,Columbus Blue Jackets,CBJ
+43,2,29,New York Islanders,Columbus Blue Jackets,2022020567164,2022020567,Shot,164,SHOT,Sebastian Aho Wrist Shot saved by Joonas Korpisalo,2022-12-30T00:47:57Z,1,07:04,12:56,0,0,2.0,New York Islanders,NYI
+44,2,29,New York Islanders,Columbus Blue Jackets,2022020567255,2022020567,Penalty,255,PENALTY,Andrew Peeke Interference against Casey Cizikas,2022-12-30T00:48:00Z,1,07:06,12:54,0,0,29.0,Columbus Blue Jackets,CBJ
+45,2,29,New York Islanders,Columbus Blue Jackets,202202056762,2022020567,Faceoff,62,FACEOFF,Jean-Gabriel Pageau faceoff won against Sean Kuraly,2022-12-30T00:50:22Z,1,07:06,12:54,0,0,2.0,New York Islanders,NYI
+46,2,29,New York Islanders,Columbus Blue Jackets,2022020567165,2022020567,Blocked Shot,165,BLOCKED_SHOT,Noah Dobson shot blocked shot by Eric Robinson,2022-12-30T00:50:33Z,1,07:17,12:43,0,0,29.0,Columbus Blue Jackets,CBJ
+47,2,29,New York Islanders,Columbus Blue Jackets,202202056763,2022020567,Takeaway,63,TAKEAWAY,Takeaway by Sean Kuraly,2022-12-30T00:50:42Z,1,07:26,12:34,0,0,29.0,Columbus Blue Jackets,CBJ
+48,2,29,New York Islanders,Columbus Blue Jackets,2022020567166,2022020567,Missed Shot,166,MISSED_SHOT,Eric Robinson Wide of Net Ilya Sorokin,2022-12-30T00:50:44Z,1,07:28,12:32,0,0,29.0,Columbus Blue Jackets,CBJ
+49,2,29,New York Islanders,Columbus Blue Jackets,202202056764,2022020567,Giveaway,64,GIVEAWAY,Giveaway by Sean Kuraly,2022-12-30T00:50:51Z,1,07:35,12:25,0,0,29.0,Columbus Blue Jackets,CBJ
+50,2,29,New York Islanders,Columbus Blue Jackets,202202056765,2022020567,Giveaway,65,GIVEAWAY,Giveaway by Brock Nelson,2022-12-30T00:51:26Z,1,08:10,11:50,0,0,2.0,New York Islanders,NYI
+51,2,29,New York Islanders,Columbus Blue Jackets,202202056725,2022020567,Hit,25,HIT,Erik Gudbranson hit Brock Nelson,2022-12-30T00:51:27Z,1,08:11,11:49,0,0,29.0,Columbus Blue Jackets,CBJ
+52,2,29,New York Islanders,Columbus Blue Jackets,2022020567167,2022020567,Shot,167,SHOT,Anthony Beauvillier Tip-In saved by Joonas Korpisalo,2022-12-30T00:51:47Z,1,08:31,11:29,0,0,2.0,New York Islanders,NYI
+53,2,29,New York Islanders,Columbus Blue Jackets,202202056726,2022020567,Blocked Shot,26,BLOCKED_SHOT,Anders Lee shot blocked shot by Vladislav Gavrikov,2022-12-30T00:51:48Z,1,08:32,11:28,0,0,29.0,Columbus Blue Jackets,CBJ
+54,2,29,New York Islanders,Columbus Blue Jackets,202202056727,2022020567,Stoppage,27,STOP,Puck in Benches,2022-12-30T00:52:15Z,1,09:00,11:00,0,0,,,
+55,2,29,New York Islanders,Columbus Blue Jackets,202202056766,2022020567,Faceoff,66,FACEOFF,Sean Kuraly faceoff won against Casey Cizikas,2022-12-30T00:52:47Z,1,09:00,11:00,0,0,29.0,Columbus Blue Jackets,CBJ
+56,2,29,New York Islanders,Columbus Blue Jackets,202202056728,2022020567,Stoppage,28,STOP,Icing,2022-12-30T00:53:15Z,1,09:28,10:32,0,0,,,
+57,2,29,New York Islanders,Columbus Blue Jackets,202202056768,2022020567,Faceoff,68,FACEOFF,Casey Cizikas faceoff won against Jack Roslovic,2022-12-30T00:53:42Z,1,09:28,10:32,0,0,2.0,New York Islanders,NYI
+58,2,29,New York Islanders,Columbus Blue Jackets,202202056729,2022020567,Stoppage,29,STOP,Icing,2022-12-30T00:54:06Z,1,09:53,10:07,0,0,,,
+59,2,29,New York Islanders,Columbus Blue Jackets,202202056730,2022020567,Penalty,30,PENALTY,Too many men/ice served by Hudson Fasching,2022-12-30T00:54:06Z,1,09:53,10:07,0,0,2.0,New York Islanders,NYI
+60,2,29,New York Islanders,Columbus Blue Jackets,202202056770,2022020567,Faceoff,70,FACEOFF,Jean-Gabriel Pageau faceoff won against Jack Roslovic,2022-12-30T00:55:11Z,1,09:53,10:07,0,0,2.0,New York Islanders,NYI
+61,2,29,New York Islanders,Columbus Blue Jackets,2022020567169,2022020567,Takeaway,169,TAKEAWAY,Takeaway by Johnny Gaudreau,2022-12-30T00:55:20Z,1,10:02,09:58,0,0,29.0,Columbus Blue Jackets,CBJ
+62,2,29,New York Islanders,Columbus Blue Jackets,2022020567170,2022020567,Shot,170,SHOT,Adam Boqvist Wrist Shot saved by Ilya Sorokin,2022-12-30T00:55:46Z,1,10:28,09:32,0,0,29.0,Columbus Blue Jackets,CBJ
+63,2,29,New York Islanders,Columbus Blue Jackets,2022020567171,2022020567,Shot,171,SHOT,Emil Bemstrom Wrist Shot saved by Ilya Sorokin,2022-12-30T00:56:23Z,1,11:05,08:55,0,0,29.0,Columbus Blue Jackets,CBJ
+64,2,29,New York Islanders,Columbus Blue Jackets,202202056733,2022020567,Stoppage,33,STOP,Goalie Stopped,2022-12-30T00:56:24Z,1,11:06,08:54,0,0,,,
+65,2,29,New York Islanders,Columbus Blue Jackets,202202056771,2022020567,Faceoff,71,FACEOFF,Cole Sillinger faceoff won against Jean-Gabriel Pageau,2022-12-30T00:56:55Z,1,11:06,08:54,0,0,29.0,Columbus Blue Jackets,CBJ
+66,2,29,New York Islanders,Columbus Blue Jackets,2022020567172,2022020567,Blocked Shot,172,BLOCKED_SHOT,Kirill Marchenko shot blocked shot by Parker Wotherspoon,2022-12-30T00:57:21Z,1,11:32,08:28,0,0,2.0,New York Islanders,NYI
+67,2,29,New York Islanders,Columbus Blue Jackets,2022020567173,2022020567,Shot,173,SHOT,Cole Sillinger Wrist Shot saved by Ilya Sorokin,2022-12-30T00:57:43Z,1,11:54,08:06,0,0,29.0,Columbus Blue Jackets,CBJ
+68,2,29,New York Islanders,Columbus Blue Jackets,2022020567174,2022020567,Missed Shot,174,MISSED_SHOT,Brock Nelson Wide of Net Joonas Korpisalo,2022-12-30T00:58:00Z,1,12:11,07:49,0,0,2.0,New York Islanders,NYI
+69,2,29,New York Islanders,Columbus Blue Jackets,202202056734,2022020567,Stoppage,34,STOP,Goalie Stopped,2022-12-30T00:58:11Z,1,12:22,07:38,0,0,,,
+70,2,29,New York Islanders,Columbus Blue Jackets,2022020567175,2022020567,Shot,175,SHOT,Noah Dobson Wrist Shot saved by Joonas Korpisalo,2022-12-30T00:58:11Z,1,12:22,07:38,0,0,2.0,New York Islanders,NYI
+71,2,29,New York Islanders,Columbus Blue Jackets,202202056772,2022020567,Faceoff,72,FACEOFF,Aatu Raty faceoff won against Sean Kuraly,2022-12-30T01:00:25Z,1,12:22,07:38,0,0,2.0,New York Islanders,NYI
+72,2,29,New York Islanders,Columbus Blue Jackets,202202056735,2022020567,Stoppage,35,STOP,Icing,2022-12-30T01:00:38Z,1,12:34,07:26,0,0,,,
+73,2,29,New York Islanders,Columbus Blue Jackets,202202056773,2022020567,Faceoff,73,FACEOFF,Jack Roslovic faceoff won against Aatu Raty,2022-12-30T01:01:03Z,1,12:34,07:26,0,0,29.0,Columbus Blue Jackets,CBJ
+74,2,29,New York Islanders,Columbus Blue Jackets,202202056774,2022020567,Giveaway,74,GIVEAWAY,Giveaway by Sebastian Aho,2022-12-30T01:01:53Z,1,13:24,06:36,0,0,2.0,New York Islanders,NYI
+75,2,29,New York Islanders,Columbus Blue Jackets,202202056736,2022020567,Hit,36,HIT,Casey Cizikas hit Emil Bemstrom,2022-12-30T01:01:56Z,1,13:27,06:33,0,0,2.0,New York Islanders,NYI
+76,2,29,New York Islanders,Columbus Blue Jackets,202202056737,2022020567,Stoppage,37,STOP,Puck in Benches,2022-12-30T01:02:04Z,1,13:34,06:26,0,0,,,
+77,2,29,New York Islanders,Columbus Blue Jackets,202202056775,2022020567,Faceoff,75,FACEOFF,Brock Nelson faceoff won against Kent Johnson,2022-12-30T01:02:40Z,1,13:34,06:26,0,0,2.0,New York Islanders,NYI
+78,2,29,New York Islanders,Columbus Blue Jackets,2022020567176,2022020567,Shot,176,SHOT,Brock Nelson Wrist Shot saved by Joonas Korpisalo,2022-12-30T01:02:51Z,1,13:45,06:15,0,0,2.0,New York Islanders,NYI
+79,2,29,New York Islanders,Columbus Blue Jackets,202202056738,2022020567,Missed Shot,38,MISSED_SHOT,Anders Lee Wide of Net Joonas Korpisalo,2022-12-30T01:02:52Z,1,13:46,06:14,0,0,2.0,New York Islanders,NYI
+80,2,29,New York Islanders,Columbus Blue Jackets,202202056739,2022020567,Stoppage,39,STOP,Icing,2022-12-30T01:03:02Z,1,13:57,06:03,0,0,,,
+81,2,29,New York Islanders,Columbus Blue Jackets,202202056776,2022020567,Faceoff,76,FACEOFF,Josh Bailey faceoff won against Kent Johnson,2022-12-30T01:03:27Z,1,13:57,06:03,0,0,2.0,New York Islanders,NYI
+82,2,29,New York Islanders,Columbus Blue Jackets,202202056777,2022020567,Takeaway,77,TAKEAWAY,Takeaway by Kirill Marchenko,2022-12-30T01:03:34Z,1,14:04,05:56,0,0,29.0,Columbus Blue Jackets,CBJ
+83,2,29,New York Islanders,Columbus Blue Jackets,2022020567177,2022020567,Missed Shot,177,MISSED_SHOT,Kirill Marchenko Wide of Net Ilya Sorokin,2022-12-30T01:03:35Z,1,14:05,05:55,0,0,29.0,Columbus Blue Jackets,CBJ
+84,2,29,New York Islanders,Columbus Blue Jackets,202202056740,2022020567,Stoppage,40,STOP,Goalie Stopped,2022-12-30T01:04:02Z,1,14:32,05:28,0,0,,,
+85,2,29,New York Islanders,Columbus Blue Jackets,2022020567178,2022020567,Shot,178,SHOT,Alexander Romanov Slap Shot saved by Joonas Korpisalo,2022-12-30T01:04:02Z,1,14:32,05:28,0,0,2.0,New York Islanders,NYI
+86,2,29,New York Islanders,Columbus Blue Jackets,202202056778,2022020567,Faceoff,78,FACEOFF,Sean Kuraly faceoff won against Aatu Raty,2022-12-30T01:06:16Z,1,14:32,05:28,0,0,29.0,Columbus Blue Jackets,CBJ
+87,2,29,New York Islanders,Columbus Blue Jackets,202202056741,2022020567,Penalty,41,PENALTY,Sean Kuraly Interference against Matt Martin,2022-12-30T01:06:49Z,1,15:05,04:55,0,0,29.0,Columbus Blue Jackets,CBJ
+88,2,29,New York Islanders,Columbus Blue Jackets,202202056779,2022020567,Faceoff,79,FACEOFF,Jean-Gabriel Pageau faceoff won against Cole Sillinger,2022-12-30T01:07:37Z,1,15:05,04:55,0,0,2.0,New York Islanders,NYI
+89,2,29,New York Islanders,Columbus Blue Jackets,2022020567179,2022020567,Blocked Shot,179,BLOCKED_SHOT,Noah Dobson shot blocked shot by Cole Sillinger,2022-12-30T01:07:59Z,1,15:27,04:33,0,0,29.0,Columbus Blue Jackets,CBJ
+90,2,29,New York Islanders,Columbus Blue Jackets,2022020567180,2022020567,Shot,180,SHOT,Gustav Nyquist Wrist Shot saved by Ilya Sorokin,2022-12-30T01:08:07Z,1,15:35,04:25,0,0,29.0,Columbus Blue Jackets,CBJ
+91,2,29,New York Islanders,Columbus Blue Jackets,202202056780,2022020567,Giveaway,80,GIVEAWAY,Giveaway by Mathew Barzal,2022-12-30T01:08:18Z,1,15:46,04:14,0,0,2.0,New York Islanders,NYI
+92,2,29,New York Islanders,Columbus Blue Jackets,202202056744,2022020567,Stoppage,44,STOP,Puck in Benches,2022-12-30T01:08:35Z,1,16:03,03:57,0,0,,,
+93,2,29,New York Islanders,Columbus Blue Jackets,202202056781,2022020567,Faceoff,81,FACEOFF,Aatu Raty faceoff won against Mathieu Olivier,2022-12-30T01:08:53Z,1,16:03,03:57,0,0,2.0,New York Islanders,NYI
+94,2,29,New York Islanders,Columbus Blue Jackets,202202056782,2022020567,Giveaway,82,GIVEAWAY,Giveaway by Josh Bailey,2022-12-30T01:09:10Z,1,16:20,03:40,0,0,2.0,New York Islanders,NYI
+95,2,29,New York Islanders,Columbus Blue Jackets,2022020567181,2022020567,Missed Shot,181,MISSED_SHOT,Aatu Raty Over Net Joonas Korpisalo,2022-12-30T01:09:16Z,1,16:26,03:34,0,0,2.0,New York Islanders,NYI
+96,2,29,New York Islanders,Columbus Blue Jackets,202202056745,2022020567,Stoppage,45,STOP,Goalie Stopped,2022-12-30T01:09:31Z,1,16:42,03:18,0,0,,,
+97,2,29,New York Islanders,Columbus Blue Jackets,2022020567182,2022020567,Shot,182,SHOT,Aatu Raty Wrist Shot saved by Joonas Korpisalo,2022-12-30T01:09:31Z,1,16:42,03:18,0,0,2.0,New York Islanders,NYI
+98,2,29,New York Islanders,Columbus Blue Jackets,202202056783,2022020567,Faceoff,83,FACEOFF,Aatu Raty faceoff won against Cole Sillinger,2022-12-30T01:09:51Z,1,16:42,03:18,0,0,2.0,New York Islanders,NYI
+99,2,29,New York Islanders,Columbus Blue Jackets,202202056746,2022020567,Hit,46,HIT,Casey Cizikas hit Andrew Peeke,2022-12-30T01:10:42Z,1,17:33,02:27,0,0,2.0,New York Islanders,NYI
+100,2,29,New York Islanders,Columbus Blue Jackets,202202056784,2022020567,Giveaway,84,GIVEAWAY,Giveaway by Marcus Bjork,2022-12-30T01:11:02Z,1,17:53,02:07,0,0,29.0,Columbus Blue Jackets,CBJ
+101,2,29,New York Islanders,Columbus Blue Jackets,2022020567183,2022020567,Shot,183,SHOT,Alexander Romanov Wrist Shot saved by Joonas Korpisalo,2022-12-30T01:11:04Z,1,17:55,02:05,0,0,2.0,New York Islanders,NYI
+102,2,29,New York Islanders,Columbus Blue Jackets,202202056785,2022020567,Takeaway,85,TAKEAWAY,Takeaway by Alexander Romanov,2022-12-30T01:11:38Z,1,18:29,01:31,0,0,2.0,New York Islanders,NYI
+103,2,29,New York Islanders,Columbus Blue Jackets,202202056747,2022020567,Hit,47,HIT,Jean-Gabriel Pageau hit Tim Berni,2022-12-30T01:11:52Z,1,18:43,01:17,0,0,2.0,New York Islanders,NYI
+104,2,29,New York Islanders,Columbus Blue Jackets,2022020567184,2022020567,Shot,184,SHOT,Casey Cizikas Wrist Shot saved by Joonas Korpisalo,2022-12-30T01:11:53Z,1,18:44,01:16,0,0,2.0,New York Islanders,NYI
+105,2,29,New York Islanders,Columbus Blue Jackets,202202056748,2022020567,Stoppage,48,STOP,Puck in Netting,2022-12-30T01:11:55Z,1,18:46,01:14,0,0,,,
+106,2,29,New York Islanders,Columbus Blue Jackets,202202056786,2022020567,Faceoff,86,FACEOFF,Casey Cizikas faceoff won against Sean Kuraly,2022-12-30T01:12:24Z,1,18:46,01:14,0,0,2.0,New York Islanders,NYI
+107,2,29,New York Islanders,Columbus Blue Jackets,2022020567301,2022020567,Shot,301,SHOT,Mathieu Olivier Wrist Shot saved by Ilya Sorokin,2022-12-30T01:12:36Z,1,18:58,01:02,0,0,29.0,Columbus Blue Jackets,CBJ
+108,2,29,New York Islanders,Columbus Blue Jackets,202202056749,2022020567,Stoppage,49,STOP,Goalie Stopped,2022-12-30T01:12:37Z,1,19:00,01:00,0,0,,,
+109,2,29,New York Islanders,Columbus Blue Jackets,202202056787,2022020567,Faceoff,87,FACEOFF,Cole Sillinger faceoff won against Casey Cizikas,2022-12-30T01:13:06Z,1,19:00,01:00,0,0,29.0,Columbus Blue Jackets,CBJ
+110,2,29,New York Islanders,Columbus Blue Jackets,202202056750,2022020567,Stoppage,50,STOP,Puck in Netting,2022-12-30T01:13:10Z,1,19:03,00:57,0,0,,,
+111,2,29,New York Islanders,Columbus Blue Jackets,202202056788,2022020567,Faceoff,88,FACEOFF,Casey Cizikas faceoff won against Cole Sillinger,2022-12-30T01:13:28Z,1,19:03,00:57,0,0,2.0,New York Islanders,NYI
+112,2,29,New York Islanders,Columbus Blue Jackets,2022020567305,2022020567,Stoppage,305,STOP,Hand Pass,2022-12-30T01:13:35Z,1,19:10,00:50,0,0,,,
+113,2,29,New York Islanders,Columbus Blue Jackets,202202056789,2022020567,Faceoff,89,FACEOFF,Cole Sillinger faceoff won against Brock Nelson,2022-12-30T01:13:57Z,1,19:10,00:50,0,0,29.0,Columbus Blue Jackets,CBJ
+114,2,29,New York Islanders,Columbus Blue Jackets,2022020567186,2022020567,Shot,186,SHOT,Hudson Fasching Backhand saved by Joonas Korpisalo,2022-12-30T01:14:30Z,1,19:44,00:16,0,0,2.0,New York Islanders,NYI
+115,2,29,New York Islanders,Columbus Blue Jackets,2022020567302,2022020567,Period End,302,PERIOD_END,End of 1st Period,2022-12-30T01:14:46Z,1,20:00,00:00,0,0,,,
+116,2,29,New York Islanders,Columbus Blue Jackets,2022020567306,2022020567,Period Official,306,PERIOD_OFFICIAL,Period Official,2022-12-30T01:31:19Z,1,20:00,00:00,0,0,,,
+117,2,29,New York Islanders,Columbus Blue Jackets,2022020567307,2022020567,Period Ready,307,PERIOD_READY,Period Ready,2022-12-30T01:31:24Z,2,00:00,20:00,0,0,,,
+118,2,29,New York Islanders,Columbus Blue Jackets,202202056790,2022020567,Period Start,90,PERIOD_START,Period Start,2022-12-30T01:33:32Z,2,00:00,20:00,0,0,,,
+119,2,29,New York Islanders,Columbus Blue Jackets,202202056791,2022020567,Faceoff,91,FACEOFF,Casey Cizikas faceoff won against Sean Kuraly,2022-12-30T01:33:32Z,2,00:00,20:00,0,0,2.0,New York Islanders,NYI
+120,2,29,New York Islanders,Columbus Blue Jackets,2022020567308,2022020567,Hit,308,HIT,Mathieu Olivier hit Parker Wotherspoon,2022-12-30T01:33:40Z,2,00:08,19:52,0,0,29.0,Columbus Blue Jackets,CBJ
+121,2,29,New York Islanders,Columbus Blue Jackets,2022020567187,2022020567,Shot,187,SHOT,Matt Martin Wrist Shot saved by Joonas Korpisalo,2022-12-30T01:33:46Z,2,00:14,19:46,0,0,2.0,New York Islanders,NYI
+122,2,29,New York Islanders,Columbus Blue Jackets,2022020567188,2022020567,Shot,188,SHOT,Casey Cizikas Wrist Shot saved by Joonas Korpisalo,2022-12-30T01:34:05Z,2,00:33,19:27,0,0,2.0,New York Islanders,NYI
+123,2,29,New York Islanders,Columbus Blue Jackets,2022020567189,2022020567,Blocked Shot,189,BLOCKED_SHOT,Brock Nelson shot blocked shot by Emil Bemstrom,2022-12-30T01:34:20Z,2,00:48,19:12,0,0,29.0,Columbus Blue Jackets,CBJ
+124,2,29,New York Islanders,Columbus Blue Jackets,2022020567190,2022020567,Shot,190,SHOT,Sebastian Aho Slap Shot saved by Joonas Korpisalo,2022-12-30T01:34:44Z,2,01:12,18:48,0,0,2.0,New York Islanders,NYI
+125,2,29,New York Islanders,Columbus Blue Jackets,2022020567191,2022020567,Shot,191,SHOT,Brock Nelson Tip-In saved by Joonas Korpisalo,2022-12-30T01:34:53Z,2,01:21,18:39,0,0,2.0,New York Islanders,NYI
+126,2,29,New York Islanders,Columbus Blue Jackets,2022020567309,2022020567,Stoppage,309,STOP,Goalie Stopped,2022-12-30T01:34:55Z,2,01:23,18:37,0,0,,,
+127,2,29,New York Islanders,Columbus Blue Jackets,202202056792,2022020567,Faceoff,92,FACEOFF,Cole Sillinger faceoff won against Mathew Barzal,2022-12-30T01:35:25Z,2,01:23,18:37,0,0,29.0,Columbus Blue Jackets,CBJ
+128,2,29,New York Islanders,Columbus Blue Jackets,2022020567192,2022020567,Shot,192,SHOT,Alexander Romanov Slap Shot saved by Joonas Korpisalo,2022-12-30T01:35:34Z,2,01:32,18:28,0,0,2.0,New York Islanders,NYI
+129,2,29,New York Islanders,Columbus Blue Jackets,2022020567310,2022020567,Stoppage,310,STOP,Goalie Stopped,2022-12-30T01:35:35Z,2,01:34,18:26,0,0,,,
+130,2,29,New York Islanders,Columbus Blue Jackets,202202056793,2022020567,Faceoff,93,FACEOFF,Josh Bailey faceoff won against Gustav Nyquist,2022-12-30T01:36:05Z,2,01:34,18:26,0,0,2.0,New York Islanders,NYI
+131,2,29,New York Islanders,Columbus Blue Jackets,2022020567193,2022020567,Shot,193,SHOT,Gustav Nyquist Wrist Shot saved by Ilya Sorokin,2022-12-30T01:36:16Z,2,01:45,18:15,0,0,29.0,Columbus Blue Jackets,CBJ
+132,2,29,New York Islanders,Columbus Blue Jackets,2022020567311,2022020567,Stoppage,311,STOP,Goalie Stopped,2022-12-30T01:36:18Z,2,01:47,18:13,0,0,,,
+133,2,29,New York Islanders,Columbus Blue Jackets,202202056794,2022020567,Faceoff,94,FACEOFF,Kent Johnson faceoff won against Jean-Gabriel Pageau,2022-12-30T01:36:50Z,2,01:47,18:13,0,0,29.0,Columbus Blue Jackets,CBJ
+134,2,29,New York Islanders,Columbus Blue Jackets,202202056795,2022020567,Giveaway,95,GIVEAWAY,Giveaway by Casey Cizikas,2022-12-30T01:37:03Z,2,02:00,18:00,0,0,2.0,New York Islanders,NYI
+135,2,29,New York Islanders,Columbus Blue Jackets,202202056796,2022020567,Takeaway,96,TAKEAWAY,Takeaway by Kirill Marchenko,2022-12-30T01:37:27Z,2,02:24,17:36,0,0,29.0,Columbus Blue Jackets,CBJ
+136,2,29,New York Islanders,Columbus Blue Jackets,2022020567194,2022020567,Blocked Shot,194,BLOCKED_SHOT,Ryan Pulock shot blocked shot by Cole Sillinger,2022-12-30T01:37:50Z,2,02:47,17:13,0,0,29.0,Columbus Blue Jackets,CBJ
+137,2,29,New York Islanders,Columbus Blue Jackets,2022020567312,2022020567,Stoppage,312,STOP,Icing,2022-12-30T01:38:21Z,2,03:18,16:42,0,0,,,
+138,2,29,New York Islanders,Columbus Blue Jackets,202202056797,2022020567,Faceoff,97,FACEOFF,Aatu Raty faceoff won against Jack Roslovic,2022-12-30T01:38:43Z,2,03:18,16:42,0,0,2.0,New York Islanders,NYI
+139,2,29,New York Islanders,Columbus Blue Jackets,2022020567195,2022020567,Missed Shot,195,MISSED_SHOT,Johnny Gaudreau Wide of Net Ilya Sorokin,2022-12-30T01:39:09Z,2,03:44,16:16,0,0,29.0,Columbus Blue Jackets,CBJ
+140,2,29,New York Islanders,Columbus Blue Jackets,202202056798,2022020567,Giveaway,98,GIVEAWAY,Giveaway by Anthony Beauvillier,2022-12-30T01:39:31Z,2,04:06,15:54,0,0,2.0,New York Islanders,NYI
+141,2,29,New York Islanders,Columbus Blue Jackets,2022020567196,2022020567,Missed Shot,196,MISSED_SHOT,Emil Bemstrom Wide of Net Ilya Sorokin,2022-12-30T01:40:05Z,2,04:40,15:20,0,0,29.0,Columbus Blue Jackets,CBJ
+142,2,29,New York Islanders,Columbus Blue Jackets,2022020567203,2022020567,Missed Shot,203,MISSED_SHOT,Mathieu Olivier Wide of Net Ilya Sorokin,2022-12-30T01:40:15Z,2,04:50,15:10,0,0,29.0,Columbus Blue Jackets,CBJ
+143,2,29,New York Islanders,Columbus Blue Jackets,2022020567197,2022020567,Blocked Shot,197,BLOCKED_SHOT,Marcus Bjork shot blocked shot by Mathew Barzal,2022-12-30T01:40:35Z,2,05:10,14:50,0,0,2.0,New York Islanders,NYI
+144,2,29,New York Islanders,Columbus Blue Jackets,2022020567313,2022020567,Stoppage,313,STOP,Icing,2022-12-30T01:40:42Z,2,05:18,14:42,0,0,,,
+145,2,29,New York Islanders,Columbus Blue Jackets,202202056799,2022020567,Faceoff,99,FACEOFF,Kent Johnson faceoff won against Mathew Barzal,2022-12-30T01:41:15Z,2,05:18,14:42,0,0,29.0,Columbus Blue Jackets,CBJ
+146,2,29,New York Islanders,Columbus Blue Jackets,2022020567198,2022020567,Shot,198,SHOT,Gustav Nyquist Wrist Shot saved by Ilya Sorokin,2022-12-30T01:41:33Z,2,05:36,14:24,0,0,29.0,Columbus Blue Jackets,CBJ
+147,2,29,New York Islanders,Columbus Blue Jackets,2022020567315,2022020567,Hit,315,HIT,Zach Parise hit Erik Gudbranson,2022-12-30T01:42:00Z,2,06:03,13:57,0,0,2.0,New York Islanders,NYI
+148,2,29,New York Islanders,Columbus Blue Jackets,2022020567316,2022020567,Hit,316,HIT,Zach Parise hit Kirill Marchenko,2022-12-30T01:42:06Z,2,06:09,13:51,0,0,2.0,New York Islanders,NYI
+149,2,29,New York Islanders,Columbus Blue Jackets,2022020567199,2022020567,Shot,199,SHOT,Brock Nelson Wrist Shot saved by Joonas Korpisalo,2022-12-30T01:42:22Z,2,06:24,13:36,0,0,2.0,New York Islanders,NYI
+150,2,29,New York Islanders,Columbus Blue Jackets,2022020567317,2022020567,Stoppage,317,STOP,Goalie Stopped,2022-12-30T01:42:22Z,2,06:24,13:36,0,0,,,
+151,2,29,New York Islanders,Columbus Blue Jackets,2022020567100,2022020567,Faceoff,100,FACEOFF,Casey Cizikas faceoff won against Cole Sillinger,2022-12-30T01:44:36Z,2,06:24,13:36,0,0,2.0,New York Islanders,NYI
+152,2,29,New York Islanders,Columbus Blue Jackets,2022020567200,2022020567,Missed Shot,200,MISSED_SHOT,Josh Bailey Wide of Net Joonas Korpisalo,2022-12-30T01:44:44Z,2,06:32,13:28,0,0,2.0,New York Islanders,NYI
+153,2,29,New York Islanders,Columbus Blue Jackets,2022020567401,2022020567,Shot,401,SHOT,Liam Foudy Wrist Shot saved by Ilya Sorokin,2022-12-30T01:44:54Z,2,06:42,13:18,0,0,29.0,Columbus Blue Jackets,CBJ
+154,2,29,New York Islanders,Columbus Blue Jackets,2022020567318,2022020567,Stoppage,318,STOP,Puck in Netting,2022-12-30T01:44:55Z,2,06:43,13:17,0,0,,,
+155,2,29,New York Islanders,Columbus Blue Jackets,2022020567451,2022020567,Faceoff,451,FACEOFF,Jean-Gabriel Pageau faceoff won against Jack Roslovic,2022-12-30T01:45:40Z,2,06:43,13:17,0,0,2.0,New York Islanders,NYI
+156,2,29,New York Islanders,Columbus Blue Jackets,2022020567452,2022020567,Takeaway,452,TAKEAWAY,Takeaway by Jean-Gabriel Pageau,2022-12-30T01:46:04Z,2,07:07,12:53,0,0,2.0,New York Islanders,NYI
+157,2,29,New York Islanders,Columbus Blue Jackets,2022020567402,2022020567,Shot,402,SHOT,Hudson Fasching Wrist Shot saved by Joonas Korpisalo,2022-12-30T01:46:07Z,2,07:10,12:50,0,0,2.0,New York Islanders,NYI
+158,2,29,New York Islanders,Columbus Blue Jackets,2022020567319,2022020567,Goal,319,GOAL,"Jean-Gabriel Pageau (8) Backhand, assists: Zach Parise (7), Hudson Fasching (2)",2022-12-30T01:46:09Z,2,07:12,12:48,1,0,2.0,New York Islanders,NYI
+159,2,29,New York Islanders,Columbus Blue Jackets,2022020567320,2022020567,Faceoff,320,FACEOFF,Sean Kuraly faceoff won against Aatu Raty,2022-12-30T01:46:47Z,2,07:12,12:48,1,0,29.0,Columbus Blue Jackets,CBJ
+160,2,29,New York Islanders,Columbus Blue Jackets,2022020567321,2022020567,Stoppage,321,STOP,Icing,2022-12-30T01:47:24Z,2,07:48,12:12,1,0,,,
+161,2,29,New York Islanders,Columbus Blue Jackets,2022020567453,2022020567,Faceoff,453,FACEOFF,Aatu Raty faceoff won against Kent Johnson,2022-12-30T01:47:50Z,2,07:48,12:12,1,0,2.0,New York Islanders,NYI
+162,2,29,New York Islanders,Columbus Blue Jackets,2022020567403,2022020567,Shot,403,SHOT,Gustav Nyquist Tip-In saved by Ilya Sorokin,2022-12-30T01:48:01Z,2,07:59,12:01,1,0,29.0,Columbus Blue Jackets,CBJ
+163,2,29,New York Islanders,Columbus Blue Jackets,2022020567322,2022020567,Hit,322,HIT,Kirill Marchenko hit Ryan Pulock,2022-12-30T01:48:26Z,2,08:24,11:36,1,0,29.0,Columbus Blue Jackets,CBJ
+164,2,29,New York Islanders,Columbus Blue Jackets,2022020567404,2022020567,Shot,404,SHOT,Vladislav Gavrikov Wrist Shot saved by Ilya Sorokin,2022-12-30T01:48:49Z,2,08:47,11:13,1,0,29.0,Columbus Blue Jackets,CBJ
+165,2,29,New York Islanders,Columbus Blue Jackets,2022020567323,2022020567,Stoppage,323,STOP,Puck in Netting,2022-12-30T01:48:56Z,2,08:54,11:06,1,0,,,
+166,2,29,New York Islanders,Columbus Blue Jackets,2022020567454,2022020567,Faceoff,454,FACEOFF,Casey Cizikas faceoff won against Cole Sillinger,2022-12-30T01:49:29Z,2,08:54,11:06,1,0,2.0,New York Islanders,NYI
+167,2,29,New York Islanders,Columbus Blue Jackets,2022020567324,2022020567,Stoppage,324,STOP,Icing,2022-12-30T01:49:41Z,2,09:06,10:54,1,0,,,
+168,2,29,New York Islanders,Columbus Blue Jackets,2022020567455,2022020567,Faceoff,455,FACEOFF,Casey Cizikas faceoff won against Cole Sillinger,2022-12-30T01:50:10Z,2,09:06,10:54,1,0,2.0,New York Islanders,NYI
+169,2,29,New York Islanders,Columbus Blue Jackets,2022020567325,2022020567,Hit,325,HIT,Cole Sillinger hit Josh Bailey,2022-12-30T01:50:25Z,2,09:21,10:39,1,0,29.0,Columbus Blue Jackets,CBJ
+170,2,29,New York Islanders,Columbus Blue Jackets,2022020567326,2022020567,Hit,326,HIT,Mathew Barzal hit Carson Meyer,2022-12-30T01:50:32Z,2,09:28,10:32,1,0,2.0,New York Islanders,NYI
+171,2,29,New York Islanders,Columbus Blue Jackets,2022020567405,2022020567,Blocked Shot,405,BLOCKED_SHOT,Emil Bemstrom shot blocked shot by Scott Mayfield,2022-12-30T01:50:57Z,2,09:53,10:07,1,0,2.0,New York Islanders,NYI
+172,2,29,New York Islanders,Columbus Blue Jackets,2022020567327,2022020567,Stoppage,327,STOP,Puck in Netting,2022-12-30T01:50:57Z,2,09:54,10:06,1,0,,,
+173,2,29,New York Islanders,Columbus Blue Jackets,2022020567456,2022020567,Faceoff,456,FACEOFF,Jack Roslovic faceoff won against Jean-Gabriel Pageau,2022-12-30T01:51:21Z,2,09:54,10:06,1,0,29.0,Columbus Blue Jackets,CBJ
+174,2,29,New York Islanders,Columbus Blue Jackets,2022020567457,2022020567,Takeaway,457,TAKEAWAY,Takeaway by Scott Mayfield,2022-12-30T01:51:39Z,2,10:12,09:48,1,0,2.0,New York Islanders,NYI
+175,2,29,New York Islanders,Columbus Blue Jackets,2022020567406,2022020567,Shot,406,SHOT,Aatu Raty Wrist Shot saved by Joonas Korpisalo,2022-12-30T01:52:02Z,2,10:35,09:25,1,0,2.0,New York Islanders,NYI
+176,2,29,New York Islanders,Columbus Blue Jackets,2022020567328,2022020567,Hit,328,HIT,Matt Martin hit Andrew Peeke,2022-12-30T01:52:09Z,2,10:42,09:18,1,0,2.0,New York Islanders,NYI
+177,2,29,New York Islanders,Columbus Blue Jackets,2022020567458,2022020567,Takeaway,458,TAKEAWAY,Takeaway by Matt Martin,2022-12-30T01:52:27Z,2,11:00,09:00,1,0,2.0,New York Islanders,NYI
+178,2,29,New York Islanders,Columbus Blue Jackets,2022020567329,2022020567,Hit,329,HIT,Anthony Beauvillier hit Carson Meyer,2022-12-30T01:52:37Z,2,11:10,08:50,1,0,2.0,New York Islanders,NYI
+179,2,29,New York Islanders,Columbus Blue Jackets,2022020567330,2022020567,Stoppage,330,STOP,Goalie Stopped,2022-12-30T01:52:44Z,2,11:17,08:43,1,0,,,
+180,2,29,New York Islanders,Columbus Blue Jackets,2022020567407,2022020567,Shot,407,SHOT,Vladislav Gavrikov Backhand saved by Ilya Sorokin,2022-12-30T01:52:44Z,2,11:17,08:43,1,0,29.0,Columbus Blue Jackets,CBJ
+181,2,29,New York Islanders,Columbus Blue Jackets,2022020567459,2022020567,Faceoff,459,FACEOFF,Sean Kuraly faceoff won against Brock Nelson,2022-12-30T01:55:13Z,2,11:17,08:43,1,0,29.0,Columbus Blue Jackets,CBJ
+182,2,29,New York Islanders,Columbus Blue Jackets,2022020567331,2022020567,Hit,331,HIT,Vladislav Gavrikov hit Anthony Beauvillier,2022-12-30T01:55:25Z,2,11:29,08:31,1,0,29.0,Columbus Blue Jackets,CBJ
+183,2,29,New York Islanders,Columbus Blue Jackets,2022020567408,2022020567,Blocked Shot,408,BLOCKED_SHOT,Ryan Pulock shot blocked shot by Eric Robinson,2022-12-30T01:55:32Z,2,11:36,08:24,1,0,29.0,Columbus Blue Jackets,CBJ
+184,2,29,New York Islanders,Columbus Blue Jackets,2022020567332,2022020567,Shot,332,SHOT,Parker Wotherspoon Wrist Shot saved by Joonas Korpisalo,2022-12-30T01:55:36Z,2,11:40,08:20,1,0,2.0,New York Islanders,NYI
+185,2,29,New York Islanders,Columbus Blue Jackets,2022020567460,2022020567,Giveaway,460,GIVEAWAY,Giveaway by Josh Bailey,2022-12-30T01:57:27Z,2,13:31,06:29,1,0,2.0,New York Islanders,NYI
+186,2,29,New York Islanders,Columbus Blue Jackets,2022020567599,2022020567,Penalty,599,PENALTY,Sebastian Aho Slashing against Jack Roslovic,2022-12-30T01:58:04Z,2,14:07,05:53,1,0,2.0,New York Islanders,NYI
+187,2,29,New York Islanders,Columbus Blue Jackets,2022020567462,2022020567,Faceoff,462,FACEOFF,Jack Roslovic faceoff won against Jean-Gabriel Pageau,2022-12-30T02:00:27Z,2,14:07,05:53,1,0,29.0,Columbus Blue Jackets,CBJ
+188,2,29,New York Islanders,Columbus Blue Jackets,2022020567463,2022020567,Giveaway,463,GIVEAWAY,Giveaway by Gustav Nyquist,2022-12-30T02:01:44Z,2,15:24,04:36,1,0,29.0,Columbus Blue Jackets,CBJ
+189,2,29,New York Islanders,Columbus Blue Jackets,2022020567336,2022020567,Penalty,336,PENALTY,Johnny Gaudreau Interference against Anthony Beauvillier,2022-12-30T02:01:51Z,2,15:31,04:29,1,0,29.0,Columbus Blue Jackets,CBJ
+190,2,29,New York Islanders,Columbus Blue Jackets,2022020567339,2022020567,Penalty,339,PENALTY,Johnny Gaudreau Slashing against Anthony Beauvillier served by Kirill Marchenko,2022-12-30T02:01:51Z,2,15:31,04:29,1,0,29.0,Columbus Blue Jackets,CBJ
+191,2,29,New York Islanders,Columbus Blue Jackets,2022020567664,2022020567,Penalty,664,PENALTY,Anthony Beauvillier Roughing against Johnny Gaudreau,2022-12-30T02:01:51Z,2,15:31,04:29,1,0,2.0,New York Islanders,NYI
+192,2,29,New York Islanders,Columbus Blue Jackets,2022020567464,2022020567,Faceoff,464,FACEOFF,Cole Sillinger faceoff won against Casey Cizikas,2022-12-30T02:04:14Z,2,15:31,04:29,1,0,29.0,Columbus Blue Jackets,CBJ
+193,2,29,New York Islanders,Columbus Blue Jackets,2022020567465,2022020567,Giveaway,465,GIVEAWAY,Giveaway by Casey Cizikas,2022-12-30T02:04:31Z,2,15:48,04:12,1,0,2.0,New York Islanders,NYI
+194,2,29,New York Islanders,Columbus Blue Jackets,2022020567411,2022020567,Missed Shot,411,MISSED_SHOT,Carson Meyer Wide of Net Ilya Sorokin,2022-12-30T02:04:48Z,2,16:05,03:55,1,0,29.0,Columbus Blue Jackets,CBJ
+195,2,29,New York Islanders,Columbus Blue Jackets,2022020567412,2022020567,Goal,412,GOAL,"Mathew Barzal (8) Slap Shot, assists: Brock Nelson (22), Jean-Gabriel Pageau (13)",2022-12-30T02:05:22Z,2,16:39,03:21,2,0,2.0,New York Islanders,NYI
+196,2,29,New York Islanders,Columbus Blue Jackets,2022020567341,2022020567,Faceoff,341,FACEOFF,Brock Nelson faceoff won against Kent Johnson,2022-12-30T02:06:14Z,2,16:39,03:21,2,0,2.0,New York Islanders,NYI
+197,2,29,New York Islanders,Columbus Blue Jackets,2022020567342,2022020567,Stoppage,342,STOP,Offside,2022-12-30T02:06:29Z,2,16:54,03:06,2,0,,,
+198,2,29,New York Islanders,Columbus Blue Jackets,2022020567467,2022020567,Faceoff,467,FACEOFF,Aatu Raty faceoff won against Sean Kuraly,2022-12-30T02:07:01Z,2,16:54,03:06,2,0,2.0,New York Islanders,NYI
+199,2,29,New York Islanders,Columbus Blue Jackets,2022020567204,2022020567,Blocked Shot,204,BLOCKED_SHOT,Aatu Raty shot blocked shot by Vladislav Gavrikov,2022-12-30T02:07:44Z,2,17:37,02:23,2,0,29.0,Columbus Blue Jackets,CBJ
+200,2,29,New York Islanders,Columbus Blue Jackets,2022020567413,2022020567,Shot,413,SHOT,Alexander Romanov Wrist Shot saved by Joonas Korpisalo,2022-12-30T02:07:44Z,2,17:37,02:23,2,0,2.0,New York Islanders,NYI
+201,2,29,New York Islanders,Columbus Blue Jackets,2022020567343,2022020567,Hit,343,HIT,Marcus Bjork hit Matt Martin,2022-12-30T02:07:45Z,2,17:38,02:22,2,0,29.0,Columbus Blue Jackets,CBJ
+202,2,29,New York Islanders,Columbus Blue Jackets,2022020567344,2022020567,Stoppage,344,STOP,Puck in Crowd,2022-12-30T02:07:47Z,2,17:40,02:20,2,0,,,
+203,2,29,New York Islanders,Columbus Blue Jackets,2022020567468,2022020567,Faceoff,468,FACEOFF,Casey Cizikas faceoff won against Cole Sillinger,2022-12-30T02:08:19Z,2,17:40,02:20,2,0,2.0,New York Islanders,NYI
+204,2,29,New York Islanders,Columbus Blue Jackets,2022020567414,2022020567,Shot,414,SHOT,Mathew Barzal Wrist Shot saved by Joonas Korpisalo,2022-12-30T02:08:24Z,2,17:45,02:15,2,0,2.0,New York Islanders,NYI
+205,2,29,New York Islanders,Columbus Blue Jackets,2022020567415,2022020567,Blocked Shot,415,BLOCKED_SHOT,Alexander Romanov shot blocked shot by Erik Gudbranson,2022-12-30T02:08:41Z,2,18:02,01:58,2,0,29.0,Columbus Blue Jackets,CBJ
+206,2,29,New York Islanders,Columbus Blue Jackets,2022020567469,2022020567,Giveaway,469,GIVEAWAY,Giveaway by Tim Berni,2022-12-30T02:08:41Z,2,18:02,01:58,2,0,29.0,Columbus Blue Jackets,CBJ
+207,2,29,New York Islanders,Columbus Blue Jackets,2022020567470,2022020567,Takeaway,470,TAKEAWAY,Takeaway by Alexander Romanov,2022-12-30T02:08:53Z,2,18:14,01:46,2,0,2.0,New York Islanders,NYI
+208,2,29,New York Islanders,Columbus Blue Jackets,2022020567471,2022020567,Giveaway,471,GIVEAWAY,Giveaway by Kent Johnson,2022-12-30T02:09:21Z,2,18:42,01:18,2,0,29.0,Columbus Blue Jackets,CBJ
+209,2,29,New York Islanders,Columbus Blue Jackets,2022020567345,2022020567,Stoppage,345,STOP,Offside,2022-12-30T02:09:25Z,2,18:45,01:15,2,0,,,
+210,2,29,New York Islanders,Columbus Blue Jackets,2022020567472,2022020567,Faceoff,472,FACEOFF,Jean-Gabriel Pageau faceoff won against Cole Sillinger,2022-12-30T02:09:55Z,2,18:45,01:15,2,0,2.0,New York Islanders,NYI
+211,2,29,New York Islanders,Columbus Blue Jackets,2022020567346,2022020567,Hit,346,HIT,Jean-Gabriel Pageau hit Carson Meyer,2022-12-30T02:10:04Z,2,18:54,01:06,2,0,2.0,New York Islanders,NYI
+212,2,29,New York Islanders,Columbus Blue Jackets,2022020567207,2022020567,Shot,207,SHOT,Liam Foudy Backhand saved by Ilya Sorokin,2022-12-30T02:10:07Z,2,18:57,01:03,2,0,29.0,Columbus Blue Jackets,CBJ
+213,2,29,New York Islanders,Columbus Blue Jackets,2022020567473,2022020567,Takeaway,473,TAKEAWAY,Takeaway by Hudson Fasching,2022-12-30T02:10:39Z,2,19:29,00:31,2,0,2.0,New York Islanders,NYI
+214,2,29,New York Islanders,Columbus Blue Jackets,2022020567208,2022020567,Blocked Shot,208,BLOCKED_SHOT,Sean Kuraly shot blocked shot by Ryan Pulock,2022-12-30T02:10:54Z,2,19:44,00:16,2,0,2.0,New York Islanders,NYI
+215,2,29,New York Islanders,Columbus Blue Jackets,2022020567416,2022020567,Blocked Shot,416,BLOCKED_SHOT,Sean Kuraly shot blocked shot by Jean-Gabriel Pageau,2022-12-30T02:11:04Z,2,19:54,00:06,2,0,2.0,New York Islanders,NYI
+216,2,29,New York Islanders,Columbus Blue Jackets,2022020567347,2022020567,Period End,347,PERIOD_END,End of 2nd Period,2022-12-30T02:11:10Z,2,20:00,00:00,2,0,,,
+217,2,29,New York Islanders,Columbus Blue Jackets,2022020567350,2022020567,Period Official,350,PERIOD_OFFICIAL,Period Official,2022-12-30T02:28:11Z,2,20:00,00:00,2,0,,,
+218,2,29,New York Islanders,Columbus Blue Jackets,2022020567601,2022020567,Period Ready,601,PERIOD_READY,Period Ready,2022-12-30T02:28:17Z,3,00:00,20:00,2,0,,,
+219,2,29,New York Islanders,Columbus Blue Jackets,2022020567474,2022020567,Period Start,474,PERIOD_START,Period Start,2022-12-30T02:30:08Z,3,00:00,20:00,2,0,,,
+220,2,29,New York Islanders,Columbus Blue Jackets,2022020567475,2022020567,Faceoff,475,FACEOFF,Jack Roslovic faceoff won against Jean-Gabriel Pageau,2022-12-30T02:30:08Z,3,00:00,20:00,2,0,29.0,Columbus Blue Jackets,CBJ
+221,2,29,New York Islanders,Columbus Blue Jackets,2022020567603,2022020567,Blocked Shot,603,BLOCKED_SHOT,Erik Gudbranson shot blocked shot by Zach Parise,2022-12-30T02:30:21Z,3,00:13,19:47,2,0,2.0,New York Islanders,NYI
+222,2,29,New York Islanders,Columbus Blue Jackets,2022020567602,2022020567,Stoppage,602,STOP,Puck in Crowd,2022-12-30T02:30:29Z,3,00:22,19:38,2,0,,,
+223,2,29,New York Islanders,Columbus Blue Jackets,2022020567476,2022020567,Faceoff,476,FACEOFF,Brock Nelson faceoff won against Sean Kuraly,2022-12-30T02:30:56Z,3,00:22,19:38,2,0,2.0,New York Islanders,NYI
+224,2,29,New York Islanders,Columbus Blue Jackets,2022020567417,2022020567,Shot,417,SHOT,Anders Lee Wrap-around saved by Joonas Korpisalo,2022-12-30T02:31:01Z,3,00:27,19:33,2,0,2.0,New York Islanders,NYI
+225,2,29,New York Islanders,Columbus Blue Jackets,2022020567604,2022020567,Shot,604,SHOT,Anders Lee Wrist Shot saved by Joonas Korpisalo,2022-12-30T02:31:02Z,3,00:28,19:32,2,0,2.0,New York Islanders,NYI
+226,2,29,New York Islanders,Columbus Blue Jackets,2022020567418,2022020567,Shot,418,SHOT,Brock Nelson Wrist Shot saved by Joonas Korpisalo,2022-12-30T02:31:14Z,3,00:40,19:20,2,0,2.0,New York Islanders,NYI
+227,2,29,New York Islanders,Columbus Blue Jackets,2022020567605,2022020567,Stoppage,605,STOP,Puck Frozen,2022-12-30T02:31:22Z,3,00:48,19:12,2,0,,,
+228,2,29,New York Islanders,Columbus Blue Jackets,2022020567477,2022020567,Faceoff,477,FACEOFF,Casey Cizikas faceoff won against Kent Johnson,2022-12-30T02:32:00Z,3,00:48,19:12,2,0,2.0,New York Islanders,NYI
+229,2,29,New York Islanders,Columbus Blue Jackets,2022020567419,2022020567,Missed Shot,419,MISSED_SHOT,Noah Dobson Wide of Net Joonas Korpisalo,2022-12-30T02:32:20Z,3,01:08,18:52,2,0,2.0,New York Islanders,NYI
+230,2,29,New York Islanders,Columbus Blue Jackets,2022020567420,2022020567,Shot,420,SHOT,Noah Dobson Wrist Shot saved by Joonas Korpisalo,2022-12-30T02:32:41Z,3,01:29,18:31,2,0,2.0,New York Islanders,NYI
+231,2,29,New York Islanders,Columbus Blue Jackets,2022020567421,2022020567,Missed Shot,421,MISSED_SHOT,Mathew Barzal Wide of Net Joonas Korpisalo,2022-12-30T02:32:53Z,3,01:41,18:19,2,0,2.0,New York Islanders,NYI
+232,2,29,New York Islanders,Columbus Blue Jackets,2022020567422,2022020567,Shot,422,SHOT,Jack Roslovic Wrist Shot saved by Ilya Sorokin,2022-12-30T02:32:59Z,3,01:47,18:13,2,0,29.0,Columbus Blue Jackets,CBJ
+233,2,29,New York Islanders,Columbus Blue Jackets,2022020567206,2022020567,Blocked Shot,206,BLOCKED_SHOT,Marcus Bjork shot blocked shot by Ross Johnston,2022-12-30T02:33:04Z,3,01:52,18:08,2,0,2.0,New York Islanders,NYI
+234,2,29,New York Islanders,Columbus Blue Jackets,2022020567423,2022020567,Blocked Shot,423,BLOCKED_SHOT,Vladislav Gavrikov shot blocked shot by Aatu Raty,2022-12-30T02:33:21Z,3,02:08,17:52,2,0,2.0,New York Islanders,NYI
+235,2,29,New York Islanders,Columbus Blue Jackets,2022020567606,2022020567,Stoppage,606,STOP,Puck Frozen,2022-12-30T02:33:21Z,3,02:08,17:52,2,0,,,
+236,2,29,New York Islanders,Columbus Blue Jackets,2022020567478,2022020567,Faceoff,478,FACEOFF,Jean-Gabriel Pageau faceoff won against Cole Sillinger,2022-12-30T02:33:53Z,3,02:08,17:52,2,0,2.0,New York Islanders,NYI
+237,2,29,New York Islanders,Columbus Blue Jackets,2022020567607,2022020567,Stoppage,607,STOP,Offside,2022-12-30T02:34:15Z,3,02:30,17:30,2,0,,,
+238,2,29,New York Islanders,Columbus Blue Jackets,2022020567479,2022020567,Faceoff,479,FACEOFF,Brock Nelson faceoff won against Kent Johnson,2022-12-30T02:34:47Z,3,02:30,17:30,2,0,2.0,New York Islanders,NYI
+239,2,29,New York Islanders,Columbus Blue Jackets,2022020567480,2022020567,Giveaway,480,GIVEAWAY,Giveaway by Tim Berni,2022-12-30T02:35:02Z,3,02:45,17:15,2,0,29.0,Columbus Blue Jackets,CBJ
+240,2,29,New York Islanders,Columbus Blue Jackets,2022020567424,2022020567,Shot,424,SHOT,Gustav Nyquist Wrist Shot saved by Ilya Sorokin,2022-12-30T02:35:10Z,3,02:53,17:07,2,0,29.0,Columbus Blue Jackets,CBJ
+241,2,29,New York Islanders,Columbus Blue Jackets,2022020567481,2022020567,Giveaway,481,GIVEAWAY,Giveaway by Anthony Beauvillier,2022-12-30T02:35:22Z,3,03:05,16:55,2,0,2.0,New York Islanders,NYI
+242,2,29,New York Islanders,Columbus Blue Jackets,2022020567425,2022020567,Blocked Shot,425,BLOCKED_SHOT,Liam Foudy shot blocked shot by Noah Dobson,2022-12-30T02:36:43Z,3,04:26,15:34,2,0,2.0,New York Islanders,NYI
+243,2,29,New York Islanders,Columbus Blue Jackets,2022020567608,2022020567,Shot,608,SHOT,Casey Cizikas Wrist Shot saved by Joonas Korpisalo,2022-12-30T02:36:50Z,3,04:33,15:27,2,0,2.0,New York Islanders,NYI
+244,2,29,New York Islanders,Columbus Blue Jackets,2022020567426,2022020567,Missed Shot,426,MISSED_SHOT,Noah Dobson Wide of Net Joonas Korpisalo,2022-12-30T02:37:00Z,3,04:43,15:17,2,0,2.0,New York Islanders,NYI
+245,2,29,New York Islanders,Columbus Blue Jackets,2022020567609,2022020567,Hit,609,HIT,Mathieu Olivier hit Matt Martin,2022-12-30T02:38:05Z,3,05:48,14:12,2,0,29.0,Columbus Blue Jackets,CBJ
+246,2,29,New York Islanders,Columbus Blue Jackets,2022020567427,2022020567,Missed Shot,427,MISSED_SHOT,Brock Nelson Wide of Net Joonas Korpisalo,2022-12-30T02:38:11Z,3,05:54,14:06,2,0,2.0,New York Islanders,NYI
+247,2,29,New York Islanders,Columbus Blue Jackets,2022020567482,2022020567,Giveaway,482,GIVEAWAY,Giveaway by Joonas Korpisalo,2022-12-30T02:39:21Z,3,07:04,12:56,2,0,29.0,Columbus Blue Jackets,CBJ
+248,2,29,New York Islanders,Columbus Blue Jackets,2022020567429,2022020567,Blocked Shot,429,BLOCKED_SHOT,Hudson Fasching shot blocked shot by Tim Berni,2022-12-30T02:39:31Z,3,07:14,12:46,2,0,29.0,Columbus Blue Jackets,CBJ
+249,2,29,New York Islanders,Columbus Blue Jackets,2022020567610,2022020567,Stoppage,610,STOP,Puck in Netting,2022-12-30T02:39:32Z,3,07:15,12:45,2,0,,,
+250,2,29,New York Islanders,Columbus Blue Jackets,2022020567483,2022020567,Faceoff,483,FACEOFF,Casey Cizikas faceoff won against Cole Sillinger,2022-12-30T02:41:44Z,3,07:15,12:45,2,0,2.0,New York Islanders,NYI
+251,2,29,New York Islanders,Columbus Blue Jackets,2022020567430,2022020567,Missed Shot,430,MISSED_SHOT,Alexander Romanov Wide of Net Joonas Korpisalo,2022-12-30T02:42:08Z,3,07:39,12:21,2,0,2.0,New York Islanders,NYI
+252,2,29,New York Islanders,Columbus Blue Jackets,2022020567611,2022020567,Stoppage,611,STOP,Goalie Stopped,2022-12-30T02:42:10Z,3,07:41,12:19,2,0,,,
+253,2,29,New York Islanders,Columbus Blue Jackets,2022020567484,2022020567,Faceoff,484,FACEOFF,Jean-Gabriel Pageau faceoff won against Jack Roslovic,2022-12-30T02:42:40Z,3,07:41,12:19,2,0,2.0,New York Islanders,NYI
+254,2,29,New York Islanders,Columbus Blue Jackets,2022020567209,2022020567,Missed Shot,209,MISSED_SHOT,Hudson Fasching Wide of Net Joonas Korpisalo,2022-12-30T02:43:05Z,3,08:06,11:54,2,0,2.0,New York Islanders,NYI
+255,2,29,New York Islanders,Columbus Blue Jackets,2022020567612,2022020567,Stoppage,612,STOP,Puck in Netting,2022-12-30T02:43:50Z,3,08:50,11:10,2,0,,,
+256,2,29,New York Islanders,Columbus Blue Jackets,2022020567485,2022020567,Faceoff,485,FACEOFF,Sean Kuraly faceoff won against Aatu Raty,2022-12-30T02:44:13Z,3,08:50,11:10,2,0,29.0,Columbus Blue Jackets,CBJ
+257,2,29,New York Islanders,Columbus Blue Jackets,2022020567613,2022020567,Hit,613,HIT,Parker Wotherspoon hit Mathieu Olivier,2022-12-30T02:44:42Z,3,09:19,10:41,2,0,2.0,New York Islanders,NYI
+258,2,29,New York Islanders,Columbus Blue Jackets,2022020567431,2022020567,Shot,431,SHOT,Tim Berni Wrist Shot saved by Ilya Sorokin,2022-12-30T02:45:09Z,3,09:46,10:14,2,0,29.0,Columbus Blue Jackets,CBJ
+259,2,29,New York Islanders,Columbus Blue Jackets,2022020567614,2022020567,Blocked Shot,614,BLOCKED_SHOT,Liam Foudy shot blocked shot by Ryan Pulock,2022-12-30T02:45:14Z,3,09:51,10:09,2,0,2.0,New York Islanders,NYI
+260,2,29,New York Islanders,Columbus Blue Jackets,2022020567432,2022020567,Shot,432,SHOT,Josh Bailey Wrist Shot saved by Joonas Korpisalo,2022-12-30T02:45:46Z,3,10:23,09:37,2,0,2.0,New York Islanders,NYI
+261,2,29,New York Islanders,Columbus Blue Jackets,2022020567615,2022020567,Shot,615,SHOT,Carson Meyer Wrist Shot saved by Ilya Sorokin,2022-12-30T02:45:53Z,3,10:30,09:30,2,0,29.0,Columbus Blue Jackets,CBJ
+262,2,29,New York Islanders,Columbus Blue Jackets,2022020567616,2022020567,Stoppage,616,STOP,Icing,2022-12-30T02:46:05Z,3,10:42,09:18,2,0,,,
+263,2,29,New York Islanders,Columbus Blue Jackets,2022020567486,2022020567,Faceoff,486,FACEOFF,Jean-Gabriel Pageau faceoff won against Jack Roslovic,2022-12-30T02:46:35Z,3,10:42,09:18,2,0,2.0,New York Islanders,NYI
+264,2,29,New York Islanders,Columbus Blue Jackets,2022020567433,2022020567,Blocked Shot,433,BLOCKED_SHOT,Brock Nelson shot blocked shot by Marcus Bjork,2022-12-30T02:47:03Z,3,11:10,08:50,2,0,29.0,Columbus Blue Jackets,CBJ
+265,2,29,New York Islanders,Columbus Blue Jackets,2022020567434,2022020567,Shot,434,SHOT,Brock Nelson Snap Shot saved by Joonas Korpisalo,2022-12-30T02:47:18Z,3,11:25,08:35,2,0,2.0,New York Islanders,NYI
+266,2,29,New York Islanders,Columbus Blue Jackets,2022020567617,2022020567,Stoppage,617,STOP,Goalie Stopped,2022-12-30T02:47:20Z,3,11:27,08:33,2,0,,,
+267,2,29,New York Islanders,Columbus Blue Jackets,2022020567487,2022020567,Faceoff,487,FACEOFF,Aatu Raty faceoff won against Sean Kuraly,2022-12-30T02:49:29Z,3,11:27,08:33,2,0,2.0,New York Islanders,NYI
+268,2,29,New York Islanders,Columbus Blue Jackets,2022020567435,2022020567,Missed Shot,435,MISSED_SHOT,Sebastian Aho Wide of Net Joonas Korpisalo,2022-12-30T02:49:38Z,3,11:36,08:24,2,0,2.0,New York Islanders,NYI
+269,2,29,New York Islanders,Columbus Blue Jackets,2022020567618,2022020567,Stoppage,618,STOP,Puck in Crowd,2022-12-30T02:50:06Z,3,12:04,07:56,2,0,,,
+270,2,29,New York Islanders,Columbus Blue Jackets,2022020567488,2022020567,Faceoff,488,FACEOFF,Casey Cizikas faceoff won against Kent Johnson,2022-12-30T02:50:30Z,3,12:04,07:56,2,0,2.0,New York Islanders,NYI
+271,2,29,New York Islanders,Columbus Blue Jackets,2022020567619,2022020567,Stoppage,619,STOP,Puck in Crowd,2022-12-30T02:50:51Z,3,12:25,07:35,2,0,,,
+272,2,29,New York Islanders,Columbus Blue Jackets,2022020567489,2022020567,Faceoff,489,FACEOFF,Cole Sillinger faceoff won against Brock Nelson,2022-12-30T02:51:21Z,3,12:25,07:35,2,0,29.0,Columbus Blue Jackets,CBJ
+273,2,29,New York Islanders,Columbus Blue Jackets,2022020567436,2022020567,Missed Shot,436,MISSED_SHOT,Cole Sillinger Wide of Net Ilya Sorokin,2022-12-30T02:51:28Z,3,12:32,07:28,2,0,29.0,Columbus Blue Jackets,CBJ
+274,2,29,New York Islanders,Columbus Blue Jackets,2022020567620,2022020567,Shot,620,SHOT,Marcus Bjork Slap Shot saved by Ilya Sorokin,2022-12-30T02:51:31Z,3,12:35,07:25,2,0,29.0,Columbus Blue Jackets,CBJ
+275,2,29,New York Islanders,Columbus Blue Jackets,2022020567621,2022020567,Stoppage,621,STOP,Goalie Stopped,2022-12-30T02:51:33Z,3,12:37,07:23,2,0,,,
+276,2,29,New York Islanders,Columbus Blue Jackets,2022020567490,2022020567,Faceoff,490,FACEOFF,Brock Nelson faceoff won against Cole Sillinger,2022-12-30T02:52:08Z,3,12:37,07:23,2,0,2.0,New York Islanders,NYI
+277,2,29,New York Islanders,Columbus Blue Jackets,2022020567491,2022020567,Takeaway,491,TAKEAWAY,Takeaway by Anders Lee,2022-12-30T02:52:24Z,3,12:53,07:07,2,0,2.0,New York Islanders,NYI
+278,2,29,New York Islanders,Columbus Blue Jackets,2022020567622,2022020567,Hit,622,HIT,Cole Sillinger hit Anthony Beauvillier,2022-12-30T02:52:28Z,3,12:57,07:03,2,0,29.0,Columbus Blue Jackets,CBJ
+279,2,29,New York Islanders,Columbus Blue Jackets,2022020567210,2022020567,Blocked Shot,210,BLOCKED_SHOT,Ryan Pulock shot blocked shot by Liam Foudy,2022-12-30T02:52:31Z,3,13:00,07:00,2,0,29.0,Columbus Blue Jackets,CBJ
+280,2,29,New York Islanders,Columbus Blue Jackets,2022020567623,2022020567,Hit,623,HIT,Marcus Bjork hit Brock Nelson,2022-12-30T02:52:34Z,3,13:03,06:57,2,0,29.0,Columbus Blue Jackets,CBJ
+281,2,29,New York Islanders,Columbus Blue Jackets,2022020567437,2022020567,Shot,437,SHOT,Brock Nelson Wrist Shot saved by Joonas Korpisalo,2022-12-30T02:52:35Z,3,13:04,06:56,2,0,2.0,New York Islanders,NYI
+282,2,29,New York Islanders,Columbus Blue Jackets,2022020567438,2022020567,Missed Shot,438,MISSED_SHOT,Jean-Gabriel Pageau Wide of Net Joonas Korpisalo,2022-12-30T02:52:54Z,3,13:23,06:37,2,0,2.0,New York Islanders,NYI
+283,2,29,New York Islanders,Columbus Blue Jackets,2022020567624,2022020567,Hit,624,HIT,Hudson Fasching hit Andrew Peeke,2022-12-30T02:53:04Z,3,13:33,06:27,2,0,2.0,New York Islanders,NYI
+284,2,29,New York Islanders,Columbus Blue Jackets,2022020567439,2022020567,Shot,439,SHOT,Emil Bemstrom Wrist Shot saved by Ilya Sorokin,2022-12-30T02:53:29Z,3,13:58,06:02,2,0,29.0,Columbus Blue Jackets,CBJ
+285,2,29,New York Islanders,Columbus Blue Jackets,2022020567440,2022020567,Missed Shot,440,MISSED_SHOT,Andrew Peeke Over Net Ilya Sorokin,2022-12-30T02:53:46Z,3,14:15,05:45,2,0,29.0,Columbus Blue Jackets,CBJ
+286,2,29,New York Islanders,Columbus Blue Jackets,2022020567625,2022020567,Stoppage,625,STOP,Puck in Netting,2022-12-30T02:53:46Z,3,14:16,05:44,2,0,,,
+287,2,29,New York Islanders,Columbus Blue Jackets,2022020567492,2022020567,Faceoff,492,FACEOFF,Jean-Gabriel Pageau faceoff won against Jack Roslovic,2022-12-30T02:55:59Z,3,14:16,05:44,2,0,2.0,New York Islanders,NYI
+288,2,29,New York Islanders,Columbus Blue Jackets,2022020567493,2022020567,Giveaway,493,GIVEAWAY,Giveaway by Scott Mayfield,2022-12-30T02:56:08Z,3,14:25,05:35,2,0,2.0,New York Islanders,NYI
+289,2,29,New York Islanders,Columbus Blue Jackets,2022020567441,2022020567,Shot,441,SHOT,Jean-Gabriel Pageau Backhand saved by Joonas Korpisalo,2022-12-30T02:56:35Z,3,14:52,05:08,2,0,2.0,New York Islanders,NYI
+290,2,29,New York Islanders,Columbus Blue Jackets,2022020567494,2022020567,Giveaway,494,GIVEAWAY,Giveaway by Jack Roslovic,2022-12-30T02:56:39Z,3,14:56,05:04,2,0,29.0,Columbus Blue Jackets,CBJ
+291,2,29,New York Islanders,Columbus Blue Jackets,2022020567495,2022020567,Giveaway,495,GIVEAWAY,Giveaway by Marcus Bjork,2022-12-30T02:57:01Z,3,15:18,04:42,2,0,29.0,Columbus Blue Jackets,CBJ
+292,2,29,New York Islanders,Columbus Blue Jackets,2022020567626,2022020567,Shot,626,SHOT,Anthony Beauvillier Wrist Shot saved by Joonas Korpisalo,2022-12-30T02:57:03Z,3,15:20,04:40,2,0,2.0,New York Islanders,NYI
+293,2,29,New York Islanders,Columbus Blue Jackets,2022020567627,2022020567,Stoppage,627,STOP,Goalie Stopped,2022-12-30T02:57:04Z,3,15:21,04:39,2,0,,,
+294,2,29,New York Islanders,Columbus Blue Jackets,2022020567496,2022020567,Faceoff,496,FACEOFF,Sean Kuraly faceoff won against Josh Bailey,2022-12-30T02:58:07Z,3,15:21,04:39,2,0,29.0,Columbus Blue Jackets,CBJ
+295,2,29,New York Islanders,Columbus Blue Jackets,2022020567628,2022020567,Hit,628,HIT,Sean Kuraly hit Alexander Romanov,2022-12-30T02:58:19Z,3,15:33,04:27,2,0,29.0,Columbus Blue Jackets,CBJ
+296,2,29,New York Islanders,Columbus Blue Jackets,2022020567629,2022020567,Stoppage,629,STOP,Puck in Netting,2022-12-30T02:58:36Z,3,15:50,04:10,2,0,,,
+297,2,29,New York Islanders,Columbus Blue Jackets,2022020567497,2022020567,Faceoff,497,FACEOFF,Cole Sillinger faceoff won against Jean-Gabriel Pageau,2022-12-30T02:59:08Z,3,15:50,04:10,2,0,29.0,Columbus Blue Jackets,CBJ
+298,2,29,New York Islanders,Columbus Blue Jackets,2022020567442,2022020567,Missed Shot,442,MISSED_SHOT,Marcus Bjork Wide of Net Ilya Sorokin,2022-12-30T02:59:57Z,3,16:39,03:21,2,0,29.0,Columbus Blue Jackets,CBJ
+299,2,29,New York Islanders,Columbus Blue Jackets,2022020567443,2022020567,Blocked Shot,443,BLOCKED_SHOT,Gustav Nyquist shot blocked shot by Anders Lee,2022-12-30T03:00:50Z,3,17:32,02:28,2,0,2.0,New York Islanders,NYI
+300,2,29,New York Islanders,Columbus Blue Jackets,2022020567631,2022020567,Stoppage,631,STOP,Offside,2022-12-30T03:00:58Z,3,17:40,02:20,2,0,,,
+301,2,29,New York Islanders,Columbus Blue Jackets,2022020567498,2022020567,Faceoff,498,FACEOFF,Cole Sillinger faceoff won against Jean-Gabriel Pageau,2022-12-30T03:01:32Z,3,17:40,02:20,2,0,29.0,Columbus Blue Jackets,CBJ
+302,2,29,New York Islanders,Columbus Blue Jackets,2022020567444,2022020567,Missed Shot,444,MISSED_SHOT,Kent Johnson Wide of Net Ilya Sorokin,2022-12-30T03:02:07Z,3,18:15,01:45,2,0,29.0,Columbus Blue Jackets,CBJ
+303,2,29,New York Islanders,Columbus Blue Jackets,2022020567445,2022020567,Missed Shot,445,MISSED_SHOT,Johnny Gaudreau Over Net Ilya Sorokin,2022-12-30T03:02:29Z,3,18:37,01:23,2,0,29.0,Columbus Blue Jackets,CBJ
+304,2,29,New York Islanders,Columbus Blue Jackets,2022020567446,2022020567,Missed Shot,446,MISSED_SHOT,Johnny Gaudreau Wide of Net Ilya Sorokin,2022-12-30T03:02:42Z,3,18:50,01:10,2,0,29.0,Columbus Blue Jackets,CBJ
+305,2,29,New York Islanders,Columbus Blue Jackets,2022020567447,2022020567,Blocked Shot,447,BLOCKED_SHOT,Kent Johnson shot blocked shot by Scott Mayfield,2022-12-30T03:03:22Z,3,19:30,00:30,2,0,2.0,New York Islanders,NYI
+306,2,29,New York Islanders,Columbus Blue Jackets,2022020567633,2022020567,Goal,633,GOAL,"Emil Bemstrom (3) Deflected, assists: Marcus Bjork (7), Johnny Gaudreau (25)",2022-12-30T03:03:31Z,3,19:38,00:22,2,1,29.0,Columbus Blue Jackets,CBJ
+307,2,29,New York Islanders,Columbus Blue Jackets,2022020567635,2022020567,Stoppage,635,STOP,Visitor Timeout,2022-12-30T03:03:31Z,3,19:38,00:22,2,1,,,
+308,2,29,New York Islanders,Columbus Blue Jackets,2022020567636,2022020567,Faceoff,636,FACEOFF,Jean-Gabriel Pageau faceoff won against Cole Sillinger,2022-12-30T03:05:06Z,3,19:38,00:22,2,1,2.0,New York Islanders,NYI
+309,2,29,New York Islanders,Columbus Blue Jackets,2022020567449,2022020567,Blocked Shot,449,BLOCKED_SHOT,Gustav Nyquist shot blocked shot by Scott Mayfield,2022-12-30T03:05:21Z,3,19:54,00:06,2,1,2.0,New York Islanders,NYI
+310,2,29,New York Islanders,Columbus Blue Jackets,2022020567637,2022020567,Period End,637,PERIOD_END,End of 3rd Period,2022-12-30T03:05:27Z,3,20:00,00:00,2,1,,,
+311,2,29,New York Islanders,Columbus Blue Jackets,2022020567640,2022020567,Period Official,640,PERIOD_OFFICIAL,Period Official,2022-12-30T03:05:32Z,3,20:00,00:00,2,1,,,
+312,2,29,New York Islanders,Columbus Blue Jackets,2022020567641,2022020567,Game End,641,GAME_END,Game End,2022-12-30T03:05:34Z,3,20:00,00:00,2,1,,,
+313,2,29,New York Islanders,Columbus Blue Jackets,20220205671101,2022020567,Game Official,1101,GAME_OFFICIAL,Game Official,2022-12-30T06:07:19Z,3,20:00,00:00,2,1,,,

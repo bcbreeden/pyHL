@@ -1,0 +1,372 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,3,9,New York Rangers,Ottawa Senators,20220203761,2022020376,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-12-02T23:15:16Z,1,00:00,20:00,0,0,,,
+1,3,9,New York Rangers,Ottawa Senators,20220203765,2022020376,Period Ready,5,PERIOD_READY,Period Ready,2022-12-03T00:08:05Z,1,00:00,20:00,0,0,,,
+2,3,9,New York Rangers,Ottawa Senators,2022020376101,2022020376,Period Start,101,PERIOD_START,Period Start,2022-12-03T00:08:40Z,1,00:00,20:00,0,0,,,
+3,3,9,New York Rangers,Ottawa Senators,2022020376102,2022020376,Faceoff,102,FACEOFF,Mika Zibanejad faceoff won against Tim Stützle,2022-12-03T00:08:40Z,1,00:00,20:00,0,0,3.0,New York Rangers,NYR
+4,3,9,New York Rangers,Ottawa Senators,20220203768,2022020376,Hit,8,HIT,Artem Zub hit Chris Kreider,2022-12-03T00:08:58Z,1,00:18,19:42,0,0,9.0,Ottawa Senators,OTT
+5,3,9,New York Rangers,Ottawa Senators,20220203769,2022020376,Stoppage,9,STOP,Icing,2022-12-03T00:08:58Z,1,00:19,19:41,0,0,,,
+6,3,9,New York Rangers,Ottawa Senators,2022020376103,2022020376,Faceoff,103,FACEOFF,Claude Giroux faceoff won against Mika Zibanejad,2022-12-03T00:09:19Z,1,00:19,19:41,0,0,9.0,Ottawa Senators,OTT
+7,3,9,New York Rangers,Ottawa Senators,2022020376151,2022020376,Missed Shot,151,MISSED_SHOT,Claude Giroux Wide of Net Igor Shesterkin,2022-12-03T00:09:22Z,1,00:22,19:38,0,0,9.0,Ottawa Senators,OTT
+8,3,9,New York Rangers,Ottawa Senators,2022020376152,2022020376,Shot,152,SHOT,Filip Chytil Snap Shot saved by Cam Talbot,2022-12-03T00:09:51Z,1,00:51,19:09,0,0,3.0,New York Rangers,NYR
+9,3,9,New York Rangers,Ottawa Senators,202202037610,2022020376,Stoppage,10,STOP,Goalie Stopped,2022-12-03T00:09:54Z,1,00:54,19:06,0,0,,,
+10,3,9,New York Rangers,Ottawa Senators,2022020376104,2022020376,Faceoff,104,FACEOFF,Filip Chytil faceoff won against Shane Pinto,2022-12-03T00:10:17Z,1,00:54,19:06,0,0,3.0,New York Rangers,NYR
+11,3,9,New York Rangers,Ottawa Senators,2022020376153,2022020376,Blocked Shot,153,BLOCKED_SHOT,K'Andre Miller shot blocked shot by Drake Batherson,2022-12-03T00:10:21Z,1,00:58,19:02,0,0,9.0,Ottawa Senators,OTT
+12,3,9,New York Rangers,Ottawa Senators,202202037664,2022020376,Penalty,64,PENALTY,Filip Chytil Hi stick - double minor against Jake Sanderson,2022-12-03T00:10:44Z,1,01:20,18:40,0,0,3.0,New York Rangers,NYR
+13,3,9,New York Rangers,Ottawa Senators,2022020376105,2022020376,Faceoff,105,FACEOFF,Brady Tkachuk faceoff won against Mika Zibanejad,2022-12-03T00:11:45Z,1,01:20,18:40,0,0,9.0,Ottawa Senators,OTT
+14,3,9,New York Rangers,Ottawa Senators,2022020376154,2022020376,Missed Shot,154,MISSED_SHOT,Thomas Chabot Wide of Net Igor Shesterkin,2022-12-03T00:11:51Z,1,01:26,18:34,0,0,9.0,Ottawa Senators,OTT
+15,3,9,New York Rangers,Ottawa Senators,2022020376106,2022020376,Takeaway,106,TAKEAWAY,Takeaway by Mika Zibanejad,2022-12-03T00:12:07Z,1,01:42,18:18,0,0,3.0,New York Rangers,NYR
+16,3,9,New York Rangers,Ottawa Senators,2022020376155,2022020376,Shot,155,SHOT,Mika Zibanejad Backhand saved by Cam Talbot,2022-12-03T00:12:08Z,1,01:43,18:17,0,0,3.0,New York Rangers,NYR
+17,3,9,New York Rangers,Ottawa Senators,202202037611,2022020376,Hit,11,HIT,Jacob Trouba hit Drake Batherson,2022-12-03T00:12:25Z,1,02:00,18:00,0,0,3.0,New York Rangers,NYR
+18,3,9,New York Rangers,Ottawa Senators,2022020376107,2022020376,Giveaway,107,GIVEAWAY,Giveaway by Tim Stützle,2022-12-03T00:12:27Z,1,02:02,17:58,0,0,9.0,Ottawa Senators,OTT
+19,3,9,New York Rangers,Ottawa Senators,2022020376108,2022020376,Giveaway,108,GIVEAWAY,Giveaway by Jacob Trouba,2022-12-03T00:12:46Z,1,02:21,17:39,0,0,3.0,New York Rangers,NYR
+20,3,9,New York Rangers,Ottawa Senators,2022020376156,2022020376,Blocked Shot,156,BLOCKED_SHOT,Jake Sanderson shot blocked shot by Jimmy Vesey,2022-12-03T00:12:51Z,1,02:26,17:34,0,0,3.0,New York Rangers,NYR
+21,3,9,New York Rangers,Ottawa Senators,2022020376157,2022020376,Blocked Shot,157,BLOCKED_SHOT,Jake Sanderson shot blocked shot by Jimmy Vesey,2022-12-03T00:13:24Z,1,02:59,17:01,0,0,3.0,New York Rangers,NYR
+22,3,9,New York Rangers,Ottawa Senators,2022020376158,2022020376,Missed Shot,158,MISSED_SHOT,Tim Stützle Over Net Igor Shesterkin,2022-12-03T00:13:59Z,1,03:34,16:26,0,0,9.0,Ottawa Senators,OTT
+23,3,9,New York Rangers,Ottawa Senators,2022020376159,2022020376,Shot,159,SHOT,Brady Tkachuk Wrist Shot saved by Igor Shesterkin,2022-12-03T00:14:11Z,1,03:46,16:14,0,0,9.0,Ottawa Senators,OTT
+24,3,9,New York Rangers,Ottawa Senators,2022020376109,2022020376,Takeaway,109,TAKEAWAY,Takeaway by Drake Batherson,2022-12-03T00:14:17Z,1,03:52,16:08,0,0,9.0,Ottawa Senators,OTT
+25,3,9,New York Rangers,Ottawa Senators,2022020376160,2022020376,Missed Shot,160,MISSED_SHOT,Alex DeBrincat Wide of Net Igor Shesterkin,2022-12-03T00:14:23Z,1,03:58,16:02,0,0,9.0,Ottawa Senators,OTT
+26,3,9,New York Rangers,Ottawa Senators,2022020376110,2022020376,Giveaway,110,GIVEAWAY,Giveaway by Jake Sanderson,2022-12-03T00:15:27Z,1,05:02,14:58,0,0,9.0,Ottawa Senators,OTT
+27,3,9,New York Rangers,Ottawa Senators,2022020376161,2022020376,Missed Shot,161,MISSED_SHOT,Libor Hajek Wide of Net Cam Talbot,2022-12-03T00:16:17Z,1,05:52,14:08,0,0,3.0,New York Rangers,NYR
+28,3,9,New York Rangers,Ottawa Senators,202202037612,2022020376,Hit,12,HIT,Austin Watson hit Filip Chytil,2022-12-03T00:16:20Z,1,05:55,14:05,0,0,9.0,Ottawa Senators,OTT
+29,3,9,New York Rangers,Ottawa Senators,2022020376162,2022020376,Missed Shot,162,MISSED_SHOT,Tyler Motte Wide of Net Igor Shesterkin,2022-12-03T00:16:38Z,1,06:13,13:47,0,0,9.0,Ottawa Senators,OTT
+30,3,9,New York Rangers,Ottawa Senators,202202037613,2022020376,Hit,13,HIT,Parker Kelly hit Vitali Kravtsov,2022-12-03T00:16:46Z,1,06:21,13:39,0,0,9.0,Ottawa Senators,OTT
+31,3,9,New York Rangers,Ottawa Senators,202202037614,2022020376,Stoppage,14,STOP,Offside,2022-12-03T00:17:12Z,1,06:47,13:13,0,0,,,
+32,3,9,New York Rangers,Ottawa Senators,2022020376111,2022020376,Faceoff,111,FACEOFF,Barclay Goodrow faceoff won against Mark Kastelic,2022-12-03T00:19:31Z,1,06:47,13:13,0,0,3.0,New York Rangers,NYR
+33,3,9,New York Rangers,Ottawa Senators,202202037615,2022020376,Hit,15,HIT,Nikita Zaitsev hit Barclay Goodrow,2022-12-03T00:19:55Z,1,07:11,12:49,0,0,9.0,Ottawa Senators,OTT
+34,3,9,New York Rangers,Ottawa Senators,202202037616,2022020376,Hit,16,HIT,Artem Zub hit Barclay Goodrow,2022-12-03T00:20:15Z,1,07:31,12:29,0,0,9.0,Ottawa Senators,OTT
+35,3,9,New York Rangers,Ottawa Senators,2022020376163,2022020376,Shot,163,SHOT,Ryan Lindgren Wrist Shot saved by Cam Talbot,2022-12-03T00:20:41Z,1,07:57,12:03,0,0,3.0,New York Rangers,NYR
+36,3,9,New York Rangers,Ottawa Senators,2022020376165,2022020376,Missed Shot,165,MISSED_SHOT,Mathieu Joseph Over Net Igor Shesterkin,2022-12-03T00:21:59Z,1,09:15,10:45,0,0,9.0,Ottawa Senators,OTT
+37,3,9,New York Rangers,Ottawa Senators,2022020376112,2022020376,Giveaway,112,GIVEAWAY,Giveaway by Mika Zibanejad,2022-12-03T00:22:01Z,1,09:17,10:43,0,0,3.0,New York Rangers,NYR
+38,3,9,New York Rangers,Ottawa Senators,202202037617,2022020376,Hit,17,HIT,Jacob Trouba hit Austin Watson,2022-12-03T00:22:30Z,1,09:46,10:14,0,0,3.0,New York Rangers,NYR
+39,3,9,New York Rangers,Ottawa Senators,202202037618,2022020376,Stoppage,18,STOP,Offside,2022-12-03T00:22:52Z,1,10:08,09:52,0,0,,,
+40,3,9,New York Rangers,Ottawa Senators,2022020376113,2022020376,Faceoff,113,FACEOFF,Brady Tkachuk faceoff won against Filip Chytil,2022-12-03T00:25:20Z,1,10:08,09:52,0,0,9.0,Ottawa Senators,OTT
+41,3,9,New York Rangers,Ottawa Senators,2022020376166,2022020376,Blocked Shot,166,BLOCKED_SHOT,Vitali Kravtsov shot blocked shot by Travis Hamonic,2022-12-03T00:25:40Z,1,10:28,09:32,0,0,9.0,Ottawa Senators,OTT
+42,3,9,New York Rangers,Ottawa Senators,2022020376168,2022020376,Goal,168,GOAL,"Vitali Kravtsov (1) Wrist Shot, assists: Artemi Panarin (20), Adam Fox (20)",2022-12-03T00:25:43Z,1,10:31,09:29,1,0,3.0,New York Rangers,NYR
+43,3,9,New York Rangers,Ottawa Senators,2022020376114,2022020376,Faceoff,114,FACEOFF,Filip Chytil faceoff won against Shane Pinto,2022-12-03T00:27:05Z,1,10:31,09:29,1,0,3.0,New York Rangers,NYR
+44,3,9,New York Rangers,Ottawa Senators,2022020376115,2022020376,Giveaway,115,GIVEAWAY,Giveaway by Braden Schneider,2022-12-03T00:27:31Z,1,10:57,09:03,1,0,3.0,New York Rangers,NYR
+45,3,9,New York Rangers,Ottawa Senators,202202037619,2022020376,Hit,19,HIT,K'Andre Miller hit Shane Pinto,2022-12-03T00:27:33Z,1,10:59,09:01,1,0,3.0,New York Rangers,NYR
+46,3,9,New York Rangers,Ottawa Senators,202202037620,2022020376,Stoppage,20,STOP,Puck in Benches,2022-12-03T00:27:42Z,1,11:09,08:51,1,0,,,
+47,3,9,New York Rangers,Ottawa Senators,2022020376116,2022020376,Faceoff,116,FACEOFF,Barclay Goodrow faceoff won against Dylan Gambrell,2022-12-03T00:28:16Z,1,11:09,08:51,1,0,3.0,New York Rangers,NYR
+48,3,9,New York Rangers,Ottawa Senators,202202037621,2022020376,Hit,21,HIT,Sammy Blais hit Dylan Gambrell,2022-12-03T00:28:35Z,1,11:28,08:32,1,0,3.0,New York Rangers,NYR
+49,3,9,New York Rangers,Ottawa Senators,202202037622,2022020376,Hit,22,HIT,Mathieu Joseph hit Jacob Trouba,2022-12-03T00:28:43Z,1,11:36,08:24,1,0,9.0,Ottawa Senators,OTT
+50,3,9,New York Rangers,Ottawa Senators,2022020376169,2022020376,Missed Shot,169,MISSED_SHOT,Mathieu Joseph Wide of Net Igor Shesterkin,2022-12-03T00:28:44Z,1,11:37,08:23,1,0,9.0,Ottawa Senators,OTT
+51,3,9,New York Rangers,Ottawa Senators,202202037623,2022020376,Stoppage,23,STOP,Icing,2022-12-03T00:28:50Z,1,11:42,08:18,1,0,,,
+52,3,9,New York Rangers,Ottawa Senators,2022020376117,2022020376,Faceoff,117,FACEOFF,Tim Stützle faceoff won against Barclay Goodrow,2022-12-03T00:29:10Z,1,11:42,08:18,1,0,9.0,Ottawa Senators,OTT
+53,3,9,New York Rangers,Ottawa Senators,202202037624,2022020376,Hit,24,HIT,Julien Gauthier hit Thomas Chabot,2022-12-03T00:29:22Z,1,11:54,08:06,1,0,3.0,New York Rangers,NYR
+54,3,9,New York Rangers,Ottawa Senators,2022020376170,2022020376,Shot,170,SHOT,Jimmy Vesey Backhand saved by Cam Talbot,2022-12-03T00:29:36Z,1,12:08,07:52,1,0,3.0,New York Rangers,NYR
+55,3,9,New York Rangers,Ottawa Senators,2022020376177,2022020376,Shot,177,SHOT,Adam Fox Wrist Shot saved by Cam Talbot,2022-12-03T00:29:41Z,1,12:13,07:47,1,0,3.0,New York Rangers,NYR
+56,3,9,New York Rangers,Ottawa Senators,2022020376171,2022020376,Shot,171,SHOT,Jimmy Vesey Wrist Shot saved by Cam Talbot,2022-12-03T00:29:43Z,1,12:15,07:45,1,0,3.0,New York Rangers,NYR
+57,3,9,New York Rangers,Ottawa Senators,202202037625,2022020376,Stoppage,25,STOP,Puck in Netting,2022-12-03T00:29:56Z,1,12:29,07:31,1,0,,,
+58,3,9,New York Rangers,Ottawa Senators,2022020376172,2022020376,Blocked Shot,172,BLOCKED_SHOT,Chris Kreider shot blocked shot by Thomas Chabot,2022-12-03T00:29:56Z,1,12:29,07:31,1,0,9.0,Ottawa Senators,OTT
+59,3,9,New York Rangers,Ottawa Senators,2022020376118,2022020376,Faceoff,118,FACEOFF,Mark Kastelic faceoff won against Vincent Trocheck,2022-12-03T00:30:29Z,1,12:29,07:31,1,0,9.0,Ottawa Senators,OTT
+60,3,9,New York Rangers,Ottawa Senators,202202037626,2022020376,Stoppage,26,STOP,Offside,2022-12-03T00:30:37Z,1,12:37,07:23,1,0,,,
+61,3,9,New York Rangers,Ottawa Senators,2022020376119,2022020376,Faceoff,119,FACEOFF,Mark Kastelic faceoff won against Vincent Trocheck,2022-12-03T00:30:59Z,1,12:37,07:23,1,0,9.0,Ottawa Senators,OTT
+62,3,9,New York Rangers,Ottawa Senators,202202037627,2022020376,Hit,27,HIT,Alexis Lafrenière hit Artem Zub,2022-12-03T00:31:04Z,1,12:42,07:18,1,0,3.0,New York Rangers,NYR
+63,3,9,New York Rangers,Ottawa Senators,2022020376120,2022020376,Takeaway,120,TAKEAWAY,Takeaway by Mark Kastelic,2022-12-03T00:31:11Z,1,12:49,07:11,1,0,9.0,Ottawa Senators,OTT
+64,3,9,New York Rangers,Ottawa Senators,202202037628,2022020376,Hit,28,HIT,Braden Schneider hit Drake Batherson,2022-12-03T00:31:40Z,1,13:18,06:42,1,0,3.0,New York Rangers,NYR
+65,3,9,New York Rangers,Ottawa Senators,2022020376121,2022020376,Giveaway,121,GIVEAWAY,Giveaway by Artemi Panarin,2022-12-03T00:32:00Z,1,13:38,06:22,1,0,3.0,New York Rangers,NYR
+66,3,9,New York Rangers,Ottawa Senators,2022020376175,2022020376,Shot,175,SHOT,Tyler Motte Backhand saved by Igor Shesterkin,2022-12-03T00:32:09Z,1,13:47,06:13,1,0,9.0,Ottawa Senators,OTT
+67,3,9,New York Rangers,Ottawa Senators,2022020376176,2022020376,Shot,176,SHOT,Tyler Motte Backhand saved by Igor Shesterkin,2022-12-03T00:32:37Z,1,14:15,05:45,1,0,9.0,Ottawa Senators,OTT
+68,3,9,New York Rangers,Ottawa Senators,202202037629,2022020376,Stoppage,29,STOP,Goalie Stopped,2022-12-03T00:32:38Z,1,14:16,05:44,1,0,,,
+69,3,9,New York Rangers,Ottawa Senators,2022020376122,2022020376,Faceoff,122,FACEOFF,Barclay Goodrow faceoff won against Dylan Gambrell,2022-12-03T00:34:58Z,1,14:16,05:44,1,0,3.0,New York Rangers,NYR
+70,3,9,New York Rangers,Ottawa Senators,202202037630,2022020376,Hit,30,HIT,Tyler Motte hit Sammy Blais,2022-12-03T00:35:20Z,1,14:38,05:22,1,0,9.0,Ottawa Senators,OTT
+71,3,9,New York Rangers,Ottawa Senators,2022020376123,2022020376,Giveaway,123,GIVEAWAY,Giveaway by Libor Hajek,2022-12-03T00:35:24Z,1,14:42,05:18,1,0,3.0,New York Rangers,NYR
+72,3,9,New York Rangers,Ottawa Senators,202202037631,2022020376,Stoppage,31,STOP,Icing,2022-12-03T00:35:30Z,1,14:48,05:12,1,0,,,
+73,3,9,New York Rangers,Ottawa Senators,2022020376124,2022020376,Faceoff,124,FACEOFF,Barclay Goodrow faceoff won against Brady Tkachuk,2022-12-03T00:35:56Z,1,14:48,05:12,1,0,3.0,New York Rangers,NYR
+74,3,9,New York Rangers,Ottawa Senators,2022020376178,2022020376,Blocked Shot,178,BLOCKED_SHOT,Brady Tkachuk shot blocked shot by Libor Hajek,2022-12-03T00:36:04Z,1,14:56,05:04,1,0,3.0,New York Rangers,NYR
+75,3,9,New York Rangers,Ottawa Senators,202202037632,2022020376,Stoppage,32,STOP,Goalie Stopped,2022-12-03T00:36:04Z,1,14:57,05:03,1,0,,,
+76,3,9,New York Rangers,Ottawa Senators,2022020376125,2022020376,Faceoff,125,FACEOFF,Brady Tkachuk faceoff won against Mika Zibanejad,2022-12-03T00:36:31Z,1,14:57,05:03,1,0,9.0,Ottawa Senators,OTT
+77,3,9,New York Rangers,Ottawa Senators,2022020376179,2022020376,Shot,179,SHOT,Tim Stützle Wrist Shot saved by Igor Shesterkin,2022-12-03T00:36:39Z,1,15:05,04:55,1,0,9.0,Ottawa Senators,OTT
+78,3,9,New York Rangers,Ottawa Senators,202202037633,2022020376,Stoppage,33,STOP,Goalie Stopped,2022-12-03T00:36:41Z,1,15:07,04:53,1,0,,,
+79,3,9,New York Rangers,Ottawa Senators,2022020376126,2022020376,Faceoff,126,FACEOFF,Mika Zibanejad faceoff won against Claude Giroux,2022-12-03T00:37:12Z,1,15:07,04:53,1,0,3.0,New York Rangers,NYR
+80,3,9,New York Rangers,Ottawa Senators,202202037634,2022020376,Stoppage,34,STOP,Icing,2022-12-03T00:37:48Z,1,15:43,04:17,1,0,,,
+81,3,9,New York Rangers,Ottawa Senators,2022020376127,2022020376,Faceoff,127,FACEOFF,Tim Stützle faceoff won against Vincent Trocheck,2022-12-03T00:38:10Z,1,15:43,04:17,1,0,9.0,Ottawa Senators,OTT
+82,3,9,New York Rangers,Ottawa Senators,202202037635,2022020376,Stoppage,35,STOP,Icing,2022-12-03T00:38:22Z,1,15:55,04:05,1,0,,,
+83,3,9,New York Rangers,Ottawa Senators,2022020376128,2022020376,Faceoff,128,FACEOFF,Vincent Trocheck faceoff won against Shane Pinto,2022-12-03T00:38:54Z,1,15:55,04:05,1,0,3.0,New York Rangers,NYR
+84,3,9,New York Rangers,Ottawa Senators,202202037636,2022020376,Stoppage,36,STOP,Icing,2022-12-03T00:39:03Z,1,16:03,03:57,1,0,,,
+85,3,9,New York Rangers,Ottawa Senators,2022020376129,2022020376,Faceoff,129,FACEOFF,Vincent Trocheck faceoff won against Shane Pinto,2022-12-03T00:39:25Z,1,16:03,03:57,1,0,3.0,New York Rangers,NYR
+86,3,9,New York Rangers,Ottawa Senators,2022020376130,2022020376,Giveaway,130,GIVEAWAY,Giveaway by Alexis Lafrenière,2022-12-03T00:39:43Z,1,16:21,03:39,1,0,3.0,New York Rangers,NYR
+87,3,9,New York Rangers,Ottawa Senators,2022020376131,2022020376,Giveaway,131,GIVEAWAY,Giveaway by Vincent Trocheck,2022-12-03T00:39:57Z,1,16:35,03:25,1,0,3.0,New York Rangers,NYR
+88,3,9,New York Rangers,Ottawa Senators,2022020376132,2022020376,Takeaway,132,TAKEAWAY,Takeaway by Vincent Trocheck,2022-12-03T00:40:03Z,1,16:41,03:19,1,0,3.0,New York Rangers,NYR
+89,3,9,New York Rangers,Ottawa Senators,2022020376180,2022020376,Shot,180,SHOT,Vincent Trocheck Wrap-around saved by Cam Talbot,2022-12-03T00:40:10Z,1,16:48,03:12,1,0,3.0,New York Rangers,NYR
+90,3,9,New York Rangers,Ottawa Senators,2022020376181,2022020376,Shot,181,SHOT,Mark Kastelic Backhand saved by Igor Shesterkin,2022-12-03T00:40:41Z,1,17:19,02:41,1,0,9.0,Ottawa Senators,OTT
+91,3,9,New York Rangers,Ottawa Senators,202202037637,2022020376,Stoppage,37,STOP,Goalie Stopped,2022-12-03T00:40:43Z,1,17:21,02:39,1,0,,,
+92,3,9,New York Rangers,Ottawa Senators,2022020376133,2022020376,Faceoff,133,FACEOFF,Brady Tkachuk faceoff won against Filip Chytil,2022-12-03T00:41:39Z,1,17:21,02:39,1,0,9.0,Ottawa Senators,OTT
+93,3,9,New York Rangers,Ottawa Senators,2022020376182,2022020376,Shot,182,SHOT,Brady Tkachuk Tip-In saved by Igor Shesterkin,2022-12-03T00:41:44Z,1,17:26,02:34,1,0,9.0,Ottawa Senators,OTT
+94,3,9,New York Rangers,Ottawa Senators,202202037638,2022020376,Stoppage,38,STOP,Goalie Stopped,2022-12-03T00:41:46Z,1,17:28,02:32,1,0,,,
+95,3,9,New York Rangers,Ottawa Senators,2022020376134,2022020376,Faceoff,134,FACEOFF,Brady Tkachuk faceoff won against Artemi Panarin,2022-12-03T00:42:11Z,1,17:28,02:32,1,0,9.0,Ottawa Senators,OTT
+96,3,9,New York Rangers,Ottawa Senators,2022020376183,2022020376,Shot,183,SHOT,Brady Tkachuk Tip-In saved by Igor Shesterkin,2022-12-03T00:42:15Z,1,17:32,02:28,1,0,9.0,Ottawa Senators,OTT
+97,3,9,New York Rangers,Ottawa Senators,2022020376184,2022020376,Shot,184,SHOT,Tim Stützle Backhand saved by Igor Shesterkin,2022-12-03T00:42:17Z,1,17:34,02:26,1,0,9.0,Ottawa Senators,OTT
+98,3,9,New York Rangers,Ottawa Senators,202202037639,2022020376,Stoppage,39,STOP,Goalie Stopped,2022-12-03T00:42:18Z,1,17:35,02:25,1,0,,,
+99,3,9,New York Rangers,Ottawa Senators,2022020376135,2022020376,Faceoff,135,FACEOFF,Claude Giroux faceoff won against Barclay Goodrow,2022-12-03T00:42:48Z,1,17:35,02:25,1,0,9.0,Ottawa Senators,OTT
+100,3,9,New York Rangers,Ottawa Senators,2022020376185,2022020376,Shot,185,SHOT,Tim Stützle Wrist Shot saved by Igor Shesterkin,2022-12-03T00:42:56Z,1,17:43,02:17,1,0,9.0,Ottawa Senators,OTT
+101,3,9,New York Rangers,Ottawa Senators,2022020376186,2022020376,Missed Shot,186,MISSED_SHOT,Brady Tkachuk Wide of Net Igor Shesterkin,2022-12-03T00:43:01Z,1,17:48,02:12,1,0,9.0,Ottawa Senators,OTT
+102,3,9,New York Rangers,Ottawa Senators,202202037640,2022020376,Hit,40,HIT,K'Andre Miller hit Tim Stützle,2022-12-03T00:43:06Z,1,17:53,02:07,1,0,3.0,New York Rangers,NYR
+103,3,9,New York Rangers,Ottawa Senators,202202037641,2022020376,Hit,41,HIT,Tyler Motte hit K'Andre Miller,2022-12-03T00:43:32Z,1,18:19,01:41,1,0,9.0,Ottawa Senators,OTT
+104,3,9,New York Rangers,Ottawa Senators,2022020376187,2022020376,Shot,187,SHOT,Jacob Trouba Slap Shot saved by Cam Talbot,2022-12-03T00:43:38Z,1,18:25,01:35,1,0,3.0,New York Rangers,NYR
+105,3,9,New York Rangers,Ottawa Senators,202202037642,2022020376,Stoppage,42,STOP,Puck in Benches,2022-12-03T00:43:53Z,1,18:40,01:20,1,0,,,
+106,3,9,New York Rangers,Ottawa Senators,2022020376136,2022020376,Faceoff,136,FACEOFF,Shane Pinto faceoff won against Mika Zibanejad,2022-12-03T00:44:21Z,1,18:40,01:20,1,0,9.0,Ottawa Senators,OTT
+107,3,9,New York Rangers,Ottawa Senators,202202037643,2022020376,Stoppage,43,STOP,Hand Pass,2022-12-03T00:44:33Z,1,18:52,01:08,1,0,,,
+108,3,9,New York Rangers,Ottawa Senators,2022020376137,2022020376,Faceoff,137,FACEOFF,Mika Zibanejad faceoff won against Shane Pinto,2022-12-03T00:44:57Z,1,18:52,01:08,1,0,3.0,New York Rangers,NYR
+109,3,9,New York Rangers,Ottawa Senators,2022020376138,2022020376,Giveaway,138,GIVEAWAY,Giveaway by Adam Fox,2022-12-03T00:45:36Z,1,19:31,00:29,1,0,3.0,New York Rangers,NYR
+110,3,9,New York Rangers,Ottawa Senators,202202037644,2022020376,Period End,44,PERIOD_END,End of 1st Period,2022-12-03T00:46:05Z,1,20:00,00:00,1,0,,,
+111,3,9,New York Rangers,Ottawa Senators,202202037647,2022020376,Period Official,47,PERIOD_OFFICIAL,Period Official,2022-12-03T00:46:14Z,1,20:00,00:00,1,0,,,
+112,3,9,New York Rangers,Ottawa Senators,202202037648,2022020376,Period Ready,48,PERIOD_READY,Period Ready,2022-12-03T01:04:46Z,2,00:00,20:00,1,0,,,
+113,3,9,New York Rangers,Ottawa Senators,2022020376139,2022020376,Period Start,139,PERIOD_START,Period Start,2022-12-03T01:04:58Z,2,00:00,20:00,1,0,,,
+114,3,9,New York Rangers,Ottawa Senators,2022020376140,2022020376,Faceoff,140,FACEOFF,Claude Giroux faceoff won against Mika Zibanejad,2022-12-03T01:04:58Z,2,00:00,20:00,1,0,9.0,Ottawa Senators,OTT
+115,3,9,New York Rangers,Ottawa Senators,202202037649,2022020376,Stoppage,49,STOP,Puck in Netting,2022-12-03T01:05:07Z,2,00:10,19:50,1,0,,,
+116,3,9,New York Rangers,Ottawa Senators,2022020376141,2022020376,Faceoff,141,FACEOFF,Brady Tkachuk faceoff won against Mika Zibanejad,2022-12-03T01:05:26Z,2,00:10,19:50,1,0,9.0,Ottawa Senators,OTT
+117,3,9,New York Rangers,Ottawa Senators,2022020376188,2022020376,Shot,188,SHOT,Claude Giroux Snap Shot saved by Igor Shesterkin,2022-12-03T01:05:28Z,2,00:12,19:48,1,0,9.0,Ottawa Senators,OTT
+118,3,9,New York Rangers,Ottawa Senators,202202037650,2022020376,Hit,50,HIT,Brady Tkachuk hit Ryan Lindgren,2022-12-03T01:05:33Z,2,00:17,19:43,1,0,9.0,Ottawa Senators,OTT
+119,3,9,New York Rangers,Ottawa Senators,2022020376189,2022020376,Shot,189,SHOT,Thomas Chabot Wrist Shot saved by Igor Shesterkin,2022-12-03T01:05:47Z,2,00:31,19:29,1,0,9.0,Ottawa Senators,OTT
+120,3,9,New York Rangers,Ottawa Senators,2022020376142,2022020376,Giveaway,142,GIVEAWAY,Giveaway by Claude Giroux,2022-12-03T01:05:55Z,2,00:39,19:21,1,0,9.0,Ottawa Senators,OTT
+121,3,9,New York Rangers,Ottawa Senators,2022020376143,2022020376,Takeaway,143,TAKEAWAY,Takeaway by Filip Chytil,2022-12-03T01:06:09Z,2,00:53,19:07,1,0,3.0,New York Rangers,NYR
+122,3,9,New York Rangers,Ottawa Senators,2022020376190,2022020376,Shot,190,SHOT,Shane Pinto Wrist Shot saved by Igor Shesterkin,2022-12-03T01:06:18Z,2,01:02,18:58,1,0,9.0,Ottawa Senators,OTT
+123,3,9,New York Rangers,Ottawa Senators,2022020376144,2022020376,Giveaway,144,GIVEAWAY,Giveaway by K'Andre Miller,2022-12-03T01:06:42Z,2,01:26,18:34,1,0,3.0,New York Rangers,NYR
+124,3,9,New York Rangers,Ottawa Senators,2022020376301,2022020376,Hit,301,HIT,Alexis Lafrenière hit Dylan Gambrell,2022-12-03T01:07:30Z,2,02:14,17:46,1,0,3.0,New York Rangers,NYR
+125,3,9,New York Rangers,Ottawa Senators,2022020376302,2022020376,Stoppage,302,STOP,Icing,2022-12-03T01:08:08Z,2,02:51,17:09,1,0,,,
+126,3,9,New York Rangers,Ottawa Senators,2022020376145,2022020376,Faceoff,145,FACEOFF,Mika Zibanejad faceoff won against Tyler Motte,2022-12-03T01:08:32Z,2,02:51,17:09,1,0,3.0,New York Rangers,NYR
+127,3,9,New York Rangers,Ottawa Senators,2022020376192,2022020376,Shot,192,SHOT,Ryan Lindgren Wrist Shot saved by Cam Talbot,2022-12-03T01:08:35Z,2,02:54,17:06,1,0,3.0,New York Rangers,NYR
+128,3,9,New York Rangers,Ottawa Senators,2022020376303,2022020376,Stoppage,303,STOP,Goalie Stopped,2022-12-03T01:08:37Z,2,02:56,17:04,1,0,,,
+129,3,9,New York Rangers,Ottawa Senators,2022020376146,2022020376,Faceoff,146,FACEOFF,Barclay Goodrow faceoff won against Mark Kastelic,2022-12-03T01:09:10Z,2,02:56,17:04,1,0,3.0,New York Rangers,NYR
+130,3,9,New York Rangers,Ottawa Senators,2022020376304,2022020376,Hit,304,HIT,Julien Gauthier hit Parker Kelly,2022-12-03T01:09:20Z,2,03:06,16:54,1,0,3.0,New York Rangers,NYR
+131,3,9,New York Rangers,Ottawa Senators,2022020376147,2022020376,Giveaway,147,GIVEAWAY,Giveaway by Mark Kastelic,2022-12-03T01:09:42Z,2,03:28,16:32,1,0,9.0,Ottawa Senators,OTT
+132,3,9,New York Rangers,Ottawa Senators,2022020376305,2022020376,Hit,305,HIT,Austin Watson hit Julien Gauthier,2022-12-03T01:09:46Z,2,03:32,16:28,1,0,9.0,Ottawa Senators,OTT
+133,3,9,New York Rangers,Ottawa Senators,2022020376306,2022020376,Hit,306,HIT,Sammy Blais hit Artem Zub,2022-12-03T01:09:53Z,2,03:39,16:21,1,0,3.0,New York Rangers,NYR
+134,3,9,New York Rangers,Ottawa Senators,2022020376193,2022020376,Blocked Shot,193,BLOCKED_SHOT,Braden Schneider shot blocked shot by Mark Kastelic,2022-12-03T01:09:59Z,2,03:45,16:15,1,0,9.0,Ottawa Senators,OTT
+135,3,9,New York Rangers,Ottawa Senators,2022020376447,2022020376,Penalty,447,PENALTY,Artem Zub Cross-checking against Sammy Blais,2022-12-03T01:10:00Z,2,03:47,16:13,1,0,9.0,Ottawa Senators,OTT
+136,3,9,New York Rangers,Ottawa Senators,2022020376148,2022020376,Faceoff,148,FACEOFF,Claude Giroux faceoff won against Vincent Trocheck,2022-12-03T01:10:50Z,2,03:47,16:13,1,0,9.0,Ottawa Senators,OTT
+137,3,9,New York Rangers,Ottawa Senators,2022020376194,2022020376,Shot,194,SHOT,Austin Watson Backhand saved by Igor Shesterkin,2022-12-03T01:11:11Z,2,04:08,15:52,1,0,9.0,Ottawa Senators,OTT
+138,3,9,New York Rangers,Ottawa Senators,2022020376195,2022020376,Shot,195,SHOT,Dylan Gambrell Slap Shot saved by Igor Shesterkin,2022-12-03T01:11:25Z,2,04:22,15:38,1,0,9.0,Ottawa Senators,OTT
+139,3,9,New York Rangers,Ottawa Senators,2022020376149,2022020376,Giveaway,149,GIVEAWAY,Giveaway by Tyler Motte,2022-12-03T01:11:41Z,2,04:38,15:22,1,0,9.0,Ottawa Senators,OTT
+140,3,9,New York Rangers,Ottawa Senators,2022020376308,2022020376,Hit,308,HIT,Sammy Blais hit Nikita Zaitsev,2022-12-03T01:12:23Z,2,05:20,14:40,1,0,3.0,New York Rangers,NYR
+141,3,9,New York Rangers,Ottawa Senators,2022020376309,2022020376,Stoppage,309,STOP,Offside,2022-12-03T01:12:52Z,2,05:49,14:11,1,0,,,
+142,3,9,New York Rangers,Ottawa Senators,2022020376150,2022020376,Faceoff,150,FACEOFF,Shane Pinto faceoff won against Barclay Goodrow,2022-12-03T01:13:27Z,2,05:49,14:11,1,0,9.0,Ottawa Senators,OTT
+143,3,9,New York Rangers,Ottawa Senators,2022020376310,2022020376,Hit,310,HIT,K'Andre Miller hit Alex DeBrincat,2022-12-03T01:13:34Z,2,05:56,14:04,1,0,3.0,New York Rangers,NYR
+144,3,9,New York Rangers,Ottawa Senators,2022020376197,2022020376,Shot,197,SHOT,Alex DeBrincat Snap Shot saved by Igor Shesterkin,2022-12-03T01:14:09Z,2,06:31,13:29,1,0,9.0,Ottawa Senators,OTT
+145,3,9,New York Rangers,Ottawa Senators,2022020376198,2022020376,Blocked Shot,198,BLOCKED_SHOT,Drake Batherson shot blocked shot by K'Andre Miller,2022-12-03T01:14:17Z,2,06:39,13:21,1,0,3.0,New York Rangers,NYR
+146,3,9,New York Rangers,Ottawa Senators,2022020376199,2022020376,Blocked Shot,199,BLOCKED_SHOT,Thomas Chabot shot blocked shot by K'Andre Miller,2022-12-03T01:14:21Z,2,06:43,13:17,1,0,3.0,New York Rangers,NYR
+147,3,9,New York Rangers,Ottawa Senators,2022020376361,2022020376,Missed Shot,361,MISSED_SHOT,Julien Gauthier Wide of Net Cam Talbot,2022-12-03T01:14:27Z,2,06:49,13:11,1,0,3.0,New York Rangers,NYR
+148,3,9,New York Rangers,Ottawa Senators,2022020376200,2022020376,Blocked Shot,200,BLOCKED_SHOT,Filip Chytil shot blocked shot by Artem Zub,2022-12-03T01:14:41Z,2,07:03,12:57,1,0,9.0,Ottawa Senators,OTT
+149,3,9,New York Rangers,Ottawa Senators,2022020376451,2022020376,Giveaway,451,GIVEAWAY,Giveaway by Adam Fox,2022-12-03T01:14:48Z,2,07:10,12:50,1,0,3.0,New York Rangers,NYR
+150,3,9,New York Rangers,Ottawa Senators,2022020376351,2022020376,Shot,351,SHOT,Tim Stützle Wrist Shot saved by Igor Shesterkin,2022-12-03T01:14:58Z,2,07:20,12:40,1,0,9.0,Ottawa Senators,OTT
+151,3,9,New York Rangers,Ottawa Senators,2022020376311,2022020376,Hit,311,HIT,Tim Stützle hit Ryan Lindgren,2022-12-03T01:15:00Z,2,07:22,12:38,1,0,9.0,Ottawa Senators,OTT
+152,3,9,New York Rangers,Ottawa Senators,2022020376352,2022020376,Shot,352,SHOT,Filip Chytil Wrist Shot saved by Cam Talbot,2022-12-03T01:15:04Z,2,07:26,12:34,1,0,3.0,New York Rangers,NYR
+153,3,9,New York Rangers,Ottawa Senators,2022020376452,2022020376,Giveaway,452,GIVEAWAY,Giveaway by Thomas Chabot,2022-12-03T01:15:23Z,2,07:45,12:15,1,0,9.0,Ottawa Senators,OTT
+154,3,9,New York Rangers,Ottawa Senators,2022020376353,2022020376,Missed Shot,353,MISSED_SHOT,Brady Tkachuk Over Net Igor Shesterkin,2022-12-03T01:15:27Z,2,07:49,12:11,1,0,9.0,Ottawa Senators,OTT
+155,3,9,New York Rangers,Ottawa Senators,2022020376453,2022020376,Giveaway,453,GIVEAWAY,Giveaway by Vitali Kravtsov,2022-12-03T01:15:35Z,2,07:57,12:03,1,0,3.0,New York Rangers,NYR
+156,3,9,New York Rangers,Ottawa Senators,2022020376454,2022020376,Takeaway,454,TAKEAWAY,Takeaway by Tyler Motte,2022-12-03T01:15:49Z,2,08:11,11:49,1,0,9.0,Ottawa Senators,OTT
+157,3,9,New York Rangers,Ottawa Senators,2022020376354,2022020376,Blocked Shot,354,BLOCKED_SHOT,Tyler Motte shot blocked shot by Mika Zibanejad,2022-12-03T01:16:09Z,2,08:31,11:29,1,0,3.0,New York Rangers,NYR
+158,3,9,New York Rangers,Ottawa Senators,2022020376312,2022020376,Stoppage,312,STOP,Puck in Netting,2022-12-03T01:16:11Z,2,08:33,11:27,1,0,,,
+159,3,9,New York Rangers,Ottawa Senators,2022020376455,2022020376,Faceoff,455,FACEOFF,Vincent Trocheck faceoff won against Dylan Gambrell,2022-12-03T01:18:35Z,2,08:33,11:27,1,0,3.0,New York Rangers,NYR
+160,3,9,New York Rangers,Ottawa Senators,2022020376355,2022020376,Missed Shot,355,MISSED_SHOT,Tyler Motte Wide of Net Igor Shesterkin,2022-12-03T01:18:51Z,2,08:49,11:11,1,0,9.0,Ottawa Senators,OTT
+161,3,9,New York Rangers,Ottawa Senators,2022020376456,2022020376,Giveaway,456,GIVEAWAY,Giveaway by Vincent Trocheck,2022-12-03T01:18:53Z,2,08:51,11:09,1,0,3.0,New York Rangers,NYR
+162,3,9,New York Rangers,Ottawa Senators,2022020376313,2022020376,Stoppage,313,STOP,Icing,2022-12-03T01:19:16Z,2,09:14,10:46,1,0,,,
+163,3,9,New York Rangers,Ottawa Senators,2022020376457,2022020376,Faceoff,457,FACEOFF,Shane Pinto faceoff won against Vincent Trocheck,2022-12-03T01:19:50Z,2,09:14,10:46,1,0,9.0,Ottawa Senators,OTT
+164,3,9,New York Rangers,Ottawa Senators,2022020376356,2022020376,Shot,356,SHOT,Drake Batherson Wrist Shot saved by Igor Shesterkin,2022-12-03T01:19:53Z,2,09:17,10:43,1,0,9.0,Ottawa Senators,OTT
+165,3,9,New York Rangers,Ottawa Senators,2022020376314,2022020376,Stoppage,314,STOP,Goalie Stopped,2022-12-03T01:19:55Z,2,09:18,10:42,1,0,,,
+166,3,9,New York Rangers,Ottawa Senators,2022020376458,2022020376,Faceoff,458,FACEOFF,Shane Pinto faceoff won against Filip Chytil,2022-12-03T01:20:24Z,2,09:18,10:42,1,0,9.0,Ottawa Senators,OTT
+167,3,9,New York Rangers,Ottawa Senators,2022020376315,2022020376,Stoppage,315,STOP,Puck Frozen,2022-12-03T01:20:42Z,2,09:36,10:24,1,0,,,
+168,3,9,New York Rangers,Ottawa Senators,2022020376459,2022020376,Faceoff,459,FACEOFF,Barclay Goodrow faceoff won against Parker Kelly,2022-12-03T01:21:27Z,2,09:36,10:24,1,0,3.0,New York Rangers,NYR
+169,3,9,New York Rangers,Ottawa Senators,2022020376357,2022020376,Blocked Shot,357,BLOCKED_SHOT,K'Andre Miller shot blocked shot by Austin Watson,2022-12-03T01:21:33Z,2,09:42,10:18,1,0,9.0,Ottawa Senators,OTT
+170,3,9,New York Rangers,Ottawa Senators,2022020376358,2022020376,Shot,358,SHOT,K'Andre Miller Wrist Shot saved by Cam Talbot,2022-12-03T01:22:24Z,2,10:33,09:27,1,0,3.0,New York Rangers,NYR
+171,3,9,New York Rangers,Ottawa Senators,2022020376316,2022020376,Stoppage,316,STOP,Referee or Linesman,2022-12-03T01:22:59Z,2,11:08,08:52,1,0,,,
+172,3,9,New York Rangers,Ottawa Senators,2022020376461,2022020376,Faceoff,461,FACEOFF,Mika Zibanejad faceoff won against Dylan Gambrell,2022-12-03T01:25:39Z,2,11:08,08:52,1,0,3.0,New York Rangers,NYR
+173,3,9,New York Rangers,Ottawa Senators,2022020376317,2022020376,Official Challenge,317,CHALLENGE,Coach's Challenge,2022-12-03T01:25:40Z,2,11:08,08:52,1,0,3.0,New York Rangers,NYR
+174,3,9,New York Rangers,Ottawa Senators,2022020376319,2022020376,Stoppage,319,STOP,Offside,2022-12-03T01:25:40Z,2,11:08,08:52,1,0,,,
+175,3,9,New York Rangers,Ottawa Senators,2022020376318,2022020376,Stoppage,318,STOP,Icing,2022-12-03T01:25:58Z,2,11:28,08:32,1,0,,,
+176,3,9,New York Rangers,Ottawa Senators,2022020376462,2022020376,Faceoff,462,FACEOFF,Shane Pinto faceoff won against Mika Zibanejad,2022-12-03T01:26:22Z,2,11:28,08:32,1,0,9.0,Ottawa Senators,OTT
+177,3,9,New York Rangers,Ottawa Senators,2022020376463,2022020376,Giveaway,463,GIVEAWAY,Giveaway by Drake Batherson,2022-12-03T01:26:44Z,2,11:50,08:10,1,0,9.0,Ottawa Senators,OTT
+178,3,9,New York Rangers,Ottawa Senators,2022020376362,2022020376,Blocked Shot,362,BLOCKED_SHOT,Jake Sanderson shot blocked shot by Libor Hajek,2022-12-03T01:26:50Z,2,11:56,08:04,1,0,3.0,New York Rangers,NYR
+179,3,9,New York Rangers,Ottawa Senators,2022020376320,2022020376,Stoppage,320,STOP,TV timeout,2022-12-03T01:26:57Z,2,12:04,07:56,1,0,,,
+180,3,9,New York Rangers,Ottawa Senators,2022020376612,2022020376,Penalty,612,PENALTY,Jacob Trouba Tripping against Drake Batherson,2022-12-03T01:26:57Z,2,12:04,07:56,1,0,3.0,New York Rangers,NYR
+181,3,9,New York Rangers,Ottawa Senators,2022020376464,2022020376,Faceoff,464,FACEOFF,Brady Tkachuk faceoff won against Mika Zibanejad,2022-12-03T01:29:13Z,2,12:04,07:56,1,0,9.0,Ottawa Senators,OTT
+182,3,9,New York Rangers,Ottawa Senators,2022020376363,2022020376,Shot,363,SHOT,Alex DeBrincat Wrist Shot saved by Igor Shesterkin,2022-12-03T01:29:20Z,2,12:11,07:49,1,0,9.0,Ottawa Senators,OTT
+183,3,9,New York Rangers,Ottawa Senators,2022020376364,2022020376,Shot,364,SHOT,Brady Tkachuk Wrist Shot saved by Igor Shesterkin,2022-12-03T01:29:23Z,2,12:14,07:46,1,0,9.0,Ottawa Senators,OTT
+184,3,9,New York Rangers,Ottawa Senators,2022020376365,2022020376,Goal,365,GOAL,"Tim Stützle (9) Backhand, assists: Brady Tkachuk (17), Alex DeBrincat (12)",2022-12-03T01:29:25Z,2,12:16,07:44,1,1,9.0,Ottawa Senators,OTT
+185,3,9,New York Rangers,Ottawa Senators,2022020376465,2022020376,Faceoff,465,FACEOFF,Dylan Gambrell faceoff won against Filip Chytil,2022-12-03T01:30:20Z,2,12:16,07:44,1,1,9.0,Ottawa Senators,OTT
+186,3,9,New York Rangers,Ottawa Senators,2022020376321,2022020376,Stoppage,321,STOP,Icing,2022-12-03T01:30:25Z,2,12:21,07:39,1,1,,,
+187,3,9,New York Rangers,Ottawa Senators,2022020376466,2022020376,Faceoff,466,FACEOFF,Dylan Gambrell faceoff won against Filip Chytil,2022-12-03T01:30:50Z,2,12:21,07:39,1,1,9.0,Ottawa Senators,OTT
+188,3,9,New York Rangers,Ottawa Senators,2022020376467,2022020376,Takeaway,467,TAKEAWAY,Takeaway by Tyler Motte,2022-12-03T01:31:03Z,2,12:34,07:26,1,1,9.0,Ottawa Senators,OTT
+189,3,9,New York Rangers,Ottawa Senators,2022020376322,2022020376,Stoppage,322,STOP,Icing,2022-12-03T01:31:20Z,2,12:51,07:09,1,1,,,
+190,3,9,New York Rangers,Ottawa Senators,2022020376468,2022020376,Faceoff,468,FACEOFF,Vincent Trocheck faceoff won against Dylan Gambrell,2022-12-03T01:31:46Z,2,12:51,07:09,1,1,3.0,New York Rangers,NYR
+191,3,9,New York Rangers,Ottawa Senators,2022020376366,2022020376,Shot,366,SHOT,Alexis Lafrenière Wrist Shot saved by Cam Talbot,2022-12-03T01:31:48Z,2,12:53,07:07,1,1,3.0,New York Rangers,NYR
+192,3,9,New York Rangers,Ottawa Senators,2022020376367,2022020376,Shot,367,SHOT,Alexis Lafrenière Snap Shot saved by Cam Talbot,2022-12-03T01:32:02Z,2,13:07,06:53,1,1,3.0,New York Rangers,NYR
+193,3,9,New York Rangers,Ottawa Senators,2022020376323,2022020376,Stoppage,323,STOP,Goalie Stopped,2022-12-03T01:32:04Z,2,13:09,06:51,1,1,,,
+194,3,9,New York Rangers,Ottawa Senators,2022020376469,2022020376,Faceoff,469,FACEOFF,Mark Kastelic faceoff won against Alexis Lafrenière,2022-12-03T01:32:43Z,2,13:09,06:51,1,1,9.0,Ottawa Senators,OTT
+195,3,9,New York Rangers,Ottawa Senators,2022020376324,2022020376,Hit,324,HIT,Austin Watson hit Adam Fox,2022-12-03T01:32:54Z,2,13:20,06:40,1,1,9.0,Ottawa Senators,OTT
+196,3,9,New York Rangers,Ottawa Senators,2022020376368,2022020376,Blocked Shot,368,BLOCKED_SHOT,Vincent Trocheck shot blocked shot by Erik Brannstrom,2022-12-03T01:33:13Z,2,13:39,06:21,1,1,9.0,Ottawa Senators,OTT
+197,3,9,New York Rangers,Ottawa Senators,2022020376325,2022020376,Stoppage,325,STOP,Icing,2022-12-03T01:33:25Z,2,13:51,06:09,1,1,,,
+198,3,9,New York Rangers,Ottawa Senators,2022020376470,2022020376,Faceoff,470,FACEOFF,Mark Kastelic faceoff won against Barclay Goodrow,2022-12-03T01:33:52Z,2,13:51,06:09,1,1,9.0,Ottawa Senators,OTT
+199,3,9,New York Rangers,Ottawa Senators,2022020376369,2022020376,Missed Shot,369,MISSED_SHOT,Jake Sanderson Wide of Net Igor Shesterkin,2022-12-03T01:34:36Z,2,14:35,05:25,1,1,9.0,Ottawa Senators,OTT
+200,3,9,New York Rangers,Ottawa Senators,2022020376370,2022020376,Blocked Shot,370,BLOCKED_SHOT,Travis Hamonic shot blocked shot by Barclay Goodrow,2022-12-03T01:34:40Z,2,14:39,05:21,1,1,3.0,New York Rangers,NYR
+201,3,9,New York Rangers,Ottawa Senators,2022020376326,2022020376,Stoppage,326,STOP,TV timeout,2022-12-03T01:34:58Z,2,14:58,05:02,1,1,,,
+202,3,9,New York Rangers,Ottawa Senators,2022020376635,2022020376,Penalty,635,PENALTY,Jacob Trouba Fighting against Brady Tkachuk,2022-12-03T01:34:58Z,2,14:58,05:02,1,1,3.0,New York Rangers,NYR
+203,3,9,New York Rangers,Ottawa Senators,2022020376639,2022020376,Penalty,639,PENALTY,Brady Tkachuk Fighting against Jacob Trouba,2022-12-03T01:34:58Z,2,14:58,05:02,1,1,9.0,Ottawa Senators,OTT
+204,3,9,New York Rangers,Ottawa Senators,2022020376471,2022020376,Faceoff,471,FACEOFF,Shane Pinto faceoff won against Mika Zibanejad,2022-12-03T01:38:05Z,2,14:58,05:02,1,1,9.0,Ottawa Senators,OTT
+205,3,9,New York Rangers,Ottawa Senators,2022020376371,2022020376,Missed Shot,371,MISSED_SHOT,Adam Fox Wide of Net Cam Talbot,2022-12-03T01:38:30Z,2,15:23,04:37,1,1,3.0,New York Rangers,NYR
+206,3,9,New York Rangers,Ottawa Senators,2022020376327,2022020376,Hit,327,HIT,Travis Hamonic hit Chris Kreider,2022-12-03T01:38:43Z,2,15:36,04:24,1,1,9.0,Ottawa Senators,OTT
+207,3,9,New York Rangers,Ottawa Senators,2022020376372,2022020376,Blocked Shot,372,BLOCKED_SHOT,Braden Schneider shot blocked shot by Mathieu Joseph,2022-12-03T01:39:24Z,2,16:17,03:43,1,1,9.0,Ottawa Senators,OTT
+208,3,9,New York Rangers,Ottawa Senators,2022020376373,2022020376,Missed Shot,373,MISSED_SHOT,Filip Chytil Wide of Net Cam Talbot,2022-12-03T01:39:37Z,2,16:30,03:30,1,1,3.0,New York Rangers,NYR
+209,3,9,New York Rangers,Ottawa Senators,2022020376328,2022020376,Stoppage,328,STOP,Hand Pass,2022-12-03T01:39:43Z,2,16:36,03:24,1,1,,,
+210,3,9,New York Rangers,Ottawa Senators,2022020376472,2022020376,Faceoff,472,FACEOFF,Vincent Trocheck faceoff won against Tim Stützle,2022-12-03T01:40:16Z,2,16:36,03:24,1,1,3.0,New York Rangers,NYR
+211,3,9,New York Rangers,Ottawa Senators,2022020376473,2022020376,Giveaway,473,GIVEAWAY,Giveaway by Adam Fox,2022-12-03T01:40:36Z,2,16:56,03:04,1,1,3.0,New York Rangers,NYR
+212,3,9,New York Rangers,Ottawa Senators,2022020376374,2022020376,Blocked Shot,374,BLOCKED_SHOT,Alexis Lafrenière shot blocked shot by Artem Zub,2022-12-03T01:40:40Z,2,17:00,03:00,1,1,9.0,Ottawa Senators,OTT
+213,3,9,New York Rangers,Ottawa Senators,2022020376474,2022020376,Giveaway,474,GIVEAWAY,Giveaway by Tyler Motte,2022-12-03T01:40:54Z,2,17:14,02:46,1,1,9.0,Ottawa Senators,OTT
+214,3,9,New York Rangers,Ottawa Senators,2022020376329,2022020376,Hit,329,HIT,Austin Watson hit Vincent Trocheck,2022-12-03T01:40:59Z,2,17:19,02:41,1,1,9.0,Ottawa Senators,OTT
+215,3,9,New York Rangers,Ottawa Senators,2022020376330,2022020376,Hit,330,HIT,Julien Gauthier hit Artem Zub,2022-12-03T01:41:07Z,2,17:27,02:33,1,1,3.0,New York Rangers,NYR
+216,3,9,New York Rangers,Ottawa Senators,2022020376331,2022020376,Penalty,331,PENALTY,Barclay Goodrow Fighting against Austin Watson,2022-12-03T01:41:28Z,2,17:48,02:12,1,1,3.0,New York Rangers,NYR
+217,3,9,New York Rangers,Ottawa Senators,2022020376334,2022020376,Penalty,334,PENALTY,Austin Watson Fighting against Barclay Goodrow,2022-12-03T01:41:28Z,2,17:48,02:12,1,1,9.0,Ottawa Senators,OTT
+218,3,9,New York Rangers,Ottawa Senators,2022020376475,2022020376,Faceoff,475,FACEOFF,Vincent Trocheck faceoff won against Drake Batherson,2022-12-03T01:43:00Z,2,17:48,02:12,1,1,3.0,New York Rangers,NYR
+219,3,9,New York Rangers,Ottawa Senators,2022020376337,2022020376,Stoppage,337,STOP,Hand Pass,2022-12-03T01:43:08Z,2,17:56,02:04,1,1,,,
+220,3,9,New York Rangers,Ottawa Senators,2022020376476,2022020376,Faceoff,476,FACEOFF,Vincent Trocheck faceoff won against Shane Pinto,2022-12-03T01:43:31Z,2,17:56,02:04,1,1,3.0,New York Rangers,NYR
+221,3,9,New York Rangers,Ottawa Senators,2022020376375,2022020376,Missed Shot,375,MISSED_SHOT,Sammy Blais Goalpost Cam Talbot,2022-12-03T01:43:58Z,2,18:23,01:37,1,1,3.0,New York Rangers,NYR
+222,3,9,New York Rangers,Ottawa Senators,2022020376338,2022020376,Hit,338,HIT,Jake Sanderson hit Vincent Trocheck,2022-12-03T01:44:03Z,2,18:28,01:32,1,1,9.0,Ottawa Senators,OTT
+223,3,9,New York Rangers,Ottawa Senators,2022020376339,2022020376,Stoppage,339,STOP,Offside,2022-12-03T01:44:14Z,2,18:39,01:21,1,1,,,
+224,3,9,New York Rangers,Ottawa Senators,2022020376477,2022020376,Faceoff,477,FACEOFF,Dylan Gambrell faceoff won against Mika Zibanejad,2022-12-03T01:44:42Z,2,18:39,01:21,1,1,9.0,Ottawa Senators,OTT
+225,3,9,New York Rangers,Ottawa Senators,2022020376340,2022020376,Hit,340,HIT,Chris Kreider hit Thomas Chabot,2022-12-03T01:44:59Z,2,18:56,01:04,1,1,3.0,New York Rangers,NYR
+226,3,9,New York Rangers,Ottawa Senators,2022020376478,2022020376,Takeaway,478,TAKEAWAY,Takeaway by Jimmy Vesey,2022-12-03T01:45:00Z,2,18:57,01:03,1,1,3.0,New York Rangers,NYR
+227,3,9,New York Rangers,Ottawa Senators,2022020376376,2022020376,Blocked Shot,376,BLOCKED_SHOT,Jimmy Vesey shot blocked shot by Artem Zub,2022-12-03T01:45:01Z,2,18:58,01:02,1,1,9.0,Ottawa Senators,OTT
+228,3,9,New York Rangers,Ottawa Senators,2022020376341,2022020376,Stoppage,341,STOP,Icing,2022-12-03T01:45:31Z,2,19:27,00:33,1,1,,,
+229,3,9,New York Rangers,Ottawa Senators,2022020376479,2022020376,Faceoff,479,FACEOFF,Vincent Trocheck faceoff won against Dylan Gambrell,2022-12-03T01:45:57Z,2,19:27,00:33,1,1,3.0,New York Rangers,NYR
+230,3,9,New York Rangers,Ottawa Senators,2022020376377,2022020376,Shot,377,SHOT,Ryan Lindgren Wrist Shot saved by Cam Talbot,2022-12-03T01:46:08Z,2,19:39,00:21,1,1,3.0,New York Rangers,NYR
+231,3,9,New York Rangers,Ottawa Senators,2022020376342,2022020376,Hit,342,HIT,Artem Zub hit Alexis Lafrenière,2022-12-03T01:46:10Z,2,19:41,00:19,1,1,9.0,Ottawa Senators,OTT
+232,3,9,New York Rangers,Ottawa Senators,2022020376343,2022020376,Period End,343,PERIOD_END,End of 2nd Period,2022-12-03T01:46:29Z,2,20:00,00:00,1,1,,,
+233,3,9,New York Rangers,Ottawa Senators,2022020376348,2022020376,Period Official,348,PERIOD_OFFICIAL,Period Official,2022-12-03T01:46:47Z,2,20:00,00:00,1,1,,,
+234,3,9,New York Rangers,Ottawa Senators,2022020376349,2022020376,Period Ready,349,PERIOD_READY,Period Ready,2022-12-03T02:05:09Z,3,00:00,20:00,1,1,,,
+235,3,9,New York Rangers,Ottawa Senators,2022020376480,2022020376,Period Start,480,PERIOD_START,Period Start,2022-12-03T02:05:14Z,3,00:00,20:00,1,1,,,
+236,3,9,New York Rangers,Ottawa Senators,2022020376481,2022020376,Faceoff,481,FACEOFF,Mika Zibanejad faceoff won against Tim Stützle,2022-12-03T02:05:14Z,3,00:00,20:00,1,1,3.0,New York Rangers,NYR
+237,3,9,New York Rangers,Ottawa Senators,2022020376378,2022020376,Shot,378,SHOT,Claude Giroux Wrist Shot saved by Igor Shesterkin,2022-12-03T02:05:17Z,3,00:03,19:57,1,1,9.0,Ottawa Senators,OTT
+238,3,9,New York Rangers,Ottawa Senators,2022020376350,2022020376,Hit,350,HIT,Brady Tkachuk hit Adam Fox,2022-12-03T02:05:34Z,3,00:20,19:40,1,1,9.0,Ottawa Senators,OTT
+239,3,9,New York Rangers,Ottawa Senators,2022020376651,2022020376,Stoppage,651,STOP,Icing,2022-12-03T02:05:36Z,3,00:22,19:38,1,1,,,
+240,3,9,New York Rangers,Ottawa Senators,2022020376482,2022020376,Faceoff,482,FACEOFF,Shane Pinto faceoff won against Mika Zibanejad,2022-12-03T02:05:57Z,3,00:22,19:38,1,1,9.0,Ottawa Senators,OTT
+241,3,9,New York Rangers,Ottawa Senators,2022020376652,2022020376,Hit,652,HIT,Drake Batherson hit Adam Fox,2022-12-03T02:06:11Z,3,00:36,19:24,1,1,9.0,Ottawa Senators,OTT
+242,3,9,New York Rangers,Ottawa Senators,2022020376483,2022020376,Giveaway,483,GIVEAWAY,Giveaway by Ryan Lindgren,2022-12-03T02:06:17Z,3,00:42,19:18,1,1,3.0,New York Rangers,NYR
+243,3,9,New York Rangers,Ottawa Senators,2022020376653,2022020376,Hit,653,HIT,Chris Kreider hit Travis Hamonic,2022-12-03T02:06:25Z,3,00:50,19:10,1,1,3.0,New York Rangers,NYR
+244,3,9,New York Rangers,Ottawa Senators,2022020376654,2022020376,Stoppage,654,STOP,Icing,2022-12-03T02:06:42Z,3,01:07,18:53,1,1,,,
+245,3,9,New York Rangers,Ottawa Senators,2022020376484,2022020376,Faceoff,484,FACEOFF,Claude Giroux faceoff won against Mika Zibanejad,2022-12-03T02:07:16Z,3,01:07,18:53,1,1,9.0,Ottawa Senators,OTT
+246,3,9,New York Rangers,Ottawa Senators,2022020376379,2022020376,Shot,379,SHOT,Tim Stützle Snap Shot saved by Igor Shesterkin,2022-12-03T02:07:19Z,3,01:10,18:50,1,1,9.0,Ottawa Senators,OTT
+247,3,9,New York Rangers,Ottawa Senators,2022020376655,2022020376,Hit,655,HIT,Brady Tkachuk hit K'Andre Miller,2022-12-03T02:07:39Z,3,01:30,18:30,1,1,9.0,Ottawa Senators,OTT
+248,3,9,New York Rangers,Ottawa Senators,2022020376380,2022020376,Shot,380,SHOT,Filip Chytil Wrist Shot saved by Cam Talbot,2022-12-03T02:07:50Z,3,01:41,18:19,1,1,3.0,New York Rangers,NYR
+249,3,9,New York Rangers,Ottawa Senators,2022020376656,2022020376,Hit,656,HIT,Braden Schneider hit Erik Brannstrom,2022-12-03T02:08:19Z,3,02:10,17:50,1,1,3.0,New York Rangers,NYR
+250,3,9,New York Rangers,Ottawa Senators,2022020376657,2022020376,Hit,657,HIT,Dylan Gambrell hit Braden Schneider,2022-12-03T02:08:27Z,3,02:18,17:42,1,1,9.0,Ottawa Senators,OTT
+251,3,9,New York Rangers,Ottawa Senators,2022020376658,2022020376,Hit,658,HIT,Libor Hajek hit Mark Kastelic,2022-12-03T02:09:07Z,3,02:58,17:02,1,1,3.0,New York Rangers,NYR
+252,3,9,New York Rangers,Ottawa Senators,2022020376659,2022020376,Stoppage,659,STOP,Puck in Netting,2022-12-03T02:09:19Z,3,03:11,16:49,1,1,,,
+253,3,9,New York Rangers,Ottawa Senators,2022020376485,2022020376,Faceoff,485,FACEOFF,Mika Zibanejad faceoff won against Shane Pinto,2022-12-03T02:09:55Z,3,03:11,16:49,1,1,3.0,New York Rangers,NYR
+254,3,9,New York Rangers,Ottawa Senators,2022020376381,2022020376,Shot,381,SHOT,Mika Zibanejad Snap Shot saved by Cam Talbot,2022-12-03T02:10:05Z,3,03:21,16:39,1,1,3.0,New York Rangers,NYR
+255,3,9,New York Rangers,Ottawa Senators,2022020376660,2022020376,Stoppage,660,STOP,Goalie Stopped,2022-12-03T02:10:08Z,3,03:24,16:36,1,1,,,
+256,3,9,New York Rangers,Ottawa Senators,2022020376486,2022020376,Faceoff,486,FACEOFF,Mika Zibanejad faceoff won against Brady Tkachuk,2022-12-03T02:10:33Z,3,03:24,16:36,1,1,3.0,New York Rangers,NYR
+257,3,9,New York Rangers,Ottawa Senators,2022020376382,2022020376,Missed Shot,382,MISSED_SHOT,Adam Fox Wide of Net Cam Talbot,2022-12-03T02:10:38Z,3,03:29,16:31,1,1,3.0,New York Rangers,NYR
+258,3,9,New York Rangers,Ottawa Senators,2022020376383,2022020376,Blocked Shot,383,BLOCKED_SHOT,Mika Zibanejad shot blocked shot by Thomas Chabot,2022-12-03T02:10:39Z,3,03:30,16:30,1,1,9.0,Ottawa Senators,OTT
+259,3,9,New York Rangers,Ottawa Senators,2022020376863,2022020376,Penalty,863,PENALTY,Tim Stützle Slashing against Adam Fox,2022-12-03T02:10:42Z,3,03:33,16:27,1,1,9.0,Ottawa Senators,OTT
+260,3,9,New York Rangers,Ottawa Senators,2022020376487,2022020376,Faceoff,487,FACEOFF,Claude Giroux faceoff won against Vincent Trocheck,2022-12-03T02:11:29Z,3,03:33,16:27,1,1,9.0,Ottawa Senators,OTT
+261,3,9,New York Rangers,Ottawa Senators,2022020376488,2022020376,Giveaway,488,GIVEAWAY,Giveaway by Vincent Trocheck,2022-12-03T02:11:40Z,3,03:44,16:16,1,1,3.0,New York Rangers,NYR
+262,3,9,New York Rangers,Ottawa Senators,2022020376384,2022020376,Blocked Shot,384,BLOCKED_SHOT,Artemi Panarin shot blocked shot by Erik Brannstrom,2022-12-03T02:12:14Z,3,04:18,15:42,1,1,9.0,Ottawa Senators,OTT
+263,3,9,New York Rangers,Ottawa Senators,2022020376385,2022020376,Missed Shot,385,MISSED_SHOT,Vincent Trocheck Wide of Net Cam Talbot,2022-12-03T02:12:40Z,3,04:44,15:16,1,1,3.0,New York Rangers,NYR
+264,3,9,New York Rangers,Ottawa Senators,2022020376386,2022020376,Missed Shot,386,MISSED_SHOT,Chris Kreider Wide of Net Cam Talbot,2022-12-03T02:12:42Z,3,04:46,15:14,1,1,3.0,New York Rangers,NYR
+265,3,9,New York Rangers,Ottawa Senators,2022020376399,2022020376,Shot,399,SHOT,Artemi Panarin Wrist Shot saved by Cam Talbot,2022-12-03T02:12:44Z,3,04:48,15:12,1,1,3.0,New York Rangers,NYR
+266,3,9,New York Rangers,Ottawa Senators,2022020376662,2022020376,Stoppage,662,STOP,Goalie Stopped,2022-12-03T02:12:46Z,3,04:51,15:09,1,1,,,
+267,3,9,New York Rangers,Ottawa Senators,2022020376489,2022020376,Faceoff,489,FACEOFF,Claude Giroux faceoff won against Filip Chytil,2022-12-03T02:13:14Z,3,04:51,15:09,1,1,9.0,Ottawa Senators,OTT
+268,3,9,New York Rangers,Ottawa Senators,2022020376387,2022020376,Shot,387,SHOT,Travis Hamonic Wrist Shot saved by Igor Shesterkin,2022-12-03T02:13:20Z,3,04:57,15:03,1,1,9.0,Ottawa Senators,OTT
+269,3,9,New York Rangers,Ottawa Senators,2022020376388,2022020376,Shot,388,SHOT,Filip Chytil Wrist Shot saved by Cam Talbot,2022-12-03T02:13:29Z,3,05:06,14:54,1,1,3.0,New York Rangers,NYR
+270,3,9,New York Rangers,Ottawa Senators,2022020376663,2022020376,Stoppage,663,STOP,Goalie Stopped,2022-12-03T02:13:30Z,3,05:07,14:53,1,1,,,
+271,3,9,New York Rangers,Ottawa Senators,2022020376490,2022020376,Faceoff,490,FACEOFF,Filip Chytil faceoff won against Tyler Motte,2022-12-03T02:13:55Z,3,05:07,14:53,1,1,3.0,New York Rangers,NYR
+272,3,9,New York Rangers,Ottawa Senators,2022020376389,2022020376,Shot,389,SHOT,Jacob Trouba Snap Shot saved by Cam Talbot,2022-12-03T02:13:57Z,3,05:09,14:51,1,1,3.0,New York Rangers,NYR
+273,3,9,New York Rangers,Ottawa Senators,2022020376390,2022020376,Shot,390,SHOT,Alexis Lafrenière Wrist Shot saved by Cam Talbot,2022-12-03T02:14:21Z,3,05:33,14:27,1,1,3.0,New York Rangers,NYR
+274,3,9,New York Rangers,Ottawa Senators,2022020376391,2022020376,Shot,391,SHOT,Filip Chytil Snap Shot saved by Cam Talbot,2022-12-03T02:14:24Z,3,05:36,14:24,1,1,3.0,New York Rangers,NYR
+275,3,9,New York Rangers,Ottawa Senators,2022020376664,2022020376,Stoppage,664,STOP,Goalie Stopped,2022-12-03T02:14:26Z,3,05:38,14:22,1,1,,,
+276,3,9,New York Rangers,Ottawa Senators,2022020376491,2022020376,Faceoff,491,FACEOFF,Shane Pinto faceoff won against Chris Kreider,2022-12-03T02:15:06Z,3,05:38,14:22,1,1,9.0,Ottawa Senators,OTT
+277,3,9,New York Rangers,Ottawa Senators,2022020376665,2022020376,Stoppage,665,STOP,Puck in Crowd,2022-12-03T02:15:13Z,3,05:45,14:15,1,1,,,
+278,3,9,New York Rangers,Ottawa Senators,2022020376492,2022020376,Faceoff,492,FACEOFF,Mika Zibanejad faceoff won against Shane Pinto,2022-12-03T02:15:45Z,3,05:45,14:15,1,1,3.0,New York Rangers,NYR
+279,3,9,New York Rangers,Ottawa Senators,2022020376392,2022020376,Shot,392,SHOT,Jimmy Vesey Wrist Shot saved by Cam Talbot,2022-12-03T02:15:47Z,3,05:47,14:13,1,1,3.0,New York Rangers,NYR
+280,3,9,New York Rangers,Ottawa Senators,2022020376394,2022020376,Blocked Shot,394,BLOCKED_SHOT,Braden Schneider shot blocked shot by Artem Zub,2022-12-03T02:15:59Z,3,05:59,14:01,1,1,9.0,Ottawa Senators,OTT
+281,3,9,New York Rangers,Ottawa Senators,2022020376393,2022020376,Blocked Shot,393,BLOCKED_SHOT,Chris Kreider shot blocked shot by Artem Zub,2022-12-03T02:16:01Z,3,06:01,13:59,1,1,9.0,Ottawa Senators,OTT
+282,3,9,New York Rangers,Ottawa Senators,2022020376395,2022020376,Goal,395,GOAL,"Mika Zibanejad (12) Wrist Shot, assists: Chris Kreider (10), Braden Schneider (3)",2022-12-03T02:16:02Z,3,06:03,13:57,2,1,3.0,New York Rangers,NYR
+283,3,9,New York Rangers,Ottawa Senators,2022020376493,2022020376,Faceoff,493,FACEOFF,Barclay Goodrow faceoff won against Dylan Gambrell,2022-12-03T02:17:09Z,3,06:03,13:57,2,1,3.0,New York Rangers,NYR
+284,3,9,New York Rangers,Ottawa Senators,2022020376666,2022020376,Hit,666,HIT,Nikita Zaitsev hit Sammy Blais,2022-12-03T02:17:13Z,3,06:07,13:53,2,1,9.0,Ottawa Senators,OTT
+285,3,9,New York Rangers,Ottawa Senators,2022020376667,2022020376,Hit,667,HIT,Tyler Motte hit Sammy Blais,2022-12-03T02:17:28Z,3,06:22,13:38,2,1,9.0,Ottawa Senators,OTT
+286,3,9,New York Rangers,Ottawa Senators,2022020376668,2022020376,Stoppage,668,STOP,Offside,2022-12-03T02:17:33Z,3,06:27,13:33,2,1,,,
+287,3,9,New York Rangers,Ottawa Senators,2022020376494,2022020376,Faceoff,494,FACEOFF,Mika Zibanejad faceoff won against Tim Stützle,2022-12-03T02:19:59Z,3,06:27,13:33,2,1,3.0,New York Rangers,NYR
+288,3,9,New York Rangers,Ottawa Senators,2022020376396,2022020376,Blocked Shot,396,BLOCKED_SHOT,Chris Kreider shot blocked shot by Erik Brannstrom,2022-12-03T02:20:09Z,3,06:37,13:23,2,1,9.0,Ottawa Senators,OTT
+289,3,9,New York Rangers,Ottawa Senators,2022020376669,2022020376,Hit,669,HIT,Mark Kastelic hit Ryan Lindgren,2022-12-03T02:20:40Z,3,07:08,12:52,2,1,9.0,Ottawa Senators,OTT
+290,3,9,New York Rangers,Ottawa Senators,2022020376670,2022020376,Hit,670,HIT,Julien Gauthier hit Mark Kastelic,2022-12-03T02:20:53Z,3,07:21,12:39,2,1,3.0,New York Rangers,NYR
+291,3,9,New York Rangers,Ottawa Senators,2022020376397,2022020376,Blocked Shot,397,BLOCKED_SHOT,Sammy Blais shot blocked shot by Mark Kastelic,2022-12-03T02:21:03Z,3,07:31,12:29,2,1,9.0,Ottawa Senators,OTT
+292,3,9,New York Rangers,Ottawa Senators,2022020376398,2022020376,Blocked Shot,398,BLOCKED_SHOT,Braden Schneider shot blocked shot by Travis Hamonic,2022-12-03T02:21:15Z,3,07:43,12:17,2,1,9.0,Ottawa Senators,OTT
+293,3,9,New York Rangers,Ottawa Senators,2022020376671,2022020376,Stoppage,671,STOP,Hand Pass,2022-12-03T02:21:18Z,3,07:46,12:14,2,1,,,
+294,3,9,New York Rangers,Ottawa Senators,2022020376495,2022020376,Faceoff,495,FACEOFF,Dylan Gambrell faceoff won against Vincent Trocheck,2022-12-03T02:21:47Z,3,07:46,12:14,2,1,9.0,Ottawa Senators,OTT
+295,3,9,New York Rangers,Ottawa Senators,2022020376672,2022020376,Hit,672,HIT,Alexis Lafrenière hit Nikita Zaitsev,2022-12-03T02:21:54Z,3,07:53,12:07,2,1,3.0,New York Rangers,NYR
+296,3,9,New York Rangers,Ottawa Senators,2022020376496,2022020376,Takeaway,496,TAKEAWAY,Takeaway by Kaapo Kakko,2022-12-03T02:22:31Z,3,08:30,11:30,2,1,3.0,New York Rangers,NYR
+297,3,9,New York Rangers,Ottawa Senators,2022020376673,2022020376,Hit,673,HIT,Kaapo Kakko hit Mathieu Joseph,2022-12-03T02:22:31Z,3,08:30,11:30,2,1,3.0,New York Rangers,NYR
+298,3,9,New York Rangers,Ottawa Senators,2022020376674,2022020376,Hit,674,HIT,Tyler Motte hit Libor Hajek,2022-12-03T02:22:38Z,3,08:37,11:23,2,1,9.0,Ottawa Senators,OTT
+299,3,9,New York Rangers,Ottawa Senators,2022020376400,2022020376,Shot,400,SHOT,Travis Hamonic Slap Shot saved by Igor Shesterkin,2022-12-03T02:22:45Z,3,08:44,11:16,2,1,9.0,Ottawa Senators,OTT
+300,3,9,New York Rangers,Ottawa Senators,2022020376801,2022020376,Missed Shot,801,MISSED_SHOT,Vitali Kravtsov Wide of Net Cam Talbot,2022-12-03T02:23:29Z,3,09:28,10:32,2,1,3.0,New York Rangers,NYR
+301,3,9,New York Rangers,Ottawa Senators,2022020376902,2022020376,Penalty,902,PENALTY,Vitali Kravtsov High-sticking against Shane Pinto,2022-12-03T02:23:35Z,3,09:34,10:26,2,1,3.0,New York Rangers,NYR
+302,3,9,New York Rangers,Ottawa Senators,2022020376497,2022020376,Faceoff,497,FACEOFF,Brady Tkachuk faceoff won against Mika Zibanejad,2022-12-03T02:24:32Z,3,09:34,10:26,2,1,9.0,Ottawa Senators,OTT
+303,3,9,New York Rangers,Ottawa Senators,2022020376676,2022020376,Stoppage,676,STOP,Goalie Stopped,2022-12-03T02:24:49Z,3,09:51,10:09,2,1,,,
+304,3,9,New York Rangers,Ottawa Senators,2022020376802,2022020376,Shot,802,SHOT,Alex DeBrincat Wrist Shot saved by Igor Shesterkin,2022-12-03T02:24:49Z,3,09:51,10:09,2,1,9.0,Ottawa Senators,OTT
+305,3,9,New York Rangers,Ottawa Senators,2022020376498,2022020376,Faceoff,498,FACEOFF,Mika Zibanejad faceoff won against Brady Tkachuk,2022-12-03T02:25:25Z,3,09:51,10:09,2,1,3.0,New York Rangers,NYR
+306,3,9,New York Rangers,Ottawa Senators,2022020376499,2022020376,Takeaway,499,TAKEAWAY,Takeaway by Adam Fox,2022-12-03T02:26:01Z,3,10:27,09:33,2,1,3.0,New York Rangers,NYR
+307,3,9,New York Rangers,Ottawa Senators,2022020376803,2022020376,Shot,803,SHOT,Shane Pinto Slap Shot saved by Igor Shesterkin,2022-12-03T02:26:51Z,3,11:17,08:43,2,1,9.0,Ottawa Senators,OTT
+308,3,9,New York Rangers,Ottawa Senators,2022020376677,2022020376,Stoppage,677,STOP,Goalie Stopped,2022-12-03T02:26:53Z,3,11:19,08:41,2,1,,,
+309,3,9,New York Rangers,Ottawa Senators,2022020376500,2022020376,Faceoff,500,FACEOFF,Vincent Trocheck faceoff won against Brady Tkachuk,2022-12-03T02:27:23Z,3,11:19,08:41,2,1,3.0,New York Rangers,NYR
+310,3,9,New York Rangers,Ottawa Senators,2022020376804,2022020376,Shot,804,SHOT,Brady Tkachuk Wrist Shot saved by Igor Shesterkin,2022-12-03T02:27:48Z,3,11:44,08:16,2,1,9.0,Ottawa Senators,OTT
+311,3,9,New York Rangers,Ottawa Senators,2022020376751,2022020376,Takeaway,751,TAKEAWAY,Takeaway by Brady Tkachuk,2022-12-03T02:27:59Z,3,11:55,08:05,2,1,9.0,Ottawa Senators,OTT
+312,3,9,New York Rangers,Ottawa Senators,2022020376805,2022020376,Blocked Shot,805,BLOCKED_SHOT,Tim Stützle shot blocked shot by Ryan Lindgren,2022-12-03T02:28:03Z,3,11:59,08:01,2,1,3.0,New York Rangers,NYR
+313,3,9,New York Rangers,Ottawa Senators,2022020376678,2022020376,Stoppage,678,STOP,Puck in Crowd,2022-12-03T02:28:13Z,3,12:09,07:51,2,1,,,
+314,3,9,New York Rangers,Ottawa Senators,2022020376752,2022020376,Faceoff,752,FACEOFF,Filip Chytil faceoff won against Dylan Gambrell,2022-12-03T02:30:27Z,3,12:09,07:51,2,1,3.0,New York Rangers,NYR
+315,3,9,New York Rangers,Ottawa Senators,2022020376806,2022020376,Shot,806,SHOT,Tyler Motte Wrist Shot saved by Igor Shesterkin,2022-12-03T02:30:58Z,3,12:40,07:20,2,1,9.0,Ottawa Senators,OTT
+316,3,9,New York Rangers,Ottawa Senators,2022020376679,2022020376,Stoppage,679,STOP,Goalie Stopped,2022-12-03T02:31:00Z,3,12:42,07:18,2,1,,,
+317,3,9,New York Rangers,Ottawa Senators,2022020376753,2022020376,Faceoff,753,FACEOFF,Mika Zibanejad faceoff won against Brady Tkachuk,2022-12-03T02:34:29Z,3,12:42,07:18,2,1,3.0,New York Rangers,NYR
+318,3,9,New York Rangers,Ottawa Senators,2022020376807,2022020376,Blocked Shot,807,BLOCKED_SHOT,Thomas Chabot shot blocked shot by Jimmy Vesey,2022-12-03T02:34:50Z,3,13:03,06:57,2,1,3.0,New York Rangers,NYR
+319,3,9,New York Rangers,Ottawa Senators,2022020376754,2022020376,Takeaway,754,TAKEAWAY,Takeaway by Ryan Lindgren,2022-12-03T02:34:58Z,3,13:11,06:49,2,1,3.0,New York Rangers,NYR
+320,3,9,New York Rangers,Ottawa Senators,2022020376808,2022020376,Missed Shot,808,MISSED_SHOT,Ryan Lindgren Wide of Net Cam Talbot,2022-12-03T02:35:01Z,3,13:14,06:46,2,1,3.0,New York Rangers,NYR
+321,3,9,New York Rangers,Ottawa Senators,2022020376809,2022020376,Missed Shot,809,MISSED_SHOT,Julien Gauthier Wide of Net Cam Talbot,2022-12-03T02:35:35Z,3,13:48,06:12,2,1,3.0,New York Rangers,NYR
+322,3,9,New York Rangers,Ottawa Senators,2022020376680,2022020376,Hit,680,HIT,Braden Schneider hit Drake Batherson,2022-12-03T02:35:47Z,3,14:00,06:00,2,1,3.0,New York Rangers,NYR
+323,3,9,New York Rangers,Ottawa Senators,2022020376810,2022020376,Shot,810,SHOT,Drake Batherson Snap Shot saved by Igor Shesterkin,2022-12-03T02:35:57Z,3,14:10,05:50,2,1,9.0,Ottawa Senators,OTT
+324,3,9,New York Rangers,Ottawa Senators,2022020376681,2022020376,Stoppage,681,STOP,Goalie Stopped,2022-12-03T02:35:59Z,3,14:12,05:48,2,1,,,
+325,3,9,New York Rangers,Ottawa Senators,2022020376755,2022020376,Faceoff,755,FACEOFF,Claude Giroux faceoff won against Barclay Goodrow,2022-12-03T02:38:18Z,3,14:12,05:48,2,1,9.0,Ottawa Senators,OTT
+326,3,9,New York Rangers,Ottawa Senators,2022020376814,2022020376,Shot,814,SHOT,Travis Hamonic Wrist Shot saved by Igor Shesterkin,2022-12-03T02:38:21Z,3,14:15,05:45,2,1,9.0,Ottawa Senators,OTT
+327,3,9,New York Rangers,Ottawa Senators,2022020376811,2022020376,Missed Shot,811,MISSED_SHOT,Claude Giroux Wide of Net Igor Shesterkin,2022-12-03T02:38:25Z,3,14:19,05:41,2,1,9.0,Ottawa Senators,OTT
+328,3,9,New York Rangers,Ottawa Senators,2022020376682,2022020376,Hit,682,HIT,Tim Stützle hit Barclay Goodrow,2022-12-03T02:38:30Z,3,14:24,05:36,2,1,9.0,Ottawa Senators,OTT
+329,3,9,New York Rangers,Ottawa Senators,2022020376756,2022020376,Giveaway,756,GIVEAWAY,Giveaway by Adam Fox,2022-12-03T02:38:32Z,3,14:26,05:34,2,1,3.0,New York Rangers,NYR
+330,3,9,New York Rangers,Ottawa Senators,2022020376683,2022020376,Hit,683,HIT,Ryan Lindgren hit Brady Tkachuk,2022-12-03T02:38:47Z,3,14:41,05:19,2,1,3.0,New York Rangers,NYR
+331,3,9,New York Rangers,Ottawa Senators,2022020376812,2022020376,Shot,812,SHOT,Brady Tkachuk Wrist Shot saved by Igor Shesterkin,2022-12-03T02:39:05Z,3,14:59,05:01,2,1,9.0,Ottawa Senators,OTT
+332,3,9,New York Rangers,Ottawa Senators,2022020376757,2022020376,Giveaway,757,GIVEAWAY,Giveaway by Thomas Chabot,2022-12-03T02:39:27Z,3,15:21,04:39,2,1,9.0,Ottawa Senators,OTT
+333,3,9,New York Rangers,Ottawa Senators,2022020376813,2022020376,Missed Shot,813,MISSED_SHOT,Artemi Panarin Wide of Net Cam Talbot,2022-12-03T02:39:28Z,3,15:22,04:38,2,1,3.0,New York Rangers,NYR
+334,3,9,New York Rangers,Ottawa Senators,2022020376815,2022020376,Missed Shot,815,MISSED_SHOT,K'Andre Miller Wide of Net Cam Talbot,2022-12-03T02:39:53Z,3,15:47,04:13,2,1,3.0,New York Rangers,NYR
+335,3,9,New York Rangers,Ottawa Senators,2022020376684,2022020376,Stoppage,684,STOP,Icing,2022-12-03T02:40:21Z,3,16:15,03:45,2,1,,,
+336,3,9,New York Rangers,Ottawa Senators,2022020376758,2022020376,Faceoff,758,FACEOFF,Vincent Trocheck faceoff won against Shane Pinto,2022-12-03T02:41:12Z,3,16:15,03:45,2,1,3.0,New York Rangers,NYR
+337,3,9,New York Rangers,Ottawa Senators,2022020376816,2022020376,Shot,816,SHOT,Mika Zibanejad Wrist Shot saved by Cam Talbot,2022-12-03T02:42:24Z,3,17:27,02:33,2,1,3.0,New York Rangers,NYR
+338,3,9,New York Rangers,Ottawa Senators,2022020376685,2022020376,Stoppage,685,STOP,Goalie Stopped,2022-12-03T02:42:26Z,3,17:29,02:31,2,1,,,
+339,3,9,New York Rangers,Ottawa Senators,2022020376759,2022020376,Faceoff,759,FACEOFF,Tim Stützle faceoff won against Mika Zibanejad,2022-12-03T02:43:03Z,3,17:29,02:31,2,1,9.0,Ottawa Senators,OTT
+340,3,9,New York Rangers,Ottawa Senators,2022020376686,2022020376,Hit,686,HIT,Brady Tkachuk hit K'Andre Miller,2022-12-03T02:43:15Z,3,17:41,02:19,2,1,9.0,Ottawa Senators,OTT
+341,3,9,New York Rangers,Ottawa Senators,2022020376817,2022020376,Shot,817,SHOT,Drake Batherson Wrist Shot saved by Igor Shesterkin,2022-12-03T02:43:59Z,3,18:25,01:35,2,1,9.0,Ottawa Senators,OTT
+342,3,9,New York Rangers,Ottawa Senators,2022020376687,2022020376,Stoppage,687,STOP,Goalie Stopped,2022-12-03T02:44:01Z,3,18:27,01:33,2,1,,,
+343,3,9,New York Rangers,Ottawa Senators,2022020376760,2022020376,Faceoff,760,FACEOFF,Vincent Trocheck faceoff won against Brady Tkachuk,2022-12-03T02:44:43Z,3,18:27,01:33,2,1,3.0,New York Rangers,NYR
+344,3,9,New York Rangers,Ottawa Senators,2022020376761,2022020376,Giveaway,761,GIVEAWAY,Giveaway by Vincent Trocheck,2022-12-03T02:44:52Z,3,18:36,01:24,2,1,3.0,New York Rangers,NYR
+345,3,9,New York Rangers,Ottawa Senators,2022020376818,2022020376,Goal,818,GOAL,"Brady Tkachuk (10) Tip-In, assists: Thomas Chabot (7)",2022-12-03T02:45:28Z,3,19:11,00:49,2,2,9.0,Ottawa Senators,OTT
+346,3,9,New York Rangers,Ottawa Senators,2022020376762,2022020376,Faceoff,762,FACEOFF,Shane Pinto faceoff won against Mika Zibanejad,2022-12-03T02:46:16Z,3,19:11,00:49,2,2,9.0,Ottawa Senators,OTT
+347,3,9,New York Rangers,Ottawa Senators,2022020376819,2022020376,Shot,819,SHOT,Travis Hamonic Wrist Shot saved by Igor Shesterkin,2022-12-03T02:46:18Z,3,19:13,00:47,2,2,9.0,Ottawa Senators,OTT
+348,3,9,New York Rangers,Ottawa Senators,2022020376763,2022020376,Takeaway,763,TAKEAWAY,Takeaway by Tyler Motte,2022-12-03T02:46:27Z,3,19:22,00:38,2,2,9.0,Ottawa Senators,OTT
+349,3,9,New York Rangers,Ottawa Senators,2022020376688,2022020376,Period End,688,PERIOD_END,End of 3rd Period,2022-12-03T02:47:05Z,3,20:00,00:00,2,2,,,
+350,3,9,New York Rangers,Ottawa Senators,2022020376691,2022020376,Period Official,691,PERIOD_OFFICIAL,Period Official,2022-12-03T02:47:13Z,3,20:00,00:00,2,2,,,
+351,3,9,New York Rangers,Ottawa Senators,2022020376692,2022020376,Period Ready,692,PERIOD_READY,Period Ready,2022-12-03T02:49:08Z,4,00:00,05:00,2,2,,,
+352,3,9,New York Rangers,Ottawa Senators,2022020376764,2022020376,Period Start,764,PERIOD_START,Period Start,2022-12-03T02:49:33Z,4,00:00,05:00,2,2,,,
+353,3,9,New York Rangers,Ottawa Senators,2022020376765,2022020376,Faceoff,765,FACEOFF,Claude Giroux faceoff won against Mika Zibanejad,2022-12-03T02:49:33Z,4,00:00,05:00,2,2,9.0,Ottawa Senators,OTT
+354,3,9,New York Rangers,Ottawa Senators,2022020376820,2022020376,Shot,820,SHOT,Tim Stützle Wrist Shot saved by Igor Shesterkin,2022-12-03T02:50:07Z,4,00:34,04:26,2,2,9.0,Ottawa Senators,OTT
+355,3,9,New York Rangers,Ottawa Senators,2022020376821,2022020376,Missed Shot,821,MISSED_SHOT,Adam Fox Wide of Net Cam Talbot,2022-12-03T02:50:17Z,4,00:44,04:16,2,2,3.0,New York Rangers,NYR
+356,3,9,New York Rangers,Ottawa Senators,2022020376822,2022020376,Blocked Shot,822,BLOCKED_SHOT,Artemi Panarin shot blocked shot by Jake Sanderson,2022-12-03T02:51:11Z,4,01:38,03:22,2,2,9.0,Ottawa Senators,OTT
+357,3,9,New York Rangers,Ottawa Senators,2022020376693,2022020376,Stoppage,693,STOP,Offside,2022-12-03T02:51:42Z,4,02:09,02:51,2,2,,,
+358,3,9,New York Rangers,Ottawa Senators,2022020376766,2022020376,Faceoff,766,FACEOFF,Vincent Trocheck faceoff won against Claude Giroux,2022-12-03T02:52:14Z,4,02:09,02:51,2,2,3.0,New York Rangers,NYR
+359,3,9,New York Rangers,Ottawa Senators,2022020376823,2022020376,Blocked Shot,823,BLOCKED_SHOT,Alexis Lafrenière shot blocked shot by Claude Giroux,2022-12-03T02:52:49Z,4,02:44,02:16,2,2,9.0,Ottawa Senators,OTT
+360,3,9,New York Rangers,Ottawa Senators,2022020376824,2022020376,Shot,824,SHOT,Thomas Chabot Wrist Shot saved by Igor Shesterkin,2022-12-03T02:53:02Z,4,02:57,02:03,2,2,9.0,Ottawa Senators,OTT
+361,3,9,New York Rangers,Ottawa Senators,2022020376767,2022020376,Takeaway,767,TAKEAWAY,Takeaway by Jacob Trouba,2022-12-03T02:53:25Z,4,03:20,01:40,2,2,3.0,New York Rangers,NYR
+362,3,9,New York Rangers,Ottawa Senators,2022020376825,2022020376,Shot,825,SHOT,Mika Zibanejad Snap Shot saved by Cam Talbot,2022-12-03T02:53:31Z,4,03:26,01:34,2,2,3.0,New York Rangers,NYR
+363,3,9,New York Rangers,Ottawa Senators,2022020376826,2022020376,Shot,826,SHOT,Artemi Panarin Wrist Shot saved by Cam Talbot,2022-12-03T02:54:19Z,4,04:14,00:46,2,2,3.0,New York Rangers,NYR
+364,3,9,New York Rangers,Ottawa Senators,2022020376768,2022020376,Takeaway,768,TAKEAWAY,Takeaway by Kaapo Kakko,2022-12-03T02:54:23Z,4,04:18,00:42,2,2,3.0,New York Rangers,NYR
+365,3,9,New York Rangers,Ottawa Senators,2022020376769,2022020376,Takeaway,769,TAKEAWAY,Takeaway by Thomas Chabot,2022-12-03T02:54:39Z,4,04:34,00:26,2,2,9.0,Ottawa Senators,OTT
+366,3,9,New York Rangers,Ottawa Senators,2022020376694,2022020376,Period End,694,PERIOD_END,End of OT,2022-12-03T02:54:49Z,4,04:42,00:18,2,2,,,
+367,3,9,New York Rangers,Ottawa Senators,2022020376827,2022020376,Goal,827,GOAL,"Brady Tkachuk (11) Backhand, assists: Thomas Chabot (8)",2022-12-03T02:54:49Z,4,04:42,00:18,2,3,9.0,Ottawa Senators,OTT
+368,3,9,New York Rangers,Ottawa Senators,2022020376697,2022020376,Period Official,697,PERIOD_OFFICIAL,Period Official,2022-12-03T02:55:21Z,4,04:42,00:18,2,3,,,
+369,3,9,New York Rangers,Ottawa Senators,2022020376698,2022020376,Game End,698,GAME_END,Game End,2022-12-03T02:55:23Z,4,04:42,00:18,2,3,,,
+370,3,9,New York Rangers,Ottawa Senators,2022020376700,2022020376,Game Official,700,GAME_OFFICIAL,Game Official,2022-12-03T03:00:07Z,4,04:42,00:18,2,3,,,

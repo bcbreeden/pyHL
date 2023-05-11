@@ -1,0 +1,282 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,1,22,New Jersey Devils,Edmonton Oilers,20220202931,2022020293,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-11-21T23:03:12Z,1,00:00,20:00,0,0,,,
+1,1,22,New Jersey Devils,Edmonton Oilers,20220202935,2022020293,Period Ready,5,PERIOD_READY,Period Ready,2022-11-22T00:09:26Z,1,00:00,20:00,0,0,,,
+2,1,22,New Jersey Devils,Edmonton Oilers,2022020293101,2022020293,Period Start,101,PERIOD_START,Period Start,2022-11-22T00:09:44Z,1,00:00,20:00,0,0,,,
+3,1,22,New Jersey Devils,Edmonton Oilers,2022020293103,2022020293,Faceoff,103,FACEOFF,Nico Hischier faceoff won against Leon Draisaitl,2022-11-22T00:09:44Z,1,00:00,20:00,0,0,1.0,New Jersey Devils,NJD
+4,1,22,New Jersey Devils,Edmonton Oilers,2022020293151,2022020293,Stoppage,151,STOP,Puck in Benches,2022-11-22T00:10:00Z,1,00:16,19:44,0,0,,,
+5,1,22,New Jersey Devils,Edmonton Oilers,2022020293104,2022020293,Faceoff,104,FACEOFF,Nico Hischier faceoff won against Leon Draisaitl,2022-11-22T00:10:33Z,1,00:16,19:44,0,0,1.0,New Jersey Devils,NJD
+6,1,22,New Jersey Devils,Edmonton Oilers,2022020293105,2022020293,Hit,105,HIT,Warren Foegele hit Nico Hischier,2022-11-22T00:10:50Z,1,00:33,19:27,0,0,22.0,Edmonton Oilers,EDM
+7,1,22,New Jersey Devils,Edmonton Oilers,20220202938,2022020293,Shot,8,SHOT,Ryan Nugent-Hopkins Wrist Shot saved by Vitek Vanecek,2022-11-22T00:10:59Z,1,00:42,19:18,0,0,22.0,Edmonton Oilers,EDM
+8,1,22,New Jersey Devils,Edmonton Oilers,20220202939,2022020293,Missed Shot,9,MISSED_SHOT,Erik Haula Wide of Net Stuart Skinner,2022-11-22T00:12:11Z,1,01:54,18:06,0,0,1.0,New Jersey Devils,NJD
+9,1,22,New Jersey Devils,Edmonton Oilers,2022020293107,2022020293,Giveaway,107,GIVEAWAY,Giveaway by Ryan Mcleod,2022-11-22T00:12:11Z,1,01:54,18:06,0,0,22.0,Edmonton Oilers,EDM
+10,1,22,New Jersey Devils,Edmonton Oilers,202202029374,2022020293,Penalty,74,PENALTY,Klim Kostin Holding against Brendan Smith,2022-11-22T00:12:21Z,1,02:03,17:57,0,0,22.0,Edmonton Oilers,EDM
+11,1,22,New Jersey Devils,Edmonton Oilers,2022020293108,2022020293,Faceoff,108,FACEOFF,Derek Ryan faceoff won against Nico Hischier,2022-11-22T00:12:52Z,1,02:03,17:57,0,0,22.0,Edmonton Oilers,EDM
+12,1,22,New Jersey Devils,Edmonton Oilers,202202029310,2022020293,Goal,10,GOAL,"Jesper Bratt (8) Snap Shot, assists: Nico Hischier (11), Jack Hughes (13)",2022-11-22T00:13:13Z,1,02:25,17:35,1,0,1.0,New Jersey Devils,NJD
+13,1,22,New Jersey Devils,Edmonton Oilers,2022020293109,2022020293,Faceoff,109,FACEOFF,Dawson Mercer faceoff won against Ryan McLeod,2022-11-22T00:13:56Z,1,02:25,17:35,1,0,1.0,New Jersey Devils,NJD
+14,1,22,New Jersey Devils,Edmonton Oilers,2022020293110,2022020293,Hit,110,HIT,Derek Ryan hit Damon Severson,2022-11-22T00:14:00Z,1,02:29,17:31,1,0,22.0,Edmonton Oilers,EDM
+15,1,22,New Jersey Devils,Edmonton Oilers,2022020293111,2022020293,Hit,111,HIT,Brendan Smith hit Derek Ryan,2022-11-22T00:14:15Z,1,02:44,17:16,1,0,1.0,New Jersey Devils,NJD
+16,1,22,New Jersey Devils,Edmonton Oilers,2022020293112,2022020293,Hit,112,HIT,Dawson Mercer hit Evan Bouchard,2022-11-22T00:14:32Z,1,03:01,16:59,1,0,1.0,New Jersey Devils,NJD
+17,1,22,New Jersey Devils,Edmonton Oilers,2022020293153,2022020293,Stoppage,153,STOP,Icing,2022-11-22T00:14:37Z,1,03:06,16:54,1,0,,,
+18,1,22,New Jersey Devils,Edmonton Oilers,2022020293113,2022020293,Faceoff,113,FACEOFF,Nico Hischier faceoff won against Ryan McLeod,2022-11-22T00:15:10Z,1,03:06,16:54,1,0,1.0,New Jersey Devils,NJD
+19,1,22,New Jersey Devils,Edmonton Oilers,202202029311,2022020293,Missed Shot,11,MISSED_SHOT,Tomas Tatar Wide of Net Stuart Skinner,2022-11-22T00:15:33Z,1,03:29,16:31,1,0,1.0,New Jersey Devils,NJD
+20,1,22,New Jersey Devils,Edmonton Oilers,2022020293154,2022020293,Blocked Shot,154,BLOCKED_SHOT,Tyson Barrie shot blocked shot by Ryan Graves,2022-11-22T00:15:46Z,1,03:42,16:18,1,0,1.0,New Jersey Devils,NJD
+21,1,22,New Jersey Devils,Edmonton Oilers,2022020293155,2022020293,Stoppage,155,STOP,Offside,2022-11-22T00:16:05Z,1,04:01,15:59,1,0,,,
+22,1,22,New Jersey Devils,Edmonton Oilers,2022020293114,2022020293,Faceoff,114,FACEOFF,Leon Draisaitl faceoff won against Jack Hughes,2022-11-22T00:16:36Z,1,04:01,15:59,1,0,22.0,Edmonton Oilers,EDM
+23,1,22,New Jersey Devils,Edmonton Oilers,202202029397,2022020293,Penalty,97,PENALTY,Erik Haula Hooking against Leon Draisaitl,2022-11-22T00:17:11Z,1,04:35,15:25,1,0,1.0,New Jersey Devils,NJD
+24,1,22,New Jersey Devils,Edmonton Oilers,2022020293115,2022020293,Faceoff,115,FACEOFF,Leon Draisaitl faceoff won against Michael McLeod,2022-11-22T00:17:55Z,1,04:35,15:25,1,0,22.0,Edmonton Oilers,EDM
+25,1,22,New Jersey Devils,Edmonton Oilers,2022020293116,2022020293,Giveaway,116,GIVEAWAY,Giveaway by John Marino,2022-11-22T00:18:30Z,1,05:10,14:50,1,0,1.0,New Jersey Devils,NJD
+26,1,22,New Jersey Devils,Edmonton Oilers,202202029312,2022020293,Shot,12,SHOT,Tyson Barrie Slap Shot saved by Vitek Vanecek,2022-11-22T00:18:46Z,1,05:26,14:34,1,0,22.0,Edmonton Oilers,EDM
+27,1,22,New Jersey Devils,Edmonton Oilers,2022020293156,2022020293,Shot,156,SHOT,Zach Hyman Snap Shot saved by Vitek Vanecek,2022-11-22T00:18:47Z,1,05:27,14:33,1,0,22.0,Edmonton Oilers,EDM
+28,1,22,New Jersey Devils,Edmonton Oilers,2022020293251,2022020293,Blocked Shot,251,BLOCKED_SHOT,Leon Draisaitl shot blocked shot by Jonas Siegenthaler,2022-11-22T00:18:54Z,1,05:34,14:26,1,0,1.0,New Jersey Devils,NJD
+29,1,22,New Jersey Devils,Edmonton Oilers,202202029313,2022020293,Missed Shot,13,MISSED_SHOT,Ryan Nugent-Hopkins Goalpost Vitek Vanecek,2022-11-22T00:19:03Z,1,05:43,14:17,1,0,22.0,Edmonton Oilers,EDM
+30,1,22,New Jersey Devils,Edmonton Oilers,202202029314,2022020293,Missed Shot,14,MISSED_SHOT,Darnell Nurse Wide of Net Vitek Vanecek,2022-11-22T00:20:15Z,1,06:56,13:04,1,0,22.0,Edmonton Oilers,EDM
+31,1,22,New Jersey Devils,Edmonton Oilers,2022020293157,2022020293,Stoppage,157,STOP,Puck Frozen,2022-11-22T00:20:15Z,1,06:56,13:04,1,0,,,
+32,1,22,New Jersey Devils,Edmonton Oilers,2022020293118,2022020293,Faceoff,118,FACEOFF,Nico Hischier faceoff won against Connor McDavid,2022-11-22T00:22:47Z,1,06:56,13:04,1,0,1.0,New Jersey Devils,NJD
+33,1,22,New Jersey Devils,Edmonton Oilers,202202029315,2022020293,Missed Shot,15,MISSED_SHOT,Tomas Tatar Wide of Net Stuart Skinner,2022-11-22T00:23:05Z,1,07:14,12:46,1,0,1.0,New Jersey Devils,NJD
+34,1,22,New Jersey Devils,Edmonton Oilers,202202029316,2022020293,Shot,16,SHOT,Jack Hughes Snap Shot saved by Stuart Skinner,2022-11-22T00:23:52Z,1,08:01,11:59,1,0,1.0,New Jersey Devils,NJD
+35,1,22,New Jersey Devils,Edmonton Oilers,2022020293252,2022020293,Missed Shot,252,MISSED_SHOT,Jesper Bratt Wide of Net Stuart Skinner,2022-11-22T00:23:55Z,1,08:04,11:56,1,0,1.0,New Jersey Devils,NJD
+36,1,22,New Jersey Devils,Edmonton Oilers,2022020293158,2022020293,Stoppage,158,STOP,Puck Frozen,2022-11-22T00:23:58Z,1,08:07,11:53,1,0,,,
+37,1,22,New Jersey Devils,Edmonton Oilers,2022020293121,2022020293,Faceoff,121,FACEOFF,Erik Haula faceoff won against Ryan Nugent-Hopkins,2022-11-22T00:24:25Z,1,08:07,11:53,1,0,1.0,New Jersey Devils,NJD
+38,1,22,New Jersey Devils,Edmonton Oilers,202202029317,2022020293,Missed Shot,17,MISSED_SHOT,Dougie Hamilton Wide of Net Stuart Skinner,2022-11-22T00:24:30Z,1,08:11,11:49,1,0,1.0,New Jersey Devils,NJD
+39,1,22,New Jersey Devils,Edmonton Oilers,2022020293159,2022020293,Stoppage,159,STOP,Goalie Stopped,2022-11-22T00:24:30Z,1,08:11,11:49,1,0,,,
+40,1,22,New Jersey Devils,Edmonton Oilers,2022020293122,2022020293,Faceoff,122,FACEOFF,Leon Draisaitl faceoff won against Michael McLeod,2022-11-22T00:24:54Z,1,08:11,11:49,1,0,22.0,Edmonton Oilers,EDM
+41,1,22,New Jersey Devils,Edmonton Oilers,2022020293124,2022020293,Hit,124,HIT,Warren Foegele hit Dougie Hamilton,2022-11-22T00:25:16Z,1,08:33,11:27,1,0,22.0,Edmonton Oilers,EDM
+42,1,22,New Jersey Devils,Edmonton Oilers,202202029318,2022020293,Blocked Shot,18,BLOCKED_SHOT,Warren Foegele shot blocked shot by Michael McLeod,2022-11-22T00:25:19Z,1,08:36,11:24,1,0,1.0,New Jersey Devils,NJD
+43,1,22,New Jersey Devils,Edmonton Oilers,2022020293254,2022020293,Blocked Shot,254,BLOCKED_SHOT,Dougie Hamilton shot blocked shot by Brett Kulak,2022-11-22T00:25:24Z,1,08:41,11:19,1,0,22.0,Edmonton Oilers,EDM
+44,1,22,New Jersey Devils,Edmonton Oilers,2022020293123,2022020293,Hit,123,HIT,Nathan Bastian hit Warren Foegele,2022-11-22T00:25:26Z,1,08:43,11:17,1,0,1.0,New Jersey Devils,NJD
+45,1,22,New Jersey Devils,Edmonton Oilers,2022020293161,2022020293,Stoppage,161,STOP,Icing,2022-11-22T00:25:56Z,1,09:14,10:46,1,0,,,
+46,1,22,New Jersey Devils,Edmonton Oilers,2022020293125,2022020293,Faceoff,125,FACEOFF,Connor McDavid faceoff won against Michael McLeod,2022-11-22T00:26:25Z,1,09:14,10:46,1,0,22.0,Edmonton Oilers,EDM
+47,1,22,New Jersey Devils,Edmonton Oilers,2022020293126,2022020293,Hit,126,HIT,Dawson Mercer hit Markus Niemelainen,2022-11-22T00:26:54Z,1,09:43,10:17,1,0,1.0,New Jersey Devils,NJD
+48,1,22,New Jersey Devils,Edmonton Oilers,2022020293127,2022020293,Giveaway,127,GIVEAWAY,Giveaway by Dawson Mercer,2022-11-22T00:26:58Z,1,09:47,10:13,1,0,1.0,New Jersey Devils,NJD
+49,1,22,New Jersey Devils,Edmonton Oilers,2022020293164,2022020293,Stoppage,164,STOP,Icing,2022-11-22T00:27:08Z,1,09:57,10:03,1,0,,,
+50,1,22,New Jersey Devils,Edmonton Oilers,2022020293128,2022020293,Faceoff,128,FACEOFF,Jesper Boqvist faceoff won against Derek Ryan,2022-11-22T00:27:37Z,1,09:57,10:03,1,0,1.0,New Jersey Devils,NJD
+51,1,22,New Jersey Devils,Edmonton Oilers,2022020293131,2022020293,Hit,131,HIT,Fabian Zetterlund hit Cody Ceci,2022-11-22T00:27:54Z,1,10:14,09:46,1,0,1.0,New Jersey Devils,NJD
+52,1,22,New Jersey Devils,Edmonton Oilers,202202029319,2022020293,Shot,19,SHOT,Tyson Barrie Slap Shot saved by Vitek Vanecek,2022-11-22T00:28:50Z,1,11:10,08:50,1,0,22.0,Edmonton Oilers,EDM
+53,1,22,New Jersey Devils,Edmonton Oilers,2022020293166,2022020293,Stoppage,166,STOP,TV timeout,2022-11-22T00:28:51Z,1,11:12,08:48,1,0,,,
+54,1,22,New Jersey Devils,Edmonton Oilers,2022020293302,2022020293,Penalty,302,PENALTY,Jonas Siegenthaler Hooking against Connor McDavid,2022-11-22T00:28:51Z,1,11:12,08:48,1,0,1.0,New Jersey Devils,NJD
+55,1,22,New Jersey Devils,Edmonton Oilers,2022020293132,2022020293,Faceoff,132,FACEOFF,Leon Draisaitl faceoff won against Michael McLeod,2022-11-22T00:31:03Z,1,11:12,08:48,1,0,22.0,Edmonton Oilers,EDM
+56,1,22,New Jersey Devils,Edmonton Oilers,202202029320,2022020293,Shot,20,SHOT,Leon Draisaitl Tip-In saved by Vitek Vanecek,2022-11-22T00:31:49Z,1,11:58,08:02,1,0,22.0,Edmonton Oilers,EDM
+57,1,22,New Jersey Devils,Edmonton Oilers,202202029321,2022020293,Missed Shot,21,MISSED_SHOT,Tyson Barrie Wide of Net Vitek Vanecek,2022-11-22T00:31:58Z,1,12:07,07:53,1,0,22.0,Edmonton Oilers,EDM
+58,1,22,New Jersey Devils,Edmonton Oilers,2022020293168,2022020293,Stoppage,168,STOP,Puck Frozen,2022-11-22T00:32:00Z,1,12:09,07:51,1,0,,,
+59,1,22,New Jersey Devils,Edmonton Oilers,2022020293133,2022020293,Faceoff,133,FACEOFF,Nico Hischier faceoff won against Leon Draisaitl,2022-11-22T00:32:22Z,1,12:09,07:51,1,0,1.0,New Jersey Devils,NJD
+60,1,22,New Jersey Devils,Edmonton Oilers,202202029322,2022020293,Missed Shot,22,MISSED_SHOT,Jesse Puljujarvi Wide of Net Vitek Vanecek,2022-11-22T00:32:57Z,1,12:44,07:16,1,0,22.0,Edmonton Oilers,EDM
+61,1,22,New Jersey Devils,Edmonton Oilers,2022020293169,2022020293,Shot,169,SHOT,Connor McDavid Snap Shot saved by Vitek Vanecek,2022-11-22T00:32:59Z,1,12:46,07:14,1,0,22.0,Edmonton Oilers,EDM
+62,1,22,New Jersey Devils,Edmonton Oilers,202202029323,2022020293,Goal,23,GOAL,"Leon Draisaitl (11) Wrist Shot, assists: Connor McDavid (19), Evan Bouchard (6)",2022-11-22T00:33:15Z,1,13:02,06:58,1,1,22.0,Edmonton Oilers,EDM
+63,1,22,New Jersey Devils,Edmonton Oilers,2022020293134,2022020293,Faceoff,134,FACEOFF,Derek Ryan faceoff won against Erik Haula,2022-11-22T00:34:02Z,1,13:02,06:58,1,1,22.0,Edmonton Oilers,EDM
+64,1,22,New Jersey Devils,Edmonton Oilers,2022020293170,2022020293,Stoppage,170,STOP,Icing,2022-11-22T00:35:03Z,1,14:03,05:57,1,1,,,
+65,1,22,New Jersey Devils,Edmonton Oilers,2022020293135,2022020293,Faceoff,135,FACEOFF,Nathan Bastian faceoff won against Leon Draisaitl,2022-11-22T00:35:32Z,1,14:03,05:57,1,1,1.0,New Jersey Devils,NJD
+66,1,22,New Jersey Devils,Edmonton Oilers,202202029324,2022020293,Shot,24,SHOT,Evan Bouchard Wrist Shot saved by Vitek Vanecek,2022-11-22T00:35:40Z,1,14:11,05:49,1,1,22.0,Edmonton Oilers,EDM
+67,1,22,New Jersey Devils,Edmonton Oilers,2022020293171,2022020293,Blocked Shot,171,BLOCKED_SHOT,Miles Wood shot blocked shot by Tyson Barrie,2022-11-22T00:36:21Z,1,14:52,05:08,1,1,22.0,Edmonton Oilers,EDM
+68,1,22,New Jersey Devils,Edmonton Oilers,2022020293136,2022020293,Takeaway,136,TAKEAWAY,Takeaway by Ryan Mcleod,2022-11-22T00:36:42Z,1,15:13,04:47,1,1,22.0,Edmonton Oilers,EDM
+69,1,22,New Jersey Devils,Edmonton Oilers,2022020293137,2022020293,Hit,137,HIT,Jesse Puljujarvi hit Dawson Mercer,2022-11-22T00:36:53Z,1,15:24,04:36,1,1,22.0,Edmonton Oilers,EDM
+70,1,22,New Jersey Devils,Edmonton Oilers,202202029326,2022020293,Missed Shot,26,MISSED_SHOT,Yegor Sharangovich Wide of Net Stuart Skinner,2022-11-22T00:37:03Z,1,15:34,04:26,1,1,1.0,New Jersey Devils,NJD
+71,1,22,New Jersey Devils,Edmonton Oilers,2022020293138,2022020293,Hit,138,HIT,Jesper Boqvist hit Jesse Puljujarvi,2022-11-22T00:37:09Z,1,15:40,04:20,1,1,1.0,New Jersey Devils,NJD
+72,1,22,New Jersey Devils,Edmonton Oilers,202202029327,2022020293,Shot,27,SHOT,Yegor Sharangovich Snap Shot saved by Stuart Skinner,2022-11-22T00:37:13Z,1,15:44,04:16,1,1,1.0,New Jersey Devils,NJD
+73,1,22,New Jersey Devils,Edmonton Oilers,2022020293172,2022020293,Stoppage,172,STOP,Goalie Stopped,2022-11-22T00:37:13Z,1,15:44,04:16,1,1,,,
+74,1,22,New Jersey Devils,Edmonton Oilers,2022020293139,2022020293,Faceoff,139,FACEOFF,Derek Ryan faceoff won against Erik Haula,2022-11-22T00:39:18Z,1,15:44,04:16,1,1,22.0,Edmonton Oilers,EDM
+75,1,22,New Jersey Devils,Edmonton Oilers,2022020293173,2022020293,Stoppage,173,STOP,Icing,2022-11-22T00:39:26Z,1,15:51,04:09,1,1,,,
+76,1,22,New Jersey Devils,Edmonton Oilers,2022020293140,2022020293,Faceoff,140,FACEOFF,Derek Ryan faceoff won against Erik Haula,2022-11-22T00:40:06Z,1,15:51,04:09,1,1,22.0,Edmonton Oilers,EDM
+77,1,22,New Jersey Devils,Edmonton Oilers,202202029328,2022020293,Missed Shot,28,MISSED_SHOT,Jesper Bratt Wide of Net Stuart Skinner,2022-11-22T00:40:20Z,1,16:05,03:55,1,1,1.0,New Jersey Devils,NJD
+78,1,22,New Jersey Devils,Edmonton Oilers,2022020293141,2022020293,Hit,141,HIT,Darnell Nurse hit Jesper Bratt,2022-11-22T00:40:21Z,1,16:06,03:54,1,1,22.0,Edmonton Oilers,EDM
+79,1,22,New Jersey Devils,Edmonton Oilers,202202029329,2022020293,Shot,29,SHOT,Erik Haula Wrist Shot saved by Stuart Skinner,2022-11-22T00:40:40Z,1,16:25,03:35,1,1,1.0,New Jersey Devils,NJD
+80,1,22,New Jersey Devils,Edmonton Oilers,2022020293174,2022020293,Stoppage,174,STOP,Icing,2022-11-22T00:40:45Z,1,16:31,03:29,1,1,,,
+81,1,22,New Jersey Devils,Edmonton Oilers,2022020293142,2022020293,Faceoff,142,FACEOFF,Connor McDavid faceoff won against Nico Hischier,2022-11-22T00:41:15Z,1,16:31,03:29,1,1,22.0,Edmonton Oilers,EDM
+82,1,22,New Jersey Devils,Edmonton Oilers,2022020293143,2022020293,Giveaway,143,GIVEAWAY,Giveaway by John Marino,2022-11-22T00:41:21Z,1,16:37,03:23,1,1,1.0,New Jersey Devils,NJD
+83,1,22,New Jersey Devils,Edmonton Oilers,202202029330,2022020293,Shot,30,SHOT,Warren Foegele Wrist Shot saved by Vitek Vanecek,2022-11-22T00:41:28Z,1,16:44,03:16,1,1,22.0,Edmonton Oilers,EDM
+84,1,22,New Jersey Devils,Edmonton Oilers,2022020293175,2022020293,Missed Shot,175,MISSED_SHOT,Connor McDavid Wide of Net Vitek Vanecek,2022-11-22T00:41:32Z,1,16:48,03:12,1,1,22.0,Edmonton Oilers,EDM
+85,1,22,New Jersey Devils,Edmonton Oilers,202202029331,2022020293,Shot,31,SHOT,Mattias Janmark Snap Shot saved by Vitek Vanecek,2022-11-22T00:41:36Z,1,16:52,03:08,1,1,22.0,Edmonton Oilers,EDM
+86,1,22,New Jersey Devils,Edmonton Oilers,2022020293255,2022020293,Shot,255,SHOT,Klim Kostin Snap Shot saved by Vitek Vanecek,2022-11-22T00:41:37Z,1,16:53,03:07,1,1,22.0,Edmonton Oilers,EDM
+87,1,22,New Jersey Devils,Edmonton Oilers,2022020293145,2022020293,Hit,145,HIT,Damon Severson hit Mattias Janmark,2022-11-22T00:42:05Z,1,17:21,02:39,1,1,1.0,New Jersey Devils,NJD
+88,1,22,New Jersey Devils,Edmonton Oilers,2022020293176,2022020293,Blocked Shot,176,BLOCKED_SHOT,Evan Bouchard shot blocked shot by Fabian Zetterlund,2022-11-22T00:42:14Z,1,17:30,02:30,1,1,1.0,New Jersey Devils,NJD
+89,1,22,New Jersey Devils,Edmonton Oilers,202202029333,2022020293,Missed Shot,33,MISSED_SHOT,Jesse Puljujarvi Wide of Net Vitek Vanecek,2022-11-22T00:42:39Z,1,17:55,02:05,1,1,22.0,Edmonton Oilers,EDM
+90,1,22,New Jersey Devils,Edmonton Oilers,2022020293146,2022020293,Hit,146,HIT,Miles Wood hit Leon Draisaitl,2022-11-22T00:42:43Z,1,17:59,02:01,1,1,1.0,New Jersey Devils,NJD
+91,1,22,New Jersey Devils,Edmonton Oilers,2022020293150,2022020293,Hit,150,HIT,Jesse Puljujarvi hit Michael McLeod,2022-11-22T00:42:58Z,1,18:14,01:46,1,1,22.0,Edmonton Oilers,EDM
+92,1,22,New Jersey Devils,Edmonton Oilers,2022020293148,2022020293,Hit,148,HIT,Michael McLeod hit Jesse Puljujarvi,2022-11-22T00:43:01Z,1,18:17,01:43,1,1,1.0,New Jersey Devils,NJD
+93,1,22,New Jersey Devils,Edmonton Oilers,2022020293351,2022020293,Hit,351,HIT,Darnell Nurse hit Erik Haula,2022-11-22T00:43:30Z,1,18:46,01:14,1,1,22.0,Edmonton Oilers,EDM
+94,1,22,New Jersey Devils,Edmonton Oilers,2022020293177,2022020293,Stoppage,177,STOP,Puck in Netting,2022-11-22T00:43:33Z,1,18:48,01:12,1,1,,,
+95,1,22,New Jersey Devils,Edmonton Oilers,2022020293352,2022020293,Faceoff,352,FACEOFF,Erik Haula faceoff won against Derek Ryan,2022-11-22T00:44:08Z,1,18:48,01:12,1,1,1.0,New Jersey Devils,NJD
+96,1,22,New Jersey Devils,Edmonton Oilers,202202029334,2022020293,Missed Shot,34,MISSED_SHOT,Zach Hyman Wide of Net Vitek Vanecek,2022-11-22T00:44:29Z,1,19:09,00:51,1,1,22.0,Edmonton Oilers,EDM
+97,1,22,New Jersey Devils,Edmonton Oilers,202202029335,2022020293,Shot,35,SHOT,Erik Haula Backhand saved by Stuart Skinner,2022-11-22T00:44:41Z,1,19:21,00:39,1,1,1.0,New Jersey Devils,NJD
+98,1,22,New Jersey Devils,Edmonton Oilers,2022020293178,2022020293,Stoppage,178,STOP,Goalie Stopped,2022-11-22T00:44:41Z,1,19:21,00:39,1,1,,,
+99,1,22,New Jersey Devils,Edmonton Oilers,2022020293353,2022020293,Faceoff,353,FACEOFF,Jesper Boqvist faceoff won against Leon Draisaitl,2022-11-22T00:45:14Z,1,19:21,00:39,1,1,1.0,New Jersey Devils,NJD
+100,1,22,New Jersey Devils,Edmonton Oilers,2022020293354,2022020293,Giveaway,354,GIVEAWAY,Giveaway by Stuart Skinner,2022-11-22T00:45:40Z,1,19:47,00:13,1,1,22.0,Edmonton Oilers,EDM
+101,1,22,New Jersey Devils,Edmonton Oilers,202202029336,2022020293,Missed Shot,36,MISSED_SHOT,Yegor Sharangovich Wide of Net Stuart Skinner,2022-11-22T00:45:41Z,1,19:48,00:12,1,1,1.0,New Jersey Devils,NJD
+102,1,22,New Jersey Devils,Edmonton Oilers,2022020293179,2022020293,Stoppage,179,STOP,Puck in Crowd,2022-11-22T00:45:45Z,1,19:52,00:08,1,1,,,
+103,1,22,New Jersey Devils,Edmonton Oilers,2022020293355,2022020293,Faceoff,355,FACEOFF,Leon Draisaitl faceoff won against Nico Hischier,2022-11-22T00:46:24Z,1,19:52,00:08,1,1,22.0,Edmonton Oilers,EDM
+104,1,22,New Jersey Devils,Edmonton Oilers,202202029337,2022020293,Period End,37,PERIOD_END,End of 1st Period,2022-11-22T00:46:31Z,1,20:00,00:00,1,1,,,
+105,1,22,New Jersey Devils,Edmonton Oilers,202202029340,2022020293,Period Official,40,PERIOD_OFFICIAL,Period Official,2022-11-22T01:02:55Z,1,20:00,00:00,1,1,,,
+106,1,22,New Jersey Devils,Edmonton Oilers,202202029341,2022020293,Period Ready,41,PERIOD_READY,Period Ready,2022-11-22T01:04:11Z,2,00:00,20:00,1,1,,,
+107,1,22,New Jersey Devils,Edmonton Oilers,2022020293356,2022020293,Period Start,356,PERIOD_START,Period Start,2022-11-22T01:05:13Z,2,00:00,20:00,1,1,,,
+108,1,22,New Jersey Devils,Edmonton Oilers,2022020293357,2022020293,Faceoff,357,FACEOFF,Ryan McLeod faceoff won against Michael McLeod,2022-11-22T01:05:13Z,2,00:00,20:00,1,1,22.0,Edmonton Oilers,EDM
+109,1,22,New Jersey Devils,Edmonton Oilers,202202029342,2022020293,Shot,42,SHOT,Ryan Nugent-Hopkins Snap Shot saved by Vitek Vanecek,2022-11-22T01:05:53Z,2,00:40,19:20,1,1,22.0,Edmonton Oilers,EDM
+110,1,22,New Jersey Devils,Edmonton Oilers,2022020293180,2022020293,Blocked Shot,180,BLOCKED_SHOT,Leon Draisaitl shot blocked shot by Michael McLeod,2022-11-22T01:06:03Z,2,00:50,19:10,1,1,1.0,New Jersey Devils,NJD
+111,1,22,New Jersey Devils,Edmonton Oilers,2022020293359,2022020293,Hit,359,HIT,Cody Ceci hit Erik Haula,2022-11-22T01:06:32Z,2,01:19,18:41,1,1,22.0,Edmonton Oilers,EDM
+112,1,22,New Jersey Devils,Edmonton Oilers,202202029343,2022020293,Missed Shot,43,MISSED_SHOT,Erik Haula Wide of Net Stuart Skinner,2022-11-22T01:07:01Z,2,01:48,18:12,1,1,1.0,New Jersey Devils,NJD
+113,1,22,New Jersey Devils,Edmonton Oilers,2022020293181,2022020293,Missed Shot,181,MISSED_SHOT,John Marino Wide of Net Stuart Skinner,2022-11-22T01:07:01Z,2,01:48,18:12,1,1,1.0,New Jersey Devils,NJD
+114,1,22,New Jersey Devils,Edmonton Oilers,202202029344,2022020293,Missed Shot,44,MISSED_SHOT,Jesper Bratt Wide of Net Stuart Skinner,2022-11-22T01:07:05Z,2,01:52,18:08,1,1,1.0,New Jersey Devils,NJD
+115,1,22,New Jersey Devils,Edmonton Oilers,2022020293182,2022020293,Stoppage,182,STOP,Icing,2022-11-22T01:07:23Z,2,02:10,17:50,1,1,,,
+116,1,22,New Jersey Devils,Edmonton Oilers,2022020293360,2022020293,Faceoff,360,FACEOFF,Nico Hischier faceoff won against Connor McDavid,2022-11-22T01:07:51Z,2,02:10,17:50,1,1,1.0,New Jersey Devils,NJD
+117,1,22,New Jersey Devils,Edmonton Oilers,2022020293183,2022020293,Blocked Shot,183,BLOCKED_SHOT,Damon Severson shot blocked shot by Mattias Janmark,2022-11-22T01:07:56Z,2,02:15,17:45,1,1,22.0,Edmonton Oilers,EDM
+118,1,22,New Jersey Devils,Edmonton Oilers,202202029345,2022020293,Shot,45,SHOT,Connor McDavid Snap Shot saved by Vitek Vanecek,2022-11-22T01:08:07Z,2,02:26,17:34,1,1,22.0,Edmonton Oilers,EDM
+119,1,22,New Jersey Devils,Edmonton Oilers,2022020293184,2022020293,Stoppage,184,STOP,Goalie Stopped,2022-11-22T01:08:07Z,2,02:26,17:34,1,1,,,
+120,1,22,New Jersey Devils,Edmonton Oilers,2022020293361,2022020293,Faceoff,361,FACEOFF,Derek Ryan faceoff won against Nico Hischier,2022-11-22T01:08:42Z,2,02:26,17:34,1,1,22.0,Edmonton Oilers,EDM
+121,1,22,New Jersey Devils,Edmonton Oilers,202202029346,2022020293,Shot,46,SHOT,Dawson Mercer Wrist Shot saved by Stuart Skinner,2022-11-22T01:09:05Z,2,02:49,17:11,1,1,1.0,New Jersey Devils,NJD
+122,1,22,New Jersey Devils,Edmonton Oilers,2022020293801,2022020293,Stoppage,801,STOP,Goalie Stopped,2022-11-22T01:09:05Z,2,02:49,17:11,1,1,,,
+123,1,22,New Jersey Devils,Edmonton Oilers,2022020293362,2022020293,Faceoff,362,FACEOFF,Erik Haula faceoff won against Ryan McLeod,2022-11-22T01:09:40Z,2,02:49,17:11,1,1,1.0,New Jersey Devils,NJD
+124,1,22,New Jersey Devils,Edmonton Oilers,202202029348,2022020293,Blocked Shot,48,BLOCKED_SHOT,Dougie Hamilton shot blocked shot by Ryan McLeod,2022-11-22T01:10:17Z,2,03:26,16:34,1,1,22.0,Edmonton Oilers,EDM
+125,1,22,New Jersey Devils,Edmonton Oilers,2022020293363,2022020293,Hit,363,HIT,Jack Hughes hit Jesse Puljujarvi,2022-11-22T01:10:30Z,2,03:39,16:21,1,1,1.0,New Jersey Devils,NJD
+126,1,22,New Jersey Devils,Edmonton Oilers,2022020293186,2022020293,Missed Shot,186,MISSED_SHOT,Erik Haula Wide of Net Stuart Skinner,2022-11-22T01:10:39Z,2,03:48,16:12,1,1,1.0,New Jersey Devils,NJD
+127,1,22,New Jersey Devils,Edmonton Oilers,2022020293377,2022020293,Hit,377,HIT,Klim Kostin hit Yegor Sharangovich,2022-11-22T01:10:40Z,2,03:49,16:11,1,1,22.0,Edmonton Oilers,EDM
+128,1,22,New Jersey Devils,Edmonton Oilers,202202029349,2022020293,Blocked Shot,49,BLOCKED_SHOT,Fabian Zetterlund shot blocked shot by Darnell Nurse,2022-11-22T01:10:48Z,2,03:57,16:03,1,1,22.0,Edmonton Oilers,EDM
+129,1,22,New Jersey Devils,Edmonton Oilers,2022020293187,2022020293,Shot,187,SHOT,Yegor Sharangovich Wrist Shot saved by Stuart Skinner,2022-11-22T01:10:52Z,2,04:01,15:59,1,1,1.0,New Jersey Devils,NJD
+130,1,22,New Jersey Devils,Edmonton Oilers,202202029350,2022020293,Shot,50,SHOT,Brendan Smith Slap Shot saved by Stuart Skinner,2022-11-22T01:10:55Z,2,04:04,15:56,1,1,1.0,New Jersey Devils,NJD
+131,1,22,New Jersey Devils,Edmonton Oilers,2022020293807,2022020293,Stoppage,807,STOP,Goalie Stopped,2022-11-22T01:10:56Z,2,04:06,15:54,1,1,,,
+132,1,22,New Jersey Devils,Edmonton Oilers,2022020293365,2022020293,Faceoff,365,FACEOFF,Jesper Boqvist faceoff won against Leon Draisaitl,2022-11-22T01:11:22Z,2,04:06,15:54,1,1,1.0,New Jersey Devils,NJD
+133,1,22,New Jersey Devils,Edmonton Oilers,2022020293188,2022020293,Shot,188,SHOT,Markus Niemelainen Wrist Shot saved by Vitek Vanecek,2022-11-22T01:11:36Z,2,04:20,15:40,1,1,22.0,Edmonton Oilers,EDM
+134,1,22,New Jersey Devils,Edmonton Oilers,2022020293401,2022020293,Blocked Shot,401,BLOCKED_SHOT,Jesper Boqvist shot blocked shot by Markus Niemelainen,2022-11-22T01:11:43Z,2,04:27,15:33,1,1,22.0,Edmonton Oilers,EDM
+135,1,22,New Jersey Devils,Edmonton Oilers,2022020293189,2022020293,Shot,189,SHOT,Yegor Sharangovich Wrist Shot saved by Stuart Skinner,2022-11-22T01:11:54Z,2,04:38,15:22,1,1,1.0,New Jersey Devils,NJD
+136,1,22,New Jersey Devils,Edmonton Oilers,2022020293257,2022020293,Shot,257,SHOT,Jonas Siegenthaler Wrist Shot saved by Stuart Skinner,2022-11-22T01:12:22Z,2,04:57,15:03,1,1,1.0,New Jersey Devils,NJD
+137,1,22,New Jersey Devils,Edmonton Oilers,2022020293402,2022020293,Stoppage,402,STOP,Goalie Stopped,2022-11-22T01:12:22Z,2,04:57,15:03,1,1,,,
+138,1,22,New Jersey Devils,Edmonton Oilers,2022020293366,2022020293,Faceoff,366,FACEOFF,Connor McDavid faceoff won against Nico Hischier,2022-11-22T01:12:53Z,2,04:57,15:03,1,1,22.0,Edmonton Oilers,EDM
+139,1,22,New Jersey Devils,Edmonton Oilers,2022020293190,2022020293,Missed Shot,190,MISSED_SHOT,Tomas Tatar Wide of Net Stuart Skinner,2022-11-22T01:13:07Z,2,05:11,14:49,1,1,1.0,New Jersey Devils,NJD
+140,1,22,New Jersey Devils,Edmonton Oilers,2022020293367,2022020293,Giveaway,367,GIVEAWAY,Giveaway by Stuart Skinner,2022-11-22T01:13:09Z,2,05:13,14:47,1,1,22.0,Edmonton Oilers,EDM
+141,1,22,New Jersey Devils,Edmonton Oilers,2022020293403,2022020293,Goal,403,GOAL,"Dawson Mercer (5) Snap Shot, assists: Nico Hischier (12)",2022-11-22T01:13:11Z,2,05:15,14:45,2,1,1.0,New Jersey Devils,NJD
+142,1,22,New Jersey Devils,Edmonton Oilers,2022020293368,2022020293,Faceoff,368,FACEOFF,Ryan McLeod faceoff won against Erik Haula,2022-11-22T01:13:55Z,2,05:15,14:45,2,1,22.0,Edmonton Oilers,EDM
+143,1,22,New Jersey Devils,Edmonton Oilers,2022020293191,2022020293,Missed Shot,191,MISSED_SHOT,Erik Haula Wide of Net Stuart Skinner,2022-11-22T01:14:11Z,2,05:31,14:29,2,1,1.0,New Jersey Devils,NJD
+144,1,22,New Jersey Devils,Edmonton Oilers,2022020293256,2022020293,Blocked Shot,256,BLOCKED_SHOT,Jesse Puljujarvi shot blocked shot by Damon Severson,2022-11-22T01:14:20Z,2,05:40,14:20,2,1,1.0,New Jersey Devils,NJD
+145,1,22,New Jersey Devils,Edmonton Oilers,2022020293404,2022020293,Stoppage,404,STOP,Puck in Netting,2022-11-22T01:14:20Z,2,05:40,14:20,2,1,,,
+146,1,22,New Jersey Devils,Edmonton Oilers,2022020293370,2022020293,Faceoff,370,FACEOFF,Connor McDavid faceoff won against Jesper Boqvist,2022-11-22T01:15:00Z,2,05:40,14:20,2,1,22.0,Edmonton Oilers,EDM
+147,1,22,New Jersey Devils,Edmonton Oilers,2022020293371,2022020293,Giveaway,371,GIVEAWAY,Giveaway by Yegor Sharangovich,2022-11-22T01:15:08Z,2,05:48,14:12,2,1,1.0,New Jersey Devils,NJD
+148,1,22,New Jersey Devils,Edmonton Oilers,2022020293405,2022020293,Shot,405,SHOT,Connor McDavid Snap Shot saved by Vitek Vanecek,2022-11-22T01:15:40Z,2,06:20,13:40,2,1,22.0,Edmonton Oilers,EDM
+149,1,22,New Jersey Devils,Edmonton Oilers,2022020293406,2022020293,Missed Shot,406,MISSED_SHOT,Dylan Holloway Wide of Net Vitek Vanecek,2022-11-22T01:15:50Z,2,06:30,13:30,2,1,22.0,Edmonton Oilers,EDM
+150,1,22,New Jersey Devils,Edmonton Oilers,2022020293192,2022020293,Blocked Shot,192,BLOCKED_SHOT,Derek Ryan shot blocked shot by John Marino,2022-11-22T01:16:21Z,2,07:01,12:59,2,1,1.0,New Jersey Devils,NJD
+151,1,22,New Jersey Devils,Edmonton Oilers,2022020293372,2022020293,Hit,372,HIT,Brett Kulak hit Michael McLeod,2022-11-22T01:16:46Z,2,07:26,12:34,2,1,22.0,Edmonton Oilers,EDM
+152,1,22,New Jersey Devils,Edmonton Oilers,2022020293407,2022020293,Missed Shot,407,MISSED_SHOT,Nathan Bastian Wide of Net Stuart Skinner,2022-11-22T01:16:52Z,2,07:32,12:28,2,1,1.0,New Jersey Devils,NJD
+153,1,22,New Jersey Devils,Edmonton Oilers,2022020293408,2022020293,Goal,408,GOAL,"Damon Severson (2) Wrist Shot, assists: Jesper Bratt (16), Jack Hughes (14)",2022-11-22T01:18:04Z,2,08:45,11:15,3,1,1.0,New Jersey Devils,NJD
+154,1,22,New Jersey Devils,Edmonton Oilers,2022020293373,2022020293,Faceoff,373,FACEOFF,Erik Haula faceoff won against Ryan McLeod,2022-11-22T01:18:49Z,2,08:45,11:15,3,1,1.0,New Jersey Devils,NJD
+155,1,22,New Jersey Devils,Edmonton Oilers,2022020293258,2022020293,Blocked Shot,258,BLOCKED_SHOT,Fabian Zetterlund shot blocked shot by Brett Kulak,2022-11-22T01:19:46Z,2,09:42,10:18,3,1,22.0,Edmonton Oilers,EDM
+156,1,22,New Jersey Devils,Edmonton Oilers,2022020293374,2022020293,Hit,374,HIT,Tyson Barrie hit Miles Wood,2022-11-22T01:20:58Z,2,10:54,09:06,3,1,22.0,Edmonton Oilers,EDM
+157,1,22,New Jersey Devils,Edmonton Oilers,2022020293409,2022020293,Missed Shot,409,MISSED_SHOT,Tyson Barrie Wide of Net Vitek Vanecek,2022-11-22T01:21:17Z,2,11:13,08:47,3,1,22.0,Edmonton Oilers,EDM
+158,1,22,New Jersey Devils,Edmonton Oilers,2022020293375,2022020293,Hit,375,HIT,Tomas Tatar hit Dylan Holloway,2022-11-22T01:21:23Z,2,11:19,08:41,3,1,1.0,New Jersey Devils,NJD
+159,1,22,New Jersey Devils,Edmonton Oilers,2022020293193,2022020293,Stoppage,193,STOP,Offside,2022-11-22T01:21:31Z,2,11:27,08:33,3,1,,,
+160,1,22,New Jersey Devils,Edmonton Oilers,2022020293378,2022020293,Faceoff,378,FACEOFF,Leon Draisaitl faceoff won against Nico Hischier,2022-11-22T01:24:06Z,2,11:27,08:33,3,1,22.0,Edmonton Oilers,EDM
+161,1,22,New Jersey Devils,Edmonton Oilers,2022020293194,2022020293,Blocked Shot,194,BLOCKED_SHOT,Evan Bouchard shot blocked shot by Dawson Mercer,2022-11-22T01:24:24Z,2,11:45,08:15,3,1,1.0,New Jersey Devils,NJD
+162,1,22,New Jersey Devils,Edmonton Oilers,2022020293379,2022020293,Hit,379,HIT,Dylan Holloway hit Jonas Siegenthaler,2022-11-22T01:25:10Z,2,12:31,07:29,3,1,22.0,Edmonton Oilers,EDM
+163,1,22,New Jersey Devils,Edmonton Oilers,2022020293195,2022020293,Shot,195,SHOT,Erik Haula Tip-In saved by Stuart Skinner,2022-11-22T01:25:37Z,2,12:58,07:02,3,1,1.0,New Jersey Devils,NJD
+164,1,22,New Jersey Devils,Edmonton Oilers,2022020293410,2022020293,Shot,410,SHOT,Jesper Bratt Wrist Shot saved by Stuart Skinner,2022-11-22T01:26:05Z,2,13:26,06:34,3,1,1.0,New Jersey Devils,NJD
+165,1,22,New Jersey Devils,Edmonton Oilers,2022020293804,2022020293,Missed Shot,804,MISSED_SHOT,Yegor Sharangovich Wide of Net Stuart Skinner,2022-11-22T01:26:12Z,2,13:33,06:27,3,1,1.0,New Jersey Devils,NJD
+166,1,22,New Jersey Devils,Edmonton Oilers,2022020293196,2022020293,Stoppage,196,STOP,Puck in Netting,2022-11-22T01:26:14Z,2,13:35,06:25,3,1,,,
+167,1,22,New Jersey Devils,Edmonton Oilers,2022020293381,2022020293,Faceoff,381,FACEOFF,Nico Hischier faceoff won against Connor McDavid,2022-11-22T01:28:51Z,2,13:35,06:25,3,1,1.0,New Jersey Devils,NJD
+168,1,22,New Jersey Devils,Edmonton Oilers,2022020293682,2022020293,Penalty,682,PENALTY,Connor McDavid Slashing against Dawson Mercer,2022-11-22T01:29:09Z,2,13:53,06:07,3,1,22.0,Edmonton Oilers,EDM
+169,1,22,New Jersey Devils,Edmonton Oilers,2022020293382,2022020293,Faceoff,382,FACEOFF,Ryan McLeod faceoff won against Nico Hischier,2022-11-22T01:29:52Z,2,13:53,06:07,3,1,22.0,Edmonton Oilers,EDM
+170,1,22,New Jersey Devils,Edmonton Oilers,2022020293411,2022020293,Shot,411,SHOT,Dougie Hamilton Slap Shot saved by Stuart Skinner,2022-11-22T01:30:17Z,2,14:18,05:42,3,1,1.0,New Jersey Devils,NJD
+171,1,22,New Jersey Devils,Edmonton Oilers,2022020293809,2022020293,Stoppage,809,STOP,Goalie Stopped,2022-11-22T01:30:18Z,2,14:19,05:41,3,1,,,
+172,1,22,New Jersey Devils,Edmonton Oilers,2022020293383,2022020293,Faceoff,383,FACEOFF,Ryan Nugent-Hopkins faceoff won against Nathan Bastian,2022-11-22T01:30:56Z,2,14:19,05:41,3,1,22.0,Edmonton Oilers,EDM
+173,1,22,New Jersey Devils,Edmonton Oilers,2022020293259,2022020293,Blocked Shot,259,BLOCKED_SHOT,Dougie Hamilton shot blocked shot by Darnell Nurse,2022-11-22T01:31:14Z,2,14:37,05:23,3,1,22.0,Edmonton Oilers,EDM
+174,1,22,New Jersey Devils,Edmonton Oilers,2022020293412,2022020293,Missed Shot,412,MISSED_SHOT,Jesper Bratt Wide of Net Stuart Skinner,2022-11-22T01:31:50Z,2,15:13,04:47,3,1,1.0,New Jersey Devils,NJD
+175,1,22,New Jersey Devils,Edmonton Oilers,2022020293384,2022020293,Hit,384,HIT,Leon Draisaitl hit Fabian Zetterlund,2022-11-22T01:32:37Z,2,16:00,04:00,3,1,22.0,Edmonton Oilers,EDM
+176,1,22,New Jersey Devils,Edmonton Oilers,2022020293413,2022020293,Shot,413,SHOT,Fabian Zetterlund Snap Shot saved by Stuart Skinner,2022-11-22T01:32:45Z,2,16:08,03:52,3,1,1.0,New Jersey Devils,NJD
+177,1,22,New Jersey Devils,Edmonton Oilers,2022020293414,2022020293,Missed Shot,414,MISSED_SHOT,Tyson Barrie Wide of Net Vitek Vanecek,2022-11-22T01:32:59Z,2,16:22,03:38,3,1,22.0,Edmonton Oilers,EDM
+178,1,22,New Jersey Devils,Edmonton Oilers,2022020293385,2022020293,Hit,385,HIT,Mattias Janmark hit Miles Wood,2022-11-22T01:33:09Z,2,16:32,03:28,3,1,22.0,Edmonton Oilers,EDM
+179,1,22,New Jersey Devils,Edmonton Oilers,2022020293702,2022020293,Penalty,702,PENALTY,Miles Wood High-sticking against Mattias Janmark,2022-11-22T01:33:09Z,2,16:33,03:27,3,1,1.0,New Jersey Devils,NJD
+180,1,22,New Jersey Devils,Edmonton Oilers,2022020293386,2022020293,Faceoff,386,FACEOFF,Leon Draisaitl faceoff won against Erik Haula,2022-11-22T01:35:21Z,2,16:33,03:27,3,1,22.0,Edmonton Oilers,EDM
+181,1,22,New Jersey Devils,Edmonton Oilers,2022020293198,2022020293,Shot,198,SHOT,Leon Draisaitl Snap Shot saved by Vitek Vanecek,2022-11-22T01:35:43Z,2,16:55,03:05,3,1,22.0,Edmonton Oilers,EDM
+182,1,22,New Jersey Devils,Edmonton Oilers,2022020293199,2022020293,Shot,199,SHOT,Connor McDavid Snap Shot saved by Vitek Vanecek,2022-11-22T01:36:28Z,2,17:39,02:21,3,1,22.0,Edmonton Oilers,EDM
+183,1,22,New Jersey Devils,Edmonton Oilers,2022020293808,2022020293,Stoppage,808,STOP,Goalie Stopped,2022-11-22T01:36:28Z,2,17:39,02:21,3,1,,,
+184,1,22,New Jersey Devils,Edmonton Oilers,2022020293387,2022020293,Faceoff,387,FACEOFF,Leon Draisaitl faceoff won against Erik Haula,2022-11-22T01:37:17Z,2,17:39,02:21,3,1,22.0,Edmonton Oilers,EDM
+185,1,22,New Jersey Devils,Edmonton Oilers,2022020293501,2022020293,Missed Shot,501,MISSED_SHOT,Evan Bouchard Wide of Net Vitek Vanecek,2022-11-22T01:37:59Z,2,18:21,01:39,3,1,22.0,Edmonton Oilers,EDM
+186,1,22,New Jersey Devils,Edmonton Oilers,2022020293388,2022020293,Takeaway,388,TAKEAWAY,Takeaway by Miles Wood,2022-11-22T01:38:19Z,2,18:41,01:19,3,1,1.0,New Jersey Devils,NJD
+187,1,22,New Jersey Devils,Edmonton Oilers,2022020293415,2022020293,Shot,415,SHOT,Dougie Hamilton Snap Shot saved by Stuart Skinner,2022-11-22T01:38:59Z,2,19:21,00:39,3,1,1.0,New Jersey Devils,NJD
+188,1,22,New Jersey Devils,Edmonton Oilers,2022020293502,2022020293,Stoppage,502,STOP,Puck in Benches,2022-11-22T01:39:06Z,2,19:27,00:33,3,1,,,
+189,1,22,New Jersey Devils,Edmonton Oilers,2022020293389,2022020293,Faceoff,389,FACEOFF,Michael McLeod faceoff won against Ryan McLeod,2022-11-22T01:39:59Z,2,19:27,00:33,3,1,1.0,New Jersey Devils,NJD
+190,1,22,New Jersey Devils,Edmonton Oilers,2022020293503,2022020293,Stoppage,503,STOP,Icing,2022-11-22T01:40:06Z,2,19:34,00:26,3,1,,,
+191,1,22,New Jersey Devils,Edmonton Oilers,2022020293390,2022020293,Faceoff,390,FACEOFF,Michael McLeod faceoff won against Leon Draisaitl,2022-11-22T01:40:44Z,2,19:34,00:26,3,1,1.0,New Jersey Devils,NJD
+192,1,22,New Jersey Devils,Edmonton Oilers,2022020293391,2022020293,Hit,391,HIT,Tyson Barrie hit Jesper Boqvist,2022-11-22T01:40:50Z,2,19:41,00:19,3,1,22.0,Edmonton Oilers,EDM
+193,1,22,New Jersey Devils,Edmonton Oilers,2022020293504,2022020293,Blocked Shot,504,BLOCKED_SHOT,Darnell Nurse shot blocked shot by John Marino,2022-11-22T01:41:05Z,2,19:56,00:04,3,1,1.0,New Jersey Devils,NJD
+194,1,22,New Jersey Devils,Edmonton Oilers,2022020293416,2022020293,Shot,416,SHOT,Darnell Nurse Snap Shot saved by Vitek Vanecek,2022-11-22T01:41:07Z,2,19:58,00:02,3,1,22.0,Edmonton Oilers,EDM
+195,1,22,New Jersey Devils,Edmonton Oilers,2022020293417,2022020293,Period End,417,PERIOD_END,End of 2nd Period,2022-11-22T01:41:09Z,2,20:00,00:00,3,1,,,
+196,1,22,New Jersey Devils,Edmonton Oilers,2022020293420,2022020293,Period Official,420,PERIOD_OFFICIAL,Period Official,2022-11-22T01:58:09Z,2,20:00,00:00,3,1,,,
+197,1,22,New Jersey Devils,Edmonton Oilers,2022020293421,2022020293,Period Ready,421,PERIOD_READY,Period Ready,2022-11-22T01:58:46Z,3,00:00,20:00,3,1,,,
+198,1,22,New Jersey Devils,Edmonton Oilers,2022020293392,2022020293,Period Start,392,PERIOD_START,Period Start,2022-11-22T02:00:07Z,3,00:00,20:00,3,1,,,
+199,1,22,New Jersey Devils,Edmonton Oilers,2022020293393,2022020293,Faceoff,393,FACEOFF,Leon Draisaitl faceoff won against Nico Hischier,2022-11-22T02:00:07Z,3,00:00,20:00,3,1,22.0,Edmonton Oilers,EDM
+200,1,22,New Jersey Devils,Edmonton Oilers,2022020293422,2022020293,Shot,422,SHOT,Ryan Nugent-Hopkins Wrist Shot saved by Vitek Vanecek,2022-11-22T02:00:29Z,3,00:22,19:38,3,1,22.0,Edmonton Oilers,EDM
+201,1,22,New Jersey Devils,Edmonton Oilers,2022020293506,2022020293,Shot,506,SHOT,Ryan Nugent-Hopkins Snap Shot saved by Vitek Vanecek,2022-11-22T02:00:36Z,3,00:29,19:31,3,1,22.0,Edmonton Oilers,EDM
+202,1,22,New Jersey Devils,Edmonton Oilers,2022020293423,2022020293,Shot,423,SHOT,Jack Hughes Slap Shot saved by Stuart Skinner,2022-11-22T02:00:59Z,3,00:52,19:08,3,1,1.0,New Jersey Devils,NJD
+203,1,22,New Jersey Devils,Edmonton Oilers,2022020293394,2022020293,Giveaway,394,GIVEAWAY,Giveaway by Jack Hughes,2022-11-22T02:01:03Z,3,00:56,19:04,3,1,1.0,New Jersey Devils,NJD
+204,1,22,New Jersey Devils,Edmonton Oilers,2022020293395,2022020293,Hit,395,HIT,Michael McLeod hit Darnell Nurse,2022-11-22T02:01:45Z,3,01:38,18:22,3,1,1.0,New Jersey Devils,NJD
+205,1,22,New Jersey Devils,Edmonton Oilers,2022020293424,2022020293,Shot,424,SHOT,Damon Severson Slap Shot saved by Stuart Skinner,2022-11-22T02:01:50Z,3,01:43,18:17,3,1,1.0,New Jersey Devils,NJD
+206,1,22,New Jersey Devils,Edmonton Oilers,2022020293425,2022020293,Shot,425,SHOT,Michael McLeod Snap Shot saved by Stuart Skinner,2022-11-22T02:02:11Z,3,02:04,17:56,3,1,1.0,New Jersey Devils,NJD
+207,1,22,New Jersey Devils,Edmonton Oilers,2022020293396,2022020293,Hit,396,HIT,Markus Niemelainen hit Nathan Bastian,2022-11-22T02:02:16Z,3,02:09,17:51,3,1,22.0,Edmonton Oilers,EDM
+208,1,22,New Jersey Devils,Edmonton Oilers,2022020293426,2022020293,Missed Shot,426,MISSED_SHOT,Yegor Sharangovich Wide of Net Stuart Skinner,2022-11-22T02:02:39Z,3,02:32,17:28,3,1,1.0,New Jersey Devils,NJD
+209,1,22,New Jersey Devils,Edmonton Oilers,2022020293507,2022020293,Shot,507,SHOT,Ryan Nugent-Hopkins Wrist Shot saved by Vitek Vanecek,2022-11-22T02:02:50Z,3,02:43,17:17,3,1,22.0,Edmonton Oilers,EDM
+210,1,22,New Jersey Devils,Edmonton Oilers,2022020293397,2022020293,Hit,397,HIT,Jesper Boqvist hit Leon Draisaitl,2022-11-22T02:03:10Z,3,03:03,16:57,3,1,1.0,New Jersey Devils,NJD
+211,1,22,New Jersey Devils,Edmonton Oilers,2022020293427,2022020293,Shot,427,SHOT,Brett Kulak Wrist Shot saved by Vitek Vanecek,2022-11-22T02:03:15Z,3,03:08,16:52,3,1,22.0,Edmonton Oilers,EDM
+212,1,22,New Jersey Devils,Edmonton Oilers,2022020293810,2022020293,Stoppage,810,STOP,Goalie Stopped,2022-11-22T02:03:16Z,3,03:10,16:50,3,1,,,
+213,1,22,New Jersey Devils,Edmonton Oilers,2022020293398,2022020293,Faceoff,398,FACEOFF,Connor McDavid faceoff won against Nico Hischier,2022-11-22T02:03:55Z,3,03:10,16:50,3,1,22.0,Edmonton Oilers,EDM
+214,1,22,New Jersey Devils,Edmonton Oilers,2022020293399,2022020293,Takeaway,399,TAKEAWAY,Takeaway by John Marino,2022-11-22T02:04:06Z,3,03:21,16:39,3,1,1.0,New Jersey Devils,NJD
+215,1,22,New Jersey Devils,Edmonton Oilers,2022020293428,2022020293,Blocked Shot,428,BLOCKED_SHOT,Tomas Tatar shot blocked shot by Brett Kulak,2022-11-22T02:04:12Z,3,03:27,16:33,3,1,22.0,Edmonton Oilers,EDM
+216,1,22,New Jersey Devils,Edmonton Oilers,2022020293429,2022020293,Shot,429,SHOT,John Marino Tip-In saved by Stuart Skinner,2022-11-22T02:04:20Z,3,03:35,16:25,3,1,1.0,New Jersey Devils,NJD
+217,1,22,New Jersey Devils,Edmonton Oilers,2022020293400,2022020293,Hit,400,HIT,Jesper Bratt hit Jesse Puljujarvi,2022-11-22T02:04:55Z,3,04:10,15:50,3,1,1.0,New Jersey Devils,NJD
+218,1,22,New Jersey Devils,Edmonton Oilers,2022020293430,2022020293,Goal,430,GOAL,"Ryan Nugent-Hopkins (9) Snap Shot, assists: Jesse Puljujarvi (3), Cody Ceci (3)",2022-11-22T02:05:38Z,3,04:52,15:08,3,2,22.0,Edmonton Oilers,EDM
+219,1,22,New Jersey Devils,Edmonton Oilers,2022020293601,2022020293,Faceoff,601,FACEOFF,Mattias Janmark faceoff won against Michael McLeod,2022-11-22T02:06:19Z,3,04:52,15:08,3,2,22.0,Edmonton Oilers,EDM
+220,1,22,New Jersey Devils,Edmonton Oilers,2022020293509,2022020293,Shot,509,SHOT,Dougie Hamilton Wrist Shot saved by Stuart Skinner,2022-11-22T02:06:36Z,3,05:09,14:51,3,2,1.0,New Jersey Devils,NJD
+221,1,22,New Jersey Devils,Edmonton Oilers,2022020293431,2022020293,Shot,431,SHOT,Markus Niemelainen Wrist Shot saved by Vitek Vanecek,2022-11-22T02:07:08Z,3,05:41,14:19,3,2,22.0,Edmonton Oilers,EDM
+222,1,22,New Jersey Devils,Edmonton Oilers,2022020293432,2022020293,Shot,432,SHOT,Fabian Zetterlund Snap Shot saved by Stuart Skinner,2022-11-22T02:08:04Z,3,06:38,13:22,3,2,1.0,New Jersey Devils,NJD
+223,1,22,New Jersey Devils,Edmonton Oilers,2022020293510,2022020293,Stoppage,510,STOP,Goalie Stopped,2022-11-22T02:08:04Z,3,06:38,13:22,3,2,,,
+224,1,22,New Jersey Devils,Edmonton Oilers,2022020293602,2022020293,Faceoff,602,FACEOFF,Nico Hischier faceoff won against Leon Draisaitl,2022-11-22T02:10:19Z,3,06:38,13:22,3,2,1.0,New Jersey Devils,NJD
+225,1,22,New Jersey Devils,Edmonton Oilers,2022020293511,2022020293,Blocked Shot,511,BLOCKED_SHOT,Dawson Mercer shot blocked shot by Darnell Nurse,2022-11-22T02:10:24Z,3,06:43,13:17,3,2,22.0,Edmonton Oilers,EDM
+226,1,22,New Jersey Devils,Edmonton Oilers,2022020293433,2022020293,Shot,433,SHOT,Ryan Nugent-Hopkins Wrist Shot saved by Vitek Vanecek,2022-11-22T02:10:35Z,3,06:54,13:06,3,2,22.0,Edmonton Oilers,EDM
+227,1,22,New Jersey Devils,Edmonton Oilers,2022020293434,2022020293,Shot,434,SHOT,Tomas Tatar Snap Shot saved by Stuart Skinner,2022-11-22T02:10:47Z,3,07:06,12:54,3,2,1.0,New Jersey Devils,NJD
+228,1,22,New Jersey Devils,Edmonton Oilers,2022020293435,2022020293,Goal,435,GOAL,"Tomas Tatar (4) Wrist Shot, assists: Dawson Mercer (5), Nico Hischier (13)",2022-11-22T02:10:48Z,3,07:07,12:53,4,2,1.0,New Jersey Devils,NJD
+229,1,22,New Jersey Devils,Edmonton Oilers,2022020293603,2022020293,Faceoff,603,FACEOFF,Derek Ryan faceoff won against Erik Haula,2022-11-22T02:11:33Z,3,07:07,12:53,4,2,22.0,Edmonton Oilers,EDM
+230,1,22,New Jersey Devils,Edmonton Oilers,2022020293512,2022020293,Stoppage,512,STOP,Icing,2022-11-22T02:11:49Z,3,07:23,12:37,4,2,,,
+231,1,22,New Jersey Devils,Edmonton Oilers,2022020293604,2022020293,Faceoff,604,FACEOFF,Erik Haula faceoff won against Connor McDavid,2022-11-22T02:12:14Z,3,07:23,12:37,4,2,1.0,New Jersey Devils,NJD
+232,1,22,New Jersey Devils,Edmonton Oilers,2022020293513,2022020293,Shot,513,SHOT,Ryan McLeod Wrist Shot saved by Vitek Vanecek,2022-11-22T02:12:37Z,3,07:46,12:14,4,2,22.0,Edmonton Oilers,EDM
+233,1,22,New Jersey Devils,Edmonton Oilers,2022020293605,2022020293,Giveaway,605,GIVEAWAY,Giveaway by Brendan Smith,2022-11-22T02:12:38Z,3,07:47,12:13,4,2,1.0,New Jersey Devils,NJD
+234,1,22,New Jersey Devils,Edmonton Oilers,2022020293606,2022020293,Hit,606,HIT,John Marino hit Connor McDavid,2022-11-22T02:12:54Z,3,08:03,11:57,4,2,1.0,New Jersey Devils,NJD
+235,1,22,New Jersey Devils,Edmonton Oilers,2022020293514,2022020293,Blocked Shot,514,BLOCKED_SHOT,Ryan Graves shot blocked shot by Darnell Nurse,2022-11-22T02:13:11Z,3,08:20,11:40,4,2,22.0,Edmonton Oilers,EDM
+236,1,22,New Jersey Devils,Edmonton Oilers,2022020293607,2022020293,Hit,607,HIT,Miles Wood hit Cody Ceci,2022-11-22T02:13:15Z,3,08:24,11:36,4,2,1.0,New Jersey Devils,NJD
+237,1,22,New Jersey Devils,Edmonton Oilers,2022020293436,2022020293,Blocked Shot,436,BLOCKED_SHOT,Darnell Nurse shot blocked shot by Ryan Graves,2022-11-22T02:13:26Z,3,08:35,11:25,4,2,1.0,New Jersey Devils,NJD
+238,1,22,New Jersey Devils,Edmonton Oilers,2022020293262,2022020293,Shot,262,SHOT,Zach Hyman Wrist Shot saved by Vitek Vanecek,2022-11-22T02:13:34Z,3,08:43,11:17,4,2,22.0,Edmonton Oilers,EDM
+239,1,22,New Jersey Devils,Edmonton Oilers,2022020293437,2022020293,Missed Shot,437,MISSED_SHOT,Warren Foegele Wide of Net Vitek Vanecek,2022-11-22T02:13:37Z,3,08:46,11:14,4,2,22.0,Edmonton Oilers,EDM
+240,1,22,New Jersey Devils,Edmonton Oilers,2022020293608,2022020293,Hit,608,HIT,Ryan Graves hit Mattias Janmark,2022-11-22T02:13:51Z,3,09:00,11:00,4,2,1.0,New Jersey Devils,NJD
+241,1,22,New Jersey Devils,Edmonton Oilers,2022020293515,2022020293,Blocked Shot,515,BLOCKED_SHOT,Warren Foegele shot blocked shot by Miles Wood,2022-11-22T02:14:12Z,3,09:21,10:39,4,2,1.0,New Jersey Devils,NJD
+242,1,22,New Jersey Devils,Edmonton Oilers,2022020293609,2022020293,Hit,609,HIT,John Marino hit Mattias Janmark,2022-11-22T02:14:41Z,3,09:50,10:10,4,2,1.0,New Jersey Devils,NJD
+243,1,22,New Jersey Devils,Edmonton Oilers,2022020293610,2022020293,Hit,610,HIT,Markus Niemelainen hit Nico Hischier,2022-11-22T02:14:54Z,3,10:03,09:57,4,2,22.0,Edmonton Oilers,EDM
+244,1,22,New Jersey Devils,Edmonton Oilers,2022020293611,2022020293,Hit,611,HIT,Nico Hischier hit Markus Niemelainen,2022-11-22T02:15:04Z,3,10:13,09:47,4,2,1.0,New Jersey Devils,NJD
+245,1,22,New Jersey Devils,Edmonton Oilers,2022020293516,2022020293,Blocked Shot,516,BLOCKED_SHOT,John Marino shot blocked shot by Markus Niemelainen,2022-11-22T02:15:16Z,3,10:25,09:35,4,2,22.0,Edmonton Oilers,EDM
+246,1,22,New Jersey Devils,Edmonton Oilers,2022020293439,2022020293,Shot,439,SHOT,Connor McDavid Wrap-around saved by Vitek Vanecek,2022-11-22T02:15:55Z,3,11:03,08:57,4,2,22.0,Edmonton Oilers,EDM
+247,1,22,New Jersey Devils,Edmonton Oilers,2022020293517,2022020293,Stoppage,517,STOP,Goalie Stopped,2022-11-22T02:15:55Z,3,11:03,08:57,4,2,,,
+248,1,22,New Jersey Devils,Edmonton Oilers,2022020293814,2022020293,Stoppage,814,STOP,Goalie Stopped,2022-11-22T02:15:55Z,3,11:03,08:57,4,2,,,
+249,1,22,New Jersey Devils,Edmonton Oilers,2022020293612,2022020293,Faceoff,612,FACEOFF,Erik Haula faceoff won against Derek Ryan,2022-11-22T02:18:12Z,3,11:03,08:57,4,2,1.0,New Jersey Devils,NJD
+250,1,22,New Jersey Devils,Edmonton Oilers,2022020293613,2022020293,Hit,613,HIT,Warren Foegele hit Brendan Smith,2022-11-22T02:18:24Z,3,11:15,08:45,4,2,22.0,Edmonton Oilers,EDM
+251,1,22,New Jersey Devils,Edmonton Oilers,2022020293614,2022020293,Hit,614,HIT,Miles Wood hit Tyson Barrie,2022-11-22T02:18:44Z,3,11:35,08:25,4,2,1.0,New Jersey Devils,NJD
+252,1,22,New Jersey Devils,Edmonton Oilers,2022020293440,2022020293,Shot,440,SHOT,Ryan Graves Wrist Shot saved by Stuart Skinner,2022-11-22T02:19:29Z,3,12:21,07:39,4,2,1.0,New Jersey Devils,NJD
+253,1,22,New Jersey Devils,Edmonton Oilers,2022020293518,2022020293,Stoppage,518,STOP,Goalie Stopped,2022-11-22T02:19:29Z,3,12:21,07:39,4,2,,,
+254,1,22,New Jersey Devils,Edmonton Oilers,2022020293615,2022020293,Faceoff,615,FACEOFF,Connor McDavid faceoff won against Nico Hischier,2022-11-22T02:20:04Z,3,12:21,07:39,4,2,22.0,Edmonton Oilers,EDM
+255,1,22,New Jersey Devils,Edmonton Oilers,2022020293441,2022020293,Missed Shot,441,MISSED_SHOT,Dawson Mercer Goalpost Stuart Skinner,2022-11-22T02:20:22Z,3,12:39,07:21,4,2,1.0,New Jersey Devils,NJD
+256,1,22,New Jersey Devils,Edmonton Oilers,2022020293616,2022020293,Giveaway,616,GIVEAWAY,Giveaway by Connor McDavid,2022-11-22T02:20:36Z,3,12:53,07:07,4,2,22.0,Edmonton Oilers,EDM
+257,1,22,New Jersey Devils,Edmonton Oilers,2022020293519,2022020293,Stoppage,519,STOP,Icing,2022-11-22T02:21:18Z,3,13:35,06:25,4,2,,,
+258,1,22,New Jersey Devils,Edmonton Oilers,2022020293617,2022020293,Faceoff,617,FACEOFF,Jack Hughes faceoff won against Leon Draisaitl,2022-11-22T02:21:52Z,3,13:35,06:25,4,2,1.0,New Jersey Devils,NJD
+259,1,22,New Jersey Devils,Edmonton Oilers,2022020293520,2022020293,Blocked Shot,520,BLOCKED_SHOT,Jonas Siegenthaler shot blocked shot by Jesse Puljujarvi,2022-11-22T02:21:56Z,3,13:39,06:21,4,2,22.0,Edmonton Oilers,EDM
+260,1,22,New Jersey Devils,Edmonton Oilers,2022020293442,2022020293,Goal,442,GOAL,"Yegor Sharangovich (6) Snap Shot, assists: Fabian Zetterlund (6)",2022-11-22T02:23:02Z,3,14:45,05:15,5,2,1.0,New Jersey Devils,NJD
+261,1,22,New Jersey Devils,Edmonton Oilers,2022020293618,2022020293,Faceoff,618,FACEOFF,Derek Ryan faceoff won against Jesper Boqvist,2022-11-22T02:23:44Z,3,14:45,05:15,5,2,22.0,Edmonton Oilers,EDM
+262,1,22,New Jersey Devils,Edmonton Oilers,2022020293263,2022020293,Shot,263,SHOT,Evan Bouchard Slap Shot saved by Vitek Vanecek,2022-11-22T02:23:53Z,3,14:54,05:06,5,2,22.0,Edmonton Oilers,EDM
+263,1,22,New Jersey Devils,Edmonton Oilers,2022020293522,2022020293,Stoppage,522,STOP,Puck in Benches,2022-11-22T02:24:16Z,3,15:17,04:43,5,2,,,
+264,1,22,New Jersey Devils,Edmonton Oilers,2022020293621,2022020293,Faceoff,621,FACEOFF,Nico Hischier faceoff won against Connor McDavid,2022-11-22T02:26:47Z,3,15:17,04:43,5,2,1.0,New Jersey Devils,NJD
+265,1,22,New Jersey Devils,Edmonton Oilers,2022020293523,2022020293,Stoppage,523,STOP,Puck in Benches,2022-11-22T02:26:58Z,3,15:28,04:32,5,2,,,
+266,1,22,New Jersey Devils,Edmonton Oilers,2022020293622,2022020293,Faceoff,622,FACEOFF,Connor McDavid faceoff won against Nico Hischier,2022-11-22T02:27:19Z,3,15:28,04:32,5,2,22.0,Edmonton Oilers,EDM
+267,1,22,New Jersey Devils,Edmonton Oilers,2022020293944,2022020293,Penalty,944,PENALTY,Nathan Bastian Hooking against Klim Kostin,2022-11-22T02:28:20Z,3,16:29,03:31,5,2,1.0,New Jersey Devils,NJD
+268,1,22,New Jersey Devils,Edmonton Oilers,2022020293623,2022020293,Faceoff,623,FACEOFF,Michael McLeod faceoff won against Leon Draisaitl,2022-11-22T02:29:13Z,3,16:29,03:31,5,2,1.0,New Jersey Devils,NJD
+269,1,22,New Jersey Devils,Edmonton Oilers,2022020293443,2022020293,Shot,443,SHOT,Leon Draisaitl Snap Shot saved by Vitek Vanecek,2022-11-22T02:30:26Z,3,17:42,02:18,5,2,22.0,Edmonton Oilers,EDM
+270,1,22,New Jersey Devils,Edmonton Oilers,2022020293958,2022020293,Penalty,958,PENALTY,Ryan McLeod Slashing against Jesper Boqvist,2022-11-22T02:31:11Z,3,18:26,01:34,5,2,22.0,Edmonton Oilers,EDM
+271,1,22,New Jersey Devils,Edmonton Oilers,2022020293624,2022020293,Faceoff,624,FACEOFF,Nico Hischier faceoff won against Derek Ryan,2022-11-22T02:31:53Z,3,18:26,01:34,5,2,1.0,New Jersey Devils,NJD
+272,1,22,New Jersey Devils,Edmonton Oilers,2022020293444,2022020293,Missed Shot,444,MISSED_SHOT,John Marino Wide of Net Stuart Skinner,2022-11-22T02:32:29Z,3,19:02,00:58,5,2,1.0,New Jersey Devils,NJD
+273,1,22,New Jersey Devils,Edmonton Oilers,2022020293445,2022020293,Shot,445,SHOT,Dougie Hamilton Wrist Shot saved by Stuart Skinner,2022-11-22T02:32:55Z,3,19:27,00:33,5,2,1.0,New Jersey Devils,NJD
+274,1,22,New Jersey Devils,Edmonton Oilers,2022020293527,2022020293,Stoppage,527,STOP,Goalie Stopped,2022-11-22T02:32:55Z,3,19:27,00:33,5,2,,,
+275,1,22,New Jersey Devils,Edmonton Oilers,2022020293815,2022020293,Stoppage,815,STOP,Goalie Stopped,2022-11-22T02:32:55Z,3,19:27,00:33,5,2,,,
+276,1,22,New Jersey Devils,Edmonton Oilers,2022020293625,2022020293,Faceoff,625,FACEOFF,Ryan Nugent-Hopkins faceoff won against Erik Haula,2022-11-22T02:33:24Z,3,19:27,00:33,5,2,22.0,Edmonton Oilers,EDM
+277,1,22,New Jersey Devils,Edmonton Oilers,2022020293446,2022020293,Period End,446,PERIOD_END,End of 3rd Period,2022-11-22T02:33:56Z,3,20:00,00:00,5,2,,,
+278,1,22,New Jersey Devils,Edmonton Oilers,2022020293449,2022020293,Period Official,449,PERIOD_OFFICIAL,Period Official,2022-11-22T02:34:07Z,3,20:00,00:00,5,2,,,
+279,1,22,New Jersey Devils,Edmonton Oilers,2022020293450,2022020293,Game End,450,GAME_END,Game End,2022-11-22T02:34:09Z,3,20:00,00:00,5,2,,,
+280,1,22,New Jersey Devils,Edmonton Oilers,2022020293851,2022020293,Game Official,851,GAME_OFFICIAL,Game Official,2022-11-22T02:46:57Z,3,20:00,00:00,5,2,,,

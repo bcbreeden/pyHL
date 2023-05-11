@@ -1,0 +1,299 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,21,17,Colorado Avalanche,Detroit Red Wings,20220206961,2022020696,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-01-16T19:07:56Z,1,00:00,20:00,0,0,,,
+1,21,17,Colorado Avalanche,Detroit Red Wings,20220206965,2022020696,Period Ready,5,PERIOD_READY,Period Ready,2023-01-16T20:07:48Z,1,00:00,20:00,0,0,,,
+2,21,17,Colorado Avalanche,Detroit Red Wings,202202069651,2022020696,Period Start,51,PERIOD_START,Period Start,2023-01-16T20:08:54Z,1,00:00,20:00,0,0,,,
+3,21,17,Colorado Avalanche,Detroit Red Wings,202202069652,2022020696,Faceoff,52,FACEOFF,Andrew Copp faceoff won against J.T. Compher,2023-01-16T20:08:54Z,1,00:00,20:00,0,0,17.0,Detroit Red Wings,DET
+4,21,17,Colorado Avalanche,Detroit Red Wings,202202069653,2022020696,Hit,53,HIT,Erik Johnson hit Andrew Copp,2023-01-16T20:09:03Z,1,00:09,19:51,0,0,21.0,Colorado Avalanche,COL
+5,21,17,Colorado Avalanche,Detroit Red Wings,202202069610,2022020696,Giveaway,10,GIVEAWAY,Giveaway by Mikko Rantanen,2023-01-16T20:09:13Z,1,00:19,19:41,0,0,21.0,Colorado Avalanche,COL
+6,21,17,Colorado Avalanche,Detroit Red Wings,20220206969,2022020696,Stoppage,9,STOP,Goalie Stopped,2023-01-16T20:09:15Z,1,00:21,19:39,0,0,,,
+7,21,17,Colorado Avalanche,Detroit Red Wings,202202069654,2022020696,Shot,54,SHOT,Michael Rasmussen Slap Shot saved by Pavel Francouz,2023-01-16T20:09:15Z,1,00:21,19:39,0,0,17.0,Detroit Red Wings,DET
+8,21,17,Colorado Avalanche,Detroit Red Wings,202202069655,2022020696,Faceoff,55,FACEOFF,Nathan MacKinnon faceoff won against Dylan Larkin,2023-01-16T20:09:43Z,1,00:21,19:39,0,0,21.0,Colorado Avalanche,COL
+9,21,17,Colorado Avalanche,Detroit Red Wings,202202069656,2022020696,Shot,56,SHOT,Jake Walman Slap Shot saved by Pavel Francouz,2023-01-16T20:09:51Z,1,00:29,19:31,0,0,17.0,Detroit Red Wings,DET
+10,21,17,Colorado Avalanche,Detroit Red Wings,202202069611,2022020696,Hit,11,HIT,Dylan Larkin hit Artturi Lehkonen,2023-01-16T20:09:56Z,1,00:34,19:26,0,0,17.0,Detroit Red Wings,DET
+11,21,17,Colorado Avalanche,Detroit Red Wings,202202069657,2022020696,Missed Shot,57,MISSED_SHOT,Nathan MacKinnon Goalpost Ville Husso,2023-01-16T20:10:13Z,1,00:51,19:09,0,0,21.0,Colorado Avalanche,COL
+12,21,17,Colorado Avalanche,Detroit Red Wings,202202069658,2022020696,Missed Shot,58,MISSED_SHOT,Dylan Larkin Wide of Net Pavel  Francouz,2023-01-16T20:10:23Z,1,01:01,18:59,0,0,17.0,Detroit Red Wings,DET
+13,21,17,Colorado Avalanche,Detroit Red Wings,202202069612,2022020696,Hit,12,HIT,Artturi Lehkonen hit Dylan Larkin,2023-01-16T20:10:30Z,1,01:08,18:52,0,0,21.0,Colorado Avalanche,COL
+14,21,17,Colorado Avalanche,Detroit Red Wings,202202069613,2022020696,Blocked Shot,13,BLOCKED_SHOT,Devon Toews shot blocked shot by David Perron,2023-01-16T20:10:49Z,1,01:27,18:33,0,0,17.0,Detroit Red Wings,DET
+15,21,17,Colorado Avalanche,Detroit Red Wings,202202069614,2022020696,Blocked Shot,14,BLOCKED_SHOT,Andrew Cogliano shot blocked shot by Jordan Oesterle,2023-01-16T20:11:00Z,1,01:38,18:22,0,0,17.0,Detroit Red Wings,DET
+16,21,17,Colorado Avalanche,Detroit Red Wings,202202069659,2022020696,Shot,59,SHOT,Pius Suter Wrist Shot saved by Pavel Francouz,2023-01-16T20:11:13Z,1,01:51,18:09,0,0,17.0,Detroit Red Wings,DET
+17,21,17,Colorado Avalanche,Detroit Red Wings,202202069660,2022020696,Shot,60,SHOT,Pius Suter Wrist Shot saved by Pavel Francouz,2023-01-16T20:11:24Z,1,02:02,17:58,0,0,17.0,Detroit Red Wings,DET
+18,21,17,Colorado Avalanche,Detroit Red Wings,202202069615,2022020696,Hit,15,HIT,Adam Erne hit Alex Newhook,2023-01-16T20:11:39Z,1,02:17,17:43,0,0,17.0,Detroit Red Wings,DET
+19,21,17,Colorado Avalanche,Detroit Red Wings,202202069616,2022020696,Hit,16,HIT,Valeri Nichushkin hit Dominik Kubalik,2023-01-16T20:12:04Z,1,02:42,17:18,0,0,21.0,Colorado Avalanche,COL
+20,21,17,Colorado Avalanche,Detroit Red Wings,202202069661,2022020696,Missed Shot,61,MISSED_SHOT,J.T. Compher Over Net Ville Husso,2023-01-16T20:12:10Z,1,02:48,17:12,0,0,21.0,Colorado Avalanche,COL
+21,21,17,Colorado Avalanche,Detroit Red Wings,202202069617,2022020696,Stoppage,17,STOP,Goalie Stopped,2023-01-16T20:12:21Z,1,03:00,17:00,0,0,,,
+22,21,17,Colorado Avalanche,Detroit Red Wings,202202069662,2022020696,Shot,62,SHOT,Valeri Nichushkin Wrist Shot saved by Ville Husso,2023-01-16T20:12:21Z,1,03:00,17:00,0,0,21.0,Colorado Avalanche,COL
+23,21,17,Colorado Avalanche,Detroit Red Wings,202202069663,2022020696,Faceoff,63,FACEOFF,Andrew Copp faceoff won against Nathan MacKinnon,2023-01-16T20:12:52Z,1,03:00,17:00,0,0,17.0,Detroit Red Wings,DET
+24,21,17,Colorado Avalanche,Detroit Red Wings,202202069664,2022020696,Shot,64,SHOT,Jordan Oesterle Slap Shot saved by Pavel Francouz,2023-01-16T20:13:39Z,1,03:47,16:13,0,0,17.0,Detroit Red Wings,DET
+25,21,17,Colorado Avalanche,Detroit Red Wings,202202069618,2022020696,Stoppage,18,STOP,Goalie Stopped,2023-01-16T20:13:39Z,1,03:48,16:12,0,0,,,
+26,21,17,Colorado Avalanche,Detroit Red Wings,202202069665,2022020696,Faceoff,65,FACEOFF,Dylan Larkin faceoff won against Ben Meyers,2023-01-16T20:14:08Z,1,03:48,16:12,0,0,17.0,Detroit Red Wings,DET
+27,21,17,Colorado Avalanche,Detroit Red Wings,202202069619,2022020696,Takeaway,19,TAKEAWAY,Takeaway by Andreas Englund,2023-01-16T20:14:49Z,1,04:29,15:31,0,0,21.0,Colorado Avalanche,COL
+28,21,17,Colorado Avalanche,Detroit Red Wings,202202069620,2022020696,Stoppage,20,STOP,Icing,2023-01-16T20:15:22Z,1,05:02,14:58,0,0,,,
+29,21,17,Colorado Avalanche,Detroit Red Wings,202202069666,2022020696,Faceoff,66,FACEOFF,Nathan MacKinnon faceoff won against Pius Suter,2023-01-16T20:15:43Z,1,05:02,14:58,0,0,21.0,Colorado Avalanche,COL
+30,21,17,Colorado Avalanche,Detroit Red Wings,202202069667,2022020696,Shot,67,SHOT,Cale Makar Wrist Shot saved by Ville Husso,2023-01-16T20:15:48Z,1,05:07,14:53,0,0,21.0,Colorado Avalanche,COL
+31,21,17,Colorado Avalanche,Detroit Red Wings,202202069621,2022020696,Stoppage,21,STOP,Challenge Away: goalie interference,2023-01-16T20:15:54Z,1,05:12,14:48,0,0,,,
+32,21,17,Colorado Avalanche,Detroit Red Wings,202202069622,2022020696,Official Challenge,22,CHALLENGE,Coach's Challenge,2023-01-16T20:15:54Z,1,05:12,14:48,0,0,17.0,Detroit Red Wings,DET
+33,21,17,Colorado Avalanche,Detroit Red Wings,202202069668,2022020696,Goal,68,GOAL,"Artturi Lehkonen (12) Wrist Shot, assists: Cale Makar (30), Devon Toews (19)",2023-01-16T20:15:54Z,1,05:12,14:48,1,0,21.0,Colorado Avalanche,COL
+34,21,17,Colorado Avalanche,Detroit Red Wings,2022020696146,2022020696,Penalty,146,PENALTY,Delaying Game - Unsucc. chlg served by David Perron,2023-01-16T20:15:54Z,1,05:12,14:48,1,0,17.0,Detroit Red Wings,DET
+35,21,17,Colorado Avalanche,Detroit Red Wings,2022020696202,2022020696,Faceoff,202,FACEOFF,Andrew Copp faceoff won against Nathan MacKinnon,2023-01-16T20:19:33Z,1,05:12,14:48,1,0,17.0,Detroit Red Wings,DET
+36,21,17,Colorado Avalanche,Detroit Red Wings,202202069670,2022020696,Shot,70,SHOT,Valeri Nichushkin Snap Shot saved by Ville Husso,2023-01-16T20:21:16Z,1,06:55,13:05,1,0,21.0,Colorado Avalanche,COL
+37,21,17,Colorado Avalanche,Detroit Red Wings,202202069624,2022020696,Shot,24,SHOT,Nathan MacKinnon Wrist Shot saved by Ville Husso,2023-01-16T20:21:19Z,1,06:58,13:02,1,0,21.0,Colorado Avalanche,COL
+38,21,17,Colorado Avalanche,Detroit Red Wings,202202069672,2022020696,Missed Shot,72,MISSED_SHOT,Cale Makar Goalpost Ville Husso,2023-01-16T20:21:27Z,1,07:06,12:54,1,0,21.0,Colorado Avalanche,COL
+39,21,17,Colorado Avalanche,Detroit Red Wings,202202069625,2022020696,Hit,25,HIT,David Perron hit Alex Newhook,2023-01-16T20:21:45Z,1,07:24,12:36,1,0,17.0,Detroit Red Wings,DET
+40,21,17,Colorado Avalanche,Detroit Red Wings,202202069673,2022020696,Shot,73,SHOT,J.T. Compher Wrist Shot saved by Ville Husso,2023-01-16T20:22:14Z,1,07:53,12:07,1,0,21.0,Colorado Avalanche,COL
+41,21,17,Colorado Avalanche,Detroit Red Wings,2022020696203,2022020696,Hit,203,HIT,Alex Newhook hit Jordan Oesterle,2023-01-16T20:22:22Z,1,08:01,11:59,1,0,21.0,Colorado Avalanche,COL
+42,21,17,Colorado Avalanche,Detroit Red Wings,202202069674,2022020696,Shot,74,SHOT,Erik Johnson Wrist Shot saved by Ville Husso,2023-01-16T20:22:37Z,1,08:16,11:44,1,0,21.0,Colorado Avalanche,COL
+43,21,17,Colorado Avalanche,Detroit Red Wings,202202069626,2022020696,Takeaway,26,TAKEAWAY,Takeaway by Lucas Raymond,2023-01-16T20:22:58Z,1,08:37,11:23,1,0,17.0,Detroit Red Wings,DET
+44,21,17,Colorado Avalanche,Detroit Red Wings,2022020696204,2022020696,Hit,204,HIT,Filip Hronek hit Logan O'Connor,2023-01-16T20:23:20Z,1,08:59,11:01,1,0,17.0,Detroit Red Wings,DET
+45,21,17,Colorado Avalanche,Detroit Red Wings,202202069627,2022020696,Blocked Shot,27,BLOCKED_SHOT,Samuel Girard shot blocked shot by Dominik Kubalik,2023-01-16T20:23:44Z,1,09:23,10:37,1,0,17.0,Detroit Red Wings,DET
+46,21,17,Colorado Avalanche,Detroit Red Wings,2022020696205,2022020696,Hit,205,HIT,Moritz Seider hit Mikko Rantanen,2023-01-16T20:23:55Z,1,09:34,10:26,1,0,17.0,Detroit Red Wings,DET
+47,21,17,Colorado Avalanche,Detroit Red Wings,202202069628,2022020696,Hit,28,HIT,Andreas Englund hit Joe Veleno,2023-01-16T20:24:02Z,1,09:41,10:19,1,0,21.0,Colorado Avalanche,COL
+48,21,17,Colorado Avalanche,Detroit Red Wings,2022020696206,2022020696,Hit,206,HIT,Joe Veleno hit Andreas Englund,2023-01-16T20:24:13Z,1,09:52,10:08,1,0,17.0,Detroit Red Wings,DET
+49,21,17,Colorado Avalanche,Detroit Red Wings,202202069629,2022020696,Blocked Shot,29,BLOCKED_SHOT,Kurtis MacDermid shot blocked shot by Adam Erne,2023-01-16T20:24:24Z,1,10:03,09:57,1,0,17.0,Detroit Red Wings,DET
+50,21,17,Colorado Avalanche,Detroit Red Wings,2022020696207,2022020696,Hit,207,HIT,Kurtis MacDermid hit Jonatan Berggren,2023-01-16T20:24:50Z,1,10:29,09:31,1,0,21.0,Colorado Avalanche,COL
+51,21,17,Colorado Avalanche,Detroit Red Wings,202202069676,2022020696,Stoppage,76,STOP,TV timeout,2023-01-16T20:25:34Z,1,11:13,08:47,1,0,,,
+52,21,17,Colorado Avalanche,Detroit Red Wings,2022020696198,2022020696,Penalty,198,PENALTY,Logan O'Connor Hooking against Tyler Bertuzzi,2023-01-16T20:25:34Z,1,11:13,08:47,1,0,21.0,Colorado Avalanche,COL
+53,21,17,Colorado Avalanche,Detroit Red Wings,202202069677,2022020696,Faceoff,77,FACEOFF,J.T. Compher faceoff won against Dylan Larkin,2023-01-16T20:28:17Z,1,11:13,08:47,1,0,21.0,Colorado Avalanche,COL
+54,21,17,Colorado Avalanche,Detroit Red Wings,202202069630,2022020696,Blocked Shot,30,BLOCKED_SHOT,Dylan Larkin shot blocked shot by Cale Makar,2023-01-16T20:28:36Z,1,11:32,08:28,1,0,21.0,Colorado Avalanche,COL
+55,21,17,Colorado Avalanche,Detroit Red Wings,202202069678,2022020696,Missed Shot,78,MISSED_SHOT,Moritz Seider Wide of Net Pavel  Francouz,2023-01-16T20:29:15Z,1,12:11,07:49,1,0,17.0,Detroit Red Wings,DET
+56,21,17,Colorado Avalanche,Detroit Red Wings,202202069679,2022020696,Missed Shot,79,MISSED_SHOT,Tyler Bertuzzi Wide of Net Pavel  Francouz,2023-01-16T20:29:18Z,1,12:14,07:46,1,0,17.0,Detroit Red Wings,DET
+57,21,17,Colorado Avalanche,Detroit Red Wings,202202069680,2022020696,Shot,80,SHOT,Dominik Kubalik Wrist Shot saved by Pavel Francouz,2023-01-16T20:29:30Z,1,12:26,07:34,1,0,17.0,Detroit Red Wings,DET
+58,21,17,Colorado Avalanche,Detroit Red Wings,202202069681,2022020696,Shot,81,SHOT,Robby Fabbri Wrist Shot saved by Pavel Francouz,2023-01-16T20:30:00Z,1,12:56,07:04,1,0,17.0,Detroit Red Wings,DET
+59,21,17,Colorado Avalanche,Detroit Red Wings,202202069682,2022020696,Missed Shot,82,MISSED_SHOT,Robby Fabbri Wide of Net Pavel  Francouz,2023-01-16T20:30:24Z,1,13:20,06:40,1,0,17.0,Detroit Red Wings,DET
+60,21,17,Colorado Avalanche,Detroit Red Wings,202202069632,2022020696,Penalty,32,PENALTY,Robby Fabbri Hooking against Cale Makar,2023-01-16T20:30:30Z,1,13:26,06:34,1,0,17.0,Detroit Red Wings,DET
+61,21,17,Colorado Avalanche,Detroit Red Wings,202202069635,2022020696,Stoppage,35,STOP,TV timeout,2023-01-16T20:30:30Z,1,13:26,06:34,1,0,,,
+62,21,17,Colorado Avalanche,Detroit Red Wings,202202069684,2022020696,Faceoff,84,FACEOFF,Nathan MacKinnon faceoff won against Andrew Copp,2023-01-16T20:33:10Z,1,13:26,06:34,1,0,21.0,Colorado Avalanche,COL
+63,21,17,Colorado Avalanche,Detroit Red Wings,2022020696208,2022020696,Giveaway,208,GIVEAWAY,Giveaway by Valeri Nichushkin,2023-01-16T20:33:22Z,1,13:38,06:22,1,0,21.0,Colorado Avalanche,COL
+64,21,17,Colorado Avalanche,Detroit Red Wings,202202069636,2022020696,Blocked Shot,36,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Jake Walman,2023-01-16T20:33:47Z,1,14:03,05:57,1,0,17.0,Detroit Red Wings,DET
+65,21,17,Colorado Avalanche,Detroit Red Wings,202202069685,2022020696,Shot,85,SHOT,Alex Newhook Tip-In saved by Ville Husso,2023-01-16T20:34:18Z,1,14:34,05:26,1,0,21.0,Colorado Avalanche,COL
+66,21,17,Colorado Avalanche,Detroit Red Wings,202202069637,2022020696,Stoppage,37,STOP,Goalie Stopped,2023-01-16T20:34:19Z,1,14:35,05:25,1,0,,,
+67,21,17,Colorado Avalanche,Detroit Red Wings,202202069686,2022020696,Faceoff,86,FACEOFF,Dylan Larkin faceoff won against Alex Newhook,2023-01-16T20:34:47Z,1,14:35,05:25,1,0,17.0,Detroit Red Wings,DET
+68,21,17,Colorado Avalanche,Detroit Red Wings,2022020696210,2022020696,Hit,210,HIT,J.T. Compher hit Ben Chiarot,2023-01-16T20:34:55Z,1,14:43,05:17,1,0,21.0,Colorado Avalanche,COL
+69,21,17,Colorado Avalanche,Detroit Red Wings,202202069638,2022020696,Stoppage,38,STOP,Puck Frozen,2023-01-16T20:35:53Z,1,15:41,04:19,1,0,,,
+70,21,17,Colorado Avalanche,Detroit Red Wings,202202069687,2022020696,Blocked Shot,87,BLOCKED_SHOT,Evan Rodrigues shot blocked shot by Tyler Bertuzzi,2023-01-16T20:35:53Z,1,15:41,04:19,1,0,17.0,Detroit Red Wings,DET
+71,21,17,Colorado Avalanche,Detroit Red Wings,202202069688,2022020696,Faceoff,88,FACEOFF,Mikko Rantanen faceoff won against Pius Suter,2023-01-16T20:38:22Z,1,15:41,04:19,1,0,21.0,Colorado Avalanche,COL
+72,21,17,Colorado Avalanche,Detroit Red Wings,202202069639,2022020696,Stoppage,39,STOP,Goalie Stopped,2023-01-16T20:38:31Z,1,15:51,04:09,1,0,,,
+73,21,17,Colorado Avalanche,Detroit Red Wings,202202069689,2022020696,Shot,89,SHOT,Tyler Bertuzzi Wrist Shot saved by Pavel Francouz,2023-01-16T20:38:31Z,1,15:51,04:09,1,0,17.0,Detroit Red Wings,DET
+74,21,17,Colorado Avalanche,Detroit Red Wings,202202069690,2022020696,Faceoff,90,FACEOFF,Nathan MacKinnon faceoff won against Pius Suter,2023-01-16T20:38:59Z,1,15:51,04:09,1,0,21.0,Colorado Avalanche,COL
+75,21,17,Colorado Avalanche,Detroit Red Wings,202202069691,2022020696,Hit,91,HIT,Devon Toews hit Pius Suter,2023-01-16T20:39:25Z,1,16:17,03:43,1,0,21.0,Colorado Avalanche,COL
+76,21,17,Colorado Avalanche,Detroit Red Wings,202202069692,2022020696,Giveaway,92,GIVEAWAY,Giveaway by Cale Makar,2023-01-16T20:39:33Z,1,16:25,03:35,1,0,21.0,Colorado Avalanche,COL
+77,21,17,Colorado Avalanche,Detroit Red Wings,202202069640,2022020696,Blocked Shot,40,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Lucas Raymond,2023-01-16T20:40:31Z,1,17:23,02:37,1,0,17.0,Detroit Red Wings,DET
+78,21,17,Colorado Avalanche,Detroit Red Wings,202202069693,2022020696,Stoppage,93,STOP,Puck in Netting,2023-01-16T20:40:34Z,1,17:25,02:35,1,0,,,
+79,21,17,Colorado Avalanche,Detroit Red Wings,2022020696398,2022020696,Penalty,398,PENALTY,Too many men/ice served by David Perron,2023-01-16T20:40:34Z,1,17:25,02:35,1,0,17.0,Detroit Red Wings,DET
+80,21,17,Colorado Avalanche,Detroit Red Wings,202202069694,2022020696,Faceoff,94,FACEOFF,Andrew Copp faceoff won against Nathan MacKinnon,2023-01-16T20:41:14Z,1,17:25,02:35,1,0,17.0,Detroit Red Wings,DET
+81,21,17,Colorado Avalanche,Detroit Red Wings,202202069641,2022020696,Stoppage,41,STOP,Goalie Stopped,2023-01-16T20:41:48Z,1,17:58,02:02,1,0,,,
+82,21,17,Colorado Avalanche,Detroit Red Wings,202202069695,2022020696,Shot,95,SHOT,Nathan MacKinnon Wrist Shot saved by Ville Husso,2023-01-16T20:41:48Z,1,17:58,02:02,1,0,21.0,Colorado Avalanche,COL
+83,21,17,Colorado Avalanche,Detroit Red Wings,202202069696,2022020696,Faceoff,96,FACEOFF,Mikko Rantanen faceoff won against Dylan Larkin,2023-01-16T20:42:12Z,1,17:58,02:02,1,0,21.0,Colorado Avalanche,COL
+84,21,17,Colorado Avalanche,Detroit Red Wings,202202069697,2022020696,Goal,97,GOAL,"Cale Makar (12) Wrist Shot, assists: Nathan MacKinnon (33), Valeri Nichushkin (10)",2023-01-16T20:42:17Z,1,18:04,01:56,2,0,21.0,Colorado Avalanche,COL
+85,21,17,Colorado Avalanche,Detroit Red Wings,2022020696211,2022020696,Faceoff,211,FACEOFF,Joe Veleno faceoff won against J.T. Compher,2023-01-16T20:43:01Z,1,18:04,01:56,2,0,17.0,Detroit Red Wings,DET
+86,21,17,Colorado Avalanche,Detroit Red Wings,202202069642,2022020696,Hit,42,HIT,Logan O'Connor hit Ben Chiarot,2023-01-16T20:44:06Z,1,19:09,00:51,2,0,21.0,Colorado Avalanche,COL
+87,21,17,Colorado Avalanche,Detroit Red Wings,202202069698,2022020696,Hit,98,HIT,Logan O'Connor hit Ben Chiarot,2023-01-16T20:44:12Z,1,19:15,00:45,2,0,21.0,Colorado Avalanche,COL
+88,21,17,Colorado Avalanche,Detroit Red Wings,202202069643,2022020696,Stoppage,43,STOP,Offside,2023-01-16T20:44:27Z,1,19:29,00:31,2,0,,,
+89,21,17,Colorado Avalanche,Detroit Red Wings,202202069699,2022020696,Faceoff,99,FACEOFF,Pius Suter faceoff won against Nathan MacKinnon,2023-01-16T20:44:47Z,1,19:29,00:31,2,0,17.0,Detroit Red Wings,DET
+90,21,17,Colorado Avalanche,Detroit Red Wings,202202069644,2022020696,Blocked Shot,44,BLOCKED_SHOT,Artturi Lehkonen shot blocked shot by Jake Walman,2023-01-16T20:45:18Z,1,20:00,00:00,2,0,17.0,Detroit Red Wings,DET
+91,21,17,Colorado Avalanche,Detroit Red Wings,202202069645,2022020696,Period End,45,PERIOD_END,End of 1st Period,2023-01-16T20:45:18Z,1,20:00,00:00,2,0,,,
+92,21,17,Colorado Avalanche,Detroit Red Wings,202202069648,2022020696,Period Official,48,PERIOD_OFFICIAL,Period Official,2023-01-16T20:53:37Z,1,20:00,00:00,2,0,,,
+93,21,17,Colorado Avalanche,Detroit Red Wings,202202069649,2022020696,Period Ready,49,PERIOD_READY,Period Ready,2023-01-16T21:02:22Z,2,00:00,20:00,2,0,,,
+94,21,17,Colorado Avalanche,Detroit Red Wings,2022020696100,2022020696,Period Start,100,PERIOD_START,Period Start,2023-01-16T21:04:15Z,2,00:00,20:00,2,0,,,
+95,21,17,Colorado Avalanche,Detroit Red Wings,2022020696301,2022020696,Faceoff,301,FACEOFF,Andrew Copp faceoff won against J.T. Compher,2023-01-16T21:04:15Z,2,00:00,20:00,2,0,17.0,Detroit Red Wings,DET
+96,21,17,Colorado Avalanche,Detroit Red Wings,202202069650,2022020696,Hit,50,HIT,Michael Rasmussen hit Erik Johnson,2023-01-16T21:04:35Z,2,00:20,19:40,2,0,17.0,Detroit Red Wings,DET
+97,21,17,Colorado Avalanche,Detroit Red Wings,2022020696303,2022020696,Hit,303,HIT,Ben Chiarot hit J.T. Compher,2023-01-16T21:04:42Z,2,00:27,19:33,2,0,17.0,Detroit Red Wings,DET
+98,21,17,Colorado Avalanche,Detroit Red Wings,2022020696251,2022020696,Blocked Shot,251,BLOCKED_SHOT,Valeri Nichushkin shot blocked shot by Andrew Copp,2023-01-16T21:04:57Z,2,00:42,19:18,2,0,17.0,Detroit Red Wings,DET
+99,21,17,Colorado Avalanche,Detroit Red Wings,2022020696252,2022020696,Blocked Shot,252,BLOCKED_SHOT,Evan Rodrigues shot blocked shot by Lucas Raymond,2023-01-16T21:05:27Z,2,01:12,18:48,2,0,17.0,Detroit Red Wings,DET
+100,21,17,Colorado Avalanche,Detroit Red Wings,2022020696304,2022020696,Shot,304,SHOT,Nathan MacKinnon Wrist Shot saved by Ville Husso,2023-01-16T21:05:38Z,2,01:23,18:37,2,0,21.0,Colorado Avalanche,COL
+101,21,17,Colorado Avalanche,Detroit Red Wings,2022020696305,2022020696,Missed Shot,305,MISSED_SHOT,Nathan MacKinnon Wide of Net Ville Husso,2023-01-16T21:05:55Z,2,01:40,18:20,2,0,21.0,Colorado Avalanche,COL
+102,21,17,Colorado Avalanche,Detroit Red Wings,2022020696306,2022020696,Takeaway,306,TAKEAWAY,Takeaway by Lucas Raymond,2023-01-16T21:06:04Z,2,01:49,18:11,2,0,17.0,Detroit Red Wings,DET
+103,21,17,Colorado Avalanche,Detroit Red Wings,2022020696254,2022020696,Blocked Shot,254,BLOCKED_SHOT,Andrew Cogliano shot blocked shot by Jordan Oesterle,2023-01-16T21:06:19Z,2,02:05,17:55,2,0,17.0,Detroit Red Wings,DET
+104,21,17,Colorado Avalanche,Detroit Red Wings,2022020696307,2022020696,Stoppage,307,STOP,Puck in Netting,2023-01-16T21:06:19Z,2,02:05,17:55,2,0,,,
+105,21,17,Colorado Avalanche,Detroit Red Wings,2022020696308,2022020696,Faceoff,308,FACEOFF,Pius Suter faceoff won against Logan O'Connor,2023-01-16T21:06:55Z,2,02:05,17:55,2,0,17.0,Detroit Red Wings,DET
+106,21,17,Colorado Avalanche,Detroit Red Wings,2022020696255,2022020696,Hit,255,HIT,David Perron hit Alex Newhook,2023-01-16T21:07:09Z,2,02:19,17:41,2,0,17.0,Detroit Red Wings,DET
+107,21,17,Colorado Avalanche,Detroit Red Wings,2022020696256,2022020696,Blocked Shot,256,BLOCKED_SHOT,Logan O'Connor shot blocked shot by Jordan Oesterle,2023-01-16T21:07:35Z,2,02:45,17:15,2,0,17.0,Detroit Red Wings,DET
+108,21,17,Colorado Avalanche,Detroit Red Wings,2022020696309,2022020696,Stoppage,309,STOP,Icing,2023-01-16T21:07:39Z,2,02:50,17:10,2,0,,,
+109,21,17,Colorado Avalanche,Detroit Red Wings,2022020696310,2022020696,Faceoff,310,FACEOFF,J.T. Compher faceoff won against Pius Suter,2023-01-16T21:08:06Z,2,02:50,17:10,2,0,21.0,Colorado Avalanche,COL
+110,21,17,Colorado Avalanche,Detroit Red Wings,2022020696311,2022020696,Missed Shot,311,MISSED_SHOT,Cale Makar Wide of Net Ville Husso,2023-01-16T21:08:10Z,2,02:54,17:06,2,0,21.0,Colorado Avalanche,COL
+111,21,17,Colorado Avalanche,Detroit Red Wings,2022020696312,2022020696,Goal,312,GOAL,"Cale Makar (13) Wrist Shot, assists: Nathan MacKinnon (34), J.T. Compher (17)",2023-01-16T21:08:21Z,2,03:05,16:55,3,0,21.0,Colorado Avalanche,COL
+112,21,17,Colorado Avalanche,Detroit Red Wings,2022020696213,2022020696,Faceoff,213,FACEOFF,Ben Meyers faceoff won against Joe Veleno,2023-01-16T21:09:03Z,2,03:05,16:55,3,0,21.0,Colorado Avalanche,COL
+113,21,17,Colorado Avalanche,Detroit Red Wings,2022020696313,2022020696,Takeaway,313,TAKEAWAY,Takeaway by Anton Blidh,2023-01-16T21:09:16Z,2,03:18,16:42,3,0,21.0,Colorado Avalanche,COL
+114,21,17,Colorado Avalanche,Detroit Red Wings,2022020696314,2022020696,Stoppage,314,STOP,Icing,2023-01-16T21:09:19Z,2,03:21,16:39,3,0,,,
+115,21,17,Colorado Avalanche,Detroit Red Wings,2022020696315,2022020696,Faceoff,315,FACEOFF,Mikko Rantanen faceoff won against Joe Veleno,2023-01-16T21:10:01Z,2,03:21,16:39,3,0,21.0,Colorado Avalanche,COL
+116,21,17,Colorado Avalanche,Detroit Red Wings,2022020696261,2022020696,Blocked Shot,261,BLOCKED_SHOT,Erik Johnson shot blocked shot by Adam Erne,2023-01-16T21:10:06Z,2,03:26,16:34,3,0,17.0,Detroit Red Wings,DET
+117,21,17,Colorado Avalanche,Detroit Red Wings,2022020696316,2022020696,Stoppage,316,STOP,Puck in Netting,2023-01-16T21:10:06Z,2,03:26,16:34,3,0,,,
+118,21,17,Colorado Avalanche,Detroit Red Wings,2022020696317,2022020696,Faceoff,317,FACEOFF,Joe Veleno faceoff won against J.T. Compher,2023-01-16T21:10:40Z,2,03:26,16:34,3,0,17.0,Detroit Red Wings,DET
+119,21,17,Colorado Avalanche,Detroit Red Wings,2022020696318,2022020696,Hit,318,HIT,Andreas Englund hit Adam Erne,2023-01-16T21:10:53Z,2,03:39,16:21,3,0,21.0,Colorado Avalanche,COL
+120,21,17,Colorado Avalanche,Detroit Red Wings,2022020696264,2022020696,Stoppage,264,STOP,Offside,2023-01-16T21:10:58Z,2,03:43,16:17,3,0,,,
+121,21,17,Colorado Avalanche,Detroit Red Wings,2022020696319,2022020696,Faceoff,319,FACEOFF,Alex Newhook faceoff won against Andrew Copp,2023-01-16T21:11:29Z,2,03:43,16:17,3,0,21.0,Colorado Avalanche,COL
+122,21,17,Colorado Avalanche,Detroit Red Wings,2022020696265,2022020696,Stoppage,265,STOP,Offside,2023-01-16T21:11:47Z,2,04:01,15:59,3,0,,,
+123,21,17,Colorado Avalanche,Detroit Red Wings,2022020696320,2022020696,Faceoff,320,FACEOFF,Andrew Copp faceoff won against Alex Newhook,2023-01-16T21:12:08Z,2,04:01,15:59,3,0,17.0,Detroit Red Wings,DET
+124,21,17,Colorado Avalanche,Detroit Red Wings,2022020696321,2022020696,Takeaway,321,TAKEAWAY,Takeaway by Samuel Girard,2023-01-16T21:12:38Z,2,04:31,15:29,3,0,21.0,Colorado Avalanche,COL
+125,21,17,Colorado Avalanche,Detroit Red Wings,2022020696266,2022020696,Hit,266,HIT,Olli Maatta hit Artturi Lehkonen,2023-01-16T21:12:53Z,2,04:46,15:14,3,0,17.0,Detroit Red Wings,DET
+126,21,17,Colorado Avalanche,Detroit Red Wings,2022020696322,2022020696,Shot,322,SHOT,Devon Toews Wrist Shot saved by Ville Husso,2023-01-16T21:13:04Z,2,04:57,15:03,3,0,21.0,Colorado Avalanche,COL
+127,21,17,Colorado Avalanche,Detroit Red Wings,2022020696267,2022020696,Blocked Shot,267,BLOCKED_SHOT,Cale Makar shot blocked shot by Robby Fabbri,2023-01-16T21:13:12Z,2,05:05,14:55,3,0,17.0,Detroit Red Wings,DET
+128,21,17,Colorado Avalanche,Detroit Red Wings,2022020696215,2022020696,Hit,215,HIT,Devon Toews hit Jonatan Berggren,2023-01-16T21:13:19Z,2,05:12,14:48,3,0,21.0,Colorado Avalanche,COL
+129,21,17,Colorado Avalanche,Detroit Red Wings,2022020696323,2022020696,Shot,323,SHOT,Cale Makar Wrist Shot saved by Ville Husso,2023-01-16T21:13:30Z,2,05:23,14:37,3,0,21.0,Colorado Avalanche,COL
+130,21,17,Colorado Avalanche,Detroit Red Wings,2022020696268,2022020696,Blocked Shot,268,BLOCKED_SHOT,Cale Makar shot blocked shot by Jordan Oesterle,2023-01-16T21:13:38Z,2,05:31,14:29,3,0,17.0,Detroit Red Wings,DET
+131,21,17,Colorado Avalanche,Detroit Red Wings,2022020696324,2022020696,Shot,324,SHOT,Dylan Larkin Wrist Shot saved by Pavel Francouz,2023-01-16T21:13:44Z,2,05:37,14:23,3,0,17.0,Detroit Red Wings,DET
+132,21,17,Colorado Avalanche,Detroit Red Wings,2022020696269,2022020696,Stoppage,269,STOP,Goalie Stopped,2023-01-16T21:13:44Z,2,05:38,14:22,3,0,,,
+133,21,17,Colorado Avalanche,Detroit Red Wings,2022020696325,2022020696,Faceoff,325,FACEOFF,Pius Suter faceoff won against J.T. Compher,2023-01-16T21:14:18Z,2,05:38,14:22,3,0,17.0,Detroit Red Wings,DET
+134,21,17,Colorado Avalanche,Detroit Red Wings,2022020696326,2022020696,Shot,326,SHOT,Mikko Rantanen Wrist Shot saved by Ville Husso,2023-01-16T21:14:39Z,2,05:59,14:01,3,0,21.0,Colorado Avalanche,COL
+135,21,17,Colorado Avalanche,Detroit Red Wings,2022020696270,2022020696,Blocked Shot,270,BLOCKED_SHOT,Erik Johnson shot blocked shot by Moritz Seider,2023-01-16T21:14:49Z,2,06:09,13:51,3,0,17.0,Detroit Red Wings,DET
+136,21,17,Colorado Avalanche,Detroit Red Wings,2022020696216,2022020696,Takeaway,216,TAKEAWAY,Takeaway by Valeri Nichushkin,2023-01-16T21:14:53Z,2,06:13,13:47,3,0,21.0,Colorado Avalanche,COL
+137,21,17,Colorado Avalanche,Detroit Red Wings,2022020696271,2022020696,Blocked Shot,271,BLOCKED_SHOT,Andreas Englund shot blocked shot by Jake Walman,2023-01-16T21:15:19Z,2,06:39,13:21,3,0,17.0,Detroit Red Wings,DET
+138,21,17,Colorado Avalanche,Detroit Red Wings,2022020696273,2022020696,Takeaway,273,TAKEAWAY,Takeaway by Dominik Kubalik,2023-01-16T21:16:09Z,2,07:29,12:31,3,0,17.0,Detroit Red Wings,DET
+139,21,17,Colorado Avalanche,Detroit Red Wings,2022020696327,2022020696,Shot,327,SHOT,Dominik Kubalik Wrist Shot saved by Pavel Francouz,2023-01-16T21:16:10Z,2,07:30,12:30,3,0,17.0,Detroit Red Wings,DET
+140,21,17,Colorado Avalanche,Detroit Red Wings,2022020696274,2022020696,Blocked Shot,274,BLOCKED_SHOT,Brad Hunt shot blocked shot by Ben Chiarot,2023-01-16T21:16:21Z,2,07:41,12:19,3,0,17.0,Detroit Red Wings,DET
+141,21,17,Colorado Avalanche,Detroit Red Wings,2022020696275,2022020696,Stoppage,275,STOP,Puck in Netting,2023-01-16T21:16:22Z,2,07:42,12:18,3,0,,,
+142,21,17,Colorado Avalanche,Detroit Red Wings,2022020696276,2022020696,Faceoff,276,FACEOFF,Andrew Copp faceoff won against Nathan MacKinnon,2023-01-16T21:18:34Z,2,07:42,12:18,3,0,17.0,Detroit Red Wings,DET
+143,21,17,Colorado Avalanche,Detroit Red Wings,2022020696217,2022020696,Giveaway,217,GIVEAWAY,Giveaway by Artturi Lehkonen,2023-01-16T21:18:52Z,2,08:00,12:00,3,0,21.0,Colorado Avalanche,COL
+144,21,17,Colorado Avalanche,Detroit Red Wings,2022020696329,2022020696,Missed Shot,329,MISSED_SHOT,Jonatan Berggren Goalpost Pavel  Francouz,2023-01-16T21:19:00Z,2,08:08,11:52,3,0,17.0,Detroit Red Wings,DET
+145,21,17,Colorado Avalanche,Detroit Red Wings,2022020696330,2022020696,Shot,330,SHOT,Michael Rasmussen Tip-In saved by Pavel Francouz,2023-01-16T21:19:05Z,2,08:13,11:47,3,0,17.0,Detroit Red Wings,DET
+146,21,17,Colorado Avalanche,Detroit Red Wings,2022020696218,2022020696,Missed Shot,218,MISSED_SHOT,Andrew Copp Wide of Net Pavel  Francouz,2023-01-16T21:19:07Z,2,08:15,11:45,3,0,17.0,Detroit Red Wings,DET
+147,21,17,Colorado Avalanche,Detroit Red Wings,2022020696332,2022020696,Missed Shot,332,MISSED_SHOT,Evan Rodrigues Over Net Ville Husso,2023-01-16T21:19:32Z,2,08:40,11:20,3,0,21.0,Colorado Avalanche,COL
+148,21,17,Colorado Avalanche,Detroit Red Wings,2022020696489,2022020696,Penalty,489,PENALTY,Dylan Larkin Slashing against Ben Meyers,2023-01-16T21:19:33Z,2,08:41,11:19,3,0,17.0,Detroit Red Wings,DET
+149,21,17,Colorado Avalanche,Detroit Red Wings,2022020696333,2022020696,Faceoff,333,FACEOFF,Michael Rasmussen faceoff won against Mikko Rantanen,2023-01-16T21:20:34Z,2,08:41,11:19,3,0,17.0,Detroit Red Wings,DET
+150,21,17,Colorado Avalanche,Detroit Red Wings,2022020696334,2022020696,Shot,334,SHOT,Mikko Rantanen Wrist Shot saved by Ville Husso,2023-01-16T21:21:00Z,2,09:07,10:53,3,0,21.0,Colorado Avalanche,COL
+151,21,17,Colorado Avalanche,Detroit Red Wings,2022020696219,2022020696,Hit,219,HIT,Artturi Lehkonen hit Adam Erne,2023-01-16T21:21:31Z,2,09:38,10:22,3,0,21.0,Colorado Avalanche,COL
+152,21,17,Colorado Avalanche,Detroit Red Wings,2022020696335,2022020696,Shot,335,SHOT,Valeri Nichushkin Tip-In saved by Ville Husso,2023-01-16T21:21:46Z,2,09:53,10:07,3,0,21.0,Colorado Avalanche,COL
+153,21,17,Colorado Avalanche,Detroit Red Wings,2022020696280,2022020696,Stoppage,280,STOP,Goalie Stopped,2023-01-16T21:21:48Z,2,09:54,10:06,3,0,,,
+154,21,17,Colorado Avalanche,Detroit Red Wings,2022020696336,2022020696,Shot,336,SHOT,Mikko Rantanen Poke saved by Ville Husso,2023-01-16T21:21:48Z,2,09:54,10:06,3,0,21.0,Colorado Avalanche,COL
+155,21,17,Colorado Avalanche,Detroit Red Wings,2022020696337,2022020696,Faceoff,337,FACEOFF,J.T. Compher faceoff won against Pius Suter,2023-01-16T21:22:21Z,2,09:54,10:06,3,0,21.0,Colorado Avalanche,COL
+156,21,17,Colorado Avalanche,Detroit Red Wings,2022020696338,2022020696,Goal,338,GOAL,"J.T. Compher (9) Tip-In, assists: Evan Rodrigues (12), Samuel Girard (9)",2023-01-16T21:22:32Z,2,10:06,09:54,4,0,21.0,Colorado Avalanche,COL
+157,21,17,Colorado Avalanche,Detroit Red Wings,2022020696220,2022020696,Faceoff,220,FACEOFF,Dylan Larkin faceoff won against J.T. Compher,2023-01-16T21:23:17Z,2,10:06,09:54,4,0,17.0,Detroit Red Wings,DET
+158,21,17,Colorado Avalanche,Detroit Red Wings,2022020696281,2022020696,Blocked Shot,281,BLOCKED_SHOT,Filip Hronek shot blocked shot by Alex Newhook,2023-01-16T21:23:35Z,2,10:24,09:36,4,0,21.0,Colorado Avalanche,COL
+159,21,17,Colorado Avalanche,Detroit Red Wings,2022020696282,2022020696,Stoppage,282,STOP,Offside,2023-01-16T21:23:39Z,2,10:28,09:32,4,0,,,
+160,21,17,Colorado Avalanche,Detroit Red Wings,2022020696339,2022020696,Faceoff,339,FACEOFF,Ben Meyers faceoff won against Pius Suter,2023-01-16T21:25:54Z,2,10:28,09:32,4,0,21.0,Colorado Avalanche,COL
+161,21,17,Colorado Avalanche,Detroit Red Wings,2022020696283,2022020696,Blocked Shot,283,BLOCKED_SHOT,Devon Toews shot blocked shot by Ben Chiarot,2023-01-16T21:26:04Z,2,10:38,09:22,4,0,17.0,Detroit Red Wings,DET
+162,21,17,Colorado Avalanche,Detroit Red Wings,2022020696340,2022020696,Shot,340,SHOT,Tyler Bertuzzi Wrist Shot saved by Pavel Francouz,2023-01-16T21:26:13Z,2,10:47,09:13,4,0,17.0,Detroit Red Wings,DET
+163,21,17,Colorado Avalanche,Detroit Red Wings,2022020696284,2022020696,Stoppage,284,STOP,Puck in Netting,2023-01-16T21:26:17Z,2,10:51,09:09,4,0,,,
+164,21,17,Colorado Avalanche,Detroit Red Wings,2022020696341,2022020696,Shot,341,SHOT,Pius Suter Wrist Shot saved by Pavel Francouz,2023-01-16T21:26:17Z,2,10:51,09:09,4,0,17.0,Detroit Red Wings,DET
+165,21,17,Colorado Avalanche,Detroit Red Wings,2022020696285,2022020696,Faceoff,285,FACEOFF,Ben Meyers faceoff won against Joe Veleno,2023-01-16T21:26:46Z,2,10:51,09:09,4,0,21.0,Colorado Avalanche,COL
+166,21,17,Colorado Avalanche,Detroit Red Wings,2022020696222,2022020696,Hit,222,HIT,Filip Hronek hit Artturi Lehkonen,2023-01-16T21:27:42Z,2,11:47,08:13,4,0,17.0,Detroit Red Wings,DET
+167,21,17,Colorado Avalanche,Detroit Red Wings,2022020696343,2022020696,Missed Shot,343,MISSED_SHOT,Evan Rodrigues Wide of Net Ville Husso,2023-01-16T21:27:50Z,2,11:55,08:05,4,0,21.0,Colorado Avalanche,COL
+168,21,17,Colorado Avalanche,Detroit Red Wings,2022020696223,2022020696,Hit,223,HIT,Evan Rodrigues hit Michael Rasmussen,2023-01-16T21:27:57Z,2,12:02,07:58,4,0,21.0,Colorado Avalanche,COL
+169,21,17,Colorado Avalanche,Detroit Red Wings,2022020696286,2022020696,Blocked Shot,286,BLOCKED_SHOT,Jake Walman shot blocked shot by Kurtis MacDermid,2023-01-16T21:28:02Z,2,12:07,07:53,4,0,21.0,Colorado Avalanche,COL
+170,21,17,Colorado Avalanche,Detroit Red Wings,2022020696287,2022020696,Blocked Shot,287,BLOCKED_SHOT,Jake Walman shot blocked shot by Evan Rodrigues,2023-01-16T21:28:15Z,2,12:19,07:41,4,0,21.0,Colorado Avalanche,COL
+171,21,17,Colorado Avalanche,Detroit Red Wings,2022020696344,2022020696,Stoppage,344,STOP,Puck in Netting,2023-01-16T21:28:15Z,2,12:19,07:41,4,0,,,
+172,21,17,Colorado Avalanche,Detroit Red Wings,2022020696345,2022020696,Faceoff,345,FACEOFF,Alex Newhook faceoff won against Dylan Larkin,2023-01-16T21:28:48Z,2,12:19,07:41,4,0,21.0,Colorado Avalanche,COL
+173,21,17,Colorado Avalanche,Detroit Red Wings,2022020696346,2022020696,Missed Shot,346,MISSED_SHOT,Dylan Larkin Wide of Net Pavel  Francouz,2023-01-16T21:28:54Z,2,12:25,07:35,4,0,17.0,Detroit Red Wings,DET
+174,21,17,Colorado Avalanche,Detroit Red Wings,2022020696288,2022020696,Hit,288,HIT,Logan O'Connor hit Jake Walman,2023-01-16T21:29:12Z,2,12:43,07:17,4,0,21.0,Colorado Avalanche,COL
+175,21,17,Colorado Avalanche,Detroit Red Wings,2022020696224,2022020696,Hit,224,HIT,Alex Newhook hit Dylan Larkin,2023-01-16T21:29:41Z,2,13:12,06:48,4,0,21.0,Colorado Avalanche,COL
+176,21,17,Colorado Avalanche,Detroit Red Wings,2022020696289,2022020696,Hit,289,HIT,Dylan Larkin hit Alex Newhook,2023-01-16T21:29:46Z,2,13:17,06:43,4,0,17.0,Detroit Red Wings,DET
+177,21,17,Colorado Avalanche,Detroit Red Wings,2022020696347,2022020696,Missed Shot,347,MISSED_SHOT,Tyler Bertuzzi Wide of Net Pavel  Francouz,2023-01-16T21:29:58Z,2,13:29,06:31,4,0,17.0,Detroit Red Wings,DET
+178,21,17,Colorado Avalanche,Detroit Red Wings,2022020696291,2022020696,Stoppage,291,STOP,Puck in Crowd,2023-01-16T21:30:00Z,2,13:31,06:29,4,0,,,
+179,21,17,Colorado Avalanche,Detroit Red Wings,2022020696670,2022020696,Penalty,670,PENALTY,Alex Newhook Delaying Game - Puck over glass,2023-01-16T21:30:00Z,2,13:31,06:29,4,0,21.0,Colorado Avalanche,COL
+180,21,17,Colorado Avalanche,Detroit Red Wings,2022020696348,2022020696,Faceoff,348,FACEOFF,Robby Fabbri faceoff won against J.T. Compher,2023-01-16T21:30:58Z,2,13:31,06:29,4,0,17.0,Detroit Red Wings,DET
+181,21,17,Colorado Avalanche,Detroit Red Wings,2022020696292,2022020696,Shot,292,SHOT,Filip Hronek Wrist Shot saved by Pavel Francouz,2023-01-16T21:31:09Z,2,13:42,06:18,4,0,17.0,Detroit Red Wings,DET
+182,21,17,Colorado Avalanche,Detroit Red Wings,2022020696226,2022020696,Giveaway,226,GIVEAWAY,Giveaway by Jonatan Berggren,2023-01-16T21:31:17Z,2,13:50,06:10,4,0,17.0,Detroit Red Wings,DET
+183,21,17,Colorado Avalanche,Detroit Red Wings,2022020696293,2022020696,Shot,293,SHOT,Valeri Nichushkin Wrist Shot saved by Ville Husso,2023-01-16T21:31:20Z,2,13:53,06:07,4,0,21.0,Colorado Avalanche,COL
+184,21,17,Colorado Avalanche,Detroit Red Wings,2022020696349,2022020696,Missed Shot,349,MISSED_SHOT,David Perron Over Net Pavel  Francouz,2023-01-16T21:31:46Z,2,14:19,05:41,4,0,17.0,Detroit Red Wings,DET
+185,21,17,Colorado Avalanche,Detroit Red Wings,2022020696294,2022020696,Hit,294,HIT,Filip Hronek hit Erik Johnson,2023-01-16T21:32:07Z,2,14:40,05:20,4,0,17.0,Detroit Red Wings,DET
+186,21,17,Colorado Avalanche,Detroit Red Wings,2022020696350,2022020696,Shot,350,SHOT,Dominik Kubalik Slap Shot saved by Pavel Francouz,2023-01-16T21:32:31Z,2,15:04,04:56,4,0,17.0,Detroit Red Wings,DET
+187,21,17,Colorado Avalanche,Detroit Red Wings,2022020696295,2022020696,Takeaway,295,TAKEAWAY,Takeaway by Artturi Lehkonen,2023-01-16T21:32:38Z,2,15:11,04:49,4,0,21.0,Colorado Avalanche,COL
+188,21,17,Colorado Avalanche,Detroit Red Wings,2022020696296,2022020696,Hit,296,HIT,Dominik Kubalik hit Evan Rodrigues,2023-01-16T21:33:16Z,2,15:49,04:11,4,0,17.0,Detroit Red Wings,DET
+189,21,17,Colorado Avalanche,Detroit Red Wings,2022020696551,2022020696,Goal,551,GOAL,"Nathan MacKinnon (12) Tip-In, assists: Evan Rodrigues (13), Devon Toews (20)",2023-01-16T21:33:19Z,2,15:53,04:07,5,0,21.0,Colorado Avalanche,COL
+190,21,17,Colorado Avalanche,Detroit Red Wings,2022020696297,2022020696,Faceoff,297,FACEOFF,Andrew Copp faceoff won against Nathan MacKinnon,2023-01-16T21:33:59Z,2,15:53,04:07,5,0,17.0,Detroit Red Wings,DET
+191,21,17,Colorado Avalanche,Detroit Red Wings,2022020696298,2022020696,Hit,298,HIT,Mikko Rantanen hit Michael Rasmussen,2023-01-16T21:34:19Z,2,16:13,03:47,5,0,21.0,Colorado Avalanche,COL
+192,21,17,Colorado Avalanche,Detroit Red Wings,2022020696552,2022020696,Missed Shot,552,MISSED_SHOT,Ben Meyers Wide of Net Ville Husso,2023-01-16T21:34:53Z,2,16:47,03:13,5,0,21.0,Colorado Avalanche,COL
+193,21,17,Colorado Avalanche,Detroit Red Wings,2022020696299,2022020696,Stoppage,299,STOP,Icing,2023-01-16T21:34:57Z,2,16:51,03:09,5,0,,,
+194,21,17,Colorado Avalanche,Detroit Red Wings,2022020696553,2022020696,Faceoff,553,FACEOFF,Pius Suter faceoff won against Logan O'Connor,2023-01-16T21:35:17Z,2,16:51,03:09,5,0,17.0,Detroit Red Wings,DET
+195,21,17,Colorado Avalanche,Detroit Red Wings,2022020696300,2022020696,Blocked Shot,300,BLOCKED_SHOT,Samuel Girard shot blocked shot by Joe Veleno,2023-01-16T21:35:42Z,2,17:16,02:44,5,0,17.0,Detroit Red Wings,DET
+196,21,17,Colorado Avalanche,Detroit Red Wings,2022020696554,2022020696,Missed Shot,554,MISSED_SHOT,Tyler Bertuzzi Wide of Net Pavel  Francouz,2023-01-16T21:36:18Z,2,17:52,02:08,5,0,17.0,Detroit Red Wings,DET
+197,21,17,Colorado Avalanche,Detroit Red Wings,2022020696601,2022020696,Stoppage,601,STOP,Puck Frozen,2023-01-16T21:36:18Z,2,17:52,02:08,5,0,,,
+198,21,17,Colorado Avalanche,Detroit Red Wings,2022020696555,2022020696,Faceoff,555,FACEOFF,Dylan Larkin faceoff won against J.T. Compher,2023-01-16T21:38:43Z,2,17:52,02:08,5,0,17.0,Detroit Red Wings,DET
+199,21,17,Colorado Avalanche,Detroit Red Wings,2022020696602,2022020696,Missed Shot,602,MISSED_SHOT,Dylan Larkin Wide of Net Pavel  Francouz,2023-01-16T21:38:51Z,2,18:00,02:00,5,0,17.0,Detroit Red Wings,DET
+200,21,17,Colorado Avalanche,Detroit Red Wings,2022020696603,2022020696,Stoppage,603,STOP,Icing,2023-01-16T21:39:13Z,2,18:22,01:38,5,0,,,
+201,21,17,Colorado Avalanche,Detroit Red Wings,2022020696556,2022020696,Faceoff,556,FACEOFF,Andrew Copp faceoff won against J.T. Compher,2023-01-16T21:39:39Z,2,18:22,01:38,5,0,17.0,Detroit Red Wings,DET
+202,21,17,Colorado Avalanche,Detroit Red Wings,2022020696504,2022020696,Missed Shot,504,MISSED_SHOT,David Perron Wide of Net Pavel  Francouz,2023-01-16T21:39:47Z,2,18:30,01:30,5,0,17.0,Detroit Red Wings,DET
+203,21,17,Colorado Avalanche,Detroit Red Wings,2022020696558,2022020696,Goal,558,GOAL,"Andrew Copp (4) Wrist Shot, assists: David Perron (16), Michael Rasmussen (11)",2023-01-16T21:40:16Z,2,18:58,01:02,5,1,17.0,Detroit Red Wings,DET
+204,21,17,Colorado Avalanche,Detroit Red Wings,2022020696605,2022020696,Faceoff,605,FACEOFF,Nathan MacKinnon faceoff won against Robby Fabbri,2023-01-16T21:40:56Z,2,18:58,01:02,5,1,21.0,Colorado Avalanche,COL
+205,21,17,Colorado Avalanche,Detroit Red Wings,2022020696559,2022020696,Shot,559,SHOT,Devon Toews Backhand saved by Ville Husso,2023-01-16T21:41:08Z,2,19:10,00:50,5,1,21.0,Colorado Avalanche,COL
+206,21,17,Colorado Avalanche,Detroit Red Wings,2022020696606,2022020696,Blocked Shot,606,BLOCKED_SHOT,Cale Makar shot blocked shot by Robby Fabbri,2023-01-16T21:41:30Z,2,19:32,00:28,5,1,17.0,Detroit Red Wings,DET
+207,21,17,Colorado Avalanche,Detroit Red Wings,2022020696228,2022020696,Hit,228,HIT,Filip Hronek hit Evan Rodrigues,2023-01-16T21:41:31Z,2,19:33,00:27,5,1,17.0,Detroit Red Wings,DET
+208,21,17,Colorado Avalanche,Detroit Red Wings,2022020696607,2022020696,Period End,607,PERIOD_END,End of 2nd Period,2023-01-16T21:41:59Z,2,20:00,00:00,5,1,,,
+209,21,17,Colorado Avalanche,Detroit Red Wings,2022020696610,2022020696,Period Official,610,PERIOD_OFFICIAL,Period Official,2023-01-16T21:50:24Z,2,20:00,00:00,5,1,,,
+210,21,17,Colorado Avalanche,Detroit Red Wings,2022020696611,2022020696,Period Ready,611,PERIOD_READY,Period Ready,2023-01-16T21:58:52Z,3,00:00,20:00,5,1,,,
+211,21,17,Colorado Avalanche,Detroit Red Wings,2022020696560,2022020696,Period Start,560,PERIOD_START,Period Start,2023-01-16T22:00:39Z,3,00:00,20:00,5,1,,,
+212,21,17,Colorado Avalanche,Detroit Red Wings,2022020696561,2022020696,Faceoff,561,FACEOFF,Andrew Copp faceoff won against J.T. Compher,2023-01-16T22:00:39Z,3,00:00,20:00,5,1,17.0,Detroit Red Wings,DET
+213,21,17,Colorado Avalanche,Detroit Red Wings,2022020696612,2022020696,Stoppage,612,STOP,Puck in Benches,2023-01-16T22:01:08Z,3,00:30,19:30,5,1,,,
+214,21,17,Colorado Avalanche,Detroit Red Wings,2022020696562,2022020696,Faceoff,562,FACEOFF,Dylan Larkin faceoff won against Nathan MacKinnon,2023-01-16T22:01:31Z,3,00:30,19:30,5,1,17.0,Detroit Red Wings,DET
+215,21,17,Colorado Avalanche,Detroit Red Wings,2022020696563,2022020696,Hit,563,HIT,Kurtis MacDermid hit Olli Maatta,2023-01-16T22:03:01Z,3,02:00,18:00,5,1,21.0,Colorado Avalanche,COL
+216,21,17,Colorado Avalanche,Detroit Red Wings,2022020696613,2022020696,Takeaway,613,TAKEAWAY,Takeaway by Evan Rodrigues,2023-01-16T22:03:21Z,3,02:20,17:40,5,1,21.0,Colorado Avalanche,COL
+217,21,17,Colorado Avalanche,Detroit Red Wings,2022020696564,2022020696,Shot,564,SHOT,Evan Rodrigues Wrist Shot saved by Magnus Hellberg,2023-01-16T22:03:22Z,3,02:21,17:39,5,1,21.0,Colorado Avalanche,COL
+218,21,17,Colorado Avalanche,Detroit Red Wings,2022020696614,2022020696,Blocked Shot,614,BLOCKED_SHOT,Adam Erne shot blocked shot by Samuel Girard,2023-01-16T22:03:36Z,3,02:35,17:25,5,1,21.0,Colorado Avalanche,COL
+219,21,17,Colorado Avalanche,Detroit Red Wings,2022020696615,2022020696,Takeaway,615,TAKEAWAY,Takeaway by Mikko Rantanen,2023-01-16T22:03:55Z,3,02:54,17:06,5,1,21.0,Colorado Avalanche,COL
+220,21,17,Colorado Avalanche,Detroit Red Wings,2022020696616,2022020696,Blocked Shot,616,BLOCKED_SHOT,David Perron shot blocked shot by Devon Toews,2023-01-16T22:04:16Z,3,03:15,16:45,5,1,21.0,Colorado Avalanche,COL
+221,21,17,Colorado Avalanche,Detroit Red Wings,2022020696229,2022020696,Hit,229,HIT,Michael Rasmussen hit Evan Rodrigues,2023-01-16T22:04:26Z,3,03:25,16:35,5,1,17.0,Detroit Red Wings,DET
+222,21,17,Colorado Avalanche,Detroit Red Wings,2022020696811,2022020696,Penalty,811,PENALTY,Michael Rasmussen Cross-checking against Evan Rodrigues,2023-01-16T22:04:32Z,3,03:32,16:28,5,1,17.0,Detroit Red Wings,DET
+223,21,17,Colorado Avalanche,Detroit Red Wings,2022020696814,2022020696,Penalty,814,PENALTY,Evan Rodrigues Roughing against Michael Rasmussen,2023-01-16T22:04:32Z,3,03:32,16:28,5,1,21.0,Colorado Avalanche,COL
+224,21,17,Colorado Avalanche,Detroit Red Wings,2022020696565,2022020696,Faceoff,565,FACEOFF,Dylan Larkin faceoff won against J.T. Compher,2023-01-16T22:05:51Z,3,03:32,16:28,5,1,17.0,Detroit Red Wings,DET
+225,21,17,Colorado Avalanche,Detroit Red Wings,2022020696566,2022020696,Shot,566,SHOT,Filip Hronek Wrist Shot saved by Pavel Francouz,2023-01-16T22:05:55Z,3,03:36,16:24,5,1,17.0,Detroit Red Wings,DET
+226,21,17,Colorado Avalanche,Detroit Red Wings,2022020696617,2022020696,Stoppage,617,STOP,Goalie Stopped,2023-01-16T22:05:55Z,3,03:36,16:24,5,1,,,
+227,21,17,Colorado Avalanche,Detroit Red Wings,2022020696567,2022020696,Faceoff,567,FACEOFF,Dylan Larkin faceoff won against J.T. Compher,2023-01-16T22:06:11Z,3,03:36,16:24,5,1,17.0,Detroit Red Wings,DET
+228,21,17,Colorado Avalanche,Detroit Red Wings,2022020696568,2022020696,Goal,568,GOAL,"Ben Chiarot (4) Slap Shot, assists: Filip Hronek (24), Dylan Larkin (25)",2023-01-16T22:06:15Z,3,03:40,16:20,5,2,17.0,Detroit Red Wings,DET
+229,21,17,Colorado Avalanche,Detroit Red Wings,2022020696230,2022020696,Faceoff,230,FACEOFF,Joe Veleno faceoff won against Nathan MacKinnon,2023-01-16T22:07:01Z,3,03:40,16:20,5,2,17.0,Detroit Red Wings,DET
+230,21,17,Colorado Avalanche,Detroit Red Wings,2022020696569,2022020696,Shot,569,SHOT,Joe Veleno Backhand saved by Pavel Francouz,2023-01-16T22:07:24Z,3,04:03,15:57,5,2,17.0,Detroit Red Wings,DET
+231,21,17,Colorado Avalanche,Detroit Red Wings,2022020696619,2022020696,Blocked Shot,619,BLOCKED_SHOT,Joe Veleno shot blocked shot by Valeri Nichushkin,2023-01-16T22:07:26Z,3,04:05,15:55,5,2,21.0,Colorado Avalanche,COL
+232,21,17,Colorado Avalanche,Detroit Red Wings,2022020696570,2022020696,Missed Shot,570,MISSED_SHOT,Mikko Rantanen Wide of Net Magnus Hellberg,2023-01-16T22:07:56Z,3,04:35,15:25,5,2,21.0,Colorado Avalanche,COL
+233,21,17,Colorado Avalanche,Detroit Red Wings,2022020696620,2022020696,Stoppage,620,STOP,Icing,2023-01-16T22:08:18Z,3,04:57,15:03,5,2,,,
+234,21,17,Colorado Avalanche,Detroit Red Wings,2022020696571,2022020696,Faceoff,571,FACEOFF,Dylan Larkin faceoff won against J.T. Compher,2023-01-16T22:08:48Z,3,04:57,15:03,5,2,17.0,Detroit Red Wings,DET
+235,21,17,Colorado Avalanche,Detroit Red Wings,2022020696231,2022020696,Takeaway,231,TAKEAWAY,Takeaway by Nathan MacKinnon,2023-01-16T22:09:12Z,3,05:21,14:39,5,2,21.0,Colorado Avalanche,COL
+236,21,17,Colorado Avalanche,Detroit Red Wings,2022020696572,2022020696,Goal,572,GOAL,"Nathan MacKinnon (13) Wrist Shot, assists: none",2023-01-16T22:09:15Z,3,05:24,14:36,6,2,21.0,Colorado Avalanche,COL
+237,21,17,Colorado Avalanche,Detroit Red Wings,2022020696232,2022020696,Faceoff,232,FACEOFF,Pius Suter faceoff won against Mikko Rantanen,2023-01-16T22:10:01Z,3,05:24,14:36,6,2,17.0,Detroit Red Wings,DET
+238,21,17,Colorado Avalanche,Detroit Red Wings,2022020696622,2022020696,Giveaway,622,GIVEAWAY,Giveaway by Valeri Nichushkin,2023-01-16T22:10:12Z,3,05:35,14:25,6,2,21.0,Colorado Avalanche,COL
+239,21,17,Colorado Avalanche,Detroit Red Wings,2022020696624,2022020696,Missed Shot,624,MISSED_SHOT,Andreas Englund Wide of Net Magnus Hellberg,2023-01-16T22:10:27Z,3,05:50,14:10,6,2,21.0,Colorado Avalanche,COL
+240,21,17,Colorado Avalanche,Detroit Red Wings,2022020696625,2022020696,Hit,625,HIT,Robby Fabbri hit Samuel Girard,2023-01-16T22:10:51Z,3,06:14,13:46,6,2,17.0,Detroit Red Wings,DET
+241,21,17,Colorado Avalanche,Detroit Red Wings,2022020696626,2022020696,Stoppage,626,STOP,TV timeout,2023-01-16T22:11:03Z,3,06:26,13:34,6,2,,,
+242,21,17,Colorado Avalanche,Detroit Red Wings,2022020696573,2022020696,Faceoff,573,FACEOFF,Joe Veleno faceoff won against Ben Meyers,2023-01-16T22:13:32Z,3,06:26,13:34,6,2,17.0,Detroit Red Wings,DET
+243,21,17,Colorado Avalanche,Detroit Red Wings,2022020696574,2022020696,Shot,574,SHOT,Jake Walman Slap Shot saved by Pavel Francouz,2023-01-16T22:13:42Z,3,06:36,13:24,6,2,17.0,Detroit Red Wings,DET
+244,21,17,Colorado Avalanche,Detroit Red Wings,2022020696575,2022020696,Shot,575,SHOT,Jake Walman Snap Shot saved by Pavel Francouz,2023-01-16T22:13:56Z,3,06:50,13:10,6,2,17.0,Detroit Red Wings,DET
+245,21,17,Colorado Avalanche,Detroit Red Wings,2022020696233,2022020696,Hit,233,HIT,Adam Erne hit Anton Blidh,2023-01-16T22:13:59Z,3,06:53,13:07,6,2,17.0,Detroit Red Wings,DET
+246,21,17,Colorado Avalanche,Detroit Red Wings,2022020696627,2022020696,Blocked Shot,627,BLOCKED_SHOT,Cale Makar shot blocked shot by Adam Erne,2023-01-16T22:14:25Z,3,07:19,12:41,6,2,17.0,Detroit Red Wings,DET
+247,21,17,Colorado Avalanche,Detroit Red Wings,2022020696576,2022020696,Shot,576,SHOT,Evan Rodrigues Slap Shot saved by Magnus Hellberg,2023-01-16T22:14:59Z,3,07:52,12:08,6,2,21.0,Colorado Avalanche,COL
+248,21,17,Colorado Avalanche,Detroit Red Wings,2022020696628,2022020696,Stoppage,628,STOP,Goalie Stopped,2023-01-16T22:14:59Z,3,07:52,12:08,6,2,,,
+249,21,17,Colorado Avalanche,Detroit Red Wings,2022020696577,2022020696,Faceoff,577,FACEOFF,Nathan MacKinnon faceoff won against Andrew Copp,2023-01-16T22:15:26Z,3,07:52,12:08,6,2,21.0,Colorado Avalanche,COL
+250,21,17,Colorado Avalanche,Detroit Red Wings,2022020696578,2022020696,Shot,578,SHOT,Cale Makar Wrist Shot saved by Magnus Hellberg,2023-01-16T22:15:30Z,3,07:56,12:04,6,2,21.0,Colorado Avalanche,COL
+251,21,17,Colorado Avalanche,Detroit Red Wings,2022020696579,2022020696,Missed Shot,579,MISSED_SHOT,Moritz Seider Over Net Pavel  Francouz,2023-01-16T22:15:50Z,3,08:16,11:44,6,2,17.0,Detroit Red Wings,DET
+252,21,17,Colorado Avalanche,Detroit Red Wings,2022020696234,2022020696,Hit,234,HIT,Mikko Rantanen hit Michael Rasmussen,2023-01-16T22:16:17Z,3,08:43,11:17,6,2,21.0,Colorado Avalanche,COL
+253,21,17,Colorado Avalanche,Detroit Red Wings,2022020696629,2022020696,Blocked Shot,629,BLOCKED_SHOT,Tyler Bertuzzi shot blocked shot by Kurtis MacDermid,2023-01-16T22:17:09Z,3,09:35,10:25,6,2,21.0,Colorado Avalanche,COL
+254,21,17,Colorado Avalanche,Detroit Red Wings,2022020696235,2022020696,Hit,235,HIT,Dylan Larkin hit Erik Johnson,2023-01-16T22:17:19Z,3,09:45,10:15,6,2,17.0,Detroit Red Wings,DET
+255,21,17,Colorado Avalanche,Detroit Red Wings,2022020696630,2022020696,Stoppage,630,STOP,Icing,2023-01-16T22:17:25Z,3,09:51,10:09,6,2,,,
+256,21,17,Colorado Avalanche,Detroit Red Wings,2022020696580,2022020696,Faceoff,580,FACEOFF,Pius Suter faceoff won against Alex Newhook,2023-01-16T22:17:49Z,3,09:51,10:09,6,2,17.0,Detroit Red Wings,DET
+257,21,17,Colorado Avalanche,Detroit Red Wings,2022020696236,2022020696,Giveaway,236,GIVEAWAY,Giveaway by Olli Maatta,2023-01-16T22:17:59Z,3,10:01,09:59,6,2,17.0,Detroit Red Wings,DET
+258,21,17,Colorado Avalanche,Detroit Red Wings,2022020696237,2022020696,Takeaway,237,TAKEAWAY,Takeaway by Mikko Rantanen,2023-01-16T22:18:28Z,3,10:30,09:30,6,2,21.0,Colorado Avalanche,COL
+259,21,17,Colorado Avalanche,Detroit Red Wings,2022020696581,2022020696,Shot,581,SHOT,Brad Hunt Slap Shot saved by Magnus Hellberg,2023-01-16T22:18:46Z,3,10:48,09:12,6,2,21.0,Colorado Avalanche,COL
+260,21,17,Colorado Avalanche,Detroit Red Wings,2022020696632,2022020696,Stoppage,632,STOP,Goalie Stopped,2023-01-16T22:18:46Z,3,10:48,09:12,6,2,,,
+261,21,17,Colorado Avalanche,Detroit Red Wings,2022020696582,2022020696,Faceoff,582,FACEOFF,Nathan MacKinnon faceoff won against Joe Veleno,2023-01-16T22:21:10Z,3,10:48,09:12,6,2,21.0,Colorado Avalanche,COL
+262,21,17,Colorado Avalanche,Detroit Red Wings,2022020696238,2022020696,Hit,238,HIT,Ben Chiarot hit Artturi Lehkonen,2023-01-16T22:21:27Z,3,11:05,08:55,6,2,17.0,Detroit Red Wings,DET
+263,21,17,Colorado Avalanche,Detroit Red Wings,2022020696239,2022020696,Takeaway,239,TAKEAWAY,Takeaway by Devon Toews,2023-01-16T22:21:50Z,3,11:28,08:32,6,2,21.0,Colorado Avalanche,COL
+264,21,17,Colorado Avalanche,Detroit Red Wings,2022020696583,2022020696,Takeaway,583,TAKEAWAY,Takeaway by Joe Veleno,2023-01-16T22:21:54Z,3,11:32,08:28,6,2,17.0,Detroit Red Wings,DET
+265,21,17,Colorado Avalanche,Detroit Red Wings,2022020696633,2022020696,Stoppage,633,STOP,Puck in Crowd,2023-01-16T22:22:06Z,3,11:44,08:16,6,2,,,
+266,21,17,Colorado Avalanche,Detroit Red Wings,2022020696584,2022020696,Faceoff,584,FACEOFF,J.T. Compher faceoff won against Andrew Copp,2023-01-16T22:22:39Z,3,11:44,08:16,6,2,21.0,Colorado Avalanche,COL
+267,21,17,Colorado Avalanche,Detroit Red Wings,2022020696634,2022020696,Giveaway,634,GIVEAWAY,Giveaway by Valeri Nichushkin,2023-01-16T22:22:48Z,3,11:53,08:07,6,2,21.0,Colorado Avalanche,COL
+268,21,17,Colorado Avalanche,Detroit Red Wings,2022020696635,2022020696,Blocked Shot,635,BLOCKED_SHOT,Andrew Copp shot blocked shot by Kurtis MacDermid,2023-01-16T22:23:00Z,3,12:05,07:55,6,2,21.0,Colorado Avalanche,COL
+269,21,17,Colorado Avalanche,Detroit Red Wings,2022020696585,2022020696,Shot,585,SHOT,Filip Hronek Wrist Shot saved by Pavel Francouz,2023-01-16T22:24:25Z,3,13:30,06:30,6,2,17.0,Detroit Red Wings,DET
+270,21,17,Colorado Avalanche,Detroit Red Wings,2022020696586,2022020696,Shot,586,SHOT,Joe Veleno Tip-In saved by Pavel Francouz,2023-01-16T22:24:33Z,3,13:38,06:22,6,2,17.0,Detroit Red Wings,DET
+271,21,17,Colorado Avalanche,Detroit Red Wings,2022020696242,2022020696,Hit,242,HIT,Dominik Kubalik hit Kurtis MacDermid,2023-01-16T22:25:14Z,3,14:19,05:41,6,2,17.0,Detroit Red Wings,DET
+272,21,17,Colorado Avalanche,Detroit Red Wings,2022020696636,2022020696,Blocked Shot,636,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Jake Walman,2023-01-16T22:25:22Z,3,14:27,05:33,6,2,17.0,Detroit Red Wings,DET
+273,21,17,Colorado Avalanche,Detroit Red Wings,2022020696587,2022020696,Stoppage,587,STOP,Puck in Netting,2023-01-16T22:25:23Z,3,14:28,05:32,6,2,,,
+274,21,17,Colorado Avalanche,Detroit Red Wings,2022020696588,2022020696,Faceoff,588,FACEOFF,Pius Suter faceoff won against Mikko Rantanen,2023-01-16T22:27:37Z,3,14:28,05:32,6,2,17.0,Detroit Red Wings,DET
+275,21,17,Colorado Avalanche,Detroit Red Wings,2022020696637,2022020696,Stoppage,637,STOP,Hand Pass,2023-01-16T22:27:41Z,3,14:32,05:28,6,2,,,
+276,21,17,Colorado Avalanche,Detroit Red Wings,2022020696589,2022020696,Faceoff,589,FACEOFF,Mikko Rantanen faceoff won against Pius Suter,2023-01-16T22:28:02Z,3,14:32,05:28,6,2,21.0,Colorado Avalanche,COL
+277,21,17,Colorado Avalanche,Detroit Red Wings,2022020696243,2022020696,Takeaway,243,TAKEAWAY,Takeaway by Pius Suter,2023-01-16T22:28:49Z,3,15:19,04:41,6,2,17.0,Detroit Red Wings,DET
+278,21,17,Colorado Avalanche,Detroit Red Wings,2022020696638,2022020696,Giveaway,638,GIVEAWAY,Giveaway by Pavel  Francouz,2023-01-16T22:29:18Z,3,15:48,04:12,6,2,21.0,Colorado Avalanche,COL
+279,21,17,Colorado Avalanche,Detroit Red Wings,2022020696590,2022020696,Shot,590,SHOT,Jordan Oesterle Wrist Shot saved by Pavel Francouz,2023-01-16T22:29:27Z,3,15:57,04:03,6,2,17.0,Detroit Red Wings,DET
+280,21,17,Colorado Avalanche,Detroit Red Wings,2022020696244,2022020696,Hit,244,HIT,Michael Rasmussen hit Logan O'Connor,2023-01-16T22:29:31Z,3,16:01,03:59,6,2,17.0,Detroit Red Wings,DET
+281,21,17,Colorado Avalanche,Detroit Red Wings,2022020696591,2022020696,Shot,591,SHOT,Andrew Copp Tip-In saved by Pavel Francouz,2023-01-16T22:29:56Z,3,16:26,03:34,6,2,17.0,Detroit Red Wings,DET
+282,21,17,Colorado Avalanche,Detroit Red Wings,2022020696245,2022020696,Shot,245,SHOT,Michael Rasmussen Wrist Shot saved by Pavel Francouz,2023-01-16T22:29:58Z,3,16:27,03:33,6,2,17.0,Detroit Red Wings,DET
+283,21,17,Colorado Avalanche,Detroit Red Wings,2022020696639,2022020696,Stoppage,639,STOP,Goalie Stopped,2023-01-16T22:29:58Z,3,16:28,03:32,6,2,,,
+284,21,17,Colorado Avalanche,Detroit Red Wings,2022020696592,2022020696,Faceoff,592,FACEOFF,Dylan Larkin faceoff won against J.T. Compher,2023-01-16T22:30:32Z,3,16:28,03:32,6,2,17.0,Detroit Red Wings,DET
+285,21,17,Colorado Avalanche,Detroit Red Wings,2022020696593,2022020696,Shot,593,SHOT,Lucas Raymond Wrist Shot saved by Pavel Francouz,2023-01-16T22:30:38Z,3,16:34,03:26,6,2,17.0,Detroit Red Wings,DET
+286,21,17,Colorado Avalanche,Detroit Red Wings,2022020696594,2022020696,Missed Shot,594,MISSED_SHOT,Jake Walman Wide of Net Pavel  Francouz,2023-01-16T22:31:05Z,3,17:01,02:59,6,2,17.0,Detroit Red Wings,DET
+287,21,17,Colorado Avalanche,Detroit Red Wings,2022020696595,2022020696,Shot,595,SHOT,Ben Chiarot Slap Shot saved by Pavel Francouz,2023-01-16T22:31:38Z,3,17:34,02:26,6,2,17.0,Detroit Red Wings,DET
+288,21,17,Colorado Avalanche,Detroit Red Wings,2022020696246,2022020696,Hit,246,HIT,Joe Veleno hit Evan Rodrigues,2023-01-16T22:31:40Z,3,17:36,02:24,6,2,17.0,Detroit Red Wings,DET
+289,21,17,Colorado Avalanche,Detroit Red Wings,2022020696640,2022020696,Blocked Shot,640,BLOCKED_SHOT,Brad Hunt shot blocked shot by Robby Fabbri,2023-01-16T22:32:53Z,3,18:49,01:11,6,2,17.0,Detroit Red Wings,DET
+290,21,17,Colorado Avalanche,Detroit Red Wings,2022020696641,2022020696,Blocked Shot,641,BLOCKED_SHOT,David Perron shot blocked shot by Andrew Cogliano,2023-01-16T22:33:19Z,3,19:15,00:45,6,2,21.0,Colorado Avalanche,COL
+291,21,17,Colorado Avalanche,Detroit Red Wings,2022020696247,2022020696,Hit,247,HIT,Kurtis MacDermid hit Michael Rasmussen,2023-01-16T22:33:25Z,3,19:21,00:39,6,2,21.0,Colorado Avalanche,COL
+292,21,17,Colorado Avalanche,Detroit Red Wings,2022020696596,2022020696,Goal,596,GOAL,"David Perron (13) Tip-In, assists: Moritz Seider (16), Michael Rasmussen (12)",2023-01-16T22:33:31Z,3,19:26,00:34,6,3,17.0,Detroit Red Wings,DET
+293,21,17,Colorado Avalanche,Detroit Red Wings,2022020696248,2022020696,Faceoff,248,FACEOFF,Joe Veleno faceoff won against Ben Meyers,2023-01-16T22:34:03Z,3,19:26,00:34,6,3,17.0,Detroit Red Wings,DET
+294,21,17,Colorado Avalanche,Detroit Red Wings,2022020696642,2022020696,Period End,642,PERIOD_END,End of 3rd Period,2023-01-16T22:34:37Z,3,20:00,00:00,6,3,,,
+295,21,17,Colorado Avalanche,Detroit Red Wings,2022020696645,2022020696,Period Official,645,PERIOD_OFFICIAL,Period Official,2023-01-16T22:34:56Z,3,20:00,00:00,6,3,,,
+296,21,17,Colorado Avalanche,Detroit Red Wings,2022020696646,2022020696,Game End,646,GAME_END,Game End,2023-01-16T22:34:59Z,3,20:00,00:00,6,3,,,
+297,21,17,Colorado Avalanche,Detroit Red Wings,2022020696647,2022020696,Game Official,647,GAME_OFFICIAL,Game Official,2023-01-16T23:12:58Z,3,20:00,00:00,6,3,,,

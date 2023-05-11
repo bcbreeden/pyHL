@@ -1,0 +1,323 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,25,55,Dallas Stars,Seattle Kraken,20220211301,2022021130,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-03-21T23:45:09Z,1,00:00,20:00,0,0,,,
+1,25,55,Dallas Stars,Seattle Kraken,20220211305,2022021130,Period Ready,5,PERIOD_READY,Period Ready,2023-03-22T00:36:08Z,1,00:00,20:00,0,0,,,
+2,25,55,Dallas Stars,Seattle Kraken,202202113051,2022021130,Period Start,51,PERIOD_START,Period Start,2023-03-22T00:38:32Z,1,00:00,20:00,0,0,,,
+3,25,55,Dallas Stars,Seattle Kraken,202202113052,2022021130,Faceoff,52,FACEOFF,Yanni Gourde faceoff won against Ty Dellandrea,2023-03-22T00:38:32Z,1,00:00,20:00,0,0,55.0,Seattle Kraken,SEA
+4,25,55,Dallas Stars,Seattle Kraken,20220211308,2022021130,Takeaway,8,TAKEAWAY,Takeaway by Adam Larsson,2023-03-22T00:38:42Z,1,00:10,19:50,0,0,55.0,Seattle Kraken,SEA
+5,25,55,Dallas Stars,Seattle Kraken,202202113053,2022021130,Hit,53,HIT,Adam Larsson hit Radek Faksa,2023-03-22T00:39:01Z,1,00:29,19:31,0,0,55.0,Seattle Kraken,SEA
+6,25,55,Dallas Stars,Seattle Kraken,20220211309,2022021130,Giveaway,9,GIVEAWAY,Giveaway by Vince Dunn,2023-03-22T00:39:03Z,1,00:31,19:29,0,0,55.0,Seattle Kraken,SEA
+7,25,55,Dallas Stars,Seattle Kraken,2022021130151,2022021130,Blocked Shot,151,BLOCKED_SHOT,Ty Dellandrea shot blocked shot by Vince Dunn,2023-03-22T00:39:09Z,1,00:37,19:23,0,0,55.0,Seattle Kraken,SEA
+8,25,55,Dallas Stars,Seattle Kraken,2022021130152,2022021130,Shot,152,SHOT,Jason Robertson Tip-In saved by Joey Daccord,2023-03-22T00:39:23Z,1,00:51,19:09,0,0,25.0,Dallas Stars,DAL
+9,25,55,Dallas Stars,Seattle Kraken,202202113010,2022021130,Stoppage,10,STOP,Goalie Stopped,2023-03-22T00:39:26Z,1,00:53,19:07,0,0,,,
+10,25,55,Dallas Stars,Seattle Kraken,202202113054,2022021130,Faceoff,54,FACEOFF,Roope Hintz faceoff won against Matty Beniers,2023-03-22T00:39:51Z,1,00:53,19:07,0,0,25.0,Dallas Stars,DAL
+11,25,55,Dallas Stars,Seattle Kraken,2022021130153,2022021130,Shot,153,SHOT,Roope Hintz Deflected saved by Joey Daccord,2023-03-22T00:39:55Z,1,00:57,19:03,0,0,25.0,Dallas Stars,DAL
+12,25,55,Dallas Stars,Seattle Kraken,2022021130154,2022021130,Shot,154,SHOT,Jordan Eberle Poke saved by Jake Oettinger,2023-03-22T00:40:05Z,1,01:07,18:53,0,0,55.0,Seattle Kraken,SEA
+13,25,55,Dallas Stars,Seattle Kraken,202202113011,2022021130,Giveaway,11,GIVEAWAY,Giveaway by Jamie Benn,2023-03-22T00:40:44Z,1,01:46,18:14,0,0,25.0,Dallas Stars,DAL
+14,25,55,Dallas Stars,Seattle Kraken,2022021130155,2022021130,Shot,155,SHOT,Jaden Schwartz Backhand saved by Jake Oettinger,2023-03-22T00:40:53Z,1,01:55,18:05,0,0,55.0,Seattle Kraken,SEA
+15,25,55,Dallas Stars,Seattle Kraken,2022021130156,2022021130,Shot,156,SHOT,Jaden Schwartz Backhand saved by Jake Oettinger,2023-03-22T00:40:55Z,1,01:57,18:03,0,0,55.0,Seattle Kraken,SEA
+16,25,55,Dallas Stars,Seattle Kraken,2022021130157,2022021130,Goal,157,GOAL,"Brandon Tanev (14) Tip-In, assists: Daniel Sprong (20), Carson Soucy (10)",2023-03-22T00:41:30Z,1,02:32,17:28,0,1,55.0,Seattle Kraken,SEA
+17,25,55,Dallas Stars,Seattle Kraken,202202113055,2022021130,Faceoff,55,FACEOFF,Ty Dellandrea faceoff won against Morgan Geekie,2023-03-22T00:42:09Z,1,02:32,17:28,0,1,25.0,Dallas Stars,DAL
+18,25,55,Dallas Stars,Seattle Kraken,202202113012,2022021130,Stoppage,12,STOP,Hand Pass,2023-03-22T00:42:25Z,1,02:48,17:12,0,1,,,
+19,25,55,Dallas Stars,Seattle Kraken,202202113058,2022021130,Faceoff,58,FACEOFF,Yanni Gourde faceoff won against Max Domi,2023-03-22T00:42:55Z,1,02:48,17:12,0,1,55.0,Seattle Kraken,SEA
+20,25,55,Dallas Stars,Seattle Kraken,202202113059,2022021130,Hit,59,HIT,Jamie Oleksiak hit Ty Dellandrea,2023-03-22T00:43:13Z,1,03:06,16:54,0,1,55.0,Seattle Kraken,SEA
+21,25,55,Dallas Stars,Seattle Kraken,2022021130158,2022021130,Blocked Shot,158,BLOCKED_SHOT,Max Domi shot blocked shot by Oliver Bjorkstrand,2023-03-22T00:43:16Z,1,03:09,16:51,0,1,55.0,Seattle Kraken,SEA
+22,25,55,Dallas Stars,Seattle Kraken,2022021130132,2022021130,Penalty,132,PENALTY,Will Borgen Holding the stick against Radek Faksa,2023-03-22T00:43:21Z,1,03:13,16:47,0,1,55.0,Seattle Kraken,SEA
+23,25,55,Dallas Stars,Seattle Kraken,202202113060,2022021130,Faceoff,60,FACEOFF,Alex Wennberg faceoff won against Jamie Benn,2023-03-22T00:43:59Z,1,03:13,16:47,0,1,55.0,Seattle Kraken,SEA
+24,25,55,Dallas Stars,Seattle Kraken,2022021130159,2022021130,Goal,159,GOAL,"Miro Heiskanen (11) Wrist Shot, assists: Jason Robertson (48), Joe Pavelski (46)",2023-03-22T00:44:39Z,1,03:52,16:08,1,1,25.0,Dallas Stars,DAL
+25,25,55,Dallas Stars,Seattle Kraken,202202113061,2022021130,Faceoff,61,FACEOFF,Matty Beniers faceoff won against Wyatt Johnston,2023-03-22T00:45:24Z,1,03:52,16:08,1,1,55.0,Seattle Kraken,SEA
+26,25,55,Dallas Stars,Seattle Kraken,2022021130161,2022021130,Shot,161,SHOT,Jamie Benn Snap Shot saved by Joey Daccord,2023-03-22T00:45:38Z,1,04:06,15:54,1,1,25.0,Dallas Stars,DAL
+27,25,55,Dallas Stars,Seattle Kraken,2022021130162,2022021130,Blocked Shot,162,BLOCKED_SHOT,Colin Miller shot blocked shot by Jared McCann,2023-03-22T00:45:46Z,1,04:14,15:46,1,1,55.0,Seattle Kraken,SEA
+28,25,55,Dallas Stars,Seattle Kraken,202202113062,2022021130,Hit,62,HIT,Jared McCann hit Colin Miller,2023-03-22T00:45:55Z,1,04:22,15:38,1,1,55.0,Seattle Kraken,SEA
+29,25,55,Dallas Stars,Seattle Kraken,202202113013,2022021130,Takeaway,13,TAKEAWAY,Takeaway by Evgenii Dadonov,2023-03-22T00:45:55Z,1,04:23,15:37,1,1,25.0,Dallas Stars,DAL
+30,25,55,Dallas Stars,Seattle Kraken,202202113063,2022021130,Hit,63,HIT,Justin Schultz hit Joel Kiviranta,2023-03-22T00:46:27Z,1,04:55,15:05,1,1,55.0,Seattle Kraken,SEA
+31,25,55,Dallas Stars,Seattle Kraken,2022021130163,2022021130,Blocked Shot,163,BLOCKED_SHOT,Daniel Sprong shot blocked shot by Jani Hakanpää,2023-03-22T00:46:40Z,1,05:08,14:52,1,1,25.0,Dallas Stars,DAL
+32,25,55,Dallas Stars,Seattle Kraken,202202113014,2022021130,Stoppage,14,STOP,Icing,2023-03-22T00:46:52Z,1,05:20,14:40,1,1,,,
+33,25,55,Dallas Stars,Seattle Kraken,202202113064,2022021130,Faceoff,64,FACEOFF,Alex Wennberg faceoff won against Luke Glendening,2023-03-22T00:47:26Z,1,05:20,14:40,1,1,55.0,Seattle Kraken,SEA
+34,25,55,Dallas Stars,Seattle Kraken,202202113065,2022021130,Hit,65,HIT,Alex Wennberg hit Esa Lindell,2023-03-22T00:47:37Z,1,05:31,14:29,1,1,55.0,Seattle Kraken,SEA
+35,25,55,Dallas Stars,Seattle Kraken,2022021130552,2022021130,Blocked Shot,552,BLOCKED_SHOT,Joel Hanley shot blocked shot by Jesper Froden,2023-03-22T00:47:58Z,1,05:52,14:08,1,1,55.0,Seattle Kraken,SEA
+36,25,55,Dallas Stars,Seattle Kraken,202202113066,2022021130,Hit,66,HIT,Joel Hanley hit Jaden Schwartz,2023-03-22T00:48:06Z,1,06:00,14:00,1,1,25.0,Dallas Stars,DAL
+37,25,55,Dallas Stars,Seattle Kraken,2022021130165,2022021130,Missed Shot,165,MISSED_SHOT,Oliver Bjorkstrand Wide of Net Jake Oettinger,2023-03-22T00:48:40Z,1,06:34,13:26,1,1,55.0,Seattle Kraken,SEA
+38,25,55,Dallas Stars,Seattle Kraken,2022021130166,2022021130,Blocked Shot,166,BLOCKED_SHOT,Eeli Tolvanen shot blocked shot by Ryan Suter,2023-03-22T00:48:49Z,1,06:43,13:17,1,1,25.0,Dallas Stars,DAL
+39,25,55,Dallas Stars,Seattle Kraken,202202113015,2022021130,Stoppage,15,STOP,Icing,2023-03-22T00:48:57Z,1,06:51,13:09,1,1,,,
+40,25,55,Dallas Stars,Seattle Kraken,202202113067,2022021130,Faceoff,67,FACEOFF,Ty Dellandrea faceoff won against Matty Beniers,2023-03-22T00:49:22Z,1,06:51,13:09,1,1,25.0,Dallas Stars,DAL
+41,25,55,Dallas Stars,Seattle Kraken,202202113068,2022021130,Hit,68,HIT,Ty Dellandrea hit Matty Beniers,2023-03-22T00:49:26Z,1,06:55,13:05,1,1,25.0,Dallas Stars,DAL
+42,25,55,Dallas Stars,Seattle Kraken,2022021130167,2022021130,Missed Shot,167,MISSED_SHOT,Carson Soucy Wide of Net Jake Oettinger,2023-03-22T00:49:33Z,1,07:02,12:58,1,1,55.0,Seattle Kraken,SEA
+43,25,55,Dallas Stars,Seattle Kraken,202202113016,2022021130,Giveaway,16,GIVEAWAY,Giveaway by Colin Miller,2023-03-22T00:50:02Z,1,07:31,12:29,1,1,25.0,Dallas Stars,DAL
+44,25,55,Dallas Stars,Seattle Kraken,2022021130170,2022021130,Missed Shot,170,MISSED_SHOT,Miro Heiskanen Wide of Net Joey Daccord,2023-03-22T00:50:19Z,1,07:48,12:12,1,1,25.0,Dallas Stars,DAL
+45,25,55,Dallas Stars,Seattle Kraken,202202113017,2022021130,Takeaway,17,TAKEAWAY,Takeaway by Morgan Geekie,2023-03-22T00:50:28Z,1,07:57,12:03,1,1,55.0,Seattle Kraken,SEA
+46,25,55,Dallas Stars,Seattle Kraken,202202113018,2022021130,Giveaway,18,GIVEAWAY,Giveaway by Jamie Benn,2023-03-22T00:50:46Z,1,08:15,11:45,1,1,25.0,Dallas Stars,DAL
+47,25,55,Dallas Stars,Seattle Kraken,202202113069,2022021130,Hit,69,HIT,Jesper Froden hit Jamie Benn,2023-03-22T00:50:46Z,1,08:15,11:45,1,1,55.0,Seattle Kraken,SEA
+48,25,55,Dallas Stars,Seattle Kraken,202202113019,2022021130,Stoppage,19,STOP,High Stick,2023-03-22T00:50:57Z,1,08:25,11:35,1,1,,,
+49,25,55,Dallas Stars,Seattle Kraken,2022021130351,2022021130,Faceoff,351,FACEOFF,Wyatt Johnston faceoff won against Alex Wennberg,2023-03-22T00:53:16Z,1,08:25,11:35,1,1,25.0,Dallas Stars,DAL
+50,25,55,Dallas Stars,Seattle Kraken,202202113070,2022021130,Hit,70,HIT,Jesper Froden hit Esa Lindell,2023-03-22T00:53:21Z,1,08:30,11:30,1,1,55.0,Seattle Kraken,SEA
+51,25,55,Dallas Stars,Seattle Kraken,2022021130551,2022021130,Giveaway,551,GIVEAWAY,Giveaway by Evgenii Dadonov,2023-03-22T00:53:41Z,1,08:50,11:10,1,1,25.0,Dallas Stars,DAL
+52,25,55,Dallas Stars,Seattle Kraken,202202113071,2022021130,Hit,71,HIT,Jani Hakanpää hit Jaden Schwartz,2023-03-22T00:54:05Z,1,09:14,10:46,1,1,25.0,Dallas Stars,DAL
+53,25,55,Dallas Stars,Seattle Kraken,2022021130171,2022021130,Blocked Shot,171,BLOCKED_SHOT,Adam Larsson shot blocked shot by Wyatt Johnston,2023-03-22T00:54:10Z,1,09:19,10:41,1,1,25.0,Dallas Stars,DAL
+54,25,55,Dallas Stars,Seattle Kraken,202202113022,2022021130,Giveaway,22,GIVEAWAY,Giveaway by Jamie Benn,2023-03-22T00:54:14Z,1,09:23,10:37,1,1,25.0,Dallas Stars,DAL
+55,25,55,Dallas Stars,Seattle Kraken,202202113023,2022021130,Stoppage,23,STOP,Puck in Netting,2023-03-22T00:54:56Z,1,10:05,09:55,1,1,,,
+56,25,55,Dallas Stars,Seattle Kraken,2022021130352,2022021130,Faceoff,352,FACEOFF,Ty Dellandrea faceoff won against Matty Beniers,2023-03-22T00:57:04Z,1,10:05,09:55,1,1,25.0,Dallas Stars,DAL
+57,25,55,Dallas Stars,Seattle Kraken,2022021130172,2022021130,Missed Shot,172,MISSED_SHOT,Jordan Eberle Wide of Net Jake Oettinger,2023-03-22T00:57:31Z,1,10:32,09:28,1,1,55.0,Seattle Kraken,SEA
+58,25,55,Dallas Stars,Seattle Kraken,202202113024,2022021130,Giveaway,24,GIVEAWAY,Giveaway by Max Domi,2023-03-22T00:57:51Z,1,10:52,09:08,1,1,25.0,Dallas Stars,DAL
+59,25,55,Dallas Stars,Seattle Kraken,202202113025,2022021130,Takeaway,25,TAKEAWAY,Takeaway by Jamie Oleksiak,2023-03-22T00:58:20Z,1,11:21,08:39,1,1,55.0,Seattle Kraken,SEA
+60,25,55,Dallas Stars,Seattle Kraken,2022021130173,2022021130,Missed Shot,173,MISSED_SHOT,Wyatt Johnston Over Net Joey Daccord,2023-03-22T00:58:33Z,1,11:34,08:26,1,1,25.0,Dallas Stars,DAL
+61,25,55,Dallas Stars,Seattle Kraken,202202113026,2022021130,Stoppage,26,STOP,Goalie Stopped,2023-03-22T00:58:33Z,1,11:35,08:25,1,1,,,
+62,25,55,Dallas Stars,Seattle Kraken,2022021130353,2022021130,Faceoff,353,FACEOFF,Morgan Geekie faceoff won against Wyatt Johnston,2023-03-22T00:59:03Z,1,11:35,08:25,1,1,55.0,Seattle Kraken,SEA
+63,25,55,Dallas Stars,Seattle Kraken,202202113027,2022021130,Giveaway,27,GIVEAWAY,Giveaway by Daniel Sprong,2023-03-22T00:59:32Z,1,12:04,07:56,1,1,55.0,Seattle Kraken,SEA
+64,25,55,Dallas Stars,Seattle Kraken,2022021130174,2022021130,Goal,174,GOAL,"Daniel Sprong (17) Wrist Shot, assists: Brandon Tanev (17), Adam Larsson (24)",2023-03-22T00:59:48Z,1,12:20,07:40,1,2,55.0,Seattle Kraken,SEA
+65,25,55,Dallas Stars,Seattle Kraken,2022021130354,2022021130,Faceoff,354,FACEOFF,Yanni Gourde faceoff won against Luke Glendening,2023-03-22T01:00:29Z,1,12:20,07:40,1,2,55.0,Seattle Kraken,SEA
+66,25,55,Dallas Stars,Seattle Kraken,202202113028,2022021130,Giveaway,28,GIVEAWAY,Giveaway by Radek Faksa,2023-03-22T01:01:08Z,1,12:59,07:01,1,2,25.0,Dallas Stars,DAL
+67,25,55,Dallas Stars,Seattle Kraken,202202113072,2022021130,Hit,72,HIT,Radek Faksa hit Justin Schultz,2023-03-22T01:01:15Z,1,13:06,06:54,1,2,25.0,Dallas Stars,DAL
+68,25,55,Dallas Stars,Seattle Kraken,202202113029,2022021130,Takeaway,29,TAKEAWAY,Takeaway by Carson Soucy,2023-03-22T01:01:37Z,1,13:28,06:32,1,2,55.0,Seattle Kraken,SEA
+69,25,55,Dallas Stars,Seattle Kraken,202202113073,2022021130,Hit,73,HIT,Jesper Froden hit Joel Hanley,2023-03-22T01:02:00Z,1,13:51,06:09,1,2,55.0,Seattle Kraken,SEA
+70,25,55,Dallas Stars,Seattle Kraken,202202113030,2022021130,Giveaway,30,GIVEAWAY,Giveaway by Roope Hintz,2023-03-22T01:02:19Z,1,14:10,05:50,1,2,25.0,Dallas Stars,DAL
+71,25,55,Dallas Stars,Seattle Kraken,2022021130176,2022021130,Shot,176,SHOT,Matty Beniers Tip-In saved by Jake Oettinger,2023-03-22T01:02:25Z,1,14:16,05:44,1,2,55.0,Seattle Kraken,SEA
+72,25,55,Dallas Stars,Seattle Kraken,202202113074,2022021130,Hit,74,HIT,Colin Miller hit Jared McCann,2023-03-22T01:02:26Z,1,14:17,05:43,1,2,25.0,Dallas Stars,DAL
+73,25,55,Dallas Stars,Seattle Kraken,2022021130177,2022021130,Shot,177,SHOT,Jared McCann Wrist Shot saved by Jake Oettinger,2023-03-22T01:02:44Z,1,14:35,05:25,1,2,55.0,Seattle Kraken,SEA
+74,25,55,Dallas Stars,Seattle Kraken,202202113031,2022021130,Giveaway,31,GIVEAWAY,Giveaway by Esa Lindell,2023-03-22T01:03:19Z,1,15:10,04:50,1,2,25.0,Dallas Stars,DAL
+75,25,55,Dallas Stars,Seattle Kraken,202202113032,2022021130,Giveaway,32,GIVEAWAY,Giveaway by Wyatt Johnston,2023-03-22T01:03:34Z,1,15:25,04:35,1,2,25.0,Dallas Stars,DAL
+76,25,55,Dallas Stars,Seattle Kraken,2022021130178,2022021130,Missed Shot,178,MISSED_SHOT,Eeli Tolvanen Wide of Net Jake Oettinger,2023-03-22T01:03:44Z,1,15:35,04:25,1,2,55.0,Seattle Kraken,SEA
+77,25,55,Dallas Stars,Seattle Kraken,202202113033,2022021130,Takeaway,33,TAKEAWAY,Takeaway by Eeli Tolvanen,2023-03-22T01:03:45Z,1,15:36,04:24,1,2,55.0,Seattle Kraken,SEA
+78,25,55,Dallas Stars,Seattle Kraken,202202113075,2022021130,Hit,75,HIT,Jamie Benn hit Daniel Sprong,2023-03-22T01:03:49Z,1,15:40,04:20,1,2,25.0,Dallas Stars,DAL
+79,25,55,Dallas Stars,Seattle Kraken,2022021130179,2022021130,Missed Shot,179,MISSED_SHOT,Justin Schultz Wide of Net Jake Oettinger,2023-03-22T01:03:56Z,1,15:47,04:13,1,2,55.0,Seattle Kraken,SEA
+80,25,55,Dallas Stars,Seattle Kraken,2022021130180,2022021130,Missed Shot,180,MISSED_SHOT,Morgan Geekie Wide of Net Jake Oettinger,2023-03-22T01:04:02Z,1,15:53,04:07,1,2,55.0,Seattle Kraken,SEA
+81,25,55,Dallas Stars,Seattle Kraken,2022021130553,2022021130,Shot,553,SHOT,Daniel Sprong Snap Shot saved by Jake Oettinger,2023-03-22T01:04:06Z,1,15:57,04:03,1,2,55.0,Seattle Kraken,SEA
+82,25,55,Dallas Stars,Seattle Kraken,202202113034,2022021130,Stoppage,34,STOP,Goalie Stopped,2023-03-22T01:04:08Z,1,15:59,04:01,1,2,,,
+83,25,55,Dallas Stars,Seattle Kraken,2022021130355,2022021130,Faceoff,355,FACEOFF,Luke Glendening faceoff won against Oliver Bjorkstrand,2023-03-22T01:06:28Z,1,15:59,04:01,1,2,25.0,Dallas Stars,DAL
+84,25,55,Dallas Stars,Seattle Kraken,202202113076,2022021130,Hit,76,HIT,Adam Larsson hit Fredrik Olofsson,2023-03-22T01:06:36Z,1,16:07,03:53,1,2,55.0,Seattle Kraken,SEA
+85,25,55,Dallas Stars,Seattle Kraken,2022021130181,2022021130,Shot,181,SHOT,Oliver Bjorkstrand Wrist Shot saved by Jake Oettinger,2023-03-22T01:06:45Z,1,16:16,03:44,1,2,55.0,Seattle Kraken,SEA
+86,25,55,Dallas Stars,Seattle Kraken,202202113035,2022021130,Takeaway,35,TAKEAWAY,Takeaway by Adam Larsson,2023-03-22T01:06:52Z,1,16:23,03:37,1,2,55.0,Seattle Kraken,SEA
+87,25,55,Dallas Stars,Seattle Kraken,202202113036,2022021130,Stoppage,36,STOP,Puck in Crowd,2023-03-22T01:07:03Z,1,16:34,03:26,1,2,,,
+88,25,55,Dallas Stars,Seattle Kraken,2022021130356,2022021130,Faceoff,356,FACEOFF,Max Domi faceoff won against Matty Beniers,2023-03-22T01:07:35Z,1,16:34,03:26,1,2,25.0,Dallas Stars,DAL
+89,25,55,Dallas Stars,Seattle Kraken,2022021130182,2022021130,Missed Shot,182,MISSED_SHOT,Colin Miller Wide of Net Joey Daccord,2023-03-22T01:07:39Z,1,16:38,03:22,1,2,25.0,Dallas Stars,DAL
+90,25,55,Dallas Stars,Seattle Kraken,2022021130183,2022021130,Shot,183,SHOT,Jared McCann Wrist Shot saved by Jake Oettinger,2023-03-22T01:08:04Z,1,17:03,02:57,1,2,55.0,Seattle Kraken,SEA
+91,25,55,Dallas Stars,Seattle Kraken,202202113077,2022021130,Hit,77,HIT,Colin Miller hit Jordan Eberle,2023-03-22T01:08:11Z,1,17:10,02:50,1,2,25.0,Dallas Stars,DAL
+92,25,55,Dallas Stars,Seattle Kraken,202202113037,2022021130,Takeaway,37,TAKEAWAY,Takeaway by Max Domi,2023-03-22T01:08:14Z,1,17:13,02:47,1,2,25.0,Dallas Stars,DAL
+93,25,55,Dallas Stars,Seattle Kraken,2022021130184,2022021130,Missed Shot,184,MISSED_SHOT,Jared McCann Wide of Net Jake Oettinger,2023-03-22T01:08:19Z,1,17:18,02:42,1,2,55.0,Seattle Kraken,SEA
+94,25,55,Dallas Stars,Seattle Kraken,2022021130185,2022021130,Blocked Shot,185,BLOCKED_SHOT,Carson Soucy shot blocked shot by Radek Faksa,2023-03-22T01:08:33Z,1,17:32,02:28,1,2,25.0,Dallas Stars,DAL
+95,25,55,Dallas Stars,Seattle Kraken,202202113038,2022021130,Stoppage,38,STOP,Puck in Netting,2023-03-22T01:08:35Z,1,17:33,02:27,1,2,,,
+96,25,55,Dallas Stars,Seattle Kraken,2022021130357,2022021130,Faceoff,357,FACEOFF,Joe Pavelski faceoff won against Alex Wennberg,2023-03-22T01:09:11Z,1,17:33,02:27,1,2,25.0,Dallas Stars,DAL
+97,25,55,Dallas Stars,Seattle Kraken,2022021130186,2022021130,Shot,186,SHOT,Jesper Froden Deflected saved by Jake Oettinger,2023-03-22T01:09:17Z,1,17:39,02:21,1,2,55.0,Seattle Kraken,SEA
+98,25,55,Dallas Stars,Seattle Kraken,2022021130554,2022021130,Missed Shot,554,MISSED_SHOT,Jesper Froden Goalpost Jake Oettinger,2023-03-22T01:09:19Z,1,17:41,02:19,1,2,55.0,Seattle Kraken,SEA
+99,25,55,Dallas Stars,Seattle Kraken,202202113039,2022021130,Giveaway,39,GIVEAWAY,Giveaway by Jason Robertson,2023-03-22T01:09:31Z,1,17:53,02:07,1,2,25.0,Dallas Stars,DAL
+100,25,55,Dallas Stars,Seattle Kraken,202202113078,2022021130,Hit,78,HIT,Will Borgen hit Jason Robertson,2023-03-22T01:09:31Z,1,17:53,02:07,1,2,55.0,Seattle Kraken,SEA
+101,25,55,Dallas Stars,Seattle Kraken,2022021130187,2022021130,Missed Shot,187,MISSED_SHOT,Jaden Schwartz Wide of Net Jake Oettinger,2023-03-22T01:09:54Z,1,18:16,01:44,1,2,55.0,Seattle Kraken,SEA
+102,25,55,Dallas Stars,Seattle Kraken,2022021130189,2022021130,Shot,189,SHOT,Wyatt Johnston Snap Shot saved by Joey Daccord,2023-03-22T01:10:30Z,1,18:52,01:08,1,2,25.0,Dallas Stars,DAL
+103,25,55,Dallas Stars,Seattle Kraken,202202113079,2022021130,Hit,79,HIT,Ryan Suter hit Brandon Tanev,2023-03-22T01:10:35Z,1,18:57,01:03,1,2,25.0,Dallas Stars,DAL
+104,25,55,Dallas Stars,Seattle Kraken,2022021130190,2022021130,Missed Shot,190,MISSED_SHOT,Brandon Tanev Wide of Net Jake Oettinger,2023-03-22T01:10:40Z,1,19:02,00:58,1,2,55.0,Seattle Kraken,SEA
+105,25,55,Dallas Stars,Seattle Kraken,202202113080,2022021130,Hit,80,HIT,Fredrik Olofsson hit Oliver Bjorkstrand,2023-03-22T01:10:57Z,1,19:19,00:41,1,2,25.0,Dallas Stars,DAL
+106,25,55,Dallas Stars,Seattle Kraken,2022021130191,2022021130,Missed Shot,191,MISSED_SHOT,Oliver Bjorkstrand Wide of Net Jake Oettinger,2023-03-22T01:11:21Z,1,19:43,00:17,1,2,55.0,Seattle Kraken,SEA
+107,25,55,Dallas Stars,Seattle Kraken,2022021130192,2022021130,Missed Shot,192,MISSED_SHOT,Oliver Bjorkstrand Over Net Jake Oettinger,2023-03-22T01:11:25Z,1,19:47,00:13,1,2,55.0,Seattle Kraken,SEA
+108,25,55,Dallas Stars,Seattle Kraken,2022021130555,2022021130,Blocked Shot,555,BLOCKED_SHOT,Carson Soucy shot blocked shot by Joel Kiviranta,2023-03-22T01:11:29Z,1,19:51,00:09,1,2,25.0,Dallas Stars,DAL
+109,25,55,Dallas Stars,Seattle Kraken,2022021130193,2022021130,Missed Shot,193,MISSED_SHOT,Joel Kiviranta Over Net Joey Daccord,2023-03-22T01:11:37Z,1,19:59,00:01,1,2,25.0,Dallas Stars,DAL
+110,25,55,Dallas Stars,Seattle Kraken,202202113040,2022021130,Period End,40,PERIOD_END,End of 1st Period,2023-03-22T01:11:39Z,1,20:00,00:00,1,2,,,
+111,25,55,Dallas Stars,Seattle Kraken,202202113043,2022021130,Period Official,43,PERIOD_OFFICIAL,Period Official,2023-03-22T01:26:07Z,1,20:00,00:00,1,2,,,
+112,25,55,Dallas Stars,Seattle Kraken,202202113044,2022021130,Period Ready,44,PERIOD_READY,Period Ready,2023-03-22T01:28:13Z,2,00:00,20:00,1,2,,,
+113,25,55,Dallas Stars,Seattle Kraken,2022021130358,2022021130,Period Start,358,PERIOD_START,Period Start,2023-03-22T01:30:23Z,2,00:00,20:00,1,2,,,
+114,25,55,Dallas Stars,Seattle Kraken,2022021130359,2022021130,Faceoff,359,FACEOFF,Max Domi faceoff won against Yanni Gourde,2023-03-22T01:30:23Z,2,00:00,20:00,1,2,25.0,Dallas Stars,DAL
+115,25,55,Dallas Stars,Seattle Kraken,2022021130194,2022021130,Blocked Shot,194,BLOCKED_SHOT,Max Domi shot blocked shot by Adam Larsson,2023-03-22T01:30:40Z,2,00:17,19:43,1,2,55.0,Seattle Kraken,SEA
+116,25,55,Dallas Stars,Seattle Kraken,202202113081,2022021130,Hit,81,HIT,Joe Pavelski hit Will Borgen,2023-03-22T01:31:19Z,2,00:56,19:04,1,2,25.0,Dallas Stars,DAL
+117,25,55,Dallas Stars,Seattle Kraken,2022021130195,2022021130,Missed Shot,195,MISSED_SHOT,Jared McCann Wide of Net Jake Oettinger,2023-03-22T01:31:29Z,2,01:06,18:54,1,2,55.0,Seattle Kraken,SEA
+118,25,55,Dallas Stars,Seattle Kraken,2022021130196,2022021130,Shot,196,SHOT,Matty Beniers Wrist Shot saved by Jake Oettinger,2023-03-22T01:31:39Z,2,01:16,18:44,1,2,55.0,Seattle Kraken,SEA
+119,25,55,Dallas Stars,Seattle Kraken,2022021130197,2022021130,Blocked Shot,197,BLOCKED_SHOT,Jared McCann shot blocked shot by Joe Pavelski,2023-03-22T01:31:43Z,2,01:20,18:40,1,2,25.0,Dallas Stars,DAL
+120,25,55,Dallas Stars,Seattle Kraken,2022021130556,2022021130,Blocked Shot,556,BLOCKED_SHOT,Jason Robertson shot blocked shot by Jamie Oleksiak,2023-03-22T01:31:52Z,2,01:29,18:31,1,2,55.0,Seattle Kraken,SEA
+121,25,55,Dallas Stars,Seattle Kraken,2022021130198,2022021130,Goal,198,GOAL,"Jared McCann (34) Tip-In, assists: Jordan Eberle (38), Jamie Oleksiak (12)",2023-03-22T01:32:00Z,2,01:37,18:23,1,3,55.0,Seattle Kraken,SEA
+122,25,55,Dallas Stars,Seattle Kraken,2022021130360,2022021130,Faceoff,360,FACEOFF,Alex Wennberg faceoff won against Jamie Benn,2023-03-22T01:32:47Z,2,01:37,18:23,1,3,55.0,Seattle Kraken,SEA
+123,25,55,Dallas Stars,Seattle Kraken,202202113046,2022021130,Takeaway,46,TAKEAWAY,Takeaway by Fredrik Olofsson,2023-03-22T01:33:39Z,2,02:29,17:31,1,3,25.0,Dallas Stars,DAL
+124,25,55,Dallas Stars,Seattle Kraken,2022021130199,2022021130,Shot,199,SHOT,Fredrik Olofsson Wrist Shot saved by Joey Daccord,2023-03-22T01:33:42Z,2,02:32,17:28,1,3,25.0,Dallas Stars,DAL
+125,25,55,Dallas Stars,Seattle Kraken,202202113047,2022021130,Giveaway,47,GIVEAWAY,Giveaway by Radek Faksa,2023-03-22T01:33:50Z,2,02:40,17:20,1,3,25.0,Dallas Stars,DAL
+126,25,55,Dallas Stars,Seattle Kraken,202202113048,2022021130,Takeaway,48,TAKEAWAY,Takeaway by Justin Schultz,2023-03-22T01:33:59Z,2,02:49,17:11,1,3,55.0,Seattle Kraken,SEA
+127,25,55,Dallas Stars,Seattle Kraken,2022021130200,2022021130,Missed Shot,200,MISSED_SHOT,Daniel Sprong Wide of Net Jake Oettinger,2023-03-22T01:34:07Z,2,02:57,17:03,1,3,55.0,Seattle Kraken,SEA
+128,25,55,Dallas Stars,Seattle Kraken,202202113082,2022021130,Hit,82,HIT,Jani Hakanpää hit Eeli Tolvanen,2023-03-22T01:34:46Z,2,03:36,16:24,1,3,25.0,Dallas Stars,DAL
+129,25,55,Dallas Stars,Seattle Kraken,2022021130501,2022021130,Shot,501,SHOT,Jamie Oleksiak Slap Shot saved by Jake Oettinger,2023-03-22T01:34:53Z,2,03:43,16:17,1,3,55.0,Seattle Kraken,SEA
+130,25,55,Dallas Stars,Seattle Kraken,202202113049,2022021130,Stoppage,49,STOP,Goalie Stopped,2023-03-22T01:34:56Z,2,03:45,16:15,1,3,,,
+131,25,55,Dallas Stars,Seattle Kraken,2022021130361,2022021130,Faceoff,361,FACEOFF,Joe Pavelski faceoff won against Yanni Gourde,2023-03-22T01:35:28Z,2,03:45,16:15,1,3,25.0,Dallas Stars,DAL
+132,25,55,Dallas Stars,Seattle Kraken,202202113050,2022021130,Stoppage,50,STOP,Icing,2023-03-22T01:35:40Z,2,03:57,16:03,1,3,,,
+133,25,55,Dallas Stars,Seattle Kraken,2022021130362,2022021130,Faceoff,362,FACEOFF,Joe Pavelski faceoff won against Yanni Gourde,2023-03-22T01:36:03Z,2,03:57,16:03,1,3,25.0,Dallas Stars,DAL
+134,25,55,Dallas Stars,Seattle Kraken,2022021130502,2022021130,Shot,502,SHOT,Jason Robertson Wrist Shot saved by Joey Daccord,2023-03-22T01:36:10Z,2,04:04,15:56,1,3,25.0,Dallas Stars,DAL
+135,25,55,Dallas Stars,Seattle Kraken,2022021130503,2022021130,Missed Shot,503,MISSED_SHOT,Colin Miller Wide of Net Joey Daccord,2023-03-22T01:36:15Z,2,04:09,15:51,1,3,25.0,Dallas Stars,DAL
+136,25,55,Dallas Stars,Seattle Kraken,2022021130401,2022021130,Giveaway,401,GIVEAWAY,Giveaway by Evgenii Dadonov,2023-03-22T01:36:53Z,2,04:47,15:13,1,3,25.0,Dallas Stars,DAL
+137,25,55,Dallas Stars,Seattle Kraken,2022021130504,2022021130,Shot,504,SHOT,Jared McCann Snap Shot saved by Jake Oettinger,2023-03-22T01:37:14Z,2,05:08,14:52,1,3,55.0,Seattle Kraken,SEA
+138,25,55,Dallas Stars,Seattle Kraken,2022021130626,2022021130,Penalty,626,PENALTY,Jesper Froden Hooking against Jamie Benn,2023-03-22T01:37:35Z,2,05:29,14:31,1,3,55.0,Seattle Kraken,SEA
+139,25,55,Dallas Stars,Seattle Kraken,2022021130363,2022021130,Faceoff,363,FACEOFF,Jamie Benn faceoff won against Alex Wennberg,2023-03-22T01:38:31Z,2,05:29,14:31,1,3,25.0,Dallas Stars,DAL
+140,25,55,Dallas Stars,Seattle Kraken,2022021130505,2022021130,Shot,505,SHOT,Jamie Benn Wrist Shot saved by Joey Daccord,2023-03-22T01:38:38Z,2,05:36,14:24,1,3,25.0,Dallas Stars,DAL
+141,25,55,Dallas Stars,Seattle Kraken,2022021130402,2022021130,Giveaway,402,GIVEAWAY,Giveaway by Jamie Oleksiak,2023-03-22T01:38:41Z,2,05:39,14:21,1,3,55.0,Seattle Kraken,SEA
+142,25,55,Dallas Stars,Seattle Kraken,2022021130506,2022021130,Missed Shot,506,MISSED_SHOT,Roope Hintz Over Net Joey Daccord,2023-03-22T01:38:44Z,2,05:42,14:18,1,3,25.0,Dallas Stars,DAL
+143,25,55,Dallas Stars,Seattle Kraken,2022021130403,2022021130,Stoppage,403,STOP,Puck in Netting,2023-03-22T01:38:45Z,2,05:43,14:17,1,3,,,
+144,25,55,Dallas Stars,Seattle Kraken,2022021130364,2022021130,Faceoff,364,FACEOFF,Joe Pavelski faceoff won against Alex Wennberg,2023-03-22T01:39:18Z,2,05:43,14:17,1,3,25.0,Dallas Stars,DAL
+145,25,55,Dallas Stars,Seattle Kraken,2022021130507,2022021130,Missed Shot,507,MISSED_SHOT,Roope Hintz Wide of Net Joey Daccord,2023-03-22T01:39:53Z,2,06:18,13:42,1,3,25.0,Dallas Stars,DAL
+146,25,55,Dallas Stars,Seattle Kraken,2022021130404,2022021130,Stoppage,404,STOP,Puck in Benches,2023-03-22T01:41:17Z,2,07:42,12:18,1,3,,,
+147,25,55,Dallas Stars,Seattle Kraken,2022021130365,2022021130,Faceoff,365,FACEOFF,Luke Glendening faceoff won against Matty Beniers,2023-03-22T01:43:27Z,2,07:42,12:18,1,3,25.0,Dallas Stars,DAL
+148,25,55,Dallas Stars,Seattle Kraken,2022021130405,2022021130,Takeaway,405,TAKEAWAY,Takeaway by Colin Miller,2023-03-22T01:43:47Z,2,08:02,11:58,1,3,25.0,Dallas Stars,DAL
+149,25,55,Dallas Stars,Seattle Kraken,2022021130648,2022021130,Penalty,648,PENALTY,Carson Soucy Tripping against Luke Glendening,2023-03-22T01:43:54Z,2,08:09,11:51,1,3,55.0,Seattle Kraken,SEA
+150,25,55,Dallas Stars,Seattle Kraken,2022021130366,2022021130,Faceoff,366,FACEOFF,Joe Pavelski faceoff won against Alex Wennberg,2023-03-22T01:44:33Z,2,08:09,11:51,1,3,25.0,Dallas Stars,DAL
+151,25,55,Dallas Stars,Seattle Kraken,2022021130508,2022021130,Missed Shot,508,MISSED_SHOT,Jason Robertson Wide of Net Joey Daccord,2023-03-22T01:44:42Z,2,08:18,11:42,1,3,25.0,Dallas Stars,DAL
+152,25,55,Dallas Stars,Seattle Kraken,2022021130406,2022021130,Giveaway,406,GIVEAWAY,Giveaway by Roope Hintz,2023-03-22T01:45:03Z,2,08:39,11:21,1,3,25.0,Dallas Stars,DAL
+153,25,55,Dallas Stars,Seattle Kraken,2022021130407,2022021130,Takeaway,407,TAKEAWAY,Takeaway by Jamie Oleksiak,2023-03-22T01:45:21Z,2,08:57,11:03,1,3,55.0,Seattle Kraken,SEA
+154,25,55,Dallas Stars,Seattle Kraken,2022021130509,2022021130,Missed Shot,509,MISSED_SHOT,Radek Faksa Wide of Net Joey Daccord,2023-03-22T01:45:55Z,2,09:31,10:29,1,3,25.0,Dallas Stars,DAL
+155,25,55,Dallas Stars,Seattle Kraken,2022021130510,2022021130,Shot,510,SHOT,Miro Heiskanen Slap Shot saved by Joey Daccord,2023-03-22T01:46:04Z,2,09:40,10:20,1,3,25.0,Dallas Stars,DAL
+156,25,55,Dallas Stars,Seattle Kraken,2022021130511,2022021130,Shot,511,SHOT,Radek Faksa Backhand saved by Joey Daccord,2023-03-22T01:46:06Z,2,09:42,10:18,1,3,25.0,Dallas Stars,DAL
+157,25,55,Dallas Stars,Seattle Kraken,2022021130512,2022021130,Blocked Shot,512,BLOCKED_SHOT,Jason Robertson shot blocked shot by Yanni Gourde,2023-03-22T01:46:30Z,2,10:06,09:54,1,3,55.0,Seattle Kraken,SEA
+158,25,55,Dallas Stars,Seattle Kraken,2022021130513,2022021130,Shot,513,SHOT,Yanni Gourde Wrist Shot saved by Jake Oettinger,2023-03-22T01:46:45Z,2,10:21,09:39,1,3,55.0,Seattle Kraken,SEA
+159,25,55,Dallas Stars,Seattle Kraken,2022021130514,2022021130,Missed Shot,514,MISSED_SHOT,Matty Beniers Wide of Net Jake Oettinger,2023-03-22T01:46:58Z,2,10:34,09:26,1,3,55.0,Seattle Kraken,SEA
+160,25,55,Dallas Stars,Seattle Kraken,2022021130408,2022021130,Stoppage,408,STOP,TV timeout,2023-03-22T01:47:02Z,2,10:37,09:23,1,3,,,
+161,25,55,Dallas Stars,Seattle Kraken,2022021130670,2022021130,Penalty,670,PENALTY,Jamie Benn Hooking against Matty Beniers,2023-03-22T01:47:02Z,2,10:37,09:23,1,3,25.0,Dallas Stars,DAL
+162,25,55,Dallas Stars,Seattle Kraken,2022021130367,2022021130,Faceoff,367,FACEOFF,Luke Glendening faceoff won against Alex Wennberg,2023-03-22T01:49:14Z,2,10:37,09:23,1,3,25.0,Dallas Stars,DAL
+163,25,55,Dallas Stars,Seattle Kraken,2022021130515,2022021130,Shot,515,SHOT,Luke Glendening Wrist Shot saved by Joey Daccord,2023-03-22T01:49:24Z,2,10:47,09:13,1,3,25.0,Dallas Stars,DAL
+164,25,55,Dallas Stars,Seattle Kraken,2022021130409,2022021130,Giveaway,409,GIVEAWAY,Giveaway by Jared McCann,2023-03-22T01:49:38Z,2,11:01,08:59,1,3,55.0,Seattle Kraken,SEA
+165,25,55,Dallas Stars,Seattle Kraken,2022021130516,2022021130,Shot,516,SHOT,Esa Lindell Wrist Shot saved by Joey Daccord,2023-03-22T01:49:41Z,2,11:04,08:56,1,3,25.0,Dallas Stars,DAL
+166,25,55,Dallas Stars,Seattle Kraken,2022021130517,2022021130,Blocked Shot,517,BLOCKED_SHOT,Vince Dunn shot blocked shot by Jani Hakanpää,2023-03-22T01:50:26Z,2,11:49,08:11,1,3,25.0,Dallas Stars,DAL
+167,25,55,Dallas Stars,Seattle Kraken,2022021130518,2022021130,Blocked Shot,518,BLOCKED_SHOT,Justin Schultz shot blocked shot by Luke Glendening,2023-03-22T01:51:00Z,2,12:23,07:37,1,3,25.0,Dallas Stars,DAL
+168,25,55,Dallas Stars,Seattle Kraken,2022021130519,2022021130,Shot,519,SHOT,Jamie Benn Wrist Shot saved by Joey Daccord,2023-03-22T01:51:21Z,2,12:44,07:16,1,3,25.0,Dallas Stars,DAL
+169,25,55,Dallas Stars,Seattle Kraken,2022021130410,2022021130,Stoppage,410,STOP,Goalie Stopped,2023-03-22T01:51:22Z,2,12:45,07:15,1,3,,,
+170,25,55,Dallas Stars,Seattle Kraken,2022021130368,2022021130,Faceoff,368,FACEOFF,Morgan Geekie faceoff won against Roope Hintz,2023-03-22T01:52:11Z,2,12:45,07:15,1,3,55.0,Seattle Kraken,SEA
+171,25,55,Dallas Stars,Seattle Kraken,2022021130411,2022021130,Giveaway,411,GIVEAWAY,Giveaway by Roope Hintz,2023-03-22T01:52:49Z,2,13:23,06:37,1,3,25.0,Dallas Stars,DAL
+172,25,55,Dallas Stars,Seattle Kraken,2022021130520,2022021130,Shot,520,SHOT,Daniel Sprong Slap Shot saved by Jake Oettinger,2023-03-22T01:53:09Z,2,13:43,06:17,1,3,55.0,Seattle Kraken,SEA
+173,25,55,Dallas Stars,Seattle Kraken,2022021130521,2022021130,Shot,521,SHOT,Jason Robertson Slap Shot saved by Joey Daccord,2023-03-22T01:53:23Z,2,13:57,06:03,1,3,25.0,Dallas Stars,DAL
+174,25,55,Dallas Stars,Seattle Kraken,2022021130412,2022021130,Giveaway,412,GIVEAWAY,Giveaway by Jason Robertson,2023-03-22T01:53:30Z,2,14:04,05:56,1,3,25.0,Dallas Stars,DAL
+175,25,55,Dallas Stars,Seattle Kraken,2022021130522,2022021130,Shot,522,SHOT,Esa Lindell Snap Shot saved by Joey Daccord,2023-03-22T01:53:50Z,2,14:24,05:36,1,3,25.0,Dallas Stars,DAL
+176,25,55,Dallas Stars,Seattle Kraken,2022021130523,2022021130,Missed Shot,523,MISSED_SHOT,Evgenii Dadonov Wide of Net Joey Daccord,2023-03-22T01:54:10Z,2,14:44,05:16,1,3,25.0,Dallas Stars,DAL
+177,25,55,Dallas Stars,Seattle Kraken,2022021130524,2022021130,Shot,524,SHOT,Wyatt Johnston Wrist Shot saved by Joey Daccord,2023-03-22T01:54:34Z,2,15:08,04:52,1,3,25.0,Dallas Stars,DAL
+178,25,55,Dallas Stars,Seattle Kraken,2022021130415,2022021130,Stoppage,415,STOP,Goalie Stopped,2023-03-22T01:54:35Z,2,15:09,04:51,1,3,,,
+179,25,55,Dallas Stars,Seattle Kraken,2022021130369,2022021130,Faceoff,369,FACEOFF,Matty Beniers faceoff won against Max Domi,2023-03-22T01:56:50Z,2,15:09,04:51,1,3,55.0,Seattle Kraken,SEA
+180,25,55,Dallas Stars,Seattle Kraken,2022021130525,2022021130,Shot,525,SHOT,Miro Heiskanen Snap Shot saved by Joey Daccord,2023-03-22T01:56:54Z,2,15:13,04:47,1,3,25.0,Dallas Stars,DAL
+181,25,55,Dallas Stars,Seattle Kraken,202202113084,2022021130,Hit,84,HIT,Fredrik Olofsson hit Vince Dunn,2023-03-22T01:57:31Z,2,15:50,04:10,1,3,25.0,Dallas Stars,DAL
+182,25,55,Dallas Stars,Seattle Kraken,2022021130416,2022021130,Stoppage,416,STOP,Offside,2023-03-22T01:58:01Z,2,16:21,03:39,1,3,,,
+183,25,55,Dallas Stars,Seattle Kraken,2022021130370,2022021130,Faceoff,370,FACEOFF,Roope Hintz faceoff won against Yanni Gourde,2023-03-22T01:58:28Z,2,16:21,03:39,1,3,25.0,Dallas Stars,DAL
+184,25,55,Dallas Stars,Seattle Kraken,2022021130526,2022021130,Shot,526,SHOT,Yanni Gourde Backhand saved by Jake Oettinger,2023-03-22T01:58:42Z,2,16:35,03:25,1,3,55.0,Seattle Kraken,SEA
+185,25,55,Dallas Stars,Seattle Kraken,202202113085,2022021130,Hit,85,HIT,Ryan Suter hit Yanni Gourde,2023-03-22T01:58:44Z,2,16:37,03:23,1,3,25.0,Dallas Stars,DAL
+186,25,55,Dallas Stars,Seattle Kraken,202202113086,2022021130,Hit,86,HIT,Esa Lindell hit Oliver Bjorkstrand,2023-03-22T01:58:57Z,2,16:50,03:10,1,3,25.0,Dallas Stars,DAL
+187,25,55,Dallas Stars,Seattle Kraken,2022021130417,2022021130,Stoppage,417,STOP,Puck Frozen,2023-03-22T01:59:04Z,2,16:56,03:04,1,3,,,
+188,25,55,Dallas Stars,Seattle Kraken,2022021130371,2022021130,Faceoff,371,FACEOFF,Wyatt Johnston faceoff won against Morgan Geekie,2023-03-22T01:59:37Z,2,16:56,03:04,1,3,25.0,Dallas Stars,DAL
+189,25,55,Dallas Stars,Seattle Kraken,2022021130418,2022021130,Giveaway,418,GIVEAWAY,Giveaway by Colin Miller,2023-03-22T01:59:48Z,2,17:07,02:53,1,3,25.0,Dallas Stars,DAL
+190,25,55,Dallas Stars,Seattle Kraken,2022021130527,2022021130,Blocked Shot,527,BLOCKED_SHOT,Morgan Geekie shot blocked shot by Colin Miller,2023-03-22T01:59:48Z,2,17:07,02:53,1,3,25.0,Dallas Stars,DAL
+191,25,55,Dallas Stars,Seattle Kraken,2022021130528,2022021130,Missed Shot,528,MISSED_SHOT,Morgan Geekie Wide of Net Jake Oettinger,2023-03-22T02:00:14Z,2,17:33,02:27,1,3,55.0,Seattle Kraken,SEA
+192,25,55,Dallas Stars,Seattle Kraken,202202113087,2022021130,Hit,87,HIT,Jani Hakanpää hit Jordan Eberle,2023-03-22T02:01:03Z,2,18:22,01:38,1,3,25.0,Dallas Stars,DAL
+193,25,55,Dallas Stars,Seattle Kraken,2022021130419,2022021130,Stoppage,419,STOP,Offside,2023-03-22T02:01:15Z,2,18:34,01:26,1,3,,,
+194,25,55,Dallas Stars,Seattle Kraken,2022021130372,2022021130,Faceoff,372,FACEOFF,Alex Wennberg faceoff won against Luke Glendening,2023-03-22T02:01:52Z,2,18:34,01:26,1,3,55.0,Seattle Kraken,SEA
+195,25,55,Dallas Stars,Seattle Kraken,2022021130420,2022021130,Stoppage,420,STOP,Puck in Crowd,2023-03-22T02:01:59Z,2,18:41,01:19,1,3,,,
+196,25,55,Dallas Stars,Seattle Kraken,2022021130373,2022021130,Faceoff,373,FACEOFF,Roope Hintz faceoff won against Jaden Schwartz,2023-03-22T02:02:34Z,2,18:41,01:19,1,3,25.0,Dallas Stars,DAL
+197,25,55,Dallas Stars,Seattle Kraken,202202113088,2022021130,Hit,88,HIT,Colin Miller hit Alex Wennberg,2023-03-22T02:02:50Z,2,18:57,01:03,1,3,25.0,Dallas Stars,DAL
+198,25,55,Dallas Stars,Seattle Kraken,2022021130421,2022021130,Takeaway,421,TAKEAWAY,Takeaway by Jason Robertson,2023-03-22T02:03:00Z,2,19:07,00:53,1,3,25.0,Dallas Stars,DAL
+199,25,55,Dallas Stars,Seattle Kraken,2022021130422,2022021130,Takeaway,422,TAKEAWAY,Takeaway by Carson Soucy,2023-03-22T02:03:16Z,2,19:23,00:37,1,3,55.0,Seattle Kraken,SEA
+200,25,55,Dallas Stars,Seattle Kraken,202202113089,2022021130,Hit,89,HIT,Esa Lindell hit Eeli Tolvanen,2023-03-22T02:03:34Z,2,19:41,00:19,1,3,25.0,Dallas Stars,DAL
+201,25,55,Dallas Stars,Seattle Kraken,2022021130529,2022021130,Blocked Shot,529,BLOCKED_SHOT,Eeli Tolvanen shot blocked shot by Esa Lindell,2023-03-22T02:03:35Z,2,19:42,00:18,1,3,25.0,Dallas Stars,DAL
+202,25,55,Dallas Stars,Seattle Kraken,2022021130423,2022021130,Giveaway,423,GIVEAWAY,Giveaway by Esa Lindell,2023-03-22T02:03:47Z,2,19:54,00:06,1,3,25.0,Dallas Stars,DAL
+203,25,55,Dallas Stars,Seattle Kraken,2022021130424,2022021130,Period End,424,PERIOD_END,End of 2nd Period,2023-03-22T02:03:53Z,2,20:00,00:00,1,3,,,
+204,25,55,Dallas Stars,Seattle Kraken,2022021130427,2022021130,Period Official,427,PERIOD_OFFICIAL,Period Official,2023-03-22T02:09:08Z,2,20:00,00:00,1,3,,,
+205,25,55,Dallas Stars,Seattle Kraken,2022021130428,2022021130,Period Ready,428,PERIOD_READY,Period Ready,2023-03-22T02:20:39Z,3,00:00,20:00,1,3,,,
+206,25,55,Dallas Stars,Seattle Kraken,2022021130374,2022021130,Period Start,374,PERIOD_START,Period Start,2023-03-22T02:22:36Z,3,00:00,20:00,1,3,,,
+207,25,55,Dallas Stars,Seattle Kraken,2022021130375,2022021130,Faceoff,375,FACEOFF,Joe Pavelski faceoff won against Yanni Gourde,2023-03-22T02:22:36Z,3,00:00,20:00,1,3,25.0,Dallas Stars,DAL
+208,25,55,Dallas Stars,Seattle Kraken,2022021130530,2022021130,Blocked Shot,530,BLOCKED_SHOT,Colin Miller shot blocked shot by Adam Larsson,2023-03-22T02:22:46Z,3,00:10,19:50,1,3,55.0,Seattle Kraken,SEA
+209,25,55,Dallas Stars,Seattle Kraken,2022021130531,2022021130,Blocked Shot,531,BLOCKED_SHOT,Joe Pavelski shot blocked shot by Adam Larsson,2023-03-22T02:22:47Z,3,00:11,19:49,1,3,55.0,Seattle Kraken,SEA
+210,25,55,Dallas Stars,Seattle Kraken,2022021130429,2022021130,Giveaway,429,GIVEAWAY,Giveaway by Wyatt Johnston,2023-03-22T02:23:07Z,3,00:31,19:29,1,3,25.0,Dallas Stars,DAL
+211,25,55,Dallas Stars,Seattle Kraken,2022021130430,2022021130,Stoppage,430,STOP,Offside,2023-03-22T02:23:23Z,3,00:46,19:14,1,3,,,
+212,25,55,Dallas Stars,Seattle Kraken,2022021130376,2022021130,Faceoff,376,FACEOFF,Wyatt Johnston faceoff won against Matty Beniers,2023-03-22T02:23:50Z,3,00:46,19:14,1,3,25.0,Dallas Stars,DAL
+213,25,55,Dallas Stars,Seattle Kraken,2022021130431,2022021130,Takeaway,431,TAKEAWAY,Takeaway by Jordan Eberle,2023-03-22T02:23:52Z,3,00:48,19:12,1,3,55.0,Seattle Kraken,SEA
+214,25,55,Dallas Stars,Seattle Kraken,2022021130532,2022021130,Shot,532,SHOT,Jordan Eberle Backhand saved by Jake Oettinger,2023-03-22T02:23:54Z,3,00:50,19:10,1,3,55.0,Seattle Kraken,SEA
+215,25,55,Dallas Stars,Seattle Kraken,2022021130432,2022021130,Stoppage,432,STOP,Goalie Stopped,2023-03-22T02:23:56Z,3,00:52,19:08,1,3,,,
+216,25,55,Dallas Stars,Seattle Kraken,2022021130377,2022021130,Faceoff,377,FACEOFF,Matty Beniers faceoff won against Wyatt Johnston,2023-03-22T02:24:22Z,3,00:52,19:08,1,3,55.0,Seattle Kraken,SEA
+217,25,55,Dallas Stars,Seattle Kraken,2022021130433,2022021130,Stoppage,433,STOP,Offside,2023-03-22T02:25:26Z,3,01:56,18:04,1,3,,,
+218,25,55,Dallas Stars,Seattle Kraken,2022021130378,2022021130,Faceoff,378,FACEOFF,Morgan Geekie faceoff won against Max Domi,2023-03-22T02:25:50Z,3,01:56,18:04,1,3,55.0,Seattle Kraken,SEA
+219,25,55,Dallas Stars,Seattle Kraken,2022021130533,2022021130,Missed Shot,533,MISSED_SHOT,Brandon Tanev Wide of Net Jake Oettinger,2023-03-22T02:25:59Z,3,02:05,17:55,1,3,55.0,Seattle Kraken,SEA
+220,25,55,Dallas Stars,Seattle Kraken,2022021130434,2022021130,Stoppage,434,STOP,Puck Frozen,2023-03-22T02:26:01Z,3,02:07,17:53,1,3,,,
+221,25,55,Dallas Stars,Seattle Kraken,2022021130379,2022021130,Faceoff,379,FACEOFF,Luke Glendening faceoff won against Brandon Tanev,2023-03-22T02:26:31Z,3,02:07,17:53,1,3,25.0,Dallas Stars,DAL
+222,25,55,Dallas Stars,Seattle Kraken,2022021130435,2022021130,Takeaway,435,TAKEAWAY,Takeaway by Yanni Gourde,2023-03-22T02:27:43Z,3,03:19,16:41,1,3,55.0,Seattle Kraken,SEA
+223,25,55,Dallas Stars,Seattle Kraken,2022021130534,2022021130,Shot,534,SHOT,Yanni Gourde Wrist Shot saved by Jake Oettinger,2023-03-22T02:27:44Z,3,03:20,16:40,1,3,55.0,Seattle Kraken,SEA
+224,25,55,Dallas Stars,Seattle Kraken,2022021130436,2022021130,Stoppage,436,STOP,Goalie Stopped,2023-03-22T02:27:46Z,3,03:21,16:39,1,3,,,
+225,25,55,Dallas Stars,Seattle Kraken,2022021130380,2022021130,Faceoff,380,FACEOFF,Wyatt Johnston faceoff won against Yanni Gourde,2023-03-22T02:28:12Z,3,03:21,16:39,1,3,25.0,Dallas Stars,DAL
+226,25,55,Dallas Stars,Seattle Kraken,2022021130535,2022021130,Goal,535,GOAL,"Wyatt Johnston (21) Snap Shot, assists: Jamie Benn (39), Ryan Suter (19)",2023-03-22T02:28:48Z,3,03:57,16:03,2,3,25.0,Dallas Stars,DAL
+227,25,55,Dallas Stars,Seattle Kraken,2022021130381,2022021130,Faceoff,381,FACEOFF,Matty Beniers faceoff won against Ty Dellandrea,2023-03-22T02:29:28Z,3,03:57,16:03,2,3,55.0,Seattle Kraken,SEA
+228,25,55,Dallas Stars,Seattle Kraken,2022021130437,2022021130,Giveaway,437,GIVEAWAY,Giveaway by Max Domi,2023-03-22T02:30:08Z,3,04:37,15:23,2,3,25.0,Dallas Stars,DAL
+229,25,55,Dallas Stars,Seattle Kraken,202202113090,2022021130,Hit,90,HIT,Jani Hakanpää hit Alex Wennberg,2023-03-22T02:30:23Z,3,04:52,15:08,2,3,25.0,Dallas Stars,DAL
+230,25,55,Dallas Stars,Seattle Kraken,2022021130536,2022021130,Shot,536,SHOT,Vince Dunn Slap Shot saved by Jake Oettinger,2023-03-22T02:30:24Z,3,04:53,15:07,2,3,55.0,Seattle Kraken,SEA
+231,25,55,Dallas Stars,Seattle Kraken,2022021130438,2022021130,Stoppage,438,STOP,Puck in Benches,2023-03-22T02:30:34Z,3,05:02,14:58,2,3,,,
+232,25,55,Dallas Stars,Seattle Kraken,2022021130382,2022021130,Faceoff,382,FACEOFF,Joe Pavelski faceoff won against Alex Wennberg,2023-03-22T02:31:10Z,3,05:02,14:58,2,3,25.0,Dallas Stars,DAL
+233,25,55,Dallas Stars,Seattle Kraken,2022021130440,2022021130,Stoppage,440,STOP,TV timeout,2023-03-22T02:32:17Z,3,06:09,13:51,2,3,,,
+234,25,55,Dallas Stars,Seattle Kraken,2022021130796,2022021130,Penalty,796,PENALTY,Yanni Gourde Slashing against Jani Hakanpää,2023-03-22T02:32:17Z,3,06:09,13:51,2,3,55.0,Seattle Kraken,SEA
+235,25,55,Dallas Stars,Seattle Kraken,2022021130383,2022021130,Faceoff,383,FACEOFF,Joe Pavelski faceoff won against Alex Wennberg,2023-03-22T02:34:33Z,3,06:09,13:51,2,3,25.0,Dallas Stars,DAL
+236,25,55,Dallas Stars,Seattle Kraken,2022021130537,2022021130,Shot,537,SHOT,Jamie Benn Wrist Shot saved by Joey Daccord,2023-03-22T02:34:58Z,3,06:34,13:26,2,3,25.0,Dallas Stars,DAL
+237,25,55,Dallas Stars,Seattle Kraken,2022021130538,2022021130,Shot,538,SHOT,Roope Hintz Wrist Shot saved by Joey Daccord,2023-03-22T02:35:15Z,3,06:51,13:09,2,3,25.0,Dallas Stars,DAL
+238,25,55,Dallas Stars,Seattle Kraken,2022021130959,2022021130,Penalty,959,PENALTY,Miro Heiskanen Interference against Jared McCann,2023-03-22T02:35:41Z,3,07:18,12:42,2,3,25.0,Dallas Stars,DAL
+239,25,55,Dallas Stars,Seattle Kraken,2022021130384,2022021130,Faceoff,384,FACEOFF,Matty Beniers faceoff won against Wyatt Johnston,2023-03-22T02:36:35Z,3,07:18,12:42,2,3,55.0,Seattle Kraken,SEA
+240,25,55,Dallas Stars,Seattle Kraken,2022021130539,2022021130,Shot,539,SHOT,Matty Beniers Tip-In saved by Jake Oettinger,2023-03-22T02:36:40Z,3,07:23,12:37,2,3,55.0,Seattle Kraken,SEA
+241,25,55,Dallas Stars,Seattle Kraken,2022021130540,2022021130,Missed Shot,540,MISSED_SHOT,Ryan Suter Wide of Net Joey Daccord,2023-03-22T02:37:05Z,3,07:48,12:12,2,3,25.0,Dallas Stars,DAL
+242,25,55,Dallas Stars,Seattle Kraken,2022021130541,2022021130,Shot,541,SHOT,Wyatt Johnston Wrist Shot saved by Joey Daccord,2023-03-22T02:37:13Z,3,07:56,12:04,2,3,25.0,Dallas Stars,DAL
+243,25,55,Dallas Stars,Seattle Kraken,2022021130441,2022021130,Giveaway,441,GIVEAWAY,Giveaway by Colin Miller,2023-03-22T02:37:25Z,3,08:08,11:52,2,3,25.0,Dallas Stars,DAL
+244,25,55,Dallas Stars,Seattle Kraken,202202113091,2022021130,Hit,91,HIT,Esa Lindell hit Vince Dunn,2023-03-22T02:38:05Z,3,08:48,11:12,2,3,25.0,Dallas Stars,DAL
+245,25,55,Dallas Stars,Seattle Kraken,2022021130442,2022021130,Giveaway,442,GIVEAWAY,Giveaway by Jani Hakanpää,2023-03-22T02:38:20Z,3,09:03,10:57,2,3,25.0,Dallas Stars,DAL
+246,25,55,Dallas Stars,Seattle Kraken,2022021130443,2022021130,Giveaway,443,GIVEAWAY,Giveaway by Jason Robertson,2023-03-22T02:38:48Z,3,09:31,10:29,2,3,25.0,Dallas Stars,DAL
+247,25,55,Dallas Stars,Seattle Kraken,2022021130444,2022021130,Stoppage,444,STOP,Offside,2023-03-22T02:38:59Z,3,09:41,10:19,2,3,,,
+248,25,55,Dallas Stars,Seattle Kraken,2022021130385,2022021130,Faceoff,385,FACEOFF,Roope Hintz faceoff won against Yanni Gourde,2023-03-22T02:39:32Z,3,09:41,10:19,2,3,25.0,Dallas Stars,DAL
+249,25,55,Dallas Stars,Seattle Kraken,202202113092,2022021130,Hit,92,HIT,Jaden Schwartz hit Roope Hintz,2023-03-22T02:39:57Z,3,10:06,09:54,2,3,55.0,Seattle Kraken,SEA
+250,25,55,Dallas Stars,Seattle Kraken,2022021130542,2022021130,Shot,542,SHOT,Colin Miller Slap Shot saved by Joey Daccord,2023-03-22T02:40:05Z,3,10:14,09:46,2,3,25.0,Dallas Stars,DAL
+251,25,55,Dallas Stars,Seattle Kraken,2022021130445,2022021130,Stoppage,445,STOP,Icing,2023-03-22T02:40:11Z,3,10:20,09:40,2,3,,,
+252,25,55,Dallas Stars,Seattle Kraken,2022021130386,2022021130,Faceoff,386,FACEOFF,Jamie Benn faceoff won against Yanni Gourde,2023-03-22T02:40:43Z,3,10:20,09:40,2,3,25.0,Dallas Stars,DAL
+253,25,55,Dallas Stars,Seattle Kraken,2022021130543,2022021130,Missed Shot,543,MISSED_SHOT,Jamie Benn Wide of Net Joey Daccord,2023-03-22T02:40:46Z,3,10:23,09:37,2,3,25.0,Dallas Stars,DAL
+254,25,55,Dallas Stars,Seattle Kraken,2022021130557,2022021130,Missed Shot,557,MISSED_SHOT,Adam Larsson Over Net Jake Oettinger,2023-03-22T02:41:11Z,3,10:48,09:12,2,3,55.0,Seattle Kraken,SEA
+255,25,55,Dallas Stars,Seattle Kraken,2022021130544,2022021130,Shot,544,SHOT,Matty Beniers Wrist Shot saved by Jake Oettinger,2023-03-22T02:41:22Z,3,10:59,09:01,2,3,55.0,Seattle Kraken,SEA
+256,25,55,Dallas Stars,Seattle Kraken,202202113093,2022021130,Hit,93,HIT,Matty Beniers hit Ty Dellandrea,2023-03-22T02:41:29Z,3,11:06,08:54,2,3,55.0,Seattle Kraken,SEA
+257,25,55,Dallas Stars,Seattle Kraken,2022021130446,2022021130,Giveaway,446,GIVEAWAY,Giveaway by Morgan Geekie,2023-03-22T02:42:16Z,3,11:53,08:07,2,3,55.0,Seattle Kraken,SEA
+258,25,55,Dallas Stars,Seattle Kraken,2022021130546,2022021130,Shot,546,SHOT,Ryan Suter Wrist Shot saved by Joey Daccord,2023-03-22T02:42:44Z,3,12:21,07:39,2,3,25.0,Dallas Stars,DAL
+259,25,55,Dallas Stars,Seattle Kraken,2022021130447,2022021130,Stoppage,447,STOP,Goalie Stopped,2023-03-22T02:42:44Z,3,12:22,07:38,2,3,,,
+260,25,55,Dallas Stars,Seattle Kraken,2022021130387,2022021130,Faceoff,387,FACEOFF,Roope Hintz faceoff won against Matty Beniers,2023-03-22T02:45:01Z,3,12:22,07:38,2,3,25.0,Dallas Stars,DAL
+261,25,55,Dallas Stars,Seattle Kraken,2022021130448,2022021130,Giveaway,448,GIVEAWAY,Giveaway by Joe Pavelski,2023-03-22T02:45:18Z,3,12:39,07:21,2,3,25.0,Dallas Stars,DAL
+262,25,55,Dallas Stars,Seattle Kraken,2022021130449,2022021130,Giveaway,449,GIVEAWAY,Giveaway by Jason Robertson,2023-03-22T02:45:37Z,3,12:58,07:02,2,3,25.0,Dallas Stars,DAL
+263,25,55,Dallas Stars,Seattle Kraken,2022021130450,2022021130,Takeaway,450,TAKEAWAY,Takeaway by Alex Wennberg,2023-03-22T02:45:56Z,3,13:17,06:43,2,3,55.0,Seattle Kraken,SEA
+264,25,55,Dallas Stars,Seattle Kraken,2022021130547,2022021130,Shot,547,SHOT,Evgenii Dadonov Slap Shot saved by Joey Daccord,2023-03-22T02:46:08Z,3,13:29,06:31,2,3,25.0,Dallas Stars,DAL
+265,25,55,Dallas Stars,Seattle Kraken,2022021130901,2022021130,Giveaway,901,GIVEAWAY,Giveaway by Jamie Benn,2023-03-22T02:46:15Z,3,13:36,06:24,2,3,25.0,Dallas Stars,DAL
+266,25,55,Dallas Stars,Seattle Kraken,2022021130902,2022021130,Giveaway,902,GIVEAWAY,Giveaway by Esa Lindell,2023-03-22T02:46:30Z,3,13:51,06:09,2,3,25.0,Dallas Stars,DAL
+267,25,55,Dallas Stars,Seattle Kraken,2022021130548,2022021130,Shot,548,SHOT,Yanni Gourde Deflected saved by Jake Oettinger,2023-03-22T02:46:31Z,3,13:52,06:08,2,3,55.0,Seattle Kraken,SEA
+268,25,55,Dallas Stars,Seattle Kraken,2022021130903,2022021130,Stoppage,903,STOP,Goalie Stopped,2023-03-22T02:46:32Z,3,13:53,06:07,2,3,,,
+269,25,55,Dallas Stars,Seattle Kraken,2022021130388,2022021130,Faceoff,388,FACEOFF,Morgan Geekie faceoff won against Luke Glendening,2023-03-22T02:47:08Z,3,13:53,06:07,2,3,55.0,Seattle Kraken,SEA
+270,25,55,Dallas Stars,Seattle Kraken,2022021130549,2022021130,Goal,549,GOAL,"Brandon Tanev (15) Snap Shot, assists: Morgan Geekie (15), Carson Soucy (11)",2023-03-22T02:47:18Z,3,14:03,05:57,2,4,55.0,Seattle Kraken,SEA
+271,25,55,Dallas Stars,Seattle Kraken,2022021130389,2022021130,Faceoff,389,FACEOFF,Yanni Gourde faceoff won against Ty Dellandrea,2023-03-22T02:47:58Z,3,14:03,05:57,2,4,55.0,Seattle Kraken,SEA
+272,25,55,Dallas Stars,Seattle Kraken,2022021130904,2022021130,Takeaway,904,TAKEAWAY,Takeaway by Yanni Gourde,2023-03-22T02:48:15Z,3,14:20,05:40,2,4,55.0,Seattle Kraken,SEA
+273,25,55,Dallas Stars,Seattle Kraken,2022021130905,2022021130,Stoppage,905,STOP,Challenge Away: goalie interference,2023-03-22T02:48:39Z,3,14:45,05:15,2,4,,,
+274,25,55,Dallas Stars,Seattle Kraken,2022021130906,2022021130,Official Challenge,906,CHALLENGE,Coach's Challenge,2023-03-22T02:48:40Z,3,14:45,05:15,2,4,55.0,Seattle Kraken,SEA
+275,25,55,Dallas Stars,Seattle Kraken,2022021130907,2022021130,Stoppage,907,STOP,TV timeout,2023-03-22T02:48:40Z,3,14:45,05:15,2,4,,,
+276,25,55,Dallas Stars,Seattle Kraken,2022021130391,2022021130,Faceoff,391,FACEOFF,Matty Beniers faceoff won against Joe Pavelski,2023-03-22T02:53:12Z,3,14:45,05:15,2,4,55.0,Seattle Kraken,SEA
+277,25,55,Dallas Stars,Seattle Kraken,2022021130908,2022021130,Takeaway,908,TAKEAWAY,Takeaway by Roope Hintz,2023-03-22T02:53:17Z,3,14:50,05:10,2,4,25.0,Dallas Stars,DAL
+278,25,55,Dallas Stars,Seattle Kraken,2022021130802,2022021130,Missed Shot,802,MISSED_SHOT,Roope Hintz Wide of Net Joey Daccord,2023-03-22T02:53:19Z,3,14:51,05:09,2,4,25.0,Dallas Stars,DAL
+279,25,55,Dallas Stars,Seattle Kraken,2022021130803,2022021130,Blocked Shot,803,BLOCKED_SHOT,Jason Robertson shot blocked shot by Adam Larsson,2023-03-22T02:53:27Z,3,15:00,05:00,2,4,55.0,Seattle Kraken,SEA
+280,25,55,Dallas Stars,Seattle Kraken,2022021130909,2022021130,Stoppage,909,STOP,Icing,2023-03-22T02:54:15Z,3,15:48,04:12,2,4,,,
+281,25,55,Dallas Stars,Seattle Kraken,2022021130392,2022021130,Faceoff,392,FACEOFF,Ty Dellandrea faceoff won against Yanni Gourde,2023-03-22T02:54:40Z,3,15:48,04:12,2,4,25.0,Dallas Stars,DAL
+282,25,55,Dallas Stars,Seattle Kraken,2022021130804,2022021130,Shot,804,SHOT,Wyatt Johnston Wrap-around saved by Joey Daccord,2023-03-22T02:55:01Z,3,16:09,03:51,2,4,25.0,Dallas Stars,DAL
+283,25,55,Dallas Stars,Seattle Kraken,2022021130910,2022021130,Takeaway,910,TAKEAWAY,Takeaway by Wyatt Johnston,2023-03-22T02:55:02Z,3,16:10,03:50,2,4,25.0,Dallas Stars,DAL
+284,25,55,Dallas Stars,Seattle Kraken,2022021130805,2022021130,Goal,805,GOAL,"Joe Pavelski (20) Deflected, assists: Evgenii Dadonov (20), Jamie Benn (40)",2023-03-22T02:55:27Z,3,16:34,03:26,3,4,25.0,Dallas Stars,DAL
+285,25,55,Dallas Stars,Seattle Kraken,2022021130393,2022021130,Faceoff,393,FACEOFF,Joe Pavelski faceoff won against Alex Wennberg,2023-03-22T02:56:11Z,3,16:34,03:26,3,4,25.0,Dallas Stars,DAL
+286,25,55,Dallas Stars,Seattle Kraken,2022021130911,2022021130,Stoppage,911,STOP,Puck Frozen,2023-03-22T02:56:28Z,3,16:51,03:09,3,4,,,
+287,25,55,Dallas Stars,Seattle Kraken,2022021130394,2022021130,Faceoff,394,FACEOFF,Alex Wennberg faceoff won against Roope Hintz,2023-03-22T02:56:54Z,3,16:51,03:09,3,4,55.0,Seattle Kraken,SEA
+288,25,55,Dallas Stars,Seattle Kraken,2022021130912,2022021130,Stoppage,912,STOP,Icing,2023-03-22T02:57:19Z,3,17:16,02:44,3,4,,,
+289,25,55,Dallas Stars,Seattle Kraken,2022021130395,2022021130,Faceoff,395,FACEOFF,Max Domi faceoff won against Alex Wennberg,2023-03-22T02:57:53Z,3,17:16,02:44,3,4,25.0,Dallas Stars,DAL
+290,25,55,Dallas Stars,Seattle Kraken,2022021130913,2022021130,Stoppage,913,STOP,Puck in Benches,2023-03-22T02:58:08Z,3,17:30,02:30,3,4,,,
+291,25,55,Dallas Stars,Seattle Kraken,2022021130396,2022021130,Faceoff,396,FACEOFF,Joe Pavelski faceoff won against Matty Beniers,2023-03-22T02:59:04Z,3,17:30,02:30,3,4,25.0,Dallas Stars,DAL
+292,25,55,Dallas Stars,Seattle Kraken,2022021130914,2022021130,Giveaway,914,GIVEAWAY,Giveaway by Jason Robertson,2023-03-22T02:59:12Z,3,17:38,02:22,3,4,25.0,Dallas Stars,DAL
+293,25,55,Dallas Stars,Seattle Kraken,2022021130915,2022021130,Stoppage,915,STOP,Goalie Stopped,2023-03-22T02:59:15Z,3,17:42,02:18,3,4,,,
+294,25,55,Dallas Stars,Seattle Kraken,2022021130397,2022021130,Faceoff,397,FACEOFF,Matty Beniers faceoff won against Joe Pavelski,2023-03-22T02:59:39Z,3,17:42,02:18,3,4,55.0,Seattle Kraken,SEA
+295,25,55,Dallas Stars,Seattle Kraken,2022021130807,2022021130,Blocked Shot,807,BLOCKED_SHOT,Joe Pavelski shot blocked shot by Adam Larsson,2023-03-22T03:00:13Z,3,18:16,01:44,3,4,55.0,Seattle Kraken,SEA
+296,25,55,Dallas Stars,Seattle Kraken,2022021130808,2022021130,Blocked Shot,808,BLOCKED_SHOT,Joe Pavelski shot blocked shot by Adam Larsson,2023-03-22T03:00:19Z,3,18:22,01:38,3,4,55.0,Seattle Kraken,SEA
+297,25,55,Dallas Stars,Seattle Kraken,202202113094,2022021130,Hit,94,HIT,Evgenii Dadonov hit Adam Larsson,2023-03-22T03:00:38Z,3,18:41,01:19,3,4,25.0,Dallas Stars,DAL
+298,25,55,Dallas Stars,Seattle Kraken,2022021130809,2022021130,Missed Shot,809,MISSED_SHOT,Evgenii Dadonov Wide of Net Joey Daccord,2023-03-22T03:00:46Z,3,18:49,01:11,3,4,25.0,Dallas Stars,DAL
+299,25,55,Dallas Stars,Seattle Kraken,2022021130810,2022021130,Blocked Shot,810,BLOCKED_SHOT,Miro Heiskanen shot blocked shot by Yanni Gourde,2023-03-22T03:00:59Z,3,19:02,00:58,3,4,55.0,Seattle Kraken,SEA
+300,25,55,Dallas Stars,Seattle Kraken,2022021130916,2022021130,Giveaway,916,GIVEAWAY,Giveaway by Joe Pavelski,2023-03-22T03:01:14Z,3,19:17,00:43,3,4,25.0,Dallas Stars,DAL
+301,25,55,Dallas Stars,Seattle Kraken,2022021130917,2022021130,Stoppage,917,STOP,Icing,2023-03-22T03:01:21Z,3,19:23,00:37,3,4,,,
+302,25,55,Dallas Stars,Seattle Kraken,2022021130399,2022021130,Faceoff,399,FACEOFF,Joe Pavelski faceoff won against Matty Beniers,2023-03-22T03:02:49Z,3,19:23,00:37,3,4,25.0,Dallas Stars,DAL
+303,25,55,Dallas Stars,Seattle Kraken,2022021130811,2022021130,Blocked Shot,811,BLOCKED_SHOT,Miro Heiskanen shot blocked shot by Matty Beniers,2023-03-22T03:02:54Z,3,19:29,00:31,3,4,55.0,Seattle Kraken,SEA
+304,25,55,Dallas Stars,Seattle Kraken,2022021130812,2022021130,Blocked Shot,812,BLOCKED_SHOT,Jason Robertson shot blocked shot by Vince Dunn,2023-03-22T03:03:06Z,3,19:41,00:19,3,4,55.0,Seattle Kraken,SEA
+305,25,55,Dallas Stars,Seattle Kraken,2022021130813,2022021130,Blocked Shot,813,BLOCKED_SHOT,Joe Pavelski shot blocked shot by Adam Larsson,2023-03-22T03:03:15Z,3,19:50,00:10,3,4,55.0,Seattle Kraken,SEA
+306,25,55,Dallas Stars,Seattle Kraken,2022021130559,2022021130,Blocked Shot,559,BLOCKED_SHOT,Miro Heiskanen shot blocked shot by Yanni Gourde,2023-03-22T03:03:21Z,3,19:56,00:04,3,4,55.0,Seattle Kraken,SEA
+307,25,55,Dallas Stars,Seattle Kraken,2022021130558,2022021130,Shot,558,SHOT,Roope Hintz Wrist Shot saved by Joey Daccord,2023-03-22T03:03:23Z,3,19:58,00:02,3,4,25.0,Dallas Stars,DAL
+308,25,55,Dallas Stars,Seattle Kraken,2022021130814,2022021130,Goal,814,GOAL,"Jamie Benn (30) Wrist Shot, assists: Roope Hintz (34), Miro Heiskanen (50)",2023-03-22T03:03:25Z,3,19:59,00:01,4,4,25.0,Dallas Stars,DAL
+309,25,55,Dallas Stars,Seattle Kraken,2022021130400,2022021130,Faceoff,400,FACEOFF,Alex Wennberg faceoff won against Ty Dellandrea,2023-03-22T03:04:11Z,3,19:59,00:01,4,4,55.0,Seattle Kraken,SEA
+310,25,55,Dallas Stars,Seattle Kraken,2022021130918,2022021130,Period End,918,PERIOD_END,End of 3rd Period,2023-03-22T03:04:12Z,3,20:00,00:00,4,4,,,
+311,25,55,Dallas Stars,Seattle Kraken,2022021130921,2022021130,Period Official,921,PERIOD_OFFICIAL,Period Official,2023-03-22T03:05:12Z,3,20:00,00:00,4,4,,,
+312,25,55,Dallas Stars,Seattle Kraken,2022021130922,2022021130,Period Ready,922,PERIOD_READY,Period Ready,2023-03-22T03:05:40Z,4,00:00,05:00,4,4,,,
+313,25,55,Dallas Stars,Seattle Kraken,2022021130851,2022021130,Period Start,851,PERIOD_START,Period Start,2023-03-22T03:06:29Z,4,00:00,05:00,4,4,,,
+314,25,55,Dallas Stars,Seattle Kraken,2022021130852,2022021130,Faceoff,852,FACEOFF,Alex Wennberg faceoff won against Max Domi,2023-03-22T03:06:29Z,4,00:00,05:00,4,4,55.0,Seattle Kraken,SEA
+315,25,55,Dallas Stars,Seattle Kraken,2022021130816,2022021130,Shot,816,SHOT,Jaden Schwartz Wrist Shot saved by Jake Oettinger,2023-03-22T03:06:57Z,4,00:28,04:32,4,4,55.0,Seattle Kraken,SEA
+316,25,55,Dallas Stars,Seattle Kraken,2022021130817,2022021130,Shot,817,SHOT,Jason Robertson Wrist Shot saved by Joey Daccord,2023-03-22T03:07:31Z,4,01:02,03:58,4,4,25.0,Dallas Stars,DAL
+317,25,55,Dallas Stars,Seattle Kraken,2022021130818,2022021130,Goal,818,GOAL,"Adam Larsson (6) Backhand, assists: Jared McCann (22), Alex Wennberg (22)",2023-03-22T03:08:22Z,4,01:52,03:08,4,5,55.0,Seattle Kraken,SEA
+318,25,55,Dallas Stars,Seattle Kraken,2022021130923,2022021130,Period End,923,PERIOD_END,End of OT,2023-03-22T03:08:22Z,4,01:52,03:08,4,5,,,
+319,25,55,Dallas Stars,Seattle Kraken,2022021130926,2022021130,Period Official,926,PERIOD_OFFICIAL,Period Official,2023-03-22T03:08:47Z,4,01:52,03:08,4,5,,,
+320,25,55,Dallas Stars,Seattle Kraken,2022021130927,2022021130,Game End,927,GAME_END,Game End,2023-03-22T03:08:49Z,4,01:52,03:08,4,5,,,
+321,25,55,Dallas Stars,Seattle Kraken,2022021130928,2022021130,Game Official,928,GAME_OFFICIAL,Game Official,2023-03-22T03:24:10Z,4,01:52,03:08,4,5,,,

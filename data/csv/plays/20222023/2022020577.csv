@@ -1,0 +1,334 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,55,22,Seattle Kraken,Edmonton Oilers,20220205771,2022020577,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-12-31T02:15:30Z,1,00:00,20:00,0,0,,,
+1,55,22,Seattle Kraken,Edmonton Oilers,20220205775,2022020577,Period Ready,5,PERIOD_READY,Period Ready,2022-12-31T03:04:55Z,1,00:00,20:00,0,0,,,
+2,55,22,Seattle Kraken,Edmonton Oilers,202202057751,2022020577,Period Start,51,PERIOD_START,Period Start,2022-12-31T03:08:25Z,1,00:00,20:00,0,0,,,
+3,55,22,Seattle Kraken,Edmonton Oilers,202202057752,2022020577,Faceoff,52,FACEOFF,Alex Wennberg faceoff won against Ryan Nugent-Hopkins,2022-12-31T03:08:25Z,1,00:00,20:00,0,0,55.0,Seattle Kraken,SEA
+4,55,22,Seattle Kraken,Edmonton Oilers,2022020577151,2022020577,Missed Shot,151,MISSED_SHOT,Justin Schultz Wide of Net Stuart Skinner,2022-12-31T03:08:56Z,1,00:31,19:29,0,0,55.0,Seattle Kraken,SEA
+5,55,22,Seattle Kraken,Edmonton Oilers,2022020577152,2022020577,Missed Shot,152,MISSED_SHOT,Jared McCann Wide of Net Stuart Skinner,2022-12-31T03:09:29Z,1,01:04,18:56,0,0,55.0,Seattle Kraken,SEA
+6,55,22,Seattle Kraken,Edmonton Oilers,2022020577153,2022020577,Blocked Shot,153,BLOCKED_SHOT,Zach Hyman shot blocked shot by Jordan Eberle,2022-12-31T03:09:54Z,1,01:29,18:31,0,0,55.0,Seattle Kraken,SEA
+7,55,22,Seattle Kraken,Edmonton Oilers,202202057753,2022020577,Giveaway,53,GIVEAWAY,Giveaway by Zach Hyman,2022-12-31T03:10:01Z,1,01:36,18:24,0,0,22.0,Edmonton Oilers,EDM
+8,55,22,Seattle Kraken,Edmonton Oilers,20220205778,2022020577,Shot,8,SHOT,Adam Larsson Wrist Shot saved by Stuart Skinner,2022-12-31T03:10:02Z,1,01:37,18:23,0,0,55.0,Seattle Kraken,SEA
+9,55,22,Seattle Kraken,Edmonton Oilers,2022020577154,2022020577,Blocked Shot,154,BLOCKED_SHOT,Connor McDavid shot blocked shot by Adam Larsson,2022-12-31T03:10:09Z,1,01:44,18:16,0,0,55.0,Seattle Kraken,SEA
+10,55,22,Seattle Kraken,Edmonton Oilers,20220205779,2022020577,Shot,9,SHOT,Markus Niemelainen Wrist Shot saved by Philipp Grubauer,2022-12-31T03:10:15Z,1,01:51,18:09,0,0,22.0,Edmonton Oilers,EDM
+11,55,22,Seattle Kraken,Edmonton Oilers,202202057755,2022020577,Stoppage,55,STOP,Puck in Netting,2022-12-31T03:10:15Z,1,01:51,18:09,0,0,,,
+12,55,22,Seattle Kraken,Edmonton Oilers,202202057756,2022020577,Faceoff,56,FACEOFF,Yanni Gourde faceoff won against Ryan McLeod,2022-12-31T03:10:47Z,1,01:51,18:09,0,0,55.0,Seattle Kraken,SEA
+13,55,22,Seattle Kraken,Edmonton Oilers,2022020577155,2022020577,Shot,155,SHOT,Kailer Yamamoto Snap Shot saved by Philipp Grubauer,2022-12-31T03:10:54Z,1,01:58,18:02,0,0,22.0,Edmonton Oilers,EDM
+14,55,22,Seattle Kraken,Edmonton Oilers,2022020577120,2022020577,Penalty,120,PENALTY,Carson Soucy Tripping against Kailer Yamamoto,2022-12-31T03:10:57Z,1,02:01,17:59,0,0,55.0,Seattle Kraken,SEA
+15,55,22,Seattle Kraken,Edmonton Oilers,202202057757,2022020577,Faceoff,57,FACEOFF,Morgan Geekie faceoff won against Connor McDavid,2022-12-31T03:11:31Z,1,02:01,17:59,0,0,55.0,Seattle Kraken,SEA
+16,55,22,Seattle Kraken,Edmonton Oilers,2022020577315,2022020577,Takeaway,315,TAKEAWAY,Takeaway by Jamie Oleksiak,2022-12-31T03:11:50Z,1,02:20,17:40,0,0,55.0,Seattle Kraken,SEA
+17,55,22,Seattle Kraken,Edmonton Oilers,202202057758,2022020577,Takeaway,58,TAKEAWAY,Takeaway by Tyson Barrie,2022-12-31T03:11:53Z,1,02:23,17:37,0,0,22.0,Edmonton Oilers,EDM
+18,55,22,Seattle Kraken,Edmonton Oilers,2022020577156,2022020577,Blocked Shot,156,BLOCKED_SHOT,Tyson Barrie shot blocked shot by Brandon Tanev,2022-12-31T03:12:11Z,1,02:41,17:19,0,0,55.0,Seattle Kraken,SEA
+19,55,22,Seattle Kraken,Edmonton Oilers,202202057710,2022020577,Goal,10,GOAL,"Zach Hyman (16) Tip-In, assists: Connor McDavid (37), Ryan Nugent-Hopkins (24)",2022-12-31T03:12:14Z,1,02:44,17:16,0,1,22.0,Edmonton Oilers,EDM
+20,55,22,Seattle Kraken,Edmonton Oilers,202202057759,2022020577,Faceoff,59,FACEOFF,Ryan Donato faceoff won against James Hamblin,2022-12-31T03:12:55Z,1,02:44,17:16,0,1,55.0,Seattle Kraken,SEA
+21,55,22,Seattle Kraken,Edmonton Oilers,2022020577157,2022020577,Shot,157,SHOT,Will Borgen Slap Shot saved by Stuart Skinner,2022-12-31T03:13:13Z,1,02:58,17:02,0,1,55.0,Seattle Kraken,SEA
+22,55,22,Seattle Kraken,Edmonton Oilers,202202057711,2022020577,Blocked Shot,11,BLOCKED_SHOT,Carson Soucy shot blocked shot by Tyson Barrie,2022-12-31T03:13:18Z,1,03:02,16:58,0,1,22.0,Edmonton Oilers,EDM
+23,55,22,Seattle Kraken,Edmonton Oilers,202202057760,2022020577,Stoppage,60,STOP,Puck in Netting,2022-12-31T03:13:18Z,1,03:02,16:58,0,1,,,
+24,55,22,Seattle Kraken,Edmonton Oilers,202202057761,2022020577,Faceoff,61,FACEOFF,Ryan Nugent-Hopkins faceoff won against Alex Wennberg,2022-12-31T03:13:52Z,1,03:02,16:58,0,1,22.0,Edmonton Oilers,EDM
+25,55,22,Seattle Kraken,Edmonton Oilers,2022020577158,2022020577,Goal,158,GOAL,"Klim Kostin (3) Backhand, assists: Mattias Janmark (4), Ryan Nugent-Hopkins (25)",2022-12-31T03:14:05Z,1,03:16,16:44,0,2,22.0,Edmonton Oilers,EDM
+26,55,22,Seattle Kraken,Edmonton Oilers,202202057762,2022020577,Faceoff,62,FACEOFF,Matty Beniers faceoff won against Connor McDavid,2022-12-31T03:14:49Z,1,03:16,16:44,0,2,55.0,Seattle Kraken,SEA
+27,55,22,Seattle Kraken,Edmonton Oilers,202202057763,2022020577,Takeaway,63,TAKEAWAY,Takeaway by Connor McDavid,2022-12-31T03:14:50Z,1,03:17,16:43,0,2,22.0,Edmonton Oilers,EDM
+28,55,22,Seattle Kraken,Edmonton Oilers,2022020577159,2022020577,Blocked Shot,159,BLOCKED_SHOT,Connor McDavid shot blocked shot by Adam Larsson,2022-12-31T03:14:55Z,1,03:22,16:38,0,2,55.0,Seattle Kraken,SEA
+29,55,22,Seattle Kraken,Edmonton Oilers,2022020577160,2022020577,Blocked Shot,160,BLOCKED_SHOT,Jared McCann shot blocked shot by Connor McDavid,2022-12-31T03:15:09Z,1,03:36,16:24,0,2,22.0,Edmonton Oilers,EDM
+30,55,22,Seattle Kraken,Edmonton Oilers,202202057764,2022020577,Hit,64,HIT,Jesse Puljujarvi hit Matty Beniers,2022-12-31T03:15:14Z,1,03:41,16:19,0,2,22.0,Edmonton Oilers,EDM
+31,55,22,Seattle Kraken,Edmonton Oilers,202202057712,2022020577,Hit,12,HIT,Vince Dunn hit Kailer Yamamoto,2022-12-31T03:15:21Z,1,03:48,16:12,0,2,55.0,Seattle Kraken,SEA
+32,55,22,Seattle Kraken,Edmonton Oilers,2022020577316,2022020577,Hit,316,HIT,Matty Beniers hit Darnell Nurse,2022-12-31T03:15:23Z,1,03:50,16:10,0,2,55.0,Seattle Kraken,SEA
+33,55,22,Seattle Kraken,Edmonton Oilers,2022020577161,2022020577,Goal,161,GOAL,"Darnell Nurse (6) Wrist Shot, assists: Connor McDavid (38), Kailer Yamamoto (7)",2022-12-31T03:15:28Z,1,03:55,16:05,0,3,22.0,Edmonton Oilers,EDM
+34,55,22,Seattle Kraken,Edmonton Oilers,202202057767,2022020577,Faceoff,67,FACEOFF,Yanni Gourde faceoff won against Ryan McLeod,2022-12-31T03:16:47Z,1,03:55,16:05,0,3,55.0,Seattle Kraken,SEA
+35,55,22,Seattle Kraken,Edmonton Oilers,202202057768,2022020577,Takeaway,68,TAKEAWAY,Takeaway by Tyson Barrie,2022-12-31T03:17:05Z,1,04:13,15:47,0,3,22.0,Edmonton Oilers,EDM
+36,55,22,Seattle Kraken,Edmonton Oilers,2022020577162,2022020577,Blocked Shot,162,BLOCKED_SHOT,Warren Foegele shot blocked shot by Will Borgen,2022-12-31T03:17:19Z,1,04:27,15:33,0,3,55.0,Seattle Kraken,SEA
+37,55,22,Seattle Kraken,Edmonton Oilers,2022020577163,2022020577,Missed Shot,163,MISSED_SHOT,Adam Larsson Wide of Net Stuart Skinner,2022-12-31T03:17:57Z,1,05:05,14:55,0,3,55.0,Seattle Kraken,SEA
+38,55,22,Seattle Kraken,Edmonton Oilers,2022020577164,2022020577,Missed Shot,164,MISSED_SHOT,Brandon Tanev Wide of Net Stuart Skinner,2022-12-31T03:18:08Z,1,05:16,14:44,0,3,55.0,Seattle Kraken,SEA
+39,55,22,Seattle Kraken,Edmonton Oilers,202202057769,2022020577,Hit,69,HIT,Vince Dunn hit James Hamblin,2022-12-31T03:18:18Z,1,05:26,14:34,0,3,55.0,Seattle Kraken,SEA
+40,55,22,Seattle Kraken,Edmonton Oilers,202202057770,2022020577,Giveaway,70,GIVEAWAY,Giveaway by Cody Ceci,2022-12-31T03:18:45Z,1,05:53,14:07,0,3,22.0,Edmonton Oilers,EDM
+41,55,22,Seattle Kraken,Edmonton Oilers,202202057771,2022020577,Takeaway,71,TAKEAWAY,Takeaway by Ryan Nugent-Hopkins,2022-12-31T03:18:52Z,1,06:00,14:00,0,3,22.0,Edmonton Oilers,EDM
+42,55,22,Seattle Kraken,Edmonton Oilers,2022020577166,2022020577,Blocked Shot,166,BLOCKED_SHOT,Jared McCann shot blocked shot by Darnell Nurse,2022-12-31T03:19:42Z,1,06:50,13:10,0,3,22.0,Edmonton Oilers,EDM
+43,55,22,Seattle Kraken,Edmonton Oilers,202202057713,2022020577,Stoppage,13,STOP,Puck in Netting,2022-12-31T03:19:43Z,1,06:51,13:09,0,3,,,
+44,55,22,Seattle Kraken,Edmonton Oilers,202202057772,2022020577,Faceoff,72,FACEOFF,Connor McDavid faceoff won against Matty Beniers,2022-12-31T03:22:04Z,1,06:51,13:09,0,3,22.0,Edmonton Oilers,EDM
+45,55,22,Seattle Kraken,Edmonton Oilers,202202057773,2022020577,Hit,73,HIT,Zach Hyman hit Adam Larsson,2022-12-31T03:22:13Z,1,07:00,13:00,0,3,22.0,Edmonton Oilers,EDM
+46,55,22,Seattle Kraken,Edmonton Oilers,2022020577167,2022020577,Shot,167,SHOT,Darnell Nurse Wrist Shot saved by Martin Jones,2022-12-31T03:22:21Z,1,07:07,12:53,0,3,22.0,Edmonton Oilers,EDM
+47,55,22,Seattle Kraken,Edmonton Oilers,2022020577401,2022020577,Stoppage,401,STOP,Goalie Stopped,2022-12-31T03:22:21Z,1,07:07,12:53,0,3,,,
+48,55,22,Seattle Kraken,Edmonton Oilers,202202057714,2022020577,Faceoff,14,FACEOFF,Warren Foegele faceoff won against Yanni Gourde,2022-12-31T03:22:58Z,1,07:07,12:53,0,3,22.0,Edmonton Oilers,EDM
+49,55,22,Seattle Kraken,Edmonton Oilers,2022020577168,2022020577,Blocked Shot,168,BLOCKED_SHOT,Evan Bouchard shot blocked shot by Oliver Bjorkstrand,2022-12-31T03:23:04Z,1,07:13,12:47,0,3,55.0,Seattle Kraken,SEA
+50,55,22,Seattle Kraken,Edmonton Oilers,2022020577169,2022020577,Blocked Shot,169,BLOCKED_SHOT,Warren Foegele shot blocked shot by Jamie Oleksiak,2022-12-31T03:23:09Z,1,07:18,12:42,0,3,55.0,Seattle Kraken,SEA
+51,55,22,Seattle Kraken,Edmonton Oilers,2022020577402,2022020577,Missed Shot,402,MISSED_SHOT,Kailer Yamamoto Wide of Net Martin Jones,2022-12-31T03:23:12Z,1,07:21,12:39,0,3,22.0,Edmonton Oilers,EDM
+52,55,22,Seattle Kraken,Edmonton Oilers,202202057774,2022020577,Shot,74,SHOT,Markus Niemelainen Wrist Shot saved by Martin Jones,2022-12-31T03:23:19Z,1,07:28,12:32,0,3,22.0,Edmonton Oilers,EDM
+53,55,22,Seattle Kraken,Edmonton Oilers,202202057775,2022020577,Stoppage,75,STOP,Goalie Stopped,2022-12-31T03:23:19Z,1,07:28,12:32,0,3,,,
+54,55,22,Seattle Kraken,Edmonton Oilers,202202057776,2022020577,Faceoff,76,FACEOFF,James Hamblin faceoff won against Morgan Geekie,2022-12-31T03:23:50Z,1,07:28,12:32,0,3,22.0,Edmonton Oilers,EDM
+55,55,22,Seattle Kraken,Edmonton Oilers,2022020577170,2022020577,Missed Shot,170,MISSED_SHOT,Derek Ryan Wide of Net Martin Jones,2022-12-31T03:23:56Z,1,07:34,12:26,0,3,22.0,Edmonton Oilers,EDM
+56,55,22,Seattle Kraken,Edmonton Oilers,202202057777,2022020577,Hit,77,HIT,Morgan Geekie hit Derek Ryan,2022-12-31T03:24:02Z,1,07:40,12:20,0,3,55.0,Seattle Kraken,SEA
+57,55,22,Seattle Kraken,Edmonton Oilers,2022020577171,2022020577,Blocked Shot,171,BLOCKED_SHOT,James Hamblin shot blocked shot by Carson Soucy,2022-12-31T03:24:08Z,1,07:46,12:14,0,3,55.0,Seattle Kraken,SEA
+58,55,22,Seattle Kraken,Edmonton Oilers,2022020577172,2022020577,Blocked Shot,172,BLOCKED_SHOT,Evan Bouchard shot blocked shot by Brandon Tanev,2022-12-31T03:24:15Z,1,07:53,12:07,0,3,55.0,Seattle Kraken,SEA
+59,55,22,Seattle Kraken,Edmonton Oilers,202202057778,2022020577,Hit,78,HIT,Brandon Tanev hit Evan Bouchard,2022-12-31T03:24:30Z,1,08:08,11:52,0,3,55.0,Seattle Kraken,SEA
+60,55,22,Seattle Kraken,Edmonton Oilers,2022020577173,2022020577,Missed Shot,173,MISSED_SHOT,Ryan Nugent-Hopkins Wide of Net Martin Jones,2022-12-31T03:24:37Z,1,08:15,11:45,0,3,22.0,Edmonton Oilers,EDM
+61,55,22,Seattle Kraken,Edmonton Oilers,202202057779,2022020577,Takeaway,79,TAKEAWAY,Takeaway by Jaden Schwartz,2022-12-31T03:25:02Z,1,08:40,11:20,0,3,55.0,Seattle Kraken,SEA
+62,55,22,Seattle Kraken,Edmonton Oilers,202202057780,2022020577,Takeaway,80,TAKEAWAY,Takeaway by Andre Burakovsky,2022-12-31T03:25:10Z,1,08:48,11:12,0,3,55.0,Seattle Kraken,SEA
+63,55,22,Seattle Kraken,Edmonton Oilers,2022020577174,2022020577,Shot,174,SHOT,Andre Burakovsky Wrist Shot saved by Stuart Skinner,2022-12-31T03:25:12Z,1,08:50,11:10,0,3,55.0,Seattle Kraken,SEA
+64,55,22,Seattle Kraken,Edmonton Oilers,202202057781,2022020577,Giveaway,81,GIVEAWAY,Giveaway by Adam Larsson,2022-12-31T03:25:29Z,1,09:07,10:53,0,3,55.0,Seattle Kraken,SEA
+65,55,22,Seattle Kraken,Edmonton Oilers,202202057715,2022020577,Stoppage,15,STOP,Icing,2022-12-31T03:25:47Z,1,09:24,10:36,0,3,,,
+66,55,22,Seattle Kraken,Edmonton Oilers,202202057716,2022020577,Faceoff,16,FACEOFF,Matty Beniers faceoff won against Connor McDavid,2022-12-31T03:26:27Z,1,09:24,10:36,0,3,55.0,Seattle Kraken,SEA
+67,55,22,Seattle Kraken,Edmonton Oilers,202202057782,2022020577,Hit,82,HIT,Jared McCann hit Zach Hyman,2022-12-31T03:26:43Z,1,09:40,10:20,0,3,55.0,Seattle Kraken,SEA
+68,55,22,Seattle Kraken,Edmonton Oilers,2022020577175,2022020577,Blocked Shot,175,BLOCKED_SHOT,Jesse Puljujarvi shot blocked shot by Matty Beniers,2022-12-31T03:26:57Z,1,09:54,10:06,0,3,55.0,Seattle Kraken,SEA
+69,55,22,Seattle Kraken,Edmonton Oilers,202202057783,2022020577,Hit,83,HIT,Matty Beniers hit Zach Hyman,2022-12-31T03:27:01Z,1,09:58,10:02,0,3,55.0,Seattle Kraken,SEA
+70,55,22,Seattle Kraken,Edmonton Oilers,2022020577176,2022020577,Goal,176,GOAL,"Jesse Puljujarvi (3) Wrist Shot, assists: Connor McDavid (39), Zach Hyman (23)",2022-12-31T03:27:01Z,1,09:58,10:02,0,4,22.0,Edmonton Oilers,EDM
+71,55,22,Seattle Kraken,Edmonton Oilers,202202057784,2022020577,Faceoff,84,FACEOFF,Yanni Gourde faceoff won against Ryan McLeod,2022-12-31T03:27:37Z,1,09:58,10:02,0,4,55.0,Seattle Kraken,SEA
+72,55,22,Seattle Kraken,Edmonton Oilers,2022020577403,2022020577,Shot,403,SHOT,Oliver Bjorkstrand Wrist Shot saved by Stuart Skinner,2022-12-31T03:27:48Z,1,10:09,09:51,0,4,55.0,Seattle Kraken,SEA
+73,55,22,Seattle Kraken,Edmonton Oilers,202202057785,2022020577,Takeaway,85,TAKEAWAY,Takeaway by Oliver Bjorkstrand,2022-12-31T03:27:49Z,1,10:10,09:50,0,4,55.0,Seattle Kraken,SEA
+74,55,22,Seattle Kraken,Edmonton Oilers,202202057717,2022020577,Missed Shot,17,MISSED_SHOT,Oliver Bjorkstrand Over Net Stuart Skinner,2022-12-31T03:27:58Z,1,10:19,09:41,0,4,55.0,Seattle Kraken,SEA
+75,55,22,Seattle Kraken,Edmonton Oilers,202202057786,2022020577,Hit,86,HIT,Warren Foegele hit Will Borgen,2022-12-31T03:27:59Z,1,10:20,09:40,0,4,22.0,Edmonton Oilers,EDM
+76,55,22,Seattle Kraken,Edmonton Oilers,202202057787,2022020577,Hit,87,HIT,Yanni Gourde hit Markus Niemelainen,2022-12-31T03:27:59Z,1,10:20,09:40,0,4,55.0,Seattle Kraken,SEA
+77,55,22,Seattle Kraken,Edmonton Oilers,202202057788,2022020577,Hit,88,HIT,Brett Kulak hit Daniel Sprong,2022-12-31T03:29:12Z,1,11:33,08:27,0,4,22.0,Edmonton Oilers,EDM
+78,55,22,Seattle Kraken,Edmonton Oilers,202202057789,2022020577,Hit,89,HIT,Dylan Holloway hit Jaden Schwartz,2022-12-31T03:29:21Z,1,11:42,08:18,0,4,22.0,Edmonton Oilers,EDM
+79,55,22,Seattle Kraken,Edmonton Oilers,202202057718,2022020577,Hit,18,HIT,Jaden Schwartz hit Brett Kulak,2022-12-31T03:29:27Z,1,11:48,08:12,0,4,55.0,Seattle Kraken,SEA
+80,55,22,Seattle Kraken,Edmonton Oilers,2022020577178,2022020577,Shot,178,SHOT,Morgan Geekie Wrist Shot saved by Stuart Skinner,2022-12-31T03:29:27Z,1,11:48,08:12,0,4,55.0,Seattle Kraken,SEA
+81,55,22,Seattle Kraken,Edmonton Oilers,2022020577179,2022020577,Missed Shot,179,MISSED_SHOT,Jamie Oleksiak Wide of Net Stuart Skinner,2022-12-31T03:29:35Z,1,11:56,08:04,0,4,55.0,Seattle Kraken,SEA
+82,55,22,Seattle Kraken,Edmonton Oilers,202202057790,2022020577,Takeaway,90,TAKEAWAY,Takeaway by Klim Kostin,2022-12-31T03:29:49Z,1,12:10,07:50,0,4,22.0,Edmonton Oilers,EDM
+83,55,22,Seattle Kraken,Edmonton Oilers,2022020577180,2022020577,Shot,180,SHOT,Cody Ceci Wrist Shot saved by Martin Jones,2022-12-31T03:30:08Z,1,12:29,07:31,0,4,22.0,Edmonton Oilers,EDM
+84,55,22,Seattle Kraken,Edmonton Oilers,202202057719,2022020577,Stoppage,19,STOP,Goalie Stopped,2022-12-31T03:30:08Z,1,12:30,07:30,0,4,,,
+85,55,22,Seattle Kraken,Edmonton Oilers,202202057791,2022020577,Faceoff,91,FACEOFF,Alex Wennberg faceoff won against Connor McDavid,2022-12-31T03:32:22Z,1,12:30,07:30,0,4,55.0,Seattle Kraken,SEA
+86,55,22,Seattle Kraken,Edmonton Oilers,202202057793,2022020577,Hit,93,HIT,Adam Larsson hit Connor McDavid,2022-12-31T03:32:48Z,1,12:56,07:04,0,4,55.0,Seattle Kraken,SEA
+87,55,22,Seattle Kraken,Edmonton Oilers,202202057720,2022020577,Stoppage,20,STOP,Puck Frozen,2022-12-31T03:32:49Z,1,12:57,07:03,0,4,,,
+88,55,22,Seattle Kraken,Edmonton Oilers,202202057794,2022020577,Faceoff,94,FACEOFF,Yanni Gourde faceoff won against Ryan Nugent-Hopkins,2022-12-31T03:33:23Z,1,12:57,07:03,0,4,55.0,Seattle Kraken,SEA
+89,55,22,Seattle Kraken,Edmonton Oilers,202202057795,2022020577,Hit,95,HIT,Oliver Bjorkstrand hit Markus Niemelainen,2022-12-31T03:33:38Z,1,13:12,06:48,0,4,55.0,Seattle Kraken,SEA
+90,55,22,Seattle Kraken,Edmonton Oilers,2022020577264,2022020577,Penalty,264,PENALTY,Klim Kostin Cross-checking against Yanni Gourde,2022-12-31T03:33:43Z,1,13:17,06:43,0,4,22.0,Edmonton Oilers,EDM
+91,55,22,Seattle Kraken,Edmonton Oilers,202202057796,2022020577,Faceoff,96,FACEOFF,Connor McDavid faceoff won against Matty Beniers,2022-12-31T03:34:32Z,1,13:17,06:43,0,4,22.0,Edmonton Oilers,EDM
+92,55,22,Seattle Kraken,Edmonton Oilers,2022020577181,2022020577,Shot,181,SHOT,Darnell Nurse Wrist Shot saved by Martin Jones,2022-12-31T03:34:39Z,1,13:24,06:36,0,4,22.0,Edmonton Oilers,EDM
+93,55,22,Seattle Kraken,Edmonton Oilers,202202057721,2022020577,Stoppage,21,STOP,Puck in Netting,2022-12-31T03:35:02Z,1,13:47,06:13,0,4,,,
+94,55,22,Seattle Kraken,Edmonton Oilers,2022020577182,2022020577,Missed Shot,182,MISSED_SHOT,Alex Wennberg Wide of Net Stuart Skinner,2022-12-31T03:35:02Z,1,13:47,06:13,0,4,55.0,Seattle Kraken,SEA
+95,55,22,Seattle Kraken,Edmonton Oilers,202202057797,2022020577,Faceoff,97,FACEOFF,Ryan McLeod faceoff won against Alex Wennberg,2022-12-31T03:35:23Z,1,13:47,06:13,0,4,22.0,Edmonton Oilers,EDM
+96,55,22,Seattle Kraken,Edmonton Oilers,202202057798,2022020577,Hit,98,HIT,Darnell Nurse hit Alex Wennberg,2022-12-31T03:35:33Z,1,13:57,06:03,0,4,22.0,Edmonton Oilers,EDM
+97,55,22,Seattle Kraken,Edmonton Oilers,2022020577183,2022020577,Blocked Shot,183,BLOCKED_SHOT,Oliver Bjorkstrand shot blocked shot by Cody Ceci,2022-12-31T03:35:33Z,1,13:57,06:03,0,4,22.0,Edmonton Oilers,EDM
+98,55,22,Seattle Kraken,Edmonton Oilers,202202057722,2022020577,Stoppage,22,STOP,Puck in Netting,2022-12-31T03:35:45Z,1,14:09,05:51,0,4,,,
+99,55,22,Seattle Kraken,Edmonton Oilers,202202057799,2022020577,Faceoff,99,FACEOFF,Ryan Nugent-Hopkins faceoff won against Jordan Eberle,2022-12-31T03:36:11Z,1,14:09,05:51,0,4,22.0,Edmonton Oilers,EDM
+100,55,22,Seattle Kraken,Edmonton Oilers,2022020577184,2022020577,Shot,184,SHOT,Jared McCann Slap Shot saved by Stuart Skinner,2022-12-31T03:36:17Z,1,14:15,05:45,0,4,55.0,Seattle Kraken,SEA
+101,55,22,Seattle Kraken,Edmonton Oilers,2022020577185,2022020577,Blocked Shot,185,BLOCKED_SHOT,Andre Burakovsky shot blocked shot by Markus Niemelainen,2022-12-31T03:37:01Z,1,14:59,05:01,0,4,22.0,Edmonton Oilers,EDM
+102,55,22,Seattle Kraken,Edmonton Oilers,2022020577186,2022020577,Blocked Shot,186,BLOCKED_SHOT,Andre Burakovsky shot blocked shot by Markus Niemelainen,2022-12-31T03:37:11Z,1,15:09,04:51,0,4,22.0,Edmonton Oilers,EDM
+103,55,22,Seattle Kraken,Edmonton Oilers,2022020577187,2022020577,Shot,187,SHOT,Klim Kostin Wrist Shot saved by Martin Jones,2022-12-31T03:37:26Z,1,15:24,04:36,0,4,22.0,Edmonton Oilers,EDM
+104,55,22,Seattle Kraken,Edmonton Oilers,202202057723,2022020577,Stoppage,23,STOP,Goalie Stopped,2022-12-31T03:37:27Z,1,15:25,04:35,0,4,,,
+105,55,22,Seattle Kraken,Edmonton Oilers,2022020577100,2022020577,Faceoff,100,FACEOFF,Connor McDavid faceoff won against Yanni Gourde,2022-12-31T03:39:46Z,1,15:25,04:35,0,4,22.0,Edmonton Oilers,EDM
+106,55,22,Seattle Kraken,Edmonton Oilers,2022020577188,2022020577,Shot,188,SHOT,Tyson Barrie Slap Shot saved by Martin Jones,2022-12-31T03:39:50Z,1,15:29,04:31,0,4,22.0,Edmonton Oilers,EDM
+107,55,22,Seattle Kraken,Edmonton Oilers,2022020577301,2022020577,Hit,301,HIT,Adam Larsson hit Zach Hyman,2022-12-31T03:39:58Z,1,15:37,04:23,0,4,55.0,Seattle Kraken,SEA
+108,55,22,Seattle Kraken,Edmonton Oilers,2022020577302,2022020577,Takeaway,302,TAKEAWAY,Takeaway by Yanni Gourde,2022-12-31T03:40:11Z,1,15:50,04:10,0,4,55.0,Seattle Kraken,SEA
+109,55,22,Seattle Kraken,Edmonton Oilers,202202057724,2022020577,Stoppage,24,STOP,Icing,2022-12-31T03:40:21Z,1,16:00,04:00,0,4,,,
+110,55,22,Seattle Kraken,Edmonton Oilers,2022020577303,2022020577,Faceoff,303,FACEOFF,Matty Beniers faceoff won against Connor McDavid,2022-12-31T03:40:54Z,1,16:00,04:00,0,4,55.0,Seattle Kraken,SEA
+111,55,22,Seattle Kraken,Edmonton Oilers,2022020577189,2022020577,Blocked Shot,189,BLOCKED_SHOT,Carson Soucy shot blocked shot by Jesse Puljujarvi,2022-12-31T03:40:59Z,1,16:05,03:55,0,4,22.0,Edmonton Oilers,EDM
+112,55,22,Seattle Kraken,Edmonton Oilers,202202057725,2022020577,Stoppage,25,STOP,Icing,2022-12-31T03:41:25Z,1,16:32,03:28,0,4,,,
+113,55,22,Seattle Kraken,Edmonton Oilers,2022020577305,2022020577,Faceoff,305,FACEOFF,Alex Wennberg faceoff won against Ryan McLeod,2022-12-31T03:41:55Z,1,16:32,03:28,0,4,55.0,Seattle Kraken,SEA
+114,55,22,Seattle Kraken,Edmonton Oilers,2022020577190,2022020577,Shot,190,SHOT,Andre Burakovsky Wrist Shot saved by Stuart Skinner,2022-12-31T03:42:15Z,1,16:52,03:08,0,4,55.0,Seattle Kraken,SEA
+115,55,22,Seattle Kraken,Edmonton Oilers,2022020577306,2022020577,Hit,306,HIT,Jamie Oleksiak hit Derek Ryan,2022-12-31T03:42:35Z,1,17:12,02:48,0,4,55.0,Seattle Kraken,SEA
+116,55,22,Seattle Kraken,Edmonton Oilers,2022020577191,2022020577,Shot,191,SHOT,James Hamblin Wrist Shot saved by Martin Jones,2022-12-31T03:42:40Z,1,17:17,02:43,0,4,22.0,Edmonton Oilers,EDM
+117,55,22,Seattle Kraken,Edmonton Oilers,2022020577307,2022020577,Takeaway,307,TAKEAWAY,Takeaway by Morgan Geekie,2022-12-31T03:43:15Z,1,17:52,02:08,0,4,55.0,Seattle Kraken,SEA
+118,55,22,Seattle Kraken,Edmonton Oilers,2022020577309,2022020577,Hit,309,HIT,Klim Kostin hit Will Borgen,2022-12-31T03:43:23Z,1,18:00,02:00,0,4,22.0,Edmonton Oilers,EDM
+119,55,22,Seattle Kraken,Edmonton Oilers,2022020577192,2022020577,Blocked Shot,192,BLOCKED_SHOT,Daniel Sprong shot blocked shot by Ryan Nugent-Hopkins,2022-12-31T03:43:38Z,1,18:15,01:45,0,4,22.0,Edmonton Oilers,EDM
+120,55,22,Seattle Kraken,Edmonton Oilers,2022020577193,2022020577,Blocked Shot,193,BLOCKED_SHOT,Brett Kulak shot blocked shot by Vince Dunn,2022-12-31T03:44:09Z,1,18:46,01:14,0,4,55.0,Seattle Kraken,SEA
+121,55,22,Seattle Kraken,Edmonton Oilers,2022020577310,2022020577,Hit,310,HIT,Oliver Bjorkstrand hit Brett Kulak,2022-12-31T03:44:16Z,1,18:53,01:07,0,4,55.0,Seattle Kraken,SEA
+122,55,22,Seattle Kraken,Edmonton Oilers,2022020577311,2022020577,Giveaway,311,GIVEAWAY,Giveaway by Adam Larsson,2022-12-31T03:44:21Z,1,18:58,01:02,0,4,55.0,Seattle Kraken,SEA
+123,55,22,Seattle Kraken,Edmonton Oilers,2022020577194,2022020577,Shot,194,SHOT,Connor McDavid Snap Shot saved by Martin Jones,2022-12-31T03:44:22Z,1,18:59,01:01,0,4,22.0,Edmonton Oilers,EDM
+124,55,22,Seattle Kraken,Edmonton Oilers,2022020577405,2022020577,Shot,405,SHOT,Jesse Puljujarvi Backhand saved by Martin Jones,2022-12-31T03:44:23Z,1,19:00,01:00,0,4,22.0,Edmonton Oilers,EDM
+125,55,22,Seattle Kraken,Edmonton Oilers,202202057726,2022020577,Stoppage,26,STOP,Goalie Stopped,2022-12-31T03:44:26Z,1,19:02,00:58,0,4,,,
+126,55,22,Seattle Kraken,Edmonton Oilers,2022020577312,2022020577,Faceoff,312,FACEOFF,Matty Beniers faceoff won against Ryan McLeod,2022-12-31T03:45:29Z,1,19:02,00:58,0,4,55.0,Seattle Kraken,SEA
+127,55,22,Seattle Kraken,Edmonton Oilers,2022020577313,2022020577,Giveaway,313,GIVEAWAY,Giveaway by Jamie Oleksiak,2022-12-31T03:45:36Z,1,19:09,00:51,0,4,55.0,Seattle Kraken,SEA
+128,55,22,Seattle Kraken,Edmonton Oilers,2022020577314,2022020577,Hit,314,HIT,Darnell Nurse hit Matty Beniers,2022-12-31T03:45:47Z,1,19:20,00:40,0,4,22.0,Edmonton Oilers,EDM
+129,55,22,Seattle Kraken,Edmonton Oilers,2022020577195,2022020577,Shot,195,SHOT,Darnell Nurse Snap Shot saved by Martin Jones,2022-12-31T03:46:15Z,1,19:48,00:12,0,4,22.0,Edmonton Oilers,EDM
+130,55,22,Seattle Kraken,Edmonton Oilers,2022020577196,2022020577,Shot,196,SHOT,Jordan Eberle Wrist Shot saved by Stuart Skinner,2022-12-31T03:46:21Z,1,19:54,00:06,0,4,55.0,Seattle Kraken,SEA
+131,55,22,Seattle Kraken,Edmonton Oilers,202202057727,2022020577,Period End,27,PERIOD_END,End of 1st Period,2022-12-31T03:46:26Z,1,20:00,00:00,0,4,,,
+132,55,22,Seattle Kraken,Edmonton Oilers,202202057730,2022020577,Period Official,30,PERIOD_OFFICIAL,Period Official,2022-12-31T04:02:43Z,1,20:00,00:00,0,4,,,
+133,55,22,Seattle Kraken,Edmonton Oilers,202202057731,2022020577,Period Ready,31,PERIOD_READY,Period Ready,2022-12-31T04:03:04Z,2,00:00,20:00,0,4,,,
+134,55,22,Seattle Kraken,Edmonton Oilers,2022020577317,2022020577,Period Start,317,PERIOD_START,Period Start,2022-12-31T04:05:17Z,2,00:00,20:00,0,4,,,
+135,55,22,Seattle Kraken,Edmonton Oilers,2022020577319,2022020577,Faceoff,319,FACEOFF,Ryan Nugent-Hopkins faceoff won against Alex Wennberg,2022-12-31T04:05:17Z,2,00:00,20:00,0,4,22.0,Edmonton Oilers,EDM
+136,55,22,Seattle Kraken,Edmonton Oilers,202202057732,2022020577,Stoppage,32,STOP,Icing,2022-12-31T04:05:32Z,2,00:16,19:44,0,4,,,
+137,55,22,Seattle Kraken,Edmonton Oilers,2022020577320,2022020577,Faceoff,320,FACEOFF,Connor McDavid faceoff won against Alex Wennberg,2022-12-31T04:05:53Z,2,00:16,19:44,0,4,22.0,Edmonton Oilers,EDM
+138,55,22,Seattle Kraken,Edmonton Oilers,2022020577404,2022020577,Shot,404,SHOT,Jesse Puljujarvi Wrist Shot saved by Martin Jones,2022-12-31T04:06:13Z,2,00:36,19:24,0,4,22.0,Edmonton Oilers,EDM
+139,55,22,Seattle Kraken,Edmonton Oilers,202202057733,2022020577,Stoppage,33,STOP,Goalie Stopped,2022-12-31T04:06:21Z,2,00:44,19:16,0,4,,,
+140,55,22,Seattle Kraken,Edmonton Oilers,2022020577321,2022020577,Faceoff,321,FACEOFF,Matty Beniers faceoff won against Mattias Janmark,2022-12-31T04:07:08Z,2,00:44,19:16,0,4,55.0,Seattle Kraken,SEA
+141,55,22,Seattle Kraken,Edmonton Oilers,2022020577198,2022020577,Shot,198,SHOT,Matty Beniers Backhand saved by Stuart Skinner,2022-12-31T04:07:26Z,2,01:02,18:58,0,4,55.0,Seattle Kraken,SEA
+142,55,22,Seattle Kraken,Edmonton Oilers,2022020577322,2022020577,Takeaway,322,TAKEAWAY,Takeaway by Dylan Holloway,2022-12-31T04:07:39Z,2,01:15,18:45,0,4,22.0,Edmonton Oilers,EDM
+143,55,22,Seattle Kraken,Edmonton Oilers,2022020577199,2022020577,Blocked Shot,199,BLOCKED_SHOT,Ryan Nugent-Hopkins shot blocked shot by Vince Dunn,2022-12-31T04:07:43Z,2,01:19,18:41,0,4,55.0,Seattle Kraken,SEA
+144,55,22,Seattle Kraken,Edmonton Oilers,2022020577323,2022020577,Hit,323,HIT,Adam Larsson hit Dylan Holloway,2022-12-31T04:07:43Z,2,01:19,18:41,0,4,55.0,Seattle Kraken,SEA
+145,55,22,Seattle Kraken,Edmonton Oilers,202202057734,2022020577,Shot,34,SHOT,Cody Ceci Slap Shot saved by Martin Jones,2022-12-31T04:07:52Z,2,01:28,18:32,0,4,22.0,Edmonton Oilers,EDM
+146,55,22,Seattle Kraken,Edmonton Oilers,202202057735,2022020577,Penalty,35,PENALTY,Vince Dunn Fighting against Dylan Holloway,2022-12-31T04:07:55Z,2,01:31,18:29,0,4,55.0,Seattle Kraken,SEA
+147,55,22,Seattle Kraken,Edmonton Oilers,2022020577520,2022020577,Penalty,520,PENALTY,Dylan Holloway Fighting against Vince Dunn,2022-12-31T04:07:55Z,2,01:31,18:29,0,4,22.0,Edmonton Oilers,EDM
+148,55,22,Seattle Kraken,Edmonton Oilers,2022020577324,2022020577,Faceoff,324,FACEOFF,Morgan Geekie faceoff won against Ryan McLeod,2022-12-31T04:09:06Z,2,01:31,18:29,0,4,55.0,Seattle Kraken,SEA
+149,55,22,Seattle Kraken,Edmonton Oilers,2022020577325,2022020577,Hit,325,HIT,Daniel Sprong hit Markus Niemelainen,2022-12-31T04:09:15Z,2,01:40,18:20,0,4,55.0,Seattle Kraken,SEA
+150,55,22,Seattle Kraken,Edmonton Oilers,2022020577200,2022020577,Goal,200,GOAL,"Daniel Sprong (11) Wrist Shot, assists: Morgan Geekie (10), Ryan Donato (4)",2022-12-31T04:09:25Z,2,01:50,18:10,1,4,55.0,Seattle Kraken,SEA
+151,55,22,Seattle Kraken,Edmonton Oilers,2022020577326,2022020577,Faceoff,326,FACEOFF,Yanni Gourde faceoff won against Connor McDavid,2022-12-31T04:10:05Z,2,01:50,18:10,1,4,55.0,Seattle Kraken,SEA
+152,55,22,Seattle Kraken,Edmonton Oilers,2022020577351,2022020577,Shot,351,SHOT,Brandon Tanev Backhand saved by Stuart Skinner,2022-12-31T04:10:12Z,2,01:57,18:03,1,4,55.0,Seattle Kraken,SEA
+153,55,22,Seattle Kraken,Edmonton Oilers,2022020577352,2022020577,Shot,352,SHOT,Jordan Eberle Wrist Shot saved by Stuart Skinner,2022-12-31T04:10:24Z,2,02:09,17:51,1,4,55.0,Seattle Kraken,SEA
+154,55,22,Seattle Kraken,Edmonton Oilers,2022020577353,2022020577,Shot,353,SHOT,Yanni Gourde Backhand saved by Stuart Skinner,2022-12-31T04:10:36Z,2,02:21,17:39,1,4,55.0,Seattle Kraken,SEA
+155,55,22,Seattle Kraken,Edmonton Oilers,2022020577327,2022020577,Hit,327,HIT,Jamie Oleksiak hit Jesse Puljujarvi,2022-12-31T04:10:55Z,2,02:40,17:20,1,4,55.0,Seattle Kraken,SEA
+156,55,22,Seattle Kraken,Edmonton Oilers,2022020577354,2022020577,Blocked Shot,354,BLOCKED_SHOT,Will Borgen shot blocked shot by Cody Ceci,2022-12-31T04:11:21Z,2,03:06,16:54,1,4,22.0,Edmonton Oilers,EDM
+157,55,22,Seattle Kraken,Edmonton Oilers,202202057738,2022020577,Stoppage,38,STOP,Icing,2022-12-31T04:11:43Z,2,03:28,16:32,1,4,,,
+158,55,22,Seattle Kraken,Edmonton Oilers,202202057739,2022020577,Faceoff,39,FACEOFF,Connor McDavid faceoff won against Alex Wennberg,2022-12-31T04:12:23Z,2,03:28,16:32,1,4,22.0,Edmonton Oilers,EDM
+159,55,22,Seattle Kraken,Edmonton Oilers,2022020577340,2022020577,Giveaway,340,GIVEAWAY,Giveaway by Ryan Donato,2022-12-31T04:12:35Z,2,03:40,16:20,1,4,55.0,Seattle Kraken,SEA
+160,55,22,Seattle Kraken,Edmonton Oilers,2022020577329,2022020577,Hit,329,HIT,Daniel Sprong hit Derek Ryan,2022-12-31T04:13:10Z,2,04:15,15:45,1,4,55.0,Seattle Kraken,SEA
+161,55,22,Seattle Kraken,Edmonton Oilers,202202057740,2022020577,Stoppage,40,STOP,Offside,2022-12-31T04:13:27Z,2,04:32,15:28,1,4,,,
+162,55,22,Seattle Kraken,Edmonton Oilers,2022020577330,2022020577,Faceoff,330,FACEOFF,Ryan McLeod faceoff won against Matty Beniers,2022-12-31T04:13:55Z,2,04:32,15:28,1,4,22.0,Edmonton Oilers,EDM
+163,55,22,Seattle Kraken,Edmonton Oilers,2022020577331,2022020577,Hit,331,HIT,Klim Kostin hit Jamie Oleksiak,2022-12-31T04:14:34Z,2,05:11,14:49,1,4,22.0,Edmonton Oilers,EDM
+164,55,22,Seattle Kraken,Edmonton Oilers,2022020577332,2022020577,Takeaway,332,TAKEAWAY,Takeaway by Kailer Yamamoto,2022-12-31T04:14:41Z,2,05:18,14:42,1,4,22.0,Edmonton Oilers,EDM
+165,55,22,Seattle Kraken,Edmonton Oilers,2022020577355,2022020577,Blocked Shot,355,BLOCKED_SHOT,Darnell Nurse shot blocked shot by Jared McCann,2022-12-31T04:14:52Z,2,05:29,14:31,1,4,55.0,Seattle Kraken,SEA
+166,55,22,Seattle Kraken,Edmonton Oilers,202202057741,2022020577,Goal,41,GOAL,"Klim Kostin (4) Tip-In, assists: Darnell Nurse (14), Ryan Nugent-Hopkins (26)",2022-12-31T04:14:56Z,2,05:33,14:27,1,5,22.0,Edmonton Oilers,EDM
+167,55,22,Seattle Kraken,Edmonton Oilers,2022020577333,2022020577,Faceoff,333,FACEOFF,Ryan Nugent-Hopkins faceoff won against Alex Wennberg,2022-12-31T04:15:39Z,2,05:33,14:27,1,5,22.0,Edmonton Oilers,EDM
+168,55,22,Seattle Kraken,Edmonton Oilers,202202057742,2022020577,Stoppage,42,STOP,Icing,2022-12-31T04:15:50Z,2,05:45,14:15,1,5,,,
+169,55,22,Seattle Kraken,Edmonton Oilers,2022020577334,2022020577,Faceoff,334,FACEOFF,Alex Wennberg faceoff won against Ryan Nugent-Hopkins,2022-12-31T04:16:11Z,2,05:45,14:15,1,5,55.0,Seattle Kraken,SEA
+170,55,22,Seattle Kraken,Edmonton Oilers,2022020577356,2022020577,Shot,356,SHOT,Oliver Bjorkstrand Wrist Shot saved by Stuart Skinner,2022-12-31T04:16:14Z,2,05:48,14:12,1,5,55.0,Seattle Kraken,SEA
+171,55,22,Seattle Kraken,Edmonton Oilers,2022020577607,2022020577,Penalty,607,PENALTY,Alex Wennberg Holding against Klim Kostin,2022-12-31T04:16:23Z,2,05:57,14:03,1,5,55.0,Seattle Kraken,SEA
+172,55,22,Seattle Kraken,Edmonton Oilers,2022020577335,2022020577,Faceoff,335,FACEOFF,Connor McDavid faceoff won against Morgan Geekie,2022-12-31T04:16:56Z,2,05:57,14:03,1,5,22.0,Edmonton Oilers,EDM
+173,55,22,Seattle Kraken,Edmonton Oilers,2022020577336,2022020577,Takeaway,336,TAKEAWAY,Takeaway by Brandon Tanev,2022-12-31T04:17:03Z,2,06:04,13:56,1,5,55.0,Seattle Kraken,SEA
+174,55,22,Seattle Kraken,Edmonton Oilers,2022020577357,2022020577,Goal,357,GOAL,"Zach Hyman (17) Tip-In, assists: Connor McDavid (40), Ryan Nugent-Hopkins (27)",2022-12-31T04:17:34Z,2,06:35,13:25,1,6,22.0,Edmonton Oilers,EDM
+175,55,22,Seattle Kraken,Edmonton Oilers,2022020577337,2022020577,Faceoff,337,FACEOFF,James Hamblin faceoff won against Alex Wennberg,2022-12-31T04:18:28Z,2,06:35,13:25,1,6,22.0,Edmonton Oilers,EDM
+176,55,22,Seattle Kraken,Edmonton Oilers,2022020577338,2022020577,Hit,338,HIT,Alex Wennberg hit Markus Niemelainen,2022-12-31T04:19:10Z,2,07:17,12:43,1,6,55.0,Seattle Kraken,SEA
+177,55,22,Seattle Kraken,Edmonton Oilers,2022020577358,2022020577,Shot,358,SHOT,Adam Larsson Wrist Shot saved by Stuart Skinner,2022-12-31T04:19:17Z,2,07:24,12:36,1,6,55.0,Seattle Kraken,SEA
+178,55,22,Seattle Kraken,Edmonton Oilers,202202057743,2022020577,Goal,43,GOAL,"Brandon Tanev (6) Backhand, assists: Adam Larsson (11), Vince Dunn (15)",2022-12-31T04:19:26Z,2,07:33,12:27,2,6,55.0,Seattle Kraken,SEA
+179,55,22,Seattle Kraken,Edmonton Oilers,2022020577359,2022020577,Shot,359,SHOT,Brandon Tanev Tip-In saved by Stuart Skinner,2022-12-31T04:19:26Z,2,07:33,12:27,2,6,55.0,Seattle Kraken,SEA
+180,55,22,Seattle Kraken,Edmonton Oilers,2022020577339,2022020577,Faceoff,339,FACEOFF,Alex Wennberg faceoff won against Ryan McLeod,2022-12-31T04:20:05Z,2,07:33,12:27,2,6,55.0,Seattle Kraken,SEA
+181,55,22,Seattle Kraken,Edmonton Oilers,2022020577406,2022020577,Shot,406,SHOT,Alex Wennberg Backhand saved by Stuart Skinner,2022-12-31T04:20:12Z,2,07:40,12:20,2,6,55.0,Seattle Kraken,SEA
+182,55,22,Seattle Kraken,Edmonton Oilers,202202057744,2022020577,Stoppage,44,STOP,Hand Pass,2022-12-31T04:20:32Z,2,08:00,12:00,2,6,,,
+183,55,22,Seattle Kraken,Edmonton Oilers,2022020577341,2022020577,Faceoff,341,FACEOFF,Morgan Geekie faceoff won against Ryan McLeod,2022-12-31T04:23:08Z,2,08:00,12:00,2,6,55.0,Seattle Kraken,SEA
+184,55,22,Seattle Kraken,Edmonton Oilers,2022020577342,2022020577,Hit,342,HIT,Will Borgen hit Kailer Yamamoto,2022-12-31T04:23:14Z,2,08:06,11:54,2,6,55.0,Seattle Kraken,SEA
+185,55,22,Seattle Kraken,Edmonton Oilers,2022020577360,2022020577,Shot,360,SHOT,Daniel Sprong Wrist Shot saved by Stuart Skinner,2022-12-31T04:23:17Z,2,08:09,11:51,2,6,55.0,Seattle Kraken,SEA
+186,55,22,Seattle Kraken,Edmonton Oilers,202202057745,2022020577,Stoppage,45,STOP,Goalie Stopped,2022-12-31T04:23:18Z,2,08:10,11:50,2,6,,,
+187,55,22,Seattle Kraken,Edmonton Oilers,2022020577343,2022020577,Faceoff,343,FACEOFF,Morgan Geekie faceoff won against Ryan Nugent-Hopkins,2022-12-31T04:23:48Z,2,08:10,11:50,2,6,55.0,Seattle Kraken,SEA
+188,55,22,Seattle Kraken,Edmonton Oilers,2022020577344,2022020577,Takeaway,344,TAKEAWAY,Takeaway by Ryan Nugent-Hopkins,2022-12-31T04:24:05Z,2,08:27,11:33,2,6,22.0,Edmonton Oilers,EDM
+189,55,22,Seattle Kraken,Edmonton Oilers,2022020577345,2022020577,Giveaway,345,GIVEAWAY,Giveaway by Brandon Tanev,2022-12-31T04:24:54Z,2,09:16,10:44,2,6,55.0,Seattle Kraken,SEA
+190,55,22,Seattle Kraken,Edmonton Oilers,2022020577361,2022020577,Shot,361,SHOT,Brandon Tanev Wrist Shot saved by Stuart Skinner,2022-12-31T04:25:06Z,2,09:28,10:32,2,6,55.0,Seattle Kraken,SEA
+191,55,22,Seattle Kraken,Edmonton Oilers,2022020577362,2022020577,Missed Shot,362,MISSED_SHOT,Brandon Tanev Over Net Stuart Skinner,2022-12-31T04:25:38Z,2,10:00,10:00,2,6,55.0,Seattle Kraken,SEA
+192,55,22,Seattle Kraken,Edmonton Oilers,2022020577636,2022020577,Penalty,636,PENALTY,Darnell Nurse Roughing - Removing opponent's helmet against Yanni Gourde,2022-12-31T04:25:38Z,2,10:00,10:00,2,6,22.0,Edmonton Oilers,EDM
+193,55,22,Seattle Kraken,Edmonton Oilers,2022020577346,2022020577,Faceoff,346,FACEOFF,Jaden Schwartz faceoff won against Ryan Nugent-Hopkins,2022-12-31T04:26:37Z,2,10:00,10:00,2,6,55.0,Seattle Kraken,SEA
+194,55,22,Seattle Kraken,Edmonton Oilers,2022020577363,2022020577,Missed Shot,363,MISSED_SHOT,Jared McCann Over Net Stuart Skinner,2022-12-31T04:27:13Z,2,10:36,09:24,2,6,55.0,Seattle Kraken,SEA
+195,55,22,Seattle Kraken,Edmonton Oilers,2022020577364,2022020577,Blocked Shot,364,BLOCKED_SHOT,Daniel Sprong shot blocked shot by Tyson Barrie,2022-12-31T04:27:40Z,2,11:03,08:57,2,6,22.0,Edmonton Oilers,EDM
+196,55,22,Seattle Kraken,Edmonton Oilers,2022020577365,2022020577,Blocked Shot,365,BLOCKED_SHOT,Justin Schultz shot blocked shot by Kailer Yamamoto,2022-12-31T04:27:59Z,2,11:22,08:38,2,6,22.0,Edmonton Oilers,EDM
+197,55,22,Seattle Kraken,Edmonton Oilers,202202057747,2022020577,Stoppage,47,STOP,Goalie Stopped,2022-12-31T04:28:07Z,2,11:30,08:30,2,6,,,
+198,55,22,Seattle Kraken,Edmonton Oilers,2022020577366,2022020577,Shot,366,SHOT,Daniel Sprong Wrist Shot saved by Stuart Skinner,2022-12-31T04:28:07Z,2,11:30,08:30,2,6,55.0,Seattle Kraken,SEA
+199,55,22,Seattle Kraken,Edmonton Oilers,2022020577347,2022020577,Faceoff,347,FACEOFF,Alex Wennberg faceoff won against Connor McDavid,2022-12-31T04:28:33Z,2,11:30,08:30,2,6,55.0,Seattle Kraken,SEA
+200,55,22,Seattle Kraken,Edmonton Oilers,2022020577367,2022020577,Blocked Shot,367,BLOCKED_SHOT,Oliver Bjorkstrand shot blocked shot by Brett Kulak,2022-12-31T04:28:38Z,2,11:35,08:25,2,6,22.0,Edmonton Oilers,EDM
+201,55,22,Seattle Kraken,Edmonton Oilers,2022020577348,2022020577,Takeaway,348,TAKEAWAY,Takeaway by Connor McDavid,2022-12-31T04:28:46Z,2,11:43,08:17,2,6,22.0,Edmonton Oilers,EDM
+202,55,22,Seattle Kraken,Edmonton Oilers,2022020577368,2022020577,Shot,368,SHOT,Connor McDavid Wrist Shot saved by Martin Jones,2022-12-31T04:28:50Z,2,11:47,08:13,2,6,22.0,Edmonton Oilers,EDM
+203,55,22,Seattle Kraken,Edmonton Oilers,2022020577349,2022020577,Takeaway,349,TAKEAWAY,Takeaway by Cody Ceci,2022-12-31T04:29:32Z,2,12:29,07:31,2,6,22.0,Edmonton Oilers,EDM
+204,55,22,Seattle Kraken,Edmonton Oilers,2022020577350,2022020577,Takeaway,350,TAKEAWAY,Takeaway by Jesse Puljujarvi,2022-12-31T04:29:42Z,2,12:39,07:21,2,6,22.0,Edmonton Oilers,EDM
+205,55,22,Seattle Kraken,Edmonton Oilers,2022020577369,2022020577,Shot,369,SHOT,Jesse Puljujarvi Wrist Shot saved by Martin Jones,2022-12-31T04:29:43Z,2,12:40,07:20,2,6,22.0,Edmonton Oilers,EDM
+206,55,22,Seattle Kraken,Edmonton Oilers,2022020577551,2022020577,Hit,551,HIT,Yanni Gourde hit Darnell Nurse,2022-12-31T04:29:58Z,2,12:55,07:05,2,6,55.0,Seattle Kraken,SEA
+207,55,22,Seattle Kraken,Edmonton Oilers,2022020577370,2022020577,Shot,370,SHOT,Morgan Geekie Slap Shot saved by Stuart Skinner,2022-12-31T04:30:21Z,2,13:18,06:42,2,6,55.0,Seattle Kraken,SEA
+208,55,22,Seattle Kraken,Edmonton Oilers,202202057748,2022020577,Stoppage,48,STOP,Goalie Stopped,2022-12-31T04:30:22Z,2,13:19,06:41,2,6,,,
+209,55,22,Seattle Kraken,Edmonton Oilers,2022020577552,2022020577,Faceoff,552,FACEOFF,Connor McDavid faceoff won against Yanni Gourde,2022-12-31T04:32:54Z,2,13:19,06:41,2,6,22.0,Edmonton Oilers,EDM
+210,55,22,Seattle Kraken,Edmonton Oilers,2022020577371,2022020577,Blocked Shot,371,BLOCKED_SHOT,Brandon Tanev shot blocked shot by Brett Kulak,2022-12-31T04:33:03Z,2,13:28,06:32,2,6,22.0,Edmonton Oilers,EDM
+211,55,22,Seattle Kraken,Edmonton Oilers,2022020577555,2022020577,Giveaway,555,GIVEAWAY,Giveaway by Brandon Tanev,2022-12-31T04:33:22Z,2,13:47,06:13,2,6,55.0,Seattle Kraken,SEA
+212,55,22,Seattle Kraken,Edmonton Oilers,2022020577553,2022020577,Hit,553,HIT,Brett Kulak hit Brandon Tanev,2022-12-31T04:33:23Z,2,13:48,06:12,2,6,22.0,Edmonton Oilers,EDM
+213,55,22,Seattle Kraken,Edmonton Oilers,202202057749,2022020577,Hit,49,HIT,Adam Larsson hit Zach Hyman,2022-12-31T04:33:43Z,2,14:08,05:52,2,6,55.0,Seattle Kraken,SEA
+214,55,22,Seattle Kraken,Edmonton Oilers,2022020577556,2022020577,Takeaway,556,TAKEAWAY,Takeaway by Yanni Gourde,2022-12-31T04:34:06Z,2,14:31,05:29,2,6,55.0,Seattle Kraken,SEA
+215,55,22,Seattle Kraken,Edmonton Oilers,2022020577372,2022020577,Shot,372,SHOT,Mattias Janmark Tip-In saved by Martin Jones,2022-12-31T04:34:21Z,2,14:46,05:14,2,6,22.0,Edmonton Oilers,EDM
+216,55,22,Seattle Kraken,Edmonton Oilers,2022020577373,2022020577,Shot,373,SHOT,Klim Kostin Wrist Shot saved by Martin Jones,2022-12-31T04:34:48Z,2,15:13,04:47,2,6,22.0,Edmonton Oilers,EDM
+217,55,22,Seattle Kraken,Edmonton Oilers,2022020577374,2022020577,Shot,374,SHOT,Jaden Schwartz Backhand saved by Stuart Skinner,2022-12-31T04:35:11Z,2,15:36,04:24,2,6,55.0,Seattle Kraken,SEA
+218,55,22,Seattle Kraken,Edmonton Oilers,2022020577557,2022020577,Hit,557,HIT,Will Borgen hit James Hamblin,2022-12-31T04:35:22Z,2,15:47,04:13,2,6,55.0,Seattle Kraken,SEA
+219,55,22,Seattle Kraken,Edmonton Oilers,202202057750,2022020577,Stoppage,50,STOP,Icing,2022-12-31T04:35:44Z,2,16:09,03:51,2,6,,,
+220,55,22,Seattle Kraken,Edmonton Oilers,2022020577558,2022020577,Faceoff,558,FACEOFF,Matty Beniers faceoff won against Derek Ryan,2022-12-31T04:36:08Z,2,16:09,03:51,2,6,55.0,Seattle Kraken,SEA
+221,55,22,Seattle Kraken,Edmonton Oilers,2022020577375,2022020577,Blocked Shot,375,BLOCKED_SHOT,Carson Soucy shot blocked shot by Dylan Holloway,2022-12-31T04:36:10Z,2,16:11,03:49,2,6,22.0,Edmonton Oilers,EDM
+222,55,22,Seattle Kraken,Edmonton Oilers,2022020577451,2022020577,Stoppage,451,STOP,Offside,2022-12-31T04:36:12Z,2,16:13,03:47,2,6,,,
+223,55,22,Seattle Kraken,Edmonton Oilers,2022020577559,2022020577,Faceoff,559,FACEOFF,Morgan Geekie faceoff won against Ryan McLeod,2022-12-31T04:38:26Z,2,16:13,03:47,2,6,55.0,Seattle Kraken,SEA
+224,55,22,Seattle Kraken,Edmonton Oilers,2022020577376,2022020577,Shot,376,SHOT,Tyson Barrie Slap Shot saved by Martin Jones,2022-12-31T04:38:40Z,2,16:27,03:33,2,6,22.0,Edmonton Oilers,EDM
+225,55,22,Seattle Kraken,Edmonton Oilers,2022020577452,2022020577,Blocked Shot,452,BLOCKED_SHOT,Warren Foegele shot blocked shot by Adam Larsson,2022-12-31T04:38:44Z,2,16:31,03:29,2,6,55.0,Seattle Kraken,SEA
+226,55,22,Seattle Kraken,Edmonton Oilers,2022020577453,2022020577,Stoppage,453,STOP,Goalie Stopped,2022-12-31T04:40:04Z,2,17:50,02:10,2,6,,,
+227,55,22,Seattle Kraken,Edmonton Oilers,2022020577454,2022020577,Faceoff,454,FACEOFF,Connor McDavid faceoff won against Yanni Gourde,2022-12-31T04:40:33Z,2,17:50,02:10,2,6,22.0,Edmonton Oilers,EDM
+228,55,22,Seattle Kraken,Edmonton Oilers,2022020577378,2022020577,Blocked Shot,378,BLOCKED_SHOT,Jordan Eberle shot blocked shot by Brett Kulak,2022-12-31T04:41:19Z,2,18:36,01:24,2,6,22.0,Edmonton Oilers,EDM
+229,55,22,Seattle Kraken,Edmonton Oilers,2022020577455,2022020577,Stoppage,455,STOP,Puck in Netting,2022-12-31T04:41:19Z,2,18:36,01:24,2,6,,,
+230,55,22,Seattle Kraken,Edmonton Oilers,2022020577560,2022020577,Faceoff,560,FACEOFF,Alex Wennberg faceoff won against Ryan McLeod,2022-12-31T04:41:56Z,2,18:36,01:24,2,6,55.0,Seattle Kraken,SEA
+231,55,22,Seattle Kraken,Edmonton Oilers,2022020577379,2022020577,Missed Shot,379,MISSED_SHOT,Oliver Bjorkstrand Wide of Net Stuart Skinner,2022-12-31T04:42:05Z,2,18:45,01:15,2,6,55.0,Seattle Kraken,SEA
+232,55,22,Seattle Kraken,Edmonton Oilers,2022020577561,2022020577,Takeaway,561,TAKEAWAY,Takeaway by Ryan Mcleod,2022-12-31T04:42:20Z,2,19:00,01:00,2,6,22.0,Edmonton Oilers,EDM
+233,55,22,Seattle Kraken,Edmonton Oilers,2022020577380,2022020577,Missed Shot,380,MISSED_SHOT,Alex Wennberg Wide of Net Stuart Skinner,2022-12-31T04:42:25Z,2,19:05,00:55,2,6,55.0,Seattle Kraken,SEA
+234,55,22,Seattle Kraken,Edmonton Oilers,2022020577456,2022020577,Stoppage,456,STOP,Icing,2022-12-31T04:42:35Z,2,19:13,00:47,2,6,,,
+235,55,22,Seattle Kraken,Edmonton Oilers,2022020577562,2022020577,Faceoff,562,FACEOFF,Morgan Geekie faceoff won against Ryan McLeod,2022-12-31T04:43:05Z,2,19:13,00:47,2,6,55.0,Seattle Kraken,SEA
+236,55,22,Seattle Kraken,Edmonton Oilers,2022020577457,2022020577,Stoppage,457,STOP,Icing,2022-12-31T04:43:14Z,2,19:22,00:38,2,6,,,
+237,55,22,Seattle Kraken,Edmonton Oilers,2022020577563,2022020577,Faceoff,563,FACEOFF,Morgan Geekie faceoff won against Ryan McLeod,2022-12-31T04:43:34Z,2,19:22,00:38,2,6,55.0,Seattle Kraken,SEA
+238,55,22,Seattle Kraken,Edmonton Oilers,2022020577381,2022020577,Shot,381,SHOT,Ryan McLeod Wrist Shot saved by Martin Jones,2022-12-31T04:43:49Z,2,19:37,00:23,2,6,22.0,Edmonton Oilers,EDM
+239,55,22,Seattle Kraken,Edmonton Oilers,2022020577382,2022020577,Blocked Shot,382,BLOCKED_SHOT,Darnell Nurse shot blocked shot by Adam Larsson,2022-12-31T04:44:10Z,2,19:58,00:02,2,6,55.0,Seattle Kraken,SEA
+240,55,22,Seattle Kraken,Edmonton Oilers,2022020577459,2022020577,Period End,459,PERIOD_END,End of 2nd Period,2022-12-31T04:44:12Z,2,20:00,00:00,2,6,,,
+241,55,22,Seattle Kraken,Edmonton Oilers,2022020577462,2022020577,Period Official,462,PERIOD_OFFICIAL,Period Official,2022-12-31T05:00:47Z,2,20:00,00:00,2,6,,,
+242,55,22,Seattle Kraken,Edmonton Oilers,2022020577463,2022020577,Period Ready,463,PERIOD_READY,Period Ready,2022-12-31T05:00:50Z,3,00:00,20:00,2,6,,,
+243,55,22,Seattle Kraken,Edmonton Oilers,2022020577564,2022020577,Period Start,564,PERIOD_START,Period Start,2022-12-31T05:03:00Z,3,00:00,20:00,2,6,,,
+244,55,22,Seattle Kraken,Edmonton Oilers,2022020577565,2022020577,Faceoff,565,FACEOFF,Alex Wennberg faceoff won against Ryan Nugent-Hopkins,2022-12-31T05:03:00Z,3,00:00,20:00,2,6,55.0,Seattle Kraken,SEA
+245,55,22,Seattle Kraken,Edmonton Oilers,2022020577464,2022020577,Blocked Shot,464,BLOCKED_SHOT,Justin Schultz shot blocked shot by Mattias Janmark,2022-12-31T05:03:21Z,3,00:21,19:39,2,6,22.0,Edmonton Oilers,EDM
+246,55,22,Seattle Kraken,Edmonton Oilers,2022020577566,2022020577,Hit,566,HIT,Brandon Tanev hit Ryan McLeod,2022-12-31T05:03:55Z,3,00:55,19:05,2,6,55.0,Seattle Kraken,SEA
+247,55,22,Seattle Kraken,Edmonton Oilers,2022020577383,2022020577,Shot,383,SHOT,Jordan Eberle Wrist Shot saved by Stuart Skinner,2022-12-31T05:04:01Z,3,01:01,18:59,2,6,55.0,Seattle Kraken,SEA
+248,55,22,Seattle Kraken,Edmonton Oilers,2022020577384,2022020577,Shot,384,SHOT,Adam Larsson Wrist Shot saved by Stuart Skinner,2022-12-31T05:04:19Z,3,01:19,18:41,2,6,55.0,Seattle Kraken,SEA
+249,55,22,Seattle Kraken,Edmonton Oilers,2022020577567,2022020577,Takeaway,567,TAKEAWAY,Takeaway by Evan Bouchard,2022-12-31T05:04:34Z,3,01:34,18:26,2,6,22.0,Edmonton Oilers,EDM
+250,55,22,Seattle Kraken,Edmonton Oilers,2022020577568,2022020577,Hit,568,HIT,Matty Beniers hit Jesse Puljujarvi,2022-12-31T05:04:41Z,3,01:41,18:19,2,6,55.0,Seattle Kraken,SEA
+251,55,22,Seattle Kraken,Edmonton Oilers,2022020577385,2022020577,Shot,385,SHOT,Jesse Puljujarvi Wrist Shot saved by Martin Jones,2022-12-31T05:04:50Z,3,01:50,18:10,2,6,22.0,Edmonton Oilers,EDM
+252,55,22,Seattle Kraken,Edmonton Oilers,2022020577569,2022020577,Hit,569,HIT,Vince Dunn hit Zach Hyman,2022-12-31T05:04:57Z,3,01:57,18:03,2,6,55.0,Seattle Kraken,SEA
+253,55,22,Seattle Kraken,Edmonton Oilers,2022020577570,2022020577,Hit,570,HIT,Will Borgen hit Zach Hyman,2022-12-31T05:05:18Z,3,02:18,17:42,2,6,55.0,Seattle Kraken,SEA
+254,55,22,Seattle Kraken,Edmonton Oilers,2022020577386,2022020577,Shot,386,SHOT,Jaden Schwartz Wrist Shot saved by Stuart Skinner,2022-12-31T05:06:28Z,3,03:28,16:32,2,6,55.0,Seattle Kraken,SEA
+255,55,22,Seattle Kraken,Edmonton Oilers,2022020577387,2022020577,Shot,387,SHOT,Vince Dunn Wrist Shot saved by Stuart Skinner,2022-12-31T05:06:52Z,3,03:52,16:08,2,6,55.0,Seattle Kraken,SEA
+256,55,22,Seattle Kraken,Edmonton Oilers,2022020577571,2022020577,Takeaway,571,TAKEAWAY,Takeaway by Adam Larsson,2022-12-31T05:07:12Z,3,04:12,15:48,2,6,55.0,Seattle Kraken,SEA
+257,55,22,Seattle Kraken,Edmonton Oilers,2022020577465,2022020577,Stoppage,465,STOP,Icing,2022-12-31T05:07:17Z,3,04:17,15:43,2,6,,,
+258,55,22,Seattle Kraken,Edmonton Oilers,2022020577572,2022020577,Faceoff,572,FACEOFF,Ryan McLeod faceoff won against Matty Beniers,2022-12-31T05:07:47Z,3,04:17,15:43,2,6,22.0,Edmonton Oilers,EDM
+259,55,22,Seattle Kraken,Edmonton Oilers,2022020577573,2022020577,Giveaway,573,GIVEAWAY,Giveaway by Martin Jones,2022-12-31T05:07:58Z,3,04:28,15:32,2,6,55.0,Seattle Kraken,SEA
+260,55,22,Seattle Kraken,Edmonton Oilers,2022020577388,2022020577,Missed Shot,388,MISSED_SHOT,Brett Kulak Wide of Net Martin Jones,2022-12-31T05:08:02Z,3,04:32,15:28,2,6,22.0,Edmonton Oilers,EDM
+261,55,22,Seattle Kraken,Edmonton Oilers,2022020577466,2022020577,Missed Shot,466,MISSED_SHOT,Evan Bouchard Wide of Net Martin Jones,2022-12-31T05:08:08Z,3,04:38,15:22,2,6,22.0,Edmonton Oilers,EDM
+262,55,22,Seattle Kraken,Edmonton Oilers,2022020577467,2022020577,Stoppage,467,STOP,Icing,2022-12-31T05:08:12Z,3,04:43,15:17,2,6,,,
+263,55,22,Seattle Kraken,Edmonton Oilers,2022020577574,2022020577,Faceoff,574,FACEOFF,Matty Beniers faceoff won against Connor McDavid,2022-12-31T05:08:36Z,3,04:43,15:17,2,6,55.0,Seattle Kraken,SEA
+264,55,22,Seattle Kraken,Edmonton Oilers,2022020577389,2022020577,Shot,389,SHOT,Jordan Eberle Wrist Shot saved by Stuart Skinner,2022-12-31T05:09:06Z,3,05:13,14:47,2,6,55.0,Seattle Kraken,SEA
+265,55,22,Seattle Kraken,Edmonton Oilers,2022020577575,2022020577,Giveaway,575,GIVEAWAY,Giveaway by Connor McDavid,2022-12-31T05:09:12Z,3,05:19,14:41,2,6,22.0,Edmonton Oilers,EDM
+266,55,22,Seattle Kraken,Edmonton Oilers,2022020577576,2022020577,Hit,576,HIT,Jesse Puljujarvi hit Jordan Eberle,2022-12-31T05:09:21Z,3,05:28,14:32,2,6,22.0,Edmonton Oilers,EDM
+267,55,22,Seattle Kraken,Edmonton Oilers,2022020577390,2022020577,Shot,390,SHOT,Adam Larsson Wrist Shot saved by Stuart Skinner,2022-12-31T05:10:02Z,3,06:09,13:51,2,6,55.0,Seattle Kraken,SEA
+268,55,22,Seattle Kraken,Edmonton Oilers,2022020577391,2022020577,Shot,391,SHOT,Alex Wennberg Tip-In saved by Stuart Skinner,2022-12-31T05:10:14Z,3,06:21,13:39,2,6,55.0,Seattle Kraken,SEA
+269,55,22,Seattle Kraken,Edmonton Oilers,2022020577392,2022020577,Blocked Shot,392,BLOCKED_SHOT,Matty Beniers shot blocked shot by Evan Bouchard,2022-12-31T05:10:43Z,3,06:50,13:10,2,6,22.0,Edmonton Oilers,EDM
+270,55,22,Seattle Kraken,Edmonton Oilers,2022020577468,2022020577,Shot,468,SHOT,Matty Beniers Slap Shot saved by Stuart Skinner,2022-12-31T05:11:22Z,3,07:29,12:31,2,6,55.0,Seattle Kraken,SEA
+271,55,22,Seattle Kraken,Edmonton Oilers,2022020577469,2022020577,Stoppage,469,STOP,TV timeout,2022-12-31T05:11:29Z,3,07:36,12:24,2,6,,,
+272,55,22,Seattle Kraken,Edmonton Oilers,2022020577831,2022020577,Penalty,831,PENALTY,Klim Kostin Roughing against Brandon Tanev,2022-12-31T05:11:29Z,3,07:36,12:24,2,6,22.0,Edmonton Oilers,EDM
+273,55,22,Seattle Kraken,Edmonton Oilers,2022020577835,2022020577,Penalty,835,PENALTY,Jamie Oleksiak Roughing against Klim Kostin,2022-12-31T05:11:29Z,3,07:36,12:24,2,6,55.0,Seattle Kraken,SEA
+274,55,22,Seattle Kraken,Edmonton Oilers,2022020577842,2022020577,Penalty,842,PENALTY,Klim Kostin Roughing against Brandon Tanev served by Dylan Holloway,2022-12-31T05:11:29Z,3,07:36,12:24,2,6,22.0,Edmonton Oilers,EDM
+275,55,22,Seattle Kraken,Edmonton Oilers,2022020577577,2022020577,Faceoff,577,FACEOFF,Jaden Schwartz faceoff won against Ryan Nugent-Hopkins,2022-12-31T05:15:15Z,3,07:36,12:24,2,6,55.0,Seattle Kraken,SEA
+276,55,22,Seattle Kraken,Edmonton Oilers,2022020577394,2022020577,Shot,394,SHOT,Andre Burakovsky Wrist Shot saved by Stuart Skinner,2022-12-31T05:15:24Z,3,07:45,12:15,2,6,55.0,Seattle Kraken,SEA
+277,55,22,Seattle Kraken,Edmonton Oilers,2022020577395,2022020577,Shot,395,SHOT,Andre Burakovsky Slap Shot saved by Stuart Skinner,2022-12-31T05:15:40Z,3,08:01,11:59,2,6,55.0,Seattle Kraken,SEA
+278,55,22,Seattle Kraken,Edmonton Oilers,2022020577578,2022020577,Stoppage,578,STOP,Goalie Stopped,2022-12-31T05:15:42Z,3,08:02,11:58,2,6,,,
+279,55,22,Seattle Kraken,Edmonton Oilers,2022020577579,2022020577,Faceoff,579,FACEOFF,Ryan McLeod faceoff won against Jordan Eberle,2022-12-31T05:16:09Z,3,08:02,11:58,2,6,22.0,Edmonton Oilers,EDM
+280,55,22,Seattle Kraken,Edmonton Oilers,2022020577396,2022020577,Giveaway,396,GIVEAWAY,Giveaway by Vince Dunn,2022-12-31T05:16:28Z,3,08:21,11:39,2,6,55.0,Seattle Kraken,SEA
+281,55,22,Seattle Kraken,Edmonton Oilers,2022020577397,2022020577,Missed Shot,397,MISSED_SHOT,Andre Burakovsky Over Net Stuart Skinner,2022-12-31T05:16:43Z,3,08:36,11:24,2,6,55.0,Seattle Kraken,SEA
+282,55,22,Seattle Kraken,Edmonton Oilers,2022020577398,2022020577,Shot,398,SHOT,Jaden Schwartz Wrist Shot saved by Stuart Skinner,2022-12-31T05:17:00Z,3,08:53,11:07,2,6,55.0,Seattle Kraken,SEA
+283,55,22,Seattle Kraken,Edmonton Oilers,2022020577581,2022020577,Stoppage,581,STOP,Goalie Stopped,2022-12-31T05:17:01Z,3,08:54,11:06,2,6,,,
+284,55,22,Seattle Kraken,Edmonton Oilers,2022020577582,2022020577,Faceoff,582,FACEOFF,Derek Ryan faceoff won against Matty Beniers,2022-12-31T05:17:29Z,3,08:54,11:06,2,6,22.0,Edmonton Oilers,EDM
+285,55,22,Seattle Kraken,Edmonton Oilers,2022020577583,2022020577,Giveaway,583,GIVEAWAY,Giveaway by Oliver Bjorkstrand,2022-12-31T05:17:53Z,3,09:18,10:42,2,6,55.0,Seattle Kraken,SEA
+286,55,22,Seattle Kraken,Edmonton Oilers,2022020577585,2022020577,Hit,585,HIT,Carson Soucy hit Dylan Holloway,2022-12-31T05:18:40Z,3,10:05,09:55,2,6,55.0,Seattle Kraken,SEA
+287,55,22,Seattle Kraken,Edmonton Oilers,2022020577586,2022020577,Takeaway,586,TAKEAWAY,Takeaway by Connor McDavid,2022-12-31T05:19:15Z,3,10:40,09:20,2,6,22.0,Edmonton Oilers,EDM
+288,55,22,Seattle Kraken,Edmonton Oilers,2022020577399,2022020577,Goal,399,GOAL,"Connor McDavid (32) Wrist Shot, assists: none",2022-12-31T05:19:18Z,3,10:43,09:17,2,7,22.0,Edmonton Oilers,EDM
+289,55,22,Seattle Kraken,Edmonton Oilers,2022020577587,2022020577,Faceoff,587,FACEOFF,James Hamblin faceoff won against Morgan Geekie,2022-12-31T05:19:56Z,3,10:43,09:17,2,7,22.0,Edmonton Oilers,EDM
+290,55,22,Seattle Kraken,Edmonton Oilers,2022020577400,2022020577,Shot,400,SHOT,Jamie Oleksiak Wrist Shot saved by Stuart Skinner,2022-12-31T05:20:31Z,3,11:18,08:42,2,7,55.0,Seattle Kraken,SEA
+291,55,22,Seattle Kraken,Edmonton Oilers,2022020577588,2022020577,Hit,588,HIT,Jamie Oleksiak hit Mattias Janmark,2022-12-31T05:20:46Z,3,11:33,08:27,2,7,55.0,Seattle Kraken,SEA
+292,55,22,Seattle Kraken,Edmonton Oilers,2022020577701,2022020577,Shot,701,SHOT,Brett Kulak Wrist Shot saved by Martin Jones,2022-12-31T05:21:00Z,3,11:47,08:13,2,7,22.0,Edmonton Oilers,EDM
+293,55,22,Seattle Kraken,Edmonton Oilers,2022020577702,2022020577,Shot,702,SHOT,Morgan Geekie Wrist Shot saved by Stuart Skinner,2022-12-31T05:21:21Z,3,12:08,07:52,2,7,55.0,Seattle Kraken,SEA
+294,55,22,Seattle Kraken,Edmonton Oilers,2022020577703,2022020577,Missed Shot,703,MISSED_SHOT,Vince Dunn Wide of Net Stuart Skinner,2022-12-31T05:22:30Z,3,13:17,06:43,2,7,55.0,Seattle Kraken,SEA
+295,55,22,Seattle Kraken,Edmonton Oilers,2022020577704,2022020577,Missed Shot,704,MISSED_SHOT,Adam Larsson Wide of Net Stuart Skinner,2022-12-31T05:22:39Z,3,13:26,06:34,2,7,55.0,Seattle Kraken,SEA
+296,55,22,Seattle Kraken,Edmonton Oilers,2022020577470,2022020577,Stoppage,470,STOP,Goalie Stopped,2022-12-31T05:22:41Z,3,13:27,06:33,2,7,,,
+297,55,22,Seattle Kraken,Edmonton Oilers,2022020577592,2022020577,Faceoff,592,FACEOFF,Matty Beniers faceoff won against Ryan Nugent-Hopkins,2022-12-31T05:25:02Z,3,13:27,06:33,2,7,55.0,Seattle Kraken,SEA
+298,55,22,Seattle Kraken,Edmonton Oilers,2022020577705,2022020577,Missed Shot,705,MISSED_SHOT,Will Borgen Wide of Net Stuart Skinner,2022-12-31T05:25:02Z,3,13:30,06:30,2,7,55.0,Seattle Kraken,SEA
+299,55,22,Seattle Kraken,Edmonton Oilers,2022020577471,2022020577,Stoppage,471,STOP,Icing,2022-12-31T05:25:23Z,3,13:48,06:12,2,7,,,
+300,55,22,Seattle Kraken,Edmonton Oilers,2022020577593,2022020577,Faceoff,593,FACEOFF,Ryan Nugent-Hopkins faceoff won against Yanni Gourde,2022-12-31T05:25:46Z,3,13:48,06:12,2,7,22.0,Edmonton Oilers,EDM
+301,55,22,Seattle Kraken,Edmonton Oilers,2022020577594,2022020577,Takeaway,594,TAKEAWAY,Takeaway by Yanni Gourde,2022-12-31T05:25:57Z,3,13:59,06:01,2,7,55.0,Seattle Kraken,SEA
+302,55,22,Seattle Kraken,Edmonton Oilers,2022020577706,2022020577,Shot,706,SHOT,Justin Schultz Wrist Shot saved by Stuart Skinner,2022-12-31T05:26:08Z,3,14:10,05:50,2,7,55.0,Seattle Kraken,SEA
+303,55,22,Seattle Kraken,Edmonton Oilers,2022020577707,2022020577,Blocked Shot,707,BLOCKED_SHOT,Markus Niemelainen shot blocked shot by Jaden Schwartz,2022-12-31T05:26:58Z,3,15:00,05:00,2,7,55.0,Seattle Kraken,SEA
+304,55,22,Seattle Kraken,Edmonton Oilers,2022020577595,2022020577,Takeaway,595,TAKEAWAY,Takeaway by Vince Dunn,2022-12-31T05:27:05Z,3,15:07,04:53,2,7,55.0,Seattle Kraken,SEA
+305,55,22,Seattle Kraken,Edmonton Oilers,2022020577596,2022020577,Giveaway,596,GIVEAWAY,Giveaway by Evan Bouchard,2022-12-31T05:27:09Z,3,15:11,04:49,2,7,22.0,Edmonton Oilers,EDM
+306,55,22,Seattle Kraken,Edmonton Oilers,2022020577708,2022020577,Shot,708,SHOT,Vince Dunn Slap Shot saved by Stuart Skinner,2022-12-31T05:27:17Z,3,15:19,04:41,2,7,55.0,Seattle Kraken,SEA
+307,55,22,Seattle Kraken,Edmonton Oilers,2022020577597,2022020577,Giveaway,597,GIVEAWAY,Giveaway by Stuart Skinner,2022-12-31T05:27:58Z,3,16:00,04:00,2,7,22.0,Edmonton Oilers,EDM
+308,55,22,Seattle Kraken,Edmonton Oilers,2022020577598,2022020577,Takeaway,598,TAKEAWAY,Takeaway by Brandon Tanev,2022-12-31T05:28:01Z,3,16:03,03:57,2,7,55.0,Seattle Kraken,SEA
+309,55,22,Seattle Kraken,Edmonton Oilers,2022020577709,2022020577,Blocked Shot,709,BLOCKED_SHOT,Yanni Gourde shot blocked shot by Brett Kulak,2022-12-31T05:28:10Z,3,16:12,03:48,2,7,22.0,Edmonton Oilers,EDM
+310,55,22,Seattle Kraken,Edmonton Oilers,2022020577599,2022020577,Takeaway,599,TAKEAWAY,Takeaway by Will Borgen,2022-12-31T05:28:19Z,3,16:21,03:39,2,7,55.0,Seattle Kraken,SEA
+311,55,22,Seattle Kraken,Edmonton Oilers,2022020577710,2022020577,Blocked Shot,710,BLOCKED_SHOT,Andre Burakovsky shot blocked shot by Connor McDavid,2022-12-31T05:28:46Z,3,16:48,03:12,2,7,22.0,Edmonton Oilers,EDM
+312,55,22,Seattle Kraken,Edmonton Oilers,2022020577472,2022020577,Stoppage,472,STOP,Puck in Netting,2022-12-31T05:28:48Z,3,16:50,03:10,2,7,,,
+313,55,22,Seattle Kraken,Edmonton Oilers,2022020577600,2022020577,Faceoff,600,FACEOFF,Ryan Nugent-Hopkins faceoff won against Alex Wennberg,2022-12-31T05:31:07Z,3,16:50,03:10,2,7,22.0,Edmonton Oilers,EDM
+314,55,22,Seattle Kraken,Edmonton Oilers,2022020577711,2022020577,Blocked Shot,711,BLOCKED_SHOT,Alex Wennberg shot blocked shot by Derek Ryan,2022-12-31T05:31:20Z,3,17:03,02:57,2,7,22.0,Edmonton Oilers,EDM
+315,55,22,Seattle Kraken,Edmonton Oilers,2022020577851,2022020577,Takeaway,851,TAKEAWAY,Takeaway by Ryan Nugent-Hopkins,2022-12-31T05:31:27Z,3,17:10,02:50,2,7,22.0,Edmonton Oilers,EDM
+316,55,22,Seattle Kraken,Edmonton Oilers,2022020577473,2022020577,Stoppage,473,STOP,Icing,2022-12-31T05:31:31Z,3,17:14,02:46,2,7,,,
+317,55,22,Seattle Kraken,Edmonton Oilers,2022020577852,2022020577,Faceoff,852,FACEOFF,Ryan Nugent-Hopkins faceoff won against Brandon Tanev,2022-12-31T05:31:57Z,3,17:14,02:46,2,7,22.0,Edmonton Oilers,EDM
+318,55,22,Seattle Kraken,Edmonton Oilers,2022020577474,2022020577,Takeaway,474,TAKEAWAY,Takeaway by Yanni Gourde,2022-12-31T05:32:09Z,3,17:26,02:34,2,7,55.0,Seattle Kraken,SEA
+319,55,22,Seattle Kraken,Edmonton Oilers,2022020577853,2022020577,Giveaway,853,GIVEAWAY,Giveaway by Brandon Tanev,2022-12-31T05:32:21Z,3,17:38,02:22,2,7,55.0,Seattle Kraken,SEA
+320,55,22,Seattle Kraken,Edmonton Oilers,2022020577712,2022020577,Shot,712,SHOT,Cody Ceci Wrist Shot saved by Martin Jones,2022-12-31T05:32:22Z,3,17:39,02:21,2,7,22.0,Edmonton Oilers,EDM
+321,55,22,Seattle Kraken,Edmonton Oilers,2022020577475,2022020577,Stoppage,475,STOP,Icing,2022-12-31T05:32:43Z,3,18:00,02:00,2,7,,,
+322,55,22,Seattle Kraken,Edmonton Oilers,2022020577854,2022020577,Faceoff,854,FACEOFF,Ryan McLeod faceoff won against Matty Beniers,2022-12-31T05:33:08Z,3,18:00,02:00,2,7,22.0,Edmonton Oilers,EDM
+323,55,22,Seattle Kraken,Edmonton Oilers,2022020577855,2022020577,Hit,855,HIT,Evan Bouchard hit Daniel Sprong,2022-12-31T05:33:23Z,3,18:15,01:45,2,7,22.0,Edmonton Oilers,EDM
+324,55,22,Seattle Kraken,Edmonton Oilers,2022020577713,2022020577,Blocked Shot,713,BLOCKED_SHOT,Evan Bouchard shot blocked shot by Adam Larsson,2022-12-31T05:33:31Z,3,18:23,01:37,2,7,55.0,Seattle Kraken,SEA
+325,55,22,Seattle Kraken,Edmonton Oilers,2022020577476,2022020577,Shot,476,SHOT,Markus Niemelainen Wrist Shot saved by Martin Jones,2022-12-31T05:33:33Z,3,18:25,01:35,2,7,22.0,Edmonton Oilers,EDM
+326,55,22,Seattle Kraken,Edmonton Oilers,2022020577714,2022020577,Blocked Shot,714,BLOCKED_SHOT,Evan Bouchard shot blocked shot by Andre Burakovsky,2022-12-31T05:33:44Z,3,18:36,01:24,2,7,55.0,Seattle Kraken,SEA
+327,55,22,Seattle Kraken,Edmonton Oilers,2022020577477,2022020577,Shot,477,SHOT,Warren Foegele Tip-In saved by Martin Jones,2022-12-31T05:33:47Z,3,18:39,01:21,2,7,22.0,Edmonton Oilers,EDM
+328,55,22,Seattle Kraken,Edmonton Oilers,2022020577856,2022020577,Hit,856,HIT,Warren Foegele hit Matty Beniers,2022-12-31T05:33:55Z,3,18:47,01:13,2,7,22.0,Edmonton Oilers,EDM
+329,55,22,Seattle Kraken,Edmonton Oilers,2022020577478,2022020577,Period End,478,PERIOD_END,End of 3rd Period,2022-12-31T05:35:08Z,3,20:00,00:00,2,7,,,
+330,55,22,Seattle Kraken,Edmonton Oilers,2022020577481,2022020577,Period Official,481,PERIOD_OFFICIAL,Period Official,2022-12-31T05:35:14Z,3,20:00,00:00,2,7,,,
+331,55,22,Seattle Kraken,Edmonton Oilers,2022020577482,2022020577,Game End,482,GAME_END,Game End,2022-12-31T05:35:16Z,3,20:00,00:00,2,7,,,
+332,55,22,Seattle Kraken,Edmonton Oilers,2022020577483,2022020577,Game Official,483,GAME_OFFICIAL,Game Official,2022-12-31T05:48:52Z,3,20:00,00:00,2,7,,,

@@ -1,0 +1,324 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,15,25,Washington Capitals,Dallas Stars,20220204711,2022020471,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-12-15T23:15:15Z,1,00:00,20:00,0,0,,,
+1,15,25,Washington Capitals,Dallas Stars,20220204715,2022020471,Period Ready,5,PERIOD_READY,Period Ready,2022-12-16T00:07:34Z,1,00:00,20:00,0,0,,,
+2,15,25,Washington Capitals,Dallas Stars,2022020471101,2022020471,Period Start,101,PERIOD_START,Period Start,2022-12-16T00:08:28Z,1,00:00,20:00,0,0,,,
+3,15,25,Washington Capitals,Dallas Stars,2022020471102,2022020471,Faceoff,102,FACEOFF,Dylan Strome faceoff won against Roope Hintz,2022-12-16T00:08:28Z,1,00:00,20:00,0,0,15.0,Washington Capitals,WSH
+4,15,25,Washington Capitals,Dallas Stars,20220204718,2022020471,Shot,8,SHOT,T.J. Oshie Wrist Shot saved by Jake Oettinger,2022-12-16T00:09:16Z,1,00:48,19:12,0,0,15.0,Washington Capitals,WSH
+5,15,25,Washington Capitals,Dallas Stars,2022020471152,2022020471,Hit,152,HIT,Ty Dellandrea hit Nick Jensen,2022-12-16T00:09:27Z,1,00:59,19:01,0,0,25.0,Dallas Stars,DAL
+6,15,25,Washington Capitals,Dallas Stars,20220204719,2022020471,Shot,9,SHOT,Colin Miller Slap Shot saved by Charlie Lindgren,2022-12-16T00:09:31Z,1,01:03,18:57,0,0,25.0,Dallas Stars,DAL
+7,15,25,Washington Capitals,Dallas Stars,2022020471153,2022020471,Hit,153,HIT,Mason Marchment hit Lars Eller,2022-12-16T00:09:34Z,1,01:06,18:54,0,0,25.0,Dallas Stars,DAL
+8,15,25,Washington Capitals,Dallas Stars,202202047110,2022020471,Shot,10,SHOT,Matt Irwin Snap Shot saved by Jake Oettinger,2022-12-16T00:10:25Z,1,01:57,18:03,0,0,15.0,Washington Capitals,WSH
+9,15,25,Washington Capitals,Dallas Stars,202202047111,2022020471,Shot,11,SHOT,Denis Gurianov Snap Shot saved by Charlie Lindgren,2022-12-16T00:10:31Z,1,02:03,17:57,0,0,25.0,Dallas Stars,DAL
+10,15,25,Washington Capitals,Dallas Stars,2022020471154,2022020471,Hit,154,HIT,Anthony Mantha hit Radek Faksa,2022-12-16T00:10:39Z,1,02:11,17:49,0,0,15.0,Washington Capitals,WSH
+11,15,25,Washington Capitals,Dallas Stars,202202047112,2022020471,Blocked Shot,12,BLOCKED_SHOT,Joel Kiviranta shot blocked shot by Trevor van Riemsdyk,2022-12-16T00:10:56Z,1,02:28,17:32,0,0,15.0,Washington Capitals,WSH
+12,15,25,Washington Capitals,Dallas Stars,2022020471103,2022020471,Stoppage,103,STOP,Puck in Crowd,2022-12-16T00:10:58Z,1,02:30,17:30,0,0,,,
+13,15,25,Washington Capitals,Dallas Stars,2022020471104,2022020471,Faceoff,104,FACEOFF,Nic Dowd faceoff won against Joe Pavelski,2022-12-16T00:11:26Z,1,02:30,17:30,0,0,15.0,Washington Capitals,WSH
+14,15,25,Washington Capitals,Dallas Stars,202202047113,2022020471,Blocked Shot,13,BLOCKED_SHOT,Garnet Hathaway shot blocked shot by Roope Hintz,2022-12-16T00:11:40Z,1,02:44,17:16,0,0,25.0,Dallas Stars,DAL
+15,15,25,Washington Capitals,Dallas Stars,2022020471105,2022020471,Stoppage,105,STOP,Puck in Netting,2022-12-16T00:11:41Z,1,02:45,17:15,0,0,,,
+16,15,25,Washington Capitals,Dallas Stars,2022020471106,2022020471,Faceoff,106,FACEOFF,Dylan Strome faceoff won against Jamie Benn,2022-12-16T00:12:24Z,1,02:45,17:15,0,0,15.0,Washington Capitals,WSH
+17,15,25,Washington Capitals,Dallas Stars,202202047114,2022020471,Shot,14,SHOT,Denis Gurianov Snap Shot saved by Charlie Lindgren,2022-12-16T00:12:38Z,1,02:59,17:01,0,0,25.0,Dallas Stars,DAL
+18,15,25,Washington Capitals,Dallas Stars,2022020471251,2022020471,Shot,251,SHOT,Alex Ovechkin Backhand saved by Jake Oettinger,2022-12-16T00:12:54Z,1,03:15,16:45,0,0,15.0,Washington Capitals,WSH
+19,15,25,Washington Capitals,Dallas Stars,202202047115,2022020471,Shot,15,SHOT,Alex Ovechkin Snap Shot saved by Jake Oettinger,2022-12-16T00:12:55Z,1,03:16,16:44,0,0,15.0,Washington Capitals,WSH
+20,15,25,Washington Capitals,Dallas Stars,2022020471107,2022020471,Stoppage,107,STOP,Goalie Stopped,2022-12-16T00:12:56Z,1,03:17,16:43,0,0,,,
+21,15,25,Washington Capitals,Dallas Stars,2022020471108,2022020471,Faceoff,108,FACEOFF,Radek Faksa faceoff won against Lars Eller,2022-12-16T00:13:40Z,1,03:17,16:43,0,0,25.0,Dallas Stars,DAL
+22,15,25,Washington Capitals,Dallas Stars,2022020471155,2022020471,Hit,155,HIT,Ty Dellandrea hit Evgeny Kuznetsov,2022-12-16T00:14:26Z,1,04:03,15:57,0,0,25.0,Dallas Stars,DAL
+23,15,25,Washington Capitals,Dallas Stars,2022020471156,2022020471,Hit,156,HIT,Jani Hakanpää hit Anthony Mantha,2022-12-16T00:14:35Z,1,04:12,15:48,0,0,25.0,Dallas Stars,DAL
+24,15,25,Washington Capitals,Dallas Stars,2022020471109,2022020471,Stoppage,109,STOP,High Stick,2022-12-16T00:15:37Z,1,05:14,14:46,0,0,,,
+25,15,25,Washington Capitals,Dallas Stars,2022020471110,2022020471,Faceoff,110,FACEOFF,Joe Pavelski faceoff won against Nic Dowd,2022-12-16T00:16:07Z,1,05:14,14:46,0,0,25.0,Dallas Stars,DAL
+26,15,25,Washington Capitals,Dallas Stars,2022020471157,2022020471,Hit,157,HIT,Nicolas Aube-Kubel hit Colin Miller,2022-12-16T00:16:16Z,1,05:23,14:37,0,0,15.0,Washington Capitals,WSH
+27,15,25,Washington Capitals,Dallas Stars,2022020471158,2022020471,Hit,158,HIT,Garnet Hathaway hit Esa Lindell,2022-12-16T00:16:17Z,1,05:24,14:36,0,0,15.0,Washington Capitals,WSH
+28,15,25,Washington Capitals,Dallas Stars,202202047116,2022020471,Shot,16,SHOT,Nicolas Aube-Kubel Snap Shot saved by Jake Oettinger,2022-12-16T00:16:19Z,1,05:26,14:34,0,0,15.0,Washington Capitals,WSH
+29,15,25,Washington Capitals,Dallas Stars,202202047117,2022020471,Shot,17,SHOT,John Carlson Snap Shot saved by Jake Oettinger,2022-12-16T00:16:36Z,1,05:43,14:17,0,0,15.0,Washington Capitals,WSH
+30,15,25,Washington Capitals,Dallas Stars,202202047118,2022020471,Shot,18,SHOT,Denis Gurianov Wrist Shot saved by Charlie Lindgren,2022-12-16T00:17:02Z,1,06:09,13:51,0,0,25.0,Dallas Stars,DAL
+31,15,25,Washington Capitals,Dallas Stars,2022020471111,2022020471,Stoppage,111,STOP,Goalie Stopped,2022-12-16T00:17:04Z,1,06:11,13:49,0,0,,,
+32,15,25,Washington Capitals,Dallas Stars,2022020471112,2022020471,Faceoff,112,FACEOFF,Jamie Benn faceoff won against Lars Eller,2022-12-16T00:19:28Z,1,06:11,13:49,0,0,25.0,Dallas Stars,DAL
+33,15,25,Washington Capitals,Dallas Stars,202202047119,2022020471,Missed Shot,19,MISSED_SHOT,Miro Heiskanen Wide of Net Charlie Lindgren,2022-12-16T00:19:33Z,1,06:16,13:44,0,0,25.0,Dallas Stars,DAL
+34,15,25,Washington Capitals,Dallas Stars,202202047120,2022020471,Blocked Shot,20,BLOCKED_SHOT,Jamie Benn shot blocked shot by Matt Irwin,2022-12-16T00:19:46Z,1,06:29,13:31,0,0,15.0,Washington Capitals,WSH
+35,15,25,Washington Capitals,Dallas Stars,202202047121,2022020471,Shot,21,SHOT,Lars Eller Tip-In saved by Jake Oettinger,2022-12-16T00:20:08Z,1,06:51,13:09,0,0,15.0,Washington Capitals,WSH
+36,15,25,Washington Capitals,Dallas Stars,2022020471113,2022020471,Stoppage,113,STOP,Goalie Stopped,2022-12-16T00:20:09Z,1,06:52,13:08,0,0,,,
+37,15,25,Washington Capitals,Dallas Stars,2022020471114,2022020471,Faceoff,114,FACEOFF,Luke Glendening faceoff won against Dylan Strome,2022-12-16T00:20:40Z,1,06:52,13:08,0,0,25.0,Dallas Stars,DAL
+38,15,25,Washington Capitals,Dallas Stars,202202047122,2022020471,Shot,22,SHOT,Dylan Strome Backhand saved by Jake Oettinger,2022-12-16T00:20:46Z,1,06:58,13:02,0,0,15.0,Washington Capitals,WSH
+39,15,25,Washington Capitals,Dallas Stars,2022020471159,2022020471,Hit,159,HIT,Alex Ovechkin hit Ryan Suter,2022-12-16T00:20:49Z,1,07:01,12:59,0,0,15.0,Washington Capitals,WSH
+40,15,25,Washington Capitals,Dallas Stars,202202047123,2022020471,Missed Shot,23,MISSED_SHOT,Jani Hakanpää Over Net Charlie Lindgren,2022-12-16T00:21:21Z,1,07:33,12:27,0,0,25.0,Dallas Stars,DAL
+41,15,25,Washington Capitals,Dallas Stars,202202047124,2022020471,Missed Shot,24,MISSED_SHOT,Esa Lindell Wide of Net Charlie Lindgren,2022-12-16T00:21:26Z,1,07:38,12:22,0,0,25.0,Dallas Stars,DAL
+42,15,25,Washington Capitals,Dallas Stars,202202047125,2022020471,Blocked Shot,25,BLOCKED_SHOT,Jani Hakanpää shot blocked shot by Alex Ovechkin,2022-12-16T00:21:33Z,1,07:45,12:15,0,0,15.0,Washington Capitals,WSH
+43,15,25,Washington Capitals,Dallas Stars,202202047126,2022020471,Shot,26,SHOT,Jani Hakanpää Slap Shot saved by Charlie Lindgren,2022-12-16T00:21:38Z,1,07:50,12:10,0,0,25.0,Dallas Stars,DAL
+44,15,25,Washington Capitals,Dallas Stars,202202047127,2022020471,Shot,27,SHOT,Esa Lindell Wrist Shot saved by Charlie Lindgren,2022-12-16T00:21:51Z,1,08:03,11:57,0,0,25.0,Dallas Stars,DAL
+45,15,25,Washington Capitals,Dallas Stars,2022020471115,2022020471,Stoppage,115,STOP,Icing,2022-12-16T00:22:00Z,1,08:12,11:48,0,0,,,
+46,15,25,Washington Capitals,Dallas Stars,2022020471116,2022020471,Faceoff,116,FACEOFF,Tyler Seguin faceoff won against Evgeny Kuznetsov,2022-12-16T00:22:35Z,1,08:12,11:48,0,0,25.0,Dallas Stars,DAL
+47,15,25,Washington Capitals,Dallas Stars,202202047129,2022020471,Shot,29,SHOT,Aliaksei Protas Backhand saved by Jake Oettinger,2022-12-16T00:23:16Z,1,08:53,11:07,0,0,15.0,Washington Capitals,WSH
+48,15,25,Washington Capitals,Dallas Stars,2022020471117,2022020471,Stoppage,117,STOP,Goalie Stopped,2022-12-16T00:23:17Z,1,08:54,11:06,0,0,,,
+49,15,25,Washington Capitals,Dallas Stars,2022020471118,2022020471,Faceoff,118,FACEOFF,Nic Dowd faceoff won against Joe Pavelski,2022-12-16T00:23:54Z,1,08:54,11:06,0,0,15.0,Washington Capitals,WSH
+50,15,25,Washington Capitals,Dallas Stars,202202047130,2022020471,Missed Shot,30,MISSED_SHOT,Nicolas Aube-Kubel Wide of Net Jake Oettinger,2022-12-16T00:23:58Z,1,08:58,11:02,0,0,15.0,Washington Capitals,WSH
+51,15,25,Washington Capitals,Dallas Stars,202202047131,2022020471,Missed Shot,31,MISSED_SHOT,Joe Pavelski Wide of Net Charlie Lindgren,2022-12-16T00:24:06Z,1,09:06,10:54,0,0,25.0,Dallas Stars,DAL
+52,15,25,Washington Capitals,Dallas Stars,2022020471227,2022020471,Penalty,227,PENALTY,Matt Irwin Tripping against Joe Pavelski,2022-12-16T00:24:07Z,1,09:08,10:52,0,0,15.0,Washington Capitals,WSH
+53,15,25,Washington Capitals,Dallas Stars,2022020471119,2022020471,Faceoff,119,FACEOFF,Jamie Benn faceoff won against Nic Dowd,2022-12-16T00:25:00Z,1,09:08,10:52,0,0,25.0,Dallas Stars,DAL
+54,15,25,Washington Capitals,Dallas Stars,202202047132,2022020471,Blocked Shot,32,BLOCKED_SHOT,Roope Hintz shot blocked shot by Trevor van Riemsdyk,2022-12-16T00:25:06Z,1,09:14,10:46,0,0,15.0,Washington Capitals,WSH
+55,15,25,Washington Capitals,Dallas Stars,2022020471161,2022020471,Takeaway,161,TAKEAWAY,Takeaway by Conor Sheary,2022-12-16T00:25:41Z,1,09:49,10:11,0,0,15.0,Washington Capitals,WSH
+56,15,25,Washington Capitals,Dallas Stars,202202047133,2022020471,Shot,33,SHOT,Conor Sheary Wrist Shot saved by Jake Oettinger,2022-12-16T00:25:42Z,1,09:50,10:10,0,0,15.0,Washington Capitals,WSH
+57,15,25,Washington Capitals,Dallas Stars,202202047134,2022020471,Blocked Shot,34,BLOCKED_SHOT,Ryan Suter shot blocked shot by Nic Dowd,2022-12-16T00:26:17Z,1,10:25,09:35,0,0,15.0,Washington Capitals,WSH
+58,15,25,Washington Capitals,Dallas Stars,2022020471120,2022020471,Stoppage,120,STOP,Puck in Netting,2022-12-16T00:26:19Z,1,10:26,09:34,0,0,,,
+59,15,25,Washington Capitals,Dallas Stars,2022020471121,2022020471,Faceoff,121,FACEOFF,Nic Dowd faceoff won against Tyler Seguin,2022-12-16T00:26:45Z,1,10:26,09:34,0,0,15.0,Washington Capitals,WSH
+60,15,25,Washington Capitals,Dallas Stars,202202047135,2022020471,Shot,35,SHOT,Mason Marchment Snap Shot saved by Charlie Lindgren,2022-12-16T00:27:11Z,1,10:52,09:08,0,0,25.0,Dallas Stars,DAL
+61,15,25,Washington Capitals,Dallas Stars,2022020471122,2022020471,Stoppage,122,STOP,Goalie Stopped,2022-12-16T00:27:11Z,1,10:53,09:07,0,0,,,
+62,15,25,Washington Capitals,Dallas Stars,2022020471123,2022020471,Faceoff,123,FACEOFF,Roope Hintz faceoff won against Nic Dowd,2022-12-16T00:27:41Z,1,10:53,09:07,0,0,25.0,Dallas Stars,DAL
+63,15,25,Washington Capitals,Dallas Stars,202202047136,2022020471,Shot,36,SHOT,Miro Heiskanen Tip-In saved by Charlie Lindgren,2022-12-16T00:27:53Z,1,11:05,08:55,0,0,25.0,Dallas Stars,DAL
+64,15,25,Washington Capitals,Dallas Stars,2022020471124,2022020471,Stoppage,124,STOP,Goalie Stopped,2022-12-16T00:27:54Z,1,11:06,08:54,0,0,,,
+65,15,25,Washington Capitals,Dallas Stars,2022020471125,2022020471,Faceoff,125,FACEOFF,Roope Hintz faceoff won against Nic Dowd,2022-12-16T00:28:22Z,1,11:06,08:54,0,0,25.0,Dallas Stars,DAL
+66,15,25,Washington Capitals,Dallas Stars,202202047137,2022020471,Blocked Shot,37,BLOCKED_SHOT,Miro Heiskanen shot blocked shot by Nic Dowd,2022-12-16T00:28:27Z,1,11:11,08:49,0,0,15.0,Washington Capitals,WSH
+67,15,25,Washington Capitals,Dallas Stars,202202047138,2022020471,Shot,38,SHOT,Nic Dowd Slap Shot saved by Jake Oettinger,2022-12-16T00:28:33Z,1,11:17,08:43,0,0,15.0,Washington Capitals,WSH
+68,15,25,Washington Capitals,Dallas Stars,2022020471126,2022020471,Stoppage,126,STOP,Puck in Netting,2022-12-16T00:28:35Z,1,11:18,08:42,0,0,,,
+69,15,25,Washington Capitals,Dallas Stars,2022020471127,2022020471,Faceoff,127,FACEOFF,Luke Glendening faceoff won against Dylan Strome,2022-12-16T00:30:55Z,1,11:18,08:42,0,0,25.0,Dallas Stars,DAL
+70,15,25,Washington Capitals,Dallas Stars,202202047139,2022020471,Shot,39,SHOT,Joel Kiviranta Tip-In saved by Charlie Lindgren,2022-12-16T00:31:08Z,1,11:31,08:29,0,0,25.0,Dallas Stars,DAL
+71,15,25,Washington Capitals,Dallas Stars,2022020471128,2022020471,Stoppage,128,STOP,Goalie Stopped,2022-12-16T00:31:08Z,1,11:32,08:28,0,0,,,
+72,15,25,Washington Capitals,Dallas Stars,2022020471129,2022020471,Faceoff,129,FACEOFF,Tyler Seguin faceoff won against Dylan Strome,2022-12-16T00:31:42Z,1,11:32,08:28,0,0,25.0,Dallas Stars,DAL
+73,15,25,Washington Capitals,Dallas Stars,2022020471130,2022020471,Stoppage,130,STOP,Offside,2022-12-16T00:32:29Z,1,12:18,07:42,0,0,,,
+74,15,25,Washington Capitals,Dallas Stars,2022020471131,2022020471,Faceoff,131,FACEOFF,Evgeny Kuznetsov faceoff won against Jamie Benn,2022-12-16T00:33:10Z,1,12:18,07:42,0,0,15.0,Washington Capitals,WSH
+75,15,25,Washington Capitals,Dallas Stars,2022020471162,2022020471,Hit,162,HIT,Marcus Johansson hit Ryan Suter,2022-12-16T00:33:16Z,1,12:24,07:36,0,0,15.0,Washington Capitals,WSH
+76,15,25,Washington Capitals,Dallas Stars,202202047140,2022020471,Shot,40,SHOT,Nick Jensen Slap Shot saved by Jake Oettinger,2022-12-16T00:33:23Z,1,12:31,07:29,0,0,15.0,Washington Capitals,WSH
+77,15,25,Washington Capitals,Dallas Stars,2022020471163,2022020471,Giveaway,163,GIVEAWAY,Giveaway by Colin Miller,2022-12-16T00:33:43Z,1,12:51,07:09,0,0,25.0,Dallas Stars,DAL
+78,15,25,Washington Capitals,Dallas Stars,202202047141,2022020471,Shot,41,SHOT,Dmitry Orlov Snap Shot saved by Jake Oettinger,2022-12-16T00:33:58Z,1,13:06,06:54,0,0,15.0,Washington Capitals,WSH
+79,15,25,Washington Capitals,Dallas Stars,2022020471164,2022020471,Takeaway,164,TAKEAWAY,Takeaway by Dmitry Orlov,2022-12-16T00:34:03Z,1,13:11,06:49,0,0,15.0,Washington Capitals,WSH
+80,15,25,Washington Capitals,Dallas Stars,202202047142,2022020471,Blocked Shot,42,BLOCKED_SHOT,Jason Robertson shot blocked shot by Dmitry Orlov,2022-12-16T00:34:30Z,1,13:38,06:22,0,0,15.0,Washington Capitals,WSH
+81,15,25,Washington Capitals,Dallas Stars,202202047143,2022020471,Shot,43,SHOT,Jason Robertson Wrist Shot saved by Charlie Lindgren,2022-12-16T00:35:00Z,1,14:08,05:52,0,0,25.0,Dallas Stars,DAL
+82,15,25,Washington Capitals,Dallas Stars,202202047144,2022020471,Shot,44,SHOT,Luke Glendening Backhand saved by Charlie Lindgren,2022-12-16T00:35:11Z,1,14:19,05:41,0,0,25.0,Dallas Stars,DAL
+83,15,25,Washington Capitals,Dallas Stars,2022020471132,2022020471,Stoppage,132,STOP,Goalie Stopped,2022-12-16T00:35:14Z,1,14:22,05:38,0,0,,,
+84,15,25,Washington Capitals,Dallas Stars,2022020471133,2022020471,Faceoff,133,FACEOFF,Lars Eller faceoff won against Luke Glendening,2022-12-16T00:37:34Z,1,14:22,05:38,0,0,15.0,Washington Capitals,WSH
+85,15,25,Washington Capitals,Dallas Stars,2022020471165,2022020471,Hit,165,HIT,Lars Eller hit Colin Miller,2022-12-16T00:37:48Z,1,14:36,05:24,0,0,15.0,Washington Capitals,WSH
+86,15,25,Washington Capitals,Dallas Stars,2022020471134,2022020471,Stoppage,134,STOP,Offside,2022-12-16T00:37:56Z,1,14:43,05:17,0,0,,,
+87,15,25,Washington Capitals,Dallas Stars,2022020471135,2022020471,Faceoff,135,FACEOFF,Evgeny Kuznetsov faceoff won against Tyler Seguin,2022-12-16T00:38:28Z,1,14:43,05:17,0,0,15.0,Washington Capitals,WSH
+88,15,25,Washington Capitals,Dallas Stars,2022020471166,2022020471,Hit,166,HIT,Aliaksei Protas hit Nils Lundkvist,2022-12-16T00:38:40Z,1,14:55,05:05,0,0,15.0,Washington Capitals,WSH
+89,15,25,Washington Capitals,Dallas Stars,2022020471167,2022020471,Giveaway,167,GIVEAWAY,Giveaway by Dmitry Orlov,2022-12-16T00:39:02Z,1,15:17,04:43,0,0,15.0,Washington Capitals,WSH
+90,15,25,Washington Capitals,Dallas Stars,202202047145,2022020471,Shot,45,SHOT,Tyler Seguin Wrist Shot saved by Charlie Lindgren,2022-12-16T00:39:05Z,1,15:20,04:40,0,0,25.0,Dallas Stars,DAL
+91,15,25,Washington Capitals,Dallas Stars,2022020471253,2022020471,Missed Shot,253,MISSED_SHOT,Anthony Mantha Wide of Net Jake Oettinger,2022-12-16T00:39:15Z,1,15:30,04:30,0,0,15.0,Washington Capitals,WSH
+92,15,25,Washington Capitals,Dallas Stars,202202047146,2022020471,Shot,46,SHOT,Anthony Mantha Backhand saved by Jake Oettinger,2022-12-16T00:39:19Z,1,15:34,04:26,0,0,15.0,Washington Capitals,WSH
+93,15,25,Washington Capitals,Dallas Stars,2022020471136,2022020471,Stoppage,136,STOP,Goalie Stopped,2022-12-16T00:39:20Z,1,15:35,04:25,0,0,,,
+94,15,25,Washington Capitals,Dallas Stars,2022020471137,2022020471,Faceoff,137,FACEOFF,Joe Pavelski faceoff won against Nicolas Aube-Kubel,2022-12-16T00:40:00Z,1,15:35,04:25,0,0,25.0,Dallas Stars,DAL
+95,15,25,Washington Capitals,Dallas Stars,2022020471254,2022020471,Blocked Shot,254,BLOCKED_SHOT,Erik Gustafsson shot blocked shot by Roope Hintz,2022-12-16T00:40:05Z,1,15:40,04:20,0,0,25.0,Dallas Stars,DAL
+96,15,25,Washington Capitals,Dallas Stars,202202047147,2022020471,Blocked Shot,47,BLOCKED_SHOT,Erik Gustafsson shot blocked shot by Roope Hintz,2022-12-16T00:40:06Z,1,15:41,04:19,0,0,25.0,Dallas Stars,DAL
+97,15,25,Washington Capitals,Dallas Stars,2022020471252,2022020471,Giveaway,252,GIVEAWAY,Giveaway by Nic Dowd,2022-12-16T00:40:21Z,1,15:56,04:04,0,0,15.0,Washington Capitals,WSH
+98,15,25,Washington Capitals,Dallas Stars,2022020471169,2022020471,Hit,169,HIT,Garnet Hathaway hit Jani Hakanpää,2022-12-16T00:40:23Z,1,15:58,04:02,0,0,15.0,Washington Capitals,WSH
+99,15,25,Washington Capitals,Dallas Stars,202202047149,2022020471,Shot,49,SHOT,Roope Hintz Slap Shot saved by Charlie Lindgren,2022-12-16T00:40:25Z,1,16:00,04:00,0,0,25.0,Dallas Stars,DAL
+100,15,25,Washington Capitals,Dallas Stars,202202047150,2022020471,Shot,50,SHOT,Nicolas Aube-Kubel Wrist Shot saved by Jake Oettinger,2022-12-16T00:40:40Z,1,16:15,03:45,0,0,15.0,Washington Capitals,WSH
+101,15,25,Washington Capitals,Dallas Stars,2022020471138,2022020471,Stoppage,138,STOP,Goalie Stopped,2022-12-16T00:40:41Z,1,16:16,03:44,0,0,,,
+102,15,25,Washington Capitals,Dallas Stars,2022020471139,2022020471,Faceoff,139,FACEOFF,Dylan Strome faceoff won against Wyatt Johnston,2022-12-16T00:41:27Z,1,16:16,03:44,0,0,15.0,Washington Capitals,WSH
+103,15,25,Washington Capitals,Dallas Stars,2022020471301,2022020471,Shot,301,SHOT,Dmitry Orlov Slap Shot saved by Jake Oettinger,2022-12-16T00:41:31Z,1,16:20,03:40,0,0,15.0,Washington Capitals,WSH
+104,15,25,Washington Capitals,Dallas Stars,2022020471302,2022020471,Missed Shot,302,MISSED_SHOT,Dmitry Orlov Wide of Net Jake Oettinger,2022-12-16T00:42:24Z,1,17:13,02:47,0,0,15.0,Washington Capitals,WSH
+105,15,25,Washington Capitals,Dallas Stars,2022020471389,2022020471,Penalty,389,PENALTY,Radek Faksa Holding against Lars Eller,2022-12-16T00:42:51Z,1,17:40,02:20,0,0,25.0,Dallas Stars,DAL
+106,15,25,Washington Capitals,Dallas Stars,2022020471140,2022020471,Faceoff,140,FACEOFF,Luke Glendening faceoff won against Dylan Strome,2022-12-16T00:43:38Z,1,17:40,02:20,0,0,25.0,Dallas Stars,DAL
+107,15,25,Washington Capitals,Dallas Stars,2022020471303,2022020471,Shot,303,SHOT,Luke Glendening Wrist Shot saved by Charlie Lindgren,2022-12-16T00:44:16Z,1,18:18,01:42,0,0,25.0,Dallas Stars,DAL
+108,15,25,Washington Capitals,Dallas Stars,2022020471141,2022020471,Stoppage,141,STOP,Puck in Netting,2022-12-16T00:44:56Z,1,18:58,01:02,0,0,,,
+109,15,25,Washington Capitals,Dallas Stars,2022020471142,2022020471,Faceoff,142,FACEOFF,Jamie Benn faceoff won against Marcus Johansson,2022-12-16T00:45:25Z,1,18:58,01:02,0,0,25.0,Dallas Stars,DAL
+110,15,25,Washington Capitals,Dallas Stars,2022020471143,2022020471,Stoppage,143,STOP,Offside,2022-12-16T00:45:46Z,1,19:18,00:42,0,0,,,
+111,15,25,Washington Capitals,Dallas Stars,2022020471144,2022020471,Faceoff,144,FACEOFF,Luke Glendening faceoff won against Marcus Johansson,2022-12-16T00:46:12Z,1,19:18,00:42,0,0,25.0,Dallas Stars,DAL
+112,15,25,Washington Capitals,Dallas Stars,2022020471170,2022020471,Hit,170,HIT,Esa Lindell hit Anthony Mantha,2022-12-16T00:46:30Z,1,19:36,00:24,0,0,25.0,Dallas Stars,DAL
+113,15,25,Washington Capitals,Dallas Stars,2022020471304,2022020471,Period End,304,PERIOD_END,End of 1st Period,2022-12-16T00:46:54Z,1,20:00,00:00,0,0,,,
+114,15,25,Washington Capitals,Dallas Stars,2022020471307,2022020471,Period Official,307,PERIOD_OFFICIAL,Period Official,2022-12-16T00:54:37Z,1,20:00,00:00,0,0,,,
+115,15,25,Washington Capitals,Dallas Stars,2022020471308,2022020471,Period Ready,308,PERIOD_READY,Period Ready,2022-12-16T01:03:30Z,2,00:00,20:00,0,0,,,
+116,15,25,Washington Capitals,Dallas Stars,2022020471145,2022020471,Period Start,145,PERIOD_START,Period Start,2022-12-16T01:05:39Z,2,00:00,20:00,0,0,,,
+117,15,25,Washington Capitals,Dallas Stars,2022020471146,2022020471,Faceoff,146,FACEOFF,Nic Dowd faceoff won against Joe Pavelski,2022-12-16T01:05:39Z,2,00:00,20:00,0,0,15.0,Washington Capitals,WSH
+118,15,25,Washington Capitals,Dallas Stars,2022020471309,2022020471,Missed Shot,309,MISSED_SHOT,Joe Pavelski Wide of Net Charlie Lindgren,2022-12-16T01:05:47Z,2,00:08,19:52,0,0,25.0,Dallas Stars,DAL
+119,15,25,Washington Capitals,Dallas Stars,2022020471171,2022020471,Takeaway,171,TAKEAWAY,Takeaway by Nic Dowd,2022-12-16T01:05:54Z,2,00:15,19:45,0,0,15.0,Washington Capitals,WSH
+120,15,25,Washington Capitals,Dallas Stars,2022020471172,2022020471,Giveaway,172,GIVEAWAY,Giveaway by Miro Heiskanen,2022-12-16T01:06:09Z,2,00:30,19:30,0,0,25.0,Dallas Stars,DAL
+121,15,25,Washington Capitals,Dallas Stars,2022020471147,2022020471,Stoppage,147,STOP,Offside,2022-12-16T01:06:17Z,2,00:38,19:22,0,0,,,
+122,15,25,Washington Capitals,Dallas Stars,2022020471148,2022020471,Faceoff,148,FACEOFF,Alex Ovechkin faceoff won against Wyatt Johnston,2022-12-16T01:07:04Z,2,00:38,19:22,0,0,15.0,Washington Capitals,WSH
+123,15,25,Washington Capitals,Dallas Stars,2022020471310,2022020471,Missed Shot,310,MISSED_SHOT,Erik Gustafsson Wide of Net Jake Oettinger,2022-12-16T01:07:38Z,2,01:12,18:48,0,0,15.0,Washington Capitals,WSH
+124,15,25,Washington Capitals,Dallas Stars,2022020471311,2022020471,Shot,311,SHOT,John Carlson Slap Shot saved by Jake Oettinger,2022-12-16T01:07:41Z,2,01:15,18:45,0,0,15.0,Washington Capitals,WSH
+125,15,25,Washington Capitals,Dallas Stars,2022020471173,2022020471,Hit,173,HIT,Erik Gustafsson hit Ty Dellandrea,2022-12-16T01:08:27Z,2,02:01,17:59,0,0,15.0,Washington Capitals,WSH
+126,15,25,Washington Capitals,Dallas Stars,2022020471312,2022020471,Shot,312,SHOT,Trevor van Riemsdyk Slap Shot saved by Jake Oettinger,2022-12-16T01:08:45Z,2,02:19,17:41,0,0,15.0,Washington Capitals,WSH
+127,15,25,Washington Capitals,Dallas Stars,2022020471174,2022020471,Giveaway,174,GIVEAWAY,Giveaway by Lars Eller,2022-12-16T01:09:07Z,2,02:41,17:19,0,0,15.0,Washington Capitals,WSH
+128,15,25,Washington Capitals,Dallas Stars,2022020471313,2022020471,Missed Shot,313,MISSED_SHOT,Nils Lundkvist Over Net Charlie Lindgren,2022-12-16T01:09:15Z,2,02:49,17:11,0,0,25.0,Dallas Stars,DAL
+129,15,25,Washington Capitals,Dallas Stars,2022020471314,2022020471,Blocked Shot,314,BLOCKED_SHOT,Aliaksei Protas shot blocked shot by Miro Heiskanen,2022-12-16T01:09:25Z,2,02:59,17:01,0,0,25.0,Dallas Stars,DAL
+130,15,25,Washington Capitals,Dallas Stars,2022020471149,2022020471,Stoppage,149,STOP,Puck in Netting,2022-12-16T01:09:26Z,2,03:00,17:00,0,0,,,
+131,15,25,Washington Capitals,Dallas Stars,2022020471150,2022020471,Faceoff,150,FACEOFF,Joe Pavelski faceoff won against Evgeny Kuznetsov,2022-12-16T01:09:56Z,2,03:00,17:00,0,0,25.0,Dallas Stars,DAL
+132,15,25,Washington Capitals,Dallas Stars,2022020471401,2022020471,Stoppage,401,STOP,Icing,2022-12-16T01:10:01Z,2,03:05,16:55,0,0,,,
+133,15,25,Washington Capitals,Dallas Stars,2022020471402,2022020471,Faceoff,402,FACEOFF,Joe Pavelski faceoff won against Evgeny Kuznetsov,2022-12-16T01:10:22Z,2,03:05,16:55,0,0,25.0,Dallas Stars,DAL
+134,15,25,Washington Capitals,Dallas Stars,2022020471403,2022020471,Stoppage,403,STOP,Icing,2022-12-16T01:10:29Z,2,03:13,16:47,0,0,,,
+135,15,25,Washington Capitals,Dallas Stars,2022020471404,2022020471,Faceoff,404,FACEOFF,Evgeny Kuznetsov faceoff won against Joe Pavelski,2022-12-16T01:10:54Z,2,03:13,16:47,0,0,15.0,Washington Capitals,WSH
+136,15,25,Washington Capitals,Dallas Stars,2022020471315,2022020471,Missed Shot,315,MISSED_SHOT,Evgeny Kuznetsov Wide of Net Jake Oettinger,2022-12-16T01:11:14Z,2,03:33,16:27,0,0,15.0,Washington Capitals,WSH
+137,15,25,Washington Capitals,Dallas Stars,2022020471405,2022020471,Stoppage,405,STOP,Puck in Netting,2022-12-16T01:11:15Z,2,03:34,16:26,0,0,,,
+138,15,25,Washington Capitals,Dallas Stars,2022020471406,2022020471,Faceoff,406,FACEOFF,Jamie Benn faceoff won against Dylan Strome,2022-12-16T01:11:55Z,2,03:34,16:26,0,0,25.0,Dallas Stars,DAL
+139,15,25,Washington Capitals,Dallas Stars,2022020471175,2022020471,Takeaway,175,TAKEAWAY,Takeaway by Conor Sheary,2022-12-16T01:12:11Z,2,03:50,16:10,0,0,15.0,Washington Capitals,WSH
+140,15,25,Washington Capitals,Dallas Stars,2022020471316,2022020471,Shot,316,SHOT,Alex Ovechkin Deflected saved by Jake Oettinger,2022-12-16T01:12:22Z,2,04:01,15:59,0,0,15.0,Washington Capitals,WSH
+141,15,25,Washington Capitals,Dallas Stars,2022020471407,2022020471,Stoppage,407,STOP,Goalie Stopped,2022-12-16T01:12:22Z,2,04:02,15:58,0,0,,,
+142,15,25,Washington Capitals,Dallas Stars,2022020471408,2022020471,Faceoff,408,FACEOFF,Radek Faksa faceoff won against Lars Eller,2022-12-16T01:13:00Z,2,04:02,15:58,0,0,25.0,Dallas Stars,DAL
+143,15,25,Washington Capitals,Dallas Stars,2022020471317,2022020471,Shot,317,SHOT,Joel Kiviranta Wrist Shot saved by Charlie Lindgren,2022-12-16T01:13:09Z,2,04:11,15:49,0,0,25.0,Dallas Stars,DAL
+144,15,25,Washington Capitals,Dallas Stars,2022020471318,2022020471,Shot,318,SHOT,Ty Dellandrea Wrist Shot saved by Charlie Lindgren,2022-12-16T01:13:56Z,2,04:58,15:02,0,0,25.0,Dallas Stars,DAL
+145,15,25,Washington Capitals,Dallas Stars,2022020471409,2022020471,Stoppage,409,STOP,Goalie Stopped,2022-12-16T01:13:58Z,2,04:59,15:01,0,0,,,
+146,15,25,Washington Capitals,Dallas Stars,2022020471410,2022020471,Faceoff,410,FACEOFF,Nic Dowd faceoff won against Tyler Seguin,2022-12-16T01:14:38Z,2,04:59,15:01,0,0,15.0,Washington Capitals,WSH
+147,15,25,Washington Capitals,Dallas Stars,2022020471176,2022020471,Hit,176,HIT,Nicolas Aube-Kubel hit Colin Miller,2022-12-16T01:14:48Z,2,05:09,14:51,0,0,15.0,Washington Capitals,WSH
+148,15,25,Washington Capitals,Dallas Stars,2022020471319,2022020471,Missed Shot,319,MISSED_SHOT,Garnet Hathaway Wide of Net Jake Oettinger,2022-12-16T01:14:51Z,2,05:12,14:48,0,0,15.0,Washington Capitals,WSH
+149,15,25,Washington Capitals,Dallas Stars,2022020471411,2022020471,Stoppage,411,STOP,Goalie Stopped,2022-12-16T01:14:52Z,2,05:13,14:47,0,0,,,
+150,15,25,Washington Capitals,Dallas Stars,2022020471412,2022020471,Faceoff,412,FACEOFF,Dylan Strome faceoff won against Tyler Seguin,2022-12-16T01:15:48Z,2,05:13,14:47,0,0,15.0,Washington Capitals,WSH
+151,15,25,Washington Capitals,Dallas Stars,2022020471177,2022020471,Hit,177,HIT,Mason Marchment hit Dmitry Orlov,2022-12-16T01:16:07Z,2,05:32,14:28,0,0,25.0,Dallas Stars,DAL
+152,15,25,Washington Capitals,Dallas Stars,2022020471321,2022020471,Shot,321,SHOT,Ryan Suter Slap Shot saved by Charlie Lindgren,2022-12-16T01:16:27Z,2,05:52,14:08,0,0,25.0,Dallas Stars,DAL
+153,15,25,Washington Capitals,Dallas Stars,2022020471322,2022020471,Blocked Shot,322,BLOCKED_SHOT,Jason Robertson shot blocked shot by Nick Jensen,2022-12-16T01:16:40Z,2,06:05,13:55,0,0,15.0,Washington Capitals,WSH
+154,15,25,Washington Capitals,Dallas Stars,2022020471178,2022020471,Hit,178,HIT,Nicolas Aube-Kubel hit Nils Lundkvist,2022-12-16T01:16:50Z,2,06:15,13:45,0,0,15.0,Washington Capitals,WSH
+155,15,25,Washington Capitals,Dallas Stars,2022020471323,2022020471,Shot,323,SHOT,Nicolas Aube-Kubel Snap Shot saved by Jake Oettinger,2022-12-16T01:17:04Z,2,06:29,13:31,0,0,15.0,Washington Capitals,WSH
+156,15,25,Washington Capitals,Dallas Stars,2022020471413,2022020471,Stoppage,413,STOP,Goalie Stopped,2022-12-16T01:17:05Z,2,06:30,13:30,0,0,,,
+157,15,25,Washington Capitals,Dallas Stars,2022020471414,2022020471,Faceoff,414,FACEOFF,Evgeny Kuznetsov faceoff won against Joe Pavelski,2022-12-16T01:19:15Z,2,06:30,13:30,0,0,15.0,Washington Capitals,WSH
+158,15,25,Washington Capitals,Dallas Stars,2022020471324,2022020471,Missed Shot,324,MISSED_SHOT,Anthony Mantha Wide of Net Jake Oettinger,2022-12-16T01:19:24Z,2,06:39,13:21,0,0,15.0,Washington Capitals,WSH
+159,15,25,Washington Capitals,Dallas Stars,2022020471179,2022020471,Hit,179,HIT,Jani Hakanpää hit Aliaksei Protas,2022-12-16T01:19:31Z,2,06:46,13:14,0,0,25.0,Dallas Stars,DAL
+160,15,25,Washington Capitals,Dallas Stars,2022020471325,2022020471,Shot,325,SHOT,Jason Robertson Snap Shot saved by Charlie Lindgren,2022-12-16T01:19:40Z,2,06:55,13:05,0,0,25.0,Dallas Stars,DAL
+161,15,25,Washington Capitals,Dallas Stars,2022020471180,2022020471,Hit,180,HIT,Anthony Mantha hit Esa Lindell,2022-12-16T01:19:56Z,2,07:11,12:49,0,0,15.0,Washington Capitals,WSH
+162,15,25,Washington Capitals,Dallas Stars,2022020471255,2022020471,Takeaway,255,TAKEAWAY,Takeaway by Evgeny Kuznetsov,2022-12-16T01:20:01Z,2,07:16,12:44,0,0,15.0,Washington Capitals,WSH
+163,15,25,Washington Capitals,Dallas Stars,2022020471415,2022020471,Stoppage,415,STOP,Offside,2022-12-16T01:20:16Z,2,07:32,12:28,0,0,,,
+164,15,25,Washington Capitals,Dallas Stars,2022020471416,2022020471,Faceoff,416,FACEOFF,Lars Eller faceoff won against Luke Glendening,2022-12-16T01:20:43Z,2,07:32,12:28,0,0,15.0,Washington Capitals,WSH
+165,15,25,Washington Capitals,Dallas Stars,2022020471181,2022020471,Hit,181,HIT,T.J. Oshie hit Luke Glendening,2022-12-16T01:20:50Z,2,07:39,12:21,0,0,15.0,Washington Capitals,WSH
+166,15,25,Washington Capitals,Dallas Stars,2022020471182,2022020471,Hit,182,HIT,T.J. Oshie hit Luke Glendening,2022-12-16T01:21:03Z,2,07:52,12:08,0,0,15.0,Washington Capitals,WSH
+167,15,25,Washington Capitals,Dallas Stars,2022020471326,2022020471,Blocked Shot,326,BLOCKED_SHOT,Jamie Benn shot blocked shot by Trevor van Riemsdyk,2022-12-16T01:21:39Z,2,08:28,11:32,0,0,15.0,Washington Capitals,WSH
+168,15,25,Washington Capitals,Dallas Stars,2022020471417,2022020471,Stoppage,417,STOP,Puck in Benches,2022-12-16T01:21:55Z,2,08:44,11:16,0,0,,,
+169,15,25,Washington Capitals,Dallas Stars,2022020471418,2022020471,Faceoff,418,FACEOFF,Dylan Strome faceoff won against Tyler Seguin,2022-12-16T01:22:22Z,2,08:44,11:16,0,0,15.0,Washington Capitals,WSH
+170,15,25,Washington Capitals,Dallas Stars,2022020471183,2022020471,Hit,183,HIT,John Carlson hit Ty Dellandrea,2022-12-16T01:22:44Z,2,09:06,10:54,0,0,15.0,Washington Capitals,WSH
+171,15,25,Washington Capitals,Dallas Stars,2022020471184,2022020471,Giveaway,184,GIVEAWAY,Giveaway by Ty Dellandrea,2022-12-16T01:22:57Z,2,09:19,10:41,0,0,25.0,Dallas Stars,DAL
+172,15,25,Washington Capitals,Dallas Stars,2022020471327,2022020471,Goal,327,GOAL,"Conor Sheary (10) Wrist Shot, assists: Alex Ovechkin (15), Dylan Strome (18)",2022-12-16T01:23:01Z,2,09:23,10:37,1,0,15.0,Washington Capitals,WSH
+173,15,25,Washington Capitals,Dallas Stars,2022020471185,2022020471,Faceoff,185,FACEOFF,Joe Pavelski faceoff won against Nic Dowd,2022-12-16T01:23:43Z,2,09:23,10:37,1,0,25.0,Dallas Stars,DAL
+174,15,25,Washington Capitals,Dallas Stars,2022020471328,2022020471,Missed Shot,328,MISSED_SHOT,Joe Pavelski Wide of Net Charlie Lindgren,2022-12-16T01:23:56Z,2,09:36,10:24,1,0,25.0,Dallas Stars,DAL
+175,15,25,Washington Capitals,Dallas Stars,2022020471186,2022020471,Hit,186,HIT,Joe Pavelski hit Nick Jensen,2022-12-16T01:24:02Z,2,09:42,10:18,1,0,25.0,Dallas Stars,DAL
+176,15,25,Washington Capitals,Dallas Stars,2022020471329,2022020471,Shot,329,SHOT,Nick Jensen Snap Shot saved by Jake Oettinger,2022-12-16T01:24:25Z,2,10:05,09:55,1,0,15.0,Washington Capitals,WSH
+177,15,25,Washington Capitals,Dallas Stars,2022020471419,2022020471,Stoppage,419,STOP,Goalie Stopped,2022-12-16T01:24:27Z,2,10:06,09:54,1,0,,,
+178,15,25,Washington Capitals,Dallas Stars,2022020471420,2022020471,Faceoff,420,FACEOFF,Radek Faksa faceoff won against Evgeny Kuznetsov,2022-12-16T01:27:00Z,2,10:06,09:54,1,0,25.0,Dallas Stars,DAL
+179,15,25,Washington Capitals,Dallas Stars,2022020471187,2022020471,Hit,187,HIT,Joel Kiviranta hit Matt Irwin,2022-12-16T01:27:23Z,2,10:29,09:31,1,0,25.0,Dallas Stars,DAL
+180,15,25,Washington Capitals,Dallas Stars,2022020471330,2022020471,Shot,330,SHOT,Nick Jensen Wrist Shot saved by Jake Oettinger,2022-12-16T01:28:12Z,2,11:18,08:42,1,0,15.0,Washington Capitals,WSH
+181,15,25,Washington Capitals,Dallas Stars,2022020471421,2022020471,Stoppage,421,STOP,Goalie Stopped,2022-12-16T01:28:15Z,2,11:21,08:39,1,0,,,
+182,15,25,Washington Capitals,Dallas Stars,2022020471422,2022020471,Faceoff,422,FACEOFF,Jamie Benn faceoff won against Lars Eller,2022-12-16T01:28:51Z,2,11:21,08:39,1,0,25.0,Dallas Stars,DAL
+183,15,25,Washington Capitals,Dallas Stars,2022020471188,2022020471,Giveaway,188,GIVEAWAY,Giveaway by Jani Hakanpää,2022-12-16T01:29:07Z,2,11:37,08:23,1,0,25.0,Dallas Stars,DAL
+184,15,25,Washington Capitals,Dallas Stars,2022020471331,2022020471,Shot,331,SHOT,Dmitry Orlov Backhand saved by Jake Oettinger,2022-12-16T01:29:09Z,2,11:39,08:21,1,0,15.0,Washington Capitals,WSH
+185,15,25,Washington Capitals,Dallas Stars,2022020471423,2022020471,Stoppage,423,STOP,Goalie Stopped,2022-12-16T01:29:10Z,2,11:40,08:20,1,0,,,
+186,15,25,Washington Capitals,Dallas Stars,2022020471424,2022020471,Faceoff,424,FACEOFF,Lars Eller faceoff won against Tyler Seguin,2022-12-16T01:29:43Z,2,11:40,08:20,1,0,15.0,Washington Capitals,WSH
+187,15,25,Washington Capitals,Dallas Stars,2022020471332,2022020471,Shot,332,SHOT,Dmitry Orlov Snap Shot saved by Jake Oettinger,2022-12-16T01:30:18Z,2,12:15,07:45,1,0,15.0,Washington Capitals,WSH
+188,15,25,Washington Capitals,Dallas Stars,2022020471189,2022020471,Hit,189,HIT,Marcus Johansson hit Mason Marchment,2022-12-16T01:30:22Z,2,12:19,07:41,1,0,15.0,Washington Capitals,WSH
+189,15,25,Washington Capitals,Dallas Stars,2022020471333,2022020471,Shot,333,SHOT,Marcus Johansson Snap Shot saved by Jake Oettinger,2022-12-16T01:30:36Z,2,12:33,07:27,1,0,15.0,Washington Capitals,WSH
+190,15,25,Washington Capitals,Dallas Stars,2022020471190,2022020471,Takeaway,190,TAKEAWAY,Takeaway by Marcus Johansson,2022-12-16T01:30:48Z,2,12:45,07:15,1,0,15.0,Washington Capitals,WSH
+191,15,25,Washington Capitals,Dallas Stars,2022020471334,2022020471,Blocked Shot,334,BLOCKED_SHOT,Garnet Hathaway shot blocked shot by Esa Lindell,2022-12-16T01:31:00Z,2,12:57,07:03,1,0,25.0,Dallas Stars,DAL
+192,15,25,Washington Capitals,Dallas Stars,2022020471191,2022020471,Giveaway,191,GIVEAWAY,Giveaway by Erik Gustafsson,2022-12-16T01:31:37Z,2,13:34,06:26,1,0,15.0,Washington Capitals,WSH
+193,15,25,Washington Capitals,Dallas Stars,2022020471257,2022020471,Blocked Shot,257,BLOCKED_SHOT,Dmitry Orlov shot blocked shot by Jamie Benn,2022-12-16T01:32:50Z,2,14:47,05:13,1,0,25.0,Dallas Stars,DAL
+194,15,25,Washington Capitals,Dallas Stars,2022020471335,2022020471,Blocked Shot,335,BLOCKED_SHOT,Nick Jensen shot blocked shot by Denis Gurianov,2022-12-16T01:32:55Z,2,14:52,05:08,1,0,25.0,Dallas Stars,DAL
+195,15,25,Washington Capitals,Dallas Stars,2022020471337,2022020471,Shot,337,SHOT,Anthony Mantha Tip-In saved by Jake Oettinger,2022-12-16T01:33:48Z,2,15:45,04:15,1,0,15.0,Washington Capitals,WSH
+196,15,25,Washington Capitals,Dallas Stars,2022020471338,2022020471,Shot,338,SHOT,Dmitry Orlov Wrist Shot saved by Jake Oettinger,2022-12-16T01:34:03Z,2,16:00,04:00,1,0,15.0,Washington Capitals,WSH
+197,15,25,Washington Capitals,Dallas Stars,2022020471425,2022020471,Stoppage,425,STOP,Goalie Stopped,2022-12-16T01:34:03Z,2,16:01,03:59,1,0,,,
+198,15,25,Washington Capitals,Dallas Stars,2022020471426,2022020471,Faceoff,426,FACEOFF,Lars Eller faceoff won against Tyler Seguin,2022-12-16T01:36:18Z,2,16:01,03:59,1,0,15.0,Washington Capitals,WSH
+199,15,25,Washington Capitals,Dallas Stars,2022020471339,2022020471,Blocked Shot,339,BLOCKED_SHOT,Marcus Johansson shot blocked shot by Esa Lindell,2022-12-16T01:36:24Z,2,16:07,03:53,1,0,25.0,Dallas Stars,DAL
+200,15,25,Washington Capitals,Dallas Stars,2022020471427,2022020471,Stoppage,427,STOP,Puck Frozen,2022-12-16T01:36:42Z,2,16:25,03:35,1,0,,,
+201,15,25,Washington Capitals,Dallas Stars,2022020471428,2022020471,Faceoff,428,FACEOFF,Nic Dowd faceoff won against Joe Pavelski,2022-12-16T01:37:13Z,2,16:25,03:35,1,0,15.0,Washington Capitals,WSH
+202,15,25,Washington Capitals,Dallas Stars,2022020471340,2022020471,Blocked Shot,340,BLOCKED_SHOT,Nick Jensen shot blocked shot by Roope Hintz,2022-12-16T01:37:19Z,2,16:31,03:29,1,0,25.0,Dallas Stars,DAL
+203,15,25,Washington Capitals,Dallas Stars,2022020471671,2022020471,Penalty,671,PENALTY,Roope Hintz High-sticking against Nick Jensen,2022-12-16T01:37:25Z,2,16:38,03:22,1,0,25.0,Dallas Stars,DAL
+204,15,25,Washington Capitals,Dallas Stars,2022020471429,2022020471,Faceoff,429,FACEOFF,Luke Glendening faceoff won against Dylan Strome,2022-12-16T01:38:08Z,2,16:38,03:22,1,0,25.0,Dallas Stars,DAL
+205,15,25,Washington Capitals,Dallas Stars,2022020471256,2022020471,Takeaway,256,TAKEAWAY,Takeaway by Luke Glendening,2022-12-16T01:38:29Z,2,16:59,03:01,1,0,25.0,Dallas Stars,DAL
+206,15,25,Washington Capitals,Dallas Stars,2022020471341,2022020471,Missed Shot,341,MISSED_SHOT,Dylan Strome Wide of Net Jake Oettinger,2022-12-16T01:39:14Z,2,17:44,02:16,1,0,15.0,Washington Capitals,WSH
+207,15,25,Washington Capitals,Dallas Stars,2022020471342,2022020471,Shot,342,SHOT,Alex Ovechkin Slap Shot saved by Jake Oettinger,2022-12-16T01:39:30Z,2,18:00,02:00,1,0,15.0,Washington Capitals,WSH
+208,15,25,Washington Capitals,Dallas Stars,2022020471343,2022020471,Missed Shot,343,MISSED_SHOT,John Carlson Wide of Net Jake Oettinger,2022-12-16T01:39:41Z,2,18:11,01:49,1,0,15.0,Washington Capitals,WSH
+209,15,25,Washington Capitals,Dallas Stars,2022020471344,2022020471,Blocked Shot,344,BLOCKED_SHOT,Alex Ovechkin shot blocked shot by Luke Glendening,2022-12-16T01:39:55Z,2,18:25,01:35,1,0,25.0,Dallas Stars,DAL
+210,15,25,Washington Capitals,Dallas Stars,2022020471345,2022020471,Shot,345,SHOT,John Carlson Slap Shot saved by Jake Oettinger,2022-12-16T01:40:01Z,2,18:31,01:29,1,0,15.0,Washington Capitals,WSH
+211,15,25,Washington Capitals,Dallas Stars,2022020471430,2022020471,Stoppage,430,STOP,Goalie Stopped,2022-12-16T01:40:02Z,2,18:32,01:28,1,0,,,
+212,15,25,Washington Capitals,Dallas Stars,2022020471431,2022020471,Faceoff,431,FACEOFF,Lars Eller faceoff won against Joe Pavelski,2022-12-16T01:40:37Z,2,18:32,01:28,1,0,15.0,Washington Capitals,WSH
+213,15,25,Washington Capitals,Dallas Stars,2022020471346,2022020471,Shot,346,SHOT,Erik Gustafsson Wrist Shot saved by Jake Oettinger,2022-12-16T01:40:42Z,2,18:37,01:23,1,0,15.0,Washington Capitals,WSH
+214,15,25,Washington Capitals,Dallas Stars,2022020471193,2022020471,Giveaway,193,GIVEAWAY,Giveaway by Ryan Suter,2022-12-16T01:41:00Z,2,18:55,01:05,1,0,25.0,Dallas Stars,DAL
+215,15,25,Washington Capitals,Dallas Stars,2022020471347,2022020471,Blocked Shot,347,BLOCKED_SHOT,Erik Gustafsson shot blocked shot by Esa Lindell,2022-12-16T01:41:11Z,2,19:06,00:54,1,0,25.0,Dallas Stars,DAL
+216,15,25,Washington Capitals,Dallas Stars,2022020471348,2022020471,Blocked Shot,348,BLOCKED_SHOT,Anthony Mantha shot blocked shot by Roope Hintz,2022-12-16T01:41:25Z,2,19:20,00:40,1,0,25.0,Dallas Stars,DAL
+217,15,25,Washington Capitals,Dallas Stars,2022020471194,2022020471,Hit,194,HIT,Ryan Suter hit Lars Eller,2022-12-16T01:41:32Z,2,19:27,00:33,1,0,25.0,Dallas Stars,DAL
+218,15,25,Washington Capitals,Dallas Stars,2022020471686,2022020471,Penalty,686,PENALTY,Anthony Mantha Tripping against Joe Pavelski,2022-12-16T01:41:48Z,2,19:42,00:18,1,0,15.0,Washington Capitals,WSH
+219,15,25,Washington Capitals,Dallas Stars,2022020471432,2022020471,Faceoff,432,FACEOFF,Tyler Seguin faceoff won against Nic Dowd,2022-12-16T01:42:22Z,2,19:42,00:18,1,0,25.0,Dallas Stars,DAL
+220,15,25,Washington Capitals,Dallas Stars,2022020471349,2022020471,Shot,349,SHOT,Wyatt Johnston Snap Shot saved by Charlie Lindgren,2022-12-16T01:42:26Z,2,19:46,00:14,1,0,25.0,Dallas Stars,DAL
+221,15,25,Washington Capitals,Dallas Stars,2022020471433,2022020471,Stoppage,433,STOP,Goalie Stopped,2022-12-16T01:42:28Z,2,19:47,00:13,1,0,,,
+222,15,25,Washington Capitals,Dallas Stars,2022020471434,2022020471,Faceoff,434,FACEOFF,Nic Dowd faceoff won against Tyler Seguin,2022-12-16T01:42:49Z,2,19:47,00:13,1,0,15.0,Washington Capitals,WSH
+223,15,25,Washington Capitals,Dallas Stars,2022020471350,2022020471,Period End,350,PERIOD_END,End of 2nd Period,2022-12-16T01:43:01Z,2,20:00,00:00,1,0,,,
+224,15,25,Washington Capitals,Dallas Stars,2022020471603,2022020471,Period Official,603,PERIOD_OFFICIAL,Period Official,2022-12-16T01:49:33Z,2,20:00,00:00,1,0,,,
+225,15,25,Washington Capitals,Dallas Stars,2022020471604,2022020471,Period Ready,604,PERIOD_READY,Period Ready,2022-12-16T01:59:38Z,3,00:00,20:00,1,0,,,
+226,15,25,Washington Capitals,Dallas Stars,2022020471435,2022020471,Period Start,435,PERIOD_START,Period Start,2022-12-16T02:01:52Z,3,00:00,20:00,1,0,,,
+227,15,25,Washington Capitals,Dallas Stars,2022020471436,2022020471,Faceoff,436,FACEOFF,Jamie Benn faceoff won against Nic Dowd,2022-12-16T02:01:52Z,3,00:00,20:00,1,0,25.0,Dallas Stars,DAL
+228,15,25,Washington Capitals,Dallas Stars,2022020471605,2022020471,Missed Shot,605,MISSED_SHOT,Jason Robertson Wide of Net Charlie Lindgren,2022-12-16T02:02:17Z,3,00:25,19:35,1,0,25.0,Dallas Stars,DAL
+229,15,25,Washington Capitals,Dallas Stars,2022020471606,2022020471,Shot,606,SHOT,Roope Hintz Backhand saved by Charlie Lindgren,2022-12-16T02:02:38Z,3,00:46,19:14,1,0,25.0,Dallas Stars,DAL
+230,15,25,Washington Capitals,Dallas Stars,2022020471607,2022020471,Goal,607,GOAL,"Jamie Benn (12) Wrist Shot, assists: Roope Hintz (22), Joe Pavelski (20)",2022-12-16T02:02:40Z,3,00:48,19:12,1,1,25.0,Dallas Stars,DAL
+231,15,25,Washington Capitals,Dallas Stars,2022020471195,2022020471,Faceoff,195,FACEOFF,Luke Glendening faceoff won against Dylan Strome,2022-12-16T02:03:20Z,3,00:48,19:12,1,1,25.0,Dallas Stars,DAL
+232,15,25,Washington Capitals,Dallas Stars,2022020471196,2022020471,Giveaway,196,GIVEAWAY,Giveaway by Anthony Mantha,2022-12-16T02:04:03Z,3,01:31,18:29,1,1,15.0,Washington Capitals,WSH
+233,15,25,Washington Capitals,Dallas Stars,2022020471197,2022020471,Hit,197,HIT,Jamie Benn hit Anthony Mantha,2022-12-16T02:04:17Z,3,01:45,18:15,1,1,25.0,Dallas Stars,DAL
+234,15,25,Washington Capitals,Dallas Stars,2022020471437,2022020471,Stoppage,437,STOP,Icing,2022-12-16T02:04:22Z,3,01:50,18:10,1,1,,,
+235,15,25,Washington Capitals,Dallas Stars,2022020471438,2022020471,Faceoff,438,FACEOFF,Lars Eller faceoff won against Wyatt Johnston,2022-12-16T02:04:58Z,3,01:50,18:10,1,1,15.0,Washington Capitals,WSH
+236,15,25,Washington Capitals,Dallas Stars,2022020471198,2022020471,Hit,198,HIT,Nick Jensen hit Mason Marchment,2022-12-16T02:05:08Z,3,02:00,18:00,1,1,15.0,Washington Capitals,WSH
+237,15,25,Washington Capitals,Dallas Stars,2022020471608,2022020471,Goal,608,GOAL,"Colin Miller (2) Wrist Shot, assists: Ryan Suter (6), Mason Marchment (10)",2022-12-16T02:05:15Z,3,02:07,17:53,1,2,25.0,Dallas Stars,DAL
+238,15,25,Washington Capitals,Dallas Stars,2022020471199,2022020471,Faceoff,199,FACEOFF,Lars Eller faceoff won against Radek Faksa,2022-12-16T02:05:56Z,3,02:07,17:53,1,2,15.0,Washington Capitals,WSH
+239,15,25,Washington Capitals,Dallas Stars,2022020471200,2022020471,Hit,200,HIT,T.J. Oshie hit Colin Miller,2022-12-16T02:06:12Z,3,02:23,17:37,1,2,15.0,Washington Capitals,WSH
+240,15,25,Washington Capitals,Dallas Stars,2022020471609,2022020471,Missed Shot,609,MISSED_SHOT,Radek Faksa Wide of Net Charlie Lindgren,2022-12-16T02:06:17Z,3,02:28,17:32,1,2,25.0,Dallas Stars,DAL
+241,15,25,Washington Capitals,Dallas Stars,2022020471501,2022020471,Hit,501,HIT,Colin Miller hit T.J. Oshie,2022-12-16T02:06:26Z,3,02:37,17:23,1,2,25.0,Dallas Stars,DAL
+242,15,25,Washington Capitals,Dallas Stars,2022020471439,2022020471,Stoppage,439,STOP,Goalie Stopped,2022-12-16T02:06:59Z,3,03:09,16:51,1,2,,,
+243,15,25,Washington Capitals,Dallas Stars,2022020471440,2022020471,Faceoff,440,FACEOFF,Dylan Strome faceoff won against Ty Dellandrea,2022-12-16T02:07:49Z,3,03:09,16:51,1,2,15.0,Washington Capitals,WSH
+244,15,25,Washington Capitals,Dallas Stars,2022020471610,2022020471,Blocked Shot,610,BLOCKED_SHOT,Alex Ovechkin shot blocked shot by Nils Lundkvist,2022-12-16T02:07:52Z,3,03:12,16:48,1,2,25.0,Dallas Stars,DAL
+245,15,25,Washington Capitals,Dallas Stars,2022020471441,2022020471,Stoppage,441,STOP,Icing,2022-12-16T02:07:59Z,3,03:18,16:42,1,2,,,
+246,15,25,Washington Capitals,Dallas Stars,2022020471442,2022020471,Faceoff,442,FACEOFF,Luke Glendening faceoff won against Dylan Strome,2022-12-16T02:08:22Z,3,03:18,16:42,1,2,25.0,Dallas Stars,DAL
+247,15,25,Washington Capitals,Dallas Stars,2022020471502,2022020471,Hit,502,HIT,Alex Ovechkin hit Nils Lundkvist,2022-12-16T02:08:41Z,3,03:37,16:23,1,2,15.0,Washington Capitals,WSH
+248,15,25,Washington Capitals,Dallas Stars,2022020471503,2022020471,Hit,503,HIT,Aliaksei Protas hit Esa Lindell,2022-12-16T02:09:16Z,3,04:12,15:48,1,2,15.0,Washington Capitals,WSH
+249,15,25,Washington Capitals,Dallas Stars,2022020471443,2022020471,Stoppage,443,STOP,Puck in Crowd,2022-12-16T02:09:37Z,3,04:33,15:27,1,2,,,
+250,15,25,Washington Capitals,Dallas Stars,2022020471444,2022020471,Faceoff,444,FACEOFF,Radek Faksa faceoff won against Lars Eller,2022-12-16T02:10:49Z,3,04:33,15:27,1,2,25.0,Dallas Stars,DAL
+251,15,25,Washington Capitals,Dallas Stars,2022020471611,2022020471,Shot,611,SHOT,Ryan Suter Wrist Shot saved by Charlie Lindgren,2022-12-16T02:10:54Z,3,04:38,15:22,1,2,25.0,Dallas Stars,DAL
+252,15,25,Washington Capitals,Dallas Stars,2022020471612,2022020471,Missed Shot,612,MISSED_SHOT,Radek Faksa Wide of Net Charlie Lindgren,2022-12-16T02:10:58Z,3,04:42,15:18,1,2,25.0,Dallas Stars,DAL
+253,15,25,Washington Capitals,Dallas Stars,2022020471613,2022020471,Shot,613,SHOT,Radek Faksa Tip-In saved by Charlie Lindgren,2022-12-16T02:11:16Z,3,05:00,15:00,1,2,25.0,Dallas Stars,DAL
+254,15,25,Washington Capitals,Dallas Stars,2022020471504,2022020471,Takeaway,504,TAKEAWAY,Takeaway by Erik Gustafsson,2022-12-16T02:11:42Z,3,05:26,14:34,1,2,15.0,Washington Capitals,WSH
+255,15,25,Washington Capitals,Dallas Stars,2022020471614,2022020471,Shot,614,SHOT,Nicolas Aube-Kubel Wrist Shot saved by Jake Oettinger,2022-12-16T02:12:03Z,3,05:47,14:13,1,2,15.0,Washington Capitals,WSH
+256,15,25,Washington Capitals,Dallas Stars,2022020471445,2022020471,Stoppage,445,STOP,Goalie Stopped,2022-12-16T02:12:03Z,3,05:48,14:12,1,2,,,
+257,15,25,Washington Capitals,Dallas Stars,2022020471446,2022020471,Faceoff,446,FACEOFF,Dylan Strome faceoff won against Luke Glendening,2022-12-16T02:12:41Z,3,05:48,14:12,1,2,15.0,Washington Capitals,WSH
+258,15,25,Washington Capitals,Dallas Stars,2022020471505,2022020471,Giveaway,505,GIVEAWAY,Giveaway by Alex Ovechkin,2022-12-16T02:12:45Z,3,05:52,14:08,1,2,15.0,Washington Capitals,WSH
+259,15,25,Washington Capitals,Dallas Stars,2022020471615,2022020471,Shot,615,SHOT,Wyatt Johnston Tip-In saved by Charlie Lindgren,2022-12-16T02:13:44Z,3,06:51,13:09,1,2,25.0,Dallas Stars,DAL
+260,15,25,Washington Capitals,Dallas Stars,2022020471506,2022020471,Takeaway,506,TAKEAWAY,Takeaway by Aliaksei Protas,2022-12-16T02:14:16Z,3,07:23,12:37,1,2,15.0,Washington Capitals,WSH
+261,15,25,Washington Capitals,Dallas Stars,2022020471447,2022020471,Stoppage,447,STOP,Offside,2022-12-16T02:14:38Z,3,07:44,12:16,1,2,,,
+262,15,25,Washington Capitals,Dallas Stars,2022020471448,2022020471,Faceoff,448,FACEOFF,Radek Faksa faceoff won against Lars Eller,2022-12-16T02:16:54Z,3,07:44,12:16,1,2,25.0,Dallas Stars,DAL
+263,15,25,Washington Capitals,Dallas Stars,2022020471507,2022020471,Hit,507,HIT,Lars Eller hit Radek Faksa,2022-12-16T02:17:03Z,3,07:53,12:07,1,2,15.0,Washington Capitals,WSH
+264,15,25,Washington Capitals,Dallas Stars,2022020471508,2022020471,Takeaway,508,TAKEAWAY,Takeaway by Denis Gurianov,2022-12-16T02:17:20Z,3,08:10,11:50,1,2,25.0,Dallas Stars,DAL
+265,15,25,Washington Capitals,Dallas Stars,2022020471616,2022020471,Missed Shot,616,MISSED_SHOT,Denis Gurianov Wide of Net Charlie Lindgren,2022-12-16T02:17:22Z,3,08:12,11:48,1,2,25.0,Dallas Stars,DAL
+266,15,25,Washington Capitals,Dallas Stars,2022020471449,2022020471,Stoppage,449,STOP,Icing,2022-12-16T02:17:48Z,3,08:38,11:22,1,2,,,
+267,15,25,Washington Capitals,Dallas Stars,2022020471450,2022020471,Faceoff,450,FACEOFF,Lars Eller faceoff won against Roope Hintz,2022-12-16T02:18:30Z,3,08:38,11:22,1,2,15.0,Washington Capitals,WSH
+268,15,25,Washington Capitals,Dallas Stars,2022020471618,2022020471,Stoppage,618,STOP,Puck in Benches,2022-12-16T02:18:37Z,3,08:45,11:15,1,2,,,
+269,15,25,Washington Capitals,Dallas Stars,2022020471703,2022020471,Faceoff,703,FACEOFF,Nic Dowd faceoff won against Roope Hintz,2022-12-16T02:19:09Z,3,08:45,11:15,1,2,15.0,Washington Capitals,WSH
+270,15,25,Washington Capitals,Dallas Stars,2022020471619,2022020471,Shot,619,SHOT,Dmitry Orlov Wrist Shot saved by Jake Oettinger,2022-12-16T02:19:15Z,3,08:51,11:09,1,2,15.0,Washington Capitals,WSH
+271,15,25,Washington Capitals,Dallas Stars,2022020471510,2022020471,Hit,510,HIT,Garnet Hathaway hit Colin Miller,2022-12-16T02:19:26Z,3,09:02,10:58,1,2,15.0,Washington Capitals,WSH
+272,15,25,Washington Capitals,Dallas Stars,2022020471511,2022020471,Hit,511,HIT,Joel Kiviranta hit Erik Gustafsson,2022-12-16T02:20:14Z,3,09:50,10:10,1,2,25.0,Dallas Stars,DAL
+273,15,25,Washington Capitals,Dallas Stars,2022020471620,2022020471,Shot,620,SHOT,Evgeny Kuznetsov Snap Shot saved by Jake Oettinger,2022-12-16T02:21:04Z,3,10:40,09:20,1,2,15.0,Washington Capitals,WSH
+274,15,25,Washington Capitals,Dallas Stars,2022020471621,2022020471,Missed Shot,621,MISSED_SHOT,Colin Miller Over Net Charlie Lindgren,2022-12-16T02:21:21Z,3,10:57,09:03,1,2,25.0,Dallas Stars,DAL
+275,15,25,Washington Capitals,Dallas Stars,2022020471622,2022020471,Shot,622,SHOT,Denis Gurianov Wrist Shot saved by Charlie Lindgren,2022-12-16T02:21:41Z,3,11:17,08:43,1,2,25.0,Dallas Stars,DAL
+276,15,25,Washington Capitals,Dallas Stars,2022020471623,2022020471,Blocked Shot,623,BLOCKED_SHOT,Colin Miller shot blocked shot by Aliaksei Protas,2022-12-16T02:21:51Z,3,11:27,08:33,1,2,15.0,Washington Capitals,WSH
+277,15,25,Washington Capitals,Dallas Stars,2022020471258,2022020471,Blocked Shot,258,BLOCKED_SHOT,Denis Gurianov shot blocked shot by Matt Irwin,2022-12-16T02:21:52Z,3,11:28,08:32,1,2,15.0,Washington Capitals,WSH
+278,15,25,Washington Capitals,Dallas Stars,2022020471704,2022020471,Stoppage,704,STOP,Icing,2022-12-16T02:22:00Z,3,11:36,08:24,1,2,,,
+279,15,25,Washington Capitals,Dallas Stars,2022020471705,2022020471,Faceoff,705,FACEOFF,Evgeny Kuznetsov faceoff won against Roope Hintz,2022-12-16T02:22:31Z,3,11:36,08:24,1,2,15.0,Washington Capitals,WSH
+280,15,25,Washington Capitals,Dallas Stars,2022020471706,2022020471,Stoppage,706,STOP,Offside,2022-12-16T02:23:02Z,3,12:06,07:54,1,2,,,
+281,15,25,Washington Capitals,Dallas Stars,2022020471707,2022020471,Faceoff,707,FACEOFF,Luke Glendening faceoff won against Lars Eller,2022-12-16T02:25:12Z,3,12:06,07:54,1,2,25.0,Dallas Stars,DAL
+282,15,25,Washington Capitals,Dallas Stars,2022020471512,2022020471,Hit,512,HIT,Joel Kiviranta hit Nick Jensen,2022-12-16T02:25:19Z,3,12:13,07:47,1,2,25.0,Dallas Stars,DAL
+283,15,25,Washington Capitals,Dallas Stars,2022020471513,2022020471,Takeaway,513,TAKEAWAY,Takeaway by T.J. Oshie,2022-12-16T02:25:39Z,3,12:33,07:27,1,2,15.0,Washington Capitals,WSH
+284,15,25,Washington Capitals,Dallas Stars,2022020471514,2022020471,Hit,514,HIT,T.J. Oshie hit Miro Heiskanen,2022-12-16T02:25:51Z,3,12:45,07:15,1,2,15.0,Washington Capitals,WSH
+285,15,25,Washington Capitals,Dallas Stars,2022020471624,2022020471,Shot,624,SHOT,T.J. Oshie Tip-In saved by Jake Oettinger,2022-12-16T02:25:53Z,3,12:47,07:13,1,2,15.0,Washington Capitals,WSH
+286,15,25,Washington Capitals,Dallas Stars,2022020471708,2022020471,Stoppage,708,STOP,High Stick,2022-12-16T02:26:13Z,3,13:07,06:53,1,2,,,
+287,15,25,Washington Capitals,Dallas Stars,2022020471709,2022020471,Faceoff,709,FACEOFF,Nic Dowd faceoff won against Jamie Benn,2022-12-16T02:26:54Z,3,13:07,06:53,1,2,15.0,Washington Capitals,WSH
+288,15,25,Washington Capitals,Dallas Stars,2022020471625,2022020471,Shot,625,SHOT,Alex Ovechkin Backhand saved by Jake Oettinger,2022-12-16T02:27:54Z,3,14:07,05:53,1,2,15.0,Washington Capitals,WSH
+289,15,25,Washington Capitals,Dallas Stars,2022020471515,2022020471,Hit,515,HIT,Nils Lundkvist hit Marcus Johansson,2022-12-16T02:28:57Z,3,15:10,04:50,1,2,25.0,Dallas Stars,DAL
+290,15,25,Washington Capitals,Dallas Stars,2022020471627,2022020471,Shot,627,SHOT,Erik Gustafsson Backhand saved by Jake Oettinger,2022-12-16T02:29:31Z,3,15:44,04:16,1,2,15.0,Washington Capitals,WSH
+291,15,25,Washington Capitals,Dallas Stars,2022020471628,2022020471,Shot,628,SHOT,T.J. Oshie Wrist Shot saved by Jake Oettinger,2022-12-16T02:29:32Z,3,15:45,04:15,1,2,15.0,Washington Capitals,WSH
+292,15,25,Washington Capitals,Dallas Stars,2022020471259,2022020471,Shot,259,SHOT,T.J. Oshie Deflected saved by Jake Oettinger,2022-12-16T02:29:33Z,3,15:46,04:14,1,2,15.0,Washington Capitals,WSH
+293,15,25,Washington Capitals,Dallas Stars,2022020471516,2022020471,Takeaway,516,TAKEAWAY,Takeaway by Dmitry Orlov,2022-12-16T02:29:57Z,3,16:10,03:50,1,2,15.0,Washington Capitals,WSH
+294,15,25,Washington Capitals,Dallas Stars,2022020471629,2022020471,Shot,629,SHOT,Dmitry Orlov Wrist Shot saved by Jake Oettinger,2022-12-16T02:30:10Z,3,16:23,03:37,1,2,15.0,Washington Capitals,WSH
+295,15,25,Washington Capitals,Dallas Stars,2022020471630,2022020471,Shot,630,SHOT,Dmitry Orlov Wrap-around saved by Jake Oettinger,2022-12-16T02:30:22Z,3,16:35,03:25,1,2,15.0,Washington Capitals,WSH
+296,15,25,Washington Capitals,Dallas Stars,2022020471710,2022020471,Stoppage,710,STOP,Goalie Stopped,2022-12-16T02:30:23Z,3,16:36,03:24,1,2,,,
+297,15,25,Washington Capitals,Dallas Stars,2022020471711,2022020471,Faceoff,711,FACEOFF,Lars Eller faceoff won against Radek Faksa,2022-12-16T02:32:36Z,3,16:36,03:24,1,2,15.0,Washington Capitals,WSH
+298,15,25,Washington Capitals,Dallas Stars,2022020471632,2022020471,Shot,632,SHOT,Lars Eller Snap Shot saved by Jake Oettinger,2022-12-16T02:32:55Z,3,16:55,03:05,1,2,15.0,Washington Capitals,WSH
+299,15,25,Washington Capitals,Dallas Stars,2022020471633,2022020471,Missed Shot,633,MISSED_SHOT,Nick Jensen Wide of Net Jake Oettinger,2022-12-16T02:33:14Z,3,17:14,02:46,1,2,15.0,Washington Capitals,WSH
+300,15,25,Washington Capitals,Dallas Stars,2022020471712,2022020471,Stoppage,712,STOP,Puck in Benches,2022-12-16T02:33:19Z,3,17:20,02:40,1,2,,,
+301,15,25,Washington Capitals,Dallas Stars,2022020471713,2022020471,Faceoff,713,FACEOFF,T.J. Oshie faceoff won against Jamie Benn,2022-12-16T02:34:01Z,3,17:20,02:40,1,2,15.0,Washington Capitals,WSH
+302,15,25,Washington Capitals,Dallas Stars,2022020471634,2022020471,Shot,634,SHOT,Evgeny Kuznetsov Snap Shot saved by Jake Oettinger,2022-12-16T02:34:05Z,3,17:24,02:36,1,2,15.0,Washington Capitals,WSH
+303,15,25,Washington Capitals,Dallas Stars,2022020471260,2022020471,Missed Shot,260,MISSED_SHOT,Dylan Strome Goalpost Jake Oettinger,2022-12-16T02:34:06Z,3,17:25,02:35,1,2,15.0,Washington Capitals,WSH
+304,15,25,Washington Capitals,Dallas Stars,2022020471714,2022020471,Stoppage,714,STOP,Puck in Netting,2022-12-16T02:34:27Z,3,17:46,02:14,1,2,,,
+305,15,25,Washington Capitals,Dallas Stars,2022020471715,2022020471,Faceoff,715,FACEOFF,Dylan Strome faceoff won against Joe Pavelski,2022-12-16T02:35:04Z,3,17:46,02:14,1,2,15.0,Washington Capitals,WSH
+306,15,25,Washington Capitals,Dallas Stars,2022020471635,2022020471,Missed Shot,635,MISSED_SHOT,Marcus Johansson Wide of Net Jake Oettinger,2022-12-16T02:35:16Z,3,17:58,02:02,1,2,15.0,Washington Capitals,WSH
+307,15,25,Washington Capitals,Dallas Stars,2022020471636,2022020471,Shot,636,SHOT,T.J. Oshie Snap Shot saved by Jake Oettinger,2022-12-16T02:36:02Z,3,18:44,01:16,1,2,15.0,Washington Capitals,WSH
+308,15,25,Washington Capitals,Dallas Stars,2022020471716,2022020471,Stoppage,716,STOP,Goalie Stopped,2022-12-16T02:36:04Z,3,18:45,01:15,1,2,,,
+309,15,25,Washington Capitals,Dallas Stars,2022020471718,2022020471,Stoppage,718,STOP,Home Timeout,2022-12-16T02:36:04Z,3,18:45,01:15,1,2,,,
+310,15,25,Washington Capitals,Dallas Stars,2022020471719,2022020471,Faceoff,719,FACEOFF,T.J. Oshie faceoff won against Radek Faksa,2022-12-16T02:37:37Z,3,18:45,01:15,1,2,15.0,Washington Capitals,WSH
+311,15,25,Washington Capitals,Dallas Stars,2022020471637,2022020471,Shot,637,SHOT,John Carlson Slap Shot saved by Jake Oettinger,2022-12-16T02:37:41Z,3,18:49,01:11,1,2,15.0,Washington Capitals,WSH
+312,15,25,Washington Capitals,Dallas Stars,2022020471638,2022020471,Shot,638,SHOT,Evgeny Kuznetsov Slap Shot saved by Jake Oettinger,2022-12-16T02:37:54Z,3,19:02,00:58,1,2,15.0,Washington Capitals,WSH
+313,15,25,Washington Capitals,Dallas Stars,2022020471720,2022020471,Stoppage,720,STOP,Icing,2022-12-16T02:38:01Z,3,19:09,00:51,1,2,,,
+314,15,25,Washington Capitals,Dallas Stars,2022020471721,2022020471,Faceoff,721,FACEOFF,Radek Faksa faceoff won against T.J. Oshie,2022-12-16T02:38:29Z,3,19:09,00:51,1,2,25.0,Dallas Stars,DAL
+315,15,25,Washington Capitals,Dallas Stars,2022020471261,2022020471,Blocked Shot,261,BLOCKED_SHOT,Mason Marchment shot blocked shot by John Carlson,2022-12-16T02:38:31Z,3,19:11,00:49,1,2,15.0,Washington Capitals,WSH
+316,15,25,Washington Capitals,Dallas Stars,2022020471639,2022020471,Missed Shot,639,MISSED_SHOT,Mason Marchment Wide of Net,2022-12-16T02:39:00Z,3,19:40,00:20,1,2,25.0,Dallas Stars,DAL
+317,15,25,Washington Capitals,Dallas Stars,2022020471640,2022020471,Missed Shot,640,MISSED_SHOT,Marcus Johansson Wide of Net Jake Oettinger,2022-12-16T02:39:11Z,3,19:51,00:09,1,2,15.0,Washington Capitals,WSH
+318,15,25,Washington Capitals,Dallas Stars,2022020471641,2022020471,Blocked Shot,641,BLOCKED_SHOT,John Carlson shot blocked shot by Jamie Benn,2022-12-16T02:39:18Z,3,19:58,00:02,1,2,25.0,Dallas Stars,DAL
+319,15,25,Washington Capitals,Dallas Stars,2022020471642,2022020471,Period End,642,PERIOD_END,End of 3rd Period,2022-12-16T02:39:20Z,3,20:00,00:00,1,2,,,
+320,15,25,Washington Capitals,Dallas Stars,2022020471645,2022020471,Period Official,645,PERIOD_OFFICIAL,Period Official,2022-12-16T02:39:32Z,3,20:00,00:00,1,2,,,
+321,15,25,Washington Capitals,Dallas Stars,2022020471646,2022020471,Game End,646,GAME_END,Game End,2022-12-16T02:39:34Z,3,20:00,00:00,1,2,,,
+322,15,25,Washington Capitals,Dallas Stars,20220204711051,2022020471,Game Official,1051,GAME_OFFICIAL,Game Official,2022-12-16T05:05:42Z,3,20:00,00:00,1,2,,,

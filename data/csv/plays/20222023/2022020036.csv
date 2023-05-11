@@ -1,0 +1,380 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,22,20,Edmonton Oilers,Calgary Flames,20220200361,2022020036,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-10-16T01:15:08Z,1,00:00,20:00,0,0,,,
+1,22,20,Edmonton Oilers,Calgary Flames,202202003652,2022020036,Period Ready,52,PERIOD_READY,Period Ready,2022-10-16T02:09:46Z,1,00:00,20:00,0,0,,,
+2,22,20,Edmonton Oilers,Calgary Flames,2022020036101,2022020036,Period Start,101,PERIOD_START,Period Start,2022-10-16T02:10:42Z,1,00:00,20:00,0,0,,,
+3,22,20,Edmonton Oilers,Calgary Flames,2022020036102,2022020036,Faceoff,102,FACEOFF,Leon Draisaitl faceoff won against Nazem Kadri,2022-10-16T02:10:42Z,1,00:00,20:00,0,0,22.0,Edmonton Oilers,EDM
+4,22,20,Edmonton Oilers,Calgary Flames,202202003655,2022020036,Hit,55,HIT,Kailer Yamamoto hit MacKenzie Weegar,2022-10-16T02:10:56Z,1,00:14,19:46,0,0,22.0,Edmonton Oilers,EDM
+5,22,20,Edmonton Oilers,Calgary Flames,202202003656,2022020036,Hit,56,HIT,Evander Kane hit MacKenzie Weegar,2022-10-16T02:10:59Z,1,00:17,19:43,0,0,22.0,Edmonton Oilers,EDM
+6,22,20,Edmonton Oilers,Calgary Flames,2022020036201,2022020036,Shot,201,SHOT,Evander Kane Wrist Shot saved by Dan Vladar,2022-10-16T02:11:09Z,1,00:27,19:33,0,0,22.0,Edmonton Oilers,EDM
+7,22,20,Edmonton Oilers,Calgary Flames,202202003657,2022020036,Stoppage,57,STOP,Puck Frozen,2022-10-16T02:11:12Z,1,00:29,19:31,0,0,,,
+8,22,20,Edmonton Oilers,Calgary Flames,2022020036103,2022020036,Faceoff,103,FACEOFF,Connor McDavid faceoff won against Elias Lindholm,2022-10-16T02:11:41Z,1,00:29,19:31,0,0,22.0,Edmonton Oilers,EDM
+9,22,20,Edmonton Oilers,Calgary Flames,202202003658,2022020036,Hit,58,HIT,Tyler Toffoli hit Zach Hyman,2022-10-16T02:11:55Z,1,00:43,19:17,0,0,20.0,Calgary Flames,CGY
+10,22,20,Edmonton Oilers,Calgary Flames,202202003659,2022020036,Stoppage,59,STOP,Goalie Stopped,2022-10-16T02:12:05Z,1,00:53,19:07,0,0,,,
+11,22,20,Edmonton Oilers,Calgary Flames,2022020036202,2022020036,Shot,202,SHOT,Tyler Toffoli Wrist Shot saved by Jack Campbell,2022-10-16T02:12:05Z,1,00:53,19:07,0,0,20.0,Calgary Flames,CGY
+12,22,20,Edmonton Oilers,Calgary Flames,2022020036105,2022020036,Faceoff,105,FACEOFF,Mikael Backlund faceoff won against Ryan Nugent-Hopkins,2022-10-16T02:12:35Z,1,00:53,19:07,0,0,20.0,Calgary Flames,CGY
+13,22,20,Edmonton Oilers,Calgary Flames,2022020036203,2022020036,Blocked Shot,203,BLOCKED_SHOT,Michael Stone shot blocked shot by Dylan Holloway,2022-10-16T02:12:40Z,1,00:58,19:02,0,0,22.0,Edmonton Oilers,EDM
+14,22,20,Edmonton Oilers,Calgary Flames,2022020036204,2022020036,Shot,204,SHOT,Michael Stone Slap Shot saved by Jack Campbell,2022-10-16T02:12:55Z,1,01:13,18:47,0,0,20.0,Calgary Flames,CGY
+15,22,20,Edmonton Oilers,Calgary Flames,2022020036205,2022020036,Goal,205,GOAL,"Mikael Backlund (1) Wrist Shot, assists: Michael Stone (1), Blake Coleman (1)",2022-10-16T02:12:55Z,1,01:13,18:47,0,1,20.0,Calgary Flames,CGY
+16,22,20,Edmonton Oilers,Calgary Flames,202202003660,2022020036,Faceoff,60,FACEOFF,Ryan Nugent-Hopkins faceoff won against Mikael Backlund,2022-10-16T02:13:39Z,1,01:13,18:47,0,1,22.0,Edmonton Oilers,EDM
+17,22,20,Edmonton Oilers,Calgary Flames,2022020036206,2022020036,Missed Shot,206,MISSED_SHOT,Warren Foegele Wide of Net Dan Vladar,2022-10-16T02:14:08Z,1,01:42,18:18,0,1,22.0,Edmonton Oilers,EDM
+18,22,20,Edmonton Oilers,Calgary Flames,2022020036207,2022020036,Shot,207,SHOT,Warren Foegele Snap Shot saved by Dan Vladar,2022-10-16T02:14:15Z,1,01:49,18:11,0,1,22.0,Edmonton Oilers,EDM
+19,22,20,Edmonton Oilers,Calgary Flames,202202003661,2022020036,Hit,61,HIT,Ryan Nugent-Hopkins hit Trevor Lewis,2022-10-16T02:14:17Z,1,01:51,18:09,0,1,22.0,Edmonton Oilers,EDM
+20,22,20,Edmonton Oilers,Calgary Flames,202202003662,2022020036,Hit,62,HIT,Kevin Rooney hit Cody Ceci,2022-10-16T02:14:28Z,1,02:02,17:58,0,1,20.0,Calgary Flames,CGY
+21,22,20,Edmonton Oilers,Calgary Flames,2022020036208,2022020036,Shot,208,SHOT,Milan Lucic Backhand saved by Jack Campbell,2022-10-16T02:14:35Z,1,02:09,17:51,0,1,20.0,Calgary Flames,CGY
+22,22,20,Edmonton Oilers,Calgary Flames,202202003663,2022020036,Hit,63,HIT,Brett Ritchie hit Cody Ceci,2022-10-16T02:14:45Z,1,02:19,17:41,0,1,20.0,Calgary Flames,CGY
+23,22,20,Edmonton Oilers,Calgary Flames,202202003664,2022020036,Hit,64,HIT,Brad Malone hit Michael Stone,2022-10-16T02:14:47Z,1,02:21,17:39,0,1,22.0,Edmonton Oilers,EDM
+24,22,20,Edmonton Oilers,Calgary Flames,202202003665,2022020036,Hit,65,HIT,Brett Kulak hit Andrew Mangiapane,2022-10-16T02:15:05Z,1,02:39,17:21,0,1,22.0,Edmonton Oilers,EDM
+25,22,20,Edmonton Oilers,Calgary Flames,2022020036209,2022020036,Blocked Shot,209,BLOCKED_SHOT,Leon Draisaitl shot blocked shot by Chris Tanev,2022-10-16T02:15:43Z,1,03:17,16:43,0,1,20.0,Calgary Flames,CGY
+26,22,20,Edmonton Oilers,Calgary Flames,2022020036210,2022020036,Goal,210,GOAL,"Cody Ceci (1) Wrist Shot, assists: Kailer Yamamoto (1), Leon Draisaitl (3)",2022-10-16T02:15:44Z,1,03:18,16:42,1,1,22.0,Edmonton Oilers,EDM
+27,22,20,Edmonton Oilers,Calgary Flames,202202003666,2022020036,Faceoff,66,FACEOFF,Connor McDavid faceoff won against Elias Lindholm,2022-10-16T02:16:24Z,1,03:18,16:42,1,1,22.0,Edmonton Oilers,EDM
+28,22,20,Edmonton Oilers,Calgary Flames,2022020036106,2022020036,Giveaway,106,GIVEAWAY,Giveaway by Darnell Nurse,2022-10-16T02:16:31Z,1,03:25,16:35,1,1,22.0,Edmonton Oilers,EDM
+29,22,20,Edmonton Oilers,Calgary Flames,202202003667,2022020036,Hit,67,HIT,Jesse Puljujarvi hit Noah Hanifin,2022-10-16T02:16:50Z,1,03:44,16:16,1,1,22.0,Edmonton Oilers,EDM
+30,22,20,Edmonton Oilers,Calgary Flames,2022020036107,2022020036,Takeaway,107,TAKEAWAY,Takeaway by Elias Lindholm,2022-10-16T02:16:51Z,1,03:45,16:15,1,1,20.0,Calgary Flames,CGY
+31,22,20,Edmonton Oilers,Calgary Flames,202202003668,2022020036,Hit,68,HIT,Blake Coleman hit Connor McDavid,2022-10-16T02:17:10Z,1,04:04,15:56,1,1,20.0,Calgary Flames,CGY
+32,22,20,Edmonton Oilers,Calgary Flames,2022020036211,2022020036,Shot,211,SHOT,Ryan Murray Tip-In saved by Dan Vladar,2022-10-16T02:17:22Z,1,04:16,15:44,1,1,22.0,Edmonton Oilers,EDM
+33,22,20,Edmonton Oilers,Calgary Flames,202202003669,2022020036,Stoppage,69,STOP,Goalie Stopped,2022-10-16T02:17:36Z,1,04:30,15:30,1,1,,,
+34,22,20,Edmonton Oilers,Calgary Flames,2022020036212,2022020036,Shot,212,SHOT,Trevor Lewis Snap Shot saved by Jack Campbell,2022-10-16T02:17:36Z,1,04:30,15:30,1,1,20.0,Calgary Flames,CGY
+35,22,20,Edmonton Oilers,Calgary Flames,2022020036109,2022020036,Faceoff,109,FACEOFF,Kevin Rooney faceoff won against Ryan McLeod,2022-10-16T02:18:16Z,1,04:30,15:30,1,1,20.0,Calgary Flames,CGY
+36,22,20,Edmonton Oilers,Calgary Flames,202202003671,2022020036,Penalty,71,PENALTY,Brad Malone Slashing against Brett Ritchie,2022-10-16T02:18:20Z,1,04:34,15:26,1,1,22.0,Edmonton Oilers,EDM
+37,22,20,Edmonton Oilers,Calgary Flames,202202003674,2022020036,Penalty,74,PENALTY,Brett Ritchie Cross-checking against Brad Malone,2022-10-16T02:18:20Z,1,04:34,15:26,1,1,20.0,Calgary Flames,CGY
+38,22,20,Edmonton Oilers,Calgary Flames,2022020036213,2022020036,Goal,213,GOAL,"Michael Stone (1) Slap Shot, assists: Kevin Rooney (1)",2022-10-16T02:18:20Z,1,04:34,15:26,1,2,20.0,Calgary Flames,CGY
+39,22,20,Edmonton Oilers,Calgary Flames,2022020036110,2022020036,Faceoff,110,FACEOFF,Leon Draisaitl faceoff won against Elias Lindholm,2022-10-16T02:19:45Z,1,04:34,15:26,1,2,22.0,Edmonton Oilers,EDM
+40,22,20,Edmonton Oilers,Calgary Flames,202202003676,2022020036,Stoppage,76,STOP,Goalie Stopped,2022-10-16T02:19:54Z,1,04:43,15:17,1,2,,,
+41,22,20,Edmonton Oilers,Calgary Flames,2022020036214,2022020036,Shot,214,SHOT,MacKenzie Weegar Wrist Shot saved by Jack Campbell,2022-10-16T02:19:54Z,1,04:43,15:17,1,2,20.0,Calgary Flames,CGY
+42,22,20,Edmonton Oilers,Calgary Flames,2022020036111,2022020036,Faceoff,111,FACEOFF,Elias Lindholm faceoff won against Leon Draisaitl,2022-10-16T02:20:15Z,1,04:43,15:17,1,2,20.0,Calgary Flames,CGY
+43,22,20,Edmonton Oilers,Calgary Flames,2022020036112,2022020036,Giveaway,112,GIVEAWAY,Giveaway by Darnell Nurse,2022-10-16T02:20:27Z,1,04:55,15:05,1,2,22.0,Edmonton Oilers,EDM
+44,22,20,Edmonton Oilers,Calgary Flames,202202003677,2022020036,Hit,77,HIT,Elias Lindholm hit Darnell Nurse,2022-10-16T02:20:33Z,1,05:01,14:59,1,2,20.0,Calgary Flames,CGY
+45,22,20,Edmonton Oilers,Calgary Flames,2022020036113,2022020036,Takeaway,113,TAKEAWAY,Takeaway by MacKenzie Weegar,2022-10-16T02:20:39Z,1,05:07,14:53,1,2,20.0,Calgary Flames,CGY
+46,22,20,Edmonton Oilers,Calgary Flames,202202003679,2022020036,Penalty,79,PENALTY,Rasmus Andersson Slashing against Connor McDavid,2022-10-16T02:21:03Z,1,05:31,14:29,1,2,20.0,Calgary Flames,CGY
+47,22,20,Edmonton Oilers,Calgary Flames,2022020036114,2022020036,Faceoff,114,FACEOFF,Mikael Backlund faceoff won against Leon Draisaitl,2022-10-16T02:21:44Z,1,05:31,14:29,1,2,20.0,Calgary Flames,CGY
+48,22,20,Edmonton Oilers,Calgary Flames,2022020036215,2022020036,Shot,215,SHOT,Tyson Barrie Tip-In saved by Dan Vladar,2022-10-16T02:22:41Z,1,06:28,13:32,1,2,22.0,Edmonton Oilers,EDM
+49,22,20,Edmonton Oilers,Calgary Flames,202202003682,2022020036,Stoppage,82,STOP,Goalie Stopped,2022-10-16T02:22:42Z,1,06:29,13:31,1,2,,,
+50,22,20,Edmonton Oilers,Calgary Flames,2022020036117,2022020036,Faceoff,117,FACEOFF,Mikael Backlund faceoff won against Leon Draisaitl,2022-10-16T02:23:52Z,1,06:29,13:31,1,2,20.0,Calgary Flames,CGY
+51,22,20,Edmonton Oilers,Calgary Flames,202202003684,2022020036,Penalty,84,PENALTY,Too many men/ice served by Jesse Puljujarvi,2022-10-16T02:24:04Z,1,06:41,13:19,1,2,22.0,Edmonton Oilers,EDM
+52,22,20,Edmonton Oilers,Calgary Flames,2022020036118,2022020036,Faceoff,118,FACEOFF,Ryan Nugent-Hopkins faceoff won against Dillon Dube,2022-10-16T02:24:56Z,1,06:41,13:19,1,2,22.0,Edmonton Oilers,EDM
+53,22,20,Edmonton Oilers,Calgary Flames,2022020036119,2022020036,Giveaway,119,GIVEAWAY,Giveaway by Cody Ceci,2022-10-16T02:25:04Z,1,06:49,13:11,1,2,22.0,Edmonton Oilers,EDM
+54,22,20,Edmonton Oilers,Calgary Flames,202202003687,2022020036,Hit,87,HIT,Darnell Nurse hit Dillon Dube,2022-10-16T02:25:08Z,1,06:53,13:07,1,2,22.0,Edmonton Oilers,EDM
+55,22,20,Edmonton Oilers,Calgary Flames,2022020036216,2022020036,Blocked Shot,216,BLOCKED_SHOT,Andrew Mangiapane shot blocked shot by Cody Ceci,2022-10-16T02:25:38Z,1,07:23,12:37,1,2,22.0,Edmonton Oilers,EDM
+56,22,20,Edmonton Oilers,Calgary Flames,2022020036217,2022020036,Blocked Shot,217,BLOCKED_SHOT,Zach Hyman shot blocked shot by Michael Stone,2022-10-16T02:25:49Z,1,07:34,12:26,1,2,20.0,Calgary Flames,CGY
+57,22,20,Edmonton Oilers,Calgary Flames,2022020036218,2022020036,Goal,218,GOAL,"Nazem Kadri (1) Wrist Shot, assists: Michael Stone (2)",2022-10-16T02:25:56Z,1,07:41,12:19,1,3,20.0,Calgary Flames,CGY
+58,22,20,Edmonton Oilers,Calgary Flames,202202003688,2022020036,Faceoff,88,FACEOFF,Nazem Kadri faceoff won against Ryan McLeod,2022-10-16T02:26:38Z,1,07:41,12:19,1,3,20.0,Calgary Flames,CGY
+59,22,20,Edmonton Oilers,Calgary Flames,202202003689,2022020036,Hit,89,HIT,Noah Hanifin hit Derek Ryan,2022-10-16T02:26:55Z,1,07:58,12:02,1,3,20.0,Calgary Flames,CGY
+60,22,20,Edmonton Oilers,Calgary Flames,202202003690,2022020036,Stoppage,90,STOP,Goalie Stopped,2022-10-16T02:27:07Z,1,08:10,11:50,1,3,,,
+61,22,20,Edmonton Oilers,Calgary Flames,2022020036219,2022020036,Shot,219,SHOT,Evan Bouchard Snap Shot saved by Dan Vladar,2022-10-16T02:27:07Z,1,08:10,11:50,1,3,22.0,Edmonton Oilers,EDM
+62,22,20,Edmonton Oilers,Calgary Flames,2022020036120,2022020036,Faceoff,120,FACEOFF,Kevin Rooney faceoff won against Leon Draisaitl,2022-10-16T02:29:24Z,1,08:10,11:50,1,3,20.0,Calgary Flames,CGY
+63,22,20,Edmonton Oilers,Calgary Flames,202202003691,2022020036,Hit,91,HIT,Ryan Murray hit Brett Ritchie,2022-10-16T02:29:30Z,1,08:16,11:44,1,3,22.0,Edmonton Oilers,EDM
+64,22,20,Edmonton Oilers,Calgary Flames,202202003692,2022020036,Hit,92,HIT,Evan Bouchard hit Brett Ritchie,2022-10-16T02:29:51Z,1,08:37,11:23,1,3,22.0,Edmonton Oilers,EDM
+65,22,20,Edmonton Oilers,Calgary Flames,202202003693,2022020036,Hit,93,HIT,Mikael Backlund hit Evander Kane,2022-10-16T02:29:58Z,1,08:44,11:16,1,3,20.0,Calgary Flames,CGY
+66,22,20,Edmonton Oilers,Calgary Flames,2022020036220,2022020036,Shot,220,SHOT,Warren Foegele Tip-In saved by Dan Vladar,2022-10-16T02:30:17Z,1,09:03,10:57,1,3,22.0,Edmonton Oilers,EDM
+67,22,20,Edmonton Oilers,Calgary Flames,202202003696,2022020036,Hit,96,HIT,Dylan Holloway hit Trevor Lewis,2022-10-16T02:30:55Z,1,09:41,10:19,1,3,22.0,Edmonton Oilers,EDM
+68,22,20,Edmonton Oilers,Calgary Flames,202202003697,2022020036,Hit,97,HIT,Tyson Barrie hit Dillon Dube,2022-10-16T02:31:00Z,1,09:46,10:14,1,3,22.0,Edmonton Oilers,EDM
+69,22,20,Edmonton Oilers,Calgary Flames,2022020036221,2022020036,Shot,221,SHOT,Dillon Dube Snap Shot saved by Jack Campbell,2022-10-16T02:31:14Z,1,10:00,10:00,1,3,20.0,Calgary Flames,CGY
+70,22,20,Edmonton Oilers,Calgary Flames,202202003698,2022020036,Hit,98,HIT,MacKenzie Weegar hit Zach Hyman,2022-10-16T02:31:19Z,1,10:05,09:55,1,3,20.0,Calgary Flames,CGY
+71,22,20,Edmonton Oilers,Calgary Flames,2022020036222,2022020036,Shot,222,SHOT,Nazem Kadri Wrist Shot saved by Jack Campbell,2022-10-16T02:31:33Z,1,10:18,09:42,1,3,20.0,Calgary Flames,CGY
+72,22,20,Edmonton Oilers,Calgary Flames,2022020036223,2022020036,Goal,223,GOAL,"Andrew Mangiapane (1) Wrist Shot, assists: Nazem Kadri (2), Dillon Dube (1)",2022-10-16T02:31:33Z,1,10:18,09:42,1,4,20.0,Calgary Flames,CGY
+73,22,20,Edmonton Oilers,Calgary Flames,2022020036100,2022020036,Faceoff,100,FACEOFF,Elias Lindholm faceoff won against Connor McDavid,2022-10-16T02:33:03Z,1,10:18,09:42,1,4,20.0,Calgary Flames,CGY
+74,22,20,Edmonton Oilers,Calgary Flames,2022020036404,2022020036,Hit,404,HIT,Connor McDavid hit Elias Lindholm,2022-10-16T02:33:15Z,1,10:30,09:30,1,4,22.0,Edmonton Oilers,EDM
+75,22,20,Edmonton Oilers,Calgary Flames,2022020036224,2022020036,Missed Shot,224,MISSED_SHOT,Elias Lindholm Goalpost Stuart Skinner,2022-10-16T02:33:18Z,1,10:33,09:27,1,4,20.0,Calgary Flames,CGY
+76,22,20,Edmonton Oilers,Calgary Flames,2022020036401,2022020036,Hit,401,HIT,Ryan Murray hit Trevor Lewis,2022-10-16T02:34:26Z,1,11:41,08:19,1,4,22.0,Edmonton Oilers,EDM
+77,22,20,Edmonton Oilers,Calgary Flames,2022020036402,2022020036,Hit,402,HIT,Ryan Murray hit Trevor Lewis,2022-10-16T02:34:34Z,1,11:49,08:11,1,4,22.0,Edmonton Oilers,EDM
+78,22,20,Edmonton Oilers,Calgary Flames,2022020036225,2022020036,Missed Shot,225,MISSED_SHOT,Trevor Lewis Wide of Net Stuart Skinner,2022-10-16T02:34:43Z,1,11:58,08:02,1,4,20.0,Calgary Flames,CGY
+79,22,20,Edmonton Oilers,Calgary Flames,2022020036403,2022020036,Stoppage,403,STOP,Offside,2022-10-16T02:34:50Z,1,12:05,07:55,1,4,,,
+80,22,20,Edmonton Oilers,Calgary Flames,2022020036121,2022020036,Faceoff,121,FACEOFF,Leon Draisaitl faceoff won against Nazem Kadri,2022-10-16T02:37:10Z,1,12:05,07:55,1,4,22.0,Edmonton Oilers,EDM
+81,22,20,Edmonton Oilers,Calgary Flames,2022020036226,2022020036,Shot,226,SHOT,Connor McDavid Wrist Shot saved by Dan Vladar,2022-10-16T02:37:12Z,1,12:08,07:52,1,4,22.0,Edmonton Oilers,EDM
+82,22,20,Edmonton Oilers,Calgary Flames,2022020036405,2022020036,Stoppage,405,STOP,Goalie Stopped,2022-10-16T02:37:12Z,1,12:08,07:52,1,4,,,
+83,22,20,Edmonton Oilers,Calgary Flames,2022020036122,2022020036,Faceoff,122,FACEOFF,Leon Draisaitl faceoff won against Nazem Kadri,2022-10-16T02:37:28Z,1,12:08,07:52,1,4,22.0,Edmonton Oilers,EDM
+84,22,20,Edmonton Oilers,Calgary Flames,2022020036123,2022020036,Takeaway,123,TAKEAWAY,Takeaway by Nazem Kadri,2022-10-16T02:37:34Z,1,12:14,07:46,1,4,20.0,Calgary Flames,CGY
+85,22,20,Edmonton Oilers,Calgary Flames,2022020036406,2022020036,Stoppage,406,STOP,Offside,2022-10-16T02:37:40Z,1,12:20,07:40,1,4,,,
+86,22,20,Edmonton Oilers,Calgary Flames,2022020036124,2022020036,Faceoff,124,FACEOFF,Ryan Nugent-Hopkins faceoff won against Elias Lindholm,2022-10-16T02:38:13Z,1,12:20,07:40,1,4,22.0,Edmonton Oilers,EDM
+87,22,20,Edmonton Oilers,Calgary Flames,2022020036125,2022020036,Giveaway,125,GIVEAWAY,Giveaway by Dan Vladar,2022-10-16T02:38:26Z,1,12:33,07:27,1,4,20.0,Calgary Flames,CGY
+88,22,20,Edmonton Oilers,Calgary Flames,2022020036407,2022020036,Hit,407,HIT,Jesse Puljujarvi hit Tyler Toffoli,2022-10-16T02:38:45Z,1,12:52,07:08,1,4,22.0,Edmonton Oilers,EDM
+89,22,20,Edmonton Oilers,Calgary Flames,2022020036228,2022020036,Shot,228,SHOT,Nikita Zadorov Wrist Shot saved by Stuart Skinner,2022-10-16T02:38:46Z,1,12:53,07:07,1,4,20.0,Calgary Flames,CGY
+90,22,20,Edmonton Oilers,Calgary Flames,2022020036408,2022020036,Stoppage,408,STOP,Goalie Stopped,2022-10-16T02:38:47Z,1,12:54,07:06,1,4,,,
+91,22,20,Edmonton Oilers,Calgary Flames,2022020036126,2022020036,Faceoff,126,FACEOFF,Derek Ryan faceoff won against Kevin Rooney,2022-10-16T02:39:20Z,1,12:54,07:06,1,4,22.0,Edmonton Oilers,EDM
+92,22,20,Edmonton Oilers,Calgary Flames,2022020036409,2022020036,Hit,409,HIT,Brad Malone hit Michael Stone,2022-10-16T02:39:35Z,1,13:09,06:51,1,4,22.0,Edmonton Oilers,EDM
+93,22,20,Edmonton Oilers,Calgary Flames,2022020036127,2022020036,Giveaway,127,GIVEAWAY,Giveaway by Brett Ritchie,2022-10-16T02:39:52Z,1,13:26,06:34,1,4,20.0,Calgary Flames,CGY
+94,22,20,Edmonton Oilers,Calgary Flames,2022020036229,2022020036,Shot,229,SHOT,Chris Tanev Snap Shot saved by Stuart Skinner,2022-10-16T02:40:14Z,1,13:48,06:12,1,4,20.0,Calgary Flames,CGY
+95,22,20,Edmonton Oilers,Calgary Flames,2022020036230,2022020036,Missed Shot,230,MISSED_SHOT,MacKenzie Weegar Wide of Net Stuart Skinner,2022-10-16T02:40:19Z,1,13:53,06:07,1,4,20.0,Calgary Flames,CGY
+96,22,20,Edmonton Oilers,Calgary Flames,2022020036231,2022020036,Missed Shot,231,MISSED_SHOT,Chris Tanev Wide of Net Stuart Skinner,2022-10-16T02:40:25Z,1,13:59,06:01,1,4,20.0,Calgary Flames,CGY
+97,22,20,Edmonton Oilers,Calgary Flames,2022020036410,2022020036,Stoppage,410,STOP,Goalie Stopped,2022-10-16T02:40:25Z,1,13:59,06:01,1,4,,,
+98,22,20,Edmonton Oilers,Calgary Flames,2022020036128,2022020036,Faceoff,128,FACEOFF,Leon Draisaitl faceoff won against Nazem Kadri,2022-10-16T02:40:58Z,1,13:59,06:01,1,4,22.0,Edmonton Oilers,EDM
+99,22,20,Edmonton Oilers,Calgary Flames,2022020036411,2022020036,Stoppage,411,STOP,Icing,2022-10-16T02:41:05Z,1,14:05,05:55,1,4,,,
+100,22,20,Edmonton Oilers,Calgary Flames,2022020036129,2022020036,Faceoff,129,FACEOFF,Mikael Backlund faceoff won against Leon Draisaitl,2022-10-16T02:41:41Z,1,14:05,05:55,1,4,20.0,Calgary Flames,CGY
+101,22,20,Edmonton Oilers,Calgary Flames,2022020036232,2022020036,Shot,232,SHOT,MacKenzie Weegar Slap Shot saved by Stuart Skinner,2022-10-16T02:41:46Z,1,14:10,05:50,1,4,20.0,Calgary Flames,CGY
+102,22,20,Edmonton Oilers,Calgary Flames,2022020036412,2022020036,Stoppage,412,STOP,Goalie Stopped,2022-10-16T02:41:46Z,1,14:10,05:50,1,4,,,
+103,22,20,Edmonton Oilers,Calgary Flames,2022020036130,2022020036,Faceoff,130,FACEOFF,Ryan Nugent-Hopkins faceoff won against Elias Lindholm,2022-10-16T02:44:05Z,1,14:10,05:50,1,4,22.0,Edmonton Oilers,EDM
+104,22,20,Edmonton Oilers,Calgary Flames,2022020036413,2022020036,Stoppage,413,STOP,Puck in Netting,2022-10-16T02:44:14Z,1,14:18,05:42,1,4,,,
+105,22,20,Edmonton Oilers,Calgary Flames,2022020036131,2022020036,Faceoff,131,FACEOFF,Elias Lindholm faceoff won against Ryan Nugent-Hopkins,2022-10-16T02:44:41Z,1,14:18,05:42,1,4,20.0,Calgary Flames,CGY
+106,22,20,Edmonton Oilers,Calgary Flames,2022020036415,2022020036,Penalty,415,PENALTY,Zach Hyman Boarding against Rasmus Andersson,2022-10-16T02:44:47Z,1,14:25,05:35,1,4,22.0,Edmonton Oilers,EDM
+107,22,20,Edmonton Oilers,Calgary Flames,2022020036132,2022020036,Faceoff,132,FACEOFF,Nazem Kadri faceoff won against Ryan Nugent-Hopkins,2022-10-16T02:46:22Z,1,14:25,05:35,1,4,20.0,Calgary Flames,CGY
+108,22,20,Edmonton Oilers,Calgary Flames,2022020036233,2022020036,Shot,233,SHOT,Michael Stone Slap Shot saved by Stuart Skinner,2022-10-16T02:46:29Z,1,14:32,05:28,1,4,20.0,Calgary Flames,CGY
+109,22,20,Edmonton Oilers,Calgary Flames,2022020036418,2022020036,Stoppage,418,STOP,Goalie Stopped,2022-10-16T02:46:29Z,1,14:32,05:28,1,4,,,
+110,22,20,Edmonton Oilers,Calgary Flames,2022020036133,2022020036,Faceoff,133,FACEOFF,Leon Draisaitl faceoff won against Nazem Kadri,2022-10-16T02:47:00Z,1,14:32,05:28,1,4,22.0,Edmonton Oilers,EDM
+111,22,20,Edmonton Oilers,Calgary Flames,2022020036419,2022020036,Hit,419,HIT,Michael Stone hit Derek Ryan,2022-10-16T02:47:30Z,1,15:02,04:58,1,4,20.0,Calgary Flames,CGY
+112,22,20,Edmonton Oilers,Calgary Flames,2022020036234,2022020036,Shot,234,SHOT,Noah Hanifin Slap Shot saved by Stuart Skinner,2022-10-16T02:48:15Z,1,15:47,04:13,1,4,20.0,Calgary Flames,CGY
+113,22,20,Edmonton Oilers,Calgary Flames,2022020036235,2022020036,Missed Shot,235,MISSED_SHOT,Dillon Dube Goalpost Stuart Skinner,2022-10-16T02:48:18Z,1,15:50,04:10,1,4,20.0,Calgary Flames,CGY
+114,22,20,Edmonton Oilers,Calgary Flames,2022020036236,2022020036,Shot,236,SHOT,Kailer Yamamoto Wrist Shot saved by Dan Vladar,2022-10-16T02:48:46Z,1,16:18,03:42,1,4,22.0,Edmonton Oilers,EDM
+115,22,20,Edmonton Oilers,Calgary Flames,2022020036134,2022020036,Giveaway,134,GIVEAWAY,Giveaway by Leon Draisaitl,2022-10-16T02:49:09Z,1,16:40,03:20,1,4,22.0,Edmonton Oilers,EDM
+116,22,20,Edmonton Oilers,Calgary Flames,2022020036420,2022020036,Stoppage,420,STOP,Offside,2022-10-16T02:49:09Z,1,16:40,03:20,1,4,,,
+117,22,20,Edmonton Oilers,Calgary Flames,2022020036135,2022020036,Faceoff,135,FACEOFF,Connor McDavid faceoff won against Milan Lucic,2022-10-16T02:49:58Z,1,16:40,03:20,1,4,22.0,Edmonton Oilers,EDM
+118,22,20,Edmonton Oilers,Calgary Flames,2022020036421,2022020036,Penalty,421,PENALTY,Milan Lucic Cross-checking against Evander Kane,2022-10-16T02:50:14Z,1,16:56,03:04,1,4,20.0,Calgary Flames,CGY
+119,22,20,Edmonton Oilers,Calgary Flames,2022020036136,2022020036,Faceoff,136,FACEOFF,Leon Draisaitl faceoff won against Elias Lindholm,2022-10-16T02:50:58Z,1,16:56,03:04,1,4,22.0,Edmonton Oilers,EDM
+120,22,20,Edmonton Oilers,Calgary Flames,2022020036237,2022020036,Shot,237,SHOT,Ryan Nugent-Hopkins Snap Shot saved by Dan Vladar,2022-10-16T02:51:58Z,1,17:56,02:04,1,4,22.0,Edmonton Oilers,EDM
+121,22,20,Edmonton Oilers,Calgary Flames,2022020036238,2022020036,Shot,238,SHOT,Connor McDavid Wrist Shot saved by Dan Vladar,2022-10-16T02:52:02Z,1,18:00,02:00,1,4,22.0,Edmonton Oilers,EDM
+122,22,20,Edmonton Oilers,Calgary Flames,2022020036239,2022020036,Blocked Shot,239,BLOCKED_SHOT,Tyson Barrie shot blocked shot by MacKenzie Weegar,2022-10-16T02:52:26Z,1,18:24,01:36,1,4,20.0,Calgary Flames,CGY
+123,22,20,Edmonton Oilers,Calgary Flames,2022020036424,2022020036,Stoppage,424,STOP,Offside,2022-10-16T02:52:41Z,1,18:39,01:21,1,4,,,
+124,22,20,Edmonton Oilers,Calgary Flames,2022020036137,2022020036,Faceoff,137,FACEOFF,Ryan McLeod faceoff won against Dillon Dube,2022-10-16T02:53:11Z,1,18:39,01:21,1,4,22.0,Edmonton Oilers,EDM
+125,22,20,Edmonton Oilers,Calgary Flames,2022020036425,2022020036,Hit,425,HIT,Milan Lucic hit Jesse Puljujarvi,2022-10-16T02:53:46Z,1,19:14,00:46,1,4,20.0,Calgary Flames,CGY
+126,22,20,Edmonton Oilers,Calgary Flames,2022020036138,2022020036,Giveaway,138,GIVEAWAY,Giveaway by Warren Foegele,2022-10-16T02:54:05Z,1,19:33,00:27,1,4,22.0,Edmonton Oilers,EDM
+127,22,20,Edmonton Oilers,Calgary Flames,2022020036240,2022020036,Blocked Shot,240,BLOCKED_SHOT,Darnell Nurse shot blocked shot by Michael Stone,2022-10-16T02:54:27Z,1,19:55,00:05,1,4,20.0,Calgary Flames,CGY
+128,22,20,Edmonton Oilers,Calgary Flames,2022020036426,2022020036,Stoppage,426,STOP,Puck Frozen,2022-10-16T02:54:29Z,1,19:56,00:04,1,4,,,
+129,22,20,Edmonton Oilers,Calgary Flames,2022020036139,2022020036,Faceoff,139,FACEOFF,Mikael Backlund faceoff won against Leon Draisaitl,2022-10-16T02:55:05Z,1,19:56,00:04,1,4,20.0,Calgary Flames,CGY
+130,22,20,Edmonton Oilers,Calgary Flames,2022020036427,2022020036,Period End,427,PERIOD_END,End of 1st Period,2022-10-16T02:55:09Z,1,20:00,00:00,1,4,,,
+131,22,20,Edmonton Oilers,Calgary Flames,2022020036430,2022020036,Period Official,430,PERIOD_OFFICIAL,Period Official,2022-10-16T03:12:50Z,1,20:00,00:00,1,4,,,
+132,22,20,Edmonton Oilers,Calgary Flames,2022020036431,2022020036,Period Ready,431,PERIOD_READY,Period Ready,2022-10-16T03:13:52Z,2,00:00,20:00,1,4,,,
+133,22,20,Edmonton Oilers,Calgary Flames,2022020036140,2022020036,Period Start,140,PERIOD_START,Period Start,2022-10-16T03:14:01Z,2,00:00,20:00,1,4,,,
+134,22,20,Edmonton Oilers,Calgary Flames,2022020036141,2022020036,Faceoff,141,FACEOFF,Connor McDavid faceoff won against Nazem Kadri,2022-10-16T03:14:01Z,2,00:00,20:00,1,4,22.0,Edmonton Oilers,EDM
+135,22,20,Edmonton Oilers,Calgary Flames,2022020036241,2022020036,Missed Shot,241,MISSED_SHOT,Nazem Kadri Wide of Net Stuart Skinner,2022-10-16T03:14:15Z,2,00:14,19:46,1,4,20.0,Calgary Flames,CGY
+136,22,20,Edmonton Oilers,Calgary Flames,2022020036242,2022020036,Shot,242,SHOT,Tyson Barrie Slap Shot saved by Dan Vladar,2022-10-16T03:14:31Z,2,00:30,19:30,1,4,22.0,Edmonton Oilers,EDM
+137,22,20,Edmonton Oilers,Calgary Flames,2022020036243,2022020036,Missed Shot,243,MISSED_SHOT,Evander Kane Wide of Net Dan Vladar,2022-10-16T03:14:35Z,2,00:34,19:26,1,4,22.0,Edmonton Oilers,EDM
+138,22,20,Edmonton Oilers,Calgary Flames,2022020036244,2022020036,Shot,244,SHOT,Evander Kane Wrist Shot saved by Dan Vladar,2022-10-16T03:14:37Z,2,00:36,19:24,1,4,22.0,Edmonton Oilers,EDM
+139,22,20,Edmonton Oilers,Calgary Flames,2022020036432,2022020036,Stoppage,432,STOP,Goalie Stopped,2022-10-16T03:14:38Z,2,00:37,19:23,1,4,,,
+140,22,20,Edmonton Oilers,Calgary Flames,2022020036142,2022020036,Faceoff,142,FACEOFF,Ryan McLeod faceoff won against Mikael Backlund,2022-10-16T03:15:07Z,2,00:37,19:23,1,4,22.0,Edmonton Oilers,EDM
+141,22,20,Edmonton Oilers,Calgary Flames,2022020036245,2022020036,Blocked Shot,245,BLOCKED_SHOT,Cody Ceci shot blocked shot by Blake Coleman,2022-10-16T03:15:12Z,2,00:42,19:18,1,4,20.0,Calgary Flames,CGY
+142,22,20,Edmonton Oilers,Calgary Flames,2022020036433,2022020036,Hit,433,HIT,Noah Hanifin hit Kailer Yamamoto,2022-10-16T03:15:17Z,2,00:47,19:13,1,4,20.0,Calgary Flames,CGY
+143,22,20,Edmonton Oilers,Calgary Flames,2022020036143,2022020036,Giveaway,143,GIVEAWAY,Giveaway by Ryan Mcleod,2022-10-16T03:15:22Z,2,00:52,19:08,1,4,22.0,Edmonton Oilers,EDM
+144,22,20,Edmonton Oilers,Calgary Flames,2022020036434,2022020036,Stoppage,434,STOP,Offside,2022-10-16T03:15:25Z,2,00:55,19:05,1,4,,,
+145,22,20,Edmonton Oilers,Calgary Flames,2022020036144,2022020036,Faceoff,144,FACEOFF,Ryan Nugent-Hopkins faceoff won against Elias Lindholm,2022-10-16T03:15:48Z,2,00:55,19:05,1,4,22.0,Edmonton Oilers,EDM
+146,22,20,Edmonton Oilers,Calgary Flames,2022020036246,2022020036,Shot,246,SHOT,Noah Hanifin Snap Shot saved by Stuart Skinner,2022-10-16T03:16:06Z,2,01:13,18:47,1,4,20.0,Calgary Flames,CGY
+147,22,20,Edmonton Oilers,Calgary Flames,2022020036247,2022020036,Shot,247,SHOT,Jonathan Huberdeau Wrist Shot saved by Stuart Skinner,2022-10-16T03:16:14Z,2,01:21,18:39,1,4,20.0,Calgary Flames,CGY
+148,22,20,Edmonton Oilers,Calgary Flames,2022020036248,2022020036,Shot,248,SHOT,Zach Hyman Wrist Shot saved by Dan Vladar,2022-10-16T03:16:23Z,2,01:30,18:30,1,4,22.0,Edmonton Oilers,EDM
+149,22,20,Edmonton Oilers,Calgary Flames,2022020036435,2022020036,Stoppage,435,STOP,Goalie Stopped,2022-10-16T03:16:23Z,2,01:30,18:30,1,4,,,
+150,22,20,Edmonton Oilers,Calgary Flames,2022020036145,2022020036,Faceoff,145,FACEOFF,Derek Ryan faceoff won against Kevin Rooney,2022-10-16T03:16:51Z,2,01:30,18:30,1,4,22.0,Edmonton Oilers,EDM
+151,22,20,Edmonton Oilers,Calgary Flames,2022020036436,2022020036,Hit,436,HIT,Kevin Rooney hit Derek Ryan,2022-10-16T03:17:01Z,2,01:40,18:20,1,4,20.0,Calgary Flames,CGY
+152,22,20,Edmonton Oilers,Calgary Flames,2022020036437,2022020036,Hit,437,HIT,Brad Malone hit MacKenzie Weegar,2022-10-16T03:17:06Z,2,01:45,18:15,1,4,22.0,Edmonton Oilers,EDM
+153,22,20,Edmonton Oilers,Calgary Flames,2022020036249,2022020036,Missed Shot,249,MISSED_SHOT,Brett Kulak Wide of Net Dan Vladar,2022-10-16T03:17:13Z,2,01:52,18:08,1,4,22.0,Edmonton Oilers,EDM
+154,22,20,Edmonton Oilers,Calgary Flames,2022020036250,2022020036,Blocked Shot,250,BLOCKED_SHOT,Tyson Barrie shot blocked shot by MacKenzie Weegar,2022-10-16T03:17:13Z,2,01:52,18:08,1,4,20.0,Calgary Flames,CGY
+155,22,20,Edmonton Oilers,Calgary Flames,2022020036438,2022020036,Hit,438,HIT,Dylan Holloway hit Chris Tanev,2022-10-16T03:17:22Z,2,02:01,17:59,1,4,22.0,Edmonton Oilers,EDM
+156,22,20,Edmonton Oilers,Calgary Flames,2022020036439,2022020036,Stoppage,439,STOP,Goalie Stopped,2022-10-16T03:17:36Z,2,02:15,17:45,1,4,,,
+157,22,20,Edmonton Oilers,Calgary Flames,2022020036501,2022020036,Shot,501,SHOT,Derek Ryan Snap Shot saved by Dan Vladar,2022-10-16T03:17:36Z,2,02:15,17:45,1,4,22.0,Edmonton Oilers,EDM
+158,22,20,Edmonton Oilers,Calgary Flames,2022020036146,2022020036,Faceoff,146,FACEOFF,Mikael Backlund faceoff won against Ryan Nugent-Hopkins,2022-10-16T03:18:03Z,2,02:15,17:45,1,4,20.0,Calgary Flames,CGY
+159,22,20,Edmonton Oilers,Calgary Flames,2022020036440,2022020036,Hit,440,HIT,Blake Coleman hit Cody Ceci,2022-10-16T03:18:14Z,2,02:26,17:34,1,4,20.0,Calgary Flames,CGY
+160,22,20,Edmonton Oilers,Calgary Flames,2022020036502,2022020036,Shot,502,SHOT,Cody Ceci Slap Shot saved by Dan Vladar,2022-10-16T03:18:31Z,2,02:43,17:17,1,4,22.0,Edmonton Oilers,EDM
+161,22,20,Edmonton Oilers,Calgary Flames,2022020036503,2022020036,Blocked Shot,503,BLOCKED_SHOT,Ryan Nugent-Hopkins shot blocked shot by Blake Coleman,2022-10-16T03:18:38Z,2,02:50,17:10,1,4,20.0,Calgary Flames,CGY
+162,22,20,Edmonton Oilers,Calgary Flames,2022020036504,2022020036,Shot,504,SHOT,Ryan Nugent-Hopkins Backhand saved by Dan Vladar,2022-10-16T03:18:52Z,2,03:04,16:56,1,4,22.0,Edmonton Oilers,EDM
+163,22,20,Edmonton Oilers,Calgary Flames,2022020036441,2022020036,Hit,441,HIT,Noah Hanifin hit Zach Hyman,2022-10-16T03:19:00Z,2,03:12,16:48,1,4,20.0,Calgary Flames,CGY
+164,22,20,Edmonton Oilers,Calgary Flames,2022020036442,2022020036,Hit,442,HIT,Tyler Toffoli hit Leon Draisaitl,2022-10-16T03:19:53Z,2,04:05,15:55,1,4,20.0,Calgary Flames,CGY
+165,22,20,Edmonton Oilers,Calgary Flames,2022020036147,2022020036,Giveaway,147,GIVEAWAY,Giveaway by Evander Kane,2022-10-16T03:20:03Z,2,04:15,15:45,1,4,22.0,Edmonton Oilers,EDM
+166,22,20,Edmonton Oilers,Calgary Flames,2022020036443,2022020036,Stoppage,443,STOP,Icing,2022-10-16T03:20:09Z,2,04:20,15:40,1,4,,,
+167,22,20,Edmonton Oilers,Calgary Flames,2022020036148,2022020036,Faceoff,148,FACEOFF,Elias Lindholm faceoff won against Ryan McLeod,2022-10-16T03:20:35Z,2,04:20,15:40,1,4,20.0,Calgary Flames,CGY
+168,22,20,Edmonton Oilers,Calgary Flames,2022020036444,2022020036,Hit,444,HIT,Warren Foegele hit Nikita Zadorov,2022-10-16T03:20:41Z,2,04:26,15:34,1,4,22.0,Edmonton Oilers,EDM
+169,22,20,Edmonton Oilers,Calgary Flames,2022020036445,2022020036,Hit,445,HIT,Nikita Zadorov hit Kailer Yamamoto,2022-10-16T03:21:16Z,2,05:01,14:59,1,4,20.0,Calgary Flames,CGY
+170,22,20,Edmonton Oilers,Calgary Flames,2022020036149,2022020036,Giveaway,149,GIVEAWAY,Giveaway by Brad Malone,2022-10-16T03:22:07Z,2,05:52,14:08,1,4,22.0,Edmonton Oilers,EDM
+171,22,20,Edmonton Oilers,Calgary Flames,2022020036505,2022020036,Blocked Shot,505,BLOCKED_SHOT,Chris Tanev shot blocked shot by Ryan Murray,2022-10-16T03:22:10Z,2,05:55,14:05,1,4,22.0,Edmonton Oilers,EDM
+172,22,20,Edmonton Oilers,Calgary Flames,2022020036446,2022020036,Hit,446,HIT,Kevin Rooney hit Brad Malone,2022-10-16T03:22:13Z,2,05:58,14:02,1,4,20.0,Calgary Flames,CGY
+173,22,20,Edmonton Oilers,Calgary Flames,2022020036447,2022020036,Hit,447,HIT,Brad Malone hit Chris Tanev,2022-10-16T03:22:24Z,2,06:09,13:51,1,4,22.0,Edmonton Oilers,EDM
+174,22,20,Edmonton Oilers,Calgary Flames,2022020036448,2022020036,Hit,448,HIT,Cody Ceci hit Kevin Rooney,2022-10-16T03:22:27Z,2,06:12,13:48,1,4,22.0,Edmonton Oilers,EDM
+175,22,20,Edmonton Oilers,Calgary Flames,2022020036551,2022020036,Takeaway,551,TAKEAWAY,Takeaway by Mikael Backlund,2022-10-16T03:22:41Z,2,06:26,13:34,1,4,20.0,Calgary Flames,CGY
+176,22,20,Edmonton Oilers,Calgary Flames,2022020036506,2022020036,Shot,506,SHOT,Trevor Lewis Snap Shot saved by Stuart Skinner,2022-10-16T03:22:54Z,2,06:39,13:21,1,4,20.0,Calgary Flames,CGY
+177,22,20,Edmonton Oilers,Calgary Flames,2022020036449,2022020036,Hit,449,HIT,Evander Kane hit Elias Lindholm,2022-10-16T03:23:27Z,2,07:12,12:48,1,4,22.0,Edmonton Oilers,EDM
+178,22,20,Edmonton Oilers,Calgary Flames,2022020036552,2022020036,Takeaway,552,TAKEAWAY,Takeaway by Leon Draisaitl,2022-10-16T03:23:32Z,2,07:17,12:43,1,4,22.0,Edmonton Oilers,EDM
+179,22,20,Edmonton Oilers,Calgary Flames,2022020036507,2022020036,Missed Shot,507,MISSED_SHOT,Nazem Kadri Wide of Net Stuart Skinner,2022-10-16T03:24:01Z,2,07:46,12:14,1,4,20.0,Calgary Flames,CGY
+180,22,20,Edmonton Oilers,Calgary Flames,2022020036450,2022020036,Hit,450,HIT,Darnell Nurse hit Dillon Dube,2022-10-16T03:24:17Z,2,08:02,11:58,1,4,22.0,Edmonton Oilers,EDM
+181,22,20,Edmonton Oilers,Calgary Flames,2022020036601,2022020036,Hit,601,HIT,Evan Bouchard hit Andrew Mangiapane,2022-10-16T03:24:21Z,2,08:06,11:54,1,4,22.0,Edmonton Oilers,EDM
+182,22,20,Edmonton Oilers,Calgary Flames,2022020036602,2022020036,Hit,602,HIT,Nikita Zadorov hit Zach Hyman,2022-10-16T03:24:40Z,2,08:25,11:35,1,4,20.0,Calgary Flames,CGY
+183,22,20,Edmonton Oilers,Calgary Flames,2022020036508,2022020036,Shot,508,SHOT,Milan Lucic Poke saved by Stuart Skinner,2022-10-16T03:25:14Z,2,08:59,11:01,1,4,20.0,Calgary Flames,CGY
+184,22,20,Edmonton Oilers,Calgary Flames,2022020036509,2022020036,Shot,509,SHOT,Brett Ritchie Wrist Shot saved by Stuart Skinner,2022-10-16T03:25:15Z,2,09:00,11:00,1,4,20.0,Calgary Flames,CGY
+185,22,20,Edmonton Oilers,Calgary Flames,2022020036553,2022020036,Giveaway,553,GIVEAWAY,Giveaway by Tyson Barrie,2022-10-16T03:25:30Z,2,09:15,10:45,1,4,22.0,Edmonton Oilers,EDM
+186,22,20,Edmonton Oilers,Calgary Flames,2022020036554,2022020036,Takeaway,554,TAKEAWAY,Takeaway by Connor McDavid,2022-10-16T03:25:49Z,2,09:34,10:26,1,4,22.0,Edmonton Oilers,EDM
+187,22,20,Edmonton Oilers,Calgary Flames,2022020036603,2022020036,Penalty,603,PENALTY,Blake Coleman Hooking against Leon Draisaitl,2022-10-16T03:25:55Z,2,09:40,10:20,1,4,20.0,Calgary Flames,CGY
+188,22,20,Edmonton Oilers,Calgary Flames,2022020036605,2022020036,Stoppage,605,STOP,TV timeout,2022-10-16T03:25:55Z,2,09:40,10:20,1,4,,,
+189,22,20,Edmonton Oilers,Calgary Flames,2022020036555,2022020036,Faceoff,555,FACEOFF,Leon Draisaitl faceoff won against Mikael Backlund,2022-10-16T03:28:39Z,2,09:40,10:20,1,4,22.0,Edmonton Oilers,EDM
+190,22,20,Edmonton Oilers,Calgary Flames,2022020036510,2022020036,Shot,510,SHOT,Mikael Backlund Snap Shot saved by Stuart Skinner,2022-10-16T03:28:56Z,2,09:57,10:03,1,4,20.0,Calgary Flames,CGY
+191,22,20,Edmonton Oilers,Calgary Flames,2022020036511,2022020036,Shot,511,SHOT,Leon Draisaitl Snap Shot saved by Dan Vladar,2022-10-16T03:29:04Z,2,10:05,09:55,1,4,22.0,Edmonton Oilers,EDM
+192,22,20,Edmonton Oilers,Calgary Flames,2022020036606,2022020036,Stoppage,606,STOP,Puck Frozen,2022-10-16T03:29:06Z,2,10:06,09:54,1,4,,,
+193,22,20,Edmonton Oilers,Calgary Flames,2022020036556,2022020036,Faceoff,556,FACEOFF,Trevor Lewis faceoff won against Leon Draisaitl,2022-10-16T03:29:32Z,2,10:06,09:54,1,4,20.0,Calgary Flames,CGY
+194,22,20,Edmonton Oilers,Calgary Flames,2022020036557,2022020036,Giveaway,557,GIVEAWAY,Giveaway by Rasmus Andersson,2022-10-16T03:29:37Z,2,10:11,09:49,1,4,20.0,Calgary Flames,CGY
+195,22,20,Edmonton Oilers,Calgary Flames,2022020036512,2022020036,Goal,512,GOAL,"Connor McDavid (4) Snap Shot, assists: Evander Kane (2), Leon Draisaitl (4)",2022-10-16T03:30:12Z,2,10:46,09:14,2,4,22.0,Edmonton Oilers,EDM
+196,22,20,Edmonton Oilers,Calgary Flames,2022020036607,2022020036,Faceoff,607,FACEOFF,Ryan McLeod faceoff won against Elias Lindholm,2022-10-16T03:30:50Z,2,10:46,09:14,2,4,22.0,Edmonton Oilers,EDM
+197,22,20,Edmonton Oilers,Calgary Flames,2022020036608,2022020036,Hit,608,HIT,Jonathan Huberdeau hit Ryan McLeod,2022-10-16T03:31:15Z,2,11:11,08:49,2,4,20.0,Calgary Flames,CGY
+198,22,20,Edmonton Oilers,Calgary Flames,2022020036513,2022020036,Missed Shot,513,MISSED_SHOT,Darnell Nurse Wide of Net Dan Vladar,2022-10-16T03:31:21Z,2,11:17,08:43,2,4,22.0,Edmonton Oilers,EDM
+199,22,20,Edmonton Oilers,Calgary Flames,2022020036609,2022020036,Hit,609,HIT,Darnell Nurse hit Jonathan Huberdeau,2022-10-16T03:31:28Z,2,11:24,08:36,2,4,22.0,Edmonton Oilers,EDM
+200,22,20,Edmonton Oilers,Calgary Flames,2022020036610,2022020036,Hit,610,HIT,Dylan Holloway hit Tyler Toffoli,2022-10-16T03:31:39Z,2,11:35,08:25,2,4,22.0,Edmonton Oilers,EDM
+201,22,20,Edmonton Oilers,Calgary Flames,2022020036611,2022020036,Hit,611,HIT,Evan Bouchard hit Kevin Rooney,2022-10-16T03:31:43Z,2,11:39,08:21,2,4,22.0,Edmonton Oilers,EDM
+202,22,20,Edmonton Oilers,Calgary Flames,2022020036514,2022020036,Shot,514,SHOT,Milan Lucic Snap Shot saved by Stuart Skinner,2022-10-16T03:32:14Z,2,12:10,07:50,2,4,20.0,Calgary Flames,CGY
+203,22,20,Edmonton Oilers,Calgary Flames,2022020036515,2022020036,Missed Shot,515,MISSED_SHOT,Noah Hanifin Wide of Net Stuart Skinner,2022-10-16T03:32:19Z,2,12:15,07:45,2,4,20.0,Calgary Flames,CGY
+204,22,20,Edmonton Oilers,Calgary Flames,2022020036612,2022020036,Hit,612,HIT,Noah Hanifin hit Connor McDavid,2022-10-16T03:32:54Z,2,12:50,07:10,2,4,20.0,Calgary Flames,CGY
+205,22,20,Edmonton Oilers,Calgary Flames,2022020036516,2022020036,Shot,516,SHOT,Mikael Backlund Snap Shot saved by Stuart Skinner,2022-10-16T03:33:16Z,2,13:12,06:48,2,4,20.0,Calgary Flames,CGY
+206,22,20,Edmonton Oilers,Calgary Flames,2022020036558,2022020036,Giveaway,558,GIVEAWAY,Giveaway by Evander Kane,2022-10-16T03:33:20Z,2,13:16,06:44,2,4,22.0,Edmonton Oilers,EDM
+207,22,20,Edmonton Oilers,Calgary Flames,2022020036613,2022020036,Stoppage,613,STOP,Icing,2022-10-16T03:33:58Z,2,13:53,06:07,2,4,,,
+208,22,20,Edmonton Oilers,Calgary Flames,2022020036559,2022020036,Faceoff,559,FACEOFF,Zach Hyman faceoff won against Elias Lindholm,2022-10-16T03:34:55Z,2,13:53,06:07,2,4,22.0,Edmonton Oilers,EDM
+209,22,20,Edmonton Oilers,Calgary Flames,2022020036614,2022020036,Stoppage,614,STOP,Icing,2022-10-16T03:35:06Z,2,14:05,05:55,2,4,,,
+210,22,20,Edmonton Oilers,Calgary Flames,2022020036560,2022020036,Faceoff,560,FACEOFF,Ryan Nugent-Hopkins faceoff won against Elias Lindholm,2022-10-16T03:35:39Z,2,14:05,05:55,2,4,22.0,Edmonton Oilers,EDM
+211,22,20,Edmonton Oilers,Calgary Flames,2022020036517,2022020036,Blocked Shot,517,BLOCKED_SHOT,Brett Kulak shot blocked shot by Michael Stone,2022-10-16T03:36:03Z,2,14:29,05:31,2,4,20.0,Calgary Flames,CGY
+212,22,20,Edmonton Oilers,Calgary Flames,2022020036901,2022020036,Blocked Shot,901,BLOCKED_SHOT,Ryan Nugent-Hopkins shot blocked shot by Michael Stone,2022-10-16T03:36:09Z,2,14:35,05:25,2,4,20.0,Calgary Flames,CGY
+213,22,20,Edmonton Oilers,Calgary Flames,2022020036615,2022020036,Hit,615,HIT,Zach Hyman hit Nikita Zadorov,2022-10-16T03:36:17Z,2,14:43,05:17,2,4,22.0,Edmonton Oilers,EDM
+214,22,20,Edmonton Oilers,Calgary Flames,2022020036616,2022020036,Hit,616,HIT,Jesse Puljujarvi hit Michael Stone,2022-10-16T03:36:21Z,2,14:47,05:13,2,4,22.0,Edmonton Oilers,EDM
+215,22,20,Edmonton Oilers,Calgary Flames,2022020036617,2022020036,Stoppage,617,STOP,Puck Frozen,2022-10-16T03:36:23Z,2,14:49,05:11,2,4,,,
+216,22,20,Edmonton Oilers,Calgary Flames,2022020036562,2022020036,Faceoff,562,FACEOFF,Ryan McLeod faceoff won against Mikael Backlund,2022-10-16T03:38:43Z,2,14:49,05:11,2,4,22.0,Edmonton Oilers,EDM
+217,22,20,Edmonton Oilers,Calgary Flames,2022020036518,2022020036,Goal,518,GOAL,"Ryan McLeod (1) Snap Shot, assists: Ryan Murray (1)",2022-10-16T03:38:49Z,2,14:54,05:06,3,4,22.0,Edmonton Oilers,EDM
+218,22,20,Edmonton Oilers,Calgary Flames,2022020036618,2022020036,Faceoff,618,FACEOFF,Ryan McLeod faceoff won against Mikael Backlund,2022-10-16T03:39:25Z,2,14:54,05:06,3,4,22.0,Edmonton Oilers,EDM
+219,22,20,Edmonton Oilers,Calgary Flames,2022020036619,2022020036,Hit,619,HIT,Noah Hanifin hit Kailer Yamamoto,2022-10-16T03:39:45Z,2,15:14,04:46,3,4,20.0,Calgary Flames,CGY
+220,22,20,Edmonton Oilers,Calgary Flames,2022020036620,2022020036,Hit,620,HIT,Ryan McLeod hit Trevor Lewis,2022-10-16T03:39:58Z,2,15:27,04:33,3,4,22.0,Edmonton Oilers,EDM
+221,22,20,Edmonton Oilers,Calgary Flames,2022020036621,2022020036,Hit,621,HIT,Blake Coleman hit Ryan McLeod,2022-10-16T03:40:02Z,2,15:31,04:29,3,4,20.0,Calgary Flames,CGY
+222,22,20,Edmonton Oilers,Calgary Flames,2022020036622,2022020036,Penalty,622,PENALTY,Ryan McLeod Slashing against Blake Coleman,2022-10-16T03:40:06Z,2,15:36,04:24,3,4,22.0,Edmonton Oilers,EDM
+223,22,20,Edmonton Oilers,Calgary Flames,2022020036563,2022020036,Faceoff,563,FACEOFF,Leon Draisaitl faceoff won against Nazem Kadri,2022-10-16T03:40:53Z,2,15:36,04:24,3,4,22.0,Edmonton Oilers,EDM
+224,22,20,Edmonton Oilers,Calgary Flames,2022020036624,2022020036,Stoppage,624,STOP,Puck Frozen,2022-10-16T03:40:56Z,2,15:38,04:22,3,4,,,
+225,22,20,Edmonton Oilers,Calgary Flames,2022020036564,2022020036,Faceoff,564,FACEOFF,Leon Draisaitl faceoff won against Nazem Kadri,2022-10-16T03:41:18Z,2,15:38,04:22,3,4,22.0,Edmonton Oilers,EDM
+226,22,20,Edmonton Oilers,Calgary Flames,2022020036519,2022020036,Blocked Shot,519,BLOCKED_SHOT,Tyler Toffoli shot blocked shot by Darnell Nurse,2022-10-16T03:41:39Z,2,15:59,04:01,3,4,22.0,Edmonton Oilers,EDM
+227,22,20,Edmonton Oilers,Calgary Flames,2022020036520,2022020036,Missed Shot,520,MISSED_SHOT,Nazem Kadri Wide of Net Stuart Skinner,2022-10-16T03:41:57Z,2,16:17,03:43,3,4,20.0,Calgary Flames,CGY
+228,22,20,Edmonton Oilers,Calgary Flames,2022020036521,2022020036,Blocked Shot,521,BLOCKED_SHOT,Rasmus Andersson shot blocked shot by Darnell Nurse,2022-10-16T03:42:11Z,2,16:31,03:29,3,4,22.0,Edmonton Oilers,EDM
+229,22,20,Edmonton Oilers,Calgary Flames,2022020036522,2022020036,Blocked Shot,522,BLOCKED_SHOT,Elias Lindholm shot blocked shot by Darnell Nurse,2022-10-16T03:42:24Z,2,16:44,03:16,3,4,22.0,Edmonton Oilers,EDM
+230,22,20,Edmonton Oilers,Calgary Flames,2022020036523,2022020036,Shot,523,SHOT,Nazem Kadri Tip-In saved by Stuart Skinner,2022-10-16T03:42:38Z,2,16:58,03:02,3,4,20.0,Calgary Flames,CGY
+231,22,20,Edmonton Oilers,Calgary Flames,2022020036625,2022020036,Stoppage,625,STOP,Goalie Stopped,2022-10-16T03:42:40Z,2,16:59,03:01,3,4,,,
+232,22,20,Edmonton Oilers,Calgary Flames,2022020036565,2022020036,Faceoff,565,FACEOFF,Mikael Backlund faceoff won against Leon Draisaitl,2022-10-16T03:43:10Z,2,16:59,03:01,3,4,20.0,Calgary Flames,CGY
+233,22,20,Edmonton Oilers,Calgary Flames,2022020036566,2022020036,Giveaway,566,GIVEAWAY,Giveaway by Tyson Barrie,2022-10-16T03:43:26Z,2,17:15,02:45,3,4,22.0,Edmonton Oilers,EDM
+234,22,20,Edmonton Oilers,Calgary Flames,2022020036524,2022020036,Missed Shot,524,MISSED_SHOT,Mikael Backlund Wide of Net Stuart Skinner,2022-10-16T03:43:36Z,2,17:25,02:35,3,4,20.0,Calgary Flames,CGY
+235,22,20,Edmonton Oilers,Calgary Flames,2022020036525,2022020036,Shot,525,SHOT,Mikael Backlund Snap Shot saved by Stuart Skinner,2022-10-16T03:43:50Z,2,17:39,02:21,3,4,20.0,Calgary Flames,CGY
+236,22,20,Edmonton Oilers,Calgary Flames,2022020036626,2022020036,Stoppage,626,STOP,Puck Frozen,2022-10-16T03:43:54Z,2,17:43,02:17,3,4,,,
+237,22,20,Edmonton Oilers,Calgary Flames,2022020036567,2022020036,Faceoff,567,FACEOFF,Ryan Nugent-Hopkins faceoff won against Nazem Kadri,2022-10-16T03:46:16Z,2,17:43,02:17,3,4,22.0,Edmonton Oilers,EDM
+238,22,20,Edmonton Oilers,Calgary Flames,2022020036627,2022020036,Hit,627,HIT,Chris Tanev hit Zach Hyman,2022-10-16T03:46:25Z,2,17:52,02:08,3,4,20.0,Calgary Flames,CGY
+239,22,20,Edmonton Oilers,Calgary Flames,2022020036628,2022020036,Hit,628,HIT,Zach Hyman hit Nazem Kadri,2022-10-16T03:46:35Z,2,18:02,01:58,3,4,22.0,Edmonton Oilers,EDM
+240,22,20,Edmonton Oilers,Calgary Flames,2022020036629,2022020036,Hit,629,HIT,MacKenzie Weegar hit Ryan Murray,2022-10-16T03:46:52Z,2,18:19,01:41,3,4,20.0,Calgary Flames,CGY
+241,22,20,Edmonton Oilers,Calgary Flames,2022020036526,2022020036,Blocked Shot,526,BLOCKED_SHOT,Tyler Toffoli shot blocked shot by Leon Draisaitl,2022-10-16T03:47:21Z,2,18:48,01:12,3,4,22.0,Edmonton Oilers,EDM
+242,22,20,Edmonton Oilers,Calgary Flames,2022020036527,2022020036,Shot,527,SHOT,Evander Kane Wrist Shot saved by Dan Vladar,2022-10-16T03:47:35Z,2,19:01,00:59,3,4,22.0,Edmonton Oilers,EDM
+243,22,20,Edmonton Oilers,Calgary Flames,2022020036631,2022020036,Stoppage,631,STOP,Goalie Stopped,2022-10-16T03:47:35Z,2,19:01,00:59,3,4,,,
+244,22,20,Edmonton Oilers,Calgary Flames,2022020036569,2022020036,Faceoff,569,FACEOFF,Ryan McLeod faceoff won against Mikael Backlund,2022-10-16T03:48:11Z,2,19:01,00:59,3,4,22.0,Edmonton Oilers,EDM
+245,22,20,Edmonton Oilers,Calgary Flames,2022020036528,2022020036,Blocked Shot,528,BLOCKED_SHOT,Evan Bouchard shot blocked shot by Blake Coleman,2022-10-16T03:48:16Z,2,19:07,00:53,3,4,20.0,Calgary Flames,CGY
+246,22,20,Edmonton Oilers,Calgary Flames,2022020036530,2022020036,Blocked Shot,530,BLOCKED_SHOT,Trevor Lewis shot blocked shot by Darnell Nurse,2022-10-16T03:48:21Z,2,19:12,00:48,3,4,22.0,Edmonton Oilers,EDM
+247,22,20,Edmonton Oilers,Calgary Flames,2022020036529,2022020036,Missed Shot,529,MISSED_SHOT,Evan Bouchard Wide of Net Dan Vladar,2022-10-16T03:48:26Z,2,19:17,00:43,3,4,22.0,Edmonton Oilers,EDM
+248,22,20,Edmonton Oilers,Calgary Flames,2022020036633,2022020036,Hit,633,HIT,Warren Foegele hit Chris Tanev,2022-10-16T03:48:28Z,2,19:19,00:41,3,4,22.0,Edmonton Oilers,EDM
+249,22,20,Edmonton Oilers,Calgary Flames,2022020036634,2022020036,Hit,634,HIT,Kevin Rooney hit Ryan McLeod,2022-10-16T03:48:43Z,2,19:34,00:26,3,4,20.0,Calgary Flames,CGY
+250,22,20,Edmonton Oilers,Calgary Flames,2022020036902,2022020036,Shot,902,SHOT,Trevor Lewis Wrist Shot saved by Stuart Skinner,2022-10-16T03:48:57Z,2,19:48,00:12,3,4,20.0,Calgary Flames,CGY
+251,22,20,Edmonton Oilers,Calgary Flames,2022020036570,2022020036,Giveaway,570,GIVEAWAY,Giveaway by Evan Bouchard,2022-10-16T03:49:06Z,2,19:57,00:03,3,4,22.0,Edmonton Oilers,EDM
+252,22,20,Edmonton Oilers,Calgary Flames,2022020036635,2022020036,Hit,635,HIT,Evan Bouchard hit Andrew Mangiapane,2022-10-16T03:49:08Z,2,19:59,00:01,3,4,22.0,Edmonton Oilers,EDM
+253,22,20,Edmonton Oilers,Calgary Flames,2022020036636,2022020036,Period End,636,PERIOD_END,End of 2nd Period,2022-10-16T03:49:09Z,2,20:00,00:00,3,4,,,
+254,22,20,Edmonton Oilers,Calgary Flames,2022020036639,2022020036,Period Official,639,PERIOD_OFFICIAL,Period Official,2022-10-16T04:06:59Z,2,20:00,00:00,3,4,,,
+255,22,20,Edmonton Oilers,Calgary Flames,2022020036640,2022020036,Period Ready,640,PERIOD_READY,Period Ready,2022-10-16T04:08:26Z,3,00:00,20:00,3,4,,,
+256,22,20,Edmonton Oilers,Calgary Flames,2022020036571,2022020036,Period Start,571,PERIOD_START,Period Start,2022-10-16T04:08:36Z,3,00:00,20:00,3,4,,,
+257,22,20,Edmonton Oilers,Calgary Flames,2022020036572,2022020036,Faceoff,572,FACEOFF,Elias Lindholm faceoff won against Connor McDavid,2022-10-16T04:08:36Z,3,00:00,20:00,3,4,20.0,Calgary Flames,CGY
+258,22,20,Edmonton Oilers,Calgary Flames,2022020036531,2022020036,Blocked Shot,531,BLOCKED_SHOT,Leon Draisaitl shot blocked shot by Rasmus Andersson,2022-10-16T04:09:07Z,3,00:31,19:29,3,4,20.0,Calgary Flames,CGY
+259,22,20,Edmonton Oilers,Calgary Flames,2022020036532,2022020036,Shot,532,SHOT,Leon Draisaitl Snap Shot saved by Dan Vladar,2022-10-16T04:09:13Z,3,00:37,19:23,3,4,22.0,Edmonton Oilers,EDM
+260,22,20,Edmonton Oilers,Calgary Flames,2022020036641,2022020036,Hit,641,HIT,Evander Kane hit MacKenzie Weegar,2022-10-16T04:09:24Z,3,00:48,19:12,3,4,22.0,Edmonton Oilers,EDM
+261,22,20,Edmonton Oilers,Calgary Flames,2022020036642,2022020036,Hit,642,HIT,Chris Tanev hit Zach Hyman,2022-10-16T04:09:48Z,3,01:12,18:48,3,4,20.0,Calgary Flames,CGY
+262,22,20,Edmonton Oilers,Calgary Flames,2022020036573,2022020036,Takeaway,573,TAKEAWAY,Takeaway by Nazem Kadri,2022-10-16T04:09:52Z,3,01:16,18:44,3,4,20.0,Calgary Flames,CGY
+263,22,20,Edmonton Oilers,Calgary Flames,2022020036533,2022020036,Missed Shot,533,MISSED_SHOT,Trevor Lewis Wide of Net Stuart Skinner,2022-10-16T04:10:20Z,3,01:44,18:16,3,4,20.0,Calgary Flames,CGY
+264,22,20,Edmonton Oilers,Calgary Flames,2022020036534,2022020036,Shot,534,SHOT,Mikael Backlund Snap Shot saved by Stuart Skinner,2022-10-16T04:10:22Z,3,01:46,18:14,3,4,20.0,Calgary Flames,CGY
+265,22,20,Edmonton Oilers,Calgary Flames,2022020036643,2022020036,Stoppage,643,STOP,Goalie Stopped,2022-10-16T04:10:23Z,3,01:47,18:13,3,4,,,
+266,22,20,Edmonton Oilers,Calgary Flames,2022020036574,2022020036,Faceoff,574,FACEOFF,Kevin Rooney faceoff won against Ryan McLeod,2022-10-16T04:10:53Z,3,01:47,18:13,3,4,20.0,Calgary Flames,CGY
+267,22,20,Edmonton Oilers,Calgary Flames,2022020036535,2022020036,Shot,535,SHOT,Mikael Backlund Slap Shot saved by Stuart Skinner,2022-10-16T04:11:59Z,3,02:53,17:07,3,4,20.0,Calgary Flames,CGY
+268,22,20,Edmonton Oilers,Calgary Flames,2022020036644,2022020036,Stoppage,644,STOP,Goalie Stopped,2022-10-16T04:12:00Z,3,02:54,17:06,3,4,,,
+269,22,20,Edmonton Oilers,Calgary Flames,2022020036645,2022020036,Penalty,645,PENALTY,Brett Kulak High-sticking against Rasmus Andersson,2022-10-16T04:12:00Z,3,02:54,17:06,3,4,22.0,Edmonton Oilers,EDM
+270,22,20,Edmonton Oilers,Calgary Flames,2022020036575,2022020036,Faceoff,575,FACEOFF,Nazem Kadri faceoff won against Ryan Nugent-Hopkins,2022-10-16T04:12:47Z,3,02:54,17:06,3,4,20.0,Calgary Flames,CGY
+271,22,20,Edmonton Oilers,Calgary Flames,2022020036536,2022020036,Shot,536,SHOT,Elias Lindholm Snap Shot saved by Stuart Skinner,2022-10-16T04:12:54Z,3,03:01,16:59,3,4,20.0,Calgary Flames,CGY
+272,22,20,Edmonton Oilers,Calgary Flames,2022020036537,2022020036,Missed Shot,537,MISSED_SHOT,Nazem Kadri Wide of Net Stuart Skinner,2022-10-16T04:13:21Z,3,03:28,16:32,3,4,20.0,Calgary Flames,CGY
+273,22,20,Edmonton Oilers,Calgary Flames,2022020036538,2022020036,Shot,538,SHOT,Nazem Kadri Wrist Shot saved by Stuart Skinner,2022-10-16T04:13:22Z,3,03:29,16:31,3,4,20.0,Calgary Flames,CGY
+274,22,20,Edmonton Oilers,Calgary Flames,2022020036576,2022020036,Takeaway,576,TAKEAWAY,Takeaway by Jonathan Huberdeau,2022-10-16T04:13:28Z,3,03:35,16:25,3,4,20.0,Calgary Flames,CGY
+275,22,20,Edmonton Oilers,Calgary Flames,2022020036539,2022020036,Shot,539,SHOT,Elias Lindholm Snap Shot saved by Stuart Skinner,2022-10-16T04:13:36Z,3,03:43,16:17,3,4,20.0,Calgary Flames,CGY
+276,22,20,Edmonton Oilers,Calgary Flames,2022020036648,2022020036,Stoppage,648,STOP,Goalie Stopped,2022-10-16T04:13:37Z,3,03:44,16:16,3,4,,,
+277,22,20,Edmonton Oilers,Calgary Flames,2022020036577,2022020036,Faceoff,577,FACEOFF,Leon Draisaitl faceoff won against Elias Lindholm,2022-10-16T04:14:08Z,3,03:44,16:16,3,4,22.0,Edmonton Oilers,EDM
+278,22,20,Edmonton Oilers,Calgary Flames,2022020036578,2022020036,Takeaway,578,TAKEAWAY,Takeaway by Jonathan Huberdeau,2022-10-16T04:14:13Z,3,03:49,16:11,3,4,20.0,Calgary Flames,CGY
+279,22,20,Edmonton Oilers,Calgary Flames,2022020036540,2022020036,Shot,540,SHOT,Elias Lindholm Wrist Shot saved by Stuart Skinner,2022-10-16T04:14:34Z,3,04:10,15:50,3,4,20.0,Calgary Flames,CGY
+280,22,20,Edmonton Oilers,Calgary Flames,2022020036649,2022020036,Stoppage,649,STOP,Puck in Netting,2022-10-16T04:14:34Z,3,04:10,15:50,3,4,,,
+281,22,20,Edmonton Oilers,Calgary Flames,2022020036579,2022020036,Faceoff,579,FACEOFF,Elias Lindholm faceoff won against Leon Draisaitl,2022-10-16T04:15:00Z,3,04:10,15:50,3,4,20.0,Calgary Flames,CGY
+282,22,20,Edmonton Oilers,Calgary Flames,2022020036541,2022020036,Missed Shot,541,MISSED_SHOT,Tyler Toffoli Goalpost Stuart Skinner,2022-10-16T04:15:12Z,3,04:22,15:38,3,4,20.0,Calgary Flames,CGY
+283,22,20,Edmonton Oilers,Calgary Flames,2022020036542,2022020036,Blocked Shot,542,BLOCKED_SHOT,MacKenzie Weegar shot blocked shot by Cody Ceci,2022-10-16T04:15:40Z,3,04:50,15:10,3,4,22.0,Edmonton Oilers,EDM
+284,22,20,Edmonton Oilers,Calgary Flames,2022020036580,2022020036,Giveaway,580,GIVEAWAY,Giveaway by Darnell Nurse,2022-10-16T04:15:48Z,3,04:58,15:02,3,4,22.0,Edmonton Oilers,EDM
+285,22,20,Edmonton Oilers,Calgary Flames,2022020036543,2022020036,Shot,543,SHOT,Andrew Mangiapane Wrist Shot saved by Stuart Skinner,2022-10-16T04:15:50Z,3,05:00,15:00,3,4,20.0,Calgary Flames,CGY
+286,22,20,Edmonton Oilers,Calgary Flames,2022020036545,2022020036,Blocked Shot,545,BLOCKED_SHOT,MacKenzie Weegar shot blocked shot by Kailer Yamamoto,2022-10-16T04:15:57Z,3,05:07,14:53,3,4,22.0,Edmonton Oilers,EDM
+287,22,20,Edmonton Oilers,Calgary Flames,2022020036544,2022020036,Blocked Shot,544,BLOCKED_SHOT,MacKenzie Weegar shot blocked shot by Cody Ceci,2022-10-16T04:15:58Z,3,05:08,14:52,3,4,22.0,Edmonton Oilers,EDM
+288,22,20,Edmonton Oilers,Calgary Flames,2022020036581,2022020036,Giveaway,581,GIVEAWAY,Giveaway by Darnell Nurse,2022-10-16T04:16:02Z,3,05:12,14:48,3,4,22.0,Edmonton Oilers,EDM
+289,22,20,Edmonton Oilers,Calgary Flames,2022020036546,2022020036,Shot,546,SHOT,Noah Hanifin Snap Shot saved by Stuart Skinner,2022-10-16T04:16:26Z,3,05:36,14:24,3,4,20.0,Calgary Flames,CGY
+290,22,20,Edmonton Oilers,Calgary Flames,2022020036650,2022020036,Stoppage,650,STOP,Goalie Stopped,2022-10-16T04:16:26Z,3,05:36,14:24,3,4,,,
+291,22,20,Edmonton Oilers,Calgary Flames,2022020036582,2022020036,Faceoff,582,FACEOFF,Kevin Rooney faceoff won against Leon Draisaitl,2022-10-16T04:17:03Z,3,05:36,14:24,3,4,20.0,Calgary Flames,CGY
+292,22,20,Edmonton Oilers,Calgary Flames,2022020036547,2022020036,Missed Shot,547,MISSED_SHOT,Noah Hanifin Wide of Net Stuart Skinner,2022-10-16T04:17:08Z,3,05:41,14:19,3,4,20.0,Calgary Flames,CGY
+293,22,20,Edmonton Oilers,Calgary Flames,2022020036801,2022020036,Hit,801,HIT,Evander Kane hit Rasmus Andersson,2022-10-16T04:17:10Z,3,05:43,14:17,3,4,22.0,Edmonton Oilers,EDM
+294,22,20,Edmonton Oilers,Calgary Flames,2022020036548,2022020036,Shot,548,SHOT,Trevor Lewis Snap Shot saved by Stuart Skinner,2022-10-16T04:17:16Z,3,05:49,14:11,3,4,20.0,Calgary Flames,CGY
+295,22,20,Edmonton Oilers,Calgary Flames,2022020036802,2022020036,Stoppage,802,STOP,Goalie Stopped,2022-10-16T04:17:16Z,3,05:49,14:11,3,4,,,
+296,22,20,Edmonton Oilers,Calgary Flames,2022020036583,2022020036,Faceoff,583,FACEOFF,Leon Draisaitl faceoff won against Trevor Lewis,2022-10-16T04:18:04Z,3,05:49,14:11,3,4,22.0,Edmonton Oilers,EDM
+297,22,20,Edmonton Oilers,Calgary Flames,2022020036549,2022020036,Shot,549,SHOT,Nazem Kadri Wrist Shot saved by Stuart Skinner,2022-10-16T04:18:29Z,3,06:14,13:46,3,4,20.0,Calgary Flames,CGY
+298,22,20,Edmonton Oilers,Calgary Flames,2022020036803,2022020036,Hit,803,HIT,Tyson Barrie hit Trevor Lewis,2022-10-16T04:18:35Z,3,06:20,13:40,3,4,22.0,Edmonton Oilers,EDM
+299,22,20,Edmonton Oilers,Calgary Flames,2022020036550,2022020036,Shot,550,SHOT,Elias Lindholm Snap Shot saved by Stuart Skinner,2022-10-16T04:18:40Z,3,06:25,13:35,3,4,20.0,Calgary Flames,CGY
+300,22,20,Edmonton Oilers,Calgary Flames,2022020036804,2022020036,Hit,804,HIT,Connor McDavid hit Chris Tanev,2022-10-16T04:18:50Z,3,06:35,13:25,3,4,22.0,Edmonton Oilers,EDM
+301,22,20,Edmonton Oilers,Calgary Flames,2022020036851,2022020036,Shot,851,SHOT,Evander Kane Wrist Shot saved by Dan Vladar,2022-10-16T04:18:53Z,3,06:38,13:22,3,4,22.0,Edmonton Oilers,EDM
+302,22,20,Edmonton Oilers,Calgary Flames,2022020036852,2022020036,Missed Shot,852,MISSED_SHOT,Leon Draisaitl Wide of Net Dan Vladar,2022-10-16T04:19:11Z,3,06:56,13:04,3,4,22.0,Edmonton Oilers,EDM
+303,22,20,Edmonton Oilers,Calgary Flames,2022020036853,2022020036,Blocked Shot,853,BLOCKED_SHOT,Noah Hanifin shot blocked shot by Darnell Nurse,2022-10-16T04:19:37Z,3,07:22,12:38,3,4,22.0,Edmonton Oilers,EDM
+304,22,20,Edmonton Oilers,Calgary Flames,2022020036805,2022020036,Penalty,805,PENALTY,Dillon Dube Tripping against Zach Hyman,2022-10-16T04:19:46Z,3,07:31,12:29,3,4,20.0,Calgary Flames,CGY
+305,22,20,Edmonton Oilers,Calgary Flames,2022020036808,2022020036,Stoppage,808,STOP,TV timeout,2022-10-16T04:19:46Z,3,07:31,12:29,3,4,,,
+306,22,20,Edmonton Oilers,Calgary Flames,2022020036585,2022020036,Faceoff,585,FACEOFF,Leon Draisaitl faceoff won against Mikael Backlund,2022-10-16T04:22:12Z,3,07:31,12:29,3,4,22.0,Edmonton Oilers,EDM
+307,22,20,Edmonton Oilers,Calgary Flames,2022020036586,2022020036,Giveaway,586,GIVEAWAY,Giveaway by Leon Draisaitl,2022-10-16T04:22:24Z,3,07:43,12:17,3,4,22.0,Edmonton Oilers,EDM
+308,22,20,Edmonton Oilers,Calgary Flames,2022020036809,2022020036,Hit,809,HIT,Nikita Zadorov hit Connor McDavid,2022-10-16T04:22:41Z,3,08:00,12:00,3,4,20.0,Calgary Flames,CGY
+309,22,20,Edmonton Oilers,Calgary Flames,2022020036587,2022020036,Giveaway,587,GIVEAWAY,Giveaway by Blake Coleman,2022-10-16T04:22:47Z,3,08:06,11:54,3,4,20.0,Calgary Flames,CGY
+310,22,20,Edmonton Oilers,Calgary Flames,2022020036588,2022020036,Giveaway,588,GIVEAWAY,Giveaway by Leon Draisaitl,2022-10-16T04:22:55Z,3,08:14,11:46,3,4,22.0,Edmonton Oilers,EDM
+311,22,20,Edmonton Oilers,Calgary Flames,2022020036854,2022020036,Shot,854,SHOT,Evander Kane Snap Shot saved by Dan Vladar,2022-10-16T04:23:43Z,3,09:02,10:58,3,4,22.0,Edmonton Oilers,EDM
+312,22,20,Edmonton Oilers,Calgary Flames,2022020036589,2022020036,Takeaway,589,TAKEAWAY,Takeaway by Dylan Holloway,2022-10-16T04:24:22Z,3,09:41,10:19,3,4,22.0,Edmonton Oilers,EDM
+313,22,20,Edmonton Oilers,Calgary Flames,2022020036855,2022020036,Blocked Shot,855,BLOCKED_SHOT,Jesse Puljujarvi shot blocked shot by Nikita Zadorov,2022-10-16T04:24:26Z,3,09:45,10:15,3,4,20.0,Calgary Flames,CGY
+314,22,20,Edmonton Oilers,Calgary Flames,2022020036590,2022020036,Giveaway,590,GIVEAWAY,Giveaway by Dylan Holloway,2022-10-16T04:24:37Z,3,09:56,10:04,3,4,22.0,Edmonton Oilers,EDM
+315,22,20,Edmonton Oilers,Calgary Flames,2022020036856,2022020036,Shot,856,SHOT,Dillon Dube Backhand saved by Stuart Skinner,2022-10-16T04:24:37Z,3,09:56,10:04,3,4,20.0,Calgary Flames,CGY
+316,22,20,Edmonton Oilers,Calgary Flames,2022020036810,2022020036,Hit,810,HIT,Milan Lucic hit Cody Ceci,2022-10-16T04:24:45Z,3,10:04,09:56,3,4,20.0,Calgary Flames,CGY
+317,22,20,Edmonton Oilers,Calgary Flames,2022020036811,2022020036,Stoppage,811,STOP,Icing,2022-10-16T04:24:58Z,3,10:17,09:43,3,4,,,
+318,22,20,Edmonton Oilers,Calgary Flames,2022020036591,2022020036,Faceoff,591,FACEOFF,Derek Ryan faceoff won against Elias Lindholm,2022-10-16T04:25:35Z,3,10:17,09:43,3,4,22.0,Edmonton Oilers,EDM
+319,22,20,Edmonton Oilers,Calgary Flames,2022020036857,2022020036,Missed Shot,857,MISSED_SHOT,Michael Stone Wide of Net Stuart Skinner,2022-10-16T04:25:54Z,3,10:36,09:24,3,4,20.0,Calgary Flames,CGY
+320,22,20,Edmonton Oilers,Calgary Flames,2022020036592,2022020036,Giveaway,592,GIVEAWAY,Giveaway by Noah Hanifin,2022-10-16T04:26:13Z,3,10:55,09:05,3,4,20.0,Calgary Flames,CGY
+321,22,20,Edmonton Oilers,Calgary Flames,2022020036812,2022020036,Stoppage,812,STOP,Goalie Stopped,2022-10-16T04:26:17Z,3,10:59,09:01,3,4,,,
+322,22,20,Edmonton Oilers,Calgary Flames,2022020036858,2022020036,Shot,858,SHOT,Connor McDavid Snap Shot saved by Dan Vladar,2022-10-16T04:26:17Z,3,10:59,09:01,3,4,22.0,Edmonton Oilers,EDM
+323,22,20,Edmonton Oilers,Calgary Flames,2022020036593,2022020036,Faceoff,593,FACEOFF,Mikael Backlund faceoff won against Leon Draisaitl,2022-10-16T04:28:35Z,3,10:59,09:01,3,4,20.0,Calgary Flames,CGY
+324,22,20,Edmonton Oilers,Calgary Flames,2022020036813,2022020036,Stoppage,813,STOP,Icing,2022-10-16T04:28:42Z,3,11:06,08:54,3,4,,,
+325,22,20,Edmonton Oilers,Calgary Flames,2022020036594,2022020036,Faceoff,594,FACEOFF,Mikael Backlund faceoff won against Leon Draisaitl,2022-10-16T04:28:59Z,3,11:06,08:54,3,4,20.0,Calgary Flames,CGY
+326,22,20,Edmonton Oilers,Calgary Flames,2022020036814,2022020036,Hit,814,HIT,Andrew Mangiapane hit Tyson Barrie,2022-10-16T04:29:40Z,3,11:47,08:13,3,4,20.0,Calgary Flames,CGY
+327,22,20,Edmonton Oilers,Calgary Flames,2022020036859,2022020036,Missed Shot,859,MISSED_SHOT,Andrew Mangiapane Wide of Net Stuart Skinner,2022-10-16T04:29:52Z,3,11:59,08:01,3,4,20.0,Calgary Flames,CGY
+328,22,20,Edmonton Oilers,Calgary Flames,2022020036815,2022020036,Stoppage,815,STOP,Puck in Netting,2022-10-16T04:30:01Z,3,12:08,07:52,3,4,,,
+329,22,20,Edmonton Oilers,Calgary Flames,2022020036595,2022020036,Faceoff,595,FACEOFF,Kevin Rooney faceoff won against Ryan Nugent-Hopkins,2022-10-16T04:30:27Z,3,12:08,07:52,3,4,20.0,Calgary Flames,CGY
+330,22,20,Edmonton Oilers,Calgary Flames,2022020036596,2022020036,Giveaway,596,GIVEAWAY,Giveaway by Evander Kane,2022-10-16T04:30:47Z,3,12:28,07:32,3,4,22.0,Edmonton Oilers,EDM
+331,22,20,Edmonton Oilers,Calgary Flames,2022020036816,2022020036,Hit,816,HIT,Kevin Rooney hit Jesse Puljujarvi,2022-10-16T04:30:54Z,3,12:35,07:25,3,4,20.0,Calgary Flames,CGY
+332,22,20,Edmonton Oilers,Calgary Flames,2022020036597,2022020036,Takeaway,597,TAKEAWAY,Takeaway by Ryan Nugent-Hopkins,2022-10-16T04:30:58Z,3,12:39,07:21,3,4,22.0,Edmonton Oilers,EDM
+333,22,20,Edmonton Oilers,Calgary Flames,2022020036817,2022020036,Hit,817,HIT,MacKenzie Weegar hit Ryan McLeod,2022-10-16T04:31:42Z,3,13:23,06:37,3,4,20.0,Calgary Flames,CGY
+334,22,20,Edmonton Oilers,Calgary Flames,2022020036598,2022020036,Takeaway,598,TAKEAWAY,Takeaway by Noah Hanifin,2022-10-16T04:32:02Z,3,13:43,06:17,3,4,20.0,Calgary Flames,CGY
+335,22,20,Edmonton Oilers,Calgary Flames,2022020036599,2022020036,Giveaway,599,GIVEAWAY,Giveaway by Rasmus Andersson,2022-10-16T04:32:15Z,3,13:56,06:04,3,4,20.0,Calgary Flames,CGY
+336,22,20,Edmonton Oilers,Calgary Flames,2022020036818,2022020036,Hit,818,HIT,MacKenzie Weegar hit Connor McDavid,2022-10-16T04:32:33Z,3,14:14,05:46,3,4,20.0,Calgary Flames,CGY
+337,22,20,Edmonton Oilers,Calgary Flames,2022020036819,2022020036,Stoppage,819,STOP,Puck Frozen,2022-10-16T04:32:35Z,3,14:16,05:44,3,4,,,
+338,22,20,Edmonton Oilers,Calgary Flames,2022020036600,2022020036,Faceoff,600,FACEOFF,Nazem Kadri faceoff won against Connor McDavid,2022-10-16T04:35:04Z,3,14:16,05:44,3,4,20.0,Calgary Flames,CGY
+339,22,20,Edmonton Oilers,Calgary Flames,2022020036951,2022020036,Giveaway,951,GIVEAWAY,Giveaway by Chris Tanev,2022-10-16T04:35:11Z,3,14:23,05:37,3,4,20.0,Calgary Flames,CGY
+340,22,20,Edmonton Oilers,Calgary Flames,2022020036820,2022020036,Hit,820,HIT,Zach Hyman hit Chris Tanev,2022-10-16T04:35:20Z,3,14:32,05:28,3,4,22.0,Edmonton Oilers,EDM
+341,22,20,Edmonton Oilers,Calgary Flames,2022020036860,2022020036,Blocked Shot,860,BLOCKED_SHOT,Tyson Barrie shot blocked shot by Dillon Dube,2022-10-16T04:35:42Z,3,14:54,05:06,3,4,20.0,Calgary Flames,CGY
+342,22,20,Edmonton Oilers,Calgary Flames,2022020036952,2022020036,Takeaway,952,TAKEAWAY,Takeaway by Kevin Rooney,2022-10-16T04:35:48Z,3,15:00,05:00,3,4,20.0,Calgary Flames,CGY
+343,22,20,Edmonton Oilers,Calgary Flames,2022020036861,2022020036,Shot,861,SHOT,Kevin Rooney Snap Shot saved by Stuart Skinner,2022-10-16T04:35:51Z,3,15:03,04:57,3,4,20.0,Calgary Flames,CGY
+344,22,20,Edmonton Oilers,Calgary Flames,2022020036821,2022020036,Hit,821,HIT,Brett Ritchie hit Tyson Barrie,2022-10-16T04:35:54Z,3,15:06,04:54,3,4,20.0,Calgary Flames,CGY
+345,22,20,Edmonton Oilers,Calgary Flames,2022020036862,2022020036,Blocked Shot,862,BLOCKED_SHOT,Michael Stone shot blocked shot by Evander Kane,2022-10-16T04:36:15Z,3,15:27,04:33,3,4,22.0,Edmonton Oilers,EDM
+346,22,20,Edmonton Oilers,Calgary Flames,2022020036953,2022020036,Giveaway,953,GIVEAWAY,Giveaway by Ryan Mcleod,2022-10-16T04:37:07Z,3,16:19,03:41,3,4,22.0,Edmonton Oilers,EDM
+347,22,20,Edmonton Oilers,Calgary Flames,2022020036822,2022020036,Stoppage,822,STOP,Puck in Netting,2022-10-16T04:37:09Z,3,16:21,03:39,3,4,,,
+348,22,20,Edmonton Oilers,Calgary Flames,2022020036954,2022020036,Faceoff,954,FACEOFF,Mikael Backlund faceoff won against Ryan McLeod,2022-10-16T04:37:42Z,3,16:21,03:39,3,4,20.0,Calgary Flames,CGY
+349,22,20,Edmonton Oilers,Calgary Flames,2022020036823,2022020036,Stoppage,823,STOP,Offside,2022-10-16T04:38:10Z,3,16:49,03:11,3,4,,,
+350,22,20,Edmonton Oilers,Calgary Flames,2022020036955,2022020036,Faceoff,955,FACEOFF,Nazem Kadri faceoff won against Leon Draisaitl,2022-10-16T04:38:46Z,3,16:49,03:11,3,4,20.0,Calgary Flames,CGY
+351,22,20,Edmonton Oilers,Calgary Flames,2022020036824,2022020036,Hit,824,HIT,Evan Bouchard hit Dillon Dube,2022-10-16T04:38:54Z,3,16:57,03:03,3,4,22.0,Edmonton Oilers,EDM
+352,22,20,Edmonton Oilers,Calgary Flames,2022020036863,2022020036,Shot,863,SHOT,Evan Bouchard Snap Shot saved by Dan Vladar,2022-10-16T04:39:12Z,3,17:16,02:44,3,4,22.0,Edmonton Oilers,EDM
+353,22,20,Edmonton Oilers,Calgary Flames,2022020036825,2022020036,Stoppage,825,STOP,Goalie Stopped,2022-10-16T04:39:13Z,3,17:16,02:44,3,4,,,
+354,22,20,Edmonton Oilers,Calgary Flames,2022020036956,2022020036,Faceoff,956,FACEOFF,Elias Lindholm faceoff won against Ryan Nugent-Hopkins,2022-10-16T04:39:48Z,3,17:16,02:44,3,4,20.0,Calgary Flames,CGY
+355,22,20,Edmonton Oilers,Calgary Flames,2022020036826,2022020036,Stoppage,826,STOP,Puck in Crowd,2022-10-16T04:39:52Z,3,17:20,02:40,3,4,,,
+356,22,20,Edmonton Oilers,Calgary Flames,2022020036957,2022020036,Faceoff,957,FACEOFF,Ryan Nugent-Hopkins faceoff won against Elias Lindholm,2022-10-16T04:40:11Z,3,17:20,02:40,3,4,22.0,Edmonton Oilers,EDM
+357,22,20,Edmonton Oilers,Calgary Flames,2022020036864,2022020036,Shot,864,SHOT,Brett Kulak Backhand saved by Dan Vladar,2022-10-16T04:40:20Z,3,17:29,02:31,3,4,22.0,Edmonton Oilers,EDM
+358,22,20,Edmonton Oilers,Calgary Flames,2022020036958,2022020036,Takeaway,958,TAKEAWAY,Takeaway by Brett Ritchie,2022-10-16T04:40:30Z,3,17:39,02:21,3,4,20.0,Calgary Flames,CGY
+359,22,20,Edmonton Oilers,Calgary Flames,2022020036865,2022020036,Missed Shot,865,MISSED_SHOT,Jonathan Huberdeau Over Net Stuart Skinner,2022-10-16T04:40:34Z,3,17:43,02:17,3,4,20.0,Calgary Flames,CGY
+360,22,20,Edmonton Oilers,Calgary Flames,2022020036827,2022020036,Hit,827,HIT,Kevin Rooney hit Evander Kane,2022-10-16T04:40:39Z,3,17:48,02:12,3,4,20.0,Calgary Flames,CGY
+361,22,20,Edmonton Oilers,Calgary Flames,2022020036828,2022020036,Hit,828,HIT,Rasmus Andersson hit Darnell Nurse,2022-10-16T04:40:53Z,3,18:02,01:58,3,4,20.0,Calgary Flames,CGY
+362,22,20,Edmonton Oilers,Calgary Flames,2022020036829,2022020036,Hit,829,HIT,Milan Lucic hit Ryan Murray,2022-10-16T04:41:02Z,3,18:11,01:49,3,4,20.0,Calgary Flames,CGY
+363,22,20,Edmonton Oilers,Calgary Flames,2022020036866,2022020036,Shot,866,SHOT,MacKenzie Weegar Snap Shot saved by Stuart Skinner,2022-10-16T04:41:04Z,3,18:13,01:47,3,4,20.0,Calgary Flames,CGY
+364,22,20,Edmonton Oilers,Calgary Flames,2022020036830,2022020036,Stoppage,830,STOP,Goalie Stopped,2022-10-16T04:41:21Z,3,18:30,01:30,3,4,,,
+365,22,20,Edmonton Oilers,Calgary Flames,2022020036867,2022020036,Shot,867,SHOT,Blake Coleman Snap Shot saved by Stuart Skinner,2022-10-16T04:41:21Z,3,18:30,01:30,3,4,20.0,Calgary Flames,CGY
+366,22,20,Edmonton Oilers,Calgary Flames,2022020036959,2022020036,Faceoff,959,FACEOFF,Leon Draisaitl faceoff won against Mikael Backlund,2022-10-16T04:41:49Z,3,18:30,01:30,3,4,22.0,Edmonton Oilers,EDM
+367,22,20,Edmonton Oilers,Calgary Flames,2022020036831,2022020036,Stoppage,831,STOP,Icing,2022-10-16T04:41:55Z,3,18:36,01:24,3,4,,,
+368,22,20,Edmonton Oilers,Calgary Flames,2022020036960,2022020036,Faceoff,960,FACEOFF,Blake Coleman faceoff won against Leon Draisaitl,2022-10-16T04:42:37Z,3,18:36,01:24,3,4,20.0,Calgary Flames,CGY
+369,22,20,Edmonton Oilers,Calgary Flames,2022020036868,2022020036,Missed Shot,868,MISSED_SHOT,Trevor Lewis Wide of Net Stuart Skinner,2022-10-16T04:42:41Z,3,18:40,01:20,3,4,20.0,Calgary Flames,CGY
+370,22,20,Edmonton Oilers,Calgary Flames,2022020036869,2022020036,Blocked Shot,869,BLOCKED_SHOT,Tyson Barrie shot blocked shot by Rasmus Andersson,2022-10-16T04:43:06Z,3,19:05,00:55,3,4,20.0,Calgary Flames,CGY
+371,22,20,Edmonton Oilers,Calgary Flames,2022020036832,2022020036,Stoppage,832,STOP,Offside,2022-10-16T04:43:31Z,3,19:29,00:31,3,4,,,
+372,22,20,Edmonton Oilers,Calgary Flames,2022020036962,2022020036,Faceoff,962,FACEOFF,Elias Lindholm faceoff won against Leon Draisaitl,2022-10-16T04:44:49Z,3,19:29,00:31,3,4,20.0,Calgary Flames,CGY
+373,22,20,Edmonton Oilers,Calgary Flames,2022020036870,2022020036,Shot,870,SHOT,Leon Draisaitl Backhand saved by Dan Vladar,2022-10-16T04:45:08Z,3,19:49,00:11,3,4,22.0,Edmonton Oilers,EDM
+374,22,20,Edmonton Oilers,Calgary Flames,2022020036871,2022020036,Shot,871,SHOT,Evander Kane Wrist Shot saved by Dan Vladar,2022-10-16T04:45:17Z,3,19:58,00:02,3,4,22.0,Edmonton Oilers,EDM
+375,22,20,Edmonton Oilers,Calgary Flames,2022020036834,2022020036,Period End,834,PERIOD_END,End of 3rd Period,2022-10-16T04:45:19Z,3,20:00,00:00,3,4,,,
+376,22,20,Edmonton Oilers,Calgary Flames,2022020036837,2022020036,Period Official,837,PERIOD_OFFICIAL,Period Official,2022-10-16T04:45:33Z,3,20:00,00:00,3,4,,,
+377,22,20,Edmonton Oilers,Calgary Flames,2022020036838,2022020036,Game End,838,GAME_END,Game End,2022-10-16T04:45:37Z,3,20:00,00:00,3,4,,,
+378,22,20,Edmonton Oilers,Calgary Flames,2022020036839,2022020036,Game Official,839,GAME_OFFICIAL,Game Official,2022-10-16T04:58:44Z,3,20:00,00:00,3,4,,,

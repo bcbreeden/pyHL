@@ -1,0 +1,353 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,6,15,Boston Bruins,Washington Capitals,20220208381,2022020838,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-02-11T19:37:58Z,1,00:00,20:00,0,0,,,
+1,6,15,Boston Bruins,Washington Capitals,20220208385,2022020838,Period Ready,5,PERIOD_READY,Period Ready,2023-02-11T20:40:08Z,1,00:00,20:00,0,0,,,
+2,6,15,Boston Bruins,Washington Capitals,202202083851,2022020838,Period Start,51,PERIOD_START,Period Start,2023-02-11T20:42:21Z,1,00:00,20:00,0,0,,,
+3,6,15,Boston Bruins,Washington Capitals,202202083852,2022020838,Faceoff,52,FACEOFF,Dylan Strome faceoff won against Patrice Bergeron,2023-02-11T20:42:21Z,1,00:00,20:00,0,0,15.0,Washington Capitals,WSH
+4,6,15,Boston Bruins,Washington Capitals,20220208388,2022020838,Hit,8,HIT,Nicolas Aube-Kubel hit Patrice Bergeron,2023-02-11T20:42:32Z,1,00:11,19:49,0,0,15.0,Washington Capitals,WSH
+5,6,15,Boston Bruins,Washington Capitals,20220208389,2022020838,Stoppage,9,STOP,Puck Frozen,2023-02-11T20:42:43Z,1,00:22,19:38,0,0,,,
+6,6,15,Boston Bruins,Washington Capitals,202202083853,2022020838,Faceoff,53,FACEOFF,Marcus Johansson faceoff won against David Krejci,2023-02-11T20:43:23Z,1,00:22,19:38,0,0,15.0,Washington Capitals,WSH
+7,6,15,Boston Bruins,Washington Capitals,2022020838151,2022020838,Blocked Shot,151,BLOCKED_SHOT,Marcus Johansson shot blocked shot by Charlie McAvoy,2023-02-11T20:43:28Z,1,00:27,19:33,0,0,6.0,Boston Bruins,BOS
+8,6,15,Boston Bruins,Washington Capitals,202202083810,2022020838,Stoppage,10,STOP,Icing,2023-02-11T20:43:49Z,1,00:47,19:13,0,0,,,
+9,6,15,Boston Bruins,Washington Capitals,202202083854,2022020838,Faceoff,54,FACEOFF,David Krejci faceoff won against Nicklas Backstrom,2023-02-11T20:44:11Z,1,00:47,19:13,0,0,6.0,Boston Bruins,BOS
+10,6,15,Boston Bruins,Washington Capitals,2022020838153,2022020838,Blocked Shot,153,BLOCKED_SHOT,Evgeny Kuznetsov shot blocked shot by Connor Clifton,2023-02-11T20:44:49Z,1,01:25,18:35,0,0,6.0,Boston Bruins,BOS
+11,6,15,Boston Bruins,Washington Capitals,202202083855,2022020838,Giveaway,55,GIVEAWAY,Giveaway by Matt Irwin,2023-02-11T20:44:58Z,1,01:34,18:26,0,0,15.0,Washington Capitals,WSH
+12,6,15,Boston Bruins,Washington Capitals,2022020838154,2022020838,Missed Shot,154,MISSED_SHOT,Taylor Hall Wide of Net Darcy Kuemper,2023-02-11T20:44:59Z,1,01:35,18:25,0,0,6.0,Boston Bruins,BOS
+13,6,15,Boston Bruins,Washington Capitals,2022020838155,2022020838,Shot,155,SHOT,Taylor Hall Wrist Shot saved by Darcy Kuemper,2023-02-11T20:45:05Z,1,01:41,18:19,0,0,6.0,Boston Bruins,BOS
+14,6,15,Boston Bruins,Washington Capitals,202202083811,2022020838,Hit,11,HIT,Nick Foligno hit Matt Irwin,2023-02-11T20:45:15Z,1,01:51,18:09,0,0,6.0,Boston Bruins,BOS
+15,6,15,Boston Bruins,Washington Capitals,202202083812,2022020838,Hit,12,HIT,Trent Frederic hit Nicolas Aube-Kubel,2023-02-11T20:45:49Z,1,02:25,17:35,0,0,6.0,Boston Bruins,BOS
+16,6,15,Boston Bruins,Washington Capitals,202202083813,2022020838,Hit,13,HIT,Nicolas Aube-Kubel hit Trent Frederic,2023-02-11T20:45:51Z,1,02:27,17:33,0,0,15.0,Washington Capitals,WSH
+17,6,15,Boston Bruins,Washington Capitals,2022020838156,2022020838,Shot,156,SHOT,Erik Gustafsson Wrist Shot saved by Jeremy Swayman,2023-02-11T20:46:30Z,1,03:06,16:54,0,0,15.0,Washington Capitals,WSH
+18,6,15,Boston Bruins,Washington Capitals,202202083814,2022020838,Hit,14,HIT,Lars Eller hit Charlie McAvoy,2023-02-11T20:46:37Z,1,03:13,16:47,0,0,15.0,Washington Capitals,WSH
+19,6,15,Boston Bruins,Washington Capitals,202202083856,2022020838,Giveaway,56,GIVEAWAY,Giveaway by Pavel Zacha,2023-02-11T20:46:47Z,1,03:23,16:37,0,0,6.0,Boston Bruins,BOS
+20,6,15,Boston Bruins,Washington Capitals,2022020838157,2022020838,Missed Shot,157,MISSED_SHOT,Pavel Zacha Wide of Net Darcy Kuemper,2023-02-11T20:47:16Z,1,03:52,16:08,0,0,6.0,Boston Bruins,BOS
+21,6,15,Boston Bruins,Washington Capitals,2022020838139,2022020838,Penalty,139,PENALTY,Erik Gustafsson Tripping against David Pastrnak,2023-02-11T20:47:27Z,1,04:04,15:56,0,0,15.0,Washington Capitals,WSH
+22,6,15,Boston Bruins,Washington Capitals,202202083857,2022020838,Faceoff,57,FACEOFF,Lars Eller faceoff won against Patrice Bergeron,2023-02-11T20:48:09Z,1,04:04,15:56,0,0,15.0,Washington Capitals,WSH
+23,6,15,Boston Bruins,Washington Capitals,2022020838158,2022020838,Shot,158,SHOT,Nick Jensen Wrist Shot saved by Jeremy Swayman,2023-02-11T20:48:19Z,1,04:14,15:46,0,0,15.0,Washington Capitals,WSH
+24,6,15,Boston Bruins,Washington Capitals,2022020838159,2022020838,Shot,159,SHOT,David Pastrnak Wrist Shot saved by Darcy Kuemper,2023-02-11T20:48:51Z,1,04:46,15:14,0,0,6.0,Boston Bruins,BOS
+25,6,15,Boston Bruins,Washington Capitals,2022020838160,2022020838,Missed Shot,160,MISSED_SHOT,Patrice Bergeron Wide of Net Darcy Kuemper,2023-02-11T20:49:15Z,1,05:10,14:50,0,0,6.0,Boston Bruins,BOS
+26,6,15,Boston Bruins,Washington Capitals,2022020838161,2022020838,Shot,161,SHOT,David Pastrnak Wrist Shot saved by Darcy Kuemper,2023-02-11T20:49:25Z,1,05:20,14:40,0,0,6.0,Boston Bruins,BOS
+27,6,15,Boston Bruins,Washington Capitals,20220208381352,2022020838,Penalty,1352,PENALTY,Brad Marchand Slashing against Darcy Kuemper,2023-02-11T20:49:25Z,1,05:20,14:40,0,0,6.0,Boston Bruins,BOS
+28,6,15,Boston Bruins,Washington Capitals,20220208381358,2022020838,Penalty,1358,PENALTY,Evgeny Kuznetsov Cross-checking against Brad Marchand,2023-02-11T20:49:25Z,1,05:20,14:40,0,0,15.0,Washington Capitals,WSH
+29,6,15,Boston Bruins,Washington Capitals,202202083858,2022020838,Faceoff,58,FACEOFF,Charlie Coyle faceoff won against Lars Eller,2023-02-11T20:50:26Z,1,05:20,14:40,0,0,6.0,Boston Bruins,BOS
+30,6,15,Boston Bruins,Washington Capitals,2022020838205,2022020838,Penalty,205,PENALTY,Charlie Coyle Hooking against Lars Eller,2023-02-11T20:50:31Z,1,05:24,14:36,0,0,6.0,Boston Bruins,BOS
+31,6,15,Boston Bruins,Washington Capitals,202202083859,2022020838,Faceoff,59,FACEOFF,Pavel Zacha faceoff won against Dylan Strome,2023-02-11T20:51:13Z,1,05:24,14:36,0,0,6.0,Boston Bruins,BOS
+32,6,15,Boston Bruins,Washington Capitals,2022020838211,2022020838,Penalty,211,PENALTY,Hampus Lindholm Interference against Anthony Mantha,2023-02-11T20:51:37Z,1,05:48,14:12,0,0,6.0,Boston Bruins,BOS
+33,6,15,Boston Bruins,Washington Capitals,202202083860,2022020838,Faceoff,60,FACEOFF,T.J. Oshie faceoff won against Patrice Bergeron,2023-02-11T20:52:36Z,1,05:48,14:12,0,0,15.0,Washington Capitals,WSH
+34,6,15,Boston Bruins,Washington Capitals,2022020838162,2022020838,Blocked Shot,162,BLOCKED_SHOT,Dmitry Orlov shot blocked shot by Derek Forbort,2023-02-11T20:53:10Z,1,06:22,13:38,0,0,6.0,Boston Bruins,BOS
+35,6,15,Boston Bruins,Washington Capitals,2022020838163,2022020838,Shot,163,SHOT,Marcus Johansson Wrist Shot saved by Jeremy Swayman,2023-02-11T20:53:13Z,1,06:25,13:35,0,0,15.0,Washington Capitals,WSH
+36,6,15,Boston Bruins,Washington Capitals,2022020838164,2022020838,Goal,164,GOAL,"Nicklas Backstrom (2) Wrist Shot, assists: Marcus Johansson (15), Dmitry Orlov (15)",2023-02-11T20:53:16Z,1,06:28,13:32,0,1,15.0,Washington Capitals,WSH
+37,6,15,Boston Bruins,Washington Capitals,202202083861,2022020838,Faceoff,61,FACEOFF,T.J. Oshie faceoff won against Charlie Coyle,2023-02-11T20:54:04Z,1,06:28,13:32,0,1,15.0,Washington Capitals,WSH
+38,6,15,Boston Bruins,Washington Capitals,2022020838165,2022020838,Blocked Shot,165,BLOCKED_SHOT,Pavel Zacha shot blocked shot by Erik Gustafsson,2023-02-11T20:54:29Z,1,06:53,13:07,0,1,15.0,Washington Capitals,WSH
+39,6,15,Boston Bruins,Washington Capitals,2022020838351,2022020838,Stoppage,351,STOP,Puck in Netting,2023-02-11T20:54:29Z,1,06:53,13:07,0,1,,,
+40,6,15,Boston Bruins,Washington Capitals,202202083862,2022020838,Faceoff,62,FACEOFF,T.J. Oshie faceoff won against Charlie Coyle,2023-02-11T20:54:56Z,1,06:53,13:07,0,1,15.0,Washington Capitals,WSH
+41,6,15,Boston Bruins,Washington Capitals,202202083817,2022020838,Hit,17,HIT,Marcus Johansson hit Derek Forbort,2023-02-11T20:55:28Z,1,07:25,12:35,0,1,15.0,Washington Capitals,WSH
+42,6,15,Boston Bruins,Washington Capitals,202202083818,2022020838,Stoppage,18,STOP,Goalie Stopped,2023-02-11T20:55:57Z,1,07:54,12:06,0,1,,,
+43,6,15,Boston Bruins,Washington Capitals,2022020838166,2022020838,Shot,166,SHOT,Conor Sheary Wrist Shot saved by Jeremy Swayman,2023-02-11T20:55:57Z,1,07:54,12:06,0,1,15.0,Washington Capitals,WSH
+44,6,15,Boston Bruins,Washington Capitals,202202083863,2022020838,Faceoff,63,FACEOFF,David Krejci faceoff won against Evgeny Kuznetsov,2023-02-11T20:58:28Z,1,07:54,12:06,0,1,6.0,Boston Bruins,BOS
+45,6,15,Boston Bruins,Washington Capitals,202202083864,2022020838,Takeaway,64,TAKEAWAY,Takeaway by Evgeny Kuznetsov,2023-02-11T20:58:56Z,1,08:22,11:38,0,1,15.0,Washington Capitals,WSH
+46,6,15,Boston Bruins,Washington Capitals,202202083820,2022020838,Hit,20,HIT,Evgeny Kuznetsov hit Matt Grzelcyk,2023-02-11T20:59:16Z,1,08:42,11:18,0,1,15.0,Washington Capitals,WSH
+47,6,15,Boston Bruins,Washington Capitals,2022020838168,2022020838,Blocked Shot,168,BLOCKED_SHOT,Nick Jensen shot blocked shot by Matt Grzelcyk,2023-02-11T20:59:16Z,1,08:42,11:18,0,1,6.0,Boston Bruins,BOS
+48,6,15,Boston Bruins,Washington Capitals,2022020838169,2022020838,Shot,169,SHOT,Brad Marchand Backhand saved by Darcy Kuemper,2023-02-11T20:59:21Z,1,08:48,11:12,0,1,6.0,Boston Bruins,BOS
+49,6,15,Boston Bruins,Washington Capitals,2022020838170,2022020838,Missed Shot,170,MISSED_SHOT,Connor Clifton Wide of Net Darcy Kuemper,2023-02-11T20:59:29Z,1,08:55,11:05,0,1,6.0,Boston Bruins,BOS
+50,6,15,Boston Bruins,Washington Capitals,202202083821,2022020838,Stoppage,21,STOP,Puck Frozen,2023-02-11T20:59:29Z,1,08:56,11:04,0,1,,,
+51,6,15,Boston Bruins,Washington Capitals,202202083865,2022020838,Faceoff,65,FACEOFF,Patrice Bergeron faceoff won against Lars Eller,2023-02-11T20:59:54Z,1,08:56,11:04,0,1,6.0,Boston Bruins,BOS
+52,6,15,Boston Bruins,Washington Capitals,2022020838171,2022020838,Missed Shot,171,MISSED_SHOT,Connor Clifton Goalpost Darcy Kuemper,2023-02-11T21:00:01Z,1,09:03,10:57,0,1,6.0,Boston Bruins,BOS
+53,6,15,Boston Bruins,Washington Capitals,2022020838172,2022020838,Blocked Shot,172,BLOCKED_SHOT,Patrice Bergeron shot blocked shot by Nick Jensen,2023-02-11T21:00:15Z,1,09:17,10:43,0,1,15.0,Washington Capitals,WSH
+54,6,15,Boston Bruins,Washington Capitals,202202083822,2022020838,Hit,22,HIT,Hampus Lindholm hit Lars Eller,2023-02-11T21:00:16Z,1,09:18,10:42,0,1,6.0,Boston Bruins,BOS
+55,6,15,Boston Bruins,Washington Capitals,202202083823,2022020838,Stoppage,23,STOP,Puck in Netting,2023-02-11T21:00:20Z,1,09:21,10:39,0,1,,,
+56,6,15,Boston Bruins,Washington Capitals,202202083866,2022020838,Faceoff,66,FACEOFF,Nicklas Backstrom faceoff won against David Krejci,2023-02-11T21:00:55Z,1,09:21,10:39,0,1,15.0,Washington Capitals,WSH
+57,6,15,Boston Bruins,Washington Capitals,202202083824,2022020838,Hit,24,HIT,Marcus Johansson hit Brandon Carlo,2023-02-11T21:01:07Z,1,09:33,10:27,0,1,15.0,Washington Capitals,WSH
+58,6,15,Boston Bruins,Washington Capitals,2022020838173,2022020838,Shot,173,SHOT,Nicklas Backstrom Wrist Shot saved by Jeremy Swayman,2023-02-11T21:01:08Z,1,09:34,10:26,0,1,15.0,Washington Capitals,WSH
+59,6,15,Boston Bruins,Washington Capitals,202202083825,2022020838,Stoppage,25,STOP,Goalie Stopped,2023-02-11T21:01:10Z,1,09:35,10:25,0,1,,,
+60,6,15,Boston Bruins,Washington Capitals,202202083867,2022020838,Faceoff,67,FACEOFF,Nicklas Backstrom faceoff won against Charlie Coyle,2023-02-11T21:01:45Z,1,09:35,10:25,0,1,15.0,Washington Capitals,WSH
+61,6,15,Boston Bruins,Washington Capitals,2022020838174,2022020838,Blocked Shot,174,BLOCKED_SHOT,Matt Irwin shot blocked shot by Taylor Hall,2023-02-11T21:01:52Z,1,09:42,10:18,0,1,6.0,Boston Bruins,BOS
+62,6,15,Boston Bruins,Washington Capitals,202202083826,2022020838,Hit,26,HIT,Martin Fehervary hit Taylor Hall,2023-02-11T21:02:18Z,1,10:08,09:52,0,1,15.0,Washington Capitals,WSH
+63,6,15,Boston Bruins,Washington Capitals,2022020838175,2022020838,Missed Shot,175,MISSED_SHOT,Nicolas Aube-Kubel Wide of Net Jeremy Swayman,2023-02-11T21:02:25Z,1,10:15,09:45,0,1,15.0,Washington Capitals,WSH
+64,6,15,Boston Bruins,Washington Capitals,202202083827,2022020838,Stoppage,27,STOP,Icing,2023-02-11T21:03:04Z,1,10:54,09:06,0,1,,,
+65,6,15,Boston Bruins,Washington Capitals,202202083868,2022020838,Faceoff,68,FACEOFF,Patrice Bergeron faceoff won against Evgeny Kuznetsov,2023-02-11T21:03:34Z,1,10:54,09:06,0,1,6.0,Boston Bruins,BOS
+66,6,15,Boston Bruins,Washington Capitals,2022020838453,2022020838,Blocked Shot,453,BLOCKED_SHOT,Hampus Lindholm shot blocked shot by Trevor van Riemsdyk,2023-02-11T21:03:36Z,1,10:56,09:04,0,1,15.0,Washington Capitals,WSH
+67,6,15,Boston Bruins,Washington Capitals,2022020838176,2022020838,Shot,176,SHOT,Conor Sheary Snap Shot saved by Jeremy Swayman,2023-02-11T21:03:48Z,1,11:08,08:52,0,1,15.0,Washington Capitals,WSH
+68,6,15,Boston Bruins,Washington Capitals,202202083828,2022020838,Stoppage,28,STOP,Puck Frozen,2023-02-11T21:03:56Z,1,11:17,08:43,0,1,,,
+69,6,15,Boston Bruins,Washington Capitals,202202083869,2022020838,Faceoff,69,FACEOFF,Trent Frederic faceoff won against Lars Eller,2023-02-11T21:06:37Z,1,11:17,08:43,0,1,6.0,Boston Bruins,BOS
+70,6,15,Boston Bruins,Washington Capitals,2022020838455,2022020838,Blocked Shot,455,BLOCKED_SHOT,Lars Eller shot blocked shot by Derek Forbort,2023-02-11T21:06:39Z,1,11:19,08:41,0,1,6.0,Boston Bruins,BOS
+71,6,15,Boston Bruins,Washington Capitals,202202083870,2022020838,Giveaway,70,GIVEAWAY,Giveaway by Lars Eller,2023-02-11T21:06:59Z,1,11:39,08:21,0,1,15.0,Washington Capitals,WSH
+72,6,15,Boston Bruins,Washington Capitals,202202083829,2022020838,Hit,29,HIT,Nick Jensen hit Jakub Lauko,2023-02-11T21:07:15Z,1,11:55,08:05,0,1,15.0,Washington Capitals,WSH
+73,6,15,Boston Bruins,Washington Capitals,2022020838177,2022020838,Shot,177,SHOT,David Krejci Wrist Shot saved by Darcy Kuemper,2023-02-11T21:07:34Z,1,12:14,07:46,0,1,6.0,Boston Bruins,BOS
+74,6,15,Boston Bruins,Washington Capitals,2022020838178,2022020838,Missed Shot,178,MISSED_SHOT,David Krejci Over Net Darcy Kuemper,2023-02-11T21:07:35Z,1,12:15,07:45,0,1,6.0,Boston Bruins,BOS
+75,6,15,Boston Bruins,Washington Capitals,202202083830,2022020838,Stoppage,30,STOP,Goalie Stopped,2023-02-11T21:07:37Z,1,12:16,07:44,0,1,,,
+76,6,15,Boston Bruins,Washington Capitals,202202083871,2022020838,Faceoff,71,FACEOFF,Nicklas Backstrom faceoff won against Pavel Zacha,2023-02-11T21:08:26Z,1,12:16,07:44,0,1,15.0,Washington Capitals,WSH
+77,6,15,Boston Bruins,Washington Capitals,202202083872,2022020838,Giveaway,72,GIVEAWAY,Giveaway by David Krejci,2023-02-11T21:08:40Z,1,12:30,07:30,0,1,6.0,Boston Bruins,BOS
+78,6,15,Boston Bruins,Washington Capitals,2022020838179,2022020838,Missed Shot,179,MISSED_SHOT,Pavel Zacha Wide of Net Darcy Kuemper,2023-02-11T21:08:51Z,1,12:41,07:19,0,1,6.0,Boston Bruins,BOS
+79,6,15,Boston Bruins,Washington Capitals,202202083831,2022020838,Hit,31,HIT,Pavel Zacha hit Nicklas Backstrom,2023-02-11T21:08:56Z,1,12:46,07:14,0,1,6.0,Boston Bruins,BOS
+80,6,15,Boston Bruins,Washington Capitals,202202083873,2022020838,Takeaway,73,TAKEAWAY,Takeaway by Pavel Zacha,2023-02-11T21:09:17Z,1,13:07,06:53,0,1,6.0,Boston Bruins,BOS
+81,6,15,Boston Bruins,Washington Capitals,202202083832,2022020838,Hit,32,HIT,Alex Ovechkin hit Charlie Coyle,2023-02-11T21:09:28Z,1,13:18,06:42,0,1,15.0,Washington Capitals,WSH
+82,6,15,Boston Bruins,Washington Capitals,202202083833,2022020838,Hit,33,HIT,Matt Irwin hit Charlie Coyle,2023-02-11T21:09:37Z,1,13:27,06:33,0,1,15.0,Washington Capitals,WSH
+83,6,15,Boston Bruins,Washington Capitals,2022020838180,2022020838,Shot,180,SHOT,Hampus Lindholm Wrist Shot saved by Darcy Kuemper,2023-02-11T21:09:45Z,1,13:35,06:25,0,1,6.0,Boston Bruins,BOS
+84,6,15,Boston Bruins,Washington Capitals,202202083834,2022020838,Stoppage,34,STOP,Goalie Stopped,2023-02-11T21:09:47Z,1,13:37,06:23,0,1,,,
+85,6,15,Boston Bruins,Washington Capitals,202202083874,2022020838,Faceoff,74,FACEOFF,Evgeny Kuznetsov faceoff won against Charlie Coyle,2023-02-11T21:10:29Z,1,13:37,06:23,0,1,15.0,Washington Capitals,WSH
+86,6,15,Boston Bruins,Washington Capitals,202202083875,2022020838,Giveaway,75,GIVEAWAY,Giveaway by Charlie Coyle,2023-02-11T21:10:56Z,1,14:04,05:56,0,1,6.0,Boston Bruins,BOS
+87,6,15,Boston Bruins,Washington Capitals,2022020838182,2022020838,Shot,182,SHOT,Nick Foligno Deflected saved by Darcy Kuemper,2023-02-11T21:11:11Z,1,14:19,05:41,0,1,6.0,Boston Bruins,BOS
+88,6,15,Boston Bruins,Washington Capitals,202202083876,2022020838,Takeaway,76,TAKEAWAY,Takeaway by Erik Gustafsson,2023-02-11T21:12:14Z,1,15:22,04:38,0,1,15.0,Washington Capitals,WSH
+89,6,15,Boston Bruins,Washington Capitals,2022020838183,2022020838,Missed Shot,183,MISSED_SHOT,Marcus Johansson Wide of Net Jeremy Swayman,2023-02-11T21:12:36Z,1,15:44,04:16,0,1,15.0,Washington Capitals,WSH
+90,6,15,Boston Bruins,Washington Capitals,202202083835,2022020838,Hit,35,HIT,A.J. Greer hit Martin Fehervary,2023-02-11T21:12:38Z,1,15:46,04:14,0,1,6.0,Boston Bruins,BOS
+91,6,15,Boston Bruins,Washington Capitals,2022020838184,2022020838,Blocked Shot,184,BLOCKED_SHOT,Martin Fehervary shot blocked shot by Charlie McAvoy,2023-02-11T21:12:50Z,1,15:58,04:02,0,1,6.0,Boston Bruins,BOS
+92,6,15,Boston Bruins,Washington Capitals,202202083836,2022020838,Hit,36,HIT,Nicklas Backstrom hit Charlie McAvoy,2023-02-11T21:13:08Z,1,16:15,03:45,0,1,15.0,Washington Capitals,WSH
+93,6,15,Boston Bruins,Washington Capitals,2022020838185,2022020838,Shot,185,SHOT,Nicolas Aube-Kubel Tip-In saved by Jeremy Swayman,2023-02-11T21:13:22Z,1,16:30,03:30,0,1,15.0,Washington Capitals,WSH
+94,6,15,Boston Bruins,Washington Capitals,202202083837,2022020838,Stoppage,37,STOP,Goalie Stopped,2023-02-11T21:13:24Z,1,16:32,03:28,0,1,,,
+95,6,15,Boston Bruins,Washington Capitals,2022020838187,2022020838,Missed Shot,187,MISSED_SHOT,Alex Ovechkin Wide of Net Jeremy Swayman,2023-02-11T21:13:24Z,1,16:32,03:28,0,1,15.0,Washington Capitals,WSH
+96,6,15,Boston Bruins,Washington Capitals,2022020838365,2022020838,Stoppage,365,STOP,Puck in Crowd,2023-02-11T21:13:24Z,1,16:32,03:28,0,1,,,
+97,6,15,Boston Bruins,Washington Capitals,202202083877,2022020838,Faceoff,77,FACEOFF,Dylan Strome faceoff won against David Krejci,2023-02-11T21:14:01Z,1,16:32,03:28,0,1,15.0,Washington Capitals,WSH
+98,6,15,Boston Bruins,Washington Capitals,202202083878,2022020838,Giveaway,78,GIVEAWAY,Giveaway by Dylan Strome,2023-02-11T21:14:16Z,1,16:47,03:13,0,1,15.0,Washington Capitals,WSH
+99,6,15,Boston Bruins,Washington Capitals,202202083838,2022020838,Hit,38,HIT,Nicolas Aube-Kubel hit Matt Grzelcyk,2023-02-11T21:14:17Z,1,16:48,03:12,0,1,15.0,Washington Capitals,WSH
+100,6,15,Boston Bruins,Washington Capitals,202202083839,2022020838,Stoppage,39,STOP,Puck in Crowd,2023-02-11T21:14:19Z,1,16:50,03:10,0,1,,,
+101,6,15,Boston Bruins,Washington Capitals,202202083879,2022020838,Faceoff,79,FACEOFF,Evgeny Kuznetsov faceoff won against Pavel Zacha,2023-02-11T21:17:00Z,1,16:50,03:10,0,1,15.0,Washington Capitals,WSH
+102,6,15,Boston Bruins,Washington Capitals,202202083840,2022020838,Stoppage,40,STOP,Player Injury,2023-02-11T21:17:02Z,1,16:53,03:07,0,1,,,
+103,6,15,Boston Bruins,Washington Capitals,2022020838188,2022020838,Blocked Shot,188,BLOCKED_SHOT,T.J. Oshie shot blocked shot by Charlie McAvoy,2023-02-11T21:17:02Z,1,16:53,03:07,0,1,6.0,Boston Bruins,BOS
+104,6,15,Boston Bruins,Washington Capitals,202202083880,2022020838,Faceoff,80,FACEOFF,Pavel Zacha faceoff won against T.J. Oshie,2023-02-11T21:17:54Z,1,16:53,03:07,0,1,6.0,Boston Bruins,BOS
+105,6,15,Boston Bruins,Washington Capitals,202202083881,2022020838,Giveaway,81,GIVEAWAY,Giveaway by Conor Sheary,2023-02-11T21:18:26Z,1,17:08,02:52,0,1,15.0,Washington Capitals,WSH
+106,6,15,Boston Bruins,Washington Capitals,202202083841,2022020838,Stoppage,41,STOP,Offside,2023-02-11T21:18:45Z,1,17:27,02:33,0,1,,,
+107,6,15,Boston Bruins,Washington Capitals,202202083883,2022020838,Faceoff,83,FACEOFF,Charlie Coyle faceoff won against Nicklas Backstrom,2023-02-11T21:19:15Z,1,17:27,02:33,0,1,6.0,Boston Bruins,BOS
+108,6,15,Boston Bruins,Washington Capitals,202202083882,2022020838,Takeaway,82,TAKEAWAY,Takeaway by Marcus Johansson,2023-02-11T21:18:45Z,1,17:28,02:32,0,1,15.0,Washington Capitals,WSH
+109,6,15,Boston Bruins,Washington Capitals,202202083842,2022020838,Stoppage,42,STOP,Goalie Stopped,2023-02-11T21:19:53Z,1,18:04,01:56,0,1,,,
+110,6,15,Boston Bruins,Washington Capitals,2022020838189,2022020838,Shot,189,SHOT,Martin Fehervary Snap Shot saved by Jeremy Swayman,2023-02-11T21:19:53Z,1,18:04,01:56,0,1,15.0,Washington Capitals,WSH
+111,6,15,Boston Bruins,Washington Capitals,202202083884,2022020838,Faceoff,84,FACEOFF,Patrice Bergeron faceoff won against Dylan Strome,2023-02-11T21:20:18Z,1,18:04,01:56,0,1,6.0,Boston Bruins,BOS
+112,6,15,Boston Bruins,Washington Capitals,202202083843,2022020838,Hit,43,HIT,Alex Ovechkin hit Hampus Lindholm,2023-02-11T21:20:38Z,1,18:24,01:36,0,1,15.0,Washington Capitals,WSH
+113,6,15,Boston Bruins,Washington Capitals,2022020838190,2022020838,Blocked Shot,190,BLOCKED_SHOT,Hampus Lindholm shot blocked shot by Dmitry Orlov,2023-02-11T21:20:44Z,1,18:30,01:30,0,1,15.0,Washington Capitals,WSH
+114,6,15,Boston Bruins,Washington Capitals,202202083886,2022020838,Takeaway,86,TAKEAWAY,Takeaway by Hampus Lindholm,2023-02-11T21:21:01Z,1,18:47,01:13,0,1,6.0,Boston Bruins,BOS
+115,6,15,Boston Bruins,Washington Capitals,202202083885,2022020838,Takeaway,85,TAKEAWAY,Takeaway by Nicolas Aube-Kubel,2023-02-11T21:21:06Z,1,18:52,01:08,0,1,15.0,Washington Capitals,WSH
+116,6,15,Boston Bruins,Washington Capitals,202202083844,2022020838,Hit,44,HIT,Martin Fehervary hit Brad Marchand,2023-02-11T21:21:10Z,1,18:56,01:04,0,1,15.0,Washington Capitals,WSH
+117,6,15,Boston Bruins,Washington Capitals,202202083887,2022020838,Giveaway,87,GIVEAWAY,Giveaway by Lars Eller,2023-02-11T21:21:43Z,1,19:29,00:31,0,1,15.0,Washington Capitals,WSH
+118,6,15,Boston Bruins,Washington Capitals,202202083845,2022020838,Stoppage,45,STOP,Puck in Netting,2023-02-11T21:21:45Z,1,19:30,00:30,0,1,,,
+119,6,15,Boston Bruins,Washington Capitals,202202083888,2022020838,Giveaway,88,GIVEAWAY,Giveaway by Matt Grzelcyk,2023-02-11T21:21:45Z,1,19:30,00:30,0,1,6.0,Boston Bruins,BOS
+120,6,15,Boston Bruins,Washington Capitals,2022020838191,2022020838,Blocked Shot,191,BLOCKED_SHOT,Anthony Mantha shot blocked shot by Charlie McAvoy,2023-02-11T21:21:45Z,1,19:30,00:30,0,1,6.0,Boston Bruins,BOS
+121,6,15,Boston Bruins,Washington Capitals,202202083889,2022020838,Faceoff,89,FACEOFF,Charlie Coyle faceoff won against Evgeny Kuznetsov,2023-02-11T21:22:35Z,1,19:30,00:30,0,1,6.0,Boston Bruins,BOS
+122,6,15,Boston Bruins,Washington Capitals,202202083846,2022020838,Hit,46,HIT,Conor Sheary hit Brandon Carlo,2023-02-11T21:22:47Z,1,19:42,00:18,0,1,15.0,Washington Capitals,WSH
+123,6,15,Boston Bruins,Washington Capitals,2022020838192,2022020838,Missed Shot,192,MISSED_SHOT,Taylor Hall Wide of Net Darcy Kuemper,2023-02-11T21:22:58Z,1,19:53,00:07,0,1,6.0,Boston Bruins,BOS
+124,6,15,Boston Bruins,Washington Capitals,202202083847,2022020838,Period End,47,PERIOD_END,End of 1st Period,2023-02-11T21:23:05Z,1,20:00,00:00,0,1,,,
+125,6,15,Boston Bruins,Washington Capitals,202202083850,2022020838,Period Official,50,PERIOD_OFFICIAL,Period Official,2023-02-11T21:23:11Z,1,20:00,00:00,0,1,,,
+126,6,15,Boston Bruins,Washington Capitals,2022020838352,2022020838,Period Ready,352,PERIOD_READY,Period Ready,2023-02-11T21:40:11Z,2,00:00,20:00,0,1,,,
+127,6,15,Boston Bruins,Washington Capitals,202202083890,2022020838,Period Start,90,PERIOD_START,Period Start,2023-02-11T21:41:58Z,2,00:00,20:00,0,1,,,
+128,6,15,Boston Bruins,Washington Capitals,202202083891,2022020838,Faceoff,91,FACEOFF,Patrice Bergeron faceoff won against Dylan Strome,2023-02-11T21:41:58Z,2,00:00,20:00,0,1,6.0,Boston Bruins,BOS
+129,6,15,Boston Bruins,Washington Capitals,2022020838353,2022020838,Hit,353,HIT,Alex Ovechkin hit Hampus Lindholm,2023-02-11T21:42:17Z,2,00:19,19:41,0,1,15.0,Washington Capitals,WSH
+130,6,15,Boston Bruins,Washington Capitals,2022020838354,2022020838,Hit,354,HIT,Nick Foligno hit Dmitry Orlov,2023-02-11T21:43:03Z,2,01:05,18:55,0,1,6.0,Boston Bruins,BOS
+131,6,15,Boston Bruins,Washington Capitals,2022020838193,2022020838,Missed Shot,193,MISSED_SHOT,Charlie McAvoy Over Net Darcy Kuemper,2023-02-11T21:43:07Z,2,01:09,18:51,0,1,6.0,Boston Bruins,BOS
+132,6,15,Boston Bruins,Washington Capitals,2022020838194,2022020838,Blocked Shot,194,BLOCKED_SHOT,Trevor van Riemsdyk shot blocked shot by David Krejci,2023-02-11T21:43:48Z,2,01:50,18:10,0,1,6.0,Boston Bruins,BOS
+133,6,15,Boston Bruins,Washington Capitals,2022020838355,2022020838,Hit,355,HIT,T.J. Oshie hit Matt Grzelcyk,2023-02-11T21:43:59Z,2,02:01,17:59,0,1,15.0,Washington Capitals,WSH
+134,6,15,Boston Bruins,Washington Capitals,2022020838195,2022020838,Shot,195,SHOT,Conor Sheary Wrist Shot saved by Jeremy Swayman,2023-02-11T21:44:04Z,2,02:12,17:48,0,1,15.0,Washington Capitals,WSH
+135,6,15,Boston Bruins,Washington Capitals,202202083892,2022020838,Giveaway,92,GIVEAWAY,Giveaway by T.J. Oshie,2023-02-11T21:44:12Z,2,02:14,17:46,0,1,15.0,Washington Capitals,WSH
+136,6,15,Boston Bruins,Washington Capitals,202202083893,2022020838,Giveaway,93,GIVEAWAY,Giveaway by David Pastrnak,2023-02-11T21:44:23Z,2,02:25,17:35,0,1,6.0,Boston Bruins,BOS
+137,6,15,Boston Bruins,Washington Capitals,2022020838356,2022020838,Hit,356,HIT,Trent Frederic hit Matt Irwin,2023-02-11T21:44:31Z,2,02:33,17:27,0,1,6.0,Boston Bruins,BOS
+138,6,15,Boston Bruins,Washington Capitals,2022020838196,2022020838,Shot,196,SHOT,A.J. Greer Wrist Shot saved by Darcy Kuemper,2023-02-11T21:44:32Z,2,02:34,17:26,0,1,6.0,Boston Bruins,BOS
+139,6,15,Boston Bruins,Washington Capitals,2022020838198,2022020838,Shot,198,SHOT,Lars Eller Wrist Shot saved by Jeremy Swayman,2023-02-11T21:45:12Z,2,03:13,16:47,0,1,15.0,Washington Capitals,WSH
+140,6,15,Boston Bruins,Washington Capitals,2022020838357,2022020838,Stoppage,357,STOP,Goalie Stopped,2023-02-11T21:45:12Z,2,03:13,16:47,0,1,,,
+141,6,15,Boston Bruins,Washington Capitals,202202083894,2022020838,Faceoff,94,FACEOFF,Patrice Bergeron faceoff won against Nicklas Backstrom,2023-02-11T21:46:11Z,2,03:13,16:47,0,1,6.0,Boston Bruins,BOS
+142,6,15,Boston Bruins,Washington Capitals,2022020838358,2022020838,Hit,358,HIT,Brad Marchand hit Nicklas Backstrom,2023-02-11T21:46:19Z,2,03:21,16:39,0,1,6.0,Boston Bruins,BOS
+143,6,15,Boston Bruins,Washington Capitals,2022020838199,2022020838,Shot,199,SHOT,Brandon Carlo Wrist Shot saved by Darcy Kuemper,2023-02-11T21:46:22Z,2,03:24,16:36,0,1,6.0,Boston Bruins,BOS
+144,6,15,Boston Bruins,Washington Capitals,2022020838359,2022020838,Stoppage,359,STOP,Goalie Stopped,2023-02-11T21:46:23Z,2,03:25,16:35,0,1,,,
+145,6,15,Boston Bruins,Washington Capitals,202202083895,2022020838,Faceoff,95,FACEOFF,Lars Eller faceoff won against Charlie Coyle,2023-02-11T21:46:56Z,2,03:25,16:35,0,1,15.0,Washington Capitals,WSH
+146,6,15,Boston Bruins,Washington Capitals,2022020838360,2022020838,Hit,360,HIT,Taylor Hall hit Nick Jensen,2023-02-11T21:47:08Z,2,03:37,16:23,0,1,6.0,Boston Bruins,BOS
+147,6,15,Boston Bruins,Washington Capitals,2022020838361,2022020838,Hit,361,HIT,Nick Foligno hit Anthony Mantha,2023-02-11T21:47:25Z,2,03:54,16:06,0,1,6.0,Boston Bruins,BOS
+148,6,15,Boston Bruins,Washington Capitals,202202083896,2022020838,Giveaway,96,GIVEAWAY,Giveaway by Charlie McAvoy,2023-02-11T21:47:34Z,2,04:03,15:57,0,1,6.0,Boston Bruins,BOS
+149,6,15,Boston Bruins,Washington Capitals,2022020838362,2022020838,Hit,362,HIT,Nick Jensen hit Matt Grzelcyk,2023-02-11T21:47:47Z,2,04:16,15:44,0,1,15.0,Washington Capitals,WSH
+150,6,15,Boston Bruins,Washington Capitals,2022020838200,2022020838,Missed Shot,200,MISSED_SHOT,Nick Foligno Wide of Net Darcy Kuemper,2023-02-11T21:47:56Z,2,04:25,15:35,0,1,6.0,Boston Bruins,BOS
+151,6,15,Boston Bruins,Washington Capitals,202202083897,2022020838,Takeaway,97,TAKEAWAY,Takeaway by Lars Eller,2023-02-11T21:47:59Z,2,04:28,15:32,0,1,15.0,Washington Capitals,WSH
+152,6,15,Boston Bruins,Washington Capitals,202202083898,2022020838,Giveaway,98,GIVEAWAY,Giveaway by Lars Eller,2023-02-11T21:48:07Z,2,04:36,15:24,0,1,15.0,Washington Capitals,WSH
+153,6,15,Boston Bruins,Washington Capitals,2022020838401,2022020838,Shot,401,SHOT,Patrice Bergeron Wrist Shot saved by Darcy Kuemper,2023-02-11T21:48:29Z,2,04:58,15:02,0,1,6.0,Boston Bruins,BOS
+154,6,15,Boston Bruins,Washington Capitals,2022020838402,2022020838,Missed Shot,402,MISSED_SHOT,Sonny Milano Wide of Net Jeremy Swayman,2023-02-11T21:48:38Z,2,05:07,14:53,0,1,15.0,Washington Capitals,WSH
+155,6,15,Boston Bruins,Washington Capitals,2022020838363,2022020838,Hit,363,HIT,Alex Ovechkin hit Hampus Lindholm,2023-02-11T21:49:42Z,2,06:11,13:49,0,1,15.0,Washington Capitals,WSH
+156,6,15,Boston Bruins,Washington Capitals,2022020838403,2022020838,Shot,403,SHOT,Pavel Zacha Wrist Shot saved by Darcy Kuemper,2023-02-11T21:49:50Z,2,06:19,13:41,0,1,6.0,Boston Bruins,BOS
+157,6,15,Boston Bruins,Washington Capitals,202202083899,2022020838,Takeaway,99,TAKEAWAY,Takeaway by Trent Frederic,2023-02-11T21:50:41Z,2,07:10,12:50,0,1,6.0,Boston Bruins,BOS
+158,6,15,Boston Bruins,Washington Capitals,2022020838404,2022020838,Blocked Shot,404,BLOCKED_SHOT,Alex Ovechkin shot blocked shot by Derek Forbort,2023-02-11T21:51:25Z,2,07:54,12:06,0,1,6.0,Boston Bruins,BOS
+159,6,15,Boston Bruins,Washington Capitals,2022020838364,2022020838,Stoppage,364,STOP,Offside,2023-02-11T21:51:32Z,2,08:02,11:58,0,1,,,
+160,6,15,Boston Bruins,Washington Capitals,2022020838100,2022020838,Faceoff,100,FACEOFF,Charlie Coyle faceoff won against Marcus Johansson,2023-02-11T21:54:12Z,2,08:02,11:58,0,1,6.0,Boston Bruins,BOS
+161,6,15,Boston Bruins,Washington Capitals,2022020838501,2022020838,Takeaway,501,TAKEAWAY,Takeaway by Marcus Johansson,2023-02-11T21:54:31Z,2,08:21,11:39,0,1,15.0,Washington Capitals,WSH
+162,6,15,Boston Bruins,Washington Capitals,2022020838366,2022020838,Hit,366,HIT,Connor Clifton hit Nicklas Backstrom,2023-02-11T21:54:32Z,2,08:22,11:38,0,1,6.0,Boston Bruins,BOS
+163,6,15,Boston Bruins,Washington Capitals,2022020838367,2022020838,Hit,367,HIT,Nicklas Backstrom hit Derek Forbort,2023-02-11T21:54:48Z,2,08:38,11:22,0,1,15.0,Washington Capitals,WSH
+164,6,15,Boston Bruins,Washington Capitals,2022020838405,2022020838,Blocked Shot,405,BLOCKED_SHOT,Taylor Hall shot blocked shot by Nick Jensen,2023-02-11T21:54:57Z,2,08:47,11:13,0,1,15.0,Washington Capitals,WSH
+165,6,15,Boston Bruins,Washington Capitals,2022020838502,2022020838,Takeaway,502,TAKEAWAY,Takeaway by Nick Foligno,2023-02-11T21:55:14Z,2,09:04,10:56,0,1,6.0,Boston Bruins,BOS
+166,6,15,Boston Bruins,Washington Capitals,2022020838406,2022020838,Shot,406,SHOT,Brad Marchand Snap Shot saved by Darcy Kuemper,2023-02-11T21:55:22Z,2,09:12,10:48,0,1,6.0,Boston Bruins,BOS
+167,6,15,Boston Bruins,Washington Capitals,2022020838503,2022020838,Giveaway,503,GIVEAWAY,Giveaway by Trevor van Riemsdyk,2023-02-11T21:55:24Z,2,09:14,10:46,0,1,15.0,Washington Capitals,WSH
+168,6,15,Boston Bruins,Washington Capitals,2022020838407,2022020838,Shot,407,SHOT,Brad Marchand Wrist Shot saved by Darcy Kuemper,2023-02-11T21:55:26Z,2,09:16,10:44,0,1,6.0,Boston Bruins,BOS
+169,6,15,Boston Bruins,Washington Capitals,2022020838504,2022020838,Giveaway,504,GIVEAWAY,Giveaway by Dmitry Orlov,2023-02-11T21:55:57Z,2,09:47,10:13,0,1,15.0,Washington Capitals,WSH
+170,6,15,Boston Bruins,Washington Capitals,2022020838408,2022020838,Blocked Shot,408,BLOCKED_SHOT,Hampus Lindholm shot blocked shot by Erik Gustafsson,2023-02-11T21:56:25Z,2,10:15,09:45,0,1,15.0,Washington Capitals,WSH
+171,6,15,Boston Bruins,Washington Capitals,2022020838368,2022020838,Hit,368,HIT,Nicolas Aube-Kubel hit Hampus Lindholm,2023-02-11T21:56:49Z,2,10:39,09:21,0,1,15.0,Washington Capitals,WSH
+172,6,15,Boston Bruins,Washington Capitals,2022020838505,2022020838,Takeaway,505,TAKEAWAY,Takeaway by Nicolas Aube-Kubel,2023-02-11T21:56:51Z,2,10:41,09:19,0,1,15.0,Washington Capitals,WSH
+173,6,15,Boston Bruins,Washington Capitals,2022020838506,2022020838,Giveaway,506,GIVEAWAY,Giveaway by Pavel Zacha,2023-02-11T21:57:01Z,2,10:51,09:09,0,1,6.0,Boston Bruins,BOS
+174,6,15,Boston Bruins,Washington Capitals,2022020838409,2022020838,Blocked Shot,409,BLOCKED_SHOT,Alex Ovechkin shot blocked shot by Brandon Carlo,2023-02-11T21:57:02Z,2,10:52,09:08,0,1,6.0,Boston Bruins,BOS
+175,6,15,Boston Bruins,Washington Capitals,2022020838507,2022020838,Takeaway,507,TAKEAWAY,Takeaway by Anthony Mantha,2023-02-11T21:57:29Z,2,11:19,08:41,0,1,15.0,Washington Capitals,WSH
+176,6,15,Boston Bruins,Washington Capitals,2022020838369,2022020838,Hit,369,HIT,Connor Clifton hit Anthony Mantha,2023-02-11T21:57:30Z,2,11:20,08:40,0,1,6.0,Boston Bruins,BOS
+177,6,15,Boston Bruins,Washington Capitals,2022020838370,2022020838,Giveaway,370,GIVEAWAY,Giveaway by Jakub Lauko,2023-02-11T21:57:49Z,2,11:39,08:21,0,1,6.0,Boston Bruins,BOS
+178,6,15,Boston Bruins,Washington Capitals,2022020838410,2022020838,Goal,410,GOAL,"Garnet Hathaway (9) Wrist Shot, assists: none",2023-02-11T21:57:50Z,2,11:40,08:20,0,2,15.0,Washington Capitals,WSH
+179,6,15,Boston Bruins,Washington Capitals,2022020838508,2022020838,Faceoff,508,FACEOFF,Charlie Coyle faceoff won against Nicklas Backstrom,2023-02-11T21:58:54Z,2,11:40,08:20,0,2,6.0,Boston Bruins,BOS
+180,6,15,Boston Bruins,Washington Capitals,2022020838371,2022020838,Stoppage,371,STOP,Puck in Benches,2023-02-11T21:58:59Z,2,11:45,08:15,0,2,,,
+181,6,15,Boston Bruins,Washington Capitals,2022020838509,2022020838,Faceoff,509,FACEOFF,Nicklas Backstrom faceoff won against David Krejci,2023-02-11T22:01:39Z,2,11:45,08:15,0,2,15.0,Washington Capitals,WSH
+182,6,15,Boston Bruins,Washington Capitals,2022020838411,2022020838,Blocked Shot,411,BLOCKED_SHOT,Nicklas Backstrom shot blocked shot by Charlie McAvoy,2023-02-11T22:01:49Z,2,11:55,08:05,0,2,6.0,Boston Bruins,BOS
+183,6,15,Boston Bruins,Washington Capitals,2022020838372,2022020838,Penalty,372,PENALTY,David Krejci Tripping against Erik Gustafsson,2023-02-11T22:01:58Z,2,12:04,07:56,0,2,6.0,Boston Bruins,BOS
+184,6,15,Boston Bruins,Washington Capitals,2022020838510,2022020838,Faceoff,510,FACEOFF,Patrice Bergeron faceoff won against T.J. Oshie,2023-02-11T22:02:38Z,2,12:04,07:56,0,2,6.0,Boston Bruins,BOS
+185,6,15,Boston Bruins,Washington Capitals,2022020838376,2022020838,Hit,376,HIT,T.J. Oshie hit Brad Marchand,2023-02-11T22:02:53Z,2,12:18,07:42,0,2,15.0,Washington Capitals,WSH
+186,6,15,Boston Bruins,Washington Capitals,2022020838412,2022020838,Shot,412,SHOT,Patrice Bergeron Slap Shot saved by Darcy Kuemper,2023-02-11T22:02:54Z,2,12:20,07:40,0,2,6.0,Boston Bruins,BOS
+187,6,15,Boston Bruins,Washington Capitals,2022020838511,2022020838,Giveaway,511,GIVEAWAY,Giveaway by Charlie Coyle,2023-02-11T22:03:16Z,2,12:42,07:18,0,2,6.0,Boston Bruins,BOS
+188,6,15,Boston Bruins,Washington Capitals,2022020838512,2022020838,Giveaway,512,GIVEAWAY,Giveaway by Marcus Johansson,2023-02-11T22:03:51Z,2,13:17,06:43,0,2,15.0,Washington Capitals,WSH
+189,6,15,Boston Bruins,Washington Capitals,2022020838513,2022020838,Giveaway,513,GIVEAWAY,Giveaway by Derek Forbort,2023-02-11T22:04:24Z,2,13:50,06:10,0,2,6.0,Boston Bruins,BOS
+190,6,15,Boston Bruins,Washington Capitals,2022020838377,2022020838,Hit,377,HIT,Trent Frederic hit Conor Sheary,2023-02-11T22:04:39Z,2,14:05,05:55,0,2,6.0,Boston Bruins,BOS
+191,6,15,Boston Bruins,Washington Capitals,2022020838514,2022020838,Giveaway,514,GIVEAWAY,Giveaway by Dmitry Orlov,2023-02-11T22:04:54Z,2,14:20,05:40,0,2,15.0,Washington Capitals,WSH
+192,6,15,Boston Bruins,Washington Capitals,2022020838515,2022020838,Giveaway,515,GIVEAWAY,Giveaway by Charlie McAvoy,2023-02-11T22:05:24Z,2,14:50,05:10,0,2,6.0,Boston Bruins,BOS
+193,6,15,Boston Bruins,Washington Capitals,2022020838379,2022020838,Hit,379,HIT,Anthony Mantha hit Connor Clifton,2023-02-11T22:05:54Z,2,15:20,04:40,0,2,15.0,Washington Capitals,WSH
+194,6,15,Boston Bruins,Washington Capitals,2022020838516,2022020838,Giveaway,516,GIVEAWAY,Giveaway by Matt Irwin,2023-02-11T22:06:04Z,2,15:30,04:30,0,2,15.0,Washington Capitals,WSH
+195,6,15,Boston Bruins,Washington Capitals,2022020838380,2022020838,Stoppage,380,STOP,Goalie Stopped,2023-02-11T22:06:07Z,2,15:33,04:27,0,2,,,
+196,6,15,Boston Bruins,Washington Capitals,2022020838413,2022020838,Shot,413,SHOT,Craig Smith Wrist Shot saved by Darcy Kuemper,2023-02-11T22:06:07Z,2,15:33,04:27,0,2,6.0,Boston Bruins,BOS
+197,6,15,Boston Bruins,Washington Capitals,2022020838517,2022020838,Faceoff,517,FACEOFF,Evgeny Kuznetsov faceoff won against Brad Marchand,2023-02-11T22:08:52Z,2,15:33,04:27,0,2,15.0,Washington Capitals,WSH
+198,6,15,Boston Bruins,Washington Capitals,2022020838518,2022020838,Takeaway,518,TAKEAWAY,Takeaway by Dmitry Orlov,2023-02-11T22:09:49Z,2,16:30,03:30,0,2,15.0,Washington Capitals,WSH
+199,6,15,Boston Bruins,Washington Capitals,2022020838414,2022020838,Goal,414,GOAL,"Nick Foligno (8) Wrist Shot, assists: Connor Clifton (11), Taylor Hall (18)",2023-02-11T22:09:53Z,2,16:34,03:26,1,2,6.0,Boston Bruins,BOS
+200,6,15,Boston Bruins,Washington Capitals,2022020838519,2022020838,Faceoff,519,FACEOFF,Dylan Strome faceoff won against David Krejci,2023-02-11T22:10:50Z,2,16:34,03:26,1,2,15.0,Washington Capitals,WSH
+201,6,15,Boston Bruins,Washington Capitals,2022020838381,2022020838,Hit,381,HIT,Dylan Strome hit Brandon Carlo,2023-02-11T22:11:04Z,2,16:48,03:12,1,2,15.0,Washington Capitals,WSH
+202,6,15,Boston Bruins,Washington Capitals,2022020838457,2022020838,Blocked Shot,457,BLOCKED_SHOT,Dylan Strome shot blocked shot by Derek Forbort,2023-02-11T22:11:04Z,2,16:48,03:12,1,2,6.0,Boston Bruins,BOS
+203,6,15,Boston Bruins,Washington Capitals,2022020838415,2022020838,Shot,415,SHOT,Alex Ovechkin Wrist Shot saved by Jeremy Swayman,2023-02-11T22:11:11Z,2,16:55,03:05,1,2,15.0,Washington Capitals,WSH
+204,6,15,Boston Bruins,Washington Capitals,2022020838520,2022020838,Giveaway,520,GIVEAWAY,Giveaway by Dylan Strome,2023-02-11T22:11:24Z,2,17:08,02:52,1,2,15.0,Washington Capitals,WSH
+205,6,15,Boston Bruins,Washington Capitals,2022020838382,2022020838,Hit,382,HIT,Alex Ovechkin hit David Pastrnak,2023-02-11T22:11:37Z,2,17:21,02:39,1,2,15.0,Washington Capitals,WSH
+206,6,15,Boston Bruins,Washington Capitals,2022020838417,2022020838,Shot,417,SHOT,David Pastrnak Wrist Shot saved by Darcy Kuemper,2023-02-11T22:11:39Z,2,17:23,02:37,1,2,6.0,Boston Bruins,BOS
+207,6,15,Boston Bruins,Washington Capitals,2022020838383,2022020838,Stoppage,383,STOP,Goalie Stopped,2023-02-11T22:11:40Z,2,17:24,02:36,1,2,,,
+208,6,15,Boston Bruins,Washington Capitals,2022020838521,2022020838,Faceoff,521,FACEOFF,Patrice Bergeron faceoff won against Lars Eller,2023-02-11T22:12:23Z,2,17:24,02:36,1,2,6.0,Boston Bruins,BOS
+209,6,15,Boston Bruins,Washington Capitals,2022020838384,2022020838,Hit,384,HIT,Lars Eller hit Patrice Bergeron,2023-02-11T22:12:34Z,2,17:35,02:25,1,2,15.0,Washington Capitals,WSH
+210,6,15,Boston Bruins,Washington Capitals,2022020838385,2022020838,Stoppage,385,STOP,Puck Frozen,2023-02-11T22:12:36Z,2,17:37,02:23,1,2,,,
+211,6,15,Boston Bruins,Washington Capitals,2022020838522,2022020838,Faceoff,522,FACEOFF,Patrice Bergeron faceoff won against Lars Eller,2023-02-11T22:13:11Z,2,17:37,02:23,1,2,6.0,Boston Bruins,BOS
+212,6,15,Boston Bruins,Washington Capitals,2022020838386,2022020838,Stoppage,386,STOP,Puck in Netting,2023-02-11T22:13:44Z,2,18:10,01:50,1,2,,,
+213,6,15,Boston Bruins,Washington Capitals,2022020838523,2022020838,Faceoff,523,FACEOFF,Charlie Coyle faceoff won against Evgeny Kuznetsov,2023-02-11T22:15:04Z,2,18:10,01:50,1,2,6.0,Boston Bruins,BOS
+214,6,15,Boston Bruins,Washington Capitals,2022020838524,2022020838,Giveaway,524,GIVEAWAY,Giveaway by Connor Clifton,2023-02-11T22:15:24Z,2,18:30,01:30,1,2,6.0,Boston Bruins,BOS
+215,6,15,Boston Bruins,Washington Capitals,2022020838418,2022020838,Shot,418,SHOT,Nick Foligno Wrist Shot saved by Darcy Kuemper,2023-02-11T22:15:27Z,2,18:33,01:27,1,2,6.0,Boston Bruins,BOS
+216,6,15,Boston Bruins,Washington Capitals,2022020838387,2022020838,Stoppage,387,STOP,Goalie Stopped,2023-02-11T22:15:30Z,2,18:35,01:25,1,2,,,
+217,6,15,Boston Bruins,Washington Capitals,2022020838525,2022020838,Faceoff,525,FACEOFF,Nicklas Backstrom faceoff won against David Krejci,2023-02-11T22:16:24Z,2,18:35,01:25,1,2,15.0,Washington Capitals,WSH
+218,6,15,Boston Bruins,Washington Capitals,2022020838526,2022020838,Giveaway,526,GIVEAWAY,Giveaway by Marcus Johansson,2023-02-11T22:16:44Z,2,18:55,01:05,1,2,15.0,Washington Capitals,WSH
+219,6,15,Boston Bruins,Washington Capitals,2022020838388,2022020838,Hit,388,HIT,Martin Fehervary hit Pavel Zacha,2023-02-11T22:16:50Z,2,19:01,00:59,1,2,15.0,Washington Capitals,WSH
+220,6,15,Boston Bruins,Washington Capitals,2022020838419,2022020838,Missed Shot,419,MISSED_SHOT,Sonny Milano Wide of Net Jeremy Swayman,2023-02-11T22:16:57Z,2,19:08,00:52,1,2,15.0,Washington Capitals,WSH
+221,6,15,Boston Bruins,Washington Capitals,2022020838389,2022020838,Hit,389,HIT,Derek Forbort hit Dylan Strome,2023-02-11T22:17:20Z,2,19:31,00:29,1,2,6.0,Boston Bruins,BOS
+222,6,15,Boston Bruins,Washington Capitals,2022020838420,2022020838,Blocked Shot,420,BLOCKED_SHOT,Dmitry Orlov shot blocked shot by Derek Forbort,2023-02-11T22:17:44Z,2,19:55,00:05,1,2,6.0,Boston Bruins,BOS
+223,6,15,Boston Bruins,Washington Capitals,2022020838390,2022020838,Period End,390,PERIOD_END,End of 2nd Period,2023-02-11T22:17:49Z,2,20:00,00:00,1,2,,,
+224,6,15,Boston Bruins,Washington Capitals,2022020838393,2022020838,Period Official,393,PERIOD_OFFICIAL,Period Official,2023-02-11T22:17:57Z,2,20:00,00:00,1,2,,,
+225,6,15,Boston Bruins,Washington Capitals,2022020838394,2022020838,Period Ready,394,PERIOD_READY,Period Ready,2023-02-11T22:35:15Z,3,00:00,20:00,1,2,,,
+226,6,15,Boston Bruins,Washington Capitals,2022020838527,2022020838,Period Start,527,PERIOD_START,Period Start,2023-02-11T22:36:59Z,3,00:00,20:00,1,2,,,
+227,6,15,Boston Bruins,Washington Capitals,2022020838528,2022020838,Faceoff,528,FACEOFF,Patrice Bergeron faceoff won against Dylan Strome,2023-02-11T22:36:59Z,3,00:00,20:00,1,2,6.0,Boston Bruins,BOS
+228,6,15,Boston Bruins,Washington Capitals,2022020838395,2022020838,Stoppage,395,STOP,Goalie Stopped,2023-02-11T22:37:30Z,3,00:32,19:28,1,2,,,
+229,6,15,Boston Bruins,Washington Capitals,2022020838421,2022020838,Shot,421,SHOT,Brad Marchand Wrist Shot saved by Darcy Kuemper,2023-02-11T22:37:30Z,3,00:32,19:28,1,2,6.0,Boston Bruins,BOS
+230,6,15,Boston Bruins,Washington Capitals,2022020838529,2022020838,Faceoff,529,FACEOFF,David Krejci faceoff won against Nicklas Backstrom,2023-02-11T22:38:12Z,3,00:32,19:28,1,2,6.0,Boston Bruins,BOS
+231,6,15,Boston Bruins,Washington Capitals,2022020838422,2022020838,Blocked Shot,422,BLOCKED_SHOT,Pavel Zacha shot blocked shot by Sonny Milano,2023-02-11T22:38:13Z,3,00:33,19:27,1,2,15.0,Washington Capitals,WSH
+232,6,15,Boston Bruins,Washington Capitals,2022020838396,2022020838,Stoppage,396,STOP,Puck in Crowd,2023-02-11T22:38:14Z,3,00:34,19:26,1,2,,,
+233,6,15,Boston Bruins,Washington Capitals,2022020838530,2022020838,Faceoff,530,FACEOFF,Pavel Zacha faceoff won against Nicklas Backstrom,2023-02-11T22:38:48Z,3,00:34,19:26,1,2,6.0,Boston Bruins,BOS
+234,6,15,Boston Bruins,Washington Capitals,2022020838423,2022020838,Blocked Shot,423,BLOCKED_SHOT,David Pastrnak shot blocked shot by Trevor van Riemsdyk,2023-02-11T22:38:49Z,3,00:35,19:25,1,2,15.0,Washington Capitals,WSH
+235,6,15,Boston Bruins,Washington Capitals,2022020838424,2022020838,Shot,424,SHOT,Pavel Zacha Backhand saved by Darcy Kuemper,2023-02-11T22:39:14Z,3,01:00,19:00,1,2,6.0,Boston Bruins,BOS
+236,6,15,Boston Bruins,Washington Capitals,2022020838397,2022020838,Hit,397,HIT,Pavel Zacha hit Erik Gustafsson,2023-02-11T22:39:18Z,3,01:01,18:59,1,2,6.0,Boston Bruins,BOS
+237,6,15,Boston Bruins,Washington Capitals,2022020838398,2022020838,Hit,398,HIT,Evgeny Kuznetsov hit Connor Clifton,2023-02-11T22:39:54Z,3,01:40,18:20,1,2,15.0,Washington Capitals,WSH
+238,6,15,Boston Bruins,Washington Capitals,2022020838425,2022020838,Blocked Shot,425,BLOCKED_SHOT,Matt Irwin shot blocked shot by Taylor Hall,2023-02-11T22:39:57Z,3,01:43,18:17,1,2,6.0,Boston Bruins,BOS
+239,6,15,Boston Bruins,Washington Capitals,2022020838458,2022020838,Missed Shot,458,MISSED_SHOT,Matt Irwin Wide of Net Jeremy Swayman,2023-02-11T22:39:58Z,3,01:44,18:16,1,2,15.0,Washington Capitals,WSH
+240,6,15,Boston Bruins,Washington Capitals,2022020838534,2022020838,Takeaway,534,TAKEAWAY,Takeaway by T.J. Oshie,2023-02-11T22:40:07Z,3,01:53,18:07,1,2,15.0,Washington Capitals,WSH
+241,6,15,Boston Bruins,Washington Capitals,2022020838535,2022020838,Giveaway,535,GIVEAWAY,Giveaway by Taylor Hall,2023-02-11T22:40:12Z,3,01:54,18:06,1,2,6.0,Boston Bruins,BOS
+242,6,15,Boston Bruins,Washington Capitals,2022020838399,2022020838,Hit,399,HIT,Martin Fehervary hit Connor Clifton,2023-02-11T22:40:22Z,3,02:08,17:52,1,2,15.0,Washington Capitals,WSH
+243,6,15,Boston Bruins,Washington Capitals,2022020838426,2022020838,Missed Shot,426,MISSED_SHOT,Nicolas Aube-Kubel Wide of Net Jeremy Swayman,2023-02-11T22:40:40Z,3,02:26,17:34,1,2,15.0,Washington Capitals,WSH
+244,6,15,Boston Bruins,Washington Capitals,2022020838818,2022020838,Penalty,818,PENALTY,Hampus Lindholm Roughing against Nicolas Aube-Kubel,2023-02-11T22:40:46Z,3,02:32,17:28,1,2,6.0,Boston Bruins,BOS
+245,6,15,Boston Bruins,Washington Capitals,2022020838536,2022020838,Faceoff,536,FACEOFF,Patrice Bergeron faceoff won against T.J. Oshie,2023-02-11T22:41:32Z,3,02:32,17:28,1,2,6.0,Boston Bruins,BOS
+246,6,15,Boston Bruins,Washington Capitals,2022020838823,2022020838,Penalty,823,PENALTY,Alex Ovechkin Interference against Brandon Carlo,2023-02-11T22:41:44Z,3,02:45,17:15,1,2,15.0,Washington Capitals,WSH
+247,6,15,Boston Bruins,Washington Capitals,2022020838537,2022020838,Faceoff,537,FACEOFF,Lars Eller faceoff won against Charlie Coyle,2023-02-11T22:42:43Z,3,02:45,17:15,1,2,15.0,Washington Capitals,WSH
+248,6,15,Boston Bruins,Washington Capitals,2022020838427,2022020838,Shot,427,SHOT,Taylor Hall Wrist Shot saved by Darcy Kuemper,2023-02-11T22:42:59Z,3,03:01,16:59,1,2,6.0,Boston Bruins,BOS
+249,6,15,Boston Bruins,Washington Capitals,2022020838428,2022020838,Shot,428,SHOT,Taylor Hall Wrist Shot saved by Darcy Kuemper,2023-02-11T22:43:01Z,3,03:03,16:57,1,2,6.0,Boston Bruins,BOS
+250,6,15,Boston Bruins,Washington Capitals,2022020838538,2022020838,Giveaway,538,GIVEAWAY,Giveaway by Lars Eller,2023-02-11T22:43:22Z,3,03:24,16:36,1,2,15.0,Washington Capitals,WSH
+251,6,15,Boston Bruins,Washington Capitals,2022020838755,2022020838,Stoppage,755,STOP,Offside,2023-02-11T22:43:24Z,3,03:26,16:34,1,2,,,
+252,6,15,Boston Bruins,Washington Capitals,2022020838539,2022020838,Faceoff,539,FACEOFF,Patrice Bergeron faceoff won against Evgeny Kuznetsov,2023-02-11T22:43:47Z,3,03:26,16:34,1,2,6.0,Boston Bruins,BOS
+253,6,15,Boston Bruins,Washington Capitals,2022020838429,2022020838,Shot,429,SHOT,T.J. Oshie Wrist Shot saved by Jeremy Swayman,2023-02-11T22:44:02Z,3,03:41,16:19,1,2,15.0,Washington Capitals,WSH
+254,6,15,Boston Bruins,Washington Capitals,2022020838756,2022020838,Stoppage,756,STOP,Goalie Stopped,2023-02-11T22:44:02Z,3,03:41,16:19,1,2,,,
+255,6,15,Boston Bruins,Washington Capitals,2022020838540,2022020838,Faceoff,540,FACEOFF,Patrice Bergeron faceoff won against Evgeny Kuznetsov,2023-02-11T22:44:37Z,3,03:41,16:19,1,2,6.0,Boston Bruins,BOS
+256,6,15,Boston Bruins,Washington Capitals,2022020838757,2022020838,Hit,757,HIT,Charlie McAvoy hit Dmitry Orlov,2023-02-11T22:45:11Z,3,04:15,15:45,1,2,6.0,Boston Bruins,BOS
+257,6,15,Boston Bruins,Washington Capitals,2022020838430,2022020838,Missed Shot,430,MISSED_SHOT,Marcus Johansson Wide of Net Jeremy Swayman,2023-02-11T22:45:29Z,3,04:33,15:27,1,2,15.0,Washington Capitals,WSH
+258,6,15,Boston Bruins,Washington Capitals,2022020838758,2022020838,Hit,758,HIT,Nicklas Backstrom hit Pavel Zacha,2023-02-11T22:45:54Z,3,04:58,15:02,1,2,15.0,Washington Capitals,WSH
+259,6,15,Boston Bruins,Washington Capitals,2022020838541,2022020838,Giveaway,541,GIVEAWAY,Giveaway by Pavel Zacha,2023-02-11T22:46:13Z,3,05:17,14:43,1,2,6.0,Boston Bruins,BOS
+260,6,15,Boston Bruins,Washington Capitals,2022020838542,2022020838,Giveaway,542,GIVEAWAY,Giveaway by Lars Eller,2023-02-11T22:46:29Z,3,05:33,14:27,1,2,15.0,Washington Capitals,WSH
+261,6,15,Boston Bruins,Washington Capitals,2022020838431,2022020838,Shot,431,SHOT,Garnet Hathaway Wrist Shot saved by Jeremy Swayman,2023-02-11T22:46:30Z,3,05:34,14:26,1,2,15.0,Washington Capitals,WSH
+262,6,15,Boston Bruins,Washington Capitals,2022020838759,2022020838,Hit,759,HIT,Matt Irwin hit Charlie Coyle,2023-02-11T22:46:38Z,3,05:42,14:18,1,2,15.0,Washington Capitals,WSH
+263,6,15,Boston Bruins,Washington Capitals,2022020838432,2022020838,Missed Shot,432,MISSED_SHOT,Hampus Lindholm Over Net Darcy Kuemper,2023-02-11T22:46:43Z,3,05:47,14:13,1,2,6.0,Boston Bruins,BOS
+264,6,15,Boston Bruins,Washington Capitals,2022020838760,2022020838,Stoppage,760,STOP,Puck Frozen,2023-02-11T22:46:43Z,3,05:47,14:13,1,2,,,
+265,6,15,Boston Bruins,Washington Capitals,2022020838543,2022020838,Faceoff,543,FACEOFF,Evgeny Kuznetsov faceoff won against Charlie Coyle,2023-02-11T22:47:25Z,3,05:47,14:13,1,2,15.0,Washington Capitals,WSH
+266,6,15,Boston Bruins,Washington Capitals,2022020838433,2022020838,Blocked Shot,433,BLOCKED_SHOT,Charlie Coyle shot blocked shot by Nick Jensen,2023-02-11T22:47:36Z,3,05:58,14:02,1,2,15.0,Washington Capitals,WSH
+267,6,15,Boston Bruins,Washington Capitals,2022020838761,2022020838,Stoppage,761,STOP,Icing,2023-02-11T22:47:44Z,3,06:06,13:54,1,2,,,
+268,6,15,Boston Bruins,Washington Capitals,2022020838544,2022020838,Faceoff,544,FACEOFF,Patrice Bergeron faceoff won against Evgeny Kuznetsov,2023-02-11T22:48:15Z,3,06:06,13:54,1,2,6.0,Boston Bruins,BOS
+269,6,15,Boston Bruins,Washington Capitals,2022020838762,2022020838,Hit,762,HIT,T.J. Oshie hit Brad Marchand,2023-02-11T22:48:51Z,3,06:42,13:18,1,2,15.0,Washington Capitals,WSH
+270,6,15,Boston Bruins,Washington Capitals,2022020838763,2022020838,Hit,763,HIT,Erik Gustafsson hit Trent Frederic,2023-02-11T22:49:29Z,3,07:20,12:40,1,2,15.0,Washington Capitals,WSH
+271,6,15,Boston Bruins,Washington Capitals,2022020838434,2022020838,Missed Shot,434,MISSED_SHOT,Trent Frederic Wide of Net Darcy Kuemper,2023-02-11T22:49:33Z,3,07:24,12:36,1,2,6.0,Boston Bruins,BOS
+272,6,15,Boston Bruins,Washington Capitals,2022020838435,2022020838,Shot,435,SHOT,Trent Frederic Wrist Shot saved by Darcy Kuemper,2023-02-11T22:49:34Z,3,07:24,12:36,1,2,6.0,Boston Bruins,BOS
+273,6,15,Boston Bruins,Washington Capitals,2022020838764,2022020838,Stoppage,764,STOP,Goalie Stopped,2023-02-11T22:49:35Z,3,07:25,12:35,1,2,,,
+274,6,15,Boston Bruins,Washington Capitals,2022020838546,2022020838,Faceoff,546,FACEOFF,Pavel Zacha faceoff won against Lars Eller,2023-02-11T22:52:08Z,3,07:25,12:35,1,2,6.0,Boston Bruins,BOS
+275,6,15,Boston Bruins,Washington Capitals,2022020838436,2022020838,Shot,436,SHOT,Matt Grzelcyk Wrist Shot saved by Darcy Kuemper,2023-02-11T22:52:35Z,3,07:52,12:08,1,2,6.0,Boston Bruins,BOS
+276,6,15,Boston Bruins,Washington Capitals,2022020838437,2022020838,Shot,437,SHOT,Anthony Mantha Wrist Shot saved by Jeremy Swayman,2023-02-11T22:52:44Z,3,08:01,11:59,1,2,15.0,Washington Capitals,WSH
+277,6,15,Boston Bruins,Washington Capitals,2022020838976,2022020838,Penalty,976,PENALTY,Dmitry Orlov Tripping against David Krejci,2023-02-11T22:52:53Z,3,08:10,11:50,1,2,15.0,Washington Capitals,WSH
+278,6,15,Boston Bruins,Washington Capitals,2022020838547,2022020838,Faceoff,547,FACEOFF,Lars Eller faceoff won against Patrice Bergeron,2023-02-11T22:53:50Z,3,08:10,11:50,1,2,15.0,Washington Capitals,WSH
+279,6,15,Boston Bruins,Washington Capitals,2022020838438,2022020838,Blocked Shot,438,BLOCKED_SHOT,David Pastrnak shot blocked shot by Garnet Hathaway,2023-02-11T22:54:23Z,3,08:43,11:17,1,2,15.0,Washington Capitals,WSH
+280,6,15,Boston Bruins,Washington Capitals,2022020838439,2022020838,Shot,439,SHOT,Brad Marchand Wrist Shot saved by Darcy Kuemper,2023-02-11T22:54:48Z,3,09:08,10:52,1,2,6.0,Boston Bruins,BOS
+281,6,15,Boston Bruins,Washington Capitals,2022020838767,2022020838,Stoppage,767,STOP,Goalie Stopped,2023-02-11T22:54:48Z,3,09:08,10:52,1,2,,,
+282,6,15,Boston Bruins,Washington Capitals,2022020838548,2022020838,Faceoff,548,FACEOFF,Patrice Bergeron faceoff won against Lars Eller,2023-02-11T22:55:21Z,3,09:08,10:52,1,2,6.0,Boston Bruins,BOS
+283,6,15,Boston Bruins,Washington Capitals,2022020838440,2022020838,Shot,440,SHOT,Patrice Bergeron Snap Shot saved by Darcy Kuemper,2023-02-11T22:55:46Z,3,09:33,10:27,1,2,6.0,Boston Bruins,BOS
+284,6,15,Boston Bruins,Washington Capitals,2022020838549,2022020838,Giveaway,549,GIVEAWAY,Giveaway by Brad Marchand,2023-02-11T22:55:55Z,3,09:42,10:18,1,2,6.0,Boston Bruins,BOS
+285,6,15,Boston Bruins,Washington Capitals,2022020838550,2022020838,Giveaway,550,GIVEAWAY,Giveaway by David Pastrnak,2023-02-11T22:56:08Z,3,09:55,10:05,1,2,6.0,Boston Bruins,BOS
+286,6,15,Boston Bruins,Washington Capitals,2022020838442,2022020838,Shot,442,SHOT,Dmitry Orlov Slap Shot saved by Jeremy Swayman,2023-02-11T22:56:31Z,3,10:18,09:42,1,2,15.0,Washington Capitals,WSH
+287,6,15,Boston Bruins,Washington Capitals,2022020838768,2022020838,Stoppage,768,STOP,Goalie Stopped,2023-02-11T22:56:32Z,3,10:19,09:41,1,2,,,
+288,6,15,Boston Bruins,Washington Capitals,2022020838851,2022020838,Faceoff,851,FACEOFF,Dylan Strome faceoff won against Patrice Bergeron,2023-02-11T22:59:01Z,3,10:19,09:41,1,2,15.0,Washington Capitals,WSH
+289,6,15,Boston Bruins,Washington Capitals,2022020838443,2022020838,Missed Shot,443,MISSED_SHOT,Alex Ovechkin Wide of Net Jeremy Swayman,2023-02-11T22:59:04Z,3,10:22,09:38,1,2,15.0,Washington Capitals,WSH
+290,6,15,Boston Bruins,Washington Capitals,2022020838852,2022020838,Giveaway,852,GIVEAWAY,Giveaway by Alex Ovechkin,2023-02-11T22:59:18Z,3,10:35,09:25,1,2,15.0,Washington Capitals,WSH
+291,6,15,Boston Bruins,Washington Capitals,20220208381000,2022020838,Penalty,1000,PENALTY,Brad Marchand Tripping against Alex Ovechkin,2023-02-11T22:59:19Z,3,10:37,09:23,1,2,6.0,Boston Bruins,BOS
+292,6,15,Boston Bruins,Washington Capitals,20220208381003,2022020838,Penalty,1003,PENALTY,Alex Ovechkin High-sticking against Brad Marchand,2023-02-11T22:59:19Z,3,10:37,09:23,1,2,15.0,Washington Capitals,WSH
+293,6,15,Boston Bruins,Washington Capitals,2022020838853,2022020838,Faceoff,853,FACEOFF,Charlie Coyle faceoff won against Nicklas Backstrom,2023-02-11T23:00:44Z,3,10:37,09:23,1,2,6.0,Boston Bruins,BOS
+294,6,15,Boston Bruins,Washington Capitals,2022020838854,2022020838,Giveaway,854,GIVEAWAY,Giveaway by Charlie McAvoy,2023-02-11T23:01:07Z,3,11:00,09:00,1,2,6.0,Boston Bruins,BOS
+295,6,15,Boston Bruins,Washington Capitals,2022020838855,2022020838,Giveaway,855,GIVEAWAY,Giveaway by Matt Grzelcyk,2023-02-11T23:01:43Z,3,11:36,08:24,1,2,6.0,Boston Bruins,BOS
+296,6,15,Boston Bruins,Washington Capitals,2022020838444,2022020838,Missed Shot,444,MISSED_SHOT,Dylan Strome Wide of Net Jeremy Swayman,2023-02-11T23:02:04Z,3,11:57,08:03,1,2,15.0,Washington Capitals,WSH
+297,6,15,Boston Bruins,Washington Capitals,2022020838856,2022020838,Takeaway,856,TAKEAWAY,Takeaway by Dylan Strome,2023-02-11T23:02:07Z,3,12:00,08:00,1,2,15.0,Washington Capitals,WSH
+298,6,15,Boston Bruins,Washington Capitals,2022020838857,2022020838,Giveaway,857,GIVEAWAY,Giveaway by David Krejci,2023-02-11T23:02:13Z,3,12:06,07:54,1,2,6.0,Boston Bruins,BOS
+299,6,15,Boston Bruins,Washington Capitals,2022020838445,2022020838,Shot,445,SHOT,Dmitry Orlov Wrist Shot saved by Jeremy Swayman,2023-02-11T23:02:15Z,3,12:07,07:53,1,2,15.0,Washington Capitals,WSH
+300,6,15,Boston Bruins,Washington Capitals,2022020838772,2022020838,Stoppage,772,STOP,Goalie Stopped,2023-02-11T23:02:15Z,3,12:07,07:53,1,2,,,
+301,6,15,Boston Bruins,Washington Capitals,2022020838858,2022020838,Faceoff,858,FACEOFF,Patrice Bergeron faceoff won against Evgeny Kuznetsov,2023-02-11T23:02:43Z,3,12:07,07:53,1,2,6.0,Boston Bruins,BOS
+302,6,15,Boston Bruins,Washington Capitals,2022020838859,2022020838,Giveaway,859,GIVEAWAY,Giveaway by Patrice Bergeron,2023-02-11T23:03:07Z,3,12:31,07:29,1,2,6.0,Boston Bruins,BOS
+303,6,15,Boston Bruins,Washington Capitals,2022020838860,2022020838,Takeaway,860,TAKEAWAY,Takeaway by Charlie McAvoy,2023-02-11T23:03:20Z,3,12:44,07:16,1,2,6.0,Boston Bruins,BOS
+304,6,15,Boston Bruins,Washington Capitals,2022020838773,2022020838,Hit,773,HIT,Alex Ovechkin hit Derek Forbort,2023-02-11T23:03:41Z,3,13:05,06:55,1,2,15.0,Washington Capitals,WSH
+305,6,15,Boston Bruins,Washington Capitals,2022020838446,2022020838,Blocked Shot,446,BLOCKED_SHOT,David Pastrnak shot blocked shot by Nick Jensen,2023-02-11T23:04:00Z,3,13:24,06:36,1,2,15.0,Washington Capitals,WSH
+306,6,15,Boston Bruins,Washington Capitals,2022020838447,2022020838,Shot,447,SHOT,Alex Ovechkin Wrist Shot saved by Jeremy Swayman,2023-02-11T23:04:01Z,3,13:29,06:31,1,2,15.0,Washington Capitals,WSH
+307,6,15,Boston Bruins,Washington Capitals,2022020838448,2022020838,Shot,448,SHOT,Dylan Strome Snap Shot saved by Jeremy Swayman,2023-02-11T23:04:06Z,3,13:30,06:30,1,2,15.0,Washington Capitals,WSH
+308,6,15,Boston Bruins,Washington Capitals,2022020838459,2022020838,Shot,459,SHOT,T.J. Oshie Snap Shot saved by Jeremy Swayman,2023-02-11T23:04:07Z,3,13:31,06:29,1,2,15.0,Washington Capitals,WSH
+309,6,15,Boston Bruins,Washington Capitals,2022020838774,2022020838,Stoppage,774,STOP,Goalie Stopped,2023-02-11T23:04:09Z,3,13:33,06:27,1,2,,,
+310,6,15,Boston Bruins,Washington Capitals,2022020838861,2022020838,Faceoff,861,FACEOFF,Charlie Coyle faceoff won against Evgeny Kuznetsov,2023-02-11T23:04:52Z,3,13:33,06:27,1,2,6.0,Boston Bruins,BOS
+311,6,15,Boston Bruins,Washington Capitals,2022020838775,2022020838,Hit,775,HIT,Matt Grzelcyk hit Sonny Milano,2023-02-11T23:05:03Z,3,13:44,06:16,1,2,6.0,Boston Bruins,BOS
+312,6,15,Boston Bruins,Washington Capitals,2022020838776,2022020838,Stoppage,776,STOP,Puck in Crowd,2023-02-11T23:05:09Z,3,13:50,06:10,1,2,,,
+313,6,15,Boston Bruins,Washington Capitals,2022020838862,2022020838,Faceoff,862,FACEOFF,Evgeny Kuznetsov faceoff won against Charlie Coyle,2023-02-11T23:05:46Z,3,13:50,06:10,1,2,15.0,Washington Capitals,WSH
+314,6,15,Boston Bruins,Washington Capitals,2022020838863,2022020838,Takeaway,863,TAKEAWAY,Takeaway by Sonny Milano,2023-02-11T23:06:14Z,3,14:18,05:42,1,2,15.0,Washington Capitals,WSH
+315,6,15,Boston Bruins,Washington Capitals,2022020838864,2022020838,Giveaway,864,GIVEAWAY,Giveaway by Nick Jensen,2023-02-11T23:06:23Z,3,14:27,05:33,1,2,15.0,Washington Capitals,WSH
+316,6,15,Boston Bruins,Washington Capitals,2022020838449,2022020838,Blocked Shot,449,BLOCKED_SHOT,Patrice Bergeron shot blocked shot by Martin Fehervary,2023-02-11T23:06:29Z,3,14:33,05:27,1,2,15.0,Washington Capitals,WSH
+317,6,15,Boston Bruins,Washington Capitals,2022020838777,2022020838,Hit,777,HIT,Pavel Zacha hit Martin Fehervary,2023-02-11T23:06:35Z,3,14:39,05:21,1,2,6.0,Boston Bruins,BOS
+318,6,15,Boston Bruins,Washington Capitals,2022020838450,2022020838,Shot,450,SHOT,Lars Eller Wrist Shot saved by Jeremy Swayman,2023-02-11T23:06:51Z,3,14:55,05:05,1,2,15.0,Washington Capitals,WSH
+319,6,15,Boston Bruins,Washington Capitals,2022020838778,2022020838,Hit,778,HIT,Brad Marchand hit Garnet Hathaway,2023-02-11T23:06:52Z,3,14:56,05:04,1,2,6.0,Boston Bruins,BOS
+320,6,15,Boston Bruins,Washington Capitals,2022020838901,2022020838,Missed Shot,901,MISSED_SHOT,Matt Irwin Wide of Net Jeremy Swayman,2023-02-11T23:06:55Z,3,14:59,05:01,1,2,15.0,Washington Capitals,WSH
+321,6,15,Boston Bruins,Washington Capitals,2022020838779,2022020838,Stoppage,779,STOP,Goalie Stopped,2023-02-11T23:06:56Z,3,15:00,05:00,1,2,,,
+322,6,15,Boston Bruins,Washington Capitals,2022020838865,2022020838,Faceoff,865,FACEOFF,Charlie Coyle faceoff won against Nicklas Backstrom,2023-02-11T23:09:15Z,3,15:00,05:00,1,2,6.0,Boston Bruins,BOS
+323,6,15,Boston Bruins,Washington Capitals,2022020838780,2022020838,Stoppage,780,STOP,Puck in Benches,2023-02-11T23:09:20Z,3,15:05,04:55,1,2,,,
+324,6,15,Boston Bruins,Washington Capitals,2022020838866,2022020838,Faceoff,866,FACEOFF,Nicklas Backstrom faceoff won against Charlie Coyle,2023-02-11T23:09:46Z,3,15:05,04:55,1,2,15.0,Washington Capitals,WSH
+325,6,15,Boston Bruins,Washington Capitals,2022020838902,2022020838,Blocked Shot,902,BLOCKED_SHOT,Trevor van Riemsdyk shot blocked shot by Taylor Hall,2023-02-11T23:09:49Z,3,15:08,04:52,1,2,6.0,Boston Bruins,BOS
+326,6,15,Boston Bruins,Washington Capitals,2022020838781,2022020838,Hit,781,HIT,Charlie Coyle hit Erik Gustafsson,2023-02-11T23:10:03Z,3,15:22,04:38,1,2,6.0,Boston Bruins,BOS
+327,6,15,Boston Bruins,Washington Capitals,2022020838903,2022020838,Shot,903,SHOT,Trent Frederic Wrist Shot saved by Darcy Kuemper,2023-02-11T23:10:23Z,3,15:42,04:18,1,2,6.0,Boston Bruins,BOS
+328,6,15,Boston Bruins,Washington Capitals,2022020838782,2022020838,Hit,782,HIT,Nick Foligno hit Trevor van Riemsdyk,2023-02-11T23:10:29Z,3,15:48,04:12,1,2,6.0,Boston Bruins,BOS
+329,6,15,Boston Bruins,Washington Capitals,2022020838867,2022020838,Giveaway,867,GIVEAWAY,Giveaway by Alex Ovechkin,2023-02-11T23:10:36Z,3,15:55,04:05,1,2,15.0,Washington Capitals,WSH
+330,6,15,Boston Bruins,Washington Capitals,2022020838783,2022020838,Hit,783,HIT,Nicolas Aube-Kubel hit Nick Foligno,2023-02-11T23:10:52Z,3,16:07,03:53,1,2,15.0,Washington Capitals,WSH
+331,6,15,Boston Bruins,Washington Capitals,2022020838904,2022020838,Blocked Shot,904,BLOCKED_SHOT,Charlie McAvoy shot blocked shot by Alex Ovechkin,2023-02-11T23:10:52Z,3,16:11,03:49,1,2,15.0,Washington Capitals,WSH
+332,6,15,Boston Bruins,Washington Capitals,2022020838460,2022020838,Shot,460,SHOT,Charlie McAvoy Wrist Shot saved by Darcy Kuemper,2023-02-11T23:10:59Z,3,16:18,03:42,1,2,6.0,Boston Bruins,BOS
+333,6,15,Boston Bruins,Washington Capitals,2022020838906,2022020838,Missed Shot,906,MISSED_SHOT,Evgeny Kuznetsov Goalpost Jeremy Swayman,2023-02-11T23:11:14Z,3,16:31,03:29,1,2,15.0,Washington Capitals,WSH
+334,6,15,Boston Bruins,Washington Capitals,2022020838907,2022020838,Shot,907,SHOT,Garnet Hathaway Backhand saved by Jeremy Swayman,2023-02-11T23:11:55Z,3,17:14,02:46,1,2,15.0,Washington Capitals,WSH
+335,6,15,Boston Bruins,Washington Capitals,2022020838784,2022020838,Hit,784,HIT,Anthony Mantha hit Pavel Zacha,2023-02-11T23:12:00Z,3,17:19,02:41,1,2,15.0,Washington Capitals,WSH
+336,6,15,Boston Bruins,Washington Capitals,2022020838868,2022020838,Giveaway,868,GIVEAWAY,Giveaway by Anthony Mantha,2023-02-11T23:12:12Z,3,17:31,02:29,1,2,15.0,Washington Capitals,WSH
+337,6,15,Boston Bruins,Washington Capitals,2022020838869,2022020838,Giveaway,869,GIVEAWAY,Giveaway by David Pastrnak,2023-02-11T23:12:58Z,3,18:17,01:43,1,2,6.0,Boston Bruins,BOS
+338,6,15,Boston Bruins,Washington Capitals,2022020838909,2022020838,Missed Shot,909,MISSED_SHOT,Brad Marchand Wide of Net Darcy Kuemper,2023-02-11T23:13:38Z,3,18:57,01:03,1,2,6.0,Boston Bruins,BOS
+339,6,15,Boston Bruins,Washington Capitals,2022020838785,2022020838,Hit,785,HIT,Lars Eller hit David Pastrnak,2023-02-11T23:13:51Z,3,19:10,00:50,1,2,15.0,Washington Capitals,WSH
+340,6,15,Boston Bruins,Washington Capitals,2022020838786,2022020838,Stoppage,786,STOP,High Stick,2023-02-11T23:13:53Z,3,19:11,00:49,1,2,,,
+341,6,15,Boston Bruins,Washington Capitals,2022020838871,2022020838,Faceoff,871,FACEOFF,Evgeny Kuznetsov faceoff won against Patrice Bergeron,2023-02-11T23:15:30Z,3,19:11,00:49,1,2,15.0,Washington Capitals,WSH
+342,6,15,Boston Bruins,Washington Capitals,2022020838787,2022020838,Stoppage,787,STOP,Icing,2023-02-11T23:15:48Z,3,19:28,00:32,1,2,,,
+343,6,15,Boston Bruins,Washington Capitals,2022020838910,2022020838,Missed Shot,910,MISSED_SHOT,Evgeny Kuznetsov Goalpost,2023-02-11T23:15:48Z,3,19:28,00:32,1,2,15.0,Washington Capitals,WSH
+344,6,15,Boston Bruins,Washington Capitals,2022020838872,2022020838,Faceoff,872,FACEOFF,Evgeny Kuznetsov faceoff won against Patrice Bergeron,2023-02-11T23:16:14Z,3,19:28,00:32,1,2,15.0,Washington Capitals,WSH
+345,6,15,Boston Bruins,Washington Capitals,20220208381132,2022020838,Penalty,1132,PENALTY,Martin Fehervary Boarding against Taylor Hall,2023-02-11T23:16:20Z,3,19:34,00:26,1,2,15.0,Washington Capitals,WSH
+346,6,15,Boston Bruins,Washington Capitals,2022020838873,2022020838,Faceoff,873,FACEOFF,Lars Eller faceoff won against Patrice Bergeron,2023-02-11T23:17:34Z,3,19:34,00:26,1,2,15.0,Washington Capitals,WSH
+347,6,15,Boston Bruins,Washington Capitals,2022020838911,2022020838,Blocked Shot,911,BLOCKED_SHOT,Charlie McAvoy shot blocked shot by Garnet Hathaway,2023-02-11T23:17:58Z,3,19:59,00:01,1,2,15.0,Washington Capitals,WSH
+348,6,15,Boston Bruins,Washington Capitals,2022020838789,2022020838,Period End,789,PERIOD_END,End of 3rd Period,2023-02-11T23:17:59Z,3,20:00,00:00,1,2,,,
+349,6,15,Boston Bruins,Washington Capitals,2022020838792,2022020838,Period Official,792,PERIOD_OFFICIAL,Period Official,2023-02-11T23:18:09Z,3,20:00,00:00,1,2,,,
+350,6,15,Boston Bruins,Washington Capitals,2022020838793,2022020838,Game End,793,GAME_END,Game End,2023-02-11T23:18:14Z,3,20:00,00:00,1,2,,,
+351,6,15,Boston Bruins,Washington Capitals,20220208381441,2022020838,Game Official,1441,GAME_OFFICIAL,Game Official,2023-02-14T18:48:54Z,3,20:00,00:00,1,2,,,

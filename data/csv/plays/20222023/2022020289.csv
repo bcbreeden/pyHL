@@ -1,0 +1,354 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,29,13,Columbus Blue Jackets,Florida Panthers,20220202891,2022020289,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-11-20T22:13:10Z,1,00:00,20:00,0,0,,,
+1,29,13,Columbus Blue Jackets,Florida Panthers,20220202895,2022020289,Period Ready,5,PERIOD_READY,Period Ready,2022-11-20T23:07:57Z,1,00:00,20:00,0,0,,,
+2,29,13,Columbus Blue Jackets,Florida Panthers,202202028951,2022020289,Period Start,51,PERIOD_START,Period Start,2022-11-20T23:08:57Z,1,00:00,20:00,0,0,,,
+3,29,13,Columbus Blue Jackets,Florida Panthers,202202028952,2022020289,Faceoff,52,FACEOFF,Sean Kuraly faceoff won against Aleksander Barkov,2022-11-20T23:08:57Z,1,00:00,20:00,0,0,29.0,Columbus Blue Jackets,CBJ
+4,29,13,Columbus Blue Jackets,Florida Panthers,20220202898,2022020289,Hit,8,HIT,Sean Kuraly hit Aaron Ekblad,2022-11-20T23:09:03Z,1,00:06,19:54,0,0,29.0,Columbus Blue Jackets,CBJ
+5,29,13,Columbus Blue Jackets,Florida Panthers,20220202899,2022020289,Stoppage,9,STOP,Goalie Stopped,2022-11-20T23:09:17Z,1,00:21,19:39,0,0,,,
+6,29,13,Columbus Blue Jackets,Florida Panthers,2022020289151,2022020289,Shot,151,SHOT,Gustav Forsling Snap Shot saved by Daniil Tarasov,2022-11-20T23:09:17Z,1,00:21,19:39,0,0,13.0,Florida Panthers,FLA
+7,29,13,Columbus Blue Jackets,Florida Panthers,202202028953,2022020289,Faceoff,53,FACEOFF,Sean Kuraly faceoff won against Aleksander Barkov,2022-11-20T23:09:39Z,1,00:21,19:39,0,0,29.0,Columbus Blue Jackets,CBJ
+8,29,13,Columbus Blue Jackets,Florida Panthers,202202028910,2022020289,Hit,10,HIT,Marc Staal hit Eric Robinson,2022-11-20T23:09:45Z,1,00:27,19:33,0,0,13.0,Florida Panthers,FLA
+9,29,13,Columbus Blue Jackets,Florida Panthers,2022020289152,2022020289,Shot,152,SHOT,Aleksander Barkov Wrist Shot saved by Daniil Tarasov,2022-11-20T23:09:53Z,1,00:35,19:25,0,0,13.0,Florida Panthers,FLA
+10,29,13,Columbus Blue Jackets,Florida Panthers,202202028911,2022020289,Hit,11,HIT,Marc Staal hit Gustav Nyquist,2022-11-20T23:10:02Z,1,00:44,19:16,0,0,13.0,Florida Panthers,FLA
+11,29,13,Columbus Blue Jackets,Florida Panthers,2022020289153,2022020289,Missed Shot,153,MISSED_SHOT,Sam Bennett Wide of Net Daniil Tarasov,2022-11-20T23:10:26Z,1,01:08,18:52,0,0,13.0,Florida Panthers,FLA
+12,29,13,Columbus Blue Jackets,Florida Panthers,2022020289154,2022020289,Shot,154,SHOT,Radko Gudas Wrist Shot saved by Daniil Tarasov,2022-11-20T23:10:44Z,1,01:26,18:34,0,0,13.0,Florida Panthers,FLA
+13,29,13,Columbus Blue Jackets,Florida Panthers,202202028912,2022020289,Hit,12,HIT,Erik Gudbranson hit Sam Bennett,2022-11-20T23:10:54Z,1,01:36,18:24,0,0,29.0,Columbus Blue Jackets,CBJ
+14,29,13,Columbus Blue Jackets,Florida Panthers,202202028913,2022020289,Stoppage,13,STOP,Puck in Netting,2022-11-20T23:11:03Z,1,01:45,18:15,0,0,,,
+15,29,13,Columbus Blue Jackets,Florida Panthers,2022020289155,2022020289,Blocked Shot,155,BLOCKED_SHOT,Sam Reinhart shot blocked shot by Jake Christiansen,2022-11-20T23:11:03Z,1,01:45,18:15,0,0,29.0,Columbus Blue Jackets,CBJ
+16,29,13,Columbus Blue Jackets,Florida Panthers,202202028954,2022020289,Faceoff,54,FACEOFF,Cole Sillinger faceoff won against Sam Reinhart,2022-11-20T23:11:35Z,1,01:45,18:15,0,0,29.0,Columbus Blue Jackets,CBJ
+17,29,13,Columbus Blue Jackets,Florida Panthers,2022020289156,2022020289,Blocked Shot,156,BLOCKED_SHOT,Gustav Forsling shot blocked shot by Yegor Chinakhov,2022-11-20T23:12:06Z,1,02:16,17:44,0,0,29.0,Columbus Blue Jackets,CBJ
+18,29,13,Columbus Blue Jackets,Florida Panthers,202202028914,2022020289,Stoppage,14,STOP,Puck in Netting,2022-11-20T23:12:24Z,1,02:34,17:26,0,0,,,
+19,29,13,Columbus Blue Jackets,Florida Panthers,2022020289157,2022020289,Blocked Shot,157,BLOCKED_SHOT,Patric Hornqvist shot blocked shot by Vladislav Gavrikov,2022-11-20T23:12:24Z,1,02:34,17:26,0,0,29.0,Columbus Blue Jackets,CBJ
+20,29,13,Columbus Blue Jackets,Florida Panthers,202202028955,2022020289,Faceoff,55,FACEOFF,Brendan Gaunce faceoff won against Eric Staal,2022-11-20T23:12:49Z,1,02:34,17:26,0,0,29.0,Columbus Blue Jackets,CBJ
+21,29,13,Columbus Blue Jackets,Florida Panthers,202202028915,2022020289,Hit,15,HIT,Marc Staal hit Emil Bemstrom,2022-11-20T23:12:53Z,1,02:38,17:22,0,0,13.0,Florida Panthers,FLA
+22,29,13,Columbus Blue Jackets,Florida Panthers,202202028956,2022020289,Takeaway,56,TAKEAWAY,Takeaway by Sean Kuraly,2022-11-20T23:13:35Z,1,03:20,16:40,0,0,29.0,Columbus Blue Jackets,CBJ
+23,29,13,Columbus Blue Jackets,Florida Panthers,2022020289158,2022020289,Missed Shot,158,MISSED_SHOT,Marcus Bjork Wide of Net Sergei Bobrovsky,2022-11-20T23:13:38Z,1,03:23,16:37,0,0,29.0,Columbus Blue Jackets,CBJ
+24,29,13,Columbus Blue Jackets,Florida Panthers,202202028957,2022020289,Takeaway,57,TAKEAWAY,Takeaway by Sean Kuraly,2022-11-20T23:13:54Z,1,03:39,16:21,0,0,29.0,Columbus Blue Jackets,CBJ
+25,29,13,Columbus Blue Jackets,Florida Panthers,202202028916,2022020289,Stoppage,16,STOP,Goalie Stopped,2022-11-20T23:13:56Z,1,03:42,16:18,0,0,,,
+26,29,13,Columbus Blue Jackets,Florida Panthers,2022020289159,2022020289,Shot,159,SHOT,Marcus Bjork Wrist Shot saved by Sergei Bobrovsky,2022-11-20T23:13:56Z,1,03:42,16:18,0,0,29.0,Columbus Blue Jackets,CBJ
+27,29,13,Columbus Blue Jackets,Florida Panthers,202202028958,2022020289,Faceoff,58,FACEOFF,Boone Jenner faceoff won against Sam Bennett,2022-11-20T23:14:26Z,1,03:42,16:18,0,0,29.0,Columbus Blue Jackets,CBJ
+28,29,13,Columbus Blue Jackets,Florida Panthers,2022020289160,2022020289,Missed Shot,160,MISSED_SHOT,Johnny Gaudreau Goalpost Sergei Bobrovsky,2022-11-20T23:14:30Z,1,03:46,16:14,0,0,29.0,Columbus Blue Jackets,CBJ
+29,29,13,Columbus Blue Jackets,Florida Panthers,202202028917,2022020289,Stoppage,17,STOP,Puck in Netting,2022-11-20T23:14:31Z,1,03:47,16:13,0,0,,,
+30,29,13,Columbus Blue Jackets,Florida Panthers,202202028959,2022020289,Faceoff,59,FACEOFF,Sam Bennett faceoff won against Boone Jenner,2022-11-20T23:14:48Z,1,03:47,16:13,0,0,13.0,Florida Panthers,FLA
+31,29,13,Columbus Blue Jackets,Florida Panthers,202202028919,2022020289,Hit,19,HIT,Eetu Luostarinen hit Andrew Peeke,2022-11-20T23:15:13Z,1,03:59,16:01,0,0,13.0,Florida Panthers,FLA
+32,29,13,Columbus Blue Jackets,Florida Panthers,202202028920,2022020289,Hit,20,HIT,Matthew Tkachuk hit Gavin Bayreuther,2022-11-20T23:15:26Z,1,04:12,15:48,0,0,13.0,Florida Panthers,FLA
+33,29,13,Columbus Blue Jackets,Florida Panthers,2022020289161,2022020289,Blocked Shot,161,BLOCKED_SHOT,Johnny Gaudreau shot blocked shot by Josh Mahura,2022-11-20T23:15:31Z,1,04:17,15:43,0,0,13.0,Florida Panthers,FLA
+34,29,13,Columbus Blue Jackets,Florida Panthers,202202028921,2022020289,Hit,21,HIT,Gustav Nyquist hit Radko Gudas,2022-11-20T23:15:44Z,1,04:30,15:30,0,0,29.0,Columbus Blue Jackets,CBJ
+35,29,13,Columbus Blue Jackets,Florida Panthers,202202028922,2022020289,Hit,22,HIT,Erik Gudbranson hit Anton Lundell,2022-11-20T23:15:59Z,1,04:45,15:15,0,0,29.0,Columbus Blue Jackets,CBJ
+36,29,13,Columbus Blue Jackets,Florida Panthers,2022020289162,2022020289,Shot,162,SHOT,Aaron Ekblad Slap Shot saved by Daniil Tarasov,2022-11-20T23:16:04Z,1,04:50,15:10,0,0,13.0,Florida Panthers,FLA
+37,29,13,Columbus Blue Jackets,Florida Panthers,202202028923,2022020289,Hit,23,HIT,Trey Fix-Wolansky hit Aaron Ekblad,2022-11-20T23:16:12Z,1,04:58,15:02,0,0,29.0,Columbus Blue Jackets,CBJ
+38,29,13,Columbus Blue Jackets,Florida Panthers,202202028924,2022020289,Hit,24,HIT,Ryan Lomberg hit Cole Sillinger,2022-11-20T23:16:42Z,1,05:28,14:32,0,0,13.0,Florida Panthers,FLA
+39,29,13,Columbus Blue Jackets,Florida Panthers,2022020289163,2022020289,Shot,163,SHOT,Patric Hornqvist Backhand saved by Daniil Tarasov,2022-11-20T23:16:45Z,1,05:31,14:29,0,0,13.0,Florida Panthers,FLA
+40,29,13,Columbus Blue Jackets,Florida Panthers,2022020289164,2022020289,Shot,164,SHOT,Brandon Montour Wrist Shot saved by Daniil Tarasov,2022-11-20T23:16:59Z,1,05:45,14:15,0,0,13.0,Florida Panthers,FLA
+41,29,13,Columbus Blue Jackets,Florida Panthers,202202028960,2022020289,Takeaway,60,TAKEAWAY,Takeaway by Brendan Gaunce,2022-11-20T23:17:26Z,1,06:12,13:48,0,0,29.0,Columbus Blue Jackets,CBJ
+42,29,13,Columbus Blue Jackets,Florida Panthers,2022020289165,2022020289,Shot,165,SHOT,Sean Kuraly Backhand saved by Sergei Bobrovsky,2022-11-20T23:17:57Z,1,06:43,13:17,0,0,29.0,Columbus Blue Jackets,CBJ
+43,29,13,Columbus Blue Jackets,Florida Panthers,2022020289166,2022020289,Shot,166,SHOT,Brandon Montour Slap Shot saved by Daniil Tarasov,2022-11-20T23:18:10Z,1,06:56,13:04,0,0,13.0,Florida Panthers,FLA
+44,29,13,Columbus Blue Jackets,Florida Panthers,2022020289167,2022020289,Shot,167,SHOT,Brandon Montour Wrist Shot saved by Daniil Tarasov,2022-11-20T23:18:18Z,1,07:04,12:56,0,0,13.0,Florida Panthers,FLA
+45,29,13,Columbus Blue Jackets,Florida Panthers,202202028926,2022020289,Stoppage,26,STOP,Icing,2022-11-20T23:18:28Z,1,07:14,12:46,0,0,,,
+46,29,13,Columbus Blue Jackets,Florida Panthers,202202028961,2022020289,Faceoff,61,FACEOFF,Sean Kuraly faceoff won against Sam Bennett,2022-11-20T23:18:49Z,1,07:14,12:46,0,0,29.0,Columbus Blue Jackets,CBJ
+47,29,13,Columbus Blue Jackets,Florida Panthers,202202028927,2022020289,Stoppage,27,STOP,Offside,2022-11-20T23:19:01Z,1,07:25,12:35,0,0,,,
+48,29,13,Columbus Blue Jackets,Florida Panthers,202202028962,2022020289,Faceoff,62,FACEOFF,Boone Jenner faceoff won against Sam Bennett,2022-11-20T23:21:15Z,1,07:25,12:35,0,0,29.0,Columbus Blue Jackets,CBJ
+49,29,13,Columbus Blue Jackets,Florida Panthers,202202028928,2022020289,Hit,28,HIT,Gustav Forsling hit Gustav Nyquist,2022-11-20T23:21:29Z,1,07:39,12:21,0,0,13.0,Florida Panthers,FLA
+50,29,13,Columbus Blue Jackets,Florida Panthers,2022020289168,2022020289,Goal,168,GOAL,"Matthew Tkachuk (8) Tip-In, assists: Gustav Forsling (10)",2022-11-20T23:21:42Z,1,07:52,12:08,0,1,13.0,Florida Panthers,FLA
+51,29,13,Columbus Blue Jackets,Florida Panthers,202202028963,2022020289,Faceoff,63,FACEOFF,Cole Sillinger faceoff won against Anton Lundell,2022-11-20T23:22:23Z,1,07:52,12:08,0,1,29.0,Columbus Blue Jackets,CBJ
+52,29,13,Columbus Blue Jackets,Florida Panthers,2022020289169,2022020289,Missed Shot,169,MISSED_SHOT,Anton Lundell Goalpost Daniil Tarasov,2022-11-20T23:23:00Z,1,08:29,11:31,0,1,13.0,Florida Panthers,FLA
+53,29,13,Columbus Blue Jackets,Florida Panthers,2022020289170,2022020289,Blocked Shot,170,BLOCKED_SHOT,Marc Staal shot blocked shot by Gavin Bayreuther,2022-11-20T23:23:07Z,1,08:36,11:24,0,1,29.0,Columbus Blue Jackets,CBJ
+54,29,13,Columbus Blue Jackets,Florida Panthers,202202028930,2022020289,Stoppage,30,STOP,Offside,2022-11-20T23:23:40Z,1,09:10,10:50,0,1,,,
+55,29,13,Columbus Blue Jackets,Florida Panthers,202202028964,2022020289,Faceoff,64,FACEOFF,Sean Kuraly faceoff won against Aleksander Barkov,2022-11-20T23:24:06Z,1,09:10,10:50,0,1,29.0,Columbus Blue Jackets,CBJ
+56,29,13,Columbus Blue Jackets,Florida Panthers,2022020289171,2022020289,Blocked Shot,171,BLOCKED_SHOT,Josh Mahura shot blocked shot by Sean Kuraly,2022-11-20T23:24:25Z,1,09:29,10:31,0,1,29.0,Columbus Blue Jackets,CBJ
+57,29,13,Columbus Blue Jackets,Florida Panthers,202202028931,2022020289,Hit,31,HIT,Sean Kuraly hit Aleksander Barkov,2022-11-20T23:24:29Z,1,09:33,10:27,0,1,29.0,Columbus Blue Jackets,CBJ
+58,29,13,Columbus Blue Jackets,Florida Panthers,202202028932,2022020289,Stoppage,32,STOP,Icing,2022-11-20T23:24:49Z,1,09:54,10:06,0,1,,,
+59,29,13,Columbus Blue Jackets,Florida Panthers,202202028965,2022020289,Faceoff,65,FACEOFF,Nick Cousins faceoff won against Sean Kuraly,2022-11-20T23:25:19Z,1,09:54,10:06,0,1,13.0,Florida Panthers,FLA
+60,29,13,Columbus Blue Jackets,Florida Panthers,202202028933,2022020289,Hit,33,HIT,Sean Kuraly hit Nick Cousins,2022-11-20T23:25:29Z,1,10:04,09:56,0,1,29.0,Columbus Blue Jackets,CBJ
+61,29,13,Columbus Blue Jackets,Florida Panthers,2022020289172,2022020289,Shot,172,SHOT,Nick Cousins Wrist Shot saved by Daniil Tarasov,2022-11-20T23:25:36Z,1,10:11,09:49,0,1,13.0,Florida Panthers,FLA
+62,29,13,Columbus Blue Jackets,Florida Panthers,202202028934,2022020289,Stoppage,34,STOP,Goalie Stopped,2022-11-20T23:25:37Z,1,10:12,09:48,0,1,,,
+63,29,13,Columbus Blue Jackets,Florida Panthers,202202028966,2022020289,Faceoff,66,FACEOFF,Sam Bennett faceoff won against Boone Jenner,2022-11-20T23:27:51Z,1,10:12,09:48,0,1,13.0,Florida Panthers,FLA
+64,29,13,Columbus Blue Jackets,Florida Panthers,2022020289173,2022020289,Shot,173,SHOT,Aaron Ekblad Wrist Shot saved by Daniil Tarasov,2022-11-20T23:27:55Z,1,10:16,09:44,0,1,13.0,Florida Panthers,FLA
+65,29,13,Columbus Blue Jackets,Florida Panthers,202202028935,2022020289,Stoppage,35,STOP,Icing,2022-11-20T23:28:15Z,1,10:36,09:24,0,1,,,
+66,29,13,Columbus Blue Jackets,Florida Panthers,202202028967,2022020289,Faceoff,67,FACEOFF,Boone Jenner faceoff won against Sam Bennett,2022-11-20T23:28:40Z,1,10:36,09:24,0,1,29.0,Columbus Blue Jackets,CBJ
+67,29,13,Columbus Blue Jackets,Florida Panthers,2022020289174,2022020289,Blocked Shot,174,BLOCKED_SHOT,Eetu Luostarinen shot blocked shot by Jake Christiansen,2022-11-20T23:28:59Z,1,10:55,09:05,0,1,29.0,Columbus Blue Jackets,CBJ
+68,29,13,Columbus Blue Jackets,Florida Panthers,2022020289175,2022020289,Shot,175,SHOT,Aaron Ekblad Snap Shot saved by Daniil Tarasov,2022-11-20T23:29:01Z,1,10:57,09:03,0,1,13.0,Florida Panthers,FLA
+69,29,13,Columbus Blue Jackets,Florida Panthers,202202028936,2022020289,Stoppage,36,STOP,Puck in Netting,2022-11-20T23:29:02Z,1,10:58,09:02,0,1,,,
+70,29,13,Columbus Blue Jackets,Florida Panthers,202202028968,2022020289,Faceoff,68,FACEOFF,Sam Reinhart faceoff won against Cole Sillinger,2022-11-20T23:29:32Z,1,10:58,09:02,0,1,13.0,Florida Panthers,FLA
+71,29,13,Columbus Blue Jackets,Florida Panthers,202202028969,2022020289,Takeaway,69,TAKEAWAY,Takeaway by Yegor Chinakhov,2022-11-20T23:29:51Z,1,11:17,08:43,0,1,29.0,Columbus Blue Jackets,CBJ
+72,29,13,Columbus Blue Jackets,Florida Panthers,2022020289176,2022020289,Goal,176,GOAL,"Yegor Chinakhov (3) Wrist Shot, assists: none",2022-11-20T23:29:55Z,1,11:21,08:39,1,1,29.0,Columbus Blue Jackets,CBJ
+73,29,13,Columbus Blue Jackets,Florida Panthers,202202028970,2022020289,Faceoff,70,FACEOFF,Sean Kuraly faceoff won against Aleksander Barkov,2022-11-20T23:30:37Z,1,11:21,08:39,1,1,29.0,Columbus Blue Jackets,CBJ
+74,29,13,Columbus Blue Jackets,Florida Panthers,202202028937,2022020289,Hit,37,HIT,Mathieu Olivier hit Radko Gudas,2022-11-20T23:31:18Z,1,12:02,07:58,1,1,29.0,Columbus Blue Jackets,CBJ
+75,29,13,Columbus Blue Jackets,Florida Panthers,202202028938,2022020289,Penalty,38,PENALTY,Marcus Bjork Holding against Carter Verhaeghe,2022-11-20T23:31:20Z,1,12:04,07:56,1,1,29.0,Columbus Blue Jackets,CBJ
+76,29,13,Columbus Blue Jackets,Florida Panthers,202202028972,2022020289,Faceoff,72,FACEOFF,Boone Jenner faceoff won against Aleksander Barkov,2022-11-20T23:32:00Z,1,12:04,07:56,1,1,29.0,Columbus Blue Jackets,CBJ
+77,29,13,Columbus Blue Jackets,Florida Panthers,2022020289177,2022020289,Missed Shot,177,MISSED_SHOT,Matthew Tkachuk Wide of Net Daniil Tarasov,2022-11-20T23:32:22Z,1,12:26,07:34,1,1,13.0,Florida Panthers,FLA
+78,29,13,Columbus Blue Jackets,Florida Panthers,2022020289178,2022020289,Blocked Shot,178,BLOCKED_SHOT,Aaron Ekblad shot blocked shot by Vladislav Gavrikov,2022-11-20T23:33:10Z,1,13:14,06:46,1,1,29.0,Columbus Blue Jackets,CBJ
+79,29,13,Columbus Blue Jackets,Florida Panthers,202202028941,2022020289,Hit,41,HIT,Erik Gudbranson hit Sam Bennett,2022-11-20T23:33:48Z,1,13:52,06:08,1,1,29.0,Columbus Blue Jackets,CBJ
+80,29,13,Columbus Blue Jackets,Florida Panthers,2022020289179,2022020289,Shot,179,SHOT,Sam Bennett Wrist Shot saved by Daniil Tarasov,2022-11-20T23:33:48Z,1,13:52,06:08,1,1,13.0,Florida Panthers,FLA
+81,29,13,Columbus Blue Jackets,Florida Panthers,202202028942,2022020289,Stoppage,42,STOP,High Stick,2022-11-20T23:33:58Z,1,14:02,05:58,1,1,,,
+82,29,13,Columbus Blue Jackets,Florida Panthers,202202028973,2022020289,Faceoff,73,FACEOFF,Boone Jenner faceoff won against Eric Staal,2022-11-20T23:34:30Z,1,14:02,05:58,1,1,29.0,Columbus Blue Jackets,CBJ
+83,29,13,Columbus Blue Jackets,Florida Panthers,2022020289180,2022020289,Blocked Shot,180,BLOCKED_SHOT,Vladislav Gavrikov shot blocked shot by Nick Cousins,2022-11-20T23:34:36Z,1,14:08,05:52,1,1,13.0,Florida Panthers,FLA
+84,29,13,Columbus Blue Jackets,Florida Panthers,2022020289181,2022020289,Blocked Shot,181,BLOCKED_SHOT,Aaron Ekblad shot blocked shot by Erik Gudbranson,2022-11-20T23:35:43Z,1,15:15,04:45,1,1,29.0,Columbus Blue Jackets,CBJ
+85,29,13,Columbus Blue Jackets,Florida Panthers,2022020289182,2022020289,Missed Shot,182,MISSED_SHOT,Aaron Ekblad Over Net Daniil Tarasov,2022-11-20T23:35:54Z,1,15:26,04:34,1,1,13.0,Florida Panthers,FLA
+86,29,13,Columbus Blue Jackets,Florida Panthers,202202028943,2022020289,Stoppage,43,STOP,Goalie Stopped,2022-11-20T23:36:05Z,1,15:37,04:23,1,1,,,
+87,29,13,Columbus Blue Jackets,Florida Panthers,2022020289183,2022020289,Shot,183,SHOT,Cole Sillinger Wrist Shot saved by Sergei Bobrovsky,2022-11-20T23:36:05Z,1,15:37,04:23,1,1,29.0,Columbus Blue Jackets,CBJ
+88,29,13,Columbus Blue Jackets,Florida Panthers,202202028974,2022020289,Faceoff,74,FACEOFF,Sam Bennett faceoff won against Boone Jenner,2022-11-20T23:38:29Z,1,15:37,04:23,1,1,13.0,Florida Panthers,FLA
+89,29,13,Columbus Blue Jackets,Florida Panthers,202202028944,2022020289,Stoppage,44,STOP,Goalie Stopped,2022-11-20T23:38:40Z,1,15:48,04:12,1,1,,,
+90,29,13,Columbus Blue Jackets,Florida Panthers,2022020289184,2022020289,Shot,184,SHOT,Sam Bennett Wrist Shot saved by Daniil Tarasov,2022-11-20T23:38:40Z,1,15:48,04:12,1,1,13.0,Florida Panthers,FLA
+91,29,13,Columbus Blue Jackets,Florida Panthers,202202028975,2022020289,Faceoff,75,FACEOFF,Boone Jenner faceoff won against Sam Bennett,2022-11-20T23:39:00Z,1,15:48,04:12,1,1,29.0,Columbus Blue Jackets,CBJ
+92,29,13,Columbus Blue Jackets,Florida Panthers,2022020289185,2022020289,Missed Shot,185,MISSED_SHOT,Matthew Tkachuk Goalpost Daniil Tarasov,2022-11-20T23:39:09Z,1,15:57,04:03,1,1,13.0,Florida Panthers,FLA
+93,29,13,Columbus Blue Jackets,Florida Panthers,2022020289186,2022020289,Shot,186,SHOT,Brandon Montour Snap Shot saved by Daniil Tarasov,2022-11-20T23:39:34Z,1,16:22,03:38,1,1,13.0,Florida Panthers,FLA
+94,29,13,Columbus Blue Jackets,Florida Panthers,2022020289187,2022020289,Missed Shot,187,MISSED_SHOT,Boone Jenner Wide of Net Sergei Bobrovsky,2022-11-20T23:39:44Z,1,16:32,03:28,1,1,29.0,Columbus Blue Jackets,CBJ
+95,29,13,Columbus Blue Jackets,Florida Panthers,202202028976,2022020289,Giveaway,76,GIVEAWAY,Giveaway by Boone Jenner,2022-11-20T23:39:48Z,1,16:36,03:24,1,1,29.0,Columbus Blue Jackets,CBJ
+96,29,13,Columbus Blue Jackets,Florida Panthers,202202028945,2022020289,Stoppage,45,STOP,Offside,2022-11-20T23:40:25Z,1,17:14,02:46,1,1,,,
+97,29,13,Columbus Blue Jackets,Florida Panthers,202202028977,2022020289,Faceoff,77,FACEOFF,Anton Lundell faceoff won against Cole Sillinger,2022-11-20T23:40:48Z,1,17:14,02:46,1,1,13.0,Florida Panthers,FLA
+98,29,13,Columbus Blue Jackets,Florida Panthers,202202028946,2022020289,Stoppage,46,STOP,Puck in Netting,2022-11-20T23:41:09Z,1,17:35,02:25,1,1,,,
+99,29,13,Columbus Blue Jackets,Florida Panthers,2022020289188,2022020289,Missed Shot,188,MISSED_SHOT,Yegor Chinakhov Goalpost Sergei Bobrovsky,2022-11-20T23:41:09Z,1,17:35,02:25,1,1,29.0,Columbus Blue Jackets,CBJ
+100,29,13,Columbus Blue Jackets,Florida Panthers,202202028978,2022020289,Faceoff,78,FACEOFF,Eric Staal faceoff won against Brendan Gaunce,2022-11-20T23:41:36Z,1,17:35,02:25,1,1,13.0,Florida Panthers,FLA
+101,29,13,Columbus Blue Jackets,Florida Panthers,202202028947,2022020289,Hit,47,HIT,Erik Gudbranson hit Patric Hornqvist,2022-11-20T23:41:57Z,1,17:56,02:04,1,1,29.0,Columbus Blue Jackets,CBJ
+102,29,13,Columbus Blue Jackets,Florida Panthers,202202028948,2022020289,Stoppage,48,STOP,Goalie Stopped,2022-11-20T23:41:58Z,1,17:57,02:03,1,1,,,
+103,29,13,Columbus Blue Jackets,Florida Panthers,202202028949,2022020289,Penalty,49,PENALTY,Erik Gudbranson Roughing against Nick Cousins,2022-11-20T23:41:58Z,1,17:57,02:03,1,1,29.0,Columbus Blue Jackets,CBJ
+104,29,13,Columbus Blue Jackets,Florida Panthers,2022020289189,2022020289,Shot,189,SHOT,Eric Staal Wrist Shot saved by Daniil Tarasov,2022-11-20T23:41:58Z,1,17:57,02:03,1,1,13.0,Florida Panthers,FLA
+105,29,13,Columbus Blue Jackets,Florida Panthers,202202028979,2022020289,Faceoff,79,FACEOFF,Aleksander Barkov faceoff won against Sean Kuraly,2022-11-20T23:42:56Z,1,17:57,02:03,1,1,13.0,Florida Panthers,FLA
+106,29,13,Columbus Blue Jackets,Florida Panthers,2022020289190,2022020289,Missed Shot,190,MISSED_SHOT,Aaron Ekblad Wide of Net Daniil Tarasov,2022-11-20T23:43:25Z,1,18:26,01:34,1,1,13.0,Florida Panthers,FLA
+107,29,13,Columbus Blue Jackets,Florida Panthers,2022020289191,2022020289,Blocked Shot,191,BLOCKED_SHOT,Aaron Ekblad shot blocked shot by Eric Robinson,2022-11-20T23:43:36Z,1,18:37,01:23,1,1,29.0,Columbus Blue Jackets,CBJ
+108,29,13,Columbus Blue Jackets,Florida Panthers,2022020289192,2022020289,Shot,192,SHOT,Aleksander Barkov Snap Shot saved by Daniil Tarasov,2022-11-20T23:43:45Z,1,18:46,01:14,1,1,13.0,Florida Panthers,FLA
+109,29,13,Columbus Blue Jackets,Florida Panthers,2022020289193,2022020289,Shot,193,SHOT,Aaron Ekblad Slap Shot saved by Daniil Tarasov,2022-11-20T23:43:52Z,1,18:53,01:07,1,1,13.0,Florida Panthers,FLA
+110,29,13,Columbus Blue Jackets,Florida Panthers,2022020289194,2022020289,Blocked Shot,194,BLOCKED_SHOT,Aaron Ekblad shot blocked shot by Vladislav Gavrikov,2022-11-20T23:44:04Z,1,19:05,00:55,1,1,29.0,Columbus Blue Jackets,CBJ
+111,29,13,Columbus Blue Jackets,Florida Panthers,2022020289253,2022020289,Stoppage,253,STOP,Offside,2022-11-20T23:44:15Z,1,19:15,00:45,1,1,,,
+112,29,13,Columbus Blue Jackets,Florida Panthers,202202028980,2022020289,Faceoff,80,FACEOFF,Sam Bennett faceoff won against Boone Jenner,2022-11-20T23:44:44Z,1,19:15,00:45,1,1,13.0,Florida Panthers,FLA
+113,29,13,Columbus Blue Jackets,Florida Panthers,2022020289254,2022020289,Stoppage,254,STOP,Puck in Crowd,2022-11-20T23:44:56Z,1,19:27,00:33,1,1,,,
+114,29,13,Columbus Blue Jackets,Florida Panthers,202202028981,2022020289,Faceoff,81,FACEOFF,Boone Jenner faceoff won against Sam Bennett,2022-11-20T23:45:24Z,1,19:27,00:33,1,1,29.0,Columbus Blue Jackets,CBJ
+115,29,13,Columbus Blue Jackets,Florida Panthers,2022020289195,2022020289,Blocked Shot,195,BLOCKED_SHOT,Sam Bennett shot blocked shot by Vladislav Gavrikov,2022-11-20T23:45:38Z,1,19:42,00:18,1,1,29.0,Columbus Blue Jackets,CBJ
+116,29,13,Columbus Blue Jackets,Florida Panthers,2022020289255,2022020289,Period End,255,PERIOD_END,End of 1st Period,2022-11-20T23:45:56Z,1,20:00,00:00,1,1,,,
+117,29,13,Columbus Blue Jackets,Florida Panthers,2022020289259,2022020289,Period Official,259,PERIOD_OFFICIAL,Period Official,2022-11-20T23:54:48Z,1,20:00,00:00,1,1,,,
+118,29,13,Columbus Blue Jackets,Florida Panthers,2022020289260,2022020289,Period Ready,260,PERIOD_READY,Period Ready,2022-11-21T00:03:09Z,2,00:00,20:00,1,1,,,
+119,29,13,Columbus Blue Jackets,Florida Panthers,202202028982,2022020289,Period Start,82,PERIOD_START,Period Start,2022-11-21T00:04:38Z,2,00:00,20:00,1,1,,,
+120,29,13,Columbus Blue Jackets,Florida Panthers,202202028983,2022020289,Faceoff,83,FACEOFF,Aleksander Barkov faceoff won against Sean Kuraly,2022-11-21T00:04:38Z,2,00:00,20:00,1,1,13.0,Florida Panthers,FLA
+121,29,13,Columbus Blue Jackets,Florida Panthers,2022020289261,2022020289,Stoppage,261,STOP,Puck in Netting,2022-11-21T00:04:59Z,2,00:21,19:39,1,1,,,
+122,29,13,Columbus Blue Jackets,Florida Panthers,202202028984,2022020289,Faceoff,84,FACEOFF,Boone Jenner faceoff won against Sam Bennett,2022-11-21T00:05:25Z,2,00:21,19:39,1,1,29.0,Columbus Blue Jackets,CBJ
+123,29,13,Columbus Blue Jackets,Florida Panthers,2022020289196,2022020289,Blocked Shot,196,BLOCKED_SHOT,Matthew Tkachuk shot blocked shot by Boone Jenner,2022-11-21T00:05:41Z,2,00:37,19:23,1,1,29.0,Columbus Blue Jackets,CBJ
+124,29,13,Columbus Blue Jackets,Florida Panthers,2022020289262,2022020289,Stoppage,262,STOP,Puck in Netting,2022-11-21T00:05:41Z,2,00:37,19:23,1,1,,,
+125,29,13,Columbus Blue Jackets,Florida Panthers,202202028985,2022020289,Faceoff,85,FACEOFF,Boone Jenner faceoff won against Eetu Luostarinen,2022-11-21T00:06:10Z,2,00:37,19:23,1,1,29.0,Columbus Blue Jackets,CBJ
+126,29,13,Columbus Blue Jackets,Florida Panthers,2022020289263,2022020289,Stoppage,263,STOP,Puck in Netting,2022-11-21T00:06:33Z,2,01:00,19:00,1,1,,,
+127,29,13,Columbus Blue Jackets,Florida Panthers,202202028986,2022020289,Faceoff,86,FACEOFF,Sam Reinhart faceoff won against Cole Sillinger,2022-11-21T00:07:01Z,2,01:00,19:00,1,1,13.0,Florida Panthers,FLA
+128,29,13,Columbus Blue Jackets,Florida Panthers,2022020289264,2022020289,Hit,264,HIT,Gavin Bayreuther hit Ryan Lomberg,2022-11-21T00:07:05Z,2,01:04,18:56,1,1,29.0,Columbus Blue Jackets,CBJ
+129,29,13,Columbus Blue Jackets,Florida Panthers,2022020289197,2022020289,Shot,197,SHOT,Josh Mahura Wrist Shot saved by Daniil Tarasov,2022-11-21T00:07:10Z,2,01:09,18:51,1,1,13.0,Florida Panthers,FLA
+130,29,13,Columbus Blue Jackets,Florida Panthers,2022020289198,2022020289,Missed Shot,198,MISSED_SHOT,Ryan Lomberg Wide of Net Daniil Tarasov,2022-11-21T00:07:42Z,2,01:41,18:19,1,1,13.0,Florida Panthers,FLA
+131,29,13,Columbus Blue Jackets,Florida Panthers,2022020289266,2022020289,Penalty,266,PENALTY,Radko Gudas Tripping against Yegor Chinakhov,2022-11-21T00:07:51Z,2,01:49,18:11,1,1,13.0,Florida Panthers,FLA
+132,29,13,Columbus Blue Jackets,Florida Panthers,202202028987,2022020289,Faceoff,87,FACEOFF,Eric Staal faceoff won against Boone Jenner,2022-11-21T00:08:27Z,2,01:49,18:11,1,1,13.0,Florida Panthers,FLA
+133,29,13,Columbus Blue Jackets,Florida Panthers,2022020289199,2022020289,Shot,199,SHOT,Marcus Bjork Snap Shot saved by Sergei Bobrovsky,2022-11-21T00:09:06Z,2,02:28,17:32,1,1,29.0,Columbus Blue Jackets,CBJ
+134,29,13,Columbus Blue Jackets,Florida Panthers,2022020289200,2022020289,Goal,200,GOAL,"Kent Johnson (4) Wrist Shot, assists: Johnny Gaudreau (10), Marcus Bjork (2)",2022-11-21T00:09:31Z,2,02:53,17:07,2,1,29.0,Columbus Blue Jackets,CBJ
+135,29,13,Columbus Blue Jackets,Florida Panthers,202202028988,2022020289,Faceoff,88,FACEOFF,Aleksander Barkov faceoff won against Sean Kuraly,2022-11-21T00:10:12Z,2,02:53,17:07,2,1,13.0,Florida Panthers,FLA
+136,29,13,Columbus Blue Jackets,Florida Panthers,2022020289269,2022020289,Stoppage,269,STOP,Puck in Netting,2022-11-21T00:10:38Z,2,03:18,16:42,2,1,,,
+137,29,13,Columbus Blue Jackets,Florida Panthers,2022020289351,2022020289,Shot,351,SHOT,Mathieu Olivier Wrist Shot saved by Sergei Bobrovsky,2022-11-21T00:10:38Z,2,03:18,16:42,2,1,29.0,Columbus Blue Jackets,CBJ
+138,29,13,Columbus Blue Jackets,Florida Panthers,202202028989,2022020289,Faceoff,89,FACEOFF,Boone Jenner faceoff won against Sam Bennett,2022-11-21T00:11:09Z,2,03:18,16:42,2,1,29.0,Columbus Blue Jackets,CBJ
+139,29,13,Columbus Blue Jackets,Florida Panthers,2022020289352,2022020289,Blocked Shot,352,BLOCKED_SHOT,Andrew Peeke shot blocked shot by Eetu Luostarinen,2022-11-21T00:11:16Z,2,03:25,16:35,2,1,13.0,Florida Panthers,FLA
+140,29,13,Columbus Blue Jackets,Florida Panthers,202202028990,2022020289,Giveaway,90,GIVEAWAY,Giveaway by Josh Mahura,2022-11-21T00:11:21Z,2,03:30,16:30,2,1,13.0,Florida Panthers,FLA
+141,29,13,Columbus Blue Jackets,Florida Panthers,2022020289270,2022020289,Stoppage,270,STOP,Puck Frozen,2022-11-21T00:11:35Z,2,03:44,16:16,2,1,,,
+142,29,13,Columbus Blue Jackets,Florida Panthers,202202028991,2022020289,Faceoff,91,FACEOFF,Cole Sillinger faceoff won against Anton Lundell,2022-11-21T00:12:03Z,2,03:44,16:16,2,1,29.0,Columbus Blue Jackets,CBJ
+143,29,13,Columbus Blue Jackets,Florida Panthers,2022020289353,2022020289,Missed Shot,353,MISSED_SHOT,Erik Gudbranson Over Net Sergei Bobrovsky,2022-11-21T00:12:09Z,2,03:50,16:10,2,1,29.0,Columbus Blue Jackets,CBJ
+144,29,13,Columbus Blue Jackets,Florida Panthers,2022020289271,2022020289,Stoppage,271,STOP,Puck in Netting,2022-11-21T00:12:09Z,2,03:51,16:09,2,1,,,
+145,29,13,Columbus Blue Jackets,Florida Panthers,202202028992,2022020289,Faceoff,92,FACEOFF,Anton Lundell faceoff won against Cole Sillinger,2022-11-21T00:12:27Z,2,03:51,16:09,2,1,13.0,Florida Panthers,FLA
+146,29,13,Columbus Blue Jackets,Florida Panthers,2022020289272,2022020289,Stoppage,272,STOP,Icing,2022-11-21T00:12:33Z,2,03:57,16:03,2,1,,,
+147,29,13,Columbus Blue Jackets,Florida Panthers,202202028993,2022020289,Faceoff,93,FACEOFF,Anton Lundell faceoff won against Cole Sillinger,2022-11-21T00:12:54Z,2,03:57,16:03,2,1,13.0,Florida Panthers,FLA
+148,29,13,Columbus Blue Jackets,Florida Panthers,2022020289273,2022020289,Hit,273,HIT,Ryan Lomberg hit Jake Christiansen,2022-11-21T00:13:10Z,2,04:13,15:47,2,1,13.0,Florida Panthers,FLA
+149,29,13,Columbus Blue Jackets,Florida Panthers,2022020289274,2022020289,Hit,274,HIT,Erik Gudbranson hit Sam Reinhart,2022-11-21T00:13:33Z,2,04:36,15:24,2,1,29.0,Columbus Blue Jackets,CBJ
+150,29,13,Columbus Blue Jackets,Florida Panthers,2022020289354,2022020289,Shot,354,SHOT,Gustav Forsling Slap Shot saved by Daniil Tarasov,2022-11-21T00:13:36Z,2,04:39,15:21,2,1,13.0,Florida Panthers,FLA
+151,29,13,Columbus Blue Jackets,Florida Panthers,2022020289355,2022020289,Shot,355,SHOT,Trey Fix-Wolansky Snap Shot saved by Sergei Bobrovsky,2022-11-21T00:13:52Z,2,04:55,15:05,2,1,29.0,Columbus Blue Jackets,CBJ
+152,29,13,Columbus Blue Jackets,Florida Panthers,2022020289275,2022020289,Stoppage,275,STOP,Icing,2022-11-21T00:14:20Z,2,05:23,14:37,2,1,,,
+153,29,13,Columbus Blue Jackets,Florida Panthers,202202028994,2022020289,Faceoff,94,FACEOFF,Eric Staal faceoff won against Gustav Nyquist,2022-11-21T00:14:58Z,2,05:23,14:37,2,1,13.0,Florida Panthers,FLA
+154,29,13,Columbus Blue Jackets,Florida Panthers,2022020289356,2022020289,Shot,356,SHOT,Johnny Gaudreau Tip-In saved by Sergei Bobrovsky,2022-11-21T00:15:11Z,2,05:36,14:24,2,1,29.0,Columbus Blue Jackets,CBJ
+155,29,13,Columbus Blue Jackets,Florida Panthers,2022020289276,2022020289,Stoppage,276,STOP,Goalie Stopped,2022-11-21T00:15:13Z,2,05:37,14:23,2,1,,,
+156,29,13,Columbus Blue Jackets,Florida Panthers,202202028995,2022020289,Faceoff,95,FACEOFF,Sam Bennett faceoff won against Boone Jenner,2022-11-21T00:15:44Z,2,05:37,14:23,2,1,13.0,Florida Panthers,FLA
+157,29,13,Columbus Blue Jackets,Florida Panthers,2022020289277,2022020289,Stoppage,277,STOP,Goalie Stopped,2022-11-21T00:15:54Z,2,05:47,14:13,2,1,,,
+158,29,13,Columbus Blue Jackets,Florida Panthers,2022020289357,2022020289,Shot,357,SHOT,Josh Mahura Slap Shot saved by Daniil Tarasov,2022-11-21T00:15:54Z,2,05:47,14:13,2,1,13.0,Florida Panthers,FLA
+159,29,13,Columbus Blue Jackets,Florida Panthers,202202028996,2022020289,Faceoff,96,FACEOFF,Sam Bennett faceoff won against Boone Jenner,2022-11-21T00:16:19Z,2,05:47,14:13,2,1,13.0,Florida Panthers,FLA
+160,29,13,Columbus Blue Jackets,Florida Panthers,2022020289358,2022020289,Shot,358,SHOT,Boone Jenner Wrist Shot saved by Sergei Bobrovsky,2022-11-21T00:16:36Z,2,06:04,13:56,2,1,29.0,Columbus Blue Jackets,CBJ
+161,29,13,Columbus Blue Jackets,Florida Panthers,2022020289278,2022020289,Hit,278,HIT,Johnny Gaudreau hit Radko Gudas,2022-11-21T00:16:50Z,2,06:18,13:42,2,1,29.0,Columbus Blue Jackets,CBJ
+162,29,13,Columbus Blue Jackets,Florida Panthers,2022020289279,2022020289,Stoppage,279,STOP,Goalie Stopped,2022-11-21T00:17:07Z,2,06:35,13:25,2,1,,,
+163,29,13,Columbus Blue Jackets,Florida Panthers,2022020289359,2022020289,Shot,359,SHOT,Johnny Gaudreau Snap Shot saved by Sergei Bobrovsky,2022-11-21T00:17:07Z,2,06:35,13:25,2,1,29.0,Columbus Blue Jackets,CBJ
+164,29,13,Columbus Blue Jackets,Florida Panthers,202202028998,2022020289,Faceoff,98,FACEOFF,Sean Kuraly faceoff won against Aleksander Barkov,2022-11-21T00:19:25Z,2,06:35,13:25,2,1,29.0,Columbus Blue Jackets,CBJ
+165,29,13,Columbus Blue Jackets,Florida Panthers,2022020289280,2022020289,Hit,280,HIT,Sean Kuraly hit Aaron Ekblad,2022-11-21T00:19:33Z,2,06:43,13:17,2,1,29.0,Columbus Blue Jackets,CBJ
+166,29,13,Columbus Blue Jackets,Florida Panthers,202202028999,2022020289,Giveaway,99,GIVEAWAY,Giveaway by Trey Fix-Wolansky,2022-11-21T00:20:43Z,2,07:53,12:07,2,1,29.0,Columbus Blue Jackets,CBJ
+167,29,13,Columbus Blue Jackets,Florida Panthers,2022020289360,2022020289,Missed Shot,360,MISSED_SHOT,Brandon Montour Wide of Net Daniil Tarasov,2022-11-21T00:20:47Z,2,07:57,12:03,2,1,13.0,Florida Panthers,FLA
+168,29,13,Columbus Blue Jackets,Florida Panthers,2022020289361,2022020289,Shot,361,SHOT,Matthew Tkachuk Wrist Shot saved by Daniil Tarasov,2022-11-21T00:21:05Z,2,08:15,11:45,2,1,13.0,Florida Panthers,FLA
+169,29,13,Columbus Blue Jackets,Florida Panthers,2022020289362,2022020289,Shot,362,SHOT,Eetu Luostarinen Wrist Shot saved by Daniil Tarasov,2022-11-21T00:21:35Z,2,08:45,11:15,2,1,13.0,Florida Panthers,FLA
+170,29,13,Columbus Blue Jackets,Florida Panthers,2022020289363,2022020289,Blocked Shot,363,BLOCKED_SHOT,Radko Gudas shot blocked shot by Trey Fix-Wolansky,2022-11-21T00:21:41Z,2,08:51,11:09,2,1,29.0,Columbus Blue Jackets,CBJ
+171,29,13,Columbus Blue Jackets,Florida Panthers,2022020289281,2022020289,Stoppage,281,STOP,Icing,2022-11-21T00:21:46Z,2,08:56,11:04,2,1,,,
+172,29,13,Columbus Blue Jackets,Florida Panthers,2022020289401,2022020289,Faceoff,401,FACEOFF,Cole Sillinger faceoff won against Anton Lundell,2022-11-21T00:22:05Z,2,08:56,11:04,2,1,29.0,Columbus Blue Jackets,CBJ
+173,29,13,Columbus Blue Jackets,Florida Panthers,2022020289282,2022020289,Stoppage,282,STOP,Icing,2022-11-21T00:22:11Z,2,09:03,10:57,2,1,,,
+174,29,13,Columbus Blue Jackets,Florida Panthers,2022020289402,2022020289,Faceoff,402,FACEOFF,Anton Lundell faceoff won against Cole Sillinger,2022-11-21T00:22:32Z,2,09:03,10:57,2,1,13.0,Florida Panthers,FLA
+175,29,13,Columbus Blue Jackets,Florida Panthers,2022020289403,2022020289,Takeaway,403,TAKEAWAY,Takeaway by Eetu Luostarinen,2022-11-21T00:22:39Z,2,09:10,10:50,2,1,13.0,Florida Panthers,FLA
+176,29,13,Columbus Blue Jackets,Florida Panthers,2022020289283,2022020289,Hit,283,HIT,Cole Sillinger hit Eetu Luostarinen,2022-11-21T00:22:42Z,2,09:13,10:47,2,1,29.0,Columbus Blue Jackets,CBJ
+177,29,13,Columbus Blue Jackets,Florida Panthers,2022020289364,2022020289,Missed Shot,364,MISSED_SHOT,Kent Johnson Over Net Sergei Bobrovsky,2022-11-21T00:22:52Z,2,09:23,10:37,2,1,29.0,Columbus Blue Jackets,CBJ
+178,29,13,Columbus Blue Jackets,Florida Panthers,2022020289365,2022020289,Shot,365,SHOT,Brendan Gaunce Wrist Shot saved by Sergei Bobrovsky,2022-11-21T00:22:59Z,2,09:30,10:30,2,1,29.0,Columbus Blue Jackets,CBJ
+179,29,13,Columbus Blue Jackets,Florida Panthers,2022020289284,2022020289,Hit,284,HIT,Radko Gudas hit Kent Johnson,2022-11-21T00:23:46Z,2,10:17,09:43,2,1,13.0,Florida Panthers,FLA
+180,29,13,Columbus Blue Jackets,Florida Panthers,2022020289285,2022020289,Hit,285,HIT,Marc Staal hit Marcus Bjork,2022-11-21T00:24:06Z,2,10:37,09:23,2,1,13.0,Florida Panthers,FLA
+181,29,13,Columbus Blue Jackets,Florida Panthers,2022020289366,2022020289,Shot,366,SHOT,Marc Staal Wrist Shot saved by Daniil Tarasov,2022-11-21T00:24:17Z,2,10:48,09:12,2,1,13.0,Florida Panthers,FLA
+182,29,13,Columbus Blue Jackets,Florida Panthers,2022020289404,2022020289,Giveaway,404,GIVEAWAY,Giveaway by Mathieu Olivier,2022-11-21T00:24:39Z,2,11:10,08:50,2,1,29.0,Columbus Blue Jackets,CBJ
+183,29,13,Columbus Blue Jackets,Florida Panthers,2022020289286,2022020289,Hit,286,HIT,Sean Kuraly hit Aleksander Barkov,2022-11-21T00:24:41Z,2,11:12,08:48,2,1,29.0,Columbus Blue Jackets,CBJ
+184,29,13,Columbus Blue Jackets,Florida Panthers,2022020289367,2022020289,Shot,367,SHOT,Aaron Ekblad Wrist Shot saved by Daniil Tarasov,2022-11-21T00:25:07Z,2,11:38,08:22,2,1,13.0,Florida Panthers,FLA
+185,29,13,Columbus Blue Jackets,Florida Panthers,2022020289368,2022020289,Shot,368,SHOT,Sam Bennett Wrist Shot saved by Daniil Tarasov,2022-11-21T00:25:28Z,2,11:59,08:01,2,1,13.0,Florida Panthers,FLA
+186,29,13,Columbus Blue Jackets,Florida Panthers,2022020289369,2022020289,Blocked Shot,369,BLOCKED_SHOT,Matthew Tkachuk shot blocked shot by Vladislav Gavrikov,2022-11-21T00:25:33Z,2,12:04,07:56,2,1,29.0,Columbus Blue Jackets,CBJ
+187,29,13,Columbus Blue Jackets,Florida Panthers,2022020289287,2022020289,Hit,287,HIT,Sam Bennett hit Johnny Gaudreau,2022-11-21T00:25:46Z,2,12:17,07:43,2,1,13.0,Florida Panthers,FLA
+188,29,13,Columbus Blue Jackets,Florida Panthers,2022020289370,2022020289,Missed Shot,370,MISSED_SHOT,Matthew Tkachuk Goalpost Daniil Tarasov,2022-11-21T00:25:54Z,2,12:25,07:35,2,1,13.0,Florida Panthers,FLA
+189,29,13,Columbus Blue Jackets,Florida Panthers,2022020289288,2022020289,Stoppage,288,STOP,Icing,2022-11-21T00:26:01Z,2,12:32,07:28,2,1,,,
+190,29,13,Columbus Blue Jackets,Florida Panthers,2022020289405,2022020289,Faceoff,405,FACEOFF,Boone Jenner faceoff won against Eetu Luostarinen,2022-11-21T00:26:42Z,2,12:32,07:28,2,1,29.0,Columbus Blue Jackets,CBJ
+191,29,13,Columbus Blue Jackets,Florida Panthers,2022020289289,2022020289,Hit,289,HIT,Radko Gudas hit Trey Fix-Wolansky,2022-11-21T00:27:06Z,2,12:56,07:04,2,1,13.0,Florida Panthers,FLA
+192,29,13,Columbus Blue Jackets,Florida Panthers,2022020289371,2022020289,Shot,371,SHOT,Erik Gudbranson Wrist Shot saved by Sergei Bobrovsky,2022-11-21T00:27:10Z,2,13:00,07:00,2,1,29.0,Columbus Blue Jackets,CBJ
+193,29,13,Columbus Blue Jackets,Florida Panthers,2022020289372,2022020289,Shot,372,SHOT,Trey Fix-Wolansky Wrist Shot saved by Sergei Bobrovsky,2022-11-21T00:27:12Z,2,13:02,06:58,2,1,29.0,Columbus Blue Jackets,CBJ
+194,29,13,Columbus Blue Jackets,Florida Panthers,2022020289406,2022020289,Giveaway,406,GIVEAWAY,Giveaway by Erik Gudbranson,2022-11-21T00:27:38Z,2,13:28,06:32,2,1,29.0,Columbus Blue Jackets,CBJ
+195,29,13,Columbus Blue Jackets,Florida Panthers,2022020289290,2022020289,Hit,290,HIT,Eric Staal hit Jake Christiansen,2022-11-21T00:27:41Z,2,13:31,06:29,2,1,13.0,Florida Panthers,FLA
+196,29,13,Columbus Blue Jackets,Florida Panthers,2022020289503,2022020289,Blocked Shot,503,BLOCKED_SHOT,Marc Staal shot blocked shot by Cole Sillinger,2022-11-21T00:28:07Z,2,13:57,06:03,2,1,29.0,Columbus Blue Jackets,CBJ
+197,29,13,Columbus Blue Jackets,Florida Panthers,2022020289373,2022020289,Shot,373,SHOT,Brandon Montour Wrist Shot saved by Daniil Tarasov,2022-11-21T00:28:29Z,2,14:19,05:41,2,1,13.0,Florida Panthers,FLA
+198,29,13,Columbus Blue Jackets,Florida Panthers,2022020289374,2022020289,Missed Shot,374,MISSED_SHOT,Eric Staal Wide of Net Daniil Tarasov,2022-11-21T00:28:34Z,2,14:24,05:36,2,1,13.0,Florida Panthers,FLA
+199,29,13,Columbus Blue Jackets,Florida Panthers,2022020289291,2022020289,Hit,291,HIT,Andrew Peeke hit Carter Verhaeghe,2022-11-21T00:29:07Z,2,14:57,05:03,2,1,29.0,Columbus Blue Jackets,CBJ
+200,29,13,Columbus Blue Jackets,Florida Panthers,2022020289292,2022020289,Stoppage,292,STOP,Goalie Stopped,2022-11-21T00:29:17Z,2,15:07,04:53,2,1,,,
+201,29,13,Columbus Blue Jackets,Florida Panthers,2022020289375,2022020289,Shot,375,SHOT,Sam Reinhart Snap Shot saved by Daniil Tarasov,2022-11-21T00:29:17Z,2,15:07,04:53,2,1,13.0,Florida Panthers,FLA
+202,29,13,Columbus Blue Jackets,Florida Panthers,2022020289407,2022020289,Faceoff,407,FACEOFF,Sean Kuraly faceoff won against Aleksander Barkov,2022-11-21T00:31:36Z,2,15:07,04:53,2,1,29.0,Columbus Blue Jackets,CBJ
+203,29,13,Columbus Blue Jackets,Florida Panthers,2022020289293,2022020289,Hit,293,HIT,Vladislav Gavrikov hit Carter Verhaeghe,2022-11-21T00:31:42Z,2,15:13,04:47,2,1,29.0,Columbus Blue Jackets,CBJ
+204,29,13,Columbus Blue Jackets,Florida Panthers,2022020289294,2022020289,Stoppage,294,STOP,Goalie Stopped,2022-11-21T00:31:55Z,2,15:26,04:34,2,1,,,
+205,29,13,Columbus Blue Jackets,Florida Panthers,2022020289376,2022020289,Shot,376,SHOT,Gustav Forsling Slap Shot saved by Daniil Tarasov,2022-11-21T00:31:55Z,2,15:26,04:34,2,1,13.0,Florida Panthers,FLA
+206,29,13,Columbus Blue Jackets,Florida Panthers,2022020289408,2022020289,Faceoff,408,FACEOFF,Sam Bennett faceoff won against Gustav Nyquist,2022-11-21T00:32:33Z,2,15:26,04:34,2,1,13.0,Florida Panthers,FLA
+207,29,13,Columbus Blue Jackets,Florida Panthers,2022020289409,2022020289,Giveaway,409,GIVEAWAY,Giveaway by Jake Christiansen,2022-11-21T00:32:42Z,2,15:35,04:25,2,1,29.0,Columbus Blue Jackets,CBJ
+208,29,13,Columbus Blue Jackets,Florida Panthers,2022020289296,2022020289,Hit,296,HIT,Jake Christiansen hit Sam Bennett,2022-11-21T00:32:44Z,2,15:37,04:23,2,1,29.0,Columbus Blue Jackets,CBJ
+209,29,13,Columbus Blue Jackets,Florida Panthers,2022020289377,2022020289,Shot,377,SHOT,Radko Gudas Backhand saved by Daniil Tarasov,2022-11-21T00:32:52Z,2,15:45,04:15,2,1,13.0,Florida Panthers,FLA
+210,29,13,Columbus Blue Jackets,Florida Panthers,2022020289378,2022020289,Blocked Shot,378,BLOCKED_SHOT,Gustav Forsling shot blocked shot by Jake Christiansen,2022-11-21T00:33:36Z,2,16:29,03:31,2,1,29.0,Columbus Blue Jackets,CBJ
+211,29,13,Columbus Blue Jackets,Florida Panthers,2022020289379,2022020289,Goal,379,GOAL,"Aaron Ekblad (2) Wrist Shot, assists: Gustav Forsling (11), Nick Cousins (2)",2022-11-21T00:33:45Z,2,16:38,03:22,2,2,13.0,Florida Panthers,FLA
+212,29,13,Columbus Blue Jackets,Florida Panthers,2022020289410,2022020289,Faceoff,410,FACEOFF,Anton Lundell faceoff won against Cole Sillinger,2022-11-21T00:34:30Z,2,16:38,03:22,2,2,13.0,Florida Panthers,FLA
+213,29,13,Columbus Blue Jackets,Florida Panthers,2022020289297,2022020289,Stoppage,297,STOP,Icing,2022-11-21T00:34:35Z,2,16:43,03:17,2,2,,,
+214,29,13,Columbus Blue Jackets,Florida Panthers,2022020289411,2022020289,Faceoff,411,FACEOFF,Anton Lundell faceoff won against Cole Sillinger,2022-11-21T00:34:57Z,2,16:43,03:17,2,2,13.0,Florida Panthers,FLA
+215,29,13,Columbus Blue Jackets,Florida Panthers,2022020289298,2022020289,Hit,298,HIT,Trey Fix-Wolansky hit Brandon Montour,2022-11-21T00:35:12Z,2,16:58,03:02,2,2,29.0,Columbus Blue Jackets,CBJ
+216,29,13,Columbus Blue Jackets,Florida Panthers,2022020289299,2022020289,Hit,299,HIT,Radko Gudas hit Cole Sillinger,2022-11-21T00:35:26Z,2,17:12,02:48,2,2,13.0,Florida Panthers,FLA
+217,29,13,Columbus Blue Jackets,Florida Panthers,2022020289380,2022020289,Missed Shot,380,MISSED_SHOT,Andrew Peeke Wide of Net Sergei Bobrovsky,2022-11-21T00:35:31Z,2,17:17,02:43,2,2,29.0,Columbus Blue Jackets,CBJ
+218,29,13,Columbus Blue Jackets,Florida Panthers,2022020289381,2022020289,Shot,381,SHOT,Yegor Chinakhov Wrist Shot saved by Sergei Bobrovsky,2022-11-21T00:35:47Z,2,17:33,02:27,2,2,29.0,Columbus Blue Jackets,CBJ
+219,29,13,Columbus Blue Jackets,Florida Panthers,2022020289382,2022020289,Shot,382,SHOT,Eetu Luostarinen Tip-In saved by Daniil Tarasov,2022-11-21T00:35:59Z,2,17:45,02:15,2,2,13.0,Florida Panthers,FLA
+220,29,13,Columbus Blue Jackets,Florida Panthers,2022020289300,2022020289,Hit,300,HIT,Vladislav Gavrikov hit Patric Hornqvist,2022-11-21T00:36:24Z,2,18:10,01:50,2,2,29.0,Columbus Blue Jackets,CBJ
+221,29,13,Columbus Blue Jackets,Florida Panthers,2022020289383,2022020289,Missed Shot,383,MISSED_SHOT,Ryan Lomberg Wide of Net Daniil Tarasov,2022-11-21T00:36:33Z,2,18:19,01:41,2,2,13.0,Florida Panthers,FLA
+222,29,13,Columbus Blue Jackets,Florida Panthers,2022020289504,2022020289,Blocked Shot,504,BLOCKED_SHOT,Eric Staal shot blocked shot by Marcus Bjork,2022-11-21T00:36:36Z,2,18:22,01:38,2,2,29.0,Columbus Blue Jackets,CBJ
+223,29,13,Columbus Blue Jackets,Florida Panthers,2022020289551,2022020289,Hit,551,HIT,Ryan Lomberg hit Marcus Bjork,2022-11-21T00:36:48Z,2,18:34,01:26,2,2,13.0,Florida Panthers,FLA
+224,29,13,Columbus Blue Jackets,Florida Panthers,2022020289412,2022020289,Takeaway,412,TAKEAWAY,Takeaway by Aleksander Barkov,2022-11-21T00:37:13Z,2,18:59,01:01,2,2,13.0,Florida Panthers,FLA
+225,29,13,Columbus Blue Jackets,Florida Panthers,2022020289552,2022020289,Stoppage,552,STOP,Icing,2022-11-21T00:37:16Z,2,19:01,00:59,2,2,,,
+226,29,13,Columbus Blue Jackets,Florida Panthers,2022020289413,2022020289,Faceoff,413,FACEOFF,Sean Kuraly faceoff won against Aleksander Barkov,2022-11-21T00:37:46Z,2,19:01,00:59,2,2,29.0,Columbus Blue Jackets,CBJ
+227,29,13,Columbus Blue Jackets,Florida Panthers,2022020289553,2022020289,Hit,553,HIT,Marc Staal hit Eric Robinson,2022-11-21T00:37:56Z,2,19:12,00:48,2,2,13.0,Florida Panthers,FLA
+228,29,13,Columbus Blue Jackets,Florida Panthers,2022020289554,2022020289,Hit,554,HIT,Mathieu Olivier hit Brandon Montour,2022-11-21T00:38:07Z,2,19:23,00:37,2,2,29.0,Columbus Blue Jackets,CBJ
+229,29,13,Columbus Blue Jackets,Florida Panthers,2022020289555,2022020289,Stoppage,555,STOP,Icing,2022-11-21T00:38:09Z,2,19:25,00:35,2,2,,,
+230,29,13,Columbus Blue Jackets,Florida Panthers,2022020289414,2022020289,Faceoff,414,FACEOFF,Aleksander Barkov faceoff won against Boone Jenner,2022-11-21T00:38:37Z,2,19:25,00:35,2,2,13.0,Florida Panthers,FLA
+231,29,13,Columbus Blue Jackets,Florida Panthers,2022020289385,2022020289,Shot,385,SHOT,Sam Reinhart Wrist Shot saved by Daniil Tarasov,2022-11-21T00:38:51Z,2,19:39,00:21,2,2,13.0,Florida Panthers,FLA
+232,29,13,Columbus Blue Jackets,Florida Panthers,2022020289556,2022020289,Stoppage,556,STOP,Goalie Stopped,2022-11-21T00:38:51Z,2,19:39,00:21,2,2,,,
+233,29,13,Columbus Blue Jackets,Florida Panthers,2022020289415,2022020289,Faceoff,415,FACEOFF,Sam Bennett faceoff won against Sean Kuraly,2022-11-21T00:39:18Z,2,19:39,00:21,2,2,13.0,Florida Panthers,FLA
+234,29,13,Columbus Blue Jackets,Florida Panthers,2022020289386,2022020289,Shot,386,SHOT,Aaron Ekblad Slap Shot saved by Daniil Tarasov,2022-11-21T00:39:19Z,2,19:40,00:20,2,2,13.0,Florida Panthers,FLA
+235,29,13,Columbus Blue Jackets,Florida Panthers,2022020289557,2022020289,Stoppage,557,STOP,Goalie Stopped,2022-11-21T00:39:20Z,2,19:41,00:19,2,2,,,
+236,29,13,Columbus Blue Jackets,Florida Panthers,2022020289416,2022020289,Faceoff,416,FACEOFF,Sean Kuraly faceoff won against Sam Bennett,2022-11-21T00:39:34Z,2,19:41,00:19,2,2,29.0,Columbus Blue Jackets,CBJ
+237,29,13,Columbus Blue Jackets,Florida Panthers,2022020289387,2022020289,Shot,387,SHOT,Vladislav Gavrikov Wrist Shot saved by Sergei Bobrovsky,2022-11-21T00:39:41Z,2,19:49,00:11,2,2,29.0,Columbus Blue Jackets,CBJ
+238,29,13,Columbus Blue Jackets,Florida Panthers,2022020289558,2022020289,Period End,558,PERIOD_END,End of 2nd Period,2022-11-21T00:39:52Z,2,20:00,00:00,2,2,,,
+239,29,13,Columbus Blue Jackets,Florida Panthers,2022020289561,2022020289,Period Official,561,PERIOD_OFFICIAL,Period Official,2022-11-21T00:56:13Z,2,20:00,00:00,2,2,,,
+240,29,13,Columbus Blue Jackets,Florida Panthers,2022020289562,2022020289,Period Ready,562,PERIOD_READY,Period Ready,2022-11-21T00:56:53Z,3,00:00,20:00,2,2,,,
+241,29,13,Columbus Blue Jackets,Florida Panthers,2022020289417,2022020289,Period Start,417,PERIOD_START,Period Start,2022-11-21T00:59:06Z,3,00:00,20:00,2,2,,,
+242,29,13,Columbus Blue Jackets,Florida Panthers,2022020289418,2022020289,Faceoff,418,FACEOFF,Aleksander Barkov faceoff won against Sean Kuraly,2022-11-21T00:59:06Z,3,00:00,20:00,2,2,13.0,Florida Panthers,FLA
+243,29,13,Columbus Blue Jackets,Florida Panthers,2022020289564,2022020289,Penalty,564,PENALTY,Mathieu Olivier Tripping against Gustav Forsling,2022-11-21T00:59:38Z,3,00:33,19:27,2,2,29.0,Columbus Blue Jackets,CBJ
+244,29,13,Columbus Blue Jackets,Florida Panthers,2022020289419,2022020289,Faceoff,419,FACEOFF,Boone Jenner faceoff won against Aleksander Barkov,2022-11-21T01:00:16Z,3,00:33,19:27,2,2,29.0,Columbus Blue Jackets,CBJ
+245,29,13,Columbus Blue Jackets,Florida Panthers,2022020289388,2022020289,Shot,388,SHOT,Matthew Tkachuk Snap Shot saved by Daniil Tarasov,2022-11-21T01:00:23Z,3,00:40,19:20,2,2,13.0,Florida Panthers,FLA
+246,29,13,Columbus Blue Jackets,Florida Panthers,2022020289420,2022020289,Takeaway,420,TAKEAWAY,Takeaway by Andrew Peeke,2022-11-21T01:00:53Z,3,01:10,18:50,2,2,29.0,Columbus Blue Jackets,CBJ
+247,29,13,Columbus Blue Jackets,Florida Panthers,2022020289389,2022020289,Missed Shot,389,MISSED_SHOT,Aleksander Barkov Over Net Daniil Tarasov,2022-11-21T01:01:29Z,3,01:46,18:14,2,2,13.0,Florida Panthers,FLA
+248,29,13,Columbus Blue Jackets,Florida Panthers,2022020289390,2022020289,Blocked Shot,390,BLOCKED_SHOT,Eric Robinson shot blocked shot by Aaron Ekblad,2022-11-21T01:01:38Z,3,01:55,18:05,2,2,13.0,Florida Panthers,FLA
+249,29,13,Columbus Blue Jackets,Florida Panthers,2022020289391,2022020289,Goal,391,GOAL,"Sean Kuraly (6) Deflected, assists: Eric Robinson (5), Andrew Peeke (2)",2022-11-21T01:01:41Z,3,01:57,18:03,3,2,29.0,Columbus Blue Jackets,CBJ
+250,29,13,Columbus Blue Jackets,Florida Panthers,2022020289421,2022020289,Faceoff,421,FACEOFF,Sam Bennett faceoff won against Boone Jenner,2022-11-21T01:02:23Z,3,01:57,18:03,3,2,13.0,Florida Panthers,FLA
+251,29,13,Columbus Blue Jackets,Florida Panthers,2022020289392,2022020289,Shot,392,SHOT,Gustav Forsling Wrist Shot saved by Daniil Tarasov,2022-11-21T01:02:40Z,3,02:14,17:46,3,2,13.0,Florida Panthers,FLA
+252,29,13,Columbus Blue Jackets,Florida Panthers,2022020289393,2022020289,Shot,393,SHOT,Radko Gudas Slap Shot saved by Daniil Tarasov,2022-11-21T01:03:03Z,3,02:37,17:23,3,2,13.0,Florida Panthers,FLA
+253,29,13,Columbus Blue Jackets,Florida Panthers,2022020289567,2022020289,Stoppage,567,STOP,Puck in Crowd,2022-11-21T01:03:39Z,3,03:13,16:47,3,2,,,
+254,29,13,Columbus Blue Jackets,Florida Panthers,2022020289422,2022020289,Faceoff,422,FACEOFF,Cole Sillinger faceoff won against Eetu Luostarinen,2022-11-21T01:04:10Z,3,03:13,16:47,3,2,29.0,Columbus Blue Jackets,CBJ
+255,29,13,Columbus Blue Jackets,Florida Panthers,2022020289568,2022020289,Hit,568,HIT,Yegor Chinakhov hit Josh Mahura,2022-11-21T01:04:23Z,3,03:26,16:34,3,2,29.0,Columbus Blue Jackets,CBJ
+256,29,13,Columbus Blue Jackets,Florida Panthers,2022020289569,2022020289,Stoppage,569,STOP,Icing,2022-11-21T01:04:58Z,3,04:01,15:59,3,2,,,
+257,29,13,Columbus Blue Jackets,Florida Panthers,2022020289423,2022020289,Faceoff,423,FACEOFF,Boone Jenner faceoff won against Sam Bennett,2022-11-21T01:05:24Z,3,04:01,15:59,3,2,29.0,Columbus Blue Jackets,CBJ
+258,29,13,Columbus Blue Jackets,Florida Panthers,2022020289570,2022020289,Hit,570,HIT,Boone Jenner hit Marc Staal,2022-11-21T01:05:35Z,3,04:12,15:48,3,2,29.0,Columbus Blue Jackets,CBJ
+259,29,13,Columbus Blue Jackets,Florida Panthers,2022020289394,2022020289,Shot,394,SHOT,Marc Staal Wrist Shot saved by Daniil Tarasov,2022-11-21T01:05:56Z,3,04:33,15:27,3,2,13.0,Florida Panthers,FLA
+260,29,13,Columbus Blue Jackets,Florida Panthers,2022020289395,2022020289,Missed Shot,395,MISSED_SHOT,Nick Cousins Over Net Daniil Tarasov,2022-11-21T01:06:06Z,3,04:43,15:17,3,2,13.0,Florida Panthers,FLA
+261,29,13,Columbus Blue Jackets,Florida Panthers,2022020289396,2022020289,Blocked Shot,396,BLOCKED_SHOT,Gustav Forsling shot blocked shot by Boone Jenner,2022-11-21T01:06:13Z,3,04:50,15:10,3,2,29.0,Columbus Blue Jackets,CBJ
+262,29,13,Columbus Blue Jackets,Florida Panthers,2022020289397,2022020289,Shot,397,SHOT,Gustav Forsling Wrist Shot saved by Daniil Tarasov,2022-11-21T01:06:35Z,3,05:13,14:47,3,2,13.0,Florida Panthers,FLA
+263,29,13,Columbus Blue Jackets,Florida Panthers,2022020289571,2022020289,Stoppage,571,STOP,Goalie Stopped,2022-11-21T01:06:35Z,3,05:13,14:47,3,2,,,
+264,29,13,Columbus Blue Jackets,Florida Panthers,2022020289424,2022020289,Faceoff,424,FACEOFF,Aleksander Barkov faceoff won against Sean Kuraly,2022-11-21T01:06:58Z,3,05:13,14:47,3,2,13.0,Florida Panthers,FLA
+265,29,13,Columbus Blue Jackets,Florida Panthers,2022020289572,2022020289,Hit,572,HIT,Sean Kuraly hit Aleksander Barkov,2022-11-21T01:07:06Z,3,05:21,14:39,3,2,29.0,Columbus Blue Jackets,CBJ
+266,29,13,Columbus Blue Jackets,Florida Panthers,2022020289573,2022020289,Hit,573,HIT,Eric Robinson hit Josh Mahura,2022-11-21T01:07:22Z,3,05:37,14:23,3,2,29.0,Columbus Blue Jackets,CBJ
+267,29,13,Columbus Blue Jackets,Florida Panthers,2022020289398,2022020289,Shot,398,SHOT,Aleksander Barkov Wrist Shot saved by Daniil Tarasov,2022-11-21T01:07:29Z,3,05:44,14:16,3,2,13.0,Florida Panthers,FLA
+268,29,13,Columbus Blue Jackets,Florida Panthers,2022020289399,2022020289,Shot,399,SHOT,Radko Gudas Snap Shot saved by Daniil Tarasov,2022-11-21T01:07:49Z,3,06:04,13:56,3,2,13.0,Florida Panthers,FLA
+269,29,13,Columbus Blue Jackets,Florida Panthers,2022020289575,2022020289,Stoppage,575,STOP,Puck in Benches,2022-11-21T01:08:09Z,3,06:23,13:37,3,2,,,
+270,29,13,Columbus Blue Jackets,Florida Panthers,2022020289425,2022020289,Faceoff,425,FACEOFF,Anton Lundell faceoff won against Cole Sillinger,2022-11-21T01:10:29Z,3,06:23,13:37,3,2,13.0,Florida Panthers,FLA
+271,29,13,Columbus Blue Jackets,Florida Panthers,2022020289400,2022020289,Missed Shot,400,MISSED_SHOT,Cole Sillinger Wide of Net Sergei Bobrovsky,2022-11-21T01:11:04Z,3,06:58,13:02,3,2,29.0,Columbus Blue Jackets,CBJ
+272,29,13,Columbus Blue Jackets,Florida Panthers,2022020289578,2022020289,Hit,578,HIT,Erik Gudbranson hit Matthew Tkachuk,2022-11-21T01:11:51Z,3,07:45,12:15,3,2,29.0,Columbus Blue Jackets,CBJ
+273,29,13,Columbus Blue Jackets,Florida Panthers,2022020289506,2022020289,Giveaway,506,GIVEAWAY,Giveaway by Brandon Montour,2022-11-21T01:11:56Z,3,07:50,12:10,3,2,13.0,Florida Panthers,FLA
+274,29,13,Columbus Blue Jackets,Florida Panthers,2022020289701,2022020289,Goal,701,GOAL,"Johnny Gaudreau (7) Wrist Shot, assists: Gustav Nyquist (5)",2022-11-21T01:12:01Z,3,07:55,12:05,4,2,29.0,Columbus Blue Jackets,CBJ
+275,29,13,Columbus Blue Jackets,Florida Panthers,2022020289426,2022020289,Faceoff,426,FACEOFF,Sean Kuraly faceoff won against Aleksander Barkov,2022-11-21T01:12:41Z,3,07:55,12:05,4,2,29.0,Columbus Blue Jackets,CBJ
+276,29,13,Columbus Blue Jackets,Florida Panthers,2022020289702,2022020289,Shot,702,SHOT,Carter Verhaeghe Snap Shot saved by Daniil Tarasov,2022-11-21T01:13:31Z,3,08:45,11:15,4,2,13.0,Florida Panthers,FLA
+277,29,13,Columbus Blue Jackets,Florida Panthers,2022020289703,2022020289,Missed Shot,703,MISSED_SHOT,Emil Bemstrom Over Net Sergei Bobrovsky,2022-11-21T01:13:42Z,3,08:56,11:04,4,2,29.0,Columbus Blue Jackets,CBJ
+278,29,13,Columbus Blue Jackets,Florida Panthers,2022020289580,2022020289,Stoppage,580,STOP,Goalie Stopped,2022-11-21T01:14:14Z,3,09:28,10:32,4,2,,,
+279,29,13,Columbus Blue Jackets,Florida Panthers,2022020289704,2022020289,Shot,704,SHOT,Patric Hornqvist Wrist Shot saved by Daniil Tarasov,2022-11-21T01:14:14Z,3,09:28,10:32,4,2,13.0,Florida Panthers,FLA
+280,29,13,Columbus Blue Jackets,Florida Panthers,2022020289428,2022020289,Faceoff,428,FACEOFF,Boone Jenner faceoff won against Sam Bennett,2022-11-21T01:14:48Z,3,09:28,10:32,4,2,29.0,Columbus Blue Jackets,CBJ
+281,29,13,Columbus Blue Jackets,Florida Panthers,2022020289581,2022020289,Hit,581,HIT,Erik Gudbranson hit Marc Staal,2022-11-21T01:15:12Z,3,09:52,10:08,4,2,29.0,Columbus Blue Jackets,CBJ
+282,29,13,Columbus Blue Jackets,Florida Panthers,2022020289582,2022020289,Stoppage,582,STOP,Offside,2022-11-21T01:15:17Z,3,09:58,10:02,4,2,,,
+283,29,13,Columbus Blue Jackets,Florida Panthers,2022020289429,2022020289,Faceoff,429,FACEOFF,Cole Sillinger faceoff won against Anton Lundell,2022-11-21T01:15:59Z,3,09:58,10:02,4,2,29.0,Columbus Blue Jackets,CBJ
+284,29,13,Columbus Blue Jackets,Florida Panthers,2022020289583,2022020289,Hit,583,HIT,Yegor Chinakhov hit Eetu Luostarinen,2022-11-21T01:16:12Z,3,10:11,09:49,4,2,29.0,Columbus Blue Jackets,CBJ
+285,29,13,Columbus Blue Jackets,Florida Panthers,2022020289584,2022020289,Hit,584,HIT,Cole Sillinger hit Anton Lundell,2022-11-21T01:16:27Z,3,10:26,09:34,4,2,29.0,Columbus Blue Jackets,CBJ
+286,29,13,Columbus Blue Jackets,Florida Panthers,2022020289585,2022020289,Hit,585,HIT,Cole Sillinger hit Colin White,2022-11-21T01:16:38Z,3,10:37,09:23,4,2,29.0,Columbus Blue Jackets,CBJ
+287,29,13,Columbus Blue Jackets,Florida Panthers,2022020289586,2022020289,Hit,586,HIT,Sean Kuraly hit Radko Gudas,2022-11-21T01:17:01Z,3,11:00,09:00,4,2,29.0,Columbus Blue Jackets,CBJ
+288,29,13,Columbus Blue Jackets,Florida Panthers,2022020289705,2022020289,Missed Shot,705,MISSED_SHOT,Eric Robinson Wide of Net Sergei Bobrovsky,2022-11-21T01:17:05Z,3,11:04,08:56,4,2,29.0,Columbus Blue Jackets,CBJ
+289,29,13,Columbus Blue Jackets,Florida Panthers,2022020289587,2022020289,Stoppage,587,STOP,Puck in Benches,2022-11-21T01:17:29Z,3,11:27,08:33,4,2,,,
+290,29,13,Columbus Blue Jackets,Florida Panthers,2022020289430,2022020289,Faceoff,430,FACEOFF,Boone Jenner faceoff won against Sam Bennett,2022-11-21T01:19:41Z,3,11:27,08:33,4,2,29.0,Columbus Blue Jackets,CBJ
+291,29,13,Columbus Blue Jackets,Florida Panthers,2022020289706,2022020289,Shot,706,SHOT,Erik Gudbranson Wrist Shot saved by Sergei Bobrovsky,2022-11-21T01:19:43Z,3,11:29,08:31,4,2,29.0,Columbus Blue Jackets,CBJ
+292,29,13,Columbus Blue Jackets,Florida Panthers,2022020289589,2022020289,Stoppage,589,STOP,Goalie Stopped,2022-11-21T01:19:44Z,3,11:30,08:30,4,2,,,
+293,29,13,Columbus Blue Jackets,Florida Panthers,2022020289431,2022020289,Faceoff,431,FACEOFF,Sam Bennett faceoff won against Boone Jenner,2022-11-21T01:20:03Z,3,11:30,08:30,4,2,13.0,Florida Panthers,FLA
+294,29,13,Columbus Blue Jackets,Florida Panthers,2022020289707,2022020289,Missed Shot,707,MISSED_SHOT,Eetu Luostarinen Wide of Net Daniil Tarasov,2022-11-21T01:20:37Z,3,12:04,07:56,4,2,13.0,Florida Panthers,FLA
+295,29,13,Columbus Blue Jackets,Florida Panthers,2022020289590,2022020289,Stoppage,590,STOP,Icing,2022-11-21T01:21:12Z,3,12:40,07:20,4,2,,,
+296,29,13,Columbus Blue Jackets,Florida Panthers,2022020289432,2022020289,Faceoff,432,FACEOFF,Aleksander Barkov faceoff won against Sean Kuraly,2022-11-21T01:21:35Z,3,12:40,07:20,4,2,13.0,Florida Panthers,FLA
+297,29,13,Columbus Blue Jackets,Florida Panthers,2022020289708,2022020289,Shot,708,SHOT,Eric Robinson Wrist Shot saved by Sergei Bobrovsky,2022-11-21T01:22:02Z,3,13:07,06:53,4,2,29.0,Columbus Blue Jackets,CBJ
+298,29,13,Columbus Blue Jackets,Florida Panthers,2022020289591,2022020289,Hit,591,HIT,Eric Robinson hit Sam Reinhart,2022-11-21T01:22:07Z,3,13:12,06:48,4,2,29.0,Columbus Blue Jackets,CBJ
+299,29,13,Columbus Blue Jackets,Florida Panthers,2022020289709,2022020289,Blocked Shot,709,BLOCKED_SHOT,Josh Mahura shot blocked shot by Jake Christiansen,2022-11-21T01:22:25Z,3,13:30,06:30,4,2,29.0,Columbus Blue Jackets,CBJ
+300,29,13,Columbus Blue Jackets,Florida Panthers,2022020289592,2022020289,Stoppage,592,STOP,Puck in Netting,2022-11-21T01:22:48Z,3,13:53,06:07,4,2,,,
+301,29,13,Columbus Blue Jackets,Florida Panthers,2022020289710,2022020289,Blocked Shot,710,BLOCKED_SHOT,Radko Gudas shot blocked shot by Mathieu Olivier,2022-11-21T01:22:48Z,3,13:53,06:07,4,2,29.0,Columbus Blue Jackets,CBJ
+302,29,13,Columbus Blue Jackets,Florida Panthers,2022020289433,2022020289,Faceoff,433,FACEOFF,Boone Jenner faceoff won against Colin White,2022-11-21T01:23:21Z,3,13:53,06:07,4,2,29.0,Columbus Blue Jackets,CBJ
+303,29,13,Columbus Blue Jackets,Florida Panthers,2022020289711,2022020289,Missed Shot,711,MISSED_SHOT,Kent Johnson Wide of Net Sergei Bobrovsky,2022-11-21T01:23:49Z,3,14:21,05:39,4,2,29.0,Columbus Blue Jackets,CBJ
+304,29,13,Columbus Blue Jackets,Florida Panthers,2022020289712,2022020289,Blocked Shot,712,BLOCKED_SHOT,Gustav Forsling shot blocked shot by Kent Johnson,2022-11-21T01:24:07Z,3,14:39,05:21,4,2,29.0,Columbus Blue Jackets,CBJ
+305,29,13,Columbus Blue Jackets,Florida Panthers,2022020289593,2022020289,Stoppage,593,STOP,Puck in Netting,2022-11-21T01:24:08Z,3,14:40,05:20,4,2,,,
+306,29,13,Columbus Blue Jackets,Florida Panthers,2022020289434,2022020289,Faceoff,434,FACEOFF,Boone Jenner faceoff won against Sam Bennett,2022-11-21T01:26:25Z,3,14:40,05:20,4,2,29.0,Columbus Blue Jackets,CBJ
+307,29,13,Columbus Blue Jackets,Florida Panthers,2022020289713,2022020289,Shot,713,SHOT,Boone Jenner Wrist Shot saved by Sergei Bobrovsky,2022-11-21T01:26:33Z,3,14:48,05:12,4,2,29.0,Columbus Blue Jackets,CBJ
+308,29,13,Columbus Blue Jackets,Florida Panthers,2022020289594,2022020289,Stoppage,594,STOP,Goalie Stopped,2022-11-21T01:26:35Z,3,14:49,05:11,4,2,,,
+309,29,13,Columbus Blue Jackets,Florida Panthers,2022020289435,2022020289,Faceoff,435,FACEOFF,Boone Jenner faceoff won against Sam Bennett,2022-11-21T01:26:56Z,3,14:49,05:11,4,2,29.0,Columbus Blue Jackets,CBJ
+310,29,13,Columbus Blue Jackets,Florida Panthers,2022020289714,2022020289,Shot,714,SHOT,Eetu Luostarinen Snap Shot saved by Daniil Tarasov,2022-11-21T01:27:11Z,3,15:04,04:56,4,2,13.0,Florida Panthers,FLA
+311,29,13,Columbus Blue Jackets,Florida Panthers,2022020289595,2022020289,Stoppage,595,STOP,Puck in Netting,2022-11-21T01:27:19Z,3,15:13,04:47,4,2,,,
+312,29,13,Columbus Blue Jackets,Florida Panthers,2022020289715,2022020289,Blocked Shot,715,BLOCKED_SHOT,Brandon Montour shot blocked shot by Andrew Peeke,2022-11-21T01:27:19Z,3,15:13,04:47,4,2,29.0,Columbus Blue Jackets,CBJ
+313,29,13,Columbus Blue Jackets,Florida Panthers,2022020289436,2022020289,Faceoff,436,FACEOFF,Sean Kuraly faceoff won against Aleksander Barkov,2022-11-21T01:27:48Z,3,15:13,04:47,4,2,29.0,Columbus Blue Jackets,CBJ
+314,29,13,Columbus Blue Jackets,Florida Panthers,2022020289596,2022020289,Stoppage,596,STOP,Offside,2022-11-21T01:28:22Z,3,15:46,04:14,4,2,,,
+315,29,13,Columbus Blue Jackets,Florida Panthers,2022020289437,2022020289,Faceoff,437,FACEOFF,Cole Sillinger faceoff won against Anton Lundell,2022-11-21T01:28:48Z,3,15:46,04:14,4,2,29.0,Columbus Blue Jackets,CBJ
+316,29,13,Columbus Blue Jackets,Florida Panthers,2022020289598,2022020289,Stoppage,598,STOP,Puck in Netting,2022-11-21T01:29:21Z,3,16:19,03:41,4,2,,,
+317,29,13,Columbus Blue Jackets,Florida Panthers,2022020289716,2022020289,Blocked Shot,716,BLOCKED_SHOT,Eetu Luostarinen shot blocked shot by Erik Gudbranson,2022-11-21T01:29:21Z,3,16:19,03:41,4,2,29.0,Columbus Blue Jackets,CBJ
+318,29,13,Columbus Blue Jackets,Florida Panthers,2022020289438,2022020289,Faceoff,438,FACEOFF,Boone Jenner faceoff won against Aleksander Barkov,2022-11-21T01:29:59Z,3,16:19,03:41,4,2,29.0,Columbus Blue Jackets,CBJ
+319,29,13,Columbus Blue Jackets,Florida Panthers,2022020289599,2022020289,Stoppage,599,STOP,Icing,2022-11-21T01:30:10Z,3,16:30,03:30,4,2,,,
+320,29,13,Columbus Blue Jackets,Florida Panthers,2022020289439,2022020289,Faceoff,439,FACEOFF,Aleksander Barkov faceoff won against Boone Jenner,2022-11-21T01:30:29Z,3,16:30,03:30,4,2,13.0,Florida Panthers,FLA
+321,29,13,Columbus Blue Jackets,Florida Panthers,2022020289600,2022020289,Stoppage,600,STOP,Goalie Stopped,2022-11-21T01:31:04Z,3,17:05,02:55,4,2,,,
+322,29,13,Columbus Blue Jackets,Florida Panthers,2022020289717,2022020289,Blocked Shot,717,BLOCKED_SHOT,Sam Bennett shot blocked shot by Vladislav Gavrikov,2022-11-21T01:31:04Z,3,17:05,02:55,4,2,29.0,Columbus Blue Jackets,CBJ
+323,29,13,Columbus Blue Jackets,Florida Panthers,2022020289440,2022020289,Faceoff,440,FACEOFF,Aleksander Barkov faceoff won against Boone Jenner,2022-11-21T01:31:33Z,3,17:05,02:55,4,2,13.0,Florida Panthers,FLA
+324,29,13,Columbus Blue Jackets,Florida Panthers,2022020289718,2022020289,Blocked Shot,718,BLOCKED_SHOT,Aaron Ekblad shot blocked shot by Vladislav Gavrikov,2022-11-21T01:31:49Z,3,17:21,02:39,4,2,29.0,Columbus Blue Jackets,CBJ
+325,29,13,Columbus Blue Jackets,Florida Panthers,2022020289851,2022020289,Stoppage,851,STOP,Puck in Netting,2022-11-21T01:31:49Z,3,17:21,02:39,4,2,,,
+326,29,13,Columbus Blue Jackets,Florida Panthers,2022020289441,2022020289,Faceoff,441,FACEOFF,Sean Kuraly faceoff won against Aleksander Barkov,2022-11-21T01:32:24Z,3,17:21,02:39,4,2,29.0,Columbus Blue Jackets,CBJ
+327,29,13,Columbus Blue Jackets,Florida Panthers,2022020289853,2022020289,Penalty,853,PENALTY,Aaron Ekblad Hooking against Boone Jenner,2022-11-21T01:32:34Z,3,17:31,02:29,4,2,13.0,Florida Panthers,FLA
+328,29,13,Columbus Blue Jackets,Florida Panthers,2022020289442,2022020289,Faceoff,442,FACEOFF,Boone Jenner faceoff won against Anton Lundell,2022-11-21T01:33:24Z,3,17:31,02:29,4,2,29.0,Columbus Blue Jackets,CBJ
+329,29,13,Columbus Blue Jackets,Florida Panthers,2022020289719,2022020289,Blocked Shot,719,BLOCKED_SHOT,Anton Lundell shot blocked shot by Marcus Bjork,2022-11-21T01:33:35Z,3,17:42,02:18,4,2,29.0,Columbus Blue Jackets,CBJ
+330,29,13,Columbus Blue Jackets,Florida Panthers,2022020289443,2022020289,Giveaway,443,GIVEAWAY,Giveaway by Johnny Gaudreau,2022-11-21T01:33:37Z,3,17:44,02:16,4,2,29.0,Columbus Blue Jackets,CBJ
+331,29,13,Columbus Blue Jackets,Florida Panthers,2022020289720,2022020289,Missed Shot,720,MISSED_SHOT,Anton Lundell Wide of Net Daniil Tarasov,2022-11-21T01:33:39Z,3,17:46,02:14,4,2,13.0,Florida Panthers,FLA
+332,29,13,Columbus Blue Jackets,Florida Panthers,2022020289507,2022020289,Blocked Shot,507,BLOCKED_SHOT,Gustav Forsling shot blocked shot by Johnny Gaudreau,2022-11-21T01:33:40Z,3,17:47,02:13,4,2,29.0,Columbus Blue Jackets,CBJ
+333,29,13,Columbus Blue Jackets,Florida Panthers,2022020289721,2022020289,Missed Shot,721,MISSED_SHOT,Anton Lundell Wide of Net Daniil Tarasov,2022-11-21T01:33:44Z,3,17:51,02:09,4,2,13.0,Florida Panthers,FLA
+334,29,13,Columbus Blue Jackets,Florida Panthers,2022020289722,2022020289,Goal,722,GOAL,"Boone Jenner (8) Tip-In, assists: Johnny Gaudreau (11), Emil Bemstrom (2)",2022-11-21T01:34:03Z,3,18:11,01:49,5,2,29.0,Columbus Blue Jackets,CBJ
+335,29,13,Columbus Blue Jackets,Florida Panthers,2022020289444,2022020289,Faceoff,444,FACEOFF,Eric Staal faceoff won against Sean Kuraly,2022-11-21T01:34:49Z,3,18:11,01:49,5,2,13.0,Florida Panthers,FLA
+336,29,13,Columbus Blue Jackets,Florida Panthers,2022020289723,2022020289,Shot,723,SHOT,Eric Staal Wrist Shot saved by Daniil Tarasov,2022-11-21T01:35:14Z,3,18:36,01:24,5,2,13.0,Florida Panthers,FLA
+337,29,13,Columbus Blue Jackets,Florida Panthers,2022020289856,2022020289,Stoppage,856,STOP,Goalie Stopped,2022-11-21T01:35:14Z,3,18:36,01:24,5,2,,,
+338,29,13,Columbus Blue Jackets,Florida Panthers,2022020289445,2022020289,Faceoff,445,FACEOFF,Anton Lundell faceoff won against Cole Sillinger,2022-11-21T01:35:56Z,3,18:36,01:24,5,2,13.0,Florida Panthers,FLA
+339,29,13,Columbus Blue Jackets,Florida Panthers,2022020289724,2022020289,Blocked Shot,724,BLOCKED_SHOT,Brandon Montour shot blocked shot by Cole Sillinger,2022-11-21T01:36:04Z,3,18:44,01:16,5,2,29.0,Columbus Blue Jackets,CBJ
+340,29,13,Columbus Blue Jackets,Florida Panthers,2022020289725,2022020289,Shot,725,SHOT,Andrew Peeke Slap Shot saved by Sergei Bobrovsky,2022-11-21T01:36:12Z,3,18:52,01:08,5,2,29.0,Columbus Blue Jackets,CBJ
+341,29,13,Columbus Blue Jackets,Florida Panthers,2022020289508,2022020289,Shot,508,SHOT,Anton Lundell Wrist Shot saved by Daniil Tarasov,2022-11-21T01:36:19Z,3,18:59,01:01,5,2,13.0,Florida Panthers,FLA
+342,29,13,Columbus Blue Jackets,Florida Panthers,2022020289726,2022020289,Shot,726,SHOT,Brandon Montour Backhand saved by Daniil Tarasov,2022-11-21T01:36:20Z,3,19:00,01:00,5,2,13.0,Florida Panthers,FLA
+343,29,13,Columbus Blue Jackets,Florida Panthers,2022020289727,2022020289,Shot,727,SHOT,Nick Cousins Wrist Shot saved by Daniil Tarasov,2022-11-21T01:36:24Z,3,19:04,00:56,5,2,13.0,Florida Panthers,FLA
+344,29,13,Columbus Blue Jackets,Florida Panthers,2022020289728,2022020289,Goal,728,GOAL,"Colin White (5) Backhand, assists: Nick Cousins (3), Josh Mahura (2)",2022-11-21T01:36:26Z,3,19:05,00:55,5,3,13.0,Florida Panthers,FLA
+345,29,13,Columbus Blue Jackets,Florida Panthers,2022020289446,2022020289,Faceoff,446,FACEOFF,Aleksander Barkov faceoff won against Sean Kuraly,2022-11-21T01:37:20Z,3,19:05,00:55,5,3,13.0,Florida Panthers,FLA
+346,29,13,Columbus Blue Jackets,Florida Panthers,2022020289729,2022020289,Blocked Shot,729,BLOCKED_SHOT,Carter Verhaeghe shot blocked shot by Sean Kuraly,2022-11-21T01:37:31Z,3,19:17,00:43,5,3,29.0,Columbus Blue Jackets,CBJ
+347,29,13,Columbus Blue Jackets,Florida Panthers,2022020289730,2022020289,Missed Shot,730,MISSED_SHOT,Carter Verhaeghe Wide of Net Daniil Tarasov,2022-11-21T01:37:58Z,3,19:44,00:16,5,3,13.0,Florida Panthers,FLA
+348,29,13,Columbus Blue Jackets,Florida Panthers,2022020289731,2022020289,Shot,731,SHOT,Brandon Montour Slap Shot saved by Daniil Tarasov,2022-11-21T01:38:13Z,3,19:59,00:01,5,3,13.0,Florida Panthers,FLA
+349,29,13,Columbus Blue Jackets,Florida Panthers,2022020289857,2022020289,Period End,857,PERIOD_END,End of 3rd Period,2022-11-21T01:38:14Z,3,20:00,00:00,5,3,,,
+350,29,13,Columbus Blue Jackets,Florida Panthers,2022020289860,2022020289,Period Official,860,PERIOD_OFFICIAL,Period Official,2022-11-21T01:38:20Z,3,20:00,00:00,5,3,,,
+351,29,13,Columbus Blue Jackets,Florida Panthers,2022020289861,2022020289,Game End,861,GAME_END,Game End,2022-11-21T01:38:22Z,3,20:00,00:00,5,3,,,
+352,29,13,Columbus Blue Jackets,Florida Panthers,20220202891091,2022020289,Game Official,1091,GAME_OFFICIAL,Game Official,2022-11-21T15:26:23Z,3,20:00,00:00,5,3,,,

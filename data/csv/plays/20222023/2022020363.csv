@@ -1,0 +1,335 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,10,28,Toronto Maple Leafs,San Jose Sharks,20220203631,2022020363,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-11-30T23:17:25Z,1,00:00,20:00,0,0,,,
+1,10,28,Toronto Maple Leafs,San Jose Sharks,20220203635,2022020363,Period Ready,5,PERIOD_READY,Period Ready,2022-12-01T00:08:17Z,1,00:00,20:00,0,0,,,
+2,10,28,Toronto Maple Leafs,San Jose Sharks,202202036351,2022020363,Period Start,51,PERIOD_START,Period Start,2022-12-01T00:13:47Z,1,00:00,20:00,0,0,,,
+3,10,28,Toronto Maple Leafs,San Jose Sharks,202202036352,2022020363,Faceoff,52,FACEOFF,Tomas Hertl faceoff won against John Tavares,2022-12-01T00:13:47Z,1,00:00,20:00,0,0,28.0,San Jose Sharks,SJS
+4,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363151,2022020363,Hit,151,HIT,Mitchell Marner hit Jaycob Megna,2022-12-01T00:13:56Z,1,00:09,19:51,0,0,10.0,Toronto Maple Leafs,TOR
+5,10,28,Toronto Maple Leafs,San Jose Sharks,202202036353,2022020363,Takeaway,53,TAKEAWAY,Takeaway by Mitchell Marner,2022-12-01T00:14:04Z,1,00:17,19:43,0,0,10.0,Toronto Maple Leafs,TOR
+6,10,28,Toronto Maple Leafs,San Jose Sharks,20220203638,2022020363,Shot,8,SHOT,John Tavares Slap Shot saved by Aaron Dell,2022-12-01T00:14:10Z,1,00:23,19:37,0,0,10.0,Toronto Maple Leafs,TOR
+7,10,28,Toronto Maple Leafs,San Jose Sharks,20220203639,2022020363,Blocked Shot,9,BLOCKED_SHOT,Mark Giordano shot blocked shot by Erik Karlsson,2022-12-01T00:14:11Z,1,00:24,19:36,0,0,28.0,San Jose Sharks,SJS
+8,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363351,2022020363,Blocked Shot,351,BLOCKED_SHOT,Mark Giordano shot blocked shot by Timo Meier,2022-12-01T00:14:13Z,1,00:26,19:34,0,0,28.0,San Jose Sharks,SJS
+9,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363152,2022020363,Hit,152,HIT,Alexander Barabanov hit Timothy Liljegren,2022-12-01T00:14:40Z,1,00:53,19:07,0,0,28.0,San Jose Sharks,SJS
+10,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363153,2022020363,Hit,153,HIT,Logan Couture hit Rasmus Sandin,2022-12-01T00:14:45Z,1,00:58,19:02,0,0,28.0,San Jose Sharks,SJS
+11,10,28,Toronto Maple Leafs,San Jose Sharks,202202036354,2022020363,Giveaway,54,GIVEAWAY,Giveaway by Logan Couture,2022-12-01T00:14:57Z,1,01:10,18:50,0,0,28.0,San Jose Sharks,SJS
+12,10,28,Toronto Maple Leafs,San Jose Sharks,202202036355,2022020363,Takeaway,55,TAKEAWAY,Takeaway by Auston Matthews,2022-12-01T00:15:07Z,1,01:20,18:40,0,0,10.0,Toronto Maple Leafs,TOR
+13,10,28,Toronto Maple Leafs,San Jose Sharks,202202036310,2022020363,Missed Shot,10,MISSED_SHOT,William Nylander Over Net Aaron Dell,2022-12-01T00:15:10Z,1,01:23,18:37,0,0,10.0,Toronto Maple Leafs,TOR
+14,10,28,Toronto Maple Leafs,San Jose Sharks,202202036312,2022020363,Shot,12,SHOT,Nicholas Robertson Wrist Shot saved by Aaron Dell,2022-12-01T00:15:28Z,1,01:41,18:19,0,0,10.0,Toronto Maple Leafs,TOR
+15,10,28,Toronto Maple Leafs,San Jose Sharks,202202036313,2022020363,Blocked Shot,13,BLOCKED_SHOT,Nicholas Robertson shot blocked shot by Radim Simek,2022-12-01T00:15:34Z,1,01:47,18:13,0,0,28.0,San Jose Sharks,SJS
+16,10,28,Toronto Maple Leafs,San Jose Sharks,202202036314,2022020363,Shot,14,SHOT,Radim Simek Wrist Shot saved by Ilya Samsonov,2022-12-01T00:15:39Z,1,01:52,18:08,0,0,28.0,San Jose Sharks,SJS
+17,10,28,Toronto Maple Leafs,San Jose Sharks,202202036315,2022020363,Shot,15,SHOT,Noah Gregor Wrist Shot saved by Ilya Samsonov,2022-12-01T00:15:41Z,1,01:54,18:06,0,0,28.0,San Jose Sharks,SJS
+18,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363154,2022020363,Hit,154,HIT,Pontus Holmberg hit Evgeny Svechnikov,2022-12-01T00:16:05Z,1,02:18,17:42,0,0,10.0,Toronto Maple Leafs,TOR
+19,10,28,Toronto Maple Leafs,San Jose Sharks,202202036316,2022020363,Missed Shot,16,MISSED_SHOT,Evgeny Svechnikov Wide of Net Ilya Samsonov,2022-12-01T00:16:09Z,1,02:22,17:38,0,0,28.0,San Jose Sharks,SJS
+20,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363155,2022020363,Hit,155,HIT,Oskar Lindblom hit Pierre Engvall,2022-12-01T00:16:24Z,1,02:37,17:23,0,0,28.0,San Jose Sharks,SJS
+21,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363156,2022020363,Hit,156,HIT,Timo Meier hit Rasmus Sandin,2022-12-01T00:16:54Z,1,03:07,16:53,0,0,28.0,San Jose Sharks,SJS
+22,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363157,2022020363,Hit,157,HIT,Timo Meier hit Rasmus Sandin,2022-12-01T00:17:09Z,1,03:22,16:38,0,0,28.0,San Jose Sharks,SJS
+23,10,28,Toronto Maple Leafs,San Jose Sharks,202202036317,2022020363,Shot,17,SHOT,Michael Bunting Wrist Shot saved by Aaron Dell,2022-12-01T00:17:37Z,1,03:50,16:10,0,0,10.0,Toronto Maple Leafs,TOR
+24,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363158,2022020363,Stoppage,158,STOP,Goalie Stopped,2022-12-01T00:17:37Z,1,03:50,16:10,0,0,,,
+25,10,28,Toronto Maple Leafs,San Jose Sharks,202202036357,2022020363,Faceoff,57,FACEOFF,Auston Matthews faceoff won against Logan Couture,2022-12-01T00:18:01Z,1,03:50,16:10,0,0,10.0,Toronto Maple Leafs,TOR
+26,10,28,Toronto Maple Leafs,San Jose Sharks,202202036318,2022020363,Shot,18,SHOT,William Nylander Slap Shot saved by Aaron Dell,2022-12-01T00:18:05Z,1,03:54,16:06,0,0,10.0,Toronto Maple Leafs,TOR
+27,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363159,2022020363,Hit,159,HIT,Logan Couture hit Michael Bunting,2022-12-01T00:18:21Z,1,04:10,15:50,0,0,28.0,San Jose Sharks,SJS
+28,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363160,2022020363,Hit,160,HIT,Radim Simek hit Auston Matthews,2022-12-01T00:18:30Z,1,04:19,15:41,0,0,28.0,San Jose Sharks,SJS
+29,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363161,2022020363,Hit,161,HIT,Michael Bunting hit Alexander Barabanov,2022-12-01T00:18:32Z,1,04:21,15:39,0,0,10.0,Toronto Maple Leafs,TOR
+30,10,28,Toronto Maple Leafs,San Jose Sharks,202202036358,2022020363,Giveaway,58,GIVEAWAY,Giveaway by Aaron Dell,2022-12-01T00:18:57Z,1,04:46,15:14,0,0,28.0,San Jose Sharks,SJS
+31,10,28,Toronto Maple Leafs,San Jose Sharks,202202036359,2022020363,Giveaway,59,GIVEAWAY,Giveaway by Nicholas Robertson,2022-12-01T00:19:04Z,1,04:53,15:07,0,0,10.0,Toronto Maple Leafs,TOR
+32,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363162,2022020363,Hit,162,HIT,Evgeny Svechnikov hit Justin Holl,2022-12-01T00:19:21Z,1,05:10,14:50,0,0,28.0,San Jose Sharks,SJS
+33,10,28,Toronto Maple Leafs,San Jose Sharks,202202036320,2022020363,Shot,20,SHOT,Alexander Kerfoot Wrist Shot saved by Aaron Dell,2022-12-01T00:19:51Z,1,05:40,14:20,0,0,10.0,Toronto Maple Leafs,TOR
+34,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363163,2022020363,Stoppage,163,STOP,Goalie Stopped,2022-12-01T00:19:51Z,1,05:40,14:20,0,0,,,
+35,10,28,Toronto Maple Leafs,San Jose Sharks,202202036360,2022020363,Faceoff,60,FACEOFF,Tomas Hertl faceoff won against John Tavares,2022-12-01T00:20:22Z,1,05:40,14:20,0,0,28.0,San Jose Sharks,SJS
+36,10,28,Toronto Maple Leafs,San Jose Sharks,202202036361,2022020363,Giveaway,61,GIVEAWAY,Giveaway by John Tavares,2022-12-01T00:20:41Z,1,05:59,14:01,0,0,10.0,Toronto Maple Leafs,TOR
+37,10,28,Toronto Maple Leafs,San Jose Sharks,202202036321,2022020363,Shot,21,SHOT,Erik Karlsson Wrist Shot saved by Ilya Samsonov,2022-12-01T00:20:43Z,1,06:01,13:59,0,0,28.0,San Jose Sharks,SJS
+38,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363164,2022020363,Stoppage,164,STOP,Puck in Netting,2022-12-01T00:20:44Z,1,06:02,13:58,0,0,,,
+39,10,28,Toronto Maple Leafs,San Jose Sharks,202202036362,2022020363,Faceoff,62,FACEOFF,John Tavares faceoff won against Tomas Hertl,2022-12-01T00:23:01Z,1,06:02,13:58,0,0,10.0,Toronto Maple Leafs,TOR
+40,10,28,Toronto Maple Leafs,San Jose Sharks,202202036322,2022020363,Shot,22,SHOT,Mitchell Marner Backhand saved by Aaron Dell,2022-12-01T00:23:10Z,1,06:11,13:49,0,0,10.0,Toronto Maple Leafs,TOR
+41,10,28,Toronto Maple Leafs,San Jose Sharks,202202036323,2022020363,Shot,23,SHOT,Timo Meier Backhand saved by Ilya Samsonov,2022-12-01T00:23:31Z,1,06:32,13:28,0,0,28.0,San Jose Sharks,SJS
+42,10,28,Toronto Maple Leafs,San Jose Sharks,202202036324,2022020363,Missed Shot,24,MISSED_SHOT,Erik Karlsson Wide of Net Ilya Samsonov,2022-12-01T00:23:42Z,1,06:43,13:17,0,0,28.0,San Jose Sharks,SJS
+43,10,28,Toronto Maple Leafs,San Jose Sharks,202202036325,2022020363,Shot,25,SHOT,Timo Meier Wrist Shot saved by Ilya Samsonov,2022-12-01T00:23:52Z,1,06:53,13:07,0,0,28.0,San Jose Sharks,SJS
+44,10,28,Toronto Maple Leafs,San Jose Sharks,202202036326,2022020363,Blocked Shot,26,BLOCKED_SHOT,Logan Couture shot blocked shot by Rasmus Sandin,2022-12-01T00:24:11Z,1,07:12,12:48,0,0,10.0,Toronto Maple Leafs,TOR
+45,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363165,2022020363,Stoppage,165,STOP,Icing,2022-12-01T00:24:24Z,1,07:25,12:35,0,0,,,
+46,10,28,Toronto Maple Leafs,San Jose Sharks,202202036363,2022020363,Faceoff,63,FACEOFF,David Kampf faceoff won against Logan Couture,2022-12-01T00:24:54Z,1,07:25,12:35,0,0,10.0,Toronto Maple Leafs,TOR
+47,10,28,Toronto Maple Leafs,San Jose Sharks,202202036365,2022020363,Takeaway,65,TAKEAWAY,Takeaway by Radim Simek,2022-12-01T00:25:07Z,1,07:38,12:22,0,0,28.0,San Jose Sharks,SJS
+48,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363166,2022020363,Hit,166,HIT,Radim Simek hit Zach Aston-Reese,2022-12-01T00:25:27Z,1,07:58,12:02,0,0,28.0,San Jose Sharks,SJS
+49,10,28,Toronto Maple Leafs,San Jose Sharks,202202036328,2022020363,Blocked Shot,28,BLOCKED_SHOT,Alexander Kerfoot shot blocked shot by Erik Karlsson,2022-12-01T00:25:55Z,1,08:26,11:34,0,0,28.0,San Jose Sharks,SJS
+50,10,28,Toronto Maple Leafs,San Jose Sharks,202202036329,2022020363,Blocked Shot,29,BLOCKED_SHOT,Justin Holl shot blocked shot by Jaycob Megna,2022-12-01T00:26:15Z,1,08:46,11:14,0,0,28.0,San Jose Sharks,SJS
+51,10,28,Toronto Maple Leafs,San Jose Sharks,202202036330,2022020363,Blocked Shot,30,BLOCKED_SHOT,Justin Holl shot blocked shot by Nick Bonino,2022-12-01T00:26:23Z,1,08:54,11:06,0,0,28.0,San Jose Sharks,SJS
+52,10,28,Toronto Maple Leafs,San Jose Sharks,202202036331,2022020363,Blocked Shot,31,BLOCKED_SHOT,Justin Holl shot blocked shot by Noah Gregor,2022-12-01T00:26:32Z,1,09:03,10:57,0,0,28.0,San Jose Sharks,SJS
+53,10,28,Toronto Maple Leafs,San Jose Sharks,202202036332,2022020363,Missed Shot,32,MISSED_SHOT,Noah Gregor Wide of Net Ilya Samsonov,2022-12-01T00:26:40Z,1,09:11,10:49,0,0,28.0,San Jose Sharks,SJS
+54,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363167,2022020363,Stoppage,167,STOP,Icing,2022-12-01T00:27:21Z,1,09:53,10:07,0,0,,,
+55,10,28,Toronto Maple Leafs,San Jose Sharks,202202036366,2022020363,Faceoff,66,FACEOFF,Auston Matthews faceoff won against Tomas Hertl,2022-12-01T00:27:44Z,1,09:53,10:07,0,0,10.0,Toronto Maple Leafs,TOR
+56,10,28,Toronto Maple Leafs,San Jose Sharks,202202036333,2022020363,Blocked Shot,33,BLOCKED_SHOT,Auston Matthews shot blocked shot by Marc-Edouard Vlasic,2022-12-01T00:27:51Z,1,10:00,10:00,0,0,28.0,San Jose Sharks,SJS
+57,10,28,Toronto Maple Leafs,San Jose Sharks,202202036334,2022020363,Missed Shot,34,MISSED_SHOT,Auston Matthews Wide of Net Aaron Dell,2022-12-01T00:28:12Z,1,10:21,09:39,0,0,10.0,Toronto Maple Leafs,TOR
+58,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363168,2022020363,Hit,168,HIT,Mark Giordano hit Noah Gregor,2022-12-01T00:29:08Z,1,11:17,08:43,0,0,10.0,Toronto Maple Leafs,TOR
+59,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363169,2022020363,Hit,169,HIT,Noah Gregor hit David Kampf,2022-12-01T00:29:20Z,1,11:29,08:31,0,0,28.0,San Jose Sharks,SJS
+60,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363170,2022020363,Hit,170,HIT,Evgeny Svechnikov hit Justin Holl,2022-12-01T00:29:38Z,1,11:47,08:13,0,0,28.0,San Jose Sharks,SJS
+61,10,28,Toronto Maple Leafs,San Jose Sharks,202202036367,2022020363,Giveaway,67,GIVEAWAY,Giveaway by Alexander Kerfoot,2022-12-01T00:29:59Z,1,12:08,07:52,0,0,10.0,Toronto Maple Leafs,TOR
+62,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363171,2022020363,Stoppage,171,STOP,Icing,2022-12-01T00:30:13Z,1,12:21,07:39,0,0,,,
+63,10,28,Toronto Maple Leafs,San Jose Sharks,202202036368,2022020363,Faceoff,68,FACEOFF,Pontus Holmberg faceoff won against Tomas Hertl,2022-12-01T00:30:40Z,1,12:21,07:39,0,0,10.0,Toronto Maple Leafs,TOR
+64,10,28,Toronto Maple Leafs,San Jose Sharks,202202036369,2022020363,Takeaway,69,TAKEAWAY,Takeaway by Timo Meier,2022-12-01T00:31:23Z,1,13:04,06:56,0,0,28.0,San Jose Sharks,SJS
+65,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363172,2022020363,Stoppage,172,STOP,Icing,2022-12-01T00:31:58Z,1,13:39,06:21,0,0,,,
+66,10,28,Toronto Maple Leafs,San Jose Sharks,202202036370,2022020363,Faceoff,70,FACEOFF,Logan Couture faceoff won against Auston Matthews,2022-12-01T00:32:18Z,1,13:39,06:21,0,0,28.0,San Jose Sharks,SJS
+67,10,28,Toronto Maple Leafs,San Jose Sharks,202202036335,2022020363,Missed Shot,35,MISSED_SHOT,Nick Cicek Wide of Net Ilya Samsonov,2022-12-01T00:32:23Z,1,13:44,06:16,0,0,28.0,San Jose Sharks,SJS
+68,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363173,2022020363,Hit,173,HIT,Luke Kunin hit Mark Giordano,2022-12-01T00:32:45Z,1,14:06,05:54,0,0,28.0,San Jose Sharks,SJS
+69,10,28,Toronto Maple Leafs,San Jose Sharks,202202036371,2022020363,Takeaway,71,TAKEAWAY,Takeaway by William Nylander,2022-12-01T00:33:02Z,1,14:23,05:37,0,0,10.0,Toronto Maple Leafs,TOR
+70,10,28,Toronto Maple Leafs,San Jose Sharks,202202036336,2022020363,Shot,36,SHOT,Justin Holl Wrist Shot saved by Aaron Dell,2022-12-01T00:33:15Z,1,14:36,05:24,0,0,10.0,Toronto Maple Leafs,TOR
+71,10,28,Toronto Maple Leafs,San Jose Sharks,202202036337,2022020363,Shot,37,SHOT,Pontus Holmberg Wrist Shot saved by Aaron Dell,2022-12-01T00:34:21Z,1,15:42,04:18,0,0,10.0,Toronto Maple Leafs,TOR
+72,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363174,2022020363,Stoppage,174,STOP,Goalie Stopped,2022-12-01T00:34:22Z,1,15:43,04:17,0,0,,,
+73,10,28,Toronto Maple Leafs,San Jose Sharks,202202036372,2022020363,Faceoff,72,FACEOFF,Auston Matthews faceoff won against Logan Couture,2022-12-01T00:36:52Z,1,15:43,04:17,0,0,10.0,Toronto Maple Leafs,TOR
+74,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363175,2022020363,Hit,175,HIT,Logan Couture hit Victor Mete,2022-12-01T00:37:15Z,1,16:06,03:54,0,0,28.0,San Jose Sharks,SJS
+75,10,28,Toronto Maple Leafs,San Jose Sharks,202202036338,2022020363,Missed Shot,38,MISSED_SHOT,Mac Hollowell Over Net Aaron Dell,2022-12-01T00:37:22Z,1,16:13,03:47,0,0,10.0,Toronto Maple Leafs,TOR
+76,10,28,Toronto Maple Leafs,San Jose Sharks,202202036339,2022020363,Shot,39,SHOT,Logan Couture Wrist Shot saved by Ilya Samsonov,2022-12-01T00:37:30Z,1,16:21,03:39,0,0,28.0,San Jose Sharks,SJS
+77,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363176,2022020363,Hit,176,HIT,John Tavares hit Erik Karlsson,2022-12-01T00:37:48Z,1,16:39,03:21,0,0,10.0,Toronto Maple Leafs,TOR
+78,10,28,Toronto Maple Leafs,San Jose Sharks,202202036340,2022020363,Shot,40,SHOT,Mark Giordano Slap Shot saved by Aaron Dell,2022-12-01T00:37:51Z,1,16:42,03:18,0,0,10.0,Toronto Maple Leafs,TOR
+79,10,28,Toronto Maple Leafs,San Jose Sharks,202202036341,2022020363,Missed Shot,41,MISSED_SHOT,Luke Kunin Wide of Net Ilya Samsonov,2022-12-01T00:38:22Z,1,17:13,02:47,0,0,28.0,San Jose Sharks,SJS
+80,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363177,2022020363,Hit,177,HIT,Timo Meier hit Rasmus Sandin,2022-12-01T00:38:26Z,1,17:17,02:43,0,0,28.0,San Jose Sharks,SJS
+81,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363178,2022020363,Stoppage,178,STOP,Icing,2022-12-01T00:38:28Z,1,17:19,02:41,0,0,,,
+82,10,28,Toronto Maple Leafs,San Jose Sharks,202202036373,2022020363,Faceoff,73,FACEOFF,John Tavares faceoff won against Nick Bonino,2022-12-01T00:38:51Z,1,17:19,02:41,0,0,10.0,Toronto Maple Leafs,TOR
+83,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363179,2022020363,Hit,179,HIT,Nick Cicek hit Zach Aston-Reese,2022-12-01T00:39:04Z,1,17:32,02:28,0,0,28.0,San Jose Sharks,SJS
+84,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363180,2022020363,Hit,180,HIT,Noah Gregor hit Timothy Liljegren,2022-12-01T00:39:18Z,1,17:46,02:14,0,0,28.0,San Jose Sharks,SJS
+85,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363181,2022020363,Hit,181,HIT,Steven Lorentz hit Zach Aston-Reese,2022-12-01T00:39:25Z,1,17:53,02:07,0,0,28.0,San Jose Sharks,SJS
+86,10,28,Toronto Maple Leafs,San Jose Sharks,202202036342,2022020363,Shot,42,SHOT,Victor Mete Wrist Shot saved by Aaron Dell,2022-12-01T00:39:32Z,1,18:00,02:00,0,0,10.0,Toronto Maple Leafs,TOR
+87,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363182,2022020363,Hit,182,HIT,Evgeny Svechnikov hit Zach Aston-Reese,2022-12-01T00:39:38Z,1,18:06,01:54,0,0,28.0,San Jose Sharks,SJS
+88,10,28,Toronto Maple Leafs,San Jose Sharks,202202036374,2022020363,Takeaway,74,TAKEAWAY,Takeaway by Mac Hollowell,2022-12-01T00:39:41Z,1,18:09,01:51,0,0,10.0,Toronto Maple Leafs,TOR
+89,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363183,2022020363,Stoppage,183,STOP,Puck in Crowd,2022-12-01T00:39:45Z,1,18:13,01:47,0,0,,,
+90,10,28,Toronto Maple Leafs,San Jose Sharks,202202036375,2022020363,Faceoff,75,FACEOFF,Logan Couture faceoff won against Auston Matthews,2022-12-01T00:42:08Z,1,18:13,01:47,0,0,28.0,San Jose Sharks,SJS
+91,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363184,2022020363,Hit,184,HIT,Justin Holl hit Matt Nieto,2022-12-01T00:42:18Z,1,18:23,01:37,0,0,10.0,Toronto Maple Leafs,TOR
+92,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363185,2022020363,Hit,185,HIT,Logan Couture hit William Nylander,2022-12-01T00:42:26Z,1,18:31,01:29,0,0,28.0,San Jose Sharks,SJS
+93,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363186,2022020363,Stoppage,186,STOP,Icing,2022-12-01T00:42:38Z,1,18:42,01:18,0,0,,,
+94,10,28,Toronto Maple Leafs,San Jose Sharks,202202036376,2022020363,Faceoff,76,FACEOFF,Auston Matthews faceoff won against Tomas Hertl,2022-12-01T00:43:00Z,1,18:42,01:18,0,0,10.0,Toronto Maple Leafs,TOR
+95,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363187,2022020363,Hit,187,HIT,Michael Bunting hit Jaycob Megna,2022-12-01T00:43:13Z,1,18:55,01:05,0,0,10.0,Toronto Maple Leafs,TOR
+96,10,28,Toronto Maple Leafs,San Jose Sharks,202202036377,2022020363,Takeaway,77,TAKEAWAY,Takeaway by Michael Bunting,2022-12-01T00:43:18Z,1,19:00,01:00,0,0,10.0,Toronto Maple Leafs,TOR
+97,10,28,Toronto Maple Leafs,San Jose Sharks,202202036343,2022020363,Shot,43,SHOT,Erik Karlsson Wrist Shot saved by Ilya Samsonov,2022-12-01T00:43:38Z,1,19:20,00:40,0,0,28.0,San Jose Sharks,SJS
+98,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363188,2022020363,Stoppage,188,STOP,Icing,2022-12-01T00:44:12Z,1,19:53,00:07,0,0,,,
+99,10,28,Toronto Maple Leafs,San Jose Sharks,202202036378,2022020363,Faceoff,78,FACEOFF,Nick Bonino faceoff won against John Tavares,2022-12-01T00:44:37Z,1,19:53,00:07,0,0,28.0,San Jose Sharks,SJS
+100,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363189,2022020363,Hit,189,HIT,Radim Simek hit Mitchell Marner,2022-12-01T00:44:41Z,1,19:57,00:03,0,0,28.0,San Jose Sharks,SJS
+101,10,28,Toronto Maple Leafs,San Jose Sharks,202202036344,2022020363,Blocked Shot,44,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Nick Cicek,2022-12-01T00:44:44Z,1,20:00,00:00,0,0,28.0,San Jose Sharks,SJS
+102,10,28,Toronto Maple Leafs,San Jose Sharks,202202036345,2022020363,Period End,45,PERIOD_END,End of 1st Period,2022-12-01T00:44:44Z,1,20:00,00:00,0,0,,,
+103,10,28,Toronto Maple Leafs,San Jose Sharks,202202036348,2022020363,Period Official,48,PERIOD_OFFICIAL,Period Official,2022-12-01T00:56:03Z,1,20:00,00:00,0,0,,,
+104,10,28,Toronto Maple Leafs,San Jose Sharks,202202036349,2022020363,Period Ready,49,PERIOD_READY,Period Ready,2022-12-01T01:01:16Z,2,00:00,20:00,0,0,,,
+105,10,28,Toronto Maple Leafs,San Jose Sharks,202202036379,2022020363,Period Start,79,PERIOD_START,Period Start,2022-12-01T01:03:23Z,2,00:00,20:00,0,0,,,
+106,10,28,Toronto Maple Leafs,San Jose Sharks,202202036380,2022020363,Faceoff,80,FACEOFF,John Tavares faceoff won against Tomas Hertl,2022-12-01T01:03:23Z,2,00:00,20:00,0,0,10.0,Toronto Maple Leafs,TOR
+107,10,28,Toronto Maple Leafs,San Jose Sharks,202202036350,2022020363,Shot,50,SHOT,Kevin Labanc Wrist Shot saved by Ilya Samsonov,2022-12-01T01:03:50Z,2,00:27,19:33,0,0,28.0,San Jose Sharks,SJS
+108,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363190,2022020363,Hit,190,HIT,Jaycob Megna hit Timothy Liljegren,2022-12-01T01:04:23Z,2,01:00,19:00,0,0,28.0,San Jose Sharks,SJS
+109,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363191,2022020363,Hit,191,HIT,Auston Matthews hit Marc-Edouard Vlasic,2022-12-01T01:04:29Z,2,01:06,18:54,0,0,10.0,Toronto Maple Leafs,TOR
+110,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363192,2022020363,Hit,192,HIT,Marc-Edouard Vlasic hit Auston Matthews,2022-12-01T01:04:35Z,2,01:12,18:48,0,0,28.0,San Jose Sharks,SJS
+111,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363251,2022020363,Shot,251,SHOT,William Nylander Tip-In saved by Aaron Dell,2022-12-01T01:04:41Z,2,01:18,18:42,0,0,10.0,Toronto Maple Leafs,TOR
+112,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363193,2022020363,Hit,193,HIT,Jaycob Megna hit Auston Matthews,2022-12-01T01:04:46Z,2,01:23,18:37,0,0,28.0,San Jose Sharks,SJS
+113,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363194,2022020363,Stoppage,194,STOP,Icing,2022-12-01T01:04:57Z,2,01:33,18:27,0,0,,,
+114,10,28,Toronto Maple Leafs,San Jose Sharks,202202036382,2022020363,Faceoff,82,FACEOFF,David Kampf faceoff won against Logan Couture,2022-12-01T01:05:21Z,2,01:33,18:27,0,0,10.0,Toronto Maple Leafs,TOR
+115,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363252,2022020363,Blocked Shot,252,BLOCKED_SHOT,Mac Hollowell shot blocked shot by Jaycob Megna,2022-12-01T01:05:26Z,2,01:38,18:22,0,0,28.0,San Jose Sharks,SJS
+116,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363195,2022020363,Hit,195,HIT,Jaycob Megna hit Zach Aston-Reese,2022-12-01T01:05:36Z,2,01:48,18:12,0,0,28.0,San Jose Sharks,SJS
+117,10,28,Toronto Maple Leafs,San Jose Sharks,202202036383,2022020363,Takeaway,83,TAKEAWAY,Takeaway by Radim Simek,2022-12-01T01:06:00Z,2,02:12,17:48,0,0,28.0,San Jose Sharks,SJS
+118,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363253,2022020363,Blocked Shot,253,BLOCKED_SHOT,Pierre Engvall shot blocked shot by Radim Simek,2022-12-01T01:06:32Z,2,02:44,17:16,0,0,28.0,San Jose Sharks,SJS
+119,10,28,Toronto Maple Leafs,San Jose Sharks,202202036384,2022020363,Giveaway,84,GIVEAWAY,Giveaway by Ilya Samsonov,2022-12-01T01:06:43Z,2,02:55,17:05,0,0,10.0,Toronto Maple Leafs,TOR
+120,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363254,2022020363,Blocked Shot,254,BLOCKED_SHOT,Evgeny Svechnikov shot blocked shot by Mark Giordano,2022-12-01T01:06:46Z,2,02:58,17:02,0,0,10.0,Toronto Maple Leafs,TOR
+121,10,28,Toronto Maple Leafs,San Jose Sharks,202202036385,2022020363,Giveaway,85,GIVEAWAY,Giveaway by Evgeny Svechnikov,2022-12-01T01:06:49Z,2,03:01,16:59,0,0,28.0,San Jose Sharks,SJS
+122,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363196,2022020363,Stoppage,196,STOP,Icing,2022-12-01T01:06:54Z,2,03:06,16:54,0,0,,,
+123,10,28,Toronto Maple Leafs,San Jose Sharks,202202036386,2022020363,Faceoff,86,FACEOFF,Tomas Hertl faceoff won against Pontus Holmberg,2022-12-01T01:07:18Z,2,03:06,16:54,0,0,28.0,San Jose Sharks,SJS
+124,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363197,2022020363,Stoppage,197,STOP,Puck in Netting,2022-12-01T01:07:24Z,2,03:12,16:48,0,0,,,
+125,10,28,Toronto Maple Leafs,San Jose Sharks,202202036387,2022020363,Faceoff,87,FACEOFF,John Tavares faceoff won against Tomas Hertl,2022-12-01T01:07:55Z,2,03:12,16:48,0,0,10.0,Toronto Maple Leafs,TOR
+126,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363255,2022020363,Shot,255,SHOT,John Tavares Wrist Shot saved by Aaron Dell,2022-12-01T01:08:06Z,2,03:23,16:37,0,0,10.0,Toronto Maple Leafs,TOR
+127,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363198,2022020363,Hit,198,HIT,Nick Cicek hit John Tavares,2022-12-01T01:08:14Z,2,03:31,16:29,0,0,28.0,San Jose Sharks,SJS
+128,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363256,2022020363,Blocked Shot,256,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Timothy Liljegren,2022-12-01T01:08:24Z,2,03:41,16:19,0,0,10.0,Toronto Maple Leafs,TOR
+129,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363199,2022020363,Hit,199,HIT,Timo Meier hit John Tavares,2022-12-01T01:08:27Z,2,03:44,16:16,0,0,28.0,San Jose Sharks,SJS
+130,10,28,Toronto Maple Leafs,San Jose Sharks,202202036388,2022020363,Takeaway,88,TAKEAWAY,Takeaway by Mitchell Marner,2022-12-01T01:08:31Z,2,03:48,16:12,0,0,10.0,Toronto Maple Leafs,TOR
+131,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363352,2022020363,Blocked Shot,352,BLOCKED_SHOT,Timo Meier shot blocked shot by Timothy Liljegren,2022-12-01T01:08:38Z,2,03:55,16:05,0,0,10.0,Toronto Maple Leafs,TOR
+132,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363258,2022020363,Shot,258,SHOT,Michael Bunting Wrist Shot saved by Aaron Dell,2022-12-01T01:09:00Z,2,04:17,15:43,0,0,10.0,Toronto Maple Leafs,TOR
+133,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363259,2022020363,Goal,259,GOAL,"Auston Matthews (12) Tip-In, assists: Mac Hollowell (2), Michael Bunting (11)",2022-12-01T01:09:02Z,2,04:19,15:41,1,0,10.0,Toronto Maple Leafs,TOR
+134,10,28,Toronto Maple Leafs,San Jose Sharks,202202036390,2022020363,Faceoff,90,FACEOFF,Auston Matthews faceoff won against Nick Bonino,2022-12-01T01:09:44Z,2,04:19,15:41,1,0,10.0,Toronto Maple Leafs,TOR
+135,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363200,2022020363,Stoppage,200,STOP,Icing,2022-12-01T01:09:57Z,2,04:33,15:27,1,0,,,
+136,10,28,Toronto Maple Leafs,San Jose Sharks,202202036391,2022020363,Faceoff,91,FACEOFF,Nick Bonino faceoff won against John Tavares,2022-12-01T01:10:22Z,2,04:33,15:27,1,0,28.0,San Jose Sharks,SJS
+137,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363401,2022020363,Stoppage,401,STOP,Offside,2022-12-01T01:10:44Z,2,04:55,15:05,1,0,,,
+138,10,28,Toronto Maple Leafs,San Jose Sharks,202202036392,2022020363,Faceoff,92,FACEOFF,Steven Lorentz faceoff won against David Kampf,2022-12-01T01:11:24Z,2,04:55,15:05,1,0,28.0,San Jose Sharks,SJS
+139,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363402,2022020363,Hit,402,HIT,Steven Lorentz hit Timothy Liljegren,2022-12-01T01:11:36Z,2,05:07,14:53,1,0,28.0,San Jose Sharks,SJS
+140,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363403,2022020363,Hit,403,HIT,Steven Lorentz hit Rasmus Sandin,2022-12-01T01:11:47Z,2,05:18,14:42,1,0,28.0,San Jose Sharks,SJS
+141,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363260,2022020363,Blocked Shot,260,BLOCKED_SHOT,Zach Aston-Reese shot blocked shot by Matt Benning,2022-12-01T01:11:49Z,2,05:20,14:40,1,0,28.0,San Jose Sharks,SJS
+142,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363404,2022020363,Hit,404,HIT,Steven Lorentz hit Rasmus Sandin,2022-12-01T01:11:55Z,2,05:26,14:34,1,0,28.0,San Jose Sharks,SJS
+143,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363261,2022020363,Missed Shot,261,MISSED_SHOT,Nicholas Robertson Over Net Aaron Dell,2022-12-01T01:12:19Z,2,05:50,14:10,1,0,10.0,Toronto Maple Leafs,TOR
+144,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363262,2022020363,Shot,262,SHOT,Justin Holl Wrist Shot saved by Aaron Dell,2022-12-01T01:12:26Z,2,05:57,14:03,1,0,10.0,Toronto Maple Leafs,TOR
+145,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363405,2022020363,Stoppage,405,STOP,Goalie Stopped,2022-12-01T01:12:26Z,2,05:57,14:03,1,0,,,
+146,10,28,Toronto Maple Leafs,San Jose Sharks,202202036393,2022020363,Faceoff,93,FACEOFF,Tomas Hertl faceoff won against Pontus Holmberg,2022-12-01T01:12:54Z,2,05:57,14:03,1,0,28.0,San Jose Sharks,SJS
+147,10,28,Toronto Maple Leafs,San Jose Sharks,202202036394,2022020363,Giveaway,94,GIVEAWAY,Giveaway by Kevin Labanc,2022-12-01T01:12:59Z,2,06:02,13:58,1,0,28.0,San Jose Sharks,SJS
+148,10,28,Toronto Maple Leafs,San Jose Sharks,202202036395,2022020363,Takeaway,95,TAKEAWAY,Takeaway by Timo Meier,2022-12-01T01:13:27Z,2,06:30,13:30,1,0,28.0,San Jose Sharks,SJS
+149,10,28,Toronto Maple Leafs,San Jose Sharks,202202036396,2022020363,Takeaway,96,TAKEAWAY,Takeaway by Mitchell Marner,2022-12-01T01:14:04Z,2,07:07,12:53,1,0,10.0,Toronto Maple Leafs,TOR
+150,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363263,2022020363,Shot,263,SHOT,Matt Nieto Wrist Shot saved by Ilya Samsonov,2022-12-01T01:14:16Z,2,07:19,12:41,1,0,28.0,San Jose Sharks,SJS
+151,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363264,2022020363,Goal,264,GOAL,"Matt Nieto (6) Wrist Shot, assists: Logan Couture (10), Nick Cicek (4)",2022-12-01T01:14:23Z,2,07:26,12:34,1,1,28.0,San Jose Sharks,SJS
+152,10,28,Toronto Maple Leafs,San Jose Sharks,202202036397,2022020363,Faceoff,97,FACEOFF,Auston Matthews faceoff won against Nick Bonino,2022-12-01T01:15:02Z,2,07:26,12:34,1,1,10.0,Toronto Maple Leafs,TOR
+153,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363406,2022020363,Stoppage,406,STOP,Puck Frozen,2022-12-01T01:15:10Z,2,07:33,12:27,1,1,,,
+154,10,28,Toronto Maple Leafs,San Jose Sharks,202202036399,2022020363,Faceoff,99,FACEOFF,Nick Bonino faceoff won against Auston Matthews,2022-12-01T01:17:34Z,2,07:33,12:27,1,1,28.0,San Jose Sharks,SJS
+155,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363265,2022020363,Blocked Shot,265,BLOCKED_SHOT,Noah Gregor shot blocked shot by Timothy Liljegren,2022-12-01T01:17:43Z,2,07:42,12:18,1,1,10.0,Toronto Maple Leafs,TOR
+156,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363266,2022020363,Shot,266,SHOT,Noah Gregor Wrist Shot saved by Ilya Samsonov,2022-12-01T01:18:10Z,2,08:09,11:51,1,1,28.0,San Jose Sharks,SJS
+157,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363100,2022020363,Takeaway,100,TAKEAWAY,Takeaway by Auston Matthews,2022-12-01T01:18:23Z,2,08:22,11:38,1,1,10.0,Toronto Maple Leafs,TOR
+158,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363267,2022020363,Shot,267,SHOT,Justin Holl Snap Shot saved by Aaron Dell,2022-12-01T01:18:27Z,2,08:26,11:34,1,1,10.0,Toronto Maple Leafs,TOR
+159,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363408,2022020363,Penalty,408,PENALTY,Nick Cicek Hooking against Auston Matthews,2022-12-01T01:18:28Z,2,08:27,11:33,1,1,28.0,San Jose Sharks,SJS
+160,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363501,2022020363,Faceoff,501,FACEOFF,John Tavares faceoff won against Logan Couture,2022-12-01T01:19:13Z,2,08:27,11:33,1,1,10.0,Toronto Maple Leafs,TOR
+161,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363268,2022020363,Shot,268,SHOT,William Nylander Wrist Shot saved by Aaron Dell,2022-12-01T01:19:32Z,2,08:46,11:14,1,1,10.0,Toronto Maple Leafs,TOR
+162,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363269,2022020363,Shot,269,SHOT,Radim Simek Wrist Shot saved by Ilya Samsonov,2022-12-01T01:20:40Z,2,09:54,10:06,1,1,28.0,San Jose Sharks,SJS
+163,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363412,2022020363,Penalty,412,PENALTY,Luke Kunin Tripping against Mark Giordano,2022-12-01T01:21:53Z,2,11:07,08:53,1,1,28.0,San Jose Sharks,SJS
+164,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363415,2022020363,Stoppage,415,STOP,Referee or Linesman,2022-12-01T01:21:53Z,2,11:07,08:53,1,1,,,
+165,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363503,2022020363,Faceoff,503,FACEOFF,John Tavares faceoff won against Logan Couture,2022-12-01T01:24:06Z,2,11:07,08:53,1,1,10.0,Toronto Maple Leafs,TOR
+166,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363270,2022020363,Blocked Shot,270,BLOCKED_SHOT,Auston Matthews shot blocked shot by Matt Benning,2022-12-01T01:24:09Z,2,11:10,08:50,1,1,28.0,San Jose Sharks,SJS
+167,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363416,2022020363,Stoppage,416,STOP,Puck in Netting,2022-12-01T01:24:11Z,2,11:12,08:48,1,1,,,
+168,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363504,2022020363,Faceoff,504,FACEOFF,John Tavares faceoff won against Logan Couture,2022-12-01T01:24:28Z,2,11:12,08:48,1,1,10.0,Toronto Maple Leafs,TOR
+169,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363353,2022020363,Blocked Shot,353,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Marc-Edouard Vlasic,2022-12-01T01:24:31Z,2,11:15,08:45,1,1,28.0,San Jose Sharks,SJS
+170,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363505,2022020363,Giveaway,505,GIVEAWAY,Giveaway by Ilya Samsonov,2022-12-01T01:24:42Z,2,11:26,08:34,1,1,10.0,Toronto Maple Leafs,TOR
+171,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363272,2022020363,Shot,272,SHOT,Logan Couture Backhand saved by Ilya Samsonov,2022-12-01T01:24:43Z,2,11:27,08:33,1,1,28.0,San Jose Sharks,SJS
+172,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363273,2022020363,Blocked Shot,273,BLOCKED_SHOT,Auston Matthews shot blocked shot by Radim Simek,2022-12-01T01:25:43Z,2,12:27,07:33,1,1,28.0,San Jose Sharks,SJS
+173,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363417,2022020363,Stoppage,417,STOP,Puck in Netting,2022-12-01T01:25:43Z,2,12:27,07:33,1,1,,,
+174,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363506,2022020363,Faceoff,506,FACEOFF,Pierre Engvall faceoff won against Logan Couture,2022-12-01T01:26:04Z,2,12:27,07:33,1,1,10.0,Toronto Maple Leafs,TOR
+175,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363274,2022020363,Blocked Shot,274,BLOCKED_SHOT,Nicholas Robertson shot blocked shot by Marc-Edouard Vlasic,2022-12-01T01:26:24Z,2,12:47,07:13,1,1,28.0,San Jose Sharks,SJS
+176,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363507,2022020363,Takeaway,507,TAKEAWAY,Takeaway by Nicholas Robertson,2022-12-01T01:26:33Z,2,12:56,07:04,1,1,10.0,Toronto Maple Leafs,TOR
+177,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363275,2022020363,Shot,275,SHOT,Nicholas Robertson Snap Shot saved by Aaron Dell,2022-12-01T01:26:38Z,2,13:01,06:59,1,1,10.0,Toronto Maple Leafs,TOR
+178,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363276,2022020363,Blocked Shot,276,BLOCKED_SHOT,Mark Giordano shot blocked shot by Logan Couture,2022-12-01T01:26:46Z,2,13:09,06:51,1,1,28.0,San Jose Sharks,SJS
+179,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363418,2022020363,Stoppage,418,STOP,Offside,2022-12-01T01:26:55Z,2,13:18,06:42,1,1,,,
+180,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363508,2022020363,Faceoff,508,FACEOFF,David Kampf faceoff won against Tomas Hertl,2022-12-01T01:27:20Z,2,13:18,06:42,1,1,10.0,Toronto Maple Leafs,TOR
+181,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363420,2022020363,Hit,420,HIT,Timothy Liljegren hit Timo Meier,2022-12-01T01:27:34Z,2,13:32,06:28,1,1,10.0,Toronto Maple Leafs,TOR
+182,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363278,2022020363,Shot,278,SHOT,Timo Meier Wrist Shot saved by Ilya Samsonov,2022-12-01T01:28:05Z,2,14:03,05:57,1,1,28.0,San Jose Sharks,SJS
+183,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363421,2022020363,Stoppage,421,STOP,Goalie Stopped,2022-12-01T01:28:05Z,2,14:03,05:57,1,1,,,
+184,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363509,2022020363,Faceoff,509,FACEOFF,John Tavares faceoff won against Nick Bonino,2022-12-01T01:30:22Z,2,14:03,05:57,1,1,10.0,Toronto Maple Leafs,TOR
+185,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363279,2022020363,Shot,279,SHOT,Noah Gregor Wrist Shot saved by Ilya Samsonov,2022-12-01T01:30:26Z,2,14:07,05:53,1,1,28.0,San Jose Sharks,SJS
+186,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363422,2022020363,Stoppage,422,STOP,Goalie Stopped,2022-12-01T01:30:26Z,2,14:07,05:53,1,1,,,
+187,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363510,2022020363,Faceoff,510,FACEOFF,John Tavares faceoff won against Nick Bonino,2022-12-01T01:30:39Z,2,14:07,05:53,1,1,10.0,Toronto Maple Leafs,TOR
+188,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363280,2022020363,Blocked Shot,280,BLOCKED_SHOT,Nick Bonino shot blocked shot by John Tavares,2022-12-01T01:30:46Z,2,14:14,05:46,1,1,10.0,Toronto Maple Leafs,TOR
+189,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363423,2022020363,Hit,423,HIT,Nicholas Robertson hit Alexander Barabanov,2022-12-01T01:31:01Z,2,14:29,05:31,1,1,10.0,Toronto Maple Leafs,TOR
+190,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363424,2022020363,Hit,424,HIT,Nicholas Robertson hit Nick Cicek,2022-12-01T01:31:13Z,2,14:41,05:19,1,1,10.0,Toronto Maple Leafs,TOR
+191,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363511,2022020363,Giveaway,511,GIVEAWAY,Giveaway by Nicholas Robertson,2022-12-01T01:31:23Z,2,14:51,05:09,1,1,10.0,Toronto Maple Leafs,TOR
+192,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363281,2022020363,Missed Shot,281,MISSED_SHOT,Steven Lorentz Wide of Net Ilya Samsonov,2022-12-01T01:31:29Z,2,14:57,05:03,1,1,28.0,San Jose Sharks,SJS
+193,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363425,2022020363,Hit,425,HIT,Evgeny Svechnikov hit Michael Bunting,2022-12-01T01:31:52Z,2,15:20,04:40,1,1,28.0,San Jose Sharks,SJS
+194,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363426,2022020363,Hit,426,HIT,Marc-Edouard Vlasic hit Michael Bunting,2022-12-01T01:32:09Z,2,15:37,04:23,1,1,28.0,San Jose Sharks,SJS
+195,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363282,2022020363,Shot,282,SHOT,Matt Benning Wrist Shot saved by Ilya Samsonov,2022-12-01T01:32:10Z,2,15:38,04:22,1,1,28.0,San Jose Sharks,SJS
+196,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363427,2022020363,Hit,427,HIT,Rasmus Sandin hit Matt Nieto,2022-12-01T01:32:27Z,2,15:55,04:05,1,1,10.0,Toronto Maple Leafs,TOR
+197,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363283,2022020363,Blocked Shot,283,BLOCKED_SHOT,Luke Kunin shot blocked shot by Rasmus Sandin,2022-12-01T01:32:30Z,2,15:58,04:02,1,1,10.0,Toronto Maple Leafs,TOR
+198,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363284,2022020363,Shot,284,SHOT,William Nylander Wrist Shot saved by Aaron Dell,2022-12-01T01:32:35Z,2,16:03,03:57,1,1,10.0,Toronto Maple Leafs,TOR
+199,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363428,2022020363,Hit,428,HIT,Justin Holl hit Tomas Hertl,2022-12-01T01:33:06Z,2,16:34,03:26,1,1,10.0,Toronto Maple Leafs,TOR
+200,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363512,2022020363,Takeaway,512,TAKEAWAY,Takeaway by John Tavares,2022-12-01T01:33:26Z,2,16:54,03:06,1,1,10.0,Toronto Maple Leafs,TOR
+201,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363429,2022020363,Hit,429,HIT,Kevin Labanc hit Mitchell Marner,2022-12-01T01:33:31Z,2,16:59,03:01,1,1,28.0,San Jose Sharks,SJS
+202,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363430,2022020363,Hit,430,HIT,Matt Benning hit Nicholas Robertson,2022-12-01T01:33:48Z,2,17:16,02:44,1,1,28.0,San Jose Sharks,SJS
+203,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363513,2022020363,Giveaway,513,GIVEAWAY,Giveaway by Victor Mete,2022-12-01T01:34:10Z,2,17:38,02:22,1,1,10.0,Toronto Maple Leafs,TOR
+204,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363286,2022020363,Shot,286,SHOT,Alexander Barabanov Wrist Shot saved by Ilya Samsonov,2022-12-01T01:34:12Z,2,17:40,02:20,1,1,28.0,San Jose Sharks,SJS
+205,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363431,2022020363,Hit,431,HIT,Timothy Liljegren hit Tomas Hertl,2022-12-01T01:34:39Z,2,18:07,01:53,1,1,10.0,Toronto Maple Leafs,TOR
+206,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363287,2022020363,Shot,287,SHOT,Mac Hollowell Wrist Shot saved by Aaron Dell,2022-12-01T01:34:46Z,2,18:14,01:46,1,1,10.0,Toronto Maple Leafs,TOR
+207,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363514,2022020363,Takeaway,514,TAKEAWAY,Takeaway by Michael Bunting,2022-12-01T01:34:55Z,2,18:23,01:37,1,1,10.0,Toronto Maple Leafs,TOR
+208,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363432,2022020363,Stoppage,432,STOP,Puck in Netting,2022-12-01T01:35:00Z,2,18:28,01:32,1,1,,,
+209,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363515,2022020363,Faceoff,515,FACEOFF,Pontus Holmberg faceoff won against Logan Couture,2022-12-01T01:35:36Z,2,18:28,01:32,1,1,10.0,Toronto Maple Leafs,TOR
+210,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363288,2022020363,Shot,288,SHOT,Matt Nieto Wrist Shot saved by Ilya Samsonov,2022-12-01T01:35:43Z,2,18:35,01:25,1,1,28.0,San Jose Sharks,SJS
+211,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363433,2022020363,Stoppage,433,STOP,Goalie Stopped,2022-12-01T01:35:44Z,2,18:36,01:24,1,1,,,
+212,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363516,2022020363,Faceoff,516,FACEOFF,Logan Couture faceoff won against David Kampf,2022-12-01T01:36:12Z,2,18:36,01:24,1,1,28.0,San Jose Sharks,SJS
+213,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363289,2022020363,Blocked Shot,289,BLOCKED_SHOT,Marc-Edouard Vlasic shot blocked shot by Alexander Kerfoot,2022-12-01T01:36:18Z,2,18:42,01:18,1,1,10.0,Toronto Maple Leafs,TOR
+214,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363290,2022020363,Shot,290,SHOT,Pierre Engvall Wrist Shot saved by Aaron Dell,2022-12-01T01:36:29Z,2,18:53,01:07,1,1,10.0,Toronto Maple Leafs,TOR
+215,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363434,2022020363,Stoppage,434,STOP,Goalie Stopped,2022-12-01T01:36:30Z,2,18:54,01:06,1,1,,,
+216,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363517,2022020363,Faceoff,517,FACEOFF,Auston Matthews faceoff won against Nick Bonino,2022-12-01T01:37:04Z,2,18:54,01:06,1,1,10.0,Toronto Maple Leafs,TOR
+217,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363291,2022020363,Shot,291,SHOT,Mitchell Marner Wrist Shot saved by Aaron Dell,2022-12-01T01:37:07Z,2,18:57,01:03,1,1,10.0,Toronto Maple Leafs,TOR
+218,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363518,2022020363,Giveaway,518,GIVEAWAY,Giveaway by Jaycob Megna,2022-12-01T01:37:15Z,2,19:05,00:55,1,1,28.0,San Jose Sharks,SJS
+219,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363292,2022020363,Blocked Shot,292,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Jaycob Megna,2022-12-01T01:37:20Z,2,19:10,00:50,1,1,28.0,San Jose Sharks,SJS
+220,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363435,2022020363,Hit,435,HIT,Jaycob Megna hit Michael Bunting,2022-12-01T01:37:32Z,2,19:22,00:38,1,1,28.0,San Jose Sharks,SJS
+221,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363436,2022020363,Stoppage,436,STOP,Hand Pass,2022-12-01T01:37:36Z,2,19:25,00:35,1,1,,,
+222,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363519,2022020363,Faceoff,519,FACEOFF,John Tavares faceoff won against Tomas Hertl,2022-12-01T01:38:13Z,2,19:25,00:35,1,1,10.0,Toronto Maple Leafs,TOR
+223,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363437,2022020363,Hit,437,HIT,Zach Aston-Reese hit Jaycob Megna,2022-12-01T01:38:28Z,2,19:40,00:20,1,1,10.0,Toronto Maple Leafs,TOR
+224,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363293,2022020363,Period End,293,PERIOD_END,End of 2nd Period,2022-12-01T01:38:48Z,2,20:00,00:00,1,1,,,
+225,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363296,2022020363,Period Official,296,PERIOD_OFFICIAL,Period Official,2022-12-01T01:55:57Z,2,20:00,00:00,1,1,,,
+226,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363297,2022020363,Period Ready,297,PERIOD_READY,Period Ready,2022-12-01T01:56:00Z,3,00:00,20:00,1,1,,,
+227,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363520,2022020363,Period Start,520,PERIOD_START,Period Start,2022-12-01T01:57:40Z,3,00:00,20:00,1,1,,,
+228,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363521,2022020363,Faceoff,521,FACEOFF,Tomas Hertl faceoff won against Auston Matthews,2022-12-01T01:57:40Z,3,00:00,20:00,1,1,28.0,San Jose Sharks,SJS
+229,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363438,2022020363,Hit,438,HIT,Tomas Hertl hit Justin Holl,2022-12-01T01:57:51Z,3,00:11,19:49,1,1,28.0,San Jose Sharks,SJS
+230,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363522,2022020363,Takeaway,522,TAKEAWAY,Takeaway by Michael Bunting,2022-12-01T01:58:12Z,3,00:32,19:28,1,1,10.0,Toronto Maple Leafs,TOR
+231,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363523,2022020363,Giveaway,523,GIVEAWAY,Giveaway by Aaron Dell,2022-12-01T01:58:33Z,3,00:53,19:07,1,1,28.0,San Jose Sharks,SJS
+232,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363298,2022020363,Blocked Shot,298,BLOCKED_SHOT,William Nylander shot blocked shot by Marc-Edouard Vlasic,2022-12-01T01:59:01Z,3,01:21,18:39,1,1,28.0,San Jose Sharks,SJS
+233,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363525,2022020363,Takeaway,525,TAKEAWAY,Takeaway by Luke Kunin,2022-12-01T01:59:06Z,3,01:26,18:34,1,1,28.0,San Jose Sharks,SJS
+234,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363440,2022020363,Hit,440,HIT,Nicholas Robertson hit Luke Kunin,2022-12-01T01:59:14Z,3,01:34,18:26,1,1,10.0,Toronto Maple Leafs,TOR
+235,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363441,2022020363,Hit,441,HIT,Radim Simek hit Victor Mete,2022-12-01T01:59:26Z,3,01:46,18:14,1,1,28.0,San Jose Sharks,SJS
+236,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363299,2022020363,Missed Shot,299,MISSED_SHOT,Evgeny Svechnikov Wide of Net Ilya Samsonov,2022-12-01T01:59:39Z,3,01:59,18:01,1,1,28.0,San Jose Sharks,SJS
+237,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363526,2022020363,Takeaway,526,TAKEAWAY,Takeaway by Mac Hollowell,2022-12-01T01:59:44Z,3,02:04,17:56,1,1,10.0,Toronto Maple Leafs,TOR
+238,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363527,2022020363,Giveaway,527,GIVEAWAY,Giveaway by David Kampf,2022-12-01T02:00:01Z,3,02:21,17:39,1,1,10.0,Toronto Maple Leafs,TOR
+239,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363442,2022020363,Hit,442,HIT,Evgeny Svechnikov hit David Kampf,2022-12-01T02:00:03Z,3,02:23,17:37,1,1,28.0,San Jose Sharks,SJS
+240,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363300,2022020363,Shot,300,SHOT,Evgeny Svechnikov Wrist Shot saved by Ilya Samsonov,2022-12-01T02:00:04Z,3,02:24,17:36,1,1,28.0,San Jose Sharks,SJS
+241,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363443,2022020363,Stoppage,443,STOP,Puck Frozen,2022-12-01T02:00:07Z,3,02:28,17:32,1,1,,,
+242,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363528,2022020363,Faceoff,528,FACEOFF,Tomas Hertl faceoff won against Pontus Holmberg,2022-12-01T02:00:50Z,3,02:28,17:32,1,1,28.0,San Jose Sharks,SJS
+243,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363651,2022020363,Missed Shot,651,MISSED_SHOT,Erik Karlsson Wide of Net Ilya Samsonov,2022-12-01T02:00:56Z,3,02:34,17:26,1,1,28.0,San Jose Sharks,SJS
+244,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363652,2022020363,Shot,652,SHOT,William Nylander Slap Shot saved by Aaron Dell,2022-12-01T02:01:09Z,3,02:47,17:13,1,1,10.0,Toronto Maple Leafs,TOR
+245,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363444,2022020363,Stoppage,444,STOP,Puck in Netting,2022-12-01T02:01:10Z,3,02:48,17:12,1,1,,,
+246,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363529,2022020363,Faceoff,529,FACEOFF,Tomas Hertl faceoff won against William Nylander,2022-12-01T02:01:42Z,3,02:48,17:12,1,1,28.0,San Jose Sharks,SJS
+247,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363445,2022020363,Hit,445,HIT,Logan Couture hit Rasmus Sandin,2022-12-01T02:02:18Z,3,03:24,16:36,1,1,28.0,San Jose Sharks,SJS
+248,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363530,2022020363,Giveaway,530,GIVEAWAY,Giveaway by Marc-Edouard Vlasic,2022-12-01T02:02:25Z,3,03:31,16:29,1,1,28.0,San Jose Sharks,SJS
+249,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363446,2022020363,Stoppage,446,STOP,Puck Frozen,2022-12-01T02:02:28Z,3,03:34,16:26,1,1,,,
+250,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363531,2022020363,Faceoff,531,FACEOFF,Auston Matthews faceoff won against Nick Bonino,2022-12-01T02:03:03Z,3,03:34,16:26,1,1,10.0,Toronto Maple Leafs,TOR
+251,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363653,2022020363,Blocked Shot,653,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Matt Benning,2022-12-01T02:03:09Z,3,03:40,16:20,1,1,28.0,San Jose Sharks,SJS
+252,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363447,2022020363,Stoppage,447,STOP,Puck in Benches,2022-12-01T02:03:31Z,3,04:03,15:57,1,1,,,
+253,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363532,2022020363,Faceoff,532,FACEOFF,John Tavares faceoff won against Steven Lorentz,2022-12-01T02:04:04Z,3,04:03,15:57,1,1,10.0,Toronto Maple Leafs,TOR
+254,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363654,2022020363,Blocked Shot,654,BLOCKED_SHOT,Mark Giordano shot blocked shot by Oskar Lindblom,2022-12-01T02:04:23Z,3,04:22,15:38,1,1,28.0,San Jose Sharks,SJS
+255,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363655,2022020363,Shot,655,SHOT,John Tavares Wrist Shot saved by Aaron Dell,2022-12-01T02:04:24Z,3,04:23,15:37,1,1,10.0,Toronto Maple Leafs,TOR
+256,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363659,2022020363,Shot,659,SHOT,Nicholas Robertson Wrist Shot saved by Aaron Dell,2022-12-01T02:04:27Z,3,04:26,15:34,1,1,10.0,Toronto Maple Leafs,TOR
+257,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363657,2022020363,Missed Shot,657,MISSED_SHOT,Steven Lorentz Wide of Net Ilya Samsonov,2022-12-01T02:04:38Z,3,04:37,15:23,1,1,28.0,San Jose Sharks,SJS
+258,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363448,2022020363,Hit,448,HIT,Steven Lorentz hit Justin Holl,2022-12-01T02:04:44Z,3,04:43,15:17,1,1,28.0,San Jose Sharks,SJS
+259,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363658,2022020363,Blocked Shot,658,BLOCKED_SHOT,Kevin Labanc shot blocked shot by Timothy Liljegren,2022-12-01T02:05:01Z,3,05:00,15:00,1,1,10.0,Toronto Maple Leafs,TOR
+260,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363449,2022020363,Hit,449,HIT,Jaycob Megna hit David Kampf,2022-12-01T02:05:09Z,3,05:08,14:52,1,1,28.0,San Jose Sharks,SJS
+261,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363450,2022020363,Hit,450,HIT,Logan Couture hit Mac Hollowell,2022-12-01T02:06:01Z,3,06:00,14:00,1,1,28.0,San Jose Sharks,SJS
+262,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363751,2022020363,Stoppage,751,STOP,Puck in Benches,2022-12-01T02:06:53Z,3,06:52,13:08,1,1,,,
+263,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363533,2022020363,Faceoff,533,FACEOFF,Auston Matthews faceoff won against Tomas Hertl,2022-12-01T02:09:21Z,3,06:52,13:08,1,1,10.0,Toronto Maple Leafs,TOR
+264,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363752,2022020363,Hit,752,HIT,Erik Karlsson hit Mitchell Marner,2022-12-01T02:09:30Z,3,07:01,12:59,1,1,28.0,San Jose Sharks,SJS
+265,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363753,2022020363,Stoppage,753,STOP,Icing,2022-12-01T02:10:01Z,3,07:32,12:28,1,1,,,
+266,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363534,2022020363,Faceoff,534,FACEOFF,John Tavares faceoff won against Tomas Hertl,2022-12-01T02:10:31Z,3,07:32,12:28,1,1,10.0,Toronto Maple Leafs,TOR
+267,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363754,2022020363,Hit,754,HIT,Nicholas Robertson hit Erik Karlsson,2022-12-01T02:10:42Z,3,07:43,12:17,1,1,10.0,Toronto Maple Leafs,TOR
+268,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363755,2022020363,Hit,755,HIT,Logan Couture hit Mark Giordano,2022-12-01T02:11:21Z,3,08:22,11:38,1,1,28.0,San Jose Sharks,SJS
+269,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363756,2022020363,Stoppage,756,STOP,Puck in Benches,2022-12-01T02:11:41Z,3,08:41,11:19,1,1,,,
+270,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363535,2022020363,Faceoff,535,FACEOFF,David Kampf faceoff won against Steven Lorentz,2022-12-01T02:12:11Z,3,08:41,11:19,1,1,10.0,Toronto Maple Leafs,TOR
+271,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363757,2022020363,Hit,757,HIT,Evgeny Svechnikov hit Rasmus Sandin,2022-12-01T02:12:27Z,3,08:57,11:03,1,1,28.0,San Jose Sharks,SJS
+272,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363758,2022020363,Hit,758,HIT,Steven Lorentz hit David Kampf,2022-12-01T02:12:37Z,3,09:07,10:53,1,1,28.0,San Jose Sharks,SJS
+273,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363536,2022020363,Takeaway,536,TAKEAWAY,Takeaway by Alexander Kerfoot,2022-12-01T02:12:38Z,3,09:08,10:52,1,1,10.0,Toronto Maple Leafs,TOR
+274,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363759,2022020363,Stoppage,759,STOP,Puck Frozen,2022-12-01T02:13:02Z,3,09:33,10:27,1,1,,,
+275,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363537,2022020363,Faceoff,537,FACEOFF,Nick Bonino faceoff won against Auston Matthews,2022-12-01T02:13:29Z,3,09:33,10:27,1,1,28.0,San Jose Sharks,SJS
+276,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363660,2022020363,Shot,660,SHOT,Tomas Hertl Wrist Shot saved by Ilya Samsonov,2022-12-01T02:14:08Z,3,10:12,09:48,1,1,28.0,San Jose Sharks,SJS
+277,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363661,2022020363,Shot,661,SHOT,Tomas Hertl Wrist Shot saved by Ilya Samsonov,2022-12-01T02:14:14Z,3,10:18,09:42,1,1,28.0,San Jose Sharks,SJS
+278,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363662,2022020363,Blocked Shot,662,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Justin Holl,2022-12-01T02:14:22Z,3,10:26,09:34,1,1,10.0,Toronto Maple Leafs,TOR
+279,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363538,2022020363,Giveaway,538,GIVEAWAY,Giveaway by Mark Giordano,2022-12-01T02:14:52Z,3,10:56,09:04,1,1,10.0,Toronto Maple Leafs,TOR
+280,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363663,2022020363,Missed Shot,663,MISSED_SHOT,Matt Nieto Wide of Net Ilya Samsonov,2022-12-01T02:14:54Z,3,10:58,09:02,1,1,28.0,San Jose Sharks,SJS
+281,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363760,2022020363,Stoppage,760,STOP,Icing,2022-12-01T02:15:00Z,3,11:04,08:56,1,1,,,
+282,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363539,2022020363,Faceoff,539,FACEOFF,Logan Couture faceoff won against Pontus Holmberg,2022-12-01T02:15:30Z,3,11:04,08:56,1,1,28.0,San Jose Sharks,SJS
+283,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363665,2022020363,Shot,665,SHOT,Erik Karlsson Snap Shot saved by Ilya Samsonov,2022-12-01T02:15:52Z,3,11:26,08:34,1,1,28.0,San Jose Sharks,SJS
+284,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363666,2022020363,Missed Shot,666,MISSED_SHOT,Matt Nieto Wide of Net Ilya Samsonov,2022-12-01T02:16:03Z,3,11:37,08:23,1,1,28.0,San Jose Sharks,SJS
+285,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363540,2022020363,Giveaway,540,GIVEAWAY,Giveaway by Pontus Holmberg,2022-12-01T02:16:07Z,3,11:41,08:19,1,1,10.0,Toronto Maple Leafs,TOR
+286,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363761,2022020363,Hit,761,HIT,Noah Gregor hit Mac Hollowell,2022-12-01T02:16:30Z,3,12:04,07:56,1,1,28.0,San Jose Sharks,SJS
+287,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363541,2022020363,Giveaway,541,GIVEAWAY,Giveaway by Alexander Kerfoot,2022-12-01T02:16:33Z,3,12:07,07:53,1,1,10.0,Toronto Maple Leafs,TOR
+288,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363762,2022020363,Hit,762,HIT,Nick Cicek hit David Kampf,2022-12-01T02:16:49Z,3,12:23,07:37,1,1,28.0,San Jose Sharks,SJS
+289,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363667,2022020363,Blocked Shot,667,BLOCKED_SHOT,Kevin Labanc shot blocked shot by Victor Mete,2022-12-01T02:17:06Z,3,12:40,07:20,1,1,10.0,Toronto Maple Leafs,TOR
+290,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363668,2022020363,Blocked Shot,668,BLOCKED_SHOT,Steven Lorentz shot blocked shot by Justin Holl,2022-12-01T02:17:35Z,3,13:10,06:50,1,1,10.0,Toronto Maple Leafs,TOR
+291,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363763,2022020363,Stoppage,763,STOP,Puck in Netting,2022-12-01T02:17:35Z,3,13:10,06:50,1,1,,,
+292,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363542,2022020363,Faceoff,542,FACEOFF,Logan Couture faceoff won against Auston Matthews,2022-12-01T02:19:54Z,3,13:10,06:50,1,1,28.0,San Jose Sharks,SJS
+293,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363669,2022020363,Shot,669,SHOT,Alexander Barabanov Wrist Shot saved by Ilya Samsonov,2022-12-01T02:20:13Z,3,13:29,06:31,1,1,28.0,San Jose Sharks,SJS
+294,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363670,2022020363,Blocked Shot,670,BLOCKED_SHOT,Nicholas Robertson shot blocked shot by Marc-Edouard Vlasic,2022-12-01T02:20:59Z,3,14:15,05:45,1,1,28.0,San Jose Sharks,SJS
+295,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363543,2022020363,Takeaway,543,TAKEAWAY,Takeaway by Nick Bonino,2022-12-01T02:21:08Z,3,14:24,05:36,1,1,28.0,San Jose Sharks,SJS
+296,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363765,2022020363,Penalty,765,PENALTY,Nick Cicek Tripping against William Nylander,2022-12-01T02:21:28Z,3,14:44,05:16,1,1,28.0,San Jose Sharks,SJS
+297,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363544,2022020363,Faceoff,544,FACEOFF,John Tavares faceoff won against Logan Couture,2022-12-01T02:23:44Z,3,14:44,05:16,1,1,10.0,Toronto Maple Leafs,TOR
+298,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363671,2022020363,Shot,671,SHOT,John Tavares Snap Shot saved by Aaron Dell,2022-12-01T02:23:53Z,3,14:53,05:07,1,1,10.0,Toronto Maple Leafs,TOR
+299,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363672,2022020363,Shot,672,SHOT,John Tavares Wrist Shot saved by Aaron Dell,2022-12-01T02:24:31Z,3,15:31,04:29,1,1,10.0,Toronto Maple Leafs,TOR
+300,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363673,2022020363,Shot,673,SHOT,William Nylander Backhand saved by Aaron Dell,2022-12-01T02:24:34Z,3,15:34,04:26,1,1,10.0,Toronto Maple Leafs,TOR
+301,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363674,2022020363,Shot,674,SHOT,William Nylander Wrist Shot saved by Aaron Dell,2022-12-01T02:24:35Z,3,15:35,04:25,1,1,10.0,Toronto Maple Leafs,TOR
+302,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363768,2022020363,Stoppage,768,STOP,Goalie Stopped,2022-12-01T02:24:37Z,3,15:36,04:24,1,1,,,
+303,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363545,2022020363,Faceoff,545,FACEOFF,John Tavares faceoff won against Logan Couture,2022-12-01T02:26:11Z,3,15:36,04:24,1,1,10.0,Toronto Maple Leafs,TOR
+304,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363675,2022020363,Blocked Shot,675,BLOCKED_SHOT,Rasmus Sandin shot blocked shot by Matt Benning,2022-12-01T02:26:28Z,3,15:53,04:07,1,1,28.0,San Jose Sharks,SJS
+305,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363676,2022020363,Missed Shot,676,MISSED_SHOT,John Tavares Wide of Net Aaron Dell,2022-12-01T02:26:45Z,3,16:10,03:50,1,1,10.0,Toronto Maple Leafs,TOR
+306,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363677,2022020363,Blocked Shot,677,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Justin Holl,2022-12-01T02:27:37Z,3,17:02,02:58,1,1,10.0,Toronto Maple Leafs,TOR
+307,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363546,2022020363,Giveaway,546,GIVEAWAY,Giveaway by Erik Karlsson,2022-12-01T02:27:48Z,3,17:13,02:47,1,1,28.0,San Jose Sharks,SJS
+308,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363678,2022020363,Blocked Shot,678,BLOCKED_SHOT,Justin Holl shot blocked shot by Erik Karlsson,2022-12-01T02:28:01Z,3,17:26,02:34,1,1,28.0,San Jose Sharks,SJS
+309,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363547,2022020363,Takeaway,547,TAKEAWAY,Takeaway by David Kampf,2022-12-01T02:28:04Z,3,17:29,02:31,1,1,10.0,Toronto Maple Leafs,TOR
+310,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363679,2022020363,Shot,679,SHOT,Alexander Kerfoot Wrist Shot saved by Aaron Dell,2022-12-01T02:28:09Z,3,17:33,02:27,1,1,10.0,Toronto Maple Leafs,TOR
+311,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363680,2022020363,Goal,680,GOAL,"Pierre Engvall (3) Wrist Shot, assists: Alexander Kerfoot (8), David Kampf (6)",2022-12-01T02:28:09Z,3,17:33,02:27,2,1,10.0,Toronto Maple Leafs,TOR
+312,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363769,2022020363,Stoppage,769,STOP,Referee or Linesman,2022-12-01T02:28:09Z,3,17:33,02:27,2,1,,,
+313,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363548,2022020363,Faceoff,548,FACEOFF,Tomas Hertl faceoff won against Auston Matthews,2022-12-01T02:30:08Z,3,17:33,02:27,2,1,28.0,San Jose Sharks,SJS
+314,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363770,2022020363,Hit,770,HIT,Tomas Hertl hit Justin Holl,2022-12-01T02:30:26Z,3,17:51,02:09,2,1,28.0,San Jose Sharks,SJS
+315,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363681,2022020363,Blocked Shot,681,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Auston Matthews,2022-12-01T02:30:32Z,3,17:57,02:03,2,1,10.0,Toronto Maple Leafs,TOR
+316,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363771,2022020363,Hit,771,HIT,Justin Holl hit Tomas Hertl,2022-12-01T02:30:58Z,3,18:23,01:37,2,1,10.0,Toronto Maple Leafs,TOR
+317,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363772,2022020363,Hit,772,HIT,Kevin Labanc hit Mark Giordano,2022-12-01T02:31:04Z,3,18:29,01:31,2,1,28.0,San Jose Sharks,SJS
+318,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363682,2022020363,Blocked Shot,682,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Mark Giordano,2022-12-01T02:31:07Z,3,18:32,01:28,2,1,10.0,Toronto Maple Leafs,TOR
+319,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363683,2022020363,Missed Shot,683,MISSED_SHOT,Mitchell Marner Wide of Net,2022-12-01T02:31:09Z,3,18:34,01:26,2,1,10.0,Toronto Maple Leafs,TOR
+320,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363684,2022020363,Goal,684,GOAL,"Mitchell Marner (8) Wrist Shot, assists: Alexander Kerfoot (9)",2022-12-01T02:31:24Z,3,18:49,01:11,3,1,10.0,Toronto Maple Leafs,TOR
+321,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363549,2022020363,Faceoff,549,FACEOFF,Nick Bonino faceoff won against David Kampf,2022-12-01T02:32:15Z,3,18:49,01:11,3,1,28.0,San Jose Sharks,SJS
+322,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363685,2022020363,Missed Shot,685,MISSED_SHOT,Nick Bonino Wide of Net Ilya Samsonov,2022-12-01T02:32:27Z,3,19:01,00:59,3,1,28.0,San Jose Sharks,SJS
+323,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363686,2022020363,Shot,686,SHOT,Noah Gregor Wrist Shot saved by Ilya Samsonov,2022-12-01T02:32:31Z,3,19:05,00:55,3,1,28.0,San Jose Sharks,SJS
+324,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363773,2022020363,Stoppage,773,STOP,Goalie Stopped,2022-12-01T02:32:32Z,3,19:06,00:54,3,1,,,
+325,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363550,2022020363,Faceoff,550,FACEOFF,John Tavares faceoff won against Tomas Hertl,2022-12-01T02:33:04Z,3,19:06,00:54,3,1,10.0,Toronto Maple Leafs,TOR
+326,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363774,2022020363,Stoppage,774,STOP,Puck in Crowd,2022-12-01T02:33:07Z,3,19:09,00:51,3,1,,,
+327,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363851,2022020363,Faceoff,851,FACEOFF,Tomas Hertl faceoff won against John Tavares,2022-12-01T02:33:25Z,3,19:09,00:51,3,1,28.0,San Jose Sharks,SJS
+328,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363687,2022020363,Blocked Shot,687,BLOCKED_SHOT,Alexander Barabanov shot blocked shot by Rasmus Sandin,2022-12-01T02:33:34Z,3,19:19,00:41,3,1,10.0,Toronto Maple Leafs,TOR
+329,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363688,2022020363,Blocked Shot,688,BLOCKED_SHOT,Logan Couture shot blocked shot by Rasmus Sandin,2022-12-01T02:33:46Z,3,19:31,00:29,3,1,10.0,Toronto Maple Leafs,TOR
+330,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363689,2022020363,Period End,689,PERIOD_END,End of 3rd Period,2022-12-01T02:34:15Z,3,20:00,00:00,3,1,,,
+331,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363692,2022020363,Period Official,692,PERIOD_OFFICIAL,Period Official,2022-12-01T02:34:21Z,3,20:00,00:00,3,1,,,
+332,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363693,2022020363,Game End,693,GAME_END,Game End,2022-12-01T02:34:23Z,3,20:00,00:00,3,1,,,
+333,10,28,Toronto Maple Leafs,San Jose Sharks,2022020363694,2022020363,Game Official,694,GAME_OFFICIAL,Game Official,2022-12-01T02:51:00Z,3,20:00,00:00,3,1,,,

@@ -1,0 +1,334 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,17,55,Detroit Red Wings,Seattle Kraken,20220209781,2022020978,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-03-02T23:13:38Z,1,00:00,20:00,0,0,,,
+1,17,55,Detroit Red Wings,Seattle Kraken,20220209785,2022020978,Period Ready,5,PERIOD_READY,Period Ready,2023-03-03T00:07:42Z,1,00:00,20:00,0,0,,,
+2,17,55,Detroit Red Wings,Seattle Kraken,202202097851,2022020978,Period Start,51,PERIOD_START,Period Start,2023-03-03T00:08:16Z,1,00:00,20:00,0,0,,,
+3,17,55,Detroit Red Wings,Seattle Kraken,202202097852,2022020978,Faceoff,52,FACEOFF,Andrew Copp faceoff won against Alex Wennberg,2023-03-03T00:08:16Z,1,00:00,20:00,0,0,17.0,Detroit Red Wings,DET
+4,17,55,Detroit Red Wings,Seattle Kraken,20220209789,2022020978,Hit,9,HIT,Olli Maatta hit Oliver Bjorkstrand,2023-03-03T00:08:21Z,1,00:05,19:55,0,0,17.0,Detroit Red Wings,DET
+5,17,55,Detroit Red Wings,Seattle Kraken,2022020978151,2022020978,Shot,151,SHOT,Vince Dunn Snap Shot saved by Ville Husso,2023-03-03T00:08:57Z,1,00:41,19:19,0,0,55.0,Seattle Kraken,SEA
+6,17,55,Detroit Red Wings,Seattle Kraken,202202097810,2022020978,Stoppage,10,STOP,Goalie Stopped,2023-03-03T00:08:58Z,1,00:42,19:18,0,0,,,
+7,17,55,Detroit Red Wings,Seattle Kraken,202202097853,2022020978,Faceoff,53,FACEOFF,Yanni Gourde faceoff won against Pius Suter,2023-03-03T00:09:29Z,1,00:42,19:18,0,0,55.0,Seattle Kraken,SEA
+8,17,55,Detroit Red Wings,Seattle Kraken,2022020978152,2022020978,Shot,152,SHOT,Carson Soucy Snap Shot saved by Ville Husso,2023-03-03T00:09:32Z,1,00:45,19:15,0,0,55.0,Seattle Kraken,SEA
+9,17,55,Detroit Red Wings,Seattle Kraken,202202097811,2022020978,Stoppage,11,STOP,Goalie Stopped,2023-03-03T00:09:33Z,1,00:46,19:14,0,0,,,
+10,17,55,Detroit Red Wings,Seattle Kraken,202202097854,2022020978,Faceoff,54,FACEOFF,Yanni Gourde faceoff won against Pius Suter,2023-03-03T00:09:48Z,1,00:46,19:14,0,0,55.0,Seattle Kraken,SEA
+11,17,55,Detroit Red Wings,Seattle Kraken,2022020978153,2022020978,Blocked Shot,153,BLOCKED_SHOT,Carson Soucy shot blocked shot by Oskar Sundqvist,2023-03-03T00:09:50Z,1,00:48,19:12,0,0,17.0,Detroit Red Wings,DET
+12,17,55,Detroit Red Wings,Seattle Kraken,202202097812,2022020978,Penalty,12,PENALTY,Adam Erne Fighting against Yanni Gourde,2023-03-03T00:10:01Z,1,01:00,19:00,0,0,17.0,Detroit Red Wings,DET
+13,17,55,Detroit Red Wings,Seattle Kraken,2022020978110,2022020978,Penalty,110,PENALTY,Yanni Gourde Fighting against Adam Erne,2023-03-03T00:10:01Z,1,01:00,19:00,0,0,55.0,Seattle Kraken,SEA
+14,17,55,Detroit Red Wings,Seattle Kraken,202202097855,2022020978,Faceoff,55,FACEOFF,Matty Beniers faceoff won against Dylan Larkin,2023-03-03T00:11:12Z,1,01:00,19:00,0,0,55.0,Seattle Kraken,SEA
+15,17,55,Detroit Red Wings,Seattle Kraken,2022020978154,2022020978,Shot,154,SHOT,Will Borgen Slap Shot saved by Ville Husso,2023-03-03T00:11:14Z,1,01:02,18:58,0,0,55.0,Seattle Kraken,SEA
+16,17,55,Detroit Red Wings,Seattle Kraken,2022020978155,2022020978,Goal,155,GOAL,"Jared McCann (28) Snap Shot, assists: Jordan Eberle (35), Matty Beniers (24)",2023-03-03T00:11:25Z,1,01:12,18:48,0,1,55.0,Seattle Kraken,SEA
+17,17,55,Detroit Red Wings,Seattle Kraken,202202097856,2022020978,Faceoff,56,FACEOFF,Dylan Larkin faceoff won against Matty Beniers,2023-03-03T00:11:59Z,1,01:12,18:48,0,1,17.0,Detroit Red Wings,DET
+18,17,55,Detroit Red Wings,Seattle Kraken,2022020978156,2022020978,Missed Shot,156,MISSED_SHOT,Jared McCann Wide of Net Ville Husso,2023-03-03T00:12:11Z,1,01:24,18:36,0,1,55.0,Seattle Kraken,SEA
+19,17,55,Detroit Red Wings,Seattle Kraken,202202097816,2022020978,Hit,16,HIT,Joe Veleno hit Brandon Tanev,2023-03-03T00:12:45Z,1,01:58,18:02,0,1,17.0,Detroit Red Wings,DET
+20,17,55,Detroit Red Wings,Seattle Kraken,202202097817,2022020978,Stoppage,17,STOP,Icing,2023-03-03T00:12:50Z,1,02:02,17:58,0,1,,,
+21,17,55,Detroit Red Wings,Seattle Kraken,202202097857,2022020978,Faceoff,57,FACEOFF,Morgan Geekie faceoff won against Joe Veleno,2023-03-03T00:13:16Z,1,02:02,17:58,0,1,55.0,Seattle Kraken,SEA
+22,17,55,Detroit Red Wings,Seattle Kraken,202202097818,2022020978,Stoppage,18,STOP,Net Dislodged Defensive Skater,2023-03-03T00:13:39Z,1,02:26,17:34,0,1,,,
+23,17,55,Detroit Red Wings,Seattle Kraken,202202097858,2022020978,Faceoff,58,FACEOFF,Alex Wennberg faceoff won against Andrew Copp,2023-03-03T00:14:20Z,1,02:26,17:34,0,1,55.0,Seattle Kraken,SEA
+24,17,55,Detroit Red Wings,Seattle Kraken,2022020978157,2022020978,Missed Shot,157,MISSED_SHOT,Oliver Bjorkstrand Wide of Net Ville Husso,2023-03-03T00:14:22Z,1,02:28,17:32,0,1,55.0,Seattle Kraken,SEA
+25,17,55,Detroit Red Wings,Seattle Kraken,202202097859,2022020978,Giveaway,59,GIVEAWAY,Giveaway by David Perron,2023-03-03T00:14:33Z,1,02:39,17:21,0,1,17.0,Detroit Red Wings,DET
+26,17,55,Detroit Red Wings,Seattle Kraken,202202097860,2022020978,Giveaway,60,GIVEAWAY,Giveaway by Ville Husso,2023-03-03T00:14:45Z,1,02:51,17:09,0,1,17.0,Detroit Red Wings,DET
+27,17,55,Detroit Red Wings,Seattle Kraken,202202097819,2022020978,Hit,19,HIT,Olli Maatta hit Adam Larsson,2023-03-03T00:14:53Z,1,02:59,17:01,0,1,17.0,Detroit Red Wings,DET
+28,17,55,Detroit Red Wings,Seattle Kraken,2022020978158,2022020978,Goal,158,GOAL,"Ben Chiarot (5) Snap Shot, assists: Andrew Copp (26), Robby Fabbri (8)",2023-03-03T00:15:01Z,1,03:07,16:53,1,1,17.0,Detroit Red Wings,DET
+29,17,55,Detroit Red Wings,Seattle Kraken,202202097861,2022020978,Faceoff,61,FACEOFF,Morgan Geekie faceoff won against Pius Suter,2023-03-03T00:15:42Z,1,03:07,16:53,1,1,55.0,Seattle Kraken,SEA
+30,17,55,Detroit Red Wings,Seattle Kraken,2022020978159,2022020978,Shot,159,SHOT,Will Borgen Slap Shot saved by Ville Husso,2023-03-03T00:16:14Z,1,03:39,16:21,1,1,55.0,Seattle Kraken,SEA
+31,17,55,Detroit Red Wings,Seattle Kraken,202202097820,2022020978,Stoppage,20,STOP,Goalie Stopped,2023-03-03T00:16:15Z,1,03:40,16:20,1,1,,,
+32,17,55,Detroit Red Wings,Seattle Kraken,202202097862,2022020978,Faceoff,62,FACEOFF,Dylan Larkin faceoff won against Matty Beniers,2023-03-03T00:16:43Z,1,03:40,16:20,1,1,17.0,Detroit Red Wings,DET
+33,17,55,Detroit Red Wings,Seattle Kraken,2022020978160,2022020978,Shot,160,SHOT,Lucas Raymond Tip-In saved by Martin Jones,2023-03-03T00:17:03Z,1,04:00,16:00,1,1,17.0,Detroit Red Wings,DET
+34,17,55,Detroit Red Wings,Seattle Kraken,202202097821,2022020978,Stoppage,21,STOP,Puck in Benches,2023-03-03T00:17:09Z,1,04:05,15:55,1,1,,,
+35,17,55,Detroit Red Wings,Seattle Kraken,202202097863,2022020978,Faceoff,63,FACEOFF,Matty Beniers faceoff won against Andrew Copp,2023-03-03T00:17:33Z,1,04:05,15:55,1,1,55.0,Seattle Kraken,SEA
+36,17,55,Detroit Red Wings,Seattle Kraken,2022020978161,2022020978,Shot,161,SHOT,Matty Beniers Wrist Shot saved by Ville Husso,2023-03-03T00:17:45Z,1,04:17,15:43,1,1,55.0,Seattle Kraken,SEA
+37,17,55,Detroit Red Wings,Seattle Kraken,202202097822,2022020978,Hit,22,HIT,David Perron hit Daniel Sprong,2023-03-03T00:18:07Z,1,04:39,15:21,1,1,17.0,Detroit Red Wings,DET
+38,17,55,Detroit Red Wings,Seattle Kraken,202202097823,2022020978,Hit,23,HIT,Olli Maatta hit Daniel Sprong,2023-03-03T00:18:16Z,1,04:48,15:12,1,1,17.0,Detroit Red Wings,DET
+39,17,55,Detroit Red Wings,Seattle Kraken,202202097864,2022020978,Giveaway,64,GIVEAWAY,Giveaway by Morgan Geekie,2023-03-03T00:18:26Z,1,04:58,15:02,1,1,55.0,Seattle Kraken,SEA
+40,17,55,Detroit Red Wings,Seattle Kraken,2022020978162,2022020978,Shot,162,SHOT,Oliver Bjorkstrand Snap Shot saved by Ville Husso,2023-03-03T00:18:58Z,1,05:30,14:30,1,1,55.0,Seattle Kraken,SEA
+41,17,55,Detroit Red Wings,Seattle Kraken,2022020978163,2022020978,Goal,163,GOAL,"Oliver Bjorkstrand (12) Tip-In, assists: Alex Wennberg (19), Jaden Schwartz (15)",2023-03-03T00:19:00Z,1,05:33,14:27,1,2,55.0,Seattle Kraken,SEA
+42,17,55,Detroit Red Wings,Seattle Kraken,202202097865,2022020978,Faceoff,65,FACEOFF,Dylan Larkin faceoff won against Alex Wennberg,2023-03-03T00:19:39Z,1,05:33,14:27,1,2,17.0,Detroit Red Wings,DET
+43,17,55,Detroit Red Wings,Seattle Kraken,2022020978164,2022020978,Shot,164,SHOT,Moritz Seider Snap Shot saved by Martin Jones,2023-03-03T00:19:49Z,1,05:43,14:17,1,2,17.0,Detroit Red Wings,DET
+44,17,55,Detroit Red Wings,Seattle Kraken,202202097824,2022020978,Stoppage,24,STOP,Goalie Stopped,2023-03-03T00:19:51Z,1,05:44,14:16,1,2,,,
+45,17,55,Detroit Red Wings,Seattle Kraken,202202097866,2022020978,Faceoff,66,FACEOFF,Matty Beniers faceoff won against Dominik Kubalik,2023-03-03T00:20:24Z,1,05:44,14:16,1,2,55.0,Seattle Kraken,SEA
+46,17,55,Detroit Red Wings,Seattle Kraken,2022020978165,2022020978,Blocked Shot,165,BLOCKED_SHOT,Jared McCann shot blocked shot by Moritz Seider,2023-03-03T00:20:46Z,1,06:06,13:54,1,2,17.0,Detroit Red Wings,DET
+47,17,55,Detroit Red Wings,Seattle Kraken,202202097825,2022020978,Hit,25,HIT,Moritz Seider hit Jared McCann,2023-03-03T00:20:50Z,1,06:10,13:50,1,2,17.0,Detroit Red Wings,DET
+48,17,55,Detroit Red Wings,Seattle Kraken,202202097867,2022020978,Giveaway,67,GIVEAWAY,Giveaway by Lucas Raymond,2023-03-03T00:20:58Z,1,06:18,13:42,1,2,17.0,Detroit Red Wings,DET
+49,17,55,Detroit Red Wings,Seattle Kraken,202202097826,2022020978,Stoppage,26,STOP,Puck in Benches,2023-03-03T00:20:59Z,1,06:20,13:40,1,2,,,
+50,17,55,Detroit Red Wings,Seattle Kraken,202202097868,2022020978,Faceoff,68,FACEOFF,Yanni Gourde faceoff won against Oskar Sundqvist,2023-03-03T00:23:19Z,1,06:20,13:40,1,2,55.0,Seattle Kraken,SEA
+51,17,55,Detroit Red Wings,Seattle Kraken,202202097827,2022020978,Hit,27,HIT,Yanni Gourde hit Gustav Lindstrom,2023-03-03T00:23:42Z,1,06:43,13:17,1,2,55.0,Seattle Kraken,SEA
+52,17,55,Detroit Red Wings,Seattle Kraken,202202097828,2022020978,Hit,28,HIT,Adam Erne hit Carson Soucy,2023-03-03T00:23:50Z,1,06:51,13:09,1,2,17.0,Detroit Red Wings,DET
+53,17,55,Detroit Red Wings,Seattle Kraken,202202097829,2022020978,Hit,29,HIT,David Perron hit Adam Larsson,2023-03-03T00:24:11Z,1,07:12,12:48,1,2,17.0,Detroit Red Wings,DET
+54,17,55,Detroit Red Wings,Seattle Kraken,202202097869,2022020978,Giveaway,69,GIVEAWAY,Giveaway by Brandon Tanev,2023-03-03T00:25:08Z,1,08:09,11:51,1,2,55.0,Seattle Kraken,SEA
+55,17,55,Detroit Red Wings,Seattle Kraken,202202097831,2022020978,Hit,31,HIT,Dylan Larkin hit Will Borgen,2023-03-03T00:25:11Z,1,08:12,11:48,1,2,17.0,Detroit Red Wings,DET
+56,17,55,Detroit Red Wings,Seattle Kraken,2022020978166,2022020978,Shot,166,SHOT,Daniel Sprong Wrist Shot saved by Ville Husso,2023-03-03T00:25:34Z,1,08:35,11:25,1,2,55.0,Seattle Kraken,SEA
+57,17,55,Detroit Red Wings,Seattle Kraken,202202097832,2022020978,Stoppage,32,STOP,Puck in Netting,2023-03-03T00:25:50Z,1,08:50,11:10,1,2,,,
+58,17,55,Detroit Red Wings,Seattle Kraken,2022020978167,2022020978,Blocked Shot,167,BLOCKED_SHOT,Justin Schultz shot blocked shot by Olli Maatta,2023-03-03T00:25:50Z,1,08:50,11:10,1,2,17.0,Detroit Red Wings,DET
+59,17,55,Detroit Red Wings,Seattle Kraken,202202097870,2022020978,Faceoff,70,FACEOFF,Joe Veleno faceoff won against Matty Beniers,2023-03-03T00:26:15Z,1,08:50,11:10,1,2,17.0,Detroit Red Wings,DET
+60,17,55,Detroit Red Wings,Seattle Kraken,2022020978168,2022020978,Shot,168,SHOT,Filip Zadina Snap Shot saved by Martin Jones,2023-03-03T00:26:26Z,1,09:01,10:59,1,2,17.0,Detroit Red Wings,DET
+61,17,55,Detroit Red Wings,Seattle Kraken,202202097872,2022020978,Takeaway,72,TAKEAWAY,Takeaway by Jake Walman,2023-03-03T00:26:34Z,1,09:09,10:51,1,2,17.0,Detroit Red Wings,DET
+62,17,55,Detroit Red Wings,Seattle Kraken,2022020978169,2022020978,Shot,169,SHOT,Jake Walman Wrist Shot saved by Martin Jones,2023-03-03T00:26:37Z,1,09:12,10:48,1,2,17.0,Detroit Red Wings,DET
+63,17,55,Detroit Red Wings,Seattle Kraken,202202097833,2022020978,Hit,33,HIT,Joe Veleno hit Matty Beniers,2023-03-03T00:26:43Z,1,09:18,10:42,1,2,17.0,Detroit Red Wings,DET
+64,17,55,Detroit Red Wings,Seattle Kraken,202202097834,2022020978,Hit,34,HIT,Carson Soucy hit Joe Veleno,2023-03-03T00:26:45Z,1,09:20,10:40,1,2,55.0,Seattle Kraken,SEA
+65,17,55,Detroit Red Wings,Seattle Kraken,2022020978230,2022020978,Penalty,230,PENALTY,Jordan Eberle Hooking against Jake Walman,2023-03-03T00:26:49Z,1,09:24,10:36,1,2,55.0,Seattle Kraken,SEA
+66,17,55,Detroit Red Wings,Seattle Kraken,202202097873,2022020978,Faceoff,73,FACEOFF,Dylan Larkin faceoff won against Alex Wennberg,2023-03-03T00:27:25Z,1,09:24,10:36,1,2,17.0,Detroit Red Wings,DET
+67,17,55,Detroit Red Wings,Seattle Kraken,2022020978170,2022020978,Blocked Shot,170,BLOCKED_SHOT,Jared McCann shot blocked shot by Moritz Seider,2023-03-03T00:28:14Z,1,10:13,09:47,1,2,17.0,Detroit Red Wings,DET
+68,17,55,Detroit Red Wings,Seattle Kraken,202202097836,2022020978,Stoppage,36,STOP,TV timeout,2023-03-03T00:28:18Z,1,10:17,09:43,1,2,,,
+69,17,55,Detroit Red Wings,Seattle Kraken,2022020978238,2022020978,Penalty,238,PENALTY,Moritz Seider Interference against Yanni Gourde,2023-03-03T00:28:18Z,1,10:17,09:43,1,2,17.0,Detroit Red Wings,DET
+70,17,55,Detroit Red Wings,Seattle Kraken,202202097875,2022020978,Faceoff,75,FACEOFF,Alex Wennberg faceoff won against Joe Veleno,2023-03-03T00:31:27Z,1,10:17,09:43,1,2,55.0,Seattle Kraken,SEA
+71,17,55,Detroit Red Wings,Seattle Kraken,2022020978171,2022020978,Shot,171,SHOT,Adam Larsson Wrist Shot saved by Ville Husso,2023-03-03T00:31:30Z,1,10:20,09:40,1,2,55.0,Seattle Kraken,SEA
+72,17,55,Detroit Red Wings,Seattle Kraken,202202097837,2022020978,Stoppage,37,STOP,Goalie Stopped,2023-03-03T00:31:31Z,1,10:21,09:39,1,2,,,
+73,17,55,Detroit Red Wings,Seattle Kraken,202202097876,2022020978,Faceoff,76,FACEOFF,Joe Veleno faceoff won against Alex Wennberg,2023-03-03T00:31:51Z,1,10:21,09:39,1,2,17.0,Detroit Red Wings,DET
+74,17,55,Detroit Red Wings,Seattle Kraken,202202097877,2022020978,Takeaway,77,TAKEAWAY,Takeaway by Alex Wennberg,2023-03-03T00:31:54Z,1,10:24,09:36,1,2,55.0,Seattle Kraken,SEA
+75,17,55,Detroit Red Wings,Seattle Kraken,202202097838,2022020978,Hit,38,HIT,Ben Chiarot hit Alex Wennberg,2023-03-03T00:31:58Z,1,10:28,09:32,1,2,17.0,Detroit Red Wings,DET
+76,17,55,Detroit Red Wings,Seattle Kraken,202202097839,2022020978,Hit,39,HIT,Brandon Tanev hit Olli Maatta,2023-03-03T00:32:28Z,1,10:58,09:02,1,2,55.0,Seattle Kraken,SEA
+77,17,55,Detroit Red Wings,Seattle Kraken,2022020978172,2022020978,Missed Shot,172,MISSED_SHOT,Joe Veleno Wide of Net Martin Jones,2023-03-03T00:32:35Z,1,11:05,08:55,1,2,17.0,Detroit Red Wings,DET
+78,17,55,Detroit Red Wings,Seattle Kraken,2022020978173,2022020978,Shot,173,SHOT,Jordan Eberle Wrist Shot saved by Ville Husso,2023-03-03T00:33:28Z,1,11:58,08:02,1,2,55.0,Seattle Kraken,SEA
+79,17,55,Detroit Red Wings,Seattle Kraken,202202097840,2022020978,Stoppage,40,STOP,Goalie Stopped,2023-03-03T00:33:30Z,1,11:59,08:01,1,2,,,
+80,17,55,Detroit Red Wings,Seattle Kraken,202202097878,2022020978,Faceoff,78,FACEOFF,Alex Wennberg faceoff won against Dylan Larkin,2023-03-03T00:33:55Z,1,11:59,08:01,1,2,55.0,Seattle Kraken,SEA
+81,17,55,Detroit Red Wings,Seattle Kraken,2022020978174,2022020978,Shot,174,SHOT,Jared McCann Slap Shot saved by Ville Husso,2023-03-03T00:34:06Z,1,12:10,07:50,1,2,55.0,Seattle Kraken,SEA
+82,17,55,Detroit Red Wings,Seattle Kraken,202202097841,2022020978,Stoppage,41,STOP,Goalie Stopped,2023-03-03T00:34:07Z,1,12:11,07:49,1,2,,,
+83,17,55,Detroit Red Wings,Seattle Kraken,202202097879,2022020978,Faceoff,79,FACEOFF,Alex Wennberg faceoff won against Dylan Larkin,2023-03-03T00:34:28Z,1,12:11,07:49,1,2,55.0,Seattle Kraken,SEA
+84,17,55,Detroit Red Wings,Seattle Kraken,2022020978175,2022020978,Goal,175,GOAL,"Jared McCann (29) Slap Shot, assists: Vince Dunn (34), Eeli Tolvanen (11)",2023-03-03T00:34:36Z,1,12:19,07:41,1,3,55.0,Seattle Kraken,SEA
+85,17,55,Detroit Red Wings,Seattle Kraken,202202097880,2022020978,Faceoff,80,FACEOFF,Alex Wennberg faceoff won against Dylan Larkin,2023-03-03T00:35:18Z,1,12:19,07:41,1,3,55.0,Seattle Kraken,SEA
+86,17,55,Detroit Red Wings,Seattle Kraken,202202097842,2022020978,Shot,42,SHOT,Dominik Kubalik Tip-In saved by Martin Jones,2023-03-03T00:35:28Z,1,12:29,07:31,1,3,17.0,Detroit Red Wings,DET
+87,17,55,Detroit Red Wings,Seattle Kraken,2022020978176,2022020978,Shot,176,SHOT,Oliver Bjorkstrand Snap Shot saved by Ville Husso,2023-03-03T00:35:41Z,1,12:42,07:18,1,3,55.0,Seattle Kraken,SEA
+88,17,55,Detroit Red Wings,Seattle Kraken,202202097843,2022020978,Stoppage,43,STOP,Icing,2023-03-03T00:36:42Z,1,13:43,06:17,1,3,,,
+89,17,55,Detroit Red Wings,Seattle Kraken,202202097881,2022020978,Faceoff,81,FACEOFF,Adam Erne faceoff won against Morgan Geekie,2023-03-03T00:37:15Z,1,13:43,06:17,1,3,17.0,Detroit Red Wings,DET
+90,17,55,Detroit Red Wings,Seattle Kraken,2022020978177,2022020978,Blocked Shot,177,BLOCKED_SHOT,Jake Walman shot blocked shot by Morgan Geekie,2023-03-03T00:37:19Z,1,13:47,06:13,1,3,55.0,Seattle Kraken,SEA
+91,17,55,Detroit Red Wings,Seattle Kraken,202202097846,2022020978,Blocked Shot,46,BLOCKED_SHOT,Jake Walman shot blocked shot by Carson Soucy,2023-03-03T00:37:25Z,1,13:53,06:07,1,3,55.0,Seattle Kraken,SEA
+92,17,55,Detroit Red Wings,Seattle Kraken,202202097845,2022020978,Hit,45,HIT,Adam Erne hit Carson Soucy,2023-03-03T00:37:36Z,1,14:04,05:56,1,3,17.0,Detroit Red Wings,DET
+93,17,55,Detroit Red Wings,Seattle Kraken,2022020978178,2022020978,Shot,178,SHOT,Moritz Seider Snap Shot saved by Martin Jones,2023-03-03T00:37:42Z,1,14:10,05:50,1,3,17.0,Detroit Red Wings,DET
+94,17,55,Detroit Red Wings,Seattle Kraken,2022020978179,2022020978,Shot,179,SHOT,Filip Zadina Tip-In saved by Martin Jones,2023-03-03T00:38:03Z,1,14:31,05:29,1,3,17.0,Detroit Red Wings,DET
+95,17,55,Detroit Red Wings,Seattle Kraken,2022020978180,2022020978,Blocked Shot,180,BLOCKED_SHOT,Pius Suter shot blocked shot by Carson Soucy,2023-03-03T00:38:04Z,1,14:32,05:28,1,3,55.0,Seattle Kraken,SEA
+96,17,55,Detroit Red Wings,Seattle Kraken,2022020978181,2022020978,Shot,181,SHOT,Adam Larsson Slap Shot saved by Ville Husso,2023-03-03T00:38:29Z,1,14:57,05:03,1,3,55.0,Seattle Kraken,SEA
+97,17,55,Detroit Red Wings,Seattle Kraken,202202097847,2022020978,Stoppage,47,STOP,Goalie Stopped,2023-03-03T00:38:30Z,1,14:58,05:02,1,3,,,
+98,17,55,Detroit Red Wings,Seattle Kraken,202202097884,2022020978,Faceoff,84,FACEOFF,Joe Veleno faceoff won against Yanni Gourde,2023-03-03T00:40:57Z,1,14:58,05:02,1,3,17.0,Detroit Red Wings,DET
+99,17,55,Detroit Red Wings,Seattle Kraken,202202097848,2022020978,Hit,48,HIT,Vince Dunn hit Gustav Lindstrom,2023-03-03T00:41:07Z,1,15:08,04:52,1,3,55.0,Seattle Kraken,SEA
+100,17,55,Detroit Red Wings,Seattle Kraken,202202097849,2022020978,Stoppage,49,STOP,Icing,2023-03-03T00:41:30Z,1,15:31,04:29,1,3,,,
+101,17,55,Detroit Red Wings,Seattle Kraken,202202097885,2022020978,Faceoff,85,FACEOFF,Yanni Gourde faceoff won against Dylan Larkin,2023-03-03T00:41:54Z,1,15:31,04:29,1,3,55.0,Seattle Kraken,SEA
+102,17,55,Detroit Red Wings,Seattle Kraken,202202097886,2022020978,Giveaway,86,GIVEAWAY,Giveaway by Vince Dunn,2023-03-03T00:41:58Z,1,15:35,04:25,1,3,55.0,Seattle Kraken,SEA
+103,17,55,Detroit Red Wings,Seattle Kraken,202202097850,2022020978,Stoppage,50,STOP,Puck in Benches,2023-03-03T00:42:03Z,1,15:40,04:20,1,3,,,
+104,17,55,Detroit Red Wings,Seattle Kraken,202202097887,2022020978,Faceoff,87,FACEOFF,Dylan Larkin faceoff won against Matty Beniers,2023-03-03T00:42:30Z,1,15:40,04:20,1,3,17.0,Detroit Red Wings,DET
+105,17,55,Detroit Red Wings,Seattle Kraken,2022020978251,2022020978,Hit,251,HIT,Will Borgen hit Lucas Raymond,2023-03-03T00:42:49Z,1,15:59,04:01,1,3,55.0,Seattle Kraken,SEA
+106,17,55,Detroit Red Wings,Seattle Kraken,2022020978252,2022020978,Hit,252,HIT,Lucas Raymond hit Will Borgen,2023-03-03T00:43:10Z,1,16:20,03:40,1,3,17.0,Detroit Red Wings,DET
+107,17,55,Detroit Red Wings,Seattle Kraken,2022020978253,2022020978,Hit,253,HIT,Moritz Seider hit Jordan Eberle,2023-03-03T00:43:17Z,1,16:27,03:33,1,3,17.0,Detroit Red Wings,DET
+108,17,55,Detroit Red Wings,Seattle Kraken,2022020978254,2022020978,Hit,254,HIT,Carson Soucy hit Robby Fabbri,2023-03-03T00:43:51Z,1,17:01,02:59,1,3,55.0,Seattle Kraken,SEA
+109,17,55,Detroit Red Wings,Seattle Kraken,2022020978182,2022020978,Shot,182,SHOT,Andrew Copp Wrist Shot saved by Martin Jones,2023-03-03T00:44:13Z,1,17:23,02:37,1,3,17.0,Detroit Red Wings,DET
+110,17,55,Detroit Red Wings,Seattle Kraken,2022020978255,2022020978,Stoppage,255,STOP,Goalie Stopped,2023-03-03T00:44:15Z,1,17:25,02:35,1,3,,,
+111,17,55,Detroit Red Wings,Seattle Kraken,202202097888,2022020978,Faceoff,88,FACEOFF,Yanni Gourde faceoff won against Pius Suter,2023-03-03T00:44:43Z,1,17:25,02:35,1,3,55.0,Seattle Kraken,SEA
+112,17,55,Detroit Red Wings,Seattle Kraken,2022020978183,2022020978,Missed Shot,183,MISSED_SHOT,Eeli Tolvanen Over Net Ville Husso,2023-03-03T00:44:52Z,1,17:34,02:26,1,3,55.0,Seattle Kraken,SEA
+113,17,55,Detroit Red Wings,Seattle Kraken,2022020978256,2022020978,Hit,256,HIT,Eeli Tolvanen hit Adam Erne,2023-03-03T00:44:57Z,1,17:39,02:21,1,3,55.0,Seattle Kraken,SEA
+114,17,55,Detroit Red Wings,Seattle Kraken,2022020978257,2022020978,Hit,257,HIT,Pius Suter hit Yanni Gourde,2023-03-03T00:45:08Z,1,17:50,02:10,1,3,17.0,Detroit Red Wings,DET
+115,17,55,Detroit Red Wings,Seattle Kraken,202202097889,2022020978,Giveaway,89,GIVEAWAY,Giveaway by Robert Hagg,2023-03-03T00:45:16Z,1,17:58,02:02,1,3,17.0,Detroit Red Wings,DET
+116,17,55,Detroit Red Wings,Seattle Kraken,202202097890,2022020978,Giveaway,90,GIVEAWAY,Giveaway by Eeli Tolvanen,2023-03-03T00:45:21Z,1,18:03,01:57,1,3,55.0,Seattle Kraken,SEA
+117,17,55,Detroit Red Wings,Seattle Kraken,2022020978258,2022020978,Hit,258,HIT,Adam Erne hit Vince Dunn,2023-03-03T00:45:28Z,1,18:10,01:50,1,3,17.0,Detroit Red Wings,DET
+118,17,55,Detroit Red Wings,Seattle Kraken,202202097891,2022020978,Takeaway,91,TAKEAWAY,Takeaway by Jake Walman,2023-03-03T00:45:32Z,1,18:14,01:46,1,3,17.0,Detroit Red Wings,DET
+119,17,55,Detroit Red Wings,Seattle Kraken,2022020978259,2022020978,Hit,259,HIT,Adam Erne hit Morgan Geekie,2023-03-03T00:45:35Z,1,18:17,01:43,1,3,17.0,Detroit Red Wings,DET
+120,17,55,Detroit Red Wings,Seattle Kraken,2022020978184,2022020978,Goal,184,GOAL,"Adam Erne (7) Tip-In, assists: Moritz Seider (27), Dylan Larkin (36)",2023-03-03T00:45:57Z,1,18:39,01:21,2,3,17.0,Detroit Red Wings,DET
+121,17,55,Detroit Red Wings,Seattle Kraken,202202097892,2022020978,Faceoff,92,FACEOFF,Dylan Larkin faceoff won against Jaden Schwartz,2023-03-03T00:46:45Z,1,18:39,01:21,2,3,17.0,Detroit Red Wings,DET
+122,17,55,Detroit Red Wings,Seattle Kraken,2022020978262,2022020978,Shot,262,SHOT,Moritz Seider Wrist Shot saved by Martin Jones,2023-03-03T00:46:48Z,1,18:42,01:18,2,3,17.0,Detroit Red Wings,DET
+123,17,55,Detroit Red Wings,Seattle Kraken,2022020978263,2022020978,Stoppage,263,STOP,Icing,2023-03-03T00:47:41Z,1,19:34,00:26,2,3,,,
+124,17,55,Detroit Red Wings,Seattle Kraken,202202097893,2022020978,Faceoff,93,FACEOFF,Dylan Larkin faceoff won against Jared McCann,2023-03-03T00:48:23Z,1,19:34,00:26,2,3,17.0,Detroit Red Wings,DET
+125,17,55,Detroit Red Wings,Seattle Kraken,2022020978186,2022020978,Blocked Shot,186,BLOCKED_SHOT,Justin Schultz shot blocked shot by Jake Walman,2023-03-03T00:48:28Z,1,19:40,00:20,2,3,17.0,Detroit Red Wings,DET
+126,17,55,Detroit Red Wings,Seattle Kraken,2022020978187,2022020978,Blocked Shot,187,BLOCKED_SHOT,Carson Soucy shot blocked shot by Lucas Raymond,2023-03-03T00:48:43Z,1,19:55,00:05,2,3,17.0,Detroit Red Wings,DET
+127,17,55,Detroit Red Wings,Seattle Kraken,2022020978268,2022020978,Shot,268,SHOT,Carson Soucy Snap Shot saved by Ville Husso,2023-03-03T00:48:44Z,1,19:56,00:04,2,3,55.0,Seattle Kraken,SEA
+128,17,55,Detroit Red Wings,Seattle Kraken,2022020978269,2022020978,Blocked Shot,269,BLOCKED_SHOT,Jared McCann shot blocked shot by Moritz Seider,2023-03-03T00:48:46Z,1,19:58,00:02,2,3,17.0,Detroit Red Wings,DET
+129,17,55,Detroit Red Wings,Seattle Kraken,2022020978264,2022020978,Period End,264,PERIOD_END,End of 1st Period,2023-03-03T00:48:48Z,1,20:00,00:00,2,3,,,
+130,17,55,Detroit Red Wings,Seattle Kraken,2022020978267,2022020978,Period Official,267,PERIOD_OFFICIAL,Period Official,2023-03-03T00:48:56Z,1,20:00,00:00,2,3,,,
+131,17,55,Detroit Red Wings,Seattle Kraken,2022020978270,2022020978,Period Ready,270,PERIOD_READY,Period Ready,2023-03-03T01:07:31Z,2,00:00,20:00,2,3,,,
+132,17,55,Detroit Red Wings,Seattle Kraken,202202097894,2022020978,Period Start,94,PERIOD_START,Period Start,2023-03-03T01:07:36Z,2,00:00,20:00,2,3,,,
+133,17,55,Detroit Red Wings,Seattle Kraken,202202097895,2022020978,Faceoff,95,FACEOFF,Andrew Copp faceoff won against Alex Wennberg,2023-03-03T01:07:36Z,2,00:00,20:00,2,3,17.0,Detroit Red Wings,DET
+134,17,55,Detroit Red Wings,Seattle Kraken,202202097896,2022020978,Giveaway,96,GIVEAWAY,Giveaway by Adam Larsson,2023-03-03T01:07:49Z,2,00:13,19:47,2,3,55.0,Seattle Kraken,SEA
+135,17,55,Detroit Red Wings,Seattle Kraken,2022020978188,2022020978,Shot,188,SHOT,Jordan Eberle Wrist Shot saved by Ville Husso,2023-03-03T01:09:03Z,2,01:27,18:33,2,3,55.0,Seattle Kraken,SEA
+136,17,55,Detroit Red Wings,Seattle Kraken,2022020978271,2022020978,Hit,271,HIT,Adam Erne hit Matty Beniers,2023-03-03T01:09:30Z,2,01:54,18:06,2,3,17.0,Detroit Red Wings,DET
+137,17,55,Detroit Red Wings,Seattle Kraken,2022020978189,2022020978,Shot,189,SHOT,Justin Schultz Wrist Shot saved by Ville Husso,2023-03-03T01:09:32Z,2,01:56,18:04,2,3,55.0,Seattle Kraken,SEA
+138,17,55,Detroit Red Wings,Seattle Kraken,2022020978272,2022020978,Hit,272,HIT,Brandon Tanev hit Moritz Seider,2023-03-03T01:10:02Z,2,02:26,17:34,2,3,55.0,Seattle Kraken,SEA
+139,17,55,Detroit Red Wings,Seattle Kraken,2022020978273,2022020978,Hit,273,HIT,Joe Veleno hit Brandon Tanev,2023-03-03T01:10:14Z,2,02:38,17:22,2,3,17.0,Detroit Red Wings,DET
+140,17,55,Detroit Red Wings,Seattle Kraken,2022020978190,2022020978,Missed Shot,190,MISSED_SHOT,Filip Zadina Over Net Martin Jones,2023-03-03T01:10:15Z,2,02:39,17:21,2,3,17.0,Detroit Red Wings,DET
+141,17,55,Detroit Red Wings,Seattle Kraken,2022020978191,2022020978,Missed Shot,191,MISSED_SHOT,Robert Hagg Wide of Net Martin Jones,2023-03-03T01:10:24Z,2,02:48,17:12,2,3,17.0,Detroit Red Wings,DET
+142,17,55,Detroit Red Wings,Seattle Kraken,2022020978192,2022020978,Goal,192,GOAL,"Jonatan Berggren (12) Wrist Shot, assists: Filip Zadina (3), Gustav Lindstrom (4)",2023-03-03T01:10:35Z,2,02:59,17:01,3,3,17.0,Detroit Red Wings,DET
+143,17,55,Detroit Red Wings,Seattle Kraken,202202097897,2022020978,Faceoff,97,FACEOFF,Alex Wennberg faceoff won against Andrew Copp,2023-03-03T01:12:10Z,2,02:59,17:01,3,3,55.0,Seattle Kraken,SEA
+144,17,55,Detroit Red Wings,Seattle Kraken,2022020978274,2022020978,Hit,274,HIT,Olli Maatta hit Alex Wennberg,2023-03-03T01:12:18Z,2,03:07,16:53,3,3,17.0,Detroit Red Wings,DET
+145,17,55,Detroit Red Wings,Seattle Kraken,2022020978751,2022020978,Giveaway,751,GIVEAWAY,Giveaway by Robby Fabbri,2023-03-03T01:12:21Z,2,03:10,16:50,3,3,17.0,Detroit Red Wings,DET
+146,17,55,Detroit Red Wings,Seattle Kraken,2022020978193,2022020978,Shot,193,SHOT,Jaden Schwartz Wrist Shot saved by Ville Husso,2023-03-03T01:12:22Z,2,03:11,16:49,3,3,55.0,Seattle Kraken,SEA
+147,17,55,Detroit Red Wings,Seattle Kraken,2022020978275,2022020978,Hit,275,HIT,Olli Maatta hit Jaden Schwartz,2023-03-03T01:12:33Z,2,03:22,16:38,3,3,17.0,Detroit Red Wings,DET
+148,17,55,Detroit Red Wings,Seattle Kraken,2022020978276,2022020978,Stoppage,276,STOP,Icing,2023-03-03T01:12:37Z,2,03:26,16:34,3,3,,,
+149,17,55,Detroit Red Wings,Seattle Kraken,202202097898,2022020978,Faceoff,98,FACEOFF,Matty Beniers faceoff won against Andrew Copp,2023-03-03T01:13:26Z,2,03:26,16:34,3,3,55.0,Seattle Kraken,SEA
+150,17,55,Detroit Red Wings,Seattle Kraken,2022020978497,2022020978,Penalty,497,PENALTY,Andrew Copp Cross-checking against Jordan Eberle,2023-03-03T01:14:08Z,2,04:08,15:52,3,3,17.0,Detroit Red Wings,DET
+151,17,55,Detroit Red Wings,Seattle Kraken,202202097899,2022020978,Faceoff,99,FACEOFF,Alex Wennberg faceoff won against Dylan Larkin,2023-03-03T01:14:55Z,2,04:08,15:52,3,3,55.0,Seattle Kraken,SEA
+152,17,55,Detroit Red Wings,Seattle Kraken,2022020978100,2022020978,Takeaway,100,TAKEAWAY,Takeaway by Dylan Larkin,2023-03-03T01:15:21Z,2,04:34,15:26,3,3,17.0,Detroit Red Wings,DET
+153,17,55,Detroit Red Wings,Seattle Kraken,2022020978277,2022020978,Hit,277,HIT,Ben Chiarot hit Jaden Schwartz,2023-03-03T01:16:10Z,2,05:23,14:37,3,3,17.0,Detroit Red Wings,DET
+154,17,55,Detroit Red Wings,Seattle Kraken,2022020978195,2022020978,Shot,195,SHOT,Justin Schultz Snap Shot saved by Ville Husso,2023-03-03T01:16:55Z,2,06:08,13:52,3,3,55.0,Seattle Kraken,SEA
+155,17,55,Detroit Red Wings,Seattle Kraken,2022020978196,2022020978,Missed Shot,196,MISSED_SHOT,Matty Beniers Goalpost Ville Husso,2023-03-03T01:17:00Z,2,06:13,13:47,3,3,55.0,Seattle Kraken,SEA
+156,17,55,Detroit Red Wings,Seattle Kraken,2022020978197,2022020978,Goal,197,GOAL,"Jaden Schwartz (14) Wrist Shot, assists: Jordan Eberle (36), Matty Beniers (25)",2023-03-03T01:17:04Z,2,06:17,13:43,3,4,55.0,Seattle Kraken,SEA
+157,17,55,Detroit Red Wings,Seattle Kraken,2022020978351,2022020978,Faceoff,351,FACEOFF,Andrew Copp faceoff won against Yanni Gourde,2023-03-03T01:17:45Z,2,06:17,13:43,3,4,17.0,Detroit Red Wings,DET
+158,17,55,Detroit Red Wings,Seattle Kraken,2022020978278,2022020978,Hit,278,HIT,Brandon Tanev hit Gustav Lindstrom,2023-03-03T01:17:55Z,2,06:27,13:33,3,4,55.0,Seattle Kraken,SEA
+159,17,55,Detroit Red Wings,Seattle Kraken,2022020978198,2022020978,Blocked Shot,198,BLOCKED_SHOT,David Perron shot blocked shot by Brandon Tanev,2023-03-03T01:18:04Z,2,06:36,13:24,3,4,55.0,Seattle Kraken,SEA
+160,17,55,Detroit Red Wings,Seattle Kraken,2022020978199,2022020978,Shot,199,SHOT,David Perron Wrist Shot saved by Philipp Grubauer,2023-03-03T01:18:05Z,2,06:37,13:23,3,4,17.0,Detroit Red Wings,DET
+161,17,55,Detroit Red Wings,Seattle Kraken,2022020978279,2022020978,Stoppage,279,STOP,Icing,2023-03-03T01:18:16Z,2,06:48,13:12,3,4,,,
+162,17,55,Detroit Red Wings,Seattle Kraken,2022020978352,2022020978,Faceoff,352,FACEOFF,Andrew Copp faceoff won against Yanni Gourde,2023-03-03T01:18:38Z,2,06:48,13:12,3,4,17.0,Detroit Red Wings,DET
+163,17,55,Detroit Red Wings,Seattle Kraken,2022020978280,2022020978,Hit,280,HIT,David Perron hit Ryan Donato,2023-03-03T01:18:42Z,2,06:52,13:08,3,4,17.0,Detroit Red Wings,DET
+164,17,55,Detroit Red Wings,Seattle Kraken,2022020978200,2022020978,Missed Shot,200,MISSED_SHOT,Robby Fabbri Wide of Net Philipp Grubauer,2023-03-03T01:18:53Z,2,07:03,12:57,3,4,17.0,Detroit Red Wings,DET
+165,17,55,Detroit Red Wings,Seattle Kraken,2022020978353,2022020978,Giveaway,353,GIVEAWAY,Giveaway by Yanni Gourde,2023-03-03T01:19:05Z,2,07:15,12:45,3,4,55.0,Seattle Kraken,SEA
+166,17,55,Detroit Red Wings,Seattle Kraken,2022020978281,2022020978,Hit,281,HIT,Vince Dunn hit Robby Fabbri,2023-03-03T01:19:15Z,2,07:25,12:35,3,4,55.0,Seattle Kraken,SEA
+167,17,55,Detroit Red Wings,Seattle Kraken,2022020978282,2022020978,Hit,282,HIT,Yanni Gourde hit Moritz Seider,2023-03-03T01:19:26Z,2,07:36,12:24,3,4,55.0,Seattle Kraken,SEA
+168,17,55,Detroit Red Wings,Seattle Kraken,2022020978283,2022020978,Hit,283,HIT,Jonatan Berggren hit Jaden Schwartz,2023-03-03T01:20:16Z,2,08:26,11:34,3,4,17.0,Detroit Red Wings,DET
+169,17,55,Detroit Red Wings,Seattle Kraken,2022020978354,2022020978,Giveaway,354,GIVEAWAY,Giveaway by Jared McCann,2023-03-03T01:20:42Z,2,08:52,11:08,3,4,55.0,Seattle Kraken,SEA
+170,17,55,Detroit Red Wings,Seattle Kraken,2022020978401,2022020978,Shot,401,SHOT,Lucas Raymond Wrist Shot saved by Philipp Grubauer,2023-03-03T01:20:47Z,2,08:57,11:03,3,4,17.0,Detroit Red Wings,DET
+171,17,55,Detroit Red Wings,Seattle Kraken,2022020978355,2022020978,Giveaway,355,GIVEAWAY,Giveaway by Ben Chiarot,2023-03-03T01:21:14Z,2,09:24,10:36,3,4,17.0,Detroit Red Wings,DET
+172,17,55,Detroit Red Wings,Seattle Kraken,2022020978284,2022020978,Stoppage,284,STOP,Offside,2023-03-03T01:21:17Z,2,09:27,10:33,3,4,,,
+173,17,55,Detroit Red Wings,Seattle Kraken,2022020978356,2022020978,Faceoff,356,FACEOFF,Pius Suter faceoff won against Yanni Gourde,2023-03-03T01:23:38Z,2,09:27,10:33,3,4,17.0,Detroit Red Wings,DET
+174,17,55,Detroit Red Wings,Seattle Kraken,2022020978404,2022020978,Shot,404,SHOT,Oskar Sundqvist Backhand saved by Philipp Grubauer,2023-03-03T01:23:51Z,2,09:40,10:20,3,4,17.0,Detroit Red Wings,DET
+175,17,55,Detroit Red Wings,Seattle Kraken,2022020978285,2022020978,Penalty,285,PENALTY,Adam Larsson Slashing against Oskar Sundqvist,2023-03-03T01:23:53Z,2,09:42,10:18,3,4,55.0,Seattle Kraken,SEA
+176,17,55,Detroit Red Wings,Seattle Kraken,2022020978357,2022020978,Faceoff,357,FACEOFF,Alex Wennberg faceoff won against Dylan Larkin,2023-03-03T01:24:30Z,2,09:42,10:18,3,4,55.0,Seattle Kraken,SEA
+177,17,55,Detroit Red Wings,Seattle Kraken,2022020978407,2022020978,Shot,407,SHOT,Moritz Seider Slap Shot saved by Philipp Grubauer,2023-03-03T01:25:15Z,2,10:27,09:33,3,4,17.0,Detroit Red Wings,DET
+178,17,55,Detroit Red Wings,Seattle Kraken,2022020978288,2022020978,Hit,288,HIT,Jamie Oleksiak hit David Perron,2023-03-03T01:25:19Z,2,10:31,09:29,3,4,55.0,Seattle Kraken,SEA
+179,17,55,Detroit Red Wings,Seattle Kraken,2022020978289,2022020978,Hit,289,HIT,Carson Soucy hit Jonatan Berggren,2023-03-03T01:26:03Z,2,11:15,08:45,3,4,55.0,Seattle Kraken,SEA
+180,17,55,Detroit Red Wings,Seattle Kraken,2022020978408,2022020978,Shot,408,SHOT,Jamie Oleksiak Wrist Shot saved by Ville Husso,2023-03-03T01:26:11Z,2,11:23,08:37,3,4,55.0,Seattle Kraken,SEA
+181,17,55,Detroit Red Wings,Seattle Kraken,2022020978409,2022020978,Shot,409,SHOT,Olli Maatta Slap Shot saved by Philipp Grubauer,2023-03-03T01:26:46Z,2,11:58,08:02,3,4,17.0,Detroit Red Wings,DET
+182,17,55,Detroit Red Wings,Seattle Kraken,2022020978290,2022020978,Hit,290,HIT,Dominik Kubalik hit Matty Beniers,2023-03-03T01:26:52Z,2,12:04,07:56,3,4,17.0,Detroit Red Wings,DET
+183,17,55,Detroit Red Wings,Seattle Kraken,2022020978555,2022020978,Blocked Shot,555,BLOCKED_SHOT,Ryan Donato shot blocked shot by Adam Erne,2023-03-03T01:27:50Z,2,13:02,06:58,3,4,17.0,Detroit Red Wings,DET
+184,17,55,Detroit Red Wings,Seattle Kraken,2022020978410,2022020978,Shot,410,SHOT,Adam Larsson Slap Shot saved by Ville Husso,2023-03-03T01:28:06Z,2,13:18,06:42,3,4,55.0,Seattle Kraken,SEA
+185,17,55,Detroit Red Wings,Seattle Kraken,2022020978359,2022020978,Giveaway,359,GIVEAWAY,Giveaway by Pius Suter,2023-03-03T01:28:08Z,2,13:20,06:40,3,4,17.0,Detroit Red Wings,DET
+186,17,55,Detroit Red Wings,Seattle Kraken,2022020978411,2022020978,Blocked Shot,411,BLOCKED_SHOT,Adam Larsson shot blocked shot by Filip Zadina,2023-03-03T01:28:22Z,2,13:34,06:26,3,4,17.0,Detroit Red Wings,DET
+187,17,55,Detroit Red Wings,Seattle Kraken,2022020978291,2022020978,Hit,291,HIT,Ryan Donato hit Pius Suter,2023-03-03T01:28:43Z,2,13:55,06:05,3,4,55.0,Seattle Kraken,SEA
+188,17,55,Detroit Red Wings,Seattle Kraken,2022020978412,2022020978,Missed Shot,412,MISSED_SHOT,Jaden Schwartz Wide of Net Ville Husso,2023-03-03T01:28:55Z,2,14:07,05:53,3,4,55.0,Seattle Kraken,SEA
+189,17,55,Detroit Red Wings,Seattle Kraken,2022020978413,2022020978,Blocked Shot,413,BLOCKED_SHOT,Jamie Oleksiak shot blocked shot by Ben Chiarot,2023-03-03T01:29:19Z,2,14:31,05:29,3,4,17.0,Detroit Red Wings,DET
+190,17,55,Detroit Red Wings,Seattle Kraken,2022020978360,2022020978,Giveaway,360,GIVEAWAY,Giveaway by Alex Wennberg,2023-03-03T01:29:34Z,2,14:46,05:14,3,4,55.0,Seattle Kraken,SEA
+191,17,55,Detroit Red Wings,Seattle Kraken,2022020978414,2022020978,Goal,414,GOAL,"Jake Walman (6) Wrist Shot, assists: none",2023-03-03T01:29:36Z,2,14:48,05:12,4,4,17.0,Detroit Red Wings,DET
+192,17,55,Detroit Red Wings,Seattle Kraken,2022020978361,2022020978,Faceoff,361,FACEOFF,Andrew Copp faceoff won against Matty Beniers,2023-03-03T01:30:17Z,2,14:48,05:12,4,4,17.0,Detroit Red Wings,DET
+193,17,55,Detroit Red Wings,Seattle Kraken,2022020978415,2022020978,Shot,415,SHOT,Dominik Kubalik Snap Shot saved by Philipp Grubauer,2023-03-03T01:30:44Z,2,15:15,04:45,4,4,17.0,Detroit Red Wings,DET
+194,17,55,Detroit Red Wings,Seattle Kraken,2022020978293,2022020978,Stoppage,293,STOP,Goalie Stopped,2023-03-03T01:30:47Z,2,15:18,04:42,4,4,,,
+195,17,55,Detroit Red Wings,Seattle Kraken,2022020978362,2022020978,Faceoff,362,FACEOFF,Oskar Sundqvist faceoff won against Yanni Gourde,2023-03-03T01:33:08Z,2,15:18,04:42,4,4,17.0,Detroit Red Wings,DET
+196,17,55,Detroit Red Wings,Seattle Kraken,2022020978294,2022020978,Hit,294,HIT,Oskar Sundqvist hit Eeli Tolvanen,2023-03-03T01:33:44Z,2,15:54,04:06,4,4,17.0,Detroit Red Wings,DET
+197,17,55,Detroit Red Wings,Seattle Kraken,2022020978416,2022020978,Shot,416,SHOT,Joe Veleno Wrist Shot saved by Philipp Grubauer,2023-03-03T01:34:11Z,2,16:21,03:39,4,4,17.0,Detroit Red Wings,DET
+198,17,55,Detroit Red Wings,Seattle Kraken,2022020978295,2022020978,Hit,295,HIT,Vince Dunn hit Jonatan Berggren,2023-03-03T01:34:18Z,2,16:28,03:32,4,4,55.0,Seattle Kraken,SEA
+199,17,55,Detroit Red Wings,Seattle Kraken,2022020978417,2022020978,Shot,417,SHOT,Filip Zadina Snap Shot saved by Philipp Grubauer,2023-03-03T01:34:20Z,2,16:30,03:30,4,4,17.0,Detroit Red Wings,DET
+200,17,55,Detroit Red Wings,Seattle Kraken,2022020978422,2022020978,Shot,422,SHOT,Morgan Geekie Tip-In saved by Ville Husso,2023-03-03T01:35:36Z,2,17:46,02:14,4,4,55.0,Seattle Kraken,SEA
+201,17,55,Detroit Red Wings,Seattle Kraken,2022020978420,2022020978,Shot,420,SHOT,Morgan Geekie Wrist Shot saved by Ville Husso,2023-03-03T01:35:40Z,2,17:50,02:10,4,4,55.0,Seattle Kraken,SEA
+202,17,55,Detroit Red Wings,Seattle Kraken,2022020978296,2022020978,Stoppage,296,STOP,Goalie Stopped,2023-03-03T01:35:41Z,2,17:51,02:09,4,4,,,
+203,17,55,Detroit Red Wings,Seattle Kraken,2022020978363,2022020978,Faceoff,363,FACEOFF,Alex Wennberg faceoff won against Dylan Larkin,2023-03-03T01:38:01Z,2,17:51,02:09,4,4,55.0,Seattle Kraken,SEA
+204,17,55,Detroit Red Wings,Seattle Kraken,2022020978423,2022020978,Blocked Shot,423,BLOCKED_SHOT,Vince Dunn shot blocked shot by Dominik Kubalik,2023-03-03T01:38:03Z,2,17:53,02:07,4,4,17.0,Detroit Red Wings,DET
+205,17,55,Detroit Red Wings,Seattle Kraken,2022020978297,2022020978,Hit,297,HIT,Olli Maatta hit Alex Wennberg,2023-03-03T01:38:12Z,2,18:02,01:58,4,4,17.0,Detroit Red Wings,DET
+206,17,55,Detroit Red Wings,Seattle Kraken,2022020978658,2022020978,Penalty,658,PENALTY,Ben Chiarot Holding against Oliver Bjorkstrand,2023-03-03T01:38:22Z,2,18:11,01:49,4,4,17.0,Detroit Red Wings,DET
+207,17,55,Detroit Red Wings,Seattle Kraken,2022020978364,2022020978,Faceoff,364,FACEOFF,Alex Wennberg faceoff won against Andrew Copp,2023-03-03T01:39:00Z,2,18:11,01:49,4,4,55.0,Seattle Kraken,SEA
+208,17,55,Detroit Red Wings,Seattle Kraken,2022020978424,2022020978,Missed Shot,424,MISSED_SHOT,Vince Dunn Wide of Net Ville Husso,2023-03-03T01:39:03Z,2,18:14,01:46,4,4,55.0,Seattle Kraken,SEA
+209,17,55,Detroit Red Wings,Seattle Kraken,2022020978365,2022020978,Takeaway,365,TAKEAWAY,Takeaway by Oliver Bjorkstrand,2023-03-03T01:39:24Z,2,18:35,01:25,4,4,55.0,Seattle Kraken,SEA
+210,17,55,Detroit Red Wings,Seattle Kraken,2022020978425,2022020978,Shot,425,SHOT,Oliver Bjorkstrand Wrist Shot saved by Ville Husso,2023-03-03T01:39:38Z,2,18:49,01:11,4,4,55.0,Seattle Kraken,SEA
+211,17,55,Detroit Red Wings,Seattle Kraken,2022020978299,2022020978,Period End,299,PERIOD_END,End of 2nd Period,2023-03-03T01:40:49Z,2,20:00,00:00,4,4,,,
+212,17,55,Detroit Red Wings,Seattle Kraken,2022020978552,2022020978,Period Official,552,PERIOD_OFFICIAL,Period Official,2023-03-03T01:40:56Z,2,20:00,00:00,4,4,,,
+213,17,55,Detroit Red Wings,Seattle Kraken,2022020978556,2022020978,Period Ready,556,PERIOD_READY,Period Ready,2023-03-03T01:59:28Z,3,00:00,20:00,4,4,,,
+214,17,55,Detroit Red Wings,Seattle Kraken,2022020978366,2022020978,Period Start,366,PERIOD_START,Period Start,2023-03-03T01:59:35Z,3,00:00,20:00,4,4,,,
+215,17,55,Detroit Red Wings,Seattle Kraken,2022020978367,2022020978,Faceoff,367,FACEOFF,Dylan Larkin faceoff won against Matty Beniers,2023-03-03T01:59:35Z,3,00:00,20:00,4,4,17.0,Detroit Red Wings,DET
+216,17,55,Detroit Red Wings,Seattle Kraken,2022020978427,2022020978,Shot,427,SHOT,Matty Beniers Wrist Shot saved by Ville Husso,2023-03-03T01:59:48Z,3,00:13,19:47,4,4,55.0,Seattle Kraken,SEA
+217,17,55,Detroit Red Wings,Seattle Kraken,2022020978557,2022020978,Hit,557,HIT,Moritz Seider hit Jared McCann,2023-03-03T02:00:01Z,3,00:26,19:34,4,4,17.0,Detroit Red Wings,DET
+218,17,55,Detroit Red Wings,Seattle Kraken,2022020978558,2022020978,Hit,558,HIT,Oliver Bjorkstrand hit Olli Maatta,2023-03-03T02:00:33Z,3,00:58,19:02,4,4,55.0,Seattle Kraken,SEA
+219,17,55,Detroit Red Wings,Seattle Kraken,2022020978428,2022020978,Blocked Shot,428,BLOCKED_SHOT,Jaden Schwartz shot blocked shot by Olli Maatta,2023-03-03T02:00:43Z,3,01:08,18:52,4,4,17.0,Detroit Red Wings,DET
+220,17,55,Detroit Red Wings,Seattle Kraken,2022020978559,2022020978,Hit,559,HIT,Brandon Tanev hit Robert Hagg,2023-03-03T02:01:15Z,3,01:40,18:20,4,4,55.0,Seattle Kraken,SEA
+221,17,55,Detroit Red Wings,Seattle Kraken,2022020978429,2022020978,Missed Shot,429,MISSED_SHOT,Daniel Sprong Wide of Net Ville Husso,2023-03-03T02:01:17Z,3,01:42,18:18,4,4,55.0,Seattle Kraken,SEA
+222,17,55,Detroit Red Wings,Seattle Kraken,2022020978560,2022020978,Stoppage,560,STOP,Net Dislodged Defensive Skater,2023-03-03T02:01:26Z,3,01:52,18:08,4,4,,,
+223,17,55,Detroit Red Wings,Seattle Kraken,2022020978368,2022020978,Faceoff,368,FACEOFF,Morgan Geekie faceoff won against Oskar Sundqvist,2023-03-03T02:02:09Z,3,01:52,18:08,4,4,55.0,Seattle Kraken,SEA
+224,17,55,Detroit Red Wings,Seattle Kraken,2022020978561,2022020978,Hit,561,HIT,Brandon Tanev hit Adam Erne,2023-03-03T02:02:16Z,3,01:59,18:01,4,4,55.0,Seattle Kraken,SEA
+225,17,55,Detroit Red Wings,Seattle Kraken,2022020978562,2022020978,Stoppage,562,STOP,Icing,2023-03-03T02:02:26Z,3,02:09,17:51,4,4,,,
+226,17,55,Detroit Red Wings,Seattle Kraken,2022020978369,2022020978,Faceoff,369,FACEOFF,Morgan Geekie faceoff won against Joe Veleno,2023-03-03T02:02:55Z,3,02:09,17:51,4,4,55.0,Seattle Kraken,SEA
+227,17,55,Detroit Red Wings,Seattle Kraken,2022020978696,2022020978,Penalty,696,PENALTY,Vince Dunn Delaying Game - Puck over glass,2023-03-03T02:03:00Z,3,02:14,17:46,4,4,55.0,Seattle Kraken,SEA
+228,17,55,Detroit Red Wings,Seattle Kraken,2022020978370,2022020978,Faceoff,370,FACEOFF,Dylan Larkin faceoff won against Alex Wennberg,2023-03-03T02:03:31Z,3,02:14,17:46,4,4,17.0,Detroit Red Wings,DET
+229,17,55,Detroit Red Wings,Seattle Kraken,2022020978430,2022020978,Shot,430,SHOT,Lucas Raymond Wrist Shot saved by Philipp Grubauer,2023-03-03T02:03:38Z,3,02:21,17:39,4,4,17.0,Detroit Red Wings,DET
+230,17,55,Detroit Red Wings,Seattle Kraken,2022020978431,2022020978,Shot,431,SHOT,David Perron Snap Shot saved by Philipp Grubauer,2023-03-03T02:04:05Z,3,02:48,17:12,4,4,17.0,Detroit Red Wings,DET
+231,17,55,Detroit Red Wings,Seattle Kraken,2022020978432,2022020978,Shot,432,SHOT,Lucas Raymond Wrist Shot saved by Philipp Grubauer,2023-03-03T02:04:07Z,3,02:50,17:10,4,4,17.0,Detroit Red Wings,DET
+232,17,55,Detroit Red Wings,Seattle Kraken,2022020978371,2022020978,Takeaway,371,TAKEAWAY,Takeaway by Jared McCann,2023-03-03T02:04:50Z,3,03:33,16:27,4,4,55.0,Seattle Kraken,SEA
+233,17,55,Detroit Red Wings,Seattle Kraken,2022020978433,2022020978,Missed Shot,433,MISSED_SHOT,Yanni Gourde Wide of Net Ville Husso,2023-03-03T02:04:55Z,3,03:38,16:22,4,4,55.0,Seattle Kraken,SEA
+234,17,55,Detroit Red Wings,Seattle Kraken,2022020978563,2022020978,Hit,563,HIT,Moritz Seider hit Jared McCann,2023-03-03T02:04:58Z,3,03:41,16:19,4,4,17.0,Detroit Red Wings,DET
+235,17,55,Detroit Red Wings,Seattle Kraken,2022020978564,2022020978,Hit,564,HIT,Joe Veleno hit Jamie Oleksiak,2023-03-03T02:06:56Z,3,05:39,14:21,4,4,17.0,Detroit Red Wings,DET
+236,17,55,Detroit Red Wings,Seattle Kraken,2022020978372,2022020978,Giveaway,372,GIVEAWAY,Giveaway by Jamie Oleksiak,2023-03-03T02:07:06Z,3,05:49,14:11,4,4,55.0,Seattle Kraken,SEA
+237,17,55,Detroit Red Wings,Seattle Kraken,2022020978373,2022020978,Takeaway,373,TAKEAWAY,Takeaway by Ryan Donato,2023-03-03T02:07:11Z,3,05:51,14:09,4,4,55.0,Seattle Kraken,SEA
+238,17,55,Detroit Red Wings,Seattle Kraken,2022020978435,2022020978,Blocked Shot,435,BLOCKED_SHOT,Ryan Donato shot blocked shot by Moritz Seider,2023-03-03T02:07:42Z,3,06:25,13:35,4,4,17.0,Detroit Red Wings,DET
+239,17,55,Detroit Red Wings,Seattle Kraken,2022020978374,2022020978,Takeaway,374,TAKEAWAY,Takeaway by Jake Walman,2023-03-03T02:08:11Z,3,06:54,13:06,4,4,17.0,Detroit Red Wings,DET
+240,17,55,Detroit Red Wings,Seattle Kraken,2022020978565,2022020978,Stoppage,565,STOP,Offside,2023-03-03T02:09:00Z,3,07:43,12:17,4,4,,,
+241,17,55,Detroit Red Wings,Seattle Kraken,2022020978375,2022020978,Faceoff,375,FACEOFF,Pius Suter faceoff won against Yanni Gourde,2023-03-03T02:11:22Z,3,07:43,12:17,4,4,17.0,Detroit Red Wings,DET
+242,17,55,Detroit Red Wings,Seattle Kraken,2022020978436,2022020978,Blocked Shot,436,BLOCKED_SHOT,Yanni Gourde shot blocked shot by Gustav Lindstrom,2023-03-03T02:11:49Z,3,08:10,11:50,4,4,17.0,Detroit Red Wings,DET
+243,17,55,Detroit Red Wings,Seattle Kraken,2022020978566,2022020978,Stoppage,566,STOP,Puck in Benches,2023-03-03T02:12:10Z,3,08:32,11:28,4,4,,,
+244,17,55,Detroit Red Wings,Seattle Kraken,2022020978376,2022020978,Faceoff,376,FACEOFF,Dylan Larkin faceoff won against Alex Wennberg,2023-03-03T02:12:46Z,3,08:32,11:28,4,4,17.0,Detroit Red Wings,DET
+245,17,55,Detroit Red Wings,Seattle Kraken,2022020978438,2022020978,Shot,438,SHOT,Jamie Oleksiak Wrist Shot saved by Ville Husso,2023-03-03T02:13:09Z,3,08:55,11:05,4,4,55.0,Seattle Kraken,SEA
+246,17,55,Detroit Red Wings,Seattle Kraken,2022020978439,2022020978,Shot,439,SHOT,Will Borgen Wrist Shot saved by Ville Husso,2023-03-03T02:13:15Z,3,09:01,10:59,4,4,55.0,Seattle Kraken,SEA
+247,17,55,Detroit Red Wings,Seattle Kraken,2022020978440,2022020978,Shot,440,SHOT,Jaden Schwartz Wrist Shot saved by Ville Husso,2023-03-03T02:13:18Z,3,09:04,10:56,4,4,55.0,Seattle Kraken,SEA
+248,17,55,Detroit Red Wings,Seattle Kraken,2022020978567,2022020978,Stoppage,567,STOP,Goalie Stopped,2023-03-03T02:13:18Z,3,09:05,10:55,4,4,,,
+249,17,55,Detroit Red Wings,Seattle Kraken,2022020978377,2022020978,Faceoff,377,FACEOFF,Andrew Copp faceoff won against Jordan Eberle,2023-03-03T02:13:52Z,3,09:05,10:55,4,4,17.0,Detroit Red Wings,DET
+250,17,55,Detroit Red Wings,Seattle Kraken,2022020978441,2022020978,Blocked Shot,441,BLOCKED_SHOT,Andrew Copp shot blocked shot by Justin Schultz,2023-03-03T02:14:04Z,3,09:17,10:43,4,4,55.0,Seattle Kraken,SEA
+251,17,55,Detroit Red Wings,Seattle Kraken,2022020978442,2022020978,Shot,442,SHOT,Jared McCann Tip-In saved by Ville Husso,2023-03-03T02:14:17Z,3,09:30,10:30,4,4,55.0,Seattle Kraken,SEA
+252,17,55,Detroit Red Wings,Seattle Kraken,2022020978443,2022020978,Missed Shot,443,MISSED_SHOT,Justin Schultz Wide of Net Ville Husso,2023-03-03T02:14:19Z,3,09:32,10:28,4,4,55.0,Seattle Kraken,SEA
+253,17,55,Detroit Red Wings,Seattle Kraken,2022020978568,2022020978,Hit,568,HIT,Moritz Seider hit Carson Soucy,2023-03-03T02:14:28Z,3,09:41,10:19,4,4,17.0,Detroit Red Wings,DET
+254,17,55,Detroit Red Wings,Seattle Kraken,2022020978444,2022020978,Shot,444,SHOT,Daniel Sprong Wrist Shot saved by Ville Husso,2023-03-03T02:14:53Z,3,10:06,09:54,4,4,55.0,Seattle Kraken,SEA
+255,17,55,Detroit Red Wings,Seattle Kraken,2022020978447,2022020978,Missed Shot,447,MISSED_SHOT,Daniel Sprong Wide of Net Ville Husso,2023-03-03T02:15:06Z,3,10:19,09:41,4,4,55.0,Seattle Kraken,SEA
+256,17,55,Detroit Red Wings,Seattle Kraken,2022020978569,2022020978,Stoppage,569,STOP,Goalie Stopped,2023-03-03T02:15:08Z,3,10:20,09:40,4,4,,,
+257,17,55,Detroit Red Wings,Seattle Kraken,2022020978378,2022020978,Faceoff,378,FACEOFF,Dylan Larkin faceoff won against Yanni Gourde,2023-03-03T02:17:34Z,3,10:20,09:40,4,4,17.0,Detroit Red Wings,DET
+258,17,55,Detroit Red Wings,Seattle Kraken,2022020978448,2022020978,Shot,448,SHOT,Robert Hagg Snap Shot saved by Philipp Grubauer,2023-03-03T02:17:42Z,3,10:28,09:32,4,4,17.0,Detroit Red Wings,DET
+259,17,55,Detroit Red Wings,Seattle Kraken,2022020978570,2022020978,Stoppage,570,STOP,Puck in Netting,2023-03-03T02:17:44Z,3,10:30,09:30,4,4,,,
+260,17,55,Detroit Red Wings,Seattle Kraken,2022020978379,2022020978,Faceoff,379,FACEOFF,Dylan Larkin faceoff won against Yanni Gourde,2023-03-03T02:18:21Z,3,10:30,09:30,4,4,17.0,Detroit Red Wings,DET
+261,17,55,Detroit Red Wings,Seattle Kraken,2022020978571,2022020978,Hit,571,HIT,David Perron hit Yanni Gourde,2023-03-03T02:18:51Z,3,11:00,09:00,4,4,17.0,Detroit Red Wings,DET
+262,17,55,Detroit Red Wings,Seattle Kraken,2022020978449,2022020978,Shot,449,SHOT,Dylan Larkin Snap Shot saved by Philipp Grubauer,2023-03-03T02:18:58Z,3,11:07,08:53,4,4,17.0,Detroit Red Wings,DET
+263,17,55,Detroit Red Wings,Seattle Kraken,2022020978572,2022020978,Stoppage,572,STOP,Goalie Stopped,2023-03-03T02:18:59Z,3,11:08,08:52,4,4,,,
+264,17,55,Detroit Red Wings,Seattle Kraken,2022020978380,2022020978,Faceoff,380,FACEOFF,Pius Suter faceoff won against Alex Wennberg,2023-03-03T02:19:29Z,3,11:08,08:52,4,4,17.0,Detroit Red Wings,DET
+265,17,55,Detroit Red Wings,Seattle Kraken,2022020978450,2022020978,Blocked Shot,450,BLOCKED_SHOT,Olli Maatta shot blocked shot by Alex Wennberg,2023-03-03T02:19:36Z,3,11:15,08:45,4,4,55.0,Seattle Kraken,SEA
+266,17,55,Detroit Red Wings,Seattle Kraken,2022020978701,2022020978,Missed Shot,701,MISSED_SHOT,Alex Wennberg Wide of Net Ville Husso,2023-03-03T02:19:58Z,3,11:37,08:23,4,4,55.0,Seattle Kraken,SEA
+267,17,55,Detroit Red Wings,Seattle Kraken,2022020978573,2022020978,Stoppage,573,STOP,Puck Frozen,2023-03-03T02:19:58Z,3,11:38,08:22,4,4,,,
+268,17,55,Detroit Red Wings,Seattle Kraken,2022020978381,2022020978,Faceoff,381,FACEOFF,Andrew Copp faceoff won against Matty Beniers,2023-03-03T02:20:30Z,3,11:38,08:22,4,4,17.0,Detroit Red Wings,DET
+269,17,55,Detroit Red Wings,Seattle Kraken,2022020978574,2022020978,Stoppage,574,STOP,Icing,2023-03-03T02:21:00Z,3,12:09,07:51,4,4,,,
+270,17,55,Detroit Red Wings,Seattle Kraken,2022020978382,2022020978,Faceoff,382,FACEOFF,Andrew Copp faceoff won against Alex Wennberg,2023-03-03T02:21:30Z,3,12:09,07:51,4,4,17.0,Detroit Red Wings,DET
+271,17,55,Detroit Red Wings,Seattle Kraken,2022020978702,2022020978,Shot,702,SHOT,Oliver Bjorkstrand Wrist Shot saved by Ville Husso,2023-03-03T02:21:58Z,3,12:37,07:23,4,4,55.0,Seattle Kraken,SEA
+272,17,55,Detroit Red Wings,Seattle Kraken,2022020978579,2022020978,Stoppage,579,STOP,Goalie Stopped,2023-03-03T02:22:01Z,3,12:40,07:20,4,4,,,
+273,17,55,Detroit Red Wings,Seattle Kraken,2022020978383,2022020978,Faceoff,383,FACEOFF,Morgan Geekie faceoff won against Joe Veleno,2023-03-03T02:22:43Z,3,12:40,07:20,4,4,55.0,Seattle Kraken,SEA
+274,17,55,Detroit Red Wings,Seattle Kraken,2022020978703,2022020978,Missed Shot,703,MISSED_SHOT,Joe Veleno Wide of Net Philipp Grubauer,2023-03-03T02:22:56Z,3,12:53,07:07,4,4,17.0,Detroit Red Wings,DET
+275,17,55,Detroit Red Wings,Seattle Kraken,2022020978575,2022020978,Hit,575,HIT,Will Borgen hit Filip Zadina,2023-03-03T02:23:13Z,3,13:10,06:50,4,4,55.0,Seattle Kraken,SEA
+276,17,55,Detroit Red Wings,Seattle Kraken,2022020978576,2022020978,Stoppage,576,STOP,Offside,2023-03-03T02:23:14Z,3,13:12,06:48,4,4,,,
+277,17,55,Detroit Red Wings,Seattle Kraken,2022020978384,2022020978,Faceoff,384,FACEOFF,Dylan Larkin faceoff won against Yanni Gourde,2023-03-03T02:23:45Z,3,13:12,06:48,4,4,17.0,Detroit Red Wings,DET
+278,17,55,Detroit Red Wings,Seattle Kraken,2022020978577,2022020978,Hit,577,HIT,David Perron hit Will Borgen,2023-03-03T02:23:59Z,3,13:26,06:34,4,4,17.0,Detroit Red Wings,DET
+279,17,55,Detroit Red Wings,Seattle Kraken,2022020978704,2022020978,Missed Shot,704,MISSED_SHOT,Yanni Gourde Wide of Net Ville Husso,2023-03-03T02:24:14Z,3,13:41,06:19,4,4,55.0,Seattle Kraken,SEA
+280,17,55,Detroit Red Wings,Seattle Kraken,2022020978578,2022020978,Stoppage,578,STOP,Puck in Netting,2023-03-03T02:24:25Z,3,13:51,06:09,4,4,,,
+281,17,55,Detroit Red Wings,Seattle Kraken,2022020978385,2022020978,Faceoff,385,FACEOFF,Andrew Copp faceoff won against Matty Beniers,2023-03-03T02:24:55Z,3,13:51,06:09,4,4,17.0,Detroit Red Wings,DET
+282,17,55,Detroit Red Wings,Seattle Kraken,2022020978580,2022020978,Hit,580,HIT,Adam Larsson hit Robby Fabbri,2023-03-03T02:25:13Z,3,14:09,05:51,4,4,55.0,Seattle Kraken,SEA
+283,17,55,Detroit Red Wings,Seattle Kraken,2022020978581,2022020978,Hit,581,HIT,Adam Erne hit Daniel Sprong,2023-03-03T02:26:01Z,3,14:57,05:03,4,4,17.0,Detroit Red Wings,DET
+284,17,55,Detroit Red Wings,Seattle Kraken,2022020978386,2022020978,Giveaway,386,GIVEAWAY,Giveaway by Gustav Lindstrom,2023-03-03T02:26:10Z,3,15:06,04:54,4,4,17.0,Detroit Red Wings,DET
+285,17,55,Detroit Red Wings,Seattle Kraken,2022020978582,2022020978,Hit,582,HIT,Robert Hagg hit Morgan Geekie,2023-03-03T02:26:16Z,3,15:12,04:48,4,4,17.0,Detroit Red Wings,DET
+286,17,55,Detroit Red Wings,Seattle Kraken,2022020978705,2022020978,Blocked Shot,705,BLOCKED_SHOT,Daniel Sprong shot blocked shot by Robert Hagg,2023-03-03T02:26:35Z,3,15:31,04:29,4,4,17.0,Detroit Red Wings,DET
+287,17,55,Detroit Red Wings,Seattle Kraken,2022020978583,2022020978,Penalty,583,PENALTY,Gustav Lindstrom Holding against Morgan Geekie,2023-03-03T02:26:36Z,3,15:33,04:27,4,4,17.0,Detroit Red Wings,DET
+288,17,55,Detroit Red Wings,Seattle Kraken,2022020978587,2022020978,Stoppage,587,STOP,TV timeout,2023-03-03T02:26:36Z,3,15:33,04:27,4,4,,,
+289,17,55,Detroit Red Wings,Seattle Kraken,2022020978387,2022020978,Faceoff,387,FACEOFF,Andrew Copp faceoff won against Alex Wennberg,2023-03-03T02:29:01Z,3,15:33,04:27,4,4,17.0,Detroit Red Wings,DET
+290,17,55,Detroit Red Wings,Seattle Kraken,2022020978706,2022020978,Shot,706,SHOT,Pius Suter Wrist Shot saved by Philipp Grubauer,2023-03-03T02:29:04Z,3,15:36,04:24,4,4,17.0,Detroit Red Wings,DET
+291,17,55,Detroit Red Wings,Seattle Kraken,2022020978588,2022020978,Hit,588,HIT,Moritz Seider hit Alex Wennberg,2023-03-03T02:29:33Z,3,16:05,03:55,4,4,17.0,Detroit Red Wings,DET
+292,17,55,Detroit Red Wings,Seattle Kraken,2022020978707,2022020978,Shot,707,SHOT,Oliver Bjorkstrand Tip-In saved by Ville Husso,2023-03-03T02:29:57Z,3,16:29,03:31,4,4,55.0,Seattle Kraken,SEA
+293,17,55,Detroit Red Wings,Seattle Kraken,2022020978708,2022020978,Shot,708,SHOT,Justin Schultz Slap Shot saved by Ville Husso,2023-03-03T02:30:44Z,3,17:16,02:44,4,4,55.0,Seattle Kraken,SEA
+294,17,55,Detroit Red Wings,Seattle Kraken,2022020978589,2022020978,Stoppage,589,STOP,Goalie Stopped,2023-03-03T02:30:46Z,3,17:17,02:43,4,4,,,
+295,17,55,Detroit Red Wings,Seattle Kraken,2022020978388,2022020978,Faceoff,388,FACEOFF,Andrew Copp faceoff won against Jaden Schwartz,2023-03-03T02:31:16Z,3,17:17,02:43,4,4,17.0,Detroit Red Wings,DET
+296,17,55,Detroit Red Wings,Seattle Kraken,2022020978590,2022020978,Stoppage,590,STOP,Offside,2023-03-03T02:31:43Z,3,17:44,02:16,4,4,,,
+297,17,55,Detroit Red Wings,Seattle Kraken,2022020978389,2022020978,Faceoff,389,FACEOFF,Dylan Larkin faceoff won against Yanni Gourde,2023-03-03T02:32:08Z,3,17:44,02:16,4,4,17.0,Detroit Red Wings,DET
+298,17,55,Detroit Red Wings,Seattle Kraken,2022020978390,2022020978,Takeaway,390,TAKEAWAY,Takeaway by Ben Chiarot,2023-03-03T02:32:22Z,3,17:58,02:02,4,4,17.0,Detroit Red Wings,DET
+299,17,55,Detroit Red Wings,Seattle Kraken,2022020978709,2022020978,Missed Shot,709,MISSED_SHOT,Oskar Sundqvist Wide of Net Philipp Grubauer,2023-03-03T02:33:12Z,3,18:48,01:12,4,4,17.0,Detroit Red Wings,DET
+300,17,55,Detroit Red Wings,Seattle Kraken,2022020978592,2022020978,Hit,592,HIT,Adam Erne hit Oliver Bjorkstrand,2023-03-03T02:33:26Z,3,19:02,00:58,4,4,17.0,Detroit Red Wings,DET
+301,17,55,Detroit Red Wings,Seattle Kraken,2022020978391,2022020978,Giveaway,391,GIVEAWAY,Giveaway by Will Borgen,2023-03-03T02:33:45Z,3,19:21,00:39,4,4,55.0,Seattle Kraken,SEA
+302,17,55,Detroit Red Wings,Seattle Kraken,2022020978710,2022020978,Shot,710,SHOT,Olli Maatta Snap Shot saved by Philipp Grubauer,2023-03-03T02:33:50Z,3,19:26,00:34,4,4,17.0,Detroit Red Wings,DET
+303,17,55,Detroit Red Wings,Seattle Kraken,2022020978593,2022020978,Stoppage,593,STOP,Goalie Stopped,2023-03-03T02:33:53Z,3,19:28,00:32,4,4,,,
+304,17,55,Detroit Red Wings,Seattle Kraken,2022020978392,2022020978,Faceoff,392,FACEOFF,Andrew Copp faceoff won against Matty Beniers,2023-03-03T02:34:25Z,3,19:28,00:32,4,4,17.0,Detroit Red Wings,DET
+305,17,55,Detroit Red Wings,Seattle Kraken,2022020978594,2022020978,Stoppage,594,STOP,Puck in Benches,2023-03-03T02:34:33Z,3,19:36,00:24,4,4,,,
+306,17,55,Detroit Red Wings,Seattle Kraken,2022020978393,2022020978,Faceoff,393,FACEOFF,Alex Wennberg faceoff won against Andrew Copp,2023-03-03T02:35:31Z,3,19:36,00:24,4,4,55.0,Seattle Kraken,SEA
+307,17,55,Detroit Red Wings,Seattle Kraken,2022020978711,2022020978,Blocked Shot,711,BLOCKED_SHOT,Jake Walman shot blocked shot by Alex Wennberg,2023-03-03T02:35:45Z,3,19:51,00:09,4,4,55.0,Seattle Kraken,SEA
+308,17,55,Detroit Red Wings,Seattle Kraken,2022020978595,2022020978,Period End,595,PERIOD_END,End of 3rd Period,2023-03-03T02:35:54Z,3,20:00,00:00,4,4,,,
+309,17,55,Detroit Red Wings,Seattle Kraken,2022020978598,2022020978,Period Official,598,PERIOD_OFFICIAL,Period Official,2023-03-03T02:36:01Z,3,20:00,00:00,4,4,,,
+310,17,55,Detroit Red Wings,Seattle Kraken,2022020978599,2022020978,Period Ready,599,PERIOD_READY,Period Ready,2023-03-03T02:37:50Z,4,00:00,05:00,4,4,,,
+311,17,55,Detroit Red Wings,Seattle Kraken,2022020978394,2022020978,Period Start,394,PERIOD_START,Period Start,2023-03-03T02:38:37Z,4,00:00,05:00,4,4,,,
+312,17,55,Detroit Red Wings,Seattle Kraken,2022020978395,2022020978,Faceoff,395,FACEOFF,Dylan Larkin faceoff won against Matty Beniers,2023-03-03T02:38:37Z,4,00:00,05:00,4,4,17.0,Detroit Red Wings,DET
+313,17,55,Detroit Red Wings,Seattle Kraken,2022020978712,2022020978,Blocked Shot,712,BLOCKED_SHOT,Adam Larsson shot blocked shot by Lucas Raymond,2023-03-03T02:38:56Z,4,00:19,04:41,4,4,17.0,Detroit Red Wings,DET
+314,17,55,Detroit Red Wings,Seattle Kraken,2022020978713,2022020978,Shot,713,SHOT,Andrew Copp Wrist Shot saved by Philipp Grubauer,2023-03-03T02:39:28Z,4,00:51,04:09,4,4,17.0,Detroit Red Wings,DET
+315,17,55,Detroit Red Wings,Seattle Kraken,2022020978600,2022020978,Stoppage,600,STOP,Puck in Netting,2023-03-03T02:39:29Z,4,00:52,04:08,4,4,,,
+316,17,55,Detroit Red Wings,Seattle Kraken,2022020978396,2022020978,Faceoff,396,FACEOFF,Andrew Copp faceoff won against Alex Wennberg,2023-03-03T02:39:56Z,4,00:52,04:08,4,4,17.0,Detroit Red Wings,DET
+317,17,55,Detroit Red Wings,Seattle Kraken,20220209781001,2022020978,Hit,1001,HIT,Moritz Seider hit Jaden Schwartz,2023-03-03T02:40:25Z,4,01:21,03:39,4,4,17.0,Detroit Red Wings,DET
+318,17,55,Detroit Red Wings,Seattle Kraken,20220209781011,2022020978,Stoppage,1011,STOP,Visitor Timeout,2023-03-03T02:40:44Z,4,01:37,03:23,4,4,,,
+319,17,55,Detroit Red Wings,Seattle Kraken,20220209781056,2022020978,Penalty,1056,PENALTY,Moritz Seider Slashing against Jaden Schwartz,2023-03-03T02:40:44Z,4,01:37,03:23,4,4,17.0,Detroit Red Wings,DET
+320,17,55,Detroit Red Wings,Seattle Kraken,2022020978397,2022020978,Faceoff,397,FACEOFF,Andrew Copp faceoff won against Alex Wennberg,2023-03-03T02:42:20Z,4,01:37,03:23,4,4,17.0,Detroit Red Wings,DET
+321,17,55,Detroit Red Wings,Seattle Kraken,2022020978714,2022020978,Blocked Shot,714,BLOCKED_SHOT,Vince Dunn shot blocked shot by Ben Chiarot,2023-03-03T02:42:49Z,4,02:06,02:54,4,4,17.0,Detroit Red Wings,DET
+322,17,55,Detroit Red Wings,Seattle Kraken,2022020978715,2022020978,Missed Shot,715,MISSED_SHOT,Jared McCann Wide of Net Ville Husso,2023-03-03T02:42:52Z,4,02:09,02:51,4,4,55.0,Seattle Kraken,SEA
+323,17,55,Detroit Red Wings,Seattle Kraken,2022020978716,2022020978,Shot,716,SHOT,Jared McCann Slap Shot saved by Ville Husso,2023-03-03T02:43:24Z,4,02:41,02:19,4,4,55.0,Seattle Kraken,SEA
+324,17,55,Detroit Red Wings,Seattle Kraken,20220209781004,2022020978,Stoppage,1004,STOP,Puck in Netting,2023-03-03T02:43:26Z,4,02:42,02:18,4,4,,,
+325,17,55,Detroit Red Wings,Seattle Kraken,2022020978398,2022020978,Faceoff,398,FACEOFF,Dylan Larkin faceoff won against Jaden Schwartz,2023-03-03T02:43:55Z,4,02:42,02:18,4,4,17.0,Detroit Red Wings,DET
+326,17,55,Detroit Red Wings,Seattle Kraken,2022020978399,2022020978,Takeaway,399,TAKEAWAY,Takeaway by Dylan Larkin,2023-03-03T02:44:11Z,4,02:58,02:02,4,4,17.0,Detroit Red Wings,DET
+327,17,55,Detroit Red Wings,Seattle Kraken,2022020978717,2022020978,Blocked Shot,717,BLOCKED_SHOT,Jared McCann shot blocked shot by Ben Chiarot,2023-03-03T02:44:39Z,4,03:26,01:34,4,4,17.0,Detroit Red Wings,DET
+328,17,55,Detroit Red Wings,Seattle Kraken,20220209781009,2022020978,Game End,1009,GAME_END,Game End,2023-03-03T02:44:34Z,4,03:33,01:27,4,4,,,
+329,17,55,Detroit Red Wings,Seattle Kraken,2022020978718,2022020978,Goal,718,GOAL,"Oliver Bjorkstrand (13) Snap Shot, assists: Jared McCann (17), Justin Schultz (22)",2023-03-03T02:44:46Z,4,03:33,01:27,4,5,55.0,Seattle Kraken,SEA
+330,17,55,Detroit Red Wings,Seattle Kraken,20220209781005,2022020978,Period End,1005,PERIOD_END,End of OT,2023-03-03T02:44:46Z,4,03:33,01:27,4,5,,,
+331,17,55,Detroit Red Wings,Seattle Kraken,20220209781008,2022020978,Period Official,1008,PERIOD_OFFICIAL,Period Official,2023-03-03T02:45:32Z,4,03:33,01:27,4,5,,,
+332,17,55,Detroit Red Wings,Seattle Kraken,20220209781141,2022020978,Game Official,1141,GAME_OFFICIAL,Game Official,2023-03-03T16:04:27Z,4,03:33,01:27,4,5,,,

@@ -1,0 +1,328 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,17,24,Detroit Red Wings,Anaheim Ducks,20220200881,2022020088,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-10-23T20:10:54Z,1,00:00,20:00,0,0,,,
+1,17,24,Detroit Red Wings,Anaheim Ducks,2022020088102,2022020088,Period Ready,102,PERIOD_READY,Period Ready,2022-10-23T21:06:05Z,1,00:00,20:00,0,0,,,
+2,17,24,Detroit Red Wings,Anaheim Ducks,2022020088151,2022020088,Period Start,151,PERIOD_START,Period Start,2022-10-23T21:08:30Z,1,00:00,20:00,0,0,,,
+3,17,24,Detroit Red Wings,Anaheim Ducks,2022020088152,2022020088,Faceoff,152,FACEOFF,Isac Lundestrom faceoff won against Michael Rasmussen,2022-10-23T21:08:30Z,1,00:00,20:00,0,0,24.0,Anaheim Ducks,ANA
+4,17,24,Detroit Red Wings,Anaheim Ducks,2022020088251,2022020088,Blocked Shot,251,BLOCKED_SHOT,Nathan Beaulieu shot blocked shot by Oskar Sundqvist,2022-10-23T21:08:41Z,1,00:11,19:49,0,0,17.0,Detroit Red Wings,DET
+5,17,24,Detroit Red Wings,Anaheim Ducks,2022020088105,2022020088,Hit,105,HIT,Filip Hronek hit Max Comtois,2022-10-23T21:08:43Z,1,00:13,19:47,0,0,17.0,Detroit Red Wings,DET
+6,17,24,Detroit Red Wings,Anaheim Ducks,2022020088106,2022020088,Penalty,106,PENALTY,Nathan Beaulieu Holding against Oskar Sundqvist,2022-10-23T21:08:48Z,1,00:18,19:42,0,0,24.0,Anaheim Ducks,ANA
+7,17,24,Detroit Red Wings,Anaheim Ducks,2022020088153,2022020088,Faceoff,153,FACEOFF,Dylan Larkin faceoff won against Ryan Strome,2022-10-23T21:09:20Z,1,00:18,19:42,0,0,17.0,Detroit Red Wings,DET
+8,17,24,Detroit Red Wings,Anaheim Ducks,2022020088252,2022020088,Blocked Shot,252,BLOCKED_SHOT,Dominik Kubalik shot blocked shot by Cam Fowler,2022-10-23T21:09:23Z,1,00:21,19:39,0,0,24.0,Anaheim Ducks,ANA
+9,17,24,Detroit Red Wings,Anaheim Ducks,2022020088253,2022020088,Shot,253,SHOT,Dominik Kubalik Wrist Shot saved by John Gibson,2022-10-23T21:09:35Z,1,00:33,19:27,0,0,17.0,Detroit Red Wings,DET
+10,17,24,Detroit Red Wings,Anaheim Ducks,2022020088254,2022020088,Shot,254,SHOT,Dylan Larkin Snap Shot saved by John Gibson,2022-10-23T21:09:57Z,1,00:55,19:05,0,0,17.0,Detroit Red Wings,DET
+11,17,24,Detroit Red Wings,Anaheim Ducks,2022020088256,2022020088,Shot,256,SHOT,Dominik Kubalik Slap Shot saved by John Gibson,2022-10-23T21:11:03Z,1,02:01,17:59,0,0,17.0,Detroit Red Wings,DET
+12,17,24,Detroit Red Wings,Anaheim Ducks,2022020088257,2022020088,Goal,257,GOAL,"Dylan Larkin (3) Snap Shot, assists: Dominik Kubalik (4), Moritz Seider (1)",2022-10-23T21:11:04Z,1,02:02,17:58,1,0,17.0,Detroit Red Wings,DET
+13,17,24,Detroit Red Wings,Anaheim Ducks,2022020088154,2022020088,Faceoff,154,FACEOFF,Trevor Zegras faceoff won against Andrew Copp,2022-10-23T21:11:43Z,1,02:02,17:58,1,0,24.0,Anaheim Ducks,ANA
+14,17,24,Detroit Red Wings,Anaheim Ducks,2022020088110,2022020088,Hit,110,HIT,Trevor Zegras hit Ben Chiarot,2022-10-23T21:11:53Z,1,02:12,17:48,1,0,24.0,Anaheim Ducks,ANA
+15,17,24,Detroit Red Wings,Anaheim Ducks,2022020088111,2022020088,Hit,111,HIT,Adam Erne hit Kevin Shattenkirk,2022-10-23T21:12:45Z,1,03:04,16:56,1,0,17.0,Detroit Red Wings,DET
+16,17,24,Detroit Red Wings,Anaheim Ducks,2022020088112,2022020088,Hit,112,HIT,Michael Rasmussen hit Kevin Shattenkirk,2022-10-23T21:13:20Z,1,03:39,16:21,1,0,17.0,Detroit Red Wings,DET
+17,17,24,Detroit Red Wings,Anaheim Ducks,2022020088155,2022020088,Giveaway,155,GIVEAWAY,Giveaway by Michael Rasmussen,2022-10-23T21:13:46Z,1,04:05,15:55,1,0,17.0,Detroit Red Wings,DET
+18,17,24,Detroit Red Wings,Anaheim Ducks,2022020088113,2022020088,Stoppage,113,STOP,Offside,2022-10-23T21:13:57Z,1,04:17,15:43,1,0,,,
+19,17,24,Detroit Red Wings,Anaheim Ducks,2022020088156,2022020088,Faceoff,156,FACEOFF,Dylan Larkin faceoff won against Jakob Silfverberg,2022-10-23T21:14:31Z,1,04:17,15:43,1,0,17.0,Detroit Red Wings,DET
+20,17,24,Detroit Red Wings,Anaheim Ducks,2022020088114,2022020088,Stoppage,114,STOP,Puck in Benches,2022-10-23T21:14:37Z,1,04:23,15:37,1,0,,,
+21,17,24,Detroit Red Wings,Anaheim Ducks,2022020088157,2022020088,Faceoff,157,FACEOFF,Isac Lundestrom faceoff won against Dylan Larkin,2022-10-23T21:14:56Z,1,04:23,15:37,1,0,24.0,Anaheim Ducks,ANA
+22,17,24,Detroit Red Wings,Anaheim Ducks,2022020088258,2022020088,Missed Shot,258,MISSED_SHOT,Jakob Silfverberg Wide of Net Ville Husso,2022-10-23T21:15:49Z,1,05:16,14:44,1,0,24.0,Anaheim Ducks,ANA
+23,17,24,Detroit Red Wings,Anaheim Ducks,2022020088259,2022020088,Shot,259,SHOT,Troy Terry Backhand saved by Ville Husso,2022-10-23T21:16:02Z,1,05:29,14:31,1,0,24.0,Anaheim Ducks,ANA
+24,17,24,Detroit Red Wings,Anaheim Ducks,2022020088260,2022020088,Goal,260,GOAL,"Trevor Zegras (3) Poke, assists: Troy Terry (4), Adam Henrique (1)",2022-10-23T21:16:04Z,1,05:31,14:29,1,1,24.0,Anaheim Ducks,ANA
+25,17,24,Detroit Red Wings,Anaheim Ducks,2022020088158,2022020088,Faceoff,158,FACEOFF,Trevor Zegras faceoff won against Andrew Copp,2022-10-23T21:16:52Z,1,05:31,14:29,1,1,24.0,Anaheim Ducks,ANA
+26,17,24,Detroit Red Wings,Anaheim Ducks,2022020088261,2022020088,Shot,261,SHOT,Lucas Raymond Snap Shot saved by John Gibson,2022-10-23T21:17:07Z,1,05:46,14:14,1,1,17.0,Detroit Red Wings,DET
+27,17,24,Detroit Red Wings,Anaheim Ducks,2022020088115,2022020088,Hit,115,HIT,Moritz Seider hit Troy Terry,2022-10-23T21:17:14Z,1,05:53,14:07,1,1,17.0,Detroit Red Wings,DET
+28,17,24,Detroit Red Wings,Anaheim Ducks,2022020088116,2022020088,Stoppage,116,STOP,Icing,2022-10-23T21:18:03Z,1,06:42,13:18,1,1,,,
+29,17,24,Detroit Red Wings,Anaheim Ducks,2022020088159,2022020088,Faceoff,159,FACEOFF,Joe Veleno faceoff won against Trevor Zegras,2022-10-23T21:18:30Z,1,06:42,13:18,1,1,17.0,Detroit Red Wings,DET
+30,17,24,Detroit Red Wings,Anaheim Ducks,2022020088117,2022020088,Stoppage,117,STOP,High Stick,2022-10-23T21:19:37Z,1,07:50,12:10,1,1,,,
+31,17,24,Detroit Red Wings,Anaheim Ducks,2022020088160,2022020088,Faceoff,160,FACEOFF,Derek Grant faceoff won against Dylan Larkin,2022-10-23T21:22:10Z,1,07:50,12:10,1,1,24.0,Anaheim Ducks,ANA
+32,17,24,Detroit Red Wings,Anaheim Ducks,2022020088262,2022020088,Missed Shot,262,MISSED_SHOT,Derek Grant Wide of Net Ville Husso,2022-10-23T21:22:16Z,1,07:56,12:04,1,1,24.0,Anaheim Ducks,ANA
+33,17,24,Detroit Red Wings,Anaheim Ducks,2022020088263,2022020088,Shot,263,SHOT,Max Jones Deflected saved by Ville Husso,2022-10-23T21:22:28Z,1,08:08,11:52,1,1,24.0,Anaheim Ducks,ANA
+34,17,24,Detroit Red Wings,Anaheim Ducks,2022020088118,2022020088,Penalty,118,PENALTY,Gustav Lindstrom Slashing against Pavol Regenda,2022-10-23T21:22:28Z,1,08:09,11:51,1,1,17.0,Detroit Red Wings,DET
+35,17,24,Detroit Red Wings,Anaheim Ducks,2022020088161,2022020088,Faceoff,161,FACEOFF,Ryan Strome faceoff won against Dylan Larkin,2022-10-23T21:23:00Z,1,08:09,11:51,1,1,24.0,Anaheim Ducks,ANA
+36,17,24,Detroit Red Wings,Anaheim Ducks,2022020088264,2022020088,Blocked Shot,264,BLOCKED_SHOT,John Klingberg shot blocked shot by Moritz Seider,2022-10-23T21:23:01Z,1,08:10,11:50,1,1,17.0,Detroit Red Wings,DET
+37,17,24,Detroit Red Wings,Anaheim Ducks,2022020088162,2022020088,Giveaway,162,GIVEAWAY,Giveaway by Mason McTavish,2022-10-23T21:23:22Z,1,08:31,11:29,1,1,24.0,Anaheim Ducks,ANA
+38,17,24,Detroit Red Wings,Anaheim Ducks,2022020088163,2022020088,Takeaway,163,TAKEAWAY,Takeaway by Oskar Sundqvist,2022-10-23T21:23:50Z,1,08:59,11:01,1,1,17.0,Detroit Red Wings,DET
+39,17,24,Detroit Red Wings,Anaheim Ducks,2022020088121,2022020088,Stoppage,121,STOP,Offside,2022-10-23T21:24:05Z,1,09:13,10:47,1,1,,,
+40,17,24,Detroit Red Wings,Anaheim Ducks,2022020088164,2022020088,Faceoff,164,FACEOFF,Adam Henrique faceoff won against Pius Suter,2022-10-23T21:24:30Z,1,09:13,10:47,1,1,24.0,Anaheim Ducks,ANA
+41,17,24,Detroit Red Wings,Anaheim Ducks,2022020088265,2022020088,Blocked Shot,265,BLOCKED_SHOT,Cam Fowler shot blocked shot by Adam Erne,2022-10-23T21:24:58Z,1,09:41,10:19,1,1,17.0,Detroit Red Wings,DET
+42,17,24,Detroit Red Wings,Anaheim Ducks,2022020088266,2022020088,Shot,266,SHOT,Kevin Shattenkirk Slap Shot saved by Ville Husso,2022-10-23T21:25:02Z,1,09:45,10:15,1,1,24.0,Anaheim Ducks,ANA
+43,17,24,Detroit Red Wings,Anaheim Ducks,2022020088165,2022020088,Giveaway,165,GIVEAWAY,Giveaway by Cam Fowler,2022-10-23T21:25:04Z,1,09:47,10:13,1,1,24.0,Anaheim Ducks,ANA
+44,17,24,Detroit Red Wings,Anaheim Ducks,2022020088122,2022020088,Stoppage,122,STOP,Icing,2022-10-23T21:25:11Z,1,09:54,10:06,1,1,,,
+45,17,24,Detroit Red Wings,Anaheim Ducks,2022020088166,2022020088,Faceoff,166,FACEOFF,Dylan Larkin faceoff won against Adam Henrique,2022-10-23T21:25:38Z,1,09:54,10:06,1,1,17.0,Detroit Red Wings,DET
+46,17,24,Detroit Red Wings,Anaheim Ducks,2022020088123,2022020088,Hit,123,HIT,Dmitry Kulikov hit Andrew Copp,2022-10-23T21:25:58Z,1,10:14,09:46,1,1,24.0,Anaheim Ducks,ANA
+47,17,24,Detroit Red Wings,Anaheim Ducks,2022020088167,2022020088,Takeaway,167,TAKEAWAY,Takeaway by Lucas Raymond,2022-10-23T21:26:02Z,1,10:18,09:42,1,1,17.0,Detroit Red Wings,DET
+48,17,24,Detroit Red Wings,Anaheim Ducks,2022020088168,2022020088,Takeaway,168,TAKEAWAY,Takeaway by Isac Lundestrom,2022-10-23T21:26:04Z,1,10:20,09:40,1,1,24.0,Anaheim Ducks,ANA
+49,17,24,Detroit Red Wings,Anaheim Ducks,2022020088267,2022020088,Shot,267,SHOT,Filip Hronek Snap Shot saved by John Gibson,2022-10-23T21:26:13Z,1,10:29,09:31,1,1,17.0,Detroit Red Wings,DET
+50,17,24,Detroit Red Wings,Anaheim Ducks,2022020088124,2022020088,Hit,124,HIT,Dominik Kubalik hit Dmitry Kulikov,2022-10-23T21:26:17Z,1,10:33,09:27,1,1,17.0,Detroit Red Wings,DET
+51,17,24,Detroit Red Wings,Anaheim Ducks,2022020088268,2022020088,Blocked Shot,268,BLOCKED_SHOT,Gustav Lindstrom shot blocked shot by Frank Vatrano,2022-10-23T21:26:21Z,1,10:37,09:23,1,1,24.0,Anaheim Ducks,ANA
+52,17,24,Detroit Red Wings,Anaheim Ducks,2022020088125,2022020088,Hit,125,HIT,Gustav Lindstrom hit Isac Lundestrom,2022-10-23T21:26:31Z,1,10:47,09:13,1,1,17.0,Detroit Red Wings,DET
+53,17,24,Detroit Red Wings,Anaheim Ducks,2022020088126,2022020088,Hit,126,HIT,Dominik Kubalik hit Max Jones,2022-10-23T21:26:46Z,1,11:02,08:58,1,1,17.0,Detroit Red Wings,DET
+54,17,24,Detroit Red Wings,Anaheim Ducks,2022020088127,2022020088,Hit,127,HIT,Max Jones hit Michael Rasmussen,2022-10-23T21:27:04Z,1,11:20,08:40,1,1,24.0,Anaheim Ducks,ANA
+55,17,24,Detroit Red Wings,Anaheim Ducks,2022020088128,2022020088,Hit,128,HIT,Nathan Beaulieu hit Elmer Soderblom,2022-10-23T21:27:13Z,1,11:29,08:31,1,1,24.0,Anaheim Ducks,ANA
+56,17,24,Detroit Red Wings,Anaheim Ducks,2022020088129,2022020088,Stoppage,129,STOP,Icing,2022-10-23T21:27:20Z,1,11:36,08:24,1,1,,,
+57,17,24,Detroit Red Wings,Anaheim Ducks,2022020088169,2022020088,Faceoff,169,FACEOFF,Derek Grant faceoff won against Andrew Copp,2022-10-23T21:27:43Z,1,11:36,08:24,1,1,24.0,Anaheim Ducks,ANA
+58,17,24,Detroit Red Wings,Anaheim Ducks,2022020088269,2022020088,Shot,269,SHOT,Derek Grant Slap Shot saved by Ville Husso,2022-10-23T21:28:00Z,1,11:53,08:07,1,1,24.0,Anaheim Ducks,ANA
+59,17,24,Detroit Red Wings,Anaheim Ducks,2022020088271,2022020088,Shot,271,SHOT,Trevor Zegras Wrist Shot saved by Ville Husso,2022-10-23T21:28:39Z,1,12:32,07:28,1,1,24.0,Anaheim Ducks,ANA
+60,17,24,Detroit Red Wings,Anaheim Ducks,2022020088170,2022020088,Giveaway,170,GIVEAWAY,Giveaway by John Klingberg,2022-10-23T21:29:03Z,1,12:56,07:04,1,1,24.0,Anaheim Ducks,ANA
+61,17,24,Detroit Red Wings,Anaheim Ducks,2022020088130,2022020088,Penalty,130,PENALTY,John Gibson Elbowing against Adam Erne served by Troy Terry,2022-10-23T21:29:17Z,1,13:10,06:50,1,1,24.0,Anaheim Ducks,ANA
+62,17,24,Detroit Red Wings,Anaheim Ducks,2022020088364,2022020088,Penalty,364,PENALTY,Adam Erne Slashing against John Gibson,2022-10-23T21:29:17Z,1,13:10,06:50,1,1,17.0,Detroit Red Wings,DET
+63,17,24,Detroit Red Wings,Anaheim Ducks,2022020088368,2022020088,Penalty,368,PENALTY,John Gibson Roughing against Adam Erne served by Mason McTavish,2022-10-23T21:29:17Z,1,13:10,06:50,1,1,24.0,Anaheim Ducks,ANA
+64,17,24,Detroit Red Wings,Anaheim Ducks,2022020088420,2022020088,Stoppage,420,STOP,TV timeout,2022-10-23T21:29:17Z,1,13:10,06:50,1,1,,,
+65,17,24,Detroit Red Wings,Anaheim Ducks,2022020088171,2022020088,Faceoff,171,FACEOFF,Dylan Larkin faceoff won against Ryan Strome,2022-10-23T21:32:32Z,1,13:10,06:50,1,1,17.0,Detroit Red Wings,DET
+66,17,24,Detroit Red Wings,Anaheim Ducks,2022020088272,2022020088,Goal,272,GOAL,"David Perron (4) Slap Shot, assists: Filip Hronek (4), Dominik Kubalik (5)",2022-10-23T21:32:50Z,1,13:28,06:32,2,1,17.0,Detroit Red Wings,DET
+67,17,24,Detroit Red Wings,Anaheim Ducks,2022020088172,2022020088,Faceoff,172,FACEOFF,Oskar Sundqvist faceoff won against Isac Lundestrom,2022-10-23T21:33:44Z,1,13:28,06:32,2,1,17.0,Detroit Red Wings,DET
+68,17,24,Detroit Red Wings,Anaheim Ducks,2022020088136,2022020088,Penalty,136,PENALTY,Max Comtois Roughing against Oskar Sundqvist served by Troy Terry,2022-10-23T21:34:07Z,1,13:51,06:09,2,1,24.0,Anaheim Ducks,ANA
+69,17,24,Detroit Red Wings,Anaheim Ducks,2022020088139,2022020088,Penalty,139,PENALTY,Max Comtois Roughing against Oskar Sundqvist,2022-10-23T21:34:07Z,1,13:51,06:09,2,1,24.0,Anaheim Ducks,ANA
+70,17,24,Detroit Red Wings,Anaheim Ducks,2022020088379,2022020088,Penalty,379,PENALTY,Oskar Sundqvist Slashing against Max Comtois,2022-10-23T21:34:07Z,1,13:51,06:09,2,1,17.0,Detroit Red Wings,DET
+71,17,24,Detroit Red Wings,Anaheim Ducks,2022020088173,2022020088,Faceoff,173,FACEOFF,Derek Grant faceoff won against Dylan Larkin,2022-10-23T21:36:53Z,1,13:51,06:09,2,1,24.0,Anaheim Ducks,ANA
+72,17,24,Detroit Red Wings,Anaheim Ducks,2022020088273,2022020088,Shot,273,SHOT,Dominik Kubalik Snap Shot saved by John Gibson,2022-10-23T21:37:10Z,1,14:08,05:52,2,1,17.0,Detroit Red Wings,DET
+73,17,24,Detroit Red Wings,Anaheim Ducks,2022020088146,2022020088,Stoppage,146,STOP,Goalie Stopped,2022-10-23T21:37:11Z,1,14:10,05:50,2,1,,,
+74,17,24,Detroit Red Wings,Anaheim Ducks,2022020088174,2022020088,Faceoff,174,FACEOFF,Dylan Larkin faceoff won against Derek Grant,2022-10-23T21:37:42Z,1,14:10,05:50,2,1,17.0,Detroit Red Wings,DET
+75,17,24,Detroit Red Wings,Anaheim Ducks,2022020088274,2022020088,Blocked Shot,274,BLOCKED_SHOT,David Perron shot blocked shot by Dmitry Kulikov,2022-10-23T21:37:44Z,1,14:12,05:48,2,1,24.0,Anaheim Ducks,ANA
+76,17,24,Detroit Red Wings,Anaheim Ducks,2022020088142,2022020088,Hit,142,HIT,Derek Grant hit Dominik Kubalik,2022-10-23T21:37:53Z,1,14:21,05:39,2,1,24.0,Anaheim Ducks,ANA
+77,17,24,Detroit Red Wings,Anaheim Ducks,2022020088175,2022020088,Takeaway,175,TAKEAWAY,Takeaway by Derek Grant,2022-10-23T21:37:55Z,1,14:23,05:37,2,1,24.0,Anaheim Ducks,ANA
+78,17,24,Detroit Red Wings,Anaheim Ducks,2022020088275,2022020088,Shot,275,SHOT,Dylan Larkin Wrist Shot saved by John Gibson,2022-10-23T21:38:17Z,1,14:45,05:15,2,1,17.0,Detroit Red Wings,DET
+79,17,24,Detroit Red Wings,Anaheim Ducks,2022020088276,2022020088,Shot,276,SHOT,Dominik Kubalik Slap Shot saved by John Gibson,2022-10-23T21:38:29Z,1,14:57,05:03,2,1,17.0,Detroit Red Wings,DET
+80,17,24,Detroit Red Wings,Anaheim Ducks,2022020088143,2022020088,Stoppage,143,STOP,Puck in Netting,2022-10-23T21:38:31Z,1,14:58,05:02,2,1,,,
+81,17,24,Detroit Red Wings,Anaheim Ducks,2022020088144,2022020088,Stoppage,144,STOP,Ice problem,2022-10-23T21:38:31Z,1,14:58,05:02,2,1,,,
+82,17,24,Detroit Red Wings,Anaheim Ducks,2022020088176,2022020088,Faceoff,176,FACEOFF,Andrew Copp faceoff won against Isac Lundestrom,2022-10-23T21:39:51Z,1,14:58,05:02,2,1,17.0,Detroit Red Wings,DET
+83,17,24,Detroit Red Wings,Anaheim Ducks,2022020088277,2022020088,Shot,277,SHOT,Moritz Seider Wrist Shot saved by John Gibson,2022-10-23T21:39:58Z,1,15:05,04:55,2,1,17.0,Detroit Red Wings,DET
+84,17,24,Detroit Red Wings,Anaheim Ducks,2022020088145,2022020088,Stoppage,145,STOP,Goalie Stopped,2022-10-23T21:39:59Z,1,15:06,04:54,2,1,,,
+85,17,24,Detroit Red Wings,Anaheim Ducks,2022020088177,2022020088,Faceoff,177,FACEOFF,Andrew Copp faceoff won against Derek Grant,2022-10-23T21:40:19Z,1,15:06,04:54,2,1,17.0,Detroit Red Wings,DET
+86,17,24,Detroit Red Wings,Anaheim Ducks,2022020088278,2022020088,Shot,278,SHOT,Andrew Copp Snap Shot saved by John Gibson,2022-10-23T21:40:32Z,1,15:19,04:41,2,1,17.0,Detroit Red Wings,DET
+87,17,24,Detroit Red Wings,Anaheim Ducks,2022020088147,2022020088,Stoppage,147,STOP,Goalie Stopped,2022-10-23T21:40:33Z,1,15:21,04:39,2,1,,,
+88,17,24,Detroit Red Wings,Anaheim Ducks,2022020088178,2022020088,Faceoff,178,FACEOFF,Derek Grant faceoff won against Andrew Copp,2022-10-23T21:41:00Z,1,15:21,04:39,2,1,24.0,Anaheim Ducks,ANA
+89,17,24,Detroit Red Wings,Anaheim Ducks,2022020088179,2022020088,Giveaway,179,GIVEAWAY,Giveaway by Filip Zadina,2022-10-23T21:41:31Z,1,15:52,04:08,2,1,17.0,Detroit Red Wings,DET
+90,17,24,Detroit Red Wings,Anaheim Ducks,2022020088279,2022020088,Shot,279,SHOT,Pius Suter Wrist Shot saved by John Gibson,2022-10-23T21:42:10Z,1,16:31,03:29,2,1,17.0,Detroit Red Wings,DET
+91,17,24,Detroit Red Wings,Anaheim Ducks,2022020088280,2022020088,Shot,280,SHOT,Olli Maatta Wrist Shot saved by John Gibson,2022-10-23T21:42:15Z,1,16:36,03:24,2,1,17.0,Detroit Red Wings,DET
+92,17,24,Detroit Red Wings,Anaheim Ducks,2022020088148,2022020088,Stoppage,148,STOP,Goalie Stopped,2022-10-23T21:42:16Z,1,16:37,03:23,2,1,,,
+93,17,24,Detroit Red Wings,Anaheim Ducks,2022020088180,2022020088,Faceoff,180,FACEOFF,Joe Veleno faceoff won against Isac Lundestrom,2022-10-23T21:44:58Z,1,16:37,03:23,2,1,17.0,Detroit Red Wings,DET
+94,17,24,Detroit Red Wings,Anaheim Ducks,2022020088281,2022020088,Blocked Shot,281,BLOCKED_SHOT,Max Jones shot blocked shot by Robert Hagg,2022-10-23T21:45:45Z,1,17:24,02:36,2,1,17.0,Detroit Red Wings,DET
+95,17,24,Detroit Red Wings,Anaheim Ducks,2022020088149,2022020088,Stoppage,149,STOP,Puck in Netting,2022-10-23T21:45:46Z,1,17:26,02:34,2,1,,,
+96,17,24,Detroit Red Wings,Anaheim Ducks,2022020088181,2022020088,Faceoff,181,FACEOFF,Ryan Strome faceoff won against Andrew Copp,2022-10-23T21:46:19Z,1,17:26,02:34,2,1,24.0,Anaheim Ducks,ANA
+97,17,24,Detroit Red Wings,Anaheim Ducks,2022020088282,2022020088,Shot,282,SHOT,Jamie Drysdale Slap Shot saved by Ville Husso,2022-10-23T21:46:23Z,1,17:30,02:30,2,1,24.0,Anaheim Ducks,ANA
+98,17,24,Detroit Red Wings,Anaheim Ducks,2022020088283,2022020088,Shot,283,SHOT,Pavol Regenda Wrist Shot saved by Ville Husso,2022-10-23T21:46:25Z,1,17:32,02:28,2,1,24.0,Anaheim Ducks,ANA
+99,17,24,Detroit Red Wings,Anaheim Ducks,2022020088150,2022020088,Penalty,150,PENALTY,Filip Zadina Cross-checking against Pavol Regenda,2022-10-23T21:46:26Z,1,17:33,02:27,2,1,17.0,Detroit Red Wings,DET
+100,17,24,Detroit Red Wings,Anaheim Ducks,2022020088289,2022020088,Shot,289,SHOT,Pavol Regenda Wrist Shot saved by Ville Husso,2022-10-23T21:46:26Z,1,17:33,02:27,2,1,24.0,Anaheim Ducks,ANA
+101,17,24,Detroit Red Wings,Anaheim Ducks,2022020088403,2022020088,Stoppage,403,STOP,Goalie Stopped,2022-10-23T21:46:26Z,1,17:33,02:27,2,1,,,
+102,17,24,Detroit Red Wings,Anaheim Ducks,2022020088182,2022020088,Faceoff,182,FACEOFF,Dylan Larkin faceoff won against Adam Henrique,2022-10-23T21:47:21Z,1,17:33,02:27,2,1,17.0,Detroit Red Wings,DET
+103,17,24,Detroit Red Wings,Anaheim Ducks,2022020088514,2022020088,Penalty,514,PENALTY,Andrew Copp Hooking against Troy Terry,2022-10-23T21:47:40Z,1,17:52,02:08,2,1,17.0,Detroit Red Wings,DET
+104,17,24,Detroit Red Wings,Anaheim Ducks,2022020088183,2022020088,Faceoff,183,FACEOFF,Trevor Zegras faceoff won against Dylan Larkin,2022-10-23T21:48:24Z,1,17:52,02:08,2,1,24.0,Anaheim Ducks,ANA
+105,17,24,Detroit Red Wings,Anaheim Ducks,2022020088185,2022020088,Stoppage,185,STOP,Offside,2022-10-23T21:49:10Z,1,18:37,01:23,2,1,,,
+106,17,24,Detroit Red Wings,Anaheim Ducks,2022020088184,2022020088,Faceoff,184,FACEOFF,Michael Rasmussen faceoff won against Adam Henrique,2022-10-23T21:49:37Z,1,18:37,01:23,2,1,17.0,Detroit Red Wings,DET
+107,17,24,Detroit Red Wings,Anaheim Ducks,2022020088284,2022020088,Shot,284,SHOT,Cam Fowler Slap Shot saved by Ville Husso,2022-10-23T21:49:45Z,1,18:45,01:15,2,1,24.0,Anaheim Ducks,ANA
+108,17,24,Detroit Red Wings,Anaheim Ducks,2022020088285,2022020088,Shot,285,SHOT,Jakob Silfverberg Wrist Shot saved by Ville Husso,2022-10-23T21:49:48Z,1,18:48,01:12,2,1,24.0,Anaheim Ducks,ANA
+109,17,24,Detroit Red Wings,Anaheim Ducks,2022020088286,2022020088,Shot,286,SHOT,Kevin Shattenkirk Slap Shot saved by Ville Husso,2022-10-23T21:50:19Z,1,19:19,00:41,2,1,24.0,Anaheim Ducks,ANA
+110,17,24,Detroit Red Wings,Anaheim Ducks,2022020088287,2022020088,Blocked Shot,287,BLOCKED_SHOT,Cam Fowler shot blocked shot by Moritz Seider,2022-10-23T21:50:22Z,1,19:22,00:38,2,1,17.0,Detroit Red Wings,DET
+111,17,24,Detroit Red Wings,Anaheim Ducks,2022020088288,2022020088,Blocked Shot,288,BLOCKED_SHOT,Kevin Shattenkirk shot blocked shot by Moritz Seider,2022-10-23T21:50:50Z,1,19:50,00:10,2,1,17.0,Detroit Red Wings,DET
+112,17,24,Detroit Red Wings,Anaheim Ducks,2022020088405,2022020088,Period End,405,PERIOD_END,End of 1st Period,2022-10-23T21:51:00Z,1,20:00,00:00,2,1,,,
+113,17,24,Detroit Red Wings,Anaheim Ducks,2022020088408,2022020088,Period Official,408,PERIOD_OFFICIAL,Period Official,2022-10-23T22:03:30Z,1,20:00,00:00,2,1,,,
+114,17,24,Detroit Red Wings,Anaheim Ducks,2022020088409,2022020088,Period Ready,409,PERIOD_READY,Period Ready,2022-10-23T22:09:41Z,2,00:00,20:00,2,1,,,
+115,17,24,Detroit Red Wings,Anaheim Ducks,2022020088186,2022020088,Period Start,186,PERIOD_START,Period Start,2022-10-23T22:09:50Z,2,00:00,20:00,2,1,,,
+116,17,24,Detroit Red Wings,Anaheim Ducks,2022020088187,2022020088,Faceoff,187,FACEOFF,Dylan Larkin faceoff won against Ryan Strome,2022-10-23T22:09:50Z,2,00:00,20:00,2,1,17.0,Detroit Red Wings,DET
+117,17,24,Detroit Red Wings,Anaheim Ducks,2022020088188,2022020088,Takeaway,188,TAKEAWAY,Takeaway by Dominik Kubalik,2022-10-23T22:10:07Z,2,00:17,19:43,2,1,17.0,Detroit Red Wings,DET
+118,17,24,Detroit Red Wings,Anaheim Ducks,2022020088410,2022020088,Hit,410,HIT,Dylan Larkin hit Nathan Beaulieu,2022-10-23T22:10:17Z,2,00:27,19:33,2,1,17.0,Detroit Red Wings,DET
+119,17,24,Detroit Red Wings,Anaheim Ducks,2022020088189,2022020088,Giveaway,189,GIVEAWAY,Giveaway by Mason McTavish,2022-10-23T22:10:22Z,2,00:32,19:28,2,1,24.0,Anaheim Ducks,ANA
+120,17,24,Detroit Red Wings,Anaheim Ducks,2022020088411,2022020088,Stoppage,411,STOP,Icing,2022-10-23T22:10:33Z,2,00:43,19:17,2,1,,,
+121,17,24,Detroit Red Wings,Anaheim Ducks,2022020088190,2022020088,Faceoff,190,FACEOFF,Dylan Larkin faceoff won against Trevor Zegras,2022-10-23T22:11:01Z,2,00:43,19:17,2,1,17.0,Detroit Red Wings,DET
+122,17,24,Detroit Red Wings,Anaheim Ducks,2022020088290,2022020088,Shot,290,SHOT,Adam Henrique Wrist Shot saved by Ville Husso,2022-10-23T22:11:14Z,2,00:56,19:04,2,1,24.0,Anaheim Ducks,ANA
+123,17,24,Detroit Red Wings,Anaheim Ducks,2022020088412,2022020088,Stoppage,412,STOP,Offside,2022-10-23T22:11:31Z,2,01:13,18:47,2,1,,,
+124,17,24,Detroit Red Wings,Anaheim Ducks,2022020088191,2022020088,Faceoff,191,FACEOFF,Andrew Copp faceoff won against Derek Grant,2022-10-23T22:11:53Z,2,01:13,18:47,2,1,17.0,Detroit Red Wings,DET
+125,17,24,Detroit Red Wings,Anaheim Ducks,2022020088291,2022020088,Shot,291,SHOT,Dmitry Kulikov Slap Shot saved by Ville Husso,2022-10-23T22:12:28Z,2,01:48,18:12,2,1,24.0,Anaheim Ducks,ANA
+126,17,24,Detroit Red Wings,Anaheim Ducks,2022020088413,2022020088,Stoppage,413,STOP,Icing,2022-10-23T22:12:50Z,2,02:10,17:50,2,1,,,
+127,17,24,Detroit Red Wings,Anaheim Ducks,2022020088192,2022020088,Faceoff,192,FACEOFF,Isac Lundestrom faceoff won against Michael Rasmussen,2022-10-23T22:13:10Z,2,02:10,17:50,2,1,24.0,Anaheim Ducks,ANA
+128,17,24,Detroit Red Wings,Anaheim Ducks,2022020088292,2022020088,Blocked Shot,292,BLOCKED_SHOT,Nathan Beaulieu shot blocked shot by Oskar Sundqvist,2022-10-23T22:13:12Z,2,02:12,17:48,2,1,17.0,Detroit Red Wings,DET
+129,17,24,Detroit Red Wings,Anaheim Ducks,2022020088193,2022020088,Giveaway,193,GIVEAWAY,Giveaway by Oskar Sundqvist,2022-10-23T22:13:19Z,2,02:19,17:41,2,1,17.0,Detroit Red Wings,DET
+130,17,24,Detroit Red Wings,Anaheim Ducks,2022020088414,2022020088,Hit,414,HIT,Oskar Sundqvist hit Max Comtois,2022-10-23T22:13:31Z,2,02:31,17:29,2,1,17.0,Detroit Red Wings,DET
+131,17,24,Detroit Red Wings,Anaheim Ducks,2022020088293,2022020088,Blocked Shot,293,BLOCKED_SHOT,Nathan Beaulieu shot blocked shot by Michael Rasmussen,2022-10-23T22:13:52Z,2,02:52,17:08,2,1,17.0,Detroit Red Wings,DET
+132,17,24,Detroit Red Wings,Anaheim Ducks,2022020088478,2022020088,Blocked Shot,478,BLOCKED_SHOT,Nathan Beaulieu shot blocked shot by Elmer Soderblom,2022-10-23T22:13:54Z,2,02:54,17:06,2,1,17.0,Detroit Red Wings,DET
+133,17,24,Detroit Red Wings,Anaheim Ducks,2022020088415,2022020088,Hit,415,HIT,Robert Hagg hit Max Comtois,2022-10-23T22:14:04Z,2,03:04,16:56,2,1,17.0,Detroit Red Wings,DET
+134,17,24,Detroit Red Wings,Anaheim Ducks,2022020088416,2022020088,Hit,416,HIT,Kevin Shattenkirk hit Oskar Sundqvist,2022-10-23T22:14:21Z,2,03:21,16:39,2,1,24.0,Anaheim Ducks,ANA
+135,17,24,Detroit Red Wings,Anaheim Ducks,2022020088194,2022020088,Takeaway,194,TAKEAWAY,Takeaway by Frank Vatrano,2022-10-23T22:14:32Z,2,03:32,16:28,2,1,24.0,Anaheim Ducks,ANA
+136,17,24,Detroit Red Wings,Anaheim Ducks,2022020088417,2022020088,Hit,417,HIT,Mason McTavish hit Gustav Lindstrom,2022-10-23T22:14:37Z,2,03:37,16:23,2,1,24.0,Anaheim Ducks,ANA
+137,17,24,Detroit Red Wings,Anaheim Ducks,2022020088195,2022020088,Giveaway,195,GIVEAWAY,Giveaway by Ryan Strome,2022-10-23T22:14:42Z,2,03:42,16:18,2,1,24.0,Anaheim Ducks,ANA
+138,17,24,Detroit Red Wings,Anaheim Ducks,2022020088294,2022020088,Shot,294,SHOT,Cam Fowler Slap Shot saved by Ville Husso,2022-10-23T22:14:54Z,2,03:54,16:06,2,1,24.0,Anaheim Ducks,ANA
+139,17,24,Detroit Red Wings,Anaheim Ducks,2022020088295,2022020088,Goal,295,GOAL,"Joe Veleno (1) Deflected, assists: Adam Erne (1), Pius Suter (2)",2022-10-23T22:15:07Z,2,04:07,15:53,3,1,17.0,Detroit Red Wings,DET
+140,17,24,Detroit Red Wings,Anaheim Ducks,2022020088196,2022020088,Faceoff,196,FACEOFF,Dylan Larkin faceoff won against Trevor Zegras,2022-10-23T22:15:49Z,2,04:07,15:53,3,1,17.0,Detroit Red Wings,DET
+141,17,24,Detroit Red Wings,Anaheim Ducks,2022020088296,2022020088,Shot,296,SHOT,Dmitry Kulikov Snap Shot saved by Ville Husso,2022-10-23T22:16:17Z,2,04:35,15:25,3,1,24.0,Anaheim Ducks,ANA
+142,17,24,Detroit Red Wings,Anaheim Ducks,2022020088477,2022020088,Missed Shot,477,MISSED_SHOT,Adam Erne Wide of Net John Gibson,2022-10-23T22:16:54Z,2,05:12,14:48,3,1,17.0,Detroit Red Wings,DET
+143,17,24,Detroit Red Wings,Anaheim Ducks,2022020088418,2022020088,Stoppage,418,STOP,Icing,2022-10-23T22:17:22Z,2,05:40,14:20,3,1,,,
+144,17,24,Detroit Red Wings,Anaheim Ducks,2022020088197,2022020088,Faceoff,197,FACEOFF,Andrew Copp faceoff won against Derek Grant,2022-10-23T22:17:58Z,2,05:40,14:20,3,1,17.0,Detroit Red Wings,DET
+145,17,24,Detroit Red Wings,Anaheim Ducks,2022020088199,2022020088,Takeaway,199,TAKEAWAY,Takeaway by David Perron,2022-10-23T22:18:22Z,2,06:04,13:56,3,1,17.0,Detroit Red Wings,DET
+146,17,24,Detroit Red Wings,Anaheim Ducks,2022020088198,2022020088,Takeaway,198,TAKEAWAY,Takeaway by Max Comtois,2022-10-23T22:18:48Z,2,06:30,13:30,3,1,24.0,Anaheim Ducks,ANA
+147,17,24,Detroit Red Wings,Anaheim Ducks,2022020088419,2022020088,Stoppage,419,STOP,Offside,2022-10-23T22:18:51Z,2,06:34,13:26,3,1,,,
+148,17,24,Detroit Red Wings,Anaheim Ducks,2022020088200,2022020088,Faceoff,200,FACEOFF,Ryan Strome faceoff won against Michael Rasmussen,2022-10-23T22:21:13Z,2,06:34,13:26,3,1,24.0,Anaheim Ducks,ANA
+149,17,24,Detroit Red Wings,Anaheim Ducks,2022020088651,2022020088,Takeaway,651,TAKEAWAY,Takeaway by Mason McTavish,2022-10-23T22:21:19Z,2,06:40,13:20,3,1,24.0,Anaheim Ducks,ANA
+150,17,24,Detroit Red Wings,Anaheim Ducks,2022020088421,2022020088,Hit,421,HIT,Frank Vatrano hit Olli Maatta,2022-10-23T22:21:21Z,2,06:42,13:18,3,1,24.0,Anaheim Ducks,ANA
+151,17,24,Detroit Red Wings,Anaheim Ducks,2022020088652,2022020088,Giveaway,652,GIVEAWAY,Giveaway by Elmer Soderblom,2022-10-23T22:22:10Z,2,07:31,12:29,3,1,17.0,Detroit Red Wings,DET
+152,17,24,Detroit Red Wings,Anaheim Ducks,2022020088422,2022020088,Hit,422,HIT,Michael Rasmussen hit Frank Vatrano,2022-10-23T22:22:21Z,2,07:42,12:18,3,1,17.0,Detroit Red Wings,DET
+153,17,24,Detroit Red Wings,Anaheim Ducks,2022020088423,2022020088,Stoppage,423,STOP,Hand Pass,2022-10-23T22:22:22Z,2,07:43,12:17,3,1,,,
+154,17,24,Detroit Red Wings,Anaheim Ducks,2022020088583,2022020088,Penalty,583,PENALTY,Moritz Seider Roughing against Frank Vatrano,2022-10-23T22:22:22Z,2,07:43,12:17,3,1,17.0,Detroit Red Wings,DET
+155,17,24,Detroit Red Wings,Anaheim Ducks,2022020088653,2022020088,Faceoff,653,FACEOFF,Dylan Larkin faceoff won against Adam Henrique,2022-10-23T22:23:13Z,2,07:43,12:17,3,1,17.0,Detroit Red Wings,DET
+156,17,24,Detroit Red Wings,Anaheim Ducks,2022020088297,2022020088,Missed Shot,297,MISSED_SHOT,Cam Fowler Wide of Net Ville Husso,2022-10-23T22:23:57Z,2,07:55,12:05,3,1,24.0,Anaheim Ducks,ANA
+157,17,24,Detroit Red Wings,Anaheim Ducks,2022020088298,2022020088,Shot,298,SHOT,Troy Terry Tip-In saved by Ville Husso,2022-10-23T22:24:52Z,2,08:50,11:10,3,1,24.0,Anaheim Ducks,ANA
+158,17,24,Detroit Red Wings,Anaheim Ducks,2022020088300,2022020088,Blocked Shot,300,BLOCKED_SHOT,Adam Henrique shot blocked shot by Ben Chiarot,2022-10-23T22:25:21Z,2,09:19,10:41,3,1,17.0,Detroit Red Wings,DET
+159,17,24,Detroit Red Wings,Anaheim Ducks,2022020088451,2022020088,Shot,451,SHOT,Pius Suter Wrist Shot saved by John Gibson,2022-10-23T22:25:26Z,2,09:24,10:36,3,1,17.0,Detroit Red Wings,DET
+160,17,24,Detroit Red Wings,Anaheim Ducks,2022020088425,2022020088,Stoppage,425,STOP,Puck in Benches,2022-10-23T22:25:45Z,2,09:43,10:17,3,1,,,
+161,17,24,Detroit Red Wings,Anaheim Ducks,2022020088654,2022020088,Faceoff,654,FACEOFF,Dylan Larkin faceoff won against Derek Grant,2022-10-23T22:26:23Z,2,09:43,10:17,3,1,17.0,Detroit Red Wings,DET
+162,17,24,Detroit Red Wings,Anaheim Ducks,2022020088452,2022020088,Blocked Shot,452,BLOCKED_SHOT,Dylan Larkin shot blocked shot by Dmitry Kulikov,2022-10-23T22:27:02Z,2,10:22,09:38,3,1,24.0,Anaheim Ducks,ANA
+163,17,24,Detroit Red Wings,Anaheim Ducks,2022020088426,2022020088,Hit,426,HIT,Max Comtois hit Filip Hronek,2022-10-23T22:27:31Z,2,10:51,09:09,3,1,24.0,Anaheim Ducks,ANA
+164,17,24,Detroit Red Wings,Anaheim Ducks,2022020088453,2022020088,Shot,453,SHOT,Nathan Beaulieu Wrist Shot saved by Ville Husso,2022-10-23T22:27:45Z,2,11:05,08:55,3,1,24.0,Anaheim Ducks,ANA
+165,17,24,Detroit Red Wings,Anaheim Ducks,2022020088427,2022020088,Stoppage,427,STOP,Puck in Netting,2022-10-23T22:27:46Z,2,11:07,08:53,3,1,,,
+166,17,24,Detroit Red Wings,Anaheim Ducks,2022020088655,2022020088,Faceoff,655,FACEOFF,Andrew Copp faceoff won against Mason McTavish,2022-10-23T22:30:15Z,2,11:07,08:53,3,1,17.0,Detroit Red Wings,DET
+167,17,24,Detroit Red Wings,Anaheim Ducks,2022020088454,2022020088,Shot,454,SHOT,Filip Zadina Snap Shot saved by John Gibson,2022-10-23T22:30:34Z,2,11:26,08:34,3,1,17.0,Detroit Red Wings,DET
+168,17,24,Detroit Red Wings,Anaheim Ducks,2022020088656,2022020088,Takeaway,656,TAKEAWAY,Takeaway by David Perron,2022-10-23T22:30:37Z,2,11:29,08:31,3,1,17.0,Detroit Red Wings,DET
+169,17,24,Detroit Red Wings,Anaheim Ducks,2022020088455,2022020088,Blocked Shot,455,BLOCKED_SHOT,Frank Vatrano shot blocked shot by Moritz Seider,2022-10-23T22:31:15Z,2,12:07,07:53,3,1,17.0,Detroit Red Wings,DET
+170,17,24,Detroit Red Wings,Anaheim Ducks,2022020088428,2022020088,Hit,428,HIT,David Perron hit Ryan Strome,2022-10-23T22:31:20Z,2,12:12,07:48,3,1,17.0,Detroit Red Wings,DET
+171,17,24,Detroit Red Wings,Anaheim Ducks,2022020088456,2022020088,Missed Shot,456,MISSED_SHOT,John Klingberg Wide of Net Ville Husso,2022-10-23T22:31:24Z,2,12:16,07:44,3,1,24.0,Anaheim Ducks,ANA
+172,17,24,Detroit Red Wings,Anaheim Ducks,2022020088457,2022020088,Shot,457,SHOT,Dmitry Kulikov Wrist Shot saved by Ville Husso,2022-10-23T22:31:36Z,2,12:28,07:32,3,1,24.0,Anaheim Ducks,ANA
+173,17,24,Detroit Red Wings,Anaheim Ducks,2022020088467,2022020088,Blocked Shot,467,BLOCKED_SHOT,Dmitry Kulikov shot blocked shot by Moritz Seider,2022-10-23T22:31:37Z,2,12:29,07:31,3,1,17.0,Detroit Red Wings,DET
+174,17,24,Detroit Red Wings,Anaheim Ducks,2022020088429,2022020088,Hit,429,HIT,Moritz Seider hit Frank Vatrano,2022-10-23T22:31:55Z,2,12:47,07:13,3,1,17.0,Detroit Red Wings,DET
+175,17,24,Detroit Red Wings,Anaheim Ducks,2022020088458,2022020088,Missed Shot,458,MISSED_SHOT,Nathan Beaulieu Wide of Net Ville Husso,2022-10-23T22:31:59Z,2,12:51,07:09,3,1,24.0,Anaheim Ducks,ANA
+176,17,24,Detroit Red Wings,Anaheim Ducks,2022020088460,2022020088,Shot,460,SHOT,Filip Zadina Wrist Shot saved by John Gibson,2022-10-23T22:32:09Z,2,13:01,06:59,3,1,17.0,Detroit Red Wings,DET
+177,17,24,Detroit Red Wings,Anaheim Ducks,2022020088461,2022020088,Missed Shot,461,MISSED_SHOT,Isac Lundestrom Over Net Ville Husso,2022-10-23T22:32:29Z,2,13:21,06:39,3,1,24.0,Anaheim Ducks,ANA
+178,17,24,Detroit Red Wings,Anaheim Ducks,2022020088462,2022020088,Missed Shot,462,MISSED_SHOT,Kevin Shattenkirk Wide of Net Ville Husso,2022-10-23T22:32:35Z,2,13:27,06:33,3,1,24.0,Anaheim Ducks,ANA
+179,17,24,Detroit Red Wings,Anaheim Ducks,2022020088430,2022020088,Stoppage,430,STOP,Puck in Netting,2022-10-23T22:32:47Z,2,13:39,06:21,3,1,,,
+180,17,24,Detroit Red Wings,Anaheim Ducks,2022020088657,2022020088,Faceoff,657,FACEOFF,Derek Grant faceoff won against Dylan Larkin,2022-10-23T22:33:27Z,2,13:39,06:21,3,1,24.0,Anaheim Ducks,ANA
+181,17,24,Detroit Red Wings,Anaheim Ducks,2022020088479,2022020088,Missed Shot,479,MISSED_SHOT,Pavol Regenda Wide of Net Ville Husso,2022-10-23T22:33:30Z,2,13:42,06:18,3,1,24.0,Anaheim Ducks,ANA
+182,17,24,Detroit Red Wings,Anaheim Ducks,2022020088463,2022020088,Shot,463,SHOT,Max Jones Wrap-around saved by Ville Husso,2022-10-23T22:33:37Z,2,13:49,06:11,3,1,24.0,Anaheim Ducks,ANA
+183,17,24,Detroit Red Wings,Anaheim Ducks,2022020088431,2022020088,Stoppage,431,STOP,Goalie Stopped,2022-10-23T22:33:38Z,2,13:50,06:10,3,1,,,
+184,17,24,Detroit Red Wings,Anaheim Ducks,2022020088658,2022020088,Faceoff,658,FACEOFF,Ryan Strome faceoff won against Dylan Larkin,2022-10-23T22:34:15Z,2,13:50,06:10,3,1,24.0,Anaheim Ducks,ANA
+185,17,24,Detroit Red Wings,Anaheim Ducks,2022020088432,2022020088,Hit,432,HIT,Ben Chiarot hit Ryan Strome,2022-10-23T22:34:55Z,2,14:30,05:30,3,1,17.0,Detroit Red Wings,DET
+186,17,24,Detroit Red Wings,Anaheim Ducks,2022020088464,2022020088,Missed Shot,464,MISSED_SHOT,Frank Vatrano Wide of Net Ville Husso,2022-10-23T22:35:01Z,2,14:36,05:24,3,1,24.0,Anaheim Ducks,ANA
+187,17,24,Detroit Red Wings,Anaheim Ducks,2022020088433,2022020088,Hit,433,HIT,Ben Chiarot hit Ryan Strome,2022-10-23T22:35:04Z,2,14:39,05:21,3,1,17.0,Detroit Red Wings,DET
+188,17,24,Detroit Red Wings,Anaheim Ducks,2022020088659,2022020088,Giveaway,659,GIVEAWAY,Giveaway by Cam Fowler,2022-10-23T22:35:29Z,2,15:04,04:56,3,1,24.0,Anaheim Ducks,ANA
+189,17,24,Detroit Red Wings,Anaheim Ducks,2022020088465,2022020088,Shot,465,SHOT,Joe Veleno Wrist Shot saved by John Gibson,2022-10-23T22:35:32Z,2,15:07,04:53,3,1,17.0,Detroit Red Wings,DET
+190,17,24,Detroit Red Wings,Anaheim Ducks,2022020088434,2022020088,Stoppage,434,STOP,Goalie Stopped,2022-10-23T22:35:39Z,2,15:14,04:46,3,1,,,
+191,17,24,Detroit Red Wings,Anaheim Ducks,2022020088466,2022020088,Shot,466,SHOT,Gustav Lindstrom Snap Shot saved by John Gibson,2022-10-23T22:35:39Z,2,15:14,04:46,3,1,17.0,Detroit Red Wings,DET
+192,17,24,Detroit Red Wings,Anaheim Ducks,2022020088660,2022020088,Faceoff,660,FACEOFF,Adam Henrique faceoff won against Pius Suter,2022-10-23T22:38:15Z,2,15:14,04:46,3,1,24.0,Anaheim Ducks,ANA
+193,17,24,Detroit Red Wings,Anaheim Ducks,2022020088435,2022020088,Hit,435,HIT,Joe Veleno hit John Klingberg,2022-10-23T22:38:21Z,2,15:20,04:40,3,1,17.0,Detroit Red Wings,DET
+194,17,24,Detroit Red Wings,Anaheim Ducks,2022020088436,2022020088,Hit,436,HIT,Joe Veleno hit John Klingberg,2022-10-23T22:38:29Z,2,15:28,04:32,3,1,17.0,Detroit Red Wings,DET
+195,17,24,Detroit Red Wings,Anaheim Ducks,2022020088437,2022020088,Hit,437,HIT,Adam Erne hit Adam Henrique,2022-10-23T22:38:36Z,2,15:35,04:25,3,1,17.0,Detroit Red Wings,DET
+196,17,24,Detroit Red Wings,Anaheim Ducks,2022020088438,2022020088,Hit,438,HIT,Joe Veleno hit John Klingberg,2022-10-23T22:38:47Z,2,15:46,04:14,3,1,17.0,Detroit Red Wings,DET
+197,17,24,Detroit Red Wings,Anaheim Ducks,2022020088439,2022020088,Hit,439,HIT,Adam Erne hit Dmitry Kulikov,2022-10-23T22:38:51Z,2,15:50,04:10,3,1,17.0,Detroit Red Wings,DET
+198,17,24,Detroit Red Wings,Anaheim Ducks,2022020088468,2022020088,Blocked Shot,468,BLOCKED_SHOT,Kevin Shattenkirk shot blocked shot by Michael Rasmussen,2022-10-23T22:39:32Z,2,16:31,03:29,3,1,17.0,Detroit Red Wings,DET
+199,17,24,Detroit Red Wings,Anaheim Ducks,2022020088440,2022020088,Hit,440,HIT,Max Comtois hit Ben Chiarot,2022-10-23T22:39:51Z,2,16:50,03:10,3,1,24.0,Anaheim Ducks,ANA
+200,17,24,Detroit Red Wings,Anaheim Ducks,2022020088661,2022020088,Takeaway,661,TAKEAWAY,Takeaway by Jakob Silfverberg,2022-10-23T22:39:59Z,2,16:58,03:02,3,1,24.0,Anaheim Ducks,ANA
+201,17,24,Detroit Red Wings,Anaheim Ducks,2022020088469,2022020088,Shot,469,SHOT,Max Comtois Wrist Shot saved by Ville Husso,2022-10-23T22:40:10Z,2,17:09,02:51,3,1,24.0,Anaheim Ducks,ANA
+202,17,24,Detroit Red Wings,Anaheim Ducks,2022020088441,2022020088,Stoppage,441,STOP,Goalie Stopped,2022-10-23T22:40:12Z,2,17:11,02:49,3,1,,,
+203,17,24,Detroit Red Wings,Anaheim Ducks,2022020088662,2022020088,Faceoff,662,FACEOFF,Derek Grant faceoff won against Andrew Copp,2022-10-23T22:40:58Z,2,17:11,02:49,3,1,24.0,Anaheim Ducks,ANA
+204,17,24,Detroit Red Wings,Anaheim Ducks,2022020088470,2022020088,Missed Shot,470,MISSED_SHOT,Jamie Drysdale Wide of Net Ville Husso,2022-10-23T22:41:01Z,2,17:14,02:46,3,1,24.0,Anaheim Ducks,ANA
+205,17,24,Detroit Red Wings,Anaheim Ducks,2022020088472,2022020088,Missed Shot,472,MISSED_SHOT,Max Jones Wide of Net Ville Husso,2022-10-23T22:41:12Z,2,17:25,02:35,3,1,24.0,Anaheim Ducks,ANA
+206,17,24,Detroit Red Wings,Anaheim Ducks,2022020088663,2022020088,Giveaway,663,GIVEAWAY,Giveaway by Derek Grant,2022-10-23T22:41:41Z,2,17:54,02:06,3,1,24.0,Anaheim Ducks,ANA
+207,17,24,Detroit Red Wings,Anaheim Ducks,2022020088442,2022020088,Hit,442,HIT,Filip Zadina hit Derek Grant,2022-10-23T22:41:42Z,2,17:55,02:05,3,1,17.0,Detroit Red Wings,DET
+208,17,24,Detroit Red Wings,Anaheim Ducks,2022020088473,2022020088,Shot,473,SHOT,Lucas Raymond Wrist Shot saved by John Gibson,2022-10-23T22:42:10Z,2,18:23,01:37,3,1,17.0,Detroit Red Wings,DET
+209,17,24,Detroit Red Wings,Anaheim Ducks,2022020088474,2022020088,Shot,474,SHOT,Dominik Kubalik Tip-In saved by John Gibson,2022-10-23T22:42:22Z,2,18:35,01:25,3,1,17.0,Detroit Red Wings,DET
+210,17,24,Detroit Red Wings,Anaheim Ducks,2022020088443,2022020088,Stoppage,443,STOP,Goalie Stopped,2022-10-23T22:42:25Z,2,18:38,01:22,3,1,,,
+211,17,24,Detroit Red Wings,Anaheim Ducks,2022020088664,2022020088,Faceoff,664,FACEOFF,Mason McTavish faceoff won against Dylan Larkin,2022-10-23T22:43:00Z,2,18:38,01:22,3,1,24.0,Anaheim Ducks,ANA
+212,17,24,Detroit Red Wings,Anaheim Ducks,2022020088444,2022020088,Hit,444,HIT,Mason McTavish hit Moritz Seider,2022-10-23T22:43:22Z,2,19:00,01:00,3,1,24.0,Anaheim Ducks,ANA
+213,17,24,Detroit Red Wings,Anaheim Ducks,2022020088475,2022020088,Shot,475,SHOT,Dylan Larkin Snap Shot saved by John Gibson,2022-10-23T22:43:32Z,2,19:10,00:50,3,1,17.0,Detroit Red Wings,DET
+214,17,24,Detroit Red Wings,Anaheim Ducks,2022020088445,2022020088,Stoppage,445,STOP,Offside,2022-10-23T22:44:04Z,2,19:41,00:19,3,1,,,
+215,17,24,Detroit Red Wings,Anaheim Ducks,2022020088665,2022020088,Faceoff,665,FACEOFF,Trevor Zegras faceoff won against Joe Veleno,2022-10-23T22:44:35Z,2,19:41,00:19,3,1,24.0,Anaheim Ducks,ANA
+216,17,24,Detroit Red Wings,Anaheim Ducks,2022020088476,2022020088,Blocked Shot,476,BLOCKED_SHOT,Filip Hronek shot blocked shot by Ryan Strome,2022-10-23T22:44:52Z,2,19:58,00:02,3,1,24.0,Anaheim Ducks,ANA
+217,17,24,Detroit Red Wings,Anaheim Ducks,2022020088446,2022020088,Period End,446,PERIOD_END,End of 2nd Period,2022-10-23T22:44:53Z,2,20:00,00:00,3,1,,,
+218,17,24,Detroit Red Wings,Anaheim Ducks,2022020088449,2022020088,Period Official,449,PERIOD_OFFICIAL,Period Official,2022-10-23T22:45:32Z,2,20:00,00:00,3,1,,,
+219,17,24,Detroit Red Wings,Anaheim Ducks,2022020088450,2022020088,Period Ready,450,PERIOD_READY,Period Ready,2022-10-23T23:04:01Z,3,00:00,20:00,3,1,,,
+220,17,24,Detroit Red Wings,Anaheim Ducks,2022020088666,2022020088,Period Start,666,PERIOD_START,Period Start,2022-10-23T23:04:03Z,3,00:00,20:00,3,1,,,
+221,17,24,Detroit Red Wings,Anaheim Ducks,2022020088667,2022020088,Faceoff,667,FACEOFF,Adam Henrique faceoff won against Michael Rasmussen,2022-10-23T23:04:03Z,3,00:00,20:00,3,1,24.0,Anaheim Ducks,ANA
+222,17,24,Detroit Red Wings,Anaheim Ducks,2022020088480,2022020088,Shot,480,SHOT,Kevin Shattenkirk Wrist Shot saved by Ville Husso,2022-10-23T23:04:06Z,3,00:03,19:57,3,1,24.0,Anaheim Ducks,ANA
+223,17,24,Detroit Red Wings,Anaheim Ducks,2022020088801,2022020088,Blocked Shot,801,BLOCKED_SHOT,Kevin Shattenkirk shot blocked shot by Olli Maatta,2022-10-23T23:04:15Z,3,00:12,19:48,3,1,17.0,Detroit Red Wings,DET
+224,17,24,Detroit Red Wings,Anaheim Ducks,2022020088481,2022020088,Blocked Shot,481,BLOCKED_SHOT,Nathan Beaulieu shot blocked shot by Elmer Soderblom,2022-10-23T23:04:34Z,3,00:31,19:29,3,1,17.0,Detroit Red Wings,DET
+225,17,24,Detroit Red Wings,Anaheim Ducks,2022020088701,2022020088,Stoppage,701,STOP,Puck in Netting,2022-10-23T23:04:36Z,3,00:33,19:27,3,1,,,
+226,17,24,Detroit Red Wings,Anaheim Ducks,2022020088668,2022020088,Faceoff,668,FACEOFF,Dylan Larkin faceoff won against Ryan Strome,2022-10-23T23:05:01Z,3,00:33,19:27,3,1,17.0,Detroit Red Wings,DET
+227,17,24,Detroit Red Wings,Anaheim Ducks,2022020088702,2022020088,Hit,702,HIT,Dominik Kubalik hit Cam Fowler,2022-10-23T23:05:39Z,3,01:11,18:49,3,1,17.0,Detroit Red Wings,DET
+228,17,24,Detroit Red Wings,Anaheim Ducks,2022020088482,2022020088,Shot,482,SHOT,Filip Zadina Wrap-around saved by John Gibson,2022-10-23T23:06:03Z,3,01:35,18:25,3,1,17.0,Detroit Red Wings,DET
+229,17,24,Detroit Red Wings,Anaheim Ducks,2022020088483,2022020088,Shot,483,SHOT,Andrew Copp Wrist Shot saved by John Gibson,2022-10-23T23:06:04Z,3,01:36,18:24,3,1,17.0,Detroit Red Wings,DET
+230,17,24,Detroit Red Wings,Anaheim Ducks,2022020088484,2022020088,Shot,484,SHOT,Andrew Copp Wrist Shot saved by John Gibson,2022-10-23T23:06:06Z,3,01:38,18:22,3,1,17.0,Detroit Red Wings,DET
+231,17,24,Detroit Red Wings,Anaheim Ducks,2022020088485,2022020088,Missed Shot,485,MISSED_SHOT,Adam Erne Wide of Net John Gibson,2022-10-23T23:06:41Z,3,02:13,17:47,3,1,17.0,Detroit Red Wings,DET
+232,17,24,Detroit Red Wings,Anaheim Ducks,2022020088816,2022020088,Shot,816,SHOT,Olli Maatta Slap Shot saved by John Gibson,2022-10-23T23:06:48Z,3,02:20,17:40,3,1,17.0,Detroit Red Wings,DET
+233,17,24,Detroit Red Wings,Anaheim Ducks,2022020088703,2022020088,Stoppage,703,STOP,Goalie Stopped,2022-10-23T23:06:49Z,3,02:21,17:39,3,1,,,
+234,17,24,Detroit Red Wings,Anaheim Ducks,2022020088669,2022020088,Faceoff,669,FACEOFF,Derek Grant faceoff won against Joe Veleno,2022-10-23T23:07:23Z,3,02:21,17:39,3,1,24.0,Anaheim Ducks,ANA
+235,17,24,Detroit Red Wings,Anaheim Ducks,2022020088487,2022020088,Missed Shot,487,MISSED_SHOT,Mason McTavish Wide of Net Ville Husso,2022-10-23T23:07:53Z,3,02:51,17:09,3,1,24.0,Anaheim Ducks,ANA
+236,17,24,Detroit Red Wings,Anaheim Ducks,2022020088704,2022020088,Penalty,704,PENALTY,Too many men/ice served by Mason McTavish,2022-10-23T23:08:21Z,3,03:19,16:41,3,1,24.0,Anaheim Ducks,ANA
+237,17,24,Detroit Red Wings,Anaheim Ducks,2022020088670,2022020088,Faceoff,670,FACEOFF,Ryan Strome faceoff won against Dylan Larkin,2022-10-23T23:09:21Z,3,03:19,16:41,3,1,24.0,Anaheim Ducks,ANA
+238,17,24,Detroit Red Wings,Anaheim Ducks,2022020088488,2022020088,Shot,488,SHOT,Filip Hronek Slap Shot saved by John Gibson,2022-10-23T23:09:38Z,3,03:36,16:24,3,1,17.0,Detroit Red Wings,DET
+239,17,24,Detroit Red Wings,Anaheim Ducks,2022020088707,2022020088,Stoppage,707,STOP,Goalie Stopped,2022-10-23T23:09:40Z,3,03:37,16:23,3,1,,,
+240,17,24,Detroit Red Wings,Anaheim Ducks,2022020088671,2022020088,Faceoff,671,FACEOFF,Dylan Larkin faceoff won against Ryan Strome,2022-10-23T23:10:09Z,3,03:37,16:23,3,1,17.0,Detroit Red Wings,DET
+241,17,24,Detroit Red Wings,Anaheim Ducks,2022020088489,2022020088,Goal,489,GOAL,"Dominik Kubalik (3) Slap Shot, assists: Oskar Sundqvist (4), Dylan Larkin (4)",2022-10-23T23:10:16Z,3,03:44,16:16,4,1,17.0,Detroit Red Wings,DET
+242,17,24,Detroit Red Wings,Anaheim Ducks,2022020088672,2022020088,Faceoff,672,FACEOFF,Andrew Copp faceoff won against Adam Henrique,2022-10-23T23:10:57Z,3,03:44,16:16,4,1,17.0,Detroit Red Wings,DET
+243,17,24,Detroit Red Wings,Anaheim Ducks,2022020088708,2022020088,Penalty,708,PENALTY,Max Jones Elbowing against Lucas Raymond,2022-10-23T23:11:28Z,3,04:15,15:45,4,1,24.0,Anaheim Ducks,ANA
+244,17,24,Detroit Red Wings,Anaheim Ducks,2022020088673,2022020088,Faceoff,673,FACEOFF,Dylan Larkin faceoff won against Derek Grant,2022-10-23T23:12:12Z,3,04:15,15:45,4,1,17.0,Detroit Red Wings,DET
+245,17,24,Detroit Red Wings,Anaheim Ducks,2022020088674,2022020088,Giveaway,674,GIVEAWAY,Giveaway by Oskar Sundqvist,2022-10-23T23:12:36Z,3,04:39,15:21,4,1,17.0,Detroit Red Wings,DET
+246,17,24,Detroit Red Wings,Anaheim Ducks,2022020088490,2022020088,Shot,490,SHOT,Dylan Larkin Wrist Shot saved by John Gibson,2022-10-23T23:13:00Z,3,05:03,14:57,4,1,17.0,Detroit Red Wings,DET
+247,17,24,Detroit Red Wings,Anaheim Ducks,2022020088491,2022020088,Shot,491,SHOT,Elmer Soderblom Deflected saved by John Gibson,2022-10-23T23:13:53Z,3,05:56,14:04,4,1,17.0,Detroit Red Wings,DET
+248,17,24,Detroit Red Wings,Anaheim Ducks,2022020088711,2022020088,Stoppage,711,STOP,Goalie Stopped,2022-10-23T23:13:54Z,3,05:57,14:03,4,1,,,
+249,17,24,Detroit Red Wings,Anaheim Ducks,2022020088675,2022020088,Faceoff,675,FACEOFF,Derek Grant faceoff won against Lucas Raymond,2022-10-23T23:14:56Z,3,05:57,14:03,4,1,24.0,Anaheim Ducks,ANA
+250,17,24,Detroit Red Wings,Anaheim Ducks,2022020088492,2022020088,Shot,492,SHOT,Andrew Copp Snap Shot saved by John Gibson,2022-10-23T23:15:18Z,3,06:19,13:41,4,1,17.0,Detroit Red Wings,DET
+251,17,24,Detroit Red Wings,Anaheim Ducks,2022020088712,2022020088,Stoppage,712,STOP,Goalie Stopped,2022-10-23T23:15:19Z,3,06:20,13:40,4,1,,,
+252,17,24,Detroit Red Wings,Anaheim Ducks,2022020088676,2022020088,Faceoff,676,FACEOFF,Joe Veleno faceoff won against Ryan Strome,2022-10-23T23:17:41Z,3,06:20,13:40,4,1,17.0,Detroit Red Wings,DET
+253,17,24,Detroit Red Wings,Anaheim Ducks,2022020088713,2022020088,Stoppage,713,STOP,Puck in Benches,2022-10-23T23:17:59Z,3,06:37,13:23,4,1,,,
+254,17,24,Detroit Red Wings,Anaheim Ducks,2022020088677,2022020088,Faceoff,677,FACEOFF,Joe Veleno faceoff won against Trevor Zegras,2022-10-23T23:18:18Z,3,06:37,13:23,4,1,17.0,Detroit Red Wings,DET
+255,17,24,Detroit Red Wings,Anaheim Ducks,2022020088714,2022020088,Hit,714,HIT,Joe Veleno hit John Klingberg,2022-10-23T23:18:38Z,3,06:57,13:03,4,1,17.0,Detroit Red Wings,DET
+256,17,24,Detroit Red Wings,Anaheim Ducks,2022020088715,2022020088,Hit,715,HIT,Adam Erne hit Mason McTavish,2022-10-23T23:18:48Z,3,07:07,12:53,4,1,17.0,Detroit Red Wings,DET
+257,17,24,Detroit Red Wings,Anaheim Ducks,2022020088493,2022020088,Blocked Shot,493,BLOCKED_SHOT,Mason McTavish shot blocked shot by Joe Veleno,2022-10-23T23:18:51Z,3,07:10,12:50,4,1,17.0,Detroit Red Wings,DET
+258,17,24,Detroit Red Wings,Anaheim Ducks,2022020088823,2022020088,Missed Shot,823,MISSED_SHOT,Mason McTavish Wide of Net Ville Husso,2022-10-23T23:18:58Z,3,07:17,12:43,4,1,24.0,Anaheim Ducks,ANA
+259,17,24,Detroit Red Wings,Anaheim Ducks,2022020088716,2022020088,Hit,716,HIT,Dmitry Kulikov hit Pius Suter,2022-10-23T23:18:59Z,3,07:18,12:42,4,1,24.0,Anaheim Ducks,ANA
+260,17,24,Detroit Red Wings,Anaheim Ducks,2022020088494,2022020088,Shot,494,SHOT,Trevor Zegras Snap Shot saved by Ville Husso,2022-10-23T23:19:14Z,3,07:33,12:27,4,1,24.0,Anaheim Ducks,ANA
+261,17,24,Detroit Red Wings,Anaheim Ducks,2022020088717,2022020088,Hit,717,HIT,Michael Rasmussen hit Trevor Zegras,2022-10-23T23:19:30Z,3,07:49,12:11,4,1,17.0,Detroit Red Wings,DET
+262,17,24,Detroit Red Wings,Anaheim Ducks,2022020088718,2022020088,Hit,718,HIT,Nathan Beaulieu hit Elmer Soderblom,2022-10-23T23:19:41Z,3,08:00,12:00,4,1,24.0,Anaheim Ducks,ANA
+263,17,24,Detroit Red Wings,Anaheim Ducks,2022020088678,2022020088,Giveaway,678,GIVEAWAY,Giveaway by Adam Henrique,2022-10-23T23:20:03Z,3,08:22,11:38,4,1,24.0,Anaheim Ducks,ANA
+264,17,24,Detroit Red Wings,Anaheim Ducks,2022020088679,2022020088,Takeaway,679,TAKEAWAY,Takeaway by Elmer Soderblom,2022-10-23T23:20:08Z,3,08:27,11:33,4,1,17.0,Detroit Red Wings,DET
+265,17,24,Detroit Red Wings,Anaheim Ducks,2022020088495,2022020088,Shot,495,SHOT,Robert Hagg Slap Shot saved by John Gibson,2022-10-23T23:20:15Z,3,08:34,11:26,4,1,17.0,Detroit Red Wings,DET
+266,17,24,Detroit Red Wings,Anaheim Ducks,2022020088496,2022020088,Shot,496,SHOT,Filip Zadina Wrist Shot saved by John Gibson,2022-10-23T23:20:28Z,3,08:47,11:13,4,1,17.0,Detroit Red Wings,DET
+267,17,24,Detroit Red Wings,Anaheim Ducks,2022020088719,2022020088,Stoppage,719,STOP,Icing,2022-10-23T23:20:59Z,3,09:18,10:42,4,1,,,
+268,17,24,Detroit Red Wings,Anaheim Ducks,2022020088680,2022020088,Faceoff,680,FACEOFF,Dylan Larkin faceoff won against Adam Henrique,2022-10-23T23:21:30Z,3,09:18,10:42,4,1,17.0,Detroit Red Wings,DET
+269,17,24,Detroit Red Wings,Anaheim Ducks,2022020088497,2022020088,Shot,497,SHOT,Jakob Silfverberg Wrist Shot saved by Ville Husso,2022-10-23T23:21:48Z,3,09:36,10:24,4,1,24.0,Anaheim Ducks,ANA
+270,17,24,Detroit Red Wings,Anaheim Ducks,2022020088498,2022020088,Shot,498,SHOT,Jamie Drysdale Slap Shot saved by Ville Husso,2022-10-23T23:21:53Z,3,09:41,10:19,4,1,24.0,Anaheim Ducks,ANA
+271,17,24,Detroit Red Wings,Anaheim Ducks,2022020088499,2022020088,Shot,499,SHOT,Max Comtois Snap Shot saved by Ville Husso,2022-10-23T23:22:15Z,3,10:03,09:57,4,1,24.0,Anaheim Ducks,ANA
+272,17,24,Detroit Red Wings,Anaheim Ducks,2022020088720,2022020088,Hit,720,HIT,Derek Grant hit Gustav Lindstrom,2022-10-23T23:22:35Z,3,10:23,09:37,4,1,24.0,Anaheim Ducks,ANA
+273,17,24,Detroit Red Wings,Anaheim Ducks,2022020088500,2022020088,Shot,500,SHOT,Derek Grant Wrist Shot saved by Ville Husso,2022-10-23T23:22:59Z,3,10:47,09:13,4,1,24.0,Anaheim Ducks,ANA
+274,17,24,Detroit Red Wings,Anaheim Ducks,2022020088721,2022020088,Stoppage,721,STOP,Goalie Stopped,2022-10-23T23:23:00Z,3,10:48,09:12,4,1,,,
+275,17,24,Detroit Red Wings,Anaheim Ducks,2022020088681,2022020088,Faceoff,681,FACEOFF,Ryan Strome faceoff won against Michael Rasmussen,2022-10-23T23:25:25Z,3,10:48,09:12,4,1,24.0,Anaheim Ducks,ANA
+276,17,24,Detroit Red Wings,Anaheim Ducks,2022020088802,2022020088,Shot,802,SHOT,Mason McTavish Slap Shot saved by Ville Husso,2022-10-23T23:25:29Z,3,10:52,09:08,4,1,24.0,Anaheim Ducks,ANA
+277,17,24,Detroit Red Wings,Anaheim Ducks,2022020088722,2022020088,Stoppage,722,STOP,Goalie Stopped,2022-10-23T23:25:30Z,3,10:54,09:06,4,1,,,
+278,17,24,Detroit Red Wings,Anaheim Ducks,2022020088682,2022020088,Faceoff,682,FACEOFF,Michael Rasmussen faceoff won against Ryan Strome,2022-10-23T23:25:47Z,3,10:54,09:06,4,1,17.0,Detroit Red Wings,DET
+279,17,24,Detroit Red Wings,Anaheim Ducks,2022020088723,2022020088,Hit,723,HIT,Dmitry Kulikov hit Michael Rasmussen,2022-10-23T23:26:04Z,3,11:11,08:49,4,1,24.0,Anaheim Ducks,ANA
+280,17,24,Detroit Red Wings,Anaheim Ducks,2022020088803,2022020088,Blocked Shot,803,BLOCKED_SHOT,David Perron shot blocked shot by Dmitry Kulikov,2022-10-23T23:26:19Z,3,11:26,08:34,4,1,24.0,Anaheim Ducks,ANA
+281,17,24,Detroit Red Wings,Anaheim Ducks,2022020088804,2022020088,Shot,804,SHOT,David Perron Wrist Shot saved by John Gibson,2022-10-23T23:26:22Z,3,11:29,08:31,4,1,17.0,Detroit Red Wings,DET
+282,17,24,Detroit Red Wings,Anaheim Ducks,2022020088724,2022020088,Stoppage,724,STOP,Goalie Stopped,2022-10-23T23:26:23Z,3,11:30,08:30,4,1,,,
+283,17,24,Detroit Red Wings,Anaheim Ducks,2022020088683,2022020088,Faceoff,683,FACEOFF,Isac Lundestrom faceoff won against Andrew Copp,2022-10-23T23:26:55Z,3,11:30,08:30,4,1,24.0,Anaheim Ducks,ANA
+284,17,24,Detroit Red Wings,Anaheim Ducks,2022020088725,2022020088,Hit,725,HIT,Max Comtois hit Robert Hagg,2022-10-23T23:27:21Z,3,11:56,08:04,4,1,24.0,Anaheim Ducks,ANA
+285,17,24,Detroit Red Wings,Anaheim Ducks,2022020088726,2022020088,Hit,726,HIT,Lucas Raymond hit Jamie Drysdale,2022-10-23T23:27:38Z,3,12:13,07:47,4,1,17.0,Detroit Red Wings,DET
+286,17,24,Detroit Red Wings,Anaheim Ducks,2022020088805,2022020088,Blocked Shot,805,BLOCKED_SHOT,Lucas Raymond shot blocked shot by Jamie Drysdale,2022-10-23T23:27:39Z,3,12:14,07:46,4,1,24.0,Anaheim Ducks,ANA
+287,17,24,Detroit Red Wings,Anaheim Ducks,2022020088806,2022020088,Blocked Shot,806,BLOCKED_SHOT,Kevin Shattenkirk shot blocked shot by Olli Maatta,2022-10-23T23:28:18Z,3,12:53,07:07,4,1,17.0,Detroit Red Wings,DET
+288,17,24,Detroit Red Wings,Anaheim Ducks,2022020088807,2022020088,Shot,807,SHOT,Troy Terry Wrist Shot saved by Ville Husso,2022-10-23T23:28:29Z,3,13:04,06:56,4,1,24.0,Anaheim Ducks,ANA
+289,17,24,Detroit Red Wings,Anaheim Ducks,2022020088808,2022020088,Shot,808,SHOT,Max Jones Wrist Shot saved by Ville Husso,2022-10-23T23:28:30Z,3,13:05,06:55,4,1,24.0,Anaheim Ducks,ANA
+290,17,24,Detroit Red Wings,Anaheim Ducks,2022020088727,2022020088,Hit,727,HIT,Nathan Beaulieu hit Adam Erne,2022-10-23T23:28:40Z,3,13:15,06:45,4,1,24.0,Anaheim Ducks,ANA
+291,17,24,Detroit Red Wings,Anaheim Ducks,2022020088809,2022020088,Shot,809,SHOT,Moritz Seider Wrist Shot saved by John Gibson,2022-10-23T23:28:53Z,3,13:28,06:32,4,1,17.0,Detroit Red Wings,DET
+292,17,24,Detroit Red Wings,Anaheim Ducks,2022020088810,2022020088,Shot,810,SHOT,Pius Suter Tip-In saved by John Gibson,2022-10-23T23:28:59Z,3,13:34,06:26,4,1,17.0,Detroit Red Wings,DET
+293,17,24,Detroit Red Wings,Anaheim Ducks,2022020088728,2022020088,Hit,728,HIT,Pius Suter hit Adam Henrique,2022-10-23T23:29:16Z,3,13:51,06:09,4,1,17.0,Detroit Red Wings,DET
+294,17,24,Detroit Red Wings,Anaheim Ducks,2022020088811,2022020088,Shot,811,SHOT,Michael Rasmussen Snap Shot saved by John Gibson,2022-10-23T23:29:46Z,3,14:21,05:39,4,1,17.0,Detroit Red Wings,DET
+295,17,24,Detroit Red Wings,Anaheim Ducks,2022020088812,2022020088,Goal,812,GOAL,"Elmer Soderblom (2) Backhand, assists: Michael Rasmussen (3)",2022-10-23T23:29:48Z,3,14:24,05:36,5,1,17.0,Detroit Red Wings,DET
+296,17,24,Detroit Red Wings,Anaheim Ducks,2022020088684,2022020088,Faceoff,684,FACEOFF,Trevor Zegras faceoff won against Andrew Copp,2022-10-23T23:30:54Z,3,14:24,05:36,5,1,24.0,Anaheim Ducks,ANA
+297,17,24,Detroit Red Wings,Anaheim Ducks,2022020088813,2022020088,Shot,813,SHOT,Jamie Drysdale Wrist Shot saved by Ville Husso,2022-10-23T23:30:58Z,3,14:28,05:32,5,1,24.0,Anaheim Ducks,ANA
+298,17,24,Detroit Red Wings,Anaheim Ducks,2022020088685,2022020088,Giveaway,685,GIVEAWAY,Giveaway by Mason McTavish,2022-10-23T23:31:27Z,3,14:57,05:03,5,1,24.0,Anaheim Ducks,ANA
+299,17,24,Detroit Red Wings,Anaheim Ducks,2022020088814,2022020088,Missed Shot,814,MISSED_SHOT,Andrew Copp Wide of Net John Gibson,2022-10-23T23:31:35Z,3,15:05,04:55,5,1,17.0,Detroit Red Wings,DET
+300,17,24,Detroit Red Wings,Anaheim Ducks,2022020088815,2022020088,Blocked Shot,815,BLOCKED_SHOT,Robert Hagg shot blocked shot by Mason McTavish,2022-10-23T23:31:43Z,3,15:13,04:47,5,1,24.0,Anaheim Ducks,ANA
+301,17,24,Detroit Red Wings,Anaheim Ducks,2022020088729,2022020088,Stoppage,729,STOP,Offside,2022-10-23T23:32:00Z,3,15:30,04:30,5,1,,,
+302,17,24,Detroit Red Wings,Anaheim Ducks,2022020088686,2022020088,Faceoff,686,FACEOFF,Max Comtois faceoff won against Joe Veleno,2022-10-23T23:34:25Z,3,15:30,04:30,5,1,24.0,Anaheim Ducks,ANA
+303,17,24,Detroit Red Wings,Anaheim Ducks,2022020088817,2022020088,Missed Shot,817,MISSED_SHOT,Adam Erne Wide of Net John Gibson,2022-10-23T23:34:38Z,3,15:43,04:17,5,1,17.0,Detroit Red Wings,DET
+304,17,24,Detroit Red Wings,Anaheim Ducks,2022020088687,2022020088,Giveaway,687,GIVEAWAY,Giveaway by Gustav Lindstrom,2022-10-23T23:34:45Z,3,15:50,04:10,5,1,17.0,Detroit Red Wings,DET
+305,17,24,Detroit Red Wings,Anaheim Ducks,2022020088730,2022020088,Hit,730,HIT,Max Comtois hit Robert Hagg,2022-10-23T23:35:01Z,3,16:06,03:54,5,1,24.0,Anaheim Ducks,ANA
+306,17,24,Detroit Red Wings,Anaheim Ducks,2022020088818,2022020088,Shot,818,SHOT,Max Jones Wrist Shot saved by Ville Husso,2022-10-23T23:35:34Z,3,16:39,03:21,5,1,24.0,Anaheim Ducks,ANA
+307,17,24,Detroit Red Wings,Anaheim Ducks,2022020088819,2022020088,Shot,819,SHOT,Frank Vatrano Snap Shot saved by Ville Husso,2022-10-23T23:36:03Z,3,17:08,02:52,5,1,24.0,Anaheim Ducks,ANA
+308,17,24,Detroit Red Wings,Anaheim Ducks,2022020088731,2022020088,Stoppage,731,STOP,Goalie Stopped,2022-10-23T23:36:05Z,3,17:10,02:50,5,1,,,
+309,17,24,Detroit Red Wings,Anaheim Ducks,2022020088688,2022020088,Faceoff,688,FACEOFF,Oskar Sundqvist faceoff won against Derek Grant,2022-10-23T23:36:54Z,3,17:10,02:50,5,1,17.0,Detroit Red Wings,DET
+310,17,24,Detroit Red Wings,Anaheim Ducks,2022020088732,2022020088,Stoppage,732,STOP,Puck in Benches,2022-10-23T23:36:58Z,3,17:14,02:46,5,1,,,
+311,17,24,Detroit Red Wings,Anaheim Ducks,2022020088689,2022020088,Faceoff,689,FACEOFF,Derek Grant faceoff won against Michael Rasmussen,2022-10-23T23:37:23Z,3,17:14,02:46,5,1,24.0,Anaheim Ducks,ANA
+312,17,24,Detroit Red Wings,Anaheim Ducks,2022020088820,2022020088,Blocked Shot,820,BLOCKED_SHOT,Frank Vatrano shot blocked shot by Olli Maatta,2022-10-23T23:37:25Z,3,17:16,02:44,5,1,17.0,Detroit Red Wings,DET
+313,17,24,Detroit Red Wings,Anaheim Ducks,2022020088733,2022020088,Hit,733,HIT,Derek Grant hit Elmer Soderblom,2022-10-23T23:37:38Z,3,17:29,02:31,5,1,24.0,Anaheim Ducks,ANA
+314,17,24,Detroit Red Wings,Anaheim Ducks,2022020088734,2022020088,Stoppage,734,STOP,Icing,2022-10-23T23:38:07Z,3,17:58,02:02,5,1,,,
+315,17,24,Detroit Red Wings,Anaheim Ducks,2022020088690,2022020088,Faceoff,690,FACEOFF,Ryan Strome faceoff won against Andrew Copp,2022-10-23T23:38:34Z,3,17:58,02:02,5,1,24.0,Anaheim Ducks,ANA
+316,17,24,Detroit Red Wings,Anaheim Ducks,2022020088821,2022020088,Shot,821,SHOT,Joe Veleno Snap Shot saved by John Gibson,2022-10-23T23:39:41Z,3,19:05,00:55,5,1,17.0,Detroit Red Wings,DET
+317,17,24,Detroit Red Wings,Anaheim Ducks,2022020088735,2022020088,Stoppage,735,STOP,Goalie Stopped,2022-10-23T23:39:44Z,3,19:07,00:53,5,1,,,
+318,17,24,Detroit Red Wings,Anaheim Ducks,2022020088692,2022020088,Faceoff,692,FACEOFF,Joe Veleno faceoff won against Isac Lundestrom,2022-10-23T23:40:10Z,3,19:07,00:53,5,1,17.0,Detroit Red Wings,DET
+319,17,24,Detroit Red Wings,Anaheim Ducks,2022020088822,2022020088,Shot,822,SHOT,Gustav Lindstrom Wrist Shot saved by John Gibson,2022-10-23T23:40:14Z,3,19:11,00:49,5,1,17.0,Detroit Red Wings,DET
+320,17,24,Detroit Red Wings,Anaheim Ducks,2022020088736,2022020088,Stoppage,736,STOP,Goalie Stopped,2022-10-23T23:40:15Z,3,19:12,00:48,5,1,,,
+321,17,24,Detroit Red Wings,Anaheim Ducks,2022020088693,2022020088,Faceoff,693,FACEOFF,Isac Lundestrom faceoff won against Joe Veleno,2022-10-23T23:40:32Z,3,19:12,00:48,5,1,24.0,Anaheim Ducks,ANA
+322,17,24,Detroit Red Wings,Anaheim Ducks,2022020088694,2022020088,Giveaway,694,GIVEAWAY,Giveaway by John Gibson,2022-10-23T23:40:53Z,3,19:34,00:26,5,1,24.0,Anaheim Ducks,ANA
+323,17,24,Detroit Red Wings,Anaheim Ducks,2022020088737,2022020088,Period End,737,PERIOD_END,End of 3rd Period,2022-10-23T23:41:19Z,3,20:00,00:00,5,1,,,
+324,17,24,Detroit Red Wings,Anaheim Ducks,2022020088740,2022020088,Period Official,740,PERIOD_OFFICIAL,Period Official,2022-10-23T23:41:28Z,3,20:00,00:00,5,1,,,
+325,17,24,Detroit Red Wings,Anaheim Ducks,2022020088741,2022020088,Game End,741,GAME_END,Game End,2022-10-23T23:41:31Z,3,20:00,00:00,5,1,,,
+326,17,24,Detroit Red Wings,Anaheim Ducks,2022020088742,2022020088,Game Official,742,GAME_OFFICIAL,Game Official,2022-10-24T00:03:15Z,3,20:00,00:00,5,1,,,

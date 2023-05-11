@@ -1,0 +1,295 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,55,30,Seattle Kraken,Minnesota Wild,20220202241,2022020224,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-11-12T02:15:39Z,1,00:00,20:00,0,0,,,
+1,55,30,Seattle Kraken,Minnesota Wild,20220202245,2022020224,Period Ready,5,PERIOD_READY,Period Ready,2022-11-12T03:07:05Z,1,00:00,20:00,0,0,,,
+2,55,30,Seattle Kraken,Minnesota Wild,202202022451,2022020224,Period Start,51,PERIOD_START,Period Start,2022-11-12T03:09:00Z,1,00:00,20:00,0,0,,,
+3,55,30,Seattle Kraken,Minnesota Wild,202202022452,2022020224,Faceoff,52,FACEOFF,Yanni Gourde faceoff won against Joel Eriksson Ek,2022-11-12T03:09:00Z,1,00:00,20:00,0,0,55.0,Seattle Kraken,SEA
+4,55,30,Seattle Kraken,Minnesota Wild,2022020224151,2022020224,Shot,151,SHOT,Kirill Kaprizov Wrist Shot saved by Martin Jones,2022-11-12T03:09:50Z,1,00:50,19:10,0,0,30.0,Minnesota Wild,MIN
+5,55,30,Seattle Kraken,Minnesota Wild,20220202248,2022020224,Shot,8,SHOT,Frederick Gaudreau Wrist Shot saved by Martin Jones,2022-11-12T03:09:55Z,1,00:55,19:05,0,0,30.0,Minnesota Wild,MIN
+6,55,30,Seattle Kraken,Minnesota Wild,20220202249,2022020224,Stoppage,9,STOP,Goalie Stopped,2022-11-12T03:09:56Z,1,00:56,19:04,0,0,,,
+7,55,30,Seattle Kraken,Minnesota Wild,202202022453,2022020224,Faceoff,53,FACEOFF,Frederick Gaudreau faceoff won against Alex Wennberg,2022-11-12T03:10:17Z,1,00:56,19:04,0,0,30.0,Minnesota Wild,MIN
+8,55,30,Seattle Kraken,Minnesota Wild,202202022454,2022020224,Hit,54,HIT,Vince Dunn hit Kirill Kaprizov,2022-11-12T03:10:28Z,1,01:07,18:53,0,0,55.0,Seattle Kraken,SEA
+9,55,30,Seattle Kraken,Minnesota Wild,202202022410,2022020224,Stoppage,10,STOP,Icing,2022-11-12T03:10:32Z,1,01:11,18:49,0,0,,,
+10,55,30,Seattle Kraken,Minnesota Wild,202202022455,2022020224,Faceoff,55,FACEOFF,Alex Wennberg faceoff won against Frederick Gaudreau,2022-11-12T03:10:51Z,1,01:11,18:49,0,0,55.0,Seattle Kraken,SEA
+11,55,30,Seattle Kraken,Minnesota Wild,2022020224113,2022020224,Penalty,113,PENALTY,Jared Spurgeon Tripping against Andre Burakovsky,2022-11-12T03:11:00Z,1,01:20,18:40,0,0,30.0,Minnesota Wild,MIN
+12,55,30,Seattle Kraken,Minnesota Wild,202202022456,2022020224,Faceoff,56,FACEOFF,Frederick Gaudreau faceoff won against Alex Wennberg,2022-11-12T03:11:42Z,1,01:20,18:40,0,0,30.0,Minnesota Wild,MIN
+13,55,30,Seattle Kraken,Minnesota Wild,202202022457,2022020224,Giveaway,57,GIVEAWAY,Giveaway by Martin Jones,2022-11-12T03:12:32Z,1,02:10,17:50,0,0,55.0,Seattle Kraken,SEA
+14,55,30,Seattle Kraken,Minnesota Wild,202202022411,2022020224,Stoppage,11,STOP,Puck in Netting,2022-11-12T03:13:15Z,1,02:53,17:07,0,0,,,
+15,55,30,Seattle Kraken,Minnesota Wild,202202022458,2022020224,Faceoff,58,FACEOFF,Jaden Schwartz faceoff won against Frederick Gaudreau,2022-11-12T03:13:37Z,1,02:53,17:07,0,0,55.0,Seattle Kraken,SEA
+16,55,30,Seattle Kraken,Minnesota Wild,2022020224152,2022020224,Blocked Shot,152,BLOCKED_SHOT,Daniel Sprong shot blocked shot by Matt Dumba,2022-11-12T03:13:51Z,1,03:07,16:53,0,0,30.0,Minnesota Wild,MIN
+17,55,30,Seattle Kraken,Minnesota Wild,202202022459,2022020224,Hit,59,HIT,Ryan Donato hit Jon Merrill,2022-11-12T03:14:17Z,1,03:33,16:27,0,0,55.0,Seattle Kraken,SEA
+18,55,30,Seattle Kraken,Minnesota Wild,202202022412,2022020224,Stoppage,12,STOP,Offside,2022-11-12T03:14:20Z,1,03:37,16:23,0,0,,,
+19,55,30,Seattle Kraken,Minnesota Wild,202202022460,2022020224,Faceoff,60,FACEOFF,Matt Boldy faceoff won against Morgan Geekie,2022-11-12T03:14:50Z,1,03:37,16:23,0,0,30.0,Minnesota Wild,MIN
+20,55,30,Seattle Kraken,Minnesota Wild,2022020224153,2022020224,Missed Shot,153,MISSED_SHOT,Brandon Tanev Wide of Net Marc-Andre Fleury,2022-11-12T03:15:09Z,1,03:56,16:04,0,0,55.0,Seattle Kraken,SEA
+21,55,30,Seattle Kraken,Minnesota Wild,2022020224154,2022020224,Blocked Shot,154,BLOCKED_SHOT,Alex Wennberg shot blocked shot by Marco Rossi,2022-11-12T03:15:48Z,1,04:35,15:25,0,0,30.0,Minnesota Wild,MIN
+22,55,30,Seattle Kraken,Minnesota Wild,2022020224155,2022020224,Shot,155,SHOT,Justin Schultz Wrist Shot saved by Marc-Andre Fleury,2022-11-12T03:16:08Z,1,04:55,15:05,0,0,55.0,Seattle Kraken,SEA
+23,55,30,Seattle Kraken,Minnesota Wild,202202022461,2022020224,Hit,61,HIT,Adam Beckman hit Cale Fleury,2022-11-12T03:16:12Z,1,04:59,15:01,0,0,30.0,Minnesota Wild,MIN
+24,55,30,Seattle Kraken,Minnesota Wild,202202022462,2022020224,Hit,62,HIT,Cale Fleury hit Sam Steel,2022-11-12T03:16:29Z,1,05:16,14:44,0,0,55.0,Seattle Kraken,SEA
+25,55,30,Seattle Kraken,Minnesota Wild,2022020224156,2022020224,Shot,156,SHOT,Adam Larsson Wrist Shot saved by Marc-Andre Fleury,2022-11-12T03:16:53Z,1,05:40,14:20,0,0,55.0,Seattle Kraken,SEA
+26,55,30,Seattle Kraken,Minnesota Wild,202202022463,2022020224,Hit,63,HIT,Yanni Gourde hit Marcus Foligno,2022-11-12T03:17:47Z,1,06:34,13:26,0,0,55.0,Seattle Kraken,SEA
+27,55,30,Seattle Kraken,Minnesota Wild,2022020224157,2022020224,Missed Shot,157,MISSED_SHOT,Will Borgen Wide of Net Marc-Andre Fleury,2022-11-12T03:17:49Z,1,06:36,13:24,0,0,55.0,Seattle Kraken,SEA
+28,55,30,Seattle Kraken,Minnesota Wild,202202022464,2022020224,Hit,64,HIT,Jared McCann hit Joel Eriksson Ek,2022-11-12T03:18:00Z,1,06:47,13:13,0,0,55.0,Seattle Kraken,SEA
+29,55,30,Seattle Kraken,Minnesota Wild,202202022465,2022020224,Hit,65,HIT,Mats Zuccarello hit Andre Burakovsky,2022-11-12T03:18:25Z,1,07:12,12:48,0,0,30.0,Minnesota Wild,MIN
+30,55,30,Seattle Kraken,Minnesota Wild,202202022466,2022020224,Takeaway,66,TAKEAWAY,Takeaway by Kirill Kaprizov,2022-11-12T03:18:35Z,1,07:22,12:38,0,0,30.0,Minnesota Wild,MIN
+31,55,30,Seattle Kraken,Minnesota Wild,2022020224158,2022020224,Missed Shot,158,MISSED_SHOT,Mats Zuccarello Over Net Martin Jones,2022-11-12T03:18:36Z,1,07:23,12:37,0,0,30.0,Minnesota Wild,MIN
+32,55,30,Seattle Kraken,Minnesota Wild,202202022413,2022020224,Stoppage,13,STOP,Puck Frozen,2022-11-12T03:19:07Z,1,07:54,12:06,0,0,,,
+33,55,30,Seattle Kraken,Minnesota Wild,202202022467,2022020224,Faceoff,67,FACEOFF,Sam Steel faceoff won against Morgan Geekie,2022-11-12T03:19:39Z,1,07:54,12:06,0,0,30.0,Minnesota Wild,MIN
+34,55,30,Seattle Kraken,Minnesota Wild,202202022468,2022020224,Takeaway,68,TAKEAWAY,Takeaway by Daniel Sprong,2022-11-12T03:19:44Z,1,07:59,12:01,0,0,55.0,Seattle Kraken,SEA
+35,55,30,Seattle Kraken,Minnesota Wild,202202022469,2022020224,Takeaway,69,TAKEAWAY,Takeaway by Ryan Donato,2022-11-12T03:19:51Z,1,08:06,11:54,0,0,55.0,Seattle Kraken,SEA
+36,55,30,Seattle Kraken,Minnesota Wild,202202022470,2022020224,Hit,70,HIT,Ryan Donato hit Matt Dumba,2022-11-12T03:20:06Z,1,08:21,11:39,0,0,55.0,Seattle Kraken,SEA
+37,55,30,Seattle Kraken,Minnesota Wild,202202022471,2022020224,Hit,71,HIT,Will Borgen hit Adam Beckman,2022-11-12T03:20:18Z,1,08:33,11:27,0,0,55.0,Seattle Kraken,SEA
+38,55,30,Seattle Kraken,Minnesota Wild,202202022414,2022020224,Hit,14,HIT,Jake Middleton hit Carson Soucy,2022-11-12T03:20:24Z,1,08:39,11:21,0,0,30.0,Minnesota Wild,MIN
+39,55,30,Seattle Kraken,Minnesota Wild,2022020224160,2022020224,Hit,160,HIT,Mason Shaw hit Morgan Geekie,2022-11-12T03:20:31Z,1,08:46,11:14,0,0,30.0,Minnesota Wild,MIN
+40,55,30,Seattle Kraken,Minnesota Wild,202202022472,2022020224,Takeaway,72,TAKEAWAY,Takeaway by Matty Beniers,2022-11-12T03:20:50Z,1,09:05,10:55,0,0,55.0,Seattle Kraken,SEA
+41,55,30,Seattle Kraken,Minnesota Wild,2022020224161,2022020224,Shot,161,SHOT,Jaden Schwartz Tip-In saved by Marc-Andre Fleury,2022-11-12T03:20:53Z,1,09:08,10:52,0,0,55.0,Seattle Kraken,SEA
+42,55,30,Seattle Kraken,Minnesota Wild,202202022415,2022020224,Shot,15,SHOT,Matt Boldy Snap Shot saved by Martin Jones,2022-11-12T03:21:06Z,1,09:21,10:39,0,0,30.0,Minnesota Wild,MIN
+43,55,30,Seattle Kraken,Minnesota Wild,2022020224162,2022020224,Stoppage,162,STOP,Goalie Stopped,2022-11-12T03:21:06Z,1,09:21,10:39,0,0,,,
+44,55,30,Seattle Kraken,Minnesota Wild,202202022473,2022020224,Faceoff,73,FACEOFF,Joel Eriksson Ek faceoff won against Yanni Gourde,2022-11-12T03:23:26Z,1,09:21,10:39,0,0,30.0,Minnesota Wild,MIN
+45,55,30,Seattle Kraken,Minnesota Wild,202202022474,2022020224,Hit,74,HIT,Marcus Foligno hit Carson Soucy,2022-11-12T03:23:58Z,1,09:53,10:07,0,0,30.0,Minnesota Wild,MIN
+46,55,30,Seattle Kraken,Minnesota Wild,202202022475,2022020224,Hit,75,HIT,Yanni Gourde hit Matt Boldy,2022-11-12T03:24:01Z,1,09:56,10:04,0,0,55.0,Seattle Kraken,SEA
+47,55,30,Seattle Kraken,Minnesota Wild,202202022417,2022020224,Stoppage,17,STOP,Net Dislodged Defensive Skater,2022-11-12T03:24:02Z,1,09:57,10:03,0,0,,,
+48,55,30,Seattle Kraken,Minnesota Wild,202202022476,2022020224,Faceoff,76,FACEOFF,Alex Wennberg faceoff won against Mats Zuccarello,2022-11-12T03:24:51Z,1,09:57,10:03,0,0,55.0,Seattle Kraken,SEA
+49,55,30,Seattle Kraken,Minnesota Wild,202202022477,2022020224,Takeaway,77,TAKEAWAY,Takeaway by Kirill Kaprizov,2022-11-12T03:25:04Z,1,10:10,09:50,0,0,30.0,Minnesota Wild,MIN
+50,55,30,Seattle Kraken,Minnesota Wild,2022020224248,2022020224,Penalty,248,PENALTY,Vince Dunn Hooking against Kirill Kaprizov,2022-11-12T03:25:07Z,1,10:12,09:48,0,0,55.0,Seattle Kraken,SEA
+51,55,30,Seattle Kraken,Minnesota Wild,202202022479,2022020224,Faceoff,79,FACEOFF,Morgan Geekie faceoff won against Joel Eriksson Ek,2022-11-12T03:25:49Z,1,10:12,09:48,0,0,55.0,Seattle Kraken,SEA
+52,55,30,Seattle Kraken,Minnesota Wild,2022020224163,2022020224,Shot,163,SHOT,Mats Zuccarello Wrist Shot saved by Martin Jones,2022-11-12T03:26:00Z,1,10:23,09:37,0,0,30.0,Minnesota Wild,MIN
+53,55,30,Seattle Kraken,Minnesota Wild,2022020224164,2022020224,Shot,164,SHOT,Mats Zuccarello Wrist Shot saved by Martin Jones,2022-11-12T03:26:28Z,1,10:51,09:09,0,0,30.0,Minnesota Wild,MIN
+54,55,30,Seattle Kraken,Minnesota Wild,202202022418,2022020224,Stoppage,18,STOP,Offside,2022-11-12T03:27:41Z,1,12:05,07:55,0,0,,,
+55,55,30,Seattle Kraken,Minnesota Wild,202202022480,2022020224,Faceoff,80,FACEOFF,Matty Beniers faceoff won against Frederick Gaudreau,2022-11-12T03:28:05Z,1,12:05,07:55,0,0,55.0,Seattle Kraken,SEA
+56,55,30,Seattle Kraken,Minnesota Wild,202202022481,2022020224,Hit,81,HIT,Vince Dunn hit Jonas Brodin,2022-11-12T03:28:17Z,1,12:17,07:43,0,0,55.0,Seattle Kraken,SEA
+57,55,30,Seattle Kraken,Minnesota Wild,2022020224165,2022020224,Shot,165,SHOT,Adam Beckman Backhand saved by Martin Jones,2022-11-12T03:28:40Z,1,12:40,07:20,0,0,30.0,Minnesota Wild,MIN
+58,55,30,Seattle Kraken,Minnesota Wild,202202022482,2022020224,Hit,82,HIT,Joseph Cramarossa hit Cale Fleury,2022-11-12T03:28:51Z,1,12:51,07:09,0,0,30.0,Minnesota Wild,MIN
+59,55,30,Seattle Kraken,Minnesota Wild,2022020224166,2022020224,Missed Shot,166,MISSED_SHOT,Connor Dewar Wide of Net Martin Jones,2022-11-12T03:29:28Z,1,13:28,06:32,0,0,30.0,Minnesota Wild,MIN
+60,55,30,Seattle Kraken,Minnesota Wild,2022020224167,2022020224,Shot,167,SHOT,Oliver Bjorkstrand Wrist Shot saved by Marc-Andre Fleury,2022-11-12T03:29:51Z,1,13:51,06:09,0,0,55.0,Seattle Kraken,SEA
+61,55,30,Seattle Kraken,Minnesota Wild,202202022483,2022020224,Hit,83,HIT,Mats Zuccarello hit Yanni Gourde,2022-11-12T03:30:23Z,1,14:23,05:37,0,0,30.0,Minnesota Wild,MIN
+62,55,30,Seattle Kraken,Minnesota Wild,2022020224168,2022020224,Shot,168,SHOT,Brandon Tanev Deflected saved by Marc-Andre Fleury,2022-11-12T03:30:32Z,1,14:32,05:28,0,0,55.0,Seattle Kraken,SEA
+63,55,30,Seattle Kraken,Minnesota Wild,2022020224169,2022020224,Missed Shot,169,MISSED_SHOT,Brandon Tanev Goalpost Marc-Andre Fleury,2022-11-12T03:30:33Z,1,14:33,05:27,0,0,55.0,Seattle Kraken,SEA
+64,55,30,Seattle Kraken,Minnesota Wild,202202022419,2022020224,Stoppage,19,STOP,TV timeout,2022-11-12T03:30:33Z,1,14:34,05:26,0,0,,,
+65,55,30,Seattle Kraken,Minnesota Wild,2022020224291,2022020224,Penalty,291,PENALTY,Calen Addison Hooking against Brandon Tanev,2022-11-12T03:30:33Z,1,14:34,05:26,0,0,30.0,Minnesota Wild,MIN
+66,55,30,Seattle Kraken,Minnesota Wild,202202022484,2022020224,Faceoff,84,FACEOFF,Frederick Gaudreau faceoff won against Matty Beniers,2022-11-12T03:33:15Z,1,14:34,05:26,0,0,30.0,Minnesota Wild,MIN
+67,55,30,Seattle Kraken,Minnesota Wild,2022020224170,2022020224,Blocked Shot,170,BLOCKED_SHOT,Daniel Sprong shot blocked shot by Jared Spurgeon,2022-11-12T03:33:38Z,1,14:57,05:03,0,0,30.0,Minnesota Wild,MIN
+68,55,30,Seattle Kraken,Minnesota Wild,202202022420,2022020224,Stoppage,20,STOP,Puck in Netting,2022-11-12T03:35:12Z,1,16:31,03:29,0,0,,,
+69,55,30,Seattle Kraken,Minnesota Wild,2022020224171,2022020224,Missed Shot,171,MISSED_SHOT,Jared McCann Hit Crossbar Marc-Andre Fleury,2022-11-12T03:35:12Z,1,16:31,03:29,0,0,55.0,Seattle Kraken,SEA
+70,55,30,Seattle Kraken,Minnesota Wild,202202022485,2022020224,Faceoff,85,FACEOFF,Yanni Gourde faceoff won against Frederick Gaudreau,2022-11-12T03:35:45Z,1,16:31,03:29,0,0,55.0,Seattle Kraken,SEA
+71,55,30,Seattle Kraken,Minnesota Wild,2022020224172,2022020224,Shot,172,SHOT,Vince Dunn Wrist Shot saved by Marc-Andre Fleury,2022-11-12T03:35:49Z,1,16:35,03:25,0,0,55.0,Seattle Kraken,SEA
+72,55,30,Seattle Kraken,Minnesota Wild,202202022421,2022020224,Stoppage,21,STOP,Goalie Stopped,2022-11-12T03:35:51Z,1,16:36,03:24,0,0,,,
+73,55,30,Seattle Kraken,Minnesota Wild,202202022486,2022020224,Faceoff,86,FACEOFF,Joel Eriksson Ek faceoff won against Yanni Gourde,2022-11-12T03:38:15Z,1,16:36,03:24,0,0,30.0,Minnesota Wild,MIN
+74,55,30,Seattle Kraken,Minnesota Wild,202202022487,2022020224,Giveaway,87,GIVEAWAY,Giveaway by Yanni Gourde,2022-11-12T03:38:28Z,1,16:49,03:11,0,0,55.0,Seattle Kraken,SEA
+75,55,30,Seattle Kraken,Minnesota Wild,202202022488,2022020224,Hit,88,HIT,Brandon Tanev hit Joel Eriksson Ek,2022-11-12T03:38:43Z,1,17:04,02:56,0,0,55.0,Seattle Kraken,SEA
+76,55,30,Seattle Kraken,Minnesota Wild,2022020224173,2022020224,Missed Shot,173,MISSED_SHOT,Brandon Tanev Wide of Net Marc-Andre Fleury,2022-11-12T03:38:45Z,1,17:06,02:54,0,0,55.0,Seattle Kraken,SEA
+77,55,30,Seattle Kraken,Minnesota Wild,2022020224174,2022020224,Goal,174,GOAL,"Mats Zuccarello (6) Wrist Shot, assists: Jon Merrill (1), Kirill Kaprizov (6)",2022-11-12T03:39:58Z,1,18:19,01:41,0,1,30.0,Minnesota Wild,MIN
+78,55,30,Seattle Kraken,Minnesota Wild,202202022489,2022020224,Faceoff,89,FACEOFF,Marco Rossi faceoff won against Matty Beniers,2022-11-12T03:40:38Z,1,18:19,01:41,0,1,30.0,Minnesota Wild,MIN
+79,55,30,Seattle Kraken,Minnesota Wild,202202022490,2022020224,Giveaway,90,GIVEAWAY,Giveaway by Cale Fleury,2022-11-12T03:41:02Z,1,18:43,01:17,0,1,55.0,Seattle Kraken,SEA
+80,55,30,Seattle Kraken,Minnesota Wild,2022020224175,2022020224,Shot,175,SHOT,Marco Rossi Wrist Shot saved by Martin Jones,2022-11-12T03:41:03Z,1,18:44,01:16,0,1,30.0,Minnesota Wild,MIN
+81,55,30,Seattle Kraken,Minnesota Wild,202202022491,2022020224,Hit,91,HIT,Cale Fleury hit Connor Dewar,2022-11-12T03:41:07Z,1,18:48,01:12,0,1,55.0,Seattle Kraken,SEA
+82,55,30,Seattle Kraken,Minnesota Wild,202202022492,2022020224,Hit,92,HIT,Matty Beniers hit Mason Shaw,2022-11-12T03:41:33Z,1,19:14,00:46,0,1,55.0,Seattle Kraken,SEA
+83,55,30,Seattle Kraken,Minnesota Wild,202202022422,2022020224,Stoppage,22,STOP,Icing,2022-11-12T03:41:40Z,1,19:21,00:39,0,1,,,
+84,55,30,Seattle Kraken,Minnesota Wild,202202022493,2022020224,Faceoff,93,FACEOFF,Matty Beniers faceoff won against Frederick Gaudreau,2022-11-12T03:42:09Z,1,19:21,00:39,0,1,55.0,Seattle Kraken,SEA
+85,55,30,Seattle Kraken,Minnesota Wild,202202022494,2022020224,Giveaway,94,GIVEAWAY,Giveaway by Justin Schultz,2022-11-12T03:42:15Z,1,19:27,00:33,0,1,55.0,Seattle Kraken,SEA
+86,55,30,Seattle Kraken,Minnesota Wild,202202022495,2022020224,Hit,95,HIT,Frederick Gaudreau hit Matty Beniers,2022-11-12T03:42:28Z,1,19:40,00:20,0,1,30.0,Minnesota Wild,MIN
+87,55,30,Seattle Kraken,Minnesota Wild,2022020224176,2022020224,Blocked Shot,176,BLOCKED_SHOT,Brandon Tanev shot blocked shot by Jonas Brodin,2022-11-12T03:42:43Z,1,19:55,00:05,0,1,30.0,Minnesota Wild,MIN
+88,55,30,Seattle Kraken,Minnesota Wild,202202022423,2022020224,Period End,23,PERIOD_END,End of 1st Period,2022-11-12T03:42:48Z,1,20:00,00:00,0,1,,,
+89,55,30,Seattle Kraken,Minnesota Wild,202202022426,2022020224,Penalty,26,PENALTY,Matt Dumba High-sticking against Jared McCann,2022-11-12T03:42:48Z,1,20:00,00:00,0,1,30.0,Minnesota Wild,MIN
+90,55,30,Seattle Kraken,Minnesota Wild,202202022429,2022020224,Period Official,29,PERIOD_OFFICIAL,Period Official,2022-11-12T03:56:29Z,1,20:00,00:00,0,1,,,
+91,55,30,Seattle Kraken,Minnesota Wild,202202022430,2022020224,Period Ready,30,PERIOD_READY,Period Ready,2022-11-12T03:59:55Z,2,00:00,20:00,0,1,,,
+92,55,30,Seattle Kraken,Minnesota Wild,202202022496,2022020224,Period Start,96,PERIOD_START,Period Start,2022-11-12T04:02:16Z,2,00:00,20:00,0,1,,,
+93,55,30,Seattle Kraken,Minnesota Wild,202202022497,2022020224,Faceoff,97,FACEOFF,Alex Wennberg faceoff won against Joel Eriksson Ek,2022-11-12T04:02:16Z,2,00:00,20:00,0,1,55.0,Seattle Kraken,SEA
+94,55,30,Seattle Kraken,Minnesota Wild,2022020224177,2022020224,Blocked Shot,177,BLOCKED_SHOT,Alex Wennberg shot blocked shot by Jonas Brodin,2022-11-12T04:02:35Z,2,00:19,19:41,0,1,30.0,Minnesota Wild,MIN
+95,55,30,Seattle Kraken,Minnesota Wild,202202022431,2022020224,Missed Shot,31,MISSED_SHOT,Andre Burakovsky Wide of Net Marc-Andre Fleury,2022-11-12T04:03:52Z,2,01:36,18:24,0,1,55.0,Seattle Kraken,SEA
+96,55,30,Seattle Kraken,Minnesota Wild,2022020224178,2022020224,Shot,178,SHOT,Ryan Donato Wrap-around saved by Marc-Andre Fleury,2022-11-12T04:04:22Z,2,02:06,17:54,0,1,55.0,Seattle Kraken,SEA
+97,55,30,Seattle Kraken,Minnesota Wild,202202022432,2022020224,Stoppage,32,STOP,Icing,2022-11-12T04:04:28Z,2,02:13,17:47,0,1,,,
+98,55,30,Seattle Kraken,Minnesota Wild,202202022498,2022020224,Faceoff,98,FACEOFF,Matty Beniers faceoff won against Sam Steel,2022-11-12T04:04:57Z,2,02:13,17:47,0,1,55.0,Seattle Kraken,SEA
+99,55,30,Seattle Kraken,Minnesota Wild,202202022433,2022020224,Stoppage,33,STOP,Goalie Stopped,2022-11-12T04:05:20Z,2,02:35,17:25,0,1,,,
+100,55,30,Seattle Kraken,Minnesota Wild,2022020224179,2022020224,Shot,179,SHOT,Cale Fleury Wrist Shot saved by Marc-Andre Fleury,2022-11-12T04:05:20Z,2,02:35,17:25,0,1,55.0,Seattle Kraken,SEA
+101,55,30,Seattle Kraken,Minnesota Wild,202202022499,2022020224,Faceoff,99,FACEOFF,Yanni Gourde faceoff won against Matt Boldy,2022-11-12T04:05:52Z,2,02:35,17:25,0,1,55.0,Seattle Kraken,SEA
+102,55,30,Seattle Kraken,Minnesota Wild,2022020224180,2022020224,Blocked Shot,180,BLOCKED_SHOT,Matt Boldy shot blocked shot by Brandon Tanev,2022-11-12T04:06:11Z,2,02:54,17:06,0,1,55.0,Seattle Kraken,SEA
+103,55,30,Seattle Kraken,Minnesota Wild,2022020224100,2022020224,Hit,100,HIT,Ryan Donato hit Calen Addison,2022-11-12T04:06:25Z,2,03:08,16:52,0,1,55.0,Seattle Kraken,SEA
+104,55,30,Seattle Kraken,Minnesota Wild,2022020224182,2022020224,Blocked Shot,182,BLOCKED_SHOT,Ryan Donato shot blocked shot by Calen Addison,2022-11-12T04:06:36Z,2,03:19,16:41,0,1,30.0,Minnesota Wild,MIN
+105,55,30,Seattle Kraken,Minnesota Wild,202202022434,2022020224,Stoppage,34,STOP,Puck Frozen,2022-11-12T04:06:57Z,2,03:39,16:21,0,1,,,
+106,55,30,Seattle Kraken,Minnesota Wild,2022020224183,2022020224,Missed Shot,183,MISSED_SHOT,Will Borgen Wide of Net Marc-Andre Fleury,2022-11-12T04:06:57Z,2,03:39,16:21,0,1,55.0,Seattle Kraken,SEA
+107,55,30,Seattle Kraken,Minnesota Wild,2022020224351,2022020224,Faceoff,351,FACEOFF,Morgan Geekie faceoff won against Sam Steel,2022-11-12T04:07:31Z,2,03:39,16:21,0,1,55.0,Seattle Kraken,SEA
+108,55,30,Seattle Kraken,Minnesota Wild,2022020224184,2022020224,Shot,184,SHOT,Cale Fleury Wrist Shot saved by Marc-Andre Fleury,2022-11-12T04:07:41Z,2,03:49,16:11,0,1,55.0,Seattle Kraken,SEA
+109,55,30,Seattle Kraken,Minnesota Wild,2022020224352,2022020224,Hit,352,HIT,Jared McCann hit Sam Steel,2022-11-12T04:07:51Z,2,03:59,16:01,0,1,55.0,Seattle Kraken,SEA
+110,55,30,Seattle Kraken,Minnesota Wild,2022020224185,2022020224,Shot,185,SHOT,Adam Beckman Wrist Shot saved by Martin Jones,2022-11-12T04:07:52Z,2,04:00,16:00,0,1,30.0,Minnesota Wild,MIN
+111,55,30,Seattle Kraken,Minnesota Wild,2022020224186,2022020224,Missed Shot,186,MISSED_SHOT,Joseph Cramarossa Wide of Net Martin Jones,2022-11-12T04:07:59Z,2,04:07,15:53,0,1,30.0,Minnesota Wild,MIN
+112,55,30,Seattle Kraken,Minnesota Wild,2022020224353,2022020224,Giveaway,353,GIVEAWAY,Giveaway by Jared Spurgeon,2022-11-12T04:08:29Z,2,04:37,15:23,0,1,30.0,Minnesota Wild,MIN
+113,55,30,Seattle Kraken,Minnesota Wild,2022020224354,2022020224,Hit,354,HIT,Marcus Foligno hit Matty Beniers,2022-11-12T04:08:49Z,2,04:57,15:03,0,1,30.0,Minnesota Wild,MIN
+114,55,30,Seattle Kraken,Minnesota Wild,2022020224355,2022020224,Takeaway,355,TAKEAWAY,Takeaway by Marcus Foligno,2022-11-12T04:09:02Z,2,05:10,14:50,0,1,30.0,Minnesota Wild,MIN
+115,55,30,Seattle Kraken,Minnesota Wild,202202022435,2022020224,Stoppage,35,STOP,Puck Frozen,2022-11-12T04:09:06Z,2,05:15,14:45,0,1,,,
+116,55,30,Seattle Kraken,Minnesota Wild,2022020224356,2022020224,Faceoff,356,FACEOFF,Yanni Gourde faceoff won against Marco Rossi,2022-11-12T04:09:38Z,2,05:15,14:45,0,1,55.0,Seattle Kraken,SEA
+117,55,30,Seattle Kraken,Minnesota Wild,2022020224187,2022020224,Blocked Shot,187,BLOCKED_SHOT,Ryan Donato shot blocked shot by Jon Merrill,2022-11-12T04:09:53Z,2,05:30,14:30,0,1,30.0,Minnesota Wild,MIN
+118,55,30,Seattle Kraken,Minnesota Wild,2022020224357,2022020224,Giveaway,357,GIVEAWAY,Giveaway by Cale Fleury,2022-11-12T04:10:12Z,2,05:49,14:11,0,1,55.0,Seattle Kraken,SEA
+119,55,30,Seattle Kraken,Minnesota Wild,2022020224188,2022020224,Missed Shot,188,MISSED_SHOT,Connor Dewar Wide of Net Martin Jones,2022-11-12T04:10:15Z,2,05:52,14:08,0,1,30.0,Minnesota Wild,MIN
+120,55,30,Seattle Kraken,Minnesota Wild,202202022437,2022020224,Stoppage,37,STOP,Icing,2022-11-12T04:10:42Z,2,06:19,13:41,0,1,,,
+121,55,30,Seattle Kraken,Minnesota Wild,2022020224358,2022020224,Faceoff,358,FACEOFF,Alex Wennberg faceoff won against Marco Rossi,2022-11-12T04:11:09Z,2,06:19,13:41,0,1,55.0,Seattle Kraken,SEA
+122,55,30,Seattle Kraken,Minnesota Wild,202202022438,2022020224,Stoppage,38,STOP,Goalie Stopped,2022-11-12T04:11:40Z,2,06:50,13:10,0,1,,,
+123,55,30,Seattle Kraken,Minnesota Wild,2022020224189,2022020224,Shot,189,SHOT,Matt Dumba Wrist Shot saved by Martin Jones,2022-11-12T04:11:40Z,2,06:50,13:10,0,1,30.0,Minnesota Wild,MIN
+124,55,30,Seattle Kraken,Minnesota Wild,2022020224359,2022020224,Faceoff,359,FACEOFF,Frederick Gaudreau faceoff won against Alex Wennberg,2022-11-12T04:12:18Z,2,06:50,13:10,0,1,30.0,Minnesota Wild,MIN
+125,55,30,Seattle Kraken,Minnesota Wild,2022020224190,2022020224,Blocked Shot,190,BLOCKED_SHOT,Matt Dumba shot blocked shot by Yanni Gourde,2022-11-12T04:12:21Z,2,06:53,13:07,0,1,55.0,Seattle Kraken,SEA
+126,55,30,Seattle Kraken,Minnesota Wild,202202022439,2022020224,Stoppage,39,STOP,Puck in Netting,2022-11-12T04:12:41Z,2,07:13,12:47,0,1,,,
+127,55,30,Seattle Kraken,Minnesota Wild,2022020224191,2022020224,Blocked Shot,191,BLOCKED_SHOT,Yanni Gourde shot blocked shot by Matt Dumba,2022-11-12T04:12:41Z,2,07:13,12:47,0,1,30.0,Minnesota Wild,MIN
+128,55,30,Seattle Kraken,Minnesota Wild,2022020224360,2022020224,Faceoff,360,FACEOFF,Joel Eriksson Ek faceoff won against Jaden Schwartz,2022-11-12T04:15:01Z,2,07:13,12:47,0,1,30.0,Minnesota Wild,MIN
+129,55,30,Seattle Kraken,Minnesota Wild,2022020224361,2022020224,Hit,361,HIT,Marcus Foligno hit Will Borgen,2022-11-12T04:15:24Z,2,07:36,12:24,0,1,30.0,Minnesota Wild,MIN
+130,55,30,Seattle Kraken,Minnesota Wild,202202022440,2022020224,Stoppage,40,STOP,Icing,2022-11-12T04:15:28Z,2,07:40,12:20,0,1,,,
+131,55,30,Seattle Kraken,Minnesota Wild,2022020224362,2022020224,Faceoff,362,FACEOFF,Matty Beniers faceoff won against Frederick Gaudreau,2022-11-12T04:15:53Z,2,07:40,12:20,0,1,55.0,Seattle Kraken,SEA
+132,55,30,Seattle Kraken,Minnesota Wild,202202022441,2022020224,Stoppage,41,STOP,Icing,2022-11-12T04:15:59Z,2,07:47,12:13,0,1,,,
+133,55,30,Seattle Kraken,Minnesota Wild,2022020224363,2022020224,Faceoff,363,FACEOFF,Frederick Gaudreau faceoff won against Matty Beniers,2022-11-12T04:16:29Z,2,07:47,12:13,0,1,30.0,Minnesota Wild,MIN
+134,55,30,Seattle Kraken,Minnesota Wild,2022020224192,2022020224,Missed Shot,192,MISSED_SHOT,Jake Middleton Over Net Martin Jones,2022-11-12T04:16:35Z,2,07:53,12:07,0,1,30.0,Minnesota Wild,MIN
+135,55,30,Seattle Kraken,Minnesota Wild,202202022442,2022020224,Stoppage,42,STOP,Puck in Netting,2022-11-12T04:17:12Z,2,08:30,11:30,0,1,,,
+136,55,30,Seattle Kraken,Minnesota Wild,2022020224193,2022020224,Shot,193,SHOT,Vince Dunn Wrist Shot saved by Marc-Andre Fleury,2022-11-12T04:17:12Z,2,08:30,11:30,0,1,55.0,Seattle Kraken,SEA
+137,55,30,Seattle Kraken,Minnesota Wild,2022020224364,2022020224,Faceoff,364,FACEOFF,Sam Steel faceoff won against Alex Wennberg,2022-11-12T04:17:41Z,2,08:30,11:30,0,1,30.0,Minnesota Wild,MIN
+138,55,30,Seattle Kraken,Minnesota Wild,2022020224365,2022020224,Takeaway,365,TAKEAWAY,Takeaway by Alex Wennberg,2022-11-12T04:17:58Z,2,08:47,11:13,0,1,55.0,Seattle Kraken,SEA
+139,55,30,Seattle Kraken,Minnesota Wild,2022020224194,2022020224,Blocked Shot,194,BLOCKED_SHOT,Vince Dunn shot blocked shot by Joseph Cramarossa,2022-11-12T04:18:09Z,2,08:58,11:02,0,1,30.0,Minnesota Wild,MIN
+140,55,30,Seattle Kraken,Minnesota Wild,2022020224366,2022020224,Hit,366,HIT,Joseph Cramarossa hit Adam Larsson,2022-11-12T04:18:13Z,2,09:02,10:58,0,1,30.0,Minnesota Wild,MIN
+141,55,30,Seattle Kraken,Minnesota Wild,2022020224195,2022020224,Blocked Shot,195,BLOCKED_SHOT,Matt Dumba shot blocked shot by Andre Burakovsky,2022-11-12T04:18:26Z,2,09:15,10:45,0,1,55.0,Seattle Kraken,SEA
+142,55,30,Seattle Kraken,Minnesota Wild,2022020224196,2022020224,Shot,196,SHOT,Daniel Sprong Tip-In saved by Marc-Andre Fleury,2022-11-12T04:19:09Z,2,09:58,10:02,0,1,55.0,Seattle Kraken,SEA
+143,55,30,Seattle Kraken,Minnesota Wild,2022020224197,2022020224,Shot,197,SHOT,Mason Shaw Backhand saved by Martin Jones,2022-11-12T04:19:19Z,2,10:08,09:52,0,1,30.0,Minnesota Wild,MIN
+144,55,30,Seattle Kraken,Minnesota Wild,202202022443,2022020224,Blocked Shot,43,BLOCKED_SHOT,Will Borgen shot blocked shot by Connor Dewar,2022-11-12T04:19:33Z,2,10:22,09:38,0,1,30.0,Minnesota Wild,MIN
+145,55,30,Seattle Kraken,Minnesota Wild,2022020224198,2022020224,Stoppage,198,STOP,Puck in Netting,2022-11-12T04:19:35Z,2,10:23,09:37,0,1,,,
+146,55,30,Seattle Kraken,Minnesota Wild,2022020224368,2022020224,Faceoff,368,FACEOFF,Yanni Gourde faceoff won against Joel Eriksson Ek,2022-11-12T04:21:54Z,2,10:23,09:37,0,1,55.0,Seattle Kraken,SEA
+147,55,30,Seattle Kraken,Minnesota Wild,2022020224199,2022020224,Blocked Shot,199,BLOCKED_SHOT,Yanni Gourde shot blocked shot by Jared Spurgeon,2022-11-12T04:22:01Z,2,10:30,09:30,0,1,30.0,Minnesota Wild,MIN
+148,55,30,Seattle Kraken,Minnesota Wild,202202022444,2022020224,Stoppage,44,STOP,Goalie Stopped,2022-11-12T04:22:01Z,2,10:31,09:29,0,1,,,
+149,55,30,Seattle Kraken,Minnesota Wild,2022020224369,2022020224,Shot,369,SHOT,Yanni Gourde Wrist Shot saved by Marc-Andre Fleury,2022-11-12T04:22:01Z,2,10:31,09:29,0,1,55.0,Seattle Kraken,SEA
+150,55,30,Seattle Kraken,Minnesota Wild,2022020224370,2022020224,Faceoff,370,FACEOFF,Yanni Gourde faceoff won against Joel Eriksson Ek,2022-11-12T04:22:22Z,2,10:31,09:29,0,1,55.0,Seattle Kraken,SEA
+151,55,30,Seattle Kraken,Minnesota Wild,202202022445,2022020224,Stoppage,45,STOP,Puck Frozen,2022-11-12T04:22:26Z,2,10:35,09:25,0,1,,,
+152,55,30,Seattle Kraken,Minnesota Wild,2022020224401,2022020224,Missed Shot,401,MISSED_SHOT,Carson Soucy Over Net Marc-Andre Fleury,2022-11-12T04:22:26Z,2,10:35,09:25,0,1,55.0,Seattle Kraken,SEA
+153,55,30,Seattle Kraken,Minnesota Wild,2022020224372,2022020224,Faceoff,372,FACEOFF,Yanni Gourde faceoff won against Joel Eriksson Ek,2022-11-12T04:22:44Z,2,10:35,09:25,0,1,55.0,Seattle Kraken,SEA
+154,55,30,Seattle Kraken,Minnesota Wild,2022020224402,2022020224,Missed Shot,402,MISSED_SHOT,Brandon Tanev Wide of Net Marc-Andre Fleury,2022-11-12T04:22:53Z,2,10:44,09:16,0,1,55.0,Seattle Kraken,SEA
+155,55,30,Seattle Kraken,Minnesota Wild,2022020224403,2022020224,Shot,403,SHOT,Brandon Tanev Wrist Shot saved by Marc-Andre Fleury,2022-11-12T04:23:06Z,2,10:57,09:03,0,1,55.0,Seattle Kraken,SEA
+156,55,30,Seattle Kraken,Minnesota Wild,2022020224404,2022020224,Blocked Shot,404,BLOCKED_SHOT,Yanni Gourde shot blocked shot by Jared Spurgeon,2022-11-12T04:23:26Z,2,11:17,08:43,0,1,30.0,Minnesota Wild,MIN
+157,55,30,Seattle Kraken,Minnesota Wild,2022020224405,2022020224,Shot,405,SHOT,Frederick Gaudreau Snap Shot saved by Martin Jones,2022-11-12T04:23:52Z,2,11:43,08:17,0,1,30.0,Minnesota Wild,MIN
+158,55,30,Seattle Kraken,Minnesota Wild,2022020224406,2022020224,Shot,406,SHOT,Kirill Kaprizov Wrist Shot saved by Martin Jones,2022-11-12T04:24:03Z,2,11:55,08:05,0,1,30.0,Minnesota Wild,MIN
+159,55,30,Seattle Kraken,Minnesota Wild,2022020224574,2022020224,Penalty,574,PENALTY,Justin Schultz Hooking against Mats Zuccarello,2022-11-12T04:24:03Z,2,11:55,08:05,0,1,55.0,Seattle Kraken,SEA
+160,55,30,Seattle Kraken,Minnesota Wild,2022020224373,2022020224,Faceoff,373,FACEOFF,Joel Eriksson Ek faceoff won against Morgan Geekie,2022-11-12T04:24:56Z,2,11:55,08:05,0,1,30.0,Minnesota Wild,MIN
+161,55,30,Seattle Kraken,Minnesota Wild,2022020224408,2022020224,Shot,408,SHOT,Matt Boldy Wrist Shot saved by Martin Jones,2022-11-12T04:25:49Z,2,12:48,07:12,0,1,30.0,Minnesota Wild,MIN
+162,55,30,Seattle Kraken,Minnesota Wild,202202022447,2022020224,Missed Shot,47,MISSED_SHOT,Joel Eriksson Ek Wide of Net Martin Jones,2022-11-12T04:25:50Z,2,12:49,07:11,0,1,30.0,Minnesota Wild,MIN
+163,55,30,Seattle Kraken,Minnesota Wild,2022020224374,2022020224,Hit,374,HIT,Vince Dunn hit Kirill Kaprizov,2022-11-12T04:26:12Z,2,13:11,06:49,0,1,55.0,Seattle Kraken,SEA
+164,55,30,Seattle Kraken,Minnesota Wild,202202022448,2022020224,Stoppage,48,STOP,Goalie Stopped,2022-11-12T04:26:54Z,2,13:53,06:07,0,1,,,
+165,55,30,Seattle Kraken,Minnesota Wild,2022020224409,2022020224,Shot,409,SHOT,Calen Addison Snap Shot saved by Martin Jones,2022-11-12T04:26:54Z,2,13:53,06:07,0,1,30.0,Minnesota Wild,MIN
+166,55,30,Seattle Kraken,Minnesota Wild,2022020224375,2022020224,Faceoff,375,FACEOFF,Marco Rossi faceoff won against Morgan Geekie,2022-11-12T04:27:37Z,2,13:53,06:07,0,1,30.0,Minnesota Wild,MIN
+167,55,30,Seattle Kraken,Minnesota Wild,2022020224376,2022020224,Hit,376,HIT,Marcus Foligno hit Matty Beniers,2022-11-12T04:27:46Z,2,14:02,05:58,0,1,30.0,Minnesota Wild,MIN
+168,55,30,Seattle Kraken,Minnesota Wild,2022020224377,2022020224,Hit,377,HIT,Cale Fleury hit Matt Dumba,2022-11-12T04:28:33Z,2,14:49,05:11,0,1,55.0,Seattle Kraken,SEA
+169,55,30,Seattle Kraken,Minnesota Wild,2022020224410,2022020224,Missed Shot,410,MISSED_SHOT,Sam Steel Wide of Net Martin Jones,2022-11-12T04:28:54Z,2,15:10,04:50,0,1,30.0,Minnesota Wild,MIN
+170,55,30,Seattle Kraken,Minnesota Wild,2022020224411,2022020224,Stoppage,411,STOP,TV timeout,2022-11-12T04:28:55Z,2,15:11,04:49,0,1,,,
+171,55,30,Seattle Kraken,Minnesota Wild,2022020224599,2022020224,Penalty,599,PENALTY,Andre Burakovsky Hooking against Sam Steel,2022-11-12T04:28:55Z,2,15:11,04:49,0,1,55.0,Seattle Kraken,SEA
+172,55,30,Seattle Kraken,Minnesota Wild,2022020224378,2022020224,Faceoff,378,FACEOFF,Morgan Geekie faceoff won against Joel Eriksson Ek,2022-11-12T04:31:21Z,2,15:11,04:49,0,1,55.0,Seattle Kraken,SEA
+173,55,30,Seattle Kraken,Minnesota Wild,2022020224379,2022020224,Takeaway,379,TAKEAWAY,Takeaway by Morgan Geekie,2022-11-12T04:31:45Z,2,15:35,04:25,0,1,55.0,Seattle Kraken,SEA
+174,55,30,Seattle Kraken,Minnesota Wild,2022020224380,2022020224,Takeaway,380,TAKEAWAY,Takeaway by Yanni Gourde,2022-11-12T04:32:11Z,2,16:01,03:59,0,1,55.0,Seattle Kraken,SEA
+175,55,30,Seattle Kraken,Minnesota Wild,2022020224381,2022020224,Hit,381,HIT,Will Borgen hit Mats Zuccarello,2022-11-12T04:32:49Z,2,16:39,03:21,0,1,55.0,Seattle Kraken,SEA
+176,55,30,Seattle Kraken,Minnesota Wild,2022020224382,2022020224,Giveaway,382,GIVEAWAY,Giveaway by Mason Shaw,2022-11-12T04:34:00Z,2,17:50,02:10,0,1,30.0,Minnesota Wild,MIN
+177,55,30,Seattle Kraken,Minnesota Wild,2022020224412,2022020224,Shot,412,SHOT,Jordan Eberle Wrist Shot saved by Marc-Andre Fleury,2022-11-12T04:34:32Z,2,18:22,01:38,0,1,55.0,Seattle Kraken,SEA
+178,55,30,Seattle Kraken,Minnesota Wild,202202022449,2022020224,Stoppage,49,STOP,Goalie Stopped,2022-11-12T04:34:33Z,2,18:23,01:37,0,1,,,
+179,55,30,Seattle Kraken,Minnesota Wild,2022020224383,2022020224,Faceoff,383,FACEOFF,Marco Rossi faceoff won against Jaden Schwartz,2022-11-12T04:35:11Z,2,18:23,01:37,0,1,30.0,Minnesota Wild,MIN
+180,55,30,Seattle Kraken,Minnesota Wild,2022020224384,2022020224,Takeaway,384,TAKEAWAY,Takeaway by Matt Boldy,2022-11-12T04:36:10Z,2,19:22,00:38,0,1,30.0,Minnesota Wild,MIN
+181,55,30,Seattle Kraken,Minnesota Wild,2022020224413,2022020224,Missed Shot,413,MISSED_SHOT,Matt Boldy Wide of Net Martin Jones,2022-11-12T04:36:31Z,2,19:43,00:17,0,1,30.0,Minnesota Wild,MIN
+182,55,30,Seattle Kraken,Minnesota Wild,2022020224414,2022020224,Missed Shot,414,MISSED_SHOT,Alex Wennberg Wide of Net Marc-Andre Fleury,2022-11-12T04:36:46Z,2,19:58,00:02,0,1,55.0,Seattle Kraken,SEA
+183,55,30,Seattle Kraken,Minnesota Wild,2022020224451,2022020224,Period End,451,PERIOD_END,End of 2nd Period,2022-11-12T04:36:48Z,2,20:00,00:00,0,1,,,
+184,55,30,Seattle Kraken,Minnesota Wild,2022020224454,2022020224,Period Official,454,PERIOD_OFFICIAL,Period Official,2022-11-12T04:44:17Z,2,20:00,00:00,0,1,,,
+185,55,30,Seattle Kraken,Minnesota Wild,2022020224455,2022020224,Period Ready,455,PERIOD_READY,Period Ready,2022-11-12T04:53:21Z,3,00:00,20:00,0,1,,,
+186,55,30,Seattle Kraken,Minnesota Wild,2022020224385,2022020224,Period Start,385,PERIOD_START,Period Start,2022-11-12T04:55:48Z,3,00:00,20:00,0,1,,,
+187,55,30,Seattle Kraken,Minnesota Wild,2022020224386,2022020224,Faceoff,386,FACEOFF,Yanni Gourde faceoff won against Joel Eriksson Ek,2022-11-12T04:55:48Z,3,00:00,20:00,0,1,55.0,Seattle Kraken,SEA
+188,55,30,Seattle Kraken,Minnesota Wild,2022020224387,2022020224,Hit,387,HIT,Adam Larsson hit Marcus Foligno,2022-11-12T04:56:07Z,3,00:19,19:41,0,1,55.0,Seattle Kraken,SEA
+189,55,30,Seattle Kraken,Minnesota Wild,2022020224699,2022020224,Penalty,699,PENALTY,Joel Eriksson Ek Interference against Yanni Gourde,2022-11-12T04:56:09Z,3,00:21,19:39,0,1,30.0,Minnesota Wild,MIN
+190,55,30,Seattle Kraken,Minnesota Wild,2022020224388,2022020224,Faceoff,388,FACEOFF,Frederick Gaudreau faceoff won against Jaden Schwartz,2022-11-12T04:56:55Z,3,00:21,19:39,0,1,30.0,Minnesota Wild,MIN
+191,55,30,Seattle Kraken,Minnesota Wild,2022020224415,2022020224,Blocked Shot,415,BLOCKED_SHOT,Jordan Eberle shot blocked shot by Jonas Brodin,2022-11-12T04:57:23Z,3,00:49,19:11,0,1,30.0,Minnesota Wild,MIN
+192,55,30,Seattle Kraken,Minnesota Wild,2022020224389,2022020224,Takeaway,389,TAKEAWAY,Takeaway by Matty Beniers,2022-11-12T04:57:36Z,3,01:02,18:58,0,1,55.0,Seattle Kraken,SEA
+193,55,30,Seattle Kraken,Minnesota Wild,2022020224416,2022020224,Blocked Shot,416,BLOCKED_SHOT,Matty Beniers shot blocked shot by Jonas Brodin,2022-11-12T04:57:46Z,3,01:12,18:48,0,1,30.0,Minnesota Wild,MIN
+194,55,30,Seattle Kraken,Minnesota Wild,2022020224456,2022020224,Blocked Shot,456,BLOCKED_SHOT,Justin Schultz shot blocked shot by Frederick Gaudreau,2022-11-12T04:57:51Z,3,01:17,18:43,0,1,30.0,Minnesota Wild,MIN
+195,55,30,Seattle Kraken,Minnesota Wild,2022020224417,2022020224,Missed Shot,417,MISSED_SHOT,Jaden Schwartz Wide of Net Marc-Andre Fleury,2022-11-12T04:58:05Z,3,01:31,18:29,0,1,55.0,Seattle Kraken,SEA
+196,55,30,Seattle Kraken,Minnesota Wild,2022020224419,2022020224,Blocked Shot,419,BLOCKED_SHOT,Andre Burakovsky shot blocked shot by Jake Middleton,2022-11-12T04:58:32Z,3,01:58,18:02,0,1,30.0,Minnesota Wild,MIN
+197,55,30,Seattle Kraken,Minnesota Wild,2022020224420,2022020224,Shot,420,SHOT,Mason Shaw Wrist Shot saved by Martin Jones,2022-11-12T04:58:42Z,3,02:08,17:52,0,1,30.0,Minnesota Wild,MIN
+198,55,30,Seattle Kraken,Minnesota Wild,2022020224457,2022020224,Stoppage,457,STOP,Puck in Netting,2022-11-12T04:58:42Z,3,02:08,17:52,0,1,,,
+199,55,30,Seattle Kraken,Minnesota Wild,2022020224390,2022020224,Faceoff,390,FACEOFF,Yanni Gourde faceoff won against Mats Zuccarello,2022-11-12T04:59:26Z,3,02:08,17:52,0,1,55.0,Seattle Kraken,SEA
+200,55,30,Seattle Kraken,Minnesota Wild,2022020224391,2022020224,Takeaway,391,TAKEAWAY,Takeaway by Matt Boldy,2022-11-12T04:59:40Z,3,02:22,17:38,0,1,30.0,Minnesota Wild,MIN
+201,55,30,Seattle Kraken,Minnesota Wild,2022020224392,2022020224,Hit,392,HIT,Kirill Kaprizov hit Yanni Gourde,2022-11-12T05:00:11Z,3,02:53,17:07,0,1,30.0,Minnesota Wild,MIN
+202,55,30,Seattle Kraken,Minnesota Wild,2022020224421,2022020224,Shot,421,SHOT,Jonas Brodin Wrist Shot saved by Martin Jones,2022-11-12T05:00:26Z,3,03:08,16:52,0,1,30.0,Minnesota Wild,MIN
+203,55,30,Seattle Kraken,Minnesota Wild,2022020224393,2022020224,Hit,393,HIT,Andre Burakovsky hit Jake Middleton,2022-11-12T05:00:47Z,3,03:29,16:31,0,1,55.0,Seattle Kraken,SEA
+204,55,30,Seattle Kraken,Minnesota Wild,2022020224394,2022020224,Hit,394,HIT,Alex Wennberg hit Jake Middleton,2022-11-12T05:00:51Z,3,03:33,16:27,0,1,55.0,Seattle Kraken,SEA
+205,55,30,Seattle Kraken,Minnesota Wild,2022020224458,2022020224,Stoppage,458,STOP,Icing,2022-11-12T05:00:59Z,3,03:42,16:18,0,1,,,
+206,55,30,Seattle Kraken,Minnesota Wild,2022020224395,2022020224,Faceoff,395,FACEOFF,Matty Beniers faceoff won against Sam Steel,2022-11-12T05:01:29Z,3,03:42,16:18,0,1,55.0,Seattle Kraken,SEA
+207,55,30,Seattle Kraken,Minnesota Wild,2022020224422,2022020224,Shot,422,SHOT,Vince Dunn Tip-In saved by Marc-Andre Fleury,2022-11-12T05:01:34Z,3,03:47,16:13,0,1,55.0,Seattle Kraken,SEA
+208,55,30,Seattle Kraken,Minnesota Wild,2022020224396,2022020224,Takeaway,396,TAKEAWAY,Takeaway by Jaden Schwartz,2022-11-12T05:01:41Z,3,03:54,16:06,0,1,55.0,Seattle Kraken,SEA
+209,55,30,Seattle Kraken,Minnesota Wild,2022020224423,2022020224,Missed Shot,423,MISSED_SHOT,Jaden Schwartz Wide of Net Marc-Andre Fleury,2022-11-12T05:01:43Z,3,03:56,16:04,0,1,55.0,Seattle Kraken,SEA
+210,55,30,Seattle Kraken,Minnesota Wild,2022020224424,2022020224,Shot,424,SHOT,Jaden Schwartz Wrist Shot saved by Marc-Andre Fleury,2022-11-12T05:01:59Z,3,04:12,15:48,0,1,55.0,Seattle Kraken,SEA
+211,55,30,Seattle Kraken,Minnesota Wild,2022020224459,2022020224,Stoppage,459,STOP,Icing,2022-11-12T05:02:05Z,3,04:19,15:41,0,1,,,
+212,55,30,Seattle Kraken,Minnesota Wild,2022020224397,2022020224,Faceoff,397,FACEOFF,Alex Wennberg faceoff won against Marco Rossi,2022-11-12T05:02:32Z,3,04:19,15:41,0,1,55.0,Seattle Kraken,SEA
+213,55,30,Seattle Kraken,Minnesota Wild,2022020224425,2022020224,Blocked Shot,425,BLOCKED_SHOT,Andre Burakovsky shot blocked shot by Marco Rossi,2022-11-12T05:02:40Z,3,04:27,15:33,0,1,30.0,Minnesota Wild,MIN
+214,55,30,Seattle Kraken,Minnesota Wild,2022020224460,2022020224,Stoppage,460,STOP,Puck in Crowd,2022-11-12T05:02:48Z,3,04:35,15:25,0,1,,,
+215,55,30,Seattle Kraken,Minnesota Wild,2022020224398,2022020224,Faceoff,398,FACEOFF,Ryan Donato faceoff won against Joel Eriksson Ek,2022-11-12T05:04:31Z,3,04:35,15:25,0,1,55.0,Seattle Kraken,SEA
+216,55,30,Seattle Kraken,Minnesota Wild,2022020224426,2022020224,Shot,426,SHOT,Matt Boldy Wrist Shot saved by Martin Jones,2022-11-12T05:04:42Z,3,04:46,15:14,0,1,30.0,Minnesota Wild,MIN
+217,55,30,Seattle Kraken,Minnesota Wild,2022020224399,2022020224,Giveaway,399,GIVEAWAY,Giveaway by Daniel Sprong,2022-11-12T05:04:57Z,3,05:01,14:59,0,1,55.0,Seattle Kraken,SEA
+218,55,30,Seattle Kraken,Minnesota Wild,2022020224427,2022020224,Shot,427,SHOT,Jonas Brodin Wrist Shot saved by Martin Jones,2022-11-12T05:04:58Z,3,05:02,14:58,0,1,30.0,Minnesota Wild,MIN
+219,55,30,Seattle Kraken,Minnesota Wild,2022020224461,2022020224,Stoppage,461,STOP,Goalie Stopped,2022-11-12T05:05:00Z,3,05:03,14:57,0,1,,,
+220,55,30,Seattle Kraken,Minnesota Wild,2022020224400,2022020224,Faceoff,400,FACEOFF,Yanni Gourde faceoff won against Frederick Gaudreau,2022-11-12T05:05:30Z,3,05:03,14:57,0,1,55.0,Seattle Kraken,SEA
+221,55,30,Seattle Kraken,Minnesota Wild,2022020224601,2022020224,Hit,601,HIT,Vince Dunn hit Kirill Kaprizov,2022-11-12T05:05:36Z,3,05:09,14:51,0,1,55.0,Seattle Kraken,SEA
+222,55,30,Seattle Kraken,Minnesota Wild,2022020224602,2022020224,Takeaway,602,TAKEAWAY,Takeaway by Yanni Gourde,2022-11-12T05:05:52Z,3,05:25,14:35,0,1,55.0,Seattle Kraken,SEA
+223,55,30,Seattle Kraken,Minnesota Wild,2022020224428,2022020224,Blocked Shot,428,BLOCKED_SHOT,Yanni Gourde shot blocked shot by Jake Middleton,2022-11-12T05:05:55Z,3,05:28,14:32,0,1,30.0,Minnesota Wild,MIN
+224,55,30,Seattle Kraken,Minnesota Wild,2022020224462,2022020224,Blocked Shot,462,BLOCKED_SHOT,Vince Dunn shot blocked shot by Frederick Gaudreau,2022-11-12T05:06:02Z,3,05:35,14:25,0,1,30.0,Minnesota Wild,MIN
+225,55,30,Seattle Kraken,Minnesota Wild,2022020224463,2022020224,Stoppage,463,STOP,Icing,2022-11-12T05:06:07Z,3,05:40,14:20,0,1,,,
+226,55,30,Seattle Kraken,Minnesota Wild,2022020224603,2022020224,Faceoff,603,FACEOFF,Sam Steel faceoff won against Matty Beniers,2022-11-12T05:06:35Z,3,05:40,14:20,0,1,30.0,Minnesota Wild,MIN
+227,55,30,Seattle Kraken,Minnesota Wild,2022020224604,2022020224,Hit,604,HIT,Adam Larsson hit Kirill Kaprizov,2022-11-12T05:06:43Z,3,05:48,14:12,0,1,55.0,Seattle Kraken,SEA
+228,55,30,Seattle Kraken,Minnesota Wild,2022020224605,2022020224,Hit,605,HIT,Matty Beniers hit Sam Steel,2022-11-12T05:06:51Z,3,05:56,14:04,0,1,55.0,Seattle Kraken,SEA
+229,55,30,Seattle Kraken,Minnesota Wild,2022020224429,2022020224,Blocked Shot,429,BLOCKED_SHOT,Adam Larsson shot blocked shot by Connor Dewar,2022-11-12T05:07:04Z,3,06:09,13:51,0,1,30.0,Minnesota Wild,MIN
+230,55,30,Seattle Kraken,Minnesota Wild,2022020224464,2022020224,Stoppage,464,STOP,Puck in Netting,2022-11-12T05:07:05Z,3,06:10,13:50,0,1,,,
+231,55,30,Seattle Kraken,Minnesota Wild,2022020224606,2022020224,Faceoff,606,FACEOFF,Mason Shaw faceoff won against Oliver Bjorkstrand,2022-11-12T05:09:56Z,3,06:10,13:50,0,1,30.0,Minnesota Wild,MIN
+232,55,30,Seattle Kraken,Minnesota Wild,2022020224607,2022020224,Takeaway,607,TAKEAWAY,Takeaway by Adam Larsson,2022-11-12T05:10:29Z,3,06:43,13:17,0,1,55.0,Seattle Kraken,SEA
+233,55,30,Seattle Kraken,Minnesota Wild,2022020224430,2022020224,Shot,430,SHOT,Justin Schultz Tip-In saved by Marc-Andre Fleury,2022-11-12T05:10:37Z,3,06:51,13:09,0,1,55.0,Seattle Kraken,SEA
+234,55,30,Seattle Kraken,Minnesota Wild,2022020224608,2022020224,Hit,608,HIT,Calen Addison hit Cale Fleury,2022-11-12T05:11:31Z,3,07:45,12:15,0,1,30.0,Minnesota Wild,MIN
+235,55,30,Seattle Kraken,Minnesota Wild,2022020224465,2022020224,Takeaway,465,TAKEAWAY,Takeaway by Matt Boldy,2022-11-12T05:11:34Z,3,07:48,12:12,0,1,30.0,Minnesota Wild,MIN
+236,55,30,Seattle Kraken,Minnesota Wild,2022020224466,2022020224,Stoppage,466,STOP,Puck in Netting,2022-11-12T05:11:52Z,3,08:06,11:54,0,1,,,
+237,55,30,Seattle Kraken,Minnesota Wild,2022020224611,2022020224,Faceoff,611,FACEOFF,Matty Beniers faceoff won against Frederick Gaudreau,2022-11-12T05:12:27Z,3,08:06,11:54,0,1,55.0,Seattle Kraken,SEA
+238,55,30,Seattle Kraken,Minnesota Wild,2022020224612,2022020224,Takeaway,612,TAKEAWAY,Takeaway by Kirill Kaprizov,2022-11-12T05:12:34Z,3,08:13,11:47,0,1,30.0,Minnesota Wild,MIN
+239,55,30,Seattle Kraken,Minnesota Wild,2022020224431,2022020224,Missed Shot,431,MISSED_SHOT,Kirill Kaprizov Wide of Net Martin Jones,2022-11-12T05:12:39Z,3,08:18,11:42,0,1,30.0,Minnesota Wild,MIN
+240,55,30,Seattle Kraken,Minnesota Wild,2022020224432,2022020224,Missed Shot,432,MISSED_SHOT,Daniel Sprong Wide of Net Marc-Andre Fleury,2022-11-12T05:13:15Z,3,08:54,11:06,0,1,55.0,Seattle Kraken,SEA
+241,55,30,Seattle Kraken,Minnesota Wild,2022020224613,2022020224,Hit,613,HIT,Carson Soucy hit Joseph Cramarossa,2022-11-12T05:13:30Z,3,09:09,10:51,0,1,55.0,Seattle Kraken,SEA
+242,55,30,Seattle Kraken,Minnesota Wild,2022020224614,2022020224,Hit,614,HIT,Joseph Cramarossa hit Carson Soucy,2022-11-12T05:13:40Z,3,09:19,10:41,0,1,30.0,Minnesota Wild,MIN
+243,55,30,Seattle Kraken,Minnesota Wild,2022020224433,2022020224,Shot,433,SHOT,Oliver Bjorkstrand Wrist Shot saved by Marc-Andre Fleury,2022-11-12T05:14:13Z,3,09:52,10:08,0,1,55.0,Seattle Kraken,SEA
+244,55,30,Seattle Kraken,Minnesota Wild,2022020224615,2022020224,Takeaway,615,TAKEAWAY,Takeaway by Oliver Bjorkstrand,2022-11-12T05:14:14Z,3,09:52,10:08,0,1,55.0,Seattle Kraken,SEA
+245,55,30,Seattle Kraken,Minnesota Wild,2022020224434,2022020224,Shot,434,SHOT,Adam Larsson Wrist Shot saved by Marc-Andre Fleury,2022-11-12T05:14:26Z,3,10:05,09:55,0,1,55.0,Seattle Kraken,SEA
+246,55,30,Seattle Kraken,Minnesota Wild,2022020224616,2022020224,Hit,616,HIT,Brandon Tanev hit Joel Eriksson Ek,2022-11-12T05:14:49Z,3,10:28,09:32,0,1,55.0,Seattle Kraken,SEA
+247,55,30,Seattle Kraken,Minnesota Wild,2022020224435,2022020224,Blocked Shot,435,BLOCKED_SHOT,Connor Dewar shot blocked shot by Adam Larsson,2022-11-12T05:14:54Z,3,10:33,09:27,0,1,55.0,Seattle Kraken,SEA
+248,55,30,Seattle Kraken,Minnesota Wild,2022020224436,2022020224,Shot,436,SHOT,Yanni Gourde Backhand saved by Marc-Andre Fleury,2022-11-12T05:15:06Z,3,10:45,09:15,0,1,55.0,Seattle Kraken,SEA
+249,55,30,Seattle Kraken,Minnesota Wild,2022020224617,2022020224,Hit,617,HIT,Jake Middleton hit Yanni Gourde,2022-11-12T05:15:08Z,3,10:47,09:13,0,1,30.0,Minnesota Wild,MIN
+250,55,30,Seattle Kraken,Minnesota Wild,2022020224618,2022020224,Giveaway,618,GIVEAWAY,Giveaway by Vince Dunn,2022-11-12T05:15:42Z,3,11:21,08:39,0,1,55.0,Seattle Kraken,SEA
+251,55,30,Seattle Kraken,Minnesota Wild,2022020224619,2022020224,Giveaway,619,GIVEAWAY,Giveaway by Adam Larsson,2022-11-12T05:15:43Z,3,11:22,08:38,0,1,55.0,Seattle Kraken,SEA
+252,55,30,Seattle Kraken,Minnesota Wild,2022020224437,2022020224,Stoppage,437,STOP,Offside,2022-11-12T05:15:45Z,3,11:23,08:37,0,1,,,
+253,55,30,Seattle Kraken,Minnesota Wild,2022020224620,2022020224,Faceoff,620,FACEOFF,Matty Beniers faceoff won against Frederick Gaudreau,2022-11-12T05:18:14Z,3,11:23,08:37,0,1,55.0,Seattle Kraken,SEA
+254,55,30,Seattle Kraken,Minnesota Wild,2022020224621,2022020224,Takeaway,621,TAKEAWAY,Takeaway by Jaden Schwartz,2022-11-12T05:18:38Z,3,11:47,08:13,0,1,55.0,Seattle Kraken,SEA
+255,55,30,Seattle Kraken,Minnesota Wild,2022020224438,2022020224,Missed Shot,438,MISSED_SHOT,Andre Burakovsky Over Net Marc-Andre Fleury,2022-11-12T05:18:58Z,3,12:07,07:53,0,1,55.0,Seattle Kraken,SEA
+256,55,30,Seattle Kraken,Minnesota Wild,2022020224622,2022020224,Hit,622,HIT,Matt Boldy hit Andre Burakovsky,2022-11-12T05:19:29Z,3,12:38,07:22,0,1,30.0,Minnesota Wild,MIN
+257,55,30,Seattle Kraken,Minnesota Wild,2022020224467,2022020224,Hit,467,HIT,Oliver Bjorkstrand hit Jake Middleton,2022-11-12T05:19:32Z,3,12:41,07:19,0,1,55.0,Seattle Kraken,SEA
+258,55,30,Seattle Kraken,Minnesota Wild,2022020224623,2022020224,Hit,623,HIT,Vince Dunn hit Marcus Foligno,2022-11-12T05:19:37Z,3,12:46,07:14,0,1,55.0,Seattle Kraken,SEA
+259,55,30,Seattle Kraken,Minnesota Wild,2022020224624,2022020224,Hit,624,HIT,Will Borgen hit Connor Dewar,2022-11-12T05:20:33Z,3,13:42,06:18,0,1,55.0,Seattle Kraken,SEA
+260,55,30,Seattle Kraken,Minnesota Wild,2022020224439,2022020224,Shot,439,SHOT,Mason Shaw Slap Shot saved by Martin Jones,2022-11-12T05:20:37Z,3,13:46,06:14,0,1,30.0,Minnesota Wild,MIN
+261,55,30,Seattle Kraken,Minnesota Wild,2022020224468,2022020224,Stoppage,468,STOP,Goalie Stopped,2022-11-12T05:20:37Z,3,13:46,06:14,0,1,,,
+262,55,30,Seattle Kraken,Minnesota Wild,2022020224625,2022020224,Faceoff,625,FACEOFF,Frederick Gaudreau faceoff won against Alex Wennberg,2022-11-12T05:21:33Z,3,13:46,06:14,0,1,30.0,Minnesota Wild,MIN
+263,55,30,Seattle Kraken,Minnesota Wild,2022020224626,2022020224,Takeaway,626,TAKEAWAY,Takeaway by Kirill Kaprizov,2022-11-12T05:21:46Z,3,13:59,06:01,0,1,30.0,Minnesota Wild,MIN
+264,55,30,Seattle Kraken,Minnesota Wild,2022020224627,2022020224,Hit,627,HIT,Adam Larsson hit Kirill Kaprizov,2022-11-12T05:22:03Z,3,14:16,05:44,0,1,55.0,Seattle Kraken,SEA
+265,55,30,Seattle Kraken,Minnesota Wild,2022020224628,2022020224,Giveaway,628,GIVEAWAY,Giveaway by Marc-Andre Fleury,2022-11-12T05:22:13Z,3,14:26,05:34,0,1,30.0,Minnesota Wild,MIN
+266,55,30,Seattle Kraken,Minnesota Wild,2022020224440,2022020224,Shot,440,SHOT,Justin Schultz Slap Shot saved by Marc-Andre Fleury,2022-11-12T05:22:39Z,3,14:52,05:08,0,1,55.0,Seattle Kraken,SEA
+267,55,30,Seattle Kraken,Minnesota Wild,2022020224469,2022020224,Stoppage,469,STOP,Puck in Netting,2022-11-12T05:22:41Z,3,14:54,05:06,0,1,,,
+268,55,30,Seattle Kraken,Minnesota Wild,2022020224629,2022020224,Faceoff,629,FACEOFF,Sam Steel faceoff won against Matty Beniers,2022-11-12T05:24:57Z,3,14:54,05:06,0,1,30.0,Minnesota Wild,MIN
+269,55,30,Seattle Kraken,Minnesota Wild,2022020224630,2022020224,Hit,630,HIT,Matt Boldy hit Jaden Schwartz,2022-11-12T05:25:14Z,3,15:11,04:49,0,1,30.0,Minnesota Wild,MIN
+270,55,30,Seattle Kraken,Minnesota Wild,2022020224441,2022020224,Blocked Shot,441,BLOCKED_SHOT,Joel Eriksson Ek shot blocked shot by Carson Soucy,2022-11-12T05:25:33Z,3,15:30,04:30,0,1,55.0,Seattle Kraken,SEA
+271,55,30,Seattle Kraken,Minnesota Wild,2022020224631,2022020224,Hit,631,HIT,Jake Middleton hit Alex Wennberg,2022-11-12T05:26:00Z,3,15:57,04:03,0,1,30.0,Minnesota Wild,MIN
+272,55,30,Seattle Kraken,Minnesota Wild,2022020224442,2022020224,Shot,442,SHOT,Marco Rossi Snap Shot saved by Martin Jones,2022-11-12T05:26:17Z,3,16:14,03:46,0,1,30.0,Minnesota Wild,MIN
+273,55,30,Seattle Kraken,Minnesota Wild,2022020224443,2022020224,Shot,443,SHOT,Adam Larsson Wrist Shot saved by Marc-Andre Fleury,2022-11-12T05:26:33Z,3,16:30,03:30,0,1,55.0,Seattle Kraken,SEA
+274,55,30,Seattle Kraken,Minnesota Wild,2022020224470,2022020224,Stoppage,470,STOP,Puck in Benches,2022-11-12T05:26:56Z,3,16:53,03:07,0,1,,,
+275,55,30,Seattle Kraken,Minnesota Wild,2022020224633,2022020224,Faceoff,633,FACEOFF,Frederick Gaudreau faceoff won against Yanni Gourde,2022-11-12T05:27:24Z,3,16:53,03:07,0,1,30.0,Minnesota Wild,MIN
+276,55,30,Seattle Kraken,Minnesota Wild,2022020224634,2022020224,Giveaway,634,GIVEAWAY,Giveaway by Will Borgen,2022-11-12T05:27:35Z,3,17:04,02:56,0,1,55.0,Seattle Kraken,SEA
+277,55,30,Seattle Kraken,Minnesota Wild,2022020224444,2022020224,Blocked Shot,444,BLOCKED_SHOT,Adam Larsson shot blocked shot by Joel Eriksson Ek,2022-11-12T05:28:01Z,3,17:30,02:30,0,1,30.0,Minnesota Wild,MIN
+278,55,30,Seattle Kraken,Minnesota Wild,2022020224445,2022020224,Shot,445,SHOT,Daniel Sprong Wrist Shot saved by Marc-Andre Fleury,2022-11-12T05:28:22Z,3,17:51,02:09,0,1,55.0,Seattle Kraken,SEA
+279,55,30,Seattle Kraken,Minnesota Wild,2022020224471,2022020224,Stoppage,471,STOP,Goalie Stopped,2022-11-12T05:28:23Z,3,17:52,02:08,0,1,,,
+280,55,30,Seattle Kraken,Minnesota Wild,2022020224635,2022020224,Faceoff,635,FACEOFF,Matty Beniers faceoff won against Sam Steel,2022-11-12T05:28:59Z,3,17:52,02:08,0,1,55.0,Seattle Kraken,SEA
+281,55,30,Seattle Kraken,Minnesota Wild,2022020224446,2022020224,Blocked Shot,446,BLOCKED_SHOT,Jordan Eberle shot blocked shot by Jared Spurgeon,2022-11-12T05:29:42Z,3,18:35,01:25,0,1,30.0,Minnesota Wild,MIN
+282,55,30,Seattle Kraken,Minnesota Wild,2022020224472,2022020224,Stoppage,472,STOP,Icing,2022-11-12T05:29:56Z,3,18:49,01:11,0,1,,,
+283,55,30,Seattle Kraken,Minnesota Wild,2022020224636,2022020224,Faceoff,636,FACEOFF,Matty Beniers faceoff won against Sam Steel,2022-11-12T05:30:37Z,3,18:49,01:11,0,1,55.0,Seattle Kraken,SEA
+284,55,30,Seattle Kraken,Minnesota Wild,2022020224447,2022020224,Shot,447,SHOT,Jordan Eberle Wrist Shot saved by Marc-Andre Fleury,2022-11-12T05:31:06Z,3,19:18,00:42,0,1,55.0,Seattle Kraken,SEA
+285,55,30,Seattle Kraken,Minnesota Wild,2022020224637,2022020224,Hit,637,HIT,Jake Middleton hit Yanni Gourde,2022-11-12T05:31:35Z,3,19:47,00:13,0,1,30.0,Minnesota Wild,MIN
+286,55,30,Seattle Kraken,Minnesota Wild,2022020224448,2022020224,Shot,448,SHOT,Oliver Bjorkstrand Wrist Shot saved by Marc-Andre Fleury,2022-11-12T05:31:45Z,3,19:57,00:03,0,1,55.0,Seattle Kraken,SEA
+287,55,30,Seattle Kraken,Minnesota Wild,2022020224638,2022020224,Shot,638,SHOT,Yanni Gourde Wrist Shot saved by Marc-Andre Fleury,2022-11-12T05:31:46Z,3,19:58,00:02,0,1,55.0,Seattle Kraken,SEA
+288,55,30,Seattle Kraken,Minnesota Wild,2022020224474,2022020224,Shot,474,SHOT,Oliver Bjorkstrand Wrist Shot saved by Marc-Andre Fleury,2022-11-12T05:31:47Z,3,19:59,00:01,0,1,55.0,Seattle Kraken,SEA
+289,55,30,Seattle Kraken,Minnesota Wild,2022020224639,2022020224,Shot,639,SHOT,Yanni Gourde Wrist Shot saved by Marc-Andre Fleury,2022-11-12T05:31:47Z,3,19:59,00:01,0,1,55.0,Seattle Kraken,SEA
+290,55,30,Seattle Kraken,Minnesota Wild,2022020224475,2022020224,Period End,475,PERIOD_END,End of 3rd Period,2022-11-12T05:31:48Z,3,20:00,00:00,0,1,,,
+291,55,30,Seattle Kraken,Minnesota Wild,2022020224478,2022020224,Period Official,478,PERIOD_OFFICIAL,Period Official,2022-11-12T05:32:27Z,3,20:00,00:00,0,1,,,
+292,55,30,Seattle Kraken,Minnesota Wild,2022020224479,2022020224,Game End,479,GAME_END,Game End,2022-11-12T05:32:30Z,3,20:00,00:00,0,1,,,
+293,55,30,Seattle Kraken,Minnesota Wild,2022020224480,2022020224,Game Official,480,GAME_OFFICIAL,Game Official,2022-11-12T05:43:57Z,3,20:00,00:00,0,1,,,

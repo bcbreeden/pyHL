@@ -1,0 +1,335 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,29,26,Columbus Blue Jackets,Los Angeles Kings,20220204431,2022020443,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-12-11T22:11:05Z,1,00:00,20:00,0,0,,,
+1,29,26,Columbus Blue Jackets,Los Angeles Kings,20220204435,2022020443,Period Ready,5,PERIOD_READY,Period Ready,2022-12-11T23:08:03Z,1,00:00,20:00,0,0,,,
+2,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044351,2022020443,Period Start,51,PERIOD_START,Period Start,2022-12-11T23:08:56Z,1,00:00,20:00,0,0,,,
+3,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044352,2022020443,Faceoff,52,FACEOFF,Phillip Danault faceoff won against Jack Roslovic,2022-12-11T23:08:56Z,1,00:00,20:00,0,0,26.0,Los Angeles Kings,LAK
+4,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443151,2022020443,Shot,151,SHOT,Trevor Moore Snap Shot saved by Elvis Merzlikins,2022-12-11T23:09:05Z,1,00:09,19:51,0,0,26.0,Los Angeles Kings,LAK
+5,29,26,Columbus Blue Jackets,Los Angeles Kings,20220204438,2022020443,Hit,8,HIT,Marcus Bjork hit Trevor Moore,2022-12-11T23:09:29Z,1,00:33,19:27,0,0,29.0,Columbus Blue Jackets,CBJ
+6,29,26,Columbus Blue Jackets,Los Angeles Kings,20220204439,2022020443,Stoppage,9,STOP,Puck in Benches,2022-12-11T23:09:45Z,1,00:49,19:11,0,0,,,
+7,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044353,2022020443,Faceoff,53,FACEOFF,Boone Jenner faceoff won against Anze Kopitar,2022-12-11T23:10:07Z,1,00:49,19:11,0,0,29.0,Columbus Blue Jackets,CBJ
+8,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044310,2022020443,Stoppage,10,STOP,Icing,2022-12-11T23:10:13Z,1,00:56,19:04,0,0,,,
+9,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044354,2022020443,Faceoff,54,FACEOFF,Boone Jenner faceoff won against Anze Kopitar,2022-12-11T23:10:35Z,1,00:56,19:04,0,0,29.0,Columbus Blue Jackets,CBJ
+10,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044355,2022020443,Takeaway,55,TAKEAWAY,Takeaway by Boone Jenner,2022-12-11T23:10:52Z,1,01:13,18:47,0,0,29.0,Columbus Blue Jackets,CBJ
+11,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443152,2022020443,Missed Shot,152,MISSED_SHOT,Vladislav Gavrikov Wide of Net Jonathan Quick,2022-12-11T23:10:57Z,1,01:18,18:42,0,0,29.0,Columbus Blue Jackets,CBJ
+12,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044356,2022020443,Takeaway,56,TAKEAWAY,Takeaway by Vladislav Gavrikov,2022-12-11T23:11:18Z,1,01:39,18:21,0,0,29.0,Columbus Blue Jackets,CBJ
+13,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443153,2022020443,Missed Shot,153,MISSED_SHOT,Adrian Kempe Over Net Elvis Merzlikins,2022-12-11T23:11:28Z,1,01:49,18:11,0,0,26.0,Los Angeles Kings,LAK
+14,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044311,2022020443,Hit,11,HIT,Gustav Nyquist hit Gabriel Vilardi,2022-12-11T23:11:30Z,1,01:51,18:09,0,0,29.0,Columbus Blue Jackets,CBJ
+15,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443154,2022020443,Shot,154,SHOT,Gabriel Vilardi Deflected saved by Elvis Merzlikins,2022-12-11T23:11:54Z,1,02:15,17:45,0,0,26.0,Los Angeles Kings,LAK
+16,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443155,2022020443,Shot,155,SHOT,Gabriel Vilardi Snap Shot saved by Elvis Merzlikins,2022-12-11T23:11:55Z,1,02:16,17:44,0,0,26.0,Los Angeles Kings,LAK
+17,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044312,2022020443,Stoppage,12,STOP,Icing,2022-12-11T23:12:00Z,1,02:21,17:39,0,0,,,
+18,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044357,2022020443,Faceoff,57,FACEOFF,Blake Lizotte faceoff won against Cole Sillinger,2022-12-11T23:12:21Z,1,02:21,17:39,0,0,26.0,Los Angeles Kings,LAK
+19,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044313,2022020443,Hit,13,HIT,Carl Grundstrom hit Jake Christiansen,2022-12-11T23:12:53Z,1,02:53,17:07,0,0,26.0,Los Angeles Kings,LAK
+20,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443156,2022020443,Shot,156,SHOT,Sean Kuraly Snap Shot saved by Jonathan Quick,2022-12-11T23:13:01Z,1,03:01,16:59,0,0,29.0,Columbus Blue Jackets,CBJ
+21,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443157,2022020443,Missed Shot,157,MISSED_SHOT,Jake Christiansen Wide of Net Jonathan Quick,2022-12-11T23:13:07Z,1,03:07,16:53,0,0,29.0,Columbus Blue Jackets,CBJ
+22,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044314,2022020443,Stoppage,14,STOP,Puck Frozen,2022-12-11T23:13:09Z,1,03:09,16:51,0,0,,,
+23,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044358,2022020443,Faceoff,58,FACEOFF,Gabriel Vilardi faceoff won against Sean Kuraly,2022-12-11T23:13:37Z,1,03:09,16:51,0,0,26.0,Los Angeles Kings,LAK
+24,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044315,2022020443,Hit,15,HIT,Mathieu Olivier hit Alexander Edler,2022-12-11T23:13:44Z,1,03:16,16:44,0,0,29.0,Columbus Blue Jackets,CBJ
+25,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044316,2022020443,Hit,16,HIT,Alexander Edler hit Mathieu Olivier,2022-12-11T23:14:05Z,1,03:37,16:23,0,0,26.0,Los Angeles Kings,LAK
+26,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443158,2022020443,Shot,158,SHOT,Alexander Edler Snap Shot saved by Elvis Merzlikins,2022-12-11T23:14:13Z,1,03:45,16:15,0,0,26.0,Los Angeles Kings,LAK
+27,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044359,2022020443,Giveaway,59,GIVEAWAY,Giveaway by Eric Robinson,2022-12-11T23:14:26Z,1,03:58,16:02,0,0,29.0,Columbus Blue Jackets,CBJ
+28,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044317,2022020443,Hit,17,HIT,Erik Gudbranson hit Trevor Moore,2022-12-11T23:14:32Z,1,04:04,15:56,0,0,29.0,Columbus Blue Jackets,CBJ
+29,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443159,2022020443,Shot,159,SHOT,Yegor Chinakhov Backhand saved by Jonathan Quick,2022-12-11T23:14:44Z,1,04:16,15:44,0,0,29.0,Columbus Blue Jackets,CBJ
+30,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443160,2022020443,Blocked Shot,160,BLOCKED_SHOT,Patrik Laine shot blocked shot by Trevor Moore,2022-12-11T23:14:55Z,1,04:27,15:33,0,0,26.0,Los Angeles Kings,LAK
+31,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044360,2022020443,Takeaway,60,TAKEAWAY,Takeaway by Jake Christiansen,2022-12-11T23:15:02Z,1,04:34,15:26,0,0,29.0,Columbus Blue Jackets,CBJ
+32,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044318,2022020443,Stoppage,18,STOP,Puck in Netting,2022-12-11T23:16:34Z,1,06:07,13:53,0,0,,,
+33,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443161,2022020443,Blocked Shot,161,BLOCKED_SHOT,Tobias Bjornfot shot blocked shot by Erik Gudbranson,2022-12-11T23:16:34Z,1,06:07,13:53,0,0,29.0,Columbus Blue Jackets,CBJ
+34,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044361,2022020443,Faceoff,61,FACEOFF,Sean Kuraly faceoff won against Phillip Danault,2022-12-11T23:18:45Z,1,06:07,13:53,0,0,29.0,Columbus Blue Jackets,CBJ
+35,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044319,2022020443,Stoppage,19,STOP,Puck in Benches,2022-12-11T23:18:55Z,1,06:16,13:44,0,0,,,
+36,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044362,2022020443,Faceoff,62,FACEOFF,Blake Lizotte faceoff won against Cole Sillinger,2022-12-11T23:19:20Z,1,06:16,13:44,0,0,26.0,Los Angeles Kings,LAK
+37,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044320,2022020443,Hit,20,HIT,Andrew Peeke hit Blake Lizotte,2022-12-11T23:19:34Z,1,06:30,13:30,0,0,29.0,Columbus Blue Jackets,CBJ
+38,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044363,2022020443,Takeaway,63,TAKEAWAY,Takeaway by Kent Johnson,2022-12-11T23:19:43Z,1,06:39,13:21,0,0,29.0,Columbus Blue Jackets,CBJ
+39,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443162,2022020443,Goal,162,GOAL,"Kirill Marchenko (1) Wrist Shot, assists: Kent Johnson (8)",2022-12-11T23:19:48Z,1,06:44,13:16,1,0,29.0,Columbus Blue Jackets,CBJ
+40,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044364,2022020443,Faceoff,64,FACEOFF,Boone Jenner faceoff won against Anze Kopitar,2022-12-11T23:20:32Z,1,06:44,13:16,1,0,29.0,Columbus Blue Jackets,CBJ
+41,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443163,2022020443,Missed Shot,163,MISSED_SHOT,Johnny Gaudreau Over Net Jonathan Quick,2022-12-11T23:20:42Z,1,06:54,13:06,1,0,29.0,Columbus Blue Jackets,CBJ
+42,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044321,2022020443,Hit,21,HIT,Kevin Fiala hit Marcus Bjork,2022-12-11T23:20:48Z,1,07:00,13:00,1,0,26.0,Los Angeles Kings,LAK
+43,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443164,2022020443,Missed Shot,164,MISSED_SHOT,Arthur Kaliyev Wide of Net Elvis Merzlikins,2022-12-11T23:21:08Z,1,07:20,12:40,1,0,26.0,Los Angeles Kings,LAK
+44,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044322,2022020443,Hit,22,HIT,Phillip Danault hit Erik Gudbranson,2022-12-11T23:21:38Z,1,07:50,12:10,1,0,26.0,Los Angeles Kings,LAK
+45,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044323,2022020443,Hit,23,HIT,Patrik Laine hit Tobias Bjornfot,2022-12-11T23:22:03Z,1,08:15,11:45,1,0,29.0,Columbus Blue Jackets,CBJ
+46,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044365,2022020443,Takeaway,65,TAKEAWAY,Takeaway by Viktor Arvidsson,2022-12-11T23:22:12Z,1,08:24,11:36,1,0,26.0,Los Angeles Kings,LAK
+47,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044324,2022020443,Hit,24,HIT,Tim Berni hit Viktor Arvidsson,2022-12-11T23:22:14Z,1,08:26,11:34,1,0,29.0,Columbus Blue Jackets,CBJ
+48,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044325,2022020443,Stoppage,25,STOP,Puck in Benches,2022-12-11T23:22:20Z,1,08:32,11:28,1,0,,,
+49,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044366,2022020443,Faceoff,66,FACEOFF,Sean Kuraly faceoff won against Gabriel Vilardi,2022-12-11T23:22:53Z,1,08:32,11:28,1,0,29.0,Columbus Blue Jackets,CBJ
+50,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443165,2022020443,Shot,165,SHOT,Andrew Peeke Slap Shot saved by Jonathan Quick,2022-12-11T23:23:08Z,1,08:47,11:13,1,0,29.0,Columbus Blue Jackets,CBJ
+51,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443168,2022020443,Blocked Shot,168,BLOCKED_SHOT,Sean Kuraly shot blocked shot by Adrian Kempe,2022-12-11T23:23:11Z,1,08:50,11:10,1,0,26.0,Los Angeles Kings,LAK
+52,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443453,2022020443,Blocked Shot,453,BLOCKED_SHOT,Sean Kuraly shot blocked shot by Adrian Kempe,2022-12-11T23:23:12Z,1,08:51,11:09,1,0,26.0,Los Angeles Kings,LAK
+53,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443166,2022020443,Blocked Shot,166,BLOCKED_SHOT,Eric Robinson shot blocked shot by Sean Walker,2022-12-11T23:23:14Z,1,08:53,11:07,1,0,26.0,Los Angeles Kings,LAK
+54,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443169,2022020443,Missed Shot,169,MISSED_SHOT,Mathieu Olivier Wide of Net Jonathan Quick,2022-12-11T23:23:20Z,1,08:59,11:01,1,0,29.0,Columbus Blue Jackets,CBJ
+55,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443454,2022020443,Blocked Shot,454,BLOCKED_SHOT,Mathieu Olivier shot blocked shot by Tobias Bjornfot,2022-12-11T23:23:25Z,1,09:04,10:56,1,0,26.0,Los Angeles Kings,LAK
+56,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443455,2022020443,Shot,455,SHOT,Eric Robinson Wrist Shot saved by Jonathan Quick,2022-12-11T23:23:29Z,1,09:08,10:52,1,0,29.0,Columbus Blue Jackets,CBJ
+57,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044327,2022020443,Penalty,27,PENALTY,Sean Walker Slashing against Eric Robinson,2022-12-11T23:23:32Z,1,09:11,10:49,1,0,26.0,Los Angeles Kings,LAK
+58,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044367,2022020443,Faceoff,67,FACEOFF,Boone Jenner faceoff won against Phillip Danault,2022-12-11T23:24:11Z,1,09:11,10:49,1,0,29.0,Columbus Blue Jackets,CBJ
+59,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443171,2022020443,Goal,171,GOAL,"Boone Jenner (10) Deflected, assists: Jack Roslovic (10), Johnny Gaudreau (20)",2022-12-11T23:24:28Z,1,09:28,10:32,2,0,29.0,Columbus Blue Jackets,CBJ
+60,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044368,2022020443,Faceoff,68,FACEOFF,Blake Lizotte faceoff won against Cole Sillinger,2022-12-11T23:25:10Z,1,09:28,10:32,2,0,26.0,Los Angeles Kings,LAK
+61,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044330,2022020443,Stoppage,30,STOP,Puck in Crowd,2022-12-11T23:25:34Z,1,09:52,10:08,2,0,,,
+62,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044369,2022020443,Faceoff,69,FACEOFF,Anze Kopitar faceoff won against Gustav Nyquist,2022-12-11T23:26:16Z,1,09:52,10:08,2,0,26.0,Los Angeles Kings,LAK
+63,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443172,2022020443,Shot,172,SHOT,Johnny Gaudreau Backhand saved by Jonathan Quick,2022-12-11T23:26:24Z,1,10:00,10:00,2,0,29.0,Columbus Blue Jackets,CBJ
+64,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044331,2022020443,Stoppage,31,STOP,Goalie Stopped,2022-12-11T23:26:25Z,1,10:01,09:59,2,0,,,
+65,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044371,2022020443,Faceoff,71,FACEOFF,Anze Kopitar faceoff won against Boone Jenner,2022-12-11T23:28:43Z,1,10:01,09:59,2,0,26.0,Los Angeles Kings,LAK
+66,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044332,2022020443,Hit,32,HIT,Vladislav Gavrikov hit Arthur Kaliyev,2022-12-11T23:28:48Z,1,10:06,09:54,2,0,29.0,Columbus Blue Jackets,CBJ
+67,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044333,2022020443,Stoppage,33,STOP,Icing,2022-12-11T23:29:09Z,1,10:27,09:33,2,0,,,
+68,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044372,2022020443,Faceoff,72,FACEOFF,Boone Jenner faceoff won against Phillip Danault,2022-12-11T23:29:31Z,1,10:27,09:33,2,0,29.0,Columbus Blue Jackets,CBJ
+69,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443173,2022020443,Shot,173,SHOT,Phillip Danault Wrist Shot saved by Elvis Merzlikins,2022-12-11T23:29:51Z,1,10:47,09:13,2,0,26.0,Los Angeles Kings,LAK
+70,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443174,2022020443,Missed Shot,174,MISSED_SHOT,Viktor Arvidsson Over Net Elvis Merzlikins,2022-12-11T23:29:58Z,1,10:54,09:06,2,0,26.0,Los Angeles Kings,LAK
+71,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443175,2022020443,Shot,175,SHOT,Viktor Arvidsson Deflected saved by Elvis Merzlikins,2022-12-11T23:30:09Z,1,11:05,08:55,2,0,26.0,Los Angeles Kings,LAK
+72,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443176,2022020443,Missed Shot,176,MISSED_SHOT,Jack Roslovic Wide of Net Jonathan Quick,2022-12-11T23:30:21Z,1,11:17,08:43,2,0,29.0,Columbus Blue Jackets,CBJ
+73,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443177,2022020443,Shot,177,SHOT,Tim Berni Wrist Shot saved by Jonathan Quick,2022-12-11T23:30:30Z,1,11:26,08:34,2,0,29.0,Columbus Blue Jackets,CBJ
+74,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443178,2022020443,Missed Shot,178,MISSED_SHOT,Patrik Laine Wide of Net Jonathan Quick,2022-12-11T23:30:54Z,1,11:50,08:10,2,0,29.0,Columbus Blue Jackets,CBJ
+75,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044335,2022020443,Hit,35,HIT,Andrew Peeke hit Gabriel Vilardi,2022-12-11T23:31:28Z,1,12:24,07:36,2,0,29.0,Columbus Blue Jackets,CBJ
+76,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044339,2022020443,Penalty,39,PENALTY,Blake Lizotte Tripping against Kirill Marchenko,2022-12-11T23:31:46Z,1,12:41,07:19,2,0,26.0,Los Angeles Kings,LAK
+77,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044373,2022020443,Faceoff,73,FACEOFF,Boone Jenner faceoff won against Anze Kopitar,2022-12-11T23:32:43Z,1,12:41,07:19,2,0,29.0,Columbus Blue Jackets,CBJ
+78,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044342,2022020443,Stoppage,42,STOP,Puck in Netting,2022-12-11T23:32:51Z,1,12:49,07:11,2,0,,,
+79,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443179,2022020443,Shot,179,SHOT,Patrik Laine Wrist Shot saved by Jonathan Quick,2022-12-11T23:32:51Z,1,12:49,07:11,2,0,29.0,Columbus Blue Jackets,CBJ
+80,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044374,2022020443,Faceoff,74,FACEOFF,Anze Kopitar faceoff won against Boone Jenner,2022-12-11T23:33:06Z,1,12:49,07:11,2,0,26.0,Los Angeles Kings,LAK
+81,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443180,2022020443,Missed Shot,180,MISSED_SHOT,Patrik Laine Wide of Net Jonathan Quick,2022-12-11T23:34:05Z,1,13:48,06:12,2,0,29.0,Columbus Blue Jackets,CBJ
+82,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044343,2022020443,Hit,43,HIT,Alexander Edler hit Boone Jenner,2022-12-11T23:34:17Z,1,14:00,06:00,2,0,26.0,Los Angeles Kings,LAK
+83,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443181,2022020443,Shot,181,SHOT,Boone Jenner Backhand saved by Jonathan Quick,2022-12-11T23:34:33Z,1,14:16,05:44,2,0,29.0,Columbus Blue Jackets,CBJ
+84,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443182,2022020443,Blocked Shot,182,BLOCKED_SHOT,Johnny Gaudreau shot blocked shot by Alexander Edler,2022-12-11T23:34:41Z,1,14:24,05:36,2,0,26.0,Los Angeles Kings,LAK
+85,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044344,2022020443,Stoppage,44,STOP,Puck in Netting,2022-12-11T23:34:42Z,1,14:25,05:35,2,0,,,
+86,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044375,2022020443,Faceoff,75,FACEOFF,Anze Kopitar faceoff won against Kent Johnson,2022-12-11T23:35:09Z,1,14:25,05:35,2,0,26.0,Los Angeles Kings,LAK
+87,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443183,2022020443,Shot,183,SHOT,Tobias Bjornfot Wrist Shot saved by Elvis Merzlikins,2022-12-11T23:35:18Z,1,14:34,05:26,2,0,26.0,Los Angeles Kings,LAK
+88,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443184,2022020443,Blocked Shot,184,BLOCKED_SHOT,Erik Gudbranson shot blocked shot by Blake Lizotte,2022-12-11T23:35:37Z,1,14:53,05:07,2,0,26.0,Los Angeles Kings,LAK
+89,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044345,2022020443,Stoppage,45,STOP,Offside,2022-12-11T23:35:44Z,1,14:59,05:01,2,0,,,
+90,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044376,2022020443,Faceoff,76,FACEOFF,Anze Kopitar faceoff won against Sean Kuraly,2022-12-11T23:37:53Z,1,14:59,05:01,2,0,26.0,Los Angeles Kings,LAK
+91,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044377,2022020443,Takeaway,77,TAKEAWAY,Takeaway by Anze Kopitar,2022-12-11T23:38:02Z,1,15:08,04:52,2,0,26.0,Los Angeles Kings,LAK
+92,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044346,2022020443,Hit,46,HIT,Vladislav Gavrikov hit Anze Kopitar,2022-12-11T23:38:06Z,1,15:12,04:48,2,0,29.0,Columbus Blue Jackets,CBJ
+93,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044378,2022020443,Giveaway,78,GIVEAWAY,Giveaway by Kevin Fiala,2022-12-11T23:38:37Z,1,15:43,04:17,2,0,26.0,Los Angeles Kings,LAK
+94,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443185,2022020443,Missed Shot,185,MISSED_SHOT,Boone Jenner Goalpost Jonathan Quick,2022-12-11T23:38:56Z,1,16:02,03:58,2,0,29.0,Columbus Blue Jackets,CBJ
+95,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044348,2022020443,Stoppage,48,STOP,Net Dislodged by Goaltender,2022-12-11T23:39:25Z,1,16:30,03:30,2,0,,,
+96,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044379,2022020443,Faceoff,79,FACEOFF,Jack Roslovic faceoff won against Adrian Kempe,2022-12-11T23:40:27Z,1,16:30,03:30,2,0,29.0,Columbus Blue Jackets,CBJ
+97,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443186,2022020443,Shot,186,SHOT,Tobias Bjornfot Slap Shot saved by Elvis Merzlikins,2022-12-11T23:40:34Z,1,16:37,03:23,2,0,26.0,Los Angeles Kings,LAK
+98,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443187,2022020443,Shot,187,SHOT,Adrian Kempe Snap Shot saved by Elvis Merzlikins,2022-12-11T23:41:04Z,1,17:07,02:53,2,0,26.0,Los Angeles Kings,LAK
+99,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044349,2022020443,Stoppage,49,STOP,Goalie Stopped,2022-12-11T23:41:04Z,1,17:08,02:52,2,0,,,
+100,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044380,2022020443,Faceoff,80,FACEOFF,Viktor Arvidsson faceoff won against Boone Jenner,2022-12-11T23:41:38Z,1,17:08,02:52,2,0,26.0,Los Angeles Kings,LAK
+101,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443188,2022020443,Shot,188,SHOT,Trevor Moore Wrist Shot saved by Elvis Merzlikins,2022-12-11T23:41:45Z,1,17:15,02:45,2,0,26.0,Los Angeles Kings,LAK
+102,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044350,2022020443,Hit,50,HIT,Gustav Nyquist hit Viktor Arvidsson,2022-12-11T23:41:51Z,1,17:21,02:39,2,0,29.0,Columbus Blue Jackets,CBJ
+103,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443189,2022020443,Blocked Shot,189,BLOCKED_SHOT,Phillip Danault shot blocked shot by Tim Berni,2022-12-11T23:41:51Z,1,17:21,02:39,2,0,29.0,Columbus Blue Jackets,CBJ
+104,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443301,2022020443,Hit,301,HIT,Boone Jenner hit Matt Roy,2022-12-11T23:42:03Z,1,17:33,02:27,2,0,29.0,Columbus Blue Jackets,CBJ
+105,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443190,2022020443,Missed Shot,190,MISSED_SHOT,Gustav Nyquist Wide of Net Jonathan Quick,2022-12-11T23:42:15Z,1,17:45,02:15,2,0,29.0,Columbus Blue Jackets,CBJ
+106,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443191,2022020443,Blocked Shot,191,BLOCKED_SHOT,Johnny Gaudreau shot blocked shot by Viktor Arvidsson,2022-12-11T23:42:54Z,1,18:24,01:36,2,0,26.0,Los Angeles Kings,LAK
+107,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443302,2022020443,Hit,302,HIT,Alexander Edler hit Boone Jenner,2022-12-11T23:42:57Z,1,18:27,01:33,2,0,26.0,Los Angeles Kings,LAK
+108,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044381,2022020443,Giveaway,81,GIVEAWAY,Giveaway by Tim Berni,2022-12-11T23:43:38Z,1,19:08,00:52,2,0,29.0,Columbus Blue Jackets,CBJ
+109,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443192,2022020443,Missed Shot,192,MISSED_SHOT,Kevin Fiala Wide of Net Elvis Merzlikins,2022-12-11T23:43:41Z,1,19:11,00:49,2,0,26.0,Los Angeles Kings,LAK
+110,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443193,2022020443,Shot,193,SHOT,Arthur Kaliyev Snap Shot saved by Elvis Merzlikins,2022-12-11T23:43:55Z,1,19:25,00:35,2,0,26.0,Los Angeles Kings,LAK
+111,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443194,2022020443,Blocked Shot,194,BLOCKED_SHOT,Arthur Kaliyev shot blocked shot by Erik Gudbranson,2022-12-11T23:44:01Z,1,19:31,00:29,2,0,29.0,Columbus Blue Jackets,CBJ
+112,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443303,2022020443,Hit,303,HIT,Eric Robinson hit Sean Durzi,2022-12-11T23:44:04Z,1,19:34,00:26,2,0,29.0,Columbus Blue Jackets,CBJ
+113,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443195,2022020443,Missed Shot,195,MISSED_SHOT,Mikey Anderson Wide of Net Elvis Merzlikins,2022-12-11T23:44:18Z,1,19:48,00:12,2,0,26.0,Los Angeles Kings,LAK
+114,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443304,2022020443,Period End,304,PERIOD_END,End of 1st Period,2022-12-11T23:44:31Z,1,20:00,00:00,2,0,,,
+115,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443307,2022020443,Period Official,307,PERIOD_OFFICIAL,Period Official,2022-12-11T23:59:36Z,1,20:00,00:00,2,0,,,
+116,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443308,2022020443,Period Ready,308,PERIOD_READY,Period Ready,2022-12-12T00:01:40Z,2,00:00,20:00,2,0,,,
+117,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044382,2022020443,Period Start,82,PERIOD_START,Period Start,2022-12-12T00:03:09Z,2,00:00,20:00,2,0,,,
+118,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044383,2022020443,Faceoff,83,FACEOFF,Phillip Danault faceoff won against Jack Roslovic,2022-12-12T00:03:09Z,2,00:00,20:00,2,0,26.0,Los Angeles Kings,LAK
+119,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443196,2022020443,Blocked Shot,196,BLOCKED_SHOT,Jack Roslovic shot blocked shot by Alexander Edler,2022-12-12T00:03:27Z,2,00:18,19:42,2,0,26.0,Los Angeles Kings,LAK
+120,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443197,2022020443,Missed Shot,197,MISSED_SHOT,Trevor Moore Wide of Net Elvis Merzlikins,2022-12-12T00:03:42Z,2,00:33,19:27,2,0,26.0,Los Angeles Kings,LAK
+121,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443309,2022020443,Stoppage,309,STOP,Puck in Netting,2022-12-12T00:03:43Z,2,00:35,19:25,2,0,,,
+122,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044384,2022020443,Faceoff,84,FACEOFF,Boone Jenner faceoff won against Anze Kopitar,2022-12-12T00:04:24Z,2,00:35,19:25,2,0,29.0,Columbus Blue Jackets,CBJ
+123,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443198,2022020443,Missed Shot,198,MISSED_SHOT,Gustav Nyquist Wide of Net Jonathan Quick,2022-12-12T00:05:08Z,2,01:19,18:41,2,0,29.0,Columbus Blue Jackets,CBJ
+124,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443199,2022020443,Blocked Shot,199,BLOCKED_SHOT,Gustav Nyquist shot blocked shot by Sean Durzi,2022-12-12T00:05:15Z,2,01:26,18:34,2,0,26.0,Los Angeles Kings,LAK
+125,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443310,2022020443,Hit,310,HIT,Jake Christiansen hit Sean Durzi,2022-12-12T00:05:20Z,2,01:31,18:29,2,0,29.0,Columbus Blue Jackets,CBJ
+126,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443311,2022020443,Stoppage,311,STOP,Icing,2022-12-12T00:05:39Z,2,01:49,18:11,2,0,,,
+127,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044385,2022020443,Faceoff,85,FACEOFF,Gabriel Vilardi faceoff won against Kent Johnson,2022-12-12T00:06:06Z,2,01:49,18:11,2,0,26.0,Los Angeles Kings,LAK
+128,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443200,2022020443,Blocked Shot,200,BLOCKED_SHOT,Gabriel Vilardi shot blocked shot by Jake Christiansen,2022-12-12T00:06:16Z,2,01:59,18:01,2,0,29.0,Columbus Blue Jackets,CBJ
+129,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443312,2022020443,Hit,312,HIT,Alex Iafallo hit Cole Sillinger,2022-12-12T00:06:19Z,2,02:02,17:58,2,0,26.0,Los Angeles Kings,LAK
+130,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044386,2022020443,Giveaway,86,GIVEAWAY,Giveaway by Kent Johnson,2022-12-12T00:06:29Z,2,02:12,17:48,2,0,29.0,Columbus Blue Jackets,CBJ
+131,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443313,2022020443,Hit,313,HIT,Mathieu Olivier hit Carl Grundstrom,2022-12-12T00:07:12Z,2,02:55,17:05,2,0,29.0,Columbus Blue Jackets,CBJ
+132,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443351,2022020443,Shot,351,SHOT,Sean Kuraly Wrist Shot saved by Jonathan Quick,2022-12-12T00:07:18Z,2,03:01,16:59,2,0,29.0,Columbus Blue Jackets,CBJ
+133,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443314,2022020443,Hit,314,HIT,Tim Berni hit Viktor Arvidsson,2022-12-12T00:07:42Z,2,03:25,16:35,2,0,29.0,Columbus Blue Jackets,CBJ
+134,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044387,2022020443,Takeaway,87,TAKEAWAY,Takeaway by Yegor Chinakhov,2022-12-12T00:07:52Z,2,03:35,16:25,2,0,29.0,Columbus Blue Jackets,CBJ
+135,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443352,2022020443,Shot,352,SHOT,Yegor Chinakhov Wrist Shot saved by Jonathan Quick,2022-12-12T00:08:09Z,2,03:52,16:08,2,0,29.0,Columbus Blue Jackets,CBJ
+136,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443353,2022020443,Shot,353,SHOT,Viktor Arvidsson Wrist Shot saved by Elvis Merzlikins,2022-12-12T00:08:15Z,2,03:58,16:02,2,0,26.0,Los Angeles Kings,LAK
+137,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443354,2022020443,Shot,354,SHOT,Trevor Moore Wrist Shot saved by Elvis Merzlikins,2022-12-12T00:08:42Z,2,04:25,15:35,2,0,26.0,Los Angeles Kings,LAK
+138,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443315,2022020443,Stoppage,315,STOP,Goalie Stopped,2022-12-12T00:08:43Z,2,04:26,15:34,2,0,,,
+139,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044388,2022020443,Faceoff,88,FACEOFF,Boone Jenner faceoff won against Anze Kopitar,2022-12-12T00:09:15Z,2,04:26,15:34,2,0,29.0,Columbus Blue Jackets,CBJ
+140,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443355,2022020443,Goal,355,GOAL,"Anze Kopitar (9) Wrist Shot, assists: Arthur Kaliyev (9), Kevin Fiala (23)",2022-12-12T00:09:31Z,2,04:42,15:18,2,1,26.0,Los Angeles Kings,LAK
+141,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044389,2022020443,Faceoff,89,FACEOFF,Cole Sillinger faceoff won against Adrian Kempe,2022-12-12T00:10:10Z,2,04:42,15:18,2,1,29.0,Columbus Blue Jackets,CBJ
+142,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443316,2022020443,Stoppage,316,STOP,Icing,2022-12-12T00:10:25Z,2,04:57,15:03,2,1,,,
+143,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044390,2022020443,Faceoff,90,FACEOFF,Cole Sillinger faceoff won against Gabriel Vilardi,2022-12-12T00:10:48Z,2,04:57,15:03,2,1,29.0,Columbus Blue Jackets,CBJ
+144,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443530,2022020443,Penalty,530,PENALTY,Kirill Marchenko Hooking against Gabriel Vilardi,2022-12-12T00:11:07Z,2,05:15,14:45,2,1,29.0,Columbus Blue Jackets,CBJ
+145,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044391,2022020443,Faceoff,91,FACEOFF,Anze Kopitar faceoff won against Sean Kuraly,2022-12-12T00:11:41Z,2,05:15,14:45,2,1,26.0,Los Angeles Kings,LAK
+146,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443356,2022020443,Missed Shot,356,MISSED_SHOT,Kevin Fiala Wide of Net Elvis Merzlikins,2022-12-12T00:11:56Z,2,05:30,14:30,2,1,26.0,Los Angeles Kings,LAK
+147,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443357,2022020443,Blocked Shot,357,BLOCKED_SHOT,Kevin Fiala shot blocked shot by Andrew Peeke,2022-12-12T00:12:05Z,2,05:39,14:21,2,1,29.0,Columbus Blue Jackets,CBJ
+148,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443317,2022020443,Stoppage,317,STOP,Puck Frozen,2022-12-12T00:12:13Z,2,05:47,14:13,2,1,,,
+149,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044392,2022020443,Faceoff,92,FACEOFF,Anze Kopitar faceoff won against Boone Jenner,2022-12-12T00:12:42Z,2,05:47,14:13,2,1,26.0,Los Angeles Kings,LAK
+150,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443358,2022020443,Blocked Shot,358,BLOCKED_SHOT,Sean Walker shot blocked shot by Boone Jenner,2022-12-12T00:12:50Z,2,05:55,14:05,2,1,29.0,Columbus Blue Jackets,CBJ
+151,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443359,2022020443,Shot,359,SHOT,Kevin Fiala Wrist Shot saved by Elvis Merzlikins,2022-12-12T00:13:06Z,2,06:11,13:49,2,1,26.0,Los Angeles Kings,LAK
+152,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044393,2022020443,Giveaway,93,GIVEAWAY,Giveaway by Adrian Kempe,2022-12-12T00:13:32Z,2,06:37,13:23,2,1,26.0,Los Angeles Kings,LAK
+153,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443318,2022020443,Stoppage,318,STOP,Icing,2022-12-12T00:14:21Z,2,07:27,12:33,2,1,,,
+154,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044394,2022020443,Faceoff,94,FACEOFF,Phillip Danault faceoff won against Boone Jenner,2022-12-12T00:14:42Z,2,07:27,12:33,2,1,26.0,Los Angeles Kings,LAK
+155,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443360,2022020443,Missed Shot,360,MISSED_SHOT,Kirill Marchenko Wide of Net Jonathan Quick,2022-12-12T00:14:53Z,2,07:38,12:22,2,1,29.0,Columbus Blue Jackets,CBJ
+156,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443361,2022020443,Shot,361,SHOT,Johnny Gaudreau Wrist Shot saved by Jonathan Quick,2022-12-12T00:15:02Z,2,07:47,12:13,2,1,29.0,Columbus Blue Jackets,CBJ
+157,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044395,2022020443,Giveaway,95,GIVEAWAY,Giveaway by Trevor Moore,2022-12-12T00:15:19Z,2,08:03,11:57,2,1,26.0,Los Angeles Kings,LAK
+158,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443365,2022020443,Blocked Shot,365,BLOCKED_SHOT,Carl Grundstrom shot blocked shot by Andrew Peeke,2022-12-12T00:15:39Z,2,08:24,11:36,2,1,29.0,Columbus Blue Jackets,CBJ
+159,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443363,2022020443,Goal,363,GOAL,"Blake Lizotte (6) Snap Shot, assists: Carl Grundstrom (4), Alex Iafallo (5)",2022-12-12T00:16:35Z,2,08:25,11:35,2,2,26.0,Los Angeles Kings,LAK
+160,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044396,2022020443,Faceoff,96,FACEOFF,Blake Lizotte faceoff won against Cole Sillinger,2022-12-12T00:16:51Z,2,08:25,11:35,2,2,26.0,Los Angeles Kings,LAK
+161,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443364,2022020443,Shot,364,SHOT,Sean Walker Wrist Shot saved by Elvis Merzlikins,2022-12-12T00:16:58Z,2,08:32,11:28,2,2,26.0,Los Angeles Kings,LAK
+162,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443319,2022020443,Stoppage,319,STOP,Goalie Stopped,2022-12-12T00:16:59Z,2,08:33,11:27,2,2,,,
+163,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044397,2022020443,Faceoff,97,FACEOFF,Anze Kopitar faceoff won against Cole Sillinger,2022-12-12T00:17:21Z,2,08:33,11:27,2,2,26.0,Los Angeles Kings,LAK
+164,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443366,2022020443,Blocked Shot,366,BLOCKED_SHOT,Kirill Marchenko shot blocked shot by Mikey Anderson,2022-12-12T00:18:05Z,2,09:17,10:43,2,2,26.0,Los Angeles Kings,LAK
+165,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443320,2022020443,Stoppage,320,STOP,Puck in Netting,2022-12-12T00:18:07Z,2,09:18,10:42,2,2,,,
+166,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044398,2022020443,Faceoff,98,FACEOFF,Jack Roslovic faceoff won against Trevor Moore,2022-12-12T00:20:29Z,2,09:18,10:42,2,2,29.0,Columbus Blue Jackets,CBJ
+167,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443367,2022020443,Blocked Shot,367,BLOCKED_SHOT,Patrik Laine shot blocked shot by Mikey Anderson,2022-12-12T00:20:55Z,2,09:44,10:16,2,2,26.0,Los Angeles Kings,LAK
+168,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443368,2022020443,Shot,368,SHOT,Erik Gudbranson Slap Shot saved by Jonathan Quick,2022-12-12T00:21:01Z,2,09:50,10:10,2,2,29.0,Columbus Blue Jackets,CBJ
+169,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443369,2022020443,Goal,369,GOAL,"Patrik Laine (8) Slap Shot, assists: Jack Roslovic (11), Erik Gudbranson (6)",2022-12-12T00:21:14Z,2,10:03,09:57,3,2,29.0,Columbus Blue Jackets,CBJ
+170,29,26,Columbus Blue Jackets,Los Angeles Kings,202202044399,2022020443,Faceoff,99,FACEOFF,Adrian Kempe faceoff won against Cole Sillinger,2022-12-12T00:21:58Z,2,10:03,09:57,3,2,26.0,Los Angeles Kings,LAK
+171,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443370,2022020443,Missed Shot,370,MISSED_SHOT,Matt Roy Wide of Net Elvis Merzlikins,2022-12-12T00:22:12Z,2,10:17,09:43,3,2,26.0,Los Angeles Kings,LAK
+172,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443371,2022020443,Shot,371,SHOT,Matt Roy Snap Shot saved by Elvis Merzlikins,2022-12-12T00:22:39Z,2,10:44,09:16,3,2,26.0,Los Angeles Kings,LAK
+173,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443346,2022020443,Stoppage,346,STOP,Goalie Stopped,2022-12-12T00:22:40Z,2,10:45,09:15,3,2,,,
+174,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443100,2022020443,Faceoff,100,FACEOFF,Sean Kuraly faceoff won against Blake Lizotte,2022-12-12T00:24:58Z,2,10:45,09:15,3,2,29.0,Columbus Blue Jackets,CBJ
+175,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443347,2022020443,Hit,347,HIT,Carl Grundstrom hit Mathieu Olivier,2022-12-12T00:25:19Z,2,11:06,08:54,3,2,26.0,Los Angeles Kings,LAK
+176,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443372,2022020443,Blocked Shot,372,BLOCKED_SHOT,Sean Walker shot blocked shot by Marcus Bjork,2022-12-12T00:25:26Z,2,11:13,08:47,3,2,29.0,Columbus Blue Jackets,CBJ
+177,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443373,2022020443,Missed Shot,373,MISSED_SHOT,Mathieu Olivier Wide of Net Jonathan Quick,2022-12-12T00:25:40Z,2,11:27,08:33,3,2,29.0,Columbus Blue Jackets,CBJ
+178,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443348,2022020443,Hit,348,HIT,Sean Kuraly hit Blake Lizotte,2022-12-12T00:25:42Z,2,11:29,08:31,3,2,29.0,Columbus Blue Jackets,CBJ
+179,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443374,2022020443,Shot,374,SHOT,Mikey Anderson Wrist Shot saved by Elvis Merzlikins,2022-12-12T00:26:34Z,2,12:21,07:39,3,2,26.0,Los Angeles Kings,LAK
+180,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443349,2022020443,Stoppage,349,STOP,Goalie Stopped,2022-12-12T00:26:35Z,2,12:23,07:37,3,2,,,
+181,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443401,2022020443,Faceoff,401,FACEOFF,Phillip Danault faceoff won against Jack Roslovic,2022-12-12T00:27:08Z,2,12:23,07:37,3,2,26.0,Los Angeles Kings,LAK
+182,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443375,2022020443,Shot,375,SHOT,Matt Roy Snap Shot saved by Elvis Merzlikins,2022-12-12T00:27:12Z,2,12:27,07:33,3,2,26.0,Los Angeles Kings,LAK
+183,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443350,2022020443,Hit,350,HIT,Matt Roy hit Yegor Chinakhov,2022-12-12T00:27:21Z,2,12:36,07:24,3,2,26.0,Los Angeles Kings,LAK
+184,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443402,2022020443,Takeaway,402,TAKEAWAY,Takeaway by Yegor Chinakhov,2022-12-12T00:27:22Z,2,12:37,07:23,3,2,29.0,Columbus Blue Jackets,CBJ
+185,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443601,2022020443,Hit,601,HIT,Gabriel Vilardi hit Andrew Peeke,2022-12-12T00:28:30Z,2,13:45,06:15,3,2,26.0,Los Angeles Kings,LAK
+186,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443602,2022020443,Hit,602,HIT,Andrew Peeke hit Adrian Kempe,2022-12-12T00:28:45Z,2,14:00,06:00,3,2,29.0,Columbus Blue Jackets,CBJ
+187,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443376,2022020443,Missed Shot,376,MISSED_SHOT,Alex Iafallo Wide of Net Elvis Merzlikins,2022-12-12T00:28:48Z,2,14:03,05:57,3,2,26.0,Los Angeles Kings,LAK
+188,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443603,2022020443,Hit,603,HIT,Mathieu Olivier hit Carl Grundstrom,2022-12-12T00:29:38Z,2,14:53,05:07,3,2,29.0,Columbus Blue Jackets,CBJ
+189,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443377,2022020443,Goal,377,GOAL,"Jaret Anderson-Dolan (2) Snap Shot, assists: Sean Durzi (15)",2022-12-12T00:29:48Z,2,15:02,04:58,3,3,26.0,Los Angeles Kings,LAK
+190,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443403,2022020443,Faceoff,403,FACEOFF,Anze Kopitar faceoff won against Boone Jenner,2022-12-12T00:30:31Z,2,15:02,04:58,3,3,26.0,Los Angeles Kings,LAK
+191,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443378,2022020443,Missed Shot,378,MISSED_SHOT,Anze Kopitar Wide of Net Elvis Merzlikins,2022-12-12T00:31:21Z,2,15:52,04:08,3,3,26.0,Los Angeles Kings,LAK
+192,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443604,2022020443,Hit,604,HIT,Marcus Bjork hit Arthur Kaliyev,2022-12-12T00:31:22Z,2,15:53,04:07,3,3,29.0,Columbus Blue Jackets,CBJ
+193,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443605,2022020443,Stoppage,605,STOP,Puck in Crowd,2022-12-12T00:31:28Z,2,16:00,04:00,3,3,,,
+194,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443404,2022020443,Faceoff,404,FACEOFF,Phillip Danault faceoff won against Jack Roslovic,2022-12-12T00:33:48Z,2,16:00,04:00,3,3,26.0,Los Angeles Kings,LAK
+195,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443405,2022020443,Giveaway,405,GIVEAWAY,Giveaway by Phillip Danault,2022-12-12T00:34:07Z,2,16:19,03:41,3,3,26.0,Los Angeles Kings,LAK
+196,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443379,2022020443,Blocked Shot,379,BLOCKED_SHOT,Patrik Laine shot blocked shot by Mikey Anderson,2022-12-12T00:34:13Z,2,16:25,03:35,3,3,26.0,Los Angeles Kings,LAK
+197,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443607,2022020443,Penalty,607,PENALTY,Andrew Peeke Boarding against Gabriel Vilardi,2022-12-12T00:35:11Z,2,17:23,02:37,3,3,29.0,Columbus Blue Jackets,CBJ
+198,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443406,2022020443,Faceoff,406,FACEOFF,Phillip Danault faceoff won against Sean Kuraly,2022-12-12T00:36:13Z,2,17:23,02:37,3,3,26.0,Los Angeles Kings,LAK
+199,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443380,2022020443,Missed Shot,380,MISSED_SHOT,Trevor Moore Over Net Elvis Merzlikins,2022-12-12T00:36:20Z,2,17:30,02:30,3,3,26.0,Los Angeles Kings,LAK
+200,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443381,2022020443,Blocked Shot,381,BLOCKED_SHOT,Sean Kuraly shot blocked shot by Sean Durzi,2022-12-12T00:36:31Z,2,17:41,02:19,3,3,26.0,Los Angeles Kings,LAK
+201,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443382,2022020443,Goal,382,GOAL,"Jack Roslovic (2) Slap Shot, assists: Eric Robinson (6), Vladislav Gavrikov (6)",2022-12-12T00:36:50Z,2,18:00,02:00,4,3,29.0,Columbus Blue Jackets,CBJ
+202,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443407,2022020443,Faceoff,407,FACEOFF,Boone Jenner faceoff won against Anze Kopitar,2022-12-12T00:37:48Z,2,18:00,02:00,4,3,29.0,Columbus Blue Jackets,CBJ
+203,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443384,2022020443,Missed Shot,384,MISSED_SHOT,Kevin Fiala Wide of Net Elvis Merzlikins,2022-12-12T00:38:32Z,2,18:44,01:16,4,3,26.0,Los Angeles Kings,LAK
+204,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443385,2022020443,Blocked Shot,385,BLOCKED_SHOT,Anze Kopitar shot blocked shot by Vladislav Gavrikov,2022-12-12T00:38:40Z,2,18:52,01:08,4,3,29.0,Columbus Blue Jackets,CBJ
+205,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443386,2022020443,Blocked Shot,386,BLOCKED_SHOT,Adrian Kempe shot blocked shot by Gustav Nyquist,2022-12-12T00:38:48Z,2,19:00,01:00,4,3,29.0,Columbus Blue Jackets,CBJ
+206,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443610,2022020443,Stoppage,610,STOP,Puck in Netting,2022-12-12T00:38:50Z,2,19:01,00:59,4,3,,,
+207,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443408,2022020443,Faceoff,408,FACEOFF,Boone Jenner faceoff won against Anze Kopitar,2022-12-12T00:39:23Z,2,19:01,00:59,4,3,29.0,Columbus Blue Jackets,CBJ
+208,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443611,2022020443,Penalty,611,PENALTY,Kevin Fiala Broken stick,2022-12-12T00:39:31Z,2,19:10,00:50,4,3,26.0,Los Angeles Kings,LAK
+209,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443409,2022020443,Faceoff,409,FACEOFF,Boone Jenner faceoff won against Blake Lizotte,2022-12-12T00:40:26Z,2,19:10,00:50,4,3,29.0,Columbus Blue Jackets,CBJ
+210,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443614,2022020443,Stoppage,614,STOP,Icing,2022-12-12T00:40:35Z,2,19:18,00:42,4,3,,,
+211,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443410,2022020443,Faceoff,410,FACEOFF,Boone Jenner faceoff won against Blake Lizotte,2022-12-12T00:40:55Z,2,19:18,00:42,4,3,29.0,Columbus Blue Jackets,CBJ
+212,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443387,2022020443,Goal,387,GOAL,"Jack Roslovic (3) Snap Shot, assists: Johnny Gaudreau (21), Patrik Laine (4)",2022-12-12T00:41:08Z,2,19:31,00:29,5,3,29.0,Columbus Blue Jackets,CBJ
+213,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443411,2022020443,Faceoff,411,FACEOFF,Sean Kuraly faceoff won against Adrian Kempe,2022-12-12T00:41:51Z,2,19:31,00:29,5,3,29.0,Columbus Blue Jackets,CBJ
+214,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443388,2022020443,Shot,388,SHOT,Adrian Kempe Wrist Shot saved by Elvis Merzlikins,2022-12-12T00:42:02Z,2,19:42,00:18,5,3,26.0,Los Angeles Kings,LAK
+215,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443618,2022020443,Hit,618,HIT,Vladislav Gavrikov hit Alex Iafallo,2022-12-12T00:42:11Z,2,19:51,00:09,5,3,29.0,Columbus Blue Jackets,CBJ
+216,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443615,2022020443,Period End,615,PERIOD_END,End of 2nd Period,2022-12-12T00:42:20Z,2,20:00,00:00,5,3,,,
+217,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443619,2022020443,Period Official,619,PERIOD_OFFICIAL,Period Official,2022-12-12T00:57:57Z,2,20:00,00:00,5,3,,,
+218,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443620,2022020443,Period Ready,620,PERIOD_READY,Period Ready,2022-12-12T00:59:22Z,3,00:00,20:00,5,3,,,
+219,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443412,2022020443,Period Start,412,PERIOD_START,Period Start,2022-12-12T01:01:07Z,3,00:00,20:00,5,3,,,
+220,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443413,2022020443,Faceoff,413,FACEOFF,Jack Roslovic faceoff won against Phillip Danault,2022-12-12T01:01:07Z,3,00:00,20:00,5,3,29.0,Columbus Blue Jackets,CBJ
+221,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443389,2022020443,Missed Shot,389,MISSED_SHOT,Trevor Moore Wide of Net Elvis Merzlikins,2022-12-12T01:01:19Z,3,00:12,19:48,5,3,26.0,Los Angeles Kings,LAK
+222,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443390,2022020443,Shot,390,SHOT,Phillip Danault Wrap-around saved by Elvis Merzlikins,2022-12-12T01:01:21Z,3,00:14,19:46,5,3,26.0,Los Angeles Kings,LAK
+223,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443391,2022020443,Shot,391,SHOT,Phillip Danault Backhand saved by Elvis Merzlikins,2022-12-12T01:01:22Z,3,00:15,19:45,5,3,26.0,Los Angeles Kings,LAK
+224,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443621,2022020443,Stoppage,621,STOP,Puck in Benches,2022-12-12T01:01:55Z,3,00:49,19:11,5,3,,,
+225,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443414,2022020443,Faceoff,414,FACEOFF,Boone Jenner faceoff won against Anze Kopitar,2022-12-12T01:02:16Z,3,00:49,19:11,5,3,29.0,Columbus Blue Jackets,CBJ
+226,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443622,2022020443,Stoppage,622,STOP,Icing,2022-12-12T01:02:23Z,3,00:56,19:04,5,3,,,
+227,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443415,2022020443,Faceoff,415,FACEOFF,Boone Jenner faceoff won against Anze Kopitar,2022-12-12T01:02:43Z,3,00:56,19:04,5,3,29.0,Columbus Blue Jackets,CBJ
+228,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443392,2022020443,Blocked Shot,392,BLOCKED_SHOT,Arthur Kaliyev shot blocked shot by Marcus Bjork,2022-12-12T01:03:12Z,3,01:25,18:35,5,3,29.0,Columbus Blue Jackets,CBJ
+229,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443623,2022020443,Stoppage,623,STOP,Puck in Netting,2022-12-12T01:03:13Z,3,01:26,18:34,5,3,,,
+230,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443416,2022020443,Faceoff,416,FACEOFF,Sean Kuraly faceoff won against Adrian Kempe,2022-12-12T01:03:43Z,3,01:26,18:34,5,3,29.0,Columbus Blue Jackets,CBJ
+231,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443393,2022020443,Shot,393,SHOT,Alex Iafallo Snap Shot saved by Elvis Merzlikins,2022-12-12T01:03:59Z,3,01:42,18:18,5,3,26.0,Los Angeles Kings,LAK
+232,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443394,2022020443,Missed Shot,394,MISSED_SHOT,Adrian Kempe Wide of Net Elvis Merzlikins,2022-12-12T01:04:02Z,3,01:45,18:15,5,3,26.0,Los Angeles Kings,LAK
+233,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443395,2022020443,Blocked Shot,395,BLOCKED_SHOT,Tobias Bjornfot shot blocked shot by Kent Johnson,2022-12-12T01:04:07Z,3,01:50,18:10,5,3,29.0,Columbus Blue Jackets,CBJ
+234,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443624,2022020443,Hit,624,HIT,Tobias Bjornfot hit Kirill Marchenko,2022-12-12T01:04:43Z,3,02:26,17:34,5,3,26.0,Los Angeles Kings,LAK
+235,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443626,2022020443,Hit,626,HIT,Kent Johnson hit Sean Walker,2022-12-12T01:04:53Z,3,02:36,17:24,5,3,29.0,Columbus Blue Jackets,CBJ
+236,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443396,2022020443,Shot,396,SHOT,Erik Gudbranson Slap Shot saved by Jonathan Quick,2022-12-12T01:05:21Z,3,03:04,16:56,5,3,29.0,Columbus Blue Jackets,CBJ
+237,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443627,2022020443,Hit,627,HIT,Sean Kuraly hit Alexander Edler,2022-12-12T01:05:26Z,3,03:09,16:51,5,3,29.0,Columbus Blue Jackets,CBJ
+238,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443629,2022020443,Stoppage,629,STOP,Icing,2022-12-12T01:05:32Z,3,03:14,16:46,5,3,,,
+239,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443417,2022020443,Faceoff,417,FACEOFF,Jack Roslovic faceoff won against Blake Lizotte,2022-12-12T01:06:06Z,3,03:14,16:46,5,3,29.0,Columbus Blue Jackets,CBJ
+240,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443398,2022020443,Missed Shot,398,MISSED_SHOT,Matt Roy Wide of Net Elvis Merzlikins,2022-12-12T01:06:21Z,3,03:29,16:31,5,3,26.0,Los Angeles Kings,LAK
+241,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443399,2022020443,Shot,399,SHOT,Jaret Anderson-Dolan Snap Shot saved by Elvis Merzlikins,2022-12-12T01:06:29Z,3,03:37,16:23,5,3,26.0,Los Angeles Kings,LAK
+242,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443400,2022020443,Shot,400,SHOT,Phillip Danault Wrist Shot saved by Elvis Merzlikins,2022-12-12T01:07:25Z,3,04:33,15:27,5,3,26.0,Los Angeles Kings,LAK
+243,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443630,2022020443,Hit,630,HIT,Gustav Nyquist hit Arthur Kaliyev,2022-12-12T01:07:34Z,3,04:42,15:18,5,3,29.0,Columbus Blue Jackets,CBJ
+244,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443631,2022020443,Stoppage,631,STOP,Puck in Benches,2022-12-12T01:07:35Z,3,04:43,15:17,5,3,,,
+245,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443418,2022020443,Faceoff,418,FACEOFF,Anze Kopitar faceoff won against Sean Kuraly,2022-12-12T01:08:06Z,3,04:43,15:17,5,3,26.0,Los Angeles Kings,LAK
+246,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443651,2022020443,Shot,651,SHOT,Sean Walker Snap Shot saved by Elvis Merzlikins,2022-12-12T01:08:09Z,3,04:46,15:14,5,3,26.0,Los Angeles Kings,LAK
+247,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443632,2022020443,Stoppage,632,STOP,Goalie Stopped,2022-12-12T01:08:10Z,3,04:48,15:12,5,3,,,
+248,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443419,2022020443,Faceoff,419,FACEOFF,Anze Kopitar faceoff won against Boone Jenner,2022-12-12T01:08:30Z,3,04:48,15:12,5,3,26.0,Los Angeles Kings,LAK
+249,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443652,2022020443,Shot,652,SHOT,Sean Walker Wrist Shot saved by Elvis Merzlikins,2022-12-12T01:08:32Z,3,04:50,15:10,5,3,26.0,Los Angeles Kings,LAK
+250,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443653,2022020443,Goal,653,GOAL,"Anze Kopitar (10) Snap Shot, assists: Sean Walker (5)",2022-12-12T01:08:34Z,3,04:52,15:08,5,4,26.0,Los Angeles Kings,LAK
+251,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443420,2022020443,Faceoff,420,FACEOFF,Cole Sillinger faceoff won against Gabriel Vilardi,2022-12-12T01:09:18Z,3,04:52,15:08,5,4,29.0,Columbus Blue Jackets,CBJ
+252,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443633,2022020443,Stoppage,633,STOP,Offside,2022-12-12T01:09:29Z,3,05:03,14:57,5,4,,,
+253,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443421,2022020443,Faceoff,421,FACEOFF,Gabriel Vilardi faceoff won against Cole Sillinger,2022-12-12T01:09:54Z,3,05:03,14:57,5,4,26.0,Los Angeles Kings,LAK
+254,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443654,2022020443,Blocked Shot,654,BLOCKED_SHOT,Kent Johnson shot blocked shot by Alexander Edler,2022-12-12T01:10:09Z,3,05:18,14:42,5,4,26.0,Los Angeles Kings,LAK
+255,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443634,2022020443,Hit,634,HIT,Cole Sillinger hit Matt Roy,2022-12-12T01:10:20Z,3,05:29,14:31,5,4,29.0,Columbus Blue Jackets,CBJ
+256,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443655,2022020443,Shot,655,SHOT,Alex Iafallo Deflected saved by Elvis Merzlikins,2022-12-12T01:10:21Z,3,05:30,14:30,5,4,26.0,Los Angeles Kings,LAK
+257,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443656,2022020443,Goal,656,GOAL,"Adrian Kempe (10) Snap Shot, assists: none",2022-12-12T01:10:22Z,3,05:31,14:29,5,5,26.0,Los Angeles Kings,LAK
+258,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443422,2022020443,Faceoff,422,FACEOFF,Jack Roslovic faceoff won against Phillip Danault,2022-12-12T01:11:03Z,3,05:31,14:29,5,5,29.0,Columbus Blue Jackets,CBJ
+259,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443657,2022020443,Shot,657,SHOT,Sean Durzi Slap Shot saved by Elvis Merzlikins,2022-12-12T01:11:41Z,3,06:09,13:51,5,5,26.0,Los Angeles Kings,LAK
+260,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443635,2022020443,Stoppage,635,STOP,Goalie Stopped,2022-12-12T01:11:43Z,3,06:10,13:50,5,5,,,
+261,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443423,2022020443,Faceoff,423,FACEOFF,Anze Kopitar faceoff won against Boone Jenner,2022-12-12T01:13:59Z,3,06:10,13:50,5,5,26.0,Los Angeles Kings,LAK
+262,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443424,2022020443,Takeaway,424,TAKEAWAY,Takeaway by Gustav Nyquist,2022-12-12T01:14:20Z,3,06:31,13:29,5,5,29.0,Columbus Blue Jackets,CBJ
+263,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443457,2022020443,Takeaway,457,TAKEAWAY,Takeaway by Sean Durzi,2022-12-12T01:14:25Z,3,06:36,13:24,5,5,26.0,Los Angeles Kings,LAK
+264,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443456,2022020443,Shot,456,SHOT,Anze Kopitar Wrist Shot saved by Elvis Merzlikins,2022-12-12T01:14:44Z,3,06:55,13:05,5,5,26.0,Los Angeles Kings,LAK
+265,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443658,2022020443,Missed Shot,658,MISSED_SHOT,Kevin Fiala Wide of Net Elvis Merzlikins,2022-12-12T01:14:47Z,3,06:58,13:02,5,5,26.0,Los Angeles Kings,LAK
+266,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443636,2022020443,Hit,636,HIT,Sean Walker hit Yegor Chinakhov,2022-12-12T01:15:21Z,3,07:32,12:28,5,5,26.0,Los Angeles Kings,LAK
+267,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443659,2022020443,Missed Shot,659,MISSED_SHOT,Sean Walker Wide of Net Elvis Merzlikins,2022-12-12T01:15:36Z,3,07:47,12:13,5,5,26.0,Los Angeles Kings,LAK
+268,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443660,2022020443,Missed Shot,660,MISSED_SHOT,Alex Iafallo Wide of Net Elvis Merzlikins,2022-12-12T01:15:47Z,3,07:58,12:02,5,5,26.0,Los Angeles Kings,LAK
+269,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443661,2022020443,Blocked Shot,661,BLOCKED_SHOT,Alex Iafallo shot blocked shot by Jack Roslovic,2022-12-12T01:15:55Z,3,08:06,11:54,5,5,29.0,Columbus Blue Jackets,CBJ
+270,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443662,2022020443,Missed Shot,662,MISSED_SHOT,Yegor Chinakhov Wide of Net Jonathan Quick,2022-12-12T01:16:09Z,3,08:20,11:40,5,5,29.0,Columbus Blue Jackets,CBJ
+271,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443638,2022020443,Stoppage,638,STOP,Icing,2022-12-12T01:16:34Z,3,08:45,11:15,5,5,,,
+272,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443425,2022020443,Faceoff,425,FACEOFF,Boone Jenner faceoff won against Blake Lizotte,2022-12-12T01:17:05Z,3,08:45,11:15,5,5,29.0,Columbus Blue Jackets,CBJ
+273,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443639,2022020443,Hit,639,HIT,Alexander Edler hit Johnny Gaudreau,2022-12-12T01:17:10Z,3,08:50,11:10,5,5,26.0,Los Angeles Kings,LAK
+274,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443663,2022020443,Blocked Shot,663,BLOCKED_SHOT,Marcus Bjork shot blocked shot by Viktor Arvidsson,2022-12-12T01:17:52Z,3,09:32,10:28,5,5,26.0,Los Angeles Kings,LAK
+275,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443664,2022020443,Missed Shot,664,MISSED_SHOT,Viktor Arvidsson Wide of Net Elvis Merzlikins,2022-12-12T01:18:03Z,3,09:43,10:17,5,5,26.0,Los Angeles Kings,LAK
+276,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443641,2022020443,Stoppage,641,STOP,Puck in Benches,2022-12-12T01:18:13Z,3,09:53,10:07,5,5,,,
+277,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443426,2022020443,Faceoff,426,FACEOFF,Jack Roslovic faceoff won against Anze Kopitar,2022-12-12T01:18:34Z,3,09:53,10:07,5,5,29.0,Columbus Blue Jackets,CBJ
+278,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443665,2022020443,Blocked Shot,665,BLOCKED_SHOT,Kevin Fiala shot blocked shot by Yegor Chinakhov,2022-12-12T01:19:09Z,3,10:28,09:32,5,5,29.0,Columbus Blue Jackets,CBJ
+279,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443427,2022020443,Takeaway,427,TAKEAWAY,Takeaway by Sean Kuraly,2022-12-12T01:19:36Z,3,10:55,09:05,5,5,29.0,Columbus Blue Jackets,CBJ
+280,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443642,2022020443,Hit,642,HIT,Sean Walker hit Sean Kuraly,2022-12-12T01:19:46Z,3,11:05,08:55,5,5,26.0,Los Angeles Kings,LAK
+281,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443666,2022020443,Shot,666,SHOT,Mathieu Olivier Wrap-around saved by Jonathan Quick,2022-12-12T01:19:47Z,3,11:06,08:54,5,5,29.0,Columbus Blue Jackets,CBJ
+282,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443667,2022020443,Shot,667,SHOT,Eric Robinson Snap Shot saved by Jonathan Quick,2022-12-12T01:19:55Z,3,11:14,08:46,5,5,29.0,Columbus Blue Jackets,CBJ
+283,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443643,2022020443,Hit,643,HIT,Adrian Kempe hit Andrew Peeke,2022-12-12T01:20:00Z,3,11:19,08:41,5,5,26.0,Los Angeles Kings,LAK
+284,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443644,2022020443,Stoppage,644,STOP,Goalie Stopped,2022-12-12T01:20:39Z,3,11:58,08:02,5,5,,,
+285,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443668,2022020443,Shot,668,SHOT,Jaret Anderson-Dolan Wrist Shot saved by Elvis Merzlikins,2022-12-12T01:20:39Z,3,11:58,08:02,5,5,26.0,Los Angeles Kings,LAK
+286,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443428,2022020443,Faceoff,428,FACEOFF,Phillip Danault faceoff won against Jack Roslovic,2022-12-12T01:22:59Z,3,11:58,08:02,5,5,26.0,Los Angeles Kings,LAK
+287,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443669,2022020443,Missed Shot,669,MISSED_SHOT,Trevor Moore Wide of Net Elvis Merzlikins,2022-12-12T01:23:06Z,3,12:05,07:55,5,5,26.0,Los Angeles Kings,LAK
+288,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443645,2022020443,Stoppage,645,STOP,Icing,2022-12-12T01:23:23Z,3,12:22,07:38,5,5,,,
+289,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443429,2022020443,Faceoff,429,FACEOFF,Anze Kopitar faceoff won against Jack Roslovic,2022-12-12T01:23:44Z,3,12:22,07:38,5,5,26.0,Los Angeles Kings,LAK
+290,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443430,2022020443,Takeaway,430,TAKEAWAY,Takeaway by Jack Roslovic,2022-12-12T01:24:08Z,3,12:46,07:14,5,5,29.0,Columbus Blue Jackets,CBJ
+291,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443670,2022020443,Shot,670,SHOT,Anze Kopitar Slap Shot saved by Elvis Merzlikins,2022-12-12T01:24:23Z,3,13:01,06:59,5,5,26.0,Los Angeles Kings,LAK
+292,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443646,2022020443,Stoppage,646,STOP,Goalie Stopped,2022-12-12T01:24:23Z,3,13:02,06:58,5,5,,,
+293,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443431,2022020443,Faceoff,431,FACEOFF,Boone Jenner faceoff won against Adrian Kempe,2022-12-12T01:25:01Z,3,13:02,06:58,5,5,29.0,Columbus Blue Jackets,CBJ
+294,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443647,2022020443,Hit,647,HIT,Mathieu Olivier hit Tobias Bjornfot,2022-12-12T01:25:13Z,3,13:14,06:46,5,5,29.0,Columbus Blue Jackets,CBJ
+295,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443671,2022020443,Shot,671,SHOT,Alexander Edler Slap Shot saved by Elvis Merzlikins,2022-12-12T01:25:51Z,3,13:52,06:08,5,5,26.0,Los Angeles Kings,LAK
+296,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443648,2022020443,Stoppage,648,STOP,Puck in Netting,2022-12-12T01:25:51Z,3,13:53,06:07,5,5,,,
+297,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443432,2022020443,Faceoff,432,FACEOFF,Boone Jenner faceoff won against Phillip Danault,2022-12-12T01:26:26Z,3,13:53,06:07,5,5,29.0,Columbus Blue Jackets,CBJ
+298,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443672,2022020443,Shot,672,SHOT,Alexander Edler Snap Shot saved by Elvis Merzlikins,2022-12-12T01:26:31Z,3,13:58,06:02,5,5,26.0,Los Angeles Kings,LAK
+299,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443649,2022020443,Stoppage,649,STOP,Goalie Stopped,2022-12-12T01:26:34Z,3,14:00,06:00,5,5,,,
+300,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443433,2022020443,Faceoff,433,FACEOFF,Phillip Danault faceoff won against Boone Jenner,2022-12-12T01:27:11Z,3,14:00,06:00,5,5,26.0,Los Angeles Kings,LAK
+301,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443673,2022020443,Missed Shot,673,MISSED_SHOT,Viktor Arvidsson Over Net Elvis Merzlikins,2022-12-12T01:27:39Z,3,14:28,05:32,5,5,26.0,Los Angeles Kings,LAK
+302,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443686,2022020443,Blocked Shot,686,BLOCKED_SHOT,Marcus Bjork shot blocked shot by Anze Kopitar,2022-12-12T01:28:06Z,3,14:55,05:05,5,5,26.0,Los Angeles Kings,LAK
+303,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443674,2022020443,Shot,674,SHOT,Vladislav Gavrikov Snap Shot saved by Jonathan Quick,2022-12-12T01:28:11Z,3,15:00,05:00,5,5,29.0,Columbus Blue Jackets,CBJ
+304,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443675,2022020443,Blocked Shot,675,BLOCKED_SHOT,Yegor Chinakhov shot blocked shot by Sean Durzi,2022-12-12T01:28:19Z,3,15:08,04:52,5,5,26.0,Los Angeles Kings,LAK
+305,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443434,2022020443,Takeaway,434,TAKEAWAY,Takeaway by Kirill Marchenko,2022-12-12T01:29:04Z,3,15:53,04:07,5,5,29.0,Columbus Blue Jackets,CBJ
+306,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443435,2022020443,Giveaway,435,GIVEAWAY,Giveaway by Kirill Marchenko,2022-12-12T01:29:22Z,3,16:11,03:49,5,5,29.0,Columbus Blue Jackets,CBJ
+307,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443676,2022020443,Blocked Shot,676,BLOCKED_SHOT,Sean Walker shot blocked shot by Cole Sillinger,2022-12-12T01:29:29Z,3,16:18,03:42,5,5,29.0,Columbus Blue Jackets,CBJ
+308,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443677,2022020443,Shot,677,SHOT,Kent Johnson Backhand saved by Jonathan Quick,2022-12-12T01:29:41Z,3,16:30,03:30,5,5,29.0,Columbus Blue Jackets,CBJ
+309,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443678,2022020443,Missed Shot,678,MISSED_SHOT,Boone Jenner Wide of Net Jonathan Quick,2022-12-12T01:29:52Z,3,16:41,03:19,5,5,29.0,Columbus Blue Jackets,CBJ
+310,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443801,2022020443,Stoppage,801,STOP,Offside,2022-12-12T01:29:57Z,3,16:46,03:14,5,5,,,
+311,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443436,2022020443,Faceoff,436,FACEOFF,Boone Jenner faceoff won against Anze Kopitar,2022-12-12T01:32:22Z,3,16:46,03:14,5,5,29.0,Columbus Blue Jackets,CBJ
+312,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443679,2022020443,Blocked Shot,679,BLOCKED_SHOT,Adrian Kempe shot blocked shot by Tim Berni,2022-12-12T01:33:21Z,3,17:45,02:15,5,5,29.0,Columbus Blue Jackets,CBJ
+313,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443680,2022020443,Blocked Shot,680,BLOCKED_SHOT,Yegor Chinakhov shot blocked shot by Sean Durzi,2022-12-12T01:33:42Z,3,18:06,01:54,5,5,26.0,Los Angeles Kings,LAK
+314,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443802,2022020443,Stoppage,802,STOP,Icing,2022-12-12T01:33:57Z,3,18:21,01:39,5,5,,,
+315,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443437,2022020443,Faceoff,437,FACEOFF,Gabriel Vilardi faceoff won against Boone Jenner,2022-12-12T01:34:26Z,3,18:21,01:39,5,5,26.0,Los Angeles Kings,LAK
+316,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443438,2022020443,Giveaway,438,GIVEAWAY,Giveaway by Johnny Gaudreau,2022-12-12T01:34:47Z,3,18:42,01:18,5,5,29.0,Columbus Blue Jackets,CBJ
+317,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443681,2022020443,Shot,681,SHOT,Gustav Nyquist Snap Shot saved by Jonathan Quick,2022-12-12T01:34:48Z,3,18:43,01:17,5,5,29.0,Columbus Blue Jackets,CBJ
+318,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443682,2022020443,Shot,682,SHOT,Erik Gudbranson Snap Shot saved by Jonathan Quick,2022-12-12T01:35:32Z,3,19:26,00:34,5,5,29.0,Columbus Blue Jackets,CBJ
+319,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443803,2022020443,Stoppage,803,STOP,Goalie Stopped,2022-12-12T01:35:32Z,3,19:26,00:34,5,5,,,
+320,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443439,2022020443,Faceoff,439,FACEOFF,Jack Roslovic faceoff won against Anze Kopitar,2022-12-12T01:36:01Z,3,19:26,00:34,5,5,29.0,Columbus Blue Jackets,CBJ
+321,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443683,2022020443,Blocked Shot,683,BLOCKED_SHOT,Marcus Bjork shot blocked shot by Anze Kopitar,2022-12-12T01:36:04Z,3,19:29,00:31,5,5,26.0,Los Angeles Kings,LAK
+322,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443804,2022020443,Period End,804,PERIOD_END,End of 3rd Period,2022-12-12T01:36:35Z,3,20:00,00:00,5,5,,,
+323,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443807,2022020443,Period Official,807,PERIOD_OFFICIAL,Period Official,2022-12-12T01:36:42Z,3,20:00,00:00,5,5,,,
+324,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443808,2022020443,Period Ready,808,PERIOD_READY,Period Ready,2022-12-12T01:37:05Z,4,00:00,05:00,5,5,,,
+325,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443440,2022020443,Period Start,440,PERIOD_START,Period Start,2022-12-12T01:38:53Z,4,00:00,05:00,5,5,,,
+326,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443441,2022020443,Faceoff,441,FACEOFF,Boone Jenner faceoff won against Anze Kopitar,2022-12-12T01:38:53Z,4,00:00,05:00,5,5,29.0,Columbus Blue Jackets,CBJ
+327,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443684,2022020443,Shot,684,SHOT,Patrik Laine Backhand saved by Jonathan Quick,2022-12-12T01:39:31Z,4,00:38,04:22,5,5,29.0,Columbus Blue Jackets,CBJ
+328,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443685,2022020443,Goal,685,GOAL,"Johnny Gaudreau (10) Deflected, assists: Patrik Laine (5), Vladislav Gavrikov (7)",2022-12-12T01:39:33Z,4,00:40,04:20,6,5,29.0,Columbus Blue Jackets,CBJ
+329,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443809,2022020443,Period End,809,PERIOD_END,End of OT,2022-12-12T01:39:33Z,4,00:40,04:20,6,5,,,
+330,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443814,2022020443,Stoppage,814,STOP,Video Review,2022-12-12T01:39:33Z,4,00:40,04:20,6,5,,,
+331,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443812,2022020443,Period Official,812,PERIOD_OFFICIAL,Period Official,2022-12-12T01:40:03Z,4,00:40,04:20,6,5,,,
+332,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443813,2022020443,Game End,813,GAME_END,Game End,2022-12-12T01:40:05Z,4,00:40,04:20,6,5,,,
+333,29,26,Columbus Blue Jackets,Los Angeles Kings,2022020443815,2022020443,Game Official,815,GAME_OFFICIAL,Game Official,2022-12-12T01:55:15Z,4,00:40,04:20,6,5,,,

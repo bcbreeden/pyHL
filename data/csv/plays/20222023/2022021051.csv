@@ -1,0 +1,352 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,28,30,San Jose Sharks,Minnesota Wild,20220210511,2022021051,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-03-12T02:45:43Z,1,00:00,20:00,0,0,,,
+1,28,30,San Jose Sharks,Minnesota Wild,20220210515,2022021051,Period Ready,5,PERIOD_READY,Period Ready,2023-03-12T03:39:32Z,1,00:00,20:00,0,0,,,
+2,28,30,San Jose Sharks,Minnesota Wild,2022021051101,2022021051,Period Start,101,PERIOD_START,Period Start,2023-03-12T03:40:05Z,1,00:00,20:00,0,0,,,
+3,28,30,San Jose Sharks,Minnesota Wild,2022021051102,2022021051,Faceoff,102,FACEOFF,Joel Eriksson Ek faceoff won against Tomas Hertl,2023-03-12T03:40:05Z,1,00:00,20:00,0,0,30.0,Minnesota Wild,MIN
+4,28,30,San Jose Sharks,Minnesota Wild,2022021051104,2022021051,Giveaway,104,GIVEAWAY,Giveaway by John Klingberg,2023-03-12T03:40:25Z,1,00:22,19:38,0,0,30.0,Minnesota Wild,MIN
+5,28,30,San Jose Sharks,Minnesota Wild,2022021051103,2022021051,Giveaway,103,GIVEAWAY,Giveaway by Fabian Zetterlund,2023-03-12T03:40:28Z,1,00:25,19:35,0,0,28.0,San Jose Sharks,SJS
+6,28,30,San Jose Sharks,Minnesota Wild,20220210519,2022021051,Shot,9,SHOT,Fabian Zetterlund Wrist Shot saved by Marc-Andre Fleury,2023-03-12T03:40:39Z,1,00:36,19:24,0,0,28.0,San Jose Sharks,SJS
+7,28,30,San Jose Sharks,Minnesota Wild,202202105110,2022021051,Shot,10,SHOT,Joel Eriksson Ek Wrist Shot saved by James Reimer,2023-03-12T03:40:53Z,1,00:50,19:10,0,0,30.0,Minnesota Wild,MIN
+8,28,30,San Jose Sharks,Minnesota Wild,202202105111,2022021051,Goal,11,GOAL,"Jared Spurgeon (10) Snap Shot, assists: Mats Zuccarello (40), Ryan Hartman (15)",2023-03-12T03:41:48Z,1,01:44,18:16,0,1,30.0,Minnesota Wild,MIN
+9,28,30,San Jose Sharks,Minnesota Wild,2022021051105,2022021051,Faceoff,105,FACEOFF,Frederick Gaudreau faceoff won against Nico Sturm,2023-03-12T03:42:26Z,1,01:44,18:16,0,1,30.0,Minnesota Wild,MIN
+10,28,30,San Jose Sharks,Minnesota Wild,2022021051151,2022021051,Stoppage,151,STOP,Puck in Crowd,2023-03-12T03:42:33Z,1,01:52,18:08,0,1,,,
+11,28,30,San Jose Sharks,Minnesota Wild,2022021051106,2022021051,Faceoff,106,FACEOFF,Nico Sturm faceoff won against Frederick Gaudreau,2023-03-12T03:42:51Z,1,01:52,18:08,0,1,28.0,San Jose Sharks,SJS
+12,28,30,San Jose Sharks,Minnesota Wild,2022021051152,2022021051,Stoppage,152,STOP,Icing,2023-03-12T03:42:59Z,1,02:00,18:00,0,1,,,
+13,28,30,San Jose Sharks,Minnesota Wild,2022021051107,2022021051,Faceoff,107,FACEOFF,Nico Sturm faceoff won against Frederick Gaudreau,2023-03-12T03:43:25Z,1,02:00,18:00,0,1,28.0,San Jose Sharks,SJS
+14,28,30,San Jose Sharks,Minnesota Wild,2022021051108,2022021051,Giveaway,108,GIVEAWAY,Giveaway by Noah Gregor,2023-03-12T03:43:29Z,1,02:04,17:56,0,1,28.0,San Jose Sharks,SJS
+15,28,30,San Jose Sharks,Minnesota Wild,2022021051109,2022021051,Giveaway,109,GIVEAWAY,Giveaway by Frederick Gaudreau,2023-03-12T03:43:56Z,1,02:30,17:30,0,1,30.0,Minnesota Wild,MIN
+16,28,30,San Jose Sharks,Minnesota Wild,2022021051153,2022021051,Hit,153,HIT,John Klingberg hit Steven Lorentz,2023-03-12T03:44:16Z,1,02:51,17:09,0,1,30.0,Minnesota Wild,MIN
+17,28,30,San Jose Sharks,Minnesota Wild,202202105112,2022021051,Missed Shot,12,MISSED_SHOT,John Klingberg Wide of Net James Reimer,2023-03-12T03:44:37Z,1,03:12,16:48,0,1,30.0,Minnesota Wild,MIN
+18,28,30,San Jose Sharks,Minnesota Wild,202202105113,2022021051,Blocked Shot,13,BLOCKED_SHOT,Fabian Zetterlund shot blocked shot by Jon Merrill,2023-03-12T03:44:59Z,1,03:34,16:26,0,1,30.0,Minnesota Wild,MIN
+19,28,30,San Jose Sharks,Minnesota Wild,2022021051110,2022021051,Takeaway,110,TAKEAWAY,Takeaway by William Eklund,2023-03-12T03:45:27Z,1,04:02,15:58,0,1,28.0,San Jose Sharks,SJS
+20,28,30,San Jose Sharks,Minnesota Wild,202202105114,2022021051,Blocked Shot,14,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Jake Middleton,2023-03-12T03:45:32Z,1,04:07,15:53,0,1,30.0,Minnesota Wild,MIN
+21,28,30,San Jose Sharks,Minnesota Wild,202202105129,2022021051,Shot,29,SHOT,Tomas Hertl Wrist Shot saved by Marc-Andre Fleury,2023-03-12T03:45:33Z,1,04:08,15:52,0,1,28.0,San Jose Sharks,SJS
+22,28,30,San Jose Sharks,Minnesota Wild,202202105122,2022021051,Missed Shot,22,MISSED_SHOT,Nikolai Knyzhov Wide of Net Marc-Andre Fleury,2023-03-12T03:45:36Z,1,04:11,15:49,0,1,28.0,San Jose Sharks,SJS
+23,28,30,San Jose Sharks,Minnesota Wild,202202105115,2022021051,Shot,15,SHOT,Erik Karlsson Slap Shot saved by Marc-Andre Fleury,2023-03-12T03:45:49Z,1,04:24,15:36,0,1,28.0,San Jose Sharks,SJS
+24,28,30,San Jose Sharks,Minnesota Wild,2022021051154,2022021051,Hit,154,HIT,Nikolai Knyzhov hit Matt Boldy,2023-03-12T03:45:52Z,1,04:27,15:33,0,1,28.0,San Jose Sharks,SJS
+25,28,30,San Jose Sharks,Minnesota Wild,2022021051111,2022021051,Takeaway,111,TAKEAWAY,Takeaway by Andreas Johnsson,2023-03-12T03:45:59Z,1,04:34,15:26,0,1,28.0,San Jose Sharks,SJS
+26,28,30,San Jose Sharks,Minnesota Wild,202202105116,2022021051,Shot,16,SHOT,Alexander Barabanov Tip-In saved by Marc-Andre Fleury,2023-03-12T03:46:08Z,1,04:43,15:17,0,1,28.0,San Jose Sharks,SJS
+27,28,30,San Jose Sharks,Minnesota Wild,2022021051503,2022021051,Shot,503,SHOT,Alexander Barabanov Wrist Shot saved by Marc-Andre Fleury,2023-03-12T03:46:09Z,1,04:44,15:16,0,1,28.0,San Jose Sharks,SJS
+28,28,30,San Jose Sharks,Minnesota Wild,202202105117,2022021051,Shot,17,SHOT,Andreas Johnsson Backhand saved by Marc-Andre Fleury,2023-03-12T03:46:10Z,1,04:45,15:15,0,1,28.0,San Jose Sharks,SJS
+29,28,30,San Jose Sharks,Minnesota Wild,202202105118,2022021051,Shot,18,SHOT,Alexander Barabanov Tip-In saved by Marc-Andre Fleury,2023-03-12T03:46:17Z,1,04:52,15:08,0,1,28.0,San Jose Sharks,SJS
+30,28,30,San Jose Sharks,Minnesota Wild,202202105119,2022021051,Missed Shot,19,MISSED_SHOT,Logan Couture Wide of Net Marc-Andre Fleury,2023-03-12T03:46:30Z,1,05:05,14:55,0,1,28.0,San Jose Sharks,SJS
+31,28,30,San Jose Sharks,Minnesota Wild,2022021051157,2022021051,Hit,157,HIT,Matt Benning hit Marcus Foligno,2023-03-12T03:47:19Z,1,05:54,14:06,0,1,28.0,San Jose Sharks,SJS
+32,28,30,San Jose Sharks,Minnesota Wild,2022021051158,2022021051,Stoppage,158,STOP,Puck in Benches,2023-03-12T03:48:01Z,1,06:35,13:25,0,1,,,
+33,28,30,San Jose Sharks,Minnesota Wild,2022021051112,2022021051,Faceoff,112,FACEOFF,William Eklund faceoff won against Connor Dewar,2023-03-12T03:50:18Z,1,06:35,13:25,0,1,28.0,San Jose Sharks,SJS
+34,28,30,San Jose Sharks,Minnesota Wild,2022021051113,2022021051,Takeaway,113,TAKEAWAY,Takeaway by Mason Shaw,2023-03-12T03:50:49Z,1,07:06,12:54,0,1,30.0,Minnesota Wild,MIN
+35,28,30,San Jose Sharks,Minnesota Wild,2022021051114,2022021051,Takeaway,114,TAKEAWAY,Takeaway by Tomas Hertl,2023-03-12T03:51:13Z,1,07:30,12:30,0,1,28.0,San Jose Sharks,SJS
+36,28,30,San Jose Sharks,Minnesota Wild,202202105120,2022021051,Shot,20,SHOT,Tomas Hertl Wrist Shot saved by Marc-Andre Fleury,2023-03-12T03:51:17Z,1,07:34,12:26,0,1,28.0,San Jose Sharks,SJS
+37,28,30,San Jose Sharks,Minnesota Wild,2022021051159,2022021051,Hit,159,HIT,Logan Couture hit Matt Dumba,2023-03-12T03:51:31Z,1,07:48,12:12,0,1,28.0,San Jose Sharks,SJS
+38,28,30,San Jose Sharks,Minnesota Wild,202202105121,2022021051,Blocked Shot,21,BLOCKED_SHOT,Derrick Pouliot shot blocked shot by Marcus Johansson,2023-03-12T03:51:34Z,1,07:51,12:09,0,1,30.0,Minnesota Wild,MIN
+39,28,30,San Jose Sharks,Minnesota Wild,2022021051160,2022021051,Stoppage,160,STOP,Puck in Crowd,2023-03-12T03:51:34Z,1,07:51,12:09,0,1,,,
+40,28,30,San Jose Sharks,Minnesota Wild,2022021051115,2022021051,Faceoff,115,FACEOFF,Matt Boldy faceoff won against Logan Couture,2023-03-12T03:52:09Z,1,07:51,12:09,0,1,30.0,Minnesota Wild,MIN
+41,28,30,San Jose Sharks,Minnesota Wild,2022021051161,2022021051,Stoppage,161,STOP,Offside,2023-03-12T03:52:16Z,1,07:58,12:02,0,1,,,
+42,28,30,San Jose Sharks,Minnesota Wild,2022021051116,2022021051,Faceoff,116,FACEOFF,Logan Couture faceoff won against Joel Eriksson Ek,2023-03-12T03:52:34Z,1,07:58,12:02,0,1,28.0,San Jose Sharks,SJS
+43,28,30,San Jose Sharks,Minnesota Wild,202202105123,2022021051,Blocked Shot,23,BLOCKED_SHOT,Mario Ferraro shot blocked shot by Matt Dumba,2023-03-12T03:52:50Z,1,08:14,11:46,0,1,30.0,Minnesota Wild,MIN
+44,28,30,San Jose Sharks,Minnesota Wild,2022021051162,2022021051,Hit,162,HIT,Matt Dumba hit Andreas Johnsson,2023-03-12T03:52:52Z,1,08:16,11:44,0,1,30.0,Minnesota Wild,MIN
+45,28,30,San Jose Sharks,Minnesota Wild,202202105124,2022021051,Missed Shot,24,MISSED_SHOT,Alexander Barabanov Wide of Net Marc-Andre Fleury,2023-03-12T03:52:53Z,1,08:17,11:43,0,1,28.0,San Jose Sharks,SJS
+46,28,30,San Jose Sharks,Minnesota Wild,202202105125,2022021051,Shot,25,SHOT,Logan Couture Wrist Shot saved by Marc-Andre Fleury,2023-03-12T03:53:04Z,1,08:28,11:32,0,1,28.0,San Jose Sharks,SJS
+47,28,30,San Jose Sharks,Minnesota Wild,2022021051163,2022021051,Stoppage,163,STOP,High Stick,2023-03-12T03:53:06Z,1,08:29,11:31,0,1,,,
+48,28,30,San Jose Sharks,Minnesota Wild,2022021051117,2022021051,Faceoff,117,FACEOFF,Ryan Hartman faceoff won against Nico Sturm,2023-03-12T03:53:29Z,1,08:29,11:31,0,1,30.0,Minnesota Wild,MIN
+49,28,30,San Jose Sharks,Minnesota Wild,2022021051164,2022021051,Stoppage,164,STOP,Puck Frozen,2023-03-12T03:53:46Z,1,08:46,11:14,0,1,,,
+50,28,30,San Jose Sharks,Minnesota Wild,2022021051118,2022021051,Faceoff,118,FACEOFF,Ryan Hartman faceoff won against Nico Sturm,2023-03-12T03:54:09Z,1,08:46,11:14,0,1,30.0,Minnesota Wild,MIN
+51,28,30,San Jose Sharks,Minnesota Wild,202202105126,2022021051,Missed Shot,26,MISSED_SHOT,Ryan Hartman Wide of Net James Reimer,2023-03-12T03:54:14Z,1,08:51,11:09,0,1,30.0,Minnesota Wild,MIN
+52,28,30,San Jose Sharks,Minnesota Wild,2022021051119,2022021051,Giveaway,119,GIVEAWAY,Giveaway by Erik Karlsson,2023-03-12T03:54:35Z,1,09:12,10:48,0,1,28.0,San Jose Sharks,SJS
+53,28,30,San Jose Sharks,Minnesota Wild,2022021051120,2022021051,Giveaway,120,GIVEAWAY,Giveaway by Jake Middleton,2023-03-12T03:54:50Z,1,09:27,10:33,0,1,30.0,Minnesota Wild,MIN
+54,28,30,San Jose Sharks,Minnesota Wild,2022021051165,2022021051,Hit,165,HIT,Kevin Labanc hit Jake Middleton,2023-03-12T03:54:52Z,1,09:29,10:31,0,1,28.0,San Jose Sharks,SJS
+55,28,30,San Jose Sharks,Minnesota Wild,2022021051166,2022021051,Hit,166,HIT,Jake Middleton hit Steven Lorentz,2023-03-12T03:55:02Z,1,09:39,10:21,0,1,30.0,Minnesota Wild,MIN
+56,28,30,San Jose Sharks,Minnesota Wild,202202105127,2022021051,Blocked Shot,27,BLOCKED_SHOT,Kevin Labanc shot blocked shot by Jared Spurgeon,2023-03-12T03:55:20Z,1,09:57,10:03,0,1,30.0,Minnesota Wild,MIN
+57,28,30,San Jose Sharks,Minnesota Wild,2022021051121,2022021051,Takeaway,121,TAKEAWAY,Takeaway by Erik Karlsson,2023-03-12T03:55:26Z,1,10:03,09:57,0,1,28.0,San Jose Sharks,SJS
+58,28,30,San Jose Sharks,Minnesota Wild,2022021051122,2022021051,Giveaway,122,GIVEAWAY,Giveaway by Tomas Hertl,2023-03-12T03:55:40Z,1,10:17,09:43,0,1,28.0,San Jose Sharks,SJS
+59,28,30,San Jose Sharks,Minnesota Wild,202202105128,2022021051,Missed Shot,28,MISSED_SHOT,Fabian Zetterlund Hit Crossbar Marc-Andre Fleury,2023-03-12T03:56:09Z,1,10:47,09:13,0,1,28.0,San Jose Sharks,SJS
+60,28,30,San Jose Sharks,Minnesota Wild,2022021051168,2022021051,Stoppage,168,STOP,Puck in Netting,2023-03-12T03:56:09Z,1,10:47,09:13,0,1,,,
+61,28,30,San Jose Sharks,Minnesota Wild,2022021051123,2022021051,Faceoff,123,FACEOFF,Logan Couture faceoff won against Frederick Gaudreau,2023-03-12T03:58:24Z,1,10:47,09:13,0,1,28.0,San Jose Sharks,SJS
+62,28,30,San Jose Sharks,Minnesota Wild,2022021051124,2022021051,Giveaway,124,GIVEAWAY,Giveaway by Erik Karlsson,2023-03-12T03:59:19Z,1,11:42,08:18,0,1,28.0,San Jose Sharks,SJS
+63,28,30,San Jose Sharks,Minnesota Wild,2022021051125,2022021051,Giveaway,125,GIVEAWAY,Giveaway by Matt Dumba,2023-03-12T03:59:22Z,1,11:45,08:15,0,1,30.0,Minnesota Wild,MIN
+64,28,30,San Jose Sharks,Minnesota Wild,202202105130,2022021051,Shot,30,SHOT,Noah Gregor Wrist Shot saved by Marc-Andre Fleury,2023-03-12T03:59:39Z,1,12:02,07:58,0,1,28.0,San Jose Sharks,SJS
+65,28,30,San Jose Sharks,Minnesota Wild,2022021051170,2022021051,Hit,170,HIT,Noah Gregor hit John Klingberg,2023-03-12T03:59:50Z,1,12:13,07:47,0,1,28.0,San Jose Sharks,SJS
+66,28,30,San Jose Sharks,Minnesota Wild,202202105131,2022021051,Shot,31,SHOT,Ryan Reaves Tip-In saved by James Reimer,2023-03-12T04:00:05Z,1,12:28,07:32,0,1,30.0,Minnesota Wild,MIN
+67,28,30,San Jose Sharks,Minnesota Wild,202202105133,2022021051,Shot,33,SHOT,Nico Sturm Backhand saved by Marc-Andre Fleury,2023-03-12T04:00:14Z,1,12:37,07:23,0,1,28.0,San Jose Sharks,SJS
+68,28,30,San Jose Sharks,Minnesota Wild,202202105134,2022021051,Shot,34,SHOT,Oskar Lindblom Tip-In saved by Marc-Andre Fleury,2023-03-12T04:00:31Z,1,12:54,07:06,0,1,28.0,San Jose Sharks,SJS
+69,28,30,San Jose Sharks,Minnesota Wild,2022021051171,2022021051,Hit,171,HIT,Joel Eriksson Ek hit Oskar Lindblom,2023-03-12T04:00:37Z,1,13:00,07:00,0,1,30.0,Minnesota Wild,MIN
+70,28,30,San Jose Sharks,Minnesota Wild,202202105135,2022021051,Shot,35,SHOT,Matt Boldy Wrist Shot saved by James Reimer,2023-03-12T04:00:59Z,1,13:22,06:38,0,1,30.0,Minnesota Wild,MIN
+71,28,30,San Jose Sharks,Minnesota Wild,202202105136,2022021051,Shot,36,SHOT,Joel Eriksson Ek Wrist Shot saved by James Reimer,2023-03-12T04:01:09Z,1,13:32,06:28,0,1,30.0,Minnesota Wild,MIN
+72,28,30,San Jose Sharks,Minnesota Wild,2022021051126,2022021051,Takeaway,126,TAKEAWAY,Takeaway by Matt Dumba,2023-03-12T04:01:15Z,1,13:38,06:22,0,1,30.0,Minnesota Wild,MIN
+73,28,30,San Jose Sharks,Minnesota Wild,2022021051172,2022021051,Hit,172,HIT,Matt Boldy hit William Eklund,2023-03-12T04:01:23Z,1,13:46,06:14,0,1,30.0,Minnesota Wild,MIN
+74,28,30,San Jose Sharks,Minnesota Wild,2022021051127,2022021051,Takeaway,127,TAKEAWAY,Takeaway by Mario Ferraro,2023-03-12T04:02:12Z,1,14:35,05:25,0,1,28.0,San Jose Sharks,SJS
+75,28,30,San Jose Sharks,Minnesota Wild,202202105137,2022021051,Missed Shot,37,MISSED_SHOT,Frederick Gaudreau Wide of Net James Reimer,2023-03-12T04:03:16Z,1,15:39,04:21,0,1,30.0,Minnesota Wild,MIN
+76,28,30,San Jose Sharks,Minnesota Wild,2022021051173,2022021051,Hit,173,HIT,Marcus Foligno hit Evgeny Svechnikov,2023-03-12T04:03:21Z,1,15:44,04:16,0,1,30.0,Minnesota Wild,MIN
+77,28,30,San Jose Sharks,Minnesota Wild,202202105138,2022021051,Missed Shot,38,MISSED_SHOT,Frederick Gaudreau Wide of Net James Reimer,2023-03-12T04:03:24Z,1,15:47,04:13,0,1,30.0,Minnesota Wild,MIN
+78,28,30,San Jose Sharks,Minnesota Wild,202202105139,2022021051,Blocked Shot,39,BLOCKED_SHOT,Oskar Lindblom shot blocked shot by Frederick Gaudreau,2023-03-12T04:03:39Z,1,16:02,03:58,0,1,30.0,Minnesota Wild,MIN
+79,28,30,San Jose Sharks,Minnesota Wild,2022021051174,2022021051,Hit,174,HIT,Ryan Reaves hit Nikolai Knyzhov,2023-03-12T04:03:50Z,1,16:13,03:47,0,1,30.0,Minnesota Wild,MIN
+80,28,30,San Jose Sharks,Minnesota Wild,202202105140,2022021051,Shot,40,SHOT,Steven Lorentz Wrist Shot saved by Marc-Andre Fleury,2023-03-12T04:03:53Z,1,16:16,03:44,0,1,28.0,San Jose Sharks,SJS
+81,28,30,San Jose Sharks,Minnesota Wild,2022021051175,2022021051,Stoppage,175,STOP,Goalie Stopped,2023-03-12T04:03:55Z,1,16:17,03:43,0,1,,,
+82,28,30,San Jose Sharks,Minnesota Wild,2022021051128,2022021051,Faceoff,128,FACEOFF,Tomas Hertl faceoff won against Joel Eriksson Ek,2023-03-12T04:06:10Z,1,16:17,03:43,0,1,28.0,San Jose Sharks,SJS
+83,28,30,San Jose Sharks,Minnesota Wild,2022021051129,2022021051,Giveaway,129,GIVEAWAY,Giveaway by William Eklund,2023-03-12T04:06:22Z,1,16:29,03:31,0,1,28.0,San Jose Sharks,SJS
+84,28,30,San Jose Sharks,Minnesota Wild,202202105141,2022021051,Blocked Shot,41,BLOCKED_SHOT,Matt Boldy shot blocked shot by Erik Karlsson,2023-03-12T04:06:27Z,1,16:34,03:26,0,1,28.0,San Jose Sharks,SJS
+85,28,30,San Jose Sharks,Minnesota Wild,202202105142,2022021051,Shot,42,SHOT,William Eklund Wrist Shot saved by Marc-Andre Fleury,2023-03-12T04:06:39Z,1,16:46,03:14,0,1,28.0,San Jose Sharks,SJS
+86,28,30,San Jose Sharks,Minnesota Wild,202202105143,2022021051,Shot,43,SHOT,Erik Karlsson Tip-In saved by Marc-Andre Fleury,2023-03-12T04:06:47Z,1,16:54,03:06,0,1,28.0,San Jose Sharks,SJS
+87,28,30,San Jose Sharks,Minnesota Wild,202202105144,2022021051,Blocked Shot,44,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Matt Dumba,2023-03-12T04:06:53Z,1,17:01,02:59,0,1,30.0,Minnesota Wild,MIN
+88,28,30,San Jose Sharks,Minnesota Wild,2022021051176,2022021051,Stoppage,176,STOP,Puck in Netting,2023-03-12T04:06:53Z,1,17:01,02:59,0,1,,,
+89,28,30,San Jose Sharks,Minnesota Wild,2022021051130,2022021051,Faceoff,130,FACEOFF,Logan Couture faceoff won against Connor Dewar,2023-03-12T04:07:20Z,1,17:01,02:59,0,1,28.0,San Jose Sharks,SJS
+90,28,30,San Jose Sharks,Minnesota Wild,202202105145,2022021051,Shot,45,SHOT,Andreas Johnsson Wrist Shot saved by Marc-Andre Fleury,2023-03-12T04:07:35Z,1,17:16,02:44,0,1,28.0,San Jose Sharks,SJS
+91,28,30,San Jose Sharks,Minnesota Wild,2022021051177,2022021051,Stoppage,177,STOP,Offside,2023-03-12T04:07:42Z,1,17:23,02:37,0,1,,,
+92,28,30,San Jose Sharks,Minnesota Wild,2022021051131,2022021051,Faceoff,131,FACEOFF,Ryan Hartman faceoff won against Noah Gregor,2023-03-12T04:08:18Z,1,17:23,02:37,0,1,30.0,Minnesota Wild,MIN
+93,28,30,San Jose Sharks,Minnesota Wild,2022021051297,2022021051,Penalty,297,PENALTY,Ryan Hartman Tripping against Noah Gregor,2023-03-12T04:08:34Z,1,17:40,02:20,0,1,30.0,Minnesota Wild,MIN
+94,28,30,San Jose Sharks,Minnesota Wild,2022021051132,2022021051,Faceoff,132,FACEOFF,Frederick Gaudreau faceoff won against Tomas Hertl,2023-03-12T04:09:14Z,1,17:40,02:20,0,1,30.0,Minnesota Wild,MIN
+95,28,30,San Jose Sharks,Minnesota Wild,2022021051133,2022021051,Giveaway,133,GIVEAWAY,Giveaway by Joel Eriksson Ek,2023-03-12T04:09:17Z,1,17:43,02:17,0,1,30.0,Minnesota Wild,MIN
+96,28,30,San Jose Sharks,Minnesota Wild,202202105146,2022021051,Blocked Shot,46,BLOCKED_SHOT,William Eklund shot blocked shot by Jake Middleton,2023-03-12T04:09:48Z,1,18:14,01:46,0,1,30.0,Minnesota Wild,MIN
+97,28,30,San Jose Sharks,Minnesota Wild,202202105147,2022021051,Shot,47,SHOT,Tomas Hertl Slap Shot saved by Marc-Andre Fleury,2023-03-12T04:09:59Z,1,18:25,01:35,0,1,28.0,San Jose Sharks,SJS
+98,28,30,San Jose Sharks,Minnesota Wild,2022021051179,2022021051,Stoppage,179,STOP,Goalie Stopped,2023-03-12T04:10:03Z,1,18:28,01:32,0,1,,,
+99,28,30,San Jose Sharks,Minnesota Wild,2022021051184,2022021051,Penalty,184,PENALTY,Tomas Hertl High-sticking against Jake Middleton,2023-03-12T04:10:03Z,1,18:28,01:32,0,1,28.0,San Jose Sharks,SJS
+100,28,30,San Jose Sharks,Minnesota Wild,2022021051134,2022021051,Faceoff,134,FACEOFF,Marcus Johansson faceoff won against Nico Sturm,2023-03-12T04:11:42Z,1,18:28,01:32,0,1,30.0,Minnesota Wild,MIN
+101,28,30,San Jose Sharks,Minnesota Wild,2022021051135,2022021051,Takeaway,135,TAKEAWAY,Takeaway by Mats Zuccarello,2023-03-12T04:11:56Z,1,18:42,01:18,0,1,30.0,Minnesota Wild,MIN
+102,28,30,San Jose Sharks,Minnesota Wild,2022021051189,2022021051,Stoppage,189,STOP,Offside,2023-03-12T04:12:16Z,1,19:01,00:59,0,1,,,
+103,28,30,San Jose Sharks,Minnesota Wild,2022021051136,2022021051,Faceoff,136,FACEOFF,Joel Eriksson Ek faceoff won against Logan Couture,2023-03-12T04:12:38Z,1,19:01,00:59,0,1,30.0,Minnesota Wild,MIN
+104,28,30,San Jose Sharks,Minnesota Wild,202202105149,2022021051,Shot,49,SHOT,Noah Gregor Wrist Shot saved by Marc-Andre Fleury,2023-03-12T04:12:42Z,1,19:05,00:55,0,1,28.0,San Jose Sharks,SJS
+105,28,30,San Jose Sharks,Minnesota Wild,2022021051137,2022021051,Giveaway,137,GIVEAWAY,Giveaway by Matt Boldy,2023-03-12T04:12:50Z,1,19:13,00:47,0,1,30.0,Minnesota Wild,MIN
+106,28,30,San Jose Sharks,Minnesota Wild,2022021051463,2022021051,Penalty,463,PENALTY,Noah Gregor Boarding against Alex Goligoski,2023-03-12T04:13:24Z,1,19:47,00:13,0,1,28.0,San Jose Sharks,SJS
+107,28,30,San Jose Sharks,Minnesota Wild,2022021051139,2022021051,Faceoff,139,FACEOFF,Ryan Hartman faceoff won against Logan Couture,2023-03-12T04:14:17Z,1,19:47,00:13,0,1,30.0,Minnesota Wild,MIN
+108,28,30,San Jose Sharks,Minnesota Wild,202202105150,2022021051,Blocked Shot,50,BLOCKED_SHOT,Mats Zuccarello shot blocked shot by Mario Ferraro,2023-03-12T04:14:22Z,1,19:53,00:07,0,1,28.0,San Jose Sharks,SJS
+109,28,30,San Jose Sharks,Minnesota Wild,2022021051140,2022021051,Takeaway,140,TAKEAWAY,Takeaway by Logan Couture,2023-03-12T04:14:25Z,1,19:56,00:04,0,1,28.0,San Jose Sharks,SJS
+110,28,30,San Jose Sharks,Minnesota Wild,2022021051301,2022021051,Missed Shot,301,MISSED_SHOT,Logan Couture Wide of Net Marc-Andre Fleury,2023-03-12T04:14:29Z,1,20:00,00:00,0,1,28.0,San Jose Sharks,SJS
+111,28,30,San Jose Sharks,Minnesota Wild,2022021051302,2022021051,Period End,302,PERIOD_END,End of 1st Period,2023-03-12T04:14:29Z,1,20:00,00:00,0,1,,,
+112,28,30,San Jose Sharks,Minnesota Wild,2022021051305,2022021051,Period Official,305,PERIOD_OFFICIAL,Period Official,2023-03-12T04:14:42Z,1,20:00,00:00,0,1,,,
+113,28,30,San Jose Sharks,Minnesota Wild,2022021051306,2022021051,Period Ready,306,PERIOD_READY,Period Ready,2023-03-12T04:33:06Z,2,00:00,20:00,0,1,,,
+114,28,30,San Jose Sharks,Minnesota Wild,2022021051141,2022021051,Period Start,141,PERIOD_START,Period Start,2023-03-12T04:33:22Z,2,00:00,20:00,0,1,,,
+115,28,30,San Jose Sharks,Minnesota Wild,2022021051142,2022021051,Faceoff,142,FACEOFF,Logan Couture faceoff won against Joel Eriksson Ek,2023-03-12T04:33:22Z,2,00:00,20:00,0,1,28.0,San Jose Sharks,SJS
+116,28,30,San Jose Sharks,Minnesota Wild,2022021051307,2022021051,Missed Shot,307,MISSED_SHOT,Matt Boldy Wide of Net James Reimer,2023-03-12T04:33:48Z,2,00:26,19:34,0,1,30.0,Minnesota Wild,MIN
+117,28,30,San Jose Sharks,Minnesota Wild,2022021051193,2022021051,Stoppage,193,STOP,Goalie Stopped,2023-03-12T04:33:53Z,2,00:32,19:28,0,1,,,
+118,28,30,San Jose Sharks,Minnesota Wild,2022021051308,2022021051,Shot,308,SHOT,Matt Boldy Slap Shot saved by James Reimer,2023-03-12T04:33:53Z,2,00:32,19:28,0,1,30.0,Minnesota Wild,MIN
+119,28,30,San Jose Sharks,Minnesota Wild,2022021051143,2022021051,Faceoff,143,FACEOFF,Joel Eriksson Ek faceoff won against Nico Sturm,2023-03-12T04:34:15Z,2,00:32,19:28,0,1,30.0,Minnesota Wild,MIN
+120,28,30,San Jose Sharks,Minnesota Wild,2022021051194,2022021051,Stoppage,194,STOP,Puck in Netting,2023-03-12T04:34:20Z,2,00:37,19:23,0,1,,,
+121,28,30,San Jose Sharks,Minnesota Wild,2022021051309,2022021051,Blocked Shot,309,BLOCKED_SHOT,Matt Boldy shot blocked shot by Mario Ferraro,2023-03-12T04:34:20Z,2,00:37,19:23,0,1,28.0,San Jose Sharks,SJS
+122,28,30,San Jose Sharks,Minnesota Wild,2022021051144,2022021051,Faceoff,144,FACEOFF,Ryan Hartman faceoff won against Nico Sturm,2023-03-12T04:34:43Z,2,00:37,19:23,0,1,30.0,Minnesota Wild,MIN
+123,28,30,San Jose Sharks,Minnesota Wild,2022021051195,2022021051,Hit,195,HIT,Ryan Hartman hit Mario Ferraro,2023-03-12T04:34:51Z,2,00:45,19:15,0,1,30.0,Minnesota Wild,MIN
+124,28,30,San Jose Sharks,Minnesota Wild,2022021051196,2022021051,Stoppage,196,STOP,Goalie Stopped,2023-03-12T04:34:53Z,2,00:47,19:13,0,1,,,
+125,28,30,San Jose Sharks,Minnesota Wild,2022021051310,2022021051,Shot,310,SHOT,Joel Eriksson Ek Wrist Shot saved by James Reimer,2023-03-12T04:34:53Z,2,00:47,19:13,0,1,30.0,Minnesota Wild,MIN
+126,28,30,San Jose Sharks,Minnesota Wild,2022021051145,2022021051,Faceoff,145,FACEOFF,Nico Sturm faceoff won against Joel Eriksson Ek,2023-03-12T04:35:26Z,2,00:47,19:13,0,1,28.0,San Jose Sharks,SJS
+127,28,30,San Jose Sharks,Minnesota Wild,2022021051146,2022021051,Takeaway,146,TAKEAWAY,Takeaway by John Klingberg,2023-03-12T04:35:41Z,2,01:02,18:58,0,1,30.0,Minnesota Wild,MIN
+128,28,30,San Jose Sharks,Minnesota Wild,2022021051311,2022021051,Shot,311,SHOT,Matt Boldy Wrist Shot saved by James Reimer,2023-03-12T04:35:44Z,2,01:05,18:55,0,1,30.0,Minnesota Wild,MIN
+129,28,30,San Jose Sharks,Minnesota Wild,2022021051312,2022021051,Blocked Shot,312,BLOCKED_SHOT,Joel Eriksson Ek shot blocked shot by Matt Benning,2023-03-12T04:35:48Z,2,01:09,18:51,0,1,28.0,San Jose Sharks,SJS
+130,28,30,San Jose Sharks,Minnesota Wild,2022021051313,2022021051,Missed Shot,313,MISSED_SHOT,John Klingberg Over Net James Reimer,2023-03-12T04:36:06Z,2,01:27,18:33,0,1,30.0,Minnesota Wild,MIN
+131,28,30,San Jose Sharks,Minnesota Wild,2022021051197,2022021051,Stoppage,197,STOP,Offside,2023-03-12T04:36:18Z,2,01:40,18:20,0,1,,,
+132,28,30,San Jose Sharks,Minnesota Wild,2022021051147,2022021051,Faceoff,147,FACEOFF,Frederick Gaudreau faceoff won against Tomas Hertl,2023-03-12T04:36:41Z,2,01:40,18:20,0,1,30.0,Minnesota Wild,MIN
+133,28,30,San Jose Sharks,Minnesota Wild,2022021051314,2022021051,Blocked Shot,314,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Jared Spurgeon,2023-03-12T04:37:15Z,2,02:14,17:46,0,1,30.0,Minnesota Wild,MIN
+134,28,30,San Jose Sharks,Minnesota Wild,2022021051198,2022021051,Hit,198,HIT,Marcus Foligno hit William Eklund,2023-03-12T04:37:21Z,2,02:20,17:40,0,1,30.0,Minnesota Wild,MIN
+135,28,30,San Jose Sharks,Minnesota Wild,2022021051199,2022021051,Hit,199,HIT,Oskar Sundqvist hit Alexander Barabanov,2023-03-12T04:37:35Z,2,02:34,17:26,0,1,30.0,Minnesota Wild,MIN
+136,28,30,San Jose Sharks,Minnesota Wild,2022021051200,2022021051,Hit,200,HIT,Andreas Johnsson hit Oskar Sundqvist,2023-03-12T04:37:40Z,2,02:39,17:21,0,1,28.0,San Jose Sharks,SJS
+137,28,30,San Jose Sharks,Minnesota Wild,2022021051315,2022021051,Missed Shot,315,MISSED_SHOT,Alex Goligoski Wide of Net James Reimer,2023-03-12T04:37:54Z,2,02:53,17:07,0,1,30.0,Minnesota Wild,MIN
+138,28,30,San Jose Sharks,Minnesota Wild,2022021051148,2022021051,Giveaway,148,GIVEAWAY,Giveaway by Andreas Johnsson,2023-03-12T04:37:59Z,2,02:58,17:02,0,1,28.0,San Jose Sharks,SJS
+139,28,30,San Jose Sharks,Minnesota Wild,2022021051402,2022021051,Hit,402,HIT,Ryan Reaves hit Marc-Edouard Vlasic,2023-03-12T04:38:12Z,2,03:11,16:49,0,1,30.0,Minnesota Wild,MIN
+140,28,30,San Jose Sharks,Minnesota Wild,2022021051403,2022021051,Hit,403,HIT,Connor Dewar hit Matt Benning,2023-03-12T04:38:13Z,2,03:12,16:48,0,1,30.0,Minnesota Wild,MIN
+141,28,30,San Jose Sharks,Minnesota Wild,2022021051316,2022021051,Shot,316,SHOT,Nico Sturm Wrist Shot saved by Marc-Andre Fleury,2023-03-12T04:38:18Z,2,03:17,16:43,0,1,28.0,San Jose Sharks,SJS
+142,28,30,San Jose Sharks,Minnesota Wild,2022021051404,2022021051,Stoppage,404,STOP,Goalie Stopped,2023-03-12T04:38:18Z,2,03:18,16:42,0,1,,,
+143,28,30,San Jose Sharks,Minnesota Wild,2022021051149,2022021051,Faceoff,149,FACEOFF,Joel Eriksson Ek faceoff won against Nico Sturm,2023-03-12T04:38:41Z,2,03:18,16:42,0,1,30.0,Minnesota Wild,MIN
+144,28,30,San Jose Sharks,Minnesota Wild,2022021051317,2022021051,Blocked Shot,317,BLOCKED_SHOT,Marcus Johansson shot blocked shot by Derrick Pouliot,2023-03-12T04:38:55Z,2,03:32,16:28,0,1,28.0,San Jose Sharks,SJS
+145,28,30,San Jose Sharks,Minnesota Wild,2022021051318,2022021051,Blocked Shot,318,BLOCKED_SHOT,John Klingberg shot blocked shot by Derrick Pouliot,2023-03-12T04:39:01Z,2,03:38,16:22,0,1,28.0,San Jose Sharks,SJS
+146,28,30,San Jose Sharks,Minnesota Wild,2022021051319,2022021051,Shot,319,SHOT,Mario Ferraro Wrist Shot saved by Marc-Andre Fleury,2023-03-12T04:39:13Z,2,03:50,16:10,0,1,28.0,San Jose Sharks,SJS
+147,28,30,San Jose Sharks,Minnesota Wild,2022021051320,2022021051,Blocked Shot,320,BLOCKED_SHOT,Ryan Hartman shot blocked shot by Kevin Labanc,2023-03-12T04:39:41Z,2,04:18,15:42,0,1,28.0,San Jose Sharks,SJS
+148,28,30,San Jose Sharks,Minnesota Wild,2022021051321,2022021051,Blocked Shot,321,BLOCKED_SHOT,Steven Lorentz shot blocked shot by Jake Middleton,2023-03-12T04:40:13Z,2,04:50,15:10,0,1,30.0,Minnesota Wild,MIN
+149,28,30,San Jose Sharks,Minnesota Wild,2022021051323,2022021051,Blocked Shot,323,BLOCKED_SHOT,William Eklund shot blocked shot by Mats Zuccarello,2023-03-12T04:40:18Z,2,04:55,15:05,0,1,30.0,Minnesota Wild,MIN
+150,28,30,San Jose Sharks,Minnesota Wild,2022021051322,2022021051,Shot,322,SHOT,William Eklund Wrist Shot saved by Marc-Andre Fleury,2023-03-12T04:40:21Z,2,04:58,15:02,0,1,28.0,San Jose Sharks,SJS
+151,28,30,San Jose Sharks,Minnesota Wild,2022021051405,2022021051,Stoppage,405,STOP,Goalie Stopped,2023-03-12T04:40:21Z,2,04:59,15:01,0,1,,,
+152,28,30,San Jose Sharks,Minnesota Wild,2022021051150,2022021051,Faceoff,150,FACEOFF,Frederick Gaudreau faceoff won against William Eklund,2023-03-12T04:40:59Z,2,04:59,15:01,0,1,30.0,Minnesota Wild,MIN
+153,28,30,San Jose Sharks,Minnesota Wild,2022021051406,2022021051,Hit,406,HIT,Tomas Hertl hit Marcus Foligno,2023-03-12T04:41:11Z,2,05:10,14:50,0,1,28.0,San Jose Sharks,SJS
+154,28,30,San Jose Sharks,Minnesota Wild,2022021051407,2022021051,Stoppage,407,STOP,Offside,2023-03-12T04:41:11Z,2,05:10,14:50,0,1,,,
+155,28,30,San Jose Sharks,Minnesota Wild,2022021051351,2022021051,Faceoff,351,FACEOFF,Frederick Gaudreau faceoff won against Tomas Hertl,2023-03-12T04:41:32Z,2,05:10,14:50,0,1,30.0,Minnesota Wild,MIN
+156,28,30,San Jose Sharks,Minnesota Wild,2022021051409,2022021051,Hit,409,HIT,Ryan Reaves hit Matt Benning,2023-03-12T04:42:26Z,2,06:04,13:56,0,1,30.0,Minnesota Wild,MIN
+157,28,30,San Jose Sharks,Minnesota Wild,2022021051325,2022021051,Shot,325,SHOT,Marc-Edouard Vlasic Wrist Shot saved by Marc-Andre Fleury,2023-03-12T04:42:31Z,2,06:09,13:51,0,1,28.0,San Jose Sharks,SJS
+158,28,30,San Jose Sharks,Minnesota Wild,2022021051410,2022021051,Stoppage,410,STOP,Goalie Stopped,2023-03-12T04:42:31Z,2,06:09,13:51,0,1,,,
+159,28,30,San Jose Sharks,Minnesota Wild,2022021051352,2022021051,Faceoff,352,FACEOFF,Connor Dewar faceoff won against Steven Lorentz,2023-03-12T04:44:43Z,2,06:09,13:51,0,1,30.0,Minnesota Wild,MIN
+160,28,30,San Jose Sharks,Minnesota Wild,2022021051326,2022021051,Shot,326,SHOT,Kevin Labanc Snap Shot saved by Marc-Andre Fleury,2023-03-12T04:45:00Z,2,06:26,13:34,0,1,28.0,San Jose Sharks,SJS
+161,28,30,San Jose Sharks,Minnesota Wild,2022021051411,2022021051,Stoppage,411,STOP,Puck in Benches,2023-03-12T04:45:08Z,2,06:35,13:25,0,1,,,
+162,28,30,San Jose Sharks,Minnesota Wild,2022021051353,2022021051,Faceoff,353,FACEOFF,Joel Eriksson Ek faceoff won against Tomas Hertl,2023-03-12T04:45:38Z,2,06:35,13:25,0,1,30.0,Minnesota Wild,MIN
+163,28,30,San Jose Sharks,Minnesota Wild,2022021051327,2022021051,Blocked Shot,327,BLOCKED_SHOT,Nikolai Knyzhov shot blocked shot by Matt Boldy,2023-03-12T04:45:47Z,2,06:44,13:16,0,1,30.0,Minnesota Wild,MIN
+164,28,30,San Jose Sharks,Minnesota Wild,2022021051354,2022021051,Giveaway,354,GIVEAWAY,Giveaway by Matt Boldy,2023-03-12T04:45:53Z,2,06:50,13:10,0,1,30.0,Minnesota Wild,MIN
+165,28,30,San Jose Sharks,Minnesota Wild,2022021051355,2022021051,Takeaway,355,TAKEAWAY,Takeaway by Matt Boldy,2023-03-12T04:46:09Z,2,07:06,12:54,0,1,30.0,Minnesota Wild,MIN
+166,28,30,San Jose Sharks,Minnesota Wild,2022021051328,2022021051,Shot,328,SHOT,Matt Boldy Wrist Shot saved by James Reimer,2023-03-12T04:46:11Z,2,07:08,12:52,0,1,30.0,Minnesota Wild,MIN
+167,28,30,San Jose Sharks,Minnesota Wild,2022021051412,2022021051,Stoppage,412,STOP,Puck in Benches,2023-03-12T04:46:19Z,2,07:16,12:44,0,1,,,
+168,28,30,San Jose Sharks,Minnesota Wild,2022021051356,2022021051,Faceoff,356,FACEOFF,Ryan Hartman faceoff won against Logan Couture,2023-03-12T04:46:47Z,2,07:16,12:44,0,1,30.0,Minnesota Wild,MIN
+169,28,30,San Jose Sharks,Minnesota Wild,2022021051329,2022021051,Shot,329,SHOT,Ryan Hartman Wrist Shot saved by James Reimer,2023-03-12T04:47:00Z,2,07:29,12:31,0,1,30.0,Minnesota Wild,MIN
+170,28,30,San Jose Sharks,Minnesota Wild,2022021051571,2022021051,Penalty,571,PENALTY,Ryan Hartman Tripping against Andreas Johnsson,2023-03-12T04:47:21Z,2,07:49,12:11,0,1,30.0,Minnesota Wild,MIN
+171,28,30,San Jose Sharks,Minnesota Wild,2022021051358,2022021051,Faceoff,358,FACEOFF,Tomas Hertl faceoff won against Frederick Gaudreau,2023-03-12T04:48:02Z,2,07:49,12:11,0,1,28.0,San Jose Sharks,SJS
+172,28,30,San Jose Sharks,Minnesota Wild,2022021051359,2022021051,Takeaway,359,TAKEAWAY,Takeaway by Frederick Gaudreau,2023-03-12T04:48:11Z,2,07:58,12:02,0,1,30.0,Minnesota Wild,MIN
+173,28,30,San Jose Sharks,Minnesota Wild,2022021051360,2022021051,Takeaway,360,TAKEAWAY,Takeaway by Joel Eriksson Ek,2023-03-12T04:48:31Z,2,08:18,11:42,0,1,30.0,Minnesota Wild,MIN
+174,28,30,San Jose Sharks,Minnesota Wild,2022021051330,2022021051,Shot,330,SHOT,Joel Eriksson Ek Wrist Shot saved by James Reimer,2023-03-12T04:48:36Z,2,08:23,11:37,0,1,30.0,Minnesota Wild,MIN
+175,28,30,San Jose Sharks,Minnesota Wild,2022021051413,2022021051,Stoppage,413,STOP,Goalie Stopped,2023-03-12T04:48:36Z,2,08:23,11:37,0,1,,,
+176,28,30,San Jose Sharks,Minnesota Wild,2022021051361,2022021051,Faceoff,361,FACEOFF,Tomas Hertl faceoff won against Connor Dewar,2023-03-12T04:48:59Z,2,08:23,11:37,0,1,28.0,San Jose Sharks,SJS
+177,28,30,San Jose Sharks,Minnesota Wild,2022021051414,2022021051,Hit,414,HIT,Mason Shaw hit Tomas Hertl,2023-03-12T04:49:38Z,2,09:02,10:58,0,1,30.0,Minnesota Wild,MIN
+178,28,30,San Jose Sharks,Minnesota Wild,2022021051331,2022021051,Shot,331,SHOT,Logan Couture Wrist Shot saved by Marc-Andre Fleury,2023-03-12T04:49:45Z,2,09:09,10:51,0,1,28.0,San Jose Sharks,SJS
+179,28,30,San Jose Sharks,Minnesota Wild,2022021051415,2022021051,Hit,415,HIT,Marcus Foligno hit Evgeny Svechnikov,2023-03-12T04:50:33Z,2,09:57,10:03,0,1,30.0,Minnesota Wild,MIN
+180,28,30,San Jose Sharks,Minnesota Wild,2022021051416,2022021051,Stoppage,416,STOP,Icing,2023-03-12T04:50:35Z,2,10:00,10:00,0,1,,,
+181,28,30,San Jose Sharks,Minnesota Wild,2022021051362,2022021051,Faceoff,362,FACEOFF,Ryan Hartman faceoff won against Nico Sturm,2023-03-12T04:51:04Z,2,10:00,10:00,0,1,30.0,Minnesota Wild,MIN
+182,28,30,San Jose Sharks,Minnesota Wild,2022021051585,2022021051,Penalty,585,PENALTY,Jon Merrill Interference against Kevin Labanc,2023-03-12T04:51:08Z,2,10:04,09:56,0,1,30.0,Minnesota Wild,MIN
+183,28,30,San Jose Sharks,Minnesota Wild,2022021051363,2022021051,Faceoff,363,FACEOFF,Frederick Gaudreau faceoff won against Logan Couture,2023-03-12T04:53:30Z,2,10:04,09:56,0,1,30.0,Minnesota Wild,MIN
+184,28,30,San Jose Sharks,Minnesota Wild,2022021051332,2022021051,Shot,332,SHOT,Erik Karlsson Wrist Shot saved by Marc-Andre Fleury,2023-03-12T04:53:40Z,2,10:14,09:46,0,1,28.0,San Jose Sharks,SJS
+185,28,30,San Jose Sharks,Minnesota Wild,2022021051417,2022021051,Stoppage,417,STOP,Goalie Stopped,2023-03-12T04:53:41Z,2,10:15,09:45,0,1,,,
+186,28,30,San Jose Sharks,Minnesota Wild,2022021051364,2022021051,Faceoff,364,FACEOFF,Tomas Hertl faceoff won against Frederick Gaudreau,2023-03-12T04:53:59Z,2,10:15,09:45,0,1,28.0,San Jose Sharks,SJS
+187,28,30,San Jose Sharks,Minnesota Wild,2022021051333,2022021051,Blocked Shot,333,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Jared Spurgeon,2023-03-12T04:54:01Z,2,10:17,09:43,0,1,30.0,Minnesota Wild,MIN
+188,28,30,San Jose Sharks,Minnesota Wild,2022021051334,2022021051,Goal,334,GOAL,"Logan Couture (23) Wrist Shot, assists: Erik Karlsson (64), Tomas Hertl (34)",2023-03-12T04:54:03Z,2,10:19,09:41,1,1,28.0,San Jose Sharks,SJS
+189,28,30,San Jose Sharks,Minnesota Wild,2022021051366,2022021051,Faceoff,366,FACEOFF,Nico Sturm faceoff won against Joel Eriksson Ek,2023-03-12T04:54:53Z,2,10:19,09:41,1,1,28.0,San Jose Sharks,SJS
+190,28,30,San Jose Sharks,Minnesota Wild,2022021051420,2022021051,Stoppage,420,STOP,Icing,2023-03-12T04:55:20Z,2,10:46,09:14,1,1,,,
+191,28,30,San Jose Sharks,Minnesota Wild,2022021051367,2022021051,Faceoff,367,FACEOFF,Joel Eriksson Ek faceoff won against Logan Couture,2023-03-12T04:55:43Z,2,10:46,09:14,1,1,30.0,Minnesota Wild,MIN
+192,28,30,San Jose Sharks,Minnesota Wild,2022021051368,2022021051,Takeaway,368,TAKEAWAY,Takeaway by Alexander Barabanov,2023-03-12T04:55:51Z,2,10:54,09:06,1,1,28.0,San Jose Sharks,SJS
+193,28,30,San Jose Sharks,Minnesota Wild,2022021051421,2022021051,Stoppage,421,STOP,Referee or Linesman,2023-03-12T04:56:03Z,2,11:06,08:54,1,1,,,
+194,28,30,San Jose Sharks,Minnesota Wild,2022021051369,2022021051,Faceoff,369,FACEOFF,Ryan Hartman faceoff won against Logan Couture,2023-03-12T04:56:33Z,2,11:06,08:54,1,1,30.0,Minnesota Wild,MIN
+195,28,30,San Jose Sharks,Minnesota Wild,2022021051335,2022021051,Shot,335,SHOT,Nikolai Knyzhov Slap Shot saved by Marc-Andre Fleury,2023-03-12T04:56:51Z,2,11:24,08:36,1,1,28.0,San Jose Sharks,SJS
+196,28,30,San Jose Sharks,Minnesota Wild,2022021051422,2022021051,Stoppage,422,STOP,Goalie Stopped,2023-03-12T04:56:51Z,2,11:24,08:36,1,1,,,
+197,28,30,San Jose Sharks,Minnesota Wild,2022021051371,2022021051,Faceoff,371,FACEOFF,Tomas Hertl faceoff won against Ryan Hartman,2023-03-12T04:57:16Z,2,11:24,08:36,1,1,28.0,San Jose Sharks,SJS
+198,28,30,San Jose Sharks,Minnesota Wild,2022021051372,2022021051,Giveaway,372,GIVEAWAY,Giveaway by Nikolai Knyzhov,2023-03-12T04:57:33Z,2,11:41,08:19,1,1,28.0,San Jose Sharks,SJS
+199,28,30,San Jose Sharks,Minnesota Wild,2022021051336,2022021051,Missed Shot,336,MISSED_SHOT,Ryan Hartman Wide of Net James Reimer,2023-03-12T04:57:37Z,2,11:45,08:15,1,1,30.0,Minnesota Wild,MIN
+200,28,30,San Jose Sharks,Minnesota Wild,2022021051373,2022021051,Giveaway,373,GIVEAWAY,Giveaway by Nikolai Knyzhov,2023-03-12T04:57:43Z,2,11:51,08:09,1,1,28.0,San Jose Sharks,SJS
+201,28,30,San Jose Sharks,Minnesota Wild,2022021051337,2022021051,Shot,337,SHOT,Ryan Hartman Deflected saved by James Reimer,2023-03-12T04:57:45Z,2,11:53,08:07,1,1,30.0,Minnesota Wild,MIN
+202,28,30,San Jose Sharks,Minnesota Wild,2022021051423,2022021051,Stoppage,423,STOP,Goalie Stopped,2023-03-12T04:57:47Z,2,11:56,08:04,1,1,,,
+203,28,30,San Jose Sharks,Minnesota Wild,2022021051374,2022021051,Faceoff,374,FACEOFF,Nico Sturm faceoff won against Frederick Gaudreau,2023-03-12T04:58:21Z,2,11:56,08:04,1,1,28.0,San Jose Sharks,SJS
+204,28,30,San Jose Sharks,Minnesota Wild,2022021051375,2022021051,Takeaway,375,TAKEAWAY,Takeaway by Jake Middleton,2023-03-12T04:59:08Z,2,12:43,07:17,1,1,30.0,Minnesota Wild,MIN
+205,28,30,San Jose Sharks,Minnesota Wild,2022021051376,2022021051,Giveaway,376,GIVEAWAY,Giveaway by Frederick Gaudreau,2023-03-12T04:59:13Z,2,12:48,07:12,1,1,30.0,Minnesota Wild,MIN
+206,28,30,San Jose Sharks,Minnesota Wild,2022021051377,2022021051,Faceoff,377,FACEOFF,Steven Lorentz faceoff won against Ryan Reaves,2023-03-12T04:00:10Z,2,12:59,07:01,1,1,28.0,San Jose Sharks,SJS
+207,28,30,San Jose Sharks,Minnesota Wild,2022021051338,2022021051,Shot,338,SHOT,Mason Shaw Wrist Shot saved by James Reimer,2023-03-12T04:59:25Z,2,12:59,07:01,1,1,30.0,Minnesota Wild,MIN
+208,28,30,San Jose Sharks,Minnesota Wild,2022021051424,2022021051,Stoppage,424,STOP,Puck in Netting,2023-03-12T04:59:25Z,2,12:59,07:01,1,1,,,
+209,28,30,San Jose Sharks,Minnesota Wild,2022021051339,2022021051,Shot,339,SHOT,Kevin Labanc Wrist Shot saved by Marc-Andre Fleury,2023-03-12T04:00:24Z,2,13:13,06:47,1,1,28.0,San Jose Sharks,SJS
+210,28,30,San Jose Sharks,Minnesota Wild,2022021051425,2022021051,Stoppage,425,STOP,Goalie Stopped,2023-03-12T04:00:25Z,2,13:14,06:46,1,1,,,
+211,28,30,San Jose Sharks,Minnesota Wild,2022021051378,2022021051,Faceoff,378,FACEOFF,Logan Couture faceoff won against Joel Eriksson Ek,2023-03-12T04:00:55Z,2,13:14,06:46,1,1,28.0,San Jose Sharks,SJS
+212,28,30,San Jose Sharks,Minnesota Wild,2022021051379,2022021051,Takeaway,379,TAKEAWAY,Takeaway by Marc-Andre Fleury,2023-03-12T04:01:13Z,2,13:32,06:28,1,1,30.0,Minnesota Wild,MIN
+213,28,30,San Jose Sharks,Minnesota Wild,2022021051380,2022021051,Giveaway,380,GIVEAWAY,Giveaway by Matt Boldy,2023-03-12T04:01:28Z,2,13:47,06:13,1,1,30.0,Minnesota Wild,MIN
+214,28,30,San Jose Sharks,Minnesota Wild,2022021051340,2022021051,Missed Shot,340,MISSED_SHOT,William Eklund Wide of Net Marc-Andre Fleury,2023-03-12T04:01:53Z,2,14:12,05:48,1,1,28.0,San Jose Sharks,SJS
+215,28,30,San Jose Sharks,Minnesota Wild,2022021051426,2022021051,Hit,426,HIT,Fabian Zetterlund hit Jake Middleton,2023-03-12T04:02:02Z,2,14:21,05:39,1,1,28.0,San Jose Sharks,SJS
+216,28,30,San Jose Sharks,Minnesota Wild,2022021051341,2022021051,Missed Shot,341,MISSED_SHOT,Nikolai Knyzhov Wide of Net Marc-Andre Fleury,2023-03-12T04:02:18Z,2,14:37,05:23,1,1,28.0,San Jose Sharks,SJS
+217,28,30,San Jose Sharks,Minnesota Wild,2022021051427,2022021051,Hit,427,HIT,Sam Steel hit Nikolai Knyzhov,2023-03-12T04:02:28Z,2,14:47,05:13,1,1,30.0,Minnesota Wild,MIN
+218,28,30,San Jose Sharks,Minnesota Wild,2022021051342,2022021051,Blocked Shot,342,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Jon Merrill,2023-03-12T04:02:40Z,2,15:00,05:00,1,1,30.0,Minnesota Wild,MIN
+219,28,30,San Jose Sharks,Minnesota Wild,2022021051428,2022021051,Stoppage,428,STOP,Puck in Netting,2023-03-12T04:02:40Z,2,15:00,05:00,1,1,,,
+220,28,30,San Jose Sharks,Minnesota Wild,2022021051381,2022021051,Faceoff,381,FACEOFF,Ryan Hartman faceoff won against Logan Couture,2023-03-12T04:04:55Z,2,15:00,05:00,1,1,30.0,Minnesota Wild,MIN
+221,28,30,San Jose Sharks,Minnesota Wild,2022021051429,2022021051,Hit,429,HIT,Logan Couture hit Jon Merrill,2023-03-12T04:05:03Z,2,15:08,04:52,1,1,28.0,San Jose Sharks,SJS
+222,28,30,San Jose Sharks,Minnesota Wild,2022021051430,2022021051,Stoppage,430,STOP,Icing,2023-03-12T04:05:12Z,2,15:17,04:43,1,1,,,
+223,28,30,San Jose Sharks,Minnesota Wild,2022021051382,2022021051,Faceoff,382,FACEOFF,Logan Couture faceoff won against Ryan Hartman,2023-03-12T04:05:33Z,2,15:17,04:43,1,1,28.0,San Jose Sharks,SJS
+224,28,30,San Jose Sharks,Minnesota Wild,2022021051343,2022021051,Shot,343,SHOT,Logan Couture Wrist Shot saved by Marc-Andre Fleury,2023-03-12T04:05:47Z,2,15:31,04:29,1,1,28.0,San Jose Sharks,SJS
+225,28,30,San Jose Sharks,Minnesota Wild,2022021051384,2022021051,Giveaway,384,GIVEAWAY,Giveaway by Ryan Hartman,2023-03-12T04:05:50Z,2,15:34,04:26,1,1,30.0,Minnesota Wild,MIN
+226,28,30,San Jose Sharks,Minnesota Wild,2022021051677,2022021051,Penalty,677,PENALTY,Evgeny Svechnikov Slashing against Marc-Andre Fleury,2023-03-12T04:06:35Z,2,16:18,03:42,1,1,28.0,San Jose Sharks,SJS
+227,28,30,San Jose Sharks,Minnesota Wild,2022021051385,2022021051,Faceoff,385,FACEOFF,Joel Eriksson Ek faceoff won against Nico Sturm,2023-03-12T04:08:19Z,2,16:18,03:42,1,1,30.0,Minnesota Wild,MIN
+228,28,30,San Jose Sharks,Minnesota Wild,2022021051345,2022021051,Shot,345,SHOT,Joel Eriksson Ek Tip-In saved by James Reimer,2023-03-12T04:08:22Z,2,16:21,03:39,1,1,30.0,Minnesota Wild,MIN
+229,28,30,San Jose Sharks,Minnesota Wild,2022021051432,2022021051,Stoppage,432,STOP,Goalie Stopped,2023-03-12T04:08:22Z,2,16:21,03:39,1,1,,,
+230,28,30,San Jose Sharks,Minnesota Wild,2022021051388,2022021051,Faceoff,388,FACEOFF,Nico Sturm faceoff won against Joel Eriksson Ek,2023-03-12T04:08:35Z,2,16:21,03:39,1,1,28.0,San Jose Sharks,SJS
+231,28,30,San Jose Sharks,Minnesota Wild,2022021051346,2022021051,Shot,346,SHOT,John Klingberg Wrist Shot saved by James Reimer,2023-03-12T04:08:40Z,2,16:26,03:34,1,1,30.0,Minnesota Wild,MIN
+232,28,30,San Jose Sharks,Minnesota Wild,2022021051347,2022021051,Missed Shot,347,MISSED_SHOT,Mats Zuccarello Wide of Net James Reimer,2023-03-12T04:08:45Z,2,16:31,03:29,1,1,30.0,Minnesota Wild,MIN
+233,28,30,San Jose Sharks,Minnesota Wild,2022021051348,2022021051,Blocked Shot,348,BLOCKED_SHOT,John Klingberg shot blocked shot by Mario Ferraro,2023-03-12T04:09:21Z,2,17:07,02:53,1,1,28.0,San Jose Sharks,SJS
+234,28,30,San Jose Sharks,Minnesota Wild,2022021051349,2022021051,Missed Shot,349,MISSED_SHOT,John Klingberg Over Net James Reimer,2023-03-12T04:09:32Z,2,17:18,02:42,1,1,30.0,Minnesota Wild,MIN
+235,28,30,San Jose Sharks,Minnesota Wild,2022021051350,2022021051,Blocked Shot,350,BLOCKED_SHOT,Matt Boldy shot blocked shot by Marc-Edouard Vlasic,2023-03-12T04:09:41Z,2,17:27,02:33,1,1,28.0,San Jose Sharks,SJS
+236,28,30,San Jose Sharks,Minnesota Wild,2022021051601,2022021051,Shot,601,SHOT,Marcus Johansson Wrist Shot saved by James Reimer,2023-03-12T04:10:15Z,2,18:01,01:59,1,1,30.0,Minnesota Wild,MIN
+237,28,30,San Jose Sharks,Minnesota Wild,2022021051602,2022021051,Goal,602,GOAL,"Frederick Gaudreau (13) Slap Shot, assists: Marcus Johansson (17), Marcus Foligno (13)",2023-03-12T04:10:18Z,2,18:03,01:57,1,2,30.0,Minnesota Wild,MIN
+238,28,30,San Jose Sharks,Minnesota Wild,2022021051390,2022021051,Faceoff,390,FACEOFF,Tomas Hertl faceoff won against Connor Dewar,2023-03-12T04:11:14Z,2,18:03,01:57,1,2,28.0,San Jose Sharks,SJS
+239,28,30,San Jose Sharks,Minnesota Wild,2022021051433,2022021051,Stoppage,433,STOP,Puck in Benches,2023-03-12T04:11:28Z,2,18:17,01:43,1,2,,,
+240,28,30,San Jose Sharks,Minnesota Wild,2022021051391,2022021051,Faceoff,391,FACEOFF,Frederick Gaudreau faceoff won against Tomas Hertl,2023-03-12T04:12:00Z,2,18:17,01:43,1,2,30.0,Minnesota Wild,MIN
+241,28,30,San Jose Sharks,Minnesota Wild,2022021051434,2022021051,Hit,434,HIT,Tomas Hertl hit Jake Middleton,2023-03-12T04:12:12Z,2,18:29,01:31,1,2,28.0,San Jose Sharks,SJS
+242,28,30,San Jose Sharks,Minnesota Wild,2022021051435,2022021051,Hit,435,HIT,Marcus Foligno hit Nikolai Knyzhov,2023-03-12T04:12:27Z,2,18:44,01:16,1,2,30.0,Minnesota Wild,MIN
+243,28,30,San Jose Sharks,Minnesota Wild,2022021051392,2022021051,Takeaway,392,TAKEAWAY,Takeaway by Matt Boldy,2023-03-12T04:12:51Z,2,19:08,00:52,1,2,30.0,Minnesota Wild,MIN
+244,28,30,San Jose Sharks,Minnesota Wild,2022021051603,2022021051,Blocked Shot,603,BLOCKED_SHOT,Joel Eriksson Ek shot blocked shot by Mario Ferraro,2023-03-12T04:13:11Z,2,19:28,00:32,1,2,28.0,San Jose Sharks,SJS
+245,28,30,San Jose Sharks,Minnesota Wild,2022021051437,2022021051,Stoppage,437,STOP,Goalie Stopped,2023-03-12T04:13:16Z,2,19:32,00:28,1,2,,,
+246,28,30,San Jose Sharks,Minnesota Wild,2022021051604,2022021051,Shot,604,SHOT,Matt Dumba Wrist Shot saved by James Reimer,2023-03-12T04:13:16Z,2,19:32,00:28,1,2,30.0,Minnesota Wild,MIN
+247,28,30,San Jose Sharks,Minnesota Wild,2022021051393,2022021051,Faceoff,393,FACEOFF,Logan Couture faceoff won against Ryan Hartman,2023-03-12T04:13:53Z,2,19:32,00:28,1,2,28.0,San Jose Sharks,SJS
+248,28,30,San Jose Sharks,Minnesota Wild,2022021051438,2022021051,Stoppage,438,STOP,Puck in Crowd,2023-03-12T04:14:02Z,2,19:41,00:19,1,2,,,
+249,28,30,San Jose Sharks,Minnesota Wild,2022021051394,2022021051,Faceoff,394,FACEOFF,Tomas Hertl faceoff won against Ryan Hartman,2023-03-12T04:14:29Z,2,19:41,00:19,1,2,28.0,San Jose Sharks,SJS
+250,28,30,San Jose Sharks,Minnesota Wild,2022021051605,2022021051,Missed Shot,605,MISSED_SHOT,Jake Middleton Wide of Net James Reimer,2023-03-12T04:14:46Z,2,19:59,00:01,1,2,30.0,Minnesota Wild,MIN
+251,28,30,San Jose Sharks,Minnesota Wild,2022021051606,2022021051,Period End,606,PERIOD_END,End of 2nd Period,2023-03-12T04:14:47Z,2,20:00,00:00,1,2,,,
+252,28,30,San Jose Sharks,Minnesota Wild,2022021051609,2022021051,Period Official,609,PERIOD_OFFICIAL,Period Official,2023-03-12T04:14:56Z,2,20:00,00:00,1,2,,,
+253,28,30,San Jose Sharks,Minnesota Wild,2022021051610,2022021051,Period Ready,610,PERIOD_READY,Period Ready,2023-03-12T04:33:39Z,3,00:00,20:00,1,2,,,
+254,28,30,San Jose Sharks,Minnesota Wild,2022021051397,2022021051,Period Start,397,PERIOD_START,Period Start,2023-03-12T04:33:46Z,3,00:00,20:00,1,2,,,
+255,28,30,San Jose Sharks,Minnesota Wild,2022021051398,2022021051,Faceoff,398,FACEOFF,Tomas Hertl faceoff won against Joel Eriksson Ek,2023-03-12T04:33:46Z,3,00:00,20:00,1,2,28.0,San Jose Sharks,SJS
+256,28,30,San Jose Sharks,Minnesota Wild,2022021051611,2022021051,Goal,611,GOAL,"Marcus Johansson (14) Tip-In, assists: John Klingberg (17), Matt Boldy (26)",2023-03-12T04:34:15Z,3,00:30,19:30,1,3,30.0,Minnesota Wild,MIN
+257,28,30,San Jose Sharks,Minnesota Wild,2022021051399,2022021051,Faceoff,399,FACEOFF,Logan Couture faceoff won against Ryan Hartman,2023-03-12T04:35:00Z,3,00:30,19:30,1,3,28.0,San Jose Sharks,SJS
+258,28,30,San Jose Sharks,Minnesota Wild,2022021051612,2022021051,Missed Shot,612,MISSED_SHOT,Matt Dumba Wide of Net James Reimer,2023-03-12T04:36:15Z,3,01:45,18:15,1,3,30.0,Minnesota Wild,MIN
+259,28,30,San Jose Sharks,Minnesota Wild,2022021051439,2022021051,Stoppage,439,STOP,Puck in Netting,2023-03-12T04:36:43Z,3,02:13,17:47,1,3,,,
+260,28,30,San Jose Sharks,Minnesota Wild,2022021051613,2022021051,Blocked Shot,613,BLOCKED_SHOT,Steven Lorentz shot blocked shot by John Klingberg,2023-03-12T04:36:43Z,3,02:13,17:47,1,3,30.0,Minnesota Wild,MIN
+261,28,30,San Jose Sharks,Minnesota Wild,2022021051400,2022021051,Faceoff,400,FACEOFF,Steven Lorentz faceoff won against Connor Dewar,2023-03-12T04:37:08Z,3,02:13,17:47,1,3,28.0,San Jose Sharks,SJS
+262,28,30,San Jose Sharks,Minnesota Wild,2022021051614,2022021051,Shot,614,SHOT,Ryan Reaves Backhand saved by James Reimer,2023-03-12T04:37:17Z,3,02:22,17:38,1,3,30.0,Minnesota Wild,MIN
+263,28,30,San Jose Sharks,Minnesota Wild,2022021051440,2022021051,Stoppage,440,STOP,Goalie Stopped,2023-03-12T04:37:18Z,3,02:23,17:37,1,3,,,
+264,28,30,San Jose Sharks,Minnesota Wild,2022021051851,2022021051,Faceoff,851,FACEOFF,Steven Lorentz faceoff won against Connor Dewar,2023-03-12T04:37:56Z,3,02:23,17:37,1,3,28.0,San Jose Sharks,SJS
+265,28,30,San Jose Sharks,Minnesota Wild,2022021051442,2022021051,Hit,442,HIT,Ryan Reaves hit Nikolai Knyzhov,2023-03-12T04:38:05Z,3,02:32,17:28,1,3,30.0,Minnesota Wild,MIN
+266,28,30,San Jose Sharks,Minnesota Wild,2022021051615,2022021051,Blocked Shot,615,BLOCKED_SHOT,Jon Merrill shot blocked shot by Oskar Lindblom,2023-03-12T04:38:11Z,3,02:38,17:22,1,3,28.0,San Jose Sharks,SJS
+267,28,30,San Jose Sharks,Minnesota Wild,2022021051852,2022021051,Giveaway,852,GIVEAWAY,Giveaway by Noah Gregor,2023-03-12T04:39:04Z,3,03:29,16:31,1,3,28.0,San Jose Sharks,SJS
+268,28,30,San Jose Sharks,Minnesota Wild,2022021051616,2022021051,Blocked Shot,616,BLOCKED_SHOT,Noah Gregor shot blocked shot by Matt Dumba,2023-03-12T04:39:18Z,3,03:45,16:15,1,3,30.0,Minnesota Wild,MIN
+269,28,30,San Jose Sharks,Minnesota Wild,2022021051617,2022021051,Missed Shot,617,MISSED_SHOT,Ryan Hartman Wide of Net James Reimer,2023-03-12T04:39:25Z,3,03:52,16:08,1,3,30.0,Minnesota Wild,MIN
+270,28,30,San Jose Sharks,Minnesota Wild,2022021051444,2022021051,Hit,444,HIT,Ryan Reaves hit Steven Lorentz,2023-03-12T04:41:11Z,3,05:38,14:22,1,3,30.0,Minnesota Wild,MIN
+271,28,30,San Jose Sharks,Minnesota Wild,2022021051445,2022021051,Stoppage,445,STOP,Offside,2023-03-12T04:41:20Z,3,05:46,14:14,1,3,,,
+272,28,30,San Jose Sharks,Minnesota Wild,2022021051853,2022021051,Faceoff,853,FACEOFF,Tomas Hertl faceoff won against Joel Eriksson Ek,2023-03-12T04:41:49Z,3,05:46,14:14,1,3,28.0,San Jose Sharks,SJS
+273,28,30,San Jose Sharks,Minnesota Wild,2022021051446,2022021051,Stoppage,446,STOP,Offside,2023-03-12T04:41:54Z,3,05:51,14:09,1,3,,,
+274,28,30,San Jose Sharks,Minnesota Wild,2022021051855,2022021051,Faceoff,855,FACEOFF,Tomas Hertl faceoff won against Joel Eriksson Ek,2023-03-12T04:42:15Z,3,05:51,14:09,1,3,28.0,San Jose Sharks,SJS
+275,28,30,San Jose Sharks,Minnesota Wild,2022021051619,2022021051,Missed Shot,619,MISSED_SHOT,Tomas Hertl Wide of Net Marc-Andre Fleury,2023-03-12T04:42:45Z,3,06:21,13:39,1,3,28.0,San Jose Sharks,SJS
+276,28,30,San Jose Sharks,Minnesota Wild,2022021051856,2022021051,Takeaway,856,TAKEAWAY,Takeaway by Erik Karlsson,2023-03-12T04:42:57Z,3,06:33,13:27,1,3,28.0,San Jose Sharks,SJS
+277,28,30,San Jose Sharks,Minnesota Wild,2022021051620,2022021051,Shot,620,SHOT,Joel Eriksson Ek Wrist Shot saved by James Reimer,2023-03-12T04:43:05Z,3,06:41,13:19,1,3,30.0,Minnesota Wild,MIN
+278,28,30,San Jose Sharks,Minnesota Wild,2022021051621,2022021051,Shot,621,SHOT,Alex Goligoski Slap Shot saved by James Reimer,2023-03-12T04:43:18Z,3,06:54,13:06,1,3,30.0,Minnesota Wild,MIN
+279,28,30,San Jose Sharks,Minnesota Wild,2022021051622,2022021051,Shot,622,SHOT,Mats Zuccarello Wrist Shot saved by James Reimer,2023-03-12T04:43:41Z,3,07:17,12:43,1,3,30.0,Minnesota Wild,MIN
+280,28,30,San Jose Sharks,Minnesota Wild,2022021051447,2022021051,Stoppage,447,STOP,Goalie Stopped,2023-03-12T04:43:41Z,3,07:18,12:42,1,3,,,
+281,28,30,San Jose Sharks,Minnesota Wild,2022021051857,2022021051,Faceoff,857,FACEOFF,Ryan Hartman faceoff won against Logan Couture,2023-03-12T04:45:58Z,3,07:18,12:42,1,3,30.0,Minnesota Wild,MIN
+282,28,30,San Jose Sharks,Minnesota Wild,2022021051623,2022021051,Shot,623,SHOT,Alex Goligoski Slap Shot saved by James Reimer,2023-03-12T04:46:02Z,3,07:22,12:38,1,3,30.0,Minnesota Wild,MIN
+283,28,30,San Jose Sharks,Minnesota Wild,2022021051448,2022021051,Stoppage,448,STOP,Goalie Stopped,2023-03-12T04:46:04Z,3,07:23,12:37,1,3,,,
+284,28,30,San Jose Sharks,Minnesota Wild,2022021051858,2022021051,Faceoff,858,FACEOFF,Ryan Hartman faceoff won against Logan Couture,2023-03-12T04:46:24Z,3,07:23,12:37,1,3,30.0,Minnesota Wild,MIN
+285,28,30,San Jose Sharks,Minnesota Wild,2022021051859,2022021051,Takeaway,859,TAKEAWAY,Takeaway by Nikolai Knyzhov,2023-03-12T04:47:13Z,3,08:12,11:48,1,3,28.0,San Jose Sharks,SJS
+286,28,30,San Jose Sharks,Minnesota Wild,2022021051624,2022021051,Blocked Shot,624,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Frederick Gaudreau,2023-03-12T04:47:24Z,3,08:23,11:37,1,3,30.0,Minnesota Wild,MIN
+287,28,30,San Jose Sharks,Minnesota Wild,2022021051625,2022021051,Missed Shot,625,MISSED_SHOT,Tomas Hertl Wide of Net Marc-Andre Fleury,2023-03-12T04:47:25Z,3,08:24,11:36,1,3,28.0,San Jose Sharks,SJS
+288,28,30,San Jose Sharks,Minnesota Wild,2022021051780,2022021051,Penalty,780,PENALTY,John Klingberg Holding against Tomas Hertl,2023-03-12T04:47:28Z,3,08:27,11:33,1,3,30.0,Minnesota Wild,MIN
+289,28,30,San Jose Sharks,Minnesota Wild,2022021051861,2022021051,Faceoff,861,FACEOFF,Logan Couture faceoff won against Frederick Gaudreau,2023-03-12T04:48:16Z,3,08:27,11:33,1,3,28.0,San Jose Sharks,SJS
+290,28,30,San Jose Sharks,Minnesota Wild,2022021051626,2022021051,Shot,626,SHOT,Logan Couture Wrist Shot saved by Marc-Andre Fleury,2023-03-12T04:48:23Z,3,08:34,11:26,1,3,28.0,San Jose Sharks,SJS
+291,28,30,San Jose Sharks,Minnesota Wild,2022021051450,2022021051,Stoppage,450,STOP,Challenge Away: goalie interference,2023-03-12T04:48:25Z,3,08:36,11:24,1,3,,,
+292,28,30,San Jose Sharks,Minnesota Wild,2022021051627,2022021051,Goal,627,GOAL,"Tomas Hertl (19) Backhand, assists: Logan Couture (32), Alexander Barabanov (30)",2023-03-12T04:48:25Z,3,08:36,11:24,2,3,28.0,San Jose Sharks,SJS
+293,28,30,San Jose Sharks,Minnesota Wild,2022021051786,2022021051,Penalty,786,PENALTY,Delaying Game - Unsucc. chlg served by Mats Zuccarello,2023-03-12T04:48:25Z,3,08:36,11:24,2,3,30.0,Minnesota Wild,MIN
+294,28,30,San Jose Sharks,Minnesota Wild,2022021051801,2022021051,Official Challenge,801,CHALLENGE,Coach's Challenge,2023-03-12T04:48:25Z,3,08:36,11:24,2,3,30.0,Minnesota Wild,MIN
+295,28,30,San Jose Sharks,Minnesota Wild,2022021051864,2022021051,Faceoff,864,FACEOFF,Frederick Gaudreau faceoff won against Tomas Hertl,2023-03-12T04:53:14Z,3,08:36,11:24,2,3,30.0,Minnesota Wild,MIN
+296,28,30,San Jose Sharks,Minnesota Wild,2022021051802,2022021051,Stoppage,802,STOP,Offside,2023-03-12T04:53:30Z,3,08:53,11:07,2,3,,,
+297,28,30,San Jose Sharks,Minnesota Wild,2022021051865,2022021051,Faceoff,865,FACEOFF,Joel Eriksson Ek faceoff won against Tomas Hertl,2023-03-12T04:53:48Z,3,08:53,11:07,2,3,30.0,Minnesota Wild,MIN
+298,28,30,San Jose Sharks,Minnesota Wild,2022021051795,2022021051,Penalty,795,PENALTY,William Eklund Holding against Mason Shaw,2023-03-12T04:54:36Z,3,09:40,10:20,2,3,28.0,San Jose Sharks,SJS
+299,28,30,San Jose Sharks,Minnesota Wild,2022021051866,2022021051,Faceoff,866,FACEOFF,Nico Sturm faceoff won against Marcus Johansson,2023-03-12T04:55:11Z,3,09:40,10:20,2,3,28.0,San Jose Sharks,SJS
+300,28,30,San Jose Sharks,Minnesota Wild,2022021051867,2022021051,Takeaway,867,TAKEAWAY,Takeaway by Nikolai Knyzhov,2023-03-12T04:55:51Z,3,10:20,09:40,2,3,28.0,San Jose Sharks,SJS
+301,28,30,San Jose Sharks,Minnesota Wild,2022021051628,2022021051,Shot,628,SHOT,Ryan Hartman Wrist Shot saved by James Reimer,2023-03-12T04:56:29Z,3,10:58,09:02,2,3,30.0,Minnesota Wild,MIN
+302,28,30,San Jose Sharks,Minnesota Wild,2022021051629,2022021051,Goal,629,GOAL,"Mats Zuccarello (21) Slap Shot, assists: Ryan Hartman (16), John Klingberg (18)",2023-03-12T04:56:32Z,3,11:00,09:00,2,4,30.0,Minnesota Wild,MIN
+303,28,30,San Jose Sharks,Minnesota Wild,2022021051868,2022021051,Faceoff,868,FACEOFF,Oskar Sundqvist faceoff won against Alexander Barabanov,2023-03-12T04:57:33Z,3,11:00,09:00,2,4,30.0,Minnesota Wild,MIN
+304,28,30,San Jose Sharks,Minnesota Wild,2022021051869,2022021051,Takeaway,869,TAKEAWAY,Takeaway by Mario Ferraro,2023-03-12T04:57:36Z,3,11:03,08:57,2,4,28.0,San Jose Sharks,SJS
+305,28,30,San Jose Sharks,Minnesota Wild,2022021051630,2022021051,Blocked Shot,630,BLOCKED_SHOT,Jon Merrill shot blocked shot by Tomas Hertl,2023-03-12T04:58:04Z,3,11:31,08:29,2,4,28.0,San Jose Sharks,SJS
+306,28,30,San Jose Sharks,Minnesota Wild,2022021051803,2022021051,Stoppage,803,STOP,Puck in Netting,2023-03-12T04:58:04Z,3,11:31,08:29,2,4,,,
+307,28,30,San Jose Sharks,Minnesota Wild,2022021051870,2022021051,Faceoff,870,FACEOFF,Nico Sturm faceoff won against Frederick Gaudreau,2023-03-12T05:00:23Z,3,11:31,08:29,2,4,28.0,San Jose Sharks,SJS
+308,28,30,San Jose Sharks,Minnesota Wild,2022021051804,2022021051,Stoppage,804,STOP,Offside,2023-03-12T05:00:31Z,3,11:39,08:21,2,4,,,
+309,28,30,San Jose Sharks,Minnesota Wild,2022021051872,2022021051,Faceoff,872,FACEOFF,Frederick Gaudreau faceoff won against Nico Sturm,2023-03-12T05:00:55Z,3,11:39,08:21,2,4,30.0,Minnesota Wild,MIN
+310,28,30,San Jose Sharks,Minnesota Wild,2022021051631,2022021051,Shot,631,SHOT,Kevin Labanc Wrist Shot saved by Marc-Andre Fleury,2023-03-12T05:01:21Z,3,12:05,07:55,2,4,28.0,San Jose Sharks,SJS
+311,28,30,San Jose Sharks,Minnesota Wild,2022021051632,2022021051,Missed Shot,632,MISSED_SHOT,Mario Ferraro Wide of Net Marc-Andre Fleury,2023-03-12T05:01:29Z,3,12:13,07:47,2,4,28.0,San Jose Sharks,SJS
+312,28,30,San Jose Sharks,Minnesota Wild,2022021051636,2022021051,Blocked Shot,636,BLOCKED_SHOT,Kevin Labanc shot blocked shot by Marcus Foligno,2023-03-12T05:01:30Z,3,12:14,07:46,2,4,30.0,Minnesota Wild,MIN
+313,28,30,San Jose Sharks,Minnesota Wild,2022021051805,2022021051,Stoppage,805,STOP,Icing,2023-03-12T05:02:04Z,3,12:48,07:12,2,4,,,
+314,28,30,San Jose Sharks,Minnesota Wild,2022021051873,2022021051,Faceoff,873,FACEOFF,Logan Couture faceoff won against Mason Shaw,2023-03-12T05:02:38Z,3,12:48,07:12,2,4,28.0,San Jose Sharks,SJS
+315,28,30,San Jose Sharks,Minnesota Wild,2022021051806,2022021051,Hit,806,HIT,Ryan Reaves hit Nikolai Knyzhov,2023-03-12T05:03:15Z,3,13:25,06:35,2,4,30.0,Minnesota Wild,MIN
+316,28,30,San Jose Sharks,Minnesota Wild,2022021051807,2022021051,Hit,807,HIT,Ryan Reaves hit Nikolai Knyzhov,2023-03-12T05:03:25Z,3,13:35,06:25,2,4,30.0,Minnesota Wild,MIN
+317,28,30,San Jose Sharks,Minnesota Wild,2022021051633,2022021051,Shot,633,SHOT,Tomas Hertl Wrist Shot saved by Marc-Andre Fleury,2023-03-12T05:03:33Z,3,13:43,06:17,2,4,28.0,San Jose Sharks,SJS
+318,28,30,San Jose Sharks,Minnesota Wild,2022021051808,2022021051,Hit,808,HIT,Tomas Hertl hit Matt Boldy,2023-03-12T05:03:48Z,3,13:58,06:02,2,4,28.0,San Jose Sharks,SJS
+319,28,30,San Jose Sharks,Minnesota Wild,2022021051809,2022021051,Stoppage,809,STOP,Icing,2023-03-12T05:03:52Z,3,14:03,05:57,2,4,,,
+320,28,30,San Jose Sharks,Minnesota Wild,2022021051874,2022021051,Faceoff,874,FACEOFF,Joel Eriksson Ek faceoff won against Tomas Hertl,2023-03-12T05:04:19Z,3,14:03,05:57,2,4,30.0,Minnesota Wild,MIN
+321,28,30,San Jose Sharks,Minnesota Wild,2022021051634,2022021051,Shot,634,SHOT,Matt Boldy Snap Shot saved by James Reimer,2023-03-12T05:04:43Z,3,14:27,05:33,2,4,30.0,Minnesota Wild,MIN
+322,28,30,San Jose Sharks,Minnesota Wild,2022021051635,2022021051,Missed Shot,635,MISSED_SHOT,Marc-Edouard Vlasic Wide of Net Marc-Andre Fleury,2023-03-12T05:05:18Z,3,15:02,04:58,2,4,28.0,San Jose Sharks,SJS
+323,28,30,San Jose Sharks,Minnesota Wild,2022021051875,2022021051,Takeaway,875,TAKEAWAY,Takeaway by Jared Spurgeon,2023-03-12T05:05:37Z,3,15:21,04:39,2,4,30.0,Minnesota Wild,MIN
+324,28,30,San Jose Sharks,Minnesota Wild,2022021051810,2022021051,Hit,810,HIT,Oskar Sundqvist hit Oskar Lindblom,2023-03-12T05:06:01Z,3,15:45,04:15,2,4,30.0,Minnesota Wild,MIN
+325,28,30,San Jose Sharks,Minnesota Wild,2022021051811,2022021051,Stoppage,811,STOP,Puck in Benches,2023-03-12T05:06:53Z,3,16:37,03:23,2,4,,,
+326,28,30,San Jose Sharks,Minnesota Wild,2022021051877,2022021051,Faceoff,877,FACEOFF,Ryan Hartman faceoff won against Tomas Hertl,2023-03-12T05:09:20Z,3,16:37,03:23,2,4,30.0,Minnesota Wild,MIN
+327,28,30,San Jose Sharks,Minnesota Wild,2022021051812,2022021051,Stoppage,812,STOP,High Stick,2023-03-12T05:09:46Z,3,17:03,02:57,2,4,,,
+328,28,30,San Jose Sharks,Minnesota Wild,2022021051878,2022021051,Faceoff,878,FACEOFF,Tomas Hertl faceoff won against Joel Eriksson Ek,2023-03-12T05:10:21Z,3,17:03,02:57,2,4,28.0,San Jose Sharks,SJS
+329,28,30,San Jose Sharks,Minnesota Wild,2022021051637,2022021051,Shot,637,SHOT,William Eklund Slap Shot saved by Marc-Andre Fleury,2023-03-12T05:10:34Z,3,17:16,02:44,2,4,28.0,San Jose Sharks,SJS
+330,28,30,San Jose Sharks,Minnesota Wild,2022021051813,2022021051,Hit,813,HIT,William Eklund hit Joel Eriksson Ek,2023-03-12T05:10:39Z,3,17:21,02:39,2,4,28.0,San Jose Sharks,SJS
+331,28,30,San Jose Sharks,Minnesota Wild,2022021051638,2022021051,Missed Shot,638,MISSED_SHOT,Joel Eriksson Ek Wide of Net,2023-03-12T05:10:48Z,3,17:30,02:30,2,4,30.0,Minnesota Wild,MIN
+332,28,30,San Jose Sharks,Minnesota Wild,2022021051814,2022021051,Stoppage,814,STOP,Icing,2023-03-12T05:10:48Z,3,17:30,02:30,2,4,,,
+333,28,30,San Jose Sharks,Minnesota Wild,2022021051879,2022021051,Faceoff,879,FACEOFF,Tomas Hertl faceoff won against Joel Eriksson Ek,2023-03-12T05:11:09Z,3,17:30,02:30,2,4,28.0,San Jose Sharks,SJS
+334,28,30,San Jose Sharks,Minnesota Wild,2022021051639,2022021051,Missed Shot,639,MISSED_SHOT,Alexander Barabanov Wide of Net Marc-Andre Fleury,2023-03-12T05:11:22Z,3,17:43,02:17,2,4,28.0,San Jose Sharks,SJS
+335,28,30,San Jose Sharks,Minnesota Wild,2022021051640,2022021051,Goal,640,GOAL,"Matt Boldy (18) Backhand, assists: Jared Spurgeon (19)",2023-03-12T05:11:42Z,3,18:03,01:57,2,5,30.0,Minnesota Wild,MIN
+336,28,30,San Jose Sharks,Minnesota Wild,2022021051880,2022021051,Faceoff,880,FACEOFF,Mason Shaw faceoff won against Nico Sturm,2023-03-12T05:12:18Z,3,18:03,01:57,2,5,30.0,Minnesota Wild,MIN
+337,28,30,San Jose Sharks,Minnesota Wild,2022021051641,2022021051,Shot,641,SHOT,Connor Dewar Wrist Shot saved by James Reimer,2023-03-12T05:12:39Z,3,18:24,01:36,2,5,30.0,Minnesota Wild,MIN
+338,28,30,San Jose Sharks,Minnesota Wild,2022021051642,2022021051,Missed Shot,642,MISSED_SHOT,Jon Merrill Wide of Net James Reimer,2023-03-12T05:12:49Z,3,18:34,01:26,2,5,30.0,Minnesota Wild,MIN
+339,28,30,San Jose Sharks,Minnesota Wild,2022021051815,2022021051,Stoppage,815,STOP,Icing,2023-03-12T05:13:00Z,3,18:45,01:15,2,5,,,
+340,28,30,San Jose Sharks,Minnesota Wild,2022021051881,2022021051,Faceoff,881,FACEOFF,Steven Lorentz faceoff won against Connor Dewar,2023-03-12T05:13:28Z,3,18:45,01:15,2,5,28.0,San Jose Sharks,SJS
+341,28,30,San Jose Sharks,Minnesota Wild,2022021051643,2022021051,Shot,643,SHOT,Oskar Lindblom Wrist Shot saved by Marc-Andre Fleury,2023-03-12T05:13:29Z,3,18:46,01:14,2,5,28.0,San Jose Sharks,SJS
+342,28,30,San Jose Sharks,Minnesota Wild,2022021051644,2022021051,Shot,644,SHOT,Nikolai Knyzhov Slap Shot saved by Marc-Andre Fleury,2023-03-12T05:14:32Z,3,19:49,00:11,2,5,28.0,San Jose Sharks,SJS
+343,28,30,San Jose Sharks,Minnesota Wild,2022021051645,2022021051,Shot,645,SHOT,Nico Sturm Backhand saved by Marc-Andre Fleury,2023-03-12T05:14:37Z,3,19:54,00:06,2,5,28.0,San Jose Sharks,SJS
+344,28,30,San Jose Sharks,Minnesota Wild,2022021051646,2022021051,Blocked Shot,646,BLOCKED_SHOT,Noah Gregor shot blocked shot by Frederick Gaudreau,2023-03-12T05:14:39Z,3,19:55,00:05,2,5,30.0,Minnesota Wild,MIN
+345,28,30,San Jose Sharks,Minnesota Wild,2022021051816,2022021051,Stoppage,816,STOP,Puck in Netting,2023-03-12T05:14:39Z,3,19:55,00:05,2,5,,,
+346,28,30,San Jose Sharks,Minnesota Wild,2022021051882,2022021051,Faceoff,882,FACEOFF,Frederick Gaudreau faceoff won against Nico Sturm,2023-03-12T05:15:02Z,3,19:55,00:05,2,5,30.0,Minnesota Wild,MIN
+347,28,30,San Jose Sharks,Minnesota Wild,2022021051647,2022021051,Period End,647,PERIOD_END,End of 3rd Period,2023-03-12T05:15:07Z,3,20:00,00:00,2,5,,,
+348,28,30,San Jose Sharks,Minnesota Wild,2022021051650,2022021051,Period Official,650,PERIOD_OFFICIAL,Period Official,2023-03-12T05:15:11Z,3,20:00,00:00,2,5,,,
+349,28,30,San Jose Sharks,Minnesota Wild,2022021051901,2022021051,Game End,901,GAME_END,Game End,2023-03-12T05:15:13Z,3,20:00,00:00,2,5,,,
+350,28,30,San Jose Sharks,Minnesota Wild,20220210511191,2022021051,Game Official,1191,GAME_OFFICIAL,Game Official,2023-03-12T13:29:33Z,3,20:00,00:00,2,5,,,

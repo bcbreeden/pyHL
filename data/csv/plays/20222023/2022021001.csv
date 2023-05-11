@@ -1,0 +1,316 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,12,14,Carolina Hurricanes,Tampa Bay Lightning,20220210011,2022021001,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-03-05T19:14:43Z,1,00:00,20:00,0,0,,,
+1,12,14,Carolina Hurricanes,Tampa Bay Lightning,20220210015,2022021001,Period Ready,5,PERIOD_READY,Period Ready,2023-03-05T20:10:06Z,1,00:00,20:00,0,0,,,
+2,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100151,2022021001,Period Start,51,PERIOD_START,Period Start,2023-03-05T20:10:51Z,1,00:00,20:00,0,0,,,
+3,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100152,2022021001,Faceoff,52,FACEOFF,Nicholas Paul faceoff won against Jordan Staal,2023-03-05T20:10:51Z,1,00:00,20:00,0,0,14.0,Tampa Bay Lightning,TBL
+4,12,14,Carolina Hurricanes,Tampa Bay Lightning,20220210018,2022021001,Shot,8,SHOT,Jesper Fast Backhand saved by Andrei Vasilevskiy,2023-03-05T20:10:58Z,1,00:07,19:53,0,0,12.0,Carolina Hurricanes,CAR
+5,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100153,2022021001,Takeaway,53,TAKEAWAY,Takeaway by Jordan Martinook,2023-03-05T20:11:02Z,1,00:11,19:49,0,0,12.0,Carolina Hurricanes,CAR
+6,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001151,2022021001,Stoppage,151,STOP,Puck in Benches,2023-03-05T20:11:12Z,1,00:21,19:39,0,0,,,
+7,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100154,2022021001,Faceoff,54,FACEOFF,Nicholas Paul faceoff won against Jordan Staal,2023-03-05T20:11:29Z,1,00:21,19:39,0,0,14.0,Tampa Bay Lightning,TBL
+8,12,14,Carolina Hurricanes,Tampa Bay Lightning,20220210019,2022021001,Shot,9,SHOT,Jaccob Slavin Backhand saved by Andrei Vasilevskiy,2023-03-05T20:11:48Z,1,00:40,19:20,0,0,12.0,Carolina Hurricanes,CAR
+9,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001152,2022021001,Stoppage,152,STOP,Goalie Stopped,2023-03-05T20:11:49Z,1,00:41,19:19,0,0,,,
+10,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100155,2022021001,Faceoff,55,FACEOFF,Anthony Cirelli faceoff won against Martin Necas,2023-03-05T20:12:19Z,1,00:41,19:19,0,0,14.0,Tampa Bay Lightning,TBL
+11,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001153,2022021001,Stoppage,153,STOP,Icing,2023-03-05T20:12:34Z,1,00:56,19:04,0,0,,,
+12,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100156,2022021001,Faceoff,56,FACEOFF,Anthony Cirelli faceoff won against Jesperi Kotkaniemi,2023-03-05T20:12:55Z,1,00:56,19:04,0,0,14.0,Tampa Bay Lightning,TBL
+13,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001155,2022021001,Hit,155,HIT,Jalen Chatfield hit Michael Eyssimont,2023-03-05T20:13:01Z,1,01:02,18:58,0,0,12.0,Carolina Hurricanes,CAR
+14,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001156,2022021001,Hit,156,HIT,Zach Bogosian hit Martin Necas,2023-03-05T20:13:21Z,1,01:22,18:38,0,0,14.0,Tampa Bay Lightning,TBL
+15,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001157,2022021001,Hit,157,HIT,Nikita Kucherov hit Teuvo Teravainen,2023-03-05T20:13:36Z,1,01:37,18:23,0,0,14.0,Tampa Bay Lightning,TBL
+16,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100110,2022021001,Shot,10,SHOT,Brett Pesce Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T20:13:39Z,1,01:40,18:20,0,0,12.0,Carolina Hurricanes,CAR
+17,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100111,2022021001,Missed Shot,11,MISSED_SHOT,Jesperi Kotkaniemi Wide of Net Andrei Vasilevskiy,2023-03-05T20:13:43Z,1,01:44,18:16,0,0,12.0,Carolina Hurricanes,CAR
+18,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100112,2022021001,Shot,12,SHOT,Teuvo Teravainen Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T20:13:46Z,1,01:47,18:13,0,0,12.0,Carolina Hurricanes,CAR
+19,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001158,2022021001,Stoppage,158,STOP,Goalie Stopped,2023-03-05T20:13:47Z,1,01:48,18:12,0,0,,,
+20,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100157,2022021001,Faceoff,57,FACEOFF,Derek Stepan faceoff won against Ross Colton,2023-03-05T20:14:33Z,1,01:48,18:12,0,0,12.0,Carolina Hurricanes,CAR
+21,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100158,2022021001,Giveaway,58,GIVEAWAY,Giveaway by Corey Perry,2023-03-05T20:14:38Z,1,01:53,18:07,0,0,14.0,Tampa Bay Lightning,TBL
+22,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100113,2022021001,Blocked Shot,13,BLOCKED_SHOT,Derek Stepan shot blocked shot by Victor Hedman,2023-03-05T20:14:43Z,1,01:58,18:02,0,0,14.0,Tampa Bay Lightning,TBL
+23,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001159,2022021001,Hit,159,HIT,Derek Stepan hit Haydn Fleury,2023-03-05T20:14:54Z,1,02:09,17:51,0,0,12.0,Carolina Hurricanes,CAR
+24,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100159,2022021001,Takeaway,59,TAKEAWAY,Takeaway by Paul Stastny,2023-03-05T20:15:00Z,1,02:15,17:45,0,0,12.0,Carolina Hurricanes,CAR
+25,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001160,2022021001,Stoppage,160,STOP,Offside,2023-03-05T20:15:05Z,1,02:21,17:39,0,0,,,
+26,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100160,2022021001,Faceoff,60,FACEOFF,Sebastian Aho faceoff won against Brayden Point,2023-03-05T20:15:39Z,1,02:21,17:39,0,0,12.0,Carolina Hurricanes,CAR
+27,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100114,2022021001,Shot,14,SHOT,Sebastian Aho Tip-In saved by Andrei Vasilevskiy,2023-03-05T20:15:51Z,1,02:33,17:27,0,0,12.0,Carolina Hurricanes,CAR
+28,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001126,2022021001,Penalty,126,PENALTY,Seth Jarvis Holding against Nikita Kucherov,2023-03-05T20:17:10Z,1,03:51,16:09,0,0,12.0,Carolina Hurricanes,CAR
+29,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100161,2022021001,Faceoff,61,FACEOFF,Jordan Staal faceoff won against Steven Stamkos,2023-03-05T20:17:48Z,1,03:51,16:09,0,0,12.0,Carolina Hurricanes,CAR
+30,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001161,2022021001,Stoppage,161,STOP,Puck in Crowd,2023-03-05T20:17:57Z,1,04:00,16:00,0,0,,,
+31,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100162,2022021001,Faceoff,62,FACEOFF,Jordan Staal faceoff won against Anthony Cirelli,2023-03-05T20:18:23Z,1,04:00,16:00,0,0,12.0,Carolina Hurricanes,CAR
+32,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100116,2022021001,Blocked Shot,16,BLOCKED_SHOT,Steven Stamkos shot blocked shot by Jordan Martinook,2023-03-05T20:18:51Z,1,04:28,15:32,0,0,12.0,Carolina Hurricanes,CAR
+33,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100163,2022021001,Giveaway,63,GIVEAWAY,Giveaway by Steven Stamkos,2023-03-05T20:19:19Z,1,04:56,15:04,0,0,14.0,Tampa Bay Lightning,TBL
+34,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100117,2022021001,Shot,17,SHOT,Teuvo Teravainen Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T20:19:20Z,1,04:57,15:03,0,0,12.0,Carolina Hurricanes,CAR
+35,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100119,2022021001,Shot,19,SHOT,Teuvo Teravainen Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T20:19:22Z,1,04:59,15:01,0,0,12.0,Carolina Hurricanes,CAR
+36,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100118,2022021001,Missed Shot,18,MISSED_SHOT,Teuvo Teravainen Wide of Net Andrei Vasilevskiy,2023-03-05T20:19:30Z,1,05:07,14:53,0,0,12.0,Carolina Hurricanes,CAR
+37,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100120,2022021001,Shot,20,SHOT,Nikita Kucherov Wrist Shot saved by Frederik Andersen,2023-03-05T20:19:53Z,1,05:30,14:30,0,0,14.0,Tampa Bay Lightning,TBL
+38,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100121,2022021001,Shot,21,SHOT,Nikita Kucherov Backhand saved by Frederik Andersen,2023-03-05T20:20:08Z,1,05:45,14:15,0,0,14.0,Tampa Bay Lightning,TBL
+39,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100164,2022021001,Giveaway,64,GIVEAWAY,Giveaway by Anthony Cirelli,2023-03-05T20:20:27Z,1,06:04,13:56,0,0,14.0,Tampa Bay Lightning,TBL
+40,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001163,2022021001,Hit,163,HIT,Tanner Jeannot hit Jalen Chatfield,2023-03-05T20:20:29Z,1,06:06,13:54,0,0,14.0,Tampa Bay Lightning,TBL
+41,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100165,2022021001,Giveaway,65,GIVEAWAY,Giveaway by Seth Jarvis,2023-03-05T20:20:45Z,1,06:22,13:38,0,0,12.0,Carolina Hurricanes,CAR
+42,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100167,2022021001,Giveaway,67,GIVEAWAY,Giveaway by Anthony Cirelli,2023-03-05T20:20:48Z,1,06:25,13:35,0,0,14.0,Tampa Bay Lightning,TBL
+43,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100123,2022021001,Blocked Shot,23,BLOCKED_SHOT,Andrei Svechnikov shot blocked shot by Zach Bogosian,2023-03-05T20:20:52Z,1,06:28,13:32,0,0,14.0,Tampa Bay Lightning,TBL
+44,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100122,2022021001,Goal,22,GOAL,"Andrei Svechnikov (22) Wrist Shot, assists: none",2023-03-05T20:21:46Z,1,06:30,13:30,1,0,12.0,Carolina Hurricanes,CAR
+45,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100166,2022021001,Faceoff,66,FACEOFF,Pierre-Edouard Bellemare faceoff won against Derek Stepan,2023-03-05T20:21:54Z,1,06:30,13:30,1,0,14.0,Tampa Bay Lightning,TBL
+46,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001164,2022021001,Stoppage,164,STOP,Puck in Benches,2023-03-05T20:22:14Z,1,06:50,13:10,1,0,,,
+47,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100168,2022021001,Faceoff,68,FACEOFF,Nicholas Paul faceoff won against Jordan Staal,2023-03-05T20:24:41Z,1,06:50,13:10,1,0,14.0,Tampa Bay Lightning,TBL
+48,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001165,2022021001,Stoppage,165,STOP,Icing,2023-03-05T20:25:55Z,1,08:03,11:57,1,0,,,
+49,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100169,2022021001,Faceoff,69,FACEOFF,Steven Stamkos faceoff won against Sebastian Aho,2023-03-05T20:26:21Z,1,08:03,11:57,1,0,14.0,Tampa Bay Lightning,TBL
+50,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100170,2022021001,Takeaway,70,TAKEAWAY,Takeaway by Andrei Svechnikov,2023-03-05T20:26:38Z,1,08:20,11:40,1,0,12.0,Carolina Hurricanes,CAR
+51,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001166,2022021001,Stoppage,166,STOP,Icing,2023-03-05T20:27:32Z,1,09:13,10:47,1,0,,,
+52,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100172,2022021001,Faceoff,72,FACEOFF,Teuvo Teravainen faceoff won against Anthony Cirelli,2023-03-05T20:28:04Z,1,09:13,10:47,1,0,12.0,Carolina Hurricanes,CAR
+53,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100124,2022021001,Shot,24,SHOT,Martin Necas Slap Shot saved by Andrei Vasilevskiy,2023-03-05T20:28:11Z,1,09:20,10:40,1,0,12.0,Carolina Hurricanes,CAR
+54,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001167,2022021001,Stoppage,167,STOP,Goalie Stopped,2023-03-05T20:28:12Z,1,09:21,10:39,1,0,,,
+55,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100173,2022021001,Faceoff,73,FACEOFF,Pierre-Edouard Bellemare faceoff won against Derek Stepan,2023-03-05T20:28:44Z,1,09:21,10:39,1,0,14.0,Tampa Bay Lightning,TBL
+56,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001168,2022021001,Hit,168,HIT,Jalen Chatfield hit Ross Colton,2023-03-05T20:29:22Z,1,09:59,10:01,1,0,12.0,Carolina Hurricanes,CAR
+57,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001169,2022021001,Hit,169,HIT,Andrei Svechnikov hit Victor Hedman,2023-03-05T20:29:48Z,1,10:25,09:35,1,0,12.0,Carolina Hurricanes,CAR
+58,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100125,2022021001,Blocked Shot,25,BLOCKED_SHOT,Andrei Svechnikov shot blocked shot by Victor Hedman,2023-03-05T20:29:53Z,1,10:30,09:30,1,0,14.0,Tampa Bay Lightning,TBL
+59,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100174,2022021001,Giveaway,74,GIVEAWAY,Giveaway by Brent Burns,2023-03-05T20:30:04Z,1,10:41,09:19,1,0,12.0,Carolina Hurricanes,CAR
+60,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100175,2022021001,Takeaway,75,TAKEAWAY,Takeaway by Victor Hedman,2023-03-05T20:30:14Z,1,10:51,09:09,1,0,14.0,Tampa Bay Lightning,TBL
+61,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001170,2022021001,Stoppage,170,STOP,Icing,2023-03-05T20:30:30Z,1,11:06,08:54,1,0,,,
+62,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100176,2022021001,Faceoff,76,FACEOFF,Sebastian Aho faceoff won against Nicholas Paul,2023-03-05T20:30:57Z,1,11:06,08:54,1,0,12.0,Carolina Hurricanes,CAR
+63,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001171,2022021001,Stoppage,171,STOP,Puck in Benches,2023-03-05T20:31:42Z,1,11:51,08:09,1,0,,,
+64,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100177,2022021001,Faceoff,77,FACEOFF,Steven Stamkos faceoff won against Sebastian Aho,2023-03-05T20:33:56Z,1,11:51,08:09,1,0,14.0,Tampa Bay Lightning,TBL
+65,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001172,2022021001,Blocked Shot,172,BLOCKED_SHOT,Nikita Kucherov shot blocked shot by Seth Jarvis,2023-03-05T20:34:00Z,1,11:55,08:05,1,0,12.0,Carolina Hurricanes,CAR
+66,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001173,2022021001,Shot,173,SHOT,Victor Hedman Slap Shot saved by Frederik Andersen,2023-03-05T20:34:16Z,1,12:11,07:49,1,0,14.0,Tampa Bay Lightning,TBL
+67,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100178,2022021001,Giveaway,78,GIVEAWAY,Giveaway by Ian Cole,2023-03-05T20:34:58Z,1,12:52,07:08,1,0,14.0,Tampa Bay Lightning,TBL
+68,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001174,2022021001,Hit,174,HIT,Michael Eyssimont hit Jesperi Kotkaniemi,2023-03-05T20:34:59Z,1,12:54,07:06,1,0,14.0,Tampa Bay Lightning,TBL
+69,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100179,2022021001,Stoppage,79,STOP,Hand Pass,2023-03-05T20:35:07Z,1,13:02,06:58,1,0,,,
+70,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100180,2022021001,Faceoff,80,FACEOFF,Pierre-Edouard Bellemare faceoff won against Paul Stastny,2023-03-05T20:35:35Z,1,13:02,06:58,1,0,14.0,Tampa Bay Lightning,TBL
+71,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001175,2022021001,Stoppage,175,STOP,Icing,2023-03-05T20:36:01Z,1,13:29,06:31,1,0,,,
+72,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100181,2022021001,Faceoff,81,FACEOFF,Paul Stastny faceoff won against Steven Stamkos,2023-03-05T20:36:28Z,1,13:29,06:31,1,0,12.0,Carolina Hurricanes,CAR
+73,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100182,2022021001,Takeaway,82,TAKEAWAY,Takeaway by Nikita Kucherov,2023-03-05T20:36:34Z,1,13:35,06:25,1,0,14.0,Tampa Bay Lightning,TBL
+74,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100183,2022021001,Takeaway,83,TAKEAWAY,Takeaway by Mikhail Sergachev,2023-03-05T20:37:02Z,1,14:03,05:57,1,0,14.0,Tampa Bay Lightning,TBL
+75,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001176,2022021001,Stoppage,176,STOP,Offside,2023-03-05T20:37:07Z,1,14:08,05:52,1,0,,,
+76,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100184,2022021001,Faceoff,84,FACEOFF,Jordan Staal faceoff won against Nicholas Paul,2023-03-05T20:39:24Z,1,14:08,05:52,1,0,12.0,Carolina Hurricanes,CAR
+77,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001177,2022021001,Hit,177,HIT,Jesper Fast hit Ian Cole,2023-03-05T20:39:34Z,1,14:18,05:42,1,0,12.0,Carolina Hurricanes,CAR
+78,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001178,2022021001,Hit,178,HIT,Nicholas Paul hit Jordan Staal,2023-03-05T20:39:40Z,1,14:24,05:36,1,0,14.0,Tampa Bay Lightning,TBL
+79,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100185,2022021001,Giveaway,85,GIVEAWAY,Giveaway by Alex Killorn,2023-03-05T20:39:48Z,1,14:32,05:28,1,0,14.0,Tampa Bay Lightning,TBL
+80,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100186,2022021001,Giveaway,86,GIVEAWAY,Giveaway by Ian Cole,2023-03-05T20:40:06Z,1,14:50,05:10,1,0,14.0,Tampa Bay Lightning,TBL
+81,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001267,2022021001,Penalty,267,PENALTY,Tanner Jeannot Tripping against Shayne Gostisbehere,2023-03-05T20:40:48Z,1,15:31,04:29,1,0,14.0,Tampa Bay Lightning,TBL
+82,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100187,2022021001,Faceoff,87,FACEOFF,Sebastian Aho faceoff won against Pierre-Edouard Bellemare,2023-03-05T20:41:41Z,1,15:31,04:29,1,0,12.0,Carolina Hurricanes,CAR
+83,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100127,2022021001,Blocked Shot,27,BLOCKED_SHOT,Sebastian Aho shot blocked shot by Alex Killorn,2023-03-05T20:41:45Z,1,15:35,04:25,1,0,14.0,Tampa Bay Lightning,TBL
+84,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100128,2022021001,Blocked Shot,28,BLOCKED_SHOT,Brent Burns shot blocked shot by Alex Killorn,2023-03-05T20:42:00Z,1,15:50,04:10,1,0,14.0,Tampa Bay Lightning,TBL
+85,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100188,2022021001,Takeaway,88,TAKEAWAY,Takeaway by Pierre-Edouard Bellemare,2023-03-05T20:42:50Z,1,16:40,03:20,1,0,14.0,Tampa Bay Lightning,TBL
+86,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100129,2022021001,Goal,29,GOAL,"Teuvo Teravainen (8) Wrist Shot, assists: Jesperi Kotkaniemi (15), Shayne Gostisbehere (22)",2023-03-05T20:43:23Z,1,17:13,02:47,2,0,12.0,Carolina Hurricanes,CAR
+87,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100189,2022021001,Faceoff,89,FACEOFF,Jordan Staal faceoff won against Steven Stamkos,2023-03-05T20:44:10Z,1,17:13,02:47,2,0,12.0,Carolina Hurricanes,CAR
+88,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100130,2022021001,Shot,30,SHOT,Jordan Staal Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T20:44:19Z,1,17:22,02:38,2,0,12.0,Carolina Hurricanes,CAR
+89,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100131,2022021001,Shot,31,SHOT,Jordan Staal Backhand saved by Andrei Vasilevskiy,2023-03-05T20:44:20Z,1,17:23,02:37,2,0,12.0,Carolina Hurricanes,CAR
+90,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100190,2022021001,Giveaway,90,GIVEAWAY,Giveaway by Brayden Point,2023-03-05T20:44:30Z,1,17:33,02:27,2,0,14.0,Tampa Bay Lightning,TBL
+91,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100191,2022021001,Takeaway,91,TAKEAWAY,Takeaway by Seth Jarvis,2023-03-05T20:44:52Z,1,17:55,02:05,2,0,12.0,Carolina Hurricanes,CAR
+92,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100132,2022021001,Blocked Shot,32,BLOCKED_SHOT,Jaccob Slavin shot blocked shot by Michael Eyssimont,2023-03-05T20:45:19Z,1,18:22,01:38,2,0,14.0,Tampa Bay Lightning,TBL
+93,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100134,2022021001,Missed Shot,34,MISSED_SHOT,Brent Burns Wide of Net Andrei Vasilevskiy,2023-03-05T20:45:23Z,1,18:26,01:34,2,0,12.0,Carolina Hurricanes,CAR
+94,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100192,2022021001,Takeaway,92,TAKEAWAY,Takeaway by Tanner Jeannot,2023-03-05T20:45:29Z,1,18:32,01:28,2,0,14.0,Tampa Bay Lightning,TBL
+95,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100193,2022021001,Giveaway,93,GIVEAWAY,Giveaway by Jaccob Slavin,2023-03-05T20:45:36Z,1,18:39,01:21,2,0,12.0,Carolina Hurricanes,CAR
+96,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100135,2022021001,Missed Shot,35,MISSED_SHOT,Ross Colton Wide of Net Frederik Andersen,2023-03-05T20:45:39Z,1,18:42,01:18,2,0,14.0,Tampa Bay Lightning,TBL
+97,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100136,2022021001,Shot,36,SHOT,Ian Cole Snap Shot saved by Frederik Andersen,2023-03-05T20:46:05Z,1,19:08,00:52,2,0,14.0,Tampa Bay Lightning,TBL
+98,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001180,2022021001,Stoppage,180,STOP,Icing,2023-03-05T20:46:49Z,1,19:51,00:09,2,0,,,
+99,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100194,2022021001,Faceoff,94,FACEOFF,Brayden Point faceoff won against Paul Stastny,2023-03-05T20:47:24Z,1,19:51,00:09,2,0,14.0,Tampa Bay Lightning,TBL
+100,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100137,2022021001,Period End,37,PERIOD_END,End of 1st Period,2023-03-05T20:47:33Z,1,20:00,00:00,2,0,,,
+101,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100140,2022021001,Period Official,40,PERIOD_OFFICIAL,Period Official,2023-03-05T21:03:00Z,1,20:00,00:00,2,0,,,
+102,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100141,2022021001,Period Ready,41,PERIOD_READY,Period Ready,2023-03-05T21:05:59Z,2,00:00,20:00,2,0,,,
+103,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100195,2022021001,Period Start,95,PERIOD_START,Period Start,2023-03-05T21:06:41Z,2,00:00,20:00,2,0,,,
+104,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100196,2022021001,Faceoff,96,FACEOFF,Jesperi Kotkaniemi faceoff won against Anthony Cirelli,2023-03-05T21:06:41Z,2,00:00,20:00,2,0,12.0,Carolina Hurricanes,CAR
+105,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100197,2022021001,Takeaway,97,TAKEAWAY,Takeaway by Jaccob Slavin,2023-03-05T21:06:48Z,2,00:07,19:53,2,0,12.0,Carolina Hurricanes,CAR
+106,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100142,2022021001,Missed Shot,42,MISSED_SHOT,Brent Burns Wide of Net Andrei Vasilevskiy,2023-03-05T21:07:07Z,2,00:26,19:34,2,0,12.0,Carolina Hurricanes,CAR
+107,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001181,2022021001,Hit,181,HIT,Ian Cole hit Teuvo Teravainen,2023-03-05T21:07:15Z,2,00:34,19:26,2,0,14.0,Tampa Bay Lightning,TBL
+108,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100198,2022021001,Giveaway,98,GIVEAWAY,Giveaway by Brandon Hagel,2023-03-05T21:07:27Z,2,00:46,19:14,2,0,14.0,Tampa Bay Lightning,TBL
+109,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100199,2022021001,Giveaway,99,GIVEAWAY,Giveaway by Seth Jarvis,2023-03-05T21:07:49Z,2,01:08,18:52,2,0,12.0,Carolina Hurricanes,CAR
+110,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001182,2022021001,Stoppage,182,STOP,Referee or Linesman,2023-03-05T21:07:58Z,2,01:18,18:42,2,0,,,
+111,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001100,2022021001,Faceoff,100,FACEOFF,Sebastian Aho faceoff won against Steven Stamkos,2023-03-05T21:10:22Z,2,01:18,18:42,2,0,12.0,Carolina Hurricanes,CAR
+112,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001351,2022021001,Takeaway,351,TAKEAWAY,Takeaway by Seth Jarvis,2023-03-05T21:10:36Z,2,01:32,18:28,2,0,12.0,Carolina Hurricanes,CAR
+113,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100143,2022021001,Missed Shot,43,MISSED_SHOT,Seth Jarvis Wide of Net Andrei Vasilevskiy,2023-03-05T21:10:44Z,2,01:40,18:20,2,0,12.0,Carolina Hurricanes,CAR
+114,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001352,2022021001,Giveaway,352,GIVEAWAY,Giveaway by Nikita Kucherov,2023-03-05T21:10:54Z,2,01:50,18:10,2,0,14.0,Tampa Bay Lightning,TBL
+115,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100144,2022021001,Shot,44,SHOT,Jordan Staal Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T21:11:28Z,2,02:24,17:36,2,0,12.0,Carolina Hurricanes,CAR
+116,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001184,2022021001,Stoppage,184,STOP,Puck in Crowd,2023-03-05T21:11:45Z,2,02:41,17:19,2,0,,,
+117,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001353,2022021001,Faceoff,353,FACEOFF,Nicholas Paul faceoff won against Jordan Staal,2023-03-05T21:12:10Z,2,02:41,17:19,2,0,14.0,Tampa Bay Lightning,TBL
+118,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100145,2022021001,Missed Shot,45,MISSED_SHOT,Michael Eyssimont Wide of Net Frederik Andersen,2023-03-05T21:12:26Z,2,02:57,17:03,2,0,14.0,Tampa Bay Lightning,TBL
+119,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001185,2022021001,Hit,185,HIT,Michael Eyssimont hit Jalen Chatfield,2023-03-05T21:12:31Z,2,03:02,16:58,2,0,14.0,Tampa Bay Lightning,TBL
+120,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100146,2022021001,Missed Shot,46,MISSED_SHOT,Michael Eyssimont Wide of Net Frederik Andersen,2023-03-05T21:12:42Z,2,03:13,16:47,2,0,14.0,Tampa Bay Lightning,TBL
+121,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001186,2022021001,Hit,186,HIT,Jaccob Slavin hit Nicholas Paul,2023-03-05T21:13:07Z,2,03:37,16:23,2,0,12.0,Carolina Hurricanes,CAR
+122,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100147,2022021001,Shot,47,SHOT,Andrei Svechnikov Snap Shot saved by Andrei Vasilevskiy,2023-03-05T21:14:19Z,2,04:50,15:10,2,0,12.0,Carolina Hurricanes,CAR
+123,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001187,2022021001,Stoppage,187,STOP,Goalie Stopped,2023-03-05T21:14:20Z,2,04:51,15:09,2,0,,,
+124,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001354,2022021001,Faceoff,354,FACEOFF,Nicholas Paul faceoff won against Jordan Staal,2023-03-05T21:14:57Z,2,04:51,15:09,2,0,14.0,Tampa Bay Lightning,TBL
+125,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100148,2022021001,Missed Shot,48,MISSED_SHOT,Jesper Fast Over Net Andrei Vasilevskiy,2023-03-05T21:15:54Z,2,05:48,14:12,2,0,12.0,Carolina Hurricanes,CAR
+126,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001188,2022021001,Hit,188,HIT,Steven Stamkos hit Seth Jarvis,2023-03-05T21:16:10Z,2,06:04,13:56,2,0,14.0,Tampa Bay Lightning,TBL
+127,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001189,2022021001,Stoppage,189,STOP,Offside,2023-03-05T21:16:20Z,2,06:14,13:46,2,0,,,
+128,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001355,2022021001,Faceoff,355,FACEOFF,Brayden Point faceoff won against Sebastian Aho,2023-03-05T21:18:43Z,2,06:14,13:46,2,0,14.0,Tampa Bay Lightning,TBL
+129,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100149,2022021001,Blocked Shot,49,BLOCKED_SHOT,Brayden Point shot blocked shot by Brett Pesce,2023-03-05T21:19:11Z,2,06:42,13:18,2,0,12.0,Carolina Hurricanes,CAR
+130,12,14,Carolina Hurricanes,Tampa Bay Lightning,202202100150,2022021001,Missed Shot,50,MISSED_SHOT,Seth Jarvis Wide of Net Andrei Vasilevskiy,2023-03-05T21:19:24Z,2,06:55,13:05,2,0,12.0,Carolina Hurricanes,CAR
+131,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001190,2022021001,Hit,190,HIT,Mikhail Sergachev hit Sebastian Aho,2023-03-05T21:19:27Z,2,06:58,13:02,2,0,14.0,Tampa Bay Lightning,TBL
+132,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001356,2022021001,Giveaway,356,GIVEAWAY,Giveaway by Stefan Noesen,2023-03-05T21:19:54Z,2,07:25,12:35,2,0,12.0,Carolina Hurricanes,CAR
+133,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001191,2022021001,Hit,191,HIT,Stefan Noesen hit Ian Cole,2023-03-05T21:20:14Z,2,07:45,12:15,2,0,12.0,Carolina Hurricanes,CAR
+134,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001303,2022021001,Missed Shot,303,MISSED_SHOT,Ross Colton Wide of Net Frederik Andersen,2023-03-05T21:20:25Z,2,07:56,12:04,2,0,14.0,Tampa Bay Lightning,TBL
+135,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001192,2022021001,Stoppage,192,STOP,Icing,2023-03-05T21:20:33Z,2,08:04,11:56,2,0,,,
+136,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001358,2022021001,Faceoff,358,FACEOFF,Derek Stepan faceoff won against Anthony Cirelli,2023-03-05T21:20:54Z,2,08:04,11:56,2,0,12.0,Carolina Hurricanes,CAR
+137,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001194,2022021001,Stoppage,194,STOP,Icing,2023-03-05T21:21:04Z,2,08:13,11:47,2,0,,,
+138,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001359,2022021001,Faceoff,359,FACEOFF,Martin Necas faceoff won against Anthony Cirelli,2023-03-05T21:21:38Z,2,08:13,11:47,2,0,12.0,Carolina Hurricanes,CAR
+139,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001360,2022021001,Giveaway,360,GIVEAWAY,Giveaway by Jesperi Kotkaniemi,2023-03-05T21:21:48Z,2,08:23,11:37,2,0,12.0,Carolina Hurricanes,CAR
+140,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001195,2022021001,Stoppage,195,STOP,Icing,2023-03-05T21:21:55Z,2,08:31,11:29,2,0,,,
+141,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001361,2022021001,Faceoff,361,FACEOFF,Anthony Cirelli faceoff won against Jesperi Kotkaniemi,2023-03-05T21:22:18Z,2,08:31,11:29,2,0,14.0,Tampa Bay Lightning,TBL
+142,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001362,2022021001,Giveaway,362,GIVEAWAY,Giveaway by Martin Necas,2023-03-05T21:22:30Z,2,08:43,11:17,2,0,12.0,Carolina Hurricanes,CAR
+143,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001196,2022021001,Stoppage,196,STOP,Puck Frozen,2023-03-05T21:22:47Z,2,08:59,11:01,2,0,,,
+144,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001363,2022021001,Faceoff,363,FACEOFF,Steven Stamkos faceoff won against Sebastian Aho,2023-03-05T21:23:30Z,2,08:59,11:01,2,0,14.0,Tampa Bay Lightning,TBL
+145,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001304,2022021001,Missed Shot,304,MISSED_SHOT,Nikita Kucherov Over Net Frederik Andersen,2023-03-05T21:23:34Z,2,09:03,10:57,2,0,14.0,Tampa Bay Lightning,TBL
+146,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001197,2022021001,Stoppage,197,STOP,Icing,2023-03-05T21:23:43Z,2,09:12,10:48,2,0,,,
+147,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001364,2022021001,Faceoff,364,FACEOFF,Steven Stamkos faceoff won against Sebastian Aho,2023-03-05T21:24:10Z,2,09:12,10:48,2,0,14.0,Tampa Bay Lightning,TBL
+148,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001305,2022021001,Blocked Shot,305,BLOCKED_SHOT,Andrei Svechnikov shot blocked shot by Zach Bogosian,2023-03-05T21:24:24Z,2,09:26,10:34,2,0,14.0,Tampa Bay Lightning,TBL
+149,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001306,2022021001,Shot,306,SHOT,Sebastian Aho Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T21:24:30Z,2,09:32,10:28,2,0,12.0,Carolina Hurricanes,CAR
+150,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001198,2022021001,Hit,198,HIT,Steven Stamkos hit Brady Skjei,2023-03-05T21:24:32Z,2,09:34,10:26,2,0,14.0,Tampa Bay Lightning,TBL
+151,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001199,2022021001,Stoppage,199,STOP,Hand Pass,2023-03-05T21:24:34Z,2,09:36,10:24,2,0,,,
+152,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001365,2022021001,Faceoff,365,FACEOFF,Jordan Staal faceoff won against Nicholas Paul,2023-03-05T21:25:04Z,2,09:36,10:24,2,0,12.0,Carolina Hurricanes,CAR
+153,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001307,2022021001,Shot,307,SHOT,Jordan Staal Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T21:25:09Z,2,09:41,10:19,2,0,12.0,Carolina Hurricanes,CAR
+154,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001200,2022021001,Stoppage,200,STOP,Goalie Stopped,2023-03-05T21:25:12Z,2,09:43,10:17,2,0,,,
+155,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001366,2022021001,Faceoff,366,FACEOFF,Stefan Noesen faceoff won against Pierre-Edouard Bellemare,2023-03-05T21:25:42Z,2,09:43,10:17,2,0,12.0,Carolina Hurricanes,CAR
+156,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001308,2022021001,Shot,308,SHOT,Brent Burns Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T21:25:44Z,2,09:45,10:15,2,0,12.0,Carolina Hurricanes,CAR
+157,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001367,2022021001,Giveaway,367,GIVEAWAY,Giveaway by Ross Colton,2023-03-05T21:25:51Z,2,09:52,10:08,2,0,14.0,Tampa Bay Lightning,TBL
+158,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001309,2022021001,Shot,309,SHOT,Stefan Noesen Slap Shot saved by Andrei Vasilevskiy,2023-03-05T21:25:54Z,2,09:55,10:05,2,0,12.0,Carolina Hurricanes,CAR
+159,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001369,2022021001,Giveaway,369,GIVEAWAY,Giveaway by Jesperi Kotkaniemi,2023-03-05T21:27:46Z,2,11:47,08:13,2,0,12.0,Carolina Hurricanes,CAR
+160,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001370,2022021001,Giveaway,370,GIVEAWAY,Giveaway by Andrei Vasilevskiy,2023-03-05T21:27:54Z,2,11:55,08:05,2,0,14.0,Tampa Bay Lightning,TBL
+161,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001310,2022021001,Goal,310,GOAL,"Teuvo Teravainen (9) Wrist Shot, assists: Martin Necas (32), Jesperi Kotkaniemi (16)",2023-03-05T21:27:56Z,2,11:57,08:03,3,0,12.0,Carolina Hurricanes,CAR
+162,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001371,2022021001,Faceoff,371,FACEOFF,Sebastian Aho faceoff won against Brayden Point,2023-03-05T21:28:49Z,2,11:57,08:03,3,0,12.0,Carolina Hurricanes,CAR
+163,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001402,2022021001,Stoppage,402,STOP,Icing,2023-03-05T21:29:00Z,2,12:08,07:52,3,0,,,
+164,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001372,2022021001,Faceoff,372,FACEOFF,Sebastian Aho faceoff won against Brayden Point,2023-03-05T21:29:35Z,2,12:08,07:52,3,0,12.0,Carolina Hurricanes,CAR
+165,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001403,2022021001,Hit,403,HIT,Steven Stamkos hit Brett Pesce,2023-03-05T21:29:48Z,2,12:21,07:39,3,0,14.0,Tampa Bay Lightning,TBL
+166,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001311,2022021001,Missed Shot,311,MISSED_SHOT,Mikhail Sergachev Wide of Net Frederik Andersen,2023-03-05T21:30:01Z,2,12:34,07:26,3,0,14.0,Tampa Bay Lightning,TBL
+167,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001373,2022021001,Giveaway,373,GIVEAWAY,Giveaway by Brayden Point,2023-03-05T21:30:09Z,2,12:42,07:18,3,0,14.0,Tampa Bay Lightning,TBL
+168,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001404,2022021001,Stoppage,404,STOP,Referee or Linesman,2023-03-05T21:30:13Z,2,12:46,07:14,3,0,,,
+169,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001405,2022021001,Stoppage,405,STOP,Referee or Linesman,2023-03-05T21:30:13Z,2,12:46,07:14,3,0,,,
+170,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001374,2022021001,Faceoff,374,FACEOFF,Jordan Staal faceoff won against Nicholas Paul,2023-03-05T21:32:37Z,2,12:46,07:14,3,0,12.0,Carolina Hurricanes,CAR
+171,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001375,2022021001,Takeaway,375,TAKEAWAY,Takeaway by Jordan Martinook,2023-03-05T21:33:10Z,2,13:19,06:41,3,0,12.0,Carolina Hurricanes,CAR
+172,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001312,2022021001,Shot,312,SHOT,Jaccob Slavin Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T21:33:15Z,2,13:24,06:36,3,0,12.0,Carolina Hurricanes,CAR
+173,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001406,2022021001,Stoppage,406,STOP,Goalie Stopped,2023-03-05T21:33:17Z,2,13:25,06:35,3,0,,,
+174,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001376,2022021001,Faceoff,376,FACEOFF,Steven Stamkos faceoff won against Sebastian Aho,2023-03-05T21:33:52Z,2,13:25,06:35,3,0,14.0,Tampa Bay Lightning,TBL
+175,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001377,2022021001,Takeaway,377,TAKEAWAY,Takeaway by Brady Skjei,2023-03-05T21:34:01Z,2,13:34,06:26,3,0,12.0,Carolina Hurricanes,CAR
+176,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001407,2022021001,Hit,407,HIT,Steven Stamkos hit Brett Pesce,2023-03-05T21:34:20Z,2,13:53,06:07,3,0,14.0,Tampa Bay Lightning,TBL
+177,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001408,2022021001,Hit,408,HIT,Steven Stamkos hit Sebastian Aho,2023-03-05T21:34:37Z,2,14:10,05:50,3,0,14.0,Tampa Bay Lightning,TBL
+178,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001410,2022021001,Hit,410,HIT,Andrei Svechnikov hit Steven Stamkos,2023-03-05T21:34:39Z,2,14:12,05:48,3,0,12.0,Carolina Hurricanes,CAR
+179,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001313,2022021001,Shot,313,SHOT,Jalen Chatfield Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T21:34:41Z,2,14:14,05:46,3,0,12.0,Carolina Hurricanes,CAR
+180,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001409,2022021001,Stoppage,409,STOP,Referee or Linesman,2023-03-05T21:34:44Z,2,14:18,05:42,3,0,,,
+181,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001411,2022021001,Penalty,411,PENALTY,Zach Bogosian Unsportsmanlike conduct against Andrei Svechnikov,2023-03-05T21:34:44Z,2,14:18,05:42,3,0,14.0,Tampa Bay Lightning,TBL
+182,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001559,2022021001,Penalty,559,PENALTY,Zach Bogosian Roughing against Andrei Svechnikov served by Corey Perry,2023-03-05T21:34:44Z,2,14:18,05:42,3,0,14.0,Tampa Bay Lightning,TBL
+183,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001563,2022021001,Penalty,563,PENALTY,Andrei Svechnikov Unsportsmanlike conduct against Zach Bogosian,2023-03-05T21:34:44Z,2,14:18,05:42,3,0,12.0,Carolina Hurricanes,CAR
+184,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001378,2022021001,Faceoff,378,FACEOFF,Jesperi Kotkaniemi faceoff won against Anthony Cirelli,2023-03-05T21:38:19Z,2,14:18,05:42,3,0,12.0,Carolina Hurricanes,CAR
+185,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001379,2022021001,Giveaway,379,GIVEAWAY,Giveaway by Brent Burns,2023-03-05T21:39:16Z,2,15:15,04:45,3,0,12.0,Carolina Hurricanes,CAR
+186,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001314,2022021001,Missed Shot,314,MISSED_SHOT,Brandon Hagel Goalpost Frederik Andersen,2023-03-05T21:39:19Z,2,15:18,04:42,3,0,14.0,Tampa Bay Lightning,TBL
+187,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001315,2022021001,Goal,315,GOAL,"Shayne Gostisbehere (12) Slap Shot, assists: Martin Necas (33), Jesperi Kotkaniemi (17)",2023-03-05T21:39:51Z,2,15:50,04:10,4,0,12.0,Carolina Hurricanes,CAR
+188,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001380,2022021001,Faceoff,380,FACEOFF,Jordan Staal faceoff won against Nicholas Paul,2023-03-05T21:40:30Z,2,15:50,04:10,4,0,12.0,Carolina Hurricanes,CAR
+189,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001414,2022021001,Hit,414,HIT,Nicholas Paul hit Jesper Fast,2023-03-05T21:40:50Z,2,16:10,03:50,4,0,14.0,Tampa Bay Lightning,TBL
+190,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001316,2022021001,Blocked Shot,316,BLOCKED_SHOT,Jordan Martinook shot blocked shot by Ian Cole,2023-03-05T21:40:57Z,2,16:17,03:43,4,0,14.0,Tampa Bay Lightning,TBL
+191,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001415,2022021001,Stoppage,415,STOP,Puck in Netting,2023-03-05T21:40:58Z,2,16:18,03:42,4,0,,,
+192,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001381,2022021001,Faceoff,381,FACEOFF,Steven Stamkos faceoff won against Sebastian Aho,2023-03-05T21:41:50Z,2,16:18,03:42,4,0,14.0,Tampa Bay Lightning,TBL
+193,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001317,2022021001,Shot,317,SHOT,Sebastian Aho Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T21:42:00Z,2,16:28,03:32,4,0,12.0,Carolina Hurricanes,CAR
+194,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001382,2022021001,Giveaway,382,GIVEAWAY,Giveaway by Brandon Hagel,2023-03-05T21:42:25Z,2,16:53,03:07,4,0,14.0,Tampa Bay Lightning,TBL
+195,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001318,2022021001,Blocked Shot,318,BLOCKED_SHOT,Michael Eyssimont shot blocked shot by Derek Stepan,2023-03-05T21:43:38Z,2,18:06,01:54,4,0,12.0,Carolina Hurricanes,CAR
+196,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001319,2022021001,Blocked Shot,319,BLOCKED_SHOT,Michael Eyssimont shot blocked shot by Jalen Chatfield,2023-03-05T21:44:10Z,2,18:38,01:22,4,0,12.0,Carolina Hurricanes,CAR
+197,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001416,2022021001,Stoppage,416,STOP,Icing,2023-03-05T21:44:33Z,2,19:00,01:00,4,0,,,
+198,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001383,2022021001,Faceoff,383,FACEOFF,Nicholas Paul faceoff won against Jordan Staal,2023-03-05T21:44:58Z,2,19:00,01:00,4,0,14.0,Tampa Bay Lightning,TBL
+199,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001417,2022021001,Hit,417,HIT,Brandon Hagel hit Brady Skjei,2023-03-05T21:45:56Z,2,19:59,00:01,4,0,14.0,Tampa Bay Lightning,TBL
+200,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001320,2022021001,Period End,320,PERIOD_END,End of 2nd Period,2023-03-05T21:45:57Z,2,20:00,00:00,4,0,,,
+201,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001324,2022021001,Period Official,324,PERIOD_OFFICIAL,Period Official,2023-03-05T22:00:46Z,2,20:00,00:00,4,0,,,
+202,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001325,2022021001,Period Ready,325,PERIOD_READY,Period Ready,2023-03-05T22:04:15Z,3,00:00,20:00,4,0,,,
+203,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001384,2022021001,Period Start,384,PERIOD_START,Period Start,2023-03-05T22:04:59Z,3,00:00,20:00,4,0,,,
+204,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001385,2022021001,Faceoff,385,FACEOFF,Anthony Cirelli faceoff won against Jesperi Kotkaniemi,2023-03-05T22:04:59Z,3,00:00,20:00,4,0,14.0,Tampa Bay Lightning,TBL
+205,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001386,2022021001,Giveaway,386,GIVEAWAY,Giveaway by Frederik Andersen,2023-03-05T22:05:10Z,3,00:11,19:49,4,0,12.0,Carolina Hurricanes,CAR
+206,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001419,2022021001,Hit,419,HIT,Ross Colton hit Jaccob Slavin,2023-03-05T22:05:14Z,3,00:15,19:45,4,0,14.0,Tampa Bay Lightning,TBL
+207,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001387,2022021001,Takeaway,387,TAKEAWAY,Takeaway by Jordan Staal,2023-03-05T22:05:36Z,3,00:37,19:23,4,0,12.0,Carolina Hurricanes,CAR
+208,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001388,2022021001,Giveaway,388,GIVEAWAY,Giveaway by Jordan Staal,2023-03-05T22:05:38Z,3,00:39,19:21,4,0,12.0,Carolina Hurricanes,CAR
+209,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001326,2022021001,Blocked Shot,326,BLOCKED_SHOT,Zach Bogosian shot blocked shot by Brett Pesce,2023-03-05T22:05:53Z,3,00:54,19:06,4,0,12.0,Carolina Hurricanes,CAR
+210,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001389,2022021001,Takeaway,389,TAKEAWAY,Takeaway by Alex Killorn,2023-03-05T22:06:03Z,3,01:04,18:56,4,0,14.0,Tampa Bay Lightning,TBL
+211,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001328,2022021001,Blocked Shot,328,BLOCKED_SHOT,Mikhail Sergachev shot blocked shot by Jesper Fast,2023-03-05T22:06:13Z,3,01:14,18:46,4,0,12.0,Carolina Hurricanes,CAR
+212,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001327,2022021001,Shot,327,SHOT,Alex Killorn Wrist Shot saved by Frederik Andersen,2023-03-05T22:06:16Z,3,01:17,18:43,4,0,14.0,Tampa Bay Lightning,TBL
+213,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001420,2022021001,Stoppage,420,STOP,Goalie Stopped,2023-03-05T22:06:17Z,3,01:18,18:42,4,0,,,
+214,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001390,2022021001,Faceoff,390,FACEOFF,Sebastian Aho faceoff won against Brayden Point,2023-03-05T22:06:48Z,3,01:18,18:42,4,0,12.0,Carolina Hurricanes,CAR
+215,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001329,2022021001,Shot,329,SHOT,Brayden Point Wrist Shot saved by Frederik Andersen,2023-03-05T22:07:27Z,3,01:57,18:03,4,0,14.0,Tampa Bay Lightning,TBL
+216,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001391,2022021001,Giveaway,391,GIVEAWAY,Giveaway by Jaccob Slavin,2023-03-05T22:07:31Z,3,02:01,17:59,4,0,12.0,Carolina Hurricanes,CAR
+217,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001330,2022021001,Shot,330,SHOT,Nikita Kucherov Wrist Shot saved by Frederik Andersen,2023-03-05T22:07:38Z,3,02:08,17:52,4,0,14.0,Tampa Bay Lightning,TBL
+218,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001392,2022021001,Takeaway,392,TAKEAWAY,Takeaway by Pierre-Edouard Bellemare,2023-03-05T22:07:50Z,3,02:20,17:40,4,0,14.0,Tampa Bay Lightning,TBL
+219,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001331,2022021001,Shot,331,SHOT,Michael Eyssimont Wrist Shot saved by Frederik Andersen,2023-03-05T22:08:01Z,3,02:31,17:29,4,0,14.0,Tampa Bay Lightning,TBL
+220,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001332,2022021001,Shot,332,SHOT,Zach Bogosian Wrist Shot saved by Frederik Andersen,2023-03-05T22:08:27Z,3,02:57,17:03,4,0,14.0,Tampa Bay Lightning,TBL
+221,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001333,2022021001,Shot,333,SHOT,Michael Eyssimont Wrist Shot saved by Frederik Andersen,2023-03-05T22:08:28Z,3,02:58,17:02,4,0,14.0,Tampa Bay Lightning,TBL
+222,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001334,2022021001,Shot,334,SHOT,Zach Bogosian Slap Shot saved by Frederik Andersen,2023-03-05T22:08:35Z,3,03:05,16:55,4,0,14.0,Tampa Bay Lightning,TBL
+223,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001421,2022021001,Hit,421,HIT,Corey Perry hit Stefan Noesen,2023-03-05T22:08:40Z,3,03:10,16:50,4,0,14.0,Tampa Bay Lightning,TBL
+224,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001422,2022021001,Stoppage,422,STOP,Goalie Stopped,2023-03-05T22:08:42Z,3,03:12,16:48,4,0,,,
+225,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001393,2022021001,Faceoff,393,FACEOFF,Derek Stepan faceoff won against Ross Colton,2023-03-05T22:09:17Z,3,03:12,16:48,4,0,12.0,Carolina Hurricanes,CAR
+226,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001394,2022021001,Giveaway,394,GIVEAWAY,Giveaway by Shayne Gostisbehere,2023-03-05T22:09:34Z,3,03:29,16:31,4,0,12.0,Carolina Hurricanes,CAR
+227,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001423,2022021001,Stoppage,423,STOP,Icing,2023-03-05T22:09:50Z,3,03:45,16:15,4,0,,,
+228,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001395,2022021001,Faceoff,395,FACEOFF,Martin Necas faceoff won against Anthony Cirelli,2023-03-05T22:10:21Z,3,03:45,16:15,4,0,12.0,Carolina Hurricanes,CAR
+229,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001335,2022021001,Missed Shot,335,MISSED_SHOT,Nicholas Paul Wide of Net Frederik Andersen,2023-03-05T22:10:43Z,3,04:07,15:53,4,0,14.0,Tampa Bay Lightning,TBL
+230,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001697,2022021001,Penalty,697,PENALTY,Jordan Martinook Tripping against Steven Stamkos,2023-03-05T22:11:25Z,3,04:49,15:11,4,0,12.0,Carolina Hurricanes,CAR
+231,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001396,2022021001,Faceoff,396,FACEOFF,Anthony Cirelli faceoff won against Jordan Staal,2023-03-05T22:12:13Z,3,04:49,15:11,4,0,14.0,Tampa Bay Lightning,TBL
+232,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001424,2022021001,Hit,424,HIT,Jordan Staal hit Steven Stamkos,2023-03-05T22:12:34Z,3,05:10,14:50,4,0,12.0,Carolina Hurricanes,CAR
+233,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001336,2022021001,Shot,336,SHOT,Alex Killorn Wrist Shot saved by Frederik Andersen,2023-03-05T22:12:57Z,3,05:33,14:27,4,0,14.0,Tampa Bay Lightning,TBL
+234,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001397,2022021001,Giveaway,397,GIVEAWAY,Giveaway by Steven Stamkos,2023-03-05T22:13:00Z,3,05:36,14:24,4,0,14.0,Tampa Bay Lightning,TBL
+235,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001337,2022021001,Missed Shot,337,MISSED_SHOT,Brayden Point Wide of Net Frederik Andersen,2023-03-05T22:13:05Z,3,05:41,14:19,4,0,14.0,Tampa Bay Lightning,TBL
+236,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001338,2022021001,Missed Shot,338,MISSED_SHOT,Corey Perry Wide of Net Frederik Andersen,2023-03-05T22:13:53Z,3,06:29,13:31,4,0,14.0,Tampa Bay Lightning,TBL
+237,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001339,2022021001,Blocked Shot,339,BLOCKED_SHOT,Nick Perbix shot blocked shot by Jaccob Slavin,2023-03-05T22:14:17Z,3,06:53,13:07,4,0,12.0,Carolina Hurricanes,CAR
+238,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001340,2022021001,Missed Shot,340,MISSED_SHOT,Michael Eyssimont Wide of Net Frederik Andersen,2023-03-05T22:14:49Z,3,07:25,12:35,4,0,14.0,Tampa Bay Lightning,TBL
+239,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001398,2022021001,Takeaway,398,TAKEAWAY,Takeaway by Andrei Svechnikov,2023-03-05T22:15:42Z,3,08:18,11:42,4,0,12.0,Carolina Hurricanes,CAR
+240,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001341,2022021001,Blocked Shot,341,BLOCKED_SHOT,Brent Burns shot blocked shot by Brandon Hagel,2023-03-05T22:15:48Z,3,08:24,11:36,4,0,14.0,Tampa Bay Lightning,TBL
+241,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001951,2022021001,Shot,951,SHOT,Andrei Svechnikov Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T22:15:49Z,3,08:26,11:34,4,0,12.0,Carolina Hurricanes,CAR
+242,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001342,2022021001,Shot,342,SHOT,Andrei Svechnikov Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T22:15:51Z,3,08:27,11:33,4,0,12.0,Carolina Hurricanes,CAR
+243,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001343,2022021001,Shot,343,SHOT,Nikita Kucherov Wrist Shot saved by Frederik Andersen,2023-03-05T22:16:00Z,3,08:36,11:24,4,0,14.0,Tampa Bay Lightning,TBL
+244,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001425,2022021001,Hit,425,HIT,Seth Jarvis hit Nikita Kucherov,2023-03-05T22:16:01Z,3,08:37,11:23,4,0,12.0,Carolina Hurricanes,CAR
+245,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001344,2022021001,Missed Shot,344,MISSED_SHOT,Nikita Kucherov Wide of Net Frederik Andersen,2023-03-05T22:16:17Z,3,08:53,11:07,4,0,14.0,Tampa Bay Lightning,TBL
+246,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001426,2022021001,Stoppage,426,STOP,Icing,2023-03-05T22:16:23Z,3,08:59,11:01,4,0,,,
+247,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001399,2022021001,Faceoff,399,FACEOFF,Nicholas Paul faceoff won against Sebastian Aho,2023-03-05T22:16:53Z,3,08:59,11:01,4,0,14.0,Tampa Bay Lightning,TBL
+248,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001427,2022021001,Stoppage,427,STOP,Referee or Linesman,2023-03-05T22:17:14Z,3,09:20,10:40,4,0,,,
+249,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001843,2022021001,Penalty,843,PENALTY,Alex Killorn Tripping against Jordan Martinook,2023-03-05T22:17:14Z,3,09:20,10:40,4,0,14.0,Tampa Bay Lightning,TBL
+250,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001400,2022021001,Faceoff,400,FACEOFF,Stefan Noesen faceoff won against Anthony Cirelli,2023-03-05T22:19:57Z,3,09:20,10:40,4,0,12.0,Carolina Hurricanes,CAR
+251,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001345,2022021001,Shot,345,SHOT,Stefan Noesen Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T22:20:01Z,3,09:24,10:36,4,0,12.0,Carolina Hurricanes,CAR
+252,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001346,2022021001,Blocked Shot,346,BLOCKED_SHOT,Martin Necas shot blocked shot by Mikhail Sergachev,2023-03-05T22:20:08Z,3,09:31,10:29,4,0,14.0,Tampa Bay Lightning,TBL
+253,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001428,2022021001,Stoppage,428,STOP,Puck in Netting,2023-03-05T22:20:09Z,3,09:32,10:28,4,0,,,
+254,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001601,2022021001,Faceoff,601,FACEOFF,Anthony Cirelli faceoff won against Stefan Noesen,2023-03-05T22:20:53Z,3,09:32,10:28,4,0,14.0,Tampa Bay Lightning,TBL
+255,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001347,2022021001,Shot,347,SHOT,Andrei Svechnikov Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T22:21:37Z,3,10:16,09:44,4,0,12.0,Carolina Hurricanes,CAR
+256,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001348,2022021001,Shot,348,SHOT,Andrei Svechnikov Backhand saved by Andrei Vasilevskiy,2023-03-05T22:21:39Z,3,10:18,09:42,4,0,12.0,Carolina Hurricanes,CAR
+257,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001429,2022021001,Stoppage,429,STOP,Goalie Stopped,2023-03-05T22:21:40Z,3,10:19,09:41,4,0,,,
+258,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001602,2022021001,Faceoff,602,FACEOFF,Pierre-Edouard Bellemare faceoff won against Paul Stastny,2023-03-05T22:22:07Z,3,10:19,09:41,4,0,14.0,Tampa Bay Lightning,TBL
+259,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001349,2022021001,Missed Shot,349,MISSED_SHOT,Shayne Gostisbehere Wide of Net Andrei Vasilevskiy,2023-03-05T22:22:21Z,3,10:33,09:27,4,0,12.0,Carolina Hurricanes,CAR
+260,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001350,2022021001,Shot,350,SHOT,Teuvo Teravainen Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T22:22:28Z,3,10:40,09:20,4,0,12.0,Carolina Hurricanes,CAR
+261,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001430,2022021001,Stoppage,430,STOP,Goalie Stopped,2023-03-05T22:22:29Z,3,10:41,09:19,4,0,,,
+262,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001603,2022021001,Faceoff,603,FACEOFF,Paul Stastny faceoff won against Steven Stamkos,2023-03-05T22:22:55Z,3,10:41,09:19,4,0,12.0,Carolina Hurricanes,CAR
+263,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001701,2022021001,Shot,701,SHOT,Teuvo Teravainen Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T22:23:00Z,3,10:46,09:14,4,0,12.0,Carolina Hurricanes,CAR
+264,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001604,2022021001,Giveaway,604,GIVEAWAY,Giveaway by Teuvo Teravainen,2023-03-05T22:23:02Z,3,10:48,09:12,4,0,12.0,Carolina Hurricanes,CAR
+265,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001605,2022021001,Takeaway,605,TAKEAWAY,Takeaway by Shayne Gostisbehere,2023-03-05T22:23:06Z,3,10:52,09:08,4,0,12.0,Carolina Hurricanes,CAR
+266,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001703,2022021001,Shot,703,SHOT,Shayne Gostisbehere Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T22:23:16Z,3,11:02,08:58,4,0,12.0,Carolina Hurricanes,CAR
+267,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001431,2022021001,Stoppage,431,STOP,Objects on Ice,2023-03-05T22:23:18Z,3,11:03,08:57,4,0,,,
+268,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001702,2022021001,Goal,702,GOAL,"Teuvo Teravainen (10) Wrist Shot, assists: Shayne Gostisbehere (23), Jesperi Kotkaniemi (18)",2023-03-05T22:23:18Z,3,11:03,08:57,5,0,12.0,Carolina Hurricanes,CAR
+269,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001606,2022021001,Faceoff,606,FACEOFF,Brayden Point faceoff won against Jordan Staal,2023-03-05T22:25:13Z,3,11:03,08:57,5,0,14.0,Tampa Bay Lightning,TBL
+270,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001704,2022021001,Blocked Shot,704,BLOCKED_SHOT,Brayden Point shot blocked shot by Jordan Staal,2023-03-05T22:25:49Z,3,11:39,08:21,5,0,12.0,Carolina Hurricanes,CAR
+271,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001705,2022021001,Shot,705,SHOT,Jordan Martinook Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T22:26:07Z,3,11:57,08:03,5,0,12.0,Carolina Hurricanes,CAR
+272,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001432,2022021001,Stoppage,432,STOP,Icing,2023-03-05T22:27:12Z,3,13:02,06:58,5,0,,,
+273,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001608,2022021001,Faceoff,608,FACEOFF,Martin Necas faceoff won against Steven Stamkos,2023-03-05T22:27:53Z,3,13:02,06:58,5,0,12.0,Carolina Hurricanes,CAR
+274,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001609,2022021001,Takeaway,609,TAKEAWAY,Takeaway by Shayne Gostisbehere,2023-03-05T22:28:10Z,3,13:19,06:41,5,0,12.0,Carolina Hurricanes,CAR
+275,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001706,2022021001,Shot,706,SHOT,Jalen Chatfield Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T22:28:17Z,3,13:26,06:34,5,0,12.0,Carolina Hurricanes,CAR
+276,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001433,2022021001,Stoppage,433,STOP,Goalie Stopped,2023-03-05T22:28:20Z,3,13:28,06:32,5,0,,,
+277,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001610,2022021001,Faceoff,610,FACEOFF,Martin Necas faceoff won against Anthony Cirelli,2023-03-05T22:30:57Z,3,13:28,06:32,5,0,12.0,Carolina Hurricanes,CAR
+278,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001707,2022021001,Shot,707,SHOT,Martin Necas Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T22:30:58Z,3,13:29,06:31,5,0,12.0,Carolina Hurricanes,CAR
+279,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001708,2022021001,Shot,708,SHOT,Haydn Fleury Wrist Shot saved by Frederik Andersen,2023-03-05T22:31:35Z,3,14:04,05:56,5,0,14.0,Tampa Bay Lightning,TBL
+280,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001434,2022021001,Hit,434,HIT,Zach Bogosian hit Jesperi Kotkaniemi,2023-03-05T22:31:45Z,3,14:16,05:44,5,0,14.0,Tampa Bay Lightning,TBL
+281,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001611,2022021001,Takeaway,611,TAKEAWAY,Takeaway by Brayden Point,2023-03-05T22:32:11Z,3,14:42,05:18,5,0,14.0,Tampa Bay Lightning,TBL
+282,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001435,2022021001,Hit,435,HIT,Brett Pesce hit Nikita Kucherov,2023-03-05T22:32:52Z,3,15:23,04:37,5,0,12.0,Carolina Hurricanes,CAR
+283,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001436,2022021001,Stoppage,436,STOP,Referee or Linesman,2023-03-05T22:32:58Z,3,15:29,04:31,5,0,,,
+284,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001437,2022021001,Penalty,437,PENALTY,Zach Bogosian Misconduct against Brett Pesce,2023-03-05T22:32:58Z,3,15:29,04:31,5,0,14.0,Tampa Bay Lightning,TBL
+285,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001442,2022021001,Penalty,442,PENALTY,Brett Pesce Misconduct against Zach Bogosian,2023-03-05T22:32:58Z,3,15:29,04:31,5,0,12.0,Carolina Hurricanes,CAR
+286,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001935,2022021001,Penalty,935,PENALTY,Nikita Kucherov Clipping against Brett Pesce,2023-03-05T22:32:58Z,3,15:29,04:31,5,0,14.0,Tampa Bay Lightning,TBL
+287,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001939,2022021001,Penalty,939,PENALTY,Too many men/ice served by Corey Perry,2023-03-05T22:32:58Z,3,15:29,04:31,5,0,14.0,Tampa Bay Lightning,TBL
+288,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001612,2022021001,Faceoff,612,FACEOFF,Paul Stastny faceoff won against Anthony Cirelli,2023-03-05T22:37:04Z,3,15:29,04:31,5,0,12.0,Carolina Hurricanes,CAR
+289,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001709,2022021001,Missed Shot,709,MISSED_SHOT,Teuvo Teravainen Wide of Net Andrei Vasilevskiy,2023-03-05T22:37:22Z,3,15:47,04:13,5,0,12.0,Carolina Hurricanes,CAR
+290,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001710,2022021001,Blocked Shot,710,BLOCKED_SHOT,Shayne Gostisbehere shot blocked shot by Haydn Fleury,2023-03-05T22:37:31Z,3,15:56,04:04,5,0,14.0,Tampa Bay Lightning,TBL
+291,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001441,2022021001,Stoppage,441,STOP,Puck in Netting,2023-03-05T22:37:33Z,3,15:57,04:03,5,0,,,
+292,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001613,2022021001,Faceoff,613,FACEOFF,Stefan Noesen faceoff won against Pierre-Edouard Bellemare,2023-03-05T22:37:56Z,3,15:57,04:03,5,0,12.0,Carolina Hurricanes,CAR
+293,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001711,2022021001,Shot,711,SHOT,Seth Jarvis Slap Shot saved by Andrei Vasilevskiy,2023-03-05T22:38:06Z,3,16:07,03:53,5,0,12.0,Carolina Hurricanes,CAR
+294,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001712,2022021001,Blocked Shot,712,BLOCKED_SHOT,Seth Jarvis shot blocked shot by Ian Cole,2023-03-05T22:38:12Z,3,16:13,03:47,5,0,14.0,Tampa Bay Lightning,TBL
+295,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001713,2022021001,Shot,713,SHOT,Seth Jarvis Wrist Shot saved by Andrei Vasilevskiy,2023-03-05T22:38:13Z,3,16:14,03:46,5,0,12.0,Carolina Hurricanes,CAR
+296,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001445,2022021001,Stoppage,445,STOP,Goalie Stopped,2023-03-05T22:38:14Z,3,16:15,03:45,5,0,,,
+297,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001614,2022021001,Faceoff,614,FACEOFF,Jesperi Kotkaniemi faceoff won against Pierre-Edouard Bellemare,2023-03-05T22:38:41Z,3,16:15,03:45,5,0,12.0,Carolina Hurricanes,CAR
+298,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001714,2022021001,Goal,714,GOAL,"Jesperi Kotkaniemi (12) Tip-In, assists: Brent Burns (38), Martin Necas (34)",2023-03-05T22:39:00Z,3,16:34,03:26,6,0,12.0,Carolina Hurricanes,CAR
+299,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001615,2022021001,Faceoff,615,FACEOFF,Paul Stastny faceoff won against Nicholas Paul,2023-03-05T22:39:47Z,3,16:34,03:26,6,0,12.0,Carolina Hurricanes,CAR
+300,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001446,2022021001,Stoppage,446,STOP,Offside,2023-03-05T22:40:32Z,3,17:19,02:41,6,0,,,
+301,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001616,2022021001,Faceoff,616,FACEOFF,Anthony Cirelli faceoff won against Jordan Staal,2023-03-05T22:40:55Z,3,17:19,02:41,6,0,14.0,Tampa Bay Lightning,TBL
+302,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001617,2022021001,Takeaway,617,TAKEAWAY,Takeaway by Jordan Martinook,2023-03-05T22:41:26Z,3,17:50,02:10,6,0,12.0,Carolina Hurricanes,CAR
+303,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001447,2022021001,Stoppage,447,STOP,Icing,2023-03-05T22:41:38Z,3,18:02,01:58,6,0,,,
+304,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001618,2022021001,Faceoff,618,FACEOFF,Anthony Cirelli faceoff won against Paul Stastny,2023-03-05T22:42:03Z,3,18:02,01:58,6,0,14.0,Tampa Bay Lightning,TBL
+305,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001448,2022021001,Hit,448,HIT,Stefan Noesen hit Ian Cole,2023-03-05T22:42:21Z,3,18:20,01:40,6,0,12.0,Carolina Hurricanes,CAR
+306,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001715,2022021001,Missed Shot,715,MISSED_SHOT,Ross Colton Wide of Net Frederik Andersen,2023-03-05T22:42:33Z,3,18:32,01:28,6,0,14.0,Tampa Bay Lightning,TBL
+307,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001619,2022021001,Giveaway,619,GIVEAWAY,Giveaway by Stefan Noesen,2023-03-05T22:42:36Z,3,18:35,01:25,6,0,12.0,Carolina Hurricanes,CAR
+308,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001449,2022021001,Stoppage,449,STOP,Icing,2023-03-05T22:43:01Z,3,19:00,01:00,6,0,,,
+309,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001620,2022021001,Faceoff,620,FACEOFF,Derek Stepan faceoff won against Nicholas Paul,2023-03-05T22:43:24Z,3,19:00,01:00,6,0,12.0,Carolina Hurricanes,CAR
+310,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001716,2022021001,Blocked Shot,716,BLOCKED_SHOT,Corey Perry shot blocked shot by Jaccob Slavin,2023-03-05T22:43:35Z,3,19:11,00:49,6,0,12.0,Carolina Hurricanes,CAR
+311,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001717,2022021001,Period End,717,PERIOD_END,End of 3rd Period,2023-03-05T22:44:25Z,3,20:00,00:00,6,0,,,
+312,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001720,2022021001,Period Official,720,PERIOD_OFFICIAL,Period Official,2023-03-05T22:44:32Z,3,20:00,00:00,6,0,,,
+313,12,14,Carolina Hurricanes,Tampa Bay Lightning,2022021001721,2022021001,Game End,721,GAME_END,Game End,2023-03-05T22:44:35Z,3,20:00,00:00,6,0,,,
+314,12,14,Carolina Hurricanes,Tampa Bay Lightning,20220210011091,2022021001,Game Official,1091,GAME_OFFICIAL,Game Official,2023-03-06T14:51:28Z,3,20:00,00:00,6,0,,,

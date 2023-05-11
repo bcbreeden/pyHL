@@ -1,0 +1,363 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,22,17,Edmonton Oilers,Detroit Red Wings,20220208671,2022020867,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-02-16T01:47:56Z,1,00:00,20:00,0,0,,,
+1,22,17,Edmonton Oilers,Detroit Red Wings,20220208675,2022020867,Period Ready,5,PERIOD_READY,Period Ready,2023-02-16T02:39:35Z,1,00:00,20:00,0,0,,,
+2,22,17,Edmonton Oilers,Detroit Red Wings,2022020867101,2022020867,Period Start,101,PERIOD_START,Period Start,2023-02-16T02:40:56Z,1,00:00,20:00,0,0,,,
+3,22,17,Edmonton Oilers,Detroit Red Wings,2022020867102,2022020867,Faceoff,102,FACEOFF,Leon Draisaitl faceoff won against Andrew Copp,2023-02-16T02:40:56Z,1,00:00,20:00,0,0,22.0,Edmonton Oilers,EDM
+4,22,17,Edmonton Oilers,Detroit Red Wings,20220208678,2022020867,Hit,8,HIT,Robby Fabbri hit Brett Kulak,2023-02-16T02:41:10Z,1,00:14,19:46,0,0,17.0,Detroit Red Wings,DET
+5,22,17,Edmonton Oilers,Detroit Red Wings,2022020867103,2022020867,Giveaway,103,GIVEAWAY,Giveaway by Ben Chiarot,2023-02-16T02:41:10Z,1,00:14,19:46,0,0,17.0,Detroit Red Wings,DET
+6,22,17,Edmonton Oilers,Detroit Red Wings,202202086753,2022020867,Blocked Shot,53,BLOCKED_SHOT,Evander Kane shot blocked shot by Andrew Copp,2023-02-16T02:41:14Z,1,00:18,19:42,0,0,17.0,Detroit Red Wings,DET
+7,22,17,Edmonton Oilers,Detroit Red Wings,20220208679,2022020867,Hit,9,HIT,Cody Ceci hit Michael Rasmussen,2023-02-16T02:41:36Z,1,00:40,19:20,0,0,22.0,Edmonton Oilers,EDM
+8,22,17,Edmonton Oilers,Detroit Red Wings,202202086754,2022020867,Missed Shot,54,MISSED_SHOT,Darnell Nurse Goalpost Ville Husso,2023-02-16T02:41:40Z,1,00:44,19:16,0,0,22.0,Edmonton Oilers,EDM
+9,22,17,Edmonton Oilers,Detroit Red Wings,202202086710,2022020867,Takeaway,10,TAKEAWAY,Takeaway by Connor McDavid,2023-02-16T02:41:52Z,1,00:56,19:04,0,0,22.0,Edmonton Oilers,EDM
+10,22,17,Edmonton Oilers,Detroit Red Wings,202202086711,2022020867,Stoppage,11,STOP,Offside,2023-02-16T02:42:08Z,1,01:11,18:49,0,0,,,
+11,22,17,Edmonton Oilers,Detroit Red Wings,2022020867104,2022020867,Faceoff,104,FACEOFF,Connor McDavid faceoff won against Dylan Larkin,2023-02-16T02:42:32Z,1,01:11,18:49,0,0,22.0,Edmonton Oilers,EDM
+12,22,17,Edmonton Oilers,Detroit Red Wings,202202086712,2022020867,Hit,12,HIT,Dominik Kubalik hit Cody Ceci,2023-02-16T02:42:54Z,1,01:33,18:27,0,0,17.0,Detroit Red Wings,DET
+13,22,17,Edmonton Oilers,Detroit Red Wings,202202086755,2022020867,Missed Shot,55,MISSED_SHOT,Jonatan Berggren Wide of Net Jack Campbell,2023-02-16T02:43:21Z,1,02:00,18:00,0,0,17.0,Detroit Red Wings,DET
+14,22,17,Edmonton Oilers,Detroit Red Wings,202202086713,2022020867,Hit,13,HIT,Dylan Holloway hit Gustav Lindstrom,2023-02-16T02:43:24Z,1,02:03,17:57,0,0,22.0,Edmonton Oilers,EDM
+15,22,17,Edmonton Oilers,Detroit Red Wings,202202086756,2022020867,Shot,56,SHOT,Jonatan Berggren Snap Shot saved by Jack Campbell,2023-02-16T02:43:31Z,1,02:10,17:50,0,0,17.0,Detroit Red Wings,DET
+16,22,17,Edmonton Oilers,Detroit Red Wings,2022020867105,2022020867,Giveaway,105,GIVEAWAY,Giveaway by Ryan Mcleod,2023-02-16T02:43:44Z,1,02:23,17:37,0,0,22.0,Edmonton Oilers,EDM
+17,22,17,Edmonton Oilers,Detroit Red Wings,202202086715,2022020867,Hit,15,HIT,Jesse Puljujarvi hit Olli Maatta,2023-02-16T02:44:04Z,1,02:43,17:17,0,0,22.0,Edmonton Oilers,EDM
+18,22,17,Edmonton Oilers,Detroit Red Wings,202202086719,2022020867,Penalty,19,PENALTY,Klim Kostin Tripping against Olli Maatta,2023-02-16T02:44:31Z,1,03:09,16:51,0,0,22.0,Edmonton Oilers,EDM
+19,22,17,Edmonton Oilers,Detroit Red Wings,2022020867106,2022020867,Faceoff,106,FACEOFF,Ryan Nugent-Hopkins faceoff won against Dylan Larkin,2023-02-16T02:45:05Z,1,03:09,16:51,0,0,22.0,Edmonton Oilers,EDM
+20,22,17,Edmonton Oilers,Detroit Red Wings,202202086757,2022020867,Goal,57,GOAL,"Dylan Larkin (21) Wrist Shot, assists: Robby Fabbri (5), David Perron (19)",2023-02-16T02:46:12Z,1,04:17,15:43,0,1,17.0,Detroit Red Wings,DET
+21,22,17,Edmonton Oilers,Detroit Red Wings,202202086721,2022020867,Faceoff,21,FACEOFF,Andrew Copp faceoff won against Connor McDavid,2023-02-16T02:46:52Z,1,04:17,15:43,0,1,17.0,Detroit Red Wings,DET
+22,22,17,Edmonton Oilers,Detroit Red Wings,202202086722,2022020867,Hit,22,HIT,Michael Rasmussen hit Tyson Barrie,2023-02-16T02:47:01Z,1,04:26,15:34,0,1,17.0,Detroit Red Wings,DET
+23,22,17,Edmonton Oilers,Detroit Red Wings,202202086723,2022020867,Stoppage,23,STOP,Offside,2023-02-16T02:47:27Z,1,04:52,15:08,0,1,,,
+24,22,17,Edmonton Oilers,Detroit Red Wings,2022020867107,2022020867,Faceoff,107,FACEOFF,Derek Ryan faceoff won against Pius Suter,2023-02-16T02:48:03Z,1,04:52,15:08,0,1,22.0,Edmonton Oilers,EDM
+25,22,17,Edmonton Oilers,Detroit Red Wings,202202086758,2022020867,Blocked Shot,58,BLOCKED_SHOT,Jesse Puljujarvi shot blocked shot by Robert Hagg,2023-02-16T02:48:14Z,1,05:03,14:57,0,1,17.0,Detroit Red Wings,DET
+26,22,17,Edmonton Oilers,Detroit Red Wings,202202086724,2022020867,Stoppage,24,STOP,Puck in Netting,2023-02-16T02:48:15Z,1,05:04,14:56,0,1,,,
+27,22,17,Edmonton Oilers,Detroit Red Wings,2022020867108,2022020867,Faceoff,108,FACEOFF,Derek Ryan faceoff won against Pius Suter,2023-02-16T02:48:43Z,1,05:04,14:56,0,1,22.0,Edmonton Oilers,EDM
+28,22,17,Edmonton Oilers,Detroit Red Wings,2022020867109,2022020867,Takeaway,109,TAKEAWAY,Takeaway by Derek Ryan,2023-02-16T02:48:57Z,1,05:18,14:42,0,1,22.0,Edmonton Oilers,EDM
+29,22,17,Edmonton Oilers,Detroit Red Wings,2022020867110,2022020867,Giveaway,110,GIVEAWAY,Giveaway by Derek Ryan,2023-02-16T02:49:00Z,1,05:21,14:39,0,1,22.0,Edmonton Oilers,EDM
+30,22,17,Edmonton Oilers,Detroit Red Wings,202202086761,2022020867,Blocked Shot,61,BLOCKED_SHOT,Evan Bouchard shot blocked shot by Gustav Lindstrom,2023-02-16T02:49:12Z,1,05:33,14:27,0,1,17.0,Detroit Red Wings,DET
+31,22,17,Edmonton Oilers,Detroit Red Wings,202202086760,2022020867,Shot,60,SHOT,Pius Suter Snap Shot saved by Jack Campbell,2023-02-16T02:49:21Z,1,05:42,14:18,0,1,17.0,Detroit Red Wings,DET
+32,22,17,Edmonton Oilers,Detroit Red Wings,202202086725,2022020867,Hit,25,HIT,Darnell Nurse hit Jonatan Berggren,2023-02-16T02:49:42Z,1,06:03,13:57,0,1,22.0,Edmonton Oilers,EDM
+33,22,17,Edmonton Oilers,Detroit Red Wings,202202086726,2022020867,Stoppage,26,STOP,Icing,2023-02-16T02:49:48Z,1,06:09,13:51,0,1,,,
+34,22,17,Edmonton Oilers,Detroit Red Wings,2022020867111,2022020867,Faceoff,111,FACEOFF,Dylan Larkin faceoff won against Leon Draisaitl,2023-02-16T02:50:24Z,1,06:09,13:51,0,1,17.0,Detroit Red Wings,DET
+35,22,17,Edmonton Oilers,Detroit Red Wings,202202086762,2022020867,Shot,62,SHOT,Tyler Bertuzzi Backhand saved by Jack Campbell,2023-02-16T02:50:35Z,1,06:20,13:40,0,1,17.0,Detroit Red Wings,DET
+36,22,17,Edmonton Oilers,Detroit Red Wings,202202086727,2022020867,Stoppage,27,STOP,Offside,2023-02-16T02:50:47Z,1,06:32,13:28,0,1,,,
+37,22,17,Edmonton Oilers,Detroit Red Wings,2022020867112,2022020867,Faceoff,112,FACEOFF,Connor McDavid faceoff won against Andrew Copp,2023-02-16T02:53:02Z,1,06:32,13:28,0,1,22.0,Edmonton Oilers,EDM
+38,22,17,Edmonton Oilers,Detroit Red Wings,202202086728,2022020867,Hit,28,HIT,Michael Rasmussen hit Tyson Barrie,2023-02-16T02:53:13Z,1,06:43,13:17,0,1,17.0,Detroit Red Wings,DET
+39,22,17,Edmonton Oilers,Detroit Red Wings,2022020867113,2022020867,Takeaway,113,TAKEAWAY,Takeaway by Ryan Nugent-Hopkins,2023-02-16T02:53:20Z,1,06:50,13:10,0,1,22.0,Edmonton Oilers,EDM
+40,22,17,Edmonton Oilers,Detroit Red Wings,2022020867501,2022020867,Missed Shot,501,MISSED_SHOT,Zach Hyman Wide of Net Ville Husso,2023-02-16T02:53:22Z,1,06:52,13:08,0,1,22.0,Edmonton Oilers,EDM
+41,22,17,Edmonton Oilers,Detroit Red Wings,202202086763,2022020867,Shot,63,SHOT,Tyson Barrie Slap Shot saved by Ville Husso,2023-02-16T02:53:28Z,1,06:58,13:02,0,1,22.0,Edmonton Oilers,EDM
+42,22,17,Edmonton Oilers,Detroit Red Wings,202202086766,2022020867,Missed Shot,66,MISSED_SHOT,Zach Hyman Wide of Net Ville Husso,2023-02-16T02:53:30Z,1,07:00,13:00,0,1,22.0,Edmonton Oilers,EDM
+43,22,17,Edmonton Oilers,Detroit Red Wings,202202086764,2022020867,Blocked Shot,64,BLOCKED_SHOT,Brett Kulak shot blocked shot by Moritz Seider,2023-02-16T02:53:39Z,1,07:09,12:51,0,1,17.0,Detroit Red Wings,DET
+44,22,17,Edmonton Oilers,Detroit Red Wings,202202086765,2022020867,Shot,65,SHOT,Tyson Barrie Slap Shot saved by Ville Husso,2023-02-16T02:53:46Z,1,07:16,12:44,0,1,22.0,Edmonton Oilers,EDM
+45,22,17,Edmonton Oilers,Detroit Red Wings,202202086729,2022020867,Hit,29,HIT,Brett Kulak hit Robby Fabbri,2023-02-16T02:53:55Z,1,07:25,12:35,0,1,22.0,Edmonton Oilers,EDM
+46,22,17,Edmonton Oilers,Detroit Red Wings,202202086730,2022020867,Hit,30,HIT,Joe Veleno hit Philip Broberg,2023-02-16T02:54:19Z,1,07:49,12:11,0,1,17.0,Detroit Red Wings,DET
+47,22,17,Edmonton Oilers,Detroit Red Wings,2022020867114,2022020867,Takeaway,114,TAKEAWAY,Takeaway by Warren Foegele,2023-02-16T02:54:58Z,1,08:28,11:32,0,1,22.0,Edmonton Oilers,EDM
+48,22,17,Edmonton Oilers,Detroit Red Wings,202202086731,2022020867,Stoppage,31,STOP,Goalie Stopped,2023-02-16T02:55:08Z,1,08:38,11:22,0,1,,,
+49,22,17,Edmonton Oilers,Detroit Red Wings,202202086767,2022020867,Shot,67,SHOT,Evander Kane Wrist Shot saved by Ville Husso,2023-02-16T02:55:08Z,1,08:38,11:22,0,1,22.0,Edmonton Oilers,EDM
+50,22,17,Edmonton Oilers,Detroit Red Wings,2022020867115,2022020867,Faceoff,115,FACEOFF,Leon Draisaitl faceoff won against Pius Suter,2023-02-16T02:55:37Z,1,08:38,11:22,0,1,22.0,Edmonton Oilers,EDM
+51,22,17,Edmonton Oilers,Detroit Red Wings,202202086768,2022020867,Blocked Shot,68,BLOCKED_SHOT,Darnell Nurse shot blocked shot by Oskar Sundqvist,2023-02-16T02:55:45Z,1,08:46,11:14,0,1,17.0,Detroit Red Wings,DET
+52,22,17,Edmonton Oilers,Detroit Red Wings,202202086769,2022020867,Blocked Shot,69,BLOCKED_SHOT,Darnell Nurse shot blocked shot by Filip Hronek,2023-02-16T02:55:46Z,1,08:47,11:13,0,1,17.0,Detroit Red Wings,DET
+53,22,17,Edmonton Oilers,Detroit Red Wings,2022020867116,2022020867,Giveaway,116,GIVEAWAY,Giveaway by Brett Kulak,2023-02-16T02:56:42Z,1,09:43,10:17,0,1,22.0,Edmonton Oilers,EDM
+54,22,17,Edmonton Oilers,Detroit Red Wings,202202086770,2022020867,Missed Shot,70,MISSED_SHOT,Robby Fabbri Over Net Jack Campbell,2023-02-16T02:56:51Z,1,09:52,10:08,0,1,17.0,Detroit Red Wings,DET
+55,22,17,Edmonton Oilers,Detroit Red Wings,202202086733,2022020867,Hit,33,HIT,Klim Kostin hit Gustav Lindstrom,2023-02-16T02:56:52Z,1,09:53,10:07,0,1,22.0,Edmonton Oilers,EDM
+56,22,17,Edmonton Oilers,Detroit Red Wings,202202086734,2022020867,Hit,34,HIT,Ben Chiarot hit Zach Hyman,2023-02-16T02:57:28Z,1,10:29,09:31,0,1,17.0,Detroit Red Wings,DET
+57,22,17,Edmonton Oilers,Detroit Red Wings,202202086735,2022020867,Stoppage,35,STOP,Goalie Stopped,2023-02-16T02:57:50Z,1,10:52,09:08,0,1,,,
+58,22,17,Edmonton Oilers,Detroit Red Wings,202202086771,2022020867,Shot,71,SHOT,Ryan Nugent-Hopkins Snap Shot saved by Ville Husso,2023-02-16T02:57:50Z,1,10:52,09:08,0,1,22.0,Edmonton Oilers,EDM
+59,22,17,Edmonton Oilers,Detroit Red Wings,2022020867118,2022020867,Faceoff,118,FACEOFF,Dylan Larkin faceoff won against Leon Draisaitl,2023-02-16T03:00:03Z,1,10:52,09:08,0,1,17.0,Detroit Red Wings,DET
+60,22,17,Edmonton Oilers,Detroit Red Wings,202202086736,2022020867,Hit,36,HIT,Robert Hagg hit Mattias Janmark,2023-02-16T03:00:46Z,1,11:35,08:25,0,1,17.0,Detroit Red Wings,DET
+61,22,17,Edmonton Oilers,Detroit Red Wings,202202086737,2022020867,Hit,37,HIT,Dylan Holloway hit Tyler Bertuzzi,2023-02-16T03:01:09Z,1,11:58,08:02,0,1,22.0,Edmonton Oilers,EDM
+62,22,17,Edmonton Oilers,Detroit Red Wings,202202086738,2022020867,Stoppage,38,STOP,Icing,2023-02-16T03:01:46Z,1,12:34,07:26,0,1,,,
+63,22,17,Edmonton Oilers,Detroit Red Wings,2022020867119,2022020867,Faceoff,119,FACEOFF,Connor McDavid faceoff won against Pius Suter,2023-02-16T03:02:21Z,1,12:34,07:26,0,1,22.0,Edmonton Oilers,EDM
+64,22,17,Edmonton Oilers,Detroit Red Wings,202202086772,2022020867,Shot,72,SHOT,Connor McDavid Wrap-around saved by Ville Husso,2023-02-16T03:02:43Z,1,12:56,07:04,0,1,22.0,Edmonton Oilers,EDM
+65,22,17,Edmonton Oilers,Detroit Red Wings,202202086773,2022020867,Shot,73,SHOT,Zach Hyman Wrist Shot saved by Ville Husso,2023-02-16T03:02:44Z,1,12:57,07:03,0,1,22.0,Edmonton Oilers,EDM
+66,22,17,Edmonton Oilers,Detroit Red Wings,202202086776,2022020867,Missed Shot,76,MISSED_SHOT,Zach Hyman Wide of Net Ville Husso,2023-02-16T03:02:45Z,1,12:58,07:02,0,1,22.0,Edmonton Oilers,EDM
+67,22,17,Edmonton Oilers,Detroit Red Wings,202202086739,2022020867,Hit,39,HIT,Connor McDavid hit Pius Suter,2023-02-16T03:03:06Z,1,13:19,06:41,0,1,22.0,Edmonton Oilers,EDM
+68,22,17,Edmonton Oilers,Detroit Red Wings,202202086774,2022020867,Missed Shot,74,MISSED_SHOT,Ryan Nugent-Hopkins Wide of Net Ville Husso,2023-02-16T03:03:12Z,1,13:25,06:35,0,1,22.0,Edmonton Oilers,EDM
+69,22,17,Edmonton Oilers,Detroit Red Wings,202202086740,2022020867,Hit,40,HIT,Filip Hronek hit Zach Hyman,2023-02-16T03:03:29Z,1,13:42,06:18,0,1,17.0,Detroit Red Wings,DET
+70,22,17,Edmonton Oilers,Detroit Red Wings,202202086741,2022020867,Stoppage,41,STOP,Goalie Stopped,2023-02-16T03:03:48Z,1,14:00,06:00,0,1,,,
+71,22,17,Edmonton Oilers,Detroit Red Wings,202202086775,2022020867,Shot,75,SHOT,Brett Kulak Wrist Shot saved by Ville Husso,2023-02-16T03:03:48Z,1,14:00,06:00,0,1,22.0,Edmonton Oilers,EDM
+72,22,17,Edmonton Oilers,Detroit Red Wings,2022020867120,2022020867,Faceoff,120,FACEOFF,Derek Ryan faceoff won against Andrew Copp,2023-02-16T03:04:27Z,1,14:00,06:00,0,1,22.0,Edmonton Oilers,EDM
+73,22,17,Edmonton Oilers,Detroit Red Wings,202202086742,2022020867,Hit,42,HIT,Jesse Puljujarvi hit Andrew Copp,2023-02-16T03:04:36Z,1,14:09,05:51,0,1,22.0,Edmonton Oilers,EDM
+74,22,17,Edmonton Oilers,Detroit Red Wings,202202086743,2022020867,Hit,43,HIT,Michael Rasmussen hit Klim Kostin,2023-02-16T03:04:44Z,1,14:17,05:43,0,1,17.0,Detroit Red Wings,DET
+75,22,17,Edmonton Oilers,Detroit Red Wings,202202086777,2022020867,Missed Shot,77,MISSED_SHOT,Klim Kostin Goalpost Ville Husso,2023-02-16T03:04:55Z,1,14:28,05:32,0,1,22.0,Edmonton Oilers,EDM
+76,22,17,Edmonton Oilers,Detroit Red Wings,2022020867121,2022020867,Giveaway,121,GIVEAWAY,Giveaway by Klim Kostin,2023-02-16T03:05:01Z,1,14:34,05:26,0,1,22.0,Edmonton Oilers,EDM
+77,22,17,Edmonton Oilers,Detroit Red Wings,202202086778,2022020867,Shot,78,SHOT,David Perron Snap Shot saved by Jack Campbell,2023-02-16T03:05:38Z,1,15:11,04:49,0,1,17.0,Detroit Red Wings,DET
+78,22,17,Edmonton Oilers,Detroit Red Wings,202202086744,2022020867,Stoppage,44,STOP,Goalie Stopped,2023-02-16T03:05:39Z,1,15:12,04:48,0,1,,,
+79,22,17,Edmonton Oilers,Detroit Red Wings,2022020867122,2022020867,Faceoff,122,FACEOFF,Leon Draisaitl faceoff won against Dylan Larkin,2023-02-16T03:08:24Z,1,15:12,04:48,0,1,22.0,Edmonton Oilers,EDM
+80,22,17,Edmonton Oilers,Detroit Red Wings,202202086779,2022020867,Shot,79,SHOT,Cody Ceci Wrist Shot saved by Ville Husso,2023-02-16T03:08:50Z,1,15:38,04:22,0,1,22.0,Edmonton Oilers,EDM
+81,22,17,Edmonton Oilers,Detroit Red Wings,2022020867123,2022020867,Takeaway,123,TAKEAWAY,Takeaway by Filip Zadina,2023-02-16T03:09:19Z,1,16:07,03:53,0,1,17.0,Detroit Red Wings,DET
+82,22,17,Edmonton Oilers,Detroit Red Wings,202202086780,2022020867,Shot,80,SHOT,Filip Zadina Wrist Shot saved by Jack Campbell,2023-02-16T03:09:51Z,1,16:39,03:21,0,1,17.0,Detroit Red Wings,DET
+83,22,17,Edmonton Oilers,Detroit Red Wings,202202086745,2022020867,Hit,45,HIT,Evan Bouchard hit Michael Rasmussen,2023-02-16T03:10:18Z,1,17:06,02:54,0,1,22.0,Edmonton Oilers,EDM
+84,22,17,Edmonton Oilers,Detroit Red Wings,202202086746,2022020867,Stoppage,46,STOP,Icing,2023-02-16T03:10:27Z,1,17:14,02:46,0,1,,,
+85,22,17,Edmonton Oilers,Detroit Red Wings,2022020867124,2022020867,Faceoff,124,FACEOFF,Andrew Copp faceoff won against Connor McDavid,2023-02-16T03:10:59Z,1,17:14,02:46,0,1,17.0,Detroit Red Wings,DET
+86,22,17,Edmonton Oilers,Detroit Red Wings,202202086781,2022020867,Goal,81,GOAL,"Moritz Seider (4) Backhand, assists: Andrew Copp (23)",2023-02-16T03:11:04Z,1,17:19,02:41,0,2,17.0,Detroit Red Wings,DET
+87,22,17,Edmonton Oilers,Detroit Red Wings,202202086747,2022020867,Faceoff,47,FACEOFF,Joe Veleno faceoff won against Derek Ryan,2023-02-16T03:11:44Z,1,17:19,02:41,0,2,17.0,Detroit Red Wings,DET
+88,22,17,Edmonton Oilers,Detroit Red Wings,202202086748,2022020867,Stoppage,48,STOP,Puck in Benches,2023-02-16T03:12:01Z,1,17:36,02:24,0,2,,,
+89,22,17,Edmonton Oilers,Detroit Red Wings,2022020867125,2022020867,Faceoff,125,FACEOFF,Connor McDavid faceoff won against Joe Veleno,2023-02-16T03:12:22Z,1,17:36,02:24,0,2,22.0,Edmonton Oilers,EDM
+90,22,17,Edmonton Oilers,Detroit Red Wings,202202086749,2022020867,Hit,49,HIT,David Perron hit Cody Ceci,2023-02-16T03:12:55Z,1,18:09,01:51,0,2,17.0,Detroit Red Wings,DET
+91,22,17,Edmonton Oilers,Detroit Red Wings,202202086750,2022020867,Hit,50,HIT,Joe Veleno hit Darnell Nurse,2023-02-16T03:12:57Z,1,18:11,01:49,0,2,17.0,Detroit Red Wings,DET
+92,22,17,Edmonton Oilers,Detroit Red Wings,2022020867251,2022020867,Stoppage,251,STOP,Icing,2023-02-16T03:13:01Z,1,18:15,01:45,0,2,,,
+93,22,17,Edmonton Oilers,Detroit Red Wings,2022020867126,2022020867,Faceoff,126,FACEOFF,Dylan Larkin faceoff won against Connor McDavid,2023-02-16T03:13:27Z,1,18:15,01:45,0,2,17.0,Detroit Red Wings,DET
+94,22,17,Edmonton Oilers,Detroit Red Wings,2022020867127,2022020867,Giveaway,127,GIVEAWAY,Giveaway by Robert Hagg,2023-02-16T03:13:52Z,1,18:40,01:20,0,2,17.0,Detroit Red Wings,DET
+95,22,17,Edmonton Oilers,Detroit Red Wings,202202086782,2022020867,Shot,82,SHOT,Evander Kane Snap Shot saved by Ville Husso,2023-02-16T03:14:29Z,1,19:17,00:43,0,2,22.0,Edmonton Oilers,EDM
+96,22,17,Edmonton Oilers,Detroit Red Wings,202202086783,2022020867,Blocked Shot,83,BLOCKED_SHOT,Evan Bouchard shot blocked shot by Tyler Bertuzzi,2023-02-16T03:14:44Z,1,19:32,00:28,0,2,17.0,Detroit Red Wings,DET
+97,22,17,Edmonton Oilers,Detroit Red Wings,202202086784,2022020867,Shot,84,SHOT,Evan Bouchard Slap Shot saved by Ville Husso,2023-02-16T03:14:51Z,1,19:38,00:22,0,2,22.0,Edmonton Oilers,EDM
+98,22,17,Edmonton Oilers,Detroit Red Wings,2022020867252,2022020867,Stoppage,252,STOP,Goalie Stopped,2023-02-16T03:14:51Z,1,19:38,00:22,0,2,,,
+99,22,17,Edmonton Oilers,Detroit Red Wings,2022020867129,2022020867,Faceoff,129,FACEOFF,Andrew Copp faceoff won against Derek Ryan,2023-02-16T03:15:25Z,1,19:38,00:22,0,2,17.0,Detroit Red Wings,DET
+100,22,17,Edmonton Oilers,Detroit Red Wings,2022020867253,2022020867,Period End,253,PERIOD_END,End of 1st Period,2023-02-16T03:15:46Z,1,20:00,00:00,0,2,,,
+101,22,17,Edmonton Oilers,Detroit Red Wings,2022020867256,2022020867,Period Official,256,PERIOD_OFFICIAL,Period Official,2023-02-16T03:30:38Z,1,20:00,00:00,0,2,,,
+102,22,17,Edmonton Oilers,Detroit Red Wings,2022020867257,2022020867,Period Ready,257,PERIOD_READY,Period Ready,2023-02-16T03:34:19Z,2,00:00,20:00,0,2,,,
+103,22,17,Edmonton Oilers,Detroit Red Wings,2022020867130,2022020867,Period Start,130,PERIOD_START,Period Start,2023-02-16T03:34:29Z,2,00:00,20:00,0,2,,,
+104,22,17,Edmonton Oilers,Detroit Red Wings,2022020867131,2022020867,Faceoff,131,FACEOFF,Leon Draisaitl faceoff won against Andrew Copp,2023-02-16T03:34:29Z,2,00:00,20:00,0,2,22.0,Edmonton Oilers,EDM
+105,22,17,Edmonton Oilers,Detroit Red Wings,2022020867132,2022020867,Giveaway,132,GIVEAWAY,Giveaway by Ville Husso,2023-02-16T03:34:41Z,2,00:12,19:48,0,2,17.0,Detroit Red Wings,DET
+106,22,17,Edmonton Oilers,Detroit Red Wings,202202086785,2022020867,Shot,85,SHOT,Brett Kulak Wrist Shot saved by Ville Husso,2023-02-16T03:34:44Z,2,00:15,19:45,0,2,22.0,Edmonton Oilers,EDM
+107,22,17,Edmonton Oilers,Detroit Red Wings,202202086786,2022020867,Blocked Shot,86,BLOCKED_SHOT,Andrew Copp shot blocked shot by Tyson Barrie,2023-02-16T03:35:02Z,2,00:33,19:27,0,2,22.0,Edmonton Oilers,EDM
+108,22,17,Edmonton Oilers,Detroit Red Wings,2022020867258,2022020867,Hit,258,HIT,Michael Rasmussen hit Cody Ceci,2023-02-16T03:35:19Z,2,00:50,19:10,0,2,17.0,Detroit Red Wings,DET
+109,22,17,Edmonton Oilers,Detroit Red Wings,2022020867259,2022020867,Hit,259,HIT,Ben Chiarot hit Zach Hyman,2023-02-16T03:35:47Z,2,01:18,18:42,0,2,17.0,Detroit Red Wings,DET
+110,22,17,Edmonton Oilers,Detroit Red Wings,202202086787,2022020867,Goal,87,GOAL,"Ryan Nugent-Hopkins (25) Snap Shot, assists: Connor McDavid (56), Zach Hyman (37)",2023-02-16T03:35:55Z,2,01:26,18:34,1,2,22.0,Edmonton Oilers,EDM
+111,22,17,Edmonton Oilers,Detroit Red Wings,2022020867260,2022020867,Faceoff,260,FACEOFF,Joe Veleno faceoff won against Ryan McLeod,2023-02-16T03:36:49Z,2,01:26,18:34,1,2,17.0,Detroit Red Wings,DET
+112,22,17,Edmonton Oilers,Detroit Red Wings,2022020867261,2022020867,Hit,261,HIT,Dylan Holloway hit Joe Veleno,2023-02-16T03:37:36Z,2,02:13,17:47,1,2,22.0,Edmonton Oilers,EDM
+113,22,17,Edmonton Oilers,Detroit Red Wings,2022020867262,2022020867,Penalty,262,PENALTY,Joe Veleno Delaying Game - Puck over glass,2023-02-16T03:37:38Z,2,02:15,17:45,1,2,17.0,Detroit Red Wings,DET
+114,22,17,Edmonton Oilers,Detroit Red Wings,2022020867133,2022020867,Faceoff,133,FACEOFF,Leon Draisaitl faceoff won against Andrew Copp,2023-02-16T03:38:19Z,2,02:15,17:45,1,2,22.0,Edmonton Oilers,EDM
+115,22,17,Edmonton Oilers,Detroit Red Wings,202202086788,2022020867,Missed Shot,88,MISSED_SHOT,Connor McDavid Wide of Net Ville Husso,2023-02-16T03:39:30Z,2,03:26,16:34,1,2,22.0,Edmonton Oilers,EDM
+116,22,17,Edmonton Oilers,Detroit Red Wings,202202086789,2022020867,Blocked Shot,89,BLOCKED_SHOT,Ryan Nugent-Hopkins shot blocked shot by Olli Maatta,2023-02-16T03:39:52Z,2,03:48,16:12,1,2,17.0,Detroit Red Wings,DET
+117,22,17,Edmonton Oilers,Detroit Red Wings,202202086790,2022020867,Shot,90,SHOT,Ryan McLeod Snap Shot saved by Ville Husso,2023-02-16T03:40:17Z,2,04:13,15:47,1,2,22.0,Edmonton Oilers,EDM
+118,22,17,Edmonton Oilers,Detroit Red Wings,202202086791,2022020867,Shot,91,SHOT,Michael Rasmussen Wrist Shot saved by Jack Campbell,2023-02-16T03:40:20Z,2,04:16,15:44,1,2,17.0,Detroit Red Wings,DET
+119,22,17,Edmonton Oilers,Detroit Red Wings,202202086792,2022020867,Shot,92,SHOT,Warren Foegele Snap Shot saved by Ville Husso,2023-02-16T03:40:42Z,2,04:38,15:22,1,2,22.0,Edmonton Oilers,EDM
+120,22,17,Edmonton Oilers,Detroit Red Wings,2022020867264,2022020867,Stoppage,264,STOP,Goalie Stopped,2023-02-16T03:40:42Z,2,04:38,15:22,1,2,,,
+121,22,17,Edmonton Oilers,Detroit Red Wings,2022020867134,2022020867,Faceoff,134,FACEOFF,Joe Veleno faceoff won against Klim Kostin,2023-02-16T03:41:14Z,2,04:38,15:22,1,2,17.0,Detroit Red Wings,DET
+122,22,17,Edmonton Oilers,Detroit Red Wings,2022020867265,2022020867,Stoppage,265,STOP,Icing,2023-02-16T03:41:25Z,2,04:49,15:11,1,2,,,
+123,22,17,Edmonton Oilers,Detroit Red Wings,2022020867135,2022020867,Faceoff,135,FACEOFF,Derek Ryan faceoff won against Dylan Larkin,2023-02-16T03:41:47Z,2,04:49,15:11,1,2,22.0,Edmonton Oilers,EDM
+124,22,17,Edmonton Oilers,Detroit Red Wings,202202086793,2022020867,Blocked Shot,93,BLOCKED_SHOT,Jesse Puljujarvi shot blocked shot by Robert Hagg,2023-02-16T03:42:21Z,2,05:23,14:37,1,2,17.0,Detroit Red Wings,DET
+125,22,17,Edmonton Oilers,Detroit Red Wings,2022020867266,2022020867,Stoppage,266,STOP,Puck in Netting,2023-02-16T03:42:22Z,2,05:24,14:36,1,2,,,
+126,22,17,Edmonton Oilers,Detroit Red Wings,2022020867136,2022020867,Faceoff,136,FACEOFF,Pius Suter faceoff won against Leon Draisaitl,2023-02-16T03:42:55Z,2,05:24,14:36,1,2,17.0,Detroit Red Wings,DET
+127,22,17,Edmonton Oilers,Detroit Red Wings,202202086794,2022020867,Shot,94,SHOT,Filip Hronek Wrist Shot saved by Jack Campbell,2023-02-16T03:43:04Z,2,05:33,14:27,1,2,17.0,Detroit Red Wings,DET
+128,22,17,Edmonton Oilers,Detroit Red Wings,2022020867267,2022020867,Stoppage,267,STOP,Goalie Stopped,2023-02-16T03:43:05Z,2,05:35,14:25,1,2,,,
+129,22,17,Edmonton Oilers,Detroit Red Wings,2022020867137,2022020867,Faceoff,137,FACEOFF,Leon Draisaitl faceoff won against Pius Suter,2023-02-16T03:43:29Z,2,05:35,14:25,1,2,22.0,Edmonton Oilers,EDM
+130,22,17,Edmonton Oilers,Detroit Red Wings,2022020867268,2022020867,Hit,268,HIT,Brett Kulak hit Filip Zadina,2023-02-16T03:43:47Z,2,05:53,14:07,1,2,22.0,Edmonton Oilers,EDM
+131,22,17,Edmonton Oilers,Detroit Red Wings,202202086795,2022020867,Missed Shot,95,MISSED_SHOT,Michael Rasmussen Wide of Net Jack Campbell,2023-02-16T03:44:28Z,2,06:34,13:26,1,2,17.0,Detroit Red Wings,DET
+132,22,17,Edmonton Oilers,Detroit Red Wings,2022020867138,2022020867,Giveaway,138,GIVEAWAY,Giveaway by Philip Broberg,2023-02-16T03:44:37Z,2,06:43,13:17,1,2,22.0,Edmonton Oilers,EDM
+133,22,17,Edmonton Oilers,Detroit Red Wings,2022020867269,2022020867,Hit,269,HIT,Ben Chiarot hit Zach Hyman,2023-02-16T03:44:53Z,2,06:59,13:01,1,2,17.0,Detroit Red Wings,DET
+134,22,17,Edmonton Oilers,Detroit Red Wings,202202086796,2022020867,Blocked Shot,96,BLOCKED_SHOT,Gustav Lindstrom shot blocked shot by Ryan Nugent-Hopkins,2023-02-16T03:45:23Z,2,07:29,12:31,1,2,22.0,Edmonton Oilers,EDM
+135,22,17,Edmonton Oilers,Detroit Red Wings,2022020867270,2022020867,Penalty,270,PENALTY,Ryan Nugent-Hopkins Holding against David Perron,2023-02-16T03:45:33Z,2,07:38,12:22,1,2,22.0,Edmonton Oilers,EDM
+136,22,17,Edmonton Oilers,Detroit Red Wings,2022020867273,2022020867,Stoppage,273,STOP,TV timeout,2023-02-16T03:45:33Z,2,07:38,12:22,1,2,,,
+137,22,17,Edmonton Oilers,Detroit Red Wings,2022020867139,2022020867,Faceoff,139,FACEOFF,Dylan Larkin faceoff won against Derek Ryan,2023-02-16T03:48:04Z,2,07:38,12:22,1,2,17.0,Detroit Red Wings,DET
+138,22,17,Edmonton Oilers,Detroit Red Wings,202202086797,2022020867,Shot,97,SHOT,David Perron Snap Shot saved by Jack Campbell,2023-02-16T03:48:09Z,2,07:43,12:17,1,2,17.0,Detroit Red Wings,DET
+139,22,17,Edmonton Oilers,Detroit Red Wings,2022020867274,2022020867,Stoppage,274,STOP,Puck in Netting,2023-02-16T03:48:09Z,2,07:43,12:17,1,2,,,
+140,22,17,Edmonton Oilers,Detroit Red Wings,2022020867140,2022020867,Faceoff,140,FACEOFF,Derek Ryan faceoff won against Dylan Larkin,2023-02-16T03:48:25Z,2,07:43,12:17,1,2,22.0,Edmonton Oilers,EDM
+141,22,17,Edmonton Oilers,Detroit Red Wings,202202086798,2022020867,Shot,98,SHOT,Cody Ceci Snap Shot saved by Ville Husso,2023-02-16T03:48:47Z,2,08:05,11:55,1,2,22.0,Edmonton Oilers,EDM
+142,22,17,Edmonton Oilers,Detroit Red Wings,2022020867141,2022020867,Takeaway,141,TAKEAWAY,Takeaway by Jack Campbell,2023-02-16T03:48:48Z,2,08:06,11:54,1,2,22.0,Edmonton Oilers,EDM
+143,22,17,Edmonton Oilers,Detroit Red Wings,2022020867142,2022020867,Takeaway,142,TAKEAWAY,Takeaway by Darnell Nurse,2023-02-16T03:49:06Z,2,08:24,11:36,1,2,22.0,Edmonton Oilers,EDM
+144,22,17,Edmonton Oilers,Detroit Red Wings,2022020867143,2022020867,Takeaway,143,TAKEAWAY,Takeaway by Filip Hronek,2023-02-16T03:49:47Z,2,09:03,10:57,1,2,17.0,Detroit Red Wings,DET
+145,22,17,Edmonton Oilers,Detroit Red Wings,202202086799,2022020867,Goal,99,GOAL,"Robby Fabbri (6) Wrist Shot, assists: David Perron (20), Filip Hronek (28)",2023-02-16T03:49:49Z,2,09:06,10:54,1,3,17.0,Detroit Red Wings,DET
+146,22,17,Edmonton Oilers,Detroit Red Wings,2022020867275,2022020867,Faceoff,275,FACEOFF,Leon Draisaitl faceoff won against Andrew Copp,2023-02-16T03:50:42Z,2,09:06,10:54,1,3,22.0,Edmonton Oilers,EDM
+147,22,17,Edmonton Oilers,Detroit Red Wings,2022020867100,2022020867,Shot,100,SHOT,Leon Draisaitl Wrist Shot saved by Ville Husso,2023-02-16T03:50:55Z,2,09:19,10:41,1,3,22.0,Edmonton Oilers,EDM
+148,22,17,Edmonton Oilers,Detroit Red Wings,2022020867351,2022020867,Missed Shot,351,MISSED_SHOT,Jesse Puljujarvi Wide of Net Ville Husso,2023-02-16T03:50:57Z,2,09:21,10:39,1,3,22.0,Edmonton Oilers,EDM
+149,22,17,Edmonton Oilers,Detroit Red Wings,2022020867276,2022020867,Stoppage,276,STOP,Goalie Stopped,2023-02-16T03:51:27Z,2,09:51,10:09,1,3,,,
+150,22,17,Edmonton Oilers,Detroit Red Wings,2022020867352,2022020867,Shot,352,SHOT,Jesse Puljujarvi Snap Shot saved by Ville Husso,2023-02-16T03:51:27Z,2,09:51,10:09,1,3,22.0,Edmonton Oilers,EDM
+151,22,17,Edmonton Oilers,Detroit Red Wings,2022020867144,2022020867,Faceoff,144,FACEOFF,Pius Suter faceoff won against Connor McDavid,2023-02-16T03:52:06Z,2,09:51,10:09,1,3,17.0,Detroit Red Wings,DET
+152,22,17,Edmonton Oilers,Detroit Red Wings,2022020867145,2022020867,Giveaway,145,GIVEAWAY,Giveaway by Moritz Seider,2023-02-16T03:52:11Z,2,09:56,10:04,1,3,17.0,Detroit Red Wings,DET
+153,22,17,Edmonton Oilers,Detroit Red Wings,2022020867353,2022020867,Missed Shot,353,MISSED_SHOT,Ryan Nugent-Hopkins Wide of Net Ville Husso,2023-02-16T03:52:15Z,2,10:00,10:00,1,3,22.0,Edmonton Oilers,EDM
+154,22,17,Edmonton Oilers,Detroit Red Wings,2022020867146,2022020867,Takeaway,146,TAKEAWAY,Takeaway by Ryan Nugent-Hopkins,2023-02-16T03:52:50Z,2,10:35,09:25,1,3,22.0,Edmonton Oilers,EDM
+155,22,17,Edmonton Oilers,Detroit Red Wings,2022020867277,2022020867,Stoppage,277,STOP,Puck in Netting,2023-02-16T03:52:54Z,2,10:39,09:21,1,3,,,
+156,22,17,Edmonton Oilers,Detroit Red Wings,2022020867354,2022020867,Blocked Shot,354,BLOCKED_SHOT,Darnell Nurse shot blocked shot by Oskar Sundqvist,2023-02-16T03:52:54Z,2,10:39,09:21,1,3,17.0,Detroit Red Wings,DET
+157,22,17,Edmonton Oilers,Detroit Red Wings,2022020867147,2022020867,Faceoff,147,FACEOFF,Joe Veleno faceoff won against Connor McDavid,2023-02-16T03:55:05Z,2,10:39,09:21,1,3,17.0,Detroit Red Wings,DET
+158,22,17,Edmonton Oilers,Detroit Red Wings,2022020867355,2022020867,Shot,355,SHOT,Philip Broberg Slap Shot saved by Ville Husso,2023-02-16T03:55:17Z,2,10:51,09:09,1,3,22.0,Edmonton Oilers,EDM
+159,22,17,Edmonton Oilers,Detroit Red Wings,2022020867356,2022020867,Shot,356,SHOT,Connor McDavid Tip-In saved by Ville Husso,2023-02-16T03:55:56Z,2,11:30,08:30,1,3,22.0,Edmonton Oilers,EDM
+160,22,17,Edmonton Oilers,Detroit Red Wings,2022020867357,2022020867,Goal,357,GOAL,"Ryan Nugent-Hopkins (26) Wrist Shot, assists: Connor McDavid (57), Evan Bouchard (18)",2023-02-16T03:55:58Z,2,11:32,08:28,2,3,22.0,Edmonton Oilers,EDM
+161,22,17,Edmonton Oilers,Detroit Red Wings,2022020867278,2022020867,Faceoff,278,FACEOFF,Dylan Larkin faceoff won against Leon Draisaitl,2023-02-16T03:57:23Z,2,11:32,08:28,2,3,17.0,Detroit Red Wings,DET
+162,22,17,Edmonton Oilers,Detroit Red Wings,2022020867279,2022020867,Stoppage,279,STOP,Goalie Stopped,2023-02-16T03:57:42Z,2,11:50,08:10,2,3,,,
+163,22,17,Edmonton Oilers,Detroit Red Wings,2022020867358,2022020867,Shot,358,SHOT,Mattias Janmark Backhand saved by Ville Husso,2023-02-16T03:57:42Z,2,11:50,08:10,2,3,22.0,Edmonton Oilers,EDM
+164,22,17,Edmonton Oilers,Detroit Red Wings,2022020867148,2022020867,Faceoff,148,FACEOFF,Dylan Larkin faceoff won against Leon Draisaitl,2023-02-16T03:58:05Z,2,11:50,08:10,2,3,17.0,Detroit Red Wings,DET
+165,22,17,Edmonton Oilers,Detroit Red Wings,2022020867359,2022020867,Blocked Shot,359,BLOCKED_SHOT,Moritz Seider shot blocked shot by Cody Ceci,2023-02-16T03:58:23Z,2,12:08,07:52,2,3,22.0,Edmonton Oilers,EDM
+166,22,17,Edmonton Oilers,Detroit Red Wings,2022020867360,2022020867,Shot,360,SHOT,Dylan Larkin Wrist Shot saved by Jack Campbell,2023-02-16T03:58:30Z,2,12:15,07:45,2,3,17.0,Detroit Red Wings,DET
+167,22,17,Edmonton Oilers,Detroit Red Wings,2022020867361,2022020867,Missed Shot,361,MISSED_SHOT,Darnell Nurse Wide of Net Ville Husso,2023-02-16T03:58:48Z,2,12:33,07:27,2,3,22.0,Edmonton Oilers,EDM
+168,22,17,Edmonton Oilers,Detroit Red Wings,2022020867280,2022020867,Hit,280,HIT,Moritz Seider hit Derek Ryan,2023-02-16T03:59:21Z,2,13:06,06:54,2,3,17.0,Detroit Red Wings,DET
+169,22,17,Edmonton Oilers,Detroit Red Wings,2022020867362,2022020867,Missed Shot,362,MISSED_SHOT,Jesse Puljujarvi Wide of Net Ville Husso,2023-02-16T03:59:36Z,2,13:21,06:39,2,3,22.0,Edmonton Oilers,EDM
+170,22,17,Edmonton Oilers,Detroit Red Wings,2022020867149,2022020867,Giveaway,149,GIVEAWAY,Giveaway by Klim Kostin,2023-02-16T03:59:45Z,2,13:30,06:30,2,3,22.0,Edmonton Oilers,EDM
+171,22,17,Edmonton Oilers,Detroit Red Wings,2022020867150,2022020867,Giveaway,150,GIVEAWAY,Giveaway by Robby Fabbri,2023-02-16T03:59:59Z,2,13:44,06:16,2,3,17.0,Detroit Red Wings,DET
+172,22,17,Edmonton Oilers,Detroit Red Wings,2022020867401,2022020867,Takeaway,401,TAKEAWAY,Takeaway by Michael Rasmussen,2023-02-16T04:00:05Z,2,13:47,06:13,2,3,17.0,Detroit Red Wings,DET
+173,22,17,Edmonton Oilers,Detroit Red Wings,2022020867402,2022020867,Giveaway,402,GIVEAWAY,Giveaway by Zach Hyman,2023-02-16T04:00:20Z,2,14:05,05:55,2,3,22.0,Edmonton Oilers,EDM
+174,22,17,Edmonton Oilers,Detroit Red Wings,2022020867281,2022020867,Hit,281,HIT,Philip Broberg hit Oskar Sundqvist,2023-02-16T04:01:14Z,2,14:59,05:01,2,3,22.0,Edmonton Oilers,EDM
+175,22,17,Edmonton Oilers,Detroit Red Wings,2022020867363,2022020867,Shot,363,SHOT,Oskar Sundqvist Wrist Shot saved by Jack Campbell,2023-02-16T04:01:15Z,2,15:00,05:00,2,3,17.0,Detroit Red Wings,DET
+176,22,17,Edmonton Oilers,Detroit Red Wings,2022020867282,2022020867,Stoppage,282,STOP,Goalie Stopped,2023-02-16T04:01:17Z,2,15:02,04:58,2,3,,,
+177,22,17,Edmonton Oilers,Detroit Red Wings,2022020867403,2022020867,Faceoff,403,FACEOFF,Ryan McLeod faceoff won against Joe Veleno,2023-02-16T04:03:39Z,2,15:02,04:58,2,3,22.0,Edmonton Oilers,EDM
+178,22,17,Edmonton Oilers,Detroit Red Wings,2022020867364,2022020867,Shot,364,SHOT,Dylan Holloway Wrist Shot saved by Ville Husso,2023-02-16T04:04:09Z,2,15:32,04:28,2,3,22.0,Edmonton Oilers,EDM
+179,22,17,Edmonton Oilers,Detroit Red Wings,2022020867365,2022020867,Shot,365,SHOT,Warren Foegele Wrist Shot saved by Ville Husso,2023-02-16T04:04:11Z,2,15:34,04:26,2,3,22.0,Edmonton Oilers,EDM
+180,22,17,Edmonton Oilers,Detroit Red Wings,2022020867366,2022020867,Missed Shot,366,MISSED_SHOT,Warren Foegele Wide of Net Ville Husso,2023-02-16T04:04:20Z,2,15:43,04:17,2,3,22.0,Edmonton Oilers,EDM
+181,22,17,Edmonton Oilers,Detroit Red Wings,2022020867368,2022020867,Blocked Shot,368,BLOCKED_SHOT,Warren Foegele shot blocked shot by Joe Veleno,2023-02-16T04:04:27Z,2,15:49,04:11,2,3,17.0,Detroit Red Wings,DET
+182,22,17,Edmonton Oilers,Detroit Red Wings,2022020867283,2022020867,Stoppage,283,STOP,Icing,2023-02-16T04:04:47Z,2,16:09,03:51,2,3,,,
+183,22,17,Edmonton Oilers,Detroit Red Wings,2022020867404,2022020867,Faceoff,404,FACEOFF,Dylan Larkin faceoff won against Leon Draisaitl,2023-02-16T04:05:14Z,2,16:09,03:51,2,3,17.0,Detroit Red Wings,DET
+184,22,17,Edmonton Oilers,Detroit Red Wings,2022020867369,2022020867,Goal,369,GOAL,"Olli Maatta (5) Slap Shot, assists: Dylan Larkin (31)",2023-02-16T04:05:17Z,2,16:12,03:48,2,4,17.0,Detroit Red Wings,DET
+185,22,17,Edmonton Oilers,Detroit Red Wings,2022020867284,2022020867,Faceoff,284,FACEOFF,Andrew Copp faceoff won against Derek Ryan,2023-02-16T04:06:05Z,2,16:12,03:48,2,4,17.0,Detroit Red Wings,DET
+186,22,17,Edmonton Oilers,Detroit Red Wings,2022020867370,2022020867,Shot,370,SHOT,Cody Ceci Wrist Shot saved by Ville Husso,2023-02-16T04:06:08Z,2,16:15,03:45,2,4,22.0,Edmonton Oilers,EDM
+187,22,17,Edmonton Oilers,Detroit Red Wings,2022020867405,2022020867,Takeaway,405,TAKEAWAY,Takeaway by Darnell Nurse,2023-02-16T04:06:19Z,2,16:26,03:34,2,4,22.0,Edmonton Oilers,EDM
+188,22,17,Edmonton Oilers,Detroit Red Wings,2022020867502,2022020867,Blocked Shot,502,BLOCKED_SHOT,Cody Ceci shot blocked shot by Moritz Seider,2023-02-16T04:06:20Z,2,16:29,03:31,2,4,17.0,Detroit Red Wings,DET
+189,22,17,Edmonton Oilers,Detroit Red Wings,2022020867371,2022020867,Blocked Shot,371,BLOCKED_SHOT,Darnell Nurse shot blocked shot by Moritz Seider,2023-02-16T04:06:32Z,2,16:39,03:21,2,4,17.0,Detroit Red Wings,DET
+190,22,17,Edmonton Oilers,Detroit Red Wings,2022020867406,2022020867,Giveaway,406,GIVEAWAY,Giveaway by Moritz Seider,2023-02-16T04:06:36Z,2,16:43,03:17,2,4,17.0,Detroit Red Wings,DET
+191,22,17,Edmonton Oilers,Detroit Red Wings,2022020867285,2022020867,Stoppage,285,STOP,Puck in Netting,2023-02-16T04:06:45Z,2,16:52,03:08,2,4,,,
+192,22,17,Edmonton Oilers,Detroit Red Wings,2022020867407,2022020867,Faceoff,407,FACEOFF,Dylan Larkin faceoff won against Connor McDavid,2023-02-16T04:07:14Z,2,16:52,03:08,2,4,17.0,Detroit Red Wings,DET
+193,22,17,Edmonton Oilers,Detroit Red Wings,2022020867409,2022020867,Takeaway,409,TAKEAWAY,Takeaway by Darnell Nurse,2023-02-16T04:07:26Z,2,17:04,02:56,2,4,22.0,Edmonton Oilers,EDM
+194,22,17,Edmonton Oilers,Detroit Red Wings,2022020867372,2022020867,Shot,372,SHOT,Zach Hyman Backhand saved by Ville Husso,2023-02-16T04:07:44Z,2,17:22,02:38,2,4,22.0,Edmonton Oilers,EDM
+195,22,17,Edmonton Oilers,Detroit Red Wings,2022020867286,2022020867,Hit,286,HIT,Dominik Kubalik hit Darnell Nurse,2023-02-16T04:07:50Z,2,17:28,02:32,2,4,17.0,Detroit Red Wings,DET
+196,22,17,Edmonton Oilers,Detroit Red Wings,2022020867410,2022020867,Giveaway,410,GIVEAWAY,Giveaway by Filip Zadina,2023-02-16T04:08:44Z,2,18:22,01:38,2,4,17.0,Detroit Red Wings,DET
+197,22,17,Edmonton Oilers,Detroit Red Wings,2022020867287,2022020867,Stoppage,287,STOP,Goalie Stopped,2023-02-16T04:08:49Z,2,18:27,01:33,2,4,,,
+198,22,17,Edmonton Oilers,Detroit Red Wings,2022020867374,2022020867,Shot,374,SHOT,Dylan Holloway Wrist Shot saved by Ville Husso,2023-02-16T04:08:49Z,2,18:27,01:33,2,4,22.0,Edmonton Oilers,EDM
+199,22,17,Edmonton Oilers,Detroit Red Wings,2022020867411,2022020867,Faceoff,411,FACEOFF,Ryan McLeod faceoff won against Andrew Copp,2023-02-16T04:09:18Z,2,18:27,01:33,2,4,22.0,Edmonton Oilers,EDM
+200,22,17,Edmonton Oilers,Detroit Red Wings,2022020867288,2022020867,Hit,288,HIT,Andrew Copp hit Mattias Janmark,2023-02-16T04:10:14Z,2,19:23,00:37,2,4,17.0,Detroit Red Wings,DET
+201,22,17,Edmonton Oilers,Detroit Red Wings,2022020867289,2022020867,Hit,289,HIT,Leon Draisaitl hit David Perron,2023-02-16T04:10:44Z,2,19:53,00:07,2,4,22.0,Edmonton Oilers,EDM
+202,22,17,Edmonton Oilers,Detroit Red Wings,2022020867290,2022020867,Period End,290,PERIOD_END,End of 2nd Period,2023-02-16T04:10:52Z,2,20:00,00:00,2,4,,,
+203,22,17,Edmonton Oilers,Detroit Red Wings,2022020867293,2022020867,Period Official,293,PERIOD_OFFICIAL,Period Official,2023-02-16T04:28:30Z,2,20:00,00:00,2,4,,,
+204,22,17,Edmonton Oilers,Detroit Red Wings,2022020867294,2022020867,Period Ready,294,PERIOD_READY,Period Ready,2023-02-16T04:29:25Z,3,00:00,20:00,2,4,,,
+205,22,17,Edmonton Oilers,Detroit Red Wings,2022020867412,2022020867,Period Start,412,PERIOD_START,Period Start,2023-02-16T04:29:33Z,3,00:00,20:00,2,4,,,
+206,22,17,Edmonton Oilers,Detroit Red Wings,2022020867413,2022020867,Faceoff,413,FACEOFF,Connor McDavid faceoff won against Andrew Copp,2023-02-16T04:29:33Z,3,00:00,20:00,2,4,22.0,Edmonton Oilers,EDM
+207,22,17,Edmonton Oilers,Detroit Red Wings,2022020867295,2022020867,Hit,295,HIT,Michael Rasmussen hit Tyson Barrie,2023-02-16T04:29:51Z,3,00:18,19:42,2,4,17.0,Detroit Red Wings,DET
+208,22,17,Edmonton Oilers,Detroit Red Wings,2022020867296,2022020867,Hit,296,HIT,Moritz Seider hit Connor McDavid,2023-02-16T04:30:12Z,3,00:39,19:21,2,4,17.0,Detroit Red Wings,DET
+209,22,17,Edmonton Oilers,Detroit Red Wings,2022020867297,2022020867,Stoppage,297,STOP,Puck Frozen,2023-02-16T04:30:15Z,3,00:41,19:19,2,4,,,
+210,22,17,Edmonton Oilers,Detroit Red Wings,2022020867414,2022020867,Faceoff,414,FACEOFF,Leon Draisaitl faceoff won against Dylan Larkin,2023-02-16T04:30:43Z,3,00:41,19:19,2,4,22.0,Edmonton Oilers,EDM
+211,22,17,Edmonton Oilers,Detroit Red Wings,2022020867415,2022020867,Takeaway,415,TAKEAWAY,Takeaway by Darnell Nurse,2023-02-16T04:31:05Z,3,01:03,18:57,2,4,22.0,Edmonton Oilers,EDM
+212,22,17,Edmonton Oilers,Detroit Red Wings,2022020867298,2022020867,Stoppage,298,STOP,Icing,2023-02-16T04:31:08Z,3,01:05,18:55,2,4,,,
+213,22,17,Edmonton Oilers,Detroit Red Wings,2022020867416,2022020867,Faceoff,416,FACEOFF,Dylan Larkin faceoff won against Leon Draisaitl,2023-02-16T04:31:31Z,3,01:05,18:55,2,4,17.0,Detroit Red Wings,DET
+214,22,17,Edmonton Oilers,Detroit Red Wings,2022020867299,2022020867,Hit,299,HIT,Robert Hagg hit Klim Kostin,2023-02-16T04:32:36Z,3,02:10,17:50,2,4,17.0,Detroit Red Wings,DET
+215,22,17,Edmonton Oilers,Detroit Red Wings,2022020867300,2022020867,Hit,300,HIT,Gustav Lindstrom hit Jesse Puljujarvi,2023-02-16T04:32:49Z,3,02:23,17:37,2,4,17.0,Detroit Red Wings,DET
+216,22,17,Edmonton Oilers,Detroit Red Wings,2022020867376,2022020867,Shot,376,SHOT,Derek Ryan Wrist Shot saved by Ville Husso,2023-02-16T04:33:12Z,3,02:46,17:14,2,4,22.0,Edmonton Oilers,EDM
+217,22,17,Edmonton Oilers,Detroit Red Wings,2022020867602,2022020867,Stoppage,602,STOP,Goalie Stopped,2023-02-16T04:33:12Z,3,02:46,17:14,2,4,,,
+218,22,17,Edmonton Oilers,Detroit Red Wings,2022020867603,2022020867,Penalty,603,PENALTY,Robert Hagg Interference against Klim Kostin,2023-02-16T04:33:12Z,3,02:46,17:14,2,4,17.0,Detroit Red Wings,DET
+219,22,17,Edmonton Oilers,Detroit Red Wings,2022020867417,2022020867,Faceoff,417,FACEOFF,Leon Draisaitl faceoff won against Andrew Copp,2023-02-16T04:33:54Z,3,02:46,17:14,2,4,22.0,Edmonton Oilers,EDM
+220,22,17,Edmonton Oilers,Detroit Red Wings,2022020867503,2022020867,Blocked Shot,503,BLOCKED_SHOT,Ryan Nugent-Hopkins shot blocked shot by Andrew Copp,2023-02-16T04:34:02Z,3,02:52,17:08,2,4,17.0,Detroit Red Wings,DET
+221,22,17,Edmonton Oilers,Detroit Red Wings,2022020867378,2022020867,Shot,378,SHOT,Connor McDavid Wrist Shot saved by Ville Husso,2023-02-16T04:34:06Z,3,02:58,17:02,2,4,22.0,Edmonton Oilers,EDM
+222,22,17,Edmonton Oilers,Detroit Red Wings,2022020867379,2022020867,Goal,379,GOAL,"Leon Draisaitl (31) Snap Shot, assists: Tyson Barrie (29), Ryan Nugent-Hopkins (40)",2023-02-16T04:34:34Z,3,03:26,16:34,3,4,22.0,Edmonton Oilers,EDM
+223,22,17,Edmonton Oilers,Detroit Red Wings,2022020867606,2022020867,Faceoff,606,FACEOFF,Ryan McLeod faceoff won against Dylan Larkin,2023-02-16T04:35:18Z,3,03:26,16:34,3,4,22.0,Edmonton Oilers,EDM
+224,22,17,Edmonton Oilers,Detroit Red Wings,2022020867607,2022020867,Hit,607,HIT,Dominik Kubalik hit Cody Ceci,2023-02-16T04:35:20Z,3,03:28,16:32,3,4,17.0,Detroit Red Wings,DET
+225,22,17,Edmonton Oilers,Detroit Red Wings,2022020867608,2022020867,Stoppage,608,STOP,Hand Pass,2023-02-16T04:35:39Z,3,03:47,16:13,3,4,,,
+226,22,17,Edmonton Oilers,Detroit Red Wings,2022020867418,2022020867,Faceoff,418,FACEOFF,Pius Suter faceoff won against Leon Draisaitl,2023-02-16T04:36:14Z,3,03:47,16:13,3,4,17.0,Detroit Red Wings,DET
+227,22,17,Edmonton Oilers,Detroit Red Wings,2022020867380,2022020867,Shot,380,SHOT,Filip Hronek Snap Shot saved by Jack Campbell,2023-02-16T04:36:25Z,3,03:58,16:02,3,4,17.0,Detroit Red Wings,DET
+228,22,17,Edmonton Oilers,Detroit Red Wings,2022020867419,2022020867,Takeaway,419,TAKEAWAY,Takeaway by Warren Foegele,2023-02-16T04:36:41Z,3,04:14,15:46,3,4,22.0,Edmonton Oilers,EDM
+229,22,17,Edmonton Oilers,Detroit Red Wings,2022020867420,2022020867,Takeaway,420,TAKEAWAY,Takeaway by David Perron,2023-02-16T04:37:07Z,3,04:40,15:20,3,4,17.0,Detroit Red Wings,DET
+230,22,17,Edmonton Oilers,Detroit Red Wings,2022020867609,2022020867,Hit,609,HIT,Jesse Puljujarvi hit Gustav Lindstrom,2023-02-16T04:37:34Z,3,05:07,14:53,3,4,22.0,Edmonton Oilers,EDM
+231,22,17,Edmonton Oilers,Detroit Red Wings,2022020867610,2022020867,Hit,610,HIT,David Perron hit Philip Broberg,2023-02-16T04:37:44Z,3,05:17,14:43,3,4,17.0,Detroit Red Wings,DET
+232,22,17,Edmonton Oilers,Detroit Red Wings,2022020867381,2022020867,Goal,381,GOAL,"Derek Ryan (9) Tip-In, assists: Klim Kostin (5), Philip Broberg (7)",2023-02-16T04:37:54Z,3,05:27,14:33,4,4,22.0,Edmonton Oilers,EDM
+233,22,17,Edmonton Oilers,Detroit Red Wings,2022020867611,2022020867,Faceoff,611,FACEOFF,Andrew Copp faceoff won against Connor McDavid,2023-02-16T04:38:40Z,3,05:27,14:33,4,4,17.0,Detroit Red Wings,DET
+234,22,17,Edmonton Oilers,Detroit Red Wings,2022020867382,2022020867,Shot,382,SHOT,Connor McDavid Snap Shot saved by Ville Husso,2023-02-16T04:39:13Z,3,06:00,14:00,4,4,22.0,Edmonton Oilers,EDM
+235,22,17,Edmonton Oilers,Detroit Red Wings,2022020867421,2022020867,Giveaway,421,GIVEAWAY,Giveaway by Andrew Copp,2023-02-16T04:39:20Z,3,06:07,13:53,4,4,17.0,Detroit Red Wings,DET
+236,22,17,Edmonton Oilers,Detroit Red Wings,2022020867612,2022020867,Hit,612,HIT,Moritz Seider hit Connor McDavid,2023-02-16T04:39:20Z,3,06:07,13:53,4,4,17.0,Detroit Red Wings,DET
+237,22,17,Edmonton Oilers,Detroit Red Wings,2022020867613,2022020867,Hit,613,HIT,Olli Maatta hit Tyson Barrie,2023-02-16T04:39:41Z,3,06:28,13:32,4,4,17.0,Detroit Red Wings,DET
+238,22,17,Edmonton Oilers,Detroit Red Wings,2022020867383,2022020867,Blocked Shot,383,BLOCKED_SHOT,Connor McDavid shot blocked shot by Moritz Seider,2023-02-16T04:39:54Z,3,06:41,13:19,4,4,17.0,Detroit Red Wings,DET
+239,22,17,Edmonton Oilers,Detroit Red Wings,2022020867422,2022020867,Takeaway,422,TAKEAWAY,Takeaway by Connor McDavid,2023-02-16T04:39:54Z,3,06:41,13:19,4,4,22.0,Edmonton Oilers,EDM
+240,22,17,Edmonton Oilers,Detroit Red Wings,2022020867614,2022020867,Stoppage,614,STOP,Icing,2023-02-16T04:40:14Z,3,07:01,12:59,4,4,,,
+241,22,17,Edmonton Oilers,Detroit Red Wings,2022020867423,2022020867,Faceoff,423,FACEOFF,Leon Draisaitl faceoff won against Dylan Larkin,2023-02-16T04:40:45Z,3,07:01,12:59,4,4,22.0,Edmonton Oilers,EDM
+242,22,17,Edmonton Oilers,Detroit Red Wings,2022020867424,2022020867,Giveaway,424,GIVEAWAY,Giveaway by Darnell Nurse,2023-02-16T04:40:58Z,3,07:14,12:46,4,4,22.0,Edmonton Oilers,EDM
+243,22,17,Edmonton Oilers,Detroit Red Wings,2022020867505,2022020867,Missed Shot,505,MISSED_SHOT,Tyler Bertuzzi Wide of Net Jack Campbell,2023-02-16T04:41:08Z,3,07:24,12:36,4,4,17.0,Detroit Red Wings,DET
+244,22,17,Edmonton Oilers,Detroit Red Wings,2022020867385,2022020867,Shot,385,SHOT,Derek Ryan Wrist Shot saved by Ville Husso,2023-02-16T04:41:45Z,3,08:01,11:59,4,4,22.0,Edmonton Oilers,EDM
+245,22,17,Edmonton Oilers,Detroit Red Wings,2022020867386,2022020867,Shot,386,SHOT,Brett Kulak Wrist Shot saved by Ville Husso,2023-02-16T04:42:28Z,3,08:44,11:16,4,4,22.0,Edmonton Oilers,EDM
+246,22,17,Edmonton Oilers,Detroit Red Wings,2022020867616,2022020867,Stoppage,616,STOP,Goalie Stopped,2023-02-16T04:42:28Z,3,08:44,11:16,4,4,,,
+247,22,17,Edmonton Oilers,Detroit Red Wings,2022020867425,2022020867,Faceoff,425,FACEOFF,Connor McDavid faceoff won against Andrew Copp,2023-02-16T04:44:43Z,3,08:44,11:16,4,4,22.0,Edmonton Oilers,EDM
+248,22,17,Edmonton Oilers,Detroit Red Wings,2022020867387,2022020867,Blocked Shot,387,BLOCKED_SHOT,Tyson Barrie shot blocked shot by Moritz Seider,2023-02-16T04:44:50Z,3,08:51,11:09,4,4,17.0,Detroit Red Wings,DET
+249,22,17,Edmonton Oilers,Detroit Red Wings,2022020867388,2022020867,Shot,388,SHOT,Connor McDavid Snap Shot saved by Ville Husso,2023-02-16T04:45:00Z,3,09:01,10:59,4,4,22.0,Edmonton Oilers,EDM
+250,22,17,Edmonton Oilers,Detroit Red Wings,2022020867426,2022020867,Giveaway,426,GIVEAWAY,Giveaway by Jack Campbell,2023-02-16T04:45:15Z,3,09:16,10:44,4,4,22.0,Edmonton Oilers,EDM
+251,22,17,Edmonton Oilers,Detroit Red Wings,2022020867617,2022020867,Hit,617,HIT,Dylan Holloway hit Ben Chiarot,2023-02-16T04:45:29Z,3,09:30,10:30,4,4,22.0,Edmonton Oilers,EDM
+252,22,17,Edmonton Oilers,Detroit Red Wings,2022020867618,2022020867,Hit,618,HIT,Dylan Holloway hit Robby Fabbri,2023-02-16T04:45:33Z,3,09:34,10:26,4,4,22.0,Edmonton Oilers,EDM
+253,22,17,Edmonton Oilers,Detroit Red Wings,2022020867621,2022020867,Stoppage,621,STOP,Puck in Benches,2023-02-16T04:45:36Z,3,09:37,10:23,4,4,,,
+254,22,17,Edmonton Oilers,Detroit Red Wings,2022020867427,2022020867,Faceoff,427,FACEOFF,Ryan McLeod faceoff won against Dylan Larkin,2023-02-16T04:45:59Z,3,09:37,10:23,4,4,22.0,Edmonton Oilers,EDM
+255,22,17,Edmonton Oilers,Detroit Red Wings,2022020867619,2022020867,Hit,619,HIT,Dylan Holloway hit Gustav Lindstrom,2023-02-16T04:46:08Z,3,09:46,10:14,4,4,22.0,Edmonton Oilers,EDM
+256,22,17,Edmonton Oilers,Detroit Red Wings,2022020867428,2022020867,Giveaway,428,GIVEAWAY,Giveaway by Ryan Mcleod,2023-02-16T04:46:28Z,3,10:06,09:54,4,4,22.0,Edmonton Oilers,EDM
+257,22,17,Edmonton Oilers,Detroit Red Wings,2022020867429,2022020867,Takeaway,429,TAKEAWAY,Takeaway by Dylan Holloway,2023-02-16T04:46:30Z,3,10:08,09:52,4,4,22.0,Edmonton Oilers,EDM
+258,22,17,Edmonton Oilers,Detroit Red Wings,2022020867389,2022020867,Shot,389,SHOT,Ryan McLeod Wrist Shot saved by Ville Husso,2023-02-16T04:46:36Z,3,10:14,09:46,4,4,22.0,Edmonton Oilers,EDM
+259,22,17,Edmonton Oilers,Detroit Red Wings,2022020867620,2022020867,Stoppage,620,STOP,Goalie Stopped,2023-02-16T04:46:36Z,3,10:15,09:45,4,4,,,
+260,22,17,Edmonton Oilers,Detroit Red Wings,2022020867431,2022020867,Faceoff,431,FACEOFF,Evander Kane faceoff won against David Perron,2023-02-16T04:50:06Z,3,10:15,09:45,4,4,22.0,Edmonton Oilers,EDM
+261,22,17,Edmonton Oilers,Detroit Red Wings,2022020867432,2022020867,Giveaway,432,GIVEAWAY,Giveaway by Warren Foegele,2023-02-16T04:50:11Z,3,10:20,09:40,4,4,22.0,Edmonton Oilers,EDM
+262,22,17,Edmonton Oilers,Detroit Red Wings,2022020867622,2022020867,Stoppage,622,STOP,Puck Frozen,2023-02-16T04:50:18Z,3,10:26,09:34,4,4,,,
+263,22,17,Edmonton Oilers,Detroit Red Wings,2022020867433,2022020867,Faceoff,433,FACEOFF,Connor McDavid faceoff won against Andrew Copp,2023-02-16T04:50:58Z,3,10:26,09:34,4,4,22.0,Edmonton Oilers,EDM
+264,22,17,Edmonton Oilers,Detroit Red Wings,2022020867390,2022020867,Blocked Shot,390,BLOCKED_SHOT,Connor McDavid shot blocked shot by Andrew Copp,2023-02-16T04:51:05Z,3,10:33,09:27,4,4,17.0,Detroit Red Wings,DET
+265,22,17,Edmonton Oilers,Detroit Red Wings,2022020867623,2022020867,Hit,623,HIT,Philip Broberg hit Michael Rasmussen,2023-02-16T04:51:16Z,3,10:44,09:16,4,4,22.0,Edmonton Oilers,EDM
+266,22,17,Edmonton Oilers,Detroit Red Wings,2022020867391,2022020867,Shot,391,SHOT,Michael Rasmussen Wrist Shot saved by Jack Campbell,2023-02-16T04:51:42Z,3,11:10,08:50,4,4,17.0,Detroit Red Wings,DET
+267,22,17,Edmonton Oilers,Detroit Red Wings,2022020867392,2022020867,Shot,392,SHOT,Connor McDavid Backhand saved by Ville Husso,2023-02-16T04:51:51Z,3,11:19,08:41,4,4,22.0,Edmonton Oilers,EDM
+268,22,17,Edmonton Oilers,Detroit Red Wings,2022020867624,2022020867,Stoppage,624,STOP,Goalie Stopped,2023-02-16T04:51:52Z,3,11:20,08:40,4,4,,,
+269,22,17,Edmonton Oilers,Detroit Red Wings,2022020867434,2022020867,Faceoff,434,FACEOFF,Derek Ryan faceoff won against Pius Suter,2023-02-16T04:52:20Z,3,11:20,08:40,4,4,22.0,Edmonton Oilers,EDM
+270,22,17,Edmonton Oilers,Detroit Red Wings,2022020867393,2022020867,Shot,393,SHOT,Jesse Puljujarvi Tip-In saved by Ville Husso,2023-02-16T04:52:29Z,3,11:23,08:37,4,4,22.0,Edmonton Oilers,EDM
+271,22,17,Edmonton Oilers,Detroit Red Wings,2022020867394,2022020867,Missed Shot,394,MISSED_SHOT,Tyson Barrie Wide of Net Ville Husso,2023-02-16T04:53:04Z,3,12:04,07:56,4,4,22.0,Edmonton Oilers,EDM
+272,22,17,Edmonton Oilers,Detroit Red Wings,2022020867395,2022020867,Missed Shot,395,MISSED_SHOT,Dylan Holloway Wide of Net Ville Husso,2023-02-16T04:53:21Z,3,12:21,07:39,4,4,22.0,Edmonton Oilers,EDM
+273,22,17,Edmonton Oilers,Detroit Red Wings,2022020867396,2022020867,Shot,396,SHOT,Tyler Bertuzzi Wrist Shot saved by Jack Campbell,2023-02-16T04:53:35Z,3,12:35,07:25,4,4,17.0,Detroit Red Wings,DET
+274,22,17,Edmonton Oilers,Detroit Red Wings,2022020867397,2022020867,Shot,397,SHOT,Joe Veleno Wrist Shot saved by Jack Campbell,2023-02-16T04:54:20Z,3,13:20,06:40,4,4,17.0,Detroit Red Wings,DET
+275,22,17,Edmonton Oilers,Detroit Red Wings,2022020867398,2022020867,Missed Shot,398,MISSED_SHOT,Leon Draisaitl Wide of Net Ville Husso,2023-02-16T04:54:39Z,3,13:39,06:21,4,4,22.0,Edmonton Oilers,EDM
+276,22,17,Edmonton Oilers,Detroit Red Wings,2022020867625,2022020867,Hit,625,HIT,Jonatan Berggren hit Warren Foegele,2023-02-16T04:54:39Z,3,13:39,06:21,4,4,17.0,Detroit Red Wings,DET
+277,22,17,Edmonton Oilers,Detroit Red Wings,2022020867626,2022020867,Hit,626,HIT,Brett Kulak hit Oskar Sundqvist,2023-02-16T04:55:48Z,3,14:48,05:12,4,4,22.0,Edmonton Oilers,EDM
+278,22,17,Edmonton Oilers,Detroit Red Wings,2022020867627,2022020867,Hit,627,HIT,Derek Ryan hit Filip Zadina,2023-02-16T04:56:02Z,3,15:02,04:58,4,4,22.0,Edmonton Oilers,EDM
+279,22,17,Edmonton Oilers,Detroit Red Wings,2022020867399,2022020867,Missed Shot,399,MISSED_SHOT,Robert Hagg Wide of Net Jack Campbell,2023-02-16T04:56:07Z,3,15:07,04:53,4,4,17.0,Detroit Red Wings,DET
+280,22,17,Edmonton Oilers,Detroit Red Wings,2022020867628,2022020867,Hit,628,HIT,Tyson Barrie hit Robert Hagg,2023-02-16T04:56:14Z,3,15:14,04:46,4,4,22.0,Edmonton Oilers,EDM
+281,22,17,Edmonton Oilers,Detroit Red Wings,2022020867400,2022020867,Shot,400,SHOT,Oskar Sundqvist Deflected saved by Jack Campbell,2023-02-16T04:56:25Z,3,15:24,04:36,4,4,17.0,Detroit Red Wings,DET
+282,22,17,Edmonton Oilers,Detroit Red Wings,2022020867629,2022020867,Hit,629,HIT,Dominik Kubalik hit Darnell Nurse,2023-02-16T04:56:36Z,3,15:36,04:24,4,4,17.0,Detroit Red Wings,DET
+283,22,17,Edmonton Oilers,Detroit Red Wings,2022020867630,2022020867,Stoppage,630,STOP,Goalie Stopped,2023-02-16T04:56:43Z,3,15:43,04:17,4,4,,,
+284,22,17,Edmonton Oilers,Detroit Red Wings,2022020867751,2022020867,Shot,751,SHOT,Dylan Larkin Wrist Shot saved by Jack Campbell,2023-02-16T04:56:43Z,3,15:43,04:17,4,4,17.0,Detroit Red Wings,DET
+285,22,17,Edmonton Oilers,Detroit Red Wings,2022020867435,2022020867,Faceoff,435,FACEOFF,Dylan Larkin faceoff won against Leon Draisaitl,2023-02-16T04:59:11Z,3,15:43,04:17,4,4,17.0,Detroit Red Wings,DET
+286,22,17,Edmonton Oilers,Detroit Red Wings,2022020867631,2022020867,Stoppage,631,STOP,Goalie Stopped,2023-02-16T04:59:15Z,3,15:47,04:13,4,4,,,
+287,22,17,Edmonton Oilers,Detroit Red Wings,2022020867752,2022020867,Shot,752,SHOT,Tyler Bertuzzi Snap Shot saved by Jack Campbell,2023-02-16T04:59:15Z,3,15:47,04:13,4,4,17.0,Detroit Red Wings,DET
+288,22,17,Edmonton Oilers,Detroit Red Wings,2022020867436,2022020867,Faceoff,436,FACEOFF,Leon Draisaitl faceoff won against Dylan Larkin,2023-02-16T04:59:29Z,3,15:47,04:13,4,4,22.0,Edmonton Oilers,EDM
+289,22,17,Edmonton Oilers,Detroit Red Wings,2022020867437,2022020867,Giveaway,437,GIVEAWAY,Giveaway by Darnell Nurse,2023-02-16T04:59:36Z,3,15:54,04:06,4,4,22.0,Edmonton Oilers,EDM
+290,22,17,Edmonton Oilers,Detroit Red Wings,2022020867753,2022020867,Shot,753,SHOT,Evander Kane Wrist Shot saved by Ville Husso,2023-02-16T04:59:41Z,3,15:59,04:01,4,4,22.0,Edmonton Oilers,EDM
+291,22,17,Edmonton Oilers,Detroit Red Wings,2022020867754,2022020867,Missed Shot,754,MISSED_SHOT,Evander Kane Wide of Net Ville Husso,2023-02-16T04:59:47Z,3,16:05,03:55,4,4,22.0,Edmonton Oilers,EDM
+292,22,17,Edmonton Oilers,Detroit Red Wings,2022020867755,2022020867,Missed Shot,755,MISSED_SHOT,Darnell Nurse Wide of Net Ville Husso,2023-02-16T04:59:50Z,3,16:08,03:52,4,4,22.0,Edmonton Oilers,EDM
+293,22,17,Edmonton Oilers,Detroit Red Wings,2022020867756,2022020867,Blocked Shot,756,BLOCKED_SHOT,Warren Foegele shot blocked shot by Ben Chiarot,2023-02-16T05:00:12Z,3,16:30,03:30,4,4,17.0,Detroit Red Wings,DET
+294,22,17,Edmonton Oilers,Detroit Red Wings,2022020867632,2022020867,Stoppage,632,STOP,Icing,2023-02-16T05:00:26Z,3,16:44,03:16,4,4,,,
+295,22,17,Edmonton Oilers,Detroit Red Wings,2022020867438,2022020867,Faceoff,438,FACEOFF,Connor McDavid faceoff won against Michael Rasmussen,2023-02-16T05:01:06Z,3,16:44,03:16,4,4,22.0,Edmonton Oilers,EDM
+296,22,17,Edmonton Oilers,Detroit Red Wings,2022020867633,2022020867,Hit,633,HIT,Connor McDavid hit Robby Fabbri,2023-02-16T05:01:19Z,3,16:57,03:03,4,4,22.0,Edmonton Oilers,EDM
+297,22,17,Edmonton Oilers,Detroit Red Wings,2022020867504,2022020867,Shot,504,SHOT,Connor McDavid Wrist Shot saved by Ville Husso,2023-02-16T05:01:19Z,3,16:59,03:01,4,4,22.0,Edmonton Oilers,EDM
+298,22,17,Edmonton Oilers,Detroit Red Wings,2022020867634,2022020867,Penalty,634,PENALTY,Ben Chiarot High-sticking against Zach Hyman,2023-02-16T05:01:26Z,3,17:05,02:55,4,4,17.0,Detroit Red Wings,DET
+299,22,17,Edmonton Oilers,Detroit Red Wings,2022020867439,2022020867,Faceoff,439,FACEOFF,Andrew Copp faceoff won against Leon Draisaitl,2023-02-16T05:02:28Z,3,17:05,02:55,4,4,17.0,Detroit Red Wings,DET
+300,22,17,Edmonton Oilers,Detroit Red Wings,2022020867757,2022020867,Missed Shot,757,MISSED_SHOT,Zach Hyman Wide of Net Ville Husso,2023-02-16T05:02:34Z,3,17:11,02:49,4,4,22.0,Edmonton Oilers,EDM
+301,22,17,Edmonton Oilers,Detroit Red Wings,2022020867637,2022020867,Stoppage,637,STOP,Goalie Stopped,2023-02-16T05:03:24Z,3,18:01,01:59,4,4,,,
+302,22,17,Edmonton Oilers,Detroit Red Wings,2022020867758,2022020867,Shot,758,SHOT,Leon Draisaitl Wrist Shot saved by Ville Husso,2023-02-16T05:03:24Z,3,18:01,01:59,4,4,22.0,Edmonton Oilers,EDM
+303,22,17,Edmonton Oilers,Detroit Red Wings,2022020867440,2022020867,Faceoff,440,FACEOFF,Andrew Copp faceoff won against Leon Draisaitl,2023-02-16T05:04:47Z,3,18:01,01:59,4,4,17.0,Detroit Red Wings,DET
+304,22,17,Edmonton Oilers,Detroit Red Wings,2022020867759,2022020867,Shot,759,SHOT,Evander Kane Snap Shot saved by Ville Husso,2023-02-16T05:05:53Z,3,19:07,00:53,4,4,22.0,Edmonton Oilers,EDM
+305,22,17,Edmonton Oilers,Detroit Red Wings,2022020867639,2022020867,Stoppage,639,STOP,Goalie Stopped,2023-02-16T05:05:55Z,3,19:09,00:51,4,4,,,
+306,22,17,Edmonton Oilers,Detroit Red Wings,2022020867760,2022020867,Shot,760,SHOT,Warren Foegele Snap Shot saved by Ville Husso,2023-02-16T05:05:55Z,3,19:09,00:51,4,4,22.0,Edmonton Oilers,EDM
+307,22,17,Edmonton Oilers,Detroit Red Wings,2022020867441,2022020867,Faceoff,441,FACEOFF,Derek Ryan faceoff won against Andrew Copp,2023-02-16T05:06:27Z,3,19:09,00:51,4,4,22.0,Edmonton Oilers,EDM
+308,22,17,Edmonton Oilers,Detroit Red Wings,2022020867640,2022020867,Hit,640,HIT,Warren Foegele hit Moritz Seider,2023-02-16T05:06:32Z,3,19:14,00:46,4,4,22.0,Edmonton Oilers,EDM
+309,22,17,Edmonton Oilers,Detroit Red Wings,2022020867641,2022020867,Stoppage,641,STOP,Icing,2023-02-16T05:06:38Z,3,19:19,00:41,4,4,,,
+310,22,17,Edmonton Oilers,Detroit Red Wings,2022020867442,2022020867,Faceoff,442,FACEOFF,Andrew Copp faceoff won against Leon Draisaitl,2023-02-16T05:07:06Z,3,19:19,00:41,4,4,17.0,Detroit Red Wings,DET
+311,22,17,Edmonton Oilers,Detroit Red Wings,2022020867642,2022020867,Stoppage,642,STOP,Icing,2023-02-16T05:07:15Z,3,19:28,00:32,4,4,,,
+312,22,17,Edmonton Oilers,Detroit Red Wings,2022020867443,2022020867,Faceoff,443,FACEOFF,Andrew Copp faceoff won against Leon Draisaitl,2023-02-16T05:07:50Z,3,19:28,00:32,4,4,17.0,Detroit Red Wings,DET
+313,22,17,Edmonton Oilers,Detroit Red Wings,2022020867761,2022020867,Shot,761,SHOT,Leon Draisaitl Wrist Shot saved by Ville Husso,2023-02-16T05:08:10Z,3,19:48,00:12,4,4,22.0,Edmonton Oilers,EDM
+314,22,17,Edmonton Oilers,Detroit Red Wings,2022020867643,2022020867,Stoppage,643,STOP,Puck in Netting,2023-02-16T05:08:15Z,3,19:53,00:07,4,4,,,
+315,22,17,Edmonton Oilers,Detroit Red Wings,2022020867444,2022020867,Faceoff,444,FACEOFF,Dylan Larkin faceoff won against Ryan Nugent-Hopkins,2023-02-16T05:08:41Z,3,19:53,00:07,4,4,17.0,Detroit Red Wings,DET
+316,22,17,Edmonton Oilers,Detroit Red Wings,2022020867644,2022020867,Period End,644,PERIOD_END,End of 3rd Period,2023-02-16T05:08:47Z,3,20:00,00:00,4,4,,,
+317,22,17,Edmonton Oilers,Detroit Red Wings,2022020867647,2022020867,Period Official,647,PERIOD_OFFICIAL,Period Official,2023-02-16T05:09:23Z,3,20:00,00:00,4,4,,,
+318,22,17,Edmonton Oilers,Detroit Red Wings,2022020867648,2022020867,Period Ready,648,PERIOD_READY,Period Ready,2023-02-16T05:10:13Z,4,00:00,05:00,4,4,,,
+319,22,17,Edmonton Oilers,Detroit Red Wings,2022020867445,2022020867,Period Start,445,PERIOD_START,Period Start,2023-02-16T05:10:57Z,4,00:00,05:00,4,4,,,
+320,22,17,Edmonton Oilers,Detroit Red Wings,2022020867446,2022020867,Faceoff,446,FACEOFF,Leon Draisaitl faceoff won against Dylan Larkin,2023-02-16T05:10:57Z,4,00:00,05:00,4,4,22.0,Edmonton Oilers,EDM
+321,22,17,Edmonton Oilers,Detroit Red Wings,2022020867447,2022020867,Giveaway,447,GIVEAWAY,Giveaway by Moritz Seider,2023-02-16T05:11:47Z,4,00:50,04:10,4,4,17.0,Detroit Red Wings,DET
+322,22,17,Edmonton Oilers,Detroit Red Wings,2022020867448,2022020867,Takeaway,448,TAKEAWAY,Takeaway by Brett Kulak,2023-02-16T05:12:40Z,4,01:43,03:17,4,4,22.0,Edmonton Oilers,EDM
+323,22,17,Edmonton Oilers,Detroit Red Wings,2022020867762,2022020867,Missed Shot,762,MISSED_SHOT,Ryan Nugent-Hopkins Wide of Net Ville Husso,2023-02-16T05:12:51Z,4,01:54,03:06,4,4,22.0,Edmonton Oilers,EDM
+324,22,17,Edmonton Oilers,Detroit Red Wings,2022020867649,2022020867,Stoppage,649,STOP,Icing,2023-02-16T05:12:57Z,4,02:00,03:00,4,4,,,
+325,22,17,Edmonton Oilers,Detroit Red Wings,2022020867449,2022020867,Faceoff,449,FACEOFF,Leon Draisaitl faceoff won against Andrew Copp,2023-02-16T05:13:36Z,4,02:00,03:00,4,4,22.0,Edmonton Oilers,EDM
+326,22,17,Edmonton Oilers,Detroit Red Wings,2022020867763,2022020867,Blocked Shot,763,BLOCKED_SHOT,Connor McDavid shot blocked shot by Ben Chiarot,2023-02-16T05:13:56Z,4,02:20,02:40,4,4,17.0,Detroit Red Wings,DET
+327,22,17,Edmonton Oilers,Detroit Red Wings,2022020867650,2022020867,Stoppage,650,STOP,Icing,2023-02-16T05:14:37Z,4,03:01,01:59,4,4,,,
+328,22,17,Edmonton Oilers,Detroit Red Wings,2022020867450,2022020867,Faceoff,450,FACEOFF,Dylan Larkin faceoff won against Leon Draisaitl,2023-02-16T05:15:10Z,4,03:01,01:59,4,4,17.0,Detroit Red Wings,DET
+329,22,17,Edmonton Oilers,Detroit Red Wings,2022020867651,2022020867,Stoppage,651,STOP,Puck Frozen,2023-02-16T05:15:26Z,4,03:17,01:43,4,4,,,
+330,22,17,Edmonton Oilers,Detroit Red Wings,2022020867901,2022020867,Faceoff,901,FACEOFF,Joe Veleno faceoff won against Ryan Nugent-Hopkins,2023-02-16T05:15:53Z,4,03:17,01:43,4,4,17.0,Detroit Red Wings,DET
+331,22,17,Edmonton Oilers,Detroit Red Wings,2022020867764,2022020867,Shot,764,SHOT,Filip Hronek Snap Shot saved by Jack Campbell,2023-02-16T05:15:56Z,4,03:20,01:40,4,4,17.0,Detroit Red Wings,DET
+332,22,17,Edmonton Oilers,Detroit Red Wings,2022020867765,2022020867,Shot,765,SHOT,Evan Bouchard Wrist Shot saved by Ville Husso,2023-02-16T05:16:06Z,4,03:30,01:30,4,4,22.0,Edmonton Oilers,EDM
+333,22,17,Edmonton Oilers,Detroit Red Wings,2022020867902,2022020867,Takeaway,902,TAKEAWAY,Takeaway by Ryan Nugent-Hopkins,2023-02-16T05:16:15Z,4,03:39,01:21,4,4,22.0,Edmonton Oilers,EDM
+334,22,17,Edmonton Oilers,Detroit Red Wings,2022020867652,2022020867,Hit,652,HIT,Filip Hronek hit Evander Kane,2023-02-16T05:16:22Z,4,03:46,01:14,4,4,17.0,Detroit Red Wings,DET
+335,22,17,Edmonton Oilers,Detroit Red Wings,2022020867653,2022020867,Stoppage,653,STOP,Puck in Netting,2023-02-16T05:16:41Z,4,04:04,00:56,4,4,,,
+336,22,17,Edmonton Oilers,Detroit Red Wings,2022020867766,2022020867,Blocked Shot,766,BLOCKED_SHOT,Tyler Bertuzzi shot blocked shot by Evan Bouchard,2023-02-16T05:16:41Z,4,04:04,00:56,4,4,22.0,Edmonton Oilers,EDM
+337,22,17,Edmonton Oilers,Detroit Red Wings,2022020867903,2022020867,Faceoff,903,FACEOFF,Dylan Larkin faceoff won against Leon Draisaitl,2023-02-16T05:17:08Z,4,04:04,00:56,4,4,17.0,Detroit Red Wings,DET
+338,22,17,Edmonton Oilers,Detroit Red Wings,2022020867767,2022020867,Missed Shot,767,MISSED_SHOT,Leon Draisaitl Over Net Ville Husso,2023-02-16T05:17:18Z,4,04:14,00:46,4,4,22.0,Edmonton Oilers,EDM
+339,22,17,Edmonton Oilers,Detroit Red Wings,2022020867768,2022020867,Shot,768,SHOT,Connor McDavid Wrist Shot saved by Ville Husso,2023-02-16T05:17:35Z,4,04:31,00:29,4,4,22.0,Edmonton Oilers,EDM
+340,22,17,Edmonton Oilers,Detroit Red Wings,2022020867654,2022020867,Stoppage,654,STOP,Goalie Stopped,2023-02-16T05:17:36Z,4,04:32,00:28,4,4,,,
+341,22,17,Edmonton Oilers,Detroit Red Wings,2022020867904,2022020867,Faceoff,904,FACEOFF,Leon Draisaitl faceoff won against Andrew Copp,2023-02-16T05:18:06Z,4,04:32,00:28,4,4,22.0,Edmonton Oilers,EDM
+342,22,17,Edmonton Oilers,Detroit Red Wings,2022020867769,2022020867,Shot,769,SHOT,Michael Rasmussen Wrist Shot saved by Jack Campbell,2023-02-16T05:18:29Z,4,04:55,00:05,4,4,17.0,Detroit Red Wings,DET
+343,22,17,Edmonton Oilers,Detroit Red Wings,2022020867655,2022020867,Period End,655,PERIOD_END,End of OT,2023-02-16T05:18:34Z,4,05:00,00:00,4,4,,,
+344,22,17,Edmonton Oilers,Detroit Red Wings,2022020867658,2022020867,Period Official,658,PERIOD_OFFICIAL,Period Official,2023-02-16T05:18:46Z,4,05:00,00:00,4,4,,,
+345,22,17,Edmonton Oilers,Detroit Red Wings,2022020867659,2022020867,Period Ready,659,PERIOD_READY,Period Ready,2023-02-16T05:19:15Z,5,00:00,00:00,4,4,,,
+346,22,17,Edmonton Oilers,Detroit Red Wings,2022020867660,2022020867,Period Start,660,PERIOD_START,Period Start,2023-02-16T05:19:51Z,5,00:00,00:00,4,4,,,
+347,22,17,Edmonton Oilers,Detroit Red Wings,2022020867770,2022020867,Missed Shot,770,MISSED_SHOT,Ryan Nugent-Hopkins Wide of Net Ville Husso,2023-02-16T05:20:14Z,5,00:00,00:00,4,4,22.0,Edmonton Oilers,EDM
+348,22,17,Edmonton Oilers,Detroit Red Wings,2022020867771,2022020867,Missed Shot,771,MISSED_SHOT,Robby Fabbri Wide of Net Jack Campbell,2023-02-16T05:20:51Z,5,00:00,00:00,4,4,17.0,Detroit Red Wings,DET
+349,22,17,Edmonton Oilers,Detroit Red Wings,2022020867772,2022020867,Goal,772,GOAL,Connor McDavid - Wrist Shot,2023-02-16T05:21:23Z,5,00:00,00:00,4,4,22.0,Edmonton Oilers,EDM
+350,22,17,Edmonton Oilers,Detroit Red Wings,2022020867773,2022020867,Goal,773,GOAL,David Perron - Wrist Shot,2023-02-16T05:22:10Z,5,00:00,00:00,4,4,17.0,Detroit Red Wings,DET
+351,22,17,Edmonton Oilers,Detroit Red Wings,2022020867774,2022020867,Shot,774,SHOT,Leon Draisaitl Backhand saved by Ville Husso,2023-02-16T05:22:41Z,5,00:00,00:00,4,4,22.0,Edmonton Oilers,EDM
+352,22,17,Edmonton Oilers,Detroit Red Wings,2022020867775,2022020867,Shot,775,SHOT,Dylan Larkin Wrist Shot saved by Jack Campbell,2023-02-16T05:23:10Z,5,00:00,00:00,4,4,17.0,Detroit Red Wings,DET
+353,22,17,Edmonton Oilers,Detroit Red Wings,2022020867776,2022020867,Shot,776,SHOT,Zach Hyman Backhand saved by Ville Husso,2023-02-16T05:23:52Z,5,00:00,00:00,4,4,22.0,Edmonton Oilers,EDM
+354,22,17,Edmonton Oilers,Detroit Red Wings,2022020867777,2022020867,Missed Shot,777,MISSED_SHOT,Moritz Seider Wide of Net Jack Campbell,2023-02-16T05:24:24Z,5,00:00,00:00,4,4,17.0,Detroit Red Wings,DET
+355,22,17,Edmonton Oilers,Detroit Red Wings,2022020867778,2022020867,Shot,778,SHOT,Evander Kane Snap Shot saved by Ville Husso,2023-02-16T05:24:44Z,5,00:00,00:00,4,4,22.0,Edmonton Oilers,EDM
+356,22,17,Edmonton Oilers,Detroit Red Wings,2022020867661,2022020867,Period End,661,PERIOD_END,End of OT,2023-02-16T05:25:19Z,5,00:00,00:00,4,4,,,
+357,22,17,Edmonton Oilers,Detroit Red Wings,2022020867665,2022020867,Shootout Complete,665,SHOOTOUT_COMPLETE,End of Shootout,2023-02-16T05:25:19Z,5,00:00,00:00,4,4,,,
+358,22,17,Edmonton Oilers,Detroit Red Wings,2022020867779,2022020867,Goal,779,GOAL,Pius Suter - Backhand,2023-02-16T05:25:19Z,5,00:00,00:00,4,4,17.0,Detroit Red Wings,DET
+359,22,17,Edmonton Oilers,Detroit Red Wings,2022020867664,2022020867,Period Official,664,PERIOD_OFFICIAL,Period Official,2023-02-16T05:25:53Z,5,00:00,00:00,4,4,,,
+360,22,17,Edmonton Oilers,Detroit Red Wings,2022020867666,2022020867,Game End,666,GAME_END,Game End,2023-02-16T05:26:34Z,5,00:00,00:00,4,4,,,
+361,22,17,Edmonton Oilers,Detroit Red Wings,20220208671201,2022020867,Game Official,1201,GAME_OFFICIAL,Game Official,2023-02-16T05:41:00Z,5,00:00,00:00,4,4,,,

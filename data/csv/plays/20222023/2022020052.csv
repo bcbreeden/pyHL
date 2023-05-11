@@ -1,0 +1,331 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,18,26,Nashville Predators,Los Angeles Kings,20220200521,2022020052,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-10-19T00:50:43Z,1,00:00,20:00,0,0,,,
+1,18,26,Nashville Predators,Los Angeles Kings,20220200525,2022020052,Period Ready,5,PERIOD_READY,Period Ready,2022-10-19T01:46:49Z,1,00:00,20:00,0,0,,,
+2,18,26,Nashville Predators,Los Angeles Kings,202202005251,2022020052,Period Start,51,PERIOD_START,Period Start,2022-10-19T01:47:48Z,1,00:00,20:00,0,0,,,
+3,18,26,Nashville Predators,Los Angeles Kings,202202005252,2022020052,Faceoff,52,FACEOFF,Ryan Johansen faceoff won against Phillip Danault,2022-10-19T01:47:48Z,1,00:00,20:00,0,0,18.0,Nashville Predators,NSH
+4,18,26,Nashville Predators,Los Angeles Kings,2022020052151,2022020052,Hit,151,HIT,Ryan Johansen hit Drew Doughty,2022-10-19T01:48:20Z,1,00:32,19:28,0,0,18.0,Nashville Predators,NSH
+5,18,26,Nashville Predators,Los Angeles Kings,202202005253,2022020052,Shot,53,SHOT,Anze Kopitar Snap Shot saved by Juuse Saros,2022-10-19T01:48:37Z,1,00:49,19:11,0,0,26.0,Los Angeles Kings,LAK
+6,18,26,Nashville Predators,Los Angeles Kings,202202005254,2022020052,Shot,54,SHOT,Sean Durzi Wrist Shot saved by Juuse Saros,2022-10-19T01:48:43Z,1,00:55,19:05,0,0,26.0,Los Angeles Kings,LAK
+7,18,26,Nashville Predators,Los Angeles Kings,2022020052152,2022020052,Hit,152,HIT,Anze Kopitar hit Mattias Ekholm,2022-10-19T01:48:45Z,1,00:57,19:03,0,0,26.0,Los Angeles Kings,LAK
+8,18,26,Nashville Predators,Los Angeles Kings,202202005255,2022020052,Goal,55,GOAL,"Cody Glass (1) Snap Shot, assists: Mikael Granlund (4), Ryan McDonagh (3)",2022-10-19T01:49:20Z,1,01:32,18:28,1,0,18.0,Nashville Predators,NSH
+9,18,26,Nashville Predators,Los Angeles Kings,20220200529,2022020052,Faceoff,9,FACEOFF,Colton Sissons faceoff won against Blake Lizotte,2022-10-19T01:50:05Z,1,01:32,18:28,1,0,18.0,Nashville Predators,NSH
+10,18,26,Nashville Predators,Los Angeles Kings,2022020052153,2022020052,Hit,153,HIT,Tanner Jeannot hit Brandt Clarke,2022-10-19T01:50:11Z,1,01:38,18:22,1,0,18.0,Nashville Predators,NSH
+11,18,26,Nashville Predators,Los Angeles Kings,202202005256,2022020052,Shot,56,SHOT,Alexandre Carrier Wrist Shot saved by Cal Petersen,2022-10-19T01:50:19Z,1,01:46,18:14,1,0,18.0,Nashville Predators,NSH
+12,18,26,Nashville Predators,Los Angeles Kings,202202005210,2022020052,Stoppage,10,STOP,Goalie Stopped,2022-10-19T01:50:21Z,1,01:47,18:13,1,0,,,
+13,18,26,Nashville Predators,Los Angeles Kings,2022020052120,2022020052,Penalty,120,PENALTY,Brendan Lemieux Roughing against Tanner Jeannot,2022-10-19T01:50:21Z,1,01:47,18:13,1,0,26.0,Los Angeles Kings,LAK
+14,18,26,Nashville Predators,Los Angeles Kings,2022020052123,2022020052,Penalty,123,PENALTY,Tanner Jeannot Roughing against Brendan Lemieux,2022-10-19T01:50:21Z,1,01:47,18:13,1,0,18.0,Nashville Predators,NSH
+15,18,26,Nashville Predators,Los Angeles Kings,202202005259,2022020052,Faceoff,59,FACEOFF,Anze Kopitar faceoff won against Ryan Johansen,2022-10-19T01:51:44Z,1,01:47,18:13,1,0,26.0,Los Angeles Kings,LAK
+16,18,26,Nashville Predators,Los Angeles Kings,202202005260,2022020052,Shot,60,SHOT,Sean Walker Wrist Shot saved by Juuse Saros,2022-10-19T01:52:02Z,1,02:05,17:55,1,0,26.0,Los Angeles Kings,LAK
+17,18,26,Nashville Predators,Los Angeles Kings,202202005211,2022020052,Stoppage,11,STOP,Goalie Stopped,2022-10-19T01:52:03Z,1,02:06,17:54,1,0,,,
+18,18,26,Nashville Predators,Los Angeles Kings,202202005261,2022020052,Faceoff,61,FACEOFF,Mikael Granlund faceoff won against Phillip Danault,2022-10-19T01:52:33Z,1,02:06,17:54,1,0,18.0,Nashville Predators,NSH
+19,18,26,Nashville Predators,Los Angeles Kings,2022020052154,2022020052,Giveaway,154,GIVEAWAY,Giveaway by Dante Fabbro,2022-10-19T01:52:48Z,1,02:21,17:39,1,0,18.0,Nashville Predators,NSH
+20,18,26,Nashville Predators,Los Angeles Kings,202202005262,2022020052,Missed Shot,62,MISSED_SHOT,Roman Josi Over Net Cal Petersen,2022-10-19T01:53:14Z,1,02:47,17:13,1,0,18.0,Nashville Predators,NSH
+21,18,26,Nashville Predators,Los Angeles Kings,2022020052155,2022020052,Giveaway,155,GIVEAWAY,Giveaway by Sean Walker,2022-10-19T01:53:31Z,1,03:04,16:56,1,0,26.0,Los Angeles Kings,LAK
+22,18,26,Nashville Predators,Los Angeles Kings,202202005263,2022020052,Blocked Shot,63,BLOCKED_SHOT,Mattias Ekholm shot blocked shot by Matt Roy,2022-10-19T01:53:48Z,1,03:21,16:39,1,0,26.0,Los Angeles Kings,LAK
+23,18,26,Nashville Predators,Los Angeles Kings,202202005264,2022020052,Missed Shot,64,MISSED_SHOT,Mattias Ekholm Wide of Net Cal Petersen,2022-10-19T01:54:03Z,1,03:36,16:24,1,0,18.0,Nashville Predators,NSH
+24,18,26,Nashville Predators,Los Angeles Kings,2022020052156,2022020052,Giveaway,156,GIVEAWAY,Giveaway by Mattias Ekholm,2022-10-19T01:54:09Z,1,03:42,16:18,1,0,18.0,Nashville Predators,NSH
+25,18,26,Nashville Predators,Los Angeles Kings,2022020052157,2022020052,Takeaway,157,TAKEAWAY,Takeaway by Tanner  Jeannot,2022-10-19T01:54:19Z,1,03:52,16:08,1,0,18.0,Nashville Predators,NSH
+26,18,26,Nashville Predators,Los Angeles Kings,202202005265,2022020052,Missed Shot,65,MISSED_SHOT,Jeremy Lauzon Wide of Net Cal Petersen,2022-10-19T01:54:24Z,1,03:57,16:03,1,0,18.0,Nashville Predators,NSH
+27,18,26,Nashville Predators,Los Angeles Kings,2022020052159,2022020052,Hit,159,HIT,Alexandre Carrier hit Kevin Fiala,2022-10-19T01:54:38Z,1,04:11,15:49,1,0,18.0,Nashville Predators,NSH
+28,18,26,Nashville Predators,Los Angeles Kings,2022020052158,2022020052,Takeaway,158,TAKEAWAY,Takeaway by Kevin Fiala,2022-10-19T01:54:39Z,1,04:12,15:48,1,0,26.0,Los Angeles Kings,LAK
+29,18,26,Nashville Predators,Los Angeles Kings,2022020052160,2022020052,Hit,160,HIT,Carl Grundstrom hit Cole Smith,2022-10-19T01:55:01Z,1,04:34,15:26,1,0,26.0,Los Angeles Kings,LAK
+30,18,26,Nashville Predators,Los Angeles Kings,202202005266,2022020052,Shot,66,SHOT,Brandt Clarke Wrist Shot saved by Juuse Saros,2022-10-19T01:55:09Z,1,04:42,15:18,1,0,26.0,Los Angeles Kings,LAK
+31,18,26,Nashville Predators,Los Angeles Kings,202202005267,2022020052,Blocked Shot,67,BLOCKED_SHOT,Tanner Jeannot shot blocked shot by Brandt Clarke,2022-10-19T01:55:29Z,1,05:02,14:58,1,0,26.0,Los Angeles Kings,LAK
+32,18,26,Nashville Predators,Los Angeles Kings,202202005268,2022020052,Shot,68,SHOT,Arthur Kaliyev Snap Shot saved by Juuse Saros,2022-10-19T01:55:52Z,1,05:25,14:35,1,0,26.0,Los Angeles Kings,LAK
+33,18,26,Nashville Predators,Los Angeles Kings,202202005269,2022020052,Blocked Shot,69,BLOCKED_SHOT,Drew Doughty shot blocked shot by Tanner Jeannot,2022-10-19T01:56:05Z,1,05:38,14:22,1,0,18.0,Nashville Predators,NSH
+34,18,26,Nashville Predators,Los Angeles Kings,202202005212,2022020052,Stoppage,12,STOP,Icing,2022-10-19T01:56:11Z,1,05:45,14:15,1,0,,,
+35,18,26,Nashville Predators,Los Angeles Kings,202202005270,2022020052,Faceoff,70,FACEOFF,Ryan Johansen faceoff won against Phillip Danault,2022-10-19T01:56:38Z,1,05:45,14:15,1,0,18.0,Nashville Predators,NSH
+36,18,26,Nashville Predators,Los Angeles Kings,2022020052161,2022020052,Hit,161,HIT,Jeremy Lauzon hit Viktor Arvidsson,2022-10-19T01:57:04Z,1,06:11,13:49,1,0,18.0,Nashville Predators,NSH
+37,18,26,Nashville Predators,Los Angeles Kings,2022020052162,2022020052,Hit,162,HIT,Viktor Arvidsson hit Alexandre Carrier,2022-10-19T01:57:10Z,1,06:17,13:43,1,0,26.0,Los Angeles Kings,LAK
+38,18,26,Nashville Predators,Los Angeles Kings,2022020052163,2022020052,Hit,163,HIT,Jeremy Lauzon hit Trevor Moore,2022-10-19T01:57:23Z,1,06:30,13:30,1,0,18.0,Nashville Predators,NSH
+39,18,26,Nashville Predators,Los Angeles Kings,202202005271,2022020052,Shot,71,SHOT,Drew Doughty Slap Shot saved by Juuse Saros,2022-10-19T01:57:48Z,1,06:55,13:05,1,0,26.0,Los Angeles Kings,LAK
+40,18,26,Nashville Predators,Los Angeles Kings,2022020052164,2022020052,Hit,164,HIT,Carl Grundstrom hit Dante Fabbro,2022-10-19T01:58:29Z,1,07:36,12:24,1,0,26.0,Los Angeles Kings,LAK
+41,18,26,Nashville Predators,Los Angeles Kings,202202005213,2022020052,Stoppage,13,STOP,Icing,2022-10-19T01:58:31Z,1,07:38,12:22,1,0,,,
+42,18,26,Nashville Predators,Los Angeles Kings,202202005272,2022020052,Faceoff,72,FACEOFF,Ryan Johansen faceoff won against Gabriel Vilardi,2022-10-19T01:59:01Z,1,07:38,12:22,1,0,18.0,Nashville Predators,NSH
+43,18,26,Nashville Predators,Los Angeles Kings,202202005273,2022020052,Missed Shot,73,MISSED_SHOT,Carl Grundstrom Wide of Net Juuse Saros,2022-10-19T01:59:30Z,1,08:07,11:53,1,0,26.0,Los Angeles Kings,LAK
+44,18,26,Nashville Predators,Los Angeles Kings,2022020052165,2022020052,Takeaway,165,TAKEAWAY,Takeaway by Zach Sanford,2022-10-19T02:00:07Z,1,08:44,11:16,1,0,18.0,Nashville Predators,NSH
+45,18,26,Nashville Predators,Los Angeles Kings,2022020052166,2022020052,Hit,166,HIT,Sean Durzi hit Cole Smith,2022-10-19T02:00:16Z,1,08:53,11:07,1,0,26.0,Los Angeles Kings,LAK
+46,18,26,Nashville Predators,Los Angeles Kings,202202005274,2022020052,Shot,74,SHOT,Matt Roy Wrist Shot saved by Juuse Saros,2022-10-19T02:00:22Z,1,08:59,11:01,1,0,26.0,Los Angeles Kings,LAK
+47,18,26,Nashville Predators,Los Angeles Kings,2022020052167,2022020052,Hit,167,HIT,Jeremy Lauzon hit Viktor Arvidsson,2022-10-19T02:00:54Z,1,09:31,10:29,1,0,18.0,Nashville Predators,NSH
+48,18,26,Nashville Predators,Los Angeles Kings,2022020052168,2022020052,Hit,168,HIT,Trevor Moore hit Alexandre Carrier,2022-10-19T02:01:12Z,1,09:49,10:11,1,0,26.0,Los Angeles Kings,LAK
+49,18,26,Nashville Predators,Los Angeles Kings,202202005215,2022020052,Hit,15,HIT,Tanner Jeannot hit Drew Doughty,2022-10-19T02:01:17Z,1,09:54,10:06,1,0,18.0,Nashville Predators,NSH
+50,18,26,Nashville Predators,Los Angeles Kings,2022020052169,2022020052,Hit,169,HIT,Colton Sissons hit Mikey Anderson,2022-10-19T02:01:21Z,1,09:58,10:02,1,0,18.0,Nashville Predators,NSH
+51,18,26,Nashville Predators,Los Angeles Kings,202202005216,2022020052,Stoppage,16,STOP,TV timeout,2022-10-19T02:01:44Z,1,10:21,09:39,1,0,,,
+52,18,26,Nashville Predators,Los Angeles Kings,2022020052254,2022020052,Penalty,254,PENALTY,Dante Fabbro Interference against Mikey Anderson,2022-10-19T02:01:44Z,1,10:21,09:39,1,0,18.0,Nashville Predators,NSH
+53,18,26,Nashville Predators,Los Angeles Kings,202202005275,2022020052,Faceoff,75,FACEOFF,Colton Sissons faceoff won against Anze Kopitar,2022-10-19T02:04:13Z,1,10:21,09:39,1,0,18.0,Nashville Predators,NSH
+54,18,26,Nashville Predators,Los Angeles Kings,2022020052170,2022020052,Giveaway,170,GIVEAWAY,Giveaway by Anze Kopitar,2022-10-19T02:05:05Z,1,11:13,08:47,1,0,26.0,Los Angeles Kings,LAK
+55,18,26,Nashville Predators,Los Angeles Kings,2022020052171,2022020052,Takeaway,171,TAKEAWAY,Takeaway by Yakov Trenin,2022-10-19T02:05:22Z,1,11:30,08:30,1,0,18.0,Nashville Predators,NSH
+56,18,26,Nashville Predators,Los Angeles Kings,202202005276,2022020052,Shot,76,SHOT,Phillip Danault Snap Shot saved by Juuse Saros,2022-10-19T02:06:02Z,1,12:10,07:50,1,0,26.0,Los Angeles Kings,LAK
+57,18,26,Nashville Predators,Los Angeles Kings,202202005277,2022020052,Blocked Shot,77,BLOCKED_SHOT,Mikael Granlund shot blocked shot by Brandt Clarke,2022-10-19T02:06:32Z,1,12:40,07:20,1,0,26.0,Los Angeles Kings,LAK
+58,18,26,Nashville Predators,Los Angeles Kings,202202005278,2022020052,Blocked Shot,78,BLOCKED_SHOT,Roman Josi shot blocked shot by Sean Walker,2022-10-19T02:06:56Z,1,13:04,06:56,1,0,26.0,Los Angeles Kings,LAK
+59,18,26,Nashville Predators,Los Angeles Kings,202202005279,2022020052,Blocked Shot,79,BLOCKED_SHOT,Nino Niederreiter shot blocked shot by Anze Kopitar,2022-10-19T02:07:20Z,1,13:28,06:32,1,0,26.0,Los Angeles Kings,LAK
+60,18,26,Nashville Predators,Los Angeles Kings,202202005217,2022020052,Stoppage,17,STOP,Puck in Netting,2022-10-19T02:07:41Z,1,13:49,06:11,1,0,,,
+61,18,26,Nashville Predators,Los Angeles Kings,202202005280,2022020052,Missed Shot,80,MISSED_SHOT,Zach Sanford Over Net Cal Petersen,2022-10-19T02:07:41Z,1,13:49,06:11,1,0,18.0,Nashville Predators,NSH
+62,18,26,Nashville Predators,Los Angeles Kings,202202005281,2022020052,Faceoff,81,FACEOFF,Anze Kopitar faceoff won against Ryan Johansen,2022-10-19T02:10:00Z,1,13:49,06:11,1,0,26.0,Los Angeles Kings,LAK
+63,18,26,Nashville Predators,Los Angeles Kings,2022020052178,2022020052,Giveaway,178,GIVEAWAY,Giveaway by Ryan Johansen,2022-10-19T02:10:16Z,1,14:05,05:55,1,0,18.0,Nashville Predators,NSH
+64,18,26,Nashville Predators,Los Angeles Kings,202202005282,2022020052,Shot,82,SHOT,Adrian Kempe Wrist Shot saved by Juuse Saros,2022-10-19T02:10:23Z,1,14:12,05:48,1,0,26.0,Los Angeles Kings,LAK
+65,18,26,Nashville Predators,Los Angeles Kings,202202005283,2022020052,Missed Shot,83,MISSED_SHOT,Adrian Kempe Over Net Juuse Saros,2022-10-19T02:10:35Z,1,14:24,05:36,1,0,26.0,Los Angeles Kings,LAK
+66,18,26,Nashville Predators,Los Angeles Kings,202202005284,2022020052,Blocked Shot,84,BLOCKED_SHOT,Adrian Kempe shot blocked shot by Ryan McDonagh,2022-10-19T02:10:59Z,1,14:48,05:12,1,0,18.0,Nashville Predators,NSH
+67,18,26,Nashville Predators,Los Angeles Kings,202202005285,2022020052,Shot,85,SHOT,Mikey Anderson Wrist Shot saved by Juuse Saros,2022-10-19T02:11:07Z,1,14:56,05:04,1,0,26.0,Los Angeles Kings,LAK
+68,18,26,Nashville Predators,Los Angeles Kings,202202005286,2022020052,Shot,86,SHOT,Viktor Arvidsson Wrist Shot saved by Juuse Saros,2022-10-19T02:11:17Z,1,15:06,04:54,1,0,26.0,Los Angeles Kings,LAK
+69,18,26,Nashville Predators,Los Angeles Kings,2022020052180,2022020052,Giveaway,180,GIVEAWAY,Giveaway by Zach Sanford,2022-10-19T02:11:32Z,1,15:21,04:39,1,0,18.0,Nashville Predators,NSH
+70,18,26,Nashville Predators,Los Angeles Kings,2022020052184,2022020052,Hit,184,HIT,Zach Sanford hit Phillip Danault,2022-10-19T02:11:42Z,1,15:31,04:29,1,0,18.0,Nashville Predators,NSH
+71,18,26,Nashville Predators,Los Angeles Kings,202202005287,2022020052,Shot,87,SHOT,Roman Josi Snap Shot saved by Cal Petersen,2022-10-19T02:11:59Z,1,15:48,04:12,1,0,18.0,Nashville Predators,NSH
+72,18,26,Nashville Predators,Los Angeles Kings,202202005218,2022020052,Stoppage,18,STOP,Goalie Stopped,2022-10-19T02:12:01Z,1,15:49,04:11,1,0,,,
+73,18,26,Nashville Predators,Los Angeles Kings,202202005288,2022020052,Faceoff,88,FACEOFF,Mikael Granlund faceoff won against Anze Kopitar,2022-10-19T02:14:09Z,1,15:49,04:11,1,0,18.0,Nashville Predators,NSH
+74,18,26,Nashville Predators,Los Angeles Kings,202202005289,2022020052,Shot,89,SHOT,Filip Forsberg Snap Shot saved by Cal Petersen,2022-10-19T02:14:41Z,1,16:21,03:39,1,0,18.0,Nashville Predators,NSH
+75,18,26,Nashville Predators,Los Angeles Kings,202202005290,2022020052,Shot,90,SHOT,Colton Sissons Snap Shot saved by Cal Petersen,2022-10-19T02:14:46Z,1,16:26,03:34,1,0,18.0,Nashville Predators,NSH
+76,18,26,Nashville Predators,Los Angeles Kings,2022020052406,2022020052,Penalty,406,PENALTY,Brandt Clarke Holding against Filip Forsberg,2022-10-19T02:14:59Z,1,16:39,03:21,1,0,26.0,Los Angeles Kings,LAK
+77,18,26,Nashville Predators,Los Angeles Kings,202202005291,2022020052,Faceoff,91,FACEOFF,Phillip Danault faceoff won against Cody Glass,2022-10-19T02:15:46Z,1,16:39,03:21,1,0,26.0,Los Angeles Kings,LAK
+78,18,26,Nashville Predators,Los Angeles Kings,2022020052194,2022020052,Giveaway,194,GIVEAWAY,Giveaway by Eeli Tolvanen,2022-10-19T02:16:23Z,1,17:16,02:44,1,0,18.0,Nashville Predators,NSH
+79,18,26,Nashville Predators,Los Angeles Kings,2022020052195,2022020052,Takeaway,195,TAKEAWAY,Takeaway by Drew Doughty,2022-10-19T02:17:28Z,1,18:21,01:39,1,0,26.0,Los Angeles Kings,LAK
+80,18,26,Nashville Predators,Los Angeles Kings,2022020052196,2022020052,Giveaway,196,GIVEAWAY,Giveaway by Brandt Clarke,2022-10-19T02:18:02Z,1,18:55,01:05,1,0,26.0,Los Angeles Kings,LAK
+81,18,26,Nashville Predators,Los Angeles Kings,2022020052197,2022020052,Hit,197,HIT,Tanner Jeannot hit Quinton Byfield,2022-10-19T02:18:11Z,1,19:04,00:56,1,0,18.0,Nashville Predators,NSH
+82,18,26,Nashville Predators,Los Angeles Kings,2022020052198,2022020052,Hit,198,HIT,Zach Sanford hit Matt Roy,2022-10-19T02:18:34Z,1,19:27,00:33,1,0,18.0,Nashville Predators,NSH
+83,18,26,Nashville Predators,Los Angeles Kings,2022020052199,2022020052,Hit,199,HIT,Gabriel Vilardi hit Zach Sanford,2022-10-19T02:18:36Z,1,19:29,00:31,1,0,26.0,Los Angeles Kings,LAK
+84,18,26,Nashville Predators,Los Angeles Kings,2022020052443,2022020052,Penalty,443,PENALTY,Cole Smith Cross-checking against Sean Walker,2022-10-19T02:18:44Z,1,19:36,00:24,1,0,18.0,Nashville Predators,NSH
+85,18,26,Nashville Predators,Los Angeles Kings,202202005292,2022020052,Faceoff,92,FACEOFF,Anze Kopitar faceoff won against Colton Sissons,2022-10-19T02:20:10Z,1,19:36,00:24,1,0,26.0,Los Angeles Kings,LAK
+86,18,26,Nashville Predators,Los Angeles Kings,202202005293,2022020052,Missed Shot,93,MISSED_SHOT,Tanner  Jeannot Wide of Net Cal Petersen,2022-10-19T02:20:32Z,1,19:58,00:02,1,0,18.0,Nashville Predators,NSH
+87,18,26,Nashville Predators,Los Angeles Kings,202202005221,2022020052,Period End,21,PERIOD_END,End of 1st Period,2022-10-19T02:20:34Z,1,20:00,00:00,1,0,,,
+88,18,26,Nashville Predators,Los Angeles Kings,202202005224,2022020052,Period Official,24,PERIOD_OFFICIAL,Period Official,2022-10-19T02:21:35Z,1,20:00,00:00,1,0,,,
+89,18,26,Nashville Predators,Los Angeles Kings,202202005225,2022020052,Period Ready,25,PERIOD_READY,Period Ready,2022-10-19T02:38:23Z,2,00:00,20:00,1,0,,,
+90,18,26,Nashville Predators,Los Angeles Kings,202202005294,2022020052,Period Start,94,PERIOD_START,Period Start,2022-10-19T02:39:29Z,2,00:00,20:00,1,0,,,
+91,18,26,Nashville Predators,Los Angeles Kings,202202005295,2022020052,Faceoff,95,FACEOFF,Colton Sissons faceoff won against Phillip Danault,2022-10-19T02:39:29Z,2,00:00,20:00,1,0,18.0,Nashville Predators,NSH
+92,18,26,Nashville Predators,Los Angeles Kings,2022020052200,2022020052,Takeaway,200,TAKEAWAY,Takeaway by Mattias Ekholm,2022-10-19T02:39:51Z,2,00:22,19:38,1,0,18.0,Nashville Predators,NSH
+93,18,26,Nashville Predators,Los Angeles Kings,2022020052351,2022020052,Hit,351,HIT,Mattias Ekholm hit Phillip Danault,2022-10-19T02:40:06Z,2,00:37,19:23,1,0,18.0,Nashville Predators,NSH
+94,18,26,Nashville Predators,Los Angeles Kings,202202005296,2022020052,Missed Shot,96,MISSED_SHOT,Viktor Arvidsson Over Net Juuse Saros,2022-10-19T02:40:14Z,2,00:45,19:15,1,0,26.0,Los Angeles Kings,LAK
+95,18,26,Nashville Predators,Los Angeles Kings,202202005297,2022020052,Shot,97,SHOT,Arthur Kaliyev Tip-In saved by Juuse Saros,2022-10-19T02:40:36Z,2,01:07,18:53,1,0,26.0,Los Angeles Kings,LAK
+96,18,26,Nashville Predators,Los Angeles Kings,202202005298,2022020052,Shot,98,SHOT,Drew Doughty Slap Shot saved by Juuse Saros,2022-10-19T02:40:53Z,2,01:24,18:36,1,0,26.0,Los Angeles Kings,LAK
+97,18,26,Nashville Predators,Los Angeles Kings,202202005226,2022020052,Stoppage,26,STOP,Goalie Stopped,2022-10-19T02:40:55Z,2,01:25,18:35,1,0,,,
+98,18,26,Nashville Predators,Los Angeles Kings,202202005299,2022020052,Faceoff,99,FACEOFF,Anze Kopitar faceoff won against Colton Sissons,2022-10-19T02:41:29Z,2,01:25,18:35,1,0,26.0,Los Angeles Kings,LAK
+99,18,26,Nashville Predators,Los Angeles Kings,202202005227,2022020052,Stoppage,27,STOP,Puck in Netting,2022-10-19T02:41:42Z,2,01:38,18:22,1,0,,,
+100,18,26,Nashville Predators,Los Angeles Kings,2022020052100,2022020052,Faceoff,100,FACEOFF,Anze Kopitar faceoff won against Mikael Granlund,2022-10-19T02:42:06Z,2,01:38,18:22,1,0,26.0,Los Angeles Kings,LAK
+101,18,26,Nashville Predators,Los Angeles Kings,2022020052352,2022020052,Takeaway,352,TAKEAWAY,Takeaway by Dante Fabbro,2022-10-19T02:42:17Z,2,01:49,18:11,1,0,18.0,Nashville Predators,NSH
+102,18,26,Nashville Predators,Los Angeles Kings,2022020052512,2022020052,Penalty,512,PENALTY,Roman Josi Hooking against Adrian Kempe,2022-10-19T02:42:22Z,2,01:54,18:06,1,0,18.0,Nashville Predators,NSH
+103,18,26,Nashville Predators,Los Angeles Kings,2022020052301,2022020052,Faceoff,301,FACEOFF,Colton Sissons faceoff won against Anze Kopitar,2022-10-19T02:43:01Z,2,01:54,18:06,1,0,18.0,Nashville Predators,NSH
+104,18,26,Nashville Predators,Los Angeles Kings,202202005228,2022020052,Stoppage,28,STOP,Goalie Puck Frozen Played Beyond Center Line,2022-10-19T02:43:10Z,2,02:02,17:58,1,0,,,
+105,18,26,Nashville Predators,Los Angeles Kings,2022020052302,2022020052,Faceoff,302,FACEOFF,Anze Kopitar faceoff won against Colton Sissons,2022-10-19T02:43:30Z,2,02:02,17:58,1,0,26.0,Los Angeles Kings,LAK
+106,18,26,Nashville Predators,Los Angeles Kings,2022020052303,2022020052,Blocked Shot,303,BLOCKED_SHOT,Kevin Fiala shot blocked shot by Ryan McDonagh,2022-10-19T02:43:54Z,2,02:26,17:34,1,0,18.0,Nashville Predators,NSH
+107,18,26,Nashville Predators,Los Angeles Kings,2022020052354,2022020052,Takeaway,354,TAKEAWAY,Takeaway by Tanner  Jeannot,2022-10-19T02:43:57Z,2,02:29,17:31,1,0,18.0,Nashville Predators,NSH
+108,18,26,Nashville Predators,Los Angeles Kings,2022020052519,2022020052,Penalty,519,PENALTY,Jeremy Lauzon Tripping against Gabriel Vilardi,2022-10-19T02:44:17Z,2,02:48,17:12,1,0,18.0,Nashville Predators,NSH
+109,18,26,Nashville Predators,Los Angeles Kings,2022020052304,2022020052,Faceoff,304,FACEOFF,Mikael Granlund faceoff won against Anze Kopitar,2022-10-19T02:45:05Z,2,02:48,17:12,1,0,18.0,Nashville Predators,NSH
+110,18,26,Nashville Predators,Los Angeles Kings,2022020052305,2022020052,Blocked Shot,305,BLOCKED_SHOT,Adrian Kempe shot blocked shot by Mikael Granlund,2022-10-19T02:45:34Z,2,03:17,16:43,1,0,18.0,Nashville Predators,NSH
+111,18,26,Nashville Predators,Los Angeles Kings,2022020052306,2022020052,Blocked Shot,306,BLOCKED_SHOT,Adrian Kempe shot blocked shot by Colton Sissons,2022-10-19T02:46:03Z,2,03:46,16:14,1,0,18.0,Nashville Predators,NSH
+112,18,26,Nashville Predators,Los Angeles Kings,2022020052308,2022020052,Blocked Shot,308,BLOCKED_SHOT,Anze Kopitar shot blocked shot by Alexandre Carrier,2022-10-19T02:46:15Z,2,03:58,16:02,1,0,18.0,Nashville Predators,NSH
+113,18,26,Nashville Predators,Los Angeles Kings,2022020052307,2022020052,Goal,307,GOAL,"Gabriel Vilardi (4) Deflected, assists: Arthur Kaliyev (2), Sean Durzi (3)",2022-10-19T02:46:41Z,2,04:24,15:36,1,1,26.0,Los Angeles Kings,LAK
+114,18,26,Nashville Predators,Los Angeles Kings,202202005229,2022020052,Faceoff,29,FACEOFF,Quinton Byfield faceoff won against Mikael Granlund,2022-10-19T02:47:20Z,2,04:24,15:36,1,1,26.0,Los Angeles Kings,LAK
+115,18,26,Nashville Predators,Los Angeles Kings,202202005230,2022020052,Stoppage,30,STOP,Puck in Crowd,2022-10-19T02:47:27Z,2,04:31,15:29,1,1,,,
+116,18,26,Nashville Predators,Los Angeles Kings,2022020052309,2022020052,Faceoff,309,FACEOFF,Mikael Granlund faceoff won against Quinton Byfield,2022-10-19T02:47:49Z,2,04:31,15:29,1,1,18.0,Nashville Predators,NSH
+117,18,26,Nashville Predators,Los Angeles Kings,2022020052355,2022020052,Hit,355,HIT,Carl Grundstrom hit Dante Fabbro,2022-10-19T02:47:53Z,2,04:35,15:25,1,1,26.0,Los Angeles Kings,LAK
+118,18,26,Nashville Predators,Los Angeles Kings,2022020052310,2022020052,Shot,310,SHOT,Dante Fabbro Snap Shot saved by Cal Petersen,2022-10-19T02:47:54Z,2,04:36,15:24,1,1,18.0,Nashville Predators,NSH
+119,18,26,Nashville Predators,Los Angeles Kings,202202005231,2022020052,Stoppage,31,STOP,Goalie Stopped,2022-10-19T02:47:56Z,2,04:37,15:23,1,1,,,
+120,18,26,Nashville Predators,Los Angeles Kings,2022020052311,2022020052,Faceoff,311,FACEOFF,Quinton Byfield faceoff won against Mikael Granlund,2022-10-19T02:48:15Z,2,04:37,15:23,1,1,26.0,Los Angeles Kings,LAK
+121,18,26,Nashville Predators,Los Angeles Kings,2022020052536,2022020052,Penalty,536,PENALTY,Matt Duchene Tripping against Gabriel Vilardi,2022-10-19T02:48:56Z,2,05:17,14:43,1,1,18.0,Nashville Predators,NSH
+122,18,26,Nashville Predators,Los Angeles Kings,2022020052312,2022020052,Faceoff,312,FACEOFF,Colton Sissons faceoff won against Phillip Danault,2022-10-19T02:49:31Z,2,05:17,14:43,1,1,18.0,Nashville Predators,NSH
+123,18,26,Nashville Predators,Los Angeles Kings,2022020052358,2022020052,Giveaway,358,GIVEAWAY,Giveaway by Colton Sissons,2022-10-19T02:49:39Z,2,05:25,14:35,1,1,18.0,Nashville Predators,NSH
+124,18,26,Nashville Predators,Los Angeles Kings,2022020052359,2022020052,Takeaway,359,TAKEAWAY,Takeaway by Cole Smith,2022-10-19T02:50:19Z,2,06:05,13:55,1,1,18.0,Nashville Predators,NSH
+125,18,26,Nashville Predators,Los Angeles Kings,2022020052360,2022020052,Hit,360,HIT,Arthur Kaliyev hit Alexandre Carrier,2022-10-19T02:50:29Z,2,06:15,13:45,1,1,26.0,Los Angeles Kings,LAK
+126,18,26,Nashville Predators,Los Angeles Kings,2022020052313,2022020052,Missed Shot,313,MISSED_SHOT,Adrian Kempe Wide of Net Juuse Saros,2022-10-19T02:51:00Z,2,06:46,13:14,1,1,26.0,Los Angeles Kings,LAK
+127,18,26,Nashville Predators,Los Angeles Kings,202202005233,2022020052,Stoppage,33,STOP,Goalie Stopped,2022-10-19T02:51:12Z,2,06:58,13:02,1,1,,,
+128,18,26,Nashville Predators,Los Angeles Kings,2022020052314,2022020052,Shot,314,SHOT,Adrian Kempe Snap Shot saved by Juuse Saros,2022-10-19T02:51:12Z,2,06:58,13:02,1,1,26.0,Los Angeles Kings,LAK
+129,18,26,Nashville Predators,Los Angeles Kings,2022020052315,2022020052,Faceoff,315,FACEOFF,Colton Sissons faceoff won against Anze Kopitar,2022-10-19T02:51:45Z,2,06:58,13:02,1,1,18.0,Nashville Predators,NSH
+130,18,26,Nashville Predators,Los Angeles Kings,2022020052316,2022020052,Missed Shot,316,MISSED_SHOT,Adrian Kempe Wide of Net Juuse Saros,2022-10-19T02:52:22Z,2,07:35,12:25,1,1,26.0,Los Angeles Kings,LAK
+131,18,26,Nashville Predators,Los Angeles Kings,2022020052317,2022020052,Shot,317,SHOT,Filip Forsberg Slap Shot saved by Cal Petersen,2022-10-19T02:52:54Z,2,08:07,11:53,1,1,18.0,Nashville Predators,NSH
+132,18,26,Nashville Predators,Los Angeles Kings,2022020052318,2022020052,Goal,318,GOAL,"Filip Forsberg (2) Snap Shot, assists: Mikael Granlund (5), Matt Duchene (2)",2022-10-19T02:53:18Z,2,08:32,11:28,2,1,18.0,Nashville Predators,NSH
+133,18,26,Nashville Predators,Los Angeles Kings,202202005234,2022020052,Faceoff,34,FACEOFF,Ryan Johansen faceoff won against Phillip Danault,2022-10-19T02:54:02Z,2,08:32,11:28,2,1,18.0,Nashville Predators,NSH
+134,18,26,Nashville Predators,Los Angeles Kings,2022020052361,2022020052,Giveaway,361,GIVEAWAY,Giveaway by Jeremy Lauzon,2022-10-19T02:54:07Z,2,08:37,11:23,2,1,18.0,Nashville Predators,NSH
+135,18,26,Nashville Predators,Los Angeles Kings,2022020052362,2022020052,Hit,362,HIT,Sean Walker hit Cody Glass,2022-10-19T02:54:53Z,2,09:23,10:37,2,1,26.0,Los Angeles Kings,LAK
+136,18,26,Nashville Predators,Los Angeles Kings,202202005235,2022020052,Hit,35,HIT,Zach Sanford hit Mikey Anderson,2022-10-19T02:54:59Z,2,09:29,10:31,2,1,18.0,Nashville Predators,NSH
+137,18,26,Nashville Predators,Los Angeles Kings,202202005236,2022020052,Stoppage,36,STOP,Goalie Stopped,2022-10-19T02:55:02Z,2,09:32,10:28,2,1,,,
+138,18,26,Nashville Predators,Los Angeles Kings,2022020052319,2022020052,Shot,319,SHOT,Roman Josi Slap Shot saved by Cal Petersen,2022-10-19T02:55:02Z,2,09:32,10:28,2,1,18.0,Nashville Predators,NSH
+139,18,26,Nashville Predators,Los Angeles Kings,2022020052320,2022020052,Faceoff,320,FACEOFF,Matt Duchene faceoff won against Blake Lizotte,2022-10-19T02:57:27Z,2,09:32,10:28,2,1,18.0,Nashville Predators,NSH
+140,18,26,Nashville Predators,Los Angeles Kings,2022020052321,2022020052,Missed Shot,321,MISSED_SHOT,Dante Fabbro Wide of Net Cal Petersen,2022-10-19T02:57:32Z,2,09:37,10:23,2,1,18.0,Nashville Predators,NSH
+141,18,26,Nashville Predators,Los Angeles Kings,2022020052322,2022020052,Shot,322,SHOT,Matt Duchene Snap Shot saved by Cal Petersen,2022-10-19T02:58:04Z,2,10:09,09:51,2,1,18.0,Nashville Predators,NSH
+142,18,26,Nashville Predators,Los Angeles Kings,2022020052323,2022020052,Shot,323,SHOT,Trevor Moore Snap Shot saved by Juuse Saros,2022-10-19T02:58:16Z,2,10:21,09:39,2,1,26.0,Los Angeles Kings,LAK
+143,18,26,Nashville Predators,Los Angeles Kings,2022020052452,2022020052,Blocked Shot,452,BLOCKED_SHOT,Drew Doughty shot blocked shot by Cole Smith,2022-10-19T02:58:32Z,2,10:37,09:23,2,1,18.0,Nashville Predators,NSH
+144,18,26,Nashville Predators,Los Angeles Kings,202202005237,2022020052,Stoppage,37,STOP,Goalie Stopped,2022-10-19T02:58:49Z,2,10:53,09:07,2,1,,,
+145,18,26,Nashville Predators,Los Angeles Kings,2022020052325,2022020052,Shot,325,SHOT,Zach Sanford Snap Shot saved by Cal Petersen,2022-10-19T02:58:49Z,2,10:53,09:07,2,1,18.0,Nashville Predators,NSH
+146,18,26,Nashville Predators,Los Angeles Kings,2022020052326,2022020052,Faceoff,326,FACEOFF,Mikael Granlund faceoff won against Anze Kopitar,2022-10-19T03:00:58Z,2,10:53,09:07,2,1,18.0,Nashville Predators,NSH
+147,18,26,Nashville Predators,Los Angeles Kings,2022020052327,2022020052,Missed Shot,327,MISSED_SHOT,Filip Forsberg Over Net Cal Petersen,2022-10-19T03:01:07Z,2,11:02,08:58,2,1,18.0,Nashville Predators,NSH
+148,18,26,Nashville Predators,Los Angeles Kings,2022020052328,2022020052,Missed Shot,328,MISSED_SHOT,Arthur Kaliyev Wide of Net Juuse Saros,2022-10-19T03:02:09Z,2,12:04,07:56,2,1,26.0,Los Angeles Kings,LAK
+149,18,26,Nashville Predators,Los Angeles Kings,2022020052363,2022020052,Hit,363,HIT,Brendan Lemieux hit Jeremy Lauzon,2022-10-19T03:02:14Z,2,12:09,07:51,2,1,26.0,Los Angeles Kings,LAK
+150,18,26,Nashville Predators,Los Angeles Kings,2022020052364,2022020052,Hit,364,HIT,Jeremy Lauzon hit Brendan Lemieux,2022-10-19T03:02:39Z,2,12:34,07:26,2,1,18.0,Nashville Predators,NSH
+151,18,26,Nashville Predators,Los Angeles Kings,2022020052329,2022020052,Blocked Shot,329,BLOCKED_SHOT,Yakov Trenin shot blocked shot by Sean Walker,2022-10-19T03:03:09Z,2,13:04,06:56,2,1,26.0,Los Angeles Kings,LAK
+152,18,26,Nashville Predators,Los Angeles Kings,2022020052330,2022020052,Shot,330,SHOT,Dante Fabbro Wrist Shot saved by Cal Petersen,2022-10-19T03:03:18Z,2,13:13,06:47,2,1,18.0,Nashville Predators,NSH
+153,18,26,Nashville Predators,Los Angeles Kings,2022020052752,2022020052,Penalty,752,PENALTY,Sean Walker Holding against Colton Sissons,2022-10-19T03:03:20Z,2,13:15,06:45,2,1,26.0,Los Angeles Kings,LAK
+154,18,26,Nashville Predators,Los Angeles Kings,2022020052331,2022020052,Faceoff,331,FACEOFF,Ryan Johansen faceoff won against Phillip Danault,2022-10-19T03:04:01Z,2,13:15,06:45,2,1,18.0,Nashville Predators,NSH
+155,18,26,Nashville Predators,Los Angeles Kings,2022020052332,2022020052,Blocked Shot,332,BLOCKED_SHOT,Filip Forsberg shot blocked shot by Drew Doughty,2022-10-19T03:04:06Z,2,13:20,06:40,2,1,26.0,Los Angeles Kings,LAK
+156,18,26,Nashville Predators,Los Angeles Kings,2022020052333,2022020052,Shot,333,SHOT,Ryan Johansen Snap Shot saved by Cal Petersen,2022-10-19T03:04:17Z,2,13:31,06:29,2,1,18.0,Nashville Predators,NSH
+157,18,26,Nashville Predators,Los Angeles Kings,2022020052334,2022020052,Shot,334,SHOT,Matt Duchene Wrist Shot saved by Cal Petersen,2022-10-19T03:04:20Z,2,13:34,06:26,2,1,18.0,Nashville Predators,NSH
+158,18,26,Nashville Predators,Los Angeles Kings,202202005238,2022020052,Stoppage,38,STOP,Offside,2022-10-19T03:04:55Z,2,14:09,05:51,2,1,,,
+159,18,26,Nashville Predators,Los Angeles Kings,2022020052335,2022020052,Faceoff,335,FACEOFF,Cody Glass faceoff won against Blake Lizotte,2022-10-19T03:05:22Z,2,14:09,05:51,2,1,18.0,Nashville Predators,NSH
+160,18,26,Nashville Predators,Los Angeles Kings,2022020052336,2022020052,Shot,336,SHOT,Alexandre Carrier Wrist Shot saved by Cal Petersen,2022-10-19T03:05:29Z,2,14:16,05:44,2,1,18.0,Nashville Predators,NSH
+161,18,26,Nashville Predators,Los Angeles Kings,2022020052337,2022020052,Blocked Shot,337,BLOCKED_SHOT,Alexandre Carrier shot blocked shot by Sean Durzi,2022-10-19T03:05:49Z,2,14:36,05:24,2,1,26.0,Los Angeles Kings,LAK
+162,18,26,Nashville Predators,Los Angeles Kings,2022020052338,2022020052,Shot,338,SHOT,Tanner Jeannot Deflected saved by Cal Petersen,2022-10-19T03:05:57Z,2,14:44,05:16,2,1,18.0,Nashville Predators,NSH
+163,18,26,Nashville Predators,Los Angeles Kings,202202005239,2022020052,Stoppage,39,STOP,TV timeout,2022-10-19T03:06:35Z,2,15:22,04:38,2,1,,,
+164,18,26,Nashville Predators,Los Angeles Kings,2022020052755,2022020052,Penalty,755,PENALTY,Brandt Clarke Holding against Tanner Jeannot,2022-10-19T03:06:35Z,2,15:22,04:38,2,1,26.0,Los Angeles Kings,LAK
+165,18,26,Nashville Predators,Los Angeles Kings,2022020052339,2022020052,Faceoff,339,FACEOFF,Ryan Johansen faceoff won against Anze Kopitar,2022-10-19T03:09:03Z,2,15:22,04:38,2,1,18.0,Nashville Predators,NSH
+166,18,26,Nashville Predators,Los Angeles Kings,2022020052340,2022020052,Missed Shot,340,MISSED_SHOT,Matt Duchene Over Net Cal Petersen,2022-10-19T03:09:09Z,2,15:28,04:32,2,1,18.0,Nashville Predators,NSH
+167,18,26,Nashville Predators,Los Angeles Kings,2022020052341,2022020052,Blocked Shot,341,BLOCKED_SHOT,Adrian Kempe shot blocked shot by Roman Josi,2022-10-19T03:09:26Z,2,15:45,04:15,2,1,18.0,Nashville Predators,NSH
+168,18,26,Nashville Predators,Los Angeles Kings,2022020052342,2022020052,Blocked Shot,342,BLOCKED_SHOT,Roman Josi shot blocked shot by Phillip Danault,2022-10-19T03:10:20Z,2,16:39,03:21,2,1,26.0,Los Angeles Kings,LAK
+169,18,26,Nashville Predators,Los Angeles Kings,2022020052343,2022020052,Shot,343,SHOT,Roman Josi Wrist Shot saved by Cal Petersen,2022-10-19T03:10:35Z,2,16:54,03:06,2,1,18.0,Nashville Predators,NSH
+170,18,26,Nashville Predators,Los Angeles Kings,2022020052344,2022020052,Blocked Shot,344,BLOCKED_SHOT,Matt Duchene shot blocked shot by Phillip Danault,2022-10-19T03:10:42Z,2,17:01,02:59,2,1,26.0,Los Angeles Kings,LAK
+171,18,26,Nashville Predators,Los Angeles Kings,2022020052345,2022020052,Shot,345,SHOT,Trevor Moore Wrist Shot saved by Juuse Saros,2022-10-19T03:10:49Z,2,17:08,02:52,2,1,26.0,Los Angeles Kings,LAK
+172,18,26,Nashville Predators,Los Angeles Kings,2022020052346,2022020052,Shot,346,SHOT,Carl Grundstrom Wrist Shot saved by Juuse Saros,2022-10-19T03:11:08Z,2,17:27,02:33,2,1,26.0,Los Angeles Kings,LAK
+173,18,26,Nashville Predators,Los Angeles Kings,2022020052365,2022020052,Hit,365,HIT,Roman Josi hit Blake Lizotte,2022-10-19T03:11:23Z,2,17:42,02:18,2,1,18.0,Nashville Predators,NSH
+174,18,26,Nashville Predators,Los Angeles Kings,2022020052366,2022020052,Hit,366,HIT,Mattias Ekholm hit Blake Lizotte,2022-10-19T03:11:29Z,2,17:48,02:12,2,1,18.0,Nashville Predators,NSH
+175,18,26,Nashville Predators,Los Angeles Kings,2022020052367,2022020052,Hit,367,HIT,Mikey Anderson hit Nino Niederreiter,2022-10-19T03:11:39Z,2,17:58,02:02,2,1,26.0,Los Angeles Kings,LAK
+176,18,26,Nashville Predators,Los Angeles Kings,2022020052368,2022020052,Hit,368,HIT,Ryan McDonagh hit Blake Lizotte,2022-10-19T03:11:50Z,2,18:09,01:51,2,1,18.0,Nashville Predators,NSH
+177,18,26,Nashville Predators,Los Angeles Kings,2022020052347,2022020052,Shot,347,SHOT,Tanner Jeannot Snap Shot saved by Cal Petersen,2022-10-19T03:11:56Z,2,18:15,01:45,2,1,18.0,Nashville Predators,NSH
+178,18,26,Nashville Predators,Los Angeles Kings,2022020052369,2022020052,Hit,369,HIT,Tanner Jeannot hit Mikey Anderson,2022-10-19T03:12:09Z,2,18:28,01:32,2,1,18.0,Nashville Predators,NSH
+179,18,26,Nashville Predators,Los Angeles Kings,2022020052348,2022020052,Shot,348,SHOT,Dante Fabbro Snap Shot saved by Cal Petersen,2022-10-19T03:12:29Z,2,18:48,01:12,2,1,18.0,Nashville Predators,NSH
+180,18,26,Nashville Predators,Los Angeles Kings,202202005240,2022020052,Stoppage,40,STOP,Icing,2022-10-19T03:12:35Z,2,18:54,01:06,2,1,,,
+181,18,26,Nashville Predators,Los Angeles Kings,2022020052349,2022020052,Faceoff,349,FACEOFF,Mikael Granlund faceoff won against Quinton Byfield,2022-10-19T03:13:11Z,2,18:54,01:06,2,1,18.0,Nashville Predators,NSH
+182,18,26,Nashville Predators,Los Angeles Kings,2022020052350,2022020052,Shot,350,SHOT,Alexandre Carrier Snap Shot saved by Cal Petersen,2022-10-19T03:13:18Z,2,19:01,00:59,2,1,18.0,Nashville Predators,NSH
+183,18,26,Nashville Predators,Los Angeles Kings,202202005241,2022020052,Stoppage,41,STOP,Goalie Stopped,2022-10-19T03:13:21Z,2,19:03,00:57,2,1,,,
+184,18,26,Nashville Predators,Los Angeles Kings,2022020052801,2022020052,Faceoff,801,FACEOFF,Anze Kopitar faceoff won against Mikael Granlund,2022-10-19T03:14:04Z,2,19:03,00:57,2,1,26.0,Los Angeles Kings,LAK
+185,18,26,Nashville Predators,Los Angeles Kings,202202005242,2022020052,Stoppage,42,STOP,Goalie Stopped,2022-10-19T03:14:19Z,2,19:17,00:43,2,1,,,
+186,18,26,Nashville Predators,Los Angeles Kings,2022020052802,2022020052,Shot,802,SHOT,Matt Duchene Snap Shot saved by Cal Petersen,2022-10-19T03:14:19Z,2,19:17,00:43,2,1,18.0,Nashville Predators,NSH
+187,18,26,Nashville Predators,Los Angeles Kings,2022020052803,2022020052,Faceoff,803,FACEOFF,Colton Sissons faceoff won against Phillip Danault,2022-10-19T03:14:58Z,2,19:17,00:43,2,1,18.0,Nashville Predators,NSH
+188,18,26,Nashville Predators,Los Angeles Kings,2022020052370,2022020052,Hit,370,HIT,Phillip Danault hit Colton Sissons,2022-10-19T03:15:07Z,2,19:26,00:34,2,1,26.0,Los Angeles Kings,LAK
+189,18,26,Nashville Predators,Los Angeles Kings,2022020052804,2022020052,Shot,804,SHOT,Tanner Jeannot Wrap-around saved by Cal Petersen,2022-10-19T03:15:09Z,2,19:28,00:32,2,1,18.0,Nashville Predators,NSH
+190,18,26,Nashville Predators,Los Angeles Kings,2022020052805,2022020052,Goal,805,GOAL,"Tanner Jeannot (1) Snap Shot, assists: Colton Sissons (1)",2022-10-19T03:15:10Z,2,19:29,00:31,3,1,18.0,Nashville Predators,NSH
+191,18,26,Nashville Predators,Los Angeles Kings,202202005243,2022020052,Faceoff,43,FACEOFF,Ryan Johansen faceoff won against Quinton Byfield,2022-10-19T03:15:49Z,2,19:29,00:31,3,1,18.0,Nashville Predators,NSH
+192,18,26,Nashville Predators,Los Angeles Kings,2022020052371,2022020052,Hit,371,HIT,Nino Niederreiter hit Mikey Anderson,2022-10-19T03:16:08Z,2,19:49,00:11,3,1,18.0,Nashville Predators,NSH
+193,18,26,Nashville Predators,Los Angeles Kings,202202005244,2022020052,Period End,44,PERIOD_END,End of 2nd Period,2022-10-19T03:16:19Z,2,20:00,00:00,3,1,,,
+194,18,26,Nashville Predators,Los Angeles Kings,202202005247,2022020052,Period Official,47,PERIOD_OFFICIAL,Period Official,2022-10-19T03:18:32Z,2,20:00,00:00,3,1,,,
+195,18,26,Nashville Predators,Los Angeles Kings,202202005248,2022020052,Period Ready,48,PERIOD_READY,Period Ready,2022-10-19T03:33:56Z,3,00:00,20:00,3,1,,,
+196,18,26,Nashville Predators,Los Angeles Kings,2022020052806,2022020052,Period Start,806,PERIOD_START,Period Start,2022-10-19T03:35:23Z,3,00:00,20:00,3,1,,,
+197,18,26,Nashville Predators,Los Angeles Kings,2022020052807,2022020052,Faceoff,807,FACEOFF,Ryan Johansen faceoff won against Phillip Danault,2022-10-19T03:35:23Z,3,00:00,20:00,3,1,18.0,Nashville Predators,NSH
+198,18,26,Nashville Predators,Los Angeles Kings,2022020052372,2022020052,Giveaway,372,GIVEAWAY,Giveaway by Viktor Arvidsson,2022-10-19T03:35:38Z,3,00:15,19:45,3,1,26.0,Los Angeles Kings,LAK
+199,18,26,Nashville Predators,Los Angeles Kings,2022020052373,2022020052,Takeaway,373,TAKEAWAY,Takeaway by Filip Forsberg,2022-10-19T03:36:28Z,3,01:05,18:55,3,1,18.0,Nashville Predators,NSH
+200,18,26,Nashville Predators,Los Angeles Kings,202202005249,2022020052,Stoppage,49,STOP,Goalie Stopped,2022-10-19T03:36:49Z,3,01:26,18:34,3,1,,,
+201,18,26,Nashville Predators,Los Angeles Kings,2022020052808,2022020052,Shot,808,SHOT,Matt Roy Wrist Shot saved by Juuse Saros,2022-10-19T03:36:49Z,3,01:26,18:34,3,1,26.0,Los Angeles Kings,LAK
+202,18,26,Nashville Predators,Los Angeles Kings,2022020052809,2022020052,Faceoff,809,FACEOFF,Quinton Byfield faceoff won against Colton Sissons,2022-10-19T03:37:17Z,3,01:26,18:34,3,1,26.0,Los Angeles Kings,LAK
+203,18,26,Nashville Predators,Los Angeles Kings,2022020052810,2022020052,Shot,810,SHOT,Sean Walker Wrist Shot saved by Juuse Saros,2022-10-19T03:37:19Z,3,01:28,18:32,3,1,26.0,Los Angeles Kings,LAK
+204,18,26,Nashville Predators,Los Angeles Kings,2022020052374,2022020052,Takeaway,374,TAKEAWAY,Takeaway by Quinton Byfield,2022-10-19T03:37:28Z,3,01:37,18:23,3,1,26.0,Los Angeles Kings,LAK
+205,18,26,Nashville Predators,Los Angeles Kings,2022020052375,2022020052,Hit,375,HIT,Jeremy Lauzon hit Gabriel Vilardi,2022-10-19T03:37:35Z,3,01:44,18:16,3,1,18.0,Nashville Predators,NSH
+206,18,26,Nashville Predators,Los Angeles Kings,2022020052376,2022020052,Hit,376,HIT,Sean Walker hit Yakov Trenin,2022-10-19T03:37:53Z,3,02:02,17:58,3,1,26.0,Los Angeles Kings,LAK
+207,18,26,Nashville Predators,Los Angeles Kings,202202005250,2022020052,Stoppage,50,STOP,Hand Pass,2022-10-19T03:37:55Z,3,02:04,17:56,3,1,,,
+208,18,26,Nashville Predators,Los Angeles Kings,2022020052811,2022020052,Faceoff,811,FACEOFF,Blake Lizotte faceoff won against Cody Glass,2022-10-19T03:38:23Z,3,02:04,17:56,3,1,26.0,Los Angeles Kings,LAK
+209,18,26,Nashville Predators,Los Angeles Kings,2022020052377,2022020052,Hit,377,HIT,Cole Smith hit Drew Doughty,2022-10-19T03:38:35Z,3,02:16,17:44,3,1,18.0,Nashville Predators,NSH
+210,18,26,Nashville Predators,Los Angeles Kings,2022020052378,2022020052,Hit,378,HIT,Cole Smith hit Blake Lizotte,2022-10-19T03:38:43Z,3,02:24,17:36,3,1,18.0,Nashville Predators,NSH
+211,18,26,Nashville Predators,Los Angeles Kings,2022020052379,2022020052,Hit,379,HIT,Carl Grundstrom hit Dante Fabbro,2022-10-19T03:39:01Z,3,02:42,17:18,3,1,26.0,Los Angeles Kings,LAK
+212,18,26,Nashville Predators,Los Angeles Kings,2022020052812,2022020052,Shot,812,SHOT,Eeli Tolvanen Wrist Shot saved by Cal Petersen,2022-10-19T03:39:25Z,3,03:06,16:54,3,1,18.0,Nashville Predators,NSH
+213,18,26,Nashville Predators,Los Angeles Kings,2022020052813,2022020052,Missed Shot,813,MISSED_SHOT,Matt Roy Wide of Net Juuse Saros,2022-10-19T03:40:05Z,3,03:46,16:14,3,1,26.0,Los Angeles Kings,LAK
+214,18,26,Nashville Predators,Los Angeles Kings,2022020052814,2022020052,Shot,814,SHOT,Matt Roy Slap Shot saved by Juuse Saros,2022-10-19T03:40:14Z,3,03:55,16:05,3,1,26.0,Los Angeles Kings,LAK
+215,18,26,Nashville Predators,Los Angeles Kings,2022020052380,2022020052,Hit,380,HIT,Jeremy Lauzon hit Kevin Fiala,2022-10-19T03:40:49Z,3,04:30,15:30,3,1,18.0,Nashville Predators,NSH
+216,18,26,Nashville Predators,Los Angeles Kings,2022020052815,2022020052,Blocked Shot,815,BLOCKED_SHOT,Kevin Fiala shot blocked shot by Jeremy Lauzon,2022-10-19T03:40:52Z,3,04:33,15:27,3,1,18.0,Nashville Predators,NSH
+217,18,26,Nashville Predators,Los Angeles Kings,2022020052758,2022020052,Penalty,758,PENALTY,Jeremy Lauzon Cross-checking against Kevin Fiala,2022-10-19T03:41:01Z,3,04:42,15:18,3,1,18.0,Nashville Predators,NSH
+218,18,26,Nashville Predators,Los Angeles Kings,2022020052816,2022020052,Faceoff,816,FACEOFF,Colton Sissons faceoff won against Phillip Danault,2022-10-19T03:41:40Z,3,04:42,15:18,3,1,18.0,Nashville Predators,NSH
+219,18,26,Nashville Predators,Los Angeles Kings,2022020052817,2022020052,Blocked Shot,817,BLOCKED_SHOT,Viktor Arvidsson shot blocked shot by Mattias Ekholm,2022-10-19T03:42:00Z,3,05:02,14:58,3,1,18.0,Nashville Predators,NSH
+220,18,26,Nashville Predators,Los Angeles Kings,2022020052818,2022020052,Shot,818,SHOT,Tanner Jeannot Snap Shot saved by Cal Petersen,2022-10-19T03:42:11Z,3,05:13,14:47,3,1,18.0,Nashville Predators,NSH
+221,18,26,Nashville Predators,Los Angeles Kings,2022020052381,2022020052,Hit,381,HIT,Tanner Jeannot hit Phillip Danault,2022-10-19T03:42:17Z,3,05:19,14:41,3,1,18.0,Nashville Predators,NSH
+222,18,26,Nashville Predators,Los Angeles Kings,2022020052819,2022020052,Shot,819,SHOT,Arthur Kaliyev Slap Shot saved by Juuse Saros,2022-10-19T03:42:29Z,3,05:31,14:29,3,1,26.0,Los Angeles Kings,LAK
+223,18,26,Nashville Predators,Los Angeles Kings,2022020052826,2022020052,Blocked Shot,826,BLOCKED_SHOT,Phillip Danault shot blocked shot by Mattias Ekholm,2022-10-19T03:42:30Z,3,05:32,14:28,3,1,18.0,Nashville Predators,NSH
+224,18,26,Nashville Predators,Los Angeles Kings,2022020052827,2022020052,Blocked Shot,827,BLOCKED_SHOT,Arthur Kaliyev shot blocked shot by Ryan McDonagh,2022-10-19T03:42:38Z,3,05:40,14:20,3,1,18.0,Nashville Predators,NSH
+225,18,26,Nashville Predators,Los Angeles Kings,2022020052820,2022020052,Blocked Shot,820,BLOCKED_SHOT,Drew Doughty shot blocked shot by Eeli Tolvanen,2022-10-19T03:43:29Z,3,06:31,13:29,3,1,18.0,Nashville Predators,NSH
+226,18,26,Nashville Predators,Los Angeles Kings,2022020052552,2022020052,Stoppage,552,STOP,Icing,2022-10-19T03:44:02Z,3,07:04,12:56,3,1,,,
+227,18,26,Nashville Predators,Los Angeles Kings,2022020052821,2022020052,Faceoff,821,FACEOFF,Colton Sissons faceoff won against Blake Lizotte,2022-10-19T03:44:31Z,3,07:04,12:56,3,1,18.0,Nashville Predators,NSH
+228,18,26,Nashville Predators,Los Angeles Kings,2022020052382,2022020052,Hit,382,HIT,Carl Grundstrom hit Jeremy Lauzon,2022-10-19T03:45:18Z,3,07:51,12:09,3,1,26.0,Los Angeles Kings,LAK
+229,18,26,Nashville Predators,Los Angeles Kings,2022020052383,2022020052,Hit,383,HIT,Jeremy Lauzon hit Blake Lizotte,2022-10-19T03:45:27Z,3,08:00,12:00,3,1,18.0,Nashville Predators,NSH
+230,18,26,Nashville Predators,Los Angeles Kings,2022020052822,2022020052,Blocked Shot,822,BLOCKED_SHOT,Sean Durzi shot blocked shot by Mikael Granlund,2022-10-19T03:45:34Z,3,08:07,11:53,3,1,18.0,Nashville Predators,NSH
+231,18,26,Nashville Predators,Los Angeles Kings,2022020052823,2022020052,Blocked Shot,823,BLOCKED_SHOT,Sean Durzi shot blocked shot by Filip Forsberg,2022-10-19T03:45:57Z,3,08:30,11:30,3,1,18.0,Nashville Predators,NSH
+232,18,26,Nashville Predators,Los Angeles Kings,2022020052824,2022020052,Shot,824,SHOT,Matt Roy Wrist Shot saved by Juuse Saros,2022-10-19T03:46:06Z,3,08:39,11:21,3,1,26.0,Los Angeles Kings,LAK
+233,18,26,Nashville Predators,Los Angeles Kings,2022020052825,2022020052,Shot,825,SHOT,Phillip Danault Snap Shot saved by Juuse Saros,2022-10-19T03:46:08Z,3,08:41,11:19,3,1,26.0,Los Angeles Kings,LAK
+234,18,26,Nashville Predators,Los Angeles Kings,2022020052553,2022020052,Stoppage,553,STOP,Goalie Stopped,2022-10-19T03:46:08Z,3,08:42,11:18,3,1,,,
+235,18,26,Nashville Predators,Los Angeles Kings,2022020052828,2022020052,Faceoff,828,FACEOFF,Viktor Arvidsson faceoff won against Ryan Johansen,2022-10-19T03:48:42Z,3,08:42,11:18,3,1,26.0,Los Angeles Kings,LAK
+236,18,26,Nashville Predators,Los Angeles Kings,2022020052829,2022020052,Missed Shot,829,MISSED_SHOT,Viktor Arvidsson Wide of Net Juuse Saros,2022-10-19T03:48:48Z,3,08:48,11:12,3,1,26.0,Los Angeles Kings,LAK
+237,18,26,Nashville Predators,Los Angeles Kings,2022020052830,2022020052,Blocked Shot,830,BLOCKED_SHOT,Nino Niederreiter shot blocked shot by Brandt Clarke,2022-10-19T03:49:20Z,3,09:20,10:40,3,1,26.0,Los Angeles Kings,LAK
+238,18,26,Nashville Predators,Los Angeles Kings,2022020052384,2022020052,Hit,384,HIT,Dante Fabbro hit Brandt Clarke,2022-10-19T03:49:27Z,3,09:27,10:33,3,1,18.0,Nashville Predators,NSH
+239,18,26,Nashville Predators,Los Angeles Kings,2022020052385,2022020052,Hit,385,HIT,Cole Smith hit Quinton Byfield,2022-10-19T03:49:40Z,3,09:40,10:20,3,1,18.0,Nashville Predators,NSH
+240,18,26,Nashville Predators,Los Angeles Kings,2022020052386,2022020052,Hit,386,HIT,Sean Walker hit Cody Glass,2022-10-19T03:49:56Z,3,09:56,10:04,3,1,26.0,Los Angeles Kings,LAK
+241,18,26,Nashville Predators,Los Angeles Kings,2022020052554,2022020052,Stoppage,554,STOP,TV timeout,2022-10-19T03:50:12Z,3,10:12,09:48,3,1,,,
+242,18,26,Nashville Predators,Los Angeles Kings,2022020052761,2022020052,Penalty,761,PENALTY,Cole Smith Interference against Quinton Byfield,2022-10-19T03:50:12Z,3,10:12,09:48,3,1,18.0,Nashville Predators,NSH
+243,18,26,Nashville Predators,Los Angeles Kings,2022020052831,2022020052,Faceoff,831,FACEOFF,Anze Kopitar faceoff won against Colton Sissons,2022-10-19T03:52:37Z,3,10:12,09:48,3,1,26.0,Los Angeles Kings,LAK
+244,18,26,Nashville Predators,Los Angeles Kings,2022020052832,2022020052,Shot,832,SHOT,Gabriel Vilardi Snap Shot saved by Juuse Saros,2022-10-19T03:52:46Z,3,10:21,09:39,3,1,26.0,Los Angeles Kings,LAK
+245,18,26,Nashville Predators,Los Angeles Kings,2022020052834,2022020052,Shot,834,SHOT,Gabriel Vilardi Snap Shot saved by Juuse Saros,2022-10-19T03:52:46Z,3,10:21,09:39,3,1,26.0,Los Angeles Kings,LAK
+246,18,26,Nashville Predators,Los Angeles Kings,2022020052387,2022020052,Hit,387,HIT,Mattias Ekholm hit Gabriel Vilardi,2022-10-19T03:52:47Z,3,10:22,09:38,3,1,18.0,Nashville Predators,NSH
+247,18,26,Nashville Predators,Los Angeles Kings,2022020052843,2022020052,Shot,843,SHOT,Kevin Fiala Snap Shot saved by Juuse Saros,2022-10-19T03:52:47Z,3,10:22,09:38,3,1,26.0,Los Angeles Kings,LAK
+248,18,26,Nashville Predators,Los Angeles Kings,2022020052845,2022020052,Shot,845,SHOT,Kevin Fiala Snap Shot saved by Juuse Saros,2022-10-19T03:52:47Z,3,10:22,09:38,3,1,26.0,Los Angeles Kings,LAK
+249,18,26,Nashville Predators,Los Angeles Kings,2022020052833,2022020052,Blocked Shot,833,BLOCKED_SHOT,Adrian Kempe shot blocked shot by Ryan McDonagh,2022-10-19T03:53:26Z,3,11:01,08:59,3,1,18.0,Nashville Predators,NSH
+250,18,26,Nashville Predators,Los Angeles Kings,2022020052388,2022020052,Giveaway,388,GIVEAWAY,Giveaway by Gabriel Vilardi,2022-10-19T03:53:43Z,3,11:18,08:42,3,1,26.0,Los Angeles Kings,LAK
+251,18,26,Nashville Predators,Los Angeles Kings,2022020052555,2022020052,Stoppage,555,STOP,Goalie Stopped,2022-10-19T03:54:15Z,3,11:50,08:10,3,1,,,
+252,18,26,Nashville Predators,Los Angeles Kings,2022020052835,2022020052,Shot,835,SHOT,Arthur Kaliyev Snap Shot saved by Juuse Saros,2022-10-19T03:54:15Z,3,11:50,08:10,3,1,26.0,Los Angeles Kings,LAK
+253,18,26,Nashville Predators,Los Angeles Kings,2022020052836,2022020052,Faceoff,836,FACEOFF,Viktor Arvidsson faceoff won against Colton Sissons,2022-10-19T03:54:46Z,3,11:50,08:10,3,1,26.0,Los Angeles Kings,LAK
+254,18,26,Nashville Predators,Los Angeles Kings,2022020052389,2022020052,Hit,389,HIT,Carl Grundstrom hit Mikael Granlund,2022-10-19T03:55:36Z,3,12:40,07:20,3,1,26.0,Los Angeles Kings,LAK
+255,18,26,Nashville Predators,Los Angeles Kings,2022020052837,2022020052,Goal,837,GOAL,"Matt Roy (2) Deflected, assists: Brendan Lemieux (2)",2022-10-19T03:55:56Z,3,13:00,07:00,3,2,26.0,Los Angeles Kings,LAK
+256,18,26,Nashville Predators,Los Angeles Kings,2022020052556,2022020052,Faceoff,556,FACEOFF,Anze Kopitar faceoff won against Ryan Johansen,2022-10-19T03:56:45Z,3,13:00,07:00,3,2,26.0,Los Angeles Kings,LAK
+257,18,26,Nashville Predators,Los Angeles Kings,2022020052390,2022020052,Takeaway,390,TAKEAWAY,Takeaway by Brandt Clarke,2022-10-19T03:57:00Z,3,13:15,06:45,3,2,26.0,Los Angeles Kings,LAK
+258,18,26,Nashville Predators,Los Angeles Kings,2022020052838,2022020052,Shot,838,SHOT,Brandt Clarke Deflected saved by Juuse Saros,2022-10-19T03:57:07Z,3,13:22,06:38,3,2,26.0,Los Angeles Kings,LAK
+259,18,26,Nashville Predators,Los Angeles Kings,2022020052839,2022020052,Blocked Shot,839,BLOCKED_SHOT,Adrian Kempe shot blocked shot by Ryan Johansen,2022-10-19T03:57:17Z,3,13:32,06:28,3,2,18.0,Nashville Predators,NSH
+260,18,26,Nashville Predators,Los Angeles Kings,2022020052840,2022020052,Missed Shot,840,MISSED_SHOT,Nino Niederreiter Goalpost Cal Petersen,2022-10-19T03:57:29Z,3,13:44,06:16,3,2,18.0,Nashville Predators,NSH
+261,18,26,Nashville Predators,Los Angeles Kings,2022020052391,2022020052,Hit,391,HIT,Nino Niederreiter hit Adrian Kempe,2022-10-19T03:57:30Z,3,13:45,06:15,3,2,18.0,Nashville Predators,NSH
+262,18,26,Nashville Predators,Los Angeles Kings,2022020052841,2022020052,Missed Shot,841,MISSED_SHOT,Tanner  Jeannot Wide of Net Cal Petersen,2022-10-19T03:58:04Z,3,14:19,05:41,3,2,18.0,Nashville Predators,NSH
+263,18,26,Nashville Predators,Los Angeles Kings,2022020052392,2022020052,Hit,392,HIT,Phillip Danault hit Colton Sissons,2022-10-19T03:58:22Z,3,14:37,05:23,3,2,26.0,Los Angeles Kings,LAK
+264,18,26,Nashville Predators,Los Angeles Kings,2022020052557,2022020052,Stoppage,557,STOP,Goalie Stopped,2022-10-19T03:58:36Z,3,14:51,05:09,3,2,,,
+265,18,26,Nashville Predators,Los Angeles Kings,2022020052842,2022020052,Shot,842,SHOT,Mattias Ekholm Slap Shot saved by Cal Petersen,2022-10-19T03:58:36Z,3,14:51,05:09,3,2,18.0,Nashville Predators,NSH
+266,18,26,Nashville Predators,Los Angeles Kings,2022020052846,2022020052,Faceoff,846,FACEOFF,Quinton Byfield faceoff won against Cody Glass,2022-10-19T04:01:02Z,3,14:51,05:09,3,2,26.0,Los Angeles Kings,LAK
+267,18,26,Nashville Predators,Los Angeles Kings,2022020052393,2022020052,Hit,393,HIT,Gabriel Vilardi hit Jeremy Lauzon,2022-10-19T04:01:36Z,3,15:25,04:35,3,2,26.0,Los Angeles Kings,LAK
+268,18,26,Nashville Predators,Los Angeles Kings,2022020052558,2022020052,Stoppage,558,STOP,Icing,2022-10-19T04:01:40Z,3,15:29,04:31,3,2,,,
+269,18,26,Nashville Predators,Los Angeles Kings,2022020052847,2022020052,Faceoff,847,FACEOFF,Cody Glass faceoff won against Phillip Danault,2022-10-19T04:02:01Z,3,15:29,04:31,3,2,18.0,Nashville Predators,NSH
+270,18,26,Nashville Predators,Los Angeles Kings,2022020052394,2022020052,Takeaway,394,TAKEAWAY,Takeaway by Filip Forsberg,2022-10-19T04:02:32Z,3,16:00,04:00,3,2,18.0,Nashville Predators,NSH
+271,18,26,Nashville Predators,Los Angeles Kings,20220200521047,2022020052,Penalty,1047,PENALTY,Viktor Arvidsson Tripping against Mikael Granlund,2022-10-19T04:02:39Z,3,16:08,03:52,3,2,26.0,Los Angeles Kings,LAK
+272,18,26,Nashville Predators,Los Angeles Kings,2022020052848,2022020052,Faceoff,848,FACEOFF,Blake Lizotte faceoff won against Ryan Johansen,2022-10-19T04:03:23Z,3,16:08,03:52,3,2,26.0,Los Angeles Kings,LAK
+273,18,26,Nashville Predators,Los Angeles Kings,2022020052395,2022020052,Giveaway,395,GIVEAWAY,Giveaway by Filip Forsberg,2022-10-19T04:03:56Z,3,16:41,03:19,3,2,18.0,Nashville Predators,NSH
+274,18,26,Nashville Predators,Los Angeles Kings,20220200521104,2022020052,Penalty,1104,PENALTY,Matt Duchene Slashing against Drew Doughty,2022-10-19T04:04:02Z,3,16:47,03:13,3,2,18.0,Nashville Predators,NSH
+275,18,26,Nashville Predators,Los Angeles Kings,2022020052849,2022020052,Faceoff,849,FACEOFF,Colton Sissons faceoff won against Phillip Danault,2022-10-19T04:04:46Z,3,16:47,03:13,3,2,18.0,Nashville Predators,NSH
+276,18,26,Nashville Predators,Los Angeles Kings,2022020052850,2022020052,Missed Shot,850,MISSED_SHOT,Phillip Danault Wide of Net Juuse Saros,2022-10-19T04:05:17Z,3,17:18,02:42,3,2,26.0,Los Angeles Kings,LAK
+277,18,26,Nashville Predators,Los Angeles Kings,2022020052560,2022020052,Stoppage,560,STOP,Icing,2022-10-19T04:05:28Z,3,17:28,02:32,3,2,,,
+278,18,26,Nashville Predators,Los Angeles Kings,20220200521051,2022020052,Faceoff,1051,FACEOFF,Quinton Byfield faceoff won against Nino Niederreiter,2022-10-19T04:05:56Z,3,17:28,02:32,3,2,26.0,Los Angeles Kings,LAK
+279,18,26,Nashville Predators,Los Angeles Kings,20220200521052,2022020052,Missed Shot,1052,MISSED_SHOT,Matt Roy Wide of Net Juuse Saros,2022-10-19T04:06:07Z,3,17:39,02:21,3,2,26.0,Los Angeles Kings,LAK
+280,18,26,Nashville Predators,Los Angeles Kings,20220200521053,2022020052,Goal,1053,GOAL,"Matt Roy (3) Snap Shot, assists: Gabriel Vilardi (3), Quinton Byfield (3)",2022-10-19T04:06:20Z,3,17:52,02:08,3,3,26.0,Los Angeles Kings,LAK
+281,18,26,Nashville Predators,Los Angeles Kings,2022020052561,2022020052,Faceoff,561,FACEOFF,Colton Sissons faceoff won against Anze Kopitar,2022-10-19T04:07:06Z,3,17:52,02:08,3,3,18.0,Nashville Predators,NSH
+282,18,26,Nashville Predators,Los Angeles Kings,2022020052396,2022020052,Takeaway,396,TAKEAWAY,Takeaway by Adrian Kempe,2022-10-19T04:07:16Z,3,18:02,01:58,3,3,26.0,Los Angeles Kings,LAK
+283,18,26,Nashville Predators,Los Angeles Kings,20220200521054,2022020052,Missed Shot,1054,MISSED_SHOT,Drew Doughty Over Net Juuse Saros,2022-10-19T04:07:21Z,3,18:07,01:53,3,3,26.0,Los Angeles Kings,LAK
+284,18,26,Nashville Predators,Los Angeles Kings,2022020052562,2022020052,Stoppage,562,STOP,Offside,2022-10-19T04:07:52Z,3,18:38,01:22,3,3,,,
+285,18,26,Nashville Predators,Los Angeles Kings,20220200521055,2022020052,Faceoff,1055,FACEOFF,Mikael Granlund faceoff won against Viktor Arvidsson,2022-10-19T04:08:14Z,3,18:38,01:22,3,3,18.0,Nashville Predators,NSH
+286,18,26,Nashville Predators,Los Angeles Kings,20220200521056,2022020052,Shot,1056,SHOT,Phillip Danault Wrist Shot saved by Juuse Saros,2022-10-19T04:08:51Z,3,19:15,00:45,3,3,26.0,Los Angeles Kings,LAK
+287,18,26,Nashville Predators,Los Angeles Kings,2022020052398,2022020052,Hit,398,HIT,Nino Niederreiter hit Sean Durzi,2022-10-19T04:09:22Z,3,19:46,00:14,3,3,18.0,Nashville Predators,NSH
+288,18,26,Nashville Predators,Los Angeles Kings,2022020052563,2022020052,Period End,563,PERIOD_END,End of 3rd Period,2022-10-19T04:09:37Z,3,20:00,00:00,3,3,,,
+289,18,26,Nashville Predators,Los Angeles Kings,2022020052566,2022020052,Period Official,566,PERIOD_OFFICIAL,Period Official,2022-10-19T04:09:56Z,3,20:00,00:00,3,3,,,
+290,18,26,Nashville Predators,Los Angeles Kings,2022020052567,2022020052,Period Ready,567,PERIOD_READY,Period Ready,2022-10-19T04:11:20Z,4,00:00,05:00,3,3,,,
+291,18,26,Nashville Predators,Los Angeles Kings,20220200521057,2022020052,Period Start,1057,PERIOD_START,Period Start,2022-10-19T04:11:55Z,4,00:00,05:00,3,3,,,
+292,18,26,Nashville Predators,Los Angeles Kings,20220200521058,2022020052,Faceoff,1058,FACEOFF,Ryan Johansen faceoff won against Anze Kopitar,2022-10-19T04:11:55Z,4,00:00,05:00,3,3,18.0,Nashville Predators,NSH
+293,18,26,Nashville Predators,Los Angeles Kings,2022020052399,2022020052,Takeaway,399,TAKEAWAY,Takeaway by Filip Forsberg,2022-10-19T04:12:46Z,4,00:51,04:09,3,3,18.0,Nashville Predators,NSH
+294,18,26,Nashville Predators,Los Angeles Kings,2022020052568,2022020052,Stoppage,568,STOP,Offside,2022-10-19T04:12:50Z,4,00:54,04:06,3,3,,,
+295,18,26,Nashville Predators,Los Angeles Kings,20220200521059,2022020052,Faceoff,1059,FACEOFF,Phillip Danault faceoff won against Mikael Granlund,2022-10-19T04:13:11Z,4,00:54,04:06,3,3,26.0,Los Angeles Kings,LAK
+296,18,26,Nashville Predators,Los Angeles Kings,20220200521060,2022020052,Shot,1060,SHOT,Sean Durzi Wrist Shot saved by Juuse Saros,2022-10-19T04:13:26Z,4,01:09,03:51,3,3,26.0,Los Angeles Kings,LAK
+297,18,26,Nashville Predators,Los Angeles Kings,2022020052569,2022020052,Stoppage,569,STOP,Goalie Stopped,2022-10-19T04:13:27Z,4,01:10,03:50,3,3,,,
+298,18,26,Nashville Predators,Los Angeles Kings,20220200521061,2022020052,Faceoff,1061,FACEOFF,Mikael Granlund faceoff won against Gabriel Vilardi,2022-10-19T04:13:54Z,4,01:10,03:50,3,3,18.0,Nashville Predators,NSH
+299,18,26,Nashville Predators,Los Angeles Kings,20220200521062,2022020052,Missed Shot,1062,MISSED_SHOT,Mattias Ekholm Wide of Net Cal Petersen,2022-10-19T04:14:05Z,4,01:21,03:39,3,3,18.0,Nashville Predators,NSH
+300,18,26,Nashville Predators,Los Angeles Kings,2022020052570,2022020052,Shot,570,SHOT,Matt Duchene Wrist Shot saved by Cal Petersen,2022-10-19T04:14:17Z,4,01:33,03:27,3,3,18.0,Nashville Predators,NSH
+301,18,26,Nashville Predators,Los Angeles Kings,2022020052400,2022020052,Hit,400,HIT,Roman Josi hit Kevin Fiala,2022-10-19T04:14:45Z,4,02:01,02:59,3,3,18.0,Nashville Predators,NSH
+302,18,26,Nashville Predators,Los Angeles Kings,20220200521063,2022020052,Missed Shot,1063,MISSED_SHOT,Nino Niederreiter Over Net Cal Petersen,2022-10-19T04:14:59Z,4,02:15,02:45,3,3,18.0,Nashville Predators,NSH
+303,18,26,Nashville Predators,Los Angeles Kings,20220200521064,2022020052,Shot,1064,SHOT,Roman Josi Snap Shot saved by Cal Petersen,2022-10-19T04:15:15Z,4,02:31,02:29,3,3,18.0,Nashville Predators,NSH
+304,18,26,Nashville Predators,Los Angeles Kings,20220200521065,2022020052,Missed Shot,1065,MISSED_SHOT,Nino Niederreiter Wide of Net Cal Petersen,2022-10-19T04:15:23Z,4,02:39,02:21,3,3,18.0,Nashville Predators,NSH
+305,18,26,Nashville Predators,Los Angeles Kings,20220200521066,2022020052,Shot,1066,SHOT,Drew Doughty Wrist Shot saved by Juuse Saros,2022-10-19T04:15:42Z,4,02:58,02:02,3,3,26.0,Los Angeles Kings,LAK
+306,18,26,Nashville Predators,Los Angeles Kings,2022020052571,2022020052,Stoppage,571,STOP,Goalie Stopped,2022-10-19T04:15:43Z,4,02:59,02:01,3,3,,,
+307,18,26,Nashville Predators,Los Angeles Kings,20220200521067,2022020052,Faceoff,1067,FACEOFF,Mikael Granlund faceoff won against Anze Kopitar,2022-10-19T04:16:13Z,4,02:59,02:01,3,3,18.0,Nashville Predators,NSH
+308,18,26,Nashville Predators,Los Angeles Kings,20220200521068,2022020052,Shot,1068,SHOT,Filip Forsberg Wrist Shot saved by Cal Petersen,2022-10-19T04:16:23Z,4,03:09,01:51,3,3,18.0,Nashville Predators,NSH
+309,18,26,Nashville Predators,Los Angeles Kings,20220200521146,2022020052,Penalty,1146,PENALTY,Drew Doughty Holding against Filip Forsberg,2022-10-19T04:16:26Z,4,03:12,01:48,3,3,26.0,Los Angeles Kings,LAK
+310,18,26,Nashville Predators,Los Angeles Kings,20220200521069,2022020052,Faceoff,1069,FACEOFF,Mikael Granlund faceoff won against Phillip Danault,2022-10-19T04:17:20Z,4,03:12,01:48,3,3,18.0,Nashville Predators,NSH
+311,18,26,Nashville Predators,Los Angeles Kings,20220200521070,2022020052,Shot,1070,SHOT,Roman Josi Wrist Shot saved by Cal Petersen,2022-10-19T04:17:30Z,4,03:22,01:38,3,3,18.0,Nashville Predators,NSH
+312,18,26,Nashville Predators,Los Angeles Kings,20220200521071,2022020052,Shot,1071,SHOT,Roman Josi Wrist Shot saved by Cal Petersen,2022-10-19T04:18:01Z,4,03:53,01:07,3,3,18.0,Nashville Predators,NSH
+313,18,26,Nashville Predators,Los Angeles Kings,20220200521082,2022020052,Blocked Shot,1082,BLOCKED_SHOT,Matt Duchene shot blocked shot by Mikey Anderson,2022-10-19T04:18:04Z,4,03:56,01:04,3,3,26.0,Los Angeles Kings,LAK
+314,18,26,Nashville Predators,Los Angeles Kings,20220200521073,2022020052,Missed Shot,1073,MISSED_SHOT,Mikael Granlund Wide of Net Cal Petersen,2022-10-19T04:18:25Z,4,04:17,00:43,3,3,18.0,Nashville Predators,NSH
+315,18,26,Nashville Predators,Los Angeles Kings,20220200521075,2022020052,Shot,1075,SHOT,Roman Josi Wrist Shot saved by Cal Petersen,2022-10-19T04:18:58Z,4,04:50,00:10,3,3,18.0,Nashville Predators,NSH
+316,18,26,Nashville Predators,Los Angeles Kings,2022020052572,2022020052,Period End,572,PERIOD_END,End of OT,2022-10-19T04:19:08Z,4,05:00,00:00,3,3,,,
+317,18,26,Nashville Predators,Los Angeles Kings,2022020052575,2022020052,Period Official,575,PERIOD_OFFICIAL,Period Official,2022-10-19T04:19:19Z,4,05:00,00:00,3,3,,,
+318,18,26,Nashville Predators,Los Angeles Kings,2022020052576,2022020052,Period Ready,576,PERIOD_READY,Period Ready,2022-10-19T04:20:10Z,5,00:00,00:00,3,3,,,
+319,18,26,Nashville Predators,Los Angeles Kings,2022020052577,2022020052,Period Start,577,PERIOD_START,Period Start,2022-10-19T04:20:20Z,5,00:00,00:00,3,3,,,
+320,18,26,Nashville Predators,Los Angeles Kings,20220200521076,2022020052,Shot,1076,SHOT,Filip Forsberg Wrist Shot saved by Cal Petersen,2022-10-19T04:20:47Z,5,00:00,00:00,3,3,18.0,Nashville Predators,NSH
+321,18,26,Nashville Predators,Los Angeles Kings,20220200521077,2022020052,Shot,1077,SHOT,Kevin Fiala Wrist Shot saved by Juuse Saros,2022-10-19T04:21:10Z,5,00:00,00:00,3,3,26.0,Los Angeles Kings,LAK
+322,18,26,Nashville Predators,Los Angeles Kings,20220200521078,2022020052,Shot,1078,SHOT,Matt Duchene Wrist Shot saved by Cal Petersen,2022-10-19T04:21:39Z,5,00:00,00:00,3,3,18.0,Nashville Predators,NSH
+323,18,26,Nashville Predators,Los Angeles Kings,20220200521079,2022020052,Goal,1079,GOAL,Gabriel Vilardi - Wrist Shot,2022-10-19T04:22:05Z,5,00:00,00:00,3,3,26.0,Los Angeles Kings,LAK
+324,18,26,Nashville Predators,Los Angeles Kings,2022020052578,2022020052,Period End,578,PERIOD_END,End of OT,2022-10-19T04:22:39Z,5,00:00,00:00,3,3,,,
+325,18,26,Nashville Predators,Los Angeles Kings,20220200521080,2022020052,Shot,1080,SHOT,Roman Josi Wrist Shot saved by Cal Petersen,2022-10-19T04:22:39Z,5,00:00,00:00,3,3,18.0,Nashville Predators,NSH
+326,18,26,Nashville Predators,Los Angeles Kings,20220200521081,2022020052,Shootout Complete,1081,SHOOTOUT_COMPLETE,End of Shootout,2022-10-19T04:22:39Z,5,00:00,00:00,3,3,,,
+327,18,26,Nashville Predators,Los Angeles Kings,2022020052581,2022020052,Period Official,581,PERIOD_OFFICIAL,Period Official,2022-10-19T04:23:01Z,5,00:00,00:00,3,3,,,
+328,18,26,Nashville Predators,Los Angeles Kings,2022020052582,2022020052,Game End,582,GAME_END,Game End,2022-10-19T04:23:04Z,5,00:00,00:00,3,3,,,
+329,18,26,Nashville Predators,Los Angeles Kings,2022020052583,2022020052,Game Official,583,GAME_OFFICIAL,Game Official,2022-10-19T04:38:30Z,5,00:00,00:00,3,3,,,

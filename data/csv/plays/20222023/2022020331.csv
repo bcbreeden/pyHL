@@ -1,0 +1,378 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,28,26,San Jose Sharks,Los Angeles Kings,20220203311,2022020331,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-11-26T02:45:44Z,1,00:00,20:00,0,0,,,
+1,28,26,San Jose Sharks,Los Angeles Kings,20220203315,2022020331,Period Ready,5,PERIOD_READY,Period Ready,2022-11-26T03:37:36Z,1,00:00,20:00,0,0,,,
+2,28,26,San Jose Sharks,Los Angeles Kings,2022020331101,2022020331,Period Start,101,PERIOD_START,Period Start,2022-11-26T03:38:28Z,1,00:00,20:00,0,0,,,
+3,28,26,San Jose Sharks,Los Angeles Kings,2022020331102,2022020331,Faceoff,102,FACEOFF,Logan Couture faceoff won against Anze Kopitar,2022-11-26T03:38:28Z,1,00:00,20:00,0,0,28.0,San Jose Sharks,SJS
+4,28,26,San Jose Sharks,Los Angeles Kings,2022020331151,2022020331,Hit,151,HIT,Alexander Barabanov hit Mikey Anderson,2022-11-26T03:38:37Z,1,00:10,19:50,0,0,28.0,San Jose Sharks,SJS
+5,28,26,San Jose Sharks,Los Angeles Kings,2022020331152,2022020331,Stoppage,152,STOP,Challenge Home: off-side,2022-11-26T03:38:40Z,1,00:13,19:47,0,0,,,
+6,28,26,San Jose Sharks,Los Angeles Kings,2022020331155,2022020331,Stoppage,155,STOP,Offside,2022-11-26T03:38:40Z,1,00:13,19:47,0,0,,,
+7,28,26,San Jose Sharks,Los Angeles Kings,2022020331602,2022020331,Official Challenge,602,CHALLENGE,Coach's Challenge,2022-11-26T03:38:40Z,1,00:13,19:47,0,0,28.0,San Jose Sharks,SJS
+8,28,26,San Jose Sharks,Los Angeles Kings,2022020331104,2022020331,Faceoff,104,FACEOFF,Tomas Hertl faceoff won against Phillip Danault,2022-11-26T03:41:15Z,1,00:13,19:47,0,0,28.0,San Jose Sharks,SJS
+9,28,26,San Jose Sharks,Los Angeles Kings,20220203319,2022020331,Shot,9,SHOT,Tomas Hertl Wrist Shot saved by Jonathan Quick,2022-11-26T03:41:46Z,1,00:44,19:16,0,0,28.0,San Jose Sharks,SJS
+10,28,26,San Jose Sharks,Los Angeles Kings,202202033110,2022020331,Shot,10,SHOT,Erik Karlsson Wrist Shot saved by Jonathan Quick,2022-11-26T03:41:47Z,1,00:45,19:15,0,0,28.0,San Jose Sharks,SJS
+11,28,26,San Jose Sharks,Los Angeles Kings,2022020331154,2022020331,Stoppage,154,STOP,Offside,2022-11-26T03:41:49Z,1,00:47,19:13,0,0,,,
+12,28,26,San Jose Sharks,Los Angeles Kings,2022020331107,2022020331,Faceoff,107,FACEOFF,Gabriel Vilardi faceoff won against Nick Bonino,2022-11-26T03:42:36Z,1,00:47,19:13,0,0,26.0,Los Angeles Kings,LAK
+13,28,26,San Jose Sharks,Los Angeles Kings,202202033159,2022020331,Penalty,59,PENALTY,Blake Lizotte Tripping against Noah Gregor,2022-11-26T03:42:58Z,1,01:10,18:50,0,0,26.0,Los Angeles Kings,LAK
+14,28,26,San Jose Sharks,Los Angeles Kings,2022020331108,2022020331,Faceoff,108,FACEOFF,Tomas Hertl faceoff won against Anze Kopitar,2022-11-26T03:43:41Z,1,01:10,18:50,0,0,28.0,San Jose Sharks,SJS
+15,28,26,San Jose Sharks,Los Angeles Kings,202202033111,2022020331,Blocked Shot,11,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Anze Kopitar,2022-11-26T03:43:48Z,1,01:17,18:43,0,0,26.0,Los Angeles Kings,LAK
+16,28,26,San Jose Sharks,Los Angeles Kings,202202033112,2022020331,Shot,12,SHOT,Timo Meier Slap Shot saved by Jonathan Quick,2022-11-26T03:44:21Z,1,01:50,18:10,0,0,28.0,San Jose Sharks,SJS
+17,28,26,San Jose Sharks,Los Angeles Kings,2022020331156,2022020331,Stoppage,156,STOP,Puck in Crowd,2022-11-26T03:44:24Z,1,01:53,18:07,0,0,,,
+18,28,26,San Jose Sharks,Los Angeles Kings,2022020331109,2022020331,Faceoff,109,FACEOFF,Phillip Danault faceoff won against Logan Couture,2022-11-26T03:44:53Z,1,01:53,18:07,0,0,26.0,Los Angeles Kings,LAK
+19,28,26,San Jose Sharks,Los Angeles Kings,202202033113,2022020331,Shot,13,SHOT,Trevor Moore Wrist Shot saved by James Reimer,2022-11-26T03:45:02Z,1,02:02,17:58,0,0,26.0,Los Angeles Kings,LAK
+20,28,26,San Jose Sharks,Los Angeles Kings,202202033114,2022020331,Shot,14,SHOT,Timo Meier Wrist Shot saved by Jonathan Quick,2022-11-26T03:45:40Z,1,02:40,17:20,0,0,28.0,San Jose Sharks,SJS
+21,28,26,San Jose Sharks,Los Angeles Kings,2022020331157,2022020331,Stoppage,157,STOP,Goalie Stopped,2022-11-26T03:45:41Z,1,02:41,17:19,0,0,,,
+22,28,26,San Jose Sharks,Los Angeles Kings,2022020331110,2022020331,Faceoff,110,FACEOFF,Rasmus Kupari faceoff won against Nick Bonino,2022-11-26T03:46:05Z,1,02:41,17:19,0,0,26.0,Los Angeles Kings,LAK
+23,28,26,San Jose Sharks,Los Angeles Kings,202202033115,2022020331,Blocked Shot,15,BLOCKED_SHOT,Kevin Labanc shot blocked shot by Sean Durzi,2022-11-26T03:46:10Z,1,02:46,17:14,0,0,26.0,Los Angeles Kings,LAK
+24,28,26,San Jose Sharks,Los Angeles Kings,2022020331158,2022020331,Stoppage,158,STOP,Offside,2022-11-26T03:46:50Z,1,03:26,16:34,0,0,,,
+25,28,26,San Jose Sharks,Los Angeles Kings,2022020331111,2022020331,Faceoff,111,FACEOFF,Steven Lorentz faceoff won against Rasmus Kupari,2022-11-26T03:47:27Z,1,03:26,16:34,0,0,28.0,San Jose Sharks,SJS
+26,28,26,San Jose Sharks,Los Angeles Kings,202202033116,2022020331,Shot,16,SHOT,Mikey Anderson Wrist Shot saved by James Reimer,2022-11-26T03:47:39Z,1,03:38,16:22,0,0,26.0,Los Angeles Kings,LAK
+27,28,26,San Jose Sharks,Los Angeles Kings,2022020331112,2022020331,Takeaway,112,TAKEAWAY,Takeaway by Marc-Edouard Vlasic,2022-11-26T03:47:48Z,1,03:47,16:13,0,0,28.0,San Jose Sharks,SJS
+28,28,26,San Jose Sharks,Los Angeles Kings,2022020331159,2022020331,Hit,159,HIT,Jaret Anderson-Dolan hit Matt Benning,2022-11-26T03:47:52Z,1,03:51,16:09,0,0,26.0,Los Angeles Kings,LAK
+29,28,26,San Jose Sharks,Los Angeles Kings,2022020331113,2022020331,Giveaway,113,GIVEAWAY,Giveaway by Adrian Kempe,2022-11-26T03:48:09Z,1,04:08,15:52,0,0,26.0,Los Angeles Kings,LAK
+30,28,26,San Jose Sharks,Los Angeles Kings,2022020331114,2022020331,Giveaway,114,GIVEAWAY,Giveaway by Matt Nieto,2022-11-26T03:48:19Z,1,04:18,15:42,0,0,28.0,San Jose Sharks,SJS
+31,28,26,San Jose Sharks,Los Angeles Kings,2022020331115,2022020331,Giveaway,115,GIVEAWAY,Giveaway by Sean Durzi,2022-11-26T03:48:29Z,1,04:28,15:32,0,0,26.0,Los Angeles Kings,LAK
+32,28,26,San Jose Sharks,Los Angeles Kings,202202033118,2022020331,Hit,18,HIT,Logan Couture hit Matt Roy,2022-11-26T03:48:31Z,1,04:30,15:30,0,0,28.0,San Jose Sharks,SJS
+33,28,26,San Jose Sharks,Los Angeles Kings,2022020331160,2022020331,Hit,160,HIT,Matt Nieto hit Sean Durzi,2022-11-26T03:48:31Z,1,04:30,15:30,0,0,28.0,San Jose Sharks,SJS
+34,28,26,San Jose Sharks,Los Angeles Kings,202202033119,2022020331,Hit,19,HIT,Logan Couture hit Kevin Fiala,2022-11-26T03:48:33Z,1,04:32,15:28,0,0,28.0,San Jose Sharks,SJS
+35,28,26,San Jose Sharks,Los Angeles Kings,2022020331116,2022020331,Takeaway,116,TAKEAWAY,Takeaway by Tomas Hertl,2022-11-26T03:49:00Z,1,04:59,15:01,0,0,28.0,San Jose Sharks,SJS
+36,28,26,San Jose Sharks,Los Angeles Kings,202202033117,2022020331,Shot,17,SHOT,Timo Meier Backhand saved by Jonathan Quick,2022-11-26T03:49:05Z,1,05:04,14:56,0,0,28.0,San Jose Sharks,SJS
+37,28,26,San Jose Sharks,Los Angeles Kings,202202033135,2022020331,Blocked Shot,35,BLOCKED_SHOT,Sean Durzi shot blocked shot by Mario Ferraro,2022-11-26T03:49:06Z,1,05:05,14:55,0,0,28.0,San Jose Sharks,SJS
+38,28,26,San Jose Sharks,Los Angeles Kings,2022020331161,2022020331,Stoppage,161,STOP,Goalie Stopped,2022-11-26T03:49:06Z,1,05:05,14:55,0,0,,,
+39,28,26,San Jose Sharks,Los Angeles Kings,2022020331117,2022020331,Faceoff,117,FACEOFF,Tomas Hertl faceoff won against Phillip Danault,2022-11-26T03:49:28Z,1,05:05,14:55,0,0,28.0,San Jose Sharks,SJS
+40,28,26,San Jose Sharks,Los Angeles Kings,202202033134,2022020331,Blocked Shot,34,BLOCKED_SHOT,Timo Meier shot blocked shot by Alexander Edler,2022-11-26T03:49:32Z,1,05:09,14:51,0,0,26.0,Los Angeles Kings,LAK
+41,28,26,San Jose Sharks,Los Angeles Kings,202202033120,2022020331,Shot,20,SHOT,Tomas Hertl Wrist Shot saved by Jonathan Quick,2022-11-26T03:49:34Z,1,05:11,14:49,0,0,28.0,San Jose Sharks,SJS
+42,28,26,San Jose Sharks,Los Angeles Kings,202202033121,2022020331,Shot,21,SHOT,Kevin Labanc Wrist Shot saved by Jonathan Quick,2022-11-26T03:49:48Z,1,05:25,14:35,0,0,28.0,San Jose Sharks,SJS
+43,28,26,San Jose Sharks,Los Angeles Kings,2022020331118,2022020331,Takeaway,118,TAKEAWAY,Takeaway by Phillip Danault,2022-11-26T03:49:56Z,1,05:33,14:27,0,0,26.0,Los Angeles Kings,LAK
+44,28,26,San Jose Sharks,Los Angeles Kings,2022020331162,2022020331,Hit,162,HIT,Noah Gregor hit Gabriel Vilardi,2022-11-26T03:50:22Z,1,05:59,14:01,0,0,28.0,San Jose Sharks,SJS
+45,28,26,San Jose Sharks,Los Angeles Kings,2022020331163,2022020331,Stoppage,163,STOP,Icing,2022-11-26T03:50:26Z,1,06:03,13:57,0,0,,,
+46,28,26,San Jose Sharks,Los Angeles Kings,2022020331119,2022020331,Faceoff,119,FACEOFF,Rasmus Kupari faceoff won against Nick Bonino,2022-11-26T03:50:52Z,1,06:03,13:57,0,0,26.0,Los Angeles Kings,LAK
+47,28,26,San Jose Sharks,Los Angeles Kings,2022020331120,2022020331,Takeaway,120,TAKEAWAY,Takeaway by Nick Bonino,2022-11-26T03:51:02Z,1,06:13,13:47,0,0,28.0,San Jose Sharks,SJS
+48,28,26,San Jose Sharks,Los Angeles Kings,2022020331164,2022020331,Hit,164,HIT,Jaret Anderson-Dolan hit Marc-Edouard Vlasic,2022-11-26T03:51:09Z,1,06:20,13:40,0,0,26.0,Los Angeles Kings,LAK
+49,28,26,San Jose Sharks,Los Angeles Kings,2022020331165,2022020331,Stoppage,165,STOP,TV timeout,2022-11-26T03:51:17Z,1,06:29,13:31,0,0,,,
+50,28,26,San Jose Sharks,Los Angeles Kings,2022020331202,2022020331,Penalty,202,PENALTY,Luke Kunin Boarding against Rasmus Kupari,2022-11-26T03:51:17Z,1,06:29,13:31,0,0,28.0,San Jose Sharks,SJS
+51,28,26,San Jose Sharks,Los Angeles Kings,2022020331121,2022020331,Faceoff,121,FACEOFF,Logan Couture faceoff won against Anze Kopitar,2022-11-26T03:53:44Z,1,06:29,13:31,0,0,28.0,San Jose Sharks,SJS
+52,28,26,San Jose Sharks,Los Angeles Kings,2022020331166,2022020331,Stoppage,166,STOP,Offside,2022-11-26T03:54:29Z,1,07:13,12:47,0,0,,,
+53,28,26,San Jose Sharks,Los Angeles Kings,2022020331122,2022020331,Faceoff,122,FACEOFF,Phillip Danault faceoff won against Nick Bonino,2022-11-26T03:54:50Z,1,07:13,12:47,0,0,26.0,Los Angeles Kings,LAK
+54,28,26,San Jose Sharks,Los Angeles Kings,202202033122,2022020331,Blocked Shot,22,BLOCKED_SHOT,Viktor Arvidsson shot blocked shot by Mario Ferraro,2022-11-26T03:55:06Z,1,07:29,12:31,0,0,28.0,San Jose Sharks,SJS
+55,28,26,San Jose Sharks,Los Angeles Kings,2022020331167,2022020331,Stoppage,167,STOP,Puck in Netting,2022-11-26T03:55:08Z,1,07:31,12:29,0,0,,,
+56,28,26,San Jose Sharks,Los Angeles Kings,2022020331123,2022020331,Faceoff,123,FACEOFF,Phillip Danault faceoff won against Logan Couture,2022-11-26T03:55:34Z,1,07:31,12:29,0,0,26.0,Los Angeles Kings,LAK
+57,28,26,San Jose Sharks,Los Angeles Kings,2022020331168,2022020331,Stoppage,168,STOP,Offside,2022-11-26T03:55:41Z,1,07:37,12:23,0,0,,,
+58,28,26,San Jose Sharks,Los Angeles Kings,2022020331124,2022020331,Faceoff,124,FACEOFF,Logan Couture faceoff won against Phillip Danault,2022-11-26T03:56:04Z,1,07:37,12:23,0,0,28.0,San Jose Sharks,SJS
+59,28,26,San Jose Sharks,Los Angeles Kings,2022020331125,2022020331,Takeaway,125,TAKEAWAY,Takeaway by Matt Benning,2022-11-26T03:56:08Z,1,07:41,12:19,0,0,28.0,San Jose Sharks,SJS
+60,28,26,San Jose Sharks,Los Angeles Kings,2022020331146,2022020331,Giveaway,146,GIVEAWAY,Giveaway by Matt Benning,2022-11-26T03:56:10Z,1,07:43,12:17,0,0,28.0,San Jose Sharks,SJS
+61,28,26,San Jose Sharks,Los Angeles Kings,202202033123,2022020331,Blocked Shot,23,BLOCKED_SHOT,Sean Durzi shot blocked shot by Logan Couture,2022-11-26T03:56:27Z,1,08:00,12:00,0,0,28.0,San Jose Sharks,SJS
+62,28,26,San Jose Sharks,Los Angeles Kings,2022020331126,2022020331,Takeaway,126,TAKEAWAY,Takeaway by Tomas Hertl,2022-11-26T03:56:45Z,1,08:18,11:42,0,0,28.0,San Jose Sharks,SJS
+63,28,26,San Jose Sharks,Los Angeles Kings,2022020331169,2022020331,Hit,169,HIT,Luke Kunin hit Mikey Anderson,2022-11-26T03:57:09Z,1,08:42,11:18,0,0,28.0,San Jose Sharks,SJS
+64,28,26,San Jose Sharks,Los Angeles Kings,2022020331170,2022020331,Hit,170,HIT,Timo Meier hit Mikey Anderson,2022-11-26T03:57:17Z,1,08:50,11:10,0,0,28.0,San Jose Sharks,SJS
+65,28,26,San Jose Sharks,Los Angeles Kings,202202033124,2022020331,Goal,24,GOAL,"Jaret Anderson-Dolan (1) Snap Shot, assists: Blake Lizotte (2), Drew Doughty (11)",2022-11-26T03:57:22Z,1,08:55,11:05,0,1,26.0,Los Angeles Kings,LAK
+66,28,26,San Jose Sharks,Los Angeles Kings,2022020331127,2022020331,Faceoff,127,FACEOFF,Nick Bonino faceoff won against Rasmus Kupari,2022-11-26T03:58:11Z,1,08:55,11:05,0,1,28.0,San Jose Sharks,SJS
+67,28,26,San Jose Sharks,Los Angeles Kings,2022020331128,2022020331,Takeaway,128,TAKEAWAY,Takeaway by Alexander Edler,2022-11-26T03:58:17Z,1,09:01,10:59,0,1,26.0,Los Angeles Kings,LAK
+68,28,26,San Jose Sharks,Los Angeles Kings,2022020331171,2022020331,Stoppage,171,STOP,Offside,2022-11-26T03:58:26Z,1,09:10,10:50,0,1,,,
+69,28,26,San Jose Sharks,Los Angeles Kings,2022020331129,2022020331,Faceoff,129,FACEOFF,Rasmus Kupari faceoff won against Nick Bonino,2022-11-26T03:58:47Z,1,09:10,10:50,0,1,26.0,Los Angeles Kings,LAK
+70,28,26,San Jose Sharks,Los Angeles Kings,2022020331172,2022020331,Hit,172,HIT,Jaret Anderson-Dolan hit Mario Ferraro,2022-11-26T03:58:59Z,1,09:22,10:38,0,1,26.0,Los Angeles Kings,LAK
+71,28,26,San Jose Sharks,Los Angeles Kings,2022020331130,2022020331,Takeaway,130,TAKEAWAY,Takeaway by Alexander Barabanov,2022-11-26T03:59:05Z,1,09:28,10:32,0,1,28.0,San Jose Sharks,SJS
+72,28,26,San Jose Sharks,Los Angeles Kings,2022020331173,2022020331,Hit,173,HIT,Rasmus Kupari hit Radim Simek,2022-11-26T03:59:05Z,1,09:28,10:32,0,1,26.0,Los Angeles Kings,LAK
+73,28,26,San Jose Sharks,Los Angeles Kings,202202033125,2022020331,Shot,25,SHOT,Alexander Barabanov Backhand saved by Jonathan Quick,2022-11-26T03:59:09Z,1,09:32,10:28,0,1,28.0,San Jose Sharks,SJS
+74,28,26,San Jose Sharks,Los Angeles Kings,2022020331174,2022020331,Stoppage,174,STOP,Goalie Stopped,2022-11-26T03:59:10Z,1,09:33,10:27,0,1,,,
+75,28,26,San Jose Sharks,Los Angeles Kings,2022020331131,2022020331,Faceoff,131,FACEOFF,Anze Kopitar faceoff won against Tomas Hertl,2022-11-26T03:59:44Z,1,09:33,10:27,0,1,26.0,Los Angeles Kings,LAK
+76,28,26,San Jose Sharks,Los Angeles Kings,202202033127,2022020331,Shot,27,SHOT,Trevor Moore Wrist Shot saved by James Reimer,2022-11-26T04:00:58Z,1,10:47,09:13,0,1,26.0,Los Angeles Kings,LAK
+77,28,26,San Jose Sharks,Los Angeles Kings,202202033126,2022020331,Blocked Shot,26,BLOCKED_SHOT,Viktor Arvidsson shot blocked shot by Steven Lorentz,2022-11-26T04:01:00Z,1,10:49,09:11,0,1,28.0,San Jose Sharks,SJS
+78,28,26,San Jose Sharks,Los Angeles Kings,2022020331133,2022020331,Giveaway,133,GIVEAWAY,Giveaway by Steven Lorentz,2022-11-26T04:01:13Z,1,11:02,08:58,0,1,28.0,San Jose Sharks,SJS
+79,28,26,San Jose Sharks,Los Angeles Kings,2022020331175,2022020331,Hit,175,HIT,Trevor Moore hit Erik Karlsson,2022-11-26T04:01:13Z,1,11:02,08:58,0,1,26.0,Los Angeles Kings,LAK
+80,28,26,San Jose Sharks,Los Angeles Kings,2022020331251,2022020331,Shot,251,SHOT,Blake Lizotte Wrist Shot saved by James Reimer,2022-11-26T04:01:31Z,1,11:20,08:40,0,1,26.0,Los Angeles Kings,LAK
+81,28,26,San Jose Sharks,Los Angeles Kings,2022020331176,2022020331,Hit,176,HIT,Logan Couture hit Blake Lizotte,2022-11-26T04:01:40Z,1,11:29,08:31,0,1,28.0,San Jose Sharks,SJS
+82,28,26,San Jose Sharks,Los Angeles Kings,2022020331134,2022020331,Takeaway,134,TAKEAWAY,Takeaway by Gabriel Vilardi,2022-11-26T04:01:47Z,1,11:36,08:24,0,1,26.0,Los Angeles Kings,LAK
+83,28,26,San Jose Sharks,Los Angeles Kings,2022020331177,2022020331,Hit,177,HIT,Radim Simek hit Kevin Fiala,2022-11-26T04:02:46Z,1,12:35,07:25,0,1,28.0,San Jose Sharks,SJS
+84,28,26,San Jose Sharks,Los Angeles Kings,2022020331135,2022020331,Takeaway,135,TAKEAWAY,Takeaway by Tomas Hertl,2022-11-26T04:02:59Z,1,12:48,07:12,0,1,28.0,San Jose Sharks,SJS
+85,28,26,San Jose Sharks,Los Angeles Kings,202202033128,2022020331,Goal,28,GOAL,"Kevin Labanc (4) Wrist Shot, assists: Timo Meier (10), Tomas Hertl (16)",2022-11-26T04:03:13Z,1,13:02,06:58,1,1,28.0,San Jose Sharks,SJS
+86,28,26,San Jose Sharks,Los Angeles Kings,2022020331136,2022020331,Faceoff,136,FACEOFF,Phillip Danault faceoff won against Logan Couture,2022-11-26T04:03:57Z,1,13:02,06:58,1,1,26.0,Los Angeles Kings,LAK
+87,28,26,San Jose Sharks,Los Angeles Kings,202202033129,2022020331,Missed Shot,29,MISSED_SHOT,Drew Doughty Wide of Net James Reimer,2022-11-26T04:04:27Z,1,13:32,06:28,1,1,26.0,Los Angeles Kings,LAK
+88,28,26,San Jose Sharks,Los Angeles Kings,2022020331137,2022020331,Giveaway,137,GIVEAWAY,Giveaway by Noah Gregor,2022-11-26T04:04:36Z,1,13:41,06:19,1,1,28.0,San Jose Sharks,SJS
+89,28,26,San Jose Sharks,Los Angeles Kings,202202033130,2022020331,Missed Shot,30,MISSED_SHOT,Rasmus Kupari Wide of Net James Reimer,2022-11-26T04:05:09Z,1,14:14,05:46,1,1,26.0,Los Angeles Kings,LAK
+90,28,26,San Jose Sharks,Los Angeles Kings,202202033131,2022020331,Shot,31,SHOT,Jaret Anderson-Dolan Wrap-around saved by James Reimer,2022-11-26T04:05:11Z,1,14:16,05:44,1,1,26.0,Los Angeles Kings,LAK
+91,28,26,San Jose Sharks,Los Angeles Kings,202202033132,2022020331,Shot,32,SHOT,Jaret Anderson-Dolan Wrist Shot saved by James Reimer,2022-11-26T04:05:13Z,1,14:18,05:42,1,1,26.0,Los Angeles Kings,LAK
+92,28,26,San Jose Sharks,Los Angeles Kings,2022020331252,2022020331,Missed Shot,252,MISSED_SHOT,Arthur Kaliyev Wide of Net James Reimer,2022-11-26T04:05:13Z,1,14:18,05:42,1,1,26.0,Los Angeles Kings,LAK
+93,28,26,San Jose Sharks,Los Angeles Kings,202202033133,2022020331,Missed Shot,33,MISSED_SHOT,Sean Walker Wide of Net James Reimer,2022-11-26T04:05:21Z,1,14:26,05:34,1,1,26.0,Los Angeles Kings,LAK
+94,28,26,San Jose Sharks,Los Angeles Kings,2022020331138,2022020331,Takeaway,138,TAKEAWAY,Takeaway by Blake Lizotte,2022-11-26T04:05:41Z,1,14:46,05:14,1,1,26.0,Los Angeles Kings,LAK
+95,28,26,San Jose Sharks,Los Angeles Kings,2022020331139,2022020331,Giveaway,139,GIVEAWAY,Giveaway by Timo Meier,2022-11-26T04:05:53Z,1,14:58,05:02,1,1,28.0,San Jose Sharks,SJS
+96,28,26,San Jose Sharks,Los Angeles Kings,2022020331178,2022020331,Hit,178,HIT,Carl Grundstrom hit Timo Meier,2022-11-26T04:05:54Z,1,14:59,05:01,1,1,26.0,Los Angeles Kings,LAK
+97,28,26,San Jose Sharks,Los Angeles Kings,2022020331179,2022020331,Hit,179,HIT,Timo Meier hit Matt Roy,2022-11-26T04:06:00Z,1,15:05,04:55,1,1,28.0,San Jose Sharks,SJS
+98,28,26,San Jose Sharks,Los Angeles Kings,2022020331180,2022020331,Stoppage,180,STOP,Icing,2022-11-26T04:06:24Z,1,15:29,04:31,1,1,,,
+99,28,26,San Jose Sharks,Los Angeles Kings,2022020331140,2022020331,Faceoff,140,FACEOFF,Nick Bonino faceoff won against Anze Kopitar,2022-11-26T04:06:50Z,1,15:29,04:31,1,1,28.0,San Jose Sharks,SJS
+100,28,26,San Jose Sharks,Los Angeles Kings,2022020331181,2022020331,Hit,181,HIT,Mikey Anderson hit Noah Gregor,2022-11-26T04:06:57Z,1,15:36,04:24,1,1,26.0,Los Angeles Kings,LAK
+101,28,26,San Jose Sharks,Los Angeles Kings,2022020331182,2022020331,Stoppage,182,STOP,Offside,2022-11-26T04:07:02Z,1,15:41,04:19,1,1,,,
+102,28,26,San Jose Sharks,Los Angeles Kings,2022020331141,2022020331,Faceoff,141,FACEOFF,Phillip Danault faceoff won against Nick Bonino,2022-11-26T04:09:20Z,1,15:41,04:19,1,1,26.0,Los Angeles Kings,LAK
+103,28,26,San Jose Sharks,Los Angeles Kings,2022020331390,2022020331,Penalty,390,PENALTY,Radim Simek Tripping against Viktor Arvidsson,2022-11-26T04:09:47Z,1,16:08,03:52,1,1,28.0,San Jose Sharks,SJS
+104,28,26,San Jose Sharks,Los Angeles Kings,2022020331142,2022020331,Faceoff,142,FACEOFF,Anze Kopitar faceoff won against Logan Couture,2022-11-26T04:10:20Z,1,16:08,03:52,1,1,26.0,Los Angeles Kings,LAK
+105,28,26,San Jose Sharks,Los Angeles Kings,2022020331143,2022020331,Takeaway,143,TAKEAWAY,Takeaway by Matt Nieto,2022-11-26T04:10:24Z,1,16:12,03:48,1,1,28.0,San Jose Sharks,SJS
+106,28,26,San Jose Sharks,Los Angeles Kings,202202033136,2022020331,Missed Shot,36,MISSED_SHOT,Drew Doughty Wide of Net James Reimer,2022-11-26T04:10:41Z,1,16:29,03:31,1,1,26.0,Los Angeles Kings,LAK
+107,28,26,San Jose Sharks,Los Angeles Kings,2022020331144,2022020331,Takeaway,144,TAKEAWAY,Takeaway by Logan Couture,2022-11-26T04:11:03Z,1,16:51,03:09,1,1,28.0,San Jose Sharks,SJS
+108,28,26,San Jose Sharks,Los Angeles Kings,202202033137,2022020331,Blocked Shot,37,BLOCKED_SHOT,Phillip Danault shot blocked shot by Matt Benning,2022-11-26T04:11:46Z,1,17:34,02:26,1,1,28.0,San Jose Sharks,SJS
+109,28,26,San Jose Sharks,Los Angeles Kings,2022020331183,2022020331,Hit,183,HIT,Matt Benning hit Viktor Arvidsson,2022-11-26T04:11:49Z,1,17:37,02:23,1,1,28.0,San Jose Sharks,SJS
+110,28,26,San Jose Sharks,Los Angeles Kings,202202033138,2022020331,Shot,38,SHOT,Arthur Kaliyev Slap Shot saved by James Reimer,2022-11-26T04:11:53Z,1,17:41,02:19,1,1,26.0,Los Angeles Kings,LAK
+111,28,26,San Jose Sharks,Los Angeles Kings,202202033139,2022020331,Goal,39,GOAL,"Phillip Danault (7) Slap Shot, assists: Viktor Arvidsson (12), Sean Durzi (7)",2022-11-26T04:12:05Z,1,17:54,02:06,1,2,26.0,Los Angeles Kings,LAK
+112,28,26,San Jose Sharks,Los Angeles Kings,2022020331145,2022020331,Faceoff,145,FACEOFF,Tomas Hertl faceoff won against Blake Lizotte,2022-11-26T04:12:48Z,1,17:54,02:06,1,2,28.0,San Jose Sharks,SJS
+113,28,26,San Jose Sharks,Los Angeles Kings,202202033140,2022020331,Blocked Shot,40,BLOCKED_SHOT,Kevin Labanc shot blocked shot by Drew Doughty,2022-11-26T04:13:03Z,1,18:09,01:51,1,2,26.0,Los Angeles Kings,LAK
+114,28,26,San Jose Sharks,Los Angeles Kings,2022020331184,2022020331,Stoppage,184,STOP,Offside,2022-11-26T04:13:14Z,1,18:20,01:40,1,2,,,
+115,28,26,San Jose Sharks,Los Angeles Kings,2022020331147,2022020331,Faceoff,147,FACEOFF,Anze Kopitar faceoff won against Tomas Hertl,2022-11-26T04:15:26Z,1,18:20,01:40,1,2,26.0,Los Angeles Kings,LAK
+116,28,26,San Jose Sharks,Los Angeles Kings,2022020331148,2022020331,Giveaway,148,GIVEAWAY,Giveaway by Kevin Fiala,2022-11-26T04:15:41Z,1,18:35,01:25,1,2,26.0,Los Angeles Kings,LAK
+117,28,26,San Jose Sharks,Los Angeles Kings,202202033141,2022020331,Shot,41,SHOT,Timo Meier Slap Shot saved by Jonathan Quick,2022-11-26T04:15:45Z,1,18:39,01:21,1,2,28.0,San Jose Sharks,SJS
+118,28,26,San Jose Sharks,Los Angeles Kings,2022020331185,2022020331,Stoppage,185,STOP,Goalie Stopped,2022-11-26T04:15:47Z,1,18:40,01:20,1,2,,,
+119,28,26,San Jose Sharks,Los Angeles Kings,2022020331149,2022020331,Faceoff,149,FACEOFF,Phillip Danault faceoff won against Tomas Hertl,2022-11-26T04:16:12Z,1,18:40,01:20,1,2,26.0,Los Angeles Kings,LAK
+120,28,26,San Jose Sharks,Los Angeles Kings,2022020331186,2022020331,Stoppage,186,STOP,Offside,2022-11-26T04:16:19Z,1,18:48,01:12,1,2,,,
+121,28,26,San Jose Sharks,Los Angeles Kings,2022020331150,2022020331,Faceoff,150,FACEOFF,Logan Couture faceoff won against Viktor Arvidsson,2022-11-26T04:16:49Z,1,18:48,01:12,1,2,28.0,San Jose Sharks,SJS
+122,28,26,San Jose Sharks,Los Angeles Kings,2022020331187,2022020331,Hit,187,HIT,Noah Gregor hit Sean Durzi,2022-11-26T04:17:01Z,1,19:00,01:00,1,2,28.0,San Jose Sharks,SJS
+123,28,26,San Jose Sharks,Los Angeles Kings,202202033142,2022020331,Missed Shot,42,MISSED_SHOT,Viktor Arvidsson Wide of Net James Reimer,2022-11-26T04:17:13Z,1,19:12,00:48,1,2,26.0,Los Angeles Kings,LAK
+124,28,26,San Jose Sharks,Los Angeles Kings,2022020331188,2022020331,Hit,188,HIT,Phillip Danault hit Matt Benning,2022-11-26T04:17:22Z,1,19:21,00:39,1,2,26.0,Los Angeles Kings,LAK
+125,28,26,San Jose Sharks,Los Angeles Kings,2022020331189,2022020331,Stoppage,189,STOP,Icing,2022-11-26T04:17:24Z,1,19:22,00:38,1,2,,,
+126,28,26,San Jose Sharks,Los Angeles Kings,2022020331302,2022020331,Faceoff,302,FACEOFF,Anze Kopitar faceoff won against Logan Couture,2022-11-26T04:17:48Z,1,19:22,00:38,1,2,26.0,Los Angeles Kings,LAK
+127,28,26,San Jose Sharks,Los Angeles Kings,202202033143,2022020331,Blocked Shot,43,BLOCKED_SHOT,Drew Doughty shot blocked shot by Noah Gregor,2022-11-26T04:17:51Z,1,19:26,00:34,1,2,28.0,San Jose Sharks,SJS
+128,28,26,San Jose Sharks,Los Angeles Kings,2022020331190,2022020331,Hit,190,HIT,Kevin Fiala hit Radim Simek,2022-11-26T04:18:20Z,1,19:55,00:05,1,2,26.0,Los Angeles Kings,LAK
+129,28,26,San Jose Sharks,Los Angeles Kings,202202033144,2022020331,Blocked Shot,44,BLOCKED_SHOT,Kevin Fiala shot blocked shot by Luke Kunin,2022-11-26T04:18:24Z,1,19:59,00:01,1,2,28.0,San Jose Sharks,SJS
+130,28,26,San Jose Sharks,Los Angeles Kings,202202033145,2022020331,Shot,45,SHOT,Drew Doughty Slap Shot saved by James Reimer,2022-11-26T04:18:24Z,1,19:59,00:01,1,2,26.0,Los Angeles Kings,LAK
+131,28,26,San Jose Sharks,Los Angeles Kings,202202033146,2022020331,Period End,46,PERIOD_END,End of 1st Period,2022-11-26T04:18:25Z,1,20:00,00:00,1,2,,,
+132,28,26,San Jose Sharks,Los Angeles Kings,202202033149,2022020331,Period Official,49,PERIOD_OFFICIAL,Period Official,2022-11-26T04:18:38Z,1,20:00,00:00,1,2,,,
+133,28,26,San Jose Sharks,Los Angeles Kings,2022020331253,2022020331,Period Ready,253,PERIOD_READY,Period Ready,2022-11-26T04:37:16Z,2,00:00,20:00,1,2,,,
+134,28,26,San Jose Sharks,Los Angeles Kings,2022020331303,2022020331,Period Start,303,PERIOD_START,Period Start,2022-11-26T04:37:17Z,2,00:00,20:00,1,2,,,
+135,28,26,San Jose Sharks,Los Angeles Kings,2022020331304,2022020331,Faceoff,304,FACEOFF,Anze Kopitar faceoff won against Logan Couture,2022-11-26T04:37:17Z,2,00:00,20:00,1,2,26.0,Los Angeles Kings,LAK
+136,28,26,San Jose Sharks,Los Angeles Kings,2022020331254,2022020331,Shot,254,SHOT,Logan Couture Wrist Shot saved by Jonathan Quick,2022-11-26T04:37:33Z,2,00:16,19:44,1,2,28.0,San Jose Sharks,SJS
+137,28,26,San Jose Sharks,Los Angeles Kings,2022020331191,2022020331,Stoppage,191,STOP,Icing,2022-11-26T04:37:48Z,2,00:32,19:28,1,2,,,
+138,28,26,San Jose Sharks,Los Angeles Kings,2022020331305,2022020331,Faceoff,305,FACEOFF,Phillip Danault faceoff won against Logan Couture,2022-11-26T04:38:15Z,2,00:32,19:28,1,2,26.0,Los Angeles Kings,LAK
+139,28,26,San Jose Sharks,Los Angeles Kings,2022020331192,2022020331,Hit,192,HIT,Timo Meier hit Viktor Arvidsson,2022-11-26T04:38:41Z,2,00:58,19:02,1,2,28.0,San Jose Sharks,SJS
+140,28,26,San Jose Sharks,Los Angeles Kings,2022020331193,2022020331,Hit,193,HIT,Trevor Moore hit Erik Karlsson,2022-11-26T04:39:03Z,2,01:20,18:40,1,2,26.0,Los Angeles Kings,LAK
+141,28,26,San Jose Sharks,Los Angeles Kings,2022020331194,2022020331,Hit,194,HIT,Alexander Edler hit Noah Gregor,2022-11-26T04:39:36Z,2,01:53,18:07,1,2,26.0,Los Angeles Kings,LAK
+142,28,26,San Jose Sharks,Los Angeles Kings,2022020331298,2022020331,Blocked Shot,298,BLOCKED_SHOT,Nick Bonino shot blocked shot by Blake Lizotte,2022-11-26T04:39:36Z,2,01:53,18:07,1,2,26.0,Los Angeles Kings,LAK
+143,28,26,San Jose Sharks,Los Angeles Kings,2022020331255,2022020331,Missed Shot,255,MISSED_SHOT,Luke Kunin Wide of Net Jonathan Quick,2022-11-26T04:39:41Z,2,01:58,18:02,1,2,28.0,San Jose Sharks,SJS
+144,28,26,San Jose Sharks,Los Angeles Kings,2022020331306,2022020331,Takeaway,306,TAKEAWAY,Takeaway by Nick Bonino,2022-11-26T04:40:07Z,2,02:24,17:36,1,2,28.0,San Jose Sharks,SJS
+145,28,26,San Jose Sharks,Los Angeles Kings,2022020331256,2022020331,Shot,256,SHOT,Carl Grundstrom Slap Shot saved by James Reimer,2022-11-26T04:40:09Z,2,02:26,17:34,1,2,26.0,Los Angeles Kings,LAK
+146,28,26,San Jose Sharks,Los Angeles Kings,2022020331195,2022020331,Stoppage,195,STOP,Goalie Stopped,2022-11-26T04:40:14Z,2,02:31,17:29,1,2,,,
+147,28,26,San Jose Sharks,Los Angeles Kings,2022020331307,2022020331,Faceoff,307,FACEOFF,Rasmus Kupari faceoff won against Steven Lorentz,2022-11-26T04:40:43Z,2,02:31,17:29,1,2,26.0,Los Angeles Kings,LAK
+148,28,26,San Jose Sharks,Los Angeles Kings,2022020331257,2022020331,Blocked Shot,257,BLOCKED_SHOT,Mikey Anderson shot blocked shot by Radim Simek,2022-11-26T04:40:47Z,2,02:35,17:25,1,2,28.0,San Jose Sharks,SJS
+149,28,26,San Jose Sharks,Los Angeles Kings,2022020331196,2022020331,Hit,196,HIT,Radim Simek hit Rasmus Kupari,2022-11-26T04:41:05Z,2,02:53,17:07,1,2,28.0,San Jose Sharks,SJS
+150,28,26,San Jose Sharks,Los Angeles Kings,2022020331197,2022020331,Hit,197,HIT,Steven Lorentz hit Jaret Anderson-Dolan,2022-11-26T04:41:16Z,2,03:04,16:56,1,2,28.0,San Jose Sharks,SJS
+151,28,26,San Jose Sharks,Los Angeles Kings,2022020331258,2022020331,Missed Shot,258,MISSED_SHOT,Drew Doughty Wide of Net James Reimer,2022-11-26T04:41:23Z,2,03:11,16:49,1,2,26.0,Los Angeles Kings,LAK
+152,28,26,San Jose Sharks,Los Angeles Kings,2022020331198,2022020331,Hit,198,HIT,Evgeny Svechnikov hit Mikey Anderson,2022-11-26T04:41:27Z,2,03:15,16:45,1,2,28.0,San Jose Sharks,SJS
+153,28,26,San Jose Sharks,Los Angeles Kings,2022020331259,2022020331,Shot,259,SHOT,Anze Kopitar Wrist Shot saved by James Reimer,2022-11-26T04:41:45Z,2,03:33,16:27,1,2,26.0,Los Angeles Kings,LAK
+154,28,26,San Jose Sharks,Los Angeles Kings,2022020331199,2022020331,Stoppage,199,STOP,Puck in Benches,2022-11-26T04:41:54Z,2,03:42,16:18,1,2,,,
+155,28,26,San Jose Sharks,Los Angeles Kings,2022020331308,2022020331,Faceoff,308,FACEOFF,Anze Kopitar faceoff won against Logan Couture,2022-11-26T04:42:19Z,2,03:42,16:18,1,2,26.0,Los Angeles Kings,LAK
+156,28,26,San Jose Sharks,Los Angeles Kings,2022020331310,2022020331,Takeaway,310,TAKEAWAY,Takeaway by Erik Karlsson,2022-11-26T04:42:39Z,2,04:02,15:58,1,2,28.0,San Jose Sharks,SJS
+157,28,26,San Jose Sharks,Los Angeles Kings,2022020331260,2022020331,Blocked Shot,260,BLOCKED_SHOT,Matt Nieto shot blocked shot by Sean Durzi,2022-11-26T04:42:55Z,2,04:18,15:42,1,2,26.0,Los Angeles Kings,LAK
+158,28,26,San Jose Sharks,Los Angeles Kings,2022020331261,2022020331,Goal,261,GOAL,"Viktor Arvidsson (4) Wrist Shot, assists: Kevin Fiala (15), Sean Durzi (8)",2022-11-26T04:43:16Z,2,04:39,15:21,1,3,26.0,Los Angeles Kings,LAK
+159,28,26,San Jose Sharks,Los Angeles Kings,2022020331311,2022020331,Faceoff,311,FACEOFF,Tomas Hertl faceoff won against Phillip Danault,2022-11-26T04:43:55Z,2,04:39,15:21,1,3,28.0,San Jose Sharks,SJS
+160,28,26,San Jose Sharks,Los Angeles Kings,2022020331262,2022020331,Missed Shot,262,MISSED_SHOT,Mikey Anderson Wide of Net James Reimer,2022-11-26T04:44:30Z,2,05:14,14:46,1,3,26.0,Los Angeles Kings,LAK
+161,28,26,San Jose Sharks,Los Angeles Kings,2022020331312,2022020331,Giveaway,312,GIVEAWAY,Giveaway by Trevor Moore,2022-11-26T04:44:48Z,2,05:32,14:28,1,3,26.0,Los Angeles Kings,LAK
+162,28,26,San Jose Sharks,Los Angeles Kings,2022020331263,2022020331,Shot,263,SHOT,Carl Grundstrom Wrist Shot saved by James Reimer,2022-11-26T04:45:05Z,2,05:49,14:11,1,3,26.0,Los Angeles Kings,LAK
+163,28,26,San Jose Sharks,Los Angeles Kings,2022020331200,2022020331,Stoppage,200,STOP,Goalie Stopped,2022-11-26T04:45:06Z,2,05:50,14:10,1,3,,,
+164,28,26,San Jose Sharks,Los Angeles Kings,2022020331313,2022020331,Faceoff,313,FACEOFF,Nick Bonino faceoff won against Blake Lizotte,2022-11-26T04:45:33Z,2,05:50,14:10,1,3,28.0,San Jose Sharks,SJS
+165,28,26,San Jose Sharks,Los Angeles Kings,2022020331264,2022020331,Shot,264,SHOT,Noah Gregor Wrist Shot saved by Jonathan Quick,2022-11-26T04:45:43Z,2,06:00,14:00,1,3,28.0,San Jose Sharks,SJS
+166,28,26,San Jose Sharks,Los Angeles Kings,2022020331314,2022020331,Takeaway,314,TAKEAWAY,Takeaway by Sean Walker,2022-11-26T04:45:54Z,2,06:11,13:49,1,3,26.0,Los Angeles Kings,LAK
+167,28,26,San Jose Sharks,Los Angeles Kings,2022020331401,2022020331,Hit,401,HIT,Luke Kunin hit Alexander Edler,2022-11-26T04:46:04Z,2,06:21,13:39,1,3,28.0,San Jose Sharks,SJS
+168,28,26,San Jose Sharks,Los Angeles Kings,2022020331265,2022020331,Blocked Shot,265,BLOCKED_SHOT,Evgeny Svechnikov shot blocked shot by Sean Walker,2022-11-26T04:46:18Z,2,06:35,13:25,1,3,26.0,Los Angeles Kings,LAK
+169,28,26,San Jose Sharks,Los Angeles Kings,2022020331402,2022020331,Hit,402,HIT,Evgeny Svechnikov hit Alexander Edler,2022-11-26T04:46:29Z,2,06:46,13:14,1,3,28.0,San Jose Sharks,SJS
+170,28,26,San Jose Sharks,Los Angeles Kings,2022020331266,2022020331,Shot,266,SHOT,Jaret Anderson-Dolan Wrist Shot saved by James Reimer,2022-11-26T04:46:51Z,2,07:08,12:52,1,3,26.0,Los Angeles Kings,LAK
+171,28,26,San Jose Sharks,Los Angeles Kings,2022020331403,2022020331,Stoppage,403,STOP,Goalie Stopped,2022-11-26T04:46:53Z,2,07:09,12:51,1,3,,,
+172,28,26,San Jose Sharks,Los Angeles Kings,2022020331315,2022020331,Faceoff,315,FACEOFF,Rasmus Kupari faceoff won against Logan Couture,2022-11-26T04:49:05Z,2,07:09,12:51,1,3,26.0,Los Angeles Kings,LAK
+173,28,26,San Jose Sharks,Los Angeles Kings,2022020331267,2022020331,Blocked Shot,267,BLOCKED_SHOT,Sean Durzi shot blocked shot by Alexander Barabanov,2022-11-26T04:49:11Z,2,07:15,12:45,1,3,28.0,San Jose Sharks,SJS
+174,28,26,San Jose Sharks,Los Angeles Kings,2022020331404,2022020331,Stoppage,404,STOP,Icing,2022-11-26T04:49:34Z,2,07:37,12:23,1,3,,,
+175,28,26,San Jose Sharks,Los Angeles Kings,2022020331316,2022020331,Faceoff,316,FACEOFF,Tomas Hertl faceoff won against Rasmus Kupari,2022-11-26T04:50:02Z,2,07:37,12:23,1,3,28.0,San Jose Sharks,SJS
+176,28,26,San Jose Sharks,Los Angeles Kings,2022020331317,2022020331,Takeaway,317,TAKEAWAY,Takeaway by Kevin Fiala,2022-11-26T04:50:37Z,2,08:12,11:48,1,3,26.0,Los Angeles Kings,LAK
+177,28,26,San Jose Sharks,Los Angeles Kings,2022020331268,2022020331,Blocked Shot,268,BLOCKED_SHOT,Kevin Fiala shot blocked shot by Mario Ferraro,2022-11-26T04:50:46Z,2,08:21,11:39,1,3,28.0,San Jose Sharks,SJS
+178,28,26,San Jose Sharks,Los Angeles Kings,2022020331318,2022020331,Takeaway,318,TAKEAWAY,Takeaway by Erik Karlsson,2022-11-26T04:51:02Z,2,08:37,11:23,1,3,28.0,San Jose Sharks,SJS
+179,28,26,San Jose Sharks,Los Angeles Kings,2022020331319,2022020331,Giveaway,319,GIVEAWAY,Giveaway by Erik Karlsson,2022-11-26T04:51:05Z,2,08:40,11:20,1,3,28.0,San Jose Sharks,SJS
+180,28,26,San Jose Sharks,Los Angeles Kings,2022020331269,2022020331,Shot,269,SHOT,Anze Kopitar Backhand saved by James Reimer,2022-11-26T04:51:09Z,2,08:44,11:16,1,3,26.0,Los Angeles Kings,LAK
+181,28,26,San Jose Sharks,Los Angeles Kings,2022020331270,2022020331,Shot,270,SHOT,Drew Doughty Wrist Shot saved by James Reimer,2022-11-26T04:51:15Z,2,08:50,11:10,1,3,26.0,Los Angeles Kings,LAK
+182,28,26,San Jose Sharks,Los Angeles Kings,2022020331320,2022020331,Takeaway,320,TAKEAWAY,Takeaway by Alexander Edler,2022-11-26T04:52:07Z,2,09:42,10:18,1,3,26.0,Los Angeles Kings,LAK
+183,28,26,San Jose Sharks,Los Angeles Kings,2022020331405,2022020331,Hit,405,HIT,Luke Kunin hit Viktor Arvidsson,2022-11-26T04:52:30Z,2,10:05,09:55,1,3,28.0,San Jose Sharks,SJS
+184,28,26,San Jose Sharks,Los Angeles Kings,2022020331271,2022020331,Blocked Shot,271,BLOCKED_SHOT,Alexander Edler shot blocked shot by Noah Gregor,2022-11-26T04:52:34Z,2,10:09,09:51,1,3,28.0,San Jose Sharks,SJS
+185,28,26,San Jose Sharks,Los Angeles Kings,2022020331321,2022020331,Giveaway,321,GIVEAWAY,Giveaway by Sean Walker,2022-11-26T04:52:48Z,2,10:23,09:37,1,3,26.0,Los Angeles Kings,LAK
+186,28,26,San Jose Sharks,Los Angeles Kings,2022020331406,2022020331,Hit,406,HIT,Matt Benning hit Blake Lizotte,2022-11-26T04:53:17Z,2,10:52,09:08,1,3,28.0,San Jose Sharks,SJS
+187,28,26,San Jose Sharks,Los Angeles Kings,2022020331407,2022020331,Stoppage,407,STOP,Offside,2022-11-26T04:53:27Z,2,11:02,08:58,1,3,,,
+188,28,26,San Jose Sharks,Los Angeles Kings,2022020331322,2022020331,Faceoff,322,FACEOFF,Logan Couture faceoff won against Rasmus Kupari,2022-11-26T04:55:42Z,2,11:02,08:58,1,3,28.0,San Jose Sharks,SJS
+189,28,26,San Jose Sharks,Los Angeles Kings,2022020331323,2022020331,Takeaway,323,TAKEAWAY,Takeaway by Mikey Anderson,2022-11-26T04:55:54Z,2,11:14,08:46,1,3,26.0,Los Angeles Kings,LAK
+190,28,26,San Jose Sharks,Los Angeles Kings,2022020331324,2022020331,Takeaway,324,TAKEAWAY,Takeaway by Erik Karlsson,2022-11-26T04:55:59Z,2,11:19,08:41,1,3,28.0,San Jose Sharks,SJS
+191,28,26,San Jose Sharks,Los Angeles Kings,2022020331325,2022020331,Takeaway,325,TAKEAWAY,Takeaway by Arthur Kaliyev,2022-11-26T04:56:13Z,2,11:33,08:27,1,3,26.0,Los Angeles Kings,LAK
+192,28,26,San Jose Sharks,Los Angeles Kings,2022020331273,2022020331,Shot,273,SHOT,Jaret Anderson-Dolan Wrist Shot saved by James Reimer,2022-11-26T04:56:16Z,2,11:36,08:24,1,3,26.0,Los Angeles Kings,LAK
+193,28,26,San Jose Sharks,Los Angeles Kings,2022020331409,2022020331,Stoppage,409,STOP,Goalie Stopped,2022-11-26T04:56:17Z,2,11:37,08:23,1,3,,,
+194,28,26,San Jose Sharks,Los Angeles Kings,2022020331326,2022020331,Faceoff,326,FACEOFF,Anze Kopitar faceoff won against Tomas Hertl,2022-11-26T04:56:46Z,2,11:37,08:23,1,3,26.0,Los Angeles Kings,LAK
+195,28,26,San Jose Sharks,Los Angeles Kings,2022020331327,2022020331,Takeaway,327,TAKEAWAY,Takeaway by Tomas Hertl,2022-11-26T04:57:19Z,2,12:10,07:50,1,3,28.0,San Jose Sharks,SJS
+196,28,26,San Jose Sharks,Los Angeles Kings,2022020331274,2022020331,Shot,274,SHOT,Noah Gregor Wrap-around saved by Jonathan Quick,2022-11-26T04:57:56Z,2,12:47,07:13,1,3,28.0,San Jose Sharks,SJS
+197,28,26,San Jose Sharks,Los Angeles Kings,2022020331275,2022020331,Missed Shot,275,MISSED_SHOT,Luke Kunin Wide of Net Jonathan Quick,2022-11-26T04:58:07Z,2,12:58,07:02,1,3,28.0,San Jose Sharks,SJS
+198,28,26,San Jose Sharks,Los Angeles Kings,2022020331410,2022020331,Hit,410,HIT,Mikey Anderson hit Nick Bonino,2022-11-26T04:58:08Z,2,13:00,07:00,1,3,26.0,Los Angeles Kings,LAK
+199,28,26,San Jose Sharks,Los Angeles Kings,2022020331411,2022020331,Stoppage,411,STOP,Puck Frozen,2022-11-26T04:58:08Z,2,13:00,07:00,1,3,,,
+200,28,26,San Jose Sharks,Los Angeles Kings,2022020331328,2022020331,Faceoff,328,FACEOFF,Blake Lizotte faceoff won against Steven Lorentz,2022-11-26T04:58:42Z,2,13:00,07:00,1,3,26.0,Los Angeles Kings,LAK
+201,28,26,San Jose Sharks,Los Angeles Kings,2022020331276,2022020331,Shot,276,SHOT,Marc-Edouard Vlasic Wrist Shot saved by Jonathan Quick,2022-11-26T04:58:49Z,2,13:07,06:53,1,3,28.0,San Jose Sharks,SJS
+202,28,26,San Jose Sharks,Los Angeles Kings,2022020331412,2022020331,Stoppage,412,STOP,Goalie Stopped,2022-11-26T04:58:50Z,2,13:08,06:52,1,3,,,
+203,28,26,San Jose Sharks,Los Angeles Kings,2022020331329,2022020331,Faceoff,329,FACEOFF,Steven Lorentz faceoff won against Blake Lizotte,2022-11-26T04:59:14Z,2,13:08,06:52,1,3,28.0,San Jose Sharks,SJS
+204,28,26,San Jose Sharks,Los Angeles Kings,2022020331277,2022020331,Missed Shot,277,MISSED_SHOT,Marc-Edouard Vlasic Wide of Net Jonathan Quick,2022-11-26T04:59:19Z,2,13:13,06:47,1,3,28.0,San Jose Sharks,SJS
+205,28,26,San Jose Sharks,Los Angeles Kings,2022020331278,2022020331,Shot,278,SHOT,Evgeny Svechnikov Wrist Shot saved by Jonathan Quick,2022-11-26T04:59:27Z,2,13:21,06:39,1,3,28.0,San Jose Sharks,SJS
+206,28,26,San Jose Sharks,Los Angeles Kings,2022020331279,2022020331,Blocked Shot,279,BLOCKED_SHOT,Marc-Edouard Vlasic shot blocked shot by Carl Grundstrom,2022-11-26T04:59:28Z,2,13:22,06:38,1,3,26.0,Los Angeles Kings,LAK
+207,28,26,San Jose Sharks,Los Angeles Kings,2022020331280,2022020331,Missed Shot,280,MISSED_SHOT,Marc-Edouard Vlasic Wide of Net Jonathan Quick,2022-11-26T04:59:44Z,2,13:38,06:22,1,3,28.0,San Jose Sharks,SJS
+208,28,26,San Jose Sharks,Los Angeles Kings,2022020331281,2022020331,Missed Shot,281,MISSED_SHOT,Steven Lorentz Over Net Jonathan Quick,2022-11-26T04:59:48Z,2,13:42,06:18,1,3,28.0,San Jose Sharks,SJS
+209,28,26,San Jose Sharks,Los Angeles Kings,2022020331413,2022020331,Stoppage,413,STOP,Puck in Netting,2022-11-26T04:59:49Z,2,13:43,06:17,1,3,,,
+210,28,26,San Jose Sharks,Los Angeles Kings,2022020331330,2022020331,Faceoff,330,FACEOFF,Rasmus Kupari faceoff won against Logan Couture,2022-11-26T05:00:15Z,2,13:43,06:17,1,3,26.0,Los Angeles Kings,LAK
+211,28,26,San Jose Sharks,Los Angeles Kings,2022020331331,2022020331,Takeaway,331,TAKEAWAY,Takeaway by Jaycob Megna,2022-11-26T05:00:21Z,2,13:49,06:11,1,3,28.0,San Jose Sharks,SJS
+212,28,26,San Jose Sharks,Los Angeles Kings,2022020331282,2022020331,Blocked Shot,282,BLOCKED_SHOT,Logan Couture shot blocked shot by Jaret Anderson-Dolan,2022-11-26T05:00:29Z,2,13:57,06:03,1,3,26.0,Los Angeles Kings,LAK
+213,28,26,San Jose Sharks,Los Angeles Kings,2022020331283,2022020331,Blocked Shot,283,BLOCKED_SHOT,Logan Couture shot blocked shot by Jaret Anderson-Dolan,2022-11-26T05:00:40Z,2,14:08,05:52,1,3,26.0,Los Angeles Kings,LAK
+214,28,26,San Jose Sharks,Los Angeles Kings,2022020331284,2022020331,Shot,284,SHOT,Logan Couture Backhand saved by Jonathan Quick,2022-11-26T05:00:55Z,2,14:23,05:37,1,3,28.0,San Jose Sharks,SJS
+215,28,26,San Jose Sharks,Los Angeles Kings,2022020331285,2022020331,Blocked Shot,285,BLOCKED_SHOT,Jaycob Megna shot blocked shot by Adrian Kempe,2022-11-26T05:00:59Z,2,14:27,05:33,1,3,26.0,Los Angeles Kings,LAK
+216,28,26,San Jose Sharks,Los Angeles Kings,2022020331332,2022020331,Giveaway,332,GIVEAWAY,Giveaway by Kevin Fiala,2022-11-26T05:01:16Z,2,14:44,05:16,1,3,26.0,Los Angeles Kings,LAK
+217,28,26,San Jose Sharks,Los Angeles Kings,2022020331414,2022020331,Hit,414,HIT,Kevin Labanc hit Drew Doughty,2022-11-26T05:01:44Z,2,15:12,04:48,1,3,28.0,San Jose Sharks,SJS
+218,28,26,San Jose Sharks,Los Angeles Kings,2022020331415,2022020331,Stoppage,415,STOP,TV timeout,2022-11-26T05:01:51Z,2,15:19,04:41,1,3,,,
+219,28,26,San Jose Sharks,Los Angeles Kings,2022020331576,2022020331,Penalty,576,PENALTY,Mikey Anderson Cross-checking against Timo Meier,2022-11-26T05:01:51Z,2,15:19,04:41,1,3,26.0,Los Angeles Kings,LAK
+220,28,26,San Jose Sharks,Los Angeles Kings,2022020331333,2022020331,Faceoff,333,FACEOFF,Tomas Hertl faceoff won against Phillip Danault,2022-11-26T05:04:04Z,2,15:19,04:41,1,3,28.0,San Jose Sharks,SJS
+221,28,26,San Jose Sharks,Los Angeles Kings,2022020331286,2022020331,Blocked Shot,286,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Alexander Edler,2022-11-26T05:04:19Z,2,15:34,04:26,1,3,26.0,Los Angeles Kings,LAK
+222,28,26,San Jose Sharks,Los Angeles Kings,2022020331287,2022020331,Missed Shot,287,MISSED_SHOT,Erik Karlsson Wide of Net Jonathan Quick,2022-11-26T05:04:31Z,2,15:46,04:14,1,3,28.0,San Jose Sharks,SJS
+223,28,26,San Jose Sharks,Los Angeles Kings,2022020331288,2022020331,Shot,288,SHOT,Logan Couture Wrist Shot saved by Jonathan Quick,2022-11-26T05:04:56Z,2,16:11,03:49,1,3,28.0,San Jose Sharks,SJS
+224,28,26,San Jose Sharks,Los Angeles Kings,2022020331416,2022020331,Stoppage,416,STOP,Goalie Stopped,2022-11-26T05:04:57Z,2,16:12,03:48,1,3,,,
+225,28,26,San Jose Sharks,Los Angeles Kings,2022020331334,2022020331,Faceoff,334,FACEOFF,Tomas Hertl faceoff won against Anze Kopitar,2022-11-26T05:05:21Z,2,16:12,03:48,1,3,28.0,San Jose Sharks,SJS
+226,28,26,San Jose Sharks,Los Angeles Kings,2022020331289,2022020331,Blocked Shot,289,BLOCKED_SHOT,Timo Meier shot blocked shot by Anze Kopitar,2022-11-26T05:05:55Z,2,16:46,03:14,1,3,26.0,Los Angeles Kings,LAK
+227,28,26,San Jose Sharks,Los Angeles Kings,2022020331418,2022020331,Stoppage,418,STOP,Icing,2022-11-26T05:06:23Z,2,17:15,02:45,1,3,,,
+228,28,26,San Jose Sharks,Los Angeles Kings,2022020331335,2022020331,Faceoff,335,FACEOFF,Nick Bonino faceoff won against Blake Lizotte,2022-11-26T05:06:55Z,2,17:15,02:45,1,3,28.0,San Jose Sharks,SJS
+229,28,26,San Jose Sharks,Los Angeles Kings,2022020331336,2022020331,Takeaway,336,TAKEAWAY,Takeaway by Carl Grundstrom,2022-11-26T05:07:10Z,2,17:30,02:30,1,3,26.0,Los Angeles Kings,LAK
+230,28,26,San Jose Sharks,Los Angeles Kings,2022020331290,2022020331,Shot,290,SHOT,Sean Walker Wrist Shot saved by James Reimer,2022-11-26T05:07:15Z,2,17:35,02:25,1,3,26.0,Los Angeles Kings,LAK
+231,28,26,San Jose Sharks,Los Angeles Kings,2022020331419,2022020331,Stoppage,419,STOP,Goalie Stopped,2022-11-26T05:07:16Z,2,17:36,02:24,1,3,,,
+232,28,26,San Jose Sharks,Los Angeles Kings,2022020331337,2022020331,Faceoff,337,FACEOFF,Rasmus Kupari faceoff won against Nick Bonino,2022-11-26T05:07:49Z,2,17:36,02:24,1,3,26.0,Los Angeles Kings,LAK
+233,28,26,San Jose Sharks,Los Angeles Kings,2022020331420,2022020331,Hit,420,HIT,Arthur Kaliyev hit Matt Benning,2022-11-26T05:08:20Z,2,18:07,01:53,1,3,26.0,Los Angeles Kings,LAK
+234,28,26,San Jose Sharks,Los Angeles Kings,2022020331421,2022020331,Hit,421,HIT,Arthur Kaliyev hit Matt Benning,2022-11-26T05:08:38Z,2,18:25,01:35,1,3,26.0,Los Angeles Kings,LAK
+235,28,26,San Jose Sharks,Los Angeles Kings,2022020331601,2022020331,Blocked Shot,601,BLOCKED_SHOT,Rasmus Kupari shot blocked shot by Nick Bonino,2022-11-26T05:08:49Z,2,18:36,01:24,1,3,28.0,San Jose Sharks,SJS
+236,28,26,San Jose Sharks,Los Angeles Kings,2022020331338,2022020331,Takeaway,338,TAKEAWAY,Takeaway by Nick Bonino,2022-11-26T05:08:53Z,2,18:40,01:20,1,3,28.0,San Jose Sharks,SJS
+237,28,26,San Jose Sharks,Los Angeles Kings,2022020331423,2022020331,Hit,423,HIT,Sean Durzi hit Luke Kunin,2022-11-26T05:09:06Z,2,18:53,01:07,1,3,26.0,Los Angeles Kings,LAK
+238,28,26,San Jose Sharks,Los Angeles Kings,2022020331422,2022020331,Stoppage,422,STOP,Icing,2022-11-26T05:09:06Z,2,18:54,01:06,1,3,,,
+239,28,26,San Jose Sharks,Los Angeles Kings,2022020331339,2022020331,Faceoff,339,FACEOFF,Anze Kopitar faceoff won against Nick Bonino,2022-11-26T05:09:34Z,2,18:54,01:06,1,3,26.0,Los Angeles Kings,LAK
+240,28,26,San Jose Sharks,Los Angeles Kings,2022020331340,2022020331,Giveaway,340,GIVEAWAY,Giveaway by Sean Durzi,2022-11-26T05:10:02Z,2,19:22,00:38,1,3,26.0,Los Angeles Kings,LAK
+241,28,26,San Jose Sharks,Los Angeles Kings,2022020331291,2022020331,Goal,291,GOAL,"Alexander Barabanov (3) Wrist Shot, assists: none",2022-11-26T05:10:05Z,2,19:23,00:37,2,3,28.0,San Jose Sharks,SJS
+242,28,26,San Jose Sharks,Los Angeles Kings,2022020331341,2022020331,Faceoff,341,FACEOFF,Tomas Hertl faceoff won against Phillip Danault,2022-11-26T05:10:48Z,2,19:23,00:37,2,3,28.0,San Jose Sharks,SJS
+243,28,26,San Jose Sharks,Los Angeles Kings,2022020331424,2022020331,Stoppage,424,STOP,Offside,2022-11-26T05:10:54Z,2,19:29,00:31,2,3,,,
+244,28,26,San Jose Sharks,Los Angeles Kings,2022020331342,2022020331,Faceoff,342,FACEOFF,Phillip Danault faceoff won against Tomas Hertl,2022-11-26T05:11:18Z,2,19:29,00:31,2,3,26.0,Los Angeles Kings,LAK
+245,28,26,San Jose Sharks,Los Angeles Kings,2022020331292,2022020331,Shot,292,SHOT,Viktor Arvidsson Wrist Shot saved by James Reimer,2022-11-26T05:11:36Z,2,19:47,00:13,2,3,26.0,Los Angeles Kings,LAK
+246,28,26,San Jose Sharks,Los Angeles Kings,2022020331293,2022020331,Shot,293,SHOT,Kevin Labanc Wrist Shot saved by Jonathan Quick,2022-11-26T05:11:43Z,2,19:54,00:06,2,3,28.0,San Jose Sharks,SJS
+247,28,26,San Jose Sharks,Los Angeles Kings,2022020331294,2022020331,Period End,294,PERIOD_END,End of 2nd Period,2022-11-26T05:11:49Z,2,20:00,00:00,2,3,,,
+248,28,26,San Jose Sharks,Los Angeles Kings,2022020331297,2022020331,Period Official,297,PERIOD_OFFICIAL,Period Official,2022-11-26T05:11:53Z,2,20:00,00:00,2,3,,,
+249,28,26,San Jose Sharks,Los Angeles Kings,2022020331603,2022020331,Period Ready,603,PERIOD_READY,Period Ready,2022-11-26T05:30:35Z,3,00:00,20:00,2,3,,,
+250,28,26,San Jose Sharks,Los Angeles Kings,2022020331343,2022020331,Period Start,343,PERIOD_START,Period Start,2022-11-26T05:30:41Z,3,00:00,20:00,2,3,,,
+251,28,26,San Jose Sharks,Los Angeles Kings,2022020331344,2022020331,Faceoff,344,FACEOFF,Anze Kopitar faceoff won against Logan Couture,2022-11-26T05:30:41Z,3,00:00,20:00,2,3,26.0,Los Angeles Kings,LAK
+252,28,26,San Jose Sharks,Los Angeles Kings,2022020331615,2022020331,Blocked Shot,615,BLOCKED_SHOT,Matt Benning shot blocked shot by Mikey Anderson,2022-11-26T05:31:02Z,3,00:21,19:39,2,3,26.0,Los Angeles Kings,LAK
+253,28,26,San Jose Sharks,Los Angeles Kings,2022020331604,2022020331,Shot,604,SHOT,Kevin Fiala Wrist Shot saved by James Reimer,2022-11-26T05:31:17Z,3,00:36,19:24,2,3,26.0,Los Angeles Kings,LAK
+254,28,26,San Jose Sharks,Los Angeles Kings,2022020331426,2022020331,Stoppage,426,STOP,Goalie Stopped,2022-11-26T05:31:18Z,3,00:37,19:23,2,3,,,
+255,28,26,San Jose Sharks,Los Angeles Kings,2022020331345,2022020331,Faceoff,345,FACEOFF,Tomas Hertl faceoff won against Phillip Danault,2022-11-26T05:31:40Z,3,00:37,19:23,2,3,28.0,San Jose Sharks,SJS
+256,28,26,San Jose Sharks,Los Angeles Kings,2022020331427,2022020331,Stoppage,427,STOP,Puck in Benches,2022-11-26T05:31:46Z,3,00:43,19:17,2,3,,,
+257,28,26,San Jose Sharks,Los Angeles Kings,2022020331346,2022020331,Faceoff,346,FACEOFF,Phillip Danault faceoff won against Tomas Hertl,2022-11-26T05:32:10Z,3,00:43,19:17,2,3,26.0,Los Angeles Kings,LAK
+258,28,26,San Jose Sharks,Los Angeles Kings,2022020331428,2022020331,Hit,428,HIT,Tomas Hertl hit Phillip Danault,2022-11-26T05:32:20Z,3,00:53,19:07,2,3,28.0,San Jose Sharks,SJS
+259,28,26,San Jose Sharks,Los Angeles Kings,2022020331429,2022020331,Hit,429,HIT,Timo Meier hit Matt Roy,2022-11-26T05:32:53Z,3,01:26,18:34,2,3,28.0,San Jose Sharks,SJS
+260,28,26,San Jose Sharks,Los Angeles Kings,2022020331430,2022020331,Stoppage,430,STOP,Offside,2022-11-26T05:32:58Z,3,01:32,18:28,2,3,,,
+261,28,26,San Jose Sharks,Los Angeles Kings,2022020331347,2022020331,Faceoff,347,FACEOFF,Nick Bonino faceoff won against Gabriel Vilardi,2022-11-26T05:33:27Z,3,01:32,18:28,2,3,28.0,San Jose Sharks,SJS
+262,28,26,San Jose Sharks,Los Angeles Kings,2022020331431,2022020331,Hit,431,HIT,Luke Kunin hit Sean Walker,2022-11-26T05:33:40Z,3,01:45,18:15,2,3,28.0,San Jose Sharks,SJS
+263,28,26,San Jose Sharks,Los Angeles Kings,2022020331432,2022020331,Hit,432,HIT,Carl Grundstrom hit Luke Kunin,2022-11-26T05:33:49Z,3,01:54,18:06,2,3,26.0,Los Angeles Kings,LAK
+264,28,26,San Jose Sharks,Los Angeles Kings,2022020331433,2022020331,Hit,433,HIT,Jaret Anderson-Dolan hit Matt Benning,2022-11-26T05:34:29Z,3,02:34,17:26,2,3,26.0,Los Angeles Kings,LAK
+265,28,26,San Jose Sharks,Los Angeles Kings,2022020331605,2022020331,Goal,605,GOAL,"Rasmus Kupari (2) Wrist Shot, assists: Jaret Anderson-Dolan (1), Arthur Kaliyev (8)",2022-11-26T05:34:46Z,3,02:51,17:09,2,4,26.0,Los Angeles Kings,LAK
+266,28,26,San Jose Sharks,Los Angeles Kings,2022020331348,2022020331,Faceoff,348,FACEOFF,Tomas Hertl faceoff won against Anze Kopitar,2022-11-26T05:35:23Z,3,02:51,17:09,2,4,28.0,San Jose Sharks,SJS
+267,28,26,San Jose Sharks,Los Angeles Kings,2022020331434,2022020331,Hit,434,HIT,Timo Meier hit Matt Roy,2022-11-26T05:35:56Z,3,03:24,16:36,2,4,28.0,San Jose Sharks,SJS
+268,28,26,San Jose Sharks,Los Angeles Kings,2022020331606,2022020331,Blocked Shot,606,BLOCKED_SHOT,Alexander Barabanov shot blocked shot by Sean Walker,2022-11-26T05:36:28Z,3,03:56,16:04,2,4,26.0,Los Angeles Kings,LAK
+269,28,26,San Jose Sharks,Los Angeles Kings,2022020331607,2022020331,Blocked Shot,607,BLOCKED_SHOT,Phillip Danault shot blocked shot by Mario Ferraro,2022-11-26T05:36:39Z,3,04:07,15:53,2,4,28.0,San Jose Sharks,SJS
+270,28,26,San Jose Sharks,Los Angeles Kings,2022020331608,2022020331,Shot,608,SHOT,Phillip Danault Slap Shot saved by James Reimer,2022-11-26T05:36:44Z,3,04:12,15:48,2,4,26.0,Los Angeles Kings,LAK
+271,28,26,San Jose Sharks,Los Angeles Kings,2022020331435,2022020331,Hit,435,HIT,Logan Couture hit Trevor Moore,2022-11-26T05:36:52Z,3,04:20,15:40,2,4,28.0,San Jose Sharks,SJS
+272,28,26,San Jose Sharks,Los Angeles Kings,2022020331436,2022020331,Stoppage,436,STOP,Puck Frozen,2022-11-26T05:37:13Z,3,04:41,15:19,2,4,,,
+273,28,26,San Jose Sharks,Los Angeles Kings,2022020331349,2022020331,Faceoff,349,FACEOFF,Blake Lizotte faceoff won against Nick Bonino,2022-11-26T05:37:41Z,3,04:41,15:19,2,4,26.0,Los Angeles Kings,LAK
+274,28,26,San Jose Sharks,Los Angeles Kings,2022020331437,2022020331,Hit,437,HIT,Mikey Anderson hit Luke Kunin,2022-11-26T05:38:00Z,3,05:00,15:00,2,4,26.0,Los Angeles Kings,LAK
+275,28,26,San Jose Sharks,Los Angeles Kings,2022020331350,2022020331,Takeaway,350,TAKEAWAY,Takeaway by Noah Gregor,2022-11-26T05:38:08Z,3,05:08,14:52,2,4,28.0,San Jose Sharks,SJS
+276,28,26,San Jose Sharks,Los Angeles Kings,2022020331609,2022020331,Shot,609,SHOT,Noah Gregor Wrist Shot saved by Jonathan Quick,2022-11-26T05:38:10Z,3,05:10,14:50,2,4,28.0,San Jose Sharks,SJS
+277,28,26,San Jose Sharks,Los Angeles Kings,2022020331438,2022020331,Stoppage,438,STOP,Goalie Stopped,2022-11-26T05:38:12Z,3,05:12,14:48,2,4,,,
+278,28,26,San Jose Sharks,Los Angeles Kings,2022020331651,2022020331,Faceoff,651,FACEOFF,Tomas Hertl faceoff won against Anze Kopitar,2022-11-26T05:38:46Z,3,05:12,14:48,2,4,28.0,San Jose Sharks,SJS
+279,28,26,San Jose Sharks,Los Angeles Kings,2022020331610,2022020331,Blocked Shot,610,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Matt Roy,2022-11-26T05:38:50Z,3,05:16,14:44,2,4,26.0,Los Angeles Kings,LAK
+280,28,26,San Jose Sharks,Los Angeles Kings,2022020331611,2022020331,Shot,611,SHOT,Tomas Hertl Poke saved by Jonathan Quick,2022-11-26T05:39:15Z,3,05:41,14:19,2,4,28.0,San Jose Sharks,SJS
+281,28,26,San Jose Sharks,Los Angeles Kings,2022020331439,2022020331,Stoppage,439,STOP,Goalie Stopped,2022-11-26T05:39:16Z,3,05:42,14:18,2,4,,,
+282,28,26,San Jose Sharks,Los Angeles Kings,2022020331652,2022020331,Faceoff,652,FACEOFF,Logan Couture faceoff won against Phillip Danault,2022-11-26T05:39:56Z,3,05:42,14:18,2,4,28.0,San Jose Sharks,SJS
+283,28,26,San Jose Sharks,Los Angeles Kings,2022020331612,2022020331,Missed Shot,612,MISSED_SHOT,Phillip Danault Wide of Net James Reimer,2022-11-26T05:40:16Z,3,06:02,13:58,2,4,26.0,Los Angeles Kings,LAK
+284,28,26,San Jose Sharks,Los Angeles Kings,2022020331653,2022020331,Giveaway,653,GIVEAWAY,Giveaway by Alexander Barabanov,2022-11-26T05:40:33Z,3,06:19,13:41,2,4,28.0,San Jose Sharks,SJS
+285,28,26,San Jose Sharks,Los Angeles Kings,2022020331654,2022020331,Takeaway,654,TAKEAWAY,Takeaway by Trevor Moore,2022-11-26T05:40:39Z,3,06:25,13:35,2,4,26.0,Los Angeles Kings,LAK
+286,28,26,San Jose Sharks,Los Angeles Kings,2022020331440,2022020331,Hit,440,HIT,Jaret Anderson-Dolan hit Radim Simek,2022-11-26T05:40:56Z,3,06:42,13:18,2,4,26.0,Los Angeles Kings,LAK
+287,28,26,San Jose Sharks,Los Angeles Kings,2022020331655,2022020331,Giveaway,655,GIVEAWAY,Giveaway by Mario Ferraro,2022-11-26T05:40:59Z,3,06:45,13:15,2,4,28.0,San Jose Sharks,SJS
+288,28,26,San Jose Sharks,Los Angeles Kings,2022020331441,2022020331,Hit,441,HIT,Rasmus Kupari hit Mario Ferraro,2022-11-26T05:41:02Z,3,06:48,13:12,2,4,26.0,Los Angeles Kings,LAK
+289,28,26,San Jose Sharks,Los Angeles Kings,2022020331613,2022020331,Missed Shot,613,MISSED_SHOT,Sean Walker Wide of Net James Reimer,2022-11-26T05:41:06Z,3,06:52,13:08,2,4,26.0,Los Angeles Kings,LAK
+290,28,26,San Jose Sharks,Los Angeles Kings,2022020331614,2022020331,Shot,614,SHOT,Jaret Anderson-Dolan Snap Shot saved by James Reimer,2022-11-26T05:41:20Z,3,07:06,12:54,2,4,26.0,Los Angeles Kings,LAK
+291,28,26,San Jose Sharks,Los Angeles Kings,2022020331442,2022020331,Hit,442,HIT,Radim Simek hit Sean Walker,2022-11-26T05:41:21Z,3,07:07,12:53,2,4,28.0,San Jose Sharks,SJS
+292,28,26,San Jose Sharks,Los Angeles Kings,2022020331443,2022020331,Stoppage,443,STOP,Goalie Stopped,2022-11-26T05:41:21Z,3,07:07,12:53,2,4,,,
+293,28,26,San Jose Sharks,Los Angeles Kings,2022020331657,2022020331,Faceoff,657,FACEOFF,Nick Bonino faceoff won against Gabriel Vilardi,2022-11-26T05:43:38Z,3,07:07,12:53,2,4,28.0,San Jose Sharks,SJS
+294,28,26,San Jose Sharks,Los Angeles Kings,2022020331444,2022020331,Hit,444,HIT,Blake Lizotte hit Marc-Edouard Vlasic,2022-11-26T05:43:43Z,3,07:12,12:48,2,4,26.0,Los Angeles Kings,LAK
+295,28,26,San Jose Sharks,Los Angeles Kings,2022020331616,2022020331,Shot,616,SHOT,Blake Lizotte Wrist Shot saved by James Reimer,2022-11-26T05:43:51Z,3,07:20,12:40,2,4,26.0,Los Angeles Kings,LAK
+296,28,26,San Jose Sharks,Los Angeles Kings,2022020331445,2022020331,Stoppage,445,STOP,Goalie Stopped,2022-11-26T05:43:53Z,3,07:21,12:39,2,4,,,
+297,28,26,San Jose Sharks,Los Angeles Kings,2022020331658,2022020331,Faceoff,658,FACEOFF,Blake Lizotte faceoff won against Nick Bonino,2022-11-26T05:44:14Z,3,07:21,12:39,2,4,26.0,Los Angeles Kings,LAK
+298,28,26,San Jose Sharks,Los Angeles Kings,2022020331446,2022020331,Hit,446,HIT,Luke Kunin hit Sean Walker,2022-11-26T05:44:51Z,3,07:58,12:02,2,4,28.0,San Jose Sharks,SJS
+299,28,26,San Jose Sharks,Los Angeles Kings,2022020331617,2022020331,Blocked Shot,617,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Anze Kopitar,2022-11-26T05:44:55Z,3,08:02,11:58,2,4,26.0,Los Angeles Kings,LAK
+300,28,26,San Jose Sharks,Los Angeles Kings,2022020331447,2022020331,Stoppage,447,STOP,Puck in Netting,2022-11-26T05:44:56Z,3,08:03,11:57,2,4,,,
+301,28,26,San Jose Sharks,Los Angeles Kings,2022020331659,2022020331,Faceoff,659,FACEOFF,Tomas Hertl faceoff won against Adrian Kempe,2022-11-26T05:45:44Z,3,08:03,11:57,2,4,28.0,San Jose Sharks,SJS
+302,28,26,San Jose Sharks,Los Angeles Kings,2022020331448,2022020331,Hit,448,HIT,Timo Meier hit Mikey Anderson,2022-11-26T05:45:55Z,3,08:14,11:46,2,4,28.0,San Jose Sharks,SJS
+303,28,26,San Jose Sharks,Los Angeles Kings,2022020331660,2022020331,Giveaway,660,GIVEAWAY,Giveaway by Jaycob Megna,2022-11-26T05:46:02Z,3,08:21,11:39,2,4,28.0,San Jose Sharks,SJS
+304,28,26,San Jose Sharks,Los Angeles Kings,2022020331661,2022020331,Takeaway,661,TAKEAWAY,Takeaway by Mikey Anderson,2022-11-26T05:46:15Z,3,08:34,11:26,2,4,26.0,Los Angeles Kings,LAK
+305,28,26,San Jose Sharks,Los Angeles Kings,2022020331618,2022020331,Shot,618,SHOT,Tomas Hertl Wrist Shot saved by Jonathan Quick,2022-11-26T05:46:20Z,3,08:39,11:21,2,4,28.0,San Jose Sharks,SJS
+306,28,26,San Jose Sharks,Los Angeles Kings,2022020331619,2022020331,Shot,619,SHOT,Alexander Barabanov Tip-In saved by Jonathan Quick,2022-11-26T05:46:40Z,3,08:59,11:01,2,4,28.0,San Jose Sharks,SJS
+307,28,26,San Jose Sharks,Los Angeles Kings,2022020331620,2022020331,Shot,620,SHOT,Alexander Barabanov Backhand saved by Jonathan Quick,2022-11-26T05:46:41Z,3,09:00,11:00,2,4,28.0,San Jose Sharks,SJS
+308,28,26,San Jose Sharks,Los Angeles Kings,2022020331449,2022020331,Hit,449,HIT,Radim Simek hit Phillip Danault,2022-11-26T05:47:25Z,3,09:44,10:16,2,4,28.0,San Jose Sharks,SJS
+309,28,26,San Jose Sharks,Los Angeles Kings,2022020331450,2022020331,Hit,450,HIT,Matt Benning hit Arthur Kaliyev,2022-11-26T05:47:48Z,3,10:07,09:53,2,4,28.0,San Jose Sharks,SJS
+310,28,26,San Jose Sharks,Los Angeles Kings,2022020331621,2022020331,Blocked Shot,621,BLOCKED_SHOT,Arthur Kaliyev shot blocked shot by Matt Benning,2022-11-26T05:47:49Z,3,10:08,09:52,2,4,28.0,San Jose Sharks,SJS
+311,28,26,San Jose Sharks,Los Angeles Kings,2022020331751,2022020331,Hit,751,HIT,Blake Lizotte hit Oskar Lindblom,2022-11-26T05:48:18Z,3,10:37,09:23,2,4,26.0,Los Angeles Kings,LAK
+312,28,26,San Jose Sharks,Los Angeles Kings,2022020331662,2022020331,Giveaway,662,GIVEAWAY,Giveaway by Evgeny Svechnikov,2022-11-26T05:48:22Z,3,10:41,09:19,2,4,28.0,San Jose Sharks,SJS
+313,28,26,San Jose Sharks,Los Angeles Kings,2022020331622,2022020331,Shot,622,SHOT,Carl Grundstrom Tip-In saved by James Reimer,2022-11-26T05:48:23Z,3,10:42,09:18,2,4,26.0,Los Angeles Kings,LAK
+314,28,26,San Jose Sharks,Los Angeles Kings,2022020331623,2022020331,Blocked Shot,623,BLOCKED_SHOT,Evgeny Svechnikov shot blocked shot by Gabriel Vilardi,2022-11-26T05:48:36Z,3,10:55,09:05,2,4,26.0,Los Angeles Kings,LAK
+315,28,26,San Jose Sharks,Los Angeles Kings,2022020331752,2022020331,Stoppage,752,STOP,Offside,2022-11-26T05:48:53Z,3,11:11,08:49,2,4,,,
+316,28,26,San Jose Sharks,Los Angeles Kings,2022020331663,2022020331,Faceoff,663,FACEOFF,Anze Kopitar faceoff won against Logan Couture,2022-11-26T05:51:07Z,3,11:11,08:49,2,4,26.0,Los Angeles Kings,LAK
+317,28,26,San Jose Sharks,Los Angeles Kings,2022020331624,2022020331,Missed Shot,624,MISSED_SHOT,Logan Couture Wide of Net Jonathan Quick,2022-11-26T05:51:18Z,3,11:22,08:38,2,4,28.0,San Jose Sharks,SJS
+318,28,26,San Jose Sharks,Los Angeles Kings,2022020331625,2022020331,Shot,625,SHOT,Adrian Kempe Snap Shot saved by James Reimer,2022-11-26T05:51:31Z,3,11:35,08:25,2,4,26.0,Los Angeles Kings,LAK
+319,28,26,San Jose Sharks,Los Angeles Kings,2022020331753,2022020331,Stoppage,753,STOP,Goalie Stopped,2022-11-26T05:51:32Z,3,11:36,08:24,2,4,,,
+320,28,26,San Jose Sharks,Los Angeles Kings,2022020331664,2022020331,Faceoff,664,FACEOFF,Tomas Hertl faceoff won against Phillip Danault,2022-11-26T05:52:00Z,3,11:36,08:24,2,4,28.0,San Jose Sharks,SJS
+321,28,26,San Jose Sharks,Los Angeles Kings,2022020331754,2022020331,Hit,754,HIT,Mikey Anderson hit Kevin Labanc,2022-11-26T05:52:11Z,3,11:47,08:13,2,4,26.0,Los Angeles Kings,LAK
+322,28,26,San Jose Sharks,Los Angeles Kings,2022020331626,2022020331,Blocked Shot,626,BLOCKED_SHOT,Radim Simek shot blocked shot by Phillip Danault,2022-11-26T05:52:18Z,3,11:54,08:06,2,4,26.0,Los Angeles Kings,LAK
+323,28,26,San Jose Sharks,Los Angeles Kings,2022020331627,2022020331,Missed Shot,627,MISSED_SHOT,Timo Meier Wide of Net Jonathan Quick,2022-11-26T05:52:21Z,3,11:57,08:03,2,4,28.0,San Jose Sharks,SJS
+324,28,26,San Jose Sharks,Los Angeles Kings,2022020331665,2022020331,Takeaway,665,TAKEAWAY,Takeaway by Trevor Moore,2022-11-26T05:52:36Z,3,12:12,07:48,2,4,26.0,Los Angeles Kings,LAK
+325,28,26,San Jose Sharks,Los Angeles Kings,2022020331666,2022020331,Takeaway,666,TAKEAWAY,Takeaway by Mikey Anderson,2022-11-26T05:52:42Z,3,12:18,07:42,2,4,26.0,Los Angeles Kings,LAK
+326,28,26,San Jose Sharks,Los Angeles Kings,2022020331755,2022020331,Stoppage,755,STOP,Puck in Crowd,2022-11-26T05:52:56Z,3,12:31,07:29,2,4,,,
+327,28,26,San Jose Sharks,Los Angeles Kings,2022020331668,2022020331,Faceoff,668,FACEOFF,Rasmus Kupari faceoff won against Nick Bonino,2022-11-26T05:53:31Z,3,12:31,07:29,2,4,26.0,Los Angeles Kings,LAK
+328,28,26,San Jose Sharks,Los Angeles Kings,2022020331756,2022020331,Stoppage,756,STOP,Puck in Benches,2022-11-26T05:53:37Z,3,12:36,07:24,2,4,,,
+329,28,26,San Jose Sharks,Los Angeles Kings,2022020331669,2022020331,Faceoff,669,FACEOFF,Rasmus Kupari faceoff won against Nick Bonino,2022-11-26T05:54:17Z,3,12:36,07:24,2,4,26.0,Los Angeles Kings,LAK
+330,28,26,San Jose Sharks,Los Angeles Kings,2022020331757,2022020331,Hit,757,HIT,Luke Kunin hit Jaret Anderson-Dolan,2022-11-26T05:54:30Z,3,12:49,07:11,2,4,28.0,San Jose Sharks,SJS
+331,28,26,San Jose Sharks,Los Angeles Kings,2022020331628,2022020331,Missed Shot,628,MISSED_SHOT,Evgeny Svechnikov Wide of Net Jonathan Quick,2022-11-26T05:54:54Z,3,13:13,06:47,2,4,28.0,San Jose Sharks,SJS
+332,28,26,San Jose Sharks,Los Angeles Kings,2022020331629,2022020331,Missed Shot,629,MISSED_SHOT,Carl Grundstrom Wide of Net James Reimer,2022-11-26T05:55:05Z,3,13:24,06:36,2,4,26.0,Los Angeles Kings,LAK
+333,28,26,San Jose Sharks,Los Angeles Kings,2022020331630,2022020331,Shot,630,SHOT,Erik Karlsson Slap Shot saved by Jonathan Quick,2022-11-26T05:55:12Z,3,13:31,06:29,2,4,28.0,San Jose Sharks,SJS
+334,28,26,San Jose Sharks,Los Angeles Kings,2022020331758,2022020331,Stoppage,758,STOP,Goalie Stopped,2022-11-26T05:55:13Z,3,13:32,06:28,2,4,,,
+335,28,26,San Jose Sharks,Los Angeles Kings,2022020331670,2022020331,Faceoff,670,FACEOFF,Kevin Fiala faceoff won against Logan Couture,2022-11-26T05:56:21Z,3,13:32,06:28,2,4,26.0,Los Angeles Kings,LAK
+336,28,26,San Jose Sharks,Los Angeles Kings,2022020331631,2022020331,Shot,631,SHOT,Timo Meier Wrist Shot saved by Jonathan Quick,2022-11-26T05:57:10Z,3,14:21,05:39,2,4,28.0,San Jose Sharks,SJS
+337,28,26,San Jose Sharks,Los Angeles Kings,2022020331760,2022020331,Stoppage,760,STOP,TV timeout,2022-11-26T05:57:11Z,3,14:22,05:38,2,4,,,
+338,28,26,San Jose Sharks,Los Angeles Kings,2022020331929,2022020331,Penalty,929,PENALTY,Kevin Fiala Tripping against Erik Karlsson,2022-11-26T05:57:11Z,3,14:22,05:38,2,4,26.0,Los Angeles Kings,LAK
+339,28,26,San Jose Sharks,Los Angeles Kings,2022020331671,2022020331,Faceoff,671,FACEOFF,Phillip Danault faceoff won against Tomas Hertl,2022-11-26T05:59:25Z,3,14:22,05:38,2,4,26.0,Los Angeles Kings,LAK
+340,28,26,San Jose Sharks,Los Angeles Kings,2022020331672,2022020331,Takeaway,672,TAKEAWAY,Takeaway by Phillip Danault,2022-11-26T05:59:48Z,3,14:45,05:15,2,4,26.0,Los Angeles Kings,LAK
+341,28,26,San Jose Sharks,Los Angeles Kings,2022020331632,2022020331,Shot,632,SHOT,Phillip Danault Wrist Shot saved by James Reimer,2022-11-26T05:59:49Z,3,14:46,05:14,2,4,26.0,Los Angeles Kings,LAK
+342,28,26,San Jose Sharks,Los Angeles Kings,2022020331633,2022020331,Missed Shot,633,MISSED_SHOT,Timo Meier Wide of Net Jonathan Quick,2022-11-26T06:00:19Z,3,15:16,04:44,2,4,28.0,San Jose Sharks,SJS
+343,28,26,San Jose Sharks,Los Angeles Kings,2022020331761,2022020331,Stoppage,761,STOP,Offside,2022-11-26T06:00:42Z,3,15:39,04:21,2,4,,,
+344,28,26,San Jose Sharks,Los Angeles Kings,2022020331673,2022020331,Faceoff,673,FACEOFF,Nick Bonino faceoff won against Blake Lizotte,2022-11-26T06:01:05Z,3,15:39,04:21,2,4,28.0,San Jose Sharks,SJS
+345,28,26,San Jose Sharks,Los Angeles Kings,2022020331674,2022020331,Takeaway,674,TAKEAWAY,Takeaway by Luke Kunin,2022-11-26T06:01:19Z,3,15:53,04:07,2,4,28.0,San Jose Sharks,SJS
+346,28,26,San Jose Sharks,Los Angeles Kings,2022020331634,2022020331,Missed Shot,634,MISSED_SHOT,Luke Kunin Wide of Net Jonathan Quick,2022-11-26T06:01:35Z,3,16:09,03:51,2,4,28.0,San Jose Sharks,SJS
+347,28,26,San Jose Sharks,Los Angeles Kings,2022020331635,2022020331,Shot,635,SHOT,Kevin Labanc Wrist Shot saved by Jonathan Quick,2022-11-26T06:01:45Z,3,16:19,03:41,2,4,28.0,San Jose Sharks,SJS
+348,28,26,San Jose Sharks,Los Angeles Kings,2022020331675,2022020331,Takeaway,675,TAKEAWAY,Takeaway by Nick Bonino,2022-11-26T06:01:50Z,3,16:24,03:36,2,4,28.0,San Jose Sharks,SJS
+349,28,26,San Jose Sharks,Los Angeles Kings,2022020331636,2022020331,Shot,636,SHOT,Kevin Labanc Wrist Shot saved by Jonathan Quick,2022-11-26T06:01:55Z,3,16:29,03:31,2,4,28.0,San Jose Sharks,SJS
+350,28,26,San Jose Sharks,Los Angeles Kings,2022020331762,2022020331,Stoppage,762,STOP,Puck in Netting,2022-11-26T06:01:57Z,3,16:31,03:29,2,4,,,
+351,28,26,San Jose Sharks,Los Angeles Kings,2022020331677,2022020331,Faceoff,677,FACEOFF,Tomas Hertl faceoff won against Phillip Danault,2022-11-26T06:02:35Z,3,16:31,03:29,2,4,28.0,San Jose Sharks,SJS
+352,28,26,San Jose Sharks,Los Angeles Kings,2022020331637,2022020331,Missed Shot,637,MISSED_SHOT,Erik Karlsson Wide of Net Jonathan Quick,2022-11-26T06:02:41Z,3,16:37,03:23,2,4,28.0,San Jose Sharks,SJS
+353,28,26,San Jose Sharks,Los Angeles Kings,2022020331763,2022020331,Stoppage,763,STOP,Puck Frozen,2022-11-26T06:02:59Z,3,16:55,03:05,2,4,,,
+354,28,26,San Jose Sharks,Los Angeles Kings,2022020331678,2022020331,Faceoff,678,FACEOFF,Anze Kopitar faceoff won against Tomas Hertl,2022-11-26T06:03:40Z,3,16:55,03:05,2,4,26.0,Los Angeles Kings,LAK
+355,28,26,San Jose Sharks,Los Angeles Kings,2022020331764,2022020331,Stoppage,764,STOP,Icing,2022-11-26T06:03:47Z,3,17:02,02:58,2,4,,,
+356,28,26,San Jose Sharks,Los Angeles Kings,2022020331679,2022020331,Faceoff,679,FACEOFF,Tomas Hertl faceoff won against Anze Kopitar,2022-11-26T06:04:10Z,3,17:02,02:58,2,4,28.0,San Jose Sharks,SJS
+357,28,26,San Jose Sharks,Los Angeles Kings,2022020331638,2022020331,Shot,638,SHOT,Logan Couture Wrist Shot saved by Jonathan Quick,2022-11-26T06:04:16Z,3,17:08,02:52,2,4,28.0,San Jose Sharks,SJS
+358,28,26,San Jose Sharks,Los Angeles Kings,2022020331640,2022020331,Blocked Shot,640,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Mikey Anderson,2022-11-26T06:04:20Z,3,17:12,02:48,2,4,26.0,Los Angeles Kings,LAK
+359,28,26,San Jose Sharks,Los Angeles Kings,2022020331639,2022020331,Blocked Shot,639,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Mikey Anderson,2022-11-26T06:04:21Z,3,17:13,02:47,2,4,26.0,Los Angeles Kings,LAK
+360,28,26,San Jose Sharks,Los Angeles Kings,2022020331957,2022020331,Blocked Shot,957,BLOCKED_SHOT,Adrian Kempe shot blocked shot by Erik Karlsson,2022-11-26T06:04:35Z,3,17:27,02:33,2,4,28.0,San Jose Sharks,SJS
+361,28,26,San Jose Sharks,Los Angeles Kings,2022020331641,2022020331,Goal,641,GOAL,"Anze Kopitar (4) Wrist Shot, assists: Adrian Kempe (6)",2022-11-26T06:04:40Z,3,17:32,02:28,2,5,26.0,Los Angeles Kings,LAK
+362,28,26,San Jose Sharks,Los Angeles Kings,2022020331680,2022020331,Faceoff,680,FACEOFF,Steven Lorentz faceoff won against Rasmus Kupari,2022-11-26T06:05:20Z,3,17:32,02:28,2,5,28.0,San Jose Sharks,SJS
+363,28,26,San Jose Sharks,Los Angeles Kings,2022020331643,2022020331,Shot,643,SHOT,Mario Ferraro Wrist Shot saved by Jonathan Quick,2022-11-26T06:05:44Z,3,17:56,02:04,2,5,28.0,San Jose Sharks,SJS
+364,28,26,San Jose Sharks,Los Angeles Kings,2022020331644,2022020331,Shot,644,SHOT,Nick Bonino Wrist Shot saved by Jonathan Quick,2022-11-26T06:06:21Z,3,18:33,01:27,2,5,28.0,San Jose Sharks,SJS
+365,28,26,San Jose Sharks,Los Angeles Kings,2022020331645,2022020331,Missed Shot,645,MISSED_SHOT,Marc-Edouard Vlasic Wide of Net Jonathan Quick,2022-11-26T06:06:25Z,3,18:37,01:23,2,5,28.0,San Jose Sharks,SJS
+366,28,26,San Jose Sharks,Los Angeles Kings,2022020331646,2022020331,Missed Shot,646,MISSED_SHOT,Nick Bonino Wide of Net Jonathan Quick,2022-11-26T06:06:31Z,3,18:43,01:17,2,5,28.0,San Jose Sharks,SJS
+367,28,26,San Jose Sharks,Los Angeles Kings,2022020331647,2022020331,Missed Shot,647,MISSED_SHOT,Luke Kunin Wide of Net Jonathan Quick,2022-11-26T06:06:42Z,3,18:54,01:06,2,5,28.0,San Jose Sharks,SJS
+368,28,26,San Jose Sharks,Los Angeles Kings,2022020331648,2022020331,Blocked Shot,648,BLOCKED_SHOT,Marc-Edouard Vlasic shot blocked shot by Matt Roy,2022-11-26T06:06:52Z,3,19:04,00:56,2,5,26.0,Los Angeles Kings,LAK
+369,28,26,San Jose Sharks,Los Angeles Kings,2022020331681,2022020331,Giveaway,681,GIVEAWAY,Giveaway by Sean Walker,2022-11-26T06:07:34Z,3,19:46,00:14,2,5,26.0,Los Angeles Kings,LAK
+370,28,26,San Jose Sharks,Los Angeles Kings,2022020331649,2022020331,Blocked Shot,649,BLOCKED_SHOT,Jaycob Megna shot blocked shot by Viktor Arvidsson,2022-11-26T06:07:39Z,3,19:51,00:09,2,5,26.0,Los Angeles Kings,LAK
+371,28,26,San Jose Sharks,Los Angeles Kings,2022020331650,2022020331,Missed Shot,650,MISSED_SHOT,Nick Bonino Over Net Jonathan Quick,2022-11-26T06:07:42Z,3,19:54,00:06,2,5,28.0,San Jose Sharks,SJS
+372,28,26,San Jose Sharks,Los Angeles Kings,2022020331956,2022020331,Blocked Shot,956,BLOCKED_SHOT,Viktor Arvidsson shot blocked shot by Jaycob Megna,2022-11-26T06:07:46Z,3,19:58,00:02,2,5,28.0,San Jose Sharks,SJS
+373,28,26,San Jose Sharks,Los Angeles Kings,2022020331951,2022020331,Period End,951,PERIOD_END,End of 3rd Period,2022-11-26T06:07:49Z,3,20:00,00:00,2,5,,,
+374,28,26,San Jose Sharks,Los Angeles Kings,2022020331954,2022020331,Period Official,954,PERIOD_OFFICIAL,Period Official,2022-11-26T06:07:56Z,3,20:00,00:00,2,5,,,
+375,28,26,San Jose Sharks,Los Angeles Kings,2022020331955,2022020331,Game End,955,GAME_END,Game End,2022-11-26T06:07:57Z,3,20:00,00:00,2,5,,,
+376,28,26,San Jose Sharks,Los Angeles Kings,20220203311191,2022020331,Game Official,1191,GAME_OFFICIAL,Game Official,2022-11-26T16:33:48Z,3,20:00,00:00,2,5,,,

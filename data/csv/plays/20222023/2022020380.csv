@@ -1,0 +1,337 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,6,21,Boston Bruins,Colorado Avalanche,20220203801,2022020380,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-12-03T23:00:44Z,1,00:00,20:00,0,0,,,
+1,6,21,Boston Bruins,Colorado Avalanche,20220203805,2022020380,Period Ready,5,PERIOD_READY,Period Ready,2022-12-04T00:05:57Z,1,00:00,20:00,0,0,,,
+2,6,21,Boston Bruins,Colorado Avalanche,202202038051,2022020380,Period Start,51,PERIOD_START,Period Start,2022-12-04T00:08:26Z,1,00:00,20:00,0,0,,,
+3,6,21,Boston Bruins,Colorado Avalanche,202202038052,2022020380,Faceoff,52,FACEOFF,Nathan MacKinnon faceoff won against Patrice Bergeron,2022-12-04T00:08:26Z,1,00:00,20:00,0,0,21.0,Colorado Avalanche,COL
+4,6,21,Boston Bruins,Colorado Avalanche,202202038053,2022020380,Stoppage,53,STOP,Offside,2022-12-04T00:08:42Z,1,00:16,19:44,0,0,,,
+5,6,21,Boston Bruins,Colorado Avalanche,202202038054,2022020380,Faceoff,54,FACEOFF,J.T. Compher faceoff won against David Krejci,2022-12-04T00:09:16Z,1,00:16,19:44,0,0,21.0,Colorado Avalanche,COL
+6,6,21,Boston Bruins,Colorado Avalanche,2022020380151,2022020380,Giveaway,151,GIVEAWAY,Giveaway by David Pastrnak,2022-12-04T00:09:47Z,1,00:47,19:13,0,0,6.0,Boston Bruins,BOS
+7,6,21,Boston Bruins,Colorado Avalanche,20220203808,2022020380,Blocked Shot,8,BLOCKED_SHOT,Derek Forbort shot blocked shot by Samuel Girard,2022-12-04T00:10:04Z,1,01:04,18:56,0,0,21.0,Colorado Avalanche,COL
+8,6,21,Boston Bruins,Colorado Avalanche,20220203809,2022020380,Hit,9,HIT,Alex Newhook hit Derek Forbort,2022-12-04T00:10:24Z,1,01:24,18:36,0,0,21.0,Colorado Avalanche,COL
+9,6,21,Boston Bruins,Colorado Avalanche,2022020380152,2022020380,Shot,152,SHOT,Jean-Luc Foudy Wrist Shot saved by Linus Ullmark,2022-12-04T00:10:27Z,1,01:27,18:33,0,0,21.0,Colorado Avalanche,COL
+10,6,21,Boston Bruins,Colorado Avalanche,202202038055,2022020380,Stoppage,55,STOP,Goalie Stopped,2022-12-04T00:10:29Z,1,01:30,18:30,0,0,,,
+11,6,21,Boston Bruins,Colorado Avalanche,202202038056,2022020380,Faceoff,56,FACEOFF,Nathan MacKinnon faceoff won against Charlie Coyle,2022-12-04T00:11:16Z,1,01:30,18:30,0,0,21.0,Colorado Avalanche,COL
+12,6,21,Boston Bruins,Colorado Avalanche,2022020380153,2022020380,Shot,153,SHOT,Devon Toews Wrist Shot saved by Linus Ullmark,2022-12-04T00:11:21Z,1,01:35,18:25,0,0,21.0,Colorado Avalanche,COL
+13,6,21,Boston Bruins,Colorado Avalanche,202202038057,2022020380,Stoppage,57,STOP,Goalie Stopped,2022-12-04T00:11:22Z,1,01:36,18:24,0,0,,,
+14,6,21,Boston Bruins,Colorado Avalanche,202202038058,2022020380,Faceoff,58,FACEOFF,Patrice Bergeron faceoff won against Nathan MacKinnon,2022-12-04T00:12:01Z,1,01:36,18:24,0,0,6.0,Boston Bruins,BOS
+15,6,21,Boston Bruins,Colorado Avalanche,2022020380154,2022020380,Takeaway,154,TAKEAWAY,Takeaway by Patrice Bergeron,2022-12-04T00:12:17Z,1,01:52,18:08,0,0,6.0,Boston Bruins,BOS
+16,6,21,Boston Bruins,Colorado Avalanche,202202038010,2022020380,Blocked Shot,10,BLOCKED_SHOT,Charlie McAvoy shot blocked shot by Nathan MacKinnon,2022-12-04T00:12:18Z,1,01:53,18:07,0,0,21.0,Colorado Avalanche,COL
+17,6,21,Boston Bruins,Colorado Avalanche,202202038011,2022020380,Hit,11,HIT,Charlie McAvoy hit Artturi Lehkonen,2022-12-04T00:12:35Z,1,02:10,17:50,0,0,6.0,Boston Bruins,BOS
+18,6,21,Boston Bruins,Colorado Avalanche,2022020380155,2022020380,Giveaway,155,GIVEAWAY,Giveaway by J.T. Compher,2022-12-04T00:13:03Z,1,02:38,17:22,0,0,21.0,Colorado Avalanche,COL
+19,6,21,Boston Bruins,Colorado Avalanche,2022020380251,2022020380,Shot,251,SHOT,Taylor Hall Deflected saved by Pavel Francouz,2022-12-04T00:13:09Z,1,02:44,17:16,0,0,6.0,Boston Bruins,BOS
+20,6,21,Boston Bruins,Colorado Avalanche,202202038059,2022020380,Stoppage,59,STOP,Puck Frozen,2022-12-04T00:13:11Z,1,02:46,17:14,0,0,,,
+21,6,21,Boston Bruins,Colorado Avalanche,202202038060,2022020380,Faceoff,60,FACEOFF,J.T. Compher faceoff won against David Krejci,2022-12-04T00:14:05Z,1,02:46,17:14,0,0,21.0,Colorado Avalanche,COL
+22,6,21,Boston Bruins,Colorado Avalanche,202202038012,2022020380,Hit,12,HIT,Anton Blidh hit Brandon Carlo,2022-12-04T00:15:01Z,1,03:42,16:18,0,0,21.0,Colorado Avalanche,COL
+23,6,21,Boston Bruins,Colorado Avalanche,202202038013,2022020380,Hit,13,HIT,Hampus Lindholm hit Dryden Hunt,2022-12-04T00:15:14Z,1,03:55,16:05,0,0,6.0,Boston Bruins,BOS
+24,6,21,Boston Bruins,Colorado Avalanche,202202038014,2022020380,Hit,14,HIT,Nick Foligno hit Dryden Hunt,2022-12-04T00:15:26Z,1,04:07,15:53,0,0,6.0,Boston Bruins,BOS
+25,6,21,Boston Bruins,Colorado Avalanche,202202038015,2022020380,Hit,15,HIT,Charlie McAvoy hit Artturi Lehkonen,2022-12-04T00:15:39Z,1,04:20,15:40,0,0,6.0,Boston Bruins,BOS
+26,6,21,Boston Bruins,Colorado Avalanche,2022020380156,2022020380,Shot,156,SHOT,Charlie McAvoy Wrist Shot saved by Pavel Francouz,2022-12-04T00:15:45Z,1,04:26,15:34,0,0,6.0,Boston Bruins,BOS
+27,6,21,Boston Bruins,Colorado Avalanche,2022020380157,2022020380,Shot,157,SHOT,Brad Marchand Backhand saved by Pavel Francouz,2022-12-04T00:16:05Z,1,04:46,15:14,0,0,6.0,Boston Bruins,BOS
+28,6,21,Boston Bruins,Colorado Avalanche,2022020380252,2022020380,Missed Shot,252,MISSED_SHOT,Brad Marchand Wide of Net Pavel  Francouz,2022-12-04T00:16:06Z,1,04:47,15:13,0,0,6.0,Boston Bruins,BOS
+29,6,21,Boston Bruins,Colorado Avalanche,2022020380158,2022020380,Shot,158,SHOT,Patrice Bergeron Wrist Shot saved by Pavel Francouz,2022-12-04T00:16:14Z,1,04:55,15:05,0,0,6.0,Boston Bruins,BOS
+30,6,21,Boston Bruins,Colorado Avalanche,2022020380159,2022020380,Missed Shot,159,MISSED_SHOT,Patrice Bergeron Over Net Pavel  Francouz,2022-12-04T00:16:38Z,1,05:19,14:41,0,0,6.0,Boston Bruins,BOS
+31,6,21,Boston Bruins,Colorado Avalanche,2022020380160,2022020380,Shot,160,SHOT,Artturi Lehkonen Backhand saved by Linus Ullmark,2022-12-04T00:16:43Z,1,05:24,14:36,0,0,21.0,Colorado Avalanche,COL
+32,6,21,Boston Bruins,Colorado Avalanche,202202038016,2022020380,Blocked Shot,16,BLOCKED_SHOT,Derek Forbort shot blocked shot by Jean-Luc Foudy,2022-12-04T00:17:08Z,1,05:49,14:11,0,0,21.0,Colorado Avalanche,COL
+33,6,21,Boston Bruins,Colorado Avalanche,2022020380161,2022020380,Missed Shot,161,MISSED_SHOT,Trent Frederic Wide of Net Pavel  Francouz,2022-12-04T00:17:09Z,1,05:50,14:10,0,0,6.0,Boston Bruins,BOS
+34,6,21,Boston Bruins,Colorado Avalanche,202202038017,2022020380,Hit,17,HIT,Connor Clifton hit Jean-Luc Foudy,2022-12-04T00:17:33Z,1,06:14,13:46,0,0,6.0,Boston Bruins,BOS
+35,6,21,Boston Bruins,Colorado Avalanche,202202038018,2022020380,Blocked Shot,18,BLOCKED_SHOT,David Pastrnak shot blocked shot by Jacob MacDonald,2022-12-04T00:18:10Z,1,06:51,13:09,0,0,21.0,Colorado Avalanche,COL
+36,6,21,Boston Bruins,Colorado Avalanche,2022020380162,2022020380,Shot,162,SHOT,Anton Blidh Wrist Shot saved by Linus Ullmark,2022-12-04T00:18:25Z,1,07:06,12:54,0,0,21.0,Colorado Avalanche,COL
+37,6,21,Boston Bruins,Colorado Avalanche,202202038063,2022020380,Stoppage,63,STOP,Goalie Stopped,2022-12-04T00:18:26Z,1,07:07,12:53,0,0,,,
+38,6,21,Boston Bruins,Colorado Avalanche,202202038065,2022020380,Faceoff,65,FACEOFF,Patrice Bergeron faceoff won against Mikko Rantanen,2022-12-04T00:21:08Z,1,07:07,12:53,0,0,6.0,Boston Bruins,BOS
+39,6,21,Boston Bruins,Colorado Avalanche,202202038019,2022020380,Hit,19,HIT,Brad Marchand hit Devon Toews,2022-12-04T00:21:39Z,1,07:38,12:22,0,0,6.0,Boston Bruins,BOS
+40,6,21,Boston Bruins,Colorado Avalanche,2022020380163,2022020380,Shot,163,SHOT,Cale Makar Wrist Shot saved by Linus Ullmark,2022-12-04T00:21:44Z,1,07:43,12:17,0,0,21.0,Colorado Avalanche,COL
+41,6,21,Boston Bruins,Colorado Avalanche,2022020380164,2022020380,Takeaway,164,TAKEAWAY,Takeaway by Patrice Bergeron,2022-12-04T00:22:03Z,1,08:02,11:58,0,0,6.0,Boston Bruins,BOS
+42,6,21,Boston Bruins,Colorado Avalanche,202202038020,2022020380,Hit,20,HIT,Jayson Megna hit Brandon Carlo,2022-12-04T00:22:21Z,1,08:20,11:40,0,0,21.0,Colorado Avalanche,COL
+43,6,21,Boston Bruins,Colorado Avalanche,202202038066,2022020380,Stoppage,66,STOP,Icing,2022-12-04T00:22:26Z,1,08:25,11:35,0,0,,,
+44,6,21,Boston Bruins,Colorado Avalanche,202202038067,2022020380,Faceoff,67,FACEOFF,Pavel Zacha faceoff won against Jayson Megna,2022-12-04T00:23:14Z,1,08:25,11:35,0,0,6.0,Boston Bruins,BOS
+45,6,21,Boston Bruins,Colorado Avalanche,202202038021,2022020380,Hit,21,HIT,Matt Grzelcyk hit Samuel Girard,2022-12-04T00:23:34Z,1,08:45,11:15,0,0,6.0,Boston Bruins,BOS
+46,6,21,Boston Bruins,Colorado Avalanche,2022020380165,2022020380,Takeaway,165,TAKEAWAY,Takeaway by Brandon Carlo,2022-12-04T00:23:37Z,1,08:48,11:12,0,0,6.0,Boston Bruins,BOS
+47,6,21,Boston Bruins,Colorado Avalanche,202202038022,2022020380,Hit,22,HIT,David Pastrnak hit Devon Toews,2022-12-04T00:23:56Z,1,09:07,10:53,0,0,6.0,Boston Bruins,BOS
+48,6,21,Boston Bruins,Colorado Avalanche,202202038024,2022020380,Hit,24,HIT,Brandon Carlo hit Logan O'Connor,2022-12-04T00:24:03Z,1,09:14,10:46,0,0,6.0,Boston Bruins,BOS
+49,6,21,Boston Bruins,Colorado Avalanche,2022020380166,2022020380,Takeaway,166,TAKEAWAY,Takeaway by Devon Toews,2022-12-04T00:24:10Z,1,09:21,10:39,0,0,21.0,Colorado Avalanche,COL
+50,6,21,Boston Bruins,Colorado Avalanche,2022020380167,2022020380,Shot,167,SHOT,Nick Foligno Wrist Shot saved by Pavel Francouz,2022-12-04T00:24:26Z,1,09:37,10:23,0,0,6.0,Boston Bruins,BOS
+51,6,21,Boston Bruins,Colorado Avalanche,2022020380168,2022020380,Shot,168,SHOT,A.J. Greer Wrist Shot saved by Pavel Francouz,2022-12-04T00:24:35Z,1,09:46,10:14,0,0,6.0,Boston Bruins,BOS
+52,6,21,Boston Bruins,Colorado Avalanche,202202038068,2022020380,Stoppage,68,STOP,Goalie Stopped,2022-12-04T00:24:36Z,1,09:47,10:13,0,0,,,
+53,6,21,Boston Bruins,Colorado Avalanche,202202038069,2022020380,Faceoff,69,FACEOFF,Alex Newhook faceoff won against Patrice Bergeron,2022-12-04T00:25:10Z,1,09:47,10:13,0,0,21.0,Colorado Avalanche,COL
+54,6,21,Boston Bruins,Colorado Avalanche,202202038025,2022020380,Hit,25,HIT,Jake DeBrusk hit Andreas Englund,2022-12-04T00:25:18Z,1,09:55,10:05,0,0,6.0,Boston Bruins,BOS
+55,6,21,Boston Bruins,Colorado Avalanche,202202038026,2022020380,Hit,26,HIT,Brad Marchand hit Jean-Luc Foudy,2022-12-04T00:25:27Z,1,10:04,09:56,0,0,6.0,Boston Bruins,BOS
+56,6,21,Boston Bruins,Colorado Avalanche,202202038070,2022020380,Stoppage,70,STOP,TV timeout,2022-12-04T00:25:29Z,1,10:07,09:53,0,0,,,
+57,6,21,Boston Bruins,Colorado Avalanche,2022020380247,2022020380,Penalty,247,PENALTY,Jean-Luc Foudy Hooking against Brad Marchand,2022-12-04T00:25:29Z,1,10:07,09:53,0,0,21.0,Colorado Avalanche,COL
+58,6,21,Boston Bruins,Colorado Avalanche,202202038071,2022020380,Faceoff,71,FACEOFF,J.T. Compher faceoff won against Patrice Bergeron,2022-12-04T00:27:52Z,1,10:07,09:53,0,0,21.0,Colorado Avalanche,COL
+59,6,21,Boston Bruins,Colorado Avalanche,2022020380169,2022020380,Missed Shot,169,MISSED_SHOT,David Pastrnak Goalpost Pavel  Francouz,2022-12-04T00:28:40Z,1,10:55,09:05,0,0,6.0,Boston Bruins,BOS
+60,6,21,Boston Bruins,Colorado Avalanche,202202038028,2022020380,Hit,28,HIT,Nathan MacKinnon hit Taylor Hall,2022-12-04T00:30:01Z,1,12:16,07:44,0,0,21.0,Colorado Avalanche,COL
+61,6,21,Boston Bruins,Colorado Avalanche,202202038072,2022020380,Stoppage,72,STOP,Offside,2022-12-04T00:30:06Z,1,12:21,07:39,0,0,,,
+62,6,21,Boston Bruins,Colorado Avalanche,202202038073,2022020380,Faceoff,73,FACEOFF,Tomas Nosek faceoff won against Nathan MacKinnon,2022-12-04T00:30:32Z,1,12:21,07:39,0,0,6.0,Boston Bruins,BOS
+63,6,21,Boston Bruins,Colorado Avalanche,2022020380170,2022020380,Giveaway,170,GIVEAWAY,Giveaway by Nathan MacKinnon,2022-12-04T00:30:50Z,1,12:39,07:21,0,0,21.0,Colorado Avalanche,COL
+64,6,21,Boston Bruins,Colorado Avalanche,202202038074,2022020380,Stoppage,74,STOP,Icing,2022-12-04T00:30:55Z,1,12:44,07:16,0,0,,,
+65,6,21,Boston Bruins,Colorado Avalanche,202202038075,2022020380,Faceoff,75,FACEOFF,Nathan MacKinnon faceoff won against Tomas Nosek,2022-12-04T00:31:32Z,1,12:44,07:16,0,0,21.0,Colorado Avalanche,COL
+66,6,21,Boston Bruins,Colorado Avalanche,2022020380171,2022020380,Shot,171,SHOT,Patrice Bergeron Wrist Shot saved by Pavel Francouz,2022-12-04T00:32:07Z,1,13:19,06:41,0,0,6.0,Boston Bruins,BOS
+67,6,21,Boston Bruins,Colorado Avalanche,2022020380332,2022020380,Penalty,332,PENALTY,Dryden Hunt Tripping against Brad Marchand,2022-12-04T00:32:07Z,1,13:20,06:40,0,0,21.0,Colorado Avalanche,COL
+68,6,21,Boston Bruins,Colorado Avalanche,202202038076,2022020380,Faceoff,76,FACEOFF,Patrice Bergeron faceoff won against J.T. Compher,2022-12-04T00:32:51Z,1,13:20,06:40,0,0,6.0,Boston Bruins,BOS
+69,6,21,Boston Bruins,Colorado Avalanche,2022020380172,2022020380,Goal,172,GOAL,"David Pastrnak (15) Wrist Shot, assists: Brad Marchand (12), Charlie McAvoy (9)",2022-12-04T00:33:21Z,1,13:49,06:11,1,0,6.0,Boston Bruins,BOS
+70,6,21,Boston Bruins,Colorado Avalanche,202202038077,2022020380,Faceoff,77,FACEOFF,Tomas Nosek faceoff won against Alex Newhook,2022-12-04T00:34:11Z,1,13:49,06:11,1,0,6.0,Boston Bruins,BOS
+71,6,21,Boston Bruins,Colorado Avalanche,2022020380173,2022020380,Shot,173,SHOT,Alex Galchenyuk Tip-In saved by Linus Ullmark,2022-12-04T00:34:24Z,1,14:02,05:58,1,0,21.0,Colorado Avalanche,COL
+72,6,21,Boston Bruins,Colorado Avalanche,202202038078,2022020380,Stoppage,78,STOP,Goalie Stopped,2022-12-04T00:34:25Z,1,14:03,05:57,1,0,,,
+73,6,21,Boston Bruins,Colorado Avalanche,202202038080,2022020380,Faceoff,80,FACEOFF,Patrice Bergeron faceoff won against Nathan MacKinnon,2022-12-04T00:37:01Z,1,14:03,05:57,1,0,6.0,Boston Bruins,BOS
+74,6,21,Boston Bruins,Colorado Avalanche,2022020380174,2022020380,Shot,174,SHOT,Samuel Girard Wrist Shot saved by Linus Ullmark,2022-12-04T00:37:23Z,1,14:25,05:35,1,0,21.0,Colorado Avalanche,COL
+75,6,21,Boston Bruins,Colorado Avalanche,202202038029,2022020380,Hit,29,HIT,Charlie McAvoy hit Artturi Lehkonen,2022-12-04T00:37:30Z,1,14:32,05:28,1,0,6.0,Boston Bruins,BOS
+76,6,21,Boston Bruins,Colorado Avalanche,2022020380175,2022020380,Shot,175,SHOT,Mikko Rantanen Backhand saved by Linus Ullmark,2022-12-04T00:37:30Z,1,14:32,05:28,1,0,21.0,Colorado Avalanche,COL
+77,6,21,Boston Bruins,Colorado Avalanche,2022020380176,2022020380,Shot,176,SHOT,Nathan MacKinnon Wrist Shot saved by Linus Ullmark,2022-12-04T00:37:31Z,1,14:33,05:27,1,0,21.0,Colorado Avalanche,COL
+78,6,21,Boston Bruins,Colorado Avalanche,2022020380177,2022020380,Shot,177,SHOT,Nathan MacKinnon Wrist Shot saved by Linus Ullmark,2022-12-04T00:37:32Z,1,14:33,05:27,1,0,21.0,Colorado Avalanche,COL
+79,6,21,Boston Bruins,Colorado Avalanche,202202038081,2022020380,Stoppage,81,STOP,Goalie Stopped,2022-12-04T00:37:32Z,1,14:34,05:26,1,0,,,
+80,6,21,Boston Bruins,Colorado Avalanche,202202038082,2022020380,Faceoff,82,FACEOFF,Nathan MacKinnon faceoff won against Tomas Nosek,2022-12-04T00:38:17Z,1,14:34,05:26,1,0,21.0,Colorado Avalanche,COL
+81,6,21,Boston Bruins,Colorado Avalanche,2022020380178,2022020380,Takeaway,178,TAKEAWAY,Takeaway by Nathan MacKinnon,2022-12-04T00:38:37Z,1,14:54,05:06,1,0,21.0,Colorado Avalanche,COL
+82,6,21,Boston Bruins,Colorado Avalanche,202202038030,2022020380,Hit,30,HIT,Alex Newhook hit Hampus Lindholm,2022-12-04T00:38:40Z,1,14:57,05:03,1,0,21.0,Colorado Avalanche,COL
+83,6,21,Boston Bruins,Colorado Avalanche,2022020380179,2022020380,Shot,179,SHOT,Nathan MacKinnon Tip-In saved by Linus Ullmark,2022-12-04T00:38:44Z,1,15:01,04:59,1,0,21.0,Colorado Avalanche,COL
+84,6,21,Boston Bruins,Colorado Avalanche,2022020380180,2022020380,Shot,180,SHOT,Alex Newhook Wrist Shot saved by Linus Ullmark,2022-12-04T00:38:54Z,1,15:11,04:49,1,0,21.0,Colorado Avalanche,COL
+85,6,21,Boston Bruins,Colorado Avalanche,202202038031,2022020380,Hit,31,HIT,Alex Newhook hit Connor Clifton,2022-12-04T00:38:57Z,1,15:14,04:46,1,0,21.0,Colorado Avalanche,COL
+86,6,21,Boston Bruins,Colorado Avalanche,202202038032,2022020380,Hit,32,HIT,Andreas Englund hit Nick Foligno,2022-12-04T00:39:05Z,1,15:22,04:38,1,0,21.0,Colorado Avalanche,COL
+87,6,21,Boston Bruins,Colorado Avalanche,202202038033,2022020380,Penalty,33,PENALTY,Nick Foligno Roughing against Andreas Englund served by Trent Frederic,2022-12-04T00:39:07Z,1,15:24,04:36,1,0,6.0,Boston Bruins,BOS
+88,6,21,Boston Bruins,Colorado Avalanche,202202038037,2022020380,Penalty,37,PENALTY,Andreas Englund Fighting against Nick Foligno,2022-12-04T00:39:07Z,1,15:24,04:36,1,0,21.0,Colorado Avalanche,COL
+89,6,21,Boston Bruins,Colorado Avalanche,202202038040,2022020380,Penalty,40,PENALTY,Nick Foligno Fighting against Andreas Englund,2022-12-04T00:39:07Z,1,15:24,04:36,1,0,6.0,Boston Bruins,BOS
+90,6,21,Boston Bruins,Colorado Avalanche,202202038083,2022020380,Faceoff,83,FACEOFF,J.T. Compher faceoff won against Tomas Nosek,2022-12-04T00:41:26Z,1,15:24,04:36,1,0,21.0,Colorado Avalanche,COL
+91,6,21,Boston Bruins,Colorado Avalanche,2022020380181,2022020380,Shot,181,SHOT,Charlie Coyle Wrist Shot saved by Pavel Francouz,2022-12-04T00:41:51Z,1,15:49,04:11,1,0,6.0,Boston Bruins,BOS
+92,6,21,Boston Bruins,Colorado Avalanche,2022020380253,2022020380,Shot,253,SHOT,Hampus Lindholm Wrist Shot saved by Pavel Francouz,2022-12-04T00:41:58Z,1,15:56,04:04,1,0,6.0,Boston Bruins,BOS
+93,6,21,Boston Bruins,Colorado Avalanche,202202038084,2022020380,Stoppage,84,STOP,Puck in Crowd,2022-12-04T00:42:01Z,1,15:59,04:01,1,0,,,
+94,6,21,Boston Bruins,Colorado Avalanche,202202038085,2022020380,Faceoff,85,FACEOFF,Patrice Bergeron faceoff won against J.T. Compher,2022-12-04T00:42:28Z,1,15:59,04:01,1,0,6.0,Boston Bruins,BOS
+95,6,21,Boston Bruins,Colorado Avalanche,2022020380254,2022020380,Blocked Shot,254,BLOCKED_SHOT,Brad Marchand shot blocked shot by J.T. Compher,2022-12-04T00:42:29Z,1,16:00,04:00,1,0,21.0,Colorado Avalanche,COL
+96,6,21,Boston Bruins,Colorado Avalanche,202202038044,2022020380,Blocked Shot,44,BLOCKED_SHOT,J.T. Compher shot blocked shot by Hampus Lindholm,2022-12-04T00:43:17Z,1,16:48,03:12,1,0,6.0,Boston Bruins,BOS
+97,6,21,Boston Bruins,Colorado Avalanche,2022020380255,2022020380,Missed Shot,255,MISSED_SHOT,J.T. Compher Goalpost Linus Ullmark,2022-12-04T00:43:18Z,1,16:49,03:11,1,0,21.0,Colorado Avalanche,COL
+98,6,21,Boston Bruins,Colorado Avalanche,202202038043,2022020380,Hit,43,HIT,Hampus Lindholm hit J.T. Compher,2022-12-04T00:43:25Z,1,16:56,03:04,1,0,6.0,Boston Bruins,BOS
+99,6,21,Boston Bruins,Colorado Avalanche,2022020380183,2022020380,Giveaway,183,GIVEAWAY,Giveaway by Samuel Girard,2022-12-04T00:44:01Z,1,17:32,02:28,1,0,21.0,Colorado Avalanche,COL
+100,6,21,Boston Bruins,Colorado Avalanche,202202038086,2022020380,Stoppage,86,STOP,Goalie Stopped,2022-12-04T00:44:10Z,1,17:41,02:19,1,0,,,
+101,6,21,Boston Bruins,Colorado Avalanche,2022020380184,2022020380,Shot,184,SHOT,Matt Grzelcyk Wrist Shot saved by Pavel Francouz,2022-12-04T00:44:10Z,1,17:41,02:19,1,0,6.0,Boston Bruins,BOS
+102,6,21,Boston Bruins,Colorado Avalanche,202202038087,2022020380,Faceoff,87,FACEOFF,Jayson Megna faceoff won against David Krejci,2022-12-04T00:44:52Z,1,17:41,02:19,1,0,21.0,Colorado Avalanche,COL
+103,6,21,Boston Bruins,Colorado Avalanche,2022020380185,2022020380,Shot,185,SHOT,Jayson Megna Wrist Shot saved by Linus Ullmark,2022-12-04T00:45:11Z,1,18:00,02:00,1,0,21.0,Colorado Avalanche,COL
+104,6,21,Boston Bruins,Colorado Avalanche,2022020380186,2022020380,Missed Shot,186,MISSED_SHOT,Samuel Girard Wide of Net Linus Ullmark,2022-12-04T00:45:31Z,1,18:20,01:40,1,0,21.0,Colorado Avalanche,COL
+105,6,21,Boston Bruins,Colorado Avalanche,2022020380187,2022020380,Takeaway,187,TAKEAWAY,Takeaway by Charlie Coyle,2022-12-04T00:45:58Z,1,18:47,01:13,1,0,6.0,Boston Bruins,BOS
+106,6,21,Boston Bruins,Colorado Avalanche,2022020380189,2022020380,Shot,189,SHOT,Charlie McAvoy Backhand saved by Pavel Francouz,2022-12-04T00:46:01Z,1,18:50,01:10,1,0,6.0,Boston Bruins,BOS
+107,6,21,Boston Bruins,Colorado Avalanche,2022020380188,2022020380,Goal,188,GOAL,"Trent Frederic (4) Wrist Shot, assists: Charlie McAvoy (10), Pavel Zacha (13)",2022-12-04T00:46:02Z,1,18:51,01:09,2,0,6.0,Boston Bruins,BOS
+108,6,21,Boston Bruins,Colorado Avalanche,202202038088,2022020380,Faceoff,88,FACEOFF,J.T. Compher faceoff won against Patrice Bergeron,2022-12-04T00:46:54Z,1,18:51,01:09,2,0,21.0,Colorado Avalanche,COL
+109,6,21,Boston Bruins,Colorado Avalanche,202202038045,2022020380,Blocked Shot,45,BLOCKED_SHOT,Alex Newhook shot blocked shot by David Krejci,2022-12-04T00:47:32Z,1,19:29,00:31,2,0,6.0,Boston Bruins,BOS
+110,6,21,Boston Bruins,Colorado Avalanche,2022020380190,2022020380,Shot,190,SHOT,Jean-Luc Foudy Wrist Shot saved by Linus Ullmark,2022-12-04T00:47:46Z,1,19:43,00:17,2,0,21.0,Colorado Avalanche,COL
+111,6,21,Boston Bruins,Colorado Avalanche,202202038046,2022020380,Hit,46,HIT,Jayson Megna hit Connor Clifton,2022-12-04T00:47:54Z,1,19:51,00:09,2,0,21.0,Colorado Avalanche,COL
+112,6,21,Boston Bruins,Colorado Avalanche,202202038047,2022020380,Period End,47,PERIOD_END,End of 1st Period,2022-12-04T00:48:03Z,1,20:00,00:00,2,0,,,
+113,6,21,Boston Bruins,Colorado Avalanche,202202038050,2022020380,Period Official,50,PERIOD_OFFICIAL,Period Official,2022-12-04T00:48:14Z,1,20:00,00:00,2,0,,,
+114,6,21,Boston Bruins,Colorado Avalanche,2022020380351,2022020380,Period Ready,351,PERIOD_READY,Period Ready,2022-12-04T01:05:29Z,2,00:00,20:00,2,0,,,
+115,6,21,Boston Bruins,Colorado Avalanche,202202038089,2022020380,Period Start,89,PERIOD_START,Period Start,2022-12-04T01:06:45Z,2,00:00,20:00,2,0,,,
+116,6,21,Boston Bruins,Colorado Avalanche,202202038090,2022020380,Faceoff,90,FACEOFF,Nathan MacKinnon faceoff won against Patrice Bergeron,2022-12-04T01:06:45Z,2,00:00,20:00,2,0,21.0,Colorado Avalanche,COL
+117,6,21,Boston Bruins,Colorado Avalanche,2022020380191,2022020380,Missed Shot,191,MISSED_SHOT,Patrice Bergeron Wide of Net Pavel  Francouz,2022-12-04T01:07:08Z,2,00:23,19:37,2,0,6.0,Boston Bruins,BOS
+118,6,21,Boston Bruins,Colorado Avalanche,2022020380352,2022020380,Hit,352,HIT,Cale Makar hit Jake DeBrusk,2022-12-04T01:07:16Z,2,00:31,19:29,2,0,21.0,Colorado Avalanche,COL
+119,6,21,Boston Bruins,Colorado Avalanche,2022020380192,2022020380,Giveaway,192,GIVEAWAY,Giveaway by Charlie McAvoy,2022-12-04T01:07:42Z,2,00:57,19:03,2,0,6.0,Boston Bruins,BOS
+120,6,21,Boston Bruins,Colorado Avalanche,2022020380193,2022020380,Shot,193,SHOT,Charlie McAvoy Wrist Shot saved by Pavel Francouz,2022-12-04T01:07:44Z,2,00:59,19:01,2,0,6.0,Boston Bruins,BOS
+121,6,21,Boston Bruins,Colorado Avalanche,202202038091,2022020380,Stoppage,91,STOP,Goalie Stopped,2022-12-04T01:07:48Z,2,01:03,18:57,2,0,,,
+122,6,21,Boston Bruins,Colorado Avalanche,202202038092,2022020380,Faceoff,92,FACEOFF,J.T. Compher faceoff won against Pavel Zacha,2022-12-04T01:08:36Z,2,01:03,18:57,2,0,21.0,Colorado Avalanche,COL
+123,6,21,Boston Bruins,Colorado Avalanche,2022020380194,2022020380,Shot,194,SHOT,Andrew Cogliano Deflected saved by Linus Ullmark,2022-12-04T01:08:58Z,2,01:25,18:35,2,0,21.0,Colorado Avalanche,COL
+124,6,21,Boston Bruins,Colorado Avalanche,2022020380353,2022020380,Hit,353,HIT,J.T. Compher hit Brandon Carlo,2022-12-04T01:08:59Z,2,01:26,18:34,2,0,21.0,Colorado Avalanche,COL
+125,6,21,Boston Bruins,Colorado Avalanche,202202038093,2022020380,Stoppage,93,STOP,Icing,2022-12-04T01:09:48Z,2,02:15,17:45,2,0,,,
+126,6,21,Boston Bruins,Colorado Avalanche,202202038094,2022020380,Faceoff,94,FACEOFF,Nathan MacKinnon faceoff won against Charlie Coyle,2022-12-04T01:10:16Z,2,02:15,17:45,2,0,21.0,Colorado Avalanche,COL
+127,6,21,Boston Bruins,Colorado Avalanche,202202038095,2022020380,Stoppage,95,STOP,Offside,2022-12-04T01:10:22Z,2,02:21,17:39,2,0,,,
+128,6,21,Boston Bruins,Colorado Avalanche,202202038096,2022020380,Faceoff,96,FACEOFF,Patrice Bergeron faceoff won against Mikko Rantanen,2022-12-04T01:11:04Z,2,02:21,17:39,2,0,6.0,Boston Bruins,BOS
+129,6,21,Boston Bruins,Colorado Avalanche,2022020380195,2022020380,Shot,195,SHOT,Jean-Luc Foudy Wrist Shot saved by Linus Ullmark,2022-12-04T01:11:12Z,2,02:29,17:31,2,0,21.0,Colorado Avalanche,COL
+130,6,21,Boston Bruins,Colorado Avalanche,2022020380354,2022020380,Hit,354,HIT,Brad Marchand hit Jean-Luc Foudy,2022-12-04T01:11:12Z,2,02:29,17:31,2,0,6.0,Boston Bruins,BOS
+131,6,21,Boston Bruins,Colorado Avalanche,202202038097,2022020380,Stoppage,97,STOP,Goalie Stopped,2022-12-04T01:11:15Z,2,02:31,17:29,2,0,,,
+132,6,21,Boston Bruins,Colorado Avalanche,202202038098,2022020380,Faceoff,98,FACEOFF,Patrice Bergeron faceoff won against Nathan MacKinnon,2022-12-04T01:11:41Z,2,02:31,17:29,2,0,6.0,Boston Bruins,BOS
+133,6,21,Boston Bruins,Colorado Avalanche,202202038099,2022020380,Stoppage,99,STOP,Puck in Crowd,2022-12-04T01:11:44Z,2,02:35,17:25,2,0,,,
+134,6,21,Boston Bruins,Colorado Avalanche,2022020380196,2022020380,Shot,196,SHOT,Nathan MacKinnon Wrist Shot saved by Linus Ullmark,2022-12-04T01:11:44Z,2,02:35,17:25,2,0,21.0,Colorado Avalanche,COL
+135,6,21,Boston Bruins,Colorado Avalanche,2022020380100,2022020380,Faceoff,100,FACEOFF,Nathan MacKinnon faceoff won against Patrice Bergeron,2022-12-04T01:12:02Z,2,02:35,17:25,2,0,21.0,Colorado Avalanche,COL
+136,6,21,Boston Bruins,Colorado Avalanche,2022020380401,2022020380,Stoppage,401,STOP,Goalie Stopped,2022-12-04T01:12:04Z,2,02:37,17:23,2,0,,,
+137,6,21,Boston Bruins,Colorado Avalanche,2022020380402,2022020380,Faceoff,402,FACEOFF,Patrice Bergeron faceoff won against Nathan MacKinnon,2022-12-04T01:12:22Z,2,02:37,17:23,2,0,6.0,Boston Bruins,BOS
+138,6,21,Boston Bruins,Colorado Avalanche,2022020380197,2022020380,Takeaway,197,TAKEAWAY,Takeaway by Patrice Bergeron,2022-12-04T01:12:53Z,2,03:08,16:52,2,0,6.0,Boston Bruins,BOS
+139,6,21,Boston Bruins,Colorado Avalanche,2022020380198,2022020380,Shot,198,SHOT,Jake DeBrusk Wrist Shot saved by Pavel Francouz,2022-12-04T01:12:57Z,2,03:12,16:48,2,0,6.0,Boston Bruins,BOS
+140,6,21,Boston Bruins,Colorado Avalanche,2022020380256,2022020380,Shot,256,SHOT,Jake DeBrusk Wrist Shot saved by Pavel Francouz,2022-12-04T01:12:58Z,2,03:13,16:47,2,0,6.0,Boston Bruins,BOS
+141,6,21,Boston Bruins,Colorado Avalanche,2022020380403,2022020380,Stoppage,403,STOP,Net Dislodged Offensive Skater,2022-12-04T01:12:59Z,2,03:14,16:46,2,0,,,
+142,6,21,Boston Bruins,Colorado Avalanche,2022020380404,2022020380,Faceoff,404,FACEOFF,Nick Foligno faceoff won against Jayson Megna,2022-12-04T01:17:20Z,2,03:14,16:46,2,0,6.0,Boston Bruins,BOS
+143,6,21,Boston Bruins,Colorado Avalanche,2022020380355,2022020380,Hit,355,HIT,Anton Blidh hit Brandon Carlo,2022-12-04T01:17:28Z,2,03:22,16:38,2,0,21.0,Colorado Avalanche,COL
+144,6,21,Boston Bruins,Colorado Avalanche,2022020380199,2022020380,Takeaway,199,TAKEAWAY,Takeaway by A.J. Greer,2022-12-04T01:17:33Z,2,03:27,16:33,2,0,6.0,Boston Bruins,BOS
+145,6,21,Boston Bruins,Colorado Avalanche,2022020380200,2022020380,Takeaway,200,TAKEAWAY,Takeaway by Nick Foligno,2022-12-04T01:17:37Z,2,03:31,16:29,2,0,6.0,Boston Bruins,BOS
+146,6,21,Boston Bruins,Colorado Avalanche,2022020380356,2022020380,Hit,356,HIT,Erik Johnson hit Tomas Nosek,2022-12-04T01:17:43Z,2,03:37,16:23,2,0,21.0,Colorado Avalanche,COL
+147,6,21,Boston Bruins,Colorado Avalanche,2022020380501,2022020380,Shot,501,SHOT,Tomas Nosek Wrist Shot saved by Pavel Francouz,2022-12-04T01:17:47Z,2,03:41,16:19,2,0,6.0,Boston Bruins,BOS
+148,6,21,Boston Bruins,Colorado Avalanche,2022020380357,2022020380,Hit,357,HIT,Alex Newhook hit Matt Grzelcyk,2022-12-04T01:18:00Z,2,03:54,16:06,2,0,21.0,Colorado Avalanche,COL
+149,6,21,Boston Bruins,Colorado Avalanche,2022020380502,2022020380,Giveaway,502,GIVEAWAY,Giveaway by Samuel Girard,2022-12-04T01:18:09Z,2,04:03,15:57,2,0,21.0,Colorado Avalanche,COL
+150,6,21,Boston Bruins,Colorado Avalanche,2022020380503,2022020380,Shot,503,SHOT,Connor Clifton Wrist Shot saved by Pavel Francouz,2022-12-04T01:18:16Z,2,04:10,15:50,2,0,6.0,Boston Bruins,BOS
+151,6,21,Boston Bruins,Colorado Avalanche,2022020380405,2022020380,Stoppage,405,STOP,Puck in Netting,2022-12-04T01:18:20Z,2,04:13,15:47,2,0,,,
+152,6,21,Boston Bruins,Colorado Avalanche,2022020380406,2022020380,Faceoff,406,FACEOFF,David Krejci faceoff won against J.T. Compher,2022-12-04T01:19:01Z,2,04:13,15:47,2,0,6.0,Boston Bruins,BOS
+153,6,21,Boston Bruins,Colorado Avalanche,2022020380358,2022020380,Hit,358,HIT,Andrew Cogliano hit Connor Clifton,2022-12-04T01:19:18Z,2,04:30,15:30,2,0,21.0,Colorado Avalanche,COL
+154,6,21,Boston Bruins,Colorado Avalanche,2022020380505,2022020380,Giveaway,505,GIVEAWAY,Giveaway by Jacob MacDonald,2022-12-04T01:19:30Z,2,04:42,15:18,2,0,21.0,Colorado Avalanche,COL
+155,6,21,Boston Bruins,Colorado Avalanche,2022020380504,2022020380,Goal,504,GOAL,"David Pastrnak (16) Snap Shot, assists: David Krejci (11)",2022-12-04T01:19:36Z,2,04:48,15:12,3,0,6.0,Boston Bruins,BOS
+156,6,21,Boston Bruins,Colorado Avalanche,2022020380407,2022020380,Faceoff,407,FACEOFF,Patrice Bergeron faceoff won against Nathan MacKinnon,2022-12-04T01:20:15Z,2,04:48,15:12,3,0,6.0,Boston Bruins,BOS
+157,6,21,Boston Bruins,Colorado Avalanche,2022020380359,2022020380,Blocked Shot,359,BLOCKED_SHOT,Hampus Lindholm shot blocked shot by Cale Makar,2022-12-04T01:20:29Z,2,05:02,14:58,3,0,21.0,Colorado Avalanche,COL
+158,6,21,Boston Bruins,Colorado Avalanche,2022020380257,2022020380,Blocked Shot,257,BLOCKED_SHOT,Brad Marchand shot blocked shot by Samuel Girard,2022-12-04T01:20:44Z,2,05:17,14:43,3,0,21.0,Colorado Avalanche,COL
+159,6,21,Boston Bruins,Colorado Avalanche,2022020380408,2022020380,Stoppage,408,STOP,Puck in Netting,2022-12-04T01:20:46Z,2,05:20,14:40,3,0,,,
+160,6,21,Boston Bruins,Colorado Avalanche,2022020380409,2022020380,Faceoff,409,FACEOFF,Charlie Coyle faceoff won against Nathan MacKinnon,2022-12-04T01:21:19Z,2,05:20,14:40,3,0,6.0,Boston Bruins,BOS
+161,6,21,Boston Bruins,Colorado Avalanche,2022020380507,2022020380,Missed Shot,507,MISSED_SHOT,Taylor Hall Wide of Net Pavel  Francouz,2022-12-04T01:21:21Z,2,05:22,14:38,3,0,6.0,Boston Bruins,BOS
+162,6,21,Boston Bruins,Colorado Avalanche,2022020380508,2022020380,Takeaway,508,TAKEAWAY,Takeaway by Trent Frederic,2022-12-04T01:21:54Z,2,05:55,14:05,3,0,6.0,Boston Bruins,BOS
+163,6,21,Boston Bruins,Colorado Avalanche,2022020380360,2022020380,Blocked Shot,360,BLOCKED_SHOT,Dryden Hunt shot blocked shot by Matt Grzelcyk,2022-12-04T01:22:14Z,2,06:15,13:45,3,0,6.0,Boston Bruins,BOS
+164,6,21,Boston Bruins,Colorado Avalanche,2022020380361,2022020380,Hit,361,HIT,Andreas Englund hit Trent Frederic,2022-12-04T01:22:19Z,2,06:20,13:40,3,0,21.0,Colorado Avalanche,COL
+165,6,21,Boston Bruins,Colorado Avalanche,2022020380410,2022020380,Stoppage,410,STOP,Icing,2022-12-04T01:22:29Z,2,06:30,13:30,3,0,,,
+166,6,21,Boston Bruins,Colorado Avalanche,2022020380411,2022020380,Faceoff,411,FACEOFF,David Krejci faceoff won against Alex Newhook,2022-12-04T01:23:03Z,2,06:30,13:30,3,0,6.0,Boston Bruins,BOS
+167,6,21,Boston Bruins,Colorado Avalanche,2022020380362,2022020380,Hit,362,HIT,Alex Galchenyuk hit Connor Clifton,2022-12-04T01:23:17Z,2,06:44,13:16,3,0,21.0,Colorado Avalanche,COL
+168,6,21,Boston Bruins,Colorado Avalanche,2022020380509,2022020380,Shot,509,SHOT,Pavel Zacha Wrist Shot saved by Pavel Francouz,2022-12-04T01:23:18Z,2,06:45,13:15,3,0,6.0,Boston Bruins,BOS
+169,6,21,Boston Bruins,Colorado Avalanche,2022020380363,2022020380,Hit,363,HIT,David Pastrnak hit Erik Johnson,2022-12-04T01:23:27Z,2,06:54,13:06,3,0,6.0,Boston Bruins,BOS
+170,6,21,Boston Bruins,Colorado Avalanche,2022020380364,2022020380,Hit,364,HIT,David Krejci hit Andreas Englund,2022-12-04T01:23:42Z,2,07:09,12:51,3,0,6.0,Boston Bruins,BOS
+171,6,21,Boston Bruins,Colorado Avalanche,2022020380365,2022020380,Hit,365,HIT,Tomas Nosek hit Erik Johnson,2022-12-04T01:24:07Z,2,07:34,12:26,3,0,6.0,Boston Bruins,BOS
+172,6,21,Boston Bruins,Colorado Avalanche,2022020380412,2022020380,Stoppage,412,STOP,TV timeout,2022-12-04T01:24:11Z,2,07:38,12:22,3,0,,,
+173,6,21,Boston Bruins,Colorado Avalanche,2022020380597,2022020380,Penalty,597,PENALTY,Hampus Lindholm Holding against Andrew Cogliano,2022-12-04T01:24:11Z,2,07:38,12:22,3,0,6.0,Boston Bruins,BOS
+174,6,21,Boston Bruins,Colorado Avalanche,2022020380413,2022020380,Faceoff,413,FACEOFF,Patrice Bergeron faceoff won against J.T. Compher,2022-12-04T01:26:30Z,2,07:38,12:22,3,0,6.0,Boston Bruins,BOS
+175,6,21,Boston Bruins,Colorado Avalanche,2022020380258,2022020380,Blocked Shot,258,BLOCKED_SHOT,J.T. Compher shot blocked shot by Charlie Coyle,2022-12-04T01:27:08Z,2,08:16,11:44,3,0,6.0,Boston Bruins,BOS
+176,6,21,Boston Bruins,Colorado Avalanche,2022020380368,2022020380,Hit,368,HIT,J.T. Compher hit Connor Clifton,2022-12-04T01:27:32Z,2,08:40,11:20,3,0,21.0,Colorado Avalanche,COL
+177,6,21,Boston Bruins,Colorado Avalanche,2022020380369,2022020380,Hit,369,HIT,Logan O'Connor hit Jake DeBrusk,2022-12-04T01:27:47Z,2,08:55,11:05,3,0,21.0,Colorado Avalanche,COL
+178,6,21,Boston Bruins,Colorado Avalanche,2022020380370,2022020380,Hit,370,HIT,Connor Clifton hit Alex Galchenyuk,2022-12-04T01:28:00Z,2,09:08,10:52,3,0,6.0,Boston Bruins,BOS
+179,6,21,Boston Bruins,Colorado Avalanche,2022020380371,2022020380,Hit,371,HIT,Brandon Carlo hit Dryden Hunt,2022-12-04T01:29:03Z,2,10:11,09:49,3,0,6.0,Boston Bruins,BOS
+180,6,21,Boston Bruins,Colorado Avalanche,2022020380518,2022020380,Missed Shot,518,MISSED_SHOT,Dryden Hunt Wide of Net Linus Ullmark,2022-12-04T01:29:09Z,2,10:17,09:43,3,0,21.0,Colorado Avalanche,COL
+181,6,21,Boston Bruins,Colorado Avalanche,2022020380372,2022020380,Hit,372,HIT,Erik Johnson hit Taylor Hall,2022-12-04T01:29:26Z,2,10:34,09:26,3,0,21.0,Colorado Avalanche,COL
+182,6,21,Boston Bruins,Colorado Avalanche,2022020380511,2022020380,Shot,511,SHOT,Matt Grzelcyk Wrist Shot saved by Pavel Francouz,2022-12-04T01:29:29Z,2,10:37,09:23,3,0,6.0,Boston Bruins,BOS
+183,6,21,Boston Bruins,Colorado Avalanche,2022020380512,2022020380,Giveaway,512,GIVEAWAY,Giveaway by Jayson Megna,2022-12-04T01:29:48Z,2,10:56,09:04,3,0,21.0,Colorado Avalanche,COL
+184,6,21,Boston Bruins,Colorado Avalanche,2022020380513,2022020380,Takeaway,513,TAKEAWAY,Takeaway by Erik Johnson,2022-12-04T01:29:54Z,2,11:02,08:58,3,0,21.0,Colorado Avalanche,COL
+185,6,21,Boston Bruins,Colorado Avalanche,2022020380414,2022020380,Stoppage,414,STOP,Icing,2022-12-04T01:30:10Z,2,11:17,08:43,3,0,,,
+186,6,21,Boston Bruins,Colorado Avalanche,2022020380415,2022020380,Faceoff,415,FACEOFF,Nick Foligno faceoff won against J.T. Compher,2022-12-04T01:30:57Z,2,11:17,08:43,3,0,6.0,Boston Bruins,BOS
+187,6,21,Boston Bruins,Colorado Avalanche,2022020380373,2022020380,Hit,373,HIT,Nathan MacKinnon hit Connor Clifton,2022-12-04T01:31:04Z,2,11:24,08:36,3,0,21.0,Colorado Avalanche,COL
+188,6,21,Boston Bruins,Colorado Avalanche,2022020380514,2022020380,Giveaway,514,GIVEAWAY,Giveaway by Connor Clifton,2022-12-04T01:31:18Z,2,11:38,08:22,3,0,6.0,Boston Bruins,BOS
+189,6,21,Boston Bruins,Colorado Avalanche,2022020380416,2022020380,Stoppage,416,STOP,Goalie Puck Frozen Played Beyond Center Line,2022-12-04T01:31:19Z,2,11:39,08:21,3,0,,,
+190,6,21,Boston Bruins,Colorado Avalanche,2022020380417,2022020380,Faceoff,417,FACEOFF,Patrice Bergeron faceoff won against J.T. Compher,2022-12-04T01:31:50Z,2,11:39,08:21,3,0,6.0,Boston Bruins,BOS
+191,6,21,Boston Bruins,Colorado Avalanche,2022020380374,2022020380,Hit,374,HIT,Devon Toews hit Patrice Bergeron,2022-12-04T01:32:04Z,2,11:53,08:07,3,0,21.0,Colorado Avalanche,COL
+192,6,21,Boston Bruins,Colorado Avalanche,2022020380375,2022020380,Hit,375,HIT,Samuel Girard hit Taylor Hall,2022-12-04T01:33:06Z,2,12:55,07:05,3,0,21.0,Colorado Avalanche,COL
+193,6,21,Boston Bruins,Colorado Avalanche,2022020380515,2022020380,Shot,515,SHOT,Brandon Carlo Slap Shot saved by Pavel Francouz,2022-12-04T01:33:12Z,2,13:01,06:59,3,0,6.0,Boston Bruins,BOS
+194,6,21,Boston Bruins,Colorado Avalanche,2022020380376,2022020380,Hit,376,HIT,Trent Frederic hit Logan O'Connor,2022-12-04T01:33:18Z,2,13:07,06:53,3,0,6.0,Boston Bruins,BOS
+195,6,21,Boston Bruins,Colorado Avalanche,2022020380377,2022020380,Hit,377,HIT,Logan O'Connor hit Trent Frederic,2022-12-04T01:33:22Z,2,13:11,06:49,3,0,21.0,Colorado Avalanche,COL
+196,6,21,Boston Bruins,Colorado Avalanche,2022020380516,2022020380,Shot,516,SHOT,Matt Grzelcyk Wrist Shot saved by Pavel Francouz,2022-12-04T01:33:53Z,2,13:42,06:18,3,0,6.0,Boston Bruins,BOS
+197,6,21,Boston Bruins,Colorado Avalanche,2022020380517,2022020380,Missed Shot,517,MISSED_SHOT,Pavel Zacha Over Net Pavel  Francouz,2022-12-04T01:34:19Z,2,14:08,05:52,3,0,6.0,Boston Bruins,BOS
+198,6,21,Boston Bruins,Colorado Avalanche,2022020380418,2022020380,Stoppage,418,STOP,Puck in Netting,2022-12-04T01:34:20Z,2,14:09,05:51,3,0,,,
+199,6,21,Boston Bruins,Colorado Avalanche,2022020380419,2022020380,Faceoff,419,FACEOFF,Nathan MacKinnon faceoff won against Patrice Bergeron,2022-12-04T01:36:40Z,2,14:09,05:51,3,0,21.0,Colorado Avalanche,COL
+200,6,21,Boston Bruins,Colorado Avalanche,2022020380519,2022020380,Takeaway,519,TAKEAWAY,Takeaway by Charlie McAvoy,2022-12-04T01:36:51Z,2,14:20,05:40,3,0,6.0,Boston Bruins,BOS
+201,6,21,Boston Bruins,Colorado Avalanche,2022020380520,2022020380,Takeaway,520,TAKEAWAY,Takeaway by Jake DeBrusk,2022-12-04T01:37:03Z,2,14:32,05:28,3,0,6.0,Boston Bruins,BOS
+202,6,21,Boston Bruins,Colorado Avalanche,2022020380521,2022020380,Shot,521,SHOT,Patrice Bergeron Tip-In saved by Pavel Francouz,2022-12-04T01:37:08Z,2,14:37,05:23,3,0,6.0,Boston Bruins,BOS
+203,6,21,Boston Bruins,Colorado Avalanche,2022020380420,2022020380,Stoppage,420,STOP,Goalie Stopped,2022-12-04T01:37:09Z,2,14:38,05:22,3,0,,,
+204,6,21,Boston Bruins,Colorado Avalanche,2022020380421,2022020380,Faceoff,421,FACEOFF,J.T. Compher faceoff won against David Krejci,2022-12-04T01:37:47Z,2,14:38,05:22,3,0,21.0,Colorado Avalanche,COL
+205,6,21,Boston Bruins,Colorado Avalanche,2022020380378,2022020380,Hit,378,HIT,Andrew Cogliano hit Derek Forbort,2022-12-04T01:38:01Z,2,14:52,05:08,3,0,21.0,Colorado Avalanche,COL
+206,6,21,Boston Bruins,Colorado Avalanche,2022020380522,2022020380,Shot,522,SHOT,Samuel Girard Slap Shot saved by Linus Ullmark,2022-12-04T01:38:11Z,2,15:02,04:58,3,0,21.0,Colorado Avalanche,COL
+207,6,21,Boston Bruins,Colorado Avalanche,2022020380422,2022020380,Stoppage,422,STOP,Goalie Stopped,2022-12-04T01:38:11Z,2,15:03,04:57,3,0,,,
+208,6,21,Boston Bruins,Colorado Avalanche,2022020380423,2022020380,Faceoff,423,FACEOFF,Charlie Coyle faceoff won against Alex Newhook,2022-12-04T01:38:54Z,2,15:03,04:57,3,0,6.0,Boston Bruins,BOS
+209,6,21,Boston Bruins,Colorado Avalanche,2022020380379,2022020380,Hit,379,HIT,Dryden Hunt hit Charlie Coyle,2022-12-04T01:39:08Z,2,15:17,04:43,3,0,21.0,Colorado Avalanche,COL
+210,6,21,Boston Bruins,Colorado Avalanche,2022020380424,2022020380,Stoppage,424,STOP,Offside,2022-12-04T01:39:15Z,2,15:24,04:36,3,0,,,
+211,6,21,Boston Bruins,Colorado Avalanche,2022020380425,2022020380,Faceoff,425,FACEOFF,Charlie Coyle faceoff won against Nathan MacKinnon,2022-12-04T01:41:31Z,2,15:24,04:36,3,0,6.0,Boston Bruins,BOS
+212,6,21,Boston Bruins,Colorado Avalanche,2022020380523,2022020380,Giveaway,523,GIVEAWAY,Giveaway by Cale Makar,2022-12-04T01:41:46Z,2,15:39,04:21,3,0,21.0,Colorado Avalanche,COL
+213,6,21,Boston Bruins,Colorado Avalanche,2022020380381,2022020380,Blocked Shot,381,BLOCKED_SHOT,Cale Makar shot blocked shot by Hampus Lindholm,2022-12-04T01:42:09Z,2,16:02,03:58,3,0,6.0,Boston Bruins,BOS
+214,6,21,Boston Bruins,Colorado Avalanche,2022020380524,2022020380,Giveaway,524,GIVEAWAY,Giveaway by Cale Makar,2022-12-04T01:42:16Z,2,16:09,03:51,3,0,21.0,Colorado Avalanche,COL
+215,6,21,Boston Bruins,Colorado Avalanche,2022020380382,2022020380,Hit,382,HIT,A.J. Greer hit Andreas Englund,2022-12-04T01:43:06Z,2,16:59,03:01,3,0,6.0,Boston Bruins,BOS
+216,6,21,Boston Bruins,Colorado Avalanche,2022020380525,2022020380,Shot,525,SHOT,Tomas Nosek Wrist Shot saved by Pavel Francouz,2022-12-04T01:43:13Z,2,17:06,02:54,3,0,6.0,Boston Bruins,BOS
+217,6,21,Boston Bruins,Colorado Avalanche,2022020380384,2022020380,Penalty,384,PENALTY,Jacob MacDonald PS - Tripping on breakaway against Tomas Nosek,2022-12-04T01:43:15Z,2,17:09,02:51,3,0,21.0,Colorado Avalanche,COL
+218,6,21,Boston Bruins,Colorado Avalanche,2022020380387,2022020380,Stoppage,387,STOP,Goalie Stopped,2022-12-04T01:43:15Z,2,17:09,02:51,3,0,,,
+219,6,21,Boston Bruins,Colorado Avalanche,2022020380526,2022020380,Shot,526,SHOT,Tomas Nosek Wrist Shot saved by Pavel Francouz,2022-12-04T01:43:15Z,2,17:09,02:51,3,0,6.0,Boston Bruins,BOS
+220,6,21,Boston Bruins,Colorado Avalanche,2022020380426,2022020380,Faceoff,426,FACEOFF,Patrice Bergeron faceoff won against Alex Newhook,2022-12-04T01:44:44Z,2,17:09,02:51,3,0,6.0,Boston Bruins,BOS
+221,6,21,Boston Bruins,Colorado Avalanche,2022020380259,2022020380,Blocked Shot,259,BLOCKED_SHOT,Samuel Girard shot blocked shot by Derek Forbort,2022-12-04T01:45:05Z,2,17:30,02:30,3,0,6.0,Boston Bruins,BOS
+222,6,21,Boston Bruins,Colorado Avalanche,2022020380527,2022020380,Shot,527,SHOT,Alex Galchenyuk Wrist Shot saved by Linus Ullmark,2022-12-04T01:45:08Z,2,17:33,02:27,3,0,21.0,Colorado Avalanche,COL
+223,6,21,Boston Bruins,Colorado Avalanche,2022020380260,2022020380,Blocked Shot,260,BLOCKED_SHOT,Pavel Zacha shot blocked shot by Mikko Rantanen,2022-12-04T01:45:49Z,2,18:14,01:46,3,0,21.0,Colorado Avalanche,COL
+224,6,21,Boston Bruins,Colorado Avalanche,2022020380528,2022020380,Shot,528,SHOT,David Pastrnak Wrist Shot saved by Pavel Francouz,2022-12-04T01:45:55Z,2,18:20,01:40,3,0,6.0,Boston Bruins,BOS
+225,6,21,Boston Bruins,Colorado Avalanche,2022020380529,2022020380,Shot,529,SHOT,David Pastrnak Wrap-around saved by Pavel Francouz,2022-12-04T01:46:09Z,2,18:34,01:26,3,0,6.0,Boston Bruins,BOS
+226,6,21,Boston Bruins,Colorado Avalanche,2022020380427,2022020380,Stoppage,427,STOP,Goalie Stopped,2022-12-04T01:46:11Z,2,18:35,01:25,3,0,,,
+227,6,21,Boston Bruins,Colorado Avalanche,2022020380428,2022020380,Faceoff,428,FACEOFF,J.T. Compher faceoff won against Charlie Coyle,2022-12-04T01:46:54Z,2,18:35,01:25,3,0,21.0,Colorado Avalanche,COL
+228,6,21,Boston Bruins,Colorado Avalanche,2022020380261,2022020380,Blocked Shot,261,BLOCKED_SHOT,J.T. Compher shot blocked shot by Brandon Carlo,2022-12-04T01:47:05Z,2,18:46,01:14,3,0,6.0,Boston Bruins,BOS
+229,6,21,Boston Bruins,Colorado Avalanche,2022020380694,2022020380,Penalty,694,PENALTY,Erik Johnson Hooking against Taylor Hall,2022-12-04T01:47:33Z,2,19:13,00:47,3,0,21.0,Colorado Avalanche,COL
+230,6,21,Boston Bruins,Colorado Avalanche,2022020380429,2022020380,Faceoff,429,FACEOFF,Patrice Bergeron faceoff won against J.T. Compher,2022-12-04T01:48:19Z,2,19:13,00:47,3,0,6.0,Boston Bruins,BOS
+231,6,21,Boston Bruins,Colorado Avalanche,2022020380530,2022020380,Missed Shot,530,MISSED_SHOT,Patrice Bergeron Wide of Net Pavel  Francouz,2022-12-04T01:48:32Z,2,19:26,00:34,3,0,6.0,Boston Bruins,BOS
+232,6,21,Boston Bruins,Colorado Avalanche,2022020380531,2022020380,Giveaway,531,GIVEAWAY,Giveaway by David Pastrnak,2022-12-04T01:48:52Z,2,19:46,00:14,3,0,6.0,Boston Bruins,BOS
+233,6,21,Boston Bruins,Colorado Avalanche,2022020380389,2022020380,Period End,389,PERIOD_END,End of 2nd Period,2022-12-04T01:49:06Z,2,20:00,00:00,3,0,,,
+234,6,21,Boston Bruins,Colorado Avalanche,2022020380392,2022020380,Period Official,392,PERIOD_OFFICIAL,Period Official,2022-12-04T01:49:47Z,2,20:00,00:00,3,0,,,
+235,6,21,Boston Bruins,Colorado Avalanche,2022020380394,2022020380,Period Ready,394,PERIOD_READY,Period Ready,2022-12-04T02:06:36Z,3,00:00,20:00,3,0,,,
+236,6,21,Boston Bruins,Colorado Avalanche,2022020380430,2022020380,Period Start,430,PERIOD_START,Period Start,2022-12-04T02:07:58Z,3,00:00,20:00,3,0,,,
+237,6,21,Boston Bruins,Colorado Avalanche,2022020380431,2022020380,Faceoff,431,FACEOFF,Patrice Bergeron faceoff won against J.T. Compher,2022-12-04T02:07:58Z,3,00:00,20:00,3,0,6.0,Boston Bruins,BOS
+238,6,21,Boston Bruins,Colorado Avalanche,2022020380532,2022020380,Giveaway,532,GIVEAWAY,Giveaway by Cale Makar,2022-12-04T02:08:25Z,3,00:27,19:33,3,0,21.0,Colorado Avalanche,COL
+239,6,21,Boston Bruins,Colorado Avalanche,2022020380395,2022020380,Blocked Shot,395,BLOCKED_SHOT,Patrice Bergeron shot blocked shot by Cale Makar,2022-12-04T02:08:34Z,3,00:36,19:24,3,0,21.0,Colorado Avalanche,COL
+240,6,21,Boston Bruins,Colorado Avalanche,2022020380533,2022020380,Missed Shot,533,MISSED_SHOT,Charlie McAvoy Wide of Net Pavel  Francouz,2022-12-04T02:08:46Z,3,00:48,19:12,3,0,6.0,Boston Bruins,BOS
+241,6,21,Boston Bruins,Colorado Avalanche,2022020380534,2022020380,Shot,534,SHOT,David Pastrnak Slap Shot saved by Pavel Francouz,2022-12-04T02:08:53Z,3,00:55,19:05,3,0,6.0,Boston Bruins,BOS
+242,6,21,Boston Bruins,Colorado Avalanche,2022020380399,2022020380,Blocked Shot,399,BLOCKED_SHOT,Nick Foligno shot blocked shot by Samuel Girard,2022-12-04T02:09:58Z,3,02:00,18:00,3,0,21.0,Colorado Avalanche,COL
+243,6,21,Boston Bruins,Colorado Avalanche,2022020380262,2022020380,Blocked Shot,262,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Matt Grzelcyk,2022-12-04T02:10:03Z,3,02:05,17:55,3,0,6.0,Boston Bruins,BOS
+244,6,21,Boston Bruins,Colorado Avalanche,2022020380432,2022020380,Stoppage,432,STOP,Puck in Netting,2022-12-04T02:10:05Z,3,02:07,17:53,3,0,,,
+245,6,21,Boston Bruins,Colorado Avalanche,2022020380433,2022020380,Faceoff,433,FACEOFF,Nathan MacKinnon faceoff won against Charlie Coyle,2022-12-04T02:10:35Z,3,02:07,17:53,3,0,21.0,Colorado Avalanche,COL
+246,6,21,Boston Bruins,Colorado Avalanche,2022020380873,2022020380,Penalty,873,PENALTY,Jacob MacDonald Holding against Trent Frederic,2022-12-04T02:10:53Z,3,02:25,17:35,3,0,21.0,Colorado Avalanche,COL
+247,6,21,Boston Bruins,Colorado Avalanche,2022020380434,2022020380,Faceoff,434,FACEOFF,Patrice Bergeron faceoff won against J.T. Compher,2022-12-04T02:11:43Z,3,02:25,17:35,3,0,6.0,Boston Bruins,BOS
+248,6,21,Boston Bruins,Colorado Avalanche,2022020380400,2022020380,Blocked Shot,400,BLOCKED_SHOT,Patrice Bergeron shot blocked shot by Andrew Cogliano,2022-12-04T02:11:51Z,3,02:33,17:27,3,0,21.0,Colorado Avalanche,COL
+249,6,21,Boston Bruins,Colorado Avalanche,2022020380436,2022020380,Stoppage,436,STOP,Puck in Netting,2022-12-04T02:11:51Z,3,02:33,17:27,3,0,,,
+250,6,21,Boston Bruins,Colorado Avalanche,2022020380435,2022020380,Faceoff,435,FACEOFF,Patrice Bergeron faceoff won against J.T. Compher,2022-12-04T02:12:18Z,3,02:33,17:27,3,0,6.0,Boston Bruins,BOS
+251,6,21,Boston Bruins,Colorado Avalanche,2022020380536,2022020380,Giveaway,536,GIVEAWAY,Giveaway by Brad Marchand,2022-12-04T02:12:52Z,3,03:07,16:53,3,0,6.0,Boston Bruins,BOS
+252,6,21,Boston Bruins,Colorado Avalanche,2022020380701,2022020380,Hit,701,HIT,Erik Johnson hit David Pastrnak,2022-12-04T02:13:02Z,3,03:17,16:43,3,0,21.0,Colorado Avalanche,COL
+253,6,21,Boston Bruins,Colorado Avalanche,2022020380537,2022020380,Shot,537,SHOT,Patrice Bergeron Wrist Shot saved by Pavel Francouz,2022-12-04T02:13:03Z,3,03:18,16:42,3,0,6.0,Boston Bruins,BOS
+254,6,21,Boston Bruins,Colorado Avalanche,2022020380538,2022020380,Shot,538,SHOT,Patrice Bergeron Slap Shot saved by Pavel Francouz,2022-12-04T02:13:22Z,3,03:37,16:23,3,0,6.0,Boston Bruins,BOS
+255,6,21,Boston Bruins,Colorado Avalanche,2022020380888,2022020380,Penalty,888,PENALTY,Nick Foligno Hooking against J.T. Compher,2022-12-04T02:13:46Z,3,04:00,16:00,3,0,6.0,Boston Bruins,BOS
+256,6,21,Boston Bruins,Colorado Avalanche,2022020380437,2022020380,Faceoff,437,FACEOFF,David Krejci faceoff won against Logan O'Connor,2022-12-04T02:14:49Z,3,04:00,16:00,3,0,6.0,Boston Bruins,BOS
+257,6,21,Boston Bruins,Colorado Avalanche,2022020380540,2022020380,Shot,540,SHOT,Taylor Hall Wrist Shot saved by Pavel Francouz,2022-12-04T02:15:03Z,3,04:14,15:46,3,0,6.0,Boston Bruins,BOS
+258,6,21,Boston Bruins,Colorado Avalanche,2022020380894,2022020380,Penalty,894,PENALTY,Jean-Luc Foudy Slashing against Taylor Hall,2022-12-04T02:15:05Z,3,04:16,15:44,3,0,21.0,Colorado Avalanche,COL
+259,6,21,Boston Bruins,Colorado Avalanche,2022020380438,2022020380,Faceoff,438,FACEOFF,Patrice Bergeron faceoff won against J.T. Compher,2022-12-04T02:16:06Z,3,04:16,15:44,3,0,6.0,Boston Bruins,BOS
+260,6,21,Boston Bruins,Colorado Avalanche,2022020380541,2022020380,Takeaway,541,TAKEAWAY,Takeaway by Samuel Girard,2022-12-04T02:17:47Z,3,05:57,14:03,3,0,21.0,Colorado Avalanche,COL
+261,6,21,Boston Bruins,Colorado Avalanche,2022020380439,2022020380,Stoppage,439,STOP,Icing,2022-12-04T02:17:51Z,3,06:02,13:58,3,0,,,
+262,6,21,Boston Bruins,Colorado Avalanche,2022020380440,2022020380,Faceoff,440,FACEOFF,David Krejci faceoff won against Nathan MacKinnon,2022-12-04T02:18:32Z,3,06:02,13:58,3,0,6.0,Boston Bruins,BOS
+263,6,21,Boston Bruins,Colorado Avalanche,2022020380542,2022020380,Giveaway,542,GIVEAWAY,Giveaway by Charlie McAvoy,2022-12-04T02:18:39Z,3,06:09,13:51,3,0,6.0,Boston Bruins,BOS
+264,6,21,Boston Bruins,Colorado Avalanche,2022020380543,2022020380,Shot,543,SHOT,Devon Toews Wrist Shot saved by Linus Ullmark,2022-12-04T02:18:42Z,3,06:12,13:48,3,0,21.0,Colorado Avalanche,COL
+265,6,21,Boston Bruins,Colorado Avalanche,2022020380544,2022020380,Giveaway,544,GIVEAWAY,Giveaway by David Krejci,2022-12-04T02:18:56Z,3,06:26,13:34,3,0,6.0,Boston Bruins,BOS
+266,6,21,Boston Bruins,Colorado Avalanche,2022020380545,2022020380,Goal,545,GOAL,"Andrew Cogliano (4) Wrist Shot, assists: none",2022-12-04T02:19:02Z,3,06:32,13:28,3,1,21.0,Colorado Avalanche,COL
+267,6,21,Boston Bruins,Colorado Avalanche,2022020380441,2022020380,Faceoff,441,FACEOFF,Charlie Coyle faceoff won against Jayson Megna,2022-12-04T02:19:53Z,3,06:32,13:28,3,1,6.0,Boston Bruins,BOS
+268,6,21,Boston Bruins,Colorado Avalanche,2022020380263,2022020380,Blocked Shot,263,BLOCKED_SHOT,Erik Johnson shot blocked shot by Trent Frederic,2022-12-04T02:20:30Z,3,07:09,12:51,3,1,6.0,Boston Bruins,BOS
+269,6,21,Boston Bruins,Colorado Avalanche,2022020380704,2022020380,Hit,704,HIT,Jake DeBrusk hit Dryden Hunt,2022-12-04T02:20:54Z,3,07:33,12:27,3,1,6.0,Boston Bruins,BOS
+270,6,21,Boston Bruins,Colorado Avalanche,2022020380546,2022020380,Blocked Shot,546,BLOCKED_SHOT,Devon Toews shot blocked shot by Patrice Bergeron,2022-12-04T02:21:31Z,3,08:10,11:50,3,1,6.0,Boston Bruins,BOS
+271,6,21,Boston Bruins,Colorado Avalanche,2022020380442,2022020380,Stoppage,442,STOP,Puck Frozen,2022-12-04T02:21:47Z,3,08:27,11:33,3,1,,,
+272,6,21,Boston Bruins,Colorado Avalanche,2022020380443,2022020380,Faceoff,443,FACEOFF,Alex Newhook faceoff won against Patrice Bergeron,2022-12-04T02:24:12Z,3,08:27,11:33,3,1,21.0,Colorado Avalanche,COL
+273,6,21,Boston Bruins,Colorado Avalanche,2022020380548,2022020380,Missed Shot,548,MISSED_SHOT,Cale Makar Wide of Net Linus Ullmark,2022-12-04T02:24:18Z,3,08:33,11:27,3,1,21.0,Colorado Avalanche,COL
+274,6,21,Boston Bruins,Colorado Avalanche,2022020380444,2022020380,Stoppage,444,STOP,Offside,2022-12-04T02:24:25Z,3,08:39,11:21,3,1,,,
+275,6,21,Boston Bruins,Colorado Avalanche,2022020380445,2022020380,Faceoff,445,FACEOFF,Patrice Bergeron faceoff won against Alex Newhook,2022-12-04T02:24:44Z,3,08:39,11:21,3,1,6.0,Boston Bruins,BOS
+276,6,21,Boston Bruins,Colorado Avalanche,2022020380264,2022020380,Blocked Shot,264,BLOCKED_SHOT,Cale Makar shot blocked shot by Brad Marchand,2022-12-04T02:25:08Z,3,09:03,10:57,3,1,6.0,Boston Bruins,BOS
+277,6,21,Boston Bruins,Colorado Avalanche,2022020380446,2022020380,Stoppage,446,STOP,Puck in Netting,2022-12-04T02:25:12Z,3,09:06,10:54,3,1,,,
+278,6,21,Boston Bruins,Colorado Avalanche,2022020380447,2022020380,Faceoff,447,FACEOFF,Tomas Nosek faceoff won against J.T. Compher,2022-12-04T02:25:48Z,3,09:06,10:54,3,1,6.0,Boston Bruins,BOS
+279,6,21,Boston Bruins,Colorado Avalanche,2022020380448,2022020380,Stoppage,448,STOP,Icing,2022-12-04T02:25:57Z,3,09:16,10:44,3,1,,,
+280,6,21,Boston Bruins,Colorado Avalanche,2022020380449,2022020380,Faceoff,449,FACEOFF,J.T. Compher faceoff won against Tomas Nosek,2022-12-04T02:26:23Z,3,09:16,10:44,3,1,21.0,Colorado Avalanche,COL
+281,6,21,Boston Bruins,Colorado Avalanche,2022020380549,2022020380,Giveaway,549,GIVEAWAY,Giveaway by Logan O'Connor,2022-12-04T02:26:50Z,3,09:43,10:17,3,1,21.0,Colorado Avalanche,COL
+282,6,21,Boston Bruins,Colorado Avalanche,2022020380450,2022020380,Stoppage,450,STOP,Puck in Crowd,2022-12-04T02:26:51Z,3,09:44,10:16,3,1,,,
+283,6,21,Boston Bruins,Colorado Avalanche,2022020380801,2022020380,Faceoff,801,FACEOFF,David Krejci faceoff won against Jean-Luc Foudy,2022-12-04T02:27:24Z,3,09:44,10:16,3,1,6.0,Boston Bruins,BOS
+284,6,21,Boston Bruins,Colorado Avalanche,2022020380550,2022020380,Takeaway,550,TAKEAWAY,Takeaway by Pavel Zacha,2022-12-04T02:27:38Z,3,09:58,10:02,3,1,6.0,Boston Bruins,BOS
+285,6,21,Boston Bruins,Colorado Avalanche,2022020380751,2022020380,Shot,751,SHOT,David Pastrnak Slap Shot saved by Pavel Francouz,2022-12-04T02:27:44Z,3,10:04,09:56,3,1,6.0,Boston Bruins,BOS
+286,6,21,Boston Bruins,Colorado Avalanche,2022020380802,2022020380,Stoppage,802,STOP,Icing,2022-12-04T02:27:53Z,3,10:13,09:47,3,1,,,
+287,6,21,Boston Bruins,Colorado Avalanche,2022020380803,2022020380,Faceoff,803,FACEOFF,J.T. Compher faceoff won against David Krejci,2022-12-04T02:28:26Z,3,10:13,09:47,3,1,21.0,Colorado Avalanche,COL
+288,6,21,Boston Bruins,Colorado Avalanche,2022020380265,2022020380,Missed Shot,265,MISSED_SHOT,Devon Toews Over Net Linus Ullmark,2022-12-04T02:28:49Z,3,10:36,09:24,3,1,21.0,Colorado Avalanche,COL
+289,6,21,Boston Bruins,Colorado Avalanche,2022020380706,2022020380,Blocked Shot,706,BLOCKED_SHOT,Cale Makar shot blocked shot by Charlie McAvoy,2022-12-04T02:29:21Z,3,11:08,08:52,3,1,6.0,Boston Bruins,BOS
+290,6,21,Boston Bruins,Colorado Avalanche,2022020380707,2022020380,Blocked Shot,707,BLOCKED_SHOT,Samuel Girard shot blocked shot by Charlie Coyle,2022-12-04T02:29:30Z,3,11:17,08:43,3,1,6.0,Boston Bruins,BOS
+291,6,21,Boston Bruins,Colorado Avalanche,2022020380752,2022020380,Shot,752,SHOT,Charlie Coyle Backhand saved by Pavel Francouz,2022-12-04T02:29:41Z,3,11:28,08:32,3,1,6.0,Boston Bruins,BOS
+292,6,21,Boston Bruins,Colorado Avalanche,2022020380804,2022020380,Stoppage,804,STOP,Goalie Stopped,2022-12-04T02:29:43Z,3,11:30,08:30,3,1,,,
+293,6,21,Boston Bruins,Colorado Avalanche,2022020380805,2022020380,Faceoff,805,FACEOFF,Patrice Bergeron faceoff won against Alex Newhook,2022-12-04T02:32:13Z,3,11:30,08:30,3,1,6.0,Boston Bruins,BOS
+294,6,21,Boston Bruins,Colorado Avalanche,2022020380753,2022020380,Missed Shot,753,MISSED_SHOT,Connor Clifton Over Net Pavel  Francouz,2022-12-04T02:32:40Z,3,11:57,08:03,3,1,6.0,Boston Bruins,BOS
+295,6,21,Boston Bruins,Colorado Avalanche,2022020380806,2022020380,Stoppage,806,STOP,Puck in Netting,2022-12-04T02:32:41Z,3,11:58,08:02,3,1,,,
+296,6,21,Boston Bruins,Colorado Avalanche,2022020380807,2022020380,Faceoff,807,FACEOFF,Charlie Coyle faceoff won against Anton Blidh,2022-12-04T02:33:33Z,3,11:58,08:02,3,1,6.0,Boston Bruins,BOS
+297,6,21,Boston Bruins,Colorado Avalanche,2022020380808,2022020380,Stoppage,808,STOP,Hand Pass,2022-12-04T02:33:51Z,3,12:16,07:44,3,1,,,
+298,6,21,Boston Bruins,Colorado Avalanche,2022020380809,2022020380,Faceoff,809,FACEOFF,Nathan MacKinnon faceoff won against Patrice Bergeron,2022-12-04T02:34:30Z,3,12:16,07:44,3,1,21.0,Colorado Avalanche,COL
+299,6,21,Boston Bruins,Colorado Avalanche,2022020380708,2022020380,Hit,708,HIT,Cale Makar hit Hampus Lindholm,2022-12-04T02:35:19Z,3,13:05,06:55,3,1,21.0,Colorado Avalanche,COL
+300,6,21,Boston Bruins,Colorado Avalanche,2022020380709,2022020380,Hit,709,HIT,David Pastrnak hit Samuel Girard,2022-12-04T02:36:11Z,3,13:57,06:03,3,1,6.0,Boston Bruins,BOS
+301,6,21,Boston Bruins,Colorado Avalanche,2022020380710,2022020380,Hit,710,HIT,A.J. Greer hit Erik Johnson,2022-12-04T02:36:24Z,3,14:10,05:50,3,1,6.0,Boston Bruins,BOS
+302,6,21,Boston Bruins,Colorado Avalanche,2022020380754,2022020380,Giveaway,754,GIVEAWAY,Giveaway by Nathan MacKinnon,2022-12-04T02:37:20Z,3,15:06,04:54,3,1,21.0,Colorado Avalanche,COL
+303,6,21,Boston Bruins,Colorado Avalanche,2022020380755,2022020380,Shot,755,SHOT,Charlie Coyle Wrist Shot saved by Pavel Francouz,2022-12-04T02:37:31Z,3,15:17,04:43,3,1,6.0,Boston Bruins,BOS
+304,6,21,Boston Bruins,Colorado Avalanche,2022020380758,2022020380,Takeaway,758,TAKEAWAY,Takeaway by Nathan MacKinnon,2022-12-04T02:37:40Z,3,15:26,04:34,3,1,21.0,Colorado Avalanche,COL
+305,6,21,Boston Bruins,Colorado Avalanche,2022020380759,2022020380,Goal,759,GOAL,"Trent Frederic (5) Wrist Shot, assists: Taylor Hall (8), Charlie Coyle (4)",2022-12-04T02:37:46Z,3,15:32,04:28,4,1,6.0,Boston Bruins,BOS
+306,6,21,Boston Bruins,Colorado Avalanche,2022020380810,2022020380,Faceoff,810,FACEOFF,Patrice Bergeron faceoff won against Jean-Luc Foudy,2022-12-04T02:38:32Z,3,15:32,04:28,4,1,6.0,Boston Bruins,BOS
+307,6,21,Boston Bruins,Colorado Avalanche,2022020380760,2022020380,Shot,760,SHOT,Derek Forbort Wrist Shot saved by Pavel Francouz,2022-12-04T02:38:41Z,3,15:41,04:19,4,1,6.0,Boston Bruins,BOS
+308,6,21,Boston Bruins,Colorado Avalanche,2022020380761,2022020380,Goal,761,GOAL,"Jake DeBrusk (8) Wrist Shot, assists: Derek Forbort (3), Patrice Bergeron (11)",2022-12-04T02:38:42Z,3,15:42,04:18,5,1,6.0,Boston Bruins,BOS
+309,6,21,Boston Bruins,Colorado Avalanche,2022020380811,2022020380,Faceoff,811,FACEOFF,Jayson Megna faceoff won against David Krejci,2022-12-04T02:39:37Z,3,15:42,04:18,5,1,21.0,Colorado Avalanche,COL
+310,6,21,Boston Bruins,Colorado Avalanche,2022020380762,2022020380,Shot,762,SHOT,Anton Blidh Wrist Shot saved by Linus Ullmark,2022-12-04T02:40:16Z,3,16:21,03:39,5,1,21.0,Colorado Avalanche,COL
+311,6,21,Boston Bruins,Colorado Avalanche,2022020380711,2022020380,Stoppage,711,STOP,Goalie Stopped,2022-12-04T02:40:19Z,3,16:24,03:36,5,1,,,
+312,6,21,Boston Bruins,Colorado Avalanche,2022020380812,2022020380,Faceoff,812,FACEOFF,Tomas Nosek faceoff won against Alex Newhook,2022-12-04T02:42:46Z,3,16:24,03:36,5,1,6.0,Boston Bruins,BOS
+313,6,21,Boston Bruins,Colorado Avalanche,2022020380763,2022020380,Missed Shot,763,MISSED_SHOT,Jean-Luc Foudy Wide of Net Linus Ullmark,2022-12-04T02:43:24Z,3,17:02,02:58,5,1,21.0,Colorado Avalanche,COL
+314,6,21,Boston Bruins,Colorado Avalanche,20220203801040,2022020380,Penalty,1040,PENALTY,A.J. Greer Roughing against Jean-Luc Foudy,2022-12-04T02:43:29Z,3,17:07,02:53,5,1,6.0,Boston Bruins,BOS
+315,6,21,Boston Bruins,Colorado Avalanche,2022020380813,2022020380,Faceoff,813,FACEOFF,Tomas Nosek faceoff won against J.T. Compher,2022-12-04T02:44:35Z,3,17:07,02:53,5,1,6.0,Boston Bruins,BOS
+316,6,21,Boston Bruins,Colorado Avalanche,2022020380764,2022020380,Shot,764,SHOT,Alex Newhook Tip-In saved by Linus Ullmark,2022-12-04T02:44:49Z,3,17:21,02:39,5,1,21.0,Colorado Avalanche,COL
+317,6,21,Boston Bruins,Colorado Avalanche,2022020380814,2022020380,Stoppage,814,STOP,Goalie Stopped,2022-12-04T02:44:50Z,3,17:22,02:38,5,1,,,
+318,6,21,Boston Bruins,Colorado Avalanche,2022020380815,2022020380,Faceoff,815,FACEOFF,Patrice Bergeron faceoff won against Alex Newhook,2022-12-04T02:45:12Z,3,17:22,02:38,5,1,6.0,Boston Bruins,BOS
+319,6,21,Boston Bruins,Colorado Avalanche,2022020380765,2022020380,Takeaway,765,TAKEAWAY,Takeaway by Brandon Carlo,2022-12-04T02:45:38Z,3,17:48,02:12,5,1,6.0,Boston Bruins,BOS
+320,6,21,Boston Bruins,Colorado Avalanche,2022020380766,2022020380,Takeaway,766,TAKEAWAY,Takeaway by Jake DeBrusk,2022-12-04T02:45:52Z,3,18:02,01:58,5,1,6.0,Boston Bruins,BOS
+321,6,21,Boston Bruins,Colorado Avalanche,2022020380767,2022020380,Missed Shot,767,MISSED_SHOT,Nathan MacKinnon Goalpost Linus Ullmark,2022-12-04T02:46:26Z,3,18:36,01:24,5,1,21.0,Colorado Avalanche,COL
+322,6,21,Boston Bruins,Colorado Avalanche,2022020380713,2022020380,Blocked Shot,713,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Charlie McAvoy,2022-12-04T02:46:51Z,3,19:01,00:59,5,1,6.0,Boston Bruins,BOS
+323,6,21,Boston Bruins,Colorado Avalanche,2022020380769,2022020380,Shot,769,SHOT,J.T. Compher Tip-In saved by Linus Ullmark,2022-12-04T02:46:59Z,3,19:09,00:51,5,1,21.0,Colorado Avalanche,COL
+324,6,21,Boston Bruins,Colorado Avalanche,2022020380770,2022020380,Shot,770,SHOT,Mikko Rantanen Wrist Shot saved by Linus Ullmark,2022-12-04T02:47:05Z,3,19:15,00:45,5,1,21.0,Colorado Avalanche,COL
+325,6,21,Boston Bruins,Colorado Avalanche,2022020380771,2022020380,Takeaway,771,TAKEAWAY,Takeaway by Pavel Zacha,2022-12-04T02:47:11Z,3,19:21,00:39,5,1,6.0,Boston Bruins,BOS
+326,6,21,Boston Bruins,Colorado Avalanche,2022020380714,2022020380,Blocked Shot,714,BLOCKED_SHOT,David Pastrnak shot blocked shot by J.T. Compher,2022-12-04T02:47:23Z,3,19:33,00:27,5,1,21.0,Colorado Avalanche,COL
+327,6,21,Boston Bruins,Colorado Avalanche,2022020380772,2022020380,Shot,772,SHOT,David Pastrnak Backhand saved by Pavel Francouz,2022-12-04T02:47:29Z,3,19:39,00:21,5,1,6.0,Boston Bruins,BOS
+328,6,21,Boston Bruins,Colorado Avalanche,2022020380715,2022020380,Blocked Shot,715,BLOCKED_SHOT,Charlie Coyle shot blocked shot by Andreas Englund,2022-12-04T02:47:31Z,3,19:40,00:20,5,1,21.0,Colorado Avalanche,COL
+329,6,21,Boston Bruins,Colorado Avalanche,2022020380816,2022020380,Stoppage,816,STOP,Goalie Stopped,2022-12-04T02:47:31Z,3,19:40,00:20,5,1,,,
+330,6,21,Boston Bruins,Colorado Avalanche,2022020380817,2022020380,Faceoff,817,FACEOFF,Charlie Coyle faceoff won against Jean-Luc Foudy,2022-12-04T02:48:05Z,3,19:40,00:20,5,1,6.0,Boston Bruins,BOS
+331,6,21,Boston Bruins,Colorado Avalanche,2022020380773,2022020380,Shot,773,SHOT,Charlie Coyle Wrist Shot saved by Pavel Francouz,2022-12-04T02:48:13Z,3,19:48,00:12,5,1,6.0,Boston Bruins,BOS
+332,6,21,Boston Bruins,Colorado Avalanche,2022020380716,2022020380,Period End,716,PERIOD_END,End of 3rd Period,2022-12-04T02:48:25Z,3,20:00,00:00,5,1,,,
+333,6,21,Boston Bruins,Colorado Avalanche,2022020380719,2022020380,Period Official,719,PERIOD_OFFICIAL,Period Official,2022-12-04T02:48:34Z,3,20:00,00:00,5,1,,,
+334,6,21,Boston Bruins,Colorado Avalanche,2022020380720,2022020380,Game End,720,GAME_END,Game End,2022-12-04T02:48:38Z,3,20:00,00:00,5,1,,,
+335,6,21,Boston Bruins,Colorado Avalanche,20220203801241,2022020380,Game Official,1241,GAME_OFFICIAL,Game Official,2022-12-04T14:27:24Z,3,20:00,00:00,5,1,,,

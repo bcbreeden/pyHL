@@ -1,0 +1,293 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,25,3,Dallas Stars,New York Rangers,20220201271,2022020127,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-10-29T17:15:16Z,1,00:00,20:00,0,0,,,
+1,25,3,Dallas Stars,New York Rangers,20220201275,2022020127,Period Ready,5,PERIOD_READY,Period Ready,2022-10-29T18:06:12Z,1,00:00,20:00,0,0,,,
+2,25,3,Dallas Stars,New York Rangers,2022020127101,2022020127,Period Start,101,PERIOD_START,Period Start,2022-10-29T18:10:04Z,1,00:00,20:00,0,0,,,
+3,25,3,Dallas Stars,New York Rangers,2022020127102,2022020127,Faceoff,102,FACEOFF,Joe Pavelski faceoff won against Mika Zibanejad,2022-10-29T18:10:04Z,1,00:00,20:00,0,0,25.0,Dallas Stars,DAL
+4,25,3,Dallas Stars,New York Rangers,2022020127151,2022020127,Blocked Shot,151,BLOCKED_SHOT,Colin Miller shot blocked shot by Jacob Trouba,2022-10-29T18:10:43Z,1,00:39,19:21,0,0,3.0,New York Rangers,NYR
+5,25,3,Dallas Stars,New York Rangers,2022020127152,2022020127,Blocked Shot,152,BLOCKED_SHOT,Denis Gurianov shot blocked shot by Vincent Trocheck,2022-10-29T18:10:59Z,1,00:55,19:05,0,0,3.0,New York Rangers,NYR
+6,25,3,Dallas Stars,New York Rangers,2022020127153,2022020127,Goal,153,GOAL,"Mason Marchment (4) Snap Shot, assists: Tyler Seguin (5)",2022-10-29T18:11:14Z,1,01:09,18:51,1,0,25.0,Dallas Stars,DAL
+7,25,3,Dallas Stars,New York Rangers,2022020127103,2022020127,Faceoff,103,FACEOFF,Barclay Goodrow faceoff won against Wyatt Johnston,2022-10-29T18:11:53Z,1,01:09,18:51,1,0,3.0,New York Rangers,NYR
+8,25,3,Dallas Stars,New York Rangers,2022020127154,2022020127,Shot,154,SHOT,Jani Hakanpää Wrist Shot saved by Igor Shesterkin,2022-10-29T18:12:12Z,1,01:28,18:32,1,0,25.0,Dallas Stars,DAL
+9,25,3,Dallas Stars,New York Rangers,2022020127201,2022020127,Stoppage,201,STOP,Icing,2022-10-29T18:12:31Z,1,01:47,18:13,1,0,,,
+10,25,3,Dallas Stars,New York Rangers,2022020127104,2022020127,Faceoff,104,FACEOFF,Ryan Carpenter faceoff won against Radek Faksa,2022-10-29T18:12:57Z,1,01:47,18:13,1,0,3.0,New York Rangers,NYR
+11,25,3,Dallas Stars,New York Rangers,2022020127155,2022020127,Blocked Shot,155,BLOCKED_SHOT,Braden Schneider shot blocked shot by Wyatt Johnston,2022-10-29T18:13:01Z,1,01:51,18:09,1,0,25.0,Dallas Stars,DAL
+12,25,3,Dallas Stars,New York Rangers,2022020127256,2022020127,Hit,256,HIT,Sammy Blais hit Nils Lundkvist,2022-10-29T18:13:03Z,1,01:53,18:07,1,0,3.0,New York Rangers,NYR
+13,25,3,Dallas Stars,New York Rangers,2022020127251,2022020127,Hit,251,HIT,Julien Gauthier hit Ty Dellandrea,2022-10-29T18:13:08Z,1,01:58,18:02,1,0,3.0,New York Rangers,NYR
+14,25,3,Dallas Stars,New York Rangers,2022020127156,2022020127,Shot,156,SHOT,Ryan Suter Wrist Shot saved by Igor Shesterkin,2022-10-29T18:13:13Z,1,02:03,17:57,1,0,25.0,Dallas Stars,DAL
+15,25,3,Dallas Stars,New York Rangers,2022020127157,2022020127,Blocked Shot,157,BLOCKED_SHOT,Ryan Suter shot blocked shot by Zac Jones,2022-10-29T18:13:35Z,1,02:25,17:35,1,0,3.0,New York Rangers,NYR
+16,25,3,Dallas Stars,New York Rangers,2022020127158,2022020127,Shot,158,SHOT,Joel Kiviranta Slap Shot saved by Igor Shesterkin,2022-10-29T18:13:37Z,1,02:27,17:33,1,0,25.0,Dallas Stars,DAL
+17,25,3,Dallas Stars,New York Rangers,2022020127159,2022020127,Missed Shot,159,MISSED_SHOT,Mika Zibanejad Wide of Net Jake Oettinger,2022-10-29T18:14:35Z,1,03:25,16:35,1,0,3.0,New York Rangers,NYR
+18,25,3,Dallas Stars,New York Rangers,2022020127252,2022020127,Hit,252,HIT,Chris Kreider hit Esa Lindell,2022-10-29T18:14:52Z,1,03:42,16:18,1,0,3.0,New York Rangers,NYR
+19,25,3,Dallas Stars,New York Rangers,2022020127160,2022020127,Blocked Shot,160,BLOCKED_SHOT,Mason Marchment shot blocked shot by Alexis Lafrenière,2022-10-29T18:15:33Z,1,04:23,15:37,1,0,3.0,New York Rangers,NYR
+20,25,3,Dallas Stars,New York Rangers,2022020127161,2022020127,Shot,161,SHOT,Vincent Trocheck Wrist Shot saved by Jake Oettinger,2022-10-29T18:15:42Z,1,04:32,15:28,1,0,3.0,New York Rangers,NYR
+21,25,3,Dallas Stars,New York Rangers,2022020127162,2022020127,Shot,162,SHOT,K'Andre Miller Wrist Shot saved by Jake Oettinger,2022-10-29T18:15:51Z,1,04:41,15:19,1,0,3.0,New York Rangers,NYR
+22,25,3,Dallas Stars,New York Rangers,2022020127202,2022020127,Stoppage,202,STOP,Offside,2022-10-29T18:16:08Z,1,04:59,15:01,1,0,,,
+23,25,3,Dallas Stars,New York Rangers,2022020127105,2022020127,Faceoff,105,FACEOFF,Barclay Goodrow faceoff won against Wyatt Johnston,2022-10-29T18:16:28Z,1,04:59,15:01,1,0,3.0,New York Rangers,NYR
+24,25,3,Dallas Stars,New York Rangers,2022020127163,2022020127,Shot,163,SHOT,Jamie Benn Wrist Shot saved by Igor Shesterkin,2022-10-29T18:16:43Z,1,05:14,14:46,1,0,25.0,Dallas Stars,DAL
+25,25,3,Dallas Stars,New York Rangers,2022020127253,2022020127,Hit,253,HIT,Ty Dellandrea hit Braden Schneider,2022-10-29T18:16:45Z,1,05:16,14:44,1,0,25.0,Dallas Stars,DAL
+26,25,3,Dallas Stars,New York Rangers,2022020127165,2022020127,Missed Shot,165,MISSED_SHOT,K'Andre Miller Wide of Net Jake Oettinger,2022-10-29T18:18:04Z,1,06:35,13:25,1,0,3.0,New York Rangers,NYR
+27,25,3,Dallas Stars,New York Rangers,2022020127166,2022020127,Blocked Shot,166,BLOCKED_SHOT,Jacob Trouba shot blocked shot by Roope Hintz,2022-10-29T18:18:10Z,1,06:41,13:19,1,0,25.0,Dallas Stars,DAL
+28,25,3,Dallas Stars,New York Rangers,2022020127189,2022020127,Blocked Shot,189,BLOCKED_SHOT,Chris Kreider shot blocked shot by Joel Hanley,2022-10-29T18:18:10Z,1,06:41,13:19,1,0,25.0,Dallas Stars,DAL
+29,25,3,Dallas Stars,New York Rangers,2022020127203,2022020127,Stoppage,203,STOP,Net Dislodged Defensive Skater,2022-10-29T18:18:13Z,1,06:45,13:15,1,0,,,
+30,25,3,Dallas Stars,New York Rangers,2022020127106,2022020127,Faceoff,106,FACEOFF,Mika Zibanejad faceoff won against Joe Pavelski,2022-10-29T18:18:55Z,1,06:45,13:15,1,0,3.0,New York Rangers,NYR
+31,25,3,Dallas Stars,New York Rangers,2022020127167,2022020127,Shot,167,SHOT,Chris Kreider Tip-In saved by Jake Oettinger,2022-10-29T18:19:00Z,1,06:50,13:10,1,0,3.0,New York Rangers,NYR
+32,25,3,Dallas Stars,New York Rangers,2022020127168,2022020127,Blocked Shot,168,BLOCKED_SHOT,Chris Kreider shot blocked shot by Joel Hanley,2022-10-29T18:19:04Z,1,06:54,13:06,1,0,25.0,Dallas Stars,DAL
+33,25,3,Dallas Stars,New York Rangers,20220201278,2022020127,Giveaway,8,GIVEAWAY,Giveaway by Vincent Trocheck,2022-10-29T18:19:37Z,1,07:27,12:33,1,0,3.0,New York Rangers,NYR
+34,25,3,Dallas Stars,New York Rangers,2022020127169,2022020127,Shot,169,SHOT,Denis Gurianov Snap Shot saved by Igor Shesterkin,2022-10-29T18:19:43Z,1,07:33,12:27,1,0,25.0,Dallas Stars,DAL
+35,25,3,Dallas Stars,New York Rangers,2022020127204,2022020127,Stoppage,204,STOP,Offside,2022-10-29T18:19:55Z,1,07:44,12:16,1,0,,,
+36,25,3,Dallas Stars,New York Rangers,2022020127108,2022020127,Faceoff,108,FACEOFF,Vincent Trocheck faceoff won against Ty Dellandrea,2022-10-29T18:22:06Z,1,07:44,12:16,1,0,3.0,New York Rangers,NYR
+37,25,3,Dallas Stars,New York Rangers,2022020127205,2022020127,Stoppage,205,STOP,Icing,2022-10-29T18:22:33Z,1,08:10,11:50,1,0,,,
+38,25,3,Dallas Stars,New York Rangers,2022020127109,2022020127,Faceoff,109,FACEOFF,Mika Zibanejad faceoff won against Jamie Benn,2022-10-29T18:22:59Z,1,08:10,11:50,1,0,3.0,New York Rangers,NYR
+39,25,3,Dallas Stars,New York Rangers,2022020127170,2022020127,Missed Shot,170,MISSED_SHOT,Braden Schneider Wide of Net Jake Oettinger,2022-10-29T18:23:28Z,1,08:39,11:21,1,0,3.0,New York Rangers,NYR
+40,25,3,Dallas Stars,New York Rangers,2022020127171,2022020127,Goal,171,GOAL,"Chris Kreider (3) Snap Shot, assists: Kaapo Kakko (1), Braden Schneider (1)",2022-10-29T18:23:30Z,1,08:41,11:19,1,1,3.0,New York Rangers,NYR
+41,25,3,Dallas Stars,New York Rangers,2022020127110,2022020127,Faceoff,110,FACEOFF,Barclay Goodrow faceoff won against Luke Glendening,2022-10-29T18:24:10Z,1,08:41,11:19,1,1,3.0,New York Rangers,NYR
+42,25,3,Dallas Stars,New York Rangers,2022020127206,2022020127,Stoppage,206,STOP,Puck in Netting,2022-10-29T18:25:03Z,1,09:34,10:26,1,1,,,
+43,25,3,Dallas Stars,New York Rangers,2022020127111,2022020127,Faceoff,111,FACEOFF,Ryan Carpenter faceoff won against Joe Pavelski,2022-10-29T18:25:27Z,1,09:34,10:26,1,1,3.0,New York Rangers,NYR
+44,25,3,Dallas Stars,New York Rangers,2022020127172,2022020127,Missed Shot,172,MISSED_SHOT,Jason Robertson Goalpost Igor Shesterkin,2022-10-29T18:26:17Z,1,10:24,09:36,1,1,25.0,Dallas Stars,DAL
+45,25,3,Dallas Stars,New York Rangers,20220201279,2022020127,Takeaway,9,TAKEAWAY,Takeaway by Jason Robertson,2022-10-29T18:26:19Z,1,10:26,09:34,1,1,25.0,Dallas Stars,DAL
+46,25,3,Dallas Stars,New York Rangers,2022020127173,2022020127,Missed Shot,173,MISSED_SHOT,Jason Robertson Wide of Net Igor Shesterkin,2022-10-29T18:26:20Z,1,10:27,09:33,1,1,25.0,Dallas Stars,DAL
+47,25,3,Dallas Stars,New York Rangers,2022020127207,2022020127,Stoppage,207,STOP,TV timeout,2022-10-29T18:26:28Z,1,10:35,09:25,1,1,,,
+48,25,3,Dallas Stars,New York Rangers,2022020127339,2022020127,Penalty,339,PENALTY,Nils Lundkvist Interference against Alexis Lafrenière,2022-10-29T18:26:28Z,1,10:35,09:25,1,1,25.0,Dallas Stars,DAL
+49,25,3,Dallas Stars,New York Rangers,2022020127112,2022020127,Faceoff,112,FACEOFF,Vincent Trocheck faceoff won against Radek Faksa,2022-10-29T18:28:48Z,1,10:35,09:25,1,1,3.0,New York Rangers,NYR
+50,25,3,Dallas Stars,New York Rangers,202202012710,2022020127,Takeaway,10,TAKEAWAY,Takeaway by Jani Hakanpää,2022-10-29T18:29:14Z,1,11:01,08:59,1,1,25.0,Dallas Stars,DAL
+51,25,3,Dallas Stars,New York Rangers,2022020127174,2022020127,Missed Shot,174,MISSED_SHOT,Mika Zibanejad Wide of Net Jake Oettinger,2022-10-29T18:29:37Z,1,11:24,08:36,1,1,3.0,New York Rangers,NYR
+52,25,3,Dallas Stars,New York Rangers,2022020127175,2022020127,Blocked Shot,175,BLOCKED_SHOT,Vincent Trocheck shot blocked shot by Colin Miller,2022-10-29T18:30:01Z,1,11:48,08:12,1,1,25.0,Dallas Stars,DAL
+53,25,3,Dallas Stars,New York Rangers,2022020127176,2022020127,Shot,176,SHOT,Jacob Trouba Slap Shot saved by Jake Oettinger,2022-10-29T18:30:27Z,1,12:14,07:46,1,1,3.0,New York Rangers,NYR
+54,25,3,Dallas Stars,New York Rangers,2022020127177,2022020127,Missed Shot,177,MISSED_SHOT,Vitali Kravtsov Wide of Net Jake Oettinger,2022-10-29T18:30:52Z,1,12:39,07:21,1,1,3.0,New York Rangers,NYR
+55,25,3,Dallas Stars,New York Rangers,2022020127178,2022020127,Shot,178,SHOT,Jimmy Vesey Snap Shot saved by Jake Oettinger,2022-10-29T18:31:11Z,1,12:58,07:02,1,1,3.0,New York Rangers,NYR
+56,25,3,Dallas Stars,New York Rangers,2022020127179,2022020127,Shot,179,SHOT,Denis Gurianov Snap Shot saved by Igor Shesterkin,2022-10-29T18:31:45Z,1,13:32,06:28,1,1,25.0,Dallas Stars,DAL
+57,25,3,Dallas Stars,New York Rangers,2022020127257,2022020127,Hit,257,HIT,Sammy Blais hit Tyler Seguin,2022-10-29T18:31:52Z,1,13:39,06:21,1,1,3.0,New York Rangers,NYR
+58,25,3,Dallas Stars,New York Rangers,2022020127258,2022020127,Hit,258,HIT,Esa Lindell hit Julien Gauthier,2022-10-29T18:32:09Z,1,13:56,06:04,1,1,25.0,Dallas Stars,DAL
+59,25,3,Dallas Stars,New York Rangers,2022020127180,2022020127,Blocked Shot,180,BLOCKED_SHOT,Ryan Carpenter shot blocked shot by Colin Miller,2022-10-29T18:32:13Z,1,14:00,06:00,1,1,25.0,Dallas Stars,DAL
+60,25,3,Dallas Stars,New York Rangers,2022020127190,2022020127,Blocked Shot,190,BLOCKED_SHOT,K'Andre Miller shot blocked shot by Esa Lindell,2022-10-29T18:32:16Z,1,14:03,05:57,1,1,25.0,Dallas Stars,DAL
+61,25,3,Dallas Stars,New York Rangers,2022020127191,2022020127,Blocked Shot,191,BLOCKED_SHOT,Jacob Trouba shot blocked shot by Tyler Seguin,2022-10-29T18:32:26Z,1,14:13,05:47,1,1,25.0,Dallas Stars,DAL
+62,25,3,Dallas Stars,New York Rangers,202202012711,2022020127,Takeaway,11,TAKEAWAY,Takeaway by Mika Zibanejad,2022-10-29T18:32:45Z,1,14:32,05:28,1,1,3.0,New York Rangers,NYR
+63,25,3,Dallas Stars,New York Rangers,2022020127181,2022020127,Blocked Shot,181,BLOCKED_SHOT,Braden Schneider shot blocked shot by Ty Dellandrea,2022-10-29T18:33:21Z,1,15:08,04:52,1,1,25.0,Dallas Stars,DAL
+64,25,3,Dallas Stars,New York Rangers,202202012712,2022020127,Takeaway,12,TAKEAWAY,Takeaway by Braden Schneider,2022-10-29T18:33:28Z,1,15:15,04:45,1,1,3.0,New York Rangers,NYR
+65,25,3,Dallas Stars,New York Rangers,2022020127259,2022020127,Hit,259,HIT,Alexis Lafrenière hit Wyatt Johnston,2022-10-29T18:33:46Z,1,15:33,04:27,1,1,3.0,New York Rangers,NYR
+66,25,3,Dallas Stars,New York Rangers,2022020127260,2022020127,Hit,260,HIT,Joel Kiviranta hit Zac Jones,2022-10-29T18:34:03Z,1,15:50,04:10,1,1,25.0,Dallas Stars,DAL
+67,25,3,Dallas Stars,New York Rangers,2022020127182,2022020127,Shot,182,SHOT,Esa Lindell Wrist Shot saved by Igor Shesterkin,2022-10-29T18:34:27Z,1,16:14,03:46,1,1,25.0,Dallas Stars,DAL
+68,25,3,Dallas Stars,New York Rangers,202202012713,2022020127,Giveaway,13,GIVEAWAY,Giveaway by Joel Hanley,2022-10-29T18:34:54Z,1,16:41,03:19,1,1,25.0,Dallas Stars,DAL
+69,25,3,Dallas Stars,New York Rangers,2022020127209,2022020127,Stoppage,209,STOP,TV timeout,2022-10-29T18:35:44Z,1,17:30,02:30,1,1,,,
+70,25,3,Dallas Stars,New York Rangers,2022020127460,2022020127,Penalty,460,PENALTY,Ryan Carpenter Hooking against Nils Lundkvist,2022-10-29T18:35:44Z,1,17:30,02:30,1,1,3.0,New York Rangers,NYR
+71,25,3,Dallas Stars,New York Rangers,2022020127113,2022020127,Faceoff,113,FACEOFF,Mika Zibanejad faceoff won against Jamie Benn,2022-10-29T18:38:03Z,1,17:30,02:30,1,1,3.0,New York Rangers,NYR
+72,25,3,Dallas Stars,New York Rangers,2022020127183,2022020127,Shot,183,SHOT,Jason Robertson Snap Shot saved by Igor Shesterkin,2022-10-29T18:38:21Z,1,17:48,02:12,1,1,25.0,Dallas Stars,DAL
+73,25,3,Dallas Stars,New York Rangers,2022020127465,2022020127,Penalty,465,PENALTY,Jason Robertson Tripping against Mika Zibanejad,2022-10-29T18:38:24Z,1,17:51,02:09,1,1,25.0,Dallas Stars,DAL
+74,25,3,Dallas Stars,New York Rangers,2022020127184,2022020127,Faceoff,184,FACEOFF,Mika Zibanejad faceoff won against Roope Hintz,2022-10-29T18:39:09Z,1,17:51,02:09,1,1,3.0,New York Rangers,NYR
+75,25,3,Dallas Stars,New York Rangers,2022020127185,2022020127,Shot,185,SHOT,Mika Zibanejad Slap Shot saved by Jake Oettinger,2022-10-29T18:39:24Z,1,18:06,01:54,1,1,3.0,New York Rangers,NYR
+76,25,3,Dallas Stars,New York Rangers,202202012714,2022020127,Hit,14,HIT,Adam Fox hit Ryan Suter,2022-10-29T18:39:47Z,1,18:29,01:31,1,1,3.0,New York Rangers,NYR
+77,25,3,Dallas Stars,New York Rangers,202202012715,2022020127,Hit,15,HIT,Esa Lindell hit Chris Kreider,2022-10-29T18:39:54Z,1,18:36,01:24,1,1,25.0,Dallas Stars,DAL
+78,25,3,Dallas Stars,New York Rangers,2022020127186,2022020127,Blocked Shot,186,BLOCKED_SHOT,Mason Marchment shot blocked shot by Jacob Trouba,2022-10-29T18:39:55Z,1,18:37,01:23,1,1,3.0,New York Rangers,NYR
+79,25,3,Dallas Stars,New York Rangers,2022020127210,2022020127,Stoppage,210,STOP,Puck in Netting,2022-10-29T18:39:55Z,1,18:38,01:22,1,1,,,
+80,25,3,Dallas Stars,New York Rangers,2022020127115,2022020127,Faceoff,115,FACEOFF,Tyler Seguin faceoff won against Vincent Trocheck,2022-10-29T18:40:24Z,1,18:38,01:22,1,1,25.0,Dallas Stars,DAL
+81,25,3,Dallas Stars,New York Rangers,2022020127187,2022020127,Shot,187,SHOT,Tyler Seguin Wrist Shot saved by Igor Shesterkin,2022-10-29T18:40:26Z,1,18:40,01:20,1,1,25.0,Dallas Stars,DAL
+82,25,3,Dallas Stars,New York Rangers,2022020127188,2022020127,Missed Shot,188,MISSED_SHOT,Joe Pavelski Wide of Net Igor Shesterkin,2022-10-29T18:40:34Z,1,18:48,01:12,1,1,25.0,Dallas Stars,DAL
+83,25,3,Dallas Stars,New York Rangers,202202012716,2022020127,Giveaway,16,GIVEAWAY,Giveaway by K'Andre Miller,2022-10-29T18:40:46Z,1,19:00,01:00,1,1,3.0,New York Rangers,NYR
+84,25,3,Dallas Stars,New York Rangers,2022020127211,2022020127,Stoppage,211,STOP,Icing,2022-10-29T18:41:16Z,1,19:29,00:31,1,1,,,
+85,25,3,Dallas Stars,New York Rangers,2022020127116,2022020127,Faceoff,116,FACEOFF,Luke Glendening faceoff won against Mika Zibanejad,2022-10-29T18:41:53Z,1,19:29,00:31,1,1,25.0,Dallas Stars,DAL
+86,25,3,Dallas Stars,New York Rangers,202202012717,2022020127,Penalty,17,PENALTY,Artemi Panarin Roughing against Ty Dellandrea,2022-10-29T18:42:07Z,1,19:42,00:18,1,1,3.0,New York Rangers,NYR
+87,25,3,Dallas Stars,New York Rangers,202202012720,2022020127,Penalty,20,PENALTY,Ty Dellandrea Tripping against Igor Shesterkin served by Wyatt Johnston,2022-10-29T18:42:07Z,1,19:42,00:18,1,1,25.0,Dallas Stars,DAL
+88,25,3,Dallas Stars,New York Rangers,2022020127476,2022020127,Penalty,476,PENALTY,Ty Dellandrea Roughing against Artemi Panarin,2022-10-29T18:42:07Z,1,19:42,00:18,1,1,25.0,Dallas Stars,DAL
+89,25,3,Dallas Stars,New York Rangers,2022020127117,2022020127,Faceoff,117,FACEOFF,Vincent Trocheck faceoff won against Luke Glendening,2022-10-29T18:45:25Z,1,19:42,00:18,1,1,3.0,New York Rangers,NYR
+90,25,3,Dallas Stars,New York Rangers,202202012723,2022020127,Period End,23,PERIOD_END,End of 1st Period,2022-10-29T18:45:42Z,1,20:00,00:00,1,1,,,
+91,25,3,Dallas Stars,New York Rangers,202202012726,2022020127,Period Official,26,PERIOD_OFFICIAL,Period Official,2022-10-29T19:02:11Z,1,20:00,00:00,1,1,,,
+92,25,3,Dallas Stars,New York Rangers,202202012727,2022020127,Period Ready,27,PERIOD_READY,Period Ready,2022-10-29T19:02:53Z,2,00:00,20:00,1,1,,,
+93,25,3,Dallas Stars,New York Rangers,2022020127118,2022020127,Period Start,118,PERIOD_START,Period Start,2022-10-29T19:04:33Z,2,00:00,20:00,1,1,,,
+94,25,3,Dallas Stars,New York Rangers,2022020127119,2022020127,Faceoff,119,FACEOFF,Vincent Trocheck faceoff won against Luke Glendening,2022-10-29T19:04:33Z,2,00:00,20:00,1,1,3.0,New York Rangers,NYR
+95,25,3,Dallas Stars,New York Rangers,2022020127192,2022020127,Goal,192,GOAL,"Vincent Trocheck (3) Slap Shot, assists: Mika Zibanejad (5), Adam Fox (6)",2022-10-29T19:05:33Z,2,00:59,19:01,1,2,3.0,New York Rangers,NYR
+96,25,3,Dallas Stars,New York Rangers,2022020127120,2022020127,Faceoff,120,FACEOFF,Roope Hintz faceoff won against Barclay Goodrow,2022-10-29T19:06:18Z,2,00:59,19:01,1,2,25.0,Dallas Stars,DAL
+97,25,3,Dallas Stars,New York Rangers,2022020127193,2022020127,Shot,193,SHOT,Joe Pavelski Tip-In saved by Igor Shesterkin,2022-10-29T19:06:46Z,2,01:27,18:33,1,2,25.0,Dallas Stars,DAL
+98,25,3,Dallas Stars,New York Rangers,2022020127194,2022020127,Goal,194,GOAL,"Roope Hintz (3) Snap Shot, assists: Joe Pavelski (4), Jason Robertson (6)",2022-10-29T19:06:47Z,2,01:28,18:32,2,2,25.0,Dallas Stars,DAL
+99,25,3,Dallas Stars,New York Rangers,2022020127121,2022020127,Faceoff,121,FACEOFF,Ryan Carpenter faceoff won against Tyler Seguin,2022-10-29T19:07:35Z,2,01:28,18:32,2,2,3.0,New York Rangers,NYR
+100,25,3,Dallas Stars,New York Rangers,2022020127493,2022020127,Penalty,493,PENALTY,Joel Hanley Interference against Julien Gauthier,2022-10-29T19:07:48Z,2,01:42,18:18,2,2,25.0,Dallas Stars,DAL
+101,25,3,Dallas Stars,New York Rangers,2022020127122,2022020127,Faceoff,122,FACEOFF,Vincent Trocheck faceoff won against Jamie Benn,2022-10-29T19:08:38Z,2,01:42,18:18,2,2,3.0,New York Rangers,NYR
+102,25,3,Dallas Stars,New York Rangers,2022020127195,2022020127,Blocked Shot,195,BLOCKED_SHOT,Vincent Trocheck shot blocked shot by Jani Hakanpää,2022-10-29T19:08:43Z,2,01:47,18:13,2,2,25.0,Dallas Stars,DAL
+103,25,3,Dallas Stars,New York Rangers,2022020127196,2022020127,Shot,196,SHOT,Roope Hintz Backhand saved by Igor Shesterkin,2022-10-29T19:09:52Z,2,02:56,17:04,2,2,25.0,Dallas Stars,DAL
+104,25,3,Dallas Stars,New York Rangers,2022020127197,2022020127,Shot,197,SHOT,Tyler Seguin Snap Shot saved by Igor Shesterkin,2022-10-29T19:09:55Z,2,02:59,17:01,2,2,25.0,Dallas Stars,DAL
+105,25,3,Dallas Stars,New York Rangers,2022020127198,2022020127,Missed Shot,198,MISSED_SHOT,Alexis Lafrenière Goalpost Jake Oettinger,2022-10-29T19:10:39Z,2,03:43,16:17,2,2,3.0,New York Rangers,NYR
+106,25,3,Dallas Stars,New York Rangers,2022020127217,2022020127,Stoppage,217,STOP,Puck in Netting,2022-10-29T19:10:42Z,2,03:45,16:15,2,2,,,
+107,25,3,Dallas Stars,New York Rangers,2022020127123,2022020127,Faceoff,123,FACEOFF,Ryan Carpenter faceoff won against Tyler Seguin,2022-10-29T19:11:21Z,2,03:45,16:15,2,2,3.0,New York Rangers,NYR
+108,25,3,Dallas Stars,New York Rangers,2022020127199,2022020127,Shot,199,SHOT,Jacob Trouba Wrist Shot saved by Jake Oettinger,2022-10-29T19:11:33Z,2,03:57,16:03,2,2,3.0,New York Rangers,NYR
+109,25,3,Dallas Stars,New York Rangers,2022020127200,2022020127,Missed Shot,200,MISSED_SHOT,Ryan Carpenter Wide of Net Jake Oettinger,2022-10-29T19:11:36Z,2,04:00,16:00,2,2,3.0,New York Rangers,NYR
+110,25,3,Dallas Stars,New York Rangers,2022020127212,2022020127,Stoppage,212,STOP,Goalie Stopped,2022-10-29T19:11:38Z,2,04:02,15:58,2,2,,,
+111,25,3,Dallas Stars,New York Rangers,2022020127124,2022020127,Faceoff,124,FACEOFF,Ryan Carpenter faceoff won against Tyler Seguin,2022-10-29T19:12:03Z,2,04:02,15:58,2,2,3.0,New York Rangers,NYR
+112,25,3,Dallas Stars,New York Rangers,2022020127351,2022020127,Blocked Shot,351,BLOCKED_SHOT,Julien Gauthier shot blocked shot by Ryan Suter,2022-10-29T19:12:12Z,2,04:11,15:49,2,2,25.0,Dallas Stars,DAL
+113,25,3,Dallas Stars,New York Rangers,2022020127268,2022020127,Hit,268,HIT,Tyler Seguin hit Ryan Carpenter,2022-10-29T19:12:23Z,2,04:22,15:38,2,2,25.0,Dallas Stars,DAL
+114,25,3,Dallas Stars,New York Rangers,2022020127352,2022020127,Missed Shot,352,MISSED_SHOT,Braden Schneider Over Net Jake Oettinger,2022-10-29T19:12:58Z,2,04:57,15:03,2,2,3.0,New York Rangers,NYR
+115,25,3,Dallas Stars,New York Rangers,2022020127353,2022020127,Shot,353,SHOT,Chris Kreider Wrist Shot saved by Jake Oettinger,2022-10-29T19:13:08Z,2,05:07,14:53,2,2,3.0,New York Rangers,NYR
+116,25,3,Dallas Stars,New York Rangers,202202012728,2022020127,Giveaway,28,GIVEAWAY,Giveaway by Zac Jones,2022-10-29T19:13:22Z,2,05:21,14:39,2,2,3.0,New York Rangers,NYR
+117,25,3,Dallas Stars,New York Rangers,2022020127354,2022020127,Shot,354,SHOT,Wyatt Johnston Snap Shot saved by Igor Shesterkin,2022-10-29T19:13:22Z,2,05:21,14:39,2,2,25.0,Dallas Stars,DAL
+118,25,3,Dallas Stars,New York Rangers,2022020127213,2022020127,Stoppage,213,STOP,Icing,2022-10-29T19:13:33Z,2,05:32,14:28,2,2,,,
+119,25,3,Dallas Stars,New York Rangers,2022020127125,2022020127,Faceoff,125,FACEOFF,Vincent Trocheck faceoff won against Wyatt Johnston,2022-10-29T19:14:07Z,2,05:32,14:28,2,2,3.0,New York Rangers,NYR
+120,25,3,Dallas Stars,New York Rangers,2022020127355,2022020127,Missed Shot,355,MISSED_SHOT,Artemi Panarin Wide of Net Jake Oettinger,2022-10-29T19:14:13Z,2,05:38,14:22,2,2,3.0,New York Rangers,NYR
+121,25,3,Dallas Stars,New York Rangers,2022020127269,2022020127,Hit,269,HIT,Colin Miller hit Alexis Lafrenière,2022-10-29T19:14:17Z,2,05:42,14:18,2,2,25.0,Dallas Stars,DAL
+122,25,3,Dallas Stars,New York Rangers,2022020127356,2022020127,Shot,356,SHOT,Wyatt Johnston Wrist Shot saved by Igor Shesterkin,2022-10-29T19:14:57Z,2,06:22,13:38,2,2,25.0,Dallas Stars,DAL
+123,25,3,Dallas Stars,New York Rangers,2022020127536,2022020127,Penalty,536,PENALTY,Vincent Trocheck Cross-checking against Ty Dellandrea,2022-10-29T19:14:58Z,2,06:23,13:37,2,2,3.0,New York Rangers,NYR
+124,25,3,Dallas Stars,New York Rangers,2022020127214,2022020127,Stoppage,214,STOP,TV timeout,2022-10-29T19:14:59Z,2,06:23,13:37,2,2,,,
+125,25,3,Dallas Stars,New York Rangers,2022020127540,2022020127,Penalty,540,PENALTY,Jamie Benn Roughing against Vincent Trocheck,2022-10-29T19:14:59Z,2,06:23,13:37,2,2,25.0,Dallas Stars,DAL
+126,25,3,Dallas Stars,New York Rangers,2022020127126,2022020127,Faceoff,126,FACEOFF,Tyler Seguin faceoff won against Mika Zibanejad,2022-10-29T19:17:47Z,2,06:23,13:37,2,2,25.0,Dallas Stars,DAL
+127,25,3,Dallas Stars,New York Rangers,202202012729,2022020127,Giveaway,29,GIVEAWAY,Giveaway by Nils Lundkvist,2022-10-29T19:18:03Z,2,06:39,13:21,2,2,25.0,Dallas Stars,DAL
+128,25,3,Dallas Stars,New York Rangers,202202012730,2022020127,Giveaway,30,GIVEAWAY,Giveaway by Mason Marchment,2022-10-29T19:18:20Z,2,06:56,13:04,2,2,25.0,Dallas Stars,DAL
+129,25,3,Dallas Stars,New York Rangers,2022020127357,2022020127,Shot,357,SHOT,Chris Kreider Wrist Shot saved by Scott Wedgewood,2022-10-29T19:18:21Z,2,06:57,13:03,2,2,3.0,New York Rangers,NYR
+130,25,3,Dallas Stars,New York Rangers,2022020127358,2022020127,Shot,358,SHOT,Nils Lundkvist Wrist Shot saved by Igor Shesterkin,2022-10-29T19:18:30Z,2,07:06,12:54,2,2,25.0,Dallas Stars,DAL
+131,25,3,Dallas Stars,New York Rangers,2022020127218,2022020127,Stoppage,218,STOP,Goalie Stopped,2022-10-29T19:18:33Z,2,07:09,12:51,2,2,,,
+132,25,3,Dallas Stars,New York Rangers,2022020127127,2022020127,Faceoff,127,FACEOFF,Joe Pavelski faceoff won against Kaapo Kakko,2022-10-29T19:19:01Z,2,07:09,12:51,2,2,25.0,Dallas Stars,DAL
+133,25,3,Dallas Stars,New York Rangers,2022020127359,2022020127,Shot,359,SHOT,Esa Lindell Wrist Shot saved by Igor Shesterkin,2022-10-29T19:19:06Z,2,07:14,12:46,2,2,25.0,Dallas Stars,DAL
+134,25,3,Dallas Stars,New York Rangers,202202012731,2022020127,Takeaway,31,TAKEAWAY,Takeaway by Roope Hintz,2022-10-29T19:19:15Z,2,07:23,12:37,2,2,25.0,Dallas Stars,DAL
+135,25,3,Dallas Stars,New York Rangers,202202012732,2022020127,Giveaway,32,GIVEAWAY,Giveaway by Joe Pavelski,2022-10-29T19:19:40Z,2,07:48,12:12,2,2,25.0,Dallas Stars,DAL
+136,25,3,Dallas Stars,New York Rangers,2022020127360,2022020127,Blocked Shot,360,BLOCKED_SHOT,Jamie Benn shot blocked shot by Braden Schneider,2022-10-29T19:20:21Z,2,08:29,11:31,2,2,3.0,New York Rangers,NYR
+137,25,3,Dallas Stars,New York Rangers,202202012733,2022020127,Takeaway,33,TAKEAWAY,Takeaway by Alexis Lafrenière,2022-10-29T19:20:30Z,2,08:38,11:22,2,2,3.0,New York Rangers,NYR
+138,25,3,Dallas Stars,New York Rangers,2022020127215,2022020127,Stoppage,215,STOP,Puck in Benches,2022-10-29T19:20:42Z,2,08:51,11:09,2,2,,,
+139,25,3,Dallas Stars,New York Rangers,2022020127128,2022020127,Faceoff,128,FACEOFF,Radek Faksa faceoff won against Sammy Blais,2022-10-29T19:21:34Z,2,08:51,11:09,2,2,25.0,Dallas Stars,DAL
+140,25,3,Dallas Stars,New York Rangers,202202012734,2022020127,Giveaway,34,GIVEAWAY,Giveaway by Julien Gauthier,2022-10-29T19:21:53Z,2,09:10,10:50,2,2,3.0,New York Rangers,NYR
+141,25,3,Dallas Stars,New York Rangers,2022020127361,2022020127,Shot,361,SHOT,Nils Lundkvist Wrist Shot saved by Igor Shesterkin,2022-10-29T19:21:55Z,2,09:12,10:48,2,2,25.0,Dallas Stars,DAL
+142,25,3,Dallas Stars,New York Rangers,2022020127270,2022020127,Hit,270,HIT,Julien Gauthier hit Jani Hakanpää,2022-10-29T19:22:05Z,2,09:22,10:38,2,2,3.0,New York Rangers,NYR
+143,25,3,Dallas Stars,New York Rangers,2022020127271,2022020127,Hit,271,HIT,Nils Lundkvist hit Mika Zibanejad,2022-10-29T19:22:39Z,2,09:56,10:04,2,2,25.0,Dallas Stars,DAL
+144,25,3,Dallas Stars,New York Rangers,2022020127272,2022020127,Hit,272,HIT,Mika Zibanejad hit Nils Lundkvist,2022-10-29T19:22:47Z,2,10:04,09:56,2,2,3.0,New York Rangers,NYR
+145,25,3,Dallas Stars,New York Rangers,2022020127362,2022020127,Shot,362,SHOT,Adam Fox Wrist Shot saved by Scott Wedgewood,2022-10-29T19:22:49Z,2,10:06,09:54,2,2,3.0,New York Rangers,NYR
+146,25,3,Dallas Stars,New York Rangers,2022020127363,2022020127,Shot,363,SHOT,Mika Zibanejad Tip-In saved by Scott Wedgewood,2022-10-29T19:22:59Z,2,10:16,09:44,2,2,3.0,New York Rangers,NYR
+147,25,3,Dallas Stars,New York Rangers,2022020127364,2022020127,Shot,364,SHOT,Kaapo Kakko Wrist Shot saved by Scott Wedgewood,2022-10-29T19:23:02Z,2,10:19,09:41,2,2,3.0,New York Rangers,NYR
+148,25,3,Dallas Stars,New York Rangers,2022020127365,2022020127,Missed Shot,365,MISSED_SHOT,Kaapo Kakko Wide of Net Scott Wedgewood,2022-10-29T19:23:17Z,2,10:34,09:26,2,2,3.0,New York Rangers,NYR
+149,25,3,Dallas Stars,New York Rangers,2022020127273,2022020127,Hit,273,HIT,Mason Marchment hit Ryan Lindgren,2022-10-29T19:23:29Z,2,10:46,09:14,2,2,25.0,Dallas Stars,DAL
+150,25,3,Dallas Stars,New York Rangers,2022020127274,2022020127,Hit,274,HIT,Alexis Lafrenière hit Esa Lindell,2022-10-29T19:23:42Z,2,10:59,09:01,2,2,3.0,New York Rangers,NYR
+151,25,3,Dallas Stars,New York Rangers,202202012735,2022020127,Takeaway,35,TAKEAWAY,Takeaway by Artemi Panarin,2022-10-29T19:23:43Z,2,11:00,09:00,2,2,3.0,New York Rangers,NYR
+152,25,3,Dallas Stars,New York Rangers,2022020127366,2022020127,Shot,366,SHOT,Alexis Lafrenière Wrist Shot saved by Scott Wedgewood,2022-10-29T19:23:46Z,2,11:03,08:57,2,2,3.0,New York Rangers,NYR
+153,25,3,Dallas Stars,New York Rangers,2022020127216,2022020127,Stoppage,216,STOP,Goalie Stopped,2022-10-29T19:23:48Z,2,11:04,08:56,2,2,,,
+154,25,3,Dallas Stars,New York Rangers,2022020127129,2022020127,Faceoff,129,FACEOFF,Vincent Trocheck faceoff won against Joe Pavelski,2022-10-29T19:26:03Z,2,11:04,08:56,2,2,3.0,New York Rangers,NYR
+155,25,3,Dallas Stars,New York Rangers,2022020127367,2022020127,Missed Shot,367,MISSED_SHOT,Zac Jones Over Net Scott Wedgewood,2022-10-29T19:26:31Z,2,11:32,08:28,2,2,3.0,New York Rangers,NYR
+156,25,3,Dallas Stars,New York Rangers,202202012736,2022020127,Giveaway,36,GIVEAWAY,Giveaway by Alexis Lafrenière,2022-10-29T19:26:40Z,2,11:41,08:19,2,2,3.0,New York Rangers,NYR
+157,25,3,Dallas Stars,New York Rangers,2022020127275,2022020127,Hit,275,HIT,Jani Hakanpää hit Vitali Kravtsov,2022-10-29T19:27:26Z,2,12:27,07:33,2,2,25.0,Dallas Stars,DAL
+158,25,3,Dallas Stars,New York Rangers,2022020127219,2022020127,Stoppage,219,STOP,Referee or Linesman,2022-10-29T19:27:26Z,2,12:28,07:32,2,2,,,
+159,25,3,Dallas Stars,New York Rangers,2022020127130,2022020127,Faceoff,130,FACEOFF,Ty Dellandrea faceoff won against Ryan Carpenter,2022-10-29T19:29:01Z,2,12:28,07:32,2,2,25.0,Dallas Stars,DAL
+160,25,3,Dallas Stars,New York Rangers,2022020127368,2022020127,Missed Shot,368,MISSED_SHOT,Julien Gauthier Wide of Net Scott Wedgewood,2022-10-29T19:29:31Z,2,12:58,07:02,2,2,3.0,New York Rangers,NYR
+161,25,3,Dallas Stars,New York Rangers,2022020127369,2022020127,Shot,369,SHOT,Sammy Blais Wrist Shot saved by Scott Wedgewood,2022-10-29T19:29:44Z,2,13:11,06:49,2,2,3.0,New York Rangers,NYR
+162,25,3,Dallas Stars,New York Rangers,2022020127692,2022020127,Penalty,692,PENALTY,Joel Hanley Tripping against Ryan Carpenter,2022-10-29T19:29:48Z,2,13:15,06:45,2,2,25.0,Dallas Stars,DAL
+163,25,3,Dallas Stars,New York Rangers,2022020127131,2022020127,Faceoff,131,FACEOFF,Vincent Trocheck faceoff won against Radek Faksa,2022-10-29T19:30:34Z,2,13:15,06:45,2,2,3.0,New York Rangers,NYR
+164,25,3,Dallas Stars,New York Rangers,2022020127370,2022020127,Blocked Shot,370,BLOCKED_SHOT,Mika Zibanejad shot blocked shot by Esa Lindell,2022-10-29T19:30:43Z,2,13:24,06:36,2,2,25.0,Dallas Stars,DAL
+165,25,3,Dallas Stars,New York Rangers,2022020127371,2022020127,Shot,371,SHOT,Mika Zibanejad Wrist Shot saved by Scott Wedgewood,2022-10-29T19:30:46Z,2,13:27,06:33,2,2,3.0,New York Rangers,NYR
+166,25,3,Dallas Stars,New York Rangers,202202012738,2022020127,Takeaway,38,TAKEAWAY,Takeaway by Joel Kiviranta,2022-10-29T19:31:05Z,2,13:46,06:14,2,2,25.0,Dallas Stars,DAL
+167,25,3,Dallas Stars,New York Rangers,2022020127276,2022020127,Hit,276,HIT,Vincent Trocheck hit Radek Faksa,2022-10-29T19:31:06Z,2,13:47,06:13,2,2,3.0,New York Rangers,NYR
+168,25,3,Dallas Stars,New York Rangers,2022020127372,2022020127,Goal,372,GOAL,"Mika Zibanejad (5) Tip-In, assists: Artemi Panarin (9), Chris Kreider (3)",2022-10-29T19:31:37Z,2,14:18,05:42,2,3,3.0,New York Rangers,NYR
+169,25,3,Dallas Stars,New York Rangers,2022020127132,2022020127,Faceoff,132,FACEOFF,Tyler Seguin faceoff won against Barclay Goodrow,2022-10-29T19:32:24Z,2,14:18,05:42,2,3,25.0,Dallas Stars,DAL
+170,25,3,Dallas Stars,New York Rangers,2022020127220,2022020127,Stoppage,220,STOP,TV timeout,2022-10-29T19:32:29Z,2,14:23,05:37,2,3,,,
+171,25,3,Dallas Stars,New York Rangers,2022020127753,2022020127,Penalty,753,PENALTY,K'Andre Miller Interference against Mason Marchment,2022-10-29T19:32:29Z,2,14:23,05:37,2,3,3.0,New York Rangers,NYR
+172,25,3,Dallas Stars,New York Rangers,2022020127133,2022020127,Faceoff,133,FACEOFF,Joe Pavelski faceoff won against Barclay Goodrow,2022-10-29T19:34:48Z,2,14:23,05:37,2,3,25.0,Dallas Stars,DAL
+173,25,3,Dallas Stars,New York Rangers,2022020127373,2022020127,Blocked Shot,373,BLOCKED_SHOT,Barclay Goodrow shot blocked shot by Roope Hintz,2022-10-29T19:34:57Z,2,14:32,05:28,2,3,25.0,Dallas Stars,DAL
+174,25,3,Dallas Stars,New York Rangers,2022020127374,2022020127,Shot,374,SHOT,Jason Robertson Slap Shot saved by Igor Shesterkin,2022-10-29T19:35:15Z,2,14:50,05:10,2,3,25.0,Dallas Stars,DAL
+175,25,3,Dallas Stars,New York Rangers,2022020127375,2022020127,Blocked Shot,375,BLOCKED_SHOT,Jamie Benn shot blocked shot by Ryan Lindgren,2022-10-29T19:35:35Z,2,15:10,04:50,2,3,3.0,New York Rangers,NYR
+176,25,3,Dallas Stars,New York Rangers,202202012739,2022020127,Takeaway,39,TAKEAWAY,Takeaway by Jacob Trouba,2022-10-29T19:35:54Z,2,15:29,04:31,2,3,3.0,New York Rangers,NYR
+177,25,3,Dallas Stars,New York Rangers,2022020127376,2022020127,Blocked Shot,376,BLOCKED_SHOT,Mason Marchment shot blocked shot by Chris Kreider,2022-10-29T19:36:32Z,2,16:07,03:53,2,3,3.0,New York Rangers,NYR
+178,25,3,Dallas Stars,New York Rangers,2022020127377,2022020127,Shot,377,SHOT,Tyler Seguin Wrist Shot saved by Igor Shesterkin,2022-10-29T19:36:51Z,2,16:26,03:34,2,3,25.0,Dallas Stars,DAL
+179,25,3,Dallas Stars,New York Rangers,2022020127378,2022020127,Missed Shot,378,MISSED_SHOT,Denis Gurianov Wide of Net Igor Shesterkin,2022-10-29T19:36:54Z,2,16:29,03:31,2,3,25.0,Dallas Stars,DAL
+180,25,3,Dallas Stars,New York Rangers,2022020127379,2022020127,Shot,379,SHOT,Jimmy Vesey Snap Shot saved by Scott Wedgewood,2022-10-29T19:37:01Z,2,16:36,03:24,2,3,3.0,New York Rangers,NYR
+181,25,3,Dallas Stars,New York Rangers,2022020127221,2022020127,Stoppage,221,STOP,Goalie Stopped,2022-10-29T19:37:04Z,2,16:38,03:22,2,3,,,
+182,25,3,Dallas Stars,New York Rangers,2022020127134,2022020127,Faceoff,134,FACEOFF,Radek Faksa faceoff won against Vincent Trocheck,2022-10-29T19:37:42Z,2,16:38,03:22,2,3,25.0,Dallas Stars,DAL
+183,25,3,Dallas Stars,New York Rangers,2022020127380,2022020127,Blocked Shot,380,BLOCKED_SHOT,Ryan Lindgren shot blocked shot by Radek Faksa,2022-10-29T19:38:07Z,2,17:03,02:57,2,3,25.0,Dallas Stars,DAL
+184,25,3,Dallas Stars,New York Rangers,202202012740,2022020127,Hit,40,HIT,Ryan Lindgren hit Radek Faksa,2022-10-29T19:38:19Z,2,17:15,02:45,2,3,3.0,New York Rangers,NYR
+185,25,3,Dallas Stars,New York Rangers,2022020127381,2022020127,Shot,381,SHOT,Artemi Panarin Wrist Shot saved by Scott Wedgewood,2022-10-29T19:38:52Z,2,17:48,02:12,2,3,3.0,New York Rangers,NYR
+186,25,3,Dallas Stars,New York Rangers,202202012741,2022020127,Takeaway,41,TAKEAWAY,Takeaway by Alexis Lafrenière,2022-10-29T19:38:54Z,2,17:50,02:10,2,3,3.0,New York Rangers,NYR
+187,25,3,Dallas Stars,New York Rangers,2022020127382,2022020127,Missed Shot,382,MISSED_SHOT,Colin Miller Wide of Net Igor Shesterkin,2022-10-29T19:39:06Z,2,18:02,01:58,2,3,25.0,Dallas Stars,DAL
+188,25,3,Dallas Stars,New York Rangers,2022020127383,2022020127,Shot,383,SHOT,Ty Dellandrea Wrist Shot saved by Igor Shesterkin,2022-10-29T19:39:22Z,2,18:18,01:42,2,3,25.0,Dallas Stars,DAL
+189,25,3,Dallas Stars,New York Rangers,2022020127384,2022020127,Shot,384,SHOT,Jani Hakanpää Wrist Shot saved by Igor Shesterkin,2022-10-29T19:39:41Z,2,18:37,01:23,2,3,25.0,Dallas Stars,DAL
+190,25,3,Dallas Stars,New York Rangers,2022020127385,2022020127,Shot,385,SHOT,Jamie Benn Snap Shot saved by Igor Shesterkin,2022-10-29T19:39:44Z,2,18:40,01:20,2,3,25.0,Dallas Stars,DAL
+191,25,3,Dallas Stars,New York Rangers,2022020127222,2022020127,Stoppage,222,STOP,Goalie Stopped,2022-10-29T19:39:44Z,2,18:41,01:19,2,3,,,
+192,25,3,Dallas Stars,New York Rangers,2022020127135,2022020127,Faceoff,135,FACEOFF,Barclay Goodrow faceoff won against Joe Pavelski,2022-10-29T19:40:44Z,2,18:41,01:19,2,3,3.0,New York Rangers,NYR
+193,25,3,Dallas Stars,New York Rangers,2022020127386,2022020127,Goal,386,GOAL,"Jason Robertson (4) Wrist Shot, assists: none",2022-10-29T19:40:50Z,2,18:46,01:14,3,3,25.0,Dallas Stars,DAL
+194,25,3,Dallas Stars,New York Rangers,2022020127136,2022020127,Faceoff,136,FACEOFF,Barclay Goodrow faceoff won against Roope Hintz,2022-10-29T19:41:31Z,2,18:46,01:14,3,3,3.0,New York Rangers,NYR
+195,25,3,Dallas Stars,New York Rangers,2022020127223,2022020127,Stoppage,223,STOP,Icing,2022-10-29T19:42:30Z,2,19:44,00:16,3,3,,,
+196,25,3,Dallas Stars,New York Rangers,2022020127137,2022020127,Faceoff,137,FACEOFF,Vincent Trocheck faceoff won against Tyler Seguin,2022-10-29T19:42:59Z,2,19:44,00:16,3,3,3.0,New York Rangers,NYR
+197,25,3,Dallas Stars,New York Rangers,202202012742,2022020127,Period End,42,PERIOD_END,End of 2nd Period,2022-10-29T19:43:15Z,2,20:00,00:00,3,3,,,
+198,25,3,Dallas Stars,New York Rangers,202202012745,2022020127,Period Official,45,PERIOD_OFFICIAL,Period Official,2022-10-29T19:59:28Z,2,20:00,00:00,3,3,,,
+199,25,3,Dallas Stars,New York Rangers,202202012746,2022020127,Period Ready,46,PERIOD_READY,Period Ready,2022-10-29T20:00:05Z,3,00:00,20:00,3,3,,,
+200,25,3,Dallas Stars,New York Rangers,2022020127138,2022020127,Period Start,138,PERIOD_START,Period Start,2022-10-29T20:02:01Z,3,00:00,20:00,3,3,,,
+201,25,3,Dallas Stars,New York Rangers,2022020127140,2022020127,Faceoff,140,FACEOFF,Joe Pavelski faceoff won against Mika Zibanejad,2022-10-29T20:02:01Z,3,00:00,20:00,3,3,25.0,Dallas Stars,DAL
+202,25,3,Dallas Stars,New York Rangers,202202012747,2022020127,Giveaway,47,GIVEAWAY,Giveaway by Kaapo Kakko,2022-10-29T20:02:50Z,3,00:49,19:11,3,3,3.0,New York Rangers,NYR
+203,25,3,Dallas Stars,New York Rangers,202202012748,2022020127,Hit,48,HIT,Vincent Trocheck hit Esa Lindell,2022-10-29T20:03:33Z,3,01:32,18:28,3,3,3.0,New York Rangers,NYR
+204,25,3,Dallas Stars,New York Rangers,2022020127388,2022020127,Missed Shot,388,MISSED_SHOT,Jani Hakanpää Wide of Net Igor Shesterkin,2022-10-29T20:03:41Z,3,01:40,18:20,3,3,25.0,Dallas Stars,DAL
+205,25,3,Dallas Stars,New York Rangers,2022020127224,2022020127,Stoppage,224,STOP,Offside,2022-10-29T20:03:56Z,3,01:54,18:06,3,3,,,
+206,25,3,Dallas Stars,New York Rangers,2022020127141,2022020127,Faceoff,141,FACEOFF,Jamie Benn faceoff won against Barclay Goodrow,2022-10-29T20:04:19Z,3,01:54,18:06,3,3,25.0,Dallas Stars,DAL
+207,25,3,Dallas Stars,New York Rangers,2022020127389,2022020127,Missed Shot,389,MISSED_SHOT,Zac Jones Wide of Net Scott Wedgewood,2022-10-29T20:04:46Z,3,02:21,17:39,3,3,3.0,New York Rangers,NYR
+208,25,3,Dallas Stars,New York Rangers,202202012749,2022020127,Takeaway,49,TAKEAWAY,Takeaway by Zac Jones,2022-10-29T20:05:00Z,3,02:35,17:25,3,3,3.0,New York Rangers,NYR
+209,25,3,Dallas Stars,New York Rangers,2022020127225,2022020127,Stoppage,225,STOP,Offside,2022-10-29T20:05:39Z,3,03:13,16:47,3,3,,,
+210,25,3,Dallas Stars,New York Rangers,2022020127142,2022020127,Faceoff,142,FACEOFF,Roope Hintz faceoff won against Barclay Goodrow,2022-10-29T20:06:05Z,3,03:13,16:47,3,3,25.0,Dallas Stars,DAL
+211,25,3,Dallas Stars,New York Rangers,2022020127391,2022020127,Shot,391,SHOT,Joe Pavelski Snap Shot saved by Igor Shesterkin,2022-10-29T20:06:14Z,3,03:22,16:38,3,3,25.0,Dallas Stars,DAL
+212,25,3,Dallas Stars,New York Rangers,2022020127226,2022020127,Stoppage,226,STOP,Goalie Stopped,2022-10-29T20:06:14Z,3,03:23,16:37,3,3,,,
+213,25,3,Dallas Stars,New York Rangers,2022020127143,2022020127,Faceoff,143,FACEOFF,Roope Hintz faceoff won against Mika Zibanejad,2022-10-29T20:06:47Z,3,03:23,16:37,3,3,25.0,Dallas Stars,DAL
+214,25,3,Dallas Stars,New York Rangers,2022020127392,2022020127,Missed Shot,392,MISSED_SHOT,Kaapo Kakko Wide of Net Scott Wedgewood,2022-10-29T20:07:00Z,3,03:36,16:24,3,3,3.0,New York Rangers,NYR
+215,25,3,Dallas Stars,New York Rangers,2022020127551,2022020127,Stoppage,551,STOP,Challenge Away: off-side,2022-10-29T20:07:10Z,3,03:46,16:14,3,3,,,
+216,25,3,Dallas Stars,New York Rangers,2022020127558,2022020127,Official Challenge,558,CHALLENGE,Coach's Challenge,2022-10-29T20:07:10Z,3,03:46,16:14,3,3,3.0,New York Rangers,NYR
+217,25,3,Dallas Stars,New York Rangers,2022020127559,2022020127,Stoppage,559,STOP,Offside,2022-10-29T20:07:10Z,3,03:46,16:14,3,3,,,
+218,25,3,Dallas Stars,New York Rangers,2022020127145,2022020127,Faceoff,145,FACEOFF,Tyler Seguin faceoff won against Vincent Trocheck,2022-10-29T20:09:32Z,3,03:46,16:14,3,3,25.0,Dallas Stars,DAL
+219,25,3,Dallas Stars,New York Rangers,2022020127394,2022020127,Shot,394,SHOT,Ryan Suter Wrist Shot saved by Igor Shesterkin,2022-10-29T20:09:38Z,3,03:52,16:08,3,3,25.0,Dallas Stars,DAL
+220,25,3,Dallas Stars,New York Rangers,2022020127395,2022020127,Blocked Shot,395,BLOCKED_SHOT,K'Andre Miller shot blocked shot by Denis Gurianov,2022-10-29T20:10:19Z,3,04:33,15:27,3,3,25.0,Dallas Stars,DAL
+221,25,3,Dallas Stars,New York Rangers,2022020127397,2022020127,Blocked Shot,397,BLOCKED_SHOT,Jacob Trouba shot blocked shot by Mason Marchment,2022-10-29T20:10:41Z,3,04:55,15:05,3,3,25.0,Dallas Stars,DAL
+222,25,3,Dallas Stars,New York Rangers,2022020127398,2022020127,Shot,398,SHOT,Jacob Trouba Wrist Shot saved by Scott Wedgewood,2022-10-29T20:10:50Z,3,05:04,14:56,3,3,3.0,New York Rangers,NYR
+223,25,3,Dallas Stars,New York Rangers,2022020127553,2022020127,Giveaway,553,GIVEAWAY,Giveaway by Artemi Panarin,2022-10-29T20:11:00Z,3,05:14,14:46,3,3,3.0,New York Rangers,NYR
+224,25,3,Dallas Stars,New York Rangers,2022020127227,2022020127,Stoppage,227,STOP,Icing,2022-10-29T20:11:37Z,3,05:51,14:09,3,3,,,
+225,25,3,Dallas Stars,New York Rangers,2022020127146,2022020127,Faceoff,146,FACEOFF,Ryan Carpenter faceoff won against Jamie Benn,2022-10-29T20:12:08Z,3,05:51,14:09,3,3,3.0,New York Rangers,NYR
+226,25,3,Dallas Stars,New York Rangers,2022020127554,2022020127,Hit,554,HIT,Sammy Blais hit Jani Hakanpää,2022-10-29T20:12:21Z,3,06:04,13:56,3,3,3.0,New York Rangers,NYR
+227,25,3,Dallas Stars,New York Rangers,2022020127399,2022020127,Blocked Shot,399,BLOCKED_SHOT,Jamie Benn shot blocked shot by Adam Fox,2022-10-29T20:12:27Z,3,06:10,13:50,3,3,3.0,New York Rangers,NYR
+228,25,3,Dallas Stars,New York Rangers,2022020127400,2022020127,Blocked Shot,400,BLOCKED_SHOT,Jamie Benn shot blocked shot by Ryan Carpenter,2022-10-29T20:12:39Z,3,06:22,13:38,3,3,3.0,New York Rangers,NYR
+229,25,3,Dallas Stars,New York Rangers,2022020127228,2022020127,Stoppage,228,STOP,Icing,2022-10-29T20:12:56Z,3,06:38,13:22,3,3,,,
+230,25,3,Dallas Stars,New York Rangers,2022020127147,2022020127,Faceoff,147,FACEOFF,Mika Zibanejad faceoff won against Radek Faksa,2022-10-29T20:13:20Z,3,06:38,13:22,3,3,3.0,New York Rangers,NYR
+231,25,3,Dallas Stars,New York Rangers,2022020127555,2022020127,Giveaway,555,GIVEAWAY,Giveaway by Mika Zibanejad,2022-10-29T20:13:47Z,3,07:05,12:55,3,3,3.0,New York Rangers,NYR
+232,25,3,Dallas Stars,New York Rangers,2022020127556,2022020127,Hit,556,HIT,Ryan Lindgren hit Joel Kiviranta,2022-10-29T20:13:53Z,3,07:11,12:49,3,3,3.0,New York Rangers,NYR
+233,25,3,Dallas Stars,New York Rangers,2022020127801,2022020127,Shot,801,SHOT,Chris Kreider Wrist Shot saved by Scott Wedgewood,2022-10-29T20:14:00Z,3,07:18,12:42,3,3,3.0,New York Rangers,NYR
+234,25,3,Dallas Stars,New York Rangers,2022020127229,2022020127,Stoppage,229,STOP,Goalie Stopped,2022-10-29T20:14:02Z,3,07:20,12:40,3,3,,,
+235,25,3,Dallas Stars,New York Rangers,2022020127148,2022020127,Faceoff,148,FACEOFF,Joe Pavelski faceoff won against Vincent Trocheck,2022-10-29T20:16:22Z,3,07:20,12:40,3,3,25.0,Dallas Stars,DAL
+236,25,3,Dallas Stars,New York Rangers,2022020127557,2022020127,Hit,557,HIT,Joe Pavelski hit Vincent Trocheck,2022-10-29T20:16:40Z,3,07:38,12:22,3,3,25.0,Dallas Stars,DAL
+237,25,3,Dallas Stars,New York Rangers,2022020127802,2022020127,Takeaway,802,TAKEAWAY,Takeaway by Mika Zibanejad,2022-10-29T20:17:23Z,3,08:21,11:39,3,3,3.0,New York Rangers,NYR
+238,25,3,Dallas Stars,New York Rangers,2022020127230,2022020127,Stoppage,230,STOP,Icing,2022-10-29T20:17:32Z,3,08:31,11:29,3,3,,,
+239,25,3,Dallas Stars,New York Rangers,2022020127149,2022020127,Faceoff,149,FACEOFF,Tyler Seguin faceoff won against Mika Zibanejad,2022-10-29T20:17:58Z,3,08:31,11:29,3,3,25.0,Dallas Stars,DAL
+240,25,3,Dallas Stars,New York Rangers,2022020127803,2022020127,Blocked Shot,803,BLOCKED_SHOT,Colin Miller shot blocked shot by Mika Zibanejad,2022-10-29T20:18:12Z,3,08:45,11:15,3,3,3.0,New York Rangers,NYR
+241,25,3,Dallas Stars,New York Rangers,2022020127560,2022020127,Takeaway,560,TAKEAWAY,Takeaway by Jamie Benn,2022-10-29T20:18:50Z,3,09:23,10:37,3,3,25.0,Dallas Stars,DAL
+242,25,3,Dallas Stars,New York Rangers,2022020127701,2022020127,Hit,701,HIT,Alexis Lafrenière hit Radek Faksa,2022-10-29T20:19:53Z,3,10:26,09:34,3,3,3.0,New York Rangers,NYR
+243,25,3,Dallas Stars,New York Rangers,2022020127702,2022020127,Hit,702,HIT,Joel Kiviranta hit Ryan Lindgren,2022-10-29T20:20:09Z,3,10:42,09:18,3,3,25.0,Dallas Stars,DAL
+244,25,3,Dallas Stars,New York Rangers,2022020127804,2022020127,Shot,804,SHOT,Esa Lindell Wrist Shot saved by Igor Shesterkin,2022-10-29T20:20:22Z,3,10:55,09:05,3,3,25.0,Dallas Stars,DAL
+245,25,3,Dallas Stars,New York Rangers,2022020127561,2022020127,Giveaway,561,GIVEAWAY,Giveaway by Joe Pavelski,2022-10-29T20:20:29Z,3,11:02,08:58,3,3,25.0,Dallas Stars,DAL
+246,25,3,Dallas Stars,New York Rangers,2022020127805,2022020127,Goal,805,GOAL,"Zac Jones (1) Wrist Shot, assists: Vincent Trocheck (5), Julien Gauthier (1)",2022-10-29T20:20:45Z,3,11:18,08:42,3,4,3.0,New York Rangers,NYR
+247,25,3,Dallas Stars,New York Rangers,2022020127150,2022020127,Faceoff,150,FACEOFF,Tyler Seguin faceoff won against Ryan Carpenter,2022-10-29T20:21:26Z,3,11:18,08:42,3,4,25.0,Dallas Stars,DAL
+248,25,3,Dallas Stars,New York Rangers,2022020127806,2022020127,Goal,806,GOAL,"Julien Gauthier (1) Wrist Shot, assists: Sammy Blais (2), Zac Jones (1)",2022-10-29T20:21:45Z,3,11:37,08:23,3,5,3.0,New York Rangers,NYR
+249,25,3,Dallas Stars,New York Rangers,2022020127601,2022020127,Faceoff,601,FACEOFF,Wyatt Johnston faceoff won against Vincent Trocheck,2022-10-29T20:22:30Z,3,11:37,08:23,3,5,25.0,Dallas Stars,DAL
+250,25,3,Dallas Stars,New York Rangers,2022020127562,2022020127,Hit,562,HIT,Chris Kreider hit Ty Dellandrea,2022-10-29T20:23:00Z,3,12:07,07:53,3,5,3.0,New York Rangers,NYR
+251,25,3,Dallas Stars,New York Rangers,2022020127703,2022020127,Hit,703,HIT,Chris Kreider hit Ty Dellandrea,2022-10-29T20:23:00Z,3,12:07,07:53,3,5,3.0,New York Rangers,NYR
+252,25,3,Dallas Stars,New York Rangers,2022020127232,2022020127,Stoppage,232,STOP,Goalie Stopped,2022-10-29T20:23:02Z,3,12:09,07:51,3,5,,,
+253,25,3,Dallas Stars,New York Rangers,2022020127602,2022020127,Faceoff,602,FACEOFF,Jamie Benn faceoff won against Mika Zibanejad,2022-10-29T20:23:46Z,3,12:09,07:51,3,5,25.0,Dallas Stars,DAL
+254,25,3,Dallas Stars,New York Rangers,2022020127807,2022020127,Goal,807,GOAL,"Vincent Trocheck (4) Snap Shot, assists: Mika Zibanejad (6), Alexis Lafrenière (3)",2022-10-29T20:25:02Z,3,13:25,06:35,3,6,3.0,New York Rangers,NYR
+255,25,3,Dallas Stars,New York Rangers,2022020127603,2022020127,Faceoff,603,FACEOFF,Roope Hintz faceoff won against Ryan Carpenter,2022-10-29T20:25:56Z,3,13:25,06:35,3,6,25.0,Dallas Stars,DAL
+256,25,3,Dallas Stars,New York Rangers,2022020127808,2022020127,Missed Shot,808,MISSED_SHOT,Jason Robertson Wide of Net Igor Shesterkin,2022-10-29T20:26:05Z,3,13:34,06:26,3,6,25.0,Dallas Stars,DAL
+257,25,3,Dallas Stars,New York Rangers,2022020127809,2022020127,Blocked Shot,809,BLOCKED_SHOT,Jani Hakanpää shot blocked shot by Zac Jones,2022-10-29T20:26:11Z,3,13:40,06:20,3,6,3.0,New York Rangers,NYR
+258,25,3,Dallas Stars,New York Rangers,2022020127810,2022020127,Shot,810,SHOT,Esa Lindell Wrist Shot saved by Igor Shesterkin,2022-10-29T20:27:08Z,3,14:37,05:23,3,6,25.0,Dallas Stars,DAL
+259,25,3,Dallas Stars,New York Rangers,2022020127811,2022020127,Shot,811,SHOT,Nils Lundkvist Wrist Shot saved by Igor Shesterkin,2022-10-29T20:27:46Z,3,15:15,04:45,3,6,25.0,Dallas Stars,DAL
+260,25,3,Dallas Stars,New York Rangers,2022020127812,2022020127,Shot,812,SHOT,Mika Zibanejad Tip-In saved by Scott Wedgewood,2022-10-29T20:28:28Z,3,15:57,04:03,3,6,3.0,New York Rangers,NYR
+261,25,3,Dallas Stars,New York Rangers,2022020127820,2022020127,Blocked Shot,820,BLOCKED_SHOT,Chris Kreider shot blocked shot by Ty Dellandrea,2022-10-29T20:28:29Z,3,15:58,04:02,3,6,25.0,Dallas Stars,DAL
+262,25,3,Dallas Stars,New York Rangers,2022020127813,2022020127,Missed Shot,813,MISSED_SHOT,Chris Kreider Wide of Net Scott Wedgewood,2022-10-29T20:28:30Z,3,15:59,04:01,3,6,3.0,New York Rangers,NYR
+263,25,3,Dallas Stars,New York Rangers,2022020127824,2022020127,Shot,824,SHOT,Jacob Trouba Wrist Shot saved by Scott Wedgewood,2022-10-29T20:28:35Z,3,16:04,03:56,3,6,3.0,New York Rangers,NYR
+264,25,3,Dallas Stars,New York Rangers,2022020127825,2022020127,Missed Shot,825,MISSED_SHOT,Kaapo Kakko Wide of Net Scott Wedgewood,2022-10-29T20:28:37Z,3,16:06,03:54,3,6,3.0,New York Rangers,NYR
+265,25,3,Dallas Stars,New York Rangers,2022020127704,2022020127,Hit,704,HIT,Chris Kreider hit Radek Faksa,2022-10-29T20:28:42Z,3,16:11,03:49,3,6,3.0,New York Rangers,NYR
+266,25,3,Dallas Stars,New York Rangers,2022020127231,2022020127,Stoppage,231,STOP,Offside,2022-10-29T20:28:51Z,3,16:20,03:40,3,6,,,
+267,25,3,Dallas Stars,New York Rangers,2022020127604,2022020127,Faceoff,604,FACEOFF,Radek Faksa faceoff won against Ryan Carpenter,2022-10-29T20:31:02Z,3,16:20,03:40,3,6,25.0,Dallas Stars,DAL
+268,25,3,Dallas Stars,New York Rangers,2022020127705,2022020127,Hit,705,HIT,Radek Faksa hit Sammy Blais,2022-10-29T20:31:25Z,3,16:43,03:17,3,6,25.0,Dallas Stars,DAL
+269,25,3,Dallas Stars,New York Rangers,2022020127564,2022020127,Hit,564,HIT,Radek Faksa hit Sammy Blais,2022-10-29T20:31:26Z,3,16:44,03:16,3,6,25.0,Dallas Stars,DAL
+270,25,3,Dallas Stars,New York Rangers,2022020127978,2022020127,Penalty,978,PENALTY,Sammy Blais Cross-checking against Luke Glendening,2022-10-29T20:31:36Z,3,16:54,03:06,3,6,3.0,New York Rangers,NYR
+271,25,3,Dallas Stars,New York Rangers,2022020127605,2022020127,Faceoff,605,FACEOFF,Mika Zibanejad faceoff won against Joe Pavelski,2022-10-29T20:32:24Z,3,16:54,03:06,3,6,3.0,New York Rangers,NYR
+272,25,3,Dallas Stars,New York Rangers,2022020127815,2022020127,Blocked Shot,815,BLOCKED_SHOT,Ryan Suter shot blocked shot by Ryan Lindgren,2022-10-29T20:32:48Z,3,17:18,02:42,3,6,3.0,New York Rangers,NYR
+273,25,3,Dallas Stars,New York Rangers,2022020127814,2022020127,Shot,814,SHOT,Jason Robertson Snap Shot saved by Igor Shesterkin,2022-10-29T20:32:52Z,3,17:22,02:38,3,6,25.0,Dallas Stars,DAL
+274,25,3,Dallas Stars,New York Rangers,2022020127234,2022020127,Stoppage,234,STOP,Goalie Stopped,2022-10-29T20:32:53Z,3,17:23,02:37,3,6,,,
+275,25,3,Dallas Stars,New York Rangers,2022020127606,2022020127,Faceoff,606,FACEOFF,Barclay Goodrow faceoff won against Joe Pavelski,2022-10-29T20:33:22Z,3,17:23,02:37,3,6,3.0,New York Rangers,NYR
+276,25,3,Dallas Stars,New York Rangers,2022020127816,2022020127,Blocked Shot,816,BLOCKED_SHOT,Ryan Suter shot blocked shot by Barclay Goodrow,2022-10-29T20:34:03Z,3,18:04,01:56,3,6,3.0,New York Rangers,NYR
+277,25,3,Dallas Stars,New York Rangers,2022020127817,2022020127,Missed Shot,817,MISSED_SHOT,Joe Pavelski Over Net Igor Shesterkin,2022-10-29T20:34:12Z,3,18:13,01:47,3,6,25.0,Dallas Stars,DAL
+278,25,3,Dallas Stars,New York Rangers,2022020127818,2022020127,Missed Shot,818,MISSED_SHOT,Nils Lundkvist Wide of Net Igor Shesterkin,2022-10-29T20:34:36Z,3,18:37,01:23,3,6,25.0,Dallas Stars,DAL
+279,25,3,Dallas Stars,New York Rangers,2022020127819,2022020127,Shot,819,SHOT,Tyler Seguin Snap Shot saved by Igor Shesterkin,2022-10-29T20:35:01Z,3,19:00,01:00,3,6,25.0,Dallas Stars,DAL
+280,25,3,Dallas Stars,New York Rangers,2022020127235,2022020127,Stoppage,235,STOP,Goalie Stopped,2022-10-29T20:35:01Z,3,19:01,00:59,3,6,,,
+281,25,3,Dallas Stars,New York Rangers,2022020127607,2022020127,Faceoff,607,FACEOFF,Wyatt Johnston faceoff won against Barclay Goodrow,2022-10-29T20:35:50Z,3,19:01,00:59,3,6,25.0,Dallas Stars,DAL
+282,25,3,Dallas Stars,New York Rangers,2022020127821,2022020127,Blocked Shot,821,BLOCKED_SHOT,Denis Gurianov shot blocked shot by Jimmy Vesey,2022-10-29T20:35:55Z,3,19:06,00:54,3,6,3.0,New York Rangers,NYR
+283,25,3,Dallas Stars,New York Rangers,2022020127822,2022020127,Shot,822,SHOT,Jani Hakanpää Snap Shot saved by Igor Shesterkin,2022-10-29T20:35:57Z,3,19:08,00:52,3,6,25.0,Dallas Stars,DAL
+284,25,3,Dallas Stars,New York Rangers,2022020127994,2022020127,Penalty,994,PENALTY,Barclay Goodrow Roughing against Ty Dellandrea,2022-10-29T20:35:59Z,3,19:10,00:50,3,6,3.0,New York Rangers,NYR
+285,25,3,Dallas Stars,New York Rangers,2022020127609,2022020127,Faceoff,609,FACEOFF,Ryan Carpenter faceoff won against Jamie Benn,2022-10-29T20:37:11Z,3,19:10,00:50,3,6,3.0,New York Rangers,NYR
+286,25,3,Dallas Stars,New York Rangers,2022020127823,2022020127,Blocked Shot,823,BLOCKED_SHOT,Jason Robertson shot blocked shot by Ryan Carpenter,2022-10-29T20:37:59Z,3,19:58,00:02,3,6,3.0,New York Rangers,NYR
+287,25,3,Dallas Stars,New York Rangers,2022020127236,2022020127,Stoppage,236,STOP,Puck in Netting,2022-10-29T20:38:01Z,3,20:00,00:00,3,6,,,
+288,25,3,Dallas Stars,New York Rangers,2022020127565,2022020127,Period End,565,PERIOD_END,End of 3rd Period,2022-10-29T20:38:01Z,3,20:00,00:00,3,6,,,
+289,25,3,Dallas Stars,New York Rangers,2022020127568,2022020127,Period Official,568,PERIOD_OFFICIAL,Period Official,2022-10-29T20:38:20Z,3,20:00,00:00,3,6,,,
+290,25,3,Dallas Stars,New York Rangers,2022020127569,2022020127,Game End,569,GAME_END,Game End,2022-10-29T20:38:27Z,3,20:00,00:00,3,6,,,
+291,25,3,Dallas Stars,New York Rangers,20220201271281,2022020127,Game Official,1281,GAME_OFFICIAL,Game Official,2022-10-30T14:38:21Z,3,20:00,00:00,3,6,,,

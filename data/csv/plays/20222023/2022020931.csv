@@ -1,0 +1,356 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,10,30,Toronto Maple Leafs,Minnesota Wild,20220209311,2022020931,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-02-24T23:16:10Z,1,00:00,20:00,0,0,,,
+1,10,30,Toronto Maple Leafs,Minnesota Wild,20220209315,2022020931,Period Ready,5,PERIOD_READY,Period Ready,2023-02-25T00:04:21Z,1,00:00,20:00,0,0,,,
+2,10,30,Toronto Maple Leafs,Minnesota Wild,202202093151,2022020931,Period Start,51,PERIOD_START,Period Start,2023-02-25T00:08:13Z,1,00:00,20:00,0,0,,,
+3,10,30,Toronto Maple Leafs,Minnesota Wild,202202093152,2022020931,Faceoff,52,FACEOFF,Joel Eriksson Ek faceoff won against Auston Matthews,2023-02-25T00:08:13Z,1,00:00,20:00,0,0,30.0,Minnesota Wild,MIN
+4,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931151,2022020931,Hit,151,HIT,Marcus Foligno hit Mark Giordano,2023-02-25T00:08:23Z,1,00:10,19:50,0,0,30.0,Minnesota Wild,MIN
+5,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931152,2022020931,Stoppage,152,STOP,Puck in Crowd,2023-02-25T00:08:25Z,1,00:11,19:49,0,0,,,
+6,10,30,Toronto Maple Leafs,Minnesota Wild,202202093153,2022020931,Faceoff,53,FACEOFF,Matt Boldy faceoff won against Auston Matthews,2023-02-25T00:08:51Z,1,00:11,19:49,0,0,30.0,Minnesota Wild,MIN
+7,10,30,Toronto Maple Leafs,Minnesota Wild,202202093154,2022020931,Takeaway,54,TAKEAWAY,Takeaway by Auston Matthews,2023-02-25T00:09:05Z,1,00:25,19:35,0,0,10.0,Toronto Maple Leafs,TOR
+8,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931153,2022020931,Stoppage,153,STOP,Icing,2023-02-25T00:09:21Z,1,00:41,19:19,0,0,,,
+9,10,30,Toronto Maple Leafs,Minnesota Wild,202202093155,2022020931,Faceoff,55,FACEOFF,Ryan O'Reilly faceoff won against Joel Eriksson Ek,2023-02-25T00:09:49Z,1,00:41,19:19,0,0,10.0,Toronto Maple Leafs,TOR
+10,10,30,Toronto Maple Leafs,Minnesota Wild,202202093156,2022020931,Giveaway,56,GIVEAWAY,Giveaway by John Tavares,2023-02-25T00:10:02Z,1,00:54,19:06,0,0,10.0,Toronto Maple Leafs,TOR
+11,10,30,Toronto Maple Leafs,Minnesota Wild,20220209318,2022020931,Blocked Shot,8,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by Mitchell Marner,2023-02-25T00:10:37Z,1,01:29,18:31,0,0,10.0,Toronto Maple Leafs,TOR
+12,10,30,Toronto Maple Leafs,Minnesota Wild,20220209319,2022020931,Missed Shot,9,MISSED_SHOT,Ryan Hartman Goalpost Ilya Samsonov,2023-02-25T00:10:43Z,1,01:35,18:25,0,0,30.0,Minnesota Wild,MIN
+13,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931154,2022020931,Stoppage,154,STOP,Icing,2023-02-25T00:10:54Z,1,01:45,18:15,0,0,,,
+14,10,30,Toronto Maple Leafs,Minnesota Wild,202202093157,2022020931,Faceoff,57,FACEOFF,Ryan O'Reilly faceoff won against Frederick Gaudreau,2023-02-25T00:11:26Z,1,01:45,18:15,0,0,10.0,Toronto Maple Leafs,TOR
+15,10,30,Toronto Maple Leafs,Minnesota Wild,202202093110,2022020931,Shot,10,SHOT,David Kampf Wrist Shot saved by Filip Gustavsson,2023-02-25T00:11:50Z,1,02:09,17:51,0,0,10.0,Toronto Maple Leafs,TOR
+16,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931155,2022020931,Hit,155,HIT,Calle Jarnkrok hit Calen Addison,2023-02-25T00:11:56Z,1,02:15,17:45,0,0,10.0,Toronto Maple Leafs,TOR
+17,10,30,Toronto Maple Leafs,Minnesota Wild,202202093111,2022020931,Shot,11,SHOT,Frederick Gaudreau Backhand saved by Ilya Samsonov,2023-02-25T00:12:10Z,1,02:29,17:31,0,0,30.0,Minnesota Wild,MIN
+18,10,30,Toronto Maple Leafs,Minnesota Wild,202202093114,2022020931,Missed Shot,14,MISSED_SHOT,Jordan Greenway Over Net Ilya Samsonov,2023-02-25T00:12:24Z,1,02:43,17:17,0,0,30.0,Minnesota Wild,MIN
+19,10,30,Toronto Maple Leafs,Minnesota Wild,202202093112,2022020931,Shot,12,SHOT,Connor Dewar Wrist Shot saved by Ilya Samsonov,2023-02-25T00:12:26Z,1,02:45,17:15,0,0,30.0,Minnesota Wild,MIN
+20,10,30,Toronto Maple Leafs,Minnesota Wild,202202093115,2022020931,Shot,15,SHOT,Morgan Rielly Slap Shot saved by Filip Gustavsson,2023-02-25T00:13:06Z,1,03:25,16:35,0,0,10.0,Toronto Maple Leafs,TOR
+21,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931156,2022020931,Stoppage,156,STOP,Goalie Stopped,2023-02-25T00:13:06Z,1,03:25,16:35,0,0,,,
+22,10,30,Toronto Maple Leafs,Minnesota Wild,202202093158,2022020931,Faceoff,58,FACEOFF,Joel Eriksson Ek faceoff won against Auston Matthews,2023-02-25T00:13:33Z,1,03:25,16:35,0,0,30.0,Minnesota Wild,MIN
+23,10,30,Toronto Maple Leafs,Minnesota Wild,202202093116,2022020931,Missed Shot,16,MISSED_SHOT,Marcus Foligno Wide of Net Ilya Samsonov,2023-02-25T00:13:45Z,1,03:37,16:23,0,0,30.0,Minnesota Wild,MIN
+24,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931157,2022020931,Stoppage,157,STOP,Offside,2023-02-25T00:13:53Z,1,03:44,16:16,0,0,,,
+25,10,30,Toronto Maple Leafs,Minnesota Wild,202202093159,2022020931,Faceoff,59,FACEOFF,David Kampf faceoff won against Joel Eriksson Ek,2023-02-25T00:14:16Z,1,03:44,16:16,0,0,10.0,Toronto Maple Leafs,TOR
+26,10,30,Toronto Maple Leafs,Minnesota Wild,202202093117,2022020931,Shot,17,SHOT,Matt Boldy Wrist Shot saved by Ilya Samsonov,2023-02-25T00:14:26Z,1,03:54,16:06,0,0,30.0,Minnesota Wild,MIN
+27,10,30,Toronto Maple Leafs,Minnesota Wild,202202093160,2022020931,Takeaway,60,TAKEAWAY,Takeaway by Matt Dumba,2023-02-25T00:15:06Z,1,04:34,15:26,0,0,30.0,Minnesota Wild,MIN
+28,10,30,Toronto Maple Leafs,Minnesota Wild,202202093118,2022020931,Blocked Shot,18,BLOCKED_SHOT,Matt Dumba shot blocked shot by David Kampf,2023-02-25T00:15:11Z,1,04:39,15:21,0,0,10.0,Toronto Maple Leafs,TOR
+29,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931158,2022020931,Hit,158,HIT,Noel Acciari hit Calen Addison,2023-02-25T00:15:56Z,1,05:24,14:36,0,0,10.0,Toronto Maple Leafs,TOR
+30,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931159,2022020931,Hit,159,HIT,Zach Aston-Reese hit Dakota Mermis,2023-02-25T00:16:10Z,1,05:38,14:22,0,0,10.0,Toronto Maple Leafs,TOR
+31,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931160,2022020931,Stoppage,160,STOP,Puck in Crowd,2023-02-25T00:16:24Z,1,05:53,14:07,0,0,,,
+32,10,30,Toronto Maple Leafs,Minnesota Wild,202202093161,2022020931,Faceoff,61,FACEOFF,Auston Matthews faceoff won against Connor Dewar,2023-02-25T00:16:55Z,1,05:53,14:07,0,0,10.0,Toronto Maple Leafs,TOR
+33,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931161,2022020931,Hit,161,HIT,Mason Shaw hit Conor Timmins,2023-02-25T00:16:58Z,1,05:56,14:04,0,0,30.0,Minnesota Wild,MIN
+34,10,30,Toronto Maple Leafs,Minnesota Wild,202202093162,2022020931,Takeaway,62,TAKEAWAY,Takeaway by Calle Jarnkrok,2023-02-25T00:17:46Z,1,06:44,13:16,0,0,10.0,Toronto Maple Leafs,TOR
+35,10,30,Toronto Maple Leafs,Minnesota Wild,202202093120,2022020931,Shot,20,SHOT,Calle Jarnkrok Wrist Shot saved by Filip Gustavsson,2023-02-25T00:17:55Z,1,06:53,13:07,0,0,10.0,Toronto Maple Leafs,TOR
+36,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931162,2022020931,Stoppage,162,STOP,Offside,2023-02-25T00:18:24Z,1,07:22,12:38,0,0,,,
+37,10,30,Toronto Maple Leafs,Minnesota Wild,202202093163,2022020931,Faceoff,63,FACEOFF,Ryan Hartman faceoff won against John Tavares,2023-02-25T00:20:40Z,1,07:22,12:38,0,0,30.0,Minnesota Wild,MIN
+38,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931163,2022020931,Hit,163,HIT,Kirill Kaprizov hit Justin Holl,2023-02-25T00:20:46Z,1,07:28,12:32,0,0,30.0,Minnesota Wild,MIN
+39,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931164,2022020931,Hit,164,HIT,Justin Holl hit Kirill Kaprizov,2023-02-25T00:20:54Z,1,07:36,12:24,0,0,10.0,Toronto Maple Leafs,TOR
+40,10,30,Toronto Maple Leafs,Minnesota Wild,202202093121,2022020931,Blocked Shot,21,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by Justin Holl,2023-02-25T00:21:13Z,1,07:55,12:05,0,0,10.0,Toronto Maple Leafs,TOR
+41,10,30,Toronto Maple Leafs,Minnesota Wild,202202093123,2022020931,Missed Shot,23,MISSED_SHOT,Kirill Kaprizov Wide of Net Ilya Samsonov,2023-02-25T00:21:24Z,1,08:06,11:54,0,0,30.0,Minnesota Wild,MIN
+42,10,30,Toronto Maple Leafs,Minnesota Wild,202202093124,2022020931,Missed Shot,24,MISSED_SHOT,Mats Zuccarello Wide of Net Ilya Samsonov,2023-02-25T00:21:34Z,1,08:16,11:44,0,0,30.0,Minnesota Wild,MIN
+43,10,30,Toronto Maple Leafs,Minnesota Wild,202202093164,2022020931,Takeaway,64,TAKEAWAY,Takeaway by Justin Holl,2023-02-25T00:21:35Z,1,08:17,11:43,0,0,10.0,Toronto Maple Leafs,TOR
+44,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931165,2022020931,Hit,165,HIT,Jordan Greenway hit Mark Giordano,2023-02-25T00:22:14Z,1,08:56,11:04,0,0,30.0,Minnesota Wild,MIN
+45,10,30,Toronto Maple Leafs,Minnesota Wild,202202093165,2022020931,Giveaway,65,GIVEAWAY,Giveaway by William Nylander,2023-02-25T00:22:17Z,1,08:59,11:01,0,0,10.0,Toronto Maple Leafs,TOR
+46,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931166,2022020931,Hit,166,HIT,Brandon Duhaime hit William Nylander,2023-02-25T00:22:17Z,1,08:59,11:01,0,0,30.0,Minnesota Wild,MIN
+47,10,30,Toronto Maple Leafs,Minnesota Wild,202202093166,2022020931,Giveaway,66,GIVEAWAY,Giveaway by Mark Giordano,2023-02-25T00:22:24Z,1,09:06,10:54,0,0,10.0,Toronto Maple Leafs,TOR
+48,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931168,2022020931,Hit,168,HIT,Conor Timmins hit Mason Shaw,2023-02-25T00:23:06Z,1,09:48,10:12,0,0,10.0,Toronto Maple Leafs,TOR
+49,10,30,Toronto Maple Leafs,Minnesota Wild,202202093167,2022020931,Giveaway,67,GIVEAWAY,Giveaway by Conor Timmins,2023-02-25T00:23:07Z,1,09:49,10:11,0,0,10.0,Toronto Maple Leafs,TOR
+50,10,30,Toronto Maple Leafs,Minnesota Wild,202202093125,2022020931,Shot,25,SHOT,Noel Acciari Wrist Shot saved by Filip Gustavsson,2023-02-25T00:23:13Z,1,09:55,10:05,0,0,10.0,Toronto Maple Leafs,TOR
+51,10,30,Toronto Maple Leafs,Minnesota Wild,202202093168,2022020931,Takeaway,68,TAKEAWAY,Takeaway by Noel Acciari,2023-02-25T00:23:39Z,1,10:21,09:39,0,0,10.0,Toronto Maple Leafs,TOR
+52,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931169,2022020931,Hit,169,HIT,Dakota Mermis hit Calle Jarnkrok,2023-02-25T00:23:44Z,1,10:26,09:34,0,0,30.0,Minnesota Wild,MIN
+53,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931170,2022020931,Hit,170,HIT,Joel Eriksson Ek hit Morgan Rielly,2023-02-25T00:23:55Z,1,10:37,09:23,0,0,30.0,Minnesota Wild,MIN
+54,10,30,Toronto Maple Leafs,Minnesota Wild,202202093169,2022020931,Giveaway,69,GIVEAWAY,Giveaway by Matt Boldy,2023-02-25T00:23:56Z,1,10:38,09:22,0,0,30.0,Minnesota Wild,MIN
+55,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931171,2022020931,Stoppage,171,STOP,Puck in Benches,2023-02-25T00:24:25Z,1,11:07,08:53,0,0,,,
+56,10,30,Toronto Maple Leafs,Minnesota Wild,202202093170,2022020931,Faceoff,70,FACEOFF,Ryan O'Reilly faceoff won against Mats Zuccarello,2023-02-25T00:26:57Z,1,11:07,08:53,0,0,10.0,Toronto Maple Leafs,TOR
+57,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931172,2022020931,Hit,172,HIT,John Tavares hit Alex Goligoski,2023-02-25T00:27:10Z,1,11:20,08:40,0,0,10.0,Toronto Maple Leafs,TOR
+58,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931173,2022020931,Stoppage,173,STOP,Icing,2023-02-25T00:27:14Z,1,11:25,08:35,0,0,,,
+59,10,30,Toronto Maple Leafs,Minnesota Wild,202202093171,2022020931,Faceoff,71,FACEOFF,Ryan O'Reilly faceoff won against Ryan Hartman,2023-02-25T00:27:42Z,1,11:25,08:35,0,0,10.0,Toronto Maple Leafs,TOR
+60,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931174,2022020931,Stoppage,174,STOP,Net Dislodged Defensive Skater,2023-02-25T00:27:49Z,1,11:31,08:29,0,0,,,
+61,10,30,Toronto Maple Leafs,Minnesota Wild,202202093172,2022020931,Faceoff,72,FACEOFF,Ryan O'Reilly faceoff won against Ryan Hartman,2023-02-25T00:28:25Z,1,11:31,08:29,0,0,10.0,Toronto Maple Leafs,TOR
+62,10,30,Toronto Maple Leafs,Minnesota Wild,202202093126,2022020931,Shot,26,SHOT,Mitchell Marner Wrist Shot saved by Filip Gustavsson,2023-02-25T00:28:31Z,1,11:37,08:23,0,0,10.0,Toronto Maple Leafs,TOR
+63,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931175,2022020931,Hit,175,HIT,Alex Goligoski hit Mitchell Marner,2023-02-25T00:28:36Z,1,11:42,08:18,0,0,30.0,Minnesota Wild,MIN
+64,10,30,Toronto Maple Leafs,Minnesota Wild,202202093173,2022020931,Giveaway,73,GIVEAWAY,Giveaway by Morgan Rielly,2023-02-25T00:28:41Z,1,11:47,08:13,0,0,10.0,Toronto Maple Leafs,TOR
+65,10,30,Toronto Maple Leafs,Minnesota Wild,202202093128,2022020931,Shot,28,SHOT,Ryan Hartman Wrist Shot saved by Ilya Samsonov,2023-02-25T00:28:52Z,1,11:58,08:02,0,0,30.0,Minnesota Wild,MIN
+66,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931176,2022020931,Stoppage,176,STOP,Goalie Stopped,2023-02-25T00:28:53Z,1,11:59,08:01,0,0,,,
+67,10,30,Toronto Maple Leafs,Minnesota Wild,202202093174,2022020931,Faceoff,74,FACEOFF,Frederick Gaudreau faceoff won against David Kampf,2023-02-25T00:29:26Z,1,11:59,08:01,0,0,30.0,Minnesota Wild,MIN
+68,10,30,Toronto Maple Leafs,Minnesota Wild,202202093129,2022020931,Goal,29,GOAL,"Brandon Duhaime (7) Snap Shot, assists: Frederick Gaudreau (14)",2023-02-25T00:29:36Z,1,12:10,07:50,0,1,30.0,Minnesota Wild,MIN
+69,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931179,2022020931,Stoppage,179,STOP,Video Review,2023-02-25T00:29:36Z,1,12:10,07:50,0,1,,,
+70,10,30,Toronto Maple Leafs,Minnesota Wild,202202093175,2022020931,Faceoff,75,FACEOFF,David Kampf faceoff won against Frederick Gaudreau,2023-02-25T00:31:34Z,1,12:10,07:50,0,1,10.0,Toronto Maple Leafs,TOR
+71,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931180,2022020931,Stoppage,180,STOP,Icing,2023-02-25T00:31:45Z,1,12:21,07:39,0,1,,,
+72,10,30,Toronto Maple Leafs,Minnesota Wild,202202093176,2022020931,Faceoff,76,FACEOFF,Frederick Gaudreau faceoff won against Auston Matthews,2023-02-25T00:32:06Z,1,12:21,07:39,0,1,30.0,Minnesota Wild,MIN
+73,10,30,Toronto Maple Leafs,Minnesota Wild,202202093177,2022020931,Giveaway,77,GIVEAWAY,Giveaway by Brandon Duhaime,2023-02-25T00:32:32Z,1,12:47,07:13,0,1,30.0,Minnesota Wild,MIN
+74,10,30,Toronto Maple Leafs,Minnesota Wild,202202093130,2022020931,Missed Shot,30,MISSED_SHOT,Auston Matthews Wide of Net Filip Gustavsson,2023-02-25T00:32:38Z,1,12:53,07:07,0,1,10.0,Toronto Maple Leafs,TOR
+75,10,30,Toronto Maple Leafs,Minnesota Wild,202202093131,2022020931,Missed Shot,31,MISSED_SHOT,Mark Giordano Goalpost Filip Gustavsson,2023-02-25T00:32:39Z,1,12:54,07:06,0,1,10.0,Toronto Maple Leafs,TOR
+76,10,30,Toronto Maple Leafs,Minnesota Wild,202202093132,2022020931,Shot,32,SHOT,William Nylander Wrist Shot saved by Filip Gustavsson,2023-02-25T00:32:50Z,1,13:05,06:55,0,1,10.0,Toronto Maple Leafs,TOR
+77,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931181,2022020931,Hit,181,HIT,Connor Dewar hit Alexander Kerfoot,2023-02-25T00:33:00Z,1,13:15,06:45,0,1,30.0,Minnesota Wild,MIN
+78,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931182,2022020931,Hit,182,HIT,Ryan Reaves hit Morgan Rielly,2023-02-25T00:33:08Z,1,13:23,06:37,0,1,30.0,Minnesota Wild,MIN
+79,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931183,2022020931,Hit,183,HIT,Justin Holl hit Mason Shaw,2023-02-25T00:33:13Z,1,13:28,06:32,0,1,10.0,Toronto Maple Leafs,TOR
+80,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931184,2022020931,Hit,184,HIT,Connor Dewar hit Justin Holl,2023-02-25T00:33:24Z,1,13:39,06:21,0,1,30.0,Minnesota Wild,MIN
+81,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931185,2022020931,Hit,185,HIT,Calen Addison hit Mitchell Marner,2023-02-25T00:33:40Z,1,13:55,06:05,0,1,30.0,Minnesota Wild,MIN
+82,10,30,Toronto Maple Leafs,Minnesota Wild,202202093133,2022020931,Missed Shot,33,MISSED_SHOT,John Tavares Wide of Net Filip Gustavsson,2023-02-25T00:33:43Z,1,13:58,06:02,0,1,10.0,Toronto Maple Leafs,TOR
+83,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931186,2022020931,Stoppage,186,STOP,Puck in Benches,2023-02-25T00:33:47Z,1,14:03,05:57,0,1,,,
+84,10,30,Toronto Maple Leafs,Minnesota Wild,202202093178,2022020931,Faceoff,78,FACEOFF,Ryan O'Reilly faceoff won against Joel Eriksson Ek,2023-02-25T00:36:03Z,1,14:03,05:57,0,1,10.0,Toronto Maple Leafs,TOR
+85,10,30,Toronto Maple Leafs,Minnesota Wild,202202093134,2022020931,Missed Shot,34,MISSED_SHOT,Mitchell Marner Over Net Filip Gustavsson,2023-02-25T00:36:08Z,1,14:08,05:52,0,1,10.0,Toronto Maple Leafs,TOR
+86,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931187,2022020931,Hit,187,HIT,Matt Dumba hit Mitchell Marner,2023-02-25T00:36:29Z,1,14:29,05:31,0,1,30.0,Minnesota Wild,MIN
+87,10,30,Toronto Maple Leafs,Minnesota Wild,202202093135,2022020931,Blocked Shot,35,BLOCKED_SHOT,John Tavares shot blocked shot by Matt Dumba,2023-02-25T00:36:34Z,1,14:34,05:26,0,1,30.0,Minnesota Wild,MIN
+88,10,30,Toronto Maple Leafs,Minnesota Wild,202202093179,2022020931,Takeaway,79,TAKEAWAY,Takeaway by Matt Boldy,2023-02-25T00:36:50Z,1,14:50,05:10,0,1,30.0,Minnesota Wild,MIN
+89,10,30,Toronto Maple Leafs,Minnesota Wild,202202093136,2022020931,Blocked Shot,36,BLOCKED_SHOT,Matt Boldy shot blocked shot by TJ Brodie,2023-02-25T00:36:54Z,1,14:54,05:06,0,1,10.0,Toronto Maple Leafs,TOR
+90,10,30,Toronto Maple Leafs,Minnesota Wild,202202093180,2022020931,Giveaway,80,GIVEAWAY,Giveaway by Conor Timmins,2023-02-25T00:36:54Z,1,14:54,05:06,0,1,10.0,Toronto Maple Leafs,TOR
+91,10,30,Toronto Maple Leafs,Minnesota Wild,202202093137,2022020931,Blocked Shot,37,BLOCKED_SHOT,Jake Middleton shot blocked shot by Auston Matthews,2023-02-25T00:37:04Z,1,15:04,04:56,0,1,10.0,Toronto Maple Leafs,TOR
+92,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931501,2022020931,Blocked Shot,501,BLOCKED_SHOT,Jared Spurgeon shot blocked shot by Conor Timmins,2023-02-25T00:37:24Z,1,15:24,04:36,0,1,10.0,Toronto Maple Leafs,TOR
+93,10,30,Toronto Maple Leafs,Minnesota Wild,202202093138,2022020931,Blocked Shot,38,BLOCKED_SHOT,Mats Zuccarello shot blocked shot by Conor Timmins,2023-02-25T00:37:29Z,1,15:29,04:31,0,1,10.0,Toronto Maple Leafs,TOR
+94,10,30,Toronto Maple Leafs,Minnesota Wild,202202093139,2022020931,Blocked Shot,39,BLOCKED_SHOT,Ryan Hartman shot blocked shot by Auston Matthews,2023-02-25T00:37:32Z,1,15:31,04:29,0,1,10.0,Toronto Maple Leafs,TOR
+95,10,30,Toronto Maple Leafs,Minnesota Wild,202202093181,2022020931,Giveaway,81,GIVEAWAY,Giveaway by Mitchell Marner,2023-02-25T00:37:34Z,1,15:34,04:26,0,1,10.0,Toronto Maple Leafs,TOR
+96,10,30,Toronto Maple Leafs,Minnesota Wild,202202093140,2022020931,Missed Shot,40,MISSED_SHOT,Calen Addison Wide of Net Ilya Samsonov,2023-02-25T00:37:51Z,1,15:51,04:09,0,1,30.0,Minnesota Wild,MIN
+97,10,30,Toronto Maple Leafs,Minnesota Wild,202202093141,2022020931,Blocked Shot,41,BLOCKED_SHOT,Dakota Mermis shot blocked shot by William Nylander,2023-02-25T00:37:59Z,1,15:59,04:01,0,1,10.0,Toronto Maple Leafs,TOR
+98,10,30,Toronto Maple Leafs,Minnesota Wild,202202093142,2022020931,Goal,42,GOAL,"David Kampf (6) Wrist Shot, assists: William Nylander (37), Mark Giordano (18)",2023-02-25T00:38:07Z,1,16:07,03:53,1,1,10.0,Toronto Maple Leafs,TOR
+99,10,30,Toronto Maple Leafs,Minnesota Wild,202202093182,2022020931,Faceoff,82,FACEOFF,Ryan O'Reilly faceoff won against Frederick Gaudreau,2023-02-25T00:39:03Z,1,16:07,03:53,1,1,10.0,Toronto Maple Leafs,TOR
+100,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931188,2022020931,Hit,188,HIT,Brandon Duhaime hit Mark Giordano,2023-02-25T00:39:35Z,1,16:39,03:21,1,1,30.0,Minnesota Wild,MIN
+101,10,30,Toronto Maple Leafs,Minnesota Wild,202202093183,2022020931,Giveaway,83,GIVEAWAY,Giveaway by Mark Giordano,2023-02-25T00:39:37Z,1,16:41,03:19,1,1,10.0,Toronto Maple Leafs,TOR
+102,10,30,Toronto Maple Leafs,Minnesota Wild,202202093143,2022020931,Shot,43,SHOT,Matt Dumba Wrist Shot saved by Ilya Samsonov,2023-02-25T00:39:47Z,1,16:51,03:09,1,1,30.0,Minnesota Wild,MIN
+103,10,30,Toronto Maple Leafs,Minnesota Wild,202202093144,2022020931,Blocked Shot,44,BLOCKED_SHOT,Alex Goligoski shot blocked shot by Mark Giordano,2023-02-25T00:39:53Z,1,16:57,03:03,1,1,10.0,Toronto Maple Leafs,TOR
+104,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931189,2022020931,Hit,189,HIT,Ryan Reaves hit Justin Holl,2023-02-25T00:40:15Z,1,17:19,02:41,1,1,30.0,Minnesota Wild,MIN
+105,10,30,Toronto Maple Leafs,Minnesota Wild,202202093184,2022020931,Giveaway,84,GIVEAWAY,Giveaway by Ryan Reaves,2023-02-25T00:40:23Z,1,17:27,02:33,1,1,30.0,Minnesota Wild,MIN
+106,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931197,2022020931,Hit,197,HIT,Justin Holl hit Ryan Reaves,2023-02-25T00:40:33Z,1,17:37,02:23,1,1,10.0,Toronto Maple Leafs,TOR
+107,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931196,2022020931,Hit,196,HIT,Justin Holl hit Ryan Reaves,2023-02-25T00:40:43Z,1,17:47,02:13,1,1,10.0,Toronto Maple Leafs,TOR
+108,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931191,2022020931,Hit,191,HIT,Auston Matthews hit Mason Shaw,2023-02-25T00:40:46Z,1,17:50,02:10,1,1,10.0,Toronto Maple Leafs,TOR
+109,10,30,Toronto Maple Leafs,Minnesota Wild,202202093145,2022020931,Blocked Shot,45,BLOCKED_SHOT,Alexander Kerfoot shot blocked shot by Jared Spurgeon,2023-02-25T00:41:03Z,1,18:07,01:53,1,1,30.0,Minnesota Wild,MIN
+110,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931192,2022020931,Stoppage,192,STOP,Puck in Netting,2023-02-25T00:41:03Z,1,18:07,01:53,1,1,,,
+111,10,30,Toronto Maple Leafs,Minnesota Wild,202202093185,2022020931,Faceoff,85,FACEOFF,Noel Acciari faceoff won against Joel Eriksson Ek,2023-02-25T00:41:28Z,1,18:07,01:53,1,1,10.0,Toronto Maple Leafs,TOR
+112,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931193,2022020931,Hit,193,HIT,Zach Aston-Reese hit Matt Boldy,2023-02-25T00:41:40Z,1,18:19,01:41,1,1,10.0,Toronto Maple Leafs,TOR
+113,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931194,2022020931,Hit,194,HIT,Marcus Foligno hit TJ Brodie,2023-02-25T00:41:45Z,1,18:24,01:36,1,1,30.0,Minnesota Wild,MIN
+114,10,30,Toronto Maple Leafs,Minnesota Wild,202202093146,2022020931,Shot,46,SHOT,Noel Acciari Snap Shot saved by Filip Gustavsson,2023-02-25T00:41:51Z,1,18:30,01:30,1,1,10.0,Toronto Maple Leafs,TOR
+115,10,30,Toronto Maple Leafs,Minnesota Wild,202202093186,2022020931,Giveaway,86,GIVEAWAY,Giveaway by Pierre Engvall,2023-02-25T00:42:31Z,1,19:10,00:50,1,1,10.0,Toronto Maple Leafs,TOR
+116,10,30,Toronto Maple Leafs,Minnesota Wild,202202093147,2022020931,Blocked Shot,47,BLOCKED_SHOT,Pierre Engvall shot blocked shot by Jake Middleton,2023-02-25T00:42:38Z,1,19:17,00:43,1,1,30.0,Minnesota Wild,MIN
+117,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931195,2022020931,Hit,195,HIT,Morgan Rielly hit Kirill Kaprizov,2023-02-25T00:42:55Z,1,19:34,00:26,1,1,10.0,Toronto Maple Leafs,TOR
+118,10,30,Toronto Maple Leafs,Minnesota Wild,202202093148,2022020931,Shot,48,SHOT,Auston Matthews Slap Shot saved by Filip Gustavsson,2023-02-25T00:43:18Z,1,19:57,00:03,1,1,10.0,Toronto Maple Leafs,TOR
+119,10,30,Toronto Maple Leafs,Minnesota Wild,202202093149,2022020931,Missed Shot,49,MISSED_SHOT,Michael Bunting Wide of Net Filip Gustavsson,2023-02-25T00:43:20Z,1,19:59,00:01,1,1,10.0,Toronto Maple Leafs,TOR
+120,10,30,Toronto Maple Leafs,Minnesota Wild,202202093150,2022020931,Period End,50,PERIOD_END,End of 1st Period,2023-02-25T00:43:21Z,1,20:00,00:00,1,1,,,
+121,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931253,2022020931,Period Official,253,PERIOD_OFFICIAL,Period Official,2023-02-25T00:59:32Z,1,20:00,00:00,1,1,,,
+122,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931254,2022020931,Period Ready,254,PERIOD_READY,Period Ready,2023-02-25T00:59:36Z,2,00:00,20:00,1,1,,,
+123,10,30,Toronto Maple Leafs,Minnesota Wild,202202093187,2022020931,Period Start,87,PERIOD_START,Period Start,2023-02-25T01:02:08Z,2,00:00,20:00,1,1,,,
+124,10,30,Toronto Maple Leafs,Minnesota Wild,202202093188,2022020931,Faceoff,88,FACEOFF,Auston Matthews faceoff won against Joel Eriksson Ek,2023-02-25T01:02:08Z,2,00:00,20:00,1,1,10.0,Toronto Maple Leafs,TOR
+125,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931255,2022020931,Missed Shot,255,MISSED_SHOT,Mark Giordano Wide of Net Filip Gustavsson,2023-02-25T01:02:33Z,2,00:25,19:35,1,1,10.0,Toronto Maple Leafs,TOR
+126,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931198,2022020931,Stoppage,198,STOP,Icing,2023-02-25T01:03:03Z,2,00:54,19:06,1,1,,,
+127,10,30,Toronto Maple Leafs,Minnesota Wild,202202093189,2022020931,Faceoff,89,FACEOFF,Joel Eriksson Ek faceoff won against Ryan O'Reilly,2023-02-25T01:03:31Z,2,00:54,19:06,1,1,30.0,Minnesota Wild,MIN
+128,10,30,Toronto Maple Leafs,Minnesota Wild,202202093190,2022020931,Giveaway,90,GIVEAWAY,Giveaway by Morgan Rielly,2023-02-25T01:03:57Z,2,01:20,18:40,1,1,10.0,Toronto Maple Leafs,TOR
+129,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931199,2022020931,Hit,199,HIT,Kirill Kaprizov hit Mitchell Marner,2023-02-25T01:04:09Z,2,01:32,18:28,1,1,30.0,Minnesota Wild,MIN
+130,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931200,2022020931,Hit,200,HIT,Ryan Hartman hit Justin Holl,2023-02-25T01:04:16Z,2,01:39,18:21,1,1,30.0,Minnesota Wild,MIN
+131,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931351,2022020931,Stoppage,351,STOP,Icing,2023-02-25T01:04:21Z,2,01:43,18:17,1,1,,,
+132,10,30,Toronto Maple Leafs,Minnesota Wild,202202093191,2022020931,Faceoff,91,FACEOFF,Ryan O'Reilly faceoff won against Mats Zuccarello,2023-02-25T01:04:59Z,2,01:43,18:17,1,1,10.0,Toronto Maple Leafs,TOR
+133,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931256,2022020931,Shot,256,SHOT,Morgan Rielly Wrist Shot saved by Filip Gustavsson,2023-02-25T01:05:06Z,2,01:50,18:10,1,1,10.0,Toronto Maple Leafs,TOR
+134,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931257,2022020931,Shot,257,SHOT,Jake Middleton Snap Shot saved by Ilya Samsonov,2023-02-25T01:05:24Z,2,02:08,17:52,1,1,30.0,Minnesota Wild,MIN
+135,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931258,2022020931,Shot,258,SHOT,Brandon Duhaime Wrist Shot saved by Ilya Samsonov,2023-02-25T01:05:47Z,2,02:31,17:29,1,1,30.0,Minnesota Wild,MIN
+136,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931352,2022020931,Stoppage,352,STOP,Goalie Stopped,2023-02-25T01:05:47Z,2,02:32,17:28,1,1,,,
+137,10,30,Toronto Maple Leafs,Minnesota Wild,202202093192,2022020931,Faceoff,92,FACEOFF,David Kampf faceoff won against Frederick Gaudreau,2023-02-25T01:06:25Z,2,02:32,17:28,1,1,10.0,Toronto Maple Leafs,TOR
+138,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931354,2022020931,Hit,354,HIT,Brandon Duhaime hit Timothy Liljegren,2023-02-25T01:06:29Z,2,02:36,17:24,1,1,30.0,Minnesota Wild,MIN
+139,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931259,2022020931,Missed Shot,259,MISSED_SHOT,Calle Jarnkrok Wide of Net Filip Gustavsson,2023-02-25T01:06:41Z,2,02:48,17:12,1,1,10.0,Toronto Maple Leafs,TOR
+140,10,30,Toronto Maple Leafs,Minnesota Wild,202202093193,2022020931,Giveaway,93,GIVEAWAY,Giveaway by Brandon Duhaime,2023-02-25T01:06:51Z,2,02:58,17:02,1,1,30.0,Minnesota Wild,MIN
+141,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931260,2022020931,Shot,260,SHOT,Mark Giordano Wrist Shot saved by Filip Gustavsson,2023-02-25T01:06:55Z,2,03:03,16:57,1,1,10.0,Toronto Maple Leafs,TOR
+142,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931355,2022020931,Stoppage,355,STOP,Goalie Stopped,2023-02-25T01:06:55Z,2,03:03,16:57,1,1,,,
+143,10,30,Toronto Maple Leafs,Minnesota Wild,202202093194,2022020931,Faceoff,94,FACEOFF,John Tavares faceoff won against Connor Dewar,2023-02-25T01:07:25Z,2,03:03,16:57,1,1,10.0,Toronto Maple Leafs,TOR
+144,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931261,2022020931,Shot,261,SHOT,Mitchell Marner Wrist Shot saved by Filip Gustavsson,2023-02-25T01:07:31Z,2,03:09,16:51,1,1,10.0,Toronto Maple Leafs,TOR
+145,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931356,2022020931,Hit,356,HIT,John Tavares hit Dakota Mermis,2023-02-25T01:07:45Z,2,03:23,16:37,1,1,10.0,Toronto Maple Leafs,TOR
+146,10,30,Toronto Maple Leafs,Minnesota Wild,202202093195,2022020931,Giveaway,95,GIVEAWAY,Giveaway by Mason Shaw,2023-02-25T01:07:47Z,2,03:25,16:35,1,1,30.0,Minnesota Wild,MIN
+147,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931262,2022020931,Blocked Shot,262,BLOCKED_SHOT,Timothy Liljegren shot blocked shot by Ryan Reaves,2023-02-25T01:07:48Z,2,03:26,16:34,1,1,30.0,Minnesota Wild,MIN
+148,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931357,2022020931,Stoppage,357,STOP,Puck in Netting,2023-02-25T01:07:49Z,2,03:27,16:33,1,1,,,
+149,10,30,Toronto Maple Leafs,Minnesota Wild,202202093196,2022020931,Faceoff,96,FACEOFF,Noel Acciari faceoff won against Joel Eriksson Ek,2023-02-25T01:08:18Z,2,03:27,16:33,1,1,10.0,Toronto Maple Leafs,TOR
+150,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931263,2022020931,Missed Shot,263,MISSED_SHOT,Zach Aston-Reese Wide of Net Filip Gustavsson,2023-02-25T01:08:20Z,2,03:29,16:31,1,1,10.0,Toronto Maple Leafs,TOR
+151,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931264,2022020931,Missed Shot,264,MISSED_SHOT,Matt Boldy Wide of Net Ilya Samsonov,2023-02-25T01:08:50Z,2,03:59,16:01,1,1,30.0,Minnesota Wild,MIN
+152,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931265,2022020931,Blocked Shot,265,BLOCKED_SHOT,Zach Aston-Reese shot blocked shot by Jake Middleton,2023-02-25T01:09:04Z,2,04:13,15:47,1,1,30.0,Minnesota Wild,MIN
+153,10,30,Toronto Maple Leafs,Minnesota Wild,202202093197,2022020931,Takeaway,97,TAKEAWAY,Takeaway by Jake Middleton,2023-02-25T01:09:29Z,2,04:38,15:22,1,1,30.0,Minnesota Wild,MIN
+154,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931266,2022020931,Shot,266,SHOT,Mats Zuccarello Wrist Shot saved by Ilya Samsonov,2023-02-25T01:09:40Z,2,04:49,15:11,1,1,30.0,Minnesota Wild,MIN
+155,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931267,2022020931,Shot,267,SHOT,Alex Goligoski Wrist Shot saved by Ilya Samsonov,2023-02-25T01:09:58Z,2,05:07,14:53,1,1,30.0,Minnesota Wild,MIN
+156,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931358,2022020931,Stoppage,358,STOP,Goalie Stopped,2023-02-25T01:09:58Z,2,05:07,14:53,1,1,,,
+157,10,30,Toronto Maple Leafs,Minnesota Wild,202202093199,2022020931,Faceoff,99,FACEOFF,Frederick Gaudreau faceoff won against Ryan O'Reilly,2023-02-25T01:10:44Z,2,05:07,14:53,1,1,30.0,Minnesota Wild,MIN
+158,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931359,2022020931,Hit,359,HIT,Mark Giordano hit Jordan Greenway,2023-02-25T01:10:50Z,2,05:13,14:47,1,1,10.0,Toronto Maple Leafs,TOR
+159,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931100,2022020931,Giveaway,100,GIVEAWAY,Giveaway by Jared Spurgeon,2023-02-25T01:10:57Z,2,05:20,14:40,1,1,30.0,Minnesota Wild,MIN
+160,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931268,2022020931,Shot,268,SHOT,Mitchell Marner Wrist Shot saved by Filip Gustavsson,2023-02-25T01:11:09Z,2,05:32,14:28,1,1,10.0,Toronto Maple Leafs,TOR
+161,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931360,2022020931,Hit,360,HIT,Brandon Duhaime hit Ryan O'Reilly,2023-02-25T01:11:18Z,2,05:41,14:19,1,1,30.0,Minnesota Wild,MIN
+162,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931361,2022020931,Hit,361,HIT,Ryan Reaves hit Morgan Rielly,2023-02-25T01:12:00Z,2,06:23,13:37,1,1,30.0,Minnesota Wild,MIN
+163,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931362,2022020931,Hit,362,HIT,Joel Eriksson Ek hit David Kampf,2023-02-25T01:12:27Z,2,06:50,13:10,1,1,30.0,Minnesota Wild,MIN
+164,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931401,2022020931,Takeaway,401,TAKEAWAY,Takeaway by Joel Eriksson Ek,2023-02-25T01:12:31Z,2,06:54,13:06,1,1,30.0,Minnesota Wild,MIN
+165,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931269,2022020931,Shot,269,SHOT,Marcus Foligno Wrist Shot saved by Ilya Samsonov,2023-02-25T01:12:32Z,2,06:55,13:05,1,1,30.0,Minnesota Wild,MIN
+166,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931270,2022020931,Missed Shot,270,MISSED_SHOT,Jake Middleton Wide of Net Ilya Samsonov,2023-02-25T01:12:33Z,2,06:57,13:03,1,1,30.0,Minnesota Wild,MIN
+167,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931363,2022020931,Stoppage,363,STOP,High Stick,2023-02-25T01:12:37Z,2,07:00,13:00,1,1,,,
+168,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931364,2022020931,Stoppage,364,STOP,Referee or Linesman,2023-02-25T01:12:37Z,2,07:00,13:00,1,1,,,
+169,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931402,2022020931,Faceoff,402,FACEOFF,Noel Acciari faceoff won against Joel Eriksson Ek,2023-02-25T01:16:09Z,2,07:00,13:00,1,1,10.0,Toronto Maple Leafs,TOR
+170,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931566,2022020931,Penalty,566,PENALTY,Matt Dumba Tripping against Zach Aston-Reese,2023-02-25T01:16:23Z,2,07:15,12:45,1,1,30.0,Minnesota Wild,MIN
+171,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931403,2022020931,Faceoff,403,FACEOFF,John Tavares faceoff won against Frederick Gaudreau,2023-02-25T01:16:57Z,2,07:15,12:45,1,1,10.0,Toronto Maple Leafs,TOR
+172,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931271,2022020931,Shot,271,SHOT,Morgan Rielly Wrist Shot saved by Filip Gustavsson,2023-02-25T01:17:14Z,2,07:32,12:28,1,1,10.0,Toronto Maple Leafs,TOR
+173,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931272,2022020931,Blocked Shot,272,BLOCKED_SHOT,Morgan Rielly shot blocked shot by Jared Spurgeon,2023-02-25T01:17:23Z,2,07:41,12:19,1,1,30.0,Minnesota Wild,MIN
+174,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931273,2022020931,Blocked Shot,273,BLOCKED_SHOT,Morgan Rielly shot blocked shot by Frederick Gaudreau,2023-02-25T01:17:52Z,2,08:10,11:50,1,1,30.0,Minnesota Wild,MIN
+175,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931274,2022020931,Shot,274,SHOT,Ryan O'Reilly Slap Shot saved by Filip Gustavsson,2023-02-25T01:18:15Z,2,08:33,11:27,1,1,10.0,Toronto Maple Leafs,TOR
+176,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931366,2022020931,Stoppage,366,STOP,Goalie Stopped,2023-02-25T01:18:17Z,2,08:34,11:26,1,1,,,
+177,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931404,2022020931,Faceoff,404,FACEOFF,Ryan O'Reilly faceoff won against Ryan Hartman,2023-02-25T01:19:00Z,2,08:34,11:26,1,1,10.0,Toronto Maple Leafs,TOR
+178,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931275,2022020931,Missed Shot,275,MISSED_SHOT,Timothy Liljegren Wide of Net Filip Gustavsson,2023-02-25T01:19:13Z,2,08:47,11:13,1,1,10.0,Toronto Maple Leafs,TOR
+179,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931367,2022020931,Hit,367,HIT,Brandon Duhaime hit Calle Jarnkrok,2023-02-25T01:19:18Z,2,08:52,11:08,1,1,30.0,Minnesota Wild,MIN
+180,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931276,2022020931,Blocked Shot,276,BLOCKED_SHOT,Timothy Liljegren shot blocked shot by Dakota Mermis,2023-02-25T01:19:24Z,2,08:58,11:02,1,1,30.0,Minnesota Wild,MIN
+181,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931277,2022020931,Shot,277,SHOT,Ryan Hartman Wrist Shot saved by Ilya Samsonov,2023-02-25T01:19:33Z,2,09:07,10:53,1,1,30.0,Minnesota Wild,MIN
+182,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931278,2022020931,Shot,278,SHOT,Ryan O'Reilly Wrist Shot saved by Filip Gustavsson,2023-02-25T01:19:45Z,2,09:19,10:41,1,1,10.0,Toronto Maple Leafs,TOR
+183,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931368,2022020931,Stoppage,368,STOP,Goalie Stopped,2023-02-25T01:19:45Z,2,09:19,10:41,1,1,,,
+184,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931405,2022020931,Faceoff,405,FACEOFF,Noel Acciari faceoff won against Matt Boldy,2023-02-25T01:20:23Z,2,09:19,10:41,1,1,10.0,Toronto Maple Leafs,TOR
+185,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931406,2022020931,Giveaway,406,GIVEAWAY,Giveaway by Alexander Kerfoot,2023-02-25T01:20:28Z,2,09:24,10:36,1,1,10.0,Toronto Maple Leafs,TOR
+186,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931279,2022020931,Blocked Shot,279,BLOCKED_SHOT,Jake Middleton shot blocked shot by Noel Acciari,2023-02-25T01:20:56Z,2,09:52,10:08,1,1,10.0,Toronto Maple Leafs,TOR
+187,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931369,2022020931,Hit,369,HIT,Noel Acciari hit Kirill Kaprizov,2023-02-25T01:21:14Z,2,10:10,09:50,1,1,10.0,Toronto Maple Leafs,TOR
+188,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931370,2022020931,Hit,370,HIT,Justin Holl hit Kirill Kaprizov,2023-02-25T01:21:17Z,2,10:13,09:47,1,1,10.0,Toronto Maple Leafs,TOR
+189,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931407,2022020931,Takeaway,407,TAKEAWAY,Takeaway by Alex Goligoski,2023-02-25T01:21:58Z,2,10:54,09:06,1,1,30.0,Minnesota Wild,MIN
+190,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931371,2022020931,Hit,371,HIT,Marcus Foligno hit Auston Matthews,2023-02-25T01:22:07Z,2,11:03,08:57,1,1,30.0,Minnesota Wild,MIN
+191,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931280,2022020931,Missed Shot,280,MISSED_SHOT,Matt Dumba Wide of Net Ilya Samsonov,2023-02-25T01:22:21Z,2,11:17,08:43,1,1,30.0,Minnesota Wild,MIN
+192,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931281,2022020931,Shot,281,SHOT,Joel Eriksson Ek Backhand saved by Ilya Samsonov,2023-02-25T01:22:24Z,2,11:20,08:40,1,1,30.0,Minnesota Wild,MIN
+193,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931282,2022020931,Shot,282,SHOT,Joel Eriksson Ek Wrist Shot saved by Ilya Samsonov,2023-02-25T01:22:28Z,2,11:24,08:36,1,1,30.0,Minnesota Wild,MIN
+194,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931283,2022020931,Blocked Shot,283,BLOCKED_SHOT,Matt Dumba shot blocked shot by Mark Giordano,2023-02-25T01:22:38Z,2,11:34,08:26,1,1,10.0,Toronto Maple Leafs,TOR
+195,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931372,2022020931,Stoppage,372,STOP,Icing,2023-02-25T01:22:49Z,2,11:46,08:14,1,1,,,
+196,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931408,2022020931,Faceoff,408,FACEOFF,Pierre Engvall faceoff won against Joel Eriksson Ek,2023-02-25T01:23:33Z,2,11:46,08:14,1,1,10.0,Toronto Maple Leafs,TOR
+197,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931284,2022020931,Shot,284,SHOT,Joel Eriksson Ek Wrist Shot saved by Ilya Samsonov,2023-02-25T01:23:59Z,2,12:12,07:48,1,1,30.0,Minnesota Wild,MIN
+198,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931409,2022020931,Giveaway,409,GIVEAWAY,Giveaway by Calle Jarnkrok,2023-02-25T01:24:21Z,2,12:34,07:26,1,1,10.0,Toronto Maple Leafs,TOR
+199,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931374,2022020931,Hit,374,HIT,Justin Holl hit Kirill Kaprizov,2023-02-25T01:24:44Z,2,12:57,07:03,1,1,10.0,Toronto Maple Leafs,TOR
+200,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931285,2022020931,Missed Shot,285,MISSED_SHOT,Ryan Reaves Wide of Net Ilya Samsonov,2023-02-25T01:24:45Z,2,12:58,07:02,1,1,30.0,Minnesota Wild,MIN
+201,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931286,2022020931,Blocked Shot,286,BLOCKED_SHOT,Ryan Reaves shot blocked shot by Morgan Rielly,2023-02-25T01:24:51Z,2,13:04,06:56,1,1,10.0,Toronto Maple Leafs,TOR
+202,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931287,2022020931,Shot,287,SHOT,Jake Middleton Snap Shot saved by Ilya Samsonov,2023-02-25T01:24:58Z,2,13:11,06:49,1,1,30.0,Minnesota Wild,MIN
+203,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931375,2022020931,Stoppage,375,STOP,Goalie Stopped,2023-02-25T01:24:58Z,2,13:11,06:49,1,1,,,
+204,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931410,2022020931,Faceoff,410,FACEOFF,Ryan O'Reilly faceoff won against Ryan Hartman,2023-02-25T01:27:20Z,2,13:11,06:49,1,1,10.0,Toronto Maple Leafs,TOR
+205,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931411,2022020931,Giveaway,411,GIVEAWAY,Giveaway by John Tavares,2023-02-25T01:27:28Z,2,13:19,06:41,1,1,10.0,Toronto Maple Leafs,TOR
+206,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931288,2022020931,Blocked Shot,288,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by Timothy Liljegren,2023-02-25T01:27:29Z,2,13:20,06:40,1,1,10.0,Toronto Maple Leafs,TOR
+207,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931376,2022020931,Hit,376,HIT,Kirill Kaprizov hit Mitchell Marner,2023-02-25T01:27:37Z,2,13:28,06:32,1,1,30.0,Minnesota Wild,MIN
+208,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931289,2022020931,Shot,289,SHOT,John Tavares Wrist Shot saved by Filip Gustavsson,2023-02-25T01:27:54Z,2,13:44,06:16,1,1,10.0,Toronto Maple Leafs,TOR
+209,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931377,2022020931,Stoppage,377,STOP,Goalie Stopped,2023-02-25T01:27:54Z,2,13:44,06:16,1,1,,,
+210,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931412,2022020931,Faceoff,412,FACEOFF,Auston Matthews faceoff won against Frederick Gaudreau,2023-02-25T01:28:35Z,2,13:44,06:16,1,1,10.0,Toronto Maple Leafs,TOR
+211,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931378,2022020931,Hit,378,HIT,Brandon Duhaime hit TJ Brodie,2023-02-25T01:29:10Z,2,14:19,05:41,1,1,30.0,Minnesota Wild,MIN
+212,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931413,2022020931,Giveaway,413,GIVEAWAY,Giveaway by TJ Brodie,2023-02-25T01:29:11Z,2,14:20,05:40,1,1,10.0,Toronto Maple Leafs,TOR
+213,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931379,2022020931,Hit,379,HIT,Marcus Foligno hit Zach Aston-Reese,2023-02-25T01:29:40Z,2,14:49,05:11,1,1,30.0,Minnesota Wild,MIN
+214,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931290,2022020931,Blocked Shot,290,BLOCKED_SHOT,Dakota Mermis shot blocked shot by Noel Acciari,2023-02-25T01:29:48Z,2,14:57,05:03,1,1,10.0,Toronto Maple Leafs,TOR
+215,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931291,2022020931,Blocked Shot,291,BLOCKED_SHOT,Matt Boldy shot blocked shot by Zach Aston-Reese,2023-02-25T01:29:56Z,2,15:05,04:55,1,1,10.0,Toronto Maple Leafs,TOR
+216,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931414,2022020931,Takeaway,414,TAKEAWAY,Takeaway by Alexander Kerfoot,2023-02-25T01:30:08Z,2,15:17,04:43,1,1,10.0,Toronto Maple Leafs,TOR
+217,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931292,2022020931,Blocked Shot,292,BLOCKED_SHOT,Marcus Foligno shot blocked shot by TJ Brodie,2023-02-25T01:30:16Z,2,15:25,04:35,1,1,10.0,Toronto Maple Leafs,TOR
+218,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931380,2022020931,Hit,380,HIT,Conor Timmins hit Dakota Mermis,2023-02-25T01:30:18Z,2,15:27,04:33,1,1,10.0,Toronto Maple Leafs,TOR
+219,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931293,2022020931,Shot,293,SHOT,Ryan O'Reilly Wrist Shot saved by Filip Gustavsson,2023-02-25T01:30:35Z,2,15:44,04:16,1,1,10.0,Toronto Maple Leafs,TOR
+220,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931381,2022020931,Hit,381,HIT,Connor Dewar hit Mitchell Marner,2023-02-25T01:30:35Z,2,15:44,04:16,1,1,30.0,Minnesota Wild,MIN
+221,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931382,2022020931,Stoppage,382,STOP,Puck in Netting,2023-02-25T01:30:35Z,2,15:45,04:15,1,1,,,
+222,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931415,2022020931,Faceoff,415,FACEOFF,Ryan O'Reilly faceoff won against Connor Dewar,2023-02-25T01:32:55Z,2,15:45,04:15,1,1,10.0,Toronto Maple Leafs,TOR
+223,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931383,2022020931,Hit,383,HIT,John Tavares hit Mason Shaw,2023-02-25T01:33:09Z,2,15:59,04:01,1,1,10.0,Toronto Maple Leafs,TOR
+224,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931416,2022020931,Takeaway,416,TAKEAWAY,Takeaway by Mason Shaw,2023-02-25T01:33:17Z,2,16:07,03:53,1,1,30.0,Minnesota Wild,MIN
+225,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931384,2022020931,Hit,384,HIT,Jake Middleton hit Ryan O'Reilly,2023-02-25T01:33:36Z,2,16:26,03:34,1,1,30.0,Minnesota Wild,MIN
+226,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931385,2022020931,Hit,385,HIT,Jared Spurgeon hit Mitchell Marner,2023-02-25T01:33:40Z,2,16:30,03:30,1,1,30.0,Minnesota Wild,MIN
+227,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931417,2022020931,Takeaway,417,TAKEAWAY,Takeaway by Mats Zuccarello,2023-02-25T01:34:19Z,2,17:09,02:51,1,1,30.0,Minnesota Wild,MIN
+228,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931386,2022020931,Hit,386,HIT,Ryan Hartman hit David Kampf,2023-02-25T01:34:23Z,2,17:13,02:47,1,1,30.0,Minnesota Wild,MIN
+229,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931294,2022020931,Shot,294,SHOT,Kirill Kaprizov Snap Shot saved by Ilya Samsonov,2023-02-25T01:34:30Z,2,17:20,02:40,1,1,30.0,Minnesota Wild,MIN
+230,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931295,2022020931,Blocked Shot,295,BLOCKED_SHOT,Matt Dumba shot blocked shot by Timothy Liljegren,2023-02-25T01:34:42Z,2,17:32,02:28,1,1,10.0,Toronto Maple Leafs,TOR
+231,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931605,2022020931,Blocked Shot,605,BLOCKED_SHOT,Matt Dumba shot blocked shot by Mark Giordano,2023-02-25T01:34:45Z,2,17:35,02:25,1,1,10.0,Toronto Maple Leafs,TOR
+232,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931297,2022020931,Shot,297,SHOT,Jared Spurgeon Slap Shot saved by Ilya Samsonov,2023-02-25T01:35:15Z,2,18:05,01:55,1,1,30.0,Minnesota Wild,MIN
+233,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931298,2022020931,Missed Shot,298,MISSED_SHOT,Auston Matthews Wide of Net Filip Gustavsson,2023-02-25T01:35:53Z,2,18:43,01:17,1,1,10.0,Toronto Maple Leafs,TOR
+234,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931418,2022020931,Giveaway,418,GIVEAWAY,Giveaway by Jordan Greenway,2023-02-25T01:36:18Z,2,19:08,00:52,1,1,30.0,Minnesota Wild,MIN
+235,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931299,2022020931,Shot,299,SHOT,Zach Aston-Reese Backhand saved by Filip Gustavsson,2023-02-25T01:36:25Z,2,19:15,00:45,1,1,10.0,Toronto Maple Leafs,TOR
+236,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931300,2022020931,Blocked Shot,300,BLOCKED_SHOT,Noel Acciari shot blocked shot by Jared Spurgeon,2023-02-25T01:36:43Z,2,19:33,00:27,1,1,30.0,Minnesota Wild,MIN
+237,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931601,2022020931,Blocked Shot,601,BLOCKED_SHOT,Justin Holl shot blocked shot by Jake Middleton,2023-02-25T01:37:09Z,2,19:59,00:01,1,1,30.0,Minnesota Wild,MIN
+238,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931602,2022020931,Period End,602,PERIOD_END,End of 2nd Period,2023-02-25T01:37:11Z,2,20:00,00:00,1,1,,,
+239,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931606,2022020931,Period Official,606,PERIOD_OFFICIAL,Period Official,2023-02-25T01:53:03Z,2,20:00,00:00,1,1,,,
+240,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931607,2022020931,Period Ready,607,PERIOD_READY,Period Ready,2023-02-25T01:53:07Z,3,00:00,20:00,1,1,,,
+241,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931419,2022020931,Period Start,419,PERIOD_START,Period Start,2023-02-25T01:56:04Z,3,00:00,20:00,1,1,,,
+242,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931420,2022020931,Faceoff,420,FACEOFF,Auston Matthews faceoff won against Joel Eriksson Ek,2023-02-25T01:56:04Z,3,00:00,20:00,1,1,10.0,Toronto Maple Leafs,TOR
+243,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931387,2022020931,Stoppage,387,STOP,Icing,2023-02-25T01:56:27Z,3,00:23,19:37,1,1,,,
+244,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931421,2022020931,Faceoff,421,FACEOFF,Joel Eriksson Ek faceoff won against Auston Matthews,2023-02-25T01:56:56Z,3,00:23,19:37,1,1,30.0,Minnesota Wild,MIN
+245,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931388,2022020931,Stoppage,388,STOP,Icing,2023-02-25T01:57:03Z,3,00:30,19:30,1,1,,,
+246,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931422,2022020931,Faceoff,422,FACEOFF,Auston Matthews faceoff won against Joel Eriksson Ek,2023-02-25T01:57:21Z,3,00:30,19:30,1,1,10.0,Toronto Maple Leafs,TOR
+247,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931608,2022020931,Blocked Shot,608,BLOCKED_SHOT,Auston Matthews shot blocked shot by Joel Eriksson Ek,2023-02-25T01:57:22Z,3,00:31,19:29,1,1,30.0,Minnesota Wild,MIN
+248,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931389,2022020931,Stoppage,389,STOP,Icing,2023-02-25T01:58:20Z,3,01:29,18:31,1,1,,,
+249,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931423,2022020931,Faceoff,423,FACEOFF,John Tavares faceoff won against Ryan Hartman,2023-02-25T01:59:00Z,3,01:29,18:31,1,1,10.0,Toronto Maple Leafs,TOR
+250,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931390,2022020931,Stoppage,390,STOP,Goalie Stopped,2023-02-25T01:59:17Z,3,01:46,18:14,1,1,,,
+251,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931610,2022020931,Shot,610,SHOT,Ryan Hartman Wrist Shot saved by Ilya Samsonov,2023-02-25T01:59:17Z,3,01:46,18:14,1,1,30.0,Minnesota Wild,MIN
+252,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931424,2022020931,Faceoff,424,FACEOFF,David Kampf faceoff won against Frederick Gaudreau,2023-02-25T01:59:47Z,3,01:46,18:14,1,1,10.0,Toronto Maple Leafs,TOR
+253,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931391,2022020931,Hit,391,HIT,Alexander Kerfoot hit Dakota Mermis,2023-02-25T02:00:26Z,3,02:25,17:35,1,1,10.0,Toronto Maple Leafs,TOR
+254,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931425,2022020931,Takeaway,425,TAKEAWAY,Takeaway by Pierre Engvall,2023-02-25T02:00:29Z,3,02:28,17:32,1,1,10.0,Toronto Maple Leafs,TOR
+255,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931611,2022020931,Shot,611,SHOT,Noel Acciari Wrap-around saved by Filip Gustavsson,2023-02-25T02:01:04Z,3,03:03,16:57,1,1,10.0,Toronto Maple Leafs,TOR
+256,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931612,2022020931,Missed Shot,612,MISSED_SHOT,Auston Matthews Over Net Filip Gustavsson,2023-02-25T02:01:27Z,3,03:26,16:34,1,1,10.0,Toronto Maple Leafs,TOR
+257,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931613,2022020931,Shot,613,SHOT,Jake Middleton Wrist Shot saved by Ilya Samsonov,2023-02-25T02:02:14Z,3,04:13,15:47,1,1,30.0,Minnesota Wild,MIN
+258,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931392,2022020931,Stoppage,392,STOP,Goalie Stopped,2023-02-25T02:02:16Z,3,04:15,15:45,1,1,,,
+259,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931426,2022020931,Faceoff,426,FACEOFF,Ryan O'Reilly faceoff won against Ryan Hartman,2023-02-25T02:02:48Z,3,04:15,15:45,1,1,10.0,Toronto Maple Leafs,TOR
+260,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931393,2022020931,Hit,393,HIT,Morgan Rielly hit Ryan Hartman,2023-02-25T02:03:14Z,3,04:41,15:19,1,1,10.0,Toronto Maple Leafs,TOR
+261,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931614,2022020931,Shot,614,SHOT,Frederick Gaudreau Slap Shot saved by Ilya Samsonov,2023-02-25T02:03:38Z,3,05:05,14:55,1,1,30.0,Minnesota Wild,MIN
+262,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931394,2022020931,Stoppage,394,STOP,Icing,2023-02-25T02:03:47Z,3,05:14,14:46,1,1,,,
+263,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931427,2022020931,Faceoff,427,FACEOFF,Frederick Gaudreau faceoff won against Auston Matthews,2023-02-25T02:04:11Z,3,05:14,14:46,1,1,30.0,Minnesota Wild,MIN
+264,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931428,2022020931,Takeaway,428,TAKEAWAY,Takeaway by Michael Bunting,2023-02-25T02:04:14Z,3,05:17,14:43,1,1,10.0,Toronto Maple Leafs,TOR
+265,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931502,2022020931,Giveaway,502,GIVEAWAY,Giveaway by Calen Addison,2023-02-25T02:04:20Z,3,05:23,14:37,1,1,30.0,Minnesota Wild,MIN
+266,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931615,2022020931,Blocked Shot,615,BLOCKED_SHOT,Mason Shaw shot blocked shot by Justin Holl,2023-02-25T02:05:21Z,3,06:24,13:36,1,1,10.0,Toronto Maple Leafs,TOR
+267,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931395,2022020931,Stoppage,395,STOP,Puck Frozen,2023-02-25T02:05:23Z,3,06:26,13:34,1,1,,,
+268,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931429,2022020931,Faceoff,429,FACEOFF,Joel Eriksson Ek faceoff won against David Kampf,2023-02-25T02:07:45Z,3,06:26,13:34,1,1,30.0,Minnesota Wild,MIN
+269,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931503,2022020931,Blocked Shot,503,BLOCKED_SHOT,Matt Dumba shot blocked shot by Alexander Kerfoot,2023-02-25T02:07:53Z,3,06:34,13:26,1,1,10.0,Toronto Maple Leafs,TOR
+270,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931397,2022020931,Hit,397,HIT,Marcus Foligno hit Alexander Kerfoot,2023-02-25T02:08:11Z,3,06:52,13:08,1,1,30.0,Minnesota Wild,MIN
+271,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931616,2022020931,Shot,616,SHOT,Alex Goligoski Wrist Shot saved by Ilya Samsonov,2023-02-25T02:08:21Z,3,07:02,12:58,1,1,30.0,Minnesota Wild,MIN
+272,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931617,2022020931,Shot,617,SHOT,John Tavares Wrist Shot saved by Filip Gustavsson,2023-02-25T02:08:39Z,3,07:20,12:40,1,1,10.0,Toronto Maple Leafs,TOR
+273,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931618,2022020931,Blocked Shot,618,BLOCKED_SHOT,John Tavares shot blocked shot by Jake Middleton,2023-02-25T02:08:44Z,3,07:25,12:35,1,1,30.0,Minnesota Wild,MIN
+274,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931430,2022020931,Giveaway,430,GIVEAWAY,Giveaway by Jake Middleton,2023-02-25T02:09:08Z,3,07:49,12:11,1,1,30.0,Minnesota Wild,MIN
+275,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931398,2022020931,Hit,398,HIT,Ryan Hartman hit Justin Holl,2023-02-25T02:09:24Z,3,08:05,11:55,1,1,30.0,Minnesota Wild,MIN
+276,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931399,2022020931,Stoppage,399,STOP,Goalie Puck Frozen Played Beyond Center Line,2023-02-25T02:09:32Z,3,08:13,11:47,1,1,,,
+277,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931431,2022020931,Faceoff,431,FACEOFF,Auston Matthews faceoff won against Ryan Hartman,2023-02-25T02:10:11Z,3,08:13,11:47,1,1,10.0,Toronto Maple Leafs,TOR
+278,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931400,2022020931,Hit,400,HIT,Auston Matthews hit Brandon Duhaime,2023-02-25T02:10:22Z,3,08:24,11:36,1,1,10.0,Toronto Maple Leafs,TOR
+279,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931751,2022020931,Hit,751,HIT,Jordan Greenway hit Morgan Rielly,2023-02-25T02:10:28Z,3,08:30,11:30,1,1,30.0,Minnesota Wild,MIN
+280,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931619,2022020931,Blocked Shot,619,BLOCKED_SHOT,Jordan Greenway shot blocked shot by Morgan Rielly,2023-02-25T02:10:30Z,3,08:32,11:28,1,1,10.0,Toronto Maple Leafs,TOR
+281,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931432,2022020931,Takeaway,432,TAKEAWAY,Takeaway by Frederick Gaudreau,2023-02-25T02:10:39Z,3,08:37,11:23,1,1,30.0,Minnesota Wild,MIN
+282,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931620,2022020931,Missed Shot,620,MISSED_SHOT,Brandon Duhaime Wide of Net Ilya Samsonov,2023-02-25T02:10:39Z,3,08:41,11:19,1,1,30.0,Minnesota Wild,MIN
+283,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931433,2022020931,Takeaway,433,TAKEAWAY,Takeaway by Morgan Rielly,2023-02-25T02:10:47Z,3,08:46,11:14,1,1,10.0,Toronto Maple Leafs,TOR
+284,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931752,2022020931,Hit,752,HIT,Mason Shaw hit Alexander Kerfoot,2023-02-25T02:10:59Z,3,09:01,10:59,1,1,30.0,Minnesota Wild,MIN
+285,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931434,2022020931,Giveaway,434,GIVEAWAY,Giveaway by Mason Shaw,2023-02-25T02:11:24Z,3,09:26,10:34,1,1,30.0,Minnesota Wild,MIN
+286,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931621,2022020931,Missed Shot,621,MISSED_SHOT,Calle Jarnkrok Wide of Net Filip Gustavsson,2023-02-25T02:11:33Z,3,09:35,10:25,1,1,10.0,Toronto Maple Leafs,TOR
+287,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931622,2022020931,Blocked Shot,622,BLOCKED_SHOT,Conor Timmins shot blocked shot by Dakota Mermis,2023-02-25T02:11:41Z,3,09:43,10:17,1,1,30.0,Minnesota Wild,MIN
+288,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931754,2022020931,Hit,754,HIT,Calen Addison hit David Kampf,2023-02-25T02:12:01Z,3,10:03,09:57,1,1,30.0,Minnesota Wild,MIN
+289,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931623,2022020931,Blocked Shot,623,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Calen Addison,2023-02-25T02:12:11Z,3,10:13,09:47,1,1,30.0,Minnesota Wild,MIN
+290,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931755,2022020931,Hit,755,HIT,Joel Eriksson Ek hit John Tavares,2023-02-25T02:12:23Z,3,10:25,09:35,1,1,30.0,Minnesota Wild,MIN
+291,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931756,2022020931,Hit,756,HIT,Ryan Reaves hit Mitchell Marner,2023-02-25T02:12:29Z,3,10:31,09:29,1,1,30.0,Minnesota Wild,MIN
+292,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931624,2022020931,Missed Shot,624,MISSED_SHOT,Auston Matthews Wide of Net Filip Gustavsson,2023-02-25T02:12:45Z,3,10:47,09:13,1,1,10.0,Toronto Maple Leafs,TOR
+293,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931757,2022020931,Hit,757,HIT,Marcus Foligno hit Timothy Liljegren,2023-02-25T02:13:03Z,3,11:05,08:55,1,1,30.0,Minnesota Wild,MIN
+294,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931625,2022020931,Missed Shot,625,MISSED_SHOT,Matt Boldy Wide of Net Ilya Samsonov,2023-02-25T02:13:08Z,3,11:10,08:50,1,1,30.0,Minnesota Wild,MIN
+295,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931626,2022020931,Blocked Shot,626,BLOCKED_SHOT,Jared Spurgeon shot blocked shot by Auston Matthews,2023-02-25T02:13:18Z,3,11:20,08:40,1,1,10.0,Toronto Maple Leafs,TOR
+296,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931627,2022020931,Missed Shot,627,MISSED_SHOT,Joel Eriksson Ek Wide of Net Ilya Samsonov,2023-02-25T02:13:22Z,3,11:22,08:38,1,1,30.0,Minnesota Wild,MIN
+297,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931628,2022020931,Blocked Shot,628,BLOCKED_SHOT,Alex Goligoski shot blocked shot by Auston Matthews,2023-02-25T02:13:44Z,3,11:46,08:14,1,1,10.0,Toronto Maple Leafs,TOR
+298,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931435,2022020931,Takeaway,435,TAKEAWAY,Takeaway by Michael Bunting,2023-02-25T02:13:56Z,3,11:58,08:02,1,1,10.0,Toronto Maple Leafs,TOR
+299,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931758,2022020931,Hit,758,HIT,Alexander Kerfoot hit Matt Dumba,2023-02-25T02:14:13Z,3,12:15,07:45,1,1,10.0,Toronto Maple Leafs,TOR
+300,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931759,2022020931,Stoppage,759,STOP,Puck Frozen,2023-02-25T02:14:21Z,3,12:23,07:37,1,1,,,
+301,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931436,2022020931,Faceoff,436,FACEOFF,Ryan O'Reilly faceoff won against Frederick Gaudreau,2023-02-25T02:16:59Z,3,12:23,07:37,1,1,10.0,Toronto Maple Leafs,TOR
+302,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931921,2022020931,Penalty,921,PENALTY,Jake Middleton Tripping against Ryan O'Reilly,2023-02-25T02:17:07Z,3,12:31,07:29,1,1,30.0,Minnesota Wild,MIN
+303,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931438,2022020931,Faceoff,438,FACEOFF,John Tavares faceoff won against Frederick Gaudreau,2023-02-25T02:17:53Z,3,12:31,07:29,1,1,10.0,Toronto Maple Leafs,TOR
+304,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931629,2022020931,Blocked Shot,629,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Jared Spurgeon,2023-02-25T02:18:07Z,3,12:45,07:15,1,1,30.0,Minnesota Wild,MIN
+305,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931630,2022020931,Blocked Shot,630,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Mason Shaw,2023-02-25T02:18:41Z,3,13:19,06:41,1,1,30.0,Minnesota Wild,MIN
+306,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931760,2022020931,Stoppage,760,STOP,Puck in Netting,2023-02-25T02:18:42Z,3,13:20,06:40,1,1,,,
+307,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931761,2022020931,Stoppage,761,STOP,Referee or Linesman,2023-02-25T02:18:42Z,3,13:20,06:40,1,1,,,
+308,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931439,2022020931,Faceoff,439,FACEOFF,Frederick Gaudreau faceoff won against John Tavares,2023-02-25T02:20:24Z,3,13:20,06:40,1,1,30.0,Minnesota Wild,MIN
+309,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931631,2022020931,Shot,631,SHOT,William Nylander Slap Shot saved by Filip Gustavsson,2023-02-25T02:21:02Z,3,13:58,06:02,1,1,10.0,Toronto Maple Leafs,TOR
+310,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931762,2022020931,Hit,762,HIT,Jared Spurgeon hit William Nylander,2023-02-25T02:21:04Z,3,14:00,06:00,1,1,30.0,Minnesota Wild,MIN
+311,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931763,2022020931,Stoppage,763,STOP,Puck in Crowd,2023-02-25T02:22:03Z,3,14:58,05:02,1,1,,,
+312,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931440,2022020931,Faceoff,440,FACEOFF,David Kampf faceoff won against Ryan Hartman,2023-02-25T02:24:24Z,3,14:58,05:02,1,1,10.0,Toronto Maple Leafs,TOR
+313,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931764,2022020931,Hit,764,HIT,Jared Spurgeon hit Alexander Kerfoot,2023-02-25T02:24:32Z,3,15:06,04:54,1,1,30.0,Minnesota Wild,MIN
+314,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931765,2022020931,Hit,765,HIT,David Kampf hit Jared Spurgeon,2023-02-25T02:24:48Z,3,15:22,04:38,1,1,10.0,Toronto Maple Leafs,TOR
+315,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931632,2022020931,Missed Shot,632,MISSED_SHOT,Mats Zuccarello Wide of Net Ilya Samsonov,2023-02-25T02:24:57Z,3,15:31,04:29,1,1,30.0,Minnesota Wild,MIN
+316,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931766,2022020931,Stoppage,766,STOP,Puck in Netting,2023-02-25T02:24:57Z,3,15:31,04:29,1,1,,,
+317,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931441,2022020931,Faceoff,441,FACEOFF,Ryan O'Reilly faceoff won against Joel Eriksson Ek,2023-02-25T02:25:31Z,3,15:31,04:29,1,1,10.0,Toronto Maple Leafs,TOR
+318,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931442,2022020931,Giveaway,442,GIVEAWAY,Giveaway by Marcus Foligno,2023-02-25T02:26:18Z,3,16:15,03:45,1,1,30.0,Minnesota Wild,MIN
+319,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931946,2022020931,Penalty,946,PENALTY,Mitchell Marner Tripping against Matt Dumba,2023-02-25T02:26:18Z,3,16:18,03:42,1,1,10.0,Toronto Maple Leafs,TOR
+320,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931443,2022020931,Faceoff,443,FACEOFF,David Kampf faceoff won against Joel Eriksson Ek,2023-02-25T02:26:58Z,3,16:18,03:42,1,1,10.0,Toronto Maple Leafs,TOR
+321,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931768,2022020931,Stoppage,768,STOP,Puck in Netting,2023-02-25T02:27:02Z,3,16:22,03:38,1,1,,,
+322,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931444,2022020931,Faceoff,444,FACEOFF,Joel Eriksson Ek faceoff won against David Kampf,2023-02-25T02:27:26Z,3,16:22,03:38,1,1,30.0,Minnesota Wild,MIN
+323,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931633,2022020931,Blocked Shot,633,BLOCKED_SHOT,Mats Zuccarello shot blocked shot by Justin Holl,2023-02-25T02:27:35Z,3,16:31,03:29,1,1,10.0,Toronto Maple Leafs,TOR
+324,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931634,2022020931,Shot,634,SHOT,Matt Boldy Wrist Shot saved by Ilya Samsonov,2023-02-25T02:27:55Z,3,16:51,03:09,1,1,30.0,Minnesota Wild,MIN
+325,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931770,2022020931,Hit,770,HIT,Timothy Liljegren hit Matt Boldy,2023-02-25T02:28:19Z,3,17:15,02:45,1,1,10.0,Toronto Maple Leafs,TOR
+326,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931635,2022020931,Shot,635,SHOT,Kirill Kaprizov Snap Shot saved by Ilya Samsonov,2023-02-25T02:28:48Z,3,17:44,02:16,1,1,30.0,Minnesota Wild,MIN
+327,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931636,2022020931,Shot,636,SHOT,Matt Boldy Wrist Shot saved by Ilya Samsonov,2023-02-25T02:29:17Z,3,18:13,01:47,1,1,30.0,Minnesota Wild,MIN
+328,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931771,2022020931,Stoppage,771,STOP,Goalie Stopped,2023-02-25T02:29:17Z,3,18:13,01:47,1,1,,,
+329,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931445,2022020931,Faceoff,445,FACEOFF,Frederick Gaudreau faceoff won against David Kampf,2023-02-25T02:29:49Z,3,18:13,01:47,1,1,30.0,Minnesota Wild,MIN
+330,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931637,2022020931,Blocked Shot,637,BLOCKED_SHOT,Jared Spurgeon shot blocked shot by TJ Brodie,2023-02-25T02:29:54Z,3,18:18,01:42,1,1,10.0,Toronto Maple Leafs,TOR
+331,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931446,2022020931,Giveaway,446,GIVEAWAY,Giveaway by Filip Gustavsson,2023-02-25T02:30:11Z,3,18:35,01:25,1,1,30.0,Minnesota Wild,MIN
+332,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931772,2022020931,Hit,772,HIT,Noel Acciari hit Ryan Hartman,2023-02-25T02:30:17Z,3,18:41,01:19,1,1,10.0,Toronto Maple Leafs,TOR
+333,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931638,2022020931,Blocked Shot,638,BLOCKED_SHOT,Morgan Rielly shot blocked shot by Marcus Foligno,2023-02-25T02:30:27Z,3,18:51,01:09,1,1,30.0,Minnesota Wild,MIN
+334,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931447,2022020931,Giveaway,447,GIVEAWAY,Giveaway by Ryan Hartman,2023-02-25T02:30:31Z,3,18:55,01:05,1,1,30.0,Minnesota Wild,MIN
+335,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931639,2022020931,Blocked Shot,639,BLOCKED_SHOT,Auston Matthews shot blocked shot by Jared Spurgeon,2023-02-25T02:30:37Z,3,19:01,00:59,1,1,30.0,Minnesota Wild,MIN
+336,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931773,2022020931,Hit,773,HIT,John Tavares hit Brandon Duhaime,2023-02-25T02:30:55Z,3,19:19,00:41,1,1,10.0,Toronto Maple Leafs,TOR
+337,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931774,2022020931,Hit,774,HIT,Kirill Kaprizov hit Ryan O'Reilly,2023-02-25T02:31:29Z,3,19:53,00:07,1,1,30.0,Minnesota Wild,MIN
+338,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931775,2022020931,Stoppage,775,STOP,Icing,2023-02-25T02:31:35Z,3,19:58,00:02,1,1,,,
+339,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931448,2022020931,Faceoff,448,FACEOFF,Ryan O'Reilly faceoff won against Ryan Hartman,2023-02-25T02:32:32Z,3,19:58,00:02,1,1,10.0,Toronto Maple Leafs,TOR
+340,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931640,2022020931,Period End,640,PERIOD_END,End of 3rd Period,2023-02-25T02:32:34Z,3,20:00,00:00,1,1,,,
+341,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931643,2022020931,Period Official,643,PERIOD_OFFICIAL,Period Official,2023-02-25T02:32:45Z,3,20:00,00:00,1,1,,,
+342,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931644,2022020931,Period Ready,644,PERIOD_READY,Period Ready,2023-02-25T02:32:51Z,4,00:00,05:00,1,1,,,
+343,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931449,2022020931,Period Start,449,PERIOD_START,Period Start,2023-02-25T02:35:01Z,4,00:00,05:00,1,1,,,
+344,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931450,2022020931,Faceoff,450,FACEOFF,Joel Eriksson Ek faceoff won against Ryan O'Reilly,2023-02-25T02:35:01Z,4,00:00,05:00,1,1,30.0,Minnesota Wild,MIN
+345,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931645,2022020931,Shot,645,SHOT,Auston Matthews Wrist Shot saved by Filip Gustavsson,2023-02-25T02:35:48Z,4,00:46,04:14,1,1,10.0,Toronto Maple Leafs,TOR
+346,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931776,2022020931,Stoppage,776,STOP,Goalie Stopped,2023-02-25T02:35:48Z,4,00:46,04:14,1,1,,,
+347,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931801,2022020931,Faceoff,801,FACEOFF,William Nylander faceoff won against Frederick Gaudreau,2023-02-25T02:36:19Z,4,00:46,04:14,1,1,10.0,Toronto Maple Leafs,TOR
+348,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931802,2022020931,Takeaway,802,TAKEAWAY,Takeaway by Frederick Gaudreau,2023-02-25T02:36:33Z,4,01:00,04:00,1,1,30.0,Minnesota Wild,MIN
+349,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931803,2022020931,Takeaway,803,TAKEAWAY,Takeaway by William Nylander,2023-02-25T02:36:34Z,4,01:01,03:59,1,1,10.0,Toronto Maple Leafs,TOR
+350,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931646,2022020931,Goal,646,GOAL,"William Nylander (33) Wrist Shot, assists: none",2023-02-25T02:36:38Z,4,01:05,03:55,2,1,10.0,Toronto Maple Leafs,TOR
+351,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931647,2022020931,Period End,647,PERIOD_END,End of OT,2023-02-25T02:36:38Z,4,01:05,03:55,2,1,,,
+352,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931650,2022020931,Period Official,650,PERIOD_OFFICIAL,Period Official,2023-02-25T02:37:52Z,4,01:05,03:55,2,1,,,
+353,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931951,2022020931,Game End,951,GAME_END,Game End,2023-02-25T02:37:54Z,4,01:05,03:55,2,1,,,
+354,10,30,Toronto Maple Leafs,Minnesota Wild,2022020931952,2022020931,Game Official,952,GAME_OFFICIAL,Game Official,2023-02-25T02:54:15Z,4,01:05,03:55,2,1,,,

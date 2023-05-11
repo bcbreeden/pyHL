@@ -1,0 +1,380 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,10,9,Toronto Maple Leafs,Ottawa Senators,20220200301,2022020030,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-10-15T22:15:28Z,1,00:00,20:00,0,0,,,
+1,10,9,Toronto Maple Leafs,Ottawa Senators,20220200305,2022020030,Period Ready,5,PERIOD_READY,Period Ready,2022-10-15T23:14:07Z,1,00:00,20:00,0,0,,,
+2,10,9,Toronto Maple Leafs,Ottawa Senators,202202003051,2022020030,Period Start,51,PERIOD_START,Period Start,2022-10-15T23:15:05Z,1,00:00,20:00,0,0,,,
+3,10,9,Toronto Maple Leafs,Ottawa Senators,202202003052,2022020030,Faceoff,52,FACEOFF,Auston Matthews faceoff won against Tim Stützle,2022-10-15T23:15:05Z,1,00:00,20:00,0,0,10.0,Toronto Maple Leafs,TOR
+4,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030151,2022020030,Hit,151,HIT,Mitchell Marner hit Thomas Chabot,2022-10-15T23:15:18Z,1,00:13,19:47,0,0,10.0,Toronto Maple Leafs,TOR
+5,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030152,2022020030,Stoppage,152,STOP,Icing,2022-10-15T23:15:29Z,1,00:23,19:37,0,0,,,
+6,10,9,Toronto Maple Leafs,Ottawa Senators,202202003053,2022020030,Faceoff,53,FACEOFF,John Tavares faceoff won against Tim Stützle,2022-10-15T23:15:54Z,1,00:23,19:37,0,0,10.0,Toronto Maple Leafs,TOR
+7,10,9,Toronto Maple Leafs,Ottawa Senators,20220200308,2022020030,Shot,8,SHOT,John Tavares Wrist Shot saved by Anton Forsberg,2022-10-15T23:16:03Z,1,00:32,19:28,0,0,10.0,Toronto Maple Leafs,TOR
+8,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030153,2022020030,Hit,153,HIT,Denis Malgin hit Jake Sanderson,2022-10-15T23:16:22Z,1,00:51,19:09,0,0,10.0,Toronto Maple Leafs,TOR
+9,10,9,Toronto Maple Leafs,Ottawa Senators,202202003054,2022020030,Giveaway,54,GIVEAWAY,Giveaway by William Nylander,2022-10-15T23:16:29Z,1,00:58,19:02,0,0,10.0,Toronto Maple Leafs,TOR
+10,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030154,2022020030,Hit,154,HIT,TJ Brodie hit Shane Pinto,2022-10-15T23:16:46Z,1,01:15,18:45,0,0,10.0,Toronto Maple Leafs,TOR
+11,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030155,2022020030,Hit,155,HIT,Mathieu Joseph hit Calle Jarnkrok,2022-10-15T23:16:51Z,1,01:20,18:40,0,0,9.0,Ottawa Senators,OTT
+12,10,9,Toronto Maple Leafs,Ottawa Senators,20220200309,2022020030,Blocked Shot,9,BLOCKED_SHOT,Calle Jarnkrok shot blocked shot by Tyler Motte,2022-10-15T23:17:04Z,1,01:33,18:27,0,0,9.0,Ottawa Senators,OTT
+13,10,9,Toronto Maple Leafs,Ottawa Senators,202202003010,2022020030,Missed Shot,10,MISSED_SHOT,Alexander Kerfoot Wide of Net Anton Forsberg,2022-10-15T23:17:07Z,1,01:36,18:24,0,0,10.0,Toronto Maple Leafs,TOR
+14,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030156,2022020030,Stoppage,156,STOP,Icing,2022-10-15T23:17:13Z,1,01:43,18:17,0,0,,,
+15,10,9,Toronto Maple Leafs,Ottawa Senators,202202003055,2022020030,Faceoff,55,FACEOFF,Auston Matthews faceoff won against Shane Pinto,2022-10-15T23:17:36Z,1,01:43,18:17,0,0,10.0,Toronto Maple Leafs,TOR
+16,10,9,Toronto Maple Leafs,Ottawa Senators,202202003011,2022020030,Shot,11,SHOT,Michael Bunting Between Legs saved by Anton Forsberg,2022-10-15T23:17:44Z,1,01:51,18:09,0,0,10.0,Toronto Maple Leafs,TOR
+17,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030157,2022020030,Stoppage,157,STOP,Goalie Stopped,2022-10-15T23:17:44Z,1,01:51,18:09,0,0,,,
+18,10,9,Toronto Maple Leafs,Ottawa Senators,202202003056,2022020030,Faceoff,56,FACEOFF,Brady Tkachuk faceoff won against Auston Matthews,2022-10-15T23:18:22Z,1,01:51,18:09,0,0,9.0,Ottawa Senators,OTT
+19,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030158,2022020030,Stoppage,158,STOP,Puck in Benches,2022-10-15T23:18:27Z,1,01:57,18:03,0,0,,,
+20,10,9,Toronto Maple Leafs,Ottawa Senators,202202003057,2022020030,Faceoff,57,FACEOFF,Mark Kastelic faceoff won against Auston Matthews,2022-10-15T23:18:48Z,1,01:57,18:03,0,0,9.0,Ottawa Senators,OTT
+21,10,9,Toronto Maple Leafs,Ottawa Senators,202202003058,2022020030,Takeaway,58,TAKEAWAY,Takeaway by Ilya Samsonov,2022-10-15T23:18:57Z,1,02:06,17:54,0,0,10.0,Toronto Maple Leafs,TOR
+22,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030159,2022020030,Hit,159,HIT,Austin Watson hit Jake Muzzin,2022-10-15T23:18:58Z,1,02:07,17:53,0,0,9.0,Ottawa Senators,OTT
+23,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030160,2022020030,Hit,160,HIT,Thomas Chabot hit Michael Bunting,2022-10-15T23:19:26Z,1,02:35,17:25,0,0,9.0,Ottawa Senators,OTT
+24,10,9,Toronto Maple Leafs,Ottawa Senators,202202003012,2022020030,Blocked Shot,12,BLOCKED_SHOT,Michael Bunting shot blocked shot by Thomas Chabot,2022-10-15T23:19:32Z,1,02:41,17:19,0,0,9.0,Ottawa Senators,OTT
+25,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030161,2022020030,Hit,161,HIT,Drake Batherson hit Morgan Rielly,2022-10-15T23:20:01Z,1,03:10,16:50,0,0,9.0,Ottawa Senators,OTT
+26,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030164,2022020030,Hit,164,HIT,Nicolas Aube-Kubel hit Tim Stützle,2022-10-15T23:20:10Z,1,03:19,16:41,0,0,10.0,Toronto Maple Leafs,TOR
+27,10,9,Toronto Maple Leafs,Ottawa Senators,202202003059,2022020030,Takeaway,59,TAKEAWAY,Takeaway by Drake Batherson,2022-10-15T23:20:25Z,1,03:34,16:26,0,0,9.0,Ottawa Senators,OTT
+28,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030165,2022020030,Hit,165,HIT,Nicolas Aube-Kubel hit Drake Batherson,2022-10-15T23:20:28Z,1,03:37,16:23,0,0,10.0,Toronto Maple Leafs,TOR
+29,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030166,2022020030,Hit,166,HIT,Nicolas Aube-Kubel hit Jake Sanderson,2022-10-15T23:20:40Z,1,03:49,16:11,0,0,10.0,Toronto Maple Leafs,TOR
+30,10,9,Toronto Maple Leafs,Ottawa Senators,202202003013,2022020030,Shot,13,SHOT,John Tavares Slap Shot saved by Anton Forsberg,2022-10-15T23:20:48Z,1,03:56,16:04,0,0,10.0,Toronto Maple Leafs,TOR
+31,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030167,2022020030,Stoppage,167,STOP,Goalie Stopped,2022-10-15T23:20:48Z,1,03:56,16:04,0,0,,,
+32,10,9,Toronto Maple Leafs,Ottawa Senators,202202003060,2022020030,Faceoff,60,FACEOFF,John Tavares faceoff won against Claude Giroux,2022-10-15T23:21:17Z,1,03:56,16:04,0,0,10.0,Toronto Maple Leafs,TOR
+33,10,9,Toronto Maple Leafs,Ottawa Senators,202202003014,2022020030,Blocked Shot,14,BLOCKED_SHOT,Jake Muzzin shot blocked shot by Josh Norris,2022-10-15T23:21:22Z,1,04:01,15:59,0,0,9.0,Ottawa Senators,OTT
+34,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030168,2022020030,Hit,168,HIT,Claude Giroux hit Jake Muzzin,2022-10-15T23:21:26Z,1,04:05,15:55,0,0,9.0,Ottawa Senators,OTT
+35,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030169,2022020030,Hit,169,HIT,John Tavares hit Claude Giroux,2022-10-15T23:21:40Z,1,04:19,15:41,0,0,10.0,Toronto Maple Leafs,TOR
+36,10,9,Toronto Maple Leafs,Ottawa Senators,202202003015,2022020030,Shot,15,SHOT,Claude Giroux Wrist Shot saved by Ilya Samsonov,2022-10-15T23:21:51Z,1,04:30,15:30,0,0,9.0,Ottawa Senators,OTT
+37,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030170,2022020030,Hit,170,HIT,Alex DeBrincat hit Justin Holl,2022-10-15T23:21:54Z,1,04:33,15:27,0,0,9.0,Ottawa Senators,OTT
+38,10,9,Toronto Maple Leafs,Ottawa Senators,202202003016,2022020030,Shot,16,SHOT,Pierre Engvall Deflected saved by Anton Forsberg,2022-10-15T23:22:14Z,1,04:53,15:07,0,0,10.0,Toronto Maple Leafs,TOR
+39,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030171,2022020030,Hit,171,HIT,Tyler Motte hit Morgan Rielly,2022-10-15T23:22:14Z,1,04:53,15:07,0,0,9.0,Ottawa Senators,OTT
+40,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030173,2022020030,Stoppage,173,STOP,Goalie Stopped,2022-10-15T23:22:14Z,1,04:53,15:07,0,0,,,
+41,10,9,Toronto Maple Leafs,Ottawa Senators,202202003061,2022020030,Faceoff,61,FACEOFF,Alexander Kerfoot faceoff won against Shane Pinto,2022-10-15T23:22:43Z,1,04:53,15:07,0,0,10.0,Toronto Maple Leafs,TOR
+42,10,9,Toronto Maple Leafs,Ottawa Senators,202202003017,2022020030,Shot,17,SHOT,Morgan Rielly Wrist Shot saved by Anton Forsberg,2022-10-15T23:22:48Z,1,04:58,15:02,0,0,10.0,Toronto Maple Leafs,TOR
+43,10,9,Toronto Maple Leafs,Ottawa Senators,202202003062,2022020030,Takeaway,62,TAKEAWAY,Takeaway by Shane Pinto,2022-10-15T23:22:52Z,1,05:02,14:58,0,0,9.0,Ottawa Senators,OTT
+44,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030174,2022020030,Hit,174,HIT,Tyler Motte hit TJ Brodie,2022-10-15T23:22:54Z,1,05:04,14:56,0,0,9.0,Ottawa Senators,OTT
+45,10,9,Toronto Maple Leafs,Ottawa Senators,202202003018,2022020030,Blocked Shot,18,BLOCKED_SHOT,Calle Jarnkrok shot blocked shot by Mathieu Joseph,2022-10-15T23:22:58Z,1,05:08,14:52,0,0,9.0,Ottawa Senators,OTT
+46,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030175,2022020030,Hit,175,HIT,Pierre Engvall hit Travis Hamonic,2022-10-15T23:23:23Z,1,05:33,14:27,0,0,10.0,Toronto Maple Leafs,TOR
+47,10,9,Toronto Maple Leafs,Ottawa Senators,202202003063,2022020030,Giveaway,63,GIVEAWAY,Giveaway by Alexander Kerfoot,2022-10-15T23:23:24Z,1,05:34,14:26,0,0,10.0,Toronto Maple Leafs,TOR
+48,10,9,Toronto Maple Leafs,Ottawa Senators,202202003019,2022020030,Missed Shot,19,MISSED_SHOT,Michael Bunting Wide of Net Anton Forsberg,2022-10-15T23:23:40Z,1,05:50,14:10,0,0,10.0,Toronto Maple Leafs,TOR
+49,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030176,2022020030,Hit,176,HIT,Mark Giordano hit Parker Kelly,2022-10-15T23:23:51Z,1,06:01,13:59,0,0,10.0,Toronto Maple Leafs,TOR
+50,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030177,2022020030,Hit,177,HIT,Auston Matthews hit Mark Kastelic,2022-10-15T23:24:07Z,1,06:17,13:43,0,0,10.0,Toronto Maple Leafs,TOR
+51,10,9,Toronto Maple Leafs,Ottawa Senators,202202003064,2022020030,Takeaway,64,TAKEAWAY,Takeaway by Brady Tkachuk,2022-10-15T23:24:20Z,1,06:30,13:30,0,0,9.0,Ottawa Senators,OTT
+52,10,9,Toronto Maple Leafs,Ottawa Senators,202202003020,2022020030,Shot,20,SHOT,Drake Batherson Wrist Shot saved by Ilya Samsonov,2022-10-15T23:24:23Z,1,06:33,13:27,0,0,9.0,Ottawa Senators,OTT
+53,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030178,2022020030,Stoppage,178,STOP,Goalie Stopped,2022-10-15T23:24:23Z,1,06:33,13:27,0,0,,,
+54,10,9,Toronto Maple Leafs,Ottawa Senators,202202003065,2022020030,Faceoff,65,FACEOFF,David Kampf faceoff won against Claude Giroux,2022-10-15T23:26:36Z,1,06:33,13:27,0,0,10.0,Toronto Maple Leafs,TOR
+55,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030179,2022020030,Hit,179,HIT,Josh Norris hit Justin Holl,2022-10-15T23:26:41Z,1,06:38,13:22,0,0,9.0,Ottawa Senators,OTT
+56,10,9,Toronto Maple Leafs,Ottawa Senators,202202003066,2022020030,Giveaway,66,GIVEAWAY,Giveaway by Nicolas Aube-Kubel,2022-10-15T23:26:44Z,1,06:41,13:19,0,0,10.0,Toronto Maple Leafs,TOR
+57,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030180,2022020030,Hit,180,HIT,Thomas Chabot hit Nicolas Aube-Kubel,2022-10-15T23:26:50Z,1,06:47,13:13,0,0,9.0,Ottawa Senators,OTT
+58,10,9,Toronto Maple Leafs,Ottawa Senators,202202003021,2022020030,Blocked Shot,21,BLOCKED_SHOT,Justin Holl shot blocked shot by Claude Giroux,2022-10-15T23:26:56Z,1,06:53,13:07,0,0,9.0,Ottawa Senators,OTT
+59,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030181,2022020030,Hit,181,HIT,Nicolas Aube-Kubel hit Thomas Chabot,2022-10-15T23:27:11Z,1,07:08,12:52,0,0,10.0,Toronto Maple Leafs,TOR
+60,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030182,2022020030,Stoppage,182,STOP,Puck in Netting,2022-10-15T23:27:14Z,1,07:11,12:49,0,0,,,
+61,10,9,Toronto Maple Leafs,Ottawa Senators,202202003067,2022020030,Faceoff,67,FACEOFF,John Tavares faceoff won against Shane Pinto,2022-10-15T23:27:59Z,1,07:11,12:49,0,0,10.0,Toronto Maple Leafs,TOR
+62,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030183,2022020030,Hit,183,HIT,Travis Hamonic hit Denis Malgin,2022-10-15T23:28:07Z,1,07:19,12:41,0,0,9.0,Ottawa Senators,OTT
+63,10,9,Toronto Maple Leafs,Ottawa Senators,202202003068,2022020030,Takeaway,68,TAKEAWAY,Takeaway by John Tavares,2022-10-15T23:28:10Z,1,07:22,12:38,0,0,10.0,Toronto Maple Leafs,TOR
+64,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030184,2022020030,Hit,184,HIT,Travis Hamonic hit TJ Brodie,2022-10-15T23:28:21Z,1,07:33,12:27,0,0,9.0,Ottawa Senators,OTT
+65,10,9,Toronto Maple Leafs,Ottawa Senators,202202003022,2022020030,Shot,22,SHOT,Morgan Rielly Wrist Shot saved by Anton Forsberg,2022-10-15T23:28:26Z,1,07:37,12:23,0,0,10.0,Toronto Maple Leafs,TOR
+66,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030185,2022020030,Stoppage,185,STOP,Goalie Stopped,2022-10-15T23:28:26Z,1,07:37,12:23,0,0,,,
+67,10,9,Toronto Maple Leafs,Ottawa Senators,202202003069,2022020030,Faceoff,69,FACEOFF,Mark Kastelic faceoff won against Auston Matthews,2022-10-15T23:28:57Z,1,07:37,12:23,0,0,9.0,Ottawa Senators,OTT
+68,10,9,Toronto Maple Leafs,Ottawa Senators,202202003023,2022020030,Blocked Shot,23,BLOCKED_SHOT,Auston Matthews shot blocked shot by Erik Brannstrom,2022-10-15T23:29:11Z,1,07:51,12:09,0,0,9.0,Ottawa Senators,OTT
+69,10,9,Toronto Maple Leafs,Ottawa Senators,202202003070,2022020030,Giveaway,70,GIVEAWAY,Giveaway by Erik Brannstrom,2022-10-15T23:29:13Z,1,07:53,12:07,0,0,9.0,Ottawa Senators,OTT
+70,10,9,Toronto Maple Leafs,Ottawa Senators,202202003071,2022020030,Takeaway,71,TAKEAWAY,Takeaway by Erik Brannstrom,2022-10-15T23:29:27Z,1,08:07,11:53,0,0,9.0,Ottawa Senators,OTT
+71,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030186,2022020030,Hit,186,HIT,Nikita Zaitsev hit Auston Matthews,2022-10-15T23:29:32Z,1,08:12,11:48,0,0,9.0,Ottawa Senators,OTT
+72,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030225,2022020030,Penalty,225,PENALTY,Mitchell Marner Holding against Erik Brannstrom,2022-10-15T23:29:42Z,1,08:22,11:38,0,0,10.0,Toronto Maple Leafs,TOR
+73,10,9,Toronto Maple Leafs,Ottawa Senators,202202003072,2022020030,Faceoff,72,FACEOFF,Claude Giroux faceoff won against Calle Jarnkrok,2022-10-15T23:30:45Z,1,08:22,11:38,0,0,9.0,Ottawa Senators,OTT
+74,10,9,Toronto Maple Leafs,Ottawa Senators,202202003073,2022020030,Takeaway,73,TAKEAWAY,Takeaway by David Kampf,2022-10-15T23:31:07Z,1,08:44,11:16,0,0,10.0,Toronto Maple Leafs,TOR
+75,10,9,Toronto Maple Leafs,Ottawa Senators,202202003024,2022020030,Shot,24,SHOT,Jake Sanderson Wrist Shot saved by Ilya Samsonov,2022-10-15T23:31:23Z,1,09:00,11:00,0,0,9.0,Ottawa Senators,OTT
+76,10,9,Toronto Maple Leafs,Ottawa Senators,202202003025,2022020030,Goal,25,GOAL,"Shane Pinto (1) Snap Shot, assists: Claude Giroux (1), Jake Sanderson (1)",2022-10-15T23:31:32Z,1,09:09,10:51,0,1,9.0,Ottawa Senators,OTT
+77,10,9,Toronto Maple Leafs,Ottawa Senators,202202003074,2022020030,Faceoff,74,FACEOFF,Tim Stützle faceoff won against William Nylander,2022-10-15T23:32:20Z,1,09:09,10:51,0,1,9.0,Ottawa Senators,OTT
+78,10,9,Toronto Maple Leafs,Ottawa Senators,202202003075,2022020030,Giveaway,75,GIVEAWAY,Giveaway by Pierre Engvall,2022-10-15T23:32:36Z,1,09:25,10:35,0,1,10.0,Toronto Maple Leafs,TOR
+79,10,9,Toronto Maple Leafs,Ottawa Senators,202202003026,2022020030,Shot,26,SHOT,Brady Tkachuk Deflected saved by Ilya Samsonov,2022-10-15T23:32:38Z,1,09:27,10:33,0,1,9.0,Ottawa Senators,OTT
+80,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030451,2022020030,Stoppage,451,STOP,Goalie Stopped,2022-10-15T23:32:38Z,1,09:28,10:32,0,1,,,
+81,10,9,Toronto Maple Leafs,Ottawa Senators,202202003076,2022020030,Faceoff,76,FACEOFF,William Nylander faceoff won against Drake Batherson,2022-10-15T23:33:30Z,1,09:28,10:32,0,1,10.0,Toronto Maple Leafs,TOR
+82,10,9,Toronto Maple Leafs,Ottawa Senators,202202003027,2022020030,Shot,27,SHOT,Alexander Kerfoot Wrist Shot saved by Anton Forsberg,2022-10-15T23:34:02Z,1,10:00,10:00,0,1,10.0,Toronto Maple Leafs,TOR
+83,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030188,2022020030,Hit,188,HIT,Pierre Engvall hit Artem Zub,2022-10-15T23:34:11Z,1,10:09,09:51,0,1,10.0,Toronto Maple Leafs,TOR
+84,10,9,Toronto Maple Leafs,Ottawa Senators,202202003028,2022020030,Blocked Shot,28,BLOCKED_SHOT,Jake Sanderson shot blocked shot by Rasmus Sandin,2022-10-15T23:34:30Z,1,10:28,09:32,0,1,10.0,Toronto Maple Leafs,TOR
+85,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030189,2022020030,Stoppage,189,STOP,Puck Frozen,2022-10-15T23:34:42Z,1,10:40,09:20,0,1,,,
+86,10,9,Toronto Maple Leafs,Ottawa Senators,202202003077,2022020030,Faceoff,77,FACEOFF,Auston Matthews faceoff won against Claude Giroux,2022-10-15T23:35:12Z,1,10:40,09:20,0,1,10.0,Toronto Maple Leafs,TOR
+87,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030190,2022020030,Hit,190,HIT,Alex DeBrincat hit Mark Giordano,2022-10-15T23:35:16Z,1,10:44,09:16,0,1,9.0,Ottawa Senators,OTT
+88,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030191,2022020030,Stoppage,191,STOP,Puck in Crowd,2022-10-15T23:35:16Z,1,10:45,09:15,0,1,,,
+89,10,9,Toronto Maple Leafs,Ottawa Senators,202202003078,2022020030,Faceoff,78,FACEOFF,John Tavares faceoff won against Claude Giroux,2022-10-15T23:37:36Z,1,10:45,09:15,0,1,10.0,Toronto Maple Leafs,TOR
+90,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030192,2022020030,Hit,192,HIT,Alex DeBrincat hit Justin Holl,2022-10-15T23:37:51Z,1,11:00,09:00,0,1,9.0,Ottawa Senators,OTT
+91,10,9,Toronto Maple Leafs,Ottawa Senators,202202003029,2022020030,Blocked Shot,29,BLOCKED_SHOT,Jake Muzzin shot blocked shot by Josh Norris,2022-10-15T23:38:01Z,1,11:10,08:50,0,1,9.0,Ottawa Senators,OTT
+92,10,9,Toronto Maple Leafs,Ottawa Senators,202202003030,2022020030,Shot,30,SHOT,Travis Hamonic Wrist Shot saved by Ilya Samsonov,2022-10-15T23:38:09Z,1,11:18,08:42,0,1,9.0,Ottawa Senators,OTT
+93,10,9,Toronto Maple Leafs,Ottawa Senators,202202003079,2022020030,Takeaway,79,TAKEAWAY,Takeaway by Claude Giroux,2022-10-15T23:38:16Z,1,11:25,08:35,0,1,9.0,Ottawa Senators,OTT
+94,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030193,2022020030,Hit,193,HIT,Denis Malgin hit Claude Giroux,2022-10-15T23:38:17Z,1,11:26,08:34,0,1,10.0,Toronto Maple Leafs,TOR
+95,10,9,Toronto Maple Leafs,Ottawa Senators,202202003080,2022020030,Takeaway,80,TAKEAWAY,Takeaway by Tim Stützle,2022-10-15T23:38:39Z,1,11:48,08:12,0,1,9.0,Ottawa Senators,OTT
+96,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030194,2022020030,Hit,194,HIT,Brady Tkachuk hit Justin Holl,2022-10-15T23:38:45Z,1,11:54,08:06,0,1,9.0,Ottawa Senators,OTT
+97,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030195,2022020030,Hit,195,HIT,Parker Kelly hit Alexander Kerfoot,2022-10-15T23:39:02Z,1,12:11,07:49,0,1,9.0,Ottawa Senators,OTT
+98,10,9,Toronto Maple Leafs,Ottawa Senators,202202003031,2022020030,Shot,31,SHOT,Alexander Kerfoot Wrist Shot saved by Anton Forsberg,2022-10-15T23:39:03Z,1,12:13,07:47,0,1,10.0,Toronto Maple Leafs,TOR
+99,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030196,2022020030,Stoppage,196,STOP,Goalie Stopped,2022-10-15T23:39:03Z,1,12:13,07:47,0,1,,,
+100,10,9,Toronto Maple Leafs,Ottawa Senators,202202003081,2022020030,Faceoff,81,FACEOFF,Auston Matthews faceoff won against Mark Kastelic,2022-10-15T23:39:40Z,1,12:13,07:47,0,1,10.0,Toronto Maple Leafs,TOR
+101,10,9,Toronto Maple Leafs,Ottawa Senators,202202003032,2022020030,Shot,32,SHOT,Thomas Chabot Slap Shot saved by Ilya Samsonov,2022-10-15T23:40:04Z,1,12:36,07:24,0,1,9.0,Ottawa Senators,OTT
+102,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030197,2022020030,Stoppage,197,STOP,Goalie Stopped,2022-10-15T23:40:04Z,1,12:36,07:24,0,1,,,
+103,10,9,Toronto Maple Leafs,Ottawa Senators,202202003082,2022020030,Faceoff,82,FACEOFF,David Kampf faceoff won against Brady Tkachuk,2022-10-15T23:40:34Z,1,12:36,07:24,0,1,10.0,Toronto Maple Leafs,TOR
+104,10,9,Toronto Maple Leafs,Ottawa Senators,202202003083,2022020030,Takeaway,83,TAKEAWAY,Takeaway by Zach Aston-Reese,2022-10-15T23:40:50Z,1,12:52,07:08,0,1,10.0,Toronto Maple Leafs,TOR
+105,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030198,2022020030,Hit,198,HIT,Jake Sanderson hit Zach Aston-Reese,2022-10-15T23:40:53Z,1,12:55,07:05,0,1,9.0,Ottawa Senators,OTT
+106,10,9,Toronto Maple Leafs,Ottawa Senators,202202003033,2022020030,Missed Shot,33,MISSED_SHOT,Nicolas Aube-Kubel Wide of Net Anton Forsberg,2022-10-15T23:41:06Z,1,13:08,06:52,0,1,10.0,Toronto Maple Leafs,TOR
+107,10,9,Toronto Maple Leafs,Ottawa Senators,202202003034,2022020030,Shot,34,SHOT,Morgan Rielly Wrist Shot saved by Anton Forsberg,2022-10-15T23:41:26Z,1,13:28,06:32,0,1,10.0,Toronto Maple Leafs,TOR
+108,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030199,2022020030,Stoppage,199,STOP,Goalie Stopped,2022-10-15T23:41:26Z,1,13:28,06:32,0,1,,,
+109,10,9,Toronto Maple Leafs,Ottawa Senators,202202003084,2022020030,Faceoff,84,FACEOFF,Shane Pinto faceoff won against William Nylander,2022-10-15T23:42:03Z,1,13:28,06:32,0,1,9.0,Ottawa Senators,OTT
+110,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030200,2022020030,Hit,200,HIT,William Nylander hit Shane Pinto,2022-10-15T23:42:13Z,1,13:38,06:22,0,1,10.0,Toronto Maple Leafs,TOR
+111,10,9,Toronto Maple Leafs,Ottawa Senators,202202003085,2022020030,Giveaway,85,GIVEAWAY,Giveaway by Jake Muzzin,2022-10-15T23:42:35Z,1,14:00,06:00,0,1,10.0,Toronto Maple Leafs,TOR
+112,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030251,2022020030,Hit,251,HIT,Alex DeBrincat hit John Tavares,2022-10-15T23:42:47Z,1,14:12,05:48,0,1,9.0,Ottawa Senators,OTT
+113,10,9,Toronto Maple Leafs,Ottawa Senators,202202003035,2022020030,Shot,35,SHOT,Mitchell Marner Backhand saved by Anton Forsberg,2022-10-15T23:42:53Z,1,14:18,05:42,0,1,10.0,Toronto Maple Leafs,TOR
+114,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030252,2022020030,Stoppage,252,STOP,Goalie Stopped,2022-10-15T23:42:53Z,1,14:18,05:42,0,1,,,
+115,10,9,Toronto Maple Leafs,Ottawa Senators,202202003086,2022020030,Faceoff,86,FACEOFF,Auston Matthews faceoff won against Claude Giroux,2022-10-15T23:45:14Z,1,14:18,05:42,0,1,10.0,Toronto Maple Leafs,TOR
+116,10,9,Toronto Maple Leafs,Ottawa Senators,202202003037,2022020030,Blocked Shot,37,BLOCKED_SHOT,Auston Matthews shot blocked shot by Claude Giroux,2022-10-15T23:45:23Z,1,14:27,05:33,0,1,9.0,Ottawa Senators,OTT
+117,10,9,Toronto Maple Leafs,Ottawa Senators,202202003036,2022020030,Missed Shot,36,MISSED_SHOT,TJ Brodie Wide of Net Anton Forsberg,2022-10-15T23:45:25Z,1,14:29,05:31,0,1,10.0,Toronto Maple Leafs,TOR
+118,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030253,2022020030,Hit,253,HIT,Austin Watson hit Mitchell Marner,2022-10-15T23:46:02Z,1,15:06,04:54,0,1,9.0,Ottawa Senators,OTT
+119,10,9,Toronto Maple Leafs,Ottawa Senators,202202003087,2022020030,Giveaway,87,GIVEAWAY,Giveaway by Auston Matthews,2022-10-15T23:46:05Z,1,15:09,04:51,0,1,10.0,Toronto Maple Leafs,TOR
+120,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030254,2022020030,Hit,254,HIT,Austin Watson hit TJ Brodie,2022-10-15T23:46:16Z,1,15:20,04:40,0,1,9.0,Ottawa Senators,OTT
+121,10,9,Toronto Maple Leafs,Ottawa Senators,202202003038,2022020030,Shot,38,SHOT,Travis Hamonic Wrist Shot saved by Ilya Samsonov,2022-10-15T23:46:23Z,1,15:27,04:33,0,1,9.0,Ottawa Senators,OTT
+122,10,9,Toronto Maple Leafs,Ottawa Senators,202202003039,2022020030,Shot,39,SHOT,Tim Stützle Wrist Shot saved by Ilya Samsonov,2022-10-15T23:46:38Z,1,15:42,04:18,0,1,9.0,Ottawa Senators,OTT
+123,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030255,2022020030,Stoppage,255,STOP,Offside,2022-10-15T23:46:49Z,1,15:53,04:07,0,1,,,
+124,10,9,Toronto Maple Leafs,Ottawa Senators,202202003088,2022020030,Faceoff,88,FACEOFF,Shane Pinto faceoff won against Alexander Kerfoot,2022-10-15T23:47:27Z,1,15:53,04:07,0,1,9.0,Ottawa Senators,OTT
+125,10,9,Toronto Maple Leafs,Ottawa Senators,202202003040,2022020030,Missed Shot,40,MISSED_SHOT,Shane Pinto Wide of Net Ilya Samsonov,2022-10-15T23:47:40Z,1,16:06,03:54,0,1,9.0,Ottawa Senators,OTT
+126,10,9,Toronto Maple Leafs,Ottawa Senators,202202003041,2022020030,Shot,41,SHOT,Shane Pinto Backhand saved by Ilya Samsonov,2022-10-15T23:47:42Z,1,16:08,03:52,0,1,9.0,Ottawa Senators,OTT
+127,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030256,2022020030,Hit,256,HIT,Nikita Zaitsev hit Pierre Engvall,2022-10-15T23:47:56Z,1,16:22,03:38,0,1,9.0,Ottawa Senators,OTT
+128,10,9,Toronto Maple Leafs,Ottawa Senators,202202003042,2022020030,Shot,42,SHOT,Calle Jarnkrok Slap Shot saved by Anton Forsberg,2022-10-15T23:48:01Z,1,16:27,03:33,0,1,10.0,Toronto Maple Leafs,TOR
+129,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030257,2022020030,Stoppage,257,STOP,Icing,2022-10-15T23:48:12Z,1,16:37,03:23,0,1,,,
+130,10,9,Toronto Maple Leafs,Ottawa Senators,202202003089,2022020030,Faceoff,89,FACEOFF,Auston Matthews faceoff won against Claude Giroux,2022-10-15T23:48:41Z,1,16:37,03:23,0,1,10.0,Toronto Maple Leafs,TOR
+131,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030258,2022020030,Hit,258,HIT,Auston Matthews hit Artem Zub,2022-10-15T23:48:56Z,1,16:52,03:08,0,1,10.0,Toronto Maple Leafs,TOR
+132,10,9,Toronto Maple Leafs,Ottawa Senators,202202003090,2022020030,Takeaway,90,TAKEAWAY,Takeaway by Rasmus Sandin,2022-10-15T23:49:01Z,1,16:57,03:03,0,1,10.0,Toronto Maple Leafs,TOR
+133,10,9,Toronto Maple Leafs,Ottawa Senators,202202003043,2022020030,Shot,43,SHOT,Auston Matthews Wrist Shot saved by Anton Forsberg,2022-10-15T23:49:06Z,1,17:02,02:58,0,1,10.0,Toronto Maple Leafs,TOR
+134,10,9,Toronto Maple Leafs,Ottawa Senators,202202003091,2022020030,Giveaway,91,GIVEAWAY,Giveaway by Anton Forsberg,2022-10-15T23:49:39Z,1,17:35,02:25,0,1,9.0,Ottawa Senators,OTT
+135,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030259,2022020030,Stoppage,259,STOP,Puck in Netting,2022-10-15T23:49:40Z,1,17:37,02:23,0,1,,,
+136,10,9,Toronto Maple Leafs,Ottawa Senators,202202003092,2022020030,Faceoff,92,FACEOFF,Josh Norris faceoff won against David Kampf,2022-10-15T23:50:58Z,1,17:37,02:23,0,1,9.0,Ottawa Senators,OTT
+137,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030260,2022020030,Hit,260,HIT,Travis Hamonic hit Zach Aston-Reese,2022-10-15T23:51:10Z,1,17:49,02:11,0,1,9.0,Ottawa Senators,OTT
+138,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030261,2022020030,Hit,261,HIT,Josh Norris hit David Kampf,2022-10-15T23:51:17Z,1,17:56,02:04,0,1,9.0,Ottawa Senators,OTT
+139,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030262,2022020030,Stoppage,262,STOP,Icing,2022-10-15T23:51:35Z,1,18:14,01:46,0,1,,,
+140,10,9,Toronto Maple Leafs,Ottawa Senators,202202003093,2022020030,Faceoff,93,FACEOFF,John Tavares faceoff won against Claude Giroux,2022-10-15T23:52:03Z,1,18:14,01:46,0,1,10.0,Toronto Maple Leafs,TOR
+141,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030263,2022020030,Stoppage,263,STOP,Puck Frozen,2022-10-15T23:52:15Z,1,18:25,01:35,0,1,,,
+142,10,9,Toronto Maple Leafs,Ottawa Senators,202202003094,2022020030,Faceoff,94,FACEOFF,John Tavares faceoff won against Brady Tkachuk,2022-10-15T23:52:38Z,1,18:25,01:35,0,1,10.0,Toronto Maple Leafs,TOR
+143,10,9,Toronto Maple Leafs,Ottawa Senators,202202003044,2022020030,Shot,44,SHOT,Justin Holl Backhand saved by Anton Forsberg,2022-10-15T23:52:46Z,1,18:33,01:27,0,1,10.0,Toronto Maple Leafs,TOR
+144,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030264,2022020030,Hit,264,HIT,Artem Zub hit John Tavares,2022-10-15T23:52:56Z,1,18:43,01:17,0,1,9.0,Ottawa Senators,OTT
+145,10,9,Toronto Maple Leafs,Ottawa Senators,202202003045,2022020030,Shot,45,SHOT,Thomas Chabot Backhand saved by Ilya Samsonov,2022-10-15T23:53:08Z,1,18:55,01:05,0,1,9.0,Ottawa Senators,OTT
+146,10,9,Toronto Maple Leafs,Ottawa Senators,202202003047,2022020030,Blocked Shot,47,BLOCKED_SHOT,Tim Stützle shot blocked shot by Jake Muzzin,2022-10-15T23:53:09Z,1,18:56,01:04,0,1,10.0,Toronto Maple Leafs,TOR
+147,10,9,Toronto Maple Leafs,Ottawa Senators,202202003048,2022020030,Missed Shot,48,MISSED_SHOT,Thomas Chabot Wide of Net Ilya Samsonov,2022-10-15T23:53:35Z,1,19:22,00:38,0,1,9.0,Ottawa Senators,OTT
+148,10,9,Toronto Maple Leafs,Ottawa Senators,202202003095,2022020030,Giveaway,95,GIVEAWAY,Giveaway by William Nylander,2022-10-15T23:53:51Z,1,19:38,00:22,0,1,10.0,Toronto Maple Leafs,TOR
+149,10,9,Toronto Maple Leafs,Ottawa Senators,202202003049,2022020030,Blocked Shot,49,BLOCKED_SHOT,Thomas Chabot shot blocked shot by William Nylander,2022-10-15T23:53:55Z,1,19:42,00:18,0,1,10.0,Toronto Maple Leafs,TOR
+150,10,9,Toronto Maple Leafs,Ottawa Senators,202202003050,2022020030,Period End,50,PERIOD_END,End of 1st Period,2022-10-15T23:54:13Z,1,20:00,00:00,0,1,,,
+151,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030303,2022020030,Period Official,303,PERIOD_OFFICIAL,Period Official,2022-10-16T00:09:45Z,1,20:00,00:00,0,1,,,
+152,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030304,2022020030,Period Ready,304,PERIOD_READY,Period Ready,2022-10-16T00:13:07Z,2,00:00,20:00,0,1,,,
+153,10,9,Toronto Maple Leafs,Ottawa Senators,202202003096,2022020030,Period Start,96,PERIOD_START,Period Start,2022-10-16T00:13:36Z,2,00:00,20:00,0,1,,,
+154,10,9,Toronto Maple Leafs,Ottawa Senators,202202003097,2022020030,Faceoff,97,FACEOFF,Auston Matthews faceoff won against Tim Stützle,2022-10-16T00:13:36Z,2,00:00,20:00,0,1,10.0,Toronto Maple Leafs,TOR
+155,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030266,2022020030,Hit,266,HIT,Auston Matthews hit Artem Zub,2022-10-16T00:13:46Z,2,00:10,19:50,0,1,10.0,Toronto Maple Leafs,TOR
+156,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030267,2022020030,Hit,267,HIT,Tim Stützle hit Justin Holl,2022-10-16T00:14:00Z,2,00:24,19:36,0,1,9.0,Ottawa Senators,OTT
+157,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030268,2022020030,Hit,268,HIT,Jake Muzzin hit Tim Stützle,2022-10-16T00:14:09Z,2,00:33,19:27,0,1,10.0,Toronto Maple Leafs,TOR
+158,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030269,2022020030,Hit,269,HIT,John Tavares hit Thomas Chabot,2022-10-16T00:14:25Z,2,00:49,19:11,0,1,10.0,Toronto Maple Leafs,TOR
+159,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030305,2022020030,Shot,305,SHOT,Alex DeBrincat Wrist Shot saved by Ilya Samsonov,2022-10-16T00:14:32Z,2,00:56,19:04,0,1,9.0,Ottawa Senators,OTT
+160,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030306,2022020030,Shot,306,SHOT,William Nylander Snap Shot saved by Anton Forsberg,2022-10-16T00:14:44Z,2,01:08,18:52,0,1,10.0,Toronto Maple Leafs,TOR
+161,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030307,2022020030,Blocked Shot,307,BLOCKED_SHOT,Jake Sanderson shot blocked shot by Denis Malgin,2022-10-16T00:14:50Z,2,01:14,18:46,0,1,10.0,Toronto Maple Leafs,TOR
+162,10,9,Toronto Maple Leafs,Ottawa Senators,202202003098,2022020030,Giveaway,98,GIVEAWAY,Giveaway by Morgan Rielly,2022-10-16T00:14:57Z,2,01:21,18:39,0,1,10.0,Toronto Maple Leafs,TOR
+163,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030271,2022020030,Hit,271,HIT,William Nylander hit Erik Brannstrom,2022-10-16T00:15:14Z,2,01:38,18:22,0,1,10.0,Toronto Maple Leafs,TOR
+164,10,9,Toronto Maple Leafs,Ottawa Senators,202202003099,2022020030,Giveaway,99,GIVEAWAY,Giveaway by Shane Pinto,2022-10-16T00:15:26Z,2,01:50,18:10,0,1,9.0,Ottawa Senators,OTT
+165,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030272,2022020030,Hit,272,HIT,Tyler Motte hit Rasmus Sandin,2022-10-16T00:15:35Z,2,01:59,18:01,0,1,9.0,Ottawa Senators,OTT
+166,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030308,2022020030,Missed Shot,308,MISSED_SHOT,Calle Jarnkrok Wide of Net Anton Forsberg,2022-10-16T00:15:35Z,2,01:59,18:01,0,1,10.0,Toronto Maple Leafs,TOR
+167,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030100,2022020030,Giveaway,100,GIVEAWAY,Giveaway by Mark Giordano,2022-10-16T00:15:48Z,2,02:12,17:48,0,1,10.0,Toronto Maple Leafs,TOR
+168,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030273,2022020030,Stoppage,273,STOP,Icing,2022-10-16T00:15:53Z,2,02:16,17:44,0,1,,,
+169,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030401,2022020030,Faceoff,401,FACEOFF,Shane Pinto faceoff won against Auston Matthews,2022-10-16T00:16:13Z,2,02:16,17:44,0,1,9.0,Ottawa Senators,OTT
+170,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030309,2022020030,Shot,309,SHOT,Auston Matthews Wrap-around saved by Anton Forsberg,2022-10-16T00:16:25Z,2,02:28,17:32,0,1,10.0,Toronto Maple Leafs,TOR
+171,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030322,2022020030,Shot,322,SHOT,Tyler Motte Wrist Shot saved by Ilya Samsonov,2022-10-16T00:16:25Z,2,02:28,17:32,0,1,9.0,Ottawa Senators,OTT
+172,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030310,2022020030,Blocked Shot,310,BLOCKED_SHOT,Michael Bunting shot blocked shot by Thomas Chabot,2022-10-16T00:16:37Z,2,02:40,17:20,0,1,9.0,Ottawa Senators,OTT
+173,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030274,2022020030,Hit,274,HIT,Mark Kastelic hit Jake Muzzin,2022-10-16T00:16:39Z,2,02:42,17:18,0,1,9.0,Ottawa Senators,OTT
+174,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030311,2022020030,Missed Shot,311,MISSED_SHOT,Jake Muzzin Wide of Net Anton Forsberg,2022-10-16T00:16:48Z,2,02:51,17:09,0,1,10.0,Toronto Maple Leafs,TOR
+175,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030275,2022020030,Hit,275,HIT,Parker Kelly hit TJ Brodie,2022-10-16T00:17:01Z,2,03:04,16:56,0,1,9.0,Ottawa Senators,OTT
+176,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030276,2022020030,Stoppage,276,STOP,Icing,2022-10-16T00:17:06Z,2,03:08,16:52,0,1,,,
+177,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030402,2022020030,Faceoff,402,FACEOFF,David Kampf faceoff won against Brady Tkachuk,2022-10-16T00:17:36Z,2,03:08,16:52,0,1,10.0,Toronto Maple Leafs,TOR
+178,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030277,2022020030,Stoppage,277,STOP,Offside,2022-10-16T00:17:44Z,2,03:16,16:44,0,1,,,
+179,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030403,2022020030,Faceoff,403,FACEOFF,John Tavares faceoff won against Mark Kastelic,2022-10-16T00:18:19Z,2,03:16,16:44,0,1,10.0,Toronto Maple Leafs,TOR
+180,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030278,2022020030,Hit,278,HIT,Nikita Zaitsev hit John Tavares,2022-10-16T00:18:29Z,2,03:26,16:34,0,1,9.0,Ottawa Senators,OTT
+181,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030279,2022020030,Stoppage,279,STOP,Goalie Stopped,2022-10-16T00:18:36Z,2,03:32,16:28,0,1,,,
+182,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030312,2022020030,Shot,312,SHOT,Austin Watson Wrist Shot saved by Ilya Samsonov,2022-10-16T00:18:36Z,2,03:32,16:28,0,1,9.0,Ottawa Senators,OTT
+183,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030404,2022020030,Faceoff,404,FACEOFF,Alexander Kerfoot faceoff won against Claude Giroux,2022-10-16T00:19:34Z,2,03:32,16:28,0,1,10.0,Toronto Maple Leafs,TOR
+184,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030280,2022020030,Hit,280,HIT,Alexander Kerfoot hit Travis Hamonic,2022-10-16T00:19:51Z,2,03:49,16:11,0,1,10.0,Toronto Maple Leafs,TOR
+185,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030281,2022020030,Hit,281,HIT,Justin Holl hit Tim Stützle,2022-10-16T00:20:40Z,2,04:38,15:22,0,1,10.0,Toronto Maple Leafs,TOR
+186,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030313,2022020030,Missed Shot,313,MISSED_SHOT,Drake Batherson Goalpost Ilya Samsonov,2022-10-16T00:20:40Z,2,04:38,15:22,0,1,9.0,Ottawa Senators,OTT
+187,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030314,2022020030,Missed Shot,314,MISSED_SHOT,Michael Bunting Wide of Net Anton Forsberg,2022-10-16T00:21:07Z,2,05:05,14:55,0,1,10.0,Toronto Maple Leafs,TOR
+188,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030315,2022020030,Blocked Shot,315,BLOCKED_SHOT,Michael Bunting shot blocked shot by Thomas Chabot,2022-10-16T00:21:14Z,2,05:12,14:48,0,1,9.0,Ottawa Senators,OTT
+189,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030405,2022020030,Giveaway,405,GIVEAWAY,Giveaway by Mitchell Marner,2022-10-16T00:21:14Z,2,05:12,14:48,0,1,10.0,Toronto Maple Leafs,TOR
+190,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030282,2022020030,Stoppage,282,STOP,Icing,2022-10-16T00:21:57Z,2,05:55,14:05,0,1,,,
+191,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030406,2022020030,Faceoff,406,FACEOFF,David Kampf faceoff won against Josh Norris,2022-10-16T00:22:38Z,2,05:55,14:05,0,1,10.0,Toronto Maple Leafs,TOR
+192,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030283,2022020030,Stoppage,283,STOP,Icing,2022-10-16T00:22:45Z,2,06:02,13:58,0,1,,,
+193,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030410,2022020030,Faceoff,410,FACEOFF,Josh Norris faceoff won against David Kampf,2022-10-16T00:23:13Z,2,06:02,13:58,0,1,9.0,Ottawa Senators,OTT
+194,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030316,2022020030,Shot,316,SHOT,Claude Giroux Tip-In saved by Ilya Samsonov,2022-10-16T00:23:20Z,2,06:09,13:51,0,1,9.0,Ottawa Senators,OTT
+195,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030284,2022020030,Hit,284,HIT,Claude Giroux hit Zach Aston-Reese,2022-10-16T00:23:22Z,2,06:11,13:49,0,1,9.0,Ottawa Senators,OTT
+196,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030317,2022020030,Missed Shot,317,MISSED_SHOT,Josh Norris Wide of Net Ilya Samsonov,2022-10-16T00:23:26Z,2,06:15,13:45,0,1,9.0,Ottawa Senators,OTT
+197,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030285,2022020030,Hit,285,HIT,Alex DeBrincat hit David Kampf,2022-10-16T00:23:31Z,2,06:20,13:40,0,1,9.0,Ottawa Senators,OTT
+198,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030286,2022020030,Stoppage,286,STOP,Icing,2022-10-16T00:23:33Z,2,06:22,13:38,0,1,,,
+199,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030408,2022020030,Faceoff,408,FACEOFF,Claude Giroux faceoff won against John Tavares,2022-10-16T00:23:59Z,2,06:22,13:38,0,1,9.0,Ottawa Senators,OTT
+200,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030287,2022020030,Stoppage,287,STOP,Icing,2022-10-16T00:24:06Z,2,06:29,13:31,0,1,,,
+201,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030409,2022020030,Faceoff,409,FACEOFF,Claude Giroux faceoff won against John Tavares,2022-10-16T00:24:30Z,2,06:29,13:31,0,1,9.0,Ottawa Senators,OTT
+202,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030288,2022020030,Stoppage,288,STOP,Goalie Stopped,2022-10-16T00:25:03Z,2,07:02,12:58,0,1,,,
+203,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030318,2022020030,Shot,318,SHOT,Shane Pinto Snap Shot saved by Ilya Samsonov,2022-10-16T00:25:03Z,2,07:02,12:58,0,1,9.0,Ottawa Senators,OTT
+204,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030411,2022020030,Faceoff,411,FACEOFF,Brady Tkachuk faceoff won against Alexander Kerfoot,2022-10-16T00:27:27Z,2,07:02,12:58,0,1,9.0,Ottawa Senators,OTT
+205,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030412,2022020030,Takeaway,412,TAKEAWAY,Takeaway by Alexander Kerfoot,2022-10-16T00:27:50Z,2,07:25,12:35,0,1,10.0,Toronto Maple Leafs,TOR
+206,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030586,2022020030,Penalty,586,PENALTY,Tim Stützle Hooking against Alexander Kerfoot,2022-10-16T00:27:53Z,2,07:28,12:32,0,1,9.0,Ottawa Senators,OTT
+207,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030413,2022020030,Faceoff,413,FACEOFF,Josh Norris faceoff won against John Tavares,2022-10-16T00:28:42Z,2,07:28,12:32,0,1,9.0,Ottawa Senators,OTT
+208,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030319,2022020030,Missed Shot,319,MISSED_SHOT,Auston Matthews Wide of Net Anton Forsberg,2022-10-16T00:29:18Z,2,08:04,11:56,0,1,10.0,Toronto Maple Leafs,TOR
+209,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030414,2022020030,Giveaway,414,GIVEAWAY,Giveaway by Mitchell Marner,2022-10-16T00:29:33Z,2,08:19,11:41,0,1,10.0,Toronto Maple Leafs,TOR
+210,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030320,2022020030,Blocked Shot,320,BLOCKED_SHOT,Mark Giordano shot blocked shot by Tyler Motte,2022-10-16T00:30:36Z,2,09:22,10:38,0,1,9.0,Ottawa Senators,OTT
+211,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030290,2022020030,Hit,290,HIT,Tim Stützle hit Rasmus Sandin,2022-10-16T00:31:18Z,2,10:04,09:56,0,1,9.0,Ottawa Senators,OTT
+212,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030291,2022020030,Stoppage,291,STOP,Puck in Crowd,2022-10-16T00:31:20Z,2,10:06,09:54,0,1,,,
+213,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030321,2022020030,Missed Shot,321,MISSED_SHOT,Thomas Chabot Over Net Ilya Samsonov,2022-10-16T00:31:20Z,2,10:06,09:54,0,1,9.0,Ottawa Senators,OTT
+214,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030415,2022020030,Faceoff,415,FACEOFF,David Kampf faceoff won against Brady Tkachuk,2022-10-16T00:33:34Z,2,10:06,09:54,0,1,10.0,Toronto Maple Leafs,TOR
+215,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030323,2022020030,Shot,323,SHOT,Thomas Chabot Wrist Shot saved by Ilya Samsonov,2022-10-16T00:33:57Z,2,10:29,09:31,0,1,9.0,Ottawa Senators,OTT
+216,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030292,2022020030,Hit,292,HIT,Nicolas Aube-Kubel hit Tim Stützle,2022-10-16T00:34:11Z,2,10:43,09:17,0,1,10.0,Toronto Maple Leafs,TOR
+217,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030416,2022020030,Giveaway,416,GIVEAWAY,Giveaway by Justin Holl,2022-10-16T00:34:26Z,2,10:58,09:02,0,1,10.0,Toronto Maple Leafs,TOR
+218,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030325,2022020030,Blocked Shot,325,BLOCKED_SHOT,Josh Norris shot blocked shot by Justin Holl,2022-10-16T00:34:34Z,2,11:06,08:54,0,1,10.0,Toronto Maple Leafs,TOR
+219,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030324,2022020030,Blocked Shot,324,BLOCKED_SHOT,Claude Giroux shot blocked shot by Auston Matthews,2022-10-16T00:34:35Z,2,11:07,08:53,0,1,10.0,Toronto Maple Leafs,TOR
+220,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030293,2022020030,Stoppage,293,STOP,Icing,2022-10-16T00:35:20Z,2,11:52,08:08,0,1,,,
+221,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030417,2022020030,Faceoff,417,FACEOFF,John Tavares faceoff won against Tyler Motte,2022-10-16T00:35:53Z,2,11:52,08:08,0,1,10.0,Toronto Maple Leafs,TOR
+222,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030294,2022020030,Hit,294,HIT,Mathieu Joseph hit Mark Giordano,2022-10-16T00:36:00Z,2,11:59,08:01,0,1,9.0,Ottawa Senators,OTT
+223,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030326,2022020030,Shot,326,SHOT,William Nylander Snap Shot saved by Anton Forsberg,2022-10-16T00:36:14Z,2,12:13,07:47,0,1,10.0,Toronto Maple Leafs,TOR
+224,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030418,2022020030,Giveaway,418,GIVEAWAY,Giveaway by Erik Brannstrom,2022-10-16T00:36:16Z,2,12:15,07:45,0,1,9.0,Ottawa Senators,OTT
+225,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030327,2022020030,Missed Shot,327,MISSED_SHOT,John Tavares Wide of Net Anton Forsberg,2022-10-16T00:36:28Z,2,12:27,07:33,0,1,10.0,Toronto Maple Leafs,TOR
+226,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030295,2022020030,Hit,295,HIT,Mathieu Joseph hit TJ Brodie,2022-10-16T00:36:44Z,2,12:43,07:17,0,1,9.0,Ottawa Senators,OTT
+227,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030296,2022020030,Stoppage,296,STOP,Icing,2022-10-16T00:36:54Z,2,12:53,07:07,0,1,,,
+228,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030419,2022020030,Faceoff,419,FACEOFF,Shane Pinto faceoff won against Auston Matthews,2022-10-16T00:37:14Z,2,12:53,07:07,0,1,9.0,Ottawa Senators,OTT
+229,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030328,2022020030,Shot,328,SHOT,Auston Matthews Wrist Shot saved by Anton Forsberg,2022-10-16T00:37:23Z,2,13:02,06:58,0,1,10.0,Toronto Maple Leafs,TOR
+230,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030329,2022020030,Shot,329,SHOT,Jake Muzzin Slap Shot saved by Anton Forsberg,2022-10-16T00:37:26Z,2,13:05,06:55,0,1,10.0,Toronto Maple Leafs,TOR
+231,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030345,2022020030,Blocked Shot,345,BLOCKED_SHOT,Jake Muzzin shot blocked shot by Tyler Motte,2022-10-16T00:37:34Z,2,13:13,06:47,0,1,9.0,Ottawa Senators,OTT
+232,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030330,2022020030,Shot,330,SHOT,Auston Matthews Backhand saved by Anton Forsberg,2022-10-16T00:37:37Z,2,13:16,06:44,0,1,10.0,Toronto Maple Leafs,TOR
+233,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030297,2022020030,Hit,297,HIT,Auston Matthews hit Artem Zub,2022-10-16T00:37:54Z,2,13:33,06:27,0,1,10.0,Toronto Maple Leafs,TOR
+234,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030331,2022020030,Shot,331,SHOT,Auston Matthews Wrist Shot saved by Anton Forsberg,2022-10-16T00:38:21Z,2,14:00,06:00,0,1,10.0,Toronto Maple Leafs,TOR
+235,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030332,2022020030,Shot,332,SHOT,Pierre Engvall Wrist Shot saved by Anton Forsberg,2022-10-16T00:38:44Z,2,14:23,05:37,0,1,10.0,Toronto Maple Leafs,TOR
+236,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030420,2022020030,Takeaway,420,TAKEAWAY,Takeaway by Jake Sanderson,2022-10-16T00:38:51Z,2,14:30,05:30,0,1,9.0,Ottawa Senators,OTT
+237,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030298,2022020030,Hit,298,HIT,Jake Sanderson hit Pierre Engvall,2022-10-16T00:39:07Z,2,14:46,05:14,0,1,9.0,Ottawa Senators,OTT
+238,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030421,2022020030,Takeaway,421,TAKEAWAY,Takeaway by David Kampf,2022-10-16T00:39:11Z,2,14:50,05:10,0,1,10.0,Toronto Maple Leafs,TOR
+239,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030299,2022020030,Hit,299,HIT,Nicolas Aube-Kubel hit Jake Sanderson,2022-10-16T00:39:17Z,2,14:56,05:04,0,1,10.0,Toronto Maple Leafs,TOR
+240,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030651,2022020030,Stoppage,651,STOP,Referee or Linesman,2022-10-16T00:39:23Z,2,15:02,04:58,0,1,,,
+241,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030753,2022020030,Penalty,753,PENALTY,David Kampf Holding against Tim Stützle,2022-10-16T00:39:23Z,2,15:02,04:58,0,1,10.0,Toronto Maple Leafs,TOR
+242,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030422,2022020030,Faceoff,422,FACEOFF,Claude Giroux faceoff won against Alexander Kerfoot,2022-10-16T00:41:51Z,2,15:02,04:58,0,1,9.0,Ottawa Senators,OTT
+243,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030333,2022020030,Missed Shot,333,MISSED_SHOT,Claude Giroux Over Net Ilya Samsonov,2022-10-16T00:42:05Z,2,15:16,04:44,0,1,9.0,Ottawa Senators,OTT
+244,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030334,2022020030,Blocked Shot,334,BLOCKED_SHOT,Jake Sanderson shot blocked shot by Zach Aston-Reese,2022-10-16T00:42:42Z,2,15:53,04:07,0,1,10.0,Toronto Maple Leafs,TOR
+245,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030652,2022020030,Stoppage,652,STOP,Net Dislodged by Goaltender,2022-10-16T00:42:42Z,2,15:54,04:06,0,1,,,
+246,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030423,2022020030,Faceoff,423,FACEOFF,Brady Tkachuk faceoff won against Calle Jarnkrok,2022-10-16T00:43:20Z,2,15:54,04:06,0,1,9.0,Ottawa Senators,OTT
+247,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030346,2022020030,Shot,346,SHOT,Thomas Chabot Snap Shot saved by Ilya Samsonov,2022-10-16T00:43:23Z,2,15:57,04:03,0,1,9.0,Ottawa Senators,OTT
+248,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030335,2022020030,Blocked Shot,335,BLOCKED_SHOT,Josh Norris shot blocked shot by Mark Giordano,2022-10-16T00:43:43Z,2,16:17,03:43,0,1,10.0,Toronto Maple Leafs,TOR
+249,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030336,2022020030,Missed Shot,336,MISSED_SHOT,Brady Tkachuk Goalpost Ilya Samsonov,2022-10-16T00:43:58Z,2,16:32,03:28,0,1,9.0,Ottawa Senators,OTT
+250,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030424,2022020030,Giveaway,424,GIVEAWAY,Giveaway by Tim Stützle,2022-10-16T00:44:19Z,2,16:53,03:07,0,1,9.0,Ottawa Senators,OTT
+251,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030337,2022020030,Shot,337,SHOT,Pierre Engvall Wrist Shot saved by Anton Forsberg,2022-10-16T00:44:25Z,2,16:59,03:01,0,1,10.0,Toronto Maple Leafs,TOR
+252,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030338,2022020030,Shot,338,SHOT,Nicolas Aube-Kubel Backhand saved by Anton Forsberg,2022-10-16T00:44:27Z,2,17:01,02:59,0,1,10.0,Toronto Maple Leafs,TOR
+253,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030653,2022020030,Hit,653,HIT,Brady Tkachuk hit Nicolas Aube-Kubel,2022-10-16T00:44:28Z,2,17:02,02:58,0,1,9.0,Ottawa Senators,OTT
+254,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030426,2022020030,Giveaway,426,GIVEAWAY,Giveaway by Erik Brannstrom,2022-10-16T00:44:50Z,2,17:24,02:36,0,1,9.0,Ottawa Senators,OTT
+255,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030654,2022020030,Hit,654,HIT,Auston Matthews hit Erik Brannstrom,2022-10-16T00:45:05Z,2,17:39,02:21,0,1,10.0,Toronto Maple Leafs,TOR
+256,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030339,2022020030,Missed Shot,339,MISSED_SHOT,William Nylander Goalpost Anton Forsberg,2022-10-16T00:46:09Z,2,18:43,01:17,0,1,10.0,Toronto Maple Leafs,TOR
+257,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030655,2022020030,Hit,655,HIT,Nikita Zaitsev hit Mark Giordano,2022-10-16T00:46:20Z,2,18:54,01:06,0,1,9.0,Ottawa Senators,OTT
+258,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030427,2022020030,Takeaway,427,TAKEAWAY,Takeaway by Alex DeBrincat,2022-10-16T00:46:28Z,2,19:02,00:58,0,1,9.0,Ottawa Senators,OTT
+259,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030340,2022020030,Missed Shot,340,MISSED_SHOT,William Nylander Hit Crossbar Anton Forsberg,2022-10-16T00:46:47Z,2,19:21,00:39,0,1,10.0,Toronto Maple Leafs,TOR
+260,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030428,2022020030,Takeaway,428,TAKEAWAY,Takeaway by William Nylander,2022-10-16T00:46:54Z,2,19:28,00:32,0,1,10.0,Toronto Maple Leafs,TOR
+261,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030656,2022020030,Hit,656,HIT,Brady Tkachuk hit William Nylander,2022-10-16T00:46:55Z,2,19:29,00:31,0,1,9.0,Ottawa Senators,OTT
+262,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030341,2022020030,Goal,341,GOAL,"David Kampf (1) Tip-In, assists: Jake Muzzin (1), Calle Jarnkrok (1)",2022-10-16T00:47:10Z,2,19:43,00:17,1,1,10.0,Toronto Maple Leafs,TOR
+263,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030429,2022020030,Faceoff,429,FACEOFF,Josh Norris faceoff won against David Kampf,2022-10-16T00:47:56Z,2,19:43,00:17,1,1,9.0,Ottawa Senators,OTT
+264,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030342,2022020030,Period End,342,PERIOD_END,End of 2nd Period,2022-10-16T00:48:13Z,2,20:00,00:00,1,1,,,
+265,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030347,2022020030,Period Official,347,PERIOD_OFFICIAL,Period Official,2022-10-16T01:04:08Z,2,20:00,00:00,1,1,,,
+266,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030348,2022020030,Period Ready,348,PERIOD_READY,Period Ready,2022-10-16T01:06:47Z,3,00:00,20:00,1,1,,,
+267,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030430,2022020030,Period Start,430,PERIOD_START,Period Start,2022-10-16T01:07:08Z,3,00:00,20:00,1,1,,,
+268,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030431,2022020030,Faceoff,431,FACEOFF,Tim Stützle faceoff won against Auston Matthews,2022-10-16T01:07:08Z,3,00:00,20:00,1,1,9.0,Ottawa Senators,OTT
+269,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030657,2022020030,Hit,657,HIT,Drake Batherson hit Jake Muzzin,2022-10-16T01:07:17Z,3,00:09,19:51,1,1,9.0,Ottawa Senators,OTT
+270,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030349,2022020030,Missed Shot,349,MISSED_SHOT,Tim Stützle Wide of Net Ilya Samsonov,2022-10-16T01:07:27Z,3,00:19,19:41,1,1,9.0,Ottawa Senators,OTT
+271,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030658,2022020030,Hit,658,HIT,Brady Tkachuk hit Justin Holl,2022-10-16T01:07:27Z,3,00:19,19:41,1,1,9.0,Ottawa Senators,OTT
+272,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030350,2022020030,Blocked Shot,350,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Artem Zub,2022-10-16T01:07:34Z,3,00:26,19:34,1,1,9.0,Ottawa Senators,OTT
+273,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030659,2022020030,Stoppage,659,STOP,Puck in Netting,2022-10-16T01:07:36Z,3,00:27,19:33,1,1,,,
+274,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030432,2022020030,Faceoff,432,FACEOFF,Claude Giroux faceoff won against John Tavares,2022-10-16T01:08:05Z,3,00:27,19:33,1,1,9.0,Ottawa Senators,OTT
+275,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030660,2022020030,Stoppage,660,STOP,Goalie Stopped,2022-10-16T01:08:35Z,3,00:57,19:03,1,1,,,
+276,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030701,2022020030,Shot,701,SHOT,Josh Norris Wrist Shot saved by Ilya Samsonov,2022-10-16T01:08:35Z,3,00:57,19:03,1,1,9.0,Ottawa Senators,OTT
+277,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030702,2022020030,Shot,702,SHOT,Josh Norris Wrist Shot saved by Ilya Samsonov,2022-10-16T01:08:35Z,3,00:57,19:03,1,1,9.0,Ottawa Senators,OTT
+278,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030433,2022020030,Faceoff,433,FACEOFF,David Kampf faceoff won against Shane Pinto,2022-10-16T01:09:08Z,3,00:57,19:03,1,1,10.0,Toronto Maple Leafs,TOR
+279,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030661,2022020030,Stoppage,661,STOP,Icing,2022-10-16T01:09:33Z,3,01:22,18:38,1,1,,,
+280,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030434,2022020030,Faceoff,434,FACEOFF,Tim Stützle faceoff won against David Kampf,2022-10-16T01:09:57Z,3,01:22,18:38,1,1,9.0,Ottawa Senators,OTT
+281,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030703,2022020030,Shot,703,SHOT,Erik Brannstrom Slap Shot saved by Ilya Samsonov,2022-10-16T01:10:02Z,3,01:27,18:33,1,1,9.0,Ottawa Senators,OTT
+282,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030704,2022020030,Missed Shot,704,MISSED_SHOT,Erik Brannstrom Wide of Net Ilya Samsonov,2022-10-16T01:10:13Z,3,01:38,18:22,1,1,9.0,Ottawa Senators,OTT
+283,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030662,2022020030,Hit,662,HIT,Jake Muzzin hit Austin Watson,2022-10-16T01:10:51Z,3,02:16,17:44,1,1,10.0,Toronto Maple Leafs,TOR
+284,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030724,2022020030,Blocked Shot,724,BLOCKED_SHOT,Austin Watson shot blocked shot by Jake Muzzin,2022-10-16T01:10:51Z,3,02:16,17:44,1,1,10.0,Toronto Maple Leafs,TOR
+285,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030663,2022020030,Hit,663,HIT,Pierre Engvall hit Travis Hamonic,2022-10-16T01:11:11Z,3,02:36,17:24,1,1,10.0,Toronto Maple Leafs,TOR
+286,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030705,2022020030,Shot,705,SHOT,Alex DeBrincat Backhand saved by Ilya Samsonov,2022-10-16T01:11:42Z,3,03:07,16:53,1,1,9.0,Ottawa Senators,OTT
+287,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030706,2022020030,Blocked Shot,706,BLOCKED_SHOT,Michael Bunting shot blocked shot by Claude Giroux,2022-10-16T01:11:55Z,3,03:20,16:40,1,1,9.0,Ottawa Senators,OTT
+288,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030707,2022020030,Missed Shot,707,MISSED_SHOT,Mitchell Marner Goalpost Anton Forsberg,2022-10-16T01:12:03Z,3,03:28,16:32,1,1,10.0,Toronto Maple Leafs,TOR
+289,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030708,2022020030,Missed Shot,708,MISSED_SHOT,TJ Brodie Wide of Net Anton Forsberg,2022-10-16T01:12:14Z,3,03:39,16:21,1,1,10.0,Toronto Maple Leafs,TOR
+290,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030709,2022020030,Shot,709,SHOT,Auston Matthews Wrist Shot saved by Anton Forsberg,2022-10-16T01:12:17Z,3,03:42,16:18,1,1,10.0,Toronto Maple Leafs,TOR
+291,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030664,2022020030,Hit,664,HIT,Shane Pinto hit Mark Giordano,2022-10-16T01:12:33Z,3,03:58,16:02,1,1,9.0,Ottawa Senators,OTT
+292,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030665,2022020030,Hit,665,HIT,Tyler Motte hit John Tavares,2022-10-16T01:12:40Z,3,04:05,15:55,1,1,9.0,Ottawa Senators,OTT
+293,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030710,2022020030,Blocked Shot,710,BLOCKED_SHOT,Tyler Motte shot blocked shot by Mark Giordano,2022-10-16T01:12:58Z,3,04:23,15:37,1,1,10.0,Toronto Maple Leafs,TOR
+294,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030666,2022020030,Hit,666,HIT,Drake Batherson hit Nicolas Aube-Kubel,2022-10-16T01:13:12Z,3,04:37,15:23,1,1,9.0,Ottawa Senators,OTT
+295,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030667,2022020030,Hit,667,HIT,Nikita Zaitsev hit Zach Aston-Reese,2022-10-16T01:13:20Z,3,04:45,15:15,1,1,9.0,Ottawa Senators,OTT
+296,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030668,2022020030,Stoppage,668,STOP,Goalie Stopped,2022-10-16T01:13:33Z,3,04:58,15:02,1,1,,,
+297,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030711,2022020030,Shot,711,SHOT,Zach Aston-Reese Wrist Shot saved by Anton Forsberg,2022-10-16T01:13:33Z,3,04:58,15:02,1,1,10.0,Toronto Maple Leafs,TOR
+298,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030435,2022020030,Faceoff,435,FACEOFF,Josh Norris faceoff won against Calle Jarnkrok,2022-10-16T01:14:13Z,3,04:58,15:02,1,1,9.0,Ottawa Senators,OTT
+299,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030669,2022020030,Hit,669,HIT,Jake Sanderson hit Alexander Kerfoot,2022-10-16T01:14:46Z,3,05:31,14:29,1,1,9.0,Ottawa Senators,OTT
+300,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030670,2022020030,Hit,670,HIT,Pierre Engvall hit Travis Hamonic,2022-10-16T01:14:54Z,3,05:39,14:21,1,1,10.0,Toronto Maple Leafs,TOR
+301,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030671,2022020030,Hit,671,HIT,Mitchell Marner hit Tyler Motte,2022-10-16T01:15:13Z,3,05:58,14:02,1,1,10.0,Toronto Maple Leafs,TOR
+302,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030672,2022020030,Hit,672,HIT,Shane Pinto hit Morgan Rielly,2022-10-16T01:15:28Z,3,06:13,13:47,1,1,9.0,Ottawa Senators,OTT
+303,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030712,2022020030,Shot,712,SHOT,Tyler Motte Poke saved by Ilya Samsonov,2022-10-16T01:15:31Z,3,06:16,13:44,1,1,9.0,Ottawa Senators,OTT
+304,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030673,2022020030,Stoppage,673,STOP,Puck in Crowd,2022-10-16T01:15:38Z,3,06:24,13:36,1,1,,,
+305,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030436,2022020030,Faceoff,436,FACEOFF,William Nylander faceoff won against Josh Norris,2022-10-16T01:18:18Z,3,06:24,13:36,1,1,10.0,Toronto Maple Leafs,TOR
+306,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030713,2022020030,Missed Shot,713,MISSED_SHOT,Mark Giordano Wide of Net Anton Forsberg,2022-10-16T01:18:22Z,3,06:28,13:32,1,1,10.0,Toronto Maple Leafs,TOR
+307,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030674,2022020030,Hit,674,HIT,Rasmus Sandin hit Drake Batherson,2022-10-16T01:19:06Z,3,07:12,12:48,1,1,10.0,Toronto Maple Leafs,TOR
+308,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030675,2022020030,Stoppage,675,STOP,Hand Pass,2022-10-16T01:19:09Z,3,07:14,12:46,1,1,,,
+309,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030714,2022020030,Shot,714,SHOT,Tim Stützle Wrist Shot saved by Ilya Samsonov,2022-10-16T01:19:09Z,3,07:14,12:46,1,1,9.0,Ottawa Senators,OTT
+310,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030437,2022020030,Faceoff,437,FACEOFF,Claude Giroux faceoff won against David Kampf,2022-10-16T01:19:45Z,3,07:14,12:46,1,1,9.0,Ottawa Senators,OTT
+311,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030676,2022020030,Hit,676,HIT,Austin Watson hit Jake Muzzin,2022-10-16T01:20:37Z,3,08:06,11:54,1,1,9.0,Ottawa Senators,OTT
+312,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030715,2022020030,Missed Shot,715,MISSED_SHOT,Mitchell Marner Wide of Net Anton Forsberg,2022-10-16T01:20:44Z,3,08:13,11:47,1,1,10.0,Toronto Maple Leafs,TOR
+313,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030716,2022020030,Blocked Shot,716,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Thomas Chabot,2022-10-16T01:21:04Z,3,08:33,11:27,1,1,9.0,Ottawa Senators,OTT
+314,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030717,2022020030,Blocked Shot,717,BLOCKED_SHOT,Michael Bunting shot blocked shot by Mark Kastelic,2022-10-16T01:21:04Z,3,08:33,11:27,1,1,9.0,Ottawa Senators,OTT
+315,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030438,2022020030,Takeaway,438,TAKEAWAY,Takeaway by Auston Matthews,2022-10-16T01:21:21Z,3,08:50,11:10,1,1,10.0,Toronto Maple Leafs,TOR
+316,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030677,2022020030,Stoppage,677,STOP,Goalie Stopped,2022-10-16T01:21:23Z,3,08:52,11:08,1,1,,,
+317,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030718,2022020030,Shot,718,SHOT,Auston Matthews Snap Shot saved by Anton Forsberg,2022-10-16T01:21:23Z,3,08:52,11:08,1,1,10.0,Toronto Maple Leafs,TOR
+318,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030439,2022020030,Faceoff,439,FACEOFF,Shane Pinto faceoff won against Alexander Kerfoot,2022-10-16T01:22:03Z,3,08:52,11:08,1,1,9.0,Ottawa Senators,OTT
+319,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030440,2022020030,Takeaway,440,TAKEAWAY,Takeaway by Shane Pinto,2022-10-16T01:22:35Z,3,09:24,10:36,1,1,9.0,Ottawa Senators,OTT
+320,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030678,2022020030,Hit,678,HIT,Denis Malgin hit Jake Sanderson,2022-10-16T01:23:08Z,3,09:57,10:03,1,1,10.0,Toronto Maple Leafs,TOR
+321,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030441,2022020030,Giveaway,441,GIVEAWAY,Giveaway by Brady Tkachuk,2022-10-16T01:23:11Z,3,10:00,10:00,1,1,9.0,Ottawa Senators,OTT
+322,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030719,2022020030,Blocked Shot,719,BLOCKED_SHOT,Denis Malgin shot blocked shot by Jake Sanderson,2022-10-16T01:23:30Z,3,10:19,09:41,1,1,9.0,Ottawa Senators,OTT
+323,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030720,2022020030,Shot,720,SHOT,Justin Holl Wrist Shot saved by Anton Forsberg,2022-10-16T01:23:39Z,3,10:28,09:32,1,1,10.0,Toronto Maple Leafs,TOR
+324,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030721,2022020030,Shot,721,SHOT,Brady Tkachuk Backhand saved by Ilya Samsonov,2022-10-16T01:23:47Z,3,10:36,09:24,1,1,9.0,Ottawa Senators,OTT
+325,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030679,2022020030,Hit,679,HIT,Auston Matthews hit Alex DeBrincat,2022-10-16T01:24:30Z,3,11:19,08:41,1,1,10.0,Toronto Maple Leafs,TOR
+326,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030722,2022020030,Blocked Shot,722,BLOCKED_SHOT,Travis Hamonic shot blocked shot by Rasmus Sandin,2022-10-16T01:24:39Z,3,11:28,08:32,1,1,10.0,Toronto Maple Leafs,TOR
+327,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030723,2022020030,Shot,723,SHOT,Mitchell Marner Wrist Shot saved by Anton Forsberg,2022-10-16T01:24:59Z,3,11:48,08:12,1,1,10.0,Toronto Maple Leafs,TOR
+328,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030680,2022020030,Stoppage,680,STOP,Offside,2022-10-16T01:25:04Z,3,11:53,08:07,1,1,,,
+329,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030442,2022020030,Faceoff,442,FACEOFF,Mark Kastelic faceoff won against Auston Matthews,2022-10-16T01:27:26Z,3,11:53,08:07,1,1,9.0,Ottawa Senators,OTT
+330,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030681,2022020030,Hit,681,HIT,Nikita Zaitsev hit Michael Bunting,2022-10-16T01:27:44Z,3,12:11,07:49,1,1,9.0,Ottawa Senators,OTT
+331,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030682,2022020030,Hit,682,HIT,Parker Kelly hit Morgan Rielly,2022-10-16T01:27:56Z,3,12:23,07:37,1,1,9.0,Ottawa Senators,OTT
+332,10,9,Toronto Maple Leafs,Ottawa Senators,20220200301013,2022020030,Penalty,1013,PENALTY,Parker Kelly Interference against TJ Brodie,2022-10-16T01:28:02Z,3,12:29,07:31,1,1,9.0,Ottawa Senators,OTT
+333,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030443,2022020030,Faceoff,443,FACEOFF,John Tavares faceoff won against Tyler Motte,2022-10-16T01:29:28Z,3,12:29,07:31,1,1,10.0,Toronto Maple Leafs,TOR
+334,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030725,2022020030,Blocked Shot,725,BLOCKED_SHOT,Morgan Rielly shot blocked shot by Jake Sanderson,2022-10-16T01:29:40Z,3,12:41,07:19,1,1,9.0,Ottawa Senators,OTT
+335,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030726,2022020030,Blocked Shot,726,BLOCKED_SHOT,Tyler Motte shot blocked shot by Morgan Rielly,2022-10-16T01:29:49Z,3,12:50,07:10,1,1,10.0,Toronto Maple Leafs,TOR
+336,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030444,2022020030,Takeaway,444,TAKEAWAY,Takeaway by Nikita Zaitsev,2022-10-16T01:29:57Z,3,12:58,07:02,1,1,9.0,Ottawa Senators,OTT
+337,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030684,2022020030,Stoppage,684,STOP,Offside,2022-10-16T01:30:02Z,3,13:03,06:57,1,1,,,
+338,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030445,2022020030,Faceoff,445,FACEOFF,John Tavares faceoff won against Josh Norris,2022-10-16T01:30:27Z,3,13:03,06:57,1,1,10.0,Toronto Maple Leafs,TOR
+339,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030446,2022020030,Takeaway,446,TAKEAWAY,Takeaway by Mitchell Marner,2022-10-16T01:30:45Z,3,13:21,06:39,1,1,10.0,Toronto Maple Leafs,TOR
+340,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030727,2022020030,Goal,727,GOAL,"William Nylander (2) Wrist Shot, assists: Auston Matthews (1), John Tavares (3)",2022-10-16T01:30:48Z,3,13:24,06:36,2,1,10.0,Toronto Maple Leafs,TOR
+341,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030447,2022020030,Faceoff,447,FACEOFF,Tim Stützle faceoff won against Calle Jarnkrok,2022-10-16T01:31:46Z,3,13:24,06:36,2,1,9.0,Ottawa Senators,OTT
+342,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030685,2022020030,Stoppage,685,STOP,Icing,2022-10-16T01:31:59Z,3,13:37,06:23,2,1,,,
+343,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030448,2022020030,Faceoff,448,FACEOFF,Calle Jarnkrok faceoff won against Brady Tkachuk,2022-10-16T01:32:31Z,3,13:37,06:23,2,1,10.0,Toronto Maple Leafs,TOR
+344,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030449,2022020030,Giveaway,449,GIVEAWAY,Giveaway by Alexander Kerfoot,2022-10-16T01:32:39Z,3,13:45,06:15,2,1,10.0,Toronto Maple Leafs,TOR
+345,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030686,2022020030,Hit,686,HIT,Artem Zub hit Pierre Engvall,2022-10-16T01:32:58Z,3,14:04,05:56,2,1,9.0,Ottawa Senators,OTT
+346,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030728,2022020030,Blocked Shot,728,BLOCKED_SHOT,Drake Batherson shot blocked shot by TJ Brodie,2022-10-16T01:33:06Z,3,14:12,05:48,2,1,10.0,Toronto Maple Leafs,TOR
+347,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030687,2022020030,Hit,687,HIT,Morgan Rielly hit Alex DeBrincat,2022-10-16T01:33:30Z,3,14:36,05:24,2,1,10.0,Toronto Maple Leafs,TOR
+348,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030688,2022020030,Stoppage,688,STOP,Goalie Stopped,2022-10-16T01:33:33Z,3,14:39,05:21,2,1,,,
+349,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030729,2022020030,Shot,729,SHOT,Travis Hamonic Snap Shot saved by Ilya Samsonov,2022-10-16T01:33:33Z,3,14:39,05:21,2,1,9.0,Ottawa Senators,OTT
+350,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030450,2022020030,Faceoff,450,FACEOFF,Claude Giroux faceoff won against David Kampf,2022-10-16T01:35:48Z,3,14:39,05:21,2,1,9.0,Ottawa Senators,OTT
+351,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030730,2022020030,Goal,730,GOAL,"Claude Giroux (1) Wrist Shot, assists: Alex DeBrincat (1), Thomas Chabot (1)",2022-10-16T01:35:58Z,3,14:49,05:11,2,2,9.0,Ottawa Senators,OTT
+352,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030742,2022020030,Shot,742,SHOT,Claude Giroux Snap Shot saved by Ilya Samsonov,2022-10-16T01:35:58Z,3,14:49,05:11,2,2,9.0,Ottawa Senators,OTT
+353,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030801,2022020030,Faceoff,801,FACEOFF,Shane Pinto faceoff won against John Tavares,2022-10-16T01:36:44Z,3,14:49,05:11,2,2,9.0,Ottawa Senators,OTT
+354,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030689,2022020030,Stoppage,689,STOP,Icing,2022-10-16T01:36:50Z,3,14:56,05:04,2,2,,,
+355,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030802,2022020030,Faceoff,802,FACEOFF,Shane Pinto faceoff won against John Tavares,2022-10-16T01:37:12Z,3,14:56,05:04,2,2,9.0,Ottawa Senators,OTT
+356,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030690,2022020030,Hit,690,HIT,Jake Muzzin hit Tyler Motte,2022-10-16T01:37:41Z,3,15:25,04:35,2,2,10.0,Toronto Maple Leafs,TOR
+357,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030691,2022020030,Hit,691,HIT,Brady Tkachuk hit Justin Holl,2022-10-16T01:38:02Z,3,15:46,04:14,2,2,9.0,Ottawa Senators,OTT
+358,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030692,2022020030,Hit,692,HIT,Mitchell Marner hit Artem Zub,2022-10-16T01:38:14Z,3,15:58,04:02,2,2,10.0,Toronto Maple Leafs,TOR
+359,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030803,2022020030,Giveaway,803,GIVEAWAY,Giveaway by Drake Batherson,2022-10-16T01:38:17Z,3,16:01,03:59,2,2,9.0,Ottawa Senators,OTT
+360,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030693,2022020030,Stoppage,693,STOP,Puck in Netting,2022-10-16T01:38:29Z,3,16:12,03:48,2,2,,,
+361,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030804,2022020030,Faceoff,804,FACEOFF,Calle Jarnkrok faceoff won against Josh Norris,2022-10-16T01:39:01Z,3,16:12,03:48,2,2,10.0,Toronto Maple Leafs,TOR
+362,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030731,2022020030,Missed Shot,731,MISSED_SHOT,TJ Brodie Wide of Net Anton Forsberg,2022-10-16T01:39:43Z,3,16:54,03:06,2,2,10.0,Toronto Maple Leafs,TOR
+363,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030694,2022020030,Hit,694,HIT,Pierre Engvall hit Jake Sanderson,2022-10-16T01:39:50Z,3,17:01,02:59,2,2,10.0,Toronto Maple Leafs,TOR
+364,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030695,2022020030,Hit,695,HIT,Thomas Chabot hit Denis Malgin,2022-10-16T01:40:08Z,3,17:19,02:41,2,2,9.0,Ottawa Senators,OTT
+365,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030732,2022020030,Shot,732,SHOT,Michael Bunting Backhand saved by Anton Forsberg,2022-10-16T01:40:54Z,3,18:05,01:55,2,2,10.0,Toronto Maple Leafs,TOR
+366,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030733,2022020030,Goal,733,GOAL,"Justin Holl (1) Snap Shot, assists: Michael Bunting (1), Mitchell Marner (3)",2022-10-16T01:40:54Z,3,18:05,01:55,3,2,10.0,Toronto Maple Leafs,TOR
+367,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030805,2022020030,Faceoff,805,FACEOFF,Tim Stützle faceoff won against Calle Jarnkrok,2022-10-16T01:41:57Z,3,18:05,01:55,3,2,9.0,Ottawa Senators,OTT
+368,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030696,2022020030,Hit,696,HIT,Jake Muzzin hit Drake Batherson,2022-10-16T01:42:03Z,3,18:11,01:49,3,2,10.0,Toronto Maple Leafs,TOR
+369,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030806,2022020030,Takeaway,806,TAKEAWAY,Takeaway by Alexander Kerfoot,2022-10-16T01:42:40Z,3,18:48,01:12,3,2,10.0,Toronto Maple Leafs,TOR
+370,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030734,2022020030,Missed Shot,734,MISSED_SHOT,Tim Stützle Wide of Net Ilya Samsonov,2022-10-16T01:43:01Z,3,19:09,00:51,3,2,9.0,Ottawa Senators,OTT
+371,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030807,2022020030,Takeaway,807,TAKEAWAY,Takeaway by David Kampf,2022-10-16T01:43:05Z,3,19:13,00:47,3,2,10.0,Toronto Maple Leafs,TOR
+372,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030735,2022020030,Blocked Shot,735,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Thomas Chabot,2022-10-16T01:43:18Z,3,19:26,00:34,3,2,9.0,Ottawa Senators,OTT
+373,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030808,2022020030,Giveaway,808,GIVEAWAY,Giveaway by Mark Giordano,2022-10-16T01:43:48Z,3,19:56,00:04,3,2,10.0,Toronto Maple Leafs,TOR
+374,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030736,2022020030,Blocked Shot,736,BLOCKED_SHOT,Tyler Motte shot blocked shot by Mitchell Marner,2022-10-16T01:43:50Z,3,19:58,00:02,3,2,10.0,Toronto Maple Leafs,TOR
+375,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030737,2022020030,Period End,737,PERIOD_END,End of 3rd Period,2022-10-16T01:43:52Z,3,20:00,00:00,3,2,,,
+376,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030740,2022020030,Period Official,740,PERIOD_OFFICIAL,Period Official,2022-10-16T01:44:50Z,3,20:00,00:00,3,2,,,
+377,10,9,Toronto Maple Leafs,Ottawa Senators,2022020030741,2022020030,Game End,741,GAME_END,Game End,2022-10-16T01:44:52Z,3,20:00,00:00,3,2,,,
+378,10,9,Toronto Maple Leafs,Ottawa Senators,20220200301201,2022020030,Game Official,1201,GAME_OFFICIAL,Game Official,2022-10-16T04:31:03Z,3,20:00,00:00,3,2,,,

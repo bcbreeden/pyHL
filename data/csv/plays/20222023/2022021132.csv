@@ -1,0 +1,303 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,23,54,Vancouver Canucks,Vegas Golden Knights,20220211321,2022021132,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-03-22T01:12:23Z,1,00:00,20:00,0,0,,,
+1,23,54,Vancouver Canucks,Vegas Golden Knights,20220211325,2022021132,Period Ready,5,PERIOD_READY,Period Ready,2023-03-22T02:06:40Z,1,00:00,20:00,0,0,,,
+2,23,54,Vancouver Canucks,Vegas Golden Knights,202202113251,2022021132,Period Start,51,PERIOD_START,Period Start,2023-03-22T02:08:34Z,1,00:00,20:00,0,0,,,
+3,23,54,Vancouver Canucks,Vegas Golden Knights,202202113252,2022021132,Faceoff,52,FACEOFF,Teddy Blueger faceoff won against Nils Aman,2023-03-22T02:08:34Z,1,00:00,20:00,0,0,54.0,Vegas Golden Knights,VGK
+4,23,54,Vancouver Canucks,Vegas Golden Knights,20220211328,2022021132,Hit,8,HIT,Conor Garland hit Brett Howden,2023-03-22T02:08:41Z,1,00:07,19:53,0,0,23.0,Vancouver Canucks,VAN
+5,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132151,2022021132,Missed Shot,151,MISSED_SHOT,Brett Howden Wide of Net Thatcher Demko,2023-03-22T02:08:46Z,1,00:12,19:48,0,0,54.0,Vegas Golden Knights,VGK
+6,23,54,Vancouver Canucks,Vegas Golden Knights,20220211329,2022021132,Stoppage,9,STOP,Icing,2023-03-22T02:09:01Z,1,00:27,19:33,0,0,,,
+7,23,54,Vancouver Canucks,Vegas Golden Knights,202202113253,2022021132,Faceoff,53,FACEOFF,Teddy Blueger faceoff won against Elias Pettersson,2023-03-22T02:09:27Z,1,00:27,19:33,0,0,54.0,Vegas Golden Knights,VGK
+8,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132152,2022021132,Blocked Shot,152,BLOCKED_SHOT,Alec Martinez shot blocked shot by Anthony Beauvillier,2023-03-22T02:10:07Z,1,01:07,18:53,0,0,23.0,Vancouver Canucks,VAN
+9,23,54,Vancouver Canucks,Vegas Golden Knights,202202113210,2022021132,Stoppage,10,STOP,Icing,2023-03-22T02:10:23Z,1,01:23,18:37,0,0,,,
+10,23,54,Vancouver Canucks,Vegas Golden Knights,202202113254,2022021132,Faceoff,54,FACEOFF,Elias Pettersson faceoff won against William Karlsson,2023-03-22T02:10:45Z,1,01:23,18:37,0,0,23.0,Vancouver Canucks,VAN
+11,23,54,Vancouver Canucks,Vegas Golden Knights,202202113211,2022021132,Hit,11,HIT,Phillip Di Giuseppe hit Zach Whitecloud,2023-03-22T02:11:12Z,1,01:50,18:10,0,0,23.0,Vancouver Canucks,VAN
+12,23,54,Vancouver Canucks,Vegas Golden Knights,202202113212,2022021132,Hit,12,HIT,Christian Wolanin hit Reilly Smith,2023-03-22T02:11:40Z,1,02:18,17:42,0,0,23.0,Vancouver Canucks,VAN
+13,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132153,2022021132,Shot,153,SHOT,Sheldon Dries Snap Shot saved by Jonathan Quick,2023-03-22T02:11:50Z,1,02:28,17:32,0,0,23.0,Vancouver Canucks,VAN
+14,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132154,2022021132,Shot,154,SHOT,Sheldon Dries Tip-In saved by Jonathan Quick,2023-03-22T02:11:57Z,1,02:35,17:25,0,0,23.0,Vancouver Canucks,VAN
+15,23,54,Vancouver Canucks,Vegas Golden Knights,202202113213,2022021132,Giveaway,13,GIVEAWAY,Giveaway by Ethan Bear,2023-03-22T02:12:21Z,1,02:59,17:01,0,0,23.0,Vancouver Canucks,VAN
+16,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132155,2022021132,Goal,155,GOAL,"Phil Kessel (13) Wrist Shot, assists: none",2023-03-22T02:12:23Z,1,03:01,16:59,0,1,54.0,Vegas Golden Knights,VGK
+17,23,54,Vancouver Canucks,Vegas Golden Knights,202202113255,2022021132,Faceoff,55,FACEOFF,Teddy Blueger faceoff won against Nils Aman,2023-03-22T02:13:00Z,1,03:01,16:59,0,1,54.0,Vegas Golden Knights,VGK
+18,23,54,Vancouver Canucks,Vegas Golden Knights,202202113214,2022021132,Stoppage,14,STOP,Puck in Benches,2023-03-22T02:13:05Z,1,03:06,16:54,0,1,,,
+19,23,54,Vancouver Canucks,Vegas Golden Knights,202202113256,2022021132,Faceoff,56,FACEOFF,Teddy Blueger faceoff won against Nils Aman,2023-03-22T02:13:26Z,1,03:06,16:54,0,1,54.0,Vegas Golden Knights,VGK
+20,23,54,Vancouver Canucks,Vegas Golden Knights,202202113215,2022021132,Hit,15,HIT,Michael Amadio hit Quinn Hughes,2023-03-22T02:13:41Z,1,03:21,16:39,0,1,54.0,Vegas Golden Knights,VGK
+21,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132156,2022021132,Blocked Shot,156,BLOCKED_SHOT,Teddy Blueger shot blocked shot by Elias Pettersson,2023-03-22T02:14:09Z,1,03:49,16:11,0,1,23.0,Vancouver Canucks,VAN
+22,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132157,2022021132,Blocked Shot,157,BLOCKED_SHOT,Nicolas Hague shot blocked shot by Tyler Myers,2023-03-22T02:14:53Z,1,04:33,15:27,0,1,23.0,Vancouver Canucks,VAN
+23,23,54,Vancouver Canucks,Vegas Golden Knights,202202113216,2022021132,Hit,16,HIT,Nicolas Hague hit Andrei Kuzmenko,2023-03-22T02:14:59Z,1,04:39,15:21,0,1,54.0,Vegas Golden Knights,VGK
+24,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132158,2022021132,Shot,158,SHOT,Christian Wolanin Wrist Shot saved by Jonathan Quick,2023-03-22T02:16:00Z,1,05:40,14:20,0,1,23.0,Vancouver Canucks,VAN
+25,23,54,Vancouver Canucks,Vegas Golden Knights,202202113217,2022021132,Stoppage,17,STOP,Goalie Stopped,2023-03-22T02:16:01Z,1,05:41,14:19,0,1,,,
+26,23,54,Vancouver Canucks,Vegas Golden Knights,202202113257,2022021132,Faceoff,57,FACEOFF,Chandler Stephenson faceoff won against Sheldon Dries,2023-03-22T02:16:32Z,1,05:41,14:19,0,1,54.0,Vegas Golden Knights,VGK
+27,23,54,Vancouver Canucks,Vegas Golden Knights,202202113218,2022021132,Stoppage,18,STOP,Puck in Crowd,2023-03-22T02:16:38Z,1,05:46,14:14,0,1,,,
+28,23,54,Vancouver Canucks,Vegas Golden Knights,202202113258,2022021132,Faceoff,58,FACEOFF,Chandler Stephenson faceoff won against Sheldon Dries,2023-03-22T02:16:59Z,1,05:46,14:14,0,1,54.0,Vegas Golden Knights,VGK
+29,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132159,2022021132,Shot,159,SHOT,Shea Theodore Wrist Shot saved by Thatcher Demko,2023-03-22T02:17:15Z,1,06:02,13:58,0,1,54.0,Vegas Golden Knights,VGK
+30,23,54,Vancouver Canucks,Vegas Golden Knights,202202113219,2022021132,Hit,19,HIT,Ethan Bear hit Paul Cotter,2023-03-22T02:17:22Z,1,06:09,13:51,0,1,23.0,Vancouver Canucks,VAN
+31,23,54,Vancouver Canucks,Vegas Golden Knights,202202113259,2022021132,Takeaway,59,TAKEAWAY,Takeaway by Chandler Stephenson,2023-03-22T02:17:44Z,1,06:31,13:29,0,1,54.0,Vegas Golden Knights,VGK
+32,23,54,Vancouver Canucks,Vegas Golden Knights,202202113220,2022021132,Hit,20,HIT,Zach Whitecloud hit Dakota Joshua,2023-03-22T02:18:09Z,1,06:56,13:04,0,1,54.0,Vegas Golden Knights,VGK
+33,23,54,Vancouver Canucks,Vegas Golden Knights,202202113221,2022021132,Stoppage,21,STOP,Puck in Benches,2023-03-22T02:18:28Z,1,07:15,12:45,0,1,,,
+34,23,54,Vancouver Canucks,Vegas Golden Knights,202202113260,2022021132,Faceoff,60,FACEOFF,Jack Eichel faceoff won against J.T. Miller,2023-03-22T02:20:38Z,1,07:15,12:45,0,1,54.0,Vegas Golden Knights,VGK
+35,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132160,2022021132,Shot,160,SHOT,Alex Pietrangelo Snap Shot saved by Thatcher Demko,2023-03-22T02:20:51Z,1,07:28,12:32,0,1,54.0,Vegas Golden Knights,VGK
+36,23,54,Vancouver Canucks,Vegas Golden Knights,202202113222,2022021132,Hit,22,HIT,J.T. Miller hit Jonathan Marchessault,2023-03-22T02:20:59Z,1,07:36,12:24,0,1,23.0,Vancouver Canucks,VAN
+37,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132161,2022021132,Shot,161,SHOT,Ivan Barbashev Snap Shot saved by Thatcher Demko,2023-03-22T02:21:00Z,1,07:37,12:23,0,1,54.0,Vegas Golden Knights,VGK
+38,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132162,2022021132,Blocked Shot,162,BLOCKED_SHOT,Ivan Barbashev shot blocked shot by Guillaume Brisebois,2023-03-22T02:21:17Z,1,07:54,12:06,0,1,23.0,Vancouver Canucks,VAN
+39,23,54,Vancouver Canucks,Vegas Golden Knights,202202113223,2022021132,Hit,23,HIT,Dakota Joshua hit Nicolas Hague,2023-03-22T02:22:43Z,1,09:20,10:40,0,1,23.0,Vancouver Canucks,VAN
+40,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132163,2022021132,Blocked Shot,163,BLOCKED_SHOT,Christian Wolanin shot blocked shot by Nicolas Hague,2023-03-22T02:22:50Z,1,09:27,10:33,0,1,54.0,Vegas Golden Knights,VGK
+41,23,54,Vancouver Canucks,Vegas Golden Knights,202202113224,2022021132,Stoppage,24,STOP,Icing,2023-03-22T02:23:31Z,1,10:08,09:52,0,1,,,
+42,23,54,Vancouver Canucks,Vegas Golden Knights,202202113261,2022021132,Faceoff,61,FACEOFF,Sheldon Dries faceoff won against Jack Eichel,2023-03-22T02:23:59Z,1,10:08,09:52,0,1,23.0,Vancouver Canucks,VAN
+43,23,54,Vancouver Canucks,Vegas Golden Knights,202202113225,2022021132,Hit,25,HIT,J.T. Miller hit Nicolas Hague,2023-03-22T02:24:45Z,1,10:54,09:06,0,1,23.0,Vancouver Canucks,VAN
+44,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132164,2022021132,Shot,164,SHOT,Brett Howden Wrist Shot saved by Thatcher Demko,2023-03-22T02:24:50Z,1,10:59,09:01,0,1,54.0,Vegas Golden Knights,VGK
+45,23,54,Vancouver Canucks,Vegas Golden Knights,202202113226,2022021132,Stoppage,26,STOP,Goalie Stopped,2023-03-22T02:24:52Z,1,11:01,08:59,0,1,,,
+46,23,54,Vancouver Canucks,Vegas Golden Knights,202202113262,2022021132,Faceoff,62,FACEOFF,Elias Pettersson faceoff won against Brett Howden,2023-03-22T02:27:24Z,1,11:01,08:59,0,1,23.0,Vancouver Canucks,VAN
+47,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132165,2022021132,Shot,165,SHOT,Andrei Kuzmenko Wrist Shot saved by Jonathan Quick,2023-03-22T02:27:31Z,1,11:08,08:52,0,1,23.0,Vancouver Canucks,VAN
+48,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132184,2022021132,Blocked Shot,184,BLOCKED_SHOT,Anthony Beauvillier shot blocked shot by Teddy Blueger,2023-03-22T02:27:53Z,1,11:30,08:30,0,1,54.0,Vegas Golden Knights,VGK
+49,23,54,Vancouver Canucks,Vegas Golden Knights,202202113227,2022021132,Hit,27,HIT,Anthony Beauvillier hit Nicolas Hague,2023-03-22T02:27:59Z,1,11:36,08:24,0,1,23.0,Vancouver Canucks,VAN
+50,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132166,2022021132,Blocked Shot,166,BLOCKED_SHOT,Andrei Kuzmenko shot blocked shot by Zach Whitecloud,2023-03-22T02:28:03Z,1,11:40,08:20,0,1,54.0,Vegas Golden Knights,VGK
+51,23,54,Vancouver Canucks,Vegas Golden Knights,202202113263,2022021132,Giveaway,63,GIVEAWAY,Giveaway by Brock Boeser,2023-03-22T02:28:31Z,1,12:08,07:52,0,1,23.0,Vancouver Canucks,VAN
+52,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132167,2022021132,Goal,167,GOAL,"Reilly Smith (24) Snap Shot, assists: William Karlsson (33)",2023-03-22T02:28:35Z,1,12:11,07:49,0,2,54.0,Vegas Golden Knights,VGK
+53,23,54,Vancouver Canucks,Vegas Golden Knights,202202113264,2022021132,Faceoff,64,FACEOFF,Nils Aman faceoff won against Chandler Stephenson,2023-03-22T02:29:11Z,1,12:11,07:49,0,2,23.0,Vancouver Canucks,VAN
+54,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132168,2022021132,Missed Shot,168,MISSED_SHOT,Quinn Hughes Wide of Net Jonathan Quick,2023-03-22T02:29:29Z,1,12:29,07:31,0,2,23.0,Vancouver Canucks,VAN
+55,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132169,2022021132,Missed Shot,169,MISSED_SHOT,Phil Kessel Wide of Net Thatcher Demko,2023-03-22T02:29:34Z,1,12:34,07:26,0,2,54.0,Vegas Golden Knights,VGK
+56,23,54,Vancouver Canucks,Vegas Golden Knights,202202113229,2022021132,Stoppage,29,STOP,Puck in Netting,2023-03-22T02:30:10Z,1,13:11,06:49,0,2,,,
+57,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132323,2022021132,Penalty,323,PENALTY,Tyler Myers Slashing against Paul Cotter,2023-03-22T02:30:10Z,1,13:11,06:49,0,2,23.0,Vancouver Canucks,VAN
+58,23,54,Vancouver Canucks,Vegas Golden Knights,202202113265,2022021132,Faceoff,65,FACEOFF,Chandler Stephenson faceoff won against J.T. Miller,2023-03-22T02:30:49Z,1,13:11,06:49,0,2,54.0,Vegas Golden Knights,VGK
+59,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132170,2022021132,Missed Shot,170,MISSED_SHOT,Jonathan Marchessault Wide of Net Thatcher Demko,2023-03-22T02:30:58Z,1,13:20,06:40,0,2,54.0,Vegas Golden Knights,VGK
+60,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132171,2022021132,Shot,171,SHOT,Quinn Hughes Wrist Shot saved by Jonathan Quick,2023-03-22T02:31:04Z,1,13:26,06:34,0,2,23.0,Vancouver Canucks,VAN
+61,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132172,2022021132,Missed Shot,172,MISSED_SHOT,Jack Eichel Wide of Net Thatcher Demko,2023-03-22T02:31:51Z,1,14:13,05:47,0,2,54.0,Vegas Golden Knights,VGK
+62,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132331,2022021132,Penalty,331,PENALTY,Ethan Bear Hooking against Ivan Barbashev,2023-03-22T02:31:53Z,1,14:15,05:45,0,2,23.0,Vancouver Canucks,VAN
+63,23,54,Vancouver Canucks,Vegas Golden Knights,202202113266,2022021132,Faceoff,66,FACEOFF,William Karlsson faceoff won against J.T. Miller,2023-03-22T02:32:37Z,1,14:15,05:45,0,2,54.0,Vegas Golden Knights,VGK
+64,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132173,2022021132,Shot,173,SHOT,Alex Pietrangelo Slap Shot saved by Thatcher Demko,2023-03-22T02:33:04Z,1,14:42,05:18,0,2,54.0,Vegas Golden Knights,VGK
+65,23,54,Vancouver Canucks,Vegas Golden Knights,202202113230,2022021132,Stoppage,30,STOP,Goalie Stopped,2023-03-22T02:33:27Z,1,15:05,04:55,0,2,,,
+66,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132174,2022021132,Shot,174,SHOT,Pavel Dorofeyev Wrist Shot saved by Thatcher Demko,2023-03-22T02:33:27Z,1,15:05,04:55,0,2,54.0,Vegas Golden Knights,VGK
+67,23,54,Vancouver Canucks,Vegas Golden Knights,202202113267,2022021132,Faceoff,67,FACEOFF,Chandler Stephenson faceoff won against Elias Pettersson,2023-03-22T02:34:02Z,1,15:05,04:55,0,2,54.0,Vegas Golden Knights,VGK
+68,23,54,Vancouver Canucks,Vegas Golden Knights,202202113231,2022021132,Stoppage,31,STOP,Goalie Stopped,2023-03-22T02:34:06Z,1,15:09,04:51,0,2,,,
+69,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132175,2022021132,Shot,175,SHOT,Shea Theodore Slap Shot saved by Thatcher Demko,2023-03-22T02:34:06Z,1,15:09,04:51,0,2,54.0,Vegas Golden Knights,VGK
+70,23,54,Vancouver Canucks,Vegas Golden Knights,202202113268,2022021132,Faceoff,68,FACEOFF,Elias Pettersson faceoff won against Chandler Stephenson,2023-03-22T02:34:43Z,1,15:09,04:51,0,2,23.0,Vancouver Canucks,VAN
+71,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132176,2022021132,Shot,176,SHOT,Chandler Stephenson Wrist Shot saved by Thatcher Demko,2023-03-22T02:35:26Z,1,15:52,04:08,0,2,54.0,Vegas Golden Knights,VGK
+72,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132177,2022021132,Missed Shot,177,MISSED_SHOT,Ivan Barbashev Wide of Net Thatcher Demko,2023-03-22T02:35:28Z,1,15:54,04:06,0,2,54.0,Vegas Golden Knights,VGK
+73,23,54,Vancouver Canucks,Vegas Golden Knights,202202113269,2022021132,Giveaway,69,GIVEAWAY,Giveaway by Tyler Myers,2023-03-22T02:35:33Z,1,15:59,04:01,0,2,23.0,Vancouver Canucks,VAN
+74,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132178,2022021132,Blocked Shot,178,BLOCKED_SHOT,Jonathan Marchessault shot blocked shot by Tyler Myers,2023-03-22T02:35:36Z,1,16:02,03:58,0,2,23.0,Vancouver Canucks,VAN
+75,23,54,Vancouver Canucks,Vegas Golden Knights,202202113232,2022021132,Stoppage,32,STOP,Offside,2023-03-22T02:35:46Z,1,16:13,03:47,0,2,,,
+76,23,54,Vancouver Canucks,Vegas Golden Knights,202202113270,2022021132,Faceoff,70,FACEOFF,Teddy Blueger faceoff won against Nils Aman,2023-03-22T02:36:19Z,1,16:13,03:47,0,2,54.0,Vegas Golden Knights,VGK
+77,23,54,Vancouver Canucks,Vegas Golden Knights,202202113233,2022021132,Stoppage,33,STOP,Goalie Stopped,2023-03-22T02:37:18Z,1,17:12,02:48,0,2,,,
+78,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132179,2022021132,Shot,179,SHOT,Pavel Dorofeyev Wrist Shot saved by Thatcher Demko,2023-03-22T02:37:18Z,1,17:12,02:48,0,2,54.0,Vegas Golden Knights,VGK
+79,23,54,Vancouver Canucks,Vegas Golden Knights,202202113271,2022021132,Faceoff,71,FACEOFF,Sheldon Dries faceoff won against William Karlsson,2023-03-22T02:39:28Z,1,17:12,02:48,0,2,23.0,Vancouver Canucks,VAN
+80,23,54,Vancouver Canucks,Vegas Golden Knights,202202113234,2022021132,Stoppage,34,STOP,Puck in Netting,2023-03-22T02:40:22Z,1,18:05,01:55,0,2,,,
+81,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132180,2022021132,Blocked Shot,180,BLOCKED_SHOT,Paul Cotter shot blocked shot by Tyler Myers,2023-03-22T02:40:22Z,1,18:05,01:55,0,2,23.0,Vancouver Canucks,VAN
+82,23,54,Vancouver Canucks,Vegas Golden Knights,202202113272,2022021132,Faceoff,72,FACEOFF,Chandler Stephenson faceoff won against J.T. Miller,2023-03-22T02:40:52Z,1,18:05,01:55,0,2,54.0,Vegas Golden Knights,VGK
+83,23,54,Vancouver Canucks,Vegas Golden Knights,202202113235,2022021132,Hit,35,HIT,Paul Cotter hit Brock Boeser,2023-03-22T02:41:08Z,1,18:21,01:39,0,2,54.0,Vegas Golden Knights,VGK
+84,23,54,Vancouver Canucks,Vegas Golden Knights,202202113273,2022021132,Giveaway,73,GIVEAWAY,Giveaway by Phillip Di Giuseppe,2023-03-22T02:41:17Z,1,18:30,01:30,0,2,23.0,Vancouver Canucks,VAN
+85,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132181,2022021132,Shot,181,SHOT,Jack Eichel Wrist Shot saved by Thatcher Demko,2023-03-22T02:41:40Z,1,18:53,01:07,0,2,54.0,Vegas Golden Knights,VGK
+86,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132182,2022021132,Shot,182,SHOT,Jack Eichel Backhand saved by Thatcher Demko,2023-03-22T02:42:15Z,1,19:28,00:32,0,2,54.0,Vegas Golden Knights,VGK
+87,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132183,2022021132,Shot,183,SHOT,Michael Amadio Wrist Shot saved by Thatcher Demko,2023-03-22T02:42:42Z,1,19:55,00:05,0,2,54.0,Vegas Golden Knights,VGK
+88,23,54,Vancouver Canucks,Vegas Golden Knights,202202113236,2022021132,Period End,36,PERIOD_END,End of 1st Period,2023-03-22T02:42:47Z,1,20:00,00:00,0,2,,,
+89,23,54,Vancouver Canucks,Vegas Golden Knights,202202113240,2022021132,Period Official,40,PERIOD_OFFICIAL,Period Official,2023-03-22T02:48:05Z,1,20:00,00:00,0,2,,,
+90,23,54,Vancouver Canucks,Vegas Golden Knights,202202113241,2022021132,Period Ready,41,PERIOD_READY,Period Ready,2023-03-22T03:01:43Z,2,00:00,20:00,0,2,,,
+91,23,54,Vancouver Canucks,Vegas Golden Knights,202202113274,2022021132,Period Start,74,PERIOD_START,Period Start,2023-03-22T03:01:51Z,2,00:00,20:00,0,2,,,
+92,23,54,Vancouver Canucks,Vegas Golden Knights,202202113275,2022021132,Faceoff,75,FACEOFF,Teddy Blueger faceoff won against Elias Pettersson,2023-03-22T03:01:51Z,2,00:00,20:00,0,2,54.0,Vegas Golden Knights,VGK
+93,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132185,2022021132,Shot,185,SHOT,Teddy Blueger Deflected saved by Thatcher Demko,2023-03-22T03:02:06Z,2,00:15,19:45,0,2,54.0,Vegas Golden Knights,VGK
+94,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132186,2022021132,Missed Shot,186,MISSED_SHOT,Shea Theodore Wide of Net Thatcher Demko,2023-03-22T03:02:08Z,2,00:17,19:43,0,2,54.0,Vegas Golden Knights,VGK
+95,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132187,2022021132,Shot,187,SHOT,Anthony Beauvillier Wrist Shot saved by Jonathan Quick,2023-03-22T03:02:21Z,2,00:30,19:30,0,2,23.0,Vancouver Canucks,VAN
+96,23,54,Vancouver Canucks,Vegas Golden Knights,202202113242,2022021132,Hit,42,HIT,J.T. Miller hit Brayden McNabb,2023-03-22T03:02:38Z,2,00:47,19:13,0,2,23.0,Vancouver Canucks,VAN
+97,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132188,2022021132,Shot,188,SHOT,Brock Boeser Backhand saved by Jonathan Quick,2023-03-22T03:02:51Z,2,01:00,19:00,0,2,23.0,Vancouver Canucks,VAN
+98,23,54,Vancouver Canucks,Vegas Golden Knights,202202113243,2022021132,Hit,43,HIT,Brock Boeser hit Ivan Barbashev,2023-03-22T03:02:57Z,2,01:06,18:54,0,2,23.0,Vancouver Canucks,VAN
+99,23,54,Vancouver Canucks,Vegas Golden Knights,202202113276,2022021132,Takeaway,76,TAKEAWAY,Takeaway by Brock Boeser,2023-03-22T03:03:09Z,2,01:18,18:42,0,2,23.0,Vancouver Canucks,VAN
+100,23,54,Vancouver Canucks,Vegas Golden Knights,202202113244,2022021132,Stoppage,44,STOP,Goalie Stopped,2023-03-22T03:03:14Z,2,01:23,18:37,0,2,,,
+101,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132189,2022021132,Shot,189,SHOT,Tyler Myers Slap Shot saved by Jonathan Quick,2023-03-22T03:03:14Z,2,01:23,18:37,0,2,23.0,Vancouver Canucks,VAN
+102,23,54,Vancouver Canucks,Vegas Golden Knights,202202113277,2022021132,Faceoff,77,FACEOFF,Reilly Smith faceoff won against Nils Aman,2023-03-22T03:04:09Z,2,01:23,18:37,0,2,54.0,Vegas Golden Knights,VGK
+103,23,54,Vancouver Canucks,Vegas Golden Knights,202202113278,2022021132,Takeaway,78,TAKEAWAY,Takeaway by Nils Aman,2023-03-22T03:04:21Z,2,01:35,18:25,0,2,23.0,Vancouver Canucks,VAN
+104,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132190,2022021132,Missed Shot,190,MISSED_SHOT,Dakota Joshua Wide of Net Jonathan Quick,2023-03-22T03:04:26Z,2,01:40,18:20,0,2,23.0,Vancouver Canucks,VAN
+105,23,54,Vancouver Canucks,Vegas Golden Knights,202202113245,2022021132,Hit,45,HIT,Ethan Bear hit Pavel Dorofeyev,2023-03-22T03:04:29Z,2,01:43,18:17,0,2,23.0,Vancouver Canucks,VAN
+106,23,54,Vancouver Canucks,Vegas Golden Knights,202202113246,2022021132,Stoppage,46,STOP,Hand Pass,2023-03-22T03:04:39Z,2,01:53,18:07,0,2,,,
+107,23,54,Vancouver Canucks,Vegas Golden Knights,202202113279,2022021132,Faceoff,79,FACEOFF,Chandler Stephenson faceoff won against Sheldon Dries,2023-03-22T03:05:01Z,2,01:53,18:07,0,2,54.0,Vegas Golden Knights,VGK
+108,23,54,Vancouver Canucks,Vegas Golden Knights,202202113280,2022021132,Takeaway,80,TAKEAWAY,Takeaway by Vitali Kravtsov,2023-03-22T03:05:13Z,2,02:05,17:55,0,2,23.0,Vancouver Canucks,VAN
+109,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132191,2022021132,Shot,191,SHOT,Vitali Kravtsov Wrist Shot saved by Jonathan Quick,2023-03-22T03:05:13Z,2,02:05,17:55,0,2,23.0,Vancouver Canucks,VAN
+110,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132192,2022021132,Shot,192,SHOT,Sheldon Dries Wrist Shot saved by Jonathan Quick,2023-03-22T03:05:14Z,2,02:06,17:54,0,2,23.0,Vancouver Canucks,VAN
+111,23,54,Vancouver Canucks,Vegas Golden Knights,202202113247,2022021132,Stoppage,47,STOP,Offside,2023-03-22T03:05:41Z,2,02:32,17:28,0,2,,,
+112,23,54,Vancouver Canucks,Vegas Golden Knights,202202113281,2022021132,Faceoff,81,FACEOFF,Teddy Blueger faceoff won against Elias Pettersson,2023-03-22T03:06:06Z,2,02:32,17:28,0,2,54.0,Vegas Golden Knights,VGK
+113,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132193,2022021132,Shot,193,SHOT,Anthony Beauvillier Wrist Shot saved by Jonathan Quick,2023-03-22T03:06:29Z,2,02:55,17:05,0,2,23.0,Vancouver Canucks,VAN
+114,23,54,Vancouver Canucks,Vegas Golden Knights,202202113248,2022021132,Stoppage,48,STOP,Puck in Netting,2023-03-22T03:06:35Z,2,03:01,16:59,0,2,,,
+115,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132194,2022021132,Blocked Shot,194,BLOCKED_SHOT,Ethan Bear shot blocked shot by Michael Amadio,2023-03-22T03:06:35Z,2,03:01,16:59,0,2,54.0,Vegas Golden Knights,VGK
+116,23,54,Vancouver Canucks,Vegas Golden Knights,202202113282,2022021132,Faceoff,82,FACEOFF,J.T. Miller faceoff won against Jack Eichel,2023-03-22T03:07:05Z,2,03:01,16:59,0,2,23.0,Vancouver Canucks,VAN
+117,23,54,Vancouver Canucks,Vegas Golden Knights,202202113249,2022021132,Hit,49,HIT,Brock Boeser hit Jonathan Marchessault,2023-03-22T03:07:38Z,2,03:34,16:26,0,2,23.0,Vancouver Canucks,VAN
+118,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132196,2022021132,Blocked Shot,196,BLOCKED_SHOT,Brock Boeser shot blocked shot by Alec Martinez,2023-03-22T03:07:47Z,2,03:43,16:17,0,2,54.0,Vegas Golden Knights,VGK
+119,23,54,Vancouver Canucks,Vegas Golden Knights,202202113250,2022021132,Stoppage,50,STOP,Icing,2023-03-22T03:08:11Z,2,04:07,15:53,0,2,,,
+120,23,54,Vancouver Canucks,Vegas Golden Knights,202202113283,2022021132,Faceoff,83,FACEOFF,Nils Aman faceoff won against Jack Eichel,2023-03-22T03:08:37Z,2,04:07,15:53,0,2,23.0,Vancouver Canucks,VAN
+121,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132251,2022021132,Stoppage,251,STOP,Offside,2023-03-22T03:09:29Z,2,04:59,15:01,0,2,,,
+122,23,54,Vancouver Canucks,Vegas Golden Knights,202202113284,2022021132,Faceoff,84,FACEOFF,Elias Pettersson faceoff won against William Karlsson,2023-03-22T03:09:57Z,2,04:59,15:01,0,2,23.0,Vancouver Canucks,VAN
+123,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132252,2022021132,Hit,252,HIT,Kyle Burroughs hit Reilly Smith,2023-03-22T03:10:05Z,2,05:07,14:53,0,2,23.0,Vancouver Canucks,VAN
+124,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132253,2022021132,Hit,253,HIT,Kyle Burroughs hit Reilly Smith,2023-03-22T03:10:24Z,2,05:26,14:34,0,2,23.0,Vancouver Canucks,VAN
+125,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132254,2022021132,Stoppage,254,STOP,Icing,2023-03-22T03:10:41Z,2,05:44,14:16,0,2,,,
+126,23,54,Vancouver Canucks,Vegas Golden Knights,202202113285,2022021132,Faceoff,85,FACEOFF,J.T. Miller faceoff won against William Karlsson,2023-03-22T03:11:11Z,2,05:44,14:16,0,2,23.0,Vancouver Canucks,VAN
+127,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132255,2022021132,Hit,255,HIT,Phillip Di Giuseppe hit Chandler Stephenson,2023-03-22T03:11:49Z,2,06:22,13:38,0,2,23.0,Vancouver Canucks,VAN
+128,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132256,2022021132,Hit,256,HIT,J.T. Miller hit Brayden McNabb,2023-03-22T03:11:57Z,2,06:30,13:30,0,2,23.0,Vancouver Canucks,VAN
+129,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132198,2022021132,Blocked Shot,198,BLOCKED_SHOT,Vitali Kravtsov shot blocked shot by Shea Theodore,2023-03-22T03:12:05Z,2,06:38,13:22,0,2,54.0,Vegas Golden Knights,VGK
+130,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132257,2022021132,Stoppage,257,STOP,Puck in Netting,2023-03-22T03:12:06Z,2,06:39,13:21,0,2,,,
+131,23,54,Vancouver Canucks,Vegas Golden Knights,202202113286,2022021132,Faceoff,86,FACEOFF,Sheldon Dries faceoff won against Chandler Stephenson,2023-03-22T03:14:16Z,2,06:39,13:21,0,2,23.0,Vancouver Canucks,VAN
+132,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132199,2022021132,Blocked Shot,199,BLOCKED_SHOT,Sheldon Dries shot blocked shot by Chandler Stephenson,2023-03-22T03:14:18Z,2,06:41,13:19,0,2,54.0,Vegas Golden Knights,VGK
+133,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132258,2022021132,Hit,258,HIT,Vasily Podkolzin hit Paul Cotter,2023-03-22T03:14:21Z,2,06:44,13:16,0,2,23.0,Vancouver Canucks,VAN
+134,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132259,2022021132,Hit,259,HIT,Sheldon Dries hit Alex Pietrangelo,2023-03-22T03:14:27Z,2,06:50,13:10,0,2,23.0,Vancouver Canucks,VAN
+135,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132200,2022021132,Shot,200,SHOT,Alec Martinez Wrist Shot saved by Thatcher Demko,2023-03-22T03:14:35Z,2,06:58,13:02,0,2,54.0,Vegas Golden Knights,VGK
+136,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132260,2022021132,Stoppage,260,STOP,Goalie Stopped,2023-03-22T03:14:35Z,2,06:58,13:02,0,2,,,
+137,23,54,Vancouver Canucks,Vegas Golden Knights,202202113287,2022021132,Faceoff,87,FACEOFF,J.T. Miller faceoff won against Jack Eichel,2023-03-22T03:15:11Z,2,06:58,13:02,0,2,23.0,Vancouver Canucks,VAN
+138,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132532,2022021132,Penalty,532,PENALTY,Brock Boeser Boarding against Zach Whitecloud,2023-03-22T03:15:29Z,2,07:16,12:44,0,2,23.0,Vancouver Canucks,VAN
+139,23,54,Vancouver Canucks,Vegas Golden Knights,202202113288,2022021132,Faceoff,88,FACEOFF,Chandler Stephenson faceoff won against J.T. Miller,2023-03-22T03:16:27Z,2,07:16,12:44,0,2,54.0,Vegas Golden Knights,VGK
+140,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132402,2022021132,Blocked Shot,402,BLOCKED_SHOT,Jack Eichel shot blocked shot by Tyler Myers,2023-03-22T03:16:57Z,2,07:46,12:14,0,2,23.0,Vancouver Canucks,VAN
+141,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132261,2022021132,Penalty,261,PENALTY,Shea Theodore PS - Slash on breakaway against J.T. Miller,2023-03-22T03:17:08Z,2,07:57,12:03,0,2,54.0,Vegas Golden Knights,VGK
+142,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132403,2022021132,Goal,403,GOAL,"J.T. Miller (27) Backhand, assists: none",2023-03-22T03:17:08Z,2,07:57,12:03,1,2,23.0,Vancouver Canucks,VAN
+143,23,54,Vancouver Canucks,Vegas Golden Knights,202202113289,2022021132,Faceoff,89,FACEOFF,Nils Aman faceoff won against William Karlsson,2023-03-22T03:18:46Z,2,07:57,12:03,1,2,23.0,Vancouver Canucks,VAN
+144,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132264,2022021132,Stoppage,264,STOP,Puck in Netting,2023-03-22T03:19:29Z,2,08:41,11:19,1,2,,,
+145,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132404,2022021132,Blocked Shot,404,BLOCKED_SHOT,Pavel Dorofeyev shot blocked shot by Tyler Myers,2023-03-22T03:19:29Z,2,08:41,11:19,1,2,23.0,Vancouver Canucks,VAN
+146,23,54,Vancouver Canucks,Vegas Golden Knights,202202113290,2022021132,Faceoff,90,FACEOFF,William Karlsson faceoff won against J.T. Miller,2023-03-22T03:19:56Z,2,08:41,11:19,1,2,54.0,Vegas Golden Knights,VGK
+147,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132405,2022021132,Missed Shot,405,MISSED_SHOT,Phil Kessel Wide of Net Thatcher Demko,2023-03-22T03:19:59Z,2,08:44,11:16,1,2,54.0,Vegas Golden Knights,VGK
+148,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132406,2022021132,Missed Shot,406,MISSED_SHOT,Alex Pietrangelo Wide of Net Thatcher Demko,2023-03-22T03:20:31Z,2,09:16,10:44,1,2,54.0,Vegas Golden Knights,VGK
+149,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132265,2022021132,Stoppage,265,STOP,Goalie Stopped,2023-03-22T03:20:49Z,2,09:34,10:26,1,2,,,
+150,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132407,2022021132,Shot,407,SHOT,Alex Pietrangelo Wrist Shot saved by Thatcher Demko,2023-03-22T03:20:49Z,2,09:34,10:26,1,2,54.0,Vegas Golden Knights,VGK
+151,23,54,Vancouver Canucks,Vegas Golden Knights,202202113291,2022021132,Faceoff,91,FACEOFF,Brett Howden faceoff won against Sheldon Dries,2023-03-22T03:21:27Z,2,09:34,10:26,1,2,54.0,Vegas Golden Knights,VGK
+152,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132266,2022021132,Stoppage,266,STOP,Goalie Stopped,2023-03-22T03:21:32Z,2,09:39,10:21,1,2,,,
+153,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132408,2022021132,Shot,408,SHOT,Nicolas Hague Slap Shot saved by Thatcher Demko,2023-03-22T03:21:32Z,2,09:39,10:21,1,2,54.0,Vegas Golden Knights,VGK
+154,23,54,Vancouver Canucks,Vegas Golden Knights,202202113292,2022021132,Faceoff,92,FACEOFF,Sheldon Dries faceoff won against Teddy Blueger,2023-03-22T03:21:55Z,2,09:39,10:21,1,2,23.0,Vancouver Canucks,VAN
+155,23,54,Vancouver Canucks,Vegas Golden Knights,202202113293,2022021132,Takeaway,93,TAKEAWAY,Takeaway by Michael Amadio,2023-03-22T03:22:27Z,2,10:11,09:49,1,2,54.0,Vegas Golden Knights,VGK
+156,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132410,2022021132,Goal,410,GOAL,"Teddy Blueger (4) Wrist Shot, assists: Brett Howden (7), Nicolas Hague (13)",2023-03-22T03:22:38Z,2,10:22,09:38,1,3,54.0,Vegas Golden Knights,VGK
+157,23,54,Vancouver Canucks,Vegas Golden Knights,202202113294,2022021132,Faceoff,94,FACEOFF,Elias Pettersson faceoff won against Chandler Stephenson,2023-03-22T03:23:20Z,2,10:22,09:38,1,3,23.0,Vancouver Canucks,VAN
+158,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132267,2022021132,Hit,267,HIT,Paul Cotter hit Ethan Bear,2023-03-22T03:23:25Z,2,10:27,09:33,1,3,54.0,Vegas Golden Knights,VGK
+159,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132268,2022021132,Stoppage,268,STOP,Goalie Stopped,2023-03-22T03:23:46Z,2,10:48,09:12,1,3,,,
+160,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132411,2022021132,Shot,411,SHOT,Shea Theodore Wrist Shot saved by Thatcher Demko,2023-03-22T03:23:46Z,2,10:48,09:12,1,3,54.0,Vegas Golden Knights,VGK
+161,23,54,Vancouver Canucks,Vegas Golden Knights,202202113295,2022021132,Faceoff,95,FACEOFF,Elias Pettersson faceoff won against Chandler Stephenson,2023-03-22T03:25:52Z,2,10:48,09:12,1,3,23.0,Vancouver Canucks,VAN
+162,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132412,2022021132,Missed Shot,412,MISSED_SHOT,Andrei Kuzmenko Wide of Net Jonathan Quick,2023-03-22T03:26:07Z,2,11:03,08:57,1,3,23.0,Vancouver Canucks,VAN
+163,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132413,2022021132,Shot,413,SHOT,Elias Pettersson Backhand saved by Jonathan Quick,2023-03-22T03:26:08Z,2,11:04,08:56,1,3,23.0,Vancouver Canucks,VAN
+164,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132414,2022021132,Shot,414,SHOT,Andrei Kuzmenko Wrap-around saved by Jonathan Quick,2023-03-22T03:26:41Z,2,11:37,08:23,1,3,23.0,Vancouver Canucks,VAN
+165,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132553,2022021132,Penalty,553,PENALTY,Pavel Dorofeyev Hooking against Quinn Hughes,2023-03-22T03:26:58Z,2,11:53,08:07,1,3,54.0,Vegas Golden Knights,VGK
+166,23,54,Vancouver Canucks,Vegas Golden Knights,202202113296,2022021132,Faceoff,96,FACEOFF,Teddy Blueger faceoff won against J.T. Miller,2023-03-22T03:27:49Z,2,11:53,08:07,1,3,54.0,Vegas Golden Knights,VGK
+167,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132557,2022021132,Penalty,557,PENALTY,Anthony Beauvillier Hooking against Alec Martinez,2023-03-22T03:27:53Z,2,11:58,08:02,1,3,23.0,Vancouver Canucks,VAN
+168,23,54,Vancouver Canucks,Vegas Golden Knights,202202113297,2022021132,Faceoff,97,FACEOFF,J.T. Miller faceoff won against Chandler Stephenson,2023-03-22T03:29:25Z,2,11:58,08:02,1,3,23.0,Vancouver Canucks,VAN
+169,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132415,2022021132,Shot,415,SHOT,Quinn Hughes Wrist Shot saved by Jonathan Quick,2023-03-22T03:29:39Z,2,12:12,07:48,1,3,23.0,Vancouver Canucks,VAN
+170,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132562,2022021132,Penalty,562,PENALTY,Chandler Stephenson Hooking against Ethan Bear,2023-03-22T03:29:39Z,2,12:12,07:48,1,3,54.0,Vegas Golden Knights,VGK
+171,23,54,Vancouver Canucks,Vegas Golden Knights,202202113298,2022021132,Faceoff,98,FACEOFF,William Karlsson faceoff won against J.T. Miller,2023-03-22T03:30:32Z,2,12:12,07:48,1,3,54.0,Vegas Golden Knights,VGK
+172,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132416,2022021132,Goal,416,GOAL,"J.T. Miller (28) Wrist Shot, assists: Quinn Hughes (61), Elias Pettersson (56)",2023-03-22T03:31:03Z,2,12:42,07:18,2,3,23.0,Vancouver Canucks,VAN
+173,23,54,Vancouver Canucks,Vegas Golden Knights,202202113299,2022021132,Faceoff,99,FACEOFF,Nils Aman faceoff won against William Karlsson,2023-03-22T03:31:54Z,2,12:42,07:18,2,3,23.0,Vancouver Canucks,VAN
+174,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132100,2022021132,Takeaway,100,TAKEAWAY,Takeaway by Quinn Hughes,2023-03-22T03:33:09Z,2,13:57,06:03,2,3,23.0,Vancouver Canucks,VAN
+175,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132270,2022021132,Stoppage,270,STOP,Puck in Netting,2023-03-22T03:33:15Z,2,14:04,05:56,2,3,,,
+176,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132417,2022021132,Blocked Shot,417,BLOCKED_SHOT,Quinn Hughes shot blocked shot by Jack Eichel,2023-03-22T03:33:15Z,2,14:04,05:56,2,3,54.0,Vegas Golden Knights,VGK
+177,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132451,2022021132,Faceoff,451,FACEOFF,Teddy Blueger faceoff won against Elias Pettersson,2023-03-22T03:33:46Z,2,14:04,05:56,2,3,54.0,Vegas Golden Knights,VGK
+178,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132271,2022021132,Hit,271,HIT,Kyle Burroughs hit Alex Pietrangelo,2023-03-22T03:34:13Z,2,14:31,05:29,2,3,23.0,Vancouver Canucks,VAN
+179,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132418,2022021132,Blocked Shot,418,BLOCKED_SHOT,Alex Pietrangelo shot blocked shot by Ethan Bear,2023-03-22T03:34:26Z,2,14:44,05:16,2,3,23.0,Vancouver Canucks,VAN
+180,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132272,2022021132,Stoppage,272,STOP,Hand Pass,2023-03-22T03:34:31Z,2,14:49,05:11,2,3,,,
+181,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132453,2022021132,Faceoff,453,FACEOFF,Jack Eichel faceoff won against J.T. Miller,2023-03-22T03:36:52Z,2,14:49,05:11,2,3,54.0,Vegas Golden Knights,VGK
+182,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132419,2022021132,Shot,419,SHOT,Jonathan Marchessault Wrist Shot saved by Thatcher Demko,2023-03-22T03:37:08Z,2,15:05,04:55,2,3,54.0,Vegas Golden Knights,VGK
+183,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132273,2022021132,Hit,273,HIT,J.T. Miller hit Ivan Barbashev,2023-03-22T03:37:16Z,2,15:13,04:47,2,3,23.0,Vancouver Canucks,VAN
+184,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132420,2022021132,Missed Shot,420,MISSED_SHOT,Ivan Barbashev Wide of Net Thatcher Demko,2023-03-22T03:37:27Z,2,15:24,04:36,2,3,54.0,Vegas Golden Knights,VGK
+185,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132422,2022021132,Blocked Shot,422,BLOCKED_SHOT,Jonathan Marchessault shot blocked shot by Ethan Bear,2023-03-22T03:37:54Z,2,15:47,04:13,2,3,23.0,Vancouver Canucks,VAN
+186,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132274,2022021132,Hit,274,HIT,Ivan Barbashev hit Vitali Kravtsov,2023-03-22T03:37:59Z,2,15:56,04:04,2,3,54.0,Vegas Golden Knights,VGK
+187,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132421,2022021132,Shot,421,SHOT,Vitali Kravtsov Wrist Shot saved by Jonathan Quick,2023-03-22T03:38:09Z,2,16:06,03:54,2,3,23.0,Vancouver Canucks,VAN
+188,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132275,2022021132,Stoppage,275,STOP,Goalie Stopped,2023-03-22T03:38:45Z,2,16:42,03:18,2,3,,,
+189,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132423,2022021132,Shot,423,SHOT,Anthony Beauvillier Backhand saved by Jonathan Quick,2023-03-22T03:38:45Z,2,16:42,03:18,2,3,23.0,Vancouver Canucks,VAN
+190,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132454,2022021132,Faceoff,454,FACEOFF,William Karlsson faceoff won against Elias Pettersson,2023-03-22T03:39:21Z,2,16:42,03:18,2,3,54.0,Vegas Golden Knights,VGK
+191,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132424,2022021132,Goal,424,GOAL,"Pavel Dorofeyev (4) Tip-In, assists: Alex Pietrangelo (37), William Karlsson (34)",2023-03-22T03:39:58Z,2,17:19,02:41,2,4,54.0,Vegas Golden Knights,VGK
+192,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132455,2022021132,Faceoff,455,FACEOFF,Teddy Blueger faceoff won against Nils Aman,2023-03-22T03:40:40Z,2,17:19,02:41,2,4,54.0,Vegas Golden Knights,VGK
+193,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132276,2022021132,Hit,276,HIT,Brayden McNabb hit Nils Aman,2023-03-22T03:40:56Z,2,17:35,02:25,2,4,54.0,Vegas Golden Knights,VGK
+194,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132425,2022021132,Blocked Shot,425,BLOCKED_SHOT,Ethan Bear shot blocked shot by Brett Howden,2023-03-22T03:41:07Z,2,17:46,02:14,2,4,54.0,Vegas Golden Knights,VGK
+195,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132277,2022021132,Hit,277,HIT,Dakota Joshua hit Michael Amadio,2023-03-22T03:41:14Z,2,17:53,02:07,2,4,23.0,Vancouver Canucks,VAN
+196,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132456,2022021132,Giveaway,456,GIVEAWAY,Giveaway by Thatcher Demko,2023-03-22T03:41:23Z,2,18:02,01:58,2,4,23.0,Vancouver Canucks,VAN
+197,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132426,2022021132,Blocked Shot,426,BLOCKED_SHOT,Zach Whitecloud shot blocked shot by Dakota Joshua,2023-03-22T03:41:26Z,2,18:05,01:55,2,4,23.0,Vancouver Canucks,VAN
+198,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132427,2022021132,Shot,427,SHOT,Nicolas Hague Wrist Shot saved by Thatcher Demko,2023-03-22T03:42:02Z,2,18:41,01:19,2,4,54.0,Vegas Golden Knights,VGK
+199,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132457,2022021132,Giveaway,457,GIVEAWAY,Giveaway by Phillip Di Giuseppe,2023-03-22T03:42:07Z,2,18:46,01:14,2,4,23.0,Vancouver Canucks,VAN
+200,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132278,2022021132,Hit,278,HIT,Ivan Barbashev hit Guillaume Brisebois,2023-03-22T03:42:12Z,2,18:51,01:09,2,4,54.0,Vegas Golden Knights,VGK
+201,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132428,2022021132,Blocked Shot,428,BLOCKED_SHOT,Jonathan Marchessault shot blocked shot by Guillaume Brisebois,2023-03-22T03:42:41Z,2,19:20,00:40,2,4,23.0,Vancouver Canucks,VAN
+202,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132279,2022021132,Hit,279,HIT,Vasily Podkolzin hit Alec Martinez,2023-03-22T03:42:52Z,2,19:31,00:29,2,4,23.0,Vancouver Canucks,VAN
+203,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132429,2022021132,Shot,429,SHOT,Vasily Podkolzin Wrist Shot saved by Jonathan Quick,2023-03-22T03:43:18Z,2,19:57,00:03,2,4,23.0,Vancouver Canucks,VAN
+204,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132280,2022021132,Period End,280,PERIOD_END,End of 2nd Period,2023-03-22T03:43:22Z,2,20:00,00:00,2,4,,,
+205,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132283,2022021132,Period Official,283,PERIOD_OFFICIAL,Period Official,2023-03-22T03:47:06Z,2,20:00,00:00,2,4,,,
+206,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132284,2022021132,Period Ready,284,PERIOD_READY,Period Ready,2023-03-22T04:02:06Z,3,00:00,20:00,2,4,,,
+207,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132458,2022021132,Period Start,458,PERIOD_START,Period Start,2023-03-22T04:02:14Z,3,00:00,20:00,2,4,,,
+208,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132459,2022021132,Faceoff,459,FACEOFF,Elias Pettersson faceoff won against Teddy Blueger,2023-03-22T04:02:14Z,3,00:00,20:00,2,4,23.0,Vancouver Canucks,VAN
+209,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132285,2022021132,Hit,285,HIT,Anthony Beauvillier hit Shea Theodore,2023-03-22T04:02:55Z,3,00:41,19:19,2,4,23.0,Vancouver Canucks,VAN
+210,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132430,2022021132,Blocked Shot,430,BLOCKED_SHOT,Tyler Myers shot blocked shot by Shea Theodore,2023-03-22T04:03:22Z,3,01:08,18:52,2,4,54.0,Vegas Golden Knights,VGK
+211,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132286,2022021132,Hit,286,HIT,Brock Boeser hit Ivan Barbashev,2023-03-22T04:03:27Z,3,01:13,18:47,2,4,23.0,Vancouver Canucks,VAN
+212,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132431,2022021132,Shot,431,SHOT,Guillaume Brisebois Wrist Shot saved by Jonathan Quick,2023-03-22T04:03:28Z,3,01:14,18:46,2,4,23.0,Vancouver Canucks,VAN
+213,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132432,2022021132,Blocked Shot,432,BLOCKED_SHOT,Alex Pietrangelo shot blocked shot by Vitali Kravtsov,2023-03-22T04:03:54Z,3,01:40,18:20,2,4,23.0,Vancouver Canucks,VAN
+214,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132433,2022021132,Shot,433,SHOT,Sheldon Dries Tip-In saved by Jonathan Quick,2023-03-22T04:04:11Z,3,01:57,18:03,2,4,23.0,Vancouver Canucks,VAN
+215,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132434,2022021132,Shot,434,SHOT,Ethan Bear Wrist Shot saved by Jonathan Quick,2023-03-22T04:04:12Z,3,01:58,18:02,2,4,23.0,Vancouver Canucks,VAN
+216,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132435,2022021132,Missed Shot,435,MISSED_SHOT,Vasily Podkolzin Wide of Net Jonathan Quick,2023-03-22T04:04:14Z,3,02:00,18:00,2,4,23.0,Vancouver Canucks,VAN
+217,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132443,2022021132,Blocked Shot,443,BLOCKED_SHOT,Christian Wolanin shot blocked shot by Alec Martinez,2023-03-22T04:04:21Z,3,02:07,17:53,2,4,54.0,Vegas Golden Knights,VGK
+218,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132460,2022021132,Takeaway,460,TAKEAWAY,Takeaway by Conor Garland,2023-03-22T04:04:21Z,3,02:07,17:53,2,4,23.0,Vancouver Canucks,VAN
+219,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132436,2022021132,Shot,436,SHOT,William Karlsson Backhand saved by Thatcher Demko,2023-03-22T04:04:30Z,3,02:16,17:44,2,4,54.0,Vegas Golden Knights,VGK
+220,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132287,2022021132,Stoppage,287,STOP,Goalie Stopped,2023-03-22T04:04:32Z,3,02:18,17:42,2,4,,,
+221,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132461,2022021132,Faceoff,461,FACEOFF,Nils Aman faceoff won against Chandler Stephenson,2023-03-22T04:05:05Z,3,02:18,17:42,2,4,23.0,Vancouver Canucks,VAN
+222,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132437,2022021132,Shot,437,SHOT,Conor Garland Wrist Shot saved by Jonathan Quick,2023-03-22T04:05:15Z,3,02:28,17:32,2,4,23.0,Vancouver Canucks,VAN
+223,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132438,2022021132,Shot,438,SHOT,Conor Garland Wrist Shot saved by Jonathan Quick,2023-03-22T04:05:22Z,3,02:35,17:25,2,4,23.0,Vancouver Canucks,VAN
+224,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132288,2022021132,Hit,288,HIT,Zach Whitecloud hit Nils Aman,2023-03-22T04:05:25Z,3,02:38,17:22,2,4,54.0,Vegas Golden Knights,VGK
+225,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132439,2022021132,Missed Shot,439,MISSED_SHOT,Conor Garland Wide of Net Jonathan Quick,2023-03-22T04:05:35Z,3,02:48,17:12,2,4,23.0,Vancouver Canucks,VAN
+226,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132441,2022021132,Missed Shot,441,MISSED_SHOT,Kyle Burroughs Wide of Net Jonathan Quick,2023-03-22T04:05:47Z,3,03:00,17:00,2,4,23.0,Vancouver Canucks,VAN
+227,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132289,2022021132,Hit,289,HIT,Dakota Joshua hit Paul Cotter,2023-03-22T04:06:02Z,3,03:13,16:47,2,4,23.0,Vancouver Canucks,VAN
+228,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132442,2022021132,Blocked Shot,442,BLOCKED_SHOT,Elias Pettersson shot blocked shot by Nicolas Hague,2023-03-22T04:06:17Z,3,03:30,16:30,2,4,54.0,Vegas Golden Knights,VGK
+229,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132290,2022021132,Hit,290,HIT,Teddy Blueger hit Quinn Hughes,2023-03-22T04:06:43Z,3,03:56,16:04,2,4,54.0,Vegas Golden Knights,VGK
+230,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132291,2022021132,Hit,291,HIT,Phillip Di Giuseppe hit Brett Howden,2023-03-22T04:06:57Z,3,04:10,15:50,2,4,23.0,Vancouver Canucks,VAN
+231,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132444,2022021132,Missed Shot,444,MISSED_SHOT,Tyler Myers Wide of Net Jonathan Quick,2023-03-22T04:07:12Z,3,04:25,15:35,2,4,23.0,Vancouver Canucks,VAN
+232,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132292,2022021132,Hit,292,HIT,Guillaume Brisebois hit Jonathan Marchessault,2023-03-22T04:07:46Z,3,04:59,15:01,2,4,23.0,Vancouver Canucks,VAN
+233,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132445,2022021132,Shot,445,SHOT,Alex Pietrangelo Wrist Shot saved by Thatcher Demko,2023-03-22T04:08:13Z,3,05:26,14:34,2,4,54.0,Vegas Golden Knights,VGK
+234,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132446,2022021132,Shot,446,SHOT,Sheldon Dries Backhand saved by Jonathan Quick,2023-03-22T04:08:29Z,3,05:42,14:18,2,4,23.0,Vancouver Canucks,VAN
+235,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132293,2022021132,Hit,293,HIT,Vasily Podkolzin hit Brayden McNabb,2023-03-22T04:08:54Z,3,06:07,13:53,2,4,23.0,Vancouver Canucks,VAN
+236,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132447,2022021132,Missed Shot,447,MISSED_SHOT,William Karlsson Over Net Thatcher Demko,2023-03-22T04:09:06Z,3,06:19,13:41,2,4,54.0,Vegas Golden Knights,VGK
+237,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132294,2022021132,Stoppage,294,STOP,Goalie Stopped,2023-03-22T04:09:46Z,3,06:59,13:01,2,4,,,
+238,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132449,2022021132,Shot,449,SHOT,Kyle Burroughs Wrist Shot saved by Jonathan Quick,2023-03-22T04:09:46Z,3,06:59,13:01,2,4,23.0,Vancouver Canucks,VAN
+239,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132463,2022021132,Faceoff,463,FACEOFF,Teddy Blueger faceoff won against Elias Pettersson,2023-03-22T04:12:08Z,3,06:59,13:01,2,4,54.0,Vegas Golden Knights,VGK
+240,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132295,2022021132,Stoppage,295,STOP,Offside,2023-03-22T04:12:22Z,3,07:13,12:47,2,4,,,
+241,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132464,2022021132,Faceoff,464,FACEOFF,Teddy Blueger faceoff won against Elias Pettersson,2023-03-22T04:12:46Z,3,07:13,12:47,2,4,54.0,Vegas Golden Knights,VGK
+242,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132450,2022021132,Missed Shot,450,MISSED_SHOT,Andrei Kuzmenko Wide of Net Jonathan Quick,2023-03-22T04:13:13Z,3,07:40,12:20,2,4,23.0,Vancouver Canucks,VAN
+243,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132465,2022021132,Takeaway,465,TAKEAWAY,Takeaway by Elias Pettersson,2023-03-22T04:13:17Z,3,07:44,12:16,2,4,23.0,Vancouver Canucks,VAN
+244,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132751,2022021132,Missed Shot,751,MISSED_SHOT,Elias Pettersson Over Net Jonathan Quick,2023-03-22T04:13:18Z,3,07:45,12:15,2,4,23.0,Vancouver Canucks,VAN
+245,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132296,2022021132,Hit,296,HIT,Brett Howden hit Kyle Burroughs,2023-03-22T04:13:20Z,3,07:47,12:13,2,4,54.0,Vegas Golden Knights,VGK
+246,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132297,2022021132,Stoppage,297,STOP,Goalie Stopped,2023-03-22T04:13:41Z,3,08:08,11:52,2,4,,,
+247,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132752,2022021132,Shot,752,SHOT,Brock Boeser Slap Shot saved by Jonathan Quick,2023-03-22T04:13:41Z,3,08:08,11:52,2,4,23.0,Vancouver Canucks,VAN
+248,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132466,2022021132,Faceoff,466,FACEOFF,J.T. Miller faceoff won against William Karlsson,2023-03-22T04:14:15Z,3,08:08,11:52,2,4,23.0,Vancouver Canucks,VAN
+249,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132753,2022021132,Missed Shot,753,MISSED_SHOT,Brock Boeser Wide of Net Jonathan Quick,2023-03-22T04:14:23Z,3,08:16,11:44,2,4,23.0,Vancouver Canucks,VAN
+250,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132298,2022021132,Hit,298,HIT,Alex Pietrangelo hit Phillip Di Giuseppe,2023-03-22T04:14:58Z,3,08:51,11:09,2,4,54.0,Vegas Golden Knights,VGK
+251,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132299,2022021132,Hit,299,HIT,Ivan Barbashev hit Tyler Myers,2023-03-22T04:15:20Z,3,09:13,10:47,2,4,54.0,Vegas Golden Knights,VGK
+252,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132754,2022021132,Shot,754,SHOT,Jonathan Marchessault Backhand saved by Thatcher Demko,2023-03-22T04:15:23Z,3,09:16,10:44,2,4,54.0,Vegas Golden Knights,VGK
+253,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132300,2022021132,Hit,300,HIT,Ivan Barbashev hit Vitali Kravtsov,2023-03-22T04:15:28Z,3,09:21,10:39,2,4,54.0,Vegas Golden Knights,VGK
+254,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132701,2022021132,Stoppage,701,STOP,Icing,2023-03-22T04:15:31Z,3,09:24,10:36,2,4,,,
+255,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132467,2022021132,Faceoff,467,FACEOFF,Jack Eichel faceoff won against Sheldon Dries,2023-03-22T04:15:58Z,3,09:24,10:36,2,4,54.0,Vegas Golden Knights,VGK
+256,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132702,2022021132,Stoppage,702,STOP,Goalie Stopped,2023-03-22T04:16:07Z,3,09:32,10:28,2,4,,,
+257,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132755,2022021132,Shot,755,SHOT,Zach Whitecloud Wrist Shot saved by Thatcher Demko,2023-03-22T04:16:07Z,3,09:32,10:28,2,4,54.0,Vegas Golden Knights,VGK
+258,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132468,2022021132,Faceoff,468,FACEOFF,Jack Eichel faceoff won against Elias Pettersson,2023-03-22T04:16:38Z,3,09:32,10:28,2,4,54.0,Vegas Golden Knights,VGK
+259,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132703,2022021132,Hit,703,HIT,Jonathan Marchessault hit Quinn Hughes,2023-03-22T04:17:10Z,3,10:04,09:56,2,4,54.0,Vegas Golden Knights,VGK
+260,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132469,2022021132,Takeaway,469,TAKEAWAY,Takeaway by Zach Whitecloud,2023-03-22T04:17:25Z,3,10:19,09:41,2,4,54.0,Vegas Golden Knights,VGK
+261,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132704,2022021132,Hit,704,HIT,Kyle Burroughs hit Chandler Stephenson,2023-03-22T04:17:38Z,3,10:32,09:28,2,4,23.0,Vancouver Canucks,VAN
+262,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132756,2022021132,Blocked Shot,756,BLOCKED_SHOT,Brayden McNabb shot blocked shot by Quinn Hughes,2023-03-22T04:17:52Z,3,10:46,09:14,2,4,23.0,Vancouver Canucks,VAN
+263,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132470,2022021132,Giveaway,470,GIVEAWAY,Giveaway by Quinn Hughes,2023-03-22T04:17:55Z,3,10:49,09:11,2,4,23.0,Vancouver Canucks,VAN
+264,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132757,2022021132,Missed Shot,757,MISSED_SHOT,Shea Theodore Wide of Net Thatcher Demko,2023-03-22T04:18:00Z,3,10:54,09:06,2,4,54.0,Vegas Golden Knights,VGK
+265,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132705,2022021132,Stoppage,705,STOP,Icing,2023-03-22T04:18:30Z,3,11:25,08:35,2,4,,,
+266,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132471,2022021132,Faceoff,471,FACEOFF,J.T. Miller faceoff won against Chandler Stephenson,2023-03-22T04:19:02Z,3,11:25,08:35,2,4,23.0,Vancouver Canucks,VAN
+267,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132706,2022021132,Stoppage,706,STOP,Goalie Stopped,2023-03-22T04:19:06Z,3,11:29,08:31,2,4,,,
+268,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132758,2022021132,Shot,758,SHOT,Ethan Bear Wrist Shot saved by Jonathan Quick,2023-03-22T04:19:06Z,3,11:29,08:31,2,4,23.0,Vancouver Canucks,VAN
+269,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132472,2022021132,Faceoff,472,FACEOFF,J.T. Miller faceoff won against Teddy Blueger,2023-03-22T04:21:32Z,3,11:29,08:31,2,4,23.0,Vancouver Canucks,VAN
+270,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132759,2022021132,Shot,759,SHOT,J.T. Miller Tip-In saved by Jonathan Quick,2023-03-22T04:21:44Z,3,11:41,08:19,2,4,23.0,Vancouver Canucks,VAN
+271,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132760,2022021132,Goal,760,GOAL,"Phillip Di Giuseppe (4) Backhand, assists: J.T. Miller (41), Quinn Hughes (62)",2023-03-22T04:21:46Z,3,11:43,08:17,3,4,23.0,Vancouver Canucks,VAN
+272,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132473,2022021132,Faceoff,473,FACEOFF,Elias Pettersson faceoff won against William Karlsson,2023-03-22T04:22:24Z,3,11:43,08:17,3,4,23.0,Vancouver Canucks,VAN
+273,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132707,2022021132,Hit,707,HIT,Elias Pettersson hit Zach Whitecloud,2023-03-22T04:22:41Z,3,12:00,08:00,3,4,23.0,Vancouver Canucks,VAN
+274,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132708,2022021132,Hit,708,HIT,Vitali Kravtsov hit William Karlsson,2023-03-22T04:23:13Z,3,12:32,07:28,3,4,23.0,Vancouver Canucks,VAN
+275,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132709,2022021132,Hit,709,HIT,Brayden McNabb hit Nils Aman,2023-03-22T04:23:59Z,3,13:18,06:42,3,4,54.0,Vegas Golden Knights,VGK
+276,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132710,2022021132,Hit,710,HIT,Dakota Joshua hit Jack Eichel,2023-03-22T04:24:03Z,3,13:22,06:38,3,4,23.0,Vancouver Canucks,VAN
+277,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132711,2022021132,Stoppage,711,STOP,Puck in Crowd,2023-03-22T04:24:42Z,3,14:01,05:59,3,4,,,
+278,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132474,2022021132,Faceoff,474,FACEOFF,J.T. Miller faceoff won against William Karlsson,2023-03-22T04:26:57Z,3,14:01,05:59,3,4,23.0,Vancouver Canucks,VAN
+279,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132712,2022021132,Hit,712,HIT,Brayden McNabb hit Conor Garland,2023-03-22T04:28:20Z,3,15:24,04:36,3,4,54.0,Vegas Golden Knights,VGK
+280,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132475,2022021132,Takeaway,475,TAKEAWAY,Takeaway by Michael Amadio,2023-03-22T04:29:02Z,3,16:06,03:54,3,4,54.0,Vegas Golden Knights,VGK
+281,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132713,2022021132,Hit,713,HIT,Christian Wolanin hit Michael Amadio,2023-03-22T04:29:02Z,3,16:06,03:54,3,4,23.0,Vancouver Canucks,VAN
+282,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132762,2022021132,Shot,762,SHOT,Brock Boeser Wrist Shot saved by Jonathan Quick,2023-03-22T04:29:37Z,3,16:41,03:19,3,4,23.0,Vancouver Canucks,VAN
+283,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132714,2022021132,Stoppage,714,STOP,Goalie Stopped,2023-03-22T04:29:37Z,3,16:42,03:18,3,4,,,
+284,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132476,2022021132,Faceoff,476,FACEOFF,William Karlsson faceoff won against J.T. Miller,2023-03-22T04:30:20Z,3,16:42,03:18,3,4,54.0,Vegas Golden Knights,VGK
+285,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132715,2022021132,Stoppage,715,STOP,Goalie Stopped,2023-03-22T04:30:45Z,3,17:06,02:54,3,4,,,
+286,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132763,2022021132,Shot,763,SHOT,Tyler Myers Slap Shot saved by Jonathan Quick,2023-03-22T04:30:45Z,3,17:06,02:54,3,4,23.0,Vancouver Canucks,VAN
+287,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132477,2022021132,Faceoff,477,FACEOFF,Elias Pettersson faceoff won against Teddy Blueger,2023-03-22T04:31:24Z,3,17:06,02:54,3,4,23.0,Vancouver Canucks,VAN
+288,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132716,2022021132,Stoppage,716,STOP,Puck in Netting,2023-03-22T04:31:55Z,3,17:37,02:23,3,4,,,
+289,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132478,2022021132,Faceoff,478,FACEOFF,William Karlsson faceoff won against Nils Aman,2023-03-22T04:32:30Z,3,17:37,02:23,3,4,54.0,Vegas Golden Knights,VGK
+290,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132717,2022021132,Hit,717,HIT,Conor Garland hit Alec Martinez,2023-03-22T04:33:15Z,3,18:22,01:38,3,4,23.0,Vancouver Canucks,VAN
+291,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132765,2022021132,Shot,765,SHOT,Phillip Di Giuseppe Wrap-around saved by Jonathan Quick,2023-03-22T04:33:27Z,3,18:34,01:26,3,4,23.0,Vancouver Canucks,VAN
+292,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132479,2022021132,Giveaway,479,GIVEAWAY,Giveaway by Elias Pettersson,2023-03-22T04:33:46Z,3,18:53,01:07,3,4,23.0,Vancouver Canucks,VAN
+293,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132480,2022021132,Giveaway,480,GIVEAWAY,Giveaway by Chandler Stephenson,2023-03-22T04:33:51Z,3,18:58,01:02,3,4,54.0,Vegas Golden Knights,VGK
+294,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132766,2022021132,Shot,766,SHOT,Brock Boeser Wrist Shot saved by Jonathan Quick,2023-03-22T04:34:18Z,3,19:25,00:35,3,4,23.0,Vancouver Canucks,VAN
+295,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132482,2022021132,Faceoff,482,FACEOFF,Nils Aman faceoff won against William Karlsson,2023-03-22T04:35:04Z,3,19:37,00:23,3,4,23.0,Vancouver Canucks,VAN
+296,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132986,2022021132,Penalty,986,PENALTY,Quinn Hughes Hooking against Jack Eichel,2023-03-22T04:35:31Z,3,19:37,00:23,3,4,23.0,Vancouver Canucks,VAN
+297,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132718,2022021132,Hit,718,HIT,Dakota Joshua hit Reilly Smith,2023-03-22T04:35:44Z,3,19:50,00:10,3,4,23.0,Vancouver Canucks,VAN
+298,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132719,2022021132,Period End,719,PERIOD_END,End of 3rd Period,2023-03-22T04:35:54Z,3,20:00,00:00,3,4,,,
+299,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132722,2022021132,Period Official,722,PERIOD_OFFICIAL,Period Official,2023-03-22T04:35:58Z,3,20:00,00:00,3,4,,,
+300,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132723,2022021132,Game End,723,GAME_END,Game End,2023-03-22T04:35:59Z,3,20:00,00:00,3,4,,,
+301,23,54,Vancouver Canucks,Vegas Golden Knights,2022021132725,2022021132,Game Official,725,GAME_OFFICIAL,Game Official,2023-03-22T04:53:05Z,3,20:00,00:00,3,4,,,

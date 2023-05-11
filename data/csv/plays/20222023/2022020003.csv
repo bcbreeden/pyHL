@@ -1,0 +1,325 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,3,14,New York Rangers,Tampa Bay Lightning,20220200031,2022020003,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-10-11T22:45:11Z,1,00:00,20:00,0,0,,,
+1,3,14,New York Rangers,Tampa Bay Lightning,20220200035,2022020003,Period Ready,5,PERIOD_READY,Period Ready,2022-10-11T23:45:08Z,1,00:00,20:00,0,0,,,
+2,3,14,New York Rangers,Tampa Bay Lightning,202202000351,2022020003,Period Start,51,PERIOD_START,Period Start,2022-10-11T23:46:01Z,1,00:00,20:00,0,0,,,
+3,3,14,New York Rangers,Tampa Bay Lightning,202202000352,2022020003,Faceoff,52,FACEOFF,Brayden Point faceoff won against Mika Zibanejad,2022-10-11T23:46:01Z,1,00:00,20:00,0,0,14.0,Tampa Bay Lightning,TBL
+4,3,14,New York Rangers,Tampa Bay Lightning,2022020003151,2022020003,Shot,151,SHOT,Steven Stamkos Tip-In saved by Igor Shesterkin,2022-10-11T23:46:15Z,1,00:14,19:46,0,0,14.0,Tampa Bay Lightning,TBL
+5,3,14,New York Rangers,Tampa Bay Lightning,20220200038,2022020003,Takeaway,8,TAKEAWAY,Takeaway by Nikita Kucherov,2022-10-11T23:46:21Z,1,00:20,19:40,0,0,14.0,Tampa Bay Lightning,TBL
+6,3,14,New York Rangers,Tampa Bay Lightning,2022020003152,2022020003,Blocked Shot,152,BLOCKED_SHOT,Cal Foote shot blocked shot by Chris Kreider,2022-10-11T23:46:32Z,1,00:31,19:29,0,0,3.0,New York Rangers,NYR
+7,3,14,New York Rangers,Tampa Bay Lightning,20220200039,2022020003,Takeaway,9,TAKEAWAY,Takeaway by Vitali Kravtsov,2022-10-11T23:46:57Z,1,00:56,19:04,0,0,3.0,New York Rangers,NYR
+8,3,14,New York Rangers,Tampa Bay Lightning,202202000310,2022020003,Giveaway,10,GIVEAWAY,Giveaway by Vitali Kravtsov,2022-10-11T23:47:02Z,1,01:01,18:59,0,0,3.0,New York Rangers,NYR
+9,3,14,New York Rangers,Tampa Bay Lightning,2022020003153,2022020003,Blocked Shot,153,BLOCKED_SHOT,Alex Killorn shot blocked shot by Adam Fox,2022-10-11T23:47:13Z,1,01:12,18:48,0,0,3.0,New York Rangers,NYR
+10,3,14,New York Rangers,Tampa Bay Lightning,202202000311,2022020003,Hit,11,HIT,Nicholas Paul hit Adam Fox,2022-10-11T23:47:15Z,1,01:14,18:46,0,0,14.0,Tampa Bay Lightning,TBL
+11,3,14,New York Rangers,Tampa Bay Lightning,202202000312,2022020003,Hit,12,HIT,Cole Koepke hit Zac Jones,2022-10-11T23:47:29Z,1,01:28,18:32,0,0,14.0,Tampa Bay Lightning,TBL
+12,3,14,New York Rangers,Tampa Bay Lightning,202202000354,2022020003,Giveaway,54,GIVEAWAY,Giveaway by Alexis Lafrenière,2022-10-11T23:47:48Z,1,01:47,18:13,0,0,3.0,New York Rangers,NYR
+13,3,14,New York Rangers,Tampa Bay Lightning,2022020003154,2022020003,Blocked Shot,154,BLOCKED_SHOT,Ross Colton shot blocked shot by Zac Jones,2022-10-11T23:47:55Z,1,01:54,18:06,0,0,3.0,New York Rangers,NYR
+14,3,14,New York Rangers,Tampa Bay Lightning,202202000313,2022020003,Hit,13,HIT,Ross Colton hit Braden Schneider,2022-10-11T23:47:59Z,1,01:58,18:02,0,0,14.0,Tampa Bay Lightning,TBL
+15,3,14,New York Rangers,Tampa Bay Lightning,202202000314,2022020003,Hit,14,HIT,Alexis Lafrenière hit Philippe Myers,2022-10-11T23:48:01Z,1,02:00,18:00,0,0,3.0,New York Rangers,NYR
+16,3,14,New York Rangers,Tampa Bay Lightning,202202000315,2022020003,Hit,15,HIT,Corey Perry hit Ryan Reaves,2022-10-11T23:48:21Z,1,02:20,17:40,0,0,14.0,Tampa Bay Lightning,TBL
+17,3,14,New York Rangers,Tampa Bay Lightning,202202000316,2022020003,Hit,16,HIT,K'Andre Miller hit Pierre-Edouard Bellemare,2022-10-11T23:48:33Z,1,02:32,17:28,0,0,3.0,New York Rangers,NYR
+18,3,14,New York Rangers,Tampa Bay Lightning,202202000355,2022020003,Giveaway,55,GIVEAWAY,Giveaway by Pierre-Edouard Bellemare,2022-10-11T23:48:34Z,1,02:33,17:27,0,0,14.0,Tampa Bay Lightning,TBL
+19,3,14,New York Rangers,Tampa Bay Lightning,2022020003156,2022020003,Shot,156,SHOT,Mika Zibanejad Snap Shot saved by Andrei Vasilevskiy,2022-10-11T23:48:59Z,1,02:58,17:02,0,0,3.0,New York Rangers,NYR
+20,3,14,New York Rangers,Tampa Bay Lightning,202202000317,2022020003,Takeaway,17,TAKEAWAY,Takeaway by Kaapo Kakko,2022-10-11T23:49:06Z,1,03:05,16:55,0,0,3.0,New York Rangers,NYR
+21,3,14,New York Rangers,Tampa Bay Lightning,2022020003157,2022020003,Blocked Shot,157,BLOCKED_SHOT,Ryan Lindgren shot blocked shot by Nikita Kucherov,2022-10-11T23:49:19Z,1,03:18,16:42,0,0,14.0,Tampa Bay Lightning,TBL
+22,3,14,New York Rangers,Tampa Bay Lightning,202202000318,2022020003,Stoppage,18,STOP,Offside,2022-10-11T23:49:25Z,1,03:25,16:35,0,0,,,
+23,3,14,New York Rangers,Tampa Bay Lightning,202202000357,2022020003,Faceoff,57,FACEOFF,Vincent Trocheck faceoff won against Nicholas Paul,2022-10-11T23:49:51Z,1,03:25,16:35,0,0,3.0,New York Rangers,NYR
+24,3,14,New York Rangers,Tampa Bay Lightning,2022020003158,2022020003,Blocked Shot,158,BLOCKED_SHOT,Nicholas Paul shot blocked shot by Zac Jones,2022-10-11T23:50:23Z,1,03:57,16:03,0,0,3.0,New York Rangers,NYR
+25,3,14,New York Rangers,Tampa Bay Lightning,202202000319,2022020003,Hit,19,HIT,Philippe Myers hit K'Andre Miller,2022-10-11T23:50:52Z,1,04:26,15:34,0,0,14.0,Tampa Bay Lightning,TBL
+26,3,14,New York Rangers,Tampa Bay Lightning,202202000320,2022020003,Hit,20,HIT,Ryan Reaves hit Haydn Fleury,2022-10-11T23:51:28Z,1,05:02,14:58,0,0,3.0,New York Rangers,NYR
+27,3,14,New York Rangers,Tampa Bay Lightning,202202000358,2022020003,Takeaway,58,TAKEAWAY,Takeaway by Chris Kreider,2022-10-11T23:52:35Z,1,06:09,13:51,0,0,3.0,New York Rangers,NYR
+28,3,14,New York Rangers,Tampa Bay Lightning,2022020003159,2022020003,Blocked Shot,159,BLOCKED_SHOT,K'Andre Miller shot blocked shot by Brandon Hagel,2022-10-11T23:52:42Z,1,06:16,13:44,0,0,14.0,Tampa Bay Lightning,TBL
+29,3,14,New York Rangers,Tampa Bay Lightning,2022020003160,2022020003,Blocked Shot,160,BLOCKED_SHOT,K'Andre Miller shot blocked shot by Brandon Hagel,2022-10-11T23:52:50Z,1,06:24,13:36,0,0,14.0,Tampa Bay Lightning,TBL
+30,3,14,New York Rangers,Tampa Bay Lightning,202202000359,2022020003,Giveaway,59,GIVEAWAY,Giveaway by Kaapo Kakko,2022-10-11T23:53:08Z,1,06:42,13:18,0,0,3.0,New York Rangers,NYR
+31,3,14,New York Rangers,Tampa Bay Lightning,202202000360,2022020003,Giveaway,60,GIVEAWAY,Giveaway by Brandon Hagel,2022-10-11T23:53:22Z,1,06:56,13:04,0,0,14.0,Tampa Bay Lightning,TBL
+32,3,14,New York Rangers,Tampa Bay Lightning,202202000321,2022020003,Hit,21,HIT,Victor Hedman hit Vitali Kravtsov,2022-10-11T23:53:27Z,1,07:01,12:59,0,0,14.0,Tampa Bay Lightning,TBL
+33,3,14,New York Rangers,Tampa Bay Lightning,2022020003161,2022020003,Shot,161,SHOT,Ryan Lindgren Wrist Shot saved by Andrei Vasilevskiy,2022-10-11T23:53:34Z,1,07:08,12:52,0,0,3.0,New York Rangers,NYR
+34,3,14,New York Rangers,Tampa Bay Lightning,202202000322,2022020003,Stoppage,22,STOP,Puck in Netting,2022-10-11T23:53:35Z,1,07:09,12:51,0,0,,,
+35,3,14,New York Rangers,Tampa Bay Lightning,202202000361,2022020003,Faceoff,61,FACEOFF,Vincent Trocheck faceoff won against Brayden Point,2022-10-11T23:56:03Z,1,07:09,12:51,0,0,3.0,New York Rangers,NYR
+36,3,14,New York Rangers,Tampa Bay Lightning,202202000323,2022020003,Hit,23,HIT,Ryan Lindgren hit Victor Hedman,2022-10-11T23:56:33Z,1,07:39,12:21,0,0,3.0,New York Rangers,NYR
+37,3,14,New York Rangers,Tampa Bay Lightning,2022020003162,2022020003,Shot,162,SHOT,Brayden Point Wrist Shot saved by Igor Shesterkin,2022-10-11T23:56:39Z,1,07:45,12:15,0,0,14.0,Tampa Bay Lightning,TBL
+38,3,14,New York Rangers,Tampa Bay Lightning,202202000324,2022020003,Hit,24,HIT,Alexis Lafrenière hit Steven Stamkos,2022-10-11T23:56:44Z,1,07:50,12:10,0,0,3.0,New York Rangers,NYR
+39,3,14,New York Rangers,Tampa Bay Lightning,202202000325,2022020003,Hit,25,HIT,Barclay Goodrow hit Pat Maroon,2022-10-11T23:57:34Z,1,08:40,11:20,0,0,3.0,New York Rangers,NYR
+40,3,14,New York Rangers,Tampa Bay Lightning,202202000362,2022020003,Takeaway,62,TAKEAWAY,Takeaway by Barclay Goodrow,2022-10-11T23:57:36Z,1,08:42,11:18,0,0,3.0,New York Rangers,NYR
+41,3,14,New York Rangers,Tampa Bay Lightning,2022020003163,2022020003,Shot,163,SHOT,Barclay Goodrow Wrist Shot saved by Andrei Vasilevskiy,2022-10-11T23:57:37Z,1,08:43,11:17,0,0,3.0,New York Rangers,NYR
+42,3,14,New York Rangers,Tampa Bay Lightning,202202000326,2022020003,Hit,26,HIT,Filip Chytil hit Philippe Myers,2022-10-11T23:57:39Z,1,08:45,11:15,0,0,3.0,New York Rangers,NYR
+43,3,14,New York Rangers,Tampa Bay Lightning,2022020003164,2022020003,Shot,164,SHOT,Nicholas Paul Wrist Shot saved by Igor Shesterkin,2022-10-11T23:57:58Z,1,09:04,10:56,0,0,14.0,Tampa Bay Lightning,TBL
+44,3,14,New York Rangers,Tampa Bay Lightning,2022020003165,2022020003,Shot,165,SHOT,Brandon Hagel Wrist Shot saved by Igor Shesterkin,2022-10-11T23:57:59Z,1,09:05,10:55,0,0,14.0,Tampa Bay Lightning,TBL
+45,3,14,New York Rangers,Tampa Bay Lightning,202202000327,2022020003,Stoppage,27,STOP,Goalie Stopped,2022-10-11T23:58:00Z,1,09:06,10:54,0,0,,,
+46,3,14,New York Rangers,Tampa Bay Lightning,202202000363,2022020003,Faceoff,63,FACEOFF,Nicholas Paul faceoff won against Mika Zibanejad,2022-10-11T23:58:31Z,1,09:06,10:54,0,0,14.0,Tampa Bay Lightning,TBL
+47,3,14,New York Rangers,Tampa Bay Lightning,2022020003166,2022020003,Blocked Shot,166,BLOCKED_SHOT,Mikhail Sergachev shot blocked shot by Chris Kreider,2022-10-11T23:58:36Z,1,09:11,10:49,0,0,3.0,New York Rangers,NYR
+48,3,14,New York Rangers,Tampa Bay Lightning,202202000364,2022020003,Takeaway,64,TAKEAWAY,Takeaway by Chris Kreider,2022-10-11T23:59:05Z,1,09:40,10:20,0,0,3.0,New York Rangers,NYR
+49,3,14,New York Rangers,Tampa Bay Lightning,202202000328,2022020003,Hit,28,HIT,Jacob Trouba hit Vladislav Namestnikov,2022-10-11T23:59:22Z,1,09:56,10:04,0,0,3.0,New York Rangers,NYR
+50,3,14,New York Rangers,Tampa Bay Lightning,202202000329,2022020003,Stoppage,29,STOP,Puck in Netting,2022-10-11T23:59:22Z,1,09:56,10:04,0,0,,,
+51,3,14,New York Rangers,Tampa Bay Lightning,202202000365,2022020003,Faceoff,65,FACEOFF,Ryan Carpenter faceoff won against Vladislav Namestnikov,2022-10-11T23:59:42Z,1,09:56,10:04,0,0,3.0,New York Rangers,NYR
+52,3,14,New York Rangers,Tampa Bay Lightning,202202000330,2022020003,Hit,30,HIT,Philippe Myers hit Barclay Goodrow,2022-10-11T23:59:54Z,1,10:08,09:52,0,0,14.0,Tampa Bay Lightning,TBL
+53,3,14,New York Rangers,Tampa Bay Lightning,202202000331,2022020003,Hit,31,HIT,Jacob Trouba hit Cole Koepke,2022-10-12T00:00:04Z,1,10:18,09:42,0,0,3.0,New York Rangers,NYR
+54,3,14,New York Rangers,Tampa Bay Lightning,2022020003167,2022020003,Shot,167,SHOT,Cole Koepke Wrist Shot saved by Igor Shesterkin,2022-10-12T00:00:05Z,1,10:19,09:41,0,0,14.0,Tampa Bay Lightning,TBL
+55,3,14,New York Rangers,Tampa Bay Lightning,202202000366,2022020003,Giveaway,66,GIVEAWAY,Giveaway by Ryan Carpenter,2022-10-12T00:00:11Z,1,10:25,09:35,0,0,3.0,New York Rangers,NYR
+56,3,14,New York Rangers,Tampa Bay Lightning,202202000332,2022020003,Hit,32,HIT,Ryan Carpenter hit Ross Colton,2022-10-12T00:00:13Z,1,10:27,09:33,0,0,3.0,New York Rangers,NYR
+57,3,14,New York Rangers,Tampa Bay Lightning,202202000367,2022020003,Giveaway,67,GIVEAWAY,Giveaway by Victor Hedman,2022-10-12T00:00:47Z,1,11:01,08:59,0,0,14.0,Tampa Bay Lightning,TBL
+58,3,14,New York Rangers,Tampa Bay Lightning,202202000368,2022020003,Takeaway,68,TAKEAWAY,Takeaway by Nikita Kucherov,2022-10-12T00:01:11Z,1,11:25,08:35,0,0,14.0,Tampa Bay Lightning,TBL
+59,3,14,New York Rangers,Tampa Bay Lightning,202202000333,2022020003,Hit,33,HIT,Artemi Panarin hit Cal Foote,2022-10-12T00:01:23Z,1,11:37,08:23,0,0,3.0,New York Rangers,NYR
+60,3,14,New York Rangers,Tampa Bay Lightning,202202000369,2022020003,Giveaway,69,GIVEAWAY,Giveaway by Mikhail Sergachev,2022-10-12T00:01:28Z,1,11:42,08:18,0,0,14.0,Tampa Bay Lightning,TBL
+61,3,14,New York Rangers,Tampa Bay Lightning,2022020003168,2022020003,Shot,168,SHOT,Filip Chytil Snap Shot saved by Andrei Vasilevskiy,2022-10-12T00:01:30Z,1,11:44,08:16,0,0,3.0,New York Rangers,NYR
+62,3,14,New York Rangers,Tampa Bay Lightning,202202000334,2022020003,Stoppage,34,STOP,Goalie Stopped,2022-10-12T00:01:32Z,1,11:46,08:14,0,0,,,
+63,3,14,New York Rangers,Tampa Bay Lightning,202202000370,2022020003,Faceoff,70,FACEOFF,Filip Chytil faceoff won against Nicholas Paul,2022-10-12T00:03:47Z,1,11:46,08:14,0,0,3.0,New York Rangers,NYR
+64,3,14,New York Rangers,Tampa Bay Lightning,202202000335,2022020003,Hit,35,HIT,Jimmy Vesey hit Mikhail Sergachev,2022-10-12T00:03:57Z,1,11:56,08:04,0,0,3.0,New York Rangers,NYR
+65,3,14,New York Rangers,Tampa Bay Lightning,2022020003169,2022020003,Shot,169,SHOT,Filip Chytil Snap Shot saved by Andrei Vasilevskiy,2022-10-12T00:04:00Z,1,11:59,08:01,0,0,3.0,New York Rangers,NYR
+66,3,14,New York Rangers,Tampa Bay Lightning,202202000371,2022020003,Takeaway,71,TAKEAWAY,Takeaway by Nicholas Paul,2022-10-12T00:04:21Z,1,12:20,07:40,0,0,14.0,Tampa Bay Lightning,TBL
+67,3,14,New York Rangers,Tampa Bay Lightning,2022020003170,2022020003,Missed Shot,170,MISSED_SHOT,Kaapo Kakko Wide of Net Andrei Vasilevskiy,2022-10-12T00:04:50Z,1,12:49,07:11,0,0,3.0,New York Rangers,NYR
+68,3,14,New York Rangers,Tampa Bay Lightning,2022020003174,2022020003,Shot,174,SHOT,Ross Colton Wrist Shot saved by Igor Shesterkin,2022-10-12T00:04:59Z,1,12:58,07:02,0,0,14.0,Tampa Bay Lightning,TBL
+69,3,14,New York Rangers,Tampa Bay Lightning,202202000372,2022020003,Takeaway,72,TAKEAWAY,Takeaway by Ross Colton,2022-10-12T00:05:01Z,1,13:00,07:00,0,0,14.0,Tampa Bay Lightning,TBL
+70,3,14,New York Rangers,Tampa Bay Lightning,202202000336,2022020003,Hit,36,HIT,K'Andre Miller hit Ross Colton,2022-10-12T00:05:02Z,1,13:01,06:59,0,0,3.0,New York Rangers,NYR
+71,3,14,New York Rangers,Tampa Bay Lightning,2022020003171,2022020003,Blocked Shot,171,BLOCKED_SHOT,Ross Colton shot blocked shot by K'Andre Miller,2022-10-12T00:05:06Z,1,13:05,06:55,0,0,3.0,New York Rangers,NYR
+72,3,14,New York Rangers,Tampa Bay Lightning,2022020003172,2022020003,Shot,172,SHOT,Jacob Trouba Slap Shot saved by Andrei Vasilevskiy,2022-10-12T00:05:16Z,1,13:15,06:45,0,0,3.0,New York Rangers,NYR
+73,3,14,New York Rangers,Tampa Bay Lightning,2022020003173,2022020003,Shot,173,SHOT,Jacob Trouba Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T00:05:19Z,1,13:18,06:42,0,0,3.0,New York Rangers,NYR
+74,3,14,New York Rangers,Tampa Bay Lightning,2022020003175,2022020003,Shot,175,SHOT,Jacob Trouba Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T00:05:20Z,1,13:19,06:41,0,0,3.0,New York Rangers,NYR
+75,3,14,New York Rangers,Tampa Bay Lightning,202202000337,2022020003,Hit,37,HIT,Alexis Lafrenière hit Erik Cernak,2022-10-12T00:05:49Z,1,13:48,06:12,0,0,3.0,New York Rangers,NYR
+76,3,14,New York Rangers,Tampa Bay Lightning,2022020003190,2022020003,Missed Shot,190,MISSED_SHOT,Haydn Fleury Wide of Net Igor Shesterkin,2022-10-12T00:05:58Z,1,13:57,06:03,0,0,14.0,Tampa Bay Lightning,TBL
+77,3,14,New York Rangers,Tampa Bay Lightning,202202000338,2022020003,Hit,38,HIT,Ryan Reaves hit Victor Hedman,2022-10-12T00:06:39Z,1,14:38,05:22,0,0,3.0,New York Rangers,NYR
+78,3,14,New York Rangers,Tampa Bay Lightning,202202000339,2022020003,Stoppage,39,STOP,Icing,2022-10-12T00:06:45Z,1,14:44,05:16,0,0,,,
+79,3,14,New York Rangers,Tampa Bay Lightning,202202000373,2022020003,Faceoff,73,FACEOFF,Vincent Trocheck faceoff won against Nicholas Paul,2022-10-12T00:07:14Z,1,14:44,05:16,0,0,3.0,New York Rangers,NYR
+80,3,14,New York Rangers,Tampa Bay Lightning,202202000340,2022020003,Stoppage,40,STOP,Offside,2022-10-12T00:07:23Z,1,14:52,05:08,0,0,,,
+81,3,14,New York Rangers,Tampa Bay Lightning,202202000374,2022020003,Faceoff,74,FACEOFF,Ryan Carpenter faceoff won against Nicholas Paul,2022-10-12T00:09:41Z,1,14:52,05:08,0,0,3.0,New York Rangers,NYR
+82,3,14,New York Rangers,Tampa Bay Lightning,202202000375,2022020003,Giveaway,75,GIVEAWAY,Giveaway by Andrei Vasilevskiy,2022-10-12T00:09:53Z,1,15:04,04:56,0,0,14.0,Tampa Bay Lightning,TBL
+83,3,14,New York Rangers,Tampa Bay Lightning,202202000341,2022020003,Hit,41,HIT,Jacob Trouba hit Pat Maroon,2022-10-12T00:09:58Z,1,15:09,04:51,0,0,3.0,New York Rangers,NYR
+84,3,14,New York Rangers,Tampa Bay Lightning,202202000376,2022020003,Giveaway,76,GIVEAWAY,Giveaway by Ryan Carpenter,2022-10-12T00:10:06Z,1,15:17,04:43,0,0,3.0,New York Rangers,NYR
+85,3,14,New York Rangers,Tampa Bay Lightning,2022020003176,2022020003,Blocked Shot,176,BLOCKED_SHOT,Kaapo Kakko shot blocked shot by Erik Cernak,2022-10-12T00:10:48Z,1,15:59,04:01,0,0,14.0,Tampa Bay Lightning,TBL
+86,3,14,New York Rangers,Tampa Bay Lightning,2022020003177,2022020003,Blocked Shot,177,BLOCKED_SHOT,Artemi Panarin shot blocked shot by Nicholas Paul,2022-10-12T00:10:59Z,1,16:10,03:50,0,0,14.0,Tampa Bay Lightning,TBL
+87,3,14,New York Rangers,Tampa Bay Lightning,2022020003454,2022020003,Penalty,454,PENALTY,Erik Cernak Holding against Kaapo Kakko,2022-10-12T00:11:02Z,1,16:13,03:47,0,0,14.0,Tampa Bay Lightning,TBL
+88,3,14,New York Rangers,Tampa Bay Lightning,202202000377,2022020003,Faceoff,77,FACEOFF,Vincent Trocheck faceoff won against Nicholas Paul,2022-10-12T00:11:42Z,1,16:13,03:47,0,0,3.0,New York Rangers,NYR
+89,3,14,New York Rangers,Tampa Bay Lightning,2022020003178,2022020003,Blocked Shot,178,BLOCKED_SHOT,Artemi Panarin shot blocked shot by Mikhail Sergachev,2022-10-12T00:11:53Z,1,16:24,03:36,0,0,14.0,Tampa Bay Lightning,TBL
+90,3,14,New York Rangers,Tampa Bay Lightning,2022020003179,2022020003,Shot,179,SHOT,Mika Zibanejad Slap Shot saved by Andrei Vasilevskiy,2022-10-12T00:12:11Z,1,16:42,03:18,0,0,3.0,New York Rangers,NYR
+91,3,14,New York Rangers,Tampa Bay Lightning,2022020003180,2022020003,Shot,180,SHOT,Vincent Trocheck Slap Shot saved by Andrei Vasilevskiy,2022-10-12T00:12:22Z,1,16:53,03:07,0,0,3.0,New York Rangers,NYR
+92,3,14,New York Rangers,Tampa Bay Lightning,202202000343,2022020003,Stoppage,43,STOP,Goalie Stopped,2022-10-12T00:12:23Z,1,16:54,03:06,0,0,,,
+93,3,14,New York Rangers,Tampa Bay Lightning,202202000378,2022020003,Faceoff,78,FACEOFF,Vincent Trocheck faceoff won against Pierre-Edouard Bellemare,2022-10-12T00:12:55Z,1,16:54,03:06,0,0,3.0,New York Rangers,NYR
+94,3,14,New York Rangers,Tampa Bay Lightning,2022020003182,2022020003,Shot,182,SHOT,Chris Kreider Tip-In saved by Andrei Vasilevskiy,2022-10-12T00:13:21Z,1,17:20,02:40,0,0,3.0,New York Rangers,NYR
+95,3,14,New York Rangers,Tampa Bay Lightning,2022020003183,2022020003,Shot,183,SHOT,Chris Kreider Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T00:13:22Z,1,17:21,02:39,0,0,3.0,New York Rangers,NYR
+96,3,14,New York Rangers,Tampa Bay Lightning,202202000379,2022020003,Giveaway,79,GIVEAWAY,Giveaway by Adam Fox,2022-10-12T00:13:27Z,1,17:26,02:34,0,0,3.0,New York Rangers,NYR
+97,3,14,New York Rangers,Tampa Bay Lightning,2022020003184,2022020003,Shot,184,SHOT,Jacob Trouba Slap Shot saved by Andrei Vasilevskiy,2022-10-12T00:13:47Z,1,17:46,02:14,0,0,3.0,New York Rangers,NYR
+98,3,14,New York Rangers,Tampa Bay Lightning,2022020003185,2022020003,Shot,185,SHOT,Mika Zibanejad Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T00:13:49Z,1,17:48,02:12,0,0,3.0,New York Rangers,NYR
+99,3,14,New York Rangers,Tampa Bay Lightning,202202000344,2022020003,Stoppage,44,STOP,Goalie Stopped,2022-10-12T00:13:50Z,1,17:50,02:10,0,0,,,
+100,3,14,New York Rangers,Tampa Bay Lightning,202202000380,2022020003,Faceoff,80,FACEOFF,Filip Chytil faceoff won against Steven Stamkos,2022-10-12T00:14:24Z,1,17:50,02:10,0,0,3.0,New York Rangers,NYR
+101,3,14,New York Rangers,Tampa Bay Lightning,2022020003186,2022020003,Shot,186,SHOT,Steven Stamkos Wrist Shot saved by Igor Shesterkin,2022-10-12T00:15:01Z,1,18:27,01:33,0,0,14.0,Tampa Bay Lightning,TBL
+102,3,14,New York Rangers,Tampa Bay Lightning,2022020003187,2022020003,Blocked Shot,187,BLOCKED_SHOT,Nikita Kucherov shot blocked shot by Kaapo Kakko,2022-10-12T00:15:05Z,1,18:31,01:29,0,0,3.0,New York Rangers,NYR
+103,3,14,New York Rangers,Tampa Bay Lightning,2022020003188,2022020003,Shot,188,SHOT,Brayden Point Wrist Shot saved by Igor Shesterkin,2022-10-12T00:15:05Z,1,18:31,01:29,0,0,14.0,Tampa Bay Lightning,TBL
+104,3,14,New York Rangers,Tampa Bay Lightning,202202000345,2022020003,Hit,45,HIT,Steven Stamkos hit Filip Chytil,2022-10-12T00:15:13Z,1,18:39,01:21,0,0,14.0,Tampa Bay Lightning,TBL
+105,3,14,New York Rangers,Tampa Bay Lightning,202202000346,2022020003,Hit,46,HIT,Brayden Point hit Ryan Lindgren,2022-10-12T00:15:28Z,1,18:54,01:06,0,0,14.0,Tampa Bay Lightning,TBL
+106,3,14,New York Rangers,Tampa Bay Lightning,202202000381,2022020003,Takeaway,81,TAKEAWAY,Takeaway by Philippe Myers,2022-10-12T00:15:33Z,1,18:59,01:01,0,0,14.0,Tampa Bay Lightning,TBL
+107,3,14,New York Rangers,Tampa Bay Lightning,202202000347,2022020003,Stoppage,47,STOP,Puck in Netting,2022-10-12T00:15:35Z,1,19:00,01:00,0,0,,,
+108,3,14,New York Rangers,Tampa Bay Lightning,202202000382,2022020003,Faceoff,82,FACEOFF,Ryan Carpenter faceoff won against Vladislav Namestnikov,2022-10-12T00:16:02Z,1,19:00,01:00,0,0,3.0,New York Rangers,NYR
+109,3,14,New York Rangers,Tampa Bay Lightning,202202000348,2022020003,Stoppage,48,STOP,Icing,2022-10-12T00:16:21Z,1,19:19,00:41,0,0,,,
+110,3,14,New York Rangers,Tampa Bay Lightning,202202000383,2022020003,Faceoff,83,FACEOFF,Barclay Goodrow faceoff won against Steven Stamkos,2022-10-12T00:16:49Z,1,19:19,00:41,0,0,3.0,New York Rangers,NYR
+111,3,14,New York Rangers,Tampa Bay Lightning,202202000349,2022020003,Stoppage,49,STOP,Icing,2022-10-12T00:17:25Z,1,19:55,00:05,0,0,,,
+112,3,14,New York Rangers,Tampa Bay Lightning,202202000384,2022020003,Faceoff,84,FACEOFF,Mika Zibanejad faceoff won against Steven Stamkos,2022-10-12T00:17:55Z,1,19:55,00:05,0,0,3.0,New York Rangers,NYR
+113,3,14,New York Rangers,Tampa Bay Lightning,2022020003189,2022020003,Blocked Shot,189,BLOCKED_SHOT,Kaapo Kakko shot blocked shot by Brayden Point,2022-10-12T00:17:58Z,1,19:58,00:02,0,0,14.0,Tampa Bay Lightning,TBL
+114,3,14,New York Rangers,Tampa Bay Lightning,202202000350,2022020003,Period End,50,PERIOD_END,End of 1st Period,2022-10-12T00:18:00Z,1,20:00,00:00,0,0,,,
+115,3,14,New York Rangers,Tampa Bay Lightning,2022020003253,2022020003,Period Official,253,PERIOD_OFFICIAL,Period Official,2022-10-12T00:18:10Z,1,20:00,00:00,0,0,,,
+116,3,14,New York Rangers,Tampa Bay Lightning,2022020003254,2022020003,Period Ready,254,PERIOD_READY,Period Ready,2022-10-12T00:36:41Z,2,00:00,20:00,0,0,,,
+117,3,14,New York Rangers,Tampa Bay Lightning,202202000385,2022020003,Period Start,85,PERIOD_START,Period Start,2022-10-12T00:37:00Z,2,00:00,20:00,0,0,,,
+118,3,14,New York Rangers,Tampa Bay Lightning,202202000386,2022020003,Faceoff,86,FACEOFF,Mika Zibanejad faceoff won against Brayden Point,2022-10-12T00:37:00Z,2,00:00,20:00,0,0,3.0,New York Rangers,NYR
+119,3,14,New York Rangers,Tampa Bay Lightning,2022020003255,2022020003,Hit,255,HIT,Erik Cernak hit Chris Kreider,2022-10-12T00:37:11Z,2,00:11,19:49,0,0,14.0,Tampa Bay Lightning,TBL
+120,3,14,New York Rangers,Tampa Bay Lightning,202202000387,2022020003,Giveaway,87,GIVEAWAY,Giveaway by Chris Kreider,2022-10-12T00:37:13Z,2,00:13,19:47,0,0,3.0,New York Rangers,NYR
+121,3,14,New York Rangers,Tampa Bay Lightning,2022020003191,2022020003,Blocked Shot,191,BLOCKED_SHOT,Jacob Trouba shot blocked shot by Steven Stamkos,2022-10-12T00:37:18Z,2,00:18,19:42,0,0,14.0,Tampa Bay Lightning,TBL
+122,3,14,New York Rangers,Tampa Bay Lightning,2022020003192,2022020003,Shot,192,SHOT,Brayden Point Wrist Shot saved by Igor Shesterkin,2022-10-12T00:37:24Z,2,00:24,19:36,0,0,14.0,Tampa Bay Lightning,TBL
+123,3,14,New York Rangers,Tampa Bay Lightning,2022020003256,2022020003,Giveaway,256,GIVEAWAY,Giveaway by Andrei Vasilevskiy,2022-10-12T00:38:01Z,2,01:01,18:59,0,0,14.0,Tampa Bay Lightning,TBL
+124,3,14,New York Rangers,Tampa Bay Lightning,2022020003193,2022020003,Blocked Shot,193,BLOCKED_SHOT,Adam Fox shot blocked shot by Brandon Hagel,2022-10-12T00:38:07Z,2,01:07,18:53,0,0,14.0,Tampa Bay Lightning,TBL
+125,3,14,New York Rangers,Tampa Bay Lightning,202202000388,2022020003,Takeaway,88,TAKEAWAY,Takeaway by Nicholas Paul,2022-10-12T00:38:32Z,2,01:32,18:28,0,0,14.0,Tampa Bay Lightning,TBL
+126,3,14,New York Rangers,Tampa Bay Lightning,2022020003194,2022020003,Shot,194,SHOT,Victor Hedman Snap Shot saved by Igor Shesterkin,2022-10-12T00:38:36Z,2,01:36,18:24,0,0,14.0,Tampa Bay Lightning,TBL
+127,3,14,New York Rangers,Tampa Bay Lightning,2022020003195,2022020003,Missed Shot,195,MISSED_SHOT,Alex Killorn Wide of Net Igor Shesterkin,2022-10-12T00:38:39Z,2,01:39,18:21,0,0,14.0,Tampa Bay Lightning,TBL
+128,3,14,New York Rangers,Tampa Bay Lightning,2022020003498,2022020003,Penalty,498,PENALTY,Vincent Trocheck Holding against Nicholas Paul,2022-10-12T00:39:06Z,2,02:07,17:53,0,0,3.0,New York Rangers,NYR
+129,3,14,New York Rangers,Tampa Bay Lightning,202202000389,2022020003,Faceoff,89,FACEOFF,Barclay Goodrow faceoff won against Steven Stamkos,2022-10-12T00:40:03Z,2,02:07,17:53,0,0,3.0,New York Rangers,NYR
+130,3,14,New York Rangers,Tampa Bay Lightning,2022020003196,2022020003,Shot,196,SHOT,Nikita Kucherov Snap Shot saved by Igor Shesterkin,2022-10-12T00:40:27Z,2,02:31,17:29,0,0,14.0,Tampa Bay Lightning,TBL
+131,3,14,New York Rangers,Tampa Bay Lightning,2022020003258,2022020003,Stoppage,258,STOP,Goalie Stopped,2022-10-12T00:40:28Z,2,02:32,17:28,0,0,,,
+132,3,14,New York Rangers,Tampa Bay Lightning,202202000390,2022020003,Faceoff,90,FACEOFF,Barclay Goodrow faceoff won against Brayden Point,2022-10-12T00:40:57Z,2,02:32,17:28,0,0,3.0,New York Rangers,NYR
+133,3,14,New York Rangers,Tampa Bay Lightning,2022020003197,2022020003,Blocked Shot,197,BLOCKED_SHOT,Steven Stamkos shot blocked shot by Adam Fox,2022-10-12T00:41:05Z,2,02:40,17:20,0,0,3.0,New York Rangers,NYR
+134,3,14,New York Rangers,Tampa Bay Lightning,2022020003198,2022020003,Shot,198,SHOT,Barclay Goodrow Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T00:41:13Z,2,02:48,17:12,0,0,3.0,New York Rangers,NYR
+135,3,14,New York Rangers,Tampa Bay Lightning,202202000391,2022020003,Giveaway,91,GIVEAWAY,Giveaway by Nikita Kucherov,2022-10-12T00:41:26Z,2,03:01,16:59,0,0,14.0,Tampa Bay Lightning,TBL
+136,3,14,New York Rangers,Tampa Bay Lightning,2022020003199,2022020003,Shot,199,SHOT,Chris Kreider Slap Shot saved by Andrei Vasilevskiy,2022-10-12T00:41:34Z,2,03:09,16:51,0,0,3.0,New York Rangers,NYR
+137,3,14,New York Rangers,Tampa Bay Lightning,2022020003200,2022020003,Shot,200,SHOT,Chris Kreider Slap Shot saved by Andrei Vasilevskiy,2022-10-12T00:41:38Z,2,03:13,16:47,0,0,3.0,New York Rangers,NYR
+138,3,14,New York Rangers,Tampa Bay Lightning,2022020003259,2022020003,Hit,259,HIT,Chris Kreider hit Alex Killorn,2022-10-12T00:41:39Z,2,03:14,16:46,0,0,3.0,New York Rangers,NYR
+139,3,14,New York Rangers,Tampa Bay Lightning,202202000392,2022020003,Takeaway,92,TAKEAWAY,Takeaway by Mika Zibanejad,2022-10-12T00:41:40Z,2,03:15,16:45,0,0,3.0,New York Rangers,NYR
+140,3,14,New York Rangers,Tampa Bay Lightning,2022020003401,2022020003,Goal,401,GOAL,"Mika Zibanejad (1) Backhand, assists: Jacob Trouba (1), K'Andre Miller (1)",2022-10-12T00:41:50Z,2,03:25,16:35,1,0,3.0,New York Rangers,NYR
+141,3,14,New York Rangers,Tampa Bay Lightning,202202000393,2022020003,Faceoff,93,FACEOFF,Nicholas Paul faceoff won against Barclay Goodrow,2022-10-12T00:42:36Z,2,03:25,16:35,1,0,14.0,Tampa Bay Lightning,TBL
+142,3,14,New York Rangers,Tampa Bay Lightning,202202000394,2022020003,Giveaway,94,GIVEAWAY,Giveaway by Vladislav Namestnikov,2022-10-12T00:42:53Z,2,03:42,16:18,1,0,14.0,Tampa Bay Lightning,TBL
+143,3,14,New York Rangers,Tampa Bay Lightning,2022020003402,2022020003,Missed Shot,402,MISSED_SHOT,Corey Perry Wide of Net Igor Shesterkin,2022-10-12T00:43:30Z,2,04:19,15:41,1,0,14.0,Tampa Bay Lightning,TBL
+144,3,14,New York Rangers,Tampa Bay Lightning,202202000395,2022020003,Giveaway,95,GIVEAWAY,Giveaway by Corey Perry,2022-10-12T00:43:35Z,2,04:24,15:36,1,0,14.0,Tampa Bay Lightning,TBL
+145,3,14,New York Rangers,Tampa Bay Lightning,2022020003260,2022020003,Takeaway,260,TAKEAWAY,Takeaway by Victor Hedman,2022-10-12T00:43:41Z,2,04:30,15:30,1,0,14.0,Tampa Bay Lightning,TBL
+146,3,14,New York Rangers,Tampa Bay Lightning,2022020003261,2022020003,Stoppage,261,STOP,Referee or Linesman,2022-10-12T00:44:04Z,2,04:53,15:07,1,0,,,
+147,3,14,New York Rangers,Tampa Bay Lightning,202202000396,2022020003,Faceoff,96,FACEOFF,Pierre-Edouard Bellemare faceoff won against Alexis Lafrenière,2022-10-12T00:44:52Z,2,04:53,15:07,1,0,14.0,Tampa Bay Lightning,TBL
+148,3,14,New York Rangers,Tampa Bay Lightning,202202000397,2022020003,Giveaway,97,GIVEAWAY,Giveaway by Brandon Hagel,2022-10-12T00:45:01Z,2,05:02,14:58,1,0,14.0,Tampa Bay Lightning,TBL
+149,3,14,New York Rangers,Tampa Bay Lightning,2022020003262,2022020003,Hit,262,HIT,Cal Foote hit Alexis Lafrenière,2022-10-12T00:45:15Z,2,05:16,14:44,1,0,14.0,Tampa Bay Lightning,TBL
+150,3,14,New York Rangers,Tampa Bay Lightning,2022020003263,2022020003,Hit,263,HIT,Pat Maroon hit Ryan Lindgren,2022-10-12T00:45:38Z,2,05:39,14:21,1,0,14.0,Tampa Bay Lightning,TBL
+151,3,14,New York Rangers,Tampa Bay Lightning,202202000398,2022020003,Giveaway,98,GIVEAWAY,Giveaway by Jimmy Vesey,2022-10-12T00:45:53Z,2,05:54,14:06,1,0,3.0,New York Rangers,NYR
+152,3,14,New York Rangers,Tampa Bay Lightning,2022020003403,2022020003,Blocked Shot,403,BLOCKED_SHOT,K'Andre Miller shot blocked shot by Steven Stamkos,2022-10-12T00:46:14Z,2,06:15,13:45,1,0,14.0,Tampa Bay Lightning,TBL
+153,3,14,New York Rangers,Tampa Bay Lightning,2022020003404,2022020003,Shot,404,SHOT,Jacob Trouba Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T00:46:23Z,2,06:24,13:36,1,0,3.0,New York Rangers,NYR
+154,3,14,New York Rangers,Tampa Bay Lightning,202202000399,2022020003,Giveaway,99,GIVEAWAY,Giveaway by Chris Kreider,2022-10-12T00:46:41Z,2,06:42,13:18,1,0,3.0,New York Rangers,NYR
+155,3,14,New York Rangers,Tampa Bay Lightning,2022020003264,2022020003,Stoppage,264,STOP,Puck in Crowd,2022-10-12T00:47:01Z,2,07:03,12:57,1,0,,,
+156,3,14,New York Rangers,Tampa Bay Lightning,2022020003100,2022020003,Faceoff,100,FACEOFF,Mika Zibanejad faceoff won against Ross Colton,2022-10-12T00:49:24Z,2,07:03,12:57,1,0,3.0,New York Rangers,NYR
+157,3,14,New York Rangers,Tampa Bay Lightning,2022020003351,2022020003,Giveaway,351,GIVEAWAY,Giveaway by Jacob Trouba,2022-10-12T00:49:46Z,2,07:25,12:35,1,0,3.0,New York Rangers,NYR
+158,3,14,New York Rangers,Tampa Bay Lightning,2022020003352,2022020003,Giveaway,352,GIVEAWAY,Giveaway by Artemi Panarin,2022-10-12T00:50:18Z,2,07:57,12:03,1,0,3.0,New York Rangers,NYR
+159,3,14,New York Rangers,Tampa Bay Lightning,2022020003545,2022020003,Penalty,545,PENALTY,K'Andre Miller Tripping against Brandon Hagel,2022-10-12T00:50:24Z,2,08:02,11:58,1,0,3.0,New York Rangers,NYR
+160,3,14,New York Rangers,Tampa Bay Lightning,2022020003548,2022020003,Penalty,548,PENALTY,Barclay Goodrow Elbowing against Brandon Hagel,2022-10-12T00:50:24Z,2,08:02,11:58,1,0,3.0,New York Rangers,NYR
+161,3,14,New York Rangers,Tampa Bay Lightning,2022020003353,2022020003,Faceoff,353,FACEOFF,Brayden Point faceoff won against Mika Zibanejad,2022-10-12T00:51:53Z,2,08:02,11:58,1,0,14.0,Tampa Bay Lightning,TBL
+162,3,14,New York Rangers,Tampa Bay Lightning,2022020003405,2022020003,Blocked Shot,405,BLOCKED_SHOT,Brayden Point shot blocked shot by Ryan Lindgren,2022-10-12T00:52:24Z,2,08:33,11:27,1,0,3.0,New York Rangers,NYR
+163,3,14,New York Rangers,Tampa Bay Lightning,2022020003406,2022020003,Blocked Shot,406,BLOCKED_SHOT,Steven Stamkos shot blocked shot by Jacob Trouba,2022-10-12T00:52:32Z,2,08:41,11:19,1,0,3.0,New York Rangers,NYR
+164,3,14,New York Rangers,Tampa Bay Lightning,2022020003407,2022020003,Blocked Shot,407,BLOCKED_SHOT,Steven Stamkos shot blocked shot by Jacob Trouba,2022-10-12T00:52:47Z,2,08:56,11:04,1,0,3.0,New York Rangers,NYR
+165,3,14,New York Rangers,Tampa Bay Lightning,2022020003408,2022020003,Shot,408,SHOT,Nikita Kucherov Slap Shot saved by Igor Shesterkin,2022-10-12T00:52:56Z,2,09:05,10:55,1,0,14.0,Tampa Bay Lightning,TBL
+166,3,14,New York Rangers,Tampa Bay Lightning,2022020003266,2022020003,Stoppage,266,STOP,Goalie Stopped,2022-10-12T00:52:57Z,2,09:06,10:54,1,0,,,
+167,3,14,New York Rangers,Tampa Bay Lightning,2022020003354,2022020003,Faceoff,354,FACEOFF,Brayden Point faceoff won against Ryan Carpenter,2022-10-12T00:53:35Z,2,09:06,10:54,1,0,14.0,Tampa Bay Lightning,TBL
+168,3,14,New York Rangers,Tampa Bay Lightning,2022020003409,2022020003,Goal,409,GOAL,"Steven Stamkos (1) Slap Shot, assists: Nikita Kucherov (1), Brayden Point (1)",2022-10-12T00:53:39Z,2,09:09,10:51,1,1,14.0,Tampa Bay Lightning,TBL
+169,3,14,New York Rangers,Tampa Bay Lightning,2022020003355,2022020003,Faceoff,355,FACEOFF,Brayden Point faceoff won against Jimmy Vesey,2022-10-12T00:54:22Z,2,09:09,10:51,1,1,14.0,Tampa Bay Lightning,TBL
+170,3,14,New York Rangers,Tampa Bay Lightning,2022020003267,2022020003,Hit,267,HIT,Ryan Lindgren hit Steven Stamkos,2022-10-12T00:54:38Z,2,09:25,10:35,1,1,3.0,New York Rangers,NYR
+171,3,14,New York Rangers,Tampa Bay Lightning,2022020003410,2022020003,Shot,410,SHOT,Victor Hedman Slap Shot saved by Igor Shesterkin,2022-10-12T00:55:14Z,2,10:01,09:59,1,1,14.0,Tampa Bay Lightning,TBL
+172,3,14,New York Rangers,Tampa Bay Lightning,2022020003356,2022020003,Takeaway,356,TAKEAWAY,Takeaway by Ryan Carpenter,2022-10-12T00:55:17Z,2,10:04,09:56,1,1,3.0,New York Rangers,NYR
+173,3,14,New York Rangers,Tampa Bay Lightning,2022020003411,2022020003,Shot,411,SHOT,Nikita Kucherov Backhand saved by Igor Shesterkin,2022-10-12T00:55:28Z,2,10:15,09:45,1,1,14.0,Tampa Bay Lightning,TBL
+174,3,14,New York Rangers,Tampa Bay Lightning,2022020003357,2022020003,Takeaway,357,TAKEAWAY,Takeaway by Artemi Panarin,2022-10-12T00:56:04Z,2,10:51,09:09,1,1,3.0,New York Rangers,NYR
+175,3,14,New York Rangers,Tampa Bay Lightning,2022020003412,2022020003,Shot,412,SHOT,Artemi Panarin Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T00:56:08Z,2,10:55,09:05,1,1,3.0,New York Rangers,NYR
+176,3,14,New York Rangers,Tampa Bay Lightning,2022020003413,2022020003,Blocked Shot,413,BLOCKED_SHOT,Artemi Panarin shot blocked shot by Mikhail Sergachev,2022-10-12T00:56:15Z,2,11:02,08:58,1,1,14.0,Tampa Bay Lightning,TBL
+177,3,14,New York Rangers,Tampa Bay Lightning,2022020003435,2022020003,Blocked Shot,435,BLOCKED_SHOT,Alexis Lafrenière shot blocked shot by Mikhail Sergachev,2022-10-12T00:56:32Z,2,11:19,08:41,1,1,14.0,Tampa Bay Lightning,TBL
+178,3,14,New York Rangers,Tampa Bay Lightning,2022020003358,2022020003,Giveaway,358,GIVEAWAY,Giveaway by Mika Zibanejad,2022-10-12T00:56:40Z,2,11:27,08:33,1,1,3.0,New York Rangers,NYR
+179,3,14,New York Rangers,Tampa Bay Lightning,2022020003268,2022020003,Hit,268,HIT,Kaapo Kakko hit Victor Hedman,2022-10-12T00:57:13Z,2,12:00,08:00,1,1,3.0,New York Rangers,NYR
+180,3,14,New York Rangers,Tampa Bay Lightning,2022020003269,2022020003,Stoppage,269,STOP,Offside,2022-10-12T00:57:39Z,2,12:26,07:34,1,1,,,
+181,3,14,New York Rangers,Tampa Bay Lightning,2022020003359,2022020003,Faceoff,359,FACEOFF,Barclay Goodrow faceoff won against Vladislav Namestnikov,2022-10-12T01:00:08Z,2,12:26,07:34,1,1,3.0,New York Rangers,NYR
+182,3,14,New York Rangers,Tampa Bay Lightning,2022020003585,2022020003,Penalty,585,PENALTY,Ross Colton Interference against Filip Chytil,2022-10-12T01:00:15Z,2,12:33,07:27,1,1,14.0,Tampa Bay Lightning,TBL
+183,3,14,New York Rangers,Tampa Bay Lightning,2022020003360,2022020003,Faceoff,360,FACEOFF,Nicholas Paul faceoff won against Vincent Trocheck,2022-10-12T01:00:56Z,2,12:33,07:27,1,1,14.0,Tampa Bay Lightning,TBL
+184,3,14,New York Rangers,Tampa Bay Lightning,2022020003361,2022020003,Giveaway,361,GIVEAWAY,Giveaway by Adam Fox,2022-10-12T01:01:28Z,2,13:05,06:55,1,1,3.0,New York Rangers,NYR
+185,3,14,New York Rangers,Tampa Bay Lightning,2022020003414,2022020003,Shot,414,SHOT,Vincent Trocheck Snap Shot saved by Andrei Vasilevskiy,2022-10-12T01:01:43Z,2,13:20,06:40,1,1,3.0,New York Rangers,NYR
+186,3,14,New York Rangers,Tampa Bay Lightning,2022020003415,2022020003,Blocked Shot,415,BLOCKED_SHOT,Adam Fox shot blocked shot by Mikhail Sergachev,2022-10-12T01:02:04Z,2,13:41,06:19,1,1,14.0,Tampa Bay Lightning,TBL
+187,3,14,New York Rangers,Tampa Bay Lightning,2022020003416,2022020003,Shot,416,SHOT,Vincent Trocheck Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T01:02:17Z,2,13:54,06:06,1,1,3.0,New York Rangers,NYR
+188,3,14,New York Rangers,Tampa Bay Lightning,2022020003423,2022020003,Blocked Shot,423,BLOCKED_SHOT,Chris Kreider shot blocked shot by Mikhail Sergachev,2022-10-12T01:02:17Z,2,13:54,06:06,1,1,14.0,Tampa Bay Lightning,TBL
+189,3,14,New York Rangers,Tampa Bay Lightning,2022020003417,2022020003,Shot,417,SHOT,Chris Kreider Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T01:02:20Z,2,13:57,06:03,1,1,3.0,New York Rangers,NYR
+190,3,14,New York Rangers,Tampa Bay Lightning,2022020003424,2022020003,Missed Shot,424,MISSED_SHOT,Chris Kreider Wide of Net Andrei Vasilevskiy,2022-10-12T01:02:22Z,2,13:59,06:01,1,1,3.0,New York Rangers,NYR
+191,3,14,New York Rangers,Tampa Bay Lightning,2022020003425,2022020003,Shot,425,SHOT,Mika Zibanejad Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T01:02:23Z,2,14:00,06:00,1,1,3.0,New York Rangers,NYR
+192,3,14,New York Rangers,Tampa Bay Lightning,2022020003418,2022020003,Blocked Shot,418,BLOCKED_SHOT,Adam Fox shot blocked shot by Mikhail Sergachev,2022-10-12T01:02:33Z,2,14:10,05:50,1,1,14.0,Tampa Bay Lightning,TBL
+193,3,14,New York Rangers,Tampa Bay Lightning,2022020003419,2022020003,Blocked Shot,419,BLOCKED_SHOT,Mika Zibanejad shot blocked shot by Nicholas Paul,2022-10-12T01:02:47Z,2,14:24,05:36,1,1,14.0,Tampa Bay Lightning,TBL
+194,3,14,New York Rangers,Tampa Bay Lightning,2022020003271,2022020003,Stoppage,271,STOP,Puck in Netting,2022-10-12T01:02:48Z,2,14:25,05:35,1,1,,,
+195,3,14,New York Rangers,Tampa Bay Lightning,2022020003362,2022020003,Faceoff,362,FACEOFF,Pierre-Edouard Bellemare faceoff won against Filip Chytil,2022-10-12T01:03:21Z,2,14:25,05:35,1,1,14.0,Tampa Bay Lightning,TBL
+196,3,14,New York Rangers,Tampa Bay Lightning,2022020003420,2022020003,Shot,420,SHOT,Jacob Trouba Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T01:03:28Z,2,14:32,05:28,1,1,3.0,New York Rangers,NYR
+197,3,14,New York Rangers,Tampa Bay Lightning,2022020003363,2022020003,Takeaway,363,TAKEAWAY,Takeaway by K'Andre Miller,2022-10-12T01:03:34Z,2,14:38,05:22,1,1,3.0,New York Rangers,NYR
+198,3,14,New York Rangers,Tampa Bay Lightning,2022020003421,2022020003,Shot,421,SHOT,K'Andre Miller Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T01:03:34Z,2,14:38,05:22,1,1,3.0,New York Rangers,NYR
+199,3,14,New York Rangers,Tampa Bay Lightning,2022020003272,2022020003,Stoppage,272,STOP,Icing,2022-10-12T01:03:47Z,2,14:51,05:09,1,1,,,
+200,3,14,New York Rangers,Tampa Bay Lightning,2022020003364,2022020003,Faceoff,364,FACEOFF,Filip Chytil faceoff won against Brayden Point,2022-10-12T01:04:19Z,2,14:51,05:09,1,1,3.0,New York Rangers,NYR
+201,3,14,New York Rangers,Tampa Bay Lightning,2022020003422,2022020003,Shot,422,SHOT,Alexis Lafrenière Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T01:04:42Z,2,15:14,04:46,1,1,3.0,New York Rangers,NYR
+202,3,14,New York Rangers,Tampa Bay Lightning,2022020003274,2022020003,Stoppage,274,STOP,TV timeout,2022-10-12T01:04:42Z,2,15:15,04:45,1,1,,,
+203,3,14,New York Rangers,Tampa Bay Lightning,2022020003595,2022020003,Penalty,595,PENALTY,Steven Stamkos Slashing against Kaapo Kakko,2022-10-12T01:04:42Z,2,15:15,04:45,1,1,14.0,Tampa Bay Lightning,TBL
+204,3,14,New York Rangers,Tampa Bay Lightning,2022020003365,2022020003,Faceoff,365,FACEOFF,Vincent Trocheck faceoff won against Nicholas Paul,2022-10-12T01:07:01Z,2,15:15,04:45,1,1,3.0,New York Rangers,NYR
+205,3,14,New York Rangers,Tampa Bay Lightning,2022020003426,2022020003,Missed Shot,426,MISSED_SHOT,Artemi Panarin Wide of Net Andrei Vasilevskiy,2022-10-12T01:07:22Z,2,15:36,04:24,1,1,3.0,New York Rangers,NYR
+206,3,14,New York Rangers,Tampa Bay Lightning,2022020003427,2022020003,Missed Shot,427,MISSED_SHOT,Chris Kreider Wide of Net Andrei Vasilevskiy,2022-10-12T01:07:31Z,2,15:45,04:15,1,1,3.0,New York Rangers,NYR
+207,3,14,New York Rangers,Tampa Bay Lightning,2022020003366,2022020003,Giveaway,366,GIVEAWAY,Giveaway by Artemi Panarin,2022-10-12T01:07:58Z,2,16:12,03:48,1,1,3.0,New York Rangers,NYR
+208,3,14,New York Rangers,Tampa Bay Lightning,2022020003428,2022020003,Shot,428,SHOT,Mika Zibanejad Slap Shot saved by Andrei Vasilevskiy,2022-10-12T01:08:18Z,2,16:32,03:28,1,1,3.0,New York Rangers,NYR
+209,3,14,New York Rangers,Tampa Bay Lightning,2022020003437,2022020003,Blocked Shot,437,BLOCKED_SHOT,Adam Fox shot blocked shot by Mikhail Sergachev,2022-10-12T01:08:33Z,2,16:47,03:13,1,1,14.0,Tampa Bay Lightning,TBL
+210,3,14,New York Rangers,Tampa Bay Lightning,2022020003430,2022020003,Shot,430,SHOT,Mika Zibanejad Slap Shot saved by Andrei Vasilevskiy,2022-10-12T01:08:48Z,2,17:02,02:58,1,1,3.0,New York Rangers,NYR
+211,3,14,New York Rangers,Tampa Bay Lightning,2022020003367,2022020003,Giveaway,367,GIVEAWAY,Giveaway by Artemi Panarin,2022-10-12T01:08:58Z,2,17:12,02:48,1,1,3.0,New York Rangers,NYR
+212,3,14,New York Rangers,Tampa Bay Lightning,2022020003431,2022020003,Shot,431,SHOT,Nicholas Paul Backhand saved by Igor Shesterkin,2022-10-12T01:09:05Z,2,17:19,02:41,1,1,14.0,Tampa Bay Lightning,TBL
+213,3,14,New York Rangers,Tampa Bay Lightning,2022020003432,2022020003,Missed Shot,432,MISSED_SHOT,Victor Hedman Wide of Net Igor Shesterkin,2022-10-12T01:09:18Z,2,17:32,02:28,1,1,14.0,Tampa Bay Lightning,TBL
+214,3,14,New York Rangers,Tampa Bay Lightning,2022020003369,2022020003,Takeaway,369,TAKEAWAY,Takeaway by Jacob Trouba,2022-10-12T01:09:51Z,2,18:05,01:55,1,1,3.0,New York Rangers,NYR
+215,3,14,New York Rangers,Tampa Bay Lightning,2022020003433,2022020003,Blocked Shot,433,BLOCKED_SHOT,Filip Chytil shot blocked shot by Cal Foote,2022-10-12T01:09:58Z,2,18:12,01:48,1,1,14.0,Tampa Bay Lightning,TBL
+216,3,14,New York Rangers,Tampa Bay Lightning,2022020003370,2022020003,Giveaway,370,GIVEAWAY,Giveaway by Brayden Point,2022-10-12T01:10:09Z,2,18:23,01:37,1,1,14.0,Tampa Bay Lightning,TBL
+217,3,14,New York Rangers,Tampa Bay Lightning,2022020003275,2022020003,Hit,275,HIT,Pat Maroon hit Filip Chytil,2022-10-12T01:10:41Z,2,18:55,01:05,1,1,14.0,Tampa Bay Lightning,TBL
+218,3,14,New York Rangers,Tampa Bay Lightning,2022020003371,2022020003,Takeaway,371,TAKEAWAY,Takeaway by Zac Jones,2022-10-12T01:10:57Z,2,19:11,00:49,1,1,3.0,New York Rangers,NYR
+219,3,14,New York Rangers,Tampa Bay Lightning,2022020003372,2022020003,Giveaway,372,GIVEAWAY,Giveaway by Pierre-Edouard Bellemare,2022-10-12T01:11:08Z,2,19:22,00:38,1,1,14.0,Tampa Bay Lightning,TBL
+220,3,14,New York Rangers,Tampa Bay Lightning,2022020003434,2022020003,Shot,434,SHOT,Alexis Lafrenière Tip-In saved by Andrei Vasilevskiy,2022-10-12T01:11:18Z,2,19:32,00:28,1,1,3.0,New York Rangers,NYR
+221,3,14,New York Rangers,Tampa Bay Lightning,2022020003276,2022020003,Hit,276,HIT,Alexis Lafrenière hit Cole Koepke,2022-10-12T01:11:21Z,2,19:35,00:25,1,1,3.0,New York Rangers,NYR
+222,3,14,New York Rangers,Tampa Bay Lightning,2022020003277,2022020003,Stoppage,277,STOP,Offside,2022-10-12T01:11:32Z,2,19:44,00:16,1,1,,,
+223,3,14,New York Rangers,Tampa Bay Lightning,2022020003373,2022020003,Faceoff,373,FACEOFF,Mika Zibanejad faceoff won against Steven Stamkos,2022-10-12T01:12:09Z,2,19:44,00:16,1,1,3.0,New York Rangers,NYR
+224,3,14,New York Rangers,Tampa Bay Lightning,2022020003278,2022020003,Hit,278,HIT,Erik Cernak hit Chris Kreider,2022-10-12T01:12:14Z,2,19:50,00:10,1,1,14.0,Tampa Bay Lightning,TBL
+225,3,14,New York Rangers,Tampa Bay Lightning,2022020003279,2022020003,Period End,279,PERIOD_END,End of 2nd Period,2022-10-12T01:12:24Z,2,20:00,00:00,1,1,,,
+226,3,14,New York Rangers,Tampa Bay Lightning,2022020003282,2022020003,Period Official,282,PERIOD_OFFICIAL,Period Official,2022-10-12T01:12:34Z,2,20:00,00:00,1,1,,,
+227,3,14,New York Rangers,Tampa Bay Lightning,2022020003283,2022020003,Period Ready,283,PERIOD_READY,Period Ready,2022-10-12T01:31:10Z,3,00:00,20:00,1,1,,,
+228,3,14,New York Rangers,Tampa Bay Lightning,2022020003374,2022020003,Period Start,374,PERIOD_START,Period Start,2022-10-12T01:31:23Z,3,00:00,20:00,1,1,,,
+229,3,14,New York Rangers,Tampa Bay Lightning,2022020003375,2022020003,Faceoff,375,FACEOFF,Mika Zibanejad faceoff won against Brayden Point,2022-10-12T01:31:23Z,3,00:00,20:00,1,1,3.0,New York Rangers,NYR
+230,3,14,New York Rangers,Tampa Bay Lightning,2022020003284,2022020003,Takeaway,284,TAKEAWAY,Takeaway by Nikita Kucherov,2022-10-12T01:31:32Z,3,00:09,19:51,1,1,14.0,Tampa Bay Lightning,TBL
+231,3,14,New York Rangers,Tampa Bay Lightning,2022020003377,2022020003,Takeaway,377,TAKEAWAY,Takeaway by Vincent Trocheck,2022-10-12T01:32:14Z,3,00:51,19:09,1,1,3.0,New York Rangers,NYR
+232,3,14,New York Rangers,Tampa Bay Lightning,2022020003438,2022020003,Shot,438,SHOT,Alexis Lafrenière Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T01:32:16Z,3,00:53,19:07,1,1,3.0,New York Rangers,NYR
+233,3,14,New York Rangers,Tampa Bay Lightning,2022020003439,2022020003,Shot,439,SHOT,Ryan Lindgren Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T01:32:31Z,3,01:08,18:52,1,1,3.0,New York Rangers,NYR
+234,3,14,New York Rangers,Tampa Bay Lightning,2022020003285,2022020003,Stoppage,285,STOP,Icing,2022-10-12T01:32:43Z,3,01:21,18:39,1,1,,,
+235,3,14,New York Rangers,Tampa Bay Lightning,2022020003378,2022020003,Faceoff,378,FACEOFF,Vladislav Namestnikov faceoff won against Vincent Trocheck,2022-10-12T01:33:16Z,3,01:21,18:39,1,1,14.0,Tampa Bay Lightning,TBL
+236,3,14,New York Rangers,Tampa Bay Lightning,2022020003440,2022020003,Shot,440,SHOT,Philippe Myers Wrist Shot saved by Igor Shesterkin,2022-10-12T01:33:28Z,3,01:33,18:27,1,1,14.0,Tampa Bay Lightning,TBL
+237,3,14,New York Rangers,Tampa Bay Lightning,2022020003379,2022020003,Giveaway,379,GIVEAWAY,Giveaway by Cole Koepke,2022-10-12T01:33:40Z,3,01:45,18:15,1,1,14.0,Tampa Bay Lightning,TBL
+238,3,14,New York Rangers,Tampa Bay Lightning,2022020003441,2022020003,Blocked Shot,441,BLOCKED_SHOT,Cole Koepke shot blocked shot by Ryan Lindgren,2022-10-12T01:33:40Z,3,01:45,18:15,1,1,3.0,New York Rangers,NYR
+239,3,14,New York Rangers,Tampa Bay Lightning,2022020003286,2022020003,Hit,286,HIT,Philippe Myers hit Alexis Lafrenière,2022-10-12T01:33:49Z,3,01:54,18:06,1,1,14.0,Tampa Bay Lightning,TBL
+240,3,14,New York Rangers,Tampa Bay Lightning,2022020003442,2022020003,Shot,442,SHOT,Jimmy Vesey Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T01:34:29Z,3,02:34,17:26,1,1,3.0,New York Rangers,NYR
+241,3,14,New York Rangers,Tampa Bay Lightning,2022020003852,2022020003,Penalty,852,PENALTY,Barclay Goodrow Tripping against Pierre-Edouard Bellemare,2022-10-12T01:34:35Z,3,02:40,17:20,1,1,3.0,New York Rangers,NYR
+242,3,14,New York Rangers,Tampa Bay Lightning,2022020003380,2022020003,Faceoff,380,FACEOFF,Mika Zibanejad faceoff won against Brayden Point,2022-10-12T01:35:20Z,3,02:40,17:20,1,1,3.0,New York Rangers,NYR
+243,3,14,New York Rangers,Tampa Bay Lightning,2022020003443,2022020003,Missed Shot,443,MISSED_SHOT,Steven Stamkos Wide of Net Igor Shesterkin,2022-10-12T01:35:32Z,3,02:52,17:08,1,1,14.0,Tampa Bay Lightning,TBL
+244,3,14,New York Rangers,Tampa Bay Lightning,2022020003381,2022020003,Giveaway,381,GIVEAWAY,Giveaway by Nikita Kucherov,2022-10-12T01:35:38Z,3,02:58,17:02,1,1,14.0,Tampa Bay Lightning,TBL
+245,3,14,New York Rangers,Tampa Bay Lightning,2022020003287,2022020003,Hit,287,HIT,K'Andre Miller hit Steven Stamkos,2022-10-12T01:35:42Z,3,03:02,16:58,1,1,3.0,New York Rangers,NYR
+246,3,14,New York Rangers,Tampa Bay Lightning,2022020003288,2022020003,Stoppage,288,STOP,Offside,2022-10-12T01:35:54Z,3,03:15,16:45,1,1,,,
+247,3,14,New York Rangers,Tampa Bay Lightning,2022020003382,2022020003,Faceoff,382,FACEOFF,Brayden Point faceoff won against Vincent Trocheck,2022-10-12T01:36:25Z,3,03:15,16:45,1,1,14.0,Tampa Bay Lightning,TBL
+248,3,14,New York Rangers,Tampa Bay Lightning,2022020003444,2022020003,Shot,444,SHOT,Victor Hedman Wrist Shot saved by Igor Shesterkin,2022-10-12T01:36:59Z,3,03:49,16:11,1,1,14.0,Tampa Bay Lightning,TBL
+249,3,14,New York Rangers,Tampa Bay Lightning,2022020003868,2022020003,Penalty,868,PENALTY,Vladislav Namestnikov High-sticking against Barclay Goodrow,2022-10-12T01:38:10Z,3,04:59,15:01,1,1,14.0,Tampa Bay Lightning,TBL
+250,3,14,New York Rangers,Tampa Bay Lightning,2022020003383,2022020003,Faceoff,383,FACEOFF,Nicholas Paul faceoff won against Mika Zibanejad,2022-10-12T01:39:18Z,3,04:59,15:01,1,1,14.0,Tampa Bay Lightning,TBL
+251,3,14,New York Rangers,Tampa Bay Lightning,2022020003445,2022020003,Goal,445,GOAL,"Mika Zibanejad (2) Slap Shot, assists: Artemi Panarin (1), Chris Kreider (1)",2022-10-12T01:39:30Z,3,05:11,14:49,2,1,3.0,New York Rangers,NYR
+252,3,14,New York Rangers,Tampa Bay Lightning,2022020003384,2022020003,Faceoff,384,FACEOFF,Vincent Trocheck faceoff won against Nicholas Paul,2022-10-12T01:40:27Z,3,05:11,14:49,2,1,3.0,New York Rangers,NYR
+253,3,14,New York Rangers,Tampa Bay Lightning,2022020003289,2022020003,Stoppage,289,STOP,Icing,2022-10-12T01:40:34Z,3,05:17,14:43,2,1,,,
+254,3,14,New York Rangers,Tampa Bay Lightning,2022020003385,2022020003,Faceoff,385,FACEOFF,Vincent Trocheck faceoff won against Brayden Point,2022-10-12T01:41:05Z,3,05:17,14:43,2,1,3.0,New York Rangers,NYR
+255,3,14,New York Rangers,Tampa Bay Lightning,2022020003446,2022020003,Missed Shot,446,MISSED_SHOT,Braden Schneider Over Net Andrei Vasilevskiy,2022-10-12T01:41:23Z,3,05:35,14:25,2,1,3.0,New York Rangers,NYR
+256,3,14,New York Rangers,Tampa Bay Lightning,2022020003447,2022020003,Blocked Shot,447,BLOCKED_SHOT,Alexis Lafrenière shot blocked shot by Cal Foote,2022-10-12T01:41:32Z,3,05:44,14:16,2,1,14.0,Tampa Bay Lightning,TBL
+257,3,14,New York Rangers,Tampa Bay Lightning,2022020003448,2022020003,Shot,448,SHOT,Vincent Trocheck Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T01:41:37Z,3,05:49,14:11,2,1,3.0,New York Rangers,NYR
+258,3,14,New York Rangers,Tampa Bay Lightning,2022020003290,2022020003,Hit,290,HIT,Brayden Point hit Artemi Panarin,2022-10-12T01:41:43Z,3,05:55,14:05,2,1,14.0,Tampa Bay Lightning,TBL
+259,3,14,New York Rangers,Tampa Bay Lightning,2022020003449,2022020003,Shot,449,SHOT,Alexis Lafrenière Wrist Shot saved by Andrei Vasilevskiy,2022-10-12T01:41:44Z,3,05:56,14:04,2,1,3.0,New York Rangers,NYR
+260,3,14,New York Rangers,Tampa Bay Lightning,2022020003291,2022020003,Stoppage,291,STOP,Goalie Stopped,2022-10-12T01:41:46Z,3,05:57,14:03,2,1,,,
+261,3,14,New York Rangers,Tampa Bay Lightning,2022020003386,2022020003,Faceoff,386,FACEOFF,Barclay Goodrow faceoff won against Nicholas Paul,2022-10-12T01:42:18Z,3,05:57,14:03,2,1,3.0,New York Rangers,NYR
+262,3,14,New York Rangers,Tampa Bay Lightning,2022020003450,2022020003,Shot,450,SHOT,K'Andre Miller Snap Shot saved by Andrei Vasilevskiy,2022-10-12T01:42:29Z,3,06:08,13:52,2,1,3.0,New York Rangers,NYR
+263,3,14,New York Rangers,Tampa Bay Lightning,2022020003751,2022020003,Missed Shot,751,MISSED_SHOT,Ryan Reaves Wide of Net Andrei Vasilevskiy,2022-10-12T01:42:46Z,3,06:25,13:35,2,1,3.0,New York Rangers,NYR
+264,3,14,New York Rangers,Tampa Bay Lightning,2022020003292,2022020003,Hit,292,HIT,Ryan Reaves hit Mikhail Sergachev,2022-10-12T01:42:48Z,3,06:27,13:33,2,1,3.0,New York Rangers,NYR
+265,3,14,New York Rangers,Tampa Bay Lightning,2022020003293,2022020003,Stoppage,293,STOP,TV timeout,2022-10-12T01:43:02Z,3,06:42,13:18,2,1,,,
+266,3,14,New York Rangers,Tampa Bay Lightning,2022020003881,2022020003,Penalty,881,PENALTY,Ryan Carpenter Holding against Nicholas Paul,2022-10-12T01:43:02Z,3,06:42,13:18,2,1,3.0,New York Rangers,NYR
+267,3,14,New York Rangers,Tampa Bay Lightning,2022020003387,2022020003,Faceoff,387,FACEOFF,Mika Zibanejad faceoff won against Brayden Point,2022-10-12T01:45:43Z,3,06:42,13:18,2,1,3.0,New York Rangers,NYR
+268,3,14,New York Rangers,Tampa Bay Lightning,2022020003752,2022020003,Missed Shot,752,MISSED_SHOT,Mika Zibanejad Wide of Net Andrei Vasilevskiy,2022-10-12T01:46:06Z,3,07:05,12:55,2,1,3.0,New York Rangers,NYR
+269,3,14,New York Rangers,Tampa Bay Lightning,2022020003388,2022020003,Takeaway,388,TAKEAWAY,Takeaway by K'Andre Miller,2022-10-12T01:46:26Z,3,07:25,12:35,2,1,3.0,New York Rangers,NYR
+270,3,14,New York Rangers,Tampa Bay Lightning,2022020003753,2022020003,Shot,753,SHOT,Steven Stamkos Wrist Shot saved by Igor Shesterkin,2022-10-12T01:46:46Z,3,07:45,12:15,2,1,14.0,Tampa Bay Lightning,TBL
+271,3,14,New York Rangers,Tampa Bay Lightning,2022020003294,2022020003,Stoppage,294,STOP,Goalie Stopped,2022-10-12T01:46:47Z,3,07:46,12:14,2,1,,,
+272,3,14,New York Rangers,Tampa Bay Lightning,2022020003389,2022020003,Faceoff,389,FACEOFF,Nicholas Paul faceoff won against Vincent Trocheck,2022-10-12T01:47:18Z,3,07:46,12:14,2,1,14.0,Tampa Bay Lightning,TBL
+273,3,14,New York Rangers,Tampa Bay Lightning,2022020003754,2022020003,Shot,754,SHOT,Corey Perry Wrist Shot saved by Igor Shesterkin,2022-10-12T01:47:30Z,3,07:58,12:02,2,1,14.0,Tampa Bay Lightning,TBL
+274,3,14,New York Rangers,Tampa Bay Lightning,2022020003295,2022020003,Hit,295,HIT,Vladislav Namestnikov hit Ryan Lindgren,2022-10-12T01:48:14Z,3,08:42,11:18,2,1,14.0,Tampa Bay Lightning,TBL
+275,3,14,New York Rangers,Tampa Bay Lightning,2022020003296,2022020003,Hit,296,HIT,Victor Hedman hit Artemi Panarin,2022-10-12T01:48:37Z,3,09:05,10:55,2,1,14.0,Tampa Bay Lightning,TBL
+276,3,14,New York Rangers,Tampa Bay Lightning,2022020003390,2022020003,Giveaway,390,GIVEAWAY,Giveaway by Filip Chytil,2022-10-12T01:48:44Z,3,09:12,10:48,2,1,3.0,New York Rangers,NYR
+277,3,14,New York Rangers,Tampa Bay Lightning,2022020003297,2022020003,Hit,297,HIT,Braden Schneider hit Cole Koepke,2022-10-12T01:48:48Z,3,09:16,10:44,2,1,3.0,New York Rangers,NYR
+278,3,14,New York Rangers,Tampa Bay Lightning,2022020003298,2022020003,Hit,298,HIT,Pierre-Edouard Bellemare hit Filip Chytil,2022-10-12T01:49:05Z,3,09:33,10:27,2,1,14.0,Tampa Bay Lightning,TBL
+279,3,14,New York Rangers,Tampa Bay Lightning,2022020003391,2022020003,Giveaway,391,GIVEAWAY,Giveaway by Alexis Lafrenière,2022-10-12T01:49:18Z,3,09:46,10:14,2,1,3.0,New York Rangers,NYR
+280,3,14,New York Rangers,Tampa Bay Lightning,2022020003392,2022020003,Giveaway,392,GIVEAWAY,Giveaway by Cal Foote,2022-10-12T01:49:41Z,3,10:09,09:51,2,1,14.0,Tampa Bay Lightning,TBL
+281,3,14,New York Rangers,Tampa Bay Lightning,2022020003756,2022020003,Shot,756,SHOT,Mika Zibanejad Snap Shot saved by Andrei Vasilevskiy,2022-10-12T01:49:42Z,3,10:10,09:50,2,1,3.0,New York Rangers,NYR
+282,3,14,New York Rangers,Tampa Bay Lightning,2022020003393,2022020003,Takeaway,393,TAKEAWAY,Takeaway by Jacob Trouba,2022-10-12T01:49:55Z,3,10:23,09:37,2,1,3.0,New York Rangers,NYR
+283,3,14,New York Rangers,Tampa Bay Lightning,2022020003394,2022020003,Takeaway,394,TAKEAWAY,Takeaway by Chris Kreider,2022-10-12T01:50:05Z,3,10:33,09:27,2,1,3.0,New York Rangers,NYR
+284,3,14,New York Rangers,Tampa Bay Lightning,2022020003299,2022020003,Hit,299,HIT,Ryan Carpenter hit Alex Killorn,2022-10-12T01:50:29Z,3,10:57,09:03,2,1,3.0,New York Rangers,NYR
+285,3,14,New York Rangers,Tampa Bay Lightning,2022020003757,2022020003,Goal,757,GOAL,"Barclay Goodrow (1) Tip-In, assists: Ryan Lindgren (1), Ryan Carpenter (1)",2022-10-12T01:50:32Z,3,11:00,09:00,3,1,3.0,New York Rangers,NYR
+286,3,14,New York Rangers,Tampa Bay Lightning,2022020003395,2022020003,Faceoff,395,FACEOFF,Pierre-Edouard Bellemare faceoff won against Barclay Goodrow,2022-10-12T01:51:29Z,3,11:00,09:00,3,1,14.0,Tampa Bay Lightning,TBL
+287,3,14,New York Rangers,Tampa Bay Lightning,2022020003300,2022020003,Stoppage,300,STOP,Goalie Stopped,2022-10-12T01:51:52Z,3,11:24,08:36,3,1,,,
+288,3,14,New York Rangers,Tampa Bay Lightning,2022020003758,2022020003,Shot,758,SHOT,Pat Maroon Wrist Shot saved by Igor Shesterkin,2022-10-12T01:51:52Z,3,11:24,08:36,3,1,14.0,Tampa Bay Lightning,TBL
+289,3,14,New York Rangers,Tampa Bay Lightning,2022020003397,2022020003,Faceoff,397,FACEOFF,Pierre-Edouard Bellemare faceoff won against Vincent Trocheck,2022-10-12T01:54:18Z,3,11:24,08:36,3,1,14.0,Tampa Bay Lightning,TBL
+290,3,14,New York Rangers,Tampa Bay Lightning,2022020003398,2022020003,Takeaway,398,TAKEAWAY,Takeaway by Artemi Panarin,2022-10-12T01:54:39Z,3,11:45,08:15,3,1,3.0,New York Rangers,NYR
+291,3,14,New York Rangers,Tampa Bay Lightning,2022020003701,2022020003,Stoppage,701,STOP,Icing,2022-10-12T01:54:50Z,3,11:55,08:05,3,1,,,
+292,3,14,New York Rangers,Tampa Bay Lightning,2022020003399,2022020003,Faceoff,399,FACEOFF,Mika Zibanejad faceoff won against Pierre-Edouard Bellemare,2022-10-12T01:55:16Z,3,11:55,08:05,3,1,3.0,New York Rangers,NYR
+293,3,14,New York Rangers,Tampa Bay Lightning,2022020003760,2022020003,Blocked Shot,760,BLOCKED_SHOT,Jacob Trouba shot blocked shot by Steven Stamkos,2022-10-12T01:56:15Z,3,12:54,07:06,3,1,14.0,Tampa Bay Lightning,TBL
+294,3,14,New York Rangers,Tampa Bay Lightning,2022020003759,2022020003,Blocked Shot,759,BLOCKED_SHOT,Filip Chytil shot blocked shot by Erik Cernak,2022-10-12T01:56:16Z,3,12:55,07:05,3,1,14.0,Tampa Bay Lightning,TBL
+295,3,14,New York Rangers,Tampa Bay Lightning,2022020003928,2022020003,Penalty,928,PENALTY,Filip Chytil Holding against Erik Cernak,2022-10-12T01:56:28Z,3,13:07,06:53,3,1,3.0,New York Rangers,NYR
+296,3,14,New York Rangers,Tampa Bay Lightning,2022020003400,2022020003,Faceoff,400,FACEOFF,Mika Zibanejad faceoff won against Nicholas Paul,2022-10-12T01:57:25Z,3,13:07,06:53,3,1,3.0,New York Rangers,NYR
+297,3,14,New York Rangers,Tampa Bay Lightning,2022020003801,2022020003,Takeaway,801,TAKEAWAY,Takeaway by Mika Zibanejad,2022-10-12T01:57:35Z,3,13:17,06:43,3,1,3.0,New York Rangers,NYR
+298,3,14,New York Rangers,Tampa Bay Lightning,2022020003761,2022020003,Shot,761,SHOT,Corey Perry Snap Shot saved by Igor Shesterkin,2022-10-12T01:58:04Z,3,13:46,06:14,3,1,14.0,Tampa Bay Lightning,TBL
+299,3,14,New York Rangers,Tampa Bay Lightning,2022020003763,2022020003,Missed Shot,763,MISSED_SHOT,Brandon Hagel Wide of Net Igor Shesterkin,2022-10-12T01:59:47Z,3,15:29,04:31,3,1,14.0,Tampa Bay Lightning,TBL
+300,3,14,New York Rangers,Tampa Bay Lightning,2022020003764,2022020003,Missed Shot,764,MISSED_SHOT,Kaapo Kakko Wide of Net Andrei Vasilevskiy,2022-10-12T02:00:00Z,3,15:42,04:18,3,1,3.0,New York Rangers,NYR
+301,3,14,New York Rangers,Tampa Bay Lightning,2022020003765,2022020003,Shot,765,SHOT,Philippe Myers Wrist Shot saved by Igor Shesterkin,2022-10-12T02:00:42Z,3,16:24,03:36,3,1,14.0,Tampa Bay Lightning,TBL
+302,3,14,New York Rangers,Tampa Bay Lightning,2022020003802,2022020003,Takeaway,802,TAKEAWAY,Takeaway by Braden Schneider,2022-10-12T02:01:11Z,3,16:53,03:07,3,1,3.0,New York Rangers,NYR
+303,3,14,New York Rangers,Tampa Bay Lightning,2022020003766,2022020003,Missed Shot,766,MISSED_SHOT,Vincent Trocheck Wide of Net Andrei Vasilevskiy,2022-10-12T02:01:23Z,3,17:05,02:55,3,1,3.0,New York Rangers,NYR
+304,3,14,New York Rangers,Tampa Bay Lightning,2022020003768,2022020003,Shot,768,SHOT,Corey Perry Slap Shot saved by Igor Shesterkin,2022-10-12T02:02:30Z,3,18:12,01:48,3,1,14.0,Tampa Bay Lightning,TBL
+305,3,14,New York Rangers,Tampa Bay Lightning,2022020003703,2022020003,Stoppage,703,STOP,Goalie Stopped,2022-10-12T02:02:31Z,3,18:13,01:47,3,1,,,
+306,3,14,New York Rangers,Tampa Bay Lightning,2022020003804,2022020003,Faceoff,804,FACEOFF,Steven Stamkos faceoff won against Barclay Goodrow,2022-10-12T02:04:18Z,3,18:13,01:47,3,1,14.0,Tampa Bay Lightning,TBL
+307,3,14,New York Rangers,Tampa Bay Lightning,2022020003769,2022020003,Missed Shot,769,MISSED_SHOT,Steven Stamkos Wide of Net Igor Shesterkin,2022-10-12T02:04:21Z,3,18:16,01:44,3,1,14.0,Tampa Bay Lightning,TBL
+308,3,14,New York Rangers,Tampa Bay Lightning,2022020003770,2022020003,Shot,770,SHOT,Steven Stamkos Slap Shot saved by Igor Shesterkin,2022-10-12T02:04:26Z,3,18:21,01:39,3,1,14.0,Tampa Bay Lightning,TBL
+309,3,14,New York Rangers,Tampa Bay Lightning,2022020003704,2022020003,Stoppage,704,STOP,High Stick,2022-10-12T02:04:45Z,3,18:40,01:20,3,1,,,
+310,3,14,New York Rangers,Tampa Bay Lightning,2022020003805,2022020003,Faceoff,805,FACEOFF,Nicholas Paul faceoff won against Vincent Trocheck,2022-10-12T02:05:16Z,3,18:40,01:20,3,1,14.0,Tampa Bay Lightning,TBL
+311,3,14,New York Rangers,Tampa Bay Lightning,2022020003771,2022020003,Missed Shot,771,MISSED_SHOT,Nikita Kucherov Wide of Net Igor Shesterkin,2022-10-12T02:05:21Z,3,18:45,01:15,3,1,14.0,Tampa Bay Lightning,TBL
+312,3,14,New York Rangers,Tampa Bay Lightning,2022020003705,2022020003,Stoppage,705,STOP,Icing,2022-10-12T02:05:56Z,3,19:19,00:41,3,1,,,
+313,3,14,New York Rangers,Tampa Bay Lightning,2022020003772,2022020003,Missed Shot,772,MISSED_SHOT,Mika Zibanejad Goalpost,2022-10-12T02:05:56Z,3,19:19,00:41,3,1,3.0,New York Rangers,NYR
+314,3,14,New York Rangers,Tampa Bay Lightning,2022020003806,2022020003,Takeaway,806,TAKEAWAY,Takeaway by Vincent Trocheck,2022-10-12T02:05:56Z,3,19:19,00:41,3,1,3.0,New York Rangers,NYR
+315,3,14,New York Rangers,Tampa Bay Lightning,2022020003807,2022020003,Faceoff,807,FACEOFF,Vincent Trocheck faceoff won against Nicholas Paul,2022-10-12T02:06:29Z,3,19:19,00:41,3,1,3.0,New York Rangers,NYR
+316,3,14,New York Rangers,Tampa Bay Lightning,2022020003706,2022020003,Stoppage,706,STOP,Icing,2022-10-12T02:06:49Z,3,19:39,00:21,3,1,,,
+317,3,14,New York Rangers,Tampa Bay Lightning,2022020003808,2022020003,Faceoff,808,FACEOFF,Vincent Trocheck faceoff won against Nicholas Paul,2022-10-12T02:07:13Z,3,19:39,00:21,3,1,3.0,New York Rangers,NYR
+318,3,14,New York Rangers,Tampa Bay Lightning,2022020003773,2022020003,Shot,773,SHOT,Corey Perry Wrist Shot saved by Igor Shesterkin,2022-10-12T02:07:23Z,3,19:49,00:11,3,1,14.0,Tampa Bay Lightning,TBL
+319,3,14,New York Rangers,Tampa Bay Lightning,2022020003775,2022020003,Blocked Shot,775,BLOCKED_SHOT,Vincent Trocheck shot blocked shot by Nikita Kucherov,2022-10-12T02:07:30Z,3,19:56,00:04,3,1,14.0,Tampa Bay Lightning,TBL
+320,3,14,New York Rangers,Tampa Bay Lightning,2022020003707,2022020003,Period End,707,PERIOD_END,End of 3rd Period,2022-10-12T02:07:34Z,3,20:00,00:00,3,1,,,
+321,3,14,New York Rangers,Tampa Bay Lightning,2022020003710,2022020003,Period Official,710,PERIOD_OFFICIAL,Period Official,2022-10-12T02:07:51Z,3,20:00,00:00,3,1,,,
+322,3,14,New York Rangers,Tampa Bay Lightning,2022020003711,2022020003,Game End,711,GAME_END,Game End,2022-10-12T02:07:54Z,3,20:00,00:00,3,1,,,
+323,3,14,New York Rangers,Tampa Bay Lightning,2022020003713,2022020003,Game Official,713,GAME_OFFICIAL,Game Official,2022-10-12T02:16:46Z,3,20:00,00:00,3,1,,,

@@ -1,0 +1,314 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,26,21,Los Angeles Kings,Colorado Avalanche,20220212721,2022021272,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-04-09T01:45:33Z,1,00:00,20:00,0,0,,,
+1,26,21,Los Angeles Kings,Colorado Avalanche,202202127254,2022021272,Period Ready,54,PERIOD_READY,Period Ready,2023-04-09T02:38:42Z,1,00:00,20:00,0,0,,,
+2,26,21,Los Angeles Kings,Colorado Avalanche,2022021272101,2022021272,Period Start,101,PERIOD_START,Period Start,2023-04-09T02:40:08Z,1,00:00,20:00,0,0,,,
+3,26,21,Los Angeles Kings,Colorado Avalanche,2022021272102,2022021272,Faceoff,102,FACEOFF,Anze Kopitar faceoff won against Nathan MacKinnon,2023-04-09T02:40:08Z,1,00:00,20:00,0,0,26.0,Los Angeles Kings,LAK
+4,26,21,Los Angeles Kings,Colorado Avalanche,202202127258,2022021272,Giveaway,58,GIVEAWAY,Giveaway by Alexandar Georgiev,2023-04-09T02:40:17Z,1,00:09,19:51,0,0,21.0,Colorado Avalanche,COL
+5,26,21,Los Angeles Kings,Colorado Avalanche,2022021272202,2022021272,Stoppage,202,STOP,Icing,2023-04-09T02:40:26Z,1,00:18,19:42,0,0,,,
+6,26,21,Los Angeles Kings,Colorado Avalanche,2022021272103,2022021272,Faceoff,103,FACEOFF,Nathan MacKinnon faceoff won against Anze Kopitar,2023-04-09T02:40:47Z,1,00:18,19:42,0,0,21.0,Colorado Avalanche,COL
+7,26,21,Los Angeles Kings,Colorado Avalanche,202202127259,2022021272,Giveaway,59,GIVEAWAY,Giveaway by Anze Kopitar,2023-04-09T02:41:02Z,1,00:33,19:27,0,0,26.0,Los Angeles Kings,LAK
+8,26,21,Los Angeles Kings,Colorado Avalanche,202202127260,2022021272,Giveaway,60,GIVEAWAY,Giveaway by Sean Durzi,2023-04-09T02:41:27Z,1,00:58,19:02,0,0,26.0,Los Angeles Kings,LAK
+9,26,21,Los Angeles Kings,Colorado Avalanche,20220212722,2022021272,Blocked Shot,2,BLOCKED_SHOT,Erik Johnson shot blocked shot by Sean Durzi,2023-04-09T02:41:35Z,1,01:06,18:54,0,0,26.0,Los Angeles Kings,LAK
+10,26,21,Los Angeles Kings,Colorado Avalanche,2022021272104,2022021272,Shot,104,SHOT,Viktor Arvidsson Backhand saved by Alexandar Georgiev,2023-04-09T02:41:41Z,1,01:12,18:48,0,0,26.0,Los Angeles Kings,LAK
+11,26,21,Los Angeles Kings,Colorado Avalanche,20220212723,2022021272,Shot,3,SHOT,Phillip Danault Wrist Shot saved by Alexandar Georgiev,2023-04-09T02:41:49Z,1,01:20,18:40,0,0,26.0,Los Angeles Kings,LAK
+12,26,21,Los Angeles Kings,Colorado Avalanche,2022021272203,2022021272,Stoppage,203,STOP,Goalie Stopped,2023-04-09T02:41:51Z,1,01:21,18:39,0,0,,,
+13,26,21,Los Angeles Kings,Colorado Avalanche,2022021272105,2022021272,Faceoff,105,FACEOFF,Lars Eller faceoff won against Blake Lizotte,2023-04-09T02:42:23Z,1,01:21,18:39,0,0,21.0,Colorado Avalanche,COL
+14,26,21,Los Angeles Kings,Colorado Avalanche,20220212724,2022021272,Hit,4,HIT,Jaret Anderson-Dolan hit Devon Toews,2023-04-09T02:43:32Z,1,02:30,17:30,0,0,26.0,Los Angeles Kings,LAK
+15,26,21,Los Angeles Kings,Colorado Avalanche,2022021272106,2022021272,Blocked Shot,106,BLOCKED_SHOT,Brad Hunt shot blocked shot by Vladislav Gavrikov,2023-04-09T02:43:53Z,1,02:51,17:09,0,0,26.0,Los Angeles Kings,LAK
+16,26,21,Los Angeles Kings,Colorado Avalanche,20220212725,2022021272,Shot,5,SHOT,Jack Johnson Wrist Shot saved by Pheonix Copley,2023-04-09T02:44:11Z,1,03:09,16:51,0,0,21.0,Colorado Avalanche,COL
+17,26,21,Los Angeles Kings,Colorado Avalanche,2022021272204,2022021272,Stoppage,204,STOP,Goalie Stopped,2023-04-09T02:44:11Z,1,03:10,16:50,0,0,,,
+18,26,21,Los Angeles Kings,Colorado Avalanche,2022021272107,2022021272,Faceoff,107,FACEOFF,Anze Kopitar faceoff won against Mikko Rantanen,2023-04-09T02:44:50Z,1,03:10,16:50,0,0,26.0,Los Angeles Kings,LAK
+19,26,21,Los Angeles Kings,Colorado Avalanche,20220212726,2022021272,Missed Shot,6,MISSED_SHOT,Erik Johnson Wide of Net Pheonix Copley,2023-04-09T02:45:01Z,1,03:21,16:39,0,0,21.0,Colorado Avalanche,COL
+20,26,21,Los Angeles Kings,Colorado Avalanche,20220212727,2022021272,Missed Shot,7,MISSED_SHOT,Valeri Nichushkin Wide of Net Pheonix Copley,2023-04-09T02:45:44Z,1,04:04,15:56,0,0,21.0,Colorado Avalanche,COL
+21,26,21,Los Angeles Kings,Colorado Avalanche,202202127261,2022021272,Hit,61,HIT,Matt Roy hit Valeri Nichushkin,2023-04-09T02:45:48Z,1,04:08,15:52,0,0,26.0,Los Angeles Kings,LAK
+22,26,21,Los Angeles Kings,Colorado Avalanche,20220212728,2022021272,Shot,8,SHOT,Vladislav Gavrikov Wrist Shot saved by Alexandar Georgiev,2023-04-09T02:46:17Z,1,04:37,15:23,0,0,26.0,Los Angeles Kings,LAK
+23,26,21,Los Angeles Kings,Colorado Avalanche,20220212729,2022021272,Shot,9,SHOT,Trevor Moore Wrist Shot saved by Alexandar Georgiev,2023-04-09T02:46:32Z,1,04:52,15:08,0,0,26.0,Los Angeles Kings,LAK
+24,26,21,Los Angeles Kings,Colorado Avalanche,2022021272205,2022021272,Stoppage,205,STOP,Goalie Stopped,2023-04-09T02:46:34Z,1,04:53,15:07,0,0,,,
+25,26,21,Los Angeles Kings,Colorado Avalanche,2022021272108,2022021272,Faceoff,108,FACEOFF,Blake Lizotte faceoff won against J.T. Compher,2023-04-09T02:47:12Z,1,04:53,15:07,0,0,26.0,Los Angeles Kings,LAK
+26,26,21,Los Angeles Kings,Colorado Avalanche,202202127210,2022021272,Blocked Shot,10,BLOCKED_SHOT,Arthur Kaliyev shot blocked shot by J.T. Compher,2023-04-09T02:47:17Z,1,04:58,15:02,0,0,21.0,Colorado Avalanche,COL
+27,26,21,Los Angeles Kings,Colorado Avalanche,202202127263,2022021272,Hit,63,HIT,Andrew Cogliano hit Drew Doughty,2023-04-09T02:47:26Z,1,05:07,14:53,0,0,21.0,Colorado Avalanche,COL
+28,26,21,Los Angeles Kings,Colorado Avalanche,2022021272109,2022021272,Missed Shot,109,MISSED_SHOT,Andrew Cogliano Wide of Net Pheonix Copley,2023-04-09T02:47:35Z,1,05:16,14:44,0,0,21.0,Colorado Avalanche,COL
+29,26,21,Los Angeles Kings,Colorado Avalanche,2022021272206,2022021272,Hit,206,HIT,Blake Lizotte hit Logan O'Connor,2023-04-09T02:47:38Z,1,05:19,14:41,0,0,26.0,Los Angeles Kings,LAK
+30,26,21,Los Angeles Kings,Colorado Avalanche,202202127264,2022021272,Missed Shot,64,MISSED_SHOT,Arthur Kaliyev Wide of Net Alexandar Georgiev,2023-04-09T02:47:45Z,1,05:26,14:34,0,0,26.0,Los Angeles Kings,LAK
+31,26,21,Los Angeles Kings,Colorado Avalanche,202202127212,2022021272,Blocked Shot,12,BLOCKED_SHOT,Sean Walker shot blocked shot by Kurtis MacDermid,2023-04-09T02:47:55Z,1,05:36,14:24,0,0,21.0,Colorado Avalanche,COL
+32,26,21,Los Angeles Kings,Colorado Avalanche,202202127211,2022021272,Blocked Shot,11,BLOCKED_SHOT,Phillip Danault shot blocked shot by Kurtis MacDermid,2023-04-09T02:48:04Z,1,05:45,14:15,0,0,21.0,Colorado Avalanche,COL
+33,26,21,Los Angeles Kings,Colorado Avalanche,202202127265,2022021272,Hit,65,HIT,Sean Walker hit Erik Johnson,2023-04-09T02:48:32Z,1,06:13,13:47,0,0,26.0,Los Angeles Kings,LAK
+34,26,21,Los Angeles Kings,Colorado Avalanche,2022021272207,2022021272,Stoppage,207,STOP,Offside,2023-04-09T02:48:41Z,1,06:22,13:38,0,0,,,
+35,26,21,Los Angeles Kings,Colorado Avalanche,2022021272111,2022021272,Faceoff,111,FACEOFF,Anze Kopitar faceoff won against Nathan MacKinnon,2023-04-09T02:51:10Z,1,06:22,13:38,0,0,26.0,Los Angeles Kings,LAK
+36,26,21,Los Angeles Kings,Colorado Avalanche,2022021272208,2022021272,Stoppage,208,STOP,Offside,2023-04-09T02:51:42Z,1,06:54,13:06,0,0,,,
+37,26,21,Los Angeles Kings,Colorado Avalanche,2022021272112,2022021272,Faceoff,112,FACEOFF,J.T. Compher faceoff won against Phillip Danault,2023-04-09T02:52:08Z,1,06:54,13:06,0,0,21.0,Colorado Avalanche,COL
+38,26,21,Los Angeles Kings,Colorado Avalanche,202202127266,2022021272,Hit,66,HIT,Jack Johnson hit Trevor Moore,2023-04-09T02:52:11Z,1,06:57,13:03,0,0,21.0,Colorado Avalanche,COL
+39,26,21,Los Angeles Kings,Colorado Avalanche,202202127267,2022021272,Hit,67,HIT,Sean Durzi hit Valeri Nichushkin,2023-04-09T02:52:26Z,1,07:12,12:48,0,0,26.0,Los Angeles Kings,LAK
+40,26,21,Los Angeles Kings,Colorado Avalanche,202202127268,2022021272,Giveaway,68,GIVEAWAY,Giveaway by Logan O'Connor,2023-04-09T02:53:09Z,1,07:55,12:05,0,0,21.0,Colorado Avalanche,COL
+41,26,21,Los Angeles Kings,Colorado Avalanche,202202127222,2022021272,Blocked Shot,22,BLOCKED_SHOT,Arthur Kaliyev shot blocked shot by Erik Johnson,2023-04-09T02:53:18Z,1,08:04,11:56,0,0,21.0,Colorado Avalanche,COL
+42,26,21,Los Angeles Kings,Colorado Avalanche,2022021272262,2022021272,Penalty,262,PENALTY,Andrew Cogliano Slashing against Jordan Spence,2023-04-09T02:53:23Z,1,08:10,11:50,0,0,21.0,Colorado Avalanche,COL
+43,26,21,Los Angeles Kings,Colorado Avalanche,2022021272113,2022021272,Faceoff,113,FACEOFF,J.T. Compher faceoff won against Anze Kopitar,2023-04-09T02:54:19Z,1,08:10,11:50,0,0,21.0,Colorado Avalanche,COL
+44,26,21,Los Angeles Kings,Colorado Avalanche,202202127214,2022021272,Shot,14,SHOT,Valeri Nichushkin Wrist Shot saved by Pheonix Copley,2023-04-09T02:54:27Z,1,08:18,11:42,0,0,21.0,Colorado Avalanche,COL
+45,26,21,Los Angeles Kings,Colorado Avalanche,202202127215,2022021272,Blocked Shot,15,BLOCKED_SHOT,Adrian Kempe shot blocked shot by Samuel Girard,2023-04-09T02:54:49Z,1,08:40,11:20,0,0,21.0,Colorado Avalanche,COL
+46,26,21,Los Angeles Kings,Colorado Avalanche,202202127216,2022021272,Missed Shot,16,MISSED_SHOT,Alex Iafallo Wide of Net Alexandar Georgiev,2023-04-09T02:55:14Z,1,09:05,10:55,0,0,26.0,Los Angeles Kings,LAK
+47,26,21,Los Angeles Kings,Colorado Avalanche,202202127217,2022021272,Shot,17,SHOT,Alex Iafallo Tip-In saved by Alexandar Georgiev,2023-04-09T02:55:24Z,1,09:15,10:45,0,0,26.0,Los Angeles Kings,LAK
+48,26,21,Los Angeles Kings,Colorado Avalanche,202202127223,2022021272,Missed Shot,23,MISSED_SHOT,Anze Kopitar Wide of Net Alexandar Georgiev,2023-04-09T02:55:25Z,1,09:16,10:44,0,0,26.0,Los Angeles Kings,LAK
+49,26,21,Los Angeles Kings,Colorado Avalanche,202202127218,2022021272,Shot,18,SHOT,Adrian Kempe Tip-In saved by Alexandar Georgiev,2023-04-09T02:55:41Z,1,09:32,10:28,0,0,26.0,Los Angeles Kings,LAK
+50,26,21,Los Angeles Kings,Colorado Avalanche,202202127270,2022021272,Shot,70,SHOT,Adrian Kempe Poke saved by Alexandar Georgiev,2023-04-09T02:55:42Z,1,09:33,10:27,0,0,26.0,Los Angeles Kings,LAK
+51,26,21,Los Angeles Kings,Colorado Avalanche,2022021272209,2022021272,Stoppage,209,STOP,Goalie Stopped,2023-04-09T02:55:44Z,1,09:35,10:25,0,0,,,
+52,26,21,Los Angeles Kings,Colorado Avalanche,2022021272115,2022021272,Faceoff,115,FACEOFF,Quinton Byfield faceoff won against J.T. Compher,2023-04-09T02:56:29Z,1,09:35,10:25,0,0,26.0,Los Angeles Kings,LAK
+53,26,21,Los Angeles Kings,Colorado Avalanche,2022021272210,2022021272,Giveaway,210,GIVEAWAY,Giveaway by Erik Johnson,2023-04-09T02:56:46Z,1,09:52,10:08,0,0,21.0,Colorado Avalanche,COL
+54,26,21,Los Angeles Kings,Colorado Avalanche,202202127269,2022021272,Giveaway,69,GIVEAWAY,Giveaway by Jack Johnson,2023-04-09T02:56:58Z,1,10:04,09:56,0,0,21.0,Colorado Avalanche,COL
+55,26,21,Los Angeles Kings,Colorado Avalanche,202202127219,2022021272,Blocked Shot,19,BLOCKED_SHOT,Sean Durzi shot blocked shot by Andrew Cogliano,2023-04-09T02:57:11Z,1,10:17,09:43,0,0,21.0,Colorado Avalanche,COL
+56,26,21,Los Angeles Kings,Colorado Avalanche,202202127220,2022021272,Shot,20,SHOT,Vladislav Gavrikov Wrist Shot saved by Alexandar Georgiev,2023-04-09T02:57:32Z,1,10:38,09:22,0,0,26.0,Los Angeles Kings,LAK
+57,26,21,Los Angeles Kings,Colorado Avalanche,2022021272211,2022021272,Hit,211,HIT,Erik Johnson hit Trevor Moore,2023-04-09T02:57:58Z,1,11:04,08:56,0,0,21.0,Colorado Avalanche,COL
+58,26,21,Los Angeles Kings,Colorado Avalanche,202202127271,2022021272,Hit,71,HIT,Phillip Danault hit Andrew Cogliano,2023-04-09T02:58:00Z,1,11:06,08:54,0,0,26.0,Los Angeles Kings,LAK
+59,26,21,Los Angeles Kings,Colorado Avalanche,2022021272212,2022021272,Stoppage,212,STOP,Icing,2023-04-09T02:58:05Z,1,11:11,08:49,0,0,,,
+60,26,21,Los Angeles Kings,Colorado Avalanche,2022021272116,2022021272,Faceoff,116,FACEOFF,Anze Kopitar faceoff won against J.T. Compher,2023-04-09T02:58:45Z,1,11:11,08:49,0,0,26.0,Los Angeles Kings,LAK
+61,26,21,Los Angeles Kings,Colorado Avalanche,2022021272221,2022021272,Blocked Shot,221,BLOCKED_SHOT,Adrian Kempe shot blocked shot by J.T. Compher,2023-04-09T02:58:50Z,1,11:16,08:44,0,0,21.0,Colorado Avalanche,COL
+62,26,21,Los Angeles Kings,Colorado Avalanche,202202127272,2022021272,Hit,72,HIT,Carl Grundstrom hit Andrew Cogliano,2023-04-09T02:58:55Z,1,11:21,08:39,0,0,26.0,Los Angeles Kings,LAK
+63,26,21,Los Angeles Kings,Colorado Avalanche,2022021272213,2022021272,Stoppage,213,STOP,Hand Pass,2023-04-09T02:59:03Z,1,11:29,08:31,0,0,,,
+64,26,21,Los Angeles Kings,Colorado Avalanche,2022021272117,2022021272,Faceoff,117,FACEOFF,Anze Kopitar faceoff won against Nathan MacKinnon,2023-04-09T03:01:24Z,1,11:29,08:31,0,0,26.0,Los Angeles Kings,LAK
+65,26,21,Los Angeles Kings,Colorado Avalanche,2022021272214,2022021272,Stoppage,214,STOP,Puck in Crowd,2023-04-09T03:01:32Z,1,11:37,08:23,0,0,,,
+66,26,21,Los Angeles Kings,Colorado Avalanche,2022021272118,2022021272,Faceoff,118,FACEOFF,Nathan MacKinnon faceoff won against Anze Kopitar,2023-04-09T03:01:55Z,1,11:37,08:23,0,0,21.0,Colorado Avalanche,COL
+67,26,21,Los Angeles Kings,Colorado Avalanche,202202127224,2022021272,Missed Shot,24,MISSED_SHOT,Nathan MacKinnon Wide of Net Pheonix Copley,2023-04-09T03:02:01Z,1,11:43,08:17,0,0,21.0,Colorado Avalanche,COL
+68,26,21,Los Angeles Kings,Colorado Avalanche,202202127225,2022021272,Missed Shot,25,MISSED_SHOT,Quinton Byfield Wide of Net Alexandar Georgiev,2023-04-09T03:02:24Z,1,12:06,07:54,0,0,26.0,Los Angeles Kings,LAK
+69,26,21,Los Angeles Kings,Colorado Avalanche,202202127226,2022021272,Shot,26,SHOT,Alex Iafallo Slap Shot saved by Alexandar Georgiev,2023-04-09T03:02:55Z,1,12:37,07:23,0,0,26.0,Los Angeles Kings,LAK
+70,26,21,Los Angeles Kings,Colorado Avalanche,202202127227,2022021272,Shot,27,SHOT,Arthur Kaliyev Snap Shot saved by Alexandar Georgiev,2023-04-09T03:03:05Z,1,12:47,07:13,0,0,26.0,Los Angeles Kings,LAK
+71,26,21,Los Angeles Kings,Colorado Avalanche,2022021272215,2022021272,Stoppage,215,STOP,Goalie Stopped,2023-04-09T03:03:05Z,1,12:48,07:12,0,0,,,
+72,26,21,Los Angeles Kings,Colorado Avalanche,2022021272119,2022021272,Faceoff,119,FACEOFF,Phillip Danault faceoff won against J.T. Compher,2023-04-09T03:03:42Z,1,12:48,07:12,0,0,26.0,Los Angeles Kings,LAK
+73,26,21,Los Angeles Kings,Colorado Avalanche,202202127228,2022021272,Shot,28,SHOT,Viktor Arvidsson Wrist Shot saved by Alexandar Georgiev,2023-04-09T03:03:48Z,1,12:54,07:06,0,0,26.0,Los Angeles Kings,LAK
+74,26,21,Los Angeles Kings,Colorado Avalanche,202202127229,2022021272,Shot,29,SHOT,Jack Johnson Wrist Shot saved by Pheonix Copley,2023-04-09T03:04:33Z,1,13:39,06:21,0,0,21.0,Colorado Avalanche,COL
+75,26,21,Los Angeles Kings,Colorado Avalanche,202202127273,2022021272,Giveaway,73,GIVEAWAY,Giveaway by Viktor Arvidsson,2023-04-09T03:04:40Z,1,13:46,06:14,0,0,26.0,Los Angeles Kings,LAK
+76,26,21,Los Angeles Kings,Colorado Avalanche,202202127230,2022021272,Blocked Shot,30,BLOCKED_SHOT,Erik Johnson shot blocked shot by Sean Durzi,2023-04-09T03:04:44Z,1,13:50,06:10,0,0,26.0,Los Angeles Kings,LAK
+77,26,21,Los Angeles Kings,Colorado Avalanche,2022021272120,2022021272,Blocked Shot,120,BLOCKED_SHOT,Jack Johnson shot blocked shot by Viktor Arvidsson,2023-04-09T03:04:48Z,1,13:54,06:06,0,0,26.0,Los Angeles Kings,LAK
+78,26,21,Los Angeles Kings,Colorado Avalanche,202202127231,2022021272,Shot,31,SHOT,Anze Kopitar Snap Shot saved by Alexandar Georgiev,2023-04-09T03:05:09Z,1,14:15,05:45,0,0,26.0,Los Angeles Kings,LAK
+79,26,21,Los Angeles Kings,Colorado Avalanche,202202127232,2022021272,Shot,32,SHOT,Adrian Kempe Snap Shot saved by Alexandar Georgiev,2023-04-09T03:05:19Z,1,14:25,05:35,0,0,26.0,Los Angeles Kings,LAK
+80,26,21,Los Angeles Kings,Colorado Avalanche,202202127233,2022021272,Missed Shot,33,MISSED_SHOT,Jordan Spence Wide of Net Alexandar Georgiev,2023-04-09T03:05:27Z,1,14:33,05:27,0,0,26.0,Los Angeles Kings,LAK
+81,26,21,Los Angeles Kings,Colorado Avalanche,2022021272216,2022021272,Stoppage,216,STOP,Icing,2023-04-09T03:05:41Z,1,14:46,05:14,0,0,,,
+82,26,21,Los Angeles Kings,Colorado Avalanche,2022021272121,2022021272,Faceoff,121,FACEOFF,Rasmus Kupari faceoff won against Nathan MacKinnon,2023-04-09T03:06:07Z,1,14:46,05:14,0,0,26.0,Los Angeles Kings,LAK
+83,26,21,Los Angeles Kings,Colorado Avalanche,202202127234,2022021272,Blocked Shot,34,BLOCKED_SHOT,Drew Doughty shot blocked shot by Evan Rodrigues,2023-04-09T03:06:14Z,1,14:53,05:07,0,0,21.0,Colorado Avalanche,COL
+84,26,21,Los Angeles Kings,Colorado Avalanche,202202127235,2022021272,Shot,35,SHOT,Drew Doughty Wrist Shot saved by Alexandar Georgiev,2023-04-09T03:06:27Z,1,15:06,04:54,0,0,26.0,Los Angeles Kings,LAK
+85,26,21,Los Angeles Kings,Colorado Avalanche,2022021272217,2022021272,Stoppage,217,STOP,Goalie Stopped,2023-04-09T03:06:28Z,1,15:07,04:53,0,0,,,
+86,26,21,Los Angeles Kings,Colorado Avalanche,2022021272122,2022021272,Faceoff,122,FACEOFF,Alex Iafallo faceoff won against Andrew Cogliano,2023-04-09T03:08:59Z,1,15:07,04:53,0,0,26.0,Los Angeles Kings,LAK
+87,26,21,Los Angeles Kings,Colorado Avalanche,2022021272218,2022021272,Stoppage,218,STOP,Referee or Linesman,2023-04-09T03:09:07Z,1,15:16,04:44,0,0,,,
+88,26,21,Los Angeles Kings,Colorado Avalanche,2022021272123,2022021272,Faceoff,123,FACEOFF,Lars Eller faceoff won against Blake Lizotte,2023-04-09T03:09:39Z,1,15:16,04:44,0,0,21.0,Colorado Avalanche,COL
+89,26,21,Los Angeles Kings,Colorado Avalanche,202202127274,2022021272,Hit,74,HIT,Kurtis MacDermid hit Blake Lizotte,2023-04-09T03:10:00Z,1,15:37,04:23,0,0,21.0,Colorado Avalanche,COL
+90,26,21,Los Angeles Kings,Colorado Avalanche,2022021272219,2022021272,Takeaway,219,TAKEAWAY,Takeaway by Andrew Cogliano,2023-04-09T03:10:02Z,1,15:39,04:21,0,0,21.0,Colorado Avalanche,COL
+91,26,21,Los Angeles Kings,Colorado Avalanche,202202127275,2022021272,Hit,75,HIT,Andrew Cogliano hit Jordan Spence,2023-04-09T03:10:14Z,1,15:51,04:09,0,0,21.0,Colorado Avalanche,COL
+92,26,21,Los Angeles Kings,Colorado Avalanche,202202127237,2022021272,Shot,37,SHOT,Carl Grundstrom Wrist Shot saved by Alexandar Georgiev,2023-04-09T03:10:41Z,1,16:18,03:42,0,0,26.0,Los Angeles Kings,LAK
+93,26,21,Los Angeles Kings,Colorado Avalanche,2022021272220,2022021272,Stoppage,220,STOP,Goalie Stopped,2023-04-09T03:10:42Z,1,16:19,03:41,0,0,,,
+94,26,21,Los Angeles Kings,Colorado Avalanche,2022021272124,2022021272,Faceoff,124,FACEOFF,Rasmus Kupari faceoff won against Alex Newhook,2023-04-09T03:11:14Z,1,16:19,03:41,0,0,26.0,Los Angeles Kings,LAK
+95,26,21,Los Angeles Kings,Colorado Avalanche,202202127238,2022021272,Missed Shot,38,MISSED_SHOT,Matt Roy Wide of Net Alexandar Georgiev,2023-04-09T03:11:18Z,1,16:23,03:37,0,0,26.0,Los Angeles Kings,LAK
+96,26,21,Los Angeles Kings,Colorado Avalanche,202202127239,2022021272,Shot,39,SHOT,Carl Grundstrom Snap Shot saved by Alexandar Georgiev,2023-04-09T03:11:31Z,1,16:36,03:24,0,0,26.0,Los Angeles Kings,LAK
+97,26,21,Los Angeles Kings,Colorado Avalanche,202202127276,2022021272,Hit,76,HIT,Nathan MacKinnon hit Viktor Arvidsson,2023-04-09T03:11:54Z,1,16:59,03:01,0,0,21.0,Colorado Avalanche,COL
+98,26,21,Los Angeles Kings,Colorado Avalanche,202202127240,2022021272,Shot,40,SHOT,Phillip Danault Backhand saved by Alexandar Georgiev,2023-04-09T03:12:02Z,1,17:07,02:53,0,0,26.0,Los Angeles Kings,LAK
+99,26,21,Los Angeles Kings,Colorado Avalanche,202202127277,2022021272,Hit,77,HIT,Viktor Arvidsson hit Nathan MacKinnon,2023-04-09T03:12:08Z,1,17:13,02:47,0,0,26.0,Los Angeles Kings,LAK
+100,26,21,Los Angeles Kings,Colorado Avalanche,202202127241,2022021272,Shot,41,SHOT,Nathan MacKinnon Wrist Shot saved by Pheonix Copley,2023-04-09T03:12:34Z,1,17:39,02:21,0,0,21.0,Colorado Avalanche,COL
+101,26,21,Los Angeles Kings,Colorado Avalanche,2022021272419,2022021272,Penalty,419,PENALTY,Phillip Danault Slashing against Evan Rodrigues,2023-04-09T03:12:42Z,1,17:48,02:12,0,0,26.0,Los Angeles Kings,LAK
+102,26,21,Los Angeles Kings,Colorado Avalanche,2022021272125,2022021272,Faceoff,125,FACEOFF,Anze Kopitar faceoff won against Nathan MacKinnon,2023-04-09T03:13:42Z,1,17:48,02:12,0,0,26.0,Los Angeles Kings,LAK
+103,26,21,Los Angeles Kings,Colorado Avalanche,202202127280,2022021272,Takeaway,80,TAKEAWAY,Takeaway by Anze Kopitar,2023-04-09T03:14:29Z,1,18:35,01:25,0,0,26.0,Los Angeles Kings,LAK
+104,26,21,Los Angeles Kings,Colorado Avalanche,2022021272126,2022021272,Shot,126,SHOT,Anze Kopitar Wrist Shot saved by Alexandar Georgiev,2023-04-09T03:14:32Z,1,18:38,01:22,0,0,26.0,Los Angeles Kings,LAK
+105,26,21,Los Angeles Kings,Colorado Avalanche,202202127243,2022021272,Missed Shot,43,MISSED_SHOT,Rasmus Kupari Wide of Net Alexandar Georgiev,2023-04-09T03:14:54Z,1,19:00,01:00,0,0,26.0,Los Angeles Kings,LAK
+106,26,21,Los Angeles Kings,Colorado Avalanche,202202127244,2022021272,Blocked Shot,44,BLOCKED_SHOT,Evan Rodrigues shot blocked shot by Matt Roy,2023-04-09T03:15:37Z,1,19:43,00:17,0,0,26.0,Los Angeles Kings,LAK
+107,26,21,Los Angeles Kings,Colorado Avalanche,2022021272127,2022021272,Blocked Shot,127,BLOCKED_SHOT,Samuel Girard shot blocked shot by Sean Durzi,2023-04-09T03:15:39Z,1,19:45,00:15,0,0,26.0,Los Angeles Kings,LAK
+108,26,21,Los Angeles Kings,Colorado Avalanche,202202127245,2022021272,Blocked Shot,45,BLOCKED_SHOT,Denis Malgin shot blocked shot by Phillip Danault,2023-04-09T03:15:47Z,1,19:53,00:07,0,0,26.0,Los Angeles Kings,LAK
+109,26,21,Los Angeles Kings,Colorado Avalanche,202202127285,2022021272,Hit,85,HIT,Alex Newhook hit Sean Durzi,2023-04-09T03:15:52Z,1,19:58,00:02,0,0,21.0,Colorado Avalanche,COL
+110,26,21,Los Angeles Kings,Colorado Avalanche,202202127282,2022021272,Period End,82,PERIOD_END,End of 1st Period,2023-04-09T03:15:55Z,1,20:00,00:00,0,0,,,
+111,26,21,Los Angeles Kings,Colorado Avalanche,202202127286,2022021272,Period Official,86,PERIOD_OFFICIAL,Period Official,2023-04-09T03:30:15Z,1,20:00,00:00,0,0,,,
+112,26,21,Los Angeles Kings,Colorado Avalanche,202202127287,2022021272,Period Ready,87,PERIOD_READY,Period Ready,2023-04-09T03:34:44Z,2,00:00,20:00,0,0,,,
+113,26,21,Los Angeles Kings,Colorado Avalanche,2022021272128,2022021272,Period Start,128,PERIOD_START,Period Start,2023-04-09T03:34:50Z,2,00:00,20:00,0,0,,,
+114,26,21,Los Angeles Kings,Colorado Avalanche,2022021272129,2022021272,Faceoff,129,FACEOFF,Nathan MacKinnon faceoff won against Anze Kopitar,2023-04-09T03:34:50Z,2,00:00,20:00,0,0,21.0,Colorado Avalanche,COL
+115,26,21,Los Angeles Kings,Colorado Avalanche,2022021272222,2022021272,Takeaway,222,TAKEAWAY,Takeaway by Quinton Byfield,2023-04-09T03:35:00Z,2,00:10,19:50,0,0,26.0,Los Angeles Kings,LAK
+116,26,21,Los Angeles Kings,Colorado Avalanche,202202127246,2022021272,Missed Shot,46,MISSED_SHOT,Evan Rodrigues Wide of Net Pheonix Copley,2023-04-09T03:35:14Z,2,00:24,19:36,0,0,21.0,Colorado Avalanche,COL
+117,26,21,Los Angeles Kings,Colorado Avalanche,2022021272130,2022021272,Missed Shot,130,MISSED_SHOT,Mikko Rantanen Wide of Net Pheonix Copley,2023-04-09T03:35:22Z,2,00:32,19:28,0,0,21.0,Colorado Avalanche,COL
+118,26,21,Los Angeles Kings,Colorado Avalanche,202202127288,2022021272,Hit,88,HIT,Erik Johnson hit Trevor Moore,2023-04-09T03:35:50Z,2,01:00,19:00,0,0,21.0,Colorado Avalanche,COL
+119,26,21,Los Angeles Kings,Colorado Avalanche,2022021272131,2022021272,Blocked Shot,131,BLOCKED_SHOT,J.T. Compher shot blocked shot by Viktor Arvidsson,2023-04-09T03:36:04Z,2,01:13,18:47,0,0,26.0,Los Angeles Kings,LAK
+120,26,21,Los Angeles Kings,Colorado Avalanche,202202127289,2022021272,Giveaway,89,GIVEAWAY,Giveaway by Viktor Arvidsson,2023-04-09T03:36:05Z,2,01:15,18:45,0,0,26.0,Los Angeles Kings,LAK
+121,26,21,Los Angeles Kings,Colorado Avalanche,202202127247,2022021272,Missed Shot,47,MISSED_SHOT,Erik Johnson Wide of Net Pheonix Copley,2023-04-09T03:36:06Z,2,01:16,18:44,0,0,21.0,Colorado Avalanche,COL
+122,26,21,Los Angeles Kings,Colorado Avalanche,202202127249,2022021272,Goal,49,GOAL,"Denis Malgin (11) Tip-In, assists: J.T. Compher (35), Kurtis MacDermid (5)",2023-04-09T03:36:18Z,2,01:28,18:32,0,1,21.0,Colorado Avalanche,COL
+123,26,21,Los Angeles Kings,Colorado Avalanche,2022021272132,2022021272,Faceoff,132,FACEOFF,Lars Eller faceoff won against Blake Lizotte,2023-04-09T03:37:02Z,2,01:28,18:32,0,1,21.0,Colorado Avalanche,COL
+124,26,21,Los Angeles Kings,Colorado Avalanche,202202127290,2022021272,Giveaway,90,GIVEAWAY,Giveaway by Jordan Spence,2023-04-09T03:37:26Z,2,01:52,18:08,0,1,26.0,Los Angeles Kings,LAK
+125,26,21,Los Angeles Kings,Colorado Avalanche,202202127250,2022021272,Missed Shot,50,MISSED_SHOT,Arthur Kaliyev Wide of Net Alexandar Georgiev,2023-04-09T03:37:35Z,2,02:01,17:59,0,1,26.0,Los Angeles Kings,LAK
+126,26,21,Los Angeles Kings,Colorado Avalanche,2022021272223,2022021272,Stoppage,223,STOP,Puck in Netting,2023-04-09T03:37:36Z,2,02:02,17:58,0,1,,,
+127,26,21,Los Angeles Kings,Colorado Avalanche,2022021272133,2022021272,Faceoff,133,FACEOFF,Alex Newhook faceoff won against Rasmus Kupari,2023-04-09T03:38:06Z,2,02:02,17:58,0,1,21.0,Colorado Avalanche,COL
+128,26,21,Los Angeles Kings,Colorado Avalanche,2022021272301,2022021272,Shot,301,SHOT,Rasmus Kupari Wrist Shot saved by Alexandar Georgiev,2023-04-09T03:38:12Z,2,02:08,17:52,0,1,26.0,Los Angeles Kings,LAK
+129,26,21,Los Angeles Kings,Colorado Avalanche,202202127291,2022021272,Stoppage,91,STOP,Goalie Stopped,2023-04-09T03:38:13Z,2,02:09,17:51,0,1,,,
+130,26,21,Los Angeles Kings,Colorado Avalanche,2022021272134,2022021272,Faceoff,134,FACEOFF,Alex Newhook faceoff won against Rasmus Kupari,2023-04-09T03:38:39Z,2,02:09,17:51,0,1,21.0,Colorado Avalanche,COL
+131,26,21,Los Angeles Kings,Colorado Avalanche,2022021272302,2022021272,Goal,302,GOAL,"Alex Newhook (14) Backhand, assists: Devon Toews (38)",2023-04-09T03:39:01Z,2,02:30,17:30,0,2,21.0,Colorado Avalanche,COL
+132,26,21,Los Angeles Kings,Colorado Avalanche,2022021272135,2022021272,Faceoff,135,FACEOFF,Nathan MacKinnon faceoff won against Anze Kopitar,2023-04-09T03:39:41Z,2,02:30,17:30,0,2,21.0,Colorado Avalanche,COL
+133,26,21,Los Angeles Kings,Colorado Avalanche,2022021272303,2022021272,Blocked Shot,303,BLOCKED_SHOT,Mikko Rantanen shot blocked shot by Vladislav Gavrikov,2023-04-09T03:40:15Z,2,03:04,16:56,0,2,26.0,Los Angeles Kings,LAK
+134,26,21,Los Angeles Kings,Colorado Avalanche,202202127293,2022021272,Stoppage,93,STOP,Puck in Netting,2023-04-09T03:40:16Z,2,03:05,16:55,0,2,,,
+135,26,21,Los Angeles Kings,Colorado Avalanche,2022021272136,2022021272,Faceoff,136,FACEOFF,Nathan MacKinnon faceoff won against Anze Kopitar,2023-04-09T03:40:38Z,2,03:05,16:55,0,2,21.0,Colorado Avalanche,COL
+136,26,21,Los Angeles Kings,Colorado Avalanche,2022021272304,2022021272,Shot,304,SHOT,Devon Toews Slap Shot saved by Pheonix Copley,2023-04-09T03:40:43Z,2,03:10,16:50,0,2,21.0,Colorado Avalanche,COL
+137,26,21,Los Angeles Kings,Colorado Avalanche,2022021272137,2022021272,Missed Shot,137,MISSED_SHOT,Evan Rodrigues Wide of Net Pheonix Copley,2023-04-09T03:40:46Z,2,03:13,16:47,0,2,21.0,Colorado Avalanche,COL
+138,26,21,Los Angeles Kings,Colorado Avalanche,2022021272305,2022021272,Blocked Shot,305,BLOCKED_SHOT,Samuel Girard shot blocked shot by Adrian Kempe,2023-04-09T03:41:02Z,2,03:29,16:31,0,2,26.0,Los Angeles Kings,LAK
+139,26,21,Los Angeles Kings,Colorado Avalanche,2022021272306,2022021272,Missed Shot,306,MISSED_SHOT,Quinton Byfield Wide of Net Alexandar Georgiev,2023-04-09T03:41:13Z,2,03:40,16:20,0,2,26.0,Los Angeles Kings,LAK
+140,26,21,Los Angeles Kings,Colorado Avalanche,2022021272224,2022021272,Giveaway,224,GIVEAWAY,Giveaway by Matt Roy,2023-04-09T03:41:38Z,2,04:05,15:55,0,2,26.0,Los Angeles Kings,LAK
+141,26,21,Los Angeles Kings,Colorado Avalanche,2022021272307,2022021272,Missed Shot,307,MISSED_SHOT,J.T. Compher Wide of Net Pheonix Copley,2023-04-09T03:41:44Z,2,04:11,15:49,0,2,21.0,Colorado Avalanche,COL
+142,26,21,Los Angeles Kings,Colorado Avalanche,2022021272308,2022021272,Shot,308,SHOT,Jack Johnson Wrist Shot saved by Pheonix Copley,2023-04-09T03:42:06Z,2,04:33,15:27,0,2,21.0,Colorado Avalanche,COL
+143,26,21,Los Angeles Kings,Colorado Avalanche,202202127295,2022021272,Hit,95,HIT,Phillip Danault hit Denis Malgin,2023-04-09T03:42:17Z,2,04:44,15:16,0,2,26.0,Los Angeles Kings,LAK
+144,26,21,Los Angeles Kings,Colorado Avalanche,2022021272225,2022021272,Hit,225,HIT,Jack Johnson hit Viktor Arvidsson,2023-04-09T03:42:22Z,2,04:49,15:11,0,2,21.0,Colorado Avalanche,COL
+145,26,21,Los Angeles Kings,Colorado Avalanche,2022021272309,2022021272,Shot,309,SHOT,Matt Roy Snap Shot saved by Alexandar Georgiev,2023-04-09T03:42:31Z,2,04:58,15:02,0,2,26.0,Los Angeles Kings,LAK
+146,26,21,Los Angeles Kings,Colorado Avalanche,2022021272310,2022021272,Shot,310,SHOT,Alex Iafallo Snap Shot saved by Alexandar Georgiev,2023-04-09T03:43:14Z,2,05:41,14:19,0,2,26.0,Los Angeles Kings,LAK
+147,26,21,Los Angeles Kings,Colorado Avalanche,2022021272311,2022021272,Missed Shot,311,MISSED_SHOT,Jordan Spence Wide of Net Alexandar Georgiev,2023-04-09T03:43:24Z,2,05:51,14:09,0,2,26.0,Los Angeles Kings,LAK
+148,26,21,Los Angeles Kings,Colorado Avalanche,2022021272312,2022021272,Shot,312,SHOT,Sean Walker Wrist Shot saved by Alexandar Georgiev,2023-04-09T03:43:46Z,2,06:13,13:47,0,2,26.0,Los Angeles Kings,LAK
+149,26,21,Los Angeles Kings,Colorado Avalanche,2022021272139,2022021272,Shot,139,SHOT,Sean Walker Snap Shot saved by Alexandar Georgiev,2023-04-09T03:43:47Z,2,06:14,13:46,0,2,26.0,Los Angeles Kings,LAK
+150,26,21,Los Angeles Kings,Colorado Avalanche,2022021272226,2022021272,Takeaway,226,TAKEAWAY,Takeaway by Rasmus Kupari,2023-04-09T03:44:07Z,2,06:34,13:26,0,2,26.0,Los Angeles Kings,LAK
+151,26,21,Los Angeles Kings,Colorado Avalanche,2022021272313,2022021272,Goal,313,GOAL,"Adrian Kempe (37) Wrist Shot, assists: Anze Kopitar (43), Quinton Byfield (19)",2023-04-09T03:45:06Z,2,07:34,12:26,1,2,26.0,Los Angeles Kings,LAK
+152,26,21,Los Angeles Kings,Colorado Avalanche,2022021272140,2022021272,Faceoff,140,FACEOFF,Alex Newhook faceoff won against Rasmus Kupari,2023-04-09T03:45:55Z,2,07:34,12:26,1,2,21.0,Colorado Avalanche,COL
+153,26,21,Los Angeles Kings,Colorado Avalanche,2022021272314,2022021272,Missed Shot,314,MISSED_SHOT,Rasmus Kupari Wide of Net Alexandar Georgiev,2023-04-09T03:46:13Z,2,07:52,12:08,1,2,26.0,Los Angeles Kings,LAK
+154,26,21,Los Angeles Kings,Colorado Avalanche,202202127296,2022021272,Hit,96,HIT,Rasmus Kupari hit Alex Newhook,2023-04-09T03:46:32Z,2,08:11,11:49,1,2,26.0,Los Angeles Kings,LAK
+155,26,21,Los Angeles Kings,Colorado Avalanche,2022021272315,2022021272,Blocked Shot,315,BLOCKED_SHOT,Valeri Nichushkin shot blocked shot by Sean Durzi,2023-04-09T03:46:50Z,2,08:29,11:31,1,2,26.0,Los Angeles Kings,LAK
+156,26,21,Los Angeles Kings,Colorado Avalanche,202202127297,2022021272,Missed Shot,97,MISSED_SHOT,Valeri Nichushkin Wide of Net Pheonix Copley,2023-04-09T03:46:54Z,2,08:33,11:27,1,2,21.0,Colorado Avalanche,COL
+157,26,21,Los Angeles Kings,Colorado Avalanche,2022021272316,2022021272,Shot,316,SHOT,Viktor Arvidsson Deflected saved by Alexandar Georgiev,2023-04-09T03:47:32Z,2,09:11,10:49,1,2,26.0,Los Angeles Kings,LAK
+158,26,21,Los Angeles Kings,Colorado Avalanche,202202127298,2022021272,Giveaway,98,GIVEAWAY,Giveaway by Lars Eller,2023-04-09T03:47:39Z,2,09:18,10:42,1,2,21.0,Colorado Avalanche,COL
+159,26,21,Los Angeles Kings,Colorado Avalanche,2022021272227,2022021272,Takeaway,227,TAKEAWAY,Takeaway by Andrew Cogliano,2023-04-09T03:47:48Z,2,09:27,10:33,1,2,21.0,Colorado Avalanche,COL
+160,26,21,Los Angeles Kings,Colorado Avalanche,2022021272228,2022021272,Stoppage,228,STOP,Icing,2023-04-09T03:47:58Z,2,09:37,10:23,1,2,,,
+161,26,21,Los Angeles Kings,Colorado Avalanche,2022021272141,2022021272,Faceoff,141,FACEOFF,Phillip Danault faceoff won against Mikko Rantanen,2023-04-09T03:48:31Z,2,09:37,10:23,1,2,26.0,Los Angeles Kings,LAK
+162,26,21,Los Angeles Kings,Colorado Avalanche,202202127299,2022021272,Giveaway,99,GIVEAWAY,Giveaway by Sean Walker,2023-04-09T03:48:34Z,2,09:40,10:20,1,2,26.0,Los Angeles Kings,LAK
+163,26,21,Los Angeles Kings,Colorado Avalanche,2022021272229,2022021272,Stoppage,229,STOP,Offside,2023-04-09T03:48:57Z,2,10:02,09:58,1,2,,,
+164,26,21,Los Angeles Kings,Colorado Avalanche,2022021272142,2022021272,Faceoff,142,FACEOFF,Lars Eller faceoff won against Blake Lizotte,2023-04-09T03:51:16Z,2,10:02,09:58,1,2,21.0,Colorado Avalanche,COL
+165,26,21,Los Angeles Kings,Colorado Avalanche,2022021272230,2022021272,Hit,230,HIT,Blake Lizotte hit Lars Eller,2023-04-09T03:51:32Z,2,10:18,09:42,1,2,26.0,Los Angeles Kings,LAK
+166,26,21,Los Angeles Kings,Colorado Avalanche,2022021272100,2022021272,Hit,100,HIT,Blake Lizotte hit Samuel Girard,2023-04-09T03:51:44Z,2,10:30,09:30,1,2,26.0,Los Angeles Kings,LAK
+167,26,21,Los Angeles Kings,Colorado Avalanche,2022021272231,2022021272,Hit,231,HIT,Matt Roy hit Andrew Cogliano,2023-04-09T03:51:50Z,2,10:36,09:24,1,2,26.0,Los Angeles Kings,LAK
+168,26,21,Los Angeles Kings,Colorado Avalanche,2022021272351,2022021272,Hit,351,HIT,Andrew Cogliano hit Blake Lizotte,2023-04-09T03:52:00Z,2,10:46,09:14,1,2,21.0,Colorado Avalanche,COL
+169,26,21,Los Angeles Kings,Colorado Avalanche,2022021272232,2022021272,Stoppage,232,STOP,Hand Pass,2023-04-09T03:52:03Z,2,10:49,09:11,1,2,,,
+170,26,21,Los Angeles Kings,Colorado Avalanche,2022021272143,2022021272,Faceoff,143,FACEOFF,Nathan MacKinnon faceoff won against Anze Kopitar,2023-04-09T03:52:40Z,2,10:49,09:11,1,2,21.0,Colorado Avalanche,COL
+171,26,21,Los Angeles Kings,Colorado Avalanche,2022021272317,2022021272,Missed Shot,317,MISSED_SHOT,Devon Toews Wide of Net Pheonix Copley,2023-04-09T03:53:04Z,2,11:13,08:47,1,2,21.0,Colorado Avalanche,COL
+172,26,21,Los Angeles Kings,Colorado Avalanche,2022021272144,2022021272,Shot,144,SHOT,Devon Toews Snap Shot saved by Pheonix Copley,2023-04-09T03:53:08Z,2,11:17,08:43,1,2,21.0,Colorado Avalanche,COL
+173,26,21,Los Angeles Kings,Colorado Avalanche,2022021272233,2022021272,Stoppage,233,STOP,Icing,2023-04-09T03:53:14Z,2,11:23,08:37,1,2,,,
+174,26,21,Los Angeles Kings,Colorado Avalanche,2022021272145,2022021272,Faceoff,145,FACEOFF,Anze Kopitar faceoff won against J.T. Compher,2023-04-09T03:53:38Z,2,11:23,08:37,1,2,26.0,Los Angeles Kings,LAK
+175,26,21,Los Angeles Kings,Colorado Avalanche,2022021272319,2022021272,Shot,319,SHOT,Adrian Kempe Wrist Shot saved by Alexandar Georgiev,2023-04-09T03:54:11Z,2,11:56,08:04,1,2,26.0,Los Angeles Kings,LAK
+176,26,21,Los Angeles Kings,Colorado Avalanche,2022021272320,2022021272,Shot,320,SHOT,Adrian Kempe Wrist Shot saved by Alexandar Georgiev,2023-04-09T03:54:12Z,2,11:57,08:03,1,2,26.0,Los Angeles Kings,LAK
+177,26,21,Los Angeles Kings,Colorado Avalanche,2022021272234,2022021272,Stoppage,234,STOP,TV timeout,2023-04-09T03:54:12Z,2,11:58,08:02,1,2,,,
+178,26,21,Los Angeles Kings,Colorado Avalanche,2022021272612,2022021272,Penalty,612,PENALTY,Mikko Rantanen High-sticking against Vladislav Gavrikov,2023-04-09T03:54:12Z,2,11:58,08:02,1,2,21.0,Colorado Avalanche,COL
+179,26,21,Los Angeles Kings,Colorado Avalanche,2022021272147,2022021272,Faceoff,147,FACEOFF,Anze Kopitar faceoff won against J.T. Compher,2023-04-09T03:57:04Z,2,11:58,08:02,1,2,26.0,Los Angeles Kings,LAK
+180,26,21,Los Angeles Kings,Colorado Avalanche,2022021272235,2022021272,Giveaway,235,GIVEAWAY,Giveaway by J.T. Compher,2023-04-09T03:57:25Z,2,12:19,07:41,1,2,21.0,Colorado Avalanche,COL
+181,26,21,Los Angeles Kings,Colorado Avalanche,2022021272321,2022021272,Blocked Shot,321,BLOCKED_SHOT,Viktor Arvidsson shot blocked shot by Valeri Nichushkin,2023-04-09T03:57:46Z,2,12:40,07:20,1,2,21.0,Colorado Avalanche,COL
+182,26,21,Los Angeles Kings,Colorado Avalanche,2022021272322,2022021272,Goal,322,GOAL,"Viktor Arvidsson (26) Deflected, assists: Adrian Kempe (25), Anze Kopitar (44)",2023-04-09T03:58:00Z,2,12:55,07:05,2,2,26.0,Los Angeles Kings,LAK
+183,26,21,Los Angeles Kings,Colorado Avalanche,2022021272148,2022021272,Faceoff,148,FACEOFF,Phillip Danault faceoff won against Nathan MacKinnon,2023-04-09T03:59:01Z,2,12:55,07:05,2,2,26.0,Los Angeles Kings,LAK
+184,26,21,Los Angeles Kings,Colorado Avalanche,2022021272323,2022021272,Missed Shot,323,MISSED_SHOT,Mikko Rantanen Wide of Net Pheonix Copley,2023-04-09T03:59:11Z,2,13:05,06:55,2,2,21.0,Colorado Avalanche,COL
+185,26,21,Los Angeles Kings,Colorado Avalanche,2022021272353,2022021272,Stoppage,353,STOP,Offside,2023-04-09T03:59:17Z,2,13:11,06:49,2,2,,,
+186,26,21,Los Angeles Kings,Colorado Avalanche,2022021272149,2022021272,Faceoff,149,FACEOFF,Phillip Danault faceoff won against Nathan MacKinnon,2023-04-09T03:59:37Z,2,13:11,06:49,2,2,26.0,Los Angeles Kings,LAK
+187,26,21,Los Angeles Kings,Colorado Avalanche,2022021272354,2022021272,Hit,354,HIT,Erik Johnson hit Viktor Arvidsson,2023-04-09T03:59:59Z,2,13:33,06:27,2,2,21.0,Colorado Avalanche,COL
+188,26,21,Los Angeles Kings,Colorado Avalanche,2022021272324,2022021272,Blocked Shot,324,BLOCKED_SHOT,Viktor Arvidsson shot blocked shot by Mikko Rantanen,2023-04-09T04:00:09Z,2,13:43,06:17,2,2,21.0,Colorado Avalanche,COL
+189,26,21,Los Angeles Kings,Colorado Avalanche,2022021272236,2022021272,Stoppage,236,STOP,Offside,2023-04-09T04:00:43Z,2,14:17,05:43,2,2,,,
+190,26,21,Los Angeles Kings,Colorado Avalanche,2022021272150,2022021272,Faceoff,150,FACEOFF,Rasmus Kupari faceoff won against Alex Newhook,2023-04-09T04:03:03Z,2,14:17,05:43,2,2,26.0,Los Angeles Kings,LAK
+191,26,21,Los Angeles Kings,Colorado Avalanche,2022021272237,2022021272,Hit,237,HIT,Jaret Anderson-Dolan hit Alex Newhook,2023-04-09T04:03:31Z,2,14:45,05:15,2,2,26.0,Los Angeles Kings,LAK
+192,26,21,Los Angeles Kings,Colorado Avalanche,2022021272325,2022021272,Shot,325,SHOT,Brad Hunt Snap Shot saved by Pheonix Copley,2023-04-09T04:03:37Z,2,14:51,05:09,2,2,21.0,Colorado Avalanche,COL
+193,26,21,Los Angeles Kings,Colorado Avalanche,2022021272355,2022021272,Stoppage,355,STOP,Goalie Stopped,2023-04-09T04:03:39Z,2,14:52,05:08,2,2,,,
+194,26,21,Los Angeles Kings,Colorado Avalanche,2022021272451,2022021272,Faceoff,451,FACEOFF,Phillip Danault faceoff won against J.T. Compher,2023-04-09T04:04:11Z,2,14:52,05:08,2,2,26.0,Los Angeles Kings,LAK
+195,26,21,Los Angeles Kings,Colorado Avalanche,2022021272327,2022021272,Blocked Shot,327,BLOCKED_SHOT,Trevor Moore shot blocked shot by Jack Johnson,2023-04-09T04:04:48Z,2,15:29,04:31,2,2,21.0,Colorado Avalanche,COL
+196,26,21,Los Angeles Kings,Colorado Avalanche,2022021272328,2022021272,Shot,328,SHOT,Quinton Byfield Wrist Shot saved by Alexandar Georgiev,2023-04-09T04:05:09Z,2,15:50,04:10,2,2,26.0,Los Angeles Kings,LAK
+197,26,21,Los Angeles Kings,Colorado Avalanche,2022021272238,2022021272,Stoppage,238,STOP,Goalie Stopped,2023-04-09T04:05:09Z,2,15:51,04:09,2,2,,,
+198,26,21,Los Angeles Kings,Colorado Avalanche,2022021272452,2022021272,Faceoff,452,FACEOFF,Anze Kopitar faceoff won against Nathan MacKinnon,2023-04-09T04:05:34Z,2,15:51,04:09,2,2,26.0,Los Angeles Kings,LAK
+199,26,21,Los Angeles Kings,Colorado Avalanche,2022021272356,2022021272,Giveaway,356,GIVEAWAY,Giveaway by Drew Doughty,2023-04-09T04:05:52Z,2,16:09,03:51,2,2,26.0,Los Angeles Kings,LAK
+200,26,21,Los Angeles Kings,Colorado Avalanche,2022021272329,2022021272,Missed Shot,329,MISSED_SHOT,Mikko Rantanen Wide of Net Pheonix Copley,2023-04-09T04:05:58Z,2,16:15,03:45,2,2,21.0,Colorado Avalanche,COL
+201,26,21,Los Angeles Kings,Colorado Avalanche,2022021272357,2022021272,Hit,357,HIT,Evan Rodrigues hit Drew Doughty,2023-04-09T04:06:05Z,2,16:22,03:38,2,2,21.0,Colorado Avalanche,COL
+202,26,21,Los Angeles Kings,Colorado Avalanche,2022021272358,2022021272,Hit,358,HIT,Lars Eller hit Arthur Kaliyev,2023-04-09T04:06:44Z,2,17:01,02:59,2,2,21.0,Colorado Avalanche,COL
+203,26,21,Los Angeles Kings,Colorado Avalanche,2022021272359,2022021272,Hit,359,HIT,Logan O'Connor hit Matt Roy,2023-04-09T04:07:05Z,2,17:22,02:38,2,2,21.0,Colorado Avalanche,COL
+204,26,21,Los Angeles Kings,Colorado Avalanche,2022021272360,2022021272,Hit,360,HIT,Erik Johnson hit Arthur Kaliyev,2023-04-09T04:07:16Z,2,17:33,02:27,2,2,21.0,Colorado Avalanche,COL
+205,26,21,Los Angeles Kings,Colorado Avalanche,2022021272330,2022021272,Missed Shot,330,MISSED_SHOT,Arthur Kaliyev Wide of Net Alexandar Georgiev,2023-04-09T04:07:42Z,2,17:59,02:01,2,2,26.0,Los Angeles Kings,LAK
+206,26,21,Los Angeles Kings,Colorado Avalanche,2022021272331,2022021272,Shot,331,SHOT,Sean Durzi Wrist Shot saved by Alexandar Georgiev,2023-04-09T04:07:53Z,2,18:10,01:50,2,2,26.0,Los Angeles Kings,LAK
+207,26,21,Los Angeles Kings,Colorado Avalanche,2022021272332,2022021272,Blocked Shot,332,BLOCKED_SHOT,Viktor Arvidsson shot blocked shot by Jack Johnson,2023-04-09T04:08:05Z,2,18:22,01:38,2,2,21.0,Colorado Avalanche,COL
+208,26,21,Los Angeles Kings,Colorado Avalanche,2022021272453,2022021272,Blocked Shot,453,BLOCKED_SHOT,Matt Roy shot blocked shot by Lars Eller,2023-04-09T04:08:22Z,2,18:39,01:21,2,2,21.0,Colorado Avalanche,COL
+209,26,21,Los Angeles Kings,Colorado Avalanche,2022021272333,2022021272,Shot,333,SHOT,Trevor Moore Wrap-around saved by Alexandar Georgiev,2023-04-09T04:08:32Z,2,18:49,01:11,2,2,26.0,Los Angeles Kings,LAK
+210,26,21,Los Angeles Kings,Colorado Avalanche,2022021272361,2022021272,Shot,361,SHOT,Valeri Nichushkin Wrist Shot saved by Pheonix Copley,2023-04-09T04:08:38Z,2,18:55,01:05,2,2,21.0,Colorado Avalanche,COL
+211,26,21,Los Angeles Kings,Colorado Avalanche,2022021272334,2022021272,Blocked Shot,334,BLOCKED_SHOT,Nathan MacKinnon shot blocked shot by Drew Doughty,2023-04-09T04:08:51Z,2,19:08,00:52,2,2,26.0,Los Angeles Kings,LAK
+212,26,21,Los Angeles Kings,Colorado Avalanche,2022021272239,2022021272,Hit,239,HIT,Devon Toews hit Drew Doughty,2023-04-09T04:08:53Z,2,19:10,00:50,2,2,21.0,Colorado Avalanche,COL
+213,26,21,Los Angeles Kings,Colorado Avalanche,2022021272335,2022021272,Shot,335,SHOT,Anze Kopitar Batted saved by Alexandar Georgiev,2023-04-09T04:09:02Z,2,19:19,00:41,2,2,26.0,Los Angeles Kings,LAK
+214,26,21,Los Angeles Kings,Colorado Avalanche,2022021272362,2022021272,Giveaway,362,GIVEAWAY,Giveaway by Nathan MacKinnon,2023-04-09T04:09:22Z,2,19:39,00:21,2,2,21.0,Colorado Avalanche,COL
+215,26,21,Los Angeles Kings,Colorado Avalanche,2022021272363,2022021272,Hit,363,HIT,Devon Toews hit Quinton Byfield,2023-04-09T04:09:34Z,2,19:51,00:09,2,2,21.0,Colorado Avalanche,COL
+216,26,21,Los Angeles Kings,Colorado Avalanche,2022021272240,2022021272,Takeaway,240,TAKEAWAY,Takeaway by Mikko Rantanen,2023-04-09T04:09:38Z,2,19:55,00:05,2,2,21.0,Colorado Avalanche,COL
+217,26,21,Los Angeles Kings,Colorado Avalanche,2022021272364,2022021272,Period End,364,PERIOD_END,End of 2nd Period,2023-04-09T04:09:44Z,2,20:00,00:00,2,2,,,
+218,26,21,Los Angeles Kings,Colorado Avalanche,2022021272367,2022021272,Period Official,367,PERIOD_OFFICIAL,Period Official,2023-04-09T04:22:42Z,2,20:00,00:00,2,2,,,
+219,26,21,Los Angeles Kings,Colorado Avalanche,2022021272368,2022021272,Period Ready,368,PERIOD_READY,Period Ready,2023-04-09T04:29:12Z,3,00:00,20:00,2,2,,,
+220,26,21,Los Angeles Kings,Colorado Avalanche,2022021272454,2022021272,Period Start,454,PERIOD_START,Period Start,2023-04-09T04:29:15Z,3,00:00,20:00,2,2,,,
+221,26,21,Los Angeles Kings,Colorado Avalanche,2022021272455,2022021272,Faceoff,455,FACEOFF,Nathan MacKinnon faceoff won against Anze Kopitar,2023-04-09T04:29:15Z,3,00:00,20:00,2,2,21.0,Colorado Avalanche,COL
+222,26,21,Los Angeles Kings,Colorado Avalanche,2022021272241,2022021272,Stoppage,241,STOP,Icing,2023-04-09T04:29:22Z,3,00:07,19:53,2,2,,,
+223,26,21,Los Angeles Kings,Colorado Avalanche,2022021272456,2022021272,Faceoff,456,FACEOFF,Anze Kopitar faceoff won against Nathan MacKinnon,2023-04-09T04:29:48Z,3,00:07,19:53,2,2,26.0,Los Angeles Kings,LAK
+224,26,21,Los Angeles Kings,Colorado Avalanche,2022021272336,2022021272,Missed Shot,336,MISSED_SHOT,Erik Johnson Wide of Net Pheonix Copley,2023-04-09T04:30:19Z,3,00:38,19:22,2,2,21.0,Colorado Avalanche,COL
+225,26,21,Los Angeles Kings,Colorado Avalanche,2022021272457,2022021272,Missed Shot,457,MISSED_SHOT,Nathan MacKinnon Wide of Net Pheonix Copley,2023-04-09T04:30:27Z,3,00:45,19:15,2,2,21.0,Colorado Avalanche,COL
+226,26,21,Los Angeles Kings,Colorado Avalanche,2022021272369,2022021272,Hit,369,HIT,Erik Johnson hit Phillip Danault,2023-04-09T04:31:01Z,3,01:20,18:40,2,2,21.0,Colorado Avalanche,COL
+227,26,21,Los Angeles Kings,Colorado Avalanche,2022021272337,2022021272,Shot,337,SHOT,Valeri Nichushkin Wrist Shot saved by Pheonix Copley,2023-04-09T04:31:08Z,3,01:27,18:33,2,2,21.0,Colorado Avalanche,COL
+228,26,21,Los Angeles Kings,Colorado Avalanche,2022021272242,2022021272,Stoppage,242,STOP,Goalie Stopped,2023-04-09T04:31:09Z,3,01:28,18:32,2,2,,,
+229,26,21,Los Angeles Kings,Colorado Avalanche,2022021272458,2022021272,Faceoff,458,FACEOFF,Mikko Rantanen faceoff won against Anze Kopitar,2023-04-09T04:31:46Z,3,01:28,18:32,2,2,21.0,Colorado Avalanche,COL
+230,26,21,Los Angeles Kings,Colorado Avalanche,2022021272338,2022021272,Shot,338,SHOT,Samuel Girard Snap Shot saved by Pheonix Copley,2023-04-09T04:32:05Z,3,01:47,18:13,2,2,21.0,Colorado Avalanche,COL
+231,26,21,Los Angeles Kings,Colorado Avalanche,2022021272243,2022021272,Stoppage,243,STOP,Goalie Stopped,2023-04-09T04:32:05Z,3,01:48,18:12,2,2,,,
+232,26,21,Los Angeles Kings,Colorado Avalanche,2022021272459,2022021272,Faceoff,459,FACEOFF,Lars Eller faceoff won against Blake Lizotte,2023-04-09T04:32:38Z,3,01:48,18:12,2,2,21.0,Colorado Avalanche,COL
+233,26,21,Los Angeles Kings,Colorado Avalanche,2022021272339,2022021272,Goal,339,GOAL,"Brad Hunt (4) Slap Shot, assists: Lars Eller (11)",2023-04-09T04:32:40Z,3,01:50,18:10,2,3,21.0,Colorado Avalanche,COL
+234,26,21,Los Angeles Kings,Colorado Avalanche,2022021272460,2022021272,Faceoff,460,FACEOFF,Blake Lizotte faceoff won against Lars Eller,2023-04-09T04:33:13Z,3,01:50,18:10,2,3,26.0,Los Angeles Kings,LAK
+235,26,21,Los Angeles Kings,Colorado Avalanche,2022021272370,2022021272,Hit,370,HIT,Logan O'Connor hit Sean Durzi,2023-04-09T04:33:33Z,3,02:10,17:50,2,3,21.0,Colorado Avalanche,COL
+236,26,21,Los Angeles Kings,Colorado Avalanche,2022021272340,2022021272,Shot,340,SHOT,Lars Eller Wrist Shot saved by Pheonix Copley,2023-04-09T04:33:36Z,3,02:13,17:47,2,3,21.0,Colorado Avalanche,COL
+237,26,21,Los Angeles Kings,Colorado Avalanche,2022021272371,2022021272,Giveaway,371,GIVEAWAY,Giveaway by Pheonix Copley,2023-04-09T04:33:51Z,3,02:28,17:32,2,3,26.0,Los Angeles Kings,LAK
+238,26,21,Los Angeles Kings,Colorado Avalanche,2022021272244,2022021272,Giveaway,244,GIVEAWAY,Giveaway by Alex Newhook,2023-04-09T04:34:12Z,3,02:49,17:11,2,3,21.0,Colorado Avalanche,COL
+239,26,21,Los Angeles Kings,Colorado Avalanche,2022021272372,2022021272,Hit,372,HIT,Jaret Anderson-Dolan hit Erik Johnson,2023-04-09T04:34:18Z,3,02:55,17:05,2,3,26.0,Los Angeles Kings,LAK
+240,26,21,Los Angeles Kings,Colorado Avalanche,2022021272245,2022021272,Hit,245,HIT,Sean Walker hit Ben Meyers,2023-04-09T04:34:25Z,3,03:02,16:58,2,3,26.0,Los Angeles Kings,LAK
+241,26,21,Los Angeles Kings,Colorado Avalanche,2022021272373,2022021272,Hit,373,HIT,Matt Nieto hit Jordan Spence,2023-04-09T04:34:27Z,3,03:04,16:56,2,3,21.0,Colorado Avalanche,COL
+242,26,21,Los Angeles Kings,Colorado Avalanche,2022021272341,2022021272,Blocked Shot,341,BLOCKED_SHOT,Samuel Girard shot blocked shot by Viktor Arvidsson,2023-04-09T04:34:53Z,3,03:30,16:30,2,3,26.0,Los Angeles Kings,LAK
+243,26,21,Los Angeles Kings,Colorado Avalanche,2022021272461,2022021272,Blocked Shot,461,BLOCKED_SHOT,Valeri Nichushkin shot blocked shot by Vladislav Gavrikov,2023-04-09T04:35:09Z,3,03:46,16:14,2,3,26.0,Los Angeles Kings,LAK
+244,26,21,Los Angeles Kings,Colorado Avalanche,2022021272342,2022021272,Shot,342,SHOT,Evan Rodrigues Wrist Shot saved by Pheonix Copley,2023-04-09T04:36:18Z,3,04:55,15:05,2,3,21.0,Colorado Avalanche,COL
+245,26,21,Los Angeles Kings,Colorado Avalanche,2022021272343,2022021272,Shot,343,SHOT,Arthur Kaliyev Wrist Shot saved by Alexandar Georgiev,2023-04-09T04:36:31Z,3,05:08,14:52,2,3,26.0,Los Angeles Kings,LAK
+246,26,21,Los Angeles Kings,Colorado Avalanche,2022021272344,2022021272,Shot,344,SHOT,Erik Johnson Slap Shot saved by Pheonix Copley,2023-04-09T04:37:01Z,3,05:38,14:22,2,3,21.0,Colorado Avalanche,COL
+247,26,21,Los Angeles Kings,Colorado Avalanche,2022021272246,2022021272,Stoppage,246,STOP,Goalie Stopped,2023-04-09T04:37:02Z,3,05:39,14:21,2,3,,,
+248,26,21,Los Angeles Kings,Colorado Avalanche,2022021272462,2022021272,Faceoff,462,FACEOFF,Phillip Danault faceoff won against J.T. Compher,2023-04-09T04:37:34Z,3,05:39,14:21,2,3,26.0,Los Angeles Kings,LAK
+249,26,21,Los Angeles Kings,Colorado Avalanche,2022021272375,2022021272,Hit,375,HIT,Brad Hunt hit Trevor Moore,2023-04-09T04:37:50Z,3,05:55,14:05,2,3,21.0,Colorado Avalanche,COL
+250,26,21,Los Angeles Kings,Colorado Avalanche,2022021272345,2022021272,Shot,345,SHOT,Valeri Nichushkin Backhand saved by Pheonix Copley,2023-04-09T04:38:01Z,3,06:06,13:54,2,3,21.0,Colorado Avalanche,COL
+251,26,21,Los Angeles Kings,Colorado Avalanche,2022021272376,2022021272,Takeaway,376,TAKEAWAY,Takeaway by Valeri Nichushkin,2023-04-09T04:38:10Z,3,06:15,13:45,2,3,21.0,Colorado Avalanche,COL
+252,26,21,Los Angeles Kings,Colorado Avalanche,2022021272346,2022021272,Goal,346,GOAL,"Denis Malgin (12) Wrist Shot, assists: Valeri Nichushkin (28)",2023-04-09T04:38:13Z,3,06:18,13:42,2,4,21.0,Colorado Avalanche,COL
+253,26,21,Los Angeles Kings,Colorado Avalanche,2022021272463,2022021272,Faceoff,463,FACEOFF,Nathan MacKinnon faceoff won against Anze Kopitar,2023-04-09T04:39:05Z,3,06:18,13:42,2,4,21.0,Colorado Avalanche,COL
+254,26,21,Los Angeles Kings,Colorado Avalanche,2022021272347,2022021272,Goal,347,GOAL,"Adrian Kempe (38) Snap Shot, assists: Vladislav Gavrikov (13), Anze Kopitar (45)",2023-04-09T04:39:31Z,3,06:44,13:16,3,4,26.0,Los Angeles Kings,LAK
+255,26,21,Los Angeles Kings,Colorado Avalanche,2022021272464,2022021272,Faceoff,464,FACEOFF,Rasmus Kupari faceoff won against Lars Eller,2023-04-09T04:40:13Z,3,06:44,13:16,3,4,26.0,Los Angeles Kings,LAK
+256,26,21,Los Angeles Kings,Colorado Avalanche,2022021272348,2022021272,Shot,348,SHOT,Vladislav Gavrikov Slap Shot saved by Alexandar Georgiev,2023-04-09T04:40:47Z,3,07:18,12:42,3,4,26.0,Los Angeles Kings,LAK
+257,26,21,Los Angeles Kings,Colorado Avalanche,2022021272378,2022021272,Hit,378,HIT,Sean Durzi hit Matt Nieto,2023-04-09T04:41:21Z,3,07:52,12:08,3,4,26.0,Los Angeles Kings,LAK
+258,26,21,Los Angeles Kings,Colorado Avalanche,2022021272247,2022021272,Stoppage,247,STOP,Puck in Netting,2023-04-09T04:42:50Z,3,09:21,10:39,3,4,,,
+259,26,21,Los Angeles Kings,Colorado Avalanche,2022021272465,2022021272,Faceoff,465,FACEOFF,Anze Kopitar faceoff won against Nathan MacKinnon,2023-04-09T04:45:09Z,3,09:21,10:39,3,4,26.0,Los Angeles Kings,LAK
+260,26,21,Los Angeles Kings,Colorado Avalanche,2022021272471,2022021272,Shot,471,SHOT,Drew Doughty Wrist Shot saved by Alexandar Georgiev,2023-04-09T04:45:16Z,3,09:28,10:32,3,4,26.0,Los Angeles Kings,LAK
+261,26,21,Los Angeles Kings,Colorado Avalanche,2022021272349,2022021272,Shot,349,SHOT,Adrian Kempe Deflected saved by Alexandar Georgiev,2023-04-09T04:45:27Z,3,09:39,10:21,3,4,26.0,Los Angeles Kings,LAK
+262,26,21,Los Angeles Kings,Colorado Avalanche,2022021272248,2022021272,Stoppage,248,STOP,Puck Frozen,2023-04-09T04:45:32Z,3,09:43,10:17,3,4,,,
+263,26,21,Los Angeles Kings,Colorado Avalanche,2022021272466,2022021272,Faceoff,466,FACEOFF,Blake Lizotte faceoff won against Lars Eller,2023-04-09T04:46:02Z,3,09:43,10:17,3,4,26.0,Los Angeles Kings,LAK
+264,26,21,Los Angeles Kings,Colorado Avalanche,2022021272379,2022021272,Hit,379,HIT,Matt Roy hit Logan O'Connor,2023-04-09T04:46:07Z,3,09:48,10:12,3,4,26.0,Los Angeles Kings,LAK
+265,26,21,Los Angeles Kings,Colorado Avalanche,2022021272350,2022021272,Blocked Shot,350,BLOCKED_SHOT,Matt Roy shot blocked shot by Jack Johnson,2023-04-09T04:46:31Z,3,10:12,09:48,3,4,21.0,Colorado Avalanche,COL
+266,26,21,Los Angeles Kings,Colorado Avalanche,2022021272250,2022021272,Stoppage,250,STOP,Puck in Netting,2023-04-09T04:46:31Z,3,10:13,09:47,3,4,,,
+267,26,21,Los Angeles Kings,Colorado Avalanche,2022021272467,2022021272,Faceoff,467,FACEOFF,Lars Eller faceoff won against Phillip Danault,2023-04-09T04:47:11Z,3,10:13,09:47,3,4,21.0,Colorado Avalanche,COL
+268,26,21,Los Angeles Kings,Colorado Avalanche,2022021272380,2022021272,Giveaway,380,GIVEAWAY,Giveaway by Phillip Danault,2023-04-09T04:47:49Z,3,10:51,09:09,3,4,26.0,Los Angeles Kings,LAK
+269,26,21,Los Angeles Kings,Colorado Avalanche,2022021272651,2022021272,Blocked Shot,651,BLOCKED_SHOT,Jordan Spence shot blocked shot by Valeri Nichushkin,2023-04-09T04:47:55Z,3,10:57,09:03,3,4,21.0,Colorado Avalanche,COL
+270,26,21,Los Angeles Kings,Colorado Avalanche,2022021272551,2022021272,Giveaway,551,GIVEAWAY,Giveaway by Trevor Moore,2023-04-09T04:48:02Z,3,11:04,08:56,3,4,26.0,Los Angeles Kings,LAK
+271,26,21,Los Angeles Kings,Colorado Avalanche,2022021272552,2022021272,Hit,552,HIT,Vladislav Gavrikov hit Nathan MacKinnon,2023-04-09T04:48:56Z,3,11:58,08:02,3,4,26.0,Los Angeles Kings,LAK
+272,26,21,Los Angeles Kings,Colorado Avalanche,2022021272653,2022021272,Shot,653,SHOT,Kurtis MacDermid Wrist Shot saved by Pheonix Copley,2023-04-09T04:49:04Z,3,12:06,07:54,3,4,21.0,Colorado Avalanche,COL
+273,26,21,Los Angeles Kings,Colorado Avalanche,2022021272381,2022021272,Hit,381,HIT,Ben Meyers hit Matt Roy,2023-04-09T04:49:41Z,3,12:43,07:17,3,4,21.0,Colorado Avalanche,COL
+274,26,21,Los Angeles Kings,Colorado Avalanche,2022021272654,2022021272,Shot,654,SHOT,Matt Nieto Backhand saved by Pheonix Copley,2023-04-09T04:49:43Z,3,12:45,07:15,3,4,21.0,Colorado Avalanche,COL
+275,26,21,Los Angeles Kings,Colorado Avalanche,2022021272553,2022021272,Takeaway,553,TAKEAWAY,Takeaway by Alex Newhook,2023-04-09T04:49:50Z,3,12:52,07:08,3,4,21.0,Colorado Avalanche,COL
+276,26,21,Los Angeles Kings,Colorado Avalanche,2022021272655,2022021272,Blocked Shot,655,BLOCKED_SHOT,Logan O'Connor shot blocked shot by Matt Roy,2023-04-09T04:50:29Z,3,13:31,06:29,3,4,26.0,Los Angeles Kings,LAK
+277,26,21,Los Angeles Kings,Colorado Avalanche,2022021272656,2022021272,Missed Shot,656,MISSED_SHOT,Blake Lizotte Wide of Net Alexandar Georgiev,2023-04-09T04:51:55Z,3,14:57,05:03,3,4,26.0,Los Angeles Kings,LAK
+278,26,21,Los Angeles Kings,Colorado Avalanche,2022021272554,2022021272,Stoppage,554,STOP,TV timeout,2023-04-09T04:51:58Z,3,14:59,05:01,3,4,,,
+279,26,21,Los Angeles Kings,Colorado Avalanche,2022021272896,2022021272,Penalty,896,PENALTY,Blake Lizotte Interference against Nathan MacKinnon,2023-04-09T04:51:58Z,3,14:59,05:01,3,4,26.0,Los Angeles Kings,LAK
+280,26,21,Los Angeles Kings,Colorado Avalanche,2022021272469,2022021272,Faceoff,469,FACEOFF,Phillip Danault faceoff won against J.T. Compher,2023-04-09T04:54:31Z,3,14:59,05:01,3,4,26.0,Los Angeles Kings,LAK
+281,26,21,Los Angeles Kings,Colorado Avalanche,2022021272657,2022021272,Missed Shot,657,MISSED_SHOT,Nathan MacKinnon Wide of Net Pheonix Copley,2023-04-09T04:54:54Z,3,15:22,04:38,3,4,21.0,Colorado Avalanche,COL
+282,26,21,Los Angeles Kings,Colorado Avalanche,2022021272555,2022021272,Stoppage,555,STOP,Puck in Crowd,2023-04-09T04:54:57Z,3,15:26,04:34,3,4,,,
+283,26,21,Los Angeles Kings,Colorado Avalanche,2022021272470,2022021272,Faceoff,470,FACEOFF,Anze Kopitar faceoff won against Mikko Rantanen,2023-04-09T04:55:34Z,3,15:26,04:34,3,4,26.0,Los Angeles Kings,LAK
+284,26,21,Los Angeles Kings,Colorado Avalanche,2022021272658,2022021272,Shot,658,SHOT,Nathan MacKinnon Snap Shot saved by Pheonix Copley,2023-04-09T04:56:30Z,3,16:22,03:38,3,4,21.0,Colorado Avalanche,COL
+285,26,21,Los Angeles Kings,Colorado Avalanche,2022021272659,2022021272,Blocked Shot,659,BLOCKED_SHOT,Mikko Rantanen shot blocked shot by Sean Durzi,2023-04-09T04:56:42Z,3,16:34,03:26,3,4,26.0,Los Angeles Kings,LAK
+286,26,21,Los Angeles Kings,Colorado Avalanche,2022021272660,2022021272,Shot,660,SHOT,Valeri Nichushkin Backhand saved by Pheonix Copley,2023-04-09T04:56:44Z,3,16:36,03:24,3,4,21.0,Colorado Avalanche,COL
+287,26,21,Los Angeles Kings,Colorado Avalanche,2022021272556,2022021272,Stoppage,556,STOP,Goalie Stopped,2023-04-09T04:56:45Z,3,16:37,03:23,3,4,,,
+288,26,21,Los Angeles Kings,Colorado Avalanche,2022021272472,2022021272,Faceoff,472,FACEOFF,Mikko Rantanen faceoff won against Phillip Danault,2023-04-09T04:57:18Z,3,16:37,03:23,3,4,21.0,Colorado Avalanche,COL
+289,26,21,Los Angeles Kings,Colorado Avalanche,2022021272557,2022021272,Giveaway,557,GIVEAWAY,Giveaway by Drew Doughty,2023-04-09T04:57:23Z,3,16:42,03:18,3,4,26.0,Los Angeles Kings,LAK
+290,26,21,Los Angeles Kings,Colorado Avalanche,2022021272478,2022021272,Blocked Shot,478,BLOCKED_SHOT,Adrian Kempe shot blocked shot by Andrew Cogliano,2023-04-09T04:58:24Z,3,17:43,02:17,3,4,21.0,Colorado Avalanche,COL
+291,26,21,Los Angeles Kings,Colorado Avalanche,2022021272662,2022021272,Shot,662,SHOT,Adrian Kempe Snap Shot saved by Alexandar Georgiev,2023-04-09T04:58:29Z,3,17:48,02:12,3,4,26.0,Los Angeles Kings,LAK
+292,26,21,Los Angeles Kings,Colorado Avalanche,2022021272558,2022021272,Stoppage,558,STOP,Player Equipment,2023-04-09T04:58:30Z,3,17:49,02:11,3,4,,,
+293,26,21,Los Angeles Kings,Colorado Avalanche,2022021272559,2022021272,Stoppage,559,STOP,TV timeout,2023-04-09T04:58:30Z,3,17:49,02:11,3,4,,,
+294,26,21,Los Angeles Kings,Colorado Avalanche,2022021272473,2022021272,Faceoff,473,FACEOFF,Nathan MacKinnon faceoff won against Anze Kopitar,2023-04-09T05:01:12Z,3,17:49,02:11,3,4,21.0,Colorado Avalanche,COL
+295,26,21,Los Angeles Kings,Colorado Avalanche,2022021272663,2022021272,Missed Shot,663,MISSED_SHOT,Mikko Rantanen Goalpost,2023-04-09T05:01:19Z,3,17:56,02:04,3,4,21.0,Colorado Avalanche,COL
+296,26,21,Los Angeles Kings,Colorado Avalanche,2022021272560,2022021272,Stoppage,560,STOP,Puck in Netting,2023-04-09T05:01:53Z,3,18:30,01:30,3,4,,,
+297,26,21,Los Angeles Kings,Colorado Avalanche,2022021272475,2022021272,Faceoff,475,FACEOFF,J.T. Compher faceoff won against Anze Kopitar,2023-04-09T05:03:18Z,3,18:30,01:30,3,4,21.0,Colorado Avalanche,COL
+298,26,21,Los Angeles Kings,Colorado Avalanche,2022021272664,2022021272,Blocked Shot,664,BLOCKED_SHOT,Sean Durzi shot blocked shot by Valeri Nichushkin,2023-04-09T05:04:01Z,3,19:13,00:47,3,4,21.0,Colorado Avalanche,COL
+299,26,21,Los Angeles Kings,Colorado Avalanche,2022021272476,2022021272,Shot,476,SHOT,Anze Kopitar Tip-In saved by Alexandar Georgiev,2023-04-09T05:04:08Z,3,19:20,00:40,3,4,26.0,Los Angeles Kings,LAK
+300,26,21,Los Angeles Kings,Colorado Avalanche,2022021272477,2022021272,Shot,477,SHOT,Anze Kopitar Poke saved by Alexandar Georgiev,2023-04-09T05:04:23Z,3,19:35,00:25,3,4,26.0,Los Angeles Kings,LAK
+301,26,21,Los Angeles Kings,Colorado Avalanche,2022021272665,2022021272,Shot,665,SHOT,Phillip Danault Wrist Shot saved by Alexandar Georgiev,2023-04-09T05:04:23Z,3,19:35,00:25,3,4,26.0,Los Angeles Kings,LAK
+302,26,21,Los Angeles Kings,Colorado Avalanche,2022021272388,2022021272,Penalty,388,PENALTY,Mikko Rantanen Misconduct,2023-04-09T05:04:45Z,3,19:56,00:04,3,4,21.0,Colorado Avalanche,COL
+303,26,21,Los Angeles Kings,Colorado Avalanche,2022021272393,2022021272,Penalty,393,PENALTY,Sean Durzi Roughing against Andrew Cogliano,2023-04-09T05:04:45Z,3,19:56,00:04,3,4,26.0,Los Angeles Kings,LAK
+304,26,21,Los Angeles Kings,Colorado Avalanche,2022021272396,2022021272,Penalty,396,PENALTY,Adrian Kempe Misconduct,2023-04-09T05:04:45Z,3,19:56,00:04,3,4,26.0,Los Angeles Kings,LAK
+305,26,21,Los Angeles Kings,Colorado Avalanche,2022021272561,2022021272,Stoppage,561,STOP,Video Review,2023-04-09T05:04:45Z,3,19:56,00:04,3,4,,,
+306,26,21,Los Angeles Kings,Colorado Avalanche,2022021272929,2022021272,Penalty,929,PENALTY,Andrew Cogliano Illegal check to head against Adrian Kempe,2023-04-09T05:04:45Z,3,19:56,00:04,3,4,21.0,Colorado Avalanche,COL
+307,26,21,Los Angeles Kings,Colorado Avalanche,2022021272479,2022021272,Faceoff,479,FACEOFF,Anze Kopitar faceoff won against J.T. Compher,2023-04-09T05:08:35Z,3,19:56,00:04,3,4,26.0,Los Angeles Kings,LAK
+308,26,21,Los Angeles Kings,Colorado Avalanche,2022021272666,2022021272,Blocked Shot,666,BLOCKED_SHOT,Arthur Kaliyev shot blocked shot by Valeri Nichushkin,2023-04-09T05:08:37Z,3,19:59,00:01,3,4,21.0,Colorado Avalanche,COL
+309,26,21,Los Angeles Kings,Colorado Avalanche,2022021272383,2022021272,Period End,383,PERIOD_END,End of 3rd Period,2023-04-09T05:08:38Z,3,20:00,00:00,3,4,,,
+310,26,21,Los Angeles Kings,Colorado Avalanche,2022021272386,2022021272,Period Official,386,PERIOD_OFFICIAL,Period Official,2023-04-09T05:10:33Z,3,20:00,00:00,3,4,,,
+311,26,21,Los Angeles Kings,Colorado Avalanche,2022021272387,2022021272,Game End,387,GAME_END,Game End,2023-04-09T05:10:35Z,3,20:00,00:00,3,4,,,
+312,26,21,Los Angeles Kings,Colorado Avalanche,2022021272399,2022021272,Game Official,399,GAME_OFFICIAL,Game Official,2023-04-09T05:21:28Z,3,20:00,00:00,3,4,,,

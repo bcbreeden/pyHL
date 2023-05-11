@@ -1,0 +1,357 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,6,9,Boston Bruins,Ottawa Senators,20220211251,2022021125,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-03-21T22:06:30Z,1,00:00,20:00,0,0,,,
+1,6,9,Boston Bruins,Ottawa Senators,20220211255,2022021125,Period Ready,5,PERIOD_READY,Period Ready,2023-03-21T23:04:49Z,1,00:00,20:00,0,0,,,
+2,6,9,Boston Bruins,Ottawa Senators,202202112551,2022021125,Period Start,51,PERIOD_START,Period Start,2023-03-21T23:08:55Z,1,00:00,20:00,0,0,,,
+3,6,9,Boston Bruins,Ottawa Senators,202202112552,2022021125,Faceoff,52,FACEOFF,Tomas Nosek faceoff won against Claude Giroux,2023-03-21T23:08:55Z,1,00:00,20:00,0,0,6.0,Boston Bruins,BOS
+4,6,9,Boston Bruins,Ottawa Senators,2022021125151,2022021125,Shot,151,SHOT,Brady Tkachuk Wrist Shot saved by Linus Ullmark,2023-03-21T23:09:08Z,1,00:13,19:47,0,0,9.0,Ottawa Senators,OTT
+5,6,9,Boston Bruins,Ottawa Senators,20220211258,2022021125,Stoppage,8,STOP,Puck in Netting,2023-03-21T23:09:14Z,1,00:19,19:41,0,0,,,
+6,6,9,Boston Bruins,Ottawa Senators,2022021125152,2022021125,Blocked Shot,152,BLOCKED_SHOT,Artem Zub shot blocked shot by Jakub Lauko,2023-03-21T23:09:14Z,1,00:19,19:41,0,0,6.0,Boston Bruins,BOS
+7,6,9,Boston Bruins,Ottawa Senators,202202112553,2022021125,Faceoff,53,FACEOFF,Tomas Nosek faceoff won against Claude Giroux,2023-03-21T23:09:42Z,1,00:19,19:41,0,0,6.0,Boston Bruins,BOS
+8,6,9,Boston Bruins,Ottawa Senators,20220211259,2022021125,Hit,9,HIT,Artem Zub hit Tomas Nosek,2023-03-21T23:10:06Z,1,00:43,19:17,0,0,9.0,Ottawa Senators,OTT
+9,6,9,Boston Bruins,Ottawa Senators,2022021125114,2022021125,Penalty,114,PENALTY,Matt Grzelcyk Interference against Alex DeBrincat,2023-03-21T23:10:26Z,1,01:02,18:58,0,0,6.0,Boston Bruins,BOS
+10,6,9,Boston Bruins,Ottawa Senators,202202112554,2022021125,Faceoff,54,FACEOFF,Brady Tkachuk faceoff won against Patrice Bergeron,2023-03-21T23:10:56Z,1,01:02,18:58,0,0,9.0,Ottawa Senators,OTT
+11,6,9,Boston Bruins,Ottawa Senators,202202112510,2022021125,Stoppage,10,STOP,Puck in Netting,2023-03-21T23:11:06Z,1,01:11,18:49,0,0,,,
+12,6,9,Boston Bruins,Ottawa Senators,2022021125153,2022021125,Blocked Shot,153,BLOCKED_SHOT,Alex DeBrincat shot blocked shot by Brad Marchand,2023-03-21T23:11:06Z,1,01:11,18:49,0,0,6.0,Boston Bruins,BOS
+13,6,9,Boston Bruins,Ottawa Senators,202202112555,2022021125,Faceoff,55,FACEOFF,Patrice Bergeron faceoff won against Brady Tkachuk,2023-03-21T23:11:22Z,1,01:11,18:49,0,0,6.0,Boston Bruins,BOS
+14,6,9,Boston Bruins,Ottawa Senators,202202112511,2022021125,Stoppage,11,STOP,Goalie Stopped,2023-03-21T23:11:36Z,1,01:25,18:35,0,0,,,
+15,6,9,Boston Bruins,Ottawa Senators,2022021125154,2022021125,Shot,154,SHOT,Tim Stützle Wrist Shot saved by Linus Ullmark,2023-03-21T23:11:36Z,1,01:25,18:35,0,0,9.0,Ottawa Senators,OTT
+16,6,9,Boston Bruins,Ottawa Senators,202202112556,2022021125,Faceoff,56,FACEOFF,Brady Tkachuk faceoff won against Patrice Bergeron,2023-03-21T23:11:58Z,1,01:25,18:35,0,0,9.0,Ottawa Senators,OTT
+17,6,9,Boston Bruins,Ottawa Senators,202202112512,2022021125,Stoppage,12,STOP,Goalie Stopped,2023-03-21T23:12:05Z,1,01:32,18:28,0,0,,,
+18,6,9,Boston Bruins,Ottawa Senators,2022021125155,2022021125,Blocked Shot,155,BLOCKED_SHOT,Tim Stützle shot blocked shot by Brandon Carlo,2023-03-21T23:12:05Z,1,01:32,18:28,0,0,6.0,Boston Bruins,BOS
+19,6,9,Boston Bruins,Ottawa Senators,202202112557,2022021125,Faceoff,57,FACEOFF,Claude Giroux faceoff won against Tomas Nosek,2023-03-21T23:12:34Z,1,01:32,18:28,0,0,9.0,Ottawa Senators,OTT
+20,6,9,Boston Bruins,Ottawa Senators,2022021125156,2022021125,Shot,156,SHOT,Tim Stützle Wrist Shot saved by Linus Ullmark,2023-03-21T23:12:36Z,1,01:34,18:26,0,0,9.0,Ottawa Senators,OTT
+21,6,9,Boston Bruins,Ottawa Senators,2022021125157,2022021125,Shot,157,SHOT,Drake Batherson Wrist Shot saved by Linus Ullmark,2023-03-21T23:12:41Z,1,01:39,18:21,0,0,9.0,Ottawa Senators,OTT
+22,6,9,Boston Bruins,Ottawa Senators,2022021125158,2022021125,Shot,158,SHOT,Dmitry Orlov Wrist Shot saved by Mads Sogaard,2023-03-21T23:13:05Z,1,02:02,17:58,0,0,6.0,Boston Bruins,BOS
+23,6,9,Boston Bruins,Ottawa Senators,2022021125159,2022021125,Shot,159,SHOT,Tim Stützle Wrist Shot saved by Linus Ullmark,2023-03-21T23:13:29Z,1,02:27,17:33,0,0,9.0,Ottawa Senators,OTT
+24,6,9,Boston Bruins,Ottawa Senators,202202112513,2022021125,Hit,13,HIT,Jake DeBrusk hit Tim Stützle,2023-03-21T23:13:35Z,1,02:33,17:27,0,0,6.0,Boston Bruins,BOS
+25,6,9,Boston Bruins,Ottawa Senators,202202112514,2022021125,Hit,14,HIT,Patrice Bergeron hit Jakob Chychrun,2023-03-21T23:14:01Z,1,02:59,17:01,0,0,6.0,Boston Bruins,BOS
+26,6,9,Boston Bruins,Ottawa Senators,202202112515,2022021125,Hit,15,HIT,Derick Brassard hit Brad Marchand,2023-03-21T23:14:13Z,1,03:11,16:49,0,0,9.0,Ottawa Senators,OTT
+27,6,9,Boston Bruins,Ottawa Senators,2022021125160,2022021125,Shot,160,SHOT,Claude Giroux Wrist Shot saved by Linus Ullmark,2023-03-21T23:14:16Z,1,03:14,16:46,0,0,9.0,Ottawa Senators,OTT
+28,6,9,Boston Bruins,Ottawa Senators,202202112558,2022021125,Takeaway,58,TAKEAWAY,Takeaway by Austin Watson,2023-03-21T23:14:28Z,1,03:26,16:34,0,0,9.0,Ottawa Senators,OTT
+29,6,9,Boston Bruins,Ottawa Senators,2022021125161,2022021125,Shot,161,SHOT,Austin Watson Wrist Shot saved by Linus Ullmark,2023-03-21T23:14:30Z,1,03:28,16:32,0,0,9.0,Ottawa Senators,OTT
+30,6,9,Boston Bruins,Ottawa Senators,202202112516,2022021125,Hit,16,HIT,Charlie Coyle hit Erik Brannstrom,2023-03-21T23:14:42Z,1,03:40,16:20,0,0,6.0,Boston Bruins,BOS
+31,6,9,Boston Bruins,Ottawa Senators,202202112517,2022021125,Stoppage,17,STOP,Puck Frozen,2023-03-21T23:14:45Z,1,03:44,16:16,0,0,,,
+32,6,9,Boston Bruins,Ottawa Senators,2022021125162,2022021125,Missed Shot,162,MISSED_SHOT,Charlie Coyle Wide of Net Mads Sogaard,2023-03-21T23:14:45Z,1,03:44,16:16,0,0,6.0,Boston Bruins,BOS
+33,6,9,Boston Bruins,Ottawa Senators,202202112559,2022021125,Faceoff,59,FACEOFF,Mark Kastelic faceoff won against David Krejci,2023-03-21T23:15:23Z,1,03:44,16:16,0,0,9.0,Ottawa Senators,OTT
+34,6,9,Boston Bruins,Ottawa Senators,202202112560,2022021125,Giveaway,60,GIVEAWAY,Giveaway by David Krejci,2023-03-21T23:15:40Z,1,04:01,15:59,0,0,6.0,Boston Bruins,BOS
+35,6,9,Boston Bruins,Ottawa Senators,202202112518,2022021125,Hit,18,HIT,Mark Kastelic hit Charlie McAvoy,2023-03-21T23:15:41Z,1,04:02,15:58,0,0,9.0,Ottawa Senators,OTT
+36,6,9,Boston Bruins,Ottawa Senators,202202112519,2022021125,Hit,19,HIT,Mark Kastelic hit Charlie McAvoy,2023-03-21T23:15:48Z,1,04:09,15:51,0,0,9.0,Ottawa Senators,OTT
+37,6,9,Boston Bruins,Ottawa Senators,202202112520,2022021125,Hit,20,HIT,Dmitry Orlov hit Tim Stützle,2023-03-21T23:16:15Z,1,04:36,15:24,0,0,6.0,Boston Bruins,BOS
+38,6,9,Boston Bruins,Ottawa Senators,202202112561,2022021125,Giveaway,61,GIVEAWAY,Giveaway by Connor Clifton,2023-03-21T23:16:18Z,1,04:39,15:21,0,0,6.0,Boston Bruins,BOS
+39,6,9,Boston Bruins,Ottawa Senators,2022021125163,2022021125,Shot,163,SHOT,Claude Giroux Wrist Shot saved by Linus Ullmark,2023-03-21T23:16:19Z,1,04:40,15:20,0,0,9.0,Ottawa Senators,OTT
+40,6,9,Boston Bruins,Ottawa Senators,202202112562,2022021125,Giveaway,62,GIVEAWAY,Giveaway by Brad Marchand,2023-03-21T23:16:31Z,1,04:52,15:08,0,0,6.0,Boston Bruins,BOS
+41,6,9,Boston Bruins,Ottawa Senators,202202112563,2022021125,Giveaway,63,GIVEAWAY,Giveaway by Hampus Lindholm,2023-03-21T23:17:01Z,1,05:22,14:38,0,0,6.0,Boston Bruins,BOS
+42,6,9,Boston Bruins,Ottawa Senators,2022021125164,2022021125,Blocked Shot,164,BLOCKED_SHOT,Brandon Carlo shot blocked shot by Jakob Chychrun,2023-03-21T23:17:19Z,1,05:40,14:20,0,0,9.0,Ottawa Senators,OTT
+43,6,9,Boston Bruins,Ottawa Senators,202202112521,2022021125,Hit,21,HIT,Travis Hamonic hit Garnet Hathaway,2023-03-21T23:17:28Z,1,05:49,14:11,0,0,9.0,Ottawa Senators,OTT
+44,6,9,Boston Bruins,Ottawa Senators,202202112522,2022021125,Hit,22,HIT,Brandon Carlo hit Ridly Greig,2023-03-21T23:17:50Z,1,06:11,13:49,0,0,6.0,Boston Bruins,BOS
+45,6,9,Boston Bruins,Ottawa Senators,202202112523,2022021125,Hit,23,HIT,Ridly Greig hit Matt Grzelcyk,2023-03-21T23:17:55Z,1,06:16,13:44,0,0,9.0,Ottawa Senators,OTT
+46,6,9,Boston Bruins,Ottawa Senators,2022021125165,2022021125,Shot,165,SHOT,Trent Frederic Wrist Shot saved by Mads Sogaard,2023-03-21T23:18:22Z,1,06:43,13:17,0,0,6.0,Boston Bruins,BOS
+47,6,9,Boston Bruins,Ottawa Senators,2022021125166,2022021125,Shot,166,SHOT,Tyler Bertuzzi Backhand saved by Mads Sogaard,2023-03-21T23:18:23Z,1,06:44,13:16,0,0,6.0,Boston Bruins,BOS
+48,6,9,Boston Bruins,Ottawa Senators,202202112524,2022021125,Stoppage,24,STOP,Net Dislodged Offensive Skater,2023-03-21T23:18:28Z,1,06:49,13:11,0,0,,,
+49,6,9,Boston Bruins,Ottawa Senators,202202112525,2022021125,Stoppage,25,STOP,TV timeout,2023-03-21T23:18:28Z,1,06:49,13:11,0,0,,,
+50,6,9,Boston Bruins,Ottawa Senators,2022021125167,2022021125,Shot,167,SHOT,Charlie Coyle Wrist Shot saved by Mads Sogaard,2023-03-21T23:18:28Z,1,06:49,13:11,0,0,6.0,Boston Bruins,BOS
+51,6,9,Boston Bruins,Ottawa Senators,202202112564,2022021125,Faceoff,64,FACEOFF,Charlie Coyle faceoff won against Mark Kastelic,2023-03-21T23:21:07Z,1,06:49,13:11,0,0,6.0,Boston Bruins,BOS
+52,6,9,Boston Bruins,Ottawa Senators,2022021125168,2022021125,Blocked Shot,168,BLOCKED_SHOT,Tyler Bertuzzi shot blocked shot by Patrick Brown,2023-03-21T23:21:09Z,1,06:51,13:09,0,0,9.0,Ottawa Senators,OTT
+53,6,9,Boston Bruins,Ottawa Senators,202202112526,2022021125,Hit,26,HIT,Travis Hamonic hit Dmitry Orlov,2023-03-21T23:21:25Z,1,07:07,12:53,0,0,9.0,Ottawa Senators,OTT
+54,6,9,Boston Bruins,Ottawa Senators,202202112527,2022021125,Stoppage,27,STOP,Offside,2023-03-21T23:21:30Z,1,07:12,12:48,0,0,,,
+55,6,9,Boston Bruins,Ottawa Senators,202202112565,2022021125,Faceoff,65,FACEOFF,Patrice Bergeron faceoff won against Brady Tkachuk,2023-03-21T23:21:58Z,1,07:12,12:48,0,0,6.0,Boston Bruins,BOS
+56,6,9,Boston Bruins,Ottawa Senators,202202112566,2022021125,Giveaway,66,GIVEAWAY,Giveaway by Artem Zub,2023-03-21T23:22:25Z,1,07:39,12:21,0,0,9.0,Ottawa Senators,OTT
+57,6,9,Boston Bruins,Ottawa Senators,2022021125169,2022021125,Missed Shot,169,MISSED_SHOT,Brady Tkachuk Wide of Net Linus Ullmark,2023-03-21T23:22:28Z,1,07:42,12:18,0,0,9.0,Ottawa Senators,OTT
+58,6,9,Boston Bruins,Ottawa Senators,202202112567,2022021125,Giveaway,67,GIVEAWAY,Giveaway by David Pastrnak,2023-03-21T23:22:59Z,1,08:13,11:47,0,0,6.0,Boston Bruins,BOS
+59,6,9,Boston Bruins,Ottawa Senators,202202112568,2022021125,Giveaway,68,GIVEAWAY,Giveaway by Alex DeBrincat,2023-03-21T23:23:05Z,1,08:19,11:41,0,0,9.0,Ottawa Senators,OTT
+60,6,9,Boston Bruins,Ottawa Senators,202202112569,2022021125,Takeaway,69,TAKEAWAY,Takeaway by Ridly Greig,2023-03-21T23:23:36Z,1,08:50,11:10,0,0,9.0,Ottawa Senators,OTT
+61,6,9,Boston Bruins,Ottawa Senators,2022021125172,2022021125,Goal,172,GOAL,"Dylan Gambrell (2) Wrap-around, assists: Ridly Greig (5)",2023-03-21T23:23:41Z,1,08:55,11:05,0,1,9.0,Ottawa Senators,OTT
+62,6,9,Boston Bruins,Ottawa Senators,202202112570,2022021125,Faceoff,70,FACEOFF,Tomas Nosek faceoff won against Ridly Greig,2023-03-21T23:24:21Z,1,08:55,11:05,0,1,6.0,Boston Bruins,BOS
+63,6,9,Boston Bruins,Ottawa Senators,202202112528,2022021125,Hit,28,HIT,Tomas Nosek hit Dylan Gambrell,2023-03-21T23:24:56Z,1,09:30,10:30,0,1,6.0,Boston Bruins,BOS
+64,6,9,Boston Bruins,Ottawa Senators,2022021125173,2022021125,Blocked Shot,173,BLOCKED_SHOT,Charlie Coyle shot blocked shot by Artem Zub,2023-03-21T23:25:17Z,1,09:51,10:09,0,1,9.0,Ottawa Senators,OTT
+65,6,9,Boston Bruins,Ottawa Senators,202202112532,2022021125,Stoppage,32,STOP,TV timeout,2023-03-21T23:25:27Z,1,10:01,09:59,0,1,,,
+66,6,9,Boston Bruins,Ottawa Senators,2022021125751,2022021125,Penalty,751,PENALTY,Mark Kastelic Holding against Charlie Coyle,2023-03-21T23:25:27Z,1,10:01,09:59,0,1,9.0,Ottawa Senators,OTT
+67,6,9,Boston Bruins,Ottawa Senators,202202112571,2022021125,Faceoff,71,FACEOFF,Patrice Bergeron faceoff won against Claude Giroux,2023-03-21T23:28:01Z,1,10:01,09:59,0,1,6.0,Boston Bruins,BOS
+68,6,9,Boston Bruins,Ottawa Senators,2022021125174,2022021125,Blocked Shot,174,BLOCKED_SHOT,David Pastrnak shot blocked shot by Travis Hamonic,2023-03-21T23:28:18Z,1,10:18,09:42,0,1,9.0,Ottawa Senators,OTT
+69,6,9,Boston Bruins,Ottawa Senators,2022021125175,2022021125,Shot,175,SHOT,Jake DeBrusk Tip-In saved by Mads Sogaard,2023-03-21T23:28:27Z,1,10:27,09:33,0,1,6.0,Boston Bruins,BOS
+70,6,9,Boston Bruins,Ottawa Senators,2022021125176,2022021125,Shot,176,SHOT,David Pastrnak Slap Shot saved by Mads Sogaard,2023-03-21T23:28:31Z,1,10:31,09:29,0,1,6.0,Boston Bruins,BOS
+71,6,9,Boston Bruins,Ottawa Senators,2022021125177,2022021125,Shot,177,SHOT,Jake Sanderson Snap Shot saved by Linus Ullmark,2023-03-21T23:28:42Z,1,10:42,09:18,0,1,9.0,Ottawa Senators,OTT
+72,6,9,Boston Bruins,Ottawa Senators,202202112533,2022021125,Penalty,33,PENALTY,Tim Stützle Tripping against David Pastrnak,2023-03-21T23:29:03Z,1,11:04,08:56,0,1,9.0,Ottawa Senators,OTT
+73,6,9,Boston Bruins,Ottawa Senators,202202112536,2022021125,Stoppage,36,STOP,Home Timeout,2023-03-21T23:29:03Z,1,11:04,08:56,0,1,,,
+74,6,9,Boston Bruins,Ottawa Senators,202202112572,2022021125,Faceoff,72,FACEOFF,Patrice Bergeron faceoff won against Claude Giroux,2023-03-21T23:30:55Z,1,11:04,08:56,0,1,6.0,Boston Bruins,BOS
+75,6,9,Boston Bruins,Ottawa Senators,2022021125178,2022021125,Shot,178,SHOT,Hampus Lindholm Wrist Shot saved by Mads Sogaard,2023-03-21T23:31:22Z,1,11:31,08:29,0,1,6.0,Boston Bruins,BOS
+76,6,9,Boston Bruins,Ottawa Senators,2022021125179,2022021125,Goal,179,GOAL,"David Krejci (15) Snap Shot, assists: Patrice Bergeron (29), Hampus Lindholm (37)",2023-03-21T23:31:25Z,1,11:33,08:27,1,1,6.0,Boston Bruins,BOS
+77,6,9,Boston Bruins,Ottawa Senators,202202112573,2022021125,Faceoff,73,FACEOFF,Dylan Gambrell faceoff won against David Krejci,2023-03-21T23:32:11Z,1,11:33,08:27,1,1,9.0,Ottawa Senators,OTT
+78,6,9,Boston Bruins,Ottawa Senators,2022021125180,2022021125,Blocked Shot,180,BLOCKED_SHOT,Dmitry Orlov shot blocked shot by Austin Watson,2023-03-21T23:32:57Z,1,12:19,07:41,1,1,9.0,Ottawa Senators,OTT
+79,6,9,Boston Bruins,Ottawa Senators,2022021125181,2022021125,Blocked Shot,181,BLOCKED_SHOT,Travis Hamonic shot blocked shot by David Pastrnak,2023-03-21T23:33:11Z,1,12:33,07:27,1,1,6.0,Boston Bruins,BOS
+80,6,9,Boston Bruins,Ottawa Senators,202202112537,2022021125,Stoppage,37,STOP,Goalie Stopped,2023-03-21T23:33:19Z,1,12:42,07:18,1,1,,,
+81,6,9,Boston Bruins,Ottawa Senators,2022021125182,2022021125,Shot,182,SHOT,David Pastrnak Wrist Shot saved by Mads Sogaard,2023-03-21T23:33:19Z,1,12:42,07:18,1,1,6.0,Boston Bruins,BOS
+82,6,9,Boston Bruins,Ottawa Senators,202202112574,2022021125,Faceoff,74,FACEOFF,Claude Giroux faceoff won against Patrice Bergeron,2023-03-21T23:33:59Z,1,12:42,07:18,1,1,9.0,Ottawa Senators,OTT
+83,6,9,Boston Bruins,Ottawa Senators,2022021125183,2022021125,Missed Shot,183,MISSED_SHOT,Brad Marchand Wide of Net Mads Sogaard,2023-03-21T23:34:22Z,1,13:05,06:55,1,1,6.0,Boston Bruins,BOS
+84,6,9,Boston Bruins,Ottawa Senators,2022021125184,2022021125,Shot,184,SHOT,Drake Batherson Backhand saved by Linus Ullmark,2023-03-21T23:34:36Z,1,13:19,06:41,1,1,9.0,Ottawa Senators,OTT
+85,6,9,Boston Bruins,Ottawa Senators,202202112538,2022021125,Hit,38,HIT,Brady Tkachuk hit Hampus Lindholm,2023-03-21T23:34:47Z,1,13:30,06:30,1,1,9.0,Ottawa Senators,OTT
+86,6,9,Boston Bruins,Ottawa Senators,2022021125185,2022021125,Shot,185,SHOT,Claude Giroux Backhand saved by Linus Ullmark,2023-03-21T23:35:11Z,1,13:54,06:06,1,1,9.0,Ottawa Senators,OTT
+87,6,9,Boston Bruins,Ottawa Senators,202202112539,2022021125,Hit,39,HIT,Shane Pinto hit Trent Frederic,2023-03-21T23:35:24Z,1,14:07,05:53,1,1,9.0,Ottawa Senators,OTT
+88,6,9,Boston Bruins,Ottawa Senators,2022021125186,2022021125,Shot,186,SHOT,Charlie Coyle Wrist Shot saved by Mads Sogaard,2023-03-21T23:35:24Z,1,14:07,05:53,1,1,6.0,Boston Bruins,BOS
+89,6,9,Boston Bruins,Ottawa Senators,202202112540,2022021125,Stoppage,40,STOP,Goalie Stopped,2023-03-21T23:35:27Z,1,14:10,05:50,1,1,,,
+90,6,9,Boston Bruins,Ottawa Senators,202202112575,2022021125,Faceoff,75,FACEOFF,Shane Pinto faceoff won against Charlie Coyle,2023-03-21T23:37:50Z,1,14:10,05:50,1,1,9.0,Ottawa Senators,OTT
+91,6,9,Boston Bruins,Ottawa Senators,202202112541,2022021125,Hit,41,HIT,Trent Frederic hit Alex DeBrincat,2023-03-21T23:38:15Z,1,14:35,05:25,1,1,6.0,Boston Bruins,BOS
+92,6,9,Boston Bruins,Ottawa Senators,2022021125187,2022021125,Missed Shot,187,MISSED_SHOT,Thomas Chabot Goalpost Linus Ullmark,2023-03-21T23:38:21Z,1,14:41,05:19,1,1,9.0,Ottawa Senators,OTT
+93,6,9,Boston Bruins,Ottawa Senators,2022021125188,2022021125,Blocked Shot,188,BLOCKED_SHOT,Erik Brannstrom shot blocked shot by Matt Grzelcyk,2023-03-21T23:38:36Z,1,14:56,05:04,1,1,6.0,Boston Bruins,BOS
+94,6,9,Boston Bruins,Ottawa Senators,202202112542,2022021125,Hit,42,HIT,Garnet Hathaway hit Jakob Chychrun,2023-03-21T23:38:59Z,1,15:19,04:41,1,1,6.0,Boston Bruins,BOS
+95,6,9,Boston Bruins,Ottawa Senators,202202112543,2022021125,Stoppage,43,STOP,Goalie Stopped,2023-03-21T23:39:02Z,1,15:22,04:38,1,1,,,
+96,6,9,Boston Bruins,Ottawa Senators,2022021125189,2022021125,Shot,189,SHOT,Derick Brassard Wrist Shot saved by Linus Ullmark,2023-03-21T23:39:02Z,1,15:22,04:38,1,1,9.0,Ottawa Senators,OTT
+97,6,9,Boston Bruins,Ottawa Senators,202202112576,2022021125,Faceoff,76,FACEOFF,Patrice Bergeron faceoff won against Brady Tkachuk,2023-03-21T23:40:30Z,1,15:22,04:38,1,1,6.0,Boston Bruins,BOS
+98,6,9,Boston Bruins,Ottawa Senators,202202112544,2022021125,Hit,44,HIT,Brad Marchand hit Travis Hamonic,2023-03-21T23:40:49Z,1,15:41,04:19,1,1,6.0,Boston Bruins,BOS
+99,6,9,Boston Bruins,Ottawa Senators,2022021125190,2022021125,Goal,190,GOAL,"Jake DeBrusk (23) Backhand, assists: Brad Marchand (42), Hampus Lindholm (38)",2023-03-21T23:40:59Z,1,15:52,04:08,2,1,6.0,Boston Bruins,BOS
+100,6,9,Boston Bruins,Ottawa Senators,202202112577,2022021125,Faceoff,77,FACEOFF,Tomas Nosek faceoff won against Ridly Greig,2023-03-21T23:41:46Z,1,15:52,04:08,2,1,6.0,Boston Bruins,BOS
+101,6,9,Boston Bruins,Ottawa Senators,202202112545,2022021125,Hit,45,HIT,Jakub Lauko hit Jake Sanderson,2023-03-21T23:41:58Z,1,16:04,03:56,2,1,6.0,Boston Bruins,BOS
+102,6,9,Boston Bruins,Ottawa Senators,202202112578,2022021125,Takeaway,78,TAKEAWAY,Takeaway by Tomas Nosek,2023-03-21T23:42:00Z,1,16:06,03:54,2,1,6.0,Boston Bruins,BOS
+103,6,9,Boston Bruins,Ottawa Senators,202202112546,2022021125,Stoppage,46,STOP,Puck in Netting,2023-03-21T23:42:06Z,1,16:12,03:48,2,1,,,
+104,6,9,Boston Bruins,Ottawa Senators,202202112579,2022021125,Faceoff,79,FACEOFF,Ridly Greig faceoff won against David Krejci,2023-03-21T23:42:54Z,1,16:12,03:48,2,1,9.0,Ottawa Senators,OTT
+105,6,9,Boston Bruins,Ottawa Senators,2022021125191,2022021125,Blocked Shot,191,BLOCKED_SHOT,Jake Sanderson shot blocked shot by Pavel Zacha,2023-03-21T23:42:59Z,1,16:17,03:43,2,1,6.0,Boston Bruins,BOS
+106,6,9,Boston Bruins,Ottawa Senators,202202112547,2022021125,Hit,47,HIT,Dylan Gambrell hit Connor Clifton,2023-03-21T23:43:19Z,1,16:37,03:23,2,1,9.0,Ottawa Senators,OTT
+107,6,9,Boston Bruins,Ottawa Senators,202202112548,2022021125,Hit,48,HIT,Connor Clifton hit Mark Kastelic,2023-03-21T23:43:53Z,1,17:11,02:49,2,1,6.0,Boston Bruins,BOS
+108,6,9,Boston Bruins,Ottawa Senators,2022021125192,2022021125,Shot,192,SHOT,Austin Watson Snap Shot saved by Linus Ullmark,2023-03-21T23:43:54Z,1,17:12,02:48,2,1,9.0,Ottawa Senators,OTT
+109,6,9,Boston Bruins,Ottawa Senators,202202112549,2022021125,Hit,49,HIT,Patrick Brown hit David Krejci,2023-03-21T23:44:02Z,1,17:20,02:40,2,1,9.0,Ottawa Senators,OTT
+110,6,9,Boston Bruins,Ottawa Senators,202202112550,2022021125,Hit,50,HIT,Mark Kastelic hit Connor Clifton,2023-03-21T23:44:02Z,1,17:20,02:40,2,1,9.0,Ottawa Senators,OTT
+111,6,9,Boston Bruins,Ottawa Senators,2022021125251,2022021125,Hit,251,HIT,Austin Watson hit Matt Grzelcyk,2023-03-21T23:44:26Z,1,17:44,02:16,2,1,9.0,Ottawa Senators,OTT
+112,6,9,Boston Bruins,Ottawa Senators,2022021125252,2022021125,Hit,252,HIT,Patrick Brown hit Trent Frederic,2023-03-21T23:44:31Z,1,17:49,02:11,2,1,9.0,Ottawa Senators,OTT
+113,6,9,Boston Bruins,Ottawa Senators,2022021125193,2022021125,Shot,193,SHOT,Drake Batherson Wrist Shot saved by Linus Ullmark,2023-03-21T23:44:50Z,1,18:08,01:52,2,1,9.0,Ottawa Senators,OTT
+114,6,9,Boston Bruins,Ottawa Senators,2022021125253,2022021125,Stoppage,253,STOP,Goalie Stopped,2023-03-21T23:44:53Z,1,18:11,01:49,2,1,,,
+115,6,9,Boston Bruins,Ottawa Senators,202202112580,2022021125,Faceoff,80,FACEOFF,Shane Pinto faceoff won against Brad Marchand,2023-03-21T23:45:43Z,1,18:11,01:49,2,1,9.0,Ottawa Senators,OTT
+116,6,9,Boston Bruins,Ottawa Senators,202202112581,2022021125,Giveaway,81,GIVEAWAY,Giveaway by Jakob Chychrun,2023-03-21T23:46:06Z,1,18:34,01:26,2,1,9.0,Ottawa Senators,OTT
+117,6,9,Boston Bruins,Ottawa Senators,202202112582,2022021125,Takeaway,82,TAKEAWAY,Takeaway by Jake DeBrusk,2023-03-21T23:46:13Z,1,18:41,01:19,2,1,6.0,Boston Bruins,BOS
+118,6,9,Boston Bruins,Ottawa Senators,202202112583,2022021125,Giveaway,83,GIVEAWAY,Giveaway by Pavel Zacha,2023-03-21T23:46:48Z,1,19:16,00:44,2,1,6.0,Boston Bruins,BOS
+119,6,9,Boston Bruins,Ottawa Senators,2022021125254,2022021125,Hit,254,HIT,Claude Giroux hit Pavel Zacha,2023-03-21T23:46:48Z,1,19:16,00:44,2,1,9.0,Ottawa Senators,OTT
+120,6,9,Boston Bruins,Ottawa Senators,2022021125194,2022021125,Shot,194,SHOT,Brady Tkachuk Wrist Shot saved by Linus Ullmark,2023-03-21T23:46:51Z,1,19:19,00:41,2,1,9.0,Ottawa Senators,OTT
+121,6,9,Boston Bruins,Ottawa Senators,2022021125255,2022021125,Stoppage,255,STOP,Goalie Stopped,2023-03-21T23:46:51Z,1,19:19,00:41,2,1,,,
+122,6,9,Boston Bruins,Ottawa Senators,202202112584,2022021125,Faceoff,84,FACEOFF,Patrice Bergeron faceoff won against Brady Tkachuk,2023-03-21T23:47:19Z,1,19:19,00:41,2,1,6.0,Boston Bruins,BOS
+123,6,9,Boston Bruins,Ottawa Senators,202202112585,2022021125,Giveaway,85,GIVEAWAY,Giveaway by Tim Stützle,2023-03-21T23:47:39Z,1,19:39,00:21,2,1,9.0,Ottawa Senators,OTT
+124,6,9,Boston Bruins,Ottawa Senators,2022021125256,2022021125,Period End,256,PERIOD_END,End of 1st Period,2023-03-21T23:48:00Z,1,20:00,00:00,2,1,,,
+125,6,9,Boston Bruins,Ottawa Senators,2022021125259,2022021125,Period Official,259,PERIOD_OFFICIAL,Period Official,2023-03-21T23:48:08Z,1,20:00,00:00,2,1,,,
+126,6,9,Boston Bruins,Ottawa Senators,2022021125260,2022021125,Period Ready,260,PERIOD_READY,Period Ready,2023-03-22T00:05:06Z,2,00:00,20:00,2,1,,,
+127,6,9,Boston Bruins,Ottawa Senators,202202112586,2022021125,Period Start,86,PERIOD_START,Period Start,2023-03-22T00:06:41Z,2,00:00,20:00,2,1,,,
+128,6,9,Boston Bruins,Ottawa Senators,202202112587,2022021125,Faceoff,87,FACEOFF,Tim Stützle faceoff won against Charlie Coyle,2023-03-22T00:06:41Z,2,00:00,20:00,2,1,9.0,Ottawa Senators,OTT
+129,6,9,Boston Bruins,Ottawa Senators,2022021125195,2022021125,Shot,195,SHOT,Tim Stützle Backhand saved by Linus Ullmark,2023-03-22T00:06:53Z,2,00:12,19:48,2,1,9.0,Ottawa Senators,OTT
+130,6,9,Boston Bruins,Ottawa Senators,2022021125196,2022021125,Missed Shot,196,MISSED_SHOT,Artem Zub Over Net Linus Ullmark,2023-03-22T00:06:57Z,2,00:16,19:44,2,1,9.0,Ottawa Senators,OTT
+131,6,9,Boston Bruins,Ottawa Senators,2022021125197,2022021125,Missed Shot,197,MISSED_SHOT,Trent Frederic Wide of Net Mads Sogaard,2023-03-22T00:07:12Z,2,00:31,19:29,2,1,6.0,Boston Bruins,BOS
+132,6,9,Boston Bruins,Ottawa Senators,2022021125198,2022021125,Shot,198,SHOT,Matt Grzelcyk Wrist Shot saved by Mads Sogaard,2023-03-22T00:07:34Z,2,00:53,19:07,2,1,6.0,Boston Bruins,BOS
+133,6,9,Boston Bruins,Ottawa Senators,2022021125261,2022021125,Stoppage,261,STOP,Icing,2023-03-22T00:08:06Z,2,01:25,18:35,2,1,,,
+134,6,9,Boston Bruins,Ottawa Senators,202202112588,2022021125,Faceoff,88,FACEOFF,Shane Pinto faceoff won against Tomas Nosek,2023-03-22T00:08:32Z,2,01:25,18:35,2,1,9.0,Ottawa Senators,OTT
+135,6,9,Boston Bruins,Ottawa Senators,2022021125199,2022021125,Shot,199,SHOT,Travis Hamonic Snap Shot saved by Linus Ullmark,2023-03-22T00:08:37Z,2,01:30,18:30,2,1,9.0,Ottawa Senators,OTT
+136,6,9,Boston Bruins,Ottawa Senators,2022021125200,2022021125,Shot,200,SHOT,Jakob Chychrun Wrist Shot saved by Linus Ullmark,2023-03-22T00:08:41Z,2,01:35,18:25,2,1,9.0,Ottawa Senators,OTT
+137,6,9,Boston Bruins,Ottawa Senators,2022021125262,2022021125,Stoppage,262,STOP,Goalie Stopped,2023-03-22T00:08:41Z,2,01:35,18:25,2,1,,,
+138,6,9,Boston Bruins,Ottawa Senators,202202112589,2022021125,Faceoff,89,FACEOFF,Shane Pinto faceoff won against Patrice Bergeron,2023-03-22T00:09:07Z,2,01:35,18:25,2,1,9.0,Ottawa Senators,OTT
+139,6,9,Boston Bruins,Ottawa Senators,2022021125351,2022021125,Missed Shot,351,MISSED_SHOT,Travis Hamonic Wide of Net Linus Ullmark,2023-03-22T00:09:18Z,2,01:46,18:14,2,1,9.0,Ottawa Senators,OTT
+140,6,9,Boston Bruins,Ottawa Senators,2022021125263,2022021125,Hit,263,HIT,Jake DeBrusk hit Jakob Chychrun,2023-03-22T00:09:23Z,2,01:51,18:09,2,1,6.0,Boston Bruins,BOS
+141,6,9,Boston Bruins,Ottawa Senators,202202112591,2022021125,Giveaway,91,GIVEAWAY,Giveaway by Drake Batherson,2023-03-22T00:09:24Z,2,01:52,18:08,2,1,9.0,Ottawa Senators,OTT
+142,6,9,Boston Bruins,Ottawa Senators,2022021125352,2022021125,Shot,352,SHOT,Jake DeBrusk Wrist Shot saved by Mads Sogaard,2023-03-22T00:09:30Z,2,01:58,18:02,2,1,6.0,Boston Bruins,BOS
+143,6,9,Boston Bruins,Ottawa Senators,2022021125264,2022021125,Stoppage,264,STOP,Puck in Netting,2023-03-22T00:09:45Z,2,02:12,17:48,2,1,,,
+144,6,9,Boston Bruins,Ottawa Senators,2022021125353,2022021125,Shot,353,SHOT,Drake Batherson Backhand saved by Linus Ullmark,2023-03-22T00:09:45Z,2,02:12,17:48,2,1,9.0,Ottawa Senators,OTT
+145,6,9,Boston Bruins,Ottawa Senators,202202112592,2022021125,Faceoff,92,FACEOFF,Ridly Greig faceoff won against David Krejci,2023-03-22T00:10:21Z,2,02:12,17:48,2,1,9.0,Ottawa Senators,OTT
+146,6,9,Boston Bruins,Ottawa Senators,2022021125354,2022021125,Shot,354,SHOT,David Pastrnak Wrist Shot saved by Mads Sogaard,2023-03-22T00:10:38Z,2,02:29,17:31,2,1,6.0,Boston Bruins,BOS
+147,6,9,Boston Bruins,Ottawa Senators,2022021125355,2022021125,Shot,355,SHOT,David Pastrnak Wrist Shot saved by Mads Sogaard,2023-03-22T00:10:47Z,2,02:38,17:22,2,1,6.0,Boston Bruins,BOS
+148,6,9,Boston Bruins,Ottawa Senators,2022021125265,2022021125,Hit,265,HIT,Erik Brannstrom hit David Pastrnak,2023-03-22T00:11:10Z,2,03:01,16:59,2,1,9.0,Ottawa Senators,OTT
+149,6,9,Boston Bruins,Ottawa Senators,2022021125266,2022021125,Hit,266,HIT,Mark Kastelic hit David Krejci,2023-03-22T00:11:29Z,2,03:20,16:40,2,1,9.0,Ottawa Senators,OTT
+150,6,9,Boston Bruins,Ottawa Senators,2022021125267,2022021125,Hit,267,HIT,Erik Brannstrom hit Charlie Coyle,2023-03-22T00:11:53Z,2,03:44,16:16,2,1,9.0,Ottawa Senators,OTT
+151,6,9,Boston Bruins,Ottawa Senators,2022021125268,2022021125,Hit,268,HIT,Brady Tkachuk hit Hampus Lindholm,2023-03-22T00:12:05Z,2,03:56,16:04,2,1,9.0,Ottawa Senators,OTT
+152,6,9,Boston Bruins,Ottawa Senators,2022021125356,2022021125,Shot,356,SHOT,Claude Giroux Wrist Shot saved by Linus Ullmark,2023-03-22T00:12:32Z,2,04:23,15:37,2,1,9.0,Ottawa Senators,OTT
+153,6,9,Boston Bruins,Ottawa Senators,2022021125357,2022021125,Shot,357,SHOT,Claude Giroux Wrist Shot saved by Linus Ullmark,2023-03-22T00:12:37Z,2,04:28,15:32,2,1,9.0,Ottawa Senators,OTT
+154,6,9,Boston Bruins,Ottawa Senators,2022021125269,2022021125,Stoppage,269,STOP,Goalie Stopped,2023-03-22T00:12:39Z,2,04:30,15:30,2,1,,,
+155,6,9,Boston Bruins,Ottawa Senators,202202112593,2022021125,Faceoff,93,FACEOFF,Shane Pinto faceoff won against Patrice Bergeron,2023-03-22T00:13:18Z,2,04:30,15:30,2,1,9.0,Ottawa Senators,OTT
+156,6,9,Boston Bruins,Ottawa Senators,2022021125358,2022021125,Shot,358,SHOT,Drake Batherson Wrist Shot saved by Linus Ullmark,2023-03-22T00:13:24Z,2,04:36,15:24,2,1,9.0,Ottawa Senators,OTT
+157,6,9,Boston Bruins,Ottawa Senators,2022021125359,2022021125,Shot,359,SHOT,Brad Marchand Backhand saved by Mads Sogaard,2023-03-22T00:14:04Z,2,05:16,14:44,2,1,6.0,Boston Bruins,BOS
+158,6,9,Boston Bruins,Ottawa Senators,2022021125360,2022021125,Shot,360,SHOT,Dmitry Orlov Slap Shot saved by Mads Sogaard,2023-03-22T00:14:46Z,2,05:58,14:02,2,1,6.0,Boston Bruins,BOS
+159,6,9,Boston Bruins,Ottawa Senators,2022021125270,2022021125,Hit,270,HIT,Garnet Hathaway hit Travis Hamonic,2023-03-22T00:15:00Z,2,06:12,13:48,2,1,6.0,Boston Bruins,BOS
+160,6,9,Boston Bruins,Ottawa Senators,2022021125271,2022021125,Hit,271,HIT,Jakub Lauko hit Artem Zub,2023-03-22T00:15:18Z,2,06:30,13:30,2,1,6.0,Boston Bruins,BOS
+161,6,9,Boston Bruins,Ottawa Senators,202202112594,2022021125,Takeaway,94,TAKEAWAY,Takeaway by Jakub Lauko,2023-03-22T00:15:44Z,2,06:56,13:04,2,1,6.0,Boston Bruins,BOS
+162,6,9,Boston Bruins,Ottawa Senators,2022021125361,2022021125,Missed Shot,361,MISSED_SHOT,Jakub Lauko Wide of Net Mads Sogaard,2023-03-22T00:15:45Z,2,06:57,13:03,2,1,6.0,Boston Bruins,BOS
+163,6,9,Boston Bruins,Ottawa Senators,202202112595,2022021125,Takeaway,95,TAKEAWAY,Takeaway by Jake DeBrusk,2023-03-22T00:15:59Z,2,07:11,12:49,2,1,6.0,Boston Bruins,BOS
+164,6,9,Boston Bruins,Ottawa Senators,2022021125272,2022021125,Hit,272,HIT,Jake DeBrusk hit Claude Giroux,2023-03-22T00:15:59Z,2,07:11,12:49,2,1,6.0,Boston Bruins,BOS
+165,6,9,Boston Bruins,Ottawa Senators,2022021125273,2022021125,Hit,273,HIT,Jake DeBrusk hit Jake Sanderson,2023-03-22T00:16:11Z,2,07:23,12:37,2,1,6.0,Boston Bruins,BOS
+166,6,9,Boston Bruins,Ottawa Senators,2022021125274,2022021125,Stoppage,274,STOP,Goalie Stopped,2023-03-22T00:16:55Z,2,08:07,11:53,2,1,,,
+167,6,9,Boston Bruins,Ottawa Senators,2022021125362,2022021125,Shot,362,SHOT,Alex DeBrincat Wrist Shot saved by Linus Ullmark,2023-03-22T00:16:55Z,2,08:07,11:53,2,1,9.0,Ottawa Senators,OTT
+168,6,9,Boston Bruins,Ottawa Senators,202202112596,2022021125,Faceoff,96,FACEOFF,Tomas Nosek faceoff won against Shane Pinto,2023-03-22T00:19:19Z,2,08:07,11:53,2,1,6.0,Boston Bruins,BOS
+169,6,9,Boston Bruins,Ottawa Senators,2022021125363,2022021125,Shot,363,SHOT,Drake Batherson Wrist Shot saved by Linus Ullmark,2023-03-22T00:19:26Z,2,08:14,11:46,2,1,9.0,Ottawa Senators,OTT
+170,6,9,Boston Bruins,Ottawa Senators,2022021125364,2022021125,Blocked Shot,364,BLOCKED_SHOT,Tomas Nosek shot blocked shot by Travis Hamonic,2023-03-22T00:19:56Z,2,08:44,11:16,2,1,9.0,Ottawa Senators,OTT
+171,6,9,Boston Bruins,Ottawa Senators,2022021125365,2022021125,Shot,365,SHOT,Tyler Bertuzzi Wrist Shot saved by Mads Sogaard,2023-03-22T00:19:57Z,2,08:45,11:15,2,1,6.0,Boston Bruins,BOS
+172,6,9,Boston Bruins,Ottawa Senators,2022021125366,2022021125,Shot,366,SHOT,Garnet Hathaway Wrist Shot saved by Mads Sogaard,2023-03-22T00:20:07Z,2,08:55,11:05,2,1,6.0,Boston Bruins,BOS
+173,6,9,Boston Bruins,Ottawa Senators,2022021125275,2022021125,Stoppage,275,STOP,Goalie Stopped,2023-03-22T00:20:09Z,2,08:57,11:03,2,1,,,
+174,6,9,Boston Bruins,Ottawa Senators,2022021125367,2022021125,Shot,367,SHOT,Tyler Bertuzzi Wrist Shot saved by Mads Sogaard,2023-03-22T00:20:09Z,2,08:57,11:03,2,1,6.0,Boston Bruins,BOS
+175,6,9,Boston Bruins,Ottawa Senators,202202112597,2022021125,Faceoff,97,FACEOFF,Mark Kastelic faceoff won against David Krejci,2023-03-22T00:20:57Z,2,08:57,11:03,2,1,9.0,Ottawa Senators,OTT
+176,6,9,Boston Bruins,Ottawa Senators,2022021125368,2022021125,Shot,368,SHOT,Charlie McAvoy Slap Shot saved by Mads Sogaard,2023-03-22T00:21:05Z,2,09:05,10:55,2,1,6.0,Boston Bruins,BOS
+177,6,9,Boston Bruins,Ottawa Senators,202202112598,2022021125,Giveaway,98,GIVEAWAY,Giveaway by David Krejci,2023-03-22T00:21:36Z,2,09:36,10:24,2,1,6.0,Boston Bruins,BOS
+178,6,9,Boston Bruins,Ottawa Senators,2022021125369,2022021125,Shot,369,SHOT,Dylan Gambrell Snap Shot saved by Linus Ullmark,2023-03-22T00:22:07Z,2,10:07,09:53,2,1,9.0,Ottawa Senators,OTT
+179,6,9,Boston Bruins,Ottawa Senators,202202112599,2022021125,Giveaway,99,GIVEAWAY,Giveaway by Dylan Gambrell,2023-03-22T00:22:15Z,2,10:15,09:45,2,1,9.0,Ottawa Senators,OTT
+180,6,9,Boston Bruins,Ottawa Senators,2022021125100,2022021125,Giveaway,100,GIVEAWAY,Giveaway by Matt Grzelcyk,2023-03-22T00:22:20Z,2,10:20,09:40,2,1,6.0,Boston Bruins,BOS
+181,6,9,Boston Bruins,Ottawa Senators,2022021125370,2022021125,Blocked Shot,370,BLOCKED_SHOT,Dylan Gambrell shot blocked shot by Matt Grzelcyk,2023-03-22T00:22:21Z,2,10:21,09:39,2,1,6.0,Boston Bruins,BOS
+182,6,9,Boston Bruins,Ottawa Senators,2022021125276,2022021125,Stoppage,276,STOP,Puck Frozen,2023-03-22T00:22:28Z,2,10:28,09:32,2,1,,,
+183,6,9,Boston Bruins,Ottawa Senators,2022021125371,2022021125,Missed Shot,371,MISSED_SHOT,Patrice Bergeron Wide of Net Mads Sogaard,2023-03-22T00:22:28Z,2,10:28,09:32,2,1,6.0,Boston Bruins,BOS
+184,6,9,Boston Bruins,Ottawa Senators,2022021125401,2022021125,Faceoff,401,FACEOFF,Brad Marchand faceoff won against Tim Stützle,2023-03-22T00:24:54Z,2,10:28,09:32,2,1,6.0,Boston Bruins,BOS
+185,6,9,Boston Bruins,Ottawa Senators,2022021125372,2022021125,Blocked Shot,372,BLOCKED_SHOT,Brandon Carlo shot blocked shot by Jakob Chychrun,2023-03-22T00:25:08Z,2,10:42,09:18,2,1,9.0,Ottawa Senators,OTT
+186,6,9,Boston Bruins,Ottawa Senators,2022021125373,2022021125,Blocked Shot,373,BLOCKED_SHOT,Tim Stützle shot blocked shot by Hampus Lindholm,2023-03-22T00:25:37Z,2,11:11,08:49,2,1,6.0,Boston Bruins,BOS
+187,6,9,Boston Bruins,Ottawa Senators,2022021125374,2022021125,Shot,374,SHOT,Tyler Bertuzzi Tip-In saved by Mads Sogaard,2023-03-22T00:25:59Z,2,11:33,08:27,2,1,6.0,Boston Bruins,BOS
+188,6,9,Boston Bruins,Ottawa Senators,2022021125403,2022021125,Takeaway,403,TAKEAWAY,Takeaway by Trent Frederic,2023-03-22T00:26:18Z,2,11:52,08:08,2,1,6.0,Boston Bruins,BOS
+189,6,9,Boston Bruins,Ottawa Senators,2022021125375,2022021125,Blocked Shot,375,BLOCKED_SHOT,Charlie Coyle shot blocked shot by Jake Sanderson,2023-03-22T00:26:20Z,2,11:54,08:06,2,1,9.0,Ottawa Senators,OTT
+190,6,9,Boston Bruins,Ottawa Senators,2022021125851,2022021125,Blocked Shot,851,BLOCKED_SHOT,Drake Batherson shot blocked shot by Connor Clifton,2023-03-22T00:26:28Z,2,12:02,07:58,2,1,6.0,Boston Bruins,BOS
+191,6,9,Boston Bruins,Ottawa Senators,2022021125277,2022021125,Stoppage,277,STOP,Goalie Stopped,2023-03-22T00:26:43Z,2,12:17,07:43,2,1,,,
+192,6,9,Boston Bruins,Ottawa Senators,2022021125376,2022021125,Shot,376,SHOT,Dylan Gambrell Wrist Shot saved by Linus Ullmark,2023-03-22T00:26:43Z,2,12:17,07:43,2,1,9.0,Ottawa Senators,OTT
+193,6,9,Boston Bruins,Ottawa Senators,2022021125404,2022021125,Faceoff,404,FACEOFF,David Krejci faceoff won against Ridly Greig,2023-03-22T00:27:22Z,2,12:17,07:43,2,1,6.0,Boston Bruins,BOS
+194,6,9,Boston Bruins,Ottawa Senators,2022021125377,2022021125,Missed Shot,377,MISSED_SHOT,Ridly Greig Goalpost Linus Ullmark,2023-03-22T00:27:29Z,2,12:24,07:36,2,1,9.0,Ottawa Senators,OTT
+195,6,9,Boston Bruins,Ottawa Senators,2022021125278,2022021125,Stoppage,278,STOP,Goalie Stopped,2023-03-22T00:27:38Z,2,12:32,07:28,2,1,,,
+196,6,9,Boston Bruins,Ottawa Senators,2022021125378,2022021125,Shot,378,SHOT,David Pastrnak Backhand saved by Mads Sogaard,2023-03-22T00:27:38Z,2,12:32,07:28,2,1,6.0,Boston Bruins,BOS
+197,6,9,Boston Bruins,Ottawa Senators,2022021125405,2022021125,Faceoff,405,FACEOFF,Mark Kastelic faceoff won against David Krejci,2023-03-22T00:28:43Z,2,12:32,07:28,2,1,9.0,Ottawa Senators,OTT
+198,6,9,Boston Bruins,Ottawa Senators,2022021125379,2022021125,Missed Shot,379,MISSED_SHOT,Thomas Chabot Wide of Net Linus Ullmark,2023-03-22T00:29:04Z,2,12:53,07:07,2,1,9.0,Ottawa Senators,OTT
+199,6,9,Boston Bruins,Ottawa Senators,2022021125279,2022021125,Hit,279,HIT,Brady Tkachuk hit Tomas Nosek,2023-03-22T00:29:47Z,2,13:36,06:24,2,1,9.0,Ottawa Senators,OTT
+200,6,9,Boston Bruins,Ottawa Senators,2022021125380,2022021125,Shot,380,SHOT,Brady Tkachuk Wrist Shot saved by Linus Ullmark,2023-03-22T00:30:02Z,2,13:51,06:09,2,1,9.0,Ottawa Senators,OTT
+201,6,9,Boston Bruins,Ottawa Senators,2022021125381,2022021125,Shot,381,SHOT,Brady Tkachuk Backhand saved by Linus Ullmark,2023-03-22T00:30:06Z,2,13:55,06:05,2,1,9.0,Ottawa Senators,OTT
+202,6,9,Boston Bruins,Ottawa Senators,2022021125280,2022021125,Hit,280,HIT,Tomas Nosek hit Jakob Chychrun,2023-03-22T00:30:18Z,2,14:07,05:53,2,1,6.0,Boston Bruins,BOS
+203,6,9,Boston Bruins,Ottawa Senators,2022021125281,2022021125,Stoppage,281,STOP,Puck Frozen,2023-03-22T00:30:25Z,2,14:14,05:46,2,1,,,
+204,6,9,Boston Bruins,Ottawa Senators,2022021125406,2022021125,Faceoff,406,FACEOFF,Shane Pinto faceoff won against Patrice Bergeron,2023-03-22T00:33:29Z,2,14:14,05:46,2,1,9.0,Ottawa Senators,OTT
+205,6,9,Boston Bruins,Ottawa Senators,2022021125407,2022021125,Takeaway,407,TAKEAWAY,Takeaway by Patrice Bergeron,2023-03-22T00:33:41Z,2,14:26,05:34,2,1,6.0,Boston Bruins,BOS
+206,6,9,Boston Bruins,Ottawa Senators,2022021125408,2022021125,Takeaway,408,TAKEAWAY,Takeaway by Alex DeBrincat,2023-03-22T00:33:43Z,2,14:28,05:32,2,1,9.0,Ottawa Senators,OTT
+207,6,9,Boston Bruins,Ottawa Senators,2022021125282,2022021125,Hit,282,HIT,Jake DeBrusk hit Artem Zub,2023-03-22T00:33:54Z,2,14:39,05:21,2,1,6.0,Boston Bruins,BOS
+208,6,9,Boston Bruins,Ottawa Senators,2022021125383,2022021125,Shot,383,SHOT,Patrice Bergeron Slap Shot saved by Mads Sogaard,2023-03-22T00:34:03Z,2,14:48,05:12,2,1,6.0,Boston Bruins,BOS
+209,6,9,Boston Bruins,Ottawa Senators,2022021125409,2022021125,Takeaway,409,TAKEAWAY,Takeaway by Charlie Coyle,2023-03-22T00:34:11Z,2,14:56,05:04,2,1,6.0,Boston Bruins,BOS
+210,6,9,Boston Bruins,Ottawa Senators,2022021125410,2022021125,Giveaway,410,GIVEAWAY,Giveaway by Charlie McAvoy,2023-03-22T00:34:33Z,2,15:18,04:42,2,1,6.0,Boston Bruins,BOS
+211,6,9,Boston Bruins,Ottawa Senators,2022021125283,2022021125,Hit,283,HIT,Thomas Chabot hit Trent Frederic,2023-03-22T00:34:43Z,2,15:28,04:32,2,1,9.0,Ottawa Senators,OTT
+212,6,9,Boston Bruins,Ottawa Senators,2022021125284,2022021125,Penalty,284,PENALTY,Too many men/ice served by Tyler Bertuzzi,2023-03-22T00:34:47Z,2,15:32,04:28,2,1,6.0,Boston Bruins,BOS
+213,6,9,Boston Bruins,Ottawa Senators,2022021125411,2022021125,Faceoff,411,FACEOFF,Patrice Bergeron faceoff won against Brady Tkachuk,2023-03-22T00:35:34Z,2,15:32,04:28,2,1,6.0,Boston Bruins,BOS
+214,6,9,Boston Bruins,Ottawa Senators,2022021125412,2022021125,Giveaway,412,GIVEAWAY,Giveaway by Alex DeBrincat,2023-03-22T00:35:56Z,2,15:54,04:06,2,1,9.0,Ottawa Senators,OTT
+215,6,9,Boston Bruins,Ottawa Senators,2022021125413,2022021125,Giveaway,413,GIVEAWAY,Giveaway by Tim Stützle,2023-03-22T00:36:10Z,2,16:08,03:52,2,1,9.0,Ottawa Senators,OTT
+216,6,9,Boston Bruins,Ottawa Senators,2022021125385,2022021125,Shot,385,SHOT,Brady Tkachuk Wrist Shot saved by Linus Ullmark,2023-03-22T00:36:49Z,2,16:47,03:13,2,1,9.0,Ottawa Senators,OTT
+217,6,9,Boston Bruins,Ottawa Senators,2022021125386,2022021125,Shot,386,SHOT,Alex DeBrincat Backhand saved by Linus Ullmark,2023-03-22T00:36:51Z,2,16:49,03:11,2,1,9.0,Ottawa Senators,OTT
+218,6,9,Boston Bruins,Ottawa Senators,2022021125387,2022021125,Shot,387,SHOT,Drake Batherson Wrist Shot saved by Linus Ullmark,2023-03-22T00:36:55Z,2,16:53,03:07,2,1,9.0,Ottawa Senators,OTT
+219,6,9,Boston Bruins,Ottawa Senators,2022021125287,2022021125,Stoppage,287,STOP,Puck in Benches,2023-03-22T00:37:10Z,2,17:08,02:52,2,1,,,
+220,6,9,Boston Bruins,Ottawa Senators,2022021125414,2022021125,Faceoff,414,FACEOFF,Derick Brassard faceoff won against Garnet Hathaway,2023-03-22T00:37:57Z,2,17:08,02:52,2,1,9.0,Ottawa Senators,OTT
+221,6,9,Boston Bruins,Ottawa Senators,2022021125388,2022021125,Blocked Shot,388,BLOCKED_SHOT,Jakob Chychrun shot blocked shot by Garnet Hathaway,2023-03-22T00:38:16Z,2,17:27,02:33,2,1,6.0,Boston Bruins,BOS
+222,6,9,Boston Bruins,Ottawa Senators,2022021125288,2022021125,Stoppage,288,STOP,Goalie Stopped,2023-03-22T00:38:24Z,2,17:35,02:25,2,1,,,
+223,6,9,Boston Bruins,Ottawa Senators,2022021125389,2022021125,Shot,389,SHOT,Derick Brassard Tip-In saved by Linus Ullmark,2023-03-22T00:38:24Z,2,17:35,02:25,2,1,9.0,Ottawa Senators,OTT
+224,6,9,Boston Bruins,Ottawa Senators,2022021125415,2022021125,Faceoff,415,FACEOFF,Tomas Nosek faceoff won against Shane Pinto,2023-03-22T00:39:10Z,2,17:35,02:25,2,1,6.0,Boston Bruins,BOS
+225,6,9,Boston Bruins,Ottawa Senators,2022021125416,2022021125,Giveaway,416,GIVEAWAY,Giveaway by David Pastrnak,2023-03-22T00:39:21Z,2,17:45,02:15,2,1,6.0,Boston Bruins,BOS
+226,6,9,Boston Bruins,Ottawa Senators,2022021125390,2022021125,Shot,390,SHOT,Thomas Chabot Slap Shot saved by Linus Ullmark,2023-03-22T00:39:34Z,2,17:59,02:01,2,1,9.0,Ottawa Senators,OTT
+227,6,9,Boston Bruins,Ottawa Senators,2022021125391,2022021125,Shot,391,SHOT,Alex DeBrincat Wrist Shot saved by Linus Ullmark,2023-03-22T00:39:47Z,2,18:12,01:48,2,1,9.0,Ottawa Senators,OTT
+228,6,9,Boston Bruins,Ottawa Senators,2022021125392,2022021125,Blocked Shot,392,BLOCKED_SHOT,Jakob Chychrun shot blocked shot by David Pastrnak,2023-03-22T00:40:09Z,2,18:34,01:26,2,1,6.0,Boston Bruins,BOS
+229,6,9,Boston Bruins,Ottawa Senators,2022021125289,2022021125,Hit,289,HIT,David Krejci hit Jakob Chychrun,2023-03-22T00:40:24Z,2,18:47,01:13,2,1,6.0,Boston Bruins,BOS
+230,6,9,Boston Bruins,Ottawa Senators,2022021125417,2022021125,Takeaway,417,TAKEAWAY,Takeaway by Brady Tkachuk,2023-03-22T00:40:25Z,2,18:50,01:10,2,1,9.0,Ottawa Senators,OTT
+231,6,9,Boston Bruins,Ottawa Senators,2022021125290,2022021125,Stoppage,290,STOP,Puck in Netting,2023-03-22T00:40:28Z,2,18:52,01:08,2,1,,,
+232,6,9,Boston Bruins,Ottawa Senators,2022021125393,2022021125,Shot,393,SHOT,Claude Giroux Slap Shot saved by Linus Ullmark,2023-03-22T00:40:28Z,2,18:52,01:08,2,1,9.0,Ottawa Senators,OTT
+233,6,9,Boston Bruins,Ottawa Senators,2022021125418,2022021125,Faceoff,418,FACEOFF,Brady Tkachuk faceoff won against Patrice Bergeron,2023-03-22T00:40:59Z,2,18:52,01:08,2,1,9.0,Ottawa Senators,OTT
+234,6,9,Boston Bruins,Ottawa Senators,2022021125394,2022021125,Missed Shot,394,MISSED_SHOT,Jake Sanderson Wide of Net Linus Ullmark,2023-03-22T00:41:04Z,2,18:57,01:03,2,1,9.0,Ottawa Senators,OTT
+235,6,9,Boston Bruins,Ottawa Senators,2022021125400,2022021125,Missed Shot,400,MISSED_SHOT,Travis Hamonic Over Net Linus Ullmark,2023-03-22T00:41:05Z,2,18:58,01:02,2,1,9.0,Ottawa Senators,OTT
+236,6,9,Boston Bruins,Ottawa Senators,2022021125291,2022021125,Stoppage,291,STOP,Goalie Stopped,2023-03-22T00:41:16Z,2,19:08,00:52,2,1,,,
+237,6,9,Boston Bruins,Ottawa Senators,2022021125395,2022021125,Shot,395,SHOT,Hampus Lindholm Wrist Shot saved by Mads Sogaard,2023-03-22T00:41:16Z,2,19:08,00:52,2,1,6.0,Boston Bruins,BOS
+238,6,9,Boston Bruins,Ottawa Senators,2022021125419,2022021125,Faceoff,419,FACEOFF,Patrice Bergeron faceoff won against Mark Kastelic,2023-03-22T00:41:50Z,2,19:08,00:52,2,1,6.0,Boston Bruins,BOS
+239,6,9,Boston Bruins,Ottawa Senators,2022021125396,2022021125,Blocked Shot,396,BLOCKED_SHOT,Connor Clifton shot blocked shot by Dylan Gambrell,2023-03-22T00:41:55Z,2,19:13,00:47,2,1,9.0,Ottawa Senators,OTT
+240,6,9,Boston Bruins,Ottawa Senators,2022021125397,2022021125,Blocked Shot,397,BLOCKED_SHOT,Brad Marchand shot blocked shot by Mark Kastelic,2023-03-22T00:42:08Z,2,19:26,00:34,2,1,9.0,Ottawa Senators,OTT
+241,6,9,Boston Bruins,Ottawa Senators,2022021125420,2022021125,Takeaway,420,TAKEAWAY,Takeaway by Dmitry Orlov,2023-03-22T00:42:13Z,2,19:31,00:29,2,1,6.0,Boston Bruins,BOS
+242,6,9,Boston Bruins,Ottawa Senators,2022021125292,2022021125,Stoppage,292,STOP,Goalie Stopped,2023-03-22T00:42:15Z,2,19:33,00:27,2,1,,,
+243,6,9,Boston Bruins,Ottawa Senators,2022021125398,2022021125,Shot,398,SHOT,Brad Marchand Wrist Shot saved by Mads Sogaard,2023-03-22T00:42:15Z,2,19:33,00:27,2,1,6.0,Boston Bruins,BOS
+244,6,9,Boston Bruins,Ottawa Senators,2022021125421,2022021125,Faceoff,421,FACEOFF,Charlie Coyle faceoff won against Shane Pinto,2023-03-22T00:42:54Z,2,19:33,00:27,2,1,6.0,Boston Bruins,BOS
+245,6,9,Boston Bruins,Ottawa Senators,2022021125399,2022021125,Shot,399,SHOT,Drake Batherson Snap Shot saved by Linus Ullmark,2023-03-22T00:43:02Z,2,19:42,00:18,2,1,9.0,Ottawa Senators,OTT
+246,6,9,Boston Bruins,Ottawa Senators,2022021125293,2022021125,Hit,293,HIT,Artem Zub hit Tyler Bertuzzi,2023-03-22T00:43:15Z,2,19:55,00:05,2,1,9.0,Ottawa Senators,OTT
+247,6,9,Boston Bruins,Ottawa Senators,2022021125422,2022021125,Takeaway,422,TAKEAWAY,Takeaway by Alex DeBrincat,2023-03-22T00:43:18Z,2,19:58,00:02,2,1,9.0,Ottawa Senators,OTT
+248,6,9,Boston Bruins,Ottawa Senators,2022021125294,2022021125,Period End,294,PERIOD_END,End of 2nd Period,2023-03-22T00:43:20Z,2,20:00,00:00,2,1,,,
+249,6,9,Boston Bruins,Ottawa Senators,2022021125297,2022021125,Period Official,297,PERIOD_OFFICIAL,Period Official,2023-03-22T00:43:28Z,2,20:00,00:00,2,1,,,
+250,6,9,Boston Bruins,Ottawa Senators,2022021125298,2022021125,Period Ready,298,PERIOD_READY,Period Ready,2023-03-22T01:00:38Z,3,00:00,20:00,2,1,,,
+251,6,9,Boston Bruins,Ottawa Senators,2022021125423,2022021125,Period Start,423,PERIOD_START,Period Start,2023-03-22T01:02:59Z,3,00:00,20:00,2,1,,,
+252,6,9,Boston Bruins,Ottawa Senators,2022021125424,2022021125,Faceoff,424,FACEOFF,Tomas Nosek faceoff won against Claude Giroux,2023-03-22T01:02:59Z,3,00:00,20:00,2,1,6.0,Boston Bruins,BOS
+253,6,9,Boston Bruins,Ottawa Senators,2022021125299,2022021125,Hit,299,HIT,Garnet Hathaway hit Jake Sanderson,2023-03-22T01:03:11Z,3,00:12,19:48,2,1,6.0,Boston Bruins,BOS
+254,6,9,Boston Bruins,Ottawa Senators,2022021125701,2022021125,Blocked Shot,701,BLOCKED_SHOT,Tim Stützle shot blocked shot by Brandon Carlo,2023-03-22T01:03:21Z,3,00:22,19:38,2,1,6.0,Boston Bruins,BOS
+255,6,9,Boston Bruins,Ottawa Senators,2022021125300,2022021125,Hit,300,HIT,Brady Tkachuk hit Brandon Carlo,2023-03-22T01:03:38Z,3,00:39,19:21,2,1,9.0,Ottawa Senators,OTT
+256,6,9,Boston Bruins,Ottawa Senators,2022021125601,2022021125,Stoppage,601,STOP,Offside,2023-03-22T01:03:54Z,3,00:55,19:05,2,1,,,
+257,6,9,Boston Bruins,Ottawa Senators,2022021125425,2022021125,Faceoff,425,FACEOFF,Patrice Bergeron faceoff won against Shane Pinto,2023-03-22T01:04:15Z,3,00:55,19:05,2,1,6.0,Boston Bruins,BOS
+258,6,9,Boston Bruins,Ottawa Senators,2022021125602,2022021125,Penalty,602,PENALTY,Ridly Greig Tripping against Connor Clifton,2023-03-22T01:05:39Z,3,02:19,17:41,2,1,9.0,Ottawa Senators,OTT
+259,6,9,Boston Bruins,Ottawa Senators,2022021125426,2022021125,Faceoff,426,FACEOFF,Claude Giroux faceoff won against Patrice Bergeron,2023-03-22T01:06:17Z,3,02:19,17:41,2,1,9.0,Ottawa Senators,OTT
+260,6,9,Boston Bruins,Ottawa Senators,2022021125702,2022021125,Missed Shot,702,MISSED_SHOT,David Pastrnak Wide of Net Mads Sogaard,2023-03-22T01:06:36Z,3,02:38,17:22,2,1,6.0,Boston Bruins,BOS
+261,6,9,Boston Bruins,Ottawa Senators,2022021125703,2022021125,Blocked Shot,703,BLOCKED_SHOT,Brad Marchand shot blocked shot by Austin Watson,2023-03-22T01:06:44Z,3,02:46,17:14,2,1,9.0,Ottawa Senators,OTT
+262,6,9,Boston Bruins,Ottawa Senators,2022021125704,2022021125,Missed Shot,704,MISSED_SHOT,David Pastrnak Wide of Net Mads Sogaard,2023-03-22T01:07:01Z,3,03:03,16:57,2,1,6.0,Boston Bruins,BOS
+263,6,9,Boston Bruins,Ottawa Senators,2022021125705,2022021125,Blocked Shot,705,BLOCKED_SHOT,Brad Marchand shot blocked shot by Jake Sanderson,2023-03-22T01:07:09Z,3,03:11,16:49,2,1,9.0,Ottawa Senators,OTT
+264,6,9,Boston Bruins,Ottawa Senators,2022021125706,2022021125,Shot,706,SHOT,David Pastrnak Slap Shot saved by Mads Sogaard,2023-03-22T01:07:19Z,3,03:21,16:39,2,1,6.0,Boston Bruins,BOS
+265,6,9,Boston Bruins,Ottawa Senators,2022021125852,2022021125,Blocked Shot,852,BLOCKED_SHOT,Hampus Lindholm shot blocked shot by Travis Hamonic,2023-03-22T01:07:46Z,3,03:48,16:12,2,1,9.0,Ottawa Senators,OTT
+266,6,9,Boston Bruins,Ottawa Senators,2022021125606,2022021125,Stoppage,606,STOP,Goalie Stopped,2023-03-22T01:08:01Z,3,04:03,15:57,2,1,,,
+267,6,9,Boston Bruins,Ottawa Senators,2022021125707,2022021125,Shot,707,SHOT,Jake DeBrusk Tip-In saved by Mads Sogaard,2023-03-22T01:08:01Z,3,04:03,15:57,2,1,6.0,Boston Bruins,BOS
+268,6,9,Boston Bruins,Ottawa Senators,2022021125427,2022021125,Faceoff,427,FACEOFF,Claude Giroux faceoff won against Tyler Bertuzzi,2023-03-22T01:08:39Z,3,04:03,15:57,2,1,9.0,Ottawa Senators,OTT
+269,6,9,Boston Bruins,Ottawa Senators,2022021125708,2022021125,Shot,708,SHOT,Jakob Chychrun Wrist Shot saved by Linus Ullmark,2023-03-22T01:08:44Z,3,04:08,15:52,2,1,9.0,Ottawa Senators,OTT
+270,6,9,Boston Bruins,Ottawa Senators,2022021125607,2022021125,Stoppage,607,STOP,Offside,2023-03-22T01:08:57Z,3,04:22,15:38,2,1,,,
+271,6,9,Boston Bruins,Ottawa Senators,2022021125428,2022021125,Faceoff,428,FACEOFF,Tim Stützle faceoff won against Charlie Coyle,2023-03-22T01:09:29Z,3,04:22,15:38,2,1,9.0,Ottawa Senators,OTT
+272,6,9,Boston Bruins,Ottawa Senators,2022021125709,2022021125,Missed Shot,709,MISSED_SHOT,Charlie McAvoy Wide of Net Mads Sogaard,2023-03-22T01:09:45Z,3,04:38,15:22,2,1,6.0,Boston Bruins,BOS
+273,6,9,Boston Bruins,Ottawa Senators,2022021125710,2022021125,Blocked Shot,710,BLOCKED_SHOT,Dmitry Orlov shot blocked shot by Thomas Chabot,2023-03-22T01:09:56Z,3,04:49,15:11,2,1,9.0,Ottawa Senators,OTT
+274,6,9,Boston Bruins,Ottawa Senators,2022021125608,2022021125,Stoppage,608,STOP,Icing,2023-03-22T01:10:17Z,3,05:11,14:49,2,1,,,
+275,6,9,Boston Bruins,Ottawa Senators,2022021125429,2022021125,Faceoff,429,FACEOFF,Shane Pinto faceoff won against Charlie Coyle,2023-03-22T01:10:54Z,3,05:11,14:49,2,1,9.0,Ottawa Senators,OTT
+276,6,9,Boston Bruins,Ottawa Senators,2022021125609,2022021125,Hit,609,HIT,Tyler Bertuzzi hit Jakob Chychrun,2023-03-22T01:11:11Z,3,05:28,14:32,2,1,6.0,Boston Bruins,BOS
+277,6,9,Boston Bruins,Ottawa Senators,2022021125610,2022021125,Hit,610,HIT,Erik Brannstrom hit Garnet Hathaway,2023-03-22T01:11:47Z,3,06:04,13:56,2,1,9.0,Ottawa Senators,OTT
+278,6,9,Boston Bruins,Ottawa Senators,2022021125430,2022021125,Giveaway,430,GIVEAWAY,Giveaway by Brad Marchand,2023-03-22T01:11:59Z,3,06:16,13:44,2,1,6.0,Boston Bruins,BOS
+279,6,9,Boston Bruins,Ottawa Senators,2022021125431,2022021125,Giveaway,431,GIVEAWAY,Giveaway by Dylan Gambrell,2023-03-22T01:12:05Z,3,06:22,13:38,2,1,9.0,Ottawa Senators,OTT
+280,6,9,Boston Bruins,Ottawa Senators,2022021125611,2022021125,Stoppage,611,STOP,Goalie Stopped,2023-03-22T01:12:14Z,3,06:31,13:29,2,1,,,
+281,6,9,Boston Bruins,Ottawa Senators,2022021125711,2022021125,Shot,711,SHOT,Jake DeBrusk Wrist Shot saved by Mads Sogaard,2023-03-22T01:12:14Z,3,06:31,13:29,2,1,6.0,Boston Bruins,BOS
+282,6,9,Boston Bruins,Ottawa Senators,2022021125432,2022021125,Faceoff,432,FACEOFF,Mark Kastelic faceoff won against Patrice Bergeron,2023-03-22T01:14:42Z,3,06:31,13:29,2,1,9.0,Ottawa Senators,OTT
+283,6,9,Boston Bruins,Ottawa Senators,2022021125712,2022021125,Blocked Shot,712,BLOCKED_SHOT,Brad Marchand shot blocked shot by Erik Brannstrom,2023-03-22T01:15:14Z,3,07:03,12:57,2,1,9.0,Ottawa Senators,OTT
+284,6,9,Boston Bruins,Ottawa Senators,2022021125433,2022021125,Giveaway,433,GIVEAWAY,Giveaway by Hampus Lindholm,2023-03-22T01:15:26Z,3,07:15,12:45,2,1,6.0,Boston Bruins,BOS
+285,6,9,Boston Bruins,Ottawa Senators,2022021125713,2022021125,Missed Shot,713,MISSED_SHOT,Brady Tkachuk Wide of Net Linus Ullmark,2023-03-22T01:15:31Z,3,07:20,12:40,2,1,9.0,Ottawa Senators,OTT
+286,6,9,Boston Bruins,Ottawa Senators,2022021125434,2022021125,Giveaway,434,GIVEAWAY,Giveaway by Artem Zub,2023-03-22T01:15:44Z,3,07:33,12:27,2,1,9.0,Ottawa Senators,OTT
+287,6,9,Boston Bruins,Ottawa Senators,2022021125714,2022021125,Missed Shot,714,MISSED_SHOT,David Pastrnak Wide of Net Mads Sogaard,2023-03-22T01:15:50Z,3,07:39,12:21,2,1,6.0,Boston Bruins,BOS
+288,6,9,Boston Bruins,Ottawa Senators,2022021125612,2022021125,Hit,612,HIT,Brady Tkachuk hit Brandon Carlo,2023-03-22T01:16:01Z,3,07:50,12:10,2,1,9.0,Ottawa Senators,OTT
+289,6,9,Boston Bruins,Ottawa Senators,2022021125435,2022021125,Giveaway,435,GIVEAWAY,Giveaway by David Pastrnak,2023-03-22T01:16:04Z,3,07:53,12:07,2,1,6.0,Boston Bruins,BOS
+290,6,9,Boston Bruins,Ottawa Senators,2022021125715,2022021125,Shot,715,SHOT,David Pastrnak Backhand saved by Mads Sogaard,2023-03-22T01:16:21Z,3,08:10,11:50,2,1,6.0,Boston Bruins,BOS
+291,6,9,Boston Bruins,Ottawa Senators,2022021125613,2022021125,Stoppage,613,STOP,Puck Frozen,2023-03-22T01:16:38Z,3,08:26,11:34,2,1,,,
+292,6,9,Boston Bruins,Ottawa Senators,2022021125716,2022021125,Missed Shot,716,MISSED_SHOT,Drake Batherson Wide of Net Linus Ullmark,2023-03-22T01:16:38Z,3,08:26,11:34,2,1,9.0,Ottawa Senators,OTT
+293,6,9,Boston Bruins,Ottawa Senators,2022021125436,2022021125,Faceoff,436,FACEOFF,Shane Pinto faceoff won against Tomas Nosek,2023-03-22T01:17:10Z,3,08:26,11:34,2,1,9.0,Ottawa Senators,OTT
+294,6,9,Boston Bruins,Ottawa Senators,2022021125717,2022021125,Blocked Shot,717,BLOCKED_SHOT,Tyler Bertuzzi shot blocked shot by Alex DeBrincat,2023-03-22T01:17:23Z,3,08:39,11:21,2,1,9.0,Ottawa Senators,OTT
+295,6,9,Boston Bruins,Ottawa Senators,2022021125437,2022021125,Takeaway,437,TAKEAWAY,Takeaway by Tyler Bertuzzi,2023-03-22T01:17:24Z,3,08:40,11:20,2,1,6.0,Boston Bruins,BOS
+296,6,9,Boston Bruins,Ottawa Senators,2022021125718,2022021125,Blocked Shot,718,BLOCKED_SHOT,Charlie Coyle shot blocked shot by Shane Pinto,2023-03-22T01:17:28Z,3,08:44,11:16,2,1,9.0,Ottawa Senators,OTT
+297,6,9,Boston Bruins,Ottawa Senators,2022021125614,2022021125,Stoppage,614,STOP,Puck in Netting,2023-03-22T01:17:29Z,3,08:45,11:15,2,1,,,
+298,6,9,Boston Bruins,Ottawa Senators,2022021125438,2022021125,Faceoff,438,FACEOFF,Shane Pinto faceoff won against Patrice Bergeron,2023-03-22T01:17:58Z,3,08:45,11:15,2,1,9.0,Ottawa Senators,OTT
+299,6,9,Boston Bruins,Ottawa Senators,2022021125439,2022021125,Takeaway,439,TAKEAWAY,Takeaway by Shane Pinto,2023-03-22T01:18:10Z,3,08:57,11:03,2,1,9.0,Ottawa Senators,OTT
+300,6,9,Boston Bruins,Ottawa Senators,2022021125615,2022021125,Penalty,615,PENALTY,Jakob Chychrun Tripping against Brad Marchand,2023-03-22T01:18:11Z,3,08:59,11:01,2,1,9.0,Ottawa Senators,OTT
+301,6,9,Boston Bruins,Ottawa Senators,2022021125440,2022021125,Faceoff,440,FACEOFF,Patrice Bergeron faceoff won against Claude Giroux,2023-03-22T01:18:48Z,3,08:59,11:01,2,1,6.0,Boston Bruins,BOS
+302,6,9,Boston Bruins,Ottawa Senators,2022021125719,2022021125,Shot,719,SHOT,Patrice Bergeron Snap Shot saved by Mads Sogaard,2023-03-22T01:19:05Z,3,09:16,10:44,2,1,6.0,Boston Bruins,BOS
+303,6,9,Boston Bruins,Ottawa Senators,2022021125720,2022021125,Blocked Shot,720,BLOCKED_SHOT,Charlie McAvoy shot blocked shot by Dylan Gambrell,2023-03-22T01:20:05Z,3,10:16,09:44,2,1,9.0,Ottawa Senators,OTT
+304,6,9,Boston Bruins,Ottawa Senators,2022021125618,2022021125,Stoppage,618,STOP,Goalie Stopped,2023-03-22T01:20:24Z,3,10:34,09:26,2,1,,,
+305,6,9,Boston Bruins,Ottawa Senators,2022021125721,2022021125,Shot,721,SHOT,Pavel Zacha Snap Shot saved by Mads Sogaard,2023-03-22T01:20:24Z,3,10:34,09:26,2,1,6.0,Boston Bruins,BOS
+306,6,9,Boston Bruins,Ottawa Senators,2022021125441,2022021125,Faceoff,441,FACEOFF,Claude Giroux faceoff won against Pavel Zacha,2023-03-22T01:20:45Z,3,10:34,09:26,2,1,9.0,Ottawa Senators,OTT
+307,6,9,Boston Bruins,Ottawa Senators,2022021125722,2022021125,Missed Shot,722,MISSED_SHOT,David Krejci Wide of Net Mads Sogaard,2023-03-22T01:21:33Z,3,11:22,08:38,2,1,6.0,Boston Bruins,BOS
+308,6,9,Boston Bruins,Ottawa Senators,2022021125619,2022021125,Stoppage,619,STOP,Icing,2023-03-22T01:21:52Z,3,11:42,08:18,2,1,,,
+309,6,9,Boston Bruins,Ottawa Senators,2022021125442,2022021125,Faceoff,442,FACEOFF,Shane Pinto faceoff won against Charlie Coyle,2023-03-22T01:22:19Z,3,11:42,08:18,2,1,9.0,Ottawa Senators,OTT
+310,6,9,Boston Bruins,Ottawa Senators,2022021125620,2022021125,Stoppage,620,STOP,Goalie Stopped,2023-03-22T01:22:51Z,3,12:14,07:46,2,1,,,
+311,6,9,Boston Bruins,Ottawa Senators,2022021125723,2022021125,Shot,723,SHOT,Trent Frederic Wrist Shot saved by Mads Sogaard,2023-03-22T01:22:51Z,3,12:14,07:46,2,1,6.0,Boston Bruins,BOS
+312,6,9,Boston Bruins,Ottawa Senators,2022021125443,2022021125,Faceoff,443,FACEOFF,Patrice Bergeron faceoff won against Tim Stützle,2023-03-22T01:25:34Z,3,12:14,07:46,2,1,6.0,Boston Bruins,BOS
+313,6,9,Boston Bruins,Ottawa Senators,2022021125621,2022021125,Stoppage,621,STOP,Icing,2023-03-22T01:26:21Z,3,13:01,06:59,2,1,,,
+314,6,9,Boston Bruins,Ottawa Senators,2022021125444,2022021125,Faceoff,444,FACEOFF,Charlie Coyle faceoff won against Shane Pinto,2023-03-22T01:26:50Z,3,13:01,06:59,2,1,6.0,Boston Bruins,BOS
+315,6,9,Boston Bruins,Ottawa Senators,2022021125622,2022021125,Stoppage,622,STOP,Puck Frozen,2023-03-22T01:26:57Z,3,13:08,06:52,2,1,,,
+316,6,9,Boston Bruins,Ottawa Senators,2022021125724,2022021125,Missed Shot,724,MISSED_SHOT,Shane Pinto Over Net Linus Ullmark,2023-03-22T01:26:57Z,3,13:08,06:52,2,1,9.0,Ottawa Senators,OTT
+317,6,9,Boston Bruins,Ottawa Senators,2022021125445,2022021125,Faceoff,445,FACEOFF,Shane Pinto faceoff won against Tomas Nosek,2023-03-22T01:27:28Z,3,13:08,06:52,2,1,9.0,Ottawa Senators,OTT
+318,6,9,Boston Bruins,Ottawa Senators,2022021125446,2022021125,Giveaway,446,GIVEAWAY,Giveaway by Jakob Chychrun,2023-03-22T01:27:38Z,3,13:18,06:42,2,1,9.0,Ottawa Senators,OTT
+319,6,9,Boston Bruins,Ottawa Senators,2022021125725,2022021125,Missed Shot,725,MISSED_SHOT,Tomas Nosek Wide of Net Mads Sogaard,2023-03-22T01:27:50Z,3,13:30,06:30,2,1,6.0,Boston Bruins,BOS
+320,6,9,Boston Bruins,Ottawa Senators,2022021125623,2022021125,Hit,623,HIT,Jakob Chychrun hit Garnet Hathaway,2023-03-22T01:27:59Z,3,13:39,06:21,2,1,9.0,Ottawa Senators,OTT
+321,6,9,Boston Bruins,Ottawa Senators,2022021125624,2022021125,Hit,624,HIT,Jakob Chychrun hit Garnet Hathaway,2023-03-22T01:28:08Z,3,13:48,06:12,2,1,9.0,Ottawa Senators,OTT
+322,6,9,Boston Bruins,Ottawa Senators,2022021125726,2022021125,Blocked Shot,726,BLOCKED_SHOT,Tomas Nosek shot blocked shot by Travis Hamonic,2023-03-22T01:28:18Z,3,13:58,06:02,2,1,9.0,Ottawa Senators,OTT
+323,6,9,Boston Bruins,Ottawa Senators,2022021125447,2022021125,Takeaway,447,TAKEAWAY,Takeaway by David Pastrnak,2023-03-22T01:28:40Z,3,14:20,05:40,2,1,6.0,Boston Bruins,BOS
+324,6,9,Boston Bruins,Ottawa Senators,2022021125625,2022021125,Hit,625,HIT,David Krejci hit Dylan Gambrell,2023-03-22T01:28:55Z,3,14:35,05:25,2,1,6.0,Boston Bruins,BOS
+325,6,9,Boston Bruins,Ottawa Senators,2022021125626,2022021125,Hit,626,HIT,David Pastrnak hit Jake Sanderson,2023-03-22T01:29:03Z,3,14:43,05:17,2,1,6.0,Boston Bruins,BOS
+326,6,9,Boston Bruins,Ottawa Senators,2022021125727,2022021125,Missed Shot,727,MISSED_SHOT,Jake Sanderson Wide of Net Linus Ullmark,2023-03-22T01:29:03Z,3,14:43,05:17,2,1,9.0,Ottawa Senators,OTT
+327,6,9,Boston Bruins,Ottawa Senators,2022021125728,2022021125,Shot,728,SHOT,Jakob Chychrun Wrist Shot saved by Linus Ullmark,2023-03-22T01:29:17Z,3,14:57,05:03,2,1,9.0,Ottawa Senators,OTT
+328,6,9,Boston Bruins,Ottawa Senators,2022021125627,2022021125,Stoppage,627,STOP,Icing,2023-03-22T01:29:43Z,3,15:22,04:38,2,1,,,
+329,6,9,Boston Bruins,Ottawa Senators,2022021125448,2022021125,Faceoff,448,FACEOFF,Tim Stützle faceoff won against Charlie Coyle,2023-03-22T01:30:11Z,3,15:22,04:38,2,1,9.0,Ottawa Senators,OTT
+330,6,9,Boston Bruins,Ottawa Senators,2022021125853,2022021125,Shot,853,SHOT,Brady Tkachuk Wrist Shot saved by Linus Ullmark,2023-03-22T01:30:22Z,3,15:33,04:27,2,1,9.0,Ottawa Senators,OTT
+331,6,9,Boston Bruins,Ottawa Senators,2022021125449,2022021125,Giveaway,449,GIVEAWAY,Giveaway by Tyler Bertuzzi,2023-03-22T01:30:33Z,3,15:44,04:16,2,1,6.0,Boston Bruins,BOS
+332,6,9,Boston Bruins,Ottawa Senators,2022021125628,2022021125,Hit,628,HIT,Tyler Bertuzzi hit Artem Zub,2023-03-22T01:30:44Z,3,15:53,04:07,2,1,6.0,Boston Bruins,BOS
+333,6,9,Boston Bruins,Ottawa Senators,2022021125629,2022021125,Hit,629,HIT,Garnet Hathaway hit Artem Zub,2023-03-22T01:31:08Z,3,16:19,03:41,2,1,6.0,Boston Bruins,BOS
+334,6,9,Boston Bruins,Ottawa Senators,2022021125450,2022021125,Takeaway,450,TAKEAWAY,Takeaway by Alex DeBrincat,2023-03-22T01:31:25Z,3,16:35,03:25,2,1,9.0,Ottawa Senators,OTT
+335,6,9,Boston Bruins,Ottawa Senators,2022021125630,2022021125,Stoppage,630,STOP,Puck Frozen,2023-03-22T01:31:25Z,3,16:35,03:25,2,1,,,
+336,6,9,Boston Bruins,Ottawa Senators,2022021125901,2022021125,Faceoff,901,FACEOFF,Claude Giroux faceoff won against Tomas Nosek,2023-03-22T01:33:50Z,3,16:35,03:25,2,1,9.0,Ottawa Senators,OTT
+337,6,9,Boston Bruins,Ottawa Senators,2022021125631,2022021125,Stoppage,631,STOP,Offside,2023-03-22T01:34:19Z,3,17:05,02:55,2,1,,,
+338,6,9,Boston Bruins,Ottawa Senators,2022021125902,2022021125,Faceoff,902,FACEOFF,Charlie Coyle faceoff won against Shane Pinto,2023-03-22T01:34:43Z,3,17:05,02:55,2,1,6.0,Boston Bruins,BOS
+339,6,9,Boston Bruins,Ottawa Senators,2022021125632,2022021125,Stoppage,632,STOP,Goalie Stopped,2023-03-22T01:34:53Z,3,17:15,02:45,2,1,,,
+340,6,9,Boston Bruins,Ottawa Senators,2022021125729,2022021125,Shot,729,SHOT,Tyler Bertuzzi Wrist Shot saved by Mads Sogaard,2023-03-22T01:34:53Z,3,17:15,02:45,2,1,6.0,Boston Bruins,BOS
+341,6,9,Boston Bruins,Ottawa Senators,2022021125903,2022021125,Faceoff,903,FACEOFF,Charlie Coyle faceoff won against Shane Pinto,2023-03-22T01:35:17Z,3,17:15,02:45,2,1,6.0,Boston Bruins,BOS
+342,6,9,Boston Bruins,Ottawa Senators,2022021125730,2022021125,Shot,730,SHOT,Tyler Bertuzzi Snap Shot saved by Mads Sogaard,2023-03-22T01:35:19Z,3,17:17,02:43,2,1,6.0,Boston Bruins,BOS
+343,6,9,Boston Bruins,Ottawa Senators,2022021125634,2022021125,Penalty,634,PENALTY,Charlie Coyle Holding against Shane Pinto,2023-03-22T01:35:58Z,3,17:55,02:05,2,1,6.0,Boston Bruins,BOS
+344,6,9,Boston Bruins,Ottawa Senators,2022021125904,2022021125,Faceoff,904,FACEOFF,Patrice Bergeron faceoff won against Brady Tkachuk,2023-03-22T01:36:43Z,3,17:55,02:05,2,1,6.0,Boston Bruins,BOS
+345,6,9,Boston Bruins,Ottawa Senators,2022021125731,2022021125,Blocked Shot,731,BLOCKED_SHOT,Brady Tkachuk shot blocked shot by Dmitry Orlov,2023-03-22T01:37:14Z,3,18:26,01:34,2,1,6.0,Boston Bruins,BOS
+346,6,9,Boston Bruins,Ottawa Senators,2022021125905,2022021125,Giveaway,905,GIVEAWAY,Giveaway by Brady Tkachuk,2023-03-22T01:37:32Z,3,18:44,01:16,2,1,9.0,Ottawa Senators,OTT
+347,6,9,Boston Bruins,Ottawa Senators,2022021125732,2022021125,Blocked Shot,732,BLOCKED_SHOT,Claude Giroux shot blocked shot by Dmitry Orlov,2023-03-22T01:37:54Z,3,19:06,00:54,2,1,6.0,Boston Bruins,BOS
+348,6,9,Boston Bruins,Ottawa Senators,2022021125906,2022021125,Takeaway,906,TAKEAWAY,Takeaway by Brad Marchand,2023-03-22T01:38:12Z,3,19:24,00:36,2,1,6.0,Boston Bruins,BOS
+349,6,9,Boston Bruins,Ottawa Senators,2022021125733,2022021125,Blocked Shot,733,BLOCKED_SHOT,Brad Marchand shot blocked shot by Jake Sanderson,2023-03-22T01:38:13Z,3,19:25,00:35,2,1,9.0,Ottawa Senators,OTT
+350,6,9,Boston Bruins,Ottawa Senators,2022021125907,2022021125,Giveaway,907,GIVEAWAY,Giveaway by Brady Tkachuk,2023-03-22T01:38:45Z,3,19:57,00:03,2,1,9.0,Ottawa Senators,OTT
+351,6,9,Boston Bruins,Ottawa Senators,2022021125734,2022021125,Shot,734,SHOT,Drake Batherson Wrist Shot saved by Linus Ullmark,2023-03-22T01:38:47Z,3,19:59,00:01,2,1,9.0,Ottawa Senators,OTT
+352,6,9,Boston Bruins,Ottawa Senators,2022021125637,2022021125,Period End,637,PERIOD_END,End of 3rd Period,2023-03-22T01:38:48Z,3,20:00,00:00,2,1,,,
+353,6,9,Boston Bruins,Ottawa Senators,2022021125640,2022021125,Period Official,640,PERIOD_OFFICIAL,Period Official,2023-03-22T01:39:17Z,3,20:00,00:00,2,1,,,
+354,6,9,Boston Bruins,Ottawa Senators,2022021125641,2022021125,Game End,641,GAME_END,Game End,2023-03-22T01:39:21Z,3,20:00,00:00,2,1,,,
+355,6,9,Boston Bruins,Ottawa Senators,2022021125643,2022021125,Game Official,643,GAME_OFFICIAL,Game Official,2023-03-22T01:42:21Z,3,20:00,00:00,2,1,,,

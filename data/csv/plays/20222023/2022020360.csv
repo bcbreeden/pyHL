@@ -1,0 +1,330 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,26,55,Los Angeles Kings,Seattle Kraken,20220203601,2022020360,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-11-30T02:45:55Z,1,00:00,20:00,0,0,,,
+1,26,55,Los Angeles Kings,Seattle Kraken,20220203605,2022020360,Period Ready,5,PERIOD_READY,Period Ready,2022-11-30T03:39:29Z,1,00:00,20:00,0,0,,,
+2,26,55,Los Angeles Kings,Seattle Kraken,2022020360101,2022020360,Period Start,101,PERIOD_START,Period Start,2022-11-30T03:39:56Z,1,00:00,20:00,0,0,,,
+3,26,55,Los Angeles Kings,Seattle Kraken,2022020360102,2022020360,Faceoff,102,FACEOFF,Anze Kopitar faceoff won against Alex Wennberg,2022-11-30T03:39:56Z,1,00:00,20:00,0,0,26.0,Los Angeles Kings,LAK
+4,26,55,Los Angeles Kings,Seattle Kraken,20220203608,2022020360,Hit,8,HIT,Adam Larsson hit Anze Kopitar,2022-11-30T03:40:06Z,1,00:10,19:50,0,0,55.0,Seattle Kraken,SEA
+5,26,55,Los Angeles Kings,Seattle Kraken,2022020360104,2022020360,Blocked Shot,104,BLOCKED_SHOT,Kevin Fiala shot blocked shot by Adam Larsson,2022-11-30T03:40:10Z,1,00:14,19:46,0,0,55.0,Seattle Kraken,SEA
+6,26,55,Los Angeles Kings,Seattle Kraken,2022020360151,2022020360,Goal,151,GOAL,"Anze Kopitar (5) Wrist Shot, assists: Kevin Fiala (16), Drew Doughty (12)",2022-11-30T03:40:11Z,1,00:16,19:44,1,0,26.0,Los Angeles Kings,LAK
+7,26,55,Los Angeles Kings,Seattle Kraken,2022020360103,2022020360,Faceoff,103,FACEOFF,Matty Beniers faceoff won against Phillip Danault,2022-11-30T03:40:51Z,1,00:16,19:44,1,0,55.0,Seattle Kraken,SEA
+8,26,55,Los Angeles Kings,Seattle Kraken,20220203609,2022020360,Hit,9,HIT,Trevor Moore hit Jared McCann,2022-11-30T03:41:30Z,1,00:55,19:05,1,0,26.0,Los Angeles Kings,LAK
+9,26,55,Los Angeles Kings,Seattle Kraken,2022020360152,2022020360,Shot,152,SHOT,Brandon Tanev Wrist Shot saved by Jonathan Quick,2022-11-30T03:42:00Z,1,01:25,18:35,1,0,55.0,Seattle Kraken,SEA
+10,26,55,Los Angeles Kings,Seattle Kraken,202202036010,2022020360,Hit,10,HIT,Yanni Gourde hit Matt Roy,2022-11-30T03:42:06Z,1,01:31,18:29,1,0,55.0,Seattle Kraken,SEA
+11,26,55,Los Angeles Kings,Seattle Kraken,2022020360153,2022020360,Missed Shot,153,MISSED_SHOT,Oliver Bjorkstrand Wide of Net Jonathan Quick,2022-11-30T03:42:12Z,1,01:37,18:23,1,0,55.0,Seattle Kraken,SEA
+12,26,55,Los Angeles Kings,Seattle Kraken,202202036011,2022020360,Hit,11,HIT,Jaret Anderson-Dolan hit Will Borgen,2022-11-30T03:42:25Z,1,01:50,18:10,1,0,26.0,Los Angeles Kings,LAK
+13,26,55,Los Angeles Kings,Seattle Kraken,202202036042,2022020360,Hit,42,HIT,Sean Durzi hit Ryan Donato,2022-11-30T03:42:33Z,1,01:58,18:02,1,0,26.0,Los Angeles Kings,LAK
+14,26,55,Los Angeles Kings,Seattle Kraken,202202036012,2022020360,Hit,12,HIT,Carl Grundstrom hit Ryan Donato,2022-11-30T03:42:40Z,1,02:05,17:55,1,0,26.0,Los Angeles Kings,LAK
+15,26,55,Los Angeles Kings,Seattle Kraken,2022020360154,2022020360,Shot,154,SHOT,Blake Lizotte Wrist Shot saved by Martin Jones,2022-11-30T03:42:48Z,1,02:13,17:47,1,0,26.0,Los Angeles Kings,LAK
+16,26,55,Los Angeles Kings,Seattle Kraken,202202036013,2022020360,Stoppage,13,STOP,Goalie Stopped,2022-11-30T03:42:49Z,1,02:14,17:46,1,0,,,
+17,26,55,Los Angeles Kings,Seattle Kraken,2022020360155,2022020360,Faceoff,155,FACEOFF,Alex Wennberg faceoff won against Anze Kopitar,2022-11-30T03:43:18Z,1,02:14,17:46,1,0,55.0,Seattle Kraken,SEA
+18,26,55,Los Angeles Kings,Seattle Kraken,2022020360156,2022020360,Shot,156,SHOT,Alex Wennberg Snap Shot saved by Jonathan Quick,2022-11-30T03:43:31Z,1,02:27,17:33,1,0,55.0,Seattle Kraken,SEA
+19,26,55,Los Angeles Kings,Seattle Kraken,2022020360251,2022020360,Stoppage,251,STOP,Goalie Stopped,2022-11-30T03:43:32Z,1,02:28,17:32,1,0,,,
+20,26,55,Los Angeles Kings,Seattle Kraken,2022020360105,2022020360,Faceoff,105,FACEOFF,Anze Kopitar faceoff won against Alex Wennberg,2022-11-30T03:43:55Z,1,02:28,17:32,1,0,26.0,Los Angeles Kings,LAK
+21,26,55,Los Angeles Kings,Seattle Kraken,2022020360252,2022020360,Giveaway,252,GIVEAWAY,Giveaway by Mikey Anderson,2022-11-30T03:43:58Z,1,02:31,17:29,1,0,26.0,Los Angeles Kings,LAK
+22,26,55,Los Angeles Kings,Seattle Kraken,2022020360157,2022020360,Blocked Shot,157,BLOCKED_SHOT,Alex Wennberg shot blocked shot by Drew Doughty,2022-11-30T03:44:18Z,1,02:51,17:09,1,0,26.0,Los Angeles Kings,LAK
+23,26,55,Los Angeles Kings,Seattle Kraken,2022020360106,2022020360,Shot,106,SHOT,Alex Wennberg Snap Shot saved by Jonathan Quick,2022-11-30T03:44:23Z,1,02:56,17:04,1,0,55.0,Seattle Kraken,SEA
+24,26,55,Los Angeles Kings,Seattle Kraken,202202036014,2022020360,Hit,14,HIT,Anze Kopitar hit Jamie Oleksiak,2022-11-30T03:44:24Z,1,02:57,17:03,1,0,26.0,Los Angeles Kings,LAK
+25,26,55,Los Angeles Kings,Seattle Kraken,202202036015,2022020360,Hit,15,HIT,Brandon Tanev hit Matt Roy,2022-11-30T03:44:55Z,1,03:28,16:32,1,0,55.0,Seattle Kraken,SEA
+26,26,55,Los Angeles Kings,Seattle Kraken,202202036087,2022020360,Penalty,87,PENALTY,Phillip Danault Holding the stick against Oliver Bjorkstrand,2022-11-30T03:45:12Z,1,03:45,16:15,1,0,26.0,Los Angeles Kings,LAK
+27,26,55,Los Angeles Kings,Seattle Kraken,2022020360107,2022020360,Faceoff,107,FACEOFF,Jaden Schwartz faceoff won against Anze Kopitar,2022-11-30T03:45:44Z,1,03:45,16:15,1,0,55.0,Seattle Kraken,SEA
+28,26,55,Los Angeles Kings,Seattle Kraken,2022020360253,2022020360,Stoppage,253,STOP,Puck in Crowd,2022-11-30T03:45:59Z,1,04:00,16:00,1,0,,,
+29,26,55,Los Angeles Kings,Seattle Kraken,2022020360109,2022020360,Faceoff,109,FACEOFF,Blake Lizotte faceoff won against Jaden Schwartz,2022-11-30T03:46:23Z,1,04:00,16:00,1,0,26.0,Los Angeles Kings,LAK
+30,26,55,Los Angeles Kings,Seattle Kraken,2022020360158,2022020360,Blocked Shot,158,BLOCKED_SHOT,Jaden Schwartz shot blocked shot by Sean Walker,2022-11-30T03:46:46Z,1,04:23,15:37,1,0,26.0,Los Angeles Kings,LAK
+31,26,55,Los Angeles Kings,Seattle Kraken,2022020360159,2022020360,Shot,159,SHOT,Alex Wennberg Tip-In saved by Jonathan Quick,2022-11-30T03:47:43Z,1,05:20,14:40,1,0,55.0,Seattle Kraken,SEA
+32,26,55,Los Angeles Kings,Seattle Kraken,2022020360110,2022020360,Goal,110,GOAL,"Matty Beniers (8) Snap Shot, assists: Alex Wennberg (6), Justin Schultz (11)",2022-11-30T03:47:44Z,1,05:21,14:39,1,1,55.0,Seattle Kraken,SEA
+33,26,55,Los Angeles Kings,Seattle Kraken,2022020360111,2022020360,Faceoff,111,FACEOFF,Blake Lizotte faceoff won against Yanni Gourde,2022-11-30T03:48:38Z,1,05:21,14:39,1,1,26.0,Los Angeles Kings,LAK
+34,26,55,Los Angeles Kings,Seattle Kraken,2022020360160,2022020360,Shot,160,SHOT,Blake Lizotte Wrist Shot saved by Martin Jones,2022-11-30T03:48:47Z,1,05:30,14:30,1,1,26.0,Los Angeles Kings,LAK
+35,26,55,Los Angeles Kings,Seattle Kraken,2022020360161,2022020360,Shot,161,SHOT,Yanni Gourde Backhand saved by Jonathan Quick,2022-11-30T03:49:02Z,1,05:45,14:15,1,1,55.0,Seattle Kraken,SEA
+36,26,55,Los Angeles Kings,Seattle Kraken,202202036017,2022020360,Stoppage,17,STOP,Goalie Stopped,2022-11-30T03:49:03Z,1,05:46,14:14,1,1,,,
+37,26,55,Los Angeles Kings,Seattle Kraken,2022020360112,2022020360,Faceoff,112,FACEOFF,Ryan Donato faceoff won against Blake Lizotte,2022-11-30T03:49:45Z,1,05:46,14:14,1,1,55.0,Seattle Kraken,SEA
+38,26,55,Los Angeles Kings,Seattle Kraken,202202036018,2022020360,Stoppage,18,STOP,Offside,2022-11-30T03:49:51Z,1,05:53,14:07,1,1,,,
+39,26,55,Los Angeles Kings,Seattle Kraken,2022020360113,2022020360,Faceoff,113,FACEOFF,Rasmus Kupari faceoff won against Yanni Gourde,2022-11-30T03:50:16Z,1,05:53,14:07,1,1,26.0,Los Angeles Kings,LAK
+40,26,55,Los Angeles Kings,Seattle Kraken,202202036019,2022020360,Hit,19,HIT,Yanni Gourde hit Arthur Kaliyev,2022-11-30T03:50:44Z,1,06:21,13:39,1,1,55.0,Seattle Kraken,SEA
+41,26,55,Los Angeles Kings,Seattle Kraken,2022020360162,2022020360,Blocked Shot,162,BLOCKED_SHOT,Sean Durzi shot blocked shot by Ryan Donato,2022-11-30T03:50:46Z,1,06:23,13:37,1,1,55.0,Seattle Kraken,SEA
+42,26,55,Los Angeles Kings,Seattle Kraken,2022020360114,2022020360,Hit,114,HIT,Jaret Anderson-Dolan hit Ryan Donato,2022-11-30T03:50:49Z,1,06:26,13:34,1,1,26.0,Los Angeles Kings,LAK
+43,26,55,Los Angeles Kings,Seattle Kraken,202202036020,2022020360,Hit,20,HIT,Yanni Gourde hit Jaret Anderson-Dolan,2022-11-30T03:50:51Z,1,06:28,13:32,1,1,55.0,Seattle Kraken,SEA
+44,26,55,Los Angeles Kings,Seattle Kraken,202202036021,2022020360,Stoppage,21,STOP,Icing,2022-11-30T03:51:20Z,1,06:56,13:04,1,1,,,
+45,26,55,Los Angeles Kings,Seattle Kraken,2022020360115,2022020360,Faceoff,115,FACEOFF,Jaden Schwartz faceoff won against Phillip Danault,2022-11-30T03:51:46Z,1,06:56,13:04,1,1,55.0,Seattle Kraken,SEA
+46,26,55,Los Angeles Kings,Seattle Kraken,2022020360163,2022020360,Missed Shot,163,MISSED_SHOT,Carson Soucy Wide of Net Jonathan Quick,2022-11-30T03:51:52Z,1,07:02,12:58,1,1,55.0,Seattle Kraken,SEA
+47,26,55,Los Angeles Kings,Seattle Kraken,2022020360164,2022020360,Missed Shot,164,MISSED_SHOT,Carson Soucy Wide of Net Jonathan Quick,2022-11-30T03:52:17Z,1,07:27,12:33,1,1,55.0,Seattle Kraken,SEA
+48,26,55,Los Angeles Kings,Seattle Kraken,202202036022,2022020360,Hit,22,HIT,Trevor Moore hit Carson Soucy,2022-11-30T03:52:32Z,1,07:42,12:18,1,1,26.0,Los Angeles Kings,LAK
+49,26,55,Los Angeles Kings,Seattle Kraken,202202036023,2022020360,Stoppage,23,STOP,Offside,2022-11-30T03:52:45Z,1,07:55,12:05,1,1,,,
+50,26,55,Los Angeles Kings,Seattle Kraken,2022020360116,2022020360,Faceoff,116,FACEOFF,Anze Kopitar faceoff won against Matty Beniers,2022-11-30T03:55:15Z,1,07:55,12:05,1,1,26.0,Los Angeles Kings,LAK
+51,26,55,Los Angeles Kings,Seattle Kraken,2022020360254,2022020360,Stoppage,254,STOP,Offside,2022-11-30T03:55:35Z,1,08:15,11:45,1,1,,,
+52,26,55,Los Angeles Kings,Seattle Kraken,2022020360117,2022020360,Faceoff,117,FACEOFF,Anze Kopitar faceoff won against Matty Beniers,2022-11-30T03:55:54Z,1,08:15,11:45,1,1,26.0,Los Angeles Kings,LAK
+53,26,55,Los Angeles Kings,Seattle Kraken,2022020360165,2022020360,Blocked Shot,165,BLOCKED_SHOT,Jared McCann shot blocked shot by Drew Doughty,2022-11-30T03:56:09Z,1,08:30,11:30,1,1,26.0,Los Angeles Kings,LAK
+54,26,55,Los Angeles Kings,Seattle Kraken,2022020360166,2022020360,Goal,166,GOAL,"Jared McCann (9) Tip-In, assists: Jordan Eberle (12), Justin Schultz (12)",2022-11-30T03:56:21Z,1,08:42,11:18,1,2,55.0,Seattle Kraken,SEA
+55,26,55,Los Angeles Kings,Seattle Kraken,2022020360118,2022020360,Faceoff,118,FACEOFF,Yanni Gourde faceoff won against Blake Lizotte,2022-11-30T03:56:52Z,1,08:42,11:18,1,2,55.0,Seattle Kraken,SEA
+56,26,55,Los Angeles Kings,Seattle Kraken,2022020360222,2022020360,Penalty,222,PENALTY,Vince Dunn Roughing - Removing opponent's helmet against Blake Lizotte,2022-11-30T03:57:18Z,1,09:07,10:53,1,2,55.0,Seattle Kraken,SEA
+57,26,55,Los Angeles Kings,Seattle Kraken,2022020360119,2022020360,Faceoff,119,FACEOFF,Phillip Danault faceoff won against Alex Wennberg,2022-11-30T03:58:14Z,1,09:07,10:53,1,2,26.0,Los Angeles Kings,LAK
+58,26,55,Los Angeles Kings,Seattle Kraken,2022020360167,2022020360,Shot,167,SHOT,Trevor Moore Slap Shot saved by Martin Jones,2022-11-30T03:58:20Z,1,09:13,10:47,1,2,26.0,Los Angeles Kings,LAK
+59,26,55,Los Angeles Kings,Seattle Kraken,202202036025,2022020360,Giveaway,25,GIVEAWAY,Giveaway by Jamie Oleksiak,2022-11-30T03:58:21Z,1,09:14,10:46,1,2,55.0,Seattle Kraken,SEA
+60,26,55,Los Angeles Kings,Seattle Kraken,2022020360120,2022020360,Goal,120,GOAL,"Viktor Arvidsson (5) Tip-In, assists: Sean Durzi (10)",2022-11-30T03:58:23Z,1,09:16,10:44,2,2,26.0,Los Angeles Kings,LAK
+61,26,55,Los Angeles Kings,Seattle Kraken,2022020360121,2022020360,Faceoff,121,FACEOFF,Alex Wennberg faceoff won against Anze Kopitar,2022-11-30T03:59:29Z,1,09:16,10:44,2,2,55.0,Seattle Kraken,SEA
+62,26,55,Los Angeles Kings,Seattle Kraken,2022020360169,2022020360,Hit,169,HIT,Will Borgen hit Adrian Kempe,2022-11-30T03:59:53Z,1,09:40,10:20,2,2,55.0,Seattle Kraken,SEA
+63,26,55,Los Angeles Kings,Seattle Kraken,202202036026,2022020360,Giveaway,26,GIVEAWAY,Giveaway by Anze Kopitar,2022-11-30T04:00:05Z,1,09:52,10:08,2,2,26.0,Los Angeles Kings,LAK
+64,26,55,Los Angeles Kings,Seattle Kraken,202202036027,2022020360,Hit,27,HIT,Adam Larsson hit Arthur Kaliyev,2022-11-30T04:00:43Z,1,10:30,09:30,2,2,55.0,Seattle Kraken,SEA
+65,26,55,Los Angeles Kings,Seattle Kraken,202202036030,2022020360,Hit,30,HIT,Vince Dunn hit Rasmus Kupari,2022-11-30T04:00:44Z,1,10:31,09:29,2,2,55.0,Seattle Kraken,SEA
+66,26,55,Los Angeles Kings,Seattle Kraken,202202036028,2022020360,Hit,28,HIT,Rasmus Kupari hit Karson Kuhlman,2022-11-30T04:00:46Z,1,10:33,09:27,2,2,26.0,Los Angeles Kings,LAK
+67,26,55,Los Angeles Kings,Seattle Kraken,2022020360170,2022020360,Shot,170,SHOT,Matt Roy Wrist Shot saved by Martin Jones,2022-11-30T04:00:56Z,1,10:43,09:17,2,2,26.0,Los Angeles Kings,LAK
+68,26,55,Los Angeles Kings,Seattle Kraken,2022020360501,2022020360,Hit,501,HIT,Arthur Kaliyev hit Adam Larsson,2022-11-30T04:00:57Z,1,10:44,09:16,2,2,26.0,Los Angeles Kings,LAK
+69,26,55,Los Angeles Kings,Seattle Kraken,2022020360171,2022020360,Shot,171,SHOT,Daniel Sprong Backhand saved by Jonathan Quick,2022-11-30T04:01:05Z,1,10:52,09:08,2,2,55.0,Seattle Kraken,SEA
+70,26,55,Los Angeles Kings,Seattle Kraken,2022020360122,2022020360,Missed Shot,122,MISSED_SHOT,Ryan Donato Wide of Net Jonathan Quick,2022-11-30T04:01:06Z,1,10:53,09:07,2,2,55.0,Seattle Kraken,SEA
+71,26,55,Los Angeles Kings,Seattle Kraken,202202036029,2022020360,Hit,29,HIT,Carl Grundstrom hit Jamie Oleksiak,2022-11-30T04:01:46Z,1,11:33,08:27,2,2,26.0,Los Angeles Kings,LAK
+72,26,55,Los Angeles Kings,Seattle Kraken,2022020360255,2022020360,Hit,255,HIT,Blake Lizotte hit Justin Schultz,2022-11-30T04:01:54Z,1,11:41,08:19,2,2,26.0,Los Angeles Kings,LAK
+73,26,55,Los Angeles Kings,Seattle Kraken,2022020360172,2022020360,Blocked Shot,172,BLOCKED_SHOT,Carl Grundstrom shot blocked shot by Matty Beniers,2022-11-30T04:01:57Z,1,11:44,08:16,2,2,55.0,Seattle Kraken,SEA
+74,26,55,Los Angeles Kings,Seattle Kraken,2022020360123,2022020360,Shot,123,SHOT,Matty Beniers Snap Shot saved by Jonathan Quick,2022-11-30T04:02:03Z,1,11:50,08:10,2,2,55.0,Seattle Kraken,SEA
+75,26,55,Los Angeles Kings,Seattle Kraken,2022020360256,2022020360,Stoppage,256,STOP,Goalie Stopped,2022-11-30T04:02:04Z,1,11:51,08:09,2,2,,,
+76,26,55,Los Angeles Kings,Seattle Kraken,2022020360124,2022020360,Faceoff,124,FACEOFF,Yanni Gourde faceoff won against Phillip Danault,2022-11-30T04:04:16Z,1,11:51,08:09,2,2,55.0,Seattle Kraken,SEA
+77,26,55,Los Angeles Kings,Seattle Kraken,2022020360173,2022020360,Blocked Shot,173,BLOCKED_SHOT,Vince Dunn shot blocked shot by Viktor Arvidsson,2022-11-30T04:04:23Z,1,11:58,08:02,2,2,26.0,Los Angeles Kings,LAK
+78,26,55,Los Angeles Kings,Seattle Kraken,2022020360257,2022020360,Stoppage,257,STOP,Offside,2022-11-30T04:04:31Z,1,12:07,07:53,2,2,,,
+79,26,55,Los Angeles Kings,Seattle Kraken,2022020360125,2022020360,Faceoff,125,FACEOFF,Phillip Danault faceoff won against Yanni Gourde,2022-11-30T04:04:51Z,1,12:07,07:53,2,2,26.0,Los Angeles Kings,LAK
+80,26,55,Los Angeles Kings,Seattle Kraken,2022020360250,2022020360,Penalty,250,PENALTY,Sean Durzi Interference against Yanni Gourde,2022-11-30T04:05:21Z,1,12:37,07:23,2,2,26.0,Los Angeles Kings,LAK
+81,26,55,Los Angeles Kings,Seattle Kraken,2022020360126,2022020360,Faceoff,126,FACEOFF,Alex Wennberg faceoff won against Anze Kopitar,2022-11-30T04:05:54Z,1,12:37,07:23,2,2,55.0,Seattle Kraken,SEA
+82,26,55,Los Angeles Kings,Seattle Kraken,2022020360174,2022020360,Goal,174,GOAL,"Alex Wennberg (5) Tip-In, assists: Daniel Sprong (8), Justin Schultz (13)",2022-11-30T04:06:12Z,1,12:55,07:05,2,3,55.0,Seattle Kraken,SEA
+83,26,55,Los Angeles Kings,Seattle Kraken,2022020360127,2022020360,Faceoff,127,FACEOFF,Alex Wennberg faceoff won against Rasmus Kupari,2022-11-30T04:06:50Z,1,12:55,07:05,2,3,55.0,Seattle Kraken,SEA
+84,26,55,Los Angeles Kings,Seattle Kraken,202202036031,2022020360,Hit,31,HIT,Will Borgen hit Gabriel Vilardi,2022-11-30T04:07:41Z,1,13:46,06:14,2,3,55.0,Seattle Kraken,SEA
+85,26,55,Los Angeles Kings,Seattle Kraken,202202036032,2022020360,Hit,32,HIT,Carson Soucy hit Blake Lizotte,2022-11-30T04:07:57Z,1,14:02,05:58,2,3,55.0,Seattle Kraken,SEA
+86,26,55,Los Angeles Kings,Seattle Kraken,202202036033,2022020360,Hit,33,HIT,Jamie Oleksiak hit Viktor Arvidsson,2022-11-30T04:08:34Z,1,14:39,05:21,2,3,55.0,Seattle Kraken,SEA
+87,26,55,Los Angeles Kings,Seattle Kraken,2022020360175,2022020360,Blocked Shot,175,BLOCKED_SHOT,Viktor Arvidsson shot blocked shot by Jamie Oleksiak,2022-11-30T04:08:35Z,1,14:40,05:20,2,3,55.0,Seattle Kraken,SEA
+88,26,55,Los Angeles Kings,Seattle Kraken,2022020360128,2022020360,Hit,128,HIT,Matty Beniers hit Trevor Moore,2022-11-30T04:08:37Z,1,14:42,05:18,2,3,55.0,Seattle Kraken,SEA
+89,26,55,Los Angeles Kings,Seattle Kraken,2022020360176,2022020360,Missed Shot,176,MISSED_SHOT,Trevor Moore Wide of Net Martin Jones,2022-11-30T04:08:42Z,1,14:47,05:13,2,3,26.0,Los Angeles Kings,LAK
+90,26,55,Los Angeles Kings,Seattle Kraken,2022020360258,2022020360,Stoppage,258,STOP,Puck in Netting,2022-11-30T04:08:43Z,1,14:48,05:12,2,3,,,
+91,26,55,Los Angeles Kings,Seattle Kraken,2022020360129,2022020360,Faceoff,129,FACEOFF,Matty Beniers faceoff won against Phillip Danault,2022-11-30T04:11:17Z,1,14:48,05:12,2,3,55.0,Seattle Kraken,SEA
+92,26,55,Los Angeles Kings,Seattle Kraken,202202036034,2022020360,Hit,34,HIT,Jared McCann hit Matt Roy,2022-11-30T04:11:28Z,1,14:59,05:01,2,3,55.0,Seattle Kraken,SEA
+93,26,55,Los Angeles Kings,Seattle Kraken,2022020360130,2022020360,Hit,130,HIT,Trevor Moore hit Justin Schultz,2022-11-30T04:11:34Z,1,15:05,04:55,2,3,26.0,Los Angeles Kings,LAK
+94,26,55,Los Angeles Kings,Seattle Kraken,202202036035,2022020360,Hit,35,HIT,Trevor Moore hit Jamie Oleksiak,2022-11-30T04:11:47Z,1,15:18,04:42,2,3,26.0,Los Angeles Kings,LAK
+95,26,55,Los Angeles Kings,Seattle Kraken,2022020360177,2022020360,Shot,177,SHOT,Adam Larsson Wrist Shot saved by Jonathan Quick,2022-11-30T04:12:07Z,1,15:38,04:22,2,3,55.0,Seattle Kraken,SEA
+96,26,55,Los Angeles Kings,Seattle Kraken,2022020360131,2022020360,Missed Shot,131,MISSED_SHOT,Andre Burakovsky Wide of Net Jonathan Quick,2022-11-30T04:12:12Z,1,15:43,04:17,2,3,55.0,Seattle Kraken,SEA
+97,26,55,Los Angeles Kings,Seattle Kraken,2022020360178,2022020360,Shot,178,SHOT,Adam Larsson Wrist Shot saved by Jonathan Quick,2022-11-30T04:12:16Z,1,15:47,04:13,2,3,55.0,Seattle Kraken,SEA
+98,26,55,Los Angeles Kings,Seattle Kraken,2022020360259,2022020360,Stoppage,259,STOP,Goalie Stopped,2022-11-30T04:12:17Z,1,15:48,04:12,2,3,,,
+99,26,55,Los Angeles Kings,Seattle Kraken,2022020360132,2022020360,Faceoff,132,FACEOFF,Anze Kopitar faceoff won against Jaden Schwartz,2022-11-30T04:12:42Z,1,15:48,04:12,2,3,26.0,Los Angeles Kings,LAK
+100,26,55,Los Angeles Kings,Seattle Kraken,2022020360179,2022020360,Missed Shot,179,MISSED_SHOT,Adrian Kempe Wide of Net Martin Jones,2022-11-30T04:13:32Z,1,16:28,03:32,2,3,26.0,Los Angeles Kings,LAK
+101,26,55,Los Angeles Kings,Seattle Kraken,202202036036,2022020360,Hit,36,HIT,Karson Kuhlman hit Mikey Anderson,2022-11-30T04:13:36Z,1,16:32,03:28,2,3,55.0,Seattle Kraken,SEA
+102,26,55,Los Angeles Kings,Seattle Kraken,2022020360387,2022020360,Penalty,387,PENALTY,Adam Larsson Holding against Kevin Fiala,2022-11-30T04:14:01Z,1,16:57,03:03,2,3,55.0,Seattle Kraken,SEA
+103,26,55,Los Angeles Kings,Seattle Kraken,2022020360133,2022020360,Faceoff,133,FACEOFF,Yanni Gourde faceoff won against Phillip Danault,2022-11-30T04:14:43Z,1,16:57,03:03,2,3,55.0,Seattle Kraken,SEA
+104,26,55,Los Angeles Kings,Seattle Kraken,2022020360180,2022020360,Missed Shot,180,MISSED_SHOT,Viktor Arvidsson Wide of Net Martin Jones,2022-11-30T04:15:25Z,1,17:39,02:21,2,3,26.0,Los Angeles Kings,LAK
+105,26,55,Los Angeles Kings,Seattle Kraken,202202036038,2022020360,Hit,38,HIT,Viktor Arvidsson hit Yanni Gourde,2022-11-30T04:15:36Z,1,17:50,02:10,2,3,26.0,Los Angeles Kings,LAK
+106,26,55,Los Angeles Kings,Seattle Kraken,2022020360181,2022020360,Blocked Shot,181,BLOCKED_SHOT,Drew Doughty shot blocked shot by Yanni Gourde,2022-11-30T04:15:52Z,1,18:06,01:54,2,3,55.0,Seattle Kraken,SEA
+107,26,55,Los Angeles Kings,Seattle Kraken,2022020360134,2022020360,Blocked Shot,134,BLOCKED_SHOT,Arthur Kaliyev shot blocked shot by Vince Dunn,2022-11-30T04:15:54Z,1,18:08,01:52,2,3,55.0,Seattle Kraken,SEA
+108,26,55,Los Angeles Kings,Seattle Kraken,2022020360182,2022020360,Goal,182,GOAL,"Gabriel Vilardi (12) Wrist Shot, assists: Kevin Fiala (17), Drew Doughty (13)",2022-11-30T04:16:38Z,1,18:52,01:08,3,3,26.0,Los Angeles Kings,LAK
+109,26,55,Los Angeles Kings,Seattle Kraken,2022020360135,2022020360,Faceoff,135,FACEOFF,Blake Lizotte faceoff won against Matty Beniers,2022-11-30T04:17:30Z,1,18:52,01:08,3,3,26.0,Los Angeles Kings,LAK
+110,26,55,Los Angeles Kings,Seattle Kraken,202202036039,2022020360,Takeaway,39,TAKEAWAY,Takeaway by Blake Lizotte,2022-11-30T04:17:40Z,1,19:02,00:58,3,3,26.0,Los Angeles Kings,LAK
+111,26,55,Los Angeles Kings,Seattle Kraken,2022020360183,2022020360,Shot,183,SHOT,Mikey Anderson Wrist Shot saved by Martin Jones,2022-11-30T04:17:44Z,1,19:06,00:54,3,3,26.0,Los Angeles Kings,LAK
+112,26,55,Los Angeles Kings,Seattle Kraken,202202036040,2022020360,Hit,40,HIT,Drew Doughty hit Matty Beniers,2022-11-30T04:17:52Z,1,19:14,00:46,3,3,26.0,Los Angeles Kings,LAK
+113,26,55,Los Angeles Kings,Seattle Kraken,202202036041,2022020360,Hit,41,HIT,Carson Soucy hit Trevor Moore,2022-11-30T04:18:27Z,1,19:49,00:11,3,3,55.0,Seattle Kraken,SEA
+114,26,55,Los Angeles Kings,Seattle Kraken,2022020360184,2022020360,Hit,184,HIT,Sean Durzi hit Ryan Donato,2022-11-30T04:18:34Z,1,19:56,00:04,3,3,26.0,Los Angeles Kings,LAK
+115,26,55,Los Angeles Kings,Seattle Kraken,2022020360136,2022020360,Hit,136,HIT,Sean Durzi hit Ryan Donato,2022-11-30T04:18:37Z,1,19:59,00:01,3,3,26.0,Los Angeles Kings,LAK
+116,26,55,Los Angeles Kings,Seattle Kraken,202202036043,2022020360,Period End,43,PERIOD_END,End of 1st Period,2022-11-30T04:18:38Z,1,20:00,00:00,3,3,,,
+117,26,55,Los Angeles Kings,Seattle Kraken,202202036046,2022020360,Period Official,46,PERIOD_OFFICIAL,Period Official,2022-11-30T04:29:56Z,1,20:00,00:00,3,3,,,
+118,26,55,Los Angeles Kings,Seattle Kraken,202202036047,2022020360,Period Ready,47,PERIOD_READY,Period Ready,2022-11-30T04:37:18Z,2,00:00,20:00,3,3,,,
+119,26,55,Los Angeles Kings,Seattle Kraken,2022020360137,2022020360,Period Start,137,PERIOD_START,Period Start,2022-11-30T04:37:25Z,2,00:00,20:00,3,3,,,
+120,26,55,Los Angeles Kings,Seattle Kraken,2022020360138,2022020360,Faceoff,138,FACEOFF,Anze Kopitar faceoff won against Alex Wennberg,2022-11-30T04:37:25Z,2,00:00,20:00,3,3,26.0,Los Angeles Kings,LAK
+121,26,55,Los Angeles Kings,Seattle Kraken,202202036048,2022020360,Hit,48,HIT,Adrian Kempe hit Vince Dunn,2022-11-30T04:38:02Z,2,00:37,19:23,3,3,26.0,Los Angeles Kings,LAK
+122,26,55,Los Angeles Kings,Seattle Kraken,202202036049,2022020360,Hit,49,HIT,Phillip Danault hit Matty Beniers,2022-11-30T04:38:32Z,2,01:07,18:53,3,3,26.0,Los Angeles Kings,LAK
+123,26,55,Los Angeles Kings,Seattle Kraken,2022020360185,2022020360,Missed Shot,185,MISSED_SHOT,Phillip Danault Wide of Net Martin Jones,2022-11-30T04:38:46Z,2,01:21,18:39,3,3,26.0,Los Angeles Kings,LAK
+124,26,55,Los Angeles Kings,Seattle Kraken,2022020360139,2022020360,Hit,139,HIT,Trevor Moore hit Matty Beniers,2022-11-30T04:38:48Z,2,01:23,18:37,3,3,26.0,Los Angeles Kings,LAK
+125,26,55,Los Angeles Kings,Seattle Kraken,202202036050,2022020360,Hit,50,HIT,Jared McCann hit Sean Durzi,2022-11-30T04:38:54Z,2,01:29,18:31,3,3,55.0,Seattle Kraken,SEA
+126,26,55,Los Angeles Kings,Seattle Kraken,2022020360186,2022020360,Missed Shot,186,MISSED_SHOT,Jordan Eberle Wide of Net Jonathan Quick,2022-11-30T04:38:54Z,2,01:29,18:31,3,3,55.0,Seattle Kraken,SEA
+127,26,55,Los Angeles Kings,Seattle Kraken,2022020360140,2022020360,Goal,140,GOAL,"Matty Beniers (9) Snap Shot, assists: Jordan Eberle (13)",2022-11-30T04:38:55Z,2,01:31,18:29,3,4,55.0,Seattle Kraken,SEA
+128,26,55,Los Angeles Kings,Seattle Kraken,2022020360141,2022020360,Faceoff,141,FACEOFF,Rasmus Kupari faceoff won against Yanni Gourde,2022-11-30T04:39:34Z,2,01:31,18:29,3,4,26.0,Los Angeles Kings,LAK
+129,26,55,Los Angeles Kings,Seattle Kraken,2022020360301,2022020360,Hit,301,HIT,Oliver Bjorkstrand hit Alexander Edler,2022-11-30T04:39:39Z,2,01:36,18:24,3,4,55.0,Seattle Kraken,SEA
+130,26,55,Los Angeles Kings,Seattle Kraken,2022020360302,2022020360,Hit,302,HIT,Jaret Anderson-Dolan hit Justin Schultz,2022-11-30T04:39:51Z,2,01:48,18:12,3,4,26.0,Los Angeles Kings,LAK
+131,26,55,Los Angeles Kings,Seattle Kraken,2022020360303,2022020360,Stoppage,303,STOP,Puck in Crowd,2022-11-30T04:40:02Z,2,01:59,18:01,3,4,,,
+132,26,55,Los Angeles Kings,Seattle Kraken,2022020360142,2022020360,Faceoff,142,FACEOFF,Blake Lizotte faceoff won against Ryan Donato,2022-11-30T04:40:29Z,2,01:59,18:01,3,4,26.0,Los Angeles Kings,LAK
+133,26,55,Los Angeles Kings,Seattle Kraken,2022020360304,2022020360,Hit,304,HIT,Gabriel Vilardi hit Will Borgen,2022-11-30T04:40:39Z,2,02:09,17:51,3,4,26.0,Los Angeles Kings,LAK
+134,26,55,Los Angeles Kings,Seattle Kraken,2022020360305,2022020360,Giveaway,305,GIVEAWAY,Giveaway by Will Borgen,2022-11-30T04:41:04Z,2,02:34,17:26,3,4,55.0,Seattle Kraken,SEA
+135,26,55,Los Angeles Kings,Seattle Kraken,2022020360188,2022020360,Shot,188,SHOT,Sean Walker Wrist Shot saved by Martin Jones,2022-11-30T04:41:13Z,2,02:43,17:17,3,4,26.0,Los Angeles Kings,LAK
+136,26,55,Los Angeles Kings,Seattle Kraken,2022020360143,2022020360,Goal,143,GOAL,"Carl Grundstrom (5) Slap Shot, assists: Blake Lizotte (3), Sean Walker (4)",2022-11-30T04:41:18Z,2,02:48,17:12,4,4,26.0,Los Angeles Kings,LAK
+137,26,55,Los Angeles Kings,Seattle Kraken,2022020360189,2022020360,Faceoff,189,FACEOFF,Yanni Gourde faceoff won against Anze Kopitar,2022-11-30T04:42:00Z,2,02:48,17:12,4,4,55.0,Seattle Kraken,SEA
+138,26,55,Los Angeles Kings,Seattle Kraken,2022020360306,2022020360,Hit,306,HIT,Mikey Anderson hit Oliver Bjorkstrand,2022-11-30T04:42:31Z,2,03:19,16:41,4,4,26.0,Los Angeles Kings,LAK
+139,26,55,Los Angeles Kings,Seattle Kraken,2022020360190,2022020360,Missed Shot,190,MISSED_SHOT,Adrian Kempe Wide of Net Martin Jones,2022-11-30T04:42:47Z,2,03:35,16:25,4,4,26.0,Los Angeles Kings,LAK
+140,26,55,Los Angeles Kings,Seattle Kraken,2022020360144,2022020360,Shot,144,SHOT,Kevin Fiala Snap Shot saved by Martin Jones,2022-11-30T04:42:48Z,2,03:36,16:24,4,4,26.0,Los Angeles Kings,LAK
+141,26,55,Los Angeles Kings,Seattle Kraken,2022020360191,2022020360,Shot,191,SHOT,Trevor Moore Slap Shot saved by Martin Jones,2022-11-30T04:43:09Z,2,03:57,16:03,4,4,26.0,Los Angeles Kings,LAK
+142,26,55,Los Angeles Kings,Seattle Kraken,2022020360307,2022020360,Stoppage,307,STOP,Puck in Netting,2022-11-30T04:43:10Z,2,03:58,16:02,4,4,,,
+143,26,55,Los Angeles Kings,Seattle Kraken,2022020360145,2022020360,Faceoff,145,FACEOFF,Phillip Danault faceoff won against Alex Wennberg,2022-11-30T04:43:30Z,2,03:58,16:02,4,4,26.0,Los Angeles Kings,LAK
+144,26,55,Los Angeles Kings,Seattle Kraken,2022020360192,2022020360,Blocked Shot,192,BLOCKED_SHOT,Andre Burakovsky shot blocked shot by Sean Durzi,2022-11-30T04:43:50Z,2,04:18,15:42,4,4,26.0,Los Angeles Kings,LAK
+145,26,55,Los Angeles Kings,Seattle Kraken,2022020360308,2022020360,Stoppage,308,STOP,Puck in Crowd,2022-11-30T04:43:52Z,2,04:19,15:41,4,4,,,
+146,26,55,Los Angeles Kings,Seattle Kraken,2022020360146,2022020360,Faceoff,146,FACEOFF,Matty Beniers faceoff won against Phillip Danault,2022-11-30T04:44:19Z,2,04:19,15:41,4,4,55.0,Seattle Kraken,SEA
+147,26,55,Los Angeles Kings,Seattle Kraken,2022020360193,2022020360,Blocked Shot,193,BLOCKED_SHOT,Jared McCann shot blocked shot by Sean Durzi,2022-11-30T04:44:26Z,2,04:26,15:34,4,4,26.0,Los Angeles Kings,LAK
+148,26,55,Los Angeles Kings,Seattle Kraken,2022020360194,2022020360,Shot,194,SHOT,Phillip Danault Snap Shot saved by Martin Jones,2022-11-30T04:44:44Z,2,04:44,15:16,4,4,26.0,Los Angeles Kings,LAK
+149,26,55,Los Angeles Kings,Seattle Kraken,2022020360309,2022020360,Hit,309,HIT,Trevor Moore hit Vince Dunn,2022-11-30T04:44:50Z,2,04:50,15:10,4,4,26.0,Los Angeles Kings,LAK
+150,26,55,Los Angeles Kings,Seattle Kraken,2022020360195,2022020360,Goal,195,GOAL,"Jared McCann (10) Slap Shot, assists: Adam Larsson (5), Jordan Eberle (14)",2022-11-30T04:44:56Z,2,04:56,15:04,4,5,55.0,Seattle Kraken,SEA
+151,26,55,Los Angeles Kings,Seattle Kraken,2022020360147,2022020360,Faceoff,147,FACEOFF,Yanni Gourde faceoff won against Rasmus Kupari,2022-11-30T04:46:08Z,2,04:56,15:04,4,5,55.0,Seattle Kraken,SEA
+152,26,55,Los Angeles Kings,Seattle Kraken,2022020360310,2022020360,Hit,310,HIT,Rasmus Kupari hit Carson Soucy,2022-11-30T04:46:26Z,2,05:14,14:46,4,5,26.0,Los Angeles Kings,LAK
+153,26,55,Los Angeles Kings,Seattle Kraken,2022020360196,2022020360,Shot,196,SHOT,Sean Walker Wrist Shot saved by Martin Jones,2022-11-30T04:46:34Z,2,05:22,14:38,4,5,26.0,Los Angeles Kings,LAK
+154,26,55,Los Angeles Kings,Seattle Kraken,2022020360311,2022020360,Hit,311,HIT,Carson Soucy hit Jaret Anderson-Dolan,2022-11-30T04:46:36Z,2,05:24,14:36,4,5,55.0,Seattle Kraken,SEA
+155,26,55,Los Angeles Kings,Seattle Kraken,2022020360462,2022020360,Missed Shot,462,MISSED_SHOT,Arthur Kaliyev Wide of Net Martin Jones,2022-11-30T04:46:43Z,2,05:31,14:29,4,5,26.0,Los Angeles Kings,LAK
+156,26,55,Los Angeles Kings,Seattle Kraken,2022020360197,2022020360,Missed Shot,197,MISSED_SHOT,Rasmus Kupari Wide of Net Martin Jones,2022-11-30T04:46:51Z,2,05:39,14:21,4,5,26.0,Los Angeles Kings,LAK
+157,26,55,Los Angeles Kings,Seattle Kraken,2022020360312,2022020360,Stoppage,312,STOP,Goalie Stopped,2022-11-30T04:46:52Z,2,05:40,14:20,4,5,,,
+158,26,55,Los Angeles Kings,Seattle Kraken,2022020360148,2022020360,Faceoff,148,FACEOFF,Blake Lizotte faceoff won against Matty Beniers,2022-11-30T04:47:23Z,2,05:40,14:20,4,5,26.0,Los Angeles Kings,LAK
+159,26,55,Los Angeles Kings,Seattle Kraken,2022020360313,2022020360,Giveaway,313,GIVEAWAY,Giveaway by Jamie Oleksiak,2022-11-30T04:47:51Z,2,06:08,13:52,4,5,55.0,Seattle Kraken,SEA
+160,26,55,Los Angeles Kings,Seattle Kraken,2022020360198,2022020360,Shot,198,SHOT,Blake Lizotte Wrist Shot saved by Martin Jones,2022-11-30T04:47:54Z,2,06:11,13:49,4,5,26.0,Los Angeles Kings,LAK
+161,26,55,Los Angeles Kings,Seattle Kraken,2022020360199,2022020360,Shot,199,SHOT,Matty Beniers Wrist Shot saved by Cal Petersen,2022-11-30T04:48:04Z,2,06:21,13:39,4,5,55.0,Seattle Kraken,SEA
+162,26,55,Los Angeles Kings,Seattle Kraken,2022020360315,2022020360,Stoppage,315,STOP,Goalie Stopped,2022-11-30T04:48:06Z,2,06:22,13:38,4,5,,,
+163,26,55,Los Angeles Kings,Seattle Kraken,2022020360149,2022020360,Faceoff,149,FACEOFF,Anze Kopitar faceoff won against Alex Wennberg,2022-11-30T04:50:28Z,2,06:22,13:38,4,5,26.0,Los Angeles Kings,LAK
+164,26,55,Los Angeles Kings,Seattle Kraken,2022020360316,2022020360,Hit,316,HIT,Adam Larsson hit Kevin Fiala,2022-11-30T04:50:38Z,2,06:32,13:28,4,5,55.0,Seattle Kraken,SEA
+165,26,55,Los Angeles Kings,Seattle Kraken,2022020360200,2022020360,Missed Shot,200,MISSED_SHOT,Anze Kopitar Wide of Net Martin Jones,2022-11-30T04:50:41Z,2,06:35,13:25,4,5,26.0,Los Angeles Kings,LAK
+166,26,55,Los Angeles Kings,Seattle Kraken,2022020360317,2022020360,Giveaway,317,GIVEAWAY,Giveaway by Vince Dunn,2022-11-30T04:50:43Z,2,06:37,13:23,4,5,55.0,Seattle Kraken,SEA
+167,26,55,Los Angeles Kings,Seattle Kraken,2022020360150,2022020360,Shot,150,SHOT,Adrian Kempe Snap Shot saved by Martin Jones,2022-11-30T04:50:46Z,2,06:40,13:20,4,5,26.0,Los Angeles Kings,LAK
+168,26,55,Los Angeles Kings,Seattle Kraken,2022020360318,2022020360,Takeaway,318,TAKEAWAY,Takeaway by Kevin Fiala,2022-11-30T04:50:49Z,2,06:43,13:17,4,5,26.0,Los Angeles Kings,LAK
+169,26,55,Los Angeles Kings,Seattle Kraken,2022020360451,2022020360,Goal,451,GOAL,"Adrian Kempe (8) Snap Shot, assists: Kevin Fiala (18)",2022-11-30T04:50:51Z,2,06:45,13:15,5,5,26.0,Los Angeles Kings,LAK
+170,26,55,Los Angeles Kings,Seattle Kraken,2022020360401,2022020360,Faceoff,401,FACEOFF,Rasmus Kupari faceoff won against Yanni Gourde,2022-11-30T04:51:34Z,2,06:45,13:15,5,5,26.0,Los Angeles Kings,LAK
+171,26,55,Los Angeles Kings,Seattle Kraken,2022020360319,2022020360,Stoppage,319,STOP,Icing,2022-11-30T04:51:57Z,2,07:09,12:51,5,5,,,
+172,26,55,Los Angeles Kings,Seattle Kraken,2022020360402,2022020360,Faceoff,402,FACEOFF,Ryan Donato faceoff won against Rasmus Kupari,2022-11-30T04:52:22Z,2,07:09,12:51,5,5,55.0,Seattle Kraken,SEA
+173,26,55,Los Angeles Kings,Seattle Kraken,2022020360452,2022020360,Blocked Shot,452,BLOCKED_SHOT,Karson Kuhlman shot blocked shot by Sean Durzi,2022-11-30T04:52:27Z,2,07:14,12:46,5,5,26.0,Los Angeles Kings,LAK
+174,26,55,Los Angeles Kings,Seattle Kraken,2022020360403,2022020360,Blocked Shot,403,BLOCKED_SHOT,Daniel Sprong shot blocked shot by Sean Durzi,2022-11-30T04:52:31Z,2,07:18,12:42,5,5,26.0,Los Angeles Kings,LAK
+175,26,55,Los Angeles Kings,Seattle Kraken,2022020360321,2022020360,Takeaway,321,TAKEAWAY,Takeaway by Daniel Sprong,2022-11-30T04:52:35Z,2,07:22,12:38,5,5,55.0,Seattle Kraken,SEA
+176,26,55,Los Angeles Kings,Seattle Kraken,2022020360453,2022020360,Goal,453,GOAL,"Daniel Sprong (5) Wrist Shot, assists: none",2022-11-30T04:52:40Z,2,07:27,12:33,5,6,55.0,Seattle Kraken,SEA
+177,26,55,Los Angeles Kings,Seattle Kraken,2022020360404,2022020360,Faceoff,404,FACEOFF,Phillip Danault faceoff won against Matty Beniers,2022-11-30T04:53:23Z,2,07:27,12:33,5,6,26.0,Los Angeles Kings,LAK
+178,26,55,Los Angeles Kings,Seattle Kraken,2022020360260,2022020360,Stoppage,260,STOP,Icing,2022-11-30T04:53:30Z,2,07:35,12:25,5,6,,,
+179,26,55,Los Angeles Kings,Seattle Kraken,2022020360405,2022020360,Faceoff,405,FACEOFF,Phillip Danault faceoff won against Matty Beniers,2022-11-30T04:53:54Z,2,07:35,12:25,5,6,26.0,Los Angeles Kings,LAK
+180,26,55,Los Angeles Kings,Seattle Kraken,2022020360261,2022020360,Stoppage,261,STOP,Icing,2022-11-30T04:54:04Z,2,07:45,12:15,5,6,,,
+181,26,55,Los Angeles Kings,Seattle Kraken,2022020360406,2022020360,Faceoff,406,FACEOFF,Matty Beniers faceoff won against Phillip Danault,2022-11-30T04:54:25Z,2,07:45,12:15,5,6,55.0,Seattle Kraken,SEA
+182,26,55,Los Angeles Kings,Seattle Kraken,2022020360322,2022020360,Hit,322,HIT,Trevor Moore hit Jamie Oleksiak,2022-11-30T04:54:32Z,2,07:52,12:08,5,6,26.0,Los Angeles Kings,LAK
+183,26,55,Los Angeles Kings,Seattle Kraken,2022020360262,2022020360,Stoppage,262,STOP,Icing,2022-11-30T04:54:35Z,2,07:55,12:05,5,6,,,
+184,26,55,Los Angeles Kings,Seattle Kraken,2022020360407,2022020360,Faceoff,407,FACEOFF,Phillip Danault faceoff won against Matty Beniers,2022-11-30T04:54:55Z,2,07:55,12:05,5,6,26.0,Los Angeles Kings,LAK
+185,26,55,Los Angeles Kings,Seattle Kraken,2022020360454,2022020360,Blocked Shot,454,BLOCKED_SHOT,Viktor Arvidsson shot blocked shot by Jared McCann,2022-11-30T04:54:59Z,2,07:59,12:01,5,6,55.0,Seattle Kraken,SEA
+186,26,55,Los Angeles Kings,Seattle Kraken,2022020360323,2022020360,Blocked Shot,323,BLOCKED_SHOT,Phillip Danault shot blocked shot by Jamie Oleksiak,2022-11-30T04:55:04Z,2,08:04,11:56,5,6,55.0,Seattle Kraken,SEA
+187,26,55,Los Angeles Kings,Seattle Kraken,2022020360408,2022020360,Hit,408,HIT,Jamie Oleksiak hit Trevor Moore,2022-11-30T04:55:19Z,2,08:19,11:41,5,6,55.0,Seattle Kraken,SEA
+188,26,55,Los Angeles Kings,Seattle Kraken,2022020360409,2022020360,Takeaway,409,TAKEAWAY,Takeaway by Jaden Schwartz,2022-11-30T04:55:33Z,2,08:33,11:27,5,6,55.0,Seattle Kraken,SEA
+189,26,55,Los Angeles Kings,Seattle Kraken,2022020360455,2022020360,Shot,455,SHOT,Andre Burakovsky Slap Shot saved by Cal Petersen,2022-11-30T04:55:57Z,2,08:57,11:03,5,6,55.0,Seattle Kraken,SEA
+190,26,55,Los Angeles Kings,Seattle Kraken,2022020360324,2022020360,Hit,324,HIT,Carl Grundstrom hit Jaden Schwartz,2022-11-30T04:56:09Z,2,09:09,10:51,5,6,26.0,Los Angeles Kings,LAK
+191,26,55,Los Angeles Kings,Seattle Kraken,2022020360263,2022020360,Stoppage,263,STOP,Icing,2022-11-30T04:56:19Z,2,09:19,10:41,5,6,,,
+192,26,55,Los Angeles Kings,Seattle Kraken,2022020360456,2022020360,Faceoff,456,FACEOFF,Ryan Donato faceoff won against Blake Lizotte,2022-11-30T04:56:45Z,2,09:19,10:41,5,6,55.0,Seattle Kraken,SEA
+193,26,55,Los Angeles Kings,Seattle Kraken,2022020360325,2022020360,Missed Shot,325,MISSED_SHOT,Daniel Sprong Wide of Net Cal Petersen,2022-11-30T04:56:48Z,2,09:22,10:38,5,6,55.0,Seattle Kraken,SEA
+194,26,55,Los Angeles Kings,Seattle Kraken,2022020360457,2022020360,Missed Shot,457,MISSED_SHOT,Daniel Sprong Wide of Net Cal Petersen,2022-11-30T04:56:59Z,2,09:33,10:27,5,6,55.0,Seattle Kraken,SEA
+195,26,55,Los Angeles Kings,Seattle Kraken,2022020360264,2022020360,Giveaway,264,GIVEAWAY,Giveaway by Gabriel Vilardi,2022-11-30T04:57:14Z,2,09:48,10:12,5,6,26.0,Los Angeles Kings,LAK
+196,26,55,Los Angeles Kings,Seattle Kraken,2022020360458,2022020360,Goal,458,GOAL,"Oliver Bjorkstrand (3) Snap Shot, assists: none",2022-11-30T04:57:15Z,2,09:50,10:10,5,7,55.0,Seattle Kraken,SEA
+197,26,55,Los Angeles Kings,Seattle Kraken,2022020360410,2022020360,Faceoff,410,FACEOFF,Anze Kopitar faceoff won against Yanni Gourde,2022-11-30T04:57:56Z,2,09:50,10:10,5,7,26.0,Los Angeles Kings,LAK
+198,26,55,Los Angeles Kings,Seattle Kraken,2022020360326,2022020360,Hit,326,HIT,Adrian Kempe hit Jamie Oleksiak,2022-11-30T04:58:07Z,2,10:01,09:59,5,7,26.0,Los Angeles Kings,LAK
+199,26,55,Los Angeles Kings,Seattle Kraken,2022020360265,2022020360,Stoppage,265,STOP,Icing,2022-11-30T04:58:29Z,2,10:23,09:37,5,7,,,
+200,26,55,Los Angeles Kings,Seattle Kraken,2022020360411,2022020360,Faceoff,411,FACEOFF,Anze Kopitar faceoff won against Jared McCann,2022-11-30T04:58:58Z,2,10:23,09:37,5,7,26.0,Los Angeles Kings,LAK
+201,26,55,Los Angeles Kings,Seattle Kraken,2022020360459,2022020360,Shot,459,SHOT,Jared McCann Tip-In saved by Cal Petersen,2022-11-30T04:59:28Z,2,10:53,09:07,5,7,55.0,Seattle Kraken,SEA
+202,26,55,Los Angeles Kings,Seattle Kraken,2022020360328,2022020360,Hit,328,HIT,Adrian Kempe hit Adam Larsson,2022-11-30T04:59:50Z,2,11:15,08:45,5,7,26.0,Los Angeles Kings,LAK
+203,26,55,Los Angeles Kings,Seattle Kraken,2022020360329,2022020360,Hit,329,HIT,Jaret Anderson-Dolan hit Matty Beniers,2022-11-30T04:59:55Z,2,11:20,08:40,5,7,26.0,Los Angeles Kings,LAK
+204,26,55,Los Angeles Kings,Seattle Kraken,2022020360412,2022020360,Hit,412,HIT,Arthur Kaliyev hit Adam Larsson,2022-11-30T05:00:00Z,2,11:25,08:35,5,7,26.0,Los Angeles Kings,LAK
+205,26,55,Los Angeles Kings,Seattle Kraken,2022020360460,2022020360,Missed Shot,460,MISSED_SHOT,Arthur Kaliyev Wide of Net Martin Jones,2022-11-30T05:00:20Z,2,11:45,08:15,5,7,26.0,Los Angeles Kings,LAK
+206,26,55,Los Angeles Kings,Seattle Kraken,2022020360461,2022020360,Shot,461,SHOT,Andre Burakovsky Wrist Shot saved by Cal Petersen,2022-11-30T05:00:29Z,2,11:54,08:06,5,7,55.0,Seattle Kraken,SEA
+207,26,55,Los Angeles Kings,Seattle Kraken,2022020360266,2022020360,Stoppage,266,STOP,Goalie Stopped,2022-11-30T05:00:29Z,2,11:55,08:05,5,7,,,
+208,26,55,Los Angeles Kings,Seattle Kraken,2022020360463,2022020360,Faceoff,463,FACEOFF,Phillip Danault faceoff won against Alex Wennberg,2022-11-30T05:02:46Z,2,11:55,08:05,5,7,26.0,Los Angeles Kings,LAK
+209,26,55,Los Angeles Kings,Seattle Kraken,2022020360464,2022020360,Shot,464,SHOT,Viktor Arvidsson Wrist Shot saved by Martin Jones,2022-11-30T05:03:16Z,2,12:25,07:35,5,7,26.0,Los Angeles Kings,LAK
+210,26,55,Los Angeles Kings,Seattle Kraken,2022020360465,2022020360,Shot,465,SHOT,Daniel Sprong Wrist Shot saved by Cal Petersen,2022-11-30T05:03:45Z,2,12:54,07:06,5,7,55.0,Seattle Kraken,SEA
+211,26,55,Los Angeles Kings,Seattle Kraken,2022020360466,2022020360,Shot,466,SHOT,Ryan Donato Between Legs saved by Cal Petersen,2022-11-30T05:04:03Z,2,13:12,06:48,5,7,55.0,Seattle Kraken,SEA
+212,26,55,Los Angeles Kings,Seattle Kraken,2022020360414,2022020360,Blocked Shot,414,BLOCKED_SHOT,Ryan Donato shot blocked shot by Drew Doughty,2022-11-30T05:04:05Z,2,13:14,06:46,5,7,26.0,Los Angeles Kings,LAK
+213,26,55,Los Angeles Kings,Seattle Kraken,2022020360267,2022020360,Hit,267,HIT,Drew Doughty hit Brandon Tanev,2022-11-30T05:04:22Z,2,13:31,06:29,5,7,26.0,Los Angeles Kings,LAK
+214,26,55,Los Angeles Kings,Seattle Kraken,2022020360331,2022020360,Penalty,331,PENALTY,Oliver Bjorkstrand Tripping against Gabriel Vilardi,2022-11-30T05:04:29Z,2,13:38,06:22,5,7,55.0,Seattle Kraken,SEA
+215,26,55,Los Angeles Kings,Seattle Kraken,2022020360415,2022020360,Faceoff,415,FACEOFF,Phillip Danault faceoff won against Alex Wennberg,2022-11-30T05:05:18Z,2,13:38,06:22,5,7,26.0,Los Angeles Kings,LAK
+216,26,55,Los Angeles Kings,Seattle Kraken,2022020360467,2022020360,Missed Shot,467,MISSED_SHOT,Arthur Kaliyev Wide of Net Martin Jones,2022-11-30T05:05:40Z,2,14:00,06:00,5,7,26.0,Los Angeles Kings,LAK
+217,26,55,Los Angeles Kings,Seattle Kraken,2022020360416,2022020360,Blocked Shot,416,BLOCKED_SHOT,Sean Durzi shot blocked shot by Alex Wennberg,2022-11-30T05:05:52Z,2,14:12,05:48,5,7,55.0,Seattle Kraken,SEA
+218,26,55,Los Angeles Kings,Seattle Kraken,2022020360333,2022020360,Hit,333,HIT,Adam Larsson hit Viktor Arvidsson,2022-11-30T05:06:12Z,2,14:32,05:28,5,7,55.0,Seattle Kraken,SEA
+219,26,55,Los Angeles Kings,Seattle Kraken,2022020360468,2022020360,Shot,468,SHOT,Arthur Kaliyev Slap Shot saved by Martin Jones,2022-11-30T05:06:17Z,2,14:37,05:23,5,7,26.0,Los Angeles Kings,LAK
+220,26,55,Los Angeles Kings,Seattle Kraken,2022020360334,2022020360,Stoppage,334,STOP,Goalie Stopped,2022-11-30T05:06:18Z,2,14:38,05:22,5,7,,,
+221,26,55,Los Angeles Kings,Seattle Kraken,2022020360417,2022020360,Faceoff,417,FACEOFF,Anze Kopitar faceoff won against Jaden Schwartz,2022-11-30T05:06:47Z,2,14:38,05:22,5,7,26.0,Los Angeles Kings,LAK
+222,26,55,Los Angeles Kings,Seattle Kraken,2022020360469,2022020360,Shot,469,SHOT,Kevin Fiala Slap Shot saved by Martin Jones,2022-11-30T05:06:56Z,2,14:47,05:13,5,7,26.0,Los Angeles Kings,LAK
+223,26,55,Los Angeles Kings,Seattle Kraken,2022020360335,2022020360,Hit,335,HIT,Carson Soucy hit Kevin Fiala,2022-11-30T05:07:05Z,2,14:56,05:04,5,7,55.0,Seattle Kraken,SEA
+224,26,55,Los Angeles Kings,Seattle Kraken,2022020360470,2022020360,Shot,470,SHOT,Anze Kopitar Wrist Shot saved by Martin Jones,2022-11-30T05:07:14Z,2,15:05,04:55,5,7,26.0,Los Angeles Kings,LAK
+225,26,55,Los Angeles Kings,Seattle Kraken,2022020360418,2022020360,Shot,418,SHOT,Anze Kopitar Poke saved by Martin Jones,2022-11-30T05:07:15Z,2,15:06,04:54,5,7,26.0,Los Angeles Kings,LAK
+226,26,55,Los Angeles Kings,Seattle Kraken,2022020360268,2022020360,Stoppage,268,STOP,Goalie Stopped,2022-11-30T05:07:16Z,2,15:07,04:53,5,7,,,
+227,26,55,Los Angeles Kings,Seattle Kraken,2022020360419,2022020360,Faceoff,419,FACEOFF,Gabriel Vilardi faceoff won against Yanni Gourde,2022-11-30T05:07:56Z,2,15:07,04:53,5,7,26.0,Los Angeles Kings,LAK
+228,26,55,Los Angeles Kings,Seattle Kraken,2022020360471,2022020360,Missed Shot,471,MISSED_SHOT,Drew Doughty Wide of Net Martin Jones,2022-11-30T05:08:12Z,2,15:23,04:37,5,7,26.0,Los Angeles Kings,LAK
+229,26,55,Los Angeles Kings,Seattle Kraken,2022020360473,2022020360,Missed Shot,473,MISSED_SHOT,Anze Kopitar Wide of Net Martin Jones,2022-11-30T05:08:29Z,2,15:40,04:20,5,7,26.0,Los Angeles Kings,LAK
+230,26,55,Los Angeles Kings,Seattle Kraken,2022020360472,2022020360,Goal,472,GOAL,"Gabriel Vilardi (13) Wrist Shot, assists: Anze Kopitar (14), Mikey Anderson (4)",2022-11-30T05:08:30Z,2,15:41,04:19,6,7,26.0,Los Angeles Kings,LAK
+231,26,55,Los Angeles Kings,Seattle Kraken,2022020360420,2022020360,Faceoff,420,FACEOFF,Blake Lizotte faceoff won against Matty Beniers,2022-11-30T05:09:15Z,2,15:41,04:19,6,7,26.0,Los Angeles Kings,LAK
+232,26,55,Los Angeles Kings,Seattle Kraken,2022020360269,2022020360,Stoppage,269,STOP,Icing,2022-11-30T05:09:21Z,2,15:47,04:13,6,7,,,
+233,26,55,Los Angeles Kings,Seattle Kraken,2022020360421,2022020360,Faceoff,421,FACEOFF,Blake Lizotte faceoff won against Jordan Eberle,2022-11-30T05:09:48Z,2,15:47,04:13,6,7,26.0,Los Angeles Kings,LAK
+234,26,55,Los Angeles Kings,Seattle Kraken,2022020360336,2022020360,Hit,336,HIT,Blake Lizotte hit Justin Schultz,2022-11-30T05:10:04Z,2,16:03,03:57,6,7,26.0,Los Angeles Kings,LAK
+235,26,55,Los Angeles Kings,Seattle Kraken,2022020360474,2022020360,Missed Shot,474,MISSED_SHOT,Mikey Anderson Wide of Net Martin Jones,2022-11-30T05:10:08Z,2,16:07,03:53,6,7,26.0,Los Angeles Kings,LAK
+236,26,55,Los Angeles Kings,Seattle Kraken,2022020360475,2022020360,Missed Shot,475,MISSED_SHOT,Jared McCann Wide of Net Cal Petersen,2022-11-30T05:10:32Z,2,16:31,03:29,6,7,55.0,Seattle Kraken,SEA
+237,26,55,Los Angeles Kings,Seattle Kraken,2022020360476,2022020360,Shot,476,SHOT,Alexander Edler Slap Shot saved by Martin Jones,2022-11-30T05:10:45Z,2,16:44,03:16,6,7,26.0,Los Angeles Kings,LAK
+238,26,55,Los Angeles Kings,Seattle Kraken,2022020360337,2022020360,Stoppage,337,STOP,Goalie Stopped,2022-11-30T05:10:46Z,2,16:45,03:15,6,7,,,
+239,26,55,Los Angeles Kings,Seattle Kraken,2022020360422,2022020360,Faceoff,422,FACEOFF,Phillip Danault faceoff won against Yanni Gourde,2022-11-30T05:13:09Z,2,16:45,03:15,6,7,26.0,Los Angeles Kings,LAK
+240,26,55,Los Angeles Kings,Seattle Kraken,2022020360338,2022020360,Takeaway,338,TAKEAWAY,Takeaway by Yanni Gourde,2022-11-30T05:13:17Z,2,16:53,03:07,6,7,55.0,Seattle Kraken,SEA
+241,26,55,Los Angeles Kings,Seattle Kraken,2022020360339,2022020360,Hit,339,HIT,Brandon Tanev hit Alexander Edler,2022-11-30T05:13:46Z,2,17:22,02:38,6,7,55.0,Seattle Kraken,SEA
+242,26,55,Los Angeles Kings,Seattle Kraken,2022020360340,2022020360,Hit,340,HIT,Adrian Kempe hit Matty Beniers,2022-11-30T05:14:40Z,2,18:16,01:44,6,7,26.0,Los Angeles Kings,LAK
+243,26,55,Los Angeles Kings,Seattle Kraken,2022020360477,2022020360,Hit,477,HIT,Rasmus Kupari hit Ryan Donato,2022-11-30T05:15:07Z,2,18:43,01:17,6,7,26.0,Los Angeles Kings,LAK
+244,26,55,Los Angeles Kings,Seattle Kraken,2022020360478,2022020360,Shot,478,SHOT,Arthur Kaliyev Wrist Shot saved by Martin Jones,2022-11-30T05:15:29Z,2,19:05,00:55,6,7,26.0,Los Angeles Kings,LAK
+245,26,55,Los Angeles Kings,Seattle Kraken,2022020360270,2022020360,Stoppage,270,STOP,Goalie Stopped,2022-11-30T05:15:31Z,2,19:06,00:54,6,7,,,
+246,26,55,Los Angeles Kings,Seattle Kraken,2022020360423,2022020360,Faceoff,423,FACEOFF,Alex Wennberg faceoff won against Phillip Danault,2022-11-30T05:16:06Z,2,19:06,00:54,6,7,55.0,Seattle Kraken,SEA
+247,26,55,Los Angeles Kings,Seattle Kraken,2022020360479,2022020360,Goal,479,GOAL,"Andre Burakovsky (8) Snap Shot, assists: Alex Wennberg (7), Will Borgen (4)",2022-11-30T05:16:38Z,2,19:38,00:22,6,8,55.0,Seattle Kraken,SEA
+248,26,55,Los Angeles Kings,Seattle Kraken,2022020360424,2022020360,Faceoff,424,FACEOFF,Yanni Gourde faceoff won against Anze Kopitar,2022-11-30T05:17:31Z,2,19:38,00:22,6,8,55.0,Seattle Kraken,SEA
+249,26,55,Los Angeles Kings,Seattle Kraken,2022020360341,2022020360,Period End,341,PERIOD_END,End of 2nd Period,2022-11-30T05:17:52Z,2,20:00,00:00,6,8,,,
+250,26,55,Los Angeles Kings,Seattle Kraken,2022020360344,2022020360,Period Official,344,PERIOD_OFFICIAL,Period Official,2022-11-30T05:35:14Z,2,20:00,00:00,6,8,,,
+251,26,55,Los Angeles Kings,Seattle Kraken,2022020360345,2022020360,Period Ready,345,PERIOD_READY,Period Ready,2022-11-30T05:36:28Z,3,00:00,20:00,6,8,,,
+252,26,55,Los Angeles Kings,Seattle Kraken,2022020360480,2022020360,Period Start,480,PERIOD_START,Period Start,2022-11-30T05:36:42Z,3,00:00,20:00,6,8,,,
+253,26,55,Los Angeles Kings,Seattle Kraken,2022020360481,2022020360,Faceoff,481,FACEOFF,Anze Kopitar faceoff won against Alex Wennberg,2022-11-30T05:36:42Z,3,00:00,20:00,6,8,26.0,Los Angeles Kings,LAK
+254,26,55,Los Angeles Kings,Seattle Kraken,2022020360482,2022020360,Missed Shot,482,MISSED_SHOT,Anze Kopitar Wide of Net Martin Jones,2022-11-30T05:37:15Z,3,00:33,19:27,6,8,26.0,Los Angeles Kings,LAK
+255,26,55,Los Angeles Kings,Seattle Kraken,2022020360483,2022020360,Shot,483,SHOT,Adrian Kempe Snap Shot saved by Martin Jones,2022-11-30T05:37:30Z,3,00:48,19:12,6,8,26.0,Los Angeles Kings,LAK
+256,26,55,Los Angeles Kings,Seattle Kraken,2022020360346,2022020360,Hit,346,HIT,Jamie Oleksiak hit Phillip Danault,2022-11-30T05:38:25Z,3,01:43,18:17,6,8,55.0,Seattle Kraken,SEA
+257,26,55,Los Angeles Kings,Seattle Kraken,2022020360484,2022020360,Shot,484,SHOT,Daniel Sprong Wrist Shot saved by Cal Petersen,2022-11-30T05:39:46Z,3,03:04,16:56,6,8,55.0,Seattle Kraken,SEA
+258,26,55,Los Angeles Kings,Seattle Kraken,2022020360271,2022020360,Stoppage,271,STOP,Puck in Netting,2022-11-30T05:40:04Z,3,03:23,16:37,6,8,,,
+259,26,55,Los Angeles Kings,Seattle Kraken,2022020360485,2022020360,Faceoff,485,FACEOFF,Alex Wennberg faceoff won against Anze Kopitar,2022-11-30T05:40:33Z,3,03:23,16:37,6,8,55.0,Seattle Kraken,SEA
+260,26,55,Los Angeles Kings,Seattle Kraken,2022020360347,2022020360,Takeaway,347,TAKEAWAY,Takeaway by Jaden Schwartz,2022-11-30T05:41:08Z,3,03:58,16:02,6,8,55.0,Seattle Kraken,SEA
+261,26,55,Los Angeles Kings,Seattle Kraken,2022020360348,2022020360,Penalty,348,PENALTY,Andre Burakovsky Tripping against Drew Doughty,2022-11-30T05:41:14Z,3,04:04,15:56,6,8,55.0,Seattle Kraken,SEA
+262,26,55,Los Angeles Kings,Seattle Kraken,2022020360486,2022020360,Faceoff,486,FACEOFF,Phillip Danault faceoff won against Alex Wennberg,2022-11-30T05:41:54Z,3,04:04,15:56,6,8,26.0,Los Angeles Kings,LAK
+263,26,55,Los Angeles Kings,Seattle Kraken,2022020360433,2022020360,Penalty,433,PENALTY,Sean Durzi Interference against Brandon Tanev,2022-11-30T05:42:18Z,3,04:27,15:33,6,8,26.0,Los Angeles Kings,LAK
+264,26,55,Los Angeles Kings,Seattle Kraken,2022020360487,2022020360,Faceoff,487,FACEOFF,Phillip Danault faceoff won against Matty Beniers,2022-11-30T05:42:59Z,3,04:27,15:33,6,8,26.0,Los Angeles Kings,LAK
+265,26,55,Los Angeles Kings,Seattle Kraken,2022020360350,2022020360,Hit,350,HIT,Jared McCann hit Drew Doughty,2022-11-30T05:43:16Z,3,04:44,15:16,6,8,55.0,Seattle Kraken,SEA
+266,26,55,Los Angeles Kings,Seattle Kraken,2022020360272,2022020360,Stoppage,272,STOP,Offside,2022-11-30T05:45:46Z,3,07:14,12:46,6,8,,,
+267,26,55,Los Angeles Kings,Seattle Kraken,2022020360488,2022020360,Faceoff,488,FACEOFF,Rasmus Kupari faceoff won against Matty Beniers,2022-11-30T05:47:59Z,3,07:14,12:46,6,8,26.0,Los Angeles Kings,LAK
+268,26,55,Los Angeles Kings,Seattle Kraken,2022020360273,2022020360,Giveaway,273,GIVEAWAY,Giveaway by Drew Doughty,2022-11-30T05:48:03Z,3,07:18,12:42,6,8,26.0,Los Angeles Kings,LAK
+269,26,55,Los Angeles Kings,Seattle Kraken,2022020360651,2022020360,Stoppage,651,STOP,Puck Frozen,2022-11-30T05:48:21Z,3,07:37,12:23,6,8,,,
+270,26,55,Los Angeles Kings,Seattle Kraken,2022020360489,2022020360,Faceoff,489,FACEOFF,Rasmus Kupari faceoff won against Alex Wennberg,2022-11-30T05:48:52Z,3,07:37,12:23,6,8,26.0,Los Angeles Kings,LAK
+271,26,55,Los Angeles Kings,Seattle Kraken,2022020360490,2022020360,Blocked Shot,490,BLOCKED_SHOT,Kevin Fiala shot blocked shot by Oliver Bjorkstrand,2022-11-30T05:49:36Z,3,08:21,11:39,6,8,55.0,Seattle Kraken,SEA
+272,26,55,Los Angeles Kings,Seattle Kraken,2022020360491,2022020360,Shot,491,SHOT,Adrian Kempe Wrist Shot saved by Martin Jones,2022-11-30T05:50:01Z,3,08:46,11:14,6,8,26.0,Los Angeles Kings,LAK
+273,26,55,Los Angeles Kings,Seattle Kraken,2022020360652,2022020360,Hit,652,HIT,Will Borgen hit Phillip Danault,2022-11-30T05:50:27Z,3,09:12,10:48,6,8,55.0,Seattle Kraken,SEA
+274,26,55,Los Angeles Kings,Seattle Kraken,2022020360492,2022020360,Shot,492,SHOT,Sean Walker Wrist Shot saved by Martin Jones,2022-11-30T05:50:40Z,3,09:25,10:35,6,8,26.0,Los Angeles Kings,LAK
+275,26,55,Los Angeles Kings,Seattle Kraken,2022020360274,2022020360,Stoppage,274,STOP,Goalie Stopped,2022-11-30T05:50:41Z,3,09:26,10:34,6,8,,,
+276,26,55,Los Angeles Kings,Seattle Kraken,2022020360493,2022020360,Faceoff,493,FACEOFF,Blake Lizotte faceoff won against Matty Beniers,2022-11-30T05:51:13Z,3,09:26,10:34,6,8,26.0,Los Angeles Kings,LAK
+277,26,55,Los Angeles Kings,Seattle Kraken,2022020360653,2022020360,Missed Shot,653,MISSED_SHOT,Sean Walker Wide of Net Martin Jones,2022-11-30T05:51:20Z,3,09:33,10:27,6,8,26.0,Los Angeles Kings,LAK
+278,26,55,Los Angeles Kings,Seattle Kraken,2022020360495,2022020360,Shot,495,SHOT,Gabriel Vilardi Snap Shot saved by Martin Jones,2022-11-30T05:51:35Z,3,09:48,10:12,6,8,26.0,Los Angeles Kings,LAK
+279,26,55,Los Angeles Kings,Seattle Kraken,2022020360275,2022020360,Stoppage,275,STOP,Goalie Stopped,2022-11-30T05:51:36Z,3,09:49,10:11,6,8,,,
+280,26,55,Los Angeles Kings,Seattle Kraken,2022020360496,2022020360,Faceoff,496,FACEOFF,Rasmus Kupari faceoff won against Alex Wennberg,2022-11-30T05:52:12Z,3,09:49,10:11,6,8,26.0,Los Angeles Kings,LAK
+281,26,55,Los Angeles Kings,Seattle Kraken,2022020360654,2022020360,Hit,654,HIT,Arthur Kaliyev hit Will Borgen,2022-11-30T05:52:47Z,3,10:24,09:36,6,8,26.0,Los Angeles Kings,LAK
+282,26,55,Los Angeles Kings,Seattle Kraken,2022020360497,2022020360,Missed Shot,497,MISSED_SHOT,Alex Wennberg Goalpost Cal Petersen,2022-11-30T05:52:53Z,3,10:30,09:30,6,8,55.0,Seattle Kraken,SEA
+283,26,55,Los Angeles Kings,Seattle Kraken,2022020360498,2022020360,Missed Shot,498,MISSED_SHOT,Adam Larsson Wide of Net Cal Petersen,2022-11-30T05:53:15Z,3,10:52,09:08,6,8,55.0,Seattle Kraken,SEA
+284,26,55,Los Angeles Kings,Seattle Kraken,2022020360499,2022020360,Shot,499,SHOT,Kevin Fiala Wrist Shot saved by Martin Jones,2022-11-30T05:53:47Z,3,11:24,08:36,6,8,26.0,Los Angeles Kings,LAK
+285,26,55,Los Angeles Kings,Seattle Kraken,2022020360500,2022020360,Goal,500,GOAL,"Sean Durzi (4) Wrist Shot, assists: Matt Roy (7), Kevin Fiala (19)",2022-11-30T05:53:59Z,3,11:36,08:24,7,8,26.0,Los Angeles Kings,LAK
+286,26,55,Los Angeles Kings,Seattle Kraken,2022020360751,2022020360,Faceoff,751,FACEOFF,Ryan Donato faceoff won against Phillip Danault,2022-11-30T05:54:46Z,3,11:36,08:24,7,8,55.0,Seattle Kraken,SEA
+287,26,55,Los Angeles Kings,Seattle Kraken,2022020360655,2022020360,Giveaway,655,GIVEAWAY,Giveaway by Trevor Moore,2022-11-30T05:55:18Z,3,12:08,07:52,7,8,26.0,Los Angeles Kings,LAK
+288,26,55,Los Angeles Kings,Seattle Kraken,2022020360752,2022020360,Shot,752,SHOT,Ryan Donato Backhand saved by Cal Petersen,2022-11-30T05:55:23Z,3,12:13,07:47,7,8,55.0,Seattle Kraken,SEA
+289,26,55,Los Angeles Kings,Seattle Kraken,2022020360656,2022020360,Giveaway,656,GIVEAWAY,Giveaway by Sean Walker,2022-11-30T05:55:52Z,3,12:42,07:18,7,8,26.0,Los Angeles Kings,LAK
+290,26,55,Los Angeles Kings,Seattle Kraken,2022020360657,2022020360,Hit,657,HIT,Alexander Edler hit Matty Beniers,2022-11-30T05:55:58Z,3,12:48,07:12,7,8,26.0,Los Angeles Kings,LAK
+291,26,55,Los Angeles Kings,Seattle Kraken,2022020360753,2022020360,Blocked Shot,753,BLOCKED_SHOT,Anze Kopitar shot blocked shot by Alex Wennberg,2022-11-30T05:56:45Z,3,13:35,06:25,7,8,55.0,Seattle Kraken,SEA
+292,26,55,Los Angeles Kings,Seattle Kraken,2022020360658,2022020360,Goal,658,GOAL,"Mikey Anderson (1) Slap Shot, assists: Adrian Kempe (7), Drew Doughty (14)",2022-11-30T05:56:49Z,3,13:39,06:21,8,8,26.0,Los Angeles Kings,LAK
+293,26,55,Los Angeles Kings,Seattle Kraken,2022020360659,2022020360,Stoppage,659,STOP,Visitor Timeout,2022-11-30T05:56:49Z,3,13:39,06:21,8,8,,,
+294,26,55,Los Angeles Kings,Seattle Kraken,2022020360754,2022020360,Faceoff,754,FACEOFF,Anze Kopitar faceoff won against Alex Wennberg,2022-11-30T05:58:21Z,3,13:39,06:21,8,8,26.0,Los Angeles Kings,LAK
+295,26,55,Los Angeles Kings,Seattle Kraken,2022020360755,2022020360,Missed Shot,755,MISSED_SHOT,Justin Schultz Wide of Net Cal Petersen,2022-11-30T05:58:52Z,3,14:10,05:50,8,8,55.0,Seattle Kraken,SEA
+296,26,55,Los Angeles Kings,Seattle Kraken,2022020360756,2022020360,Shot,756,SHOT,Matty Beniers Wrist Shot saved by Cal Petersen,2022-11-30T05:59:36Z,3,14:54,05:06,8,8,55.0,Seattle Kraken,SEA
+297,26,55,Los Angeles Kings,Seattle Kraken,2022020360757,2022020360,Shot,757,SHOT,Matty Beniers Wrap-around saved by Cal Petersen,2022-11-30T06:00:14Z,3,15:32,04:28,8,8,55.0,Seattle Kraken,SEA
+298,26,55,Los Angeles Kings,Seattle Kraken,2022020360758,2022020360,Shot,758,SHOT,Adam Larsson Slap Shot saved by Cal Petersen,2022-11-30T06:00:29Z,3,15:47,04:13,8,8,55.0,Seattle Kraken,SEA
+299,26,55,Los Angeles Kings,Seattle Kraken,2022020360759,2022020360,Missed Shot,759,MISSED_SHOT,Adam Larsson Wide of Net Cal Petersen,2022-11-30T06:00:44Z,3,16:02,03:58,8,8,55.0,Seattle Kraken,SEA
+300,26,55,Los Angeles Kings,Seattle Kraken,2022020360660,2022020360,Hit,660,HIT,Brandon Tanev hit Sean Walker,2022-11-30T06:01:13Z,3,16:31,03:29,8,8,55.0,Seattle Kraken,SEA
+301,26,55,Los Angeles Kings,Seattle Kraken,2022020360760,2022020360,Shot,760,SHOT,Anze Kopitar Wrist Shot saved by Martin Jones,2022-11-30T06:01:18Z,3,16:36,03:24,8,8,26.0,Los Angeles Kings,LAK
+302,26,55,Los Angeles Kings,Seattle Kraken,2022020360661,2022020360,Hit,661,HIT,Adrian Kempe hit Carson Soucy,2022-11-30T06:01:21Z,3,16:39,03:21,8,8,26.0,Los Angeles Kings,LAK
+303,26,55,Los Angeles Kings,Seattle Kraken,2022020360276,2022020360,Shot,276,SHOT,Kevin Fiala Snap Shot saved by Martin Jones,2022-11-30T06:01:26Z,3,16:44,03:16,8,8,26.0,Los Angeles Kings,LAK
+304,26,55,Los Angeles Kings,Seattle Kraken,2022020360662,2022020360,Hit,662,HIT,Mikey Anderson hit Oliver Bjorkstrand,2022-11-30T06:01:35Z,3,16:53,03:07,8,8,26.0,Los Angeles Kings,LAK
+305,26,55,Los Angeles Kings,Seattle Kraken,2022020360663,2022020360,Hit,663,HIT,Kevin Fiala hit Oliver Bjorkstrand,2022-11-30T06:01:52Z,3,17:10,02:50,8,8,26.0,Los Angeles Kings,LAK
+306,26,55,Los Angeles Kings,Seattle Kraken,2022020360277,2022020360,Hit,277,HIT,Sean Durzi hit Jaden Schwartz,2022-11-30T06:02:18Z,3,17:27,02:33,8,8,26.0,Los Angeles Kings,LAK
+307,26,55,Los Angeles Kings,Seattle Kraken,2022020360665,2022020360,Hit,665,HIT,Jamie Oleksiak hit Viktor Arvidsson,2022-11-30T06:02:30Z,3,17:39,02:21,8,8,55.0,Seattle Kraken,SEA
+308,26,55,Los Angeles Kings,Seattle Kraken,2022020360762,2022020360,Shot,762,SHOT,Jaden Schwartz Slap Shot saved by Cal Petersen,2022-11-30T06:02:40Z,3,17:49,02:11,8,8,55.0,Seattle Kraken,SEA
+309,26,55,Los Angeles Kings,Seattle Kraken,2022020360666,2022020360,Hit,666,HIT,Jared McCann hit Alexander Edler,2022-11-30T06:03:03Z,3,18:12,01:48,8,8,55.0,Seattle Kraken,SEA
+310,26,55,Los Angeles Kings,Seattle Kraken,2022020360667,2022020360,Hit,667,HIT,Jordan Eberle hit Alexander Edler,2022-11-30T06:03:19Z,3,18:28,01:32,8,8,55.0,Seattle Kraken,SEA
+311,26,55,Los Angeles Kings,Seattle Kraken,2022020360763,2022020360,Shot,763,SHOT,Alexander Edler Wrist Shot saved by Martin Jones,2022-11-30T06:03:20Z,3,18:29,01:31,8,8,26.0,Los Angeles Kings,LAK
+312,26,55,Los Angeles Kings,Seattle Kraken,2022020360668,2022020360,Hit,668,HIT,Jamie Oleksiak hit Viktor Arvidsson,2022-11-30T06:04:27Z,3,19:36,00:24,8,8,55.0,Seattle Kraken,SEA
+313,26,55,Los Angeles Kings,Seattle Kraken,2022020360669,2022020360,Period End,669,PERIOD_END,End of 3rd Period,2022-11-30T06:04:53Z,3,20:00,00:00,8,8,,,
+314,26,55,Los Angeles Kings,Seattle Kraken,2022020360672,2022020360,Period Official,672,PERIOD_OFFICIAL,Period Official,2022-11-30T06:06:24Z,3,20:00,00:00,8,8,,,
+315,26,55,Los Angeles Kings,Seattle Kraken,2022020360673,2022020360,Period Ready,673,PERIOD_READY,Period Ready,2022-11-30T06:08:26Z,4,00:00,05:00,8,8,,,
+316,26,55,Los Angeles Kings,Seattle Kraken,2022020360764,2022020360,Period Start,764,PERIOD_START,Period Start,2022-11-30T06:08:35Z,4,00:00,05:00,8,8,,,
+317,26,55,Los Angeles Kings,Seattle Kraken,2022020360765,2022020360,Faceoff,765,FACEOFF,Anze Kopitar faceoff won against Alex Wennberg,2022-11-30T06:08:35Z,4,00:00,05:00,8,8,26.0,Los Angeles Kings,LAK
+318,26,55,Los Angeles Kings,Seattle Kraken,2022020360674,2022020360,Hit,674,HIT,Alex Wennberg hit Adrian Kempe,2022-11-30T06:09:17Z,4,00:42,04:18,8,8,55.0,Seattle Kraken,SEA
+319,26,55,Los Angeles Kings,Seattle Kraken,2022020360675,2022020360,Hit,675,HIT,Adrian Kempe hit Vince Dunn,2022-11-30T06:09:44Z,4,01:09,03:51,8,8,26.0,Los Angeles Kings,LAK
+320,26,55,Los Angeles Kings,Seattle Kraken,2022020360676,2022020360,Penalty,676,PENALTY,Too many men/ice served by Kevin Fiala,2022-11-30T06:09:56Z,4,01:22,03:38,8,8,26.0,Los Angeles Kings,LAK
+321,26,55,Los Angeles Kings,Seattle Kraken,2022020360766,2022020360,Faceoff,766,FACEOFF,Jared McCann faceoff won against Phillip Danault,2022-11-30T06:10:46Z,4,01:22,03:38,8,8,55.0,Seattle Kraken,SEA
+322,26,55,Los Angeles Kings,Seattle Kraken,2022020360679,2022020360,Hit,679,HIT,Alexander Edler hit Andre Burakovsky,2022-11-30T06:10:57Z,4,01:33,03:27,8,8,26.0,Los Angeles Kings,LAK
+323,26,55,Los Angeles Kings,Seattle Kraken,2022020360767,2022020360,Missed Shot,767,MISSED_SHOT,Jared McCann Goalpost Cal Petersen,2022-11-30T06:11:08Z,4,01:44,03:16,8,8,55.0,Seattle Kraken,SEA
+324,26,55,Los Angeles Kings,Seattle Kraken,2022020360680,2022020360,Period End,680,PERIOD_END,End of OT,2022-11-30T06:11:32Z,4,02:08,02:52,8,8,,,
+325,26,55,Los Angeles Kings,Seattle Kraken,2022020360768,2022020360,Goal,768,GOAL,"Andre Burakovsky (9) Snap Shot, assists: Jordan Eberle (15), Vince Dunn (10)",2022-11-30T06:11:32Z,4,02:08,02:52,8,9,55.0,Seattle Kraken,SEA
+326,26,55,Los Angeles Kings,Seattle Kraken,2022020360683,2022020360,Period Official,683,PERIOD_OFFICIAL,Period Official,2022-11-30T06:12:05Z,4,02:08,02:52,8,9,,,
+327,26,55,Los Angeles Kings,Seattle Kraken,2022020360684,2022020360,Game End,684,GAME_END,Game End,2022-11-30T06:12:06Z,4,02:08,02:52,8,9,,,
+328,26,55,Los Angeles Kings,Seattle Kraken,20220203601192,2022020360,Game Official,1192,GAME_OFFICIAL,Game Official,2022-11-30T16:22:35Z,4,02:08,02:52,8,9,,,

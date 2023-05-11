@@ -1,0 +1,338 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,5,17,Pittsburgh Penguins,Detroit Red Wings,20220205601,2022020560,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-12-28T23:47:39Z,1,00:00,20:00,0,0,,,
+1,5,17,Pittsburgh Penguins,Detroit Red Wings,20220205605,2022020560,Period Ready,5,PERIOD_READY,Period Ready,2022-12-29T00:36:19Z,1,00:00,20:00,0,0,,,
+2,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056051,2022020560,Period Start,51,PERIOD_START,Period Start,2022-12-29T00:38:31Z,1,00:00,20:00,0,0,,,
+3,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056053,2022020560,Faceoff,53,FACEOFF,Michael Rasmussen faceoff won against Sidney Crosby,2022-12-29T00:38:31Z,1,00:00,20:00,0,0,17.0,Detroit Red Wings,DET
+4,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056054,2022020560,Takeaway,54,TAKEAWAY,Takeaway by Dylan Larkin,2022-12-29T00:38:54Z,1,00:23,19:37,0,0,17.0,Detroit Red Wings,DET
+5,5,17,Pittsburgh Penguins,Detroit Red Wings,20220205608,2022020560,Giveaway,8,GIVEAWAY,Giveaway by Marcus Pettersson,2022-12-29T00:39:01Z,1,00:30,19:30,0,0,5.0,Pittsburgh Penguins,PIT
+6,5,17,Pittsburgh Penguins,Detroit Red Wings,20220205609,2022020560,Giveaway,9,GIVEAWAY,Giveaway by Lucas Raymond,2022-12-29T00:39:04Z,1,00:33,19:27,0,0,17.0,Detroit Red Wings,DET
+7,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560151,2022020560,Shot,151,SHOT,Jake Walman Snap Shot saved by Casey DeSmith,2022-12-29T00:39:24Z,1,00:53,19:07,0,0,17.0,Detroit Red Wings,DET
+8,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560152,2022020560,Shot,152,SHOT,Olli Maatta Wrist Shot saved by Casey DeSmith,2022-12-29T00:40:26Z,1,01:55,18:05,0,0,17.0,Detroit Red Wings,DET
+9,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056010,2022020560,Stoppage,10,STOP,Goalie Stopped,2022-12-29T00:40:28Z,1,01:56,18:04,0,0,,,
+10,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056055,2022020560,Faceoff,55,FACEOFF,Teddy Blueger faceoff won against Joe Veleno,2022-12-29T00:41:03Z,1,01:56,18:04,0,0,5.0,Pittsburgh Penguins,PIT
+11,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056011,2022020560,Giveaway,11,GIVEAWAY,Giveaway by Drew O'Connor,2022-12-29T00:41:13Z,1,02:06,17:54,0,0,5.0,Pittsburgh Penguins,PIT
+12,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056056,2022020560,Hit,56,HIT,Marcus Pettersson hit Jonatan Berggren,2022-12-29T00:41:26Z,1,02:19,17:41,0,0,5.0,Pittsburgh Penguins,PIT
+13,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056012,2022020560,Takeaway,12,TAKEAWAY,Takeaway by Teddy Blueger,2022-12-29T00:41:38Z,1,02:31,17:29,0,0,5.0,Pittsburgh Penguins,PIT
+14,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560153,2022020560,Goal,153,GOAL,"Drew O'Connor (1) Wrist Shot, assists: Kasperi Kapanen (9), Teddy Blueger (6)",2022-12-29T00:41:42Z,1,02:36,17:24,1,0,5.0,Pittsburgh Penguins,PIT
+15,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056057,2022020560,Faceoff,57,FACEOFF,Michael Rasmussen faceoff won against Sidney Crosby,2022-12-29T00:42:26Z,1,02:36,17:24,1,0,17.0,Detroit Red Wings,DET
+16,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560154,2022020560,Shot,154,SHOT,Ben Chiarot Wrist Shot saved by Casey DeSmith,2022-12-29T00:42:40Z,1,02:50,17:10,1,0,17.0,Detroit Red Wings,DET
+17,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056058,2022020560,Stoppage,58,STOP,Goalie Stopped,2022-12-29T00:42:40Z,1,02:51,17:09,1,0,,,
+18,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056059,2022020560,Faceoff,59,FACEOFF,Dylan Larkin faceoff won against Sidney Crosby,2022-12-29T00:43:14Z,1,02:51,17:09,1,0,17.0,Detroit Red Wings,DET
+19,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560155,2022020560,Shot,155,SHOT,Michael Rasmussen Tip-In saved by Casey DeSmith,2022-12-29T00:43:18Z,1,02:55,17:05,1,0,17.0,Detroit Red Wings,DET
+20,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056060,2022020560,Hit,60,HIT,David Perron hit Marcus Pettersson,2022-12-29T00:43:21Z,1,02:58,17:02,1,0,17.0,Detroit Red Wings,DET
+21,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056013,2022020560,Blocked Shot,13,BLOCKED_SHOT,Ben Chiarot shot blocked shot by Kris Letang,2022-12-29T00:43:25Z,1,03:02,16:58,1,0,5.0,Pittsburgh Penguins,PIT
+22,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560156,2022020560,Shot,156,SHOT,Sidney Crosby Wrist Shot saved by Ville Husso,2022-12-29T00:43:29Z,1,03:06,16:54,1,0,5.0,Pittsburgh Penguins,PIT
+23,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056014,2022020560,Stoppage,14,STOP,Goalie Stopped,2022-12-29T00:43:42Z,1,03:19,16:41,1,0,,,
+24,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056061,2022020560,Faceoff,61,FACEOFF,Evgeni Malkin faceoff won against Michael Rasmussen,2022-12-29T00:44:24Z,1,03:19,16:41,1,0,5.0,Pittsburgh Penguins,PIT
+25,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560157,2022020560,Blocked Shot,157,BLOCKED_SHOT,Evgeni Malkin shot blocked shot by Michael Rasmussen,2022-12-29T00:44:28Z,1,03:23,16:37,1,0,17.0,Detroit Red Wings,DET
+26,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056015,2022020560,Stoppage,15,STOP,Puck in Netting,2022-12-29T00:44:30Z,1,03:25,16:35,1,0,,,
+27,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056062,2022020560,Faceoff,62,FACEOFF,Andrew Copp faceoff won against Evgeni Malkin,2022-12-29T00:45:03Z,1,03:25,16:35,1,0,17.0,Detroit Red Wings,DET
+28,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056063,2022020560,Hit,63,HIT,Jason Zucker hit Filip Hronek,2022-12-29T00:45:09Z,1,03:31,16:29,1,0,5.0,Pittsburgh Penguins,PIT
+29,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560143,2022020560,Penalty,143,PENALTY,Pierre-Olivier Joseph High-sticking against Filip Hronek,2022-12-29T00:46:09Z,1,04:31,15:29,1,0,5.0,Pittsburgh Penguins,PIT
+30,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056065,2022020560,Faceoff,65,FACEOFF,Michael Rasmussen faceoff won against Teddy Blueger,2022-12-29T00:46:53Z,1,04:31,15:29,1,0,17.0,Detroit Red Wings,DET
+31,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056066,2022020560,Giveaway,66,GIVEAWAY,Giveaway by Dylan Larkin,2022-12-29T00:47:35Z,1,05:13,14:47,1,0,17.0,Detroit Red Wings,DET
+32,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560158,2022020560,Shot,158,SHOT,Filip Hronek Snap Shot saved by Casey DeSmith,2022-12-29T00:47:41Z,1,05:19,14:41,1,0,17.0,Detroit Red Wings,DET
+33,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560159,2022020560,Shot,159,SHOT,Dominik Kubalik Slap Shot saved by Casey DeSmith,2022-12-29T00:48:21Z,1,05:59,14:01,1,0,17.0,Detroit Red Wings,DET
+34,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056017,2022020560,Shot,17,SHOT,Joe Veleno Wrist Shot saved by Casey DeSmith,2022-12-29T00:48:25Z,1,06:03,13:57,1,0,17.0,Detroit Red Wings,DET
+35,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056018,2022020560,Stoppage,18,STOP,Goalie Stopped,2022-12-29T00:48:26Z,1,06:04,13:56,1,0,,,
+36,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056067,2022020560,Faceoff,67,FACEOFF,Jeff Carter faceoff won against Joe Veleno,2022-12-29T00:48:56Z,1,06:04,13:56,1,0,5.0,Pittsburgh Penguins,PIT
+37,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560160,2022020560,Shot,160,SHOT,Joe Veleno Snap Shot saved by Casey DeSmith,2022-12-29T00:49:15Z,1,06:23,13:37,1,0,17.0,Detroit Red Wings,DET
+38,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560161,2022020560,Shot,161,SHOT,Jonatan Berggren Snap Shot saved by Casey DeSmith,2022-12-29T00:49:26Z,1,06:34,13:26,1,0,17.0,Detroit Red Wings,DET
+39,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056068,2022020560,Hit,68,HIT,Jeff Carter hit Andrew Copp,2022-12-29T00:49:30Z,1,06:38,13:22,1,0,5.0,Pittsburgh Penguins,PIT
+40,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056069,2022020560,Giveaway,69,GIVEAWAY,Giveaway by Brian Dumoulin,2022-12-29T00:49:42Z,1,06:50,13:10,1,0,5.0,Pittsburgh Penguins,PIT
+41,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560162,2022020560,Shot,162,SHOT,Rickard Rakell Wrist Shot saved by Ville Husso,2022-12-29T00:49:57Z,1,07:05,12:55,1,0,5.0,Pittsburgh Penguins,PIT
+42,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056019,2022020560,Stoppage,19,STOP,Goalie Stopped,2022-12-29T00:49:58Z,1,07:06,12:54,1,0,,,
+43,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056070,2022020560,Faceoff,70,FACEOFF,Andrew Copp faceoff won against Sidney Crosby,2022-12-29T00:52:14Z,1,07:06,12:54,1,0,17.0,Detroit Red Wings,DET
+44,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056021,2022020560,Takeaway,21,TAKEAWAY,Takeaway by Kris Letang,2022-12-29T00:52:27Z,1,07:19,12:41,1,0,5.0,Pittsburgh Penguins,PIT
+45,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560163,2022020560,Blocked Shot,163,BLOCKED_SHOT,Rickard Rakell shot blocked shot by Ben Chiarot,2022-12-29T00:52:33Z,1,07:25,12:35,1,0,17.0,Detroit Red Wings,DET
+46,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056020,2022020560,Stoppage,20,STOP,Puck in Netting,2022-12-29T00:52:34Z,1,07:26,12:34,1,0,,,
+47,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056071,2022020560,Faceoff,71,FACEOFF,Pius Suter faceoff won against Evgeni Malkin,2022-12-29T00:53:01Z,1,07:26,12:34,1,0,17.0,Detroit Red Wings,DET
+48,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056072,2022020560,Hit,72,HIT,Michael Rasmussen hit Jan Rutta,2022-12-29T00:54:12Z,1,08:37,11:23,1,0,17.0,Detroit Red Wings,DET
+49,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560232,2022020560,Penalty,232,PENALTY,David Perron Hooking against Brian Dumoulin,2022-12-29T00:54:23Z,1,08:48,11:12,1,0,17.0,Detroit Red Wings,DET
+50,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056073,2022020560,Faceoff,73,FACEOFF,Sidney Crosby faceoff won against Andrew Copp,2022-12-29T00:55:27Z,1,08:48,11:12,1,0,5.0,Pittsburgh Penguins,PIT
+51,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560164,2022020560,Blocked Shot,164,BLOCKED_SHOT,Evgeni Malkin shot blocked shot by Moritz Seider,2022-12-29T00:56:07Z,1,09:28,10:32,1,0,17.0,Detroit Red Wings,DET
+52,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056074,2022020560,Takeaway,74,TAKEAWAY,Takeaway by Jake Walman,2022-12-29T00:56:26Z,1,09:47,10:13,1,0,17.0,Detroit Red Wings,DET
+53,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560165,2022020560,Goal,165,GOAL,"Jeff Carter (5) Wrist Shot, assists: Kasperi Kapanen (10), Bryan Rust (13)",2022-12-29T00:56:55Z,1,10:15,09:45,2,0,5.0,Pittsburgh Penguins,PIT
+54,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056075,2022020560,Faceoff,75,FACEOFF,Pius Suter faceoff won against Jeff Carter,2022-12-29T00:57:44Z,1,10:15,09:45,2,0,17.0,Detroit Red Wings,DET
+55,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056076,2022020560,Giveaway,76,GIVEAWAY,Giveaway by Brock McGinn,2022-12-29T00:57:58Z,1,10:29,09:31,2,0,5.0,Pittsburgh Penguins,PIT
+56,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560166,2022020560,Shot,166,SHOT,Oskar Sundqvist Slap Shot saved by Casey DeSmith,2022-12-29T00:57:58Z,1,10:29,09:31,2,0,17.0,Detroit Red Wings,DET
+57,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560167,2022020560,Shot,167,SHOT,Pius Suter Wrist Shot saved by Casey DeSmith,2022-12-29T00:58:04Z,1,10:35,09:25,2,0,17.0,Detroit Red Wings,DET
+58,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056077,2022020560,Stoppage,77,STOP,Puck in Netting,2022-12-29T00:58:05Z,1,10:37,09:23,2,0,,,
+59,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056079,2022020560,Faceoff,79,FACEOFF,Teddy Blueger faceoff won against Elmer Soderblom,2022-12-29T01:00:45Z,1,10:37,09:23,2,0,5.0,Pittsburgh Penguins,PIT
+60,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560402,2022020560,Hit,402,HIT,Jan Rutta hit Elmer Soderblom,2022-12-29T01:01:04Z,1,10:56,09:04,2,0,5.0,Pittsburgh Penguins,PIT
+61,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560168,2022020560,Shot,168,SHOT,Drew O'Connor Wrist Shot saved by Ville Husso,2022-12-29T01:01:19Z,1,11:11,08:49,2,0,5.0,Pittsburgh Penguins,PIT
+62,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560169,2022020560,Shot,169,SHOT,Michael Rasmussen Wrist Shot saved by Casey DeSmith,2022-12-29T01:02:02Z,1,11:54,08:06,2,0,17.0,Detroit Red Wings,DET
+63,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056080,2022020560,Hit,80,HIT,Moritz Seider hit Pierre-Olivier Joseph,2022-12-29T01:02:17Z,1,12:09,07:51,2,0,17.0,Detroit Red Wings,DET
+64,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056022,2022020560,Blocked Shot,22,BLOCKED_SHOT,Mark Friedman shot blocked shot by Jake Walman,2022-12-29T01:02:24Z,1,12:16,07:44,2,0,17.0,Detroit Red Wings,DET
+65,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056081,2022020560,Giveaway,81,GIVEAWAY,Giveaway by Pierre-Olivier Joseph,2022-12-29T01:02:32Z,1,12:24,07:36,2,0,5.0,Pittsburgh Penguins,PIT
+66,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560170,2022020560,Missed Shot,170,MISSED_SHOT,Jake Guentzel Wide of Net Ville Husso,2022-12-29T01:03:01Z,1,12:53,07:07,2,0,5.0,Pittsburgh Penguins,PIT
+67,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560171,2022020560,Shot,171,SHOT,Jan Rutta Wrist Shot saved by Ville Husso,2022-12-29T01:03:07Z,1,12:59,07:01,2,0,5.0,Pittsburgh Penguins,PIT
+68,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056082,2022020560,Hit,82,HIT,Olli Maatta hit Jake Guentzel,2022-12-29T01:03:19Z,1,13:11,06:49,2,0,17.0,Detroit Red Wings,DET
+69,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056023,2022020560,Hit,23,HIT,Danton Heinen hit Jordan Oesterle,2022-12-29T01:03:20Z,1,13:12,06:48,2,0,5.0,Pittsburgh Penguins,PIT
+70,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056083,2022020560,Giveaway,83,GIVEAWAY,Giveaway by Jake Guentzel,2022-12-29T01:03:33Z,1,13:25,06:35,2,0,5.0,Pittsburgh Penguins,PIT
+71,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056084,2022020560,Hit,84,HIT,Brock McGinn hit Ben Chiarot,2022-12-29T01:04:00Z,1,13:52,06:08,2,0,5.0,Pittsburgh Penguins,PIT
+72,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560172,2022020560,Blocked Shot,172,BLOCKED_SHOT,Marcus Pettersson shot blocked shot by Oskar Sundqvist,2022-12-29T01:04:03Z,1,13:55,06:05,2,0,17.0,Detroit Red Wings,DET
+73,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056024,2022020560,Stoppage,24,STOP,Puck in Netting,2022-12-29T01:04:05Z,1,13:56,06:04,2,0,,,
+74,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056085,2022020560,Faceoff,85,FACEOFF,Jonatan Berggren faceoff won against Evgeni Malkin,2022-12-29T01:04:52Z,1,13:56,06:04,2,0,17.0,Detroit Red Wings,DET
+75,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560173,2022020560,Goal,173,GOAL,"Jason Zucker (7) Backhand, assists: none",2022-12-29T01:05:11Z,1,14:15,05:45,3,0,5.0,Pittsburgh Penguins,PIT
+76,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056086,2022020560,Faceoff,86,FACEOFF,Michael Rasmussen faceoff won against Sidney Crosby,2022-12-29T01:05:59Z,1,14:15,05:45,3,0,17.0,Detroit Red Wings,DET
+77,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056087,2022020560,Hit,87,HIT,Marcus Pettersson hit Jordan Oesterle,2022-12-29T01:06:17Z,1,14:33,05:27,3,0,5.0,Pittsburgh Penguins,PIT
+78,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056088,2022020560,Hit,88,HIT,Kris Letang hit Michael Rasmussen,2022-12-29T01:06:35Z,1,14:51,05:09,3,0,5.0,Pittsburgh Penguins,PIT
+79,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056089,2022020560,Hit,89,HIT,Adam Erne hit Teddy Blueger,2022-12-29T01:06:59Z,1,15:15,04:45,3,0,17.0,Detroit Red Wings,DET
+80,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056090,2022020560,Hit,90,HIT,Pius Suter hit Mark Friedman,2022-12-29T01:07:45Z,1,16:01,03:59,3,0,17.0,Detroit Red Wings,DET
+81,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560174,2022020560,Blocked Shot,174,BLOCKED_SHOT,Jeff Carter shot blocked shot by Jake Walman,2022-12-29T01:07:54Z,1,16:10,03:50,3,0,17.0,Detroit Red Wings,DET
+82,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056091,2022020560,Hit,91,HIT,Jake Walman hit Jeff Carter,2022-12-29T01:07:57Z,1,16:13,03:47,3,0,17.0,Detroit Red Wings,DET
+83,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560175,2022020560,Shot,175,SHOT,Danton Heinen Wrist Shot saved by Ville Husso,2022-12-29T01:08:18Z,1,16:34,03:26,3,0,5.0,Pittsburgh Penguins,PIT
+84,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056025,2022020560,Shot,25,SHOT,Brock McGinn Wrist Shot saved by Ville Husso,2022-12-29T01:08:21Z,1,16:37,03:23,3,0,5.0,Pittsburgh Penguins,PIT
+85,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056026,2022020560,Stoppage,26,STOP,Icing,2022-12-29T01:08:38Z,1,16:53,03:07,3,0,,,
+86,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056092,2022020560,Faceoff,92,FACEOFF,Joe Veleno faceoff won against Evgeni Malkin,2022-12-29T01:09:01Z,1,16:53,03:07,3,0,17.0,Detroit Red Wings,DET
+87,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056093,2022020560,Hit,93,HIT,Kris Letang hit Elmer Soderblom,2022-12-29T01:09:12Z,1,17:04,02:56,3,0,5.0,Pittsburgh Penguins,PIT
+88,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056094,2022020560,Giveaway,94,GIVEAWAY,Giveaway by Moritz Seider,2022-12-29T01:09:43Z,1,17:35,02:25,3,0,17.0,Detroit Red Wings,DET
+89,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560176,2022020560,Shot,176,SHOT,Dylan Larkin Snap Shot saved by Casey DeSmith,2022-12-29T01:10:01Z,1,17:53,02:07,3,0,17.0,Detroit Red Wings,DET
+90,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056095,2022020560,Giveaway,95,GIVEAWAY,Giveaway by David Perron,2022-12-29T01:10:19Z,1,18:11,01:49,3,0,17.0,Detroit Red Wings,DET
+91,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056028,2022020560,Stoppage,28,STOP,TV timeout,2022-12-29T01:10:24Z,1,18:17,01:43,3,0,,,
+92,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560517,2022020560,Penalty,517,PENALTY,David Perron Interference against Mark Friedman,2022-12-29T01:10:24Z,1,18:17,01:43,3,0,17.0,Detroit Red Wings,DET
+93,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056096,2022020560,Faceoff,96,FACEOFF,Sidney Crosby faceoff won against Andrew Copp,2022-12-29T01:12:50Z,1,18:17,01:43,3,0,5.0,Pittsburgh Penguins,PIT
+94,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560177,2022020560,Shot,177,SHOT,Andrew Copp Wrist Shot saved by Casey DeSmith,2022-12-29T01:13:06Z,1,18:33,01:27,3,0,17.0,Detroit Red Wings,DET
+95,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056097,2022020560,Giveaway,97,GIVEAWAY,Giveaway by Jake Guentzel,2022-12-29T01:13:08Z,1,18:35,01:25,3,0,5.0,Pittsburgh Penguins,PIT
+96,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560178,2022020560,Shot,178,SHOT,Rickard Rakell Tip-In saved by Ville Husso,2022-12-29T01:13:48Z,1,19:15,00:45,3,0,5.0,Pittsburgh Penguins,PIT
+97,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056098,2022020560,Stoppage,98,STOP,Goalie Stopped,2022-12-29T01:13:50Z,1,19:16,00:44,3,0,,,
+98,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056099,2022020560,Faceoff,99,FACEOFF,Jeff Carter faceoff won against Pius Suter,2022-12-29T01:14:25Z,1,19:16,00:44,3,0,5.0,Pittsburgh Penguins,PIT
+99,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560180,2022020560,Shot,180,SHOT,Jeff Carter Tip-In saved by Ville Husso,2022-12-29T01:14:34Z,1,19:26,00:34,3,0,5.0,Pittsburgh Penguins,PIT
+100,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560179,2022020560,Goal,179,GOAL,"Jason Zucker (8) Tip-In, assists: Jeff Carter (11), Bryan Rust (14)",2022-12-29T01:14:36Z,1,19:27,00:33,4,0,5.0,Pittsburgh Penguins,PIT
+101,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560251,2022020560,Faceoff,251,FACEOFF,Teddy Blueger faceoff won against Michael Rasmussen,2022-12-29T01:17:09Z,1,19:27,00:33,4,0,5.0,Pittsburgh Penguins,PIT
+102,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560253,2022020560,Hit,253,HIT,Michael Rasmussen hit Kris Letang,2022-12-29T01:17:26Z,1,19:44,00:16,4,0,17.0,Detroit Red Wings,DET
+103,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560252,2022020560,Hit,252,HIT,Michael Rasmussen hit Kris Letang,2022-12-29T01:17:40Z,1,19:58,00:02,4,0,17.0,Detroit Red Wings,DET
+104,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056029,2022020560,Period End,29,PERIOD_END,End of 1st Period,2022-12-29T01:17:42Z,1,20:00,00:00,4,0,,,
+105,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056032,2022020560,Period Official,32,PERIOD_OFFICIAL,Period Official,2022-12-29T01:17:49Z,1,20:00,00:00,4,0,,,
+106,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056033,2022020560,Period Ready,33,PERIOD_READY,Period Ready,2022-12-29T01:35:27Z,2,00:00,20:00,4,0,,,
+107,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560254,2022020560,Period Start,254,PERIOD_START,Period Start,2022-12-29T01:36:16Z,2,00:00,20:00,4,0,,,
+108,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560255,2022020560,Faceoff,255,FACEOFF,Michael Rasmussen faceoff won against Sidney Crosby,2022-12-29T01:36:16Z,2,00:00,20:00,4,0,17.0,Detroit Red Wings,DET
+109,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056034,2022020560,Hit,34,HIT,Moritz Seider hit Rickard Rakell,2022-12-29T01:36:27Z,2,00:11,19:49,4,0,17.0,Detroit Red Wings,DET
+110,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560181,2022020560,Missed Shot,181,MISSED_SHOT,Kris Letang Wide of Net Magnus Hellberg,2022-12-29T01:36:28Z,2,00:12,19:48,4,0,5.0,Pittsburgh Penguins,PIT
+111,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560182,2022020560,Blocked Shot,182,BLOCKED_SHOT,Kris Letang shot blocked shot by Michael Rasmussen,2022-12-29T01:36:42Z,2,00:26,19:34,4,0,17.0,Detroit Red Wings,DET
+112,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560183,2022020560,Shot,183,SHOT,Marcus Pettersson Backhand saved by Magnus Hellberg,2022-12-29T01:36:53Z,2,00:37,19:23,4,0,5.0,Pittsburgh Penguins,PIT
+113,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560256,2022020560,Takeaway,256,TAKEAWAY,Takeaway by Sidney Crosby,2022-12-29T01:36:56Z,2,00:40,19:20,4,0,5.0,Pittsburgh Penguins,PIT
+114,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560184,2022020560,Missed Shot,184,MISSED_SHOT,Marcus Pettersson Wide of Net Magnus Hellberg,2022-12-29T01:37:04Z,2,00:48,19:12,4,0,5.0,Pittsburgh Penguins,PIT
+115,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560403,2022020560,Shot,403,SHOT,Jake Guentzel Wrist Shot saved by Magnus Hellberg,2022-12-29T01:37:09Z,2,00:53,19:07,4,0,5.0,Pittsburgh Penguins,PIT
+116,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560257,2022020560,Hit,257,HIT,Moritz Seider hit Jake Guentzel,2022-12-29T01:37:13Z,2,00:57,19:03,4,0,17.0,Detroit Red Wings,DET
+117,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560258,2022020560,Takeaway,258,TAKEAWAY,Takeaway by Andrew Copp,2022-12-29T01:37:26Z,2,01:10,18:50,4,0,17.0,Detroit Red Wings,DET
+118,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056035,2022020560,Stoppage,35,STOP,Puck Frozen,2022-12-29T01:37:52Z,2,01:35,18:25,4,0,,,
+119,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560259,2022020560,Faceoff,259,FACEOFF,Jeff Carter faceoff won against Pius Suter,2022-12-29T01:38:27Z,2,01:35,18:25,4,0,5.0,Pittsburgh Penguins,PIT
+120,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056036,2022020560,Stoppage,36,STOP,Offside,2022-12-29T01:38:37Z,2,01:44,18:16,4,0,,,
+121,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560260,2022020560,Faceoff,260,FACEOFF,Pius Suter faceoff won against Jeff Carter,2022-12-29T01:38:57Z,2,01:44,18:16,4,0,17.0,Detroit Red Wings,DET
+122,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560186,2022020560,Missed Shot,186,MISSED_SHOT,Brock McGinn Wide of Net Magnus Hellberg,2022-12-29T01:39:18Z,2,02:05,17:55,4,0,5.0,Pittsburgh Penguins,PIT
+123,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056037,2022020560,Stoppage,37,STOP,Icing,2022-12-29T01:39:43Z,2,02:30,17:30,4,0,,,
+124,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560261,2022020560,Faceoff,261,FACEOFF,Pius Suter faceoff won against Sidney Crosby,2022-12-29T01:40:05Z,2,02:30,17:30,4,0,17.0,Detroit Red Wings,DET
+125,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560187,2022020560,Shot,187,SHOT,Pius Suter Wrist Shot saved by Casey DeSmith,2022-12-29T01:40:17Z,2,02:42,17:18,4,0,17.0,Detroit Red Wings,DET
+126,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560188,2022020560,Blocked Shot,188,BLOCKED_SHOT,Sidney Crosby shot blocked shot by Joe Veleno,2022-12-29T01:40:41Z,2,03:06,16:54,4,0,17.0,Detroit Red Wings,DET
+127,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056038,2022020560,Shot,38,SHOT,Marcus Pettersson Snap Shot saved by Magnus Hellberg,2022-12-29T01:40:44Z,2,03:09,16:51,4,0,5.0,Pittsburgh Penguins,PIT
+128,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560262,2022020560,Hit,262,HIT,Kris Letang hit Jonatan Berggren,2022-12-29T01:40:55Z,2,03:20,16:40,4,0,5.0,Pittsburgh Penguins,PIT
+129,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560189,2022020560,Shot,189,SHOT,Sidney Crosby Wrist Shot saved by Magnus Hellberg,2022-12-29T01:41:03Z,2,03:28,16:32,4,0,5.0,Pittsburgh Penguins,PIT
+130,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560190,2022020560,Blocked Shot,190,BLOCKED_SHOT,Jonatan Berggren shot blocked shot by Marcus Pettersson,2022-12-29T01:41:13Z,2,03:38,16:22,4,0,5.0,Pittsburgh Penguins,PIT
+131,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056039,2022020560,Stoppage,39,STOP,Puck in Netting,2022-12-29T01:41:15Z,2,03:40,16:20,4,0,,,
+132,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560263,2022020560,Faceoff,263,FACEOFF,Jeff Carter faceoff won against Michael Rasmussen,2022-12-29T01:41:47Z,2,03:40,16:20,4,0,5.0,Pittsburgh Penguins,PIT
+133,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560264,2022020560,Hit,264,HIT,Michael Rasmussen hit Kasperi Kapanen,2022-12-29T01:41:55Z,2,03:48,16:12,4,0,17.0,Detroit Red Wings,DET
+134,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560191,2022020560,Shot,191,SHOT,Filip Hronek Snap Shot saved by Casey DeSmith,2022-12-29T01:42:53Z,2,04:46,15:14,4,0,17.0,Detroit Red Wings,DET
+135,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560192,2022020560,Shot,192,SHOT,Bryan Rust Wrist Shot saved by Magnus Hellberg,2022-12-29T01:43:20Z,2,05:13,14:47,4,0,5.0,Pittsburgh Penguins,PIT
+136,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560193,2022020560,Shot,193,SHOT,Marcus Pettersson Slap Shot saved by Magnus Hellberg,2022-12-29T01:44:01Z,2,05:54,14:06,4,0,5.0,Pittsburgh Penguins,PIT
+137,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056041,2022020560,Shot,41,SHOT,Jason Zucker Backhand saved by Magnus Hellberg,2022-12-29T01:44:03Z,2,05:56,14:04,4,0,5.0,Pittsburgh Penguins,PIT
+138,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056040,2022020560,Stoppage,40,STOP,Icing,2022-12-29T01:44:07Z,2,06:00,14:00,4,0,,,
+139,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560265,2022020560,Faceoff,265,FACEOFF,Sidney Crosby faceoff won against Pius Suter,2022-12-29T01:44:40Z,2,06:00,14:00,4,0,5.0,Pittsburgh Penguins,PIT
+140,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056042,2022020560,Stoppage,42,STOP,TV timeout,2022-12-29T01:44:43Z,2,06:03,13:57,4,0,,,
+141,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560581,2022020560,Penalty,581,PENALTY,Rickard Rakell Interference against Oskar Sundqvist,2022-12-29T01:44:43Z,2,06:03,13:57,4,0,5.0,Pittsburgh Penguins,PIT
+142,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560266,2022020560,Faceoff,266,FACEOFF,Michael Rasmussen faceoff won against Teddy Blueger,2022-12-29T01:47:05Z,2,06:03,13:57,4,0,17.0,Detroit Red Wings,DET
+143,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560194,2022020560,Shot,194,SHOT,David Perron Snap Shot saved by Casey DeSmith,2022-12-29T01:47:14Z,2,06:12,13:48,4,0,17.0,Detroit Red Wings,DET
+144,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560195,2022020560,Blocked Shot,195,BLOCKED_SHOT,Filip Hronek shot blocked shot by Teddy Blueger,2022-12-29T01:47:26Z,2,06:24,13:36,4,0,5.0,Pittsburgh Penguins,PIT
+145,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560196,2022020560,Blocked Shot,196,BLOCKED_SHOT,Filip Hronek shot blocked shot by Brock McGinn,2022-12-29T01:47:47Z,2,06:45,13:15,4,0,5.0,Pittsburgh Penguins,PIT
+146,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056043,2022020560,Shot,43,SHOT,Dylan Larkin Wrist Shot saved by Casey DeSmith,2022-12-29T01:47:49Z,2,06:47,13:13,4,0,17.0,Detroit Red Wings,DET
+147,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560267,2022020560,Hit,267,HIT,Lucas Raymond hit Brian Dumoulin,2022-12-29T01:47:55Z,2,06:53,13:07,4,0,17.0,Detroit Red Wings,DET
+148,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560198,2022020560,Missed Shot,198,MISSED_SHOT,Lucas Raymond Wide of Net Casey DeSmith,2022-12-29T01:48:16Z,2,07:14,12:46,4,0,17.0,Detroit Red Wings,DET
+149,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560197,2022020560,Goal,197,GOAL,"Dylan Larkin (13) Wrist Shot, assists: Lucas Raymond (11), Filip Hronek (19)",2022-12-29T01:48:19Z,2,07:17,12:43,4,1,17.0,Detroit Red Wings,DET
+150,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560268,2022020560,Faceoff,268,FACEOFF,Pius Suter faceoff won against Sidney Crosby,2022-12-29T01:49:04Z,2,07:17,12:43,4,1,17.0,Detroit Red Wings,DET
+151,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560269,2022020560,Takeaway,269,TAKEAWAY,Takeaway by Dominik Kubalik,2022-12-29T01:49:25Z,2,07:38,12:22,4,1,17.0,Detroit Red Wings,DET
+152,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560270,2022020560,Hit,270,HIT,Oskar Sundqvist hit Marcus Pettersson,2022-12-29T01:49:34Z,2,07:47,12:13,4,1,17.0,Detroit Red Wings,DET
+153,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560271,2022020560,Hit,271,HIT,Pius Suter hit Kris Letang,2022-12-29T01:49:47Z,2,08:00,12:00,4,1,17.0,Detroit Red Wings,DET
+154,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560199,2022020560,Shot,199,SHOT,Adam Erne Backhand saved by Casey DeSmith,2022-12-29T01:50:41Z,2,08:54,11:06,4,1,17.0,Detroit Red Wings,DET
+155,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560200,2022020560,Shot,200,SHOT,David Perron Wrist Shot saved by Casey DeSmith,2022-12-29T01:51:05Z,2,09:18,10:42,4,1,17.0,Detroit Red Wings,DET
+156,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560451,2022020560,Shot,451,SHOT,Dylan Larkin Wrist Shot saved by Casey DeSmith,2022-12-29T01:51:07Z,2,09:20,10:40,4,1,17.0,Detroit Red Wings,DET
+157,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056046,2022020560,Shot,46,SHOT,David Perron Wrist Shot saved by Casey DeSmith,2022-12-29T01:51:08Z,2,09:21,10:39,4,1,17.0,Detroit Red Wings,DET
+158,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560406,2022020560,Blocked Shot,406,BLOCKED_SHOT,Ben Chiarot shot blocked shot by Danton Heinen,2022-12-29T01:51:14Z,2,09:27,10:33,4,1,5.0,Pittsburgh Penguins,PIT
+159,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056047,2022020560,Missed Shot,47,MISSED_SHOT,Brock McGinn Wide of Net Magnus Hellberg,2022-12-29T01:51:28Z,2,09:41,10:19,4,1,5.0,Pittsburgh Penguins,PIT
+160,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560404,2022020560,Hit,404,HIT,Ben Chiarot hit Jeff Carter,2022-12-29T01:51:39Z,2,09:52,10:08,4,1,17.0,Detroit Red Wings,DET
+161,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560405,2022020560,Shot,405,SHOT,Filip Hronek Wrist Shot saved by Casey DeSmith,2022-12-29T01:51:40Z,2,09:53,10:07,4,1,17.0,Detroit Red Wings,DET
+162,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560272,2022020560,Takeaway,272,TAKEAWAY,Takeaway by Jake Walman,2022-12-29T01:51:56Z,2,10:09,09:51,4,1,17.0,Detroit Red Wings,DET
+163,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056048,2022020560,Stoppage,48,STOP,Icing,2022-12-29T01:52:01Z,2,10:14,09:46,4,1,,,
+164,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560273,2022020560,Faceoff,273,FACEOFF,Joe Veleno faceoff won against Sidney Crosby,2022-12-29T01:52:29Z,2,10:14,09:46,4,1,17.0,Detroit Red Wings,DET
+165,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056049,2022020560,Giveaway,49,GIVEAWAY,Giveaway by Filip Hronek,2022-12-29T01:52:36Z,2,10:21,09:39,4,1,17.0,Detroit Red Wings,DET
+166,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560274,2022020560,Hit,274,HIT,Jordan Oesterle hit Jake Guentzel,2022-12-29T01:52:58Z,2,10:43,09:17,4,1,17.0,Detroit Red Wings,DET
+167,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560452,2022020560,Missed Shot,452,MISSED_SHOT,Marcus Pettersson Wide of Net Magnus Hellberg,2022-12-29T01:53:14Z,2,10:59,09:01,4,1,5.0,Pittsburgh Penguins,PIT
+168,5,17,Pittsburgh Penguins,Detroit Red Wings,202202056050,2022020560,Blocked Shot,50,BLOCKED_SHOT,Kris Letang shot blocked shot by Jake Walman,2022-12-29T01:53:17Z,2,11:02,08:58,4,1,17.0,Detroit Red Wings,DET
+169,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560275,2022020560,Takeaway,275,TAKEAWAY,Takeaway by Evgeni Malkin,2022-12-29T01:54:09Z,2,11:54,08:06,4,1,5.0,Pittsburgh Penguins,PIT
+170,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560453,2022020560,Missed Shot,453,MISSED_SHOT,Evgeni Malkin Wide of Net Magnus Hellberg,2022-12-29T01:54:10Z,2,11:55,08:05,4,1,5.0,Pittsburgh Penguins,PIT
+171,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560276,2022020560,Giveaway,276,GIVEAWAY,Giveaway by Evgeni Malkin,2022-12-29T01:54:36Z,2,12:21,07:39,4,1,5.0,Pittsburgh Penguins,PIT
+172,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560454,2022020560,Shot,454,SHOT,Moritz Seider Snap Shot saved by Casey DeSmith,2022-12-29T01:54:42Z,2,12:27,07:33,4,1,17.0,Detroit Red Wings,DET
+173,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560277,2022020560,Hit,277,HIT,Adam Erne hit Brian Dumoulin,2022-12-29T01:54:58Z,2,12:43,07:17,4,1,17.0,Detroit Red Wings,DET
+174,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560351,2022020560,Stoppage,351,STOP,Goalie Stopped,2022-12-29T01:55:03Z,2,12:49,07:11,4,1,,,
+175,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560455,2022020560,Shot,455,SHOT,Teddy Blueger Wrist Shot saved by Magnus Hellberg,2022-12-29T01:55:03Z,2,12:49,07:11,4,1,5.0,Pittsburgh Penguins,PIT
+176,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560278,2022020560,Faceoff,278,FACEOFF,Jeff Carter faceoff won against Michael Rasmussen,2022-12-29T01:57:30Z,2,12:49,07:11,4,1,5.0,Pittsburgh Penguins,PIT
+177,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560279,2022020560,Hit,279,HIT,Jeff Carter hit Filip Hronek,2022-12-29T01:57:54Z,2,13:13,06:47,4,1,5.0,Pittsburgh Penguins,PIT
+178,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560456,2022020560,Blocked Shot,456,BLOCKED_SHOT,Dylan Larkin shot blocked shot by Sidney Crosby,2022-12-29T01:58:19Z,2,13:38,06:22,4,1,5.0,Pittsburgh Penguins,PIT
+179,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560457,2022020560,Shot,457,SHOT,Jan Rutta Slap Shot saved by Magnus Hellberg,2022-12-29T01:58:36Z,2,13:55,06:05,4,1,5.0,Pittsburgh Penguins,PIT
+180,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560352,2022020560,Stoppage,352,STOP,Icing,2022-12-29T01:58:49Z,2,14:07,05:53,4,1,,,
+181,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560280,2022020560,Faceoff,280,FACEOFF,Joe Veleno faceoff won against Sidney Crosby,2022-12-29T01:59:14Z,2,14:07,05:53,4,1,17.0,Detroit Red Wings,DET
+182,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560458,2022020560,Blocked Shot,458,BLOCKED_SHOT,Ben Chiarot shot blocked shot by Brian Dumoulin,2022-12-29T01:59:21Z,2,14:14,05:46,4,1,5.0,Pittsburgh Penguins,PIT
+183,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560354,2022020560,Giveaway,354,GIVEAWAY,Giveaway by Brian Dumoulin,2022-12-29T01:59:26Z,2,14:19,05:41,4,1,5.0,Pittsburgh Penguins,PIT
+184,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560353,2022020560,Blocked Shot,353,BLOCKED_SHOT,Elmer Soderblom shot blocked shot by Brian Dumoulin,2022-12-29T01:59:27Z,2,14:20,05:40,4,1,5.0,Pittsburgh Penguins,PIT
+185,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560459,2022020560,Goal,459,GOAL,"Joe Veleno (5) Tip-In, assists: Ben Chiarot (7), Elmer Soderblom (2)",2022-12-29T01:59:39Z,2,14:32,05:28,4,2,17.0,Detroit Red Wings,DET
+186,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560281,2022020560,Faceoff,281,FACEOFF,Evgeni Malkin faceoff won against Pius Suter,2022-12-29T02:00:18Z,2,14:32,05:28,4,2,5.0,Pittsburgh Penguins,PIT
+187,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560460,2022020560,Blocked Shot,460,BLOCKED_SHOT,Olli Maatta shot blocked shot by Marcus Pettersson,2022-12-29T02:00:52Z,2,15:06,04:54,4,2,5.0,Pittsburgh Penguins,PIT
+188,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560461,2022020560,Shot,461,SHOT,Dominik Kubalik Snap Shot saved by Casey DeSmith,2022-12-29T02:01:04Z,2,15:18,04:42,4,2,17.0,Detroit Red Wings,DET
+189,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560282,2022020560,Hit,282,HIT,Brock McGinn hit David Perron,2022-12-29T02:01:12Z,2,15:26,04:34,4,2,5.0,Pittsburgh Penguins,PIT
+190,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560462,2022020560,Blocked Shot,462,BLOCKED_SHOT,David Perron shot blocked shot by Bryan Rust,2022-12-29T02:01:14Z,2,15:28,04:32,4,2,5.0,Pittsburgh Penguins,PIT
+191,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560463,2022020560,Blocked Shot,463,BLOCKED_SHOT,Dylan Larkin shot blocked shot by Kris Letang,2022-12-29T02:01:27Z,2,15:41,04:19,4,2,5.0,Pittsburgh Penguins,PIT
+192,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560283,2022020560,Hit,283,HIT,Mark Friedman hit Michael Rasmussen,2022-12-29T02:01:57Z,2,16:11,03:49,4,2,5.0,Pittsburgh Penguins,PIT
+193,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560355,2022020560,Stoppage,355,STOP,Icing,2022-12-29T02:02:23Z,2,16:37,03:23,4,2,,,
+194,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560284,2022020560,Faceoff,284,FACEOFF,Drew O'Connor faceoff won against Andrew Copp,2022-12-29T02:02:57Z,2,16:37,03:23,4,2,5.0,Pittsburgh Penguins,PIT
+195,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560356,2022020560,Hit,356,HIT,Drew O'Connor hit Jake Walman,2022-12-29T02:03:26Z,2,17:06,02:54,4,2,5.0,Pittsburgh Penguins,PIT
+196,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560285,2022020560,Hit,285,HIT,Moritz Seider hit Drew O'Connor,2022-12-29T02:03:36Z,2,17:16,02:44,4,2,17.0,Detroit Red Wings,DET
+197,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560287,2022020560,Hit,287,HIT,Pierre-Olivier Joseph hit Elmer Soderblom,2022-12-29T02:03:57Z,2,17:37,02:23,4,2,5.0,Pittsburgh Penguins,PIT
+198,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560286,2022020560,Hit,286,HIT,Mark Friedman hit Jonatan Berggren,2022-12-29T02:03:58Z,2,17:38,02:22,4,2,5.0,Pittsburgh Penguins,PIT
+199,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560464,2022020560,Shot,464,SHOT,Olli Maatta Wrist Shot saved by Casey DeSmith,2022-12-29T02:04:11Z,2,17:51,02:09,4,2,17.0,Detroit Red Wings,DET
+200,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560357,2022020560,Stoppage,357,STOP,Goalie Stopped,2022-12-29T02:04:11Z,2,17:52,02:08,4,2,,,
+201,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560288,2022020560,Faceoff,288,FACEOFF,Pius Suter faceoff won against Sidney Crosby,2022-12-29T02:06:25Z,2,17:52,02:08,4,2,17.0,Detroit Red Wings,DET
+202,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560465,2022020560,Shot,465,SHOT,Ben Chiarot Wrist Shot saved by Casey DeSmith,2022-12-29T02:06:28Z,2,17:55,02:05,4,2,17.0,Detroit Red Wings,DET
+203,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560358,2022020560,Stoppage,358,STOP,Goalie Stopped,2022-12-29T02:06:30Z,2,17:57,02:03,4,2,,,
+204,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560289,2022020560,Faceoff,289,FACEOFF,Sidney Crosby faceoff won against Pius Suter,2022-12-29T02:06:48Z,2,17:57,02:03,4,2,5.0,Pittsburgh Penguins,PIT
+205,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560470,2022020560,Blocked Shot,470,BLOCKED_SHOT,Dominik Kubalik shot blocked shot by Marcus Pettersson,2022-12-29T02:06:58Z,2,18:07,01:53,4,2,5.0,Pittsburgh Penguins,PIT
+206,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560290,2022020560,Hit,290,HIT,Dominik Kubalik hit Rickard Rakell,2022-12-29T02:07:03Z,2,18:12,01:48,4,2,17.0,Detroit Red Wings,DET
+207,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560291,2022020560,Takeaway,291,TAKEAWAY,Takeaway by Dominik Kubalik,2022-12-29T02:07:20Z,2,18:29,01:31,4,2,17.0,Detroit Red Wings,DET
+208,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560466,2022020560,Shot,466,SHOT,Oskar Sundqvist Slap Shot saved by Casey DeSmith,2022-12-29T02:07:21Z,2,18:30,01:30,4,2,17.0,Detroit Red Wings,DET
+209,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560292,2022020560,Hit,292,HIT,Kris Letang hit Michael Rasmussen,2022-12-29T02:07:52Z,2,19:01,00:59,4,2,5.0,Pittsburgh Penguins,PIT
+210,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560467,2022020560,Blocked Shot,467,BLOCKED_SHOT,Jason Zucker shot blocked shot by Jake Walman,2022-12-29T02:08:01Z,2,19:10,00:50,4,2,17.0,Detroit Red Wings,DET
+211,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560293,2022020560,Hit,293,HIT,Filip Hronek hit Jason Zucker,2022-12-29T02:08:24Z,2,19:33,00:27,4,2,17.0,Detroit Red Wings,DET
+212,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560468,2022020560,Missed Shot,468,MISSED_SHOT,Bryan Rust Wide of Net Magnus Hellberg,2022-12-29T02:08:31Z,2,19:40,00:20,4,2,5.0,Pittsburgh Penguins,PIT
+213,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560359,2022020560,Blocked Shot,359,BLOCKED_SHOT,Bryan Rust shot blocked shot by Michael Rasmussen,2022-12-29T02:08:39Z,2,19:48,00:12,4,2,17.0,Detroit Red Wings,DET
+214,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560294,2022020560,Hit,294,HIT,David Perron hit Bryan Rust,2022-12-29T02:08:46Z,2,19:55,00:05,4,2,17.0,Detroit Red Wings,DET
+215,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560360,2022020560,Period End,360,PERIOD_END,End of 2nd Period,2022-12-29T02:08:51Z,2,20:00,00:00,4,2,,,
+216,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560469,2022020560,Missed Shot,469,MISSED_SHOT,Jan Rutta Wide of Net Magnus Hellberg,2022-12-29T02:08:51Z,2,20:00,00:00,4,2,5.0,Pittsburgh Penguins,PIT
+217,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560363,2022020560,Period Official,363,PERIOD_OFFICIAL,Period Official,2022-12-29T02:08:57Z,2,20:00,00:00,4,2,,,
+218,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560364,2022020560,Period Ready,364,PERIOD_READY,Period Ready,2022-12-29T02:27:30Z,3,00:00,20:00,4,2,,,
+219,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560295,2022020560,Period Start,295,PERIOD_START,Period Start,2022-12-29T02:27:44Z,3,00:00,20:00,4,2,,,
+220,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560296,2022020560,Faceoff,296,FACEOFF,Sidney Crosby faceoff won against Michael Rasmussen,2022-12-29T02:27:44Z,3,00:00,20:00,4,2,5.0,Pittsburgh Penguins,PIT
+221,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560407,2022020560,Shot,407,SHOT,Michael Rasmussen Tip-In saved by Casey DeSmith,2022-12-29T02:27:58Z,3,00:14,19:46,4,2,17.0,Detroit Red Wings,DET
+222,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560297,2022020560,Takeaway,297,TAKEAWAY,Takeaway by Marcus Pettersson,2022-12-29T02:28:10Z,3,00:26,19:34,4,2,5.0,Pittsburgh Penguins,PIT
+223,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560298,2022020560,Hit,298,HIT,Lucas Raymond hit Brian Dumoulin,2022-12-29T02:28:44Z,3,01:00,19:00,4,2,17.0,Detroit Red Wings,DET
+224,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560365,2022020560,Hit,365,HIT,Adam Erne hit Jan Rutta,2022-12-29T02:28:50Z,3,01:06,18:54,4,2,17.0,Detroit Red Wings,DET
+225,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560471,2022020560,Blocked Shot,471,BLOCKED_SHOT,Olli Maatta shot blocked shot by Danton Heinen,2022-12-29T02:29:45Z,3,02:01,17:59,4,2,5.0,Pittsburgh Penguins,PIT
+226,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560299,2022020560,Hit,299,HIT,Danton Heinen hit Olli Maatta,2022-12-29T02:29:56Z,3,02:12,17:48,4,2,5.0,Pittsburgh Penguins,PIT
+227,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560366,2022020560,Hit,366,HIT,Mark Friedman hit Dominik Kubalik,2022-12-29T02:30:07Z,3,02:23,17:37,4,2,5.0,Pittsburgh Penguins,PIT
+228,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560472,2022020560,Blocked Shot,472,BLOCKED_SHOT,Ben Chiarot shot blocked shot by Brock McGinn,2022-12-29T02:30:14Z,3,02:30,17:30,4,2,5.0,Pittsburgh Penguins,PIT
+229,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560300,2022020560,Hit,300,HIT,Ben Chiarot hit Drew O'Connor,2022-12-29T02:30:52Z,3,03:08,16:52,4,2,17.0,Detroit Red Wings,DET
+230,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560408,2022020560,Blocked Shot,408,BLOCKED_SHOT,Kris Letang shot blocked shot by Elmer Soderblom,2022-12-29T02:31:03Z,3,03:19,16:41,4,2,17.0,Detroit Red Wings,DET
+231,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560651,2022020560,Hit,651,HIT,Kasperi Kapanen hit Joe Veleno,2022-12-29T02:31:05Z,3,03:21,16:39,4,2,5.0,Pittsburgh Penguins,PIT
+232,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560652,2022020560,Takeaway,652,TAKEAWAY,Takeaway by Dylan Larkin,2022-12-29T02:31:18Z,3,03:34,16:26,4,2,17.0,Detroit Red Wings,DET
+233,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560473,2022020560,Missed Shot,473,MISSED_SHOT,Michael Rasmussen Wide of Net Casey DeSmith,2022-12-29T02:31:22Z,3,03:38,16:22,4,2,17.0,Detroit Red Wings,DET
+234,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560371,2022020560,Shot,371,SHOT,Kris Letang Wrist Shot saved by Magnus Hellberg,2022-12-29T02:31:49Z,3,04:05,15:55,4,2,5.0,Pittsburgh Penguins,PIT
+235,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560474,2022020560,Shot,474,SHOT,Moritz Seider Slap Shot saved by Casey DeSmith,2022-12-29T02:32:18Z,3,04:34,15:26,4,2,17.0,Detroit Red Wings,DET
+236,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560475,2022020560,Shot,475,SHOT,Andrew Copp Tip-In saved by Casey DeSmith,2022-12-29T02:32:32Z,3,04:48,15:12,4,2,17.0,Detroit Red Wings,DET
+237,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560372,2022020560,Stoppage,372,STOP,Goalie Stopped,2022-12-29T02:32:33Z,3,04:49,15:11,4,2,,,
+238,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560653,2022020560,Faceoff,653,FACEOFF,Pius Suter faceoff won against Teddy Blueger,2022-12-29T02:33:10Z,3,04:49,15:11,4,2,17.0,Detroit Red Wings,DET
+239,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560476,2022020560,Blocked Shot,476,BLOCKED_SHOT,Jeff Carter shot blocked shot by Jordan Oesterle,2022-12-29T02:33:25Z,3,05:04,14:56,4,2,17.0,Detroit Red Wings,DET
+240,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560373,2022020560,Shot,373,SHOT,Kris Letang Snap Shot saved by Magnus Hellberg,2022-12-29T02:33:29Z,3,05:08,14:52,4,2,5.0,Pittsburgh Penguins,PIT
+241,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560374,2022020560,Stoppage,374,STOP,Goalie Stopped,2022-12-29T02:33:30Z,3,05:09,14:51,4,2,,,
+242,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560654,2022020560,Faceoff,654,FACEOFF,Bryan Rust faceoff won against Pius Suter,2022-12-29T02:34:06Z,3,05:09,14:51,4,2,5.0,Pittsburgh Penguins,PIT
+243,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560477,2022020560,Shot,477,SHOT,Jason Zucker Snap Shot saved by Magnus Hellberg,2022-12-29T02:34:08Z,3,05:11,14:49,4,2,5.0,Pittsburgh Penguins,PIT
+244,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560478,2022020560,Shot,478,SHOT,Jason Zucker Wrist Shot saved by Magnus Hellberg,2022-12-29T02:34:24Z,3,05:27,14:33,4,2,5.0,Pittsburgh Penguins,PIT
+245,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560479,2022020560,Shot,479,SHOT,Dominik Kubalik Wrist Shot saved by Casey DeSmith,2022-12-29T02:34:35Z,3,05:38,14:22,4,2,17.0,Detroit Red Wings,DET
+246,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560655,2022020560,Takeaway,655,TAKEAWAY,Takeaway by Oskar Sundqvist,2022-12-29T02:34:35Z,3,05:38,14:22,4,2,17.0,Detroit Red Wings,DET
+247,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560375,2022020560,Stoppage,375,STOP,Goalie Stopped,2022-12-29T02:34:37Z,3,05:40,14:20,4,2,,,
+248,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560656,2022020560,Faceoff,656,FACEOFF,Teddy Blueger faceoff won against Joe Veleno,2022-12-29T02:35:15Z,3,05:40,14:20,4,2,5.0,Pittsburgh Penguins,PIT
+249,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560657,2022020560,Hit,657,HIT,Danton Heinen hit Joe Veleno,2022-12-29T02:35:47Z,3,06:12,13:48,4,2,5.0,Pittsburgh Penguins,PIT
+250,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560480,2022020560,Shot,480,SHOT,Joe Veleno Wrist Shot saved by Casey DeSmith,2022-12-29T02:35:54Z,3,06:19,13:41,4,2,17.0,Detroit Red Wings,DET
+251,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560376,2022020560,Shot,376,SHOT,Joe Veleno Wrist Shot saved by Casey DeSmith,2022-12-29T02:35:57Z,3,06:22,13:38,4,2,17.0,Detroit Red Wings,DET
+252,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560481,2022020560,Shot,481,SHOT,Jake Walman Slap Shot saved by Casey DeSmith,2022-12-29T02:35:59Z,3,06:24,13:36,4,2,17.0,Detroit Red Wings,DET
+253,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560658,2022020560,Stoppage,658,STOP,Goalie Stopped,2022-12-29T02:36:00Z,3,06:25,13:35,4,2,,,
+254,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560659,2022020560,Faceoff,659,FACEOFF,Michael Rasmussen faceoff won against Jeff Carter,2022-12-29T02:38:25Z,3,06:25,13:35,4,2,17.0,Detroit Red Wings,DET
+255,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560483,2022020560,Blocked Shot,483,BLOCKED_SHOT,Ben Chiarot shot blocked shot by Teddy Blueger,2022-12-29T02:39:06Z,3,07:06,12:54,4,2,5.0,Pittsburgh Penguins,PIT
+256,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560660,2022020560,Takeaway,660,TAKEAWAY,Takeaway by David Perron,2022-12-29T02:39:16Z,3,07:16,12:44,4,2,17.0,Detroit Red Wings,DET
+257,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560484,2022020560,Missed Shot,484,MISSED_SHOT,Marcus Pettersson Wide of Net Magnus Hellberg,2022-12-29T02:39:40Z,3,07:40,12:20,4,2,5.0,Pittsburgh Penguins,PIT
+258,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560377,2022020560,Stoppage,377,STOP,Puck in Benches,2022-12-29T02:39:48Z,3,07:48,12:12,4,2,,,
+259,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560661,2022020560,Faceoff,661,FACEOFF,Sidney Crosby faceoff won against Pius Suter,2022-12-29T02:40:28Z,3,07:48,12:12,4,2,5.0,Pittsburgh Penguins,PIT
+260,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560485,2022020560,Missed Shot,485,MISSED_SHOT,Jake Guentzel Goalpost Magnus Hellberg,2022-12-29T02:40:33Z,3,07:53,12:07,4,2,5.0,Pittsburgh Penguins,PIT
+261,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560486,2022020560,Shot,486,SHOT,Oskar Sundqvist Slap Shot saved by Casey DeSmith,2022-12-29T02:40:57Z,3,08:17,11:43,4,2,17.0,Detroit Red Wings,DET
+262,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560378,2022020560,Stoppage,378,STOP,Goalie Stopped,2022-12-29T02:40:58Z,3,08:18,11:42,4,2,,,
+263,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560662,2022020560,Faceoff,662,FACEOFF,Teddy Blueger faceoff won against Joe Veleno,2022-12-29T02:41:28Z,3,08:18,11:42,4,2,5.0,Pittsburgh Penguins,PIT
+264,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560663,2022020560,Hit,663,HIT,Mark Friedman hit Elmer Soderblom,2022-12-29T02:41:41Z,3,08:31,11:29,4,2,5.0,Pittsburgh Penguins,PIT
+265,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560664,2022020560,Takeaway,664,TAKEAWAY,Takeaway by Danton Heinen,2022-12-29T02:42:17Z,3,09:07,10:53,4,2,5.0,Pittsburgh Penguins,PIT
+266,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560487,2022020560,Shot,487,SHOT,Brock McGinn Wrist Shot saved by Magnus Hellberg,2022-12-29T02:42:22Z,3,09:12,10:48,4,2,5.0,Pittsburgh Penguins,PIT
+267,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560665,2022020560,Giveaway,665,GIVEAWAY,Giveaway by Evgeni Malkin,2022-12-29T02:42:28Z,3,09:18,10:42,4,2,5.0,Pittsburgh Penguins,PIT
+268,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560910,2022020560,Penalty,910,PENALTY,Jake Guentzel Hooking against Michael Rasmussen,2022-12-29T02:43:02Z,3,09:52,10:08,4,2,5.0,Pittsburgh Penguins,PIT
+269,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560666,2022020560,Faceoff,666,FACEOFF,Teddy Blueger faceoff won against Joe Veleno,2022-12-29T02:43:52Z,3,09:52,10:08,4,2,5.0,Pittsburgh Penguins,PIT
+270,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560379,2022020560,Stoppage,379,STOP,Offside,2022-12-29T02:44:21Z,3,10:20,09:40,4,2,,,
+271,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560667,2022020560,Faceoff,667,FACEOFF,Michael Rasmussen faceoff won against Jeff Carter,2022-12-29T02:44:50Z,3,10:20,09:40,4,2,17.0,Detroit Red Wings,DET
+272,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560488,2022020560,Shot,488,SHOT,Michael Rasmussen Wrist Shot saved by Casey DeSmith,2022-12-29T02:45:14Z,3,10:44,09:16,4,2,17.0,Detroit Red Wings,DET
+273,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560380,2022020560,Missed Shot,380,MISSED_SHOT,Dylan Larkin Wide of Net Casey DeSmith,2022-12-29T02:45:21Z,3,10:51,09:09,4,2,17.0,Detroit Red Wings,DET
+274,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560489,2022020560,Missed Shot,489,MISSED_SHOT,Filip Hronek Wide of Net Casey DeSmith,2022-12-29T02:45:26Z,3,10:56,09:04,4,2,17.0,Detroit Red Wings,DET
+275,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560490,2022020560,Blocked Shot,490,BLOCKED_SHOT,Lucas Raymond shot blocked shot by Brock McGinn,2022-12-29T02:45:42Z,3,11:12,08:48,4,2,5.0,Pittsburgh Penguins,PIT
+276,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560409,2022020560,Shot,409,SHOT,Dylan Larkin Wrist Shot saved by Casey DeSmith,2022-12-29T02:45:44Z,3,11:14,08:46,4,2,17.0,Detroit Red Wings,DET
+277,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560491,2022020560,Blocked Shot,491,BLOCKED_SHOT,Dylan Larkin shot blocked shot by Brian Dumoulin,2022-12-29T02:45:51Z,3,11:21,08:39,4,2,5.0,Pittsburgh Penguins,PIT
+278,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560492,2022020560,Missed Shot,492,MISSED_SHOT,Oskar Sundqvist Wide of Net Casey DeSmith,2022-12-29T02:46:27Z,3,11:57,08:03,4,2,17.0,Detroit Red Wings,DET
+279,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560493,2022020560,Missed Shot,493,MISSED_SHOT,Moritz Seider Wide of Net Casey DeSmith,2022-12-29T02:46:56Z,3,12:26,07:34,4,2,17.0,Detroit Red Wings,DET
+280,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560668,2022020560,Hit,668,HIT,Jason Zucker hit Jordan Oesterle,2022-12-29T02:47:37Z,3,13:07,06:53,4,2,5.0,Pittsburgh Penguins,PIT
+281,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560410,2022020560,Blocked Shot,410,BLOCKED_SHOT,Dylan Larkin shot blocked shot by Pierre-Olivier Joseph,2022-12-29T02:48:10Z,3,13:40,06:20,4,2,5.0,Pittsburgh Penguins,PIT
+282,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560494,2022020560,Blocked Shot,494,BLOCKED_SHOT,Filip Hronek shot blocked shot by Jeff Carter,2022-12-29T02:48:12Z,3,13:42,06:18,4,2,5.0,Pittsburgh Penguins,PIT
+283,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560496,2022020560,Blocked Shot,496,BLOCKED_SHOT,Kris Letang shot blocked shot by Elmer Soderblom,2022-12-29T02:49:13Z,3,14:43,05:17,4,2,17.0,Detroit Red Wings,DET
+284,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560669,2022020560,Giveaway,669,GIVEAWAY,Giveaway by Kris Letang,2022-12-29T02:49:17Z,3,14:47,05:13,4,2,5.0,Pittsburgh Penguins,PIT
+285,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560497,2022020560,Goal,497,GOAL,"Jonatan Berggren (5) Wrist Shot, assists: none",2022-12-29T02:49:31Z,3,15:00,05:00,4,3,17.0,Detroit Red Wings,DET
+286,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560670,2022020560,Faceoff,670,FACEOFF,Evgeni Malkin faceoff won against Pius Suter,2022-12-29T02:50:15Z,3,15:00,05:00,4,3,5.0,Pittsburgh Penguins,PIT
+287,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560671,2022020560,Hit,671,HIT,Dominik Kubalik hit Jan Rutta,2022-12-29T02:50:33Z,3,15:18,04:42,4,3,17.0,Detroit Red Wings,DET
+288,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560498,2022020560,Missed Shot,498,MISSED_SHOT,Dominik Kubalik Wide of Net Casey DeSmith,2022-12-29T02:50:45Z,3,15:30,04:30,4,3,17.0,Detroit Red Wings,DET
+289,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560672,2022020560,Takeaway,672,TAKEAWAY,Takeaway by Jason Zucker,2022-12-29T02:50:51Z,3,15:36,04:24,4,3,5.0,Pittsburgh Penguins,PIT
+290,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560499,2022020560,Shot,499,SHOT,Jason Zucker Backhand saved by Magnus Hellberg,2022-12-29T02:51:02Z,3,15:47,04:13,4,3,5.0,Pittsburgh Penguins,PIT
+291,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560673,2022020560,Hit,673,HIT,Teddy Blueger hit Olli Maatta,2022-12-29T02:51:20Z,3,16:05,03:55,4,3,5.0,Pittsburgh Penguins,PIT
+292,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560500,2022020560,Missed Shot,500,MISSED_SHOT,Jeff Carter Wide of Net Magnus Hellberg,2022-12-29T02:51:30Z,3,16:15,03:45,4,3,5.0,Pittsburgh Penguins,PIT
+293,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560382,2022020560,Stoppage,382,STOP,TV timeout,2022-12-29T02:51:56Z,3,16:41,03:19,4,3,,,
+294,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560973,2022020560,Penalty,973,PENALTY,Too many men/ice served by Danton Heinen,2022-12-29T02:51:56Z,3,16:41,03:19,4,3,5.0,Pittsburgh Penguins,PIT
+295,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560674,2022020560,Faceoff,674,FACEOFF,Michael Rasmussen faceoff won against Jeff Carter,2022-12-29T02:54:31Z,3,16:41,03:19,4,3,17.0,Detroit Red Wings,DET
+296,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560801,2022020560,Goal,801,GOAL,"David Perron (12) Wrist Shot, assists: Michael Rasmussen (10), Lucas Raymond (12)",2022-12-29T02:54:42Z,3,16:52,03:08,4,4,17.0,Detroit Red Wings,DET
+297,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560675,2022020560,Faceoff,675,FACEOFF,Pius Suter faceoff won against Sidney Crosby,2022-12-29T02:55:28Z,3,16:52,03:08,4,4,17.0,Detroit Red Wings,DET
+298,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560390,2022020560,Stoppage,390,STOP,Puck in Benches,2022-12-29T02:55:42Z,3,17:05,02:55,4,4,,,
+299,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560676,2022020560,Faceoff,676,FACEOFF,Pius Suter faceoff won against Sidney Crosby,2022-12-29T02:56:04Z,3,17:05,02:55,4,4,17.0,Detroit Red Wings,DET
+300,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560802,2022020560,Missed Shot,802,MISSED_SHOT,Sidney Crosby Wide of Net Magnus Hellberg,2022-12-29T02:56:18Z,3,17:19,02:41,4,4,5.0,Pittsburgh Penguins,PIT
+301,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560803,2022020560,Missed Shot,803,MISSED_SHOT,Sidney Crosby Wide of Net Magnus Hellberg,2022-12-29T02:56:27Z,3,17:28,02:32,4,4,5.0,Pittsburgh Penguins,PIT
+302,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560383,2022020560,Shot,383,SHOT,Rickard Rakell Wrist Shot saved by Magnus Hellberg,2022-12-29T02:56:28Z,3,17:29,02:31,4,4,5.0,Pittsburgh Penguins,PIT
+303,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560384,2022020560,Stoppage,384,STOP,Icing,2022-12-29T02:56:40Z,3,17:42,02:18,4,4,,,
+304,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560677,2022020560,Faceoff,677,FACEOFF,Pius Suter faceoff won against Evgeni Malkin,2022-12-29T02:57:06Z,3,17:42,02:18,4,4,17.0,Detroit Red Wings,DET
+305,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560804,2022020560,Shot,804,SHOT,Jason Zucker Wrist Shot saved by Magnus Hellberg,2022-12-29T02:57:24Z,3,18:00,02:00,4,4,5.0,Pittsburgh Penguins,PIT
+306,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560385,2022020560,Stoppage,385,STOP,Goalie Stopped,2022-12-29T02:57:24Z,3,18:01,01:59,4,4,,,
+307,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560678,2022020560,Faceoff,678,FACEOFF,Evgeni Malkin faceoff won against Michael Rasmussen,2022-12-29T02:58:09Z,3,18:01,01:59,4,4,5.0,Pittsburgh Penguins,PIT
+308,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560386,2022020560,Hit,386,HIT,Filip Hronek hit Bryan Rust,2022-12-29T02:58:20Z,3,18:12,01:48,4,4,17.0,Detroit Red Wings,DET
+309,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560679,2022020560,Hit,679,HIT,Jason Zucker hit Filip Hronek,2022-12-29T02:58:36Z,3,18:28,01:32,4,4,5.0,Pittsburgh Penguins,PIT
+310,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560805,2022020560,Shot,805,SHOT,Michael Rasmussen Backhand saved by Casey DeSmith,2022-12-29T02:58:43Z,3,18:35,01:25,4,4,17.0,Detroit Red Wings,DET
+311,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560806,2022020560,Shot,806,SHOT,Adam Erne Wrap-around saved by Casey DeSmith,2022-12-29T02:58:58Z,3,18:50,01:10,4,4,17.0,Detroit Red Wings,DET
+312,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560680,2022020560,Hit,680,HIT,Filip Hronek hit Jake Guentzel,2022-12-29T02:59:10Z,3,19:02,00:58,4,4,17.0,Detroit Red Wings,DET
+313,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560681,2022020560,Hit,681,HIT,Adam Erne hit Brian Dumoulin,2022-12-29T02:59:25Z,3,19:17,00:43,4,4,17.0,Detroit Red Wings,DET
+314,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560391,2022020560,Takeaway,391,TAKEAWAY,Takeaway by Danton Heinen,2022-12-29T02:59:33Z,3,19:25,00:35,4,4,5.0,Pittsburgh Penguins,PIT
+315,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560392,2022020560,Stoppage,392,STOP,Offside,2022-12-29T02:59:37Z,3,19:27,00:33,4,4,,,
+316,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560682,2022020560,Faceoff,682,FACEOFF,Evgeni Malkin faceoff won against Pius Suter,2022-12-29T03:00:04Z,3,19:27,00:33,4,4,5.0,Pittsburgh Penguins,PIT
+317,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560393,2022020560,Period End,393,PERIOD_END,End of 3rd Period,2022-12-29T03:00:36Z,3,20:00,00:00,4,4,,,
+318,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560396,2022020560,Period Official,396,PERIOD_OFFICIAL,Period Official,2022-12-29T03:00:53Z,3,20:00,00:00,4,4,,,
+319,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560397,2022020560,Period Ready,397,PERIOD_READY,Period Ready,2022-12-29T03:02:22Z,4,00:00,05:00,4,4,,,
+320,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560683,2022020560,Period Start,683,PERIOD_START,Period Start,2022-12-29T03:02:58Z,4,00:00,05:00,4,4,,,
+321,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560684,2022020560,Faceoff,684,FACEOFF,Michael Rasmussen faceoff won against Sidney Crosby,2022-12-29T03:02:58Z,4,00:00,05:00,4,4,17.0,Detroit Red Wings,DET
+322,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560685,2022020560,Hit,685,HIT,Kris Letang hit Dylan Larkin,2022-12-29T03:03:20Z,4,00:21,04:39,4,4,5.0,Pittsburgh Penguins,PIT
+323,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560686,2022020560,Takeaway,686,TAKEAWAY,Takeaway by Jake Guentzel,2022-12-29T03:03:34Z,4,00:35,04:25,4,4,5.0,Pittsburgh Penguins,PIT
+324,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560807,2022020560,Shot,807,SHOT,Bryan Rust Backhand saved by Magnus Hellberg,2022-12-29T03:04:17Z,4,01:18,03:42,4,4,5.0,Pittsburgh Penguins,PIT
+325,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560808,2022020560,Stoppage,808,STOP,Goalie Stopped,2022-12-29T03:04:18Z,4,01:19,03:41,4,4,,,
+326,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560687,2022020560,Faceoff,687,FACEOFF,Jeff Carter faceoff won against Andrew Copp,2022-12-29T03:05:02Z,4,01:19,03:41,4,4,5.0,Pittsburgh Penguins,PIT
+327,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560809,2022020560,Blocked Shot,809,BLOCKED_SHOT,Ben Chiarot shot blocked shot by Jason Zucker,2022-12-29T03:05:19Z,4,01:36,03:24,4,4,5.0,Pittsburgh Penguins,PIT
+328,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560688,2022020560,Hit,688,HIT,Ben Chiarot hit Jason Zucker,2022-12-29T03:05:21Z,4,01:38,03:22,4,4,17.0,Detroit Red Wings,DET
+329,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560810,2022020560,Shot,810,SHOT,Michael Rasmussen Wrist Shot saved by Casey DeSmith,2022-12-29T03:05:42Z,4,01:59,03:01,4,4,17.0,Detroit Red Wings,DET
+330,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560399,2022020560,Missed Shot,399,MISSED_SHOT,Andrew Copp Goalpost Casey DeSmith,2022-12-29T03:05:43Z,4,02:00,03:00,4,4,17.0,Detroit Red Wings,DET
+331,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560811,2022020560,Shot,811,SHOT,Pierre-Olivier Joseph Wrist Shot saved by Magnus Hellberg,2022-12-29T03:05:50Z,4,02:07,02:53,4,4,5.0,Pittsburgh Penguins,PIT
+332,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560400,2022020560,Period End,400,PERIOD_END,End of OT,2022-12-29T03:05:56Z,4,02:13,02:47,4,4,,,
+333,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560812,2022020560,Goal,812,GOAL,"Jake Walman (2) Tip-In, assists: Andrew Copp (16)",2022-12-29T03:05:56Z,4,02:13,02:47,4,5,17.0,Detroit Red Wings,DET
+334,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560853,2022020560,Period Official,853,PERIOD_OFFICIAL,Period Official,2022-12-29T03:06:48Z,4,02:13,02:47,4,5,,,
+335,5,17,Pittsburgh Penguins,Detroit Red Wings,2022020560854,2022020560,Game End,854,GAME_END,Game End,2022-12-29T03:06:50Z,4,02:13,02:47,4,5,,,
+336,5,17,Pittsburgh Penguins,Detroit Red Wings,20220205601101,2022020560,Game Official,1101,GAME_OFFICIAL,Game Official,2022-12-29T03:31:25Z,4,02:13,02:47,4,5,,,

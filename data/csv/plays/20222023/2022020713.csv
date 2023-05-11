@@ -1,0 +1,303 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,2,6,New York Islanders,Boston Bruins,20220207131,2022020713,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-01-18T23:30:07Z,1,00:00,20:00,0,0,,,
+1,2,6,New York Islanders,Boston Bruins,20220207135,2022020713,Period Ready,5,PERIOD_READY,Period Ready,2023-01-19T00:34:53Z,1,00:00,20:00,0,0,,,
+2,2,6,New York Islanders,Boston Bruins,20220207138,2022020713,Period Start,8,PERIOD_START,Period Start,2023-01-19T00:37:05Z,1,00:00,20:00,0,0,,,
+3,2,6,New York Islanders,Boston Bruins,202202071351,2022020713,Faceoff,51,FACEOFF,Charlie Coyle faceoff won against Casey Cizikas,2023-01-19T00:37:05Z,1,00:00,20:00,0,0,6.0,Boston Bruins,BOS
+4,2,6,New York Islanders,Boston Bruins,20220207139,2022020713,Hit,9,HIT,Ryan Pulock hit Trent Frederic,2023-01-19T00:37:22Z,1,00:17,19:43,0,0,2.0,New York Islanders,NYI
+5,2,6,New York Islanders,Boston Bruins,2022020713151,2022020713,Missed Shot,151,MISSED_SHOT,Casey Cizikas Wide of Net Linus Ullmark,2023-01-19T00:37:32Z,1,00:27,19:33,0,0,2.0,New York Islanders,NYI
+6,2,6,New York Islanders,Boston Bruins,202202071310,2022020713,Hit,10,HIT,Casey Cizikas hit Connor Clifton,2023-01-19T00:37:36Z,1,00:31,19:29,0,0,2.0,New York Islanders,NYI
+7,2,6,New York Islanders,Boston Bruins,2022020713152,2022020713,Blocked Shot,152,BLOCKED_SHOT,Zach Parise shot blocked shot by Craig Smith,2023-01-19T00:38:07Z,1,01:02,18:58,0,0,6.0,Boston Bruins,BOS
+8,2,6,New York Islanders,Boston Bruins,2022020713251,2022020713,Blocked Shot,251,BLOCKED_SHOT,Hudson Fasching shot blocked shot by Patrice Bergeron,2023-01-19T00:38:09Z,1,01:04,18:56,0,0,6.0,Boston Bruins,BOS
+9,2,6,New York Islanders,Boston Bruins,202202071311,2022020713,Hit,11,HIT,Jean-Gabriel Pageau hit Charlie McAvoy,2023-01-19T00:38:19Z,1,01:14,18:46,0,0,2.0,New York Islanders,NYI
+10,2,6,New York Islanders,Boston Bruins,2022020713252,2022020713,Missed Shot,252,MISSED_SHOT,David Pastrnak Wide of Net Semyon Varlamov,2023-01-19T00:38:51Z,1,01:46,18:14,0,0,6.0,Boston Bruins,BOS
+11,2,6,New York Islanders,Boston Bruins,202202071312,2022020713,Blocked Shot,12,BLOCKED_SHOT,Sebastian Aho shot blocked shot by Brandon Carlo,2023-01-19T00:39:04Z,1,01:59,18:01,0,0,6.0,Boston Bruins,BOS
+12,2,6,New York Islanders,Boston Bruins,2022020713122,2022020713,Penalty,122,PENALTY,David Pastrnak Cross-checking against Sebastian Aho,2023-01-19T00:39:07Z,1,02:02,17:58,0,0,6.0,Boston Bruins,BOS
+13,2,6,New York Islanders,Boston Bruins,202202071352,2022020713,Faceoff,52,FACEOFF,Joona Koppanen faceoff won against Jean-Gabriel Pageau,2023-01-19T00:39:40Z,1,02:02,17:58,0,0,6.0,Boston Bruins,BOS
+14,2,6,New York Islanders,Boston Bruins,202202071353,2022020713,Takeaway,53,TAKEAWAY,Takeaway by Anders Lee,2023-01-19T00:39:55Z,1,02:17,17:43,0,0,2.0,New York Islanders,NYI
+15,2,6,New York Islanders,Boston Bruins,202202071354,2022020713,Giveaway,54,GIVEAWAY,Giveaway by Jean-Gabriel Pageau,2023-01-19T00:40:19Z,1,02:41,17:19,0,0,2.0,New York Islanders,NYI
+16,2,6,New York Islanders,Boston Bruins,202202071313,2022020713,Giveaway,13,GIVEAWAY,Giveaway by Charlie Coyle,2023-01-19T00:40:21Z,1,02:43,17:17,0,0,6.0,Boston Bruins,BOS
+17,2,6,New York Islanders,Boston Bruins,2022020713154,2022020713,Shot,154,SHOT,Noah Dobson Slap Shot saved by Linus Ullmark,2023-01-19T00:40:26Z,1,02:48,17:12,0,0,2.0,New York Islanders,NYI
+18,2,6,New York Islanders,Boston Bruins,2022020713155,2022020713,Blocked Shot,155,BLOCKED_SHOT,Jean-Gabriel Pageau shot blocked shot by Derek Forbort,2023-01-19T00:40:41Z,1,03:03,16:57,0,0,6.0,Boston Bruins,BOS
+19,2,6,New York Islanders,Boston Bruins,2022020713156,2022020713,Missed Shot,156,MISSED_SHOT,Zach Parise Wide of Net Linus Ullmark,2023-01-19T00:41:07Z,1,03:29,16:31,0,0,2.0,New York Islanders,NYI
+20,2,6,New York Islanders,Boston Bruins,2022020713157,2022020713,Shot,157,SHOT,David Pastrnak Wrist Shot saved by Semyon Varlamov,2023-01-19T00:41:58Z,1,04:20,15:40,0,0,6.0,Boston Bruins,BOS
+21,2,6,New York Islanders,Boston Bruins,202202071355,2022020713,Giveaway,55,GIVEAWAY,Giveaway by Scott Mayfield,2023-01-19T00:42:18Z,1,04:40,15:20,0,0,2.0,New York Islanders,NYI
+22,2,6,New York Islanders,Boston Bruins,2022020713158,2022020713,Shot,158,SHOT,Josh Bailey Slap Shot saved by Linus Ullmark,2023-01-19T00:42:52Z,1,05:14,14:46,0,0,2.0,New York Islanders,NYI
+23,2,6,New York Islanders,Boston Bruins,202202071314,2022020713,Stoppage,14,STOP,Goalie Stopped,2023-01-19T00:42:52Z,1,05:15,14:45,0,0,,,
+24,2,6,New York Islanders,Boston Bruins,202202071356,2022020713,Faceoff,56,FACEOFF,Patrice Bergeron faceoff won against Brock Nelson,2023-01-19T00:43:24Z,1,05:15,14:45,0,0,6.0,Boston Bruins,BOS
+25,2,6,New York Islanders,Boston Bruins,2022020713159,2022020713,Shot,159,SHOT,Brad Marchand Tip-In saved by Semyon Varlamov,2023-01-19T00:43:33Z,1,05:24,14:36,0,0,6.0,Boston Bruins,BOS
+26,2,6,New York Islanders,Boston Bruins,2022020713160,2022020713,Shot,160,SHOT,Patrice Bergeron Snap Shot saved by Semyon Varlamov,2023-01-19T00:43:53Z,1,05:44,14:16,0,0,6.0,Boston Bruins,BOS
+27,2,6,New York Islanders,Boston Bruins,202202071315,2022020713,Stoppage,15,STOP,Goalie Stopped,2023-01-19T00:43:54Z,1,05:45,14:15,0,0,,,
+28,2,6,New York Islanders,Boston Bruins,202202071357,2022020713,Faceoff,57,FACEOFF,Joona Koppanen faceoff won against Matt Martin,2023-01-19T00:44:38Z,1,05:45,14:15,0,0,6.0,Boston Bruins,BOS
+29,2,6,New York Islanders,Boston Bruins,202202071316,2022020713,Stoppage,16,STOP,Icing,2023-01-19T00:44:53Z,1,06:00,14:00,0,0,,,
+30,2,6,New York Islanders,Boston Bruins,202202071358,2022020713,Faceoff,58,FACEOFF,Joona Koppanen faceoff won against Josh Bailey,2023-01-19T00:45:31Z,1,06:00,14:00,0,0,6.0,Boston Bruins,BOS
+31,2,6,New York Islanders,Boston Bruins,202202071317,2022020713,Hit,17,HIT,William Dufour hit Derek Forbort,2023-01-19T00:45:35Z,1,06:04,13:56,0,0,2.0,New York Islanders,NYI
+32,2,6,New York Islanders,Boston Bruins,2022020713161,2022020713,Shot,161,SHOT,Noah Dobson Slap Shot saved by Linus Ullmark,2023-01-19T00:45:52Z,1,06:21,13:39,0,0,2.0,New York Islanders,NYI
+33,2,6,New York Islanders,Boston Bruins,202202071318,2022020713,Stoppage,18,STOP,Goalie Stopped,2023-01-19T00:45:53Z,1,06:22,13:38,0,0,,,
+34,2,6,New York Islanders,Boston Bruins,202202071359,2022020713,Faceoff,59,FACEOFF,Charlie Coyle faceoff won against Brock Nelson,2023-01-19T00:48:09Z,1,06:22,13:38,0,0,6.0,Boston Bruins,BOS
+35,2,6,New York Islanders,Boston Bruins,202202071360,2022020713,Giveaway,60,GIVEAWAY,Giveaway by Linus Ullmark,2023-01-19T00:48:28Z,1,06:41,13:19,0,0,6.0,Boston Bruins,BOS
+36,2,6,New York Islanders,Boston Bruins,2022020713162,2022020713,Blocked Shot,162,BLOCKED_SHOT,Ryan Pulock shot blocked shot by Taylor Hall,2023-01-19T00:48:46Z,1,06:59,13:01,0,0,6.0,Boston Bruins,BOS
+37,2,6,New York Islanders,Boston Bruins,2022020713163,2022020713,Shot,163,SHOT,Jean-Gabriel Pageau Slap Shot saved by Linus Ullmark,2023-01-19T00:49:22Z,1,07:35,12:25,0,0,2.0,New York Islanders,NYI
+38,2,6,New York Islanders,Boston Bruins,202202071319,2022020713,Stoppage,19,STOP,Icing,2023-01-19T00:49:31Z,1,07:44,12:16,0,0,,,
+39,2,6,New York Islanders,Boston Bruins,202202071361,2022020713,Faceoff,61,FACEOFF,Jean-Gabriel Pageau faceoff won against David Krejci,2023-01-19T00:50:19Z,1,07:44,12:16,0,0,2.0,New York Islanders,NYI
+40,2,6,New York Islanders,Boston Bruins,2022020713164,2022020713,Shot,164,SHOT,Zach Parise Wrist Shot saved by Linus Ullmark,2023-01-19T00:50:22Z,1,07:47,12:13,0,0,2.0,New York Islanders,NYI
+41,2,6,New York Islanders,Boston Bruins,202202071362,2022020713,Takeaway,62,TAKEAWAY,Takeaway by David Pastrnak,2023-01-19T00:50:36Z,1,08:01,11:59,0,0,6.0,Boston Bruins,BOS
+42,2,6,New York Islanders,Boston Bruins,2022020713165,2022020713,Shot,165,SHOT,Pavel Zacha Wrist Shot saved by Semyon Varlamov,2023-01-19T00:50:40Z,1,08:05,11:55,0,0,6.0,Boston Bruins,BOS
+43,2,6,New York Islanders,Boston Bruins,202202071320,2022020713,Hit,20,HIT,Matt Martin hit Derek Forbort,2023-01-19T00:51:09Z,1,08:34,11:26,0,0,2.0,New York Islanders,NYI
+44,2,6,New York Islanders,Boston Bruins,202202071321,2022020713,Hit,21,HIT,Alexander Romanov hit Craig Smith,2023-01-19T00:51:17Z,1,08:42,11:18,0,0,2.0,New York Islanders,NYI
+45,2,6,New York Islanders,Boston Bruins,202202071363,2022020713,Giveaway,63,GIVEAWAY,Giveaway by Brad Marchand,2023-01-19T00:51:36Z,1,09:01,10:59,0,0,6.0,Boston Bruins,BOS
+46,2,6,New York Islanders,Boston Bruins,2022020713166,2022020713,Shot,166,SHOT,Matt Grzelcyk Wrap-around saved by Semyon Varlamov,2023-01-19T00:52:03Z,1,09:28,10:32,0,0,6.0,Boston Bruins,BOS
+47,2,6,New York Islanders,Boston Bruins,2022020713167,2022020713,Missed Shot,167,MISSED_SHOT,Mathew Barzal Wide of Net Linus Ullmark,2023-01-19T00:52:16Z,1,09:41,10:19,0,0,2.0,New York Islanders,NYI
+48,2,6,New York Islanders,Boston Bruins,202202071322,2022020713,Hit,22,HIT,Nick Foligno hit Ryan Pulock,2023-01-19T00:52:32Z,1,09:57,10:03,0,0,6.0,Boston Bruins,BOS
+49,2,6,New York Islanders,Boston Bruins,202202071323,2022020713,Hit,23,HIT,Anders Lee hit Trent Frederic,2023-01-19T00:53:05Z,1,10:30,09:30,0,0,2.0,New York Islanders,NYI
+50,2,6,New York Islanders,Boston Bruins,2022020713168,2022020713,Missed Shot,168,MISSED_SHOT,Noah Dobson Wide of Net Linus Ullmark,2023-01-19T00:53:13Z,1,10:38,09:22,0,0,2.0,New York Islanders,NYI
+51,2,6,New York Islanders,Boston Bruins,2022020713169,2022020713,Shot,169,SHOT,Zach Parise Deflected saved by Linus Ullmark,2023-01-19T00:53:46Z,1,11:11,08:49,0,0,2.0,New York Islanders,NYI
+52,2,6,New York Islanders,Boston Bruins,202202071324,2022020713,Missed Shot,24,MISSED_SHOT,Zach Parise Wide of Net Linus Ullmark,2023-01-19T00:53:48Z,1,11:13,08:47,0,0,2.0,New York Islanders,NYI
+53,2,6,New York Islanders,Boston Bruins,202202071345,2022020713,Stoppage,45,STOP,TV timeout,2023-01-19T00:53:57Z,1,11:23,08:37,0,0,,,
+54,2,6,New York Islanders,Boston Bruins,2022020713307,2022020713,Penalty,307,PENALTY,Hudson Fasching Tripping against Hampus Lindholm,2023-01-19T00:53:57Z,1,11:23,08:37,0,0,2.0,New York Islanders,NYI
+55,2,6,New York Islanders,Boston Bruins,202202071364,2022020713,Faceoff,64,FACEOFF,Brad Marchand faceoff won against Casey Cizikas,2023-01-19T00:56:21Z,1,11:23,08:37,0,0,6.0,Boston Bruins,BOS
+56,2,6,New York Islanders,Boston Bruins,202202071365,2022020713,Giveaway,65,GIVEAWAY,Giveaway by Casey Cizikas,2023-01-19T00:56:36Z,1,11:38,08:22,0,0,2.0,New York Islanders,NYI
+57,2,6,New York Islanders,Boston Bruins,202202071366,2022020713,Takeaway,66,TAKEAWAY,Takeaway by Casey Cizikas,2023-01-19T00:56:41Z,1,11:43,08:17,0,0,2.0,New York Islanders,NYI
+58,2,6,New York Islanders,Boston Bruins,2022020713170,2022020713,Blocked Shot,170,BLOCKED_SHOT,Charlie McAvoy shot blocked shot by Scott Mayfield,2023-01-19T00:56:59Z,1,12:01,07:59,0,0,2.0,New York Islanders,NYI
+59,2,6,New York Islanders,Boston Bruins,2022020713171,2022020713,Missed Shot,171,MISSED_SHOT,Brad Marchand Wide of Net Semyon Varlamov,2023-01-19T00:57:26Z,1,12:28,07:32,0,0,6.0,Boston Bruins,BOS
+60,2,6,New York Islanders,Boston Bruins,2022020713172,2022020713,Blocked Shot,172,BLOCKED_SHOT,Brock Nelson shot blocked shot by David Krejci,2023-01-19T00:58:09Z,1,13:11,06:49,0,0,6.0,Boston Bruins,BOS
+61,2,6,New York Islanders,Boston Bruins,2022020713175,2022020713,Blocked Shot,175,BLOCKED_SHOT,Hampus Lindholm shot blocked shot by Sebastian Aho,2023-01-19T00:58:30Z,1,13:32,06:28,0,0,2.0,New York Islanders,NYI
+62,2,6,New York Islanders,Boston Bruins,2022020713253,2022020713,Missed Shot,253,MISSED_SHOT,Nick Foligno Wide of Net Semyon Varlamov,2023-01-19T00:58:47Z,1,13:49,06:11,0,0,6.0,Boston Bruins,BOS
+63,2,6,New York Islanders,Boston Bruins,202202071326,2022020713,Hit,26,HIT,Derek Forbort hit Anthony Beauvillier,2023-01-19T00:59:10Z,1,14:12,05:48,0,0,6.0,Boston Bruins,BOS
+64,2,6,New York Islanders,Boston Bruins,202202071327,2022020713,Shot,27,SHOT,Anthony Beauvillier Wrist Shot saved by Linus Ullmark,2023-01-19T00:59:26Z,1,14:27,05:33,0,0,2.0,New York Islanders,NYI
+65,2,6,New York Islanders,Boston Bruins,202202071328,2022020713,Stoppage,28,STOP,Goalie Stopped,2023-01-19T00:59:26Z,1,14:27,05:33,0,0,,,
+66,2,6,New York Islanders,Boston Bruins,202202071367,2022020713,Faceoff,67,FACEOFF,Patrice Bergeron faceoff won against Brock Nelson,2023-01-19T01:01:36Z,1,14:27,05:33,0,0,6.0,Boston Bruins,BOS
+67,2,6,New York Islanders,Boston Bruins,2022020713176,2022020713,Shot,176,SHOT,Brad Marchand Wrist Shot saved by Semyon Varlamov,2023-01-19T01:02:01Z,1,14:52,05:08,0,0,6.0,Boston Bruins,BOS
+68,2,6,New York Islanders,Boston Bruins,202202071329,2022020713,Stoppage,29,STOP,Goalie Stopped,2023-01-19T01:02:03Z,1,14:54,05:06,0,0,,,
+69,2,6,New York Islanders,Boston Bruins,202202071368,2022020713,Faceoff,68,FACEOFF,David Krejci faceoff won against Jean-Gabriel Pageau,2023-01-19T01:02:47Z,1,14:54,05:06,0,0,6.0,Boston Bruins,BOS
+70,2,6,New York Islanders,Boston Bruins,202202071330,2022020713,Stoppage,30,STOP,Icing,2023-01-19T01:03:04Z,1,15:11,04:49,0,0,,,
+71,2,6,New York Islanders,Boston Bruins,202202071369,2022020713,Faceoff,69,FACEOFF,David Krejci faceoff won against Jean-Gabriel Pageau,2023-01-19T01:03:39Z,1,15:11,04:49,0,0,6.0,Boston Bruins,BOS
+72,2,6,New York Islanders,Boston Bruins,2022020713177,2022020713,Goal,177,GOAL,"Zach Parise (13) Slap Shot, assists: Sebastian Aho (6), Jean-Gabriel Pageau (17)",2023-01-19T01:04:09Z,1,15:41,04:19,1,0,2.0,New York Islanders,NYI
+73,2,6,New York Islanders,Boston Bruins,202202071331,2022020713,Faceoff,31,FACEOFF,Charlie Coyle faceoff won against Casey Cizikas,2023-01-19T01:05:00Z,1,15:41,04:19,1,0,6.0,Boston Bruins,BOS
+74,2,6,New York Islanders,Boston Bruins,202202071332,2022020713,Hit,32,HIT,Casey Cizikas hit Connor Clifton,2023-01-19T01:05:04Z,1,15:45,04:15,1,0,2.0,New York Islanders,NYI
+75,2,6,New York Islanders,Boston Bruins,2022020713178,2022020713,Shot,178,SHOT,Cal Clutterbuck Deflected saved by Linus Ullmark,2023-01-19T01:05:17Z,1,15:58,04:02,1,0,2.0,New York Islanders,NYI
+76,2,6,New York Islanders,Boston Bruins,2022020713179,2022020713,Missed Shot,179,MISSED_SHOT,Brandon Carlo Wide of Net Semyon Varlamov,2023-01-19T01:05:47Z,1,16:28,03:32,1,0,6.0,Boston Bruins,BOS
+77,2,6,New York Islanders,Boston Bruins,2022020713181,2022020713,Blocked Shot,181,BLOCKED_SHOT,Scott Mayfield shot blocked shot by Patrice Bergeron,2023-01-19T01:06:01Z,1,16:42,03:18,1,0,6.0,Boston Bruins,BOS
+78,2,6,New York Islanders,Boston Bruins,202202071334,2022020713,Hit,34,HIT,Ryan Pulock hit A.J. Greer,2023-01-19T01:06:23Z,1,17:04,02:56,1,0,2.0,New York Islanders,NYI
+79,2,6,New York Islanders,Boston Bruins,202202071335,2022020713,Hit,35,HIT,Brock Nelson hit Charlie McAvoy,2023-01-19T01:06:51Z,1,17:32,02:28,1,0,2.0,New York Islanders,NYI
+80,2,6,New York Islanders,Boston Bruins,2022020713254,2022020713,Blocked Shot,254,BLOCKED_SHOT,Anthony Beauvillier shot blocked shot by Joona Koppanen,2023-01-19T01:07:05Z,1,17:46,02:14,1,0,6.0,Boston Bruins,BOS
+81,2,6,New York Islanders,Boston Bruins,2022020713182,2022020713,Shot,182,SHOT,Anthony Beauvillier Tip-In saved by Linus Ullmark,2023-01-19T01:07:20Z,1,18:01,01:59,1,0,2.0,New York Islanders,NYI
+82,2,6,New York Islanders,Boston Bruins,2022020713183,2022020713,Missed Shot,183,MISSED_SHOT,Mathew Barzal Wide of Net Linus Ullmark,2023-01-19T01:07:22Z,1,18:03,01:57,1,0,2.0,New York Islanders,NYI
+83,2,6,New York Islanders,Boston Bruins,202202071337,2022020713,Blocked Shot,37,BLOCKED_SHOT,Ryan Pulock shot blocked shot by Nick Foligno,2023-01-19T01:07:30Z,1,18:11,01:49,1,0,6.0,Boston Bruins,BOS
+84,2,6,New York Islanders,Boston Bruins,2022020713456,2022020713,Penalty,456,PENALTY,Charlie McAvoy High-sticking against Brock Nelson,2023-01-19T01:07:35Z,1,18:16,01:44,1,0,6.0,Boston Bruins,BOS
+85,2,6,New York Islanders,Boston Bruins,202202071370,2022020713,Faceoff,70,FACEOFF,Patrice Bergeron faceoff won against Jean-Gabriel Pageau,2023-01-19T01:08:09Z,1,18:16,01:44,1,0,6.0,Boston Bruins,BOS
+86,2,6,New York Islanders,Boston Bruins,202202071338,2022020713,Hit,38,HIT,Derek Forbort hit Noah Dobson,2023-01-19T01:08:40Z,1,18:47,01:13,1,0,6.0,Boston Bruins,BOS
+87,2,6,New York Islanders,Boston Bruins,202202071339,2022020713,Hit,39,HIT,Derek Forbort hit Anders Lee,2023-01-19T01:08:53Z,1,19:00,01:00,1,0,6.0,Boston Bruins,BOS
+88,2,6,New York Islanders,Boston Bruins,202202071340,2022020713,Stoppage,40,STOP,Puck in Crowd,2023-01-19T01:09:02Z,1,19:08,00:52,1,0,,,
+89,2,6,New York Islanders,Boston Bruins,202202071371,2022020713,Faceoff,71,FACEOFF,Casey Cizikas faceoff won against Brad Marchand,2023-01-19T01:09:38Z,1,19:08,00:52,1,0,2.0,New York Islanders,NYI
+90,2,6,New York Islanders,Boston Bruins,202202071341,2022020713,Stoppage,41,STOP,Puck in Crowd,2023-01-19T01:09:53Z,1,19:23,00:37,1,0,,,
+91,2,6,New York Islanders,Boston Bruins,202202071372,2022020713,Faceoff,72,FACEOFF,Patrice Bergeron faceoff won against Josh Bailey,2023-01-19T01:10:15Z,1,19:23,00:37,1,0,6.0,Boston Bruins,BOS
+92,2,6,New York Islanders,Boston Bruins,202202071373,2022020713,Giveaway,73,GIVEAWAY,Giveaway by Hampus Lindholm,2023-01-19T01:10:29Z,1,19:37,00:23,1,0,6.0,Boston Bruins,BOS
+93,2,6,New York Islanders,Boston Bruins,2022020713185,2022020713,Blocked Shot,185,BLOCKED_SHOT,Dennis Cholowski shot blocked shot by Patrice Bergeron,2023-01-19T01:10:34Z,1,19:42,00:18,1,0,6.0,Boston Bruins,BOS
+94,2,6,New York Islanders,Boston Bruins,202202071342,2022020713,Period End,42,PERIOD_END,End of 1st Period,2023-01-19T01:10:52Z,1,20:00,00:00,1,0,,,
+95,2,6,New York Islanders,Boston Bruins,202202071346,2022020713,Period Official,46,PERIOD_OFFICIAL,Period Official,2023-01-19T01:27:26Z,1,20:00,00:00,1,0,,,
+96,2,6,New York Islanders,Boston Bruins,202202071347,2022020713,Period Ready,47,PERIOD_READY,Period Ready,2023-01-19T01:27:33Z,2,00:00,20:00,1,0,,,
+97,2,6,New York Islanders,Boston Bruins,202202071374,2022020713,Period Start,74,PERIOD_START,Period Start,2023-01-19T01:29:45Z,2,00:00,20:00,1,0,,,
+98,2,6,New York Islanders,Boston Bruins,202202071375,2022020713,Faceoff,75,FACEOFF,Charlie Coyle faceoff won against Brock Nelson,2023-01-19T01:29:45Z,2,00:00,20:00,1,0,6.0,Boston Bruins,BOS
+99,2,6,New York Islanders,Boston Bruins,202202071376,2022020713,Takeaway,76,TAKEAWAY,Takeaway by Casey Cizikas,2023-01-19T01:30:47Z,2,01:02,18:58,1,0,2.0,New York Islanders,NYI
+100,2,6,New York Islanders,Boston Bruins,202202071348,2022020713,Hit,48,HIT,Pavel Zacha hit Matt Martin,2023-01-19T01:31:17Z,2,01:32,18:28,1,0,6.0,Boston Bruins,BOS
+101,2,6,New York Islanders,Boston Bruins,202202071349,2022020713,Hit,49,HIT,Connor Clifton hit Cal Clutterbuck,2023-01-19T01:31:22Z,2,01:37,18:23,1,0,6.0,Boston Bruins,BOS
+102,2,6,New York Islanders,Boston Bruins,202202071377,2022020713,Takeaway,77,TAKEAWAY,Takeaway by Jean-Gabriel Pageau,2023-01-19T01:31:43Z,2,01:58,18:02,1,0,2.0,New York Islanders,NYI
+103,2,6,New York Islanders,Boston Bruins,2022020713187,2022020713,Blocked Shot,187,BLOCKED_SHOT,Sebastian Aho shot blocked shot by Charlie McAvoy,2023-01-19T01:31:57Z,2,02:12,17:48,1,0,6.0,Boston Bruins,BOS
+104,2,6,New York Islanders,Boston Bruins,202202071350,2022020713,Shot,50,SHOT,Zach Parise Snap Shot saved by Linus Ullmark,2023-01-19T01:32:02Z,2,02:17,17:43,1,0,2.0,New York Islanders,NYI
+105,2,6,New York Islanders,Boston Bruins,2022020713351,2022020713,Stoppage,351,STOP,Goalie Stopped,2023-01-19T01:32:04Z,2,02:19,17:41,1,0,,,
+106,2,6,New York Islanders,Boston Bruins,202202071378,2022020713,Faceoff,78,FACEOFF,Patrice Bergeron faceoff won against Josh Bailey,2023-01-19T01:32:36Z,2,02:19,17:41,1,0,6.0,Boston Bruins,BOS
+107,2,6,New York Islanders,Boston Bruins,2022020713352,2022020713,Stoppage,352,STOP,Offside,2023-01-19T01:33:15Z,2,02:58,17:02,1,0,,,
+108,2,6,New York Islanders,Boston Bruins,202202071379,2022020713,Faceoff,79,FACEOFF,Casey Cizikas faceoff won against Joona Koppanen,2023-01-19T01:33:46Z,2,02:58,17:02,1,0,2.0,New York Islanders,NYI
+109,2,6,New York Islanders,Boston Bruins,2022020713353,2022020713,Hit,353,HIT,A.J. Greer hit Dennis Cholowski,2023-01-19T01:33:55Z,2,03:07,16:53,1,0,6.0,Boston Bruins,BOS
+110,2,6,New York Islanders,Boston Bruins,2022020713354,2022020713,Giveaway,354,GIVEAWAY,Giveaway by Matt Martin,2023-01-19T01:34:10Z,2,03:22,16:38,1,0,2.0,New York Islanders,NYI
+111,2,6,New York Islanders,Boston Bruins,2022020713355,2022020713,Hit,355,HIT,Alexander Romanov hit Connor Clifton,2023-01-19T01:34:31Z,2,03:43,16:17,1,0,2.0,New York Islanders,NYI
+112,2,6,New York Islanders,Boston Bruins,2022020713188,2022020713,Shot,188,SHOT,Anders Lee Tip-In saved by Linus Ullmark,2023-01-19T01:34:40Z,2,03:52,16:08,1,0,2.0,New York Islanders,NYI
+113,2,6,New York Islanders,Boston Bruins,2022020713356,2022020713,Missed Shot,356,MISSED_SHOT,Brock Nelson Wide of Net Linus Ullmark,2023-01-19T01:34:41Z,2,03:53,16:07,1,0,2.0,New York Islanders,NYI
+114,2,6,New York Islanders,Boston Bruins,2022020713189,2022020713,Missed Shot,189,MISSED_SHOT,Taylor Hall Hit Crossbar Semyon Varlamov,2023-01-19T01:34:55Z,2,04:07,15:53,1,0,6.0,Boston Bruins,BOS
+115,2,6,New York Islanders,Boston Bruins,2022020713191,2022020713,Missed Shot,191,MISSED_SHOT,Pavel Zacha Wide of Net Semyon Varlamov,2023-01-19T01:35:56Z,2,05:08,14:52,1,0,6.0,Boston Bruins,BOS
+116,2,6,New York Islanders,Boston Bruins,2022020713357,2022020713,Shot,357,SHOT,David Krejci Wrist Shot saved by Semyon Varlamov,2023-01-19T01:36:04Z,2,05:16,14:44,1,0,6.0,Boston Bruins,BOS
+117,2,6,New York Islanders,Boston Bruins,2022020713358,2022020713,Hit,358,HIT,David Krejci hit Sebastian Aho,2023-01-19T01:36:16Z,2,05:28,14:32,1,0,6.0,Boston Bruins,BOS
+118,2,6,New York Islanders,Boston Bruins,2022020713359,2022020713,Hit,359,HIT,Sebastian Aho hit David Pastrnak,2023-01-19T01:36:23Z,2,05:35,14:25,1,0,2.0,New York Islanders,NYI
+119,2,6,New York Islanders,Boston Bruins,2022020713360,2022020713,Stoppage,360,STOP,Offside,2023-01-19T01:36:35Z,2,05:46,14:14,1,0,,,
+120,2,6,New York Islanders,Boston Bruins,202202071380,2022020713,Faceoff,80,FACEOFF,Patrice Bergeron faceoff won against Casey Cizikas,2023-01-19T01:37:12Z,2,05:46,14:14,1,0,6.0,Boston Bruins,BOS
+121,2,6,New York Islanders,Boston Bruins,202202071381,2022020713,Giveaway,81,GIVEAWAY,Giveaway by Scott Mayfield,2023-01-19T01:37:28Z,2,06:02,13:58,1,0,2.0,New York Islanders,NYI
+122,2,6,New York Islanders,Boston Bruins,2022020713361,2022020713,Hit,361,HIT,Matt Martin hit Connor Clifton,2023-01-19T01:37:30Z,2,06:04,13:56,1,0,2.0,New York Islanders,NYI
+123,2,6,New York Islanders,Boston Bruins,2022020713362,2022020713,Hit,362,HIT,Patrice Bergeron hit Matt Martin,2023-01-19T01:37:38Z,2,06:12,13:48,1,0,6.0,Boston Bruins,BOS
+124,2,6,New York Islanders,Boston Bruins,202202071382,2022020713,Takeaway,82,TAKEAWAY,Takeaway by Joona Koppanen,2023-01-19T01:38:18Z,2,06:52,13:08,1,0,6.0,Boston Bruins,BOS
+125,2,6,New York Islanders,Boston Bruins,202202071383,2022020713,Giveaway,83,GIVEAWAY,Giveaway by Joona Koppanen,2023-01-19T01:38:23Z,2,06:57,13:03,1,0,6.0,Boston Bruins,BOS
+126,2,6,New York Islanders,Boston Bruins,2022020713192,2022020713,Goal,192,GOAL,"Charlie McAvoy (3) Slap Shot, assists: Matt Grzelcyk (13), Charlie Coyle (14)",2023-01-19T01:39:14Z,2,07:48,12:12,1,1,6.0,Boston Bruins,BOS
+127,2,6,New York Islanders,Boston Bruins,2022020713363,2022020713,Faceoff,363,FACEOFF,Jean-Gabriel Pageau faceoff won against David Krejci,2023-01-19T01:40:26Z,2,07:48,12:12,1,1,2.0,New York Islanders,NYI
+128,2,6,New York Islanders,Boston Bruins,2022020713364,2022020713,Hit,364,HIT,Craig Smith hit Brock Nelson,2023-01-19T01:41:24Z,2,08:46,11:14,1,1,6.0,Boston Bruins,BOS
+129,2,6,New York Islanders,Boston Bruins,2022020713193,2022020713,Shot,193,SHOT,Brad Marchand Wrist Shot saved by Semyon Varlamov,2023-01-19T01:41:34Z,2,08:56,11:04,1,1,6.0,Boston Bruins,BOS
+130,2,6,New York Islanders,Boston Bruins,2022020713365,2022020713,Stoppage,365,STOP,Puck in Netting,2023-01-19T01:41:35Z,2,08:57,11:03,1,1,,,
+131,2,6,New York Islanders,Boston Bruins,202202071384,2022020713,Faceoff,84,FACEOFF,Casey Cizikas faceoff won against Patrice Bergeron,2023-01-19T01:43:49Z,2,08:57,11:03,1,1,2.0,New York Islanders,NYI
+132,2,6,New York Islanders,Boston Bruins,2022020713194,2022020713,Shot,194,SHOT,Matt Martin Wrist Shot saved by Linus Ullmark,2023-01-19T01:44:20Z,2,09:28,10:32,1,1,2.0,New York Islanders,NYI
+133,2,6,New York Islanders,Boston Bruins,2022020713366,2022020713,Stoppage,366,STOP,Goalie Stopped,2023-01-19T01:44:21Z,2,09:29,10:31,1,1,,,
+134,2,6,New York Islanders,Boston Bruins,202202071385,2022020713,Faceoff,85,FACEOFF,Mathew Barzal faceoff won against Joona Koppanen,2023-01-19T01:44:59Z,2,09:29,10:31,1,1,2.0,New York Islanders,NYI
+135,2,6,New York Islanders,Boston Bruins,2022020713195,2022020713,Blocked Shot,195,BLOCKED_SHOT,Ryan Pulock shot blocked shot by Nick Foligno,2023-01-19T01:45:02Z,2,09:32,10:28,1,1,6.0,Boston Bruins,BOS
+136,2,6,New York Islanders,Boston Bruins,2022020713367,2022020713,Stoppage,367,STOP,Puck in Crowd,2023-01-19T01:45:03Z,2,09:34,10:26,1,1,,,
+137,2,6,New York Islanders,Boston Bruins,202202071386,2022020713,Faceoff,86,FACEOFF,Charlie Coyle faceoff won against William Dufour,2023-01-19T01:45:50Z,2,09:34,10:26,1,1,6.0,Boston Bruins,BOS
+138,2,6,New York Islanders,Boston Bruins,2022020713368,2022020713,Hit,368,HIT,Trent Frederic hit Ryan Pulock,2023-01-19T01:46:05Z,2,09:49,10:11,1,1,6.0,Boston Bruins,BOS
+139,2,6,New York Islanders,Boston Bruins,202202071387,2022020713,Giveaway,87,GIVEAWAY,Giveaway by William Dufour,2023-01-19T01:46:29Z,2,10:13,09:47,1,1,2.0,New York Islanders,NYI
+140,2,6,New York Islanders,Boston Bruins,2022020713196,2022020713,Missed Shot,196,MISSED_SHOT,Derek Forbort Wide of Net Semyon Varlamov,2023-01-19T01:46:45Z,2,10:29,09:31,1,1,6.0,Boston Bruins,BOS
+141,2,6,New York Islanders,Boston Bruins,2022020713197,2022020713,Shot,197,SHOT,David Pastrnak Wrist Shot saved by Semyon Varlamov,2023-01-19T01:46:55Z,2,10:39,09:21,1,1,6.0,Boston Bruins,BOS
+142,2,6,New York Islanders,Boston Bruins,202202071388,2022020713,Giveaway,88,GIVEAWAY,Giveaway by Taylor Hall,2023-01-19T01:47:03Z,2,10:47,09:13,1,1,6.0,Boston Bruins,BOS
+143,2,6,New York Islanders,Boston Bruins,2022020713198,2022020713,Missed Shot,198,MISSED_SHOT,Pavel Zacha Goalpost Semyon Varlamov,2023-01-19T01:47:15Z,2,10:59,09:01,1,1,6.0,Boston Bruins,BOS
+144,2,6,New York Islanders,Boston Bruins,2022020713369,2022020713,Goal,369,GOAL,"Derek Forbort (3) Poke, assists: David Krejci (24), Pavel Zacha (22)",2023-01-19T01:47:16Z,2,11:00,09:00,1,2,6.0,Boston Bruins,BOS
+145,2,6,New York Islanders,Boston Bruins,202202071389,2022020713,Faceoff,89,FACEOFF,Joona Koppanen faceoff won against Brock Nelson,2023-01-19T01:47:57Z,2,11:00,09:00,1,2,6.0,Boston Bruins,BOS
+146,2,6,New York Islanders,Boston Bruins,202202071390,2022020713,Giveaway,90,GIVEAWAY,Giveaway by Brock Nelson,2023-01-19T01:48:39Z,2,11:42,08:18,1,2,2.0,New York Islanders,NYI
+147,2,6,New York Islanders,Boston Bruins,2022020713199,2022020713,Shot,199,SHOT,Anthony Beauvillier Wrist Shot saved by Linus Ullmark,2023-01-19T01:48:53Z,2,11:56,08:04,1,2,2.0,New York Islanders,NYI
+148,2,6,New York Islanders,Boston Bruins,2022020713371,2022020713,Hit,371,HIT,Cal Clutterbuck hit Brandon Carlo,2023-01-19T01:49:19Z,2,12:22,07:38,1,2,2.0,New York Islanders,NYI
+149,2,6,New York Islanders,Boston Bruins,2022020713200,2022020713,Shot,200,SHOT,Brad Marchand Backhand saved by Semyon Varlamov,2023-01-19T01:49:29Z,2,12:32,07:28,1,2,6.0,Boston Bruins,BOS
+150,2,6,New York Islanders,Boston Bruins,2022020713402,2022020713,Missed Shot,402,MISSED_SHOT,Alexander Romanov Wide of Net Linus Ullmark,2023-01-19T01:50:09Z,2,13:12,06:48,1,2,2.0,New York Islanders,NYI
+151,2,6,New York Islanders,Boston Bruins,2022020713403,2022020713,Shot,403,SHOT,Noah Dobson Wrist Shot saved by Linus Ullmark,2023-01-19T01:50:29Z,2,13:32,06:28,1,2,2.0,New York Islanders,NYI
+152,2,6,New York Islanders,Boston Bruins,2022020713372,2022020713,Stoppage,372,STOP,Goalie Stopped,2023-01-19T01:50:29Z,2,13:33,06:27,1,2,,,
+153,2,6,New York Islanders,Boston Bruins,202202071391,2022020713,Faceoff,91,FACEOFF,Mathew Barzal faceoff won against Charlie Coyle,2023-01-19T01:52:48Z,2,13:33,06:27,1,2,2.0,New York Islanders,NYI
+154,2,6,New York Islanders,Boston Bruins,2022020713405,2022020713,Blocked Shot,405,BLOCKED_SHOT,Ryan Pulock shot blocked shot by Charlie McAvoy,2023-01-19T01:53:02Z,2,13:47,06:13,1,2,6.0,Boston Bruins,BOS
+155,2,6,New York Islanders,Boston Bruins,202202071392,2022020713,Takeaway,92,TAKEAWAY,Takeaway by Anthony Beauvillier,2023-01-19T01:53:03Z,2,13:48,06:12,1,2,2.0,New York Islanders,NYI
+156,2,6,New York Islanders,Boston Bruins,2022020713373,2022020713,Giveaway,373,GIVEAWAY,Giveaway by Josh Bailey,2023-01-19T01:53:23Z,2,14:08,05:52,1,2,2.0,New York Islanders,NYI
+157,2,6,New York Islanders,Boston Bruins,2022020713406,2022020713,Blocked Shot,406,BLOCKED_SHOT,Brandon Carlo shot blocked shot by Noah Dobson,2023-01-19T01:53:51Z,2,14:36,05:24,1,2,2.0,New York Islanders,NYI
+158,2,6,New York Islanders,Boston Bruins,2022020713374,2022020713,Hit,374,HIT,Pavel Zacha hit Zach Parise,2023-01-19T01:53:56Z,2,14:41,05:19,1,2,6.0,Boston Bruins,BOS
+159,2,6,New York Islanders,Boston Bruins,202202071393,2022020713,Shot,93,SHOT,Brandon Carlo Wrist Shot saved by Semyon Varlamov,2023-01-19T01:53:59Z,2,14:44,05:16,1,2,6.0,Boston Bruins,BOS
+160,2,6,New York Islanders,Boston Bruins,2022020713407,2022020713,Blocked Shot,407,BLOCKED_SHOT,David Pastrnak shot blocked shot by Jean-Gabriel Pageau,2023-01-19T01:54:17Z,2,15:02,04:58,1,2,2.0,New York Islanders,NYI
+161,2,6,New York Islanders,Boston Bruins,2022020713376,2022020713,Penalty,376,PENALTY,David Pastrnak Tripping against Sebastian Aho,2023-01-19T01:55:04Z,2,15:49,04:11,1,2,6.0,Boston Bruins,BOS
+162,2,6,New York Islanders,Boston Bruins,202202071394,2022020713,Faceoff,94,FACEOFF,Jean-Gabriel Pageau faceoff won against Patrice Bergeron,2023-01-19T01:57:18Z,2,15:49,04:11,1,2,2.0,New York Islanders,NYI
+163,2,6,New York Islanders,Boston Bruins,2022020713408,2022020713,Shot,408,SHOT,Anders Lee Tip-In saved by Linus Ullmark,2023-01-19T01:57:23Z,2,15:54,04:06,1,2,2.0,New York Islanders,NYI
+164,2,6,New York Islanders,Boston Bruins,2022020713380,2022020713,Hit,380,HIT,Derek Forbort hit Jean-Gabriel Pageau,2023-01-19T01:57:42Z,2,16:13,03:47,1,2,6.0,Boston Bruins,BOS
+165,2,6,New York Islanders,Boston Bruins,2022020713642,2022020713,Penalty,642,PENALTY,Brock Nelson Roughing against Brandon Carlo,2023-01-19T01:57:44Z,2,16:15,03:45,1,2,2.0,New York Islanders,NYI
+166,2,6,New York Islanders,Boston Bruins,202202071395,2022020713,Faceoff,95,FACEOFF,Jean-Gabriel Pageau faceoff won against David Krejci,2023-01-19T01:58:48Z,2,16:15,03:45,1,2,2.0,New York Islanders,NYI
+167,2,6,New York Islanders,Boston Bruins,2022020713409,2022020713,Blocked Shot,409,BLOCKED_SHOT,Ryan Pulock shot blocked shot by David Krejci,2023-01-19T01:59:11Z,2,16:38,03:22,1,2,6.0,Boston Bruins,BOS
+168,2,6,New York Islanders,Boston Bruins,2022020713410,2022020713,Shot,410,SHOT,Casey Cizikas Wrist Shot saved by Linus Ullmark,2023-01-19T01:59:34Z,2,17:01,02:59,1,2,2.0,New York Islanders,NYI
+169,2,6,New York Islanders,Boston Bruins,2022020713381,2022020713,Stoppage,381,STOP,Goalie Stopped,2023-01-19T01:59:36Z,2,17:02,02:58,1,2,,,
+170,2,6,New York Islanders,Boston Bruins,202202071396,2022020713,Faceoff,96,FACEOFF,Casey Cizikas faceoff won against Charlie Coyle,2023-01-19T02:00:07Z,2,17:02,02:58,1,2,2.0,New York Islanders,NYI
+171,2,6,New York Islanders,Boston Bruins,2022020713411,2022020713,Missed Shot,411,MISSED_SHOT,Anthony Beauvillier Over Net Linus Ullmark,2023-01-19T02:00:34Z,2,17:29,02:31,1,2,2.0,New York Islanders,NYI
+172,2,6,New York Islanders,Boston Bruins,2022020713412,2022020713,Shot,412,SHOT,Charlie Coyle Wrist Shot saved by Semyon Varlamov,2023-01-19T02:00:52Z,2,17:47,02:13,1,2,6.0,Boston Bruins,BOS
+173,2,6,New York Islanders,Boston Bruins,2022020713382,2022020713,Stoppage,382,STOP,Goalie Puck Frozen Played Beyond Center Line,2023-01-19T02:01:05Z,2,18:00,02:00,1,2,,,
+174,2,6,New York Islanders,Boston Bruins,202202071397,2022020713,Faceoff,97,FACEOFF,Jean-Gabriel Pageau faceoff won against Patrice Bergeron,2023-01-19T02:01:32Z,2,18:00,02:00,1,2,2.0,New York Islanders,NYI
+175,2,6,New York Islanders,Boston Bruins,2022020713413,2022020713,Missed Shot,413,MISSED_SHOT,Charlie McAvoy Wide of Net Semyon Varlamov,2023-01-19T02:01:48Z,2,18:16,01:44,1,2,6.0,Boston Bruins,BOS
+176,2,6,New York Islanders,Boston Bruins,2022020713383,2022020713,Shot,383,SHOT,Brock Nelson Wrist Shot saved by Linus Ullmark,2023-01-19T02:02:08Z,2,18:36,01:24,1,2,2.0,New York Islanders,NYI
+177,2,6,New York Islanders,Boston Bruins,2022020713414,2022020713,Shot,414,SHOT,Scott Mayfield Wrist Shot saved by Linus Ullmark,2023-01-19T02:02:08Z,2,18:36,01:24,1,2,2.0,New York Islanders,NYI
+178,2,6,New York Islanders,Boston Bruins,2022020713384,2022020713,Stoppage,384,STOP,Goalie Stopped,2023-01-19T02:02:08Z,2,18:37,01:23,1,2,,,
+179,2,6,New York Islanders,Boston Bruins,202202071398,2022020713,Faceoff,98,FACEOFF,Brock Nelson faceoff won against David Krejci,2023-01-19T02:02:54Z,2,18:37,01:23,1,2,2.0,New York Islanders,NYI
+180,2,6,New York Islanders,Boston Bruins,2022020713415,2022020713,Blocked Shot,415,BLOCKED_SHOT,Sebastian Aho shot blocked shot by Connor Clifton,2023-01-19T02:03:00Z,2,18:43,01:17,1,2,6.0,Boston Bruins,BOS
+181,2,6,New York Islanders,Boston Bruins,2022020713416,2022020713,Blocked Shot,416,BLOCKED_SHOT,Brock Nelson shot blocked shot by Derek Forbort,2023-01-19T02:03:19Z,2,19:02,00:58,1,2,6.0,Boston Bruins,BOS
+182,2,6,New York Islanders,Boston Bruins,2022020713385,2022020713,Stoppage,385,STOP,Icing,2023-01-19T02:03:26Z,2,19:08,00:52,1,2,,,
+183,2,6,New York Islanders,Boston Bruins,202202071399,2022020713,Faceoff,99,FACEOFF,David Krejci faceoff won against Jean-Gabriel Pageau,2023-01-19T02:04:11Z,2,19:08,00:52,1,2,6.0,Boston Bruins,BOS
+184,2,6,New York Islanders,Boston Bruins,2022020713417,2022020713,Shot,417,SHOT,Jean-Gabriel Pageau Wrist Shot saved by Linus Ullmark,2023-01-19T02:04:18Z,2,19:15,00:45,1,2,2.0,New York Islanders,NYI
+185,2,6,New York Islanders,Boston Bruins,2022020713386,2022020713,Hit,386,HIT,Jean-Gabriel Pageau hit Connor Clifton,2023-01-19T02:04:30Z,2,19:27,00:33,1,2,2.0,New York Islanders,NYI
+186,2,6,New York Islanders,Boston Bruins,2022020713387,2022020713,Hit,387,HIT,Connor Clifton hit Jean-Gabriel Pageau,2023-01-19T02:04:37Z,2,19:34,00:26,1,2,6.0,Boston Bruins,BOS
+187,2,6,New York Islanders,Boston Bruins,2022020713388,2022020713,Hit,388,HIT,Charlie Coyle hit Noah Dobson,2023-01-19T02:04:50Z,2,19:47,00:13,1,2,6.0,Boston Bruins,BOS
+188,2,6,New York Islanders,Boston Bruins,2022020713419,2022020713,Shot,419,SHOT,Charlie Coyle Wrist Shot saved by Semyon Varlamov,2023-01-19T02:05:00Z,2,19:57,00:03,1,2,6.0,Boston Bruins,BOS
+189,2,6,New York Islanders,Boston Bruins,2022020713389,2022020713,Stoppage,389,STOP,Goalie Stopped,2023-01-19T02:05:01Z,2,19:58,00:02,1,2,,,
+190,2,6,New York Islanders,Boston Bruins,2022020713100,2022020713,Faceoff,100,FACEOFF,Nick Foligno faceoff won against Casey Cizikas,2023-01-19T02:05:43Z,2,19:58,00:02,1,2,6.0,Boston Bruins,BOS
+191,2,6,New York Islanders,Boston Bruins,2022020713390,2022020713,Period End,390,PERIOD_END,End of 2nd Period,2023-01-19T02:05:45Z,2,20:00,00:00,1,2,,,
+192,2,6,New York Islanders,Boston Bruins,2022020713393,2022020713,Period Official,393,PERIOD_OFFICIAL,Period Official,2023-01-19T02:22:22Z,2,20:00,00:00,1,2,,,
+193,2,6,New York Islanders,Boston Bruins,2022020713394,2022020713,Period Ready,394,PERIOD_READY,Period Ready,2023-01-19T02:22:27Z,3,00:00,20:00,1,2,,,
+194,2,6,New York Islanders,Boston Bruins,2022020713501,2022020713,Period Start,501,PERIOD_START,Period Start,2023-01-19T02:24:43Z,3,00:00,20:00,1,2,,,
+195,2,6,New York Islanders,Boston Bruins,2022020713502,2022020713,Faceoff,502,FACEOFF,Casey Cizikas faceoff won against Charlie Coyle,2023-01-19T02:24:43Z,3,00:00,20:00,1,2,2.0,New York Islanders,NYI
+196,2,6,New York Islanders,Boston Bruins,2022020713421,2022020713,Blocked Shot,421,BLOCKED_SHOT,Cal Clutterbuck shot blocked shot by Trent Frederic,2023-01-19T02:25:12Z,3,00:29,19:31,1,2,6.0,Boston Bruins,BOS
+197,2,6,New York Islanders,Boston Bruins,2022020713505,2022020713,Giveaway,505,GIVEAWAY,Giveaway by Connor Clifton,2023-01-19T02:25:12Z,3,00:29,19:31,1,2,6.0,Boston Bruins,BOS
+198,2,6,New York Islanders,Boston Bruins,2022020713395,2022020713,Stoppage,395,STOP,Puck in Crowd,2023-01-19T02:25:15Z,3,00:32,19:28,1,2,,,
+199,2,6,New York Islanders,Boston Bruins,2022020713503,2022020713,Faceoff,503,FACEOFF,Patrice Bergeron faceoff won against Brock Nelson,2023-01-19T02:25:38Z,3,00:32,19:28,1,2,6.0,Boston Bruins,BOS
+200,2,6,New York Islanders,Boston Bruins,2022020713730,2022020713,Penalty,730,PENALTY,Patrice Bergeron High-sticking against Brock Nelson,2023-01-19T02:25:48Z,3,00:43,19:17,1,2,6.0,Boston Bruins,BOS
+201,2,6,New York Islanders,Boston Bruins,2022020713504,2022020713,Faceoff,504,FACEOFF,Charlie Coyle faceoff won against Jean-Gabriel Pageau,2023-01-19T02:26:33Z,3,00:43,19:17,1,2,6.0,Boston Bruins,BOS
+202,2,6,New York Islanders,Boston Bruins,2022020713422,2022020713,Shot,422,SHOT,Charlie Coyle Backhand saved by Semyon Varlamov,2023-01-19T02:26:48Z,3,00:58,19:02,1,2,6.0,Boston Bruins,BOS
+203,2,6,New York Islanders,Boston Bruins,2022020713423,2022020713,Blocked Shot,423,BLOCKED_SHOT,Anders Lee shot blocked shot by Derek Forbort,2023-01-19T02:27:06Z,3,01:16,18:44,1,2,6.0,Boston Bruins,BOS
+204,2,6,New York Islanders,Boston Bruins,2022020713424,2022020713,Shot,424,SHOT,Anthony Beauvillier Tip-In saved by Linus Ullmark,2023-01-19T02:27:57Z,3,02:07,17:53,1,2,2.0,New York Islanders,NYI
+205,2,6,New York Islanders,Boston Bruins,2022020713396,2022020713,Hit,396,HIT,Brandon Carlo hit Anthony Beauvillier,2023-01-19T02:28:17Z,3,02:27,17:33,1,2,6.0,Boston Bruins,BOS
+206,2,6,New York Islanders,Boston Bruins,2022020713425,2022020713,Blocked Shot,425,BLOCKED_SHOT,Dennis Cholowski shot blocked shot by Derek Forbort,2023-01-19T02:28:33Z,3,02:43,17:17,1,2,6.0,Boston Bruins,BOS
+207,2,6,New York Islanders,Boston Bruins,2022020713397,2022020713,Missed Shot,397,MISSED_SHOT,Dennis Cholowski Wide of Net Linus Ullmark,2023-01-19T02:28:40Z,3,02:50,17:10,1,2,2.0,New York Islanders,NYI
+208,2,6,New York Islanders,Boston Bruins,2022020713426,2022020713,Blocked Shot,426,BLOCKED_SHOT,Dennis Cholowski shot blocked shot by Derek Forbort,2023-01-19T02:28:44Z,3,02:54,17:06,1,2,6.0,Boston Bruins,BOS
+209,2,6,New York Islanders,Boston Bruins,2022020713398,2022020713,Hit,398,HIT,Taylor Hall hit Cal Clutterbuck,2023-01-19T02:29:31Z,3,03:41,16:19,1,2,6.0,Boston Bruins,BOS
+210,2,6,New York Islanders,Boston Bruins,2022020713399,2022020713,Stoppage,399,STOP,Puck Frozen,2023-01-19T02:29:43Z,3,03:53,16:07,1,2,,,
+211,2,6,New York Islanders,Boston Bruins,2022020713427,2022020713,Missed Shot,427,MISSED_SHOT,Charlie McAvoy Wide of Net Semyon Varlamov,2023-01-19T02:29:43Z,3,03:53,16:07,1,2,6.0,Boston Bruins,BOS
+212,2,6,New York Islanders,Boston Bruins,2022020713506,2022020713,Faceoff,506,FACEOFF,Patrice Bergeron faceoff won against Jean-Gabriel Pageau,2023-01-19T02:30:09Z,3,03:53,16:07,1,2,6.0,Boston Bruins,BOS
+213,2,6,New York Islanders,Boston Bruins,2022020713428,2022020713,Shot,428,SHOT,Connor Clifton Slap Shot saved by Semyon Varlamov,2023-01-19T02:30:12Z,3,03:56,16:04,1,2,6.0,Boston Bruins,BOS
+214,2,6,New York Islanders,Boston Bruins,2022020713429,2022020713,Missed Shot,429,MISSED_SHOT,Brad Marchand Wide of Net Semyon Varlamov,2023-01-19T02:30:22Z,3,04:06,15:54,1,2,6.0,Boston Bruins,BOS
+215,2,6,New York Islanders,Boston Bruins,2022020713400,2022020713,Hit,400,HIT,Connor Clifton hit Hudson Fasching,2023-01-19T02:30:31Z,3,04:15,15:45,1,2,6.0,Boston Bruins,BOS
+216,2,6,New York Islanders,Boston Bruins,2022020713430,2022020713,Shot,430,SHOT,Brad Marchand Wrist Shot saved by Semyon Varlamov,2023-01-19T02:30:36Z,3,04:20,15:40,1,2,6.0,Boston Bruins,BOS
+217,2,6,New York Islanders,Boston Bruins,2022020713762,2022020713,Penalty,762,PENALTY,Sebastian Aho Tripping against Brad Marchand,2023-01-19T02:30:38Z,3,04:22,15:38,1,2,2.0,New York Islanders,NYI
+218,2,6,New York Islanders,Boston Bruins,2022020713507,2022020713,Faceoff,507,FACEOFF,Patrice Bergeron faceoff won against Casey Cizikas,2023-01-19T02:31:20Z,3,04:22,15:38,1,2,6.0,Boston Bruins,BOS
+219,2,6,New York Islanders,Boston Bruins,2022020713431,2022020713,Blocked Shot,431,BLOCKED_SHOT,David Pastrnak shot blocked shot by Cal Clutterbuck,2023-01-19T02:31:23Z,3,04:25,15:35,1,2,2.0,New York Islanders,NYI
+220,2,6,New York Islanders,Boston Bruins,2022020713651,2022020713,Stoppage,651,STOP,Referee or Linesman,2023-01-19T02:31:24Z,3,04:26,15:34,1,2,,,
+221,2,6,New York Islanders,Boston Bruins,2022020713508,2022020713,Faceoff,508,FACEOFF,Brad Marchand faceoff won against Casey Cizikas,2023-01-19T02:32:23Z,3,04:26,15:34,1,2,6.0,Boston Bruins,BOS
+222,2,6,New York Islanders,Boston Bruins,2022020713652,2022020713,Blocked Shot,652,BLOCKED_SHOT,Brad Marchand shot blocked shot by Scott Mayfield,2023-01-19T02:32:34Z,3,04:37,15:23,1,2,2.0,New York Islanders,NYI
+223,2,6,New York Islanders,Boston Bruins,2022020713433,2022020713,Goal,433,GOAL,"Brad Marchand (15) Snap Shot, assists: David Pastrnak (28), Charlie McAvoy (24)",2023-01-19T02:33:00Z,3,05:03,14:57,1,3,6.0,Boston Bruins,BOS
+224,2,6,New York Islanders,Boston Bruins,2022020713653,2022020713,Faceoff,653,FACEOFF,Brock Nelson faceoff won against Joona Koppanen,2023-01-19T02:33:53Z,3,05:03,14:57,1,3,2.0,New York Islanders,NYI
+225,2,6,New York Islanders,Boston Bruins,2022020713654,2022020713,Hit,654,HIT,Nick Foligno hit Ryan Pulock,2023-01-19T02:34:07Z,3,05:17,14:43,1,3,6.0,Boston Bruins,BOS
+226,2,6,New York Islanders,Boston Bruins,2022020713509,2022020713,Giveaway,509,GIVEAWAY,Giveaway by Joona Koppanen,2023-01-19T02:34:24Z,3,05:34,14:26,1,3,6.0,Boston Bruins,BOS
+227,2,6,New York Islanders,Boston Bruins,2022020713774,2022020713,Penalty,774,PENALTY,Joona Koppanen Tripping against Anders Lee,2023-01-19T02:34:25Z,3,05:36,14:24,1,3,6.0,Boston Bruins,BOS
+228,2,6,New York Islanders,Boston Bruins,2022020713510,2022020713,Faceoff,510,FACEOFF,Jean-Gabriel Pageau faceoff won against Charlie Coyle,2023-01-19T02:35:01Z,3,05:36,14:24,1,3,2.0,New York Islanders,NYI
+229,2,6,New York Islanders,Boston Bruins,2022020713435,2022020713,Blocked Shot,435,BLOCKED_SHOT,Noah Dobson shot blocked shot by Charlie Coyle,2023-01-19T02:35:04Z,3,05:39,14:21,1,3,6.0,Boston Bruins,BOS
+230,2,6,New York Islanders,Boston Bruins,2022020713655,2022020713,Stoppage,655,STOP,Puck in Benches,2023-01-19T02:35:11Z,3,05:45,14:15,1,3,,,
+231,2,6,New York Islanders,Boston Bruins,2022020713511,2022020713,Faceoff,511,FACEOFF,Brock Nelson faceoff won against Charlie Coyle,2023-01-19T02:35:39Z,3,05:45,14:15,1,3,2.0,New York Islanders,NYI
+232,2,6,New York Islanders,Boston Bruins,2022020713436,2022020713,Shot,436,SHOT,Noah Dobson Slap Shot saved by Linus Ullmark,2023-01-19T02:35:44Z,3,05:50,14:10,1,3,2.0,New York Islanders,NYI
+233,2,6,New York Islanders,Boston Bruins,2022020713656,2022020713,Stoppage,656,STOP,Goalie Stopped,2023-01-19T02:35:47Z,3,05:52,14:08,1,3,,,
+234,2,6,New York Islanders,Boston Bruins,2022020713512,2022020713,Faceoff,512,FACEOFF,Charlie Coyle faceoff won against Jean-Gabriel Pageau,2023-01-19T02:36:08Z,3,05:52,14:08,1,3,6.0,Boston Bruins,BOS
+235,2,6,New York Islanders,Boston Bruins,2022020713437,2022020713,Shot,437,SHOT,Charlie Coyle Wrist Shot saved by Semyon Varlamov,2023-01-19T02:36:35Z,3,06:02,13:58,1,3,6.0,Boston Bruins,BOS
+236,2,6,New York Islanders,Boston Bruins,2022020713657,2022020713,Blocked Shot,657,BLOCKED_SHOT,Brad Marchand shot blocked shot by Anders Lee,2023-01-19T02:36:42Z,3,06:09,13:51,1,3,2.0,New York Islanders,NYI
+237,2,6,New York Islanders,Boston Bruins,2022020713438,2022020713,Missed Shot,438,MISSED_SHOT,Jean-Gabriel Pageau Wide of Net Linus Ullmark,2023-01-19T02:37:16Z,3,06:43,13:17,1,3,2.0,New York Islanders,NYI
+238,2,6,New York Islanders,Boston Bruins,2022020713658,2022020713,Stoppage,658,STOP,Puck in Crowd,2023-01-19T02:37:22Z,3,06:49,13:11,1,3,,,
+239,2,6,New York Islanders,Boston Bruins,2022020713513,2022020713,Faceoff,513,FACEOFF,Patrice Bergeron faceoff won against Zach Parise,2023-01-19T02:37:51Z,3,06:49,13:11,1,3,6.0,Boston Bruins,BOS
+240,2,6,New York Islanders,Boston Bruins,2022020713439,2022020713,Missed Shot,439,MISSED_SHOT,Zach Parise Goalpost Linus Ullmark,2023-01-19T02:38:13Z,3,07:11,12:49,1,3,2.0,New York Islanders,NYI
+241,2,6,New York Islanders,Boston Bruins,2022020713440,2022020713,Shot,440,SHOT,Zach Parise Wrist Shot saved by Linus Ullmark,2023-01-19T02:38:35Z,3,07:33,12:27,1,3,2.0,New York Islanders,NYI
+242,2,6,New York Islanders,Boston Bruins,2022020713441,2022020713,Blocked Shot,441,BLOCKED_SHOT,Dennis Cholowski shot blocked shot by Charlie Coyle,2023-01-19T02:38:44Z,3,07:42,12:18,1,3,6.0,Boston Bruins,BOS
+243,2,6,New York Islanders,Boston Bruins,2022020713659,2022020713,Blocked Shot,659,BLOCKED_SHOT,Dennis Cholowski shot blocked shot by Derek Forbort,2023-01-19T02:38:50Z,3,07:48,12:12,1,3,6.0,Boston Bruins,BOS
+244,2,6,New York Islanders,Boston Bruins,2022020713514,2022020713,Takeaway,514,TAKEAWAY,Takeaway by Joona Koppanen,2023-01-19T02:39:06Z,3,08:04,11:56,1,3,6.0,Boston Bruins,BOS
+245,2,6,New York Islanders,Boston Bruins,2022020713515,2022020713,Giveaway,515,GIVEAWAY,Giveaway by Matt Martin,2023-01-19T02:39:21Z,3,08:19,11:41,1,3,2.0,New York Islanders,NYI
+246,2,6,New York Islanders,Boston Bruins,2022020713660,2022020713,Stoppage,660,STOP,Puck in Benches,2023-01-19T02:39:25Z,3,08:22,11:38,1,3,,,
+247,2,6,New York Islanders,Boston Bruins,2022020713516,2022020713,Faceoff,516,FACEOFF,Casey Cizikas faceoff won against David Krejci,2023-01-19T02:41:38Z,3,08:22,11:38,1,3,2.0,New York Islanders,NYI
+248,2,6,New York Islanders,Boston Bruins,2022020713661,2022020713,Hit,661,HIT,Connor Clifton hit Cal Clutterbuck,2023-01-19T02:41:57Z,3,08:41,11:19,1,3,6.0,Boston Bruins,BOS
+249,2,6,New York Islanders,Boston Bruins,2022020713442,2022020713,Missed Shot,442,MISSED_SHOT,Cal Clutterbuck Wide of Net Linus Ullmark,2023-01-19T02:42:11Z,3,08:55,11:05,1,3,2.0,New York Islanders,NYI
+250,2,6,New York Islanders,Boston Bruins,2022020713517,2022020713,Takeaway,517,TAKEAWAY,Takeaway by Noah Dobson,2023-01-19T02:42:20Z,3,09:04,10:56,1,3,2.0,New York Islanders,NYI
+251,2,6,New York Islanders,Boston Bruins,2022020713662,2022020713,Hit,662,HIT,Matt Martin hit Derek Forbort,2023-01-19T02:42:20Z,3,09:04,10:56,1,3,2.0,New York Islanders,NYI
+252,2,6,New York Islanders,Boston Bruins,2022020713518,2022020713,Giveaway,518,GIVEAWAY,Giveaway by Connor Clifton,2023-01-19T02:42:25Z,3,09:09,10:51,1,3,6.0,Boston Bruins,BOS
+253,2,6,New York Islanders,Boston Bruins,2022020713443,2022020713,Blocked Shot,443,BLOCKED_SHOT,Alexander Romanov shot blocked shot by David Pastrnak,2023-01-19T02:42:36Z,3,09:20,10:40,1,3,6.0,Boston Bruins,BOS
+254,2,6,New York Islanders,Boston Bruins,2022020713519,2022020713,Giveaway,519,GIVEAWAY,Giveaway by Alexander Romanov,2023-01-19T02:42:59Z,3,09:43,10:17,1,3,2.0,New York Islanders,NYI
+255,2,6,New York Islanders,Boston Bruins,2022020713520,2022020713,Giveaway,520,GIVEAWAY,Giveaway by Anders Lee,2023-01-19T02:43:20Z,3,10:04,09:56,1,3,2.0,New York Islanders,NYI
+256,2,6,New York Islanders,Boston Bruins,2022020713445,2022020713,Missed Shot,445,MISSED_SHOT,Matt Grzelcyk Wide of Net Semyon Varlamov,2023-01-19T02:43:25Z,3,10:09,09:51,1,3,6.0,Boston Bruins,BOS
+257,2,6,New York Islanders,Boston Bruins,2022020713663,2022020713,Shot,663,SHOT,Craig Smith Snap Shot saved by Semyon Varlamov,2023-01-19T02:43:35Z,3,10:19,09:41,1,3,6.0,Boston Bruins,BOS
+258,2,6,New York Islanders,Boston Bruins,2022020713521,2022020713,Missed Shot,521,MISSED_SHOT,Brad Marchand Goalpost Semyon Varlamov,2023-01-19T02:43:37Z,3,10:21,09:39,1,3,6.0,Boston Bruins,BOS
+259,2,6,New York Islanders,Boston Bruins,2022020713664,2022020713,Hit,664,HIT,A.J. Greer hit Ryan Pulock,2023-01-19T02:44:00Z,3,10:44,09:16,1,3,6.0,Boston Bruins,BOS
+260,2,6,New York Islanders,Boston Bruins,2022020713446,2022020713,Shot,446,SHOT,Brandon Carlo Wrist Shot saved by Semyon Varlamov,2023-01-19T02:44:06Z,3,10:50,09:10,1,3,6.0,Boston Bruins,BOS
+261,2,6,New York Islanders,Boston Bruins,2022020713665,2022020713,Stoppage,665,STOP,Goalie Stopped,2023-01-19T02:44:07Z,3,10:51,09:09,1,3,,,
+262,2,6,New York Islanders,Boston Bruins,2022020713523,2022020713,Faceoff,523,FACEOFF,Charlie Coyle faceoff won against Jean-Gabriel Pageau,2023-01-19T02:46:19Z,3,10:51,09:09,1,3,6.0,Boston Bruins,BOS
+263,2,6,New York Islanders,Boston Bruins,2022020713666,2022020713,Hit,666,HIT,Ryan Pulock hit Taylor Hall,2023-01-19T02:46:35Z,3,11:07,08:53,1,3,2.0,New York Islanders,NYI
+264,2,6,New York Islanders,Boston Bruins,2022020713667,2022020713,Hit,667,HIT,Trent Frederic hit Alexander Romanov,2023-01-19T02:46:41Z,3,11:13,08:47,1,3,6.0,Boston Bruins,BOS
+265,2,6,New York Islanders,Boston Bruins,2022020713447,2022020713,Blocked Shot,447,BLOCKED_SHOT,Taylor Hall shot blocked shot by Jean-Gabriel Pageau,2023-01-19T02:46:58Z,3,11:30,08:30,1,3,2.0,New York Islanders,NYI
+266,2,6,New York Islanders,Boston Bruins,2022020713668,2022020713,Stoppage,668,STOP,Icing,2023-01-19T02:47:07Z,3,11:39,08:21,1,3,,,
+267,2,6,New York Islanders,Boston Bruins,2022020713524,2022020713,Faceoff,524,FACEOFF,Jean-Gabriel Pageau faceoff won against David Krejci,2023-01-19T02:47:36Z,3,11:39,08:21,1,3,2.0,New York Islanders,NYI
+268,2,6,New York Islanders,Boston Bruins,2022020713448,2022020713,Shot,448,SHOT,Casey Cizikas Wrist Shot saved by Linus Ullmark,2023-01-19T02:48:00Z,3,12:03,07:57,1,3,2.0,New York Islanders,NYI
+269,2,6,New York Islanders,Boston Bruins,2022020713669,2022020713,Stoppage,669,STOP,Goalie Stopped,2023-01-19T02:48:01Z,3,12:04,07:56,1,3,,,
+270,2,6,New York Islanders,Boston Bruins,2022020713525,2022020713,Faceoff,525,FACEOFF,David Krejci faceoff won against Casey Cizikas,2023-01-19T02:48:27Z,3,12:04,07:56,1,3,6.0,Boston Bruins,BOS
+271,2,6,New York Islanders,Boston Bruins,2022020713526,2022020713,Giveaway,526,GIVEAWAY,Giveaway by Josh Bailey,2023-01-19T02:48:47Z,3,12:24,07:36,1,3,2.0,New York Islanders,NYI
+272,2,6,New York Islanders,Boston Bruins,2022020713670,2022020713,Hit,670,HIT,Casey Cizikas hit Derek Forbort,2023-01-19T02:48:57Z,3,12:34,07:26,1,3,2.0,New York Islanders,NYI
+273,2,6,New York Islanders,Boston Bruins,2022020713449,2022020713,Blocked Shot,449,BLOCKED_SHOT,Josh Bailey shot blocked shot by Connor Clifton,2023-01-19T02:49:02Z,3,12:39,07:21,1,3,6.0,Boston Bruins,BOS
+274,2,6,New York Islanders,Boston Bruins,2022020713878,2022020713,Penalty,878,PENALTY,Noah Dobson Cross-checking against David Pastrnak,2023-01-19T02:49:11Z,3,12:48,07:12,1,3,2.0,New York Islanders,NYI
+275,2,6,New York Islanders,Boston Bruins,2022020713527,2022020713,Faceoff,527,FACEOFF,Patrice Bergeron faceoff won against Jean-Gabriel Pageau,2023-01-19T02:49:50Z,3,12:48,07:12,1,3,6.0,Boston Bruins,BOS
+276,2,6,New York Islanders,Boston Bruins,2022020713450,2022020713,Missed Shot,450,MISSED_SHOT,Jean-Gabriel Pageau Wide of Net Linus Ullmark,2023-01-19T02:50:35Z,3,13:17,06:43,1,3,2.0,New York Islanders,NYI
+277,2,6,New York Islanders,Boston Bruins,2022020713671,2022020713,Hit,671,HIT,Cal Clutterbuck hit David Pastrnak,2023-01-19T02:51:14Z,3,13:56,06:04,1,3,2.0,New York Islanders,NYI
+278,2,6,New York Islanders,Boston Bruins,2022020713528,2022020713,Missed Shot,528,MISSED_SHOT,Taylor Hall Wide of Net Semyon Varlamov,2023-01-19T02:51:26Z,3,14:08,05:52,1,3,6.0,Boston Bruins,BOS
+279,2,6,New York Islanders,Boston Bruins,2022020713672,2022020713,Stoppage,672,STOP,Offside,2023-01-19T02:51:43Z,3,14:25,05:35,1,3,,,
+280,2,6,New York Islanders,Boston Bruins,2022020713529,2022020713,Faceoff,529,FACEOFF,David Krejci faceoff won against Jean-Gabriel Pageau,2023-01-19T02:52:18Z,3,14:25,05:35,1,3,6.0,Boston Bruins,BOS
+281,2,6,New York Islanders,Boston Bruins,2022020713801,2022020713,Blocked Shot,801,BLOCKED_SHOT,David Krejci shot blocked shot by Jean-Gabriel Pageau,2023-01-19T02:52:38Z,3,14:45,05:15,1,3,2.0,New York Islanders,NYI
+282,2,6,New York Islanders,Boston Bruins,2022020713673,2022020713,Shot,673,SHOT,Nick Foligno Wrist Shot saved by Semyon Varlamov,2023-01-19T02:52:54Z,3,15:01,04:59,1,3,6.0,Boston Bruins,BOS
+283,2,6,New York Islanders,Boston Bruins,2022020713802,2022020713,Blocked Shot,802,BLOCKED_SHOT,Charlie Coyle shot blocked shot by Brock Nelson,2023-01-19T02:53:08Z,3,15:15,04:45,1,3,2.0,New York Islanders,NYI
+284,2,6,New York Islanders,Boston Bruins,2022020713803,2022020713,Goal,803,GOAL,"Trent Frederic (10) Tip-In, assists: Charlie Coyle (15), Craig Smith (4)",2023-01-19T02:53:31Z,3,15:38,04:22,1,4,6.0,Boston Bruins,BOS
+285,2,6,New York Islanders,Boston Bruins,2022020713675,2022020713,Faceoff,675,FACEOFF,Joona Koppanen faceoff won against Casey Cizikas,2023-01-19T02:54:20Z,3,15:38,04:22,1,4,6.0,Boston Bruins,BOS
+286,2,6,New York Islanders,Boston Bruins,2022020713676,2022020713,Hit,676,HIT,Brandon Carlo hit Cal Clutterbuck,2023-01-19T02:54:42Z,3,16:00,04:00,1,4,6.0,Boston Bruins,BOS
+287,2,6,New York Islanders,Boston Bruins,2022020713530,2022020713,Giveaway,530,GIVEAWAY,Giveaway by Taylor Hall,2023-01-19T02:55:25Z,3,16:43,03:17,1,4,6.0,Boston Bruins,BOS
+288,2,6,New York Islanders,Boston Bruins,2022020713677,2022020713,Hit,677,HIT,Ryan Pulock hit Trent Frederic,2023-01-19T02:55:35Z,3,16:53,03:07,1,4,2.0,New York Islanders,NYI
+289,2,6,New York Islanders,Boston Bruins,2022020713531,2022020713,Giveaway,531,GIVEAWAY,Giveaway by Ryan Pulock,2023-01-19T02:55:59Z,3,17:17,02:43,1,4,2.0,New York Islanders,NYI
+290,2,6,New York Islanders,Boston Bruins,2022020713678,2022020713,Hit,678,HIT,Noah Dobson hit Matt Grzelcyk,2023-01-19T02:56:40Z,3,17:58,02:02,1,4,2.0,New York Islanders,NYI
+291,2,6,New York Islanders,Boston Bruins,2022020713804,2022020713,Shot,804,SHOT,Scott Mayfield Wrist Shot saved by Linus Ullmark,2023-01-19T02:57:21Z,3,18:39,01:21,1,4,2.0,New York Islanders,NYI
+292,2,6,New York Islanders,Boston Bruins,2022020713979,2022020713,Penalty,979,PENALTY,Hampus Lindholm Delaying Game - Puck over glass,2023-01-19T02:57:22Z,3,18:40,01:20,1,4,6.0,Boston Bruins,BOS
+293,2,6,New York Islanders,Boston Bruins,2022020713532,2022020713,Faceoff,532,FACEOFF,Jean-Gabriel Pageau faceoff won against Joona Koppanen,2023-01-19T02:58:04Z,3,18:40,01:20,1,4,2.0,New York Islanders,NYI
+294,2,6,New York Islanders,Boston Bruins,2022020713805,2022020713,Missed Shot,805,MISSED_SHOT,Noah Dobson Wide of Net Linus Ullmark,2023-01-19T02:58:06Z,3,18:42,01:18,1,4,2.0,New York Islanders,NYI
+295,2,6,New York Islanders,Boston Bruins,2022020713806,2022020713,Shot,806,SHOT,Jean-Gabriel Pageau Slap Shot saved by Linus Ullmark,2023-01-19T02:58:23Z,3,18:59,01:01,1,4,2.0,New York Islanders,NYI
+296,2,6,New York Islanders,Boston Bruins,2022020713679,2022020713,Hit,679,HIT,Connor Clifton hit Anders Lee,2023-01-19T02:58:54Z,3,19:30,00:30,1,4,6.0,Boston Bruins,BOS
+297,2,6,New York Islanders,Boston Bruins,2022020713681,2022020713,Period End,681,PERIOD_END,End of 3rd Period,2023-01-19T02:59:25Z,3,20:00,00:00,1,4,,,
+298,2,6,New York Islanders,Boston Bruins,2022020713686,2022020713,Penalty,686,PENALTY,Pavel Zacha Holding against Mathew Barzal,2023-01-19T02:59:25Z,3,20:00,00:00,1,4,6.0,Boston Bruins,BOS
+299,2,6,New York Islanders,Boston Bruins,2022020713684,2022020713,Period Official,684,PERIOD_OFFICIAL,Period Official,2023-01-19T02:59:28Z,3,20:00,00:00,1,4,,,
+300,2,6,New York Islanders,Boston Bruins,2022020713685,2022020713,Game End,685,GAME_END,Game End,2023-01-19T02:59:30Z,3,20:00,00:00,1,4,,,
+301,2,6,New York Islanders,Boston Bruins,2022020713689,2022020713,Game Official,689,GAME_OFFICIAL,Game Official,2023-01-19T03:16:39Z,3,20:00,00:00,1,4,,,

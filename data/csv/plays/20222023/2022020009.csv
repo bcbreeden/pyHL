@@ -1,0 +1,309 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,24,55,Anaheim Ducks,Seattle Kraken,20220200091,2022020009,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-10-13T01:26:00Z,1,00:00,20:00,0,0,,,
+1,24,55,Anaheim Ducks,Seattle Kraken,20220200095,2022020009,Period Ready,5,PERIOD_READY,Period Ready,2022-10-13T02:11:18Z,1,00:00,20:00,0,0,,,
+2,24,55,Anaheim Ducks,Seattle Kraken,202202000951,2022020009,Period Start,51,PERIOD_START,Period Start,2022-10-13T02:14:10Z,1,00:00,20:00,0,0,,,
+3,24,55,Anaheim Ducks,Seattle Kraken,202202000952,2022020009,Faceoff,52,FACEOFF,Derek Grant faceoff won against Alex Wennberg,2022-10-13T02:14:10Z,1,00:00,20:00,0,0,24.0,Anaheim Ducks,ANA
+4,24,55,Anaheim Ducks,Seattle Kraken,202202000953,2022020009,Blocked Shot,53,BLOCKED_SHOT,Jaden Schwartz shot blocked shot by Derek Grant,2022-10-13T02:14:35Z,1,00:25,19:35,0,0,24.0,Anaheim Ducks,ANA
+5,24,55,Anaheim Ducks,Seattle Kraken,2022020009151,2022020009,Stoppage,151,STOP,Puck Frozen,2022-10-13T02:14:37Z,1,00:28,19:32,0,0,,,
+6,24,55,Anaheim Ducks,Seattle Kraken,202202000955,2022020009,Faceoff,55,FACEOFF,Matty Beniers faceoff won against Ryan Strome,2022-10-13T02:15:08Z,1,00:28,19:32,0,0,55.0,Seattle Kraken,SEA
+7,24,55,Anaheim Ducks,Seattle Kraken,202202000956,2022020009,Goal,56,GOAL,"Troy Terry (1) Wrist Shot, assists: Mason McTavish (1), Ryan Strome (1)",2022-10-13T02:15:31Z,1,00:51,19:09,1,0,24.0,Anaheim Ducks,ANA
+8,24,55,Anaheim Ducks,Seattle Kraken,2022020009201,2022020009,Faceoff,201,FACEOFF,Yanni Gourde faceoff won against Trevor Zegras,2022-10-13T02:16:14Z,1,00:51,19:09,1,0,55.0,Seattle Kraken,SEA
+9,24,55,Anaheim Ducks,Seattle Kraken,202202000957,2022020009,Blocked Shot,57,BLOCKED_SHOT,Brandon Tanev shot blocked shot by Nathan Beaulieu,2022-10-13T02:16:19Z,1,00:56,19:04,1,0,24.0,Anaheim Ducks,ANA
+10,24,55,Anaheim Ducks,Seattle Kraken,20220200099,2022020009,Hit,9,HIT,Nathan Beaulieu hit Yanni Gourde,2022-10-13T02:16:29Z,1,01:06,18:54,1,0,24.0,Anaheim Ducks,ANA
+11,24,55,Anaheim Ducks,Seattle Kraken,202202000958,2022020009,Shot,58,SHOT,Frank Vatrano Wrist Shot saved by Philipp Grubauer,2022-10-13T02:16:39Z,1,01:16,18:44,1,0,24.0,Anaheim Ducks,ANA
+12,24,55,Anaheim Ducks,Seattle Kraken,2022020009153,2022020009,Stoppage,153,STOP,Goalie Stopped,2022-10-13T02:16:40Z,1,01:17,18:43,1,0,,,
+13,24,55,Anaheim Ducks,Seattle Kraken,202202000959,2022020009,Faceoff,59,FACEOFF,Jakob Silfverberg faceoff won against Alex Wennberg,2022-10-13T02:17:14Z,1,01:17,18:43,1,0,24.0,Anaheim Ducks,ANA
+14,24,55,Anaheim Ducks,Seattle Kraken,202202000960,2022020009,Shot,60,SHOT,Isac Lundestrom Tip-In saved by Philipp Grubauer,2022-10-13T02:17:24Z,1,01:27,18:33,1,0,24.0,Anaheim Ducks,ANA
+15,24,55,Anaheim Ducks,Seattle Kraken,202202000961,2022020009,Shot,61,SHOT,Ryan Donato Wrist Shot saved by John Gibson,2022-10-13T02:18:16Z,1,02:19,17:41,1,0,55.0,Seattle Kraken,SEA
+16,24,55,Anaheim Ducks,Seattle Kraken,202202000910,2022020009,Hit,10,HIT,Max Jones hit Jamie Oleksiak,2022-10-13T02:19:05Z,1,03:08,16:52,1,0,24.0,Anaheim Ducks,ANA
+17,24,55,Anaheim Ducks,Seattle Kraken,202202000962,2022020009,Shot,62,SHOT,Matty Beniers Wrist Shot saved by John Gibson,2022-10-13T02:19:12Z,1,03:15,16:45,1,0,55.0,Seattle Kraken,SEA
+18,24,55,Anaheim Ducks,Seattle Kraken,202202000963,2022020009,Shot,63,SHOT,Andre Burakovsky Wrist Shot saved by John Gibson,2022-10-13T02:19:20Z,1,03:23,16:37,1,0,55.0,Seattle Kraken,SEA
+19,24,55,Anaheim Ducks,Seattle Kraken,2022020009154,2022020009,Stoppage,154,STOP,Goalie Stopped,2022-10-13T02:19:22Z,1,03:24,16:36,1,0,,,
+20,24,55,Anaheim Ducks,Seattle Kraken,202202000964,2022020009,Faceoff,64,FACEOFF,Isac Lundestrom faceoff won against Yanni Gourde,2022-10-13T02:19:51Z,1,03:24,16:36,1,0,24.0,Anaheim Ducks,ANA
+21,24,55,Anaheim Ducks,Seattle Kraken,202202000965,2022020009,Blocked Shot,65,BLOCKED_SHOT,Adam Larsson shot blocked shot by Jakob Silfverberg,2022-10-13T02:20:15Z,1,03:48,16:12,1,0,24.0,Anaheim Ducks,ANA
+22,24,55,Anaheim Ducks,Seattle Kraken,202202000966,2022020009,Blocked Shot,66,BLOCKED_SHOT,Vince Dunn shot blocked shot by Nathan Beaulieu,2022-10-13T02:20:32Z,1,04:05,15:55,1,0,24.0,Anaheim Ducks,ANA
+23,24,55,Anaheim Ducks,Seattle Kraken,202202000911,2022020009,Stoppage,11,STOP,Offside,2022-10-13T02:21:09Z,1,04:42,15:18,1,0,,,
+24,24,55,Anaheim Ducks,Seattle Kraken,202202000967,2022020009,Faceoff,67,FACEOFF,Ryan Strome faceoff won against Alex Wennberg,2022-10-13T02:21:27Z,1,04:42,15:18,1,0,24.0,Anaheim Ducks,ANA
+25,24,55,Anaheim Ducks,Seattle Kraken,2022020009323,2022020009,Shot,323,SHOT,Cam Fowler Wrist Shot saved by Philipp Grubauer,2022-10-13T02:22:32Z,1,05:47,14:13,1,0,24.0,Anaheim Ducks,ANA
+26,24,55,Anaheim Ducks,Seattle Kraken,202202000912,2022020009,Hit,12,HIT,Karson Kuhlman hit Cam Fowler,2022-10-13T02:22:36Z,1,05:51,14:09,1,0,55.0,Seattle Kraken,SEA
+27,24,55,Anaheim Ducks,Seattle Kraken,202202000968,2022020009,Giveaway,68,GIVEAWAY,Giveaway by Vince Dunn,2022-10-13T02:22:50Z,1,06:05,13:55,1,0,55.0,Seattle Kraken,SEA
+28,24,55,Anaheim Ducks,Seattle Kraken,202202000969,2022020009,Missed Shot,69,MISSED_SHOT,Brandon Tanev Wide of Net John Gibson,2022-10-13T02:23:39Z,1,06:54,13:06,1,0,55.0,Seattle Kraken,SEA
+29,24,55,Anaheim Ducks,Seattle Kraken,202202000970,2022020009,Missed Shot,70,MISSED_SHOT,Will Borgen Wide of Net John Gibson,2022-10-13T02:23:47Z,1,07:02,12:58,1,0,55.0,Seattle Kraken,SEA
+30,24,55,Anaheim Ducks,Seattle Kraken,202202000913,2022020009,Hit,13,HIT,Max Comtois hit Jamie Oleksiak,2022-10-13T02:23:58Z,1,07:13,12:47,1,0,24.0,Anaheim Ducks,ANA
+31,24,55,Anaheim Ducks,Seattle Kraken,202202000971,2022020009,Missed Shot,71,MISSED_SHOT,Cam Fowler Wide of Net Philipp Grubauer,2022-10-13T02:24:10Z,1,07:25,12:35,1,0,24.0,Anaheim Ducks,ANA
+32,24,55,Anaheim Ducks,Seattle Kraken,202202000972,2022020009,Shot,72,SHOT,Mason McTavish Snap Shot saved by Philipp Grubauer,2022-10-13T02:24:17Z,1,07:32,12:28,1,0,24.0,Anaheim Ducks,ANA
+33,24,55,Anaheim Ducks,Seattle Kraken,202202000973,2022020009,Shot,73,SHOT,Jaden Schwartz Slap Shot saved by John Gibson,2022-10-13T02:24:32Z,1,07:46,12:14,1,0,55.0,Seattle Kraken,SEA
+34,24,55,Anaheim Ducks,Seattle Kraken,2022020009155,2022020009,Stoppage,155,STOP,TV timeout,2022-10-13T02:24:32Z,1,07:46,12:14,1,0,,,
+35,24,55,Anaheim Ducks,Seattle Kraken,2022020009279,2022020009,Penalty,279,PENALTY,Mason McTavish Tripping against Jaden Schwartz,2022-10-13T02:24:32Z,1,07:46,12:14,1,0,24.0,Anaheim Ducks,ANA
+36,24,55,Anaheim Ducks,Seattle Kraken,202202000974,2022020009,Faceoff,74,FACEOFF,Alex Wennberg faceoff won against Derek Grant,2022-10-13T02:26:55Z,1,07:46,12:14,1,0,55.0,Seattle Kraken,SEA
+37,24,55,Anaheim Ducks,Seattle Kraken,202202000975,2022020009,Missed Shot,75,MISSED_SHOT,Oliver Bjorkstrand Wide of Net John Gibson,2022-10-13T02:27:15Z,1,08:06,11:54,1,0,55.0,Seattle Kraken,SEA
+38,24,55,Anaheim Ducks,Seattle Kraken,202202000976,2022020009,Shot,76,SHOT,Oliver Bjorkstrand Slap Shot saved by John Gibson,2022-10-13T02:27:21Z,1,08:12,11:48,1,0,55.0,Seattle Kraken,SEA
+39,24,55,Anaheim Ducks,Seattle Kraken,2022020009156,2022020009,Stoppage,156,STOP,Goalie Stopped,2022-10-13T02:27:22Z,1,08:13,11:47,1,0,,,
+40,24,55,Anaheim Ducks,Seattle Kraken,202202000977,2022020009,Faceoff,77,FACEOFF,Alex Wennberg faceoff won against Isac Lundestrom,2022-10-13T02:27:52Z,1,08:13,11:47,1,0,55.0,Seattle Kraken,SEA
+41,24,55,Anaheim Ducks,Seattle Kraken,202202000979,2022020009,Blocked Shot,79,BLOCKED_SHOT,Justin Schultz shot blocked shot by Dmitry Kulikov,2022-10-13T02:27:59Z,1,08:20,11:40,1,0,24.0,Anaheim Ducks,ANA
+42,24,55,Anaheim Ducks,Seattle Kraken,202202000980,2022020009,Blocked Shot,80,BLOCKED_SHOT,Oliver Bjorkstrand shot blocked shot by Dmitry Kulikov,2022-10-13T02:28:14Z,1,08:35,11:25,1,0,24.0,Anaheim Ducks,ANA
+43,24,55,Anaheim Ducks,Seattle Kraken,202202000981,2022020009,Shot,81,SHOT,Justin Schultz Wrist Shot saved by John Gibson,2022-10-13T02:28:22Z,1,08:43,11:17,1,0,55.0,Seattle Kraken,SEA
+44,24,55,Anaheim Ducks,Seattle Kraken,202202000982,2022020009,Missed Shot,82,MISSED_SHOT,Alex Wennberg Wide of Net John Gibson,2022-10-13T02:28:39Z,1,09:00,11:00,1,0,55.0,Seattle Kraken,SEA
+45,24,55,Anaheim Ducks,Seattle Kraken,202202000983,2022020009,Shot,83,SHOT,Matty Beniers Snap Shot saved by John Gibson,2022-10-13T02:28:47Z,1,09:08,10:52,1,0,55.0,Seattle Kraken,SEA
+46,24,55,Anaheim Ducks,Seattle Kraken,2022020009157,2022020009,Stoppage,157,STOP,Player Equipment,2022-10-13T02:28:47Z,1,09:09,10:51,1,0,,,
+47,24,55,Anaheim Ducks,Seattle Kraken,2022020009286,2022020009,Penalty,286,PENALTY,Dmitry Kulikov Slashing against Ryan Donato,2022-10-13T02:28:47Z,1,09:09,10:51,1,0,24.0,Anaheim Ducks,ANA
+48,24,55,Anaheim Ducks,Seattle Kraken,202202000984,2022020009,Faceoff,84,FACEOFF,Derek Grant faceoff won against Jared McCann,2022-10-13T02:30:18Z,1,09:09,10:51,1,0,24.0,Anaheim Ducks,ANA
+49,24,55,Anaheim Ducks,Seattle Kraken,202202000985,2022020009,Blocked Shot,85,BLOCKED_SHOT,Andre Burakovsky shot blocked shot by Kevin Shattenkirk,2022-10-13T02:30:33Z,1,09:24,10:36,1,0,24.0,Anaheim Ducks,ANA
+50,24,55,Anaheim Ducks,Seattle Kraken,2022020009158,2022020009,Stoppage,158,STOP,Puck in Netting,2022-10-13T02:30:33Z,1,09:24,10:36,1,0,,,
+51,24,55,Anaheim Ducks,Seattle Kraken,202202000986,2022020009,Faceoff,86,FACEOFF,Derek Grant faceoff won against Matty Beniers,2022-10-13T02:31:00Z,1,09:24,10:36,1,0,24.0,Anaheim Ducks,ANA
+52,24,55,Anaheim Ducks,Seattle Kraken,202202000987,2022020009,Blocked Shot,87,BLOCKED_SHOT,Matty Beniers shot blocked shot by Nathan Beaulieu,2022-10-13T02:31:32Z,1,09:56,10:04,1,0,24.0,Anaheim Ducks,ANA
+53,24,55,Anaheim Ducks,Seattle Kraken,202202000988,2022020009,Blocked Shot,88,BLOCKED_SHOT,Justin Schultz shot blocked shot by Derek Grant,2022-10-13T02:31:39Z,1,10:03,09:57,1,0,24.0,Anaheim Ducks,ANA
+54,24,55,Anaheim Ducks,Seattle Kraken,202202000989,2022020009,Goal,89,GOAL,"Jared McCann (1) Snap Shot, assists: Matty Beniers (1), Justin Schultz (1)",2022-10-13T02:31:48Z,1,10:13,09:47,1,1,55.0,Seattle Kraken,SEA
+55,24,55,Anaheim Ducks,Seattle Kraken,202202000916,2022020009,Faceoff,16,FACEOFF,Yanni Gourde faceoff won against Trevor Zegras,2022-10-13T02:32:33Z,1,10:13,09:47,1,1,55.0,Seattle Kraken,SEA
+56,24,55,Anaheim Ducks,Seattle Kraken,202202000917,2022020009,Hit,17,HIT,Brandon Tanev hit John Klingberg,2022-10-13T02:32:43Z,1,10:23,09:37,1,1,55.0,Seattle Kraken,SEA
+57,24,55,Anaheim Ducks,Seattle Kraken,2022020009159,2022020009,Stoppage,159,STOP,Icing,2022-10-13T02:32:48Z,1,10:28,09:32,1,1,,,
+58,24,55,Anaheim Ducks,Seattle Kraken,202202000990,2022020009,Faceoff,90,FACEOFF,Yanni Gourde faceoff won against Trevor Zegras,2022-10-13T02:33:11Z,1,10:28,09:32,1,1,55.0,Seattle Kraken,SEA
+59,24,55,Anaheim Ducks,Seattle Kraken,202202000991,2022020009,Shot,91,SHOT,Vince Dunn Wrist Shot saved by John Gibson,2022-10-13T02:33:15Z,1,10:32,09:28,1,1,55.0,Seattle Kraken,SEA
+60,24,55,Anaheim Ducks,Seattle Kraken,202202000992,2022020009,Shot,92,SHOT,Brandon Tanev Snap Shot saved by John Gibson,2022-10-13T02:33:31Z,1,10:48,09:12,1,1,55.0,Seattle Kraken,SEA
+61,24,55,Anaheim Ducks,Seattle Kraken,202202000993,2022020009,Shot,93,SHOT,Vince Dunn Tip-In saved by John Gibson,2022-10-13T02:33:32Z,1,10:49,09:11,1,1,55.0,Seattle Kraken,SEA
+62,24,55,Anaheim Ducks,Seattle Kraken,2022020009160,2022020009,Stoppage,160,STOP,Puck Frozen,2022-10-13T02:33:33Z,1,10:50,09:10,1,1,,,
+63,24,55,Anaheim Ducks,Seattle Kraken,202202000994,2022020009,Faceoff,94,FACEOFF,Ryan Strome faceoff won against Alex Wennberg,2022-10-13T02:35:53Z,1,10:50,09:10,1,1,24.0,Anaheim Ducks,ANA
+64,24,55,Anaheim Ducks,Seattle Kraken,202202000918,2022020009,Hit,18,HIT,Will Borgen hit Max Jones,2022-10-13T02:36:01Z,1,10:58,09:02,1,1,55.0,Seattle Kraken,SEA
+65,24,55,Anaheim Ducks,Seattle Kraken,202202000995,2022020009,Shot,95,SHOT,Oliver Bjorkstrand Wrist Shot saved by John Gibson,2022-10-13T02:36:36Z,1,11:33,08:27,1,1,55.0,Seattle Kraken,SEA
+66,24,55,Anaheim Ducks,Seattle Kraken,202202000996,2022020009,Shot,96,SHOT,Karson Kuhlman Wrist Shot saved by John Gibson,2022-10-13T02:37:09Z,1,12:06,07:54,1,1,55.0,Seattle Kraken,SEA
+67,24,55,Anaheim Ducks,Seattle Kraken,202202000919,2022020009,Hit,19,HIT,Karson Kuhlman hit Dmitry Kulikov,2022-10-13T02:37:20Z,1,12:17,07:43,1,1,55.0,Seattle Kraken,SEA
+68,24,55,Anaheim Ducks,Seattle Kraken,202202000998,2022020009,Shot,98,SHOT,Ryan Donato Wrist Shot saved by John Gibson,2022-10-13T02:37:23Z,1,12:20,07:40,1,1,55.0,Seattle Kraken,SEA
+69,24,55,Anaheim Ducks,Seattle Kraken,202202000997,2022020009,Shot,97,SHOT,Ryan Donato Tip-In saved by John Gibson,2022-10-13T02:37:25Z,1,12:22,07:38,1,1,55.0,Seattle Kraken,SEA
+70,24,55,Anaheim Ducks,Seattle Kraken,202202000920,2022020009,Hit,20,HIT,Adam Henrique hit Justin Schultz,2022-10-13T02:37:26Z,1,12:23,07:37,1,1,24.0,Anaheim Ducks,ANA
+71,24,55,Anaheim Ducks,Seattle Kraken,202202000921,2022020009,Hit,21,HIT,Max Comtois hit Justin Schultz,2022-10-13T02:37:39Z,1,12:36,07:24,1,1,24.0,Anaheim Ducks,ANA
+72,24,55,Anaheim Ducks,Seattle Kraken,2022020009161,2022020009,Stoppage,161,STOP,Puck in Crowd,2022-10-13T02:37:43Z,1,12:39,07:21,1,1,,,
+73,24,55,Anaheim Ducks,Seattle Kraken,202202000999,2022020009,Faceoff,99,FACEOFF,Isac Lundestrom faceoff won against Yanni Gourde,2022-10-13T02:38:10Z,1,12:39,07:21,1,1,24.0,Anaheim Ducks,ANA
+74,24,55,Anaheim Ducks,Seattle Kraken,2022020009301,2022020009,Shot,301,SHOT,Isac Lundestrom Wrist Shot saved by Philipp Grubauer,2022-10-13T02:38:18Z,1,12:47,07:13,1,1,24.0,Anaheim Ducks,ANA
+75,24,55,Anaheim Ducks,Seattle Kraken,2022020009302,2022020009,Blocked Shot,302,BLOCKED_SHOT,Brandon Tanev shot blocked shot by Kevin Shattenkirk,2022-10-13T02:38:37Z,1,13:06,06:54,1,1,24.0,Anaheim Ducks,ANA
+76,24,55,Anaheim Ducks,Seattle Kraken,2022020009303,2022020009,Shot,303,SHOT,Brandon Tanev Wrist Shot saved by John Gibson,2022-10-13T02:38:52Z,1,13:21,06:39,1,1,55.0,Seattle Kraken,SEA
+77,24,55,Anaheim Ducks,Seattle Kraken,2022020009305,2022020009,Shot,305,SHOT,Jordan Eberle Backhand saved by John Gibson,2022-10-13T02:38:54Z,1,13:23,06:37,1,1,55.0,Seattle Kraken,SEA
+78,24,55,Anaheim Ducks,Seattle Kraken,2022020009304,2022020009,Shot,304,SHOT,Adam Larsson Wrist Shot saved by John Gibson,2022-10-13T02:38:57Z,1,13:26,06:34,1,1,55.0,Seattle Kraken,SEA
+79,24,55,Anaheim Ducks,Seattle Kraken,2022020009306,2022020009,Shot,306,SHOT,Andre Burakovsky Tip-In saved by John Gibson,2022-10-13T02:39:26Z,1,13:55,06:05,1,1,55.0,Seattle Kraken,SEA
+80,24,55,Anaheim Ducks,Seattle Kraken,2022020009307,2022020009,Giveaway,307,GIVEAWAY,Giveaway by Max Jones,2022-10-13T02:39:38Z,1,14:07,05:53,1,1,24.0,Anaheim Ducks,ANA
+81,24,55,Anaheim Ducks,Seattle Kraken,202202000922,2022020009,Hit,22,HIT,Matty Beniers hit Jamie Drysdale,2022-10-13T02:40:08Z,1,14:37,05:23,1,1,55.0,Seattle Kraken,SEA
+82,24,55,Anaheim Ducks,Seattle Kraken,2022020009308,2022020009,Giveaway,308,GIVEAWAY,Giveaway by Troy Terry,2022-10-13T02:40:10Z,1,14:39,05:21,1,1,24.0,Anaheim Ducks,ANA
+83,24,55,Anaheim Ducks,Seattle Kraken,2022020009309,2022020009,Shot,309,SHOT,Jamie Drysdale Snap Shot saved by Philipp Grubauer,2022-10-13T02:40:37Z,1,15:06,04:54,1,1,24.0,Anaheim Ducks,ANA
+84,24,55,Anaheim Ducks,Seattle Kraken,2022020009378,2022020009,Penalty,378,PENALTY,Jamie Oleksiak Interference against Mason McTavish,2022-10-13T02:40:39Z,1,15:08,04:52,1,1,55.0,Seattle Kraken,SEA
+85,24,55,Anaheim Ducks,Seattle Kraken,2022020009310,2022020009,Faceoff,310,FACEOFF,Ryan Strome faceoff won against Yanni Gourde,2022-10-13T02:42:55Z,1,15:08,04:52,1,1,24.0,Anaheim Ducks,ANA
+86,24,55,Anaheim Ducks,Seattle Kraken,2022020009311,2022020009,Shot,311,SHOT,Ryan Strome Wrist Shot saved by Philipp Grubauer,2022-10-13T02:43:01Z,1,15:14,04:46,1,1,24.0,Anaheim Ducks,ANA
+87,24,55,Anaheim Ducks,Seattle Kraken,2022020009162,2022020009,Stoppage,162,STOP,Goalie Stopped,2022-10-13T02:43:02Z,1,15:15,04:45,1,1,,,
+88,24,55,Anaheim Ducks,Seattle Kraken,2022020009312,2022020009,Faceoff,312,FACEOFF,Ryan Strome faceoff won against Yanni Gourde,2022-10-13T02:43:21Z,1,15:15,04:45,1,1,24.0,Anaheim Ducks,ANA
+89,24,55,Anaheim Ducks,Seattle Kraken,2022020009163,2022020009,Stoppage,163,STOP,Puck in Crowd,2022-10-13T02:43:36Z,1,15:30,04:30,1,1,,,
+90,24,55,Anaheim Ducks,Seattle Kraken,2022020009313,2022020009,Faceoff,313,FACEOFF,Alex Wennberg faceoff won against Ryan Strome,2022-10-13T02:43:59Z,1,15:30,04:30,1,1,55.0,Seattle Kraken,SEA
+91,24,55,Anaheim Ducks,Seattle Kraken,2022020009314,2022020009,Missed Shot,314,MISSED_SHOT,Pavol Regenda Wide of Net Philipp Grubauer,2022-10-13T02:45:19Z,1,16:50,03:10,1,1,24.0,Anaheim Ducks,ANA
+92,24,55,Anaheim Ducks,Seattle Kraken,2022020009315,2022020009,Shot,315,SHOT,Pavol Regenda Tip-In saved by Philipp Grubauer,2022-10-13T02:45:25Z,1,16:56,03:04,1,1,24.0,Anaheim Ducks,ANA
+93,24,55,Anaheim Ducks,Seattle Kraken,2022020009316,2022020009,Shot,316,SHOT,Max Comtois Snap Shot saved by Philipp Grubauer,2022-10-13T02:45:41Z,1,17:12,02:48,1,1,24.0,Anaheim Ducks,ANA
+94,24,55,Anaheim Ducks,Seattle Kraken,2022020009642,2022020009,Blocked Shot,642,BLOCKED_SHOT,Isac Lundestrom shot blocked shot by Carson Soucy,2022-10-13T02:45:42Z,1,17:13,02:47,1,1,55.0,Seattle Kraken,SEA
+95,24,55,Anaheim Ducks,Seattle Kraken,202202000923,2022020009,Hit,23,HIT,Max Comtois hit Matty Beniers,2022-10-13T02:46:07Z,1,17:38,02:22,1,1,24.0,Anaheim Ducks,ANA
+96,24,55,Anaheim Ducks,Seattle Kraken,202202000924,2022020009,Hit,24,HIT,Dmitry Kulikov hit Vince Dunn,2022-10-13T02:46:28Z,1,17:59,02:01,1,1,24.0,Anaheim Ducks,ANA
+97,24,55,Anaheim Ducks,Seattle Kraken,2022020009317,2022020009,Shot,317,SHOT,Andre Burakovsky Wrist Shot saved by John Gibson,2022-10-13T02:46:35Z,1,18:06,01:54,1,1,55.0,Seattle Kraken,SEA
+98,24,55,Anaheim Ducks,Seattle Kraken,2022020009164,2022020009,Stoppage,164,STOP,Goalie Stopped,2022-10-13T02:46:36Z,1,18:07,01:53,1,1,,,
+99,24,55,Anaheim Ducks,Seattle Kraken,2022020009318,2022020009,Faceoff,318,FACEOFF,Derek Grant faceoff won against Shane Wright,2022-10-13T02:47:09Z,1,18:07,01:53,1,1,24.0,Anaheim Ducks,ANA
+100,24,55,Anaheim Ducks,Seattle Kraken,2022020009319,2022020009,Giveaway,319,GIVEAWAY,Giveaway by Philipp Grubauer,2022-10-13T02:47:19Z,1,18:17,01:43,1,1,55.0,Seattle Kraken,SEA
+101,24,55,Anaheim Ducks,Seattle Kraken,2022020009320,2022020009,Takeaway,320,TAKEAWAY,Takeaway by Shane Wright,2022-10-13T02:47:38Z,1,18:36,01:24,1,1,55.0,Seattle Kraken,SEA
+102,24,55,Anaheim Ducks,Seattle Kraken,2022020009516,2022020009,Penalty,516,PENALTY,Cam Fowler Delaying Game - Puck over glass,2022-10-13T02:48:03Z,1,19:00,01:00,1,1,24.0,Anaheim Ducks,ANA
+103,24,55,Anaheim Ducks,Seattle Kraken,2022020009321,2022020009,Faceoff,321,FACEOFF,Ryan Strome faceoff won against Alex Wennberg,2022-10-13T02:48:49Z,1,19:00,01:00,1,1,24.0,Anaheim Ducks,ANA
+104,24,55,Anaheim Ducks,Seattle Kraken,2022020009322,2022020009,Missed Shot,322,MISSED_SHOT,Oliver Bjorkstrand Wide of Net John Gibson,2022-10-13T02:49:44Z,1,19:55,00:05,1,1,55.0,Seattle Kraken,SEA
+105,24,55,Anaheim Ducks,Seattle Kraken,202202000925,2022020009,Period End,25,PERIOD_END,End of 1st Period,2022-10-13T02:49:49Z,1,20:00,00:00,1,1,,,
+106,24,55,Anaheim Ducks,Seattle Kraken,202202000928,2022020009,Period Official,28,PERIOD_OFFICIAL,Period Official,2022-10-13T03:07:49Z,1,20:00,00:00,1,1,,,
+107,24,55,Anaheim Ducks,Seattle Kraken,202202000929,2022020009,Period Ready,29,PERIOD_READY,Period Ready,2022-10-13T03:08:26Z,2,00:00,20:00,1,1,,,
+108,24,55,Anaheim Ducks,Seattle Kraken,2022020009325,2022020009,Period Start,325,PERIOD_START,Period Start,2022-10-13T03:08:44Z,2,00:00,20:00,1,1,,,
+109,24,55,Anaheim Ducks,Seattle Kraken,2022020009326,2022020009,Faceoff,326,FACEOFF,Derek Grant faceoff won against Jared McCann,2022-10-13T03:08:44Z,2,00:00,20:00,1,1,24.0,Anaheim Ducks,ANA
+110,24,55,Anaheim Ducks,Seattle Kraken,2022020009327,2022020009,Blocked Shot,327,BLOCKED_SHOT,Jordan Eberle shot blocked shot by Kevin Shattenkirk,2022-10-13T03:09:17Z,2,00:33,19:27,1,1,24.0,Anaheim Ducks,ANA
+111,24,55,Anaheim Ducks,Seattle Kraken,2022020009603,2022020009,Giveaway,603,GIVEAWAY,Giveaway by Derek Grant,2022-10-13T03:09:20Z,2,00:36,19:24,1,1,24.0,Anaheim Ducks,ANA
+112,24,55,Anaheim Ducks,Seattle Kraken,2022020009328,2022020009,Goal,328,GOAL,"Andre Burakovsky (1) Snap Shot, assists: Vince Dunn (1)",2022-10-13T03:09:21Z,2,00:38,19:22,1,2,55.0,Seattle Kraken,SEA
+113,24,55,Anaheim Ducks,Seattle Kraken,202202000930,2022020009,Faceoff,30,FACEOFF,Ryan Strome faceoff won against Alex Wennberg,2022-10-13T03:10:02Z,2,00:38,19:22,1,2,24.0,Anaheim Ducks,ANA
+114,24,55,Anaheim Ducks,Seattle Kraken,2022020009329,2022020009,Giveaway,329,GIVEAWAY,Giveaway by Cam Fowler,2022-10-13T03:10:19Z,2,00:55,19:05,1,2,24.0,Anaheim Ducks,ANA
+115,24,55,Anaheim Ducks,Seattle Kraken,2022020009330,2022020009,Takeaway,330,TAKEAWAY,Takeaway by Cam Fowler,2022-10-13T03:10:26Z,2,01:02,18:58,1,2,24.0,Anaheim Ducks,ANA
+116,24,55,Anaheim Ducks,Seattle Kraken,2022020009331,2022020009,Shot,331,SHOT,Justin Schultz Snap Shot saved by John Gibson,2022-10-13T03:10:34Z,2,01:10,18:50,1,2,55.0,Seattle Kraken,SEA
+117,24,55,Anaheim Ducks,Seattle Kraken,2022020009332,2022020009,Missed Shot,332,MISSED_SHOT,Yanni Gourde Wide of Net John Gibson,2022-10-13T03:11:39Z,2,02:15,17:45,1,2,55.0,Seattle Kraken,SEA
+118,24,55,Anaheim Ducks,Seattle Kraken,202202000931,2022020009,Hit,31,HIT,Dmitry Kulikov hit Jordan Eberle,2022-10-13T03:11:58Z,2,02:34,17:26,1,2,24.0,Anaheim Ducks,ANA
+119,24,55,Anaheim Ducks,Seattle Kraken,2022020009333,2022020009,Missed Shot,333,MISSED_SHOT,Trevor Zegras Wide of Net Philipp Grubauer,2022-10-13T03:12:22Z,2,02:58,17:02,1,2,24.0,Anaheim Ducks,ANA
+120,24,55,Anaheim Ducks,Seattle Kraken,2022020009335,2022020009,Shot,335,SHOT,Isac Lundestrom Wrist Shot saved by Philipp Grubauer,2022-10-13T03:12:33Z,2,03:09,16:51,1,2,24.0,Anaheim Ducks,ANA
+121,24,55,Anaheim Ducks,Seattle Kraken,202202000932,2022020009,Hit,32,HIT,Adam Larsson hit Isac Lundestrom,2022-10-13T03:12:38Z,2,03:14,16:46,1,2,55.0,Seattle Kraken,SEA
+122,24,55,Anaheim Ducks,Seattle Kraken,2022020009336,2022020009,Shot,336,SHOT,Adam Henrique Backhand saved by Philipp Grubauer,2022-10-13T03:12:51Z,2,03:27,16:33,1,2,24.0,Anaheim Ducks,ANA
+123,24,55,Anaheim Ducks,Seattle Kraken,2022020009166,2022020009,Stoppage,166,STOP,Puck in Benches,2022-10-13T03:12:59Z,2,03:35,16:25,1,2,,,
+124,24,55,Anaheim Ducks,Seattle Kraken,2022020009337,2022020009,Faceoff,337,FACEOFF,Matty Beniers faceoff won against Isac Lundestrom,2022-10-13T03:13:35Z,2,03:35,16:25,1,2,55.0,Seattle Kraken,SEA
+125,24,55,Anaheim Ducks,Seattle Kraken,2022020009167,2022020009,Stoppage,167,STOP,Icing,2022-10-13T03:13:52Z,2,03:52,16:08,1,2,,,
+126,24,55,Anaheim Ducks,Seattle Kraken,2022020009338,2022020009,Faceoff,338,FACEOFF,Shane Wright faceoff won against Isac Lundestrom,2022-10-13T03:14:16Z,2,03:52,16:08,1,2,55.0,Seattle Kraken,SEA
+127,24,55,Anaheim Ducks,Seattle Kraken,2022020009339,2022020009,Shot,339,SHOT,Carson Soucy Wrist Shot saved by John Gibson,2022-10-13T03:14:25Z,2,04:01,15:59,1,2,55.0,Seattle Kraken,SEA
+128,24,55,Anaheim Ducks,Seattle Kraken,2022020009340,2022020009,Shot,340,SHOT,Karson Kuhlman Wrist Shot saved by John Gibson,2022-10-13T03:14:38Z,2,04:14,15:46,1,2,55.0,Seattle Kraken,SEA
+129,24,55,Anaheim Ducks,Seattle Kraken,2022020009168,2022020009,Stoppage,168,STOP,Puck in Crowd,2022-10-13T03:14:41Z,2,04:16,15:44,1,2,,,
+130,24,55,Anaheim Ducks,Seattle Kraken,2022020009341,2022020009,Faceoff,341,FACEOFF,Max Jones faceoff won against Alex Wennberg,2022-10-13T03:15:22Z,2,04:16,15:44,1,2,24.0,Anaheim Ducks,ANA
+131,24,55,Anaheim Ducks,Seattle Kraken,202202000933,2022020009,Hit,33,HIT,Jaden Schwartz hit John Klingberg,2022-10-13T03:15:32Z,2,04:26,15:34,1,2,55.0,Seattle Kraken,SEA
+132,24,55,Anaheim Ducks,Seattle Kraken,2022020009342,2022020009,Takeaway,342,TAKEAWAY,Takeaway by Derek Grant,2022-10-13T03:15:36Z,2,04:30,15:30,1,2,24.0,Anaheim Ducks,ANA
+133,24,55,Anaheim Ducks,Seattle Kraken,2022020009343,2022020009,Shot,343,SHOT,Max Jones Wrist Shot saved by Philipp Grubauer,2022-10-13T03:15:38Z,2,04:32,15:28,1,2,24.0,Anaheim Ducks,ANA
+134,24,55,Anaheim Ducks,Seattle Kraken,2022020009624,2022020009,Blocked Shot,624,BLOCKED_SHOT,John Klingberg shot blocked shot by Jaden Schwartz,2022-10-13T03:15:41Z,2,04:35,15:25,1,2,55.0,Seattle Kraken,SEA
+135,24,55,Anaheim Ducks,Seattle Kraken,2022020009545,2022020009,Penalty,545,PENALTY,Max Jones Tripping against Alex Wennberg,2022-10-13T03:15:50Z,2,04:45,15:15,1,2,24.0,Anaheim Ducks,ANA
+136,24,55,Anaheim Ducks,Seattle Kraken,2022020009344,2022020009,Faceoff,344,FACEOFF,Ryan Strome faceoff won against Jared McCann,2022-10-13T03:16:36Z,2,04:45,15:15,1,2,24.0,Anaheim Ducks,ANA
+137,24,55,Anaheim Ducks,Seattle Kraken,2022020009169,2022020009,Stoppage,169,STOP,Offside,2022-10-13T03:17:13Z,2,05:22,14:38,1,2,,,
+138,24,55,Anaheim Ducks,Seattle Kraken,2022020009345,2022020009,Faceoff,345,FACEOFF,Ryan Strome faceoff won against Alex Wennberg,2022-10-13T03:17:38Z,2,05:22,14:38,1,2,24.0,Anaheim Ducks,ANA
+139,24,55,Anaheim Ducks,Seattle Kraken,2022020009346,2022020009,Giveaway,346,GIVEAWAY,Giveaway by Matty Beniers,2022-10-13T03:17:58Z,2,05:42,14:18,1,2,55.0,Seattle Kraken,SEA
+140,24,55,Anaheim Ducks,Seattle Kraken,2022020009347,2022020009,Missed Shot,347,MISSED_SHOT,Ryan Donato Wide of Net John Gibson,2022-10-13T03:18:20Z,2,06:04,13:56,1,2,55.0,Seattle Kraken,SEA
+141,24,55,Anaheim Ducks,Seattle Kraken,2022020009641,2022020009,Shot,641,SHOT,Oliver Bjorkstrand Wrist Shot saved by John Gibson,2022-10-13T03:18:35Z,2,06:19,13:41,1,2,55.0,Seattle Kraken,SEA
+142,24,55,Anaheim Ducks,Seattle Kraken,2022020009349,2022020009,Goal,349,GOAL,"Oliver Bjorkstrand (1) Snap Shot, assists: Justin Schultz (2), Ryan Donato (1)",2022-10-13T03:18:43Z,2,06:28,13:32,1,3,55.0,Seattle Kraken,SEA
+143,24,55,Anaheim Ducks,Seattle Kraken,202202000934,2022020009,Faceoff,34,FACEOFF,Yanni Gourde faceoff won against Trevor Zegras,2022-10-13T03:19:31Z,2,06:28,13:32,1,3,55.0,Seattle Kraken,SEA
+144,24,55,Anaheim Ducks,Seattle Kraken,2022020009350,2022020009,Missed Shot,350,MISSED_SHOT,Adam Henrique Wide of Net Philipp Grubauer,2022-10-13T03:19:46Z,2,06:43,13:17,1,3,24.0,Anaheim Ducks,ANA
+145,24,55,Anaheim Ducks,Seattle Kraken,2022020009601,2022020009,Shot,601,SHOT,Frank Vatrano Snap Shot saved by Philipp Grubauer,2022-10-13T03:19:50Z,2,06:47,13:13,1,3,24.0,Anaheim Ducks,ANA
+146,24,55,Anaheim Ducks,Seattle Kraken,2022020009602,2022020009,Shot,602,SHOT,Adam Henrique Wrist Shot saved by Philipp Grubauer,2022-10-13T03:19:51Z,2,06:48,13:12,1,3,24.0,Anaheim Ducks,ANA
+147,24,55,Anaheim Ducks,Seattle Kraken,2022020009170,2022020009,Stoppage,170,STOP,Goalie Stopped,2022-10-13T03:19:52Z,2,06:49,13:11,1,3,,,
+148,24,55,Anaheim Ducks,Seattle Kraken,2022020009604,2022020009,Faceoff,604,FACEOFF,Yanni Gourde faceoff won against Ryan Strome,2022-10-13T03:22:06Z,2,06:49,13:11,1,3,55.0,Seattle Kraken,SEA
+149,24,55,Anaheim Ducks,Seattle Kraken,202202000935,2022020009,Hit,35,HIT,Adam Larsson hit Troy Terry,2022-10-13T03:22:24Z,2,07:07,12:53,1,3,55.0,Seattle Kraken,SEA
+150,24,55,Anaheim Ducks,Seattle Kraken,202202000936,2022020009,Hit,36,HIT,Brandon Tanev hit Troy Terry,2022-10-13T03:22:34Z,2,07:17,12:43,1,3,55.0,Seattle Kraken,SEA
+151,24,55,Anaheim Ducks,Seattle Kraken,202202000937,2022020009,Hit,37,HIT,Brandon Tanev hit John Klingberg,2022-10-13T03:22:54Z,2,07:37,12:23,1,3,55.0,Seattle Kraken,SEA
+152,24,55,Anaheim Ducks,Seattle Kraken,2022020009605,2022020009,Giveaway,605,GIVEAWAY,Giveaway by Carson Soucy,2022-10-13T03:23:54Z,2,08:37,11:23,1,3,55.0,Seattle Kraken,SEA
+153,24,55,Anaheim Ducks,Seattle Kraken,202202000938,2022020009,Takeaway,38,TAKEAWAY,Takeaway by Oliver Bjorkstrand,2022-10-13T03:24:04Z,2,08:47,11:13,1,3,55.0,Seattle Kraken,SEA
+154,24,55,Anaheim Ducks,Seattle Kraken,202202000939,2022020009,Takeaway,39,TAKEAWAY,Takeaway by Cam Fowler,2022-10-13T03:24:06Z,2,08:49,11:11,1,3,24.0,Anaheim Ducks,ANA
+155,24,55,Anaheim Ducks,Seattle Kraken,2022020009607,2022020009,Blocked Shot,607,BLOCKED_SHOT,Dmitry Kulikov shot blocked shot by Karson Kuhlman,2022-10-13T03:24:32Z,2,09:15,10:45,1,3,55.0,Seattle Kraken,SEA
+156,24,55,Anaheim Ducks,Seattle Kraken,2022020009171,2022020009,Stoppage,171,STOP,Puck Frozen,2022-10-13T03:24:41Z,2,09:24,10:36,1,3,,,
+157,24,55,Anaheim Ducks,Seattle Kraken,2022020009608,2022020009,Faceoff,608,FACEOFF,Matty Beniers faceoff won against Isac Lundestrom,2022-10-13T03:25:15Z,2,09:24,10:36,1,3,55.0,Seattle Kraken,SEA
+158,24,55,Anaheim Ducks,Seattle Kraken,2022020009609,2022020009,Takeaway,609,TAKEAWAY,Takeaway by Max Jones,2022-10-13T03:25:51Z,2,10:00,10:00,1,3,24.0,Anaheim Ducks,ANA
+159,24,55,Anaheim Ducks,Seattle Kraken,2022020009610,2022020009,Blocked Shot,610,BLOCKED_SHOT,Kevin Shattenkirk shot blocked shot by Brandon Tanev,2022-10-13T03:26:01Z,2,10:10,09:50,1,3,55.0,Seattle Kraken,SEA
+160,24,55,Anaheim Ducks,Seattle Kraken,202202000940,2022020009,Hit,40,HIT,Ryan Strome hit Will Borgen,2022-10-13T03:26:45Z,2,10:54,09:06,1,3,24.0,Anaheim Ducks,ANA
+161,24,55,Anaheim Ducks,Seattle Kraken,202202000941,2022020009,Hit,41,HIT,Max Jones hit Alex Wennberg,2022-10-13T03:27:21Z,2,11:30,08:30,1,3,24.0,Anaheim Ducks,ANA
+162,24,55,Anaheim Ducks,Seattle Kraken,2022020009612,2022020009,Blocked Shot,612,BLOCKED_SHOT,Troy Terry shot blocked shot by Justin Schultz,2022-10-13T03:27:28Z,2,11:37,08:23,1,3,55.0,Seattle Kraken,SEA
+163,24,55,Anaheim Ducks,Seattle Kraken,2022020009613,2022020009,Shot,613,SHOT,Oliver Bjorkstrand Wrist Shot saved by John Gibson,2022-10-13T03:27:42Z,2,11:51,08:09,1,3,55.0,Seattle Kraken,SEA
+164,24,55,Anaheim Ducks,Seattle Kraken,2022020009614,2022020009,Blocked Shot,614,BLOCKED_SHOT,Ryan Donato shot blocked shot by Jamie Drysdale,2022-10-13T03:27:54Z,2,12:03,07:57,1,3,24.0,Anaheim Ducks,ANA
+165,24,55,Anaheim Ducks,Seattle Kraken,2022020009615,2022020009,Shot,615,SHOT,Karson Kuhlman Slap Shot saved by John Gibson,2022-10-13T03:28:10Z,2,12:19,07:41,1,3,55.0,Seattle Kraken,SEA
+166,24,55,Anaheim Ducks,Seattle Kraken,2022020009172,2022020009,Stoppage,172,STOP,Goalie Stopped,2022-10-13T03:28:10Z,2,12:20,07:40,1,3,,,
+167,24,55,Anaheim Ducks,Seattle Kraken,2022020009616,2022020009,Faceoff,616,FACEOFF,Ryan Strome faceoff won against Ryan Donato,2022-10-13T03:30:32Z,2,12:20,07:40,1,3,24.0,Anaheim Ducks,ANA
+168,24,55,Anaheim Ducks,Seattle Kraken,2022020009617,2022020009,Shot,617,SHOT,Troy Terry Wrist Shot saved by Philipp Grubauer,2022-10-13T03:30:40Z,2,12:28,07:32,1,3,24.0,Anaheim Ducks,ANA
+169,24,55,Anaheim Ducks,Seattle Kraken,2022020009173,2022020009,Stoppage,173,STOP,Goalie Stopped,2022-10-13T03:30:41Z,2,12:29,07:31,1,3,,,
+170,24,55,Anaheim Ducks,Seattle Kraken,2022020009618,2022020009,Faceoff,618,FACEOFF,Yanni Gourde faceoff won against Trevor Zegras,2022-10-13T03:31:18Z,2,12:29,07:31,1,3,55.0,Seattle Kraken,SEA
+171,24,55,Anaheim Ducks,Seattle Kraken,2022020009619,2022020009,Blocked Shot,619,BLOCKED_SHOT,Kevin Shattenkirk shot blocked shot by Brandon Tanev,2022-10-13T03:31:40Z,2,12:51,07:09,1,3,55.0,Seattle Kraken,SEA
+172,24,55,Anaheim Ducks,Seattle Kraken,202202000942,2022020009,Hit,42,HIT,Jordan Eberle hit Nathan Beaulieu,2022-10-13T03:31:51Z,2,13:02,06:58,1,3,55.0,Seattle Kraken,SEA
+173,24,55,Anaheim Ducks,Seattle Kraken,2022020009620,2022020009,Missed Shot,620,MISSED_SHOT,Justin Schultz Wide of Net John Gibson,2022-10-13T03:31:55Z,2,13:06,06:54,1,3,55.0,Seattle Kraken,SEA
+174,24,55,Anaheim Ducks,Seattle Kraken,202202000943,2022020009,Hit,43,HIT,Brandon Tanev hit Trevor Zegras,2022-10-13T03:32:05Z,2,13:16,06:44,1,3,55.0,Seattle Kraken,SEA
+175,24,55,Anaheim Ducks,Seattle Kraken,2022020009621,2022020009,Giveaway,621,GIVEAWAY,Giveaway by Trevor Zegras,2022-10-13T03:32:05Z,2,13:16,06:44,1,3,24.0,Anaheim Ducks,ANA
+176,24,55,Anaheim Ducks,Seattle Kraken,202202000944,2022020009,Hit,44,HIT,Trevor Zegras hit Yanni Gourde,2022-10-13T03:32:08Z,2,13:19,06:41,1,3,24.0,Anaheim Ducks,ANA
+177,24,55,Anaheim Ducks,Seattle Kraken,202202000945,2022020009,Hit,45,HIT,Jamie Oleksiak hit Troy Terry,2022-10-13T03:32:33Z,2,13:44,06:16,1,3,55.0,Seattle Kraken,SEA
+178,24,55,Anaheim Ducks,Seattle Kraken,202202000946,2022020009,Hit,46,HIT,Jamie Oleksiak hit Troy Terry,2022-10-13T03:32:35Z,2,13:46,06:14,1,3,55.0,Seattle Kraken,SEA
+179,24,55,Anaheim Ducks,Seattle Kraken,2022020009622,2022020009,Shot,622,SHOT,Alex Wennberg Tip-In saved by John Gibson,2022-10-13T03:32:54Z,2,14:05,05:55,1,3,55.0,Seattle Kraken,SEA
+180,24,55,Anaheim Ducks,Seattle Kraken,2022020009623,2022020009,Shot,623,SHOT,Jared McCann Wrist Shot saved by John Gibson,2022-10-13T03:33:20Z,2,14:31,05:29,1,3,55.0,Seattle Kraken,SEA
+181,24,55,Anaheim Ducks,Seattle Kraken,2022020009174,2022020009,Stoppage,174,STOP,Offside,2022-10-13T03:33:54Z,2,15:05,04:55,1,3,,,
+182,24,55,Anaheim Ducks,Seattle Kraken,2022020009625,2022020009,Faceoff,625,FACEOFF,Derek Grant faceoff won against Yanni Gourde,2022-10-13T03:36:10Z,2,15:05,04:55,1,3,24.0,Anaheim Ducks,ANA
+183,24,55,Anaheim Ducks,Seattle Kraken,202202000947,2022020009,Hit,47,HIT,Max Jones hit Will Borgen,2022-10-13T03:36:25Z,2,15:20,04:40,1,3,24.0,Anaheim Ducks,ANA
+184,24,55,Anaheim Ducks,Seattle Kraken,2022020009626,2022020009,Missed Shot,626,MISSED_SHOT,Carson Soucy Wide of Net John Gibson,2022-10-13T03:36:39Z,2,15:34,04:26,1,3,55.0,Seattle Kraken,SEA
+185,24,55,Anaheim Ducks,Seattle Kraken,2022020009627,2022020009,Missed Shot,627,MISSED_SHOT,Jamie Oleksiak Wide of Net John Gibson,2022-10-13T03:37:02Z,2,15:57,04:03,1,3,55.0,Seattle Kraken,SEA
+186,24,55,Anaheim Ducks,Seattle Kraken,2022020009628,2022020009,Hit,628,HIT,Ryan Strome hit Jaden Schwartz,2022-10-13T03:37:20Z,2,16:15,03:45,1,3,24.0,Anaheim Ducks,ANA
+187,24,55,Anaheim Ducks,Seattle Kraken,2022020009629,2022020009,Shot,629,SHOT,Jaden Schwartz Tip-In saved by John Gibson,2022-10-13T03:37:37Z,2,16:32,03:28,1,3,55.0,Seattle Kraken,SEA
+188,24,55,Anaheim Ducks,Seattle Kraken,2022020009630,2022020009,Shot,630,SHOT,Adam Larsson Tip-In saved by John Gibson,2022-10-13T03:37:51Z,2,16:46,03:14,1,3,55.0,Seattle Kraken,SEA
+189,24,55,Anaheim Ducks,Seattle Kraken,2022020009175,2022020009,Stoppage,175,STOP,Goalie Stopped,2022-10-13T03:37:53Z,2,16:47,03:13,1,3,,,
+190,24,55,Anaheim Ducks,Seattle Kraken,2022020009631,2022020009,Faceoff,631,FACEOFF,Trevor Zegras faceoff won against Ryan Donato,2022-10-13T03:38:31Z,2,16:47,03:13,1,3,24.0,Anaheim Ducks,ANA
+191,24,55,Anaheim Ducks,Seattle Kraken,2022020009176,2022020009,Stoppage,176,STOP,Icing,2022-10-13T03:38:42Z,2,16:58,03:02,1,3,,,
+192,24,55,Anaheim Ducks,Seattle Kraken,2022020009632,2022020009,Faceoff,632,FACEOFF,Trevor Zegras faceoff won against Shane Wright,2022-10-13T03:39:03Z,2,16:58,03:02,1,3,24.0,Anaheim Ducks,ANA
+193,24,55,Anaheim Ducks,Seattle Kraken,2022020009633,2022020009,Giveaway,633,GIVEAWAY,Giveaway by Shane Wright,2022-10-13T03:39:10Z,2,17:05,02:55,1,3,55.0,Seattle Kraken,SEA
+194,24,55,Anaheim Ducks,Seattle Kraken,2022020009802,2022020009,Penalty,802,PENALTY,Ryan Donato Hooking against Dmitry Kulikov,2022-10-13T03:39:18Z,2,17:14,02:46,1,3,55.0,Seattle Kraken,SEA
+195,24,55,Anaheim Ducks,Seattle Kraken,2022020009634,2022020009,Faceoff,634,FACEOFF,Ryan Strome faceoff won against Yanni Gourde,2022-10-13T03:40:09Z,2,17:14,02:46,1,3,24.0,Anaheim Ducks,ANA
+196,24,55,Anaheim Ducks,Seattle Kraken,2022020009635,2022020009,Blocked Shot,635,BLOCKED_SHOT,John Klingberg shot blocked shot by Brandon Tanev,2022-10-13T03:40:24Z,2,17:29,02:31,1,3,55.0,Seattle Kraken,SEA
+197,24,55,Anaheim Ducks,Seattle Kraken,2022020009636,2022020009,Shot,636,SHOT,Troy Terry Slap Shot saved by Philipp Grubauer,2022-10-13T03:40:35Z,2,17:40,02:20,1,3,24.0,Anaheim Ducks,ANA
+198,24,55,Anaheim Ducks,Seattle Kraken,2022020009453,2022020009,Hit,453,HIT,Trevor Zegras hit Will Borgen,2022-10-13T03:41:10Z,2,18:15,01:45,1,3,24.0,Anaheim Ducks,ANA
+199,24,55,Anaheim Ducks,Seattle Kraken,2022020009637,2022020009,Goal,637,GOAL,"Ryan Strome (1) Tip-In, assists: Mason McTavish (2), Trevor Zegras (1)",2022-10-13T03:41:19Z,2,18:24,01:36,2,3,24.0,Anaheim Ducks,ANA
+200,24,55,Anaheim Ducks,Seattle Kraken,202202000948,2022020009,Faceoff,48,FACEOFF,Matty Beniers faceoff won against Derek Grant,2022-10-13T03:42:15Z,2,18:24,01:36,2,3,55.0,Seattle Kraken,SEA
+201,24,55,Anaheim Ducks,Seattle Kraken,202202000949,2022020009,Hit,49,HIT,Jamie Oleksiak hit Max Jones,2022-10-13T03:42:50Z,2,18:59,01:01,2,3,55.0,Seattle Kraken,SEA
+202,24,55,Anaheim Ducks,Seattle Kraken,2022020009638,2022020009,Shot,638,SHOT,Jamie Oleksiak Slap Shot saved by John Gibson,2022-10-13T03:43:04Z,2,19:13,00:47,2,3,55.0,Seattle Kraken,SEA
+203,24,55,Anaheim Ducks,Seattle Kraken,2022020009179,2022020009,Stoppage,179,STOP,Goalie Stopped,2022-10-13T03:43:06Z,2,19:14,00:46,2,3,,,
+204,24,55,Anaheim Ducks,Seattle Kraken,2022020009639,2022020009,Faceoff,639,FACEOFF,Isac Lundestrom faceoff won against Alex Wennberg,2022-10-13T03:43:46Z,2,19:14,00:46,2,3,24.0,Anaheim Ducks,ANA
+205,24,55,Anaheim Ducks,Seattle Kraken,2022020009640,2022020009,Missed Shot,640,MISSED_SHOT,Oliver Bjorkstrand Wide of Net John Gibson,2022-10-13T03:43:56Z,2,19:25,00:35,2,3,55.0,Seattle Kraken,SEA
+206,24,55,Anaheim Ducks,Seattle Kraken,202202000950,2022020009,Period End,50,PERIOD_END,End of 2nd Period,2022-10-13T03:44:31Z,2,20:00,00:00,2,3,,,
+207,24,55,Anaheim Ducks,Seattle Kraken,2022020009454,2022020009,Period Official,454,PERIOD_OFFICIAL,Period Official,2022-10-13T04:00:00Z,2,20:00,00:00,2,3,,,
+208,24,55,Anaheim Ducks,Seattle Kraken,2022020009455,2022020009,Period Ready,455,PERIOD_READY,Period Ready,2022-10-13T04:03:08Z,3,00:00,20:00,2,3,,,
+209,24,55,Anaheim Ducks,Seattle Kraken,2022020009204,2022020009,Period Start,204,PERIOD_START,Period Start,2022-10-13T04:03:15Z,3,00:00,20:00,2,3,,,
+210,24,55,Anaheim Ducks,Seattle Kraken,2022020009205,2022020009,Faceoff,205,FACEOFF,Alex Wennberg faceoff won against Trevor Zegras,2022-10-13T04:03:15Z,3,00:00,20:00,2,3,55.0,Seattle Kraken,SEA
+211,24,55,Anaheim Ducks,Seattle Kraken,2022020009180,2022020009,Stoppage,180,STOP,Icing,2022-10-13T04:03:21Z,3,00:07,19:53,2,3,,,
+212,24,55,Anaheim Ducks,Seattle Kraken,2022020009206,2022020009,Faceoff,206,FACEOFF,Alex Wennberg faceoff won against Trevor Zegras,2022-10-13T04:03:47Z,3,00:07,19:53,2,3,55.0,Seattle Kraken,SEA
+213,24,55,Anaheim Ducks,Seattle Kraken,2022020009643,2022020009,Giveaway,643,GIVEAWAY,Giveaway by Ryan Strome,2022-10-13T04:04:49Z,3,01:09,18:51,2,3,24.0,Anaheim Ducks,ANA
+214,24,55,Anaheim Ducks,Seattle Kraken,2022020009644,2022020009,Blocked Shot,644,BLOCKED_SHOT,Jared McCann shot blocked shot by Dmitry Kulikov,2022-10-13T04:04:54Z,3,01:14,18:46,2,3,24.0,Anaheim Ducks,ANA
+215,24,55,Anaheim Ducks,Seattle Kraken,2022020009181,2022020009,Stoppage,181,STOP,Offside,2022-10-13T04:05:12Z,3,01:31,18:29,2,3,,,
+216,24,55,Anaheim Ducks,Seattle Kraken,2022020009207,2022020009,Faceoff,207,FACEOFF,Yanni Gourde faceoff won against Jakob Silfverberg,2022-10-13T04:05:47Z,3,01:31,18:29,2,3,55.0,Seattle Kraken,SEA
+217,24,55,Anaheim Ducks,Seattle Kraken,2022020009646,2022020009,Missed Shot,646,MISSED_SHOT,Yanni Gourde Wide of Net John Gibson,2022-10-13T04:05:58Z,3,01:42,18:18,2,3,55.0,Seattle Kraken,SEA
+218,24,55,Anaheim Ducks,Seattle Kraken,2022020009647,2022020009,Giveaway,647,GIVEAWAY,Giveaway by Carson Soucy,2022-10-13T04:06:13Z,3,01:57,18:03,2,3,55.0,Seattle Kraken,SEA
+219,24,55,Anaheim Ducks,Seattle Kraken,2022020009456,2022020009,Hit,456,HIT,Max Comtois hit Will Borgen,2022-10-13T04:06:22Z,3,02:06,17:54,2,3,24.0,Anaheim Ducks,ANA
+220,24,55,Anaheim Ducks,Seattle Kraken,2022020009833,2022020009,Penalty,833,PENALTY,Will Borgen Fighting against Max Comtois,2022-10-13T04:06:26Z,3,02:10,17:50,2,3,55.0,Seattle Kraken,SEA
+221,24,55,Anaheim Ducks,Seattle Kraken,2022020009837,2022020009,Penalty,837,PENALTY,Max Comtois Fighting against Will Borgen,2022-10-13T04:06:26Z,3,02:10,17:50,2,3,24.0,Anaheim Ducks,ANA
+222,24,55,Anaheim Ducks,Seattle Kraken,2022020009208,2022020009,Faceoff,208,FACEOFF,Ryan Donato faceoff won against Derek Grant,2022-10-13T04:07:56Z,3,02:10,17:50,2,3,55.0,Seattle Kraken,SEA
+223,24,55,Anaheim Ducks,Seattle Kraken,2022020009648,2022020009,Shot,648,SHOT,Adam Larsson Wrist Shot saved by John Gibson,2022-10-13T04:08:05Z,3,02:19,17:41,2,3,55.0,Seattle Kraken,SEA
+224,24,55,Anaheim Ducks,Seattle Kraken,2022020009649,2022020009,Missed Shot,649,MISSED_SHOT,Vince Dunn Wide of Net John Gibson,2022-10-13T04:08:10Z,3,02:24,17:36,2,3,55.0,Seattle Kraken,SEA
+225,24,55,Anaheim Ducks,Seattle Kraken,2022020009650,2022020009,Takeaway,650,TAKEAWAY,Takeaway by Cam Fowler,2022-10-13T04:08:39Z,3,02:53,17:07,2,3,24.0,Anaheim Ducks,ANA
+226,24,55,Anaheim Ducks,Seattle Kraken,2022020009751,2022020009,Takeaway,751,TAKEAWAY,Takeaway by Matty Beniers,2022-10-13T04:08:59Z,3,03:13,16:47,2,3,55.0,Seattle Kraken,SEA
+227,24,55,Anaheim Ducks,Seattle Kraken,2022020009457,2022020009,Hit,457,HIT,Jamie Oleksiak hit Frank Vatrano,2022-10-13T04:09:44Z,3,03:58,16:02,2,3,55.0,Seattle Kraken,SEA
+228,24,55,Anaheim Ducks,Seattle Kraken,2022020009752,2022020009,Blocked Shot,752,BLOCKED_SHOT,Jaden Schwartz shot blocked shot by Nathan Beaulieu,2022-10-13T04:09:51Z,3,04:05,15:55,2,3,24.0,Anaheim Ducks,ANA
+229,24,55,Anaheim Ducks,Seattle Kraken,2022020009760,2022020009,Shot,760,SHOT,Jaden Schwartz Wrist Shot saved by John Gibson,2022-10-13T04:09:53Z,3,04:07,15:53,2,3,55.0,Seattle Kraken,SEA
+230,24,55,Anaheim Ducks,Seattle Kraken,2022020009753,2022020009,Goal,753,GOAL,"Matty Beniers (1) Tip-In, assists: Jaden Schwartz (1), Carson Soucy (1)",2022-10-13T04:09:55Z,3,04:09,15:51,2,4,55.0,Seattle Kraken,SEA
+231,24,55,Anaheim Ducks,Seattle Kraken,2022020009209,2022020009,Faceoff,209,FACEOFF,Ryan Strome faceoff won against Alex Wennberg,2022-10-13T04:10:34Z,3,04:09,15:51,2,4,24.0,Anaheim Ducks,ANA
+232,24,55,Anaheim Ducks,Seattle Kraken,2022020009754,2022020009,Shot,754,SHOT,Jaden Schwartz Wrist Shot saved by John Gibson,2022-10-13T04:11:11Z,3,04:46,15:14,2,4,55.0,Seattle Kraken,SEA
+233,24,55,Anaheim Ducks,Seattle Kraken,2022020009755,2022020009,Shot,755,SHOT,Vince Dunn Wrist Shot saved by John Gibson,2022-10-13T04:12:05Z,3,05:40,14:20,2,4,55.0,Seattle Kraken,SEA
+234,24,55,Anaheim Ducks,Seattle Kraken,2022020009756,2022020009,Takeaway,756,TAKEAWAY,Takeaway by Jordan Eberle,2022-10-13T04:12:17Z,3,05:52,14:08,2,4,55.0,Seattle Kraken,SEA
+235,24,55,Anaheim Ducks,Seattle Kraken,2022020009757,2022020009,Shot,757,SHOT,Yanni Gourde Wrist Shot saved by John Gibson,2022-10-13T04:12:23Z,3,05:58,14:02,2,4,55.0,Seattle Kraken,SEA
+236,24,55,Anaheim Ducks,Seattle Kraken,2022020009458,2022020009,Hit,458,HIT,Carson Soucy hit Derek Grant,2022-10-13T04:12:47Z,3,06:22,13:38,2,4,55.0,Seattle Kraken,SEA
+237,24,55,Anaheim Ducks,Seattle Kraken,2022020009758,2022020009,Missed Shot,758,MISSED_SHOT,Pavol Regenda Wide of Net Philipp Grubauer,2022-10-13T04:12:49Z,3,06:24,13:36,2,4,24.0,Anaheim Ducks,ANA
+238,24,55,Anaheim Ducks,Seattle Kraken,2022020009459,2022020009,Hit,459,HIT,Jamie Oleksiak hit Max Jones,2022-10-13T04:12:54Z,3,06:29,13:31,2,4,55.0,Seattle Kraken,SEA
+239,24,55,Anaheim Ducks,Seattle Kraken,2022020009759,2022020009,Shot,759,SHOT,Mason McTavish Wrist Shot saved by Philipp Grubauer,2022-10-13T04:13:08Z,3,06:43,13:17,2,4,24.0,Anaheim Ducks,ANA
+240,24,55,Anaheim Ducks,Seattle Kraken,2022020009182,2022020009,Stoppage,182,STOP,Goalie Stopped,2022-10-13T04:13:09Z,3,06:44,13:16,2,4,,,
+241,24,55,Anaheim Ducks,Seattle Kraken,2022020009210,2022020009,Faceoff,210,FACEOFF,Ryan Strome faceoff won against Matty Beniers,2022-10-13T04:15:43Z,3,06:44,13:16,2,4,24.0,Anaheim Ducks,ANA
+242,24,55,Anaheim Ducks,Seattle Kraken,2022020009761,2022020009,Giveaway,761,GIVEAWAY,Giveaway by Mason McTavish,2022-10-13T04:15:53Z,3,06:54,13:06,2,4,24.0,Anaheim Ducks,ANA
+243,24,55,Anaheim Ducks,Seattle Kraken,2022020009183,2022020009,Stoppage,183,STOP,Puck in Benches,2022-10-13T04:16:02Z,3,07:03,12:57,2,4,,,
+244,24,55,Anaheim Ducks,Seattle Kraken,2022020009211,2022020009,Faceoff,211,FACEOFF,Isac Lundestrom faceoff won against Matty Beniers,2022-10-13T04:16:25Z,3,07:03,12:57,2,4,24.0,Anaheim Ducks,ANA
+245,24,55,Anaheim Ducks,Seattle Kraken,2022020009184,2022020009,Stoppage,184,STOP,Icing,2022-10-13T04:17:03Z,3,07:41,12:19,2,4,,,
+246,24,55,Anaheim Ducks,Seattle Kraken,2022020009212,2022020009,Faceoff,212,FACEOFF,Isac Lundestrom faceoff won against Yanni Gourde,2022-10-13T04:17:37Z,3,07:41,12:19,2,4,24.0,Anaheim Ducks,ANA
+247,24,55,Anaheim Ducks,Seattle Kraken,2022020009762,2022020009,Giveaway,762,GIVEAWAY,Giveaway by Jamie Drysdale,2022-10-13T04:17:43Z,3,07:47,12:13,2,4,24.0,Anaheim Ducks,ANA
+248,24,55,Anaheim Ducks,Seattle Kraken,2022020009763,2022020009,Blocked Shot,763,BLOCKED_SHOT,Jordan Eberle shot blocked shot by Dmitry Kulikov,2022-10-13T04:17:45Z,3,07:49,12:11,2,4,24.0,Anaheim Ducks,ANA
+249,24,55,Anaheim Ducks,Seattle Kraken,2022020009185,2022020009,Stoppage,185,STOP,Puck in Crowd,2022-10-13T04:17:47Z,3,07:50,12:10,2,4,,,
+250,24,55,Anaheim Ducks,Seattle Kraken,2022020009213,2022020009,Faceoff,213,FACEOFF,Yanni Gourde faceoff won against Derek Grant,2022-10-13T04:18:16Z,3,07:50,12:10,2,4,55.0,Seattle Kraken,SEA
+251,24,55,Anaheim Ducks,Seattle Kraken,2022020009460,2022020009,Hit,460,HIT,Brandon Tanev hit Pavol Regenda,2022-10-13T04:18:52Z,3,08:26,11:34,2,4,55.0,Seattle Kraken,SEA
+252,24,55,Anaheim Ducks,Seattle Kraken,2022020009764,2022020009,Giveaway,764,GIVEAWAY,Giveaway by Pavol Regenda,2022-10-13T04:18:52Z,3,08:26,11:34,2,4,24.0,Anaheim Ducks,ANA
+253,24,55,Anaheim Ducks,Seattle Kraken,2022020009765,2022020009,Shot,765,SHOT,Jordan Eberle Wrist Shot saved by John Gibson,2022-10-13T04:18:58Z,3,08:32,11:28,2,4,55.0,Seattle Kraken,SEA
+254,24,55,Anaheim Ducks,Seattle Kraken,2022020009766,2022020009,Shot,766,SHOT,Trevor Zegras Wrist Shot saved by Philipp Grubauer,2022-10-13T04:19:24Z,3,08:58,11:02,2,4,24.0,Anaheim Ducks,ANA
+255,24,55,Anaheim Ducks,Seattle Kraken,2022020009186,2022020009,Stoppage,186,STOP,Puck in Netting,2022-10-13T04:19:25Z,3,08:59,11:01,2,4,,,
+256,24,55,Anaheim Ducks,Seattle Kraken,2022020009214,2022020009,Faceoff,214,FACEOFF,Matty Beniers faceoff won against Ryan Strome,2022-10-13T04:19:52Z,3,08:59,11:01,2,4,55.0,Seattle Kraken,SEA
+257,24,55,Anaheim Ducks,Seattle Kraken,2022020009767,2022020009,Giveaway,767,GIVEAWAY,Giveaway by Cam Fowler,2022-10-13T04:20:12Z,3,09:19,10:41,2,4,24.0,Anaheim Ducks,ANA
+258,24,55,Anaheim Ducks,Seattle Kraken,2022020009768,2022020009,Blocked Shot,768,BLOCKED_SHOT,Frank Vatrano shot blocked shot by Matty Beniers,2022-10-13T04:20:37Z,3,09:44,10:16,2,4,55.0,Seattle Kraken,SEA
+259,24,55,Anaheim Ducks,Seattle Kraken,2022020009769,2022020009,Goal,769,GOAL,"Frank Vatrano (1) Wrist Shot, assists: Ryan Strome (2), John Klingberg (1)",2022-10-13T04:20:49Z,3,09:56,10:04,3,4,24.0,Anaheim Ducks,ANA
+260,24,55,Anaheim Ducks,Seattle Kraken,2022020009215,2022020009,Faceoff,215,FACEOFF,Trevor Zegras faceoff won against Alex Wennberg,2022-10-13T04:21:43Z,3,09:56,10:04,3,4,24.0,Anaheim Ducks,ANA
+261,24,55,Anaheim Ducks,Seattle Kraken,2022020009770,2022020009,Blocked Shot,770,BLOCKED_SHOT,Trevor Zegras shot blocked shot by Alex Wennberg,2022-10-13T04:21:52Z,3,10:05,09:55,3,4,55.0,Seattle Kraken,SEA
+262,24,55,Anaheim Ducks,Seattle Kraken,2022020009187,2022020009,Stoppage,187,STOP,Offside,2022-10-13T04:22:45Z,3,10:58,09:02,3,4,,,
+263,24,55,Anaheim Ducks,Seattle Kraken,2022020009216,2022020009,Faceoff,216,FACEOFF,Jordan Eberle faceoff won against Ryan Strome,2022-10-13T04:25:05Z,3,10:58,09:02,3,4,55.0,Seattle Kraken,SEA
+264,24,55,Anaheim Ducks,Seattle Kraken,2022020009771,2022020009,Shot,771,SHOT,Brandon Tanev Wrist Shot saved by John Gibson,2022-10-13T04:25:18Z,3,11:11,08:49,3,4,55.0,Seattle Kraken,SEA
+265,24,55,Anaheim Ducks,Seattle Kraken,2022020009772,2022020009,Takeaway,772,TAKEAWAY,Takeaway by Troy Terry,2022-10-13T04:25:28Z,3,11:21,08:39,3,4,24.0,Anaheim Ducks,ANA
+266,24,55,Anaheim Ducks,Seattle Kraken,2022020009461,2022020009,Hit,461,HIT,Carson Soucy hit Ryan Strome,2022-10-13T04:25:35Z,3,11:28,08:32,3,4,55.0,Seattle Kraken,SEA
+267,24,55,Anaheim Ducks,Seattle Kraken,2022020009773,2022020009,Shot,773,SHOT,Jamie Drysdale Slap Shot saved by Philipp Grubauer,2022-10-13T04:25:38Z,3,11:31,08:29,3,4,24.0,Anaheim Ducks,ANA
+268,24,55,Anaheim Ducks,Seattle Kraken,2022020009188,2022020009,Stoppage,188,STOP,Goalie Stopped,2022-10-13T04:25:39Z,3,11:32,08:28,3,4,,,
+269,24,55,Anaheim Ducks,Seattle Kraken,2022020009217,2022020009,Faceoff,217,FACEOFF,Matty Beniers faceoff won against Jakob Silfverberg,2022-10-13T04:26:15Z,3,11:32,08:28,3,4,55.0,Seattle Kraken,SEA
+270,24,55,Anaheim Ducks,Seattle Kraken,2022020009774,2022020009,Shot,774,SHOT,Jakob Silfverberg Wrist Shot saved by Philipp Grubauer,2022-10-13T04:26:58Z,3,12:15,07:45,3,4,24.0,Anaheim Ducks,ANA
+271,24,55,Anaheim Ducks,Seattle Kraken,2022020009920,2022020009,Penalty,920,PENALTY,Ryan Donato Hooking against Jakob Silfverberg,2022-10-13T04:27:03Z,3,12:20,07:40,3,4,55.0,Seattle Kraken,SEA
+272,24,55,Anaheim Ducks,Seattle Kraken,2022020009219,2022020009,Faceoff,219,FACEOFF,Yanni Gourde faceoff won against Ryan Strome,2022-10-13T04:27:40Z,3,12:20,07:40,3,4,55.0,Seattle Kraken,SEA
+273,24,55,Anaheim Ducks,Seattle Kraken,2022020009775,2022020009,Shot,775,SHOT,Mason McTavish Wrist Shot saved by Philipp Grubauer,2022-10-13T04:27:45Z,3,12:25,07:35,3,4,24.0,Anaheim Ducks,ANA
+274,24,55,Anaheim Ducks,Seattle Kraken,2022020009463,2022020009,Hit,463,HIT,Jamie Oleksiak hit Trevor Zegras,2022-10-13T04:28:34Z,3,13:14,06:46,3,4,55.0,Seattle Kraken,SEA
+275,24,55,Anaheim Ducks,Seattle Kraken,2022020009776,2022020009,Goal,776,GOAL,"Trevor Zegras (1) Slap Shot, assists: Troy Terry (1), John Klingberg (2)",2022-10-13T04:28:44Z,3,13:23,06:37,4,4,24.0,Anaheim Ducks,ANA
+276,24,55,Anaheim Ducks,Seattle Kraken,2022020009220,2022020009,Faceoff,220,FACEOFF,Derek Grant faceoff won against Matty Beniers,2022-10-13T04:29:34Z,3,13:23,06:37,4,4,24.0,Anaheim Ducks,ANA
+277,24,55,Anaheim Ducks,Seattle Kraken,2022020009777,2022020009,Blocked Shot,777,BLOCKED_SHOT,Max Comtois shot blocked shot by Carson Soucy,2022-10-13T04:30:27Z,3,14:16,05:44,4,4,55.0,Seattle Kraken,SEA
+278,24,55,Anaheim Ducks,Seattle Kraken,2022020009778,2022020009,Shot,778,SHOT,Cam Fowler Wrist Shot saved by Philipp Grubauer,2022-10-13T04:30:32Z,3,14:21,05:39,4,4,24.0,Anaheim Ducks,ANA
+279,24,55,Anaheim Ducks,Seattle Kraken,2022020009779,2022020009,Missed Shot,779,MISSED_SHOT,Oliver Bjorkstrand Wide of Net John Gibson,2022-10-13T04:31:14Z,3,15:03,04:57,4,4,55.0,Seattle Kraken,SEA
+280,24,55,Anaheim Ducks,Seattle Kraken,2022020009780,2022020009,Shot,780,SHOT,Oliver Bjorkstrand Wrist Shot saved by John Gibson,2022-10-13T04:31:18Z,3,15:07,04:53,4,4,55.0,Seattle Kraken,SEA
+281,24,55,Anaheim Ducks,Seattle Kraken,2022020009189,2022020009,Stoppage,189,STOP,TV timeout,2022-10-13T04:31:49Z,3,15:37,04:23,4,4,,,
+282,24,55,Anaheim Ducks,Seattle Kraken,2022020009948,2022020009,Penalty,948,PENALTY,Jamie Drysdale Holding against Oliver Bjorkstrand,2022-10-13T04:31:49Z,3,15:37,04:23,4,4,24.0,Anaheim Ducks,ANA
+283,24,55,Anaheim Ducks,Seattle Kraken,2022020009221,2022020009,Faceoff,221,FACEOFF,Ryan Strome faceoff won against Alex Wennberg,2022-10-13T04:33:56Z,3,15:37,04:23,4,4,24.0,Anaheim Ducks,ANA
+284,24,55,Anaheim Ducks,Seattle Kraken,2022020009781,2022020009,Shot,781,SHOT,Matty Beniers Slap Shot saved by John Gibson,2022-10-13T04:34:36Z,3,16:17,03:43,4,4,55.0,Seattle Kraken,SEA
+285,24,55,Anaheim Ducks,Seattle Kraken,2022020009782,2022020009,Shot,782,SHOT,Oliver Bjorkstrand Slap Shot saved by John Gibson,2022-10-13T04:34:43Z,3,16:24,03:36,4,4,55.0,Seattle Kraken,SEA
+286,24,55,Anaheim Ducks,Seattle Kraken,2022020009783,2022020009,Shot,783,SHOT,Andre Burakovsky Wrist Shot saved by John Gibson,2022-10-13T04:35:29Z,3,17:10,02:50,4,4,55.0,Seattle Kraken,SEA
+287,24,55,Anaheim Ducks,Seattle Kraken,2022020009784,2022020009,Shot,784,SHOT,Jared McCann Wrist Shot saved by John Gibson,2022-10-13T04:35:46Z,3,17:27,02:33,4,4,55.0,Seattle Kraken,SEA
+288,24,55,Anaheim Ducks,Seattle Kraken,2022020009785,2022020009,Blocked Shot,785,BLOCKED_SHOT,Jordan Eberle shot blocked shot by Nathan Beaulieu,2022-10-13T04:35:47Z,3,17:28,02:32,4,4,24.0,Anaheim Ducks,ANA
+289,24,55,Anaheim Ducks,Seattle Kraken,2022020009786,2022020009,Shot,786,SHOT,Vince Dunn Slap Shot saved by John Gibson,2022-10-13T04:35:57Z,3,17:38,02:22,4,4,55.0,Seattle Kraken,SEA
+290,24,55,Anaheim Ducks,Seattle Kraken,2022020009190,2022020009,Stoppage,190,STOP,Goalie Stopped,2022-10-13T04:35:58Z,3,17:39,02:21,4,4,,,
+291,24,55,Anaheim Ducks,Seattle Kraken,2022020009222,2022020009,Faceoff,222,FACEOFF,Derek Grant faceoff won against Yanni Gourde,2022-10-13T04:36:50Z,3,17:39,02:21,4,4,24.0,Anaheim Ducks,ANA
+292,24,55,Anaheim Ducks,Seattle Kraken,2022020009788,2022020009,Blocked Shot,788,BLOCKED_SHOT,Troy Terry shot blocked shot by Adam Larsson,2022-10-13T04:37:00Z,3,17:49,02:11,4,4,55.0,Seattle Kraken,SEA
+293,24,55,Anaheim Ducks,Seattle Kraken,2022020009787,2022020009,Blocked Shot,787,BLOCKED_SHOT,Troy Terry shot blocked shot by Yanni Gourde,2022-10-13T04:37:10Z,3,17:59,02:01,4,4,55.0,Seattle Kraken,SEA
+294,24,55,Anaheim Ducks,Seattle Kraken,2022020009191,2022020009,Stoppage,191,STOP,Icing,2022-10-13T04:37:15Z,3,18:04,01:56,4,4,,,
+295,24,55,Anaheim Ducks,Seattle Kraken,2022020009224,2022020009,Faceoff,224,FACEOFF,Trevor Zegras faceoff won against Yanni Gourde,2022-10-13T04:37:48Z,3,18:04,01:56,4,4,24.0,Anaheim Ducks,ANA
+296,24,55,Anaheim Ducks,Seattle Kraken,2022020009465,2022020009,Hit,465,HIT,Jaden Schwartz hit Isac Lundestrom,2022-10-13T04:38:37Z,3,18:53,01:07,4,4,55.0,Seattle Kraken,SEA
+297,24,55,Anaheim Ducks,Seattle Kraken,2022020009466,2022020009,Period End,466,PERIOD_END,End of 3rd Period,2022-10-13T04:39:44Z,3,20:00,00:00,4,4,,,
+298,24,55,Anaheim Ducks,Seattle Kraken,2022020009469,2022020009,Period Official,469,PERIOD_OFFICIAL,Period Official,2022-10-13T04:39:52Z,3,20:00,00:00,4,4,,,
+299,24,55,Anaheim Ducks,Seattle Kraken,2022020009470,2022020009,Period Ready,470,PERIOD_READY,Period Ready,2022-10-13T04:40:08Z,4,00:00,05:00,4,4,,,
+300,24,55,Anaheim Ducks,Seattle Kraken,2022020009225,2022020009,Period Start,225,PERIOD_START,Period Start,2022-10-13T04:41:56Z,4,00:00,05:00,4,4,,,
+301,24,55,Anaheim Ducks,Seattle Kraken,2022020009226,2022020009,Faceoff,226,FACEOFF,Matty Beniers faceoff won against Ryan Strome,2022-10-13T04:41:56Z,4,00:00,05:00,4,4,55.0,Seattle Kraken,SEA
+302,24,55,Anaheim Ducks,Seattle Kraken,2022020009791,2022020009,Shot,791,SHOT,Adam Larsson Wrist Shot saved by John Gibson,2022-10-13T04:42:44Z,4,00:48,04:12,4,4,55.0,Seattle Kraken,SEA
+303,24,55,Anaheim Ducks,Seattle Kraken,2022020009471,2022020009,Period End,471,PERIOD_END,End of OT,2022-10-13T04:42:50Z,4,00:55,04:05,4,4,,,
+304,24,55,Anaheim Ducks,Seattle Kraken,2022020009792,2022020009,Goal,792,GOAL,"Troy Terry (2) Backhand, assists: John Gibson (1)",2022-10-13T04:42:50Z,4,00:55,04:05,5,4,24.0,Anaheim Ducks,ANA
+305,24,55,Anaheim Ducks,Seattle Kraken,2022020009474,2022020009,Period Official,474,PERIOD_OFFICIAL,Period Official,2022-10-13T04:43:05Z,4,00:55,04:05,5,4,,,
+306,24,55,Anaheim Ducks,Seattle Kraken,2022020009475,2022020009,Game End,475,GAME_END,Game End,2022-10-13T04:43:08Z,4,00:55,04:05,5,4,,,
+307,24,55,Anaheim Ducks,Seattle Kraken,20220200091351,2022020009,Game Official,1351,GAME_OFFICIAL,Game Official,2022-10-13T06:08:22Z,4,00:55,04:05,5,4,,,

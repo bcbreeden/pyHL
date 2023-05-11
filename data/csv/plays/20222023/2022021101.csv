@@ -1,0 +1,353 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,14,8,Tampa Bay Lightning,Montréal Canadiens,20220211011,2022021101,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-03-18T22:13:18Z,1,00:00,20:00,0,0,,,
+1,14,8,Tampa Bay Lightning,Montréal Canadiens,20220211016,2022021101,Period Ready,6,PERIOD_READY,Period Ready,2023-03-18T23:14:12Z,1,00:00,20:00,0,0,,,
+2,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101101,2022021101,Period Start,101,PERIOD_START,Period Start,2023-03-18T23:18:48Z,1,00:00,20:00,0,0,,,
+3,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101102,2022021101,Faceoff,102,FACEOFF,Nick Suzuki faceoff won against Anthony Cirelli,2023-03-18T23:18:48Z,1,00:00,20:00,0,0,8.0,Montréal Canadiens,MTL
+4,14,8,Tampa Bay Lightning,Montréal Canadiens,20220211019,2022021101,Stoppage,9,STOP,Icing,2023-03-18T23:18:57Z,1,00:10,19:50,0,0,,,
+5,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101103,2022021101,Faceoff,103,FACEOFF,Anthony Cirelli faceoff won against Nick Suzuki,2023-03-18T23:19:21Z,1,00:10,19:50,0,0,14.0,Tampa Bay Lightning,TBL
+6,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101201,2022021101,Missed Shot,201,MISSED_SHOT,Tanner Jeannot Wide of Net Sam Montembeault,2023-03-18T23:19:24Z,1,00:13,19:47,0,0,14.0,Tampa Bay Lightning,TBL
+7,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101152,2022021101,Blocked Shot,152,BLOCKED_SHOT,Ian Cole shot blocked shot by Josh Anderson,2023-03-18T23:19:41Z,1,00:30,19:30,0,0,8.0,Montréal Canadiens,MTL
+8,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110110,2022021101,Hit,10,HIT,Josh Anderson hit Ian Cole,2023-03-18T23:20:03Z,1,00:52,19:08,0,0,8.0,Montréal Canadiens,MTL
+9,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110111,2022021101,Stoppage,11,STOP,Referee or Linesman,2023-03-18T23:20:12Z,1,01:01,18:59,0,0,,,
+10,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101104,2022021101,Faceoff,104,FACEOFF,Brayden Point faceoff won against Alex Belzile,2023-03-18T23:20:48Z,1,01:01,18:59,0,0,14.0,Tampa Bay Lightning,TBL
+11,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110112,2022021101,Hit,12,HIT,Zach Bogosian hit Rem Pitlick,2023-03-18T23:21:06Z,1,01:19,18:41,0,0,14.0,Tampa Bay Lightning,TBL
+12,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110113,2022021101,Hit,13,HIT,Jesse Ylonen hit Darren Raddysh,2023-03-18T23:21:45Z,1,01:58,18:02,0,0,8.0,Montréal Canadiens,MTL
+13,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101153,2022021101,Blocked Shot,153,BLOCKED_SHOT,Darren Raddysh shot blocked shot by Rafael Harvey-Pinard,2023-03-18T23:22:06Z,1,02:19,17:41,0,0,8.0,Montréal Canadiens,MTL
+14,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101105,2022021101,Giveaway,105,GIVEAWAY,Giveaway by Sam Montembeault,2023-03-18T23:22:07Z,1,02:20,17:40,0,0,8.0,Montréal Canadiens,MTL
+15,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110114,2022021101,Hit,14,HIT,Darren Raddysh hit Rafael Harvey-Pinard,2023-03-18T23:22:18Z,1,02:31,17:29,0,0,14.0,Tampa Bay Lightning,TBL
+16,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110115,2022021101,Hit,15,HIT,Anthony Richard hit Pierre-Edouard Bellemare,2023-03-18T23:22:42Z,1,02:55,17:05,0,0,8.0,Montréal Canadiens,MTL
+17,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101154,2022021101,Shot,154,SHOT,Mike Matheson Wrist Shot saved by Brian Elliott,2023-03-18T23:23:09Z,1,03:22,16:38,0,0,8.0,Montréal Canadiens,MTL
+18,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101155,2022021101,Shot,155,SHOT,Tanner Jeannot Wrist Shot saved by Sam Montembeault,2023-03-18T23:23:41Z,1,03:54,16:06,0,0,14.0,Tampa Bay Lightning,TBL
+19,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110116,2022021101,Hit,16,HIT,Justin Barron hit Tanner Jeannot,2023-03-18T23:23:54Z,1,04:07,15:53,0,0,8.0,Montréal Canadiens,MTL
+20,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101156,2022021101,Missed Shot,156,MISSED_SHOT,Erik Cernak Wide of Net Sam Montembeault,2023-03-18T23:24:00Z,1,04:13,15:47,0,0,14.0,Tampa Bay Lightning,TBL
+21,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101157,2022021101,Shot,157,SHOT,Erik Cernak Wrist Shot saved by Sam Montembeault,2023-03-18T23:24:05Z,1,04:18,15:42,0,0,14.0,Tampa Bay Lightning,TBL
+22,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101202,2022021101,Missed Shot,202,MISSED_SHOT,Alex Killorn Wide of Net Sam Montembeault,2023-03-18T23:24:07Z,1,04:20,15:40,0,0,14.0,Tampa Bay Lightning,TBL
+23,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110117,2022021101,Stoppage,17,STOP,Puck Frozen,2023-03-18T23:24:08Z,1,04:22,15:38,0,0,,,
+24,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101106,2022021101,Faceoff,106,FACEOFF,Brayden Point faceoff won against Chris Tierney,2023-03-18T23:24:49Z,1,04:22,15:38,0,0,14.0,Tampa Bay Lightning,TBL
+25,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110118,2022021101,Hit,18,HIT,Mikhail Sergachev hit David Savard,2023-03-18T23:25:36Z,1,05:09,14:51,0,0,14.0,Tampa Bay Lightning,TBL
+26,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101158,2022021101,Goal,158,GOAL,"Mike Hoffman (12) Wrist Shot, assists: Nick Suzuki (31), David Savard (15)",2023-03-18T23:25:39Z,1,05:12,14:48,0,1,8.0,Montréal Canadiens,MTL
+27,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101107,2022021101,Faceoff,107,FACEOFF,Steven Stamkos faceoff won against Nick Suzuki,2023-03-18T23:26:24Z,1,05:12,14:48,0,1,14.0,Tampa Bay Lightning,TBL
+28,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101159,2022021101,Shot,159,SHOT,Nicholas Paul Wrist Shot saved by Sam Montembeault,2023-03-18T23:26:31Z,1,05:19,14:41,0,1,14.0,Tampa Bay Lightning,TBL
+29,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101160,2022021101,Shot,160,SHOT,Ross Colton Tip-In saved by Sam Montembeault,2023-03-18T23:26:43Z,1,05:31,14:29,0,1,14.0,Tampa Bay Lightning,TBL
+30,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110119,2022021101,Blocked Shot,19,BLOCKED_SHOT,Erik Cernak shot blocked shot by Joel Edmundson,2023-03-18T23:26:48Z,1,05:35,14:25,0,1,8.0,Montréal Canadiens,MTL
+31,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101161,2022021101,Missed Shot,161,MISSED_SHOT,Ross Colton Wide of Net Sam Montembeault,2023-03-18T23:26:49Z,1,05:37,14:23,0,1,14.0,Tampa Bay Lightning,TBL
+32,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101162,2022021101,Blocked Shot,162,BLOCKED_SHOT,Johnathan Kovacevic shot blocked shot by Ross Colton,2023-03-18T23:27:15Z,1,06:03,13:57,0,1,14.0,Tampa Bay Lightning,TBL
+33,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110120,2022021101,Stoppage,20,STOP,Icing,2023-03-18T23:27:27Z,1,06:15,13:45,0,1,,,
+34,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101108,2022021101,Faceoff,108,FACEOFF,Brayden Point faceoff won against Chris Tierney,2023-03-18T23:28:00Z,1,06:15,13:45,0,1,14.0,Tampa Bay Lightning,TBL
+35,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101163,2022021101,Shot,163,SHOT,Victor Hedman Wrist Shot saved by Sam Montembeault,2023-03-18T23:28:08Z,1,06:23,13:37,0,1,14.0,Tampa Bay Lightning,TBL
+36,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101164,2022021101,Missed Shot,164,MISSED_SHOT,Brayden Point Wide of Net Sam Montembeault,2023-03-18T23:28:40Z,1,06:55,13:05,0,1,14.0,Tampa Bay Lightning,TBL
+37,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110121,2022021101,Stoppage,21,STOP,Goalie Stopped,2023-03-18T23:28:44Z,1,06:59,13:01,0,1,,,
+38,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101165,2022021101,Shot,165,SHOT,Zach Bogosian Wrist Shot saved by Sam Montembeault,2023-03-18T23:28:44Z,1,06:59,13:01,0,1,14.0,Tampa Bay Lightning,TBL
+39,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101109,2022021101,Faceoff,109,FACEOFF,Nick Suzuki faceoff won against Steven Stamkos,2023-03-18T23:31:07Z,1,06:59,13:01,0,1,8.0,Montréal Canadiens,MTL
+40,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110122,2022021101,Hit,22,HIT,David Savard hit Ross Colton,2023-03-18T23:31:18Z,1,07:10,12:50,0,1,8.0,Montréal Canadiens,MTL
+41,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110123,2022021101,Stoppage,23,STOP,Icing,2023-03-18T23:31:22Z,1,07:13,12:47,0,1,,,
+42,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101110,2022021101,Faceoff,110,FACEOFF,Nicholas Paul faceoff won against Josh Anderson,2023-03-18T23:32:00Z,1,07:13,12:47,0,1,14.0,Tampa Bay Lightning,TBL
+43,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101166,2022021101,Shot,166,SHOT,Erik Cernak Wrist Shot saved by Sam Montembeault,2023-03-18T23:32:11Z,1,07:24,12:36,0,1,14.0,Tampa Bay Lightning,TBL
+44,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110124,2022021101,Stoppage,24,STOP,Goalie Stopped,2023-03-18T23:32:12Z,1,07:25,12:35,0,1,,,
+45,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101111,2022021101,Faceoff,111,FACEOFF,Chris Tierney faceoff won against Michael Eyssimont,2023-03-18T23:32:58Z,1,07:25,12:35,0,1,8.0,Montréal Canadiens,MTL
+46,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101167,2022021101,Shot,167,SHOT,Chris Tierney Wrist Shot saved by Brian Elliott,2023-03-18T23:33:45Z,1,08:12,11:48,0,1,8.0,Montréal Canadiens,MTL
+47,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110125,2022021101,Hit,25,HIT,Michael Pezzetta hit Pierre-Edouard Bellemare,2023-03-18T23:33:54Z,1,08:21,11:39,0,1,8.0,Montréal Canadiens,MTL
+48,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101112,2022021101,Takeaway,112,TAKEAWAY,Takeaway by Anthony Cirelli,2023-03-18T23:34:19Z,1,08:46,11:14,0,1,14.0,Tampa Bay Lightning,TBL
+49,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101203,2022021101,Blocked Shot,203,BLOCKED_SHOT,Darren Raddysh shot blocked shot by Mike Hoffman,2023-03-18T23:34:24Z,1,08:51,11:09,0,1,8.0,Montréal Canadiens,MTL
+50,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101113,2022021101,Giveaway,113,GIVEAWAY,Giveaway by Alex Belzile,2023-03-18T23:34:37Z,1,09:04,10:56,0,1,8.0,Montréal Canadiens,MTL
+51,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110126,2022021101,Hit,26,HIT,Anthony Cirelli hit Alex Belzile,2023-03-18T23:34:51Z,1,09:18,10:42,0,1,14.0,Tampa Bay Lightning,TBL
+52,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101114,2022021101,Giveaway,114,GIVEAWAY,Giveaway by Tanner Jeannot,2023-03-18T23:34:53Z,1,09:20,10:40,0,1,14.0,Tampa Bay Lightning,TBL
+53,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110127,2022021101,Hit,27,HIT,Ian Cole hit Jesse Ylonen,2023-03-18T23:35:32Z,1,09:59,10:01,0,1,14.0,Tampa Bay Lightning,TBL
+54,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101115,2022021101,Takeaway,115,TAKEAWAY,Takeaway by Mike Matheson,2023-03-18T23:35:46Z,1,10:13,09:47,0,1,8.0,Montréal Canadiens,MTL
+55,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101169,2022021101,Blocked Shot,169,BLOCKED_SHOT,Nikita Kucherov shot blocked shot by Rafael Harvey-Pinard,2023-03-18T23:36:00Z,1,10:27,09:33,0,1,8.0,Montréal Canadiens,MTL
+56,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101116,2022021101,Giveaway,116,GIVEAWAY,Giveaway by Victor Hedman,2023-03-18T23:36:06Z,1,10:33,09:27,0,1,14.0,Tampa Bay Lightning,TBL
+57,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110128,2022021101,Hit,28,HIT,Josh Anderson hit Erik Cernak,2023-03-18T23:36:12Z,1,10:39,09:21,0,1,8.0,Montréal Canadiens,MTL
+58,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110129,2022021101,Hit,29,HIT,Ross Colton hit Chris Tierney,2023-03-18T23:36:27Z,1,10:54,09:06,0,1,14.0,Tampa Bay Lightning,TBL
+59,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101170,2022021101,Blocked Shot,170,BLOCKED_SHOT,Victor Hedman shot blocked shot by Justin Barron,2023-03-18T23:36:47Z,1,11:14,08:46,0,1,8.0,Montréal Canadiens,MTL
+60,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101171,2022021101,Goal,171,GOAL,"Victor Hedman (7) Wrist Shot, assists: Nicholas Paul (15), Zach Bogosian (4)",2023-03-18T23:37:04Z,1,11:31,08:29,1,1,14.0,Tampa Bay Lightning,TBL
+61,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101117,2022021101,Faceoff,117,FACEOFF,Pierre-Edouard Bellemare faceoff won against Alex Belzile,2023-03-18T23:37:59Z,1,11:31,08:29,1,1,14.0,Tampa Bay Lightning,TBL
+62,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110130,2022021101,Hit,30,HIT,Chris Wideman hit Corey Perry,2023-03-18T23:38:26Z,1,11:58,08:02,1,1,8.0,Montréal Canadiens,MTL
+63,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101118,2022021101,Takeaway,118,TAKEAWAY,Takeaway by Mike Hoffman,2023-03-18T23:38:28Z,1,12:00,08:00,1,1,8.0,Montréal Canadiens,MTL
+64,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110131,2022021101,Hit,31,HIT,Michael Eyssimont hit Rem Pitlick,2023-03-18T23:38:41Z,1,12:13,07:47,1,1,14.0,Tampa Bay Lightning,TBL
+65,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110132,2022021101,Hit,32,HIT,Michael Pezzetta hit Erik Cernak,2023-03-18T23:39:04Z,1,12:36,07:24,1,1,8.0,Montréal Canadiens,MTL
+66,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110133,2022021101,Hit,33,HIT,Chris Tierney hit Brandon Hagel,2023-03-18T23:39:12Z,1,12:44,07:16,1,1,8.0,Montréal Canadiens,MTL
+67,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110134,2022021101,Hit,34,HIT,Michael Pezzetta hit Erik Cernak,2023-03-18T23:39:19Z,1,12:51,07:09,1,1,8.0,Montréal Canadiens,MTL
+68,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110135,2022021101,Hit,35,HIT,Mike Matheson hit Nikita Kucherov,2023-03-18T23:39:35Z,1,13:07,06:53,1,1,8.0,Montréal Canadiens,MTL
+69,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101119,2022021101,Giveaway,119,GIVEAWAY,Giveaway by Nikita Kucherov,2023-03-18T23:39:38Z,1,13:10,06:50,1,1,14.0,Tampa Bay Lightning,TBL
+70,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110136,2022021101,Hit,36,HIT,Rafael Harvey-Pinard hit Mikhail Sergachev,2023-03-18T23:40:04Z,1,13:36,06:24,1,1,8.0,Montréal Canadiens,MTL
+71,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101172,2022021101,Shot,172,SHOT,David Savard Wrist Shot saved by Brian Elliott,2023-03-18T23:40:06Z,1,13:38,06:22,1,1,8.0,Montréal Canadiens,MTL
+72,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110137,2022021101,Stoppage,37,STOP,Goalie Stopped,2023-03-18T23:40:07Z,1,13:39,06:21,1,1,,,
+73,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101120,2022021101,Faceoff,120,FACEOFF,Nick Suzuki faceoff won against Tanner Jeannot,2023-03-18T23:42:47Z,1,13:39,06:21,1,1,8.0,Montréal Canadiens,MTL
+74,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101173,2022021101,Blocked Shot,173,BLOCKED_SHOT,Johnathan Kovacevic shot blocked shot by Alex Killorn,2023-03-18T23:42:52Z,1,13:44,06:16,1,1,14.0,Tampa Bay Lightning,TBL
+75,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110138,2022021101,Stoppage,38,STOP,Puck in Netting,2023-03-18T23:42:53Z,1,13:45,06:15,1,1,,,
+76,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101121,2022021101,Faceoff,121,FACEOFF,Anthony Cirelli faceoff won against Nick Suzuki,2023-03-18T23:43:23Z,1,13:45,06:15,1,1,14.0,Tampa Bay Lightning,TBL
+77,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101122,2022021101,Giveaway,122,GIVEAWAY,Giveaway by Ian Cole,2023-03-18T23:43:27Z,1,13:48,06:12,1,1,14.0,Tampa Bay Lightning,TBL
+78,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101174,2022021101,Shot,174,SHOT,Nick Suzuki Slap Shot saved by Brian Elliott,2023-03-18T23:43:28Z,1,13:50,06:10,1,1,8.0,Montréal Canadiens,MTL
+79,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110139,2022021101,Stoppage,39,STOP,Puck Frozen,2023-03-18T23:43:42Z,1,14:04,05:56,1,1,,,
+80,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101123,2022021101,Faceoff,123,FACEOFF,Nicholas Paul faceoff won against Alex Belzile,2023-03-18T23:44:27Z,1,14:04,05:56,1,1,14.0,Tampa Bay Lightning,TBL
+81,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110140,2022021101,Hit,40,HIT,Alex Belzile hit Nicholas Paul,2023-03-18T23:44:50Z,1,14:27,05:33,1,1,8.0,Montréal Canadiens,MTL
+82,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101124,2022021101,Giveaway,124,GIVEAWAY,Giveaway by Ross Colton,2023-03-18T23:44:56Z,1,14:33,05:27,1,1,14.0,Tampa Bay Lightning,TBL
+83,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101204,2022021101,Blocked Shot,204,BLOCKED_SHOT,Ross Colton shot blocked shot by Joel Edmundson,2023-03-18T23:45:12Z,1,14:49,05:11,1,1,8.0,Montréal Canadiens,MTL
+84,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110141,2022021101,Hit,41,HIT,Joel Edmundson hit Victor Hedman,2023-03-18T23:45:29Z,1,15:06,04:54,1,1,8.0,Montréal Canadiens,MTL
+85,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101125,2022021101,Takeaway,125,TAKEAWAY,Takeaway by Michael Eyssimont,2023-03-18T23:46:36Z,1,16:13,03:47,1,1,14.0,Tampa Bay Lightning,TBL
+86,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101176,2022021101,Shot,176,SHOT,Ian Cole Wrist Shot saved by Sam Montembeault,2023-03-18T23:46:43Z,1,16:20,03:40,1,1,14.0,Tampa Bay Lightning,TBL
+87,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110142,2022021101,Hit,42,HIT,Rafael Harvey-Pinard hit Michael Eyssimont,2023-03-18T23:46:52Z,1,16:29,03:31,1,1,8.0,Montréal Canadiens,MTL
+88,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110143,2022021101,Hit,43,HIT,Chris Wideman hit Michael Eyssimont,2023-03-18T23:46:59Z,1,16:36,03:24,1,1,8.0,Montréal Canadiens,MTL
+89,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101126,2022021101,Giveaway,126,GIVEAWAY,Giveaway by Alex Belzile,2023-03-18T23:47:24Z,1,17:01,02:59,1,1,8.0,Montréal Canadiens,MTL
+90,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101127,2022021101,Takeaway,127,TAKEAWAY,Takeaway by Mike Matheson,2023-03-18T23:47:31Z,1,17:08,02:52,1,1,8.0,Montréal Canadiens,MTL
+91,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110144,2022021101,Stoppage,44,STOP,Puck in Benches,2023-03-18T23:47:36Z,1,17:13,02:47,1,1,,,
+92,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101128,2022021101,Faceoff,128,FACEOFF,Josh Anderson faceoff won against Steven Stamkos,2023-03-18T23:49:59Z,1,17:13,02:47,1,1,8.0,Montréal Canadiens,MTL
+93,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110145,2022021101,Hit,45,HIT,Josh Anderson hit Ross Colton,2023-03-18T23:50:11Z,1,17:25,02:35,1,1,8.0,Montréal Canadiens,MTL
+94,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110146,2022021101,Hit,46,HIT,Joel Edmundson hit Nicholas Paul,2023-03-18T23:50:14Z,1,17:28,02:32,1,1,8.0,Montréal Canadiens,MTL
+95,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110147,2022021101,Hit,47,HIT,Nick Suzuki hit Nicholas Paul,2023-03-18T23:50:29Z,1,17:43,02:17,1,1,8.0,Montréal Canadiens,MTL
+96,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101129,2022021101,Takeaway,129,TAKEAWAY,Takeaway by Steven Stamkos,2023-03-18T23:50:52Z,1,18:06,01:54,1,1,14.0,Tampa Bay Lightning,TBL
+97,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110148,2022021101,Stoppage,48,STOP,Goalie Stopped,2023-03-18T23:50:56Z,1,18:10,01:50,1,1,,,
+98,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101177,2022021101,Shot,177,SHOT,Ross Colton Wrist Shot saved by Sam Montembeault,2023-03-18T23:50:56Z,1,18:10,01:50,1,1,14.0,Tampa Bay Lightning,TBL
+99,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101130,2022021101,Faceoff,130,FACEOFF,Alex Belzile faceoff won against Brandon Hagel,2023-03-18T23:51:44Z,1,18:10,01:50,1,1,8.0,Montréal Canadiens,MTL
+100,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110149,2022021101,Stoppage,49,STOP,Icing,2023-03-18T23:51:51Z,1,18:17,01:43,1,1,,,
+101,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101131,2022021101,Faceoff,131,FACEOFF,Brayden Point faceoff won against Alex Belzile,2023-03-18T23:52:19Z,1,18:17,01:43,1,1,14.0,Tampa Bay Lightning,TBL
+102,14,8,Tampa Bay Lightning,Montréal Canadiens,202202110150,2022021101,Stoppage,50,STOP,Goalie Stopped,2023-03-18T23:52:24Z,1,18:23,01:37,1,1,,,
+103,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101178,2022021101,Shot,178,SHOT,Brandon Hagel Tip-In saved by Sam Montembeault,2023-03-18T23:52:24Z,1,18:23,01:37,1,1,14.0,Tampa Bay Lightning,TBL
+104,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101132,2022021101,Faceoff,132,FACEOFF,Brayden Point faceoff won against Chris Tierney,2023-03-18T23:52:49Z,1,18:23,01:37,1,1,14.0,Tampa Bay Lightning,TBL
+105,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101179,2022021101,Blocked Shot,179,BLOCKED_SHOT,Nikita Kucherov shot blocked shot by David Savard,2023-03-18T23:52:56Z,1,18:30,01:30,1,1,8.0,Montréal Canadiens,MTL
+106,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101133,2022021101,Giveaway,133,GIVEAWAY,Giveaway by Mikhail Sergachev,2023-03-18T23:53:12Z,1,18:46,01:14,1,1,14.0,Tampa Bay Lightning,TBL
+107,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101180,2022021101,Shot,180,SHOT,Mike Hoffman Wrist Shot saved by Brian Elliott,2023-03-18T23:53:14Z,1,18:48,01:12,1,1,8.0,Montréal Canadiens,MTL
+108,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101301,2022021101,Hit,301,HIT,David Savard hit Brandon Hagel,2023-03-18T23:53:41Z,1,19:15,00:45,1,1,8.0,Montréal Canadiens,MTL
+109,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101181,2022021101,Shot,181,SHOT,Nikita Kucherov Snap Shot saved by Sam Montembeault,2023-03-18T23:53:42Z,1,19:16,00:44,1,1,14.0,Tampa Bay Lightning,TBL
+110,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101182,2022021101,Shot,182,SHOT,Ian Cole Slap Shot saved by Sam Montembeault,2023-03-18T23:54:03Z,1,19:36,00:24,1,1,14.0,Tampa Bay Lightning,TBL
+111,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101302,2022021101,Stoppage,302,STOP,Goalie Stopped,2023-03-18T23:54:03Z,1,19:36,00:24,1,1,,,
+112,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101134,2022021101,Faceoff,134,FACEOFF,Anthony Cirelli faceoff won against Nick Suzuki,2023-03-18T23:54:30Z,1,19:36,00:24,1,1,14.0,Tampa Bay Lightning,TBL
+113,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101303,2022021101,Stoppage,303,STOP,Icing,2023-03-18T23:54:50Z,1,19:56,00:04,1,1,,,
+114,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101135,2022021101,Faceoff,135,FACEOFF,Nick Suzuki faceoff won against Steven Stamkos,2023-03-18T23:55:30Z,1,19:56,00:04,1,1,8.0,Montréal Canadiens,MTL
+115,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101304,2022021101,Period End,304,PERIOD_END,End of 1st Period,2023-03-18T23:55:34Z,1,20:00,00:00,1,1,,,
+116,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101307,2022021101,Period Official,307,PERIOD_OFFICIAL,Period Official,2023-03-19T00:10:54Z,1,20:00,00:00,1,1,,,
+117,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101308,2022021101,Period Ready,308,PERIOD_READY,Period Ready,2023-03-19T00:10:59Z,2,00:00,20:00,1,1,,,
+118,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101136,2022021101,Period Start,136,PERIOD_START,Period Start,2023-03-19T00:14:32Z,2,00:00,20:00,1,1,,,
+119,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101137,2022021101,Faceoff,137,FACEOFF,Steven Stamkos faceoff won against Chris Tierney,2023-03-19T00:14:32Z,2,00:00,20:00,1,1,14.0,Tampa Bay Lightning,TBL
+120,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101183,2022021101,Shot,183,SHOT,Mike Matheson Wrist Shot saved by Brian Elliott,2023-03-19T00:14:55Z,2,00:23,19:37,1,1,8.0,Montréal Canadiens,MTL
+121,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101309,2022021101,Stoppage,309,STOP,Goalie Stopped,2023-03-19T00:14:55Z,2,00:24,19:36,1,1,,,
+122,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101138,2022021101,Faceoff,138,FACEOFF,Anthony Cirelli faceoff won against Nick Suzuki,2023-03-19T00:15:25Z,2,00:24,19:36,1,1,14.0,Tampa Bay Lightning,TBL
+123,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101184,2022021101,Missed Shot,184,MISSED_SHOT,Rafael Harvey-Pinard Over Net Brian Elliott,2023-03-19T00:15:39Z,2,00:38,19:22,1,1,8.0,Montréal Canadiens,MTL
+124,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101139,2022021101,Giveaway,139,GIVEAWAY,Giveaway by Jesse Ylonen,2023-03-19T00:15:44Z,2,00:43,19:17,1,1,8.0,Montréal Canadiens,MTL
+125,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101140,2022021101,Takeaway,140,TAKEAWAY,Takeaway by Tanner Jeannot,2023-03-19T00:16:04Z,2,01:03,18:57,1,1,14.0,Tampa Bay Lightning,TBL
+126,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101141,2022021101,Giveaway,141,GIVEAWAY,Giveaway by Alex Killorn,2023-03-19T00:16:05Z,2,01:04,18:56,1,1,14.0,Tampa Bay Lightning,TBL
+127,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101185,2022021101,Shot,185,SHOT,Brandon Hagel Wrist Shot saved by Sam Montembeault,2023-03-19T00:16:29Z,2,01:28,18:32,1,1,14.0,Tampa Bay Lightning,TBL
+128,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101310,2022021101,Stoppage,310,STOP,Goalie Stopped,2023-03-19T00:16:29Z,2,01:28,18:32,1,1,,,
+129,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101142,2022021101,Faceoff,142,FACEOFF,Alex Belzile faceoff won against Brayden Point,2023-03-19T00:17:15Z,2,01:28,18:32,1,1,8.0,Montréal Canadiens,MTL
+130,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101143,2022021101,Takeaway,143,TAKEAWAY,Takeaway by Mikhail Sergachev,2023-03-19T00:17:38Z,2,01:51,18:09,1,1,14.0,Tampa Bay Lightning,TBL
+131,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101186,2022021101,Shot,186,SHOT,Zach Bogosian Slap Shot saved by Sam Montembeault,2023-03-19T00:17:50Z,2,02:03,17:57,1,1,14.0,Tampa Bay Lightning,TBL
+132,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101311,2022021101,Stoppage,311,STOP,Goalie Stopped,2023-03-19T00:17:52Z,2,02:05,17:55,1,1,,,
+133,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101144,2022021101,Faceoff,144,FACEOFF,Pierre-Edouard Bellemare faceoff won against Chris Tierney,2023-03-19T00:18:20Z,2,02:05,17:55,1,1,14.0,Tampa Bay Lightning,TBL
+134,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101145,2022021101,Giveaway,145,GIVEAWAY,Giveaway by Zach Bogosian,2023-03-19T00:18:38Z,2,02:23,17:37,1,1,14.0,Tampa Bay Lightning,TBL
+135,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101187,2022021101,Blocked Shot,187,BLOCKED_SHOT,Michael Eyssimont shot blocked shot by Chris Tierney,2023-03-19T00:19:03Z,2,02:48,17:12,1,1,8.0,Montréal Canadiens,MTL
+136,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101188,2022021101,Shot,188,SHOT,Steven Stamkos Wrist Shot saved by Sam Montembeault,2023-03-19T00:19:42Z,2,03:27,16:33,1,1,14.0,Tampa Bay Lightning,TBL
+137,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101146,2022021101,Takeaway,146,TAKEAWAY,Takeaway by Nicholas Paul,2023-03-19T00:19:49Z,2,03:34,16:26,1,1,14.0,Tampa Bay Lightning,TBL
+138,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101147,2022021101,Takeaway,147,TAKEAWAY,Takeaway by Mike Matheson,2023-03-19T00:20:11Z,2,03:56,16:04,1,1,8.0,Montréal Canadiens,MTL
+139,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101189,2022021101,Missed Shot,189,MISSED_SHOT,Jesse Ylonen Over Net Brian Elliott,2023-03-19T00:20:19Z,2,04:04,15:56,1,1,8.0,Montréal Canadiens,MTL
+140,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101312,2022021101,Hit,312,HIT,Rafael Harvey-Pinard hit Ian Cole,2023-03-19T00:20:31Z,2,04:16,15:44,1,1,8.0,Montréal Canadiens,MTL
+141,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101148,2022021101,Giveaway,148,GIVEAWAY,Giveaway by Mike Matheson,2023-03-19T00:20:40Z,2,04:25,15:35,1,1,8.0,Montréal Canadiens,MTL
+142,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101313,2022021101,Hit,313,HIT,Rafael Harvey-Pinard hit Ian Cole,2023-03-19T00:20:49Z,2,04:34,15:26,1,1,8.0,Montréal Canadiens,MTL
+143,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101190,2022021101,Blocked Shot,190,BLOCKED_SHOT,Nikita Kucherov shot blocked shot by Johnathan Kovacevic,2023-03-19T00:21:02Z,2,04:47,15:13,1,1,8.0,Montréal Canadiens,MTL
+144,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101315,2022021101,Shot,315,SHOT,Nikita Kucherov Wrist Shot saved by Sam Montembeault,2023-03-19T00:21:04Z,2,04:49,15:11,1,1,14.0,Tampa Bay Lightning,TBL
+145,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101191,2022021101,Goal,191,GOAL,"Brandon Hagel (25) Wrist Shot, assists: Nikita Kucherov (71), Mikhail Sergachev (45)",2023-03-19T00:21:05Z,2,04:50,15:10,2,1,14.0,Tampa Bay Lightning,TBL
+146,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101149,2022021101,Faceoff,149,FACEOFF,Anthony Cirelli faceoff won against Chris Tierney,2023-03-19T00:21:51Z,2,04:50,15:10,2,1,14.0,Tampa Bay Lightning,TBL
+147,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101150,2022021101,Giveaway,150,GIVEAWAY,Giveaway by Alex Killorn,2023-03-19T00:22:31Z,2,05:30,14:30,2,1,14.0,Tampa Bay Lightning,TBL
+148,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101192,2022021101,Shot,192,SHOT,Anthony Cirelli Wrist Shot saved by Sam Montembeault,2023-03-19T00:22:46Z,2,05:45,14:15,2,1,14.0,Tampa Bay Lightning,TBL
+149,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101316,2022021101,Stoppage,316,STOP,Goalie Stopped,2023-03-19T00:22:46Z,2,05:45,14:15,2,1,,,
+150,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101451,2022021101,Faceoff,451,FACEOFF,Nick Suzuki faceoff won against Nicholas Paul,2023-03-19T00:23:19Z,2,05:45,14:15,2,1,8.0,Montréal Canadiens,MTL
+151,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101193,2022021101,Missed Shot,193,MISSED_SHOT,Victor Hedman Wide of Net Sam Montembeault,2023-03-19T00:23:44Z,2,06:10,13:50,2,1,14.0,Tampa Bay Lightning,TBL
+152,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101194,2022021101,Missed Shot,194,MISSED_SHOT,Victor Hedman Wide of Net Sam Montembeault,2023-03-19T00:23:51Z,2,06:17,13:43,2,1,14.0,Tampa Bay Lightning,TBL
+153,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101195,2022021101,Goal,195,GOAL,"Denis Gurianov (7) Snap Shot, assists: Josh Anderson (11), Nick Suzuki (32)",2023-03-19T00:24:03Z,2,06:29,13:31,2,2,8.0,Montréal Canadiens,MTL
+154,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101452,2022021101,Faceoff,452,FACEOFF,Pierre-Edouard Bellemare faceoff won against Chris Tierney,2023-03-19T00:25:00Z,2,06:29,13:31,2,2,14.0,Tampa Bay Lightning,TBL
+155,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101453,2022021101,Takeaway,453,TAKEAWAY,Takeaway by Pierre-Edouard Bellemare,2023-03-19T00:25:10Z,2,06:39,13:21,2,2,14.0,Tampa Bay Lightning,TBL
+156,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101317,2022021101,Hit,317,HIT,Joel Edmundson hit Pierre-Edouard Bellemare,2023-03-19T00:25:14Z,2,06:43,13:17,2,2,8.0,Montréal Canadiens,MTL
+157,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101454,2022021101,Takeaway,454,TAKEAWAY,Takeaway by Michael Eyssimont,2023-03-19T00:25:19Z,2,06:48,13:12,2,2,14.0,Tampa Bay Lightning,TBL
+158,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101196,2022021101,Blocked Shot,196,BLOCKED_SHOT,Darren Raddysh shot blocked shot by Rafael Harvey-Pinard,2023-03-19T00:25:20Z,2,06:49,13:11,2,2,8.0,Montréal Canadiens,MTL
+159,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101318,2022021101,Hit,318,HIT,Corey Perry hit Jesse Ylonen,2023-03-19T00:25:33Z,2,07:02,12:58,2,2,14.0,Tampa Bay Lightning,TBL
+160,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101455,2022021101,Takeaway,455,TAKEAWAY,Takeaway by Corey Perry,2023-03-19T00:25:53Z,2,07:22,12:38,2,2,14.0,Tampa Bay Lightning,TBL
+161,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101456,2022021101,Giveaway,456,GIVEAWAY,Giveaway by Corey Perry,2023-03-19T00:25:58Z,2,07:27,12:33,2,2,14.0,Tampa Bay Lightning,TBL
+162,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101457,2022021101,Giveaway,457,GIVEAWAY,Giveaway by Anthony Richard,2023-03-19T00:26:16Z,2,07:45,12:15,2,2,8.0,Montréal Canadiens,MTL
+163,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101197,2022021101,Shot,197,SHOT,Alex Belzile Backhand saved by Brian Elliott,2023-03-19T00:26:20Z,2,07:49,12:11,2,2,8.0,Montréal Canadiens,MTL
+164,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101198,2022021101,Shot,198,SHOT,Anthony Richard Wrist Shot saved by Brian Elliott,2023-03-19T00:26:38Z,2,08:07,11:53,2,2,8.0,Montréal Canadiens,MTL
+165,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101319,2022021101,Stoppage,319,STOP,Goalie Stopped,2023-03-19T00:26:38Z,2,08:07,11:53,2,2,,,
+166,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101458,2022021101,Faceoff,458,FACEOFF,Steven Stamkos faceoff won against Nick Suzuki,2023-03-19T00:29:16Z,2,08:07,11:53,2,2,14.0,Tampa Bay Lightning,TBL
+167,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101320,2022021101,Hit,320,HIT,Chris Wideman hit Nicholas Paul,2023-03-19T00:29:23Z,2,08:14,11:46,2,2,8.0,Montréal Canadiens,MTL
+168,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101459,2022021101,Takeaway,459,TAKEAWAY,Takeaway by Johnathan Kovacevic,2023-03-19T00:29:46Z,2,08:37,11:23,2,2,8.0,Montréal Canadiens,MTL
+169,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101321,2022021101,Hit,321,HIT,Ross Colton hit Johnathan Kovacevic,2023-03-19T00:29:49Z,2,08:40,11:20,2,2,14.0,Tampa Bay Lightning,TBL
+170,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101322,2022021101,Stoppage,322,STOP,Referee or Linesman,2023-03-19T00:30:36Z,2,09:26,10:34,2,2,,,
+171,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101460,2022021101,Faceoff,460,FACEOFF,Anthony Cirelli faceoff won against Chris Tierney,2023-03-19T00:31:15Z,2,09:26,10:34,2,2,14.0,Tampa Bay Lightning,TBL
+172,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101323,2022021101,Stoppage,323,STOP,Puck in Benches,2023-03-19T00:31:26Z,2,09:37,10:23,2,2,,,
+173,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101461,2022021101,Faceoff,461,FACEOFF,Anthony Cirelli faceoff won against Chris Tierney,2023-03-19T00:31:59Z,2,09:37,10:23,2,2,14.0,Tampa Bay Lightning,TBL
+174,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101199,2022021101,Blocked Shot,199,BLOCKED_SHOT,Erik Cernak shot blocked shot by Josh Anderson,2023-03-19T00:32:27Z,2,10:05,09:55,2,2,8.0,Montréal Canadiens,MTL
+175,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101200,2022021101,Shot,200,SHOT,Ian Cole Wrist Shot saved by Sam Montembeault,2023-03-19T00:32:36Z,2,10:14,09:46,2,2,14.0,Tampa Bay Lightning,TBL
+176,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101324,2022021101,Stoppage,324,STOP,Icing,2023-03-19T00:32:40Z,2,10:17,09:43,2,2,,,
+177,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101462,2022021101,Faceoff,462,FACEOFF,Brayden Point faceoff won against Chris Tierney,2023-03-19T00:33:16Z,2,10:17,09:43,2,2,14.0,Tampa Bay Lightning,TBL
+178,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101325,2022021101,Stoppage,325,STOP,TV timeout,2023-03-19T00:33:25Z,2,10:26,09:34,2,2,,,
+179,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101578,2022021101,Penalty,578,PENALTY,Mikhail Sergachev Holding against Denis Gurianov,2023-03-19T00:33:25Z,2,10:26,09:34,2,2,14.0,Tampa Bay Lightning,TBL
+180,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101463,2022021101,Faceoff,463,FACEOFF,Nick Suzuki faceoff won against Anthony Cirelli,2023-03-19T00:35:46Z,2,10:26,09:34,2,2,8.0,Montréal Canadiens,MTL
+181,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101326,2022021101,Hit,326,HIT,Erik Cernak hit Josh Anderson,2023-03-19T00:36:01Z,2,10:41,09:19,2,2,14.0,Tampa Bay Lightning,TBL
+182,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101464,2022021101,Giveaway,464,GIVEAWAY,Giveaway by Josh Anderson,2023-03-19T00:36:07Z,2,10:47,09:13,2,2,8.0,Montréal Canadiens,MTL
+183,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101401,2022021101,Missed Shot,401,MISSED_SHOT,Nick Suzuki Wide of Net Brian Elliott,2023-03-19T00:36:33Z,2,11:13,08:47,2,2,8.0,Montréal Canadiens,MTL
+184,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101403,2022021101,Shot,403,SHOT,Alex Killorn Wrist Shot saved by Sam Montembeault,2023-03-19T00:36:58Z,2,11:38,08:22,2,2,14.0,Tampa Bay Lightning,TBL
+185,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101327,2022021101,Hit,327,HIT,Denis Gurianov hit Zach Bogosian,2023-03-19T00:37:24Z,2,12:04,07:56,2,2,8.0,Montréal Canadiens,MTL
+186,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101465,2022021101,Takeaway,465,TAKEAWAY,Takeaway by Justin Barron,2023-03-19T00:37:34Z,2,12:14,07:46,2,2,8.0,Montréal Canadiens,MTL
+187,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101405,2022021101,Goal,405,GOAL,"Jesse Ylonen (5) Wrist Shot, assists: Mike Hoffman (17), Justin Barron (10)",2023-03-19T00:37:44Z,2,12:23,07:37,2,3,8.0,Montréal Canadiens,MTL
+188,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101466,2022021101,Faceoff,466,FACEOFF,Brayden Point faceoff won against Chris Tierney,2023-03-19T00:38:34Z,2,12:23,07:37,2,3,14.0,Tampa Bay Lightning,TBL
+189,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101328,2022021101,Hit,328,HIT,David Savard hit Nikita Kucherov,2023-03-19T00:39:01Z,2,12:50,07:10,2,3,8.0,Montréal Canadiens,MTL
+190,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101329,2022021101,Hit,329,HIT,Joel Edmundson hit Nikita Kucherov,2023-03-19T00:39:07Z,2,12:56,07:04,2,3,8.0,Montréal Canadiens,MTL
+191,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101330,2022021101,Hit,330,HIT,Nikita Kucherov hit Joel Edmundson,2023-03-19T00:39:14Z,2,13:03,06:57,2,3,14.0,Tampa Bay Lightning,TBL
+192,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101331,2022021101,Hit,331,HIT,Nikita Kucherov hit Joel Edmundson,2023-03-19T00:39:35Z,2,13:24,06:36,2,3,14.0,Tampa Bay Lightning,TBL
+193,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101467,2022021101,Giveaway,467,GIVEAWAY,Giveaway by Denis Gurianov,2023-03-19T00:40:12Z,2,14:01,05:59,2,3,8.0,Montréal Canadiens,MTL
+194,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101406,2022021101,Missed Shot,406,MISSED_SHOT,Michael Eyssimont Wide of Net Sam Montembeault,2023-03-19T00:40:17Z,2,14:06,05:54,2,3,14.0,Tampa Bay Lightning,TBL
+195,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101332,2022021101,Stoppage,332,STOP,Goalie Stopped,2023-03-19T00:40:27Z,2,14:16,05:44,2,3,,,
+196,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101407,2022021101,Shot,407,SHOT,Denis Gurianov Wrist Shot saved by Brian Elliott,2023-03-19T00:40:27Z,2,14:16,05:44,2,3,8.0,Montréal Canadiens,MTL
+197,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101468,2022021101,Faceoff,468,FACEOFF,Brayden Point faceoff won against Mike Hoffman,2023-03-19T00:43:33Z,2,14:16,05:44,2,3,14.0,Tampa Bay Lightning,TBL
+198,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101408,2022021101,Shot,408,SHOT,Mike Hoffman Slap Shot saved by Brian Elliott,2023-03-19T00:44:02Z,2,14:45,05:15,2,3,8.0,Montréal Canadiens,MTL
+199,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101409,2022021101,Shot,409,SHOT,Mike Hoffman Deflected saved by Brian Elliott,2023-03-19T00:44:16Z,2,14:59,05:01,2,3,8.0,Montréal Canadiens,MTL
+200,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101410,2022021101,Missed Shot,410,MISSED_SHOT,Rafael Harvey-Pinard Wide of Net Brian Elliott,2023-03-19T00:44:45Z,2,15:28,04:32,2,3,8.0,Montréal Canadiens,MTL
+201,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101333,2022021101,Stoppage,333,STOP,Offside,2023-03-19T00:44:54Z,2,15:36,04:24,2,3,,,
+202,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101469,2022021101,Faceoff,469,FACEOFF,Anthony Cirelli faceoff won against Nick Suzuki,2023-03-19T00:45:27Z,2,15:36,04:24,2,3,14.0,Tampa Bay Lightning,TBL
+203,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101411,2022021101,Shot,411,SHOT,Tanner Jeannot Wrist Shot saved by Sam Montembeault,2023-03-19T00:45:38Z,2,15:47,04:13,2,3,14.0,Tampa Bay Lightning,TBL
+204,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101470,2022021101,Takeaway,470,TAKEAWAY,Takeaway by Anthony Cirelli,2023-03-19T00:45:48Z,2,15:57,04:03,2,3,14.0,Tampa Bay Lightning,TBL
+205,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101334,2022021101,Hit,334,HIT,Tanner Jeannot hit Josh Anderson,2023-03-19T00:45:59Z,2,16:08,03:52,2,3,14.0,Tampa Bay Lightning,TBL
+206,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101412,2022021101,Shot,412,SHOT,Justin Barron Wrist Shot saved by Brian Elliott,2023-03-19T00:46:03Z,2,16:12,03:48,2,3,8.0,Montréal Canadiens,MTL
+207,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101335,2022021101,Stoppage,335,STOP,Puck in Benches,2023-03-19T00:46:09Z,2,16:18,03:42,2,3,,,
+208,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101471,2022021101,Faceoff,471,FACEOFF,Alex Belzile faceoff won against Steven Stamkos,2023-03-19T00:46:44Z,2,16:18,03:42,2,3,8.0,Montréal Canadiens,MTL
+209,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101336,2022021101,Hit,336,HIT,Michael Pezzetta hit Zach Bogosian,2023-03-19T00:46:52Z,2,16:26,03:34,2,3,8.0,Montréal Canadiens,MTL
+210,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101337,2022021101,Stoppage,337,STOP,Icing,2023-03-19T00:47:00Z,2,16:34,03:26,2,3,,,
+211,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101472,2022021101,Faceoff,472,FACEOFF,Steven Stamkos faceoff won against Chris Tierney,2023-03-19T00:47:37Z,2,16:34,03:26,2,3,14.0,Tampa Bay Lightning,TBL
+212,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101338,2022021101,Stoppage,338,STOP,Offside,2023-03-19T00:47:54Z,2,16:51,03:09,2,3,,,
+213,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101473,2022021101,Faceoff,473,FACEOFF,Steven Stamkos faceoff won against Chris Tierney,2023-03-19T00:48:17Z,2,16:51,03:09,2,3,14.0,Tampa Bay Lightning,TBL
+214,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101474,2022021101,Takeaway,474,TAKEAWAY,Takeaway by Zach Bogosian,2023-03-19T00:48:33Z,2,17:07,02:53,2,3,14.0,Tampa Bay Lightning,TBL
+215,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101680,2022021101,Penalty,680,PENALTY,Mike Hoffman Hooking against Ross Colton,2023-03-19T00:48:51Z,2,17:25,02:35,2,3,8.0,Montréal Canadiens,MTL
+216,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101475,2022021101,Faceoff,475,FACEOFF,Steven Stamkos faceoff won against Nick Suzuki,2023-03-19T00:49:38Z,2,17:25,02:35,2,3,14.0,Tampa Bay Lightning,TBL
+217,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101413,2022021101,Shot,413,SHOT,Steven Stamkos Slap Shot saved by Sam Montembeault,2023-03-19T00:50:06Z,2,17:53,02:07,2,3,14.0,Tampa Bay Lightning,TBL
+218,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101339,2022021101,Stoppage,339,STOP,Puck in Netting,2023-03-19T00:50:07Z,2,17:54,02:06,2,3,,,
+219,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101476,2022021101,Faceoff,476,FACEOFF,Anthony Cirelli faceoff won against Alex Belzile,2023-03-19T00:50:34Z,2,17:54,02:06,2,3,14.0,Tampa Bay Lightning,TBL
+220,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101414,2022021101,Shot,414,SHOT,Mikhail Sergachev Slap Shot saved by Sam Montembeault,2023-03-19T00:50:39Z,2,17:59,02:01,2,3,14.0,Tampa Bay Lightning,TBL
+221,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101415,2022021101,Shot,415,SHOT,Steven Stamkos Slap Shot saved by Sam Montembeault,2023-03-19T00:50:47Z,2,18:07,01:53,2,3,14.0,Tampa Bay Lightning,TBL
+222,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101340,2022021101,Stoppage,340,STOP,Goalie Stopped,2023-03-19T00:50:54Z,2,18:15,01:45,2,3,,,
+223,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101416,2022021101,Shot,416,SHOT,Josh Anderson Wrist Shot saved by Brian Elliott,2023-03-19T00:50:54Z,2,18:15,01:45,2,3,8.0,Montréal Canadiens,MTL
+224,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101477,2022021101,Faceoff,477,FACEOFF,Alex Belzile faceoff won against Anthony Cirelli,2023-03-19T00:51:33Z,2,18:15,01:45,2,3,8.0,Montréal Canadiens,MTL
+225,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101205,2022021101,Shot,205,SHOT,Alex Belzile Wrist Shot saved by Brian Elliott,2023-03-19T00:51:34Z,2,18:16,01:44,2,3,8.0,Montréal Canadiens,MTL
+226,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101478,2022021101,Takeaway,478,TAKEAWAY,Takeaway by Joel Edmundson,2023-03-19T00:52:13Z,2,18:55,01:05,2,3,8.0,Montréal Canadiens,MTL
+227,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101479,2022021101,Takeaway,479,TAKEAWAY,Takeaway by Mike Matheson,2023-03-19T00:52:28Z,2,19:10,00:50,2,3,8.0,Montréal Canadiens,MTL
+228,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101418,2022021101,Missed Shot,418,MISSED_SHOT,Mike Matheson Wide of Net Brian Elliott,2023-03-19T00:52:29Z,2,19:11,00:49,2,3,8.0,Montréal Canadiens,MTL
+229,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101419,2022021101,Missed Shot,419,MISSED_SHOT,Brandon Hagel Wide of Net Sam Montembeault,2023-03-19T00:53:16Z,2,19:58,00:02,2,3,14.0,Tampa Bay Lightning,TBL
+230,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101420,2022021101,Missed Shot,420,MISSED_SHOT,Erik Cernak Wide of Net Sam Montembeault,2023-03-19T00:53:17Z,2,19:59,00:01,2,3,14.0,Tampa Bay Lightning,TBL
+231,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101341,2022021101,Period End,341,PERIOD_END,End of 2nd Period,2023-03-19T00:53:19Z,2,20:00,00:00,2,3,,,
+232,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101344,2022021101,Period Official,344,PERIOD_OFFICIAL,Period Official,2023-03-19T01:08:11Z,2,20:00,00:00,2,3,,,
+233,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101345,2022021101,Period Ready,345,PERIOD_READY,Period Ready,2023-03-19T01:08:15Z,3,00:00,20:00,2,3,,,
+234,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101480,2022021101,Period Start,480,PERIOD_START,Period Start,2023-03-19T01:12:24Z,3,00:00,20:00,2,3,,,
+235,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101481,2022021101,Faceoff,481,FACEOFF,Anthony Cirelli faceoff won against Nick Suzuki,2023-03-19T01:12:24Z,3,00:00,20:00,2,3,14.0,Tampa Bay Lightning,TBL
+236,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101482,2022021101,Takeaway,482,TAKEAWAY,Takeaway by Denis Gurianov,2023-03-19T01:12:41Z,3,00:17,19:43,2,3,8.0,Montréal Canadiens,MTL
+237,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101421,2022021101,Missed Shot,421,MISSED_SHOT,Josh Anderson Wide of Net Brian Elliott,2023-03-19T01:12:47Z,3,00:23,19:37,2,3,8.0,Montréal Canadiens,MTL
+238,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101422,2022021101,Shot,422,SHOT,Tanner Jeannot Wrist Shot saved by Sam Montembeault,2023-03-19T01:12:57Z,3,00:33,19:27,2,3,14.0,Tampa Bay Lightning,TBL
+239,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101346,2022021101,Hit,346,HIT,Justin Barron hit Tanner Jeannot,2023-03-19T01:13:01Z,3,00:37,19:23,2,3,8.0,Montréal Canadiens,MTL
+240,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101206,2022021101,Blocked Shot,206,BLOCKED_SHOT,Erik Cernak shot blocked shot by Joel Edmundson,2023-03-19T01:13:04Z,3,00:40,19:20,2,3,8.0,Montréal Canadiens,MTL
+241,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101483,2022021101,Takeaway,483,TAKEAWAY,Takeaway by Anthony Cirelli,2023-03-19T01:13:21Z,3,00:57,19:03,2,3,14.0,Tampa Bay Lightning,TBL
+242,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101347,2022021101,Hit,347,HIT,Nick Suzuki hit Anthony Cirelli,2023-03-19T01:13:23Z,3,00:59,19:01,2,3,8.0,Montréal Canadiens,MTL
+243,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101424,2022021101,Missed Shot,424,MISSED_SHOT,Tanner Jeannot Wide of Net Sam Montembeault,2023-03-19T01:13:24Z,3,01:00,19:00,2,3,14.0,Tampa Bay Lightning,TBL
+244,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101425,2022021101,Blocked Shot,425,BLOCKED_SHOT,Steven Stamkos shot blocked shot by David Savard,2023-03-19T01:13:48Z,3,01:24,18:36,2,3,8.0,Montréal Canadiens,MTL
+245,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101348,2022021101,Hit,348,HIT,Nicholas Paul hit Mike Matheson,2023-03-19T01:14:23Z,3,01:59,18:01,2,3,14.0,Tampa Bay Lightning,TBL
+246,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101426,2022021101,Shot,426,SHOT,Ross Colton Wrist Shot saved by Sam Montembeault,2023-03-19T01:14:27Z,3,02:03,17:57,2,3,14.0,Tampa Bay Lightning,TBL
+247,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101349,2022021101,Stoppage,349,STOP,Hand Pass,2023-03-19T01:14:33Z,3,02:09,17:51,2,3,,,
+248,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101484,2022021101,Faceoff,484,FACEOFF,Chris Tierney faceoff won against Brayden Point,2023-03-19T01:15:13Z,3,02:09,17:51,2,3,8.0,Montréal Canadiens,MTL
+249,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101485,2022021101,Giveaway,485,GIVEAWAY,Giveaway by Mike Hoffman,2023-03-19T01:15:38Z,3,02:34,17:26,2,3,8.0,Montréal Canadiens,MTL
+250,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101427,2022021101,Shot,427,SHOT,Mike Hoffman Wrist Shot saved by Brian Elliott,2023-03-19T01:15:45Z,3,02:41,17:19,2,3,8.0,Montréal Canadiens,MTL
+251,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101350,2022021101,Stoppage,350,STOP,Goalie Stopped,2023-03-19T01:15:46Z,3,02:42,17:18,2,3,,,
+252,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101486,2022021101,Faceoff,486,FACEOFF,Alex Belzile faceoff won against Pierre-Edouard Bellemare,2023-03-19T01:16:18Z,3,02:42,17:18,2,3,8.0,Montréal Canadiens,MTL
+253,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101719,2022021101,Penalty,719,PENALTY,Michael Pezzetta Interference against Mikhail Sergachev,2023-03-19T01:16:27Z,3,02:51,17:09,2,3,8.0,Montréal Canadiens,MTL
+254,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101487,2022021101,Faceoff,487,FACEOFF,Nick Suzuki faceoff won against Steven Stamkos,2023-03-19T01:17:40Z,3,02:51,17:09,2,3,8.0,Montréal Canadiens,MTL
+255,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101428,2022021101,Goal,428,GOAL,"Steven Stamkos (30) Slap Shot, assists: Nikita Kucherov (72), Alex Killorn (32)",2023-03-19T01:18:03Z,3,03:14,16:46,3,3,14.0,Tampa Bay Lightning,TBL
+256,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101488,2022021101,Faceoff,488,FACEOFF,Nick Suzuki faceoff won against Anthony Cirelli,2023-03-19T01:18:55Z,3,03:14,16:46,3,3,8.0,Montréal Canadiens,MTL
+257,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101601,2022021101,Hit,601,HIT,Tanner Jeannot hit Josh Anderson,2023-03-19T01:19:02Z,3,03:21,16:39,3,3,14.0,Tampa Bay Lightning,TBL
+258,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101489,2022021101,Takeaway,489,TAKEAWAY,Takeaway by Chris Wideman,2023-03-19T01:19:12Z,3,03:31,16:29,3,3,8.0,Montréal Canadiens,MTL
+259,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101490,2022021101,Takeaway,490,TAKEAWAY,Takeaway by Anthony Cirelli,2023-03-19T01:19:17Z,3,03:36,16:24,3,3,14.0,Tampa Bay Lightning,TBL
+260,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101602,2022021101,Hit,602,HIT,Johnathan Kovacevic hit Brandon Hagel,2023-03-19T01:19:40Z,3,03:59,16:01,3,3,8.0,Montréal Canadiens,MTL
+261,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101603,2022021101,Hit,603,HIT,Tanner Jeannot hit Chris Wideman,2023-03-19T01:19:44Z,3,04:03,15:57,3,3,14.0,Tampa Bay Lightning,TBL
+262,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101491,2022021101,Giveaway,491,GIVEAWAY,Giveaway by Mike Hoffman,2023-03-19T01:19:53Z,3,04:12,15:48,3,3,8.0,Montréal Canadiens,MTL
+263,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101429,2022021101,Blocked Shot,429,BLOCKED_SHOT,Mike Hoffman shot blocked shot by Victor Hedman,2023-03-19T01:20:04Z,3,04:23,15:37,3,3,14.0,Tampa Bay Lightning,TBL
+264,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101430,2022021101,Blocked Shot,430,BLOCKED_SHOT,Justin Barron shot blocked shot by Ross Colton,2023-03-19T01:20:16Z,3,04:35,15:25,3,3,14.0,Tampa Bay Lightning,TBL
+265,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101604,2022021101,Hit,604,HIT,Alex Belzile hit Victor Hedman,2023-03-19T01:20:22Z,3,04:41,15:19,3,3,8.0,Montréal Canadiens,MTL
+266,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101492,2022021101,Takeaway,492,TAKEAWAY,Takeaway by Pierre-Edouard Bellemare,2023-03-19T01:21:00Z,3,05:19,14:41,3,3,14.0,Tampa Bay Lightning,TBL
+267,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101431,2022021101,Shot,431,SHOT,Mikhail Sergachev Wrist Shot saved by Sam Montembeault,2023-03-19T01:21:09Z,3,05:28,14:32,3,3,14.0,Tampa Bay Lightning,TBL
+268,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101493,2022021101,Takeaway,493,TAKEAWAY,Takeaway by Pierre-Edouard Bellemare,2023-03-19T01:21:15Z,3,05:34,14:26,3,3,14.0,Tampa Bay Lightning,TBL
+269,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101432,2022021101,Shot,432,SHOT,Darren Raddysh Wrist Shot saved by Sam Montembeault,2023-03-19T01:21:33Z,3,05:53,14:07,3,3,14.0,Tampa Bay Lightning,TBL
+270,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101605,2022021101,Stoppage,605,STOP,Goalie Stopped,2023-03-19T01:21:33Z,3,05:53,14:07,3,3,,,
+271,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101494,2022021101,Faceoff,494,FACEOFF,Nick Suzuki faceoff won against Brayden Point,2023-03-19T01:22:17Z,3,05:53,14:07,3,3,8.0,Montréal Canadiens,MTL
+272,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101433,2022021101,Goal,433,GOAL,"Brandon Hagel (26) Tip-In, assists: Mikhail Sergachev (46), Brayden Point (38)",2023-03-19T01:22:23Z,3,05:58,14:02,4,3,14.0,Tampa Bay Lightning,TBL
+273,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101495,2022021101,Faceoff,495,FACEOFF,Nick Suzuki faceoff won against Brayden Point,2023-03-19T01:23:16Z,3,05:58,14:02,4,3,8.0,Montréal Canadiens,MTL
+274,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101607,2022021101,Hit,607,HIT,Joel Edmundson hit Mikhail Sergachev,2023-03-19T01:23:29Z,3,06:11,13:49,4,3,8.0,Montréal Canadiens,MTL
+275,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101496,2022021101,Giveaway,496,GIVEAWAY,Giveaway by Brayden Point,2023-03-19T01:23:37Z,3,06:19,13:41,4,3,14.0,Tampa Bay Lightning,TBL
+276,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101608,2022021101,Stoppage,608,STOP,Offside,2023-03-19T01:24:00Z,3,06:43,13:17,4,3,,,
+277,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101497,2022021101,Faceoff,497,FACEOFF,Steven Stamkos faceoff won against Alex Belzile,2023-03-19T01:26:25Z,3,06:43,13:17,4,3,14.0,Tampa Bay Lightning,TBL
+278,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101498,2022021101,Giveaway,498,GIVEAWAY,Giveaway by Zach Bogosian,2023-03-19T01:26:41Z,3,06:59,13:01,4,3,14.0,Tampa Bay Lightning,TBL
+279,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101609,2022021101,Hit,609,HIT,Ross Colton hit Alex Belzile,2023-03-19T01:26:44Z,3,07:02,12:58,4,3,14.0,Tampa Bay Lightning,TBL
+280,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101434,2022021101,Blocked Shot,434,BLOCKED_SHOT,Steven Stamkos shot blocked shot by Alex Belzile,2023-03-19T01:27:04Z,3,07:22,12:38,4,3,8.0,Montréal Canadiens,MTL
+281,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101499,2022021101,Takeaway,499,TAKEAWAY,Takeaway by Victor Hedman,2023-03-19T01:27:15Z,3,07:33,12:27,4,3,14.0,Tampa Bay Lightning,TBL
+282,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101500,2022021101,Takeaway,500,TAKEAWAY,Takeaway by Jesse Ylonen,2023-03-19T01:27:59Z,3,08:17,11:43,4,3,8.0,Montréal Canadiens,MTL
+283,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101610,2022021101,Hit,610,HIT,Tanner Jeannot hit Mike Matheson,2023-03-19T01:28:12Z,3,08:30,11:30,4,3,14.0,Tampa Bay Lightning,TBL
+284,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101435,2022021101,Blocked Shot,435,BLOCKED_SHOT,Brandon Hagel shot blocked shot by David Savard,2023-03-19T01:28:37Z,3,08:55,11:05,4,3,8.0,Montréal Canadiens,MTL
+285,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101436,2022021101,Shot,436,SHOT,Erik Cernak Wrist Shot saved by Sam Montembeault,2023-03-19T01:28:45Z,3,09:03,10:57,4,3,14.0,Tampa Bay Lightning,TBL
+286,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101611,2022021101,Stoppage,611,STOP,Goalie Stopped,2023-03-19T01:28:45Z,3,09:03,10:57,4,3,,,
+287,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101751,2022021101,Faceoff,751,FACEOFF,Anthony Cirelli faceoff won against Nick Suzuki,2023-03-19T01:29:18Z,3,09:03,10:57,4,3,14.0,Tampa Bay Lightning,TBL
+288,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101437,2022021101,Missed Shot,437,MISSED_SHOT,Nikita Kucherov Wide of Net Sam Montembeault,2023-03-19T01:29:51Z,3,09:36,10:24,4,3,14.0,Tampa Bay Lightning,TBL
+289,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101438,2022021101,Blocked Shot,438,BLOCKED_SHOT,Zach Bogosian shot blocked shot by Josh Anderson,2023-03-19T01:29:53Z,3,09:38,10:22,4,3,8.0,Montréal Canadiens,MTL
+290,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101612,2022021101,Stoppage,612,STOP,Icing,2023-03-19T01:30:26Z,3,10:11,09:49,4,3,,,
+291,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101752,2022021101,Faceoff,752,FACEOFF,Pierre-Edouard Bellemare faceoff won against Chris Tierney,2023-03-19T01:31:02Z,3,10:11,09:49,4,3,14.0,Tampa Bay Lightning,TBL
+292,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101439,2022021101,Missed Shot,439,MISSED_SHOT,Rem Pitlick Goalpost Brian Elliott,2023-03-19T01:31:24Z,3,10:33,09:27,4,3,8.0,Montréal Canadiens,MTL
+293,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101208,2022021101,Shot,208,SHOT,Mike Hoffman Backhand saved by Brian Elliott,2023-03-19T01:31:27Z,3,10:35,09:25,4,3,8.0,Montréal Canadiens,MTL
+294,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101613,2022021101,Stoppage,613,STOP,Goalie Stopped,2023-03-19T01:31:27Z,3,10:35,09:25,4,3,,,
+295,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101753,2022021101,Faceoff,753,FACEOFF,Nicholas Paul faceoff won against Nick Suzuki,2023-03-19T01:34:04Z,3,10:35,09:25,4,3,14.0,Tampa Bay Lightning,TBL
+296,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101754,2022021101,Takeaway,754,TAKEAWAY,Takeaway by Mike Matheson,2023-03-19T01:34:13Z,3,10:44,09:16,4,3,8.0,Montréal Canadiens,MTL
+297,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101440,2022021101,Blocked Shot,440,BLOCKED_SHOT,Mike Matheson shot blocked shot by Ian Cole,2023-03-19T01:34:17Z,3,10:48,09:12,4,3,14.0,Tampa Bay Lightning,TBL
+298,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101755,2022021101,Giveaway,755,GIVEAWAY,Giveaway by David Savard,2023-03-19T01:35:11Z,3,11:42,08:18,4,3,8.0,Montréal Canadiens,MTL
+299,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101614,2022021101,Hit,614,HIT,Alex Belzile hit Victor Hedman,2023-03-19T01:35:21Z,3,11:52,08:08,4,3,8.0,Montréal Canadiens,MTL
+300,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101896,2022021101,Penalty,896,PENALTY,Brandon Hagel Hooking against Rem Pitlick,2023-03-19T01:35:24Z,3,11:55,08:05,4,3,14.0,Tampa Bay Lightning,TBL
+301,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101756,2022021101,Faceoff,756,FACEOFF,Anthony Cirelli faceoff won against Nick Suzuki,2023-03-19T01:36:14Z,3,11:55,08:05,4,3,14.0,Tampa Bay Lightning,TBL
+302,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101441,2022021101,Missed Shot,441,MISSED_SHOT,Justin Barron Wide of Net Brian Elliott,2023-03-19T01:37:31Z,3,13:12,06:48,4,3,8.0,Montréal Canadiens,MTL
+303,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101615,2022021101,Hit,615,HIT,Denis Gurianov hit Alex Killorn,2023-03-19T01:38:11Z,3,13:52,06:08,4,3,8.0,Montréal Canadiens,MTL
+304,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101442,2022021101,Shot,442,SHOT,Victor Hedman Slap Shot saved by Sam Montembeault,2023-03-19T01:38:22Z,3,14:03,05:57,4,3,14.0,Tampa Bay Lightning,TBL
+305,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101616,2022021101,Stoppage,616,STOP,Goalie Stopped,2023-03-19T01:38:22Z,3,14:03,05:57,4,3,,,
+306,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101757,2022021101,Faceoff,757,FACEOFF,Alex Belzile faceoff won against Brayden Point,2023-03-19T01:41:14Z,3,14:03,05:57,4,3,8.0,Montréal Canadiens,MTL
+307,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101210,2022021101,Blocked Shot,210,BLOCKED_SHOT,Nikita Kucherov shot blocked shot by Alex Belzile,2023-03-19T01:41:20Z,3,14:09,05:51,4,3,8.0,Montréal Canadiens,MTL
+308,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101443,2022021101,Blocked Shot,443,BLOCKED_SHOT,Nikita Kucherov shot blocked shot by Alex Belzile,2023-03-19T01:41:23Z,3,14:12,05:48,4,3,8.0,Montréal Canadiens,MTL
+309,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101444,2022021101,Shot,444,SHOT,Darren Raddysh Wrist Shot saved by Sam Montembeault,2023-03-19T01:41:40Z,3,14:29,05:31,4,3,14.0,Tampa Bay Lightning,TBL
+310,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101617,2022021101,Stoppage,617,STOP,Goalie Stopped,2023-03-19T01:41:40Z,3,14:29,05:31,4,3,,,
+311,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101758,2022021101,Faceoff,758,FACEOFF,Ross Colton faceoff won against Nick Suzuki,2023-03-19T01:42:28Z,3,14:29,05:31,4,3,14.0,Tampa Bay Lightning,TBL
+312,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101445,2022021101,Blocked Shot,445,BLOCKED_SHOT,Erik Cernak shot blocked shot by Rafael Harvey-Pinard,2023-03-19T01:42:33Z,3,14:34,05:26,4,3,8.0,Montréal Canadiens,MTL
+313,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101446,2022021101,Missed Shot,446,MISSED_SHOT,Ian Cole Wide of Net Sam Montembeault,2023-03-19T01:42:43Z,3,14:44,05:16,4,3,14.0,Tampa Bay Lightning,TBL
+314,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101447,2022021101,Missed Shot,447,MISSED_SHOT,Erik Cernak Wide of Net Sam Montembeault,2023-03-19T01:42:51Z,3,14:52,05:08,4,3,14.0,Tampa Bay Lightning,TBL
+315,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101759,2022021101,Takeaway,759,TAKEAWAY,Takeaway by Darren Raddysh,2023-03-19T01:43:18Z,3,15:19,04:41,4,3,14.0,Tampa Bay Lightning,TBL
+316,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101618,2022021101,Hit,618,HIT,Darren Raddysh hit Mike Matheson,2023-03-19T01:43:31Z,3,15:32,04:28,4,3,14.0,Tampa Bay Lightning,TBL
+317,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101448,2022021101,Shot,448,SHOT,Anthony Richard Tip-In saved by Brian Elliott,2023-03-19T01:43:38Z,3,15:39,04:21,4,3,8.0,Montréal Canadiens,MTL
+318,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101449,2022021101,Shot,449,SHOT,Brandon Hagel Wrist Shot saved by Sam Montembeault,2023-03-19T01:43:45Z,3,15:46,04:14,4,3,14.0,Tampa Bay Lightning,TBL
+319,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101619,2022021101,Stoppage,619,STOP,Goalie Stopped,2023-03-19T01:43:45Z,3,15:46,04:14,4,3,,,
+320,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101760,2022021101,Faceoff,760,FACEOFF,Alex Belzile faceoff won against Brayden Point,2023-03-19T01:44:32Z,3,15:46,04:14,4,3,8.0,Montréal Canadiens,MTL
+321,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101761,2022021101,Giveaway,761,GIVEAWAY,Giveaway by Brandon Hagel,2023-03-19T01:44:47Z,3,16:01,03:59,4,3,14.0,Tampa Bay Lightning,TBL
+322,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101450,2022021101,Blocked Shot,450,BLOCKED_SHOT,Joel Edmundson shot blocked shot by Brayden Point,2023-03-19T01:44:52Z,3,16:06,03:54,4,3,14.0,Tampa Bay Lightning,TBL
+323,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101801,2022021101,Shot,801,SHOT,Victor Hedman Slap Shot saved by Sam Montembeault,2023-03-19T01:45:21Z,3,16:35,03:25,4,3,14.0,Tampa Bay Lightning,TBL
+324,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101620,2022021101,Stoppage,620,STOP,Goalie Stopped,2023-03-19T01:45:23Z,3,16:36,03:24,4,3,,,
+325,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101802,2022021101,Shot,802,SHOT,Brandon Hagel Backhand saved by Sam Montembeault,2023-03-19T01:45:23Z,3,16:36,03:24,4,3,14.0,Tampa Bay Lightning,TBL
+326,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101762,2022021101,Faceoff,762,FACEOFF,Nick Suzuki faceoff won against Anthony Cirelli,2023-03-19T01:46:22Z,3,16:36,03:24,4,3,8.0,Montréal Canadiens,MTL
+327,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101803,2022021101,Missed Shot,803,MISSED_SHOT,Johnathan Kovacevic Wide of Net Brian Elliott,2023-03-19T01:46:40Z,3,16:54,03:06,4,3,8.0,Montréal Canadiens,MTL
+328,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101804,2022021101,Shot,804,SHOT,Ian Cole Slap Shot saved by Sam Montembeault,2023-03-19T01:46:53Z,3,17:07,02:53,4,3,14.0,Tampa Bay Lightning,TBL
+329,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101805,2022021101,Shot,805,SHOT,Mikhail Sergachev Wrist Shot saved by Sam Montembeault,2023-03-19T01:47:09Z,3,17:23,02:37,4,3,14.0,Tampa Bay Lightning,TBL
+330,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101621,2022021101,Hit,621,HIT,Mikhail Sergachev hit Alex Belzile,2023-03-19T01:47:37Z,3,17:51,02:09,4,3,14.0,Tampa Bay Lightning,TBL
+331,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101622,2022021101,Hit,622,HIT,David Savard hit Ross Colton,2023-03-19T01:47:46Z,3,18:00,02:00,4,3,8.0,Montréal Canadiens,MTL
+332,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101763,2022021101,Takeaway,763,TAKEAWAY,Takeaway by Nicholas Paul,2023-03-19T01:47:54Z,3,18:08,01:52,4,3,14.0,Tampa Bay Lightning,TBL
+333,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101806,2022021101,Missed Shot,806,MISSED_SHOT,Nicholas Paul Over Net Sam Montembeault,2023-03-19T01:47:56Z,3,18:10,01:50,4,3,14.0,Tampa Bay Lightning,TBL
+334,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101623,2022021101,Stoppage,623,STOP,Puck in Netting,2023-03-19T01:47:56Z,3,18:11,01:49,4,3,,,
+335,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101764,2022021101,Faceoff,764,FACEOFF,Brayden Point faceoff won against Nick Suzuki,2023-03-19T01:48:41Z,3,18:11,01:49,4,3,14.0,Tampa Bay Lightning,TBL
+336,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101808,2022021101,Blocked Shot,808,BLOCKED_SHOT,Mike Matheson shot blocked shot by Brayden Point,2023-03-19T01:49:15Z,3,18:45,01:15,4,3,14.0,Tampa Bay Lightning,TBL
+337,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101809,2022021101,Shot,809,SHOT,Justin Barron Wrist Shot saved by Brian Elliott,2023-03-19T01:49:26Z,3,18:56,01:04,4,3,8.0,Montréal Canadiens,MTL
+338,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101624,2022021101,Stoppage,624,STOP,Icing,2023-03-19T01:49:30Z,3,19:00,01:00,4,3,,,
+339,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101625,2022021101,Stoppage,625,STOP,Visitor Timeout,2023-03-19T01:49:30Z,3,19:00,01:00,4,3,,,
+340,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101765,2022021101,Faceoff,765,FACEOFF,Nick Suzuki faceoff won against Brayden Point,2023-03-19T01:51:06Z,3,19:00,01:00,4,3,8.0,Montréal Canadiens,MTL
+341,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101766,2022021101,Takeaway,766,TAKEAWAY,Takeaway by Brandon Hagel,2023-03-19T01:51:20Z,3,19:14,00:46,4,3,14.0,Tampa Bay Lightning,TBL
+342,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101626,2022021101,Stoppage,626,STOP,Objects on Ice,2023-03-19T01:51:23Z,3,19:16,00:44,4,3,,,
+343,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101810,2022021101,Goal,810,GOAL,"Brandon Hagel (27) Wrist Shot, assists: none",2023-03-19T01:51:23Z,3,19:16,00:44,5,3,14.0,Tampa Bay Lightning,TBL
+344,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101767,2022021101,Faceoff,767,FACEOFF,Nick Suzuki faceoff won against Anthony Cirelli,2023-03-19T01:53:30Z,3,19:16,00:44,5,3,8.0,Montréal Canadiens,MTL
+345,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101811,2022021101,Shot,811,SHOT,Tanner Jeannot Wrist Shot saved by Sam Montembeault,2023-03-19T01:53:41Z,3,19:27,00:33,5,3,14.0,Tampa Bay Lightning,TBL
+346,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101627,2022021101,Stoppage,627,STOP,Goalie Stopped,2023-03-19T01:53:43Z,3,19:29,00:31,5,3,,,
+347,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101768,2022021101,Faceoff,768,FACEOFF,Pierre-Edouard Bellemare faceoff won against Chris Tierney,2023-03-19T01:54:18Z,3,19:29,00:31,5,3,14.0,Tampa Bay Lightning,TBL
+348,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101628,2022021101,Period End,628,PERIOD_END,End of 3rd Period,2023-03-19T01:54:49Z,3,20:00,00:00,5,3,,,
+349,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101631,2022021101,Period Official,631,PERIOD_OFFICIAL,Period Official,2023-03-19T01:55:13Z,3,20:00,00:00,5,3,,,
+350,14,8,Tampa Bay Lightning,Montréal Canadiens,2022021101632,2022021101,Game End,632,GAME_END,Game End,2023-03-19T01:55:16Z,3,20:00,00:00,5,3,,,
+351,14,8,Tampa Bay Lightning,Montréal Canadiens,20220211011141,2022021101,Game Official,1141,GAME_OFFICIAL,Game Official,2023-03-20T17:58:14Z,3,20:00,00:00,5,3,,,

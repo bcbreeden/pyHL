@@ -1,0 +1,324 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,55,20,Seattle Kraken,Calgary Flames,20220205611,2022020561,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-12-29T02:15:08Z,1,00:00,20:00,0,0,,,
+1,55,20,Seattle Kraken,Calgary Flames,20220205615,2022020561,Period Ready,5,PERIOD_READY,Period Ready,2022-12-29T03:20:09Z,1,00:00,20:00,0,0,,,
+2,55,20,Seattle Kraken,Calgary Flames,202202056151,2022020561,Period Start,51,PERIOD_START,Period Start,2022-12-29T03:22:34Z,1,00:00,20:00,0,0,,,
+3,55,20,Seattle Kraken,Calgary Flames,202202056152,2022020561,Faceoff,52,FACEOFF,Elias Lindholm faceoff won against Alex Wennberg,2022-12-29T03:22:34Z,1,00:00,20:00,0,0,20.0,Calgary Flames,CGY
+4,55,20,Seattle Kraken,Calgary Flames,2022020561201,2022020561,Shot,201,SHOT,Adam Larsson Snap Shot saved by Dan Vladar,2022-12-29T03:23:13Z,1,00:39,19:21,0,0,55.0,Seattle Kraken,SEA
+5,55,20,Seattle Kraken,Calgary Flames,2022020561202,2022020561,Missed Shot,202,MISSED_SHOT,Jonathan Huberdeau Wide of Net Philipp Grubauer,2022-12-29T03:23:28Z,1,00:54,19:06,0,0,20.0,Calgary Flames,CGY
+6,55,20,Seattle Kraken,Calgary Flames,202202056153,2022020561,Takeaway,53,TAKEAWAY,Takeaway by Jordan Eberle,2022-12-29T03:23:47Z,1,01:13,18:47,0,0,55.0,Seattle Kraken,SEA
+7,55,20,Seattle Kraken,Calgary Flames,20220205618,2022020561,Giveaway,8,GIVEAWAY,Giveaway by Jordan Eberle,2022-12-29T03:23:49Z,1,01:15,18:45,0,0,55.0,Seattle Kraken,SEA
+8,55,20,Seattle Kraken,Calgary Flames,202202056154,2022020561,Hit,54,HIT,Andrew Mangiapane hit Carson Soucy,2022-12-29T03:24:06Z,1,01:32,18:28,0,0,20.0,Calgary Flames,CGY
+9,55,20,Seattle Kraken,Calgary Flames,202202056155,2022020561,Takeaway,55,TAKEAWAY,Takeaway by Ryan Donato,2022-12-29T03:24:26Z,1,01:52,18:08,0,0,55.0,Seattle Kraken,SEA
+10,55,20,Seattle Kraken,Calgary Flames,202202056156,2022020561,Hit,56,HIT,Brandon Tanev hit Trevor Lewis,2022-12-29T03:24:49Z,1,02:15,17:45,0,0,55.0,Seattle Kraken,SEA
+11,55,20,Seattle Kraken,Calgary Flames,2022020561203,2022020561,Shot,203,SHOT,Adam Ruzicka Wrist Shot saved by Philipp Grubauer,2022-12-29T03:25:03Z,1,02:29,17:31,0,0,20.0,Calgary Flames,CGY
+12,55,20,Seattle Kraken,Calgary Flames,202202056157,2022020561,Hit,57,HIT,MacKenzie Weegar hit Andre Burakovsky,2022-12-29T03:25:44Z,1,03:10,16:50,0,0,20.0,Calgary Flames,CGY
+13,55,20,Seattle Kraken,Calgary Flames,202202056158,2022020561,Hit,58,HIT,Chris Tanev hit Alex Wennberg,2022-12-29T03:25:51Z,1,03:17,16:43,0,0,20.0,Calgary Flames,CGY
+14,55,20,Seattle Kraken,Calgary Flames,2022020561204,2022020561,Blocked Shot,204,BLOCKED_SHOT,Jaden Schwartz shot blocked shot by Dillon Dube,2022-12-29T03:25:56Z,1,03:22,16:38,0,0,20.0,Calgary Flames,CGY
+15,55,20,Seattle Kraken,Calgary Flames,202202056110,2022020561,Stoppage,10,STOP,Puck in Crowd,2022-12-29T03:25:58Z,1,03:24,16:36,0,0,,,
+16,55,20,Seattle Kraken,Calgary Flames,202202056159,2022020561,Faceoff,59,FACEOFF,Nazem Kadri faceoff won against Matty Beniers,2022-12-29T03:26:24Z,1,03:24,16:36,0,0,20.0,Calgary Flames,CGY
+17,55,20,Seattle Kraken,Calgary Flames,202202056160,2022020561,Giveaway,60,GIVEAWAY,Giveaway by Milan Lucic,2022-12-29T03:26:39Z,1,03:39,16:21,0,0,20.0,Calgary Flames,CGY
+18,55,20,Seattle Kraken,Calgary Flames,2022020561205,2022020561,Missed Shot,205,MISSED_SHOT,Matty Beniers Wide of Net Dan Vladar,2022-12-29T03:26:42Z,1,03:42,16:18,0,0,55.0,Seattle Kraken,SEA
+19,55,20,Seattle Kraken,Calgary Flames,2022020561206,2022020561,Shot,206,SHOT,Jared McCann Wrist Shot saved by Dan Vladar,2022-12-29T03:26:51Z,1,03:51,16:09,0,0,55.0,Seattle Kraken,SEA
+20,55,20,Seattle Kraken,Calgary Flames,2022020561207,2022020561,Shot,207,SHOT,Nikita Zadorov Snap Shot saved by Philipp Grubauer,2022-12-29T03:27:04Z,1,04:04,15:56,0,0,20.0,Calgary Flames,CGY
+21,55,20,Seattle Kraken,Calgary Flames,202202056111,2022020561,Stoppage,11,STOP,Goalie Stopped,2022-12-29T03:27:07Z,1,04:06,15:54,0,0,,,
+22,55,20,Seattle Kraken,Calgary Flames,202202056161,2022020561,Faceoff,61,FACEOFF,Yanni Gourde faceoff won against Mikael Backlund,2022-12-29T03:27:34Z,1,04:06,15:54,0,0,55.0,Seattle Kraken,SEA
+23,55,20,Seattle Kraken,Calgary Flames,2022020561208,2022020561,Shot,208,SHOT,Ryan Donato Tip-In saved by Dan Vladar,2022-12-29T03:27:54Z,1,04:26,15:34,0,0,55.0,Seattle Kraken,SEA
+24,55,20,Seattle Kraken,Calgary Flames,202202056162,2022020561,Hit,62,HIT,Yanni Gourde hit Nikita Zadorov,2022-12-29T03:27:58Z,1,04:30,15:30,0,0,55.0,Seattle Kraken,SEA
+25,55,20,Seattle Kraken,Calgary Flames,202202056163,2022020561,Hit,63,HIT,Yanni Gourde hit Nikita Zadorov,2022-12-29T03:28:11Z,1,04:43,15:17,0,0,55.0,Seattle Kraken,SEA
+26,55,20,Seattle Kraken,Calgary Flames,2022020561209,2022020561,Shot,209,SHOT,Daniel Sprong Wrist Shot saved by Dan Vladar,2022-12-29T03:28:23Z,1,04:55,15:05,0,0,55.0,Seattle Kraken,SEA
+27,55,20,Seattle Kraken,Calgary Flames,2022020561210,2022020561,Missed Shot,210,MISSED_SHOT,Trevor Lewis Wide of Net Philipp Grubauer,2022-12-29T03:28:31Z,1,05:03,14:57,0,0,20.0,Calgary Flames,CGY
+28,55,20,Seattle Kraken,Calgary Flames,2022020561211,2022020561,Shot,211,SHOT,MacKenzie Weegar Slap Shot saved by Philipp Grubauer,2022-12-29T03:28:47Z,1,05:19,14:41,0,0,20.0,Calgary Flames,CGY
+29,55,20,Seattle Kraken,Calgary Flames,202202056164,2022020561,Hit,64,HIT,Morgan Geekie hit Chris Tanev,2022-12-29T03:28:58Z,1,05:30,14:30,0,0,55.0,Seattle Kraken,SEA
+30,55,20,Seattle Kraken,Calgary Flames,202202056165,2022020561,Takeaway,65,TAKEAWAY,Takeaway by Daniel Sprong,2022-12-29T03:29:06Z,1,05:38,14:22,0,0,55.0,Seattle Kraken,SEA
+31,55,20,Seattle Kraken,Calgary Flames,2022020561212,2022020561,Blocked Shot,212,BLOCKED_SHOT,Dillon Dube shot blocked shot by Adam Larsson,2022-12-29T03:29:25Z,1,05:57,14:03,0,0,55.0,Seattle Kraken,SEA
+32,55,20,Seattle Kraken,Calgary Flames,202202056166,2022020561,Hit,66,HIT,Adam Larsson hit Dillon Dube,2022-12-29T03:29:29Z,1,06:01,13:59,0,0,55.0,Seattle Kraken,SEA
+33,55,20,Seattle Kraken,Calgary Flames,2022020561213,2022020561,Shot,213,SHOT,Dillon Dube Tip-In saved by Philipp Grubauer,2022-12-29T03:29:47Z,1,06:19,13:41,0,0,20.0,Calgary Flames,CGY
+34,55,20,Seattle Kraken,Calgary Flames,2022020561551,2022020561,Shot,551,SHOT,Tyler Toffoli Wrist Shot saved by Philipp Grubauer,2022-12-29T03:29:48Z,1,06:20,13:40,0,0,20.0,Calgary Flames,CGY
+35,55,20,Seattle Kraken,Calgary Flames,2022020561552,2022020561,Shot,552,SHOT,Tyler Toffoli Wrist Shot saved by Philipp Grubauer,2022-12-29T03:29:48Z,1,06:20,13:40,0,0,20.0,Calgary Flames,CGY
+36,55,20,Seattle Kraken,Calgary Flames,202202056112,2022020561,Goal,12,GOAL,"Tyler Toffoli (15) Wrist Shot, assists: Dillon Dube (13), Noah Hanifin (13)",2022-12-29T03:29:51Z,1,06:22,13:38,0,1,20.0,Calgary Flames,CGY
+37,55,20,Seattle Kraken,Calgary Flames,202202056169,2022020561,Faceoff,69,FACEOFF,Nazem Kadri faceoff won against Matty Beniers,2022-12-29T03:30:48Z,1,06:22,13:38,0,1,20.0,Calgary Flames,CGY
+38,55,20,Seattle Kraken,Calgary Flames,202202056113,2022020561,Stoppage,13,STOP,Goalie Stopped,2022-12-29T03:31:00Z,1,06:34,13:26,0,1,,,
+39,55,20,Seattle Kraken,Calgary Flames,2022020561214,2022020561,Shot,214,SHOT,Nazem Kadri Wrist Shot saved by Philipp Grubauer,2022-12-29T03:31:00Z,1,06:34,13:26,0,1,20.0,Calgary Flames,CGY
+40,55,20,Seattle Kraken,Calgary Flames,202202056170,2022020561,Faceoff,70,FACEOFF,Matty Beniers faceoff won against Nazem Kadri,2022-12-29T03:33:32Z,1,06:34,13:26,0,1,55.0,Seattle Kraken,SEA
+41,55,20,Seattle Kraken,Calgary Flames,202202056171,2022020561,Hit,71,HIT,Nazem Kadri hit Matty Beniers,2022-12-29T03:33:41Z,1,06:43,13:17,0,1,20.0,Calgary Flames,CGY
+42,55,20,Seattle Kraken,Calgary Flames,202202056114,2022020561,Stoppage,14,STOP,Goalie Stopped,2022-12-29T03:33:47Z,1,06:48,13:12,0,1,,,
+43,55,20,Seattle Kraken,Calgary Flames,2022020561215,2022020561,Shot,215,SHOT,Jordan Eberle Snap Shot saved by Dan Vladar,2022-12-29T03:33:47Z,1,06:48,13:12,0,1,55.0,Seattle Kraken,SEA
+44,55,20,Seattle Kraken,Calgary Flames,2022020561502,2022020561,Penalty,502,PENALTY,MacKenzie Weegar Roughing against Jared McCann,2022-12-29T03:33:47Z,1,06:48,13:12,0,1,20.0,Calgary Flames,CGY
+45,55,20,Seattle Kraken,Calgary Flames,202202056172,2022020561,Faceoff,72,FACEOFF,Elias Lindholm faceoff won against Jaden Schwartz,2022-12-29T03:34:24Z,1,06:48,13:12,0,1,20.0,Calgary Flames,CGY
+46,55,20,Seattle Kraken,Calgary Flames,2022020561553,2022020561,Takeaway,553,TAKEAWAY,Takeaway by Jared McCann,2022-12-29T03:34:25Z,1,06:49,13:11,0,1,55.0,Seattle Kraken,SEA
+47,55,20,Seattle Kraken,Calgary Flames,202202056173,2022020561,Hit,73,HIT,Rasmus Andersson hit Jaden Schwartz,2022-12-29T03:35:26Z,1,07:50,12:10,0,1,20.0,Calgary Flames,CGY
+48,55,20,Seattle Kraken,Calgary Flames,202202056174,2022020561,Giveaway,74,GIVEAWAY,Giveaway by Daniel Sprong,2022-12-29T03:35:54Z,1,08:18,11:42,0,1,55.0,Seattle Kraken,SEA
+49,55,20,Seattle Kraken,Calgary Flames,2022020561216,2022020561,Blocked Shot,216,BLOCKED_SHOT,Andrew Mangiapane shot blocked shot by Justin Schultz,2022-12-29T03:36:00Z,1,08:24,11:36,0,1,55.0,Seattle Kraken,SEA
+50,55,20,Seattle Kraken,Calgary Flames,202202056175,2022020561,Takeaway,75,TAKEAWAY,Takeaway by Andrew Mangiapane,2022-12-29T03:36:10Z,1,08:34,11:26,0,1,20.0,Calgary Flames,CGY
+51,55,20,Seattle Kraken,Calgary Flames,202202056115,2022020561,Shot,15,SHOT,Andrew Mangiapane Backhand saved by Philipp Grubauer,2022-12-29T03:36:11Z,1,08:35,11:25,0,1,20.0,Calgary Flames,CGY
+52,55,20,Seattle Kraken,Calgary Flames,202202056116,2022020561,Stoppage,16,STOP,Goalie Stopped,2022-12-29T03:36:13Z,1,08:37,11:23,0,1,,,
+53,55,20,Seattle Kraken,Calgary Flames,202202056176,2022020561,Faceoff,76,FACEOFF,Yanni Gourde faceoff won against Elias Lindholm,2022-12-29T03:36:50Z,1,08:37,11:23,0,1,55.0,Seattle Kraken,SEA
+54,55,20,Seattle Kraken,Calgary Flames,2022020561217,2022020561,Missed Shot,217,MISSED_SHOT,Brandon Tanev Wide of Net Dan Vladar,2022-12-29T03:37:03Z,1,08:50,11:10,0,1,55.0,Seattle Kraken,SEA
+55,55,20,Seattle Kraken,Calgary Flames,202202056177,2022020561,Hit,77,HIT,Brandon Tanev hit Nikita Zadorov,2022-12-29T03:37:07Z,1,08:54,11:06,0,1,55.0,Seattle Kraken,SEA
+56,55,20,Seattle Kraken,Calgary Flames,202202056117,2022020561,Stoppage,17,STOP,Icing,2022-12-29T03:37:09Z,1,08:55,11:05,0,1,,,
+57,55,20,Seattle Kraken,Calgary Flames,202202056178,2022020561,Faceoff,78,FACEOFF,Ryan Donato faceoff won against Elias Lindholm,2022-12-29T03:37:46Z,1,08:55,11:05,0,1,55.0,Seattle Kraken,SEA
+58,55,20,Seattle Kraken,Calgary Flames,2022020561218,2022020561,Blocked Shot,218,BLOCKED_SHOT,Adam Larsson shot blocked shot by Elias Lindholm,2022-12-29T03:37:58Z,1,09:07,10:53,0,1,20.0,Calgary Flames,CGY
+59,55,20,Seattle Kraken,Calgary Flames,202202056118,2022020561,Missed Shot,18,MISSED_SHOT,Yanni Gourde Wide of Net Dan Vladar,2022-12-29T03:37:59Z,1,09:08,10:52,0,1,55.0,Seattle Kraken,SEA
+60,55,20,Seattle Kraken,Calgary Flames,202202056179,2022020561,Giveaway,79,GIVEAWAY,Giveaway by Noah Hanifin,2022-12-29T03:38:51Z,1,10:00,10:00,0,1,20.0,Calgary Flames,CGY
+61,55,20,Seattle Kraken,Calgary Flames,2022020561219,2022020561,Shot,219,SHOT,Justin Schultz Wrist Shot saved by Dan Vladar,2022-12-29T03:38:53Z,1,10:02,09:58,0,1,55.0,Seattle Kraken,SEA
+62,55,20,Seattle Kraken,Calgary Flames,202202056119,2022020561,Stoppage,19,STOP,Goalie Stopped,2022-12-29T03:38:54Z,1,10:03,09:57,0,1,,,
+63,55,20,Seattle Kraken,Calgary Flames,202202056180,2022020561,Faceoff,80,FACEOFF,Matty Beniers faceoff won against Mikael Backlund,2022-12-29T03:41:13Z,1,10:03,09:57,0,1,55.0,Seattle Kraken,SEA
+64,55,20,Seattle Kraken,Calgary Flames,202202056120,2022020561,Stoppage,20,STOP,Goalie Stopped,2022-12-29T03:41:19Z,1,10:09,09:51,0,1,,,
+65,55,20,Seattle Kraken,Calgary Flames,2022020561220,2022020561,Shot,220,SHOT,Matty Beniers Tip-In saved by Dan Vladar,2022-12-29T03:41:19Z,1,10:09,09:51,0,1,55.0,Seattle Kraken,SEA
+66,55,20,Seattle Kraken,Calgary Flames,202202056181,2022020561,Faceoff,81,FACEOFF,Nazem Kadri faceoff won against Matty Beniers,2022-12-29T03:41:42Z,1,10:09,09:51,0,1,20.0,Calgary Flames,CGY
+67,55,20,Seattle Kraken,Calgary Flames,2022020561221,2022020561,Shot,221,SHOT,Matty Beniers Tip-In saved by Dan Vladar,2022-12-29T03:41:52Z,1,10:19,09:41,0,1,55.0,Seattle Kraken,SEA
+68,55,20,Seattle Kraken,Calgary Flames,2022020561222,2022020561,Missed Shot,222,MISSED_SHOT,MacKenzie Weegar Wide of Net Philipp Grubauer,2022-12-29T03:42:06Z,1,10:33,09:27,0,1,20.0,Calgary Flames,CGY
+69,55,20,Seattle Kraken,Calgary Flames,2022020561223,2022020561,Missed Shot,223,MISSED_SHOT,Andrew Mangiapane Wide of Net Philipp Grubauer,2022-12-29T03:42:22Z,1,10:49,09:11,0,1,20.0,Calgary Flames,CGY
+70,55,20,Seattle Kraken,Calgary Flames,202202056182,2022020561,Hit,82,HIT,Morgan Geekie hit Andrew Mangiapane,2022-12-29T03:42:46Z,1,11:13,08:47,0,1,55.0,Seattle Kraken,SEA
+71,55,20,Seattle Kraken,Calgary Flames,2022020561224,2022020561,Missed Shot,224,MISSED_SHOT,Michael Stone Wide of Net Philipp Grubauer,2022-12-29T03:42:52Z,1,11:19,08:41,0,1,20.0,Calgary Flames,CGY
+72,55,20,Seattle Kraken,Calgary Flames,202202056183,2022020561,Hit,83,HIT,Trevor Lewis hit Carson Soucy,2022-12-29T03:43:37Z,1,12:04,07:56,0,1,20.0,Calgary Flames,CGY
+73,55,20,Seattle Kraken,Calgary Flames,202202056184,2022020561,Hit,84,HIT,Jaden Schwartz hit MacKenzie Weegar,2022-12-29T03:44:06Z,1,12:33,07:27,0,1,55.0,Seattle Kraken,SEA
+74,55,20,Seattle Kraken,Calgary Flames,2022020561225,2022020561,Shot,225,SHOT,Jaden Schwartz Backhand saved by Dan Vladar,2022-12-29T03:44:26Z,1,12:53,07:07,0,1,55.0,Seattle Kraken,SEA
+75,55,20,Seattle Kraken,Calgary Flames,202202056185,2022020561,Giveaway,85,GIVEAWAY,Giveaway by Vince Dunn,2022-12-29T03:44:49Z,1,13:16,06:44,0,1,55.0,Seattle Kraken,SEA
+76,55,20,Seattle Kraken,Calgary Flames,2022020561226,2022020561,Blocked Shot,226,BLOCKED_SHOT,Jared McCann shot blocked shot by Michael Stone,2022-12-29T03:45:06Z,1,13:33,06:27,0,1,20.0,Calgary Flames,CGY
+77,55,20,Seattle Kraken,Calgary Flames,202202056121,2022020561,Shot,21,SHOT,Vince Dunn Slap Shot saved by Dan Vladar,2022-12-29T03:45:08Z,1,13:35,06:25,0,1,55.0,Seattle Kraken,SEA
+78,55,20,Seattle Kraken,Calgary Flames,2022020561227,2022020561,Shot,227,SHOT,Jared McCann Slap Shot saved by Dan Vladar,2022-12-29T03:45:13Z,1,13:40,06:20,0,1,55.0,Seattle Kraken,SEA
+79,55,20,Seattle Kraken,Calgary Flames,202202056186,2022020561,Takeaway,86,TAKEAWAY,Takeaway by Blake Coleman,2022-12-29T03:45:38Z,1,14:05,05:55,0,1,20.0,Calgary Flames,CGY
+80,55,20,Seattle Kraken,Calgary Flames,202202056187,2022020561,Hit,87,HIT,Carson Soucy hit Blake Coleman,2022-12-29T03:45:40Z,1,14:07,05:53,0,1,55.0,Seattle Kraken,SEA
+81,55,20,Seattle Kraken,Calgary Flames,202202056122,2022020561,Stoppage,22,STOP,Offside,2022-12-29T03:45:42Z,1,14:08,05:52,0,1,,,
+82,55,20,Seattle Kraken,Calgary Flames,202202056188,2022020561,Faceoff,88,FACEOFF,Adam Ruzicka faceoff won against Jaden Schwartz,2022-12-29T03:48:07Z,1,14:08,05:52,0,1,20.0,Calgary Flames,CGY
+83,55,20,Seattle Kraken,Calgary Flames,202202056189,2022020561,Hit,89,HIT,Brett Ritchie hit Carson Soucy,2022-12-29T03:48:24Z,1,14:25,05:35,0,1,20.0,Calgary Flames,CGY
+84,55,20,Seattle Kraken,Calgary Flames,202202056190,2022020561,Hit,90,HIT,Will Borgen hit Trevor Lewis,2022-12-29T03:48:35Z,1,14:36,05:24,0,1,55.0,Seattle Kraken,SEA
+85,55,20,Seattle Kraken,Calgary Flames,2022020561228,2022020561,Blocked Shot,228,BLOCKED_SHOT,Justin Schultz shot blocked shot by MacKenzie Weegar,2022-12-29T03:48:57Z,1,14:58,05:02,0,1,20.0,Calgary Flames,CGY
+86,55,20,Seattle Kraken,Calgary Flames,202202056191,2022020561,Hit,91,HIT,Elias Lindholm hit Justin Schultz,2022-12-29T03:49:13Z,1,15:14,04:46,0,1,20.0,Calgary Flames,CGY
+87,55,20,Seattle Kraken,Calgary Flames,202202056192,2022020561,Takeaway,92,TAKEAWAY,Takeaway by Yanni Gourde,2022-12-29T03:49:30Z,1,15:31,04:29,0,1,55.0,Seattle Kraken,SEA
+88,55,20,Seattle Kraken,Calgary Flames,2022020561229,2022020561,Shot,229,SHOT,Michael Stone Slap Shot saved by Philipp Grubauer,2022-12-29T03:49:40Z,1,15:41,04:19,0,1,20.0,Calgary Flames,CGY
+89,55,20,Seattle Kraken,Calgary Flames,202202056193,2022020561,Hit,93,HIT,Milan Lucic hit Ryan Donato,2022-12-29T03:49:46Z,1,15:47,04:13,0,1,20.0,Calgary Flames,CGY
+90,55,20,Seattle Kraken,Calgary Flames,2022020561649,2022020561,Penalty,649,PENALTY,Yanni Gourde Hooking against Nazem Kadri,2022-12-29T03:49:54Z,1,15:55,04:05,0,1,55.0,Seattle Kraken,SEA
+91,55,20,Seattle Kraken,Calgary Flames,202202056194,2022020561,Faceoff,94,FACEOFF,Morgan Geekie faceoff won against Nazem Kadri,2022-12-29T03:50:35Z,1,15:55,04:05,0,1,55.0,Seattle Kraken,SEA
+92,55,20,Seattle Kraken,Calgary Flames,202202056195,2022020561,Takeaway,95,TAKEAWAY,Takeaway by Morgan Geekie,2022-12-29T03:50:49Z,1,16:09,03:51,0,1,55.0,Seattle Kraken,SEA
+93,55,20,Seattle Kraken,Calgary Flames,202202056196,2022020561,Hit,96,HIT,Jamie Oleksiak hit Nazem Kadri,2022-12-29T03:51:23Z,1,16:43,03:17,0,1,55.0,Seattle Kraken,SEA
+94,55,20,Seattle Kraken,Calgary Flames,202202056197,2022020561,Hit,97,HIT,Adam Ruzicka hit Will Borgen,2022-12-29T03:51:42Z,1,17:02,02:58,0,1,20.0,Calgary Flames,CGY
+95,55,20,Seattle Kraken,Calgary Flames,2022020561230,2022020561,Shot,230,SHOT,Noah Hanifin Slap Shot saved by Philipp Grubauer,2022-12-29T03:52:05Z,1,17:25,02:35,0,1,20.0,Calgary Flames,CGY
+96,55,20,Seattle Kraken,Calgary Flames,2022020561231,2022020561,Shot,231,SHOT,Mikael Backlund Wrist Shot saved by Philipp Grubauer,2022-12-29T03:52:13Z,1,17:33,02:27,0,1,20.0,Calgary Flames,CGY
+97,55,20,Seattle Kraken,Calgary Flames,202202056123,2022020561,Shot,23,SHOT,Andrew Mangiapane Wrist Shot saved by Philipp Grubauer,2022-12-29T03:52:15Z,1,17:35,02:25,0,1,20.0,Calgary Flames,CGY
+98,55,20,Seattle Kraken,Calgary Flames,2022020561232,2022020561,Shot,232,SHOT,Mikael Backlund Wrist Shot saved by Philipp Grubauer,2022-12-29T03:52:36Z,1,17:56,02:04,0,1,20.0,Calgary Flames,CGY
+99,55,20,Seattle Kraken,Calgary Flames,2022020561233,2022020561,Missed Shot,233,MISSED_SHOT,Adam Larsson Wide of Net Dan Vladar,2022-12-29T03:53:16Z,1,18:36,01:24,0,1,55.0,Seattle Kraken,SEA
+100,55,20,Seattle Kraken,Calgary Flames,202202056198,2022020561,Takeaway,98,TAKEAWAY,Takeaway by Ryan Donato,2022-12-29T03:53:20Z,1,18:40,01:20,0,1,55.0,Seattle Kraken,SEA
+101,55,20,Seattle Kraken,Calgary Flames,2022020561234,2022020561,Shot,234,SHOT,Ryan Donato Wrist Shot saved by Dan Vladar,2022-12-29T03:53:24Z,1,18:44,01:16,0,1,55.0,Seattle Kraken,SEA
+102,55,20,Seattle Kraken,Calgary Flames,2022020561235,2022020561,Goal,235,GOAL,"Ryan Donato (8) Snap Shot, assists: Jordan Eberle (18), Adam Larsson (10)",2022-12-29T03:53:24Z,1,18:45,01:15,1,1,55.0,Seattle Kraken,SEA
+103,55,20,Seattle Kraken,Calgary Flames,202202056199,2022020561,Faceoff,99,FACEOFF,Yanni Gourde faceoff won against Nazem Kadri,2022-12-29T03:54:12Z,1,18:45,01:15,1,1,55.0,Seattle Kraken,SEA
+104,55,20,Seattle Kraken,Calgary Flames,2022020561236,2022020561,Shot,236,SHOT,Yanni Gourde Deflected saved by Dan Vladar,2022-12-29T03:54:42Z,1,19:15,00:45,1,1,55.0,Seattle Kraken,SEA
+105,55,20,Seattle Kraken,Calgary Flames,2022020561237,2022020561,Missed Shot,237,MISSED_SHOT,Chris Tanev Wide of Net Philipp Grubauer,2022-12-29T03:54:56Z,1,19:29,00:31,1,1,20.0,Calgary Flames,CGY
+106,55,20,Seattle Kraken,Calgary Flames,202202056124,2022020561,Missed Shot,24,MISSED_SHOT,Jonathan Huberdeau Wide of Net Philipp Grubauer,2022-12-29T03:54:59Z,1,19:32,00:28,1,1,20.0,Calgary Flames,CGY
+107,55,20,Seattle Kraken,Calgary Flames,2022020561100,2022020561,Hit,100,HIT,Brandon Tanev hit MacKenzie Weegar,2022-12-29T03:55:09Z,1,19:42,00:18,1,1,55.0,Seattle Kraken,SEA
+108,55,20,Seattle Kraken,Calgary Flames,202202056125,2022020561,Period End,25,PERIOD_END,End of 1st Period,2022-12-29T03:55:27Z,1,20:00,00:00,1,1,,,
+109,55,20,Seattle Kraken,Calgary Flames,202202056128,2022020561,Period Official,28,PERIOD_OFFICIAL,Period Official,2022-12-29T04:10:51Z,1,20:00,00:00,1,1,,,
+110,55,20,Seattle Kraken,Calgary Flames,202202056129,2022020561,Period Ready,29,PERIOD_READY,Period Ready,2022-12-29T04:12:11Z,2,00:00,20:00,1,1,,,
+111,55,20,Seattle Kraken,Calgary Flames,2022020561451,2022020561,Period Start,451,PERIOD_START,Period Start,2022-12-29T04:14:41Z,2,00:00,20:00,1,1,,,
+112,55,20,Seattle Kraken,Calgary Flames,2022020561452,2022020561,Faceoff,452,FACEOFF,Elias Lindholm faceoff won against Alex Wennberg,2022-12-29T04:14:41Z,2,00:00,20:00,1,1,20.0,Calgary Flames,CGY
+113,55,20,Seattle Kraken,Calgary Flames,2022020561454,2022020561,Takeaway,454,TAKEAWAY,Takeaway by Alex Wennberg,2022-12-29T04:14:52Z,2,00:11,19:49,1,1,55.0,Seattle Kraken,SEA
+114,55,20,Seattle Kraken,Calgary Flames,2022020561238,2022020561,Shot,238,SHOT,Noah Hanifin Wrist Shot saved by Philipp Grubauer,2022-12-29T04:15:03Z,2,00:22,19:38,1,1,20.0,Calgary Flames,CGY
+115,55,20,Seattle Kraken,Calgary Flames,2022020561239,2022020561,Missed Shot,239,MISSED_SHOT,Jared McCann Wide of Net Dan Vladar,2022-12-29T04:15:35Z,2,00:54,19:06,1,1,55.0,Seattle Kraken,SEA
+116,55,20,Seattle Kraken,Calgary Flames,202202056130,2022020561,Missed Shot,30,MISSED_SHOT,Jordan Eberle Over Net Dan Vladar,2022-12-29T04:15:36Z,2,00:55,19:05,1,1,55.0,Seattle Kraken,SEA
+117,55,20,Seattle Kraken,Calgary Flames,2022020561240,2022020561,Missed Shot,240,MISSED_SHOT,Matty Beniers Wide of Net Dan Vladar,2022-12-29T04:15:45Z,2,01:04,18:56,1,1,55.0,Seattle Kraken,SEA
+118,55,20,Seattle Kraken,Calgary Flames,202202056131,2022020561,Stoppage,31,STOP,Visitor Timeout,2022-12-29T04:15:55Z,2,01:14,18:46,1,1,,,
+119,55,20,Seattle Kraken,Calgary Flames,2022020561241,2022020561,Goal,241,GOAL,"Jamie Oleksiak (5) Snap Shot, assists: Jordan Eberle (19)",2022-12-29T04:15:55Z,2,01:14,18:46,2,1,55.0,Seattle Kraken,SEA
+120,55,20,Seattle Kraken,Calgary Flames,2022020561457,2022020561,Faceoff,457,FACEOFF,Mikael Backlund faceoff won against Yanni Gourde,2022-12-29T04:17:32Z,2,01:14,18:46,2,1,20.0,Calgary Flames,CGY
+121,55,20,Seattle Kraken,Calgary Flames,2022020561458,2022020561,Hit,458,HIT,Carson Soucy hit Andrew Mangiapane,2022-12-29T04:18:08Z,2,01:50,18:10,2,1,55.0,Seattle Kraken,SEA
+122,55,20,Seattle Kraken,Calgary Flames,2022020561242,2022020561,Shot,242,SHOT,Brandon Tanev Wrist Shot saved by Dan Vladar,2022-12-29T04:18:32Z,2,02:14,17:46,2,1,55.0,Seattle Kraken,SEA
+123,55,20,Seattle Kraken,Calgary Flames,2022020561459,2022020561,Hit,459,HIT,Morgan Geekie hit Rasmus Andersson,2022-12-29T04:18:54Z,2,02:36,17:24,2,1,55.0,Seattle Kraken,SEA
+124,55,20,Seattle Kraken,Calgary Flames,2022020561243,2022020561,Shot,243,SHOT,Brett Ritchie Tip-In saved by Philipp Grubauer,2022-12-29T04:18:59Z,2,02:41,17:19,2,1,20.0,Calgary Flames,CGY
+125,55,20,Seattle Kraken,Calgary Flames,2022020561244,2022020561,Shot,244,SHOT,Brandon Tanev Wrist Shot saved by Dan Vladar,2022-12-29T04:19:04Z,2,02:46,17:14,2,1,55.0,Seattle Kraken,SEA
+126,55,20,Seattle Kraken,Calgary Flames,202202056132,2022020561,Stoppage,32,STOP,Puck in Netting,2022-12-29T04:19:05Z,2,02:47,17:13,2,1,,,
+127,55,20,Seattle Kraken,Calgary Flames,2022020561460,2022020561,Faceoff,460,FACEOFF,Alex Wennberg faceoff won against Nazem Kadri,2022-12-29T04:19:39Z,2,02:47,17:13,2,1,55.0,Seattle Kraken,SEA
+128,55,20,Seattle Kraken,Calgary Flames,2022020561245,2022020561,Blocked Shot,245,BLOCKED_SHOT,Jaden Schwartz shot blocked shot by Chris Tanev,2022-12-29T04:20:15Z,2,03:23,16:37,2,1,20.0,Calgary Flames,CGY
+129,55,20,Seattle Kraken,Calgary Flames,202202056133,2022020561,Stoppage,33,STOP,Offside,2022-12-29T04:20:32Z,2,03:41,16:19,2,1,,,
+130,55,20,Seattle Kraken,Calgary Flames,2022020561462,2022020561,Faceoff,462,FACEOFF,Elias Lindholm faceoff won against Matty Beniers,2022-12-29T04:21:02Z,2,03:41,16:19,2,1,20.0,Calgary Flames,CGY
+131,55,20,Seattle Kraken,Calgary Flames,2022020561463,2022020561,Takeaway,463,TAKEAWAY,Takeaway by Vince Dunn,2022-12-29T04:21:13Z,2,03:52,16:08,2,1,55.0,Seattle Kraken,SEA
+132,55,20,Seattle Kraken,Calgary Flames,2022020561464,2022020561,Hit,464,HIT,Nikita Zadorov hit Vince Dunn,2022-12-29T04:21:19Z,2,03:58,16:02,2,1,20.0,Calgary Flames,CGY
+133,55,20,Seattle Kraken,Calgary Flames,2022020561246,2022020561,Shot,246,SHOT,Jordan Eberle Wrist Shot saved by Dan Vladar,2022-12-29T04:21:24Z,2,04:03,15:57,2,1,55.0,Seattle Kraken,SEA
+134,55,20,Seattle Kraken,Calgary Flames,2022020561465,2022020561,Hit,465,HIT,Nikita Zadorov hit Matty Beniers,2022-12-29T04:21:33Z,2,04:12,15:48,2,1,20.0,Calgary Flames,CGY
+135,55,20,Seattle Kraken,Calgary Flames,2022020561466,2022020561,Takeaway,466,TAKEAWAY,Takeaway by Noah Hanifin,2022-12-29T04:21:57Z,2,04:36,15:24,2,1,20.0,Calgary Flames,CGY
+136,55,20,Seattle Kraken,Calgary Flames,202202056134,2022020561,Stoppage,34,STOP,Icing,2022-12-29T04:22:49Z,2,05:28,14:32,2,1,,,
+137,55,20,Seattle Kraken,Calgary Flames,2022020561467,2022020561,Faceoff,467,FACEOFF,Yanni Gourde faceoff won against Adam Ruzicka,2022-12-29T04:23:20Z,2,05:28,14:32,2,1,55.0,Seattle Kraken,SEA
+138,55,20,Seattle Kraken,Calgary Flames,2022020561468,2022020561,Takeaway,468,TAKEAWAY,Takeaway by Daniel Sprong,2022-12-29T04:23:39Z,2,05:47,14:13,2,1,55.0,Seattle Kraken,SEA
+139,55,20,Seattle Kraken,Calgary Flames,2022020561247,2022020561,Shot,247,SHOT,Brandon Tanev Wrist Shot saved by Dan Vladar,2022-12-29T04:23:41Z,2,05:49,14:11,2,1,55.0,Seattle Kraken,SEA
+140,55,20,Seattle Kraken,Calgary Flames,2022020561469,2022020561,Hit,469,HIT,MacKenzie Weegar hit Brandon Tanev,2022-12-29T04:23:41Z,2,05:49,14:11,2,1,20.0,Calgary Flames,CGY
+141,55,20,Seattle Kraken,Calgary Flames,202202056135,2022020561,Stoppage,35,STOP,Goalie Stopped,2022-12-29T04:23:43Z,2,05:51,14:09,2,1,,,
+142,55,20,Seattle Kraken,Calgary Flames,2022020561470,2022020561,Faceoff,470,FACEOFF,Morgan Geekie faceoff won against Adam Ruzicka,2022-12-29T04:24:18Z,2,05:51,14:09,2,1,55.0,Seattle Kraken,SEA
+143,55,20,Seattle Kraken,Calgary Flames,2022020561248,2022020561,Missed Shot,248,MISSED_SHOT,Daniel Sprong Wide of Net Dan Vladar,2022-12-29T04:24:22Z,2,05:55,14:05,2,1,55.0,Seattle Kraken,SEA
+144,55,20,Seattle Kraken,Calgary Flames,2022020561249,2022020561,Shot,249,SHOT,Trevor Lewis Snap Shot saved by Philipp Grubauer,2022-12-29T04:24:51Z,2,06:24,13:36,2,1,20.0,Calgary Flames,CGY
+145,55,20,Seattle Kraken,Calgary Flames,2022020561250,2022020561,Blocked Shot,250,BLOCKED_SHOT,Jonathan Huberdeau shot blocked shot by Jaden Schwartz,2022-12-29T04:25:13Z,2,06:46,13:14,2,1,55.0,Seattle Kraken,SEA
+146,55,20,Seattle Kraken,Calgary Flames,2022020561651,2022020561,Blocked Shot,651,BLOCKED_SHOT,Alex Wennberg shot blocked shot by Rasmus Andersson,2022-12-29T04:25:40Z,2,07:13,12:47,2,1,20.0,Calgary Flames,CGY
+147,55,20,Seattle Kraken,Calgary Flames,202202056136,2022020561,Shot,36,SHOT,Alex Wennberg Backhand saved by Dan Vladar,2022-12-29T04:25:44Z,2,07:17,12:43,2,1,55.0,Seattle Kraken,SEA
+148,55,20,Seattle Kraken,Calgary Flames,2022020561471,2022020561,Hit,471,HIT,Noah Hanifin hit Jared McCann,2022-12-29T04:25:48Z,2,07:21,12:39,2,1,20.0,Calgary Flames,CGY
+149,55,20,Seattle Kraken,Calgary Flames,2022020561652,2022020561,Shot,652,SHOT,Carson Soucy Snap Shot saved by Dan Vladar,2022-12-29T04:26:00Z,2,07:33,12:27,2,1,55.0,Seattle Kraken,SEA
+150,55,20,Seattle Kraken,Calgary Flames,202202056137,2022020561,Stoppage,37,STOP,Goalie Stopped,2022-12-29T04:26:01Z,2,07:34,12:26,2,1,,,
+151,55,20,Seattle Kraken,Calgary Flames,2022020561473,2022020561,Faceoff,473,FACEOFF,Matty Beniers faceoff won against Elias Lindholm,2022-12-29T04:28:26Z,2,07:34,12:26,2,1,55.0,Seattle Kraken,SEA
+152,55,20,Seattle Kraken,Calgary Flames,2022020561653,2022020561,Missed Shot,653,MISSED_SHOT,Jared McCann Over Net Dan Vladar,2022-12-29T04:28:32Z,2,07:40,12:20,2,1,55.0,Seattle Kraken,SEA
+153,55,20,Seattle Kraken,Calgary Flames,2022020561474,2022020561,Hit,474,HIT,Dillon Dube hit Carson Soucy,2022-12-29T04:28:37Z,2,07:45,12:15,2,1,20.0,Calgary Flames,CGY
+154,55,20,Seattle Kraken,Calgary Flames,202202056138,2022020561,Stoppage,38,STOP,Puck in Netting,2022-12-29T04:28:59Z,2,08:07,11:53,2,1,,,
+155,55,20,Seattle Kraken,Calgary Flames,2022020561475,2022020561,Faceoff,475,FACEOFF,Mikael Backlund faceoff won against Yanni Gourde,2022-12-29T04:29:25Z,2,08:07,11:53,2,1,20.0,Calgary Flames,CGY
+156,55,20,Seattle Kraken,Calgary Flames,2022020561654,2022020561,Blocked Shot,654,BLOCKED_SHOT,Michael Stone shot blocked shot by Justin Schultz,2022-12-29T04:29:51Z,2,08:33,11:27,2,1,55.0,Seattle Kraken,SEA
+157,55,20,Seattle Kraken,Calgary Flames,2022020561655,2022020561,Shot,655,SHOT,Rasmus Andersson Wrist Shot saved by Philipp Grubauer,2022-12-29T04:30:44Z,2,09:26,10:34,2,1,20.0,Calgary Flames,CGY
+158,55,20,Seattle Kraken,Calgary Flames,2022020561855,2022020561,Penalty,855,PENALTY,Carson Soucy High-sticking against Adam Ruzicka,2022-12-29T04:30:45Z,2,09:27,10:33,2,1,55.0,Seattle Kraken,SEA
+159,55,20,Seattle Kraken,Calgary Flames,2022020561476,2022020561,Faceoff,476,FACEOFF,Nazem Kadri faceoff won against Morgan Geekie,2022-12-29T04:31:27Z,2,09:27,10:33,2,1,20.0,Calgary Flames,CGY
+160,55,20,Seattle Kraken,Calgary Flames,2022020561656,2022020561,Shot,656,SHOT,Jonathan Huberdeau Wrist Shot saved by Philipp Grubauer,2022-12-29T04:31:32Z,2,09:32,10:28,2,1,20.0,Calgary Flames,CGY
+161,55,20,Seattle Kraken,Calgary Flames,202202056142,2022020561,Stoppage,42,STOP,Goalie Stopped,2022-12-29T04:31:33Z,2,09:33,10:27,2,1,,,
+162,55,20,Seattle Kraken,Calgary Flames,2022020561477,2022020561,Faceoff,477,FACEOFF,Nazem Kadri faceoff won against Morgan Geekie,2022-12-29T04:32:00Z,2,09:33,10:27,2,1,20.0,Calgary Flames,CGY
+163,55,20,Seattle Kraken,Calgary Flames,2022020561657,2022020561,Goal,657,GOAL,"Nazem Kadri (14) Tip-In, assists: Elias Lindholm (22), Rasmus Andersson (20)",2022-12-29T04:32:06Z,2,09:39,10:21,2,2,20.0,Calgary Flames,CGY
+164,55,20,Seattle Kraken,Calgary Flames,2022020561478,2022020561,Faceoff,478,FACEOFF,Mikael Backlund faceoff won against Yanni Gourde,2022-12-29T04:32:59Z,2,09:39,10:21,2,2,20.0,Calgary Flames,CGY
+165,55,20,Seattle Kraken,Calgary Flames,2022020561658,2022020561,Blocked Shot,658,BLOCKED_SHOT,Rasmus Andersson shot blocked shot by Justin Schultz,2022-12-29T04:33:21Z,2,10:01,09:59,2,2,55.0,Seattle Kraken,SEA
+166,55,20,Seattle Kraken,Calgary Flames,202202056143,2022020561,Stoppage,43,STOP,Icing,2022-12-29T04:33:48Z,2,10:28,09:32,2,2,,,
+167,55,20,Seattle Kraken,Calgary Flames,2022020561479,2022020561,Faceoff,479,FACEOFF,Yanni Gourde faceoff won against Trevor Lewis,2022-12-29T04:34:17Z,2,10:28,09:32,2,2,55.0,Seattle Kraken,SEA
+168,55,20,Seattle Kraken,Calgary Flames,2022020561659,2022020561,Missed Shot,659,MISSED_SHOT,Adam Ruzicka Wide of Net Philipp Grubauer,2022-12-29T04:34:29Z,2,10:40,09:20,2,2,20.0,Calgary Flames,CGY
+169,55,20,Seattle Kraken,Calgary Flames,202202056144,2022020561,Stoppage,44,STOP,Icing,2022-12-29T04:35:13Z,2,11:24,08:36,2,2,,,
+170,55,20,Seattle Kraken,Calgary Flames,2022020561480,2022020561,Faceoff,480,FACEOFF,Matty Beniers faceoff won against Elias Lindholm,2022-12-29T04:35:40Z,2,11:24,08:36,2,2,55.0,Seattle Kraken,SEA
+171,55,20,Seattle Kraken,Calgary Flames,2022020561660,2022020561,Missed Shot,660,MISSED_SHOT,Tyler Toffoli Wide of Net Philipp Grubauer,2022-12-29T04:35:52Z,2,11:36,08:24,2,2,20.0,Calgary Flames,CGY
+172,55,20,Seattle Kraken,Calgary Flames,202202056145,2022020561,Stoppage,45,STOP,Puck in Crowd,2022-12-29T04:36:01Z,2,11:45,08:15,2,2,,,
+173,55,20,Seattle Kraken,Calgary Flames,2022020561481,2022020561,Faceoff,481,FACEOFF,Elias Lindholm faceoff won against Alex Wennberg,2022-12-29T04:38:28Z,2,11:45,08:15,2,2,20.0,Calgary Flames,CGY
+174,55,20,Seattle Kraken,Calgary Flames,2022020561482,2022020561,Giveaway,482,GIVEAWAY,Giveaway by Andre Burakovsky,2022-12-29T04:39:09Z,2,12:26,07:34,2,2,55.0,Seattle Kraken,SEA
+175,55,20,Seattle Kraken,Calgary Flames,2022020561483,2022020561,Giveaway,483,GIVEAWAY,Giveaway by Nikita Zadorov,2022-12-29T04:39:13Z,2,12:30,07:30,2,2,20.0,Calgary Flames,CGY
+176,55,20,Seattle Kraken,Calgary Flames,2022020561661,2022020561,Missed Shot,661,MISSED_SHOT,Noah Hanifin Wide of Net Philipp Grubauer,2022-12-29T04:40:03Z,2,13:20,06:40,2,2,20.0,Calgary Flames,CGY
+177,55,20,Seattle Kraken,Calgary Flames,202202056146,2022020561,Shot,46,SHOT,Milan Lucic Backhand saved by Philipp Grubauer,2022-12-29T04:40:04Z,2,13:21,06:39,2,2,20.0,Calgary Flames,CGY
+178,55,20,Seattle Kraken,Calgary Flames,2022020561662,2022020561,Blocked Shot,662,BLOCKED_SHOT,Jordan Eberle shot blocked shot by Noah Hanifin,2022-12-29T04:40:25Z,2,13:42,06:18,2,2,20.0,Calgary Flames,CGY
+179,55,20,Seattle Kraken,Calgary Flames,2022020561484,2022020561,Hit,484,HIT,Andrew Mangiapane hit Jared McCann,2022-12-29T04:40:28Z,2,13:45,06:15,2,2,20.0,Calgary Flames,CGY
+180,55,20,Seattle Kraken,Calgary Flames,2022020561554,2022020561,Shot,554,SHOT,Jordan Eberle Wrist Shot saved by Dan Vladar,2022-12-29T04:40:31Z,2,13:48,06:12,2,2,55.0,Seattle Kraken,SEA
+181,55,20,Seattle Kraken,Calgary Flames,2022020561663,2022020561,Blocked Shot,663,BLOCKED_SHOT,Mikael Backlund shot blocked shot by Matty Beniers,2022-12-29T04:40:47Z,2,14:04,05:56,2,2,55.0,Seattle Kraken,SEA
+182,55,20,Seattle Kraken,Calgary Flames,2022020561664,2022020561,Shot,664,SHOT,Adam Ruzicka Wrist Shot saved by Philipp Grubauer,2022-12-29T04:41:17Z,2,14:34,05:26,2,2,20.0,Calgary Flames,CGY
+183,55,20,Seattle Kraken,Calgary Flames,2022020561485,2022020561,Hit,485,HIT,Jamie Oleksiak hit Brett Ritchie,2022-12-29T04:41:22Z,2,14:39,05:21,2,2,55.0,Seattle Kraken,SEA
+184,55,20,Seattle Kraken,Calgary Flames,2022020561665,2022020561,Shot,665,SHOT,Matty Beniers Wrist Shot saved by Dan Vladar,2022-12-29T04:41:29Z,2,14:46,05:14,2,2,55.0,Seattle Kraken,SEA
+185,55,20,Seattle Kraken,Calgary Flames,202202056147,2022020561,Stoppage,47,STOP,TV timeout,2022-12-29T04:41:33Z,2,14:50,05:10,2,2,,,
+186,55,20,Seattle Kraken,Calgary Flames,2022020561960,2022020561,Penalty,960,PENALTY,Too many men/ice served by Daniel Sprong,2022-12-29T04:41:33Z,2,14:50,05:10,2,2,55.0,Seattle Kraken,SEA
+187,55,20,Seattle Kraken,Calgary Flames,2022020561486,2022020561,Faceoff,486,FACEOFF,Morgan Geekie faceoff won against Nazem Kadri,2022-12-29T04:44:07Z,2,14:50,05:10,2,2,55.0,Seattle Kraken,SEA
+188,55,20,Seattle Kraken,Calgary Flames,2022020561666,2022020561,Shot,666,SHOT,Tyler Toffoli Tip-In saved by Philipp Grubauer,2022-12-29T04:44:31Z,2,15:14,04:46,2,2,20.0,Calgary Flames,CGY
+189,55,20,Seattle Kraken,Calgary Flames,2022020561667,2022020561,Shot,667,SHOT,Elias Lindholm Tip-In saved by Philipp Grubauer,2022-12-29T04:44:58Z,2,15:41,04:19,2,2,20.0,Calgary Flames,CGY
+190,55,20,Seattle Kraken,Calgary Flames,202202056148,2022020561,Stoppage,48,STOP,Goalie Stopped,2022-12-29T04:44:58Z,2,15:42,04:18,2,2,,,
+191,55,20,Seattle Kraken,Calgary Flames,2022020561487,2022020561,Faceoff,487,FACEOFF,Nazem Kadri faceoff won against Alex Wennberg,2022-12-29T04:45:23Z,2,15:42,04:18,2,2,20.0,Calgary Flames,CGY
+192,55,20,Seattle Kraken,Calgary Flames,2022020561668,2022020561,Missed Shot,668,MISSED_SHOT,Elias Lindholm Over Net Philipp Grubauer,2022-12-29T04:45:48Z,2,16:07,03:53,2,2,20.0,Calgary Flames,CGY
+193,55,20,Seattle Kraken,Calgary Flames,2022020561669,2022020561,Shot,669,SHOT,Rasmus Andersson Slap Shot saved by Philipp Grubauer,2022-12-29T04:46:05Z,2,16:24,03:36,2,2,20.0,Calgary Flames,CGY
+194,55,20,Seattle Kraken,Calgary Flames,202202056149,2022020561,Stoppage,49,STOP,Puck in Netting,2022-12-29T04:46:09Z,2,16:28,03:32,2,2,,,
+195,55,20,Seattle Kraken,Calgary Flames,2022020561488,2022020561,Faceoff,488,FACEOFF,Mikael Backlund faceoff won against Matty Beniers,2022-12-29T04:46:40Z,2,16:28,03:32,2,2,20.0,Calgary Flames,CGY
+196,55,20,Seattle Kraken,Calgary Flames,2022020561670,2022020561,Shot,670,SHOT,MacKenzie Weegar Snap Shot saved by Philipp Grubauer,2022-12-29T04:46:45Z,2,16:33,03:27,2,2,20.0,Calgary Flames,CGY
+197,55,20,Seattle Kraken,Calgary Flames,2022020561489,2022020561,Hit,489,HIT,Adam Larsson hit MacKenzie Weegar,2022-12-29T04:46:48Z,2,16:36,03:24,2,2,55.0,Seattle Kraken,SEA
+198,55,20,Seattle Kraken,Calgary Flames,2022020561490,2022020561,Hit,490,HIT,Jamie Oleksiak hit Dillon Dube,2022-12-29T04:46:54Z,2,16:42,03:18,2,2,55.0,Seattle Kraken,SEA
+199,55,20,Seattle Kraken,Calgary Flames,2022020561671,2022020561,Blocked Shot,671,BLOCKED_SHOT,MacKenzie Weegar shot blocked shot by Adam Larsson,2022-12-29T04:46:55Z,2,16:43,03:17,2,2,55.0,Seattle Kraken,SEA
+200,55,20,Seattle Kraken,Calgary Flames,2022020561672,2022020561,Shot,672,SHOT,Andrew Mangiapane Wrist Shot saved by Philipp Grubauer,2022-12-29T04:47:06Z,2,16:54,03:06,2,2,20.0,Calgary Flames,CGY
+201,55,20,Seattle Kraken,Calgary Flames,202202056150,2022020561,Stoppage,50,STOP,Goalie Stopped,2022-12-29T04:47:07Z,2,16:55,03:05,2,2,,,
+202,55,20,Seattle Kraken,Calgary Flames,2022020561491,2022020561,Faceoff,491,FACEOFF,Alex Wennberg faceoff won against Adam Ruzicka,2022-12-29T04:47:46Z,2,16:55,03:05,2,2,55.0,Seattle Kraken,SEA
+203,55,20,Seattle Kraken,Calgary Flames,2022020561701,2022020561,Stoppage,701,STOP,Icing,2022-12-29T04:47:52Z,2,17:01,02:59,2,2,,,
+204,55,20,Seattle Kraken,Calgary Flames,2022020561492,2022020561,Faceoff,492,FACEOFF,Adam Ruzicka faceoff won against Alex Wennberg,2022-12-29T04:48:14Z,2,17:01,02:59,2,2,20.0,Calgary Flames,CGY
+205,55,20,Seattle Kraken,Calgary Flames,2022020561673,2022020561,Shot,673,SHOT,Noah Hanifin Slap Shot saved by Philipp Grubauer,2022-12-29T04:48:16Z,2,17:03,02:57,2,2,20.0,Calgary Flames,CGY
+206,55,20,Seattle Kraken,Calgary Flames,2022020561702,2022020561,Stoppage,702,STOP,Goalie Stopped,2022-12-29T04:48:17Z,2,17:04,02:56,2,2,,,
+207,55,20,Seattle Kraken,Calgary Flames,2022020561493,2022020561,Faceoff,493,FACEOFF,Adam Ruzicka faceoff won against Morgan Geekie,2022-12-29T04:48:41Z,2,17:04,02:56,2,2,20.0,Calgary Flames,CGY
+208,55,20,Seattle Kraken,Calgary Flames,2022020561703,2022020561,Hit,703,HIT,Trevor Lewis hit Vince Dunn,2022-12-29T04:48:55Z,2,17:18,02:42,2,2,20.0,Calgary Flames,CGY
+209,55,20,Seattle Kraken,Calgary Flames,2022020561704,2022020561,Stoppage,704,STOP,Puck Frozen,2022-12-29T04:48:59Z,2,17:22,02:38,2,2,,,
+210,55,20,Seattle Kraken,Calgary Flames,2022020561494,2022020561,Faceoff,494,FACEOFF,Alex Wennberg faceoff won against Trevor Lewis,2022-12-29T04:49:33Z,2,17:22,02:38,2,2,55.0,Seattle Kraken,SEA
+211,55,20,Seattle Kraken,Calgary Flames,2022020561495,2022020561,Giveaway,495,GIVEAWAY,Giveaway by Andre Burakovsky,2022-12-29T04:49:40Z,2,17:29,02:31,2,2,55.0,Seattle Kraken,SEA
+212,55,20,Seattle Kraken,Calgary Flames,2022020561496,2022020561,Giveaway,496,GIVEAWAY,Giveaway by Andre Burakovsky,2022-12-29T04:49:50Z,2,17:39,02:21,2,2,55.0,Seattle Kraken,SEA
+213,55,20,Seattle Kraken,Calgary Flames,2022020561674,2022020561,Shot,674,SHOT,Blake Coleman Snap Shot saved by Philipp Grubauer,2022-12-29T04:50:00Z,2,17:49,02:11,2,2,20.0,Calgary Flames,CGY
+214,55,20,Seattle Kraken,Calgary Flames,2022020561705,2022020561,Stoppage,705,STOP,Objects on Ice,2022-12-29T04:50:39Z,2,18:28,01:32,2,2,,,
+215,55,20,Seattle Kraken,Calgary Flames,2022020561497,2022020561,Faceoff,497,FACEOFF,Matty Beniers faceoff won against Elias Lindholm,2022-12-29T04:51:28Z,2,18:28,01:32,2,2,55.0,Seattle Kraken,SEA
+216,55,20,Seattle Kraken,Calgary Flames,2022020561675,2022020561,Shot,675,SHOT,Vince Dunn Slap Shot saved by Dan Vladar,2022-12-29T04:51:54Z,2,18:54,01:06,2,2,55.0,Seattle Kraken,SEA
+217,55,20,Seattle Kraken,Calgary Flames,2022020561676,2022020561,Shot,676,SHOT,Vince Dunn Wrist Shot saved by Dan Vladar,2022-12-29T04:52:10Z,2,19:10,00:50,2,2,55.0,Seattle Kraken,SEA
+218,55,20,Seattle Kraken,Calgary Flames,2022020561498,2022020561,Giveaway,498,GIVEAWAY,Giveaway by Jordan Eberle,2022-12-29T04:52:28Z,2,19:28,00:32,2,2,55.0,Seattle Kraken,SEA
+219,55,20,Seattle Kraken,Calgary Flames,2022020561499,2022020561,Hit,499,HIT,Vince Dunn hit Nazem Kadri,2022-12-29T04:52:44Z,2,19:44,00:16,2,2,55.0,Seattle Kraken,SEA
+220,55,20,Seattle Kraken,Calgary Flames,2022020561677,2022020561,Blocked Shot,677,BLOCKED_SHOT,Morgan Geekie shot blocked shot by Noah Hanifin,2022-12-29T04:52:49Z,2,19:48,00:12,2,2,20.0,Calgary Flames,CGY
+221,55,20,Seattle Kraken,Calgary Flames,2022020561706,2022020561,Stoppage,706,STOP,Puck in Netting,2022-12-29T04:52:49Z,2,19:48,00:12,2,2,,,
+222,55,20,Seattle Kraken,Calgary Flames,2022020561500,2022020561,Faceoff,500,FACEOFF,Elias Lindholm faceoff won against Alex Wennberg,2022-12-29T04:53:23Z,2,19:48,00:12,2,2,20.0,Calgary Flames,CGY
+223,55,20,Seattle Kraken,Calgary Flames,2022020561707,2022020561,Period End,707,PERIOD_END,End of 2nd Period,2022-12-29T04:53:34Z,2,20:00,00:00,2,2,,,
+224,55,20,Seattle Kraken,Calgary Flames,2022020561710,2022020561,Period Official,710,PERIOD_OFFICIAL,Period Official,2022-12-29T05:09:38Z,2,20:00,00:00,2,2,,,
+225,55,20,Seattle Kraken,Calgary Flames,2022020561711,2022020561,Period Ready,711,PERIOD_READY,Period Ready,2022-12-29T05:10:09Z,3,00:00,20:00,2,2,,,
+226,55,20,Seattle Kraken,Calgary Flames,2022020561901,2022020561,Period Start,901,PERIOD_START,Period Start,2022-12-29T05:12:34Z,3,00:00,20:00,2,2,,,
+227,55,20,Seattle Kraken,Calgary Flames,2022020561902,2022020561,Faceoff,902,FACEOFF,Elias Lindholm faceoff won against Alex Wennberg,2022-12-29T05:12:34Z,3,00:00,20:00,2,2,20.0,Calgary Flames,CGY
+228,55,20,Seattle Kraken,Calgary Flames,2022020561678,2022020561,Missed Shot,678,MISSED_SHOT,Chris Tanev Wide of Net Philipp Grubauer,2022-12-29T05:13:34Z,3,01:00,19:00,2,2,20.0,Calgary Flames,CGY
+229,55,20,Seattle Kraken,Calgary Flames,2022020561679,2022020561,Shot,679,SHOT,Blake Coleman Wrist Shot saved by Philipp Grubauer,2022-12-29T05:13:42Z,3,01:08,18:52,2,2,20.0,Calgary Flames,CGY
+230,55,20,Seattle Kraken,Calgary Flames,2022020561712,2022020561,Stoppage,712,STOP,Goalie Stopped,2022-12-29T05:13:43Z,3,01:09,18:51,2,2,,,
+231,55,20,Seattle Kraken,Calgary Flames,2022020561903,2022020561,Faceoff,903,FACEOFF,Nazem Kadri faceoff won against Matty Beniers,2022-12-29T05:14:08Z,3,01:09,18:51,2,2,20.0,Calgary Flames,CGY
+232,55,20,Seattle Kraken,Calgary Flames,2022020561680,2022020561,Missed Shot,680,MISSED_SHOT,MacKenzie Weegar Wide of Net Philipp Grubauer,2022-12-29T05:14:12Z,3,01:13,18:47,2,2,20.0,Calgary Flames,CGY
+233,55,20,Seattle Kraken,Calgary Flames,2022020561713,2022020561,Stoppage,713,STOP,Puck Frozen,2022-12-29T05:14:12Z,3,01:13,18:47,2,2,,,
+234,55,20,Seattle Kraken,Calgary Flames,2022020561904,2022020561,Faceoff,904,FACEOFF,Matty Beniers faceoff won against Nazem Kadri,2022-12-29T05:14:31Z,3,01:13,18:47,2,2,55.0,Seattle Kraken,SEA
+235,55,20,Seattle Kraken,Calgary Flames,2022020561681,2022020561,Shot,681,SHOT,Jonathan Huberdeau Wrist Shot saved by Philipp Grubauer,2022-12-29T05:14:51Z,3,01:33,18:27,2,2,20.0,Calgary Flames,CGY
+236,55,20,Seattle Kraken,Calgary Flames,2022020561714,2022020561,Stoppage,714,STOP,Icing,2022-12-29T05:15:27Z,3,02:09,17:51,2,2,,,
+237,55,20,Seattle Kraken,Calgary Flames,2022020561905,2022020561,Faceoff,905,FACEOFF,Yanni Gourde faceoff won against Adam Ruzicka,2022-12-29T05:15:57Z,3,02:09,17:51,2,2,55.0,Seattle Kraken,SEA
+238,55,20,Seattle Kraken,Calgary Flames,2022020561906,2022020561,Hit,906,HIT,Michael Stone hit Yanni Gourde,2022-12-29T05:16:06Z,3,02:18,17:42,2,2,20.0,Calgary Flames,CGY
+239,55,20,Seattle Kraken,Calgary Flames,2022020561715,2022020561,Stoppage,715,STOP,Puck in Netting,2022-12-29T05:16:12Z,3,02:24,17:36,2,2,,,
+240,55,20,Seattle Kraken,Calgary Flames,2022020561907,2022020561,Faceoff,907,FACEOFF,Elias Lindholm faceoff won against Andre Burakovsky,2022-12-29T05:16:49Z,3,02:24,17:36,2,2,20.0,Calgary Flames,CGY
+241,55,20,Seattle Kraken,Calgary Flames,2022020561682,2022020561,Shot,682,SHOT,Adam Larsson Wrist Shot saved by Dan Vladar,2022-12-29T05:17:20Z,3,02:55,17:05,2,2,55.0,Seattle Kraken,SEA
+242,55,20,Seattle Kraken,Calgary Flames,2022020561716,2022020561,Missed Shot,716,MISSED_SHOT,Alex Wennberg Wide of Net Dan Vladar,2022-12-29T05:17:27Z,3,03:02,16:58,2,2,55.0,Seattle Kraken,SEA
+243,55,20,Seattle Kraken,Calgary Flames,2022020561908,2022020561,Hit,908,HIT,Vince Dunn hit Dillon Dube,2022-12-29T05:17:33Z,3,03:08,16:52,2,2,55.0,Seattle Kraken,SEA
+244,55,20,Seattle Kraken,Calgary Flames,2022020561909,2022020561,Takeaway,909,TAKEAWAY,Takeaway by Andrew Mangiapane,2022-12-29T05:18:19Z,3,03:54,16:06,2,2,20.0,Calgary Flames,CGY
+245,55,20,Seattle Kraken,Calgary Flames,2022020561683,2022020561,Shot,683,SHOT,Nikita Zadorov Wrist Shot saved by Philipp Grubauer,2022-12-29T05:18:25Z,3,04:00,16:00,2,2,20.0,Calgary Flames,CGY
+246,55,20,Seattle Kraken,Calgary Flames,2022020561684,2022020561,Shot,684,SHOT,Trevor Lewis Wrist Shot saved by Philipp Grubauer,2022-12-29T05:19:13Z,3,04:48,15:12,2,2,20.0,Calgary Flames,CGY
+247,55,20,Seattle Kraken,Calgary Flames,2022020561717,2022020561,Missed Shot,717,MISSED_SHOT,Brett Ritchie Wide of Net Philipp Grubauer,2022-12-29T05:19:15Z,3,04:50,15:10,2,2,20.0,Calgary Flames,CGY
+248,55,20,Seattle Kraken,Calgary Flames,2022020561685,2022020561,Blocked Shot,685,BLOCKED_SHOT,Jordan Eberle shot blocked shot by Noah Hanifin,2022-12-29T05:19:23Z,3,04:58,15:02,2,2,20.0,Calgary Flames,CGY
+249,55,20,Seattle Kraken,Calgary Flames,2022020561910,2022020561,Hit,910,HIT,Trevor Lewis hit Matty Beniers,2022-12-29T05:19:29Z,3,05:04,14:56,2,2,20.0,Calgary Flames,CGY
+250,55,20,Seattle Kraken,Calgary Flames,2022020561718,2022020561,Missed Shot,718,MISSED_SHOT,Justin Schultz Wide of Net Dan Vladar,2022-12-29T05:19:36Z,3,05:11,14:49,2,2,55.0,Seattle Kraken,SEA
+251,55,20,Seattle Kraken,Calgary Flames,2022020561686,2022020561,Shot,686,SHOT,Ryan Donato Wrist Shot saved by Dan Vladar,2022-12-29T05:20:07Z,3,05:42,14:18,2,2,55.0,Seattle Kraken,SEA
+252,55,20,Seattle Kraken,Calgary Flames,2022020561911,2022020561,Hit,911,HIT,Chris Tanev hit Yanni Gourde,2022-12-29T05:20:12Z,3,05:47,14:13,2,2,20.0,Calgary Flames,CGY
+253,55,20,Seattle Kraken,Calgary Flames,2022020561912,2022020561,Hit,912,HIT,Adam Larsson hit Mikael Backlund,2022-12-29T05:20:55Z,3,06:30,13:30,2,2,55.0,Seattle Kraken,SEA
+254,55,20,Seattle Kraken,Calgary Flames,2022020561687,2022020561,Blocked Shot,687,BLOCKED_SHOT,Andre Burakovsky shot blocked shot by Nikita Zadorov,2022-12-29T05:21:09Z,3,06:44,13:16,2,2,20.0,Calgary Flames,CGY
+255,55,20,Seattle Kraken,Calgary Flames,2022020561913,2022020561,Takeaway,913,TAKEAWAY,Takeaway by Alex Wennberg,2022-12-29T05:21:32Z,3,07:07,12:53,2,2,55.0,Seattle Kraken,SEA
+256,55,20,Seattle Kraken,Calgary Flames,2022020561688,2022020561,Shot,688,SHOT,Nazem Kadri Slap Shot saved by Philipp Grubauer,2022-12-29T05:22:02Z,3,07:37,12:23,2,2,20.0,Calgary Flames,CGY
+257,55,20,Seattle Kraken,Calgary Flames,2022020561719,2022020561,Shot,719,SHOT,Milan Lucic Wrist Shot saved by Philipp Grubauer,2022-12-29T05:22:03Z,3,07:38,12:22,2,2,20.0,Calgary Flames,CGY
+258,55,20,Seattle Kraken,Calgary Flames,2022020561720,2022020561,Stoppage,720,STOP,Goalie Stopped,2022-12-29T05:22:03Z,3,07:39,12:21,2,2,,,
+259,55,20,Seattle Kraken,Calgary Flames,2022020561914,2022020561,Faceoff,914,FACEOFF,Morgan Geekie faceoff won against Adam Ruzicka,2022-12-29T05:24:38Z,3,07:39,12:21,2,2,55.0,Seattle Kraken,SEA
+260,55,20,Seattle Kraken,Calgary Flames,2022020561689,2022020561,Missed Shot,689,MISSED_SHOT,Daniel Sprong Over Net Dan Vladar,2022-12-29T05:25:07Z,3,08:08,11:52,2,2,55.0,Seattle Kraken,SEA
+261,55,20,Seattle Kraken,Calgary Flames,2022020561721,2022020561,Stoppage,721,STOP,Icing,2022-12-29T05:25:23Z,3,08:24,11:36,2,2,,,
+262,55,20,Seattle Kraken,Calgary Flames,2022020561916,2022020561,Faceoff,916,FACEOFF,Adam Ruzicka faceoff won against Alex Wennberg,2022-12-29T05:27:43Z,3,08:24,11:36,2,2,20.0,Calgary Flames,CGY
+263,55,20,Seattle Kraken,Calgary Flames,2022020561917,2022020561,Takeaway,917,TAKEAWAY,Takeaway by Rasmus Andersson,2022-12-29T05:28:04Z,3,08:45,11:15,2,2,20.0,Calgary Flames,CGY
+264,55,20,Seattle Kraken,Calgary Flames,2022020561722,2022020561,Stoppage,722,STOP,Offside,2022-12-29T05:28:29Z,3,09:10,10:50,2,2,,,
+265,55,20,Seattle Kraken,Calgary Flames,2022020561918,2022020561,Faceoff,918,FACEOFF,Mikael Backlund faceoff won against Yanni Gourde,2022-12-29T05:28:55Z,3,09:10,10:50,2,2,20.0,Calgary Flames,CGY
+266,55,20,Seattle Kraken,Calgary Flames,2022020561690,2022020561,Missed Shot,690,MISSED_SHOT,Blake Coleman Wide of Net Philipp Grubauer,2022-12-29T05:29:12Z,3,09:27,10:33,2,2,20.0,Calgary Flames,CGY
+267,55,20,Seattle Kraken,Calgary Flames,20220205611140,2022020561,Penalty,1140,PENALTY,Oliver Bjorkstrand Slashing against Blake Coleman,2022-12-29T05:29:29Z,3,09:44,10:16,2,2,55.0,Seattle Kraken,SEA
+268,55,20,Seattle Kraken,Calgary Flames,2022020561919,2022020561,Faceoff,919,FACEOFF,Elias Lindholm faceoff won against Morgan Geekie,2022-12-29T05:30:30Z,3,09:44,10:16,2,2,20.0,Calgary Flames,CGY
+269,55,20,Seattle Kraken,Calgary Flames,2022020561920,2022020561,Hit,920,HIT,Brandon Tanev hit Jonathan Huberdeau,2022-12-29T05:30:40Z,3,09:54,10:06,2,2,55.0,Seattle Kraken,SEA
+270,55,20,Seattle Kraken,Calgary Flames,2022020561691,2022020561,Shot,691,SHOT,Rasmus Andersson Slap Shot saved by Philipp Grubauer,2022-12-29T05:30:44Z,3,09:58,10:02,2,2,20.0,Calgary Flames,CGY
+271,55,20,Seattle Kraken,Calgary Flames,2022020561692,2022020561,Shot,692,SHOT,Nazem Kadri Tip-In saved by Philipp Grubauer,2022-12-29T05:31:01Z,3,10:16,09:44,2,2,20.0,Calgary Flames,CGY
+272,55,20,Seattle Kraken,Calgary Flames,2022020561724,2022020561,Stoppage,724,STOP,Goalie Stopped,2022-12-29T05:31:01Z,3,10:16,09:44,2,2,,,
+273,55,20,Seattle Kraken,Calgary Flames,2022020561921,2022020561,Faceoff,921,FACEOFF,Alex Wennberg faceoff won against Mikael Backlund,2022-12-29T05:31:25Z,3,10:16,09:44,2,2,55.0,Seattle Kraken,SEA
+274,55,20,Seattle Kraken,Calgary Flames,2022020561693,2022020561,Missed Shot,693,MISSED_SHOT,Adam Ruzicka Wide of Net Philipp Grubauer,2022-12-29T05:31:54Z,3,10:45,09:15,2,2,20.0,Calgary Flames,CGY
+275,55,20,Seattle Kraken,Calgary Flames,2022020561725,2022020561,Shot,725,SHOT,Andrew Mangiapane Wrist Shot saved by Philipp Grubauer,2022-12-29T05:32:01Z,3,10:52,09:08,2,2,20.0,Calgary Flames,CGY
+276,55,20,Seattle Kraken,Calgary Flames,2022020561922,2022020561,Hit,922,HIT,Yanni Gourde hit Noah Hanifin,2022-12-29T05:32:11Z,3,11:02,08:58,2,2,55.0,Seattle Kraken,SEA
+277,55,20,Seattle Kraken,Calgary Flames,2022020561694,2022020561,Blocked Shot,694,BLOCKED_SHOT,Rasmus Andersson shot blocked shot by Brandon Tanev,2022-12-29T05:32:43Z,3,11:34,08:26,2,2,55.0,Seattle Kraken,SEA
+278,55,20,Seattle Kraken,Calgary Flames,2022020561726,2022020561,Stoppage,726,STOP,Puck Frozen,2022-12-29T05:32:43Z,3,11:34,08:26,2,2,,,
+279,55,20,Seattle Kraken,Calgary Flames,2022020561923,2022020561,Faceoff,923,FACEOFF,Nazem Kadri faceoff won against Matty Beniers,2022-12-29T05:33:13Z,3,11:34,08:26,2,2,20.0,Calgary Flames,CGY
+280,55,20,Seattle Kraken,Calgary Flames,2022020561727,2022020561,Shot,727,SHOT,Rasmus Andersson Slap Shot saved by Philipp Grubauer,2022-12-29T05:33:17Z,3,11:38,08:22,2,2,20.0,Calgary Flames,CGY
+281,55,20,Seattle Kraken,Calgary Flames,2022020561728,2022020561,Goal,728,GOAL,"Jonathan Huberdeau (7) Wrist Shot, assists: Rasmus Andersson (21), Nazem Kadri (14)",2022-12-29T05:33:40Z,3,12:00,08:00,2,3,20.0,Calgary Flames,CGY
+282,55,20,Seattle Kraken,Calgary Flames,2022020561924,2022020561,Faceoff,924,FACEOFF,Elias Lindholm faceoff won against Matty Beniers,2022-12-29T05:34:20Z,3,12:00,08:00,2,3,20.0,Calgary Flames,CGY
+283,55,20,Seattle Kraken,Calgary Flames,2022020561925,2022020561,Hit,925,HIT,Adam Larsson hit Dillon Dube,2022-12-29T05:34:29Z,3,12:09,07:51,2,3,55.0,Seattle Kraken,SEA
+284,55,20,Seattle Kraken,Calgary Flames,2022020561926,2022020561,Hit,926,HIT,Jared McCann hit Dillon Dube,2022-12-29T05:34:52Z,3,12:32,07:28,2,3,55.0,Seattle Kraken,SEA
+285,55,20,Seattle Kraken,Calgary Flames,2022020561696,2022020561,Shot,696,SHOT,Carson Soucy Wrist Shot saved by Dan Vladar,2022-12-29T05:35:41Z,3,13:21,06:39,2,3,55.0,Seattle Kraken,SEA
+286,55,20,Seattle Kraken,Calgary Flames,2022020561927,2022020561,Giveaway,927,GIVEAWAY,Giveaway by Jaden Schwartz,2022-12-29T05:35:46Z,3,13:26,06:34,2,3,55.0,Seattle Kraken,SEA
+287,55,20,Seattle Kraken,Calgary Flames,2022020561928,2022020561,Hit,928,HIT,Andrew Mangiapane hit Will Borgen,2022-12-29T05:35:59Z,3,13:39,06:21,2,3,20.0,Calgary Flames,CGY
+288,55,20,Seattle Kraken,Calgary Flames,2022020561697,2022020561,Shot,697,SHOT,Blake Coleman Wrist Shot saved by Philipp Grubauer,2022-12-29T05:36:00Z,3,13:40,06:20,2,3,20.0,Calgary Flames,CGY
+289,55,20,Seattle Kraken,Calgary Flames,2022020561729,2022020561,Stoppage,729,STOP,Goalie Stopped,2022-12-29T05:36:01Z,3,13:41,06:19,2,3,,,
+290,55,20,Seattle Kraken,Calgary Flames,2022020561929,2022020561,Faceoff,929,FACEOFF,Nazem Kadri faceoff won against Yanni Gourde,2022-12-29T05:38:27Z,3,13:41,06:19,2,3,20.0,Calgary Flames,CGY
+291,55,20,Seattle Kraken,Calgary Flames,2022020561930,2022020561,Takeaway,930,TAKEAWAY,Takeaway by Milan Lucic,2022-12-29T05:38:45Z,3,13:59,06:01,2,3,20.0,Calgary Flames,CGY
+292,55,20,Seattle Kraken,Calgary Flames,2022020561698,2022020561,Blocked Shot,698,BLOCKED_SHOT,Chris Tanev shot blocked shot by Carson Soucy,2022-12-29T05:38:57Z,3,14:11,05:49,2,3,55.0,Seattle Kraken,SEA
+293,55,20,Seattle Kraken,Calgary Flames,2022020561730,2022020561,Missed Shot,730,MISSED_SHOT,Nazem Kadri Goalpost Philipp Grubauer,2022-12-29T05:39:02Z,3,14:16,05:44,2,3,20.0,Calgary Flames,CGY
+294,55,20,Seattle Kraken,Calgary Flames,2022020561731,2022020561,Stoppage,731,STOP,Offside,2022-12-29T05:39:57Z,3,15:11,04:49,2,3,,,
+295,55,20,Seattle Kraken,Calgary Flames,2022020561931,2022020561,Faceoff,931,FACEOFF,Alex Wennberg faceoff won against Elias Lindholm,2022-12-29T05:42:17Z,3,15:11,04:49,2,3,55.0,Seattle Kraken,SEA
+296,55,20,Seattle Kraken,Calgary Flames,2022020561932,2022020561,Takeaway,932,TAKEAWAY,Takeaway by Vince Dunn,2022-12-29T05:42:45Z,3,15:39,04:21,2,3,55.0,Seattle Kraken,SEA
+297,55,20,Seattle Kraken,Calgary Flames,2022020561699,2022020561,Shot,699,SHOT,Andrew Mangiapane Wrist Shot saved by Philipp Grubauer,2022-12-29T05:42:58Z,3,15:52,04:08,2,3,20.0,Calgary Flames,CGY
+298,55,20,Seattle Kraken,Calgary Flames,2022020561700,2022020561,Missed Shot,700,MISSED_SHOT,Daniel Sprong Wide of Net Dan Vladar,2022-12-29T05:43:23Z,3,16:17,03:43,2,3,55.0,Seattle Kraken,SEA
+299,55,20,Seattle Kraken,Calgary Flames,20220205611001,2022020561,Shot,1001,SHOT,Jordan Eberle Wrist Shot saved by Dan Vladar,2022-12-29T05:43:40Z,3,16:34,03:26,2,3,55.0,Seattle Kraken,SEA
+300,55,20,Seattle Kraken,Calgary Flames,2022020561732,2022020561,Stoppage,732,STOP,Goalie Stopped,2022-12-29T05:43:42Z,3,16:35,03:25,2,3,,,
+301,55,20,Seattle Kraken,Calgary Flames,2022020561933,2022020561,Faceoff,933,FACEOFF,Matty Beniers faceoff won against Nazem Kadri,2022-12-29T05:44:09Z,3,16:35,03:25,2,3,55.0,Seattle Kraken,SEA
+302,55,20,Seattle Kraken,Calgary Flames,20220205611002,2022020561,Blocked Shot,1002,BLOCKED_SHOT,Vince Dunn shot blocked shot by Milan Lucic,2022-12-29T05:44:13Z,3,16:39,03:21,2,3,20.0,Calgary Flames,CGY
+303,55,20,Seattle Kraken,Calgary Flames,2022020561733,2022020561,Stoppage,733,STOP,Puck in Crowd,2022-12-29T05:44:27Z,3,16:53,03:07,2,3,,,
+304,55,20,Seattle Kraken,Calgary Flames,2022020561934,2022020561,Faceoff,934,FACEOFF,Adam Ruzicka faceoff won against Yanni Gourde,2022-12-29T05:44:49Z,3,16:53,03:07,2,3,20.0,Calgary Flames,CGY
+305,55,20,Seattle Kraken,Calgary Flames,20220205611003,2022020561,Shot,1003,SHOT,Trevor Lewis Wrist Shot saved by Philipp Grubauer,2022-12-29T05:45:08Z,3,17:12,02:48,2,3,20.0,Calgary Flames,CGY
+306,55,20,Seattle Kraken,Calgary Flames,2022020561935,2022020561,Hit,935,HIT,Adam Larsson hit Trevor Lewis,2022-12-29T05:45:10Z,3,17:14,02:46,2,3,55.0,Seattle Kraken,SEA
+307,55,20,Seattle Kraken,Calgary Flames,20220205611004,2022020561,Blocked Shot,1004,BLOCKED_SHOT,Yanni Gourde shot blocked shot by Rasmus Andersson,2022-12-29T05:45:21Z,3,17:25,02:35,2,3,20.0,Calgary Flames,CGY
+308,55,20,Seattle Kraken,Calgary Flames,2022020561734,2022020561,Stoppage,734,STOP,Puck in Netting,2022-12-29T05:45:53Z,3,17:57,02:03,2,3,,,
+309,55,20,Seattle Kraken,Calgary Flames,20220205611005,2022020561,Shot,1005,SHOT,Andrew Mangiapane Backhand saved by Philipp Grubauer,2022-12-29T05:45:53Z,3,17:57,02:03,2,3,20.0,Calgary Flames,CGY
+310,55,20,Seattle Kraken,Calgary Flames,2022020561936,2022020561,Faceoff,936,FACEOFF,Mikael Backlund faceoff won against Matty Beniers,2022-12-29T05:46:28Z,3,17:57,02:03,2,3,20.0,Calgary Flames,CGY
+311,55,20,Seattle Kraken,Calgary Flames,2022020561937,2022020561,Giveaway,937,GIVEAWAY,Giveaway by Vince Dunn,2022-12-29T05:46:39Z,3,18:08,01:52,2,3,55.0,Seattle Kraken,SEA
+312,55,20,Seattle Kraken,Calgary Flames,20220205611006,2022020561,Blocked Shot,1006,BLOCKED_SHOT,Vince Dunn shot blocked shot by Nazem Kadri,2022-12-29T05:47:18Z,3,18:47,01:13,2,3,20.0,Calgary Flames,CGY
+313,55,20,Seattle Kraken,Calgary Flames,20220205611007,2022020561,Shot,1007,SHOT,Andre Burakovsky Wrist Shot saved by Dan Vladar,2022-12-29T05:47:51Z,3,19:20,00:40,2,3,55.0,Seattle Kraken,SEA
+314,55,20,Seattle Kraken,Calgary Flames,20220205611008,2022020561,Shot,1008,SHOT,Jaden Schwartz Slap Shot saved by Dan Vladar,2022-12-29T05:48:00Z,3,19:29,00:31,2,3,55.0,Seattle Kraken,SEA
+315,55,20,Seattle Kraken,Calgary Flames,2022020561735,2022020561,Stoppage,735,STOP,Icing,2022-12-29T05:48:11Z,3,19:40,00:20,2,3,,,
+316,55,20,Seattle Kraken,Calgary Flames,2022020561938,2022020561,Faceoff,938,FACEOFF,Matty Beniers faceoff won against Nazem Kadri,2022-12-29T05:49:41Z,3,19:40,00:20,2,3,55.0,Seattle Kraken,SEA
+317,55,20,Seattle Kraken,Calgary Flames,20220205611009,2022020561,Blocked Shot,1009,BLOCKED_SHOT,Matty Beniers shot blocked shot by Nikita Zadorov,2022-12-29T05:49:48Z,3,19:47,00:13,2,3,20.0,Calgary Flames,CGY
+318,55,20,Seattle Kraken,Calgary Flames,20220205611010,2022020561,Missed Shot,1010,MISSED_SHOT,Daniel Sprong Wide of Net Dan Vladar,2022-12-29T05:50:00Z,3,19:59,00:01,2,3,55.0,Seattle Kraken,SEA
+319,55,20,Seattle Kraken,Calgary Flames,2022020561736,2022020561,Period End,736,PERIOD_END,End of 3rd Period,2022-12-29T05:50:01Z,3,20:00,00:00,2,3,,,
+320,55,20,Seattle Kraken,Calgary Flames,2022020561739,2022020561,Period Official,739,PERIOD_OFFICIAL,Period Official,2022-12-29T05:50:03Z,3,20:00,00:00,2,3,,,
+321,55,20,Seattle Kraken,Calgary Flames,2022020561740,2022020561,Game End,740,GAME_END,Game End,2022-12-29T05:50:05Z,3,20:00,00:00,2,3,,,
+322,55,20,Seattle Kraken,Calgary Flames,2022020561741,2022020561,Game Official,741,GAME_OFFICIAL,Game Official,2022-12-29T06:12:56Z,3,20:00,00:00,2,3,,,

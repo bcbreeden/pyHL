@@ -1,0 +1,283 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,55,28,Seattle Kraken,San Jose Sharks,20220203161,2022020316,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-11-24T02:15:31Z,1,00:00,20:00,0,0,,,
+1,55,28,Seattle Kraken,San Jose Sharks,20220203165,2022020316,Period Ready,5,PERIOD_READY,Period Ready,2022-11-24T03:06:33Z,1,00:00,20:00,0,0,,,
+2,55,28,Seattle Kraken,San Jose Sharks,202202031651,2022020316,Period Start,51,PERIOD_START,Period Start,2022-11-24T03:08:39Z,1,00:00,20:00,0,0,,,
+3,55,28,Seattle Kraken,San Jose Sharks,202202031652,2022020316,Faceoff,52,FACEOFF,Alex Wennberg faceoff won against Tomas Hertl,2022-11-24T03:08:39Z,1,00:00,20:00,0,0,55.0,Seattle Kraken,SEA
+4,55,28,Seattle Kraken,San Jose Sharks,2022020316151,2022020316,Shot,151,SHOT,Adam Larsson Snap Shot saved by Kaapo Kahkonen,2022-11-24T03:09:16Z,1,00:37,19:23,0,0,55.0,Seattle Kraken,SEA
+5,55,28,Seattle Kraken,San Jose Sharks,202202031653,2022020316,Takeaway,53,TAKEAWAY,Takeaway by Alex Wennberg,2022-11-24T03:09:17Z,1,00:38,19:22,0,0,55.0,Seattle Kraken,SEA
+6,55,28,Seattle Kraken,San Jose Sharks,2022020316152,2022020316,Blocked Shot,152,BLOCKED_SHOT,Vince Dunn shot blocked shot by Kevin Labanc,2022-11-24T03:09:24Z,1,00:45,19:15,0,0,28.0,San Jose Sharks,SJS
+7,55,28,Seattle Kraken,San Jose Sharks,20220203168,2022020316,Stoppage,8,STOP,Puck in Netting,2022-11-24T03:09:24Z,1,00:46,19:14,0,0,,,
+8,55,28,Seattle Kraken,San Jose Sharks,202202031654,2022020316,Faceoff,54,FACEOFF,Logan Couture faceoff won against Yanni Gourde,2022-11-24T03:09:46Z,1,00:46,19:14,0,0,28.0,San Jose Sharks,SJS
+9,55,28,Seattle Kraken,San Jose Sharks,202202031656,2022020316,Hit,56,HIT,Yanni Gourde hit Matt Benning,2022-11-24T03:10:03Z,1,01:03,18:57,0,0,55.0,Seattle Kraken,SEA
+10,55,28,Seattle Kraken,San Jose Sharks,202202031658,2022020316,Giveaway,58,GIVEAWAY,Giveaway by Logan Couture,2022-11-24T03:10:23Z,1,01:23,18:37,0,0,28.0,San Jose Sharks,SJS
+11,55,28,Seattle Kraken,San Jose Sharks,202202031659,2022020316,Giveaway,59,GIVEAWAY,Giveaway by Justin Schultz,2022-11-24T03:10:32Z,1,01:32,18:28,0,0,55.0,Seattle Kraken,SEA
+12,55,28,Seattle Kraken,San Jose Sharks,20220203169,2022020316,Stoppage,9,STOP,Goalie Stopped,2022-11-24T03:10:47Z,1,01:46,18:14,0,0,,,
+13,55,28,Seattle Kraken,San Jose Sharks,2022020316153,2022020316,Shot,153,SHOT,Luke Kunin Wrist Shot saved by Martin Jones,2022-11-24T03:10:47Z,1,01:46,18:14,0,0,28.0,San Jose Sharks,SJS
+14,55,28,Seattle Kraken,San Jose Sharks,202202031660,2022020316,Faceoff,60,FACEOFF,Matty Beniers faceoff won against Nick Bonino,2022-11-24T03:11:16Z,1,01:46,18:14,0,0,55.0,Seattle Kraken,SEA
+15,55,28,Seattle Kraken,San Jose Sharks,2022020316154,2022020316,Blocked Shot,154,BLOCKED_SHOT,Carson Soucy shot blocked shot by Nick Bonino,2022-11-24T03:11:32Z,1,02:02,17:58,0,0,28.0,San Jose Sharks,SJS
+16,55,28,Seattle Kraken,San Jose Sharks,202202031661,2022020316,Hit,61,HIT,Mario Ferraro hit Matty Beniers,2022-11-24T03:11:40Z,1,02:10,17:50,0,0,28.0,San Jose Sharks,SJS
+17,55,28,Seattle Kraken,San Jose Sharks,202202031610,2022020316,Stoppage,10,STOP,Goalie Stopped,2022-11-24T03:11:51Z,1,02:21,17:39,0,0,,,
+18,55,28,Seattle Kraken,San Jose Sharks,2022020316155,2022020316,Shot,155,SHOT,Matty Beniers Tip-In saved by Kaapo Kahkonen,2022-11-24T03:11:51Z,1,02:21,17:39,0,0,55.0,Seattle Kraken,SEA
+19,55,28,Seattle Kraken,San Jose Sharks,202202031663,2022020316,Faceoff,63,FACEOFF,Steven Lorentz faceoff won against Daniel Sprong,2022-11-24T03:12:26Z,1,02:21,17:39,0,0,28.0,San Jose Sharks,SJS
+20,55,28,Seattle Kraken,San Jose Sharks,202202031611,2022020316,Hit,11,HIT,Vince Dunn hit Jonah Gadjovich,2022-11-24T03:12:37Z,1,02:32,17:28,0,0,55.0,Seattle Kraken,SEA
+21,55,28,Seattle Kraken,San Jose Sharks,2022020316156,2022020316,Missed Shot,156,MISSED_SHOT,Erik Karlsson Goalpost Martin Jones,2022-11-24T03:12:52Z,1,02:47,17:13,0,0,28.0,San Jose Sharks,SJS
+22,55,28,Seattle Kraken,San Jose Sharks,202202031612,2022020316,Blocked Shot,12,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Justin Schultz,2022-11-24T03:13:19Z,1,03:14,16:46,0,0,55.0,Seattle Kraken,SEA
+23,55,28,Seattle Kraken,San Jose Sharks,202202031666,2022020316,Hit,66,HIT,Logan Couture hit Carson Soucy,2022-11-24T03:14:11Z,1,04:06,15:54,0,0,28.0,San Jose Sharks,SJS
+24,55,28,Seattle Kraken,San Jose Sharks,2022020316157,2022020316,Goal,157,GOAL,"Logan Couture (11) Tip-In, assists: Nick Cicek (2), Matt Nieto (4)",2022-11-24T03:14:15Z,1,04:11,15:49,0,1,28.0,San Jose Sharks,SJS
+25,55,28,Seattle Kraken,San Jose Sharks,202202031667,2022020316,Faceoff,67,FACEOFF,Luke Kunin faceoff won against Yanni Gourde,2022-11-24T03:15:05Z,1,04:11,15:49,0,1,28.0,San Jose Sharks,SJS
+26,55,28,Seattle Kraken,San Jose Sharks,202202031668,2022020316,Stoppage,68,STOP,Puck in Benches,2022-11-24T03:15:10Z,1,04:15,15:45,0,1,,,
+27,55,28,Seattle Kraken,San Jose Sharks,202202031669,2022020316,Faceoff,69,FACEOFF,Yanni Gourde faceoff won against Nick Bonino,2022-11-24T03:15:29Z,1,04:15,15:45,0,1,55.0,Seattle Kraken,SEA
+28,55,28,Seattle Kraken,San Jose Sharks,2022020316158,2022020316,Shot,158,SHOT,Carson Soucy Wrist Shot saved by Kaapo Kahkonen,2022-11-24T03:15:58Z,1,04:44,15:16,0,1,55.0,Seattle Kraken,SEA
+29,55,28,Seattle Kraken,San Jose Sharks,2022020316160,2022020316,Blocked Shot,160,BLOCKED_SHOT,Adam Larsson shot blocked shot by Tomas Hertl,2022-11-24T03:17:22Z,1,06:08,13:52,0,1,28.0,San Jose Sharks,SJS
+30,55,28,Seattle Kraken,San Jose Sharks,202202031614,2022020316,Stoppage,14,STOP,TV timeout,2022-11-24T03:17:54Z,1,06:40,13:20,0,1,,,
+31,55,28,Seattle Kraken,San Jose Sharks,202202031615,2022020316,Penalty,15,PENALTY,Too many men/ice served by Ryan Donato,2022-11-24T03:17:54Z,1,06:40,13:20,0,1,55.0,Seattle Kraken,SEA
+32,55,28,Seattle Kraken,San Jose Sharks,202202031670,2022020316,Faceoff,70,FACEOFF,Tomas Hertl faceoff won against Morgan Geekie,2022-11-24T03:20:16Z,1,06:40,13:20,0,1,28.0,San Jose Sharks,SJS
+33,55,28,Seattle Kraken,San Jose Sharks,2022020316161,2022020316,Missed Shot,161,MISSED_SHOT,Erik Karlsson Goalpost Martin Jones,2022-11-24T03:20:24Z,1,06:48,13:12,0,1,28.0,San Jose Sharks,SJS
+34,55,28,Seattle Kraken,San Jose Sharks,2022020316162,2022020316,Shot,162,SHOT,Timo Meier Tip-In saved by Martin Jones,2022-11-24T03:20:50Z,1,07:14,12:46,0,1,28.0,San Jose Sharks,SJS
+35,55,28,Seattle Kraken,San Jose Sharks,2022020316163,2022020316,Missed Shot,163,MISSED_SHOT,Tomas Hertl Wide of Net Martin Jones,2022-11-24T03:21:34Z,1,07:58,12:02,0,1,28.0,San Jose Sharks,SJS
+36,55,28,Seattle Kraken,San Jose Sharks,202202031618,2022020316,Missed Shot,18,MISSED_SHOT,Timo Meier Over Net Martin Jones,2022-11-24T03:21:39Z,1,08:03,11:57,0,1,28.0,San Jose Sharks,SJS
+37,55,28,Seattle Kraken,San Jose Sharks,2022020316164,2022020316,Blocked Shot,164,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Carson Soucy,2022-11-24T03:21:58Z,1,08:22,11:38,0,1,55.0,Seattle Kraken,SEA
+38,55,28,Seattle Kraken,San Jose Sharks,202202031619,2022020316,Blocked Shot,19,BLOCKED_SHOT,Yanni Gourde shot blocked shot by Mario Ferraro,2022-11-24T03:22:08Z,1,08:32,11:28,0,1,28.0,San Jose Sharks,SJS
+39,55,28,Seattle Kraken,San Jose Sharks,202202031620,2022020316,Penalty,20,PENALTY,Too many men/ice served by Alexander Barabanov,2022-11-24T03:22:11Z,1,08:35,11:25,0,1,28.0,San Jose Sharks,SJS
+40,55,28,Seattle Kraken,San Jose Sharks,202202031671,2022020316,Faceoff,71,FACEOFF,Jaden Schwartz faceoff won against Nick Bonino,2022-11-24T03:22:59Z,1,08:35,11:25,0,1,55.0,Seattle Kraken,SEA
+41,55,28,Seattle Kraken,San Jose Sharks,2022020316166,2022020316,Missed Shot,166,MISSED_SHOT,Andre Burakovsky Wide of Net Kaapo Kahkonen,2022-11-24T03:23:25Z,1,09:01,10:59,0,1,55.0,Seattle Kraken,SEA
+42,55,28,Seattle Kraken,San Jose Sharks,202202031672,2022020316,Giveaway,72,GIVEAWAY,Giveaway by Jaden Schwartz,2022-11-24T03:23:32Z,1,09:08,10:52,0,1,55.0,Seattle Kraken,SEA
+43,55,28,Seattle Kraken,San Jose Sharks,202202031623,2022020316,Stoppage,23,STOP,Offside,2022-11-24T03:23:53Z,1,09:28,10:32,0,1,,,
+44,55,28,Seattle Kraken,San Jose Sharks,202202031673,2022020316,Faceoff,73,FACEOFF,Logan Couture faceoff won against Alex Wennberg,2022-11-24T03:24:14Z,1,09:28,10:32,0,1,28.0,San Jose Sharks,SJS
+45,55,28,Seattle Kraken,San Jose Sharks,2022020316224,2022020316,Penalty,224,PENALTY,Matt Benning Delaying Game - Puck over glass,2022-11-24T03:24:20Z,1,09:35,10:25,0,1,28.0,San Jose Sharks,SJS
+46,55,28,Seattle Kraken,San Jose Sharks,202202031674,2022020316,Faceoff,74,FACEOFF,Jaden Schwartz faceoff won against Logan Couture,2022-11-24T03:24:54Z,1,09:35,10:25,0,1,55.0,Seattle Kraken,SEA
+47,55,28,Seattle Kraken,San Jose Sharks,2022020316167,2022020316,Goal,167,GOAL,"Andre Burakovsky (5) Wrist Shot, assists: Vince Dunn (9), Jared McCann (4)",2022-11-24T03:25:03Z,1,09:44,10:16,1,1,55.0,Seattle Kraken,SEA
+48,55,28,Seattle Kraken,San Jose Sharks,202202031675,2022020316,Faceoff,75,FACEOFF,Nick Bonino faceoff won against Alex Wennberg,2022-11-24T03:25:39Z,1,09:44,10:16,1,1,28.0,San Jose Sharks,SJS
+49,55,28,Seattle Kraken,San Jose Sharks,202202031676,2022020316,Takeaway,76,TAKEAWAY,Takeaway by Nick Bonino,2022-11-24T03:25:59Z,1,10:04,09:56,1,1,28.0,San Jose Sharks,SJS
+50,55,28,Seattle Kraken,San Jose Sharks,202202031625,2022020316,Takeaway,25,TAKEAWAY,Takeaway by Jordan Eberle,2022-11-24T03:26:37Z,1,10:42,09:18,1,1,55.0,Seattle Kraken,SEA
+51,55,28,Seattle Kraken,San Jose Sharks,2022020316168,2022020316,Shot,168,SHOT,Vince Dunn Wrist Shot saved by Kaapo Kahkonen,2022-11-24T03:26:53Z,1,10:58,09:02,1,1,55.0,Seattle Kraken,SEA
+52,55,28,Seattle Kraken,San Jose Sharks,202202031626,2022020316,Shot,26,SHOT,Andre Burakovsky Wrist Shot saved by Kaapo Kahkonen,2022-11-24T03:26:57Z,1,11:02,08:58,1,1,55.0,Seattle Kraken,SEA
+53,55,28,Seattle Kraken,San Jose Sharks,202202031677,2022020316,Takeaway,77,TAKEAWAY,Takeaway by Luke Kunin,2022-11-24T03:27:05Z,1,11:10,08:50,1,1,28.0,San Jose Sharks,SJS
+54,55,28,Seattle Kraken,San Jose Sharks,202202031627,2022020316,Shot,27,SHOT,Luke Kunin Wrist Shot saved by Martin Jones,2022-11-24T03:27:06Z,1,11:11,08:49,1,1,28.0,San Jose Sharks,SJS
+55,55,28,Seattle Kraken,San Jose Sharks,202202031628,2022020316,Stoppage,28,STOP,High Stick,2022-11-24T03:27:30Z,1,11:35,08:25,1,1,,,
+56,55,28,Seattle Kraken,San Jose Sharks,202202031679,2022020316,Faceoff,79,FACEOFF,Morgan Geekie faceoff won against Tomas Hertl,2022-11-24T03:30:30Z,1,11:35,08:25,1,1,55.0,Seattle Kraken,SEA
+57,55,28,Seattle Kraken,San Jose Sharks,2022020316170,2022020316,Blocked Shot,170,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Brandon Tanev,2022-11-24T03:30:55Z,1,12:00,08:00,1,1,55.0,Seattle Kraken,SEA
+58,55,28,Seattle Kraken,San Jose Sharks,202202031680,2022020316,Hit,80,HIT,Timo Meier hit Vince Dunn,2022-11-24T03:31:12Z,1,12:17,07:43,1,1,28.0,San Jose Sharks,SJS
+59,55,28,Seattle Kraken,San Jose Sharks,2022020316171,2022020316,Blocked Shot,171,BLOCKED_SHOT,Kevin Labanc shot blocked shot by Vince Dunn,2022-11-24T03:31:22Z,1,12:27,07:33,1,1,55.0,Seattle Kraken,SEA
+60,55,28,Seattle Kraken,San Jose Sharks,202202031629,2022020316,Blocked Shot,29,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Morgan Geekie,2022-11-24T03:31:25Z,1,12:30,07:30,1,1,55.0,Seattle Kraken,SEA
+61,55,28,Seattle Kraken,San Jose Sharks,2022020316172,2022020316,Blocked Shot,172,BLOCKED_SHOT,Kevin Labanc shot blocked shot by Brandon Tanev,2022-11-24T03:31:45Z,1,12:50,07:10,1,1,55.0,Seattle Kraken,SEA
+62,55,28,Seattle Kraken,San Jose Sharks,202202031630,2022020316,Blocked Shot,30,BLOCKED_SHOT,Timo Meier shot blocked shot by Vince Dunn,2022-11-24T03:31:46Z,1,12:51,07:09,1,1,55.0,Seattle Kraken,SEA
+63,55,28,Seattle Kraken,San Jose Sharks,202202031631,2022020316,Stoppage,31,STOP,Hand Pass,2022-11-24T03:31:50Z,1,12:55,07:05,1,1,,,
+64,55,28,Seattle Kraken,San Jose Sharks,202202031681,2022020316,Faceoff,81,FACEOFF,Logan Couture faceoff won against Matty Beniers,2022-11-24T03:32:15Z,1,12:55,07:05,1,1,28.0,San Jose Sharks,SJS
+65,55,28,Seattle Kraken,San Jose Sharks,202202031632,2022020316,Stoppage,32,STOP,Icing,2022-11-24T03:32:30Z,1,13:10,06:50,1,1,,,
+66,55,28,Seattle Kraken,San Jose Sharks,202202031682,2022020316,Faceoff,82,FACEOFF,Nick Bonino faceoff won against Matty Beniers,2022-11-24T03:32:53Z,1,13:10,06:50,1,1,28.0,San Jose Sharks,SJS
+67,55,28,Seattle Kraken,San Jose Sharks,2022020316173,2022020316,Missed Shot,173,MISSED_SHOT,Marc-Edouard Vlasic Wide of Net Martin Jones,2022-11-24T03:32:59Z,1,13:16,06:44,1,1,28.0,San Jose Sharks,SJS
+68,55,28,Seattle Kraken,San Jose Sharks,2022020316174,2022020316,Shot,174,SHOT,Oskar Lindblom Snap Shot saved by Martin Jones,2022-11-24T03:33:50Z,1,14:07,05:53,1,1,28.0,San Jose Sharks,SJS
+69,55,28,Seattle Kraken,San Jose Sharks,202202031683,2022020316,Hit,83,HIT,Jaycob Megna hit Ryan Donato,2022-11-24T03:34:45Z,1,15:02,04:58,1,1,28.0,San Jose Sharks,SJS
+70,55,28,Seattle Kraken,San Jose Sharks,2022020316175,2022020316,Missed Shot,175,MISSED_SHOT,Tomas Hertl Over Net Martin Jones,2022-11-24T03:35:38Z,1,15:55,04:05,1,1,28.0,San Jose Sharks,SJS
+71,55,28,Seattle Kraken,San Jose Sharks,202202031633,2022020316,Stoppage,33,STOP,Offside,2022-11-24T03:35:45Z,1,16:02,03:58,1,1,,,
+72,55,28,Seattle Kraken,San Jose Sharks,202202031686,2022020316,Faceoff,86,FACEOFF,Logan Couture faceoff won against Matty Beniers,2022-11-24T03:38:16Z,1,16:02,03:58,1,1,28.0,San Jose Sharks,SJS
+73,55,28,Seattle Kraken,San Jose Sharks,202202031634,2022020316,Stoppage,34,STOP,Puck in Benches,2022-11-24T03:38:23Z,1,16:09,03:51,1,1,,,
+74,55,28,Seattle Kraken,San Jose Sharks,202202031687,2022020316,Faceoff,87,FACEOFF,Matty Beniers faceoff won against Logan Couture,2022-11-24T03:38:40Z,1,16:09,03:51,1,1,55.0,Seattle Kraken,SEA
+75,55,28,Seattle Kraken,San Jose Sharks,2022020316176,2022020316,Shot,176,SHOT,Jordan Eberle Wrist Shot saved by Kaapo Kahkonen,2022-11-24T03:38:52Z,1,16:21,03:39,1,1,55.0,Seattle Kraken,SEA
+76,55,28,Seattle Kraken,San Jose Sharks,202202031688,2022020316,Takeaway,88,TAKEAWAY,Takeaway by Oliver Bjorkstrand,2022-11-24T03:39:32Z,1,17:01,02:59,1,1,55.0,Seattle Kraken,SEA
+77,55,28,Seattle Kraken,San Jose Sharks,2022020316177,2022020316,Shot,177,SHOT,Brandon Tanev Poke saved by Kaapo Kahkonen,2022-11-24T03:39:37Z,1,17:06,02:54,1,1,55.0,Seattle Kraken,SEA
+78,55,28,Seattle Kraken,San Jose Sharks,202202031635,2022020316,Stoppage,35,STOP,Goalie Stopped,2022-11-24T03:39:38Z,1,17:07,02:53,1,1,,,
+79,55,28,Seattle Kraken,San Jose Sharks,2022020316442,2022020316,Penalty,442,PENALTY,Brandon Tanev Roughing against Luke Kunin,2022-11-24T03:39:38Z,1,17:07,02:53,1,1,55.0,Seattle Kraken,SEA
+80,55,28,Seattle Kraken,San Jose Sharks,2022020316446,2022020316,Penalty,446,PENALTY,Luke Kunin Roughing against Brandon Tanev,2022-11-24T03:39:38Z,1,17:07,02:53,1,1,28.0,San Jose Sharks,SJS
+81,55,28,Seattle Kraken,San Jose Sharks,202202031689,2022020316,Faceoff,89,FACEOFF,Tomas Hertl faceoff won against Alex Wennberg,2022-11-24T03:41:20Z,1,17:07,02:53,1,1,28.0,San Jose Sharks,SJS
+82,55,28,Seattle Kraken,San Jose Sharks,2022020316501,2022020316,Penalty,501,PENALTY,Adam Larsson Hooking against Timo Meier,2022-11-24T03:41:47Z,1,17:34,02:26,1,1,55.0,Seattle Kraken,SEA
+83,55,28,Seattle Kraken,San Jose Sharks,202202031690,2022020316,Faceoff,90,FACEOFF,Alex Wennberg faceoff won against Tomas Hertl,2022-11-24T03:42:22Z,1,17:34,02:26,1,1,55.0,Seattle Kraken,SEA
+84,55,28,Seattle Kraken,San Jose Sharks,2022020316178,2022020316,Shot,178,SHOT,Erik Karlsson Wrist Shot saved by Martin Jones,2022-11-24T03:42:44Z,1,17:56,02:04,1,1,28.0,San Jose Sharks,SJS
+85,55,28,Seattle Kraken,San Jose Sharks,2022020316179,2022020316,Shot,179,SHOT,Tomas Hertl Wrist Shot saved by Martin Jones,2022-11-24T03:43:24Z,1,18:36,01:24,1,1,28.0,San Jose Sharks,SJS
+86,55,28,Seattle Kraken,San Jose Sharks,202202031637,2022020316,Goal,37,GOAL,"Timo Meier (10) Wrist Shot, assists: Erik Karlsson (19), Logan Couture (8)",2022-11-24T03:43:41Z,1,18:53,01:07,1,2,28.0,San Jose Sharks,SJS
+87,55,28,Seattle Kraken,San Jose Sharks,202202031691,2022020316,Faceoff,91,FACEOFF,Matty Beniers faceoff won against Nick Bonino,2022-11-24T03:44:22Z,1,18:53,01:07,1,2,55.0,Seattle Kraken,SEA
+88,55,28,Seattle Kraken,San Jose Sharks,202202031692,2022020316,Hit,92,HIT,Vince Dunn hit Nick Bonino,2022-11-24T03:44:47Z,1,19:18,00:42,1,2,55.0,Seattle Kraken,SEA
+89,55,28,Seattle Kraken,San Jose Sharks,2022020316180,2022020316,Blocked Shot,180,BLOCKED_SHOT,Adam Larsson shot blocked shot by Nick Bonino,2022-11-24T03:45:01Z,1,19:32,00:28,1,2,28.0,San Jose Sharks,SJS
+90,55,28,Seattle Kraken,San Jose Sharks,2022020316181,2022020316,Blocked Shot,181,BLOCKED_SHOT,Andre Burakovsky shot blocked shot by Luke Kunin,2022-11-24T03:45:16Z,1,19:47,00:13,1,2,28.0,San Jose Sharks,SJS
+91,55,28,Seattle Kraken,San Jose Sharks,202202031639,2022020316,Shot,39,SHOT,Jaden Schwartz Snap Shot saved by Kaapo Kahkonen,2022-11-24T03:45:19Z,1,19:50,00:10,1,2,55.0,Seattle Kraken,SEA
+92,55,28,Seattle Kraken,San Jose Sharks,202202031640,2022020316,Period End,40,PERIOD_END,End of 1st Period,2022-11-24T03:45:29Z,1,20:00,00:00,1,2,,,
+93,55,28,Seattle Kraken,San Jose Sharks,2022020316182,2022020316,Shot,182,SHOT,Jaden Schwartz Wrist Shot saved by Kaapo Kahkonen,2022-11-24T03:45:29Z,1,20:00,00:00,1,2,55.0,Seattle Kraken,SEA
+94,55,28,Seattle Kraken,San Jose Sharks,202202031643,2022020316,Period Official,43,PERIOD_OFFICIAL,Period Official,2022-11-24T04:02:23Z,1,20:00,00:00,1,2,,,
+95,55,28,Seattle Kraken,San Jose Sharks,202202031644,2022020316,Period Ready,44,PERIOD_READY,Period Ready,2022-11-24T04:02:26Z,2,00:00,20:00,1,2,,,
+96,55,28,Seattle Kraken,San Jose Sharks,202202031693,2022020316,Period Start,93,PERIOD_START,Period Start,2022-11-24T04:04:23Z,2,00:00,20:00,1,2,,,
+97,55,28,Seattle Kraken,San Jose Sharks,202202031694,2022020316,Faceoff,94,FACEOFF,Alex Wennberg faceoff won against Tomas Hertl,2022-11-24T04:04:23Z,2,00:00,20:00,1,2,55.0,Seattle Kraken,SEA
+98,55,28,Seattle Kraken,San Jose Sharks,2022020316184,2022020316,Missed Shot,184,MISSED_SHOT,Timo Meier Wide of Net Martin Jones,2022-11-24T04:05:05Z,2,00:42,19:18,1,2,28.0,San Jose Sharks,SJS
+99,55,28,Seattle Kraken,San Jose Sharks,202202031695,2022020316,Giveaway,95,GIVEAWAY,Giveaway by Marc-Edouard Vlasic,2022-11-24T04:05:40Z,2,01:17,18:43,1,2,28.0,San Jose Sharks,SJS
+100,55,28,Seattle Kraken,San Jose Sharks,2022020316185,2022020316,Blocked Shot,185,BLOCKED_SHOT,Jamie Oleksiak shot blocked shot by Logan Couture,2022-11-24T04:05:43Z,2,01:20,18:40,1,2,28.0,San Jose Sharks,SJS
+101,55,28,Seattle Kraken,San Jose Sharks,2022020316186,2022020316,Shot,186,SHOT,Carson Soucy Wrist Shot saved by Kaapo Kahkonen,2022-11-24T04:06:18Z,2,01:55,18:05,1,2,55.0,Seattle Kraken,SEA
+102,55,28,Seattle Kraken,San Jose Sharks,2022020316527,2022020316,Penalty,527,PENALTY,Matt Nieto Hooking against Jared McCann,2022-11-24T04:06:21Z,2,01:59,18:01,1,2,28.0,San Jose Sharks,SJS
+103,55,28,Seattle Kraken,San Jose Sharks,202202031698,2022020316,Faceoff,98,FACEOFF,Nick Bonino faceoff won against Jaden Schwartz,2022-11-24T04:06:57Z,2,01:59,18:01,1,2,28.0,San Jose Sharks,SJS
+104,55,28,Seattle Kraken,San Jose Sharks,202202031647,2022020316,Stoppage,47,STOP,Offside,2022-11-24T04:07:20Z,2,02:22,17:38,1,2,,,
+105,55,28,Seattle Kraken,San Jose Sharks,202202031699,2022020316,Faceoff,99,FACEOFF,Jaden Schwartz faceoff won against Nick Bonino,2022-11-24T04:07:42Z,2,02:22,17:38,1,2,55.0,Seattle Kraken,SEA
+106,55,28,Seattle Kraken,San Jose Sharks,2022020316187,2022020316,Blocked Shot,187,BLOCKED_SHOT,Jared McCann shot blocked shot by Mario Ferraro,2022-11-24T04:08:14Z,2,02:54,17:06,1,2,28.0,San Jose Sharks,SJS
+107,55,28,Seattle Kraken,San Jose Sharks,2022020316100,2022020316,Takeaway,100,TAKEAWAY,Takeaway by Vince Dunn,2022-11-24T04:08:18Z,2,02:58,17:02,1,2,55.0,Seattle Kraken,SEA
+108,55,28,Seattle Kraken,San Jose Sharks,2022020316188,2022020316,Blocked Shot,188,BLOCKED_SHOT,Daniel Sprong shot blocked shot by Matt Benning,2022-11-24T04:09:02Z,2,03:42,16:18,1,2,28.0,San Jose Sharks,SJS
+109,55,28,Seattle Kraken,San Jose Sharks,2022020316189,2022020316,Shot,189,SHOT,Daniel Sprong Wrist Shot saved by Kaapo Kahkonen,2022-11-24T04:09:24Z,2,04:04,15:56,1,2,55.0,Seattle Kraken,SEA
+110,55,28,Seattle Kraken,San Jose Sharks,2022020316251,2022020316,Hit,251,HIT,Logan Couture hit Justin Schultz,2022-11-24T04:09:28Z,2,04:08,15:52,1,2,28.0,San Jose Sharks,SJS
+111,55,28,Seattle Kraken,San Jose Sharks,202202031648,2022020316,Stoppage,48,STOP,Puck in Netting,2022-11-24T04:09:48Z,2,04:28,15:32,1,2,,,
+112,55,28,Seattle Kraken,San Jose Sharks,2022020316190,2022020316,Blocked Shot,190,BLOCKED_SHOT,Alex Wennberg shot blocked shot by Erik Karlsson,2022-11-24T04:09:48Z,2,04:28,15:32,1,2,28.0,San Jose Sharks,SJS
+113,55,28,Seattle Kraken,San Jose Sharks,2022020316252,2022020316,Faceoff,252,FACEOFF,Tomas Hertl faceoff won against Ryan Donato,2022-11-24T04:10:31Z,2,04:28,15:32,1,2,28.0,San Jose Sharks,SJS
+114,55,28,Seattle Kraken,San Jose Sharks,202202031649,2022020316,Stoppage,49,STOP,Offside,2022-11-24T04:10:56Z,2,04:53,15:07,1,2,,,
+115,55,28,Seattle Kraken,San Jose Sharks,2022020316253,2022020316,Faceoff,253,FACEOFF,Alex Wennberg faceoff won against Nick Bonino,2022-11-24T04:11:29Z,2,04:53,15:07,1,2,55.0,Seattle Kraken,SEA
+116,55,28,Seattle Kraken,San Jose Sharks,202202031650,2022020316,Stoppage,50,STOP,Icing,2022-11-24T04:11:36Z,2,05:00,15:00,1,2,,,
+117,55,28,Seattle Kraken,San Jose Sharks,2022020316254,2022020316,Faceoff,254,FACEOFF,Tomas Hertl faceoff won against Alex Wennberg,2022-11-24T04:11:59Z,2,05:00,15:00,1,2,28.0,San Jose Sharks,SJS
+118,55,28,Seattle Kraken,San Jose Sharks,2022020316301,2022020316,Stoppage,301,STOP,Offside,2022-11-24T04:12:22Z,2,05:23,14:37,1,2,,,
+119,55,28,Seattle Kraken,San Jose Sharks,2022020316255,2022020316,Faceoff,255,FACEOFF,Matty Beniers faceoff won against Nick Bonino,2022-11-24T04:12:49Z,2,05:23,14:37,1,2,55.0,Seattle Kraken,SEA
+120,55,28,Seattle Kraken,San Jose Sharks,2022020316191,2022020316,Shot,191,SHOT,Adam Larsson Slap Shot saved by Kaapo Kahkonen,2022-11-24T04:12:53Z,2,05:27,14:33,1,2,55.0,Seattle Kraken,SEA
+121,55,28,Seattle Kraken,San Jose Sharks,2022020316302,2022020316,Stoppage,302,STOP,Goalie Stopped,2022-11-24T04:12:54Z,2,05:28,14:32,1,2,,,
+122,55,28,Seattle Kraken,San Jose Sharks,2022020316256,2022020316,Faceoff,256,FACEOFF,Nick Bonino faceoff won against Matty Beniers,2022-11-24T04:13:13Z,2,05:28,14:32,1,2,28.0,San Jose Sharks,SJS
+123,55,28,Seattle Kraken,San Jose Sharks,2022020316192,2022020316,Goal,192,GOAL,"Vince Dunn (3) Snap Shot, assists: Matty Beniers (7)",2022-11-24T04:13:38Z,2,05:52,14:08,2,2,55.0,Seattle Kraken,SEA
+124,55,28,Seattle Kraken,San Jose Sharks,2022020316257,2022020316,Faceoff,257,FACEOFF,Logan Couture faceoff won against Brandon Tanev,2022-11-24T04:14:22Z,2,05:52,14:08,2,2,28.0,San Jose Sharks,SJS
+125,55,28,Seattle Kraken,San Jose Sharks,2022020316193,2022020316,Shot,193,SHOT,Oliver Bjorkstrand Snap Shot saved by Kaapo Kahkonen,2022-11-24T04:14:45Z,2,06:15,13:45,2,2,55.0,Seattle Kraken,SEA
+126,55,28,Seattle Kraken,San Jose Sharks,2022020316258,2022020316,Takeaway,258,TAKEAWAY,Takeaway by Nick Cicek,2022-11-24T04:14:49Z,2,06:19,13:41,2,2,28.0,San Jose Sharks,SJS
+127,55,28,Seattle Kraken,San Jose Sharks,2022020316303,2022020316,Shot,303,SHOT,Matt Nieto Wrist Shot saved by Martin Jones,2022-11-24T04:14:56Z,2,06:26,13:34,2,2,28.0,San Jose Sharks,SJS
+128,55,28,Seattle Kraken,San Jose Sharks,2022020316801,2022020316,Blocked Shot,801,BLOCKED_SHOT,Logan Couture shot blocked shot by Carson Soucy,2022-11-24T04:14:57Z,2,06:27,13:33,2,2,55.0,Seattle Kraken,SEA
+129,55,28,Seattle Kraken,San Jose Sharks,2022020316194,2022020316,Shot,194,SHOT,Logan Couture Batted saved by Martin Jones,2022-11-24T04:14:58Z,2,06:28,13:32,2,2,28.0,San Jose Sharks,SJS
+130,55,28,Seattle Kraken,San Jose Sharks,2022020316304,2022020316,Stoppage,304,STOP,Goalie Stopped,2022-11-24T04:14:59Z,2,06:29,13:31,2,2,,,
+131,55,28,Seattle Kraken,San Jose Sharks,2022020316259,2022020316,Faceoff,259,FACEOFF,Morgan Geekie faceoff won against Steven Lorentz,2022-11-24T04:17:25Z,2,06:29,13:31,2,2,55.0,Seattle Kraken,SEA
+132,55,28,Seattle Kraken,San Jose Sharks,2022020316260,2022020316,Hit,260,HIT,Vince Dunn hit Jonah Gadjovich,2022-11-24T04:17:34Z,2,06:38,13:22,2,2,55.0,Seattle Kraken,SEA
+133,55,28,Seattle Kraken,San Jose Sharks,2022020316261,2022020316,Hit,261,HIT,Oskar Lindblom hit Adam Larsson,2022-11-24T04:17:42Z,2,06:46,13:14,2,2,28.0,San Jose Sharks,SJS
+134,55,28,Seattle Kraken,San Jose Sharks,2022020316195,2022020316,Goal,195,GOAL,"Ryan Donato (2) Snap Shot, assists: Daniel Sprong (6), Morgan Geekie (5)",2022-11-24T04:17:58Z,2,07:02,12:58,3,2,55.0,Seattle Kraken,SEA
+135,55,28,Seattle Kraken,San Jose Sharks,2022020316264,2022020316,Faceoff,264,FACEOFF,Timo Meier faceoff won against Alex Wennberg,2022-11-24T04:18:44Z,2,07:02,12:58,3,2,28.0,San Jose Sharks,SJS
+136,55,28,Seattle Kraken,San Jose Sharks,2022020316196,2022020316,Blocked Shot,196,BLOCKED_SHOT,Vince Dunn shot blocked shot by Matt Benning,2022-11-24T04:20:10Z,2,08:28,11:32,3,2,28.0,San Jose Sharks,SJS
+137,55,28,Seattle Kraken,San Jose Sharks,2022020316305,2022020316,Blocked Shot,305,BLOCKED_SHOT,Vince Dunn shot blocked shot by Luke Kunin,2022-11-24T04:20:16Z,2,08:34,11:26,3,2,28.0,San Jose Sharks,SJS
+138,55,28,Seattle Kraken,San Jose Sharks,2022020316197,2022020316,Shot,197,SHOT,Noah Gregor Wrist Shot saved by Martin Jones,2022-11-24T04:20:35Z,2,08:53,11:07,3,2,28.0,San Jose Sharks,SJS
+139,55,28,Seattle Kraken,San Jose Sharks,2022020316266,2022020316,Hit,266,HIT,Yanni Gourde hit Luke Kunin,2022-11-24T04:20:38Z,2,08:56,11:04,3,2,55.0,Seattle Kraken,SEA
+140,55,28,Seattle Kraken,San Jose Sharks,2022020316306,2022020316,Hit,306,HIT,Mario Ferraro hit Oliver Bjorkstrand,2022-11-24T04:20:46Z,2,09:04,10:56,3,2,28.0,San Jose Sharks,SJS
+141,55,28,Seattle Kraken,San Jose Sharks,2022020316198,2022020316,Goal,198,GOAL,"Jamie Oleksiak (4) Tip-In, assists: Justin Schultz (8), Andre Burakovsky (12)",2022-11-24T04:21:53Z,2,10:11,09:49,4,2,55.0,Seattle Kraken,SEA
+142,55,28,Seattle Kraken,San Jose Sharks,2022020316308,2022020316,Stoppage,308,STOP,Visitor Timeout,2022-11-24T04:21:53Z,2,10:11,09:49,4,2,,,
+143,55,28,Seattle Kraken,San Jose Sharks,2022020316268,2022020316,Faceoff,268,FACEOFF,Tomas Hertl faceoff won against Alex Wennberg,2022-11-24T04:23:38Z,2,10:11,09:49,4,2,28.0,San Jose Sharks,SJS
+144,55,28,Seattle Kraken,San Jose Sharks,2022020316269,2022020316,Hit,269,HIT,Timo Meier hit Adam Larsson,2022-11-24T04:23:48Z,2,10:21,09:39,4,2,28.0,San Jose Sharks,SJS
+145,55,28,Seattle Kraken,San Jose Sharks,2022020316270,2022020316,Hit,270,HIT,Timo Meier hit Vince Dunn,2022-11-24T04:23:53Z,2,10:26,09:34,4,2,28.0,San Jose Sharks,SJS
+146,55,28,Seattle Kraken,San Jose Sharks,2022020316199,2022020316,Missed Shot,199,MISSED_SHOT,Erik Karlsson Wide of Net Martin Jones,2022-11-24T04:24:10Z,2,10:43,09:17,4,2,28.0,San Jose Sharks,SJS
+147,55,28,Seattle Kraken,San Jose Sharks,2022020316309,2022020316,Shot,309,SHOT,Andre Burakovsky Wrist Shot saved by Kaapo Kahkonen,2022-11-24T04:24:18Z,2,10:51,09:09,4,2,55.0,Seattle Kraken,SEA
+148,55,28,Seattle Kraken,San Jose Sharks,2022020316310,2022020316,Stoppage,310,STOP,Icing,2022-11-24T04:24:33Z,2,11:05,08:55,4,2,,,
+149,55,28,Seattle Kraken,San Jose Sharks,2022020316271,2022020316,Faceoff,271,FACEOFF,Yanni Gourde faceoff won against Tomas Hertl,2022-11-24T04:24:59Z,2,11:05,08:55,4,2,55.0,Seattle Kraken,SEA
+150,55,28,Seattle Kraken,San Jose Sharks,2022020316200,2022020316,Blocked Shot,200,BLOCKED_SHOT,Carson Soucy shot blocked shot by Alexander Barabanov,2022-11-24T04:25:03Z,2,11:09,08:51,4,2,28.0,San Jose Sharks,SJS
+151,55,28,Seattle Kraken,San Jose Sharks,2022020316311,2022020316,Stoppage,311,STOP,Puck in Benches,2022-11-24T04:25:08Z,2,11:15,08:45,4,2,,,
+152,55,28,Seattle Kraken,San Jose Sharks,2022020316272,2022020316,Faceoff,272,FACEOFF,Logan Couture faceoff won against Morgan Geekie,2022-11-24T04:27:32Z,2,11:15,08:45,4,2,28.0,San Jose Sharks,SJS
+153,55,28,Seattle Kraken,San Jose Sharks,2022020316312,2022020316,Stoppage,312,STOP,Puck in Crowd,2022-11-24T04:27:53Z,2,11:36,08:24,4,2,,,
+154,55,28,Seattle Kraken,San Jose Sharks,2022020316273,2022020316,Faceoff,273,FACEOFF,Matty Beniers faceoff won against Luke Kunin,2022-11-24T04:28:25Z,2,11:36,08:24,4,2,55.0,Seattle Kraken,SEA
+155,55,28,Seattle Kraken,San Jose Sharks,2022020316274,2022020316,Stoppage,274,STOP,Icing,2022-11-24T04:29:04Z,2,12:15,07:45,4,2,,,
+156,55,28,Seattle Kraken,San Jose Sharks,2022020316275,2022020316,Faceoff,275,FACEOFF,Nick Bonino faceoff won against Morgan Geekie,2022-11-24T04:29:27Z,2,12:15,07:45,4,2,28.0,San Jose Sharks,SJS
+157,55,28,Seattle Kraken,San Jose Sharks,2022020316451,2022020316,Blocked Shot,451,BLOCKED_SHOT,Daniel Sprong shot blocked shot by Mario Ferraro,2022-11-24T04:29:47Z,2,12:35,07:25,4,2,28.0,San Jose Sharks,SJS
+158,55,28,Seattle Kraken,San Jose Sharks,2022020316452,2022020316,Shot,452,SHOT,Kevin Labanc Snap Shot saved by Martin Jones,2022-11-24T04:30:20Z,2,13:08,06:52,4,2,28.0,San Jose Sharks,SJS
+159,55,28,Seattle Kraken,San Jose Sharks,2022020316314,2022020316,Missed Shot,314,MISSED_SHOT,Jonah Gadjovich Wide of Net Martin Jones,2022-11-24T04:30:25Z,2,13:13,06:47,4,2,28.0,San Jose Sharks,SJS
+160,55,28,Seattle Kraken,San Jose Sharks,2022020316751,2022020316,Giveaway,751,GIVEAWAY,Giveaway by Jaden Schwartz,2022-11-24T04:30:28Z,2,13:16,06:44,4,2,55.0,Seattle Kraken,SEA
+161,55,28,Seattle Kraken,San Jose Sharks,2022020316276,2022020316,Missed Shot,276,MISSED_SHOT,Tomas Hertl Wide of Net Martin Jones,2022-11-24T04:30:29Z,2,13:17,06:43,4,2,28.0,San Jose Sharks,SJS
+162,55,28,Seattle Kraken,San Jose Sharks,2022020316453,2022020316,Goal,453,GOAL,"Timo Meier (11) Snap Shot, assists: Tomas Hertl (14)",2022-11-24T04:30:52Z,2,13:39,06:21,4,3,28.0,San Jose Sharks,SJS
+163,55,28,Seattle Kraken,San Jose Sharks,2022020316277,2022020316,Faceoff,277,FACEOFF,Logan Couture faceoff won against Yanni Gourde,2022-11-24T04:31:28Z,2,13:39,06:21,4,3,28.0,San Jose Sharks,SJS
+164,55,28,Seattle Kraken,San Jose Sharks,2022020316278,2022020316,Hit,278,HIT,Matt Benning hit Jaden Schwartz,2022-11-24T04:32:29Z,2,14:40,05:20,4,3,28.0,San Jose Sharks,SJS
+165,55,28,Seattle Kraken,San Jose Sharks,2022020316279,2022020316,Hit,279,HIT,Adam Larsson hit Luke Kunin,2022-11-24T04:32:39Z,2,14:50,05:10,4,3,55.0,Seattle Kraken,SEA
+166,55,28,Seattle Kraken,San Jose Sharks,2022020316315,2022020316,Hit,315,HIT,Noah Gregor hit Andre Burakovsky,2022-11-24T04:32:44Z,2,14:55,05:05,4,3,28.0,San Jose Sharks,SJS
+167,55,28,Seattle Kraken,San Jose Sharks,2022020316454,2022020316,Shot,454,SHOT,Luke Kunin Snap Shot saved by Martin Jones,2022-11-24T04:32:52Z,2,15:03,04:57,4,3,28.0,San Jose Sharks,SJS
+168,55,28,Seattle Kraken,San Jose Sharks,2022020316455,2022020316,Shot,455,SHOT,Yanni Gourde Backhand saved by Kaapo Kahkonen,2022-11-24T04:34:28Z,2,16:39,03:21,4,3,55.0,Seattle Kraken,SEA
+169,55,28,Seattle Kraken,San Jose Sharks,2022020316316,2022020316,Missed Shot,316,MISSED_SHOT,Brandon Tanev Wide of Net Kaapo Kahkonen,2022-11-24T04:34:29Z,2,16:40,03:20,4,3,55.0,Seattle Kraken,SEA
+170,55,28,Seattle Kraken,San Jose Sharks,2022020316456,2022020316,Missed Shot,456,MISSED_SHOT,Justin Schultz Wide of Net Kaapo Kahkonen,2022-11-24T04:35:15Z,2,17:26,02:34,4,3,55.0,Seattle Kraken,SEA
+171,55,28,Seattle Kraken,San Jose Sharks,2022020316280,2022020316,Hit,280,HIT,Daniel Sprong hit Nick Cicek,2022-11-24T04:35:58Z,2,18:09,01:51,4,3,55.0,Seattle Kraken,SEA
+172,55,28,Seattle Kraken,San Jose Sharks,2022020316457,2022020316,Shot,457,SHOT,Jordan Eberle Backhand saved by Kaapo Kahkonen,2022-11-24T04:36:14Z,2,18:25,01:35,4,3,55.0,Seattle Kraken,SEA
+173,55,28,Seattle Kraken,San Jose Sharks,2022020316317,2022020316,Stoppage,317,STOP,Icing,2022-11-24T04:36:21Z,2,18:32,01:28,4,3,,,
+174,55,28,Seattle Kraken,San Jose Sharks,2022020316281,2022020316,Faceoff,281,FACEOFF,Alex Wennberg faceoff won against Nick Bonino,2022-11-24T04:36:50Z,2,18:32,01:28,4,3,55.0,Seattle Kraken,SEA
+175,55,28,Seattle Kraken,San Jose Sharks,2022020316282,2022020316,Hit,282,HIT,Jaden Schwartz hit Kevin Labanc,2022-11-24T04:37:10Z,2,18:52,01:08,4,3,55.0,Seattle Kraken,SEA
+176,55,28,Seattle Kraken,San Jose Sharks,2022020316458,2022020316,Blocked Shot,458,BLOCKED_SHOT,Matt Nieto shot blocked shot by Jamie Oleksiak,2022-11-24T04:37:33Z,2,19:15,00:45,4,3,55.0,Seattle Kraken,SEA
+177,55,28,Seattle Kraken,San Jose Sharks,2022020316318,2022020316,Stoppage,318,STOP,Icing,2022-11-24T04:37:47Z,2,19:28,00:32,4,3,,,
+178,55,28,Seattle Kraken,San Jose Sharks,2022020316283,2022020316,Faceoff,283,FACEOFF,Alex Wennberg faceoff won against Logan Couture,2022-11-24T04:38:10Z,2,19:28,00:32,4,3,55.0,Seattle Kraken,SEA
+179,55,28,Seattle Kraken,San Jose Sharks,2022020316459,2022020316,Shot,459,SHOT,Jared McCann Wrist Shot saved by Kaapo Kahkonen,2022-11-24T04:38:26Z,2,19:44,00:16,4,3,55.0,Seattle Kraken,SEA
+180,55,28,Seattle Kraken,San Jose Sharks,2022020316319,2022020316,Period End,319,PERIOD_END,End of 2nd Period,2022-11-24T04:38:42Z,2,20:00,00:00,4,3,,,
+181,55,28,Seattle Kraken,San Jose Sharks,2022020316322,2022020316,Period Official,322,PERIOD_OFFICIAL,Period Official,2022-11-24T04:55:23Z,2,20:00,00:00,4,3,,,
+182,55,28,Seattle Kraken,San Jose Sharks,2022020316323,2022020316,Period Ready,323,PERIOD_READY,Period Ready,2022-11-24T04:55:26Z,3,00:00,20:00,4,3,,,
+183,55,28,Seattle Kraken,San Jose Sharks,2022020316284,2022020316,Period Start,284,PERIOD_START,Period Start,2022-11-24T04:57:44Z,3,00:00,20:00,4,3,,,
+184,55,28,Seattle Kraken,San Jose Sharks,2022020316285,2022020316,Faceoff,285,FACEOFF,Tomas Hertl faceoff won against Alex Wennberg,2022-11-24T04:57:44Z,3,00:00,20:00,4,3,28.0,San Jose Sharks,SJS
+185,55,28,Seattle Kraken,San Jose Sharks,2022020316324,2022020316,Stoppage,324,STOP,Goalie Stopped,2022-11-24T04:58:37Z,3,00:53,19:07,4,3,,,
+186,55,28,Seattle Kraken,San Jose Sharks,2022020316460,2022020316,Shot,460,SHOT,Logan Couture Wrist Shot saved by Martin Jones,2022-11-24T04:58:37Z,3,00:53,19:07,4,3,28.0,San Jose Sharks,SJS
+187,55,28,Seattle Kraken,San Jose Sharks,2022020316286,2022020316,Faceoff,286,FACEOFF,Logan Couture faceoff won against Yanni Gourde,2022-11-24T04:59:00Z,3,00:53,19:07,4,3,28.0,San Jose Sharks,SJS
+188,55,28,Seattle Kraken,San Jose Sharks,2022020316461,2022020316,Blocked Shot,461,BLOCKED_SHOT,Marc-Edouard Vlasic shot blocked shot by Jamie Oleksiak,2022-11-24T04:59:05Z,3,00:58,19:02,4,3,55.0,Seattle Kraken,SEA
+189,55,28,Seattle Kraken,San Jose Sharks,2022020316325,2022020316,Goal,325,GOAL,"Alexander Barabanov (2) Tip-In, assists: Matt Benning (6), Marc-Edouard Vlasic (5)",2022-11-24T04:59:06Z,3,01:00,19:00,4,4,28.0,San Jose Sharks,SJS
+190,55,28,Seattle Kraken,San Jose Sharks,2022020316287,2022020316,Faceoff,287,FACEOFF,Matty Beniers faceoff won against Logan Couture,2022-11-24T04:59:45Z,3,01:00,19:00,4,4,55.0,Seattle Kraken,SEA
+191,55,28,Seattle Kraken,San Jose Sharks,2022020316462,2022020316,Blocked Shot,462,BLOCKED_SHOT,Luke Kunin shot blocked shot by Carson Soucy,2022-11-24T05:00:27Z,3,01:42,18:18,4,4,55.0,Seattle Kraken,SEA
+192,55,28,Seattle Kraken,San Jose Sharks,2022020316463,2022020316,Missed Shot,463,MISSED_SHOT,Morgan Geekie Goalpost Kaapo Kahkonen,2022-11-24T05:00:47Z,3,02:02,17:58,4,4,55.0,Seattle Kraken,SEA
+193,55,28,Seattle Kraken,San Jose Sharks,2022020316326,2022020316,Missed Shot,326,MISSED_SHOT,Adam Larsson Wide of Net Kaapo Kahkonen,2022-11-24T05:01:02Z,3,02:17,17:43,4,4,55.0,Seattle Kraken,SEA
+194,55,28,Seattle Kraken,San Jose Sharks,2022020316465,2022020316,Blocked Shot,465,BLOCKED_SHOT,Adam Larsson shot blocked shot by Nick Bonino,2022-11-24T05:01:09Z,3,02:24,17:36,4,4,28.0,San Jose Sharks,SJS
+195,55,28,Seattle Kraken,San Jose Sharks,2022020316288,2022020316,Hit,288,HIT,Oliver Bjorkstrand hit Jaycob Megna,2022-11-24T05:01:26Z,3,02:41,17:19,4,4,55.0,Seattle Kraken,SEA
+196,55,28,Seattle Kraken,San Jose Sharks,2022020316466,2022020316,Goal,466,GOAL,"Oliver Bjorkstrand (2) Backhand, assists: Yanni Gourde (8), Brandon Tanev (7)",2022-11-24T05:01:33Z,3,02:48,17:12,5,4,55.0,Seattle Kraken,SEA
+197,55,28,Seattle Kraken,San Jose Sharks,2022020316290,2022020316,Faceoff,290,FACEOFF,Alex Wennberg faceoff won against Tomas Hertl,2022-11-24T05:02:23Z,3,02:48,17:12,5,4,55.0,Seattle Kraken,SEA
+198,55,28,Seattle Kraken,San Jose Sharks,2022020316802,2022020316,Blocked Shot,802,BLOCKED_SHOT,Timo Meier shot blocked shot by Justin Schultz,2022-11-24T05:02:48Z,3,03:13,16:47,5,4,55.0,Seattle Kraken,SEA
+199,55,28,Seattle Kraken,San Jose Sharks,2022020316467,2022020316,Shot,467,SHOT,Timo Meier Backhand saved by Martin Jones,2022-11-24T05:02:50Z,3,03:15,16:45,5,4,28.0,San Jose Sharks,SJS
+200,55,28,Seattle Kraken,San Jose Sharks,2022020316327,2022020316,Stoppage,327,STOP,Goalie Stopped,2022-11-24T05:02:52Z,3,03:16,16:44,5,4,,,
+201,55,28,Seattle Kraken,San Jose Sharks,2022020316291,2022020316,Faceoff,291,FACEOFF,Alex Wennberg faceoff won against Tomas Hertl,2022-11-24T05:03:24Z,3,03:16,16:44,5,4,55.0,Seattle Kraken,SEA
+202,55,28,Seattle Kraken,San Jose Sharks,2022020316468,2022020316,Blocked Shot,468,BLOCKED_SHOT,Timo Meier shot blocked shot by Alex Wennberg,2022-11-24T05:03:33Z,3,03:25,16:35,5,4,55.0,Seattle Kraken,SEA
+203,55,28,Seattle Kraken,San Jose Sharks,2022020316292,2022020316,Hit,292,HIT,Mario Ferraro hit Andre Burakovsky,2022-11-24T05:03:38Z,3,03:30,16:30,5,4,28.0,San Jose Sharks,SJS
+204,55,28,Seattle Kraken,San Jose Sharks,2022020316469,2022020316,Goal,469,GOAL,"Jaden Schwartz (6) Snap Shot, assists: Andre Burakovsky (13), Matty Beniers (8)",2022-11-24T05:03:55Z,3,03:47,16:13,6,4,55.0,Seattle Kraken,SEA
+205,55,28,Seattle Kraken,San Jose Sharks,2022020316294,2022020316,Faceoff,294,FACEOFF,Logan Couture faceoff won against Matty Beniers,2022-11-24T05:04:45Z,3,03:47,16:13,6,4,28.0,San Jose Sharks,SJS
+206,55,28,Seattle Kraken,San Jose Sharks,2022020316295,2022020316,Giveaway,295,GIVEAWAY,Giveaway by Jared McCann,2022-11-24T05:05:12Z,3,04:14,15:46,6,4,55.0,Seattle Kraken,SEA
+207,55,28,Seattle Kraken,San Jose Sharks,2022020316328,2022020316,Stoppage,328,STOP,Offside,2022-11-24T05:05:13Z,3,04:15,15:45,6,4,,,
+208,55,28,Seattle Kraken,San Jose Sharks,2022020316296,2022020316,Faceoff,296,FACEOFF,Yanni Gourde faceoff won against Logan Couture,2022-11-24T05:05:36Z,3,04:15,15:45,6,4,55.0,Seattle Kraken,SEA
+209,55,28,Seattle Kraken,San Jose Sharks,2022020316297,2022020316,Giveaway,297,GIVEAWAY,Giveaway by Yanni Gourde,2022-11-24T05:05:47Z,3,04:26,15:34,6,4,55.0,Seattle Kraken,SEA
+210,55,28,Seattle Kraken,San Jose Sharks,2022020316298,2022020316,Hit,298,HIT,Brandon Tanev hit Alexander Barabanov,2022-11-24T05:05:54Z,3,04:33,15:27,6,4,55.0,Seattle Kraken,SEA
+211,55,28,Seattle Kraken,San Jose Sharks,2022020316329,2022020316,Giveaway,329,GIVEAWAY,Giveaway by Will Borgen,2022-11-24T05:05:56Z,3,04:35,15:25,6,4,55.0,Seattle Kraken,SEA
+212,55,28,Seattle Kraken,San Jose Sharks,2022020316330,2022020316,Stoppage,330,STOP,Icing,2022-11-24T05:06:12Z,3,04:50,15:10,6,4,,,
+213,55,28,Seattle Kraken,San Jose Sharks,2022020316299,2022020316,Faceoff,299,FACEOFF,Nick Bonino faceoff won against Yanni Gourde,2022-11-24T05:06:33Z,3,04:50,15:10,6,4,28.0,San Jose Sharks,SJS
+214,55,28,Seattle Kraken,San Jose Sharks,2022020316470,2022020316,Missed Shot,470,MISSED_SHOT,Jaycob Megna Wide of Net Martin Jones,2022-11-24T05:06:41Z,3,04:58,15:02,6,4,28.0,San Jose Sharks,SJS
+215,55,28,Seattle Kraken,San Jose Sharks,2022020316300,2022020316,Hit,300,HIT,Noah Gregor hit Jamie Oleksiak,2022-11-24T05:06:59Z,3,05:16,14:44,6,4,28.0,San Jose Sharks,SJS
+216,55,28,Seattle Kraken,San Jose Sharks,2022020316471,2022020316,Shot,471,SHOT,Jaycob Megna Snap Shot saved by Martin Jones,2022-11-24T05:07:08Z,3,05:25,14:35,6,4,28.0,San Jose Sharks,SJS
+217,55,28,Seattle Kraken,San Jose Sharks,2022020316331,2022020316,Stoppage,331,STOP,Puck Frozen,2022-11-24T05:07:30Z,3,05:47,14:13,6,4,,,
+218,55,28,Seattle Kraken,San Jose Sharks,2022020316472,2022020316,Missed Shot,472,MISSED_SHOT,Jordan Eberle Goalpost Kaapo Kahkonen,2022-11-24T05:07:30Z,3,05:47,14:13,6,4,55.0,Seattle Kraken,SEA
+219,55,28,Seattle Kraken,San Jose Sharks,2022020316701,2022020316,Faceoff,701,FACEOFF,Tomas Hertl faceoff won against Alex Wennberg,2022-11-24T05:08:06Z,3,05:47,14:13,6,4,28.0,San Jose Sharks,SJS
+220,55,28,Seattle Kraken,San Jose Sharks,2022020316702,2022020316,Hit,702,HIT,Vince Dunn hit Mario Ferraro,2022-11-24T05:08:40Z,3,06:21,13:39,6,4,55.0,Seattle Kraken,SEA
+221,55,28,Seattle Kraken,San Jose Sharks,2022020316473,2022020316,Shot,473,SHOT,Timo Meier Snap Shot saved by Martin Jones,2022-11-24T05:08:48Z,3,06:29,13:31,6,4,28.0,San Jose Sharks,SJS
+222,55,28,Seattle Kraken,San Jose Sharks,2022020316703,2022020316,Takeaway,703,TAKEAWAY,Takeaway by Andre Burakovsky,2022-11-24T05:08:57Z,3,06:38,13:22,6,4,55.0,Seattle Kraken,SEA
+223,55,28,Seattle Kraken,San Jose Sharks,2022020316704,2022020316,Takeaway,704,TAKEAWAY,Takeaway by Ryan Donato,2022-11-24T05:09:25Z,3,07:06,12:54,6,4,55.0,Seattle Kraken,SEA
+224,55,28,Seattle Kraken,San Jose Sharks,2022020316705,2022020316,Hit,705,HIT,Daniel Sprong hit Jonah Gadjovich,2022-11-24T05:09:39Z,3,07:20,12:40,6,4,55.0,Seattle Kraken,SEA
+225,55,28,Seattle Kraken,San Jose Sharks,2022020316332,2022020316,Stoppage,332,STOP,Goalie Stopped,2022-11-24T05:09:55Z,3,07:37,12:23,6,4,,,
+226,55,28,Seattle Kraken,San Jose Sharks,2022020316474,2022020316,Shot,474,SHOT,Matt Nieto Wrist Shot saved by Martin Jones,2022-11-24T05:09:55Z,3,07:37,12:23,6,4,28.0,San Jose Sharks,SJS
+227,55,28,Seattle Kraken,San Jose Sharks,2022020316706,2022020316,Faceoff,706,FACEOFF,Logan Couture faceoff won against Matty Beniers,2022-11-24T05:12:23Z,3,07:37,12:23,6,4,28.0,San Jose Sharks,SJS
+228,55,28,Seattle Kraken,San Jose Sharks,2022020316475,2022020316,Shot,475,SHOT,Jaycob Megna Snap Shot saved by Martin Jones,2022-11-24T05:12:52Z,3,08:06,11:54,6,4,28.0,San Jose Sharks,SJS
+229,55,28,Seattle Kraken,San Jose Sharks,2022020316707,2022020316,Hit,707,HIT,Adam Larsson hit Alexander Barabanov,2022-11-24T05:13:04Z,3,08:18,11:42,6,4,55.0,Seattle Kraken,SEA
+230,55,28,Seattle Kraken,San Jose Sharks,2022020316708,2022020316,Hit,708,HIT,Timo Meier hit Matty Beniers,2022-11-24T05:13:22Z,3,08:36,11:24,6,4,28.0,San Jose Sharks,SJS
+231,55,28,Seattle Kraken,San Jose Sharks,2022020316476,2022020316,Goal,476,GOAL,"Timo Meier (12) Tip-In, assists: Kevin Labanc (7), Tomas Hertl (15)",2022-11-24T05:13:44Z,3,08:58,11:02,6,5,28.0,San Jose Sharks,SJS
+232,55,28,Seattle Kraken,San Jose Sharks,2022020316709,2022020316,Faceoff,709,FACEOFF,Tomas Hertl faceoff won against Alex Wennberg,2022-11-24T05:14:38Z,3,08:58,11:02,6,5,28.0,San Jose Sharks,SJS
+233,55,28,Seattle Kraken,San Jose Sharks,2022020316710,2022020316,Takeaway,710,TAKEAWAY,Takeaway by Jaden Schwartz,2022-11-24T05:14:55Z,3,09:15,10:45,6,5,55.0,Seattle Kraken,SEA
+234,55,28,Seattle Kraken,San Jose Sharks,2022020316711,2022020316,Takeaway,711,TAKEAWAY,Takeaway by Justin Schultz,2022-11-24T05:15:08Z,3,09:28,10:32,6,5,55.0,Seattle Kraken,SEA
+235,55,28,Seattle Kraken,San Jose Sharks,2022020316333,2022020316,Stoppage,333,STOP,Offside,2022-11-24T05:15:40Z,3,10:01,09:59,6,5,,,
+236,55,28,Seattle Kraken,San Jose Sharks,2022020316712,2022020316,Faceoff,712,FACEOFF,Nick Bonino faceoff won against Brandon Tanev,2022-11-24T05:18:05Z,3,10:01,09:59,6,5,28.0,San Jose Sharks,SJS
+237,55,28,Seattle Kraken,San Jose Sharks,2022020316713,2022020316,Hit,713,HIT,Luke Kunin hit Will Borgen,2022-11-24T05:18:29Z,3,10:25,09:35,6,5,28.0,San Jose Sharks,SJS
+238,55,28,Seattle Kraken,San Jose Sharks,2022020316714,2022020316,Hit,714,HIT,Yanni Gourde hit Steven Lorentz,2022-11-24T05:18:41Z,3,10:37,09:23,6,5,55.0,Seattle Kraken,SEA
+239,55,28,Seattle Kraken,San Jose Sharks,2022020316477,2022020316,Shot,477,SHOT,Steven Lorentz Wrist Shot saved by Martin Jones,2022-11-24T05:18:59Z,3,10:55,09:05,6,5,28.0,San Jose Sharks,SJS
+240,55,28,Seattle Kraken,San Jose Sharks,2022020316715,2022020316,Hit,715,HIT,Adam Larsson hit Steven Lorentz,2022-11-24T05:19:02Z,3,10:58,09:02,6,5,55.0,Seattle Kraken,SEA
+241,55,28,Seattle Kraken,San Jose Sharks,2022020316334,2022020316,Giveaway,334,GIVEAWAY,Giveaway by Erik Karlsson,2022-11-24T05:19:10Z,3,11:06,08:54,6,5,28.0,San Jose Sharks,SJS
+242,55,28,Seattle Kraken,San Jose Sharks,2022020316716,2022020316,Hit,716,HIT,Tomas Hertl hit Vince Dunn,2022-11-24T05:19:27Z,3,11:23,08:37,6,5,28.0,San Jose Sharks,SJS
+243,55,28,Seattle Kraken,San Jose Sharks,2022020316478,2022020316,Shot,478,SHOT,Andre Burakovsky Wrist Shot saved by Kaapo Kahkonen,2022-11-24T05:19:48Z,3,11:44,08:16,6,5,55.0,Seattle Kraken,SEA
+244,55,28,Seattle Kraken,San Jose Sharks,2022020316335,2022020316,Stoppage,335,STOP,Puck in Netting,2022-11-24T05:19:50Z,3,11:46,08:14,6,5,,,
+245,55,28,Seattle Kraken,San Jose Sharks,2022020316717,2022020316,Faceoff,717,FACEOFF,Alex Wennberg faceoff won against Tomas Hertl,2022-11-24T05:20:17Z,3,11:46,08:14,6,5,55.0,Seattle Kraken,SEA
+246,55,28,Seattle Kraken,San Jose Sharks,2022020316336,2022020316,Stoppage,336,STOP,Goalie Stopped,2022-11-24T05:20:31Z,3,11:59,08:01,6,5,,,
+247,55,28,Seattle Kraken,San Jose Sharks,2022020316479,2022020316,Shot,479,SHOT,Justin Schultz Snap Shot saved by Kaapo Kahkonen,2022-11-24T05:20:31Z,3,11:59,08:01,6,5,55.0,Seattle Kraken,SEA
+248,55,28,Seattle Kraken,San Jose Sharks,2022020316718,2022020316,Faceoff,718,FACEOFF,Logan Couture faceoff won against Matty Beniers,2022-11-24T05:21:01Z,3,11:59,08:01,6,5,28.0,San Jose Sharks,SJS
+249,55,28,Seattle Kraken,San Jose Sharks,2022020316480,2022020316,Missed Shot,480,MISSED_SHOT,Noah Gregor Over Net Martin Jones,2022-11-24T05:22:03Z,3,13:01,06:59,6,5,28.0,San Jose Sharks,SJS
+250,55,28,Seattle Kraken,San Jose Sharks,2022020316481,2022020316,Blocked Shot,481,BLOCKED_SHOT,Oskar Lindblom shot blocked shot by Adam Larsson,2022-11-24T05:22:45Z,3,13:43,06:17,6,5,55.0,Seattle Kraken,SEA
+251,55,28,Seattle Kraken,San Jose Sharks,2022020316719,2022020316,Hit,719,HIT,Morgan Geekie hit Mario Ferraro,2022-11-24T05:22:50Z,3,13:48,06:12,6,5,55.0,Seattle Kraken,SEA
+252,55,28,Seattle Kraken,San Jose Sharks,2022020316720,2022020316,Hit,720,HIT,Jonah Gadjovich hit Jaden Schwartz,2022-11-24T05:22:57Z,3,13:55,06:05,6,5,28.0,San Jose Sharks,SJS
+253,55,28,Seattle Kraken,San Jose Sharks,2022020316482,2022020316,Blocked Shot,482,BLOCKED_SHOT,Andre Burakovsky shot blocked shot by Mario Ferraro,2022-11-24T05:22:59Z,3,13:57,06:03,6,5,28.0,San Jose Sharks,SJS
+254,55,28,Seattle Kraken,San Jose Sharks,2022020316483,2022020316,Missed Shot,483,MISSED_SHOT,Marc-Edouard Vlasic Wide of Net Martin Jones,2022-11-24T05:23:56Z,3,14:54,05:06,6,5,28.0,San Jose Sharks,SJS
+255,55,28,Seattle Kraken,San Jose Sharks,2022020316721,2022020316,Hit,721,HIT,Carson Soucy hit Kevin Labanc,2022-11-24T05:23:59Z,3,14:57,05:03,6,5,55.0,Seattle Kraken,SEA
+256,55,28,Seattle Kraken,San Jose Sharks,2022020316484,2022020316,Goal,484,GOAL,"Matty Beniers (6) Wrist Shot, assists: Jared McCann (5), Carson Soucy (4)",2022-11-24T05:24:18Z,3,15:16,04:44,7,5,55.0,Seattle Kraken,SEA
+257,55,28,Seattle Kraken,San Jose Sharks,2022020316722,2022020316,Faceoff,722,FACEOFF,Yanni Gourde faceoff won against Logan Couture,2022-11-24T05:25:03Z,3,15:16,04:44,7,5,55.0,Seattle Kraken,SEA
+258,55,28,Seattle Kraken,San Jose Sharks,2022020316485,2022020316,Shot,485,SHOT,Matt Nieto Wrist Shot saved by Martin Jones,2022-11-24T05:25:28Z,3,15:41,04:19,7,5,28.0,San Jose Sharks,SJS
+259,55,28,Seattle Kraken,San Jose Sharks,2022020316752,2022020316,Blocked Shot,752,BLOCKED_SHOT,Logan Couture shot blocked shot by Adam Larsson,2022-11-24T05:25:32Z,3,15:45,04:15,7,5,55.0,Seattle Kraken,SEA
+260,55,28,Seattle Kraken,San Jose Sharks,2022020316486,2022020316,Shot,486,SHOT,Erik Karlsson Wrist Shot saved by Martin Jones,2022-11-24T05:25:40Z,3,15:53,04:07,7,5,28.0,San Jose Sharks,SJS
+261,55,28,Seattle Kraken,San Jose Sharks,2022020316337,2022020316,Stoppage,337,STOP,Puck in Crowd,2022-11-24T05:26:15Z,3,16:28,03:32,7,5,,,
+262,55,28,Seattle Kraken,San Jose Sharks,2022020316723,2022020316,Faceoff,723,FACEOFF,Tomas Hertl faceoff won against Alex Wennberg,2022-11-24T05:28:50Z,3,16:28,03:32,7,5,28.0,San Jose Sharks,SJS
+263,55,28,Seattle Kraken,San Jose Sharks,2022020316724,2022020316,Hit,724,HIT,Timo Meier hit Adam Larsson,2022-11-24T05:29:31Z,3,17:09,02:51,7,5,28.0,San Jose Sharks,SJS
+264,55,28,Seattle Kraken,San Jose Sharks,2022020316487,2022020316,Missed Shot,487,MISSED_SHOT,Vince Dunn Wide of Net,2022-11-24T05:29:48Z,3,17:26,02:34,7,5,55.0,Seattle Kraken,SEA
+265,55,28,Seattle Kraken,San Jose Sharks,2022020316725,2022020316,Stoppage,725,STOP,Icing,2022-11-24T05:29:50Z,3,17:28,02:32,7,5,,,
+266,55,28,Seattle Kraken,San Jose Sharks,2022020316726,2022020316,Faceoff,726,FACEOFF,Tomas Hertl faceoff won against Alex Wennberg,2022-11-24T05:30:16Z,3,17:28,02:32,7,5,28.0,San Jose Sharks,SJS
+267,55,28,Seattle Kraken,San Jose Sharks,2022020316488,2022020316,Blocked Shot,488,BLOCKED_SHOT,Brandon Tanev shot blocked shot by Erik Karlsson,2022-11-24T05:30:25Z,3,17:37,02:23,7,5,28.0,San Jose Sharks,SJS
+268,55,28,Seattle Kraken,San Jose Sharks,2022020316489,2022020316,Shot,489,SHOT,Kevin Labanc Wrist Shot saved by Martin Jones,2022-11-24T05:30:57Z,3,18:08,01:52,7,5,28.0,San Jose Sharks,SJS
+269,55,28,Seattle Kraken,San Jose Sharks,2022020316338,2022020316,Stoppage,338,STOP,Goalie Stopped,2022-11-24T05:30:57Z,3,18:09,01:51,7,5,,,
+270,55,28,Seattle Kraken,San Jose Sharks,2022020316727,2022020316,Faceoff,727,FACEOFF,Morgan Geekie faceoff won against Nick Bonino,2022-11-24T05:31:31Z,3,18:09,01:51,7,5,55.0,Seattle Kraken,SEA
+271,55,28,Seattle Kraken,San Jose Sharks,2022020316490,2022020316,Missed Shot,490,MISSED_SHOT,Jordan Eberle Goalpost,2022-11-24T05:31:58Z,3,18:36,01:24,7,5,55.0,Seattle Kraken,SEA
+272,55,28,Seattle Kraken,San Jose Sharks,2022020316339,2022020316,Missed Shot,339,MISSED_SHOT,Yanni Gourde Wide of Net,2022-11-24T05:31:59Z,3,18:37,01:23,7,5,55.0,Seattle Kraken,SEA
+273,55,28,Seattle Kraken,San Jose Sharks,2022020316728,2022020316,Blocked Shot,728,BLOCKED_SHOT,Jamie Oleksiak shot blocked shot by Matt Benning,2022-11-24T05:32:01Z,3,18:39,01:21,7,5,28.0,San Jose Sharks,SJS
+274,55,28,Seattle Kraken,San Jose Sharks,2022020316729,2022020316,Hit,729,HIT,Matt Benning hit Brandon Tanev,2022-11-24T05:32:25Z,3,19:03,00:57,7,5,28.0,San Jose Sharks,SJS
+275,55,28,Seattle Kraken,San Jose Sharks,2022020316730,2022020316,Takeaway,730,TAKEAWAY,Takeaway by Jaden Schwartz,2022-11-24T05:32:46Z,3,19:24,00:36,7,5,55.0,Seattle Kraken,SEA
+276,55,28,Seattle Kraken,San Jose Sharks,2022020316491,2022020316,Goal,491,GOAL,"Jaden Schwartz (7) Wrist Shot, assists: none",2022-11-24T05:32:48Z,3,19:25,00:35,8,5,55.0,Seattle Kraken,SEA
+277,55,28,Seattle Kraken,San Jose Sharks,2022020316731,2022020316,Faceoff,731,FACEOFF,Morgan Geekie faceoff won against Steven Lorentz,2022-11-24T05:33:39Z,3,19:25,00:35,8,5,55.0,Seattle Kraken,SEA
+278,55,28,Seattle Kraken,San Jose Sharks,2022020316340,2022020316,Period End,340,PERIOD_END,End of 3rd Period,2022-11-24T05:34:13Z,3,20:00,00:00,8,5,,,
+279,55,28,Seattle Kraken,San Jose Sharks,2022020316343,2022020316,Period Official,343,PERIOD_OFFICIAL,Period Official,2022-11-24T05:34:16Z,3,20:00,00:00,8,5,,,
+280,55,28,Seattle Kraken,San Jose Sharks,2022020316344,2022020316,Game End,344,GAME_END,Game End,2022-11-24T05:34:21Z,3,20:00,00:00,8,5,,,
+281,55,28,Seattle Kraken,San Jose Sharks,2022020316345,2022020316,Game Official,345,GAME_OFFICIAL,Game Official,2022-11-24T06:02:34Z,3,20:00,00:00,8,5,,,

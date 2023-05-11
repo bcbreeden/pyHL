@@ -1,0 +1,315 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,21,55,Colorado Avalanche,Seattle Kraken,20220210051,2022021005,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-03-06T01:14:40Z,1,00:00,20:00,0,0,,,
+1,21,55,Colorado Avalanche,Seattle Kraken,202202100554,2022021005,Period Ready,54,PERIOD_READY,Period Ready,2023-03-06T02:08:13Z,1,00:00,20:00,0,0,,,
+2,21,55,Colorado Avalanche,Seattle Kraken,20220210052,2022021005,Period Start,2,PERIOD_START,Period Start,2023-03-06T02:08:55Z,1,00:00,20:00,0,0,,,
+3,21,55,Colorado Avalanche,Seattle Kraken,20220210053,2022021005,Faceoff,3,FACEOFF,Alex Wennberg faceoff won against J.T. Compher,2023-03-06T02:08:55Z,1,00:00,20:00,0,0,55.0,Seattle Kraken,SEA
+4,21,55,Colorado Avalanche,Seattle Kraken,202202100558,2022021005,Takeaway,58,TAKEAWAY,Takeaway by Samuel Girard,2023-03-06T02:09:02Z,1,00:07,19:53,0,0,21.0,Colorado Avalanche,COL
+5,21,55,Colorado Avalanche,Seattle Kraken,20220210055,2022021005,Giveaway,5,GIVEAWAY,Giveaway by Valeri Nichushkin,2023-03-06T02:10:06Z,1,01:11,18:49,0,0,21.0,Colorado Avalanche,COL
+6,21,55,Colorado Avalanche,Seattle Kraken,202202100559,2022021005,Stoppage,59,STOP,Icing,2023-03-06T02:10:14Z,1,01:19,18:41,0,0,,,
+7,21,55,Colorado Avalanche,Seattle Kraken,20220210056,2022021005,Faceoff,6,FACEOFF,Lars Eller faceoff won against Matty Beniers,2023-03-06T02:10:35Z,1,01:19,18:41,0,0,21.0,Colorado Avalanche,COL
+8,21,55,Colorado Avalanche,Seattle Kraken,202202100560,2022021005,Hit,60,HIT,Jack Johnson hit Jesper Froden,2023-03-06T02:10:57Z,1,01:41,18:19,0,0,21.0,Colorado Avalanche,COL
+9,21,55,Colorado Avalanche,Seattle Kraken,2022021005251,2022021005,Blocked Shot,251,BLOCKED_SHOT,Lars Eller shot blocked shot by Yanni Gourde,2023-03-06T02:11:06Z,1,01:50,18:10,0,0,55.0,Seattle Kraken,SEA
+10,21,55,Colorado Avalanche,Seattle Kraken,20220210058,2022021005,Missed Shot,8,MISSED_SHOT,Andrew Cogliano Wide of Net Philipp Grubauer,2023-03-06T02:11:15Z,1,01:59,18:01,0,0,21.0,Colorado Avalanche,COL
+11,21,55,Colorado Avalanche,Seattle Kraken,202202100561,2022021005,Stoppage,61,STOP,Icing,2023-03-06T02:11:46Z,1,02:29,17:31,0,0,,,
+12,21,55,Colorado Avalanche,Seattle Kraken,20220210059,2022021005,Faceoff,9,FACEOFF,Morgan Geekie faceoff won against J.T. Compher,2023-03-06T02:12:12Z,1,02:29,17:31,0,0,55.0,Seattle Kraken,SEA
+13,21,55,Colorado Avalanche,Seattle Kraken,2022021005201,2022021005,Hit,201,HIT,Cale Makar hit Brandon Tanev,2023-03-06T02:12:20Z,1,02:37,17:23,0,0,21.0,Colorado Avalanche,COL
+14,21,55,Colorado Avalanche,Seattle Kraken,2022021005202,2022021005,Giveaway,202,GIVEAWAY,Giveaway by Nathan MacKinnon,2023-03-06T02:12:49Z,1,03:06,16:54,0,0,21.0,Colorado Avalanche,COL
+15,21,55,Colorado Avalanche,Seattle Kraken,202202100510,2022021005,Shot,10,SHOT,Brandon Tanev Backhand saved by Alexandar Georgiev,2023-03-06T02:12:55Z,1,03:12,16:48,0,0,55.0,Seattle Kraken,SEA
+16,21,55,Colorado Avalanche,Seattle Kraken,202202100564,2022021005,Stoppage,64,STOP,Goalie Stopped,2023-03-06T02:12:55Z,1,03:13,16:47,0,0,,,
+17,21,55,Colorado Avalanche,Seattle Kraken,202202100511,2022021005,Faceoff,11,FACEOFF,Alex Newhook faceoff won against Alex Wennberg,2023-03-06T02:13:24Z,1,03:13,16:47,0,0,21.0,Colorado Avalanche,COL
+18,21,55,Colorado Avalanche,Seattle Kraken,202202100565,2022021005,Stoppage,65,STOP,Offside,2023-03-06T02:13:31Z,1,03:19,16:41,0,0,,,
+19,21,55,Colorado Avalanche,Seattle Kraken,202202100512,2022021005,Faceoff,12,FACEOFF,Alex Newhook faceoff won against Jaden Schwartz,2023-03-06T02:13:56Z,1,03:19,16:41,0,0,21.0,Colorado Avalanche,COL
+20,21,55,Colorado Avalanche,Seattle Kraken,202202100513,2022021005,Shot,13,SHOT,Artturi Lehkonen Tip-In saved by Philipp Grubauer,2023-03-06T02:14:17Z,1,03:40,16:20,0,0,21.0,Colorado Avalanche,COL
+21,21,55,Colorado Avalanche,Seattle Kraken,2022021005203,2022021005,Takeaway,203,TAKEAWAY,Takeaway by Lars Eller,2023-03-06T02:14:50Z,1,04:13,15:47,0,0,21.0,Colorado Avalanche,COL
+22,21,55,Colorado Avalanche,Seattle Kraken,202202100566,2022021005,Hit,66,HIT,Andrew Cogliano hit Jared McCann,2023-03-06T02:14:58Z,1,04:21,15:39,0,0,21.0,Colorado Avalanche,COL
+23,21,55,Colorado Avalanche,Seattle Kraken,202202100567,2022021005,Hit,67,HIT,Andrew Cogliano hit Justin Schultz,2023-03-06T02:15:06Z,1,04:29,15:31,0,0,21.0,Colorado Avalanche,COL
+24,21,55,Colorado Avalanche,Seattle Kraken,202202100514,2022021005,Shot,14,SHOT,Carson Soucy Slap Shot saved by Alexandar Georgiev,2023-03-06T02:15:13Z,1,04:36,15:24,0,0,55.0,Seattle Kraken,SEA
+25,21,55,Colorado Avalanche,Seattle Kraken,202202100568,2022021005,Stoppage,68,STOP,Goalie Stopped,2023-03-06T02:15:15Z,1,04:37,15:23,0,0,,,
+26,21,55,Colorado Avalanche,Seattle Kraken,202202100515,2022021005,Faceoff,15,FACEOFF,J.T. Compher faceoff won against Yanni Gourde,2023-03-06T02:15:45Z,1,04:37,15:23,0,0,21.0,Colorado Avalanche,COL
+27,21,55,Colorado Avalanche,Seattle Kraken,202202100569,2022021005,Blocked Shot,69,BLOCKED_SHOT,Vince Dunn shot blocked shot by Jack Johnson,2023-03-06T02:16:15Z,1,05:07,14:53,0,0,21.0,Colorado Avalanche,COL
+28,21,55,Colorado Avalanche,Seattle Kraken,202202100516,2022021005,Shot,16,SHOT,Adam Larsson Snap Shot saved by Alexandar Georgiev,2023-03-06T02:16:21Z,1,05:13,14:47,0,0,55.0,Seattle Kraken,SEA
+29,21,55,Colorado Avalanche,Seattle Kraken,202202100517,2022021005,Shot,17,SHOT,Eeli Tolvanen Wrist Shot saved by Alexandar Georgiev,2023-03-06T02:16:30Z,1,05:22,14:38,0,0,55.0,Seattle Kraken,SEA
+30,21,55,Colorado Avalanche,Seattle Kraken,202202100570,2022021005,Stoppage,70,STOP,Goalie Stopped,2023-03-06T02:16:30Z,1,05:22,14:38,0,0,,,
+31,21,55,Colorado Avalanche,Seattle Kraken,202202100518,2022021005,Faceoff,18,FACEOFF,Morgan Geekie faceoff won against Nathan MacKinnon,2023-03-06T02:17:01Z,1,05:22,14:38,0,0,55.0,Seattle Kraken,SEA
+32,21,55,Colorado Avalanche,Seattle Kraken,2022021005205,2022021005,Hit,205,HIT,Bowen Byram hit Morgan Geekie,2023-03-06T02:17:09Z,1,05:30,14:30,0,0,21.0,Colorado Avalanche,COL
+33,21,55,Colorado Avalanche,Seattle Kraken,2022021005206,2022021005,Hit,206,HIT,Adam Larsson hit Denis Malgin,2023-03-06T02:18:43Z,1,07:04,12:56,0,0,55.0,Seattle Kraken,SEA
+34,21,55,Colorado Avalanche,Seattle Kraken,2022021005207,2022021005,Hit,207,HIT,Lars Eller hit Adam Larsson,2023-03-06T02:19:05Z,1,07:26,12:34,0,0,21.0,Colorado Avalanche,COL
+35,21,55,Colorado Avalanche,Seattle Kraken,202202100571,2022021005,Blocked Shot,71,BLOCKED_SHOT,Matty Beniers shot blocked shot by Matt Nieto,2023-03-06T02:19:24Z,1,07:45,12:15,0,0,21.0,Colorado Avalanche,COL
+36,21,55,Colorado Avalanche,Seattle Kraken,2022021005208,2022021005,Giveaway,208,GIVEAWAY,Giveaway by Yanni Gourde,2023-03-06T02:19:42Z,1,08:03,11:57,0,0,55.0,Seattle Kraken,SEA
+37,21,55,Colorado Avalanche,Seattle Kraken,202202100572,2022021005,Hit,72,HIT,Jack Johnson hit Jesper Froden,2023-03-06T02:20:03Z,1,08:24,11:36,0,0,21.0,Colorado Avalanche,COL
+38,21,55,Colorado Avalanche,Seattle Kraken,202202100519,2022021005,Missed Shot,19,MISSED_SHOT,Justin Schultz Wide of Net Alexandar Georgiev,2023-03-06T02:20:16Z,1,08:37,11:23,0,0,55.0,Seattle Kraken,SEA
+39,21,55,Colorado Avalanche,Seattle Kraken,202202100520,2022021005,Goal,20,GOAL,"Nathan MacKinnon (25) Snap Shot, assists: Artturi Lehkonen (26), Valeri Nichushkin (17)",2023-03-06T02:20:58Z,1,09:19,10:41,1,0,21.0,Colorado Avalanche,COL
+40,21,55,Colorado Avalanche,Seattle Kraken,2022021005210,2022021005,Faceoff,210,FACEOFF,Morgan Geekie faceoff won against Alex Newhook,2023-03-06T02:21:46Z,1,09:19,10:41,1,0,55.0,Seattle Kraken,SEA
+41,21,55,Colorado Avalanche,Seattle Kraken,2022021005211,2022021005,Hit,211,HIT,Ryan Donato hit Bowen Byram,2023-03-06T02:22:10Z,1,09:43,10:17,1,0,55.0,Seattle Kraken,SEA
+42,21,55,Colorado Avalanche,Seattle Kraken,202202100521,2022021005,Shot,21,SHOT,Evan Rodrigues Wrist Shot saved by Philipp Grubauer,2023-03-06T02:22:20Z,1,09:53,10:07,1,0,21.0,Colorado Avalanche,COL
+43,21,55,Colorado Avalanche,Seattle Kraken,202202100573,2022021005,Stoppage,73,STOP,Goalie Stopped,2023-03-06T02:22:21Z,1,09:54,10:06,1,0,,,
+44,21,55,Colorado Avalanche,Seattle Kraken,202202100522,2022021005,Faceoff,22,FACEOFF,Matty Beniers faceoff won against Mikko Rantanen,2023-03-06T02:24:51Z,1,09:54,10:06,1,0,55.0,Seattle Kraken,SEA
+45,21,55,Colorado Avalanche,Seattle Kraken,202202100523,2022021005,Shot,23,SHOT,Samuel Girard Wrist Shot saved by Philipp Grubauer,2023-03-06T02:25:09Z,1,10:12,09:48,1,0,21.0,Colorado Avalanche,COL
+46,21,55,Colorado Avalanche,Seattle Kraken,2022021005212,2022021005,Hit,212,HIT,Adam Larsson hit Matt Nieto,2023-03-06T02:25:09Z,1,10:12,09:48,1,0,55.0,Seattle Kraken,SEA
+47,21,55,Colorado Avalanche,Seattle Kraken,202202100524,2022021005,Missed Shot,24,MISSED_SHOT,Jordan Eberle Wide of Net Alexandar Georgiev,2023-03-06T02:25:21Z,1,10:24,09:36,1,0,55.0,Seattle Kraken,SEA
+48,21,55,Colorado Avalanche,Seattle Kraken,2022021005213,2022021005,Hit,213,HIT,Eeli Tolvanen hit Devon Toews,2023-03-06T02:26:09Z,1,11:12,08:48,1,0,55.0,Seattle Kraken,SEA
+49,21,55,Colorado Avalanche,Seattle Kraken,2022021005214,2022021005,Hit,214,HIT,Yanni Gourde hit Brad Hunt,2023-03-06T02:26:30Z,1,11:33,08:27,1,0,55.0,Seattle Kraken,SEA
+50,21,55,Colorado Avalanche,Seattle Kraken,202202100574,2022021005,Stoppage,74,STOP,Icing,2023-03-06T02:26:38Z,1,11:41,08:19,1,0,,,
+51,21,55,Colorado Avalanche,Seattle Kraken,202202100525,2022021005,Faceoff,25,FACEOFF,Alex Wennberg faceoff won against Evan Rodrigues,2023-03-06T02:27:24Z,1,11:41,08:19,1,0,55.0,Seattle Kraken,SEA
+52,21,55,Colorado Avalanche,Seattle Kraken,2022021005215,2022021005,Hit,215,HIT,Brad Hunt hit Jaden Schwartz,2023-03-06T02:27:33Z,1,11:50,08:10,1,0,21.0,Colorado Avalanche,COL
+53,21,55,Colorado Avalanche,Seattle Kraken,202202100575,2022021005,Stoppage,75,STOP,Offside,2023-03-06T02:28:22Z,1,12:38,07:22,1,0,,,
+54,21,55,Colorado Avalanche,Seattle Kraken,202202100526,2022021005,Faceoff,26,FACEOFF,Nathan MacKinnon faceoff won against Matty Beniers,2023-03-06T02:30:32Z,1,12:38,07:22,1,0,21.0,Colorado Avalanche,COL
+55,21,55,Colorado Avalanche,Seattle Kraken,202202100576,2022021005,Takeaway,76,TAKEAWAY,Takeaway by Jared McCann,2023-03-06T02:30:42Z,1,12:48,07:12,1,0,55.0,Seattle Kraken,SEA
+56,21,55,Colorado Avalanche,Seattle Kraken,202202100527,2022021005,Shot,27,SHOT,Jordan Eberle Wrist Shot saved by Alexandar Georgiev,2023-03-06T02:31:07Z,1,13:13,06:47,1,0,55.0,Seattle Kraken,SEA
+57,21,55,Colorado Avalanche,Seattle Kraken,2022021005216,2022021005,Hit,216,HIT,Artturi Lehkonen hit Matty Beniers,2023-03-06T02:31:09Z,1,13:15,06:45,1,0,21.0,Colorado Avalanche,COL
+58,21,55,Colorado Avalanche,Seattle Kraken,202202100528,2022021005,Blocked Shot,28,BLOCKED_SHOT,Jordan Eberle shot blocked shot by Nathan MacKinnon,2023-03-06T02:31:18Z,1,13:24,06:36,1,0,21.0,Colorado Avalanche,COL
+59,21,55,Colorado Avalanche,Seattle Kraken,202202100577,2022021005,Stoppage,77,STOP,Offside,2023-03-06T02:31:40Z,1,13:46,06:14,1,0,,,
+60,21,55,Colorado Avalanche,Seattle Kraken,202202100529,2022021005,Faceoff,29,FACEOFF,J.T. Compher faceoff won against Yanni Gourde,2023-03-06T02:32:09Z,1,13:46,06:14,1,0,21.0,Colorado Avalanche,COL
+61,21,55,Colorado Avalanche,Seattle Kraken,202202100578,2022021005,Missed Shot,78,MISSED_SHOT,Bowen  Byram Over Net Philipp Grubauer,2023-03-06T02:32:14Z,1,13:51,06:09,1,0,21.0,Colorado Avalanche,COL
+62,21,55,Colorado Avalanche,Seattle Kraken,202202100579,2022021005,Stoppage,79,STOP,Icing,2023-03-06T02:32:21Z,1,13:58,06:02,1,0,,,
+63,21,55,Colorado Avalanche,Seattle Kraken,202202100530,2022021005,Faceoff,30,FACEOFF,Yanni Gourde faceoff won against Nathan MacKinnon,2023-03-06T02:32:52Z,1,13:58,06:02,1,0,55.0,Seattle Kraken,SEA
+64,21,55,Colorado Avalanche,Seattle Kraken,202202100580,2022021005,Giveaway,80,GIVEAWAY,Giveaway by Yanni Gourde,2023-03-06T02:33:09Z,1,14:15,05:45,1,0,55.0,Seattle Kraken,SEA
+65,21,55,Colorado Avalanche,Seattle Kraken,2022021005217,2022021005,Giveaway,217,GIVEAWAY,Giveaway by Yanni Gourde,2023-03-06T02:33:10Z,1,14:16,05:44,1,0,55.0,Seattle Kraken,SEA
+66,21,55,Colorado Avalanche,Seattle Kraken,2022021005218,2022021005,Hit,218,HIT,Jesper Froden hit Nathan MacKinnon,2023-03-06T02:33:28Z,1,14:34,05:26,1,0,55.0,Seattle Kraken,SEA
+67,21,55,Colorado Avalanche,Seattle Kraken,2022021005219,2022021005,Takeaway,219,TAKEAWAY,Takeaway by Logan O'Connor,2023-03-06T02:33:44Z,1,14:50,05:10,1,0,21.0,Colorado Avalanche,COL
+68,21,55,Colorado Avalanche,Seattle Kraken,202202100531,2022021005,Shot,31,SHOT,Jack Johnson Wrist Shot saved by Philipp Grubauer,2023-03-06T02:33:52Z,1,14:57,05:03,1,0,21.0,Colorado Avalanche,COL
+69,21,55,Colorado Avalanche,Seattle Kraken,202202100582,2022021005,Stoppage,82,STOP,Goalie Stopped,2023-03-06T02:33:52Z,1,14:57,05:03,1,0,,,
+70,21,55,Colorado Avalanche,Seattle Kraken,202202100532,2022021005,Faceoff,32,FACEOFF,Matty Beniers faceoff won against Nathan MacKinnon,2023-03-06T02:35:59Z,1,14:57,05:03,1,0,55.0,Seattle Kraken,SEA
+71,21,55,Colorado Avalanche,Seattle Kraken,2022021005220,2022021005,Takeaway,220,TAKEAWAY,Takeaway by Nathan MacKinnon,2023-03-06T02:36:08Z,1,15:06,04:54,1,0,21.0,Colorado Avalanche,COL
+72,21,55,Colorado Avalanche,Seattle Kraken,2022021005389,2022021005,Penalty,389,PENALTY,Jordan Eberle Delaying Game - Puck over glass,2023-03-06T02:36:14Z,1,15:12,04:48,1,0,55.0,Seattle Kraken,SEA
+73,21,55,Colorado Avalanche,Seattle Kraken,202202100533,2022021005,Faceoff,33,FACEOFF,J.T. Compher faceoff won against Alex Wennberg,2023-03-06T02:36:55Z,1,15:12,04:48,1,0,21.0,Colorado Avalanche,COL
+74,21,55,Colorado Avalanche,Seattle Kraken,202202100584,2022021005,Blocked Shot,84,BLOCKED_SHOT,Cale Makar shot blocked shot by Alex Wennberg,2023-03-06T02:37:08Z,1,15:25,04:35,1,0,55.0,Seattle Kraken,SEA
+75,21,55,Colorado Avalanche,Seattle Kraken,202202100585,2022021005,Missed Shot,85,MISSED_SHOT,Nathan MacKinnon Wide of Net Philipp Grubauer,2023-03-06T02:37:16Z,1,15:33,04:27,1,0,21.0,Colorado Avalanche,COL
+76,21,55,Colorado Avalanche,Seattle Kraken,2022021005221,2022021005,Hit,221,HIT,Carson Soucy hit Mikko Rantanen,2023-03-06T02:37:45Z,1,16:02,03:58,1,0,55.0,Seattle Kraken,SEA
+77,21,55,Colorado Avalanche,Seattle Kraken,202202100535,2022021005,Shot,35,SHOT,J.T. Compher Snap Shot saved by Philipp Grubauer,2023-03-06T02:37:58Z,1,16:15,03:45,1,0,21.0,Colorado Avalanche,COL
+78,21,55,Colorado Avalanche,Seattle Kraken,202202100586,2022021005,Takeaway,86,TAKEAWAY,Takeaway by Jared McCann,2023-03-06T02:38:08Z,1,16:25,03:35,1,0,55.0,Seattle Kraken,SEA
+79,21,55,Colorado Avalanche,Seattle Kraken,202202100536,2022021005,Shot,36,SHOT,Jared McCann Wrist Shot saved by Alexandar Georgiev,2023-03-06T02:38:12Z,1,16:29,03:31,1,0,55.0,Seattle Kraken,SEA
+80,21,55,Colorado Avalanche,Seattle Kraken,202202100587,2022021005,Stoppage,87,STOP,Puck in Netting,2023-03-06T02:38:14Z,1,16:30,03:30,1,0,,,
+81,21,55,Colorado Avalanche,Seattle Kraken,202202100537,2022021005,Faceoff,37,FACEOFF,Alex Newhook faceoff won against Alex Wennberg,2023-03-06T02:38:41Z,1,16:30,03:30,1,0,21.0,Colorado Avalanche,COL
+82,21,55,Colorado Avalanche,Seattle Kraken,2022021005223,2022021005,Giveaway,223,GIVEAWAY,Giveaway by Cale Makar,2023-03-06T02:38:58Z,1,16:47,03:13,1,0,21.0,Colorado Avalanche,COL
+83,21,55,Colorado Avalanche,Seattle Kraken,202202100588,2022021005,Stoppage,88,STOP,Icing,2023-03-06T02:39:55Z,1,17:44,02:16,1,0,,,
+84,21,55,Colorado Avalanche,Seattle Kraken,202202100538,2022021005,Faceoff,38,FACEOFF,Matty Beniers faceoff won against Lars Eller,2023-03-06T02:40:18Z,1,17:44,02:16,1,0,55.0,Seattle Kraken,SEA
+85,21,55,Colorado Avalanche,Seattle Kraken,202202100589,2022021005,Giveaway,89,GIVEAWAY,Giveaway by Logan O'Connor,2023-03-06T02:40:55Z,1,18:21,01:39,1,0,21.0,Colorado Avalanche,COL
+86,21,55,Colorado Avalanche,Seattle Kraken,202202100590,2022021005,Missed Shot,90,MISSED_SHOT,Valeri Nichushkin Wide of Net Philipp Grubauer,2023-03-06T02:41:20Z,1,18:46,01:14,1,0,21.0,Colorado Avalanche,COL
+87,21,55,Colorado Avalanche,Seattle Kraken,2022021005224,2022021005,Takeaway,224,TAKEAWAY,Takeaway by Eeli Tolvanen,2023-03-06T02:41:59Z,1,19:25,00:35,1,0,55.0,Seattle Kraken,SEA
+88,21,55,Colorado Avalanche,Seattle Kraken,202202100539,2022021005,Missed Shot,39,MISSED_SHOT,Eeli Tolvanen Wide of Net Alexandar Georgiev,2023-03-06T02:42:05Z,1,19:31,00:29,1,0,55.0,Seattle Kraken,SEA
+89,21,55,Colorado Avalanche,Seattle Kraken,202202100540,2022021005,Missed Shot,40,MISSED_SHOT,Carson Soucy Wide of Net Alexandar Georgiev,2023-03-06T02:42:11Z,1,19:37,00:23,1,0,55.0,Seattle Kraken,SEA
+90,21,55,Colorado Avalanche,Seattle Kraken,202202100591,2022021005,Blocked Shot,91,BLOCKED_SHOT,Brandon Tanev shot blocked shot by Cale Makar,2023-03-06T02:42:15Z,1,19:41,00:19,1,0,21.0,Colorado Avalanche,COL
+91,21,55,Colorado Avalanche,Seattle Kraken,2022021005252,2022021005,Blocked Shot,252,BLOCKED_SHOT,Yanni Gourde shot blocked shot by Samuel Girard,2023-03-06T02:42:24Z,1,19:50,00:10,1,0,21.0,Colorado Avalanche,COL
+92,21,55,Colorado Avalanche,Seattle Kraken,2022021005253,2022021005,Takeaway,253,TAKEAWAY,Takeaway by Carson Soucy,2023-03-06T02:42:27Z,1,19:53,00:07,1,0,55.0,Seattle Kraken,SEA
+93,21,55,Colorado Avalanche,Seattle Kraken,202202100541,2022021005,Shot,41,SHOT,Carson Soucy Slap Shot saved by Alexandar Georgiev,2023-03-06T02:42:33Z,1,19:59,00:01,1,0,55.0,Seattle Kraken,SEA
+94,21,55,Colorado Avalanche,Seattle Kraken,202202100592,2022021005,Period End,92,PERIOD_END,End of 1st Period,2023-03-06T02:42:34Z,1,20:00,00:00,1,0,,,
+95,21,55,Colorado Avalanche,Seattle Kraken,202202100595,2022021005,Period Official,95,PERIOD_OFFICIAL,Period Official,2023-03-06T02:59:03Z,1,20:00,00:00,1,0,,,
+96,21,55,Colorado Avalanche,Seattle Kraken,202202100596,2022021005,Period Ready,96,PERIOD_READY,Period Ready,2023-03-06T03:00:15Z,2,00:00,20:00,1,0,,,
+97,21,55,Colorado Avalanche,Seattle Kraken,202202100542,2022021005,Period Start,42,PERIOD_START,Period Start,2023-03-06T03:01:40Z,2,00:00,20:00,1,0,,,
+98,21,55,Colorado Avalanche,Seattle Kraken,202202100543,2022021005,Faceoff,43,FACEOFF,Alex Wennberg faceoff won against J.T. Compher,2023-03-06T03:01:40Z,2,00:00,20:00,1,0,55.0,Seattle Kraken,SEA
+99,21,55,Colorado Avalanche,Seattle Kraken,202202100597,2022021005,Hit,97,HIT,Bowen Byram hit Jaden Schwartz,2023-03-06T03:01:47Z,2,00:07,19:53,1,0,21.0,Colorado Avalanche,COL
+100,21,55,Colorado Avalanche,Seattle Kraken,202202100545,2022021005,Takeaway,45,TAKEAWAY,Takeaway by Alex Wennberg,2023-03-06T03:01:56Z,2,00:16,19:44,1,0,55.0,Seattle Kraken,SEA
+101,21,55,Colorado Avalanche,Seattle Kraken,202202100598,2022021005,Hit,98,HIT,Mikko Rantanen hit Alex Wennberg,2023-03-06T03:02:04Z,2,00:24,19:36,1,0,21.0,Colorado Avalanche,COL
+102,21,55,Colorado Avalanche,Seattle Kraken,202202100599,2022021005,Blocked Shot,99,BLOCKED_SHOT,Mikko Rantanen shot blocked shot by Alex Wennberg,2023-03-06T03:02:16Z,2,00:36,19:24,1,0,55.0,Seattle Kraken,SEA
+103,21,55,Colorado Avalanche,Seattle Kraken,202202100546,2022021005,Giveaway,46,GIVEAWAY,Giveaway by Valeri Nichushkin,2023-03-06T03:03:13Z,2,01:33,18:27,1,0,21.0,Colorado Avalanche,COL
+104,21,55,Colorado Avalanche,Seattle Kraken,2022021005450,2022021005,Penalty,450,PENALTY,Cale Makar Cross-checking against Matty Beniers,2023-03-06T03:04:05Z,2,02:26,17:34,1,0,21.0,Colorado Avalanche,COL
+105,21,55,Colorado Avalanche,Seattle Kraken,202202100547,2022021005,Faceoff,47,FACEOFF,J.T. Compher faceoff won against Alex Wennberg,2023-03-06T03:04:48Z,2,02:26,17:34,1,0,21.0,Colorado Avalanche,COL
+106,21,55,Colorado Avalanche,Seattle Kraken,202202100548,2022021005,Missed Shot,48,MISSED_SHOT,Alex Wennberg Goalpost Alexandar Georgiev,2023-03-06T03:05:38Z,2,03:16,16:44,1,0,55.0,Seattle Kraken,SEA
+107,21,55,Colorado Avalanche,Seattle Kraken,202202100549,2022021005,Shot,49,SHOT,Alex Wennberg Wrist Shot saved by Alexandar Georgiev,2023-03-06T03:05:39Z,2,03:17,16:43,1,0,55.0,Seattle Kraken,SEA
+108,21,55,Colorado Avalanche,Seattle Kraken,2022021005301,2022021005,Blocked Shot,301,BLOCKED_SHOT,Vince Dunn shot blocked shot by Logan O'Connor,2023-03-06T03:05:52Z,2,03:30,16:30,1,0,21.0,Colorado Avalanche,COL
+109,21,55,Colorado Avalanche,Seattle Kraken,202202100550,2022021005,Shot,50,SHOT,Jared McCann Slap Shot saved by Alexandar Georgiev,2023-03-06T03:06:07Z,2,03:45,16:15,1,0,55.0,Seattle Kraken,SEA
+110,21,55,Colorado Avalanche,Seattle Kraken,2022021005303,2022021005,Stoppage,303,STOP,Puck in Netting,2023-03-06T03:06:07Z,2,03:46,16:14,1,0,,,
+111,21,55,Colorado Avalanche,Seattle Kraken,2022021005304,2022021005,Faceoff,304,FACEOFF,Yanni Gourde faceoff won against J.T. Compher,2023-03-06T03:06:43Z,2,03:46,16:14,1,0,55.0,Seattle Kraken,SEA
+112,21,55,Colorado Avalanche,Seattle Kraken,2022021005305,2022021005,Takeaway,305,TAKEAWAY,Takeaway by J.T. Compher,2023-03-06T03:06:52Z,2,03:55,16:05,1,0,21.0,Colorado Avalanche,COL
+113,21,55,Colorado Avalanche,Seattle Kraken,2022021005451,2022021005,Missed Shot,451,MISSED_SHOT,Valeri Nichushkin Wide of Net Philipp Grubauer,2023-03-06T03:06:59Z,2,04:02,15:58,1,0,21.0,Colorado Avalanche,COL
+114,21,55,Colorado Avalanche,Seattle Kraken,2022021005452,2022021005,Shot,452,SHOT,Jaden Schwartz Tip-In saved by Alexandar Georgiev,2023-03-06T03:07:23Z,2,04:26,15:34,1,0,55.0,Seattle Kraken,SEA
+115,21,55,Colorado Avalanche,Seattle Kraken,2022021005306,2022021005,Stoppage,306,STOP,Icing,2023-03-06T03:07:52Z,2,04:54,15:06,1,0,,,
+116,21,55,Colorado Avalanche,Seattle Kraken,2022021005453,2022021005,Faceoff,453,FACEOFF,J.T. Compher faceoff won against Morgan Geekie,2023-03-06T03:08:24Z,2,04:54,15:06,1,0,21.0,Colorado Avalanche,COL
+117,21,55,Colorado Avalanche,Seattle Kraken,2022021005454,2022021005,Blocked Shot,454,BLOCKED_SHOT,Cale Makar shot blocked shot by Morgan Geekie,2023-03-06T03:08:29Z,2,04:59,15:01,1,0,55.0,Seattle Kraken,SEA
+118,21,55,Colorado Avalanche,Seattle Kraken,2022021005307,2022021005,Hit,307,HIT,Jamie Oleksiak hit Mikko Rantanen,2023-03-06T03:08:36Z,2,05:06,14:54,1,0,55.0,Seattle Kraken,SEA
+119,21,55,Colorado Avalanche,Seattle Kraken,2022021005455,2022021005,Missed Shot,455,MISSED_SHOT,Cale Makar Wide of Net Philipp Grubauer,2023-03-06T03:08:38Z,2,05:08,14:52,1,0,21.0,Colorado Avalanche,COL
+120,21,55,Colorado Avalanche,Seattle Kraken,2022021005308,2022021005,Blocked Shot,308,BLOCKED_SHOT,Cale Makar shot blocked shot by Jamie Oleksiak,2023-03-06T03:08:53Z,2,05:23,14:37,1,0,55.0,Seattle Kraken,SEA
+121,21,55,Colorado Avalanche,Seattle Kraken,2022021005456,2022021005,Shot,456,SHOT,Brandon Tanev Backhand saved by Alexandar Georgiev,2023-03-06T03:09:01Z,2,05:31,14:29,1,0,55.0,Seattle Kraken,SEA
+122,21,55,Colorado Avalanche,Seattle Kraken,2022021005309,2022021005,Stoppage,309,STOP,Puck Frozen,2023-03-06T03:09:20Z,2,05:50,14:10,1,0,,,
+123,21,55,Colorado Avalanche,Seattle Kraken,2022021005458,2022021005,Faceoff,458,FACEOFF,Alex Newhook faceoff won against Alex Wennberg,2023-03-06T03:09:52Z,2,05:50,14:10,1,0,21.0,Colorado Avalanche,COL
+124,21,55,Colorado Avalanche,Seattle Kraken,2022021005310,2022021005,Blocked Shot,310,BLOCKED_SHOT,Evan Rodrigues shot blocked shot by Adam Larsson,2023-03-06T03:09:54Z,2,05:52,14:08,1,0,55.0,Seattle Kraken,SEA
+125,21,55,Colorado Avalanche,Seattle Kraken,2022021005459,2022021005,Shot,459,SHOT,Brad Hunt Slap Shot saved by Philipp Grubauer,2023-03-06T03:10:03Z,2,06:01,13:59,1,0,21.0,Colorado Avalanche,COL
+126,21,55,Colorado Avalanche,Seattle Kraken,2022021005460,2022021005,Shot,460,SHOT,Alex Newhook Slap Shot saved by Philipp Grubauer,2023-03-06T03:10:04Z,2,06:02,13:58,1,0,21.0,Colorado Avalanche,COL
+127,21,55,Colorado Avalanche,Seattle Kraken,2022021005311,2022021005,Blocked Shot,311,BLOCKED_SHOT,Jaden Schwartz shot blocked shot by Denis Malgin,2023-03-06T03:10:40Z,2,06:38,13:22,1,0,21.0,Colorado Avalanche,COL
+128,21,55,Colorado Avalanche,Seattle Kraken,2022021005461,2022021005,Shot,461,SHOT,Logan O'Connor Wrist Shot saved by Philipp Grubauer,2023-03-06T03:10:53Z,2,06:51,13:09,1,0,21.0,Colorado Avalanche,COL
+129,21,55,Colorado Avalanche,Seattle Kraken,2022021005225,2022021005,Hit,225,HIT,Carson Soucy hit Andrew Cogliano,2023-03-06T03:10:58Z,2,06:56,13:04,1,0,55.0,Seattle Kraken,SEA
+130,21,55,Colorado Avalanche,Seattle Kraken,2022021005226,2022021005,Hit,226,HIT,Carson Soucy hit Logan O'Connor,2023-03-06T03:11:27Z,2,07:25,12:35,1,0,55.0,Seattle Kraken,SEA
+131,21,55,Colorado Avalanche,Seattle Kraken,2022021005462,2022021005,Missed Shot,462,MISSED_SHOT,Logan O'Connor Wide of Net Philipp Grubauer,2023-03-06T03:11:41Z,2,07:39,12:21,1,0,21.0,Colorado Avalanche,COL
+132,21,55,Colorado Avalanche,Seattle Kraken,2022021005463,2022021005,Shot,463,SHOT,Jared McCann Wrist Shot saved by Alexandar Georgiev,2023-03-06T03:11:55Z,2,07:53,12:07,1,0,55.0,Seattle Kraken,SEA
+133,21,55,Colorado Avalanche,Seattle Kraken,2022021005312,2022021005,Stoppage,312,STOP,Goalie Stopped,2023-03-06T03:11:55Z,2,07:54,12:06,1,0,,,
+134,21,55,Colorado Avalanche,Seattle Kraken,2022021005464,2022021005,Faceoff,464,FACEOFF,Yanni Gourde faceoff won against J.T. Compher,2023-03-06T03:14:25Z,2,07:54,12:06,1,0,55.0,Seattle Kraken,SEA
+135,21,55,Colorado Avalanche,Seattle Kraken,2022021005313,2022021005,Stoppage,313,STOP,Goalie Stopped,2023-03-06T03:14:31Z,2,08:00,12:00,1,0,,,
+136,21,55,Colorado Avalanche,Seattle Kraken,2022021005465,2022021005,Shot,465,SHOT,Vince Dunn Slap Shot saved by Alexandar Georgiev,2023-03-06T03:14:31Z,2,08:00,12:00,1,0,55.0,Seattle Kraken,SEA
+137,21,55,Colorado Avalanche,Seattle Kraken,2022021005466,2022021005,Faceoff,466,FACEOFF,Yanni Gourde faceoff won against J.T. Compher,2023-03-06T03:14:52Z,2,08:00,12:00,1,0,55.0,Seattle Kraken,SEA
+138,21,55,Colorado Avalanche,Seattle Kraken,2022021005314,2022021005,Blocked Shot,314,BLOCKED_SHOT,Vince Dunn shot blocked shot by Bowen Byram,2023-03-06T03:14:57Z,2,08:05,11:55,1,0,21.0,Colorado Avalanche,COL
+139,21,55,Colorado Avalanche,Seattle Kraken,2022021005467,2022021005,Shot,467,SHOT,Eeli Tolvanen Wrist Shot saved by Alexandar Georgiev,2023-03-06T03:15:18Z,2,08:26,11:34,1,0,55.0,Seattle Kraken,SEA
+140,21,55,Colorado Avalanche,Seattle Kraken,2022021005468,2022021005,Shot,468,SHOT,J.T. Compher Tip-In saved by Philipp Grubauer,2023-03-06T03:15:41Z,2,08:49,11:11,1,0,21.0,Colorado Avalanche,COL
+141,21,55,Colorado Avalanche,Seattle Kraken,2022021005227,2022021005,Takeaway,227,TAKEAWAY,Takeaway by Matty Beniers,2023-03-06T03:16:11Z,2,09:19,10:41,1,0,55.0,Seattle Kraken,SEA
+142,21,55,Colorado Avalanche,Seattle Kraken,2022021005315,2022021005,Stoppage,315,STOP,Hand Pass,2023-03-06T03:16:16Z,2,09:24,10:36,1,0,,,
+143,21,55,Colorado Avalanche,Seattle Kraken,2022021005469,2022021005,Faceoff,469,FACEOFF,Nathan MacKinnon faceoff won against Alex Wennberg,2023-03-06T03:16:48Z,2,09:24,10:36,1,0,21.0,Colorado Avalanche,COL
+144,21,55,Colorado Avalanche,Seattle Kraken,2022021005228,2022021005,Hit,228,HIT,Jaden Schwartz hit Bowen Byram,2023-03-06T03:17:11Z,2,09:47,10:13,1,0,55.0,Seattle Kraken,SEA
+145,21,55,Colorado Avalanche,Seattle Kraken,2022021005470,2022021005,Goal,470,GOAL,"Alex Wennberg (12) Tip-In, assists: Will Borgen (15), Jaden Schwartz (17)",2023-03-06T03:17:17Z,2,09:52,10:08,1,1,55.0,Seattle Kraken,SEA
+146,21,55,Colorado Avalanche,Seattle Kraken,2022021005229,2022021005,Faceoff,229,FACEOFF,Lars Eller faceoff won against Morgan Geekie,2023-03-06T03:17:59Z,2,09:52,10:08,1,1,21.0,Colorado Avalanche,COL
+147,21,55,Colorado Avalanche,Seattle Kraken,2022021005230,2022021005,Hit,230,HIT,Ryan Donato hit Brad Hunt,2023-03-06T03:18:25Z,2,10:18,09:42,1,1,55.0,Seattle Kraken,SEA
+148,21,55,Colorado Avalanche,Seattle Kraken,2022021005471,2022021005,Missed Shot,471,MISSED_SHOT,Morgan Geekie Wide of Net Alexandar Georgiev,2023-03-06T03:18:39Z,2,10:32,09:28,1,1,55.0,Seattle Kraken,SEA
+149,21,55,Colorado Avalanche,Seattle Kraken,2022021005231,2022021005,Hit,231,HIT,Jack Johnson hit Ryan Donato,2023-03-06T03:18:49Z,2,10:42,09:18,1,1,21.0,Colorado Avalanche,COL
+150,21,55,Colorado Avalanche,Seattle Kraken,2022021005258,2022021005,Blocked Shot,258,BLOCKED_SHOT,Jack Johnson shot blocked shot by Justin Schultz,2023-03-06T03:19:00Z,2,10:53,09:07,1,1,55.0,Seattle Kraken,SEA
+151,21,55,Colorado Avalanche,Seattle Kraken,2022021005232,2022021005,Takeaway,232,TAKEAWAY,Takeaway by Cale Makar,2023-03-06T03:19:11Z,2,11:04,08:56,1,1,21.0,Colorado Avalanche,COL
+152,21,55,Colorado Avalanche,Seattle Kraken,2022021005316,2022021005,Stoppage,316,STOP,Icing,2023-03-06T03:19:23Z,2,11:16,08:44,1,1,,,
+153,21,55,Colorado Avalanche,Seattle Kraken,2022021005472,2022021005,Faceoff,472,FACEOFF,Alex Newhook faceoff won against Yanni Gourde,2023-03-06T03:19:59Z,2,11:16,08:44,1,1,21.0,Colorado Avalanche,COL
+154,21,55,Colorado Avalanche,Seattle Kraken,2022021005233,2022021005,Hit,233,HIT,Alex Newhook hit Adam Larsson,2023-03-06T03:20:16Z,2,11:33,08:27,1,1,21.0,Colorado Avalanche,COL
+155,21,55,Colorado Avalanche,Seattle Kraken,2022021005473,2022021005,Goal,473,GOAL,"Denis Malgin (6) Wrist Shot, assists: Cale Makar (33), Evan Rodrigues (17)",2023-03-06T03:20:27Z,2,11:45,08:15,2,1,21.0,Colorado Avalanche,COL
+156,21,55,Colorado Avalanche,Seattle Kraken,2022021005234,2022021005,Faceoff,234,FACEOFF,Nathan MacKinnon faceoff won against Matty Beniers,2023-03-06T03:21:07Z,2,11:45,08:15,2,1,21.0,Colorado Avalanche,COL
+157,21,55,Colorado Avalanche,Seattle Kraken,2022021005317,2022021005,Stoppage,317,STOP,Icing,2023-03-06T03:21:13Z,2,11:51,08:09,2,1,,,
+158,21,55,Colorado Avalanche,Seattle Kraken,2022021005318,2022021005,Faceoff,318,FACEOFF,Nathan MacKinnon faceoff won against Matty Beniers,2023-03-06T03:21:36Z,2,11:51,08:09,2,1,21.0,Colorado Avalanche,COL
+159,21,55,Colorado Avalanche,Seattle Kraken,2022021005319,2022021005,Stoppage,319,STOP,Icing,2023-03-06T03:22:15Z,2,12:31,07:29,2,1,,,
+160,21,55,Colorado Avalanche,Seattle Kraken,2022021005475,2022021005,Faceoff,475,FACEOFF,Nathan MacKinnon faceoff won against Alex Wennberg,2023-03-06T03:22:46Z,2,12:31,07:29,2,1,21.0,Colorado Avalanche,COL
+161,21,55,Colorado Avalanche,Seattle Kraken,2022021005476,2022021005,Shot,476,SHOT,Artturi Lehkonen Wrist Shot saved by Philipp Grubauer,2023-03-06T03:23:19Z,2,13:04,06:56,2,1,21.0,Colorado Avalanche,COL
+162,21,55,Colorado Avalanche,Seattle Kraken,2022021005477,2022021005,Stoppage,477,STOP,TV timeout,2023-03-06T03:23:28Z,2,13:13,06:47,2,1,,,
+163,21,55,Colorado Avalanche,Seattle Kraken,2022021005622,2022021005,Penalty,622,PENALTY,Valeri Nichushkin Interference - Goalkeeper against Philipp Grubauer,2023-03-06T03:23:28Z,2,13:13,06:47,2,1,21.0,Colorado Avalanche,COL
+164,21,55,Colorado Avalanche,Seattle Kraken,2022021005478,2022021005,Faceoff,478,FACEOFF,J.T. Compher faceoff won against Alex Wennberg,2023-03-06T03:26:11Z,2,13:13,06:47,2,1,21.0,Colorado Avalanche,COL
+165,21,55,Colorado Avalanche,Seattle Kraken,2022021005479,2022021005,Missed Shot,479,MISSED_SHOT,J.T. Compher Wide of Net Philipp Grubauer,2023-03-06T03:26:21Z,2,13:23,06:37,2,1,21.0,Colorado Avalanche,COL
+166,21,55,Colorado Avalanche,Seattle Kraken,2022021005235,2022021005,Hit,235,HIT,Devon Toews hit Oliver Bjorkstrand,2023-03-06T03:26:41Z,2,13:43,06:17,2,1,21.0,Colorado Avalanche,COL
+167,21,55,Colorado Avalanche,Seattle Kraken,2022021005236,2022021005,Takeaway,236,TAKEAWAY,Takeaway by Artturi Lehkonen,2023-03-06T03:27:49Z,2,14:51,05:09,2,1,21.0,Colorado Avalanche,COL
+168,21,55,Colorado Avalanche,Seattle Kraken,2022021005480,2022021005,Shot,480,SHOT,Cale Makar Wrist Shot saved by Philipp Grubauer,2023-03-06T03:28:09Z,2,15:11,04:49,2,1,21.0,Colorado Avalanche,COL
+169,21,55,Colorado Avalanche,Seattle Kraken,2022021005237,2022021005,Giveaway,237,GIVEAWAY,Giveaway by Will Borgen,2023-03-06T03:28:22Z,2,15:24,04:36,2,1,55.0,Seattle Kraken,SEA
+170,21,55,Colorado Avalanche,Seattle Kraken,2022021005320,2022021005,Stoppage,320,STOP,Offside,2023-03-06T03:28:37Z,2,15:39,04:21,2,1,,,
+171,21,55,Colorado Avalanche,Seattle Kraken,2022021005257,2022021005,Faceoff,257,FACEOFF,Nathan MacKinnon faceoff won against Yanni Gourde,2023-03-06T03:30:52Z,2,15:39,04:21,2,1,21.0,Colorado Avalanche,COL
+172,21,55,Colorado Avalanche,Seattle Kraken,2022021005254,2022021005,Missed Shot,254,MISSED_SHOT,Jesper Froden Wide of Net Alexandar Georgiev,2023-03-06T03:31:02Z,2,15:49,04:11,2,1,55.0,Seattle Kraken,SEA
+173,21,55,Colorado Avalanche,Seattle Kraken,2022021005321,2022021005,Hit,321,HIT,Jesper Froden hit Matt Nieto,2023-03-06T03:31:06Z,2,15:53,04:07,2,1,55.0,Seattle Kraken,SEA
+174,21,55,Colorado Avalanche,Seattle Kraken,2022021005322,2022021005,Stoppage,322,STOP,Goalie Stopped,2023-03-06T03:31:28Z,2,16:15,03:45,2,1,,,
+175,21,55,Colorado Avalanche,Seattle Kraken,2022021005482,2022021005,Shot,482,SHOT,Eeli Tolvanen Wrist Shot saved by Alexandar Georgiev,2023-03-06T03:31:28Z,2,16:15,03:45,2,1,55.0,Seattle Kraken,SEA
+176,21,55,Colorado Avalanche,Seattle Kraken,2022021005484,2022021005,Faceoff,484,FACEOFF,J.T. Compher faceoff won against Alex Wennberg,2023-03-06T03:32:06Z,2,16:15,03:45,2,1,21.0,Colorado Avalanche,COL
+177,21,55,Colorado Avalanche,Seattle Kraken,2022021005485,2022021005,Shot,485,SHOT,Valeri Nichushkin Wrist Shot saved by Philipp Grubauer,2023-03-06T03:32:26Z,2,16:35,03:25,2,1,21.0,Colorado Avalanche,COL
+178,21,55,Colorado Avalanche,Seattle Kraken,2022021005323,2022021005,Stoppage,323,STOP,Goalie Stopped,2023-03-06T03:32:29Z,2,16:38,03:22,2,1,,,
+179,21,55,Colorado Avalanche,Seattle Kraken,2022021005486,2022021005,Shot,486,SHOT,Valeri Nichushkin Wrist Shot saved by Philipp Grubauer,2023-03-06T03:32:29Z,2,16:38,03:22,2,1,21.0,Colorado Avalanche,COL
+180,21,55,Colorado Avalanche,Seattle Kraken,2022021005324,2022021005,Faceoff,324,FACEOFF,J.T. Compher faceoff won against Matty Beniers,2023-03-06T03:33:06Z,2,16:38,03:22,2,1,21.0,Colorado Avalanche,COL
+181,21,55,Colorado Avalanche,Seattle Kraken,2022021005238,2022021005,Hit,238,HIT,Will Borgen hit Valeri Nichushkin,2023-03-06T03:33:28Z,2,17:00,03:00,2,1,55.0,Seattle Kraken,SEA
+182,21,55,Colorado Avalanche,Seattle Kraken,2022021005239,2022021005,Takeaway,239,TAKEAWAY,Takeaway by Bowen  Byram,2023-03-06T03:34:34Z,2,18:06,01:54,2,1,21.0,Colorado Avalanche,COL
+183,21,55,Colorado Avalanche,Seattle Kraken,2022021005325,2022021005,Blocked Shot,325,BLOCKED_SHOT,Adam Larsson shot blocked shot by Evan Rodrigues,2023-03-06T03:34:37Z,2,18:09,01:51,2,1,21.0,Colorado Avalanche,COL
+184,21,55,Colorado Avalanche,Seattle Kraken,2022021005240,2022021005,Hit,240,HIT,Ryan Donato hit Denis Malgin,2023-03-06T03:34:42Z,2,18:14,01:46,2,1,55.0,Seattle Kraken,SEA
+185,21,55,Colorado Avalanche,Seattle Kraken,2022021005326,2022021005,Stoppage,326,STOP,Icing,2023-03-06T03:34:46Z,2,18:19,01:41,2,1,,,
+186,21,55,Colorado Avalanche,Seattle Kraken,2022021005489,2022021005,Faceoff,489,FACEOFF,Alex Newhook faceoff won against Yanni Gourde,2023-03-06T03:35:14Z,2,18:19,01:41,2,1,21.0,Colorado Avalanche,COL
+187,21,55,Colorado Avalanche,Seattle Kraken,2022021005490,2022021005,Shot,490,SHOT,Evan Rodrigues Deflected saved by Philipp Grubauer,2023-03-06T03:35:19Z,2,18:24,01:36,2,1,21.0,Colorado Avalanche,COL
+188,21,55,Colorado Avalanche,Seattle Kraken,2022021005327,2022021005,Stoppage,327,STOP,Goalie Stopped,2023-03-06T03:35:37Z,2,18:42,01:18,2,1,,,
+189,21,55,Colorado Avalanche,Seattle Kraken,2022021005491,2022021005,Shot,491,SHOT,Justin Schultz Wrist Shot saved by Alexandar Georgiev,2023-03-06T03:35:37Z,2,18:42,01:18,2,1,55.0,Seattle Kraken,SEA
+190,21,55,Colorado Avalanche,Seattle Kraken,2022021005492,2022021005,Faceoff,492,FACEOFF,Jaden Schwartz faceoff won against Lars Eller,2023-03-06T03:36:41Z,2,18:42,01:18,2,1,55.0,Seattle Kraken,SEA
+191,21,55,Colorado Avalanche,Seattle Kraken,2022021005329,2022021005,Stoppage,329,STOP,Goalie Stopped,2023-03-06T03:36:45Z,2,18:46,01:14,2,1,,,
+192,21,55,Colorado Avalanche,Seattle Kraken,2022021005493,2022021005,Shot,493,SHOT,Justin Schultz Slap Shot saved by Alexandar Georgiev,2023-03-06T03:36:45Z,2,18:46,01:14,2,1,55.0,Seattle Kraken,SEA
+193,21,55,Colorado Avalanche,Seattle Kraken,2022021005494,2022021005,Faceoff,494,FACEOFF,Jaden Schwartz faceoff won against Lars Eller,2023-03-06T03:37:03Z,2,18:46,01:14,2,1,55.0,Seattle Kraken,SEA
+194,21,55,Colorado Avalanche,Seattle Kraken,2022021005241,2022021005,Hit,241,HIT,Carson Soucy hit Logan O'Connor,2023-03-06T03:37:17Z,2,19:00,01:00,2,1,55.0,Seattle Kraken,SEA
+195,21,55,Colorado Avalanche,Seattle Kraken,2022021005242,2022021005,Hit,242,HIT,Mikko Rantanen hit Will Borgen,2023-03-06T03:38:02Z,2,19:45,00:15,2,1,21.0,Colorado Avalanche,COL
+196,21,55,Colorado Avalanche,Seattle Kraken,2022021005331,2022021005,Penalty,331,PENALTY,Jack Johnson Tripping against Matty Beniers,2023-03-06T03:38:17Z,2,20:00,00:00,2,1,21.0,Colorado Avalanche,COL
+197,21,55,Colorado Avalanche,Seattle Kraken,2022021005335,2022021005,Penalty,335,PENALTY,Mikko Rantanen Unsportsmanlike conduct,2023-03-06T03:38:17Z,2,20:00,00:00,2,1,21.0,Colorado Avalanche,COL
+198,21,55,Colorado Avalanche,Seattle Kraken,2022021005338,2022021005,Period End,338,PERIOD_END,End of 2nd Period,2023-03-06T03:38:17Z,2,20:00,00:00,2,1,,,
+199,21,55,Colorado Avalanche,Seattle Kraken,2022021005341,2022021005,Period Official,341,PERIOD_OFFICIAL,Period Official,2023-03-06T03:56:19Z,2,20:00,00:00,2,1,,,
+200,21,55,Colorado Avalanche,Seattle Kraken,2022021005342,2022021005,Period Ready,342,PERIOD_READY,Period Ready,2023-03-06T03:56:22Z,3,00:00,20:00,2,1,,,
+201,21,55,Colorado Avalanche,Seattle Kraken,2022021005495,2022021005,Period Start,495,PERIOD_START,Period Start,2023-03-06T03:57:57Z,3,00:00,20:00,2,1,,,
+202,21,55,Colorado Avalanche,Seattle Kraken,2022021005496,2022021005,Faceoff,496,FACEOFF,J.T. Compher faceoff won against Alex Wennberg,2023-03-06T03:57:57Z,3,00:00,20:00,2,1,21.0,Colorado Avalanche,COL
+203,21,55,Colorado Avalanche,Seattle Kraken,2022021005497,2022021005,Missed Shot,497,MISSED_SHOT,Jared McCann Wide of Net Alexandar Georgiev,2023-03-06T03:58:20Z,3,00:23,19:37,2,1,55.0,Seattle Kraken,SEA
+204,21,55,Colorado Avalanche,Seattle Kraken,2022021005498,2022021005,Shot,498,SHOT,Eeli Tolvanen Slap Shot saved by Alexandar Georgiev,2023-03-06T03:58:38Z,3,00:41,19:19,2,1,55.0,Seattle Kraken,SEA
+205,21,55,Colorado Avalanche,Seattle Kraken,2022021005343,2022021005,Hit,343,HIT,Alex Wennberg hit Cale Makar,2023-03-06T03:58:44Z,3,00:47,19:13,2,1,55.0,Seattle Kraken,SEA
+206,21,55,Colorado Avalanche,Seattle Kraken,2022021005499,2022021005,Shot,499,SHOT,Jordan Eberle Wrist Shot saved by Alexandar Georgiev,2023-03-06T03:59:07Z,3,01:10,18:50,2,1,55.0,Seattle Kraken,SEA
+207,21,55,Colorado Avalanche,Seattle Kraken,2022021005500,2022021005,Blocked Shot,500,BLOCKED_SHOT,Alex Wennberg shot blocked shot by Devon Toews,2023-03-06T03:59:08Z,3,01:11,18:49,2,1,21.0,Colorado Avalanche,COL
+208,21,55,Colorado Avalanche,Seattle Kraken,2022021005651,2022021005,Shot,651,SHOT,Jared McCann Wrist Shot saved by Alexandar Georgiev,2023-03-06T03:59:14Z,3,01:17,18:43,2,1,55.0,Seattle Kraken,SEA
+209,21,55,Colorado Avalanche,Seattle Kraken,2022021005652,2022021005,Shot,652,SHOT,Eeli Tolvanen Wrist Shot saved by Alexandar Georgiev,2023-03-06T03:59:31Z,3,01:34,18:26,2,1,55.0,Seattle Kraken,SEA
+210,21,55,Colorado Avalanche,Seattle Kraken,2022021005344,2022021005,Stoppage,344,STOP,Goalie Stopped,2023-03-06T03:59:48Z,3,01:51,18:09,2,1,,,
+211,21,55,Colorado Avalanche,Seattle Kraken,2022021005653,2022021005,Shot,653,SHOT,Jared McCann Wrist Shot saved by Alexandar Georgiev,2023-03-06T03:59:48Z,3,01:51,18:09,2,1,55.0,Seattle Kraken,SEA
+212,21,55,Colorado Avalanche,Seattle Kraken,2022021005654,2022021005,Faceoff,654,FACEOFF,Yanni Gourde faceoff won against J.T. Compher,2023-03-06T04:00:24Z,3,01:51,18:09,2,1,55.0,Seattle Kraken,SEA
+213,21,55,Colorado Avalanche,Seattle Kraken,2022021005345,2022021005,Stoppage,345,STOP,Goalie Stopped,2023-03-06T04:00:31Z,3,01:58,18:02,2,1,,,
+214,21,55,Colorado Avalanche,Seattle Kraken,2022021005655,2022021005,Shot,655,SHOT,Oliver Bjorkstrand Slap Shot saved by Alexandar Georgiev,2023-03-06T04:00:31Z,3,01:58,18:02,2,1,55.0,Seattle Kraken,SEA
+215,21,55,Colorado Avalanche,Seattle Kraken,2022021005656,2022021005,Faceoff,656,FACEOFF,Yanni Gourde faceoff won against J.T. Compher,2023-03-06T04:00:51Z,3,01:58,18:02,2,1,55.0,Seattle Kraken,SEA
+216,21,55,Colorado Avalanche,Seattle Kraken,2022021005346,2022021005,Blocked Shot,346,BLOCKED_SHOT,Jaden Schwartz shot blocked shot by Cale Makar,2023-03-06T04:00:57Z,3,02:04,17:56,2,1,21.0,Colorado Avalanche,COL
+217,21,55,Colorado Avalanche,Seattle Kraken,2022021005347,2022021005,Stoppage,347,STOP,Goalie Stopped,2023-03-06T04:00:57Z,3,02:04,17:56,2,1,,,
+218,21,55,Colorado Avalanche,Seattle Kraken,2022021005657,2022021005,Shot,657,SHOT,Jaden Schwartz Wrist Shot saved by Alexandar Georgiev,2023-03-06T04:00:57Z,3,02:04,17:56,2,1,55.0,Seattle Kraken,SEA
+219,21,55,Colorado Avalanche,Seattle Kraken,2022021005658,2022021005,Faceoff,658,FACEOFF,Nathan MacKinnon faceoff won against Yanni Gourde,2023-03-06T04:01:35Z,3,02:04,17:56,2,1,21.0,Colorado Avalanche,COL
+220,21,55,Colorado Avalanche,Seattle Kraken,2022021005349,2022021005,Stoppage,349,STOP,Icing,2023-03-06T04:01:46Z,3,02:15,17:45,2,1,,,
+221,21,55,Colorado Avalanche,Seattle Kraken,2022021005659,2022021005,Faceoff,659,FACEOFF,Yanni Gourde faceoff won against Nathan MacKinnon,2023-03-06T04:02:04Z,3,02:15,17:45,2,1,55.0,Seattle Kraken,SEA
+222,21,55,Colorado Avalanche,Seattle Kraken,2022021005350,2022021005,Blocked Shot,350,BLOCKED_SHOT,Oliver Bjorkstrand shot blocked shot by Nathan MacKinnon,2023-03-06T04:02:07Z,3,02:18,17:42,2,1,21.0,Colorado Avalanche,COL
+223,21,55,Colorado Avalanche,Seattle Kraken,2022021005660,2022021005,Shot,660,SHOT,Jaden Schwartz Slap Shot saved by Alexandar Georgiev,2023-03-06T04:02:19Z,3,02:29,17:31,2,1,55.0,Seattle Kraken,SEA
+224,21,55,Colorado Avalanche,Seattle Kraken,2022021005751,2022021005,Stoppage,751,STOP,Goalie Stopped,2023-03-06T04:02:19Z,3,02:29,17:31,2,1,,,
+225,21,55,Colorado Avalanche,Seattle Kraken,2022021005661,2022021005,Faceoff,661,FACEOFF,Lars Eller faceoff won against Matty Beniers,2023-03-06T04:02:45Z,3,02:29,17:31,2,1,21.0,Colorado Avalanche,COL
+226,21,55,Colorado Avalanche,Seattle Kraken,2022021005752,2022021005,Blocked Shot,752,BLOCKED_SHOT,Adam Larsson shot blocked shot by Andrew Cogliano,2023-03-06T04:02:52Z,3,02:36,17:24,2,1,21.0,Colorado Avalanche,COL
+227,21,55,Colorado Avalanche,Seattle Kraken,2022021005243,2022021005,Hit,243,HIT,Bowen Byram hit Matty Beniers,2023-03-06T04:03:00Z,3,02:44,17:16,2,1,21.0,Colorado Avalanche,COL
+228,21,55,Colorado Avalanche,Seattle Kraken,2022021005739,2022021005,Penalty,739,PENALTY,Brandon Tanev High-sticking against Andrew Cogliano,2023-03-06T04:03:05Z,3,02:49,17:11,2,1,55.0,Seattle Kraken,SEA
+229,21,55,Colorado Avalanche,Seattle Kraken,2022021005662,2022021005,Faceoff,662,FACEOFF,J.T. Compher faceoff won against Yanni Gourde,2023-03-06T04:03:46Z,3,02:49,17:11,2,1,21.0,Colorado Avalanche,COL
+230,21,55,Colorado Avalanche,Seattle Kraken,2022021005244,2022021005,Giveaway,244,GIVEAWAY,Giveaway by Mikko Rantanen,2023-03-06T04:04:37Z,3,03:23,16:37,2,1,21.0,Colorado Avalanche,COL
+231,21,55,Colorado Avalanche,Seattle Kraken,2022021005663,2022021005,Missed Shot,663,MISSED_SHOT,Cale Makar Goalpost Philipp Grubauer,2023-03-06T04:04:46Z,3,03:32,16:28,2,1,21.0,Colorado Avalanche,COL
+232,21,55,Colorado Avalanche,Seattle Kraken,2022021005664,2022021005,Missed Shot,664,MISSED_SHOT,Mikko Rantanen Wide of Net Philipp Grubauer,2023-03-06T04:05:19Z,3,04:05,15:55,2,1,21.0,Colorado Avalanche,COL
+233,21,55,Colorado Avalanche,Seattle Kraken,2022021005665,2022021005,Shot,665,SHOT,Valeri Nichushkin Deflected saved by Philipp Grubauer,2023-03-06T04:05:29Z,3,04:15,15:45,2,1,21.0,Colorado Avalanche,COL
+234,21,55,Colorado Avalanche,Seattle Kraken,2022021005666,2022021005,Shot,666,SHOT,Mikko Rantanen Slap Shot saved by Philipp Grubauer,2023-03-06T04:05:34Z,3,04:20,15:40,2,1,21.0,Colorado Avalanche,COL
+235,21,55,Colorado Avalanche,Seattle Kraken,2022021005245,2022021005,Giveaway,245,GIVEAWAY,Giveaway by Carson Soucy,2023-03-06T04:05:38Z,3,04:24,15:36,2,1,55.0,Seattle Kraken,SEA
+236,21,55,Colorado Avalanche,Seattle Kraken,2022021005246,2022021005,Giveaway,246,GIVEAWAY,Giveaway by Matty Beniers,2023-03-06T04:05:50Z,3,04:36,15:24,2,1,55.0,Seattle Kraken,SEA
+237,21,55,Colorado Avalanche,Seattle Kraken,2022021005667,2022021005,Shot,667,SHOT,Devon Toews Wrist Shot saved by Philipp Grubauer,2023-03-06T04:05:52Z,3,04:38,15:22,2,1,21.0,Colorado Avalanche,COL
+238,21,55,Colorado Avalanche,Seattle Kraken,2022021005668,2022021005,Missed Shot,668,MISSED_SHOT,J.T. Compher Wide of Net Philipp Grubauer,2023-03-06T04:06:03Z,3,04:49,15:11,2,1,21.0,Colorado Avalanche,COL
+239,21,55,Colorado Avalanche,Seattle Kraken,2022021005259,2022021005,Takeaway,259,TAKEAWAY,Takeaway by Devon Toews,2023-03-06T04:06:14Z,3,05:00,15:00,2,1,21.0,Colorado Avalanche,COL
+240,21,55,Colorado Avalanche,Seattle Kraken,2022021005816,2022021005,Penalty,816,PENALTY,Matt Nieto High-sticking against Justin Schultz,2023-03-06T04:07:09Z,3,05:54,14:06,2,1,21.0,Colorado Avalanche,COL
+241,21,55,Colorado Avalanche,Seattle Kraken,2022021005669,2022021005,Faceoff,669,FACEOFF,J.T. Compher faceoff won against Jared McCann,2023-03-06T04:08:10Z,3,05:54,14:06,2,1,21.0,Colorado Avalanche,COL
+242,21,55,Colorado Avalanche,Seattle Kraken,2022021005670,2022021005,Shot,670,SHOT,Oliver Bjorkstrand Wrist Shot saved by Alexandar Georgiev,2023-03-06T04:08:56Z,3,06:40,13:20,2,1,55.0,Seattle Kraken,SEA
+243,21,55,Colorado Avalanche,Seattle Kraken,2022021005755,2022021005,Blocked Shot,755,BLOCKED_SHOT,Oliver Bjorkstrand shot blocked shot by Cale Makar,2023-03-06T04:09:03Z,3,06:47,13:13,2,1,21.0,Colorado Avalanche,COL
+244,21,55,Colorado Avalanche,Seattle Kraken,2022021005671,2022021005,Missed Shot,671,MISSED_SHOT,Jordan Eberle Wide of Net Alexandar Georgiev,2023-03-06T04:10:06Z,3,07:50,12:10,2,1,55.0,Seattle Kraken,SEA
+245,21,55,Colorado Avalanche,Seattle Kraken,2022021005672,2022021005,Shot,672,SHOT,Cale Makar Wrist Shot saved by Philipp Grubauer,2023-03-06T04:10:43Z,3,08:27,11:33,2,1,21.0,Colorado Avalanche,COL
+246,21,55,Colorado Avalanche,Seattle Kraken,2022021005248,2022021005,Takeaway,248,TAKEAWAY,Takeaway by Bowen  Byram,2023-03-06T04:10:51Z,3,08:35,11:25,2,1,21.0,Colorado Avalanche,COL
+247,21,55,Colorado Avalanche,Seattle Kraken,2022021005247,2022021005,Hit,247,HIT,Will Borgen hit Artturi Lehkonen,2023-03-06T04:11:12Z,3,08:56,11:04,2,1,55.0,Seattle Kraken,SEA
+248,21,55,Colorado Avalanche,Seattle Kraken,2022021005756,2022021005,Blocked Shot,756,BLOCKED_SHOT,Bowen Byram shot blocked shot by Jamie Oleksiak,2023-03-06T04:11:21Z,3,09:05,10:55,2,1,55.0,Seattle Kraken,SEA
+249,21,55,Colorado Avalanche,Seattle Kraken,2022021005249,2022021005,Hit,249,HIT,Eeli Tolvanen hit Jack Johnson,2023-03-06T04:11:54Z,3,09:38,10:22,2,1,55.0,Seattle Kraken,SEA
+250,21,55,Colorado Avalanche,Seattle Kraken,2022021005673,2022021005,Shot,673,SHOT,Vince Dunn Wrist Shot saved by Alexandar Georgiev,2023-03-06T04:12:13Z,3,09:57,10:03,2,1,55.0,Seattle Kraken,SEA
+251,21,55,Colorado Avalanche,Seattle Kraken,2022021005250,2022021005,Hit,250,HIT,Jesper Froden hit Evan Rodrigues,2023-03-06T04:12:29Z,3,10:13,09:47,2,1,55.0,Seattle Kraken,SEA
+252,21,55,Colorado Avalanche,Seattle Kraken,2022021005757,2022021005,Blocked Shot,757,BLOCKED_SHOT,Adam Larsson shot blocked shot by Alex Newhook,2023-03-06T04:12:35Z,3,10:19,09:41,2,1,21.0,Colorado Avalanche,COL
+253,21,55,Colorado Avalanche,Seattle Kraken,2022021005501,2022021005,Takeaway,501,TAKEAWAY,Takeaway by Devon Toews,2023-03-06T04:12:57Z,3,10:41,09:19,2,1,21.0,Colorado Avalanche,COL
+254,21,55,Colorado Avalanche,Seattle Kraken,2022021005502,2022021005,Hit,502,HIT,Carson Soucy hit J.T. Compher,2023-03-06T04:13:14Z,3,10:58,09:02,2,1,55.0,Seattle Kraken,SEA
+255,21,55,Colorado Avalanche,Seattle Kraken,2022021005503,2022021005,Takeaway,503,TAKEAWAY,Takeaway by Ryan Donato,2023-03-06T04:13:44Z,3,11:28,08:32,2,1,55.0,Seattle Kraken,SEA
+256,21,55,Colorado Avalanche,Seattle Kraken,2022021005504,2022021005,Takeaway,504,TAKEAWAY,Takeaway by Mikko Rantanen,2023-03-06T04:13:53Z,3,11:37,08:23,2,1,21.0,Colorado Avalanche,COL
+257,21,55,Colorado Avalanche,Seattle Kraken,2022021005758,2022021005,Blocked Shot,758,BLOCKED_SHOT,Morgan Geekie shot blocked shot by Mikko Rantanen,2023-03-06T04:14:15Z,3,11:59,08:01,2,1,21.0,Colorado Avalanche,COL
+258,21,55,Colorado Avalanche,Seattle Kraken,2022021005674,2022021005,Shot,674,SHOT,Morgan Geekie Tip-In saved by Alexandar Georgiev,2023-03-06T04:14:30Z,3,12:14,07:46,2,1,55.0,Seattle Kraken,SEA
+259,21,55,Colorado Avalanche,Seattle Kraken,2022021005759,2022021005,Stoppage,759,STOP,Goalie Stopped,2023-03-06T04:14:30Z,3,12:14,07:46,2,1,,,
+260,21,55,Colorado Avalanche,Seattle Kraken,2022021005675,2022021005,Faceoff,675,FACEOFF,Lars Eller faceoff won against Alex Wennberg,2023-03-06T04:16:50Z,3,12:14,07:46,2,1,21.0,Colorado Avalanche,COL
+261,21,55,Colorado Avalanche,Seattle Kraken,2022021005760,2022021005,Takeaway,760,TAKEAWAY,Takeaway by Adam Larsson,2023-03-06T04:17:28Z,3,12:50,07:10,2,1,55.0,Seattle Kraken,SEA
+262,21,55,Colorado Avalanche,Seattle Kraken,2022021005676,2022021005,Shot,676,SHOT,Jordan Eberle Wrist Shot saved by Alexandar Georgiev,2023-03-06T04:18:32Z,3,13:55,06:05,2,1,55.0,Seattle Kraken,SEA
+263,21,55,Colorado Avalanche,Seattle Kraken,2022021005761,2022021005,Stoppage,761,STOP,Goalie Stopped,2023-03-06T04:18:32Z,3,13:55,06:05,2,1,,,
+264,21,55,Colorado Avalanche,Seattle Kraken,2022021005677,2022021005,Faceoff,677,FACEOFF,Jordan Eberle faceoff won against Nathan MacKinnon,2023-03-06T04:20:44Z,3,13:55,06:05,2,1,55.0,Seattle Kraken,SEA
+265,21,55,Colorado Avalanche,Seattle Kraken,2022021005678,2022021005,Shot,678,SHOT,Justin Schultz Slap Shot saved by Alexandar Georgiev,2023-03-06T04:20:48Z,3,14:00,06:00,2,1,55.0,Seattle Kraken,SEA
+266,21,55,Colorado Avalanche,Seattle Kraken,2022021005762,2022021005,Stoppage,762,STOP,Goalie Stopped,2023-03-06T04:20:49Z,3,14:00,06:00,2,1,,,
+267,21,55,Colorado Avalanche,Seattle Kraken,2022021005679,2022021005,Faceoff,679,FACEOFF,Matty Beniers faceoff won against Nathan MacKinnon,2023-03-06T04:21:08Z,3,14:00,06:00,2,1,55.0,Seattle Kraken,SEA
+268,21,55,Colorado Avalanche,Seattle Kraken,2022021005506,2022021005,Hit,506,HIT,Justin Schultz hit Mikko Rantanen,2023-03-06T04:21:14Z,3,14:06,05:54,2,1,55.0,Seattle Kraken,SEA
+269,21,55,Colorado Avalanche,Seattle Kraken,2022021005680,2022021005,Missed Shot,680,MISSED_SHOT,Devon Toews Wide of Net Philipp Grubauer,2023-03-06T04:21:26Z,3,14:18,05:42,2,1,21.0,Colorado Avalanche,COL
+270,21,55,Colorado Avalanche,Seattle Kraken,2022021005763,2022021005,Blocked Shot,763,BLOCKED_SHOT,Cale Makar shot blocked shot by Matty Beniers,2023-03-06T04:21:37Z,3,14:29,05:31,2,1,55.0,Seattle Kraken,SEA
+271,21,55,Colorado Avalanche,Seattle Kraken,2022021005681,2022021005,Shot,681,SHOT,Jared McCann Wrist Shot saved by Alexandar Georgiev,2023-03-06T04:21:51Z,3,14:43,05:17,2,1,55.0,Seattle Kraken,SEA
+272,21,55,Colorado Avalanche,Seattle Kraken,2022021005764,2022021005,Stoppage,764,STOP,Goalie Stopped,2023-03-06T04:21:51Z,3,14:44,05:16,2,1,,,
+273,21,55,Colorado Avalanche,Seattle Kraken,2022021005682,2022021005,Faceoff,682,FACEOFF,Jaden Schwartz faceoff won against J.T. Compher,2023-03-06T04:22:25Z,3,14:44,05:16,2,1,55.0,Seattle Kraken,SEA
+274,21,55,Colorado Avalanche,Seattle Kraken,2022021005683,2022021005,Missed Shot,683,MISSED_SHOT,Alex Wennberg Wide of Net Alexandar Georgiev,2023-03-06T04:22:31Z,3,14:50,05:10,2,1,55.0,Seattle Kraken,SEA
+275,21,55,Colorado Avalanche,Seattle Kraken,2022021005684,2022021005,Shot,684,SHOT,Andrew Cogliano Wrist Shot saved by Philipp Grubauer,2023-03-06T04:22:43Z,3,15:02,04:58,2,1,21.0,Colorado Avalanche,COL
+276,21,55,Colorado Avalanche,Seattle Kraken,2022021005765,2022021005,Stoppage,765,STOP,Goalie Stopped,2023-03-06T04:22:43Z,3,15:02,04:58,2,1,,,
+277,21,55,Colorado Avalanche,Seattle Kraken,2022021005685,2022021005,Faceoff,685,FACEOFF,Morgan Geekie faceoff won against Mikko Rantanen,2023-03-06T04:25:04Z,3,15:02,04:58,2,1,55.0,Seattle Kraken,SEA
+278,21,55,Colorado Avalanche,Seattle Kraken,2022021005766,2022021005,Stoppage,766,STOP,Icing,2023-03-06T04:25:14Z,3,15:12,04:48,2,1,,,
+279,21,55,Colorado Avalanche,Seattle Kraken,2022021005686,2022021005,Faceoff,686,FACEOFF,Nathan MacKinnon faceoff won against Yanni Gourde,2023-03-06T04:25:33Z,3,15:12,04:48,2,1,21.0,Colorado Avalanche,COL
+280,21,55,Colorado Avalanche,Seattle Kraken,2022021005687,2022021005,Missed Shot,687,MISSED_SHOT,Mikko Rantanen Wide of Net Philipp Grubauer,2023-03-06T04:25:37Z,3,15:16,04:44,2,1,21.0,Colorado Avalanche,COL
+281,21,55,Colorado Avalanche,Seattle Kraken,2022021005507,2022021005,Hit,507,HIT,Will Borgen hit Artturi Lehkonen,2023-03-06T04:25:46Z,3,15:25,04:35,2,1,55.0,Seattle Kraken,SEA
+282,21,55,Colorado Avalanche,Seattle Kraken,2022021005688,2022021005,Shot,688,SHOT,Morgan Geekie Tip-In saved by Alexandar Georgiev,2023-03-06T04:26:19Z,3,15:58,04:02,2,1,55.0,Seattle Kraken,SEA
+283,21,55,Colorado Avalanche,Seattle Kraken,2022021005689,2022021005,Missed Shot,689,MISSED_SHOT,Eeli Tolvanen Wide of Net Alexandar Georgiev,2023-03-06T04:26:30Z,3,16:09,03:51,2,1,55.0,Seattle Kraken,SEA
+284,21,55,Colorado Avalanche,Seattle Kraken,2022021005767,2022021005,Stoppage,767,STOP,Icing,2023-03-06T04:26:57Z,3,16:36,03:24,2,1,,,
+285,21,55,Colorado Avalanche,Seattle Kraken,2022021005690,2022021005,Faceoff,690,FACEOFF,Lars Eller faceoff won against Jordan Eberle,2023-03-06T04:27:26Z,3,16:36,03:24,2,1,21.0,Colorado Avalanche,COL
+286,21,55,Colorado Avalanche,Seattle Kraken,2022021005508,2022021005,Giveaway,508,GIVEAWAY,Giveaway by Logan O'Connor,2023-03-06T04:27:40Z,3,16:50,03:10,2,1,21.0,Colorado Avalanche,COL
+287,21,55,Colorado Avalanche,Seattle Kraken,2022021005509,2022021005,Hit,509,HIT,Jordan Eberle hit Andrew Cogliano,2023-03-06T04:27:42Z,3,16:52,03:08,2,1,55.0,Seattle Kraken,SEA
+288,21,55,Colorado Avalanche,Seattle Kraken,2022021005768,2022021005,Blocked Shot,768,BLOCKED_SHOT,Matty Beniers shot blocked shot by Jack Johnson,2023-03-06T04:27:46Z,3,16:56,03:04,2,1,21.0,Colorado Avalanche,COL
+289,21,55,Colorado Avalanche,Seattle Kraken,2022021005691,2022021005,Missed Shot,691,MISSED_SHOT,Yanni Gourde Wide of Net Alexandar Georgiev,2023-03-06T04:28:15Z,3,17:25,02:35,2,1,55.0,Seattle Kraken,SEA
+290,21,55,Colorado Avalanche,Seattle Kraken,2022021005510,2022021005,Takeaway,510,TAKEAWAY,Takeaway by Jaden Schwartz,2023-03-06T04:28:19Z,3,17:29,02:31,2,1,55.0,Seattle Kraken,SEA
+291,21,55,Colorado Avalanche,Seattle Kraken,2022021005692,2022021005,Goal,692,GOAL,"Brandon Tanev (13) Snap Shot, assists: Jaden Schwartz (18)",2023-03-06T04:28:20Z,3,17:30,02:30,2,2,55.0,Seattle Kraken,SEA
+292,21,55,Colorado Avalanche,Seattle Kraken,2022021005693,2022021005,Faceoff,693,FACEOFF,Nathan MacKinnon faceoff won against Alex Wennberg,2023-03-06T04:29:13Z,3,17:30,02:30,2,2,21.0,Colorado Avalanche,COL
+293,21,55,Colorado Avalanche,Seattle Kraken,2022021005769,2022021005,Stoppage,769,STOP,Icing,2023-03-06T04:29:20Z,3,17:37,02:23,2,2,,,
+294,21,55,Colorado Avalanche,Seattle Kraken,2022021005694,2022021005,Faceoff,694,FACEOFF,Nathan MacKinnon faceoff won against Alex Wennberg,2023-03-06T04:29:41Z,3,17:37,02:23,2,2,21.0,Colorado Avalanche,COL
+295,21,55,Colorado Avalanche,Seattle Kraken,2022021005511,2022021005,Giveaway,511,GIVEAWAY,Giveaway by Alex Wennberg,2023-03-06T04:30:09Z,3,18:03,01:57,2,2,55.0,Seattle Kraken,SEA
+296,21,55,Colorado Avalanche,Seattle Kraken,2022021005695,2022021005,Shot,695,SHOT,J.T. Compher Tip-In saved by Philipp Grubauer,2023-03-06T04:30:40Z,3,18:36,01:24,2,2,21.0,Colorado Avalanche,COL
+297,21,55,Colorado Avalanche,Seattle Kraken,2022021005770,2022021005,Stoppage,770,STOP,Puck in Netting,2023-03-06T04:31:15Z,3,19:10,00:50,2,2,,,
+298,21,55,Colorado Avalanche,Seattle Kraken,2022021005696,2022021005,Faceoff,696,FACEOFF,Alex Wennberg faceoff won against Nathan MacKinnon,2023-03-06T04:31:50Z,3,19:10,00:50,2,2,55.0,Seattle Kraken,SEA
+299,21,55,Colorado Avalanche,Seattle Kraken,2022021005771,2022021005,Stoppage,771,STOP,Icing,2023-03-06T04:32:03Z,3,19:23,00:37,2,2,,,
+300,21,55,Colorado Avalanche,Seattle Kraken,2022021005697,2022021005,Faceoff,697,FACEOFF,Nathan MacKinnon faceoff won against Alex Wennberg,2023-03-06T04:32:32Z,3,19:23,00:37,2,2,21.0,Colorado Avalanche,COL
+301,21,55,Colorado Avalanche,Seattle Kraken,2022021005698,2022021005,Shot,698,SHOT,Mikko Rantanen Snap Shot saved by Philipp Grubauer,2023-03-06T04:32:39Z,3,19:30,00:30,2,2,21.0,Colorado Avalanche,COL
+302,21,55,Colorado Avalanche,Seattle Kraken,2022021005699,2022021005,Giveaway,699,GIVEAWAY,Giveaway by Mikko Rantanen,2023-03-06T04:32:48Z,3,19:39,00:21,2,2,21.0,Colorado Avalanche,COL
+303,21,55,Colorado Avalanche,Seattle Kraken,2022021005512,2022021005,Hit,512,HIT,Artturi Lehkonen hit Will Borgen,2023-03-06T04:32:49Z,3,19:40,00:20,2,2,21.0,Colorado Avalanche,COL
+304,21,55,Colorado Avalanche,Seattle Kraken,2022021005772,2022021005,Period End,772,PERIOD_END,End of 3rd Period,2023-03-06T04:33:09Z,3,20:00,00:00,2,2,,,
+305,21,55,Colorado Avalanche,Seattle Kraken,2022021005775,2022021005,Period Official,775,PERIOD_OFFICIAL,Period Official,2023-03-06T04:33:16Z,3,20:00,00:00,2,2,,,
+306,21,55,Colorado Avalanche,Seattle Kraken,2022021005776,2022021005,Period Ready,776,PERIOD_READY,Period Ready,2023-03-06T04:34:52Z,4,00:00,05:00,2,2,,,
+307,21,55,Colorado Avalanche,Seattle Kraken,2022021005700,2022021005,Period Start,700,PERIOD_START,Period Start,2023-03-06T04:35:50Z,4,00:00,05:00,2,2,,,
+308,21,55,Colorado Avalanche,Seattle Kraken,2022021005901,2022021005,Faceoff,901,FACEOFF,Alex Wennberg faceoff won against J.T. Compher,2023-03-06T04:35:50Z,4,00:00,05:00,2,2,55.0,Seattle Kraken,SEA
+309,21,55,Colorado Avalanche,Seattle Kraken,2022021005777,2022021005,Period End,777,PERIOD_END,End of OT,2023-03-06T04:37:15Z,4,01:24,03:36,2,2,,,
+310,21,55,Colorado Avalanche,Seattle Kraken,2022021005902,2022021005,Goal,902,GOAL,"Yanni Gourde (10) Wrist Shot, assists: Vince Dunn (37), Matty Beniers (26)",2023-03-06T04:37:15Z,4,01:24,03:36,2,3,55.0,Seattle Kraken,SEA
+311,21,55,Colorado Avalanche,Seattle Kraken,2022021005780,2022021005,Period Official,780,PERIOD_OFFICIAL,Period Official,2023-03-06T04:37:56Z,4,01:24,03:36,2,3,,,
+312,21,55,Colorado Avalanche,Seattle Kraken,2022021005781,2022021005,Game End,781,GAME_END,Game End,2023-03-06T04:38:02Z,4,01:24,03:36,2,3,,,
+313,21,55,Colorado Avalanche,Seattle Kraken,20220210051143,2022021005,Game Official,1143,GAME_OFFICIAL,Game Official,2023-03-06T13:58:04Z,4,01:24,03:36,2,3,,,

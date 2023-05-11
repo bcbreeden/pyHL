@@ -1,0 +1,279 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,16,53,Chicago Blackhawks,Arizona Coyotes,20220206251,2022020625,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-01-07T00:42:20Z,1,00:00,20:00,0,0,,,
+1,16,53,Chicago Blackhawks,Arizona Coyotes,20220206255,2022020625,Period Ready,5,PERIOD_READY,Period Ready,2023-01-07T01:37:48Z,1,00:00,20:00,0,0,,,
+2,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625101,2022020625,Period Start,101,PERIOD_START,Period Start,2023-01-07T01:38:27Z,1,00:00,20:00,0,0,,,
+3,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625102,2022020625,Faceoff,102,FACEOFF,Nick Bjugstad faceoff won against Max Domi,2023-01-07T01:38:27Z,1,00:00,20:00,0,0,53.0,Arizona Coyotes,ARI
+4,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625151,2022020625,Missed Shot,151,MISSED_SHOT,Nick Bjugstad Wide of Net Alex Stalock,2023-01-07T01:38:39Z,1,00:12,19:48,0,0,53.0,Arizona Coyotes,ARI
+5,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625153,2022020625,Missed Shot,153,MISSED_SHOT,Jakob Chychrun Goalpost Alex Stalock,2023-01-07T01:38:43Z,1,00:16,19:44,0,0,53.0,Arizona Coyotes,ARI
+6,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625103,2022020625,Takeaway,103,TAKEAWAY,Takeaway by Jakob Chychrun,2023-01-07T01:38:56Z,1,00:29,19:31,0,0,53.0,Arizona Coyotes,ARI
+7,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625154,2022020625,Blocked Shot,154,BLOCKED_SHOT,Nick Schmaltz shot blocked shot by Seth Jones,2023-01-07T01:39:31Z,1,01:04,18:56,0,0,16.0,Chicago Blackhawks,CHI
+8,16,53,Chicago Blackhawks,Arizona Coyotes,20220206258,2022020625,Hit,8,HIT,Nick Ritchie hit Brett Seney,2023-01-07T01:40:15Z,1,01:48,18:12,0,0,53.0,Arizona Coyotes,ARI
+9,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625104,2022020625,Takeaway,104,TAKEAWAY,Takeaway by Reese Johnson,2023-01-07T01:41:12Z,1,02:45,17:15,0,0,16.0,Chicago Blackhawks,CHI
+10,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625105,2022020625,Takeaway,105,TAKEAWAY,Takeaway by Reese Johnson,2023-01-07T01:41:23Z,1,02:56,17:04,0,0,16.0,Chicago Blackhawks,CHI
+11,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625156,2022020625,Shot,156,SHOT,Reese Johnson Wrist Shot saved by Connor Ingram,2023-01-07T01:41:24Z,1,02:57,17:03,0,0,16.0,Chicago Blackhawks,CHI
+12,16,53,Chicago Blackhawks,Arizona Coyotes,20220206259,2022020625,Hit,9,HIT,Jake McCabe hit Lawson Crouse,2023-01-07T01:41:29Z,1,03:02,16:58,0,0,16.0,Chicago Blackhawks,CHI
+13,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625157,2022020625,Blocked Shot,157,BLOCKED_SHOT,Lawson Crouse shot blocked shot by Lukas Reichel,2023-01-07T01:41:41Z,1,03:14,16:46,0,0,16.0,Chicago Blackhawks,CHI
+14,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625158,2022020625,Missed Shot,158,MISSED_SHOT,Shayne Gostisbehere Wide of Net Alex Stalock,2023-01-07T01:41:55Z,1,03:28,16:32,0,0,53.0,Arizona Coyotes,ARI
+15,16,53,Chicago Blackhawks,Arizona Coyotes,202202062510,2022020625,Stoppage,10,STOP,Puck Frozen,2023-01-07T01:41:57Z,1,03:29,16:31,0,0,,,
+16,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625106,2022020625,Faceoff,106,FACEOFF,Max Domi faceoff won against Jack McBain,2023-01-07T01:42:26Z,1,03:29,16:31,0,0,16.0,Chicago Blackhawks,CHI
+17,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625107,2022020625,Takeaway,107,TAKEAWAY,Takeaway by Clayton Keller,2023-01-07T01:42:35Z,1,03:38,16:22,0,0,53.0,Arizona Coyotes,ARI
+18,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625159,2022020625,Blocked Shot,159,BLOCKED_SHOT,Christian Fischer shot blocked shot by Ian Mitchell,2023-01-07T01:43:20Z,1,04:23,15:37,0,0,16.0,Chicago Blackhawks,CHI
+19,16,53,Chicago Blackhawks,Arizona Coyotes,202202062511,2022020625,Stoppage,11,STOP,Puck in Netting,2023-01-07T01:43:21Z,1,04:24,15:36,0,0,,,
+20,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625108,2022020625,Faceoff,108,FACEOFF,Jonathan Toews faceoff won against Barrett Hayton,2023-01-07T01:43:43Z,1,04:24,15:36,0,0,16.0,Chicago Blackhawks,CHI
+21,16,53,Chicago Blackhawks,Arizona Coyotes,202202062512,2022020625,Stoppage,12,STOP,Hand Pass,2023-01-07T01:43:50Z,1,04:31,15:29,0,0,,,
+22,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625109,2022020625,Faceoff,109,FACEOFF,Jonathan Toews faceoff won against Barrett Hayton,2023-01-07T01:44:09Z,1,04:31,15:29,0,0,16.0,Chicago Blackhawks,CHI
+23,16,53,Chicago Blackhawks,Arizona Coyotes,202202062514,2022020625,Hit,14,HIT,J.J. Moser hit Jonathan Toews,2023-01-07T01:44:33Z,1,04:55,15:05,0,0,53.0,Arizona Coyotes,ARI
+24,16,53,Chicago Blackhawks,Arizona Coyotes,202202062513,2022020625,Stoppage,13,STOP,Puck in Benches,2023-01-07T01:44:40Z,1,05:02,14:58,0,0,,,
+25,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625110,2022020625,Faceoff,110,FACEOFF,Jason Dickinson faceoff won against Travis Boyd,2023-01-07T01:45:03Z,1,05:02,14:58,0,0,16.0,Chicago Blackhawks,CHI
+26,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625160,2022020625,Shot,160,SHOT,Seth Jones Wrist Shot saved by Connor Ingram,2023-01-07T01:45:26Z,1,05:25,14:35,0,0,16.0,Chicago Blackhawks,CHI
+27,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625161,2022020625,Blocked Shot,161,BLOCKED_SHOT,Jakob Chychrun shot blocked shot by Jake McCabe,2023-01-07T01:46:00Z,1,05:59,14:01,0,0,16.0,Chicago Blackhawks,CHI
+28,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625162,2022020625,Missed Shot,162,MISSED_SHOT,Josh Brown Wide of Net Alex Stalock,2023-01-07T01:46:33Z,1,06:32,13:28,0,0,53.0,Arizona Coyotes,ARI
+29,16,53,Chicago Blackhawks,Arizona Coyotes,202202062515,2022020625,Hit,15,HIT,Reese Johnson hit Troy Stecher,2023-01-07T01:46:47Z,1,06:46,13:14,0,0,16.0,Chicago Blackhawks,CHI
+30,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625163,2022020625,Shot,163,SHOT,Clayton Keller Wrist Shot saved by Alex Stalock,2023-01-07T01:46:55Z,1,06:54,13:06,0,0,53.0,Arizona Coyotes,ARI
+31,16,53,Chicago Blackhawks,Arizona Coyotes,202202062516,2022020625,Hit,16,HIT,Jack McBain hit Seth Jones,2023-01-07T01:46:59Z,1,06:58,13:02,0,0,53.0,Arizona Coyotes,ARI
+32,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625111,2022020625,Takeaway,111,TAKEAWAY,Takeaway by Seth Jones,2023-01-07T01:46:59Z,1,06:58,13:02,0,0,16.0,Chicago Blackhawks,CHI
+33,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625164,2022020625,Missed Shot,164,MISSED_SHOT,Max Domi Wide of Net Connor Ingram,2023-01-07T01:47:08Z,1,07:07,12:53,0,0,16.0,Chicago Blackhawks,CHI
+34,16,53,Chicago Blackhawks,Arizona Coyotes,202202062517,2022020625,Stoppage,17,STOP,Goalie Stopped,2023-01-07T01:47:18Z,1,07:17,12:43,0,0,,,
+35,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625165,2022020625,Shot,165,SHOT,Jake McCabe Snap Shot saved by Connor Ingram,2023-01-07T01:47:18Z,1,07:17,12:43,0,0,16.0,Chicago Blackhawks,CHI
+36,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625112,2022020625,Faceoff,112,FACEOFF,Barrett Hayton faceoff won against Max Domi,2023-01-07T01:49:34Z,1,07:17,12:43,0,0,53.0,Arizona Coyotes,ARI
+37,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625166,2022020625,Shot,166,SHOT,Philipp Kurashev Wrist Shot saved by Connor Ingram,2023-01-07T01:49:53Z,1,07:36,12:24,0,0,16.0,Chicago Blackhawks,CHI
+38,16,53,Chicago Blackhawks,Arizona Coyotes,202202062518,2022020625,Stoppage,18,STOP,Goalie Stopped,2023-01-07T01:49:53Z,1,07:37,12:23,0,0,,,
+39,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625113,2022020625,Faceoff,113,FACEOFF,Jonathan Toews faceoff won against Travis Boyd,2023-01-07T01:50:19Z,1,07:37,12:23,0,0,16.0,Chicago Blackhawks,CHI
+40,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625222,2022020625,Penalty,222,PENALTY,J.J. Moser Hooking against Tyler Johnson,2023-01-07T01:50:30Z,1,07:48,12:12,0,0,53.0,Arizona Coyotes,ARI
+41,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625114,2022020625,Faceoff,114,FACEOFF,Jonathan Toews faceoff won against Travis Boyd,2023-01-07T01:51:01Z,1,07:48,12:12,0,0,16.0,Chicago Blackhawks,CHI
+42,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625167,2022020625,Shot,167,SHOT,Seth Jones Wrist Shot saved by Connor Ingram,2023-01-07T01:51:28Z,1,08:15,11:45,0,0,16.0,Chicago Blackhawks,CHI
+43,16,53,Chicago Blackhawks,Arizona Coyotes,202202062520,2022020625,Stoppage,20,STOP,Goalie Stopped,2023-01-07T01:51:29Z,1,08:16,11:44,0,0,,,
+44,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625115,2022020625,Faceoff,115,FACEOFF,Jonathan Toews faceoff won against Nick Bjugstad,2023-01-07T01:51:50Z,1,08:16,11:44,0,0,16.0,Chicago Blackhawks,CHI
+45,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625168,2022020625,Shot,168,SHOT,Max Domi Wrist Shot saved by Connor Ingram,2023-01-07T01:52:10Z,1,08:36,11:24,0,0,16.0,Chicago Blackhawks,CHI
+46,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625169,2022020625,Shot,169,SHOT,Tyler Johnson Slap Shot saved by Connor Ingram,2023-01-07T01:52:25Z,1,08:51,11:09,0,0,16.0,Chicago Blackhawks,CHI
+47,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625170,2022020625,Blocked Shot,170,BLOCKED_SHOT,Tyler Johnson shot blocked shot by Juuso Valimaki,2023-01-07T01:52:50Z,1,09:16,10:44,0,0,53.0,Arizona Coyotes,ARI
+48,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625171,2022020625,Missed Shot,171,MISSED_SHOT,Lukas Reichel Wide of Net Connor Ingram,2023-01-07T01:53:06Z,1,09:32,10:28,0,0,16.0,Chicago Blackhawks,CHI
+49,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625172,2022020625,Missed Shot,172,MISSED_SHOT,Andreas Athanasiou Over Net Connor Ingram,2023-01-07T01:53:12Z,1,09:38,10:22,0,0,16.0,Chicago Blackhawks,CHI
+50,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625173,2022020625,Shot,173,SHOT,Philipp Kurashev Snap Shot saved by Connor Ingram,2023-01-07T01:53:26Z,1,09:52,10:08,0,0,16.0,Chicago Blackhawks,CHI
+51,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625116,2022020625,Takeaway,116,TAKEAWAY,Takeaway by Andreas Athanasiou,2023-01-07T01:53:43Z,1,10:08,09:52,0,0,16.0,Chicago Blackhawks,CHI
+52,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625174,2022020625,Blocked Shot,174,BLOCKED_SHOT,Brett Seney shot blocked shot by Jakob Chychrun,2023-01-07T01:53:47Z,1,10:12,09:48,0,0,53.0,Arizona Coyotes,ARI
+53,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625175,2022020625,Shot,175,SHOT,Shayne Gostisbehere Wrist Shot saved by Alex Stalock,2023-01-07T01:53:55Z,1,10:20,09:40,0,0,53.0,Arizona Coyotes,ARI
+54,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625176,2022020625,Missed Shot,176,MISSED_SHOT,Colin Blackwell Over Net Connor Ingram,2023-01-07T01:54:16Z,1,10:41,09:19,0,0,16.0,Chicago Blackhawks,CHI
+55,16,53,Chicago Blackhawks,Arizona Coyotes,202202062521,2022020625,Hit,21,HIT,Reese Johnson hit Shayne Gostisbehere,2023-01-07T01:54:21Z,1,10:46,09:14,0,0,16.0,Chicago Blackhawks,CHI
+56,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625177,2022020625,Missed Shot,177,MISSED_SHOT,Lawson Crouse Over Net Alex Stalock,2023-01-07T01:55:26Z,1,11:51,08:09,0,0,53.0,Arizona Coyotes,ARI
+57,16,53,Chicago Blackhawks,Arizona Coyotes,202202062522,2022020625,Hit,22,HIT,Michael Carcone hit Brett Seney,2023-01-07T01:55:33Z,1,11:58,08:02,0,0,53.0,Arizona Coyotes,ARI
+58,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625118,2022020625,Giveaway,118,GIVEAWAY,Giveaway by Zack Kassian,2023-01-07T01:56:44Z,1,13:09,06:51,0,0,53.0,Arizona Coyotes,ARI
+59,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625178,2022020625,Missed Shot,178,MISSED_SHOT,Lukas Reichel Over Net Connor Ingram,2023-01-07T01:56:49Z,1,13:14,06:46,0,0,16.0,Chicago Blackhawks,CHI
+60,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625179,2022020625,Blocked Shot,179,BLOCKED_SHOT,Philipp Kurashev shot blocked shot by Jakob Chychrun,2023-01-07T01:56:59Z,1,13:24,06:36,0,0,53.0,Arizona Coyotes,ARI
+61,16,53,Chicago Blackhawks,Arizona Coyotes,202202062523,2022020625,Hit,23,HIT,Philipp Kurashev hit Jakob Chychrun,2023-01-07T01:57:02Z,1,13:27,06:33,0,0,16.0,Chicago Blackhawks,CHI
+62,16,53,Chicago Blackhawks,Arizona Coyotes,202202062524,2022020625,Stoppage,24,STOP,Goalie Stopped,2023-01-07T01:57:18Z,1,13:43,06:17,0,0,,,
+63,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625181,2022020625,Shot,181,SHOT,Jack McBain Backhand saved by Alex Stalock,2023-01-07T01:57:18Z,1,13:43,06:17,0,0,53.0,Arizona Coyotes,ARI
+64,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625119,2022020625,Faceoff,119,FACEOFF,Jason Dickinson faceoff won against Nick Schmaltz,2023-01-07T01:59:40Z,1,13:43,06:17,0,0,16.0,Chicago Blackhawks,CHI
+65,16,53,Chicago Blackhawks,Arizona Coyotes,202202062525,2022020625,Stoppage,25,STOP,Icing,2023-01-07T01:59:46Z,1,13:50,06:10,0,0,,,
+66,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625120,2022020625,Faceoff,120,FACEOFF,Jack McBain faceoff won against Jason Dickinson,2023-01-07T02:00:07Z,1,13:50,06:10,0,0,53.0,Arizona Coyotes,ARI
+67,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625121,2022020625,Takeaway,121,TAKEAWAY,Takeaway by Connor Murphy,2023-01-07T02:00:22Z,1,14:05,05:55,0,0,16.0,Chicago Blackhawks,CHI
+68,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625182,2022020625,Missed Shot,182,MISSED_SHOT,Andreas Athanasiou Wide of Net Connor Ingram,2023-01-07T02:00:51Z,1,14:34,05:26,0,0,16.0,Chicago Blackhawks,CHI
+69,16,53,Chicago Blackhawks,Arizona Coyotes,202202062526,2022020625,Hit,26,HIT,Sam Lafferty hit Jakob Chychrun,2023-01-07T02:01:06Z,1,14:49,05:11,0,0,16.0,Chicago Blackhawks,CHI
+70,16,53,Chicago Blackhawks,Arizona Coyotes,202202062527,2022020625,Stoppage,27,STOP,Puck Frozen,2023-01-07T02:01:18Z,1,15:01,04:59,0,0,,,
+71,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625122,2022020625,Faceoff,122,FACEOFF,Nick Bjugstad faceoff won against Jonathan Toews,2023-01-07T02:03:39Z,1,15:01,04:59,0,0,53.0,Arizona Coyotes,ARI
+72,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625184,2022020625,Shot,184,SHOT,Juuso Valimaki Wrist Shot saved by Alex Stalock,2023-01-07T02:03:42Z,1,15:04,04:56,0,0,53.0,Arizona Coyotes,ARI
+73,16,53,Chicago Blackhawks,Arizona Coyotes,202202062528,2022020625,Stoppage,28,STOP,Goalie Stopped,2023-01-07T02:03:43Z,1,15:05,04:55,0,0,,,
+74,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625123,2022020625,Faceoff,123,FACEOFF,Jonathan Toews faceoff won against Lawson Crouse,2023-01-07T02:04:06Z,1,15:05,04:55,0,0,16.0,Chicago Blackhawks,CHI
+75,16,53,Chicago Blackhawks,Arizona Coyotes,202202062529,2022020625,Hit,29,HIT,Travis Boyd hit Lukas Reichel,2023-01-07T02:05:09Z,1,16:08,03:52,0,0,53.0,Arizona Coyotes,ARI
+76,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625185,2022020625,Blocked Shot,185,BLOCKED_SHOT,Max Domi shot blocked shot by Troy Stecher,2023-01-07T02:05:30Z,1,16:29,03:31,0,0,53.0,Arizona Coyotes,ARI
+77,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625186,2022020625,Shot,186,SHOT,Philipp Kurashev Wrist Shot saved by Connor Ingram,2023-01-07T02:05:46Z,1,16:45,03:15,0,0,16.0,Chicago Blackhawks,CHI
+78,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625124,2022020625,Takeaway,124,TAKEAWAY,Takeaway by Brett Seney,2023-01-07T02:05:51Z,1,16:50,03:10,0,0,16.0,Chicago Blackhawks,CHI
+79,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625125,2022020625,Giveaway,125,GIVEAWAY,Giveaway by Max Domi,2023-01-07T02:05:58Z,1,16:57,03:03,0,0,16.0,Chicago Blackhawks,CHI
+80,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625187,2022020625,Shot,187,SHOT,Andreas Athanasiou Wrist Shot saved by Connor Ingram,2023-01-07T02:06:42Z,1,17:41,02:19,0,0,16.0,Chicago Blackhawks,CHI
+81,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625188,2022020625,Blocked Shot,188,BLOCKED_SHOT,Jason Dickinson shot blocked shot by J.J. Moser,2023-01-07T02:06:52Z,1,17:51,02:09,0,0,53.0,Arizona Coyotes,ARI
+82,16,53,Chicago Blackhawks,Arizona Coyotes,202202062530,2022020625,Stoppage,30,STOP,Puck in Netting,2023-01-07T02:06:53Z,1,17:52,02:08,0,0,,,
+83,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625126,2022020625,Faceoff,126,FACEOFF,Nick Bjugstad faceoff won against Jonathan Toews,2023-01-07T02:07:23Z,1,17:52,02:08,0,0,53.0,Arizona Coyotes,ARI
+84,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625127,2022020625,Takeaway,127,TAKEAWAY,Takeaway by Tyler Johnson,2023-01-07T02:07:40Z,1,18:09,01:51,0,0,16.0,Chicago Blackhawks,CHI
+85,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625189,2022020625,Missed Shot,189,MISSED_SHOT,Taylor Raddysh Wide of Net Connor Ingram,2023-01-07T02:07:41Z,1,18:10,01:50,0,0,16.0,Chicago Blackhawks,CHI
+86,16,53,Chicago Blackhawks,Arizona Coyotes,202202062531,2022020625,Hit,31,HIT,Michael Carcone hit Connor Murphy,2023-01-07T02:08:07Z,1,18:36,01:24,0,0,53.0,Arizona Coyotes,ARI
+87,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625190,2022020625,Shot,190,SHOT,Lawson Crouse Wrist Shot saved by Alex Stalock,2023-01-07T02:08:13Z,1,18:42,01:18,0,0,53.0,Arizona Coyotes,ARI
+88,16,53,Chicago Blackhawks,Arizona Coyotes,202202062532,2022020625,Stoppage,32,STOP,Goalie Stopped,2023-01-07T02:08:15Z,1,18:45,01:15,0,0,,,
+89,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625128,2022020625,Faceoff,128,FACEOFF,Sam Lafferty faceoff won against Jack McBain,2023-01-07T02:09:08Z,1,18:45,01:15,0,0,16.0,Chicago Blackhawks,CHI
+90,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625191,2022020625,Shot,191,SHOT,Sam Lafferty Wrist Shot saved by Connor Ingram,2023-01-07T02:09:18Z,1,18:55,01:05,0,0,16.0,Chicago Blackhawks,CHI
+91,16,53,Chicago Blackhawks,Arizona Coyotes,202202062533,2022020625,Hit,33,HIT,Reese Johnson hit Jack McBain,2023-01-07T02:09:23Z,1,19:00,01:00,0,0,16.0,Chicago Blackhawks,CHI
+92,16,53,Chicago Blackhawks,Arizona Coyotes,202202062534,2022020625,Hit,34,HIT,Reese Johnson hit Shayne Gostisbehere,2023-01-07T02:09:47Z,1,19:24,00:36,0,0,16.0,Chicago Blackhawks,CHI
+93,16,53,Chicago Blackhawks,Arizona Coyotes,202202062535,2022020625,Stoppage,35,STOP,Icing,2023-01-07T02:09:53Z,1,19:29,00:31,0,0,,,
+94,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625129,2022020625,Faceoff,129,FACEOFF,Max Domi faceoff won against Jack McBain,2023-01-07T02:10:32Z,1,19:29,00:31,0,0,16.0,Chicago Blackhawks,CHI
+95,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625192,2022020625,Blocked Shot,192,BLOCKED_SHOT,Philipp Kurashev shot blocked shot by Jack McBain,2023-01-07T02:10:40Z,1,19:38,00:22,0,0,53.0,Arizona Coyotes,ARI
+96,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625193,2022020625,Shot,193,SHOT,Max Domi Wrist Shot saved by Connor Ingram,2023-01-07T02:10:49Z,1,19:47,00:13,0,0,16.0,Chicago Blackhawks,CHI
+97,16,53,Chicago Blackhawks,Arizona Coyotes,202202062536,2022020625,Period End,36,PERIOD_END,End of 1st Period,2023-01-07T02:11:02Z,1,20:00,00:00,0,0,,,
+98,16,53,Chicago Blackhawks,Arizona Coyotes,202202062539,2022020625,Period Official,39,PERIOD_OFFICIAL,Period Official,2023-01-07T02:14:06Z,1,20:00,00:00,0,0,,,
+99,16,53,Chicago Blackhawks,Arizona Coyotes,202202062540,2022020625,Period Ready,40,PERIOD_READY,Period Ready,2023-01-07T02:27:20Z,2,00:00,20:00,0,0,,,
+100,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625130,2022020625,Period Start,130,PERIOD_START,Period Start,2023-01-07T02:29:58Z,2,00:00,20:00,0,0,,,
+101,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625131,2022020625,Faceoff,131,FACEOFF,Nick Bjugstad faceoff won against Max Domi,2023-01-07T02:29:58Z,2,00:00,20:00,0,0,53.0,Arizona Coyotes,ARI
+102,16,53,Chicago Blackhawks,Arizona Coyotes,202202062541,2022020625,Hit,41,HIT,Michael Carcone hit Connor Murphy,2023-01-07T02:30:34Z,2,00:36,19:24,0,0,53.0,Arizona Coyotes,ARI
+103,16,53,Chicago Blackhawks,Arizona Coyotes,202202062542,2022020625,Stoppage,42,STOP,Puck in Benches,2023-01-07T02:30:41Z,2,00:43,19:17,0,0,,,
+104,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625132,2022020625,Faceoff,132,FACEOFF,Jack McBain faceoff won against Jonathan Toews,2023-01-07T02:31:12Z,2,00:43,19:17,0,0,53.0,Arizona Coyotes,ARI
+105,16,53,Chicago Blackhawks,Arizona Coyotes,202202062543,2022020625,Stoppage,43,STOP,Goalie Stopped,2023-01-07T02:32:17Z,2,01:48,18:12,0,0,,,
+106,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625194,2022020625,Shot,194,SHOT,Christian Fischer Wrist Shot saved by Alex Stalock,2023-01-07T02:32:17Z,2,01:48,18:12,0,0,53.0,Arizona Coyotes,ARI
+107,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625133,2022020625,Faceoff,133,FACEOFF,Andreas Athanasiou faceoff won against Barrett Hayton,2023-01-07T02:32:45Z,2,01:48,18:12,0,0,16.0,Chicago Blackhawks,CHI
+108,16,53,Chicago Blackhawks,Arizona Coyotes,202202062544,2022020625,Hit,44,HIT,Brett Seney hit Troy Stecher,2023-01-07T02:33:32Z,2,02:35,17:25,0,0,16.0,Chicago Blackhawks,CHI
+109,16,53,Chicago Blackhawks,Arizona Coyotes,202202062545,2022020625,Hit,45,HIT,Troy Stecher hit Colin Blackwell,2023-01-07T02:33:54Z,2,02:57,17:03,0,0,53.0,Arizona Coyotes,ARI
+110,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625195,2022020625,Shot,195,SHOT,Sam Lafferty Backhand saved by Connor Ingram,2023-01-07T02:34:08Z,2,03:11,16:49,0,0,16.0,Chicago Blackhawks,CHI
+111,16,53,Chicago Blackhawks,Arizona Coyotes,202202062546,2022020625,Stoppage,46,STOP,Goalie Stopped,2023-01-07T02:34:12Z,2,03:15,16:45,0,0,,,
+112,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625134,2022020625,Faceoff,134,FACEOFF,Max Domi faceoff won against Nick Bjugstad,2023-01-07T02:34:44Z,2,03:15,16:45,0,0,16.0,Chicago Blackhawks,CHI
+113,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625551,2022020625,Shot,551,SHOT,Max Domi Deflected saved by Connor Ingram,2023-01-07T02:35:16Z,2,03:47,16:13,0,0,16.0,Chicago Blackhawks,CHI
+114,16,53,Chicago Blackhawks,Arizona Coyotes,202202062547,2022020625,Stoppage,47,STOP,Icing,2023-01-07T02:35:38Z,2,04:09,15:51,0,0,,,
+115,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625135,2022020625,Faceoff,135,FACEOFF,Nick Bjugstad faceoff won against Jonathan Toews,2023-01-07T02:36:06Z,2,04:09,15:51,0,0,53.0,Arizona Coyotes,ARI
+116,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625196,2022020625,Missed Shot,196,MISSED_SHOT,Tyler Johnson Wide of Net Connor Ingram,2023-01-07T02:36:54Z,2,04:57,15:03,0,0,16.0,Chicago Blackhawks,CHI
+117,16,53,Chicago Blackhawks,Arizona Coyotes,202202062548,2022020625,Hit,48,HIT,Juuso Valimaki hit Jake McCabe,2023-01-07T02:37:01Z,2,05:04,14:56,0,0,53.0,Arizona Coyotes,ARI
+118,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625197,2022020625,Shot,197,SHOT,Nick Schmaltz Wrist Shot saved by Alex Stalock,2023-01-07T02:37:15Z,2,05:18,14:42,0,0,53.0,Arizona Coyotes,ARI
+119,16,53,Chicago Blackhawks,Arizona Coyotes,202202062549,2022020625,Stoppage,49,STOP,Goalie Stopped,2023-01-07T02:37:18Z,2,05:21,14:39,0,0,,,
+120,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625136,2022020625,Faceoff,136,FACEOFF,Jason Dickinson faceoff won against Barrett Hayton,2023-01-07T02:37:48Z,2,05:21,14:39,0,0,16.0,Chicago Blackhawks,CHI
+121,16,53,Chicago Blackhawks,Arizona Coyotes,202202062550,2022020625,Hit,50,HIT,Nick Ritchie hit Ian Mitchell,2023-01-07T02:37:52Z,2,05:25,14:35,0,0,53.0,Arizona Coyotes,ARI
+122,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625198,2022020625,Shot,198,SHOT,Barrett Hayton Wrist Shot saved by Alex Stalock,2023-01-07T02:38:08Z,2,05:41,14:19,0,0,53.0,Arizona Coyotes,ARI
+123,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625199,2022020625,Shot,199,SHOT,Barrett Hayton Wrap-around saved by Alex Stalock,2023-01-07T02:38:27Z,2,06:00,14:00,0,0,53.0,Arizona Coyotes,ARI
+124,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625351,2022020625,Stoppage,351,STOP,Goalie Stopped,2023-01-07T02:38:30Z,2,06:04,13:56,0,0,,,
+125,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625137,2022020625,Faceoff,137,FACEOFF,Jason Dickinson faceoff won against Jack McBain,2023-01-07T02:40:59Z,2,06:04,13:56,0,0,16.0,Chicago Blackhawks,CHI
+126,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625200,2022020625,Blocked Shot,200,BLOCKED_SHOT,Brett Seney shot blocked shot by Shayne Gostisbehere,2023-01-07T02:41:12Z,2,06:17,13:43,0,0,53.0,Arizona Coyotes,ARI
+127,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625507,2022020625,Penalty,507,PENALTY,Jakob Chychrun Hooking against Brett Seney,2023-01-07T02:41:20Z,2,06:25,13:35,0,0,53.0,Arizona Coyotes,ARI
+128,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625138,2022020625,Faceoff,138,FACEOFF,Travis Boyd faceoff won against Jonathan Toews,2023-01-07T02:41:55Z,2,06:25,13:35,0,0,53.0,Arizona Coyotes,ARI
+129,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625302,2022020625,Blocked Shot,302,BLOCKED_SHOT,Tyler Johnson shot blocked shot by Troy Stecher,2023-01-07T02:42:23Z,2,06:53,13:07,0,0,53.0,Arizona Coyotes,ARI
+130,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625303,2022020625,Missed Shot,303,MISSED_SHOT,Taylor Raddysh Wide of Net Connor Ingram,2023-01-07T02:42:55Z,2,07:25,12:35,0,0,16.0,Chicago Blackhawks,CHI
+131,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625304,2022020625,Blocked Shot,304,BLOCKED_SHOT,Max Domi shot blocked shot by Juuso Valimaki,2023-01-07T02:43:06Z,2,07:36,12:24,0,0,53.0,Arizona Coyotes,ARI
+132,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625139,2022020625,Takeaway,139,TAKEAWAY,Takeaway by Christian Fischer,2023-01-07T02:43:50Z,2,08:20,11:40,0,0,53.0,Arizona Coyotes,ARI
+133,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625354,2022020625,Stoppage,354,STOP,Hand Pass,2023-01-07T02:44:03Z,2,08:33,11:27,0,0,,,
+134,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625140,2022020625,Faceoff,140,FACEOFF,Travis Boyd faceoff won against Sam Lafferty,2023-01-07T02:44:32Z,2,08:33,11:27,0,0,53.0,Arizona Coyotes,ARI
+135,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625141,2022020625,Giveaway,141,GIVEAWAY,Giveaway by Clayton Keller,2023-01-07T02:45:00Z,2,09:01,10:59,0,0,53.0,Arizona Coyotes,ARI
+136,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625355,2022020625,Hit,355,HIT,Ian Mitchell hit Michael Carcone,2023-01-07T02:45:38Z,2,09:39,10:21,0,0,16.0,Chicago Blackhawks,CHI
+137,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625142,2022020625,Giveaway,142,GIVEAWAY,Giveaway by Andreas Athanasiou,2023-01-07T02:45:58Z,2,09:59,10:01,0,0,16.0,Chicago Blackhawks,CHI
+138,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625305,2022020625,Shot,305,SHOT,Jason Dickinson Slap Shot saved by Connor Ingram,2023-01-07T02:46:06Z,2,10:07,09:53,0,0,16.0,Chicago Blackhawks,CHI
+139,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625306,2022020625,Shot,306,SHOT,Shayne Gostisbehere Slap Shot saved by Alex Stalock,2023-01-07T02:46:14Z,2,10:15,09:45,0,0,53.0,Arizona Coyotes,ARI
+140,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625307,2022020625,Shot,307,SHOT,Jonathan Toews Wrist Shot saved by Connor Ingram,2023-01-07T02:46:24Z,2,10:25,09:35,0,0,16.0,Chicago Blackhawks,CHI
+141,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625308,2022020625,Shot,308,SHOT,Andreas Athanasiou Backhand saved by Connor Ingram,2023-01-07T02:46:27Z,2,10:28,09:32,0,0,16.0,Chicago Blackhawks,CHI
+142,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625356,2022020625,Stoppage,356,STOP,Goalie Stopped,2023-01-07T02:46:28Z,2,10:29,09:31,0,0,,,
+143,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625143,2022020625,Faceoff,143,FACEOFF,Jonathan Toews faceoff won against Travis Boyd,2023-01-07T02:48:38Z,2,10:29,09:31,0,0,16.0,Chicago Blackhawks,CHI
+144,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625309,2022020625,Missed Shot,309,MISSED_SHOT,Jonathan Toews Wide of Net Connor Ingram,2023-01-07T02:48:41Z,2,10:32,09:28,0,0,16.0,Chicago Blackhawks,CHI
+145,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625144,2022020625,Giveaway,144,GIVEAWAY,Giveaway by Nick Ritchie,2023-01-07T02:49:09Z,2,11:00,09:00,0,0,53.0,Arizona Coyotes,ARI
+146,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625310,2022020625,Shot,310,SHOT,Clayton Keller Wrist Shot saved by Alex Stalock,2023-01-07T02:49:51Z,2,11:42,08:18,0,0,53.0,Arizona Coyotes,ARI
+147,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625311,2022020625,Goal,311,GOAL,"Jake McCabe (2) Wrist Shot, assists: Seth Jones (10), Max Domi (15)",2023-01-07T02:50:04Z,2,11:55,08:05,1,0,16.0,Chicago Blackhawks,CHI
+148,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625145,2022020625,Faceoff,145,FACEOFF,Sam Lafferty faceoff won against Nick Bjugstad,2023-01-07T02:50:42Z,2,11:55,08:05,1,0,16.0,Chicago Blackhawks,CHI
+149,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625312,2022020625,Shot,312,SHOT,Sam Lafferty Wrist Shot saved by Connor Ingram,2023-01-07T02:50:48Z,2,12:01,07:59,1,0,16.0,Chicago Blackhawks,CHI
+150,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625357,2022020625,Hit,357,HIT,Reese Johnson hit Jakob Chychrun,2023-01-07T02:50:51Z,2,12:04,07:56,1,0,16.0,Chicago Blackhawks,CHI
+151,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625552,2022020625,Shot,552,SHOT,Colin Blackwell Wrist Shot saved by Connor Ingram,2023-01-07T02:50:52Z,2,12:05,07:55,1,0,16.0,Chicago Blackhawks,CHI
+152,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625358,2022020625,Stoppage,358,STOP,Icing,2023-01-07T02:51:09Z,2,12:22,07:38,1,0,,,
+153,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625146,2022020625,Faceoff,146,FACEOFF,Reese Johnson faceoff won against Nick Bjugstad,2023-01-07T02:51:46Z,2,12:22,07:38,1,0,16.0,Chicago Blackhawks,CHI
+154,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625147,2022020625,Takeaway,147,TAKEAWAY,Takeaway by Nick Bjugstad,2023-01-07T02:52:05Z,2,12:41,07:19,1,0,53.0,Arizona Coyotes,ARI
+155,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625148,2022020625,Takeaway,148,TAKEAWAY,Takeaway by Alex Stalock,2023-01-07T02:52:13Z,2,12:49,07:11,1,0,16.0,Chicago Blackhawks,CHI
+156,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625359,2022020625,Hit,359,HIT,Reese Johnson hit Patrik Nemeth,2023-01-07T02:52:22Z,2,12:58,07:02,1,0,16.0,Chicago Blackhawks,CHI
+157,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625149,2022020625,Takeaway,149,TAKEAWAY,Takeaway by Caleb Jones,2023-01-07T02:52:38Z,2,13:14,06:46,1,0,16.0,Chicago Blackhawks,CHI
+158,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625314,2022020625,Shot,314,SHOT,Nick Ritchie Wrist Shot saved by Alex Stalock,2023-01-07T02:52:53Z,2,13:29,06:31,1,0,53.0,Arizona Coyotes,ARI
+159,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625315,2022020625,Missed Shot,315,MISSED_SHOT,Andreas Athanasiou Wide of Net Connor Ingram,2023-01-07T02:53:02Z,2,13:38,06:22,1,0,16.0,Chicago Blackhawks,CHI
+160,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625360,2022020625,Stoppage,360,STOP,Puck in Netting,2023-01-07T02:53:04Z,2,13:40,06:20,1,0,,,
+161,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625150,2022020625,Faceoff,150,FACEOFF,Jonathan Toews faceoff won against Travis Boyd,2023-01-07T02:53:39Z,2,13:40,06:20,1,0,16.0,Chicago Blackhawks,CHI
+162,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625361,2022020625,Stoppage,361,STOP,Puck in Netting,2023-01-07T02:53:57Z,2,13:59,06:01,1,0,,,
+163,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625451,2022020625,Faceoff,451,FACEOFF,Jonathan Toews faceoff won against Jack McBain,2023-01-07T02:54:27Z,2,13:59,06:01,1,0,16.0,Chicago Blackhawks,CHI
+164,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625317,2022020625,Missed Shot,317,MISSED_SHOT,Taylor Raddysh Wide of Net Connor Ingram,2023-01-07T02:54:34Z,2,14:06,05:54,1,0,16.0,Chicago Blackhawks,CHI
+165,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625452,2022020625,Takeaway,452,TAKEAWAY,Takeaway by Tyler Johnson,2023-01-07T02:54:43Z,2,14:15,05:45,1,0,16.0,Chicago Blackhawks,CHI
+166,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625318,2022020625,Shot,318,SHOT,Jake McCabe Slap Shot saved by Connor Ingram,2023-01-07T02:54:44Z,2,14:16,05:44,1,0,16.0,Chicago Blackhawks,CHI
+167,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625362,2022020625,Stoppage,362,STOP,Puck Frozen,2023-01-07T02:55:54Z,2,15:26,04:34,1,0,,,
+168,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625454,2022020625,Faceoff,454,FACEOFF,Max Domi faceoff won against Barrett Hayton,2023-01-07T02:58:05Z,2,15:26,04:34,1,0,16.0,Chicago Blackhawks,CHI
+169,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625319,2022020625,Shot,319,SHOT,Philipp Kurashev Slap Shot saved by Connor Ingram,2023-01-07T02:58:10Z,2,15:30,04:30,1,0,16.0,Chicago Blackhawks,CHI
+170,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625363,2022020625,Stoppage,363,STOP,Goalie Stopped,2023-01-07T02:58:10Z,2,15:30,04:30,1,0,,,
+171,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625455,2022020625,Faceoff,455,FACEOFF,Philipp Kurashev faceoff won against Barrett Hayton,2023-01-07T02:58:37Z,2,15:30,04:30,1,0,16.0,Chicago Blackhawks,CHI
+172,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625320,2022020625,Shot,320,SHOT,Jake McCabe Wrist Shot saved by Connor Ingram,2023-01-07T02:58:43Z,2,15:36,04:24,1,0,16.0,Chicago Blackhawks,CHI
+173,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625321,2022020625,Blocked Shot,321,BLOCKED_SHOT,Philipp Kurashev shot blocked shot by Nick Ritchie,2023-01-07T02:59:05Z,2,15:58,04:02,1,0,53.0,Arizona Coyotes,ARI
+174,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625364,2022020625,Hit,364,HIT,Connor Murphy hit Lawson Crouse,2023-01-07T02:59:41Z,2,16:34,03:26,1,0,16.0,Chicago Blackhawks,CHI
+175,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625324,2022020625,Blocked Shot,324,BLOCKED_SHOT,Troy Stecher shot blocked shot by Colin Blackwell,2023-01-07T02:59:51Z,2,16:44,03:16,1,0,16.0,Chicago Blackhawks,CHI
+176,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625325,2022020625,Shot,325,SHOT,Reese Johnson Wrist Shot saved by Connor Ingram,2023-01-07T03:00:26Z,2,17:19,02:41,1,0,16.0,Chicago Blackhawks,CHI
+177,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625365,2022020625,Stoppage,365,STOP,Goalie Stopped,2023-01-07T03:00:27Z,2,17:21,02:39,1,0,,,
+178,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625456,2022020625,Faceoff,456,FACEOFF,Jack McBain faceoff won against Jason Dickinson,2023-01-07T03:00:55Z,2,17:21,02:39,1,0,53.0,Arizona Coyotes,ARI
+179,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625457,2022020625,Giveaway,457,GIVEAWAY,Giveaway by Jake McCabe,2023-01-07T03:01:18Z,2,17:44,02:16,1,0,16.0,Chicago Blackhawks,CHI
+180,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625366,2022020625,Hit,366,HIT,Brett Seney hit Shayne Gostisbehere,2023-01-07T03:01:21Z,2,17:47,02:13,1,0,16.0,Chicago Blackhawks,CHI
+181,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625326,2022020625,Missed Shot,326,MISSED_SHOT,Seth Jones Wide of Net Connor Ingram,2023-01-07T03:01:27Z,2,17:53,02:07,1,0,16.0,Chicago Blackhawks,CHI
+182,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625327,2022020625,Shot,327,SHOT,Shayne Gostisbehere Slap Shot saved by Alex Stalock,2023-01-07T03:01:50Z,2,18:16,01:44,1,0,53.0,Arizona Coyotes,ARI
+183,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625367,2022020625,Stoppage,367,STOP,Goalie Stopped,2023-01-07T03:01:51Z,2,18:17,01:43,1,0,,,
+184,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625458,2022020625,Faceoff,458,FACEOFF,Jonathan Toews faceoff won against Travis Boyd,2023-01-07T03:02:22Z,2,18:17,01:43,1,0,16.0,Chicago Blackhawks,CHI
+185,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625368,2022020625,Stoppage,368,STOP,Puck in Benches,2023-01-07T03:02:28Z,2,18:22,01:38,1,0,,,
+186,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625459,2022020625,Faceoff,459,FACEOFF,Jonathan Toews faceoff won against Travis Boyd,2023-01-07T03:02:50Z,2,18:22,01:38,1,0,16.0,Chicago Blackhawks,CHI
+187,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625328,2022020625,Shot,328,SHOT,Caleb Jones Wrist Shot saved by Connor Ingram,2023-01-07T03:03:05Z,2,18:37,01:23,1,0,16.0,Chicago Blackhawks,CHI
+188,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625329,2022020625,Blocked Shot,329,BLOCKED_SHOT,Ian Mitchell shot blocked shot by Lawson Crouse,2023-01-07T03:03:07Z,2,18:39,01:21,1,0,53.0,Arizona Coyotes,ARI
+189,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625369,2022020625,Hit,369,HIT,Caleb Jones hit Travis Boyd,2023-01-07T03:03:24Z,2,18:56,01:04,1,0,16.0,Chicago Blackhawks,CHI
+190,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625330,2022020625,Blocked Shot,330,BLOCKED_SHOT,Travis Boyd shot blocked shot by Seth Jones,2023-01-07T03:03:41Z,2,19:13,00:47,1,0,16.0,Chicago Blackhawks,CHI
+191,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625331,2022020625,Shot,331,SHOT,Max Domi Backhand saved by Connor Ingram,2023-01-07T03:03:51Z,2,19:23,00:37,1,0,16.0,Chicago Blackhawks,CHI
+192,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625370,2022020625,Hit,370,HIT,Christian Fischer hit Seth Jones,2023-01-07T03:04:02Z,2,19:34,00:26,1,0,53.0,Arizona Coyotes,ARI
+193,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625371,2022020625,Period End,371,PERIOD_END,End of 2nd Period,2023-01-07T03:04:28Z,2,20:00,00:00,1,0,,,
+194,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625374,2022020625,Period Official,374,PERIOD_OFFICIAL,Period Official,2023-01-07T03:09:07Z,2,20:00,00:00,1,0,,,
+195,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625375,2022020625,Period Ready,375,PERIOD_READY,Period Ready,2023-01-07T03:20:13Z,3,00:00,20:00,1,0,,,
+196,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625460,2022020625,Period Start,460,PERIOD_START,Period Start,2023-01-07T03:23:20Z,3,00:00,20:00,1,0,,,
+197,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625461,2022020625,Faceoff,461,FACEOFF,Max Domi faceoff won against Barrett Hayton,2023-01-07T03:23:20Z,3,00:00,20:00,1,0,16.0,Chicago Blackhawks,CHI
+198,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625376,2022020625,Hit,376,HIT,Christian Fischer hit Jack Johnson,2023-01-07T03:23:32Z,3,00:12,19:48,1,0,53.0,Arizona Coyotes,ARI
+199,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625377,2022020625,Hit,377,HIT,Connor Murphy hit Nick Ritchie,2023-01-07T03:23:38Z,3,00:18,19:42,1,0,16.0,Chicago Blackhawks,CHI
+200,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625378,2022020625,Stoppage,378,STOP,High Stick,2023-01-07T03:23:43Z,3,00:23,19:37,1,0,,,
+201,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625462,2022020625,Faceoff,462,FACEOFF,Max Domi faceoff won against Lawson Crouse,2023-01-07T03:24:19Z,3,00:23,19:37,1,0,16.0,Chicago Blackhawks,CHI
+202,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625553,2022020625,Shot,553,SHOT,Lawson Crouse Wrist Shot saved by Alex Stalock,2023-01-07T03:24:35Z,3,00:39,19:21,1,0,53.0,Arizona Coyotes,ARI
+203,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625332,2022020625,Missed Shot,332,MISSED_SHOT,Jake McCabe Wide of Net Connor Ingram,2023-01-07T03:25:33Z,3,01:37,18:23,1,0,16.0,Chicago Blackhawks,CHI
+204,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625379,2022020625,Hit,379,HIT,Zack Kassian hit Jason Dickinson,2023-01-07T03:26:36Z,3,02:40,17:20,1,0,53.0,Arizona Coyotes,ARI
+205,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625334,2022020625,Missed Shot,334,MISSED_SHOT,Christian Fischer Over Net Alex Stalock,2023-01-07T03:27:04Z,3,03:07,16:53,1,0,53.0,Arizona Coyotes,ARI
+206,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625380,2022020625,Stoppage,380,STOP,Puck in Netting,2023-01-07T03:27:04Z,3,03:07,16:53,1,0,,,
+207,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625463,2022020625,Faceoff,463,FACEOFF,Sam Lafferty faceoff won against Barrett Hayton,2023-01-07T03:27:30Z,3,03:07,16:53,1,0,16.0,Chicago Blackhawks,CHI
+208,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625381,2022020625,Stoppage,381,STOP,Puck in Netting,2023-01-07T03:27:43Z,3,03:20,16:40,1,0,,,
+209,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625464,2022020625,Faceoff,464,FACEOFF,Nick Bjugstad faceoff won against Philipp Kurashev,2023-01-07T03:28:25Z,3,03:20,16:40,1,0,53.0,Arizona Coyotes,ARI
+210,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625336,2022020625,Shot,336,SHOT,Ian Mitchell Snap Shot saved by Connor Ingram,2023-01-07T03:28:58Z,3,03:53,16:07,1,0,16.0,Chicago Blackhawks,CHI
+211,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625337,2022020625,Shot,337,SHOT,Lawson Crouse Slap Shot saved by Alex Stalock,2023-01-07T03:29:07Z,3,04:02,15:58,1,0,53.0,Arizona Coyotes,ARI
+212,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625382,2022020625,Stoppage,382,STOP,Referee or Linesman,2023-01-07T03:29:08Z,3,04:03,15:57,1,0,,,
+213,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625465,2022020625,Faceoff,465,FACEOFF,Jonathan Toews faceoff won against Jack McBain,2023-01-07T03:30:14Z,3,04:03,15:57,1,0,16.0,Chicago Blackhawks,CHI
+214,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625338,2022020625,Blocked Shot,338,BLOCKED_SHOT,Jakob Chychrun shot blocked shot by Jake McCabe,2023-01-07T03:30:44Z,3,04:33,15:27,1,0,16.0,Chicago Blackhawks,CHI
+215,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625466,2022020625,Takeaway,466,TAKEAWAY,Takeaway by Jakob Chychrun,2023-01-07T03:31:00Z,3,04:49,15:11,1,0,53.0,Arizona Coyotes,ARI
+216,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625383,2022020625,Hit,383,HIT,Josh Brown hit Jason Dickinson,2023-01-07T03:31:30Z,3,05:19,14:41,1,0,53.0,Arizona Coyotes,ARI
+217,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625384,2022020625,Hit,384,HIT,Connor Murphy hit Christian Fischer,2023-01-07T03:31:48Z,3,05:37,14:23,1,0,16.0,Chicago Blackhawks,CHI
+218,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625385,2022020625,Stoppage,385,STOP,Icing,2023-01-07T03:31:55Z,3,05:45,14:15,1,0,,,
+219,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625467,2022020625,Faceoff,467,FACEOFF,Sam Lafferty faceoff won against Barrett Hayton,2023-01-07T03:32:28Z,3,05:45,14:15,1,0,16.0,Chicago Blackhawks,CHI
+220,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625339,2022020625,Blocked Shot,339,BLOCKED_SHOT,J.J. Moser shot blocked shot by Connor Murphy,2023-01-07T03:32:41Z,3,05:58,14:02,1,0,16.0,Chicago Blackhawks,CHI
+221,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625386,2022020625,Stoppage,386,STOP,Icing,2023-01-07T03:33:03Z,3,06:20,13:40,1,0,,,
+222,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625468,2022020625,Faceoff,468,FACEOFF,Sam Lafferty faceoff won against Travis Boyd,2023-01-07T03:33:28Z,3,06:20,13:40,1,0,16.0,Chicago Blackhawks,CHI
+223,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625341,2022020625,Blocked Shot,341,BLOCKED_SHOT,Travis Boyd shot blocked shot by Jack Johnson,2023-01-07T03:33:48Z,3,06:40,13:20,1,0,16.0,Chicago Blackhawks,CHI
+224,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625387,2022020625,Stoppage,387,STOP,Icing,2023-01-07T03:33:57Z,3,06:49,13:11,1,0,,,
+225,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625469,2022020625,Faceoff,469,FACEOFF,Sam Lafferty faceoff won against Travis Boyd,2023-01-07T03:34:19Z,3,06:49,13:11,1,0,16.0,Chicago Blackhawks,CHI
+226,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625342,2022020625,Shot,342,SHOT,Lukas Reichel Wrist Shot saved by Connor Ingram,2023-01-07T03:34:29Z,3,06:59,13:01,1,0,16.0,Chicago Blackhawks,CHI
+227,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625343,2022020625,Shot,343,SHOT,Nick Bjugstad Wrist Shot saved by Alex Stalock,2023-01-07T03:34:54Z,3,07:24,12:36,1,0,53.0,Arizona Coyotes,ARI
+228,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625388,2022020625,Hit,388,HIT,Jake McCabe hit Nick Bjugstad,2023-01-07T03:34:55Z,3,07:25,12:35,1,0,16.0,Chicago Blackhawks,CHI
+229,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625344,2022020625,Shot,344,SHOT,Josh Brown Wrist Shot saved by Alex Stalock,2023-01-07T03:35:01Z,3,07:31,12:29,1,0,53.0,Arizona Coyotes,ARI
+230,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625345,2022020625,Shot,345,SHOT,Nick Bjugstad Wrist Shot saved by Alex Stalock,2023-01-07T03:35:13Z,3,07:43,12:17,1,0,53.0,Arizona Coyotes,ARI
+231,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625346,2022020625,Shot,346,SHOT,Michael Carcone Wrist Shot saved by Alex Stalock,2023-01-07T03:35:15Z,3,07:45,12:15,1,0,53.0,Arizona Coyotes,ARI
+232,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625347,2022020625,Shot,347,SHOT,Juuso Valimaki Wrist Shot saved by Alex Stalock,2023-01-07T03:35:17Z,3,07:47,12:13,1,0,53.0,Arizona Coyotes,ARI
+233,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625349,2022020625,Blocked Shot,349,BLOCKED_SHOT,Michael Carcone shot blocked shot by Jake McCabe,2023-01-07T03:35:19Z,3,07:49,12:11,1,0,16.0,Chicago Blackhawks,CHI
+234,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625348,2022020625,Blocked Shot,348,BLOCKED_SHOT,Lawson Crouse shot blocked shot by Taylor Raddysh,2023-01-07T03:35:38Z,3,08:08,11:52,1,0,16.0,Chicago Blackhawks,CHI
+235,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625389,2022020625,Hit,389,HIT,Patrik Nemeth hit Colin Blackwell,2023-01-07T03:36:02Z,3,08:32,11:28,1,0,53.0,Arizona Coyotes,ARI
+236,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625390,2022020625,Stoppage,390,STOP,Offside,2023-01-07T03:36:03Z,3,08:33,11:27,1,0,,,
+237,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625470,2022020625,Faceoff,470,FACEOFF,Jonathan Toews faceoff won against Jack McBain,2023-01-07T03:38:22Z,3,08:33,11:27,1,0,16.0,Chicago Blackhawks,CHI
+238,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625350,2022020625,Blocked Shot,350,BLOCKED_SHOT,Seth Jones shot blocked shot by Clayton Keller,2023-01-07T03:38:34Z,3,08:45,11:15,1,0,53.0,Arizona Coyotes,ARI
+239,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625701,2022020625,Shot,701,SHOT,Jason Dickinson Backhand saved by Connor Ingram,2023-01-07T03:38:56Z,3,09:07,10:53,1,0,16.0,Chicago Blackhawks,CHI
+240,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625391,2022020625,Stoppage,391,STOP,Icing,2023-01-07T03:39:21Z,3,09:32,10:28,1,0,,,
+241,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625471,2022020625,Faceoff,471,FACEOFF,Jason Dickinson faceoff won against Nick Bjugstad,2023-01-07T03:39:48Z,3,09:32,10:28,1,0,16.0,Chicago Blackhawks,CHI
+242,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625392,2022020625,Hit,392,HIT,Michael Carcone hit Sam Lafferty,2023-01-07T03:40:28Z,3,10:12,09:48,1,0,53.0,Arizona Coyotes,ARI
+243,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625472,2022020625,Giveaway,472,GIVEAWAY,Giveaway by Josh Brown,2023-01-07T03:40:32Z,3,10:16,09:44,1,0,53.0,Arizona Coyotes,ARI
+244,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625954,2022020625,Penalty,954,PENALTY,Sam Lafferty Interference against Barrett Hayton,2023-01-07T03:40:33Z,3,10:17,09:43,1,0,16.0,Chicago Blackhawks,CHI
+245,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625473,2022020625,Faceoff,473,FACEOFF,Barrett Hayton faceoff won against Reese Johnson,2023-01-07T03:43:03Z,3,10:17,09:43,1,0,53.0,Arizona Coyotes,ARI
+246,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625393,2022020625,Hit,393,HIT,Connor Murphy hit Nick Schmaltz,2023-01-07T03:43:23Z,3,10:37,09:23,1,0,16.0,Chicago Blackhawks,CHI
+247,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625394,2022020625,Hit,394,HIT,Reese Johnson hit Lawson Crouse,2023-01-07T03:45:04Z,3,12:18,07:42,1,0,16.0,Chicago Blackhawks,CHI
+248,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625474,2022020625,Giveaway,474,GIVEAWAY,Giveaway by Max Domi,2023-01-07T03:45:37Z,3,12:51,07:09,1,0,16.0,Chicago Blackhawks,CHI
+249,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625395,2022020625,Hit,395,HIT,Seth Jones hit Michael Carcone,2023-01-07T03:46:21Z,3,13:35,06:25,1,0,16.0,Chicago Blackhawks,CHI
+250,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625475,2022020625,Takeaway,475,TAKEAWAY,Takeaway by Seth Jones,2023-01-07T03:46:47Z,3,14:01,05:59,1,0,16.0,Chicago Blackhawks,CHI
+251,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625702,2022020625,Shot,702,SHOT,Seth Jones Snap Shot saved by Connor Ingram,2023-01-07T03:47:14Z,3,14:28,05:32,1,0,16.0,Chicago Blackhawks,CHI
+252,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625396,2022020625,Hit,396,HIT,Shayne Gostisbehere hit Jonathan Toews,2023-01-07T03:47:27Z,3,14:41,05:19,1,0,53.0,Arizona Coyotes,ARI
+253,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625703,2022020625,Blocked Shot,703,BLOCKED_SHOT,Jack Johnson shot blocked shot by Clayton Keller,2023-01-07T03:47:35Z,3,14:49,05:11,1,0,53.0,Arizona Coyotes,ARI
+254,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625397,2022020625,Hit,397,HIT,Jack McBain hit Jack Johnson,2023-01-07T03:47:44Z,3,14:58,05:02,1,0,53.0,Arizona Coyotes,ARI
+255,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625398,2022020625,Hit,398,HIT,Nick Ritchie hit Andreas Athanasiou,2023-01-07T03:47:56Z,3,15:10,04:50,1,0,53.0,Arizona Coyotes,ARI
+256,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625705,2022020625,Shot,705,SHOT,Michael Carcone Wrist Shot saved by Alex Stalock,2023-01-07T03:48:54Z,3,16:08,03:52,1,0,53.0,Arizona Coyotes,ARI
+257,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625706,2022020625,Shot,706,SHOT,Jake McCabe Wrist Shot saved by Connor Ingram,2023-01-07T03:49:15Z,3,16:29,03:31,1,0,16.0,Chicago Blackhawks,CHI
+258,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625399,2022020625,Stoppage,399,STOP,Icing,2023-01-07T03:49:24Z,3,16:38,03:22,1,0,,,
+259,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625476,2022020625,Faceoff,476,FACEOFF,Jonathan Toews faceoff won against Travis Boyd,2023-01-07T03:49:46Z,3,16:38,03:22,1,0,16.0,Chicago Blackhawks,CHI
+260,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625707,2022020625,Shot,707,SHOT,Christian Fischer Wrist Shot saved by Alex Stalock,2023-01-07T03:50:08Z,3,17:00,03:00,1,0,53.0,Arizona Coyotes,ARI
+261,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625400,2022020625,Stoppage,400,STOP,Goalie Stopped,2023-01-07T03:50:09Z,3,17:01,02:59,1,0,,,
+262,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625477,2022020625,Faceoff,477,FACEOFF,Jonathan Toews faceoff won against Nick Bjugstad,2023-01-07T03:52:50Z,3,17:01,02:59,1,0,16.0,Chicago Blackhawks,CHI
+263,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625708,2022020625,Missed Shot,708,MISSED_SHOT,Taylor Raddysh Wide of Net Connor Ingram,2023-01-07T03:53:18Z,3,17:29,02:31,1,0,16.0,Chicago Blackhawks,CHI
+264,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625709,2022020625,Missed Shot,709,MISSED_SHOT,Brett Seney Over Net Connor Ingram,2023-01-07T03:53:54Z,3,18:05,01:55,1,0,16.0,Chicago Blackhawks,CHI
+265,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625478,2022020625,Giveaway,478,GIVEAWAY,Giveaway by Shayne Gostisbehere,2023-01-07T03:54:05Z,3,18:16,01:44,1,0,53.0,Arizona Coyotes,ARI
+266,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625751,2022020625,Hit,751,HIT,Jake McCabe hit Nick Ritchie,2023-01-07T03:54:22Z,3,18:33,01:27,1,0,16.0,Chicago Blackhawks,CHI
+267,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625710,2022020625,Blocked Shot,710,BLOCKED_SHOT,J.J. Moser shot blocked shot by Sam Lafferty,2023-01-07T03:54:35Z,3,18:46,01:14,1,0,16.0,Chicago Blackhawks,CHI
+268,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625752,2022020625,Stoppage,752,STOP,Icing,2023-01-07T03:54:53Z,3,19:03,00:57,1,0,,,
+269,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625479,2022020625,Faceoff,479,FACEOFF,Barrett Hayton faceoff won against Jonathan Toews,2023-01-07T03:56:13Z,3,19:03,00:57,1,0,53.0,Arizona Coyotes,ARI
+270,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625711,2022020625,Goal,711,GOAL,"Tyler Johnson (4) Wrist Shot, assists: Jonathan Toews (10), Sam Lafferty (7)",2023-01-07T03:56:24Z,3,19:14,00:46,2,0,16.0,Chicago Blackhawks,CHI
+271,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625480,2022020625,Faceoff,480,FACEOFF,Travis Boyd faceoff won against Reese Johnson,2023-01-07T03:57:07Z,3,19:14,00:46,2,0,53.0,Arizona Coyotes,ARI
+272,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625481,2022020625,Takeaway,481,TAKEAWAY,Takeaway by Zack Kassian,2023-01-07T03:57:37Z,3,19:46,00:14,2,0,53.0,Arizona Coyotes,ARI
+273,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625482,2022020625,Takeaway,482,TAKEAWAY,Takeaway by Reese Johnson,2023-01-07T03:57:43Z,3,19:52,00:08,2,0,16.0,Chicago Blackhawks,CHI
+274,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625753,2022020625,Period End,753,PERIOD_END,End of 3rd Period,2023-01-07T03:57:51Z,3,20:00,00:00,2,0,,,
+275,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625756,2022020625,Period Official,756,PERIOD_OFFICIAL,Period Official,2023-01-07T03:58:20Z,3,20:00,00:00,2,0,,,
+276,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625757,2022020625,Game End,757,GAME_END,Game End,2023-01-07T03:58:23Z,3,20:00,00:00,2,0,,,
+277,16,53,Chicago Blackhawks,Arizona Coyotes,2022020625758,2022020625,Game Official,758,GAME_OFFICIAL,Game Official,2023-01-07T04:05:20Z,3,20:00,00:00,2,0,,,

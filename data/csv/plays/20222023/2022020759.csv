@@ -1,0 +1,333 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,1,54,New Jersey Devils,Vegas Golden Knights,20220207591,2022020759,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-01-24T23:38:35Z,1,00:00,20:00,0,0,,,
+1,1,54,New Jersey Devils,Vegas Golden Knights,20220207595,2022020759,Period Ready,5,PERIOD_READY,Period Ready,2023-01-25T00:37:47Z,1,00:00,20:00,0,0,,,
+2,1,54,New Jersey Devils,Vegas Golden Knights,202202075951,2022020759,Period Start,51,PERIOD_START,Period Start,2023-01-25T00:38:24Z,1,00:00,20:00,0,0,,,
+3,1,54,New Jersey Devils,Vegas Golden Knights,202202075952,2022020759,Faceoff,52,FACEOFF,Nico Hischier faceoff won against William Karlsson,2023-01-25T00:38:24Z,1,00:00,20:00,0,0,1.0,New Jersey Devils,NJD
+4,1,54,New Jersey Devils,Vegas Golden Knights,2022020759151,2022020759,Stoppage,151,STOP,Referee or Linesman,2023-01-25T00:39:03Z,1,00:38,19:22,0,0,,,
+5,1,54,New Jersey Devils,Vegas Golden Knights,202202075953,2022020759,Faceoff,53,FACEOFF,Jack Hughes faceoff won against Jack Eichel,2023-01-25T00:39:50Z,1,00:38,19:22,0,0,1.0,New Jersey Devils,NJD
+6,1,54,New Jersey Devils,Vegas Golden Knights,20220207598,2022020759,Shot,8,SHOT,Kaedan Korczak Wrist Shot saved by Vitek Vanecek,2023-01-25T00:40:18Z,1,01:06,18:54,0,0,54.0,Vegas Golden Knights,VGK
+7,1,54,New Jersey Devils,Vegas Golden Knights,202202075954,2022020759,Giveaway,54,GIVEAWAY,Giveaway by Brendan Smith,2023-01-25T00:40:56Z,1,01:44,18:16,0,0,1.0,New Jersey Devils,NJD
+8,1,54,New Jersey Devils,Vegas Golden Knights,20220207599,2022020759,Shot,9,SHOT,Paul Cotter Wrist Shot saved by Vitek Vanecek,2023-01-25T00:41:03Z,1,01:51,18:09,0,0,54.0,Vegas Golden Knights,VGK
+9,1,54,New Jersey Devils,Vegas Golden Knights,202202075910,2022020759,Shot,10,SHOT,Phil Kessel Snap Shot saved by Vitek Vanecek,2023-01-25T00:41:21Z,1,02:09,17:51,0,0,54.0,Vegas Golden Knights,VGK
+10,1,54,New Jersey Devils,Vegas Golden Knights,202202075911,2022020759,Shot,11,SHOT,Miles Wood Snap Shot saved by Logan Thompson,2023-01-25T00:42:07Z,1,02:55,17:05,0,0,1.0,New Jersey Devils,NJD
+11,1,54,New Jersey Devils,Vegas Golden Knights,2022020759153,2022020759,Blocked Shot,153,BLOCKED_SHOT,Ryan Graves shot blocked shot by Keegan Kolesar,2023-01-25T00:42:16Z,1,03:04,16:56,0,0,54.0,Vegas Golden Knights,VGK
+12,1,54,New Jersey Devils,Vegas Golden Knights,202202075955,2022020759,Hit,55,HIT,Alex Pietrangelo hit Miles Wood,2023-01-25T00:42:23Z,1,03:11,16:49,0,0,54.0,Vegas Golden Knights,VGK
+13,1,54,New Jersey Devils,Vegas Golden Knights,202202075912,2022020759,Shot,12,SHOT,Yegor Sharangovich Snap Shot saved by Logan Thompson,2023-01-25T00:42:26Z,1,03:14,16:46,0,0,1.0,New Jersey Devils,NJD
+14,1,54,New Jersey Devils,Vegas Golden Knights,2022020759154,2022020759,Stoppage,154,STOP,Goalie Stopped,2023-01-25T00:42:28Z,1,03:16,16:44,0,0,,,
+15,1,54,New Jersey Devils,Vegas Golden Knights,202202075956,2022020759,Faceoff,56,FACEOFF,William Karlsson faceoff won against Nico Hischier,2023-01-25T00:43:01Z,1,03:16,16:44,0,0,54.0,Vegas Golden Knights,VGK
+16,1,54,New Jersey Devils,Vegas Golden Knights,202202075913,2022020759,Missed Shot,13,MISSED_SHOT,Jesper Bratt Wide of Net Logan Thompson,2023-01-25T00:43:23Z,1,03:38,16:22,0,0,1.0,New Jersey Devils,NJD
+17,1,54,New Jersey Devils,Vegas Golden Knights,202202075957,2022020759,Takeaway,57,TAKEAWAY,Takeaway by Jesper Bratt,2023-01-25T00:43:29Z,1,03:44,16:16,0,0,1.0,New Jersey Devils,NJD
+18,1,54,New Jersey Devils,Vegas Golden Knights,202202075914,2022020759,Goal,14,GOAL,"Ondrej Palat (4) Snap Shot, assists: Nico Hischier (25), Jesper Bratt (29)",2023-01-25T00:43:42Z,1,03:58,16:02,1,0,1.0,New Jersey Devils,NJD
+19,1,54,New Jersey Devils,Vegas Golden Knights,202202075958,2022020759,Faceoff,58,FACEOFF,Erik Haula faceoff won against Jack Eichel,2023-01-25T00:44:26Z,1,03:58,16:02,1,0,1.0,New Jersey Devils,NJD
+20,1,54,New Jersey Devils,Vegas Golden Knights,2022020759155,2022020759,Blocked Shot,155,BLOCKED_SHOT,Jack Hughes shot blocked shot by Alex Pietrangelo,2023-01-25T00:44:32Z,1,04:04,15:56,1,0,54.0,Vegas Golden Knights,VGK
+21,1,54,New Jersey Devils,Vegas Golden Knights,202202075959,2022020759,Takeaway,59,TAKEAWAY,Takeaway by Tomas Tatar,2023-01-25T00:44:53Z,1,04:25,15:35,1,0,1.0,New Jersey Devils,NJD
+22,1,54,New Jersey Devils,Vegas Golden Knights,202202075960,2022020759,Giveaway,60,GIVEAWAY,Giveaway by Tomas Tatar,2023-01-25T00:44:57Z,1,04:29,15:31,1,0,1.0,New Jersey Devils,NJD
+23,1,54,New Jersey Devils,Vegas Golden Knights,202202075915,2022020759,Shot,15,SHOT,Chandler Stephenson Backhand saved by Vitek Vanecek,2023-01-25T00:44:59Z,1,04:31,15:29,1,0,54.0,Vegas Golden Knights,VGK
+24,1,54,New Jersey Devils,Vegas Golden Knights,2022020759156,2022020759,Shot,156,SHOT,Michael Amadio Poke saved by Vitek Vanecek,2023-01-25T00:45:09Z,1,04:41,15:19,1,0,54.0,Vegas Golden Knights,VGK
+25,1,54,New Jersey Devils,Vegas Golden Knights,2022020759157,2022020759,Blocked Shot,157,BLOCKED_SHOT,Jesper Boqvist shot blocked shot by Phil Kessel,2023-01-25T00:45:44Z,1,05:16,14:44,1,0,54.0,Vegas Golden Knights,VGK
+26,1,54,New Jersey Devils,Vegas Golden Knights,202202075961,2022020759,Hit,61,HIT,Miles Wood hit Ben Hutton,2023-01-25T00:46:23Z,1,05:55,14:05,1,0,1.0,New Jersey Devils,NJD
+27,1,54,New Jersey Devils,Vegas Golden Knights,2022020759158,2022020759,Blocked Shot,158,BLOCKED_SHOT,Byron Froese shot blocked shot by Dougie Hamilton,2023-01-25T00:46:30Z,1,06:02,13:58,1,0,1.0,New Jersey Devils,NJD
+28,1,54,New Jersey Devils,Vegas Golden Knights,202202075916,2022020759,Missed Shot,16,MISSED_SHOT,Brett Howden Wide of Net Vitek Vanecek,2023-01-25T00:46:39Z,1,06:11,13:49,1,0,54.0,Vegas Golden Knights,VGK
+29,1,54,New Jersey Devils,Vegas Golden Knights,202202075962,2022020759,Takeaway,62,TAKEAWAY,Takeaway by Nico Hischier,2023-01-25T00:47:03Z,1,06:35,13:25,1,0,1.0,New Jersey Devils,NJD
+30,1,54,New Jersey Devils,Vegas Golden Knights,202202075963,2022020759,Giveaway,63,GIVEAWAY,Giveaway by Nico Hischier,2023-01-25T00:47:17Z,1,06:49,13:11,1,0,1.0,New Jersey Devils,NJD
+31,1,54,New Jersey Devils,Vegas Golden Knights,2022020759160,2022020759,Blocked Shot,160,BLOCKED_SHOT,Alec Martinez shot blocked shot by Nico Hischier,2023-01-25T00:47:38Z,1,07:10,12:50,1,0,1.0,New Jersey Devils,NJD
+32,1,54,New Jersey Devils,Vegas Golden Knights,202202075918,2022020759,Shot,18,SHOT,Nicolas Hague Snap Shot saved by Vitek Vanecek,2023-01-25T00:47:45Z,1,07:17,12:43,1,0,54.0,Vegas Golden Knights,VGK
+33,1,54,New Jersey Devils,Vegas Golden Knights,2022020759161,2022020759,Blocked Shot,161,BLOCKED_SHOT,Jack Eichel shot blocked shot by Ryan Graves,2023-01-25T00:48:24Z,1,07:56,12:04,1,0,1.0,New Jersey Devils,NJD
+34,1,54,New Jersey Devils,Vegas Golden Knights,202202075964,2022020759,Hit,64,HIT,Phil Kessel hit Jesper Boqvist,2023-01-25T00:48:57Z,1,08:29,11:31,1,0,54.0,Vegas Golden Knights,VGK
+35,1,54,New Jersey Devils,Vegas Golden Knights,2022020759551,2022020759,Shot,551,SHOT,Michael McLeod Wrist Shot saved by Logan Thompson,2023-01-25T00:49:12Z,1,08:44,11:16,1,0,1.0,New Jersey Devils,NJD
+36,1,54,New Jersey Devils,Vegas Golden Knights,202202075919,2022020759,Missed Shot,19,MISSED_SHOT,Jesper Boqvist Wide of Net Logan Thompson,2023-01-25T00:49:16Z,1,08:48,11:12,1,0,1.0,New Jersey Devils,NJD
+37,1,54,New Jersey Devils,Vegas Golden Knights,202202075965,2022020759,Hit,65,HIT,Ben Hutton hit Dawson Mercer,2023-01-25T00:49:25Z,1,08:57,11:03,1,0,54.0,Vegas Golden Knights,VGK
+38,1,54,New Jersey Devils,Vegas Golden Knights,202202075966,2022020759,Hit,66,HIT,Jonas Siegenthaler hit Nicolas Hague,2023-01-25T00:49:27Z,1,08:59,11:01,1,0,1.0,New Jersey Devils,NJD
+39,1,54,New Jersey Devils,Vegas Golden Knights,2022020759162,2022020759,Blocked Shot,162,BLOCKED_SHOT,Nicolas Hague shot blocked shot by Jonas Siegenthaler,2023-01-25T00:49:33Z,1,09:05,10:55,1,0,1.0,New Jersey Devils,NJD
+40,1,54,New Jersey Devils,Vegas Golden Knights,202202075920,2022020759,Missed Shot,20,MISSED_SHOT,Paul Cotter Wide of Net Vitek Vanecek,2023-01-25T00:49:37Z,1,09:09,10:51,1,0,54.0,Vegas Golden Knights,VGK
+41,1,54,New Jersey Devils,Vegas Golden Knights,202202075968,2022020759,Hit,68,HIT,Jonas Siegenthaler hit Nicolas Hague,2023-01-25T00:49:43Z,1,09:15,10:45,1,0,1.0,New Jersey Devils,NJD
+42,1,54,New Jersey Devils,Vegas Golden Knights,2022020759163,2022020759,Stoppage,163,STOP,Icing,2023-01-25T00:49:51Z,1,09:23,10:37,1,0,,,
+43,1,54,New Jersey Devils,Vegas Golden Knights,2022020759301,2022020759,Faceoff,301,FACEOFF,William Karlsson faceoff won against Michael McLeod,2023-01-25T00:50:47Z,1,09:23,10:37,1,0,54.0,Vegas Golden Knights,VGK
+44,1,54,New Jersey Devils,Vegas Golden Knights,202202075921,2022020759,Shot,21,SHOT,Jonathan Marchessault Snap Shot saved by Vitek Vanecek,2023-01-25T00:50:48Z,1,09:24,10:36,1,0,54.0,Vegas Golden Knights,VGK
+45,1,54,New Jersey Devils,Vegas Golden Knights,202202075922,2022020759,Stoppage,22,STOP,Goalie Stopped,2023-01-25T00:50:52Z,1,09:28,10:32,1,0,,,
+46,1,54,New Jersey Devils,Vegas Golden Knights,2022020759164,2022020759,Shot,164,SHOT,Alec Martinez Slap Shot saved by Vitek Vanecek,2023-01-25T00:50:52Z,1,09:28,10:32,1,0,54.0,Vegas Golden Knights,VGK
+47,1,54,New Jersey Devils,Vegas Golden Knights,202202075970,2022020759,Faceoff,70,FACEOFF,Nico Hischier faceoff won against William Karlsson,2023-01-25T00:53:13Z,1,09:28,10:32,1,0,1.0,New Jersey Devils,NJD
+48,1,54,New Jersey Devils,Vegas Golden Knights,202202075971,2022020759,Giveaway,71,GIVEAWAY,Giveaway by Jonas Siegenthaler,2023-01-25T00:53:21Z,1,09:36,10:24,1,0,1.0,New Jersey Devils,NJD
+49,1,54,New Jersey Devils,Vegas Golden Knights,202202075923,2022020759,Shot,23,SHOT,William Karlsson Snap Shot saved by Vitek Vanecek,2023-01-25T00:53:44Z,1,09:59,10:01,1,0,54.0,Vegas Golden Knights,VGK
+50,1,54,New Jersey Devils,Vegas Golden Knights,2022020759165,2022020759,Stoppage,165,STOP,Goalie Stopped,2023-01-25T00:53:45Z,1,10:01,09:59,1,0,,,
+51,1,54,New Jersey Devils,Vegas Golden Knights,202202075972,2022020759,Faceoff,72,FACEOFF,Chandler Stephenson faceoff won against Jack Hughes,2023-01-25T00:54:35Z,1,10:01,09:59,1,0,54.0,Vegas Golden Knights,VGK
+52,1,54,New Jersey Devils,Vegas Golden Knights,2022020759166,2022020759,Blocked Shot,166,BLOCKED_SHOT,Damon Severson shot blocked shot by Alex Pietrangelo,2023-01-25T00:54:51Z,1,10:17,09:43,1,0,54.0,Vegas Golden Knights,VGK
+53,1,54,New Jersey Devils,Vegas Golden Knights,202202075924,2022020759,Stoppage,24,STOP,Puck in Netting,2023-01-25T00:54:51Z,1,10:18,09:42,1,0,,,
+54,1,54,New Jersey Devils,Vegas Golden Knights,202202075973,2022020759,Faceoff,73,FACEOFF,Jack Hughes faceoff won against Byron Froese,2023-01-25T00:55:34Z,1,10:18,09:42,1,0,1.0,New Jersey Devils,NJD
+55,1,54,New Jersey Devils,Vegas Golden Knights,2022020759167,2022020759,Blocked Shot,167,BLOCKED_SHOT,Brendan Smith shot blocked shot by Brett Howden,2023-01-25T00:55:37Z,1,10:21,09:39,1,0,54.0,Vegas Golden Knights,VGK
+56,1,54,New Jersey Devils,Vegas Golden Knights,202202075974,2022020759,Giveaway,74,GIVEAWAY,Giveaway by Keegan Kolesar,2023-01-25T00:55:50Z,1,10:34,09:26,1,0,54.0,Vegas Golden Knights,VGK
+57,1,54,New Jersey Devils,Vegas Golden Knights,2022020759168,2022020759,Blocked Shot,168,BLOCKED_SHOT,Jack Hughes shot blocked shot by Brett Howden,2023-01-25T00:55:57Z,1,10:41,09:19,1,0,54.0,Vegas Golden Knights,VGK
+58,1,54,New Jersey Devils,Vegas Golden Knights,202202075975,2022020759,Hit,75,HIT,Erik Haula hit Byron Froese,2023-01-25T00:56:03Z,1,10:47,09:13,1,0,1.0,New Jersey Devils,NJD
+59,1,54,New Jersey Devils,Vegas Golden Knights,202202075976,2022020759,Giveaway,76,GIVEAWAY,Giveaway by Jesper Boqvist,2023-01-25T00:56:44Z,1,11:28,08:32,1,0,1.0,New Jersey Devils,NJD
+60,1,54,New Jersey Devils,Vegas Golden Knights,202202075977,2022020759,Giveaway,77,GIVEAWAY,Giveaway by Chandler Stephenson,2023-01-25T00:56:56Z,1,11:40,08:20,1,0,54.0,Vegas Golden Knights,VGK
+61,1,54,New Jersey Devils,Vegas Golden Knights,202202075978,2022020759,Hit,78,HIT,Miles Wood hit Brayden McNabb,2023-01-25T00:57:28Z,1,12:12,07:48,1,0,1.0,New Jersey Devils,NJD
+62,1,54,New Jersey Devils,Vegas Golden Knights,202202075979,2022020759,Hit,79,HIT,Phil Kessel hit Yegor Sharangovich,2023-01-25T00:57:53Z,1,12:37,07:23,1,0,54.0,Vegas Golden Knights,VGK
+63,1,54,New Jersey Devils,Vegas Golden Knights,202202075925,2022020759,Shot,25,SHOT,Ryan Graves Snap Shot saved by Logan Thompson,2023-01-25T00:57:58Z,1,12:42,07:18,1,0,1.0,New Jersey Devils,NJD
+64,1,54,New Jersey Devils,Vegas Golden Knights,202202075926,2022020759,Shot,26,SHOT,Nico Hischier Deflected saved by Logan Thompson,2023-01-25T00:58:22Z,1,13:06,06:54,1,0,1.0,New Jersey Devils,NJD
+65,1,54,New Jersey Devils,Vegas Golden Knights,202202075927,2022020759,Shot,27,SHOT,Nico Hischier Snap Shot saved by Logan Thompson,2023-01-25T00:58:45Z,1,13:29,06:31,1,0,1.0,New Jersey Devils,NJD
+66,1,54,New Jersey Devils,Vegas Golden Knights,2022020759169,2022020759,Shot,169,SHOT,Brendan Smith Slap Shot saved by Logan Thompson,2023-01-25T00:58:48Z,1,13:32,06:28,1,0,1.0,New Jersey Devils,NJD
+67,1,54,New Jersey Devils,Vegas Golden Knights,202202075928,2022020759,Shot,28,SHOT,Tomas Tatar Snap Shot saved by Logan Thompson,2023-01-25T00:59:15Z,1,13:59,06:01,1,0,1.0,New Jersey Devils,NJD
+68,1,54,New Jersey Devils,Vegas Golden Knights,2022020759170,2022020759,Blocked Shot,170,BLOCKED_SHOT,Jack Hughes shot blocked shot by Byron Froese,2023-01-25T00:59:17Z,1,14:01,05:59,1,0,54.0,Vegas Golden Knights,VGK
+69,1,54,New Jersey Devils,Vegas Golden Knights,202202075980,2022020759,Hit,80,HIT,Dougie Hamilton hit Byron Froese,2023-01-25T00:59:29Z,1,14:13,05:47,1,0,1.0,New Jersey Devils,NJD
+70,1,54,New Jersey Devils,Vegas Golden Knights,202202075981,2022020759,Hit,81,HIT,Brett Howden hit Erik Haula,2023-01-25T00:59:43Z,1,14:27,05:33,1,0,54.0,Vegas Golden Knights,VGK
+71,1,54,New Jersey Devils,Vegas Golden Knights,202202075929,2022020759,Shot,29,SHOT,Jesper Boqvist Backhand saved by Logan Thompson,2023-01-25T01:00:03Z,1,14:47,05:13,1,0,1.0,New Jersey Devils,NJD
+72,1,54,New Jersey Devils,Vegas Golden Knights,2022020759171,2022020759,Stoppage,171,STOP,Goalie Stopped,2023-01-25T01:00:06Z,1,14:49,05:11,1,0,,,
+73,1,54,New Jersey Devils,Vegas Golden Knights,202202075982,2022020759,Faceoff,82,FACEOFF,Nico Hischier faceoff won against Jack Eichel,2023-01-25T01:02:14Z,1,14:49,05:11,1,0,1.0,New Jersey Devils,NJD
+74,1,54,New Jersey Devils,Vegas Golden Knights,202202075930,2022020759,Shot,30,SHOT,Jesper Bratt Slap Shot saved by Logan Thompson,2023-01-25T01:02:19Z,1,14:54,05:06,1,0,1.0,New Jersey Devils,NJD
+75,1,54,New Jersey Devils,Vegas Golden Knights,202202075983,2022020759,Takeaway,83,TAKEAWAY,Takeaway by Ryan Graves,2023-01-25T01:02:25Z,1,15:00,05:00,1,0,1.0,New Jersey Devils,NJD
+76,1,54,New Jersey Devils,Vegas Golden Knights,202202075984,2022020759,Giveaway,84,GIVEAWAY,Giveaway by Damon Severson,2023-01-25T01:02:33Z,1,15:08,04:52,1,0,1.0,New Jersey Devils,NJD
+77,1,54,New Jersey Devils,Vegas Golden Knights,202202075932,2022020759,Blocked Shot,32,BLOCKED_SHOT,Jack Eichel shot blocked shot by Ryan Graves,2023-01-25T01:02:35Z,1,15:10,04:50,1,0,1.0,New Jersey Devils,NJD
+78,1,54,New Jersey Devils,Vegas Golden Knights,2022020759173,2022020759,Stoppage,173,STOP,Puck in Netting,2023-01-25T01:02:57Z,1,15:32,04:28,1,0,,,
+79,1,54,New Jersey Devils,Vegas Golden Knights,202202075985,2022020759,Faceoff,85,FACEOFF,William Karlsson faceoff won against Michael McLeod,2023-01-25T01:03:34Z,1,15:32,04:28,1,0,54.0,Vegas Golden Knights,VGK
+80,1,54,New Jersey Devils,Vegas Golden Knights,2022020759174,2022020759,Blocked Shot,174,BLOCKED_SHOT,Nicolas Hague shot blocked shot by Jonas Siegenthaler,2023-01-25T01:03:36Z,1,15:34,04:26,1,0,1.0,New Jersey Devils,NJD
+81,1,54,New Jersey Devils,Vegas Golden Knights,202202075934,2022020759,Shot,34,SHOT,Ben Hutton Snap Shot saved by Vitek Vanecek,2023-01-25T01:03:42Z,1,15:40,04:20,1,0,54.0,Vegas Golden Knights,VGK
+82,1,54,New Jersey Devils,Vegas Golden Knights,202202075986,2022020759,Hit,86,HIT,Jonas Siegenthaler hit Reilly Smith,2023-01-25T01:03:46Z,1,15:44,04:16,1,0,1.0,New Jersey Devils,NJD
+83,1,54,New Jersey Devils,Vegas Golden Knights,202202075936,2022020759,Shot,36,SHOT,Miles Wood Snap Shot saved by Logan Thompson,2023-01-25T01:04:18Z,1,16:16,03:44,1,0,1.0,New Jersey Devils,NJD
+84,1,54,New Jersey Devils,Vegas Golden Knights,2022020759175,2022020759,Stoppage,175,STOP,Goalie Stopped,2023-01-25T01:04:19Z,1,16:17,03:43,1,0,,,
+85,1,54,New Jersey Devils,Vegas Golden Knights,202202075988,2022020759,Faceoff,88,FACEOFF,Nicolas Roy faceoff won against Jack Hughes,2023-01-25T01:06:27Z,1,16:17,03:43,1,0,54.0,Vegas Golden Knights,VGK
+86,1,54,New Jersey Devils,Vegas Golden Knights,2022020759176,2022020759,Blocked Shot,176,BLOCKED_SHOT,Paul Cotter shot blocked shot by Kevin Bahl,2023-01-25T01:06:46Z,1,16:36,03:24,1,0,1.0,New Jersey Devils,NJD
+87,1,54,New Jersey Devils,Vegas Golden Knights,2022020759177,2022020759,Stoppage,177,STOP,Offside,2023-01-25T01:07:08Z,1,16:59,03:01,1,0,,,
+88,1,54,New Jersey Devils,Vegas Golden Knights,202202075989,2022020759,Faceoff,89,FACEOFF,Nico Hischier faceoff won against Byron Froese,2023-01-25T01:07:35Z,1,16:59,03:01,1,0,1.0,New Jersey Devils,NJD
+89,1,54,New Jersey Devils,Vegas Golden Knights,202202075991,2022020759,Giveaway,91,GIVEAWAY,Giveaway by Byron Froese,2023-01-25T01:07:51Z,1,17:15,02:45,1,0,54.0,Vegas Golden Knights,VGK
+90,1,54,New Jersey Devils,Vegas Golden Knights,202202075992,2022020759,Hit,92,HIT,Keegan Kolesar hit Nico Hischier,2023-01-25T01:08:09Z,1,17:33,02:27,1,0,54.0,Vegas Golden Knights,VGK
+91,1,54,New Jersey Devils,Vegas Golden Knights,202202075993,2022020759,Hit,93,HIT,Byron Froese hit Ondrej Palat,2023-01-25T01:08:28Z,1,17:52,02:08,1,0,54.0,Vegas Golden Knights,VGK
+92,1,54,New Jersey Devils,Vegas Golden Knights,2022020759178,2022020759,Blocked Shot,178,BLOCKED_SHOT,Keegan Kolesar shot blocked shot by Dougie Hamilton,2023-01-25T01:08:30Z,1,17:54,02:06,1,0,1.0,New Jersey Devils,NJD
+93,1,54,New Jersey Devils,Vegas Golden Knights,202202075937,2022020759,Stoppage,37,STOP,Offside,2023-01-25T01:08:37Z,1,17:59,02:01,1,0,,,
+94,1,54,New Jersey Devils,Vegas Golden Knights,202202075994,2022020759,Faceoff,94,FACEOFF,Erik Haula faceoff won against William Karlsson,2023-01-25T01:09:07Z,1,17:59,02:01,1,0,1.0,New Jersey Devils,NJD
+95,1,54,New Jersey Devils,Vegas Golden Knights,202202075938,2022020759,Missed Shot,38,MISSED_SHOT,Ryan Graves Wide of Net Logan Thompson,2023-01-25T01:09:13Z,1,18:05,01:55,1,0,1.0,New Jersey Devils,NJD
+96,1,54,New Jersey Devils,Vegas Golden Knights,202202075995,2022020759,Takeaway,95,TAKEAWAY,Takeaway by Tomas Tatar,2023-01-25T01:09:18Z,1,18:10,01:50,1,0,1.0,New Jersey Devils,NJD
+97,1,54,New Jersey Devils,Vegas Golden Knights,202202075941,2022020759,Shot,41,SHOT,Jesper Boqvist Snap Shot saved by Logan Thompson,2023-01-25T01:09:41Z,1,18:33,01:27,1,0,1.0,New Jersey Devils,NJD
+98,1,54,New Jersey Devils,Vegas Golden Knights,2022020759180,2022020759,Shot,180,SHOT,Jack Hughes Snap Shot saved by Logan Thompson,2023-01-25T01:09:44Z,1,18:36,01:24,1,0,1.0,New Jersey Devils,NJD
+99,1,54,New Jersey Devils,Vegas Golden Knights,202202075940,2022020759,Stoppage,40,STOP,Goalie Stopped,2023-01-25T01:09:45Z,1,18:37,01:23,1,0,,,
+100,1,54,New Jersey Devils,Vegas Golden Knights,202202075996,2022020759,Faceoff,96,FACEOFF,Michael McLeod faceoff won against Jack Eichel,2023-01-25T01:10:21Z,1,18:37,01:23,1,0,1.0,New Jersey Devils,NJD
+101,1,54,New Jersey Devils,Vegas Golden Knights,2022020759181,2022020759,Missed Shot,181,MISSED_SHOT,Dawson Mercer Wide of Net Logan Thompson,2023-01-25T01:10:42Z,1,18:58,01:02,1,0,1.0,New Jersey Devils,NJD
+102,1,54,New Jersey Devils,Vegas Golden Knights,202202075997,2022020759,Hit,97,HIT,Dawson Mercer hit Brayden McNabb,2023-01-25T01:10:43Z,1,18:59,01:01,1,0,1.0,New Jersey Devils,NJD
+103,1,54,New Jersey Devils,Vegas Golden Knights,202202075942,2022020759,Shot,42,SHOT,Dougie Hamilton Snap Shot saved by Logan Thompson,2023-01-25T01:10:46Z,1,19:01,00:59,1,0,1.0,New Jersey Devils,NJD
+104,1,54,New Jersey Devils,Vegas Golden Knights,2022020759182,2022020759,Stoppage,182,STOP,Goalie Stopped,2023-01-25T01:10:46Z,1,19:01,00:59,1,0,,,
+105,1,54,New Jersey Devils,Vegas Golden Knights,202202075998,2022020759,Faceoff,98,FACEOFF,Nicolas Roy faceoff won against Yegor Sharangovich,2023-01-25T01:11:17Z,1,19:01,00:59,1,0,54.0,Vegas Golden Knights,VGK
+106,1,54,New Jersey Devils,Vegas Golden Knights,2022020759183,2022020759,Blocked Shot,183,BLOCKED_SHOT,Alec Martinez shot blocked shot by Nathan Bastian,2023-01-25T01:11:38Z,1,19:23,00:37,1,0,1.0,New Jersey Devils,NJD
+107,1,54,New Jersey Devils,Vegas Golden Knights,202202075999,2022020759,Takeaway,99,TAKEAWAY,Takeaway by Damon Severson,2023-01-25T01:11:46Z,1,19:31,00:29,1,0,1.0,New Jersey Devils,NJD
+108,1,54,New Jersey Devils,Vegas Golden Knights,202202075943,2022020759,Period End,43,PERIOD_END,End of 1st Period,2023-01-25T01:12:15Z,1,20:00,00:00,1,0,,,
+109,1,54,New Jersey Devils,Vegas Golden Knights,202202075946,2022020759,Period Official,46,PERIOD_OFFICIAL,Period Official,2023-01-25T01:29:58Z,1,20:00,00:00,1,0,,,
+110,1,54,New Jersey Devils,Vegas Golden Knights,202202075947,2022020759,Period Ready,47,PERIOD_READY,Period Ready,2023-01-25T01:30:55Z,2,00:00,20:00,1,0,,,
+111,1,54,New Jersey Devils,Vegas Golden Knights,2022020759100,2022020759,Period Start,100,PERIOD_START,Period Start,2023-01-25T01:31:09Z,2,00:00,20:00,1,0,,,
+112,1,54,New Jersey Devils,Vegas Golden Knights,2022020759401,2022020759,Faceoff,401,FACEOFF,William Karlsson faceoff won against Nico Hischier,2023-01-25T01:31:09Z,2,00:00,20:00,1,0,54.0,Vegas Golden Knights,VGK
+113,1,54,New Jersey Devils,Vegas Golden Knights,2022020759402,2022020759,Takeaway,402,TAKEAWAY,Takeaway by Alex Pietrangelo,2023-01-25T01:31:22Z,2,00:13,19:47,1,0,54.0,Vegas Golden Knights,VGK
+114,1,54,New Jersey Devils,Vegas Golden Knights,2022020759184,2022020759,Blocked Shot,184,BLOCKED_SHOT,Jonas Siegenthaler shot blocked shot by Reilly Smith,2023-01-25T01:31:32Z,2,00:23,19:37,1,0,54.0,Vegas Golden Knights,VGK
+115,1,54,New Jersey Devils,Vegas Golden Knights,2022020759403,2022020759,Takeaway,403,TAKEAWAY,Takeaway by Reilly Smith,2023-01-25T01:31:36Z,2,00:27,19:33,1,0,54.0,Vegas Golden Knights,VGK
+116,1,54,New Jersey Devils,Vegas Golden Knights,2022020759404,2022020759,Giveaway,404,GIVEAWAY,Giveaway by Reilly Smith,2023-01-25T01:31:53Z,2,00:44,19:16,1,0,54.0,Vegas Golden Knights,VGK
+117,1,54,New Jersey Devils,Vegas Golden Knights,2022020759405,2022020759,Giveaway,405,GIVEAWAY,Giveaway by Ryan Graves,2023-01-25T01:32:22Z,2,01:13,18:47,1,0,1.0,New Jersey Devils,NJD
+118,1,54,New Jersey Devils,Vegas Golden Knights,2022020759406,2022020759,Takeaway,406,TAKEAWAY,Takeaway by Erik Haula,2023-01-25T01:32:44Z,2,01:35,18:25,1,0,1.0,New Jersey Devils,NJD
+119,1,54,New Jersey Devils,Vegas Golden Knights,2022020759407,2022020759,Giveaway,407,GIVEAWAY,Giveaway by Paul Cotter,2023-01-25T01:32:46Z,2,01:37,18:23,1,0,54.0,Vegas Golden Knights,VGK
+120,1,54,New Jersey Devils,Vegas Golden Knights,202202075948,2022020759,Shot,48,SHOT,Michael McLeod Snap Shot saved by Logan Thompson,2023-01-25T01:32:52Z,2,01:43,18:17,1,0,1.0,New Jersey Devils,NJD
+121,1,54,New Jersey Devils,Vegas Golden Knights,2022020759185,2022020759,Stoppage,185,STOP,Goalie Stopped,2023-01-25T01:32:55Z,2,01:46,18:14,1,0,,,
+122,1,54,New Jersey Devils,Vegas Golden Knights,2022020759408,2022020759,Faceoff,408,FACEOFF,Michael McLeod faceoff won against Chandler Stephenson,2023-01-25T01:33:23Z,2,01:46,18:14,1,0,1.0,New Jersey Devils,NJD
+123,1,54,New Jersey Devils,Vegas Golden Knights,202202075949,2022020759,Missed Shot,49,MISSED_SHOT,Dawson Mercer Over Net Logan Thompson,2023-01-25T01:33:58Z,2,02:21,17:39,1,0,1.0,New Jersey Devils,NJD
+124,1,54,New Jersey Devils,Vegas Golden Knights,202202075950,2022020759,Penalty,50,PENALTY,Nathan Bastian Fighting against Brett Howden,2023-01-25T01:34:47Z,2,03:10,16:50,1,0,1.0,New Jersey Devils,NJD
+125,1,54,New Jersey Devils,Vegas Golden Knights,2022020759353,2022020759,Penalty,353,PENALTY,Brett Howden Fighting against Nathan Bastian,2023-01-25T01:34:47Z,2,03:10,16:50,1,0,54.0,Vegas Golden Knights,VGK
+126,1,54,New Jersey Devils,Vegas Golden Knights,2022020759491,2022020759,Penalty,491,PENALTY,Nathan Bastian Boarding against Keegan Kolesar served by Miles Wood,2023-01-25T01:34:47Z,2,03:10,16:50,1,0,1.0,New Jersey Devils,NJD
+127,1,54,New Jersey Devils,Vegas Golden Knights,2022020759410,2022020759,Faceoff,410,FACEOFF,Jack Eichel faceoff won against Nico Hischier,2023-01-25T01:37:00Z,2,03:10,16:50,1,0,54.0,Vegas Golden Knights,VGK
+128,1,54,New Jersey Devils,Vegas Golden Knights,2022020759187,2022020759,Shot,187,SHOT,Yegor Sharangovich Wrist Shot saved by Logan Thompson,2023-01-25T01:37:32Z,2,03:42,16:18,1,0,1.0,New Jersey Devils,NJD
+129,1,54,New Jersey Devils,Vegas Golden Knights,2022020759357,2022020759,Missed Shot,357,MISSED_SHOT,Phil Kessel Wide of Net Vitek Vanecek,2023-01-25T01:38:20Z,2,04:30,15:30,1,0,54.0,Vegas Golden Knights,VGK
+130,1,54,New Jersey Devils,Vegas Golden Knights,2022020759358,2022020759,Missed Shot,358,MISSED_SHOT,Nicolas Roy Wide of Net Vitek Vanecek,2023-01-25T01:38:31Z,2,04:41,15:19,1,0,54.0,Vegas Golden Knights,VGK
+131,1,54,New Jersey Devils,Vegas Golden Knights,2022020759188,2022020759,Stoppage,188,STOP,Puck in Netting,2023-01-25T01:38:32Z,2,04:43,15:17,1,0,,,
+132,1,54,New Jersey Devils,Vegas Golden Knights,2022020759411,2022020759,Faceoff,411,FACEOFF,Nico Hischier faceoff won against Nicolas Roy,2023-01-25T01:39:18Z,2,04:43,15:17,1,0,1.0,New Jersey Devils,NJD
+133,1,54,New Jersey Devils,Vegas Golden Knights,2022020759412,2022020759,Giveaway,412,GIVEAWAY,Giveaway by William Karlsson,2023-01-25T01:40:01Z,2,05:26,14:34,1,0,54.0,Vegas Golden Knights,VGK
+134,1,54,New Jersey Devils,Vegas Golden Knights,2022020759359,2022020759,Shot,359,SHOT,Byron Froese Snap Shot saved by Vitek Vanecek,2023-01-25T01:40:27Z,2,05:52,14:08,1,0,54.0,Vegas Golden Knights,VGK
+135,1,54,New Jersey Devils,Vegas Golden Knights,2022020759413,2022020759,Giveaway,413,GIVEAWAY,Giveaway by Byron Froese,2023-01-25T01:40:30Z,2,05:55,14:05,1,0,54.0,Vegas Golden Knights,VGK
+136,1,54,New Jersey Devils,Vegas Golden Knights,2022020759189,2022020759,Missed Shot,189,MISSED_SHOT,Miles Wood Wide of Net Logan Thompson,2023-01-25T01:40:37Z,2,06:02,13:58,1,0,1.0,New Jersey Devils,NJD
+137,1,54,New Jersey Devils,Vegas Golden Knights,2022020759360,2022020759,Blocked Shot,360,BLOCKED_SHOT,Keegan Kolesar shot blocked shot by Jonas Siegenthaler,2023-01-25T01:40:47Z,2,06:12,13:48,1,0,1.0,New Jersey Devils,NJD
+138,1,54,New Jersey Devils,Vegas Golden Knights,2022020759190,2022020759,Stoppage,190,STOP,Puck in Netting,2023-01-25T01:40:49Z,2,06:14,13:46,1,0,,,
+139,1,54,New Jersey Devils,Vegas Golden Knights,2022020759414,2022020759,Faceoff,414,FACEOFF,Erik Haula faceoff won against Nicolas Roy,2023-01-25T01:43:04Z,2,06:14,13:46,1,0,1.0,New Jersey Devils,NJD
+140,1,54,New Jersey Devils,Vegas Golden Knights,2022020759191,2022020759,Blocked Shot,191,BLOCKED_SHOT,Jack Eichel shot blocked shot by Damon Severson,2023-01-25T01:43:06Z,2,06:16,13:44,1,0,1.0,New Jersey Devils,NJD
+141,1,54,New Jersey Devils,Vegas Golden Knights,2022020759192,2022020759,Stoppage,192,STOP,Offside,2023-01-25T01:43:15Z,2,06:25,13:35,1,0,,,
+142,1,54,New Jersey Devils,Vegas Golden Knights,2022020759415,2022020759,Faceoff,415,FACEOFF,Chandler Stephenson faceoff won against Erik Haula,2023-01-25T01:43:51Z,2,06:25,13:35,1,0,54.0,Vegas Golden Knights,VGK
+143,1,54,New Jersey Devils,Vegas Golden Knights,2022020759362,2022020759,Missed Shot,362,MISSED_SHOT,Alec Martinez Wide of Net Vitek Vanecek,2023-01-25T01:44:03Z,2,06:37,13:23,1,0,54.0,Vegas Golden Knights,VGK
+144,1,54,New Jersey Devils,Vegas Golden Knights,2022020759193,2022020759,Shot,193,SHOT,Alex Pietrangelo Slap Shot saved by Vitek Vanecek,2023-01-25T01:44:05Z,2,06:39,13:21,1,0,54.0,Vegas Golden Knights,VGK
+145,1,54,New Jersey Devils,Vegas Golden Knights,2022020759416,2022020759,Takeaway,416,TAKEAWAY,Takeaway by Phil Kessel,2023-01-25T01:44:15Z,2,06:49,13:11,1,0,54.0,Vegas Golden Knights,VGK
+146,1,54,New Jersey Devils,Vegas Golden Knights,2022020759363,2022020759,Shot,363,SHOT,Michael Amadio Snap Shot saved by Vitek Vanecek,2023-01-25T01:44:23Z,2,06:57,13:03,1,0,54.0,Vegas Golden Knights,VGK
+147,1,54,New Jersey Devils,Vegas Golden Knights,2022020759417,2022020759,Giveaway,417,GIVEAWAY,Giveaway by Erik Haula,2023-01-25T01:44:28Z,2,07:02,12:58,1,0,1.0,New Jersey Devils,NJD
+148,1,54,New Jersey Devils,Vegas Golden Knights,2022020759194,2022020759,Blocked Shot,194,BLOCKED_SHOT,Jonathan Marchessault shot blocked shot by Ryan Graves,2023-01-25T01:44:29Z,2,07:03,12:57,1,0,1.0,New Jersey Devils,NJD
+149,1,54,New Jersey Devils,Vegas Golden Knights,2022020759195,2022020759,Stoppage,195,STOP,Icing,2023-01-25T01:44:43Z,2,07:17,12:43,1,0,,,
+150,1,54,New Jersey Devils,Vegas Golden Knights,2022020759419,2022020759,Faceoff,419,FACEOFF,William Karlsson faceoff won against Erik Haula,2023-01-25T01:45:23Z,2,07:17,12:43,1,0,54.0,Vegas Golden Knights,VGK
+151,1,54,New Jersey Devils,Vegas Golden Knights,2022020759553,2022020759,Blocked Shot,553,BLOCKED_SHOT,Dougie Hamilton shot blocked shot by Brayden McNabb,2023-01-25T01:46:07Z,2,08:01,11:59,1,0,54.0,Vegas Golden Knights,VGK
+152,1,54,New Jersey Devils,Vegas Golden Knights,2022020759364,2022020759,Missed Shot,364,MISSED_SHOT,Jonas Siegenthaler Wide of Net Logan Thompson,2023-01-25T01:46:15Z,2,08:09,11:51,1,0,1.0,New Jersey Devils,NJD
+153,1,54,New Jersey Devils,Vegas Golden Knights,2022020759196,2022020759,Stoppage,196,STOP,Puck in Netting,2023-01-25T01:46:19Z,2,08:13,11:47,1,0,,,
+154,1,54,New Jersey Devils,Vegas Golden Knights,2022020759420,2022020759,Faceoff,420,FACEOFF,Jack Eichel faceoff won against Dawson Mercer,2023-01-25T01:47:18Z,2,08:13,11:47,1,0,54.0,Vegas Golden Knights,VGK
+155,1,54,New Jersey Devils,Vegas Golden Knights,2022020759365,2022020759,Missed Shot,365,MISSED_SHOT,Nicolas Hague Wide of Net Vitek Vanecek,2023-01-25T01:47:56Z,2,08:51,11:09,1,0,54.0,Vegas Golden Knights,VGK
+156,1,54,New Jersey Devils,Vegas Golden Knights,2022020759197,2022020759,Missed Shot,197,MISSED_SHOT,Nicolas Roy Wide of Net Vitek Vanecek,2023-01-25T01:48:06Z,2,09:01,10:59,1,0,54.0,Vegas Golden Knights,VGK
+157,1,54,New Jersey Devils,Vegas Golden Knights,2022020759421,2022020759,Hit,421,HIT,Kaedan Korczak hit Jesper Boqvist,2023-01-25T01:48:30Z,2,09:25,10:35,1,0,54.0,Vegas Golden Knights,VGK
+158,1,54,New Jersey Devils,Vegas Golden Knights,2022020759422,2022020759,Hit,422,HIT,Brett Howden hit Yegor Sharangovich,2023-01-25T01:48:45Z,2,09:40,10:20,1,0,54.0,Vegas Golden Knights,VGK
+159,1,54,New Jersey Devils,Vegas Golden Knights,2022020759367,2022020759,Missed Shot,367,MISSED_SHOT,Jesper Boqvist Wide of Net Logan Thompson,2023-01-25T01:49:06Z,2,10:01,09:59,1,0,1.0,New Jersey Devils,NJD
+160,1,54,New Jersey Devils,Vegas Golden Knights,2022020759423,2022020759,Takeaway,423,TAKEAWAY,Takeaway by Jack Hughes,2023-01-25T01:49:29Z,2,10:24,09:36,1,0,1.0,New Jersey Devils,NJD
+161,1,54,New Jersey Devils,Vegas Golden Knights,2022020759368,2022020759,Shot,368,SHOT,Erik Haula Backhand saved by Logan Thompson,2023-01-25T01:49:33Z,2,10:28,09:32,1,0,1.0,New Jersey Devils,NJD
+162,1,54,New Jersey Devils,Vegas Golden Knights,2022020759424,2022020759,Giveaway,424,GIVEAWAY,Giveaway by Alec Martinez,2023-01-25T01:49:52Z,2,10:47,09:13,1,0,54.0,Vegas Golden Knights,VGK
+163,1,54,New Jersey Devils,Vegas Golden Knights,2022020759198,2022020759,Stoppage,198,STOP,High Stick,2023-01-25T01:49:54Z,2,10:50,09:10,1,0,,,
+164,1,54,New Jersey Devils,Vegas Golden Knights,2022020759425,2022020759,Faceoff,425,FACEOFF,William Karlsson faceoff won against Nico Hischier,2023-01-25T01:52:16Z,2,10:50,09:10,1,0,54.0,Vegas Golden Knights,VGK
+165,1,54,New Jersey Devils,Vegas Golden Knights,2022020759199,2022020759,Stoppage,199,STOP,Icing,2023-01-25T01:52:24Z,2,10:58,09:02,1,0,,,
+166,1,54,New Jersey Devils,Vegas Golden Knights,2022020759426,2022020759,Faceoff,426,FACEOFF,Nico Hischier faceoff won against William Karlsson,2023-01-25T01:52:54Z,2,10:58,09:02,1,0,1.0,New Jersey Devils,NJD
+167,1,54,New Jersey Devils,Vegas Golden Knights,2022020759427,2022020759,Takeaway,427,TAKEAWAY,Takeaway by Alec Martinez,2023-01-25T01:53:09Z,2,11:13,08:47,1,0,54.0,Vegas Golden Knights,VGK
+168,1,54,New Jersey Devils,Vegas Golden Knights,2022020759200,2022020759,Stoppage,200,STOP,Offside,2023-01-25T01:53:15Z,2,11:19,08:41,1,0,,,
+169,1,54,New Jersey Devils,Vegas Golden Knights,2022020759428,2022020759,Faceoff,428,FACEOFF,Chandler Stephenson faceoff won against Erik Haula,2023-01-25T01:53:56Z,2,11:19,08:41,1,0,54.0,Vegas Golden Knights,VGK
+170,1,54,New Jersey Devils,Vegas Golden Knights,2022020759369,2022020759,Shot,369,SHOT,Ben Hutton Backhand saved by Vitek Vanecek,2023-01-25T01:54:02Z,2,11:25,08:35,1,0,54.0,Vegas Golden Knights,VGK
+171,1,54,New Jersey Devils,Vegas Golden Knights,2022020759501,2022020759,Blocked Shot,501,BLOCKED_SHOT,Phil Kessel shot blocked shot by Ryan Graves,2023-01-25T01:54:24Z,2,11:47,08:13,1,0,1.0,New Jersey Devils,NJD
+172,1,54,New Jersey Devils,Vegas Golden Knights,2022020759370,2022020759,Goal,370,GOAL,"Ben Hutton (2) Snap Shot, assists: Nicolas Hague (9), Chandler Stephenson (32)",2023-01-25T01:54:36Z,2,12:00,08:00,1,1,54.0,Vegas Golden Knights,VGK
+173,1,54,New Jersey Devils,Vegas Golden Knights,2022020759429,2022020759,Faceoff,429,FACEOFF,Michael McLeod faceoff won against Byron Froese,2023-01-25T01:55:20Z,2,12:00,08:00,1,1,1.0,New Jersey Devils,NJD
+174,1,54,New Jersey Devils,Vegas Golden Knights,2022020759371,2022020759,Blocked Shot,371,BLOCKED_SHOT,Brayden McNabb shot blocked shot by Brendan Smith,2023-01-25T01:55:41Z,2,12:21,07:39,1,1,1.0,New Jersey Devils,NJD
+175,1,54,New Jersey Devils,Vegas Golden Knights,2022020759502,2022020759,Blocked Shot,502,BLOCKED_SHOT,Dawson Mercer shot blocked shot by Alex Pietrangelo,2023-01-25T01:56:14Z,2,12:54,07:06,1,1,54.0,Vegas Golden Knights,VGK
+176,1,54,New Jersey Devils,Vegas Golden Knights,2022020759372,2022020759,Shot,372,SHOT,Jack Eichel Snap Shot saved by Vitek Vanecek,2023-01-25T01:56:53Z,2,13:33,06:27,1,1,54.0,Vegas Golden Knights,VGK
+177,1,54,New Jersey Devils,Vegas Golden Knights,2022020759373,2022020759,Shot,373,SHOT,Nico Hischier Snap Shot saved by Logan Thompson,2023-01-25T01:57:31Z,2,14:11,05:49,1,1,1.0,New Jersey Devils,NJD
+178,1,54,New Jersey Devils,Vegas Golden Knights,2022020759375,2022020759,Shot,375,SHOT,Nico Hischier Tip-In saved by Logan Thompson,2023-01-25T01:57:37Z,2,14:17,05:43,1,1,1.0,New Jersey Devils,NJD
+179,1,54,New Jersey Devils,Vegas Golden Knights,2022020759430,2022020759,Giveaway,430,GIVEAWAY,Giveaway by Jesper Bratt,2023-01-25T01:57:50Z,2,14:30,05:30,1,1,1.0,New Jersey Devils,NJD
+180,1,54,New Jersey Devils,Vegas Golden Knights,2022020759552,2022020759,Shot,552,SHOT,Nico Hischier Deflected saved by Logan Thompson,2023-01-25T01:57:58Z,2,14:38,05:22,1,1,1.0,New Jersey Devils,NJD
+181,1,54,New Jersey Devils,Vegas Golden Knights,2022020759431,2022020759,Hit,431,HIT,Brendan Smith hit William Karlsson,2023-01-25T01:58:08Z,2,14:48,05:12,1,1,1.0,New Jersey Devils,NJD
+182,1,54,New Jersey Devils,Vegas Golden Knights,2022020759377,2022020759,Missed Shot,377,MISSED_SHOT,Jonathan Marchessault Wide of Net Vitek Vanecek,2023-01-25T01:58:09Z,2,14:49,05:11,1,1,54.0,Vegas Golden Knights,VGK
+183,1,54,New Jersey Devils,Vegas Golden Knights,2022020759376,2022020759,Goal,376,GOAL,"William Karlsson (11) Backhand, assists: Jonathan Marchessault (17), Reilly Smith (14)",2023-01-25T01:58:12Z,2,14:51,05:09,1,2,54.0,Vegas Golden Knights,VGK
+184,1,54,New Jersey Devils,Vegas Golden Knights,2022020759432,2022020759,Faceoff,432,FACEOFF,Erik Haula faceoff won against Byron Froese,2023-01-25T01:59:02Z,2,14:51,05:09,1,2,1.0,New Jersey Devils,NJD
+185,1,54,New Jersey Devils,Vegas Golden Knights,2022020759504,2022020759,Stoppage,504,STOP,Offside,2023-01-25T01:59:09Z,2,14:59,05:01,1,2,,,
+186,1,54,New Jersey Devils,Vegas Golden Knights,2022020759433,2022020759,Faceoff,433,FACEOFF,Erik Haula faceoff won against Byron Froese,2023-01-25T02:01:20Z,2,14:59,05:01,1,2,1.0,New Jersey Devils,NJD
+187,1,54,New Jersey Devils,Vegas Golden Knights,2022020759434,2022020759,Hit,434,HIT,Erik Haula hit Brett Howden,2023-01-25T02:02:03Z,2,15:42,04:18,1,2,1.0,New Jersey Devils,NJD
+188,1,54,New Jersey Devils,Vegas Golden Knights,2022020759378,2022020759,Shot,378,SHOT,Jack Hughes Snap Shot saved by Logan Thompson,2023-01-25T02:02:05Z,2,15:44,04:16,1,2,1.0,New Jersey Devils,NJD
+189,1,54,New Jersey Devils,Vegas Golden Knights,2022020759505,2022020759,Stoppage,505,STOP,Goalie Stopped,2023-01-25T02:02:06Z,2,15:45,04:15,1,2,,,
+190,1,54,New Jersey Devils,Vegas Golden Knights,2022020759435,2022020759,Faceoff,435,FACEOFF,Nathan Bastian faceoff won against Chandler Stephenson,2023-01-25T02:02:47Z,2,15:45,04:15,1,2,1.0,New Jersey Devils,NJD
+191,1,54,New Jersey Devils,Vegas Golden Knights,2022020759379,2022020759,Shot,379,SHOT,Damon Severson Snap Shot saved by Logan Thompson,2023-01-25T02:02:50Z,2,15:48,04:12,1,2,1.0,New Jersey Devils,NJD
+192,1,54,New Jersey Devils,Vegas Golden Knights,2022020759436,2022020759,Takeaway,436,TAKEAWAY,Takeaway by Michael McLeod,2023-01-25T02:03:01Z,2,15:59,04:01,1,2,1.0,New Jersey Devils,NJD
+193,1,54,New Jersey Devils,Vegas Golden Knights,2022020759437,2022020759,Hit,437,HIT,Miles Wood hit Ben Hutton,2023-01-25T02:03:35Z,2,16:33,03:27,1,2,1.0,New Jersey Devils,NJD
+194,1,54,New Jersey Devils,Vegas Golden Knights,2022020759438,2022020759,Hit,438,HIT,Paul Cotter hit Jonas Siegenthaler,2023-01-25T02:03:56Z,2,16:54,03:06,1,2,54.0,Vegas Golden Knights,VGK
+195,1,54,New Jersey Devils,Vegas Golden Knights,2022020759507,2022020759,Blocked Shot,507,BLOCKED_SHOT,Ryan Graves shot blocked shot by Paul Cotter,2023-01-25T02:04:31Z,2,17:29,02:31,1,2,54.0,Vegas Golden Knights,VGK
+196,1,54,New Jersey Devils,Vegas Golden Knights,2022020759439,2022020759,Giveaway,439,GIVEAWAY,Giveaway by Jesper Boqvist,2023-01-25T02:04:39Z,2,17:37,02:23,1,2,1.0,New Jersey Devils,NJD
+197,1,54,New Jersey Devils,Vegas Golden Knights,2022020759380,2022020759,Shot,380,SHOT,Nicolas Hague Snap Shot saved by Vitek Vanecek,2023-01-25T02:04:50Z,2,17:48,02:12,1,2,54.0,Vegas Golden Knights,VGK
+198,1,54,New Jersey Devils,Vegas Golden Knights,2022020759381,2022020759,Shot,381,SHOT,Alec Martinez Snap Shot saved by Vitek Vanecek,2023-01-25T02:04:55Z,2,17:53,02:07,1,2,54.0,Vegas Golden Knights,VGK
+199,1,54,New Jersey Devils,Vegas Golden Knights,2022020759440,2022020759,Hit,440,HIT,Ryan Graves hit Jonathan Marchessault,2023-01-25T02:05:03Z,2,18:01,01:59,1,2,1.0,New Jersey Devils,NJD
+200,1,54,New Jersey Devils,Vegas Golden Knights,2022020759508,2022020759,Shot,508,SHOT,Ryan Graves Wrist Shot saved by Logan Thompson,2023-01-25T02:05:09Z,2,18:07,01:53,1,2,1.0,New Jersey Devils,NJD
+201,1,54,New Jersey Devils,Vegas Golden Knights,2022020759441,2022020759,Takeaway,441,TAKEAWAY,Takeaway by Ondrej Palat,2023-01-25T02:05:16Z,2,18:14,01:46,1,2,1.0,New Jersey Devils,NJD
+202,1,54,New Jersey Devils,Vegas Golden Knights,2022020759509,2022020759,Penalty,509,PENALTY,Ondrej Palat Boarding against Alec Martinez,2023-01-25T02:05:24Z,2,18:23,01:37,1,2,1.0,New Jersey Devils,NJD
+203,1,54,New Jersey Devils,Vegas Golden Knights,2022020759443,2022020759,Faceoff,443,FACEOFF,Michael McLeod faceoff won against Jack Eichel,2023-01-25T02:06:50Z,2,18:23,01:37,1,2,1.0,New Jersey Devils,NJD
+204,1,54,New Jersey Devils,Vegas Golden Knights,2022020759382,2022020759,Shot,382,SHOT,Reilly Smith Tip-In saved by Vitek Vanecek,2023-01-25T02:07:29Z,2,19:02,00:58,1,2,54.0,Vegas Golden Knights,VGK
+205,1,54,New Jersey Devils,Vegas Golden Knights,2022020759512,2022020759,Stoppage,512,STOP,Goalie Stopped,2023-01-25T02:07:31Z,2,19:03,00:57,1,2,,,
+206,1,54,New Jersey Devils,Vegas Golden Knights,2022020759444,2022020759,Faceoff,444,FACEOFF,Chandler Stephenson faceoff won against Nico Hischier,2023-01-25T02:07:57Z,2,19:03,00:57,1,2,54.0,Vegas Golden Knights,VGK
+207,1,54,New Jersey Devils,Vegas Golden Knights,2022020759383,2022020759,Period End,383,PERIOD_END,End of 2nd Period,2023-01-25T02:08:54Z,2,20:00,00:00,1,2,,,
+208,1,54,New Jersey Devils,Vegas Golden Knights,2022020759386,2022020759,Period Official,386,PERIOD_OFFICIAL,Period Official,2023-01-25T02:15:06Z,2,20:00,00:00,1,2,,,
+209,1,54,New Jersey Devils,Vegas Golden Knights,2022020759387,2022020759,Period Ready,387,PERIOD_READY,Period Ready,2023-01-25T02:27:31Z,3,00:00,20:00,1,2,,,
+210,1,54,New Jersey Devils,Vegas Golden Knights,2022020759446,2022020759,Period Start,446,PERIOD_START,Period Start,2023-01-25T02:27:37Z,3,00:00,20:00,1,2,,,
+211,1,54,New Jersey Devils,Vegas Golden Knights,2022020759447,2022020759,Faceoff,447,FACEOFF,William Karlsson faceoff won against Nico Hischier,2023-01-25T02:27:37Z,3,00:00,20:00,1,2,54.0,Vegas Golden Knights,VGK
+212,1,54,New Jersey Devils,Vegas Golden Knights,2022020759513,2022020759,Shot,513,SHOT,Jonathan Marchessault Wrist Shot saved by Vitek Vanecek,2023-01-25T02:27:53Z,3,00:16,19:44,1,2,54.0,Vegas Golden Knights,VGK
+213,1,54,New Jersey Devils,Vegas Golden Knights,2022020759514,2022020759,Stoppage,514,STOP,Puck in Netting,2023-01-25T02:27:53Z,3,00:17,19:43,1,2,,,
+214,1,54,New Jersey Devils,Vegas Golden Knights,2022020759448,2022020759,Faceoff,448,FACEOFF,Michael McLeod faceoff won against William Karlsson,2023-01-25T02:28:13Z,3,00:17,19:43,1,2,1.0,New Jersey Devils,NJD
+215,1,54,New Jersey Devils,Vegas Golden Knights,2022020759389,2022020759,Shot,389,SHOT,Jonathan Marchessault Backhand saved by Vitek Vanecek,2023-01-25T02:28:20Z,3,00:24,19:36,1,2,54.0,Vegas Golden Knights,VGK
+216,1,54,New Jersey Devils,Vegas Golden Knights,2022020759515,2022020759,Stoppage,515,STOP,Goalie Stopped,2023-01-25T02:28:22Z,3,00:26,19:34,1,2,,,
+217,1,54,New Jersey Devils,Vegas Golden Knights,2022020759449,2022020759,Faceoff,449,FACEOFF,Erik Haula faceoff won against Chandler Stephenson,2023-01-25T02:28:53Z,3,00:26,19:34,1,2,1.0,New Jersey Devils,NJD
+218,1,54,New Jersey Devils,Vegas Golden Knights,2022020759390,2022020759,Shot,390,SHOT,Alex Pietrangelo Snap Shot saved by Vitek Vanecek,2023-01-25T02:29:27Z,3,01:00,19:00,1,2,54.0,Vegas Golden Knights,VGK
+219,1,54,New Jersey Devils,Vegas Golden Knights,2022020759516,2022020759,Stoppage,516,STOP,Goalie Stopped,2023-01-25T02:29:28Z,3,01:01,18:59,1,2,,,
+220,1,54,New Jersey Devils,Vegas Golden Knights,2022020759450,2022020759,Faceoff,450,FACEOFF,Nico Hischier faceoff won against Jack Eichel,2023-01-25T02:30:00Z,3,01:01,18:59,1,2,1.0,New Jersey Devils,NJD
+221,1,54,New Jersey Devils,Vegas Golden Knights,2022020759751,2022020759,Hit,751,HIT,Kaedan Korczak hit Jesper Bratt,2023-01-25T02:30:18Z,3,01:19,18:41,1,2,54.0,Vegas Golden Knights,VGK
+222,1,54,New Jersey Devils,Vegas Golden Knights,2022020759391,2022020759,Shot,391,SHOT,Ryan Graves Snap Shot saved by Logan Thompson,2023-01-25T02:30:34Z,3,01:35,18:25,1,2,1.0,New Jersey Devils,NJD
+223,1,54,New Jersey Devils,Vegas Golden Knights,2022020759517,2022020759,Stoppage,517,STOP,Puck in Netting,2023-01-25T02:30:35Z,3,01:37,18:23,1,2,,,
+224,1,54,New Jersey Devils,Vegas Golden Knights,2022020759752,2022020759,Faceoff,752,FACEOFF,Michael McLeod faceoff won against Byron Froese,2023-01-25T02:31:02Z,3,01:37,18:23,1,2,1.0,New Jersey Devils,NJD
+225,1,54,New Jersey Devils,Vegas Golden Knights,2022020759557,2022020759,Blocked Shot,557,BLOCKED_SHOT,Miles Wood shot blocked shot by Nicolas Hague,2023-01-25T02:31:04Z,3,01:39,18:21,1,2,54.0,Vegas Golden Knights,VGK
+226,1,54,New Jersey Devils,Vegas Golden Knights,2022020759393,2022020759,Blocked Shot,393,BLOCKED_SHOT,Miles Wood shot blocked shot by Ben Hutton,2023-01-25T02:31:06Z,3,01:41,18:19,1,2,54.0,Vegas Golden Knights,VGK
+227,1,54,New Jersey Devils,Vegas Golden Knights,2022020759518,2022020759,Blocked Shot,518,BLOCKED_SHOT,Keegan Kolesar shot blocked shot by Damon Severson,2023-01-25T02:31:18Z,3,01:53,18:07,1,2,1.0,New Jersey Devils,NJD
+228,1,54,New Jersey Devils,Vegas Golden Knights,2022020759753,2022020759,Hit,753,HIT,Brendan Smith hit Byron Froese,2023-01-25T02:31:39Z,3,02:14,17:46,1,2,1.0,New Jersey Devils,NJD
+229,1,54,New Jersey Devils,Vegas Golden Knights,2022020759754,2022020759,Takeaway,754,TAKEAWAY,Takeaway by Erik Haula,2023-01-25T02:31:57Z,3,02:32,17:28,1,2,1.0,New Jersey Devils,NJD
+230,1,54,New Jersey Devils,Vegas Golden Knights,2022020759755,2022020759,Takeaway,755,TAKEAWAY,Takeaway by Yegor Sharangovich,2023-01-25T02:32:41Z,3,03:16,16:44,1,2,1.0,New Jersey Devils,NJD
+231,1,54,New Jersey Devils,Vegas Golden Knights,2022020759519,2022020759,Blocked Shot,519,BLOCKED_SHOT,Ryan Graves shot blocked shot by Brayden McNabb,2023-01-25T02:32:45Z,3,03:20,16:40,1,2,54.0,Vegas Golden Knights,VGK
+232,1,54,New Jersey Devils,Vegas Golden Knights,2022020759756,2022020759,Takeaway,756,TAKEAWAY,Takeaway by Damon Severson,2023-01-25T02:33:04Z,3,03:39,16:21,1,2,1.0,New Jersey Devils,NJD
+233,1,54,New Jersey Devils,Vegas Golden Knights,2022020759520,2022020759,Blocked Shot,520,BLOCKED_SHOT,Dawson Mercer shot blocked shot by Nicolas Hague,2023-01-25T02:33:08Z,3,03:43,16:17,1,2,54.0,Vegas Golden Knights,VGK
+234,1,54,New Jersey Devils,Vegas Golden Knights,2022020759521,2022020759,Missed Shot,521,MISSED_SHOT,Dawson Mercer Over Net Logan Thompson,2023-01-25T02:33:19Z,3,03:54,16:06,1,2,1.0,New Jersey Devils,NJD
+235,1,54,New Jersey Devils,Vegas Golden Knights,2022020759398,2022020759,Missed Shot,398,MISSED_SHOT,Ryan Graves Wide of Net Logan Thompson,2023-01-25T02:33:25Z,3,04:00,16:00,1,2,1.0,New Jersey Devils,NJD
+236,1,54,New Jersey Devils,Vegas Golden Knights,2022020759757,2022020759,Hit,757,HIT,Jack Eichel hit Ondrej Palat,2023-01-25T02:34:14Z,3,04:49,15:11,1,2,54.0,Vegas Golden Knights,VGK
+237,1,54,New Jersey Devils,Vegas Golden Knights,2022020759399,2022020759,Shot,399,SHOT,Dougie Hamilton Snap Shot saved by Logan Thompson,2023-01-25T02:34:20Z,3,04:55,15:05,1,2,1.0,New Jersey Devils,NJD
+238,1,54,New Jersey Devils,Vegas Golden Knights,2022020759400,2022020759,Shot,400,SHOT,Dougie Hamilton Wrist Shot saved by Logan Thompson,2023-01-25T02:34:29Z,3,05:04,14:56,1,2,1.0,New Jersey Devils,NJD
+239,1,54,New Jersey Devils,Vegas Golden Knights,2022020759758,2022020759,Hit,758,HIT,Keegan Kolesar hit Brendan Smith,2023-01-25T02:34:41Z,3,05:16,14:44,1,2,54.0,Vegas Golden Knights,VGK
+240,1,54,New Jersey Devils,Vegas Golden Knights,2022020759759,2022020759,Hit,759,HIT,Brayden McNabb hit Jack Hughes,2023-01-25T02:35:08Z,3,05:43,14:17,1,2,54.0,Vegas Golden Knights,VGK
+241,1,54,New Jersey Devils,Vegas Golden Knights,2022020759761,2022020759,Hit,761,HIT,Ryan Graves hit William Karlsson,2023-01-25T02:35:28Z,3,06:03,13:57,1,2,1.0,New Jersey Devils,NJD
+242,1,54,New Jersey Devils,Vegas Golden Knights,2022020759801,2022020759,Shot,801,SHOT,Jonathan Marchessault Backhand saved by Vitek Vanecek,2023-01-25T02:35:31Z,3,06:06,13:54,1,2,54.0,Vegas Golden Knights,VGK
+243,1,54,New Jersey Devils,Vegas Golden Knights,2022020759522,2022020759,Stoppage,522,STOP,Goalie Stopped,2023-01-25T02:35:34Z,3,06:08,13:52,1,2,,,
+244,1,54,New Jersey Devils,Vegas Golden Knights,2022020759762,2022020759,Faceoff,762,FACEOFF,Michael McLeod faceoff won against William Karlsson,2023-01-25T02:37:56Z,3,06:08,13:52,1,2,1.0,New Jersey Devils,NJD
+245,1,54,New Jersey Devils,Vegas Golden Knights,2022020759763,2022020759,Hit,763,HIT,Michael McLeod hit Ben Hutton,2023-01-25T02:38:09Z,3,06:21,13:39,1,2,1.0,New Jersey Devils,NJD
+246,1,54,New Jersey Devils,Vegas Golden Knights,2022020759764,2022020759,Hit,764,HIT,Michael McLeod hit Ben Hutton,2023-01-25T02:38:21Z,3,06:33,13:27,1,2,1.0,New Jersey Devils,NJD
+247,1,54,New Jersey Devils,Vegas Golden Knights,2022020759523,2022020759,Stoppage,523,STOP,Offside,2023-01-25T02:38:27Z,3,06:39,13:21,1,2,,,
+248,1,54,New Jersey Devils,Vegas Golden Knights,2022020759765,2022020759,Faceoff,765,FACEOFF,Nico Hischier faceoff won against Jack Eichel,2023-01-25T02:38:54Z,3,06:39,13:21,1,2,1.0,New Jersey Devils,NJD
+249,1,54,New Jersey Devils,Vegas Golden Knights,2022020759766,2022020759,Takeaway,766,TAKEAWAY,Takeaway by Jack Hughes,2023-01-25T02:39:44Z,3,07:29,12:31,1,2,1.0,New Jersey Devils,NJD
+250,1,54,New Jersey Devils,Vegas Golden Knights,2022020759767,2022020759,Hit,767,HIT,Brayden McNabb hit Yegor Sharangovich,2023-01-25T02:39:45Z,3,07:30,12:30,1,2,54.0,Vegas Golden Knights,VGK
+251,1,54,New Jersey Devils,Vegas Golden Knights,2022020759802,2022020759,Shot,802,SHOT,Phil Kessel Deflected saved by Vitek Vanecek,2023-01-25T02:40:10Z,3,07:55,12:05,1,2,54.0,Vegas Golden Knights,VGK
+252,1,54,New Jersey Devils,Vegas Golden Knights,2022020759524,2022020759,Stoppage,524,STOP,Goalie Stopped,2023-01-25T02:40:10Z,3,07:56,12:04,1,2,,,
+253,1,54,New Jersey Devils,Vegas Golden Knights,2022020759768,2022020759,Faceoff,768,FACEOFF,Erik Haula faceoff won against Chandler Stephenson,2023-01-25T02:40:44Z,3,07:56,12:04,1,2,1.0,New Jersey Devils,NJD
+254,1,54,New Jersey Devils,Vegas Golden Knights,2022020759525,2022020759,Stoppage,525,STOP,Puck in Netting,2023-01-25T02:40:55Z,3,08:08,11:52,1,2,,,
+255,1,54,New Jersey Devils,Vegas Golden Knights,2022020759769,2022020759,Faceoff,769,FACEOFF,Erik Haula faceoff won against Chandler Stephenson,2023-01-25T02:41:26Z,3,08:08,11:52,1,2,1.0,New Jersey Devils,NJD
+256,1,54,New Jersey Devils,Vegas Golden Knights,2022020759556,2022020759,Shot,556,SHOT,Miles Wood Snap Shot saved by Logan Thompson,2023-01-25T02:41:34Z,3,08:16,11:44,1,2,1.0,New Jersey Devils,NJD
+257,1,54,New Jersey Devils,Vegas Golden Knights,2022020759770,2022020759,Hit,770,HIT,Keegan Kolesar hit Dougie Hamilton,2023-01-25T02:41:46Z,3,08:28,11:32,1,2,54.0,Vegas Golden Knights,VGK
+258,1,54,New Jersey Devils,Vegas Golden Knights,2022020759804,2022020759,Missed Shot,804,MISSED_SHOT,Brett Howden Wide of Net Vitek Vanecek,2023-01-25T02:41:55Z,3,08:37,11:23,1,2,54.0,Vegas Golden Knights,VGK
+259,1,54,New Jersey Devils,Vegas Golden Knights,2022020759771,2022020759,Takeaway,771,TAKEAWAY,Takeaway by Brendan Smith,2023-01-25T02:42:13Z,3,08:55,11:05,1,2,1.0,New Jersey Devils,NJD
+260,1,54,New Jersey Devils,Vegas Golden Knights,2022020759526,2022020759,Stoppage,526,STOP,Icing,2023-01-25T02:42:29Z,3,09:10,10:50,1,2,,,
+261,1,54,New Jersey Devils,Vegas Golden Knights,2022020759772,2022020759,Faceoff,772,FACEOFF,Nico Hischier faceoff won against William Karlsson,2023-01-25T02:43:01Z,3,09:10,10:50,1,2,1.0,New Jersey Devils,NJD
+262,1,54,New Jersey Devils,Vegas Golden Knights,2022020759805,2022020759,Missed Shot,805,MISSED_SHOT,Jonathan Marchessault Wide of Net Vitek Vanecek,2023-01-25T02:43:08Z,3,09:17,10:43,1,2,54.0,Vegas Golden Knights,VGK
+263,1,54,New Jersey Devils,Vegas Golden Knights,2022020759806,2022020759,Blocked Shot,806,BLOCKED_SHOT,Dougie Hamilton shot blocked shot by Kaedan Korczak,2023-01-25T02:43:25Z,3,09:34,10:26,1,2,54.0,Vegas Golden Knights,VGK
+264,1,54,New Jersey Devils,Vegas Golden Knights,2022020759773,2022020759,Giveaway,773,GIVEAWAY,Giveaway by Tomas Tatar,2023-01-25T02:43:50Z,3,09:59,10:01,1,2,1.0,New Jersey Devils,NJD
+265,1,54,New Jersey Devils,Vegas Golden Knights,2022020759774,2022020759,Takeaway,774,TAKEAWAY,Takeaway by Jack Eichel,2023-01-25T02:44:12Z,3,10:21,09:39,1,2,54.0,Vegas Golden Knights,VGK
+266,1,54,New Jersey Devils,Vegas Golden Knights,2022020759558,2022020759,Shot,558,SHOT,Jack Eichel Snap Shot saved by Vitek Vanecek,2023-01-25T02:44:16Z,3,10:25,09:35,1,2,54.0,Vegas Golden Knights,VGK
+267,1,54,New Jersey Devils,Vegas Golden Knights,2022020759528,2022020759,Stoppage,528,STOP,TV timeout,2023-01-25T02:44:18Z,3,10:26,09:34,1,2,,,
+268,1,54,New Jersey Devils,Vegas Golden Knights,2022020759897,2022020759,Penalty,897,PENALTY,Brendan Smith Hooking against Jack Eichel,2023-01-25T02:44:18Z,3,10:26,09:34,1,2,1.0,New Jersey Devils,NJD
+269,1,54,New Jersey Devils,Vegas Golden Knights,2022020759775,2022020759,Faceoff,775,FACEOFF,Chandler Stephenson faceoff won against Michael McLeod,2023-01-25T02:46:56Z,3,10:26,09:34,1,2,54.0,Vegas Golden Knights,VGK
+270,1,54,New Jersey Devils,Vegas Golden Knights,2022020759529,2022020759,Stoppage,529,STOP,Puck Frozen,2023-01-25T02:47:34Z,3,11:04,08:56,1,2,,,
+271,1,54,New Jersey Devils,Vegas Golden Knights,2022020759776,2022020759,Faceoff,776,FACEOFF,Nico Hischier faceoff won against Chandler Stephenson,2023-01-25T02:47:59Z,3,11:04,08:56,1,2,1.0,New Jersey Devils,NJD
+272,1,54,New Jersey Devils,Vegas Golden Knights,2022020759807,2022020759,Shot,807,SHOT,Reilly Smith Snap Shot saved by Vitek Vanecek,2023-01-25T02:48:16Z,3,11:21,08:39,1,2,54.0,Vegas Golden Knights,VGK
+273,1,54,New Jersey Devils,Vegas Golden Knights,2022020759530,2022020759,Stoppage,530,STOP,Goalie Stopped,2023-01-25T02:48:18Z,3,11:23,08:37,1,2,,,
+274,1,54,New Jersey Devils,Vegas Golden Knights,2022020759777,2022020759,Faceoff,777,FACEOFF,Chandler Stephenson faceoff won against Michael McLeod,2023-01-25T02:48:48Z,3,11:23,08:37,1,2,54.0,Vegas Golden Knights,VGK
+275,1,54,New Jersey Devils,Vegas Golden Knights,2022020759808,2022020759,Missed Shot,808,MISSED_SHOT,Chandler Stephenson Wide of Net Vitek Vanecek,2023-01-25T02:49:44Z,3,12:19,07:41,1,2,54.0,Vegas Golden Knights,VGK
+276,1,54,New Jersey Devils,Vegas Golden Knights,2022020759778,2022020759,Takeaway,778,TAKEAWAY,Takeaway by Jack Hughes,2023-01-25T02:50:07Z,3,12:42,07:18,1,2,1.0,New Jersey Devils,NJD
+277,1,54,New Jersey Devils,Vegas Golden Knights,2022020759779,2022020759,Hit,779,HIT,Nicolas Roy hit Jesper Bratt,2023-01-25T02:50:29Z,3,13:04,06:56,1,2,54.0,Vegas Golden Knights,VGK
+278,1,54,New Jersey Devils,Vegas Golden Knights,2022020759809,2022020759,Shot,809,SHOT,William Karlsson Snap Shot saved by Vitek Vanecek,2023-01-25T02:50:37Z,3,13:12,06:48,1,2,54.0,Vegas Golden Knights,VGK
+279,1,54,New Jersey Devils,Vegas Golden Knights,2022020759810,2022020759,Shot,810,SHOT,Ben Hutton Snap Shot saved by Vitek Vanecek,2023-01-25T02:50:49Z,3,13:24,06:36,1,2,54.0,Vegas Golden Knights,VGK
+280,1,54,New Jersey Devils,Vegas Golden Knights,2022020759559,2022020759,Blocked Shot,559,BLOCKED_SHOT,Dougie Hamilton shot blocked shot by Nicolas Roy,2023-01-25T02:50:53Z,3,13:28,06:32,1,2,54.0,Vegas Golden Knights,VGK
+281,1,54,New Jersey Devils,Vegas Golden Knights,2022020759780,2022020759,Giveaway,780,GIVEAWAY,Giveaway by Jesper Bratt,2023-01-25T02:50:53Z,3,13:28,06:32,1,2,1.0,New Jersey Devils,NJD
+282,1,54,New Jersey Devils,Vegas Golden Knights,2022020759781,2022020759,Hit,781,HIT,Keegan Kolesar hit Miles Wood,2023-01-25T02:51:56Z,3,14:31,05:29,1,2,54.0,Vegas Golden Knights,VGK
+283,1,54,New Jersey Devils,Vegas Golden Knights,2022020759531,2022020759,Stoppage,531,STOP,Icing,2023-01-25T02:51:59Z,3,14:35,05:25,1,2,,,
+284,1,54,New Jersey Devils,Vegas Golden Knights,2022020759782,2022020759,Faceoff,782,FACEOFF,Dawson Mercer faceoff won against Chandler Stephenson,2023-01-25T02:52:30Z,3,14:35,05:25,1,2,1.0,New Jersey Devils,NJD
+285,1,54,New Jersey Devils,Vegas Golden Knights,2022020759812,2022020759,Shot,812,SHOT,Alex Pietrangelo Slap Shot saved by Vitek Vanecek,2023-01-25T02:53:00Z,3,15:05,04:55,1,2,54.0,Vegas Golden Knights,VGK
+286,1,54,New Jersey Devils,Vegas Golden Knights,2022020759532,2022020759,Blocked Shot,532,BLOCKED_SHOT,Dougie Hamilton shot blocked shot by Chandler Stephenson,2023-01-25T02:53:11Z,3,15:16,04:44,1,2,54.0,Vegas Golden Knights,VGK
+287,1,54,New Jersey Devils,Vegas Golden Knights,2022020759813,2022020759,Stoppage,813,STOP,Puck in Netting,2023-01-25T02:53:12Z,3,15:18,04:42,1,2,,,
+288,1,54,New Jersey Devils,Vegas Golden Knights,2022020759784,2022020759,Faceoff,784,FACEOFF,Erik Haula faceoff won against William Karlsson,2023-01-25T02:55:28Z,3,15:18,04:42,1,2,1.0,New Jersey Devils,NJD
+289,1,54,New Jersey Devils,Vegas Golden Knights,2022020759814,2022020759,Shot,814,SHOT,Jack Hughes Snap Shot saved by Logan Thompson,2023-01-25T02:55:48Z,3,15:38,04:22,1,2,1.0,New Jersey Devils,NJD
+290,1,54,New Jersey Devils,Vegas Golden Knights,2022020759785,2022020759,Giveaway,785,GIVEAWAY,Giveaway by Alec Martinez,2023-01-25T02:55:49Z,3,15:39,04:21,1,2,54.0,Vegas Golden Knights,VGK
+291,1,54,New Jersey Devils,Vegas Golden Knights,2022020759815,2022020759,Shot,815,SHOT,Ryan Graves Snap Shot saved by Logan Thompson,2023-01-25T02:56:29Z,3,16:19,03:41,1,2,1.0,New Jersey Devils,NJD
+292,1,54,New Jersey Devils,Vegas Golden Knights,2022020759533,2022020759,Blocked Shot,533,BLOCKED_SHOT,Ryan Graves shot blocked shot by Byron Froese,2023-01-25T02:56:34Z,3,16:24,03:36,1,2,54.0,Vegas Golden Knights,VGK
+293,1,54,New Jersey Devils,Vegas Golden Knights,2022020759534,2022020759,Stoppage,534,STOP,Puck in Netting,2023-01-25T02:56:37Z,3,16:27,03:33,1,2,,,
+294,1,54,New Jersey Devils,Vegas Golden Knights,20220207591017,2022020759,Faceoff,1017,FACEOFF,Erik Haula faceoff won against Nicolas Roy,2023-01-25T02:57:16Z,3,16:27,03:33,1,2,1.0,New Jersey Devils,NJD
+295,1,54,New Jersey Devils,Vegas Golden Knights,2022020759535,2022020759,Blocked Shot,535,BLOCKED_SHOT,Damon Severson shot blocked shot by Ben Hutton,2023-01-25T02:57:24Z,3,16:35,03:25,1,2,54.0,Vegas Golden Knights,VGK
+296,1,54,New Jersey Devils,Vegas Golden Knights,2022020759817,2022020759,Shot,817,SHOT,Nico Hischier Backhand saved by Logan Thompson,2023-01-25T02:58:07Z,3,17:18,02:42,1,2,1.0,New Jersey Devils,NJD
+297,1,54,New Jersey Devils,Vegas Golden Knights,20220207591018,2022020759,Hit,1018,HIT,Kaedan Korczak hit Nico Hischier,2023-01-25T02:58:10Z,3,17:21,02:39,1,2,54.0,Vegas Golden Knights,VGK
+298,1,54,New Jersey Devils,Vegas Golden Knights,2022020759818,2022020759,Blocked Shot,818,BLOCKED_SHOT,Jonathan Marchessault shot blocked shot by Nico Hischier,2023-01-25T02:59:12Z,3,18:23,01:37,1,2,1.0,New Jersey Devils,NJD
+299,1,54,New Jersey Devils,Vegas Golden Knights,2022020759536,2022020759,Blocked Shot,536,BLOCKED_SHOT,Alex Pietrangelo shot blocked shot by Damon Severson,2023-01-25T02:59:21Z,3,18:32,01:28,1,2,1.0,New Jersey Devils,NJD
+300,1,54,New Jersey Devils,Vegas Golden Knights,20220207591019,2022020759,Giveaway,1019,GIVEAWAY,Giveaway by Nico Hischier,2023-01-25T02:59:24Z,3,18:35,01:25,1,2,1.0,New Jersey Devils,NJD
+301,1,54,New Jersey Devils,Vegas Golden Knights,2022020759819,2022020759,Goal,819,GOAL,"Dougie Hamilton (12) Wrist Shot, assists: Jesper Bratt (30), Jack Hughes (29)",2023-01-25T02:59:39Z,3,18:50,01:10,2,2,1.0,New Jersey Devils,NJD
+302,1,54,New Jersey Devils,Vegas Golden Knights,20220207591020,2022020759,Faceoff,1020,FACEOFF,Michael McLeod faceoff won against Chandler Stephenson,2023-01-25T03:00:43Z,3,18:50,01:10,2,2,1.0,New Jersey Devils,NJD
+303,1,54,New Jersey Devils,Vegas Golden Knights,20220207591022,2022020759,Hit,1022,HIT,Chandler Stephenson hit Michael McLeod,2023-01-25T03:01:13Z,3,19:20,00:40,2,2,54.0,Vegas Golden Knights,VGK
+304,1,54,New Jersey Devils,Vegas Golden Knights,2022020759537,2022020759,Stoppage,537,STOP,Icing,2023-01-25T03:01:28Z,3,19:33,00:27,2,2,,,
+305,1,54,New Jersey Devils,Vegas Golden Knights,20220207591023,2022020759,Faceoff,1023,FACEOFF,Nico Hischier faceoff won against Chandler Stephenson,2023-01-25T03:02:05Z,3,19:33,00:27,2,2,1.0,New Jersey Devils,NJD
+306,1,54,New Jersey Devils,Vegas Golden Knights,2022020759820,2022020759,Missed Shot,820,MISSED_SHOT,Dougie Hamilton Wide of Net Logan Thompson,2023-01-25T03:02:10Z,3,19:37,00:23,2,2,1.0,New Jersey Devils,NJD
+307,1,54,New Jersey Devils,Vegas Golden Knights,20220207591024,2022020759,Faceoff,1024,FACEOFF,Nico Hischier faceoff won against William Karlsson,2023-01-25T03:02:26Z,3,19:38,00:22,2,2,1.0,New Jersey Devils,NJD
+308,1,54,New Jersey Devils,Vegas Golden Knights,2022020759538,2022020759,Stoppage,538,STOP,Goalie Stopped,2023-01-25T03:02:41Z,3,19:38,00:22,2,2,,,
+309,1,54,New Jersey Devils,Vegas Golden Knights,2022020759539,2022020759,Blocked Shot,539,BLOCKED_SHOT,Ondrej Palat shot blocked shot by Alex Pietrangelo,2023-01-25T03:02:45Z,3,19:42,00:18,2,2,54.0,Vegas Golden Knights,VGK
+310,1,54,New Jersey Devils,Vegas Golden Knights,20220207591025,2022020759,Hit,1025,HIT,Ondrej Palat hit Alex Pietrangelo,2023-01-25T03:02:47Z,3,19:44,00:16,2,2,1.0,New Jersey Devils,NJD
+311,1,54,New Jersey Devils,Vegas Golden Knights,2022020759821,2022020759,Period End,821,PERIOD_END,End of 3rd Period,2023-01-25T03:03:03Z,3,20:00,00:00,2,2,,,
+312,1,54,New Jersey Devils,Vegas Golden Knights,2022020759824,2022020759,Period Official,824,PERIOD_OFFICIAL,Period Official,2023-01-25T03:05:29Z,3,20:00,00:00,2,2,,,
+313,1,54,New Jersey Devils,Vegas Golden Knights,2022020759825,2022020759,Period Ready,825,PERIOD_READY,Period Ready,2023-01-25T03:05:32Z,4,00:00,05:00,2,2,,,
+314,1,54,New Jersey Devils,Vegas Golden Knights,20220207591027,2022020759,Period Start,1027,PERIOD_START,Period Start,2023-01-25T03:05:33Z,4,00:00,05:00,2,2,,,
+315,1,54,New Jersey Devils,Vegas Golden Knights,20220207591028,2022020759,Faceoff,1028,FACEOFF,Nico Hischier faceoff won against William Karlsson,2023-01-25T03:05:33Z,4,00:00,05:00,2,2,1.0,New Jersey Devils,NJD
+316,1,54,New Jersey Devils,Vegas Golden Knights,2022020759540,2022020759,Blocked Shot,540,BLOCKED_SHOT,William Karlsson shot blocked shot by Damon Severson,2023-01-25T03:05:53Z,4,00:26,04:34,2,2,1.0,New Jersey Devils,NJD
+317,1,54,New Jersey Devils,Vegas Golden Knights,2022020759826,2022020759,Shot,826,SHOT,Damon Severson Snap Shot saved by Logan Thompson,2023-01-25T03:07:54Z,4,02:29,02:31,2,2,1.0,New Jersey Devils,NJD
+318,1,54,New Jersey Devils,Vegas Golden Knights,2022020759827,2022020759,Missed Shot,827,MISSED_SHOT,Yegor Sharangovich Wide of Net Logan Thompson,2023-01-25T03:08:03Z,4,02:37,02:23,2,2,1.0,New Jersey Devils,NJD
+319,1,54,New Jersey Devils,Vegas Golden Knights,2022020759541,2022020759,Penalty,541,PENALTY,Ben Hutton Tripping against Yegor Sharangovich,2023-01-25T03:08:09Z,4,02:41,02:19,2,2,54.0,Vegas Golden Knights,VGK
+320,1,54,New Jersey Devils,Vegas Golden Knights,2022020759828,2022020759,Stoppage,828,STOP,Home Timeout,2023-01-25T03:08:12Z,4,02:41,02:19,2,2,,,
+321,1,54,New Jersey Devils,Vegas Golden Knights,20220207591029,2022020759,Faceoff,1029,FACEOFF,Chandler Stephenson faceoff won against Nico Hischier,2023-01-25T03:08:48Z,4,02:41,02:19,2,2,54.0,Vegas Golden Knights,VGK
+322,1,54,New Jersey Devils,Vegas Golden Knights,2022020759832,2022020759,Shot,832,SHOT,Dougie Hamilton Snap Shot saved by Logan Thompson,2023-01-25T03:10:33Z,4,03:20,01:40,2,2,1.0,New Jersey Devils,NJD
+323,1,54,New Jersey Devils,Vegas Golden Knights,2022020759830,2022020759,Shot,830,SHOT,Jack Hughes Snap Shot saved by Logan Thompson,2023-01-25T03:10:46Z,4,03:35,01:25,2,2,1.0,New Jersey Devils,NJD
+324,1,54,New Jersey Devils,Vegas Golden Knights,2022020759546,2022020759,Stoppage,546,STOP,Goalie Stopped,2023-01-25T03:10:50Z,4,03:35,01:25,2,2,,,
+325,1,54,New Jersey Devils,Vegas Golden Knights,20220207591030,2022020759,Faceoff,1030,FACEOFF,Chandler Stephenson faceoff won against Nico Hischier,2023-01-25T03:11:02Z,4,03:35,01:25,2,2,54.0,Vegas Golden Knights,VGK
+326,1,54,New Jersey Devils,Vegas Golden Knights,20220207591031,2022020759,Hit,1031,HIT,Brayden McNabb hit Jack Hughes,2023-01-25T03:11:36Z,4,03:53,01:07,2,2,54.0,Vegas Golden Knights,VGK
+327,1,54,New Jersey Devils,Vegas Golden Knights,2022020759831,2022020759,Goal,831,GOAL,"Dougie Hamilton (13) Snap Shot, assists: Jack Hughes (30), Vitek Vanecek (1)",2023-01-25T03:11:44Z,4,03:54,01:06,3,2,1.0,New Jersey Devils,NJD
+328,1,54,New Jersey Devils,Vegas Golden Knights,2022020759833,2022020759,Period End,833,PERIOD_END,End of OT,2023-01-25T03:13:26Z,4,03:54,01:06,3,2,,,
+329,1,54,New Jersey Devils,Vegas Golden Knights,2022020759836,2022020759,Period Official,836,PERIOD_OFFICIAL,Period Official,2023-01-25T03:13:29Z,4,03:54,01:06,3,2,,,
+330,1,54,New Jersey Devils,Vegas Golden Knights,2022020759837,2022020759,Game End,837,GAME_END,Game End,2023-01-25T03:13:32Z,4,03:54,01:06,3,2,,,
+331,1,54,New Jersey Devils,Vegas Golden Knights,2022020759838,2022020759,Game Official,838,GAME_OFFICIAL,Game Official,2023-01-25T03:27:23Z,4,03:54,01:06,3,2,,,

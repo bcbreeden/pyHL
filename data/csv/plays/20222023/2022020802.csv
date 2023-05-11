@@ -1,0 +1,330 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,12,26,Carolina Hurricanes,Los Angeles Kings,20220208021,2022020802,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-01-31T23:12:21Z,1,00:00,20:00,0,0,,,
+1,12,26,Carolina Hurricanes,Los Angeles Kings,20220208025,2022020802,Period Ready,5,PERIOD_READY,Period Ready,2023-02-01T00:08:03Z,1,00:00,20:00,0,0,,,
+2,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802101,2022020802,Period Start,101,PERIOD_START,Period Start,2023-02-01T00:08:16Z,1,00:00,20:00,0,0,,,
+3,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802154,2022020802,Faceoff,154,FACEOFF,Phillip Danault faceoff won against Sebastian Aho,2023-02-01T00:08:16Z,1,00:00,20:00,0,0,26.0,Los Angeles Kings,LAK
+4,12,26,Carolina Hurricanes,Los Angeles Kings,20220208028,2022020802,Shot,8,SHOT,Phillip Danault Wrist Shot saved by Frederik Andersen,2023-02-01T00:08:17Z,1,00:07,19:53,0,0,26.0,Los Angeles Kings,LAK
+5,12,26,Carolina Hurricanes,Los Angeles Kings,20220208029,2022020802,Missed Shot,9,MISSED_SHOT,Drew Doughty Wide of Net Frederik Andersen,2023-02-01T00:08:24Z,1,00:14,19:46,0,0,26.0,Los Angeles Kings,LAK
+6,12,26,Carolina Hurricanes,Los Angeles Kings,202202080210,2022020802,Shot,10,SHOT,Sebastian Aho Wrist Shot saved by Pheonix Copley,2023-02-01T00:08:44Z,1,00:34,19:26,0,0,12.0,Carolina Hurricanes,CAR
+7,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802151,2022020802,Stoppage,151,STOP,Goalie Stopped,2023-02-01T00:08:46Z,1,00:35,19:25,0,0,,,
+8,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802103,2022020802,Faceoff,103,FACEOFF,Anze Kopitar faceoff won against Jordan Staal,2023-02-01T00:09:08Z,1,00:35,19:25,0,0,26.0,Los Angeles Kings,LAK
+9,12,26,Carolina Hurricanes,Los Angeles Kings,202202080211,2022020802,Shot,11,SHOT,Jesper Fast Wrist Shot saved by Pheonix Copley,2023-02-01T00:09:15Z,1,00:42,19:18,0,0,12.0,Carolina Hurricanes,CAR
+10,12,26,Carolina Hurricanes,Los Angeles Kings,202202080212,2022020802,Missed Shot,12,MISSED_SHOT,Jesper Fast Wide of Net Pheonix Copley,2023-02-01T00:09:17Z,1,00:44,19:16,0,0,12.0,Carolina Hurricanes,CAR
+11,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802152,2022020802,Giveaway,152,GIVEAWAY,Giveaway by Jordan Staal,2023-02-01T00:09:29Z,1,00:56,19:04,0,0,12.0,Carolina Hurricanes,CAR
+12,12,26,Carolina Hurricanes,Los Angeles Kings,202202080213,2022020802,Shot,13,SHOT,Alexander Edler Wrist Shot saved by Frederik Andersen,2023-02-01T00:09:30Z,1,00:57,19:03,0,0,26.0,Los Angeles Kings,LAK
+13,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802153,2022020802,Stoppage,153,STOP,Goalie Stopped,2023-02-01T00:09:33Z,1,00:59,19:01,0,0,,,
+14,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802104,2022020802,Faceoff,104,FACEOFF,Blake Lizotte faceoff won against Martin Necas,2023-02-01T00:09:58Z,1,00:59,19:01,0,0,26.0,Los Angeles Kings,LAK
+15,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802155,2022020802,Hit,155,HIT,Martin Necas hit Matt Roy,2023-02-01T00:10:38Z,1,01:39,18:21,0,0,12.0,Carolina Hurricanes,CAR
+16,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802105,2022020802,Takeaway,105,TAKEAWAY,Takeaway by Alex Turcotte,2023-02-01T00:10:49Z,1,01:50,18:10,0,0,26.0,Los Angeles Kings,LAK
+17,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802156,2022020802,Hit,156,HIT,Stefan Noesen hit Alex Turcotte,2023-02-01T00:10:54Z,1,01:55,18:05,0,0,12.0,Carolina Hurricanes,CAR
+18,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802108,2022020802,Takeaway,108,TAKEAWAY,Takeaway by Jalen Chatfield,2023-02-01T00:11:23Z,1,02:24,17:36,0,0,12.0,Carolina Hurricanes,CAR
+19,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802106,2022020802,Giveaway,106,GIVEAWAY,Giveaway by Teuvo Teravainen,2023-02-01T00:11:33Z,1,02:34,17:26,0,0,12.0,Carolina Hurricanes,CAR
+20,12,26,Carolina Hurricanes,Los Angeles Kings,202202080214,2022020802,Missed Shot,14,MISSED_SHOT,Brett Pesce Wide of Net Pheonix Copley,2023-02-01T00:11:51Z,1,02:52,17:08,0,0,12.0,Carolina Hurricanes,CAR
+21,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802157,2022020802,Stoppage,157,STOP,Puck Frozen,2023-02-01T00:11:52Z,1,02:53,17:07,0,0,,,
+22,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802107,2022020802,Faceoff,107,FACEOFF,Jesper Fast faceoff won against Anze Kopitar,2023-02-01T00:12:31Z,1,02:53,17:07,0,0,12.0,Carolina Hurricanes,CAR
+23,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802158,2022020802,Hit,158,HIT,Anze Kopitar hit Jesper Fast,2023-02-01T00:12:38Z,1,03:00,17:00,0,0,26.0,Los Angeles Kings,LAK
+24,12,26,Carolina Hurricanes,Los Angeles Kings,202202080215,2022020802,Missed Shot,15,MISSED_SHOT,Jordan Staal Wide of Net Pheonix Copley,2023-02-01T00:12:44Z,1,03:06,16:54,0,0,12.0,Carolina Hurricanes,CAR
+25,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802159,2022020802,Stoppage,159,STOP,Puck in Crowd,2023-02-01T00:12:57Z,1,03:20,16:40,0,0,,,
+26,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802109,2022020802,Faceoff,109,FACEOFF,Blake Lizotte faceoff won against Martin Necas,2023-02-01T00:13:23Z,1,03:20,16:40,0,0,26.0,Los Angeles Kings,LAK
+27,12,26,Carolina Hurricanes,Los Angeles Kings,202202080216,2022020802,Shot,16,SHOT,Calvin de Haan Wrist Shot saved by Pheonix Copley,2023-02-01T00:13:44Z,1,03:41,16:19,0,0,12.0,Carolina Hurricanes,CAR
+28,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802160,2022020802,Hit,160,HIT,Rasmus Kupari hit Paul Stastny,2023-02-01T00:14:36Z,1,04:33,15:27,0,0,26.0,Los Angeles Kings,LAK
+29,12,26,Carolina Hurricanes,Los Angeles Kings,202202080217,2022020802,Shot,17,SHOT,Brendan Lemieux Snap Shot saved by Frederik Andersen,2023-02-01T00:14:43Z,1,04:40,15:20,0,0,26.0,Los Angeles Kings,LAK
+30,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802110,2022020802,Giveaway,110,GIVEAWAY,Giveaway by Jalen Chatfield,2023-02-01T00:14:45Z,1,04:42,15:18,0,0,12.0,Carolina Hurricanes,CAR
+31,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802161,2022020802,Stoppage,161,STOP,Puck in Netting,2023-02-01T00:14:54Z,1,04:51,15:09,0,0,,,
+32,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802111,2022020802,Faceoff,111,FACEOFF,Jordan Staal faceoff won against Anze Kopitar,2023-02-01T00:15:35Z,1,04:51,15:09,0,0,12.0,Carolina Hurricanes,CAR
+33,12,26,Carolina Hurricanes,Los Angeles Kings,202202080218,2022020802,Shot,18,SHOT,Jordan Martinook Tip-In saved by Pheonix Copley,2023-02-01T00:15:44Z,1,05:00,15:00,0,0,12.0,Carolina Hurricanes,CAR
+34,12,26,Carolina Hurricanes,Los Angeles Kings,202202080219,2022020802,Shot,19,SHOT,Jordan Martinook Wrist Shot saved by Pheonix Copley,2023-02-01T00:15:45Z,1,05:01,14:59,0,0,12.0,Carolina Hurricanes,CAR
+35,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802162,2022020802,Stoppage,162,STOP,Goalie Stopped,2023-02-01T00:15:46Z,1,05:02,14:58,0,0,,,
+36,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802112,2022020802,Faceoff,112,FACEOFF,Anze Kopitar faceoff won against Jordan Staal,2023-02-01T00:16:10Z,1,05:02,14:58,0,0,26.0,Los Angeles Kings,LAK
+37,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802163,2022020802,Stoppage,163,STOP,Offside,2023-02-01T00:16:37Z,1,05:30,14:30,0,0,,,
+38,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802113,2022020802,Faceoff,113,FACEOFF,Phillip Danault faceoff won against Sebastian Aho,2023-02-01T00:17:15Z,1,05:30,14:30,0,0,26.0,Los Angeles Kings,LAK
+39,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802164,2022020802,Hit,164,HIT,Seth Jarvis hit Sean Durzi,2023-02-01T00:17:18Z,1,05:33,14:27,0,0,12.0,Carolina Hurricanes,CAR
+40,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802165,2022020802,Stoppage,165,STOP,Icing,2023-02-01T00:17:30Z,1,05:45,14:15,0,0,,,
+41,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802114,2022020802,Faceoff,114,FACEOFF,Phillip Danault faceoff won against Teuvo Teravainen,2023-02-01T00:18:00Z,1,05:45,14:15,0,0,26.0,Los Angeles Kings,LAK
+42,12,26,Carolina Hurricanes,Los Angeles Kings,202202080220,2022020802,Shot,20,SHOT,Brendan Lemieux Wrist Shot saved by Frederik Andersen,2023-02-01T00:18:34Z,1,06:19,13:41,0,0,26.0,Los Angeles Kings,LAK
+43,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802166,2022020802,Stoppage,166,STOP,Goalie Stopped,2023-02-01T00:18:36Z,1,06:20,13:40,0,0,,,
+44,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802115,2022020802,Faceoff,115,FACEOFF,Blake Lizotte faceoff won against Jesperi Kotkaniemi,2023-02-01T00:20:55Z,1,06:20,13:40,0,0,26.0,Los Angeles Kings,LAK
+45,12,26,Carolina Hurricanes,Los Angeles Kings,202202080221,2022020802,Blocked Shot,21,BLOCKED_SHOT,Jaret Anderson-Dolan shot blocked shot by Andrei Svechnikov,2023-02-01T00:21:02Z,1,06:27,13:33,0,0,12.0,Carolina Hurricanes,CAR
+46,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802116,2022020802,Takeaway,116,TAKEAWAY,Takeaway by Calvin de Haan,2023-02-01T00:21:31Z,1,06:56,13:04,0,0,12.0,Carolina Hurricanes,CAR
+47,12,26,Carolina Hurricanes,Los Angeles Kings,202202080222,2022020802,Missed Shot,22,MISSED_SHOT,Calvin de Haan Wide of Net Pheonix Copley,2023-02-01T00:21:48Z,1,07:13,12:47,0,0,12.0,Carolina Hurricanes,CAR
+48,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802167,2022020802,Stoppage,167,STOP,Puck Frozen,2023-02-01T00:21:49Z,1,07:14,12:46,0,0,,,
+49,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802117,2022020802,Faceoff,117,FACEOFF,Jordan Staal faceoff won against Quinton Byfield,2023-02-01T00:22:36Z,1,07:14,12:46,0,0,12.0,Carolina Hurricanes,CAR
+50,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802168,2022020802,Hit,168,HIT,Alexander Edler hit Jesper Fast,2023-02-01T00:22:44Z,1,07:22,12:38,0,0,26.0,Los Angeles Kings,LAK
+51,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802169,2022020802,Stoppage,169,STOP,Puck in Benches,2023-02-01T00:22:59Z,1,07:37,12:23,0,0,,,
+52,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802118,2022020802,Faceoff,118,FACEOFF,Phillip Danault faceoff won against Sebastian Aho,2023-02-01T00:23:50Z,1,07:37,12:23,0,0,26.0,Los Angeles Kings,LAK
+53,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802119,2022020802,Takeaway,119,TAKEAWAY,Takeaway by Sebastian Aho,2023-02-01T00:24:02Z,1,07:49,12:11,0,0,12.0,Carolina Hurricanes,CAR
+54,12,26,Carolina Hurricanes,Los Angeles Kings,202202080223,2022020802,Shot,23,SHOT,Alex Iafallo Wrist Shot saved by Frederik Andersen,2023-02-01T00:24:12Z,1,07:59,12:01,0,0,26.0,Los Angeles Kings,LAK
+55,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802170,2022020802,Hit,170,HIT,Brent Burns hit Alex Iafallo,2023-02-01T00:24:15Z,1,08:02,11:58,0,0,12.0,Carolina Hurricanes,CAR
+56,12,26,Carolina Hurricanes,Los Angeles Kings,202202080224,2022020802,Shot,24,SHOT,Alex Iafallo Tip-In saved by Frederik Andersen,2023-02-01T00:24:19Z,1,08:06,11:54,0,0,26.0,Los Angeles Kings,LAK
+57,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802171,2022020802,Hit,171,HIT,Stefan Noesen hit Matt Roy,2023-02-01T00:24:45Z,1,08:32,11:28,0,0,12.0,Carolina Hurricanes,CAR
+58,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802120,2022020802,Giveaway,120,GIVEAWAY,Giveaway by Stefan Noesen,2023-02-01T00:25:02Z,1,08:49,11:11,0,0,12.0,Carolina Hurricanes,CAR
+59,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802172,2022020802,Hit,172,HIT,Stefan Noesen hit Alex Turcotte,2023-02-01T00:25:13Z,1,09:00,11:00,0,0,12.0,Carolina Hurricanes,CAR
+60,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802121,2022020802,Giveaway,121,GIVEAWAY,Giveaway by Sean Walker,2023-02-01T00:25:31Z,1,09:18,10:42,0,0,26.0,Los Angeles Kings,LAK
+61,12,26,Carolina Hurricanes,Los Angeles Kings,202202080225,2022020802,Missed Shot,25,MISSED_SHOT,Andrei Svechnikov Wide of Net Pheonix Copley,2023-02-01T00:25:33Z,1,09:20,10:40,0,0,12.0,Carolina Hurricanes,CAR
+62,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802173,2022020802,Stoppage,173,STOP,Icing,2023-02-01T00:26:06Z,1,09:53,10:07,0,0,,,
+63,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802122,2022020802,Faceoff,122,FACEOFF,Jordan Staal faceoff won against Blake Lizotte,2023-02-01T00:26:33Z,1,09:53,10:07,0,0,12.0,Carolina Hurricanes,CAR
+64,12,26,Carolina Hurricanes,Los Angeles Kings,202202080226,2022020802,Missed Shot,26,MISSED_SHOT,Brent Burns Wide of Net Pheonix Copley,2023-02-01T00:26:35Z,1,09:55,10:05,0,0,12.0,Carolina Hurricanes,CAR
+65,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802174,2022020802,Stoppage,174,STOP,Icing,2023-02-01T00:27:00Z,1,10:20,09:40,0,0,,,
+66,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802123,2022020802,Faceoff,123,FACEOFF,Sebastian Aho faceoff won against Blake Lizotte,2023-02-01T00:27:29Z,1,10:20,09:40,0,0,12.0,Carolina Hurricanes,CAR
+67,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802175,2022020802,Hit,175,HIT,Anze Kopitar hit Sebastian Aho,2023-02-01T00:27:47Z,1,10:38,09:22,0,0,26.0,Los Angeles Kings,LAK
+68,12,26,Carolina Hurricanes,Los Angeles Kings,202202080228,2022020802,Blocked Shot,28,BLOCKED_SHOT,Adrian Kempe shot blocked shot by Brent Burns,2023-02-01T00:27:55Z,1,10:46,09:14,0,0,12.0,Carolina Hurricanes,CAR
+69,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802176,2022020802,Stoppage,176,STOP,Puck in Netting,2023-02-01T00:27:55Z,1,10:47,09:13,0,0,,,
+70,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802124,2022020802,Faceoff,124,FACEOFF,Jordan Staal faceoff won against Anze Kopitar,2023-02-01T00:30:11Z,1,10:47,09:13,0,0,12.0,Carolina Hurricanes,CAR
+71,12,26,Carolina Hurricanes,Los Angeles Kings,202202080229,2022020802,Missed Shot,29,MISSED_SHOT,Adrian Kempe Wide of Net Frederik Andersen,2023-02-01T00:30:34Z,1,11:10,08:50,0,0,26.0,Los Angeles Kings,LAK
+72,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802177,2022020802,Stoppage,177,STOP,Puck Frozen,2023-02-01T00:30:35Z,1,11:11,08:49,0,0,,,
+73,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802125,2022020802,Faceoff,125,FACEOFF,Alex Turcotte faceoff won against Derek Stepan,2023-02-01T00:31:11Z,1,11:11,08:49,0,0,26.0,Los Angeles Kings,LAK
+74,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802178,2022020802,Giveaway,178,GIVEAWAY,Giveaway by Derek Stepan,2023-02-01T00:31:45Z,1,11:45,08:15,0,0,12.0,Carolina Hurricanes,CAR
+75,12,26,Carolina Hurricanes,Los Angeles Kings,202202080230,2022020802,Shot,30,SHOT,Sean Walker Wrist Shot saved by Frederik Andersen,2023-02-01T00:32:17Z,1,12:17,07:43,0,0,26.0,Los Angeles Kings,LAK
+76,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802179,2022020802,Hit,179,HIT,Alexander Edler hit Seth Jarvis,2023-02-01T00:32:32Z,1,12:32,07:28,0,0,26.0,Los Angeles Kings,LAK
+77,12,26,Carolina Hurricanes,Los Angeles Kings,202202080231,2022020802,Missed Shot,31,MISSED_SHOT,Brett Pesce Wide of Net Pheonix Copley,2023-02-01T00:32:33Z,1,12:33,07:27,0,0,12.0,Carolina Hurricanes,CAR
+78,12,26,Carolina Hurricanes,Los Angeles Kings,202202080232,2022020802,Blocked Shot,32,BLOCKED_SHOT,Sebastian Aho shot blocked shot by Sean Walker,2023-02-01T00:32:54Z,1,12:54,07:06,0,0,26.0,Los Angeles Kings,LAK
+79,12,26,Carolina Hurricanes,Los Angeles Kings,202202080233,2022020802,Goal,33,GOAL,"Brent Burns (9) Wrist Shot, assists: Andrei Svechnikov (21)",2023-02-01T00:33:28Z,1,13:27,06:33,1,0,12.0,Carolina Hurricanes,CAR
+80,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802126,2022020802,Faceoff,126,FACEOFF,Blake Lizotte faceoff won against Martin Necas,2023-02-01T00:34:12Z,1,13:27,06:33,1,0,26.0,Los Angeles Kings,LAK
+81,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802180,2022020802,Hit,180,HIT,Jesperi Kotkaniemi hit Mikey Anderson,2023-02-01T00:34:35Z,1,13:32,06:28,1,0,12.0,Carolina Hurricanes,CAR
+82,12,26,Carolina Hurricanes,Los Angeles Kings,202202080234,2022020802,Missed Shot,34,MISSED_SHOT,Jesperi Kotkaniemi Wide of Net Pheonix Copley,2023-02-01T00:35:20Z,1,14:17,05:43,1,0,12.0,Carolina Hurricanes,CAR
+83,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802181,2022020802,Stoppage,181,STOP,Puck Frozen,2023-02-01T00:35:22Z,1,14:19,05:41,1,0,,,
+84,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802127,2022020802,Faceoff,127,FACEOFF,Jordan Staal faceoff won against Anze Kopitar,2023-02-01T00:37:39Z,1,14:19,05:41,1,0,12.0,Carolina Hurricanes,CAR
+85,12,26,Carolina Hurricanes,Los Angeles Kings,202202080235,2022020802,Blocked Shot,35,BLOCKED_SHOT,Sean Walker shot blocked shot by Jordan Martinook,2023-02-01T00:37:53Z,1,14:33,05:27,1,0,12.0,Carolina Hurricanes,CAR
+86,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802182,2022020802,Stoppage,182,STOP,Puck in Crowd,2023-02-01T00:37:53Z,1,14:34,05:26,1,0,,,
+87,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802128,2022020802,Faceoff,128,FACEOFF,Jordan Staal faceoff won against Anze Kopitar,2023-02-01T00:38:17Z,1,14:34,05:26,1,0,12.0,Carolina Hurricanes,CAR
+88,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802183,2022020802,Hit,183,HIT,Alexander Edler hit Jesper Fast,2023-02-01T00:38:25Z,1,14:42,05:18,1,0,26.0,Los Angeles Kings,LAK
+89,12,26,Carolina Hurricanes,Los Angeles Kings,202202080236,2022020802,Shot,36,SHOT,Jordan Martinook Wrist Shot saved by Pheonix Copley,2023-02-01T00:38:27Z,1,14:44,05:16,1,0,12.0,Carolina Hurricanes,CAR
+90,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802184,2022020802,Stoppage,184,STOP,Goalie Stopped,2023-02-01T00:38:28Z,1,14:45,05:15,1,0,,,
+91,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802129,2022020802,Faceoff,129,FACEOFF,Sebastian Aho faceoff won against Phillip Danault,2023-02-01T00:38:57Z,1,14:45,05:15,1,0,12.0,Carolina Hurricanes,CAR
+92,12,26,Carolina Hurricanes,Los Angeles Kings,202202080237,2022020802,Blocked Shot,37,BLOCKED_SHOT,Teuvo Teravainen shot blocked shot by Mikey Anderson,2023-02-01T00:38:59Z,1,14:47,05:13,1,0,26.0,Los Angeles Kings,LAK
+93,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802130,2022020802,Giveaway,130,GIVEAWAY,Giveaway by Brent Burns,2023-02-01T00:39:20Z,1,15:08,04:52,1,0,12.0,Carolina Hurricanes,CAR
+94,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802185,2022020802,Hit,185,HIT,Jalen Chatfield hit Viktor Arvidsson,2023-02-01T00:39:23Z,1,15:11,04:49,1,0,12.0,Carolina Hurricanes,CAR
+95,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802186,2022020802,Hit,186,HIT,Jalen Chatfield hit Viktor Arvidsson,2023-02-01T00:39:36Z,1,15:24,04:36,1,0,12.0,Carolina Hurricanes,CAR
+96,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802131,2022020802,Giveaway,131,GIVEAWAY,Giveaway by Viktor Arvidsson,2023-02-01T00:39:38Z,1,15:26,04:34,1,0,26.0,Los Angeles Kings,LAK
+97,12,26,Carolina Hurricanes,Los Angeles Kings,202202080238,2022020802,Missed Shot,38,MISSED_SHOT,Derek Stepan Wide of Net Pheonix Copley,2023-02-01T00:39:57Z,1,15:45,04:15,1,0,12.0,Carolina Hurricanes,CAR
+98,12,26,Carolina Hurricanes,Los Angeles Kings,202202080239,2022020802,Shot,39,SHOT,Jaret Anderson-Dolan Wrist Shot saved by Frederik Andersen,2023-02-01T00:40:36Z,1,16:24,03:36,1,0,26.0,Los Angeles Kings,LAK
+99,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802187,2022020802,Stoppage,187,STOP,Goalie Stopped,2023-02-01T00:40:37Z,1,16:25,03:35,1,0,,,
+100,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802132,2022020802,Faceoff,132,FACEOFF,Jesperi Kotkaniemi faceoff won against Jaret Anderson-Dolan,2023-02-01T00:41:11Z,1,16:25,03:35,1,0,12.0,Carolina Hurricanes,CAR
+101,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802133,2022020802,Takeaway,133,TAKEAWAY,Takeaway by Andrei Svechnikov,2023-02-01T00:41:39Z,1,16:53,03:07,1,0,12.0,Carolina Hurricanes,CAR
+102,12,26,Carolina Hurricanes,Los Angeles Kings,202202080240,2022020802,Missed Shot,40,MISSED_SHOT,Martin Necas Wide of Net Pheonix Copley,2023-02-01T00:41:42Z,1,16:56,03:04,1,0,12.0,Carolina Hurricanes,CAR
+103,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802188,2022020802,Hit,188,HIT,Alexander Edler hit Jesper Fast,2023-02-01T00:42:08Z,1,17:22,02:38,1,0,26.0,Los Angeles Kings,LAK
+104,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802189,2022020802,Hit,189,HIT,Alexander Edler hit Jesper Fast,2023-02-01T00:42:18Z,1,17:32,02:28,1,0,26.0,Los Angeles Kings,LAK
+105,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802134,2022020802,Takeaway,134,TAKEAWAY,Takeaway by Brent Burns,2023-02-01T00:42:41Z,1,17:55,02:05,1,0,12.0,Carolina Hurricanes,CAR
+106,12,26,Carolina Hurricanes,Los Angeles Kings,202202080241,2022020802,Shot,41,SHOT,Brady Skjei Wrist Shot saved by Pheonix Copley,2023-02-01T00:43:31Z,1,18:45,01:15,1,0,12.0,Carolina Hurricanes,CAR
+107,12,26,Carolina Hurricanes,Los Angeles Kings,202202080242,2022020802,Shot,42,SHOT,Brady Skjei Wrist Shot saved by Pheonix Copley,2023-02-01T00:43:40Z,1,18:54,01:06,1,0,12.0,Carolina Hurricanes,CAR
+108,12,26,Carolina Hurricanes,Los Angeles Kings,202202080243,2022020802,Missed Shot,43,MISSED_SHOT,Brett Pesce Wide of Net Pheonix Copley,2023-02-01T00:43:51Z,1,19:05,00:55,1,0,12.0,Carolina Hurricanes,CAR
+109,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802192,2022020802,Hit,192,HIT,Calvin de Haan hit Jaret Anderson-Dolan,2023-02-01T00:44:12Z,1,19:26,00:34,1,0,12.0,Carolina Hurricanes,CAR
+110,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802193,2022020802,Hit,193,HIT,Andrei Svechnikov hit Kevin Fiala,2023-02-01T00:44:31Z,1,19:45,00:15,1,0,12.0,Carolina Hurricanes,CAR
+111,12,26,Carolina Hurricanes,Los Angeles Kings,202202080244,2022020802,Period End,44,PERIOD_END,End of 1st Period,2023-02-01T00:44:47Z,1,20:00,00:00,1,0,,,
+112,12,26,Carolina Hurricanes,Los Angeles Kings,202202080247,2022020802,Period Official,47,PERIOD_OFFICIAL,Period Official,2023-02-01T00:54:10Z,1,20:00,00:00,1,0,,,
+113,12,26,Carolina Hurricanes,Los Angeles Kings,202202080248,2022020802,Period Ready,48,PERIOD_READY,Period Ready,2023-02-01T01:03:13Z,2,00:00,20:00,1,0,,,
+114,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802135,2022020802,Period Start,135,PERIOD_START,Period Start,2023-02-01T01:03:27Z,2,00:00,20:00,1,0,,,
+115,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802136,2022020802,Faceoff,136,FACEOFF,Sebastian Aho faceoff won against Phillip Danault,2023-02-01T01:03:27Z,2,00:00,20:00,1,0,12.0,Carolina Hurricanes,CAR
+116,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802137,2022020802,Giveaway,137,GIVEAWAY,Giveaway by Sebastian Aho,2023-02-01T01:03:46Z,2,00:19,19:41,1,0,12.0,Carolina Hurricanes,CAR
+117,12,26,Carolina Hurricanes,Los Angeles Kings,202202080249,2022020802,Shot,49,SHOT,Phillip Danault Wrist Shot saved by Frederik Andersen,2023-02-01T01:04:01Z,2,00:34,19:26,1,0,26.0,Los Angeles Kings,LAK
+118,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802138,2022020802,Takeaway,138,TAKEAWAY,Takeaway by Brent Burns,2023-02-01T01:04:07Z,2,00:40,19:20,1,0,12.0,Carolina Hurricanes,CAR
+119,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802139,2022020802,Giveaway,139,GIVEAWAY,Giveaway by Brent Burns,2023-02-01T01:04:09Z,2,00:42,19:18,1,0,12.0,Carolina Hurricanes,CAR
+120,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802194,2022020802,Stoppage,194,STOP,High Stick,2023-02-01T01:04:11Z,2,00:44,19:16,1,0,,,
+121,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802140,2022020802,Faceoff,140,FACEOFF,Jaret Anderson-Dolan faceoff won against Jesperi Kotkaniemi,2023-02-01T01:04:51Z,2,00:44,19:16,1,0,26.0,Los Angeles Kings,LAK
+122,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802141,2022020802,Takeaway,141,TAKEAWAY,Takeaway by Martin Necas,2023-02-01T01:05:00Z,2,00:53,19:07,1,0,12.0,Carolina Hurricanes,CAR
+123,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802195,2022020802,Stoppage,195,STOP,Offside,2023-02-01T01:05:07Z,2,01:00,19:00,1,0,,,
+124,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802143,2022020802,Faceoff,143,FACEOFF,Jesperi Kotkaniemi faceoff won against Blake Lizotte,2023-02-01T01:05:28Z,2,01:00,19:00,1,0,12.0,Carolina Hurricanes,CAR
+125,12,26,Carolina Hurricanes,Los Angeles Kings,202202080250,2022020802,Blocked Shot,50,BLOCKED_SHOT,Martin Necas shot blocked shot by Sean Durzi,2023-02-01T01:05:35Z,2,01:07,18:53,1,0,26.0,Los Angeles Kings,LAK
+126,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802251,2022020802,Blocked Shot,251,BLOCKED_SHOT,Dylan Coghlan shot blocked shot by Matt Roy,2023-02-01T01:05:55Z,2,01:27,18:33,1,0,26.0,Los Angeles Kings,LAK
+127,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802252,2022020802,Shot,252,SHOT,Dylan Coghlan Slap Shot saved by Pheonix Copley,2023-02-01T01:05:58Z,2,01:30,18:30,1,0,12.0,Carolina Hurricanes,CAR
+128,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802196,2022020802,Stoppage,196,STOP,Goalie Stopped,2023-02-01T01:05:59Z,2,01:31,18:29,1,0,,,
+129,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802144,2022020802,Faceoff,144,FACEOFF,Jordan Staal faceoff won against Anze Kopitar,2023-02-01T01:06:23Z,2,01:31,18:29,1,0,12.0,Carolina Hurricanes,CAR
+130,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802412,2022020802,Takeaway,412,TAKEAWAY,Takeaway by Adrian Kempe,2023-02-01T01:06:36Z,2,01:44,18:16,1,0,26.0,Los Angeles Kings,LAK
+131,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802254,2022020802,Goal,254,GOAL,"Adrian Kempe (21) Wrist Shot, assists: Anze Kopitar (26)",2023-02-01T01:06:43Z,2,01:51,18:09,1,1,26.0,Los Angeles Kings,LAK
+132,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802145,2022020802,Faceoff,145,FACEOFF,Paul Stastny faceoff won against Alex Turcotte,2023-02-01T01:07:23Z,2,01:51,18:09,1,1,12.0,Carolina Hurricanes,CAR
+133,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802146,2022020802,Takeaway,146,TAKEAWAY,Takeaway by Rasmus Kupari,2023-02-01T01:07:39Z,2,02:07,17:53,1,1,26.0,Los Angeles Kings,LAK
+134,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802197,2022020802,Hit,197,HIT,Mikey Anderson hit Sebastian Aho,2023-02-01T01:08:23Z,2,02:51,17:09,1,1,26.0,Los Angeles Kings,LAK
+135,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802255,2022020802,Shot,255,SHOT,Alex Iafallo Wrist Shot saved by Frederik Andersen,2023-02-01T01:08:38Z,2,03:06,16:54,1,1,26.0,Los Angeles Kings,LAK
+136,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802198,2022020802,Stoppage,198,STOP,Icing,2023-02-01T01:09:10Z,2,03:38,16:22,1,1,,,
+137,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802147,2022020802,Faceoff,147,FACEOFF,Blake Lizotte faceoff won against Martin Necas,2023-02-01T01:09:54Z,2,03:38,16:22,1,1,26.0,Los Angeles Kings,LAK
+138,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802256,2022020802,Missed Shot,256,MISSED_SHOT,Martin Necas Wide of Net Pheonix Copley,2023-02-01T01:10:09Z,2,03:53,16:07,1,1,12.0,Carolina Hurricanes,CAR
+139,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802199,2022020802,Hit,199,HIT,Brady Skjei hit Quinton Byfield,2023-02-01T01:10:36Z,2,04:20,15:40,1,1,12.0,Carolina Hurricanes,CAR
+140,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802257,2022020802,Shot,257,SHOT,Martin Necas Wrist Shot saved by Pheonix Copley,2023-02-01T01:10:41Z,2,04:25,15:35,1,1,12.0,Carolina Hurricanes,CAR
+141,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802200,2022020802,Stoppage,200,STOP,Goalie Stopped,2023-02-01T01:10:42Z,2,04:26,15:34,1,1,,,
+142,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802150,2022020802,Faceoff,150,FACEOFF,Jesper Fast faceoff won against Anze Kopitar,2023-02-01T01:11:19Z,2,04:26,15:34,1,1,12.0,Carolina Hurricanes,CAR
+143,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802258,2022020802,Shot,258,SHOT,Quinton Byfield Wrist Shot saved by Frederik Andersen,2023-02-01T01:11:32Z,2,04:39,15:21,1,1,26.0,Los Angeles Kings,LAK
+144,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802301,2022020802,Stoppage,301,STOP,Goalie Stopped,2023-02-01T01:11:33Z,2,04:40,15:20,1,1,,,
+145,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802401,2022020802,Faceoff,401,FACEOFF,Anze Kopitar faceoff won against Jordan Staal,2023-02-01T01:12:17Z,2,04:40,15:20,1,1,26.0,Los Angeles Kings,LAK
+146,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802302,2022020802,Stoppage,302,STOP,Puck in Netting,2023-02-01T01:12:39Z,2,05:02,14:58,1,1,,,
+147,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802402,2022020802,Faceoff,402,FACEOFF,Sebastian Aho faceoff won against Phillip Danault,2023-02-01T01:13:11Z,2,05:02,14:58,1,1,12.0,Carolina Hurricanes,CAR
+148,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802259,2022020802,Shot,259,SHOT,Brett Pesce Slap Shot saved by Pheonix Copley,2023-02-01T01:13:14Z,2,05:05,14:55,1,1,12.0,Carolina Hurricanes,CAR
+149,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802303,2022020802,Stoppage,303,STOP,Goalie Stopped,2023-02-01T01:13:14Z,2,05:06,14:54,1,1,,,
+150,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802403,2022020802,Faceoff,403,FACEOFF,Phillip Danault faceoff won against Sebastian Aho,2023-02-01T01:13:36Z,2,05:06,14:54,1,1,26.0,Los Angeles Kings,LAK
+151,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802503,2022020802,Penalty,503,PENALTY,Teuvo Teravainen Tripping against Phillip Danault,2023-02-01T01:13:45Z,2,05:14,14:46,1,1,12.0,Carolina Hurricanes,CAR
+152,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802404,2022020802,Faceoff,404,FACEOFF,Jordan Staal faceoff won against Anze Kopitar,2023-02-01T01:14:29Z,2,05:14,14:46,1,1,12.0,Carolina Hurricanes,CAR
+153,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802405,2022020802,Takeaway,405,TAKEAWAY,Takeaway by Brent Burns,2023-02-01T01:16:03Z,2,06:48,13:12,1,1,12.0,Carolina Hurricanes,CAR
+154,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802304,2022020802,Stoppage,304,STOP,Offside,2023-02-01T01:16:26Z,2,07:11,12:49,1,1,,,
+155,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802406,2022020802,Faceoff,406,FACEOFF,Jesperi Kotkaniemi faceoff won against Anze Kopitar,2023-02-01T01:16:58Z,2,07:11,12:49,1,1,12.0,Carolina Hurricanes,CAR
+156,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802305,2022020802,Hit,305,HIT,Dylan Coghlan hit Rasmus Kupari,2023-02-01T01:17:22Z,2,07:35,12:25,1,1,12.0,Carolina Hurricanes,CAR
+157,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802407,2022020802,Takeaway,407,TAKEAWAY,Takeaway by Mikey Anderson,2023-02-01T01:17:38Z,2,07:51,12:09,1,1,26.0,Los Angeles Kings,LAK
+158,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802260,2022020802,Blocked Shot,260,BLOCKED_SHOT,Kevin Fiala shot blocked shot by Martin Necas,2023-02-01T01:18:17Z,2,08:30,11:30,1,1,12.0,Carolina Hurricanes,CAR
+159,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802409,2022020802,Takeaway,409,TAKEAWAY,Takeaway by Teuvo Teravainen,2023-02-01T01:18:37Z,2,08:50,11:10,1,1,12.0,Carolina Hurricanes,CAR
+160,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802410,2022020802,Giveaway,410,GIVEAWAY,Giveaway by Teuvo Teravainen,2023-02-01T01:18:45Z,2,08:58,11:02,1,1,12.0,Carolina Hurricanes,CAR
+161,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802307,2022020802,Stoppage,307,STOP,Icing,2023-02-01T01:19:28Z,2,09:41,10:19,1,1,,,
+162,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802411,2022020802,Faceoff,411,FACEOFF,Rasmus Kupari faceoff won against Sebastian Aho,2023-02-01T01:20:14Z,2,09:41,10:19,1,1,26.0,Los Angeles Kings,LAK
+163,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802261,2022020802,Missed Shot,261,MISSED_SHOT,Sean Walker Wide of Net Frederik Andersen,2023-02-01T01:20:17Z,2,09:44,10:16,1,1,26.0,Los Angeles Kings,LAK
+164,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802262,2022020802,Missed Shot,262,MISSED_SHOT,Alex Turcotte Wide of Net Frederik Andersen,2023-02-01T01:20:18Z,2,09:45,10:15,1,1,26.0,Los Angeles Kings,LAK
+165,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802263,2022020802,Shot,263,SHOT,Paul Stastny Backhand saved by Pheonix Copley,2023-02-01T01:20:56Z,2,10:23,09:37,1,1,12.0,Carolina Hurricanes,CAR
+166,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802308,2022020802,Stoppage,308,STOP,Goalie Stopped,2023-02-01T01:20:57Z,2,10:24,09:36,1,1,,,
+167,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802413,2022020802,Faceoff,413,FACEOFF,Jordan Staal faceoff won against Anze Kopitar,2023-02-01T01:23:12Z,2,10:24,09:36,1,1,12.0,Carolina Hurricanes,CAR
+168,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802264,2022020802,Shot,264,SHOT,Brett Pesce Slap Shot saved by Pheonix Copley,2023-02-01T01:23:15Z,2,10:27,09:33,1,1,12.0,Carolina Hurricanes,CAR
+169,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802414,2022020802,Giveaway,414,GIVEAWAY,Giveaway by Jordan Martinook,2023-02-01T01:23:32Z,2,10:44,09:16,1,1,12.0,Carolina Hurricanes,CAR
+170,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802415,2022020802,Takeaway,415,TAKEAWAY,Takeaway by Jordan Staal,2023-02-01T01:23:37Z,2,10:49,09:11,1,1,12.0,Carolina Hurricanes,CAR
+171,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802416,2022020802,Takeaway,416,TAKEAWAY,Takeaway by Blake Lizotte,2023-02-01T01:24:17Z,2,11:29,08:31,1,1,26.0,Los Angeles Kings,LAK
+172,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802265,2022020802,Goal,265,GOAL,"Kevin Fiala (18) Wrist Shot, assists: Blake Lizotte (16)",2023-02-01T01:24:23Z,2,11:34,08:26,1,2,26.0,Los Angeles Kings,LAK
+173,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802417,2022020802,Faceoff,417,FACEOFF,Jesperi Kotkaniemi faceoff won against Blake Lizotte,2023-02-01T01:25:00Z,2,11:34,08:26,1,2,12.0,Carolina Hurricanes,CAR
+174,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802309,2022020802,Hit,309,HIT,Andrei Svechnikov hit Matt Roy,2023-02-01T01:25:25Z,2,11:59,08:01,1,2,12.0,Carolina Hurricanes,CAR
+175,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802310,2022020802,Hit,310,HIT,Brent Burns hit Phillip Danault,2023-02-01T01:25:48Z,2,12:22,07:38,1,2,12.0,Carolina Hurricanes,CAR
+176,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802266,2022020802,Blocked Shot,266,BLOCKED_SHOT,Brent Burns shot blocked shot by Phillip Danault,2023-02-01T01:26:06Z,2,12:40,07:20,1,2,26.0,Los Angeles Kings,LAK
+177,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802418,2022020802,Giveaway,418,GIVEAWAY,Giveaway by Sebastian Aho,2023-02-01T01:26:42Z,2,13:16,06:44,1,2,12.0,Carolina Hurricanes,CAR
+178,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802268,2022020802,Shot,268,SHOT,Derek Stepan Wrist Shot saved by Pheonix Copley,2023-02-01T01:27:19Z,2,13:53,06:07,1,2,12.0,Carolina Hurricanes,CAR
+179,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802311,2022020802,Stoppage,311,STOP,Goalie Stopped,2023-02-01T01:27:20Z,2,13:54,06:06,1,2,,,
+180,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802419,2022020802,Faceoff,419,FACEOFF,Jordan Staal faceoff won against Anze Kopitar,2023-02-01T01:29:36Z,2,13:54,06:06,1,2,12.0,Carolina Hurricanes,CAR
+181,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802269,2022020802,Goal,269,GOAL,"Adrian Kempe (22) Snap Shot, assists: Drew Doughty (29), Anze Kopitar (27)",2023-02-01T01:30:03Z,2,14:21,05:39,1,3,26.0,Los Angeles Kings,LAK
+182,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802420,2022020802,Faceoff,420,FACEOFF,Blake Lizotte faceoff won against Jesperi Kotkaniemi,2023-02-01T01:30:53Z,2,14:21,05:39,1,3,26.0,Los Angeles Kings,LAK
+183,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802421,2022020802,Giveaway,421,GIVEAWAY,Giveaway by Andrei Svechnikov,2023-02-01T01:31:12Z,2,14:40,05:20,1,3,12.0,Carolina Hurricanes,CAR
+184,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802270,2022020802,Missed Shot,270,MISSED_SHOT,Phillip Danault Wide of Net Frederik Andersen,2023-02-01T01:31:40Z,2,15:08,04:52,1,3,26.0,Los Angeles Kings,LAK
+185,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802312,2022020802,Stoppage,312,STOP,Referee or Linesman,2023-02-01T01:31:47Z,2,15:15,04:45,1,3,,,
+186,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802586,2022020802,Penalty,586,PENALTY,Teuvo Teravainen Tripping against Viktor Arvidsson,2023-02-01T01:31:47Z,2,15:15,04:45,1,3,12.0,Carolina Hurricanes,CAR
+187,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802422,2022020802,Faceoff,422,FACEOFF,Anze Kopitar faceoff won against Jordan Staal,2023-02-01T01:33:59Z,2,15:15,04:45,1,3,26.0,Los Angeles Kings,LAK
+188,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802271,2022020802,Goal,271,GOAL,"Anze Kopitar (16) Wrist Shot, assists: Jaret Anderson-Dolan (4), Drew Doughty (30)",2023-02-01T01:34:05Z,2,15:21,04:39,1,4,26.0,Los Angeles Kings,LAK
+189,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802423,2022020802,Faceoff,423,FACEOFF,Jordan Staal faceoff won against Anze Kopitar,2023-02-01T01:34:48Z,2,15:21,04:39,1,4,12.0,Carolina Hurricanes,CAR
+190,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802313,2022020802,Hit,313,HIT,Jordan Staal hit Quinton Byfield,2023-02-01T01:35:31Z,2,16:04,03:56,1,4,12.0,Carolina Hurricanes,CAR
+191,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802314,2022020802,Stoppage,314,STOP,Puck in Benches,2023-02-01T01:35:42Z,2,16:15,03:45,1,4,,,
+192,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802424,2022020802,Faceoff,424,FACEOFF,Rasmus Kupari faceoff won against Teuvo Teravainen,2023-02-01T01:36:14Z,2,16:15,03:45,1,4,26.0,Los Angeles Kings,LAK
+193,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802272,2022020802,Missed Shot,272,MISSED_SHOT,Teuvo Teravainen Wide of Net Pheonix Copley,2023-02-01T01:36:39Z,2,16:40,03:20,1,4,12.0,Carolina Hurricanes,CAR
+194,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802315,2022020802,Hit,315,HIT,Calvin de Haan hit Rasmus Kupari,2023-02-01T01:36:48Z,2,16:49,03:11,1,4,12.0,Carolina Hurricanes,CAR
+195,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802316,2022020802,Stoppage,316,STOP,Puck in Benches,2023-02-01T01:36:50Z,2,16:51,03:09,1,4,,,
+196,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802425,2022020802,Faceoff,425,FACEOFF,Jesperi Kotkaniemi faceoff won against Phillip Danault,2023-02-01T01:37:29Z,2,16:51,03:09,1,4,12.0,Carolina Hurricanes,CAR
+197,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802317,2022020802,Hit,317,HIT,Phillip Danault hit Andrei Svechnikov,2023-02-01T01:37:32Z,2,16:54,03:06,1,4,26.0,Los Angeles Kings,LAK
+198,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802273,2022020802,Shot,273,SHOT,Andrei Svechnikov Wrist Shot saved by Pheonix Copley,2023-02-01T01:37:40Z,2,17:02,02:58,1,4,12.0,Carolina Hurricanes,CAR
+199,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802318,2022020802,Stoppage,318,STOP,Goalie Stopped,2023-02-01T01:37:41Z,2,17:03,02:57,1,4,,,
+200,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802426,2022020802,Faceoff,426,FACEOFF,Alex Iafallo faceoff won against Martin Necas,2023-02-01T01:38:12Z,2,17:03,02:57,1,4,26.0,Los Angeles Kings,LAK
+201,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802319,2022020802,Stoppage,319,STOP,Puck in Netting,2023-02-01T01:38:41Z,2,17:32,02:28,1,4,,,
+202,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802428,2022020802,Faceoff,428,FACEOFF,Blake Lizotte faceoff won against Jesperi Kotkaniemi,2023-02-01T01:39:06Z,2,17:32,02:28,1,4,26.0,Los Angeles Kings,LAK
+203,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802320,2022020802,Stoppage,320,STOP,Icing,2023-02-01T01:39:29Z,2,17:56,02:04,1,4,,,
+204,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802429,2022020802,Faceoff,429,FACEOFF,Sebastian Aho faceoff won against Blake Lizotte,2023-02-01T01:39:51Z,2,17:56,02:04,1,4,12.0,Carolina Hurricanes,CAR
+205,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802274,2022020802,Shot,274,SHOT,Seth Jarvis Wrist Shot saved by Pheonix Copley,2023-02-01T01:39:52Z,2,17:57,02:03,1,4,12.0,Carolina Hurricanes,CAR
+206,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802321,2022020802,Stoppage,321,STOP,Goalie Stopped,2023-02-01T01:39:54Z,2,17:58,02:02,1,4,,,
+207,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802430,2022020802,Faceoff,430,FACEOFF,Sebastian Aho faceoff won against Anze Kopitar,2023-02-01T01:40:19Z,2,17:58,02:02,1,4,12.0,Carolina Hurricanes,CAR
+208,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802275,2022020802,Blocked Shot,275,BLOCKED_SHOT,Brent Burns shot blocked shot by Mikey Anderson,2023-02-01T01:40:23Z,2,18:02,01:58,1,4,26.0,Los Angeles Kings,LAK
+209,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802431,2022020802,Giveaway,431,GIVEAWAY,Giveaway by Brent Burns,2023-02-01T01:41:02Z,2,18:41,01:19,1,4,12.0,Carolina Hurricanes,CAR
+210,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802276,2022020802,Shot,276,SHOT,Viktor Arvidsson Wrist Shot saved by Frederik Andersen,2023-02-01T01:41:43Z,2,19:22,00:38,1,4,26.0,Los Angeles Kings,LAK
+211,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802322,2022020802,Stoppage,322,STOP,Icing,2023-02-01T01:41:49Z,2,19:28,00:32,1,4,,,
+212,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802432,2022020802,Faceoff,432,FACEOFF,Blake Lizotte faceoff won against Derek Stepan,2023-02-01T01:42:20Z,2,19:28,00:32,1,4,26.0,Los Angeles Kings,LAK
+213,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802277,2022020802,Period End,277,PERIOD_END,End of 2nd Period,2023-02-01T01:42:51Z,2,20:00,00:00,1,4,,,
+214,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802280,2022020802,Period Official,280,PERIOD_OFFICIAL,Period Official,2023-02-01T01:57:22Z,2,20:00,00:00,1,4,,,
+215,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802281,2022020802,Period Ready,281,PERIOD_READY,Period Ready,2023-02-01T02:00:46Z,3,00:00,20:00,1,4,,,
+216,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802433,2022020802,Period Start,433,PERIOD_START,Period Start,2023-02-01T02:01:33Z,3,00:00,20:00,1,4,,,
+217,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802434,2022020802,Faceoff,434,FACEOFF,Sebastian Aho faceoff won against Phillip Danault,2023-02-01T02:01:33Z,3,00:00,20:00,1,4,12.0,Carolina Hurricanes,CAR
+218,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802282,2022020802,Missed Shot,282,MISSED_SHOT,Viktor Arvidsson Wide of Net Frederik Andersen,2023-02-01T02:01:53Z,3,00:20,19:40,1,4,26.0,Los Angeles Kings,LAK
+219,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802283,2022020802,Missed Shot,283,MISSED_SHOT,Andrei Svechnikov Wide of Net Pheonix Copley,2023-02-01T02:02:38Z,3,01:05,18:55,1,4,12.0,Carolina Hurricanes,CAR
+220,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802284,2022020802,Missed Shot,284,MISSED_SHOT,Mikey Anderson Wide of Net Frederik Andersen,2023-02-01T02:04:04Z,3,02:31,17:29,1,4,26.0,Los Angeles Kings,LAK
+221,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802323,2022020802,Hit,323,HIT,Alex Turcotte hit Jordan Staal,2023-02-01T02:04:07Z,3,02:34,17:26,1,4,26.0,Los Angeles Kings,LAK
+222,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802285,2022020802,Blocked Shot,285,BLOCKED_SHOT,Alex Turcotte shot blocked shot by Jordan Staal,2023-02-01T02:04:11Z,3,02:38,17:22,1,4,12.0,Carolina Hurricanes,CAR
+223,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802324,2022020802,Hit,324,HIT,Brendan Lemieux hit Jordan Martinook,2023-02-01T02:04:22Z,3,02:49,17:11,1,4,26.0,Los Angeles Kings,LAK
+224,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802294,2022020802,Missed Shot,294,MISSED_SHOT,Calvin de Haan Wide of Net Pheonix Copley,2023-02-01T02:04:37Z,3,03:04,16:56,1,4,12.0,Carolina Hurricanes,CAR
+225,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802296,2022020802,Missed Shot,296,MISSED_SHOT,Derek Stepan Wide of Net Pheonix Copley,2023-02-01T02:04:45Z,3,03:12,16:48,1,4,12.0,Carolina Hurricanes,CAR
+226,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802287,2022020802,Blocked Shot,287,BLOCKED_SHOT,Dylan Coghlan shot blocked shot by Alex Iafallo,2023-02-01T02:04:48Z,3,03:15,16:45,1,4,26.0,Los Angeles Kings,LAK
+227,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802289,2022020802,Shot,289,SHOT,Derek Stepan Wrist Shot saved by Pheonix Copley,2023-02-01T02:04:59Z,3,03:26,16:34,1,4,12.0,Carolina Hurricanes,CAR
+228,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802288,2022020802,Goal,288,GOAL,"Paul Stastny (5) Wrist Shot, assists: Derek Stepan (3), Jesperi Kotkaniemi (11)",2023-02-01T02:04:59Z,3,03:27,16:33,2,4,12.0,Carolina Hurricanes,CAR
+229,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802435,2022020802,Faceoff,435,FACEOFF,Blake Lizotte faceoff won against Sebastian Aho,2023-02-01T02:05:34Z,3,03:27,16:33,2,4,26.0,Los Angeles Kings,LAK
+230,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802436,2022020802,Giveaway,436,GIVEAWAY,Giveaway by Calvin de Haan,2023-02-01T02:06:03Z,3,03:56,16:04,2,4,12.0,Carolina Hurricanes,CAR
+231,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802437,2022020802,Giveaway,437,GIVEAWAY,Giveaway by Brady Skjei,2023-02-01T02:06:22Z,3,04:15,15:45,2,4,12.0,Carolina Hurricanes,CAR
+232,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802290,2022020802,Shot,290,SHOT,Adrian Kempe Wrist Shot saved by Frederik Andersen,2023-02-01T02:06:24Z,3,04:17,15:43,2,4,26.0,Los Angeles Kings,LAK
+233,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802438,2022020802,Takeaway,438,TAKEAWAY,Takeaway by Alex Iafallo,2023-02-01T02:06:56Z,3,04:49,15:11,2,4,26.0,Los Angeles Kings,LAK
+234,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802291,2022020802,Shot,291,SHOT,Phillip Danault Wrist Shot saved by Frederik Andersen,2023-02-01T02:07:03Z,3,04:56,15:04,2,4,26.0,Los Angeles Kings,LAK
+235,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802325,2022020802,Stoppage,325,STOP,Goalie Stopped,2023-02-01T02:07:03Z,3,04:57,15:03,2,4,,,
+236,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802439,2022020802,Faceoff,439,FACEOFF,Jordan Staal faceoff won against Phillip Danault,2023-02-01T02:07:38Z,3,04:57,15:03,2,4,12.0,Carolina Hurricanes,CAR
+237,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802292,2022020802,Missed Shot,292,MISSED_SHOT,Brent Burns Wide of Net Pheonix Copley,2023-02-01T02:08:04Z,3,05:23,14:37,2,4,12.0,Carolina Hurricanes,CAR
+238,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802293,2022020802,Missed Shot,293,MISSED_SHOT,Brent Burns Wide of Net Pheonix Copley,2023-02-01T02:08:24Z,3,05:43,14:17,2,4,12.0,Carolina Hurricanes,CAR
+239,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802440,2022020802,Giveaway,440,GIVEAWAY,Giveaway by Jalen Chatfield,2023-02-01T02:08:30Z,3,05:49,14:11,2,4,12.0,Carolina Hurricanes,CAR
+240,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802295,2022020802,Missed Shot,295,MISSED_SHOT,Brady Skjei Wide of Net Pheonix Copley,2023-02-01T02:09:08Z,3,06:27,13:33,2,4,12.0,Carolina Hurricanes,CAR
+241,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802326,2022020802,Stoppage,326,STOP,Puck in Benches,2023-02-01T02:10:10Z,3,07:28,12:32,2,4,,,
+242,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802441,2022020802,Faceoff,441,FACEOFF,Teuvo Teravainen faceoff won against Blake Lizotte,2023-02-01T02:12:23Z,3,07:28,12:32,2,4,12.0,Carolina Hurricanes,CAR
+243,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802297,2022020802,Shot,297,SHOT,Blake Lizotte Wrist Shot saved by Frederik Andersen,2023-02-01T02:12:54Z,3,07:59,12:01,2,4,26.0,Los Angeles Kings,LAK
+244,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802327,2022020802,Hit,327,HIT,Andrei Svechnikov hit Blake Lizotte,2023-02-01T02:12:55Z,3,08:00,12:00,2,4,12.0,Carolina Hurricanes,CAR
+245,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802328,2022020802,Hit,328,HIT,Andrei Svechnikov hit Kevin Fiala,2023-02-01T02:13:12Z,3,08:17,11:43,2,4,12.0,Carolina Hurricanes,CAR
+246,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802442,2022020802,Takeaway,442,TAKEAWAY,Takeaway by Teuvo Teravainen,2023-02-01T02:13:23Z,3,08:28,11:32,2,4,12.0,Carolina Hurricanes,CAR
+247,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802443,2022020802,Giveaway,443,GIVEAWAY,Giveaway by Teuvo Teravainen,2023-02-01T02:13:25Z,3,08:30,11:30,2,4,12.0,Carolina Hurricanes,CAR
+248,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802298,2022020802,Blocked Shot,298,BLOCKED_SHOT,Viktor Arvidsson shot blocked shot by Brent Burns,2023-02-01T02:13:29Z,3,08:34,11:26,2,4,12.0,Carolina Hurricanes,CAR
+249,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802329,2022020802,Hit,329,HIT,Sean Durzi hit Martin Necas,2023-02-01T02:13:43Z,3,08:48,11:12,2,4,26.0,Los Angeles Kings,LAK
+250,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802299,2022020802,Blocked Shot,299,BLOCKED_SHOT,Jalen Chatfield shot blocked shot by Sean Durzi,2023-02-01T02:13:51Z,3,08:56,11:04,2,4,26.0,Los Angeles Kings,LAK
+251,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802330,2022020802,Stoppage,330,STOP,Puck in Netting,2023-02-01T02:13:51Z,3,08:57,11:03,2,4,,,
+252,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802444,2022020802,Faceoff,444,FACEOFF,Anze Kopitar faceoff won against Jordan Staal,2023-02-01T02:14:18Z,3,08:57,11:03,2,4,26.0,Los Angeles Kings,LAK
+253,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802300,2022020802,Blocked Shot,300,BLOCKED_SHOT,Brett Pesce shot blocked shot by Anze Kopitar,2023-02-01T02:15:07Z,3,09:46,10:14,2,4,26.0,Los Angeles Kings,LAK
+254,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802701,2022020802,Goal,701,GOAL,"Jordan Staal (14) Tip-In, assists: Brett Pesce (17), Jesper Fast (13)",2023-02-01T02:15:15Z,3,09:54,10:06,3,4,12.0,Carolina Hurricanes,CAR
+255,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802445,2022020802,Faceoff,445,FACEOFF,Blake Lizotte faceoff won against Teuvo Teravainen,2023-02-01T02:16:06Z,3,09:54,10:06,3,4,26.0,Los Angeles Kings,LAK
+256,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802331,2022020802,Giveaway,331,GIVEAWAY,Giveaway by Kevin Fiala,2023-02-01T02:16:30Z,3,10:18,09:42,3,4,26.0,Los Angeles Kings,LAK
+257,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802332,2022020802,Takeaway,332,TAKEAWAY,Takeaway by Teuvo Teravainen,2023-02-01T02:16:43Z,3,10:31,09:29,3,4,12.0,Carolina Hurricanes,CAR
+258,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802446,2022020802,Takeaway,446,TAKEAWAY,Takeaway by Anze Kopitar,2023-02-01T02:17:56Z,3,11:44,08:16,3,4,26.0,Los Angeles Kings,LAK
+259,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802702,2022020802,Blocked Shot,702,BLOCKED_SHOT,Brady Skjei shot blocked shot by Anze Kopitar,2023-02-01T02:18:01Z,3,11:49,08:11,3,4,26.0,Los Angeles Kings,LAK
+260,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802333,2022020802,Stoppage,333,STOP,Referee or Linesman,2023-02-01T02:18:23Z,3,12:10,07:50,3,4,,,
+261,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802862,2022020802,Penalty,862,PENALTY,Quinton Byfield Delaying Game - Puck over glass,2023-02-01T02:18:23Z,3,12:10,07:50,3,4,26.0,Los Angeles Kings,LAK
+262,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802447,2022020802,Faceoff,447,FACEOFF,Sebastian Aho faceoff won against Phillip Danault,2023-02-01T02:20:49Z,3,12:10,07:50,3,4,12.0,Carolina Hurricanes,CAR
+263,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802703,2022020802,Missed Shot,703,MISSED_SHOT,Brady Skjei Wide of Net Pheonix Copley,2023-02-01T02:20:52Z,3,12:13,07:47,3,4,12.0,Carolina Hurricanes,CAR
+264,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802334,2022020802,Stoppage,334,STOP,Referee or Linesman,2023-02-01T02:21:09Z,3,12:31,07:29,3,4,,,
+265,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802704,2022020802,Goal,704,GOAL,"Teuvo Teravainen (5) Slap Shot, assists: Brady Skjei (13), Andrei Svechnikov (22)",2023-02-01T02:21:09Z,3,12:31,07:29,4,4,12.0,Carolina Hurricanes,CAR
+266,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802448,2022020802,Faceoff,448,FACEOFF,Sebastian Aho faceoff won against Phillip Danault,2023-02-01T02:22:41Z,3,12:31,07:29,4,4,12.0,Carolina Hurricanes,CAR
+267,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802449,2022020802,Giveaway,449,GIVEAWAY,Giveaway by Jalen Chatfield,2023-02-01T02:23:23Z,3,13:13,06:47,4,4,12.0,Carolina Hurricanes,CAR
+268,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802450,2022020802,Takeaway,450,TAKEAWAY,Takeaway by Quinton Byfield,2023-02-01T02:23:47Z,3,13:37,06:23,4,4,26.0,Los Angeles Kings,LAK
+269,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802651,2022020802,Takeaway,651,TAKEAWAY,Takeaway by Quinton Byfield,2023-02-01T02:24:09Z,3,13:59,06:01,4,4,26.0,Los Angeles Kings,LAK
+270,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802335,2022020802,Hit,335,HIT,Jordan Martinook hit Sean Durzi,2023-02-01T02:24:22Z,3,14:12,05:48,4,4,12.0,Carolina Hurricanes,CAR
+271,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802336,2022020802,Hit,336,HIT,Alexander Edler hit Jesper Fast,2023-02-01T02:24:40Z,3,14:30,05:30,4,4,26.0,Los Angeles Kings,LAK
+272,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802652,2022020802,Takeaway,652,TAKEAWAY,Takeaway by Brett Pesce,2023-02-01T02:24:41Z,3,14:31,05:29,4,4,12.0,Carolina Hurricanes,CAR
+273,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802337,2022020802,Hit,337,HIT,Calvin de Haan hit Blake Lizotte,2023-02-01T02:24:52Z,3,14:42,05:18,4,4,12.0,Carolina Hurricanes,CAR
+274,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802653,2022020802,Takeaway,653,TAKEAWAY,Takeaway by Andrei Svechnikov,2023-02-01T02:25:25Z,3,15:15,04:45,4,4,12.0,Carolina Hurricanes,CAR
+275,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802654,2022020802,Takeaway,654,TAKEAWAY,Takeaway by Martin Necas,2023-02-01T02:25:39Z,3,15:29,04:31,4,4,12.0,Carolina Hurricanes,CAR
+276,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802655,2022020802,Takeaway,655,TAKEAWAY,Takeaway by Jalen Chatfield,2023-02-01T02:26:05Z,3,15:55,04:05,4,4,12.0,Carolina Hurricanes,CAR
+277,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802710,2022020802,Blocked Shot,710,BLOCKED_SHOT,Jordan Staal shot blocked shot by Matt Roy,2023-02-01T02:26:25Z,3,16:15,03:45,4,4,26.0,Los Angeles Kings,LAK
+278,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802338,2022020802,Hit,338,HIT,Matt Roy hit Jesper Fast,2023-02-01T02:26:46Z,3,16:36,03:24,4,4,26.0,Los Angeles Kings,LAK
+279,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802706,2022020802,Blocked Shot,706,BLOCKED_SHOT,Brady Skjei shot blocked shot by Adrian Kempe,2023-02-01T02:26:58Z,3,16:48,03:12,4,4,26.0,Los Angeles Kings,LAK
+280,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802707,2022020802,Shot,707,SHOT,Jaret Anderson-Dolan Wrist Shot saved by Frederik Andersen,2023-02-01T02:27:23Z,3,17:13,02:47,4,4,26.0,Los Angeles Kings,LAK
+281,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802708,2022020802,Blocked Shot,708,BLOCKED_SHOT,Brett Pesce shot blocked shot by Blake Lizotte,2023-02-01T02:27:47Z,3,17:37,02:23,4,4,26.0,Los Angeles Kings,LAK
+282,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802709,2022020802,Shot,709,SHOT,Andrei Svechnikov Wrist Shot saved by Pheonix Copley,2023-02-01T02:27:56Z,3,17:45,02:15,4,4,12.0,Carolina Hurricanes,CAR
+283,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802339,2022020802,Stoppage,339,STOP,Goalie Stopped,2023-02-01T02:27:56Z,3,17:46,02:14,4,4,,,
+284,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802656,2022020802,Faceoff,656,FACEOFF,Sebastian Aho faceoff won against Phillip Danault,2023-02-01T02:30:11Z,3,17:46,02:14,4,4,12.0,Carolina Hurricanes,CAR
+285,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802711,2022020802,Shot,711,SHOT,Brady Skjei Slap Shot saved by Pheonix Copley,2023-02-01T02:30:13Z,3,17:48,02:12,4,4,12.0,Carolina Hurricanes,CAR
+286,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802340,2022020802,Stoppage,340,STOP,Goalie Stopped,2023-02-01T02:30:15Z,3,17:49,02:11,4,4,,,
+287,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802657,2022020802,Faceoff,657,FACEOFF,Phillip Danault faceoff won against Sebastian Aho,2023-02-01T02:30:30Z,3,17:49,02:11,4,4,26.0,Los Angeles Kings,LAK
+288,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802342,2022020802,Giveaway,342,GIVEAWAY,Giveaway by Mikey Anderson,2023-02-01T02:30:32Z,3,17:51,02:09,4,4,26.0,Los Angeles Kings,LAK
+289,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802712,2022020802,Shot,712,SHOT,Sebastian Aho Wrist Shot saved by Pheonix Copley,2023-02-01T02:30:39Z,3,17:58,02:02,4,4,12.0,Carolina Hurricanes,CAR
+290,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802341,2022020802,Stoppage,341,STOP,Goalie Stopped,2023-02-01T02:30:41Z,3,18:00,02:00,4,4,,,
+291,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802658,2022020802,Faceoff,658,FACEOFF,Jordan Staal faceoff won against Anze Kopitar,2023-02-01T02:31:09Z,3,18:00,02:00,4,4,12.0,Carolina Hurricanes,CAR
+292,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802713,2022020802,Shot,713,SHOT,Jesper Fast Tip-In saved by Pheonix Copley,2023-02-01T02:31:14Z,3,18:05,01:55,4,4,12.0,Carolina Hurricanes,CAR
+293,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802343,2022020802,Hit,343,HIT,Anze Kopitar hit Jordan Staal,2023-02-01T02:31:26Z,3,18:17,01:43,4,4,26.0,Los Angeles Kings,LAK
+294,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802715,2022020802,Shot,715,SHOT,Brent Burns Slap Shot saved by Pheonix Copley,2023-02-01T02:32:09Z,3,19:00,01:00,4,4,12.0,Carolina Hurricanes,CAR
+295,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802659,2022020802,Takeaway,659,TAKEAWAY,Takeaway by Sebastian Aho,2023-02-01T02:32:41Z,3,19:32,00:28,4,4,12.0,Carolina Hurricanes,CAR
+296,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802344,2022020802,Stoppage,344,STOP,Icing,2023-02-01T02:32:51Z,3,19:41,00:19,4,4,,,
+297,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802660,2022020802,Faceoff,660,FACEOFF,Sebastian Aho faceoff won against Phillip Danault,2023-02-01T02:33:18Z,3,19:41,00:19,4,4,12.0,Carolina Hurricanes,CAR
+298,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802345,2022020802,Stoppage,345,STOP,Puck Frozen,2023-02-01T02:33:34Z,3,19:57,00:03,4,4,,,
+299,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802661,2022020802,Faceoff,661,FACEOFF,Anze Kopitar faceoff won against Jordan Staal,2023-02-01T02:34:17Z,3,19:57,00:03,4,4,26.0,Los Angeles Kings,LAK
+300,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802716,2022020802,Missed Shot,716,MISSED_SHOT,Anze Kopitar Wide of Net Frederik Andersen,2023-02-01T02:34:18Z,3,19:59,00:01,4,4,26.0,Los Angeles Kings,LAK
+301,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802717,2022020802,Period End,717,PERIOD_END,End of 3rd Period,2023-02-01T02:34:19Z,3,20:00,00:00,4,4,,,
+302,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802720,2022020802,Period Official,720,PERIOD_OFFICIAL,Period Official,2023-02-01T02:36:12Z,3,20:00,00:00,4,4,,,
+303,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802721,2022020802,Period Ready,721,PERIOD_READY,Period Ready,2023-02-01T02:36:25Z,4,00:00,05:00,4,4,,,
+304,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802662,2022020802,Period Start,662,PERIOD_START,Period Start,2023-02-01T02:36:30Z,4,00:00,05:00,4,4,,,
+305,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802663,2022020802,Faceoff,663,FACEOFF,Jordan Staal faceoff won against Anze Kopitar,2023-02-01T02:36:30Z,4,00:00,05:00,4,4,12.0,Carolina Hurricanes,CAR
+306,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802722,2022020802,Missed Shot,722,MISSED_SHOT,Sebastian Aho Wide of Net Pheonix Copley,2023-02-01T02:37:03Z,4,00:33,04:27,4,4,12.0,Carolina Hurricanes,CAR
+307,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802346,2022020802,Stoppage,346,STOP,Offside,2023-02-01T02:37:17Z,4,00:47,04:13,4,4,,,
+308,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802664,2022020802,Faceoff,664,FACEOFF,Jordan Staal faceoff won against Phillip Danault,2023-02-01T02:37:49Z,4,00:47,04:13,4,4,12.0,Carolina Hurricanes,CAR
+309,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802665,2022020802,Takeaway,665,TAKEAWAY,Takeaway by Alex Iafallo,2023-02-01T02:39:11Z,4,02:09,02:51,4,4,26.0,Los Angeles Kings,LAK
+310,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802723,2022020802,Blocked Shot,723,BLOCKED_SHOT,Alex Iafallo shot blocked shot by Brent Burns,2023-02-01T02:39:12Z,4,02:10,02:50,4,4,12.0,Carolina Hurricanes,CAR
+311,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802347,2022020802,Stoppage,347,STOP,Puck in Netting,2023-02-01T02:39:12Z,4,02:11,02:49,4,4,,,
+312,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802666,2022020802,Faceoff,666,FACEOFF,Jordan Staal faceoff won against Anze Kopitar,2023-02-01T02:39:49Z,4,02:11,02:49,4,4,12.0,Carolina Hurricanes,CAR
+313,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802724,2022020802,Shot,724,SHOT,Sebastian Aho Wrist Shot saved by Pheonix Copley,2023-02-01T02:40:04Z,4,02:26,02:34,4,4,12.0,Carolina Hurricanes,CAR
+314,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802725,2022020802,Shot,725,SHOT,Brady Skjei Backhand saved by Pheonix Copley,2023-02-01T02:40:05Z,4,02:27,02:33,4,4,12.0,Carolina Hurricanes,CAR
+315,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802348,2022020802,Stoppage,348,STOP,Goalie Stopped,2023-02-01T02:40:05Z,4,02:28,02:32,4,4,,,
+316,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802667,2022020802,Faceoff,667,FACEOFF,Teuvo Teravainen faceoff won against Anze Kopitar,2023-02-01T02:41:09Z,4,02:28,02:32,4,4,12.0,Carolina Hurricanes,CAR
+317,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802726,2022020802,Shot,726,SHOT,Andrei Svechnikov Snap Shot saved by Pheonix Copley,2023-02-01T02:41:14Z,4,02:33,02:27,4,4,12.0,Carolina Hurricanes,CAR
+318,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802727,2022020802,Shot,727,SHOT,Kevin Fiala Wrist Shot saved by Frederik Andersen,2023-02-01T02:41:33Z,4,02:52,02:08,4,4,26.0,Los Angeles Kings,LAK
+319,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802349,2022020802,Stoppage,349,STOP,Referee or Linesman,2023-02-01T02:41:55Z,4,03:14,01:46,4,4,,,
+320,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802955,2022020802,Penalty,955,PENALTY,Drew Doughty Tripping against Andrei Svechnikov,2023-02-01T02:41:55Z,4,03:14,01:46,4,4,26.0,Los Angeles Kings,LAK
+321,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802670,2022020802,Faceoff,670,FACEOFF,Phillip Danault faceoff won against Sebastian Aho,2023-02-01T02:43:18Z,4,03:14,01:46,4,4,26.0,Los Angeles Kings,LAK
+322,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802728,2022020802,Missed Shot,728,MISSED_SHOT,Martin Necas Wide of Net Pheonix Copley,2023-02-01T02:43:45Z,4,03:41,01:19,4,4,12.0,Carolina Hurricanes,CAR
+323,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802729,2022020802,Blocked Shot,729,BLOCKED_SHOT,Martin Necas shot blocked shot by Phillip Danault,2023-02-01T02:44:04Z,4,04:00,01:00,4,4,26.0,Los Angeles Kings,LAK
+324,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802730,2022020802,Goal,730,GOAL,"Sebastian Aho (22) Snap Shot, assists: Brent Burns (27), Martin Necas (25)",2023-02-01T02:44:12Z,4,04:06,00:54,5,4,12.0,Carolina Hurricanes,CAR
+325,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802731,2022020802,Period End,731,PERIOD_END,End of OT,2023-02-01T02:44:12Z,4,04:06,00:54,5,4,,,
+326,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802734,2022020802,Period Official,734,PERIOD_OFFICIAL,Period Official,2023-02-01T02:44:30Z,4,04:06,00:54,5,4,,,
+327,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802735,2022020802,Game End,735,GAME_END,Game End,2023-02-01T02:46:05Z,4,04:06,00:54,5,4,,,
+328,12,26,Carolina Hurricanes,Los Angeles Kings,2022020802736,2022020802,Game Official,736,GAME_OFFICIAL,Game Official,2023-02-01T02:50:52Z,4,04:06,00:54,5,4,,,

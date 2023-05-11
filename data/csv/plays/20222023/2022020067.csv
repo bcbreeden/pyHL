@@ -1,0 +1,296 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,30,23,Minnesota Wild,Vancouver Canucks,20220200671,2022020067,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-10-20T23:19:25Z,1,00:00,20:00,0,0,,,
+1,30,23,Minnesota Wild,Vancouver Canucks,202202006752,2022020067,Period Ready,52,PERIOD_READY,Period Ready,2022-10-21T00:07:35Z,1,00:00,20:00,0,0,,,
+2,30,23,Minnesota Wild,Vancouver Canucks,202202006755,2022020067,Period Start,55,PERIOD_START,Period Start,2022-10-21T00:08:19Z,1,00:00,20:00,0,0,,,
+3,30,23,Minnesota Wild,Vancouver Canucks,202202006756,2022020067,Faceoff,56,FACEOFF,Ryan Hartman faceoff won against Bo Horvat,2022-10-21T00:08:19Z,1,00:00,20:00,0,0,30.0,Minnesota Wild,MIN
+4,30,23,Minnesota Wild,Vancouver Canucks,202202006757,2022020067,Shot,57,SHOT,Mats Zuccarello Snap Shot saved by Thatcher Demko,2022-10-21T00:08:51Z,1,00:32,19:28,0,0,30.0,Minnesota Wild,MIN
+5,30,23,Minnesota Wild,Vancouver Canucks,2022020067151,2022020067,Stoppage,151,STOP,Puck in Netting,2022-10-21T00:08:53Z,1,00:33,19:27,0,0,,,
+6,30,23,Minnesota Wild,Vancouver Canucks,202202006758,2022020067,Faceoff,58,FACEOFF,Frederick Gaudreau faceoff won against Elias Pettersson,2022-10-21T00:09:26Z,1,00:33,19:27,0,0,30.0,Minnesota Wild,MIN
+7,30,23,Minnesota Wild,Vancouver Canucks,2022020067107,2022020067,Penalty,107,PENALTY,Luke Schenn Cross-checking against Frederick Gaudreau,2022-10-21T00:09:31Z,1,00:39,19:21,0,0,23.0,Vancouver Canucks,VAN
+8,30,23,Minnesota Wild,Vancouver Canucks,202202006759,2022020067,Faceoff,59,FACEOFF,Bo Horvat faceoff won against Joel Eriksson Ek,2022-10-21T00:10:05Z,1,00:39,19:21,0,0,23.0,Vancouver Canucks,VAN
+9,30,23,Minnesota Wild,Vancouver Canucks,2022020067201,2022020067,Takeaway,201,TAKEAWAY,Takeaway by Oliver Ekman-Larsson,2022-10-21T00:10:18Z,1,00:52,19:08,0,0,23.0,Vancouver Canucks,VAN
+10,30,23,Minnesota Wild,Vancouver Canucks,202202006760,2022020067,Shot,60,SHOT,Kirill Kaprizov Tip-In saved by Thatcher Demko,2022-10-21T00:10:50Z,1,01:24,18:36,0,0,30.0,Minnesota Wild,MIN
+11,30,23,Minnesota Wild,Vancouver Canucks,202202006761,2022020067,Shot,61,SHOT,Mats Zuccarello Wrist Shot saved by Thatcher Demko,2022-10-21T00:11:01Z,1,01:35,18:25,0,0,30.0,Minnesota Wild,MIN
+12,30,23,Minnesota Wild,Vancouver Canucks,2022020067153,2022020067,Blocked Shot,153,BLOCKED_SHOT,Calen Addison shot blocked shot by J.T. Miller,2022-10-21T00:11:15Z,1,01:49,18:11,0,0,23.0,Vancouver Canucks,VAN
+13,30,23,Minnesota Wild,Vancouver Canucks,202202006762,2022020067,Blocked Shot,62,BLOCKED_SHOT,J.T. Miller shot blocked shot by Calen Addison,2022-10-21T00:11:37Z,1,02:11,17:49,0,0,30.0,Minnesota Wild,MIN
+14,30,23,Minnesota Wild,Vancouver Canucks,2022020067202,2022020067,Giveaway,202,GIVEAWAY,Giveaway by Marc-Andre Fleury,2022-10-21T00:11:38Z,1,02:12,17:48,0,0,30.0,Minnesota Wild,MIN
+15,30,23,Minnesota Wild,Vancouver Canucks,2022020067154,2022020067,Blocked Shot,154,BLOCKED_SHOT,Marco Rossi shot blocked shot by Kyle Burroughs,2022-10-21T00:12:02Z,1,02:36,17:24,0,0,23.0,Vancouver Canucks,VAN
+16,30,23,Minnesota Wild,Vancouver Canucks,202202006763,2022020067,Shot,63,SHOT,Marcus Foligno Tip-In saved by Thatcher Demko,2022-10-21T00:12:13Z,1,02:47,17:13,0,0,30.0,Minnesota Wild,MIN
+17,30,23,Minnesota Wild,Vancouver Canucks,2022020067204,2022020067,Hit,204,HIT,Brandon Duhaime hit Riley Stillman,2022-10-21T00:12:41Z,1,03:15,16:45,0,0,30.0,Minnesota Wild,MIN
+18,30,23,Minnesota Wild,Vancouver Canucks,2022020067203,2022020067,Takeaway,203,TAKEAWAY,Takeaway by Riley Stillman,2022-10-21T00:12:42Z,1,03:16,16:44,0,0,23.0,Vancouver Canucks,VAN
+19,30,23,Minnesota Wild,Vancouver Canucks,2022020067352,2022020067,Blocked Shot,352,BLOCKED_SHOT,Brandon Duhaime shot blocked shot by Elias Pettersson,2022-10-21T00:13:03Z,1,03:37,16:23,0,0,23.0,Vancouver Canucks,VAN
+20,30,23,Minnesota Wild,Vancouver Canucks,2022020067205,2022020067,Hit,205,HIT,J.T. Miller hit Jake Middleton,2022-10-21T00:13:33Z,1,04:07,15:53,0,0,23.0,Vancouver Canucks,VAN
+21,30,23,Minnesota Wild,Vancouver Canucks,2022020067206,2022020067,Hit,206,HIT,Jordan Greenway hit Tyler Myers,2022-10-21T00:13:41Z,1,04:15,15:45,0,0,30.0,Minnesota Wild,MIN
+22,30,23,Minnesota Wild,Vancouver Canucks,202202006764,2022020067,Shot,64,SHOT,Jared Spurgeon Wrist Shot saved by Thatcher Demko,2022-10-21T00:13:48Z,1,04:22,15:38,0,0,30.0,Minnesota Wild,MIN
+23,30,23,Minnesota Wild,Vancouver Canucks,2022020067155,2022020067,Stoppage,155,STOP,Goalie Stopped,2022-10-21T00:13:50Z,1,04:24,15:36,0,0,,,
+24,30,23,Minnesota Wild,Vancouver Canucks,202202006765,2022020067,Faceoff,65,FACEOFF,Ryan Hartman faceoff won against Bo Horvat,2022-10-21T00:14:29Z,1,04:24,15:36,0,0,30.0,Minnesota Wild,MIN
+25,30,23,Minnesota Wild,Vancouver Canucks,202202006766,2022020067,Missed Shot,66,MISSED_SHOT,Jared Spurgeon Wide of Net Thatcher Demko,2022-10-21T00:14:37Z,1,04:32,15:28,0,0,30.0,Minnesota Wild,MIN
+26,30,23,Minnesota Wild,Vancouver Canucks,202202006767,2022020067,Goal,67,GOAL,"Mats Zuccarello (3) Wrist Shot, assists: Ryan Hartman (2), Jake Middleton (2)",2022-10-21T00:14:42Z,1,04:37,15:23,1,0,30.0,Minnesota Wild,MIN
+27,30,23,Minnesota Wild,Vancouver Canucks,202202006768,2022020067,Faceoff,68,FACEOFF,Ryan Hartman faceoff won against Bo Horvat,2022-10-21T00:15:20Z,1,04:37,15:23,1,0,30.0,Minnesota Wild,MIN
+28,30,23,Minnesota Wild,Vancouver Canucks,2022020067207,2022020067,Takeaway,207,TAKEAWAY,Takeaway by Kirill Kaprizov,2022-10-21T00:15:49Z,1,05:06,14:54,1,0,30.0,Minnesota Wild,MIN
+29,30,23,Minnesota Wild,Vancouver Canucks,2022020067208,2022020067,Takeaway,208,TAKEAWAY,Takeaway by Marco Rossi,2022-10-21T00:16:22Z,1,05:39,14:21,1,0,30.0,Minnesota Wild,MIN
+30,30,23,Minnesota Wild,Vancouver Canucks,202202006769,2022020067,Shot,69,SHOT,Calen Addison Slap Shot saved by Thatcher Demko,2022-10-21T00:16:31Z,1,05:48,14:12,1,0,30.0,Minnesota Wild,MIN
+31,30,23,Minnesota Wild,Vancouver Canucks,202202006770,2022020067,Shot,70,SHOT,Frederick Gaudreau Snap Shot saved by Thatcher Demko,2022-10-21T00:16:38Z,1,05:55,14:05,1,0,30.0,Minnesota Wild,MIN
+32,30,23,Minnesota Wild,Vancouver Canucks,2022020067209,2022020067,Hit,209,HIT,Riley Stillman hit Frederick Gaudreau,2022-10-21T00:17:04Z,1,06:21,13:39,1,0,23.0,Vancouver Canucks,VAN
+33,30,23,Minnesota Wild,Vancouver Canucks,2022020067210,2022020067,Hit,210,HIT,Elias Pettersson hit Joel Eriksson Ek,2022-10-21T00:17:40Z,1,06:57,13:03,1,0,23.0,Vancouver Canucks,VAN
+34,30,23,Minnesota Wild,Vancouver Canucks,2022020067156,2022020067,Stoppage,156,STOP,Offside,2022-10-21T00:17:41Z,1,06:58,13:02,1,0,,,
+35,30,23,Minnesota Wild,Vancouver Canucks,202202006771,2022020067,Faceoff,71,FACEOFF,Sam Steel faceoff won against Elias Pettersson,2022-10-21T00:20:00Z,1,06:58,13:02,1,0,30.0,Minnesota Wild,MIN
+36,30,23,Minnesota Wild,Vancouver Canucks,2022020067351,2022020067,Shot,351,SHOT,Sam Steel Wrist Shot saved by Thatcher Demko,2022-10-21T00:20:05Z,1,07:03,12:57,1,0,30.0,Minnesota Wild,MIN
+37,30,23,Minnesota Wild,Vancouver Canucks,2022020067157,2022020067,Shot,157,SHOT,Elias Pettersson Wrist Shot saved by Marc-Andre Fleury,2022-10-21T00:20:26Z,1,07:24,12:36,1,0,23.0,Vancouver Canucks,VAN
+38,30,23,Minnesota Wild,Vancouver Canucks,202202006772,2022020067,Blocked Shot,72,BLOCKED_SHOT,Vasily Podkolzin shot blocked shot by Sam Steel,2022-10-21T00:20:34Z,1,07:32,12:28,1,0,30.0,Minnesota Wild,MIN
+39,30,23,Minnesota Wild,Vancouver Canucks,2022020067158,2022020067,Shot,158,SHOT,Andrei Kuzmenko Wrist Shot saved by Marc-Andre Fleury,2022-10-21T00:20:36Z,1,07:34,12:26,1,0,23.0,Vancouver Canucks,VAN
+40,30,23,Minnesota Wild,Vancouver Canucks,2022020067159,2022020067,Stoppage,159,STOP,Goalie Stopped,2022-10-21T00:20:37Z,1,07:35,12:25,1,0,,,
+41,30,23,Minnesota Wild,Vancouver Canucks,202202006773,2022020067,Faceoff,73,FACEOFF,Bo Horvat faceoff won against Ryan Hartman,2022-10-21T00:21:18Z,1,07:35,12:25,1,0,23.0,Vancouver Canucks,VAN
+42,30,23,Minnesota Wild,Vancouver Canucks,2022020067160,2022020067,Missed Shot,160,MISSED_SHOT,Brock Boeser Wide of Net Marc-Andre Fleury,2022-10-21T00:21:22Z,1,07:39,12:21,1,0,23.0,Vancouver Canucks,VAN
+43,30,23,Minnesota Wild,Vancouver Canucks,202202006774,2022020067,Blocked Shot,74,BLOCKED_SHOT,Oliver Ekman-Larsson shot blocked shot by Matt Dumba,2022-10-21T00:21:24Z,1,07:41,12:19,1,0,30.0,Minnesota Wild,MIN
+44,30,23,Minnesota Wild,Vancouver Canucks,2022020067161,2022020067,Goal,161,GOAL,"Bo Horvat (4) Tip-In, assists: Tanner Pearson (3), Brock Boeser (4)",2022-10-21T00:21:42Z,1,07:58,12:02,1,1,23.0,Vancouver Canucks,VAN
+45,30,23,Minnesota Wild,Vancouver Canucks,202202006775,2022020067,Faceoff,75,FACEOFF,Marco Rossi faceoff won against Nils Aman,2022-10-21T00:22:26Z,1,07:58,12:02,1,1,30.0,Minnesota Wild,MIN
+46,30,23,Minnesota Wild,Vancouver Canucks,2022020067162,2022020067,Stoppage,162,STOP,Icing,2022-10-21T00:22:54Z,1,08:26,11:34,1,1,,,
+47,30,23,Minnesota Wild,Vancouver Canucks,202202006776,2022020067,Faceoff,76,FACEOFF,Ryan Hartman faceoff won against Nils Aman,2022-10-21T00:23:31Z,1,08:26,11:34,1,1,30.0,Minnesota Wild,MIN
+48,30,23,Minnesota Wild,Vancouver Canucks,2022020067211,2022020067,Takeaway,211,TAKEAWAY,Takeaway by Tyler Myers,2022-10-21T00:23:37Z,1,08:32,11:28,1,1,23.0,Vancouver Canucks,VAN
+49,30,23,Minnesota Wild,Vancouver Canucks,2022020067212,2022020067,Hit,212,HIT,Luke Schenn hit Kirill Kaprizov,2022-10-21T00:23:55Z,1,08:50,11:10,1,1,23.0,Vancouver Canucks,VAN
+50,30,23,Minnesota Wild,Vancouver Canucks,2022020067213,2022020067,Hit,213,HIT,Jordan Greenway hit Andrei Kuzmenko,2022-10-21T00:24:36Z,1,09:31,10:29,1,1,30.0,Minnesota Wild,MIN
+51,30,23,Minnesota Wild,Vancouver Canucks,2022020067355,2022020067,Missed Shot,355,MISSED_SHOT,Vasily Podkolzin Wide of Net Marc-Andre Fleury,2022-10-21T00:24:50Z,1,09:45,10:15,1,1,23.0,Vancouver Canucks,VAN
+52,30,23,Minnesota Wild,Vancouver Canucks,2022020067214,2022020067,Hit,214,HIT,Jordan Greenway hit Kyle Burroughs,2022-10-21T00:25:00Z,1,09:55,10:05,1,1,30.0,Minnesota Wild,MIN
+53,30,23,Minnesota Wild,Vancouver Canucks,2022020067163,2022020067,Shot,163,SHOT,Vasily Podkolzin Wrist Shot saved by Marc-Andre Fleury,2022-10-21T00:25:21Z,1,10:16,09:44,1,1,23.0,Vancouver Canucks,VAN
+54,30,23,Minnesota Wild,Vancouver Canucks,2022020067164,2022020067,Stoppage,164,STOP,Icing,2022-10-21T00:25:33Z,1,10:28,09:32,1,1,,,
+55,30,23,Minnesota Wild,Vancouver Canucks,202202006778,2022020067,Faceoff,78,FACEOFF,Sam Steel faceoff won against Bo Horvat,2022-10-21T00:26:01Z,1,10:28,09:32,1,1,30.0,Minnesota Wild,MIN
+56,30,23,Minnesota Wild,Vancouver Canucks,2022020067215,2022020067,Hit,215,HIT,Brandon Duhaime hit Quinn Hughes,2022-10-21T00:26:43Z,1,11:10,08:50,1,1,30.0,Minnesota Wild,MIN
+57,30,23,Minnesota Wild,Vancouver Canucks,202202006779,2022020067,Shot,79,SHOT,Jonas Brodin Snap Shot saved by Thatcher Demko,2022-10-21T00:26:58Z,1,11:25,08:35,1,1,30.0,Minnesota Wild,MIN
+58,30,23,Minnesota Wild,Vancouver Canucks,2022020067216,2022020067,Takeaway,216,TAKEAWAY,Takeaway by Matt Boldy,2022-10-21T00:27:15Z,1,11:42,08:18,1,1,30.0,Minnesota Wild,MIN
+59,30,23,Minnesota Wild,Vancouver Canucks,2022020067218,2022020067,Hit,218,HIT,Kyle Burroughs hit Matt Boldy,2022-10-21T00:27:34Z,1,12:01,07:59,1,1,23.0,Vancouver Canucks,VAN
+60,30,23,Minnesota Wild,Vancouver Canucks,2022020067165,2022020067,Shot,165,SHOT,Andrei Kuzmenko Wrist Shot saved by Marc-Andre Fleury,2022-10-21T00:28:18Z,1,12:45,07:15,1,1,23.0,Vancouver Canucks,VAN
+61,30,23,Minnesota Wild,Vancouver Canucks,2022020067166,2022020067,Shot,166,SHOT,Luke Schenn Backhand saved by Marc-Andre Fleury,2022-10-21T00:28:20Z,1,12:47,07:13,1,1,23.0,Vancouver Canucks,VAN
+62,30,23,Minnesota Wild,Vancouver Canucks,2022020067167,2022020067,Stoppage,167,STOP,Goalie Stopped,2022-10-21T00:28:21Z,1,12:48,07:12,1,1,,,
+63,30,23,Minnesota Wild,Vancouver Canucks,202202006780,2022020067,Faceoff,80,FACEOFF,Bo Horvat faceoff won against Ryan Hartman,2022-10-21T00:30:54Z,1,12:48,07:12,1,1,23.0,Vancouver Canucks,VAN
+64,30,23,Minnesota Wild,Vancouver Canucks,2022020067168,2022020067,Missed Shot,168,MISSED_SHOT,Quinn Hughes Wide of Net Marc-Andre Fleury,2022-10-21T00:31:01Z,1,12:55,07:05,1,1,23.0,Vancouver Canucks,VAN
+65,30,23,Minnesota Wild,Vancouver Canucks,2022020067353,2022020067,Hit,353,HIT,Kirill Kaprizov hit Dakota Joshua,2022-10-21T00:31:41Z,1,13:35,06:25,1,1,30.0,Minnesota Wild,MIN
+66,30,23,Minnesota Wild,Vancouver Canucks,2022020067219,2022020067,Takeaway,219,TAKEAWAY,Takeaway by Dakota Joshua,2022-10-21T00:31:44Z,1,13:38,06:22,1,1,23.0,Vancouver Canucks,VAN
+67,30,23,Minnesota Wild,Vancouver Canucks,2022020067220,2022020067,Hit,220,HIT,Curtis Lazar hit Calen Addison,2022-10-21T00:31:52Z,1,13:46,06:14,1,1,23.0,Vancouver Canucks,VAN
+68,30,23,Minnesota Wild,Vancouver Canucks,2022020067169,2022020067,Shot,169,SHOT,Oliver Ekman-Larsson Wrist Shot saved by Marc-Andre Fleury,2022-10-21T00:32:12Z,1,14:06,05:54,1,1,23.0,Vancouver Canucks,VAN
+69,30,23,Minnesota Wild,Vancouver Canucks,2022020067221,2022020067,Hit,221,HIT,Jordan Greenway hit Oliver Ekman-Larsson,2022-10-21T00:32:26Z,1,14:20,05:40,1,1,30.0,Minnesota Wild,MIN
+70,30,23,Minnesota Wild,Vancouver Canucks,2022020067223,2022020067,Hit,223,HIT,Kyle Burroughs hit Joel Eriksson Ek,2022-10-21T00:32:43Z,1,14:37,05:23,1,1,23.0,Vancouver Canucks,VAN
+71,30,23,Minnesota Wild,Vancouver Canucks,202202006781,2022020067,Shot,81,SHOT,Brandon Duhaime Wrist Shot saved by Thatcher Demko,2022-10-21T00:32:46Z,1,14:40,05:20,1,1,30.0,Minnesota Wild,MIN
+72,30,23,Minnesota Wild,Vancouver Canucks,2022020067224,2022020067,Hit,224,HIT,Tyler Myers hit Tyson Jost,2022-10-21T00:32:52Z,1,14:46,05:14,1,1,23.0,Vancouver Canucks,VAN
+73,30,23,Minnesota Wild,Vancouver Canucks,2022020067170,2022020067,Hit,170,HIT,Brandon Duhaime hit Kyle Burroughs,2022-10-21T00:32:55Z,1,14:49,05:11,1,1,30.0,Minnesota Wild,MIN
+74,30,23,Minnesota Wild,Vancouver Canucks,2022020067225,2022020067,Hit,225,HIT,Kyle Burroughs hit Sam Steel,2022-10-21T00:33:15Z,1,15:09,04:51,1,1,23.0,Vancouver Canucks,VAN
+75,30,23,Minnesota Wild,Vancouver Canucks,2022020067226,2022020067,Giveaway,226,GIVEAWAY,Giveaway by Jonas Brodin,2022-10-21T00:34:03Z,1,15:57,04:03,1,1,30.0,Minnesota Wild,MIN
+76,30,23,Minnesota Wild,Vancouver Canucks,2022020067171,2022020067,Goal,171,GOAL,"Nils Aman (1) Wrist Shot, assists: Dakota Joshua (1), Quinn Hughes (5)",2022-10-21T00:34:53Z,1,16:47,03:13,1,2,23.0,Vancouver Canucks,VAN
+77,30,23,Minnesota Wild,Vancouver Canucks,202202006782,2022020067,Faceoff,82,FACEOFF,Ryan Hartman faceoff won against Elias Pettersson,2022-10-21T00:35:40Z,1,16:47,03:13,1,2,30.0,Minnesota Wild,MIN
+78,30,23,Minnesota Wild,Vancouver Canucks,202202006783,2022020067,Missed Shot,83,MISSED_SHOT,Mats Zuccarello Wide of Net Thatcher Demko,2022-10-21T00:35:48Z,1,16:55,03:05,1,2,30.0,Minnesota Wild,MIN
+79,30,23,Minnesota Wild,Vancouver Canucks,202202006784,2022020067,Shot,84,SHOT,Ryan Hartman Wrist Shot saved by Thatcher Demko,2022-10-21T00:36:04Z,1,17:11,02:49,1,2,30.0,Minnesota Wild,MIN
+80,30,23,Minnesota Wild,Vancouver Canucks,2022020067172,2022020067,Stoppage,172,STOP,Goalie Stopped,2022-10-21T00:36:04Z,1,17:12,02:48,1,2,,,
+81,30,23,Minnesota Wild,Vancouver Canucks,202202006785,2022020067,Faceoff,85,FACEOFF,J.T. Miller faceoff won against Joel Eriksson Ek,2022-10-21T00:38:20Z,1,17:12,02:48,1,2,23.0,Vancouver Canucks,VAN
+82,30,23,Minnesota Wild,Vancouver Canucks,2022020067173,2022020067,Stoppage,173,STOP,Icing,2022-10-21T00:38:35Z,1,17:27,02:33,1,2,,,
+83,30,23,Minnesota Wild,Vancouver Canucks,202202006786,2022020067,Faceoff,86,FACEOFF,Joel Eriksson Ek faceoff won against J.T. Miller,2022-10-21T00:39:07Z,1,17:27,02:33,1,2,30.0,Minnesota Wild,MIN
+84,30,23,Minnesota Wild,Vancouver Canucks,202202006787,2022020067,Missed Shot,87,MISSED_SHOT,Tyson Jost Wide of Net Thatcher Demko,2022-10-21T00:39:17Z,1,17:37,02:23,1,2,30.0,Minnesota Wild,MIN
+85,30,23,Minnesota Wild,Vancouver Canucks,2022020067229,2022020067,Hit,229,HIT,Tanner Pearson hit Brandon Duhaime,2022-10-21T00:39:52Z,1,18:12,01:48,1,2,23.0,Vancouver Canucks,VAN
+86,30,23,Minnesota Wild,Vancouver Canucks,2022020067228,2022020067,Takeaway,228,TAKEAWAY,Takeaway by Brandon Duhaime,2022-10-21T00:40:00Z,1,18:20,01:40,1,2,30.0,Minnesota Wild,MIN
+87,30,23,Minnesota Wild,Vancouver Canucks,2022020067174,2022020067,Blocked Shot,174,BLOCKED_SHOT,Brandon Duhaime shot blocked shot by Riley Stillman,2022-10-21T00:40:02Z,1,18:22,01:38,1,2,23.0,Vancouver Canucks,VAN
+88,30,23,Minnesota Wild,Vancouver Canucks,202202006788,2022020067,Goal,88,GOAL,"Sam Steel (2) Slap Shot, assists: Kirill Kaprizov (3)",2022-10-21T00:40:40Z,1,19:00,01:00,2,2,30.0,Minnesota Wild,MIN
+89,30,23,Minnesota Wild,Vancouver Canucks,202202006789,2022020067,Faceoff,89,FACEOFF,Marco Rossi faceoff won against Elias Pettersson,2022-10-21T00:41:27Z,1,19:00,01:00,2,2,30.0,Minnesota Wild,MIN
+90,30,23,Minnesota Wild,Vancouver Canucks,202202006790,2022020067,Period End,90,PERIOD_END,End of 1st Period,2022-10-21T00:42:28Z,1,20:00,00:00,2,2,,,
+91,30,23,Minnesota Wild,Vancouver Canucks,202202006793,2022020067,Period Official,93,PERIOD_OFFICIAL,Period Official,2022-10-21T00:42:31Z,1,20:00,00:00,2,2,,,
+92,30,23,Minnesota Wild,Vancouver Canucks,202202006794,2022020067,Period Ready,94,PERIOD_READY,Period Ready,2022-10-21T01:01:17Z,2,00:00,20:00,2,2,,,
+93,30,23,Minnesota Wild,Vancouver Canucks,202202006795,2022020067,Period Start,95,PERIOD_START,Period Start,2022-10-21T01:01:26Z,2,00:00,20:00,2,2,,,
+94,30,23,Minnesota Wild,Vancouver Canucks,202202006796,2022020067,Faceoff,96,FACEOFF,Bo Horvat faceoff won against Ryan Hartman,2022-10-21T01:01:26Z,2,00:00,20:00,2,2,23.0,Vancouver Canucks,VAN
+95,30,23,Minnesota Wild,Vancouver Canucks,2022020067176,2022020067,Missed Shot,176,MISSED_SHOT,Ryan Hartman Wide of Net Thatcher Demko,2022-10-21T01:01:41Z,2,00:15,19:45,2,2,30.0,Minnesota Wild,MIN
+96,30,23,Minnesota Wild,Vancouver Canucks,2022020067177,2022020067,Blocked Shot,177,BLOCKED_SHOT,Bo Horvat shot blocked shot by Jared Spurgeon,2022-10-21T01:01:49Z,2,00:23,19:37,2,2,30.0,Minnesota Wild,MIN
+97,30,23,Minnesota Wild,Vancouver Canucks,2022020067178,2022020067,Shot,178,SHOT,Jared Spurgeon Wrist Shot saved by Thatcher Demko,2022-10-21T01:02:01Z,2,00:35,19:25,2,2,30.0,Minnesota Wild,MIN
+98,30,23,Minnesota Wild,Vancouver Canucks,2022020067490,2022020067,Penalty,490,PENALTY,Tanner Pearson Hooking against Ryan Hartman,2022-10-21T01:02:03Z,2,00:37,19:23,2,2,23.0,Vancouver Canucks,VAN
+99,30,23,Minnesota Wild,Vancouver Canucks,202202006797,2022020067,Faceoff,97,FACEOFF,Joel Eriksson Ek faceoff won against J.T. Miller,2022-10-21T01:03:00Z,2,00:37,19:23,2,2,30.0,Minnesota Wild,MIN
+100,30,23,Minnesota Wild,Vancouver Canucks,2022020067179,2022020067,Shot,179,SHOT,Kirill Kaprizov Slap Shot saved by Thatcher Demko,2022-10-21T01:03:16Z,2,00:53,19:07,2,2,30.0,Minnesota Wild,MIN
+101,30,23,Minnesota Wild,Vancouver Canucks,2022020067230,2022020067,Hit,230,HIT,Joel Eriksson Ek hit Quinn Hughes,2022-10-21T01:03:36Z,2,01:13,18:47,2,2,30.0,Minnesota Wild,MIN
+102,30,23,Minnesota Wild,Vancouver Canucks,2022020067231,2022020067,Hit,231,HIT,Brandon Duhaime hit Kyle Burroughs,2022-10-21T01:05:24Z,2,03:01,16:59,2,2,30.0,Minnesota Wild,MIN
+103,30,23,Minnesota Wild,Vancouver Canucks,2022020067100,2022020067,Penalty,100,PENALTY,Riley Stillman Fighting against Brandon Duhaime,2022-10-21T01:05:32Z,2,03:09,16:51,2,2,23.0,Vancouver Canucks,VAN
+104,30,23,Minnesota Wild,Vancouver Canucks,2022020067609,2022020067,Penalty,609,PENALTY,Brandon Duhaime Fighting against Riley Stillman,2022-10-21T01:05:32Z,2,03:09,16:51,2,2,30.0,Minnesota Wild,MIN
+105,30,23,Minnesota Wild,Vancouver Canucks,2022020067303,2022020067,Faceoff,303,FACEOFF,Bo Horvat faceoff won against Sam Steel,2022-10-21T01:06:41Z,2,03:09,16:51,2,2,23.0,Vancouver Canucks,VAN
+106,30,23,Minnesota Wild,Vancouver Canucks,2022020067181,2022020067,Blocked Shot,181,BLOCKED_SHOT,Tyler Myers shot blocked shot by Joel Eriksson Ek,2022-10-21T01:07:35Z,2,04:03,15:57,2,2,30.0,Minnesota Wild,MIN
+107,30,23,Minnesota Wild,Vancouver Canucks,2022020067232,2022020067,Giveaway,232,GIVEAWAY,Giveaway by Alex Goligoski,2022-10-21T01:07:56Z,2,04:24,15:36,2,2,30.0,Minnesota Wild,MIN
+108,30,23,Minnesota Wild,Vancouver Canucks,2022020067304,2022020067,Shot,304,SHOT,Tyler Myers Snap Shot saved by Marc-Andre Fleury,2022-10-21T01:08:01Z,2,04:29,15:31,2,2,23.0,Vancouver Canucks,VAN
+109,30,23,Minnesota Wild,Vancouver Canucks,2022020067182,2022020067,Blocked Shot,182,BLOCKED_SHOT,Tyler Myers shot blocked shot by Marcus Foligno,2022-10-21T01:08:12Z,2,04:40,15:20,2,2,30.0,Minnesota Wild,MIN
+110,30,23,Minnesota Wild,Vancouver Canucks,2022020067233,2022020067,Takeaway,233,TAKEAWAY,Takeaway by Elias Pettersson,2022-10-21T01:08:31Z,2,04:59,15:01,2,2,23.0,Vancouver Canucks,VAN
+111,30,23,Minnesota Wild,Vancouver Canucks,2022020067305,2022020067,Shot,305,SHOT,Vasily Podkolzin Backhand saved by Marc-Andre Fleury,2022-10-21T01:08:33Z,2,05:01,14:59,2,2,23.0,Vancouver Canucks,VAN
+112,30,23,Minnesota Wild,Vancouver Canucks,2022020067183,2022020067,Blocked Shot,183,BLOCKED_SHOT,Ilya Mikheyev shot blocked shot by Joel Eriksson Ek,2022-10-21T01:08:59Z,2,05:27,14:33,2,2,30.0,Minnesota Wild,MIN
+113,30,23,Minnesota Wild,Vancouver Canucks,2022020067184,2022020067,Blocked Shot,184,BLOCKED_SHOT,Ilya Mikheyev shot blocked shot by Jared Spurgeon,2022-10-21T01:09:07Z,2,05:35,14:25,2,2,30.0,Minnesota Wild,MIN
+114,30,23,Minnesota Wild,Vancouver Canucks,2022020067185,2022020067,Stoppage,185,STOP,Icing,2022-10-21T01:09:11Z,2,05:39,14:21,2,2,,,
+115,30,23,Minnesota Wild,Vancouver Canucks,2022020067306,2022020067,Faceoff,306,FACEOFF,J.T. Miller faceoff won against Ryan Hartman,2022-10-21T01:09:41Z,2,05:39,14:21,2,2,23.0,Vancouver Canucks,VAN
+116,30,23,Minnesota Wild,Vancouver Canucks,2022020067307,2022020067,Blocked Shot,307,BLOCKED_SHOT,Calen Addison shot blocked shot by Quinn Hughes,2022-10-21T01:09:59Z,2,05:57,14:03,2,2,23.0,Vancouver Canucks,VAN
+117,30,23,Minnesota Wild,Vancouver Canucks,2022020067186,2022020067,Missed Shot,186,MISSED_SHOT,Mats Zuccarello Over Net Thatcher Demko,2022-10-21T01:10:14Z,2,06:12,13:48,2,2,30.0,Minnesota Wild,MIN
+118,30,23,Minnesota Wild,Vancouver Canucks,2022020067236,2022020067,Hit,236,HIT,Kyle Burroughs hit Frederick Gaudreau,2022-10-21T01:10:33Z,2,06:31,13:29,2,2,23.0,Vancouver Canucks,VAN
+119,30,23,Minnesota Wild,Vancouver Canucks,2022020067187,2022020067,Shot,187,SHOT,Jared Spurgeon Wrist Shot saved by Thatcher Demko,2022-10-21T01:10:39Z,2,06:37,13:23,2,2,30.0,Minnesota Wild,MIN
+120,30,23,Minnesota Wild,Vancouver Canucks,2022020067357,2022020067,Shot,357,SHOT,Ryan Hartman Tip-In saved by Thatcher Demko,2022-10-21T01:10:39Z,2,06:37,13:23,2,2,30.0,Minnesota Wild,MIN
+121,30,23,Minnesota Wild,Vancouver Canucks,2022020067309,2022020067,Blocked Shot,309,BLOCKED_SHOT,Frederick Gaudreau shot blocked shot by Kyle Burroughs,2022-10-21T01:10:44Z,2,06:42,13:18,2,2,23.0,Vancouver Canucks,VAN
+122,30,23,Minnesota Wild,Vancouver Canucks,2022020067356,2022020067,Takeaway,356,TAKEAWAY,Takeaway by Dakota Joshua,2022-10-21T01:10:47Z,2,06:45,13:15,2,2,23.0,Vancouver Canucks,VAN
+123,30,23,Minnesota Wild,Vancouver Canucks,2022020067308,2022020067,Missed Shot,308,MISSED_SHOT,Curtis Lazar Wide of Net Marc-Andre Fleury,2022-10-21T01:10:54Z,2,06:52,13:08,2,2,23.0,Vancouver Canucks,VAN
+124,30,23,Minnesota Wild,Vancouver Canucks,2022020067188,2022020067,Stoppage,188,STOP,TV timeout,2022-10-21T01:10:59Z,2,06:56,13:04,2,2,,,
+125,30,23,Minnesota Wild,Vancouver Canucks,2022020067637,2022020067,Penalty,637,PENALTY,Jake Middleton Tripping against Curtis Lazar,2022-10-21T01:10:59Z,2,06:56,13:04,2,2,30.0,Minnesota Wild,MIN
+126,30,23,Minnesota Wild,Vancouver Canucks,2022020067310,2022020067,Faceoff,310,FACEOFF,Bo Horvat faceoff won against Frederick Gaudreau,2022-10-21T01:13:24Z,2,06:56,13:04,2,2,23.0,Vancouver Canucks,VAN
+127,30,23,Minnesota Wild,Vancouver Canucks,2022020067311,2022020067,Shot,311,SHOT,J.T. Miller Snap Shot saved by Marc-Andre Fleury,2022-10-21T01:13:45Z,2,07:17,12:43,2,2,23.0,Vancouver Canucks,VAN
+128,30,23,Minnesota Wild,Vancouver Canucks,2022020067312,2022020067,Shot,312,SHOT,Bo Horvat Snap Shot saved by Marc-Andre Fleury,2022-10-21T01:13:47Z,2,07:19,12:41,2,2,23.0,Vancouver Canucks,VAN
+129,30,23,Minnesota Wild,Vancouver Canucks,2022020067189,2022020067,Stoppage,189,STOP,Goalie Stopped,2022-10-21T01:13:48Z,2,07:20,12:40,2,2,,,
+130,30,23,Minnesota Wild,Vancouver Canucks,2022020067313,2022020067,Faceoff,313,FACEOFF,Bo Horvat faceoff won against Joel Eriksson Ek,2022-10-21T01:14:19Z,2,07:20,12:40,2,2,23.0,Vancouver Canucks,VAN
+131,30,23,Minnesota Wild,Vancouver Canucks,2022020067314,2022020067,Shot,314,SHOT,Elias Pettersson Wrist Shot saved by Marc-Andre Fleury,2022-10-21T01:14:28Z,2,07:29,12:31,2,2,23.0,Vancouver Canucks,VAN
+132,30,23,Minnesota Wild,Vancouver Canucks,2022020067315,2022020067,Missed Shot,315,MISSED_SHOT,Elias Pettersson Hit Crossbar Marc-Andre Fleury,2022-10-21T01:15:11Z,2,08:12,11:48,2,2,23.0,Vancouver Canucks,VAN
+133,30,23,Minnesota Wild,Vancouver Canucks,2022020067190,2022020067,Missed Shot,190,MISSED_SHOT,Conor Garland Wide of Net Marc-Andre Fleury,2022-10-21T01:15:38Z,2,08:39,11:21,2,2,23.0,Vancouver Canucks,VAN
+134,30,23,Minnesota Wild,Vancouver Canucks,2022020067191,2022020067,Stoppage,191,STOP,Puck Frozen,2022-10-21T01:15:39Z,2,08:40,11:20,2,2,,,
+135,30,23,Minnesota Wild,Vancouver Canucks,2022020067316,2022020067,Faceoff,316,FACEOFF,Brock Boeser faceoff won against Sam Steel,2022-10-21T01:16:07Z,2,08:40,11:20,2,2,23.0,Vancouver Canucks,VAN
+136,30,23,Minnesota Wild,Vancouver Canucks,2022020067192,2022020067,Stoppage,192,STOP,Icing,2022-10-21T01:16:34Z,2,09:07,10:53,2,2,,,
+137,30,23,Minnesota Wild,Vancouver Canucks,2022020067317,2022020067,Faceoff,317,FACEOFF,Sam Steel faceoff won against Nils Aman,2022-10-21T01:17:01Z,2,09:07,10:53,2,2,30.0,Minnesota Wild,MIN
+138,30,23,Minnesota Wild,Vancouver Canucks,2022020067193,2022020067,Stoppage,193,STOP,Offside,2022-10-21T01:17:33Z,2,09:39,10:21,2,2,,,
+139,30,23,Minnesota Wild,Vancouver Canucks,2022020067318,2022020067,Faceoff,318,FACEOFF,Bo Horvat faceoff won against Ryan Hartman,2022-10-21T01:18:04Z,2,09:39,10:21,2,2,23.0,Vancouver Canucks,VAN
+140,30,23,Minnesota Wild,Vancouver Canucks,2022020067195,2022020067,Missed Shot,195,MISSED_SHOT,Ryan Hartman Wide of Net Thatcher Demko,2022-10-21T01:18:27Z,2,10:02,09:58,2,2,30.0,Minnesota Wild,MIN
+141,30,23,Minnesota Wild,Vancouver Canucks,2022020067194,2022020067,Stoppage,194,STOP,Net Dislodged Defensive Skater,2022-10-21T01:18:42Z,2,10:17,09:43,2,2,,,
+142,30,23,Minnesota Wild,Vancouver Canucks,2022020067319,2022020067,Faceoff,319,FACEOFF,Joel Eriksson Ek faceoff won against J.T. Miller,2022-10-21T01:21:30Z,2,10:17,09:43,2,2,30.0,Minnesota Wild,MIN
+143,30,23,Minnesota Wild,Vancouver Canucks,2022020067320,2022020067,Missed Shot,320,MISSED_SHOT,Conor Garland Wide of Net Marc-Andre Fleury,2022-10-21T01:21:52Z,2,10:39,09:21,2,2,23.0,Vancouver Canucks,VAN
+144,30,23,Minnesota Wild,Vancouver Canucks,2022020067237,2022020067,Giveaway,237,GIVEAWAY,Giveaway by Marcus Foligno,2022-10-21T01:21:56Z,2,10:43,09:17,2,2,30.0,Minnesota Wild,MIN
+145,30,23,Minnesota Wild,Vancouver Canucks,2022020067321,2022020067,Shot,321,SHOT,Elias Pettersson Wrist Shot saved by Marc-Andre Fleury,2022-10-21T01:22:18Z,2,11:05,08:55,2,2,23.0,Vancouver Canucks,VAN
+146,30,23,Minnesota Wild,Vancouver Canucks,2022020067240,2022020067,Hit,240,HIT,Joel Eriksson Ek hit Ilya Mikheyev,2022-10-21T01:22:19Z,2,11:06,08:54,2,2,30.0,Minnesota Wild,MIN
+147,30,23,Minnesota Wild,Vancouver Canucks,2022020067196,2022020067,Stoppage,196,STOP,Offside,2022-10-21T01:22:35Z,2,11:22,08:38,2,2,,,
+148,30,23,Minnesota Wild,Vancouver Canucks,2022020067322,2022020067,Faceoff,322,FACEOFF,Elias Pettersson faceoff won against Frederick Gaudreau,2022-10-21T01:23:00Z,2,11:22,08:38,2,2,23.0,Vancouver Canucks,VAN
+149,30,23,Minnesota Wild,Vancouver Canucks,2022020067197,2022020067,Shot,197,SHOT,Matt Boldy Wrist Shot saved by Thatcher Demko,2022-10-21T01:23:21Z,2,11:43,08:17,2,2,30.0,Minnesota Wild,MIN
+150,30,23,Minnesota Wild,Vancouver Canucks,2022020067198,2022020067,Stoppage,198,STOP,Goalie Stopped,2022-10-21T01:23:23Z,2,11:45,08:15,2,2,,,
+151,30,23,Minnesota Wild,Vancouver Canucks,2022020067323,2022020067,Faceoff,323,FACEOFF,Elias Pettersson faceoff won against Marco Rossi,2022-10-21T01:23:51Z,2,11:45,08:15,2,2,23.0,Vancouver Canucks,VAN
+152,30,23,Minnesota Wild,Vancouver Canucks,2022020067199,2022020067,Shot,199,SHOT,Matt Boldy Snap Shot saved by Thatcher Demko,2022-10-21T01:23:56Z,2,11:50,08:10,2,2,30.0,Minnesota Wild,MIN
+153,30,23,Minnesota Wild,Vancouver Canucks,2022020067200,2022020067,Stoppage,200,STOP,Icing,2022-10-21T01:24:05Z,2,11:59,08:01,2,2,,,
+154,30,23,Minnesota Wild,Vancouver Canucks,2022020067324,2022020067,Faceoff,324,FACEOFF,Elias Pettersson faceoff won against Ryan Hartman,2022-10-21T01:24:28Z,2,11:59,08:01,2,2,23.0,Vancouver Canucks,VAN
+155,30,23,Minnesota Wild,Vancouver Canucks,2022020067551,2022020067,Stoppage,551,STOP,Icing,2022-10-21T01:25:23Z,2,12:55,07:05,2,2,,,
+156,30,23,Minnesota Wild,Vancouver Canucks,2022020067325,2022020067,Faceoff,325,FACEOFF,Ryan Hartman faceoff won against Nils Aman,2022-10-21T01:26:04Z,2,12:55,07:05,2,2,30.0,Minnesota Wild,MIN
+157,30,23,Minnesota Wild,Vancouver Canucks,2022020067552,2022020067,Blocked Shot,552,BLOCKED_SHOT,Oliver Ekman-Larsson shot blocked shot by Calen Addison,2022-10-21T01:26:31Z,2,13:22,06:38,2,2,30.0,Minnesota Wild,MIN
+158,30,23,Minnesota Wild,Vancouver Canucks,2022020067326,2022020067,Shot,326,SHOT,Dakota Joshua Tip-In saved by Marc-Andre Fleury,2022-10-21T01:26:43Z,2,13:34,06:26,2,2,23.0,Vancouver Canucks,VAN
+159,30,23,Minnesota Wild,Vancouver Canucks,2022020067327,2022020067,Shot,327,SHOT,Dakota Joshua Backhand saved by Marc-Andre Fleury,2022-10-21T01:26:45Z,2,13:36,06:24,2,2,23.0,Vancouver Canucks,VAN
+160,30,23,Minnesota Wild,Vancouver Canucks,2022020067328,2022020067,Goal,328,GOAL,"Dakota Joshua (1) Backhand, assists: Oliver Ekman-Larsson (3), Nils Aman (1)",2022-10-21T01:26:46Z,2,13:37,06:23,2,3,23.0,Vancouver Canucks,VAN
+161,30,23,Minnesota Wild,Vancouver Canucks,2022020067329,2022020067,Faceoff,329,FACEOFF,J.T. Miller faceoff won against Joel Eriksson Ek,2022-10-21T01:27:35Z,2,13:37,06:23,2,3,23.0,Vancouver Canucks,VAN
+162,30,23,Minnesota Wild,Vancouver Canucks,2022020067244,2022020067,Takeaway,244,TAKEAWAY,Takeaway by Matt Boldy,2022-10-21T01:28:28Z,2,14:30,05:30,2,3,30.0,Minnesota Wild,MIN
+163,30,23,Minnesota Wild,Vancouver Canucks,2022020067553,2022020067,Missed Shot,553,MISSED_SHOT,Brandon Duhaime Wide of Net Thatcher Demko,2022-10-21T01:29:09Z,2,15:11,04:49,2,3,30.0,Minnesota Wild,MIN
+164,30,23,Minnesota Wild,Vancouver Canucks,2022020067554,2022020067,Stoppage,554,STOP,Puck in Crowd,2022-10-21T01:29:19Z,2,15:21,04:39,2,3,,,
+165,30,23,Minnesota Wild,Vancouver Canucks,2022020067330,2022020067,Faceoff,330,FACEOFF,Frederick Gaudreau faceoff won against Elias Pettersson,2022-10-21T01:31:34Z,2,15:21,04:39,2,3,30.0,Minnesota Wild,MIN
+166,30,23,Minnesota Wild,Vancouver Canucks,2022020067555,2022020067,Shot,555,SHOT,Vasily Podkolzin Backhand saved by Marc-Andre Fleury,2022-10-21T01:31:44Z,2,15:31,04:29,2,3,23.0,Vancouver Canucks,VAN
+167,30,23,Minnesota Wild,Vancouver Canucks,2022020067556,2022020067,Stoppage,556,STOP,Offside,2022-10-21T01:32:00Z,2,15:47,04:13,2,3,,,
+168,30,23,Minnesota Wild,Vancouver Canucks,2022020067331,2022020067,Faceoff,331,FACEOFF,Sam Steel faceoff won against Curtis Lazar,2022-10-21T01:32:39Z,2,15:47,04:13,2,3,30.0,Minnesota Wild,MIN
+169,30,23,Minnesota Wild,Vancouver Canucks,2022020067245,2022020067,Hit,245,HIT,Marcus Foligno hit J.T. Miller,2022-10-21T01:33:44Z,2,16:52,03:08,2,3,30.0,Minnesota Wild,MIN
+170,30,23,Minnesota Wild,Vancouver Canucks,2022020067332,2022020067,Missed Shot,332,MISSED_SHOT,J.T. Miller Wide of Net Marc-Andre Fleury,2022-10-21T01:33:53Z,2,17:01,02:59,2,3,23.0,Vancouver Canucks,VAN
+171,30,23,Minnesota Wild,Vancouver Canucks,2022020067333,2022020067,Shot,333,SHOT,Bo Horvat Wrist Shot saved by Marc-Andre Fleury,2022-10-21T01:34:26Z,2,17:34,02:26,2,3,23.0,Vancouver Canucks,VAN
+172,30,23,Minnesota Wild,Vancouver Canucks,2022020067558,2022020067,Stoppage,558,STOP,Goalie Stopped,2022-10-21T01:34:27Z,2,17:35,02:25,2,3,,,
+173,30,23,Minnesota Wild,Vancouver Canucks,2022020067334,2022020067,Faceoff,334,FACEOFF,Ryan Hartman faceoff won against Bo Horvat,2022-10-21T01:34:59Z,2,17:35,02:25,2,3,30.0,Minnesota Wild,MIN
+174,30,23,Minnesota Wild,Vancouver Canucks,2022020067561,2022020067,Missed Shot,561,MISSED_SHOT,Luke Schenn Wide of Net Marc-Andre Fleury,2022-10-21T01:35:14Z,2,17:50,02:10,2,3,23.0,Vancouver Canucks,VAN
+175,30,23,Minnesota Wild,Vancouver Canucks,2022020067560,2022020067,Stoppage,560,STOP,Puck Frozen,2022-10-21T01:35:14Z,2,17:51,02:09,2,3,,,
+176,30,23,Minnesota Wild,Vancouver Canucks,2022020067336,2022020067,Faceoff,336,FACEOFF,Ryan Hartman faceoff won against Bo Horvat,2022-10-21T01:36:02Z,2,17:51,02:09,2,3,30.0,Minnesota Wild,MIN
+177,30,23,Minnesota Wild,Vancouver Canucks,2022020067246,2022020067,Giveaway,246,GIVEAWAY,Giveaway by Kirill Kaprizov,2022-10-21T01:36:21Z,2,18:10,01:50,2,3,30.0,Minnesota Wild,MIN
+178,30,23,Minnesota Wild,Vancouver Canucks,2022020067337,2022020067,Missed Shot,337,MISSED_SHOT,Dakota Joshua Wide of Net Marc-Andre Fleury,2022-10-21T01:36:48Z,2,18:37,01:23,2,3,23.0,Vancouver Canucks,VAN
+179,30,23,Minnesota Wild,Vancouver Canucks,2022020067338,2022020067,Blocked Shot,338,BLOCKED_SHOT,Quinn Hughes shot blocked shot by Mats Zuccarello,2022-10-21T01:36:57Z,2,18:46,01:14,2,3,30.0,Minnesota Wild,MIN
+180,30,23,Minnesota Wild,Vancouver Canucks,2022020067562,2022020067,Blocked Shot,562,BLOCKED_SHOT,Quinn Hughes shot blocked shot by Mats Zuccarello,2022-10-21T01:37:12Z,2,19:01,00:59,2,3,30.0,Minnesota Wild,MIN
+181,30,23,Minnesota Wild,Vancouver Canucks,2022020067339,2022020067,Missed Shot,339,MISSED_SHOT,Vasily Podkolzin Wide of Net Marc-Andre Fleury,2022-10-21T01:37:27Z,2,19:16,00:44,2,3,23.0,Vancouver Canucks,VAN
+182,30,23,Minnesota Wild,Vancouver Canucks,2022020067563,2022020067,Blocked Shot,563,BLOCKED_SHOT,Elias Pettersson shot blocked shot by Jake Middleton,2022-10-21T01:37:37Z,2,19:26,00:34,2,3,30.0,Minnesota Wild,MIN
+183,30,23,Minnesota Wild,Vancouver Canucks,2022020067340,2022020067,Missed Shot,340,MISSED_SHOT,Elias Pettersson Wide of Net Marc-Andre Fleury,2022-10-21T01:38:07Z,2,19:56,00:04,2,3,23.0,Vancouver Canucks,VAN
+184,30,23,Minnesota Wild,Vancouver Canucks,2022020067341,2022020067,Period End,341,PERIOD_END,End of 2nd Period,2022-10-21T01:38:11Z,2,20:00,00:00,2,3,,,
+185,30,23,Minnesota Wild,Vancouver Canucks,2022020067344,2022020067,Period Official,344,PERIOD_OFFICIAL,Period Official,2022-10-21T01:38:17Z,2,20:00,00:00,2,3,,,
+186,30,23,Minnesota Wild,Vancouver Canucks,2022020067345,2022020067,Period Ready,345,PERIOD_READY,Period Ready,2022-10-21T01:57:11Z,3,00:00,20:00,2,3,,,
+187,30,23,Minnesota Wild,Vancouver Canucks,2022020067346,2022020067,Period Start,346,PERIOD_START,Period Start,2022-10-21T01:57:18Z,3,00:00,20:00,2,3,,,
+188,30,23,Minnesota Wild,Vancouver Canucks,2022020067347,2022020067,Faceoff,347,FACEOFF,Bo Horvat faceoff won against Ryan Hartman,2022-10-21T01:57:18Z,3,00:00,20:00,2,3,23.0,Vancouver Canucks,VAN
+189,30,23,Minnesota Wild,Vancouver Canucks,2022020067348,2022020067,Blocked Shot,348,BLOCKED_SHOT,Brock Boeser shot blocked shot by Jared Spurgeon,2022-10-21T01:58:17Z,3,00:59,19:01,2,3,30.0,Minnesota Wild,MIN
+190,30,23,Minnesota Wild,Vancouver Canucks,2022020067564,2022020067,Shot,564,SHOT,Luke Schenn Slap Shot saved by Marc-Andre Fleury,2022-10-21T01:58:36Z,3,01:18,18:42,2,3,23.0,Vancouver Canucks,VAN
+191,30,23,Minnesota Wild,Vancouver Canucks,2022020067565,2022020067,Stoppage,565,STOP,Puck in Benches,2022-10-21T01:58:52Z,3,01:34,18:26,2,3,,,
+192,30,23,Minnesota Wild,Vancouver Canucks,2022020067349,2022020067,Faceoff,349,FACEOFF,Joel Eriksson Ek faceoff won against J.T. Miller,2022-10-21T01:59:20Z,3,01:34,18:26,2,3,30.0,Minnesota Wild,MIN
+193,30,23,Minnesota Wild,Vancouver Canucks,2022020067247,2022020067,Hit,247,HIT,Jared Spurgeon hit Curtis Lazar,2022-10-21T02:00:33Z,3,02:47,17:13,2,3,30.0,Minnesota Wild,MIN
+194,30,23,Minnesota Wild,Vancouver Canucks,2022020067566,2022020067,Shot,566,SHOT,Quinn Hughes Wrist Shot saved by Marc-Andre Fleury,2022-10-21T02:00:36Z,3,02:50,17:10,2,3,23.0,Vancouver Canucks,VAN
+195,30,23,Minnesota Wild,Vancouver Canucks,2022020067567,2022020067,Stoppage,567,STOP,Goalie Stopped,2022-10-21T02:00:37Z,3,02:52,17:08,2,3,,,
+196,30,23,Minnesota Wild,Vancouver Canucks,2022020067350,2022020067,Faceoff,350,FACEOFF,Sam Steel faceoff won against Bo Horvat,2022-10-21T02:01:42Z,3,02:52,17:08,2,3,30.0,Minnesota Wild,MIN
+197,30,23,Minnesota Wild,Vancouver Canucks,2022020067248,2022020067,Takeaway,248,TAKEAWAY,Takeaway by Sam Steel,2022-10-21T02:01:51Z,3,03:01,16:59,2,3,30.0,Minnesota Wild,MIN
+198,30,23,Minnesota Wild,Vancouver Canucks,2022020067752,2022020067,Shot,752,SHOT,Matt Boldy Wrist Shot saved by Thatcher Demko,2022-10-21T02:01:54Z,3,03:04,16:56,2,3,30.0,Minnesota Wild,MIN
+199,30,23,Minnesota Wild,Vancouver Canucks,2022020067751,2022020067,Shot,751,SHOT,Matt Boldy Wrist Shot saved by Thatcher Demko,2022-10-21T02:01:55Z,3,03:05,16:55,2,3,30.0,Minnesota Wild,MIN
+200,30,23,Minnesota Wild,Vancouver Canucks,2022020067568,2022020067,Stoppage,568,STOP,Goalie Stopped,2022-10-21T02:01:56Z,3,03:06,16:54,2,3,,,
+201,30,23,Minnesota Wild,Vancouver Canucks,2022020067753,2022020067,Faceoff,753,FACEOFF,Bo Horvat faceoff won against Sam Steel,2022-10-21T02:02:24Z,3,03:06,16:54,2,3,23.0,Vancouver Canucks,VAN
+202,30,23,Minnesota Wild,Vancouver Canucks,2022020067249,2022020067,Takeaway,249,TAKEAWAY,Takeaway by Matt Boldy,2022-10-21T02:03:07Z,3,03:49,16:11,2,3,30.0,Minnesota Wild,MIN
+203,30,23,Minnesota Wild,Vancouver Canucks,2022020067754,2022020067,Blocked Shot,754,BLOCKED_SHOT,Elias Pettersson shot blocked shot by Alex Goligoski,2022-10-21T02:03:23Z,3,04:05,15:55,2,3,30.0,Minnesota Wild,MIN
+204,30,23,Minnesota Wild,Vancouver Canucks,2022020067250,2022020067,Hit,250,HIT,Ryan Hartman hit Elias Pettersson,2022-10-21T02:03:29Z,3,04:11,15:49,2,3,30.0,Minnesota Wild,MIN
+205,30,23,Minnesota Wild,Vancouver Canucks,2022020067755,2022020067,Missed Shot,755,MISSED_SHOT,Mats Zuccarello Wide of Net Thatcher Demko,2022-10-21T02:03:39Z,3,04:21,15:39,2,3,30.0,Minnesota Wild,MIN
+206,30,23,Minnesota Wild,Vancouver Canucks,2022020067501,2022020067,Giveaway,501,GIVEAWAY,Giveaway by Kirill Kaprizov,2022-10-21T02:03:51Z,3,04:33,15:27,2,3,30.0,Minnesota Wild,MIN
+207,30,23,Minnesota Wild,Vancouver Canucks,2022020067756,2022020067,Shot,756,SHOT,Mats Zuccarello Backhand saved by Thatcher Demko,2022-10-21T02:04:03Z,3,04:45,15:15,2,3,30.0,Minnesota Wild,MIN
+208,30,23,Minnesota Wild,Vancouver Canucks,2022020067569,2022020067,Stoppage,569,STOP,Goalie Stopped,2022-10-21T02:04:04Z,3,04:47,15:13,2,3,,,
+209,30,23,Minnesota Wild,Vancouver Canucks,2022020067757,2022020067,Faceoff,757,FACEOFF,Tyson Jost faceoff won against J.T. Miller,2022-10-21T02:04:58Z,3,04:47,15:13,2,3,30.0,Minnesota Wild,MIN
+210,30,23,Minnesota Wild,Vancouver Canucks,2022020067502,2022020067,Takeaway,502,TAKEAWAY,Takeaway by Conor Garland,2022-10-21T02:05:22Z,3,05:11,14:49,2,3,23.0,Vancouver Canucks,VAN
+211,30,23,Minnesota Wild,Vancouver Canucks,2022020067503,2022020067,Hit,503,HIT,Matt Boldy hit Quinn Hughes,2022-10-21T02:06:05Z,3,05:54,14:06,2,3,30.0,Minnesota Wild,MIN
+212,30,23,Minnesota Wild,Vancouver Canucks,2022020067570,2022020067,Hit,570,HIT,Jake Middleton hit Dakota Joshua,2022-10-21T02:06:15Z,3,06:04,13:56,2,3,30.0,Minnesota Wild,MIN
+213,30,23,Minnesota Wild,Vancouver Canucks,2022020067572,2022020067,Stoppage,572,STOP,TV timeout,2022-10-21T02:07:22Z,3,07:11,12:49,2,3,,,
+214,30,23,Minnesota Wild,Vancouver Canucks,2022020067883,2022020067,Penalty,883,PENALTY,Tanner Pearson Tripping against Matt Boldy,2022-10-21T02:07:22Z,3,07:11,12:49,2,3,23.0,Vancouver Canucks,VAN
+215,30,23,Minnesota Wild,Vancouver Canucks,2022020067758,2022020067,Faceoff,758,FACEOFF,Joel Eriksson Ek faceoff won against Bo Horvat,2022-10-21T02:09:41Z,3,07:11,12:49,2,3,30.0,Minnesota Wild,MIN
+216,30,23,Minnesota Wild,Vancouver Canucks,2022020067504,2022020067,Takeaway,504,TAKEAWAY,Takeaway by Tyler Myers,2022-10-21T02:09:48Z,3,07:18,12:42,2,3,23.0,Vancouver Canucks,VAN
+217,30,23,Minnesota Wild,Vancouver Canucks,2022020067759,2022020067,Missed Shot,759,MISSED_SHOT,Mats Zuccarello Wide of Net Thatcher Demko,2022-10-21T02:10:13Z,3,07:43,12:17,2,3,30.0,Minnesota Wild,MIN
+218,30,23,Minnesota Wild,Vancouver Canucks,2022020067573,2022020067,Blocked Shot,573,BLOCKED_SHOT,Mats Zuccarello shot blocked shot by Tyler Myers,2022-10-21T02:10:32Z,3,08:02,11:58,2,3,23.0,Vancouver Canucks,VAN
+219,30,23,Minnesota Wild,Vancouver Canucks,2022020067760,2022020067,Shot,760,SHOT,Kirill Kaprizov Slap Shot saved by Thatcher Demko,2022-10-21T02:10:40Z,3,08:10,11:50,2,3,30.0,Minnesota Wild,MIN
+220,30,23,Minnesota Wild,Vancouver Canucks,2022020067761,2022020067,Shot,761,SHOT,Kirill Kaprizov Slap Shot saved by Thatcher Demko,2022-10-21T02:10:49Z,3,08:19,11:41,2,3,30.0,Minnesota Wild,MIN
+221,30,23,Minnesota Wild,Vancouver Canucks,2022020067762,2022020067,Goal,762,GOAL,"Mats Zuccarello (4) Tip-In, assists: Kirill Kaprizov (4), Calen Addison (5)",2022-10-21T02:11:01Z,3,08:31,11:29,3,3,30.0,Minnesota Wild,MIN
+222,30,23,Minnesota Wild,Vancouver Canucks,2022020067763,2022020067,Faceoff,763,FACEOFF,J.T. Miller faceoff won against Joel Eriksson Ek,2022-10-21T02:11:53Z,3,08:31,11:29,3,3,23.0,Vancouver Canucks,VAN
+223,30,23,Minnesota Wild,Vancouver Canucks,2022020067505,2022020067,Takeaway,505,TAKEAWAY,Takeaway by Marcus Foligno,2022-10-21T02:12:01Z,3,08:39,11:21,3,3,30.0,Minnesota Wild,MIN
+224,30,23,Minnesota Wild,Vancouver Canucks,2022020067574,2022020067,Stoppage,574,STOP,Puck Frozen,2022-10-21T02:12:06Z,3,08:44,11:16,3,3,,,
+225,30,23,Minnesota Wild,Vancouver Canucks,2022020067891,2022020067,Penalty,891,PENALTY,J.T. Miller Roughing against Marcus Foligno,2022-10-21T02:12:06Z,3,08:44,11:16,3,3,23.0,Vancouver Canucks,VAN
+226,30,23,Minnesota Wild,Vancouver Canucks,2022020067895,2022020067,Penalty,895,PENALTY,Marcus Foligno Roughing against J.T. Miller,2022-10-21T02:12:06Z,3,08:44,11:16,3,3,30.0,Minnesota Wild,MIN
+227,30,23,Minnesota Wild,Vancouver Canucks,2022020067764,2022020067,Faceoff,764,FACEOFF,Elias Pettersson faceoff won against Joel Eriksson Ek,2022-10-21T02:13:19Z,3,08:44,11:16,3,3,23.0,Vancouver Canucks,VAN
+228,30,23,Minnesota Wild,Vancouver Canucks,2022020067506,2022020067,Takeaway,506,TAKEAWAY,Takeaway by Kirill Kaprizov,2022-10-21T02:13:34Z,3,08:59,11:01,3,3,30.0,Minnesota Wild,MIN
+229,30,23,Minnesota Wild,Vancouver Canucks,2022020067765,2022020067,Shot,765,SHOT,Matt Dumba Snap Shot saved by Thatcher Demko,2022-10-21T02:13:39Z,3,09:04,10:56,3,3,30.0,Minnesota Wild,MIN
+230,30,23,Minnesota Wild,Vancouver Canucks,2022020067575,2022020067,Stoppage,575,STOP,Goalie Stopped,2022-10-21T02:13:41Z,3,09:06,10:54,3,3,,,
+231,30,23,Minnesota Wild,Vancouver Canucks,2022020067766,2022020067,Faceoff,766,FACEOFF,Bo Horvat faceoff won against Frederick Gaudreau,2022-10-21T02:14:20Z,3,09:06,10:54,3,3,23.0,Vancouver Canucks,VAN
+232,30,23,Minnesota Wild,Vancouver Canucks,2022020067576,2022020067,Blocked Shot,576,BLOCKED_SHOT,Matt Boldy shot blocked shot by Oliver Ekman-Larsson,2022-10-21T02:14:40Z,3,09:26,10:34,3,3,23.0,Vancouver Canucks,VAN
+233,30,23,Minnesota Wild,Vancouver Canucks,2022020067507,2022020067,Takeaway,507,TAKEAWAY,Takeaway by Tanner Pearson,2022-10-21T02:15:21Z,3,10:07,09:53,3,3,23.0,Vancouver Canucks,VAN
+234,30,23,Minnesota Wild,Vancouver Canucks,2022020067577,2022020067,Blocked Shot,577,BLOCKED_SHOT,Calen Addison shot blocked shot by Kyle Burroughs,2022-10-21T02:15:34Z,3,10:20,09:40,3,3,23.0,Vancouver Canucks,VAN
+235,30,23,Minnesota Wild,Vancouver Canucks,2022020067508,2022020067,Hit,508,HIT,Calen Addison hit Nils Aman,2022-10-21T02:15:39Z,3,10:25,09:35,3,3,30.0,Minnesota Wild,MIN
+236,30,23,Minnesota Wild,Vancouver Canucks,2022020067578,2022020067,Shot,578,SHOT,Brock Boeser Snap Shot saved by Marc-Andre Fleury,2022-10-21T02:16:05Z,3,10:51,09:09,3,3,23.0,Vancouver Canucks,VAN
+237,30,23,Minnesota Wild,Vancouver Canucks,2022020067509,2022020067,Hit,509,HIT,Joel Eriksson Ek hit J.T. Miller,2022-10-21T02:16:41Z,3,11:27,08:33,3,3,30.0,Minnesota Wild,MIN
+238,30,23,Minnesota Wild,Vancouver Canucks,2022020067767,2022020067,Shot,767,SHOT,Joel Eriksson Ek Deflected saved by Thatcher Demko,2022-10-21T02:16:52Z,3,11:38,08:22,3,3,30.0,Minnesota Wild,MIN
+239,30,23,Minnesota Wild,Vancouver Canucks,2022020067510,2022020067,Takeaway,510,TAKEAWAY,Takeaway by Jonas Brodin,2022-10-21T02:17:07Z,3,11:53,08:07,3,3,30.0,Minnesota Wild,MIN
+240,30,23,Minnesota Wild,Vancouver Canucks,2022020067579,2022020067,Stoppage,579,STOP,Goalie Puck Frozen Played Beyond Center Line,2022-10-21T02:17:14Z,3,11:59,08:01,3,3,,,
+241,30,23,Minnesota Wild,Vancouver Canucks,2022020067768,2022020067,Faceoff,768,FACEOFF,Elias Pettersson faceoff won against Ryan Hartman,2022-10-21T02:17:46Z,3,11:59,08:01,3,3,23.0,Vancouver Canucks,VAN
+242,30,23,Minnesota Wild,Vancouver Canucks,2022020067580,2022020067,Shot,580,SHOT,Andrei Kuzmenko Snap Shot saved by Marc-Andre Fleury,2022-10-21T02:18:01Z,3,12:14,07:46,3,3,23.0,Vancouver Canucks,VAN
+243,30,23,Minnesota Wild,Vancouver Canucks,2022020067581,2022020067,Blocked Shot,581,BLOCKED_SHOT,Jake Middleton shot blocked shot by Tyler Myers,2022-10-21T02:18:35Z,3,12:48,07:12,3,3,23.0,Vancouver Canucks,VAN
+244,30,23,Minnesota Wild,Vancouver Canucks,2022020067769,2022020067,Shot,769,SHOT,Brandon Duhaime Snap Shot saved by Thatcher Demko,2022-10-21T02:18:55Z,3,13:08,06:52,3,3,30.0,Minnesota Wild,MIN
+245,30,23,Minnesota Wild,Vancouver Canucks,2022020067770,2022020067,Blocked Shot,770,BLOCKED_SHOT,Tanner Pearson shot blocked shot by Jared Spurgeon,2022-10-21T02:19:37Z,3,13:50,06:10,3,3,30.0,Minnesota Wild,MIN
+246,30,23,Minnesota Wild,Vancouver Canucks,2022020067511,2022020067,Hit,511,HIT,Marcus Foligno hit Bo Horvat,2022-10-21T02:19:54Z,3,14:07,05:53,3,3,30.0,Minnesota Wild,MIN
+247,30,23,Minnesota Wild,Vancouver Canucks,2022020067582,2022020067,Hit,582,HIT,Jonas Brodin hit Tanner Pearson,2022-10-21T02:19:57Z,3,14:10,05:50,3,3,30.0,Minnesota Wild,MIN
+248,30,23,Minnesota Wild,Vancouver Canucks,2022020067583,2022020067,Stoppage,583,STOP,TV timeout,2022-10-21T02:20:17Z,3,14:29,05:31,3,3,,,
+249,30,23,Minnesota Wild,Vancouver Canucks,20220200671007,2022020067,Penalty,1007,PENALTY,Jonas Brodin Holding against Tanner Pearson,2022-10-21T02:20:17Z,3,14:29,05:31,3,3,30.0,Minnesota Wild,MIN
+250,30,23,Minnesota Wild,Vancouver Canucks,2022020067771,2022020067,Faceoff,771,FACEOFF,Frederick Gaudreau faceoff won against Bo Horvat,2022-10-21T02:22:36Z,3,14:29,05:31,3,3,30.0,Minnesota Wild,MIN
+251,30,23,Minnesota Wild,Vancouver Canucks,2022020067584,2022020067,Shot,584,SHOT,J.T. Miller Wrist Shot saved by Marc-Andre Fleury,2022-10-21T02:22:46Z,3,14:39,05:21,3,3,23.0,Vancouver Canucks,VAN
+252,30,23,Minnesota Wild,Vancouver Canucks,2022020067585,2022020067,Stoppage,585,STOP,Goalie Stopped,2022-10-21T02:22:48Z,3,14:41,05:19,3,3,,,
+253,30,23,Minnesota Wild,Vancouver Canucks,2022020067772,2022020067,Faceoff,772,FACEOFF,Bo Horvat faceoff won against Frederick Gaudreau,2022-10-21T02:23:11Z,3,14:41,05:19,3,3,23.0,Vancouver Canucks,VAN
+254,30,23,Minnesota Wild,Vancouver Canucks,2022020067358,2022020067,Missed Shot,358,MISSED_SHOT,Bo Horvat Wide of Net Marc-Andre Fleury,2022-10-21T02:23:57Z,3,15:27,04:33,3,3,23.0,Vancouver Canucks,VAN
+255,30,23,Minnesota Wild,Vancouver Canucks,2022020067586,2022020067,Shot,586,SHOT,Bo Horvat Snap Shot saved by Marc-Andre Fleury,2022-10-21T02:24:05Z,3,15:35,04:25,3,3,23.0,Vancouver Canucks,VAN
+256,30,23,Minnesota Wild,Vancouver Canucks,2022020067587,2022020067,Shot,587,SHOT,Andrei Kuzmenko Tip-In saved by Marc-Andre Fleury,2022-10-21T02:24:14Z,3,15:44,04:16,3,3,23.0,Vancouver Canucks,VAN
+257,30,23,Minnesota Wild,Vancouver Canucks,2022020067588,2022020067,Stoppage,588,STOP,Puck in Netting,2022-10-21T02:24:19Z,3,15:49,04:11,3,3,,,
+258,30,23,Minnesota Wild,Vancouver Canucks,2022020067773,2022020067,Faceoff,773,FACEOFF,Joel Eriksson Ek faceoff won against Brock Boeser,2022-10-21T02:24:46Z,3,15:49,04:11,3,3,30.0,Minnesota Wild,MIN
+259,30,23,Minnesota Wild,Vancouver Canucks,2022020067589,2022020067,Missed Shot,589,MISSED_SHOT,Brock Boeser Wide of Net Marc-Andre Fleury,2022-10-21T02:25:29Z,3,16:32,03:28,3,3,23.0,Vancouver Canucks,VAN
+260,30,23,Minnesota Wild,Vancouver Canucks,2022020067774,2022020067,Shot,774,SHOT,Joel Eriksson Ek Wrist Shot saved by Thatcher Demko,2022-10-21T02:25:33Z,3,16:36,03:24,3,3,30.0,Minnesota Wild,MIN
+261,30,23,Minnesota Wild,Vancouver Canucks,2022020067590,2022020067,Stoppage,590,STOP,Goalie Stopped,2022-10-21T02:25:35Z,3,16:38,03:22,3,3,,,
+262,30,23,Minnesota Wild,Vancouver Canucks,2022020067775,2022020067,Faceoff,775,FACEOFF,Bo Horvat faceoff won against Ryan Hartman,2022-10-21T02:27:53Z,3,16:38,03:22,3,3,23.0,Vancouver Canucks,VAN
+263,30,23,Minnesota Wild,Vancouver Canucks,2022020067776,2022020067,Shot,776,SHOT,Ryan Hartman Wrist Shot saved by Thatcher Demko,2022-10-21T02:28:11Z,3,16:56,03:04,3,3,30.0,Minnesota Wild,MIN
+264,30,23,Minnesota Wild,Vancouver Canucks,2022020067591,2022020067,Blocked Shot,591,BLOCKED_SHOT,Matt Dumba shot blocked shot by Curtis Lazar,2022-10-21T02:28:20Z,3,17:05,02:55,3,3,23.0,Vancouver Canucks,VAN
+265,30,23,Minnesota Wild,Vancouver Canucks,2022020067592,2022020067,Blocked Shot,592,BLOCKED_SHOT,Jonas Brodin shot blocked shot by Curtis Lazar,2022-10-21T02:28:23Z,3,17:08,02:52,3,3,23.0,Vancouver Canucks,VAN
+266,30,23,Minnesota Wild,Vancouver Canucks,2022020067512,2022020067,Hit,512,HIT,Vasily Podkolzin hit Marcus Foligno,2022-10-21T02:29:08Z,3,17:53,02:07,3,3,23.0,Vancouver Canucks,VAN
+267,30,23,Minnesota Wild,Vancouver Canucks,2022020067777,2022020067,Shot,777,SHOT,Marcus Foligno Wrist Shot saved by Thatcher Demko,2022-10-21T02:29:11Z,3,17:56,02:04,3,3,30.0,Minnesota Wild,MIN
+268,30,23,Minnesota Wild,Vancouver Canucks,2022020067593,2022020067,Stoppage,593,STOP,Goalie Stopped,2022-10-21T02:29:14Z,3,17:58,02:02,3,3,,,
+269,30,23,Minnesota Wild,Vancouver Canucks,2022020067778,2022020067,Faceoff,778,FACEOFF,Bo Horvat faceoff won against Frederick Gaudreau,2022-10-21T02:29:47Z,3,17:58,02:02,3,3,23.0,Vancouver Canucks,VAN
+270,30,23,Minnesota Wild,Vancouver Canucks,2022020067779,2022020067,Shot,779,SHOT,Frederick Gaudreau Wrist Shot saved by Thatcher Demko,2022-10-21T02:30:04Z,3,18:15,01:45,3,3,30.0,Minnesota Wild,MIN
+271,30,23,Minnesota Wild,Vancouver Canucks,2022020067594,2022020067,Stoppage,594,STOP,Goalie Stopped,2022-10-21T02:30:06Z,3,18:17,01:43,3,3,,,
+272,30,23,Minnesota Wild,Vancouver Canucks,2022020067780,2022020067,Faceoff,780,FACEOFF,Frederick Gaudreau faceoff won against Elias Pettersson,2022-10-21T02:30:35Z,3,18:17,01:43,3,3,30.0,Minnesota Wild,MIN
+273,30,23,Minnesota Wild,Vancouver Canucks,2022020067595,2022020067,Blocked Shot,595,BLOCKED_SHOT,Jared Spurgeon shot blocked shot by Elias Pettersson,2022-10-21T02:30:40Z,3,18:22,01:38,3,3,23.0,Vancouver Canucks,VAN
+274,30,23,Minnesota Wild,Vancouver Canucks,2022020067596,2022020067,Blocked Shot,596,BLOCKED_SHOT,Jonas Brodin shot blocked shot by Ilya Mikheyev,2022-10-21T02:30:57Z,3,18:39,01:21,3,3,23.0,Vancouver Canucks,VAN
+275,30,23,Minnesota Wild,Vancouver Canucks,2022020067513,2022020067,Giveaway,513,GIVEAWAY,Giveaway by Thatcher Demko,2022-10-21T02:31:30Z,3,19:12,00:48,3,3,23.0,Vancouver Canucks,VAN
+276,30,23,Minnesota Wild,Vancouver Canucks,2022020067514,2022020067,Hit,514,HIT,Marcus Foligno hit Curtis Lazar,2022-10-21T02:31:37Z,3,19:19,00:41,3,3,30.0,Minnesota Wild,MIN
+277,30,23,Minnesota Wild,Vancouver Canucks,2022020067515,2022020067,Giveaway,515,GIVEAWAY,Giveaway by Calen Addison,2022-10-21T02:32:06Z,3,19:48,00:12,3,3,30.0,Minnesota Wild,MIN
+278,30,23,Minnesota Wild,Vancouver Canucks,2022020067781,2022020067,Period End,781,PERIOD_END,End of 3rd Period,2022-10-21T02:32:18Z,3,20:00,00:00,3,3,,,
+279,30,23,Minnesota Wild,Vancouver Canucks,2022020067784,2022020067,Period Official,784,PERIOD_OFFICIAL,Period Official,2022-10-21T02:32:23Z,3,20:00,00:00,3,3,,,
+280,30,23,Minnesota Wild,Vancouver Canucks,2022020067785,2022020067,Period Ready,785,PERIOD_READY,Period Ready,2022-10-21T02:34:29Z,4,00:00,05:00,3,3,,,
+281,30,23,Minnesota Wild,Vancouver Canucks,2022020067786,2022020067,Period Start,786,PERIOD_START,Period Start,2022-10-21T02:34:42Z,4,00:00,05:00,3,3,,,
+282,30,23,Minnesota Wild,Vancouver Canucks,2022020067787,2022020067,Faceoff,787,FACEOFF,Bo Horvat faceoff won against Joel Eriksson Ek,2022-10-21T02:34:42Z,4,00:00,05:00,3,3,23.0,Vancouver Canucks,VAN
+283,30,23,Minnesota Wild,Vancouver Canucks,2022020067788,2022020067,Missed Shot,788,MISSED_SHOT,Elias Pettersson Wide of Net Marc-Andre Fleury,2022-10-21T02:35:27Z,4,00:45,04:15,3,3,23.0,Vancouver Canucks,VAN
+284,30,23,Minnesota Wild,Vancouver Canucks,2022020067516,2022020067,Takeaway,516,TAKEAWAY,Takeaway by Elias Pettersson,2022-10-21T02:35:35Z,4,00:53,04:07,3,3,23.0,Vancouver Canucks,VAN
+285,30,23,Minnesota Wild,Vancouver Canucks,2022020067517,2022020067,Takeaway,517,TAKEAWAY,Takeaway by Matt Boldy,2022-10-21T02:36:15Z,4,01:33,03:27,3,3,30.0,Minnesota Wild,MIN
+286,30,23,Minnesota Wild,Vancouver Canucks,2022020067597,2022020067,Shot,597,SHOT,Mats Zuccarello Snap Shot saved by Thatcher Demko,2022-10-21T02:36:58Z,4,02:16,02:44,3,3,30.0,Minnesota Wild,MIN
+287,30,23,Minnesota Wild,Vancouver Canucks,2022020067598,2022020067,Shot,598,SHOT,Kirill Kaprizov Wrist Shot saved by Thatcher Demko,2022-10-21T02:37:11Z,4,02:29,02:31,3,3,30.0,Minnesota Wild,MIN
+288,30,23,Minnesota Wild,Vancouver Canucks,2022020067599,2022020067,Shot,599,SHOT,Mats Zuccarello Wrist Shot saved by Thatcher Demko,2022-10-21T02:37:30Z,4,02:47,02:13,3,3,30.0,Minnesota Wild,MIN
+289,30,23,Minnesota Wild,Vancouver Canucks,2022020067901,2022020067,Shot,901,SHOT,Kirill Kaprizov Wrist Shot saved by Thatcher Demko,2022-10-21T02:37:43Z,4,03:00,02:00,3,3,30.0,Minnesota Wild,MIN
+290,30,23,Minnesota Wild,Vancouver Canucks,2022020067600,2022020067,Goal,600,GOAL,"Kirill Kaprizov (4) Wrist Shot, assists: Mats Zuccarello (4), Calen Addison (6)",2022-10-21T02:37:45Z,4,03:02,01:58,4,3,30.0,Minnesota Wild,MIN
+291,30,23,Minnesota Wild,Vancouver Canucks,2022020067789,2022020067,Period End,789,PERIOD_END,End of OT,2022-10-21T02:37:45Z,4,03:02,01:58,4,3,,,
+292,30,23,Minnesota Wild,Vancouver Canucks,2022020067792,2022020067,Period Official,792,PERIOD_OFFICIAL,Period Official,2022-10-21T02:38:05Z,4,03:02,01:58,4,3,,,
+293,30,23,Minnesota Wild,Vancouver Canucks,2022020067794,2022020067,Game End,794,GAME_END,Game End,2022-10-21T02:46:42Z,4,03:02,01:58,4,3,,,
+294,30,23,Minnesota Wild,Vancouver Canucks,20220200671291,2022020067,Game Official,1291,GAME_OFFICIAL,Game Official,2022-10-21T13:57:14Z,4,03:02,01:58,4,3,,,

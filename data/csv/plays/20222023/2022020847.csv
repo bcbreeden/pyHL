@@ -1,0 +1,315 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,15,28,Washington Capitals,San Jose Sharks,20220208471,2022020847,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-02-12T17:46:37Z,1,00:00,20:00,0,0,,,
+1,15,28,Washington Capitals,San Jose Sharks,20220208475,2022020847,Period Ready,5,PERIOD_READY,Period Ready,2023-02-12T18:38:41Z,1,00:00,20:00,0,0,,,
+2,15,28,Washington Capitals,San Jose Sharks,202202084751,2022020847,Period Start,51,PERIOD_START,Period Start,2023-02-12T18:39:43Z,1,00:00,20:00,0,0,,,
+3,15,28,Washington Capitals,San Jose Sharks,202202084752,2022020847,Faceoff,52,FACEOFF,Logan Couture faceoff won against Dylan Strome,2023-02-12T18:39:43Z,1,00:00,20:00,0,0,28.0,San Jose Sharks,SJS
+4,15,28,Washington Capitals,San Jose Sharks,20220208478,2022020847,Missed Shot,8,MISSED_SHOT,Scott Harrington Wide of Net Charlie Lindgren,2023-02-12T18:39:57Z,1,00:14,19:46,0,0,28.0,San Jose Sharks,SJS
+5,15,28,Washington Capitals,San Jose Sharks,2022020847152,2022020847,Hit,152,HIT,Alex Ovechkin hit Erik Karlsson,2023-02-12T18:40:00Z,1,00:17,19:43,0,0,15.0,Washington Capitals,WSH
+6,15,28,Washington Capitals,San Jose Sharks,20220208479,2022020847,Shot,9,SHOT,Marcus Johansson Wrist Shot saved by Kaapo Kahkonen,2023-02-12T18:40:43Z,1,01:00,19:00,0,0,15.0,Washington Capitals,WSH
+7,15,28,Washington Capitals,San Jose Sharks,202202084711,2022020847,Missed Shot,11,MISSED_SHOT,Sonny Milano Wide of Net Kaapo Kahkonen,2023-02-12T18:40:47Z,1,01:04,18:56,0,0,15.0,Washington Capitals,WSH
+8,15,28,Washington Capitals,San Jose Sharks,202202084710,2022020847,Missed Shot,10,MISSED_SHOT,Sonny Milano Wide of Net Kaapo Kahkonen,2023-02-12T18:40:54Z,1,01:11,18:49,0,0,15.0,Washington Capitals,WSH
+9,15,28,Washington Capitals,San Jose Sharks,202202084712,2022020847,Missed Shot,12,MISSED_SHOT,Martin Fehervary Wide of Net Kaapo Kahkonen,2023-02-12T18:41:22Z,1,01:39,18:21,0,0,15.0,Washington Capitals,WSH
+10,15,28,Washington Capitals,San Jose Sharks,2022020847351,2022020847,Missed Shot,351,MISSED_SHOT,Martin Fehervary Wide of Net Kaapo Kahkonen,2023-02-12T18:41:23Z,1,01:40,18:20,0,0,15.0,Washington Capitals,WSH
+11,15,28,Washington Capitals,San Jose Sharks,2022020847352,2022020847,Blocked Shot,352,BLOCKED_SHOT,Trevor van Riemsdyk shot blocked shot by Noah Gregor,2023-02-12T18:41:56Z,1,02:13,17:47,0,0,28.0,San Jose Sharks,SJS
+12,15,28,Washington Capitals,San Jose Sharks,2022020847153,2022020847,Takeaway,153,TAKEAWAY,Takeaway by Oskar Lindblom,2023-02-12T18:42:15Z,1,02:32,17:28,0,0,28.0,San Jose Sharks,SJS
+13,15,28,Washington Capitals,San Jose Sharks,202202084714,2022020847,Goal,14,GOAL,"Evgeny Svechnikov (5) Wrist Shot, assists: Jonah Gadjovich (4), Erik Karlsson (54)",2023-02-12T18:42:38Z,1,02:54,17:06,0,1,28.0,San Jose Sharks,SJS
+14,15,28,Washington Capitals,San Jose Sharks,2022020847154,2022020847,Faceoff,154,FACEOFF,Lars Eller faceoff won against Logan Couture,2023-02-12T18:43:13Z,1,02:54,17:06,0,1,15.0,Washington Capitals,WSH
+15,15,28,Washington Capitals,San Jose Sharks,2022020847155,2022020847,Hit,155,HIT,Garnet Hathaway hit Alexander Barabanov,2023-02-12T18:43:29Z,1,03:10,16:50,0,1,15.0,Washington Capitals,WSH
+16,15,28,Washington Capitals,San Jose Sharks,2022020847139,2022020847,Penalty,139,PENALTY,Michael Eyssimont Tripping against Dmitry Orlov,2023-02-12T18:43:50Z,1,03:31,16:29,0,1,28.0,San Jose Sharks,SJS
+17,15,28,Washington Capitals,San Jose Sharks,202202084754,2022020847,Faceoff,54,FACEOFF,Nico Sturm faceoff won against T.J. Oshie,2023-02-12T18:44:21Z,1,03:31,16:29,0,1,28.0,San Jose Sharks,SJS
+18,15,28,Washington Capitals,San Jose Sharks,202202084715,2022020847,Missed Shot,15,MISSED_SHOT,T.J. Oshie Over Net Kaapo Kahkonen,2023-02-12T18:44:38Z,1,03:48,16:12,0,1,15.0,Washington Capitals,WSH
+19,15,28,Washington Capitals,San Jose Sharks,202202084716,2022020847,Missed Shot,16,MISSED_SHOT,T.J. Oshie Wide of Net Kaapo Kahkonen,2023-02-12T18:44:48Z,1,03:58,16:02,0,1,15.0,Washington Capitals,WSH
+20,15,28,Washington Capitals,San Jose Sharks,2022020847157,2022020847,Takeaway,157,TAKEAWAY,Takeaway by Steven Lorentz,2023-02-12T18:45:08Z,1,04:18,15:42,0,1,28.0,San Jose Sharks,SJS
+21,15,28,Washington Capitals,San Jose Sharks,202202084717,2022020847,Missed Shot,17,MISSED_SHOT,Alex Ovechkin Over Net Kaapo Kahkonen,2023-02-12T18:45:31Z,1,04:41,15:19,0,1,15.0,Washington Capitals,WSH
+22,15,28,Washington Capitals,San Jose Sharks,2022020847158,2022020847,Giveaway,158,GIVEAWAY,Giveaway by Dmitry Orlov,2023-02-12T18:46:14Z,1,05:24,14:36,0,1,15.0,Washington Capitals,WSH
+23,15,28,Washington Capitals,San Jose Sharks,202202084718,2022020847,Shot,18,SHOT,Tomas Hertl Backhand saved by Charlie Lindgren,2023-02-12T18:46:17Z,1,05:27,14:33,0,1,28.0,San Jose Sharks,SJS
+24,15,28,Washington Capitals,San Jose Sharks,2022020847159,2022020847,Hit,159,HIT,Lars Eller hit Tomas Hertl,2023-02-12T18:46:31Z,1,05:41,14:19,0,1,15.0,Washington Capitals,WSH
+25,15,28,Washington Capitals,San Jose Sharks,202202084719,2022020847,Missed Shot,19,MISSED_SHOT,Dylan Strome Over Net Kaapo Kahkonen,2023-02-12T18:46:41Z,1,05:51,14:09,0,1,15.0,Washington Capitals,WSH
+26,15,28,Washington Capitals,San Jose Sharks,202202084720,2022020847,Shot,20,SHOT,Dylan Strome Deflected saved by Kaapo Kahkonen,2023-02-12T18:46:43Z,1,05:53,14:07,0,1,15.0,Washington Capitals,WSH
+27,15,28,Washington Capitals,San Jose Sharks,202202084755,2022020847,Stoppage,55,STOP,Goalie Stopped,2023-02-12T18:46:44Z,1,05:54,14:06,0,1,,,
+28,15,28,Washington Capitals,San Jose Sharks,202202084756,2022020847,Faceoff,56,FACEOFF,Logan Couture faceoff won against Lars Eller,2023-02-12T18:47:14Z,1,05:54,14:06,0,1,28.0,San Jose Sharks,SJS
+29,15,28,Washington Capitals,San Jose Sharks,2022020847160,2022020847,Hit,160,HIT,Jacob MacDonald hit Garnet Hathaway,2023-02-12T18:47:40Z,1,06:20,13:40,0,1,28.0,San Jose Sharks,SJS
+30,15,28,Washington Capitals,San Jose Sharks,2022020847162,2022020847,Giveaway,162,GIVEAWAY,Giveaway by Marc-Edouard Vlasic,2023-02-12T18:48:10Z,1,06:50,13:10,0,1,28.0,San Jose Sharks,SJS
+31,15,28,Washington Capitals,San Jose Sharks,2022020847353,2022020847,Blocked Shot,353,BLOCKED_SHOT,Nicklas Backstrom shot blocked shot by Timo Meier,2023-02-12T18:48:12Z,1,06:52,13:08,0,1,28.0,San Jose Sharks,SJS
+32,15,28,Washington Capitals,San Jose Sharks,202202084721,2022020847,Shot,21,SHOT,Sonny Milano Backhand saved by Kaapo Kahkonen,2023-02-12T18:48:42Z,1,07:22,12:38,0,1,15.0,Washington Capitals,WSH
+33,15,28,Washington Capitals,San Jose Sharks,202202084757,2022020847,Stoppage,57,STOP,Goalie Stopped,2023-02-12T18:48:43Z,1,07:23,12:37,0,1,,,
+34,15,28,Washington Capitals,San Jose Sharks,202202084758,2022020847,Faceoff,58,FACEOFF,Nico Sturm faceoff won against Dylan Strome,2023-02-12T18:51:13Z,1,07:23,12:37,0,1,28.0,San Jose Sharks,SJS
+35,15,28,Washington Capitals,San Jose Sharks,202202084759,2022020847,Stoppage,59,STOP,Icing,2023-02-12T18:51:42Z,1,07:52,12:08,0,1,,,
+36,15,28,Washington Capitals,San Jose Sharks,202202084760,2022020847,Faceoff,60,FACEOFF,Nico Sturm faceoff won against Evgeny Kuznetsov,2023-02-12T18:52:06Z,1,07:52,12:08,0,1,28.0,San Jose Sharks,SJS
+37,15,28,Washington Capitals,San Jose Sharks,2022020847163,2022020847,Hit,163,HIT,Noah Gregor hit Dmitry Orlov,2023-02-12T18:52:18Z,1,08:04,11:56,0,1,28.0,San Jose Sharks,SJS
+38,15,28,Washington Capitals,San Jose Sharks,202202084723,2022020847,Blocked Shot,23,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Nick Jensen,2023-02-12T18:53:02Z,1,08:48,11:12,0,1,15.0,Washington Capitals,WSH
+39,15,28,Washington Capitals,San Jose Sharks,2022020847164,2022020847,Giveaway,164,GIVEAWAY,Giveaway by Lars Eller,2023-02-12T18:53:23Z,1,09:09,10:51,0,1,15.0,Washington Capitals,WSH
+40,15,28,Washington Capitals,San Jose Sharks,202202084724,2022020847,Missed Shot,24,MISSED_SHOT,Marc-Edouard Vlasic Wide of Net Charlie Lindgren,2023-02-12T18:53:30Z,1,09:16,10:44,0,1,28.0,San Jose Sharks,SJS
+41,15,28,Washington Capitals,San Jose Sharks,2022020847165,2022020847,Giveaway,165,GIVEAWAY,Giveaway by Alexander Barabanov,2023-02-12T18:53:42Z,1,09:28,10:32,0,1,28.0,San Jose Sharks,SJS
+42,15,28,Washington Capitals,San Jose Sharks,202202084725,2022020847,Missed Shot,25,MISSED_SHOT,Evgeny Svechnikov Wide of Net Charlie Lindgren,2023-02-12T18:54:09Z,1,09:55,10:05,0,1,28.0,San Jose Sharks,SJS
+43,15,28,Washington Capitals,San Jose Sharks,2022020847166,2022020847,Hit,166,HIT,Evgeny Svechnikov hit Lars Eller,2023-02-12T18:54:20Z,1,10:06,09:54,0,1,28.0,San Jose Sharks,SJS
+44,15,28,Washington Capitals,San Jose Sharks,2022020847167,2022020847,Takeaway,167,TAKEAWAY,Takeaway by Erik Gustafsson,2023-02-12T18:54:31Z,1,10:17,09:43,0,1,15.0,Washington Capitals,WSH
+45,15,28,Washington Capitals,San Jose Sharks,202202084761,2022020847,Stoppage,61,STOP,TV timeout,2023-02-12T18:54:36Z,1,10:23,09:37,0,1,,,
+46,15,28,Washington Capitals,San Jose Sharks,2022020847250,2022020847,Penalty,250,PENALTY,Alex Ovechkin Hooking against Jacob MacDonald,2023-02-12T18:54:36Z,1,10:23,09:37,0,1,15.0,Washington Capitals,WSH
+47,15,28,Washington Capitals,San Jose Sharks,202202084762,2022020847,Faceoff,62,FACEOFF,Lars Eller faceoff won against Tomas Hertl,2023-02-12T18:56:52Z,1,10:23,09:37,0,1,15.0,Washington Capitals,WSH
+48,15,28,Washington Capitals,San Jose Sharks,202202084726,2022020847,Blocked Shot,26,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Garnet Hathaway,2023-02-12T18:57:06Z,1,10:37,09:23,0,1,15.0,Washington Capitals,WSH
+49,15,28,Washington Capitals,San Jose Sharks,202202084727,2022020847,Missed Shot,27,MISSED_SHOT,Erik Karlsson Wide of Net Charlie Lindgren,2023-02-12T18:57:18Z,1,10:49,09:11,0,1,28.0,San Jose Sharks,SJS
+50,15,28,Washington Capitals,San Jose Sharks,202202084763,2022020847,Stoppage,63,STOP,Offside,2023-02-12T18:57:45Z,1,11:15,08:45,0,1,,,
+51,15,28,Washington Capitals,San Jose Sharks,202202084764,2022020847,Faceoff,64,FACEOFF,Evgeny Kuznetsov faceoff won against Nick Bonino,2023-02-12T18:58:14Z,1,11:15,08:45,0,1,15.0,Washington Capitals,WSH
+52,15,28,Washington Capitals,San Jose Sharks,202202084728,2022020847,Blocked Shot,28,BLOCKED_SHOT,Michael Eyssimont shot blocked shot by Martin Fehervary,2023-02-12T18:59:08Z,1,12:09,07:51,0,1,15.0,Washington Capitals,WSH
+53,15,28,Washington Capitals,San Jose Sharks,202202084729,2022020847,Shot,29,SHOT,Noah Gregor Wrist Shot saved by Charlie Lindgren,2023-02-12T18:59:23Z,1,12:24,07:36,0,1,28.0,San Jose Sharks,SJS
+54,15,28,Washington Capitals,San Jose Sharks,202202084730,2022020847,Shot,30,SHOT,Nico Sturm Wrist Shot saved by Charlie Lindgren,2023-02-12T18:59:24Z,1,12:25,07:35,0,1,28.0,San Jose Sharks,SJS
+55,15,28,Washington Capitals,San Jose Sharks,202202084765,2022020847,Stoppage,65,STOP,Icing,2023-02-12T18:59:33Z,1,12:35,07:25,0,1,,,
+56,15,28,Washington Capitals,San Jose Sharks,202202084766,2022020847,Faceoff,66,FACEOFF,Nico Sturm faceoff won against Dylan Strome,2023-02-12T19:00:00Z,1,12:35,07:25,0,1,28.0,San Jose Sharks,SJS
+57,15,28,Washington Capitals,San Jose Sharks,202202084731,2022020847,Missed Shot,31,MISSED_SHOT,Mario Ferraro Over Net Charlie Lindgren,2023-02-12T19:00:03Z,1,12:38,07:22,0,1,28.0,San Jose Sharks,SJS
+58,15,28,Washington Capitals,San Jose Sharks,2022020847169,2022020847,Giveaway,169,GIVEAWAY,Giveaway by Erik Gustafsson,2023-02-12T19:00:17Z,1,12:52,07:08,0,1,15.0,Washington Capitals,WSH
+59,15,28,Washington Capitals,San Jose Sharks,202202084732,2022020847,Shot,32,SHOT,Evgeny Svechnikov Snap Shot saved by Charlie Lindgren,2023-02-12T19:00:19Z,1,12:54,07:06,0,1,28.0,San Jose Sharks,SJS
+60,15,28,Washington Capitals,San Jose Sharks,202202084733,2022020847,Blocked Shot,33,BLOCKED_SHOT,T.J. Oshie shot blocked shot by Marc-Edouard Vlasic,2023-02-12T19:00:40Z,1,13:15,06:45,0,1,28.0,San Jose Sharks,SJS
+61,15,28,Washington Capitals,San Jose Sharks,2022020847170,2022020847,Hit,170,HIT,Nicklas Backstrom hit Timo Meier,2023-02-12T19:01:14Z,1,13:49,06:11,0,1,15.0,Washington Capitals,WSH
+62,15,28,Washington Capitals,San Jose Sharks,202202084734,2022020847,Shot,34,SHOT,Conor Sheary Wrist Shot saved by Kaapo Kahkonen,2023-02-12T19:01:51Z,1,14:26,05:34,0,1,15.0,Washington Capitals,WSH
+63,15,28,Washington Capitals,San Jose Sharks,202202084767,2022020847,Stoppage,67,STOP,Goalie Stopped,2023-02-12T19:01:53Z,1,14:27,05:33,0,1,,,
+64,15,28,Washington Capitals,San Jose Sharks,202202084768,2022020847,Faceoff,68,FACEOFF,Dylan Strome faceoff won against Logan Couture,2023-02-12T19:04:12Z,1,14:27,05:33,0,1,15.0,Washington Capitals,WSH
+65,15,28,Washington Capitals,San Jose Sharks,202202084735,2022020847,Missed Shot,35,MISSED_SHOT,Alex Ovechkin Wide of Net Kaapo Kahkonen,2023-02-12T19:04:14Z,1,14:29,05:31,0,1,15.0,Washington Capitals,WSH
+66,15,28,Washington Capitals,San Jose Sharks,202202084736,2022020847,Shot,36,SHOT,Nicolas Aube-Kubel Snap Shot saved by Kaapo Kahkonen,2023-02-12T19:04:26Z,1,14:41,05:19,0,1,15.0,Washington Capitals,WSH
+67,15,28,Washington Capitals,San Jose Sharks,202202084737,2022020847,Missed Shot,37,MISSED_SHOT,Dylan Strome Wide of Net Kaapo Kahkonen,2023-02-12T19:04:34Z,1,14:49,05:11,0,1,15.0,Washington Capitals,WSH
+68,15,28,Washington Capitals,San Jose Sharks,2022020847171,2022020847,Hit,171,HIT,Nicolas Aube-Kubel hit Jacob MacDonald,2023-02-12T19:04:38Z,1,14:53,05:07,0,1,15.0,Washington Capitals,WSH
+69,15,28,Washington Capitals,San Jose Sharks,2022020847173,2022020847,Hit,173,HIT,Logan Couture hit Dylan Strome,2023-02-12T19:04:40Z,1,14:55,05:05,0,1,28.0,San Jose Sharks,SJS
+70,15,28,Washington Capitals,San Jose Sharks,202202084738,2022020847,Shot,38,SHOT,Oskar Lindblom Wrist Shot saved by Charlie Lindgren,2023-02-12T19:04:49Z,1,15:04,04:56,0,1,28.0,San Jose Sharks,SJS
+71,15,28,Washington Capitals,San Jose Sharks,202202084769,2022020847,Stoppage,69,STOP,Goalie Stopped,2023-02-12T19:04:51Z,1,15:05,04:55,0,1,,,
+72,15,28,Washington Capitals,San Jose Sharks,202202084770,2022020847,Faceoff,70,FACEOFF,Nico Sturm faceoff won against Evgeny Kuznetsov,2023-02-12T19:05:21Z,1,15:05,04:55,0,1,28.0,San Jose Sharks,SJS
+73,15,28,Washington Capitals,San Jose Sharks,202202084739,2022020847,Shot,39,SHOT,Noah Gregor Wrist Shot saved by Charlie Lindgren,2023-02-12T19:05:23Z,1,15:07,04:53,0,1,28.0,San Jose Sharks,SJS
+74,15,28,Washington Capitals,San Jose Sharks,202202084771,2022020847,Stoppage,71,STOP,Goalie Stopped,2023-02-12T19:05:25Z,1,15:08,04:52,0,1,,,
+75,15,28,Washington Capitals,San Jose Sharks,202202084772,2022020847,Faceoff,72,FACEOFF,Nico Sturm faceoff won against Evgeny Kuznetsov,2023-02-12T19:05:43Z,1,15:08,04:52,0,1,28.0,San Jose Sharks,SJS
+76,15,28,Washington Capitals,San Jose Sharks,202202084740,2022020847,Missed Shot,40,MISSED_SHOT,Nico Sturm Wide of Net Charlie Lindgren,2023-02-12T19:05:48Z,1,15:13,04:47,0,1,28.0,San Jose Sharks,SJS
+77,15,28,Washington Capitals,San Jose Sharks,202202084741,2022020847,Blocked Shot,41,BLOCKED_SHOT,Matt Benning shot blocked shot by Evgeny Kuznetsov,2023-02-12T19:05:55Z,1,15:20,04:40,0,1,15.0,Washington Capitals,WSH
+78,15,28,Washington Capitals,San Jose Sharks,202202084742,2022020847,Shot,42,SHOT,Nick Jensen Snap Shot saved by Kaapo Kahkonen,2023-02-12T19:06:35Z,1,16:00,04:00,0,1,15.0,Washington Capitals,WSH
+79,15,28,Washington Capitals,San Jose Sharks,2022020847175,2022020847,Hit,175,HIT,Mario Ferraro hit Sonny Milano,2023-02-12T19:07:29Z,1,16:54,03:06,0,1,28.0,San Jose Sharks,SJS
+80,15,28,Washington Capitals,San Jose Sharks,2022020847176,2022020847,Hit,176,HIT,Michael Eyssimont hit Erik Gustafsson,2023-02-12T19:07:46Z,1,17:11,02:49,0,1,28.0,San Jose Sharks,SJS
+81,15,28,Washington Capitals,San Jose Sharks,202202084743,2022020847,Shot,43,SHOT,Aliaksei Protas Backhand saved by Kaapo Kahkonen,2023-02-12T19:08:04Z,1,17:29,02:31,0,1,15.0,Washington Capitals,WSH
+82,15,28,Washington Capitals,San Jose Sharks,202202084775,2022020847,Stoppage,75,STOP,Goalie Stopped,2023-02-12T19:08:05Z,1,17:30,02:30,0,1,,,
+83,15,28,Washington Capitals,San Jose Sharks,202202084776,2022020847,Faceoff,76,FACEOFF,Nico Sturm faceoff won against Dylan Strome,2023-02-12T19:08:34Z,1,17:30,02:30,0,1,28.0,San Jose Sharks,SJS
+84,15,28,Washington Capitals,San Jose Sharks,2022020847177,2022020847,Hit,177,HIT,Nicolas Aube-Kubel hit Matt Benning,2023-02-12T19:08:43Z,1,17:39,02:21,0,1,15.0,Washington Capitals,WSH
+85,15,28,Washington Capitals,San Jose Sharks,2022020847422,2022020847,Penalty,422,PENALTY,Scott Harrington Delaying Game - Puck over glass,2023-02-12T19:09:41Z,1,18:37,01:23,0,1,28.0,San Jose Sharks,SJS
+86,15,28,Washington Capitals,San Jose Sharks,202202084778,2022020847,Faceoff,78,FACEOFF,T.J. Oshie faceoff won against Logan Couture,2023-02-12T19:10:56Z,1,18:37,01:23,0,1,15.0,Washington Capitals,WSH
+87,15,28,Washington Capitals,San Jose Sharks,202202084744,2022020847,Shot,44,SHOT,Erik Gustafsson Wrist Shot saved by Kaapo Kahkonen,2023-02-12T19:11:05Z,1,18:46,01:14,0,1,15.0,Washington Capitals,WSH
+88,15,28,Washington Capitals,San Jose Sharks,202202084779,2022020847,Stoppage,79,STOP,Goalie Stopped,2023-02-12T19:11:06Z,1,18:47,01:13,0,1,,,
+89,15,28,Washington Capitals,San Jose Sharks,202202084780,2022020847,Faceoff,80,FACEOFF,T.J. Oshie faceoff won against Logan Couture,2023-02-12T19:11:22Z,1,18:47,01:13,0,1,15.0,Washington Capitals,WSH
+90,15,28,Washington Capitals,San Jose Sharks,202202084745,2022020847,Blocked Shot,45,BLOCKED_SHOT,Erik Gustafsson shot blocked shot by Nick Bonino,2023-02-12T19:11:36Z,1,19:01,00:59,0,1,28.0,San Jose Sharks,SJS
+91,15,28,Washington Capitals,San Jose Sharks,202202084746,2022020847,Shot,46,SHOT,T.J. Oshie Slap Shot saved by Kaapo Kahkonen,2023-02-12T19:11:47Z,1,19:12,00:48,0,1,15.0,Washington Capitals,WSH
+92,15,28,Washington Capitals,San Jose Sharks,202202084747,2022020847,Period End,47,PERIOD_END,End of 1st Period,2023-02-12T19:12:36Z,1,20:00,00:00,0,1,,,
+93,15,28,Washington Capitals,San Jose Sharks,202202084750,2022020847,Period Official,50,PERIOD_OFFICIAL,Period Official,2023-02-12T19:26:30Z,1,20:00,00:00,0,1,,,
+94,15,28,Washington Capitals,San Jose Sharks,2022020847251,2022020847,Period Ready,251,PERIOD_READY,Period Ready,2023-02-12T19:29:18Z,2,00:00,20:00,0,1,,,
+95,15,28,Washington Capitals,San Jose Sharks,202202084781,2022020847,Period Start,81,PERIOD_START,Period Start,2023-02-12T19:31:23Z,2,00:00,20:00,0,1,,,
+96,15,28,Washington Capitals,San Jose Sharks,202202084782,2022020847,Faceoff,82,FACEOFF,Nicklas Backstrom faceoff won against Logan Couture,2023-02-12T19:31:23Z,2,00:00,20:00,0,1,15.0,Washington Capitals,WSH
+97,15,28,Washington Capitals,San Jose Sharks,2022020847252,2022020847,Blocked Shot,252,BLOCKED_SHOT,Nicklas Backstrom shot blocked shot by Matt Benning,2023-02-12T19:31:52Z,2,00:29,19:31,0,1,28.0,San Jose Sharks,SJS
+98,15,28,Washington Capitals,San Jose Sharks,2022020847254,2022020847,Blocked Shot,254,BLOCKED_SHOT,Nicklas Backstrom shot blocked shot by Mario Ferraro,2023-02-12T19:32:07Z,2,00:44,19:16,0,1,28.0,San Jose Sharks,SJS
+99,15,28,Washington Capitals,San Jose Sharks,2022020847255,2022020847,Blocked Shot,255,BLOCKED_SHOT,Conor Sheary shot blocked shot by Tomas Hertl,2023-02-12T19:32:40Z,2,01:17,18:43,0,1,28.0,San Jose Sharks,SJS
+100,15,28,Washington Capitals,San Jose Sharks,202202084783,2022020847,Stoppage,83,STOP,Goalie Stopped,2023-02-12T19:32:58Z,2,01:34,18:26,0,1,,,
+101,15,28,Washington Capitals,San Jose Sharks,202202084784,2022020847,Faceoff,84,FACEOFF,Nico Sturm faceoff won against Lars Eller,2023-02-12T19:33:27Z,2,01:34,18:26,0,1,28.0,San Jose Sharks,SJS
+102,15,28,Washington Capitals,San Jose Sharks,2022020847256,2022020847,Blocked Shot,256,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Garnet Hathaway,2023-02-12T19:33:31Z,2,01:38,18:22,0,1,15.0,Washington Capitals,WSH
+103,15,28,Washington Capitals,San Jose Sharks,2022020847257,2022020847,Shot,257,SHOT,Oskar Lindblom Tip-In saved by Charlie Lindgren,2023-02-12T19:33:41Z,2,01:48,18:12,0,1,28.0,San Jose Sharks,SJS
+104,15,28,Washington Capitals,San Jose Sharks,2022020847178,2022020847,Hit,178,HIT,Noah Gregor hit Garnet Hathaway,2023-02-12T19:33:54Z,2,02:01,17:59,0,1,28.0,San Jose Sharks,SJS
+105,15,28,Washington Capitals,San Jose Sharks,2022020847179,2022020847,Hit,179,HIT,Garnet Hathaway hit Matt Benning,2023-02-12T19:34:14Z,2,02:21,17:39,0,1,15.0,Washington Capitals,WSH
+106,15,28,Washington Capitals,San Jose Sharks,2022020847180,2022020847,Takeaway,180,TAKEAWAY,Takeaway by Michael Eyssimont,2023-02-12T19:34:50Z,2,02:57,17:03,0,1,28.0,San Jose Sharks,SJS
+107,15,28,Washington Capitals,San Jose Sharks,2022020847258,2022020847,Shot,258,SHOT,Michael Eyssimont Wrist Shot saved by Charlie Lindgren,2023-02-12T19:35:36Z,2,03:43,16:17,0,1,28.0,San Jose Sharks,SJS
+108,15,28,Washington Capitals,San Jose Sharks,2022020847259,2022020847,Shot,259,SHOT,Michael Eyssimont Snap Shot saved by Charlie Lindgren,2023-02-12T19:35:37Z,2,03:44,16:16,0,1,28.0,San Jose Sharks,SJS
+109,15,28,Washington Capitals,San Jose Sharks,2022020847260,2022020847,Shot,260,SHOT,Michael Eyssimont Wrist Shot saved by Charlie Lindgren,2023-02-12T19:35:38Z,2,03:45,16:15,0,1,28.0,San Jose Sharks,SJS
+110,15,28,Washington Capitals,San Jose Sharks,202202084785,2022020847,Stoppage,85,STOP,Goalie Stopped,2023-02-12T19:35:38Z,2,03:46,16:14,0,1,,,
+111,15,28,Washington Capitals,San Jose Sharks,202202084786,2022020847,Faceoff,86,FACEOFF,Nicklas Backstrom faceoff won against Tomas Hertl,2023-02-12T19:36:13Z,2,03:46,16:14,0,1,15.0,Washington Capitals,WSH
+112,15,28,Washington Capitals,San Jose Sharks,2022020847261,2022020847,Shot,261,SHOT,Timo Meier Wrist Shot saved by Charlie Lindgren,2023-02-12T19:36:21Z,2,03:54,16:06,0,1,28.0,San Jose Sharks,SJS
+113,15,28,Washington Capitals,San Jose Sharks,202202084787,2022020847,Stoppage,87,STOP,Goalie Stopped,2023-02-12T19:36:22Z,2,03:55,16:05,0,1,,,
+114,15,28,Washington Capitals,San Jose Sharks,202202084788,2022020847,Faceoff,88,FACEOFF,Tomas Hertl faceoff won against Nicklas Backstrom,2023-02-12T19:36:47Z,2,03:55,16:05,0,1,28.0,San Jose Sharks,SJS
+115,15,28,Washington Capitals,San Jose Sharks,202202084789,2022020847,Stoppage,89,STOP,Puck in Benches,2023-02-12T19:36:51Z,2,04:00,16:00,0,1,,,
+116,15,28,Washington Capitals,San Jose Sharks,202202084790,2022020847,Faceoff,90,FACEOFF,Nicklas Backstrom faceoff won against Tomas Hertl,2023-02-12T19:37:10Z,2,04:00,16:00,0,1,15.0,Washington Capitals,WSH
+117,15,28,Washington Capitals,San Jose Sharks,2022020847181,2022020847,Hit,181,HIT,Martin Fehervary hit Timo Meier,2023-02-12T19:37:14Z,2,04:04,15:56,0,1,15.0,Washington Capitals,WSH
+118,15,28,Washington Capitals,San Jose Sharks,2022020847182,2022020847,Takeaway,182,TAKEAWAY,Takeaway by Evgeny Kuznetsov,2023-02-12T19:38:03Z,2,04:53,15:07,0,1,15.0,Washington Capitals,WSH
+119,15,28,Washington Capitals,San Jose Sharks,2022020847183,2022020847,Hit,183,HIT,Alex Ovechkin hit Matt Benning,2023-02-12T19:38:23Z,2,05:13,14:47,0,1,15.0,Washington Capitals,WSH
+120,15,28,Washington Capitals,San Jose Sharks,2022020847184,2022020847,Hit,184,HIT,Nick Jensen hit Steven Lorentz,2023-02-12T19:38:29Z,2,05:19,14:41,0,1,15.0,Washington Capitals,WSH
+121,15,28,Washington Capitals,San Jose Sharks,2022020847186,2022020847,Giveaway,186,GIVEAWAY,Giveaway by Jonah Gadjovich,2023-02-12T19:38:38Z,2,05:28,14:32,0,1,28.0,San Jose Sharks,SJS
+122,15,28,Washington Capitals,San Jose Sharks,2022020847262,2022020847,Missed Shot,262,MISSED_SHOT,Jacob MacDonald Wide of Net Charlie Lindgren,2023-02-12T19:39:06Z,2,05:56,14:04,0,1,28.0,San Jose Sharks,SJS
+123,15,28,Washington Capitals,San Jose Sharks,2022020847187,2022020847,Hit,187,HIT,Garnet Hathaway hit Scott Harrington,2023-02-12T19:39:32Z,2,06:22,13:38,0,1,15.0,Washington Capitals,WSH
+124,15,28,Washington Capitals,San Jose Sharks,2022020847263,2022020847,Missed Shot,263,MISSED_SHOT,Nicolas Aube-Kubel Wide of Net Kaapo Kahkonen,2023-02-12T19:39:43Z,2,06:33,13:27,0,1,15.0,Washington Capitals,WSH
+125,15,28,Washington Capitals,San Jose Sharks,2022020847355,2022020847,Blocked Shot,355,BLOCKED_SHOT,Lars Eller shot blocked shot by Scott Harrington,2023-02-12T19:39:48Z,2,06:38,13:22,0,1,28.0,San Jose Sharks,SJS
+126,15,28,Washington Capitals,San Jose Sharks,2022020847188,2022020847,Takeaway,188,TAKEAWAY,Takeaway by Michael Eyssimont,2023-02-12T19:39:54Z,2,06:44,13:16,0,1,28.0,San Jose Sharks,SJS
+127,15,28,Washington Capitals,San Jose Sharks,2022020847189,2022020847,Giveaway,189,GIVEAWAY,Giveaway by Alexander Barabanov,2023-02-12T19:40:15Z,2,07:05,12:55,0,1,28.0,San Jose Sharks,SJS
+128,15,28,Washington Capitals,San Jose Sharks,202202084791,2022020847,Stoppage,91,STOP,Puck in Crowd,2023-02-12T19:40:19Z,2,07:08,12:52,0,1,,,
+129,15,28,Washington Capitals,San Jose Sharks,202202084792,2022020847,Faceoff,92,FACEOFF,Tomas Hertl faceoff won against Nicklas Backstrom,2023-02-12T19:42:50Z,2,07:08,12:52,0,1,28.0,San Jose Sharks,SJS
+130,15,28,Washington Capitals,San Jose Sharks,2022020847191,2022020847,Takeaway,191,TAKEAWAY,Takeaway by Dmitry Orlov,2023-02-12T19:43:25Z,2,07:43,12:17,0,1,15.0,Washington Capitals,WSH
+131,15,28,Washington Capitals,San Jose Sharks,2022020847589,2022020847,Penalty,589,PENALTY,Aliaksei Protas Tripping against Marc-Edouard Vlasic,2023-02-12T19:43:52Z,2,08:09,11:51,0,1,15.0,Washington Capitals,WSH
+132,15,28,Washington Capitals,San Jose Sharks,202202084793,2022020847,Faceoff,93,FACEOFF,Tomas Hertl faceoff won against Lars Eller,2023-02-12T19:44:36Z,2,08:09,11:51,0,1,28.0,San Jose Sharks,SJS
+133,15,28,Washington Capitals,San Jose Sharks,2022020847264,2022020847,Missed Shot,264,MISSED_SHOT,Logan Couture Wide of Net Charlie Lindgren,2023-02-12T19:44:45Z,2,08:18,11:42,0,1,28.0,San Jose Sharks,SJS
+134,15,28,Washington Capitals,San Jose Sharks,2022020847265,2022020847,Shot,265,SHOT,Trevor van Riemsdyk Wrist Shot saved by Kaapo Kahkonen,2023-02-12T19:44:54Z,2,08:27,11:33,0,1,15.0,Washington Capitals,WSH
+135,15,28,Washington Capitals,San Jose Sharks,2022020847266,2022020847,Blocked Shot,266,BLOCKED_SHOT,Timo Meier shot blocked shot by Trevor van Riemsdyk,2023-02-12T19:45:08Z,2,08:41,11:19,0,1,15.0,Washington Capitals,WSH
+136,15,28,Washington Capitals,San Jose Sharks,2022020847267,2022020847,Blocked Shot,267,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Trevor van Riemsdyk,2023-02-12T19:45:29Z,2,09:02,10:58,0,1,15.0,Washington Capitals,WSH
+137,15,28,Washington Capitals,San Jose Sharks,2022020847268,2022020847,Goal,268,GOAL,"Alexander Barabanov (9) Wrist Shot, assists: Tomas Hertl (32), Erik Karlsson (55)",2023-02-12T19:45:31Z,2,09:04,10:56,0,2,28.0,San Jose Sharks,SJS
+138,15,28,Washington Capitals,San Jose Sharks,2022020847193,2022020847,Faceoff,193,FACEOFF,Nico Sturm faceoff won against Dylan Strome,2023-02-12T19:46:06Z,2,09:04,10:56,0,2,28.0,San Jose Sharks,SJS
+139,15,28,Washington Capitals,San Jose Sharks,2022020847269,2022020847,Shot,269,SHOT,Nico Sturm Backhand saved by Charlie Lindgren,2023-02-12T19:46:25Z,2,09:23,10:37,0,2,28.0,San Jose Sharks,SJS
+140,15,28,Washington Capitals,San Jose Sharks,202202084794,2022020847,Stoppage,94,STOP,Icing,2023-02-12T19:46:36Z,2,09:34,10:26,0,2,,,
+141,15,28,Washington Capitals,San Jose Sharks,202202084795,2022020847,Faceoff,95,FACEOFF,Nicklas Backstrom faceoff won against Nico Sturm,2023-02-12T19:47:00Z,2,09:34,10:26,0,2,15.0,Washington Capitals,WSH
+142,15,28,Washington Capitals,San Jose Sharks,2022020847270,2022020847,Shot,270,SHOT,Marcus Johansson Wrist Shot saved by Kaapo Kahkonen,2023-02-12T19:47:05Z,2,09:39,10:21,0,2,15.0,Washington Capitals,WSH
+143,15,28,Washington Capitals,San Jose Sharks,2022020847271,2022020847,Shot,271,SHOT,Logan Couture Snap Shot saved by Charlie Lindgren,2023-02-12T19:47:42Z,2,10:16,09:44,0,2,28.0,San Jose Sharks,SJS
+144,15,28,Washington Capitals,San Jose Sharks,202202084796,2022020847,Stoppage,96,STOP,Goalie Stopped,2023-02-12T19:47:43Z,2,10:17,09:43,0,2,,,
+145,15,28,Washington Capitals,San Jose Sharks,202202084797,2022020847,Faceoff,97,FACEOFF,Michael Eyssimont faceoff won against Lars Eller,2023-02-12T19:50:09Z,2,10:17,09:43,0,2,28.0,San Jose Sharks,SJS
+146,15,28,Washington Capitals,San Jose Sharks,2022020847194,2022020847,Hit,194,HIT,Lars Eller hit Jacob MacDonald,2023-02-12T19:50:23Z,2,10:31,09:29,0,2,15.0,Washington Capitals,WSH
+147,15,28,Washington Capitals,San Jose Sharks,2022020847273,2022020847,Blocked Shot,273,BLOCKED_SHOT,Logan Couture shot blocked shot by Martin Fehervary,2023-02-12T19:50:30Z,2,10:38,09:22,0,2,15.0,Washington Capitals,WSH
+148,15,28,Washington Capitals,San Jose Sharks,2022020847272,2022020847,Blocked Shot,272,BLOCKED_SHOT,Alexander Barabanov shot blocked shot by Aliaksei Protas,2023-02-12T19:50:31Z,2,10:39,09:21,0,2,15.0,Washington Capitals,WSH
+149,15,28,Washington Capitals,San Jose Sharks,202202084798,2022020847,Stoppage,98,STOP,Puck in Netting,2023-02-12T19:50:33Z,2,10:41,09:19,0,2,,,
+150,15,28,Washington Capitals,San Jose Sharks,202202084799,2022020847,Faceoff,99,FACEOFF,Tomas Hertl faceoff won against Nicklas Backstrom,2023-02-12T19:51:03Z,2,10:41,09:19,0,2,28.0,San Jose Sharks,SJS
+151,15,28,Washington Capitals,San Jose Sharks,2022020847195,2022020847,Hit,195,HIT,Conor Sheary hit Mario Ferraro,2023-02-12T19:51:26Z,2,11:04,08:56,0,2,15.0,Washington Capitals,WSH
+152,15,28,Washington Capitals,San Jose Sharks,2022020847274,2022020847,Blocked Shot,274,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Trevor van Riemsdyk,2023-02-12T19:51:38Z,2,11:16,08:44,0,2,15.0,Washington Capitals,WSH
+153,15,28,Washington Capitals,San Jose Sharks,2022020847451,2022020847,Takeaway,451,TAKEAWAY,Takeaway by Mario Ferraro,2023-02-12T19:51:45Z,2,11:23,08:37,0,2,28.0,San Jose Sharks,SJS
+154,15,28,Washington Capitals,San Jose Sharks,2022020847196,2022020847,Hit,196,HIT,Conor Sheary hit Mario Ferraro,2023-02-12T19:51:46Z,2,11:24,08:36,0,2,15.0,Washington Capitals,WSH
+155,15,28,Washington Capitals,San Jose Sharks,2022020847275,2022020847,Shot,275,SHOT,Timo Meier Wrap-around saved by Charlie Lindgren,2023-02-12T19:51:52Z,2,11:30,08:30,0,2,28.0,San Jose Sharks,SJS
+156,15,28,Washington Capitals,San Jose Sharks,2022020847276,2022020847,Shot,276,SHOT,T.J. Oshie Wrist Shot saved by Kaapo Kahkonen,2023-02-12T19:51:59Z,2,11:37,08:23,0,2,15.0,Washington Capitals,WSH
+157,15,28,Washington Capitals,San Jose Sharks,2022020847198,2022020847,Hit,198,HIT,Conor Sheary hit Nico Sturm,2023-02-12T19:52:02Z,2,11:40,08:20,0,2,15.0,Washington Capitals,WSH
+158,15,28,Washington Capitals,San Jose Sharks,2022020847199,2022020847,Hit,199,HIT,Martin Fehervary hit Oskar Lindblom,2023-02-12T19:52:09Z,2,11:47,08:13,0,2,15.0,Washington Capitals,WSH
+159,15,28,Washington Capitals,San Jose Sharks,2022020847277,2022020847,Blocked Shot,277,BLOCKED_SHOT,Oskar Lindblom shot blocked shot by Martin Fehervary,2023-02-12T19:52:13Z,2,11:51,08:09,0,2,15.0,Washington Capitals,WSH
+160,15,28,Washington Capitals,San Jose Sharks,2022020847200,2022020847,Takeaway,200,TAKEAWAY,Takeaway by Nico Sturm,2023-02-12T19:52:21Z,2,11:59,08:01,0,2,28.0,San Jose Sharks,SJS
+161,15,28,Washington Capitals,San Jose Sharks,2022020847278,2022020847,Missed Shot,278,MISSED_SHOT,Matt Benning Wide of Net Charlie Lindgren,2023-02-12T19:52:24Z,2,12:02,07:58,0,2,28.0,San Jose Sharks,SJS
+162,15,28,Washington Capitals,San Jose Sharks,2022020847279,2022020847,Blocked Shot,279,BLOCKED_SHOT,Marc-Edouard Vlasic shot blocked shot by Martin Fehervary,2023-02-12T19:52:34Z,2,12:12,07:48,0,2,15.0,Washington Capitals,WSH
+163,15,28,Washington Capitals,San Jose Sharks,2022020847100,2022020847,Stoppage,100,STOP,Puck in Netting,2023-02-12T19:52:34Z,2,12:13,07:47,0,2,,,
+164,15,28,Washington Capitals,San Jose Sharks,2022020847501,2022020847,Faceoff,501,FACEOFF,Steven Lorentz faceoff won against Lars Eller,2023-02-12T19:53:12Z,2,12:13,07:47,0,2,28.0,San Jose Sharks,SJS
+165,15,28,Washington Capitals,San Jose Sharks,2022020847453,2022020847,Giveaway,453,GIVEAWAY,Giveaway by Nicolas Aube-Kubel,2023-02-12T19:53:35Z,2,12:36,07:24,0,2,15.0,Washington Capitals,WSH
+166,15,28,Washington Capitals,San Jose Sharks,2022020847280,2022020847,Blocked Shot,280,BLOCKED_SHOT,Steven Lorentz shot blocked shot by Martin Fehervary,2023-02-12T19:53:37Z,2,12:38,07:22,0,2,15.0,Washington Capitals,WSH
+167,15,28,Washington Capitals,San Jose Sharks,2022020847281,2022020847,Shot,281,SHOT,Michael Eyssimont Wrist Shot saved by Charlie Lindgren,2023-02-12T19:53:47Z,2,12:48,07:12,0,2,28.0,San Jose Sharks,SJS
+168,15,28,Washington Capitals,San Jose Sharks,2022020847454,2022020847,Giveaway,454,GIVEAWAY,Giveaway by Alexander Barabanov,2023-02-12T19:54:06Z,2,13:07,06:53,0,2,28.0,San Jose Sharks,SJS
+169,15,28,Washington Capitals,San Jose Sharks,2022020847456,2022020847,Giveaway,456,GIVEAWAY,Giveaway by Marcus Johansson,2023-02-12T19:54:55Z,2,13:56,06:04,0,2,15.0,Washington Capitals,WSH
+170,15,28,Washington Capitals,San Jose Sharks,2022020847282,2022020847,Missed Shot,282,MISSED_SHOT,Timo Meier Wide of Net Charlie Lindgren,2023-02-12T19:55:20Z,2,14:21,05:39,0,2,28.0,San Jose Sharks,SJS
+171,15,28,Washington Capitals,San Jose Sharks,2022020847457,2022020847,Giveaway,457,GIVEAWAY,Giveaway by Marc-Edouard Vlasic,2023-02-12T19:55:48Z,2,14:49,05:11,0,2,28.0,San Jose Sharks,SJS
+172,15,28,Washington Capitals,San Jose Sharks,2022020847283,2022020847,Blocked Shot,283,BLOCKED_SHOT,Dmitry Orlov shot blocked shot by Noah Gregor,2023-02-12T19:56:39Z,2,15:40,04:20,0,2,28.0,San Jose Sharks,SJS
+173,15,28,Washington Capitals,San Jose Sharks,2022020847284,2022020847,Blocked Shot,284,BLOCKED_SHOT,Dmitry Orlov shot blocked shot by Steven Lorentz,2023-02-12T19:56:57Z,2,15:58,04:02,0,2,28.0,San Jose Sharks,SJS
+174,15,28,Washington Capitals,San Jose Sharks,2022020847459,2022020847,Hit,459,HIT,Garnet Hathaway hit Matt Benning,2023-02-12T19:57:15Z,2,16:16,03:44,0,2,15.0,Washington Capitals,WSH
+175,15,28,Washington Capitals,San Jose Sharks,2022020847285,2022020847,Blocked Shot,285,BLOCKED_SHOT,Logan Couture shot blocked shot by Lars Eller,2023-02-12T19:57:16Z,2,16:17,03:43,0,2,15.0,Washington Capitals,WSH
+176,15,28,Washington Capitals,San Jose Sharks,2022020847460,2022020847,Giveaway,460,GIVEAWAY,Giveaway by Dmitry Orlov,2023-02-12T19:57:23Z,2,16:24,03:36,0,2,15.0,Washington Capitals,WSH
+177,15,28,Washington Capitals,San Jose Sharks,2022020847286,2022020847,Blocked Shot,286,BLOCKED_SHOT,Matt Benning shot blocked shot by Garnet Hathaway,2023-02-12T19:57:24Z,2,16:25,03:35,0,2,15.0,Washington Capitals,WSH
+178,15,28,Washington Capitals,San Jose Sharks,2022020847461,2022020847,Hit,461,HIT,Michael Eyssimont hit Aliaksei Protas,2023-02-12T19:57:38Z,2,16:39,03:21,0,2,28.0,San Jose Sharks,SJS
+179,15,28,Washington Capitals,San Jose Sharks,2022020847502,2022020847,Stoppage,502,STOP,Hand Pass,2023-02-12T19:57:39Z,2,16:40,03:20,0,2,,,
+180,15,28,Washington Capitals,San Jose Sharks,2022020847503,2022020847,Faceoff,503,FACEOFF,Evgeny Kuznetsov faceoff won against Logan Couture,2023-02-12T19:59:56Z,2,16:40,03:20,0,2,15.0,Washington Capitals,WSH
+181,15,28,Washington Capitals,San Jose Sharks,2022020847287,2022020847,Goal,287,GOAL,"Evgeny Kuznetsov (8) Wrist Shot, assists: Erik Gustafsson (23), Trevor van Riemsdyk (9)",2023-02-12T20:00:12Z,2,16:56,03:04,1,2,15.0,Washington Capitals,WSH
+182,15,28,Washington Capitals,San Jose Sharks,2022020847462,2022020847,Stoppage,462,STOP,Referee or Linesman,2023-02-12T20:00:12Z,2,16:56,03:04,1,2,,,
+183,15,28,Washington Capitals,San Jose Sharks,2022020847463,2022020847,Faceoff,463,FACEOFF,Nicklas Backstrom faceoff won against Nico Sturm,2023-02-12T20:02:04Z,2,16:56,03:04,1,2,15.0,Washington Capitals,WSH
+184,15,28,Washington Capitals,San Jose Sharks,2022020847505,2022020847,Stoppage,505,STOP,Icing,2023-02-12T20:02:12Z,2,17:04,02:56,1,2,,,
+185,15,28,Washington Capitals,San Jose Sharks,2022020847506,2022020847,Faceoff,506,FACEOFF,Tomas Hertl faceoff won against Nicklas Backstrom,2023-02-12T20:03:13Z,2,17:04,02:56,1,2,28.0,San Jose Sharks,SJS
+186,15,28,Washington Capitals,San Jose Sharks,2022020847464,2022020847,Giveaway,464,GIVEAWAY,Giveaway by Erik Gustafsson,2023-02-12T20:03:20Z,2,17:11,02:49,1,2,15.0,Washington Capitals,WSH
+187,15,28,Washington Capitals,San Jose Sharks,2022020847507,2022020847,Stoppage,507,STOP,Puck in Crowd,2023-02-12T20:03:46Z,2,17:38,02:22,1,2,,,
+188,15,28,Washington Capitals,San Jose Sharks,2022020847508,2022020847,Faceoff,508,FACEOFF,Logan Couture faceoff won against Evgeny Kuznetsov,2023-02-12T20:04:08Z,2,17:38,02:22,1,2,28.0,San Jose Sharks,SJS
+189,15,28,Washington Capitals,San Jose Sharks,2022020847465,2022020847,Hit,465,HIT,Logan Couture hit Evgeny Kuznetsov,2023-02-12T20:04:21Z,2,17:51,02:09,1,2,28.0,San Jose Sharks,SJS
+190,15,28,Washington Capitals,San Jose Sharks,2022020847288,2022020847,Shot,288,SHOT,Alexander Barabanov Wrist Shot saved by Charlie Lindgren,2023-02-12T20:04:23Z,2,17:53,02:07,1,2,28.0,San Jose Sharks,SJS
+191,15,28,Washington Capitals,San Jose Sharks,2022020847289,2022020847,Shot,289,SHOT,Logan Couture Wrist Shot saved by Charlie Lindgren,2023-02-12T20:04:24Z,2,17:54,02:06,1,2,28.0,San Jose Sharks,SJS
+192,15,28,Washington Capitals,San Jose Sharks,2022020847359,2022020847,Blocked Shot,359,BLOCKED_SHOT,Alexander Barabanov shot blocked shot by Alex Ovechkin,2023-02-12T20:04:25Z,2,17:55,02:05,1,2,15.0,Washington Capitals,WSH
+193,15,28,Washington Capitals,San Jose Sharks,2022020847466,2022020847,Stoppage,466,STOP,Referee or Linesman,2023-02-12T20:04:27Z,2,17:57,02:03,1,2,,,
+194,15,28,Washington Capitals,San Jose Sharks,2022020847357,2022020847,Faceoff,357,FACEOFF,Lars Eller faceoff won against Logan Couture,2023-02-12T20:05:17Z,2,17:57,02:03,1,2,15.0,Washington Capitals,WSH
+195,15,28,Washington Capitals,San Jose Sharks,2022020847467,2022020847,Hit,467,HIT,Logan Couture hit Martin Fehervary,2023-02-12T20:05:22Z,2,18:02,01:58,1,2,28.0,San Jose Sharks,SJS
+196,15,28,Washington Capitals,San Jose Sharks,2022020847713,2022020847,Penalty,713,PENALTY,Garnet Hathaway Slashing against Michael Eyssimont,2023-02-12T20:05:33Z,2,18:12,01:48,1,2,15.0,Washington Capitals,WSH
+197,15,28,Washington Capitals,San Jose Sharks,2022020847511,2022020847,Faceoff,511,FACEOFF,Tomas Hertl faceoff won against Lars Eller,2023-02-12T20:06:28Z,2,18:12,01:48,1,2,28.0,San Jose Sharks,SJS
+198,15,28,Washington Capitals,San Jose Sharks,2022020847290,2022020847,Shot,290,SHOT,Timo Meier Backhand saved by Charlie Lindgren,2023-02-12T20:06:30Z,2,18:14,01:46,1,2,28.0,San Jose Sharks,SJS
+199,15,28,Washington Capitals,San Jose Sharks,2022020847515,2022020847,Stoppage,515,STOP,Goalie Stopped,2023-02-12T20:06:31Z,2,18:15,01:45,1,2,,,
+200,15,28,Washington Capitals,San Jose Sharks,2022020847512,2022020847,Faceoff,512,FACEOFF,Lars Eller faceoff won against Logan Couture,2023-02-12T20:07:06Z,2,18:15,01:45,1,2,15.0,Washington Capitals,WSH
+201,15,28,Washington Capitals,San Jose Sharks,2022020847468,2022020847,Giveaway,468,GIVEAWAY,Giveaway by Aaron Dell,2023-02-12T20:07:39Z,2,18:48,01:12,1,2,28.0,San Jose Sharks,SJS
+202,15,28,Washington Capitals,San Jose Sharks,2022020847291,2022020847,Blocked Shot,291,BLOCKED_SHOT,Conor Sheary shot blocked shot by Alexander Barabanov,2023-02-12T20:07:42Z,2,18:51,01:09,1,2,28.0,San Jose Sharks,SJS
+203,15,28,Washington Capitals,San Jose Sharks,2022020847292,2022020847,Missed Shot,292,MISSED_SHOT,Nicklas Backstrom Wide of Net Aaron Dell,2023-02-12T20:08:31Z,2,19:40,00:20,1,2,15.0,Washington Capitals,WSH
+204,15,28,Washington Capitals,San Jose Sharks,2022020847728,2022020847,Penalty,728,PENALTY,Oskar Lindblom Hooking against Martin Fehervary,2023-02-12T20:08:42Z,2,19:50,00:10,1,2,28.0,San Jose Sharks,SJS
+205,15,28,Washington Capitals,San Jose Sharks,2022020847514,2022020847,Faceoff,514,FACEOFF,Nico Sturm faceoff won against T.J. Oshie,2023-02-12T20:09:29Z,2,19:50,00:10,1,2,28.0,San Jose Sharks,SJS
+206,15,28,Washington Capitals,San Jose Sharks,2022020847293,2022020847,Period End,293,PERIOD_END,End of 2nd Period,2023-02-12T20:09:39Z,2,20:00,00:00,1,2,,,
+207,15,28,Washington Capitals,San Jose Sharks,2022020847296,2022020847,Period Official,296,PERIOD_OFFICIAL,Period Official,2023-02-12T20:24:38Z,2,20:00,00:00,1,2,,,
+208,15,28,Washington Capitals,San Jose Sharks,2022020847297,2022020847,Period Ready,297,PERIOD_READY,Period Ready,2023-02-12T20:26:15Z,3,00:00,20:00,1,2,,,
+209,15,28,Washington Capitals,San Jose Sharks,2022020847516,2022020847,Period Start,516,PERIOD_START,Period Start,2023-02-12T20:28:26Z,3,00:00,20:00,1,2,,,
+210,15,28,Washington Capitals,San Jose Sharks,2022020847517,2022020847,Faceoff,517,FACEOFF,Nico Sturm faceoff won against Nicklas Backstrom,2023-02-12T20:28:26Z,3,00:00,20:00,1,2,28.0,San Jose Sharks,SJS
+211,15,28,Washington Capitals,San Jose Sharks,2022020847298,2022020847,Shot,298,SHOT,Nico Sturm Poke saved by Charlie Lindgren,2023-02-12T20:29:34Z,3,01:08,18:52,1,2,28.0,San Jose Sharks,SJS
+212,15,28,Washington Capitals,San Jose Sharks,2022020847469,2022020847,Giveaway,469,GIVEAWAY,Giveaway by Jacob MacDonald,2023-02-12T20:30:08Z,3,01:42,18:18,1,2,28.0,San Jose Sharks,SJS
+213,15,28,Washington Capitals,San Jose Sharks,2022020847299,2022020847,Missed Shot,299,MISSED_SHOT,Timo Meier Wide of Net Charlie Lindgren,2023-02-12T20:30:46Z,3,02:20,17:40,1,2,28.0,San Jose Sharks,SJS
+214,15,28,Washington Capitals,San Jose Sharks,2022020847300,2022020847,Blocked Shot,300,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Garnet Hathaway,2023-02-12T20:31:02Z,3,02:36,17:24,1,2,15.0,Washington Capitals,WSH
+215,15,28,Washington Capitals,San Jose Sharks,2022020847651,2022020847,Blocked Shot,651,BLOCKED_SHOT,Marc-Edouard Vlasic shot blocked shot by Conor Sheary,2023-02-12T20:31:39Z,3,03:13,16:47,1,2,15.0,Washington Capitals,WSH
+216,15,28,Washington Capitals,San Jose Sharks,2022020847470,2022020847,Takeaway,470,TAKEAWAY,Takeaway by Marc-Edouard Vlasic,2023-02-12T20:31:47Z,3,03:21,16:39,1,2,28.0,San Jose Sharks,SJS
+217,15,28,Washington Capitals,San Jose Sharks,2022020847652,2022020847,Blocked Shot,652,BLOCKED_SHOT,Noah Gregor shot blocked shot by Trevor van Riemsdyk,2023-02-12T20:31:53Z,3,03:27,16:33,1,2,15.0,Washington Capitals,WSH
+218,15,28,Washington Capitals,San Jose Sharks,2022020847518,2022020847,Stoppage,518,STOP,Puck in Netting,2023-02-12T20:31:54Z,3,03:28,16:32,1,2,,,
+219,15,28,Washington Capitals,San Jose Sharks,2022020847519,2022020847,Faceoff,519,FACEOFF,Logan Couture faceoff won against Nicklas Backstrom,2023-02-12T20:32:28Z,3,03:28,16:32,1,2,28.0,San Jose Sharks,SJS
+220,15,28,Washington Capitals,San Jose Sharks,2022020847474,2022020847,Hit,474,HIT,Jonah Gadjovich hit Sonny Milano,2023-02-12T20:33:15Z,3,04:15,15:45,1,2,28.0,San Jose Sharks,SJS
+221,15,28,Washington Capitals,San Jose Sharks,2022020847472,2022020847,Hit,472,HIT,Martin Fehervary hit Matt Benning,2023-02-12T20:33:17Z,3,04:17,15:43,1,2,15.0,Washington Capitals,WSH
+222,15,28,Washington Capitals,San Jose Sharks,2022020847653,2022020847,Shot,653,SHOT,Marc-Edouard Vlasic Snap Shot saved by Charlie Lindgren,2023-02-12T20:33:23Z,3,04:23,15:37,1,2,28.0,San Jose Sharks,SJS
+223,15,28,Washington Capitals,San Jose Sharks,2022020847360,2022020847,Hit,360,HIT,Jonah Gadjovich hit Sonny Milano,2023-02-12T20:33:27Z,3,04:27,15:33,1,2,28.0,San Jose Sharks,SJS
+224,15,28,Washington Capitals,San Jose Sharks,2022020847473,2022020847,Hit,473,HIT,Matt Benning hit Nicolas Aube-Kubel,2023-02-12T20:33:30Z,3,04:30,15:30,1,2,28.0,San Jose Sharks,SJS
+225,15,28,Washington Capitals,San Jose Sharks,2022020847654,2022020847,Shot,654,SHOT,Nicolas Aube-Kubel Snap Shot saved by Aaron Dell,2023-02-12T20:33:45Z,3,04:45,15:15,1,2,15.0,Washington Capitals,WSH
+226,15,28,Washington Capitals,San Jose Sharks,2022020847655,2022020847,Shot,655,SHOT,Nicolas Aube-Kubel Wrist Shot saved by Aaron Dell,2023-02-12T20:33:48Z,3,04:48,15:12,1,2,15.0,Washington Capitals,WSH
+227,15,28,Washington Capitals,San Jose Sharks,2022020847656,2022020847,Shot,656,SHOT,Timo Meier Wrist Shot saved by Charlie Lindgren,2023-02-12T20:34:34Z,3,05:34,14:26,1,2,28.0,San Jose Sharks,SJS
+228,15,28,Washington Capitals,San Jose Sharks,2022020847657,2022020847,Shot,657,SHOT,Timo Meier Wrist Shot saved by Charlie Lindgren,2023-02-12T20:34:43Z,3,05:43,14:17,1,2,28.0,San Jose Sharks,SJS
+229,15,28,Washington Capitals,San Jose Sharks,2022020847658,2022020847,Shot,658,SHOT,Mario Ferraro Wrist Shot saved by Charlie Lindgren,2023-02-12T20:34:53Z,3,05:53,14:07,1,2,28.0,San Jose Sharks,SJS
+230,15,28,Washington Capitals,San Jose Sharks,2022020847475,2022020847,Hit,475,HIT,Oskar Lindblom hit Dmitry Orlov,2023-02-12T20:35:12Z,3,06:12,13:48,1,2,28.0,San Jose Sharks,SJS
+231,15,28,Washington Capitals,San Jose Sharks,2022020847659,2022020847,Missed Shot,659,MISSED_SHOT,Nico Sturm Wide of Net Charlie Lindgren,2023-02-12T20:35:28Z,3,06:28,13:32,1,2,28.0,San Jose Sharks,SJS
+232,15,28,Washington Capitals,San Jose Sharks,2022020847476,2022020847,Hit,476,HIT,Noah Gregor hit Aliaksei Protas,2023-02-12T20:35:35Z,3,06:35,13:25,1,2,28.0,San Jose Sharks,SJS
+233,15,28,Washington Capitals,San Jose Sharks,2022020847660,2022020847,Shot,660,SHOT,Noah Gregor Wrap-around saved by Charlie Lindgren,2023-02-12T20:35:42Z,3,06:42,13:18,1,2,28.0,San Jose Sharks,SJS
+234,15,28,Washington Capitals,San Jose Sharks,2022020847477,2022020847,Hit,477,HIT,Dmitry Orlov hit Oskar Lindblom,2023-02-12T20:35:51Z,3,06:51,13:09,1,2,15.0,Washington Capitals,WSH
+235,15,28,Washington Capitals,San Jose Sharks,2022020847661,2022020847,Shot,661,SHOT,Noah Gregor Snap Shot saved by Charlie Lindgren,2023-02-12T20:35:55Z,3,06:55,13:05,1,2,28.0,San Jose Sharks,SJS
+236,15,28,Washington Capitals,San Jose Sharks,2022020847662,2022020847,Shot,662,SHOT,Conor Sheary Wrist Shot saved by Aaron Dell,2023-02-12T20:36:19Z,3,07:19,12:41,1,2,15.0,Washington Capitals,WSH
+237,15,28,Washington Capitals,San Jose Sharks,2022020847663,2022020847,Blocked Shot,663,BLOCKED_SHOT,Alexander Barabanov shot blocked shot by Matt Irwin,2023-02-12T20:36:58Z,3,07:58,12:02,1,2,15.0,Washington Capitals,WSH
+238,15,28,Washington Capitals,San Jose Sharks,2022020847664,2022020847,Shot,664,SHOT,Nicolas Aube-Kubel Wrist Shot saved by Aaron Dell,2023-02-12T20:37:14Z,3,08:14,11:46,1,2,15.0,Washington Capitals,WSH
+239,15,28,Washington Capitals,San Jose Sharks,2022020847665,2022020847,Shot,665,SHOT,Dylan Strome Wrist Shot saved by Aaron Dell,2023-02-12T20:37:15Z,3,08:15,11:45,1,2,15.0,Washington Capitals,WSH
+240,15,28,Washington Capitals,San Jose Sharks,2022020847520,2022020847,Stoppage,520,STOP,Goalie Stopped,2023-02-12T20:37:17Z,3,08:17,11:43,1,2,,,
+241,15,28,Washington Capitals,San Jose Sharks,2022020847521,2022020847,Faceoff,521,FACEOFF,Dylan Strome faceoff won against Nick Bonino,2023-02-12T20:39:51Z,3,08:17,11:43,1,2,15.0,Washington Capitals,WSH
+242,15,28,Washington Capitals,San Jose Sharks,2022020847478,2022020847,Hit,478,HIT,Nicolas Aube-Kubel hit Marc-Edouard Vlasic,2023-02-12T20:40:06Z,3,08:32,11:28,1,2,15.0,Washington Capitals,WSH
+243,15,28,Washington Capitals,San Jose Sharks,2022020847479,2022020847,Takeaway,479,TAKEAWAY,Takeaway by Nico Sturm,2023-02-12T20:40:39Z,3,09:05,10:55,1,2,28.0,San Jose Sharks,SJS
+244,15,28,Washington Capitals,San Jose Sharks,2022020847482,2022020847,Takeaway,482,TAKEAWAY,Takeaway by Scott Harrington,2023-02-12T20:40:54Z,3,09:20,10:40,1,2,28.0,San Jose Sharks,SJS
+245,15,28,Washington Capitals,San Jose Sharks,2022020847483,2022020847,Giveaway,483,GIVEAWAY,Giveaway by Evgeny Kuznetsov,2023-02-12T20:41:21Z,3,09:47,10:13,1,2,15.0,Washington Capitals,WSH
+246,15,28,Washington Capitals,San Jose Sharks,2022020847666,2022020847,Shot,666,SHOT,Steven Lorentz Wrist Shot saved by Charlie Lindgren,2023-02-12T20:41:27Z,3,09:53,10:07,1,2,28.0,San Jose Sharks,SJS
+247,15,28,Washington Capitals,San Jose Sharks,2022020847667,2022020847,Blocked Shot,667,BLOCKED_SHOT,Alex Ovechkin shot blocked shot by Jacob MacDonald,2023-02-12T20:41:53Z,3,10:19,09:41,1,2,28.0,San Jose Sharks,SJS
+248,15,28,Washington Capitals,San Jose Sharks,2022020847485,2022020847,Takeaway,485,TAKEAWAY,Takeaway by Erik Gustafsson,2023-02-12T20:42:03Z,3,10:28,09:32,1,2,15.0,Washington Capitals,WSH
+249,15,28,Washington Capitals,San Jose Sharks,2022020847668,2022020847,Missed Shot,668,MISSED_SHOT,Nicklas Backstrom Wide of Net Aaron Dell,2023-02-12T20:42:08Z,3,10:34,09:26,1,2,15.0,Washington Capitals,WSH
+250,15,28,Washington Capitals,San Jose Sharks,2022020847486,2022020847,Hit,486,HIT,Matt Benning hit T.J. Oshie,2023-02-12T20:42:37Z,3,11:03,08:57,1,2,28.0,San Jose Sharks,SJS
+251,15,28,Washington Capitals,San Jose Sharks,2022020847669,2022020847,Shot,669,SHOT,Erik Gustafsson Slap Shot saved by Aaron Dell,2023-02-12T20:42:44Z,3,11:10,08:50,1,2,15.0,Washington Capitals,WSH
+252,15,28,Washington Capitals,San Jose Sharks,2022020847670,2022020847,Blocked Shot,670,BLOCKED_SHOT,Aliaksei Protas shot blocked shot by Erik Karlsson,2023-02-12T20:43:07Z,3,11:33,08:27,1,2,28.0,San Jose Sharks,SJS
+253,15,28,Washington Capitals,San Jose Sharks,2022020847671,2022020847,Shot,671,SHOT,Noah Gregor Snap Shot saved by Charlie Lindgren,2023-02-12T20:43:27Z,3,11:53,08:07,1,2,28.0,San Jose Sharks,SJS
+254,15,28,Washington Capitals,San Jose Sharks,2022020847672,2022020847,Missed Shot,672,MISSED_SHOT,Steven Lorentz Wide of Net Charlie Lindgren,2023-02-12T20:43:51Z,3,12:17,07:43,1,2,28.0,San Jose Sharks,SJS
+255,15,28,Washington Capitals,San Jose Sharks,2022020847522,2022020847,Stoppage,522,STOP,Puck in Netting,2023-02-12T20:43:51Z,3,12:18,07:42,1,2,,,
+256,15,28,Washington Capitals,San Jose Sharks,2022020847523,2022020847,Faceoff,523,FACEOFF,Tomas Hertl faceoff won against Nicklas Backstrom,2023-02-12T20:46:12Z,3,12:18,07:42,1,2,28.0,San Jose Sharks,SJS
+257,15,28,Washington Capitals,San Jose Sharks,2022020847487,2022020847,Giveaway,487,GIVEAWAY,Giveaway by T.J. Oshie,2023-02-12T20:46:43Z,3,12:49,07:11,1,2,15.0,Washington Capitals,WSH
+258,15,28,Washington Capitals,San Jose Sharks,2022020847673,2022020847,Shot,673,SHOT,Erik Karlsson Wrist Shot saved by Charlie Lindgren,2023-02-12T20:46:44Z,3,12:50,07:10,1,2,28.0,San Jose Sharks,SJS
+259,15,28,Washington Capitals,San Jose Sharks,2022020847524,2022020847,Stoppage,524,STOP,Goalie Stopped,2023-02-12T20:46:45Z,3,12:51,07:09,1,2,,,
+260,15,28,Washington Capitals,San Jose Sharks,2022020847525,2022020847,Faceoff,525,FACEOFF,Logan Couture faceoff won against Evgeny Kuznetsov,2023-02-12T20:47:18Z,3,12:51,07:09,1,2,28.0,San Jose Sharks,SJS
+261,15,28,Washington Capitals,San Jose Sharks,2022020847674,2022020847,Goal,674,GOAL,"Erik Karlsson (18) Wrist Shot, assists: Alexander Barabanov (26), Logan Couture (25)",2023-02-12T20:47:22Z,3,12:55,07:05,1,3,28.0,San Jose Sharks,SJS
+262,15,28,Washington Capitals,San Jose Sharks,2022020847488,2022020847,Faceoff,488,FACEOFF,Evgeny Kuznetsov faceoff won against Logan Couture,2023-02-12T20:48:24Z,3,12:55,07:05,1,3,15.0,Washington Capitals,WSH
+263,15,28,Washington Capitals,San Jose Sharks,2022020847675,2022020847,Shot,675,SHOT,Alex Ovechkin Wrist Shot saved by Aaron Dell,2023-02-12T20:48:34Z,3,13:05,06:55,1,3,15.0,Washington Capitals,WSH
+264,15,28,Washington Capitals,San Jose Sharks,2022020847489,2022020847,Hit,489,HIT,Nico Sturm hit Marcus Johansson,2023-02-12T20:48:59Z,3,13:30,06:30,1,3,28.0,San Jose Sharks,SJS
+265,15,28,Washington Capitals,San Jose Sharks,2022020847490,2022020847,Hit,490,HIT,Noah Gregor hit Dmitry Orlov,2023-02-12T20:49:12Z,3,13:43,06:17,1,3,28.0,San Jose Sharks,SJS
+266,15,28,Washington Capitals,San Jose Sharks,2022020847676,2022020847,Blocked Shot,676,BLOCKED_SHOT,Nico Sturm shot blocked shot by Dmitry Orlov,2023-02-12T20:49:29Z,3,14:00,06:00,1,3,15.0,Washington Capitals,WSH
+267,15,28,Washington Capitals,San Jose Sharks,2022020847491,2022020847,Hit,491,HIT,Noah Gregor hit Nicolas Aube-Kubel,2023-02-12T20:49:32Z,3,14:03,05:57,1,3,28.0,San Jose Sharks,SJS
+268,15,28,Washington Capitals,San Jose Sharks,2022020847526,2022020847,Stoppage,526,STOP,TV timeout,2023-02-12T20:49:49Z,3,14:20,05:40,1,3,,,
+269,15,28,Washington Capitals,San Jose Sharks,2022020847875,2022020847,Penalty,875,PENALTY,Dylan Strome Slashing against Mario Ferraro,2023-02-12T20:49:49Z,3,14:20,05:40,1,3,15.0,Washington Capitals,WSH
+270,15,28,Washington Capitals,San Jose Sharks,2022020847527,2022020847,Faceoff,527,FACEOFF,Tomas Hertl faceoff won against Lars Eller,2023-02-12T20:52:07Z,3,14:20,05:40,1,3,28.0,San Jose Sharks,SJS
+271,15,28,Washington Capitals,San Jose Sharks,2022020847677,2022020847,Missed Shot,677,MISSED_SHOT,Timo Meier Wide of Net Charlie Lindgren,2023-02-12T20:52:11Z,3,14:24,05:36,1,3,28.0,San Jose Sharks,SJS
+272,15,28,Washington Capitals,San Jose Sharks,2022020847678,2022020847,Shot,678,SHOT,Erik Karlsson Wrist Shot saved by Charlie Lindgren,2023-02-12T20:52:26Z,3,14:39,05:21,1,3,28.0,San Jose Sharks,SJS
+273,15,28,Washington Capitals,San Jose Sharks,2022020847494,2022020847,Hit,494,HIT,Logan Couture hit Lars Eller,2023-02-12T20:53:00Z,3,15:13,04:47,1,3,28.0,San Jose Sharks,SJS
+274,15,28,Washington Capitals,San Jose Sharks,2022020847495,2022020847,Giveaway,495,GIVEAWAY,Giveaway by Timo Meier,2023-02-12T20:53:09Z,3,15:22,04:38,1,3,28.0,San Jose Sharks,SJS
+275,15,28,Washington Capitals,San Jose Sharks,2022020847496,2022020847,Giveaway,496,GIVEAWAY,Giveaway by Evgeny Kuznetsov,2023-02-12T20:53:16Z,3,15:29,04:31,1,3,15.0,Washington Capitals,WSH
+276,15,28,Washington Capitals,San Jose Sharks,2022020847499,2022020847,Giveaway,499,GIVEAWAY,Giveaway by Michael Eyssimont,2023-02-12T20:53:23Z,3,15:36,04:24,1,3,28.0,San Jose Sharks,SJS
+277,15,28,Washington Capitals,San Jose Sharks,2022020847497,2022020847,Hit,497,HIT,Evgeny Kuznetsov hit Michael Eyssimont,2023-02-12T20:53:24Z,3,15:37,04:23,1,3,15.0,Washington Capitals,WSH
+278,15,28,Washington Capitals,San Jose Sharks,2022020847679,2022020847,Blocked Shot,679,BLOCKED_SHOT,Martin Fehervary shot blocked shot by Michael Eyssimont,2023-02-12T20:53:41Z,3,15:54,04:06,1,3,28.0,San Jose Sharks,SJS
+279,15,28,Washington Capitals,San Jose Sharks,2022020847680,2022020847,Shot,680,SHOT,Evgeny Kuznetsov Wrist Shot saved by Aaron Dell,2023-02-12T20:53:45Z,3,15:58,04:02,1,3,15.0,Washington Capitals,WSH
+280,15,28,Washington Capitals,San Jose Sharks,2022020847528,2022020847,Stoppage,528,STOP,Icing,2023-02-12T20:53:51Z,3,16:04,03:56,1,3,,,
+281,15,28,Washington Capitals,San Jose Sharks,2022020847529,2022020847,Faceoff,529,FACEOFF,Lars Eller faceoff won against Nick Bonino,2023-02-12T20:54:18Z,3,16:04,03:56,1,3,15.0,Washington Capitals,WSH
+282,15,28,Washington Capitals,San Jose Sharks,2022020847681,2022020847,Blocked Shot,681,BLOCKED_SHOT,Trevor van Riemsdyk shot blocked shot by Jacob MacDonald,2023-02-12T20:54:21Z,3,16:07,03:53,1,3,28.0,San Jose Sharks,SJS
+283,15,28,Washington Capitals,San Jose Sharks,2022020847682,2022020847,Blocked Shot,682,BLOCKED_SHOT,Conor Sheary shot blocked shot by Matt Benning,2023-02-12T20:54:22Z,3,16:08,03:52,1,3,28.0,San Jose Sharks,SJS
+284,15,28,Washington Capitals,San Jose Sharks,2022020847530,2022020847,Stoppage,530,STOP,Icing,2023-02-12T20:54:48Z,3,16:33,03:27,1,3,,,
+285,15,28,Washington Capitals,San Jose Sharks,2022020847531,2022020847,Faceoff,531,FACEOFF,Nico Sturm faceoff won against Nicklas Backstrom,2023-02-12T20:55:22Z,3,16:33,03:27,1,3,28.0,San Jose Sharks,SJS
+286,15,28,Washington Capitals,San Jose Sharks,2022020847532,2022020847,Stoppage,532,STOP,Icing,2023-02-12T20:55:30Z,3,16:41,03:19,1,3,,,
+287,15,28,Washington Capitals,San Jose Sharks,2022020847533,2022020847,Faceoff,533,FACEOFF,Nico Sturm faceoff won against Nicklas Backstrom,2023-02-12T20:55:51Z,3,16:41,03:19,1,3,28.0,San Jose Sharks,SJS
+288,15,28,Washington Capitals,San Jose Sharks,2022020847683,2022020847,Missed Shot,683,MISSED_SHOT,Noah Gregor Goalpost,2023-02-12T20:56:02Z,3,16:52,03:08,1,3,28.0,San Jose Sharks,SJS
+289,15,28,Washington Capitals,San Jose Sharks,2022020847684,2022020847,Blocked Shot,684,BLOCKED_SHOT,Logan Couture shot blocked shot by T.J. Oshie,2023-02-12T20:56:06Z,3,16:53,03:07,1,3,15.0,Washington Capitals,WSH
+290,15,28,Washington Capitals,San Jose Sharks,2022020847685,2022020847,Blocked Shot,685,BLOCKED_SHOT,Noah Gregor shot blocked shot by T.J. Oshie,2023-02-12T20:56:05Z,3,16:55,03:05,1,3,15.0,Washington Capitals,WSH
+291,15,28,Washington Capitals,San Jose Sharks,2022020847361,2022020847,Missed Shot,361,MISSED_SHOT,Noah Gregor Wide of Net,2023-02-12T20:56:08Z,3,16:58,03:02,1,3,28.0,San Jose Sharks,SJS
+292,15,28,Washington Capitals,San Jose Sharks,2022020847686,2022020847,Blocked Shot,686,BLOCKED_SHOT,Noah Gregor shot blocked shot by Nicklas Backstrom,2023-02-12T20:56:14Z,3,17:04,02:56,1,3,15.0,Washington Capitals,WSH
+293,15,28,Washington Capitals,San Jose Sharks,2022020847362,2022020847,Missed Shot,362,MISSED_SHOT,Nico Sturm Wide of Net,2023-02-12T20:56:16Z,3,17:06,02:54,1,3,28.0,San Jose Sharks,SJS
+294,15,28,Washington Capitals,San Jose Sharks,2022020847687,2022020847,Blocked Shot,687,BLOCKED_SHOT,Noah Gregor shot blocked shot by Erik Gustafsson,2023-02-12T20:56:19Z,3,17:09,02:51,1,3,15.0,Washington Capitals,WSH
+295,15,28,Washington Capitals,San Jose Sharks,2022020847500,2022020847,Hit,500,HIT,Erik Gustafsson hit Nico Sturm,2023-02-12T20:56:24Z,3,17:14,02:46,1,3,15.0,Washington Capitals,WSH
+296,15,28,Washington Capitals,San Jose Sharks,2022020847688,2022020847,Goal,688,GOAL,"Tomas Hertl (15) Wrist Shot, assists: Nick Bonino (9)",2023-02-12T20:56:59Z,3,17:49,02:11,1,4,28.0,San Jose Sharks,SJS
+297,15,28,Washington Capitals,San Jose Sharks,2022020847901,2022020847,Faceoff,901,FACEOFF,Logan Couture faceoff won against Lars Eller,2023-02-12T20:57:35Z,3,17:49,02:11,1,4,28.0,San Jose Sharks,SJS
+298,15,28,Washington Capitals,San Jose Sharks,2022020847902,2022020847,Hit,902,HIT,Martin Fehervary hit Michael Eyssimont,2023-02-12T20:57:39Z,3,17:53,02:07,1,4,15.0,Washington Capitals,WSH
+299,15,28,Washington Capitals,San Jose Sharks,2022020847534,2022020847,Stoppage,534,STOP,Puck in Benches,2023-02-12T20:57:41Z,3,17:56,02:04,1,4,,,
+300,15,28,Washington Capitals,San Jose Sharks,2022020847535,2022020847,Faceoff,535,FACEOFF,Lars Eller faceoff won against Logan Couture,2023-02-12T20:58:00Z,3,17:56,02:04,1,4,15.0,Washington Capitals,WSH
+301,15,28,Washington Capitals,San Jose Sharks,2022020847689,2022020847,Missed Shot,689,MISSED_SHOT,Michael Eyssimont Wide of Net Charlie Lindgren,2023-02-12T20:58:13Z,3,18:09,01:51,1,4,28.0,San Jose Sharks,SJS
+302,15,28,Washington Capitals,San Jose Sharks,2022020847690,2022020847,Blocked Shot,690,BLOCKED_SHOT,Lars Eller shot blocked shot by Scott Harrington,2023-02-12T20:58:27Z,3,18:23,01:37,1,4,28.0,San Jose Sharks,SJS
+303,15,28,Washington Capitals,San Jose Sharks,2022020847536,2022020847,Stoppage,536,STOP,Puck in Netting,2023-02-12T20:58:29Z,3,18:24,01:36,1,4,,,
+304,15,28,Washington Capitals,San Jose Sharks,2022020847537,2022020847,Faceoff,537,FACEOFF,Steven Lorentz faceoff won against Dylan Strome,2023-02-12T20:58:57Z,3,18:24,01:36,1,4,28.0,San Jose Sharks,SJS
+305,15,28,Washington Capitals,San Jose Sharks,2022020847691,2022020847,Blocked Shot,691,BLOCKED_SHOT,Dylan Strome shot blocked shot by Marc-Edouard Vlasic,2023-02-12T20:59:07Z,3,18:34,01:26,1,4,28.0,San Jose Sharks,SJS
+306,15,28,Washington Capitals,San Jose Sharks,2022020847692,2022020847,Missed Shot,692,MISSED_SHOT,Matt Benning Wide of Net Charlie Lindgren,2023-02-12T20:59:29Z,3,18:56,01:04,1,4,28.0,San Jose Sharks,SJS
+307,15,28,Washington Capitals,San Jose Sharks,2022020847903,2022020847,Takeaway,903,TAKEAWAY,Takeaway by Lars Eller,2023-02-12T21:00:06Z,3,19:33,00:27,1,4,15.0,Washington Capitals,WSH
+308,15,28,Washington Capitals,San Jose Sharks,2022020847904,2022020847,Hit,904,HIT,Jonah Gadjovich hit Garnet Hathaway,2023-02-12T21:00:16Z,3,19:43,00:17,1,4,28.0,San Jose Sharks,SJS
+309,15,28,Washington Capitals,San Jose Sharks,2022020847905,2022020847,Hit,905,HIT,Matt Irwin hit Evgeny Svechnikov,2023-02-12T21:00:31Z,3,19:58,00:02,1,4,15.0,Washington Capitals,WSH
+310,15,28,Washington Capitals,San Jose Sharks,2022020847693,2022020847,Period End,693,PERIOD_END,End of 3rd Period,2023-02-12T21:00:33Z,3,20:00,00:00,1,4,,,
+311,15,28,Washington Capitals,San Jose Sharks,2022020847696,2022020847,Period Official,696,PERIOD_OFFICIAL,Period Official,2023-02-12T21:00:40Z,3,20:00,00:00,1,4,,,
+312,15,28,Washington Capitals,San Jose Sharks,2022020847697,2022020847,Game End,697,GAME_END,Game End,2023-02-12T21:00:42Z,3,20:00,00:00,1,4,,,
+313,15,28,Washington Capitals,San Jose Sharks,20220208471103,2022020847,Game Official,1103,GAME_OFFICIAL,Game Official,2023-02-12T23:14:53Z,3,20:00,00:00,1,4,,,

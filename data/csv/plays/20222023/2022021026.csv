@@ -1,0 +1,298 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,6,22,Boston Bruins,Edmonton Oilers,20220210261,2022021026,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-03-09T23:33:15Z,1,00:00,20:00,0,0,,,
+1,6,22,Boston Bruins,Edmonton Oilers,20220210265,2022021026,Period Ready,5,PERIOD_READY,Period Ready,2023-03-10T00:34:43Z,1,00:00,20:00,0,0,,,
+2,6,22,Boston Bruins,Edmonton Oilers,202202102651,2022021026,Period Start,51,PERIOD_START,Period Start,2023-03-10T00:38:22Z,1,00:00,20:00,0,0,,,
+3,6,22,Boston Bruins,Edmonton Oilers,202202102652,2022021026,Faceoff,52,FACEOFF,Connor McDavid faceoff won against Patrice Bergeron,2023-03-10T00:38:22Z,1,00:00,20:00,0,0,22.0,Edmonton Oilers,EDM
+4,6,22,Boston Bruins,Edmonton Oilers,20220210268,2022021026,Hit,8,HIT,Brett Kulak hit Trent Frederic,2023-03-10T00:39:43Z,1,01:21,18:39,0,0,22.0,Edmonton Oilers,EDM
+5,6,22,Boston Bruins,Edmonton Oilers,202202102653,2022021026,Giveaway,53,GIVEAWAY,Giveaway by Vincent Desharnais,2023-03-10T00:40:02Z,1,01:40,18:20,0,0,22.0,Edmonton Oilers,EDM
+6,6,22,Boston Bruins,Edmonton Oilers,202202102654,2022021026,Takeaway,54,TAKEAWAY,Takeaway by Mattias Janmark,2023-03-10T00:40:17Z,1,01:55,18:05,0,0,22.0,Edmonton Oilers,EDM
+7,6,22,Boston Bruins,Edmonton Oilers,20220210269,2022021026,Hit,9,HIT,Brandon Carlo hit Nick Bjugstad,2023-03-10T00:40:40Z,1,02:18,17:42,0,0,6.0,Boston Bruins,BOS
+8,6,22,Boston Bruins,Edmonton Oilers,202202102610,2022021026,Hit,10,HIT,David Krejci hit Warren Foegele,2023-03-10T00:40:54Z,1,02:32,17:28,0,0,6.0,Boston Bruins,BOS
+9,6,22,Boston Bruins,Edmonton Oilers,2022021026201,2022021026,Missed Shot,201,MISSED_SHOT,Warren Foegele Wide of Net Jeremy Swayman,2023-03-10T00:41:00Z,1,02:38,17:22,0,0,22.0,Edmonton Oilers,EDM
+10,6,22,Boston Bruins,Edmonton Oilers,202202102611,2022021026,Hit,11,HIT,Derek Ryan hit Matt Grzelcyk,2023-03-10T00:41:23Z,1,03:01,16:59,0,0,22.0,Edmonton Oilers,EDM
+11,6,22,Boston Bruins,Edmonton Oilers,2022021026202,2022021026,Shot,202,SHOT,Ryan McLeod Wrist Shot saved by Jeremy Swayman,2023-03-10T00:41:29Z,1,03:07,16:53,0,0,22.0,Edmonton Oilers,EDM
+12,6,22,Boston Bruins,Edmonton Oilers,202202102612,2022021026,Hit,12,HIT,Brandon Carlo hit Devin Shore,2023-03-10T00:42:00Z,1,03:38,16:22,0,0,6.0,Boston Bruins,BOS
+13,6,22,Boston Bruins,Edmonton Oilers,2022021026204,2022021026,Goal,204,GOAL,"Brad Marchand (20) Wrist Shot, assists: David Pastrnak (41), Brandon Carlo (11)",2023-03-10T00:42:13Z,1,03:51,16:09,1,0,6.0,Boston Bruins,BOS
+14,6,22,Boston Bruins,Edmonton Oilers,202202102655,2022021026,Faceoff,55,FACEOFF,Connor McDavid faceoff won against Patrice Bergeron,2023-03-10T00:42:53Z,1,03:51,16:09,1,0,22.0,Edmonton Oilers,EDM
+15,6,22,Boston Bruins,Edmonton Oilers,202202102613,2022021026,Stoppage,13,STOP,Puck in Benches,2023-03-10T00:43:06Z,1,04:03,15:57,1,0,,,
+16,6,22,Boston Bruins,Edmonton Oilers,202202102656,2022021026,Faceoff,56,FACEOFF,Connor McDavid faceoff won against Patrice Bergeron,2023-03-10T00:43:29Z,1,04:03,15:57,1,0,22.0,Edmonton Oilers,EDM
+17,6,22,Boston Bruins,Edmonton Oilers,202202102614,2022021026,Hit,14,HIT,Dmitry Orlov hit Connor McDavid,2023-03-10T00:44:07Z,1,04:41,15:19,1,0,6.0,Boston Bruins,BOS
+18,6,22,Boston Bruins,Edmonton Oilers,2022021026206,2022021026,Shot,206,SHOT,Connor McDavid Backhand saved by Jeremy Swayman,2023-03-10T00:44:16Z,1,04:50,15:10,1,0,22.0,Edmonton Oilers,EDM
+19,6,22,Boston Bruins,Edmonton Oilers,202202102657,2022021026,Giveaway,57,GIVEAWAY,Giveaway by Mattias Ekholm,2023-03-10T00:44:46Z,1,05:20,14:40,1,0,22.0,Edmonton Oilers,EDM
+20,6,22,Boston Bruins,Edmonton Oilers,2022021026207,2022021026,Shot,207,SHOT,Kailer Yamamoto Wrist Shot saved by Jeremy Swayman,2023-03-10T00:45:01Z,1,05:35,14:25,1,0,22.0,Edmonton Oilers,EDM
+21,6,22,Boston Bruins,Edmonton Oilers,202202102615,2022021026,Stoppage,15,STOP,Goalie Stopped,2023-03-10T00:45:23Z,1,05:58,14:02,1,0,,,
+22,6,22,Boston Bruins,Edmonton Oilers,2022021026209,2022021026,Shot,209,SHOT,Garnet Hathaway Wrist Shot saved by Stuart Skinner,2023-03-10T00:45:23Z,1,05:58,14:02,1,0,6.0,Boston Bruins,BOS
+23,6,22,Boston Bruins,Edmonton Oilers,202202102658,2022021026,Faceoff,58,FACEOFF,Nick Bjugstad faceoff won against Charlie Coyle,2023-03-10T00:45:57Z,1,05:58,14:02,1,0,22.0,Edmonton Oilers,EDM
+24,6,22,Boston Bruins,Edmonton Oilers,202202102616,2022021026,Hit,16,HIT,Vincent Desharnais hit Trent Frederic,2023-03-10T00:46:06Z,1,06:07,13:53,1,0,22.0,Edmonton Oilers,EDM
+25,6,22,Boston Bruins,Edmonton Oilers,2022021026210,2022021026,Missed Shot,210,MISSED_SHOT,Warren Foegele Wide of Net Jeremy Swayman,2023-03-10T00:46:14Z,1,06:15,13:45,1,0,22.0,Edmonton Oilers,EDM
+26,6,22,Boston Bruins,Edmonton Oilers,202202102617,2022021026,Hit,17,HIT,Tyler Bertuzzi hit Brett Kulak,2023-03-10T00:46:18Z,1,06:19,13:41,1,0,6.0,Boston Bruins,BOS
+27,6,22,Boston Bruins,Edmonton Oilers,2022021026211,2022021026,Missed Shot,211,MISSED_SHOT,Brandon Carlo Wide of Net Stuart Skinner,2023-03-10T00:46:41Z,1,06:42,13:18,1,0,6.0,Boston Bruins,BOS
+28,6,22,Boston Bruins,Edmonton Oilers,202202102659,2022021026,Giveaway,59,GIVEAWAY,Giveaway by Darnell Nurse,2023-03-10T00:46:47Z,1,06:48,13:12,1,0,22.0,Edmonton Oilers,EDM
+29,6,22,Boston Bruins,Edmonton Oilers,202202102618,2022021026,Hit,18,HIT,Ryan McLeod hit David Krejci,2023-03-10T00:47:06Z,1,07:07,12:53,1,0,22.0,Edmonton Oilers,EDM
+30,6,22,Boston Bruins,Edmonton Oilers,202202102619,2022021026,Penalty,19,PENALTY,Zach Hyman Holding against Brad Marchand,2023-03-10T00:47:46Z,1,07:47,12:13,1,0,22.0,Edmonton Oilers,EDM
+31,6,22,Boston Bruins,Edmonton Oilers,202202102622,2022021026,Stoppage,22,STOP,TV timeout,2023-03-10T00:47:46Z,1,07:47,12:13,1,0,,,
+32,6,22,Boston Bruins,Edmonton Oilers,202202102660,2022021026,Faceoff,60,FACEOFF,Ryan Nugent-Hopkins faceoff won against Patrice Bergeron,2023-03-10T00:50:16Z,1,07:47,12:13,1,0,22.0,Edmonton Oilers,EDM
+33,6,22,Boston Bruins,Edmonton Oilers,202202102623,2022021026,Hit,23,HIT,Mattias Ekholm hit Brad Marchand,2023-03-10T00:50:26Z,1,07:57,12:03,1,0,22.0,Edmonton Oilers,EDM
+34,6,22,Boston Bruins,Edmonton Oilers,202202102624,2022021026,Hit,24,HIT,Mattias Ekholm hit Jake DeBrusk,2023-03-10T00:50:27Z,1,07:58,12:02,1,0,22.0,Edmonton Oilers,EDM
+35,6,22,Boston Bruins,Edmonton Oilers,202202102625,2022021026,Stoppage,25,STOP,Player Injury,2023-03-10T00:50:28Z,1,07:59,12:01,1,0,,,
+36,6,22,Boston Bruins,Edmonton Oilers,202202102661,2022021026,Faceoff,61,FACEOFF,Ryan Nugent-Hopkins faceoff won against Patrice Bergeron,2023-03-10T00:51:23Z,1,07:59,12:01,1,0,22.0,Edmonton Oilers,EDM
+37,6,22,Boston Bruins,Edmonton Oilers,202202102662,2022021026,Giveaway,62,GIVEAWAY,Giveaway by David Pastrnak,2023-03-10T00:51:40Z,1,08:16,11:44,1,0,6.0,Boston Bruins,BOS
+38,6,22,Boston Bruins,Edmonton Oilers,2022021026214,2022021026,Shot,214,SHOT,Ryan Nugent-Hopkins Wrist Shot saved by Jeremy Swayman,2023-03-10T00:51:40Z,1,08:16,11:44,1,0,22.0,Edmonton Oilers,EDM
+39,6,22,Boston Bruins,Edmonton Oilers,2022021026215,2022021026,Shot,215,SHOT,Cody Ceci Wrist Shot saved by Jeremy Swayman,2023-03-10T00:52:18Z,1,08:54,11:06,1,0,22.0,Edmonton Oilers,EDM
+40,6,22,Boston Bruins,Edmonton Oilers,202202102663,2022021026,Giveaway,63,GIVEAWAY,Giveaway by Brad Marchand,2023-03-10T00:52:22Z,1,08:58,11:02,1,0,6.0,Boston Bruins,BOS
+41,6,22,Boston Bruins,Edmonton Oilers,202202102626,2022021026,Stoppage,26,STOP,Icing,2023-03-10T00:53:18Z,1,09:54,10:06,1,0,,,
+42,6,22,Boston Bruins,Edmonton Oilers,202202102664,2022021026,Faceoff,64,FACEOFF,A.J. Greer faceoff won against Leon Draisaitl,2023-03-10T00:53:51Z,1,09:54,10:06,1,0,6.0,Boston Bruins,BOS
+43,6,22,Boston Bruins,Edmonton Oilers,2022021026216,2022021026,Blocked Shot,216,BLOCKED_SHOT,Tomas Nosek shot blocked shot by Brett Kulak,2023-03-10T00:54:02Z,1,10:05,09:55,1,0,22.0,Edmonton Oilers,EDM
+44,6,22,Boston Bruins,Edmonton Oilers,202202102627,2022021026,Hit,27,HIT,Tomas Nosek hit Kailer Yamamoto,2023-03-10T00:54:12Z,1,10:15,09:45,1,0,6.0,Boston Bruins,BOS
+45,6,22,Boston Bruins,Edmonton Oilers,2022021026601,2022021026,Shot,601,SHOT,A.J. Greer Wrap-around saved by Stuart Skinner,2023-03-10T00:54:20Z,1,10:23,09:37,1,0,6.0,Boston Bruins,BOS
+46,6,22,Boston Bruins,Edmonton Oilers,2022021026217,2022021026,Shot,217,SHOT,Garnet Hathaway Backhand saved by Stuart Skinner,2023-03-10T00:54:21Z,1,10:24,09:36,1,0,6.0,Boston Bruins,BOS
+47,6,22,Boston Bruins,Edmonton Oilers,202202102628,2022021026,Stoppage,28,STOP,Goalie Stopped,2023-03-10T00:54:24Z,1,10:26,09:34,1,0,,,
+48,6,22,Boston Bruins,Edmonton Oilers,202202102665,2022021026,Faceoff,65,FACEOFF,Derek Ryan faceoff won against Charlie Coyle,2023-03-10T00:57:08Z,1,10:26,09:34,1,0,22.0,Edmonton Oilers,EDM
+49,6,22,Boston Bruins,Edmonton Oilers,202202102629,2022021026,Hit,29,HIT,Derek Ryan hit Derek Forbort,2023-03-10T00:57:17Z,1,10:35,09:25,1,0,22.0,Edmonton Oilers,EDM
+50,6,22,Boston Bruins,Edmonton Oilers,2022021026218,2022021026,Missed Shot,218,MISSED_SHOT,Charlie Coyle Over Net Stuart Skinner,2023-03-10T00:57:21Z,1,10:39,09:21,1,0,6.0,Boston Bruins,BOS
+51,6,22,Boston Bruins,Edmonton Oilers,2022021026219,2022021026,Shot,219,SHOT,Trent Frederic Snap Shot saved by Stuart Skinner,2023-03-10T00:57:26Z,1,10:44,09:16,1,0,6.0,Boston Bruins,BOS
+52,6,22,Boston Bruins,Edmonton Oilers,202202102630,2022021026,Hit,30,HIT,Devin Shore hit Matt Grzelcyk,2023-03-10T00:57:37Z,1,10:55,09:05,1,0,22.0,Edmonton Oilers,EDM
+53,6,22,Boston Bruins,Edmonton Oilers,202202102667,2022021026,Giveaway,67,GIVEAWAY,Giveaway by Brad Marchand,2023-03-10T00:58:23Z,1,11:41,08:19,1,0,6.0,Boston Bruins,BOS
+54,6,22,Boston Bruins,Edmonton Oilers,2022021026220,2022021026,Blocked Shot,220,BLOCKED_SHOT,Darnell Nurse shot blocked shot by Charlie McAvoy,2023-03-10T00:58:26Z,1,11:44,08:16,1,0,6.0,Boston Bruins,BOS
+55,6,22,Boston Bruins,Edmonton Oilers,202202102631,2022021026,Penalty,31,PENALTY,Evander Kane Holding against Hampus Lindholm,2023-03-10T00:58:44Z,1,12:03,07:57,1,0,22.0,Edmonton Oilers,EDM
+56,6,22,Boston Bruins,Edmonton Oilers,202202102668,2022021026,Faceoff,68,FACEOFF,David Krejci faceoff won against Ryan Nugent-Hopkins,2023-03-10T00:59:30Z,1,12:03,07:57,1,0,6.0,Boston Bruins,BOS
+57,6,22,Boston Bruins,Edmonton Oilers,2022021026221,2022021026,Blocked Shot,221,BLOCKED_SHOT,Pavel Zacha shot blocked shot by Mattias Ekholm,2023-03-10T00:59:42Z,1,12:15,07:45,1,0,22.0,Edmonton Oilers,EDM
+58,6,22,Boston Bruins,Edmonton Oilers,202202102634,2022021026,Hit,34,HIT,Mattias Ekholm hit David Krejci,2023-03-10T00:59:58Z,1,12:31,07:29,1,0,22.0,Edmonton Oilers,EDM
+59,6,22,Boston Bruins,Edmonton Oilers,2022021026602,2022021026,Blocked Shot,602,BLOCKED_SHOT,David Krejci shot blocked shot by Cody Ceci,2023-03-10T01:00:09Z,1,12:42,07:18,1,0,22.0,Edmonton Oilers,EDM
+60,6,22,Boston Bruins,Edmonton Oilers,202202102635,2022021026,Stoppage,35,STOP,Challenge Away: off-side,2023-03-10T01:00:10Z,1,12:43,07:17,1,0,,,
+61,6,22,Boston Bruins,Edmonton Oilers,202202102636,2022021026,Official Challenge,36,CHALLENGE,Coach's Challenge,2023-03-10T01:00:10Z,1,12:43,07:17,1,0,22.0,Edmonton Oilers,EDM
+62,6,22,Boston Bruins,Edmonton Oilers,2022021026651,2022021026,Stoppage,651,STOP,Offside,2023-03-10T01:00:10Z,1,12:43,07:17,1,0,,,
+63,6,22,Boston Bruins,Edmonton Oilers,202202102670,2022021026,Faceoff,70,FACEOFF,Patrice Bergeron faceoff won against Ryan Nugent-Hopkins,2023-03-10T01:03:57Z,1,12:43,07:17,1,0,6.0,Boston Bruins,BOS
+64,6,22,Boston Bruins,Edmonton Oilers,2022021026223,2022021026,Shot,223,SHOT,Brandon Carlo Wrist Shot saved by Stuart Skinner,2023-03-10T01:05:20Z,1,14:06,05:54,1,0,6.0,Boston Bruins,BOS
+65,6,22,Boston Bruins,Edmonton Oilers,2022021026224,2022021026,Blocked Shot,224,BLOCKED_SHOT,Evander Kane shot blocked shot by Brandon Carlo,2023-03-10T01:05:39Z,1,14:25,05:35,1,0,6.0,Boston Bruins,BOS
+66,6,22,Boston Bruins,Edmonton Oilers,202202102637,2022021026,Hit,37,HIT,Connor McDavid hit Brandon Carlo,2023-03-10T01:05:47Z,1,14:33,05:27,1,0,22.0,Edmonton Oilers,EDM
+67,6,22,Boston Bruins,Edmonton Oilers,2022021026225,2022021026,Blocked Shot,225,BLOCKED_SHOT,Derek Forbort shot blocked shot by Mattias Ekholm,2023-03-10T01:05:57Z,1,14:43,05:17,1,0,22.0,Edmonton Oilers,EDM
+68,6,22,Boston Bruins,Edmonton Oilers,202202102638,2022021026,Hit,38,HIT,Connor McDavid hit Pavel Zacha,2023-03-10T01:06:08Z,1,14:54,05:06,1,0,22.0,Edmonton Oilers,EDM
+69,6,22,Boston Bruins,Edmonton Oilers,202202102639,2022021026,Hit,39,HIT,Mattias Ekholm hit Trent Frederic,2023-03-10T01:06:49Z,1,15:35,04:25,1,0,22.0,Edmonton Oilers,EDM
+70,6,22,Boston Bruins,Edmonton Oilers,202202102640,2022021026,Stoppage,40,STOP,Icing,2023-03-10T01:06:53Z,1,15:40,04:20,1,0,,,
+71,6,22,Boston Bruins,Edmonton Oilers,202202102671,2022021026,Faceoff,71,FACEOFF,Devin Shore faceoff won against Patrice Bergeron,2023-03-10T01:07:18Z,1,15:40,04:20,1,0,22.0,Edmonton Oilers,EDM
+72,6,22,Boston Bruins,Edmonton Oilers,202202102672,2022021026,Takeaway,72,TAKEAWAY,Takeaway by Warren Foegele,2023-03-10T01:07:24Z,1,15:46,04:14,1,0,22.0,Edmonton Oilers,EDM
+73,6,22,Boston Bruins,Edmonton Oilers,2022021026226,2022021026,Missed Shot,226,MISSED_SHOT,Warren Foegele Wide of Net Jeremy Swayman,2023-03-10T01:07:30Z,1,15:52,04:08,1,0,22.0,Edmonton Oilers,EDM
+74,6,22,Boston Bruins,Edmonton Oilers,202202102641,2022021026,Hit,41,HIT,Patrice Bergeron hit Derek Ryan,2023-03-10T01:07:34Z,1,15:56,04:04,1,0,6.0,Boston Bruins,BOS
+75,6,22,Boston Bruins,Edmonton Oilers,2022021026227,2022021026,Blocked Shot,227,BLOCKED_SHOT,Patrice Bergeron shot blocked shot by Darnell Nurse,2023-03-10T01:07:41Z,1,16:03,03:57,1,0,22.0,Edmonton Oilers,EDM
+76,6,22,Boston Bruins,Edmonton Oilers,202202102642,2022021026,Hit,42,HIT,Cody Ceci hit Jake DeBrusk,2023-03-10T01:07:48Z,1,16:10,03:50,1,0,22.0,Edmonton Oilers,EDM
+77,6,22,Boston Bruins,Edmonton Oilers,202202102643,2022021026,Hit,43,HIT,Leon Draisaitl hit Hampus Lindholm,2023-03-10T01:08:06Z,1,16:28,03:32,1,0,22.0,Edmonton Oilers,EDM
+78,6,22,Boston Bruins,Edmonton Oilers,202202102644,2022021026,Hit,44,HIT,Zach Hyman hit Dmitry Orlov,2023-03-10T01:09:06Z,1,17:28,02:32,1,0,22.0,Edmonton Oilers,EDM
+79,6,22,Boston Bruins,Edmonton Oilers,202202102645,2022021026,Hit,45,HIT,Dmitry Orlov hit Zach Hyman,2023-03-10T01:09:19Z,1,17:41,02:19,1,0,6.0,Boston Bruins,BOS
+80,6,22,Boston Bruins,Edmonton Oilers,202202102646,2022021026,Hit,46,HIT,Evander Kane hit Pavel Zacha,2023-03-10T01:09:30Z,1,17:52,02:08,1,0,22.0,Edmonton Oilers,EDM
+81,6,22,Boston Bruins,Edmonton Oilers,2022021026232,2022021026,Missed Shot,232,MISSED_SHOT,Charlie Coyle Goalpost Stuart Skinner,2023-03-10T01:09:56Z,1,18:18,01:42,1,0,6.0,Boston Bruins,BOS
+82,6,22,Boston Bruins,Edmonton Oilers,202202102647,2022021026,Hit,47,HIT,Charlie McAvoy hit Warren Foegele,2023-03-10T01:10:06Z,1,18:28,01:32,1,0,6.0,Boston Bruins,BOS
+83,6,22,Boston Bruins,Edmonton Oilers,202202102649,2022021026,Stoppage,49,STOP,Goalie Stopped,2023-03-10T01:10:15Z,1,18:37,01:23,1,0,,,
+84,6,22,Boston Bruins,Edmonton Oilers,2022021026233,2022021026,Shot,233,SHOT,Trent Frederic Tip-In saved by Stuart Skinner,2023-03-10T01:10:15Z,1,18:37,01:23,1,0,6.0,Boston Bruins,BOS
+85,6,22,Boston Bruins,Edmonton Oilers,202202102673,2022021026,Faceoff,73,FACEOFF,Patrice Bergeron faceoff won against Connor McDavid,2023-03-10T01:12:48Z,1,18:37,01:23,1,0,6.0,Boston Bruins,BOS
+86,6,22,Boston Bruins,Edmonton Oilers,2022021026234,2022021026,Shot,234,SHOT,Jake DeBrusk Wrist Shot saved by Stuart Skinner,2023-03-10T01:13:11Z,1,19:00,01:00,1,0,6.0,Boston Bruins,BOS
+87,6,22,Boston Bruins,Edmonton Oilers,2022021026235,2022021026,Shot,235,SHOT,Patrice Bergeron Wrist Shot saved by Stuart Skinner,2023-03-10T01:13:11Z,1,19:00,01:00,1,0,6.0,Boston Bruins,BOS
+88,6,22,Boston Bruins,Edmonton Oilers,2022021026236,2022021026,Goal,236,GOAL,"David Pastrnak (45) Slap Shot, assists: David Krejci (38)",2023-03-10T01:14:10Z,1,19:59,00:01,2,0,6.0,Boston Bruins,BOS
+89,6,22,Boston Bruins,Edmonton Oilers,202202102674,2022021026,Faceoff,74,FACEOFF,Tomas Nosek faceoff won against Ryan Nugent-Hopkins,2023-03-10T01:15:44Z,1,19:59,00:01,2,0,6.0,Boston Bruins,BOS
+90,6,22,Boston Bruins,Edmonton Oilers,202202102650,2022021026,Period End,50,PERIOD_END,End of 1st Period,2023-03-10T01:15:44Z,1,20:00,00:00,2,0,,,
+91,6,22,Boston Bruins,Edmonton Oilers,2022021026253,2022021026,Period Official,253,PERIOD_OFFICIAL,Period Official,2023-03-10T01:16:09Z,1,20:00,00:00,2,0,,,
+92,6,22,Boston Bruins,Edmonton Oilers,2022021026254,2022021026,Period Ready,254,PERIOD_READY,Period Ready,2023-03-10T01:33:22Z,2,00:00,20:00,2,0,,,
+93,6,22,Boston Bruins,Edmonton Oilers,202202102675,2022021026,Period Start,75,PERIOD_START,Period Start,2023-03-10T01:34:49Z,2,00:00,20:00,2,0,,,
+94,6,22,Boston Bruins,Edmonton Oilers,202202102676,2022021026,Faceoff,76,FACEOFF,Patrice Bergeron faceoff won against Connor McDavid,2023-03-10T01:34:49Z,2,00:00,20:00,2,0,6.0,Boston Bruins,BOS
+95,6,22,Boston Bruins,Edmonton Oilers,202202102677,2022021026,Takeaway,77,TAKEAWAY,Takeaway by Brad Marchand,2023-03-10T01:35:06Z,2,00:17,19:43,2,0,6.0,Boston Bruins,BOS
+96,6,22,Boston Bruins,Edmonton Oilers,202202102678,2022021026,Giveaway,78,GIVEAWAY,Giveaway by Hampus Lindholm,2023-03-10T01:35:38Z,2,00:49,19:11,2,0,6.0,Boston Bruins,BOS
+97,6,22,Boston Bruins,Edmonton Oilers,202202102679,2022021026,Takeaway,79,TAKEAWAY,Takeaway by Leon Draisaitl,2023-03-10T01:35:56Z,2,01:07,18:53,2,0,22.0,Edmonton Oilers,EDM
+98,6,22,Boston Bruins,Edmonton Oilers,2022021026255,2022021026,Hit,255,HIT,Charlie Coyle hit Kailer Yamamoto,2023-03-10T01:36:01Z,2,01:12,18:48,2,0,6.0,Boston Bruins,BOS
+99,6,22,Boston Bruins,Edmonton Oilers,2022021026237,2022021026,Shot,237,SHOT,Mattias Ekholm Slap Shot saved by Jeremy Swayman,2023-03-10T01:36:24Z,2,01:35,18:25,2,0,22.0,Edmonton Oilers,EDM
+100,6,22,Boston Bruins,Edmonton Oilers,2022021026238,2022021026,Shot,238,SHOT,Evan Bouchard Slap Shot saved by Jeremy Swayman,2023-03-10T01:36:31Z,2,01:42,18:18,2,0,22.0,Edmonton Oilers,EDM
+101,6,22,Boston Bruins,Edmonton Oilers,2022021026256,2022021026,Hit,256,HIT,Dmitry Orlov hit Leon Draisaitl,2023-03-10T01:36:47Z,2,01:58,18:02,2,0,6.0,Boston Bruins,BOS
+102,6,22,Boston Bruins,Edmonton Oilers,2022021026239,2022021026,Shot,239,SHOT,David Pastrnak Slap Shot saved by Stuart Skinner,2023-03-10T01:37:33Z,2,02:44,17:16,2,0,6.0,Boston Bruins,BOS
+103,6,22,Boston Bruins,Edmonton Oilers,2022021026240,2022021026,Shot,240,SHOT,Hampus Lindholm Wrist Shot saved by Stuart Skinner,2023-03-10T01:37:45Z,2,02:57,17:03,2,0,6.0,Boston Bruins,BOS
+104,6,22,Boston Bruins,Edmonton Oilers,2022021026257,2022021026,Stoppage,257,STOP,Goalie Stopped,2023-03-10T01:37:45Z,2,02:57,17:03,2,0,,,
+105,6,22,Boston Bruins,Edmonton Oilers,202202102680,2022021026,Faceoff,80,FACEOFF,Ryan McLeod faceoff won against Patrice Bergeron,2023-03-10T01:38:15Z,2,02:57,17:03,2,0,22.0,Edmonton Oilers,EDM
+106,6,22,Boston Bruins,Edmonton Oilers,2022021026258,2022021026,Hit,258,HIT,Hampus Lindholm hit Devin Shore,2023-03-10T01:38:29Z,2,03:11,16:49,2,0,6.0,Boston Bruins,BOS
+107,6,22,Boston Bruins,Edmonton Oilers,2022021026259,2022021026,Hit,259,HIT,Darnell Nurse hit Brad Marchand,2023-03-10T01:39:04Z,2,03:46,16:14,2,0,22.0,Edmonton Oilers,EDM
+108,6,22,Boston Bruins,Edmonton Oilers,2022021026241,2022021026,Shot,241,SHOT,Evan Bouchard Slap Shot saved by Jeremy Swayman,2023-03-10T01:39:09Z,2,03:51,16:09,2,0,22.0,Edmonton Oilers,EDM
+109,6,22,Boston Bruins,Edmonton Oilers,2022021026260,2022021026,Stoppage,260,STOP,Goalie Stopped,2023-03-10T01:39:09Z,2,03:51,16:09,2,0,,,
+110,6,22,Boston Bruins,Edmonton Oilers,202202102681,2022021026,Faceoff,81,FACEOFF,Tomas Nosek faceoff won against Connor McDavid,2023-03-10T01:39:48Z,2,03:51,16:09,2,0,6.0,Boston Bruins,BOS
+111,6,22,Boston Bruins,Edmonton Oilers,2022021026261,2022021026,Hit,261,HIT,Evan Bouchard hit Garnet Hathaway,2023-03-10T01:40:22Z,2,04:25,15:35,2,0,22.0,Edmonton Oilers,EDM
+112,6,22,Boston Bruins,Edmonton Oilers,2022021026262,2022021026,Stoppage,262,STOP,Offside,2023-03-10T01:40:32Z,2,04:35,15:25,2,0,,,
+113,6,22,Boston Bruins,Edmonton Oilers,202202102682,2022021026,Faceoff,82,FACEOFF,Leon Draisaitl faceoff won against Charlie Coyle,2023-03-10T01:41:05Z,2,04:35,15:25,2,0,22.0,Edmonton Oilers,EDM
+114,6,22,Boston Bruins,Edmonton Oilers,202202102683,2022021026,Takeaway,83,TAKEAWAY,Takeaway by Hampus Lindholm,2023-03-10T01:41:31Z,2,05:01,14:59,2,0,6.0,Boston Bruins,BOS
+115,6,22,Boston Bruins,Edmonton Oilers,2022021026242,2022021026,Shot,242,SHOT,Brandon Carlo Slap Shot saved by Stuart Skinner,2023-03-10T01:41:39Z,2,05:09,14:51,2,0,6.0,Boston Bruins,BOS
+116,6,22,Boston Bruins,Edmonton Oilers,2022021026243,2022021026,Shot,243,SHOT,Darnell Nurse Wrist Shot saved by Jeremy Swayman,2023-03-10T01:42:11Z,2,05:41,14:19,2,0,22.0,Edmonton Oilers,EDM
+117,6,22,Boston Bruins,Edmonton Oilers,2022021026263,2022021026,Hit,263,HIT,Kailer Yamamoto hit Matt Grzelcyk,2023-03-10T01:42:16Z,2,05:46,14:14,2,0,22.0,Edmonton Oilers,EDM
+118,6,22,Boston Bruins,Edmonton Oilers,202202102684,2022021026,Takeaway,84,TAKEAWAY,Takeaway by Mattias Janmark,2023-03-10T01:42:50Z,2,06:20,13:40,2,0,22.0,Edmonton Oilers,EDM
+119,6,22,Boston Bruins,Edmonton Oilers,2022021026264,2022021026,Hit,264,HIT,Jake DeBrusk hit Evan Bouchard,2023-03-10T01:43:41Z,2,07:11,12:49,2,0,6.0,Boston Bruins,BOS
+120,6,22,Boston Bruins,Edmonton Oilers,202202102685,2022021026,Giveaway,85,GIVEAWAY,Giveaway by Evan Bouchard,2023-03-10T01:43:58Z,2,07:28,12:32,2,0,22.0,Edmonton Oilers,EDM
+121,6,22,Boston Bruins,Edmonton Oilers,2022021026244,2022021026,Missed Shot,244,MISSED_SHOT,Garnet Hathaway Wide of Net Stuart Skinner,2023-03-10T01:44:02Z,2,07:32,12:28,2,0,6.0,Boston Bruins,BOS
+122,6,22,Boston Bruins,Edmonton Oilers,2022021026265,2022021026,Hit,265,HIT,A.J. Greer hit Mattias Ekholm,2023-03-10T01:44:02Z,2,07:32,12:28,2,0,6.0,Boston Bruins,BOS
+123,6,22,Boston Bruins,Edmonton Oilers,2022021026266,2022021026,Hit,266,HIT,Garnet Hathaway hit Zach Hyman,2023-03-10T01:44:09Z,2,07:39,12:21,2,0,6.0,Boston Bruins,BOS
+124,6,22,Boston Bruins,Edmonton Oilers,2022021026267,2022021026,Hit,267,HIT,Derek Ryan hit Trent Frederic,2023-03-10T01:44:44Z,2,08:14,11:46,2,0,22.0,Edmonton Oilers,EDM
+125,6,22,Boston Bruins,Edmonton Oilers,202202102686,2022021026,Giveaway,86,GIVEAWAY,Giveaway by Devin Shore,2023-03-10T01:45:15Z,2,08:45,11:15,2,0,22.0,Edmonton Oilers,EDM
+126,6,22,Boston Bruins,Edmonton Oilers,2022021026245,2022021026,Blocked Shot,245,BLOCKED_SHOT,Matt Grzelcyk shot blocked shot by Devin Shore,2023-03-10T01:45:51Z,2,09:21,10:39,2,0,22.0,Edmonton Oilers,EDM
+127,6,22,Boston Bruins,Edmonton Oilers,202202102687,2022021026,Takeaway,87,TAKEAWAY,Takeaway by Cody Ceci,2023-03-10T01:46:05Z,2,09:35,10:25,2,0,22.0,Edmonton Oilers,EDM
+128,6,22,Boston Bruins,Edmonton Oilers,2022021026268,2022021026,Hit,268,HIT,Dmitry Orlov hit Leon Draisaitl,2023-03-10T01:46:11Z,2,09:41,10:19,2,0,6.0,Boston Bruins,BOS
+129,6,22,Boston Bruins,Edmonton Oilers,2022021026246,2022021026,Shot,246,SHOT,Leon Draisaitl Wrist Shot saved by Jeremy Swayman,2023-03-10T01:46:17Z,2,09:47,10:13,2,0,22.0,Edmonton Oilers,EDM
+130,6,22,Boston Bruins,Edmonton Oilers,2022021026269,2022021026,Hit,269,HIT,Mattias Ekholm hit Patrice Bergeron,2023-03-10T01:46:36Z,2,10:06,09:54,2,0,22.0,Edmonton Oilers,EDM
+131,6,22,Boston Bruins,Edmonton Oilers,2022021026270,2022021026,Stoppage,270,STOP,Icing,2023-03-10T01:46:45Z,2,10:15,09:45,2,0,,,
+132,6,22,Boston Bruins,Edmonton Oilers,202202102688,2022021026,Faceoff,88,FACEOFF,Patrice Bergeron faceoff won against Nick Bjugstad,2023-03-10T01:47:27Z,2,10:15,09:45,2,0,6.0,Boston Bruins,BOS
+133,6,22,Boston Bruins,Edmonton Oilers,2022021026247,2022021026,Shot,247,SHOT,Matt Grzelcyk Wrist Shot saved by Stuart Skinner,2023-03-10T01:47:32Z,2,10:20,09:40,2,0,6.0,Boston Bruins,BOS
+134,6,22,Boston Bruins,Edmonton Oilers,2022021026248,2022021026,Missed Shot,248,MISSED_SHOT,Jake DeBrusk Wide of Net Stuart Skinner,2023-03-10T01:47:40Z,2,10:28,09:32,2,0,6.0,Boston Bruins,BOS
+135,6,22,Boston Bruins,Edmonton Oilers,202202102689,2022021026,Takeaway,89,TAKEAWAY,Takeaway by Mattias Janmark,2023-03-10T01:47:53Z,2,10:41,09:19,2,0,22.0,Edmonton Oilers,EDM
+136,6,22,Boston Bruins,Edmonton Oilers,2022021026249,2022021026,Goal,249,GOAL,"Evan Bouchard (4) Wrist Shot, assists: Mattias Janmark (13)",2023-03-10T01:47:56Z,2,10:44,09:16,2,1,22.0,Edmonton Oilers,EDM
+137,6,22,Boston Bruins,Edmonton Oilers,202202102690,2022021026,Faceoff,90,FACEOFF,Connor McDavid faceoff won against Charlie Coyle,2023-03-10T01:48:47Z,2,10:44,09:16,2,1,22.0,Edmonton Oilers,EDM
+138,6,22,Boston Bruins,Edmonton Oilers,2022021026271,2022021026,Stoppage,271,STOP,Offside,2023-03-10T01:49:15Z,2,11:12,08:48,2,1,,,
+139,6,22,Boston Bruins,Edmonton Oilers,202202102691,2022021026,Faceoff,91,FACEOFF,Tomas Nosek faceoff won against Connor McDavid,2023-03-10T01:51:39Z,2,11:12,08:48,2,1,6.0,Boston Bruins,BOS
+140,6,22,Boston Bruins,Edmonton Oilers,2022021026351,2022021026,Blocked Shot,351,BLOCKED_SHOT,Cody Ceci shot blocked shot by Derek Forbort,2023-03-10T01:52:33Z,2,12:06,07:54,2,1,6.0,Boston Bruins,BOS
+141,6,22,Boston Bruins,Edmonton Oilers,2022021026250,2022021026,Shot,250,SHOT,Patrice Bergeron Wrist Shot saved by Stuart Skinner,2023-03-10T01:52:49Z,2,12:22,07:38,2,1,6.0,Boston Bruins,BOS
+142,6,22,Boston Bruins,Edmonton Oilers,2022021026272,2022021026,Stoppage,272,STOP,Goalie Stopped,2023-03-10T01:52:49Z,2,12:22,07:38,2,1,,,
+143,6,22,Boston Bruins,Edmonton Oilers,202202102693,2022021026,Faceoff,93,FACEOFF,David Krejci faceoff won against Leon Draisaitl,2023-03-10T01:55:10Z,2,12:22,07:38,2,1,6.0,Boston Bruins,BOS
+144,6,22,Boston Bruins,Edmonton Oilers,2022021026352,2022021026,Blocked Shot,352,BLOCKED_SHOT,Brett Kulak shot blocked shot by David Krejci,2023-03-10T01:55:31Z,2,12:43,07:17,2,1,6.0,Boston Bruins,BOS
+145,6,22,Boston Bruins,Edmonton Oilers,2022021026353,2022021026,Shot,353,SHOT,David Pastrnak Wrist Shot saved by Stuart Skinner,2023-03-10T01:55:40Z,2,12:52,07:08,2,1,6.0,Boston Bruins,BOS
+146,6,22,Boston Bruins,Edmonton Oilers,2022021026273,2022021026,Stoppage,273,STOP,Icing,2023-03-10T01:55:56Z,2,13:08,06:52,2,1,,,
+147,6,22,Boston Bruins,Edmonton Oilers,202202102694,2022021026,Faceoff,94,FACEOFF,Patrice Bergeron faceoff won against Leon Draisaitl,2023-03-10T01:56:20Z,2,13:08,06:52,2,1,6.0,Boston Bruins,BOS
+148,6,22,Boston Bruins,Edmonton Oilers,2022021026354,2022021026,Missed Shot,354,MISSED_SHOT,Dmitry Orlov Wide of Net Stuart Skinner,2023-03-10T01:56:27Z,2,13:15,06:45,2,1,6.0,Boston Bruins,BOS
+149,6,22,Boston Bruins,Edmonton Oilers,2022021026274,2022021026,Hit,274,HIT,Brett Kulak hit Brad Marchand,2023-03-10T01:56:57Z,2,13:45,06:15,2,1,22.0,Edmonton Oilers,EDM
+150,6,22,Boston Bruins,Edmonton Oilers,202202102695,2022021026,Giveaway,95,GIVEAWAY,Giveaway by Leon Draisaitl,2023-03-10T01:57:07Z,2,13:55,06:05,2,1,22.0,Edmonton Oilers,EDM
+151,6,22,Boston Bruins,Edmonton Oilers,202202102696,2022021026,Takeaway,96,TAKEAWAY,Takeaway by Evan Bouchard,2023-03-10T01:57:41Z,2,14:29,05:31,2,1,22.0,Edmonton Oilers,EDM
+152,6,22,Boston Bruins,Edmonton Oilers,202202102697,2022021026,Giveaway,97,GIVEAWAY,Giveaway by Derek Ryan,2023-03-10T01:58:17Z,2,15:05,04:55,2,1,22.0,Edmonton Oilers,EDM
+153,6,22,Boston Bruins,Edmonton Oilers,2022021026275,2022021026,Hit,275,HIT,A.J. Greer hit Darnell Nurse,2023-03-10T01:58:37Z,2,15:25,04:35,2,1,6.0,Boston Bruins,BOS
+154,6,22,Boston Bruins,Edmonton Oilers,2022021026276,2022021026,Hit,276,HIT,Dmitry Orlov hit Mattias Janmark,2023-03-10T01:58:44Z,2,15:32,04:28,2,1,6.0,Boston Bruins,BOS
+155,6,22,Boston Bruins,Edmonton Oilers,2022021026277,2022021026,Hit,277,HIT,Garnet Hathaway hit Mattias Janmark,2023-03-10T01:58:59Z,2,15:47,04:13,2,1,6.0,Boston Bruins,BOS
+156,6,22,Boston Bruins,Edmonton Oilers,2022021026278,2022021026,Stoppage,278,STOP,Icing,2023-03-10T01:59:00Z,2,15:49,04:11,2,1,,,
+157,6,22,Boston Bruins,Edmonton Oilers,202202102698,2022021026,Faceoff,98,FACEOFF,David Krejci faceoff won against Nick Bjugstad,2023-03-10T01:59:48Z,2,15:49,04:11,2,1,6.0,Boston Bruins,BOS
+158,6,22,Boston Bruins,Edmonton Oilers,2022021026355,2022021026,Missed Shot,355,MISSED_SHOT,Charlie McAvoy Wide of Net Stuart Skinner,2023-03-10T01:59:54Z,2,15:55,04:05,2,1,6.0,Boston Bruins,BOS
+159,6,22,Boston Bruins,Edmonton Oilers,2022021026279,2022021026,Stoppage,279,STOP,Icing,2023-03-10T02:00:46Z,2,16:47,03:13,2,1,,,
+160,6,22,Boston Bruins,Edmonton Oilers,202202102699,2022021026,Faceoff,99,FACEOFF,Leon Draisaitl faceoff won against David Krejci,2023-03-10T02:01:26Z,2,16:47,03:13,2,1,22.0,Edmonton Oilers,EDM
+161,6,22,Boston Bruins,Edmonton Oilers,2022021026280,2022021026,Hit,280,HIT,Mattias Ekholm hit David Pastrnak,2023-03-10T02:01:41Z,2,17:02,02:58,2,1,22.0,Edmonton Oilers,EDM
+162,6,22,Boston Bruins,Edmonton Oilers,2022021026356,2022021026,Missed Shot,356,MISSED_SHOT,Mattias Ekholm Wide of Net Jeremy Swayman,2023-03-10T02:02:09Z,2,17:30,02:30,2,1,22.0,Edmonton Oilers,EDM
+163,6,22,Boston Bruins,Edmonton Oilers,2022021026357,2022021026,Blocked Shot,357,BLOCKED_SHOT,Evan Bouchard shot blocked shot by David Pastrnak,2023-03-10T02:02:26Z,2,17:47,02:13,2,1,6.0,Boston Bruins,BOS
+164,6,22,Boston Bruins,Edmonton Oilers,2022021026100,2022021026,Giveaway,100,GIVEAWAY,Giveaway by Brad Marchand,2023-03-10T02:02:43Z,2,18:04,01:56,2,1,6.0,Boston Bruins,BOS
+165,6,22,Boston Bruins,Edmonton Oilers,2022021026358,2022021026,Shot,358,SHOT,Patrice Bergeron Slap Shot saved by Stuart Skinner,2023-03-10T02:02:48Z,2,18:09,01:51,2,1,6.0,Boston Bruins,BOS
+166,6,22,Boston Bruins,Edmonton Oilers,2022021026359,2022021026,Shot,359,SHOT,Patrice Bergeron Slap Shot saved by Stuart Skinner,2023-03-10T02:03:13Z,2,18:34,01:26,2,1,6.0,Boston Bruins,BOS
+167,6,22,Boston Bruins,Edmonton Oilers,2022021026360,2022021026,Shot,360,SHOT,Darnell Nurse Snap Shot saved by Jeremy Swayman,2023-03-10T02:03:34Z,2,18:55,01:05,2,1,22.0,Edmonton Oilers,EDM
+168,6,22,Boston Bruins,Edmonton Oilers,2022021026361,2022021026,Blocked Shot,361,BLOCKED_SHOT,Darnell Nurse shot blocked shot by Brandon Carlo,2023-03-10T02:03:34Z,2,18:55,01:05,2,1,6.0,Boston Bruins,BOS
+169,6,22,Boston Bruins,Edmonton Oilers,2022021026281,2022021026,Stoppage,281,STOP,Goalie Stopped,2023-03-10T02:04:28Z,2,19:47,00:13,2,1,,,
+170,6,22,Boston Bruins,Edmonton Oilers,2022021026362,2022021026,Shot,362,SHOT,Cody Ceci Slap Shot saved by Jeremy Swayman,2023-03-10T02:04:28Z,2,19:47,00:13,2,1,22.0,Edmonton Oilers,EDM
+171,6,22,Boston Bruins,Edmonton Oilers,2022021026501,2022021026,Faceoff,501,FACEOFF,Leon Draisaitl faceoff won against Tomas Nosek,2023-03-10T02:05:40Z,2,19:47,00:13,2,1,22.0,Edmonton Oilers,EDM
+172,6,22,Boston Bruins,Edmonton Oilers,2022021026502,2022021026,Takeaway,502,TAKEAWAY,Takeaway by Nick Bjugstad,2023-03-10T02:05:48Z,2,19:56,00:04,2,1,22.0,Edmonton Oilers,EDM
+173,6,22,Boston Bruins,Edmonton Oilers,2022021026282,2022021026,Period End,282,PERIOD_END,End of 2nd Period,2023-03-10T02:05:52Z,2,20:00,00:00,2,1,,,
+174,6,22,Boston Bruins,Edmonton Oilers,2022021026285,2022021026,Period Official,285,PERIOD_OFFICIAL,Period Official,2023-03-10T02:06:00Z,2,20:00,00:00,2,1,,,
+175,6,22,Boston Bruins,Edmonton Oilers,2022021026286,2022021026,Period Ready,286,PERIOD_READY,Period Ready,2023-03-10T02:23:06Z,3,00:00,20:00,2,1,,,
+176,6,22,Boston Bruins,Edmonton Oilers,2022021026503,2022021026,Period Start,503,PERIOD_START,Period Start,2023-03-10T02:24:57Z,3,00:00,20:00,2,1,,,
+177,6,22,Boston Bruins,Edmonton Oilers,2022021026504,2022021026,Faceoff,504,FACEOFF,Connor McDavid faceoff won against Patrice Bergeron,2023-03-10T02:24:57Z,3,00:00,20:00,2,1,22.0,Edmonton Oilers,EDM
+178,6,22,Boston Bruins,Edmonton Oilers,2022021026287,2022021026,Stoppage,287,STOP,Icing,2023-03-10T02:25:01Z,3,00:05,19:55,2,1,,,
+179,6,22,Boston Bruins,Edmonton Oilers,2022021026505,2022021026,Faceoff,505,FACEOFF,Patrice Bergeron faceoff won against Connor McDavid,2023-03-10T02:25:31Z,3,00:05,19:55,2,1,6.0,Boston Bruins,BOS
+180,6,22,Boston Bruins,Edmonton Oilers,2022021026288,2022021026,Hit,288,HIT,Brandon Carlo hit Evander Kane,2023-03-10T02:25:44Z,3,00:18,19:42,2,1,6.0,Boston Bruins,BOS
+181,6,22,Boston Bruins,Edmonton Oilers,2022021026289,2022021026,Stoppage,289,STOP,Icing,2023-03-10T02:25:47Z,3,00:21,19:39,2,1,,,
+182,6,22,Boston Bruins,Edmonton Oilers,2022021026506,2022021026,Faceoff,506,FACEOFF,Leon Draisaitl faceoff won against Patrice Bergeron,2023-03-10T02:26:14Z,3,00:21,19:39,2,1,22.0,Edmonton Oilers,EDM
+183,6,22,Boston Bruins,Edmonton Oilers,2022021026363,2022021026,Shot,363,SHOT,Kailer Yamamoto Wrist Shot saved by Jeremy Swayman,2023-03-10T02:26:21Z,3,00:28,19:32,2,1,22.0,Edmonton Oilers,EDM
+184,6,22,Boston Bruins,Edmonton Oilers,2022021026364,2022021026,Blocked Shot,364,BLOCKED_SHOT,Ryan Nugent-Hopkins shot blocked shot by Brad Marchand,2023-03-10T02:26:25Z,3,00:32,19:28,2,1,6.0,Boston Bruins,BOS
+185,6,22,Boston Bruins,Edmonton Oilers,2022021026290,2022021026,Stoppage,290,STOP,Puck in Netting,2023-03-10T02:26:26Z,3,00:33,19:27,2,1,,,
+186,6,22,Boston Bruins,Edmonton Oilers,2022021026507,2022021026,Faceoff,507,FACEOFF,David Krejci faceoff won against Leon Draisaitl,2023-03-10T02:27:40Z,3,00:33,19:27,2,1,6.0,Boston Bruins,BOS
+187,6,22,Boston Bruins,Edmonton Oilers,2022021026365,2022021026,Shot,365,SHOT,Ryan Nugent-Hopkins Wrist Shot saved by Jeremy Swayman,2023-03-10T02:28:01Z,3,00:54,19:06,2,1,22.0,Edmonton Oilers,EDM
+188,6,22,Boston Bruins,Edmonton Oilers,2022021026291,2022021026,Hit,291,HIT,Charlie McAvoy hit Kailer Yamamoto,2023-03-10T02:28:05Z,3,00:58,19:02,2,1,6.0,Boston Bruins,BOS
+189,6,22,Boston Bruins,Edmonton Oilers,2022021026366,2022021026,Blocked Shot,366,BLOCKED_SHOT,Evan Bouchard shot blocked shot by Dmitry Orlov,2023-03-10T02:28:08Z,3,01:01,18:59,2,1,6.0,Boston Bruins,BOS
+190,6,22,Boston Bruins,Edmonton Oilers,2022021026367,2022021026,Shot,367,SHOT,Dmitry Orlov Wrist Shot saved by Stuart Skinner,2023-03-10T02:28:26Z,3,01:18,18:42,2,1,6.0,Boston Bruins,BOS
+191,6,22,Boston Bruins,Edmonton Oilers,2022021026292,2022021026,Stoppage,292,STOP,Goalie Stopped,2023-03-10T02:28:27Z,3,01:20,18:40,2,1,,,
+192,6,22,Boston Bruins,Edmonton Oilers,2022021026508,2022021026,Faceoff,508,FACEOFF,Nick Bjugstad faceoff won against Charlie Coyle,2023-03-10T02:28:55Z,3,01:20,18:40,2,1,22.0,Edmonton Oilers,EDM
+193,6,22,Boston Bruins,Edmonton Oilers,2022021026368,2022021026,Missed Shot,368,MISSED_SHOT,Charlie Coyle Wide of Net Stuart Skinner,2023-03-10T02:29:15Z,3,01:40,18:20,2,1,6.0,Boston Bruins,BOS
+194,6,22,Boston Bruins,Edmonton Oilers,2022021026509,2022021026,Giveaway,509,GIVEAWAY,Giveaway by Charlie Coyle,2023-03-10T02:29:20Z,3,01:45,18:15,2,1,6.0,Boston Bruins,BOS
+195,6,22,Boston Bruins,Edmonton Oilers,2022021026293,2022021026,Stoppage,293,STOP,Offside,2023-03-10T02:29:44Z,3,02:09,17:51,2,1,,,
+196,6,22,Boston Bruins,Edmonton Oilers,2022021026510,2022021026,Faceoff,510,FACEOFF,Ryan McLeod faceoff won against Tomas Nosek,2023-03-10T02:30:06Z,3,02:09,17:51,2,1,22.0,Edmonton Oilers,EDM
+197,6,22,Boston Bruins,Edmonton Oilers,2022021026294,2022021026,Stoppage,294,STOP,Icing,2023-03-10T02:30:33Z,3,02:36,17:24,2,1,,,
+198,6,22,Boston Bruins,Edmonton Oilers,2022021026511,2022021026,Faceoff,511,FACEOFF,Ryan McLeod faceoff won against Patrice Bergeron,2023-03-10T02:31:00Z,3,02:36,17:24,2,1,22.0,Edmonton Oilers,EDM
+199,6,22,Boston Bruins,Edmonton Oilers,2022021026295,2022021026,Hit,295,HIT,Ryan McLeod hit Jake DeBrusk,2023-03-10T02:31:12Z,3,02:48,17:12,2,1,22.0,Edmonton Oilers,EDM
+200,6,22,Boston Bruins,Edmonton Oilers,2022021026296,2022021026,Stoppage,296,STOP,Goalie Stopped,2023-03-10T02:31:27Z,3,03:02,16:58,2,1,,,
+201,6,22,Boston Bruins,Edmonton Oilers,2022021026369,2022021026,Shot,369,SHOT,Brad Marchand Wrist Shot saved by Stuart Skinner,2023-03-10T02:31:27Z,3,03:02,16:58,2,1,6.0,Boston Bruins,BOS
+202,6,22,Boston Bruins,Edmonton Oilers,2022021026512,2022021026,Faceoff,512,FACEOFF,Patrice Bergeron faceoff won against Connor McDavid,2023-03-10T02:31:56Z,3,03:02,16:58,2,1,6.0,Boston Bruins,BOS
+203,6,22,Boston Bruins,Edmonton Oilers,2022021026297,2022021026,Hit,297,HIT,Charlie McAvoy hit Evander Kane,2023-03-10T02:32:13Z,3,03:19,16:41,2,1,6.0,Boston Bruins,BOS
+204,6,22,Boston Bruins,Edmonton Oilers,2022021026298,2022021026,Hit,298,HIT,Charlie McAvoy hit Zach Hyman,2023-03-10T02:32:24Z,3,03:30,16:30,2,1,6.0,Boston Bruins,BOS
+205,6,22,Boston Bruins,Edmonton Oilers,2022021026299,2022021026,Hit,299,HIT,Evander Kane hit Dmitry Orlov,2023-03-10T02:32:29Z,3,03:33,16:27,2,1,22.0,Edmonton Oilers,EDM
+206,6,22,Boston Bruins,Edmonton Oilers,2022021026370,2022021026,Shot,370,SHOT,David Pastrnak Wrist Shot saved by Stuart Skinner,2023-03-10T02:32:53Z,3,03:59,16:01,2,1,6.0,Boston Bruins,BOS
+207,6,22,Boston Bruins,Edmonton Oilers,2022021026371,2022021026,Shot,371,SHOT,Leon Draisaitl Wrist Shot saved by Jeremy Swayman,2023-03-10T02:33:14Z,3,04:20,15:40,2,1,22.0,Edmonton Oilers,EDM
+208,6,22,Boston Bruins,Edmonton Oilers,2022021026372,2022021026,Shot,372,SHOT,Leon Draisaitl Wrist Shot saved by Jeremy Swayman,2023-03-10T02:33:23Z,3,04:29,15:31,2,1,22.0,Edmonton Oilers,EDM
+209,6,22,Boston Bruins,Edmonton Oilers,2022021026300,2022021026,Stoppage,300,STOP,Goalie Stopped,2023-03-10T02:33:23Z,3,04:30,15:30,2,1,,,
+210,6,22,Boston Bruins,Edmonton Oilers,2022021026513,2022021026,Faceoff,513,FACEOFF,Leon Draisaitl faceoff won against Tomas Nosek,2023-03-10T02:34:03Z,3,04:30,15:30,2,1,22.0,Edmonton Oilers,EDM
+211,6,22,Boston Bruins,Edmonton Oilers,2022021026514,2022021026,Giveaway,514,GIVEAWAY,Giveaway by Darnell Nurse,2023-03-10T02:34:24Z,3,04:51,15:09,2,1,22.0,Edmonton Oilers,EDM
+212,6,22,Boston Bruins,Edmonton Oilers,2022021026515,2022021026,Giveaway,515,GIVEAWAY,Giveaway by Hampus Lindholm,2023-03-10T02:34:32Z,3,04:59,15:01,2,1,6.0,Boston Bruins,BOS
+213,6,22,Boston Bruins,Edmonton Oilers,2022021026751,2022021026,Hit,751,HIT,Nick Bjugstad hit A.J. Greer,2023-03-10T02:35:20Z,3,05:47,14:13,2,1,22.0,Edmonton Oilers,EDM
+214,6,22,Boston Bruins,Edmonton Oilers,2022021026516,2022021026,Giveaway,516,GIVEAWAY,Giveaway by Mattias Ekholm,2023-03-10T02:35:21Z,3,05:48,14:12,2,1,22.0,Edmonton Oilers,EDM
+215,6,22,Boston Bruins,Edmonton Oilers,2022021026373,2022021026,Shot,373,SHOT,A.J. Greer Wrist Shot saved by Stuart Skinner,2023-03-10T02:35:24Z,3,05:51,14:09,2,1,6.0,Boston Bruins,BOS
+216,6,22,Boston Bruins,Edmonton Oilers,2022021026752,2022021026,Stoppage,752,STOP,Goalie Stopped,2023-03-10T02:35:24Z,3,05:51,14:09,2,1,,,
+217,6,22,Boston Bruins,Edmonton Oilers,2022021026517,2022021026,Faceoff,517,FACEOFF,Ryan McLeod faceoff won against Patrice Bergeron,2023-03-10T02:35:59Z,3,05:51,14:09,2,1,22.0,Edmonton Oilers,EDM
+218,6,22,Boston Bruins,Edmonton Oilers,2022021026518,2022021026,Takeaway,518,TAKEAWAY,Takeaway by Devin Shore,2023-03-10T02:36:13Z,3,06:05,13:55,2,1,22.0,Edmonton Oilers,EDM
+219,6,22,Boston Bruins,Edmonton Oilers,2022021026374,2022021026,Goal,374,GOAL,"Ryan McLeod (11) Wrist Shot, assists: Devin Shore (7)",2023-03-10T02:36:16Z,3,06:08,13:52,2,2,22.0,Edmonton Oilers,EDM
+220,6,22,Boston Bruins,Edmonton Oilers,2022021026519,2022021026,Faceoff,519,FACEOFF,Tomas Nosek faceoff won against Connor McDavid,2023-03-10T02:37:02Z,3,06:08,13:52,2,2,6.0,Boston Bruins,BOS
+221,6,22,Boston Bruins,Edmonton Oilers,2022021026753,2022021026,Hit,753,HIT,Zach Hyman hit Hampus Lindholm,2023-03-10T02:37:08Z,3,06:14,13:46,2,2,22.0,Edmonton Oilers,EDM
+222,6,22,Boston Bruins,Edmonton Oilers,2022021026754,2022021026,Hit,754,HIT,Darnell Nurse hit Garnet Hathaway,2023-03-10T02:37:26Z,3,06:32,13:28,2,2,22.0,Edmonton Oilers,EDM
+223,6,22,Boston Bruins,Edmonton Oilers,2022021026375,2022021026,Shot,375,SHOT,Mattias Ekholm Wrist Shot saved by Jeremy Swayman,2023-03-10T02:37:41Z,3,06:47,13:13,2,2,22.0,Edmonton Oilers,EDM
+224,6,22,Boston Bruins,Edmonton Oilers,2022021026376,2022021026,Blocked Shot,376,BLOCKED_SHOT,David Pastrnak shot blocked shot by Mattias Ekholm,2023-03-10T02:37:56Z,3,07:02,12:58,2,2,22.0,Edmonton Oilers,EDM
+225,6,22,Boston Bruins,Edmonton Oilers,2022021026520,2022021026,Takeaway,520,TAKEAWAY,Takeaway by Dmitry Orlov,2023-03-10T02:38:05Z,3,07:11,12:49,2,2,6.0,Boston Bruins,BOS
+226,6,22,Boston Bruins,Edmonton Oilers,2022021026521,2022021026,Giveaway,521,GIVEAWAY,Giveaway by Leon Draisaitl,2023-03-10T02:38:15Z,3,07:21,12:39,2,2,22.0,Edmonton Oilers,EDM
+227,6,22,Boston Bruins,Edmonton Oilers,2022021026755,2022021026,Stoppage,755,STOP,Icing,2023-03-10T02:38:44Z,3,07:50,12:10,2,2,,,
+228,6,22,Boston Bruins,Edmonton Oilers,2022021026522,2022021026,Faceoff,522,FACEOFF,Nick Bjugstad faceoff won against Charlie Coyle,2023-03-10T02:39:20Z,3,07:50,12:10,2,2,22.0,Edmonton Oilers,EDM
+229,6,22,Boston Bruins,Edmonton Oilers,2022021026756,2022021026,Stoppage,756,STOP,Icing,2023-03-10T02:39:49Z,3,08:19,11:41,2,2,,,
+230,6,22,Boston Bruins,Edmonton Oilers,2022021026523,2022021026,Faceoff,523,FACEOFF,Patrice Bergeron faceoff won against Nick Bjugstad,2023-03-10T02:40:26Z,3,08:19,11:41,2,2,6.0,Boston Bruins,BOS
+231,6,22,Boston Bruins,Edmonton Oilers,2022021026757,2022021026,Hit,757,HIT,Matt Grzelcyk hit Warren Foegele,2023-03-10T02:40:36Z,3,08:29,11:31,2,2,6.0,Boston Bruins,BOS
+232,6,22,Boston Bruins,Edmonton Oilers,2022021026758,2022021026,Penalty,758,PENALTY,Patrice Bergeron Holding against Derek Ryan,2023-03-10T02:40:50Z,3,08:43,11:17,2,2,6.0,Boston Bruins,BOS
+233,6,22,Boston Bruins,Edmonton Oilers,2022021026762,2022021026,Stoppage,762,STOP,TV timeout,2023-03-10T02:40:50Z,3,08:43,11:17,2,2,,,
+234,6,22,Boston Bruins,Edmonton Oilers,2022021026524,2022021026,Faceoff,524,FACEOFF,Leon Draisaitl faceoff won against Charlie Coyle,2023-03-10T02:43:18Z,3,08:43,11:17,2,2,22.0,Edmonton Oilers,EDM
+235,6,22,Boston Bruins,Edmonton Oilers,2022021026377,2022021026,Blocked Shot,377,BLOCKED_SHOT,Zach Hyman shot blocked shot by Charlie McAvoy,2023-03-10T02:44:40Z,3,10:05,09:55,2,2,6.0,Boston Bruins,BOS
+236,6,22,Boston Bruins,Edmonton Oilers,2022021026763,2022021026,Stoppage,763,STOP,Puck in Netting,2023-03-10T02:44:40Z,3,10:05,09:55,2,2,,,
+237,6,22,Boston Bruins,Edmonton Oilers,2022021026525,2022021026,Faceoff,525,FACEOFF,Tomas Nosek faceoff won against Ryan McLeod,2023-03-10T02:45:10Z,3,10:05,09:55,2,2,6.0,Boston Bruins,BOS
+238,6,22,Boston Bruins,Edmonton Oilers,2022021026764,2022021026,Hit,764,HIT,Charlie Coyle hit Evander Kane,2023-03-10T02:45:30Z,3,10:25,09:35,2,2,6.0,Boston Bruins,BOS
+239,6,22,Boston Bruins,Edmonton Oilers,2022021026378,2022021026,Shot,378,SHOT,Darnell Nurse Snap Shot saved by Jeremy Swayman,2023-03-10T02:45:35Z,3,10:30,09:30,2,2,22.0,Edmonton Oilers,EDM
+240,6,22,Boston Bruins,Edmonton Oilers,2022021026765,2022021026,Stoppage,765,STOP,Goalie Stopped,2023-03-10T02:45:35Z,3,10:30,09:30,2,2,,,
+241,6,22,Boston Bruins,Edmonton Oilers,2022021026526,2022021026,Faceoff,526,FACEOFF,Leon Draisaitl faceoff won against Charlie Coyle,2023-03-10T02:46:10Z,3,10:30,09:30,2,2,22.0,Edmonton Oilers,EDM
+242,6,22,Boston Bruins,Edmonton Oilers,2022021026379,2022021026,Blocked Shot,379,BLOCKED_SHOT,Darnell Nurse shot blocked shot by David Krejci,2023-03-10T02:46:19Z,3,10:39,09:21,2,2,6.0,Boston Bruins,BOS
+243,6,22,Boston Bruins,Edmonton Oilers,2022021026767,2022021026,Hit,767,HIT,Evander Kane hit David Krejci,2023-03-10T02:46:33Z,3,10:53,09:07,2,2,22.0,Edmonton Oilers,EDM
+244,6,22,Boston Bruins,Edmonton Oilers,2022021026768,2022021026,Stoppage,768,STOP,Icing,2023-03-10T02:46:36Z,3,10:56,09:04,2,2,,,
+245,6,22,Boston Bruins,Edmonton Oilers,2022021026527,2022021026,Faceoff,527,FACEOFF,Patrice Bergeron faceoff won against Leon Draisaitl,2023-03-10T02:47:14Z,3,10:56,09:04,2,2,6.0,Boston Bruins,BOS
+246,6,22,Boston Bruins,Edmonton Oilers,2022021026380,2022021026,Blocked Shot,380,BLOCKED_SHOT,Dmitry Orlov shot blocked shot by Mattias Ekholm,2023-03-10T02:47:38Z,3,11:20,08:40,2,2,22.0,Edmonton Oilers,EDM
+247,6,22,Boston Bruins,Edmonton Oilers,2022021026381,2022021026,Blocked Shot,381,BLOCKED_SHOT,Cody Ceci shot blocked shot by Jake DeBrusk,2023-03-10T02:48:06Z,3,11:48,08:12,2,2,6.0,Boston Bruins,BOS
+248,6,22,Boston Bruins,Edmonton Oilers,2022021026769,2022021026,Hit,769,HIT,Dmitry Orlov hit Warren Foegele,2023-03-10T02:48:14Z,3,11:56,08:04,2,2,6.0,Boston Bruins,BOS
+249,6,22,Boston Bruins,Edmonton Oilers,2022021026528,2022021026,Takeaway,528,TAKEAWAY,Takeaway by Warren Foegele,2023-03-10T02:48:19Z,3,12:01,07:59,2,2,22.0,Edmonton Oilers,EDM
+250,6,22,Boston Bruins,Edmonton Oilers,2022021026382,2022021026,Missed Shot,382,MISSED_SHOT,Derek Ryan Wide of Net Jeremy Swayman,2023-03-10T02:49:07Z,3,12:49,07:11,2,2,22.0,Edmonton Oilers,EDM
+251,6,22,Boston Bruins,Edmonton Oilers,2022021026770,2022021026,Hit,770,HIT,Ryan McLeod hit Charlie McAvoy,2023-03-10T02:49:16Z,3,12:58,07:02,2,2,22.0,Edmonton Oilers,EDM
+252,6,22,Boston Bruins,Edmonton Oilers,2022021026771,2022021026,Stoppage,771,STOP,Icing,2023-03-10T02:49:25Z,3,13:07,06:53,2,2,,,
+253,6,22,Boston Bruins,Edmonton Oilers,2022021026529,2022021026,Faceoff,529,FACEOFF,Tomas Nosek faceoff won against Leon Draisaitl,2023-03-10T02:49:57Z,3,13:07,06:53,2,2,6.0,Boston Bruins,BOS
+254,6,22,Boston Bruins,Edmonton Oilers,2022021026772,2022021026,Hit,772,HIT,Tomas Nosek hit Vincent Desharnais,2023-03-10T02:50:19Z,3,13:29,06:31,2,2,6.0,Boston Bruins,BOS
+255,6,22,Boston Bruins,Edmonton Oilers,2022021026383,2022021026,Missed Shot,383,MISSED_SHOT,David Pastrnak Wide of Net Stuart Skinner,2023-03-10T02:50:43Z,3,13:53,06:07,2,2,6.0,Boston Bruins,BOS
+256,6,22,Boston Bruins,Edmonton Oilers,2022021026384,2022021026,Shot,384,SHOT,Dmitry Orlov Backhand saved by Stuart Skinner,2023-03-10T02:50:51Z,3,14:01,05:59,2,2,6.0,Boston Bruins,BOS
+257,6,22,Boston Bruins,Edmonton Oilers,2022021026773,2022021026,Stoppage,773,STOP,Goalie Stopped,2023-03-10T02:50:51Z,3,14:01,05:59,2,2,,,
+258,6,22,Boston Bruins,Edmonton Oilers,2022021026530,2022021026,Faceoff,530,FACEOFF,David Krejci faceoff won against Nick Bjugstad,2023-03-10T02:53:26Z,3,14:01,05:59,2,2,6.0,Boston Bruins,BOS
+259,6,22,Boston Bruins,Edmonton Oilers,2022021026774,2022021026,Hit,774,HIT,David Pastrnak hit Zach Hyman,2023-03-10T02:53:53Z,3,14:28,05:32,2,2,6.0,Boston Bruins,BOS
+260,6,22,Boston Bruins,Edmonton Oilers,2022021026531,2022021026,Giveaway,531,GIVEAWAY,Giveaway by Evander Kane,2023-03-10T02:54:00Z,3,14:35,05:25,2,2,22.0,Edmonton Oilers,EDM
+261,6,22,Boston Bruins,Edmonton Oilers,2022021026775,2022021026,Stoppage,775,STOP,Icing,2023-03-10T02:54:04Z,3,14:39,05:21,2,2,,,
+262,6,22,Boston Bruins,Edmonton Oilers,2022021026532,2022021026,Faceoff,532,FACEOFF,David Krejci faceoff won against Leon Draisaitl,2023-03-10T02:54:35Z,3,14:39,05:21,2,2,6.0,Boston Bruins,BOS
+263,6,22,Boston Bruins,Edmonton Oilers,2022021026385,2022021026,Goal,385,GOAL,"Darnell Nurse (7) Wrist Shot, assists: Cody Ceci (12), Leon Draisaitl (56)",2023-03-10T02:55:07Z,3,15:11,04:49,2,3,22.0,Edmonton Oilers,EDM
+264,6,22,Boston Bruins,Edmonton Oilers,2022021026533,2022021026,Faceoff,533,FACEOFF,Connor McDavid faceoff won against Charlie Coyle,2023-03-10T02:55:54Z,3,15:11,04:49,2,3,22.0,Edmonton Oilers,EDM
+265,6,22,Boston Bruins,Edmonton Oilers,2022021026776,2022021026,Hit,776,HIT,Trent Frederic hit Cody Ceci,2023-03-10T02:56:01Z,3,15:18,04:42,2,3,6.0,Boston Bruins,BOS
+266,6,22,Boston Bruins,Edmonton Oilers,2022021026386,2022021026,Shot,386,SHOT,Darnell Nurse Wrist Shot saved by Jeremy Swayman,2023-03-10T02:56:06Z,3,15:23,04:37,2,3,22.0,Edmonton Oilers,EDM
+267,6,22,Boston Bruins,Edmonton Oilers,2022021026387,2022021026,Shot,387,SHOT,Charlie Coyle Wrist Shot saved by Stuart Skinner,2023-03-10T02:56:18Z,3,15:35,04:25,2,3,6.0,Boston Bruins,BOS
+268,6,22,Boston Bruins,Edmonton Oilers,2022021026603,2022021026,Blocked Shot,603,BLOCKED_SHOT,Dmitry Orlov shot blocked shot by Cody Ceci,2023-03-10T02:56:20Z,3,15:37,04:23,2,3,22.0,Edmonton Oilers,EDM
+269,6,22,Boston Bruins,Edmonton Oilers,2022021026388,2022021026,Blocked Shot,388,BLOCKED_SHOT,Trent Frederic shot blocked shot by Darnell Nurse,2023-03-10T02:56:27Z,3,15:44,04:16,2,3,22.0,Edmonton Oilers,EDM
+270,6,22,Boston Bruins,Edmonton Oilers,2022021026389,2022021026,Blocked Shot,389,BLOCKED_SHOT,David Pastrnak shot blocked shot by Brett Kulak,2023-03-10T02:57:03Z,3,16:20,03:40,2,3,22.0,Edmonton Oilers,EDM
+271,6,22,Boston Bruins,Edmonton Oilers,2022021026390,2022021026,Blocked Shot,390,BLOCKED_SHOT,Hampus Lindholm shot blocked shot by Derek Ryan,2023-03-10T02:57:23Z,3,16:40,03:20,2,3,22.0,Edmonton Oilers,EDM
+272,6,22,Boston Bruins,Edmonton Oilers,2022021026777,2022021026,Hit,777,HIT,Hampus Lindholm hit Derek Ryan,2023-03-10T02:57:29Z,3,16:46,03:14,2,3,6.0,Boston Bruins,BOS
+273,6,22,Boston Bruins,Edmonton Oilers,2022021026778,2022021026,Hit,778,HIT,David Krejci hit Evan Bouchard,2023-03-10T02:57:46Z,3,17:03,02:57,2,3,6.0,Boston Bruins,BOS
+274,6,22,Boston Bruins,Edmonton Oilers,2022021026392,2022021026,Shot,392,SHOT,David Krejci Tip-In saved by Stuart Skinner,2023-03-10T02:58:06Z,3,17:23,02:37,2,3,6.0,Boston Bruins,BOS
+275,6,22,Boston Bruins,Edmonton Oilers,2022021026779,2022021026,Hit,779,HIT,Charlie McAvoy hit Evan Bouchard,2023-03-10T02:58:07Z,3,17:24,02:36,2,3,6.0,Boston Bruins,BOS
+276,6,22,Boston Bruins,Edmonton Oilers,2022021026393,2022021026,Missed Shot,393,MISSED_SHOT,Ryan Nugent-Hopkins Wide of Net Jeremy Swayman,2023-03-10T02:58:12Z,3,17:29,02:31,2,3,22.0,Edmonton Oilers,EDM
+277,6,22,Boston Bruins,Edmonton Oilers,2022021026394,2022021026,Missed Shot,394,MISSED_SHOT,Mattias Janmark Wide of Net Jeremy Swayman,2023-03-10T02:58:32Z,3,17:49,02:11,2,3,22.0,Edmonton Oilers,EDM
+278,6,22,Boston Bruins,Edmonton Oilers,2022021026534,2022021026,Giveaway,534,GIVEAWAY,Giveaway by Hampus Lindholm,2023-03-10T02:58:40Z,3,17:57,02:03,2,3,6.0,Boston Bruins,BOS
+279,6,22,Boston Bruins,Edmonton Oilers,2022021026780,2022021026,Hit,780,HIT,Darnell Nurse hit Matt Grzelcyk,2023-03-10T02:58:51Z,3,18:08,01:52,2,3,22.0,Edmonton Oilers,EDM
+280,6,22,Boston Bruins,Edmonton Oilers,2022021026781,2022021026,Stoppage,781,STOP,Puck in Crowd,2023-03-10T02:58:52Z,3,18:09,01:51,2,3,,,
+281,6,22,Boston Bruins,Edmonton Oilers,2022021026536,2022021026,Faceoff,536,FACEOFF,Nick Bjugstad faceoff won against Patrice Bergeron,2023-03-10T03:01:01Z,3,18:09,01:51,2,3,22.0,Edmonton Oilers,EDM
+282,6,22,Boston Bruins,Edmonton Oilers,2022021026395,2022021026,Shot,395,SHOT,David Pastrnak Slap Shot saved by Stuart Skinner,2023-03-10T03:01:13Z,3,18:21,01:39,2,3,6.0,Boston Bruins,BOS
+283,6,22,Boston Bruins,Edmonton Oilers,2022021026782,2022021026,Stoppage,782,STOP,Goalie Stopped,2023-03-10T03:01:13Z,3,18:21,01:39,2,3,,,
+284,6,22,Boston Bruins,Edmonton Oilers,2022021026537,2022021026,Faceoff,537,FACEOFF,Patrice Bergeron faceoff won against Nick Bjugstad,2023-03-10T03:01:37Z,3,18:21,01:39,2,3,6.0,Boston Bruins,BOS
+285,6,22,Boston Bruins,Edmonton Oilers,2022021026396,2022021026,Shot,396,SHOT,Brad Marchand Wrist Shot saved by Stuart Skinner,2023-03-10T03:01:47Z,3,18:31,01:29,2,3,6.0,Boston Bruins,BOS
+286,6,22,Boston Bruins,Edmonton Oilers,2022021026783,2022021026,Stoppage,783,STOP,Goalie Stopped,2023-03-10T03:01:47Z,3,18:31,01:29,2,3,,,
+287,6,22,Boston Bruins,Edmonton Oilers,2022021026538,2022021026,Faceoff,538,FACEOFF,Leon Draisaitl faceoff won against Patrice Bergeron,2023-03-10T03:02:11Z,3,18:31,01:29,2,3,22.0,Edmonton Oilers,EDM
+288,6,22,Boston Bruins,Edmonton Oilers,2022021026397,2022021026,Missed Shot,397,MISSED_SHOT,Ryan Nugent-Hopkins Wide of Net,2023-03-10T03:02:25Z,3,18:45,01:15,2,3,22.0,Edmonton Oilers,EDM
+289,6,22,Boston Bruins,Edmonton Oilers,2022021026398,2022021026,Shot,398,SHOT,David Pastrnak Snap Shot saved by Stuart Skinner,2023-03-10T03:02:51Z,3,19:11,00:49,2,3,6.0,Boston Bruins,BOS
+290,6,22,Boston Bruins,Edmonton Oilers,2022021026399,2022021026,Blocked Shot,399,BLOCKED_SHOT,Patrice Bergeron shot blocked shot by Darnell Nurse,2023-03-10T03:03:02Z,3,19:22,00:38,2,3,22.0,Edmonton Oilers,EDM
+291,6,22,Boston Bruins,Edmonton Oilers,2022021026784,2022021026,Hit,784,HIT,David Pastrnak hit Connor McDavid,2023-03-10T03:03:07Z,3,19:27,00:33,2,3,6.0,Boston Bruins,BOS
+292,6,22,Boston Bruins,Edmonton Oilers,2022021026400,2022021026,Missed Shot,400,MISSED_SHOT,Connor McDavid Wide of Net,2023-03-10T03:03:22Z,3,19:41,00:19,2,3,22.0,Edmonton Oilers,EDM
+293,6,22,Boston Bruins,Edmonton Oilers,2022021026785,2022021026,Period End,785,PERIOD_END,End of 3rd Period,2023-03-10T03:03:41Z,3,20:00,00:00,2,3,,,
+294,6,22,Boston Bruins,Edmonton Oilers,2022021026788,2022021026,Period Official,788,PERIOD_OFFICIAL,Period Official,2023-03-10T03:03:49Z,3,20:00,00:00,2,3,,,
+295,6,22,Boston Bruins,Edmonton Oilers,2022021026789,2022021026,Game End,789,GAME_END,Game End,2023-03-10T03:03:55Z,3,20:00,00:00,2,3,,,
+296,6,22,Boston Bruins,Edmonton Oilers,2022021026790,2022021026,Game Official,790,GAME_OFFICIAL,Game Official,2023-03-10T03:16:12Z,3,20:00,00:00,2,3,,,

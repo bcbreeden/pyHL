@@ -1,0 +1,365 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,2,28,New York Islanders,San Jose Sharks,20220200511,2022020051,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-10-18T22:30:06Z,1,00:00,20:00,0,0,,,
+1,2,28,New York Islanders,San Jose Sharks,202202005152,2022020051,Period Ready,52,PERIOD_READY,Period Ready,2022-10-18T23:35:48Z,1,00:00,20:00,0,0,,,
+2,2,28,New York Islanders,San Jose Sharks,202202005155,2022020051,Period Start,55,PERIOD_START,Period Start,2022-10-18T23:38:04Z,1,00:00,20:00,0,0,,,
+3,2,28,New York Islanders,San Jose Sharks,2022020051101,2022020051,Faceoff,101,FACEOFF,Logan Couture faceoff won against Brock Nelson,2022-10-18T23:38:04Z,1,00:00,20:00,0,0,28.0,San Jose Sharks,SJS
+4,2,28,New York Islanders,San Jose Sharks,202202005157,2022020051,Hit,57,HIT,Luke Kunin hit Ryan Pulock,2022-10-18T23:38:22Z,1,00:18,19:42,0,0,28.0,San Jose Sharks,SJS
+5,2,28,New York Islanders,San Jose Sharks,2022020051201,2022020051,Blocked Shot,201,BLOCKED_SHOT,Brock Nelson shot blocked shot by Jaycob Megna,2022-10-18T23:38:31Z,1,00:27,19:33,0,0,28.0,San Jose Sharks,SJS
+6,2,28,New York Islanders,San Jose Sharks,2022020051301,2022020051,Missed Shot,301,MISSED_SHOT,Matt Benning Wide of Net Semyon Varlamov,2022-10-18T23:39:13Z,1,01:09,18:51,0,0,28.0,San Jose Sharks,SJS
+7,2,28,New York Islanders,San Jose Sharks,202202005158,2022020051,Stoppage,58,STOP,Puck Frozen,2022-10-18T23:39:20Z,1,01:17,18:43,0,0,,,
+8,2,28,New York Islanders,San Jose Sharks,2022020051102,2022020051,Faceoff,102,FACEOFF,Nick Bonino faceoff won against Josh Bailey,2022-10-18T23:39:55Z,1,01:17,18:43,0,0,28.0,San Jose Sharks,SJS
+9,2,28,New York Islanders,San Jose Sharks,202202005159,2022020051,Hit,59,HIT,Matt Nieto hit Scott Mayfield,2022-10-18T23:40:26Z,1,01:48,18:12,0,0,28.0,San Jose Sharks,SJS
+10,2,28,New York Islanders,San Jose Sharks,2022020051103,2022020051,Giveaway,103,GIVEAWAY,Giveaway by Matt Nieto,2022-10-18T23:40:38Z,1,02:00,18:00,0,0,28.0,San Jose Sharks,SJS
+11,2,28,New York Islanders,San Jose Sharks,202202005160,2022020051,Stoppage,60,STOP,Puck in Netting,2022-10-18T23:40:41Z,1,02:03,17:57,0,0,,,
+12,2,28,New York Islanders,San Jose Sharks,2022020051202,2022020051,Blocked Shot,202,BLOCKED_SHOT,Jean-Gabriel Pageau shot blocked shot by Mario Ferraro,2022-10-18T23:40:41Z,1,02:03,17:57,0,0,28.0,San Jose Sharks,SJS
+13,2,28,New York Islanders,San Jose Sharks,2022020051104,2022020051,Faceoff,104,FACEOFF,Casey Cizikas faceoff won against Jonah Gadjovich,2022-10-18T23:41:05Z,1,02:03,17:57,0,0,2.0,New York Islanders,NYI
+14,2,28,New York Islanders,San Jose Sharks,202202005161,2022020051,Stoppage,61,STOP,Goalie Stopped,2022-10-18T23:41:19Z,1,02:09,17:51,0,0,,,
+15,2,28,New York Islanders,San Jose Sharks,2022020051204,2022020051,Shot,204,SHOT,Noah Dobson Wrist Shot saved by James Reimer,2022-10-18T23:41:19Z,1,02:09,17:51,0,0,2.0,New York Islanders,NYI
+16,2,28,New York Islanders,San Jose Sharks,2022020051105,2022020051,Faceoff,105,FACEOFF,Nico Sturm faceoff won against Casey Cizikas,2022-10-18T23:41:35Z,1,02:09,17:51,0,0,28.0,San Jose Sharks,SJS
+17,2,28,New York Islanders,San Jose Sharks,202202005162,2022020051,Hit,62,HIT,Alexander Romanov hit Jonah Gadjovich,2022-10-18T23:41:46Z,1,02:20,17:40,0,0,2.0,New York Islanders,NYI
+18,2,28,New York Islanders,San Jose Sharks,2022020051206,2022020051,Shot,206,SHOT,Jonah Gadjovich Wrist Shot saved by Semyon Varlamov,2022-10-18T23:41:57Z,1,02:31,17:29,0,0,28.0,San Jose Sharks,SJS
+19,2,28,New York Islanders,San Jose Sharks,202202005163,2022020051,Stoppage,63,STOP,Goalie Stopped,2022-10-18T23:41:59Z,1,02:33,17:27,0,0,,,
+20,2,28,New York Islanders,San Jose Sharks,2022020051106,2022020051,Faceoff,106,FACEOFF,Logan Couture faceoff won against Anders Lee,2022-10-18T23:42:49Z,1,02:33,17:27,0,0,28.0,San Jose Sharks,SJS
+21,2,28,New York Islanders,San Jose Sharks,2022020051107,2022020051,Giveaway,107,GIVEAWAY,Giveaway by Anthony Beauvillier,2022-10-18T23:43:02Z,1,02:46,17:14,0,0,2.0,New York Islanders,NYI
+22,2,28,New York Islanders,San Jose Sharks,2022020051108,2022020051,Giveaway,108,GIVEAWAY,Giveaway by Tomas Hertl,2022-10-18T23:43:51Z,1,03:35,16:25,0,0,28.0,San Jose Sharks,SJS
+23,2,28,New York Islanders,San Jose Sharks,2022020051207,2022020051,Shot,207,SHOT,Tomas Hertl Backhand saved by Semyon Varlamov,2022-10-18T23:43:53Z,1,03:37,16:23,0,0,28.0,San Jose Sharks,SJS
+24,2,28,New York Islanders,San Jose Sharks,2022020051109,2022020051,Takeaway,109,TAKEAWAY,Takeaway by Marc-Edouard Vlasic,2022-10-18T23:44:14Z,1,03:58,16:02,0,0,28.0,San Jose Sharks,SJS
+25,2,28,New York Islanders,San Jose Sharks,2022020051208,2022020051,Missed Shot,208,MISSED_SHOT,Oliver Wahlstrom Wide of Net James Reimer,2022-10-18T23:44:26Z,1,04:10,15:50,0,0,2.0,New York Islanders,NYI
+26,2,28,New York Islanders,San Jose Sharks,202202005164,2022020051,Blocked Shot,64,BLOCKED_SHOT,Adam Pelech shot blocked shot by Marc-Edouard Vlasic,2022-10-18T23:44:28Z,1,04:12,15:48,0,0,28.0,San Jose Sharks,SJS
+27,2,28,New York Islanders,San Jose Sharks,202202005165,2022020051,Stoppage,65,STOP,Puck in Netting,2022-10-18T23:44:35Z,1,04:19,15:41,0,0,,,
+28,2,28,New York Islanders,San Jose Sharks,2022020051110,2022020051,Faceoff,110,FACEOFF,Jean-Gabriel Pageau faceoff won against Nick Bonino,2022-10-18T23:45:02Z,1,04:19,15:41,0,0,2.0,New York Islanders,NYI
+29,2,28,New York Islanders,San Jose Sharks,202202005166,2022020051,Shot,66,SHOT,Josh Bailey Snap Shot saved by James Reimer,2022-10-18T23:45:04Z,1,04:21,15:39,0,0,2.0,New York Islanders,NYI
+30,2,28,New York Islanders,San Jose Sharks,202202005167,2022020051,Hit,67,HIT,Ryan Pulock hit Nick Bonino,2022-10-18T23:45:40Z,1,04:57,15:03,0,0,2.0,New York Islanders,NYI
+31,2,28,New York Islanders,San Jose Sharks,202202005168,2022020051,Stoppage,68,STOP,Goalie Stopped,2022-10-18T23:45:48Z,1,05:05,14:55,0,0,,,
+32,2,28,New York Islanders,San Jose Sharks,2022020051211,2022020051,Shot,211,SHOT,Casey Cizikas Wrist Shot saved by James Reimer,2022-10-18T23:45:48Z,1,05:05,14:55,0,0,2.0,New York Islanders,NYI
+33,2,28,New York Islanders,San Jose Sharks,2022020051111,2022020051,Faceoff,111,FACEOFF,Nico Sturm faceoff won against Casey Cizikas,2022-10-18T23:46:23Z,1,05:05,14:55,0,0,28.0,San Jose Sharks,SJS
+34,2,28,New York Islanders,San Jose Sharks,202202005169,2022020051,Stoppage,69,STOP,Hand Pass,2022-10-18T23:46:30Z,1,05:11,14:49,0,0,,,
+35,2,28,New York Islanders,San Jose Sharks,2022020051112,2022020051,Faceoff,112,FACEOFF,Casey Cizikas faceoff won against Nico Sturm,2022-10-18T23:46:50Z,1,05:11,14:49,0,0,2.0,New York Islanders,NYI
+36,2,28,New York Islanders,San Jose Sharks,2022020051113,2022020051,Giveaway,113,GIVEAWAY,Giveaway by Alexander Romanov,2022-10-18T23:46:56Z,1,05:17,14:43,0,0,2.0,New York Islanders,NYI
+37,2,28,New York Islanders,San Jose Sharks,2022020051114,2022020051,Giveaway,114,GIVEAWAY,Giveaway by Alexander Romanov,2022-10-18T23:47:12Z,1,05:33,14:27,0,0,2.0,New York Islanders,NYI
+38,2,28,New York Islanders,San Jose Sharks,202202005170,2022020051,Blocked Shot,70,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Alexander Romanov,2022-10-18T23:47:18Z,1,05:39,14:21,0,0,2.0,New York Islanders,NYI
+39,2,28,New York Islanders,San Jose Sharks,202202005171,2022020051,Hit,71,HIT,Anders Lee hit Jaycob Megna,2022-10-18T23:47:35Z,1,05:56,14:04,0,0,2.0,New York Islanders,NYI
+40,2,28,New York Islanders,San Jose Sharks,202202005172,2022020051,Stoppage,72,STOP,Puck Frozen,2022-10-18T23:47:46Z,1,06:07,13:53,0,0,,,
+41,2,28,New York Islanders,San Jose Sharks,2022020051115,2022020051,Faceoff,115,FACEOFF,Brock Nelson faceoff won against Logan Couture,2022-10-18T23:50:01Z,1,06:07,13:53,0,0,2.0,New York Islanders,NYI
+42,2,28,New York Islanders,San Jose Sharks,2022020051213,2022020051,Shot,213,SHOT,Anthony Beauvillier Wrist Shot saved by James Reimer,2022-10-18T23:50:16Z,1,06:22,13:38,0,0,2.0,New York Islanders,NYI
+43,2,28,New York Islanders,San Jose Sharks,2022020051116,2022020051,Takeaway,116,TAKEAWAY,Takeaway by Logan Couture,2022-10-18T23:50:36Z,1,06:42,13:18,0,0,28.0,San Jose Sharks,SJS
+44,2,28,New York Islanders,San Jose Sharks,2022020051117,2022020051,Giveaway,117,GIVEAWAY,Giveaway by Luke Kunin,2022-10-18T23:50:46Z,1,06:52,13:08,0,0,28.0,San Jose Sharks,SJS
+45,2,28,New York Islanders,San Jose Sharks,202202005173,2022020051,Stoppage,73,STOP,Puck Frozen,2022-10-18T23:50:55Z,1,07:00,13:00,0,0,,,
+46,2,28,New York Islanders,San Jose Sharks,2022020051118,2022020051,Faceoff,118,FACEOFF,Tomas Hertl faceoff won against Mathew Barzal,2022-10-18T23:51:21Z,1,07:00,13:00,0,0,28.0,San Jose Sharks,SJS
+47,2,28,New York Islanders,San Jose Sharks,2022020051119,2022020051,Giveaway,119,GIVEAWAY,Giveaway by Jaycob Megna,2022-10-18T23:51:48Z,1,07:27,12:33,0,0,28.0,San Jose Sharks,SJS
+48,2,28,New York Islanders,San Jose Sharks,202202005174,2022020051,Stoppage,74,STOP,Goalie Stopped,2022-10-18T23:52:07Z,1,07:46,12:14,0,0,,,
+49,2,28,New York Islanders,San Jose Sharks,2022020051214,2022020051,Shot,214,SHOT,Zach Parise Wrist Shot saved by James Reimer,2022-10-18T23:52:07Z,1,07:46,12:14,0,0,2.0,New York Islanders,NYI
+50,2,28,New York Islanders,San Jose Sharks,2022020051120,2022020051,Faceoff,120,FACEOFF,Nick Bonino faceoff won against Jean-Gabriel Pageau,2022-10-18T23:52:35Z,1,07:46,12:14,0,0,28.0,San Jose Sharks,SJS
+51,2,28,New York Islanders,San Jose Sharks,2022020051217,2022020051,Blocked Shot,217,BLOCKED_SHOT,Matt Nieto shot blocked shot by Jean-Gabriel Pageau,2022-10-18T23:52:46Z,1,07:57,12:03,0,0,2.0,New York Islanders,NYI
+52,2,28,New York Islanders,San Jose Sharks,202202005175,2022020051,Stoppage,75,STOP,Puck in Crowd,2022-10-18T23:52:55Z,1,08:05,11:55,0,0,,,
+53,2,28,New York Islanders,San Jose Sharks,2022020051121,2022020051,Faceoff,121,FACEOFF,Oliver Wahlstrom faceoff won against Nick Bonino,2022-10-18T23:53:23Z,1,08:05,11:55,0,0,2.0,New York Islanders,NYI
+54,2,28,New York Islanders,San Jose Sharks,202202005176,2022020051,Hit,76,HIT,Matt Nieto hit Alexander Romanov,2022-10-18T23:53:50Z,1,08:13,11:47,0,0,28.0,San Jose Sharks,SJS
+55,2,28,New York Islanders,San Jose Sharks,202202005177,2022020051,Hit,77,HIT,Jean-Gabriel Pageau hit Mario Ferraro,2022-10-18T23:53:58Z,1,08:21,11:39,0,0,2.0,New York Islanders,NYI
+56,2,28,New York Islanders,San Jose Sharks,2022020051218,2022020051,Shot,218,SHOT,Oliver Wahlstrom Wrist Shot saved by James Reimer,2022-10-18T23:54:10Z,1,08:33,11:27,0,0,2.0,New York Islanders,NYI
+57,2,28,New York Islanders,San Jose Sharks,202202005178,2022020051,Hit,78,HIT,Matt Martin hit Mario Ferraro,2022-10-18T23:54:21Z,1,08:44,11:16,0,0,2.0,New York Islanders,NYI
+58,2,28,New York Islanders,San Jose Sharks,202202005179,2022020051,Stoppage,79,STOP,Icing,2022-10-18T23:54:25Z,1,08:48,11:12,0,0,,,
+59,2,28,New York Islanders,San Jose Sharks,2022020051122,2022020051,Faceoff,122,FACEOFF,Nico Sturm faceoff won against Mathew Barzal,2022-10-18T23:54:59Z,1,08:48,11:12,0,0,28.0,San Jose Sharks,SJS
+60,2,28,New York Islanders,San Jose Sharks,202202005180,2022020051,Stoppage,80,STOP,Puck Frozen,2022-10-18T23:55:02Z,1,08:51,11:09,0,0,,,
+61,2,28,New York Islanders,San Jose Sharks,2022020051123,2022020051,Faceoff,123,FACEOFF,Nico Sturm faceoff won against Kyle Palmieri,2022-10-18T23:55:43Z,1,08:51,11:09,0,0,28.0,San Jose Sharks,SJS
+62,2,28,New York Islanders,San Jose Sharks,2022020051219,2022020051,Shot,219,SHOT,Kyle Palmieri Wrap-around saved by James Reimer,2022-10-18T23:56:02Z,1,09:10,10:50,0,0,2.0,New York Islanders,NYI
+63,2,28,New York Islanders,San Jose Sharks,202202005181,2022020051,Stoppage,81,STOP,Puck Frozen,2022-10-18T23:56:04Z,1,09:12,10:48,0,0,,,
+64,2,28,New York Islanders,San Jose Sharks,2022020051124,2022020051,Faceoff,124,FACEOFF,Logan Couture faceoff won against Brock Nelson,2022-10-18T23:56:34Z,1,09:12,10:48,0,0,28.0,San Jose Sharks,SJS
+65,2,28,New York Islanders,San Jose Sharks,2022020051220,2022020051,Shot,220,SHOT,Logan Couture Wrist Shot saved by Semyon Varlamov,2022-10-18T23:56:54Z,1,09:32,10:28,0,0,28.0,San Jose Sharks,SJS
+66,2,28,New York Islanders,San Jose Sharks,202202005182,2022020051,Stoppage,82,STOP,Goalie Stopped,2022-10-18T23:57:02Z,1,09:40,10:20,0,0,,,
+67,2,28,New York Islanders,San Jose Sharks,2022020051125,2022020051,Giveaway,125,GIVEAWAY,Giveaway by Brock Nelson,2022-10-18T23:57:02Z,1,09:40,10:20,0,0,2.0,New York Islanders,NYI
+68,2,28,New York Islanders,San Jose Sharks,2022020051221,2022020051,Shot,221,SHOT,Luke Kunin Wrist Shot saved by Semyon Varlamov,2022-10-18T23:57:02Z,1,09:40,10:20,0,0,28.0,San Jose Sharks,SJS
+69,2,28,New York Islanders,San Jose Sharks,2022020051126,2022020051,Faceoff,126,FACEOFF,Casey Cizikas faceoff won against Tomas Hertl,2022-10-18T23:57:33Z,1,09:40,10:20,0,0,2.0,New York Islanders,NYI
+70,2,28,New York Islanders,San Jose Sharks,202202005183,2022020051,Hit,83,HIT,Matt Martin hit Erik Karlsson,2022-10-18T23:57:48Z,1,09:55,10:05,0,0,2.0,New York Islanders,NYI
+71,2,28,New York Islanders,San Jose Sharks,202202005184,2022020051,Hit,84,HIT,Cal Clutterbuck hit Jaycob Megna,2022-10-18T23:58:03Z,1,10:10,09:50,0,0,2.0,New York Islanders,NYI
+72,2,28,New York Islanders,San Jose Sharks,202202005185,2022020051,Stoppage,85,STOP,Icing,2022-10-18T23:58:06Z,1,10:13,09:47,0,0,,,
+73,2,28,New York Islanders,San Jose Sharks,2022020051127,2022020051,Faceoff,127,FACEOFF,Casey Cizikas faceoff won against Logan Couture,2022-10-18T23:58:40Z,1,10:13,09:47,0,0,2.0,New York Islanders,NYI
+74,2,28,New York Islanders,San Jose Sharks,2022020051222,2022020051,Missed Shot,222,MISSED_SHOT,Casey Cizikas Over Net James Reimer,2022-10-18T23:58:52Z,1,10:25,09:35,0,0,2.0,New York Islanders,NYI
+75,2,28,New York Islanders,San Jose Sharks,202202005186,2022020051,Hit,86,HIT,Timo Meier hit Cal Clutterbuck,2022-10-18T23:59:09Z,1,10:42,09:18,0,0,28.0,San Jose Sharks,SJS
+76,2,28,New York Islanders,San Jose Sharks,2022020051223,2022020051,Missed Shot,223,MISSED_SHOT,Oliver Wahlstrom Wide of Net James Reimer,2022-10-18T23:59:11Z,1,10:44,09:16,0,0,2.0,New York Islanders,NYI
+77,2,28,New York Islanders,San Jose Sharks,202202005187,2022020051,Stoppage,87,STOP,Icing,2022-10-18T23:59:27Z,1,11:00,09:00,0,0,,,
+78,2,28,New York Islanders,San Jose Sharks,2022020051128,2022020051,Faceoff,128,FACEOFF,Jean-Gabriel Pageau faceoff won against Logan Couture,2022-10-18T23:59:52Z,1,11:00,09:00,0,0,2.0,New York Islanders,NYI
+79,2,28,New York Islanders,San Jose Sharks,202202005188,2022020051,Blocked Shot,88,BLOCKED_SHOT,Noah Dobson shot blocked shot by Radim Simek,2022-10-19T00:00:05Z,1,11:13,08:47,0,0,28.0,San Jose Sharks,SJS
+80,2,28,New York Islanders,San Jose Sharks,2022020051225,2022020051,Blocked Shot,225,BLOCKED_SHOT,Oliver Wahlstrom shot blocked shot by Radim Simek,2022-10-19T00:00:06Z,1,11:14,08:46,0,0,28.0,San Jose Sharks,SJS
+81,2,28,New York Islanders,San Jose Sharks,2022020051129,2022020051,Giveaway,129,GIVEAWAY,Giveaway by Alexander Romanov,2022-10-19T00:00:15Z,1,11:23,08:37,0,0,2.0,New York Islanders,NYI
+82,2,28,New York Islanders,San Jose Sharks,2022020051226,2022020051,Shot,226,SHOT,Kevin Labanc Wrist Shot saved by Semyon Varlamov,2022-10-19T00:00:20Z,1,11:28,08:32,0,0,28.0,San Jose Sharks,SJS
+83,2,28,New York Islanders,San Jose Sharks,202202005189,2022020051,Hit,89,HIT,Mario Ferraro hit Oliver Wahlstrom,2022-10-19T00:00:27Z,1,11:35,08:25,0,0,28.0,San Jose Sharks,SJS
+84,2,28,New York Islanders,San Jose Sharks,2022020051303,2022020051,Missed Shot,303,MISSED_SHOT,Kevin Labanc Wide of Net Semyon Varlamov,2022-10-19T00:00:37Z,1,11:45,08:15,0,0,28.0,San Jose Sharks,SJS
+85,2,28,New York Islanders,San Jose Sharks,2022020051130,2022020051,Giveaway,130,GIVEAWAY,Giveaway by Scott Mayfield,2022-10-19T00:01:04Z,1,12:12,07:48,0,0,2.0,New York Islanders,NYI
+86,2,28,New York Islanders,San Jose Sharks,2022020051227,2022020051,Blocked Shot,227,BLOCKED_SHOT,Alexander Barabanov shot blocked shot by Scott Mayfield,2022-10-19T00:01:12Z,1,12:20,07:40,0,0,2.0,New York Islanders,NYI
+87,2,28,New York Islanders,San Jose Sharks,2022020051302,2022020051,Shot,302,SHOT,Evgeny Svechnikov Tip-In saved by Semyon Varlamov,2022-10-19T00:01:41Z,1,12:49,07:11,0,0,28.0,San Jose Sharks,SJS
+88,2,28,New York Islanders,San Jose Sharks,2022020051228,2022020051,Goal,228,GOAL,"Nico Sturm (2) Wrist Shot, assists: Evgeny Svechnikov (1), Jaycob Megna (2)",2022-10-19T00:01:41Z,1,12:50,07:10,0,1,28.0,San Jose Sharks,SJS
+89,2,28,New York Islanders,San Jose Sharks,202202005190,2022020051,Faceoff,90,FACEOFF,Casey Cizikas faceoff won against Logan Couture,2022-10-19T00:02:27Z,1,12:50,07:10,0,1,2.0,New York Islanders,NYI
+90,2,28,New York Islanders,San Jose Sharks,202202005191,2022020051,Stoppage,91,STOP,Goalie Stopped,2022-10-19T00:02:40Z,1,13:03,06:57,0,1,,,
+91,2,28,New York Islanders,San Jose Sharks,2022020051229,2022020051,Shot,229,SHOT,Ryan Pulock Snap Shot saved by James Reimer,2022-10-19T00:02:40Z,1,13:03,06:57,0,1,2.0,New York Islanders,NYI
+92,2,28,New York Islanders,San Jose Sharks,2022020051131,2022020051,Faceoff,131,FACEOFF,Logan Couture faceoff won against Brock Nelson,2022-10-19T00:04:55Z,1,13:03,06:57,0,1,28.0,San Jose Sharks,SJS
+93,2,28,New York Islanders,San Jose Sharks,2022020051230,2022020051,Shot,230,SHOT,Ryan Pulock Snap Shot saved by James Reimer,2022-10-19T00:04:58Z,1,13:06,06:54,0,1,2.0,New York Islanders,NYI
+94,2,28,New York Islanders,San Jose Sharks,202202005192,2022020051,Stoppage,92,STOP,Goalie Stopped,2022-10-19T00:05:00Z,1,13:08,06:52,0,1,,,
+95,2,28,New York Islanders,San Jose Sharks,2022020051132,2022020051,Faceoff,132,FACEOFF,Logan Couture faceoff won against Brock Nelson,2022-10-19T00:05:15Z,1,13:08,06:52,0,1,28.0,San Jose Sharks,SJS
+96,2,28,New York Islanders,San Jose Sharks,2022020051466,2022020051,Penalty,466,PENALTY,Adam Pelech Interference against Luke Kunin,2022-10-19T00:05:26Z,1,13:18,06:42,0,1,2.0,New York Islanders,NYI
+97,2,28,New York Islanders,San Jose Sharks,2022020051133,2022020051,Faceoff,133,FACEOFF,Tomas Hertl faceoff won against Casey Cizikas,2022-10-19T00:06:00Z,1,13:18,06:42,0,1,28.0,San Jose Sharks,SJS
+98,2,28,New York Islanders,San Jose Sharks,202202005194,2022020051,Stoppage,94,STOP,Goalie Stopped,2022-10-19T00:06:32Z,1,13:50,06:10,0,1,,,
+99,2,28,New York Islanders,San Jose Sharks,2022020051231,2022020051,Shot,231,SHOT,Timo Meier Wrist Shot saved by Semyon Varlamov,2022-10-19T00:06:32Z,1,13:50,06:10,0,1,28.0,San Jose Sharks,SJS
+100,2,28,New York Islanders,San Jose Sharks,2022020051134,2022020051,Faceoff,134,FACEOFF,Jean-Gabriel Pageau faceoff won against Logan Couture,2022-10-19T00:06:56Z,1,13:50,06:10,0,1,2.0,New York Islanders,NYI
+101,2,28,New York Islanders,San Jose Sharks,2022020051232,2022020051,Shot,232,SHOT,Tomas Hertl Wrist Shot saved by Semyon Varlamov,2022-10-19T00:07:20Z,1,14:14,05:46,0,1,28.0,San Jose Sharks,SJS
+102,2,28,New York Islanders,San Jose Sharks,2022020051135,2022020051,Takeaway,135,TAKEAWAY,Takeaway by Casey Cizikas,2022-10-19T00:07:48Z,1,14:42,05:18,0,1,2.0,New York Islanders,NYI
+103,2,28,New York Islanders,San Jose Sharks,202202005195,2022020051,Stoppage,95,STOP,Net Dislodged Defensive Skater,2022-10-19T00:08:58Z,1,15:52,04:08,0,1,,,
+104,2,28,New York Islanders,San Jose Sharks,2022020051233,2022020051,Missed Shot,233,MISSED_SHOT,Radim Simek Wide of Net Semyon Varlamov,2022-10-19T00:08:58Z,1,15:52,04:08,0,1,28.0,San Jose Sharks,SJS
+105,2,28,New York Islanders,San Jose Sharks,2022020051136,2022020051,Faceoff,136,FACEOFF,Evgeny Svechnikov faceoff won against Mathew Barzal,2022-10-19T00:11:42Z,1,15:52,04:08,0,1,28.0,San Jose Sharks,SJS
+106,2,28,New York Islanders,San Jose Sharks,2022020051137,2022020051,Giveaway,137,GIVEAWAY,Giveaway by Robin Salo,2022-10-19T00:11:50Z,1,16:00,04:00,0,1,2.0,New York Islanders,NYI
+107,2,28,New York Islanders,San Jose Sharks,202202005196,2022020051,Hit,96,HIT,Nico Sturm hit Robin Salo,2022-10-19T00:12:06Z,1,16:16,03:44,0,1,28.0,San Jose Sharks,SJS
+108,2,28,New York Islanders,San Jose Sharks,202202005197,2022020051,Penalty,97,PENALTY,Matt Benning Holding against Kyle Palmieri,2022-10-19T00:12:15Z,1,16:25,03:35,0,1,28.0,San Jose Sharks,SJS
+109,2,28,New York Islanders,San Jose Sharks,2022020051138,2022020051,Faceoff,138,FACEOFF,Brock Nelson faceoff won against Nick Bonino,2022-10-19T00:12:57Z,1,16:25,03:35,0,1,2.0,New York Islanders,NYI
+110,2,28,New York Islanders,San Jose Sharks,2022020051234,2022020051,Shot,234,SHOT,Noah Dobson Wrist Shot saved by James Reimer,2022-10-19T00:13:18Z,1,16:46,03:14,0,1,2.0,New York Islanders,NYI
+111,2,28,New York Islanders,San Jose Sharks,2022020051235,2022020051,Missed Shot,235,MISSED_SHOT,Noah Dobson Wide of Net James Reimer,2022-10-19T00:13:35Z,1,17:03,02:57,0,1,2.0,New York Islanders,NYI
+112,2,28,New York Islanders,San Jose Sharks,2022020051100,2022020051,Missed Shot,100,MISSED_SHOT,Anders Lee Wide of Net James Reimer,2022-10-19T00:13:37Z,1,17:05,02:55,0,1,2.0,New York Islanders,NYI
+113,2,28,New York Islanders,San Jose Sharks,2022020051351,2022020051,Blocked Shot,351,BLOCKED_SHOT,Noah Dobson shot blocked shot by Luke Kunin,2022-10-19T00:13:52Z,1,17:20,02:40,0,1,28.0,San Jose Sharks,SJS
+114,2,28,New York Islanders,San Jose Sharks,2022020051139,2022020051,Giveaway,139,GIVEAWAY,Giveaway by Anthony Beauvillier,2022-10-19T00:14:29Z,1,17:57,02:03,0,1,2.0,New York Islanders,NYI
+115,2,28,New York Islanders,San Jose Sharks,2022020051352,2022020051,Stoppage,352,STOP,Goalie Stopped,2022-10-19T00:15:06Z,1,18:34,01:26,0,1,,,
+116,2,28,New York Islanders,San Jose Sharks,2022020051140,2022020051,Faceoff,140,FACEOFF,Casey Cizikas faceoff won against Tomas Hertl,2022-10-19T00:15:47Z,1,18:34,01:26,0,1,2.0,New York Islanders,NYI
+117,2,28,New York Islanders,San Jose Sharks,2022020051236,2022020051,Missed Shot,236,MISSED_SHOT,Adam Pelech Wide of Net James Reimer,2022-10-19T00:15:53Z,1,18:40,01:20,0,1,2.0,New York Islanders,NYI
+118,2,28,New York Islanders,San Jose Sharks,2022020051353,2022020051,Hit,353,HIT,Casey Cizikas hit Alexander Barabanov,2022-10-19T00:15:58Z,1,18:45,01:15,0,1,2.0,New York Islanders,NYI
+119,2,28,New York Islanders,San Jose Sharks,2022020051141,2022020051,Giveaway,141,GIVEAWAY,Giveaway by Timo Meier,2022-10-19T00:16:13Z,1,19:00,01:00,0,1,28.0,San Jose Sharks,SJS
+120,2,28,New York Islanders,San Jose Sharks,2022020051237,2022020051,Blocked Shot,237,BLOCKED_SHOT,Marc-Edouard Vlasic shot blocked shot by Casey Cizikas,2022-10-19T00:16:17Z,1,19:04,00:56,0,1,2.0,New York Islanders,NYI
+121,2,28,New York Islanders,San Jose Sharks,2022020051142,2022020051,Giveaway,142,GIVEAWAY,Giveaway by Semyon Varlamov,2022-10-19T00:16:50Z,1,19:37,00:23,0,1,2.0,New York Islanders,NYI
+122,2,28,New York Islanders,San Jose Sharks,2022020051354,2022020051,Hit,354,HIT,Anders Lee hit Erik Karlsson,2022-10-19T00:17:08Z,1,19:55,00:05,0,1,2.0,New York Islanders,NYI
+123,2,28,New York Islanders,San Jose Sharks,2022020051355,2022020051,Stoppage,355,STOP,Icing,2022-10-19T00:17:12Z,1,19:57,00:03,0,1,,,
+124,2,28,New York Islanders,San Jose Sharks,2022020051143,2022020051,Faceoff,143,FACEOFF,Jean-Gabriel Pageau faceoff won against Logan Couture,2022-10-19T00:17:42Z,1,19:57,00:03,0,1,2.0,New York Islanders,NYI
+125,2,28,New York Islanders,San Jose Sharks,2022020051238,2022020051,Shot,238,SHOT,Noah Dobson Snap Shot saved by James Reimer,2022-10-19T00:17:44Z,1,19:59,00:01,0,1,2.0,New York Islanders,NYI
+126,2,28,New York Islanders,San Jose Sharks,2022020051356,2022020051,Period End,356,PERIOD_END,End of 1st Period,2022-10-19T00:17:45Z,1,20:00,00:00,0,1,,,
+127,2,28,New York Islanders,San Jose Sharks,2022020051359,2022020051,Period Official,359,PERIOD_OFFICIAL,Period Official,2022-10-19T00:18:08Z,1,20:00,00:00,0,1,,,
+128,2,28,New York Islanders,San Jose Sharks,2022020051360,2022020051,Period Ready,360,PERIOD_READY,Period Ready,2022-10-19T00:34:26Z,2,00:00,20:00,0,1,,,
+129,2,28,New York Islanders,San Jose Sharks,2022020051144,2022020051,Period Start,144,PERIOD_START,Period Start,2022-10-19T00:36:33Z,2,00:00,20:00,0,1,,,
+130,2,28,New York Islanders,San Jose Sharks,2022020051145,2022020051,Faceoff,145,FACEOFF,Casey Cizikas faceoff won against Logan Couture,2022-10-19T00:36:33Z,2,00:00,20:00,0,1,2.0,New York Islanders,NYI
+131,2,28,New York Islanders,San Jose Sharks,2022020051239,2022020051,Shot,239,SHOT,Luke Kunin Wrist Shot saved by Semyon Varlamov,2022-10-19T00:36:54Z,2,00:21,19:39,0,1,28.0,San Jose Sharks,SJS
+132,2,28,New York Islanders,San Jose Sharks,2022020051361,2022020051,Blocked Shot,361,BLOCKED_SHOT,Logan Couture shot blocked shot by Casey Cizikas,2022-10-19T00:36:59Z,2,00:26,19:34,0,1,2.0,New York Islanders,NYI
+133,2,28,New York Islanders,San Jose Sharks,2022020051240,2022020051,Blocked Shot,240,BLOCKED_SHOT,Matt Benning shot blocked shot by Zach Parise,2022-10-19T00:37:38Z,2,01:05,18:55,0,1,2.0,New York Islanders,NYI
+134,2,28,New York Islanders,San Jose Sharks,2022020051362,2022020051,Stoppage,362,STOP,Icing,2022-10-19T00:37:55Z,2,01:22,18:38,0,1,,,
+135,2,28,New York Islanders,San Jose Sharks,2022020051146,2022020051,Faceoff,146,FACEOFF,Jean-Gabriel Pageau faceoff won against Nick Bonino,2022-10-19T00:38:22Z,2,01:22,18:38,0,1,2.0,New York Islanders,NYI
+136,2,28,New York Islanders,San Jose Sharks,2022020051363,2022020051,Hit,363,HIT,Jean-Gabriel Pageau hit Nick Bonino,2022-10-19T00:39:01Z,2,02:01,17:59,0,1,2.0,New York Islanders,NYI
+137,2,28,New York Islanders,San Jose Sharks,2022020051241,2022020051,Shot,241,SHOT,Anthony Beauvillier Wrist Shot saved by James Reimer,2022-10-19T00:39:20Z,2,02:20,17:40,0,1,2.0,New York Islanders,NYI
+138,2,28,New York Islanders,San Jose Sharks,2022020051364,2022020051,Missed Shot,364,MISSED_SHOT,Scott Mayfield Over Net James Reimer,2022-10-19T00:39:28Z,2,02:28,17:32,0,1,2.0,New York Islanders,NYI
+139,2,28,New York Islanders,San Jose Sharks,2022020051242,2022020051,Blocked Shot,242,BLOCKED_SHOT,Nico Sturm shot blocked shot by Robin Salo,2022-10-19T00:39:50Z,2,02:50,17:10,0,1,2.0,New York Islanders,NYI
+140,2,28,New York Islanders,San Jose Sharks,2022020051147,2022020051,Giveaway,147,GIVEAWAY,Giveaway by Anders Lee,2022-10-19T00:39:51Z,2,02:52,17:08,0,1,2.0,New York Islanders,NYI
+141,2,28,New York Islanders,San Jose Sharks,2022020051365,2022020051,Stoppage,365,STOP,Puck Frozen,2022-10-19T00:39:51Z,2,02:52,17:08,0,1,,,
+142,2,28,New York Islanders,San Jose Sharks,2022020051148,2022020051,Faceoff,148,FACEOFF,Logan Couture faceoff won against Casey Cizikas,2022-10-19T00:40:21Z,2,02:52,17:08,0,1,28.0,San Jose Sharks,SJS
+143,2,28,New York Islanders,San Jose Sharks,2022020051304,2022020051,Blocked Shot,304,BLOCKED_SHOT,Adam Pelech shot blocked shot by Timo Meier,2022-10-19T00:40:53Z,2,03:24,16:36,0,1,28.0,San Jose Sharks,SJS
+144,2,28,New York Islanders,San Jose Sharks,2022020051366,2022020051,Missed Shot,366,MISSED_SHOT,Ryan Pulock Wide of Net James Reimer,2022-10-19T00:40:55Z,2,03:26,16:34,0,1,2.0,New York Islanders,NYI
+145,2,28,New York Islanders,San Jose Sharks,2022020051367,2022020051,Stoppage,367,STOP,Offside,2022-10-19T00:41:01Z,2,03:32,16:28,0,1,,,
+146,2,28,New York Islanders,San Jose Sharks,2022020051149,2022020051,Faceoff,149,FACEOFF,Tomas Hertl faceoff won against Mathew Barzal,2022-10-19T00:41:28Z,2,03:32,16:28,0,1,28.0,San Jose Sharks,SJS
+147,2,28,New York Islanders,San Jose Sharks,2022020051244,2022020051,Shot,244,SHOT,Mathew Barzal Backhand saved by James Reimer,2022-10-19T00:41:48Z,2,03:52,16:08,0,1,2.0,New York Islanders,NYI
+148,2,28,New York Islanders,San Jose Sharks,2022020051368,2022020051,Stoppage,368,STOP,Puck Frozen,2022-10-19T00:41:49Z,2,03:54,16:06,0,1,,,
+149,2,28,New York Islanders,San Jose Sharks,2022020051150,2022020051,Faceoff,150,FACEOFF,Zach Parise faceoff won against Tomas Hertl,2022-10-19T00:42:17Z,2,03:54,16:06,0,1,2.0,New York Islanders,NYI
+150,2,28,New York Islanders,San Jose Sharks,2022020051305,2022020051,Blocked Shot,305,BLOCKED_SHOT,Alexander Romanov shot blocked shot by Alexander Barabanov,2022-10-19T00:42:20Z,2,03:57,16:03,0,1,28.0,San Jose Sharks,SJS
+151,2,28,New York Islanders,San Jose Sharks,2022020051369,2022020051,Stoppage,369,STOP,Icing,2022-10-19T00:42:34Z,2,04:10,15:50,0,1,,,
+152,2,28,New York Islanders,San Jose Sharks,2022020051401,2022020051,Faceoff,401,FACEOFF,Mathew Barzal faceoff won against Logan Couture,2022-10-19T00:43:06Z,2,04:10,15:50,0,1,2.0,New York Islanders,NYI
+153,2,28,New York Islanders,San Jose Sharks,2022020051402,2022020051,Giveaway,402,GIVEAWAY,Giveaway by Erik Karlsson,2022-10-19T00:43:24Z,2,04:28,15:32,0,1,28.0,San Jose Sharks,SJS
+154,2,28,New York Islanders,San Jose Sharks,2022020051370,2022020051,Takeaway,370,TAKEAWAY,Takeaway by Timo Meier,2022-10-19T00:43:29Z,2,04:33,15:27,0,1,28.0,San Jose Sharks,SJS
+155,2,28,New York Islanders,San Jose Sharks,2022020051246,2022020051,Missed Shot,246,MISSED_SHOT,Timo Meier Wide of Net Semyon Varlamov,2022-10-19T00:43:34Z,2,04:38,15:22,0,1,28.0,San Jose Sharks,SJS
+156,2,28,New York Islanders,San Jose Sharks,2022020051403,2022020051,Takeaway,403,TAKEAWAY,Takeaway by Kyle Palmieri,2022-10-19T00:43:43Z,2,04:47,15:13,0,1,2.0,New York Islanders,NYI
+157,2,28,New York Islanders,San Jose Sharks,2022020051247,2022020051,Shot,247,SHOT,Kyle Palmieri Wrist Shot saved by James Reimer,2022-10-19T00:43:49Z,2,04:53,15:07,0,1,2.0,New York Islanders,NYI
+158,2,28,New York Islanders,San Jose Sharks,2022020051248,2022020051,Missed Shot,248,MISSED_SHOT,Ryan Pulock Wide of Net James Reimer,2022-10-19T00:44:11Z,2,05:15,14:45,0,1,2.0,New York Islanders,NYI
+159,2,28,New York Islanders,San Jose Sharks,2022020051371,2022020051,Shot,371,SHOT,Oliver Wahlstrom Wrist Shot saved by James Reimer,2022-10-19T00:44:18Z,2,05:22,14:38,0,1,2.0,New York Islanders,NYI
+160,2,28,New York Islanders,San Jose Sharks,2022020051372,2022020051,Hit,372,HIT,Ryan Pulock hit Matt Nieto,2022-10-19T00:44:26Z,2,05:30,14:30,0,1,2.0,New York Islanders,NYI
+161,2,28,New York Islanders,San Jose Sharks,2022020051373,2022020051,Hit,373,HIT,Evgeny Svechnikov hit Adam Pelech,2022-10-19T00:44:31Z,2,05:35,14:25,0,1,28.0,San Jose Sharks,SJS
+162,2,28,New York Islanders,San Jose Sharks,2022020051404,2022020051,Takeaway,404,TAKEAWAY,Takeaway by Jaycob Megna,2022-10-19T00:44:41Z,2,05:45,14:15,0,1,28.0,San Jose Sharks,SJS
+163,2,28,New York Islanders,San Jose Sharks,2022020051249,2022020051,Shot,249,SHOT,Matt Nieto Wrist Shot saved by Semyon Varlamov,2022-10-19T00:44:44Z,2,05:48,14:12,0,1,28.0,San Jose Sharks,SJS
+164,2,28,New York Islanders,San Jose Sharks,2022020051250,2022020051,Blocked Shot,250,BLOCKED_SHOT,Robin Salo shot blocked shot by Radim Simek,2022-10-19T00:45:19Z,2,06:23,13:37,0,1,28.0,San Jose Sharks,SJS
+165,2,28,New York Islanders,San Jose Sharks,2022020051306,2022020051,Shot,306,SHOT,Scott Mayfield Wrist Shot saved by James Reimer,2022-10-19T00:45:19Z,2,06:23,13:37,0,1,2.0,New York Islanders,NYI
+166,2,28,New York Islanders,San Jose Sharks,2022020051308,2022020051,Stoppage,308,STOP,TV timeout,2022-10-19T00:45:33Z,2,06:36,13:24,0,1,,,
+167,2,28,New York Islanders,San Jose Sharks,2022020051623,2022020051,Penalty,623,PENALTY,Nico Sturm Holding the stick against Anders Lee,2022-10-19T00:45:33Z,2,06:36,13:24,0,1,28.0,San Jose Sharks,SJS
+168,2,28,New York Islanders,San Jose Sharks,2022020051405,2022020051,Faceoff,405,FACEOFF,Brock Nelson faceoff won against Nick Bonino,2022-10-19T00:47:57Z,2,06:36,13:24,0,1,2.0,New York Islanders,NYI
+169,2,28,New York Islanders,San Jose Sharks,2022020051406,2022020051,Giveaway,406,GIVEAWAY,Giveaway by Marc-Edouard Vlasic,2022-10-19T00:48:06Z,2,06:45,13:15,0,1,28.0,San Jose Sharks,SJS
+170,2,28,New York Islanders,San Jose Sharks,2022020051375,2022020051,Stoppage,375,STOP,Goalie Stopped,2022-10-19T00:48:06Z,2,06:46,13:14,0,1,,,
+171,2,28,New York Islanders,San Jose Sharks,2022020051501,2022020051,Shot,501,SHOT,Brock Nelson Wrist Shot saved by James Reimer,2022-10-19T00:48:06Z,2,06:46,13:14,0,1,2.0,New York Islanders,NYI
+172,2,28,New York Islanders,San Jose Sharks,2022020051407,2022020051,Faceoff,407,FACEOFF,Mathew Barzal faceoff won against Nick Bonino,2022-10-19T00:48:27Z,2,06:46,13:14,0,1,2.0,New York Islanders,NYI
+173,2,28,New York Islanders,San Jose Sharks,2022020051376,2022020051,Stoppage,376,STOP,Goalie Stopped,2022-10-19T00:48:43Z,2,07:01,12:59,0,1,,,
+174,2,28,New York Islanders,San Jose Sharks,2022020051502,2022020051,Shot,502,SHOT,Brock Nelson Wrist Shot saved by James Reimer,2022-10-19T00:48:43Z,2,07:01,12:59,0,1,2.0,New York Islanders,NYI
+175,2,28,New York Islanders,San Jose Sharks,2022020051408,2022020051,Faceoff,408,FACEOFF,Brock Nelson faceoff won against Logan Couture,2022-10-19T00:49:12Z,2,07:01,12:59,0,1,2.0,New York Islanders,NYI
+176,2,28,New York Islanders,San Jose Sharks,2022020051503,2022020051,Missed Shot,503,MISSED_SHOT,Kyle Palmieri Wide of Net James Reimer,2022-10-19T00:49:19Z,2,07:08,12:52,0,1,2.0,New York Islanders,NYI
+177,2,28,New York Islanders,San Jose Sharks,2022020051377,2022020051,Blocked Shot,377,BLOCKED_SHOT,Brock Nelson shot blocked shot by Logan Couture,2022-10-19T00:49:33Z,2,07:23,12:37,0,1,28.0,San Jose Sharks,SJS
+178,2,28,New York Islanders,San Jose Sharks,2022020051378,2022020051,Stoppage,378,STOP,Puck in Netting,2022-10-19T00:49:33Z,2,07:23,12:37,0,1,,,
+179,2,28,New York Islanders,San Jose Sharks,2022020051409,2022020051,Faceoff,409,FACEOFF,Brock Nelson faceoff won against Nick Bonino,2022-10-19T00:50:00Z,2,07:23,12:37,0,1,2.0,New York Islanders,NYI
+180,2,28,New York Islanders,San Jose Sharks,2022020051307,2022020051,Shot,307,SHOT,Anders Lee Deflected saved by James Reimer,2022-10-19T00:50:19Z,2,07:42,12:18,0,1,2.0,New York Islanders,NYI
+181,2,28,New York Islanders,San Jose Sharks,2022020051379,2022020051,Missed Shot,379,MISSED_SHOT,Noah Dobson Wide of Net James Reimer,2022-10-19T00:50:26Z,2,07:49,12:11,0,1,2.0,New York Islanders,NYI
+182,2,28,New York Islanders,San Jose Sharks,2022020051505,2022020051,Shot,505,SHOT,Anders Lee Wrist Shot saved by James Reimer,2022-10-19T00:50:34Z,2,07:57,12:03,0,1,2.0,New York Islanders,NYI
+183,2,28,New York Islanders,San Jose Sharks,2022020051380,2022020051,Stoppage,380,STOP,Goalie Stopped,2022-10-19T00:50:37Z,2,08:00,12:00,0,1,,,
+184,2,28,New York Islanders,San Jose Sharks,2022020051410,2022020051,Faceoff,410,FACEOFF,Jean-Gabriel Pageau faceoff won against Tomas Hertl,2022-10-19T00:51:09Z,2,08:00,12:00,0,1,2.0,New York Islanders,NYI
+185,2,28,New York Islanders,San Jose Sharks,2022020051506,2022020051,Missed Shot,506,MISSED_SHOT,Josh Bailey Wide of Net James Reimer,2022-10-19T00:51:44Z,2,08:35,11:25,0,1,2.0,New York Islanders,NYI
+186,2,28,New York Islanders,San Jose Sharks,2022020051381,2022020051,Hit,381,HIT,Zach Parise hit Marc-Edouard Vlasic,2022-10-19T00:51:53Z,2,08:44,11:16,0,1,2.0,New York Islanders,NYI
+187,2,28,New York Islanders,San Jose Sharks,2022020051507,2022020051,Blocked Shot,507,BLOCKED_SHOT,Adam Pelech shot blocked shot by Nico Sturm,2022-10-19T00:52:03Z,2,08:54,11:06,0,1,28.0,San Jose Sharks,SJS
+188,2,28,New York Islanders,San Jose Sharks,2022020051382,2022020051,Shot,382,SHOT,Casey Cizikas Wrist Shot saved by James Reimer,2022-10-19T00:52:22Z,2,09:13,10:47,0,1,2.0,New York Islanders,NYI
+189,2,28,New York Islanders,San Jose Sharks,2022020051508,2022020051,Shot,508,SHOT,Cal Clutterbuck Wrist Shot saved by James Reimer,2022-10-19T00:52:43Z,2,09:34,10:26,0,1,2.0,New York Islanders,NYI
+190,2,28,New York Islanders,San Jose Sharks,2022020051383,2022020051,Stoppage,383,STOP,Goalie Stopped,2022-10-19T00:52:50Z,2,09:40,10:20,0,1,,,
+191,2,28,New York Islanders,San Jose Sharks,2022020051509,2022020051,Shot,509,SHOT,Timo Meier Wrist Shot saved by Semyon Varlamov,2022-10-19T00:52:50Z,2,09:40,10:20,0,1,28.0,San Jose Sharks,SJS
+192,2,28,New York Islanders,San Jose Sharks,2022020051411,2022020051,Faceoff,411,FACEOFF,Brock Nelson faceoff won against Logan Couture,2022-10-19T00:53:27Z,2,09:40,10:20,0,1,2.0,New York Islanders,NYI
+193,2,28,New York Islanders,San Jose Sharks,2022020051384,2022020051,Blocked Shot,384,BLOCKED_SHOT,Oliver Wahlstrom shot blocked shot by Marc-Edouard Vlasic,2022-10-19T00:53:44Z,2,09:57,10:03,0,1,28.0,San Jose Sharks,SJS
+194,2,28,New York Islanders,San Jose Sharks,2022020051385,2022020051,Stoppage,385,STOP,Puck in Netting,2022-10-19T00:53:44Z,2,09:57,10:03,0,1,,,
+195,2,28,New York Islanders,San Jose Sharks,2022020051510,2022020051,Blocked Shot,510,BLOCKED_SHOT,Brock Nelson shot blocked shot by Matt Nieto,2022-10-19T00:53:44Z,2,09:57,10:03,0,1,28.0,San Jose Sharks,SJS
+196,2,28,New York Islanders,San Jose Sharks,2022020051412,2022020051,Faceoff,412,FACEOFF,Logan Couture faceoff won against Brock Nelson,2022-10-19T00:54:06Z,2,09:57,10:03,0,1,28.0,San Jose Sharks,SJS
+197,2,28,New York Islanders,San Jose Sharks,2022020051512,2022020051,Goal,512,GOAL,"Anders Lee (1) Tip-In, assists: Adam Pelech (1), Brock Nelson (3)",2022-10-19T00:54:12Z,2,10:03,09:57,1,1,2.0,New York Islanders,NYI
+198,2,28,New York Islanders,San Jose Sharks,2022020051386,2022020051,Faceoff,386,FACEOFF,Nico Sturm faceoff won against Kyle Palmieri,2022-10-19T00:54:58Z,2,10:03,09:57,1,1,28.0,San Jose Sharks,SJS
+199,2,28,New York Islanders,San Jose Sharks,2022020051387,2022020051,Hit,387,HIT,Kyle Palmieri hit Jonah Gadjovich,2022-10-19T00:55:11Z,2,10:16,09:44,1,1,2.0,New York Islanders,NYI
+200,2,28,New York Islanders,San Jose Sharks,2022020051388,2022020051,Hit,388,HIT,Jonah Gadjovich hit Robin Salo,2022-10-19T00:55:18Z,2,10:23,09:37,1,1,28.0,San Jose Sharks,SJS
+201,2,28,New York Islanders,San Jose Sharks,2022020051413,2022020051,Giveaway,413,GIVEAWAY,Giveaway by Radim Simek,2022-10-19T00:55:31Z,2,10:36,09:24,1,1,28.0,San Jose Sharks,SJS
+202,2,28,New York Islanders,San Jose Sharks,2022020051513,2022020051,Shot,513,SHOT,Scott Mayfield Snap Shot saved by James Reimer,2022-10-19T00:55:33Z,2,10:38,09:22,1,1,2.0,New York Islanders,NYI
+203,2,28,New York Islanders,San Jose Sharks,2022020051515,2022020051,Shot,515,SHOT,Alexander Barabanov Wrist Shot saved by Semyon Varlamov,2022-10-19T00:55:59Z,2,11:04,08:56,1,1,28.0,San Jose Sharks,SJS
+204,2,28,New York Islanders,San Jose Sharks,2022020051389,2022020051,Hit,389,HIT,Scott Mayfield hit Steven Lorentz,2022-10-19T00:56:05Z,2,11:10,08:50,1,1,2.0,New York Islanders,NYI
+205,2,28,New York Islanders,San Jose Sharks,2022020051390,2022020051,Hit,390,HIT,Marc-Edouard Vlasic hit Jean-Gabriel Pageau,2022-10-19T00:56:33Z,2,11:38,08:22,1,1,28.0,San Jose Sharks,SJS
+206,2,28,New York Islanders,San Jose Sharks,2022020051516,2022020051,Blocked Shot,516,BLOCKED_SHOT,Alexander Romanov shot blocked shot by Matt Benning,2022-10-19T00:56:41Z,2,11:46,08:14,1,1,28.0,San Jose Sharks,SJS
+207,2,28,New York Islanders,San Jose Sharks,2022020051517,2022020051,Shot,517,SHOT,Casey Cizikas Wrap-around saved by James Reimer,2022-10-19T00:56:57Z,2,12:02,07:58,1,1,2.0,New York Islanders,NYI
+208,2,28,New York Islanders,San Jose Sharks,2022020051391,2022020051,Hit,391,HIT,Cal Clutterbuck hit Kevin Labanc,2022-10-19T00:57:06Z,2,12:11,07:49,1,1,2.0,New York Islanders,NYI
+209,2,28,New York Islanders,San Jose Sharks,2022020051414,2022020051,Giveaway,414,GIVEAWAY,Giveaway by Matt Nieto,2022-10-19T00:57:19Z,2,12:24,07:36,1,1,28.0,San Jose Sharks,SJS
+210,2,28,New York Islanders,San Jose Sharks,2022020051518,2022020051,Missed Shot,518,MISSED_SHOT,Mario Ferraro Wide of Net Semyon Varlamov,2022-10-19T00:58:04Z,2,13:09,06:51,1,1,28.0,San Jose Sharks,SJS
+211,2,28,New York Islanders,San Jose Sharks,2022020051520,2022020051,Shot,520,SHOT,Anders Lee Wrist Shot saved by James Reimer,2022-10-19T00:58:12Z,2,13:17,06:43,1,1,2.0,New York Islanders,NYI
+212,2,28,New York Islanders,San Jose Sharks,2022020051519,2022020051,Missed Shot,519,MISSED_SHOT,Brock Nelson Wide of Net James Reimer,2022-10-19T00:58:15Z,2,13:20,06:40,1,1,2.0,New York Islanders,NYI
+213,2,28,New York Islanders,San Jose Sharks,2022020051392,2022020051,Stoppage,392,STOP,Goalie Stopped,2022-10-19T00:58:16Z,2,13:21,06:39,1,1,,,
+214,2,28,New York Islanders,San Jose Sharks,2022020051415,2022020051,Faceoff,415,FACEOFF,Nico Sturm faceoff won against Mathew Barzal,2022-10-19T01:00:36Z,2,13:21,06:39,1,1,28.0,San Jose Sharks,SJS
+215,2,28,New York Islanders,San Jose Sharks,2022020051521,2022020051,Blocked Shot,521,BLOCKED_SHOT,Matt Nieto shot blocked shot by Robin Salo,2022-10-19T01:01:37Z,2,14:22,05:38,1,1,2.0,New York Islanders,NYI
+216,2,28,New York Islanders,San Jose Sharks,2022020051393,2022020051,Missed Shot,393,MISSED_SHOT,Matt Nieto Wide of Net Semyon Varlamov,2022-10-19T01:01:42Z,2,14:27,05:33,1,1,28.0,San Jose Sharks,SJS
+217,2,28,New York Islanders,San Jose Sharks,2022020051522,2022020051,Shot,522,SHOT,Josh Bailey Wrist Shot saved by James Reimer,2022-10-19T01:02:02Z,2,14:47,05:13,1,1,2.0,New York Islanders,NYI
+218,2,28,New York Islanders,San Jose Sharks,2022020051524,2022020051,Goal,524,GOAL,"Zach Parise (1) Deflected, assists: Noah Dobson (1), Jean-Gabriel Pageau (2)",2022-10-19T01:02:03Z,2,14:48,05:12,2,1,2.0,New York Islanders,NYI
+219,2,28,New York Islanders,San Jose Sharks,2022020051394,2022020051,Faceoff,394,FACEOFF,Casey Cizikas faceoff won against Tomas Hertl,2022-10-19T01:02:45Z,2,14:48,05:12,2,1,2.0,New York Islanders,NYI
+220,2,28,New York Islanders,San Jose Sharks,2022020051395,2022020051,Shot,395,SHOT,Alexander Romanov Wrist Shot saved by James Reimer,2022-10-19T01:02:58Z,2,15:01,04:59,2,1,2.0,New York Islanders,NYI
+221,2,28,New York Islanders,San Jose Sharks,2022020051396,2022020051,Stoppage,396,STOP,Goalie Stopped,2022-10-19T01:02:58Z,2,15:01,04:59,2,1,,,
+222,2,28,New York Islanders,San Jose Sharks,2022020051416,2022020051,Faceoff,416,FACEOFF,Logan Couture faceoff won against Casey Cizikas,2022-10-19T01:05:08Z,2,15:01,04:59,2,1,28.0,San Jose Sharks,SJS
+223,2,28,New York Islanders,San Jose Sharks,2022020051397,2022020051,Hit,397,HIT,Adam Pelech hit Timo Meier,2022-10-19T01:05:19Z,2,15:12,04:48,2,1,2.0,New York Islanders,NYI
+224,2,28,New York Islanders,San Jose Sharks,2022020051399,2022020051,Hit,399,HIT,Luke Kunin hit Matt Martin,2022-10-19T01:05:28Z,2,15:21,04:39,2,1,28.0,San Jose Sharks,SJS
+225,2,28,New York Islanders,San Jose Sharks,2022020051400,2022020051,Stoppage,400,STOP,Goalie Stopped,2022-10-19T01:05:40Z,2,15:34,04:26,2,1,,,
+226,2,28,New York Islanders,San Jose Sharks,2022020051525,2022020051,Shot,525,SHOT,Adam Pelech Snap Shot saved by James Reimer,2022-10-19T01:05:40Z,2,15:34,04:26,2,1,2.0,New York Islanders,NYI
+227,2,28,New York Islanders,San Jose Sharks,2022020051417,2022020051,Faceoff,417,FACEOFF,Tomas Hertl faceoff won against Brock Nelson,2022-10-19T01:06:08Z,2,15:34,04:26,2,1,28.0,San Jose Sharks,SJS
+228,2,28,New York Islanders,San Jose Sharks,2022020051526,2022020051,Shot,526,SHOT,Steven Lorentz Wrist Shot saved by Semyon Varlamov,2022-10-19T01:06:21Z,2,15:47,04:13,2,1,28.0,San Jose Sharks,SJS
+229,2,28,New York Islanders,San Jose Sharks,2022020051701,2022020051,Hit,701,HIT,Tomas Hertl hit Brock Nelson,2022-10-19T01:06:21Z,2,15:47,04:13,2,1,28.0,San Jose Sharks,SJS
+230,2,28,New York Islanders,San Jose Sharks,2022020051702,2022020051,Hit,702,HIT,Radim Simek hit Alexander Romanov,2022-10-19T01:06:35Z,2,16:01,03:59,2,1,28.0,San Jose Sharks,SJS
+231,2,28,New York Islanders,San Jose Sharks,2022020051418,2022020051,Giveaway,418,GIVEAWAY,Giveaway by Anders Lee,2022-10-19T01:06:47Z,2,16:13,03:47,2,1,2.0,New York Islanders,NYI
+232,2,28,New York Islanders,San Jose Sharks,2022020051419,2022020051,Giveaway,419,GIVEAWAY,Giveaway by Alexander Romanov,2022-10-19T01:07:02Z,2,16:28,03:32,2,1,2.0,New York Islanders,NYI
+233,2,28,New York Islanders,San Jose Sharks,2022020051420,2022020051,Giveaway,420,GIVEAWAY,Giveaway by Alexander Romanov,2022-10-19T01:07:29Z,2,16:55,03:05,2,1,2.0,New York Islanders,NYI
+234,2,28,New York Islanders,San Jose Sharks,2022020051421,2022020051,Giveaway,421,GIVEAWAY,Giveaway by Jonah Gadjovich,2022-10-19T01:07:39Z,2,17:05,02:55,2,1,28.0,San Jose Sharks,SJS
+235,2,28,New York Islanders,San Jose Sharks,2022020051703,2022020051,Giveaway,703,GIVEAWAY,Giveaway by Kyle Palmieri,2022-10-19T01:07:42Z,2,17:08,02:52,2,1,2.0,New York Islanders,NYI
+236,2,28,New York Islanders,San Jose Sharks,2022020051527,2022020051,Shot,527,SHOT,Evgeny Svechnikov Tip-In saved by Semyon Varlamov,2022-10-19T01:07:43Z,2,17:09,02:51,2,1,28.0,San Jose Sharks,SJS
+237,2,28,New York Islanders,San Jose Sharks,2022020051528,2022020051,Goal,528,GOAL,"Evgeny Svechnikov (2) Deflected, assists: Matt Benning (1)",2022-10-19T01:07:44Z,2,17:10,02:50,2,2,28.0,San Jose Sharks,SJS
+238,2,28,New York Islanders,San Jose Sharks,2022020051705,2022020051,Stoppage,705,STOP,Video Review,2022-10-19T01:07:44Z,2,17:10,02:50,2,2,,,
+239,2,28,New York Islanders,San Jose Sharks,2022020051704,2022020051,Faceoff,704,FACEOFF,Logan Couture faceoff won against Zach Parise,2022-10-19T01:10:07Z,2,17:10,02:50,2,2,28.0,San Jose Sharks,SJS
+240,2,28,New York Islanders,San Jose Sharks,2022020051529,2022020051,Missed Shot,529,MISSED_SHOT,Mario Ferraro Wide of Net Semyon Varlamov,2022-10-19T01:11:06Z,2,18:09,01:51,2,2,28.0,San Jose Sharks,SJS
+241,2,28,New York Islanders,San Jose Sharks,2022020051530,2022020051,Shot,530,SHOT,Oliver Wahlstrom Wrist Shot saved by James Reimer,2022-10-19T01:11:59Z,2,19:01,00:59,2,2,2.0,New York Islanders,NYI
+242,2,28,New York Islanders,San Jose Sharks,2022020051706,2022020051,Stoppage,706,STOP,Goalie Stopped,2022-10-19T01:11:59Z,2,19:01,00:59,2,2,,,
+243,2,28,New York Islanders,San Jose Sharks,2022020051423,2022020051,Faceoff,423,FACEOFF,Brock Nelson faceoff won against Tomas Hertl,2022-10-19T01:12:27Z,2,19:01,00:59,2,2,2.0,New York Islanders,NYI
+244,2,28,New York Islanders,San Jose Sharks,2022020051531,2022020051,Goal,531,GOAL,"Oliver Wahlstrom (2) Snap Shot, assists: Brock Nelson (4)",2022-10-19T01:12:31Z,2,19:04,00:56,3,2,2.0,New York Islanders,NYI
+245,2,28,New York Islanders,San Jose Sharks,2022020051707,2022020051,Faceoff,707,FACEOFF,Brock Nelson faceoff won against Nico Sturm,2022-10-19T01:13:08Z,2,19:04,00:56,3,2,2.0,New York Islanders,NYI
+246,2,28,New York Islanders,San Jose Sharks,2022020051708,2022020051,Hit,708,HIT,Nico Sturm hit Adam Pelech,2022-10-19T01:13:14Z,2,19:10,00:50,3,2,28.0,San Jose Sharks,SJS
+247,2,28,New York Islanders,San Jose Sharks,2022020051532,2022020051,Shot,532,SHOT,Jonah Gadjovich Wrist Shot saved by Semyon Varlamov,2022-10-19T01:13:28Z,2,19:24,00:36,3,2,28.0,San Jose Sharks,SJS
+248,2,28,New York Islanders,San Jose Sharks,2022020051424,2022020051,Takeaway,424,TAKEAWAY,Takeaway by Logan Couture,2022-10-19T01:14:01Z,2,19:57,00:03,3,2,28.0,San Jose Sharks,SJS
+249,2,28,New York Islanders,San Jose Sharks,2022020051709,2022020051,Period End,709,PERIOD_END,End of 2nd Period,2022-10-19T01:14:04Z,2,20:00,00:00,3,2,,,
+250,2,28,New York Islanders,San Jose Sharks,2022020051712,2022020051,Period Official,712,PERIOD_OFFICIAL,Period Official,2022-10-19T01:14:12Z,2,20:00,00:00,3,2,,,
+251,2,28,New York Islanders,San Jose Sharks,2022020051713,2022020051,Period Ready,713,PERIOD_READY,Period Ready,2022-10-19T01:30:44Z,3,00:00,20:00,3,2,,,
+252,2,28,New York Islanders,San Jose Sharks,2022020051425,2022020051,Period Start,425,PERIOD_START,Period Start,2022-10-19T01:32:56Z,3,00:00,20:00,3,2,,,
+253,2,28,New York Islanders,San Jose Sharks,2022020051426,2022020051,Faceoff,426,FACEOFF,Nico Sturm faceoff won against Casey Cizikas,2022-10-19T01:32:56Z,3,00:00,20:00,3,2,28.0,San Jose Sharks,SJS
+254,2,28,New York Islanders,San Jose Sharks,2022020051714,2022020051,Hit,714,HIT,Casey Cizikas hit Nico Sturm,2022-10-19T01:33:17Z,3,00:21,19:39,3,2,2.0,New York Islanders,NYI
+255,2,28,New York Islanders,San Jose Sharks,2022020051715,2022020051,Stoppage,715,STOP,Goalie Puck Frozen Played Beyond Center Line,2022-10-19T01:33:19Z,3,00:23,19:37,3,2,,,
+256,2,28,New York Islanders,San Jose Sharks,2022020051427,2022020051,Faceoff,427,FACEOFF,Jean-Gabriel Pageau faceoff won against Logan Couture,2022-10-19T01:34:13Z,3,00:23,19:37,3,2,2.0,New York Islanders,NYI
+257,2,28,New York Islanders,San Jose Sharks,2022020051428,2022020051,Giveaway,428,GIVEAWAY,Giveaway by Timo Meier,2022-10-19T01:34:29Z,3,00:39,19:21,3,2,28.0,San Jose Sharks,SJS
+258,2,28,New York Islanders,San Jose Sharks,2022020051534,2022020051,Blocked Shot,534,BLOCKED_SHOT,Zach Parise shot blocked shot by Erik Karlsson,2022-10-19T01:34:36Z,3,00:46,19:14,3,2,28.0,San Jose Sharks,SJS
+259,2,28,New York Islanders,San Jose Sharks,2022020051309,2022020051,Blocked Shot,309,BLOCKED_SHOT,Adam Pelech shot blocked shot by Luke Kunin,2022-10-19T01:34:38Z,3,00:48,19:12,3,2,28.0,San Jose Sharks,SJS
+260,2,28,New York Islanders,San Jose Sharks,2022020051716,2022020051,Hit,716,HIT,Jean-Gabriel Pageau hit Erik Karlsson,2022-10-19T01:34:45Z,3,00:55,19:05,3,2,2.0,New York Islanders,NYI
+261,2,28,New York Islanders,San Jose Sharks,2022020051717,2022020051,Stoppage,717,STOP,Icing,2022-10-19T01:34:47Z,3,00:57,19:03,3,2,,,
+262,2,28,New York Islanders,San Jose Sharks,2022020051429,2022020051,Faceoff,429,FACEOFF,Brock Nelson faceoff won against Logan Couture,2022-10-19T01:35:09Z,3,00:57,19:03,3,2,2.0,New York Islanders,NYI
+263,2,28,New York Islanders,San Jose Sharks,2022020051535,2022020051,Shot,535,SHOT,Alexander Romanov Snap Shot saved by James Reimer,2022-10-19T01:35:13Z,3,01:00,19:00,3,2,2.0,New York Islanders,NYI
+264,2,28,New York Islanders,San Jose Sharks,2022020051718,2022020051,Stoppage,718,STOP,Goalie Stopped,2022-10-19T01:35:13Z,3,01:00,19:00,3,2,,,
+265,2,28,New York Islanders,San Jose Sharks,2022020051430,2022020051,Faceoff,430,FACEOFF,Tomas Hertl faceoff won against Brock Nelson,2022-10-19T01:35:33Z,3,01:00,19:00,3,2,28.0,San Jose Sharks,SJS
+266,2,28,New York Islanders,San Jose Sharks,2022020051536,2022020051,Blocked Shot,536,BLOCKED_SHOT,Anders Lee shot blocked shot by Mario Ferraro,2022-10-19T01:36:00Z,3,01:27,18:33,3,2,28.0,San Jose Sharks,SJS
+267,2,28,New York Islanders,San Jose Sharks,2022020051719,2022020051,Penalty,719,PENALTY,Anders Lee Slashing against Radim Simek,2022-10-19T01:36:02Z,3,01:29,18:31,3,2,2.0,New York Islanders,NYI
+268,2,28,New York Islanders,San Jose Sharks,2022020051431,2022020051,Faceoff,431,FACEOFF,Logan Couture faceoff won against Jean-Gabriel Pageau,2022-10-19T01:36:42Z,3,01:29,18:31,3,2,28.0,San Jose Sharks,SJS
+269,2,28,New York Islanders,San Jose Sharks,2022020051537,2022020051,Shot,537,SHOT,Zach Parise Wrist Shot saved by James Reimer,2022-10-19T01:37:03Z,3,01:49,18:11,3,2,2.0,New York Islanders,NYI
+270,2,28,New York Islanders,San Jose Sharks,2022020051722,2022020051,Stoppage,722,STOP,Goalie Stopped,2022-10-19T01:37:03Z,3,01:49,18:11,3,2,,,
+271,2,28,New York Islanders,San Jose Sharks,2022020051432,2022020051,Faceoff,432,FACEOFF,Casey Cizikas faceoff won against Logan Couture,2022-10-19T01:37:27Z,3,01:49,18:11,3,2,2.0,New York Islanders,NYI
+272,2,28,New York Islanders,San Jose Sharks,2022020051433,2022020051,Takeaway,433,TAKEAWAY,Takeaway by Casey Cizikas,2022-10-19T01:37:37Z,3,01:59,18:01,3,2,2.0,New York Islanders,NYI
+273,2,28,New York Islanders,San Jose Sharks,2022020051723,2022020051,Penalty,723,PENALTY,Logan Couture Holding against Casey Cizikas,2022-10-19T01:37:40Z,3,02:03,17:57,3,2,28.0,San Jose Sharks,SJS
+274,2,28,New York Islanders,San Jose Sharks,2022020051434,2022020051,Faceoff,434,FACEOFF,Nico Sturm faceoff won against Kyle Palmieri,2022-10-19T01:38:37Z,3,02:03,17:57,3,2,28.0,San Jose Sharks,SJS
+275,2,28,New York Islanders,San Jose Sharks,2022020051538,2022020051,Blocked Shot,538,BLOCKED_SHOT,Noah Dobson shot blocked shot by Mario Ferraro,2022-10-19T01:39:18Z,3,02:44,17:16,3,2,28.0,San Jose Sharks,SJS
+276,2,28,New York Islanders,San Jose Sharks,2022020051726,2022020051,Hit,726,HIT,Alexander Barabanov hit Noah Dobson,2022-10-19T01:39:26Z,3,02:52,17:08,3,2,28.0,San Jose Sharks,SJS
+277,2,28,New York Islanders,San Jose Sharks,2022020051539,2022020051,Shot,539,SHOT,Marc-Edouard Vlasic Snap Shot saved by Semyon Varlamov,2022-10-19T01:39:34Z,3,03:00,17:00,3,2,28.0,San Jose Sharks,SJS
+278,2,28,New York Islanders,San Jose Sharks,2022020051311,2022020051,Blocked Shot,311,BLOCKED_SHOT,Matt Benning shot blocked shot by Ryan Pulock,2022-10-19T01:39:52Z,3,03:18,16:42,3,2,2.0,New York Islanders,NYI
+279,2,28,New York Islanders,San Jose Sharks,2022020051540,2022020051,Blocked Shot,540,BLOCKED_SHOT,Noah Dobson shot blocked shot by Luke Kunin,2022-10-19T01:40:36Z,3,04:02,15:58,3,2,28.0,San Jose Sharks,SJS
+280,2,28,New York Islanders,San Jose Sharks,2022020051435,2022020051,Takeaway,435,TAKEAWAY,Takeaway by Mathew Barzal,2022-10-19T01:40:40Z,3,04:06,15:54,3,2,2.0,New York Islanders,NYI
+281,2,28,New York Islanders,San Jose Sharks,2022020051541,2022020051,Shot,541,SHOT,Luke Kunin Wrist Shot saved by Semyon Varlamov,2022-10-19T01:40:46Z,3,04:12,15:48,3,2,28.0,San Jose Sharks,SJS
+282,2,28,New York Islanders,San Jose Sharks,2022020051727,2022020051,Shot,727,SHOT,Logan Couture Wrist Shot saved by Semyon Varlamov,2022-10-19T01:40:48Z,3,04:13,15:47,3,2,28.0,San Jose Sharks,SJS
+283,2,28,New York Islanders,San Jose Sharks,2022020051728,2022020051,Stoppage,728,STOP,Goalie Stopped,2022-10-19T01:40:48Z,3,04:13,15:47,3,2,,,
+284,2,28,New York Islanders,San Jose Sharks,2022020051436,2022020051,Faceoff,436,FACEOFF,Casey Cizikas faceoff won against Tomas Hertl,2022-10-19T01:41:22Z,3,04:13,15:47,3,2,2.0,New York Islanders,NYI
+285,2,28,New York Islanders,San Jose Sharks,2022020051542,2022020051,Shot,542,SHOT,Scott Mayfield Snap Shot saved by James Reimer,2022-10-19T01:41:37Z,3,04:27,15:33,3,2,2.0,New York Islanders,NYI
+286,2,28,New York Islanders,San Jose Sharks,2022020051729,2022020051,Stoppage,729,STOP,Puck in Netting,2022-10-19T01:41:37Z,3,04:27,15:33,3,2,,,
+287,2,28,New York Islanders,San Jose Sharks,2022020051437,2022020051,Faceoff,437,FACEOFF,Jean-Gabriel Pageau faceoff won against Tomas Hertl,2022-10-19T01:42:06Z,3,04:27,15:33,3,2,2.0,New York Islanders,NYI
+288,2,28,New York Islanders,San Jose Sharks,2022020051730,2022020051,Hit,730,HIT,Jean-Gabriel Pageau hit Radim Simek,2022-10-19T01:42:15Z,3,04:36,15:24,3,2,2.0,New York Islanders,NYI
+289,2,28,New York Islanders,San Jose Sharks,2022020051731,2022020051,Hit,731,HIT,Radim Simek hit Jean-Gabriel Pageau,2022-10-19T01:42:20Z,3,04:41,15:19,3,2,28.0,San Jose Sharks,SJS
+290,2,28,New York Islanders,San Jose Sharks,2022020051732,2022020051,Stoppage,732,STOP,Offside,2022-10-19T01:42:25Z,3,04:46,15:14,3,2,,,
+291,2,28,New York Islanders,San Jose Sharks,2022020051438,2022020051,Faceoff,438,FACEOFF,Logan Couture faceoff won against Casey Cizikas,2022-10-19T01:42:50Z,3,04:46,15:14,3,2,28.0,San Jose Sharks,SJS
+292,2,28,New York Islanders,San Jose Sharks,2022020051733,2022020051,Hit,733,HIT,Casey Cizikas hit Matt Benning,2022-10-19T01:43:02Z,3,04:58,15:02,3,2,2.0,New York Islanders,NYI
+293,2,28,New York Islanders,San Jose Sharks,2022020051543,2022020051,Shot,543,SHOT,Matt Martin Snap Shot saved by James Reimer,2022-10-19T01:43:19Z,3,05:14,14:46,3,2,2.0,New York Islanders,NYI
+294,2,28,New York Islanders,San Jose Sharks,2022020051734,2022020051,Stoppage,734,STOP,Goalie Stopped,2022-10-19T01:43:19Z,3,05:14,14:46,3,2,,,
+295,2,28,New York Islanders,San Jose Sharks,2022020051439,2022020051,Faceoff,439,FACEOFF,Nico Sturm faceoff won against Brock Nelson,2022-10-19T01:43:53Z,3,05:14,14:46,3,2,28.0,San Jose Sharks,SJS
+296,2,28,New York Islanders,San Jose Sharks,2022020051544,2022020051,Goal,544,GOAL,"Oliver Wahlstrom (3) Snap Shot, assists: Noah Dobson (2)",2022-10-19T01:44:03Z,3,05:24,14:36,4,2,2.0,New York Islanders,NYI
+297,2,28,New York Islanders,San Jose Sharks,2022020051735,2022020051,Faceoff,735,FACEOFF,Nico Sturm faceoff won against Brock Nelson,2022-10-19T01:44:43Z,3,05:24,14:36,4,2,28.0,San Jose Sharks,SJS
+298,2,28,New York Islanders,San Jose Sharks,2022020051312,2022020051,Blocked Shot,312,BLOCKED_SHOT,Tomas Hertl shot blocked shot by Anders Lee,2022-10-19T01:45:09Z,3,05:50,14:10,4,2,2.0,New York Islanders,NYI
+299,2,28,New York Islanders,San Jose Sharks,2022020051737,2022020051,Penalty,737,PENALTY,Brock Nelson Tripping against Radim Simek,2022-10-19T01:45:10Z,3,05:51,14:09,4,2,2.0,New York Islanders,NYI
+300,2,28,New York Islanders,San Jose Sharks,2022020051440,2022020051,Faceoff,440,FACEOFF,Jean-Gabriel Pageau faceoff won against Logan Couture,2022-10-19T01:45:48Z,3,05:51,14:09,4,2,2.0,New York Islanders,NYI
+301,2,28,New York Islanders,San Jose Sharks,2022020051739,2022020051,Hit,739,HIT,Adam Pelech hit Timo Meier,2022-10-19T01:46:08Z,3,06:11,13:49,4,2,2.0,New York Islanders,NYI
+302,2,28,New York Islanders,San Jose Sharks,2022020051545,2022020051,Shot,545,SHOT,Tomas Hertl Wrist Shot saved by Semyon Varlamov,2022-10-19T01:46:19Z,3,06:22,13:38,4,2,28.0,San Jose Sharks,SJS
+303,2,28,New York Islanders,San Jose Sharks,2022020051546,2022020051,Blocked Shot,546,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Ryan Pulock,2022-10-19T01:46:50Z,3,06:53,13:07,4,2,2.0,New York Islanders,NYI
+304,2,28,New York Islanders,San Jose Sharks,2022020051547,2022020051,Blocked Shot,547,BLOCKED_SHOT,Kevin Labanc shot blocked shot by Alexander Romanov,2022-10-19T01:47:19Z,3,07:22,12:38,4,2,2.0,New York Islanders,NYI
+305,2,28,New York Islanders,San Jose Sharks,2022020051548,2022020051,Shot,548,SHOT,Nick Bonino Snap Shot saved by Semyon Varlamov,2022-10-19T01:47:34Z,3,07:37,12:23,4,2,28.0,San Jose Sharks,SJS
+306,2,28,New York Islanders,San Jose Sharks,2022020051550,2022020051,Blocked Shot,550,BLOCKED_SHOT,Mario Ferraro shot blocked shot by Zach Parise,2022-10-19T01:47:47Z,3,07:50,12:10,4,2,2.0,New York Islanders,NYI
+307,2,28,New York Islanders,San Jose Sharks,2022020051549,2022020051,Shot,549,SHOT,Zach Parise Wrist Shot saved by James Reimer,2022-10-19T01:47:49Z,3,07:52,12:08,4,2,2.0,New York Islanders,NYI
+308,2,28,New York Islanders,San Jose Sharks,2022020051740,2022020051,Shot,740,SHOT,Nico Sturm Wrist Shot saved by Semyon Varlamov,2022-10-19T01:48:28Z,3,08:31,11:29,4,2,28.0,San Jose Sharks,SJS
+309,2,28,New York Islanders,San Jose Sharks,2022020051441,2022020051,Blocked Shot,441,BLOCKED_SHOT,Matt Benning shot blocked shot by Anthony Beauvillier,2022-10-19T01:48:33Z,3,08:36,11:24,4,2,2.0,New York Islanders,NYI
+310,2,28,New York Islanders,San Jose Sharks,2022020051741,2022020051,Shot,741,SHOT,Marc-Edouard Vlasic Wrist Shot saved by Semyon Varlamov,2022-10-19T01:48:52Z,3,08:56,11:04,4,2,28.0,San Jose Sharks,SJS
+311,2,28,New York Islanders,San Jose Sharks,2022020051742,2022020051,Stoppage,742,STOP,Goalie Stopped,2022-10-19T01:48:52Z,3,08:56,11:04,4,2,,,
+312,2,28,New York Islanders,San Jose Sharks,2022020051442,2022020051,Faceoff,442,FACEOFF,Casey Cizikas faceoff won against Logan Couture,2022-10-19T01:51:10Z,3,08:56,11:04,4,2,2.0,New York Islanders,NYI
+313,2,28,New York Islanders,San Jose Sharks,2022020051743,2022020051,Missed Shot,743,MISSED_SHOT,Timo Meier Wide of Net Semyon Varlamov,2022-10-19T01:51:15Z,3,09:01,10:59,4,2,28.0,San Jose Sharks,SJS
+314,2,28,New York Islanders,San Jose Sharks,2022020051744,2022020051,Hit,744,HIT,Logan Couture hit Casey Cizikas,2022-10-19T01:51:33Z,3,09:19,10:41,4,2,28.0,San Jose Sharks,SJS
+315,2,28,New York Islanders,San Jose Sharks,2022020051313,2022020051,Blocked Shot,313,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Matt Martin,2022-10-19T01:51:38Z,3,09:24,10:36,4,2,2.0,New York Islanders,NYI
+316,2,28,New York Islanders,San Jose Sharks,2022020051443,2022020051,Takeaway,443,TAKEAWAY,Takeaway by Josh Bailey,2022-10-19T01:52:10Z,3,09:56,10:04,4,2,2.0,New York Islanders,NYI
+317,2,28,New York Islanders,San Jose Sharks,2022020051745,2022020051,Hit,745,HIT,Zach Parise hit Mario Ferraro,2022-10-19T01:52:15Z,3,10:01,09:59,4,2,2.0,New York Islanders,NYI
+318,2,28,New York Islanders,San Jose Sharks,2022020051746,2022020051,Hit,746,HIT,Jean-Gabriel Pageau hit Alexander Barabanov,2022-10-19T01:52:39Z,3,10:25,09:35,4,2,2.0,New York Islanders,NYI
+319,2,28,New York Islanders,San Jose Sharks,2022020051801,2022020051,Shot,801,SHOT,Evgeny Svechnikov Snap Shot saved by Semyon Varlamov,2022-10-19T01:53:25Z,3,11:11,08:49,4,2,28.0,San Jose Sharks,SJS
+320,2,28,New York Islanders,San Jose Sharks,2022020051749,2022020051,Hit,749,HIT,Jonah Gadjovich hit Robin Salo,2022-10-19T01:53:37Z,3,11:23,08:37,4,2,28.0,San Jose Sharks,SJS
+321,2,28,New York Islanders,San Jose Sharks,2022020051444,2022020051,Giveaway,444,GIVEAWAY,Giveaway by Matt Benning,2022-10-19T01:53:56Z,3,11:42,08:18,4,2,28.0,San Jose Sharks,SJS
+322,2,28,New York Islanders,San Jose Sharks,2022020051445,2022020051,Takeaway,445,TAKEAWAY,Takeaway by Ryan Pulock,2022-10-19T01:54:22Z,3,12:08,07:52,4,2,2.0,New York Islanders,NYI
+323,2,28,New York Islanders,San Jose Sharks,2022020051750,2022020051,Hit,750,HIT,Matt Martin hit Matt Nieto,2022-10-19T01:54:26Z,3,12:12,07:48,4,2,2.0,New York Islanders,NYI
+324,2,28,New York Islanders,San Jose Sharks,2022020051951,2022020051,Hit,951,HIT,Cal Clutterbuck hit Erik Karlsson,2022-10-19T01:54:42Z,3,12:28,07:32,4,2,2.0,New York Islanders,NYI
+325,2,28,New York Islanders,San Jose Sharks,2022020051446,2022020051,Giveaway,446,GIVEAWAY,Giveaway by Erik Karlsson,2022-10-19T01:54:46Z,3,12:32,07:28,4,2,28.0,San Jose Sharks,SJS
+326,2,28,New York Islanders,San Jose Sharks,2022020051952,2022020051,Hit,952,HIT,Casey Cizikas hit Erik Karlsson,2022-10-19T01:54:51Z,3,12:37,07:23,4,2,2.0,New York Islanders,NYI
+327,2,28,New York Islanders,San Jose Sharks,2022020051803,2022020051,Takeaway,803,TAKEAWAY,Takeaway by Radim Simek,2022-10-19T01:54:54Z,3,12:40,07:20,4,2,28.0,San Jose Sharks,SJS
+328,2,28,New York Islanders,San Jose Sharks,2022020051802,2022020051,Shot,802,SHOT,Luke Kunin Wrist Shot saved by Semyon Varlamov,2022-10-19T01:54:56Z,3,12:42,07:18,4,2,28.0,San Jose Sharks,SJS
+329,2,28,New York Islanders,San Jose Sharks,2022020051953,2022020051,Stoppage,953,STOP,Goalie Stopped,2022-10-19T01:54:56Z,3,12:42,07:18,4,2,,,
+330,2,28,New York Islanders,San Jose Sharks,2022020051447,2022020051,Faceoff,447,FACEOFF,Tomas Hertl faceoff won against Casey Cizikas,2022-10-19T01:57:18Z,3,12:42,07:18,4,2,28.0,San Jose Sharks,SJS
+331,2,28,New York Islanders,San Jose Sharks,2022020051804,2022020051,Shot,804,SHOT,Erik Karlsson Wrist Shot saved by Semyon Varlamov,2022-10-19T01:57:27Z,3,12:51,07:09,4,2,28.0,San Jose Sharks,SJS
+332,2,28,New York Islanders,San Jose Sharks,2022020051448,2022020051,Hit,448,HIT,Timo Meier hit Alexander Romanov,2022-10-19T01:58:02Z,3,13:26,06:34,4,2,28.0,San Jose Sharks,SJS
+333,2,28,New York Islanders,San Jose Sharks,2022020051970,2022020051,Stoppage,970,STOP,Icing,2022-10-19T01:58:21Z,3,13:44,06:16,4,2,,,
+334,2,28,New York Islanders,San Jose Sharks,2022020051449,2022020051,Faceoff,449,FACEOFF,Nico Sturm faceoff won against Kyle Palmieri,2022-10-19T01:59:09Z,3,13:44,06:16,4,2,28.0,San Jose Sharks,SJS
+335,2,28,New York Islanders,San Jose Sharks,2022020051851,2022020051,Hit,851,HIT,Anthony Beauvillier hit Nico Sturm,2022-10-19T01:59:45Z,3,14:20,05:40,4,2,2.0,New York Islanders,NYI
+336,2,28,New York Islanders,San Jose Sharks,2022020051955,2022020051,Hit,955,HIT,Nick Bonino hit Ryan Pulock,2022-10-19T02:00:03Z,3,14:38,05:22,4,2,28.0,San Jose Sharks,SJS
+337,2,28,New York Islanders,San Jose Sharks,2022020051805,2022020051,Shot,805,SHOT,Matt Nieto Wrist Shot saved by Semyon Varlamov,2022-10-19T02:00:10Z,3,14:45,05:15,4,2,28.0,San Jose Sharks,SJS
+338,2,28,New York Islanders,San Jose Sharks,2022020051852,2022020051,Takeaway,852,TAKEAWAY,Takeaway by Matt Martin,2022-10-19T02:00:57Z,3,15:32,04:28,4,2,2.0,New York Islanders,NYI
+339,2,28,New York Islanders,San Jose Sharks,2022020051807,2022020051,Shot,807,SHOT,Noah Dobson Wrist Shot saved by James Reimer,2022-10-19T02:01:02Z,3,15:37,04:23,4,2,2.0,New York Islanders,NYI
+340,2,28,New York Islanders,San Jose Sharks,2022020051806,2022020051,Shot,806,SHOT,Alexander Romanov Wrist Shot saved by James Reimer,2022-10-19T02:01:04Z,3,15:39,04:21,4,2,2.0,New York Islanders,NYI
+341,2,28,New York Islanders,San Jose Sharks,2022020051314,2022020051,Shot,314,SHOT,Noah Dobson Wrist Shot saved by James Reimer,2022-10-19T02:01:11Z,3,15:46,04:14,4,2,2.0,New York Islanders,NYI
+342,2,28,New York Islanders,San Jose Sharks,2022020051956,2022020051,Stoppage,956,STOP,Goalie Stopped,2022-10-19T02:01:12Z,3,15:47,04:13,4,2,,,
+343,2,28,New York Islanders,San Jose Sharks,2022020051853,2022020051,Faceoff,853,FACEOFF,Nico Sturm faceoff won against Brock Nelson,2022-10-19T02:03:36Z,3,15:47,04:13,4,2,28.0,San Jose Sharks,SJS
+344,2,28,New York Islanders,San Jose Sharks,2022020051808,2022020051,Shot,808,SHOT,Zach Parise Wrist Shot saved by James Reimer,2022-10-19T02:04:27Z,3,16:38,03:22,4,2,2.0,New York Islanders,NYI
+345,2,28,New York Islanders,San Jose Sharks,2022020051957,2022020051,Hit,957,HIT,Jonah Gadjovich hit Zach Parise,2022-10-19T02:04:36Z,3,16:47,03:13,4,2,28.0,San Jose Sharks,SJS
+346,2,28,New York Islanders,San Jose Sharks,2022020051809,2022020051,Blocked Shot,809,BLOCKED_SHOT,Matt Martin shot blocked shot by Timo Meier,2022-10-19T02:05:23Z,3,17:34,02:26,4,2,28.0,San Jose Sharks,SJS
+347,2,28,New York Islanders,San Jose Sharks,2022020051958,2022020051,Goal,958,GOAL,"Cal Clutterbuck (1) Wrist Shot, assists: Matt Martin (2), Adam Pelech (2)",2022-10-19T02:05:23Z,3,17:34,02:26,5,2,2.0,New York Islanders,NYI
+348,2,28,New York Islanders,San Jose Sharks,2022020051959,2022020051,Faceoff,959,FACEOFF,Mathew Barzal faceoff won against Nick Bonino,2022-10-19T02:06:05Z,3,17:34,02:26,5,2,2.0,New York Islanders,NYI
+349,2,28,New York Islanders,San Jose Sharks,2022020051960,2022020051,Hit,960,HIT,Jaycob Megna hit Kyle Palmieri,2022-10-19T02:06:15Z,3,17:44,02:16,5,2,28.0,San Jose Sharks,SJS
+350,2,28,New York Islanders,San Jose Sharks,2022020051810,2022020051,Blocked Shot,810,BLOCKED_SHOT,Noah Dobson shot blocked shot by Matt Nieto,2022-10-19T02:06:25Z,3,17:54,02:06,5,2,28.0,San Jose Sharks,SJS
+351,2,28,New York Islanders,San Jose Sharks,2022020051854,2022020051,Giveaway,854,GIVEAWAY,Giveaway by Jaycob Megna,2022-10-19T02:06:27Z,3,17:56,02:04,5,2,28.0,San Jose Sharks,SJS
+352,2,28,New York Islanders,San Jose Sharks,2022020051856,2022020051,Giveaway,856,GIVEAWAY,Giveaway by Matt Benning,2022-10-19T02:07:12Z,3,18:41,01:19,5,2,28.0,San Jose Sharks,SJS
+353,2,28,New York Islanders,San Jose Sharks,2022020051811,2022020051,Shot,811,SHOT,Oliver Wahlstrom Snap Shot saved by James Reimer,2022-10-19T02:07:31Z,3,19:00,01:00,5,2,2.0,New York Islanders,NYI
+354,2,28,New York Islanders,San Jose Sharks,2022020051812,2022020051,Shot,812,SHOT,Anders Lee Wrist Shot saved by James Reimer,2022-10-19T02:07:33Z,3,19:02,00:58,5,2,2.0,New York Islanders,NYI
+355,2,28,New York Islanders,San Jose Sharks,2022020051813,2022020051,Shot,813,SHOT,Anders Lee Wrist Shot saved by James Reimer,2022-10-19T02:07:33Z,3,19:02,00:58,5,2,2.0,New York Islanders,NYI
+356,2,28,New York Islanders,San Jose Sharks,2022020051962,2022020051,Stoppage,962,STOP,Goalie Stopped,2022-10-19T02:07:35Z,3,19:03,00:57,5,2,,,
+357,2,28,New York Islanders,San Jose Sharks,2022020051857,2022020051,Faceoff,857,FACEOFF,Jean-Gabriel Pageau faceoff won against Logan Couture,2022-10-19T02:08:11Z,3,19:03,00:57,5,2,2.0,New York Islanders,NYI
+358,2,28,New York Islanders,San Jose Sharks,2022020051963,2022020051,Hit,963,HIT,Logan Couture hit Oliver Wahlstrom,2022-10-19T02:08:35Z,3,19:27,00:33,5,2,28.0,San Jose Sharks,SJS
+359,2,28,New York Islanders,San Jose Sharks,2022020051964,2022020051,Hit,964,HIT,Ryan Pulock hit Timo Meier,2022-10-19T02:08:45Z,3,19:37,00:23,5,2,2.0,New York Islanders,NYI
+360,2,28,New York Islanders,San Jose Sharks,2022020051965,2022020051,Period End,965,PERIOD_END,End of 3rd Period,2022-10-19T02:09:08Z,3,20:00,00:00,5,2,,,
+361,2,28,New York Islanders,San Jose Sharks,2022020051968,2022020051,Period Official,968,PERIOD_OFFICIAL,Period Official,2022-10-19T02:09:12Z,3,20:00,00:00,5,2,,,
+362,2,28,New York Islanders,San Jose Sharks,2022020051969,2022020051,Game End,969,GAME_END,Game End,2022-10-19T02:09:14Z,3,20:00,00:00,5,2,,,
+363,2,28,New York Islanders,San Jose Sharks,20220200511241,2022020051,Game Official,1241,GAME_OFFICIAL,Game Official,2022-10-19T13:20:32Z,3,20:00,00:00,5,2,,,

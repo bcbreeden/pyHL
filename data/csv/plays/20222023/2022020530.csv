@@ -1,0 +1,364 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,23,55,Vancouver Canucks,Seattle Kraken,20220205301,2022020530,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-12-23T02:13:18Z,1,00:00,20:00,0,0,,,
+1,23,55,Vancouver Canucks,Seattle Kraken,20220205305,2022020530,Period Ready,5,PERIOD_READY,Period Ready,2022-12-23T03:06:03Z,1,00:00,20:00,0,0,,,
+2,23,55,Vancouver Canucks,Seattle Kraken,202202053051,2022020530,Period Start,51,PERIOD_START,Period Start,2022-12-23T03:08:16Z,1,00:00,20:00,0,0,,,
+3,23,55,Vancouver Canucks,Seattle Kraken,202202053052,2022020530,Faceoff,52,FACEOFF,Bo Horvat faceoff won against Matty Beniers,2022-12-23T03:08:16Z,1,00:00,20:00,0,0,23.0,Vancouver Canucks,VAN
+4,23,55,Vancouver Canucks,Seattle Kraken,20220205308,2022020530,Hit,8,HIT,Bo Horvat hit Jordan Eberle,2022-12-23T03:08:35Z,1,00:19,19:41,0,0,23.0,Vancouver Canucks,VAN
+5,23,55,Vancouver Canucks,Seattle Kraken,20220205309,2022020530,Hit,9,HIT,Matty Beniers hit Luke Schenn,2022-12-23T03:08:44Z,1,00:28,19:32,0,0,55.0,Seattle Kraken,SEA
+6,23,55,Vancouver Canucks,Seattle Kraken,2022020530151,2022020530,Shot,151,SHOT,Andre Burakovsky Wrist Shot saved by Spencer Martin,2022-12-23T03:09:35Z,1,01:19,18:41,0,0,55.0,Seattle Kraken,SEA
+7,23,55,Vancouver Canucks,Seattle Kraken,202202053010,2022020530,Stoppage,10,STOP,Icing,2022-12-23T03:09:46Z,1,01:30,18:30,0,0,,,
+8,23,55,Vancouver Canucks,Seattle Kraken,202202053053,2022020530,Faceoff,53,FACEOFF,Alex Wennberg faceoff won against J.T. Miller,2022-12-23T03:10:08Z,1,01:30,18:30,0,0,55.0,Seattle Kraken,SEA
+9,23,55,Vancouver Canucks,Seattle Kraken,202202053011,2022020530,Stoppage,11,STOP,Puck in Netting,2022-12-23T03:10:15Z,1,01:37,18:23,0,0,,,
+10,23,55,Vancouver Canucks,Seattle Kraken,2022020530152,2022020530,Blocked Shot,152,BLOCKED_SHOT,Jaden Schwartz shot blocked shot by Oliver Ekman-Larsson,2022-12-23T03:10:15Z,1,01:37,18:23,0,0,23.0,Vancouver Canucks,VAN
+11,23,55,Vancouver Canucks,Seattle Kraken,202202053054,2022020530,Faceoff,54,FACEOFF,Alex Wennberg faceoff won against Elias Pettersson,2022-12-23T03:10:35Z,1,01:37,18:23,0,0,55.0,Seattle Kraken,SEA
+12,23,55,Vancouver Canucks,Seattle Kraken,2022020530153,2022020530,Shot,153,SHOT,Oliver Bjorkstrand Wrist Shot saved by Spencer Martin,2022-12-23T03:10:38Z,1,01:40,18:20,0,0,55.0,Seattle Kraken,SEA
+13,23,55,Vancouver Canucks,Seattle Kraken,202202053055,2022020530,Giveaway,55,GIVEAWAY,Giveaway by Lane Pederson,2022-12-23T03:11:18Z,1,02:20,17:40,0,0,23.0,Vancouver Canucks,VAN
+14,23,55,Vancouver Canucks,Seattle Kraken,202202053012,2022020530,Hit,12,HIT,Nils Aman hit Morgan Geekie,2022-12-23T03:11:44Z,1,02:46,17:14,0,0,23.0,Vancouver Canucks,VAN
+15,23,55,Vancouver Canucks,Seattle Kraken,202202053056,2022020530,Giveaway,56,GIVEAWAY,Giveaway by Luke Schenn,2022-12-23T03:11:50Z,1,02:52,17:08,0,0,23.0,Vancouver Canucks,VAN
+16,23,55,Vancouver Canucks,Seattle Kraken,2022020530155,2022020530,Shot,155,SHOT,Morgan Geekie Wrist Shot saved by Spencer Martin,2022-12-23T03:11:52Z,1,02:54,17:06,0,0,55.0,Seattle Kraken,SEA
+17,23,55,Vancouver Canucks,Seattle Kraken,202202053013,2022020530,Hit,13,HIT,Vince Dunn hit Curtis Lazar,2022-12-23T03:12:02Z,1,03:04,16:56,0,0,55.0,Seattle Kraken,SEA
+18,23,55,Vancouver Canucks,Seattle Kraken,202202053057,2022020530,Giveaway,57,GIVEAWAY,Giveaway by Matty Beniers,2022-12-23T03:12:48Z,1,03:50,16:10,0,0,55.0,Seattle Kraken,SEA
+19,23,55,Vancouver Canucks,Seattle Kraken,202202053014,2022020530,Stoppage,14,STOP,Icing,2022-12-23T03:13:08Z,1,04:10,15:50,0,0,,,
+20,23,55,Vancouver Canucks,Seattle Kraken,202202053058,2022020530,Faceoff,58,FACEOFF,Yanni Gourde faceoff won against Bo Horvat,2022-12-23T03:13:32Z,1,04:10,15:50,0,0,55.0,Seattle Kraken,SEA
+21,23,55,Vancouver Canucks,Seattle Kraken,2022020530157,2022020530,Blocked Shot,157,BLOCKED_SHOT,Yanni Gourde shot blocked shot by Luke Schenn,2022-12-23T03:13:42Z,1,04:20,15:40,0,0,23.0,Vancouver Canucks,VAN
+22,23,55,Vancouver Canucks,Seattle Kraken,202202053015,2022020530,Hit,15,HIT,Luke Schenn hit Ryan Donato,2022-12-23T03:13:45Z,1,04:23,15:37,0,0,23.0,Vancouver Canucks,VAN
+23,23,55,Vancouver Canucks,Seattle Kraken,2022020530158,2022020530,Missed Shot,158,MISSED_SHOT,Yanni Gourde Wide of Net Spencer Martin,2022-12-23T03:14:09Z,1,04:47,15:13,0,0,55.0,Seattle Kraken,SEA
+24,23,55,Vancouver Canucks,Seattle Kraken,202202053016,2022020530,Hit,16,HIT,Adam Larsson hit Brock Boeser,2022-12-23T03:14:17Z,1,04:55,15:05,0,0,55.0,Seattle Kraken,SEA
+25,23,55,Vancouver Canucks,Seattle Kraken,202202053017,2022020530,Stoppage,17,STOP,Icing,2022-12-23T03:14:24Z,1,05:02,14:58,0,0,,,
+26,23,55,Vancouver Canucks,Seattle Kraken,202202053059,2022020530,Faceoff,59,FACEOFF,Jaden Schwartz faceoff won against J.T. Miller,2022-12-23T03:15:04Z,1,05:02,14:58,0,0,55.0,Seattle Kraken,SEA
+27,23,55,Vancouver Canucks,Seattle Kraken,2022020530159,2022020530,Blocked Shot,159,BLOCKED_SHOT,Vince Dunn shot blocked shot by Brock Boeser,2022-12-23T03:15:09Z,1,05:07,14:53,0,0,23.0,Vancouver Canucks,VAN
+28,23,55,Vancouver Canucks,Seattle Kraken,2022020530160,2022020530,Missed Shot,160,MISSED_SHOT,Vince Dunn Wide of Net Spencer Martin,2022-12-23T03:15:14Z,1,05:12,14:48,0,0,55.0,Seattle Kraken,SEA
+29,23,55,Vancouver Canucks,Seattle Kraken,202202053060,2022020530,Giveaway,60,GIVEAWAY,Giveaway by Spencer Martin,2022-12-23T03:15:46Z,1,05:44,14:16,0,0,23.0,Vancouver Canucks,VAN
+30,23,55,Vancouver Canucks,Seattle Kraken,202202053018,2022020530,Stoppage,18,STOP,Goalie Stopped,2022-12-23T03:15:48Z,1,05:47,14:13,0,0,,,
+31,23,55,Vancouver Canucks,Seattle Kraken,2022020530161,2022020530,Shot,161,SHOT,Alex Wennberg Wrist Shot saved by Spencer Martin,2022-12-23T03:15:48Z,1,05:47,14:13,0,0,55.0,Seattle Kraken,SEA
+32,23,55,Vancouver Canucks,Seattle Kraken,202202053061,2022020530,Faceoff,61,FACEOFF,Morgan Geekie faceoff won against Elias Pettersson,2022-12-23T03:16:16Z,1,05:47,14:13,0,0,55.0,Seattle Kraken,SEA
+33,23,55,Vancouver Canucks,Seattle Kraken,2022020530162,2022020530,Blocked Shot,162,BLOCKED_SHOT,Jamie Oleksiak shot blocked shot by Lane Pederson,2022-12-23T03:16:20Z,1,05:51,14:09,0,0,23.0,Vancouver Canucks,VAN
+34,23,55,Vancouver Canucks,Seattle Kraken,202202053019,2022020530,Hit,19,HIT,Brandon Tanev hit Lane Pederson,2022-12-23T03:16:28Z,1,05:59,14:01,0,0,55.0,Seattle Kraken,SEA
+35,23,55,Vancouver Canucks,Seattle Kraken,202202053020,2022020530,Hit,20,HIT,Elias Pettersson hit Brandon Tanev,2022-12-23T03:16:52Z,1,06:23,13:37,0,0,23.0,Vancouver Canucks,VAN
+36,23,55,Vancouver Canucks,Seattle Kraken,202202053021,2022020530,Hit,21,HIT,Curtis Lazar hit Will Borgen,2022-12-23T03:17:05Z,1,06:36,13:24,0,0,23.0,Vancouver Canucks,VAN
+37,23,55,Vancouver Canucks,Seattle Kraken,202202053022,2022020530,Hit,22,HIT,Luke Schenn hit Jared McCann,2022-12-23T03:17:19Z,1,06:50,13:10,0,0,23.0,Vancouver Canucks,VAN
+38,23,55,Vancouver Canucks,Seattle Kraken,2022020530163,2022020530,Goal,163,GOAL,"Jared McCann (16) Snap Shot, assists: Matty Beniers (14), Carson Soucy (6)",2022-12-23T03:17:31Z,1,07:01,12:59,0,1,55.0,Seattle Kraken,SEA
+39,23,55,Vancouver Canucks,Seattle Kraken,202202053062,2022020530,Faceoff,62,FACEOFF,Yanni Gourde faceoff won against Bo Horvat,2022-12-23T03:18:18Z,1,07:01,12:59,0,1,55.0,Seattle Kraken,SEA
+40,23,55,Vancouver Canucks,Seattle Kraken,202202053063,2022020530,Giveaway,63,GIVEAWAY,Giveaway by Vince Dunn,2022-12-23T03:18:43Z,1,07:26,12:34,0,1,55.0,Seattle Kraken,SEA
+41,23,55,Vancouver Canucks,Seattle Kraken,202202053023,2022020530,Hit,23,HIT,Kyle Burroughs hit Andre Burakovsky,2022-12-23T03:18:59Z,1,07:42,12:18,0,1,23.0,Vancouver Canucks,VAN
+42,23,55,Vancouver Canucks,Seattle Kraken,202202053024,2022020530,Stoppage,24,STOP,Puck in Crowd,2022-12-23T03:19:18Z,1,08:02,11:58,0,1,,,
+43,23,55,Vancouver Canucks,Seattle Kraken,202202053064,2022020530,Faceoff,64,FACEOFF,Alex Wennberg faceoff won against J.T. Miller,2022-12-23T03:21:29Z,1,08:02,11:58,0,1,55.0,Seattle Kraken,SEA
+44,23,55,Vancouver Canucks,Seattle Kraken,2022020530164,2022020530,Blocked Shot,164,BLOCKED_SHOT,Justin Schultz shot blocked shot by Dakota Joshua,2022-12-23T03:21:39Z,1,08:12,11:48,0,1,23.0,Vancouver Canucks,VAN
+45,23,55,Vancouver Canucks,Seattle Kraken,202202053065,2022020530,Takeaway,65,TAKEAWAY,Takeaway by J.T. Miller,2022-12-23T03:21:48Z,1,08:21,11:39,0,1,23.0,Vancouver Canucks,VAN
+46,23,55,Vancouver Canucks,Seattle Kraken,2022020530165,2022020530,Shot,165,SHOT,Oliver Ekman-Larsson Slap Shot saved by Martin Jones,2022-12-23T03:21:54Z,1,08:27,11:33,0,1,23.0,Vancouver Canucks,VAN
+47,23,55,Vancouver Canucks,Seattle Kraken,2022020530166,2022020530,Shot,166,SHOT,Brandon Tanev Wrist Shot saved by Spencer Martin,2022-12-23T03:22:36Z,1,09:09,10:51,0,1,55.0,Seattle Kraken,SEA
+48,23,55,Vancouver Canucks,Seattle Kraken,202202053025,2022020530,Hit,25,HIT,Morgan Geekie hit Nils Aman,2022-12-23T03:23:00Z,1,09:33,10:27,0,1,55.0,Seattle Kraken,SEA
+49,23,55,Vancouver Canucks,Seattle Kraken,202202053026,2022020530,Stoppage,26,STOP,Goalie Stopped,2022-12-23T03:23:13Z,1,09:45,10:15,0,1,,,
+50,23,55,Vancouver Canucks,Seattle Kraken,2022020530167,2022020530,Shot,167,SHOT,Curtis Lazar Wrist Shot saved by Martin Jones,2022-12-23T03:23:13Z,1,09:45,10:15,0,1,23.0,Vancouver Canucks,VAN
+51,23,55,Vancouver Canucks,Seattle Kraken,202202053066,2022020530,Faceoff,66,FACEOFF,Matty Beniers faceoff won against Nils Aman,2022-12-23T03:23:38Z,1,09:45,10:15,0,1,55.0,Seattle Kraken,SEA
+52,23,55,Vancouver Canucks,Seattle Kraken,202202053027,2022020530,Hit,27,HIT,Jared McCann hit Curtis Lazar,2022-12-23T03:24:01Z,1,10:01,09:59,0,1,55.0,Seattle Kraken,SEA
+53,23,55,Vancouver Canucks,Seattle Kraken,202202053028,2022020530,Hit,28,HIT,Curtis Lazar hit Matty Beniers,2022-12-23T03:24:11Z,1,10:11,09:49,0,1,23.0,Vancouver Canucks,VAN
+54,23,55,Vancouver Canucks,Seattle Kraken,2022020530168,2022020530,Blocked Shot,168,BLOCKED_SHOT,Adam Larsson shot blocked shot by Kyle Burroughs,2022-12-23T03:24:18Z,1,10:18,09:42,0,1,23.0,Vancouver Canucks,VAN
+55,23,55,Vancouver Canucks,Seattle Kraken,2022020530169,2022020530,Missed Shot,169,MISSED_SHOT,Jordan Eberle Wide of Net Spencer Martin,2022-12-23T03:24:25Z,1,10:25,09:35,0,1,55.0,Seattle Kraken,SEA
+56,23,55,Vancouver Canucks,Seattle Kraken,2022020530170,2022020530,Blocked Shot,170,BLOCKED_SHOT,Vince Dunn shot blocked shot by Nils Aman,2022-12-23T03:24:35Z,1,10:35,09:25,0,1,23.0,Vancouver Canucks,VAN
+57,23,55,Vancouver Canucks,Seattle Kraken,202202053029,2022020530,Stoppage,29,STOP,Hand Pass,2022-12-23T03:24:41Z,1,10:41,09:19,0,1,,,
+58,23,55,Vancouver Canucks,Seattle Kraken,202202053068,2022020530,Faceoff,68,FACEOFF,Bo Horvat faceoff won against Yanni Gourde,2022-12-23T03:26:56Z,1,10:41,09:19,0,1,23.0,Vancouver Canucks,VAN
+59,23,55,Vancouver Canucks,Seattle Kraken,202202053030,2022020530,Stoppage,30,STOP,Icing,2022-12-23T03:27:04Z,1,10:50,09:10,0,1,,,
+60,23,55,Vancouver Canucks,Seattle Kraken,202202053069,2022020530,Faceoff,69,FACEOFF,Bo Horvat faceoff won against Yanni Gourde,2022-12-23T03:27:28Z,1,10:50,09:10,0,1,23.0,Vancouver Canucks,VAN
+61,23,55,Vancouver Canucks,Seattle Kraken,2022020530171,2022020530,Shot,171,SHOT,Bo Horvat Wrist Shot saved by Martin Jones,2022-12-23T03:27:37Z,1,10:59,09:01,0,1,23.0,Vancouver Canucks,VAN
+62,23,55,Vancouver Canucks,Seattle Kraken,202202053031,2022020530,Hit,31,HIT,Conor Garland hit Yanni Gourde,2022-12-23T03:27:41Z,1,11:03,08:57,0,1,23.0,Vancouver Canucks,VAN
+63,23,55,Vancouver Canucks,Seattle Kraken,202202053070,2022020530,Takeaway,70,TAKEAWAY,Takeaway by Ilya Mikheyev,2022-12-23T03:27:54Z,1,11:16,08:44,0,1,23.0,Vancouver Canucks,VAN
+64,23,55,Vancouver Canucks,Seattle Kraken,2022020530243,2022020530,Penalty,243,PENALTY,Andre Burakovsky Hooking against Ilya Mikheyev,2022-12-23T03:27:58Z,1,11:20,08:40,0,1,55.0,Seattle Kraken,SEA
+65,23,55,Vancouver Canucks,Seattle Kraken,202202053072,2022020530,Faceoff,72,FACEOFF,Bo Horvat faceoff won against Morgan Geekie,2022-12-23T03:28:35Z,1,11:20,08:40,0,1,23.0,Vancouver Canucks,VAN
+66,23,55,Vancouver Canucks,Seattle Kraken,2022020530172,2022020530,Missed Shot,172,MISSED_SHOT,Quinn Hughes Wide of Net Martin Jones,2022-12-23T03:28:39Z,1,11:24,08:36,0,1,23.0,Vancouver Canucks,VAN
+67,23,55,Vancouver Canucks,Seattle Kraken,202202053032,2022020530,Hit,32,HIT,Jamie Oleksiak hit Brock Boeser,2022-12-23T03:29:15Z,1,12:00,08:00,0,1,55.0,Seattle Kraken,SEA
+68,23,55,Vancouver Canucks,Seattle Kraken,2022020530173,2022020530,Shot,173,SHOT,J.T. Miller Wrist Shot saved by Martin Jones,2022-12-23T03:29:23Z,1,12:08,07:52,0,1,23.0,Vancouver Canucks,VAN
+69,23,55,Vancouver Canucks,Seattle Kraken,2022020530175,2022020530,Shot,175,SHOT,Brock Boeser Backhand saved by Martin Jones,2022-12-23T03:29:25Z,1,12:10,07:50,0,1,23.0,Vancouver Canucks,VAN
+70,23,55,Vancouver Canucks,Seattle Kraken,2022020530174,2022020530,Missed Shot,174,MISSED_SHOT,Brock Boeser Goalpost Martin Jones,2022-12-23T03:29:29Z,1,12:14,07:46,0,1,23.0,Vancouver Canucks,VAN
+71,23,55,Vancouver Canucks,Seattle Kraken,2022020530176,2022020530,Shot,176,SHOT,Sheldon Dries Tip-In saved by Martin Jones,2022-12-23T03:30:03Z,1,12:48,07:12,0,1,23.0,Vancouver Canucks,VAN
+72,23,55,Vancouver Canucks,Seattle Kraken,2022020530177,2022020530,Missed Shot,177,MISSED_SHOT,Oliver Ekman-Larsson Wide of Net Martin Jones,2022-12-23T03:30:11Z,1,12:56,07:04,0,1,23.0,Vancouver Canucks,VAN
+73,23,55,Vancouver Canucks,Seattle Kraken,2022020530178,2022020530,Missed Shot,178,MISSED_SHOT,Sheldon Dries Wide of Net Martin Jones,2022-12-23T03:30:33Z,1,13:18,06:42,0,1,23.0,Vancouver Canucks,VAN
+74,23,55,Vancouver Canucks,Seattle Kraken,2022020530179,2022020530,Blocked Shot,179,BLOCKED_SHOT,Oliver Ekman-Larsson shot blocked shot by Yanni Gourde,2022-12-23T03:30:39Z,1,13:24,06:36,0,1,55.0,Seattle Kraken,SEA
+75,23,55,Vancouver Canucks,Seattle Kraken,2022020530180,2022020530,Blocked Shot,180,BLOCKED_SHOT,Andrei Kuzmenko shot blocked shot by Alex Wennberg,2022-12-23T03:30:55Z,1,13:40,06:20,0,1,55.0,Seattle Kraken,SEA
+76,23,55,Vancouver Canucks,Seattle Kraken,2022020530182,2022020530,Blocked Shot,182,BLOCKED_SHOT,Ilya Mikheyev shot blocked shot by Will Borgen,2022-12-23T03:30:57Z,1,13:42,06:18,0,1,55.0,Seattle Kraken,SEA
+77,23,55,Vancouver Canucks,Seattle Kraken,202202053033,2022020530,Stoppage,33,STOP,Hand Pass,2022-12-23T03:31:04Z,1,13:48,06:12,0,1,,,
+78,23,55,Vancouver Canucks,Seattle Kraken,202202053073,2022020530,Faceoff,73,FACEOFF,Matty Beniers faceoff won against Curtis Lazar,2022-12-23T03:31:47Z,1,13:48,06:12,0,1,55.0,Seattle Kraken,SEA
+79,23,55,Vancouver Canucks,Seattle Kraken,202202053034,2022020530,Stoppage,34,STOP,Icing,2022-12-23T03:32:07Z,1,14:08,05:52,0,1,,,
+80,23,55,Vancouver Canucks,Seattle Kraken,202202053074,2022020530,Faceoff,74,FACEOFF,Curtis Lazar faceoff won against Alex Wennberg,2022-12-23T03:32:32Z,1,14:08,05:52,0,1,23.0,Vancouver Canucks,VAN
+81,23,55,Vancouver Canucks,Seattle Kraken,202202053035,2022020530,Hit,35,HIT,Curtis Lazar hit Alex Wennberg,2022-12-23T03:32:43Z,1,14:19,05:41,0,1,23.0,Vancouver Canucks,VAN
+82,23,55,Vancouver Canucks,Seattle Kraken,202202053036,2022020530,Hit,36,HIT,Conor Garland hit Alex Wennberg,2022-12-23T03:33:18Z,1,14:54,05:06,0,1,23.0,Vancouver Canucks,VAN
+83,23,55,Vancouver Canucks,Seattle Kraken,202202053037,2022020530,Stoppage,37,STOP,Goalie Stopped,2022-12-23T03:33:58Z,1,15:34,04:26,0,1,,,
+84,23,55,Vancouver Canucks,Seattle Kraken,2022020530181,2022020530,Shot,181,SHOT,Brandon Tanev Tip-In saved by Spencer Martin,2022-12-23T03:33:58Z,1,15:34,04:26,0,1,55.0,Seattle Kraken,SEA
+85,23,55,Vancouver Canucks,Seattle Kraken,202202053075,2022020530,Faceoff,75,FACEOFF,J.T. Miller faceoff won against Ryan Donato,2022-12-23T03:36:27Z,1,15:34,04:26,0,1,23.0,Vancouver Canucks,VAN
+86,23,55,Vancouver Canucks,Seattle Kraken,2022020530183,2022020530,Shot,183,SHOT,Dakota Joshua Wrist Shot saved by Martin Jones,2022-12-23T03:36:54Z,1,16:01,03:59,0,1,23.0,Vancouver Canucks,VAN
+87,23,55,Vancouver Canucks,Seattle Kraken,2022020530184,2022020530,Missed Shot,184,MISSED_SHOT,Lane Pederson Wide of Net Martin Jones,2022-12-23T03:37:40Z,1,16:47,03:13,0,1,23.0,Vancouver Canucks,VAN
+88,23,55,Vancouver Canucks,Seattle Kraken,2022020530185,2022020530,Goal,185,GOAL,"Lane Pederson (1) Tip-In, assists: Elias Pettersson (22), Andrei Kuzmenko (14)",2022-12-23T03:38:10Z,1,17:17,02:43,1,1,23.0,Vancouver Canucks,VAN
+89,23,55,Vancouver Canucks,Seattle Kraken,202202053076,2022020530,Faceoff,76,FACEOFF,Alex Wennberg faceoff won against Bo Horvat,2022-12-23T03:38:51Z,1,17:17,02:43,1,1,55.0,Seattle Kraken,SEA
+90,23,55,Vancouver Canucks,Seattle Kraken,2022020530186,2022020530,Shot,186,SHOT,Oliver Bjorkstrand Backhand saved by Spencer Martin,2022-12-23T03:39:34Z,1,18:00,02:00,1,1,55.0,Seattle Kraken,SEA
+91,23,55,Vancouver Canucks,Seattle Kraken,2022020530187,2022020530,Shot,187,SHOT,Curtis Lazar Tip-In saved by Martin Jones,2022-12-23T03:39:59Z,1,18:25,01:35,1,1,23.0,Vancouver Canucks,VAN
+92,23,55,Vancouver Canucks,Seattle Kraken,202202053038,2022020530,Stoppage,38,STOP,Goalie Puck Frozen Played Beyond Center Line,2022-12-23T03:39:59Z,1,18:26,01:34,1,1,,,
+93,23,55,Vancouver Canucks,Seattle Kraken,202202053077,2022020530,Faceoff,77,FACEOFF,Morgan Geekie faceoff won against J.T. Miller,2022-12-23T03:40:24Z,1,18:26,01:34,1,1,55.0,Seattle Kraken,SEA
+94,23,55,Vancouver Canucks,Seattle Kraken,2022020530188,2022020530,Shot,188,SHOT,Daniel Sprong Slap Shot saved by Spencer Martin,2022-12-23T03:40:45Z,1,18:47,01:13,1,1,55.0,Seattle Kraken,SEA
+95,23,55,Vancouver Canucks,Seattle Kraken,202202053039,2022020530,Hit,39,HIT,Kyle Burroughs hit Ryan Donato,2022-12-23T03:41:00Z,1,19:02,00:58,1,1,23.0,Vancouver Canucks,VAN
+96,23,55,Vancouver Canucks,Seattle Kraken,202202053078,2022020530,Takeaway,78,TAKEAWAY,Takeaway by Elias Pettersson,2022-12-23T03:41:07Z,1,19:09,00:51,1,1,23.0,Vancouver Canucks,VAN
+97,23,55,Vancouver Canucks,Seattle Kraken,202202053079,2022020530,Takeaway,79,TAKEAWAY,Takeaway by Morgan Geekie,2022-12-23T03:41:14Z,1,19:16,00:44,1,1,55.0,Seattle Kraken,SEA
+98,23,55,Vancouver Canucks,Seattle Kraken,202202053080,2022020530,Takeaway,80,TAKEAWAY,Takeaway by Andre Burakovsky,2022-12-23T03:41:47Z,1,19:49,00:11,1,1,55.0,Seattle Kraken,SEA
+99,23,55,Vancouver Canucks,Seattle Kraken,2022020530189,2022020530,Blocked Shot,189,BLOCKED_SHOT,Andre Burakovsky shot blocked shot by Quinn Hughes,2022-12-23T03:41:56Z,1,19:58,00:02,1,1,23.0,Vancouver Canucks,VAN
+100,23,55,Vancouver Canucks,Seattle Kraken,202202053040,2022020530,Period End,40,PERIOD_END,End of 1st Period,2022-12-23T03:41:59Z,1,20:00,00:00,1,1,,,
+101,23,55,Vancouver Canucks,Seattle Kraken,202202053043,2022020530,Period Official,43,PERIOD_OFFICIAL,Period Official,2022-12-23T03:44:30Z,1,20:00,00:00,1,1,,,
+102,23,55,Vancouver Canucks,Seattle Kraken,202202053044,2022020530,Period Ready,44,PERIOD_READY,Period Ready,2022-12-23T04:00:43Z,2,00:00,20:00,1,1,,,
+103,23,55,Vancouver Canucks,Seattle Kraken,202202053081,2022020530,Period Start,81,PERIOD_START,Period Start,2022-12-23T04:00:50Z,2,00:00,20:00,1,1,,,
+104,23,55,Vancouver Canucks,Seattle Kraken,202202053082,2022020530,Faceoff,82,FACEOFF,Matty Beniers faceoff won against Bo Horvat,2022-12-23T04:00:50Z,2,00:00,20:00,1,1,55.0,Seattle Kraken,SEA
+105,23,55,Vancouver Canucks,Seattle Kraken,202202053045,2022020530,Hit,45,HIT,Luke Schenn hit Jordan Eberle,2022-12-23T04:01:05Z,2,00:15,19:45,1,1,23.0,Vancouver Canucks,VAN
+106,23,55,Vancouver Canucks,Seattle Kraken,2022020530190,2022020530,Blocked Shot,190,BLOCKED_SHOT,Ilya Mikheyev shot blocked shot by Vince Dunn,2022-12-23T04:01:11Z,2,00:21,19:39,1,1,55.0,Seattle Kraken,SEA
+107,23,55,Vancouver Canucks,Seattle Kraken,2022020530192,2022020530,Shot,192,SHOT,Jordan Eberle Wrist Shot saved by Spencer Martin,2022-12-23T04:01:25Z,2,00:35,19:25,1,1,55.0,Seattle Kraken,SEA
+108,23,55,Vancouver Canucks,Seattle Kraken,2022020530193,2022020530,Shot,193,SHOT,Conor Garland Wrist Shot saved by Martin Jones,2022-12-23T04:01:37Z,2,00:47,19:13,1,1,23.0,Vancouver Canucks,VAN
+109,23,55,Vancouver Canucks,Seattle Kraken,202202053046,2022020530,Hit,46,HIT,Dakota Joshua hit Jamie Oleksiak,2022-12-23T04:02:02Z,2,01:12,18:48,1,1,23.0,Vancouver Canucks,VAN
+110,23,55,Vancouver Canucks,Seattle Kraken,202202053047,2022020530,Stoppage,47,STOP,Puck in Netting,2022-12-23T04:02:18Z,2,01:29,18:31,1,1,,,
+111,23,55,Vancouver Canucks,Seattle Kraken,2022020530194,2022020530,Missed Shot,194,MISSED_SHOT,J.T. Miller Hit Crossbar Martin Jones,2022-12-23T04:02:18Z,2,01:29,18:31,1,1,23.0,Vancouver Canucks,VAN
+112,23,55,Vancouver Canucks,Seattle Kraken,202202053083,2022020530,Faceoff,83,FACEOFF,Yanni Gourde faceoff won against Elias Pettersson,2022-12-23T04:02:49Z,2,01:29,18:31,1,1,55.0,Seattle Kraken,SEA
+113,23,55,Vancouver Canucks,Seattle Kraken,202202053084,2022020530,Giveaway,84,GIVEAWAY,Giveaway by Tyler Myers,2022-12-23T04:02:59Z,2,01:39,18:21,1,1,23.0,Vancouver Canucks,VAN
+114,23,55,Vancouver Canucks,Seattle Kraken,2022020530195,2022020530,Shot,195,SHOT,Ryan Donato Tip-In saved by Spencer Martin,2022-12-23T04:03:06Z,2,01:46,18:14,1,1,55.0,Seattle Kraken,SEA
+115,23,55,Vancouver Canucks,Seattle Kraken,2022020530196,2022020530,Missed Shot,196,MISSED_SHOT,Elias Pettersson Wide of Net Martin Jones,2022-12-23T04:03:31Z,2,02:11,17:49,1,1,23.0,Vancouver Canucks,VAN
+116,23,55,Vancouver Canucks,Seattle Kraken,2022020530197,2022020530,Missed Shot,197,MISSED_SHOT,Andrei Kuzmenko Wide of Net Martin Jones,2022-12-23T04:03:41Z,2,02:21,17:39,1,1,23.0,Vancouver Canucks,VAN
+117,23,55,Vancouver Canucks,Seattle Kraken,2022020530198,2022020530,Blocked Shot,198,BLOCKED_SHOT,Kyle Burroughs shot blocked shot by Jamie Oleksiak,2022-12-23T04:03:55Z,2,02:35,17:25,1,1,55.0,Seattle Kraken,SEA
+118,23,55,Vancouver Canucks,Seattle Kraken,2022020530199,2022020530,Blocked Shot,199,BLOCKED_SHOT,Kyle Burroughs shot blocked shot by Jamie Oleksiak,2022-12-23T04:04:02Z,2,02:42,17:18,1,1,55.0,Seattle Kraken,SEA
+119,23,55,Vancouver Canucks,Seattle Kraken,202202053048,2022020530,Hit,48,HIT,Yanni Gourde hit Nils Aman,2022-12-23T04:04:13Z,2,02:53,17:07,1,1,55.0,Seattle Kraken,SEA
+120,23,55,Vancouver Canucks,Seattle Kraken,202202053085,2022020530,Giveaway,85,GIVEAWAY,Giveaway by Jaden Schwartz,2022-12-23T04:04:22Z,2,03:02,16:58,1,1,55.0,Seattle Kraken,SEA
+121,23,55,Vancouver Canucks,Seattle Kraken,2022020530200,2022020530,Goal,200,GOAL,"Oliver Bjorkstrand (4) Wrist Shot, assists: Jaden Schwartz (9)",2022-12-23T04:04:48Z,2,03:28,16:32,1,2,55.0,Seattle Kraken,SEA
+122,23,55,Vancouver Canucks,Seattle Kraken,202202053086,2022020530,Faceoff,86,FACEOFF,J.T. Miller faceoff won against Morgan Geekie,2022-12-23T04:05:28Z,2,03:28,16:32,1,2,23.0,Vancouver Canucks,VAN
+123,23,55,Vancouver Canucks,Seattle Kraken,202202053049,2022020530,Stoppage,49,STOP,Icing,2022-12-23T04:05:35Z,2,03:35,16:25,1,2,,,
+124,23,55,Vancouver Canucks,Seattle Kraken,202202053087,2022020530,Faceoff,87,FACEOFF,Morgan Geekie faceoff won against J.T. Miller,2022-12-23T04:06:14Z,2,03:35,16:25,1,2,55.0,Seattle Kraken,SEA
+125,23,55,Vancouver Canucks,Seattle Kraken,2022020530351,2022020530,Goal,351,GOAL,"Daniel Sprong (9) Tip-In, assists: Adam Larsson (9), Morgan Geekie (9)",2022-12-23T04:06:17Z,2,03:38,16:22,1,3,55.0,Seattle Kraken,SEA
+126,23,55,Vancouver Canucks,Seattle Kraken,202202053088,2022020530,Faceoff,88,FACEOFF,Matty Beniers faceoff won against Elias Pettersson,2022-12-23T04:06:59Z,2,03:38,16:22,1,3,55.0,Seattle Kraken,SEA
+127,23,55,Vancouver Canucks,Seattle Kraken,2022020530251,2022020530,Hit,251,HIT,Lane Pederson hit Jamie Oleksiak,2022-12-23T04:07:05Z,2,03:44,16:16,1,3,23.0,Vancouver Canucks,VAN
+128,23,55,Vancouver Canucks,Seattle Kraken,202202053050,2022020530,Stoppage,50,STOP,Icing,2022-12-23T04:07:07Z,2,03:46,16:14,1,3,,,
+129,23,55,Vancouver Canucks,Seattle Kraken,202202053090,2022020530,Faceoff,90,FACEOFF,Matty Beniers faceoff won against Elias Pettersson,2022-12-23T04:07:29Z,2,03:46,16:14,1,3,55.0,Seattle Kraken,SEA
+130,23,55,Vancouver Canucks,Seattle Kraken,2022020530352,2022020530,Blocked Shot,352,BLOCKED_SHOT,Luke Schenn shot blocked shot by Jamie Oleksiak,2022-12-23T04:07:38Z,2,03:55,16:05,1,3,55.0,Seattle Kraken,SEA
+131,23,55,Vancouver Canucks,Seattle Kraken,2022020530353,2022020530,Shot,353,SHOT,Andrei Kuzmenko Wrist Shot saved by Martin Jones,2022-12-23T04:07:43Z,2,04:00,16:00,1,3,23.0,Vancouver Canucks,VAN
+132,23,55,Vancouver Canucks,Seattle Kraken,2022020530354,2022020530,Missed Shot,354,MISSED_SHOT,Jared McCann Over Net Spencer Martin,2022-12-23T04:07:49Z,2,04:06,15:54,1,3,55.0,Seattle Kraken,SEA
+133,23,55,Vancouver Canucks,Seattle Kraken,2022020530357,2022020530,Blocked Shot,357,BLOCKED_SHOT,Jordan Eberle shot blocked shot by Luke Schenn,2022-12-23T04:08:13Z,2,04:30,15:30,1,3,23.0,Vancouver Canucks,VAN
+134,23,55,Vancouver Canucks,Seattle Kraken,2022020530252,2022020530,Hit,252,HIT,Jordan Eberle hit Lane Pederson,2022-12-23T04:08:17Z,2,04:34,15:26,1,3,55.0,Seattle Kraken,SEA
+135,23,55,Vancouver Canucks,Seattle Kraken,2022020530253,2022020530,Stoppage,253,STOP,Icing,2022-12-23T04:08:21Z,2,04:37,15:23,1,3,,,
+136,23,55,Vancouver Canucks,Seattle Kraken,202202053092,2022020530,Faceoff,92,FACEOFF,Elias Pettersson faceoff won against Morgan Geekie,2022-12-23T04:08:39Z,2,04:37,15:23,1,3,23.0,Vancouver Canucks,VAN
+137,23,55,Vancouver Canucks,Seattle Kraken,2022020530355,2022020530,Shot,355,SHOT,Sheldon Dries Backhand saved by Martin Jones,2022-12-23T04:09:07Z,2,05:05,14:55,1,3,23.0,Vancouver Canucks,VAN
+138,23,55,Vancouver Canucks,Seattle Kraken,2022020530254,2022020530,Hit,254,HIT,Morgan Geekie hit Curtis Lazar,2022-12-23T04:09:11Z,2,05:09,14:51,1,3,55.0,Seattle Kraken,SEA
+139,23,55,Vancouver Canucks,Seattle Kraken,2022020530256,2022020530,Hit,256,HIT,Kyle Burroughs hit Brandon Tanev,2022-12-23T04:09:19Z,2,05:17,14:43,1,3,23.0,Vancouver Canucks,VAN
+140,23,55,Vancouver Canucks,Seattle Kraken,2022020530503,2022020530,Penalty,503,PENALTY,Kyle Burroughs Fighting against Brandon Tanev,2022-12-23T04:09:19Z,2,05:18,14:42,1,3,23.0,Vancouver Canucks,VAN
+141,23,55,Vancouver Canucks,Seattle Kraken,2022020530507,2022020530,Penalty,507,PENALTY,Brandon Tanev Fighting against Kyle Burroughs,2022-12-23T04:09:19Z,2,05:18,14:42,1,3,55.0,Seattle Kraken,SEA
+142,23,55,Vancouver Canucks,Seattle Kraken,202202053094,2022020530,Faceoff,94,FACEOFF,Bo Horvat faceoff won against Ryan Donato,2022-12-23T04:10:40Z,2,05:18,14:42,1,3,23.0,Vancouver Canucks,VAN
+143,23,55,Vancouver Canucks,Seattle Kraken,2022020530257,2022020530,Stoppage,257,STOP,Icing,2022-12-23T04:10:54Z,2,05:32,14:28,1,3,,,
+144,23,55,Vancouver Canucks,Seattle Kraken,202202053095,2022020530,Faceoff,95,FACEOFF,Yanni Gourde faceoff won against Bo Horvat,2022-12-23T04:11:19Z,2,05:32,14:28,1,3,55.0,Seattle Kraken,SEA
+145,23,55,Vancouver Canucks,Seattle Kraken,2022020530258,2022020530,Stoppage,258,STOP,Goalie Stopped,2022-12-23T04:12:08Z,2,06:21,13:39,1,3,,,
+146,23,55,Vancouver Canucks,Seattle Kraken,2022020530356,2022020530,Shot,356,SHOT,Andre Burakovsky Wrist Shot saved by Spencer Martin,2022-12-23T04:12:08Z,2,06:21,13:39,1,3,55.0,Seattle Kraken,SEA
+147,23,55,Vancouver Canucks,Seattle Kraken,202202053096,2022020530,Faceoff,96,FACEOFF,Bo Horvat faceoff won against Alex Wennberg,2022-12-23T04:14:20Z,2,06:21,13:39,1,3,23.0,Vancouver Canucks,VAN
+148,23,55,Vancouver Canucks,Seattle Kraken,2022020530259,2022020530,Stoppage,259,STOP,Icing,2022-12-23T04:14:28Z,2,06:29,13:31,1,3,,,
+149,23,55,Vancouver Canucks,Seattle Kraken,202202053097,2022020530,Faceoff,97,FACEOFF,Alex Wennberg faceoff won against Bo Horvat,2022-12-23T04:14:52Z,2,06:29,13:31,1,3,55.0,Seattle Kraken,SEA
+150,23,55,Vancouver Canucks,Seattle Kraken,2022020530260,2022020530,Stoppage,260,STOP,Puck in Netting,2022-12-23T04:14:56Z,2,06:34,13:26,1,3,,,
+151,23,55,Vancouver Canucks,Seattle Kraken,202202053098,2022020530,Faceoff,98,FACEOFF,Bo Horvat faceoff won against Alex Wennberg,2022-12-23T04:15:16Z,2,06:34,13:26,1,3,23.0,Vancouver Canucks,VAN
+152,23,55,Vancouver Canucks,Seattle Kraken,2022020530358,2022020530,Shot,358,SHOT,Tyler Myers Wrist Shot saved by Martin Jones,2022-12-23T04:16:00Z,2,07:18,12:42,1,3,23.0,Vancouver Canucks,VAN
+153,23,55,Vancouver Canucks,Seattle Kraken,2022020530359,2022020530,Shot,359,SHOT,Bo Horvat Wrist Shot saved by Martin Jones,2022-12-23T04:16:14Z,2,07:32,12:28,1,3,23.0,Vancouver Canucks,VAN
+154,23,55,Vancouver Canucks,Seattle Kraken,2022020530360,2022020530,Blocked Shot,360,BLOCKED_SHOT,Jared McCann shot blocked shot by Tyler Myers,2022-12-23T04:16:23Z,2,07:41,12:19,1,3,23.0,Vancouver Canucks,VAN
+155,23,55,Vancouver Canucks,Seattle Kraken,2022020530361,2022020530,Shot,361,SHOT,Elias Pettersson Tip-In saved by Martin Jones,2022-12-23T04:16:42Z,2,08:00,12:00,1,3,23.0,Vancouver Canucks,VAN
+156,23,55,Vancouver Canucks,Seattle Kraken,2022020530362,2022020530,Blocked Shot,362,BLOCKED_SHOT,Lane Pederson shot blocked shot by Carson Soucy,2022-12-23T04:16:47Z,2,08:05,11:55,1,3,55.0,Seattle Kraken,SEA
+157,23,55,Vancouver Canucks,Seattle Kraken,2022020530363,2022020530,Goal,363,GOAL,"Elias Pettersson (14) Wrist Shot, assists: Luke Schenn (7), Andrei Kuzmenko (15)",2022-12-23T04:16:51Z,2,08:09,11:51,2,3,23.0,Vancouver Canucks,VAN
+158,23,55,Vancouver Canucks,Seattle Kraken,202202053099,2022020530,Faceoff,99,FACEOFF,Morgan Geekie faceoff won against Bo Horvat,2022-12-23T04:17:37Z,2,08:09,11:51,2,3,55.0,Seattle Kraken,SEA
+159,23,55,Vancouver Canucks,Seattle Kraken,2022020530601,2022020530,Shot,601,SHOT,Ilya Mikheyev Wrist Shot saved by Martin Jones,2022-12-23T04:17:40Z,2,08:12,11:48,2,3,23.0,Vancouver Canucks,VAN
+160,23,55,Vancouver Canucks,Seattle Kraken,2022020530364,2022020530,Missed Shot,364,MISSED_SHOT,Vince Dunn Wide of Net Spencer Martin,2022-12-23T04:17:53Z,2,08:25,11:35,2,3,55.0,Seattle Kraken,SEA
+161,23,55,Vancouver Canucks,Seattle Kraken,2022020530100,2022020530,Takeaway,100,TAKEAWAY,Takeaway by Conor Garland,2022-12-23T04:18:15Z,2,08:47,11:13,2,3,23.0,Vancouver Canucks,VAN
+162,23,55,Vancouver Canucks,Seattle Kraken,2022020530365,2022020530,Blocked Shot,365,BLOCKED_SHOT,Ryan Donato shot blocked shot by Tyler Myers,2022-12-23T04:18:41Z,2,09:13,10:47,2,3,23.0,Vancouver Canucks,VAN
+163,23,55,Vancouver Canucks,Seattle Kraken,2022020530366,2022020530,Missed Shot,366,MISSED_SHOT,Ryan Donato Wide of Net Spencer Martin,2022-12-23T04:18:48Z,2,09:20,10:40,2,3,55.0,Seattle Kraken,SEA
+164,23,55,Vancouver Canucks,Seattle Kraken,2022020530367,2022020530,Blocked Shot,367,BLOCKED_SHOT,Justin Schultz shot blocked shot by Curtis Lazar,2022-12-23T04:18:54Z,2,09:26,10:34,2,3,23.0,Vancouver Canucks,VAN
+165,23,55,Vancouver Canucks,Seattle Kraken,2022020530368,2022020530,Shot,368,SHOT,Justin Schultz Tip-In saved by Spencer Martin,2022-12-23T04:19:04Z,2,09:36,10:24,2,3,55.0,Seattle Kraken,SEA
+166,23,55,Vancouver Canucks,Seattle Kraken,2022020530402,2022020530,Giveaway,402,GIVEAWAY,Giveaway by Quinn Hughes,2022-12-23T04:19:12Z,2,09:44,10:16,2,3,23.0,Vancouver Canucks,VAN
+167,23,55,Vancouver Canucks,Seattle Kraken,2022020530369,2022020530,Shot,369,SHOT,Ryan Donato Wrist Shot saved by Spencer Martin,2022-12-23T04:19:18Z,2,09:50,10:10,2,3,55.0,Seattle Kraken,SEA
+168,23,55,Vancouver Canucks,Seattle Kraken,2022020530261,2022020530,Stoppage,261,STOP,Goalie Stopped,2022-12-23T04:19:23Z,2,09:56,10:04,2,3,,,
+169,23,55,Vancouver Canucks,Seattle Kraken,2022020530370,2022020530,Shot,370,SHOT,Andre Burakovsky Wrist Shot saved by Spencer Martin,2022-12-23T04:19:23Z,2,09:56,10:04,2,3,55.0,Seattle Kraken,SEA
+170,23,55,Vancouver Canucks,Seattle Kraken,2022020530403,2022020530,Faceoff,403,FACEOFF,J.T. Miller faceoff won against Alex Wennberg,2022-12-23T04:19:53Z,2,09:56,10:04,2,3,23.0,Vancouver Canucks,VAN
+171,23,55,Vancouver Canucks,Seattle Kraken,2022020530371,2022020530,Missed Shot,371,MISSED_SHOT,J.T. Miller Wide of Net Martin Jones,2022-12-23T04:20:09Z,2,10:12,09:48,2,3,23.0,Vancouver Canucks,VAN
+172,23,55,Vancouver Canucks,Seattle Kraken,2022020530372,2022020530,Shot,372,SHOT,Brock Boeser Tip-In saved by Martin Jones,2022-12-23T04:20:17Z,2,10:20,09:40,2,3,23.0,Vancouver Canucks,VAN
+173,23,55,Vancouver Canucks,Seattle Kraken,2022020530373,2022020530,Shot,373,SHOT,Brock Boeser Wrist Shot saved by Martin Jones,2022-12-23T04:20:55Z,2,10:58,09:02,2,3,23.0,Vancouver Canucks,VAN
+174,23,55,Vancouver Canucks,Seattle Kraken,2022020530262,2022020530,Stoppage,262,STOP,Goalie Stopped,2022-12-23T04:20:56Z,2,10:59,09:01,2,3,,,
+175,23,55,Vancouver Canucks,Seattle Kraken,2022020530404,2022020530,Faceoff,404,FACEOFF,Elias Pettersson faceoff won against Matty Beniers,2022-12-23T04:23:18Z,2,10:59,09:01,2,3,23.0,Vancouver Canucks,VAN
+176,23,55,Vancouver Canucks,Seattle Kraken,2022020530405,2022020530,Takeaway,405,TAKEAWAY,Takeaway by Matty Beniers,2022-12-23T04:23:32Z,2,11:13,08:47,2,3,55.0,Seattle Kraken,SEA
+177,23,55,Vancouver Canucks,Seattle Kraken,2022020530263,2022020530,Stoppage,263,STOP,Puck in Netting,2022-12-23T04:23:58Z,2,11:40,08:20,2,3,,,
+178,23,55,Vancouver Canucks,Seattle Kraken,2022020530374,2022020530,Blocked Shot,374,BLOCKED_SHOT,Quinn Hughes shot blocked shot by Matty Beniers,2022-12-23T04:23:58Z,2,11:40,08:20,2,3,55.0,Seattle Kraken,SEA
+179,23,55,Vancouver Canucks,Seattle Kraken,2022020530406,2022020530,Faceoff,406,FACEOFF,Yanni Gourde faceoff won against Nils Aman,2022-12-23T04:24:34Z,2,11:40,08:20,2,3,55.0,Seattle Kraken,SEA
+180,23,55,Vancouver Canucks,Seattle Kraken,2022020530375,2022020530,Shot,375,SHOT,Curtis Lazar Wrist Shot saved by Martin Jones,2022-12-23T04:24:59Z,2,12:05,07:55,2,3,23.0,Vancouver Canucks,VAN
+181,23,55,Vancouver Canucks,Seattle Kraken,2022020530376,2022020530,Shot,376,SHOT,Andre Burakovsky Wrist Shot saved by Spencer Martin,2022-12-23T04:25:33Z,2,12:39,07:21,2,3,55.0,Seattle Kraken,SEA
+182,23,55,Vancouver Canucks,Seattle Kraken,2022020530377,2022020530,Shot,377,SHOT,Will Borgen Slap Shot saved by Spencer Martin,2022-12-23T04:26:20Z,2,13:26,06:34,2,3,55.0,Seattle Kraken,SEA
+183,23,55,Vancouver Canucks,Seattle Kraken,2022020530378,2022020530,Goal,378,GOAL,"Alex Wennberg (6) Wrist Shot, assists: Oliver Bjorkstrand (12), Will Borgen (8)",2022-12-23T04:26:24Z,2,13:29,06:31,2,4,55.0,Seattle Kraken,SEA
+184,23,55,Vancouver Canucks,Seattle Kraken,2022020530407,2022020530,Faceoff,407,FACEOFF,J.T. Miller faceoff won against Morgan Geekie,2022-12-23T04:27:03Z,2,13:29,06:31,2,4,23.0,Vancouver Canucks,VAN
+185,23,55,Vancouver Canucks,Seattle Kraken,2022020530264,2022020530,Stoppage,264,STOP,Goalie Stopped,2022-12-23T04:27:42Z,2,14:08,05:52,2,4,,,
+186,23,55,Vancouver Canucks,Seattle Kraken,2022020530379,2022020530,Shot,379,SHOT,Quinn Hughes Wrist Shot saved by Martin Jones,2022-12-23T04:27:42Z,2,14:08,05:52,2,4,23.0,Vancouver Canucks,VAN
+187,23,55,Vancouver Canucks,Seattle Kraken,2022020530409,2022020530,Faceoff,409,FACEOFF,Matty Beniers faceoff won against Elias Pettersson,2022-12-23T04:29:51Z,2,14:08,05:52,2,4,55.0,Seattle Kraken,SEA
+188,23,55,Vancouver Canucks,Seattle Kraken,2022020530265,2022020530,Hit,265,HIT,Lane Pederson hit Carson Soucy,2022-12-23T04:30:27Z,2,14:44,05:16,2,4,23.0,Vancouver Canucks,VAN
+189,23,55,Vancouver Canucks,Seattle Kraken,2022020530380,2022020530,Blocked Shot,380,BLOCKED_SHOT,Luke Schenn shot blocked shot by Matty Beniers,2022-12-23T04:30:41Z,2,14:58,05:02,2,4,55.0,Seattle Kraken,SEA
+190,23,55,Vancouver Canucks,Seattle Kraken,2022020530381,2022020530,Shot,381,SHOT,Curtis Lazar Tip-In saved by Martin Jones,2022-12-23T04:31:08Z,2,15:25,04:35,2,4,23.0,Vancouver Canucks,VAN
+191,23,55,Vancouver Canucks,Seattle Kraken,2022020530382,2022020530,Shot,382,SHOT,Riley Stillman Slap Shot saved by Martin Jones,2022-12-23T04:31:12Z,2,15:29,04:31,2,4,23.0,Vancouver Canucks,VAN
+192,23,55,Vancouver Canucks,Seattle Kraken,2022020530578,2022020530,Penalty,578,PENALTY,Kyle Burroughs Cross-checking against Oliver Bjorkstrand,2022-12-23T04:31:43Z,2,16:00,04:00,2,4,23.0,Vancouver Canucks,VAN
+193,23,55,Vancouver Canucks,Seattle Kraken,2022020530410,2022020530,Faceoff,410,FACEOFF,Jaden Schwartz faceoff won against Bo Horvat,2022-12-23T04:32:28Z,2,16:00,04:00,2,4,55.0,Seattle Kraken,SEA
+194,23,55,Vancouver Canucks,Seattle Kraken,2022020530266,2022020530,Stoppage,266,STOP,Goalie Stopped,2022-12-23T04:32:32Z,2,16:05,03:55,2,4,,,
+195,23,55,Vancouver Canucks,Seattle Kraken,2022020530383,2022020530,Shot,383,SHOT,Vince Dunn Wrist Shot saved by Spencer Martin,2022-12-23T04:32:32Z,2,16:05,03:55,2,4,55.0,Seattle Kraken,SEA
+196,23,55,Vancouver Canucks,Seattle Kraken,2022020530411,2022020530,Faceoff,411,FACEOFF,Bo Horvat faceoff won against Jaden Schwartz,2022-12-23T04:32:52Z,2,16:05,03:55,2,4,23.0,Vancouver Canucks,VAN
+197,23,55,Vancouver Canucks,Seattle Kraken,2022020530267,2022020530,Stoppage,267,STOP,Puck in Crowd,2022-12-23T04:32:57Z,2,16:10,03:50,2,4,,,
+198,23,55,Vancouver Canucks,Seattle Kraken,2022020530412,2022020530,Faceoff,412,FACEOFF,Jaden Schwartz faceoff won against Bo Horvat,2022-12-23T04:33:14Z,2,16:10,03:50,2,4,55.0,Seattle Kraken,SEA
+199,23,55,Vancouver Canucks,Seattle Kraken,2022020530384,2022020530,Shot,384,SHOT,Vince Dunn Slap Shot saved by Spencer Martin,2022-12-23T04:33:27Z,2,16:23,03:37,2,4,55.0,Seattle Kraken,SEA
+200,23,55,Vancouver Canucks,Seattle Kraken,2022020530268,2022020530,Stoppage,268,STOP,Puck in Netting,2022-12-23T04:33:37Z,2,16:33,03:27,2,4,,,
+201,23,55,Vancouver Canucks,Seattle Kraken,2022020530413,2022020530,Faceoff,413,FACEOFF,Jordan Eberle faceoff won against J.T. Miller,2022-12-23T04:34:04Z,2,16:33,03:27,2,4,55.0,Seattle Kraken,SEA
+202,23,55,Vancouver Canucks,Seattle Kraken,2022020530269,2022020530,Stoppage,269,STOP,Puck in Crowd,2022-12-23T04:34:30Z,2,16:59,03:01,2,4,,,
+203,23,55,Vancouver Canucks,Seattle Kraken,2022020530414,2022020530,Faceoff,414,FACEOFF,Alex Wennberg faceoff won against Bo Horvat,2022-12-23T04:34:59Z,2,16:59,03:01,2,4,55.0,Seattle Kraken,SEA
+204,23,55,Vancouver Canucks,Seattle Kraken,2022020530385,2022020530,Shot,385,SHOT,Daniel Sprong Slap Shot saved by Spencer Martin,2022-12-23T04:35:17Z,2,17:17,02:43,2,4,55.0,Seattle Kraken,SEA
+205,23,55,Vancouver Canucks,Seattle Kraken,2022020530386,2022020530,Blocked Shot,386,BLOCKED_SHOT,Matty Beniers shot blocked shot by Tyler Myers,2022-12-23T04:35:49Z,2,17:49,02:11,2,4,23.0,Vancouver Canucks,VAN
+206,23,55,Vancouver Canucks,Seattle Kraken,2022020530415,2022020530,Takeaway,415,TAKEAWAY,Takeaway by Justin Schultz,2022-12-23T04:35:52Z,2,17:52,02:08,2,4,55.0,Seattle Kraken,SEA
+207,23,55,Vancouver Canucks,Seattle Kraken,2022020530270,2022020530,Hit,270,HIT,Luke Schenn hit Daniel Sprong,2022-12-23T04:36:07Z,2,18:07,01:53,2,4,23.0,Vancouver Canucks,VAN
+208,23,55,Vancouver Canucks,Seattle Kraken,2022020530416,2022020530,Giveaway,416,GIVEAWAY,Giveaway by Tyler Myers,2022-12-23T04:36:09Z,2,18:09,01:51,2,4,23.0,Vancouver Canucks,VAN
+209,23,55,Vancouver Canucks,Seattle Kraken,2022020530271,2022020530,Hit,271,HIT,Luke Schenn hit Daniel Sprong,2022-12-23T04:36:12Z,2,18:12,01:48,2,4,23.0,Vancouver Canucks,VAN
+210,23,55,Vancouver Canucks,Seattle Kraken,2022020530272,2022020530,Stoppage,272,STOP,Puck in Netting,2022-12-23T04:36:13Z,2,18:13,01:47,2,4,,,
+211,23,55,Vancouver Canucks,Seattle Kraken,2022020530387,2022020530,Blocked Shot,387,BLOCKED_SHOT,Daniel Sprong shot blocked shot by Luke Schenn,2022-12-23T04:36:13Z,2,18:13,01:47,2,4,23.0,Vancouver Canucks,VAN
+212,23,55,Vancouver Canucks,Seattle Kraken,2022020530417,2022020530,Faceoff,417,FACEOFF,Yanni Gourde faceoff won against Elias Pettersson,2022-12-23T04:36:44Z,2,18:13,01:47,2,4,55.0,Seattle Kraken,SEA
+213,23,55,Vancouver Canucks,Seattle Kraken,2022020530388,2022020530,Blocked Shot,388,BLOCKED_SHOT,Vince Dunn shot blocked shot by Lane Pederson,2022-12-23T04:36:48Z,2,18:17,01:43,2,4,23.0,Vancouver Canucks,VAN
+214,23,55,Vancouver Canucks,Seattle Kraken,2022020530273,2022020530,Stoppage,273,STOP,Goalie Puck Frozen Played Beyond Center Line,2022-12-23T04:37:37Z,2,19:06,00:54,2,4,,,
+215,23,55,Vancouver Canucks,Seattle Kraken,2022020530418,2022020530,Faceoff,418,FACEOFF,Bo Horvat faceoff won against Morgan Geekie,2022-12-23T04:38:01Z,2,19:06,00:54,2,4,23.0,Vancouver Canucks,VAN
+216,23,55,Vancouver Canucks,Seattle Kraken,2022020530419,2022020530,Takeaway,419,TAKEAWAY,Takeaway by Will Borgen,2022-12-23T04:38:15Z,2,19:20,00:40,2,4,55.0,Seattle Kraken,SEA
+217,23,55,Vancouver Canucks,Seattle Kraken,2022020530389,2022020530,Missed Shot,389,MISSED_SHOT,Will Borgen Wide of Net Spencer Martin,2022-12-23T04:38:19Z,2,19:24,00:36,2,4,55.0,Seattle Kraken,SEA
+218,23,55,Vancouver Canucks,Seattle Kraken,2022020530274,2022020530,Stoppage,274,STOP,Offside,2022-12-23T04:38:28Z,2,19:33,00:27,2,4,,,
+219,23,55,Vancouver Canucks,Seattle Kraken,2022020530420,2022020530,Faceoff,420,FACEOFF,J.T. Miller faceoff won against Alex Wennberg,2022-12-23T04:38:55Z,2,19:33,00:27,2,4,23.0,Vancouver Canucks,VAN
+220,23,55,Vancouver Canucks,Seattle Kraken,2022020530275,2022020530,Period End,275,PERIOD_END,End of 2nd Period,2022-12-23T04:39:22Z,2,20:00,00:00,2,4,,,
+221,23,55,Vancouver Canucks,Seattle Kraken,2022020530278,2022020530,Period Official,278,PERIOD_OFFICIAL,Period Official,2022-12-23T04:42:41Z,2,20:00,00:00,2,4,,,
+222,23,55,Vancouver Canucks,Seattle Kraken,2022020530279,2022020530,Period Ready,279,PERIOD_READY,Period Ready,2022-12-23T04:58:04Z,3,00:00,20:00,2,4,,,
+223,23,55,Vancouver Canucks,Seattle Kraken,2022020530421,2022020530,Period Start,421,PERIOD_START,Period Start,2022-12-23T04:58:12Z,3,00:00,20:00,2,4,,,
+224,23,55,Vancouver Canucks,Seattle Kraken,2022020530422,2022020530,Faceoff,422,FACEOFF,Bo Horvat faceoff won against Matty Beniers,2022-12-23T04:58:12Z,3,00:00,20:00,2,4,23.0,Vancouver Canucks,VAN
+225,23,55,Vancouver Canucks,Seattle Kraken,2022020530390,2022020530,Missed Shot,390,MISSED_SHOT,Jamie Oleksiak Wide of Net Spencer Martin,2022-12-23T04:59:31Z,3,01:19,18:41,2,4,55.0,Seattle Kraken,SEA
+226,23,55,Vancouver Canucks,Seattle Kraken,2022020530391,2022020530,Blocked Shot,391,BLOCKED_SHOT,Justin Schultz shot blocked shot by Sheldon Dries,2022-12-23T04:59:36Z,3,01:24,18:36,2,4,23.0,Vancouver Canucks,VAN
+227,23,55,Vancouver Canucks,Seattle Kraken,2022020530392,2022020530,Shot,392,SHOT,Ryan Donato Tip-In saved by Spencer Martin,2022-12-23T04:59:58Z,3,01:46,18:14,2,4,55.0,Seattle Kraken,SEA
+228,23,55,Vancouver Canucks,Seattle Kraken,2022020530280,2022020530,Stoppage,280,STOP,Goalie Stopped,2022-12-23T04:59:58Z,3,01:47,18:13,2,4,,,
+229,23,55,Vancouver Canucks,Seattle Kraken,2022020530393,2022020530,Shot,393,SHOT,Ryan Donato Backhand saved by Spencer Martin,2022-12-23T04:59:58Z,3,01:47,18:13,2,4,55.0,Seattle Kraken,SEA
+230,23,55,Vancouver Canucks,Seattle Kraken,2022020530423,2022020530,Faceoff,423,FACEOFF,Elias Pettersson faceoff won against Alex Wennberg,2022-12-23T05:00:26Z,3,01:47,18:13,2,4,23.0,Vancouver Canucks,VAN
+231,23,55,Vancouver Canucks,Seattle Kraken,2022020530394,2022020530,Blocked Shot,394,BLOCKED_SHOT,Jaden Schwartz shot blocked shot by Kyle Burroughs,2022-12-23T05:01:00Z,3,02:21,17:39,2,4,23.0,Vancouver Canucks,VAN
+232,23,55,Vancouver Canucks,Seattle Kraken,2022020530281,2022020530,Stoppage,281,STOP,Goalie Stopped,2022-12-23T05:01:09Z,3,02:30,17:30,2,4,,,
+233,23,55,Vancouver Canucks,Seattle Kraken,2022020530395,2022020530,Shot,395,SHOT,Oliver Bjorkstrand Wrist Shot saved by Spencer Martin,2022-12-23T05:01:09Z,3,02:30,17:30,2,4,55.0,Seattle Kraken,SEA
+234,23,55,Vancouver Canucks,Seattle Kraken,2022020530424,2022020530,Faceoff,424,FACEOFF,Nils Aman faceoff won against Morgan Geekie,2022-12-23T05:01:38Z,3,02:30,17:30,2,4,23.0,Vancouver Canucks,VAN
+235,23,55,Vancouver Canucks,Seattle Kraken,2022020530282,2022020530,Hit,282,HIT,Oliver Ekman-Larsson hit Brandon Tanev,2022-12-23T05:01:52Z,3,02:44,17:16,2,4,23.0,Vancouver Canucks,VAN
+236,23,55,Vancouver Canucks,Seattle Kraken,2022020530283,2022020530,Hit,283,HIT,Luke Schenn hit Morgan Geekie,2022-12-23T05:02:14Z,3,03:06,16:54,2,4,23.0,Vancouver Canucks,VAN
+237,23,55,Vancouver Canucks,Seattle Kraken,2022020530425,2022020530,Giveaway,425,GIVEAWAY,Giveaway by Luke Schenn,2022-12-23T05:02:26Z,3,03:18,16:42,2,4,23.0,Vancouver Canucks,VAN
+238,23,55,Vancouver Canucks,Seattle Kraken,2022020530396,2022020530,Missed Shot,396,MISSED_SHOT,Matty Beniers Wide of Net Spencer Martin,2022-12-23T05:02:27Z,3,03:19,16:41,2,4,55.0,Seattle Kraken,SEA
+239,23,55,Vancouver Canucks,Seattle Kraken,2022020530397,2022020530,Shot,397,SHOT,Jared McCann Slap Shot saved by Spencer Martin,2022-12-23T05:02:47Z,3,03:39,16:21,2,4,55.0,Seattle Kraken,SEA
+240,23,55,Vancouver Canucks,Seattle Kraken,2022020530284,2022020530,Stoppage,284,STOP,Goalie Stopped,2022-12-23T05:02:47Z,3,03:40,16:20,2,4,,,
+241,23,55,Vancouver Canucks,Seattle Kraken,2022020530426,2022020530,Faceoff,426,FACEOFF,Bo Horvat faceoff won against Matty Beniers,2022-12-23T05:03:12Z,3,03:40,16:20,2,4,23.0,Vancouver Canucks,VAN
+242,23,55,Vancouver Canucks,Seattle Kraken,2022020530398,2022020530,Shot,398,SHOT,Quinn Hughes Wrist Shot saved by Martin Jones,2022-12-23T05:03:27Z,3,03:55,16:05,2,4,23.0,Vancouver Canucks,VAN
+243,23,55,Vancouver Canucks,Seattle Kraken,2022020530285,2022020530,Hit,285,HIT,Bo Horvat hit Vince Dunn,2022-12-23T05:03:30Z,3,03:58,16:02,2,4,23.0,Vancouver Canucks,VAN
+244,23,55,Vancouver Canucks,Seattle Kraken,2022020530399,2022020530,Missed Shot,399,MISSED_SHOT,Jordan Eberle Wide of Net Spencer Martin,2022-12-23T05:03:42Z,3,04:10,15:50,2,4,55.0,Seattle Kraken,SEA
+245,23,55,Vancouver Canucks,Seattle Kraken,2022020530286,2022020530,Stoppage,286,STOP,Puck in Crowd,2022-12-23T05:03:46Z,3,04:14,15:46,2,4,,,
+246,23,55,Vancouver Canucks,Seattle Kraken,2022020530427,2022020530,Faceoff,427,FACEOFF,J.T. Miller faceoff won against Ryan Donato,2022-12-23T05:04:18Z,3,04:14,15:46,2,4,23.0,Vancouver Canucks,VAN
+247,23,55,Vancouver Canucks,Seattle Kraken,2022020530400,2022020530,Blocked Shot,400,BLOCKED_SHOT,Kyle Burroughs shot blocked shot by Jamie Oleksiak,2022-12-23T05:04:34Z,3,04:30,15:30,2,4,55.0,Seattle Kraken,SEA
+248,23,55,Vancouver Canucks,Seattle Kraken,2022020530651,2022020530,Blocked Shot,651,BLOCKED_SHOT,Conor Garland shot blocked shot by Jamie Oleksiak,2022-12-23T05:04:50Z,3,04:46,15:14,2,4,55.0,Seattle Kraken,SEA
+249,23,55,Vancouver Canucks,Seattle Kraken,2022020530652,2022020530,Goal,652,GOAL,"Andrei Kuzmenko (14) Wrist Shot, assists: Lane Pederson (1), Elias Pettersson (23)",2022-12-23T05:05:17Z,3,05:13,14:47,3,4,23.0,Vancouver Canucks,VAN
+250,23,55,Vancouver Canucks,Seattle Kraken,2022020530428,2022020530,Faceoff,428,FACEOFF,Bo Horvat faceoff won against Alex Wennberg,2022-12-23T05:06:02Z,3,05:13,14:47,3,4,23.0,Vancouver Canucks,VAN
+251,23,55,Vancouver Canucks,Seattle Kraken,2022020530653,2022020530,Shot,653,SHOT,Oliver Bjorkstrand Wrist Shot saved by Spencer Martin,2022-12-23T05:06:14Z,3,05:25,14:35,3,4,55.0,Seattle Kraken,SEA
+252,23,55,Vancouver Canucks,Seattle Kraken,2022020530657,2022020530,Shot,657,SHOT,Bo Horvat Wrist Shot saved by Martin Jones,2022-12-23T05:06:50Z,3,06:01,13:59,3,4,23.0,Vancouver Canucks,VAN
+253,23,55,Vancouver Canucks,Seattle Kraken,2022020530655,2022020530,Missed Shot,655,MISSED_SHOT,Tyler Myers Wide of Net Martin Jones,2022-12-23T05:06:53Z,3,06:04,13:56,3,4,23.0,Vancouver Canucks,VAN
+254,23,55,Vancouver Canucks,Seattle Kraken,2022020530429,2022020530,Giveaway,429,GIVEAWAY,Giveaway by Tyler Myers,2022-12-23T05:07:04Z,3,06:15,13:45,3,4,23.0,Vancouver Canucks,VAN
+255,23,55,Vancouver Canucks,Seattle Kraken,2022020530656,2022020530,Goal,656,GOAL,"Daniel Sprong (10) Tip-In, assists: Brandon Tanev (11)",2022-12-23T05:07:06Z,3,06:17,13:43,3,5,55.0,Seattle Kraken,SEA
+256,23,55,Vancouver Canucks,Seattle Kraken,2022020530430,2022020530,Faceoff,430,FACEOFF,Morgan Geekie faceoff won against Curtis Lazar,2022-12-23T05:07:47Z,3,06:17,13:43,3,5,55.0,Seattle Kraken,SEA
+257,23,55,Vancouver Canucks,Seattle Kraken,2022020530287,2022020530,Stoppage,287,STOP,Puck in Crowd,2022-12-23T05:08:07Z,3,06:37,13:23,3,5,,,
+258,23,55,Vancouver Canucks,Seattle Kraken,2022020530431,2022020530,Faceoff,431,FACEOFF,Matty Beniers faceoff won against J.T. Miller,2022-12-23T05:10:17Z,3,06:37,13:23,3,5,55.0,Seattle Kraken,SEA
+259,23,55,Vancouver Canucks,Seattle Kraken,2022020530432,2022020530,Takeaway,432,TAKEAWAY,Takeaway by Conor Garland,2022-12-23T05:10:46Z,3,07:06,12:54,3,5,23.0,Vancouver Canucks,VAN
+260,23,55,Vancouver Canucks,Seattle Kraken,2022020530658,2022020530,Blocked Shot,658,BLOCKED_SHOT,Conor Garland shot blocked shot by Justin Schultz,2022-12-23T05:10:49Z,3,07:09,12:51,3,5,55.0,Seattle Kraken,SEA
+261,23,55,Vancouver Canucks,Seattle Kraken,2022020530288,2022020530,Hit,288,HIT,Sheldon Dries hit Matty Beniers,2022-12-23T05:11:08Z,3,07:28,12:32,3,5,23.0,Vancouver Canucks,VAN
+262,23,55,Vancouver Canucks,Seattle Kraken,2022020530909,2022020530,Penalty,909,PENALTY,Yanni Gourde Slashing against Quinn Hughes,2022-12-23T05:11:58Z,3,08:18,11:42,3,5,55.0,Seattle Kraken,SEA
+263,23,55,Vancouver Canucks,Seattle Kraken,2022020530433,2022020530,Faceoff,433,FACEOFF,Bo Horvat faceoff won against Morgan Geekie,2022-12-23T05:12:30Z,3,08:18,11:42,3,5,23.0,Vancouver Canucks,VAN
+264,23,55,Vancouver Canucks,Seattle Kraken,2022020530659,2022020530,Shot,659,SHOT,J.T. Miller Wrist Shot saved by Martin Jones,2022-12-23T05:12:38Z,3,08:26,11:34,3,5,23.0,Vancouver Canucks,VAN
+265,23,55,Vancouver Canucks,Seattle Kraken,2022020530660,2022020530,Missed Shot,660,MISSED_SHOT,Bo Horvat Wide of Net Martin Jones,2022-12-23T05:12:52Z,3,08:40,11:20,3,5,23.0,Vancouver Canucks,VAN
+266,23,55,Vancouver Canucks,Seattle Kraken,2022020530661,2022020530,Goal,661,GOAL,"Brock Boeser (5) Tip-In, assists: Elias Pettersson (24), Quinn Hughes (28)",2022-12-23T05:13:04Z,3,08:52,11:08,4,5,23.0,Vancouver Canucks,VAN
+267,23,55,Vancouver Canucks,Seattle Kraken,2022020530434,2022020530,Faceoff,434,FACEOFF,Curtis Lazar faceoff won against Alex Wennberg,2022-12-23T05:13:48Z,3,08:52,11:08,4,5,23.0,Vancouver Canucks,VAN
+268,23,55,Vancouver Canucks,Seattle Kraken,2022020530289,2022020530,Hit,289,HIT,Carson Soucy hit Nils Aman,2022-12-23T05:14:00Z,3,09:04,10:56,4,5,55.0,Seattle Kraken,SEA
+269,23,55,Vancouver Canucks,Seattle Kraken,2022020530662,2022020530,Missed Shot,662,MISSED_SHOT,Jaden Schwartz Goalpost Spencer Martin,2022-12-23T05:14:02Z,3,09:06,10:54,4,5,55.0,Seattle Kraken,SEA
+270,23,55,Vancouver Canucks,Seattle Kraken,2022020530663,2022020530,Blocked Shot,663,BLOCKED_SHOT,Will Borgen shot blocked shot by Kyle Burroughs,2022-12-23T05:14:08Z,3,09:12,10:48,4,5,23.0,Vancouver Canucks,VAN
+271,23,55,Vancouver Canucks,Seattle Kraken,2022020530664,2022020530,Blocked Shot,664,BLOCKED_SHOT,Carson Soucy shot blocked shot by Curtis Lazar,2022-12-23T05:14:12Z,3,09:16,10:44,4,5,23.0,Vancouver Canucks,VAN
+272,23,55,Vancouver Canucks,Seattle Kraken,2022020530666,2022020530,Blocked Shot,666,BLOCKED_SHOT,Alex Wennberg shot blocked shot by Curtis Lazar,2022-12-23T05:14:30Z,3,09:34,10:26,4,5,23.0,Vancouver Canucks,VAN
+273,23,55,Vancouver Canucks,Seattle Kraken,2022020530667,2022020530,Shot,667,SHOT,Oliver Ekman-Larsson Wrist Shot saved by Martin Jones,2022-12-23T05:15:12Z,3,10:16,09:44,4,5,23.0,Vancouver Canucks,VAN
+274,23,55,Vancouver Canucks,Seattle Kraken,2022020530435,2022020530,Takeaway,435,TAKEAWAY,Takeaway by Jared McCann,2022-12-23T05:15:19Z,3,10:22,09:38,4,5,55.0,Seattle Kraken,SEA
+275,23,55,Vancouver Canucks,Seattle Kraken,2022020530668,2022020530,Blocked Shot,668,BLOCKED_SHOT,Jared McCann shot blocked shot by Luke Schenn,2022-12-23T05:15:29Z,3,10:32,09:28,4,5,23.0,Vancouver Canucks,VAN
+276,23,55,Vancouver Canucks,Seattle Kraken,2022020530290,2022020530,Hit,290,HIT,Brock Boeser hit Brandon Tanev,2022-12-23T05:15:43Z,3,10:46,09:14,4,5,23.0,Vancouver Canucks,VAN
+277,23,55,Vancouver Canucks,Seattle Kraken,2022020530669,2022020530,Missed Shot,669,MISSED_SHOT,Lane Pederson Wide of Net Martin Jones,2022-12-23T05:17:08Z,3,12:11,07:49,4,5,23.0,Vancouver Canucks,VAN
+278,23,55,Vancouver Canucks,Seattle Kraken,2022020530670,2022020530,Shot,670,SHOT,Vince Dunn Wrist Shot saved by Spencer Martin,2022-12-23T05:17:26Z,3,12:29,07:31,4,5,55.0,Seattle Kraken,SEA
+279,23,55,Vancouver Canucks,Seattle Kraken,2022020530291,2022020530,Stoppage,291,STOP,Icing,2022-12-23T05:17:43Z,3,12:46,07:14,4,5,,,
+280,23,55,Vancouver Canucks,Seattle Kraken,2022020530436,2022020530,Faceoff,436,FACEOFF,Alex Wennberg faceoff won against Elias Pettersson,2022-12-23T05:18:07Z,3,12:46,07:14,4,5,55.0,Seattle Kraken,SEA
+281,23,55,Vancouver Canucks,Seattle Kraken,2022020530671,2022020530,Shot,671,SHOT,Justin Schultz Slap Shot saved by Spencer Martin,2022-12-23T05:18:16Z,3,12:55,07:05,4,5,55.0,Seattle Kraken,SEA
+282,23,55,Vancouver Canucks,Seattle Kraken,2022020530672,2022020530,Shot,672,SHOT,Jaden Schwartz Wrist Shot saved by Spencer Martin,2022-12-23T05:18:40Z,3,13:19,06:41,4,5,55.0,Seattle Kraken,SEA
+283,23,55,Vancouver Canucks,Seattle Kraken,2022020530292,2022020530,Stoppage,292,STOP,Goalie Stopped,2022-12-23T05:18:40Z,3,13:20,06:40,4,5,,,
+284,23,55,Vancouver Canucks,Seattle Kraken,2022020530437,2022020530,Faceoff,437,FACEOFF,Bo Horvat faceoff won against Matty Beniers,2022-12-23T05:20:54Z,3,13:20,06:40,4,5,23.0,Vancouver Canucks,VAN
+285,23,55,Vancouver Canucks,Seattle Kraken,2022020530673,2022020530,Missed Shot,673,MISSED_SHOT,Matty Beniers Wide of Net Spencer Martin,2022-12-23T05:21:02Z,3,13:28,06:32,4,5,55.0,Seattle Kraken,SEA
+286,23,55,Vancouver Canucks,Seattle Kraken,2022020530438,2022020530,Takeaway,438,TAKEAWAY,Takeaway by Jordan Eberle,2022-12-23T05:21:10Z,3,13:36,06:24,4,5,55.0,Seattle Kraken,SEA
+287,23,55,Vancouver Canucks,Seattle Kraken,2022020530293,2022020530,Stoppage,293,STOP,Puck in Netting,2022-12-23T05:21:14Z,3,13:40,06:20,4,5,,,
+288,23,55,Vancouver Canucks,Seattle Kraken,2022020530674,2022020530,Shot,674,SHOT,Matty Beniers Slap Shot saved by Spencer Martin,2022-12-23T05:21:14Z,3,13:40,06:20,4,5,55.0,Seattle Kraken,SEA
+289,23,55,Vancouver Canucks,Seattle Kraken,2022020530440,2022020530,Faceoff,440,FACEOFF,J.T. Miller faceoff won against Alex Wennberg,2022-12-23T05:22:21Z,3,13:40,06:20,4,5,23.0,Vancouver Canucks,VAN
+290,23,55,Vancouver Canucks,Seattle Kraken,2022020530675,2022020530,Shot,675,SHOT,Oliver Bjorkstrand Wrist Shot saved by Spencer Martin,2022-12-23T05:22:35Z,3,13:54,06:06,4,5,55.0,Seattle Kraken,SEA
+291,23,55,Vancouver Canucks,Seattle Kraken,2022020530441,2022020530,Giveaway,441,GIVEAWAY,Giveaway by J.T. Miller,2022-12-23T05:23:05Z,3,14:24,05:36,4,5,23.0,Vancouver Canucks,VAN
+292,23,55,Vancouver Canucks,Seattle Kraken,2022020530294,2022020530,Stoppage,294,STOP,Puck Frozen,2022-12-23T05:23:50Z,3,15:08,04:52,4,5,,,
+293,23,55,Vancouver Canucks,Seattle Kraken,2022020530676,2022020530,Missed Shot,676,MISSED_SHOT,Oliver Ekman-Larsson Wide of Net Martin Jones,2022-12-23T05:23:50Z,3,15:08,04:52,4,5,23.0,Vancouver Canucks,VAN
+294,23,55,Vancouver Canucks,Seattle Kraken,2022020530443,2022020530,Faceoff,443,FACEOFF,Bo Horvat faceoff won against Matty Beniers,2022-12-23T05:25:59Z,3,15:08,04:52,4,5,23.0,Vancouver Canucks,VAN
+295,23,55,Vancouver Canucks,Seattle Kraken,2022020530677,2022020530,Blocked Shot,677,BLOCKED_SHOT,Brock Boeser shot blocked shot by Adam Larsson,2022-12-23T05:26:03Z,3,15:12,04:48,4,5,55.0,Seattle Kraken,SEA
+296,23,55,Vancouver Canucks,Seattle Kraken,2022020530444,2022020530,Giveaway,444,GIVEAWAY,Giveaway by Bo Horvat,2022-12-23T05:26:42Z,3,15:51,04:09,4,5,23.0,Vancouver Canucks,VAN
+297,23,55,Vancouver Canucks,Seattle Kraken,2022020530295,2022020530,Hit,295,HIT,Luke Schenn hit Jaden Schwartz,2022-12-23T05:27:16Z,3,16:25,03:35,4,5,23.0,Vancouver Canucks,VAN
+298,23,55,Vancouver Canucks,Seattle Kraken,2022020530296,2022020530,Stoppage,296,STOP,Icing,2022-12-23T05:27:18Z,3,16:27,03:33,4,5,,,
+299,23,55,Vancouver Canucks,Seattle Kraken,2022020530445,2022020530,Faceoff,445,FACEOFF,J.T. Miller faceoff won against Alex Wennberg,2022-12-23T05:28:06Z,3,16:27,03:33,4,5,23.0,Vancouver Canucks,VAN
+300,23,55,Vancouver Canucks,Seattle Kraken,2022020530678,2022020530,Missed Shot,678,MISSED_SHOT,Conor Garland Wide of Net Martin Jones,2022-12-23T05:28:13Z,3,16:34,03:26,4,5,23.0,Vancouver Canucks,VAN
+301,23,55,Vancouver Canucks,Seattle Kraken,2022020530679,2022020530,Shot,679,SHOT,J.T. Miller Tip-In saved by Martin Jones,2022-12-23T05:28:22Z,3,16:43,03:17,4,5,23.0,Vancouver Canucks,VAN
+302,23,55,Vancouver Canucks,Seattle Kraken,2022020530680,2022020530,Blocked Shot,680,BLOCKED_SHOT,Conor Garland shot blocked shot by Jamie Oleksiak,2022-12-23T05:28:26Z,3,16:47,03:13,4,5,55.0,Seattle Kraken,SEA
+303,23,55,Vancouver Canucks,Seattle Kraken,2022020530681,2022020530,Shot,681,SHOT,Conor Garland Wrist Shot saved by Martin Jones,2022-12-23T05:28:42Z,3,17:03,02:57,4,5,23.0,Vancouver Canucks,VAN
+304,23,55,Vancouver Canucks,Seattle Kraken,2022020530297,2022020530,Stoppage,297,STOP,Goalie Stopped,2022-12-23T05:28:43Z,3,17:04,02:56,4,5,,,
+305,23,55,Vancouver Canucks,Seattle Kraken,2022020530446,2022020530,Faceoff,446,FACEOFF,Morgan Geekie faceoff won against Elias Pettersson,2022-12-23T05:29:12Z,3,17:04,02:56,4,5,55.0,Seattle Kraken,SEA
+306,23,55,Vancouver Canucks,Seattle Kraken,2022020530298,2022020530,Stoppage,298,STOP,Puck in Crowd,2022-12-23T05:29:30Z,3,17:22,02:38,4,5,,,
+307,23,55,Vancouver Canucks,Seattle Kraken,2022020530682,2022020530,Blocked Shot,682,BLOCKED_SHOT,Lane Pederson shot blocked shot by Will Borgen,2022-12-23T05:29:30Z,3,17:22,02:38,4,5,55.0,Seattle Kraken,SEA
+308,23,55,Vancouver Canucks,Seattle Kraken,2022020530447,2022020530,Faceoff,447,FACEOFF,Bo Horvat faceoff won against Matty Beniers,2022-12-23T05:30:02Z,3,17:22,02:38,4,5,23.0,Vancouver Canucks,VAN
+309,23,55,Vancouver Canucks,Seattle Kraken,2022020530299,2022020530,Stoppage,299,STOP,Goalie Stopped,2022-12-23T05:30:17Z,3,17:37,02:23,4,5,,,
+310,23,55,Vancouver Canucks,Seattle Kraken,2022020530683,2022020530,Shot,683,SHOT,Quinn Hughes Wrist Shot saved by Martin Jones,2022-12-23T05:30:17Z,3,17:37,02:23,4,5,23.0,Vancouver Canucks,VAN
+311,23,55,Vancouver Canucks,Seattle Kraken,2022020530448,2022020530,Faceoff,448,FACEOFF,Bo Horvat faceoff won against Morgan Geekie,2022-12-23T05:30:53Z,3,17:37,02:23,4,5,23.0,Vancouver Canucks,VAN
+312,23,55,Vancouver Canucks,Seattle Kraken,2022020530684,2022020530,Shot,684,SHOT,Elias Pettersson Wrist Shot saved by Martin Jones,2022-12-23T05:31:03Z,3,17:47,02:13,4,5,23.0,Vancouver Canucks,VAN
+313,23,55,Vancouver Canucks,Seattle Kraken,2022020530685,2022020530,Missed Shot,685,MISSED_SHOT,Bo Horvat Goalpost Martin Jones,2022-12-23T05:31:06Z,3,17:50,02:10,4,5,23.0,Vancouver Canucks,VAN
+314,23,55,Vancouver Canucks,Seattle Kraken,2022020530686,2022020530,Missed Shot,686,MISSED_SHOT,Quinn Hughes Wide of Net Martin Jones,2022-12-23T05:31:14Z,3,17:58,02:02,4,5,23.0,Vancouver Canucks,VAN
+315,23,55,Vancouver Canucks,Seattle Kraken,2022020530687,2022020530,Shot,687,SHOT,Brock Boeser Wrist Shot saved by Martin Jones,2022-12-23T05:31:20Z,3,18:04,01:56,4,5,23.0,Vancouver Canucks,VAN
+316,23,55,Vancouver Canucks,Seattle Kraken,2022020530688,2022020530,Shot,688,SHOT,Elias Pettersson Slap Shot saved by Martin Jones,2022-12-23T05:31:48Z,3,18:32,01:28,4,5,23.0,Vancouver Canucks,VAN
+317,23,55,Vancouver Canucks,Seattle Kraken,2022020530689,2022020530,Blocked Shot,689,BLOCKED_SHOT,Quinn Hughes shot blocked shot by Vince Dunn,2022-12-23T05:31:54Z,3,18:38,01:22,4,5,55.0,Seattle Kraken,SEA
+318,23,55,Vancouver Canucks,Seattle Kraken,2022020530450,2022020530,Giveaway,450,GIVEAWAY,Giveaway by Vince Dunn,2022-12-23T05:31:55Z,3,18:39,01:21,4,5,55.0,Seattle Kraken,SEA
+319,23,55,Vancouver Canucks,Seattle Kraken,2022020530300,2022020530,Stoppage,300,STOP,Home Timeout,2022-12-23T05:31:56Z,3,18:40,01:20,4,5,,,
+320,23,55,Vancouver Canucks,Seattle Kraken,2022020530691,2022020530,Goal,691,GOAL,"Elias Pettersson (15) Snap Shot, assists: J.T. Miller (17)",2022-12-23T05:31:56Z,3,18:40,01:20,5,5,23.0,Vancouver Canucks,VAN
+321,23,55,Vancouver Canucks,Seattle Kraken,2022020530801,2022020530,Faceoff,801,FACEOFF,Alex Wennberg faceoff won against Bo Horvat,2022-12-23T05:33:32Z,3,18:40,01:20,5,5,55.0,Seattle Kraken,SEA
+322,23,55,Vancouver Canucks,Seattle Kraken,2022020530751,2022020530,Hit,751,HIT,Luke Schenn hit Andre Burakovsky,2022-12-23T05:33:42Z,3,18:50,01:10,5,5,23.0,Vancouver Canucks,VAN
+323,23,55,Vancouver Canucks,Seattle Kraken,2022020530692,2022020530,Missed Shot,692,MISSED_SHOT,Justin Schultz Goalpost Spencer Martin,2022-12-23T05:34:14Z,3,19:22,00:38,5,5,55.0,Seattle Kraken,SEA
+324,23,55,Vancouver Canucks,Seattle Kraken,2022020530802,2022020530,Giveaway,802,GIVEAWAY,Giveaway by Conor Garland,2022-12-23T05:34:20Z,3,19:28,00:32,5,5,23.0,Vancouver Canucks,VAN
+325,23,55,Vancouver Canucks,Seattle Kraken,2022020530803,2022020530,Giveaway,803,GIVEAWAY,Giveaway by Luke Schenn,2022-12-23T05:34:30Z,3,19:38,00:22,5,5,23.0,Vancouver Canucks,VAN
+326,23,55,Vancouver Canucks,Seattle Kraken,2022020530804,2022020530,Giveaway,804,GIVEAWAY,Giveaway by Vince Dunn,2022-12-23T05:34:43Z,3,19:51,00:09,5,5,55.0,Seattle Kraken,SEA
+327,23,55,Vancouver Canucks,Seattle Kraken,2022020530693,2022020530,Blocked Shot,693,BLOCKED_SHOT,Ilya Mikheyev shot blocked shot by Adam Larsson,2022-12-23T05:34:49Z,3,19:57,00:03,5,5,55.0,Seattle Kraken,SEA
+328,23,55,Vancouver Canucks,Seattle Kraken,2022020530752,2022020530,Period End,752,PERIOD_END,End of 3rd Period,2022-12-23T05:34:52Z,3,20:00,00:00,5,5,,,
+329,23,55,Vancouver Canucks,Seattle Kraken,2022020530755,2022020530,Period Official,755,PERIOD_OFFICIAL,Period Official,2022-12-23T05:35:03Z,3,20:00,00:00,5,5,,,
+330,23,55,Vancouver Canucks,Seattle Kraken,2022020530756,2022020530,Period Ready,756,PERIOD_READY,Period Ready,2022-12-23T05:36:42Z,4,00:00,05:00,5,5,,,
+331,23,55,Vancouver Canucks,Seattle Kraken,2022020530805,2022020530,Period Start,805,PERIOD_START,Period Start,2022-12-23T05:37:19Z,4,00:00,05:00,5,5,,,
+332,23,55,Vancouver Canucks,Seattle Kraken,2022020530806,2022020530,Faceoff,806,FACEOFF,Alex Wennberg faceoff won against Bo Horvat,2022-12-23T05:37:19Z,4,00:00,05:00,5,5,55.0,Seattle Kraken,SEA
+333,23,55,Vancouver Canucks,Seattle Kraken,2022020530694,2022020530,Shot,694,SHOT,Matty Beniers Wrist Shot saved by Spencer Martin,2022-12-23T05:38:03Z,4,00:44,04:16,5,5,55.0,Seattle Kraken,SEA
+334,23,55,Vancouver Canucks,Seattle Kraken,2022020530757,2022020530,Stoppage,757,STOP,Offside,2022-12-23T05:38:12Z,4,00:53,04:07,5,5,,,
+335,23,55,Vancouver Canucks,Seattle Kraken,2022020530807,2022020530,Faceoff,807,FACEOFF,J.T. Miller faceoff won against Matty Beniers,2022-12-23T05:38:48Z,4,00:53,04:07,5,5,23.0,Vancouver Canucks,VAN
+336,23,55,Vancouver Canucks,Seattle Kraken,2022020530695,2022020530,Missed Shot,695,MISSED_SHOT,J.T. Miller Goalpost Martin Jones,2022-12-23T05:39:07Z,4,01:12,03:48,5,5,23.0,Vancouver Canucks,VAN
+337,23,55,Vancouver Canucks,Seattle Kraken,2022020530696,2022020530,Shot,696,SHOT,Jordan Eberle Backhand saved by Spencer Martin,2022-12-23T05:39:33Z,4,01:38,03:22,5,5,55.0,Seattle Kraken,SEA
+338,23,55,Vancouver Canucks,Seattle Kraken,2022020530758,2022020530,Hit,758,HIT,Vince Dunn hit Quinn Hughes,2022-12-23T05:39:36Z,4,01:41,03:19,5,5,55.0,Seattle Kraken,SEA
+339,23,55,Vancouver Canucks,Seattle Kraken,2022020530697,2022020530,Missed Shot,697,MISSED_SHOT,Elias Pettersson Goalpost Martin Jones,2022-12-23T05:39:43Z,4,01:48,03:12,5,5,23.0,Vancouver Canucks,VAN
+340,23,55,Vancouver Canucks,Seattle Kraken,2022020530698,2022020530,Missed Shot,698,MISSED_SHOT,Quinn Hughes Hit Crossbar Martin Jones,2022-12-23T05:39:52Z,4,01:57,03:03,5,5,23.0,Vancouver Canucks,VAN
+341,23,55,Vancouver Canucks,Seattle Kraken,20220205301078,2022020530,Penalty,1078,PENALTY,Jordan Eberle Holding against Bo Horvat,2022-12-23T05:41:55Z,4,04:00,01:00,5,5,55.0,Seattle Kraken,SEA
+342,23,55,Vancouver Canucks,Seattle Kraken,2022020530808,2022020530,Faceoff,808,FACEOFF,Alex Wennberg faceoff won against Bo Horvat,2022-12-23T05:43:01Z,4,04:00,01:00,5,5,55.0,Seattle Kraken,SEA
+343,23,55,Vancouver Canucks,Seattle Kraken,2022020530699,2022020530,Shot,699,SHOT,Quinn Hughes Slap Shot saved by Martin Jones,2022-12-23T05:43:15Z,4,04:13,00:47,5,5,23.0,Vancouver Canucks,VAN
+344,23,55,Vancouver Canucks,Seattle Kraken,2022020530760,2022020530,Stoppage,760,STOP,Goalie Stopped,2022-12-23T05:43:15Z,4,04:13,00:47,5,5,,,
+345,23,55,Vancouver Canucks,Seattle Kraken,2022020530809,2022020530,Faceoff,809,FACEOFF,Bo Horvat faceoff won against Alex Wennberg,2022-12-23T05:43:35Z,4,04:13,00:47,5,5,23.0,Vancouver Canucks,VAN
+346,23,55,Vancouver Canucks,Seattle Kraken,2022020530700,2022020530,Missed Shot,700,MISSED_SHOT,J.T. Miller Wide of Net Martin Jones,2022-12-23T05:43:51Z,4,04:29,00:31,5,5,23.0,Vancouver Canucks,VAN
+347,23,55,Vancouver Canucks,Seattle Kraken,20220205301001,2022020530,Blocked Shot,1001,BLOCKED_SHOT,Elias Pettersson shot blocked shot by Alex Wennberg,2022-12-23T05:44:15Z,4,04:53,00:07,5,5,55.0,Seattle Kraken,SEA
+348,23,55,Vancouver Canucks,Seattle Kraken,2022020530762,2022020530,Period End,762,PERIOD_END,End of OT,2022-12-23T05:44:22Z,4,05:00,00:00,5,5,,,
+349,23,55,Vancouver Canucks,Seattle Kraken,2022020530765,2022020530,Period Official,765,PERIOD_OFFICIAL,Period Official,2022-12-23T05:44:46Z,4,05:00,00:00,5,5,,,
+350,23,55,Vancouver Canucks,Seattle Kraken,2022020530766,2022020530,Period Ready,766,PERIOD_READY,Period Ready,2022-12-23T05:45:48Z,5,00:00,00:00,5,5,,,
+351,23,55,Vancouver Canucks,Seattle Kraken,2022020530767,2022020530,Period Start,767,PERIOD_START,Period Start,2022-12-23T05:45:56Z,5,00:00,00:00,5,5,,,
+352,23,55,Vancouver Canucks,Seattle Kraken,20220205301002,2022020530,Shot,1002,SHOT,Ryan Donato Backhand saved by Spencer Martin,2022-12-23T05:46:13Z,5,00:00,00:00,5,5,55.0,Seattle Kraken,SEA
+353,23,55,Vancouver Canucks,Seattle Kraken,20220205301003,2022020530,Shot,1003,SHOT,Andrei Kuzmenko Wrist Shot saved by Martin Jones,2022-12-23T05:46:46Z,5,00:00,00:00,5,5,23.0,Vancouver Canucks,VAN
+354,23,55,Vancouver Canucks,Seattle Kraken,20220205301004,2022020530,Shot,1004,SHOT,Daniel Sprong Wrist Shot saved by Spencer Martin,2022-12-23T05:47:13Z,5,00:00,00:00,5,5,55.0,Seattle Kraken,SEA
+355,23,55,Vancouver Canucks,Seattle Kraken,20220205301005,2022020530,Goal,1005,GOAL,J.T. Miller - Wrist Shot,2022-12-23T05:47:47Z,5,00:00,00:00,5,5,23.0,Vancouver Canucks,VAN
+356,23,55,Vancouver Canucks,Seattle Kraken,20220205301006,2022020530,Goal,1006,GOAL,Jordan Eberle - Wrist Shot,2022-12-23T05:48:17Z,5,00:00,00:00,5,5,55.0,Seattle Kraken,SEA
+357,23,55,Vancouver Canucks,Seattle Kraken,2022020530768,2022020530,Period End,768,PERIOD_END,End of OT,2022-12-23T05:48:47Z,5,00:00,00:00,5,5,,,
+358,23,55,Vancouver Canucks,Seattle Kraken,20220205301007,2022020530,Goal,1007,GOAL,Elias Pettersson - Wrist Shot,2022-12-23T05:48:47Z,5,00:00,00:00,5,5,23.0,Vancouver Canucks,VAN
+359,23,55,Vancouver Canucks,Seattle Kraken,20220205301008,2022020530,Shootout Complete,1008,SHOOTOUT_COMPLETE,End of Shootout,2022-12-23T05:48:47Z,5,00:00,00:00,5,5,,,
+360,23,55,Vancouver Canucks,Seattle Kraken,2022020530771,2022020530,Period Official,771,PERIOD_OFFICIAL,Period Official,2022-12-23T05:49:20Z,5,00:00,00:00,5,5,,,
+361,23,55,Vancouver Canucks,Seattle Kraken,2022020530772,2022020530,Game End,772,GAME_END,Game End,2022-12-23T05:49:24Z,5,00:00,00:00,5,5,,,
+362,23,55,Vancouver Canucks,Seattle Kraken,2022020530773,2022020530,Game Official,773,GAME_OFFICIAL,Game Official,2022-12-23T05:51:53Z,5,00:00,00:00,5,5,,,

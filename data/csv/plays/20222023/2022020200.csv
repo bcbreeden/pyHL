@@ -1,0 +1,307 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,9,23,Ottawa Senators,Vancouver Canucks,20220202001,2022020200,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-11-08T23:00:27Z,1,00:00,20:00,0,0,,,
+1,9,23,Ottawa Senators,Vancouver Canucks,20220202005,2022020200,Period Ready,5,PERIOD_READY,Period Ready,2022-11-09T00:06:00Z,1,00:00,20:00,0,0,,,
+2,9,23,Ottawa Senators,Vancouver Canucks,2022020200101,2022020200,Period Start,101,PERIOD_START,Period Start,2022-11-09T00:08:15Z,1,00:00,20:00,0,0,,,
+3,9,23,Ottawa Senators,Vancouver Canucks,2022020200102,2022020200,Faceoff,102,FACEOFF,Tim Stützle faceoff won against J.T. Miller,2022-11-09T00:08:15Z,1,00:00,20:00,0,0,9.0,Ottawa Senators,OTT
+4,9,23,Ottawa Senators,Vancouver Canucks,20220202008,2022020200,Shot,8,SHOT,Thomas Chabot Wrist Shot saved by Spencer Martin,2022-11-09T00:08:29Z,1,00:14,19:46,0,0,9.0,Ottawa Senators,OTT
+5,9,23,Ottawa Senators,Vancouver Canucks,2022020200103,2022020200,Hit,103,HIT,Brock Boeser hit Thomas Chabot,2022-11-09T00:08:42Z,1,00:27,19:33,0,0,23.0,Vancouver Canucks,VAN
+6,9,23,Ottawa Senators,Vancouver Canucks,20220202009,2022020200,Goal,9,GOAL,"Drake Batherson (4) Wrist Shot, assists: Alex DeBrincat (8), Jacob Bernard-Docker (1)",2022-11-09T00:09:06Z,1,00:50,19:10,1,0,9.0,Ottawa Senators,OTT
+7,9,23,Ottawa Senators,Vancouver Canucks,2022020200104,2022020200,Faceoff,104,FACEOFF,Derick Brassard faceoff won against Elias Pettersson,2022-11-09T00:09:53Z,1,00:50,19:10,1,0,9.0,Ottawa Senators,OTT
+8,9,23,Ottawa Senators,Vancouver Canucks,2022020200105,2022020200,Hit,105,HIT,Derick Brassard hit Oliver Ekman-Larsson,2022-11-09T00:10:06Z,1,01:03,18:57,1,0,9.0,Ottawa Senators,OTT
+9,9,23,Ottawa Senators,Vancouver Canucks,202202020011,2022020200,Blocked Shot,11,BLOCKED_SHOT,Jake Sanderson shot blocked shot by Tyler Myers,2022-11-09T00:10:22Z,1,01:19,18:41,1,0,23.0,Vancouver Canucks,VAN
+10,9,23,Ottawa Senators,Vancouver Canucks,2022020200151,2022020200,Stoppage,151,STOP,Referee or Linesman,2022-11-09T00:10:23Z,1,01:20,18:40,1,0,,,
+11,9,23,Ottawa Senators,Vancouver Canucks,2022020200106,2022020200,Faceoff,106,FACEOFF,Bo Horvat faceoff won against Shane Pinto,2022-11-09T00:10:58Z,1,01:20,18:40,1,0,23.0,Vancouver Canucks,VAN
+12,9,23,Ottawa Senators,Vancouver Canucks,2022020200152,2022020200,Giveaway,152,GIVEAWAY,Giveaway by Spencer Martin,2022-11-09T00:11:12Z,1,01:34,18:26,1,0,23.0,Vancouver Canucks,VAN
+13,9,23,Ottawa Senators,Vancouver Canucks,2022020200107,2022020200,Hit,107,HIT,Dakota Joshua hit Travis Hamonic,2022-11-09T00:11:51Z,1,02:13,17:47,1,0,23.0,Vancouver Canucks,VAN
+14,9,23,Ottawa Senators,Vancouver Canucks,2022020200108,2022020200,Hit,108,HIT,Mark Kastelic hit Luke Schenn,2022-11-09T00:12:02Z,1,02:24,17:36,1,0,9.0,Ottawa Senators,OTT
+15,9,23,Ottawa Senators,Vancouver Canucks,202202020012,2022020200,Shot,12,SHOT,Jake Sanderson Slap Shot saved by Spencer Martin,2022-11-09T00:12:14Z,1,02:36,17:24,1,0,9.0,Ottawa Senators,OTT
+16,9,23,Ottawa Senators,Vancouver Canucks,2022020200109,2022020200,Hit,109,HIT,Luke Schenn hit Mark Kastelic,2022-11-09T00:12:16Z,1,02:38,17:22,1,0,23.0,Vancouver Canucks,VAN
+17,9,23,Ottawa Senators,Vancouver Canucks,2022020200110,2022020200,Hit,110,HIT,Nils Aman hit Austin Watson,2022-11-09T00:12:16Z,1,02:38,17:22,1,0,23.0,Vancouver Canucks,VAN
+18,9,23,Ottawa Senators,Vancouver Canucks,2022020200153,2022020200,Giveaway,153,GIVEAWAY,Giveaway by Quinn Hughes,2022-11-09T00:12:21Z,1,02:43,17:17,1,0,23.0,Vancouver Canucks,VAN
+19,9,23,Ottawa Senators,Vancouver Canucks,202202020013,2022020200,Shot,13,SHOT,Jack Studnicka Wrist Shot saved by Cam Talbot,2022-11-09T00:12:28Z,1,02:50,17:10,1,0,23.0,Vancouver Canucks,VAN
+20,9,23,Ottawa Senators,Vancouver Canucks,2022020200154,2022020200,Stoppage,154,STOP,Icing,2022-11-09T00:12:46Z,1,03:08,16:52,1,0,,,
+21,9,23,Ottawa Senators,Vancouver Canucks,2022020200111,2022020200,Faceoff,111,FACEOFF,J.T. Miller faceoff won against Tim Stützle,2022-11-09T00:13:12Z,1,03:08,16:52,1,0,23.0,Vancouver Canucks,VAN
+22,9,23,Ottawa Senators,Vancouver Canucks,202202020014,2022020200,Shot,14,SHOT,Claude Giroux Wrist Shot saved by Spencer Martin,2022-11-09T00:13:28Z,1,03:24,16:36,1,0,9.0,Ottawa Senators,OTT
+23,9,23,Ottawa Senators,Vancouver Canucks,2022020200112,2022020200,Hit,112,HIT,Oliver Ekman-Larsson hit Brady Tkachuk,2022-11-09T00:13:37Z,1,03:33,16:27,1,0,23.0,Vancouver Canucks,VAN
+24,9,23,Ottawa Senators,Vancouver Canucks,2022020200155,2022020200,Giveaway,155,GIVEAWAY,Giveaway by Tyler Myers,2022-11-09T00:13:40Z,1,03:36,16:24,1,0,23.0,Vancouver Canucks,VAN
+25,9,23,Ottawa Senators,Vancouver Canucks,2022020200113,2022020200,Hit,113,HIT,Tyler Myers hit Claude Giroux,2022-11-09T00:13:49Z,1,03:45,16:15,1,0,23.0,Vancouver Canucks,VAN
+26,9,23,Ottawa Senators,Vancouver Canucks,202202020015,2022020200,Missed Shot,15,MISSED_SHOT,Alex DeBrincat Over Net Spencer Martin,2022-11-09T00:14:16Z,1,04:12,15:48,1,0,9.0,Ottawa Senators,OTT
+27,9,23,Ottawa Senators,Vancouver Canucks,2022020200156,2022020200,Giveaway,156,GIVEAWAY,Giveaway by Ethan Bear,2022-11-09T00:14:16Z,1,04:12,15:48,1,0,23.0,Vancouver Canucks,VAN
+28,9,23,Ottawa Senators,Vancouver Canucks,202202020016,2022020200,Shot,16,SHOT,Alex DeBrincat Wrist Shot saved by Spencer Martin,2022-11-09T00:14:25Z,1,04:21,15:39,1,0,9.0,Ottawa Senators,OTT
+29,9,23,Ottawa Senators,Vancouver Canucks,2022020200157,2022020200,Stoppage,157,STOP,Goalie Stopped,2022-11-09T00:14:26Z,1,04:22,15:38,1,0,,,
+30,9,23,Ottawa Senators,Vancouver Canucks,2022020200114,2022020200,Faceoff,114,FACEOFF,Derick Brassard faceoff won against Bo Horvat,2022-11-09T00:14:59Z,1,04:22,15:38,1,0,9.0,Ottawa Senators,OTT
+31,9,23,Ottawa Senators,Vancouver Canucks,202202020018,2022020200,Shot,18,SHOT,Drake Batherson Wrist Shot saved by Spencer Martin,2022-11-09T00:15:33Z,1,04:55,15:05,1,0,9.0,Ottawa Senators,OTT
+32,9,23,Ottawa Senators,Vancouver Canucks,202202020096,2022020200,Penalty,96,PENALTY,Vasily Podkolzin Hooking against Derick Brassard,2022-11-09T00:15:33Z,1,04:55,15:05,1,0,23.0,Vancouver Canucks,VAN
+33,9,23,Ottawa Senators,Vancouver Canucks,2022020200158,2022020200,Stoppage,158,STOP,Goalie Stopped,2022-11-09T00:15:33Z,1,04:55,15:05,1,0,,,
+34,9,23,Ottawa Senators,Vancouver Canucks,2022020200115,2022020200,Faceoff,115,FACEOFF,Bo Horvat faceoff won against Brady Tkachuk,2022-11-09T00:16:13Z,1,04:55,15:05,1,0,23.0,Vancouver Canucks,VAN
+35,9,23,Ottawa Senators,Vancouver Canucks,202202020019,2022020200,Blocked Shot,19,BLOCKED_SHOT,Jake Sanderson shot blocked shot by Ethan Bear,2022-11-09T00:16:58Z,1,05:40,14:20,1,0,23.0,Vancouver Canucks,VAN
+36,9,23,Ottawa Senators,Vancouver Canucks,2022020200159,2022020200,Takeaway,159,TAKEAWAY,Takeaway by Thomas Chabot,2022-11-09T00:17:03Z,1,05:45,14:15,1,0,9.0,Ottawa Senators,OTT
+37,9,23,Ottawa Senators,Vancouver Canucks,202202020020,2022020200,Blocked Shot,20,BLOCKED_SHOT,Jake Sanderson shot blocked shot by Ethan Bear,2022-11-09T00:17:10Z,1,05:52,14:08,1,0,23.0,Vancouver Canucks,VAN
+38,9,23,Ottawa Senators,Vancouver Canucks,202202020021,2022020200,Blocked Shot,21,BLOCKED_SHOT,Alex DeBrincat shot blocked shot by Quinn Hughes,2022-11-09T00:18:09Z,1,06:51,13:09,1,0,23.0,Vancouver Canucks,VAN
+39,9,23,Ottawa Senators,Vancouver Canucks,2022020200161,2022020200,Blocked Shot,161,BLOCKED_SHOT,Jake Sanderson shot blocked shot by Quinn Hughes,2022-11-09T00:18:10Z,1,06:52,13:08,1,0,23.0,Vancouver Canucks,VAN
+40,9,23,Ottawa Senators,Vancouver Canucks,202202020022,2022020200,Shot,22,SHOT,Brock Boeser Backhand saved by Cam Talbot,2022-11-09T00:18:33Z,1,07:15,12:45,1,0,23.0,Vancouver Canucks,VAN
+41,9,23,Ottawa Senators,Vancouver Canucks,2022020200116,2022020200,Hit,116,HIT,Tanner Pearson hit Mark Kastelic,2022-11-09T00:18:38Z,1,07:20,12:40,1,0,23.0,Vancouver Canucks,VAN
+42,9,23,Ottawa Senators,Vancouver Canucks,202202020023,2022020200,Shot,23,SHOT,Brock Boeser Wrist Shot saved by Cam Talbot,2022-11-09T00:18:45Z,1,07:27,12:33,1,0,23.0,Vancouver Canucks,VAN
+43,9,23,Ottawa Senators,Vancouver Canucks,2022020200162,2022020200,Stoppage,162,STOP,Goalie Stopped,2022-11-09T00:18:46Z,1,07:28,12:32,1,0,,,
+44,9,23,Ottawa Senators,Vancouver Canucks,2022020200117,2022020200,Faceoff,117,FACEOFF,Derick Brassard faceoff won against Bo Horvat,2022-11-09T00:21:03Z,1,07:28,12:32,1,0,9.0,Ottawa Senators,OTT
+45,9,23,Ottawa Senators,Vancouver Canucks,202202020024,2022020200,Missed Shot,24,MISSED_SHOT,Vasily Podkolzin Wide of Net Cam Talbot,2022-11-09T00:21:16Z,1,07:41,12:19,1,0,23.0,Vancouver Canucks,VAN
+46,9,23,Ottawa Senators,Vancouver Canucks,2022020200118,2022020200,Hit,118,HIT,Thomas Chabot hit Vasily Podkolzin,2022-11-09T00:21:29Z,1,07:54,12:06,1,0,9.0,Ottawa Senators,OTT
+47,9,23,Ottawa Senators,Vancouver Canucks,202202020025,2022020200,Missed Shot,25,MISSED_SHOT,Brady Tkachuk Wide of Net Spencer Martin,2022-11-09T00:21:53Z,1,08:18,11:42,1,0,9.0,Ottawa Senators,OTT
+48,9,23,Ottawa Senators,Vancouver Canucks,202202020026,2022020200,Shot,26,SHOT,Nikita Zaitsev Wrist Shot saved by Spencer Martin,2022-11-09T00:21:57Z,1,08:22,11:38,1,0,9.0,Ottawa Senators,OTT
+49,9,23,Ottawa Senators,Vancouver Canucks,2022020200163,2022020200,Shot,163,SHOT,Brady Tkachuk Snap Shot saved by Spencer Martin,2022-11-09T00:21:58Z,1,08:23,11:37,1,0,9.0,Ottawa Senators,OTT
+50,9,23,Ottawa Senators,Vancouver Canucks,2022020200233,2022020200,Penalty,233,PENALTY,Brady Tkachuk Tripping against Elias Pettersson,2022-11-09T00:22:10Z,1,08:35,11:25,1,0,9.0,Ottawa Senators,OTT
+51,9,23,Ottawa Senators,Vancouver Canucks,2022020200119,2022020200,Faceoff,119,FACEOFF,Mark Kastelic faceoff won against Bo Horvat,2022-11-09T00:22:51Z,1,08:35,11:25,1,0,9.0,Ottawa Senators,OTT
+52,9,23,Ottawa Senators,Vancouver Canucks,2022020200120,2022020200,Hit,120,HIT,Bo Horvat hit Jake Sanderson,2022-11-09T00:23:04Z,1,08:48,11:12,1,0,23.0,Vancouver Canucks,VAN
+53,9,23,Ottawa Senators,Vancouver Canucks,202202020027,2022020200,Shot,27,SHOT,Jake Sanderson Wrist Shot saved by Spencer Martin,2022-11-09T00:23:19Z,1,09:03,10:57,1,0,9.0,Ottawa Senators,OTT
+54,9,23,Ottawa Senators,Vancouver Canucks,202202020030,2022020200,Shot,30,SHOT,Mathieu Joseph Wrist Shot saved by Spencer Martin,2022-11-09T00:23:40Z,1,09:24,10:36,1,0,9.0,Ottawa Senators,OTT
+55,9,23,Ottawa Senators,Vancouver Canucks,202202020028,2022020200,Blocked Shot,28,BLOCKED_SHOT,J.T. Miller shot blocked shot by Nikita Zaitsev,2022-11-09T00:24:02Z,1,09:46,10:14,1,0,9.0,Ottawa Senators,OTT
+56,9,23,Ottawa Senators,Vancouver Canucks,202202020029,2022020200,Blocked Shot,29,BLOCKED_SHOT,Elias Pettersson shot blocked shot by Erik Brannstrom,2022-11-09T00:24:18Z,1,10:02,09:58,1,0,9.0,Ottawa Senators,OTT
+57,9,23,Ottawa Senators,Vancouver Canucks,2022020200164,2022020200,Blocked Shot,164,BLOCKED_SHOT,Quinn Hughes shot blocked shot by Austin Watson,2022-11-09T00:24:37Z,1,10:21,09:39,1,0,9.0,Ottawa Senators,OTT
+58,9,23,Ottawa Senators,Vancouver Canucks,2022020200165,2022020200,Shot,165,SHOT,Austin Watson Wrist Shot saved by Spencer Martin,2022-11-09T00:24:45Z,1,10:29,09:31,1,0,9.0,Ottawa Senators,OTT
+59,9,23,Ottawa Senators,Vancouver Canucks,2022020200166,2022020200,Stoppage,166,STOP,Offside,2022-11-09T00:24:53Z,1,10:37,09:23,1,0,,,
+60,9,23,Ottawa Senators,Vancouver Canucks,2022020200121,2022020200,Faceoff,121,FACEOFF,Derick Brassard faceoff won against Jack Studnicka,2022-11-09T00:27:11Z,1,10:37,09:23,1,0,9.0,Ottawa Senators,OTT
+61,9,23,Ottawa Senators,Vancouver Canucks,2022020200167,2022020200,Takeaway,167,TAKEAWAY,Takeaway by Tyler Myers,2022-11-09T00:27:26Z,1,10:52,09:08,1,0,23.0,Vancouver Canucks,VAN
+62,9,23,Ottawa Senators,Vancouver Canucks,2022020200168,2022020200,Stoppage,168,STOP,Hand Pass,2022-11-09T00:27:35Z,1,11:01,08:59,1,0,,,
+63,9,23,Ottawa Senators,Vancouver Canucks,2022020200122,2022020200,Faceoff,122,FACEOFF,J.T. Miller faceoff won against Tim Stützle,2022-11-09T00:28:05Z,1,11:01,08:59,1,0,23.0,Vancouver Canucks,VAN
+64,9,23,Ottawa Senators,Vancouver Canucks,2022020200123,2022020200,Hit,123,HIT,Tanner Pearson hit Nikita Zaitsev,2022-11-09T00:28:16Z,1,11:12,08:48,1,0,23.0,Vancouver Canucks,VAN
+65,9,23,Ottawa Senators,Vancouver Canucks,2022020200169,2022020200,Takeaway,169,TAKEAWAY,Takeaway by Tanner Pearson,2022-11-09T00:28:18Z,1,11:14,08:46,1,0,23.0,Vancouver Canucks,VAN
+66,9,23,Ottawa Senators,Vancouver Canucks,2022020200124,2022020200,Hit,124,HIT,Luke Schenn hit Tyler Motte,2022-11-09T00:28:59Z,1,11:55,08:05,1,0,23.0,Vancouver Canucks,VAN
+67,9,23,Ottawa Senators,Vancouver Canucks,202202020031,2022020200,Blocked Shot,31,BLOCKED_SHOT,Conor Garland shot blocked shot by Jake Sanderson,2022-11-09T00:29:15Z,1,12:11,07:49,1,0,9.0,Ottawa Senators,OTT
+68,9,23,Ottawa Senators,Vancouver Canucks,202202020032,2022020200,Missed Shot,32,MISSED_SHOT,Quinn Hughes Hit Crossbar Cam Talbot,2022-11-09T00:29:20Z,1,12:16,07:44,1,0,23.0,Vancouver Canucks,VAN
+69,9,23,Ottawa Senators,Vancouver Canucks,202202020033,2022020200,Blocked Shot,33,BLOCKED_SHOT,Thomas Chabot shot blocked shot by Luke Schenn,2022-11-09T00:29:42Z,1,12:38,07:22,1,0,23.0,Vancouver Canucks,VAN
+70,9,23,Ottawa Senators,Vancouver Canucks,2022020200170,2022020200,Missed Shot,170,MISSED_SHOT,Austin Watson Wide of Net Spencer Martin,2022-11-09T00:29:54Z,1,12:50,07:10,1,0,9.0,Ottawa Senators,OTT
+71,9,23,Ottawa Senators,Vancouver Canucks,2022020200125,2022020200,Hit,125,HIT,Austin Watson hit Oliver Ekman-Larsson,2022-11-09T00:29:57Z,1,12:53,07:07,1,0,9.0,Ottawa Senators,OTT
+72,9,23,Ottawa Senators,Vancouver Canucks,2022020200171,2022020200,Takeaway,171,TAKEAWAY,Takeaway by Thomas Chabot,2022-11-09T00:30:28Z,1,13:24,06:36,1,0,9.0,Ottawa Senators,OTT
+73,9,23,Ottawa Senators,Vancouver Canucks,202202020034,2022020200,Shot,34,SHOT,Ethan Bear Wrist Shot saved by Cam Talbot,2022-11-09T00:30:51Z,1,13:47,06:13,1,0,23.0,Vancouver Canucks,VAN
+74,9,23,Ottawa Senators,Vancouver Canucks,2022020200172,2022020200,Blocked Shot,172,BLOCKED_SHOT,Ethan Bear shot blocked shot by Alex DeBrincat,2022-11-09T00:30:59Z,1,13:55,06:05,1,0,9.0,Ottawa Senators,OTT
+75,9,23,Ottawa Senators,Vancouver Canucks,202202020035,2022020200,Missed Shot,35,MISSED_SHOT,Erik Brannstrom Over Net Spencer Martin,2022-11-09T00:31:29Z,1,14:25,05:35,1,0,9.0,Ottawa Senators,OTT
+76,9,23,Ottawa Senators,Vancouver Canucks,202202020036,2022020200,Blocked Shot,36,BLOCKED_SHOT,Travis Hamonic shot blocked shot by J.T. Miller,2022-11-09T00:31:44Z,1,14:40,05:20,1,0,23.0,Vancouver Canucks,VAN
+77,9,23,Ottawa Senators,Vancouver Canucks,2022020200173,2022020200,Shot,173,SHOT,Travis Hamonic Wrist Shot saved by Spencer Martin,2022-11-09T00:31:48Z,1,14:44,05:16,1,0,9.0,Ottawa Senators,OTT
+78,9,23,Ottawa Senators,Vancouver Canucks,202202020037,2022020200,Shot,37,SHOT,Jacob Bernard-Docker Slap Shot saved by Spencer Martin,2022-11-09T00:32:17Z,1,15:13,04:47,1,0,9.0,Ottawa Senators,OTT
+79,9,23,Ottawa Senators,Vancouver Canucks,202202020038,2022020200,Missed Shot,38,MISSED_SHOT,Vasily Podkolzin Wide of Net Cam Talbot,2022-11-09T00:32:25Z,1,15:21,04:39,1,0,23.0,Vancouver Canucks,VAN
+80,9,23,Ottawa Senators,Vancouver Canucks,2022020200174,2022020200,Shot,174,SHOT,Conor Garland Wrist Shot saved by Cam Talbot,2022-11-09T00:32:29Z,1,15:25,04:35,1,0,23.0,Vancouver Canucks,VAN
+81,9,23,Ottawa Senators,Vancouver Canucks,2022020200175,2022020200,Stoppage,175,STOP,Goalie Stopped,2022-11-09T00:32:29Z,1,15:25,04:35,1,0,,,
+82,9,23,Ottawa Senators,Vancouver Canucks,2022020200126,2022020200,Faceoff,126,FACEOFF,Shane Pinto faceoff won against Bo Horvat,2022-11-09T00:34:43Z,1,15:25,04:35,1,0,9.0,Ottawa Senators,OTT
+83,9,23,Ottawa Senators,Vancouver Canucks,2022020200127,2022020200,Hit,127,HIT,Mathieu Joseph hit Oliver Ekman-Larsson,2022-11-09T00:35:06Z,1,15:48,04:12,1,0,9.0,Ottawa Senators,OTT
+84,9,23,Ottawa Senators,Vancouver Canucks,202202020039,2022020200,Shot,39,SHOT,Tyler Motte Wrist Shot saved by Spencer Martin,2022-11-09T00:35:19Z,1,16:01,03:59,1,0,9.0,Ottawa Senators,OTT
+85,9,23,Ottawa Senators,Vancouver Canucks,2022020200176,2022020200,Stoppage,176,STOP,Goalie Stopped,2022-11-09T00:35:22Z,1,16:03,03:57,1,0,,,
+86,9,23,Ottawa Senators,Vancouver Canucks,2022020200128,2022020200,Faceoff,128,FACEOFF,Claude Giroux faceoff won against Elias Pettersson,2022-11-09T00:35:55Z,1,16:03,03:57,1,0,9.0,Ottawa Senators,OTT
+87,9,23,Ottawa Senators,Vancouver Canucks,2022020200129,2022020200,Hit,129,HIT,Elias Pettersson hit Tim Stützle,2022-11-09T00:36:13Z,1,16:21,03:39,1,0,23.0,Vancouver Canucks,VAN
+88,9,23,Ottawa Senators,Vancouver Canucks,2022020200130,2022020200,Hit,130,HIT,Tim Stützle hit Quinn Hughes,2022-11-09T00:36:24Z,1,16:32,03:28,1,0,9.0,Ottawa Senators,OTT
+89,9,23,Ottawa Senators,Vancouver Canucks,2022020200131,2022020200,Hit,131,HIT,Brady Tkachuk hit Jack Rathbone,2022-11-09T00:36:36Z,1,16:44,03:16,1,0,9.0,Ottawa Senators,OTT
+90,9,23,Ottawa Senators,Vancouver Canucks,2022020200177,2022020200,Stoppage,177,STOP,Offside,2022-11-09T00:36:41Z,1,16:49,03:11,1,0,,,
+91,9,23,Ottawa Senators,Vancouver Canucks,2022020200132,2022020200,Faceoff,132,FACEOFF,Mark Kastelic faceoff won against Nils Aman,2022-11-09T00:37:08Z,1,16:49,03:11,1,0,9.0,Ottawa Senators,OTT
+92,9,23,Ottawa Senators,Vancouver Canucks,202202020040,2022020200,Shot,40,SHOT,Mark Kastelic Wrist Shot saved by Spencer Martin,2022-11-09T00:37:16Z,1,16:57,03:03,1,0,9.0,Ottawa Senators,OTT
+93,9,23,Ottawa Senators,Vancouver Canucks,202202020041,2022020200,Missed Shot,41,MISSED_SHOT,Parker Kelly Wide of Net Spencer Martin,2022-11-09T00:37:25Z,1,17:06,02:54,1,0,9.0,Ottawa Senators,OTT
+94,9,23,Ottawa Senators,Vancouver Canucks,2022020200178,2022020200,Blocked Shot,178,BLOCKED_SHOT,Travis Hamonic shot blocked shot by Dakota Joshua,2022-11-09T00:37:25Z,1,17:06,02:54,1,0,23.0,Vancouver Canucks,VAN
+95,9,23,Ottawa Senators,Vancouver Canucks,202202020042,2022020200,Missed Shot,42,MISSED_SHOT,Drake Batherson Over Net Spencer Martin,2022-11-09T00:37:58Z,1,17:39,02:21,1,0,9.0,Ottawa Senators,OTT
+96,9,23,Ottawa Senators,Vancouver Canucks,2022020200133,2022020200,Hit,133,HIT,Drake Batherson hit J.T. Miller,2022-11-09T00:38:20Z,1,18:01,01:59,1,0,9.0,Ottawa Senators,OTT
+97,9,23,Ottawa Senators,Vancouver Canucks,202202020043,2022020200,Shot,43,SHOT,Tanner Pearson Wrist Shot saved by Cam Talbot,2022-11-09T00:38:24Z,1,18:05,01:55,1,0,23.0,Vancouver Canucks,VAN
+98,9,23,Ottawa Senators,Vancouver Canucks,2022020200179,2022020200,Takeaway,179,TAKEAWAY,Takeaway by Claude Giroux,2022-11-09T00:39:11Z,1,18:52,01:08,1,0,9.0,Ottawa Senators,OTT
+99,9,23,Ottawa Senators,Vancouver Canucks,202202020044,2022020200,Shot,44,SHOT,Ethan Bear Wrist Shot saved by Cam Talbot,2022-11-09T00:39:27Z,1,19:07,00:53,1,0,23.0,Vancouver Canucks,VAN
+100,9,23,Ottawa Senators,Vancouver Canucks,202202020045,2022020200,Goal,45,GOAL,"Bo Horvat (11) Backhand, assists: Ethan Bear (1), Jack Rathbone (1)",2022-11-09T00:39:27Z,1,19:07,00:53,1,1,23.0,Vancouver Canucks,VAN
+101,9,23,Ottawa Senators,Vancouver Canucks,2022020200134,2022020200,Faceoff,134,FACEOFF,Tim Stützle faceoff won against Dakota Joshua,2022-11-09T00:40:19Z,1,19:07,00:53,1,1,9.0,Ottawa Senators,OTT
+102,9,23,Ottawa Senators,Vancouver Canucks,2022020200135,2022020200,Hit,135,HIT,Brady Tkachuk hit Tyler Myers,2022-11-09T00:40:23Z,1,19:12,00:48,1,1,9.0,Ottawa Senators,OTT
+103,9,23,Ottawa Senators,Vancouver Canucks,2022020200180,2022020200,Takeaway,180,TAKEAWAY,Takeaway by Tim Stützle,2022-11-09T00:40:31Z,1,19:20,00:40,1,1,9.0,Ottawa Senators,OTT
+104,9,23,Ottawa Senators,Vancouver Canucks,202202020046,2022020200,Goal,46,GOAL,"Travis Hamonic (1) Slap Shot, assists: Tim Stützle (7)",2022-11-09T00:40:35Z,1,19:23,00:37,2,1,9.0,Ottawa Senators,OTT
+105,9,23,Ottawa Senators,Vancouver Canucks,2022020200136,2022020200,Faceoff,136,FACEOFF,J.T. Miller faceoff won against Derick Brassard,2022-11-09T00:41:21Z,1,19:23,00:37,2,1,23.0,Vancouver Canucks,VAN
+106,9,23,Ottawa Senators,Vancouver Canucks,202202020047,2022020200,Period End,47,PERIOD_END,End of 1st Period,2022-11-09T00:41:57Z,1,20:00,00:00,2,1,,,
+107,9,23,Ottawa Senators,Vancouver Canucks,202202020050,2022020200,Period Official,50,PERIOD_OFFICIAL,Period Official,2022-11-09T00:42:16Z,1,20:00,00:00,2,1,,,
+108,9,23,Ottawa Senators,Vancouver Canucks,2022020200251,2022020200,Period Ready,251,PERIOD_READY,Period Ready,2022-11-09T00:58:37Z,2,00:00,20:00,2,1,,,
+109,9,23,Ottawa Senators,Vancouver Canucks,2022020200137,2022020200,Period Start,137,PERIOD_START,Period Start,2022-11-09T01:01:17Z,2,00:00,20:00,2,1,,,
+110,9,23,Ottawa Senators,Vancouver Canucks,2022020200138,2022020200,Faceoff,138,FACEOFF,Claude Giroux faceoff won against J.T. Miller,2022-11-09T01:01:17Z,2,00:00,20:00,2,1,9.0,Ottawa Senators,OTT
+111,9,23,Ottawa Senators,Vancouver Canucks,2022020200181,2022020200,Stoppage,181,STOP,Ice problem,2022-11-09T01:01:17Z,2,00:00,20:00,2,1,,,
+112,9,23,Ottawa Senators,Vancouver Canucks,2022020200252,2022020200,Shot,252,SHOT,Tim Stützle Wrist Shot saved by Spencer Martin,2022-11-09T01:01:49Z,2,00:32,19:28,2,1,9.0,Ottawa Senators,OTT
+113,9,23,Ottawa Senators,Vancouver Canucks,2022020200253,2022020200,Shot,253,SHOT,Brady Tkachuk Wrist Shot saved by Spencer Martin,2022-11-09T01:01:51Z,2,00:34,19:26,2,1,9.0,Ottawa Senators,OTT
+114,9,23,Ottawa Senators,Vancouver Canucks,2022020200182,2022020200,Missed Shot,182,MISSED_SHOT,Jacob Bernard-Docker Wide of Net Spencer Martin,2022-11-09T01:01:53Z,2,00:36,19:24,2,1,9.0,Ottawa Senators,OTT
+115,9,23,Ottawa Senators,Vancouver Canucks,2022020200139,2022020200,Hit,139,HIT,Luke Schenn hit Claude Giroux,2022-11-09T01:01:59Z,2,00:42,19:18,2,1,23.0,Vancouver Canucks,VAN
+116,9,23,Ottawa Senators,Vancouver Canucks,2022020200183,2022020200,Missed Shot,183,MISSED_SHOT,Jacob Bernard-Docker Wide of Net Spencer Martin,2022-11-09T01:02:05Z,2,00:48,19:12,2,1,9.0,Ottawa Senators,OTT
+117,9,23,Ottawa Senators,Vancouver Canucks,2022020200254,2022020200,Shot,254,SHOT,Tim Stützle Slap Shot saved by Spencer Martin,2022-11-09T01:02:12Z,2,00:55,19:05,2,1,9.0,Ottawa Senators,OTT
+118,9,23,Ottawa Senators,Vancouver Canucks,2022020200255,2022020200,Shot,255,SHOT,Elias Pettersson Backhand saved by Cam Talbot,2022-11-09T01:02:50Z,2,01:33,18:27,2,1,23.0,Vancouver Canucks,VAN
+119,9,23,Ottawa Senators,Vancouver Canucks,2022020200184,2022020200,Stoppage,184,STOP,Goalie Stopped,2022-11-09T01:02:51Z,2,01:34,18:26,2,1,,,
+120,9,23,Ottawa Senators,Vancouver Canucks,2022020200140,2022020200,Faceoff,140,FACEOFF,Bo Horvat faceoff won against Shane Pinto,2022-11-09T01:03:25Z,2,01:34,18:26,2,1,23.0,Vancouver Canucks,VAN
+121,9,23,Ottawa Senators,Vancouver Canucks,2022020200257,2022020200,Missed Shot,257,MISSED_SHOT,Travis Hamonic Wide of Net Spencer Martin,2022-11-09T01:03:55Z,2,02:04,17:56,2,1,9.0,Ottawa Senators,OTT
+122,9,23,Ottawa Senators,Vancouver Canucks,2022020200258,2022020200,Shot,258,SHOT,Drake Batherson Tip-In saved by Spencer Martin,2022-11-09T01:04:31Z,2,02:40,17:20,2,1,9.0,Ottawa Senators,OTT
+123,9,23,Ottawa Senators,Vancouver Canucks,2022020200185,2022020200,Stoppage,185,STOP,Goalie Stopped,2022-11-09T01:04:32Z,2,02:41,17:19,2,1,,,
+124,9,23,Ottawa Senators,Vancouver Canucks,2022020200141,2022020200,Faceoff,141,FACEOFF,Nils Aman faceoff won against Derick Brassard,2022-11-09T01:05:00Z,2,02:41,17:19,2,1,23.0,Vancouver Canucks,VAN
+125,9,23,Ottawa Senators,Vancouver Canucks,2022020200259,2022020200,Missed Shot,259,MISSED_SHOT,Drake Batherson Wide of Net Spencer Martin,2022-11-09T01:05:10Z,2,02:51,17:09,2,1,9.0,Ottawa Senators,OTT
+126,9,23,Ottawa Senators,Vancouver Canucks,2022020200142,2022020200,Hit,142,HIT,Derick Brassard hit Nils Aman,2022-11-09T01:05:15Z,2,02:56,17:04,2,1,9.0,Ottawa Senators,OTT
+127,9,23,Ottawa Senators,Vancouver Canucks,2022020200143,2022020200,Hit,143,HIT,Alex DeBrincat hit Oliver Ekman-Larsson,2022-11-09T01:05:31Z,2,03:12,16:48,2,1,9.0,Ottawa Senators,OTT
+128,9,23,Ottawa Senators,Vancouver Canucks,2022020200186,2022020200,Takeaway,186,TAKEAWAY,Takeaway by Alex DeBrincat,2022-11-09T01:05:33Z,2,03:14,16:46,2,1,9.0,Ottawa Senators,OTT
+129,9,23,Ottawa Senators,Vancouver Canucks,2022020200144,2022020200,Hit,144,HIT,Alex DeBrincat hit Nils Aman,2022-11-09T01:05:45Z,2,03:26,16:34,2,1,9.0,Ottawa Senators,OTT
+130,9,23,Ottawa Senators,Vancouver Canucks,2022020200145,2022020200,Hit,145,HIT,J.T. Miller hit Travis Hamonic,2022-11-09T01:06:25Z,2,04:06,15:54,2,1,23.0,Vancouver Canucks,VAN
+131,9,23,Ottawa Senators,Vancouver Canucks,2022020200187,2022020200,Stoppage,187,STOP,Icing,2022-11-09T01:06:33Z,2,04:14,15:46,2,1,,,
+132,9,23,Ottawa Senators,Vancouver Canucks,2022020200146,2022020200,Faceoff,146,FACEOFF,Mark Kastelic faceoff won against J.T. Miller,2022-11-09T01:07:10Z,2,04:14,15:46,2,1,9.0,Ottawa Senators,OTT
+133,9,23,Ottawa Senators,Vancouver Canucks,2022020200261,2022020200,Shot,261,SHOT,Thomas Chabot Slap Shot saved by Spencer Martin,2022-11-09T01:07:13Z,2,04:17,15:43,2,1,9.0,Ottawa Senators,OTT
+134,9,23,Ottawa Senators,Vancouver Canucks,2022020200188,2022020200,Giveaway,188,GIVEAWAY,Giveaway by J.T. Miller,2022-11-09T01:07:22Z,2,04:26,15:34,2,1,23.0,Vancouver Canucks,VAN
+135,9,23,Ottawa Senators,Vancouver Canucks,2022020200262,2022020200,Missed Shot,262,MISSED_SHOT,Jacob Bernard-Docker Wide of Net Spencer Martin,2022-11-09T01:07:24Z,2,04:28,15:32,2,1,9.0,Ottawa Senators,OTT
+136,9,23,Ottawa Senators,Vancouver Canucks,2022020200147,2022020200,Hit,147,HIT,J.T. Miller hit Austin Watson,2022-11-09T01:07:31Z,2,04:35,15:25,2,1,23.0,Vancouver Canucks,VAN
+137,9,23,Ottawa Senators,Vancouver Canucks,2022020200263,2022020200,Shot,263,SHOT,Austin Watson Wrist Shot saved by Spencer Martin,2022-11-09T01:07:52Z,2,04:56,15:04,2,1,9.0,Ottawa Senators,OTT
+138,9,23,Ottawa Senators,Vancouver Canucks,2022020200189,2022020200,Stoppage,189,STOP,Goalie Stopped,2022-11-09T01:07:54Z,2,04:57,15:03,2,1,,,
+139,9,23,Ottawa Senators,Vancouver Canucks,2022020200148,2022020200,Faceoff,148,FACEOFF,Derick Brassard faceoff won against Bo Horvat,2022-11-09T01:08:21Z,2,04:57,15:03,2,1,9.0,Ottawa Senators,OTT
+140,9,23,Ottawa Senators,Vancouver Canucks,2022020200264,2022020200,Blocked Shot,264,BLOCKED_SHOT,Alex DeBrincat shot blocked shot by Oliver Ekman-Larsson,2022-11-09T01:08:25Z,2,05:01,14:59,2,1,23.0,Vancouver Canucks,VAN
+141,9,23,Ottawa Senators,Vancouver Canucks,2022020200265,2022020200,Missed Shot,265,MISSED_SHOT,Derick Brassard Wide of Net Spencer Martin,2022-11-09T01:08:40Z,2,05:16,14:44,2,1,9.0,Ottawa Senators,OTT
+142,9,23,Ottawa Senators,Vancouver Canucks,2022020200266,2022020200,Shot,266,SHOT,Derick Brassard Wrist Shot saved by Spencer Martin,2022-11-09T01:08:59Z,2,05:35,14:25,2,1,9.0,Ottawa Senators,OTT
+143,9,23,Ottawa Senators,Vancouver Canucks,2022020200190,2022020200,Giveaway,190,GIVEAWAY,Giveaway by Erik Brannstrom,2022-11-09T01:09:09Z,2,05:45,14:15,2,1,9.0,Ottawa Senators,OTT
+144,9,23,Ottawa Senators,Vancouver Canucks,2022020200191,2022020200,Stoppage,191,STOP,Icing,2022-11-09T01:10:12Z,2,06:48,13:12,2,1,,,
+145,9,23,Ottawa Senators,Vancouver Canucks,2022020200149,2022020200,Faceoff,149,FACEOFF,J.T. Miller faceoff won against Brady Tkachuk,2022-11-09T01:10:52Z,2,06:48,13:12,2,1,23.0,Vancouver Canucks,VAN
+146,9,23,Ottawa Senators,Vancouver Canucks,2022020200150,2022020200,Hit,150,HIT,Conor Garland hit Tim Stützle,2022-11-09T01:11:14Z,2,07:10,12:50,2,1,23.0,Vancouver Canucks,VAN
+147,9,23,Ottawa Senators,Vancouver Canucks,2022020200192,2022020200,Takeaway,192,TAKEAWAY,Takeaway by Bo Horvat,2022-11-09T01:11:25Z,2,07:21,12:39,2,1,23.0,Vancouver Canucks,VAN
+148,9,23,Ottawa Senators,Vancouver Canucks,2022020200351,2022020200,Hit,351,HIT,Vasily Podkolzin hit Thomas Chabot,2022-11-09T01:11:36Z,2,07:32,12:28,2,1,23.0,Vancouver Canucks,VAN
+149,9,23,Ottawa Senators,Vancouver Canucks,2022020200352,2022020200,Hit,352,HIT,Oliver Ekman-Larsson hit Brady Tkachuk,2022-11-09T01:11:47Z,2,07:43,12:17,2,1,23.0,Vancouver Canucks,VAN
+150,9,23,Ottawa Senators,Vancouver Canucks,2022020200268,2022020200,Shot,268,SHOT,Mark Kastelic Wrap-around saved by Spencer Martin,2022-11-09T01:12:04Z,2,08:00,12:00,2,1,9.0,Ottawa Senators,OTT
+151,9,23,Ottawa Senators,Vancouver Canucks,2022020200353,2022020200,Hit,353,HIT,Parker Kelly hit Luke Schenn,2022-11-09T01:12:20Z,2,08:16,11:44,2,1,9.0,Ottawa Senators,OTT
+152,9,23,Ottawa Senators,Vancouver Canucks,2022020200193,2022020200,Giveaway,193,GIVEAWAY,Giveaway by Jack Rathbone,2022-11-09T01:12:49Z,2,08:45,11:15,2,1,23.0,Vancouver Canucks,VAN
+153,9,23,Ottawa Senators,Vancouver Canucks,2022020200270,2022020200,Missed Shot,270,MISSED_SHOT,Travis Hamonic Wide of Net Spencer Martin,2022-11-09T01:12:51Z,2,08:47,11:13,2,1,9.0,Ottawa Senators,OTT
+154,9,23,Ottawa Senators,Vancouver Canucks,2022020200354,2022020200,Hit,354,HIT,Mathieu Joseph hit Jack Rathbone,2022-11-09T01:13:00Z,2,08:56,11:04,2,1,9.0,Ottawa Senators,OTT
+155,9,23,Ottawa Senators,Vancouver Canucks,2022020200194,2022020200,Takeaway,194,TAKEAWAY,Takeaway by Mathieu Joseph,2022-11-09T01:13:02Z,2,08:58,11:02,2,1,9.0,Ottawa Senators,OTT
+156,9,23,Ottawa Senators,Vancouver Canucks,2022020200355,2022020200,Hit,355,HIT,Jake Sanderson hit Ethan Bear,2022-11-09T01:13:25Z,2,09:21,10:39,2,1,9.0,Ottawa Senators,OTT
+157,9,23,Ottawa Senators,Vancouver Canucks,2022020200271,2022020200,Shot,271,SHOT,Jack Studnicka Snap Shot saved by Cam Talbot,2022-11-09T01:13:35Z,2,09:31,10:29,2,1,23.0,Vancouver Canucks,VAN
+158,9,23,Ottawa Senators,Vancouver Canucks,2022020200195,2022020200,Stoppage,195,STOP,Goalie Stopped,2022-11-09T01:13:38Z,2,09:33,10:27,2,1,,,
+159,9,23,Ottawa Senators,Vancouver Canucks,2022020200356,2022020200,Faceoff,356,FACEOFF,Derick Brassard faceoff won against Brock Boeser,2022-11-09T01:16:19Z,2,09:33,10:27,2,1,9.0,Ottawa Senators,OTT
+160,9,23,Ottawa Senators,Vancouver Canucks,2022020200357,2022020200,Hit,357,HIT,Alex DeBrincat hit Quinn Hughes,2022-11-09T01:16:45Z,2,09:59,10:01,2,1,9.0,Ottawa Senators,OTT
+161,9,23,Ottawa Senators,Vancouver Canucks,2022020200272,2022020200,Shot,272,SHOT,Drake Batherson Wrist Shot saved by Spencer Martin,2022-11-09T01:17:06Z,2,10:20,09:40,2,1,9.0,Ottawa Senators,OTT
+162,9,23,Ottawa Senators,Vancouver Canucks,2022020200196,2022020200,Takeaway,196,TAKEAWAY,Takeaway by Parker Kelly,2022-11-09T01:17:16Z,2,10:30,09:30,2,1,9.0,Ottawa Senators,OTT
+163,9,23,Ottawa Senators,Vancouver Canucks,2022020200273,2022020200,Shot,273,SHOT,Parker Kelly Wrist Shot saved by Spencer Martin,2022-11-09T01:17:19Z,2,10:33,09:27,2,1,9.0,Ottawa Senators,OTT
+164,9,23,Ottawa Senators,Vancouver Canucks,2022020200274,2022020200,Shot,274,SHOT,Mark Kastelic Backhand saved by Spencer Martin,2022-11-09T01:17:21Z,2,10:35,09:25,2,1,9.0,Ottawa Senators,OTT
+165,9,23,Ottawa Senators,Vancouver Canucks,2022020200197,2022020200,Stoppage,197,STOP,TV timeout,2022-11-09T01:17:22Z,2,10:36,09:24,2,1,,,
+166,9,23,Ottawa Senators,Vancouver Canucks,2022020200590,2022020200,Penalty,590,PENALTY,Luke Schenn Interference against Parker Kelly,2022-11-09T01:17:22Z,2,10:36,09:24,2,1,23.0,Vancouver Canucks,VAN
+167,9,23,Ottawa Senators,Vancouver Canucks,2022020200358,2022020200,Faceoff,358,FACEOFF,Derick Brassard faceoff won against Bo Horvat,2022-11-09T01:19:41Z,2,10:36,09:24,2,1,9.0,Ottawa Senators,OTT
+168,9,23,Ottawa Senators,Vancouver Canucks,2022020200275,2022020200,Blocked Shot,275,BLOCKED_SHOT,Claude Giroux shot blocked shot by Tyler Myers,2022-11-09T01:19:45Z,2,10:40,09:20,2,1,23.0,Vancouver Canucks,VAN
+169,9,23,Ottawa Senators,Vancouver Canucks,2022020200199,2022020200,Giveaway,199,GIVEAWAY,Giveaway by Bo Horvat,2022-11-09T01:19:52Z,2,10:47,09:13,2,1,23.0,Vancouver Canucks,VAN
+170,9,23,Ottawa Senators,Vancouver Canucks,2022020200198,2022020200,Shot,198,SHOT,Claude Giroux Wrist Shot saved by Spencer Martin,2022-11-09T01:19:54Z,2,10:49,09:11,2,1,9.0,Ottawa Senators,OTT
+171,9,23,Ottawa Senators,Vancouver Canucks,2022020200276,2022020200,Shot,276,SHOT,Alex DeBrincat Slap Shot saved by Spencer Martin,2022-11-09T01:20:08Z,2,11:03,08:57,2,1,9.0,Ottawa Senators,OTT
+172,9,23,Ottawa Senators,Vancouver Canucks,2022020200277,2022020200,Shot,277,SHOT,Alex DeBrincat Snap Shot saved by Spencer Martin,2022-11-09T01:20:36Z,2,11:31,08:29,2,1,9.0,Ottawa Senators,OTT
+173,9,23,Ottawa Senators,Vancouver Canucks,2022020200200,2022020200,Stoppage,200,STOP,Offside,2022-11-09T01:21:19Z,2,12:14,07:46,2,1,,,
+174,9,23,Ottawa Senators,Vancouver Canucks,2022020200359,2022020200,Faceoff,359,FACEOFF,Jack Studnicka faceoff won against Tim Stützle,2022-11-09T01:21:45Z,2,12:14,07:46,2,1,23.0,Vancouver Canucks,VAN
+175,9,23,Ottawa Senators,Vancouver Canucks,2022020200360,2022020200,Hit,360,HIT,Thomas Chabot hit Jack Studnicka,2022-11-09T01:21:57Z,2,12:26,07:34,2,1,9.0,Ottawa Senators,OTT
+176,9,23,Ottawa Senators,Vancouver Canucks,2022020200401,2022020200,Giveaway,401,GIVEAWAY,Giveaway by Jake Sanderson,2022-11-09T01:22:05Z,2,12:34,07:26,2,1,9.0,Ottawa Senators,OTT
+177,9,23,Ottawa Senators,Vancouver Canucks,2022020200278,2022020200,Shot,278,SHOT,Brady Tkachuk Wrist Shot saved by Spencer Martin,2022-11-09T01:22:21Z,2,12:50,07:10,2,1,9.0,Ottawa Senators,OTT
+178,9,23,Ottawa Senators,Vancouver Canucks,2022020200361,2022020200,Hit,361,HIT,Vasily Podkolzin hit Thomas Chabot,2022-11-09T01:23:05Z,2,13:34,06:26,2,1,23.0,Vancouver Canucks,VAN
+179,9,23,Ottawa Senators,Vancouver Canucks,2022020200279,2022020200,Goal,279,GOAL,"Ilya Mikheyev (4) Wrist Shot, assists: Quinn Hughes (11), Elias Pettersson (11)",2022-11-09T01:23:21Z,2,13:50,06:10,2,2,23.0,Vancouver Canucks,VAN
+180,9,23,Ottawa Senators,Vancouver Canucks,2022020200362,2022020200,Faceoff,362,FACEOFF,J.T. Miller faceoff won against Mark Kastelic,2022-11-09T01:24:03Z,2,13:50,06:10,2,2,23.0,Vancouver Canucks,VAN
+181,9,23,Ottawa Senators,Vancouver Canucks,2022020200280,2022020200,Shot,280,SHOT,Brock Boeser Wrist Shot saved by Cam Talbot,2022-11-09T01:24:19Z,2,14:06,05:54,2,2,23.0,Vancouver Canucks,VAN
+182,9,23,Ottawa Senators,Vancouver Canucks,2022020200402,2022020200,Stoppage,402,STOP,Puck in Benches,2022-11-09T01:24:27Z,2,14:13,05:47,2,2,,,
+183,9,23,Ottawa Senators,Vancouver Canucks,2022020200363,2022020200,Faceoff,363,FACEOFF,Austin Watson faceoff won against Nils Aman,2022-11-09T01:26:46Z,2,14:13,05:47,2,2,9.0,Ottawa Senators,OTT
+184,9,23,Ottawa Senators,Vancouver Canucks,2022020200364,2022020200,Hit,364,HIT,Luke Schenn hit Parker Kelly,2022-11-09T01:26:52Z,2,14:19,05:41,2,2,23.0,Vancouver Canucks,VAN
+185,9,23,Ottawa Senators,Vancouver Canucks,2022020200621,2022020200,Penalty,621,PENALTY,Austin Watson Fighting against Luke Schenn,2022-11-09T01:26:55Z,2,14:21,05:39,2,2,9.0,Ottawa Senators,OTT
+186,9,23,Ottawa Senators,Vancouver Canucks,2022020200625,2022020200,Penalty,625,PENALTY,Luke Schenn Fighting against Austin Watson,2022-11-09T01:26:55Z,2,14:21,05:39,2,2,23.0,Vancouver Canucks,VAN
+187,9,23,Ottawa Senators,Vancouver Canucks,2022020200365,2022020200,Faceoff,365,FACEOFF,Bo Horvat faceoff won against Derick Brassard,2022-11-09T01:28:16Z,2,14:21,05:39,2,2,23.0,Vancouver Canucks,VAN
+188,9,23,Ottawa Senators,Vancouver Canucks,2022020200366,2022020200,Hit,366,HIT,Alex DeBrincat hit Conor Garland,2022-11-09T01:28:28Z,2,14:33,05:27,2,2,9.0,Ottawa Senators,OTT
+189,9,23,Ottawa Senators,Vancouver Canucks,2022020200281,2022020200,Shot,281,SHOT,Elias Pettersson Tip-In saved by Cam Talbot,2022-11-09T01:29:16Z,2,15:21,04:39,2,2,23.0,Vancouver Canucks,VAN
+190,9,23,Ottawa Senators,Vancouver Canucks,2022020200282,2022020200,Shot,282,SHOT,Elias Pettersson Backhand saved by Cam Talbot,2022-11-09T01:29:19Z,2,15:24,04:36,2,2,23.0,Vancouver Canucks,VAN
+191,9,23,Ottawa Senators,Vancouver Canucks,2022020200403,2022020200,Giveaway,403,GIVEAWAY,Giveaway by Andrei Kuzmenko,2022-11-09T01:29:37Z,2,15:42,04:18,2,2,23.0,Vancouver Canucks,VAN
+192,9,23,Ottawa Senators,Vancouver Canucks,2022020200283,2022020200,Shot,283,SHOT,Brady Tkachuk Wrist Shot saved by Spencer Martin,2022-11-09T01:29:45Z,2,15:50,04:10,2,2,9.0,Ottawa Senators,OTT
+193,9,23,Ottawa Senators,Vancouver Canucks,2022020200284,2022020200,Shot,284,SHOT,Brady Tkachuk Wrist Shot saved by Spencer Martin,2022-11-09T01:29:47Z,2,15:51,04:09,2,2,9.0,Ottawa Senators,OTT
+194,9,23,Ottawa Senators,Vancouver Canucks,2022020200404,2022020200,Stoppage,404,STOP,Referee or Linesman,2022-11-09T01:29:48Z,2,15:52,04:08,2,2,,,
+195,9,23,Ottawa Senators,Vancouver Canucks,2022020200367,2022020200,Faceoff,367,FACEOFF,J.T. Miller faceoff won against Shane Pinto,2022-11-09T01:30:35Z,2,15:52,04:08,2,2,23.0,Vancouver Canucks,VAN
+196,9,23,Ottawa Senators,Vancouver Canucks,2022020200650,2022020200,Penalty,650,PENALTY,Nikita Zaitsev Holding against J.T. Miller,2022-11-09T01:31:00Z,2,16:17,03:43,2,2,9.0,Ottawa Senators,OTT
+197,9,23,Ottawa Senators,Vancouver Canucks,2022020200369,2022020200,Faceoff,369,FACEOFF,Mark Kastelic faceoff won against Bo Horvat,2022-11-09T01:31:54Z,2,16:17,03:43,2,2,9.0,Ottawa Senators,OTT
+198,9,23,Ottawa Senators,Vancouver Canucks,2022020200405,2022020200,Takeaway,405,TAKEAWAY,Takeaway by Mark Kastelic,2022-11-09T01:32:00Z,2,16:23,03:37,2,2,9.0,Ottawa Senators,OTT
+199,9,23,Ottawa Senators,Vancouver Canucks,2022020200285,2022020200,Missed Shot,285,MISSED_SHOT,Mark Kastelic Goalpost Spencer Martin,2022-11-09T01:32:08Z,2,16:31,03:29,2,2,9.0,Ottawa Senators,OTT
+200,9,23,Ottawa Senators,Vancouver Canucks,2022020200286,2022020200,Missed Shot,286,MISSED_SHOT,Elias Pettersson Wide of Net Cam Talbot,2022-11-09T01:32:56Z,2,17:19,02:41,2,2,23.0,Vancouver Canucks,VAN
+201,9,23,Ottawa Senators,Vancouver Canucks,2022020200287,2022020200,Shot,287,SHOT,Bo Horvat Wrist Shot saved by Cam Talbot,2022-11-09T01:33:03Z,2,17:26,02:34,2,2,23.0,Vancouver Canucks,VAN
+202,9,23,Ottawa Senators,Vancouver Canucks,2022020200406,2022020200,Stoppage,406,STOP,Goalie Stopped,2022-11-09T01:33:05Z,2,17:27,02:33,2,2,,,
+203,9,23,Ottawa Senators,Vancouver Canucks,2022020200370,2022020200,Faceoff,370,FACEOFF,Mark Kastelic faceoff won against Tanner Pearson,2022-11-09T01:33:38Z,2,17:27,02:33,2,2,9.0,Ottawa Senators,OTT
+204,9,23,Ottawa Senators,Vancouver Canucks,2022020200288,2022020200,Missed Shot,288,MISSED_SHOT,Tanner Pearson Wide of Net Cam Talbot,2022-11-09T01:34:06Z,2,17:55,02:05,2,2,23.0,Vancouver Canucks,VAN
+205,9,23,Ottawa Senators,Vancouver Canucks,2022020200407,2022020200,Shot,407,SHOT,Oliver Ekman-Larsson Snap Shot saved by Cam Talbot,2022-11-09T01:34:10Z,2,17:59,02:01,2,2,23.0,Vancouver Canucks,VAN
+206,9,23,Ottawa Senators,Vancouver Canucks,2022020200408,2022020200,Stoppage,408,STOP,Goalie Stopped,2022-11-09T01:34:10Z,2,18:00,02:00,2,2,,,
+207,9,23,Ottawa Senators,Vancouver Canucks,2022020200371,2022020200,Faceoff,371,FACEOFF,Bo Horvat faceoff won against Mark Kastelic,2022-11-09T01:34:42Z,2,18:00,02:00,2,2,23.0,Vancouver Canucks,VAN
+208,9,23,Ottawa Senators,Vancouver Canucks,2022020200290,2022020200,Missed Shot,290,MISSED_SHOT,J.T. Miller Goalpost Cam Talbot,2022-11-09T01:35:01Z,2,18:19,01:41,2,2,23.0,Vancouver Canucks,VAN
+209,9,23,Ottawa Senators,Vancouver Canucks,2022020200291,2022020200,Blocked Shot,291,BLOCKED_SHOT,Tim Stützle shot blocked shot by Jack Studnicka,2022-11-09T01:35:29Z,2,18:47,01:13,2,2,23.0,Vancouver Canucks,VAN
+210,9,23,Ottawa Senators,Vancouver Canucks,2022020200292,2022020200,Shot,292,SHOT,Brady Tkachuk Wrist Shot saved by Spencer Martin,2022-11-09T01:35:57Z,2,19:15,00:45,2,2,9.0,Ottawa Senators,OTT
+211,9,23,Ottawa Senators,Vancouver Canucks,2022020200372,2022020200,Hit,372,HIT,Jacob Bernard-Docker hit Dakota Joshua,2022-11-09T01:36:02Z,2,19:20,00:40,2,2,9.0,Ottawa Senators,OTT
+212,9,23,Ottawa Senators,Vancouver Canucks,2022020200409,2022020200,Takeaway,409,TAKEAWAY,Takeaway by Jake Sanderson,2022-11-09T01:36:24Z,2,19:42,00:18,2,2,9.0,Ottawa Senators,OTT
+213,9,23,Ottawa Senators,Vancouver Canucks,2022020200293,2022020200,Blocked Shot,293,BLOCKED_SHOT,Jake Sanderson shot blocked shot by Oliver Ekman-Larsson,2022-11-09T01:36:30Z,2,19:48,00:12,2,2,23.0,Vancouver Canucks,VAN
+214,9,23,Ottawa Senators,Vancouver Canucks,2022020200294,2022020200,Shot,294,SHOT,Jake Sanderson Wrist Shot saved by Spencer Martin,2022-11-09T01:36:41Z,2,19:59,00:01,2,2,9.0,Ottawa Senators,OTT
+215,9,23,Ottawa Senators,Vancouver Canucks,2022020200295,2022020200,Period End,295,PERIOD_END,End of 2nd Period,2022-11-09T01:36:43Z,2,20:00,00:00,2,2,,,
+216,9,23,Ottawa Senators,Vancouver Canucks,2022020200298,2022020200,Period Official,298,PERIOD_OFFICIAL,Period Official,2022-11-09T01:37:03Z,2,20:00,00:00,2,2,,,
+217,9,23,Ottawa Senators,Vancouver Canucks,2022020200299,2022020200,Period Ready,299,PERIOD_READY,Period Ready,2022-11-09T01:53:27Z,3,00:00,20:00,2,2,,,
+218,9,23,Ottawa Senators,Vancouver Canucks,2022020200373,2022020200,Period Start,373,PERIOD_START,Period Start,2022-11-09T01:55:36Z,3,00:00,20:00,2,2,,,
+219,9,23,Ottawa Senators,Vancouver Canucks,2022020200374,2022020200,Faceoff,374,FACEOFF,J.T. Miller faceoff won against Tim Stützle,2022-11-09T01:55:36Z,3,00:00,20:00,2,2,23.0,Vancouver Canucks,VAN
+220,9,23,Ottawa Senators,Vancouver Canucks,2022020200952,2022020200,Missed Shot,952,MISSED_SHOT,Jacob Bernard-Docker Wide of Net Spencer Martin,2022-11-09T01:55:51Z,3,00:15,19:45,2,2,9.0,Ottawa Senators,OTT
+221,9,23,Ottawa Senators,Vancouver Canucks,2022020200953,2022020200,Blocked Shot,953,BLOCKED_SHOT,Brock Boeser shot blocked shot by Tim Stützle,2022-11-09T01:56:08Z,3,00:32,19:28,2,2,9.0,Ottawa Senators,OTT
+222,9,23,Ottawa Senators,Vancouver Canucks,2022020200410,2022020200,Giveaway,410,GIVEAWAY,Giveaway by Travis Hamonic,2022-11-09T01:56:48Z,3,01:12,18:48,2,2,9.0,Ottawa Senators,OTT
+223,9,23,Ottawa Senators,Vancouver Canucks,2022020200300,2022020200,Goal,300,GOAL,"Bo Horvat (12) Snap Shot, assists: Conor Garland (4)",2022-11-09T01:56:52Z,3,01:16,18:44,2,3,23.0,Vancouver Canucks,VAN
+224,9,23,Ottawa Senators,Vancouver Canucks,2022020200375,2022020200,Faceoff,375,FACEOFF,Shane Pinto faceoff won against Nils Aman,2022-11-09T01:57:37Z,3,01:16,18:44,2,3,9.0,Ottawa Senators,OTT
+225,9,23,Ottawa Senators,Vancouver Canucks,2022020200411,2022020200,Takeaway,411,TAKEAWAY,Takeaway by Tyler Motte,2022-11-09T01:57:51Z,3,01:30,18:30,2,3,9.0,Ottawa Senators,OTT
+226,9,23,Ottawa Senators,Vancouver Canucks,2022020200651,2022020200,Missed Shot,651,MISSED_SHOT,Shane Pinto Goalpost Spencer Martin,2022-11-09T01:57:56Z,3,01:35,18:25,2,3,9.0,Ottawa Senators,OTT
+227,9,23,Ottawa Senators,Vancouver Canucks,2022020200954,2022020200,Blocked Shot,954,BLOCKED_SHOT,Erik Brannstrom shot blocked shot by Nils Aman,2022-11-09T01:58:02Z,3,01:41,18:19,2,3,23.0,Vancouver Canucks,VAN
+228,9,23,Ottawa Senators,Vancouver Canucks,2022020200652,2022020200,Missed Shot,652,MISSED_SHOT,Erik Brannstrom Wide of Net Spencer Martin,2022-11-09T01:58:18Z,3,01:57,18:03,2,3,9.0,Ottawa Senators,OTT
+229,9,23,Ottawa Senators,Vancouver Canucks,2022020200653,2022020200,Shot,653,SHOT,Ilya Mikheyev Backhand saved by Cam Talbot,2022-11-09T01:58:41Z,3,02:20,17:40,2,3,23.0,Vancouver Canucks,VAN
+230,9,23,Ottawa Senators,Vancouver Canucks,2022020200955,2022020200,Blocked Shot,955,BLOCKED_SHOT,Luke Schenn shot blocked shot by Austin Watson,2022-11-09T01:58:44Z,3,02:23,17:37,2,3,9.0,Ottawa Senators,OTT
+231,9,23,Ottawa Senators,Vancouver Canucks,2022020200376,2022020200,Hit,376,HIT,Jacob Bernard-Docker hit Elias Pettersson,2022-11-09T01:58:50Z,3,02:29,17:31,2,3,9.0,Ottawa Senators,OTT
+232,9,23,Ottawa Senators,Vancouver Canucks,2022020200654,2022020200,Shot,654,SHOT,Tanner Pearson Wrist Shot saved by Cam Talbot,2022-11-09T01:59:31Z,3,03:10,16:50,2,3,23.0,Vancouver Canucks,VAN
+233,9,23,Ottawa Senators,Vancouver Canucks,2022020200951,2022020200,Blocked Shot,951,BLOCKED_SHOT,Brock Boeser shot blocked shot by Travis Hamonic,2022-11-09T01:59:32Z,3,03:11,16:49,2,3,9.0,Ottawa Senators,OTT
+234,9,23,Ottawa Senators,Vancouver Canucks,2022020200655,2022020200,Blocked Shot,655,BLOCKED_SHOT,Oliver Ekman-Larsson shot blocked shot by Travis Hamonic,2022-11-09T01:59:44Z,3,03:23,16:37,2,3,9.0,Ottawa Senators,OTT
+235,9,23,Ottawa Senators,Vancouver Canucks,2022020200412,2022020200,Takeaway,412,TAKEAWAY,Takeaway by Tim Stützle,2022-11-09T01:59:51Z,3,03:30,16:30,2,3,9.0,Ottawa Senators,OTT
+236,9,23,Ottawa Senators,Vancouver Canucks,2022020200656,2022020200,Blocked Shot,656,BLOCKED_SHOT,Conor Garland shot blocked shot by Jacob Bernard-Docker,2022-11-09T02:00:28Z,3,04:07,15:53,2,3,9.0,Ottawa Senators,OTT
+237,9,23,Ottawa Senators,Vancouver Canucks,2022020200413,2022020200,Takeaway,413,TAKEAWAY,Takeaway by Jake Sanderson,2022-11-09T02:00:36Z,3,04:15,15:45,2,3,9.0,Ottawa Senators,OTT
+238,9,23,Ottawa Senators,Vancouver Canucks,2022020200657,2022020200,Shot,657,SHOT,Derick Brassard Wrist Shot saved by Spencer Martin,2022-11-09T02:00:39Z,3,04:18,15:42,2,3,9.0,Ottawa Senators,OTT
+239,9,23,Ottawa Senators,Vancouver Canucks,2022020200377,2022020200,Hit,377,HIT,Tyler Motte hit Quinn Hughes,2022-11-09T02:01:08Z,3,04:47,15:13,2,3,9.0,Ottawa Senators,OTT
+240,9,23,Ottawa Senators,Vancouver Canucks,2022020200658,2022020200,Shot,658,SHOT,Ilya Mikheyev Tip-In saved by Cam Talbot,2022-11-09T02:01:22Z,3,05:01,14:59,2,3,23.0,Vancouver Canucks,VAN
+241,9,23,Ottawa Senators,Vancouver Canucks,2022020200659,2022020200,Blocked Shot,659,BLOCKED_SHOT,Parker Kelly shot blocked shot by Tyler Myers,2022-11-09T02:01:53Z,3,05:32,14:28,2,3,23.0,Vancouver Canucks,VAN
+242,9,23,Ottawa Senators,Vancouver Canucks,2022020200414,2022020200,Giveaway,414,GIVEAWAY,Giveaway by Oliver Ekman-Larsson,2022-11-09T02:01:55Z,3,05:34,14:26,2,3,23.0,Vancouver Canucks,VAN
+243,9,23,Ottawa Senators,Vancouver Canucks,2022020200660,2022020200,Shot,660,SHOT,Mark Kastelic Wrist Shot saved by Spencer Martin,2022-11-09T02:02:01Z,3,05:40,14:20,2,3,9.0,Ottawa Senators,OTT
+244,9,23,Ottawa Senators,Vancouver Canucks,2022020200661,2022020200,Shot,661,SHOT,Claude Giroux Wrist Shot saved by Spencer Martin,2022-11-09T02:02:28Z,3,06:07,13:53,2,3,9.0,Ottawa Senators,OTT
+245,9,23,Ottawa Senators,Vancouver Canucks,2022020200378,2022020200,Hit,378,HIT,Tim Stützle hit Nils Aman,2022-11-09T02:02:33Z,3,06:12,13:48,2,3,9.0,Ottawa Senators,OTT
+246,9,23,Ottawa Senators,Vancouver Canucks,2022020200415,2022020200,Stoppage,415,STOP,TV timeout,2022-11-09T02:02:34Z,3,06:13,13:47,2,3,,,
+247,9,23,Ottawa Senators,Vancouver Canucks,2022020200795,2022020200,Penalty,795,PENALTY,Brady Tkachuk Roughing against Jack Rathbone,2022-11-09T02:02:34Z,3,06:13,13:47,2,3,9.0,Ottawa Senators,OTT
+248,9,23,Ottawa Senators,Vancouver Canucks,2022020200379,2022020200,Faceoff,379,FACEOFF,Mark Kastelic faceoff won against Bo Horvat,2022-11-09T02:04:58Z,3,06:13,13:47,2,3,9.0,Ottawa Senators,OTT
+249,9,23,Ottawa Senators,Vancouver Canucks,2022020200662,2022020200,Shot,662,SHOT,Bo Horvat Snap Shot saved by Cam Talbot,2022-11-09T02:05:54Z,3,07:09,12:51,2,3,23.0,Vancouver Canucks,VAN
+250,9,23,Ottawa Senators,Vancouver Canucks,2022020200663,2022020200,Shot,663,SHOT,Elias Pettersson Wrist Shot saved by Cam Talbot,2022-11-09T02:06:21Z,3,07:36,12:24,2,3,23.0,Vancouver Canucks,VAN
+251,9,23,Ottawa Senators,Vancouver Canucks,2022020200416,2022020200,Giveaway,416,GIVEAWAY,Giveaway by Travis Hamonic,2022-11-09T02:06:56Z,3,08:11,11:49,2,3,9.0,Ottawa Senators,OTT
+252,9,23,Ottawa Senators,Vancouver Canucks,2022020200664,2022020200,Goal,664,GOAL,"Oliver Ekman-Larsson (1) Snap Shot, assists: Conor Garland (5), Brock Boeser (5)",2022-11-09T02:07:04Z,3,08:18,11:42,2,4,23.0,Vancouver Canucks,VAN
+253,9,23,Ottawa Senators,Vancouver Canucks,2022020200380,2022020200,Faceoff,380,FACEOFF,Tim Stützle faceoff won against Jack Studnicka,2022-11-09T02:08:11Z,3,08:18,11:42,2,4,9.0,Ottawa Senators,OTT
+254,9,23,Ottawa Senators,Vancouver Canucks,2022020200665,2022020200,Missed Shot,665,MISSED_SHOT,Conor Garland Wide of Net Cam Talbot,2022-11-09T02:09:09Z,3,09:16,10:44,2,4,23.0,Vancouver Canucks,VAN
+255,9,23,Ottawa Senators,Vancouver Canucks,2022020200381,2022020200,Hit,381,HIT,Drake Batherson hit Jack Rathbone,2022-11-09T02:09:39Z,3,09:46,10:14,2,4,9.0,Ottawa Senators,OTT
+256,9,23,Ottawa Senators,Vancouver Canucks,2022020200417,2022020200,Giveaway,417,GIVEAWAY,Giveaway by Nikita Zaitsev,2022-11-09T02:10:18Z,3,10:25,09:35,2,4,9.0,Ottawa Senators,OTT
+257,9,23,Ottawa Senators,Vancouver Canucks,2022020200382,2022020200,Hit,382,HIT,Ilya Mikheyev hit Mathieu Joseph,2022-11-09T02:10:34Z,3,10:41,09:19,2,4,23.0,Vancouver Canucks,VAN
+258,9,23,Ottawa Senators,Vancouver Canucks,2022020200418,2022020200,Stoppage,418,STOP,Puck in Benches,2022-11-09T02:10:37Z,3,10:44,09:16,2,4,,,
+259,9,23,Ottawa Senators,Vancouver Canucks,2022020200383,2022020200,Faceoff,383,FACEOFF,Bo Horvat faceoff won against Derick Brassard,2022-11-09T02:12:52Z,3,10:44,09:16,2,4,23.0,Vancouver Canucks,VAN
+260,9,23,Ottawa Senators,Vancouver Canucks,2022020200666,2022020200,Shot,666,SHOT,Vasily Podkolzin Backhand saved by Cam Talbot,2022-11-09T02:13:21Z,3,11:13,08:47,2,4,23.0,Vancouver Canucks,VAN
+261,9,23,Ottawa Senators,Vancouver Canucks,2022020200384,2022020200,Hit,384,HIT,Nils Aman hit Brady Tkachuk,2022-11-09T02:14:04Z,3,11:56,08:04,2,4,23.0,Vancouver Canucks,VAN
+262,9,23,Ottawa Senators,Vancouver Canucks,2022020200385,2022020200,Hit,385,HIT,Jake Sanderson hit Jack Studnicka,2022-11-09T02:14:12Z,3,12:04,07:56,2,4,9.0,Ottawa Senators,OTT
+263,9,23,Ottawa Senators,Vancouver Canucks,2022020200667,2022020200,Blocked Shot,667,BLOCKED_SHOT,Tim Stützle shot blocked shot by Oliver Ekman-Larsson,2022-11-09T02:14:35Z,3,12:27,07:33,2,4,23.0,Vancouver Canucks,VAN
+264,9,23,Ottawa Senators,Vancouver Canucks,20220202001002,2022020200,Penalty,1002,PENALTY,J.T. Miller Holding against Claude Giroux,2022-11-09T02:14:42Z,3,12:34,07:26,2,4,23.0,Vancouver Canucks,VAN
+265,9,23,Ottawa Senators,Vancouver Canucks,2022020200386,2022020200,Faceoff,386,FACEOFF,Bo Horvat faceoff won against Brady Tkachuk,2022-11-09T02:15:27Z,3,12:34,07:26,2,4,23.0,Vancouver Canucks,VAN
+266,9,23,Ottawa Senators,Vancouver Canucks,2022020200419,2022020200,Missed Shot,419,MISSED_SHOT,Tim Stützle Wide of Net Spencer Martin,2022-11-09T02:15:36Z,3,12:43,07:17,2,4,9.0,Ottawa Senators,OTT
+267,9,23,Ottawa Senators,Vancouver Canucks,2022020200668,2022020200,Missed Shot,668,MISSED_SHOT,Alex DeBrincat Wide of Net Spencer Martin,2022-11-09T02:15:44Z,3,12:51,07:09,2,4,9.0,Ottawa Senators,OTT
+268,9,23,Ottawa Senators,Vancouver Canucks,2022020200387,2022020200,Hit,387,HIT,Elias Pettersson hit Tim Stützle,2022-11-09T02:15:47Z,3,12:54,07:06,2,4,23.0,Vancouver Canucks,VAN
+269,9,23,Ottawa Senators,Vancouver Canucks,2022020200388,2022020200,Hit,388,HIT,Jack Studnicka hit Tim Stützle,2022-11-09T02:16:03Z,3,13:10,06:50,2,4,23.0,Vancouver Canucks,VAN
+270,9,23,Ottawa Senators,Vancouver Canucks,2022020200669,2022020200,Missed Shot,669,MISSED_SHOT,Drake Batherson Wide of Net Spencer Martin,2022-11-09T02:16:29Z,3,13:36,06:24,2,4,9.0,Ottawa Senators,OTT
+271,9,23,Ottawa Senators,Vancouver Canucks,2022020200670,2022020200,Goal,670,GOAL,"Tim Stützle (4) Wrist Shot, assists: Alex DeBrincat (9)",2022-11-09T02:16:55Z,3,14:03,05:57,3,4,9.0,Ottawa Senators,OTT
+272,9,23,Ottawa Senators,Vancouver Canucks,2022020200389,2022020200,Faceoff,389,FACEOFF,Shane Pinto faceoff won against J.T. Miller,2022-11-09T02:17:47Z,3,14:03,05:57,3,4,9.0,Ottawa Senators,OTT
+273,9,23,Ottawa Senators,Vancouver Canucks,2022020200671,2022020200,Shot,671,SHOT,J.T. Miller Wrist Shot saved by Cam Talbot,2022-11-09T02:18:01Z,3,14:17,05:43,3,4,23.0,Vancouver Canucks,VAN
+274,9,23,Ottawa Senators,Vancouver Canucks,2022020200420,2022020200,Stoppage,420,STOP,Goalie Stopped,2022-11-09T02:18:03Z,3,14:19,05:41,3,4,,,
+275,9,23,Ottawa Senators,Vancouver Canucks,2022020200390,2022020200,Faceoff,390,FACEOFF,Shane Pinto faceoff won against J.T. Miller,2022-11-09T02:20:22Z,3,14:19,05:41,3,4,9.0,Ottawa Senators,OTT
+276,9,23,Ottawa Senators,Vancouver Canucks,2022020200421,2022020200,Stoppage,421,STOP,Puck Frozen,2022-11-09T02:20:40Z,3,14:37,05:23,3,4,,,
+277,9,23,Ottawa Senators,Vancouver Canucks,2022020200391,2022020200,Faceoff,391,FACEOFF,J.T. Miller faceoff won against Claude Giroux,2022-11-09T02:21:20Z,3,14:37,05:23,3,4,23.0,Vancouver Canucks,VAN
+278,9,23,Ottawa Senators,Vancouver Canucks,2022020200422,2022020200,Giveaway,422,GIVEAWAY,Giveaway by Thomas Chabot,2022-11-09T02:21:38Z,3,14:55,05:05,3,4,9.0,Ottawa Senators,OTT
+279,9,23,Ottawa Senators,Vancouver Canucks,2022020200423,2022020200,Giveaway,423,GIVEAWAY,Giveaway by Erik Brannstrom,2022-11-09T02:21:40Z,3,14:57,05:03,3,4,9.0,Ottawa Senators,OTT
+280,9,23,Ottawa Senators,Vancouver Canucks,2022020200672,2022020200,Goal,672,GOAL,"Jack Studnicka (1) Wrist Shot, assists: none",2022-11-09T02:21:42Z,3,14:59,05:01,3,5,23.0,Vancouver Canucks,VAN
+281,9,23,Ottawa Senators,Vancouver Canucks,2022020200392,2022020200,Faceoff,392,FACEOFF,Derick Brassard faceoff won against Bo Horvat,2022-11-09T02:22:25Z,3,14:59,05:01,3,5,9.0,Ottawa Senators,OTT
+282,9,23,Ottawa Senators,Vancouver Canucks,2022020200673,2022020200,Shot,673,SHOT,Derick Brassard Wrist Shot saved by Spencer Martin,2022-11-09T02:22:41Z,3,15:15,04:45,3,5,9.0,Ottawa Senators,OTT
+283,9,23,Ottawa Senators,Vancouver Canucks,20220202001029,2022020200,Penalty,1029,PENALTY,Vasily Podkolzin Delaying Game - Puck over glass,2022-11-09T02:22:45Z,3,15:19,04:41,3,5,23.0,Vancouver Canucks,VAN
+284,9,23,Ottawa Senators,Vancouver Canucks,2022020200393,2022020200,Faceoff,393,FACEOFF,Bo Horvat faceoff won against Brady Tkachuk,2022-11-09T02:23:19Z,3,15:19,04:41,3,5,23.0,Vancouver Canucks,VAN
+285,9,23,Ottawa Senators,Vancouver Canucks,2022020200674,2022020200,Shot,674,SHOT,Elias Pettersson Wrist Shot saved by Cam Talbot,2022-11-09T02:23:27Z,3,15:27,04:33,3,5,23.0,Vancouver Canucks,VAN
+286,9,23,Ottawa Senators,Vancouver Canucks,2022020200424,2022020200,Giveaway,424,GIVEAWAY,Giveaway by Luke Schenn,2022-11-09T02:25:04Z,3,17:04,02:56,3,5,23.0,Vancouver Canucks,VAN
+287,9,23,Ottawa Senators,Vancouver Canucks,2022020200676,2022020200,Goal,676,GOAL,"Claude Giroux (7) Wrist Shot, assists: Jake Sanderson (6)",2022-11-09T02:25:08Z,3,17:09,02:51,4,5,9.0,Ottawa Senators,OTT
+288,9,23,Ottawa Senators,Vancouver Canucks,2022020200394,2022020200,Faceoff,394,FACEOFF,Derick Brassard faceoff won against J.T. Miller,2022-11-09T02:26:06Z,3,17:09,02:51,4,5,9.0,Ottawa Senators,OTT
+289,9,23,Ottawa Senators,Vancouver Canucks,2022020200395,2022020200,Hit,395,HIT,Oliver Ekman-Larsson hit Alex DeBrincat,2022-11-09T02:27:34Z,3,18:37,01:23,4,5,23.0,Vancouver Canucks,VAN
+290,9,23,Ottawa Senators,Vancouver Canucks,2022020200396,2022020200,Hit,396,HIT,Thomas Chabot hit Tanner Pearson,2022-11-09T02:27:54Z,3,18:57,01:03,4,5,9.0,Ottawa Senators,OTT
+291,9,23,Ottawa Senators,Vancouver Canucks,2022020200425,2022020200,Giveaway,425,GIVEAWAY,Giveaway by Tyler Myers,2022-11-09T02:28:01Z,3,19:04,00:56,4,5,23.0,Vancouver Canucks,VAN
+292,9,23,Ottawa Senators,Vancouver Canucks,2022020200677,2022020200,Blocked Shot,677,BLOCKED_SHOT,Claude Giroux shot blocked shot by J.T. Miller,2022-11-09T02:28:06Z,3,19:09,00:51,4,5,23.0,Vancouver Canucks,VAN
+293,9,23,Ottawa Senators,Vancouver Canucks,2022020200678,2022020200,Goal,678,GOAL,"Elias Pettersson (6) Wrist Shot, assists: J.T. Miller (6), Tyler Myers (4)",2022-11-09T02:28:12Z,3,19:15,00:45,4,6,23.0,Vancouver Canucks,VAN
+294,9,23,Ottawa Senators,Vancouver Canucks,2022020200397,2022020200,Faceoff,397,FACEOFF,Shane Pinto faceoff won against Bo Horvat,2022-11-09T02:28:57Z,3,19:15,00:45,4,6,9.0,Ottawa Senators,OTT
+295,9,23,Ottawa Senators,Vancouver Canucks,2022020200427,2022020200,Stoppage,427,STOP,Home Timeout,2022-11-09T02:29:29Z,3,19:47,00:13,4,6,,,
+296,9,23,Ottawa Senators,Vancouver Canucks,20220202001165,2022020200,Penalty,1165,PENALTY,Ilya Mikheyev Hooking against Jake Sanderson,2022-11-09T02:29:29Z,3,19:47,00:13,4,6,23.0,Vancouver Canucks,VAN
+297,9,23,Ottawa Senators,Vancouver Canucks,2022020200398,2022020200,Faceoff,398,FACEOFF,Bo Horvat faceoff won against Brady Tkachuk,2022-11-09T02:30:57Z,3,19:47,00:13,4,6,23.0,Vancouver Canucks,VAN
+298,9,23,Ottawa Senators,Vancouver Canucks,2022020200428,2022020200,Stoppage,428,STOP,Offside,2022-11-09T02:31:09Z,3,19:58,00:02,4,6,,,
+299,9,23,Ottawa Senators,Vancouver Canucks,2022020200399,2022020200,Faceoff,399,FACEOFF,Bo Horvat faceoff won against Brady Tkachuk,2022-11-09T02:31:36Z,3,19:58,00:02,4,6,23.0,Vancouver Canucks,VAN
+300,9,23,Ottawa Senators,Vancouver Canucks,2022020200679,2022020200,Period End,679,PERIOD_END,End of 3rd Period,2022-11-09T02:31:38Z,3,20:00,00:00,4,6,,,
+301,9,23,Ottawa Senators,Vancouver Canucks,2022020200683,2022020200,Penalty,683,PENALTY,Brady Tkachuk Roughing against Ethan Bear,2022-11-09T02:31:38Z,3,20:00,00:00,4,6,9.0,Ottawa Senators,OTT
+302,9,23,Ottawa Senators,Vancouver Canucks,2022020200686,2022020200,Penalty,686,PENALTY,Ethan Bear Roughing against Brady Tkachuk,2022-11-09T02:31:38Z,3,20:00,00:00,4,6,23.0,Vancouver Canucks,VAN
+303,9,23,Ottawa Senators,Vancouver Canucks,2022020200689,2022020200,Period Official,689,PERIOD_OFFICIAL,Period Official,2022-11-09T02:34:21Z,3,20:00,00:00,4,6,,,
+304,9,23,Ottawa Senators,Vancouver Canucks,2022020200690,2022020200,Game End,690,GAME_END,Game End,2022-11-09T02:34:28Z,3,20:00,00:00,4,6,,,
+305,9,23,Ottawa Senators,Vancouver Canucks,20220202001341,2022020200,Game Official,1341,GAME_OFFICIAL,Game Official,2022-11-22T01:36:48Z,3,20:00,00:00,4,6,,,

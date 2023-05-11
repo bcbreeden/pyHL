@@ -1,0 +1,339 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,18,25,Nashville Predators,Dallas Stars,20220200161,2022020016,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-10-13T23:45:02Z,1,00:00,20:00,0,0,,,
+1,18,25,Nashville Predators,Dallas Stars,20220200165,2022020016,Period Ready,5,PERIOD_READY,Period Ready,2022-10-14T00:38:03Z,1,00:00,20:00,0,0,,,
+2,18,25,Nashville Predators,Dallas Stars,2022020016101,2022020016,Period Start,101,PERIOD_START,Period Start,2022-10-14T00:38:36Z,1,00:00,20:00,0,0,,,
+3,18,25,Nashville Predators,Dallas Stars,2022020016102,2022020016,Faceoff,102,FACEOFF,Mikael Granlund faceoff won against Wyatt Johnston,2022-10-14T00:38:36Z,1,00:00,20:00,0,0,18.0,Nashville Predators,NSH
+4,18,25,Nashville Predators,Dallas Stars,2022020016151,2022020016,Giveaway,151,GIVEAWAY,Giveaway by Matt Duchene,2022-10-14T00:38:58Z,1,00:22,19:38,0,0,18.0,Nashville Predators,NSH
+5,18,25,Nashville Predators,Dallas Stars,2022020016152,2022020016,Hit,152,HIT,Ryan Johansen hit Jani Hakanpää,2022-10-14T00:39:19Z,1,00:43,19:17,0,0,18.0,Nashville Predators,NSH
+6,18,25,Nashville Predators,Dallas Stars,2022020016153,2022020016,Giveaway,153,GIVEAWAY,Giveaway by Joe Pavelski,2022-10-14T00:39:41Z,1,01:05,18:55,0,0,25.0,Dallas Stars,DAL
+7,18,25,Nashville Predators,Dallas Stars,2022020016103,2022020016,Blocked Shot,103,BLOCKED_SHOT,Mattias Ekholm shot blocked shot by Roope Hintz,2022-10-14T00:39:45Z,1,01:09,18:51,0,0,25.0,Dallas Stars,DAL
+8,18,25,Nashville Predators,Dallas Stars,2022020016104,2022020016,Missed Shot,104,MISSED_SHOT,Tyler Seguin Wide of Net Juuse Saros,2022-10-14T00:40:10Z,1,01:34,18:26,0,0,25.0,Dallas Stars,DAL
+9,18,25,Nashville Predators,Dallas Stars,2022020016154,2022020016,Takeaway,154,TAKEAWAY,Takeaway by Tyler Seguin,2022-10-14T00:40:10Z,1,01:34,18:26,0,0,25.0,Dallas Stars,DAL
+10,18,25,Nashville Predators,Dallas Stars,2022020016155,2022020016,Hit,155,HIT,Tyler Seguin hit Mattias Ekholm,2022-10-14T00:40:17Z,1,01:41,18:19,0,0,25.0,Dallas Stars,DAL
+11,18,25,Nashville Predators,Dallas Stars,2022020016156,2022020016,Hit,156,HIT,Colton Sissons hit Esa Lindell,2022-10-14T00:40:28Z,1,01:52,18:08,0,0,18.0,Nashville Predators,NSH
+12,18,25,Nashville Predators,Dallas Stars,20220200168,2022020016,Hit,8,HIT,Mark Borowiecki hit Ty Dellandrea,2022-10-14T00:40:35Z,1,01:59,18:01,0,0,18.0,Nashville Predators,NSH
+13,18,25,Nashville Predators,Dallas Stars,2022020016158,2022020016,Hit,158,HIT,Ty Dellandrea hit Mark Borowiecki,2022-10-14T00:40:40Z,1,02:04,17:56,0,0,25.0,Dallas Stars,DAL
+14,18,25,Nashville Predators,Dallas Stars,20220200169,2022020016,Stoppage,9,STOP,Icing,2022-10-14T00:40:49Z,1,02:12,17:48,0,0,,,
+15,18,25,Nashville Predators,Dallas Stars,2022020016105,2022020016,Faceoff,105,FACEOFF,Mikael Granlund faceoff won against Tyler Seguin,2022-10-14T00:41:12Z,1,02:12,17:48,0,0,18.0,Nashville Predators,NSH
+16,18,25,Nashville Predators,Dallas Stars,2022020016106,2022020016,Shot,106,SHOT,Mikael Granlund Deflected saved by Jake Oettinger,2022-10-14T00:41:21Z,1,02:21,17:39,0,0,18.0,Nashville Predators,NSH
+17,18,25,Nashville Predators,Dallas Stars,2022020016119,2022020016,Blocked Shot,119,BLOCKED_SHOT,Roman Josi shot blocked shot by Ty Dellandrea,2022-10-14T00:41:21Z,1,02:21,17:39,0,0,25.0,Dallas Stars,DAL
+18,18,25,Nashville Predators,Dallas Stars,2022020016107,2022020016,Goal,107,GOAL,"Mason Marchment (1) Wrist Shot, assists: Tyler Seguin (1)",2022-10-14T00:41:32Z,1,02:31,17:29,0,1,25.0,Dallas Stars,DAL
+19,18,25,Nashville Predators,Dallas Stars,202202001610,2022020016,Faceoff,10,FACEOFF,Radek Faksa faceoff won against Michael McCarron,2022-10-14T00:42:09Z,1,02:31,17:29,0,1,25.0,Dallas Stars,DAL
+20,18,25,Nashville Predators,Dallas Stars,2022020016159,2022020016,Hit,159,HIT,Kiefer Sherwood hit Miro Heiskanen,2022-10-14T00:42:15Z,1,02:37,17:23,0,1,18.0,Nashville Predators,NSH
+21,18,25,Nashville Predators,Dallas Stars,2022020016108,2022020016,Shot,108,SHOT,Joel Kiviranta Wrist Shot saved by Juuse Saros,2022-10-14T00:42:23Z,1,02:45,17:15,0,1,25.0,Dallas Stars,DAL
+22,18,25,Nashville Predators,Dallas Stars,2022020016160,2022020016,Giveaway,160,GIVEAWAY,Giveaway by Colin Miller,2022-10-14T00:42:35Z,1,02:57,17:03,0,1,25.0,Dallas Stars,DAL
+23,18,25,Nashville Predators,Dallas Stars,202202001611,2022020016,Stoppage,11,STOP,Icing,2022-10-14T00:42:44Z,1,03:06,16:54,0,1,,,
+24,18,25,Nashville Predators,Dallas Stars,2022020016109,2022020016,Faceoff,109,FACEOFF,Michael McCarron faceoff won against Joe Pavelski,2022-10-14T00:43:14Z,1,03:06,16:54,0,1,18.0,Nashville Predators,NSH
+25,18,25,Nashville Predators,Dallas Stars,2022020016161,2022020016,Hit,161,HIT,Dante Fabbro hit Joe Pavelski,2022-10-14T00:43:23Z,1,03:15,16:45,0,1,18.0,Nashville Predators,NSH
+26,18,25,Nashville Predators,Dallas Stars,2022020016110,2022020016,Shot,110,SHOT,Roope Hintz Wrist Shot saved by Juuse Saros,2022-10-14T00:43:31Z,1,03:23,16:37,0,1,25.0,Dallas Stars,DAL
+27,18,25,Nashville Predators,Dallas Stars,202202001612,2022020016,Stoppage,12,STOP,Goalie Stopped,2022-10-14T00:43:31Z,1,03:24,16:36,0,1,,,
+28,18,25,Nashville Predators,Dallas Stars,2022020016111,2022020016,Faceoff,111,FACEOFF,Ryan Johansen faceoff won against Jamie Benn,2022-10-14T00:43:59Z,1,03:24,16:36,0,1,18.0,Nashville Predators,NSH
+29,18,25,Nashville Predators,Dallas Stars,2022020016112,2022020016,Blocked Shot,112,BLOCKED_SHOT,Denis Gurianov shot blocked shot by Eeli Tolvanen,2022-10-14T00:44:21Z,1,03:46,16:14,0,1,18.0,Nashville Predators,NSH
+30,18,25,Nashville Predators,Dallas Stars,202202001613,2022020016,Stoppage,13,STOP,Icing,2022-10-14T00:44:41Z,1,04:07,15:53,0,1,,,
+31,18,25,Nashville Predators,Dallas Stars,2022020016113,2022020016,Faceoff,113,FACEOFF,Colton Sissons faceoff won against Tyler Seguin,2022-10-14T00:45:09Z,1,04:07,15:53,0,1,18.0,Nashville Predators,NSH
+32,18,25,Nashville Predators,Dallas Stars,202202001614,2022020016,Stoppage,14,STOP,Icing,2022-10-14T00:45:24Z,1,04:21,15:39,0,1,,,
+33,18,25,Nashville Predators,Dallas Stars,2022020016114,2022020016,Faceoff,114,FACEOFF,Colton Sissons faceoff won against Tyler Seguin,2022-10-14T00:45:49Z,1,04:21,15:39,0,1,18.0,Nashville Predators,NSH
+34,18,25,Nashville Predators,Dallas Stars,2022020016162,2022020016,Hit,162,HIT,Esa Lindell hit Tanner Jeannot,2022-10-14T00:45:54Z,1,04:27,15:33,0,1,25.0,Dallas Stars,DAL
+35,18,25,Nashville Predators,Dallas Stars,2022020016115,2022020016,Shot,115,SHOT,Tyler Seguin Wrist Shot saved by Juuse Saros,2022-10-14T00:45:56Z,1,04:29,15:31,0,1,25.0,Dallas Stars,DAL
+36,18,25,Nashville Predators,Dallas Stars,202202001615,2022020016,Stoppage,15,STOP,Offside,2022-10-14T00:46:09Z,1,04:42,15:18,0,1,,,
+37,18,25,Nashville Predators,Dallas Stars,2022020016116,2022020016,Faceoff,116,FACEOFF,Luke Glendening faceoff won against Michael McCarron,2022-10-14T00:46:39Z,1,04:42,15:18,0,1,25.0,Dallas Stars,DAL
+38,18,25,Nashville Predators,Dallas Stars,2022020016163,2022020016,Hit,163,HIT,Kiefer Sherwood hit Miro Heiskanen,2022-10-14T00:46:46Z,1,04:49,15:11,0,1,18.0,Nashville Predators,NSH
+39,18,25,Nashville Predators,Dallas Stars,2022020016117,2022020016,Shot,117,SHOT,Radek Faksa Snap Shot saved by Juuse Saros,2022-10-14T00:47:03Z,1,05:06,14:54,0,1,25.0,Dallas Stars,DAL
+40,18,25,Nashville Predators,Dallas Stars,2022020016164,2022020016,Hit,164,HIT,Michael McCarron hit Joel Kiviranta,2022-10-14T00:47:06Z,1,05:09,14:51,0,1,18.0,Nashville Predators,NSH
+41,18,25,Nashville Predators,Dallas Stars,2022020016165,2022020016,Takeaway,165,TAKEAWAY,Takeaway by Alexandre Carrier,2022-10-14T00:47:35Z,1,05:38,14:22,0,1,18.0,Nashville Predators,NSH
+42,18,25,Nashville Predators,Dallas Stars,2022020016166,2022020016,Hit,166,HIT,Mikael Granlund hit Jani Hakanpää,2022-10-14T00:47:40Z,1,05:43,14:17,0,1,18.0,Nashville Predators,NSH
+43,18,25,Nashville Predators,Dallas Stars,2022020016167,2022020016,Hit,167,HIT,Joe Pavelski hit Roman Josi,2022-10-14T00:47:57Z,1,06:00,14:00,0,1,25.0,Dallas Stars,DAL
+44,18,25,Nashville Predators,Dallas Stars,202202001616,2022020016,Stoppage,16,STOP,Goalie Stopped,2022-10-14T00:48:12Z,1,06:14,13:46,0,1,,,
+45,18,25,Nashville Predators,Dallas Stars,2022020016118,2022020016,Shot,118,SHOT,Filip Forsberg Snap Shot saved by Jake Oettinger,2022-10-14T00:48:12Z,1,06:14,13:46,0,1,18.0,Nashville Predators,NSH
+46,18,25,Nashville Predators,Dallas Stars,2022020016120,2022020016,Faceoff,120,FACEOFF,Ryan Johansen faceoff won against Tyler Seguin,2022-10-14T00:50:53Z,1,06:14,13:46,0,1,18.0,Nashville Predators,NSH
+47,18,25,Nashville Predators,Dallas Stars,2022020016121,2022020016,Shot,121,SHOT,Dante Fabbro Snap Shot saved by Jake Oettinger,2022-10-14T00:50:57Z,1,06:18,13:42,0,1,18.0,Nashville Predators,NSH
+48,18,25,Nashville Predators,Dallas Stars,2022020016122,2022020016,Missed Shot,122,MISSED_SHOT,Eeli Tolvanen Wide of Net Jake Oettinger,2022-10-14T00:51:04Z,1,06:25,13:35,0,1,18.0,Nashville Predators,NSH
+49,18,25,Nashville Predators,Dallas Stars,2022020016123,2022020016,Blocked Shot,123,BLOCKED_SHOT,Ryan Johansen shot blocked shot by Esa Lindell,2022-10-14T00:51:14Z,1,06:35,13:25,0,1,25.0,Dallas Stars,DAL
+50,18,25,Nashville Predators,Dallas Stars,2022020016124,2022020016,Shot,124,SHOT,Nino Niederreiter Wrist Shot saved by Jake Oettinger,2022-10-14T00:51:29Z,1,06:50,13:10,0,1,18.0,Nashville Predators,NSH
+51,18,25,Nashville Predators,Dallas Stars,2022020016126,2022020016,Blocked Shot,126,BLOCKED_SHOT,Ryan McDonagh shot blocked shot by Colin Miller,2022-10-14T00:52:05Z,1,07:26,12:34,0,1,25.0,Dallas Stars,DAL
+52,18,25,Nashville Predators,Dallas Stars,2022020016214,2022020016,Penalty,214,PENALTY,Miro Heiskanen Tripping against Yakov Trenin,2022-10-14T00:52:32Z,1,07:54,12:06,0,1,25.0,Dallas Stars,DAL
+53,18,25,Nashville Predators,Dallas Stars,2022020016127,2022020016,Faceoff,127,FACEOFF,Radek Faksa faceoff won against Ryan Johansen,2022-10-14T00:53:14Z,1,07:54,12:06,0,1,25.0,Dallas Stars,DAL
+54,18,25,Nashville Predators,Dallas Stars,2022020016128,2022020016,Shot,128,SHOT,Matt Duchene Slap Shot saved by Jake Oettinger,2022-10-14T00:53:23Z,1,08:03,11:57,0,1,18.0,Nashville Predators,NSH
+55,18,25,Nashville Predators,Dallas Stars,2022020016168,2022020016,Giveaway,168,GIVEAWAY,Giveaway by Ryan Johansen,2022-10-14T00:53:40Z,1,08:20,11:40,0,1,18.0,Nashville Predators,NSH
+56,18,25,Nashville Predators,Dallas Stars,2022020016169,2022020016,Hit,169,HIT,Ty Dellandrea hit Ryan Johansen,2022-10-14T00:54:05Z,1,08:45,11:15,0,1,25.0,Dallas Stars,DAL
+57,18,25,Nashville Predators,Dallas Stars,2022020016129,2022020016,Shot,129,SHOT,Filip Forsberg Snap Shot saved by Jake Oettinger,2022-10-14T00:54:24Z,1,09:04,10:56,0,1,18.0,Nashville Predators,NSH
+58,18,25,Nashville Predators,Dallas Stars,2022020016170,2022020016,Giveaway,170,GIVEAWAY,Giveaway by Tyler Seguin,2022-10-14T00:54:47Z,1,09:27,10:33,0,1,25.0,Dallas Stars,DAL
+59,18,25,Nashville Predators,Dallas Stars,2022020016130,2022020016,Blocked Shot,130,BLOCKED_SHOT,Kiefer Sherwood shot blocked shot by Jani Hakanpää,2022-10-14T00:55:14Z,1,09:54,10:06,0,1,25.0,Dallas Stars,DAL
+60,18,25,Nashville Predators,Dallas Stars,2022020016131,2022020016,Shot,131,SHOT,Joel Kiviranta Wrist Shot saved by Juuse Saros,2022-10-14T00:55:25Z,1,10:05,09:55,0,1,25.0,Dallas Stars,DAL
+61,18,25,Nashville Predators,Dallas Stars,2022020016171,2022020016,Hit,171,HIT,Ryan McDonagh hit Joel Kiviranta,2022-10-14T00:55:25Z,1,10:05,09:55,0,1,18.0,Nashville Predators,NSH
+62,18,25,Nashville Predators,Dallas Stars,2022020016172,2022020016,Takeaway,172,TAKEAWAY,Takeaway by Joe Pavelski,2022-10-14T00:55:46Z,1,10:26,09:34,0,1,25.0,Dallas Stars,DAL
+63,18,25,Nashville Predators,Dallas Stars,2022020016132,2022020016,Blocked Shot,132,BLOCKED_SHOT,Mattias Ekholm shot blocked shot by Nils Lundkvist,2022-10-14T00:56:10Z,1,10:50,09:10,0,1,25.0,Dallas Stars,DAL
+64,18,25,Nashville Predators,Dallas Stars,2022020016173,2022020016,Hit,173,HIT,Colton Sissons hit Nils Lundkvist,2022-10-14T00:56:14Z,1,10:54,09:06,0,1,18.0,Nashville Predators,NSH
+65,18,25,Nashville Predators,Dallas Stars,2022020016190,2022020016,Giveaway,190,GIVEAWAY,Giveaway by Yakov Trenin,2022-10-14T00:56:25Z,1,11:05,08:55,0,1,18.0,Nashville Predators,NSH
+66,18,25,Nashville Predators,Dallas Stars,2022020016175,2022020016,Hit,175,HIT,Jani Hakanpää hit Filip Forsberg,2022-10-14T00:56:40Z,1,11:20,08:40,0,1,25.0,Dallas Stars,DAL
+67,18,25,Nashville Predators,Dallas Stars,2022020016176,2022020016,Hit,176,HIT,Filip Forsberg hit Jani Hakanpää,2022-10-14T00:56:45Z,1,11:25,08:35,0,1,18.0,Nashville Predators,NSH
+68,18,25,Nashville Predators,Dallas Stars,2022020016177,2022020016,Giveaway,177,GIVEAWAY,Giveaway by Mason Marchment,2022-10-14T00:57:02Z,1,11:42,08:18,0,1,25.0,Dallas Stars,DAL
+69,18,25,Nashville Predators,Dallas Stars,2022020016178,2022020016,Hit,178,HIT,Mikael Granlund hit Ty Dellandrea,2022-10-14T00:57:11Z,1,11:51,08:09,0,1,18.0,Nashville Predators,NSH
+70,18,25,Nashville Predators,Dallas Stars,2022020016179,2022020016,Hit,179,HIT,Jamie Benn hit Nino Niederreiter,2022-10-14T00:57:40Z,1,12:20,07:40,0,1,25.0,Dallas Stars,DAL
+71,18,25,Nashville Predators,Dallas Stars,2022020016180,2022020016,Hit,180,HIT,Michael McCarron hit Esa Lindell,2022-10-14T00:57:56Z,1,12:36,07:24,0,1,18.0,Nashville Predators,NSH
+72,18,25,Nashville Predators,Dallas Stars,2022020016181,2022020016,Hit,181,HIT,Radek Faksa hit Cole Smith,2022-10-14T00:58:08Z,1,12:48,07:12,0,1,25.0,Dallas Stars,DAL
+73,18,25,Nashville Predators,Dallas Stars,202202001619,2022020016,Takeaway,19,TAKEAWAY,Takeaway by Roman Josi,2022-10-14T00:58:21Z,1,13:01,06:59,0,1,18.0,Nashville Predators,NSH
+74,18,25,Nashville Predators,Dallas Stars,2022020016133,2022020016,Shot,133,SHOT,Yakov Trenin Slap Shot saved by Jake Oettinger,2022-10-14T00:58:41Z,1,13:21,06:39,0,1,18.0,Nashville Predators,NSH
+75,18,25,Nashville Predators,Dallas Stars,2022020016183,2022020016,Takeaway,183,TAKEAWAY,Takeaway by Ryan McDonagh,2022-10-14T00:58:51Z,1,13:31,06:29,0,1,18.0,Nashville Predators,NSH
+76,18,25,Nashville Predators,Dallas Stars,2022020016184,2022020016,Hit,184,HIT,Tanner Jeannot hit Jani Hakanpää,2022-10-14T00:59:01Z,1,13:41,06:19,0,1,18.0,Nashville Predators,NSH
+77,18,25,Nashville Predators,Dallas Stars,2022020016185,2022020016,Hit,185,HIT,Jani Hakanpää hit Yakov Trenin,2022-10-14T00:59:08Z,1,13:48,06:12,0,1,25.0,Dallas Stars,DAL
+78,18,25,Nashville Predators,Dallas Stars,202202001621,2022020016,Stoppage,21,STOP,TV timeout,2022-10-14T00:59:11Z,1,13:51,06:09,0,1,,,
+79,18,25,Nashville Predators,Dallas Stars,2022020016326,2022020016,Penalty,326,PENALTY,Jani Hakanpää Fighting against Tanner Jeannot,2022-10-14T00:59:11Z,1,13:51,06:09,0,1,25.0,Dallas Stars,DAL
+80,18,25,Nashville Predators,Dallas Stars,2022020016330,2022020016,Penalty,330,PENALTY,Yakov Trenin Slashing against Jani Hakanpää,2022-10-14T00:59:11Z,1,13:51,06:09,0,1,18.0,Nashville Predators,NSH
+81,18,25,Nashville Predators,Dallas Stars,2022020016333,2022020016,Penalty,333,PENALTY,Tanner Jeannot Fighting against Jani Hakanpää,2022-10-14T00:59:11Z,1,13:51,06:09,0,1,18.0,Nashville Predators,NSH
+82,18,25,Nashville Predators,Dallas Stars,2022020016134,2022020016,Faceoff,134,FACEOFF,Colton Sissons faceoff won against Roope Hintz,2022-10-14T01:02:07Z,1,13:51,06:09,0,1,18.0,Nashville Predators,NSH
+83,18,25,Nashville Predators,Dallas Stars,2022020016191,2022020016,Giveaway,191,GIVEAWAY,Giveaway by Jamie Benn,2022-10-14T01:02:23Z,1,14:07,05:53,0,1,25.0,Dallas Stars,DAL
+84,18,25,Nashville Predators,Dallas Stars,2022020016192,2022020016,Hit,192,HIT,Mark Borowiecki hit Mason Marchment,2022-10-14T01:03:07Z,1,14:51,05:09,0,1,18.0,Nashville Predators,NSH
+85,18,25,Nashville Predators,Dallas Stars,2022020016135,2022020016,Shot,135,SHOT,Tyler Seguin Slap Shot saved by Juuse Saros,2022-10-14T01:03:26Z,1,15:10,04:50,0,1,25.0,Dallas Stars,DAL
+86,18,25,Nashville Predators,Dallas Stars,2022020016136,2022020016,Missed Shot,136,MISSED_SHOT,Mason Marchment Wide of Net Juuse Saros,2022-10-14T01:03:43Z,1,15:27,04:33,0,1,25.0,Dallas Stars,DAL
+87,18,25,Nashville Predators,Dallas Stars,2022020016193,2022020016,Hit,193,HIT,Mattias Ekholm hit Joel Kiviranta,2022-10-14T01:04:27Z,1,16:11,03:49,0,1,18.0,Nashville Predators,NSH
+88,18,25,Nashville Predators,Dallas Stars,2022020016194,2022020016,Takeaway,194,TAKEAWAY,Takeaway by Miro Heiskanen,2022-10-14T01:04:35Z,1,16:19,03:41,0,1,25.0,Dallas Stars,DAL
+89,18,25,Nashville Predators,Dallas Stars,202202001622,2022020016,Hit,22,HIT,Yakov Trenin hit Miro Heiskanen,2022-10-14T01:04:37Z,1,16:21,03:39,0,1,18.0,Nashville Predators,NSH
+90,18,25,Nashville Predators,Dallas Stars,202202001623,2022020016,Stoppage,23,STOP,Icing,2022-10-14T01:05:09Z,1,16:52,03:08,0,1,,,
+91,18,25,Nashville Predators,Dallas Stars,2022020016137,2022020016,Faceoff,137,FACEOFF,Roope Hintz faceoff won against Eeli Tolvanen,2022-10-14T01:05:50Z,1,16:52,03:08,0,1,25.0,Dallas Stars,DAL
+92,18,25,Nashville Predators,Dallas Stars,2022020016195,2022020016,Hit,195,HIT,Roope Hintz hit Eeli Tolvanen,2022-10-14T01:05:56Z,1,16:58,03:02,0,1,25.0,Dallas Stars,DAL
+93,18,25,Nashville Predators,Dallas Stars,202202001624,2022020016,Stoppage,24,STOP,Goalie Stopped,2022-10-14T01:06:10Z,1,17:12,02:48,0,1,,,
+94,18,25,Nashville Predators,Dallas Stars,2022020016138,2022020016,Shot,138,SHOT,Eeli Tolvanen Tip-In saved by Jake Oettinger,2022-10-14T01:06:10Z,1,17:12,02:48,0,1,18.0,Nashville Predators,NSH
+95,18,25,Nashville Predators,Dallas Stars,2022020016139,2022020016,Faceoff,139,FACEOFF,Tyler Seguin faceoff won against Mikael Granlund,2022-10-14T01:06:42Z,1,17:12,02:48,0,1,25.0,Dallas Stars,DAL
+96,18,25,Nashville Predators,Dallas Stars,2022020016196,2022020016,Takeaway,196,TAKEAWAY,Takeaway by Mikael Granlund,2022-10-14T01:06:55Z,1,17:25,02:35,0,1,18.0,Nashville Predators,NSH
+97,18,25,Nashville Predators,Dallas Stars,2022020016197,2022020016,Hit,197,HIT,Mason Marchment hit Matt Duchene,2022-10-14T01:07:03Z,1,17:33,02:27,0,1,25.0,Dallas Stars,DAL
+98,18,25,Nashville Predators,Dallas Stars,2022020016140,2022020016,Shot,140,SHOT,Mikael Granlund Deflected saved by Jake Oettinger,2022-10-14T01:07:08Z,1,17:38,02:22,0,1,18.0,Nashville Predators,NSH
+99,18,25,Nashville Predators,Dallas Stars,202202001626,2022020016,Stoppage,26,STOP,TV timeout,2022-10-14T01:07:34Z,1,18:03,01:57,0,1,,,
+100,18,25,Nashville Predators,Dallas Stars,202202001627,2022020016,Penalty,27,PENALTY,Too many men/ice served by Kiefer Sherwood,2022-10-14T01:07:34Z,1,18:03,01:57,0,1,18.0,Nashville Predators,NSH
+101,18,25,Nashville Predators,Dallas Stars,2022020016141,2022020016,Faceoff,141,FACEOFF,Jamie Benn faceoff won against Colton Sissons,2022-10-14T01:09:54Z,1,18:03,01:57,0,1,25.0,Dallas Stars,DAL
+102,18,25,Nashville Predators,Dallas Stars,2022020016142,2022020016,Shot,142,SHOT,Jason Robertson Slap Shot saved by Juuse Saros,2022-10-14T01:10:01Z,1,18:10,01:50,0,1,25.0,Dallas Stars,DAL
+103,18,25,Nashville Predators,Dallas Stars,202202001630,2022020016,Stoppage,30,STOP,Puck in Netting,2022-10-14T01:10:20Z,1,18:30,01:30,0,1,,,
+104,18,25,Nashville Predators,Dallas Stars,2022020016143,2022020016,Faceoff,143,FACEOFF,Jamie Benn faceoff won against Michael McCarron,2022-10-14T01:10:53Z,1,18:30,01:30,0,1,25.0,Dallas Stars,DAL
+105,18,25,Nashville Predators,Dallas Stars,2022020016144,2022020016,Missed Shot,144,MISSED_SHOT,Joe Pavelski Wide of Net Juuse Saros,2022-10-14T01:11:04Z,1,18:41,01:19,0,1,25.0,Dallas Stars,DAL
+106,18,25,Nashville Predators,Dallas Stars,202202001631,2022020016,Stoppage,31,STOP,Goalie Stopped,2022-10-14T01:11:11Z,1,18:48,01:12,0,1,,,
+107,18,25,Nashville Predators,Dallas Stars,2022020016145,2022020016,Shot,145,SHOT,Jason Robertson Wrist Shot saved by Juuse Saros,2022-10-14T01:11:11Z,1,18:48,01:12,0,1,25.0,Dallas Stars,DAL
+108,18,25,Nashville Predators,Dallas Stars,2022020016146,2022020016,Faceoff,146,FACEOFF,Tyler Seguin faceoff won against Mikael Granlund,2022-10-14T01:11:36Z,1,18:48,01:12,0,1,25.0,Dallas Stars,DAL
+109,18,25,Nashville Predators,Dallas Stars,2022020016147,2022020016,Shot,147,SHOT,Tyler Seguin Slap Shot saved by Juuse Saros,2022-10-14T01:11:43Z,1,18:55,01:05,0,1,25.0,Dallas Stars,DAL
+110,18,25,Nashville Predators,Dallas Stars,2022020016148,2022020016,Goal,148,GOAL,"Mason Marchment (2) Wrist Shot, assists: Nils Lundkvist (1), Tyler Seguin (2)",2022-10-14T01:11:44Z,1,18:56,01:04,0,2,25.0,Dallas Stars,DAL
+111,18,25,Nashville Predators,Dallas Stars,202202001632,2022020016,Faceoff,32,FACEOFF,Ryan Johansen faceoff won against Tyler Seguin,2022-10-14T01:12:28Z,1,18:56,01:04,0,2,18.0,Nashville Predators,NSH
+112,18,25,Nashville Predators,Dallas Stars,2022020016198,2022020016,Hit,198,HIT,Nino Niederreiter hit Esa Lindell,2022-10-14T01:12:36Z,1,19:04,00:56,0,2,18.0,Nashville Predators,NSH
+113,18,25,Nashville Predators,Dallas Stars,202202001633,2022020016,Stoppage,33,STOP,Offside,2022-10-14T01:12:57Z,1,19:24,00:36,0,2,,,
+114,18,25,Nashville Predators,Dallas Stars,2022020016149,2022020016,Faceoff,149,FACEOFF,Radek Faksa faceoff won against Matt Duchene,2022-10-14T01:13:27Z,1,19:24,00:36,0,2,25.0,Dallas Stars,DAL
+115,18,25,Nashville Predators,Dallas Stars,2022020016199,2022020016,Giveaway,199,GIVEAWAY,Giveaway by Juuse Saros,2022-10-14T01:13:39Z,1,19:37,00:23,0,2,18.0,Nashville Predators,NSH
+116,18,25,Nashville Predators,Dallas Stars,2022020016150,2022020016,Shot,150,SHOT,Joel Kiviranta Wrist Shot saved by Juuse Saros,2022-10-14T01:13:46Z,1,19:44,00:16,0,2,25.0,Dallas Stars,DAL
+117,18,25,Nashville Predators,Dallas Stars,2022020016252,2022020016,Missed Shot,252,MISSED_SHOT,Colin Miller Wide of Net Juuse Saros,2022-10-14T01:13:56Z,1,19:54,00:06,0,2,25.0,Dallas Stars,DAL
+118,18,25,Nashville Predators,Dallas Stars,202202001634,2022020016,Period End,34,PERIOD_END,End of 1st Period,2022-10-14T01:14:02Z,1,20:00,00:00,0,2,,,
+119,18,25,Nashville Predators,Dallas Stars,202202001637,2022020016,Period Official,37,PERIOD_OFFICIAL,Period Official,2022-10-14T01:18:03Z,1,20:00,00:00,0,2,,,
+120,18,25,Nashville Predators,Dallas Stars,202202001638,2022020016,Period Ready,38,PERIOD_READY,Period Ready,2022-10-14T01:31:11Z,2,00:00,20:00,0,2,,,
+121,18,25,Nashville Predators,Dallas Stars,2022020016253,2022020016,Period Start,253,PERIOD_START,Period Start,2022-10-14T01:32:42Z,2,00:00,20:00,0,2,,,
+122,18,25,Nashville Predators,Dallas Stars,2022020016254,2022020016,Faceoff,254,FACEOFF,Roope Hintz faceoff won against Mikael Granlund,2022-10-14T01:32:42Z,2,00:00,20:00,0,2,25.0,Dallas Stars,DAL
+123,18,25,Nashville Predators,Dallas Stars,2022020016200,2022020016,Takeaway,200,TAKEAWAY,Takeaway by Matt Duchene,2022-10-14T01:33:06Z,2,00:24,19:36,0,2,18.0,Nashville Predators,NSH
+124,18,25,Nashville Predators,Dallas Stars,2022020016255,2022020016,Shot,255,SHOT,Alexandre Carrier Wrist Shot saved by Jake Oettinger,2022-10-14T01:33:36Z,2,00:54,19:06,0,2,18.0,Nashville Predators,NSH
+125,18,25,Nashville Predators,Dallas Stars,2022020016351,2022020016,Hit,351,HIT,Ryan Johansen hit Ty Dellandrea,2022-10-14T01:33:41Z,2,00:59,19:01,0,2,18.0,Nashville Predators,NSH
+126,18,25,Nashville Predators,Dallas Stars,2022020016256,2022020016,Shot,256,SHOT,Roman Josi Wrist Shot saved by Jake Oettinger,2022-10-14T01:33:47Z,2,01:05,18:55,0,2,18.0,Nashville Predators,NSH
+127,18,25,Nashville Predators,Dallas Stars,2022020016352,2022020016,Hit,352,HIT,Alexandre Carrier hit Ty Dellandrea,2022-10-14T01:33:59Z,2,01:17,18:43,0,2,18.0,Nashville Predators,NSH
+128,18,25,Nashville Predators,Dallas Stars,2022020016353,2022020016,Hit,353,HIT,Mason Marchment hit Roman Josi,2022-10-14T01:34:12Z,2,01:30,18:30,0,2,25.0,Dallas Stars,DAL
+129,18,25,Nashville Predators,Dallas Stars,2022020016354,2022020016,Hit,354,HIT,Alexandre Carrier hit Mason Marchment,2022-10-14T01:34:15Z,2,01:33,18:27,0,2,18.0,Nashville Predators,NSH
+130,18,25,Nashville Predators,Dallas Stars,2022020016355,2022020016,Hit,355,HIT,Colton Sissons hit Esa Lindell,2022-10-14T01:34:38Z,2,01:56,18:04,0,2,18.0,Nashville Predators,NSH
+131,18,25,Nashville Predators,Dallas Stars,2022020016257,2022020016,Shot,257,SHOT,Colton Sissons Deflected saved by Jake Oettinger,2022-10-14T01:34:40Z,2,01:58,18:02,0,2,18.0,Nashville Predators,NSH
+132,18,25,Nashville Predators,Dallas Stars,2022020016258,2022020016,Missed Shot,258,MISSED_SHOT,Mark Borowiecki Wide of Net Jake Oettinger,2022-10-14T01:34:45Z,2,02:03,17:57,0,2,18.0,Nashville Predators,NSH
+133,18,25,Nashville Predators,Dallas Stars,2022020016264,2022020016,Shot,264,SHOT,Dante Fabbro Wrist Shot saved by Jake Oettinger,2022-10-14T01:34:51Z,2,02:09,17:51,0,2,18.0,Nashville Predators,NSH
+134,18,25,Nashville Predators,Dallas Stars,202202001639,2022020016,Stoppage,39,STOP,Puck in Netting,2022-10-14T01:35:01Z,2,02:19,17:41,0,2,,,
+135,18,25,Nashville Predators,Dallas Stars,2022020016259,2022020016,Blocked Shot,259,BLOCKED_SHOT,Denis Gurianov shot blocked shot by Michael McCarron,2022-10-14T01:35:01Z,2,02:19,17:41,0,2,18.0,Nashville Predators,NSH
+136,18,25,Nashville Predators,Dallas Stars,2022020016260,2022020016,Faceoff,260,FACEOFF,Michael McCarron faceoff won against Luke Glendening,2022-10-14T01:35:26Z,2,02:19,17:41,0,2,18.0,Nashville Predators,NSH
+137,18,25,Nashville Predators,Dallas Stars,2022020016356,2022020016,Hit,356,HIT,Cole Smith hit Miro Heiskanen,2022-10-14T01:35:47Z,2,02:40,17:20,0,2,18.0,Nashville Predators,NSH
+138,18,25,Nashville Predators,Dallas Stars,2022020016357,2022020016,Hit,357,HIT,Kiefer Sherwood hit Joel Kiviranta,2022-10-14T01:35:56Z,2,02:49,17:11,0,2,18.0,Nashville Predators,NSH
+139,18,25,Nashville Predators,Dallas Stars,2022020016358,2022020016,Hit,358,HIT,Luke Glendening hit Mattias Ekholm,2022-10-14T01:36:01Z,2,02:54,17:06,0,2,25.0,Dallas Stars,DAL
+140,18,25,Nashville Predators,Dallas Stars,2022020016261,2022020016,Missed Shot,261,MISSED_SHOT,Radek Faksa Wide of Net Juuse Saros,2022-10-14T01:36:05Z,2,02:58,17:02,0,2,25.0,Dallas Stars,DAL
+141,18,25,Nashville Predators,Dallas Stars,2022020016359,2022020016,Takeaway,359,TAKEAWAY,Takeaway by Radek Faksa,2022-10-14T01:36:11Z,2,03:04,16:56,0,2,25.0,Dallas Stars,DAL
+142,18,25,Nashville Predators,Dallas Stars,202202001640,2022020016,Stoppage,40,STOP,Icing,2022-10-14T01:36:20Z,2,03:14,16:46,0,2,,,
+143,18,25,Nashville Predators,Dallas Stars,2022020016263,2022020016,Faceoff,263,FACEOFF,Michael McCarron faceoff won against Joe Pavelski,2022-10-14T01:36:48Z,2,03:14,16:46,0,2,18.0,Nashville Predators,NSH
+144,18,25,Nashville Predators,Dallas Stars,2022020016360,2022020016,Hit,360,HIT,Jason Robertson hit Alexandre Carrier,2022-10-14T01:37:31Z,2,03:57,16:03,0,2,25.0,Dallas Stars,DAL
+145,18,25,Nashville Predators,Dallas Stars,2022020016362,2022020016,Takeaway,362,TAKEAWAY,Takeaway by Roman Josi,2022-10-14T01:37:53Z,2,04:19,15:41,0,2,18.0,Nashville Predators,NSH
+146,18,25,Nashville Predators,Dallas Stars,2022020016361,2022020016,Hit,361,HIT,Tyler Seguin hit Mikael Granlund,2022-10-14T01:37:58Z,2,04:24,15:36,0,2,25.0,Dallas Stars,DAL
+147,18,25,Nashville Predators,Dallas Stars,2022020016363,2022020016,Hit,363,HIT,Eeli Tolvanen hit Ty Dellandrea,2022-10-14T01:38:16Z,2,04:42,15:18,0,2,18.0,Nashville Predators,NSH
+148,18,25,Nashville Predators,Dallas Stars,2022020016364,2022020016,Giveaway,364,GIVEAWAY,Giveaway by Miro Heiskanen,2022-10-14T01:38:45Z,2,05:11,14:49,0,2,25.0,Dallas Stars,DAL
+149,18,25,Nashville Predators,Dallas Stars,2022020016365,2022020016,Hit,365,HIT,Tanner Jeannot hit Denis Gurianov,2022-10-14T01:39:03Z,2,05:29,14:31,0,2,18.0,Nashville Predators,NSH
+150,18,25,Nashville Predators,Dallas Stars,2022020016366,2022020016,Hit,366,HIT,Jani Hakanpää hit Tanner Jeannot,2022-10-14T01:39:18Z,2,05:44,14:16,0,2,25.0,Dallas Stars,DAL
+151,18,25,Nashville Predators,Dallas Stars,2022020016367,2022020016,Hit,367,HIT,Tanner Jeannot hit Jani Hakanpää,2022-10-14T01:39:22Z,2,05:48,14:12,0,2,18.0,Nashville Predators,NSH
+152,18,25,Nashville Predators,Dallas Stars,2022020016368,2022020016,Hit,368,HIT,Colton Sissons hit Radek Faksa,2022-10-14T01:39:44Z,2,06:10,13:50,0,2,18.0,Nashville Predators,NSH
+153,18,25,Nashville Predators,Dallas Stars,2022020016369,2022020016,Hit,369,HIT,Yakov Trenin hit Jani Hakanpää,2022-10-14T01:39:55Z,2,06:21,13:39,0,2,18.0,Nashville Predators,NSH
+154,18,25,Nashville Predators,Dallas Stars,2022020016370,2022020016,Hit,370,HIT,Michael McCarron hit Jason Robertson,2022-10-14T01:40:29Z,2,06:55,13:05,0,2,18.0,Nashville Predators,NSH
+155,18,25,Nashville Predators,Dallas Stars,2022020016371,2022020016,Hit,371,HIT,Filip Forsberg hit Nils Lundkvist,2022-10-14T01:40:29Z,2,06:55,13:05,0,2,18.0,Nashville Predators,NSH
+156,18,25,Nashville Predators,Dallas Stars,202202001641,2022020016,Stoppage,41,STOP,Puck Frozen,2022-10-14T01:40:40Z,2,07:05,12:55,0,2,,,
+157,18,25,Nashville Predators,Dallas Stars,2022020016265,2022020016,Faceoff,265,FACEOFF,Ryan Johansen faceoff won against Tyler Seguin,2022-10-14T01:42:59Z,2,07:05,12:55,0,2,18.0,Nashville Predators,NSH
+158,18,25,Nashville Predators,Dallas Stars,202202001642,2022020016,Stoppage,42,STOP,Goalie Stopped,2022-10-14T01:43:09Z,2,07:16,12:44,0,2,,,
+159,18,25,Nashville Predators,Dallas Stars,2022020016266,2022020016,Shot,266,SHOT,Mason Marchment Backhand saved by Juuse Saros,2022-10-14T01:43:09Z,2,07:16,12:44,0,2,25.0,Dallas Stars,DAL
+160,18,25,Nashville Predators,Dallas Stars,202202001643,2022020016,Faceoff,43,FACEOFF,Ryan Johansen faceoff won against Tyler Seguin,2022-10-14T01:43:47Z,2,07:16,12:44,0,2,18.0,Nashville Predators,NSH
+161,18,25,Nashville Predators,Dallas Stars,2022020016267,2022020016,Shot,267,SHOT,Eeli Tolvanen Snap Shot saved by Jake Oettinger,2022-10-14T01:43:57Z,2,07:26,12:34,0,2,18.0,Nashville Predators,NSH
+162,18,25,Nashville Predators,Dallas Stars,2022020016268,2022020016,Shot,268,SHOT,Nino Niederreiter Backhand saved by Jake Oettinger,2022-10-14T01:44:05Z,2,07:34,12:26,0,2,18.0,Nashville Predators,NSH
+163,18,25,Nashville Predators,Dallas Stars,2022020016372,2022020016,Hit,372,HIT,Jani Hakanpää hit Cole Smith,2022-10-14T01:44:37Z,2,08:06,11:54,0,2,25.0,Dallas Stars,DAL
+164,18,25,Nashville Predators,Dallas Stars,2022020016269,2022020016,Blocked Shot,269,BLOCKED_SHOT,Jamie Benn shot blocked shot by Michael McCarron,2022-10-14T01:44:44Z,2,08:13,11:47,0,2,18.0,Nashville Predators,NSH
+165,18,25,Nashville Predators,Dallas Stars,202202001644,2022020016,Stoppage,44,STOP,Puck in Crowd,2022-10-14T01:44:50Z,2,08:18,11:42,0,2,,,
+166,18,25,Nashville Predators,Dallas Stars,2022020016270,2022020016,Faceoff,270,FACEOFF,Luke Glendening faceoff won against Michael McCarron,2022-10-14T01:45:17Z,2,08:18,11:42,0,2,25.0,Dallas Stars,DAL
+167,18,25,Nashville Predators,Dallas Stars,202202001645,2022020016,Stoppage,45,STOP,Offside,2022-10-14T01:45:21Z,2,08:22,11:38,0,2,,,
+168,18,25,Nashville Predators,Dallas Stars,2022020016271,2022020016,Faceoff,271,FACEOFF,Luke Glendening faceoff won against Colton Sissons,2022-10-14T01:45:46Z,2,08:22,11:38,0,2,25.0,Dallas Stars,DAL
+169,18,25,Nashville Predators,Dallas Stars,2022020016373,2022020016,Hit,373,HIT,Colton Sissons hit Luke Glendening,2022-10-14T01:45:57Z,2,08:33,11:27,0,2,18.0,Nashville Predators,NSH
+170,18,25,Nashville Predators,Dallas Stars,2022020016374,2022020016,Hit,374,HIT,Colton Sissons hit Joel Kiviranta,2022-10-14T01:46:15Z,2,08:51,11:09,0,2,18.0,Nashville Predators,NSH
+171,18,25,Nashville Predators,Dallas Stars,2022020016375,2022020016,Giveaway,375,GIVEAWAY,Giveaway by Ryan McDonagh,2022-10-14T01:46:27Z,2,09:03,10:57,0,2,18.0,Nashville Predators,NSH
+172,18,25,Nashville Predators,Dallas Stars,2022020016376,2022020016,Giveaway,376,GIVEAWAY,Giveaway by Yakov Trenin,2022-10-14T01:46:34Z,2,09:10,10:50,0,2,18.0,Nashville Predators,NSH
+173,18,25,Nashville Predators,Dallas Stars,2022020016272,2022020016,Shot,272,SHOT,Jason Robertson Snap Shot saved by Juuse Saros,2022-10-14T01:46:41Z,2,09:17,10:43,0,2,25.0,Dallas Stars,DAL
+174,18,25,Nashville Predators,Dallas Stars,2022020016273,2022020016,Blocked Shot,273,BLOCKED_SHOT,Jani Hakanpää shot blocked shot by Roman Josi,2022-10-14T01:46:53Z,2,09:29,10:31,0,2,18.0,Nashville Predators,NSH
+175,18,25,Nashville Predators,Dallas Stars,2022020016377,2022020016,Hit,377,HIT,Joe Pavelski hit Alexandre Carrier,2022-10-14T01:47:09Z,2,09:45,10:15,0,2,25.0,Dallas Stars,DAL
+176,18,25,Nashville Predators,Dallas Stars,2022020016378,2022020016,Giveaway,378,GIVEAWAY,Giveaway by Tyler Seguin,2022-10-14T01:47:26Z,2,10:02,09:58,0,2,25.0,Dallas Stars,DAL
+177,18,25,Nashville Predators,Dallas Stars,202202001646,2022020016,Stoppage,46,STOP,Goalie Stopped,2022-10-14T01:47:44Z,2,10:20,09:40,0,2,,,
+178,18,25,Nashville Predators,Dallas Stars,2022020016274,2022020016,Shot,274,SHOT,Ty Dellandrea Deflected saved by Juuse Saros,2022-10-14T01:47:44Z,2,10:20,09:40,0,2,25.0,Dallas Stars,DAL
+179,18,25,Nashville Predators,Dallas Stars,2022020016275,2022020016,Faceoff,275,FACEOFF,Ryan Johansen faceoff won against Tyler Seguin,2022-10-14T01:50:07Z,2,10:20,09:40,0,2,18.0,Nashville Predators,NSH
+180,18,25,Nashville Predators,Dallas Stars,2022020016276,2022020016,Shot,276,SHOT,Mason Marchment Snap Shot saved by Juuse Saros,2022-10-14T01:50:19Z,2,10:32,09:28,0,2,25.0,Dallas Stars,DAL
+181,18,25,Nashville Predators,Dallas Stars,202202001647,2022020016,Stoppage,47,STOP,Offside,2022-10-14T01:50:24Z,2,10:37,09:23,0,2,,,
+182,18,25,Nashville Predators,Dallas Stars,2022020016277,2022020016,Faceoff,277,FACEOFF,Colton Sissons faceoff won against Wyatt Johnston,2022-10-14T01:50:52Z,2,10:37,09:23,0,2,18.0,Nashville Predators,NSH
+183,18,25,Nashville Predators,Dallas Stars,2022020016278,2022020016,Missed Shot,278,MISSED_SHOT,Tanner  Jeannot Wide of Net Jake Oettinger,2022-10-14T01:51:07Z,2,10:52,09:08,0,2,18.0,Nashville Predators,NSH
+184,18,25,Nashville Predators,Dallas Stars,2022020016379,2022020016,Hit,379,HIT,Yakov Trenin hit Wyatt Johnston,2022-10-14T01:51:09Z,2,10:54,09:06,0,2,18.0,Nashville Predators,NSH
+185,18,25,Nashville Predators,Dallas Stars,2022020016279,2022020016,Shot,279,SHOT,Denis Gurianov Wrist Shot saved by Juuse Saros,2022-10-14T01:51:17Z,2,11:02,08:58,0,2,25.0,Dallas Stars,DAL
+186,18,25,Nashville Predators,Dallas Stars,2022020016381,2022020016,Hit,381,HIT,Jamie Benn hit Tanner Jeannot,2022-10-14T01:51:23Z,2,11:08,08:52,0,2,25.0,Dallas Stars,DAL
+187,18,25,Nashville Predators,Dallas Stars,202202001648,2022020016,Stoppage,48,STOP,Puck in Crowd,2022-10-14T01:51:28Z,2,11:13,08:47,0,2,,,
+188,18,25,Nashville Predators,Dallas Stars,2022020016280,2022020016,Faceoff,280,FACEOFF,Luke Glendening faceoff won against Michael McCarron,2022-10-14T01:51:47Z,2,11:13,08:47,0,2,25.0,Dallas Stars,DAL
+189,18,25,Nashville Predators,Dallas Stars,2022020016281,2022020016,Blocked Shot,281,BLOCKED_SHOT,Michael McCarron shot blocked shot by Ryan Suter,2022-10-14T01:52:04Z,2,11:29,08:31,0,2,25.0,Dallas Stars,DAL
+190,18,25,Nashville Predators,Dallas Stars,2022020016282,2022020016,Blocked Shot,282,BLOCKED_SHOT,Cole Smith shot blocked shot by Luke Glendening,2022-10-14T01:52:06Z,2,11:31,08:29,0,2,25.0,Dallas Stars,DAL
+191,18,25,Nashville Predators,Dallas Stars,202202001649,2022020016,Stoppage,49,STOP,Puck Frozen,2022-10-14T01:52:07Z,2,11:32,08:28,0,2,,,
+192,18,25,Nashville Predators,Dallas Stars,2022020016283,2022020016,Faceoff,283,FACEOFF,Matt Duchene faceoff won against Joe Pavelski,2022-10-14T01:53:17Z,2,11:32,08:28,0,2,18.0,Nashville Predators,NSH
+193,18,25,Nashville Predators,Dallas Stars,2022020016284,2022020016,Shot,284,SHOT,Ryan McDonagh Deflected saved by Jake Oettinger,2022-10-14T01:53:24Z,2,11:39,08:21,0,2,18.0,Nashville Predators,NSH
+194,18,25,Nashville Predators,Dallas Stars,202202001650,2022020016,Stoppage,50,STOP,Offside,2022-10-14T01:53:47Z,2,12:02,07:58,0,2,,,
+195,18,25,Nashville Predators,Dallas Stars,2022020016285,2022020016,Faceoff,285,FACEOFF,Ryan Johansen faceoff won against Roope Hintz,2022-10-14T01:54:15Z,2,12:02,07:58,0,2,18.0,Nashville Predators,NSH
+196,18,25,Nashville Predators,Dallas Stars,2022020016286,2022020016,Blocked Shot,286,BLOCKED_SHOT,Nino Niederreiter shot blocked shot by Roope Hintz,2022-10-14T01:54:19Z,2,12:06,07:54,0,2,25.0,Dallas Stars,DAL
+197,18,25,Nashville Predators,Dallas Stars,2022020016451,2022020016,Stoppage,451,STOP,Puck in Netting,2022-10-14T01:54:19Z,2,12:06,07:54,0,2,,,
+198,18,25,Nashville Predators,Dallas Stars,2022020016287,2022020016,Faceoff,287,FACEOFF,Radek Faksa faceoff won against Ryan Johansen,2022-10-14T01:54:50Z,2,12:06,07:54,0,2,25.0,Dallas Stars,DAL
+199,18,25,Nashville Predators,Dallas Stars,2022020016647,2022020016,Penalty,647,PENALTY,Eeli Tolvanen Elbowing against Mason Marchment,2022-10-14T01:54:58Z,2,12:14,07:46,0,2,18.0,Nashville Predators,NSH
+200,18,25,Nashville Predators,Dallas Stars,2022020016288,2022020016,Faceoff,288,FACEOFF,Jamie Benn faceoff won against Colton Sissons,2022-10-14T01:56:11Z,2,12:14,07:46,0,2,25.0,Dallas Stars,DAL
+201,18,25,Nashville Predators,Dallas Stars,2022020016452,2022020016,Stoppage,452,STOP,Puck in Crowd,2022-10-14T01:56:24Z,2,12:27,07:33,0,2,,,
+202,18,25,Nashville Predators,Dallas Stars,2022020016289,2022020016,Faceoff,289,FACEOFF,Colton Sissons faceoff won against Jamie Benn,2022-10-14T01:56:46Z,2,12:27,07:33,0,2,18.0,Nashville Predators,NSH
+203,18,25,Nashville Predators,Dallas Stars,2022020016290,2022020016,Missed Shot,290,MISSED_SHOT,Roope Hintz Hit Crossbar Juuse Saros,2022-10-14T01:57:02Z,2,12:43,07:17,0,2,25.0,Dallas Stars,DAL
+204,18,25,Nashville Predators,Dallas Stars,2022020016291,2022020016,Shot,291,SHOT,Jason Robertson Deflected saved by Juuse Saros,2022-10-14T01:57:17Z,2,12:57,07:03,0,2,25.0,Dallas Stars,DAL
+205,18,25,Nashville Predators,Dallas Stars,2022020016453,2022020016,Stoppage,453,STOP,Puck Frozen,2022-10-14T01:57:17Z,2,12:57,07:03,0,2,,,
+206,18,25,Nashville Predators,Dallas Stars,2022020016292,2022020016,Faceoff,292,FACEOFF,Michael McCarron faceoff won against Tyler Seguin,2022-10-14T01:58:37Z,2,12:57,07:03,0,2,18.0,Nashville Predators,NSH
+207,18,25,Nashville Predators,Dallas Stars,2022020016455,2022020016,Stoppage,455,STOP,High Stick,2022-10-14T01:58:47Z,2,13:07,06:53,0,2,,,
+208,18,25,Nashville Predators,Dallas Stars,2022020016293,2022020016,Faceoff,293,FACEOFF,Tyler Seguin faceoff won against Michael McCarron,2022-10-14T01:59:11Z,2,13:07,06:53,0,2,25.0,Dallas Stars,DAL
+209,18,25,Nashville Predators,Dallas Stars,2022020016294,2022020016,Shot,294,SHOT,Nils Lundkvist Wrist Shot saved by Juuse Saros,2022-10-14T01:59:44Z,2,13:40,06:20,0,2,25.0,Dallas Stars,DAL
+210,18,25,Nashville Predators,Dallas Stars,2022020016382,2022020016,Hit,382,HIT,Joel Kiviranta hit Tanner Jeannot,2022-10-14T02:00:19Z,2,14:15,05:45,0,2,25.0,Dallas Stars,DAL
+211,18,25,Nashville Predators,Dallas Stars,2022020016295,2022020016,Blocked Shot,295,BLOCKED_SHOT,Colin Miller shot blocked shot by Eeli Tolvanen,2022-10-14T02:00:29Z,2,14:25,05:35,0,2,18.0,Nashville Predators,NSH
+212,18,25,Nashville Predators,Dallas Stars,2022020016296,2022020016,Missed Shot,296,MISSED_SHOT,Cole Smith Wide of Net Jake Oettinger,2022-10-14T02:00:41Z,2,14:37,05:23,0,2,18.0,Nashville Predators,NSH
+213,18,25,Nashville Predators,Dallas Stars,2022020016457,2022020016,Stoppage,457,STOP,TV timeout,2022-10-14T02:01:10Z,2,15:06,04:54,0,2,,,
+214,18,25,Nashville Predators,Dallas Stars,2022020016767,2022020016,Penalty,767,PENALTY,Colin Miller Hooking against Eeli Tolvanen,2022-10-14T02:01:10Z,2,15:06,04:54,0,2,25.0,Dallas Stars,DAL
+215,18,25,Nashville Predators,Dallas Stars,2022020016297,2022020016,Faceoff,297,FACEOFF,Ryan Johansen faceoff won against Radek Faksa,2022-10-14T02:03:50Z,2,15:06,04:54,0,2,18.0,Nashville Predators,NSH
+216,18,25,Nashville Predators,Dallas Stars,2022020016298,2022020016,Shot,298,SHOT,Matt Duchene Wrist Shot saved by Jake Oettinger,2022-10-14T02:04:02Z,2,15:18,04:42,0,2,18.0,Nashville Predators,NSH
+217,18,25,Nashville Predators,Dallas Stars,2022020016299,2022020016,Missed Shot,299,MISSED_SHOT,Filip Forsberg Over Net Jake Oettinger,2022-10-14T02:04:12Z,2,15:28,04:32,0,2,18.0,Nashville Predators,NSH
+218,18,25,Nashville Predators,Dallas Stars,2022020016701,2022020016,Blocked Shot,701,BLOCKED_SHOT,Mikael Granlund shot blocked shot by Jani Hakanpää,2022-10-14T02:04:22Z,2,15:38,04:22,0,2,25.0,Dallas Stars,DAL
+219,18,25,Nashville Predators,Dallas Stars,2022020016383,2022020016,Giveaway,383,GIVEAWAY,Giveaway by Ryan Suter,2022-10-14T02:04:54Z,2,16:10,03:50,0,2,25.0,Dallas Stars,DAL
+220,18,25,Nashville Predators,Dallas Stars,2022020016384,2022020016,Hit,384,HIT,Tanner Jeannot hit Ty Dellandrea,2022-10-14T02:05:07Z,2,16:23,03:37,0,2,18.0,Nashville Predators,NSH
+221,18,25,Nashville Predators,Dallas Stars,2022020016458,2022020016,Stoppage,458,STOP,Goalie Stopped,2022-10-14T02:05:36Z,2,16:52,03:08,0,2,,,
+222,18,25,Nashville Predators,Dallas Stars,2022020016702,2022020016,Shot,702,SHOT,Nino Niederreiter Snap Shot saved by Jake Oettinger,2022-10-14T02:05:36Z,2,16:52,03:08,0,2,18.0,Nashville Predators,NSH
+223,18,25,Nashville Predators,Dallas Stars,2022020016703,2022020016,Faceoff,703,FACEOFF,Luke Glendening faceoff won against Colton Sissons,2022-10-14T02:06:07Z,2,16:52,03:08,0,2,25.0,Dallas Stars,DAL
+224,18,25,Nashville Predators,Dallas Stars,2022020016704,2022020016,Shot,704,SHOT,Denis Gurianov Backhand saved by Juuse Saros,2022-10-14T02:06:45Z,2,17:30,02:30,0,2,25.0,Dallas Stars,DAL
+225,18,25,Nashville Predators,Dallas Stars,2022020016705,2022020016,Missed Shot,705,MISSED_SHOT,Mattias Ekholm Wide of Net Jake Oettinger,2022-10-14T02:07:09Z,2,17:54,02:06,0,2,18.0,Nashville Predators,NSH
+226,18,25,Nashville Predators,Dallas Stars,2022020016968,2022020016,Takeaway,968,TAKEAWAY,Takeaway by Wyatt Johnston,2022-10-14T02:07:27Z,2,18:12,01:48,0,2,25.0,Dallas Stars,DAL
+227,18,25,Nashville Predators,Dallas Stars,2022020016969,2022020016,Giveaway,969,GIVEAWAY,Giveaway by Matt Duchene,2022-10-14T02:08:09Z,2,18:54,01:06,0,2,18.0,Nashville Predators,NSH
+228,18,25,Nashville Predators,Dallas Stars,2022020016706,2022020016,Shot,706,SHOT,Miro Heiskanen Snap Shot saved by Juuse Saros,2022-10-14T02:08:14Z,2,18:59,01:01,0,2,25.0,Dallas Stars,DAL
+229,18,25,Nashville Predators,Dallas Stars,2022020016707,2022020016,Goal,707,GOAL,"Joe Pavelski (1) Wrist Shot, assists: Roope Hintz (1), Jason Robertson (1)",2022-10-14T02:08:25Z,2,19:09,00:51,0,3,25.0,Dallas Stars,DAL
+230,18,25,Nashville Predators,Dallas Stars,2022020016459,2022020016,Faceoff,459,FACEOFF,Ryan Johansen faceoff won against Radek Faksa,2022-10-14T02:09:03Z,2,19:09,00:51,0,3,18.0,Nashville Predators,NSH
+231,18,25,Nashville Predators,Dallas Stars,2022020016708,2022020016,Shot,708,SHOT,Nino Niederreiter Wrist Shot saved by Jake Oettinger,2022-10-14T02:09:23Z,2,19:30,00:30,0,3,18.0,Nashville Predators,NSH
+232,18,25,Nashville Predators,Dallas Stars,2022020016711,2022020016,Shot,711,SHOT,Ryan Johansen Wrist Shot saved by Jake Oettinger,2022-10-14T02:09:28Z,2,19:35,00:25,0,3,18.0,Nashville Predators,NSH
+233,18,25,Nashville Predators,Dallas Stars,2022020016710,2022020016,Blocked Shot,710,BLOCKED_SHOT,Nino Niederreiter shot blocked shot by Radek Faksa,2022-10-14T02:09:35Z,2,19:42,00:18,0,3,25.0,Dallas Stars,DAL
+234,18,25,Nashville Predators,Dallas Stars,2022020016709,2022020016,Blocked Shot,709,BLOCKED_SHOT,Tanner Jeannot shot blocked shot by Ty Dellandrea,2022-10-14T02:09:52Z,2,19:59,00:01,0,3,25.0,Dallas Stars,DAL
+235,18,25,Nashville Predators,Dallas Stars,2022020016460,2022020016,Period End,460,PERIOD_END,End of 2nd Period,2022-10-14T02:09:53Z,2,20:00,00:00,0,3,,,
+236,18,25,Nashville Predators,Dallas Stars,2022020016463,2022020016,Period Official,463,PERIOD_OFFICIAL,Period Official,2022-10-14T02:12:00Z,2,20:00,00:00,0,3,,,
+237,18,25,Nashville Predators,Dallas Stars,2022020016464,2022020016,Period Ready,464,PERIOD_READY,Period Ready,2022-10-14T02:27:23Z,3,00:00,20:00,0,3,,,
+238,18,25,Nashville Predators,Dallas Stars,2022020016712,2022020016,Period Start,712,PERIOD_START,Period Start,2022-10-14T02:28:45Z,3,00:00,20:00,0,3,,,
+239,18,25,Nashville Predators,Dallas Stars,2022020016713,2022020016,Faceoff,713,FACEOFF,Joe Pavelski faceoff won against Colton Sissons,2022-10-14T02:28:45Z,3,00:00,20:00,0,3,25.0,Dallas Stars,DAL
+240,18,25,Nashville Predators,Dallas Stars,2022020016714,2022020016,Blocked Shot,714,BLOCKED_SHOT,Miro Heiskanen shot blocked shot by Mattias Ekholm,2022-10-14T02:29:09Z,3,00:24,19:36,0,3,18.0,Nashville Predators,NSH
+241,18,25,Nashville Predators,Dallas Stars,2022020016716,2022020016,Missed Shot,716,MISSED_SHOT,Joe Pavelski Wide of Net Juuse Saros,2022-10-14T02:29:10Z,3,00:25,19:35,0,3,25.0,Dallas Stars,DAL
+242,18,25,Nashville Predators,Dallas Stars,2022020016715,2022020016,Missed Shot,715,MISSED_SHOT,Jason Robertson Wide of Net Juuse Saros,2022-10-14T02:29:20Z,3,00:35,19:25,0,3,25.0,Dallas Stars,DAL
+243,18,25,Nashville Predators,Dallas Stars,2022020016970,2022020016,Hit,970,HIT,Yakov Trenin hit Ty Dellandrea,2022-10-14T02:29:22Z,3,00:37,19:23,0,3,18.0,Nashville Predators,NSH
+244,18,25,Nashville Predators,Dallas Stars,2022020016823,2022020016,Penalty,823,PENALTY,Jani Hakanpää Tripping against Ryan Johansen,2022-10-14T02:30:04Z,3,01:18,18:42,0,3,25.0,Dallas Stars,DAL
+245,18,25,Nashville Predators,Dallas Stars,2022020016717,2022020016,Faceoff,717,FACEOFF,Radek Faksa faceoff won against Ryan Johansen,2022-10-14T02:30:45Z,3,01:18,18:42,0,3,25.0,Dallas Stars,DAL
+246,18,25,Nashville Predators,Dallas Stars,2022020016465,2022020016,Stoppage,465,STOP,Goalie Stopped,2022-10-14T02:31:56Z,3,02:29,17:31,0,3,,,
+247,18,25,Nashville Predators,Dallas Stars,2022020016718,2022020016,Shot,718,SHOT,Filip Forsberg Wrist Shot saved by Jake Oettinger,2022-10-14T02:31:56Z,3,02:29,17:31,0,3,18.0,Nashville Predators,NSH
+248,18,25,Nashville Predators,Dallas Stars,2022020016466,2022020016,Faceoff,466,FACEOFF,Colton Sissons faceoff won against Joel Kiviranta,2022-10-14T02:32:39Z,3,02:29,17:31,0,3,18.0,Nashville Predators,NSH
+249,18,25,Nashville Predators,Dallas Stars,2022020016971,2022020016,Hit,971,HIT,Esa Lindell hit Nino Niederreiter,2022-10-14T02:32:49Z,3,02:39,17:21,0,3,25.0,Dallas Stars,DAL
+250,18,25,Nashville Predators,Dallas Stars,2022020016972,2022020016,Takeaway,972,TAKEAWAY,Takeaway by Esa Lindell,2022-10-14T02:33:07Z,3,02:57,17:03,0,3,25.0,Dallas Stars,DAL
+251,18,25,Nashville Predators,Dallas Stars,2022020016835,2022020016,Penalty,835,PENALTY,Alexandre Carrier Holding against Roope Hintz,2022-10-14T02:33:11Z,3,03:01,16:59,0,3,18.0,Nashville Predators,NSH
+252,18,25,Nashville Predators,Dallas Stars,2022020016719,2022020016,Faceoff,719,FACEOFF,Colton Sissons faceoff won against Joe Pavelski,2022-10-14T02:34:09Z,3,03:01,16:59,0,3,18.0,Nashville Predators,NSH
+253,18,25,Nashville Predators,Dallas Stars,2022020016467,2022020016,Stoppage,467,STOP,Goalie Stopped,2022-10-14T02:34:34Z,3,03:26,16:34,0,3,,,
+254,18,25,Nashville Predators,Dallas Stars,2022020016720,2022020016,Shot,720,SHOT,Jason Robertson Backhand saved by Juuse Saros,2022-10-14T02:34:34Z,3,03:26,16:34,0,3,25.0,Dallas Stars,DAL
+255,18,25,Nashville Predators,Dallas Stars,2022020016721,2022020016,Faceoff,721,FACEOFF,Michael McCarron faceoff won against Joe Pavelski,2022-10-14T02:35:10Z,3,03:26,16:34,0,3,18.0,Nashville Predators,NSH
+256,18,25,Nashville Predators,Dallas Stars,2022020016973,2022020016,Takeaway,973,TAKEAWAY,Takeaway by Yakov Trenin,2022-10-14T02:35:31Z,3,03:47,16:13,0,3,18.0,Nashville Predators,NSH
+257,18,25,Nashville Predators,Dallas Stars,2022020016722,2022020016,Shot,722,SHOT,Miro Heiskanen Wrist Shot saved by Juuse Saros,2022-10-14T02:35:42Z,3,03:58,16:02,0,3,25.0,Dallas Stars,DAL
+258,18,25,Nashville Predators,Dallas Stars,2022020016723,2022020016,Goal,723,GOAL,"Wyatt Johnston (1) Wrist Shot, assists: Tyler Seguin (3), Ryan Suter (1)",2022-10-14T02:36:06Z,3,04:22,15:38,0,4,25.0,Dallas Stars,DAL
+259,18,25,Nashville Predators,Dallas Stars,2022020016468,2022020016,Faceoff,468,FACEOFF,Ryan Johansen faceoff won against Tyler Seguin,2022-10-14T02:36:49Z,3,04:22,15:38,0,4,18.0,Nashville Predators,NSH
+260,18,25,Nashville Predators,Dallas Stars,2022020016974,2022020016,Hit,974,HIT,Jani Hakanpää hit Filip Forsberg,2022-10-14T02:37:13Z,3,04:46,15:14,0,4,25.0,Dallas Stars,DAL
+261,18,25,Nashville Predators,Dallas Stars,2022020016724,2022020016,Goal,724,GOAL,"Ryan Johansen (1) Deflected, assists: Eeli Tolvanen (2)",2022-10-14T02:37:21Z,3,04:53,15:07,1,4,18.0,Nashville Predators,NSH
+262,18,25,Nashville Predators,Dallas Stars,2022020016469,2022020016,Faceoff,469,FACEOFF,Radek Faksa faceoff won against Mikael Granlund,2022-10-14T02:37:58Z,3,04:53,15:07,1,4,25.0,Dallas Stars,DAL
+263,18,25,Nashville Predators,Dallas Stars,2022020016470,2022020016,Stoppage,470,STOP,Icing,2022-10-14T02:38:18Z,3,05:13,14:47,1,4,,,
+264,18,25,Nashville Predators,Dallas Stars,2022020016725,2022020016,Faceoff,725,FACEOFF,Roope Hintz faceoff won against Mikael Granlund,2022-10-14T02:38:42Z,3,05:13,14:47,1,4,25.0,Dallas Stars,DAL
+265,18,25,Nashville Predators,Dallas Stars,2022020016726,2022020016,Shot,726,SHOT,Jason Robertson Wrist Shot saved by Juuse Saros,2022-10-14T02:38:49Z,3,05:20,14:40,1,4,25.0,Dallas Stars,DAL
+266,18,25,Nashville Predators,Dallas Stars,2022020016727,2022020016,Shot,727,SHOT,Joe Pavelski Deflected saved by Juuse Saros,2022-10-14T02:39:01Z,3,05:32,14:28,1,4,25.0,Dallas Stars,DAL
+267,18,25,Nashville Predators,Dallas Stars,2022020016975,2022020016,Hit,975,HIT,Mikael Granlund hit Colin Miller,2022-10-14T02:39:08Z,3,05:39,14:21,1,4,18.0,Nashville Predators,NSH
+268,18,25,Nashville Predators,Dallas Stars,2022020016728,2022020016,Shot,728,SHOT,Nino Niederreiter Backhand saved by Jake Oettinger,2022-10-14T02:39:19Z,3,05:50,14:10,1,4,18.0,Nashville Predators,NSH
+269,18,25,Nashville Predators,Dallas Stars,2022020016471,2022020016,Stoppage,471,STOP,Goalie Stopped,2022-10-14T02:39:21Z,3,05:52,14:08,1,4,,,
+270,18,25,Nashville Predators,Dallas Stars,2022020016729,2022020016,Faceoff,729,FACEOFF,Jamie Benn faceoff won against Ryan Johansen,2022-10-14T02:40:02Z,3,05:52,14:08,1,4,25.0,Dallas Stars,DAL
+271,18,25,Nashville Predators,Dallas Stars,2022020016976,2022020016,Takeaway,976,TAKEAWAY,Takeaway by Jamie Benn,2022-10-14T02:40:23Z,3,06:13,13:47,1,4,25.0,Dallas Stars,DAL
+272,18,25,Nashville Predators,Dallas Stars,2022020016977,2022020016,Hit,977,HIT,Jani Hakanpää hit Eeli Tolvanen,2022-10-14T02:40:33Z,3,06:23,13:37,1,4,25.0,Dallas Stars,DAL
+273,18,25,Nashville Predators,Dallas Stars,2022020016978,2022020016,Hit,978,HIT,Colton Sissons hit Denis Gurianov,2022-10-14T02:40:43Z,3,06:33,13:27,1,4,18.0,Nashville Predators,NSH
+274,18,25,Nashville Predators,Dallas Stars,2022020016979,2022020016,Hit,979,HIT,Colton Sissons hit Jani Hakanpää,2022-10-14T02:41:02Z,3,06:52,13:08,1,4,18.0,Nashville Predators,NSH
+275,18,25,Nashville Predators,Dallas Stars,2022020016980,2022020016,Giveaway,980,GIVEAWAY,Giveaway by Mason Marchment,2022-10-14T02:41:22Z,3,07:12,12:48,1,4,25.0,Dallas Stars,DAL
+276,18,25,Nashville Predators,Dallas Stars,2022020016981,2022020016,Hit,981,HIT,Tanner Jeannot hit Colin Miller,2022-10-14T02:41:31Z,3,07:21,12:39,1,4,18.0,Nashville Predators,NSH
+277,18,25,Nashville Predators,Dallas Stars,2022020016472,2022020016,Hit,472,HIT,Michael McCarron hit Mason Marchment,2022-10-14T02:41:35Z,3,07:25,12:35,1,4,18.0,Nashville Predators,NSH
+278,18,25,Nashville Predators,Dallas Stars,2022020016730,2022020016,Blocked Shot,730,BLOCKED_SHOT,Alexandre Carrier shot blocked shot by Joel Kiviranta,2022-10-14T02:41:51Z,3,07:41,12:19,1,4,25.0,Dallas Stars,DAL
+279,18,25,Nashville Predators,Dallas Stars,2022020016731,2022020016,Blocked Shot,731,BLOCKED_SHOT,Roman Josi shot blocked shot by Luke Glendening,2022-10-14T02:42:21Z,3,08:11,11:49,1,4,25.0,Dallas Stars,DAL
+280,18,25,Nashville Predators,Dallas Stars,2022020016732,2022020016,Shot,732,SHOT,Roman Josi Backhand saved by Jake Oettinger,2022-10-14T02:42:31Z,3,08:21,11:39,1,4,18.0,Nashville Predators,NSH
+281,18,25,Nashville Predators,Dallas Stars,2022020016473,2022020016,Stoppage,473,STOP,TV timeout,2022-10-14T02:42:34Z,3,08:23,11:37,1,4,,,
+282,18,25,Nashville Predators,Dallas Stars,20220200161083,2022020016,Penalty,1083,PENALTY,Esa Lindell Hooking against Michael McCarron,2022-10-14T02:42:34Z,3,08:23,11:37,1,4,25.0,Dallas Stars,DAL
+283,18,25,Nashville Predators,Dallas Stars,2022020016733,2022020016,Faceoff,733,FACEOFF,Ryan Johansen faceoff won against Radek Faksa,2022-10-14T02:44:58Z,3,08:23,11:37,1,4,18.0,Nashville Predators,NSH
+284,18,25,Nashville Predators,Dallas Stars,2022020016734,2022020016,Shot,734,SHOT,Matt Duchene Wrist Shot saved by Jake Oettinger,2022-10-14T02:45:50Z,3,09:15,10:45,1,4,18.0,Nashville Predators,NSH
+285,18,25,Nashville Predators,Dallas Stars,2022020016983,2022020016,Hit,983,HIT,Jani Hakanpää hit Kiefer Sherwood,2022-10-14T02:46:40Z,3,10:05,09:55,1,4,25.0,Dallas Stars,DAL
+286,18,25,Nashville Predators,Dallas Stars,2022020016474,2022020016,Stoppage,474,STOP,Goalie Stopped,2022-10-14T02:46:52Z,3,10:16,09:44,1,4,,,
+287,18,25,Nashville Predators,Dallas Stars,2022020016735,2022020016,Shot,735,SHOT,Alexandre Carrier Snap Shot saved by Jake Oettinger,2022-10-14T02:46:52Z,3,10:16,09:44,1,4,18.0,Nashville Predators,NSH
+288,18,25,Nashville Predators,Dallas Stars,2022020016736,2022020016,Faceoff,736,FACEOFF,Colton Sissons faceoff won against Joe Pavelski,2022-10-14T02:47:19Z,3,10:16,09:44,1,4,18.0,Nashville Predators,NSH
+289,18,25,Nashville Predators,Dallas Stars,2022020016737,2022020016,Shot,737,SHOT,Roman Josi Slap Shot saved by Jake Oettinger,2022-10-14T02:47:24Z,3,10:21,09:39,1,4,18.0,Nashville Predators,NSH
+290,18,25,Nashville Predators,Dallas Stars,2022020016738,2022020016,Blocked Shot,738,BLOCKED_SHOT,Colton Sissons shot blocked shot by Roope Hintz,2022-10-14T02:47:26Z,3,10:23,09:37,1,4,25.0,Dallas Stars,DAL
+291,18,25,Nashville Predators,Dallas Stars,2022020016475,2022020016,Stoppage,475,STOP,Puck in Crowd,2022-10-14T02:47:27Z,3,10:24,09:36,1,4,,,
+292,18,25,Nashville Predators,Dallas Stars,2022020016739,2022020016,Faceoff,739,FACEOFF,Joe Pavelski faceoff won against Colton Sissons,2022-10-14T02:49:46Z,3,10:24,09:36,1,4,25.0,Dallas Stars,DAL
+293,18,25,Nashville Predators,Dallas Stars,2022020016985,2022020016,Hit,985,HIT,Joe Pavelski hit Roman Josi,2022-10-14T02:49:56Z,3,10:34,09:26,1,4,25.0,Dallas Stars,DAL
+294,18,25,Nashville Predators,Dallas Stars,2022020016740,2022020016,Shot,740,SHOT,Joe Pavelski Deflected saved by Juuse Saros,2022-10-14T02:50:07Z,3,10:45,09:15,1,4,25.0,Dallas Stars,DAL
+295,18,25,Nashville Predators,Dallas Stars,2022020016741,2022020016,Shot,741,SHOT,Yakov Trenin Wrist Shot saved by Jake Oettinger,2022-10-14T02:50:23Z,3,11:01,08:59,1,4,18.0,Nashville Predators,NSH
+296,18,25,Nashville Predators,Dallas Stars,2022020016986,2022020016,Hit,986,HIT,Ty Dellandrea hit Matt Duchene,2022-10-14T02:50:40Z,3,11:18,08:42,1,4,25.0,Dallas Stars,DAL
+297,18,25,Nashville Predators,Dallas Stars,2022020016742,2022020016,Blocked Shot,742,BLOCKED_SHOT,Ryan Suter shot blocked shot by Dante Fabbro,2022-10-14T02:51:11Z,3,11:49,08:11,1,4,18.0,Nashville Predators,NSH
+298,18,25,Nashville Predators,Dallas Stars,2022020016743,2022020016,Shot,743,SHOT,Mason Marchment Snap Shot saved by Juuse Saros,2022-10-14T02:51:17Z,3,11:55,08:05,1,4,25.0,Dallas Stars,DAL
+299,18,25,Nashville Predators,Dallas Stars,2022020016987,2022020016,Hit,987,HIT,Mason Marchment hit Filip Forsberg,2022-10-14T02:51:29Z,3,12:07,07:53,1,4,25.0,Dallas Stars,DAL
+300,18,25,Nashville Predators,Dallas Stars,2022020016476,2022020016,Stoppage,476,STOP,Icing,2022-10-14T02:52:10Z,3,12:48,07:12,1,4,,,
+301,18,25,Nashville Predators,Dallas Stars,2022020016744,2022020016,Faceoff,744,FACEOFF,Jamie Benn faceoff won against Colton Sissons,2022-10-14T02:52:41Z,3,12:48,07:12,1,4,25.0,Dallas Stars,DAL
+302,18,25,Nashville Predators,Dallas Stars,2022020016477,2022020016,Stoppage,477,STOP,Puck in Netting,2022-10-14T02:53:38Z,3,13:45,06:15,1,4,,,
+303,18,25,Nashville Predators,Dallas Stars,2022020016746,2022020016,Faceoff,746,FACEOFF,Joe Pavelski faceoff won against Mikael Granlund,2022-10-14T02:54:08Z,3,13:45,06:15,1,4,25.0,Dallas Stars,DAL
+304,18,25,Nashville Predators,Dallas Stars,2022020016988,2022020016,Hit,988,HIT,Joe Pavelski hit Mikael Granlund,2022-10-14T02:54:25Z,3,14:01,05:59,1,4,25.0,Dallas Stars,DAL
+305,18,25,Nashville Predators,Dallas Stars,2022020016747,2022020016,Missed Shot,747,MISSED_SHOT,Filip Forsberg Over Net Jake Oettinger,2022-10-14T02:54:37Z,3,14:13,05:47,1,4,18.0,Nashville Predators,NSH
+306,18,25,Nashville Predators,Dallas Stars,2022020016989,2022020016,Hit,989,HIT,Mikael Granlund hit Roope Hintz,2022-10-14T02:54:39Z,3,14:15,05:45,1,4,18.0,Nashville Predators,NSH
+307,18,25,Nashville Predators,Dallas Stars,2022020016748,2022020016,Missed Shot,748,MISSED_SHOT,Mason Marchment Wide of Net Juuse Saros,2022-10-14T02:55:17Z,3,14:53,05:07,1,4,25.0,Dallas Stars,DAL
+308,18,25,Nashville Predators,Dallas Stars,2022020016990,2022020016,Hit,990,HIT,Cole Smith hit Miro Heiskanen,2022-10-14T02:55:31Z,3,15:07,04:53,1,4,18.0,Nashville Predators,NSH
+309,18,25,Nashville Predators,Dallas Stars,2022020016992,2022020016,Hit,992,HIT,Mason Marchment hit Kiefer Sherwood,2022-10-14T02:55:34Z,3,15:10,04:50,1,4,25.0,Dallas Stars,DAL
+310,18,25,Nashville Predators,Dallas Stars,2022020016478,2022020016,Stoppage,478,STOP,Icing,2022-10-14T02:55:50Z,3,15:27,04:33,1,4,,,
+311,18,25,Nashville Predators,Dallas Stars,2022020016749,2022020016,Faceoff,749,FACEOFF,Wyatt Johnston faceoff won against Ryan Johansen,2022-10-14T02:56:22Z,3,15:27,04:33,1,4,25.0,Dallas Stars,DAL
+312,18,25,Nashville Predators,Dallas Stars,2022020016993,2022020016,Takeaway,993,TAKEAWAY,Takeaway by Esa Lindell,2022-10-14T02:56:35Z,3,15:40,04:20,1,4,25.0,Dallas Stars,DAL
+313,18,25,Nashville Predators,Dallas Stars,2022020016479,2022020016,Hit,479,HIT,Nino Niederreiter hit Esa Lindell,2022-10-14T02:56:38Z,3,15:43,04:17,1,4,18.0,Nashville Predators,NSH
+314,18,25,Nashville Predators,Dallas Stars,2022020016750,2022020016,Missed Shot,750,MISSED_SHOT,Jani Hakanpää Wide of Net Juuse Saros,2022-10-14T02:56:53Z,3,15:58,04:02,1,4,25.0,Dallas Stars,DAL
+315,18,25,Nashville Predators,Dallas Stars,2022020016994,2022020016,Hit,994,HIT,Miro Heiskanen hit Tanner Jeannot,2022-10-14T02:57:23Z,3,16:28,03:32,1,4,25.0,Dallas Stars,DAL
+316,18,25,Nashville Predators,Dallas Stars,2022020016996,2022020016,Giveaway,996,GIVEAWAY,Giveaway by Tanner  Jeannot,2022-10-14T02:57:53Z,3,16:58,03:02,1,4,18.0,Nashville Predators,NSH
+317,18,25,Nashville Predators,Dallas Stars,2022020016998,2022020016,Hit,998,HIT,Tanner Jeannot hit Radek Faksa,2022-10-14T02:57:54Z,3,16:59,03:01,1,4,18.0,Nashville Predators,NSH
+318,18,25,Nashville Predators,Dallas Stars,20220200161101,2022020016,Missed Shot,1101,MISSED_SHOT,Mattias Ekholm Goalpost Jake Oettinger,2022-10-14T02:59:03Z,3,18:08,01:52,1,4,18.0,Nashville Predators,NSH
+319,18,25,Nashville Predators,Dallas Stars,2022020016480,2022020016,Stoppage,480,STOP,Home Timeout,2022-10-14T02:59:05Z,3,18:09,01:51,1,4,,,
+320,18,25,Nashville Predators,Dallas Stars,20220200161280,2022020016,Penalty,1280,PENALTY,Jani Hakanpää Cross-checking against Mikael Granlund,2022-10-14T02:59:05Z,3,18:09,01:51,1,4,25.0,Dallas Stars,DAL
+321,18,25,Nashville Predators,Dallas Stars,20220200161102,2022020016,Faceoff,1102,FACEOFF,Ryan Johansen faceoff won against Radek Faksa,2022-10-14T03:01:17Z,3,18:09,01:51,1,4,18.0,Nashville Predators,NSH
+322,18,25,Nashville Predators,Dallas Stars,20220200161103,2022020016,Shot,1103,SHOT,Filip Forsberg Snap Shot saved by Jake Oettinger,2022-10-14T03:01:28Z,3,18:20,01:40,1,4,18.0,Nashville Predators,NSH
+323,18,25,Nashville Predators,Dallas Stars,20220200161104,2022020016,Missed Shot,1104,MISSED_SHOT,Ryan Johansen Wide of Net Jake Oettinger,2022-10-14T03:01:46Z,3,18:38,01:22,1,4,18.0,Nashville Predators,NSH
+324,18,25,Nashville Predators,Dallas Stars,20220200161105,2022020016,Blocked Shot,1105,BLOCKED_SHOT,Roman Josi shot blocked shot by Luke Glendening,2022-10-14T03:01:54Z,3,18:46,01:14,1,4,25.0,Dallas Stars,DAL
+325,18,25,Nashville Predators,Dallas Stars,2022020016481,2022020016,Stoppage,481,STOP,Goalie Stopped,2022-10-14T03:01:59Z,3,18:51,01:09,1,4,,,
+326,18,25,Nashville Predators,Dallas Stars,20220200161106,2022020016,Shot,1106,SHOT,Roman Josi Slap Shot saved by Jake Oettinger,2022-10-14T03:01:59Z,3,18:51,01:09,1,4,18.0,Nashville Predators,NSH
+327,18,25,Nashville Predators,Dallas Stars,20220200161107,2022020016,Faceoff,1107,FACEOFF,Joe Pavelski faceoff won against Mikael Granlund,2022-10-14T03:02:36Z,3,18:51,01:09,1,4,25.0,Dallas Stars,DAL
+328,18,25,Nashville Predators,Dallas Stars,20220200161108,2022020016,Missed Shot,1108,MISSED_SHOT,Roope Hintz Wide of Net,2022-10-14T03:02:39Z,3,18:54,01:06,1,4,25.0,Dallas Stars,DAL
+329,18,25,Nashville Predators,Dallas Stars,20220200161109,2022020016,Blocked Shot,1109,BLOCKED_SHOT,Roman Josi shot blocked shot by Esa Lindell,2022-10-14T03:03:06Z,3,19:21,00:39,1,4,25.0,Dallas Stars,DAL
+330,18,25,Nashville Predators,Dallas Stars,20220200161110,2022020016,Shot,1110,SHOT,Roman Josi Slap Shot saved by Jake Oettinger,2022-10-14T03:03:22Z,3,19:37,00:23,1,4,18.0,Nashville Predators,NSH
+331,18,25,Nashville Predators,Dallas Stars,2022020016482,2022020016,Stoppage,482,STOP,Goalie Stopped,2022-10-14T03:03:43Z,3,19:56,00:04,1,4,,,
+332,18,25,Nashville Predators,Dallas Stars,20220200161111,2022020016,Shot,1111,SHOT,Filip Forsberg Deflected saved by Jake Oettinger,2022-10-14T03:03:43Z,3,19:56,00:04,1,4,18.0,Nashville Predators,NSH
+333,18,25,Nashville Predators,Dallas Stars,20220200161112,2022020016,Faceoff,1112,FACEOFF,Ty Dellandrea faceoff won against Michael McCarron,2022-10-14T03:04:18Z,3,19:56,00:04,1,4,25.0,Dallas Stars,DAL
+334,18,25,Nashville Predators,Dallas Stars,2022020016483,2022020016,Period End,483,PERIOD_END,End of 3rd Period,2022-10-14T03:04:21Z,3,20:00,00:00,1,4,,,
+335,18,25,Nashville Predators,Dallas Stars,2022020016486,2022020016,Period Official,486,PERIOD_OFFICIAL,Period Official,2022-10-14T03:04:26Z,3,20:00,00:00,1,4,,,
+336,18,25,Nashville Predators,Dallas Stars,2022020016487,2022020016,Game End,487,GAME_END,Game End,2022-10-14T03:04:29Z,3,20:00,00:00,1,4,,,
+337,18,25,Nashville Predators,Dallas Stars,2022020016488,2022020016,Game Official,488,GAME_OFFICIAL,Game Official,2022-10-14T03:14:06Z,3,20:00,00:00,1,4,,,

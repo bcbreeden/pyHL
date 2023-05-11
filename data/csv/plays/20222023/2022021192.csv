@@ -1,0 +1,372 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,5,18,Pittsburgh Penguins,Nashville Predators,20220211921,2022021192,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-03-30T22:15:18Z,1,00:00,20:00,0,0,,,
+1,5,18,Pittsburgh Penguins,Nashville Predators,20220211925,2022021192,Period Ready,5,PERIOD_READY,Period Ready,2023-03-30T23:08:02Z,1,00:00,20:00,0,0,,,
+2,5,18,Pittsburgh Penguins,Nashville Predators,2022021192101,2022021192,Period Start,101,PERIOD_START,Period Start,2023-03-30T23:08:21Z,1,00:00,20:00,0,0,,,
+3,5,18,Pittsburgh Penguins,Nashville Predators,2022021192102,2022021192,Faceoff,102,FACEOFF,Sidney Crosby faceoff won against Colton Sissons,2023-03-30T23:08:21Z,1,00:00,20:00,0,0,5.0,Pittsburgh Penguins,PIT
+4,5,18,Pittsburgh Penguins,Nashville Predators,2022021192103,2022021192,Hit,103,HIT,Brian Dumoulin hit Cole Smith,2023-03-30T23:08:35Z,1,00:14,19:46,0,0,5.0,Pittsburgh Penguins,PIT
+5,5,18,Pittsburgh Penguins,Nashville Predators,2022021192105,2022021192,Hit,105,HIT,Bryan Rust hit Ryan McDonagh,2023-03-30T23:08:50Z,1,00:29,19:31,0,0,5.0,Pittsburgh Penguins,PIT
+6,5,18,Pittsburgh Penguins,Nashville Predators,20220211928,2022021192,Hit,8,HIT,Cole Smith hit Kris Letang,2023-03-30T23:08:59Z,1,00:38,19:22,0,0,18.0,Nashville Predators,NSH
+7,5,18,Pittsburgh Penguins,Nashville Predators,2022021192107,2022021192,Hit,107,HIT,Jeremy Lauzon hit Evgeni Malkin,2023-03-30T23:09:29Z,1,01:08,18:52,0,0,18.0,Nashville Predators,NSH
+8,5,18,Pittsburgh Penguins,Nashville Predators,2022021192122,2022021192,Hit,122,HIT,Rickard Rakell hit Tyson Barrie,2023-03-30T23:09:31Z,1,01:10,18:50,0,0,5.0,Pittsburgh Penguins,PIT
+9,5,18,Pittsburgh Penguins,Nashville Predators,20220211929,2022021192,Hit,9,HIT,Rickard Rakell hit Tyson Barrie,2023-03-30T23:09:35Z,1,01:14,18:46,0,0,5.0,Pittsburgh Penguins,PIT
+10,5,18,Pittsburgh Penguins,Nashville Predators,2022021192151,2022021192,Blocked Shot,151,BLOCKED_SHOT,Pierre-Olivier Joseph shot blocked shot by Egor Afanasyev,2023-03-30T23:09:36Z,1,01:15,18:45,0,0,18.0,Nashville Predators,NSH
+11,5,18,Pittsburgh Penguins,Nashville Predators,2022021192251,2022021192,Shot,251,SHOT,Jeff Petry Wrist Shot saved by Juuse Saros,2023-03-30T23:09:43Z,1,01:22,18:38,0,0,5.0,Pittsburgh Penguins,PIT
+12,5,18,Pittsburgh Penguins,Nashville Predators,2022021192152,2022021192,Missed Shot,152,MISSED_SHOT,Pierre-Olivier Joseph Wide of Net Juuse Saros,2023-03-30T23:09:52Z,1,01:31,18:29,0,0,5.0,Pittsburgh Penguins,PIT
+13,5,18,Pittsburgh Penguins,Nashville Predators,202202119210,2022021192,Takeaway,10,TAKEAWAY,Takeaway by Tommy Novak,2023-03-30T23:10:21Z,1,02:00,18:00,0,0,18.0,Nashville Predators,NSH
+14,5,18,Pittsburgh Penguins,Nashville Predators,2022021192108,2022021192,Hit,108,HIT,Mark Friedman hit Luke Evangelista,2023-03-30T23:10:35Z,1,02:14,17:46,0,0,5.0,Pittsburgh Penguins,PIT
+15,5,18,Pittsburgh Penguins,Nashville Predators,2022021192153,2022021192,Blocked Shot,153,BLOCKED_SHOT,Kevin Gravel shot blocked shot by Mark Friedman,2023-03-30T23:10:43Z,1,02:22,17:38,0,0,5.0,Pittsburgh Penguins,PIT
+16,5,18,Pittsburgh Penguins,Nashville Predators,2022021192109,2022021192,Hit,109,HIT,Kiefer Sherwood hit Mark Friedman,2023-03-30T23:10:47Z,1,02:26,17:34,0,0,18.0,Nashville Predators,NSH
+17,5,18,Pittsburgh Penguins,Nashville Predators,2022021192154,2022021192,Shot,154,SHOT,Danton Heinen Wrist Shot saved by Juuse Saros,2023-03-30T23:10:57Z,1,02:36,17:24,0,0,5.0,Pittsburgh Penguins,PIT
+18,5,18,Pittsburgh Penguins,Nashville Predators,2022021192155,2022021192,Blocked Shot,155,BLOCKED_SHOT,Mark Jankowski shot blocked shot by Josh Archibald,2023-03-30T23:11:28Z,1,03:07,16:53,0,0,5.0,Pittsburgh Penguins,PIT
+19,5,18,Pittsburgh Penguins,Nashville Predators,202202119211,2022021192,Blocked Shot,11,BLOCKED_SHOT,Ryan McDonagh shot blocked shot by Jeff Petry,2023-03-30T23:11:36Z,1,03:15,16:45,0,0,5.0,Pittsburgh Penguins,PIT
+20,5,18,Pittsburgh Penguins,Nashville Predators,2022021192156,2022021192,Shot,156,SHOT,Mark Jankowski Wrist Shot saved by Tristan Jarry,2023-03-30T23:11:46Z,1,03:25,16:35,0,0,18.0,Nashville Predators,NSH
+21,5,18,Pittsburgh Penguins,Nashville Predators,2022021192111,2022021192,Takeaway,111,TAKEAWAY,Takeaway by Mark Jankowski,2023-03-30T23:11:51Z,1,03:30,16:30,0,0,18.0,Nashville Predators,NSH
+22,5,18,Pittsburgh Penguins,Nashville Predators,202202119212,2022021192,Shot,12,SHOT,Michael McCarron Slap Shot saved by Tristan Jarry,2023-03-30T23:11:56Z,1,03:35,16:25,0,0,18.0,Nashville Predators,NSH
+23,5,18,Pittsburgh Penguins,Nashville Predators,2022021192157,2022021192,Missed Shot,157,MISSED_SHOT,Jeff Carter Wide of Net Juuse Saros,2023-03-30T23:12:02Z,1,03:41,16:19,0,0,5.0,Pittsburgh Penguins,PIT
+24,5,18,Pittsburgh Penguins,Nashville Predators,2022021192112,2022021192,Giveaway,112,GIVEAWAY,Giveaway by Bryan Rust,2023-03-30T23:12:17Z,1,03:56,16:04,0,0,5.0,Pittsburgh Penguins,PIT
+25,5,18,Pittsburgh Penguins,Nashville Predators,2022021192316,2022021192,Hit,316,HIT,Jeremy Lauzon hit Jake Guentzel,2023-03-30T23:12:27Z,1,04:06,15:54,0,0,18.0,Nashville Predators,NSH
+26,5,18,Pittsburgh Penguins,Nashville Predators,2022021192113,2022021192,Hit,113,HIT,Cole Smith hit Kris Letang,2023-03-30T23:12:30Z,1,04:09,15:51,0,0,18.0,Nashville Predators,NSH
+27,5,18,Pittsburgh Penguins,Nashville Predators,202202119213,2022021192,Stoppage,13,STOP,Offside,2023-03-30T23:12:33Z,1,04:12,15:48,0,0,,,
+28,5,18,Pittsburgh Penguins,Nashville Predators,2022021192114,2022021192,Faceoff,114,FACEOFF,Cody Glass faceoff won against Sidney Crosby,2023-03-30T23:13:00Z,1,04:12,15:48,0,0,18.0,Nashville Predators,NSH
+29,5,18,Pittsburgh Penguins,Nashville Predators,2022021192159,2022021192,Shot,159,SHOT,Jake Guentzel Wrist Shot saved by Juuse Saros,2023-03-30T23:13:07Z,1,04:19,15:41,0,0,5.0,Pittsburgh Penguins,PIT
+30,5,18,Pittsburgh Penguins,Nashville Predators,202202119286,2022021192,Penalty,86,PENALTY,Jake Guentzel High-sticking against Cody Glass,2023-03-30T23:13:18Z,1,04:31,15:29,0,0,5.0,Pittsburgh Penguins,PIT
+31,5,18,Pittsburgh Penguins,Nashville Predators,2022021192115,2022021192,Faceoff,115,FACEOFF,Cody Glass faceoff won against Ryan Poehling,2023-03-30T23:14:08Z,1,04:31,15:29,0,0,18.0,Nashville Predators,NSH
+32,5,18,Pittsburgh Penguins,Nashville Predators,2022021192160,2022021192,Blocked Shot,160,BLOCKED_SHOT,Tommy Novak shot blocked shot by Josh Archibald,2023-03-30T23:14:12Z,1,04:35,15:25,0,0,5.0,Pittsburgh Penguins,PIT
+33,5,18,Pittsburgh Penguins,Nashville Predators,2022021192116,2022021192,Takeaway,116,TAKEAWAY,Takeaway by Ryan Poehling,2023-03-30T23:14:16Z,1,04:39,15:21,0,0,5.0,Pittsburgh Penguins,PIT
+34,5,18,Pittsburgh Penguins,Nashville Predators,202202119214,2022021192,Shot,14,SHOT,Ryan Poehling Wrist Shot saved by Juuse Saros,2023-03-30T23:14:23Z,1,04:46,15:14,0,0,5.0,Pittsburgh Penguins,PIT
+35,5,18,Pittsburgh Penguins,Nashville Predators,2022021192161,2022021192,Shot,161,SHOT,Cody Glass Wrist Shot saved by Tristan Jarry,2023-03-30T23:14:30Z,1,04:53,15:07,0,0,18.0,Nashville Predators,NSH
+36,5,18,Pittsburgh Penguins,Nashville Predators,202202119215,2022021192,Stoppage,15,STOP,Goalie Stopped,2023-03-30T23:14:32Z,1,04:54,15:06,0,0,,,
+37,5,18,Pittsburgh Penguins,Nashville Predators,2022021192117,2022021192,Faceoff,117,FACEOFF,Jeff Carter faceoff won against Tommy Novak,2023-03-30T23:14:57Z,1,04:54,15:06,0,0,5.0,Pittsburgh Penguins,PIT
+38,5,18,Pittsburgh Penguins,Nashville Predators,2022021192162,2022021192,Shot,162,SHOT,Tommy Novak Wrist Shot saved by Tristan Jarry,2023-03-30T23:15:09Z,1,05:06,14:54,0,0,18.0,Nashville Predators,NSH
+39,5,18,Pittsburgh Penguins,Nashville Predators,202202119216,2022021192,Stoppage,16,STOP,Goalie Stopped,2023-03-30T23:15:10Z,1,05:07,14:53,0,0,,,
+40,5,18,Pittsburgh Penguins,Nashville Predators,2022021192118,2022021192,Faceoff,118,FACEOFF,Tommy Novak faceoff won against Mikael Granlund,2023-03-30T23:15:37Z,1,05:07,14:53,0,0,18.0,Nashville Predators,NSH
+41,5,18,Pittsburgh Penguins,Nashville Predators,2022021192163,2022021192,Shot,163,SHOT,Philip Tomasino Snap Shot saved by Tristan Jarry,2023-03-30T23:15:44Z,1,05:14,14:46,0,0,18.0,Nashville Predators,NSH
+42,5,18,Pittsburgh Penguins,Nashville Predators,202202119217,2022021192,Stoppage,17,STOP,Puck in Netting,2023-03-30T23:15:45Z,1,05:15,14:45,0,0,,,
+43,5,18,Pittsburgh Penguins,Nashville Predators,2022021192119,2022021192,Faceoff,119,FACEOFF,Ryan Poehling faceoff won against Cody Glass,2023-03-30T23:16:20Z,1,05:15,14:45,0,0,5.0,Pittsburgh Penguins,PIT
+44,5,18,Pittsburgh Penguins,Nashville Predators,2022021192120,2022021192,Takeaway,120,TAKEAWAY,Takeaway by Luke Evangelista,2023-03-30T23:16:25Z,1,05:20,14:40,0,0,18.0,Nashville Predators,NSH
+45,5,18,Pittsburgh Penguins,Nashville Predators,2022021192164,2022021192,Blocked Shot,164,BLOCKED_SHOT,Tommy Novak shot blocked shot by Kris Letang,2023-03-30T23:16:38Z,1,05:33,14:27,0,0,5.0,Pittsburgh Penguins,PIT
+46,5,18,Pittsburgh Penguins,Nashville Predators,2022021192121,2022021192,Hit,121,HIT,Josh Archibald hit Yakov Trenin,2023-03-30T23:17:31Z,1,06:26,13:34,0,0,5.0,Pittsburgh Penguins,PIT
+47,5,18,Pittsburgh Penguins,Nashville Predators,2022021192165,2022021192,Blocked Shot,165,BLOCKED_SHOT,Dante Fabbro shot blocked shot by Mikael Granlund,2023-03-30T23:17:37Z,1,06:32,13:28,0,0,5.0,Pittsburgh Penguins,PIT
+48,5,18,Pittsburgh Penguins,Nashville Predators,202202119218,2022021192,Blocked Shot,18,BLOCKED_SHOT,Kiefer Sherwood shot blocked shot by Chad Ruhwedel,2023-03-30T23:17:45Z,1,06:40,13:20,0,0,5.0,Pittsburgh Penguins,PIT
+49,5,18,Pittsburgh Penguins,Nashville Predators,2022021192166,2022021192,Shot,166,SHOT,Mark Jankowski Wrist Shot saved by Tristan Jarry,2023-03-30T23:17:58Z,1,06:53,13:07,0,0,18.0,Nashville Predators,NSH
+50,5,18,Pittsburgh Penguins,Nashville Predators,202202119219,2022021192,Stoppage,19,STOP,Puck in Netting,2023-03-30T23:17:59Z,1,06:54,13:06,0,0,,,
+51,5,18,Pittsburgh Penguins,Nashville Predators,2022021192124,2022021192,Faceoff,124,FACEOFF,Evgeni Malkin faceoff won against Michael McCarron,2023-03-30T23:20:45Z,1,06:54,13:06,0,0,5.0,Pittsburgh Penguins,PIT
+52,5,18,Pittsburgh Penguins,Nashville Predators,202202119220,2022021192,Stoppage,20,STOP,Icing,2023-03-30T23:20:52Z,1,07:02,12:58,0,0,,,
+53,5,18,Pittsburgh Penguins,Nashville Predators,2022021192125,2022021192,Faceoff,125,FACEOFF,Cody Glass faceoff won against Evgeni Malkin,2023-03-30T23:21:18Z,1,07:02,12:58,0,0,18.0,Nashville Predators,NSH
+54,5,18,Pittsburgh Penguins,Nashville Predators,202202119221,2022021192,Missed Shot,21,MISSED_SHOT,Cody Glass Over Net Tristan Jarry,2023-03-30T23:21:31Z,1,07:15,12:45,0,0,18.0,Nashville Predators,NSH
+55,5,18,Pittsburgh Penguins,Nashville Predators,2022021192211,2022021192,Penalty,211,PENALTY,Pierre-Olivier Joseph Cross-checking against Philip Tomasino,2023-03-30T23:21:51Z,1,07:35,12:25,0,0,5.0,Pittsburgh Penguins,PIT
+56,5,18,Pittsburgh Penguins,Nashville Predators,2022021192126,2022021192,Faceoff,126,FACEOFF,Cody Glass faceoff won against Ryan Poehling,2023-03-30T23:22:41Z,1,07:35,12:25,0,0,18.0,Nashville Predators,NSH
+57,5,18,Pittsburgh Penguins,Nashville Predators,2022021192127,2022021192,Giveaway,127,GIVEAWAY,Giveaway by Luke Evangelista,2023-03-30T23:22:50Z,1,07:44,12:16,0,0,18.0,Nashville Predators,NSH
+58,5,18,Pittsburgh Penguins,Nashville Predators,2022021192128,2022021192,Hit,128,HIT,Jeff Petry hit Tommy Novak,2023-03-30T23:23:11Z,1,08:05,11:55,0,0,5.0,Pittsburgh Penguins,PIT
+59,5,18,Pittsburgh Penguins,Nashville Predators,202202119222,2022021192,Takeaway,22,TAKEAWAY,Takeaway by Philip Tomasino,2023-03-30T23:23:15Z,1,08:09,11:51,0,0,18.0,Nashville Predators,NSH
+60,5,18,Pittsburgh Penguins,Nashville Predators,2022021192168,2022021192,Shot,168,SHOT,Josh Archibald Wrist Shot saved by Juuse Saros,2023-03-30T23:23:36Z,1,08:30,11:30,0,0,5.0,Pittsburgh Penguins,PIT
+61,5,18,Pittsburgh Penguins,Nashville Predators,2022021192169,2022021192,Shot,169,SHOT,Josh Archibald Wrist Shot saved by Juuse Saros,2023-03-30T23:23:37Z,1,08:31,11:29,0,0,5.0,Pittsburgh Penguins,PIT
+62,5,18,Pittsburgh Penguins,Nashville Predators,2022021192130,2022021192,Takeaway,130,TAKEAWAY,Takeaway by Jeff Petry,2023-03-30T23:24:11Z,1,09:05,10:55,0,0,5.0,Pittsburgh Penguins,PIT
+63,5,18,Pittsburgh Penguins,Nashville Predators,2022021192170,2022021192,Shot,170,SHOT,Yakov Trenin Wrist Shot saved by Tristan Jarry,2023-03-30T23:24:33Z,1,09:27,10:33,0,0,18.0,Nashville Predators,NSH
+64,5,18,Pittsburgh Penguins,Nashville Predators,2022021192131,2022021192,Hit,131,HIT,Cole Smith hit Kris Letang,2023-03-30T23:25:05Z,1,09:59,10:01,0,0,18.0,Nashville Predators,NSH
+65,5,18,Pittsburgh Penguins,Nashville Predators,2022021192171,2022021192,Missed Shot,171,MISSED_SHOT,Bryan Rust Wide of Net Juuse Saros,2023-03-30T23:25:21Z,1,10:15,09:45,0,0,5.0,Pittsburgh Penguins,PIT
+66,5,18,Pittsburgh Penguins,Nashville Predators,202202119224,2022021192,Blocked Shot,24,BLOCKED_SHOT,Kris Letang shot blocked shot by Jeremy Lauzon,2023-03-30T23:25:28Z,1,10:22,09:38,0,0,18.0,Nashville Predators,NSH
+67,5,18,Pittsburgh Penguins,Nashville Predators,2022021192132,2022021192,Hit,132,HIT,Jake Guentzel hit Mark Jankowski,2023-03-30T23:25:31Z,1,10:25,09:35,0,0,5.0,Pittsburgh Penguins,PIT
+68,5,18,Pittsburgh Penguins,Nashville Predators,2022021192172,2022021192,Missed Shot,172,MISSED_SHOT,Mark Friedman Wide of Net Juuse Saros,2023-03-30T23:25:34Z,1,10:28,09:32,0,0,5.0,Pittsburgh Penguins,PIT
+69,5,18,Pittsburgh Penguins,Nashville Predators,2022021192173,2022021192,Shot,173,SHOT,Bryan Rust Wrist Shot saved by Juuse Saros,2023-03-30T23:25:41Z,1,10:35,09:25,0,0,5.0,Pittsburgh Penguins,PIT
+70,5,18,Pittsburgh Penguins,Nashville Predators,202202119225,2022021192,Stoppage,25,STOP,Goalie Stopped,2023-03-30T23:25:42Z,1,10:36,09:24,0,0,,,
+71,5,18,Pittsburgh Penguins,Nashville Predators,2022021192133,2022021192,Faceoff,133,FACEOFF,Evgeni Malkin faceoff won against Tommy Novak,2023-03-30T23:28:02Z,1,10:36,09:24,0,0,5.0,Pittsburgh Penguins,PIT
+72,5,18,Pittsburgh Penguins,Nashville Predators,2022021192174,2022021192,Shot,174,SHOT,Pierre-Olivier Joseph Wrist Shot saved by Juuse Saros,2023-03-30T23:28:06Z,1,10:40,09:20,0,0,5.0,Pittsburgh Penguins,PIT
+73,5,18,Pittsburgh Penguins,Nashville Predators,2022021192175,2022021192,Shot,175,SHOT,Kiefer Sherwood Wrist Shot saved by Tristan Jarry,2023-03-30T23:28:16Z,1,10:50,09:10,0,0,18.0,Nashville Predators,NSH
+74,5,18,Pittsburgh Penguins,Nashville Predators,2022021192134,2022021192,Hit,134,HIT,Pierre-Olivier Joseph hit Tommy Novak,2023-03-30T23:28:17Z,1,10:51,09:09,0,0,5.0,Pittsburgh Penguins,PIT
+75,5,18,Pittsburgh Penguins,Nashville Predators,2022021192177,2022021192,Shot,177,SHOT,Jason Zucker Backhand saved by Juuse Saros,2023-03-30T23:28:28Z,1,11:02,08:58,0,0,5.0,Pittsburgh Penguins,PIT
+76,5,18,Pittsburgh Penguins,Nashville Predators,2022021192176,2022021192,Missed Shot,176,MISSED_SHOT,Jason Zucker Wide of Net Juuse Saros,2023-03-30T23:28:29Z,1,11:03,08:57,0,0,5.0,Pittsburgh Penguins,PIT
+77,5,18,Pittsburgh Penguins,Nashville Predators,2022021192135,2022021192,Hit,135,HIT,Evgeni Malkin hit Kevin Gravel,2023-03-30T23:28:30Z,1,11:04,08:56,0,0,5.0,Pittsburgh Penguins,PIT
+78,5,18,Pittsburgh Penguins,Nashville Predators,2022021192136,2022021192,Hit,136,HIT,Jeff Petry hit Tommy Novak,2023-03-30T23:28:52Z,1,11:26,08:34,0,0,5.0,Pittsburgh Penguins,PIT
+79,5,18,Pittsburgh Penguins,Nashville Predators,2022021192137,2022021192,Giveaway,137,GIVEAWAY,Giveaway by Kris Letang,2023-03-30T23:29:46Z,1,12:20,07:40,0,0,5.0,Pittsburgh Penguins,PIT
+80,5,18,Pittsburgh Penguins,Nashville Predators,202202119226,2022021192,Giveaway,26,GIVEAWAY,Giveaway by Bryan Rust,2023-03-30T23:29:49Z,1,12:23,07:37,0,0,5.0,Pittsburgh Penguins,PIT
+81,5,18,Pittsburgh Penguins,Nashville Predators,2022021192178,2022021192,Blocked Shot,178,BLOCKED_SHOT,Philip Tomasino shot blocked shot by Jake Guentzel,2023-03-30T23:30:04Z,1,12:38,07:22,0,0,5.0,Pittsburgh Penguins,PIT
+82,5,18,Pittsburgh Penguins,Nashville Predators,2022021192138,2022021192,Hit,138,HIT,Danton Heinen hit Jeremy Lauzon,2023-03-30T23:30:22Z,1,12:56,07:04,0,0,5.0,Pittsburgh Penguins,PIT
+83,5,18,Pittsburgh Penguins,Nashville Predators,2022021192139,2022021192,Stoppage,139,STOP,Referee or Linesman,2023-03-30T23:30:29Z,1,13:02,06:58,0,0,,,
+84,5,18,Pittsburgh Penguins,Nashville Predators,2022021192141,2022021192,Faceoff,141,FACEOFF,Ryan Poehling faceoff won against Colton Sissons,2023-03-30T23:31:01Z,1,13:02,06:58,0,0,5.0,Pittsburgh Penguins,PIT
+85,5,18,Pittsburgh Penguins,Nashville Predators,2022021192179,2022021192,Shot,179,SHOT,Ryan Poehling Wrist Shot saved by Juuse Saros,2023-03-30T23:31:19Z,1,13:20,06:40,0,0,5.0,Pittsburgh Penguins,PIT
+86,5,18,Pittsburgh Penguins,Nashville Predators,2022021192142,2022021192,Hit,142,HIT,Mark Friedman hit Cole Smith,2023-03-30T23:31:38Z,1,13:39,06:21,0,0,5.0,Pittsburgh Penguins,PIT
+87,5,18,Pittsburgh Penguins,Nashville Predators,2022021192180,2022021192,Shot,180,SHOT,Mikael Granlund Wrist Shot saved by Juuse Saros,2023-03-30T23:31:44Z,1,13:45,06:15,0,0,5.0,Pittsburgh Penguins,PIT
+88,5,18,Pittsburgh Penguins,Nashville Predators,2022021192143,2022021192,Hit,143,HIT,Drew O'Connor hit Michael McCarron,2023-03-30T23:32:03Z,1,14:04,05:56,0,0,5.0,Pittsburgh Penguins,PIT
+89,5,18,Pittsburgh Penguins,Nashville Predators,2022021192144,2022021192,Hit,144,HIT,Jeff Petry hit Rasmus Asplund,2023-03-30T23:32:09Z,1,14:10,05:50,0,0,5.0,Pittsburgh Penguins,PIT
+90,5,18,Pittsburgh Penguins,Nashville Predators,2022021192181,2022021192,Shot,181,SHOT,Cal Foote Wrist Shot saved by Tristan Jarry,2023-03-30T23:32:15Z,1,14:16,05:44,0,0,18.0,Nashville Predators,NSH
+91,5,18,Pittsburgh Penguins,Nashville Predators,2022021192145,2022021192,Hit,145,HIT,Jeff Petry hit Rasmus Asplund,2023-03-30T23:32:17Z,1,14:18,05:42,0,0,5.0,Pittsburgh Penguins,PIT
+92,5,18,Pittsburgh Penguins,Nashville Predators,2022021192146,2022021192,Hit,146,HIT,Michael McCarron hit Jeff Carter,2023-03-30T23:32:21Z,1,14:22,05:38,0,0,18.0,Nashville Predators,NSH
+93,5,18,Pittsburgh Penguins,Nashville Predators,2022021192147,2022021192,Hit,147,HIT,Kris Letang hit Rasmus Asplund,2023-03-30T23:32:33Z,1,14:34,05:26,0,0,5.0,Pittsburgh Penguins,PIT
+94,5,18,Pittsburgh Penguins,Nashville Predators,2022021192182,2022021192,Blocked Shot,182,BLOCKED_SHOT,Brian Dumoulin shot blocked shot by Tommy Novak,2023-03-30T23:32:57Z,1,14:58,05:02,0,0,18.0,Nashville Predators,NSH
+95,5,18,Pittsburgh Penguins,Nashville Predators,202202119227,2022021192,Missed Shot,27,MISSED_SHOT,Evgeni Malkin Wide of Net Juuse Saros,2023-03-30T23:32:58Z,1,14:59,05:01,0,0,5.0,Pittsburgh Penguins,PIT
+96,5,18,Pittsburgh Penguins,Nashville Predators,202202119228,2022021192,Stoppage,28,STOP,Puck Frozen,2023-03-30T23:32:59Z,1,15:01,04:59,0,0,,,
+97,5,18,Pittsburgh Penguins,Nashville Predators,2022021192148,2022021192,Faceoff,148,FACEOFF,Colton Sissons faceoff won against Sidney Crosby,2023-03-30T23:35:12Z,1,15:01,04:59,0,0,18.0,Nashville Predators,NSH
+98,5,18,Pittsburgh Penguins,Nashville Predators,2022021192149,2022021192,Hit,149,HIT,Ryan McDonagh hit Jake Guentzel,2023-03-30T23:35:33Z,1,15:22,04:38,0,0,18.0,Nashville Predators,NSH
+99,5,18,Pittsburgh Penguins,Nashville Predators,202202119229,2022021192,Hit,29,HIT,Cole Smith hit Brian Dumoulin,2023-03-30T23:35:38Z,1,15:27,04:33,0,0,18.0,Nashville Predators,NSH
+100,5,18,Pittsburgh Penguins,Nashville Predators,2022021192183,2022021192,Blocked Shot,183,BLOCKED_SHOT,Kris Letang shot blocked shot by Colton Sissons,2023-03-30T23:35:40Z,1,15:29,04:31,0,0,18.0,Nashville Predators,NSH
+101,5,18,Pittsburgh Penguins,Nashville Predators,2022021192184,2022021192,Shot,184,SHOT,Evgeni Malkin Wrist Shot saved by Juuse Saros,2023-03-30T23:36:17Z,1,16:06,03:54,0,0,5.0,Pittsburgh Penguins,PIT
+102,5,18,Pittsburgh Penguins,Nashville Predators,2022021192150,2022021192,Hit,150,HIT,Rickard Rakell hit Jeremy Lauzon,2023-03-30T23:36:19Z,1,16:08,03:52,0,0,5.0,Pittsburgh Penguins,PIT
+103,5,18,Pittsburgh Penguins,Nashville Predators,2022021192301,2022021192,Hit,301,HIT,Chad Ruhwedel hit Egor Afanasyev,2023-03-30T23:36:31Z,1,16:20,03:40,0,0,5.0,Pittsburgh Penguins,PIT
+104,5,18,Pittsburgh Penguins,Nashville Predators,2022021192437,2022021192,Penalty,437,PENALTY,Philip Tomasino Tripping against Evgeni Malkin,2023-03-30T23:36:37Z,1,16:25,03:35,0,0,18.0,Nashville Predators,NSH
+105,5,18,Pittsburgh Penguins,Nashville Predators,2022021192303,2022021192,Faceoff,303,FACEOFF,Colton Sissons faceoff won against Evgeni Malkin,2023-03-30T23:37:34Z,1,16:25,03:35,0,0,18.0,Nashville Predators,NSH
+106,5,18,Pittsburgh Penguins,Nashville Predators,2022021192185,2022021192,Shot,185,SHOT,Evgeni Malkin Wrist Shot saved by Juuse Saros,2023-03-30T23:37:43Z,1,16:34,03:26,0,0,5.0,Pittsburgh Penguins,PIT
+107,5,18,Pittsburgh Penguins,Nashville Predators,202202119231,2022021192,Stoppage,31,STOP,Goalie Stopped,2023-03-30T23:37:44Z,1,16:35,03:25,0,0,,,
+108,5,18,Pittsburgh Penguins,Nashville Predators,2022021192304,2022021192,Faceoff,304,FACEOFF,Colton Sissons faceoff won against Sidney Crosby,2023-03-30T23:38:03Z,1,16:35,03:25,0,0,18.0,Nashville Predators,NSH
+109,5,18,Pittsburgh Penguins,Nashville Predators,2022021192305,2022021192,Takeaway,305,TAKEAWAY,Takeaway by Jake Guentzel,2023-03-30T23:38:10Z,1,16:42,03:18,0,0,5.0,Pittsburgh Penguins,PIT
+110,5,18,Pittsburgh Penguins,Nashville Predators,2022021192186,2022021192,Blocked Shot,186,BLOCKED_SHOT,Sidney Crosby shot blocked shot by Dante Fabbro,2023-03-30T23:38:18Z,1,16:50,03:10,0,0,18.0,Nashville Predators,NSH
+111,5,18,Pittsburgh Penguins,Nashville Predators,2022021192252,2022021192,Shot,252,SHOT,Colton Sissons Wrist Shot saved by Tristan Jarry,2023-03-30T23:38:30Z,1,17:02,02:58,0,0,18.0,Nashville Predators,NSH
+112,5,18,Pittsburgh Penguins,Nashville Predators,2022021192187,2022021192,Shot,187,SHOT,Kris Letang Slap Shot saved by Juuse Saros,2023-03-30T23:39:19Z,1,17:51,02:09,0,0,5.0,Pittsburgh Penguins,PIT
+113,5,18,Pittsburgh Penguins,Nashville Predators,2022021192188,2022021192,Missed Shot,188,MISSED_SHOT,Sidney Crosby Wide of Net Juuse Saros,2023-03-30T23:39:19Z,1,17:51,02:09,0,0,5.0,Pittsburgh Penguins,PIT
+114,5,18,Pittsburgh Penguins,Nashville Predators,2022021192189,2022021192,Shot,189,SHOT,Sidney Crosby Wrist Shot saved by Juuse Saros,2023-03-30T23:39:20Z,1,17:52,02:08,0,0,5.0,Pittsburgh Penguins,PIT
+115,5,18,Pittsburgh Penguins,Nashville Predators,202202119232,2022021192,Stoppage,32,STOP,Goalie Stopped,2023-03-30T23:39:22Z,1,17:53,02:07,0,0,,,
+116,5,18,Pittsburgh Penguins,Nashville Predators,2022021192306,2022021192,Faceoff,306,FACEOFF,Colton Sissons faceoff won against Jeff Carter,2023-03-30T23:39:52Z,1,17:53,02:07,0,0,18.0,Nashville Predators,NSH
+117,5,18,Pittsburgh Penguins,Nashville Predators,202202119233,2022021192,Shot,33,SHOT,Dante Fabbro Wrist Shot saved by Tristan Jarry,2023-03-30T23:40:03Z,1,18:04,01:56,0,0,18.0,Nashville Predators,NSH
+118,5,18,Pittsburgh Penguins,Nashville Predators,2022021192307,2022021192,Stoppage,307,STOP,Offside,2023-03-30T23:40:23Z,1,18:24,01:36,0,0,,,
+119,5,18,Pittsburgh Penguins,Nashville Predators,2022021192308,2022021192,Faceoff,308,FACEOFF,Tommy Novak faceoff won against Ryan Poehling,2023-03-30T23:40:55Z,1,18:24,01:36,0,0,18.0,Nashville Predators,NSH
+120,5,18,Pittsburgh Penguins,Nashville Predators,2022021192190,2022021192,Missed Shot,190,MISSED_SHOT,Jeremy Lauzon Wide of Net Tristan Jarry,2023-03-30T23:41:09Z,1,18:38,01:22,0,0,18.0,Nashville Predators,NSH
+121,5,18,Pittsburgh Penguins,Nashville Predators,2022021192309,2022021192,Hit,309,HIT,Drew O'Connor hit Luke Evangelista,2023-03-30T23:41:13Z,1,18:42,01:18,0,0,5.0,Pittsburgh Penguins,PIT
+122,5,18,Pittsburgh Penguins,Nashville Predators,2022021192310,2022021192,Giveaway,310,GIVEAWAY,Giveaway by Josh Archibald,2023-03-30T23:41:24Z,1,18:53,01:07,0,0,5.0,Pittsburgh Penguins,PIT
+123,5,18,Pittsburgh Penguins,Nashville Predators,2022021192311,2022021192,Hit,311,HIT,Josh Archibald hit Jeremy Lauzon,2023-03-30T23:41:37Z,1,19:06,00:54,0,0,5.0,Pittsburgh Penguins,PIT
+124,5,18,Pittsburgh Penguins,Nashville Predators,2022021192191,2022021192,Missed Shot,191,MISSED_SHOT,Cal Foote Wide of Net Tristan Jarry,2023-03-30T23:41:58Z,1,19:27,00:33,0,0,18.0,Nashville Predators,NSH
+125,5,18,Pittsburgh Penguins,Nashville Predators,2022021192312,2022021192,Hit,312,HIT,Drew O'Connor hit Luke Evangelista,2023-03-30T23:42:04Z,1,19:33,00:27,0,0,5.0,Pittsburgh Penguins,PIT
+126,5,18,Pittsburgh Penguins,Nashville Predators,2022021192192,2022021192,Shot,192,SHOT,Luke Evangelista Backhand saved by Tristan Jarry,2023-03-30T23:42:08Z,1,19:37,00:23,0,0,18.0,Nashville Predators,NSH
+127,5,18,Pittsburgh Penguins,Nashville Predators,2022021192313,2022021192,Giveaway,313,GIVEAWAY,Giveaway by Rickard Rakell,2023-03-30T23:42:20Z,1,19:49,00:11,0,0,5.0,Pittsburgh Penguins,PIT
+128,5,18,Pittsburgh Penguins,Nashville Predators,2022021192193,2022021192,Blocked Shot,193,BLOCKED_SHOT,Rickard Rakell shot blocked shot by Kevin Gravel,2023-03-30T23:42:21Z,1,19:50,00:10,0,0,18.0,Nashville Predators,NSH
+129,5,18,Pittsburgh Penguins,Nashville Predators,202202119234,2022021192,Stoppage,34,STOP,Puck in Crowd,2023-03-30T23:42:23Z,1,19:51,00:09,0,0,,,
+130,5,18,Pittsburgh Penguins,Nashville Predators,2022021192314,2022021192,Faceoff,314,FACEOFF,Sidney Crosby faceoff won against Yakov Trenin,2023-03-30T23:43:07Z,1,19:51,00:09,0,0,5.0,Pittsburgh Penguins,PIT
+131,5,18,Pittsburgh Penguins,Nashville Predators,2022021192194,2022021192,Shot,194,SHOT,Brian Dumoulin Wrist Shot saved by Juuse Saros,2023-03-30T23:43:10Z,1,19:55,00:05,0,0,5.0,Pittsburgh Penguins,PIT
+132,5,18,Pittsburgh Penguins,Nashville Predators,202202119235,2022021192,Missed Shot,35,MISSED_SHOT,Evgeni Malkin Wide of Net Juuse Saros,2023-03-30T23:43:14Z,1,19:59,00:01,0,0,5.0,Pittsburgh Penguins,PIT
+133,5,18,Pittsburgh Penguins,Nashville Predators,2022021192315,2022021192,Hit,315,HIT,Dante Fabbro hit Jake Guentzel,2023-03-30T23:43:14Z,1,19:59,00:01,0,0,18.0,Nashville Predators,NSH
+134,5,18,Pittsburgh Penguins,Nashville Predators,202202119236,2022021192,Period End,36,PERIOD_END,End of 1st Period,2023-03-30T23:43:15Z,1,20:00,00:00,0,0,,,
+135,5,18,Pittsburgh Penguins,Nashville Predators,202202119239,2022021192,Period Official,39,PERIOD_OFFICIAL,Period Official,2023-03-30T23:43:29Z,1,20:00,00:00,0,0,,,
+136,5,18,Pittsburgh Penguins,Nashville Predators,202202119240,2022021192,Period Ready,40,PERIOD_READY,Period Ready,2023-03-31T00:01:39Z,2,00:00,20:00,0,0,,,
+137,5,18,Pittsburgh Penguins,Nashville Predators,2022021192317,2022021192,Period Start,317,PERIOD_START,Period Start,2023-03-31T00:02:10Z,2,00:00,20:00,0,0,,,
+138,5,18,Pittsburgh Penguins,Nashville Predators,2022021192318,2022021192,Faceoff,318,FACEOFF,Sidney Crosby faceoff won against Colton Sissons,2023-03-31T00:02:10Z,2,00:00,20:00,0,0,5.0,Pittsburgh Penguins,PIT
+139,5,18,Pittsburgh Penguins,Nashville Predators,2022021192520,2022021192,Penalty,520,PENALTY,Brian Dumoulin Interference against Cole Smith,2023-03-31T00:02:27Z,2,00:16,19:44,0,0,5.0,Pittsburgh Penguins,PIT
+140,5,18,Pittsburgh Penguins,Nashville Predators,2022021192319,2022021192,Faceoff,319,FACEOFF,Cody Glass faceoff won against Ryan Poehling,2023-03-31T00:03:11Z,2,00:16,19:44,0,0,18.0,Nashville Predators,NSH
+141,5,18,Pittsburgh Penguins,Nashville Predators,2022021192320,2022021192,Takeaway,320,TAKEAWAY,Takeaway by Pierre-Olivier Joseph,2023-03-31T00:04:00Z,2,01:05,18:55,0,0,5.0,Pittsburgh Penguins,PIT
+142,5,18,Pittsburgh Penguins,Nashville Predators,2022021192321,2022021192,Takeaway,321,TAKEAWAY,Takeaway by Mikael Granlund,2023-03-31T00:04:18Z,2,01:23,18:37,0,0,5.0,Pittsburgh Penguins,PIT
+143,5,18,Pittsburgh Penguins,Nashville Predators,202202119242,2022021192,Shot,42,SHOT,Mikael Granlund Backhand saved by Juuse Saros,2023-03-31T00:04:19Z,2,01:24,18:36,0,0,5.0,Pittsburgh Penguins,PIT
+144,5,18,Pittsburgh Penguins,Nashville Predators,2022021192196,2022021192,Blocked Shot,196,BLOCKED_SHOT,Kris Letang shot blocked shot by Colton Sissons,2023-03-31T00:04:48Z,2,01:53,18:07,0,0,18.0,Nashville Predators,NSH
+145,5,18,Pittsburgh Penguins,Nashville Predators,2022021192195,2022021192,Shot,195,SHOT,Dante Fabbro Slap Shot saved by Tristan Jarry,2023-03-31T00:04:53Z,2,01:58,18:02,0,0,18.0,Nashville Predators,NSH
+146,5,18,Pittsburgh Penguins,Nashville Predators,2022021192323,2022021192,Hit,323,HIT,Dante Fabbro hit Drew O'Connor,2023-03-31T00:05:25Z,2,02:30,17:30,0,0,18.0,Nashville Predators,NSH
+147,5,18,Pittsburgh Penguins,Nashville Predators,2022021192666,2022021192,Hit,666,HIT,Drew O'Connor hit Yakov Trenin,2023-03-31T00:05:30Z,2,02:35,17:25,0,0,5.0,Pittsburgh Penguins,PIT
+148,5,18,Pittsburgh Penguins,Nashville Predators,2022021192324,2022021192,Hit,324,HIT,Rickard Rakell hit Cal Foote,2023-03-31T00:05:50Z,2,02:55,17:05,0,0,5.0,Pittsburgh Penguins,PIT
+149,5,18,Pittsburgh Penguins,Nashville Predators,202202119243,2022021192,Hit,43,HIT,Cole Smith hit Chad Ruhwedel,2023-03-31T00:05:57Z,2,03:02,16:58,0,0,18.0,Nashville Predators,NSH
+150,5,18,Pittsburgh Penguins,Nashville Predators,2022021192325,2022021192,Hit,325,HIT,Mark Jankowski hit Mark Friedman,2023-03-31T00:06:15Z,2,03:20,16:40,0,0,18.0,Nashville Predators,NSH
+151,5,18,Pittsburgh Penguins,Nashville Predators,2022021192197,2022021192,Missed Shot,197,MISSED_SHOT,Rickard Rakell Wide of Net Juuse Saros,2023-03-31T00:06:32Z,2,03:37,16:23,0,0,5.0,Pittsburgh Penguins,PIT
+152,5,18,Pittsburgh Penguins,Nashville Predators,2022021192326,2022021192,Giveaway,326,GIVEAWAY,Giveaway by Ryan Poehling,2023-03-31T00:07:47Z,2,04:52,15:08,0,0,5.0,Pittsburgh Penguins,PIT
+153,5,18,Pittsburgh Penguins,Nashville Predators,2022021192198,2022021192,Shot,198,SHOT,Jeremy Lauzon Wrist Shot saved by Tristan Jarry,2023-03-31T00:08:00Z,2,05:05,14:55,0,0,18.0,Nashville Predators,NSH
+154,5,18,Pittsburgh Penguins,Nashville Predators,2022021192327,2022021192,Takeaway,327,TAKEAWAY,Takeaway by Mikael Granlund,2023-03-31T00:08:22Z,2,05:27,14:33,0,0,5.0,Pittsburgh Penguins,PIT
+155,5,18,Pittsburgh Penguins,Nashville Predators,2022021192328,2022021192,Giveaway,328,GIVEAWAY,Giveaway by Tommy Novak,2023-03-31T00:08:35Z,2,05:40,14:20,0,0,18.0,Nashville Predators,NSH
+156,5,18,Pittsburgh Penguins,Nashville Predators,2022021192329,2022021192,Hit,329,HIT,Jeremy Lauzon hit Josh Archibald,2023-03-31T00:08:44Z,2,05:49,14:11,0,0,18.0,Nashville Predators,NSH
+157,5,18,Pittsburgh Penguins,Nashville Predators,2022021192330,2022021192,Takeaway,330,TAKEAWAY,Takeaway by Mark Friedman,2023-03-31T00:09:08Z,2,06:13,13:47,0,0,5.0,Pittsburgh Penguins,PIT
+158,5,18,Pittsburgh Penguins,Nashville Predators,202202119244,2022021192,Stoppage,44,STOP,TV timeout,2023-03-31T00:09:10Z,2,06:15,13:45,0,0,,,
+159,5,18,Pittsburgh Penguins,Nashville Predators,2022021192576,2022021192,Penalty,576,PENALTY,Luke Evangelista Holding against Mark Friedman,2023-03-31T00:09:10Z,2,06:15,13:45,0,0,18.0,Nashville Predators,NSH
+160,5,18,Pittsburgh Penguins,Nashville Predators,2022021192331,2022021192,Faceoff,331,FACEOFF,Sidney Crosby faceoff won against Colton Sissons,2023-03-31T00:11:30Z,2,06:15,13:45,0,0,5.0,Pittsburgh Penguins,PIT
+161,5,18,Pittsburgh Penguins,Nashville Predators,2022021192199,2022021192,Blocked Shot,199,BLOCKED_SHOT,Kris Letang shot blocked shot by Dante Fabbro,2023-03-31T00:11:41Z,2,06:26,13:34,0,0,18.0,Nashville Predators,NSH
+162,5,18,Pittsburgh Penguins,Nashville Predators,2022021192200,2022021192,Shot,200,SHOT,Evgeni Malkin Slap Shot saved by Juuse Saros,2023-03-31T00:11:56Z,2,06:41,13:19,0,0,5.0,Pittsburgh Penguins,PIT
+163,5,18,Pittsburgh Penguins,Nashville Predators,202202119247,2022021192,Stoppage,47,STOP,Goalie Stopped,2023-03-31T00:11:57Z,2,06:42,13:18,0,0,,,
+164,5,18,Pittsburgh Penguins,Nashville Predators,2022021192332,2022021192,Faceoff,332,FACEOFF,Sidney Crosby faceoff won against Mark Jankowski,2023-03-31T00:12:20Z,2,06:42,13:18,0,0,5.0,Pittsburgh Penguins,PIT
+165,5,18,Pittsburgh Penguins,Nashville Predators,2022021192451,2022021192,Blocked Shot,451,BLOCKED_SHOT,Rickard Rakell shot blocked shot by Jeremy Lauzon,2023-03-31T00:12:26Z,2,06:48,13:12,0,0,18.0,Nashville Predators,NSH
+166,5,18,Pittsburgh Penguins,Nashville Predators,2022021192452,2022021192,Missed Shot,452,MISSED_SHOT,Sidney Crosby Wide of Net Juuse Saros,2023-03-31T00:12:44Z,2,07:06,12:54,0,0,5.0,Pittsburgh Penguins,PIT
+167,5,18,Pittsburgh Penguins,Nashville Predators,202202119245,2022021192,Missed Shot,45,MISSED_SHOT,Sidney Crosby Wide of Net Juuse Saros,2023-03-31T00:12:47Z,2,07:09,12:51,0,0,5.0,Pittsburgh Penguins,PIT
+168,5,18,Pittsburgh Penguins,Nashville Predators,202202119246,2022021192,Stoppage,46,STOP,Puck in Netting,2023-03-31T00:12:48Z,2,07:10,12:50,0,0,,,
+169,5,18,Pittsburgh Penguins,Nashville Predators,2022021192333,2022021192,Faceoff,333,FACEOFF,Colton Sissons faceoff won against Sidney Crosby,2023-03-31T00:13:14Z,2,07:10,12:50,0,0,18.0,Nashville Predators,NSH
+170,5,18,Pittsburgh Penguins,Nashville Predators,2022021192453,2022021192,Shot,453,SHOT,Sidney Crosby Tip-In saved by Juuse Saros,2023-03-31T00:13:49Z,2,07:45,12:15,0,0,5.0,Pittsburgh Penguins,PIT
+171,5,18,Pittsburgh Penguins,Nashville Predators,202202119248,2022021192,Shot,48,SHOT,Rickard Rakell Wrist Shot saved by Juuse Saros,2023-03-31T00:13:52Z,2,07:48,12:12,0,0,5.0,Pittsburgh Penguins,PIT
+172,5,18,Pittsburgh Penguins,Nashville Predators,2022021192455,2022021192,Shot,455,SHOT,Sidney Crosby Tip-In saved by Juuse Saros,2023-03-31T00:13:56Z,2,07:52,12:08,0,0,5.0,Pittsburgh Penguins,PIT
+173,5,18,Pittsburgh Penguins,Nashville Predators,202202119249,2022021192,Stoppage,49,STOP,Referee or Linesman,2023-03-31T00:13:57Z,2,07:53,12:07,0,0,,,
+174,5,18,Pittsburgh Penguins,Nashville Predators,2022021192336,2022021192,Faceoff,336,FACEOFF,Jeff Carter faceoff won against Mark Jankowski,2023-03-31T00:14:27Z,2,07:53,12:07,0,0,5.0,Pittsburgh Penguins,PIT
+175,5,18,Pittsburgh Penguins,Nashville Predators,2022021192337,2022021192,Giveaway,337,GIVEAWAY,Giveaway by Jeff Petry,2023-03-31T00:15:13Z,2,08:39,11:21,0,0,5.0,Pittsburgh Penguins,PIT
+176,5,18,Pittsburgh Penguins,Nashville Predators,2022021192338,2022021192,Hit,338,HIT,Tyson Barrie hit Ryan Poehling,2023-03-31T00:15:55Z,2,09:21,10:39,0,0,18.0,Nashville Predators,NSH
+177,5,18,Pittsburgh Penguins,Nashville Predators,202202119250,2022021192,Stoppage,50,STOP,Puck in Crowd,2023-03-31T00:16:27Z,2,09:53,10:07,0,0,,,
+178,5,18,Pittsburgh Penguins,Nashville Predators,2022021192339,2022021192,Faceoff,339,FACEOFF,Cody Glass faceoff won against Sidney Crosby,2023-03-31T00:17:01Z,2,09:53,10:07,0,0,18.0,Nashville Predators,NSH
+179,5,18,Pittsburgh Penguins,Nashville Predators,2022021192351,2022021192,Stoppage,351,STOP,Icing,2023-03-31T00:17:08Z,2,10:00,10:00,0,0,,,
+180,5,18,Pittsburgh Penguins,Nashville Predators,2022021192340,2022021192,Faceoff,340,FACEOFF,Cody Glass faceoff won against Sidney Crosby,2023-03-31T00:17:27Z,2,10:00,10:00,0,0,18.0,Nashville Predators,NSH
+181,5,18,Pittsburgh Penguins,Nashville Predators,2022021192456,2022021192,Shot,456,SHOT,Ryan McDonagh Wrist Shot saved by Tristan Jarry,2023-03-31T00:17:43Z,2,10:16,09:44,0,0,18.0,Nashville Predators,NSH
+182,5,18,Pittsburgh Penguins,Nashville Predators,2022021192352,2022021192,Stoppage,352,STOP,Goalie Stopped,2023-03-31T00:17:44Z,2,10:17,09:43,0,0,,,
+183,5,18,Pittsburgh Penguins,Nashville Predators,2022021192341,2022021192,Faceoff,341,FACEOFF,Tommy Novak faceoff won against Ryan Poehling,2023-03-31T00:20:16Z,2,10:17,09:43,0,0,18.0,Nashville Predators,NSH
+184,5,18,Pittsburgh Penguins,Nashville Predators,2022021192457,2022021192,Shot,457,SHOT,Kiefer Sherwood Wrist Shot saved by Tristan Jarry,2023-03-31T00:20:36Z,2,10:37,09:23,0,0,18.0,Nashville Predators,NSH
+185,5,18,Pittsburgh Penguins,Nashville Predators,2022021192353,2022021192,Stoppage,353,STOP,Goalie Stopped,2023-03-31T00:20:37Z,2,10:38,09:22,0,0,,,
+186,5,18,Pittsburgh Penguins,Nashville Predators,2022021192342,2022021192,Faceoff,342,FACEOFF,Michael McCarron faceoff won against Evgeni Malkin,2023-03-31T00:21:12Z,2,10:38,09:22,0,0,18.0,Nashville Predators,NSH
+187,5,18,Pittsburgh Penguins,Nashville Predators,2022021192343,2022021192,Hit,343,HIT,Jason Zucker hit Rasmus Asplund,2023-03-31T00:21:21Z,2,10:47,09:13,0,0,5.0,Pittsburgh Penguins,PIT
+188,5,18,Pittsburgh Penguins,Nashville Predators,2022021192354,2022021192,Shot,354,SHOT,Michael McCarron Wrist Shot saved by Tristan Jarry,2023-03-31T00:21:23Z,2,10:49,09:11,0,0,18.0,Nashville Predators,NSH
+189,5,18,Pittsburgh Penguins,Nashville Predators,2022021192355,2022021192,Stoppage,355,STOP,Offside,2023-03-31T00:21:31Z,2,10:57,09:03,0,0,,,
+190,5,18,Pittsburgh Penguins,Nashville Predators,2022021192344,2022021192,Faceoff,344,FACEOFF,Evgeni Malkin faceoff won against Mark Jankowski,2023-03-31T00:21:58Z,2,10:57,09:03,0,0,5.0,Pittsburgh Penguins,PIT
+191,5,18,Pittsburgh Penguins,Nashville Predators,2022021192345,2022021192,Giveaway,345,GIVEAWAY,Giveaway by Tristan Jarry,2023-03-31T00:22:49Z,2,11:48,08:12,0,0,5.0,Pittsburgh Penguins,PIT
+192,5,18,Pittsburgh Penguins,Nashville Predators,2022021192459,2022021192,Blocked Shot,459,BLOCKED_SHOT,Tyson Barrie shot blocked shot by Rickard Rakell,2023-03-31T00:22:54Z,2,11:53,08:07,0,0,5.0,Pittsburgh Penguins,PIT
+193,5,18,Pittsburgh Penguins,Nashville Predators,2022021192356,2022021192,Shot,356,SHOT,Sidney Crosby Backhand saved by Juuse Saros,2023-03-31T00:23:01Z,2,12:00,08:00,0,0,5.0,Pittsburgh Penguins,PIT
+194,5,18,Pittsburgh Penguins,Nashville Predators,2022021192346,2022021192,Hit,346,HIT,Bryan Rust hit Cody Glass,2023-03-31T00:23:26Z,2,12:25,07:35,0,0,5.0,Pittsburgh Penguins,PIT
+195,5,18,Pittsburgh Penguins,Nashville Predators,2022021192460,2022021192,Shot,460,SHOT,Jake Guentzel Deflected saved by Juuse Saros,2023-03-31T00:23:34Z,2,12:33,07:27,0,0,5.0,Pittsburgh Penguins,PIT
+196,5,18,Pittsburgh Penguins,Nashville Predators,2022021192357,2022021192,Stoppage,357,STOP,Icing,2023-03-31T00:23:47Z,2,12:47,07:13,0,0,,,
+197,5,18,Pittsburgh Penguins,Nashville Predators,2022021192347,2022021192,Faceoff,347,FACEOFF,Cody Glass faceoff won against Jeff Carter,2023-03-31T00:24:10Z,2,12:47,07:13,0,0,18.0,Nashville Predators,NSH
+198,5,18,Pittsburgh Penguins,Nashville Predators,2022021192358,2022021192,Shot,358,SHOT,Pierre-Olivier Joseph Wrist Shot saved by Juuse Saros,2023-03-31T00:24:41Z,2,13:18,06:42,0,0,5.0,Pittsburgh Penguins,PIT
+199,5,18,Pittsburgh Penguins,Nashville Predators,2022021192359,2022021192,Stoppage,359,STOP,Goalie Stopped,2023-03-31T00:24:43Z,2,13:19,06:41,0,0,,,
+200,5,18,Pittsburgh Penguins,Nashville Predators,2022021192348,2022021192,Faceoff,348,FACEOFF,Tommy Novak faceoff won against Evgeni Malkin,2023-03-31T00:25:27Z,2,13:19,06:41,0,0,18.0,Nashville Predators,NSH
+201,5,18,Pittsburgh Penguins,Nashville Predators,2022021192349,2022021192,Hit,349,HIT,Kiefer Sherwood hit Brian Dumoulin,2023-03-31T00:25:39Z,2,13:31,06:29,0,0,18.0,Nashville Predators,NSH
+202,5,18,Pittsburgh Penguins,Nashville Predators,2022021192462,2022021192,Blocked Shot,462,BLOCKED_SHOT,Rickard Rakell shot blocked shot by Cal Foote,2023-03-31T00:25:45Z,2,13:37,06:23,0,0,18.0,Nashville Predators,NSH
+203,5,18,Pittsburgh Penguins,Nashville Predators,2022021192350,2022021192,Takeaway,350,TAKEAWAY,Takeaway by Evgeni Malkin,2023-03-31T00:25:56Z,2,13:48,06:12,0,0,5.0,Pittsburgh Penguins,PIT
+204,5,18,Pittsburgh Penguins,Nashville Predators,2022021192464,2022021192,Goal,464,GOAL,"Jason Zucker (26) Tip-In, assists: Brian Dumoulin (19), Evgeni Malkin (53)",2023-03-31T00:26:23Z,2,14:15,05:45,1,0,5.0,Pittsburgh Penguins,PIT
+205,5,18,Pittsburgh Penguins,Nashville Predators,2022021192651,2022021192,Faceoff,651,FACEOFF,Sidney Crosby faceoff won against Colton Sissons,2023-03-31T00:27:14Z,2,14:15,05:45,1,0,5.0,Pittsburgh Penguins,PIT
+206,5,18,Pittsburgh Penguins,Nashville Predators,2022021192465,2022021192,Shot,465,SHOT,Sidney Crosby Snap Shot saved by Juuse Saros,2023-03-31T00:27:22Z,2,14:23,05:37,1,0,5.0,Pittsburgh Penguins,PIT
+207,5,18,Pittsburgh Penguins,Nashville Predators,2022021192652,2022021192,Hit,652,HIT,Jake Guentzel hit Colton Sissons,2023-03-31T00:27:37Z,2,14:38,05:22,1,0,5.0,Pittsburgh Penguins,PIT
+208,5,18,Pittsburgh Penguins,Nashville Predators,2022021192466,2022021192,Missed Shot,466,MISSED_SHOT,Pierre-Olivier Joseph Wide of Net Juuse Saros,2023-03-31T00:27:50Z,2,14:51,05:09,1,0,5.0,Pittsburgh Penguins,PIT
+209,5,18,Pittsburgh Penguins,Nashville Predators,2022021192653,2022021192,Hit,653,HIT,Yakov Trenin hit Sidney Crosby,2023-03-31T00:27:51Z,2,14:52,05:08,1,0,18.0,Nashville Predators,NSH
+210,5,18,Pittsburgh Penguins,Nashville Predators,2022021192654,2022021192,Hit,654,HIT,Cole Smith hit Danton Heinen,2023-03-31T00:28:18Z,2,15:19,04:41,1,0,18.0,Nashville Predators,NSH
+211,5,18,Pittsburgh Penguins,Nashville Predators,2022021192467,2022021192,Blocked Shot,467,BLOCKED_SHOT,Mark Friedman shot blocked shot by Colton Sissons,2023-03-31T00:28:29Z,2,15:30,04:30,1,0,18.0,Nashville Predators,NSH
+212,5,18,Pittsburgh Penguins,Nashville Predators,2022021192655,2022021192,Takeaway,655,TAKEAWAY,Takeaway by Danton Heinen,2023-03-31T00:28:36Z,2,15:37,04:23,1,0,5.0,Pittsburgh Penguins,PIT
+213,5,18,Pittsburgh Penguins,Nashville Predators,2022021192360,2022021192,Stoppage,360,STOP,Icing,2023-03-31T00:28:40Z,2,15:41,04:19,1,0,,,
+214,5,18,Pittsburgh Penguins,Nashville Predators,2022021192656,2022021192,Faceoff,656,FACEOFF,Evgeni Malkin faceoff won against Colton Sissons,2023-03-31T00:29:01Z,2,15:41,04:19,1,0,5.0,Pittsburgh Penguins,PIT
+215,5,18,Pittsburgh Penguins,Nashville Predators,2022021192468,2022021192,Blocked Shot,468,BLOCKED_SHOT,Jason Zucker shot blocked shot by Ryan McDonagh,2023-03-31T00:29:04Z,2,15:44,04:16,1,0,18.0,Nashville Predators,NSH
+216,5,18,Pittsburgh Penguins,Nashville Predators,2022021192361,2022021192,Stoppage,361,STOP,Icing,2023-03-31T00:29:11Z,2,15:50,04:10,1,0,,,
+217,5,18,Pittsburgh Penguins,Nashville Predators,2022021192657,2022021192,Faceoff,657,FACEOFF,Colton Sissons faceoff won against Evgeni Malkin,2023-03-31T00:29:33Z,2,15:50,04:10,1,0,18.0,Nashville Predators,NSH
+218,5,18,Pittsburgh Penguins,Nashville Predators,2022021192658,2022021192,Hit,658,HIT,Cole Smith hit Brian Dumoulin,2023-03-31T00:29:40Z,2,15:57,04:03,1,0,18.0,Nashville Predators,NSH
+219,5,18,Pittsburgh Penguins,Nashville Predators,2022021192469,2022021192,Missed Shot,469,MISSED_SHOT,Jason Zucker Wide of Net Juuse Saros,2023-03-31T00:29:56Z,2,16:13,03:47,1,0,5.0,Pittsburgh Penguins,PIT
+220,5,18,Pittsburgh Penguins,Nashville Predators,2022021192362,2022021192,Missed Shot,362,MISSED_SHOT,Evgeni Malkin Wide of Net Juuse Saros,2023-03-31T00:30:01Z,2,16:18,03:42,1,0,5.0,Pittsburgh Penguins,PIT
+221,5,18,Pittsburgh Penguins,Nashville Predators,2022021192659,2022021192,Hit,659,HIT,Jason Zucker hit Dante Fabbro,2023-03-31T00:30:15Z,2,16:32,03:28,1,0,5.0,Pittsburgh Penguins,PIT
+222,5,18,Pittsburgh Penguins,Nashville Predators,2022021192363,2022021192,Giveaway,363,GIVEAWAY,Giveaway by Jason Zucker,2023-03-31T00:30:20Z,2,16:37,03:23,1,0,5.0,Pittsburgh Penguins,PIT
+223,5,18,Pittsburgh Penguins,Nashville Predators,2022021192470,2022021192,Missed Shot,470,MISSED_SHOT,Drew O'Connor Wide of Net Juuse Saros,2023-03-31T00:31:05Z,2,17:22,02:38,1,0,5.0,Pittsburgh Penguins,PIT
+224,5,18,Pittsburgh Penguins,Nashville Predators,2022021192660,2022021192,Hit,660,HIT,Mark Friedman hit Rasmus Asplund,2023-03-31T00:31:10Z,2,17:27,02:33,1,0,5.0,Pittsburgh Penguins,PIT
+225,5,18,Pittsburgh Penguins,Nashville Predators,2022021192364,2022021192,Missed Shot,364,MISSED_SHOT,Sidney Crosby Wide of Net Juuse Saros,2023-03-31T00:31:15Z,2,17:32,02:28,1,0,5.0,Pittsburgh Penguins,PIT
+226,5,18,Pittsburgh Penguins,Nashville Predators,2022021192661,2022021192,Hit,661,HIT,Jeremy Lauzon hit Sidney Crosby,2023-03-31T00:31:22Z,2,17:39,02:21,1,0,18.0,Nashville Predators,NSH
+227,5,18,Pittsburgh Penguins,Nashville Predators,2022021192365,2022021192,Stoppage,365,STOP,Icing,2023-03-31T00:31:40Z,2,17:57,02:03,1,0,,,
+228,5,18,Pittsburgh Penguins,Nashville Predators,2022021192662,2022021192,Faceoff,662,FACEOFF,Michael McCarron faceoff won against Sidney Crosby,2023-03-31T00:32:15Z,2,17:57,02:03,1,0,18.0,Nashville Predators,NSH
+229,5,18,Pittsburgh Penguins,Nashville Predators,2022021192471,2022021192,Shot,471,SHOT,Brian Dumoulin Wrist Shot saved by Juuse Saros,2023-03-31T00:32:40Z,2,18:22,01:38,1,0,5.0,Pittsburgh Penguins,PIT
+230,5,18,Pittsburgh Penguins,Nashville Predators,2022021192663,2022021192,Hit,663,HIT,Kiefer Sherwood hit Kris Letang,2023-03-31T00:32:55Z,2,18:37,01:23,1,0,18.0,Nashville Predators,NSH
+231,5,18,Pittsburgh Penguins,Nashville Predators,2022021192664,2022021192,Giveaway,664,GIVEAWAY,Giveaway by Cal Foote,2023-03-31T00:33:04Z,2,18:46,01:14,1,0,18.0,Nashville Predators,NSH
+232,5,18,Pittsburgh Penguins,Nashville Predators,2022021192472,2022021192,Shot,472,SHOT,Danton Heinen Wrist Shot saved by Juuse Saros,2023-03-31T00:33:06Z,2,18:48,01:12,1,0,5.0,Pittsburgh Penguins,PIT
+233,5,18,Pittsburgh Penguins,Nashville Predators,2022021192366,2022021192,Shot,366,SHOT,Ryan Poehling Wrist Shot saved by Juuse Saros,2023-03-31T00:33:08Z,2,18:50,01:10,1,0,5.0,Pittsburgh Penguins,PIT
+234,5,18,Pittsburgh Penguins,Nashville Predators,2022021192476,2022021192,Blocked Shot,476,BLOCKED_SHOT,Danton Heinen shot blocked shot by Kevin Gravel,2023-03-31T00:33:26Z,2,19:05,00:55,1,0,18.0,Nashville Predators,NSH
+235,5,18,Pittsburgh Penguins,Nashville Predators,2022021192474,2022021192,Shot,474,SHOT,Mikael Granlund Wrist Shot saved by Juuse Saros,2023-03-31T00:33:35Z,2,19:17,00:43,1,0,5.0,Pittsburgh Penguins,PIT
+236,5,18,Pittsburgh Penguins,Nashville Predators,2022021192367,2022021192,Hit,367,HIT,Yakov Trenin hit Kris Letang,2023-03-31T00:34:05Z,2,19:47,00:13,1,0,18.0,Nashville Predators,NSH
+237,5,18,Pittsburgh Penguins,Nashville Predators,2022021192665,2022021192,Takeaway,665,TAKEAWAY,Takeaway by Evgeni Malkin,2023-03-31T00:34:05Z,2,19:47,00:13,1,0,5.0,Pittsburgh Penguins,PIT
+238,5,18,Pittsburgh Penguins,Nashville Predators,2022021192475,2022021192,Shot,475,SHOT,Brian Dumoulin Wrist Shot saved by Juuse Saros,2023-03-31T00:34:16Z,2,19:58,00:02,1,0,5.0,Pittsburgh Penguins,PIT
+239,5,18,Pittsburgh Penguins,Nashville Predators,2022021192368,2022021192,Period End,368,PERIOD_END,End of 2nd Period,2023-03-31T00:34:18Z,2,20:00,00:00,1,0,,,
+240,5,18,Pittsburgh Penguins,Nashville Predators,2022021192371,2022021192,Period Official,371,PERIOD_OFFICIAL,Period Official,2023-03-31T00:34:24Z,2,20:00,00:00,1,0,,,
+241,5,18,Pittsburgh Penguins,Nashville Predators,2022021192372,2022021192,Period Ready,372,PERIOD_READY,Period Ready,2023-03-31T00:52:27Z,3,00:00,20:00,1,0,,,
+242,5,18,Pittsburgh Penguins,Nashville Predators,2022021192667,2022021192,Period Start,667,PERIOD_START,Period Start,2023-03-31T00:53:27Z,3,00:00,20:00,1,0,,,
+243,5,18,Pittsburgh Penguins,Nashville Predators,2022021192668,2022021192,Faceoff,668,FACEOFF,Sidney Crosby faceoff won against Colton Sissons,2023-03-31T00:53:27Z,3,00:00,20:00,1,0,5.0,Pittsburgh Penguins,PIT
+244,5,18,Pittsburgh Penguins,Nashville Predators,2022021192477,2022021192,Shot,477,SHOT,Colton Sissons Wrist Shot saved by Tristan Jarry,2023-03-31T00:53:37Z,3,00:10,19:50,1,0,18.0,Nashville Predators,NSH
+245,5,18,Pittsburgh Penguins,Nashville Predators,2022021192669,2022021192,Hit,669,HIT,Colton Sissons hit Kris Letang,2023-03-31T00:53:40Z,3,00:13,19:47,1,0,18.0,Nashville Predators,NSH
+246,5,18,Pittsburgh Penguins,Nashville Predators,2022021192373,2022021192,Shot,373,SHOT,Sidney Crosby Wrist Shot saved by Juuse Saros,2023-03-31T00:53:45Z,3,00:18,19:42,1,0,5.0,Pittsburgh Penguins,PIT
+247,5,18,Pittsburgh Penguins,Nashville Predators,2022021192374,2022021192,Stoppage,374,STOP,Puck Frozen,2023-03-31T00:53:47Z,3,00:19,19:41,1,0,,,
+248,5,18,Pittsburgh Penguins,Nashville Predators,2022021192670,2022021192,Faceoff,670,FACEOFF,Colton Sissons faceoff won against Sidney Crosby,2023-03-31T00:54:15Z,3,00:19,19:41,1,0,18.0,Nashville Predators,NSH
+249,5,18,Pittsburgh Penguins,Nashville Predators,2022021192671,2022021192,Takeaway,671,TAKEAWAY,Takeaway by Kris Letang,2023-03-31T00:54:30Z,3,00:34,19:26,1,0,5.0,Pittsburgh Penguins,PIT
+250,5,18,Pittsburgh Penguins,Nashville Predators,2022021192375,2022021192,Hit,375,HIT,Cole Smith hit Kris Letang,2023-03-31T00:54:32Z,3,00:36,19:24,1,0,18.0,Nashville Predators,NSH
+251,5,18,Pittsburgh Penguins,Nashville Predators,2022021192673,2022021192,Hit,673,HIT,Rickard Rakell hit Cody Glass,2023-03-31T00:54:47Z,3,00:51,19:09,1,0,5.0,Pittsburgh Penguins,PIT
+252,5,18,Pittsburgh Penguins,Nashville Predators,2022021192674,2022021192,Hit,674,HIT,Jeremy Lauzon hit Rickard Rakell,2023-03-31T00:55:10Z,3,01:14,18:46,1,0,18.0,Nashville Predators,NSH
+253,5,18,Pittsburgh Penguins,Nashville Predators,2022021192478,2022021192,Missed Shot,478,MISSED_SHOT,Evgeni Malkin Wide of Net Juuse Saros,2023-03-31T00:55:18Z,3,01:22,18:38,1,0,5.0,Pittsburgh Penguins,PIT
+254,5,18,Pittsburgh Penguins,Nashville Predators,2022021192376,2022021192,Shot,376,SHOT,Jeff Petry Wrist Shot saved by Juuse Saros,2023-03-31T00:55:26Z,3,01:30,18:30,1,0,5.0,Pittsburgh Penguins,PIT
+255,5,18,Pittsburgh Penguins,Nashville Predators,2022021192377,2022021192,Stoppage,377,STOP,Icing,2023-03-31T00:55:43Z,3,01:47,18:13,1,0,,,
+256,5,18,Pittsburgh Penguins,Nashville Predators,2022021192675,2022021192,Faceoff,675,FACEOFF,Evgeni Malkin faceoff won against Tommy Novak,2023-03-31T00:56:10Z,3,01:47,18:13,1,0,5.0,Pittsburgh Penguins,PIT
+257,5,18,Pittsburgh Penguins,Nashville Predators,2022021192378,2022021192,Stoppage,378,STOP,Puck in Netting,2023-03-31T00:56:15Z,3,01:52,18:08,1,0,,,
+258,5,18,Pittsburgh Penguins,Nashville Predators,2022021192676,2022021192,Hit,676,HIT,Kiefer Sherwood hit Jeff Petry,2023-03-31T00:56:15Z,3,01:52,18:08,1,0,18.0,Nashville Predators,NSH
+259,5,18,Pittsburgh Penguins,Nashville Predators,2022021192677,2022021192,Faceoff,677,FACEOFF,Ryan Poehling faceoff won against Tommy Novak,2023-03-31T00:56:42Z,3,01:52,18:08,1,0,5.0,Pittsburgh Penguins,PIT
+260,5,18,Pittsburgh Penguins,Nashville Predators,2022021192479,2022021192,Shot,479,SHOT,Mikael Granlund Wrist Shot saved by Juuse Saros,2023-03-31T00:56:51Z,3,02:01,17:59,1,0,5.0,Pittsburgh Penguins,PIT
+261,5,18,Pittsburgh Penguins,Nashville Predators,2022021192379,2022021192,Blocked Shot,379,BLOCKED_SHOT,Ryan Poehling shot blocked shot by Tommy Novak,2023-03-31T00:56:54Z,3,02:04,17:56,1,0,18.0,Nashville Predators,NSH
+262,5,18,Pittsburgh Penguins,Nashville Predators,2022021192380,2022021192,Shot,380,SHOT,Ryan Poehling Deflected saved by Juuse Saros,2023-03-31T00:56:55Z,3,02:05,17:55,1,0,5.0,Pittsburgh Penguins,PIT
+263,5,18,Pittsburgh Penguins,Nashville Predators,2022021192480,2022021192,Blocked Shot,480,BLOCKED_SHOT,Kris Letang shot blocked shot by Kevin Gravel,2023-03-31T00:57:08Z,3,02:18,17:42,1,0,18.0,Nashville Predators,NSH
+264,5,18,Pittsburgh Penguins,Nashville Predators,2022021192678,2022021192,Stoppage,678,STOP,Puck Frozen,2023-03-31T00:57:11Z,3,02:21,17:39,1,0,,,
+265,5,18,Pittsburgh Penguins,Nashville Predators,2022021192679,2022021192,Faceoff,679,FACEOFF,Jeff Carter faceoff won against Michael McCarron,2023-03-31T00:57:47Z,3,02:21,17:39,1,0,5.0,Pittsburgh Penguins,PIT
+266,5,18,Pittsburgh Penguins,Nashville Predators,2022021192481,2022021192,Missed Shot,481,MISSED_SHOT,Mark Friedman Over Net Juuse Saros,2023-03-31T00:57:53Z,3,02:27,17:33,1,0,5.0,Pittsburgh Penguins,PIT
+267,5,18,Pittsburgh Penguins,Nashville Predators,2022021192680,2022021192,Stoppage,680,STOP,Puck in Netting,2023-03-31T00:57:53Z,3,02:28,17:32,1,0,,,
+268,5,18,Pittsburgh Penguins,Nashville Predators,2022021192681,2022021192,Faceoff,681,FACEOFF,Jeff Carter faceoff won against Michael McCarron,2023-03-31T00:58:16Z,3,02:28,17:32,1,0,5.0,Pittsburgh Penguins,PIT
+269,5,18,Pittsburgh Penguins,Nashville Predators,2022021192482,2022021192,Missed Shot,482,MISSED_SHOT,Mark Friedman Wide of Net Juuse Saros,2023-03-31T00:58:21Z,3,02:33,17:27,1,0,5.0,Pittsburgh Penguins,PIT
+270,5,18,Pittsburgh Penguins,Nashville Predators,2022021192682,2022021192,Takeaway,682,TAKEAWAY,Takeaway by Ryan McDonagh,2023-03-31T00:58:25Z,3,02:37,17:23,1,0,18.0,Nashville Predators,NSH
+271,5,18,Pittsburgh Penguins,Nashville Predators,2022021192683,2022021192,Hit,683,HIT,Drew O'Connor hit Mark Jankowski,2023-03-31T00:58:35Z,3,02:47,17:13,1,0,5.0,Pittsburgh Penguins,PIT
+272,5,18,Pittsburgh Penguins,Nashville Predators,2022021192381,2022021192,Stoppage,381,STOP,Puck in Benches,2023-03-31T00:58:38Z,3,02:50,17:10,1,0,,,
+273,5,18,Pittsburgh Penguins,Nashville Predators,2022021192684,2022021192,Faceoff,684,FACEOFF,Sidney Crosby faceoff won against Colton Sissons,2023-03-31T00:59:05Z,3,02:50,17:10,1,0,5.0,Pittsburgh Penguins,PIT
+274,5,18,Pittsburgh Penguins,Nashville Predators,2022021192685,2022021192,Hit,685,HIT,Yakov Trenin hit Kris Letang,2023-03-31T00:59:34Z,3,03:19,16:41,1,0,18.0,Nashville Predators,NSH
+275,5,18,Pittsburgh Penguins,Nashville Predators,2022021192483,2022021192,Missed Shot,483,MISSED_SHOT,Brian Dumoulin Wide of Net Juuse Saros,2023-03-31T00:59:37Z,3,03:22,16:38,1,0,5.0,Pittsburgh Penguins,PIT
+276,5,18,Pittsburgh Penguins,Nashville Predators,2022021192484,2022021192,Shot,484,SHOT,Sidney Crosby Wrist Shot saved by Juuse Saros,2023-03-31T00:59:51Z,3,03:36,16:24,1,0,5.0,Pittsburgh Penguins,PIT
+277,5,18,Pittsburgh Penguins,Nashville Predators,2022021192686,2022021192,Takeaway,686,TAKEAWAY,Takeaway by Rickard Rakell,2023-03-31T00:59:59Z,3,03:44,16:16,1,0,5.0,Pittsburgh Penguins,PIT
+278,5,18,Pittsburgh Penguins,Nashville Predators,2022021192485,2022021192,Missed Shot,485,MISSED_SHOT,Jeff Petry Wide of Net Juuse Saros,2023-03-31T01:00:10Z,3,03:55,16:05,1,0,5.0,Pittsburgh Penguins,PIT
+279,5,18,Pittsburgh Penguins,Nashville Predators,2022021192486,2022021192,Blocked Shot,486,BLOCKED_SHOT,Pierre-Olivier Joseph shot blocked shot by Egor Afanasyev,2023-03-31T01:00:21Z,3,04:06,15:54,1,0,18.0,Nashville Predators,NSH
+280,5,18,Pittsburgh Penguins,Nashville Predators,2022021192687,2022021192,Giveaway,687,GIVEAWAY,Giveaway by Jeff Petry,2023-03-31T01:00:37Z,3,04:22,15:38,1,0,5.0,Pittsburgh Penguins,PIT
+281,5,18,Pittsburgh Penguins,Nashville Predators,2022021192383,2022021192,Stoppage,383,STOP,Offside,2023-03-31T01:00:58Z,3,04:43,15:17,1,0,,,
+282,5,18,Pittsburgh Penguins,Nashville Predators,2022021192688,2022021192,Faceoff,688,FACEOFF,Tommy Novak faceoff won against Ryan Poehling,2023-03-31T01:01:26Z,3,04:43,15:17,1,0,18.0,Nashville Predators,NSH
+283,5,18,Pittsburgh Penguins,Nashville Predators,2022021192689,2022021192,Hit,689,HIT,Kiefer Sherwood hit Mikael Granlund,2023-03-31T01:01:47Z,3,05:04,14:56,1,0,18.0,Nashville Predators,NSH
+284,5,18,Pittsburgh Penguins,Nashville Predators,2022021192487,2022021192,Blocked Shot,487,BLOCKED_SHOT,Kevin Gravel shot blocked shot by Danton Heinen,2023-03-31T01:02:22Z,3,05:38,14:22,1,0,5.0,Pittsburgh Penguins,PIT
+285,5,18,Pittsburgh Penguins,Nashville Predators,2022021192384,2022021192,Shot,384,SHOT,Mark Jankowski Wrist Shot saved by Tristan Jarry,2023-03-31T01:02:31Z,3,05:48,14:12,1,0,18.0,Nashville Predators,NSH
+286,5,18,Pittsburgh Penguins,Nashville Predators,2022021192690,2022021192,Hit,690,HIT,Mark Friedman hit Michael McCarron,2023-03-31T01:02:38Z,3,05:55,14:05,1,0,5.0,Pittsburgh Penguins,PIT
+287,5,18,Pittsburgh Penguins,Nashville Predators,2022021192385,2022021192,Stoppage,385,STOP,High Stick,2023-03-31T01:02:41Z,3,05:58,14:02,1,0,,,
+288,5,18,Pittsburgh Penguins,Nashville Predators,2022021192691,2022021192,Faceoff,691,FACEOFF,Mark Jankowski faceoff won against Sidney Crosby,2023-03-31T01:03:30Z,3,05:58,14:02,1,0,18.0,Nashville Predators,NSH
+289,5,18,Pittsburgh Penguins,Nashville Predators,2022021192692,2022021192,Hit,692,HIT,Kris Letang hit Michael McCarron,2023-03-31T01:03:37Z,3,06:05,13:55,1,0,5.0,Pittsburgh Penguins,PIT
+290,5,18,Pittsburgh Penguins,Nashville Predators,2022021192386,2022021192,Hit,386,HIT,Dante Fabbro hit Sidney Crosby,2023-03-31T01:03:55Z,3,06:23,13:37,1,0,18.0,Nashville Predators,NSH
+291,5,18,Pittsburgh Penguins,Nashville Predators,2022021192488,2022021192,Missed Shot,488,MISSED_SHOT,Kris Letang Wide of Net Juuse Saros,2023-03-31T01:03:56Z,3,06:24,13:36,1,0,5.0,Pittsburgh Penguins,PIT
+292,5,18,Pittsburgh Penguins,Nashville Predators,2022021192693,2022021192,Hit,693,HIT,Michael McCarron hit Brian Dumoulin,2023-03-31T01:03:58Z,3,06:26,13:34,1,0,18.0,Nashville Predators,NSH
+293,5,18,Pittsburgh Penguins,Nashville Predators,2022021192489,2022021192,Blocked Shot,489,BLOCKED_SHOT,Brian Dumoulin shot blocked shot by Michael McCarron,2023-03-31T01:04:14Z,3,06:42,13:18,1,0,18.0,Nashville Predators,NSH
+294,5,18,Pittsburgh Penguins,Nashville Predators,2022021192387,2022021192,Stoppage,387,STOP,Puck in Benches,2023-03-31T01:04:38Z,3,07:07,12:53,1,0,,,
+295,5,18,Pittsburgh Penguins,Nashville Predators,2022021192694,2022021192,Faceoff,694,FACEOFF,Colton Sissons faceoff won against Evgeni Malkin,2023-03-31T01:06:57Z,3,07:07,12:53,1,0,18.0,Nashville Predators,NSH
+296,5,18,Pittsburgh Penguins,Nashville Predators,2022021192695,2022021192,Hit,695,HIT,Colton Sissons hit Jason Zucker,2023-03-31T01:07:26Z,3,07:36,12:24,1,0,18.0,Nashville Predators,NSH
+297,5,18,Pittsburgh Penguins,Nashville Predators,2022021192490,2022021192,Shot,490,SHOT,Rickard Rakell Wrist Shot saved by Juuse Saros,2023-03-31T01:07:30Z,3,07:40,12:20,1,0,5.0,Pittsburgh Penguins,PIT
+298,5,18,Pittsburgh Penguins,Nashville Predators,2022021192696,2022021192,Giveaway,696,GIVEAWAY,Giveaway by Kris Letang,2023-03-31T01:07:47Z,3,07:57,12:03,1,0,5.0,Pittsburgh Penguins,PIT
+299,5,18,Pittsburgh Penguins,Nashville Predators,2022021192388,2022021192,Takeaway,388,TAKEAWAY,Takeaway by Bryan Rust,2023-03-31T01:08:13Z,3,08:23,11:37,1,0,5.0,Pittsburgh Penguins,PIT
+300,5,18,Pittsburgh Penguins,Nashville Predators,2022021192491,2022021192,Shot,491,SHOT,Sidney Crosby Wrist Shot saved by Juuse Saros,2023-03-31T01:08:20Z,3,08:30,11:30,1,0,5.0,Pittsburgh Penguins,PIT
+301,5,18,Pittsburgh Penguins,Nashville Predators,2022021192492,2022021192,Missed Shot,492,MISSED_SHOT,Bryan Rust Wide of Net Juuse Saros,2023-03-31T01:08:27Z,3,08:36,11:24,1,0,5.0,Pittsburgh Penguins,PIT
+302,5,18,Pittsburgh Penguins,Nashville Predators,2022021192698,2022021192,Hit,698,HIT,Egor Afanasyev hit Brian Dumoulin,2023-03-31T01:08:28Z,3,08:38,11:22,1,0,18.0,Nashville Predators,NSH
+303,5,18,Pittsburgh Penguins,Nashville Predators,2022021192699,2022021192,Hit,699,HIT,Kris Letang hit Cody Glass,2023-03-31T01:08:34Z,3,08:44,11:16,1,0,5.0,Pittsburgh Penguins,PIT
+304,5,18,Pittsburgh Penguins,Nashville Predators,2022021192389,2022021192,Shot,389,SHOT,Philip Tomasino Wrist Shot saved by Tristan Jarry,2023-03-31T01:08:38Z,3,08:48,11:12,1,0,18.0,Nashville Predators,NSH
+305,5,18,Pittsburgh Penguins,Nashville Predators,2022021192493,2022021192,Shot,493,SHOT,Kiefer Sherwood Wrist Shot saved by Tristan Jarry,2023-03-31T01:08:55Z,3,09:05,10:55,1,0,18.0,Nashville Predators,NSH
+306,5,18,Pittsburgh Penguins,Nashville Predators,2022021192700,2022021192,Hit,700,HIT,Danton Heinen hit Kiefer Sherwood,2023-03-31T01:08:58Z,3,09:08,10:52,1,0,5.0,Pittsburgh Penguins,PIT
+307,5,18,Pittsburgh Penguins,Nashville Predators,2022021192390,2022021192,Hit,390,HIT,Kris Letang hit Luke Evangelista,2023-03-31T01:09:01Z,3,09:11,10:49,1,0,5.0,Pittsburgh Penguins,PIT
+308,5,18,Pittsburgh Penguins,Nashville Predators,2022021192494,2022021192,Shot,494,SHOT,Mikael Granlund Snap Shot saved by Juuse Saros,2023-03-31T01:09:06Z,3,09:16,10:44,1,0,5.0,Pittsburgh Penguins,PIT
+309,5,18,Pittsburgh Penguins,Nashville Predators,2022021192951,2022021192,Stoppage,951,STOP,Goalie Stopped,2023-03-31T01:09:08Z,3,09:17,10:43,1,0,,,
+310,5,18,Pittsburgh Penguins,Nashville Predators,2022021192952,2022021192,Faceoff,952,FACEOFF,Tommy Novak faceoff won against Ryan Poehling,2023-03-31T01:09:38Z,3,09:17,10:43,1,0,18.0,Nashville Predators,NSH
+311,5,18,Pittsburgh Penguins,Nashville Predators,2022021192495,2022021192,Shot,495,SHOT,Tommy Novak Wrist Shot saved by Tristan Jarry,2023-03-31T01:10:01Z,3,09:40,10:20,1,0,18.0,Nashville Predators,NSH
+312,5,18,Pittsburgh Penguins,Nashville Predators,2022021192953,2022021192,Hit,953,HIT,Chad Ruhwedel hit Kiefer Sherwood,2023-03-31T01:10:02Z,3,09:41,10:19,1,0,5.0,Pittsburgh Penguins,PIT
+313,5,18,Pittsburgh Penguins,Nashville Predators,2022021192391,2022021192,Shot,391,SHOT,Cal Foote Snap Shot saved by Tristan Jarry,2023-03-31T01:10:03Z,3,09:42,10:18,1,0,18.0,Nashville Predators,NSH
+314,5,18,Pittsburgh Penguins,Nashville Predators,2022021192496,2022021192,Missed Shot,496,MISSED_SHOT,Tommy Novak Wide of Net Tristan Jarry,2023-03-31T01:10:04Z,3,09:43,10:17,1,0,18.0,Nashville Predators,NSH
+315,5,18,Pittsburgh Penguins,Nashville Predators,2022021192392,2022021192,Blocked Shot,392,BLOCKED_SHOT,Tommy Novak shot blocked shot by Mikael Granlund,2023-03-31T01:10:22Z,3,10:01,09:59,1,0,5.0,Pittsburgh Penguins,PIT
+316,5,18,Pittsburgh Penguins,Nashville Predators,2022021192393,2022021192,Stoppage,393,STOP,Puck in Benches,2023-03-31T01:11:42Z,3,11:22,08:38,1,0,,,
+317,5,18,Pittsburgh Penguins,Nashville Predators,2022021192954,2022021192,Faceoff,954,FACEOFF,Evgeni Malkin faceoff won against Cody Glass,2023-03-31T01:14:07Z,3,11:22,08:38,1,0,5.0,Pittsburgh Penguins,PIT
+318,5,18,Pittsburgh Penguins,Nashville Predators,2022021192956,2022021192,Hit,956,HIT,Rickard Rakell hit Kevin Gravel,2023-03-31T01:14:25Z,3,11:40,08:20,1,0,5.0,Pittsburgh Penguins,PIT
+319,5,18,Pittsburgh Penguins,Nashville Predators,2022021192497,2022021192,Blocked Shot,497,BLOCKED_SHOT,Tyson Barrie shot blocked shot by Sidney Crosby,2023-03-31T01:15:13Z,3,12:28,07:32,1,0,5.0,Pittsburgh Penguins,PIT
+320,5,18,Pittsburgh Penguins,Nashville Predators,2022021192396,2022021192,Shot,396,SHOT,Ryan McDonagh Wrist Shot saved by Tristan Jarry,2023-03-31T01:15:27Z,3,12:42,07:18,1,0,18.0,Nashville Predators,NSH
+321,5,18,Pittsburgh Penguins,Nashville Predators,2022021192957,2022021192,Stoppage,957,STOP,Offside,2023-03-31T01:15:34Z,3,12:49,07:11,1,0,,,
+322,5,18,Pittsburgh Penguins,Nashville Predators,2022021192958,2022021192,Faceoff,958,FACEOFF,Ryan Poehling faceoff won against Tommy Novak,2023-03-31T01:16:07Z,3,12:49,07:11,1,0,5.0,Pittsburgh Penguins,PIT
+323,5,18,Pittsburgh Penguins,Nashville Predators,2022021192927,2022021192,Penalty,927,PENALTY,Cal Foote Roughing against Danton Heinen,2023-03-31T01:16:14Z,3,12:55,07:05,1,0,18.0,Nashville Predators,NSH
+324,5,18,Pittsburgh Penguins,Nashville Predators,2022021192960,2022021192,Faceoff,960,FACEOFF,Sidney Crosby faceoff won against Colton Sissons,2023-03-31T01:17:06Z,3,12:55,07:05,1,0,5.0,Pittsburgh Penguins,PIT
+325,5,18,Pittsburgh Penguins,Nashville Predators,2022021192498,2022021192,Goal,498,GOAL,"Jake Guentzel (34) Tip-In, assists: Rickard Rakell (29), Kris Letang (26)",2023-03-31T01:17:15Z,3,13:03,06:57,2,0,5.0,Pittsburgh Penguins,PIT
+326,5,18,Pittsburgh Penguins,Nashville Predators,2022021192961,2022021192,Faceoff,961,FACEOFF,Sidney Crosby faceoff won against Tommy Novak,2023-03-31T01:18:04Z,3,13:03,06:57,2,0,5.0,Pittsburgh Penguins,PIT
+327,5,18,Pittsburgh Penguins,Nashville Predators,2022021192962,2022021192,Giveaway,962,GIVEAWAY,Giveaway by Jake Guentzel,2023-03-31T01:18:31Z,3,13:30,06:30,2,0,5.0,Pittsburgh Penguins,PIT
+328,5,18,Pittsburgh Penguins,Nashville Predators,2022021192397,2022021192,Stoppage,397,STOP,Puck Frozen,2023-03-31T01:18:51Z,3,13:51,06:09,2,0,,,
+329,5,18,Pittsburgh Penguins,Nashville Predators,2022021192963,2022021192,Faceoff,963,FACEOFF,Michael McCarron faceoff won against Jeff Carter,2023-03-31T01:19:27Z,3,13:51,06:09,2,0,18.0,Nashville Predators,NSH
+330,5,18,Pittsburgh Penguins,Nashville Predators,2022021192964,2022021192,Giveaway,964,GIVEAWAY,Giveaway by Tyson Barrie,2023-03-31T01:19:33Z,3,13:57,06:03,2,0,18.0,Nashville Predators,NSH
+331,5,18,Pittsburgh Penguins,Nashville Predators,2022021192499,2022021192,Shot,499,SHOT,Ryan Poehling Wrist Shot saved by Juuse Saros,2023-03-31T01:19:38Z,3,14:02,05:58,2,0,5.0,Pittsburgh Penguins,PIT
+332,5,18,Pittsburgh Penguins,Nashville Predators,2022021192965,2022021192,Hit,965,HIT,Danton Heinen hit Cal Foote,2023-03-31T01:20:00Z,3,14:24,05:36,2,0,5.0,Pittsburgh Penguins,PIT
+333,5,18,Pittsburgh Penguins,Nashville Predators,2022021192500,2022021192,Blocked Shot,500,BLOCKED_SHOT,Egor Afanasyev shot blocked shot by Mark Friedman,2023-03-31T01:20:27Z,3,14:51,05:09,2,0,5.0,Pittsburgh Penguins,PIT
+334,5,18,Pittsburgh Penguins,Nashville Predators,2022021192966,2022021192,Hit,966,HIT,Chad Ruhwedel hit Philip Tomasino,2023-03-31T01:20:27Z,3,14:51,05:09,2,0,5.0,Pittsburgh Penguins,PIT
+335,5,18,Pittsburgh Penguins,Nashville Predators,2022021192398,2022021192,Stoppage,398,STOP,Puck in Netting,2023-03-31T01:20:28Z,3,14:52,05:08,2,0,,,
+336,5,18,Pittsburgh Penguins,Nashville Predators,2022021192967,2022021192,Faceoff,967,FACEOFF,Sidney Crosby faceoff won against Cody Glass,2023-03-31T01:22:47Z,3,14:52,05:08,2,0,5.0,Pittsburgh Penguins,PIT
+337,5,18,Pittsburgh Penguins,Nashville Predators,2022021192751,2022021192,Shot,751,SHOT,Jake Guentzel Wrist Shot saved by Juuse Saros,2023-03-31T01:22:56Z,3,15:01,04:59,2,0,5.0,Pittsburgh Penguins,PIT
+338,5,18,Pittsburgh Penguins,Nashville Predators,2022021192399,2022021192,Stoppage,399,STOP,Puck in Netting,2023-03-31T01:23:02Z,3,15:06,04:54,2,0,,,
+339,5,18,Pittsburgh Penguins,Nashville Predators,2022021192968,2022021192,Faceoff,968,FACEOFF,Colton Sissons faceoff won against Sidney Crosby,2023-03-31T01:23:28Z,3,15:06,04:54,2,0,18.0,Nashville Predators,NSH
+340,5,18,Pittsburgh Penguins,Nashville Predators,2022021192752,2022021192,Shot,752,SHOT,Yakov Trenin Wrist Shot saved by Tristan Jarry,2023-03-31T01:23:42Z,3,15:20,04:40,2,0,18.0,Nashville Predators,NSH
+341,5,18,Pittsburgh Penguins,Nashville Predators,2022021192754,2022021192,Blocked Shot,754,BLOCKED_SHOT,Yakov Trenin shot blocked shot by Brian Dumoulin,2023-03-31T01:23:54Z,3,15:32,04:28,2,0,5.0,Pittsburgh Penguins,PIT
+342,5,18,Pittsburgh Penguins,Nashville Predators,2022021192400,2022021192,Stoppage,400,STOP,Icing,2023-03-31T01:23:58Z,3,15:35,04:25,2,0,,,
+343,5,18,Pittsburgh Penguins,Nashville Predators,2022021192969,2022021192,Faceoff,969,FACEOFF,Sidney Crosby faceoff won against Tommy Novak,2023-03-31T01:24:27Z,3,15:35,04:25,2,0,5.0,Pittsburgh Penguins,PIT
+344,5,18,Pittsburgh Penguins,Nashville Predators,2022021192755,2022021192,Shot,755,SHOT,Evgeni Malkin Wrist Shot saved by Juuse Saros,2023-03-31T01:24:49Z,3,15:57,04:03,2,0,5.0,Pittsburgh Penguins,PIT
+345,5,18,Pittsburgh Penguins,Nashville Predators,2022021192970,2022021192,Hit,970,HIT,Tommy Novak hit Jason Zucker,2023-03-31T01:25:07Z,3,16:15,03:45,2,0,18.0,Nashville Predators,NSH
+346,5,18,Pittsburgh Penguins,Nashville Predators,20220211921016,2022021192,Penalty,1016,PENALTY,Tommy Novak Slashing against Jason Zucker,2023-03-31T01:25:43Z,3,16:52,03:08,2,0,18.0,Nashville Predators,NSH
+347,5,18,Pittsburgh Penguins,Nashville Predators,2022021192971,2022021192,Faceoff,971,FACEOFF,Sidney Crosby faceoff won against Colton Sissons,2023-03-31T01:26:37Z,3,16:52,03:08,2,0,5.0,Pittsburgh Penguins,PIT
+348,5,18,Pittsburgh Penguins,Nashville Predators,2022021192972,2022021192,Hit,972,HIT,Cole Smith hit Sidney Crosby,2023-03-31T01:26:55Z,3,17:10,02:50,2,0,18.0,Nashville Predators,NSH
+349,5,18,Pittsburgh Penguins,Nashville Predators,2022021192802,2022021192,Giveaway,802,GIVEAWAY,Giveaway by Yakov Trenin,2023-03-31T01:27:17Z,3,17:32,02:28,2,0,18.0,Nashville Predators,NSH
+350,5,18,Pittsburgh Penguins,Nashville Predators,2022021192973,2022021192,Hit,973,HIT,Kris Letang hit Yakov Trenin,2023-03-31T01:27:18Z,3,17:33,02:27,2,0,5.0,Pittsburgh Penguins,PIT
+351,5,18,Pittsburgh Penguins,Nashville Predators,2022021192756,2022021192,Shot,756,SHOT,Sidney Crosby Slap Shot saved by Juuse Saros,2023-03-31T01:27:21Z,3,17:36,02:24,2,0,5.0,Pittsburgh Penguins,PIT
+352,5,18,Pittsburgh Penguins,Nashville Predators,2022021192757,2022021192,Blocked Shot,757,BLOCKED_SHOT,Cal Foote shot blocked shot by Kris Letang,2023-03-31T01:27:27Z,3,17:40,02:20,2,0,5.0,Pittsburgh Penguins,PIT
+353,5,18,Pittsburgh Penguins,Nashville Predators,2022021192803,2022021192,Stoppage,803,STOP,Puck in Netting,2023-03-31T01:27:28Z,3,17:43,02:17,2,0,,,
+354,5,18,Pittsburgh Penguins,Nashville Predators,2022021192974,2022021192,Faceoff,974,FACEOFF,Jeff Carter faceoff won against Colton Sissons,2023-03-31T01:28:05Z,3,17:43,02:17,2,0,5.0,Pittsburgh Penguins,PIT
+355,5,18,Pittsburgh Penguins,Nashville Predators,2022021192758,2022021192,Shot,758,SHOT,Kevin Gravel Slap Shot saved by Tristan Jarry,2023-03-31T01:28:09Z,3,17:47,02:13,2,0,18.0,Nashville Predators,NSH
+356,5,18,Pittsburgh Penguins,Nashville Predators,2022021192759,2022021192,Blocked Shot,759,BLOCKED_SHOT,Pierre-Olivier Joseph shot blocked shot by Kevin Gravel,2023-03-31T01:28:35Z,3,18:13,01:47,2,0,18.0,Nashville Predators,NSH
+357,5,18,Pittsburgh Penguins,Nashville Predators,2022021192805,2022021192,Shot,805,SHOT,Jeff Carter Backhand saved by Juuse Saros,2023-03-31T01:28:39Z,3,18:17,01:43,2,0,5.0,Pittsburgh Penguins,PIT
+358,5,18,Pittsburgh Penguins,Nashville Predators,2022021192806,2022021192,Stoppage,806,STOP,Goalie Stopped,2023-03-31T01:28:39Z,3,18:18,01:42,2,0,,,
+359,5,18,Pittsburgh Penguins,Nashville Predators,2022021192975,2022021192,Faceoff,975,FACEOFF,Michael McCarron faceoff won against Sidney Crosby,2023-03-31T01:29:23Z,3,18:18,01:42,2,0,18.0,Nashville Predators,NSH
+360,5,18,Pittsburgh Penguins,Nashville Predators,2022021192760,2022021192,Shot,760,SHOT,Tyson Barrie Slap Shot saved by Tristan Jarry,2023-03-31T01:30:35Z,3,19:30,00:30,2,0,18.0,Nashville Predators,NSH
+361,5,18,Pittsburgh Penguins,Nashville Predators,2022021192807,2022021192,Stoppage,807,STOP,Icing,2023-03-31T01:30:45Z,3,19:39,00:21,2,0,,,
+362,5,18,Pittsburgh Penguins,Nashville Predators,2022021192976,2022021192,Faceoff,976,FACEOFF,Sidney Crosby faceoff won against Cody Glass,2023-03-31T01:31:16Z,3,19:39,00:21,2,0,5.0,Pittsburgh Penguins,PIT
+363,5,18,Pittsburgh Penguins,Nashville Predators,2022021192761,2022021192,Blocked Shot,761,BLOCKED_SHOT,Jake Guentzel shot blocked shot by Tommy Novak,2023-03-31T01:31:26Z,3,19:49,00:11,2,0,18.0,Nashville Predators,NSH
+364,5,18,Pittsburgh Penguins,Nashville Predators,2022021192977,2022021192,Hit,977,HIT,Cody Glass hit Jake Guentzel,2023-03-31T01:31:28Z,3,19:51,00:09,2,0,18.0,Nashville Predators,NSH
+365,5,18,Pittsburgh Penguins,Nashville Predators,2022021192808,2022021192,Shot,808,SHOT,Cody Glass Wrist Shot saved by Tristan Jarry,2023-03-31T01:31:35Z,3,19:58,00:02,2,0,18.0,Nashville Predators,NSH
+366,5,18,Pittsburgh Penguins,Nashville Predators,2022021192978,2022021192,Hit,978,HIT,Kiefer Sherwood hit Jeff Petry,2023-03-31T01:31:35Z,3,19:58,00:02,2,0,18.0,Nashville Predators,NSH
+367,5,18,Pittsburgh Penguins,Nashville Predators,2022021192809,2022021192,Period End,809,PERIOD_END,End of 3rd Period,2023-03-31T01:31:37Z,3,20:00,00:00,2,0,,,
+368,5,18,Pittsburgh Penguins,Nashville Predators,2022021192812,2022021192,Period Official,812,PERIOD_OFFICIAL,Period Official,2023-03-31T01:31:45Z,3,20:00,00:00,2,0,,,
+369,5,18,Pittsburgh Penguins,Nashville Predators,2022021192813,2022021192,Game End,813,GAME_END,Game End,2023-03-31T01:31:47Z,3,20:00,00:00,2,0,,,
+370,5,18,Pittsburgh Penguins,Nashville Predators,20220211921191,2022021192,Game Official,1191,GAME_OFFICIAL,Game Official,2023-04-01T23:15:10Z,3,20:00,00:00,2,0,,,

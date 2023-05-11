@@ -1,0 +1,338 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,15,4,Washington Capitals,Philadelphia Flyers,20220203121,2022020312,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-11-23T23:45:19Z,1,00:00,20:00,0,0,,,
+1,15,4,Washington Capitals,Philadelphia Flyers,20220203125,2022020312,Period Ready,5,PERIOD_READY,Period Ready,2022-11-24T00:36:34Z,1,00:00,20:00,0,0,,,
+2,15,4,Washington Capitals,Philadelphia Flyers,202202031251,2022020312,Period Start,51,PERIOD_START,Period Start,2022-11-24T00:37:36Z,1,00:00,20:00,0,0,,,
+3,15,4,Washington Capitals,Philadelphia Flyers,202202031252,2022020312,Faceoff,52,FACEOFF,Kevin Hayes faceoff won against Dylan Strome,2022-11-24T00:37:36Z,1,00:00,20:00,0,0,4.0,Philadelphia Flyers,PHI
+4,15,4,Washington Capitals,Philadelphia Flyers,20220203128,2022020312,Missed Shot,8,MISSED_SHOT,John Carlson Wide of Net Felix Sandstrom,2022-11-24T00:37:56Z,1,00:20,19:40,0,0,15.0,Washington Capitals,WSH
+5,15,4,Washington Capitals,Philadelphia Flyers,2022020312151,2022020312,Giveaway,151,GIVEAWAY,Giveaway by Owen Tippett,2022-11-24T00:38:25Z,1,00:49,19:11,0,0,4.0,Philadelphia Flyers,PHI
+6,15,4,Washington Capitals,Philadelphia Flyers,2022020312152,2022020312,Giveaway,152,GIVEAWAY,Giveaway by Joel Farabee,2022-11-24T00:38:40Z,1,01:04,18:56,0,0,4.0,Philadelphia Flyers,PHI
+7,15,4,Washington Capitals,Philadelphia Flyers,2022020312153,2022020312,Giveaway,153,GIVEAWAY,Giveaway by T.J. Oshie,2022-11-24T00:38:43Z,1,01:07,18:53,0,0,15.0,Washington Capitals,WSH
+8,15,4,Washington Capitals,Philadelphia Flyers,2022020312154,2022020312,Hit,154,HIT,Patrick Brown hit Martin Fehervary,2022-11-24T00:39:01Z,1,01:25,18:35,0,0,4.0,Philadelphia Flyers,PHI
+9,15,4,Washington Capitals,Philadelphia Flyers,20220203129,2022020312,Shot,9,SHOT,Kieffer Bellows Wrist Shot saved by Darcy Kuemper,2022-11-24T00:39:37Z,1,02:01,17:59,0,0,4.0,Philadelphia Flyers,PHI
+10,15,4,Washington Capitals,Philadelphia Flyers,202202031253,2022020312,Stoppage,53,STOP,Goalie Stopped,2022-11-24T00:39:37Z,1,02:02,17:58,0,0,,,
+11,15,4,Washington Capitals,Philadelphia Flyers,202202031254,2022020312,Faceoff,54,FACEOFF,Lars Eller faceoff won against Kevin Hayes,2022-11-24T00:40:11Z,1,02:02,17:58,0,0,15.0,Washington Capitals,WSH
+12,15,4,Washington Capitals,Philadelphia Flyers,2022020312155,2022020312,Hit,155,HIT,Zack MacEwen hit Erik Gustafsson,2022-11-24T00:40:32Z,1,02:23,17:37,0,0,4.0,Philadelphia Flyers,PHI
+13,15,4,Washington Capitals,Philadelphia Flyers,202202031210,2022020312,Blocked Shot,10,BLOCKED_SHOT,Alex Ovechkin shot blocked shot by Rasmus Ristolainen,2022-11-24T00:41:16Z,1,03:07,16:53,0,0,4.0,Philadelphia Flyers,PHI
+14,15,4,Washington Capitals,Philadelphia Flyers,202202031211,2022020312,Missed Shot,11,MISSED_SHOT,Dylan Strome Wide of Net Felix Sandstrom,2022-11-24T00:41:17Z,1,03:08,16:52,0,0,15.0,Washington Capitals,WSH
+15,15,4,Washington Capitals,Philadelphia Flyers,2022020312156,2022020312,Takeaway,156,TAKEAWAY,Takeaway by Sonny Milano,2022-11-24T00:41:38Z,1,03:29,16:31,0,0,15.0,Washington Capitals,WSH
+16,15,4,Washington Capitals,Philadelphia Flyers,202202031255,2022020312,Stoppage,55,STOP,High Stick,2022-11-24T00:41:49Z,1,03:40,16:20,0,0,,,
+17,15,4,Washington Capitals,Philadelphia Flyers,202202031256,2022020312,Faceoff,56,FACEOFF,Evgeny Kuznetsov faceoff won against Lukas Sedlak,2022-11-24T00:42:14Z,1,03:40,16:20,0,0,15.0,Washington Capitals,WSH
+18,15,4,Washington Capitals,Philadelphia Flyers,2022020312157,2022020312,Hit,157,HIT,T.J. Oshie hit Lukas Sedlak,2022-11-24T00:42:22Z,1,03:48,16:12,0,0,15.0,Washington Capitals,WSH
+19,15,4,Washington Capitals,Philadelphia Flyers,202202031212,2022020312,Blocked Shot,12,BLOCKED_SHOT,Trevor van Riemsdyk shot blocked shot by Nicolas Deslauriers,2022-11-24T00:42:27Z,1,03:53,16:07,0,0,4.0,Philadelphia Flyers,PHI
+20,15,4,Washington Capitals,Philadelphia Flyers,202202031257,2022020312,Stoppage,57,STOP,Puck in Netting,2022-11-24T00:42:28Z,1,03:54,16:06,0,0,,,
+21,15,4,Washington Capitals,Philadelphia Flyers,202202031258,2022020312,Faceoff,58,FACEOFF,Conor Sheary faceoff won against Lukas Sedlak,2022-11-24T00:43:15Z,1,03:54,16:06,0,0,15.0,Washington Capitals,WSH
+22,15,4,Washington Capitals,Philadelphia Flyers,202202031213,2022020312,Blocked Shot,13,BLOCKED_SHOT,Alex Ovechkin shot blocked shot by Lukas Sedlak,2022-11-24T00:43:19Z,1,03:58,16:02,0,0,4.0,Philadelphia Flyers,PHI
+23,15,4,Washington Capitals,Philadelphia Flyers,202202031214,2022020312,Shot,14,SHOT,Kieffer Bellows Backhand saved by Darcy Kuemper,2022-11-24T00:43:31Z,1,04:10,15:50,0,0,4.0,Philadelphia Flyers,PHI
+24,15,4,Washington Capitals,Philadelphia Flyers,202202031259,2022020312,Stoppage,59,STOP,Goalie Stopped,2022-11-24T00:43:32Z,1,04:11,15:49,0,0,,,
+25,15,4,Washington Capitals,Philadelphia Flyers,202202031260,2022020312,Faceoff,60,FACEOFF,Aliaksei Protas faceoff won against Kevin Hayes,2022-11-24T00:44:14Z,1,04:11,15:49,0,0,15.0,Washington Capitals,WSH
+26,15,4,Washington Capitals,Philadelphia Flyers,2022020312158,2022020312,Hit,158,HIT,Zack MacEwen hit Matt Irwin,2022-11-24T00:44:19Z,1,04:16,15:44,0,0,4.0,Philadelphia Flyers,PHI
+27,15,4,Washington Capitals,Philadelphia Flyers,2022020312159,2022020312,Hit,159,HIT,Noah Cates hit Garnet Hathaway,2022-11-24T00:44:39Z,1,04:36,15:24,0,0,4.0,Philadelphia Flyers,PHI
+28,15,4,Washington Capitals,Philadelphia Flyers,202202031261,2022020312,Stoppage,61,STOP,Icing,2022-11-24T00:44:51Z,1,04:48,15:12,0,0,,,
+29,15,4,Washington Capitals,Philadelphia Flyers,202202031262,2022020312,Faceoff,62,FACEOFF,Nic Dowd faceoff won against Morgan Frost,2022-11-24T00:45:21Z,1,04:48,15:12,0,0,15.0,Washington Capitals,WSH
+30,15,4,Washington Capitals,Philadelphia Flyers,202202031215,2022020312,Shot,15,SHOT,Garnet Hathaway Wrist Shot saved by Felix Sandstrom,2022-11-24T00:45:30Z,1,04:57,15:03,0,0,15.0,Washington Capitals,WSH
+31,15,4,Washington Capitals,Philadelphia Flyers,202202031216,2022020312,Goal,16,GOAL,"Morgan Frost (3) Snap Shot, assists: Travis Sanheim (4), Joel Farabee (9)",2022-11-24T00:46:00Z,1,05:27,14:33,0,1,4.0,Philadelphia Flyers,PHI
+32,15,4,Washington Capitals,Philadelphia Flyers,202202031263,2022020312,Faceoff,63,FACEOFF,Lars Eller faceoff won against Jackson Cates,2022-11-24T00:46:45Z,1,05:27,14:33,0,1,15.0,Washington Capitals,WSH
+33,15,4,Washington Capitals,Philadelphia Flyers,202202031217,2022020312,Blocked Shot,17,BLOCKED_SHOT,Patrick Brown shot blocked shot by John Carlson,2022-11-24T00:47:01Z,1,05:43,14:17,0,1,15.0,Washington Capitals,WSH
+34,15,4,Washington Capitals,Philadelphia Flyers,2022020312160,2022020312,Hit,160,HIT,Anthony Mantha hit Jackson Cates,2022-11-24T00:47:04Z,1,05:46,14:14,0,1,15.0,Washington Capitals,WSH
+35,15,4,Washington Capitals,Philadelphia Flyers,202202031218,2022020312,Shot,18,SHOT,John Carlson Snap Shot saved by Felix Sandstrom,2022-11-24T00:47:19Z,1,06:01,13:59,0,1,15.0,Washington Capitals,WSH
+36,15,4,Washington Capitals,Philadelphia Flyers,2022020312161,2022020312,Hit,161,HIT,Lars Eller hit Justin Braun,2022-11-24T00:47:24Z,1,06:06,13:54,0,1,15.0,Washington Capitals,WSH
+37,15,4,Washington Capitals,Philadelphia Flyers,202202031219,2022020312,Missed Shot,19,MISSED_SHOT,Tanner Laczynski Wide of Net Darcy Kuemper,2022-11-24T00:47:30Z,1,06:12,13:48,0,1,4.0,Philadelphia Flyers,PHI
+38,15,4,Washington Capitals,Philadelphia Flyers,202202031220,2022020312,Blocked Shot,20,BLOCKED_SHOT,Kieffer Bellows shot blocked shot by Matt Irwin,2022-11-24T00:47:53Z,1,06:35,13:25,0,1,15.0,Washington Capitals,WSH
+39,15,4,Washington Capitals,Philadelphia Flyers,202202031221,2022020312,Blocked Shot,21,BLOCKED_SHOT,Kieffer Bellows shot blocked shot by T.J. Oshie,2022-11-24T00:47:55Z,1,06:37,13:23,0,1,15.0,Washington Capitals,WSH
+40,15,4,Washington Capitals,Philadelphia Flyers,202202031222,2022020312,Missed Shot,22,MISSED_SHOT,Nicolas Deslauriers Goalpost Darcy Kuemper,2022-11-24T00:48:12Z,1,06:54,13:06,0,1,4.0,Philadelphia Flyers,PHI
+41,15,4,Washington Capitals,Philadelphia Flyers,2022020312162,2022020312,Hit,162,HIT,Zack MacEwen hit Martin Fehervary,2022-11-24T00:48:34Z,1,07:16,12:44,0,1,4.0,Philadelphia Flyers,PHI
+42,15,4,Washington Capitals,Philadelphia Flyers,2022020312163,2022020312,Hit,163,HIT,Conor Sheary hit Noah Cates,2022-11-24T00:48:44Z,1,07:26,12:34,0,1,15.0,Washington Capitals,WSH
+43,15,4,Washington Capitals,Philadelphia Flyers,2022020312164,2022020312,Hit,164,HIT,Alex Ovechkin hit Kevin Hayes,2022-11-24T00:48:56Z,1,07:38,12:22,0,1,15.0,Washington Capitals,WSH
+44,15,4,Washington Capitals,Philadelphia Flyers,2022020312165,2022020312,Hit,165,HIT,Garnet Hathaway hit Joel Farabee,2022-11-24T00:49:18Z,1,08:00,12:00,0,1,15.0,Washington Capitals,WSH
+45,15,4,Washington Capitals,Philadelphia Flyers,202202031223,2022020312,Shot,23,SHOT,Aliaksei Protas Snap Shot saved by Felix Sandstrom,2022-11-24T00:49:43Z,1,08:25,11:35,0,1,15.0,Washington Capitals,WSH
+46,15,4,Washington Capitals,Philadelphia Flyers,202202031264,2022020312,Stoppage,64,STOP,Puck in Netting,2022-11-24T00:49:45Z,1,08:26,11:34,0,1,,,
+47,15,4,Washington Capitals,Philadelphia Flyers,202202031265,2022020312,Faceoff,65,FACEOFF,Dylan Strome faceoff won against Patrick Brown,2022-11-24T00:52:04Z,1,08:26,11:34,0,1,15.0,Washington Capitals,WSH
+48,15,4,Washington Capitals,Philadelphia Flyers,2022020312167,2022020312,Giveaway,167,GIVEAWAY,Giveaway by John Carlson,2022-11-24T00:52:29Z,1,08:51,11:09,0,1,15.0,Washington Capitals,WSH
+49,15,4,Washington Capitals,Philadelphia Flyers,202202031224,2022020312,Blocked Shot,24,BLOCKED_SHOT,Rasmus Ristolainen shot blocked shot by Conor Sheary,2022-11-24T00:52:30Z,1,08:52,11:08,0,1,15.0,Washington Capitals,WSH
+50,15,4,Washington Capitals,Philadelphia Flyers,202202031225,2022020312,Shot,25,SHOT,Tanner Laczynski Backhand saved by Darcy Kuemper,2022-11-24T00:52:33Z,1,08:55,11:05,0,1,4.0,Philadelphia Flyers,PHI
+51,15,4,Washington Capitals,Philadelphia Flyers,202202031266,2022020312,Stoppage,66,STOP,Goalie Stopped,2022-11-24T00:52:34Z,1,08:56,11:04,0,1,,,
+52,15,4,Washington Capitals,Philadelphia Flyers,202202031267,2022020312,Faceoff,67,FACEOFF,Lars Eller faceoff won against Morgan Frost,2022-11-24T00:53:05Z,1,08:56,11:04,0,1,15.0,Washington Capitals,WSH
+53,15,4,Washington Capitals,Philadelphia Flyers,2022020312168,2022020312,Giveaway,168,GIVEAWAY,Giveaway by Ivan Provorov,2022-11-24T00:53:14Z,1,09:05,10:55,0,1,4.0,Philadelphia Flyers,PHI
+54,15,4,Washington Capitals,Philadelphia Flyers,2022020312169,2022020312,Giveaway,169,GIVEAWAY,Giveaway by Morgan Frost,2022-11-24T00:53:23Z,1,09:14,10:46,0,1,4.0,Philadelphia Flyers,PHI
+55,15,4,Washington Capitals,Philadelphia Flyers,202202031226,2022020312,Shot,26,SHOT,Lars Eller Slap Shot saved by Felix Sandstrom,2022-11-24T00:53:26Z,1,09:17,10:43,0,1,15.0,Washington Capitals,WSH
+56,15,4,Washington Capitals,Philadelphia Flyers,202202031227,2022020312,Shot,27,SHOT,Nick Jensen Slap Shot saved by Felix Sandstrom,2022-11-24T00:53:31Z,1,09:22,10:38,0,1,15.0,Washington Capitals,WSH
+57,15,4,Washington Capitals,Philadelphia Flyers,202202031268,2022020312,Stoppage,68,STOP,Goalie Stopped,2022-11-24T00:53:32Z,1,09:23,10:37,0,1,,,
+58,15,4,Washington Capitals,Philadelphia Flyers,202202031269,2022020312,Faceoff,69,FACEOFF,Evgeny Kuznetsov faceoff won against Kevin Hayes,2022-11-24T00:54:06Z,1,09:23,10:37,0,1,15.0,Washington Capitals,WSH
+59,15,4,Washington Capitals,Philadelphia Flyers,202202031228,2022020312,Missed Shot,28,MISSED_SHOT,Sonny Milano Over Net Felix Sandstrom,2022-11-24T00:54:11Z,1,09:28,10:32,0,1,15.0,Washington Capitals,WSH
+60,15,4,Washington Capitals,Philadelphia Flyers,2022020312170,2022020312,Hit,170,HIT,T.J. Oshie hit Nick Seeler,2022-11-24T00:54:14Z,1,09:31,10:29,0,1,15.0,Washington Capitals,WSH
+61,15,4,Washington Capitals,Philadelphia Flyers,2022020312243,2022020312,Penalty,243,PENALTY,Justin Braun Tripping against T.J. Oshie,2022-11-24T00:54:41Z,1,09:58,10:02,0,1,4.0,Philadelphia Flyers,PHI
+62,15,4,Washington Capitals,Philadelphia Flyers,202202031270,2022020312,Faceoff,70,FACEOFF,T.J. Oshie faceoff won against Noah Cates,2022-11-24T00:55:30Z,1,09:58,10:02,0,1,15.0,Washington Capitals,WSH
+63,15,4,Washington Capitals,Philadelphia Flyers,202202031229,2022020312,Missed Shot,29,MISSED_SHOT,Dylan Strome Wide of Net Felix Sandstrom,2022-11-24T00:55:37Z,1,10:05,09:55,0,1,15.0,Washington Capitals,WSH
+64,15,4,Washington Capitals,Philadelphia Flyers,2022020312172,2022020312,Giveaway,172,GIVEAWAY,Giveaway by Dylan Strome,2022-11-24T00:55:44Z,1,10:12,09:48,0,1,15.0,Washington Capitals,WSH
+65,15,4,Washington Capitals,Philadelphia Flyers,202202031230,2022020312,Shot,30,SHOT,Marcus Johansson Wrist Shot saved by Felix Sandstrom,2022-11-24T00:56:13Z,1,10:41,09:19,0,1,15.0,Washington Capitals,WSH
+66,15,4,Washington Capitals,Philadelphia Flyers,2022020312173,2022020312,Stoppage,173,STOP,Referee or Linesman,2022-11-24T00:56:15Z,1,10:43,09:17,0,1,,,
+67,15,4,Washington Capitals,Philadelphia Flyers,202202031273,2022020312,Faceoff,73,FACEOFF,T.J. Oshie faceoff won against Noah Cates,2022-11-24T00:59:43Z,1,10:43,09:17,0,1,15.0,Washington Capitals,WSH
+68,15,4,Washington Capitals,Philadelphia Flyers,202202031232,2022020312,Shot,32,SHOT,T.J. Oshie Snap Shot saved by Felix Sandstrom,2022-11-24T01:00:03Z,1,11:03,08:57,0,1,15.0,Washington Capitals,WSH
+69,15,4,Washington Capitals,Philadelphia Flyers,202202031233,2022020312,Goal,33,GOAL,"Marcus Johansson (5) Tip-In, assists: Alex Ovechkin (9), T.J. Oshie (4)",2022-11-24T01:00:05Z,1,11:05,08:55,1,1,15.0,Washington Capitals,WSH
+70,15,4,Washington Capitals,Philadelphia Flyers,202202031274,2022020312,Faceoff,74,FACEOFF,Nic Dowd faceoff won against Kevin Hayes,2022-11-24T01:01:15Z,1,11:05,08:55,1,1,15.0,Washington Capitals,WSH
+71,15,4,Washington Capitals,Philadelphia Flyers,2022020312174,2022020312,Hit,174,HIT,Zack MacEwen hit Matt Irwin,2022-11-24T01:01:22Z,1,11:12,08:48,1,1,4.0,Philadelphia Flyers,PHI
+72,15,4,Washington Capitals,Philadelphia Flyers,202202031234,2022020312,Blocked Shot,34,BLOCKED_SHOT,Travis Sanheim shot blocked shot by Trevor van Riemsdyk,2022-11-24T01:01:40Z,1,11:30,08:30,1,1,15.0,Washington Capitals,WSH
+73,15,4,Washington Capitals,Philadelphia Flyers,2022020312175,2022020312,Hit,175,HIT,Rasmus Ristolainen hit Nic Dowd,2022-11-24T01:01:54Z,1,11:44,08:16,1,1,4.0,Philadelphia Flyers,PHI
+74,15,4,Washington Capitals,Philadelphia Flyers,202202031276,2022020312,Stoppage,76,STOP,TV timeout,2022-11-24T01:02:03Z,1,11:53,08:07,1,1,,,
+75,15,4,Washington Capitals,Philadelphia Flyers,2022020312312,2022020312,Penalty,312,PENALTY,Nic Dowd Hooking against Joel Farabee,2022-11-24T01:02:03Z,1,11:53,08:07,1,1,15.0,Washington Capitals,WSH
+76,15,4,Washington Capitals,Philadelphia Flyers,202202031277,2022020312,Faceoff,77,FACEOFF,Kevin Hayes faceoff won against Lars Eller,2022-11-24T01:04:24Z,1,11:53,08:07,1,1,4.0,Philadelphia Flyers,PHI
+77,15,4,Washington Capitals,Philadelphia Flyers,202202031235,2022020312,Blocked Shot,35,BLOCKED_SHOT,Owen Tippett shot blocked shot by Trevor van Riemsdyk,2022-11-24T01:04:30Z,1,11:59,08:01,1,1,15.0,Washington Capitals,WSH
+78,15,4,Washington Capitals,Philadelphia Flyers,202202031236,2022020312,Shot,36,SHOT,Tony DeAngelo Wrist Shot saved by Darcy Kuemper,2022-11-24T01:05:00Z,1,12:29,07:31,1,1,4.0,Philadelphia Flyers,PHI
+79,15,4,Washington Capitals,Philadelphia Flyers,2022020312177,2022020312,Hit,177,HIT,Nick Jensen hit Tony DeAngelo,2022-11-24T01:05:04Z,1,12:33,07:27,1,1,15.0,Washington Capitals,WSH
+80,15,4,Washington Capitals,Philadelphia Flyers,202202031237,2022020312,Shot,37,SHOT,Tony DeAngelo Slap Shot saved by Darcy Kuemper,2022-11-24T01:05:11Z,1,12:40,07:20,1,1,4.0,Philadelphia Flyers,PHI
+81,15,4,Washington Capitals,Philadelphia Flyers,2022020312179,2022020312,Giveaway,179,GIVEAWAY,Giveaway by Martin Fehervary,2022-11-24T01:05:45Z,1,13:14,06:46,1,1,15.0,Washington Capitals,WSH
+82,15,4,Washington Capitals,Philadelphia Flyers,202202031238,2022020312,Shot,38,SHOT,Zack MacEwen Backhand saved by Darcy Kuemper,2022-11-24T01:06:17Z,1,13:46,06:14,1,1,4.0,Philadelphia Flyers,PHI
+83,15,4,Washington Capitals,Philadelphia Flyers,2022020312181,2022020312,Hit,181,HIT,T.J. Oshie hit Lukas Sedlak,2022-11-24T01:06:40Z,1,14:09,05:51,1,1,15.0,Washington Capitals,WSH
+84,15,4,Washington Capitals,Philadelphia Flyers,2022020312182,2022020312,Hit,182,HIT,T.J. Oshie hit Lukas Sedlak,2022-11-24T01:06:49Z,1,14:18,05:42,1,1,15.0,Washington Capitals,WSH
+85,15,4,Washington Capitals,Philadelphia Flyers,2022020312183,2022020312,Hit,183,HIT,Nicolas Deslauriers hit T.J. Oshie,2022-11-24T01:07:00Z,1,14:29,05:31,1,1,4.0,Philadelphia Flyers,PHI
+86,15,4,Washington Capitals,Philadelphia Flyers,202202031239,2022020312,Missed Shot,39,MISSED_SHOT,Nicolas Deslauriers Wide of Net Darcy Kuemper,2022-11-24T01:07:07Z,1,14:36,05:24,1,1,4.0,Philadelphia Flyers,PHI
+87,15,4,Washington Capitals,Philadelphia Flyers,202202031278,2022020312,Stoppage,78,STOP,Puck in Netting,2022-11-24T01:07:09Z,1,14:38,05:22,1,1,,,
+88,15,4,Washington Capitals,Philadelphia Flyers,202202031279,2022020312,Faceoff,79,FACEOFF,Lars Eller faceoff won against Morgan Frost,2022-11-24T01:09:40Z,1,14:38,05:22,1,1,15.0,Washington Capitals,WSH
+89,15,4,Washington Capitals,Philadelphia Flyers,202202031240,2022020312,Blocked Shot,40,BLOCKED_SHOT,Martin Fehervary shot blocked shot by Owen Tippett,2022-11-24T01:10:08Z,1,15:06,04:54,1,1,4.0,Philadelphia Flyers,PHI
+90,15,4,Washington Capitals,Philadelphia Flyers,202202031241,2022020312,Shot,41,SHOT,Anthony Mantha Slap Shot saved by Felix Sandstrom,2022-11-24T01:10:11Z,1,15:09,04:51,1,1,15.0,Washington Capitals,WSH
+91,15,4,Washington Capitals,Philadelphia Flyers,202202031280,2022020312,Stoppage,80,STOP,Goalie Stopped,2022-11-24T01:10:13Z,1,15:10,04:50,1,1,,,
+92,15,4,Washington Capitals,Philadelphia Flyers,202202031281,2022020312,Faceoff,81,FACEOFF,Patrick Brown faceoff won against Dylan Strome,2022-11-24T01:10:45Z,1,15:10,04:50,1,1,4.0,Philadelphia Flyers,PHI
+93,15,4,Washington Capitals,Philadelphia Flyers,202202031242,2022020312,Blocked Shot,42,BLOCKED_SHOT,John Carlson shot blocked shot by Tanner Laczynski,2022-11-24T01:10:52Z,1,15:17,04:43,1,1,4.0,Philadelphia Flyers,PHI
+94,15,4,Washington Capitals,Philadelphia Flyers,2022020312184,2022020312,Takeaway,184,TAKEAWAY,Takeaway by Dylan Strome,2022-11-24T01:11:13Z,1,15:38,04:22,1,1,15.0,Washington Capitals,WSH
+95,15,4,Washington Capitals,Philadelphia Flyers,2022020312186,2022020312,Hit,186,HIT,Rasmus Ristolainen hit Dylan Strome,2022-11-24T01:11:17Z,1,15:42,04:18,1,1,4.0,Philadelphia Flyers,PHI
+96,15,4,Washington Capitals,Philadelphia Flyers,2022020312501,2022020312,Blocked Shot,501,BLOCKED_SHOT,Alex Ovechkin shot blocked shot by Rasmus Ristolainen,2022-11-24T01:11:35Z,1,16:00,04:00,1,1,4.0,Philadelphia Flyers,PHI
+97,15,4,Washington Capitals,Philadelphia Flyers,202202031243,2022020312,Shot,43,SHOT,John Carlson Snap Shot saved by Felix Sandstrom,2022-11-24T01:11:44Z,1,16:09,03:51,1,1,15.0,Washington Capitals,WSH
+98,15,4,Washington Capitals,Philadelphia Flyers,202202031282,2022020312,Stoppage,82,STOP,Goalie Stopped,2022-11-24T01:11:45Z,1,16:10,03:50,1,1,,,
+99,15,4,Washington Capitals,Philadelphia Flyers,202202031283,2022020312,Faceoff,83,FACEOFF,Kevin Hayes faceoff won against Evgeny Kuznetsov,2022-11-24T01:12:13Z,1,16:10,03:50,1,1,4.0,Philadelphia Flyers,PHI
+100,15,4,Washington Capitals,Philadelphia Flyers,2022020312344,2022020312,Penalty,344,PENALTY,Sonny Milano High-sticking against Nick Seeler,2022-11-24T01:12:17Z,1,16:14,03:46,1,1,15.0,Washington Capitals,WSH
+101,15,4,Washington Capitals,Philadelphia Flyers,202202031286,2022020312,Faceoff,86,FACEOFF,Kevin Hayes faceoff won against Nic Dowd,2022-11-24T01:13:00Z,1,16:14,03:46,1,1,4.0,Philadelphia Flyers,PHI
+102,15,4,Washington Capitals,Philadelphia Flyers,2022020312188,2022020312,Hit,188,HIT,Trevor van Riemsdyk hit Travis Sanheim,2022-11-24T01:15:04Z,1,18:18,01:42,1,1,15.0,Washington Capitals,WSH
+103,15,4,Washington Capitals,Philadelphia Flyers,2022020312189,2022020312,Hit,189,HIT,Nick Jensen hit Lukas Sedlak,2022-11-24T01:15:10Z,1,18:24,01:36,1,1,15.0,Washington Capitals,WSH
+104,15,4,Washington Capitals,Philadelphia Flyers,2022020312190,2022020312,Hit,190,HIT,Nicolas Deslauriers hit Marcus Johansson,2022-11-24T01:15:14Z,1,18:28,01:32,1,1,4.0,Philadelphia Flyers,PHI
+105,15,4,Washington Capitals,Philadelphia Flyers,202202031244,2022020312,Blocked Shot,44,BLOCKED_SHOT,Zack MacEwen shot blocked shot by Nick Jensen,2022-11-24T01:15:16Z,1,18:30,01:30,1,1,15.0,Washington Capitals,WSH
+106,15,4,Washington Capitals,Philadelphia Flyers,202202031245,2022020312,Shot,45,SHOT,Nicolas Deslauriers Wrist Shot saved by Darcy Kuemper,2022-11-24T01:15:19Z,1,18:33,01:27,1,1,4.0,Philadelphia Flyers,PHI
+107,15,4,Washington Capitals,Philadelphia Flyers,202202031246,2022020312,Shot,46,SHOT,Kieffer Bellows Wrist Shot saved by Darcy Kuemper,2022-11-24T01:15:50Z,1,19:04,00:56,1,1,4.0,Philadelphia Flyers,PHI
+108,15,4,Washington Capitals,Philadelphia Flyers,2022020312192,2022020312,Takeaway,192,TAKEAWAY,Takeaway by Erik Gustafsson,2022-11-24T01:16:02Z,1,19:16,00:44,1,1,15.0,Washington Capitals,WSH
+109,15,4,Washington Capitals,Philadelphia Flyers,2022020312193,2022020312,Giveaway,193,GIVEAWAY,Giveaway by John Carlson,2022-11-24T01:16:09Z,1,19:23,00:37,1,1,15.0,Washington Capitals,WSH
+110,15,4,Washington Capitals,Philadelphia Flyers,202202031247,2022020312,Shot,47,SHOT,Noah Cates Backhand saved by Darcy Kuemper,2022-11-24T01:16:18Z,1,19:32,00:28,1,1,4.0,Philadelphia Flyers,PHI
+111,15,4,Washington Capitals,Philadelphia Flyers,202202031248,2022020312,Period End,48,PERIOD_END,End of 1st Period,2022-11-24T01:16:47Z,1,20:00,00:00,1,1,,,
+112,15,4,Washington Capitals,Philadelphia Flyers,2022020312251,2022020312,Period Official,251,PERIOD_OFFICIAL,Period Official,2022-11-24T01:24:35Z,1,20:00,00:00,1,1,,,
+113,15,4,Washington Capitals,Philadelphia Flyers,2022020312252,2022020312,Period Ready,252,PERIOD_READY,Period Ready,2022-11-24T01:33:22Z,2,00:00,20:00,1,1,,,
+114,15,4,Washington Capitals,Philadelphia Flyers,202202031287,2022020312,Period Start,87,PERIOD_START,Period Start,2022-11-24T01:35:41Z,2,00:00,20:00,1,1,,,
+115,15,4,Washington Capitals,Philadelphia Flyers,202202031288,2022020312,Faceoff,88,FACEOFF,Kevin Hayes faceoff won against Dylan Strome,2022-11-24T01:35:41Z,2,00:00,20:00,1,1,4.0,Philadelphia Flyers,PHI
+116,15,4,Washington Capitals,Philadelphia Flyers,2022020312194,2022020312,Takeaway,194,TAKEAWAY,Takeaway by Dylan Strome,2022-11-24T01:35:56Z,2,00:15,19:45,1,1,15.0,Washington Capitals,WSH
+117,15,4,Washington Capitals,Philadelphia Flyers,2022020312195,2022020312,Hit,195,HIT,Joel Farabee hit Nick Jensen,2022-11-24T01:36:49Z,2,01:08,18:52,1,1,4.0,Philadelphia Flyers,PHI
+118,15,4,Washington Capitals,Philadelphia Flyers,2022020312253,2022020312,Missed Shot,253,MISSED_SHOT,Nick Jensen Over Net Felix Sandstrom,2022-11-24T01:37:00Z,2,01:19,18:41,1,1,15.0,Washington Capitals,WSH
+119,15,4,Washington Capitals,Philadelphia Flyers,202202031289,2022020312,Stoppage,89,STOP,Puck in Netting,2022-11-24T01:37:02Z,2,01:20,18:40,1,1,,,
+120,15,4,Washington Capitals,Philadelphia Flyers,202202031290,2022020312,Faceoff,90,FACEOFF,Evgeny Kuznetsov faceoff won against Patrick Brown,2022-11-24T01:37:36Z,2,01:20,18:40,1,1,15.0,Washington Capitals,WSH
+121,15,4,Washington Capitals,Philadelphia Flyers,2022020312254,2022020312,Shot,254,SHOT,Tanner Laczynski Snap Shot saved by Darcy Kuemper,2022-11-24T01:37:51Z,2,01:35,18:25,1,1,4.0,Philadelphia Flyers,PHI
+122,15,4,Washington Capitals,Philadelphia Flyers,2022020312255,2022020312,Missed Shot,255,MISSED_SHOT,Evgeny Kuznetsov Wide of Net Felix Sandstrom,2022-11-24T01:38:06Z,2,01:50,18:10,1,1,15.0,Washington Capitals,WSH
+123,15,4,Washington Capitals,Philadelphia Flyers,2022020312196,2022020312,Hit,196,HIT,Justin Braun hit Sonny Milano,2022-11-24T01:38:08Z,2,01:52,18:08,1,1,4.0,Philadelphia Flyers,PHI
+124,15,4,Washington Capitals,Philadelphia Flyers,2022020312197,2022020312,Giveaway,197,GIVEAWAY,Giveaway by Tanner Laczynski,2022-11-24T01:38:19Z,2,02:03,17:57,1,1,4.0,Philadelphia Flyers,PHI
+125,15,4,Washington Capitals,Philadelphia Flyers,2022020312256,2022020312,Blocked Shot,256,BLOCKED_SHOT,Marcus Johansson shot blocked shot by Justin Braun,2022-11-24T01:38:29Z,2,02:13,17:47,1,1,4.0,Philadelphia Flyers,PHI
+126,15,4,Washington Capitals,Philadelphia Flyers,2022020312257,2022020312,Missed Shot,257,MISSED_SHOT,Martin Fehervary Wide of Net Felix Sandstrom,2022-11-24T01:38:41Z,2,02:25,17:35,1,1,15.0,Washington Capitals,WSH
+127,15,4,Washington Capitals,Philadelphia Flyers,202202031291,2022020312,Stoppage,91,STOP,Puck in Crowd,2022-11-24T01:38:57Z,2,02:40,17:20,1,1,,,
+128,15,4,Washington Capitals,Philadelphia Flyers,202202031292,2022020312,Faceoff,92,FACEOFF,Dylan Strome faceoff won against Lukas Sedlak,2022-11-24T01:39:38Z,2,02:40,17:20,1,1,15.0,Washington Capitals,WSH
+129,15,4,Washington Capitals,Philadelphia Flyers,2022020312258,2022020312,Missed Shot,258,MISSED_SHOT,Alex Ovechkin Wide of Net Felix Sandstrom,2022-11-24T01:39:46Z,2,02:48,17:12,1,1,15.0,Washington Capitals,WSH
+130,15,4,Washington Capitals,Philadelphia Flyers,2022020312259,2022020312,Shot,259,SHOT,John Carlson Slap Shot saved by Felix Sandstrom,2022-11-24T01:39:48Z,2,02:50,17:10,1,1,15.0,Washington Capitals,WSH
+131,15,4,Washington Capitals,Philadelphia Flyers,202202031293,2022020312,Stoppage,93,STOP,Goalie Stopped,2022-11-24T01:39:49Z,2,02:51,17:09,1,1,,,
+132,15,4,Washington Capitals,Philadelphia Flyers,202202031294,2022020312,Faceoff,94,FACEOFF,Dylan Strome faceoff won against Kevin Hayes,2022-11-24T01:40:20Z,2,02:51,17:09,1,1,15.0,Washington Capitals,WSH
+133,15,4,Washington Capitals,Philadelphia Flyers,2022020312260,2022020312,Shot,260,SHOT,Conor Sheary Wrist Shot saved by Felix Sandstrom,2022-11-24T01:40:26Z,2,02:57,17:03,1,1,15.0,Washington Capitals,WSH
+134,15,4,Washington Capitals,Philadelphia Flyers,2022020312261,2022020312,Shot,261,SHOT,Dylan Strome Batted saved by Felix Sandstrom,2022-11-24T01:40:27Z,2,02:58,17:02,1,1,15.0,Washington Capitals,WSH
+135,15,4,Washington Capitals,Philadelphia Flyers,202202031295,2022020312,Stoppage,95,STOP,Goalie Stopped,2022-11-24T01:40:28Z,2,02:59,17:01,1,1,,,
+136,15,4,Washington Capitals,Philadelphia Flyers,202202031296,2022020312,Faceoff,96,FACEOFF,Kevin Hayes faceoff won against Marcus Johansson,2022-11-24T01:41:07Z,2,02:59,17:01,1,1,4.0,Philadelphia Flyers,PHI
+137,15,4,Washington Capitals,Philadelphia Flyers,202202031297,2022020312,Stoppage,97,STOP,Puck in Benches,2022-11-24T01:41:26Z,2,03:18,16:42,1,1,,,
+138,15,4,Washington Capitals,Philadelphia Flyers,2022020312100,2022020312,Stoppage,100,STOP,TV timeout,2022-11-24T01:41:26Z,2,03:18,16:42,1,1,,,
+139,15,4,Washington Capitals,Philadelphia Flyers,2022020312401,2022020312,Faceoff,401,FACEOFF,Nic Dowd faceoff won against Lukas Sedlak,2022-11-24T01:45:10Z,2,03:18,16:42,1,1,15.0,Washington Capitals,WSH
+140,15,4,Washington Capitals,Philadelphia Flyers,2022020312198,2022020312,Hit,198,HIT,Nicolas Deslauriers hit Nic Dowd,2022-11-24T01:45:30Z,2,03:38,16:22,1,1,4.0,Philadelphia Flyers,PHI
+141,15,4,Washington Capitals,Philadelphia Flyers,2022020312262,2022020312,Shot,262,SHOT,Kieffer Bellows Wrist Shot saved by Darcy Kuemper,2022-11-24T01:45:36Z,2,03:44,16:16,1,1,4.0,Philadelphia Flyers,PHI
+142,15,4,Washington Capitals,Philadelphia Flyers,2022020312199,2022020312,Hit,199,HIT,Nicolas Deslauriers hit Trevor van Riemsdyk,2022-11-24T01:45:46Z,2,03:54,16:06,1,1,4.0,Philadelphia Flyers,PHI
+143,15,4,Washington Capitals,Philadelphia Flyers,2022020312200,2022020312,Hit,200,HIT,Garnet Hathaway hit Tony DeAngelo,2022-11-24T01:45:52Z,2,04:00,16:00,1,1,15.0,Washington Capitals,WSH
+144,15,4,Washington Capitals,Philadelphia Flyers,2022020312263,2022020312,Shot,263,SHOT,Evgeny Kuznetsov Wrist Shot saved by Felix Sandstrom,2022-11-24T01:46:03Z,2,04:11,15:49,1,1,15.0,Washington Capitals,WSH
+145,15,4,Washington Capitals,Philadelphia Flyers,2022020312402,2022020312,Stoppage,402,STOP,Puck in Netting,2022-11-24T01:46:04Z,2,04:12,15:48,1,1,,,
+146,15,4,Washington Capitals,Philadelphia Flyers,2022020312403,2022020312,Faceoff,403,FACEOFF,Kevin Hayes faceoff won against Evgeny Kuznetsov,2022-11-24T01:46:38Z,2,04:12,15:48,1,1,4.0,Philadelphia Flyers,PHI
+147,15,4,Washington Capitals,Philadelphia Flyers,2022020312351,2022020312,Hit,351,HIT,John Carlson hit Noah Cates,2022-11-24T01:46:56Z,2,04:30,15:30,1,1,15.0,Washington Capitals,WSH
+148,15,4,Washington Capitals,Philadelphia Flyers,2022020312404,2022020312,Stoppage,404,STOP,Icing,2022-11-24T01:47:28Z,2,05:02,14:58,1,1,,,
+149,15,4,Washington Capitals,Philadelphia Flyers,2022020312405,2022020312,Faceoff,405,FACEOFF,Kevin Hayes faceoff won against Dylan Strome,2022-11-24T01:47:58Z,2,05:02,14:58,1,1,4.0,Philadelphia Flyers,PHI
+150,15,4,Washington Capitals,Philadelphia Flyers,2022020312352,2022020312,Takeaway,352,TAKEAWAY,Takeaway by Nick Jensen,2022-11-24T01:48:20Z,2,05:24,14:36,1,1,15.0,Washington Capitals,WSH
+151,15,4,Washington Capitals,Philadelphia Flyers,2022020312264,2022020312,Blocked Shot,264,BLOCKED_SHOT,Jackson Cates shot blocked shot by Martin Fehervary,2022-11-24T01:48:44Z,2,05:48,14:12,1,1,15.0,Washington Capitals,WSH
+152,15,4,Washington Capitals,Philadelphia Flyers,2022020312354,2022020312,Takeaway,354,TAKEAWAY,Takeaway by Joel Farabee,2022-11-24T01:49:17Z,2,06:21,13:39,1,1,4.0,Philadelphia Flyers,PHI
+153,15,4,Washington Capitals,Philadelphia Flyers,2022020312265,2022020312,Missed Shot,265,MISSED_SHOT,Owen Tippett Wide of Net Darcy Kuemper,2022-11-24T01:49:19Z,2,06:23,13:37,1,1,4.0,Philadelphia Flyers,PHI
+154,15,4,Washington Capitals,Philadelphia Flyers,2022020312355,2022020312,Takeaway,355,TAKEAWAY,Takeaway by Marcus Johansson,2022-11-24T01:49:22Z,2,06:26,13:34,1,1,15.0,Washington Capitals,WSH
+155,15,4,Washington Capitals,Philadelphia Flyers,2022020312356,2022020312,Hit,356,HIT,Lars Eller hit Tony DeAngelo,2022-11-24T01:49:33Z,2,06:37,13:23,1,1,15.0,Washington Capitals,WSH
+156,15,4,Washington Capitals,Philadelphia Flyers,2022020312266,2022020312,Missed Shot,266,MISSED_SHOT,Trevor van Riemsdyk Wide of Net Felix Sandstrom,2022-11-24T01:49:57Z,2,07:01,12:59,1,1,15.0,Washington Capitals,WSH
+157,15,4,Washington Capitals,Philadelphia Flyers,2022020312406,2022020312,Stoppage,406,STOP,Puck in Netting,2022-11-24T01:49:58Z,2,07:02,12:58,1,1,,,
+158,15,4,Washington Capitals,Philadelphia Flyers,2022020312407,2022020312,Faceoff,407,FACEOFF,Lukas Sedlak faceoff won against Evgeny Kuznetsov,2022-11-24T01:50:32Z,2,07:02,12:58,1,1,4.0,Philadelphia Flyers,PHI
+159,15,4,Washington Capitals,Philadelphia Flyers,2022020312357,2022020312,Hit,357,HIT,Rasmus Ristolainen hit Sonny Milano,2022-11-24T01:50:53Z,2,07:23,12:37,1,1,4.0,Philadelphia Flyers,PHI
+160,15,4,Washington Capitals,Philadelphia Flyers,2022020312358,2022020312,Hit,358,HIT,Kieffer Bellows hit Matt Irwin,2022-11-24T01:50:58Z,2,07:28,12:32,1,1,4.0,Philadelphia Flyers,PHI
+161,15,4,Washington Capitals,Philadelphia Flyers,2022020312267,2022020312,Blocked Shot,267,BLOCKED_SHOT,Evgeny Kuznetsov shot blocked shot by Rasmus Ristolainen,2022-11-24T01:51:08Z,2,07:38,12:22,1,1,4.0,Philadelphia Flyers,PHI
+162,15,4,Washington Capitals,Philadelphia Flyers,2022020312359,2022020312,Hit,359,HIT,Nicolas Deslauriers hit Matt Irwin,2022-11-24T01:51:16Z,2,07:46,12:14,1,1,4.0,Philadelphia Flyers,PHI
+163,15,4,Washington Capitals,Philadelphia Flyers,2022020312268,2022020312,Blocked Shot,268,BLOCKED_SHOT,T.J. Oshie shot blocked shot by Justin Braun,2022-11-24T01:51:31Z,2,08:01,11:59,1,1,4.0,Philadelphia Flyers,PHI
+164,15,4,Washington Capitals,Philadelphia Flyers,2022020312360,2022020312,Hit,360,HIT,Zack MacEwen hit John Carlson,2022-11-24T01:51:56Z,2,08:26,11:34,1,1,4.0,Philadelphia Flyers,PHI
+165,15,4,Washington Capitals,Philadelphia Flyers,2022020312269,2022020312,Blocked Shot,269,BLOCKED_SHOT,John Carlson shot blocked shot by Justin Braun,2022-11-24T01:52:00Z,2,08:30,11:30,1,1,4.0,Philadelphia Flyers,PHI
+166,15,4,Washington Capitals,Philadelphia Flyers,2022020312270,2022020312,Shot,270,SHOT,John Carlson Snap Shot saved by Felix Sandstrom,2022-11-24T01:52:04Z,2,08:34,11:26,1,1,15.0,Washington Capitals,WSH
+167,15,4,Washington Capitals,Philadelphia Flyers,2022020312589,2022020312,Penalty,589,PENALTY,Justin Braun Hooking against Nic Dowd,2022-11-24T01:52:09Z,2,08:39,11:21,1,1,4.0,Philadelphia Flyers,PHI
+168,15,4,Washington Capitals,Philadelphia Flyers,2022020312408,2022020312,Faceoff,408,FACEOFF,Lukas Sedlak faceoff won against T.J. Oshie,2022-11-24T01:52:58Z,2,08:39,11:21,1,1,4.0,Philadelphia Flyers,PHI
+169,15,4,Washington Capitals,Philadelphia Flyers,2022020312271,2022020312,Shot,271,SHOT,Dylan Strome Snap Shot saved by Felix Sandstrom,2022-11-24T01:53:17Z,2,08:58,11:02,1,1,15.0,Washington Capitals,WSH
+170,15,4,Washington Capitals,Philadelphia Flyers,2022020312272,2022020312,Shot,272,SHOT,John Carlson Slap Shot saved by Felix Sandstrom,2022-11-24T01:53:21Z,2,09:02,10:58,1,1,15.0,Washington Capitals,WSH
+171,15,4,Washington Capitals,Philadelphia Flyers,2022020312362,2022020312,Takeaway,362,TAKEAWAY,Takeaway by Ivan Provorov,2022-11-24T01:53:34Z,2,09:15,10:45,1,1,4.0,Philadelphia Flyers,PHI
+172,15,4,Washington Capitals,Philadelphia Flyers,2022020312363,2022020312,Giveaway,363,GIVEAWAY,Giveaway by Ivan Provorov,2022-11-24T01:53:36Z,2,09:17,10:43,1,1,4.0,Philadelphia Flyers,PHI
+173,15,4,Washington Capitals,Philadelphia Flyers,2022020312273,2022020312,Blocked Shot,273,BLOCKED_SHOT,T.J. Oshie shot blocked shot by Ivan Provorov,2022-11-24T01:53:44Z,2,09:25,10:35,1,1,4.0,Philadelphia Flyers,PHI
+174,15,4,Washington Capitals,Philadelphia Flyers,2022020312274,2022020312,Shot,274,SHOT,T.J. Oshie Wrist Shot saved by Felix Sandstrom,2022-11-24T01:54:01Z,2,09:42,10:18,1,1,15.0,Washington Capitals,WSH
+175,15,4,Washington Capitals,Philadelphia Flyers,2022020312275,2022020312,Blocked Shot,275,BLOCKED_SHOT,Marcus Johansson shot blocked shot by Tony DeAngelo,2022-11-24T01:54:30Z,2,10:11,09:49,1,1,4.0,Philadelphia Flyers,PHI
+176,15,4,Washington Capitals,Philadelphia Flyers,2022020312276,2022020312,Shot,276,SHOT,Alex Ovechkin Wrist Shot saved by Felix Sandstrom,2022-11-24T01:54:31Z,2,10:12,09:48,1,1,15.0,Washington Capitals,WSH
+177,15,4,Washington Capitals,Philadelphia Flyers,2022020312409,2022020312,Stoppage,409,STOP,Goalie Stopped,2022-11-24T01:54:33Z,2,10:13,09:47,1,1,,,
+178,15,4,Washington Capitals,Philadelphia Flyers,2022020312410,2022020312,Faceoff,410,FACEOFF,Evgeny Kuznetsov faceoff won against Lukas Sedlak,2022-11-24T01:55:05Z,2,10:13,09:47,1,1,15.0,Washington Capitals,WSH
+179,15,4,Washington Capitals,Philadelphia Flyers,2022020312277,2022020312,Blocked Shot,277,BLOCKED_SHOT,Evgeny Kuznetsov shot blocked shot by Noah Cates,2022-11-24T01:55:19Z,2,10:27,09:33,1,1,4.0,Philadelphia Flyers,PHI
+180,15,4,Washington Capitals,Philadelphia Flyers,2022020312365,2022020312,Hit,365,HIT,Lukas Sedlak hit Conor Sheary,2022-11-24T01:55:46Z,2,10:54,09:06,1,1,4.0,Philadelphia Flyers,PHI
+181,15,4,Washington Capitals,Philadelphia Flyers,2022020312278,2022020312,Blocked Shot,278,BLOCKED_SHOT,Evgeny Kuznetsov shot blocked shot by Lukas Sedlak,2022-11-24T01:55:49Z,2,10:57,09:03,1,1,4.0,Philadelphia Flyers,PHI
+182,15,4,Washington Capitals,Philadelphia Flyers,2022020312279,2022020312,Blocked Shot,279,BLOCKED_SHOT,Joel Farabee shot blocked shot by Trevor van Riemsdyk,2022-11-24T01:56:00Z,2,11:08,08:52,1,1,15.0,Washington Capitals,WSH
+183,15,4,Washington Capitals,Philadelphia Flyers,2022020312280,2022020312,Shot,280,SHOT,Nick Jensen Wrist Shot saved by Felix Sandstrom,2022-11-24T01:56:30Z,2,11:38,08:22,1,1,15.0,Washington Capitals,WSH
+184,15,4,Washington Capitals,Philadelphia Flyers,2022020312411,2022020312,Stoppage,411,STOP,Goalie Stopped,2022-11-24T01:56:31Z,2,11:39,08:21,1,1,,,
+185,15,4,Washington Capitals,Philadelphia Flyers,2022020312412,2022020312,Faceoff,412,FACEOFF,Lars Eller faceoff won against Morgan Frost,2022-11-24T01:59:01Z,2,11:39,08:21,1,1,15.0,Washington Capitals,WSH
+186,15,4,Washington Capitals,Philadelphia Flyers,2022020312281,2022020312,Blocked Shot,281,BLOCKED_SHOT,Martin Fehervary shot blocked shot by Owen Tippett,2022-11-24T01:59:08Z,2,11:46,08:14,1,1,4.0,Philadelphia Flyers,PHI
+187,15,4,Washington Capitals,Philadelphia Flyers,2022020312413,2022020312,Stoppage,413,STOP,Icing,2022-11-24T01:59:19Z,2,11:57,08:03,1,1,,,
+188,15,4,Washington Capitals,Philadelphia Flyers,2022020312414,2022020312,Faceoff,414,FACEOFF,Dylan Strome faceoff won against Morgan Frost,2022-11-24T01:59:47Z,2,11:57,08:03,1,1,15.0,Washington Capitals,WSH
+189,15,4,Washington Capitals,Philadelphia Flyers,2022020312282,2022020312,Blocked Shot,282,BLOCKED_SHOT,John Carlson shot blocked shot by Ivan Provorov,2022-11-24T01:59:53Z,2,12:03,07:57,1,1,4.0,Philadelphia Flyers,PHI
+190,15,4,Washington Capitals,Philadelphia Flyers,2022020312283,2022020312,Missed Shot,283,MISSED_SHOT,Dylan Strome Goalpost Felix Sandstrom,2022-11-24T02:00:09Z,2,12:19,07:41,1,1,15.0,Washington Capitals,WSH
+191,15,4,Washington Capitals,Philadelphia Flyers,2022020312284,2022020312,Shot,284,SHOT,Morgan Frost Snap Shot saved by Darcy Kuemper,2022-11-24T02:00:24Z,2,12:34,07:26,1,1,4.0,Philadelphia Flyers,PHI
+192,15,4,Washington Capitals,Philadelphia Flyers,2022020312285,2022020312,Shot,285,SHOT,Alex Ovechkin Snap Shot saved by Felix Sandstrom,2022-11-24T02:00:31Z,2,12:41,07:19,1,1,15.0,Washington Capitals,WSH
+193,15,4,Washington Capitals,Philadelphia Flyers,2022020312415,2022020312,Stoppage,415,STOP,Goalie Stopped,2022-11-24T02:00:32Z,2,12:42,07:18,1,1,,,
+194,15,4,Washington Capitals,Philadelphia Flyers,2022020312416,2022020312,Faceoff,416,FACEOFF,Kevin Hayes faceoff won against Aliaksei Protas,2022-11-24T02:01:12Z,2,12:42,07:18,1,1,4.0,Philadelphia Flyers,PHI
+195,15,4,Washington Capitals,Philadelphia Flyers,2022020312366,2022020312,Hit,366,HIT,Garnet Hathaway hit Rasmus Ristolainen,2022-11-24T02:01:17Z,2,12:47,07:13,1,1,15.0,Washington Capitals,WSH
+196,15,4,Washington Capitals,Philadelphia Flyers,2022020312367,2022020312,Hit,367,HIT,Travis Sanheim hit Garnet Hathaway,2022-11-24T02:01:22Z,2,12:52,07:08,1,1,4.0,Philadelphia Flyers,PHI
+197,15,4,Washington Capitals,Philadelphia Flyers,2022020312286,2022020312,Shot,286,SHOT,Martin Fehervary Snap Shot saved by Felix Sandstrom,2022-11-24T02:01:27Z,2,12:57,07:03,1,1,15.0,Washington Capitals,WSH
+198,15,4,Washington Capitals,Philadelphia Flyers,2022020312287,2022020312,Missed Shot,287,MISSED_SHOT,Martin Fehervary Wide of Net Felix Sandstrom,2022-11-24T02:01:28Z,2,12:58,07:02,1,1,15.0,Washington Capitals,WSH
+199,15,4,Washington Capitals,Philadelphia Flyers,2022020312369,2022020312,Hit,369,HIT,Garnet Hathaway hit Travis Sanheim,2022-11-24T02:01:48Z,2,13:18,06:42,1,1,15.0,Washington Capitals,WSH
+200,15,4,Washington Capitals,Philadelphia Flyers,2022020312370,2022020312,Takeaway,370,TAKEAWAY,Takeaway by Martin Fehervary,2022-11-24T02:01:56Z,2,13:26,06:34,1,1,15.0,Washington Capitals,WSH
+201,15,4,Washington Capitals,Philadelphia Flyers,2022020312371,2022020312,Hit,371,HIT,Nick Seeler hit Garnet Hathaway,2022-11-24T02:02:00Z,2,13:30,06:30,1,1,4.0,Philadelphia Flyers,PHI
+202,15,4,Washington Capitals,Philadelphia Flyers,2022020312288,2022020312,Blocked Shot,288,BLOCKED_SHOT,Kevin Hayes shot blocked shot by Garnet Hathaway,2022-11-24T02:02:06Z,2,13:36,06:24,1,1,15.0,Washington Capitals,WSH
+203,15,4,Washington Capitals,Philadelphia Flyers,2022020312372,2022020312,Hit,372,HIT,Garnet Hathaway hit Nick Seeler,2022-11-24T02:02:14Z,2,13:44,06:16,1,1,15.0,Washington Capitals,WSH
+204,15,4,Washington Capitals,Philadelphia Flyers,2022020312373,2022020312,Hit,373,HIT,Matt Irwin hit Tanner Laczynski,2022-11-24T02:02:38Z,2,14:08,05:52,1,1,15.0,Washington Capitals,WSH
+205,15,4,Washington Capitals,Philadelphia Flyers,2022020312374,2022020312,Hit,374,HIT,Patrick Brown hit Trevor van Riemsdyk,2022-11-24T02:02:46Z,2,14:16,05:44,1,1,4.0,Philadelphia Flyers,PHI
+206,15,4,Washington Capitals,Philadelphia Flyers,2022020312289,2022020312,Goal,289,GOAL,"Patrick Brown (1) Deflected, assists: Ivan Provorov (8), Nicolas Deslauriers (3)",2022-11-24T02:03:03Z,2,14:33,05:27,1,2,4.0,Philadelphia Flyers,PHI
+207,15,4,Washington Capitals,Philadelphia Flyers,2022020312417,2022020312,Faceoff,417,FACEOFF,Lukas Sedlak faceoff won against Lars Eller,2022-11-24T02:04:04Z,2,14:33,05:27,1,2,4.0,Philadelphia Flyers,PHI
+208,15,4,Washington Capitals,Philadelphia Flyers,2022020312375,2022020312,Hit,375,HIT,Kieffer Bellows hit John Carlson,2022-11-24T02:04:12Z,2,14:41,05:19,1,2,4.0,Philadelphia Flyers,PHI
+209,15,4,Washington Capitals,Philadelphia Flyers,2022020312290,2022020312,Blocked Shot,290,BLOCKED_SHOT,Marcus Johansson shot blocked shot by Rasmus Ristolainen,2022-11-24T02:04:32Z,2,15:01,04:59,1,2,4.0,Philadelphia Flyers,PHI
+210,15,4,Washington Capitals,Philadelphia Flyers,2022020312418,2022020312,Stoppage,418,STOP,Puck Frozen,2022-11-24T02:04:35Z,2,15:03,04:57,1,2,,,
+211,15,4,Washington Capitals,Philadelphia Flyers,2022020312420,2022020312,Faceoff,420,FACEOFF,Dylan Strome faceoff won against Kevin Hayes,2022-11-24T02:07:05Z,2,15:03,04:57,1,2,15.0,Washington Capitals,WSH
+212,15,4,Washington Capitals,Philadelphia Flyers,2022020312376,2022020312,Takeaway,376,TAKEAWAY,Takeaway by Zack MacEwen,2022-11-24T02:07:15Z,2,15:13,04:47,1,2,4.0,Philadelphia Flyers,PHI
+213,15,4,Washington Capitals,Philadelphia Flyers,2022020312421,2022020312,Stoppage,421,STOP,Puck Frozen,2022-11-24T02:07:40Z,2,15:38,04:22,1,2,,,
+214,15,4,Washington Capitals,Philadelphia Flyers,2022020312422,2022020312,Faceoff,422,FACEOFF,Lars Eller faceoff won against Patrick Brown,2022-11-24T02:08:12Z,2,15:38,04:22,1,2,15.0,Washington Capitals,WSH
+215,15,4,Washington Capitals,Philadelphia Flyers,2022020312377,2022020312,Hit,377,HIT,Jackson Cates hit Nick Jensen,2022-11-24T02:08:54Z,2,16:20,03:40,1,2,4.0,Philadelphia Flyers,PHI
+216,15,4,Washington Capitals,Philadelphia Flyers,2022020312291,2022020312,Missed Shot,291,MISSED_SHOT,Anthony Mantha Wide of Net Felix Sandstrom,2022-11-24T02:09:16Z,2,16:42,03:18,1,2,15.0,Washington Capitals,WSH
+217,15,4,Washington Capitals,Philadelphia Flyers,2022020312378,2022020312,Hit,378,HIT,Owen Tippett hit Trevor van Riemsdyk,2022-11-24T02:09:25Z,2,16:51,03:09,1,2,4.0,Philadelphia Flyers,PHI
+218,15,4,Washington Capitals,Philadelphia Flyers,2022020312379,2022020312,Hit,379,HIT,T.J. Oshie hit Joel Farabee,2022-11-24T02:10:25Z,2,17:51,02:09,1,2,15.0,Washington Capitals,WSH
+219,15,4,Washington Capitals,Philadelphia Flyers,2022020312649,2022020312,Penalty,649,PENALTY,Lukas Sedlak Interference against Erik Gustafsson,2022-11-24T02:10:34Z,2,18:00,02:00,1,2,4.0,Philadelphia Flyers,PHI
+220,15,4,Washington Capitals,Philadelphia Flyers,2022020312423,2022020312,Faceoff,423,FACEOFF,Noah Cates faceoff won against T.J. Oshie,2022-11-24T02:11:24Z,2,18:00,02:00,1,2,4.0,Philadelphia Flyers,PHI
+221,15,4,Washington Capitals,Philadelphia Flyers,2022020312380,2022020312,Giveaway,380,GIVEAWAY,Giveaway by John Carlson,2022-11-24T02:11:44Z,2,18:20,01:40,1,2,15.0,Washington Capitals,WSH
+222,15,4,Washington Capitals,Philadelphia Flyers,2022020312424,2022020312,Stoppage,424,STOP,Puck in Crowd,2022-11-24T02:12:06Z,2,18:41,01:19,1,2,,,
+223,15,4,Washington Capitals,Philadelphia Flyers,2022020312425,2022020312,Faceoff,425,FACEOFF,Morgan Frost faceoff won against T.J. Oshie,2022-11-24T02:12:31Z,2,18:41,01:19,1,2,4.0,Philadelphia Flyers,PHI
+224,15,4,Washington Capitals,Philadelphia Flyers,2022020312292,2022020312,Missed Shot,292,MISSED_SHOT,Dylan Strome Wide of Net Felix Sandstrom,2022-11-24T02:12:36Z,2,18:46,01:14,1,2,15.0,Washington Capitals,WSH
+225,15,4,Washington Capitals,Philadelphia Flyers,2022020312381,2022020312,Hit,381,HIT,T.J. Oshie hit Patrick Brown,2022-11-24T02:12:38Z,2,18:48,01:12,1,2,15.0,Washington Capitals,WSH
+226,15,4,Washington Capitals,Philadelphia Flyers,2022020312293,2022020312,Shot,293,SHOT,John Carlson Slap Shot saved by Felix Sandstrom,2022-11-24T02:12:50Z,2,19:00,01:00,1,2,15.0,Washington Capitals,WSH
+227,15,4,Washington Capitals,Philadelphia Flyers,2022020312382,2022020312,Giveaway,382,GIVEAWAY,Giveaway by Dylan Strome,2022-11-24T02:13:24Z,2,19:34,00:26,1,2,15.0,Washington Capitals,WSH
+228,15,4,Washington Capitals,Philadelphia Flyers,2022020312294,2022020312,Shot,294,SHOT,Alex Ovechkin Wrist Shot saved by Felix Sandstrom,2022-11-24T02:13:42Z,2,19:52,00:08,1,2,15.0,Washington Capitals,WSH
+229,15,4,Washington Capitals,Philadelphia Flyers,2022020312295,2022020312,Shot,295,SHOT,Nicolas Deslauriers Wrist Shot saved by Darcy Kuemper,2022-11-24T02:13:48Z,2,19:58,00:02,1,2,4.0,Philadelphia Flyers,PHI
+230,15,4,Washington Capitals,Philadelphia Flyers,2022020312296,2022020312,Period End,296,PERIOD_END,End of 2nd Period,2022-11-24T02:13:50Z,2,20:00,00:00,1,2,,,
+231,15,4,Washington Capitals,Philadelphia Flyers,2022020312299,2022020312,Period Official,299,PERIOD_OFFICIAL,Period Official,2022-11-24T02:20:43Z,2,20:00,00:00,1,2,,,
+232,15,4,Washington Capitals,Philadelphia Flyers,2022020312300,2022020312,Period Ready,300,PERIOD_READY,Period Ready,2022-11-24T02:30:23Z,3,00:00,20:00,1,2,,,
+233,15,4,Washington Capitals,Philadelphia Flyers,2022020312426,2022020312,Period Start,426,PERIOD_START,Period Start,2022-11-24T02:32:49Z,3,00:00,20:00,1,2,,,
+234,15,4,Washington Capitals,Philadelphia Flyers,2022020312427,2022020312,Faceoff,427,FACEOFF,Kevin Hayes faceoff won against Dylan Strome,2022-11-24T02:32:49Z,3,00:00,20:00,1,2,4.0,Philadelphia Flyers,PHI
+235,15,4,Washington Capitals,Philadelphia Flyers,2022020312383,2022020312,Hit,383,HIT,Zack MacEwen hit Erik Gustafsson,2022-11-24T02:33:17Z,3,00:28,19:32,1,2,4.0,Philadelphia Flyers,PHI
+236,15,4,Washington Capitals,Philadelphia Flyers,2022020312651,2022020312,Shot,651,SHOT,Justin Braun Wrist Shot saved by Darcy Kuemper,2022-11-24T02:34:21Z,3,01:32,18:28,1,2,4.0,Philadelphia Flyers,PHI
+237,15,4,Washington Capitals,Philadelphia Flyers,2022020312428,2022020312,Stoppage,428,STOP,Goalie Stopped,2022-11-24T02:34:22Z,3,01:33,18:27,1,2,,,
+238,15,4,Washington Capitals,Philadelphia Flyers,2022020312429,2022020312,Faceoff,429,FACEOFF,Lars Eller faceoff won against Kieffer Bellows,2022-11-24T02:34:59Z,3,01:33,18:27,1,2,15.0,Washington Capitals,WSH
+239,15,4,Washington Capitals,Philadelphia Flyers,2022020312652,2022020312,Shot,652,SHOT,Kieffer Bellows Wrist Shot saved by Darcy Kuemper,2022-11-24T02:35:04Z,3,01:38,18:22,1,2,4.0,Philadelphia Flyers,PHI
+240,15,4,Washington Capitals,Philadelphia Flyers,2022020312787,2022020312,Penalty,787,PENALTY,Matt Irwin Hooking against Kieffer Bellows,2022-11-24T02:35:07Z,3,01:40,18:20,1,2,15.0,Washington Capitals,WSH
+241,15,4,Washington Capitals,Philadelphia Flyers,2022020312430,2022020312,Faceoff,430,FACEOFF,Kevin Hayes faceoff won against Nic Dowd,2022-11-24T02:35:40Z,3,01:40,18:20,1,2,4.0,Philadelphia Flyers,PHI
+242,15,4,Washington Capitals,Philadelphia Flyers,2022020312653,2022020312,Missed Shot,653,MISSED_SHOT,Owen Tippett Wide of Net Darcy Kuemper,2022-11-24T02:36:11Z,3,02:11,17:49,1,2,4.0,Philadelphia Flyers,PHI
+243,15,4,Washington Capitals,Philadelphia Flyers,2022020312654,2022020312,Missed Shot,654,MISSED_SHOT,Kevin Hayes Wide of Net Darcy Kuemper,2022-11-24T02:36:27Z,3,02:27,17:33,1,2,4.0,Philadelphia Flyers,PHI
+244,15,4,Washington Capitals,Philadelphia Flyers,2022020312431,2022020312,Stoppage,431,STOP,Puck in Netting,2022-11-24T02:36:28Z,3,02:28,17:32,1,2,,,
+245,15,4,Washington Capitals,Philadelphia Flyers,2022020312432,2022020312,Faceoff,432,FACEOFF,Lars Eller faceoff won against Morgan Frost,2022-11-24T02:37:17Z,3,02:28,17:32,1,2,15.0,Washington Capitals,WSH
+246,15,4,Washington Capitals,Philadelphia Flyers,2022020312655,2022020312,Blocked Shot,655,BLOCKED_SHOT,Kevin Hayes shot blocked shot by Lars Eller,2022-11-24T02:38:18Z,3,03:29,16:31,1,2,15.0,Washington Capitals,WSH
+247,15,4,Washington Capitals,Philadelphia Flyers,2022020312434,2022020312,Stoppage,434,STOP,Visitor Timeout,2022-11-24T02:38:18Z,3,03:30,16:30,1,2,,,
+248,15,4,Washington Capitals,Philadelphia Flyers,2022020312797,2022020312,Penalty,797,PENALTY,Lars Eller Slashing against Zack MacEwen,2022-11-24T02:38:18Z,3,03:30,16:30,1,2,15.0,Washington Capitals,WSH
+249,15,4,Washington Capitals,Philadelphia Flyers,2022020312435,2022020312,Faceoff,435,FACEOFF,Nic Dowd faceoff won against Kevin Hayes,2022-11-24T02:39:48Z,3,03:30,16:30,1,2,15.0,Washington Capitals,WSH
+250,15,4,Washington Capitals,Philadelphia Flyers,2022020312385,2022020312,Hit,385,HIT,Garnet Hathaway hit Owen Tippett,2022-11-24T02:40:21Z,3,04:03,15:57,1,2,15.0,Washington Capitals,WSH
+251,15,4,Washington Capitals,Philadelphia Flyers,2022020312386,2022020312,Hit,386,HIT,Nick Jensen hit Morgan Frost,2022-11-24T02:40:25Z,3,04:07,15:53,1,2,15.0,Washington Capitals,WSH
+252,15,4,Washington Capitals,Philadelphia Flyers,2022020312656,2022020312,Missed Shot,656,MISSED_SHOT,Noah Cates Wide of Net Darcy Kuemper,2022-11-24T02:40:40Z,3,04:22,15:38,1,2,4.0,Philadelphia Flyers,PHI
+253,15,4,Washington Capitals,Philadelphia Flyers,2022020312657,2022020312,Blocked Shot,657,BLOCKED_SHOT,Kevin Hayes shot blocked shot by Trevor van Riemsdyk,2022-11-24T02:40:50Z,3,04:32,15:28,1,2,15.0,Washington Capitals,WSH
+254,15,4,Washington Capitals,Philadelphia Flyers,2022020312387,2022020312,Hit,387,HIT,Tony DeAngelo hit Garnet Hathaway,2022-11-24T02:41:02Z,3,04:44,15:16,1,2,4.0,Philadelphia Flyers,PHI
+255,15,4,Washington Capitals,Philadelphia Flyers,2022020312658,2022020312,Shot,658,SHOT,Evgeny Kuznetsov Wrist Shot saved by Felix Sandstrom,2022-11-24T02:41:05Z,3,04:47,15:13,1,2,15.0,Washington Capitals,WSH
+256,15,4,Washington Capitals,Philadelphia Flyers,2022020312659,2022020312,Shot,659,SHOT,John Carlson Slap Shot saved by Felix Sandstrom,2022-11-24T02:41:08Z,3,04:50,15:10,1,2,15.0,Washington Capitals,WSH
+257,15,4,Washington Capitals,Philadelphia Flyers,2022020312436,2022020312,Stoppage,436,STOP,Goalie Stopped,2022-11-24T02:41:09Z,3,04:51,15:09,1,2,,,
+258,15,4,Washington Capitals,Philadelphia Flyers,2022020312437,2022020312,Faceoff,437,FACEOFF,Kieffer Bellows faceoff won against Evgeny Kuznetsov,2022-11-24T02:41:42Z,3,04:51,15:09,1,2,4.0,Philadelphia Flyers,PHI
+259,15,4,Washington Capitals,Philadelphia Flyers,2022020312388,2022020312,Takeaway,388,TAKEAWAY,Takeaway by Evgeny Kuznetsov,2022-11-24T02:41:59Z,3,05:08,14:52,1,2,15.0,Washington Capitals,WSH
+260,15,4,Washington Capitals,Philadelphia Flyers,2022020312389,2022020312,Giveaway,389,GIVEAWAY,Giveaway by Martin Fehervary,2022-11-24T02:42:32Z,3,05:41,14:19,1,2,15.0,Washington Capitals,WSH
+261,15,4,Washington Capitals,Philadelphia Flyers,2022020312390,2022020312,Giveaway,390,GIVEAWAY,Giveaway by Nick Seeler,2022-11-24T02:42:47Z,3,05:56,14:04,1,2,4.0,Philadelphia Flyers,PHI
+262,15,4,Washington Capitals,Philadelphia Flyers,2022020312391,2022020312,Hit,391,HIT,Anthony Mantha hit Ivan Provorov,2022-11-24T02:43:19Z,3,06:28,13:32,1,2,15.0,Washington Capitals,WSH
+263,15,4,Washington Capitals,Philadelphia Flyers,2022020312392,2022020312,Giveaway,392,GIVEAWAY,Giveaway by Tony DeAngelo,2022-11-24T02:43:29Z,3,06:38,13:22,1,2,4.0,Philadelphia Flyers,PHI
+264,15,4,Washington Capitals,Philadelphia Flyers,2022020312393,2022020312,Hit,393,HIT,Ivan Provorov hit Martin Fehervary,2022-11-24T02:43:37Z,3,06:46,13:14,1,2,4.0,Philadelphia Flyers,PHI
+265,15,4,Washington Capitals,Philadelphia Flyers,2022020312394,2022020312,Hit,394,HIT,Kieffer Bellows hit Nick Jensen,2022-11-24T02:43:49Z,3,06:58,13:02,1,2,4.0,Philadelphia Flyers,PHI
+266,15,4,Washington Capitals,Philadelphia Flyers,2022020312661,2022020312,Shot,661,SHOT,Martin Fehervary Wrist Shot saved by Felix Sandstrom,2022-11-24T02:44:00Z,3,07:09,12:51,1,2,15.0,Washington Capitals,WSH
+267,15,4,Washington Capitals,Philadelphia Flyers,2022020312662,2022020312,Shot,662,SHOT,Zack MacEwen Wrist Shot saved by Darcy Kuemper,2022-11-24T02:44:14Z,3,07:23,12:37,1,2,4.0,Philadelphia Flyers,PHI
+268,15,4,Washington Capitals,Philadelphia Flyers,2022020312663,2022020312,Blocked Shot,663,BLOCKED_SHOT,Noah Cates shot blocked shot by Nick Jensen,2022-11-24T02:44:25Z,3,07:34,12:26,1,2,15.0,Washington Capitals,WSH
+269,15,4,Washington Capitals,Philadelphia Flyers,2022020312664,2022020312,Shot,664,SHOT,Morgan Frost Wrap-around saved by Darcy Kuemper,2022-11-24T02:45:11Z,3,08:20,11:40,1,2,4.0,Philadelphia Flyers,PHI
+270,15,4,Washington Capitals,Philadelphia Flyers,2022020312502,2022020312,Hit,502,HIT,Matt Irwin hit Travis Sanheim,2022-11-24T02:46:04Z,3,09:13,10:47,1,2,15.0,Washington Capitals,WSH
+271,15,4,Washington Capitals,Philadelphia Flyers,2022020312665,2022020312,Missed Shot,665,MISSED_SHOT,Justin Braun Wide of Net Darcy Kuemper,2022-11-24T02:46:39Z,3,09:48,10:12,1,2,4.0,Philadelphia Flyers,PHI
+272,15,4,Washington Capitals,Philadelphia Flyers,2022020312395,2022020312,Hit,395,HIT,Martin Fehervary hit Nicolas Deslauriers,2022-11-24T02:46:46Z,3,09:55,10:05,1,2,15.0,Washington Capitals,WSH
+273,15,4,Washington Capitals,Philadelphia Flyers,2022020312396,2022020312,Hit,396,HIT,Martin Fehervary hit Kieffer Bellows,2022-11-24T02:46:57Z,3,10:06,09:54,1,2,15.0,Washington Capitals,WSH
+274,15,4,Washington Capitals,Philadelphia Flyers,2022020312503,2022020312,Takeaway,503,TAKEAWAY,Takeaway by Nic Dowd,2022-11-24T02:47:08Z,3,10:17,09:43,1,2,15.0,Washington Capitals,WSH
+275,15,4,Washington Capitals,Philadelphia Flyers,2022020312438,2022020312,Stoppage,438,STOP,Icing,2022-11-24T02:47:20Z,3,10:29,09:31,1,2,,,
+276,15,4,Washington Capitals,Philadelphia Flyers,2022020312439,2022020312,Faceoff,439,FACEOFF,Kevin Hayes faceoff won against Lars Eller,2022-11-24T02:47:47Z,3,10:29,09:31,1,2,4.0,Philadelphia Flyers,PHI
+277,15,4,Washington Capitals,Philadelphia Flyers,2022020312504,2022020312,Blocked Shot,504,BLOCKED_SHOT,Erik Gustafsson shot blocked shot by Rasmus Ristolainen,2022-11-24T02:48:33Z,3,11:15,08:45,1,2,4.0,Philadelphia Flyers,PHI
+278,15,4,Washington Capitals,Philadelphia Flyers,2022020312397,2022020312,Hit,397,HIT,Tanner Laczynski hit Nick Jensen,2022-11-24T02:49:06Z,3,11:48,08:12,1,2,4.0,Philadelphia Flyers,PHI
+279,15,4,Washington Capitals,Philadelphia Flyers,2022020312398,2022020312,Hit,398,HIT,Alex Ovechkin hit Justin Braun,2022-11-24T02:49:11Z,3,11:53,08:07,1,2,15.0,Washington Capitals,WSH
+280,15,4,Washington Capitals,Philadelphia Flyers,2022020312440,2022020312,Hit,440,HIT,T.J. Oshie hit Nick Seeler,2022-11-24T02:49:13Z,3,11:55,08:05,1,2,15.0,Washington Capitals,WSH
+281,15,4,Washington Capitals,Philadelphia Flyers,2022020312666,2022020312,Blocked Shot,666,BLOCKED_SHOT,Lukas Sedlak shot blocked shot by T.J. Oshie,2022-11-24T02:49:23Z,3,12:05,07:55,1,2,15.0,Washington Capitals,WSH
+282,15,4,Washington Capitals,Philadelphia Flyers,2022020312400,2022020312,Giveaway,400,GIVEAWAY,Giveaway by Nick Jensen,2022-11-24T02:49:36Z,3,12:18,07:42,1,2,15.0,Washington Capitals,WSH
+283,15,4,Washington Capitals,Philadelphia Flyers,2022020312667,2022020312,Missed Shot,667,MISSED_SHOT,Kieffer Bellows Wide of Net Darcy Kuemper,2022-11-24T02:49:40Z,3,12:22,07:38,1,2,4.0,Philadelphia Flyers,PHI
+284,15,4,Washington Capitals,Philadelphia Flyers,2022020312668,2022020312,Missed Shot,668,MISSED_SHOT,Ivan Provorov Wide of Net Darcy Kuemper,2022-11-24T02:49:46Z,3,12:28,07:32,1,2,4.0,Philadelphia Flyers,PHI
+285,15,4,Washington Capitals,Philadelphia Flyers,2022020312669,2022020312,Missed Shot,669,MISSED_SHOT,Nicolas Deslauriers Wide of Net Darcy Kuemper,2022-11-24T02:49:58Z,3,12:40,07:20,1,2,4.0,Philadelphia Flyers,PHI
+286,15,4,Washington Capitals,Philadelphia Flyers,2022020312702,2022020312,Hit,702,HIT,Nicolas Deslauriers hit Matt Irwin,2022-11-24T02:50:18Z,3,13:00,07:00,1,2,4.0,Philadelphia Flyers,PHI
+287,15,4,Washington Capitals,Philadelphia Flyers,2022020312670,2022020312,Missed Shot,670,MISSED_SHOT,Dylan Strome Goalpost Felix Sandstrom,2022-11-24T02:50:20Z,3,13:02,06:58,1,2,15.0,Washington Capitals,WSH
+288,15,4,Washington Capitals,Philadelphia Flyers,2022020312703,2022020312,Hit,703,HIT,Nicolas Deslauriers hit Sonny Milano,2022-11-24T02:50:26Z,3,13:08,06:52,1,2,4.0,Philadelphia Flyers,PHI
+289,15,4,Washington Capitals,Philadelphia Flyers,2022020312671,2022020312,Shot,671,SHOT,Conor Sheary Wrist Shot saved by Felix Sandstrom,2022-11-24T02:50:43Z,3,13:25,06:35,1,2,15.0,Washington Capitals,WSH
+290,15,4,Washington Capitals,Philadelphia Flyers,2022020312441,2022020312,Stoppage,441,STOP,Goalie Stopped,2022-11-24T02:50:45Z,3,13:27,06:33,1,2,,,
+291,15,4,Washington Capitals,Philadelphia Flyers,2022020312442,2022020312,Faceoff,442,FACEOFF,Patrick Brown faceoff won against Evgeny Kuznetsov,2022-11-24T02:53:17Z,3,13:27,06:33,1,2,4.0,Philadelphia Flyers,PHI
+292,15,4,Washington Capitals,Philadelphia Flyers,2022020312443,2022020312,Stoppage,443,STOP,Icing,2022-11-24T02:53:25Z,3,13:35,06:25,1,2,,,
+293,15,4,Washington Capitals,Philadelphia Flyers,2022020312444,2022020312,Faceoff,444,FACEOFF,Evgeny Kuznetsov faceoff won against Patrick Brown,2022-11-24T02:53:57Z,3,13:35,06:25,1,2,15.0,Washington Capitals,WSH
+294,15,4,Washington Capitals,Philadelphia Flyers,2022020312704,2022020312,Takeaway,704,TAKEAWAY,Takeaway by Owen Tippett,2022-11-24T02:54:51Z,3,14:29,05:31,1,2,4.0,Philadelphia Flyers,PHI
+295,15,4,Washington Capitals,Philadelphia Flyers,2022020312672,2022020312,Shot,672,SHOT,Joel Farabee Wrist Shot saved by Darcy Kuemper,2022-11-24T02:54:58Z,3,14:36,05:24,1,2,4.0,Philadelphia Flyers,PHI
+296,15,4,Washington Capitals,Philadelphia Flyers,2022020312705,2022020312,Hit,705,HIT,Morgan Frost hit Marcus Johansson,2022-11-24T02:55:05Z,3,14:43,05:17,1,2,4.0,Philadelphia Flyers,PHI
+297,15,4,Washington Capitals,Philadelphia Flyers,2022020312673,2022020312,Blocked Shot,673,BLOCKED_SHOT,Morgan Frost shot blocked shot by Erik Gustafsson,2022-11-24T02:55:20Z,3,14:58,05:02,1,2,15.0,Washington Capitals,WSH
+298,15,4,Washington Capitals,Philadelphia Flyers,2022020312445,2022020312,Stoppage,445,STOP,Puck in Crowd,2022-11-24T02:55:21Z,3,14:59,05:01,1,2,,,
+299,15,4,Washington Capitals,Philadelphia Flyers,2022020312446,2022020312,Faceoff,446,FACEOFF,Nic Dowd faceoff won against Kevin Hayes,2022-11-24T02:57:51Z,3,14:59,05:01,1,2,15.0,Washington Capitals,WSH
+300,15,4,Washington Capitals,Philadelphia Flyers,2022020312706,2022020312,Hit,706,HIT,Tony DeAngelo hit Garnet Hathaway,2022-11-24T02:58:02Z,3,15:10,04:50,1,2,4.0,Philadelphia Flyers,PHI
+301,15,4,Washington Capitals,Philadelphia Flyers,2022020312707,2022020312,Takeaway,707,TAKEAWAY,Takeaway by John Carlson,2022-11-24T02:58:59Z,3,16:07,03:53,1,2,15.0,Washington Capitals,WSH
+302,15,4,Washington Capitals,Philadelphia Flyers,2022020312505,2022020312,Giveaway,505,GIVEAWAY,Giveaway by Conor Sheary,2022-11-24T02:59:02Z,3,16:10,03:50,1,2,15.0,Washington Capitals,WSH
+303,15,4,Washington Capitals,Philadelphia Flyers,2022020312674,2022020312,Goal,674,GOAL,"Sonny Milano (3) Tip-In, assists: Evgeny Kuznetsov (13), T.J. Oshie (5)",2022-11-24T02:59:54Z,3,17:02,02:58,2,2,15.0,Washington Capitals,WSH
+304,15,4,Washington Capitals,Philadelphia Flyers,2022020312447,2022020312,Faceoff,447,FACEOFF,Kevin Hayes faceoff won against Lars Eller,2022-11-24T03:01:00Z,3,17:02,02:58,2,2,4.0,Philadelphia Flyers,PHI
+305,15,4,Washington Capitals,Philadelphia Flyers,2022020312709,2022020312,Hit,709,HIT,Lars Eller hit Ivan Provorov,2022-11-24T03:01:29Z,3,17:31,02:29,2,2,15.0,Washington Capitals,WSH
+306,15,4,Washington Capitals,Philadelphia Flyers,2022020312675,2022020312,Shot,675,SHOT,Zack MacEwen Wrist Shot saved by Darcy Kuemper,2022-11-24T03:01:34Z,3,17:36,02:24,2,2,4.0,Philadelphia Flyers,PHI
+307,15,4,Washington Capitals,Philadelphia Flyers,2022020312676,2022020312,Shot,676,SHOT,Joel Farabee Slap Shot saved by Darcy Kuemper,2022-11-24T03:02:13Z,3,18:15,01:45,2,2,4.0,Philadelphia Flyers,PHI
+308,15,4,Washington Capitals,Philadelphia Flyers,2022020312677,2022020312,Blocked Shot,677,BLOCKED_SHOT,Tony DeAngelo shot blocked shot by Erik Gustafsson,2022-11-24T03:02:21Z,3,18:23,01:37,2,2,15.0,Washington Capitals,WSH
+309,15,4,Washington Capitals,Philadelphia Flyers,2022020312678,2022020312,Missed Shot,678,MISSED_SHOT,Jackson  Cates Goalpost Darcy Kuemper,2022-11-24T03:02:32Z,3,18:34,01:26,2,2,4.0,Philadelphia Flyers,PHI
+310,15,4,Washington Capitals,Philadelphia Flyers,2022020312679,2022020312,Shot,679,SHOT,Patrick Brown Snap Shot saved by Darcy Kuemper,2022-11-24T03:02:40Z,3,18:42,01:18,2,2,4.0,Philadelphia Flyers,PHI
+311,15,4,Washington Capitals,Philadelphia Flyers,2022020312710,2022020312,Hit,710,HIT,Patrick Brown hit Nick Jensen,2022-11-24T03:02:48Z,3,18:50,01:10,2,2,4.0,Philadelphia Flyers,PHI
+312,15,4,Washington Capitals,Philadelphia Flyers,2022020312711,2022020312,Takeaway,711,TAKEAWAY,Takeaway by Sonny Milano,2022-11-24T03:02:51Z,3,18:53,01:07,2,2,15.0,Washington Capitals,WSH
+313,15,4,Washington Capitals,Philadelphia Flyers,2022020312680,2022020312,Shot,680,SHOT,Sonny Milano Wrist Shot saved by Felix Sandstrom,2022-11-24T03:02:55Z,3,18:57,01:03,2,2,15.0,Washington Capitals,WSH
+314,15,4,Washington Capitals,Philadelphia Flyers,2022020312448,2022020312,Stoppage,448,STOP,Net Dislodged Defensive Skater,2022-11-24T03:02:57Z,3,18:58,01:02,2,2,,,
+315,15,4,Washington Capitals,Philadelphia Flyers,2022020312449,2022020312,Faceoff,449,FACEOFF,Patrick Brown faceoff won against Evgeny Kuznetsov,2022-11-24T03:04:28Z,3,18:58,01:02,2,2,4.0,Philadelphia Flyers,PHI
+316,15,4,Washington Capitals,Philadelphia Flyers,2022020312450,2022020312,Stoppage,450,STOP,Icing,2022-11-24T03:04:36Z,3,19:06,00:54,2,2,,,
+317,15,4,Washington Capitals,Philadelphia Flyers,2022020312801,2022020312,Faceoff,801,FACEOFF,Evgeny Kuznetsov faceoff won against Patrick Brown,2022-11-24T03:05:16Z,3,19:06,00:54,2,2,15.0,Washington Capitals,WSH
+318,15,4,Washington Capitals,Philadelphia Flyers,2022020312712,2022020312,Giveaway,712,GIVEAWAY,Giveaway by Sonny Milano,2022-11-24T03:05:43Z,3,19:34,00:26,2,2,15.0,Washington Capitals,WSH
+319,15,4,Washington Capitals,Philadelphia Flyers,2022020312802,2022020312,Stoppage,802,STOP,Icing,2022-11-24T03:05:47Z,3,19:37,00:23,2,2,,,
+320,15,4,Washington Capitals,Philadelphia Flyers,2022020312803,2022020312,Faceoff,803,FACEOFF,Lars Eller faceoff won against Kevin Hayes,2022-11-24T03:06:13Z,3,19:37,00:23,2,2,15.0,Washington Capitals,WSH
+321,15,4,Washington Capitals,Philadelphia Flyers,2022020312681,2022020312,Blocked Shot,681,BLOCKED_SHOT,Anthony Mantha shot blocked shot by Travis Sanheim,2022-11-24T03:06:20Z,3,19:44,00:16,2,2,4.0,Philadelphia Flyers,PHI
+322,15,4,Washington Capitals,Philadelphia Flyers,2022020312682,2022020312,Missed Shot,682,MISSED_SHOT,Kevin Hayes Wide of Net Darcy Kuemper,2022-11-24T03:06:35Z,3,19:59,00:01,2,2,4.0,Philadelphia Flyers,PHI
+323,15,4,Washington Capitals,Philadelphia Flyers,2022020312683,2022020312,Period End,683,PERIOD_END,End of 3rd Period,2022-11-24T03:06:36Z,3,20:00,00:00,2,2,,,
+324,15,4,Washington Capitals,Philadelphia Flyers,2022020312686,2022020312,Period Official,686,PERIOD_OFFICIAL,Period Official,2022-11-24T03:07:30Z,3,20:00,00:00,2,2,,,
+325,15,4,Washington Capitals,Philadelphia Flyers,2022020312687,2022020312,Period Ready,687,PERIOD_READY,Period Ready,2022-11-24T03:07:50Z,4,00:00,05:00,2,2,,,
+326,15,4,Washington Capitals,Philadelphia Flyers,2022020312804,2022020312,Period Start,804,PERIOD_START,Period Start,2022-11-24T03:09:05Z,4,00:00,05:00,2,2,,,
+327,15,4,Washington Capitals,Philadelphia Flyers,2022020312805,2022020312,Faceoff,805,FACEOFF,Evgeny Kuznetsov faceoff won against Kevin Hayes,2022-11-24T03:09:05Z,4,00:00,05:00,2,2,15.0,Washington Capitals,WSH
+328,15,4,Washington Capitals,Philadelphia Flyers,2022020312688,2022020312,Shot,688,SHOT,T.J. Oshie Snap Shot saved by Felix Sandstrom,2022-11-24T03:09:30Z,4,00:25,04:35,2,2,15.0,Washington Capitals,WSH
+329,15,4,Washington Capitals,Philadelphia Flyers,2022020312689,2022020312,Missed Shot,689,MISSED_SHOT,Evgeny Kuznetsov Wide of Net Felix Sandstrom,2022-11-24T03:09:36Z,4,00:31,04:29,2,2,15.0,Washington Capitals,WSH
+330,15,4,Washington Capitals,Philadelphia Flyers,2022020312690,2022020312,Missed Shot,690,MISSED_SHOT,Alex Ovechkin Goalpost Felix Sandstrom,2022-11-24T03:09:51Z,4,00:46,04:14,2,2,15.0,Washington Capitals,WSH
+331,15,4,Washington Capitals,Philadelphia Flyers,2022020312691,2022020312,Blocked Shot,691,BLOCKED_SHOT,Evgeny Kuznetsov shot blocked shot by Tony DeAngelo,2022-11-24T03:09:53Z,4,00:48,04:12,2,2,4.0,Philadelphia Flyers,PHI
+332,15,4,Washington Capitals,Philadelphia Flyers,2022020312692,2022020312,Goal,692,GOAL,"Alex Ovechkin (10) Slap Shot, assists: Dylan Strome (11), Erik Gustafsson (8)",2022-11-24T03:10:10Z,4,01:04,03:56,3,2,15.0,Washington Capitals,WSH
+333,15,4,Washington Capitals,Philadelphia Flyers,2022020312693,2022020312,Period End,693,PERIOD_END,End of OT,2022-11-24T03:10:10Z,4,01:04,03:56,3,2,,,
+334,15,4,Washington Capitals,Philadelphia Flyers,2022020312696,2022020312,Period Official,696,PERIOD_OFFICIAL,Period Official,2022-11-24T03:10:26Z,4,01:04,03:56,3,2,,,
+335,15,4,Washington Capitals,Philadelphia Flyers,2022020312697,2022020312,Game End,697,GAME_END,Game End,2022-11-24T03:10:28Z,4,01:04,03:56,3,2,,,
+336,15,4,Washington Capitals,Philadelphia Flyers,2022020312698,2022020312,Game Official,698,GAME_OFFICIAL,Game Official,2022-11-24T03:19:36Z,4,01:04,03:56,3,2,,,

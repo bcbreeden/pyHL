@@ -1,0 +1,345 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,5,4,Pittsburgh Penguins,Philadelphia Flyers,20220212211,2022021221,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-04-02T21:15:52Z,1,00:00,20:00,0,0,,,
+1,5,4,Pittsburgh Penguins,Philadelphia Flyers,20220212215,2022021221,Period Ready,5,PERIOD_READY,Period Ready,2023-04-02T22:12:36Z,1,00:00,20:00,0,0,,,
+2,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122151,2022021221,Period Start,51,PERIOD_START,Period Start,2023-04-02T22:14:54Z,1,00:00,20:00,0,0,,,
+3,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122152,2022021221,Faceoff,52,FACEOFF,Sidney Crosby faceoff won against Noah Cates,2023-04-02T22:14:54Z,1,00:00,20:00,0,0,5.0,Pittsburgh Penguins,PIT
+4,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122153,2022021221,Giveaway,53,GIVEAWAY,Giveaway by Jake Guentzel,2023-04-02T22:15:04Z,1,00:10,19:50,0,0,5.0,Pittsburgh Penguins,PIT
+5,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221151,2022021221,Blocked Shot,151,BLOCKED_SHOT,Noah Cates shot blocked shot by Kris Letang,2023-04-02T22:15:18Z,1,00:24,19:36,0,0,5.0,Pittsburgh Penguins,PIT
+6,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122154,2022021221,Hit,54,HIT,Sidney Crosby hit Noah Cates,2023-04-02T22:15:44Z,1,00:50,19:10,0,0,5.0,Pittsburgh Penguins,PIT
+7,5,4,Pittsburgh Penguins,Philadelphia Flyers,20220212218,2022021221,Hit,8,HIT,Kris Letang hit Wade Allison,2023-04-02T22:15:45Z,1,00:51,19:09,0,0,5.0,Pittsburgh Penguins,PIT
+8,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221152,2022021221,Missed Shot,152,MISSED_SHOT,Rickard Rakell Wide of Net Samuel Ersson,2023-04-02T22:16:27Z,1,01:33,18:27,0,0,5.0,Pittsburgh Penguins,PIT
+9,5,4,Pittsburgh Penguins,Philadelphia Flyers,20220212219,2022021221,Blocked Shot,9,BLOCKED_SHOT,Mark Friedman shot blocked shot by Travis Sanheim,2023-04-02T22:16:30Z,1,01:36,18:24,0,0,4.0,Philadelphia Flyers,PHI
+10,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122110,2022021221,Stoppage,10,STOP,Offside,2023-04-02T22:16:54Z,1,02:00,18:00,0,0,,,
+11,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122155,2022021221,Faceoff,55,FACEOFF,Scott Laughton faceoff won against Ryan Poehling,2023-04-02T22:17:26Z,1,02:00,18:00,0,0,4.0,Philadelphia Flyers,PHI
+12,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122156,2022021221,Giveaway,56,GIVEAWAY,Giveaway by Pierre-Olivier Joseph,2023-04-02T22:17:41Z,1,02:15,17:45,0,0,5.0,Pittsburgh Penguins,PIT
+13,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221153,2022021221,Shot,153,SHOT,Tony DeAngelo Snap Shot saved by Casey DeSmith,2023-04-02T22:17:43Z,1,02:17,17:43,0,0,4.0,Philadelphia Flyers,PHI
+14,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122157,2022021221,Hit,57,HIT,Nick Seeler hit Mikael Granlund,2023-04-02T22:17:51Z,1,02:25,17:35,0,0,4.0,Philadelphia Flyers,PHI
+15,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221154,2022021221,Shot,154,SHOT,Nicolas Deslauriers Backhand saved by Casey DeSmith,2023-04-02T22:18:03Z,1,02:37,17:23,0,0,4.0,Philadelphia Flyers,PHI
+16,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122111,2022021221,Stoppage,11,STOP,Goalie Stopped,2023-04-02T22:18:03Z,1,02:38,17:22,0,0,,,
+17,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122158,2022021221,Faceoff,58,FACEOFF,Jeff Carter faceoff won against Kevin Hayes,2023-04-02T22:18:44Z,1,02:38,17:22,0,0,5.0,Pittsburgh Penguins,PIT
+18,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122159,2022021221,Hit,59,HIT,Josh Archibald hit Ivan Provorov,2023-04-02T22:18:53Z,1,02:47,17:13,0,0,5.0,Pittsburgh Penguins,PIT
+19,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122112,2022021221,Takeaway,12,TAKEAWAY,Takeaway by Josh Archibald,2023-04-02T22:18:56Z,1,02:50,17:10,0,0,5.0,Pittsburgh Penguins,PIT
+20,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122160,2022021221,Hit,60,HIT,Josh Archibald hit Ivan Provorov,2023-04-02T22:19:04Z,1,02:58,17:02,0,0,5.0,Pittsburgh Penguins,PIT
+21,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122161,2022021221,Hit,61,HIT,Ivan Provorov hit Josh Archibald,2023-04-02T22:19:16Z,1,03:10,16:50,0,0,4.0,Philadelphia Flyers,PHI
+22,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122162,2022021221,Hit,62,HIT,Wade Allison hit Jeff Petry,2023-04-02T22:19:31Z,1,03:25,16:35,0,0,4.0,Philadelphia Flyers,PHI
+23,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122113,2022021221,Stoppage,13,STOP,Hand Pass,2023-04-02T22:19:48Z,1,03:43,16:17,0,0,,,
+24,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122163,2022021221,Faceoff,63,FACEOFF,Noah Cates faceoff won against Sidney Crosby,2023-04-02T22:20:15Z,1,03:43,16:17,0,0,4.0,Philadelphia Flyers,PHI
+25,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122114,2022021221,Stoppage,14,STOP,Puck in Crowd,2023-04-02T22:20:25Z,1,03:53,16:07,0,0,,,
+26,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122164,2022021221,Faceoff,64,FACEOFF,Sidney Crosby faceoff won against Noah Cates,2023-04-02T22:20:44Z,1,03:53,16:07,0,0,5.0,Pittsburgh Penguins,PIT
+27,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122165,2022021221,Giveaway,65,GIVEAWAY,Giveaway by Sidney Crosby,2023-04-02T22:20:53Z,1,04:02,15:58,0,0,5.0,Pittsburgh Penguins,PIT
+28,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221155,2022021221,Shot,155,SHOT,Wade Allison Snap Shot saved by Casey DeSmith,2023-04-02T22:20:54Z,1,04:03,15:57,0,0,4.0,Philadelphia Flyers,PHI
+29,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221156,2022021221,Blocked Shot,156,BLOCKED_SHOT,Travis Sanheim shot blocked shot by Jake Guentzel,2023-04-02T22:20:57Z,1,04:06,15:54,0,0,5.0,Pittsburgh Penguins,PIT
+30,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221157,2022021221,Missed Shot,157,MISSED_SHOT,Travis Sanheim Wide of Net Casey DeSmith,2023-04-02T22:21:05Z,1,04:14,15:46,0,0,4.0,Philadelphia Flyers,PHI
+31,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122115,2022021221,Stoppage,15,STOP,Icing,2023-04-02T22:21:11Z,1,04:20,15:40,0,0,,,
+32,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122166,2022021221,Faceoff,66,FACEOFF,Morgan Frost faceoff won against Sidney Crosby,2023-04-02T22:21:33Z,1,04:20,15:40,0,0,4.0,Philadelphia Flyers,PHI
+33,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221158,2022021221,Missed Shot,158,MISSED_SHOT,Joel Farabee Wide of Net Casey DeSmith,2023-04-02T22:21:46Z,1,04:33,15:27,0,0,4.0,Philadelphia Flyers,PHI
+34,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221159,2022021221,Shot,159,SHOT,Rickard Rakell Wrist Shot saved by Samuel Ersson,2023-04-02T22:22:23Z,1,05:10,14:50,0,0,5.0,Pittsburgh Penguins,PIT
+35,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221160,2022021221,Shot,160,SHOT,Chad Ruhwedel Snap Shot saved by Samuel Ersson,2023-04-02T22:22:30Z,1,05:17,14:43,0,0,5.0,Pittsburgh Penguins,PIT
+36,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122167,2022021221,Hit,67,HIT,Brendan Lemieux hit Mark Friedman,2023-04-02T22:23:02Z,1,05:49,14:11,0,0,4.0,Philadelphia Flyers,PHI
+37,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122126,2022021221,Stoppage,26,STOP,TV timeout,2023-04-02T22:23:13Z,1,06:00,14:00,0,0,,,
+38,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221206,2022021221,Penalty,206,PENALTY,Mikael Granlund Hooking against Cam York,2023-04-02T22:23:13Z,1,06:00,14:00,0,0,5.0,Pittsburgh Penguins,PIT
+39,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221209,2022021221,Penalty,209,PENALTY,Cam York Embellishment,2023-04-02T22:23:13Z,1,06:00,14:00,0,0,4.0,Philadelphia Flyers,PHI
+40,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122168,2022021221,Faceoff,68,FACEOFF,Sidney Crosby faceoff won against Noah Cates,2023-04-02T22:25:53Z,1,06:00,14:00,0,0,5.0,Pittsburgh Penguins,PIT
+41,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122118,2022021221,Giveaway,18,GIVEAWAY,Giveaway by Ivan Provorov,2023-04-02T22:26:24Z,1,06:31,13:29,0,0,4.0,Philadelphia Flyers,PHI
+42,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122169,2022021221,Hit,69,HIT,Brian Dumoulin hit Ivan Provorov,2023-04-02T22:26:27Z,1,06:34,13:26,0,0,5.0,Pittsburgh Penguins,PIT
+43,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221161,2022021221,Blocked Shot,161,BLOCKED_SHOT,Evgeni Malkin shot blocked shot by Justin Braun,2023-04-02T22:27:02Z,1,07:09,12:51,0,0,4.0,Philadelphia Flyers,PHI
+44,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221162,2022021221,Shot,162,SHOT,Morgan Frost Wrist Shot saved by Casey DeSmith,2023-04-02T22:27:22Z,1,07:29,12:31,0,0,4.0,Philadelphia Flyers,PHI
+45,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122119,2022021221,Stoppage,19,STOP,Goalie Stopped,2023-04-02T22:27:32Z,1,07:39,12:21,0,0,,,
+46,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221163,2022021221,Shot,163,SHOT,Jason Zucker Deflected saved by Samuel Ersson,2023-04-02T22:27:32Z,1,07:39,12:21,0,0,5.0,Pittsburgh Penguins,PIT
+47,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122171,2022021221,Faceoff,71,FACEOFF,Noah Cates faceoff won against Sidney Crosby,2023-04-02T22:28:01Z,1,07:39,12:21,0,0,4.0,Philadelphia Flyers,PHI
+48,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122172,2022021221,Hit,72,HIT,Ivan Provorov hit Bryan Rust,2023-04-02T22:28:12Z,1,07:50,12:10,0,0,4.0,Philadelphia Flyers,PHI
+49,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122173,2022021221,Giveaway,73,GIVEAWAY,Giveaway by Kris Letang,2023-04-02T22:28:27Z,1,08:05,11:55,0,0,5.0,Pittsburgh Penguins,PIT
+50,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122120,2022021221,Takeaway,20,TAKEAWAY,Takeaway by Kris Letang,2023-04-02T22:28:28Z,1,08:06,11:54,0,0,5.0,Pittsburgh Penguins,PIT
+51,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122121,2022021221,Stoppage,21,STOP,Puck in Netting,2023-04-02T22:29:01Z,1,08:39,11:21,0,0,,,
+52,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122174,2022021221,Faceoff,74,FACEOFF,Jeff Carter faceoff won against Kevin Hayes,2023-04-02T22:29:28Z,1,08:39,11:21,0,0,5.0,Pittsburgh Penguins,PIT
+53,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221164,2022021221,Missed Shot,164,MISSED_SHOT,Chad Ruhwedel Wide of Net Samuel Ersson,2023-04-02T22:29:38Z,1,08:49,11:11,0,0,5.0,Pittsburgh Penguins,PIT
+54,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122122,2022021221,Stoppage,22,STOP,Puck Frozen,2023-04-02T22:29:39Z,1,08:50,11:10,0,0,,,
+55,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122175,2022021221,Faceoff,75,FACEOFF,Scott Laughton faceoff won against Drew O'Connor,2023-04-02T22:30:16Z,1,08:50,11:10,0,0,4.0,Philadelphia Flyers,PHI
+56,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122176,2022021221,Hit,76,HIT,Nicolas Deslauriers hit Drew O'Connor,2023-04-02T22:30:24Z,1,08:58,11:02,0,0,4.0,Philadelphia Flyers,PHI
+57,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122177,2022021221,Hit,77,HIT,Wade Allison hit Chad Ruhwedel,2023-04-02T22:30:48Z,1,09:22,10:38,0,0,4.0,Philadelphia Flyers,PHI
+58,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122178,2022021221,Hit,78,HIT,Wade Allison hit Jeff Petry,2023-04-02T22:30:55Z,1,09:29,10:31,0,0,4.0,Philadelphia Flyers,PHI
+59,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122124,2022021221,Hit,24,HIT,Jason Zucker hit Travis Konecny,2023-04-02T22:31:07Z,1,09:41,10:19,0,0,5.0,Pittsburgh Penguins,PIT
+60,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221165,2022021221,Blocked Shot,165,BLOCKED_SHOT,Danton Heinen shot blocked shot by Travis Sanheim,2023-04-02T22:31:53Z,1,10:27,09:33,0,0,4.0,Philadelphia Flyers,PHI
+61,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122125,2022021221,Stoppage,25,STOP,Icing,2023-04-02T22:32:02Z,1,10:36,09:24,0,0,,,
+62,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122179,2022021221,Faceoff,79,FACEOFF,Sidney Crosby faceoff won against Morgan Frost,2023-04-02T22:32:42Z,1,10:36,09:24,0,0,5.0,Pittsburgh Penguins,PIT
+63,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221166,2022021221,Shot,166,SHOT,Bryan Rust Wrist Shot saved by Samuel Ersson,2023-04-02T22:32:50Z,1,10:44,09:16,0,0,5.0,Pittsburgh Penguins,PIT
+64,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122180,2022021221,Takeaway,80,TAKEAWAY,Takeaway by Morgan Frost,2023-04-02T22:33:12Z,1,11:06,08:54,0,0,4.0,Philadelphia Flyers,PHI
+65,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221167,2022021221,Blocked Shot,167,BLOCKED_SHOT,Joel Farabee shot blocked shot by Chad Ruhwedel,2023-04-02T22:33:20Z,1,11:14,08:46,0,0,5.0,Pittsburgh Penguins,PIT
+66,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122127,2022021221,Stoppage,27,STOP,Puck Frozen,2023-04-02T22:33:22Z,1,11:15,08:45,0,0,,,
+67,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122181,2022021221,Faceoff,81,FACEOFF,Mikael Granlund faceoff won against Kevin Hayes,2023-04-02T22:35:59Z,1,11:15,08:45,0,0,5.0,Pittsburgh Penguins,PIT
+68,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122182,2022021221,Hit,82,HIT,Danton Heinen hit Cam York,2023-04-02T22:36:14Z,1,11:30,08:30,0,0,5.0,Pittsburgh Penguins,PIT
+69,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221168,2022021221,Shot,168,SHOT,Danton Heinen Deflected saved by Samuel Ersson,2023-04-02T22:36:18Z,1,11:34,08:26,0,0,5.0,Pittsburgh Penguins,PIT
+70,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122128,2022021221,Stoppage,28,STOP,Goalie Stopped,2023-04-02T22:36:19Z,1,11:35,08:25,0,0,,,
+71,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122183,2022021221,Faceoff,83,FACEOFF,Evgeni Malkin faceoff won against Noah Cates,2023-04-02T22:37:00Z,1,11:35,08:25,0,0,5.0,Pittsburgh Penguins,PIT
+72,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221169,2022021221,Goal,169,GOAL,"Rickard Rakell (26) Slap Shot, assists: Brian Dumoulin (21), Evgeni Malkin (54)",2023-04-02T22:37:06Z,1,11:40,08:20,1,0,5.0,Pittsburgh Penguins,PIT
+73,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122184,2022021221,Faceoff,84,FACEOFF,Morgan Frost faceoff won against Evgeni Malkin,2023-04-02T22:37:48Z,1,11:40,08:20,1,0,4.0,Philadelphia Flyers,PHI
+74,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122185,2022021221,Hit,85,HIT,Jason Zucker hit Travis Sanheim,2023-04-02T22:38:20Z,1,12:12,07:48,1,0,5.0,Pittsburgh Penguins,PIT
+75,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122186,2022021221,Hit,86,HIT,Owen Tippett hit Mark Friedman,2023-04-02T22:39:05Z,1,12:57,07:03,1,0,4.0,Philadelphia Flyers,PHI
+76,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221171,2022021221,Shot,171,SHOT,Jake Guentzel Wrist Shot saved by Samuel Ersson,2023-04-02T22:39:16Z,1,13:08,06:52,1,0,5.0,Pittsburgh Penguins,PIT
+77,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221501,2022021221,Shot,501,SHOT,Bryan Rust Wrist Shot saved by Samuel Ersson,2023-04-02T22:39:18Z,1,13:10,06:50,1,0,5.0,Pittsburgh Penguins,PIT
+78,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122187,2022021221,Takeaway,87,TAKEAWAY,Takeaway by Wade Allison,2023-04-02T22:39:32Z,1,13:24,06:36,1,0,4.0,Philadelphia Flyers,PHI
+79,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221274,2022021221,Penalty,274,PENALTY,Travis Sanheim Slashing against Jake Guentzel,2023-04-02T22:39:32Z,1,13:25,06:35,1,0,4.0,Philadelphia Flyers,PHI
+80,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122188,2022021221,Faceoff,88,FACEOFF,Scott Laughton faceoff won against Sidney Crosby,2023-04-02T22:40:14Z,1,13:25,06:35,1,0,4.0,Philadelphia Flyers,PHI
+81,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221172,2022021221,Shot,172,SHOT,Rickard Rakell Wrist Shot saved by Samuel Ersson,2023-04-02T22:40:28Z,1,13:39,06:21,1,0,5.0,Pittsburgh Penguins,PIT
+82,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122189,2022021221,Stoppage,89,STOP,Goalie Stopped,2023-04-02T22:40:29Z,1,13:40,06:20,1,0,,,
+83,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122190,2022021221,Faceoff,90,FACEOFF,Sidney Crosby faceoff won against Scott Laughton,2023-04-02T22:40:56Z,1,13:40,06:20,1,0,5.0,Pittsburgh Penguins,PIT
+84,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221173,2022021221,Shot,173,SHOT,Rickard Rakell Wrist Shot saved by Samuel Ersson,2023-04-02T22:41:16Z,1,14:00,06:00,1,0,5.0,Pittsburgh Penguins,PIT
+85,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122191,2022021221,Takeaway,91,TAKEAWAY,Takeaway by Jake Guentzel,2023-04-02T22:41:47Z,1,14:31,05:29,1,0,5.0,Pittsburgh Penguins,PIT
+86,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221174,2022021221,Missed Shot,174,MISSED_SHOT,Sidney Crosby Wide of Net Samuel Ersson,2023-04-02T22:41:57Z,1,14:41,05:19,1,0,5.0,Pittsburgh Penguins,PIT
+87,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221175,2022021221,Goal,175,GOAL,"Rickard Rakell (27) Wrist Shot, assists: Evgeni Malkin (55), Sidney Crosby (56)",2023-04-02T22:42:09Z,1,14:53,05:07,2,0,5.0,Pittsburgh Penguins,PIT
+88,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122192,2022021221,Faceoff,92,FACEOFF,Jeff Carter faceoff won against Kevin Hayes,2023-04-02T22:42:51Z,1,14:53,05:07,2,0,5.0,Pittsburgh Penguins,PIT
+89,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122193,2022021221,Hit,93,HIT,Kevin Hayes hit Jeff Petry,2023-04-02T22:43:10Z,1,15:12,04:48,2,0,4.0,Philadelphia Flyers,PHI
+90,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221176,2022021221,Shot,176,SHOT,Jeff Carter Wrist Shot saved by Samuel Ersson,2023-04-02T22:43:15Z,1,15:17,04:43,2,0,5.0,Pittsburgh Penguins,PIT
+91,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221551,2022021221,Missed Shot,551,MISSED_SHOT,Josh Archibald Wide of Net Samuel Ersson,2023-04-02T22:43:16Z,1,15:19,04:41,2,0,5.0,Pittsburgh Penguins,PIT
+92,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122194,2022021221,Hit,94,HIT,Nicolas Deslauriers hit Jeff Carter,2023-04-02T22:43:28Z,1,15:30,04:30,2,0,4.0,Philadelphia Flyers,PHI
+93,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122195,2022021221,Hit,95,HIT,Brendan Lemieux hit Brian Dumoulin,2023-04-02T22:43:33Z,1,15:35,04:25,2,0,4.0,Philadelphia Flyers,PHI
+94,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221177,2022021221,Shot,177,SHOT,Ryan Poehling Wrist Shot saved by Samuel Ersson,2023-04-02T22:43:45Z,1,15:47,04:13,2,0,5.0,Pittsburgh Penguins,PIT
+95,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122196,2022021221,Stoppage,96,STOP,Goalie Stopped,2023-04-02T22:43:47Z,1,15:48,04:12,2,0,,,
+96,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122197,2022021221,Faceoff,97,FACEOFF,Ryan Poehling faceoff won against Morgan Frost,2023-04-02T22:46:12Z,1,15:48,04:12,2,0,5.0,Pittsburgh Penguins,PIT
+97,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221314,2022021221,Hit,314,HIT,Owen Tippett hit Kris Letang,2023-04-02T22:46:15Z,1,15:51,04:09,2,0,4.0,Philadelphia Flyers,PHI
+98,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221178,2022021221,Missed Shot,178,MISSED_SHOT,Kris Letang Wide of Net Samuel Ersson,2023-04-02T22:46:28Z,1,16:04,03:56,2,0,5.0,Pittsburgh Penguins,PIT
+99,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221179,2022021221,Shot,179,SHOT,Owen Tippett Wrist Shot saved by Casey DeSmith,2023-04-02T22:46:38Z,1,16:14,03:46,2,0,4.0,Philadelphia Flyers,PHI
+100,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122130,2022021221,Stoppage,30,STOP,Goalie Stopped,2023-04-02T22:47:19Z,1,16:55,03:05,2,0,,,
+101,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122131,2022021221,Stoppage,31,STOP,Icing,2023-04-02T22:47:19Z,1,16:55,03:05,2,0,,,
+102,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221180,2022021221,Shot,180,SHOT,Travis Konecny Wrist Shot saved by Casey DeSmith,2023-04-02T22:47:19Z,1,16:55,03:05,2,0,4.0,Philadelphia Flyers,PHI
+103,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122198,2022021221,Faceoff,98,FACEOFF,Jeff Carter faceoff won against Scott Laughton,2023-04-02T22:49:21Z,1,16:55,03:05,2,0,5.0,Pittsburgh Penguins,PIT
+104,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122199,2022021221,Hit,99,HIT,Brendan Lemieux hit Chad Ruhwedel,2023-04-02T22:49:25Z,1,16:59,03:01,2,0,4.0,Philadelphia Flyers,PHI
+105,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221552,2022021221,Stoppage,552,STOP,Icing,2023-04-02T22:49:27Z,1,17:01,02:59,2,0,,,
+106,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221100,2022021221,Faceoff,100,FACEOFF,Kevin Hayes faceoff won against Jeff Carter,2023-04-02T22:49:57Z,1,17:01,02:59,2,0,4.0,Philadelphia Flyers,PHI
+107,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221181,2022021221,Shot,181,SHOT,Tony DeAngelo Snap Shot saved by Casey DeSmith,2023-04-02T22:50:01Z,1,17:05,02:55,2,0,4.0,Philadelphia Flyers,PHI
+108,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221182,2022021221,Blocked Shot,182,BLOCKED_SHOT,Tony DeAngelo shot blocked shot by Chad Ruhwedel,2023-04-02T22:50:03Z,1,17:07,02:53,2,0,5.0,Pittsburgh Penguins,PIT
+109,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221301,2022021221,Hit,301,HIT,Mark Friedman hit Kieffer Bellows,2023-04-02T22:50:13Z,1,17:17,02:43,2,0,5.0,Pittsburgh Penguins,PIT
+110,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221302,2022021221,Hit,302,HIT,Josh Archibald hit Nick Seeler,2023-04-02T22:50:24Z,1,17:28,02:32,2,0,5.0,Pittsburgh Penguins,PIT
+111,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221303,2022021221,Hit,303,HIT,Chad Ruhwedel hit Nick Seeler,2023-04-02T22:50:34Z,1,17:38,02:22,2,0,5.0,Pittsburgh Penguins,PIT
+112,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122132,2022021221,Stoppage,32,STOP,Icing,2023-04-02T22:50:39Z,1,17:42,02:18,2,0,,,
+113,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221304,2022021221,Faceoff,304,FACEOFF,Morgan Frost faceoff won against Jeff Carter,2023-04-02T22:51:00Z,1,17:42,02:18,2,0,4.0,Philadelphia Flyers,PHI
+114,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221183,2022021221,Shot,183,SHOT,Jeff Carter Wrist Shot saved by Samuel Ersson,2023-04-02T22:51:15Z,1,17:57,02:03,2,0,5.0,Pittsburgh Penguins,PIT
+115,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221306,2022021221,Hit,306,HIT,Mark Friedman hit Morgan Frost,2023-04-02T22:51:15Z,1,17:57,02:03,2,0,5.0,Pittsburgh Penguins,PIT
+116,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221307,2022021221,Takeaway,307,TAKEAWAY,Takeaway by Bryan Rust,2023-04-02T22:51:37Z,1,18:19,01:41,2,0,5.0,Pittsburgh Penguins,PIT
+117,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221184,2022021221,Blocked Shot,184,BLOCKED_SHOT,Brian Dumoulin shot blocked shot by Morgan Frost,2023-04-02T22:51:49Z,1,18:31,01:29,2,0,4.0,Philadelphia Flyers,PHI
+118,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122133,2022021221,Shot,33,SHOT,Kris Letang Slap Shot saved by Samuel Ersson,2023-04-02T22:51:52Z,1,18:34,01:26,2,0,5.0,Pittsburgh Penguins,PIT
+119,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122134,2022021221,Stoppage,34,STOP,Goalie Stopped,2023-04-02T22:51:53Z,1,18:35,01:25,2,0,,,
+120,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221308,2022021221,Faceoff,308,FACEOFF,Sidney Crosby faceoff won against Noah Cates,2023-04-02T22:52:21Z,1,18:35,01:25,2,0,5.0,Pittsburgh Penguins,PIT
+121,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221186,2022021221,Missed Shot,186,MISSED_SHOT,Kris Letang Wide of Net Samuel Ersson,2023-04-02T22:52:26Z,1,18:40,01:20,2,0,5.0,Pittsburgh Penguins,PIT
+122,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122136,2022021221,Missed Shot,36,MISSED_SHOT,Jake Guentzel Over Net Samuel Ersson,2023-04-02T22:52:27Z,1,18:41,01:19,2,0,5.0,Pittsburgh Penguins,PIT
+123,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122135,2022021221,Stoppage,35,STOP,Puck in Netting,2023-04-02T22:52:28Z,1,18:42,01:18,2,0,,,
+124,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221309,2022021221,Faceoff,309,FACEOFF,Sidney Crosby faceoff won against Noah Cates,2023-04-02T22:53:01Z,1,18:42,01:18,2,0,5.0,Pittsburgh Penguins,PIT
+125,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221310,2022021221,Hit,310,HIT,Kris Letang hit Travis Sanheim,2023-04-02T22:53:40Z,1,19:21,00:39,2,0,5.0,Pittsburgh Penguins,PIT
+126,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221313,2022021221,Takeaway,313,TAKEAWAY,Takeaway by Mikael Granlund,2023-04-02T22:54:12Z,1,19:53,00:07,2,0,5.0,Pittsburgh Penguins,PIT
+127,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122137,2022021221,Period End,37,PERIOD_END,End of 1st Period,2023-04-02T22:54:19Z,1,20:00,00:00,2,0,,,
+128,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122140,2022021221,Period Official,40,PERIOD_OFFICIAL,Period Official,2023-04-02T22:54:26Z,1,20:00,00:00,2,0,,,
+129,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122141,2022021221,Period Ready,41,PERIOD_READY,Period Ready,2023-04-02T23:12:10Z,2,00:00,20:00,2,0,,,
+130,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221315,2022021221,Period Start,315,PERIOD_START,Period Start,2023-04-02T23:13:02Z,2,00:00,20:00,2,0,,,
+131,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221316,2022021221,Faceoff,316,FACEOFF,Noah Cates faceoff won against Sidney Crosby,2023-04-02T23:13:02Z,2,00:00,20:00,2,0,4.0,Philadelphia Flyers,PHI
+132,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221317,2022021221,Stoppage,317,STOP,Icing,2023-04-02T23:13:14Z,2,00:12,19:48,2,0,,,
+133,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221318,2022021221,Faceoff,318,FACEOFF,Noah Cates faceoff won against Sidney Crosby,2023-04-02T23:13:36Z,2,00:12,19:48,2,0,4.0,Philadelphia Flyers,PHI
+134,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221187,2022021221,Shot,187,SHOT,Ivan Provorov Wrist Shot saved by Casey DeSmith,2023-04-02T23:14:02Z,2,00:38,19:22,2,0,4.0,Philadelphia Flyers,PHI
+135,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221188,2022021221,Missed Shot,188,MISSED_SHOT,Morgan Frost Wide of Net Casey DeSmith,2023-04-02T23:14:18Z,2,00:54,19:06,2,0,4.0,Philadelphia Flyers,PHI
+136,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221319,2022021221,Hit,319,HIT,Ivan Provorov hit Evgeni Malkin,2023-04-02T23:14:32Z,2,01:08,18:52,2,0,4.0,Philadelphia Flyers,PHI
+137,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221189,2022021221,Missed Shot,189,MISSED_SHOT,Jason Zucker Wide of Net Samuel Ersson,2023-04-02T23:14:47Z,2,01:23,18:37,2,0,5.0,Pittsburgh Penguins,PIT
+138,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221320,2022021221,Takeaway,320,TAKEAWAY,Takeaway by Morgan Frost,2023-04-02T23:14:57Z,2,01:33,18:27,2,0,4.0,Philadelphia Flyers,PHI
+139,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221190,2022021221,Missed Shot,190,MISSED_SHOT,Joel Farabee Wide of Net Casey DeSmith,2023-04-02T23:15:04Z,2,01:40,18:20,2,0,4.0,Philadelphia Flyers,PHI
+140,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221191,2022021221,Shot,191,SHOT,Evgeni Malkin Deflected saved by Samuel Ersson,2023-04-02T23:15:09Z,2,01:45,18:15,2,0,5.0,Pittsburgh Penguins,PIT
+141,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221192,2022021221,Blocked Shot,192,BLOCKED_SHOT,Nicolas Deslauriers shot blocked shot by Ryan Poehling,2023-04-02T23:15:26Z,2,02:02,17:58,2,0,5.0,Pittsburgh Penguins,PIT
+142,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122142,2022021221,Shot,42,SHOT,Nick Seeler Wrist Shot saved by Casey DeSmith,2023-04-02T23:15:27Z,2,02:03,17:57,2,0,4.0,Philadelphia Flyers,PHI
+143,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221321,2022021221,Stoppage,321,STOP,Goalie Stopped,2023-04-02T23:15:28Z,2,02:04,17:56,2,0,,,
+144,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221322,2022021221,Faceoff,322,FACEOFF,Ryan Poehling faceoff won against Kevin Hayes,2023-04-02T23:15:52Z,2,02:04,17:56,2,0,5.0,Pittsburgh Penguins,PIT
+145,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122143,2022021221,Stoppage,43,STOP,Puck in Benches,2023-04-02T23:16:09Z,2,02:21,17:39,2,0,,,
+146,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221323,2022021221,Faceoff,323,FACEOFF,Kevin Hayes faceoff won against Ryan Poehling,2023-04-02T23:16:38Z,2,02:21,17:39,2,0,4.0,Philadelphia Flyers,PHI
+147,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122144,2022021221,Giveaway,44,GIVEAWAY,Giveaway by Casey DeSmith,2023-04-02T23:17:23Z,2,03:06,16:54,2,0,5.0,Pittsburgh Penguins,PIT
+148,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221324,2022021221,Takeaway,324,TAKEAWAY,Takeaway by Cam York,2023-04-02T23:17:30Z,2,03:13,16:47,2,0,4.0,Philadelphia Flyers,PHI
+149,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221325,2022021221,Hit,325,HIT,Scott Laughton hit Kris Letang,2023-04-02T23:17:45Z,2,03:28,16:32,2,0,4.0,Philadelphia Flyers,PHI
+150,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221326,2022021221,Hit,326,HIT,Josh Archibald hit Cam York,2023-04-02T23:17:54Z,2,03:37,16:23,2,0,5.0,Pittsburgh Penguins,PIT
+151,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122145,2022021221,Hit,45,HIT,Brendan Lemieux hit Pierre-Olivier Joseph,2023-04-02T23:17:56Z,2,03:39,16:21,2,0,4.0,Philadelphia Flyers,PHI
+152,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221193,2022021221,Blocked Shot,193,BLOCKED_SHOT,Ivan Provorov shot blocked shot by Jeff Petry,2023-04-02T23:18:12Z,2,03:55,16:05,2,0,5.0,Pittsburgh Penguins,PIT
+153,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221327,2022021221,Hit,327,HIT,Nicolas Deslauriers hit Pierre-Olivier Joseph,2023-04-02T23:18:39Z,2,04:22,15:38,2,0,4.0,Philadelphia Flyers,PHI
+154,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221328,2022021221,Hit,328,HIT,Wade Allison hit Rickard Rakell,2023-04-02T23:19:10Z,2,04:53,15:07,2,0,4.0,Philadelphia Flyers,PHI
+155,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221329,2022021221,Hit,329,HIT,Travis Konecny hit Rickard Rakell,2023-04-02T23:19:37Z,2,05:20,14:40,2,0,4.0,Philadelphia Flyers,PHI
+156,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221194,2022021221,Shot,194,SHOT,Evgeni Malkin Snap Shot saved by Samuel Ersson,2023-04-02T23:19:42Z,2,05:25,14:35,2,0,5.0,Pittsburgh Penguins,PIT
+157,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221195,2022021221,Shot,195,SHOT,Owen Tippett Wrap-around saved by Casey DeSmith,2023-04-02T23:19:53Z,2,05:36,14:24,2,0,4.0,Philadelphia Flyers,PHI
+158,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122146,2022021221,Shot,46,SHOT,Owen Tippett Wrist Shot saved by Casey DeSmith,2023-04-02T23:19:55Z,2,05:38,14:22,2,0,4.0,Philadelphia Flyers,PHI
+159,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122147,2022021221,Shot,47,SHOT,Tony DeAngelo Wrist Shot saved by Casey DeSmith,2023-04-02T23:20:07Z,2,05:50,14:10,2,0,4.0,Philadelphia Flyers,PHI
+160,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221330,2022021221,Takeaway,330,TAKEAWAY,Takeaway by Ivan Provorov,2023-04-02T23:20:21Z,2,06:04,13:56,2,0,4.0,Philadelphia Flyers,PHI
+161,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221332,2022021221,Hit,332,HIT,Mikael Granlund hit Ivan Provorov,2023-04-02T23:20:46Z,2,06:29,13:31,2,0,5.0,Pittsburgh Penguins,PIT
+162,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122149,2022021221,Shot,49,SHOT,James van Riemsdyk Tip-In saved by Casey DeSmith,2023-04-02T23:21:07Z,2,06:49,13:11,2,0,4.0,Philadelphia Flyers,PHI
+163,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122150,2022021221,Missed Shot,50,MISSED_SHOT,Kevin Hayes Wide of Net Casey DeSmith,2023-04-02T23:21:07Z,2,06:50,13:10,2,0,4.0,Philadelphia Flyers,PHI
+164,5,4,Pittsburgh Penguins,Philadelphia Flyers,202202122148,2022021221,Stoppage,48,STOP,Puck in Netting,2023-04-02T23:21:08Z,2,06:51,13:09,2,0,,,
+165,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221333,2022021221,Faceoff,333,FACEOFF,Sidney Crosby faceoff won against Kevin Hayes,2023-04-02T23:23:21Z,2,06:51,13:09,2,0,5.0,Pittsburgh Penguins,PIT
+166,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221196,2022021221,Shot,196,SHOT,Brian Dumoulin Wrist Shot saved by Samuel Ersson,2023-04-02T23:23:47Z,2,07:17,12:43,2,0,5.0,Pittsburgh Penguins,PIT
+167,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221643,2022021221,Penalty,643,PENALTY,Travis Sanheim Tripping against Sidney Crosby,2023-04-02T23:23:48Z,2,07:18,12:42,2,0,4.0,Philadelphia Flyers,PHI
+168,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221334,2022021221,Faceoff,334,FACEOFF,Sidney Crosby faceoff won against Noah Cates,2023-04-02T23:24:31Z,2,07:18,12:42,2,0,5.0,Pittsburgh Penguins,PIT
+169,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221649,2022021221,Penalty,649,PENALTY,Evgeni Malkin Hooking against Ivan Provorov,2023-04-02T23:24:44Z,2,07:31,12:29,2,0,5.0,Pittsburgh Penguins,PIT
+170,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221335,2022021221,Faceoff,335,FACEOFF,Morgan Frost faceoff won against Sidney Crosby,2023-04-02T23:25:30Z,2,07:31,12:29,2,0,4.0,Philadelphia Flyers,PHI
+171,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221336,2022021221,Hit,336,HIT,Owen Tippett hit Kris Letang,2023-04-02T23:25:37Z,2,07:38,12:22,2,0,4.0,Philadelphia Flyers,PHI
+172,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221197,2022021221,Shot,197,SHOT,Brian Dumoulin Wrist Shot saved by Samuel Ersson,2023-04-02T23:25:45Z,2,07:46,12:14,2,0,5.0,Pittsburgh Penguins,PIT
+173,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221198,2022021221,Shot,198,SHOT,Mikael Granlund Wrist Shot saved by Samuel Ersson,2023-04-02T23:26:32Z,2,08:33,11:27,2,0,5.0,Pittsburgh Penguins,PIT
+174,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221337,2022021221,Hit,337,HIT,Mikael Granlund hit Travis Konecny,2023-04-02T23:26:37Z,2,08:38,11:22,2,0,5.0,Pittsburgh Penguins,PIT
+175,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221338,2022021221,Takeaway,338,TAKEAWAY,Takeaway by Pierre-Olivier Joseph,2023-04-02T23:26:59Z,2,09:00,11:00,2,0,5.0,Pittsburgh Penguins,PIT
+176,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221339,2022021221,Takeaway,339,TAKEAWAY,Takeaway by Justin Braun,2023-04-02T23:27:06Z,2,09:07,10:53,2,0,4.0,Philadelphia Flyers,PHI
+177,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221200,2022021221,Shot,200,SHOT,Owen Tippett Wrist Shot saved by Casey DeSmith,2023-04-02T23:27:45Z,2,09:46,10:14,2,0,4.0,Philadelphia Flyers,PHI
+178,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221451,2022021221,Shot,451,SHOT,Owen Tippett Wrist Shot saved by Casey DeSmith,2023-04-02T23:27:56Z,2,09:57,10:03,2,0,4.0,Philadelphia Flyers,PHI
+179,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221340,2022021221,Hit,340,HIT,Wade Allison hit Mark Friedman,2023-04-02T23:27:59Z,2,10:00,10:00,2,0,4.0,Philadelphia Flyers,PHI
+180,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221452,2022021221,Shot,452,SHOT,Jeff Carter Wrist Shot saved by Samuel Ersson,2023-04-02T23:28:10Z,2,10:11,09:49,2,0,5.0,Pittsburgh Penguins,PIT
+181,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221453,2022021221,Shot,453,SHOT,Evgeni Malkin Deflected saved by Samuel Ersson,2023-04-02T23:28:12Z,2,10:13,09:47,2,0,5.0,Pittsburgh Penguins,PIT
+182,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221354,2022021221,Stoppage,354,STOP,TV timeout,2023-04-02T23:28:30Z,2,10:31,09:29,2,0,,,
+183,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221681,2022021221,Penalty,681,PENALTY,Evgeni Malkin Hooking against Nick Seeler,2023-04-02T23:28:30Z,2,10:31,09:29,2,0,5.0,Pittsburgh Penguins,PIT
+184,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221341,2022021221,Faceoff,341,FACEOFF,Noah Cates faceoff won against Ryan Poehling,2023-04-02T23:30:56Z,2,10:31,09:29,2,0,4.0,Philadelphia Flyers,PHI
+185,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221454,2022021221,Blocked Shot,454,BLOCKED_SHOT,Owen Tippett shot blocked shot by Jeff Petry,2023-04-02T23:31:10Z,2,10:45,09:15,2,0,5.0,Pittsburgh Penguins,PIT
+186,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221353,2022021221,Stoppage,353,STOP,Puck in Netting,2023-04-02T23:31:11Z,2,10:46,09:14,2,0,,,
+187,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221342,2022021221,Faceoff,342,FACEOFF,Ryan Poehling faceoff won against Noah Cates,2023-04-02T23:31:30Z,2,10:46,09:14,2,0,5.0,Pittsburgh Penguins,PIT
+188,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221343,2022021221,Hit,343,HIT,Jeff Petry hit Travis Konecny,2023-04-02T23:31:52Z,2,11:08,08:52,2,0,5.0,Pittsburgh Penguins,PIT
+189,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221455,2022021221,Shot,455,SHOT,Tony DeAngelo Wrist Shot saved by Casey DeSmith,2023-04-02T23:32:13Z,2,11:29,08:31,2,0,4.0,Philadelphia Flyers,PHI
+190,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221344,2022021221,Hit,344,HIT,Kevin Hayes hit Chad Ruhwedel,2023-04-02T23:32:40Z,2,11:56,08:04,2,0,4.0,Philadelphia Flyers,PHI
+191,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221345,2022021221,Hit,345,HIT,James van Riemsdyk hit Kris Letang,2023-04-02T23:33:29Z,2,12:45,07:15,2,0,4.0,Philadelphia Flyers,PHI
+192,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221456,2022021221,Missed Shot,456,MISSED_SHOT,Scott Laughton Wide of Net Casey DeSmith,2023-04-02T23:33:34Z,2,12:50,07:10,2,0,4.0,Philadelphia Flyers,PHI
+193,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221346,2022021221,Hit,346,HIT,Kris Letang hit Justin Braun,2023-04-02T23:33:38Z,2,12:54,07:06,2,0,5.0,Pittsburgh Penguins,PIT
+194,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221355,2022021221,Takeaway,355,TAKEAWAY,Takeaway by Chad Ruhwedel,2023-04-02T23:33:42Z,2,12:58,07:02,2,0,5.0,Pittsburgh Penguins,PIT
+195,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221457,2022021221,Blocked Shot,457,BLOCKED_SHOT,Scott Laughton shot blocked shot by Jeff Petry,2023-04-02T23:33:55Z,2,13:11,06:49,2,0,5.0,Pittsburgh Penguins,PIT
+196,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221458,2022021221,Goal,458,GOAL,"Bryan Rust (19) Backhand, assists: Sidney Crosby (57), Jeff Petry (23)",2023-04-02T23:34:07Z,2,13:23,06:37,3,0,5.0,Pittsburgh Penguins,PIT
+197,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221347,2022021221,Faceoff,347,FACEOFF,Kevin Hayes faceoff won against Evgeni Malkin,2023-04-02T23:35:10Z,2,13:23,06:37,3,0,4.0,Philadelphia Flyers,PHI
+198,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221348,2022021221,Stoppage,348,STOP,Referee or Linesman,2023-04-02T23:35:22Z,2,13:36,06:24,3,0,,,
+199,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221349,2022021221,Faceoff,349,FACEOFF,Kevin Hayes faceoff won against Evgeni Malkin,2023-04-02T23:35:50Z,2,13:36,06:24,3,0,4.0,Philadelphia Flyers,PHI
+200,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221356,2022021221,Stoppage,356,STOP,Icing,2023-04-02T23:35:58Z,2,13:44,06:16,3,0,,,
+201,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221357,2022021221,Faceoff,357,FACEOFF,Kevin Hayes faceoff won against Evgeni Malkin,2023-04-02T23:36:21Z,2,13:44,06:16,3,0,4.0,Philadelphia Flyers,PHI
+202,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221459,2022021221,Blocked Shot,459,BLOCKED_SHOT,Kevin Hayes shot blocked shot by Mark Friedman,2023-04-02T23:36:30Z,2,13:53,06:07,3,0,5.0,Pittsburgh Penguins,PIT
+203,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221350,2022021221,Hit,350,HIT,Rickard Rakell hit Kevin Hayes,2023-04-02T23:36:43Z,2,14:06,05:54,3,0,5.0,Pittsburgh Penguins,PIT
+204,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221460,2022021221,Shot,460,SHOT,Mikael Granlund Snap Shot saved by Samuel Ersson,2023-04-02T23:36:53Z,2,14:16,05:44,3,0,5.0,Pittsburgh Penguins,PIT
+205,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221702,2022021221,Hit,702,HIT,Brendan Lemieux hit Evgeni Malkin,2023-04-02T23:36:57Z,2,14:20,05:40,3,0,4.0,Philadelphia Flyers,PHI
+206,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221461,2022021221,Blocked Shot,461,BLOCKED_SHOT,Danton Heinen shot blocked shot by Cam York,2023-04-02T23:36:58Z,2,14:21,05:39,3,0,4.0,Philadelphia Flyers,PHI
+207,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221765,2022021221,Penalty,765,PENALTY,Evgeni Malkin High-sticking against Cam York,2023-04-02T23:37:00Z,2,14:23,05:37,3,0,5.0,Pittsburgh Penguins,PIT
+208,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221358,2022021221,Stoppage,358,STOP,TV timeout,2023-04-02T23:37:01Z,2,14:23,05:37,3,0,,,
+209,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221703,2022021221,Faceoff,703,FACEOFF,Ryan Poehling faceoff won against Noah Cates,2023-04-02T23:39:29Z,2,14:23,05:37,3,0,5.0,Pittsburgh Penguins,PIT
+210,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221769,2022021221,Penalty,769,PENALTY,Noah Cates Interference against Ryan Poehling,2023-04-02T23:39:52Z,2,14:45,05:15,3,0,4.0,Philadelphia Flyers,PHI
+211,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221704,2022021221,Faceoff,704,FACEOFF,Sidney Crosby faceoff won against Morgan Frost,2023-04-02T23:40:37Z,2,14:45,05:15,3,0,5.0,Pittsburgh Penguins,PIT
+212,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221462,2022021221,Missed Shot,462,MISSED_SHOT,Sidney Crosby Wide of Net Samuel Ersson,2023-04-02T23:41:23Z,2,15:31,04:29,3,0,5.0,Pittsburgh Penguins,PIT
+213,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221359,2022021221,Shot,359,SHOT,Rickard Rakell Wrist Shot saved by Samuel Ersson,2023-04-02T23:41:30Z,2,15:38,04:22,3,0,5.0,Pittsburgh Penguins,PIT
+214,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221705,2022021221,Giveaway,705,GIVEAWAY,Giveaway by Rickard Rakell,2023-04-02T23:41:33Z,2,15:41,04:19,3,0,5.0,Pittsburgh Penguins,PIT
+215,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221463,2022021221,Shot,463,SHOT,Travis Konecny Wrist Shot saved by Casey DeSmith,2023-04-02T23:41:37Z,2,15:45,04:15,3,0,4.0,Philadelphia Flyers,PHI
+216,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221706,2022021221,Hit,706,HIT,Mark Friedman hit Cam York,2023-04-02T23:42:22Z,2,16:30,03:30,3,0,5.0,Pittsburgh Penguins,PIT
+217,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221707,2022021221,Hit,707,HIT,Mark Friedman hit Kevin Hayes,2023-04-02T23:42:25Z,2,16:33,03:27,3,0,5.0,Pittsburgh Penguins,PIT
+218,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221464,2022021221,Missed Shot,464,MISSED_SHOT,Kevin Hayes Wide of Net Casey DeSmith,2023-04-02T23:42:31Z,2,16:39,03:21,3,0,4.0,Philadelphia Flyers,PHI
+219,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221465,2022021221,Blocked Shot,465,BLOCKED_SHOT,Joel Farabee shot blocked shot by Mark Friedman,2023-04-02T23:42:47Z,2,16:55,03:05,3,0,5.0,Pittsburgh Penguins,PIT
+220,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221360,2022021221,Stoppage,360,STOP,Referee or Linesman,2023-04-02T23:42:51Z,2,16:58,03:02,3,0,,,
+221,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221708,2022021221,Faceoff,708,FACEOFF,Morgan Frost faceoff won against Jeff Carter,2023-04-02T23:43:46Z,2,16:58,03:02,3,0,4.0,Philadelphia Flyers,PHI
+222,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221709,2022021221,Hit,709,HIT,Drew O'Connor hit Ivan Provorov,2023-04-02T23:44:16Z,2,17:28,02:32,3,0,5.0,Pittsburgh Penguins,PIT
+223,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221466,2022021221,Blocked Shot,466,BLOCKED_SHOT,Ivan Provorov shot blocked shot by Drew O'Connor,2023-04-02T23:44:28Z,2,17:40,02:20,3,0,5.0,Pittsburgh Penguins,PIT
+224,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221361,2022021221,Shot,361,SHOT,Tony DeAngelo Wrist Shot saved by Casey DeSmith,2023-04-02T23:44:31Z,2,17:43,02:17,3,0,4.0,Philadelphia Flyers,PHI
+225,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221362,2022021221,Stoppage,362,STOP,Icing,2023-04-02T23:44:36Z,2,17:48,02:12,3,0,,,
+226,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221710,2022021221,Faceoff,710,FACEOFF,Jeff Carter faceoff won against Kevin Hayes,2023-04-02T23:45:02Z,2,17:48,02:12,3,0,5.0,Pittsburgh Penguins,PIT
+227,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221363,2022021221,Stoppage,363,STOP,Icing,2023-04-02T23:45:13Z,2,17:58,02:02,3,0,,,
+228,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221711,2022021221,Faceoff,711,FACEOFF,Kevin Hayes faceoff won against Jeff Carter,2023-04-02T23:45:37Z,2,17:58,02:02,3,0,4.0,Philadelphia Flyers,PHI
+229,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221467,2022021221,Shot,467,SHOT,Kevin Hayes Wrist Shot saved by Casey DeSmith,2023-04-02T23:45:47Z,2,18:08,01:52,3,0,4.0,Philadelphia Flyers,PHI
+230,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221712,2022021221,Takeaway,712,TAKEAWAY,Takeaway by Jeff Petry,2023-04-02T23:46:06Z,2,18:27,01:33,3,0,5.0,Pittsburgh Penguins,PIT
+231,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221713,2022021221,Giveaway,713,GIVEAWAY,Giveaway by Kevin Hayes,2023-04-02T23:46:10Z,2,18:31,01:29,3,0,4.0,Philadelphia Flyers,PHI
+232,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221715,2022021221,Hit,715,HIT,Rickard Rakell hit Nick Seeler,2023-04-02T23:46:35Z,2,18:56,01:04,3,0,5.0,Pittsburgh Penguins,PIT
+233,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221714,2022021221,Takeaway,714,TAKEAWAY,Takeaway by Nick Seeler,2023-04-02T23:46:36Z,2,18:57,01:03,3,0,4.0,Philadelphia Flyers,PHI
+234,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221364,2022021221,Takeaway,364,TAKEAWAY,Takeaway by Sidney Crosby,2023-04-02T23:46:48Z,2,19:09,00:51,3,0,5.0,Pittsburgh Penguins,PIT
+235,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221468,2022021221,Blocked Shot,468,BLOCKED_SHOT,Kris Letang shot blocked shot by Nick Seeler,2023-04-02T23:47:09Z,2,19:30,00:30,3,0,4.0,Philadelphia Flyers,PHI
+236,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221716,2022021221,Hit,716,HIT,Kris Letang hit Owen Tippett,2023-04-02T23:47:17Z,2,19:38,00:22,3,0,5.0,Pittsburgh Penguins,PIT
+237,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221469,2022021221,Shot,469,SHOT,Brendan Lemieux Wrist Shot saved by Casey DeSmith,2023-04-02T23:47:38Z,2,19:59,00:01,3,0,4.0,Philadelphia Flyers,PHI
+238,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221365,2022021221,Period End,365,PERIOD_END,End of 2nd Period,2023-04-02T23:47:40Z,2,20:00,00:00,3,0,,,
+239,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221368,2022021221,Period Official,368,PERIOD_OFFICIAL,Period Official,2023-04-02T23:47:48Z,2,20:00,00:00,3,0,,,
+240,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221369,2022021221,Period Ready,369,PERIOD_READY,Period Ready,2023-04-03T00:05:46Z,3,00:00,20:00,3,0,,,
+241,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221717,2022021221,Period Start,717,PERIOD_START,Period Start,2023-04-03T00:06:26Z,3,00:00,20:00,3,0,,,
+242,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221718,2022021221,Faceoff,718,FACEOFF,Morgan Frost faceoff won against Sidney Crosby,2023-04-03T00:06:26Z,3,00:00,20:00,3,0,4.0,Philadelphia Flyers,PHI
+243,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221719,2022021221,Takeaway,719,TAKEAWAY,Takeaway by Brian Dumoulin,2023-04-03T00:07:03Z,3,00:37,19:23,3,0,5.0,Pittsburgh Penguins,PIT
+244,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221470,2022021221,Shot,470,SHOT,Travis Konecny Wrist Shot saved by Casey DeSmith,2023-04-03T00:07:11Z,3,00:45,19:15,3,0,4.0,Philadelphia Flyers,PHI
+245,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221471,2022021221,Shot,471,SHOT,Travis Konecny Wrist Shot saved by Casey DeSmith,2023-04-03T00:07:12Z,3,00:46,19:14,3,0,4.0,Philadelphia Flyers,PHI
+246,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221370,2022021221,Missed Shot,370,MISSED_SHOT,Travis Konecny Wide of Net Casey DeSmith,2023-04-03T00:07:14Z,3,00:48,19:12,3,0,4.0,Philadelphia Flyers,PHI
+247,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221720,2022021221,Hit,720,HIT,Wade Allison hit Pierre-Olivier Joseph,2023-04-03T00:07:38Z,3,01:12,18:48,3,0,4.0,Philadelphia Flyers,PHI
+248,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221721,2022021221,Hit,721,HIT,Travis Sanheim hit Rickard Rakell,2023-04-03T00:07:39Z,3,01:13,18:47,3,0,4.0,Philadelphia Flyers,PHI
+249,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221722,2022021221,Hit,722,HIT,Nick Seeler hit Mikael Granlund,2023-04-03T00:08:14Z,3,01:48,18:12,3,0,4.0,Philadelphia Flyers,PHI
+250,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221372,2022021221,Penalty,372,PENALTY,Evgeni Malkin Misconduct,2023-04-03T00:08:16Z,3,01:49,18:11,3,0,5.0,Pittsburgh Penguins,PIT
+251,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221394,2022021221,Penalty,394,PENALTY,Evgeni Malkin Game Misconduct,2023-04-03T00:08:16Z,3,01:49,18:11,3,0,5.0,Pittsburgh Penguins,PIT
+252,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221835,2022021221,Penalty,835,PENALTY,Evgeni Malkin Unsportsmanlike conduct served by Danton Heinen,2023-04-03T00:08:16Z,3,01:49,18:11,3,0,5.0,Pittsburgh Penguins,PIT
+253,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221723,2022021221,Faceoff,723,FACEOFF,Morgan Frost faceoff won against Ryan Poehling,2023-04-03T00:09:31Z,3,01:49,18:11,3,0,4.0,Philadelphia Flyers,PHI
+254,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221472,2022021221,Blocked Shot,472,BLOCKED_SHOT,Tony DeAngelo shot blocked shot by Brian Dumoulin,2023-04-03T00:09:42Z,3,02:00,18:00,3,0,5.0,Pittsburgh Penguins,PIT
+255,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221473,2022021221,Blocked Shot,473,BLOCKED_SHOT,Tony DeAngelo shot blocked shot by Bryan Rust,2023-04-03T00:10:09Z,3,02:27,17:33,3,0,5.0,Pittsburgh Penguins,PIT
+256,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221553,2022021221,Blocked Shot,553,BLOCKED_SHOT,Travis Konecny shot blocked shot by Jeff Petry,2023-04-03T00:13:29Z,3,02:32,17:28,3,0,5.0,Pittsburgh Penguins,PIT
+257,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221724,2022021221,Hit,724,HIT,Jeff Petry hit Travis Konecny,2023-04-03T00:10:28Z,3,02:46,17:14,3,0,5.0,Pittsburgh Penguins,PIT
+258,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221474,2022021221,Shot,474,SHOT,Tony DeAngelo Slap Shot saved by Casey DeSmith,2023-04-03T00:10:39Z,3,02:57,17:03,3,0,4.0,Philadelphia Flyers,PHI
+259,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221725,2022021221,Stoppage,725,STOP,Goalie Stopped,2023-04-03T00:10:40Z,3,02:58,17:02,3,0,,,
+260,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221726,2022021221,Faceoff,726,FACEOFF,Morgan Frost faceoff won against Jeff Carter,2023-04-03T00:11:12Z,3,02:58,17:02,3,0,4.0,Philadelphia Flyers,PHI
+261,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221475,2022021221,Missed Shot,475,MISSED_SHOT,Cam York Wide of Net Casey DeSmith,2023-04-03T00:11:16Z,3,03:02,16:58,3,0,4.0,Philadelphia Flyers,PHI
+262,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221476,2022021221,Blocked Shot,476,BLOCKED_SHOT,Travis Konecny shot blocked shot by Chad Ruhwedel,2023-04-03T00:11:28Z,3,03:14,16:46,3,0,5.0,Pittsburgh Penguins,PIT
+263,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221477,2022021221,Shot,477,SHOT,Kevin Hayes Wrist Shot saved by Casey DeSmith,2023-04-03T00:11:59Z,3,03:45,16:15,3,0,4.0,Philadelphia Flyers,PHI
+264,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221727,2022021221,Stoppage,727,STOP,Puck in Benches,2023-04-03T00:12:08Z,3,03:54,16:06,3,0,,,
+265,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221728,2022021221,Faceoff,728,FACEOFF,Brendan Lemieux faceoff won against Sidney Crosby,2023-04-03T00:12:49Z,3,03:54,16:06,3,0,4.0,Philadelphia Flyers,PHI
+266,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221478,2022021221,Missed Shot,478,MISSED_SHOT,Ivan Provorov Wide of Net Casey DeSmith,2023-04-03T00:12:55Z,3,04:00,16:00,3,0,4.0,Philadelphia Flyers,PHI
+267,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221479,2022021221,Shot,479,SHOT,Scott Laughton Slap Shot saved by Casey DeSmith,2023-04-03T00:12:57Z,3,04:02,15:58,3,0,4.0,Philadelphia Flyers,PHI
+268,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221729,2022021221,Takeaway,729,TAKEAWAY,Takeaway by Jake Guentzel,2023-04-03T00:13:19Z,3,04:24,15:36,3,0,5.0,Pittsburgh Penguins,PIT
+269,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221480,2022021221,Shot,480,SHOT,Jake Guentzel Wrist Shot saved by Samuel Ersson,2023-04-03T00:13:22Z,3,04:27,15:33,3,0,5.0,Pittsburgh Penguins,PIT
+270,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221376,2022021221,Shot,376,SHOT,Pierre-Olivier Joseph Wrist Shot saved by Samuel Ersson,2023-04-03T00:13:27Z,3,04:32,15:28,3,0,5.0,Pittsburgh Penguins,PIT
+271,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221377,2022021221,Missed Shot,377,MISSED_SHOT,Bryan Rust Wide of Net Samuel Ersson,2023-04-03T00:13:33Z,3,04:38,15:22,3,0,5.0,Pittsburgh Penguins,PIT
+272,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221481,2022021221,Shot,481,SHOT,Sidney Crosby Wrist Shot saved by Samuel Ersson,2023-04-03T00:13:34Z,3,04:39,15:21,3,0,5.0,Pittsburgh Penguins,PIT
+273,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221482,2022021221,Blocked Shot,482,BLOCKED_SHOT,Kris Letang shot blocked shot by Brendan Lemieux,2023-04-03T00:13:43Z,3,04:48,15:12,3,0,4.0,Philadelphia Flyers,PHI
+274,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221483,2022021221,Goal,483,GOAL,"Nicolas Deslauriers (6) Wrist Shot, assists: Tony DeAngelo (31), James van Riemsdyk (17)",2023-04-03T00:14:52Z,3,05:57,14:03,3,1,4.0,Philadelphia Flyers,PHI
+275,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221730,2022021221,Faceoff,730,FACEOFF,Morgan Frost faceoff won against Sidney Crosby,2023-04-03T00:15:40Z,3,05:57,14:03,3,1,4.0,Philadelphia Flyers,PHI
+276,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221378,2022021221,Stoppage,378,STOP,Referee or Linesman,2023-04-03T00:15:58Z,3,06:15,13:45,3,1,,,
+277,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221731,2022021221,Faceoff,731,FACEOFF,Noah Cates faceoff won against Sidney Crosby,2023-04-03T00:16:25Z,3,06:15,13:45,3,1,4.0,Philadelphia Flyers,PHI
+278,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221732,2022021221,Giveaway,732,GIVEAWAY,Giveaway by Bryan Rust,2023-04-03T00:16:40Z,3,06:30,13:30,3,1,5.0,Pittsburgh Penguins,PIT
+279,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221379,2022021221,Giveaway,379,GIVEAWAY,Giveaway by Joel Farabee,2023-04-03T00:16:44Z,3,06:34,13:26,3,1,4.0,Philadelphia Flyers,PHI
+280,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221733,2022021221,Hit,733,HIT,Mark Friedman hit Noah Cates,2023-04-03T00:17:05Z,3,06:55,13:05,3,1,5.0,Pittsburgh Penguins,PIT
+281,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221734,2022021221,Hit,734,HIT,Jason Zucker hit Wade Allison,2023-04-03T00:17:19Z,3,07:09,12:51,3,1,5.0,Pittsburgh Penguins,PIT
+282,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221735,2022021221,Giveaway,735,GIVEAWAY,Giveaway by Wade Allison,2023-04-03T00:17:28Z,3,07:18,12:42,3,1,4.0,Philadelphia Flyers,PHI
+283,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221380,2022021221,Stoppage,380,STOP,Icing,2023-04-03T00:17:32Z,3,07:21,12:39,3,1,,,
+284,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221736,2022021221,Faceoff,736,FACEOFF,Mikael Granlund faceoff won against Morgan Frost,2023-04-03T00:17:59Z,3,07:21,12:39,3,1,5.0,Pittsburgh Penguins,PIT
+285,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221737,2022021221,Stoppage,737,STOP,TV timeout,2023-04-03T00:18:11Z,3,07:33,12:27,3,1,,,
+286,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221931,2022021221,Penalty,931,PENALTY,Travis Konecny Hooking against Chad Ruhwedel,2023-04-03T00:18:11Z,3,07:33,12:27,3,1,4.0,Philadelphia Flyers,PHI
+287,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221738,2022021221,Faceoff,738,FACEOFF,Noah Cates faceoff won against Sidney Crosby,2023-04-03T00:20:28Z,3,07:33,12:27,3,1,4.0,Philadelphia Flyers,PHI
+288,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221484,2022021221,Blocked Shot,484,BLOCKED_SHOT,Joel Farabee shot blocked shot by Kris Letang,2023-04-03T00:20:58Z,3,08:03,11:57,3,1,5.0,Pittsburgh Penguins,PIT
+289,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221739,2022021221,Takeaway,739,TAKEAWAY,Takeaway by Noah Cates,2023-04-03T00:21:05Z,3,08:10,11:50,3,1,4.0,Philadelphia Flyers,PHI
+290,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221485,2022021221,Shot,485,SHOT,Sidney Crosby Deflected saved by Samuel Ersson,2023-04-03T00:21:29Z,3,08:34,11:26,3,1,5.0,Pittsburgh Penguins,PIT
+291,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221486,2022021221,Shot,486,SHOT,Scott Laughton Wrist Shot saved by Casey DeSmith,2023-04-03T00:21:44Z,3,08:49,11:11,3,1,4.0,Philadelphia Flyers,PHI
+292,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221487,2022021221,Shot,487,SHOT,Sidney Crosby Wrist Shot saved by Samuel Ersson,2023-04-03T00:21:52Z,3,08:57,11:03,3,1,5.0,Pittsburgh Penguins,PIT
+293,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221488,2022021221,Missed Shot,488,MISSED_SHOT,Jason Zucker Wide of Net Samuel Ersson,2023-04-03T00:22:37Z,3,09:42,10:18,3,1,5.0,Pittsburgh Penguins,PIT
+294,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221740,2022021221,Hit,740,HIT,Mark Friedman hit Travis Konecny,2023-04-03T00:23:17Z,3,10:22,09:38,3,1,5.0,Pittsburgh Penguins,PIT
+295,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221489,2022021221,Stoppage,489,STOP,TV timeout,2023-04-03T00:23:20Z,3,10:25,09:35,3,1,,,
+296,5,4,Pittsburgh Penguins,Philadelphia Flyers,20220212211059,2022021221,Penalty,1059,PENALTY,Ryan Poehling Delaying Game - Puck over glass,2023-04-03T00:23:20Z,3,10:25,09:35,3,1,5.0,Pittsburgh Penguins,PIT
+297,5,4,Pittsburgh Penguins,Philadelphia Flyers,20220212211063,2022021221,Penalty,1063,PENALTY,Travis Konecny Slashing against Mark Friedman,2023-04-03T00:23:20Z,3,10:25,09:35,3,1,4.0,Philadelphia Flyers,PHI
+298,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221741,2022021221,Faceoff,741,FACEOFF,Sidney Crosby faceoff won against Morgan Frost,2023-04-03T00:26:02Z,3,10:25,09:35,3,1,5.0,Pittsburgh Penguins,PIT
+299,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221381,2022021221,Stoppage,381,STOP,Clock Problem,2023-04-03T00:26:40Z,3,11:03,08:57,3,1,,,
+300,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221742,2022021221,Faceoff,742,FACEOFF,Noah Cates faceoff won against Mikael Granlund,2023-04-03T00:27:24Z,3,11:03,08:57,3,1,4.0,Philadelphia Flyers,PHI
+301,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221382,2022021221,Stoppage,382,STOP,Icing,2023-04-03T00:27:37Z,3,11:16,08:44,3,1,,,
+302,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221743,2022021221,Faceoff,743,FACEOFF,Mikael Granlund faceoff won against Noah Cates,2023-04-03T00:28:04Z,3,11:16,08:44,3,1,5.0,Pittsburgh Penguins,PIT
+303,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221745,2022021221,Takeaway,745,TAKEAWAY,Takeaway by Cam York,2023-04-03T00:28:35Z,3,11:47,08:13,3,1,4.0,Philadelphia Flyers,PHI
+304,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221746,2022021221,Takeaway,746,TAKEAWAY,Takeaway by Pierre-Olivier Joseph,2023-04-03T00:28:52Z,3,12:04,07:56,3,1,5.0,Pittsburgh Penguins,PIT
+305,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221747,2022021221,Giveaway,747,GIVEAWAY,Giveaway by Travis Sanheim,2023-04-03T00:29:05Z,3,12:17,07:43,3,1,4.0,Philadelphia Flyers,PHI
+306,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221748,2022021221,Takeaway,748,TAKEAWAY,Takeaway by Tony DeAngelo,2023-04-03T00:29:20Z,3,12:32,07:28,3,1,4.0,Philadelphia Flyers,PHI
+307,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221490,2022021221,Blocked Shot,490,BLOCKED_SHOT,Owen Tippett shot blocked shot by Brian Dumoulin,2023-04-03T00:29:35Z,3,12:47,07:13,3,1,5.0,Pittsburgh Penguins,PIT
+308,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221491,2022021221,Shot,491,SHOT,Owen Tippett Deflected saved by Casey DeSmith,2023-04-03T00:29:37Z,3,12:49,07:11,3,1,4.0,Philadelphia Flyers,PHI
+309,5,4,Pittsburgh Penguins,Philadelphia Flyers,20220212211080,2022021221,Penalty,1080,PENALTY,Sidney Crosby Slashing against Morgan Frost,2023-04-03T00:29:39Z,3,12:50,07:10,3,1,5.0,Pittsburgh Penguins,PIT
+310,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221749,2022021221,Faceoff,749,FACEOFF,Ryan Poehling faceoff won against Morgan Frost,2023-04-03T00:30:43Z,3,12:50,07:10,3,1,5.0,Pittsburgh Penguins,PIT
+311,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221492,2022021221,Missed Shot,492,MISSED_SHOT,Travis Konecny Goalpost Casey DeSmith,2023-04-03T00:31:29Z,3,13:36,06:24,3,1,4.0,Philadelphia Flyers,PHI
+312,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221383,2022021221,Shot,383,SHOT,Owen Tippett Wrist Shot saved by Casey DeSmith,2023-04-03T00:31:32Z,3,13:39,06:21,3,1,4.0,Philadelphia Flyers,PHI
+313,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221493,2022021221,Missed Shot,493,MISSED_SHOT,Owen Tippett Wide of Net Casey DeSmith,2023-04-03T00:31:43Z,3,13:50,06:10,3,1,4.0,Philadelphia Flyers,PHI
+314,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221494,2022021221,Shot,494,SHOT,Owen Tippett Snap Shot saved by Casey DeSmith,2023-04-03T00:32:08Z,3,14:15,05:45,3,1,4.0,Philadelphia Flyers,PHI
+315,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221495,2022021221,Blocked Shot,495,BLOCKED_SHOT,Owen Tippett shot blocked shot by Jeff Petry,2023-04-03T00:32:17Z,3,14:24,05:36,3,1,5.0,Pittsburgh Penguins,PIT
+316,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221384,2022021221,Stoppage,384,STOP,Puck in Netting,2023-04-03T00:32:18Z,3,14:25,05:35,3,1,,,
+317,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221750,2022021221,Faceoff,750,FACEOFF,Jeff Carter faceoff won against Kevin Hayes,2023-04-03T00:32:52Z,3,14:25,05:35,3,1,5.0,Pittsburgh Penguins,PIT
+318,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221951,2022021221,Hit,951,HIT,Brian Dumoulin hit Joel Farabee,2023-04-03T00:33:24Z,3,14:57,05:03,3,1,5.0,Pittsburgh Penguins,PIT
+319,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221496,2022021221,Blocked Shot,496,BLOCKED_SHOT,Travis Sanheim shot blocked shot by Sidney Crosby,2023-04-03T00:33:31Z,3,15:04,04:56,3,1,5.0,Pittsburgh Penguins,PIT
+320,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221952,2022021221,Takeaway,952,TAKEAWAY,Takeaway by Travis Sanheim,2023-04-03T00:33:33Z,3,15:06,04:54,3,1,4.0,Philadelphia Flyers,PHI
+321,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221385,2022021221,Missed Shot,385,MISSED_SHOT,Ivan Provorov Wide of Net Casey DeSmith,2023-04-03T00:33:35Z,3,15:08,04:52,3,1,4.0,Philadelphia Flyers,PHI
+322,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221386,2022021221,Stoppage,386,STOP,Goalie Stopped,2023-04-03T00:33:36Z,3,15:09,04:51,3,1,,,
+323,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221953,2022021221,Faceoff,953,FACEOFF,Morgan Frost faceoff won against Sidney Crosby,2023-04-03T00:36:02Z,3,15:09,04:51,3,1,4.0,Philadelphia Flyers,PHI
+324,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221497,2022021221,Missed Shot,497,MISSED_SHOT,Cam York Wide of Net Casey DeSmith,2023-04-03T00:36:12Z,3,15:19,04:41,3,1,4.0,Philadelphia Flyers,PHI
+325,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221498,2022021221,Missed Shot,498,MISSED_SHOT,Brian Dumoulin Wide of Net Samuel Ersson,2023-04-03T00:36:30Z,3,15:37,04:23,3,1,5.0,Pittsburgh Penguins,PIT
+326,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221954,2022021221,Takeaway,954,TAKEAWAY,Takeaway by Tony DeAngelo,2023-04-03T00:36:32Z,3,15:39,04:21,3,1,4.0,Philadelphia Flyers,PHI
+327,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221955,2022021221,Takeaway,955,TAKEAWAY,Takeaway by Bryan Rust,2023-04-03T00:36:42Z,3,15:49,04:11,3,1,5.0,Pittsburgh Penguins,PIT
+328,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221499,2022021221,Missed Shot,499,MISSED_SHOT,Travis Konecny Wide of Net Casey DeSmith,2023-04-03T00:36:53Z,3,16:00,04:00,3,1,4.0,Philadelphia Flyers,PHI
+329,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221500,2022021221,Shot,500,SHOT,Travis Sanheim Snap Shot saved by Casey DeSmith,2023-04-03T00:37:32Z,3,16:39,03:21,3,1,4.0,Philadelphia Flyers,PHI
+330,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221851,2022021221,Goal,851,GOAL,"Travis Konecny (29) Snap Shot, assists: Morgan Frost (24), Joel Farabee (23)",2023-04-03T00:38:24Z,3,17:31,02:29,3,2,4.0,Philadelphia Flyers,PHI
+331,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221956,2022021221,Faceoff,956,FACEOFF,Kevin Hayes faceoff won against Sidney Crosby,2023-04-03T00:39:11Z,3,17:31,02:29,3,2,4.0,Philadelphia Flyers,PHI
+332,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221957,2022021221,Hit,957,HIT,Cam York hit Jeff Carter,2023-04-03T00:40:00Z,3,18:20,01:40,3,2,4.0,Philadelphia Flyers,PHI
+333,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221387,2022021221,Stoppage,387,STOP,Visitor Timeout,2023-04-03T00:40:29Z,3,18:48,01:12,3,2,,,
+334,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221852,2022021221,Goal,852,GOAL,"Ryan Poehling (7) Wrist Shot, assists: Mikael Granlund (30), Brian Dumoulin (22)",2023-04-03T00:40:29Z,3,18:48,01:12,4,2,5.0,Pittsburgh Penguins,PIT
+335,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221959,2022021221,Faceoff,959,FACEOFF,Sidney Crosby faceoff won against Morgan Frost,2023-04-03T00:42:21Z,3,18:48,01:12,4,2,5.0,Pittsburgh Penguins,PIT
+336,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221853,2022021221,Shot,853,SHOT,Tony DeAngelo Slap Shot saved by Casey DeSmith,2023-04-03T00:43:06Z,3,19:33,00:27,4,2,4.0,Philadelphia Flyers,PHI
+337,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221960,2022021221,Hit,960,HIT,Travis Konecny hit Jake Guentzel,2023-04-03T00:43:11Z,3,19:38,00:22,4,2,4.0,Philadelphia Flyers,PHI
+338,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221854,2022021221,Blocked Shot,854,BLOCKED_SHOT,Morgan Frost shot blocked shot by Jake Guentzel,2023-04-03T00:43:16Z,3,19:43,00:17,4,2,5.0,Pittsburgh Penguins,PIT
+339,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221855,2022021221,Blocked Shot,855,BLOCKED_SHOT,Cam York shot blocked shot by Jake Guentzel,2023-04-03T00:43:27Z,3,19:54,00:06,4,2,5.0,Pittsburgh Penguins,PIT
+340,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221388,2022021221,Period End,388,PERIOD_END,End of 3rd Period,2023-04-03T00:43:33Z,3,20:00,00:00,4,2,,,
+341,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221391,2022021221,Period Official,391,PERIOD_OFFICIAL,Period Official,2023-04-03T00:43:46Z,3,20:00,00:00,4,2,,,
+342,5,4,Pittsburgh Penguins,Philadelphia Flyers,2022021221392,2022021221,Game End,392,GAME_END,Game End,2023-04-03T00:43:47Z,3,20:00,00:00,4,2,,,
+343,5,4,Pittsburgh Penguins,Philadelphia Flyers,20220212211151,2022021221,Game Official,1151,GAME_OFFICIAL,Game Official,2023-04-03T03:06:54Z,3,20:00,00:00,4,2,,,

@@ -1,0 +1,328 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,10,24,Toronto Maple Leafs,Anaheim Ducks,20220204541,2022020454,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-12-13T23:17:57Z,1,00:00,20:00,0,0,,,
+1,10,24,Toronto Maple Leafs,Anaheim Ducks,20220204545,2022020454,Period Ready,5,PERIOD_READY,Period Ready,2022-12-14T00:06:54Z,1,00:00,20:00,0,0,,,
+2,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454101,2022020454,Period Start,101,PERIOD_START,Period Start,2022-12-14T00:08:07Z,1,00:00,20:00,0,0,,,
+3,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454102,2022020454,Faceoff,102,FACEOFF,John Tavares faceoff won against Adam Henrique,2022-12-14T00:08:07Z,1,00:00,20:00,0,0,10.0,Toronto Maple Leafs,TOR
+4,10,24,Toronto Maple Leafs,Anaheim Ducks,20220204549,2022020454,Blocked Shot,9,BLOCKED_SHOT,Mark Giordano shot blocked shot by Adam Henrique,2022-12-14T00:08:19Z,1,00:11,19:49,0,0,24.0,Anaheim Ducks,ANA
+5,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454151,2022020454,Stoppage,151,STOP,Referee or Linesman,2022-12-14T00:08:19Z,1,00:11,19:49,0,0,,,
+6,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454103,2022020454,Faceoff,103,FACEOFF,Ryan Strome faceoff won against John Tavares,2022-12-14T00:08:51Z,1,00:11,19:49,0,0,24.0,Anaheim Ducks,ANA
+7,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045410,2022020454,Blocked Shot,10,BLOCKED_SHOT,Justin Holl shot blocked shot by Frank Vatrano,2022-12-14T00:09:01Z,1,00:21,19:39,0,0,24.0,Anaheim Ducks,ANA
+8,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045411,2022020454,Shot,11,SHOT,Ryan Strome Wrist Shot saved by Ilya Samsonov,2022-12-14T00:09:08Z,1,00:28,19:32,0,0,24.0,Anaheim Ducks,ANA
+9,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045412,2022020454,Shot,12,SHOT,Troy Terry Wrist Shot saved by Ilya Samsonov,2022-12-14T00:09:27Z,1,00:47,19:13,0,0,24.0,Anaheim Ducks,ANA
+10,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454152,2022020454,Stoppage,152,STOP,Puck in Netting,2022-12-14T00:09:36Z,1,00:55,19:05,0,0,,,
+11,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454104,2022020454,Faceoff,104,FACEOFF,Auston Matthews faceoff won against Max Comtois,2022-12-14T00:10:08Z,1,00:55,19:05,0,0,10.0,Toronto Maple Leafs,TOR
+12,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454153,2022020454,Hit,153,HIT,Max Comtois hit TJ Brodie,2022-12-14T00:10:17Z,1,01:04,18:56,0,0,24.0,Anaheim Ducks,ANA
+13,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045413,2022020454,Shot,13,SHOT,Mason McTavish Snap Shot saved by Ilya Samsonov,2022-12-14T00:10:20Z,1,01:07,18:53,0,0,24.0,Anaheim Ducks,ANA
+14,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454105,2022020454,Takeaway,105,TAKEAWAY,Takeaway by Auston Matthews,2022-12-14T00:10:32Z,1,01:19,18:41,0,0,10.0,Toronto Maple Leafs,TOR
+15,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045414,2022020454,Missed Shot,14,MISSED_SHOT,Auston Matthews Wide of Net John Gibson,2022-12-14T00:10:40Z,1,01:27,18:33,0,0,10.0,Toronto Maple Leafs,TOR
+16,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045415,2022020454,Goal,15,GOAL,"Alexander Kerfoot (3) Slap Shot, assists: Pierre Engvall (4), Conor Timmins (2)",2022-12-14T00:11:11Z,1,01:58,18:02,1,0,10.0,Toronto Maple Leafs,TOR
+17,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454106,2022020454,Faceoff,106,FACEOFF,David Kampf faceoff won against Trevor Zegras,2022-12-14T00:11:55Z,1,01:58,18:02,1,0,10.0,Toronto Maple Leafs,TOR
+18,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045416,2022020454,Shot,16,SHOT,Troy Terry Wrist Shot saved by Ilya Samsonov,2022-12-14T00:12:21Z,1,02:24,17:36,1,0,24.0,Anaheim Ducks,ANA
+19,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045417,2022020454,Shot,17,SHOT,Colton White Wrist Shot saved by Ilya Samsonov,2022-12-14T00:12:28Z,1,02:31,17:29,1,0,24.0,Anaheim Ducks,ANA
+20,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454107,2022020454,Giveaway,107,GIVEAWAY,Giveaway by Mark Giordano,2022-12-14T00:12:58Z,1,03:01,16:59,1,0,10.0,Toronto Maple Leafs,TOR
+21,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454108,2022020454,Takeaway,108,TAKEAWAY,Takeaway by Justin Holl,2022-12-14T00:13:20Z,1,03:23,16:37,1,0,10.0,Toronto Maple Leafs,TOR
+22,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454154,2022020454,Hit,154,HIT,John Klingberg hit Pontus Holmberg,2022-12-14T00:13:20Z,1,03:23,16:37,1,0,24.0,Anaheim Ducks,ANA
+23,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454155,2022020454,Hit,155,HIT,Zach Aston-Reese hit Nathan Beaulieu,2022-12-14T00:13:24Z,1,03:27,16:33,1,0,10.0,Toronto Maple Leafs,TOR
+24,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045418,2022020454,Blocked Shot,18,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Sam Carrick,2022-12-14T00:14:03Z,1,04:06,15:54,1,0,24.0,Anaheim Ducks,ANA
+25,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045419,2022020454,Shot,19,SHOT,Auston Matthews Wrist Shot saved by John Gibson,2022-12-14T00:14:16Z,1,04:19,15:41,1,0,10.0,Toronto Maple Leafs,TOR
+26,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454156,2022020454,Stoppage,156,STOP,Goalie Stopped,2022-12-14T00:14:16Z,1,04:19,15:41,1,0,,,
+27,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454109,2022020454,Faceoff,109,FACEOFF,Mason McTavish faceoff won against Auston Matthews,2022-12-14T00:14:44Z,1,04:19,15:41,1,0,24.0,Anaheim Ducks,ANA
+28,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454157,2022020454,Stoppage,157,STOP,Offside,2022-12-14T00:14:53Z,1,04:28,15:32,1,0,,,
+29,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454110,2022020454,Faceoff,110,FACEOFF,Auston Matthews faceoff won against Mason McTavish,2022-12-14T00:15:14Z,1,04:28,15:32,1,0,10.0,Toronto Maple Leafs,TOR
+30,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045420,2022020454,Missed Shot,20,MISSED_SHOT,Frank Vatrano Wide of Net Ilya Samsonov,2022-12-14T00:15:34Z,1,04:48,15:12,1,0,24.0,Anaheim Ducks,ANA
+31,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045421,2022020454,Shot,21,SHOT,Rasmus Sandin Wrist Shot saved by John Gibson,2022-12-14T00:15:44Z,1,04:58,15:02,1,0,10.0,Toronto Maple Leafs,TOR
+32,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454158,2022020454,Hit,158,HIT,Michael Bunting hit Cam Fowler,2022-12-14T00:15:52Z,1,05:06,14:54,1,0,10.0,Toronto Maple Leafs,TOR
+33,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454160,2022020454,Penalty,160,PENALTY,Rasmus Sandin Interference against Kevin Shattenkirk,2022-12-14T00:15:59Z,1,05:13,14:47,1,0,10.0,Toronto Maple Leafs,TOR
+34,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454111,2022020454,Faceoff,111,FACEOFF,David Kampf faceoff won against Mason McTavish,2022-12-14T00:16:50Z,1,05:13,14:47,1,0,10.0,Toronto Maple Leafs,TOR
+35,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045422,2022020454,Shot,22,SHOT,Kevin Shattenkirk Wrist Shot saved by Ilya Samsonov,2022-12-14T00:18:10Z,1,06:33,13:27,1,0,24.0,Anaheim Ducks,ANA
+36,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045423,2022020454,Shot,23,SHOT,John Klingberg Wrist Shot saved by Ilya Samsonov,2022-12-14T00:18:22Z,1,06:45,13:15,1,0,24.0,Anaheim Ducks,ANA
+37,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045424,2022020454,Missed Shot,24,MISSED_SHOT,Ryan Strome Wide of Net Ilya Samsonov,2022-12-14T00:18:38Z,1,07:01,12:59,1,0,24.0,Anaheim Ducks,ANA
+38,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454112,2022020454,Giveaway,112,GIVEAWAY,Giveaway by TJ Brodie,2022-12-14T00:18:40Z,1,07:03,12:57,1,0,10.0,Toronto Maple Leafs,TOR
+39,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045425,2022020454,Missed Shot,25,MISSED_SHOT,Jakob Silfverberg Over Net Ilya Samsonov,2022-12-14T00:18:57Z,1,07:20,12:40,1,0,24.0,Anaheim Ducks,ANA
+40,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454163,2022020454,Hit,163,HIT,Zach Aston-Reese hit Frank Vatrano,2022-12-14T00:18:59Z,1,07:22,12:38,1,0,10.0,Toronto Maple Leafs,TOR
+41,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454164,2022020454,Hit,164,HIT,Sam Carrick hit Michael Bunting,2022-12-14T00:19:30Z,1,07:53,12:07,1,0,24.0,Anaheim Ducks,ANA
+42,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045426,2022020454,Blocked Shot,26,BLOCKED_SHOT,Michael Bunting shot blocked shot by Colton White,2022-12-14T00:19:53Z,1,08:16,11:44,1,0,24.0,Anaheim Ducks,ANA
+43,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454165,2022020454,Hit,165,HIT,Michael Bunting hit Sam Carrick,2022-12-14T00:19:58Z,1,08:21,11:39,1,0,10.0,Toronto Maple Leafs,TOR
+44,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045427,2022020454,Missed Shot,27,MISSED_SHOT,Auston Matthews Over Net John Gibson,2022-12-14T00:20:06Z,1,08:29,11:31,1,0,10.0,Toronto Maple Leafs,TOR
+45,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454166,2022020454,Stoppage,166,STOP,Icing,2022-12-14T00:20:10Z,1,08:33,11:27,1,0,,,
+46,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454113,2022020454,Faceoff,113,FACEOFF,Sam Carrick faceoff won against Mitchell Marner,2022-12-14T00:20:52Z,1,08:33,11:27,1,0,24.0,Anaheim Ducks,ANA
+47,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454115,2022020454,Giveaway,115,GIVEAWAY,Giveaway by Colton White,2022-12-14T00:20:55Z,1,08:36,11:24,1,0,24.0,Anaheim Ducks,ANA
+48,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045428,2022020454,Goal,28,GOAL,"John Tavares (14) Wrist Shot, assists: Mitchell Marner (24), Conor Timmins (3)",2022-12-14T00:21:00Z,1,08:41,11:19,2,0,10.0,Toronto Maple Leafs,TOR
+49,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454117,2022020454,Faceoff,117,FACEOFF,David Kampf faceoff won against Trevor Zegras,2022-12-14T00:21:47Z,1,08:41,11:19,2,0,10.0,Toronto Maple Leafs,TOR
+50,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045429,2022020454,Shot,29,SHOT,Auston Matthews Wrist Shot saved by John Gibson,2022-12-14T00:23:51Z,1,10:45,09:15,2,0,10.0,Toronto Maple Leafs,TOR
+51,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045430,2022020454,Shot,30,SHOT,Auston Matthews Wrist Shot saved by John Gibson,2022-12-14T00:23:53Z,1,10:47,09:13,2,0,10.0,Toronto Maple Leafs,TOR
+52,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045431,2022020454,Shot,31,SHOT,TJ Brodie Wrist Shot saved by John Gibson,2022-12-14T00:23:58Z,1,10:52,09:08,2,0,10.0,Toronto Maple Leafs,TOR
+53,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454167,2022020454,Stoppage,167,STOP,Goalie Stopped,2022-12-14T00:23:59Z,1,10:53,09:07,2,0,,,
+54,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454118,2022020454,Faceoff,118,FACEOFF,John Tavares faceoff won against Ryan Strome,2022-12-14T00:26:28Z,1,10:53,09:07,2,0,10.0,Toronto Maple Leafs,TOR
+55,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045432,2022020454,Missed Shot,32,MISSED_SHOT,Mitchell Marner Wide of Net John Gibson,2022-12-14T00:26:32Z,1,10:57,09:03,2,0,10.0,Toronto Maple Leafs,TOR
+56,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454119,2022020454,Takeaway,119,TAKEAWAY,Takeaway by Mitchell Marner,2022-12-14T00:27:01Z,1,11:26,08:34,2,0,10.0,Toronto Maple Leafs,TOR
+57,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045433,2022020454,Missed Shot,33,MISSED_SHOT,John Tavares Wide of Net John Gibson,2022-12-14T00:27:08Z,1,11:33,08:27,2,0,10.0,Toronto Maple Leafs,TOR
+58,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454168,2022020454,Hit,168,HIT,Nathan Beaulieu hit John Tavares,2022-12-14T00:27:11Z,1,11:36,08:24,2,0,24.0,Anaheim Ducks,ANA
+59,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454169,2022020454,Stoppage,169,STOP,Hand Pass,2022-12-14T00:27:31Z,1,11:56,08:04,2,0,,,
+60,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454120,2022020454,Faceoff,120,FACEOFF,David Kampf faceoff won against Mason McTavish,2022-12-14T00:29:42Z,1,11:56,08:04,2,0,10.0,Toronto Maple Leafs,TOR
+61,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045434,2022020454,Shot,34,SHOT,Alexander Kerfoot Wrist Shot saved by John Gibson,2022-12-14T00:29:49Z,1,12:03,07:57,2,0,10.0,Toronto Maple Leafs,TOR
+62,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454170,2022020454,Stoppage,170,STOP,Goalie Stopped,2022-12-14T00:29:50Z,1,12:04,07:56,2,0,,,
+63,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454121,2022020454,Faceoff,121,FACEOFF,Alexander Kerfoot faceoff won against Ryan Strome,2022-12-14T00:30:27Z,1,12:04,07:56,2,0,10.0,Toronto Maple Leafs,TOR
+64,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045435,2022020454,Missed Shot,35,MISSED_SHOT,Pierre Engvall Wide of Net John Gibson,2022-12-14T00:30:31Z,1,12:08,07:52,2,0,10.0,Toronto Maple Leafs,TOR
+65,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045437,2022020454,Missed Shot,37,MISSED_SHOT,Cam Fowler Wide of Net Ilya Samsonov,2022-12-14T00:30:49Z,1,12:26,07:34,2,0,24.0,Anaheim Ducks,ANA
+66,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454171,2022020454,Hit,171,HIT,Alexander Kerfoot hit Troy Terry,2022-12-14T00:30:50Z,1,12:27,07:33,2,0,10.0,Toronto Maple Leafs,TOR
+67,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045438,2022020454,Shot,38,SHOT,Kevin Shattenkirk Wrist Shot saved by Ilya Samsonov,2022-12-14T00:31:53Z,1,13:30,06:30,2,0,24.0,Anaheim Ducks,ANA
+68,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454172,2022020454,Hit,172,HIT,Mason McTavish hit Pontus Holmberg,2022-12-14T00:31:57Z,1,13:34,06:26,2,0,24.0,Anaheim Ducks,ANA
+69,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454173,2022020454,Stoppage,173,STOP,Icing,2022-12-14T00:32:01Z,1,13:38,06:22,2,0,,,
+70,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454122,2022020454,Faceoff,122,FACEOFF,Trevor Zegras faceoff won against Pontus Holmberg,2022-12-14T00:32:49Z,1,13:38,06:22,2,0,24.0,Anaheim Ducks,ANA
+71,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454174,2022020454,Hit,174,HIT,William Nylander hit John Klingberg,2022-12-14T00:32:55Z,1,13:44,06:16,2,0,10.0,Toronto Maple Leafs,TOR
+72,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454175,2022020454,Hit,175,HIT,Brett Leason hit TJ Brodie,2022-12-14T00:33:02Z,1,13:51,06:09,2,0,24.0,Anaheim Ducks,ANA
+73,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045439,2022020454,Missed Shot,39,MISSED_SHOT,Mason McTavish Over Net Ilya Samsonov,2022-12-14T00:33:06Z,1,13:55,06:05,2,0,24.0,Anaheim Ducks,ANA
+74,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454123,2022020454,Giveaway,123,GIVEAWAY,Giveaway by John Klingberg,2022-12-14T00:33:10Z,1,13:59,06:01,2,0,24.0,Anaheim Ducks,ANA
+75,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045440,2022020454,Shot,40,SHOT,William Nylander Wrist Shot saved by John Gibson,2022-12-14T00:33:15Z,1,14:04,05:56,2,0,10.0,Toronto Maple Leafs,TOR
+76,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454176,2022020454,Stoppage,176,STOP,Goalie Stopped,2022-12-14T00:33:15Z,1,14:04,05:56,2,0,,,
+77,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454124,2022020454,Faceoff,124,FACEOFF,Auston Matthews faceoff won against Ryan Strome,2022-12-14T00:35:25Z,1,14:04,05:56,2,0,10.0,Toronto Maple Leafs,TOR
+78,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045441,2022020454,Shot,41,SHOT,Auston Matthews Slap Shot saved by John Gibson,2022-12-14T00:35:31Z,1,14:10,05:50,2,0,10.0,Toronto Maple Leafs,TOR
+79,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045442,2022020454,Blocked Shot,42,BLOCKED_SHOT,William Nylander shot blocked shot by Colton White,2022-12-14T00:35:57Z,1,14:36,05:24,2,0,24.0,Anaheim Ducks,ANA
+80,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454177,2022020454,Hit,177,HIT,Frank Vatrano hit Auston Matthews,2022-12-14T00:36:12Z,1,14:51,05:09,2,0,24.0,Anaheim Ducks,ANA
+81,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454178,2022020454,Hit,178,HIT,Kevin Shattenkirk hit Rasmus Sandin,2022-12-14T00:36:19Z,1,14:58,05:02,2,0,24.0,Anaheim Ducks,ANA
+82,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454179,2022020454,Stoppage,179,STOP,Offside,2022-12-14T00:36:43Z,1,15:22,04:38,2,0,,,
+83,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454125,2022020454,Faceoff,125,FACEOFF,Mason McTavish faceoff won against John Tavares,2022-12-14T00:37:08Z,1,15:22,04:38,2,0,24.0,Anaheim Ducks,ANA
+84,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454180,2022020454,Hit,180,HIT,Brett Leason hit Mark Giordano,2022-12-14T00:37:22Z,1,15:36,04:24,2,0,24.0,Anaheim Ducks,ANA
+85,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454181,2022020454,Hit,181,HIT,Kevin Shattenkirk hit Denis Malgin,2022-12-14T00:37:32Z,1,15:46,04:14,2,0,24.0,Anaheim Ducks,ANA
+86,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045443,2022020454,Blocked Shot,43,BLOCKED_SHOT,Brett Leason shot blocked shot by Mark Giordano,2022-12-14T00:37:45Z,1,15:59,04:01,2,0,10.0,Toronto Maple Leafs,TOR
+87,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045444,2022020454,Shot,44,SHOT,Mason McTavish Wrist Shot saved by Ilya Samsonov,2022-12-14T00:37:47Z,1,16:01,03:59,2,0,24.0,Anaheim Ducks,ANA
+88,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045445,2022020454,Shot,45,SHOT,Mason McTavish Wrist Shot saved by Ilya Samsonov,2022-12-14T00:37:48Z,1,16:02,03:58,2,0,24.0,Anaheim Ducks,ANA
+89,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454182,2022020454,Stoppage,182,STOP,Goalie Stopped,2022-12-14T00:37:49Z,1,16:03,03:57,2,0,,,
+90,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454126,2022020454,Faceoff,126,FACEOFF,Ryan Strome faceoff won against David Kampf,2022-12-14T00:38:27Z,1,16:03,03:57,2,0,24.0,Anaheim Ducks,ANA
+91,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045446,2022020454,Shot,46,SHOT,Frank Vatrano Snap Shot saved by Ilya Samsonov,2022-12-14T00:38:38Z,1,16:14,03:46,2,0,24.0,Anaheim Ducks,ANA
+92,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045447,2022020454,Shot,47,SHOT,Ryan Strome Tip-In saved by Ilya Samsonov,2022-12-14T00:38:41Z,1,16:17,03:43,2,0,24.0,Anaheim Ducks,ANA
+93,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454183,2022020454,Stoppage,183,STOP,Goalie Stopped,2022-12-14T00:38:41Z,1,16:17,03:43,2,0,,,
+94,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454127,2022020454,Faceoff,127,FACEOFF,Mason McTavish faceoff won against David Kampf,2022-12-14T00:39:09Z,1,16:17,03:43,2,0,24.0,Anaheim Ducks,ANA
+95,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454184,2022020454,Hit,184,HIT,Nathan Beaulieu hit Alexander Kerfoot,2022-12-14T00:39:29Z,1,16:37,03:23,2,0,24.0,Anaheim Ducks,ANA
+96,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045448,2022020454,Shot,48,SHOT,Timothy Liljegren Slap Shot saved by John Gibson,2022-12-14T00:39:38Z,1,16:46,03:14,2,0,10.0,Toronto Maple Leafs,TOR
+97,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045449,2022020454,Shot,49,SHOT,Timothy Liljegren Slap Shot saved by John Gibson,2022-12-14T00:39:45Z,1,16:53,03:07,2,0,10.0,Toronto Maple Leafs,TOR
+98,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454185,2022020454,Stoppage,185,STOP,Puck in Netting,2022-12-14T00:39:45Z,1,16:53,03:07,2,0,,,
+99,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454128,2022020454,Faceoff,128,FACEOFF,Ryan Strome faceoff won against Pontus Holmberg,2022-12-14T00:40:19Z,1,16:53,03:07,2,0,24.0,Anaheim Ducks,ANA
+100,10,24,Toronto Maple Leafs,Anaheim Ducks,202202045450,2022020454,Shot,50,SHOT,Frank Vatrano Wrist Shot saved by Ilya Samsonov,2022-12-14T00:40:29Z,1,17:03,02:57,2,0,24.0,Anaheim Ducks,ANA
+101,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454186,2022020454,Hit,186,HIT,Joey Anderson hit Kevin Shattenkirk,2022-12-14T00:40:48Z,1,17:22,02:38,2,0,10.0,Toronto Maple Leafs,TOR
+102,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454187,2022020454,Stoppage,187,STOP,Goalie Stopped,2022-12-14T00:40:58Z,1,17:33,02:27,2,0,,,
+103,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454251,2022020454,Shot,251,SHOT,Kevin Shattenkirk Wrist Shot saved by Ilya Samsonov,2022-12-14T00:40:58Z,1,17:33,02:27,2,0,24.0,Anaheim Ducks,ANA
+104,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454129,2022020454,Faceoff,129,FACEOFF,Auston Matthews faceoff won against Trevor Zegras,2022-12-14T00:41:51Z,1,17:33,02:27,2,0,10.0,Toronto Maple Leafs,TOR
+105,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454252,2022020454,Shot,252,SHOT,Brett Leason Wrist Shot saved by Ilya Samsonov,2022-12-14T00:41:54Z,1,17:36,02:24,2,0,24.0,Anaheim Ducks,ANA
+106,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454188,2022020454,Hit,188,HIT,Brett Leason hit Timothy Liljegren,2022-12-14T00:41:57Z,1,17:39,02:21,2,0,24.0,Anaheim Ducks,ANA
+107,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454189,2022020454,Hit,189,HIT,Mason McTavish hit Mark Giordano,2022-12-14T00:42:17Z,1,17:59,02:01,2,0,24.0,Anaheim Ducks,ANA
+108,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454253,2022020454,Missed Shot,253,MISSED_SHOT,William Nylander Wide of Net John Gibson,2022-12-14T00:42:26Z,1,18:08,01:52,2,0,10.0,Toronto Maple Leafs,TOR
+109,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454190,2022020454,Stoppage,190,STOP,Goalie Stopped,2022-12-14T00:42:32Z,1,18:14,01:46,2,0,,,
+110,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454254,2022020454,Shot,254,SHOT,William Nylander Wrist Shot saved by John Gibson,2022-12-14T00:42:32Z,1,18:14,01:46,2,0,10.0,Toronto Maple Leafs,TOR
+111,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454130,2022020454,Faceoff,130,FACEOFF,John Tavares faceoff won against Sam Carrick,2022-12-14T00:43:07Z,1,18:14,01:46,2,0,10.0,Toronto Maple Leafs,TOR
+112,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454191,2022020454,Hit,191,HIT,Sam Carrick hit Conor Timmins,2022-12-14T00:43:27Z,1,18:34,01:26,2,0,24.0,Anaheim Ducks,ANA
+113,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454192,2022020454,Stoppage,192,STOP,Puck in Crowd,2022-12-14T00:43:32Z,1,18:38,01:22,2,0,,,
+114,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454131,2022020454,Faceoff,131,FACEOFF,Ryan Strome faceoff won against David Kampf,2022-12-14T00:43:59Z,1,18:38,01:22,2,0,24.0,Anaheim Ducks,ANA
+115,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454255,2022020454,Shot,255,SHOT,Frank Vatrano Wrist Shot saved by Ilya Samsonov,2022-12-14T00:44:13Z,1,18:52,01:08,2,0,24.0,Anaheim Ducks,ANA
+116,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454256,2022020454,Missed Shot,256,MISSED_SHOT,Troy Terry Wide of Net Ilya Samsonov,2022-12-14T00:44:21Z,1,19:00,01:00,2,0,24.0,Anaheim Ducks,ANA
+117,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454257,2022020454,Shot,257,SHOT,Rasmus Sandin Wrist Shot saved by John Gibson,2022-12-14T00:44:36Z,1,19:15,00:45,2,0,10.0,Toronto Maple Leafs,TOR
+118,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454193,2022020454,Hit,193,HIT,Frank Vatrano hit Joey Anderson,2022-12-14T00:45:00Z,1,19:39,00:21,2,0,24.0,Anaheim Ducks,ANA
+119,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454194,2022020454,Penalty,194,PENALTY,Too many men/ice served by Mason McTavish,2022-12-14T00:45:10Z,1,19:48,00:12,2,0,24.0,Anaheim Ducks,ANA
+120,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454132,2022020454,Faceoff,132,FACEOFF,John Tavares faceoff won against Sam Carrick,2022-12-14T00:46:17Z,1,19:48,00:12,2,0,10.0,Toronto Maple Leafs,TOR
+121,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454258,2022020454,Period End,258,PERIOD_END,End of 1st Period,2022-12-14T00:46:29Z,1,20:00,00:00,2,0,,,
+122,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454261,2022020454,Period Official,261,PERIOD_OFFICIAL,Period Official,2022-12-14T01:03:49Z,1,20:00,00:00,2,0,,,
+123,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454262,2022020454,Period Ready,262,PERIOD_READY,Period Ready,2022-12-14T01:03:54Z,2,00:00,20:00,2,0,,,
+124,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454133,2022020454,Period Start,133,PERIOD_START,Period Start,2022-12-14T01:05:32Z,2,00:00,20:00,2,0,,,
+125,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454134,2022020454,Faceoff,134,FACEOFF,John Tavares faceoff won against Adam Henrique,2022-12-14T01:05:32Z,2,00:00,20:00,2,0,10.0,Toronto Maple Leafs,TOR
+126,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454263,2022020454,Shot,263,SHOT,Mitchell Marner Snap Shot saved by John Gibson,2022-12-14T01:05:54Z,2,00:22,19:38,2,0,10.0,Toronto Maple Leafs,TOR
+127,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454197,2022020454,Stoppage,197,STOP,Goalie Stopped,2022-12-14T01:05:55Z,2,00:23,19:37,2,0,,,
+128,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454135,2022020454,Faceoff,135,FACEOFF,John Tavares faceoff won against Adam Henrique,2022-12-14T01:06:13Z,2,00:23,19:37,2,0,10.0,Toronto Maple Leafs,TOR
+129,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454136,2022020454,Takeaway,136,TAKEAWAY,Takeaway by Adam Henrique,2022-12-14T01:06:35Z,2,00:45,19:15,2,0,24.0,Anaheim Ducks,ANA
+130,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454264,2022020454,Shot,264,SHOT,John Tavares Wrist Shot saved by John Gibson,2022-12-14T01:06:44Z,2,00:54,19:06,2,0,10.0,Toronto Maple Leafs,TOR
+131,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454137,2022020454,Giveaway,137,GIVEAWAY,Giveaway by John Tavares,2022-12-14T01:06:49Z,2,00:59,19:01,2,0,10.0,Toronto Maple Leafs,TOR
+132,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454198,2022020454,Stoppage,198,STOP,Puck in Crowd,2022-12-14T01:06:54Z,2,01:04,18:56,2,0,,,
+133,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454265,2022020454,Shot,265,SHOT,Auston Matthews Wrist Shot saved by John Gibson,2022-12-14T01:06:54Z,2,01:04,18:56,2,0,10.0,Toronto Maple Leafs,TOR
+134,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454138,2022020454,Faceoff,138,FACEOFF,Pierre Engvall faceoff won against Adam Henrique,2022-12-14T01:07:31Z,2,01:04,18:56,2,0,10.0,Toronto Maple Leafs,TOR
+135,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454266,2022020454,Blocked Shot,266,BLOCKED_SHOT,Denis Malgin shot blocked shot by Adam Henrique,2022-12-14T01:07:41Z,2,01:14,18:46,2,0,24.0,Anaheim Ducks,ANA
+136,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454199,2022020454,Hit,199,HIT,Simon Benoit hit Justin Holl,2022-12-14T01:08:16Z,2,01:49,18:11,2,0,24.0,Anaheim Ducks,ANA
+137,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454200,2022020454,Hit,200,HIT,Jayson Megna hit Michael Bunting,2022-12-14T01:08:22Z,2,01:55,18:05,2,0,24.0,Anaheim Ducks,ANA
+138,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454267,2022020454,Shot,267,SHOT,Denis Malgin Wrist Shot saved by John Gibson,2022-12-14T01:08:35Z,2,02:08,17:52,2,0,10.0,Toronto Maple Leafs,TOR
+139,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454401,2022020454,Stoppage,401,STOP,Icing,2022-12-14T01:08:47Z,2,02:20,17:40,2,0,,,
+140,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454139,2022020454,Faceoff,139,FACEOFF,Jayson Megna faceoff won against John Tavares,2022-12-14T01:09:20Z,2,02:20,17:40,2,0,24.0,Anaheim Ducks,ANA
+141,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454268,2022020454,Shot,268,SHOT,John Tavares Wrist Shot saved by John Gibson,2022-12-14T01:09:31Z,2,02:31,17:29,2,0,10.0,Toronto Maple Leafs,TOR
+142,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454402,2022020454,Stoppage,402,STOP,Puck Frozen,2022-12-14T01:09:50Z,2,02:50,17:10,2,0,,,
+143,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454140,2022020454,Faceoff,140,FACEOFF,David Kampf faceoff won against Ryan Strome,2022-12-14T01:10:21Z,2,02:50,17:10,2,0,10.0,Toronto Maple Leafs,TOR
+144,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454141,2022020454,Giveaway,141,GIVEAWAY,Giveaway by Ryan Strome,2022-12-14T01:10:52Z,2,03:21,16:39,2,0,24.0,Anaheim Ducks,ANA
+145,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454404,2022020454,Penalty,404,PENALTY,Dmitry Kulikov Tripping against Joey Anderson,2022-12-14T01:11:19Z,2,03:47,16:13,2,0,24.0,Anaheim Ducks,ANA
+146,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454142,2022020454,Faceoff,142,FACEOFF,Adam Henrique faceoff won against John Tavares,2022-12-14T01:12:04Z,2,03:47,16:13,2,0,24.0,Anaheim Ducks,ANA
+147,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454269,2022020454,Shot,269,SHOT,Kevin Shattenkirk Slap Shot saved by Ilya Samsonov,2022-12-14T01:12:07Z,2,03:50,16:10,2,0,24.0,Anaheim Ducks,ANA
+148,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454270,2022020454,Shot,270,SHOT,John Tavares Wrist Shot saved by John Gibson,2022-12-14T01:12:52Z,2,04:35,15:25,2,0,10.0,Toronto Maple Leafs,TOR
+149,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454407,2022020454,Stoppage,407,STOP,Goalie Stopped,2022-12-14T01:12:52Z,2,04:35,15:25,2,0,,,
+150,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454143,2022020454,Faceoff,143,FACEOFF,John Tavares faceoff won against Mason McTavish,2022-12-14T01:13:23Z,2,04:35,15:25,2,0,10.0,Toronto Maple Leafs,TOR
+151,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454271,2022020454,Shot,271,SHOT,Mitchell Marner Slap Shot saved by John Gibson,2022-12-14T01:13:30Z,2,04:42,15:18,2,0,10.0,Toronto Maple Leafs,TOR
+152,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454272,2022020454,Missed Shot,272,MISSED_SHOT,John Tavares Wide of Net John Gibson,2022-12-14T01:14:16Z,2,05:28,14:32,2,0,10.0,Toronto Maple Leafs,TOR
+153,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454273,2022020454,Blocked Shot,273,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Nathan Beaulieu,2022-12-14T01:14:23Z,2,05:35,14:25,2,0,24.0,Anaheim Ducks,ANA
+154,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454274,2022020454,Blocked Shot,274,BLOCKED_SHOT,William Nylander shot blocked shot by Kevin Shattenkirk,2022-12-14T01:14:40Z,2,05:52,14:08,2,0,24.0,Anaheim Ducks,ANA
+155,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454408,2022020454,Stoppage,408,STOP,Icing,2022-12-14T01:14:49Z,2,06:01,13:59,2,0,,,
+156,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454144,2022020454,Faceoff,144,FACEOFF,Ryan Strome faceoff won against David Kampf,2022-12-14T01:15:27Z,2,06:01,13:59,2,0,24.0,Anaheim Ducks,ANA
+157,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454409,2022020454,Stoppage,409,STOP,Icing,2022-12-14T01:15:47Z,2,06:22,13:38,2,0,,,
+158,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454145,2022020454,Faceoff,145,FACEOFF,David Kampf faceoff won against Ryan Strome,2022-12-14T01:16:14Z,2,06:22,13:38,2,0,10.0,Toronto Maple Leafs,TOR
+159,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454146,2022020454,Takeaway,146,TAKEAWAY,Takeaway by Alexander Kerfoot,2022-12-14T01:16:30Z,2,06:38,13:22,2,0,10.0,Toronto Maple Leafs,TOR
+160,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454410,2022020454,Hit,410,HIT,Alexander Kerfoot hit Trevor Zegras,2022-12-14T01:16:42Z,2,06:50,13:10,2,0,10.0,Toronto Maple Leafs,TOR
+161,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454411,2022020454,Stoppage,411,STOP,Puck in Benches,2022-12-14T01:16:45Z,2,06:52,13:08,2,0,,,
+162,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454147,2022020454,Faceoff,147,FACEOFF,Mason McTavish faceoff won against David Kampf,2022-12-14T01:19:06Z,2,06:52,13:08,2,0,24.0,Anaheim Ducks,ANA
+163,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454412,2022020454,Hit,412,HIT,Justin Holl hit Max Comtois,2022-12-14T01:19:12Z,2,06:58,13:02,2,0,10.0,Toronto Maple Leafs,TOR
+164,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454275,2022020454,Blocked Shot,275,BLOCKED_SHOT,John Klingberg shot blocked shot by Mark Giordano,2022-12-14T01:19:18Z,2,07:04,12:56,2,0,10.0,Toronto Maple Leafs,TOR
+165,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454276,2022020454,Missed Shot,276,MISSED_SHOT,Mason McTavish Wide of Net Ilya Samsonov,2022-12-14T01:19:29Z,2,07:15,12:45,2,0,24.0,Anaheim Ducks,ANA
+166,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454148,2022020454,Giveaway,148,GIVEAWAY,Giveaway by Cam Fowler,2022-12-14T01:19:38Z,2,07:24,12:36,2,0,24.0,Anaheim Ducks,ANA
+167,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454413,2022020454,Hit,413,HIT,Brett Leason hit Mark Giordano,2022-12-14T01:19:47Z,2,07:33,12:27,2,0,24.0,Anaheim Ducks,ANA
+168,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454414,2022020454,Stoppage,414,STOP,Puck Frozen,2022-12-14T01:19:58Z,2,07:45,12:15,2,0,,,
+169,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454149,2022020454,Faceoff,149,FACEOFF,Adam Henrique faceoff won against Denis Malgin,2022-12-14T01:20:36Z,2,07:45,12:15,2,0,24.0,Anaheim Ducks,ANA
+170,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454150,2022020454,Giveaway,150,GIVEAWAY,Giveaway by Ilya Samsonov,2022-12-14T01:20:55Z,2,08:04,11:56,2,0,10.0,Toronto Maple Leafs,TOR
+171,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454415,2022020454,Stoppage,415,STOP,Icing,2022-12-14T01:21:02Z,2,08:11,11:49,2,0,,,
+172,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454351,2022020454,Faceoff,351,FACEOFF,John Tavares faceoff won against Sam Carrick,2022-12-14T01:21:27Z,2,08:11,11:49,2,0,10.0,Toronto Maple Leafs,TOR
+173,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454277,2022020454,Shot,277,SHOT,Rasmus Sandin Snap Shot saved by John Gibson,2022-12-14T01:21:30Z,2,08:14,11:46,2,0,10.0,Toronto Maple Leafs,TOR
+174,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454416,2022020454,Stoppage,416,STOP,Goalie Stopped,2022-12-14T01:21:31Z,2,08:15,11:45,2,0,,,
+175,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454352,2022020454,Faceoff,352,FACEOFF,Ryan Strome faceoff won against Pontus Holmberg,2022-12-14T01:22:02Z,2,08:15,11:45,2,0,24.0,Anaheim Ducks,ANA
+176,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454418,2022020454,Penalty,418,PENALTY,Nathan Beaulieu Cross-checking against Pontus Holmberg,2022-12-14T01:22:32Z,2,08:45,11:15,2,0,24.0,Anaheim Ducks,ANA
+177,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454353,2022020454,Faceoff,353,FACEOFF,Adam Henrique faceoff won against Pierre Engvall,2022-12-14T01:23:08Z,2,08:45,11:15,2,0,24.0,Anaheim Ducks,ANA
+178,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454279,2022020454,Shot,279,SHOT,Michael Bunting Wrist Shot saved by John Gibson,2022-12-14T01:23:52Z,2,09:29,10:31,2,0,10.0,Toronto Maple Leafs,TOR
+179,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454280,2022020454,Shot,280,SHOT,William Nylander Wrist Shot saved by John Gibson,2022-12-14T01:24:26Z,2,10:01,09:59,2,0,10.0,Toronto Maple Leafs,TOR
+180,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454281,2022020454,Shot,281,SHOT,William Nylander Wrist Shot saved by John Gibson,2022-12-14T01:24:36Z,2,10:11,09:49,2,0,10.0,Toronto Maple Leafs,TOR
+181,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454282,2022020454,Shot,282,SHOT,John Tavares Wrist Shot saved by John Gibson,2022-12-14T01:24:38Z,2,10:13,09:47,2,0,10.0,Toronto Maple Leafs,TOR
+182,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454283,2022020454,Shot,283,SHOT,John Tavares Wrist Shot saved by John Gibson,2022-12-14T01:24:39Z,2,10:14,09:46,2,0,10.0,Toronto Maple Leafs,TOR
+183,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454284,2022020454,Missed Shot,284,MISSED_SHOT,John Tavares Wide of Net John Gibson,2022-12-14T01:24:47Z,2,10:22,09:38,2,0,10.0,Toronto Maple Leafs,TOR
+184,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454285,2022020454,Blocked Shot,285,BLOCKED_SHOT,Auston Matthews shot blocked shot by Kevin Shattenkirk,2022-12-14T01:24:59Z,2,10:34,09:26,2,0,24.0,Anaheim Ducks,ANA
+185,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454286,2022020454,Blocked Shot,286,BLOCKED_SHOT,Rasmus Sandin shot blocked shot by Frank Vatrano,2022-12-14T01:25:13Z,2,10:48,09:12,2,0,24.0,Anaheim Ducks,ANA
+186,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454421,2022020454,Stoppage,421,STOP,Puck in Netting,2022-12-14T01:25:13Z,2,10:48,09:12,2,0,,,
+187,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454354,2022020454,Faceoff,354,FACEOFF,Ryan Strome faceoff won against David Kampf,2022-12-14T01:27:35Z,2,10:48,09:12,2,0,24.0,Anaheim Ducks,ANA
+188,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454287,2022020454,Missed Shot,287,MISSED_SHOT,Trevor Zegras Wide of Net Ilya Samsonov,2022-12-14T01:27:53Z,2,11:06,08:54,2,0,24.0,Anaheim Ducks,ANA
+189,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454422,2022020454,Stoppage,422,STOP,Net Dislodged by Goaltender,2022-12-14T01:28:03Z,2,11:17,08:43,2,0,,,
+190,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454355,2022020454,Faceoff,355,FACEOFF,Pontus Holmberg faceoff won against Mason McTavish,2022-12-14T01:28:51Z,2,11:17,08:43,2,0,10.0,Toronto Maple Leafs,TOR
+191,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454356,2022020454,Takeaway,356,TAKEAWAY,Takeaway by Justin Holl,2022-12-14T01:29:25Z,2,11:51,08:09,2,0,10.0,Toronto Maple Leafs,TOR
+192,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454423,2022020454,Hit,423,HIT,Simon Benoit hit Pontus Holmberg,2022-12-14T01:29:34Z,2,12:00,08:00,2,0,24.0,Anaheim Ducks,ANA
+193,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454357,2022020454,Giveaway,357,GIVEAWAY,Giveaway by Pontus Holmberg,2022-12-14T01:29:35Z,2,12:01,07:59,2,0,10.0,Toronto Maple Leafs,TOR
+194,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454289,2022020454,Goal,289,GOAL,"TJ Brodie (1) Wrist Shot, assists: Conor Timmins (4), Auston Matthews (20)",2022-12-14T01:29:50Z,2,12:16,07:44,3,0,10.0,Toronto Maple Leafs,TOR
+195,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454358,2022020454,Faceoff,358,FACEOFF,Ryan Strome faceoff won against Auston Matthews,2022-12-14T01:30:42Z,2,12:16,07:44,3,0,24.0,Anaheim Ducks,ANA
+196,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454424,2022020454,Stoppage,424,STOP,Puck in Crowd,2022-12-14T01:30:47Z,2,12:20,07:40,3,0,,,
+197,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454359,2022020454,Faceoff,359,FACEOFF,Ryan Strome faceoff won against Auston Matthews,2022-12-14T01:31:07Z,2,12:20,07:40,3,0,24.0,Anaheim Ducks,ANA
+198,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454290,2022020454,Shot,290,SHOT,Ryan Strome Tip-In saved by Ilya Samsonov,2022-12-14T01:31:42Z,2,12:56,07:04,3,0,24.0,Anaheim Ducks,ANA
+199,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454425,2022020454,Stoppage,425,STOP,Goalie Stopped,2022-12-14T01:31:42Z,2,12:56,07:04,3,0,,,
+200,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454360,2022020454,Faceoff,360,FACEOFF,John Tavares faceoff won against Mason McTavish,2022-12-14T01:32:11Z,2,12:56,07:04,3,0,10.0,Toronto Maple Leafs,TOR
+201,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454427,2022020454,Hit,427,HIT,Mason McTavish hit John Tavares,2022-12-14T01:32:29Z,2,13:14,06:46,3,0,24.0,Anaheim Ducks,ANA
+202,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454361,2022020454,Takeaway,361,TAKEAWAY,Takeaway by Rasmus Sandin,2022-12-14T01:32:36Z,2,13:21,06:39,3,0,10.0,Toronto Maple Leafs,TOR
+203,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454291,2022020454,Shot,291,SHOT,Max Comtois Wrist Shot saved by Ilya Samsonov,2022-12-14T01:32:45Z,2,13:30,06:30,3,0,24.0,Anaheim Ducks,ANA
+204,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454428,2022020454,Stoppage,428,STOP,Goalie Stopped,2022-12-14T01:32:46Z,2,13:31,06:29,3,0,,,
+205,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454362,2022020454,Faceoff,362,FACEOFF,David Kampf faceoff won against Adam Henrique,2022-12-14T01:33:20Z,2,13:31,06:29,3,0,10.0,Toronto Maple Leafs,TOR
+206,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454429,2022020454,Stoppage,429,STOP,Icing,2022-12-14T01:33:27Z,2,13:38,06:22,3,0,,,
+207,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454363,2022020454,Faceoff,363,FACEOFF,Adam Henrique faceoff won against David Kampf,2022-12-14T01:33:56Z,2,13:38,06:22,3,0,24.0,Anaheim Ducks,ANA
+208,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454364,2022020454,Takeaway,364,TAKEAWAY,Takeaway by Trevor Zegras,2022-12-14T01:34:34Z,2,14:16,05:44,3,0,24.0,Anaheim Ducks,ANA
+209,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454430,2022020454,Hit,430,HIT,Kevin Shattenkirk hit David Kampf,2022-12-14T01:34:35Z,2,14:17,05:43,3,0,24.0,Anaheim Ducks,ANA
+210,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454431,2022020454,Hit,431,HIT,Nathan Beaulieu hit Zach Aston-Reese,2022-12-14T01:35:26Z,2,15:08,04:52,3,0,24.0,Anaheim Ducks,ANA
+211,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454292,2022020454,Missed Shot,292,MISSED_SHOT,Zach Aston-Reese Wide of Net Lukas Dostal,2022-12-14T01:35:34Z,2,15:16,04:44,3,0,10.0,Toronto Maple Leafs,TOR
+212,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454365,2022020454,Giveaway,365,GIVEAWAY,Giveaway by Troy Terry,2022-12-14T01:35:58Z,2,15:40,04:20,3,0,24.0,Anaheim Ducks,ANA
+213,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454293,2022020454,Shot,293,SHOT,William Nylander Wrist Shot saved by Lukas Dostal,2022-12-14T01:36:02Z,2,15:44,04:16,3,0,10.0,Toronto Maple Leafs,TOR
+214,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454432,2022020454,Stoppage,432,STOP,Net Dislodged Defensive Skater,2022-12-14T01:36:04Z,2,15:46,04:14,3,0,,,
+215,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454366,2022020454,Faceoff,366,FACEOFF,Auston Matthews faceoff won against Mason McTavish,2022-12-14T01:37:06Z,2,15:46,04:14,3,0,10.0,Toronto Maple Leafs,TOR
+216,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454294,2022020454,Shot,294,SHOT,Mason McTavish Wrist Shot saved by Ilya Samsonov,2022-12-14T01:37:24Z,2,16:04,03:56,3,0,24.0,Anaheim Ducks,ANA
+217,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454295,2022020454,Shot,295,SHOT,Michael Bunting Tip-In saved by Lukas Dostal,2022-12-14T01:37:53Z,2,16:33,03:27,3,0,10.0,Toronto Maple Leafs,TOR
+218,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454296,2022020454,Goal,296,GOAL,"Michael Bunting (6) Backhand, assists: John Tavares (16), Mitchell Marner (25)",2022-12-14T01:37:53Z,2,16:33,03:27,4,0,10.0,Toronto Maple Leafs,TOR
+219,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454367,2022020454,Faceoff,367,FACEOFF,John Tavares faceoff won against Trevor Zegras,2022-12-14T01:38:33Z,2,16:33,03:27,4,0,10.0,Toronto Maple Leafs,TOR
+220,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454433,2022020454,Hit,433,HIT,Adam Henrique hit Justin Holl,2022-12-14T01:38:45Z,2,16:45,03:15,4,0,24.0,Anaheim Ducks,ANA
+221,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454434,2022020454,Hit,434,HIT,Denis Malgin hit Kevin Shattenkirk,2022-12-14T01:39:05Z,2,17:05,02:55,4,0,10.0,Toronto Maple Leafs,TOR
+222,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454435,2022020454,Hit,435,HIT,Kevin Shattenkirk hit Denis Malgin,2022-12-14T01:39:11Z,2,17:11,02:49,4,0,24.0,Anaheim Ducks,ANA
+223,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454436,2022020454,Stoppage,436,STOP,Puck Frozen,2022-12-14T01:39:53Z,2,17:53,02:07,4,0,,,
+224,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454368,2022020454,Faceoff,368,FACEOFF,Sam Carrick faceoff won against Zach Aston-Reese,2022-12-14T01:40:45Z,2,17:53,02:07,4,0,24.0,Anaheim Ducks,ANA
+225,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454437,2022020454,Hit,437,HIT,Sam Carrick hit Rasmus Sandin,2022-12-14T01:41:10Z,2,18:18,01:42,4,0,24.0,Anaheim Ducks,ANA
+226,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454438,2022020454,Stoppage,438,STOP,Icing,2022-12-14T01:41:16Z,2,18:24,01:36,4,0,,,
+227,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454369,2022020454,Faceoff,369,FACEOFF,Ryan Strome faceoff won against Pontus Holmberg,2022-12-14T01:41:50Z,2,18:24,01:36,4,0,24.0,Anaheim Ducks,ANA
+228,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454297,2022020454,Shot,297,SHOT,Troy Terry Deflected saved by Ilya Samsonov,2022-12-14T01:42:26Z,2,19:00,01:00,4,0,24.0,Anaheim Ducks,ANA
+229,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454439,2022020454,Stoppage,439,STOP,Puck Frozen,2022-12-14T01:42:26Z,2,19:00,01:00,4,0,,,
+230,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454370,2022020454,Faceoff,370,FACEOFF,David Kampf faceoff won against Mason McTavish,2022-12-14T01:45:08Z,2,19:00,01:00,4,0,10.0,Toronto Maple Leafs,TOR
+231,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454298,2022020454,Missed Shot,298,MISSED_SHOT,Simon Benoit Wide of Net Ilya Samsonov,2022-12-14T01:45:54Z,2,19:45,00:15,4,0,24.0,Anaheim Ducks,ANA
+232,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454440,2022020454,Stoppage,440,STOP,Puck Frozen,2022-12-14T01:45:54Z,2,19:45,00:15,4,0,,,
+233,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454371,2022020454,Faceoff,371,FACEOFF,Ryan Strome faceoff won against John Tavares,2022-12-14T01:46:27Z,2,19:45,00:15,4,0,24.0,Anaheim Ducks,ANA
+234,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454299,2022020454,Shot,299,SHOT,Kevin Shattenkirk Slap Shot saved by Ilya Samsonov,2022-12-14T01:46:30Z,2,19:49,00:11,4,0,24.0,Anaheim Ducks,ANA
+235,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454300,2022020454,Period End,300,PERIOD_END,End of 2nd Period,2022-12-14T01:46:41Z,2,20:00,00:00,4,0,,,
+236,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454553,2022020454,Period Official,553,PERIOD_OFFICIAL,Period Official,2022-12-14T02:02:08Z,2,20:00,00:00,4,0,,,
+237,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454554,2022020454,Period Ready,554,PERIOD_READY,Period Ready,2022-12-14T02:02:12Z,3,00:00,20:00,4,0,,,
+238,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454372,2022020454,Period Start,372,PERIOD_START,Period Start,2022-12-14T02:05:28Z,3,00:00,20:00,4,0,,,
+239,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454373,2022020454,Faceoff,373,FACEOFF,John Tavares faceoff won against Trevor Zegras,2022-12-14T02:05:28Z,3,00:00,20:00,4,0,10.0,Toronto Maple Leafs,TOR
+240,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454374,2022020454,Giveaway,374,GIVEAWAY,Giveaway by Jakob Silfverberg,2022-12-14T02:05:46Z,3,00:18,19:42,4,0,24.0,Anaheim Ducks,ANA
+241,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454375,2022020454,Takeaway,375,TAKEAWAY,Takeaway by Auston Matthews,2022-12-14T02:06:31Z,3,01:03,18:57,4,0,10.0,Toronto Maple Leafs,TOR
+242,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454555,2022020454,Shot,555,SHOT,William Nylander Backhand saved by Lukas Dostal,2022-12-14T02:06:54Z,3,01:26,18:34,4,0,10.0,Toronto Maple Leafs,TOR
+243,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454441,2022020454,Stoppage,441,STOP,Icing,2022-12-14T02:06:59Z,3,01:31,18:29,4,0,,,
+244,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454376,2022020454,Faceoff,376,FACEOFF,Ryan Strome faceoff won against Pontus Holmberg,2022-12-14T02:07:23Z,3,01:31,18:29,4,0,24.0,Anaheim Ducks,ANA
+245,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454442,2022020454,Stoppage,442,STOP,Goalie Stopped,2022-12-14T02:07:48Z,3,01:56,18:04,4,0,,,
+246,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454556,2022020454,Shot,556,SHOT,Zach Aston-Reese Wrist Shot saved by Lukas Dostal,2022-12-14T02:07:48Z,3,01:56,18:04,4,0,10.0,Toronto Maple Leafs,TOR
+247,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454377,2022020454,Faceoff,377,FACEOFF,Pontus Holmberg faceoff won against Mason McTavish,2022-12-14T02:08:14Z,3,01:56,18:04,4,0,10.0,Toronto Maple Leafs,TOR
+248,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454378,2022020454,Takeaway,378,TAKEAWAY,Takeaway by Pontus Holmberg,2022-12-14T02:08:42Z,3,02:24,17:36,4,0,10.0,Toronto Maple Leafs,TOR
+249,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454557,2022020454,Goal,557,GOAL,"Alexander Kerfoot (4) Wrist Shot, assists: Mark Giordano (7), Pontus Holmberg (3)",2022-12-14T02:08:54Z,3,02:37,17:23,5,0,10.0,Toronto Maple Leafs,TOR
+250,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454379,2022020454,Faceoff,379,FACEOFF,David Kampf faceoff won against Sam Carrick,2022-12-14T02:09:31Z,3,02:37,17:23,5,0,10.0,Toronto Maple Leafs,TOR
+251,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454443,2022020454,Hit,443,HIT,Simon Benoit hit Denis Malgin,2022-12-14T02:10:44Z,3,03:50,16:10,5,0,24.0,Anaheim Ducks,ANA
+252,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454558,2022020454,Shot,558,SHOT,Michael Bunting Deflected saved by Lukas Dostal,2022-12-14T02:10:59Z,3,04:05,15:55,5,0,10.0,Toronto Maple Leafs,TOR
+253,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454380,2022020454,Takeaway,380,TAKEAWAY,Takeaway by Conor Timmins,2022-12-14T02:11:09Z,3,04:15,15:45,5,0,10.0,Toronto Maple Leafs,TOR
+254,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454560,2022020454,Missed Shot,560,MISSED_SHOT,Michael Bunting Wide of Net Lukas Dostal,2022-12-14T02:11:22Z,3,04:28,15:32,5,0,10.0,Toronto Maple Leafs,TOR
+255,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454561,2022020454,Missed Shot,561,MISSED_SHOT,Zach Aston-Reese Wide of Net Lukas Dostal,2022-12-14T02:12:09Z,3,05:15,14:45,5,0,10.0,Toronto Maple Leafs,TOR
+256,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454562,2022020454,Goal,562,GOAL,"Pierre Engvall (5) Wrist Shot, assists: Rasmus Sandin (10), Pontus Holmberg (4)",2022-12-14T02:12:37Z,3,05:42,14:18,6,0,10.0,Toronto Maple Leafs,TOR
+257,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454381,2022020454,Faceoff,381,FACEOFF,David Kampf faceoff won against Adam Henrique,2022-12-14T02:13:25Z,3,05:42,14:18,6,0,10.0,Toronto Maple Leafs,TOR
+258,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454382,2022020454,Takeaway,382,TAKEAWAY,Takeaway by Jakob Silfverberg,2022-12-14T02:13:41Z,3,05:58,14:02,6,0,24.0,Anaheim Ducks,ANA
+259,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454563,2022020454,Shot,563,SHOT,Pierre Engvall Wrist Shot saved by Lukas Dostal,2022-12-14T02:13:59Z,3,06:16,13:44,6,0,10.0,Toronto Maple Leafs,TOR
+260,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454444,2022020454,Hit,444,HIT,Mason McTavish hit Mitchell Marner,2022-12-14T02:14:26Z,3,06:43,13:17,6,0,24.0,Anaheim Ducks,ANA
+261,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454383,2022020454,Takeaway,383,TAKEAWAY,Takeaway by Conor Timmins,2022-12-14T02:14:36Z,3,06:53,13:07,6,0,10.0,Toronto Maple Leafs,TOR
+262,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454445,2022020454,Stoppage,445,STOP,Icing,2022-12-14T02:14:49Z,3,07:05,12:55,6,0,,,
+263,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454384,2022020454,Faceoff,384,FACEOFF,John Tavares faceoff won against Ryan Strome,2022-12-14T02:15:13Z,3,07:05,12:55,6,0,10.0,Toronto Maple Leafs,TOR
+264,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454446,2022020454,Hit,446,HIT,Joey Anderson hit Troy Terry,2022-12-14T02:15:51Z,3,07:43,12:17,6,0,10.0,Toronto Maple Leafs,TOR
+265,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454447,2022020454,Hit,447,HIT,Adam Henrique hit Justin Holl,2022-12-14T02:16:10Z,3,08:02,11:58,6,0,24.0,Anaheim Ducks,ANA
+266,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454385,2022020454,Takeaway,385,TAKEAWAY,Takeaway by Adam Henrique,2022-12-14T02:16:32Z,3,08:24,11:36,6,0,24.0,Anaheim Ducks,ANA
+267,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454564,2022020454,Missed Shot,564,MISSED_SHOT,Adam Henrique Wide of Net Ilya Samsonov,2022-12-14T02:16:38Z,3,08:30,11:30,6,0,24.0,Anaheim Ducks,ANA
+268,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454565,2022020454,Shot,565,SHOT,Kevin Shattenkirk Wrist Shot saved by Ilya Samsonov,2022-12-14T02:16:56Z,3,08:48,11:12,6,0,24.0,Anaheim Ducks,ANA
+269,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454448,2022020454,Stoppage,448,STOP,Goalie Stopped,2022-12-14T02:17:07Z,3,08:59,11:01,6,0,,,
+270,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454566,2022020454,Shot,566,SHOT,Trevor Zegras Deflected saved by Ilya Samsonov,2022-12-14T02:17:07Z,3,08:59,11:01,6,0,24.0,Anaheim Ducks,ANA
+271,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454386,2022020454,Faceoff,386,FACEOFF,Mason McTavish faceoff won against David Kampf,2022-12-14T02:19:28Z,3,08:59,11:01,6,0,24.0,Anaheim Ducks,ANA
+272,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454567,2022020454,Missed Shot,567,MISSED_SHOT,Kevin Shattenkirk Wide of Net Ilya Samsonov,2022-12-14T02:19:34Z,3,09:05,10:55,6,0,24.0,Anaheim Ducks,ANA
+273,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454449,2022020454,Stoppage,449,STOP,Goalie Stopped,2022-12-14T02:19:40Z,3,09:12,10:48,6,0,,,
+274,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454569,2022020454,Shot,569,SHOT,Simon Benoit Wrist Shot saved by Ilya Samsonov,2022-12-14T02:19:40Z,3,09:12,10:48,6,0,24.0,Anaheim Ducks,ANA
+275,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454387,2022020454,Faceoff,387,FACEOFF,David Kampf faceoff won against Ryan Strome,2022-12-14T02:20:06Z,3,09:12,10:48,6,0,10.0,Toronto Maple Leafs,TOR
+276,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454450,2022020454,Hit,450,HIT,Kevin Shattenkirk hit Pierre Engvall,2022-12-14T02:20:23Z,3,09:29,10:31,6,0,24.0,Anaheim Ducks,ANA
+277,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454601,2022020454,Hit,601,HIT,Ryan Strome hit Pierre Engvall,2022-12-14T02:20:40Z,3,09:46,10:14,6,0,24.0,Anaheim Ducks,ANA
+278,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454570,2022020454,Shot,570,SHOT,Justin Holl Wrist Shot saved by Lukas Dostal,2022-12-14T02:20:52Z,3,09:58,10:02,6,0,10.0,Toronto Maple Leafs,TOR
+279,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454571,2022020454,Missed Shot,571,MISSED_SHOT,Mark Giordano Wide of Net Lukas Dostal,2022-12-14T02:20:57Z,3,10:03,09:57,6,0,10.0,Toronto Maple Leafs,TOR
+280,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454572,2022020454,Missed Shot,572,MISSED_SHOT,Mark Giordano Wide of Net Lukas Dostal,2022-12-14T02:21:15Z,3,10:21,09:39,6,0,10.0,Toronto Maple Leafs,TOR
+281,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454602,2022020454,Stoppage,602,STOP,Hand Pass,2022-12-14T02:21:24Z,3,10:30,09:30,6,0,,,
+282,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454389,2022020454,Faceoff,389,FACEOFF,Pontus Holmberg faceoff won against Trevor Zegras,2022-12-14T02:23:45Z,3,10:30,09:30,6,0,10.0,Toronto Maple Leafs,TOR
+283,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454390,2022020454,Takeaway,390,TAKEAWAY,Takeaway by Pontus Holmberg,2022-12-14T02:24:03Z,3,10:48,09:12,6,0,10.0,Toronto Maple Leafs,TOR
+284,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454573,2022020454,Blocked Shot,573,BLOCKED_SHOT,Timothy Liljegren shot blocked shot by Jakob Silfverberg,2022-12-14T02:24:13Z,3,10:58,09:02,6,0,24.0,Anaheim Ducks,ANA
+285,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454575,2022020454,Shot,575,SHOT,Timothy Liljegren Wrist Shot saved by Lukas Dostal,2022-12-14T02:24:22Z,3,11:07,08:53,6,0,10.0,Toronto Maple Leafs,TOR
+286,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454603,2022020454,Stoppage,603,STOP,Goalie Stopped,2022-12-14T02:24:22Z,3,11:07,08:53,6,0,,,
+287,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454391,2022020454,Faceoff,391,FACEOFF,John Tavares faceoff won against Mason McTavish,2022-12-14T02:24:54Z,3,11:07,08:53,6,0,10.0,Toronto Maple Leafs,TOR
+288,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454576,2022020454,Missed Shot,576,MISSED_SHOT,John Tavares Wide of Net Lukas Dostal,2022-12-14T02:25:01Z,3,11:14,08:46,6,0,10.0,Toronto Maple Leafs,TOR
+289,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454577,2022020454,Missed Shot,577,MISSED_SHOT,Auston Matthews Wide of Net Lukas Dostal,2022-12-14T02:25:55Z,3,12:08,07:52,6,0,10.0,Toronto Maple Leafs,TOR
+290,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454578,2022020454,Blocked Shot,578,BLOCKED_SHOT,Mark Giordano shot blocked shot by Jayson Megna,2022-12-14T02:26:01Z,3,12:14,07:46,6,0,24.0,Anaheim Ducks,ANA
+291,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454604,2022020454,Stoppage,604,STOP,Puck Frozen,2022-12-14T02:26:26Z,3,12:40,07:20,6,0,,,
+292,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454392,2022020454,Faceoff,392,FACEOFF,David Kampf faceoff won against Adam Henrique,2022-12-14T02:26:57Z,3,12:40,07:20,6,0,10.0,Toronto Maple Leafs,TOR
+293,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454579,2022020454,Missed Shot,579,MISSED_SHOT,Alexander Kerfoot Wide of Net Lukas Dostal,2022-12-14T02:27:01Z,3,12:44,07:16,6,0,10.0,Toronto Maple Leafs,TOR
+294,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454605,2022020454,Hit,605,HIT,Colton White hit David Kampf,2022-12-14T02:27:13Z,3,12:56,07:04,6,0,24.0,Anaheim Ducks,ANA
+295,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454393,2022020454,Giveaway,393,GIVEAWAY,Giveaway by Troy Terry,2022-12-14T02:27:22Z,3,13:05,06:55,6,0,24.0,Anaheim Ducks,ANA
+296,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454607,2022020454,Hit,607,HIT,Alexander Kerfoot hit Jakob Silfverberg,2022-12-14T02:27:36Z,3,13:19,06:41,6,0,10.0,Toronto Maple Leafs,TOR
+297,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454606,2022020454,Hit,606,HIT,Nathan Beaulieu hit Conor Timmins,2022-12-14T02:27:38Z,3,13:21,06:39,6,0,24.0,Anaheim Ducks,ANA
+298,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454394,2022020454,Takeaway,394,TAKEAWAY,Takeaway by Jayson Megna,2022-12-14T02:28:08Z,3,13:51,06:09,6,0,24.0,Anaheim Ducks,ANA
+299,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454580,2022020454,Shot,580,SHOT,Justin Holl Snap Shot saved by Lukas Dostal,2022-12-14T02:28:28Z,3,14:11,05:49,6,0,10.0,Toronto Maple Leafs,TOR
+300,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454608,2022020454,Stoppage,608,STOP,Goalie Stopped,2022-12-14T02:28:28Z,3,14:11,05:49,6,0,,,
+301,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454395,2022020454,Faceoff,395,FACEOFF,Ryan Strome faceoff won against Zach Aston-Reese,2022-12-14T02:30:56Z,3,14:11,05:49,6,0,24.0,Anaheim Ducks,ANA
+302,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454609,2022020454,Hit,609,HIT,Colton White hit Alexander Kerfoot,2022-12-14T02:31:57Z,3,15:12,04:48,6,0,24.0,Anaheim Ducks,ANA
+303,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454610,2022020454,Hit,610,HIT,Max Comtois hit TJ Brodie,2022-12-14T02:32:27Z,3,15:42,04:18,6,0,24.0,Anaheim Ducks,ANA
+304,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454611,2022020454,Hit,611,HIT,John Tavares hit John Klingberg,2022-12-14T02:32:29Z,3,15:44,04:16,6,0,10.0,Toronto Maple Leafs,TOR
+305,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454581,2022020454,Missed Shot,581,MISSED_SHOT,Jayson Megna Wide of Net Ilya Samsonov,2022-12-14T02:33:22Z,3,16:37,03:23,6,0,24.0,Anaheim Ducks,ANA
+306,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454582,2022020454,Shot,582,SHOT,Kevin Shattenkirk Slap Shot saved by Ilya Samsonov,2022-12-14T02:33:31Z,3,16:46,03:14,6,0,24.0,Anaheim Ducks,ANA
+307,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454612,2022020454,Hit,612,HIT,Pierre Engvall hit Colton White,2022-12-14T02:33:55Z,3,17:10,02:50,6,0,10.0,Toronto Maple Leafs,TOR
+308,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454583,2022020454,Shot,583,SHOT,Max Comtois Backhand saved by Ilya Samsonov,2022-12-14T02:34:42Z,3,17:57,02:03,6,0,24.0,Anaheim Ducks,ANA
+309,10,24,Toronto Maple Leafs,Anaheim Ducks,20220204541151,2022020454,Shot,1151,SHOT,Zach Aston-Reese Wrist Shot saved by Lukas Dostal,2022-12-14T02:34:46Z,3,18:01,01:59,6,0,10.0,Toronto Maple Leafs,TOR
+310,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454613,2022020454,Stoppage,613,STOP,Puck in Netting,2022-12-14T02:34:48Z,3,18:04,01:56,6,0,,,
+311,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454396,2022020454,Faceoff,396,FACEOFF,Pontus Holmberg faceoff won against Sam Carrick,2022-12-14T02:35:16Z,3,18:04,01:56,6,0,10.0,Toronto Maple Leafs,TOR
+312,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454586,2022020454,Blocked Shot,586,BLOCKED_SHOT,Rasmus Sandin shot blocked shot by John Klingberg,2022-12-14T02:35:30Z,3,18:18,01:42,6,0,24.0,Anaheim Ducks,ANA
+313,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454587,2022020454,Goal,587,GOAL,"Joey Anderson (1) Wrist Shot, assists: Pontus Holmberg (5), Rasmus Sandin (11)",2022-12-14T02:35:33Z,3,18:20,01:40,7,0,10.0,Toronto Maple Leafs,TOR
+314,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454397,2022020454,Faceoff,397,FACEOFF,David Kampf faceoff won against Trevor Zegras,2022-12-14T02:36:20Z,3,18:20,01:40,7,0,10.0,Toronto Maple Leafs,TOR
+315,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454588,2022020454,Blocked Shot,588,BLOCKED_SHOT,Alexander Kerfoot shot blocked shot by Troy Terry,2022-12-14T02:36:40Z,3,18:40,01:20,7,0,24.0,Anaheim Ducks,ANA
+316,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454589,2022020454,Shot,589,SHOT,Adam Henrique Wrist Shot saved by Ilya Samsonov,2022-12-14T02:36:50Z,3,18:50,01:10,7,0,24.0,Anaheim Ducks,ANA
+317,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454617,2022020454,Penalty,617,PENALTY,David Kampf Roughing against Adam Henrique,2022-12-14T02:36:51Z,3,18:51,01:09,7,0,10.0,Toronto Maple Leafs,TOR
+318,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454620,2022020454,Penalty,620,PENALTY,Trevor Zegras Roughing against David Kampf,2022-12-14T02:36:51Z,3,18:51,01:09,7,0,24.0,Anaheim Ducks,ANA
+319,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454398,2022020454,Faceoff,398,FACEOFF,Ryan Strome faceoff won against Pontus Holmberg,2022-12-14T02:39:38Z,3,18:51,01:09,7,0,24.0,Anaheim Ducks,ANA
+320,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454623,2022020454,Hit,623,HIT,TJ Brodie hit Ryan Strome,2022-12-14T02:39:59Z,3,19:12,00:48,7,0,10.0,Toronto Maple Leafs,TOR
+321,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454624,2022020454,Hit,624,HIT,Simon Benoit hit Alexander Kerfoot,2022-12-14T02:40:15Z,3,19:28,00:32,7,0,24.0,Anaheim Ducks,ANA
+322,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454399,2022020454,Giveaway,399,GIVEAWAY,Giveaway by Ilya Samsonov,2022-12-14T02:40:37Z,3,19:50,00:10,7,0,10.0,Toronto Maple Leafs,TOR
+323,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454590,2022020454,Period End,590,PERIOD_END,End of 3rd Period,2022-12-14T02:40:48Z,3,20:00,00:00,7,0,,,
+324,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454593,2022020454,Period Official,593,PERIOD_OFFICIAL,Period Official,2022-12-14T02:41:04Z,3,20:00,00:00,7,0,,,
+325,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454594,2022020454,Game End,594,GAME_END,Game End,2022-12-14T02:41:06Z,3,20:00,00:00,7,0,,,
+326,10,24,Toronto Maple Leafs,Anaheim Ducks,2022020454595,2022020454,Game Official,595,GAME_OFFICIAL,Game Official,2022-12-14T03:01:46Z,3,20:00,00:00,7,0,,,

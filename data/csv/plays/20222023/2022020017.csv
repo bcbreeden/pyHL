@@ -1,0 +1,311 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,30,3,Minnesota Wild,New York Rangers,20220200171,2022020017,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-10-13T23:17:18Z,1,00:00,20:00,0,0,,,
+1,30,3,Minnesota Wild,New York Rangers,20220200175,2022020017,Period Ready,5,PERIOD_READY,Period Ready,2022-10-14T00:08:30Z,1,00:00,20:00,0,0,,,
+2,30,3,Minnesota Wild,New York Rangers,20220200178,2022020017,Period Start,8,PERIOD_START,Period Start,2022-10-14T00:08:42Z,1,00:00,20:00,0,0,,,
+3,30,3,Minnesota Wild,New York Rangers,20220200179,2022020017,Faceoff,9,FACEOFF,Joel Eriksson Ek faceoff won against Mika Zibanejad,2022-10-14T00:08:42Z,1,00:00,20:00,0,0,30.0,Minnesota Wild,MIN
+4,30,3,Minnesota Wild,New York Rangers,2022020017101,2022020017,Hit,101,HIT,K'Andre Miller hit Marcus Foligno,2022-10-14T00:08:50Z,1,00:08,19:52,0,0,3.0,New York Rangers,NYR
+5,30,3,Minnesota Wild,New York Rangers,202202001710,2022020017,Shot,10,SHOT,Marcus Foligno Wrist Shot saved by Igor Shesterkin,2022-10-14T00:08:55Z,1,00:13,19:47,0,0,30.0,Minnesota Wild,MIN
+6,30,3,Minnesota Wild,New York Rangers,202202001711,2022020017,Shot,11,SHOT,Joel Eriksson Ek Wrist Shot saved by Igor Shesterkin,2022-10-14T00:08:57Z,1,00:15,19:45,0,0,30.0,Minnesota Wild,MIN
+7,30,3,Minnesota Wild,New York Rangers,2022020017151,2022020017,Stoppage,151,STOP,Icing,2022-10-14T00:09:13Z,1,00:32,19:28,0,0,,,
+8,30,3,Minnesota Wild,New York Rangers,202202001712,2022020017,Faceoff,12,FACEOFF,Joel Eriksson Ek faceoff won against Vincent Trocheck,2022-10-14T00:09:41Z,1,00:32,19:28,0,0,30.0,Minnesota Wild,MIN
+9,30,3,Minnesota Wild,New York Rangers,2022020017102,2022020017,Hit,102,HIT,Vincent Trocheck hit Alex Goligoski,2022-10-14T00:10:01Z,1,00:52,19:08,0,0,3.0,New York Rangers,NYR
+10,30,3,Minnesota Wild,New York Rangers,2022020017152,2022020017,Stoppage,152,STOP,Puck Frozen,2022-10-14T00:10:06Z,1,00:57,19:03,0,0,,,
+11,30,3,Minnesota Wild,New York Rangers,202202001713,2022020017,Faceoff,13,FACEOFF,Vincent Trocheck faceoff won against Ryan Hartman,2022-10-14T00:10:29Z,1,00:57,19:03,0,0,3.0,New York Rangers,NYR
+12,30,3,Minnesota Wild,New York Rangers,202202001714,2022020017,Missed Shot,14,MISSED_SHOT,Jared Spurgeon Wide of Net Igor Shesterkin,2022-10-14T00:10:41Z,1,01:09,18:51,0,0,30.0,Minnesota Wild,MIN
+13,30,3,Minnesota Wild,New York Rangers,2022020017153,2022020017,Blocked Shot,153,BLOCKED_SHOT,Ryan Hartman shot blocked shot by Vincent Trocheck,2022-10-14T00:10:45Z,1,01:13,18:47,0,0,3.0,New York Rangers,NYR
+14,30,3,Minnesota Wild,New York Rangers,2022020017103,2022020017,Hit,103,HIT,Jake Middleton hit Filip Chytil,2022-10-14T00:11:46Z,1,02:14,17:46,0,0,30.0,Minnesota Wild,MIN
+15,30,3,Minnesota Wild,New York Rangers,2022020017104,2022020017,Hit,104,HIT,Dryden Hunt hit Calen Addison,2022-10-14T00:11:58Z,1,02:26,17:34,0,0,3.0,New York Rangers,NYR
+16,30,3,Minnesota Wild,New York Rangers,2022020017105,2022020017,Hit,105,HIT,Ryan Carpenter hit Matt Boldy,2022-10-14T00:12:03Z,1,02:31,17:29,0,0,3.0,New York Rangers,NYR
+17,30,3,Minnesota Wild,New York Rangers,2022020017106,2022020017,Hit,106,HIT,Alex Goligoski hit Ryan Lindgren,2022-10-14T00:12:42Z,1,03:10,16:50,0,0,30.0,Minnesota Wild,MIN
+18,30,3,Minnesota Wild,New York Rangers,202202001781,2022020017,Penalty,81,PENALTY,Jake Middleton Tripping against Ryan Carpenter,2022-10-14T00:12:43Z,1,03:11,16:49,0,0,30.0,Minnesota Wild,MIN
+19,30,3,Minnesota Wild,New York Rangers,202202001716,2022020017,Faceoff,16,FACEOFF,Vincent Trocheck faceoff won against Joel Eriksson Ek,2022-10-14T00:13:24Z,1,03:11,16:49,0,0,3.0,New York Rangers,NYR
+20,30,3,Minnesota Wild,New York Rangers,2022020017154,2022020017,Shot,154,SHOT,Mika Zibanejad Slap Shot saved by Marc-Andre Fleury,2022-10-14T00:13:37Z,1,03:24,16:36,0,0,3.0,New York Rangers,NYR
+21,30,3,Minnesota Wild,New York Rangers,202202001717,2022020017,Blocked Shot,17,BLOCKED_SHOT,Mika Zibanejad shot blocked shot by Matt Dumba,2022-10-14T00:13:47Z,1,03:34,16:26,0,0,30.0,Minnesota Wild,MIN
+22,30,3,Minnesota Wild,New York Rangers,2022020017155,2022020017,Stoppage,155,STOP,Offside,2022-10-14T00:13:56Z,1,03:43,16:17,0,0,,,
+23,30,3,Minnesota Wild,New York Rangers,202202001718,2022020017,Faceoff,18,FACEOFF,Tyson Jost faceoff won against Vincent Trocheck,2022-10-14T00:14:25Z,1,03:43,16:17,0,0,30.0,Minnesota Wild,MIN
+24,30,3,Minnesota Wild,New York Rangers,202202001719,2022020017,Shot,19,SHOT,Alex Goligoski Wrist Shot saved by Igor Shesterkin,2022-10-14T00:14:25Z,1,03:44,16:16,0,0,30.0,Minnesota Wild,MIN
+25,30,3,Minnesota Wild,New York Rangers,2022020017156,2022020017,Goal,156,GOAL,"Chris Kreider (1) Wrist Shot, assists: Mika Zibanejad (1), Artemi Panarin (2)",2022-10-14T00:14:49Z,1,04:06,15:54,0,1,3.0,New York Rangers,NYR
+26,30,3,Minnesota Wild,New York Rangers,202202001720,2022020017,Faceoff,20,FACEOFF,Sam Steel faceoff won against Filip Chytil,2022-10-14T00:15:40Z,1,04:06,15:54,0,1,30.0,Minnesota Wild,MIN
+27,30,3,Minnesota Wild,New York Rangers,2022020017157,2022020017,Stoppage,157,STOP,Puck in Crowd,2022-10-14T00:15:51Z,1,04:18,15:42,0,1,,,
+28,30,3,Minnesota Wild,New York Rangers,202202001721,2022020017,Faceoff,21,FACEOFF,Filip Chytil faceoff won against Sam Steel,2022-10-14T00:16:17Z,1,04:18,15:42,0,1,3.0,New York Rangers,NYR
+29,30,3,Minnesota Wild,New York Rangers,202202001722,2022020017,Missed Shot,22,MISSED_SHOT,Jonas Brodin Wide of Net Igor Shesterkin,2022-10-14T00:17:28Z,1,05:29,14:31,0,1,30.0,Minnesota Wild,MIN
+30,30,3,Minnesota Wild,New York Rangers,202202001723,2022020017,Shot,23,SHOT,Ryan Hartman Snap Shot saved by Igor Shesterkin,2022-10-14T00:17:50Z,1,05:51,14:09,0,1,30.0,Minnesota Wild,MIN
+31,30,3,Minnesota Wild,New York Rangers,202202001724,2022020017,Blocked Shot,24,BLOCKED_SHOT,Adam Fox shot blocked shot by Jared Spurgeon,2022-10-14T00:18:12Z,1,06:13,13:47,0,1,30.0,Minnesota Wild,MIN
+32,30,3,Minnesota Wild,New York Rangers,2022020017107,2022020017,Hit,107,HIT,Ryan Reaves hit Jake Middleton,2022-10-14T00:18:27Z,1,06:28,13:32,0,1,3.0,New York Rangers,NYR
+33,30,3,Minnesota Wild,New York Rangers,2022020017108,2022020017,Takeaway,108,TAKEAWAY,Takeaway by Jacob Trouba,2022-10-14T00:18:37Z,1,06:38,13:22,0,1,3.0,New York Rangers,NYR
+34,30,3,Minnesota Wild,New York Rangers,2022020017158,2022020017,Stoppage,158,STOP,Offside,2022-10-14T00:18:41Z,1,06:42,13:18,0,1,,,
+35,30,3,Minnesota Wild,New York Rangers,202202001725,2022020017,Faceoff,25,FACEOFF,Ryan Hartman faceoff won against Vincent Trocheck,2022-10-14T00:21:02Z,1,06:42,13:18,0,1,30.0,Minnesota Wild,MIN
+36,30,3,Minnesota Wild,New York Rangers,2022020017160,2022020017,Blocked Shot,160,BLOCKED_SHOT,Alex Goligoski shot blocked shot by Jacob Trouba,2022-10-14T00:21:26Z,1,07:06,12:54,0,1,3.0,New York Rangers,NYR
+37,30,3,Minnesota Wild,New York Rangers,202202001726,2022020017,Shot,26,SHOT,Jared Spurgeon Snap Shot saved by Igor Shesterkin,2022-10-14T00:21:28Z,1,07:08,12:52,0,1,30.0,Minnesota Wild,MIN
+38,30,3,Minnesota Wild,New York Rangers,2022020017159,2022020017,Stoppage,159,STOP,Goalie Stopped,2022-10-14T00:21:29Z,1,07:09,12:51,0,1,,,
+39,30,3,Minnesota Wild,New York Rangers,202202001727,2022020017,Faceoff,27,FACEOFF,Sam Steel faceoff won against Filip Chytil,2022-10-14T00:22:00Z,1,07:09,12:51,0,1,30.0,Minnesota Wild,MIN
+40,30,3,Minnesota Wild,New York Rangers,202202001728,2022020017,Shot,28,SHOT,Matt Boldy Wrist Shot saved by Igor Shesterkin,2022-10-14T00:22:07Z,1,07:16,12:44,0,1,30.0,Minnesota Wild,MIN
+41,30,3,Minnesota Wild,New York Rangers,2022020017109,2022020017,Hit,109,HIT,Matt Boldy hit Ryan Lindgren,2022-10-14T00:22:40Z,1,07:49,12:11,0,1,30.0,Minnesota Wild,MIN
+42,30,3,Minnesota Wild,New York Rangers,2022020017110,2022020017,Takeaway,110,TAKEAWAY,Takeaway by Joel Eriksson Ek,2022-10-14T00:23:07Z,1,08:16,11:44,0,1,30.0,Minnesota Wild,MIN
+43,30,3,Minnesota Wild,New York Rangers,2022020017111,2022020017,Hit,111,HIT,Marcus Foligno hit Mika Zibanejad,2022-10-14T00:23:19Z,1,08:28,11:32,0,1,30.0,Minnesota Wild,MIN
+44,30,3,Minnesota Wild,New York Rangers,202202001729,2022020017,Shot,29,SHOT,Joel Eriksson Ek Snap Shot saved by Igor Shesterkin,2022-10-14T00:23:24Z,1,08:33,11:27,0,1,30.0,Minnesota Wild,MIN
+45,30,3,Minnesota Wild,New York Rangers,2022020017112,2022020017,Giveaway,112,GIVEAWAY,Giveaway by Marcus Foligno,2022-10-14T00:23:37Z,1,08:46,11:14,0,1,30.0,Minnesota Wild,MIN
+46,30,3,Minnesota Wild,New York Rangers,2022020017113,2022020017,Hit,113,HIT,Jacob Trouba hit Connor Dewar,2022-10-14T00:23:54Z,1,09:03,10:57,0,1,3.0,New York Rangers,NYR
+47,30,3,Minnesota Wild,New York Rangers,2022020017114,2022020017,Hit,114,HIT,Brandon Duhaime hit Jacob Trouba,2022-10-14T00:24:26Z,1,09:35,10:25,0,1,30.0,Minnesota Wild,MIN
+48,30,3,Minnesota Wild,New York Rangers,2022020017115,2022020017,Hit,115,HIT,Connor Dewar hit Ryan Carpenter,2022-10-14T00:24:31Z,1,09:40,10:20,0,1,30.0,Minnesota Wild,MIN
+49,30,3,Minnesota Wild,New York Rangers,202202001730,2022020017,Shot,30,SHOT,Matt Dumba Wrist Shot saved by Igor Shesterkin,2022-10-14T00:25:21Z,1,10:30,09:30,0,1,30.0,Minnesota Wild,MIN
+50,30,3,Minnesota Wild,New York Rangers,2022020017116,2022020017,Hit,116,HIT,Kirill Kaprizov hit Ryan Lindgren,2022-10-14T00:25:25Z,1,10:34,09:26,0,1,30.0,Minnesota Wild,MIN
+51,30,3,Minnesota Wild,New York Rangers,202202001731,2022020017,Missed Shot,31,MISSED_SHOT,Ryan Hartman Wide of Net Igor Shesterkin,2022-10-14T00:25:28Z,1,10:37,09:23,0,1,30.0,Minnesota Wild,MIN
+52,30,3,Minnesota Wild,New York Rangers,2022020017161,2022020017,Stoppage,161,STOP,TV timeout,2022-10-14T00:25:35Z,1,10:44,09:16,0,1,,,
+53,30,3,Minnesota Wild,New York Rangers,2022020017247,2022020017,Penalty,247,PENALTY,Ryan Lindgren Cross-checking against Kirill Kaprizov,2022-10-14T00:25:35Z,1,10:44,09:16,0,1,3.0,New York Rangers,NYR
+54,30,3,Minnesota Wild,New York Rangers,202202001732,2022020017,Faceoff,32,FACEOFF,Mika Zibanejad faceoff won against Joel Eriksson Ek,2022-10-14T00:28:13Z,1,10:44,09:16,0,1,3.0,New York Rangers,NYR
+55,30,3,Minnesota Wild,New York Rangers,202202001733,2022020017,Shot,33,SHOT,Joel Eriksson Ek Backhand saved by Igor Shesterkin,2022-10-14T00:28:23Z,1,10:54,09:06,0,1,30.0,Minnesota Wild,MIN
+56,30,3,Minnesota Wild,New York Rangers,2022020017163,2022020017,Blocked Shot,163,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by Jacob Trouba,2022-10-14T00:28:23Z,1,10:54,09:06,0,1,3.0,New York Rangers,NYR
+57,30,3,Minnesota Wild,New York Rangers,202202001734,2022020017,Shot,34,SHOT,Kirill Kaprizov Snap Shot saved by Igor Shesterkin,2022-10-14T00:28:30Z,1,11:01,08:59,0,1,30.0,Minnesota Wild,MIN
+58,30,3,Minnesota Wild,New York Rangers,202202001735,2022020017,Shot,35,SHOT,Joel Eriksson Ek Snap Shot saved by Igor Shesterkin,2022-10-14T00:28:38Z,1,11:09,08:51,0,1,30.0,Minnesota Wild,MIN
+59,30,3,Minnesota Wild,New York Rangers,202202001736,2022020017,Shot,36,SHOT,Kirill Kaprizov Snap Shot saved by Igor Shesterkin,2022-10-14T00:28:59Z,1,11:30,08:30,0,1,30.0,Minnesota Wild,MIN
+60,30,3,Minnesota Wild,New York Rangers,2022020017164,2022020017,Shot,164,SHOT,Adam Fox Wrist Shot saved by Marc-Andre Fleury,2022-10-14T00:29:36Z,1,12:07,07:53,0,1,3.0,New York Rangers,NYR
+61,30,3,Minnesota Wild,New York Rangers,2022020017362,2022020017,Penalty,362,PENALTY,Ryan Hartman Tripping against Vincent Trocheck,2022-10-14T00:30:03Z,1,12:34,07:26,0,1,30.0,Minnesota Wild,MIN
+62,30,3,Minnesota Wild,New York Rangers,202202001746,2022020017,Faceoff,46,FACEOFF,Sam Steel faceoff won against Vincent Trocheck,2022-10-14T00:31:03Z,1,12:34,07:26,0,1,30.0,Minnesota Wild,MIN
+63,30,3,Minnesota Wild,New York Rangers,2022020017117,2022020017,Hit,117,HIT,Matt Dumba hit Vincent Trocheck,2022-10-14T00:31:27Z,1,12:58,07:02,0,1,30.0,Minnesota Wild,MIN
+64,30,3,Minnesota Wild,New York Rangers,2022020017165,2022020017,Missed Shot,165,MISSED_SHOT,Mika Zibanejad Wide of Net Marc-Andre Fleury,2022-10-14T00:31:47Z,1,13:18,06:42,0,1,3.0,New York Rangers,NYR
+65,30,3,Minnesota Wild,New York Rangers,202202001747,2022020017,Missed Shot,47,MISSED_SHOT,Brandon Duhaime Wide of Net Igor Shesterkin,2022-10-14T00:32:16Z,1,13:47,06:13,0,1,30.0,Minnesota Wild,MIN
+66,30,3,Minnesota Wild,New York Rangers,2022020017166,2022020017,Shot,166,SHOT,Alexis Lafrenière Wrist Shot saved by Marc-Andre Fleury,2022-10-14T00:32:38Z,1,14:09,05:51,0,1,3.0,New York Rangers,NYR
+67,30,3,Minnesota Wild,New York Rangers,2022020017167,2022020017,Shot,167,SHOT,Alexis Lafrenière Wrist Shot saved by Marc-Andre Fleury,2022-10-14T00:32:52Z,1,14:23,05:37,0,1,3.0,New York Rangers,NYR
+68,30,3,Minnesota Wild,New York Rangers,2022020017168,2022020017,Shot,168,SHOT,Alexis Lafrenière Deflected saved by Marc-Andre Fleury,2022-10-14T00:33:04Z,1,14:35,05:25,0,1,3.0,New York Rangers,NYR
+69,30,3,Minnesota Wild,New York Rangers,202202001748,2022020017,Shot,48,SHOT,Marcus Foligno Wrist Shot saved by Igor Shesterkin,2022-10-14T00:33:14Z,1,14:45,05:15,0,1,30.0,Minnesota Wild,MIN
+70,30,3,Minnesota Wild,New York Rangers,2022020017118,2022020017,Giveaway,118,GIVEAWAY,Giveaway by Kirill Kaprizov,2022-10-14T00:33:59Z,1,15:30,04:30,0,1,30.0,Minnesota Wild,MIN
+71,30,3,Minnesota Wild,New York Rangers,2022020017119,2022020017,Hit,119,HIT,Mats Zuccarello hit Barclay Goodrow,2022-10-14T00:34:07Z,1,15:38,04:22,0,1,30.0,Minnesota Wild,MIN
+72,30,3,Minnesota Wild,New York Rangers,2022020017120,2022020017,Hit,120,HIT,Ryan Hartman hit K'Andre Miller,2022-10-14T00:34:27Z,1,15:58,04:02,0,1,30.0,Minnesota Wild,MIN
+73,30,3,Minnesota Wild,New York Rangers,2022020017169,2022020017,Goal,169,GOAL,"Adam Fox (1) Wrist Shot, assists: Alexis Lafrenière (1), Artemi Panarin (3)",2022-10-14T00:34:32Z,1,16:03,03:57,0,2,3.0,New York Rangers,NYR
+74,30,3,Minnesota Wild,New York Rangers,202202001749,2022020017,Faceoff,49,FACEOFF,Mika Zibanejad faceoff won against Marco Rossi,2022-10-14T00:35:14Z,1,16:03,03:57,0,2,3.0,New York Rangers,NYR
+75,30,3,Minnesota Wild,New York Rangers,202202001750,2022020017,Blocked Shot,50,BLOCKED_SHOT,Mika Zibanejad shot blocked shot by Jonas Brodin,2022-10-14T00:35:22Z,1,16:11,03:49,0,2,30.0,Minnesota Wild,MIN
+76,30,3,Minnesota Wild,New York Rangers,2022020017170,2022020017,Stoppage,170,STOP,Puck in Crowd,2022-10-14T00:35:23Z,1,16:12,03:48,0,2,,,
+77,30,3,Minnesota Wild,New York Rangers,2022020017301,2022020017,Faceoff,301,FACEOFF,Joel Eriksson Ek faceoff won against Mika Zibanejad,2022-10-14T00:37:42Z,1,16:12,03:48,0,2,30.0,Minnesota Wild,MIN
+78,30,3,Minnesota Wild,New York Rangers,2022020017171,2022020017,Missed Shot,171,MISSED_SHOT,Mika Zibanejad Wide of Net Marc-Andre Fleury,2022-10-14T00:37:51Z,1,16:21,03:39,0,2,3.0,New York Rangers,NYR
+79,30,3,Minnesota Wild,New York Rangers,2022020017121,2022020017,Hit,121,HIT,Jonas Brodin hit Mika Zibanejad,2022-10-14T00:38:20Z,1,16:50,03:10,0,2,30.0,Minnesota Wild,MIN
+80,30,3,Minnesota Wild,New York Rangers,2022020017122,2022020017,Hit,122,HIT,K'Andre Miller hit Sam Steel,2022-10-14T00:38:39Z,1,17:09,02:51,0,2,3.0,New York Rangers,NYR
+81,30,3,Minnesota Wild,New York Rangers,2022020017172,2022020017,Blocked Shot,172,BLOCKED_SHOT,Alex Goligoski shot blocked shot by Ryan Reaves,2022-10-14T00:38:47Z,1,17:17,02:43,0,2,3.0,New York Rangers,NYR
+82,30,3,Minnesota Wild,New York Rangers,2022020017302,2022020017,Missed Shot,302,MISSED_SHOT,Sam Steel Wide of Net Igor Shesterkin,2022-10-14T00:39:05Z,1,17:35,02:25,0,2,30.0,Minnesota Wild,MIN
+83,30,3,Minnesota Wild,New York Rangers,2022020017123,2022020017,Hit,123,HIT,Ryan Reaves hit Sam Steel,2022-10-14T00:39:07Z,1,17:37,02:23,0,2,3.0,New York Rangers,NYR
+84,30,3,Minnesota Wild,New York Rangers,2022020017124,2022020017,Hit,124,HIT,Jimmy Vesey hit Calen Addison,2022-10-14T00:39:45Z,1,18:15,01:45,0,2,3.0,New York Rangers,NYR
+85,30,3,Minnesota Wild,New York Rangers,2022020017173,2022020017,Stoppage,173,STOP,Offside,2022-10-14T00:39:50Z,1,18:20,01:40,0,2,,,
+86,30,3,Minnesota Wild,New York Rangers,2022020017303,2022020017,Faceoff,303,FACEOFF,Filip Chytil faceoff won against Ryan Hartman,2022-10-14T00:40:17Z,1,18:20,01:40,0,2,3.0,New York Rangers,NYR
+87,30,3,Minnesota Wild,New York Rangers,2022020017125,2022020017,Hit,125,HIT,Ryan Lindgren hit Ryan Hartman,2022-10-14T00:40:40Z,1,18:43,01:17,0,2,3.0,New York Rangers,NYR
+88,30,3,Minnesota Wild,New York Rangers,2022020017304,2022020017,Shot,304,SHOT,Ryan Hartman Wrist Shot saved by Igor Shesterkin,2022-10-14T00:40:53Z,1,18:56,01:04,0,2,30.0,Minnesota Wild,MIN
+89,30,3,Minnesota Wild,New York Rangers,2022020017126,2022020017,Hit,126,HIT,Braden Schneider hit Brandon Duhaime,2022-10-14T00:41:23Z,1,19:26,00:34,0,2,3.0,New York Rangers,NYR
+90,30,3,Minnesota Wild,New York Rangers,2022020017174,2022020017,Goal,174,GOAL,"Artemi Panarin (1) Wrist Shot, assists: Alexis Lafrenière (2), Vincent Trocheck (1)",2022-10-14T00:41:45Z,1,19:47,00:13,0,3,3.0,New York Rangers,NYR
+91,30,3,Minnesota Wild,New York Rangers,2022020017305,2022020017,Faceoff,305,FACEOFF,Mika Zibanejad faceoff won against Joel Eriksson Ek,2022-10-14T00:42:41Z,1,19:47,00:13,0,3,3.0,New York Rangers,NYR
+92,30,3,Minnesota Wild,New York Rangers,2022020017306,2022020017,Shot,306,SHOT,Alex Goligoski Wrist Shot saved by Igor Shesterkin,2022-10-14T00:42:52Z,1,19:58,00:02,0,3,30.0,Minnesota Wild,MIN
+93,30,3,Minnesota Wild,New York Rangers,2022020017307,2022020017,Period End,307,PERIOD_END,End of 1st Period,2022-10-14T00:42:53Z,1,20:00,00:00,0,3,,,
+94,30,3,Minnesota Wild,New York Rangers,2022020017310,2022020017,Period Official,310,PERIOD_OFFICIAL,Period Official,2022-10-14T00:43:07Z,1,20:00,00:00,0,3,,,
+95,30,3,Minnesota Wild,New York Rangers,2022020017311,2022020017,Period Ready,311,PERIOD_READY,Period Ready,2022-10-14T01:01:23Z,2,00:00,20:00,0,3,,,
+96,30,3,Minnesota Wild,New York Rangers,2022020017312,2022020017,Period Start,312,PERIOD_START,Period Start,2022-10-14T01:01:40Z,2,00:00,20:00,0,3,,,
+97,30,3,Minnesota Wild,New York Rangers,2022020017313,2022020017,Faceoff,313,FACEOFF,Joel Eriksson Ek faceoff won against Mika Zibanejad,2022-10-14T01:01:40Z,2,00:00,20:00,0,3,30.0,Minnesota Wild,MIN
+98,30,3,Minnesota Wild,New York Rangers,2022020017127,2022020017,Hit,127,HIT,Marcus Foligno hit K'Andre Miller,2022-10-14T01:01:47Z,2,00:07,19:53,0,3,30.0,Minnesota Wild,MIN
+99,30,3,Minnesota Wild,New York Rangers,2022020017175,2022020017,Stoppage,175,STOP,Puck in Benches,2022-10-14T01:01:50Z,2,00:11,19:49,0,3,,,
+100,30,3,Minnesota Wild,New York Rangers,2022020017314,2022020017,Faceoff,314,FACEOFF,Mika Zibanejad faceoff won against Joel Eriksson Ek,2022-10-14T01:02:14Z,2,00:11,19:49,0,3,3.0,New York Rangers,NYR
+101,30,3,Minnesota Wild,New York Rangers,2022020017176,2022020017,Blocked Shot,176,BLOCKED_SHOT,Jacob Trouba shot blocked shot by Tyson Jost,2022-10-14T01:02:19Z,2,00:16,19:44,0,3,30.0,Minnesota Wild,MIN
+102,30,3,Minnesota Wild,New York Rangers,2022020017315,2022020017,Missed Shot,315,MISSED_SHOT,K'Andre Miller Wide of Net Marc-Andre Fleury,2022-10-14T01:02:21Z,2,00:18,19:42,0,3,3.0,New York Rangers,NYR
+103,30,3,Minnesota Wild,New York Rangers,2022020017316,2022020017,Shot,316,SHOT,Mika Zibanejad Wrist Shot saved by Marc-Andre Fleury,2022-10-14T01:02:33Z,2,00:30,19:30,0,3,3.0,New York Rangers,NYR
+104,30,3,Minnesota Wild,New York Rangers,2022020017179,2022020017,Stoppage,179,STOP,Goalie Stopped,2022-10-14T01:02:34Z,2,00:31,19:29,0,3,,,
+105,30,3,Minnesota Wild,New York Rangers,2022020017317,2022020017,Faceoff,317,FACEOFF,Ryan Hartman faceoff won against Vincent Trocheck,2022-10-14T01:03:07Z,2,00:31,19:29,0,3,30.0,Minnesota Wild,MIN
+106,30,3,Minnesota Wild,New York Rangers,2022020017318,2022020017,Shot,318,SHOT,Ryan Lindgren Snap Shot saved by Marc-Andre Fleury,2022-10-14T01:03:19Z,2,00:43,19:17,0,3,3.0,New York Rangers,NYR
+107,30,3,Minnesota Wild,New York Rangers,2022020017182,2022020017,Stoppage,182,STOP,Goalie Stopped,2022-10-14T01:03:21Z,2,00:44,19:16,0,3,,,
+108,30,3,Minnesota Wild,New York Rangers,2022020017319,2022020017,Faceoff,319,FACEOFF,Vincent Trocheck faceoff won against Ryan Hartman,2022-10-14T01:03:41Z,2,00:44,19:16,0,3,3.0,New York Rangers,NYR
+109,30,3,Minnesota Wild,New York Rangers,2022020017432,2022020017,Penalty,432,PENALTY,Ryan Hartman Hooking against Artemi Panarin,2022-10-14T01:04:02Z,2,01:06,18:54,0,3,30.0,Minnesota Wild,MIN
+110,30,3,Minnesota Wild,New York Rangers,2022020017320,2022020017,Faceoff,320,FACEOFF,Joel Eriksson Ek faceoff won against Mika Zibanejad,2022-10-14T01:05:00Z,2,01:06,18:54,0,3,30.0,Minnesota Wild,MIN
+111,30,3,Minnesota Wild,New York Rangers,2022020017128,2022020017,Hit,128,HIT,Chris Kreider hit Joel Eriksson Ek,2022-10-14T01:05:25Z,2,01:31,18:29,0,3,3.0,New York Rangers,NYR
+112,30,3,Minnesota Wild,New York Rangers,2022020017184,2022020017,Blocked Shot,184,BLOCKED_SHOT,Chris Kreider shot blocked shot by Matt Dumba,2022-10-14T01:05:32Z,2,01:38,18:22,0,3,30.0,Minnesota Wild,MIN
+113,30,3,Minnesota Wild,New York Rangers,2022020017129,2022020017,Hit,129,HIT,Matt Dumba hit Vincent Trocheck,2022-10-14T01:05:41Z,2,01:47,18:13,0,3,30.0,Minnesota Wild,MIN
+114,30,3,Minnesota Wild,New York Rangers,2022020017321,2022020017,Shot,321,SHOT,Vincent Trocheck Slap Shot saved by Marc-Andre Fleury,2022-10-14T01:05:52Z,2,01:58,18:02,0,3,3.0,New York Rangers,NYR
+115,30,3,Minnesota Wild,New York Rangers,2022020017130,2022020017,Takeaway,130,TAKEAWAY,Takeaway by Frederick Gaudreau,2022-10-14T01:06:24Z,2,02:30,17:30,0,3,30.0,Minnesota Wild,MIN
+116,30,3,Minnesota Wild,New York Rangers,2022020017186,2022020017,Shot,186,SHOT,Frederick Gaudreau Slap Shot saved by Igor Shesterkin,2022-10-14T01:06:26Z,2,02:32,17:28,0,3,30.0,Minnesota Wild,MIN
+117,30,3,Minnesota Wild,New York Rangers,2022020017187,2022020017,Shot,187,SHOT,Jake Middleton Wrist Shot saved by Igor Shesterkin,2022-10-14T01:06:36Z,2,02:42,17:18,0,3,30.0,Minnesota Wild,MIN
+118,30,3,Minnesota Wild,New York Rangers,2022020017188,2022020017,Shot,188,SHOT,Jake Middleton Wrist Shot saved by Igor Shesterkin,2022-10-14T01:07:00Z,2,03:06,16:54,0,3,30.0,Minnesota Wild,MIN
+119,30,3,Minnesota Wild,New York Rangers,2022020017131,2022020017,Takeaway,131,TAKEAWAY,Takeaway by Tyson Jost,2022-10-14T01:07:05Z,2,03:11,16:49,0,3,30.0,Minnesota Wild,MIN
+120,30,3,Minnesota Wild,New York Rangers,2022020017322,2022020017,Blocked Shot,322,BLOCKED_SHOT,Alex Goligoski shot blocked shot by Ryan Reaves,2022-10-14T01:07:22Z,2,03:28,16:32,0,3,3.0,New York Rangers,NYR
+121,30,3,Minnesota Wild,New York Rangers,2022020017132,2022020017,Hit,132,HIT,Dryden Hunt hit Calen Addison,2022-10-14T01:07:46Z,2,03:52,16:08,0,3,3.0,New York Rangers,NYR
+122,30,3,Minnesota Wild,New York Rangers,2022020017133,2022020017,Hit,133,HIT,Ryan Carpenter hit Alex Goligoski,2022-10-14T01:07:54Z,2,04:00,16:00,0,3,3.0,New York Rangers,NYR
+123,30,3,Minnesota Wild,New York Rangers,2022020017134,2022020017,Giveaway,134,GIVEAWAY,Giveaway by Marc-Andre Fleury,2022-10-14T01:08:39Z,2,04:45,15:15,0,3,30.0,Minnesota Wild,MIN
+124,30,3,Minnesota Wild,New York Rangers,2022020017323,2022020017,Shot,323,SHOT,Jimmy Vesey Snap Shot saved by Marc-Andre Fleury,2022-10-14T01:08:44Z,2,04:50,15:10,0,3,3.0,New York Rangers,NYR
+125,30,3,Minnesota Wild,New York Rangers,2022020017324,2022020017,Shot,324,SHOT,Kaapo Kakko Tip-In saved by Marc-Andre Fleury,2022-10-14T01:09:11Z,2,05:17,14:43,0,3,3.0,New York Rangers,NYR
+126,30,3,Minnesota Wild,New York Rangers,2022020017325,2022020017,Shot,325,SHOT,Mika Zibanejad Slap Shot saved by Marc-Andre Fleury,2022-10-14T01:09:18Z,2,05:24,14:36,0,3,3.0,New York Rangers,NYR
+127,30,3,Minnesota Wild,New York Rangers,2022020017189,2022020017,Shot,189,SHOT,Tyson Jost Slap Shot saved by Igor Shesterkin,2022-10-14T01:09:27Z,2,05:33,14:27,0,3,30.0,Minnesota Wild,MIN
+128,30,3,Minnesota Wild,New York Rangers,2022020017135,2022020017,Takeaway,135,TAKEAWAY,Takeaway by Zac Jones,2022-10-14T01:09:38Z,2,05:44,14:16,0,3,3.0,New York Rangers,NYR
+129,30,3,Minnesota Wild,New York Rangers,2022020017190,2022020017,Blocked Shot,190,BLOCKED_SHOT,Zac Jones shot blocked shot by Jake Middleton,2022-10-14T01:09:42Z,2,05:48,14:12,0,3,30.0,Minnesota Wild,MIN
+130,30,3,Minnesota Wild,New York Rangers,2022020017136,2022020017,Hit,136,HIT,Alexis Lafrenière hit Joel Eriksson Ek,2022-10-14T01:09:51Z,2,05:57,14:03,0,3,3.0,New York Rangers,NYR
+131,30,3,Minnesota Wild,New York Rangers,2022020017326,2022020017,Shot,326,SHOT,Vincent Trocheck Wrist Shot saved by Marc-Andre Fleury,2022-10-14T01:09:54Z,2,06:00,14:00,0,3,3.0,New York Rangers,NYR
+132,30,3,Minnesota Wild,New York Rangers,2022020017194,2022020017,Stoppage,194,STOP,TV timeout,2022-10-14T01:10:13Z,2,06:19,13:41,0,3,,,
+133,30,3,Minnesota Wild,New York Rangers,2022020017580,2022020017,Penalty,580,PENALTY,Zac Jones Hooking against Brandon Duhaime,2022-10-14T01:10:13Z,2,06:19,13:41,0,3,3.0,New York Rangers,NYR
+134,30,3,Minnesota Wild,New York Rangers,2022020017327,2022020017,Faceoff,327,FACEOFF,Mika Zibanejad faceoff won against Joel Eriksson Ek,2022-10-14T01:12:32Z,2,06:19,13:41,0,3,3.0,New York Rangers,NYR
+135,30,3,Minnesota Wild,New York Rangers,2022020017137,2022020017,Takeaway,137,TAKEAWAY,Takeaway by Igor Shesterkin,2022-10-14T01:12:42Z,2,06:29,13:31,0,3,3.0,New York Rangers,NYR
+136,30,3,Minnesota Wild,New York Rangers,2022020017195,2022020017,Stoppage,195,STOP,Puck in Crowd,2022-10-14T01:12:44Z,2,06:31,13:29,0,3,,,
+137,30,3,Minnesota Wild,New York Rangers,2022020017328,2022020017,Faceoff,328,FACEOFF,Joel Eriksson Ek faceoff won against Mika Zibanejad,2022-10-14T01:13:17Z,2,06:31,13:29,0,3,30.0,Minnesota Wild,MIN
+138,30,3,Minnesota Wild,New York Rangers,2022020017196,2022020017,Shot,196,SHOT,Mats Zuccarello Wrist Shot saved by Igor Shesterkin,2022-10-14T01:13:23Z,2,06:37,13:23,0,3,30.0,Minnesota Wild,MIN
+139,30,3,Minnesota Wild,New York Rangers,2022020017138,2022020017,Hit,138,HIT,Jacob Trouba hit Joel Eriksson Ek,2022-10-14T01:13:35Z,2,06:49,13:11,0,3,3.0,New York Rangers,NYR
+140,30,3,Minnesota Wild,New York Rangers,2022020017198,2022020017,Missed Shot,198,MISSED_SHOT,Kirill Kaprizov Wide of Net Igor Shesterkin,2022-10-14T01:13:57Z,2,07:11,12:49,0,3,30.0,Minnesota Wild,MIN
+141,30,3,Minnesota Wild,New York Rangers,2022020017199,2022020017,Goal,199,GOAL,"Mats Zuccarello (1) Slap Shot, assists: Kirill Kaprizov (1), Marcus Foligno (1)",2022-10-14T01:14:31Z,2,07:45,12:15,1,3,30.0,Minnesota Wild,MIN
+142,30,3,Minnesota Wild,New York Rangers,2022020017329,2022020017,Faceoff,329,FACEOFF,Vincent Trocheck faceoff won against Sam Steel,2022-10-14T01:15:22Z,2,07:45,12:15,1,3,3.0,New York Rangers,NYR
+143,30,3,Minnesota Wild,New York Rangers,2022020017139,2022020017,Giveaway,139,GIVEAWAY,Giveaway by Ryan Lindgren,2022-10-14T01:15:35Z,2,07:58,12:02,1,3,3.0,New York Rangers,NYR
+144,30,3,Minnesota Wild,New York Rangers,2022020017200,2022020017,Shot,200,SHOT,Frederick Gaudreau Backhand saved by Igor Shesterkin,2022-10-14T01:16:08Z,2,08:31,11:29,1,3,30.0,Minnesota Wild,MIN
+145,30,3,Minnesota Wild,New York Rangers,2022020017594,2022020017,Penalty,594,PENALTY,Adam Fox Tripping against Frederick Gaudreau,2022-10-14T01:16:08Z,2,08:32,11:28,1,3,3.0,New York Rangers,NYR
+146,30,3,Minnesota Wild,New York Rangers,2022020017330,2022020017,Faceoff,330,FACEOFF,Mika Zibanejad faceoff won against Joel Eriksson Ek,2022-10-14T01:16:54Z,2,08:32,11:28,1,3,3.0,New York Rangers,NYR
+147,30,3,Minnesota Wild,New York Rangers,2022020017451,2022020017,Shot,451,SHOT,Joel Eriksson Ek Slap Shot saved by Igor Shesterkin,2022-10-14T01:17:31Z,2,09:09,10:51,1,3,30.0,Minnesota Wild,MIN
+148,30,3,Minnesota Wild,New York Rangers,2022020017452,2022020017,Stoppage,452,STOP,Goalie Stopped,2022-10-14T01:17:32Z,2,09:10,10:50,1,3,,,
+149,30,3,Minnesota Wild,New York Rangers,2022020017598,2022020017,Penalty,598,PENALTY,Chris Kreider High-sticking against Joel Eriksson Ek,2022-10-14T01:17:32Z,2,09:10,10:50,1,3,3.0,New York Rangers,NYR
+150,30,3,Minnesota Wild,New York Rangers,2022020017331,2022020017,Faceoff,331,FACEOFF,Joel Eriksson Ek faceoff won against Mika Zibanejad,2022-10-14T01:19:22Z,2,09:10,10:50,1,3,30.0,Minnesota Wild,MIN
+151,30,3,Minnesota Wild,New York Rangers,2022020017140,2022020017,Giveaway,140,GIVEAWAY,Giveaway by Mats Zuccarello,2022-10-14T01:19:54Z,2,09:42,10:18,1,3,30.0,Minnesota Wild,MIN
+152,30,3,Minnesota Wild,New York Rangers,2022020017453,2022020017,Shot,453,SHOT,Joel Eriksson Ek Deflected saved by Igor Shesterkin,2022-10-14T01:20:11Z,2,09:59,10:01,1,3,30.0,Minnesota Wild,MIN
+153,30,3,Minnesota Wild,New York Rangers,2022020017454,2022020017,Stoppage,454,STOP,Goalie Stopped,2022-10-14T01:20:12Z,2,10:00,10:00,1,3,,,
+154,30,3,Minnesota Wild,New York Rangers,2022020017332,2022020017,Faceoff,332,FACEOFF,Barclay Goodrow faceoff won against Joel Eriksson Ek,2022-10-14T01:20:46Z,2,10:00,10:00,1,3,3.0,New York Rangers,NYR
+155,30,3,Minnesota Wild,New York Rangers,2022020017333,2022020017,Blocked Shot,333,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by Ryan Lindgren,2022-10-14T01:20:55Z,2,10:09,09:51,1,3,3.0,New York Rangers,NYR
+156,30,3,Minnesota Wild,New York Rangers,2022020017455,2022020017,Shot,455,SHOT,Joel Eriksson Ek Wrist Shot saved by Igor Shesterkin,2022-10-14T01:21:05Z,2,10:19,09:41,1,3,30.0,Minnesota Wild,MIN
+157,30,3,Minnesota Wild,New York Rangers,2022020017456,2022020017,Shot,456,SHOT,Kirill Kaprizov Wrist Shot saved by Igor Shesterkin,2022-10-14T01:21:06Z,2,10:20,09:40,1,3,30.0,Minnesota Wild,MIN
+158,30,3,Minnesota Wild,New York Rangers,2022020017457,2022020017,Shot,457,SHOT,Kirill Kaprizov Wrist Shot saved by Igor Shesterkin,2022-10-14T01:21:07Z,2,10:21,09:39,1,3,30.0,Minnesota Wild,MIN
+159,30,3,Minnesota Wild,New York Rangers,2022020017458,2022020017,Stoppage,458,STOP,Goalie Stopped,2022-10-14T01:21:08Z,2,10:22,09:38,1,3,,,
+160,30,3,Minnesota Wild,New York Rangers,2022020017653,2022020017,Penalty,653,PENALTY,Joel Eriksson Ek Roughing against Ryan Lindgren,2022-10-14T01:21:08Z,2,10:22,09:38,1,3,30.0,Minnesota Wild,MIN
+161,30,3,Minnesota Wild,New York Rangers,2022020017657,2022020017,Penalty,657,PENALTY,Ryan Lindgren Roughing against Joel Eriksson Ek,2022-10-14T01:21:08Z,2,10:22,09:38,1,3,3.0,New York Rangers,NYR
+162,30,3,Minnesota Wild,New York Rangers,2022020017334,2022020017,Faceoff,334,FACEOFF,Marco Rossi faceoff won against Mika Zibanejad,2022-10-14T01:22:42Z,2,10:22,09:38,1,3,30.0,Minnesota Wild,MIN
+163,30,3,Minnesota Wild,New York Rangers,2022020017459,2022020017,Missed Shot,459,MISSED_SHOT,Jared Spurgeon Over Net Igor Shesterkin,2022-10-14T01:22:49Z,2,10:29,09:31,1,3,30.0,Minnesota Wild,MIN
+164,30,3,Minnesota Wild,New York Rangers,2022020017460,2022020017,Shot,460,SHOT,Frederick Gaudreau Wrist Shot saved by Igor Shesterkin,2022-10-14T01:22:59Z,2,10:39,09:21,1,3,30.0,Minnesota Wild,MIN
+165,30,3,Minnesota Wild,New York Rangers,2022020017335,2022020017,Blocked Shot,335,BLOCKED_SHOT,Frederick Gaudreau shot blocked shot by Mika Zibanejad,2022-10-14T01:23:12Z,2,10:52,09:08,1,3,3.0,New York Rangers,NYR
+166,30,3,Minnesota Wild,New York Rangers,2022020017461,2022020017,Stoppage,461,STOP,Puck in Netting,2022-10-14T01:23:13Z,2,10:53,09:07,1,3,,,
+167,30,3,Minnesota Wild,New York Rangers,2022020017336,2022020017,Faceoff,336,FACEOFF,Barclay Goodrow faceoff won against Ryan Hartman,2022-10-14T01:23:45Z,2,10:53,09:07,1,3,3.0,New York Rangers,NYR
+168,30,3,Minnesota Wild,New York Rangers,2022020017462,2022020017,Shot,462,SHOT,Jared Spurgeon Wrist Shot saved by Igor Shesterkin,2022-10-14T01:24:04Z,2,11:12,08:48,1,3,30.0,Minnesota Wild,MIN
+169,30,3,Minnesota Wild,New York Rangers,2022020017463,2022020017,Stoppage,463,STOP,Offside,2022-10-14T01:24:37Z,2,11:46,08:14,1,3,,,
+170,30,3,Minnesota Wild,New York Rangers,2022020017337,2022020017,Faceoff,337,FACEOFF,Vincent Trocheck faceoff won against Frederick Gaudreau,2022-10-14T01:27:01Z,2,11:46,08:14,1,3,3.0,New York Rangers,NYR
+171,30,3,Minnesota Wild,New York Rangers,2022020017338,2022020017,Shot,338,SHOT,Alexis Lafrenière Snap Shot saved by Marc-Andre Fleury,2022-10-14T01:27:18Z,2,12:03,07:57,1,3,3.0,New York Rangers,NYR
+172,30,3,Minnesota Wild,New York Rangers,2022020017464,2022020017,Stoppage,464,STOP,Net Dislodged by Goaltender,2022-10-14T01:27:26Z,2,12:11,07:49,1,3,,,
+173,30,3,Minnesota Wild,New York Rangers,2022020017339,2022020017,Faceoff,339,FACEOFF,Filip Chytil faceoff won against Marco Rossi,2022-10-14T01:28:25Z,2,12:11,07:49,1,3,3.0,New York Rangers,NYR
+174,30,3,Minnesota Wild,New York Rangers,2022020017340,2022020017,Shot,340,SHOT,Filip Chytil Wrist Shot saved by Marc-Andre Fleury,2022-10-14T01:28:37Z,2,12:23,07:37,1,3,3.0,New York Rangers,NYR
+175,30,3,Minnesota Wild,New York Rangers,2022020017141,2022020017,Hit,141,HIT,Brandon Duhaime hit Barclay Goodrow,2022-10-14T01:28:56Z,2,12:42,07:18,1,3,30.0,Minnesota Wild,MIN
+176,30,3,Minnesota Wild,New York Rangers,2022020017341,2022020017,Shot,341,SHOT,Adam Fox Wrist Shot saved by Marc-Andre Fleury,2022-10-14T01:28:58Z,2,12:44,07:16,1,3,3.0,New York Rangers,NYR
+177,30,3,Minnesota Wild,New York Rangers,2022020017144,2022020017,Hit,144,HIT,Jimmy Vesey hit Connor Dewar,2022-10-14T01:29:08Z,2,12:54,07:06,1,3,3.0,New York Rangers,NYR
+178,30,3,Minnesota Wild,New York Rangers,2022020017145,2022020017,Takeaway,145,TAKEAWAY,Takeaway by Matt Dumba,2022-10-14T01:29:17Z,2,13:03,06:57,1,3,30.0,Minnesota Wild,MIN
+179,30,3,Minnesota Wild,New York Rangers,2022020017254,2022020017,Hit,254,HIT,Barclay Goodrow hit Brandon Duhaime,2022-10-14T01:29:23Z,2,13:09,06:51,1,3,3.0,New York Rangers,NYR
+180,30,3,Minnesota Wild,New York Rangers,2022020017465,2022020017,Stoppage,465,STOP,Hand Pass,2022-10-14T01:29:29Z,2,13:15,06:45,1,3,,,
+181,30,3,Minnesota Wild,New York Rangers,2022020017342,2022020017,Faceoff,342,FACEOFF,Ryan Carpenter faceoff won against Ryan Hartman,2022-10-14T01:30:07Z,2,13:15,06:45,1,3,3.0,New York Rangers,NYR
+182,30,3,Minnesota Wild,New York Rangers,2022020017466,2022020017,Stoppage,466,STOP,Offside,2022-10-14T01:30:49Z,2,13:57,06:03,1,3,,,
+183,30,3,Minnesota Wild,New York Rangers,2022020017343,2022020017,Faceoff,343,FACEOFF,Joel Eriksson Ek faceoff won against Mika Zibanejad,2022-10-14T01:31:15Z,2,13:57,06:03,1,3,30.0,Minnesota Wild,MIN
+184,30,3,Minnesota Wild,New York Rangers,2022020017146,2022020017,Takeaway,146,TAKEAWAY,Takeaway by Joel Eriksson Ek,2022-10-14T01:31:29Z,2,14:11,05:49,1,3,30.0,Minnesota Wild,MIN
+185,30,3,Minnesota Wild,New York Rangers,2022020017147,2022020017,Hit,147,HIT,Matt Dumba hit Chris Kreider,2022-10-14T01:31:41Z,2,14:23,05:37,1,3,30.0,Minnesota Wild,MIN
+186,30,3,Minnesota Wild,New York Rangers,2022020017467,2022020017,Shot,467,SHOT,Marcus Foligno Wrist Shot saved by Igor Shesterkin,2022-10-14T01:32:05Z,2,14:47,05:13,1,3,30.0,Minnesota Wild,MIN
+187,30,3,Minnesota Wild,New York Rangers,2022020017148,2022020017,Hit,148,HIT,Dryden Hunt hit Jared Spurgeon,2022-10-14T01:32:29Z,2,15:11,04:49,1,3,3.0,New York Rangers,NYR
+188,30,3,Minnesota Wild,New York Rangers,2022020017468,2022020017,Missed Shot,468,MISSED_SHOT,Matt Boldy Over Net Igor Shesterkin,2022-10-14T01:32:42Z,2,15:24,04:36,1,3,30.0,Minnesota Wild,MIN
+189,30,3,Minnesota Wild,New York Rangers,2022020017469,2022020017,Missed Shot,469,MISSED_SHOT,Matt Boldy Over Net Igor Shesterkin,2022-10-14T01:32:47Z,2,15:29,04:31,1,3,30.0,Minnesota Wild,MIN
+190,30,3,Minnesota Wild,New York Rangers,2022020017149,2022020017,Hit,149,HIT,Ryan Reaves hit Matt Boldy,2022-10-14T01:32:48Z,2,15:30,04:30,1,3,3.0,New York Rangers,NYR
+191,30,3,Minnesota Wild,New York Rangers,2022020017344,2022020017,Shot,344,SHOT,Adam Fox Wrap-around saved by Marc-Andre Fleury,2022-10-14T01:33:40Z,2,16:22,03:38,1,3,3.0,New York Rangers,NYR
+192,30,3,Minnesota Wild,New York Rangers,2022020017347,2022020017,Shot,347,SHOT,Adam Fox Wrist Shot saved by Marc-Andre Fleury,2022-10-14T01:34:11Z,2,16:53,03:07,1,3,3.0,New York Rangers,NYR
+193,30,3,Minnesota Wild,New York Rangers,2022020017346,2022020017,Goal,346,GOAL,"Filip Chytil (1) Backhand, assists: Adam Fox (1), Barclay Goodrow (1)",2022-10-14T01:34:12Z,2,16:54,03:06,1,4,3.0,New York Rangers,NYR
+194,30,3,Minnesota Wild,New York Rangers,2022020017345,2022020017,Faceoff,345,FACEOFF,Filip Chytil faceoff won against Ryan Hartman,2022-10-14T01:35:06Z,2,16:54,03:06,1,4,3.0,New York Rangers,NYR
+195,30,3,Minnesota Wild,New York Rangers,2022020017150,2022020017,Takeaway,150,TAKEAWAY,Takeaway by Calen Addison,2022-10-14T01:35:20Z,2,17:08,02:52,1,4,30.0,Minnesota Wild,MIN
+196,30,3,Minnesota Wild,New York Rangers,2022020017470,2022020017,Missed Shot,470,MISSED_SHOT,Marco Rossi Wide of Net Igor Shesterkin,2022-10-14T01:36:07Z,2,17:55,02:05,1,4,30.0,Minnesota Wild,MIN
+197,30,3,Minnesota Wild,New York Rangers,2022020017471,2022020017,Stoppage,471,STOP,Hand Pass,2022-10-14T01:36:23Z,2,18:11,01:49,1,4,,,
+198,30,3,Minnesota Wild,New York Rangers,2022020017348,2022020017,Faceoff,348,FACEOFF,Joel Eriksson Ek faceoff won against Mika Zibanejad,2022-10-14T01:39:07Z,2,18:11,01:49,1,4,30.0,Minnesota Wild,MIN
+199,30,3,Minnesota Wild,New York Rangers,2022020017501,2022020017,Takeaway,501,TAKEAWAY,Takeaway by Kaapo Kakko,2022-10-14T01:39:34Z,2,18:38,01:22,1,4,3.0,New York Rangers,NYR
+200,30,3,Minnesota Wild,New York Rangers,2022020017472,2022020017,Blocked Shot,472,BLOCKED_SHOT,Kaapo Kakko shot blocked shot by Matt Dumba,2022-10-14T01:39:48Z,2,18:52,01:08,1,4,30.0,Minnesota Wild,MIN
+201,30,3,Minnesota Wild,New York Rangers,2022020017502,2022020017,Takeaway,502,TAKEAWAY,Takeaway by Matt Boldy,2022-10-14T01:40:11Z,2,19:15,00:45,1,4,30.0,Minnesota Wild,MIN
+202,30,3,Minnesota Wild,New York Rangers,2022020017503,2022020017,Takeaway,503,TAKEAWAY,Takeaway by Frederick Gaudreau,2022-10-14T01:40:23Z,2,19:27,00:33,1,4,30.0,Minnesota Wild,MIN
+203,30,3,Minnesota Wild,New York Rangers,2022020017473,2022020017,Missed Shot,473,MISSED_SHOT,Jared Spurgeon Wide of Net Igor Shesterkin,2022-10-14T01:40:51Z,2,19:55,00:05,1,4,30.0,Minnesota Wild,MIN
+204,30,3,Minnesota Wild,New York Rangers,2022020017349,2022020017,Period End,349,PERIOD_END,End of 2nd Period,2022-10-14T01:40:56Z,2,20:00,00:00,1,4,,,
+205,30,3,Minnesota Wild,New York Rangers,2022020017602,2022020017,Period Official,602,PERIOD_OFFICIAL,Period Official,2022-10-14T01:41:02Z,2,20:00,00:00,1,4,,,
+206,30,3,Minnesota Wild,New York Rangers,2022020017603,2022020017,Period Ready,603,PERIOD_READY,Period Ready,2022-10-14T01:59:50Z,3,00:00,20:00,1,4,,,
+207,30,3,Minnesota Wild,New York Rangers,2022020017604,2022020017,Period Start,604,PERIOD_START,Period Start,2022-10-14T01:59:57Z,3,00:00,20:00,1,4,,,
+208,30,3,Minnesota Wild,New York Rangers,2022020017605,2022020017,Faceoff,605,FACEOFF,Joel Eriksson Ek faceoff won against Mika Zibanejad,2022-10-14T01:59:57Z,3,00:00,20:00,1,4,30.0,Minnesota Wild,MIN
+209,30,3,Minnesota Wild,New York Rangers,2022020017474,2022020017,Stoppage,474,STOP,Icing,2022-10-14T02:00:30Z,3,00:34,19:26,1,4,,,
+210,30,3,Minnesota Wild,New York Rangers,2022020017606,2022020017,Faceoff,606,FACEOFF,Ryan Hartman faceoff won against Vincent Trocheck,2022-10-14T02:01:05Z,3,00:34,19:26,1,4,30.0,Minnesota Wild,MIN
+211,30,3,Minnesota Wild,New York Rangers,2022020017475,2022020017,Shot,475,SHOT,Vincent Trocheck Wrist Shot saved by Marc-Andre Fleury,2022-10-14T02:01:20Z,3,00:49,19:11,1,4,3.0,New York Rangers,NYR
+212,30,3,Minnesota Wild,New York Rangers,2022020017476,2022020017,Missed Shot,476,MISSED_SHOT,Alexis Lafrenière Wide of Net Marc-Andre Fleury,2022-10-14T02:01:27Z,3,00:56,19:04,1,4,3.0,New York Rangers,NYR
+213,30,3,Minnesota Wild,New York Rangers,2022020017607,2022020017,Blocked Shot,607,BLOCKED_SHOT,Artemi Panarin shot blocked shot by Mats Zuccarello,2022-10-14T02:01:34Z,3,01:03,18:57,1,4,30.0,Minnesota Wild,MIN
+214,30,3,Minnesota Wild,New York Rangers,2022020017608,2022020017,Shot,608,SHOT,Mats Zuccarello Tip-In saved by Igor Shesterkin,2022-10-14T02:02:15Z,3,01:44,18:16,1,4,30.0,Minnesota Wild,MIN
+215,30,3,Minnesota Wild,New York Rangers,2022020017477,2022020017,Stoppage,477,STOP,Goalie Stopped,2022-10-14T02:02:17Z,3,01:45,18:15,1,4,,,
+216,30,3,Minnesota Wild,New York Rangers,2022020017609,2022020017,Faceoff,609,FACEOFF,Filip Chytil faceoff won against Marco Rossi,2022-10-14T02:02:52Z,3,01:45,18:15,1,4,3.0,New York Rangers,NYR
+217,30,3,Minnesota Wild,New York Rangers,2022020017504,2022020017,Hit,504,HIT,Ryan Carpenter hit Frederick Gaudreau,2022-10-14T02:03:36Z,3,02:29,17:31,1,4,3.0,New York Rangers,NYR
+218,30,3,Minnesota Wild,New York Rangers,2022020017505,2022020017,Giveaway,505,GIVEAWAY,Giveaway by Calen Addison,2022-10-14T02:03:48Z,3,02:41,17:19,1,4,30.0,Minnesota Wild,MIN
+219,30,3,Minnesota Wild,New York Rangers,2022020017506,2022020017,Hit,506,HIT,Jake Middleton hit Ryan Carpenter,2022-10-14T02:04:01Z,3,02:54,17:06,1,4,30.0,Minnesota Wild,MIN
+220,30,3,Minnesota Wild,New York Rangers,2022020017478,2022020017,Stoppage,478,STOP,Offside,2022-10-14T02:04:17Z,3,03:10,16:50,1,4,,,
+221,30,3,Minnesota Wild,New York Rangers,2022020017610,2022020017,Faceoff,610,FACEOFF,Joel Eriksson Ek faceoff won against Mika Zibanejad,2022-10-14T02:04:46Z,3,03:10,16:50,1,4,30.0,Minnesota Wild,MIN
+222,30,3,Minnesota Wild,New York Rangers,2022020017611,2022020017,Shot,611,SHOT,Joel Eriksson Ek Deflected saved by Igor Shesterkin,2022-10-14T02:05:03Z,3,03:27,16:33,1,4,30.0,Minnesota Wild,MIN
+223,30,3,Minnesota Wild,New York Rangers,2022020017479,2022020017,Stoppage,479,STOP,Goalie Stopped,2022-10-14T02:05:05Z,3,03:29,16:31,1,4,,,
+224,30,3,Minnesota Wild,New York Rangers,2022020017612,2022020017,Faceoff,612,FACEOFF,Mika Zibanejad faceoff won against Joel Eriksson Ek,2022-10-14T02:05:29Z,3,03:29,16:31,1,4,3.0,New York Rangers,NYR
+225,30,3,Minnesota Wild,New York Rangers,2022020017480,2022020017,Stoppage,480,STOP,Icing,2022-10-14T02:05:37Z,3,03:37,16:23,1,4,,,
+226,30,3,Minnesota Wild,New York Rangers,2022020017613,2022020017,Faceoff,613,FACEOFF,Mika Zibanejad faceoff won against Ryan Hartman,2022-10-14T02:06:09Z,3,03:37,16:23,1,4,3.0,New York Rangers,NYR
+227,30,3,Minnesota Wild,New York Rangers,2022020017481,2022020017,Missed Shot,481,MISSED_SHOT,Jacob Trouba Over Net Marc-Andre Fleury,2022-10-14T02:06:25Z,3,03:53,16:07,1,4,3.0,New York Rangers,NYR
+228,30,3,Minnesota Wild,New York Rangers,2022020017614,2022020017,Blocked Shot,614,BLOCKED_SHOT,Alexis Lafrenière shot blocked shot by Jared Spurgeon,2022-10-14T02:06:46Z,3,04:14,15:46,1,4,30.0,Minnesota Wild,MIN
+229,30,3,Minnesota Wild,New York Rangers,2022020017482,2022020017,Goal,482,GOAL,"Vincent Trocheck (1) Slap Shot, assists: Artemi Panarin (4)",2022-10-14T02:06:49Z,3,04:18,15:42,1,5,3.0,New York Rangers,NYR
+230,30,3,Minnesota Wild,New York Rangers,2022020017615,2022020017,Faceoff,615,FACEOFF,Marco Rossi faceoff won against Filip Chytil,2022-10-14T02:07:43Z,3,04:18,15:42,1,5,30.0,Minnesota Wild,MIN
+231,30,3,Minnesota Wild,New York Rangers,2022020017484,2022020017,Blocked Shot,484,BLOCKED_SHOT,Jared Spurgeon shot blocked shot by Jimmy Vesey,2022-10-14T02:08:07Z,3,04:42,15:18,1,5,3.0,New York Rangers,NYR
+232,30,3,Minnesota Wild,New York Rangers,2022020017507,2022020017,Hit,507,HIT,Jimmy Vesey hit Jared Spurgeon,2022-10-14T02:08:10Z,3,04:45,15:15,1,5,3.0,New York Rangers,NYR
+233,30,3,Minnesota Wild,New York Rangers,2022020017486,2022020017,Shot,486,SHOT,Jimmy Vesey Wrist Shot saved by Marc-Andre Fleury,2022-10-14T02:08:16Z,3,04:51,15:09,1,5,3.0,New York Rangers,NYR
+234,30,3,Minnesota Wild,New York Rangers,2022020017485,2022020017,Stoppage,485,STOP,Goalie Stopped,2022-10-14T02:08:17Z,3,04:52,15:08,1,5,,,
+235,30,3,Minnesota Wild,New York Rangers,2022020017616,2022020017,Faceoff,616,FACEOFF,Sam Steel faceoff won against Ryan Carpenter,2022-10-14T02:08:47Z,3,04:52,15:08,1,5,30.0,Minnesota Wild,MIN
+236,30,3,Minnesota Wild,New York Rangers,2022020017508,2022020017,Hit,508,HIT,Ryan Reaves hit Calen Addison,2022-10-14T02:08:53Z,3,04:58,15:02,1,5,3.0,New York Rangers,NYR
+237,30,3,Minnesota Wild,New York Rangers,2022020017509,2022020017,Takeaway,509,TAKEAWAY,Takeaway by Jake Middleton,2022-10-14T02:09:09Z,3,05:14,14:46,1,5,30.0,Minnesota Wild,MIN
+238,30,3,Minnesota Wild,New York Rangers,2022020017617,2022020017,Goal,617,GOAL,"Matt Boldy (1) Backhand, assists: Jake Middleton (1)",2022-10-14T02:09:10Z,3,05:16,14:44,2,5,30.0,Minnesota Wild,MIN
+239,30,3,Minnesota Wild,New York Rangers,2022020017618,2022020017,Faceoff,618,FACEOFF,Mika Zibanejad faceoff won against Joel Eriksson Ek,2022-10-14T02:09:58Z,3,05:16,14:44,2,5,3.0,New York Rangers,NYR
+240,30,3,Minnesota Wild,New York Rangers,2022020017510,2022020017,Hit,510,HIT,Marcus Foligno hit K'Andre Miller,2022-10-14T02:10:08Z,3,05:26,14:34,2,5,30.0,Minnesota Wild,MIN
+241,30,3,Minnesota Wild,New York Rangers,2022020017487,2022020017,Goal,487,GOAL,"Kaapo Kakko (1) Wrist Shot, assists: none",2022-10-14T02:10:29Z,3,05:46,14:14,2,6,3.0,New York Rangers,NYR
+242,30,3,Minnesota Wild,New York Rangers,2022020017619,2022020017,Faceoff,619,FACEOFF,Sam Steel faceoff won against Vincent Trocheck,2022-10-14T02:11:46Z,3,05:46,14:14,2,6,30.0,Minnesota Wild,MIN
+243,30,3,Minnesota Wild,New York Rangers,2022020017620,2022020017,Goal,620,GOAL,"Matt Boldy (2) Backhand, assists: Matt Dumba (1)",2022-10-14T02:12:20Z,3,06:20,13:40,3,6,30.0,Minnesota Wild,MIN
+244,30,3,Minnesota Wild,New York Rangers,2022020017621,2022020017,Faceoff,621,FACEOFF,Ryan Hartman faceoff won against Filip Chytil,2022-10-14T02:13:02Z,3,06:20,13:40,3,6,30.0,Minnesota Wild,MIN
+245,30,3,Minnesota Wild,New York Rangers,2022020017488,2022020017,Blocked Shot,488,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by Ryan Lindgren,2022-10-14T02:13:12Z,3,06:30,13:30,3,6,3.0,New York Rangers,NYR
+246,30,3,Minnesota Wild,New York Rangers,2022020017489,2022020017,Blocked Shot,489,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by Filip Chytil,2022-10-14T02:13:52Z,3,07:10,12:50,3,6,3.0,New York Rangers,NYR
+247,30,3,Minnesota Wild,New York Rangers,2022020017490,2022020017,Stoppage,490,STOP,Offside,2022-10-14T02:14:06Z,3,07:23,12:37,3,6,,,
+248,30,3,Minnesota Wild,New York Rangers,2022020017622,2022020017,Faceoff,622,FACEOFF,Mika Zibanejad faceoff won against Joel Eriksson Ek,2022-10-14T02:16:19Z,3,07:23,12:37,3,6,3.0,New York Rangers,NYR
+249,30,3,Minnesota Wild,New York Rangers,2022020017491,2022020017,Blocked Shot,491,BLOCKED_SHOT,Jonas Brodin shot blocked shot by Kaapo Kakko,2022-10-14T02:16:43Z,3,07:47,12:13,3,6,3.0,New York Rangers,NYR
+250,30,3,Minnesota Wild,New York Rangers,2022020017493,2022020017,Shot,493,SHOT,Kaapo Kakko Batted saved by Marc-Andre Fleury,2022-10-14T02:16:54Z,3,07:58,12:02,3,6,3.0,New York Rangers,NYR
+251,30,3,Minnesota Wild,New York Rangers,2022020017492,2022020017,Shot,492,SHOT,Chris Kreider Wrist Shot saved by Marc-Andre Fleury,2022-10-14T02:16:56Z,3,08:00,12:00,3,6,3.0,New York Rangers,NYR
+252,30,3,Minnesota Wild,New York Rangers,2022020017511,2022020017,Hit,511,HIT,Chris Kreider hit Jonas Brodin,2022-10-14T02:17:07Z,3,08:11,11:49,3,6,3.0,New York Rangers,NYR
+253,30,3,Minnesota Wild,New York Rangers,2022020017494,2022020017,Blocked Shot,494,BLOCKED_SHOT,Calen Addison shot blocked shot by Vincent Trocheck,2022-10-14T02:17:42Z,3,08:46,11:14,3,6,3.0,New York Rangers,NYR
+254,30,3,Minnesota Wild,New York Rangers,2022020017512,2022020017,Hit,512,HIT,Jacob Trouba hit Matt Boldy,2022-10-14T02:17:46Z,3,08:50,11:10,3,6,3.0,New York Rangers,NYR
+255,30,3,Minnesota Wild,New York Rangers,2022020017623,2022020017,Blocked Shot,623,BLOCKED_SHOT,Vincent Trocheck shot blocked shot by Calen Addison,2022-10-14T02:17:58Z,3,09:02,10:58,3,6,30.0,Minnesota Wild,MIN
+256,30,3,Minnesota Wild,New York Rangers,2022020017495,2022020017,Stoppage,495,STOP,TV timeout,2022-10-14T02:19:03Z,3,10:07,09:53,3,6,,,
+257,30,3,Minnesota Wild,New York Rangers,2022020017854,2022020017,Penalty,854,PENALTY,Kirill Kaprizov Hooking against Barclay Goodrow,2022-10-14T02:19:03Z,3,10:07,09:53,3,6,30.0,Minnesota Wild,MIN
+258,30,3,Minnesota Wild,New York Rangers,2022020017624,2022020017,Faceoff,624,FACEOFF,Frederick Gaudreau faceoff won against Vincent Trocheck,2022-10-14T02:21:28Z,3,10:07,09:53,3,6,30.0,Minnesota Wild,MIN
+259,30,3,Minnesota Wild,New York Rangers,2022020017625,2022020017,Shot,625,SHOT,Frederick Gaudreau Backhand saved by Igor Shesterkin,2022-10-14T02:21:30Z,3,10:09,09:51,3,6,30.0,Minnesota Wild,MIN
+260,30,3,Minnesota Wild,New York Rangers,2022020017496,2022020017,Shot,496,SHOT,Adam Fox Wrist Shot saved by Marc-Andre Fleury,2022-10-14T02:21:57Z,3,10:36,09:24,3,6,3.0,New York Rangers,NYR
+261,30,3,Minnesota Wild,New York Rangers,2022020017626,2022020017,Blocked Shot,626,BLOCKED_SHOT,Artemi Panarin shot blocked shot by Tyson Jost,2022-10-14T02:22:31Z,3,11:10,08:50,3,6,30.0,Minnesota Wild,MIN
+262,30,3,Minnesota Wild,New York Rangers,2022020017628,2022020017,Missed Shot,628,MISSED_SHOT,Jake Middleton Over Net Igor Shesterkin,2022-10-14T02:23:22Z,3,12:01,07:59,3,6,30.0,Minnesota Wild,MIN
+263,30,3,Minnesota Wild,New York Rangers,2022020017514,2022020017,Hit,514,HIT,Kaapo Kakko hit Calen Addison,2022-10-14T02:23:46Z,3,12:25,07:35,3,6,3.0,New York Rangers,NYR
+264,30,3,Minnesota Wild,New York Rangers,2022020017498,2022020017,Stoppage,498,STOP,Puck in Crowd,2022-10-14T02:24:08Z,3,12:47,07:13,3,6,,,
+265,30,3,Minnesota Wild,New York Rangers,2022020017629,2022020017,Faceoff,629,FACEOFF,Mika Zibanejad faceoff won against Matt Boldy,2022-10-14T02:24:45Z,3,12:47,07:13,3,6,3.0,New York Rangers,NYR
+266,30,3,Minnesota Wild,New York Rangers,2022020017515,2022020017,Hit,515,HIT,Kaapo Kakko hit Jonas Brodin,2022-10-14T02:24:53Z,3,12:55,07:05,3,6,3.0,New York Rangers,NYR
+267,30,3,Minnesota Wild,New York Rangers,2022020017499,2022020017,Stoppage,499,STOP,Offside,2022-10-14T02:25:12Z,3,13:14,06:46,3,6,,,
+268,30,3,Minnesota Wild,New York Rangers,2022020017630,2022020017,Faceoff,630,FACEOFF,Ryan Carpenter faceoff won against Ryan Hartman,2022-10-14T02:25:42Z,3,13:14,06:46,3,6,3.0,New York Rangers,NYR
+269,30,3,Minnesota Wild,New York Rangers,2022020017875,2022020017,Penalty,875,PENALTY,Ryan Reaves Fighting against Marcus Foligno,2022-10-14T02:25:45Z,3,13:17,06:43,3,6,3.0,New York Rangers,NYR
+270,30,3,Minnesota Wild,New York Rangers,2022020017879,2022020017,Penalty,879,PENALTY,Marcus Foligno Fighting against Ryan Reaves,2022-10-14T02:25:45Z,3,13:17,06:43,3,6,30.0,Minnesota Wild,MIN
+271,30,3,Minnesota Wild,New York Rangers,2022020017631,2022020017,Faceoff,631,FACEOFF,Ryan Carpenter faceoff won against Joel Eriksson Ek,2022-10-14T02:27:13Z,3,13:17,06:43,3,6,3.0,New York Rangers,NYR
+272,30,3,Minnesota Wild,New York Rangers,2022020017516,2022020017,Hit,516,HIT,Matt Boldy hit Alexis Lafrenière,2022-10-14T02:27:56Z,3,14:00,06:00,3,6,30.0,Minnesota Wild,MIN
+273,30,3,Minnesota Wild,New York Rangers,2022020017500,2022020017,Shot,500,SHOT,Jacob Trouba Slap Shot saved by Marc-Andre Fleury,2022-10-14T02:27:59Z,3,14:03,05:57,3,6,3.0,New York Rangers,NYR
+274,30,3,Minnesota Wild,New York Rangers,2022020017751,2022020017,Stoppage,751,STOP,Goalie Stopped,2022-10-14T02:28:00Z,3,14:04,05:56,3,6,,,
+275,30,3,Minnesota Wild,New York Rangers,2022020017888,2022020017,Penalty,888,PENALTY,Jake Middleton Cross-checking against Dryden Hunt,2022-10-14T02:28:00Z,3,14:04,05:56,3,6,30.0,Minnesota Wild,MIN
+276,30,3,Minnesota Wild,New York Rangers,2022020017892,2022020017,Penalty,892,PENALTY,Dryden Hunt Slashing against Jake Middleton,2022-10-14T02:28:00Z,3,14:04,05:56,3,6,3.0,New York Rangers,NYR
+277,30,3,Minnesota Wild,New York Rangers,2022020017632,2022020017,Faceoff,632,FACEOFF,Mika Zibanejad faceoff won against Joel Eriksson Ek,2022-10-14T02:30:53Z,3,14:04,05:56,3,6,3.0,New York Rangers,NYR
+278,30,3,Minnesota Wild,New York Rangers,2022020017752,2022020017,Goal,752,GOAL,"Chris Kreider (2) Tip-In, assists: K'Andre Miller (2), Mika Zibanejad (2)",2022-10-14T02:30:56Z,3,14:07,05:53,3,7,3.0,New York Rangers,NYR
+279,30,3,Minnesota Wild,New York Rangers,2022020017633,2022020017,Faceoff,633,FACEOFF,Mika Zibanejad faceoff won against Joel Eriksson Ek,2022-10-14T02:31:33Z,3,14:07,05:53,3,7,3.0,New York Rangers,NYR
+280,30,3,Minnesota Wild,New York Rangers,2022020017517,2022020017,Hit,517,HIT,Mats Zuccarello hit Jacob Trouba,2022-10-14T02:31:57Z,3,14:31,05:29,3,7,30.0,Minnesota Wild,MIN
+281,30,3,Minnesota Wild,New York Rangers,2022020017753,2022020017,Shot,753,SHOT,K'Andre Miller Backhand saved by Marc-Andre Fleury,2022-10-14T02:32:04Z,3,14:38,05:22,3,7,3.0,New York Rangers,NYR
+282,30,3,Minnesota Wild,New York Rangers,2022020017754,2022020017,Stoppage,754,STOP,Icing,2022-10-14T02:32:16Z,3,14:50,05:10,3,7,,,
+283,30,3,Minnesota Wild,New York Rangers,2022020017634,2022020017,Faceoff,634,FACEOFF,Joel Eriksson Ek faceoff won against Mika Zibanejad,2022-10-14T02:32:38Z,3,14:50,05:10,3,7,30.0,Minnesota Wild,MIN
+284,30,3,Minnesota Wild,New York Rangers,2022020017518,2022020017,Giveaway,518,GIVEAWAY,Giveaway by Mats Zuccarello,2022-10-14T02:32:50Z,3,15:02,04:58,3,7,30.0,Minnesota Wild,MIN
+285,30,3,Minnesota Wild,New York Rangers,2022020017635,2022020017,Shot,635,SHOT,Mats Zuccarello Snap Shot saved by Igor Shesterkin,2022-10-14T02:33:06Z,3,15:18,04:42,3,7,30.0,Minnesota Wild,MIN
+286,30,3,Minnesota Wild,New York Rangers,2022020017636,2022020017,Missed Shot,636,MISSED_SHOT,Joel Eriksson Ek Wide of Net Igor Shesterkin,2022-10-14T02:33:28Z,3,15:40,04:20,3,7,30.0,Minnesota Wild,MIN
+287,30,3,Minnesota Wild,New York Rangers,2022020017755,2022020017,Stoppage,755,STOP,Icing,2022-10-14T02:33:40Z,3,15:52,04:08,3,7,,,
+288,30,3,Minnesota Wild,New York Rangers,2022020017637,2022020017,Faceoff,637,FACEOFF,Sam Steel faceoff won against Mika Zibanejad,2022-10-14T02:34:16Z,3,15:52,04:08,3,7,30.0,Minnesota Wild,MIN
+289,30,3,Minnesota Wild,New York Rangers,2022020017756,2022020017,Blocked Shot,756,BLOCKED_SHOT,Jared Spurgeon shot blocked shot by Adam Fox,2022-10-14T02:34:45Z,3,16:22,03:38,3,7,3.0,New York Rangers,NYR
+290,30,3,Minnesota Wild,New York Rangers,2022020017954,2022020017,Penalty,954,PENALTY,Jonas Brodin High-sticking against Mika Zibanejad,2022-10-14T02:34:45Z,3,16:22,03:38,3,7,30.0,Minnesota Wild,MIN
+291,30,3,Minnesota Wild,New York Rangers,2022020017638,2022020017,Faceoff,638,FACEOFF,Connor Dewar faceoff won against Filip Chytil,2022-10-14T02:35:28Z,3,16:22,03:38,3,7,30.0,Minnesota Wild,MIN
+292,30,3,Minnesota Wild,New York Rangers,2022020017757,2022020017,Shot,757,SHOT,Jacob Trouba Wrist Shot saved by Marc-Andre Fleury,2022-10-14T02:35:38Z,3,16:32,03:28,3,7,3.0,New York Rangers,NYR
+293,30,3,Minnesota Wild,New York Rangers,2022020017758,2022020017,Stoppage,758,STOP,Goalie Stopped,2022-10-14T02:35:40Z,3,16:33,03:27,3,7,,,
+294,30,3,Minnesota Wild,New York Rangers,2022020017639,2022020017,Faceoff,639,FACEOFF,Filip Chytil faceoff won against Connor Dewar,2022-10-14T02:36:05Z,3,16:33,03:27,3,7,3.0,New York Rangers,NYR
+295,30,3,Minnesota Wild,New York Rangers,2022020017759,2022020017,Stoppage,759,STOP,Offside,2022-10-14T02:36:35Z,3,17:03,02:57,3,7,,,
+296,30,3,Minnesota Wild,New York Rangers,2022020017640,2022020017,Faceoff,640,FACEOFF,Frederick Gaudreau faceoff won against Barclay Goodrow,2022-10-14T02:36:56Z,3,17:03,02:57,3,7,30.0,Minnesota Wild,MIN
+297,30,3,Minnesota Wild,New York Rangers,2022020017760,2022020017,Shot,760,SHOT,Braden Schneider Snap Shot saved by Marc-Andre Fleury,2022-10-14T02:37:38Z,3,17:45,02:15,3,7,3.0,New York Rangers,NYR
+298,30,3,Minnesota Wild,New York Rangers,2022020017641,2022020017,Missed Shot,641,MISSED_SHOT,Ryan Carpenter Wide of Net Marc-Andre Fleury,2022-10-14T02:37:44Z,3,17:51,02:09,3,7,3.0,New York Rangers,NYR
+299,30,3,Minnesota Wild,New York Rangers,2022020017762,2022020017,Shot,762,SHOT,Barclay Goodrow Wrist Shot saved by Marc-Andre Fleury,2022-10-14T02:37:47Z,3,17:54,02:06,3,7,3.0,New York Rangers,NYR
+300,30,3,Minnesota Wild,New York Rangers,2022020017763,2022020017,Shot,763,SHOT,Ryan Carpenter Wrist Shot saved by Marc-Andre Fleury,2022-10-14T02:37:48Z,3,17:55,02:05,3,7,3.0,New York Rangers,NYR
+301,30,3,Minnesota Wild,New York Rangers,2022020017761,2022020017,Stoppage,761,STOP,Goalie Stopped,2022-10-14T02:37:48Z,3,17:56,02:04,3,7,,,
+302,30,3,Minnesota Wild,New York Rangers,2022020017642,2022020017,Faceoff,642,FACEOFF,Marco Rossi faceoff won against Vincent Trocheck,2022-10-14T02:38:20Z,3,17:56,02:04,3,7,30.0,Minnesota Wild,MIN
+303,30,3,Minnesota Wild,New York Rangers,2022020017519,2022020017,Hit,519,HIT,Matt Dumba hit Vincent Trocheck,2022-10-14T02:38:33Z,3,18:09,01:51,3,7,30.0,Minnesota Wild,MIN
+304,30,3,Minnesota Wild,New York Rangers,2022020017643,2022020017,Blocked Shot,643,BLOCKED_SHOT,Ryan Carpenter shot blocked shot by Jake Middleton,2022-10-14T02:38:58Z,3,18:34,01:26,3,7,30.0,Minnesota Wild,MIN
+305,30,3,Minnesota Wild,New York Rangers,2022020017520,2022020017,Blocked Shot,520,BLOCKED_SHOT,Zac Jones shot blocked shot by Brandon Duhaime,2022-10-14T02:39:04Z,3,18:40,01:20,3,7,30.0,Minnesota Wild,MIN
+306,30,3,Minnesota Wild,New York Rangers,2022020017644,2022020017,Period End,644,PERIOD_END,End of 3rd Period,2022-10-14T02:40:25Z,3,20:00,00:00,3,7,,,
+307,30,3,Minnesota Wild,New York Rangers,2022020017901,2022020017,Period Official,901,PERIOD_OFFICIAL,Period Official,2022-10-14T02:52:33Z,3,20:00,00:00,3,7,,,
+308,30,3,Minnesota Wild,New York Rangers,2022020017902,2022020017,Game End,902,GAME_END,Game End,2022-10-14T02:52:37Z,3,20:00,00:00,3,7,,,
+309,30,3,Minnesota Wild,New York Rangers,20220200171091,2022020017,Game Official,1091,GAME_OFFICIAL,Game Official,2022-10-14T15:34:01Z,3,20:00,00:00,3,7,,,

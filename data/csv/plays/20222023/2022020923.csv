@@ -1,0 +1,298 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,1,26,New Jersey Devils,Los Angeles Kings,20220209231,2022020923,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-02-23T22:59:58Z,1,00:00,20:00,0,0,,,
+1,1,26,New Jersey Devils,Los Angeles Kings,20220209235,2022020923,Period Ready,5,PERIOD_READY,Period Ready,2023-02-24T00:08:32Z,1,00:00,20:00,0,0,,,
+2,1,26,New Jersey Devils,Los Angeles Kings,202202092351,2022020923,Period Start,51,PERIOD_START,Period Start,2023-02-24T00:09:05Z,1,00:00,20:00,0,0,,,
+3,1,26,New Jersey Devils,Los Angeles Kings,202202092352,2022020923,Faceoff,52,FACEOFF,Nico Hischier faceoff won against Anze Kopitar,2023-02-24T00:09:05Z,1,00:00,20:00,0,0,1.0,New Jersey Devils,NJD
+4,1,26,New Jersey Devils,Los Angeles Kings,202202092353,2022020923,Takeaway,53,TAKEAWAY,Takeaway by Quinton Byfield,2023-02-24T00:09:31Z,1,00:26,19:34,0,0,26.0,Los Angeles Kings,LAK
+5,1,26,New Jersey Devils,Los Angeles Kings,202202092354,2022020923,Giveaway,54,GIVEAWAY,Giveaway by Mikey Anderson,2023-02-24T00:09:44Z,1,00:39,19:21,0,0,26.0,Los Angeles Kings,LAK
+6,1,26,New Jersey Devils,Los Angeles Kings,2022020923201,2022020923,Stoppage,201,STOP,Offside,2023-02-24T00:09:53Z,1,00:48,19:12,0,0,,,
+7,1,26,New Jersey Devils,Los Angeles Kings,202202092355,2022020923,Faceoff,55,FACEOFF,Phillip Danault faceoff won against Jack Hughes,2023-02-24T00:10:18Z,1,00:48,19:12,0,0,26.0,Los Angeles Kings,LAK
+8,1,26,New Jersey Devils,Los Angeles Kings,2022020923202,2022020923,Stoppage,202,STOP,Puck in Benches,2023-02-24T00:10:40Z,1,01:10,18:50,0,0,,,
+9,1,26,New Jersey Devils,Los Angeles Kings,202202092356,2022020923,Faceoff,56,FACEOFF,Erik Haula faceoff won against Blake Lizotte,2023-02-24T00:11:07Z,1,01:10,18:50,0,0,1.0,New Jersey Devils,NJD
+10,1,26,New Jersey Devils,Los Angeles Kings,2022020923303,2022020923,Blocked Shot,303,BLOCKED_SHOT,Ondrej Palat shot blocked shot by Tobias Bjornfot,2023-02-24T00:11:09Z,1,01:12,18:48,0,0,26.0,Los Angeles Kings,LAK
+11,1,26,New Jersey Devils,Los Angeles Kings,2022020923305,2022020923,Missed Shot,305,MISSED_SHOT,Ondrej Palat Wide of Net Pheonix Copley,2023-02-24T00:11:10Z,1,01:13,18:47,0,0,1.0,New Jersey Devils,NJD
+12,1,26,New Jersey Devils,Los Angeles Kings,2022020923203,2022020923,Missed Shot,203,MISSED_SHOT,Erik Haula Wide of Net Pheonix Copley,2023-02-24T00:11:13Z,1,01:16,18:44,0,0,1.0,New Jersey Devils,NJD
+13,1,26,New Jersey Devils,Los Angeles Kings,2022020923301,2022020923,Shot,301,SHOT,Erik Haula Backhand saved by Pheonix Copley,2023-02-24T00:11:14Z,1,01:17,18:43,0,0,1.0,New Jersey Devils,NJD
+14,1,26,New Jersey Devils,Los Angeles Kings,2022020923302,2022020923,Shot,302,SHOT,Erik Haula Backhand saved by Pheonix Copley,2023-02-24T00:11:14Z,1,01:17,18:43,0,0,1.0,New Jersey Devils,NJD
+15,1,26,New Jersey Devils,Los Angeles Kings,2022020923304,2022020923,Shot,304,SHOT,Erik Haula Snap Shot saved by Pheonix Copley,2023-02-24T00:11:18Z,1,01:21,18:39,0,0,1.0,New Jersey Devils,NJD
+16,1,26,New Jersey Devils,Los Angeles Kings,20220209239,2022020923,Missed Shot,9,MISSED_SHOT,Ondrej Palat Wide of Net Pheonix Copley,2023-02-24T00:11:23Z,1,01:26,18:34,0,0,1.0,New Jersey Devils,NJD
+17,1,26,New Jersey Devils,Los Angeles Kings,202202092310,2022020923,Missed Shot,10,MISSED_SHOT,Kevin Bahl Wide of Net Pheonix Copley,2023-02-24T00:11:53Z,1,01:56,18:04,0,0,1.0,New Jersey Devils,NJD
+18,1,26,New Jersey Devils,Los Angeles Kings,2022020923204,2022020923,Stoppage,204,STOP,Puck in Benches,2023-02-24T00:12:20Z,1,02:23,17:37,0,0,,,
+19,1,26,New Jersey Devils,Los Angeles Kings,202202092357,2022020923,Faceoff,57,FACEOFF,Rasmus Kupari faceoff won against Michael McLeod,2023-02-24T00:12:41Z,1,02:23,17:37,0,0,26.0,Los Angeles Kings,LAK
+20,1,26,New Jersey Devils,Los Angeles Kings,2022020923205,2022020923,Stoppage,205,STOP,Puck in Benches,2023-02-24T00:12:47Z,1,02:29,17:31,0,0,,,
+21,1,26,New Jersey Devils,Los Angeles Kings,202202092358,2022020923,Faceoff,58,FACEOFF,Michael McLeod faceoff won against Rasmus Kupari,2023-02-24T00:13:05Z,1,02:29,17:31,0,0,1.0,New Jersey Devils,NJD
+22,1,26,New Jersey Devils,Los Angeles Kings,202202092359,2022020923,Giveaway,59,GIVEAWAY,Giveaway by Kevin Fiala,2023-02-24T00:15:06Z,1,04:30,15:30,0,0,26.0,Los Angeles Kings,LAK
+23,1,26,New Jersey Devils,Los Angeles Kings,202202092311,2022020923,Shot,11,SHOT,Jack Hughes Snap Shot saved by Pheonix Copley,2023-02-24T00:15:21Z,1,04:45,15:15,0,0,1.0,New Jersey Devils,NJD
+24,1,26,New Jersey Devils,Los Angeles Kings,2022020923154,2022020923,Hit,154,HIT,Damon Severson hit Kevin Fiala,2023-02-24T00:15:33Z,1,04:57,15:03,0,0,1.0,New Jersey Devils,NJD
+25,1,26,New Jersey Devils,Los Angeles Kings,202202092360,2022020923,Giveaway,60,GIVEAWAY,Giveaway by Kevin Fiala,2023-02-24T00:15:45Z,1,05:09,14:51,0,0,26.0,Los Angeles Kings,LAK
+26,1,26,New Jersey Devils,Los Angeles Kings,2022020923155,2022020923,Hit,155,HIT,Erik Haula hit Blake Lizotte,2023-02-24T00:16:03Z,1,05:27,14:33,0,0,1.0,New Jersey Devils,NJD
+27,1,26,New Jersey Devils,Los Angeles Kings,2022020923307,2022020923,Missed Shot,307,MISSED_SHOT,Jonas Siegenthaler Wide of Net Pheonix Copley,2023-02-24T00:16:14Z,1,05:38,14:22,0,0,1.0,New Jersey Devils,NJD
+28,1,26,New Jersey Devils,Los Angeles Kings,202202092313,2022020923,Blocked Shot,13,BLOCKED_SHOT,Erik Haula shot blocked shot by Tobias Bjornfot,2023-02-24T00:16:22Z,1,05:46,14:14,0,0,26.0,Los Angeles Kings,LAK
+29,1,26,New Jersey Devils,Los Angeles Kings,2022020923156,2022020923,Hit,156,HIT,Tobias Bjornfot hit Miles Wood,2023-02-24T00:16:43Z,1,06:07,13:53,0,0,26.0,Los Angeles Kings,LAK
+30,1,26,New Jersey Devils,Los Angeles Kings,202202092361,2022020923,Hit,61,HIT,John Marino hit Arthur Kaliyev,2023-02-24T00:17:06Z,1,06:30,13:30,0,0,1.0,New Jersey Devils,NJD
+31,1,26,New Jersey Devils,Los Angeles Kings,2022020923157,2022020923,Takeaway,157,TAKEAWAY,Takeaway by Arthur Kaliyev,2023-02-24T00:17:09Z,1,06:33,13:27,0,0,26.0,Los Angeles Kings,LAK
+32,1,26,New Jersey Devils,Los Angeles Kings,202202092362,2022020923,Giveaway,62,GIVEAWAY,Giveaway by Tomas Tatar,2023-02-24T00:17:29Z,1,06:53,13:07,0,0,1.0,New Jersey Devils,NJD
+33,1,26,New Jersey Devils,Los Angeles Kings,2022020923159,2022020923,Takeaway,159,TAKEAWAY,Takeaway by Nico Hischier,2023-02-24T00:17:45Z,1,07:09,12:51,0,0,1.0,New Jersey Devils,NJD
+34,1,26,New Jersey Devils,Los Angeles Kings,202202092314,2022020923,Missed Shot,14,MISSED_SHOT,Dawson Mercer Goalpost Pheonix Copley,2023-02-24T00:17:49Z,1,07:13,12:47,0,0,1.0,New Jersey Devils,NJD
+35,1,26,New Jersey Devils,Los Angeles Kings,202202092315,2022020923,Goal,15,GOAL,"Anze Kopitar (20) Backhand, assists: Sean Durzi (25), Adrian Kempe (18)",2023-02-24T00:18:00Z,1,07:24,12:36,0,1,26.0,Los Angeles Kings,LAK
+36,1,26,New Jersey Devils,Los Angeles Kings,202202092363,2022020923,Faceoff,63,FACEOFF,Jack Hughes faceoff won against Phillip Danault,2023-02-24T00:18:42Z,1,07:24,12:36,0,1,1.0,New Jersey Devils,NJD
+37,1,26,New Jersey Devils,Los Angeles Kings,2022020923207,2022020923,Shot,207,SHOT,Kevin Fiala Wrist Shot saved by Vitek Vanecek,2023-02-24T00:19:02Z,1,07:44,12:16,0,1,26.0,Los Angeles Kings,LAK
+38,1,26,New Jersey Devils,Los Angeles Kings,2022020923208,2022020923,Stoppage,208,STOP,Puck Frozen,2023-02-24T00:19:13Z,1,07:55,12:05,0,1,,,
+39,1,26,New Jersey Devils,Los Angeles Kings,202202092364,2022020923,Faceoff,64,FACEOFF,Jesper Boqvist faceoff won against Phillip Danault,2023-02-24T00:21:43Z,1,07:55,12:05,0,1,1.0,New Jersey Devils,NJD
+40,1,26,New Jersey Devils,Los Angeles Kings,202202092316,2022020923,Shot,16,SHOT,Alex Iafallo Snap Shot saved by Vitek Vanecek,2023-02-24T00:22:44Z,1,08:56,11:04,0,1,26.0,Los Angeles Kings,LAK
+41,1,26,New Jersey Devils,Los Angeles Kings,202202092365,2022020923,Giveaway,65,GIVEAWAY,Giveaway by Dougie Hamilton,2023-02-24T00:22:44Z,1,08:56,11:04,0,1,1.0,New Jersey Devils,NJD
+42,1,26,New Jersey Devils,Los Angeles Kings,2022020923209,2022020923,Stoppage,209,STOP,Goalie Stopped,2023-02-24T00:22:44Z,1,08:56,11:04,0,1,,,
+43,1,26,New Jersey Devils,Los Angeles Kings,202202092366,2022020923,Faceoff,66,FACEOFF,Michael McLeod faceoff won against Rasmus Kupari,2023-02-24T00:23:12Z,1,08:56,11:04,0,1,1.0,New Jersey Devils,NJD
+44,1,26,New Jersey Devils,Los Angeles Kings,2022020923162,2022020923,Hit,162,HIT,Rasmus Kupari hit Michael McLeod,2023-02-24T00:23:40Z,1,09:24,10:36,0,1,26.0,Los Angeles Kings,LAK
+45,1,26,New Jersey Devils,Los Angeles Kings,2022020923210,2022020923,Stoppage,210,STOP,Icing,2023-02-24T00:23:51Z,1,09:35,10:25,0,1,,,
+46,1,26,New Jersey Devils,Los Angeles Kings,202202092367,2022020923,Faceoff,67,FACEOFF,Nico Hischier faceoff won against Rasmus Kupari,2023-02-24T00:24:16Z,1,09:35,10:25,0,1,1.0,New Jersey Devils,NJD
+47,1,26,New Jersey Devils,Los Angeles Kings,202202092317,2022020923,Shot,17,SHOT,Ryan Graves Snap Shot saved by Pheonix Copley,2023-02-24T00:24:28Z,1,09:47,10:13,0,1,1.0,New Jersey Devils,NJD
+48,1,26,New Jersey Devils,Los Angeles Kings,2022020923211,2022020923,Stoppage,211,STOP,Goalie Stopped,2023-02-24T00:24:30Z,1,09:48,10:12,0,1,,,
+49,1,26,New Jersey Devils,Los Angeles Kings,202202092368,2022020923,Faceoff,68,FACEOFF,Nico Hischier faceoff won against Quinton Byfield,2023-02-24T00:25:04Z,1,09:48,10:12,0,1,1.0,New Jersey Devils,NJD
+50,1,26,New Jersey Devils,Los Angeles Kings,202202092318,2022020923,Missed Shot,18,MISSED_SHOT,Ryan Graves Wide of Net Pheonix Copley,2023-02-24T00:25:07Z,1,09:51,10:09,0,1,1.0,New Jersey Devils,NJD
+51,1,26,New Jersey Devils,Los Angeles Kings,202202092369,2022020923,Giveaway,69,GIVEAWAY,Giveaway by Matt Roy,2023-02-24T00:26:03Z,1,10:47,09:13,0,1,26.0,Los Angeles Kings,LAK
+52,1,26,New Jersey Devils,Los Angeles Kings,2022020923163,2022020923,Takeaway,163,TAKEAWAY,Takeaway by Kevin Fiala,2023-02-24T00:26:07Z,1,10:51,09:09,0,1,26.0,Los Angeles Kings,LAK
+53,1,26,New Jersey Devils,Los Angeles Kings,202202092370,2022020923,Takeaway,70,TAKEAWAY,Takeaway by Damon Severson,2023-02-24T00:26:19Z,1,11:03,08:57,0,1,1.0,New Jersey Devils,NJD
+54,1,26,New Jersey Devils,Los Angeles Kings,2022020923212,2022020923,Blocked Shot,212,BLOCKED_SHOT,Jesper Bratt shot blocked shot by Drew Doughty,2023-02-24T00:26:38Z,1,11:22,08:38,0,1,26.0,Los Angeles Kings,LAK
+55,1,26,New Jersey Devils,Los Angeles Kings,202202092319,2022020923,Shot,19,SHOT,Kevin Fiala Snap Shot saved by Vitek Vanecek,2023-02-24T00:26:49Z,1,11:33,08:27,0,1,26.0,Los Angeles Kings,LAK
+56,1,26,New Jersey Devils,Los Angeles Kings,202202092321,2022020923,Goal,21,GOAL,"Viktor Arvidsson (17) Wrist Shot, assists: Kevin Fiala (41), Mikey Anderson (12)",2023-02-24T00:26:51Z,1,11:35,08:25,0,2,26.0,Los Angeles Kings,LAK
+57,1,26,New Jersey Devils,Los Angeles Kings,202202092371,2022020923,Faceoff,71,FACEOFF,Erik Haula faceoff won against Blake Lizotte,2023-02-24T00:27:42Z,1,11:35,08:25,0,2,1.0,New Jersey Devils,NJD
+58,1,26,New Jersey Devils,Los Angeles Kings,202202092322,2022020923,Missed Shot,22,MISSED_SHOT,Blake Lizotte Goalpost Vitek Vanecek,2023-02-24T00:28:13Z,1,12:06,07:54,0,2,26.0,Los Angeles Kings,LAK
+59,1,26,New Jersey Devils,Los Angeles Kings,202202092372,2022020923,Takeaway,72,TAKEAWAY,Takeaway by Blake Lizotte,2023-02-24T00:28:22Z,1,12:15,07:45,0,2,26.0,Los Angeles Kings,LAK
+60,1,26,New Jersey Devils,Los Angeles Kings,202202092373,2022020923,Takeaway,73,TAKEAWAY,Takeaway by Erik Haula,2023-02-24T00:28:24Z,1,12:16,07:44,0,2,1.0,New Jersey Devils,NJD
+61,1,26,New Jersey Devils,Los Angeles Kings,202202092324,2022020923,Missed Shot,24,MISSED_SHOT,Damon Severson Wide of Net Pheonix Copley,2023-02-24T00:29:07Z,1,13:00,07:00,0,2,1.0,New Jersey Devils,NJD
+62,1,26,New Jersey Devils,Los Angeles Kings,2022020923213,2022020923,Stoppage,213,STOP,Puck Frozen,2023-02-24T00:29:07Z,1,13:00,07:00,0,2,,,
+63,1,26,New Jersey Devils,Los Angeles Kings,202202092374,2022020923,Faceoff,74,FACEOFF,Anze Kopitar faceoff won against Nico Hischier,2023-02-24T00:31:23Z,1,13:00,07:00,0,2,26.0,Los Angeles Kings,LAK
+64,1,26,New Jersey Devils,Los Angeles Kings,202202092325,2022020923,Shot,25,SHOT,Viktor Arvidsson Slap Shot saved by Vitek Vanecek,2023-02-24T00:32:20Z,1,13:57,06:03,0,2,26.0,Los Angeles Kings,LAK
+65,1,26,New Jersey Devils,Los Angeles Kings,2022020923306,2022020923,Shot,306,SHOT,Viktor Arvidsson Snap Shot saved by Vitek Vanecek,2023-02-24T00:32:20Z,1,13:57,06:03,0,2,26.0,Los Angeles Kings,LAK
+66,1,26,New Jersey Devils,Los Angeles Kings,202202092375,2022020923,Giveaway,75,GIVEAWAY,Giveaway by Dougie Hamilton,2023-02-24T00:32:28Z,1,14:05,05:55,0,2,1.0,New Jersey Devils,NJD
+67,1,26,New Jersey Devils,Los Angeles Kings,2022020923214,2022020923,Stoppage,214,STOP,Offside,2023-02-24T00:32:29Z,1,14:06,05:54,0,2,,,
+68,1,26,New Jersey Devils,Los Angeles Kings,202202092376,2022020923,Faceoff,76,FACEOFF,Phillip Danault faceoff won against Jack Hughes,2023-02-24T00:34:49Z,1,14:06,05:54,0,2,26.0,Los Angeles Kings,LAK
+69,1,26,New Jersey Devils,Los Angeles Kings,2022020923215,2022020923,Blocked Shot,215,BLOCKED_SHOT,Viktor Arvidsson shot blocked shot by Jonas Siegenthaler,2023-02-24T00:34:58Z,1,14:15,05:45,0,2,1.0,New Jersey Devils,NJD
+70,1,26,New Jersey Devils,Los Angeles Kings,202202092326,2022020923,Blocked Shot,26,BLOCKED_SHOT,Yegor Sharangovich shot blocked shot by Matt Roy,2023-02-24T00:35:07Z,1,14:24,05:36,0,2,26.0,Los Angeles Kings,LAK
+71,1,26,New Jersey Devils,Los Angeles Kings,2022020923167,2022020923,Hit,167,HIT,Erik Haula hit Sean Durzi,2023-02-24T00:35:38Z,1,14:55,05:05,0,2,1.0,New Jersey Devils,NJD
+72,1,26,New Jersey Devils,Los Angeles Kings,202202092377,2022020923,Hit,77,HIT,Alex Iafallo hit Kevin Bahl,2023-02-24T00:35:50Z,1,15:07,04:53,0,2,26.0,Los Angeles Kings,LAK
+73,1,26,New Jersey Devils,Los Angeles Kings,202202092328,2022020923,Shot,28,SHOT,Damon Severson Slap Shot saved by Pheonix Copley,2023-02-24T00:36:03Z,1,15:20,04:40,0,2,1.0,New Jersey Devils,NJD
+74,1,26,New Jersey Devils,Los Angeles Kings,2022020923216,2022020923,Stoppage,216,STOP,Goalie Stopped,2023-02-24T00:36:04Z,1,15:21,04:39,0,2,,,
+75,1,26,New Jersey Devils,Los Angeles Kings,202202092378,2022020923,Faceoff,78,FACEOFF,Michael McLeod faceoff won against Rasmus Kupari,2023-02-24T00:36:32Z,1,15:21,04:39,0,2,1.0,New Jersey Devils,NJD
+76,1,26,New Jersey Devils,Los Angeles Kings,202202092329,2022020923,Blocked Shot,29,BLOCKED_SHOT,Damon Severson shot blocked shot by Tobias Bjornfot,2023-02-24T00:36:39Z,1,15:28,04:32,0,2,26.0,Los Angeles Kings,LAK
+77,1,26,New Jersey Devils,Los Angeles Kings,202202092330,2022020923,Shot,30,SHOT,Miles Wood Wrist Shot saved by Pheonix Copley,2023-02-24T00:37:00Z,1,15:49,04:11,0,2,1.0,New Jersey Devils,NJD
+78,1,26,New Jersey Devils,Los Angeles Kings,2022020923218,2022020923,Blocked Shot,218,BLOCKED_SHOT,Damon Severson shot blocked shot by Jaret Anderson-Dolan,2023-02-24T00:37:10Z,1,15:59,04:01,0,2,26.0,Los Angeles Kings,LAK
+79,1,26,New Jersey Devils,Los Angeles Kings,202202092379,2022020923,Hit,79,HIT,John Marino hit Arthur Kaliyev,2023-02-24T00:37:31Z,1,16:20,03:40,0,2,1.0,New Jersey Devils,NJD
+80,1,26,New Jersey Devils,Los Angeles Kings,202202092331,2022020923,Stoppage,31,STOP,Puck in Netting,2023-02-24T00:37:51Z,1,16:40,03:20,0,2,,,
+81,1,26,New Jersey Devils,Los Angeles Kings,2022020923219,2022020923,Blocked Shot,219,BLOCKED_SHOT,John Marino shot blocked shot by Jaret Anderson-Dolan,2023-02-24T00:37:51Z,1,16:40,03:20,0,2,26.0,Los Angeles Kings,LAK
+82,1,26,New Jersey Devils,Los Angeles Kings,202202092380,2022020923,Faceoff,80,FACEOFF,Nico Hischier faceoff won against Anze Kopitar,2023-02-24T00:38:17Z,1,16:40,03:20,0,2,1.0,New Jersey Devils,NJD
+83,1,26,New Jersey Devils,Los Angeles Kings,202202092381,2022020923,Hit,81,HIT,Adrian Kempe hit Dawson Mercer,2023-02-24T00:38:32Z,1,16:55,03:05,0,2,26.0,Los Angeles Kings,LAK
+84,1,26,New Jersey Devils,Los Angeles Kings,2022020923168,2022020923,Hit,168,HIT,Jonas Siegenthaler hit Viktor Arvidsson,2023-02-24T00:39:14Z,1,17:37,02:23,0,2,1.0,New Jersey Devils,NJD
+85,1,26,New Jersey Devils,Los Angeles Kings,202202092332,2022020923,Shot,32,SHOT,Phillip Danault Snap Shot saved by Vitek Vanecek,2023-02-24T00:39:20Z,1,17:43,02:17,0,2,26.0,Los Angeles Kings,LAK
+86,1,26,New Jersey Devils,Los Angeles Kings,202202092333,2022020923,Missed Shot,33,MISSED_SHOT,Jack Hughes Wide of Net Pheonix Copley,2023-02-24T00:39:34Z,1,17:57,02:03,0,2,1.0,New Jersey Devils,NJD
+87,1,26,New Jersey Devils,Los Angeles Kings,2022020923220,2022020923,Blocked Shot,220,BLOCKED_SHOT,Ondrej Palat shot blocked shot by Viktor Arvidsson,2023-02-24T00:39:41Z,1,18:04,01:56,0,2,26.0,Los Angeles Kings,LAK
+88,1,26,New Jersey Devils,Los Angeles Kings,202202092382,2022020923,Hit,82,HIT,Sean Walker hit Jesper Boqvist,2023-02-24T00:40:05Z,1,18:28,01:32,0,2,26.0,Los Angeles Kings,LAK
+89,1,26,New Jersey Devils,Los Angeles Kings,2022020923221,2022020923,Blocked Shot,221,BLOCKED_SHOT,Damon Severson shot blocked shot by Sean Walker,2023-02-24T00:40:31Z,1,18:54,01:06,0,2,26.0,Los Angeles Kings,LAK
+90,1,26,New Jersey Devils,Los Angeles Kings,2022020923169,2022020923,Giveaway,169,GIVEAWAY,Giveaway by Erik Haula,2023-02-24T00:40:34Z,1,18:55,01:05,0,2,1.0,New Jersey Devils,NJD
+91,1,26,New Jersey Devils,Los Angeles Kings,2022020923222,2022020923,Stoppage,222,STOP,Puck in Benches,2023-02-24T00:40:48Z,1,19:10,00:50,0,2,,,
+92,1,26,New Jersey Devils,Los Angeles Kings,202202092383,2022020923,Faceoff,83,FACEOFF,Michael McLeod faceoff won against Anze Kopitar,2023-02-24T00:41:19Z,1,19:10,00:50,0,2,1.0,New Jersey Devils,NJD
+93,1,26,New Jersey Devils,Los Angeles Kings,202202092334,2022020923,Shot,34,SHOT,Mikey Anderson Wrist Shot saved by Vitek Vanecek,2023-02-24T00:41:26Z,1,19:18,00:42,0,2,26.0,Los Angeles Kings,LAK
+94,1,26,New Jersey Devils,Los Angeles Kings,2022020923223,2022020923,Stoppage,223,STOP,Goalie Stopped,2023-02-24T00:41:27Z,1,19:19,00:41,0,2,,,
+95,1,26,New Jersey Devils,Los Angeles Kings,202202092384,2022020923,Faceoff,84,FACEOFF,Michael McLeod faceoff won against Anze Kopitar,2023-02-24T00:42:02Z,1,19:19,00:41,0,2,1.0,New Jersey Devils,NJD
+96,1,26,New Jersey Devils,Los Angeles Kings,202202092335,2022020923,Missed Shot,35,MISSED_SHOT,Tomas Tatar Wide of Net Pheonix Copley,2023-02-24T00:42:20Z,1,19:37,00:23,0,2,1.0,New Jersey Devils,NJD
+97,1,26,New Jersey Devils,Los Angeles Kings,2022020923512,2022020923,Penalty,512,PENALTY,Quinton Byfield Tripping against Nico Hischier,2023-02-24T00:42:26Z,1,19:43,00:17,0,2,26.0,Los Angeles Kings,LAK
+98,1,26,New Jersey Devils,Los Angeles Kings,202202092385,2022020923,Faceoff,85,FACEOFF,Anze Kopitar faceoff won against Nico Hischier,2023-02-24T00:43:09Z,1,19:43,00:17,0,2,26.0,Los Angeles Kings,LAK
+99,1,26,New Jersey Devils,Los Angeles Kings,2022020923170,2022020923,Takeaway,170,TAKEAWAY,Takeaway by Dougie Hamilton,2023-02-24T00:43:21Z,1,19:55,00:05,0,2,1.0,New Jersey Devils,NJD
+100,1,26,New Jersey Devils,Los Angeles Kings,202202092336,2022020923,Period End,36,PERIOD_END,End of 1st Period,2023-02-24T00:43:26Z,1,20:00,00:00,0,2,,,
+101,1,26,New Jersey Devils,Los Angeles Kings,202202092339,2022020923,Period Official,39,PERIOD_OFFICIAL,Period Official,2023-02-24T00:49:48Z,1,20:00,00:00,0,2,,,
+102,1,26,New Jersey Devils,Los Angeles Kings,202202092340,2022020923,Period Ready,40,PERIOD_READY,Period Ready,2023-02-24T01:02:19Z,2,00:00,20:00,0,2,,,
+103,1,26,New Jersey Devils,Los Angeles Kings,202202092386,2022020923,Period Start,86,PERIOD_START,Period Start,2023-02-24T01:02:24Z,2,00:00,20:00,0,2,,,
+104,1,26,New Jersey Devils,Los Angeles Kings,202202092387,2022020923,Faceoff,87,FACEOFF,Nico Hischier faceoff won against Anze Kopitar,2023-02-24T01:02:24Z,2,00:00,20:00,0,2,1.0,New Jersey Devils,NJD
+105,1,26,New Jersey Devils,Los Angeles Kings,2022020923224,2022020923,Blocked Shot,224,BLOCKED_SHOT,Damon Severson shot blocked shot by Matt Roy,2023-02-24T01:03:46Z,2,01:22,18:38,0,2,26.0,Los Angeles Kings,LAK
+106,1,26,New Jersey Devils,Los Angeles Kings,202202092341,2022020923,Shot,41,SHOT,Dawson Mercer Slap Shot saved by Pheonix Copley,2023-02-24T01:03:51Z,2,01:27,18:33,0,2,1.0,New Jersey Devils,NJD
+107,1,26,New Jersey Devils,Los Angeles Kings,2022020923225,2022020923,Blocked Shot,225,BLOCKED_SHOT,Tomas Tatar shot blocked shot by Matt Roy,2023-02-24T01:04:00Z,2,01:36,18:24,0,2,26.0,Los Angeles Kings,LAK
+108,1,26,New Jersey Devils,Los Angeles Kings,202202092342,2022020923,Missed Shot,42,MISSED_SHOT,Jack Hughes Wide of Net Pheonix Copley,2023-02-24T01:04:05Z,2,01:41,18:19,0,2,1.0,New Jersey Devils,NJD
+109,1,26,New Jersey Devils,Los Angeles Kings,2022020923226,2022020923,Stoppage,226,STOP,Puck in Netting,2023-02-24T01:04:05Z,2,01:41,18:19,0,2,,,
+110,1,26,New Jersey Devils,Los Angeles Kings,202202092388,2022020923,Faceoff,88,FACEOFF,Michael McLeod faceoff won against Anze Kopitar,2023-02-24T01:04:37Z,2,01:41,18:19,0,2,1.0,New Jersey Devils,NJD
+111,1,26,New Jersey Devils,Los Angeles Kings,2022020923227,2022020923,Stoppage,227,STOP,Icing,2023-02-24T01:05:04Z,2,02:08,17:52,0,2,,,
+112,1,26,New Jersey Devils,Los Angeles Kings,202202092389,2022020923,Faceoff,89,FACEOFF,Michael McLeod faceoff won against Anze Kopitar,2023-02-24T01:05:36Z,2,02:08,17:52,0,2,1.0,New Jersey Devils,NJD
+113,1,26,New Jersey Devils,Los Angeles Kings,2022020923171,2022020923,Hit,171,HIT,Sean Walker hit Miles Wood,2023-02-24T01:05:46Z,2,02:18,17:42,0,2,26.0,Los Angeles Kings,LAK
+114,1,26,New Jersey Devils,Los Angeles Kings,202202092390,2022020923,Hit,90,HIT,Fabian Zetterlund hit Sean Walker,2023-02-24T01:05:50Z,2,02:22,17:38,0,2,1.0,New Jersey Devils,NJD
+115,1,26,New Jersey Devils,Los Angeles Kings,2022020923172,2022020923,Hit,172,HIT,Nico Hischier hit Viktor Arvidsson,2023-02-24T01:06:08Z,2,02:40,17:20,0,2,1.0,New Jersey Devils,NJD
+116,1,26,New Jersey Devils,Los Angeles Kings,202202092343,2022020923,Shot,43,SHOT,Phillip Danault Snap Shot saved by Vitek Vanecek,2023-02-24T01:06:15Z,2,02:47,17:13,0,2,26.0,Los Angeles Kings,LAK
+117,1,26,New Jersey Devils,Los Angeles Kings,2022020923228,2022020923,Stoppage,228,STOP,Goalie Stopped,2023-02-24T01:06:17Z,2,02:49,17:11,0,2,,,
+118,1,26,New Jersey Devils,Los Angeles Kings,202202092391,2022020923,Faceoff,91,FACEOFF,Phillip Danault faceoff won against Erik Haula,2023-02-24T01:06:49Z,2,02:49,17:11,0,2,26.0,Los Angeles Kings,LAK
+119,1,26,New Jersey Devils,Los Angeles Kings,202202092344,2022020923,Blocked Shot,44,BLOCKED_SHOT,Jonas Siegenthaler shot blocked shot by Mikey Anderson,2023-02-24T01:06:51Z,2,02:51,17:09,0,2,26.0,Los Angeles Kings,LAK
+120,1,26,New Jersey Devils,Los Angeles Kings,2022020923229,2022020923,Stoppage,229,STOP,Icing,2023-02-24T01:07:26Z,2,03:26,16:34,0,2,,,
+121,1,26,New Jersey Devils,Los Angeles Kings,202202092392,2022020923,Faceoff,92,FACEOFF,Jack Hughes faceoff won against Phillip Danault,2023-02-24T01:07:58Z,2,03:26,16:34,0,2,1.0,New Jersey Devils,NJD
+122,1,26,New Jersey Devils,Los Angeles Kings,202202092345,2022020923,Shot,45,SHOT,Jesper Bratt Snap Shot saved by Pheonix Copley,2023-02-24T01:08:37Z,2,04:05,15:55,0,2,1.0,New Jersey Devils,NJD
+123,1,26,New Jersey Devils,Los Angeles Kings,202202092393,2022020923,Takeaway,93,TAKEAWAY,Takeaway by Jonas Siegenthaler,2023-02-24T01:09:06Z,2,04:34,15:26,0,2,1.0,New Jersey Devils,NJD
+124,1,26,New Jersey Devils,Los Angeles Kings,202202092346,2022020923,Missed Shot,46,MISSED_SHOT,Quinton Byfield Wide of Net Vitek Vanecek,2023-02-24T01:09:32Z,2,05:03,14:57,0,2,26.0,Los Angeles Kings,LAK
+125,1,26,New Jersey Devils,Los Angeles Kings,2022020923230,2022020923,Missed Shot,230,MISSED_SHOT,Quinton Byfield Wide of Net Vitek Vanecek,2023-02-24T01:09:41Z,2,05:09,14:51,0,2,26.0,Los Angeles Kings,LAK
+126,1,26,New Jersey Devils,Los Angeles Kings,2022020923173,2022020923,Hit,173,HIT,Tomas Tatar hit Quinton Byfield,2023-02-24T01:09:48Z,2,05:16,14:44,0,2,1.0,New Jersey Devils,NJD
+127,1,26,New Jersey Devils,Los Angeles Kings,202202092394,2022020923,Takeaway,94,TAKEAWAY,Takeaway by Sean Walker,2023-02-24T01:10:08Z,2,05:36,14:24,0,2,26.0,Los Angeles Kings,LAK
+128,1,26,New Jersey Devils,Los Angeles Kings,202202092347,2022020923,Shot,47,SHOT,Nico Hischier Snap Shot saved by Pheonix Copley,2023-02-24T01:10:12Z,2,05:40,14:20,0,2,1.0,New Jersey Devils,NJD
+129,1,26,New Jersey Devils,Los Angeles Kings,2022020923231,2022020923,Stoppage,231,STOP,Goalie Stopped,2023-02-24T01:10:13Z,2,05:41,14:19,0,2,,,
+130,1,26,New Jersey Devils,Los Angeles Kings,202202092395,2022020923,Faceoff,95,FACEOFF,Michael McLeod faceoff won against Rasmus Kupari,2023-02-24T01:10:49Z,2,05:41,14:19,0,2,1.0,New Jersey Devils,NJD
+131,1,26,New Jersey Devils,Los Angeles Kings,202202092348,2022020923,Missed Shot,48,MISSED_SHOT,Michael McLeod Wide of Net Pheonix Copley,2023-02-24T01:11:05Z,2,05:57,14:03,0,2,1.0,New Jersey Devils,NJD
+132,1,26,New Jersey Devils,Los Angeles Kings,202202092349,2022020923,Shot,49,SHOT,Fabian Zetterlund Snap Shot saved by Pheonix Copley,2023-02-24T01:11:06Z,2,05:58,14:02,0,2,1.0,New Jersey Devils,NJD
+133,1,26,New Jersey Devils,Los Angeles Kings,2022020923232,2022020923,Stoppage,232,STOP,Goalie Stopped,2023-02-24T01:11:08Z,2,05:59,14:01,0,2,,,
+134,1,26,New Jersey Devils,Los Angeles Kings,202202092396,2022020923,Faceoff,96,FACEOFF,Blake Lizotte faceoff won against Jack Hughes,2023-02-24T01:11:46Z,2,05:59,14:01,0,2,26.0,Los Angeles Kings,LAK
+135,1,26,New Jersey Devils,Los Angeles Kings,202202092350,2022020923,Shot,50,SHOT,Yegor Sharangovich Backhand saved by Pheonix Copley,2023-02-24T01:12:05Z,2,06:18,13:42,0,2,1.0,New Jersey Devils,NJD
+136,1,26,New Jersey Devils,Los Angeles Kings,2022020923233,2022020923,Shot,233,SHOT,Yegor Sharangovich Snap Shot saved by Pheonix Copley,2023-02-24T01:12:07Z,2,06:20,13:40,0,2,1.0,New Jersey Devils,NJD
+137,1,26,New Jersey Devils,Los Angeles Kings,2022020923174,2022020923,Hit,174,HIT,Jonas Siegenthaler hit Gabriel Vilardi,2023-02-24T01:12:30Z,2,06:43,13:17,0,2,1.0,New Jersey Devils,NJD
+138,1,26,New Jersey Devils,Los Angeles Kings,202202092397,2022020923,Hit,97,HIT,Kevin Fiala hit Erik Haula,2023-02-24T01:13:08Z,2,07:21,12:39,0,2,26.0,Los Angeles Kings,LAK
+139,1,26,New Jersey Devils,Los Angeles Kings,2022020923451,2022020923,Shot,451,SHOT,Jesper Boqvist Snap Shot saved by Pheonix Copley,2023-02-24T01:13:16Z,2,07:29,12:31,0,2,1.0,New Jersey Devils,NJD
+140,1,26,New Jersey Devils,Los Angeles Kings,2022020923175,2022020923,Hit,175,HIT,Sean Durzi hit Erik Haula,2023-02-24T01:13:17Z,2,07:30,12:30,0,2,26.0,Los Angeles Kings,LAK
+141,1,26,New Jersey Devils,Los Angeles Kings,2022020923452,2022020923,Stoppage,452,STOP,Goalie Stopped,2023-02-24T01:13:18Z,2,07:31,12:29,0,2,,,
+142,1,26,New Jersey Devils,Los Angeles Kings,202202092398,2022020923,Faceoff,98,FACEOFF,Nico Hischier faceoff won against Anze Kopitar,2023-02-24T01:15:39Z,2,07:31,12:29,0,2,1.0,New Jersey Devils,NJD
+143,1,26,New Jersey Devils,Los Angeles Kings,2022020923176,2022020923,Hit,176,HIT,Quinton Byfield hit Nico Hischier,2023-02-24T01:15:51Z,2,07:43,12:17,0,2,26.0,Los Angeles Kings,LAK
+144,1,26,New Jersey Devils,Los Angeles Kings,2022020923177,2022020923,Hit,177,HIT,Quinton Byfield hit Ryan Graves,2023-02-24T01:16:27Z,2,08:19,11:41,0,2,26.0,Los Angeles Kings,LAK
+145,1,26,New Jersey Devils,Los Angeles Kings,2022020923455,2022020923,Shot,455,SHOT,Sean Walker Slap Shot saved by Vitek Vanecek,2023-02-24T01:16:42Z,2,08:33,11:27,0,2,26.0,Los Angeles Kings,LAK
+146,1,26,New Jersey Devils,Los Angeles Kings,2022020923453,2022020923,Missed Shot,453,MISSED_SHOT,Alex Iafallo Wide of Net Vitek Vanecek,2023-02-24T01:16:43Z,2,08:35,11:25,0,2,26.0,Los Angeles Kings,LAK
+147,1,26,New Jersey Devils,Los Angeles Kings,2022020923236,2022020923,Blocked Shot,236,BLOCKED_SHOT,Blake Lizotte shot blocked shot by Kevin Bahl,2023-02-24T01:17:00Z,2,08:52,11:08,0,2,1.0,New Jersey Devils,NJD
+148,1,26,New Jersey Devils,Los Angeles Kings,2022020923456,2022020923,Missed Shot,456,MISSED_SHOT,Sean Walker Goalpost Vitek Vanecek,2023-02-24T01:17:15Z,2,09:07,10:53,0,2,26.0,Los Angeles Kings,LAK
+149,1,26,New Jersey Devils,Los Angeles Kings,202202092399,2022020923,Giveaway,99,GIVEAWAY,Giveaway by John Marino,2023-02-24T01:17:44Z,2,09:36,10:24,0,2,1.0,New Jersey Devils,NJD
+150,1,26,New Jersey Devils,Los Angeles Kings,2022020923457,2022020923,Shot,457,SHOT,Kevin Fiala Snap Shot saved by Vitek Vanecek,2023-02-24T01:17:53Z,2,09:45,10:15,0,2,26.0,Los Angeles Kings,LAK
+151,1,26,New Jersey Devils,Los Angeles Kings,2022020923640,2022020923,Penalty,640,PENALTY,Yegor Sharangovich Holding against Phillip Danault,2023-02-24T01:17:53Z,2,09:46,10:14,0,2,1.0,New Jersey Devils,NJD
+152,1,26,New Jersey Devils,Los Angeles Kings,2022020923100,2022020923,Faceoff,100,FACEOFF,Michael McLeod faceoff won against Anze Kopitar,2023-02-24T01:18:54Z,2,09:46,10:14,0,2,1.0,New Jersey Devils,NJD
+153,1,26,New Jersey Devils,Los Angeles Kings,2022020923458,2022020923,Shot,458,SHOT,Erik Haula Snap Shot saved by Pheonix Copley,2023-02-24T01:19:17Z,2,10:09,09:51,0,2,1.0,New Jersey Devils,NJD
+154,1,26,New Jersey Devils,Los Angeles Kings,2022020923460,2022020923,Shot,460,SHOT,Sean Durzi Slap Shot saved by Vitek Vanecek,2023-02-24T01:20:29Z,2,11:21,08:39,0,2,26.0,Los Angeles Kings,LAK
+155,1,26,New Jersey Devils,Los Angeles Kings,2022020923401,2022020923,Hit,401,HIT,Kevin Bahl hit Viktor Arvidsson,2023-02-24T01:20:31Z,2,11:23,08:37,0,2,1.0,New Jersey Devils,NJD
+156,1,26,New Jersey Devils,Los Angeles Kings,2022020923461,2022020923,Shot,461,SHOT,Rasmus Kupari Snap Shot saved by Vitek Vanecek,2023-02-24T01:20:52Z,2,11:44,08:16,0,2,26.0,Los Angeles Kings,LAK
+157,1,26,New Jersey Devils,Los Angeles Kings,2022020923238,2022020923,Stoppage,238,STOP,Goalie Stopped,2023-02-24T01:20:54Z,2,11:45,08:15,0,2,,,
+158,1,26,New Jersey Devils,Los Angeles Kings,2022020923402,2022020923,Faceoff,402,FACEOFF,Rasmus Kupari faceoff won against Jack Hughes,2023-02-24T01:21:38Z,2,11:45,08:15,0,2,26.0,Los Angeles Kings,LAK
+159,1,26,New Jersey Devils,Los Angeles Kings,2022020923239,2022020923,Stoppage,239,STOP,Offside,2023-02-24T01:22:00Z,2,12:07,07:53,0,2,,,
+160,1,26,New Jersey Devils,Los Angeles Kings,2022020923403,2022020923,Faceoff,403,FACEOFF,Anze Kopitar faceoff won against Nico Hischier,2023-02-24T01:24:14Z,2,12:07,07:53,0,2,26.0,Los Angeles Kings,LAK
+161,1,26,New Jersey Devils,Los Angeles Kings,2022020923180,2022020923,Hit,180,HIT,Dawson Mercer hit Mikey Anderson,2023-02-24T01:24:26Z,2,12:19,07:41,0,2,1.0,New Jersey Devils,NJD
+162,1,26,New Jersey Devils,Los Angeles Kings,2022020923404,2022020923,Takeaway,404,TAKEAWAY,Takeaway by Ondrej Palat,2023-02-24T01:25:17Z,2,13:10,06:50,0,2,1.0,New Jersey Devils,NJD
+163,1,26,New Jersey Devils,Los Angeles Kings,2022020923240,2022020923,Stoppage,240,STOP,Offside,2023-02-24T01:25:22Z,2,13:15,06:45,0,2,,,
+164,1,26,New Jersey Devils,Los Angeles Kings,2022020923405,2022020923,Faceoff,405,FACEOFF,Jack Hughes faceoff won against Viktor Arvidsson,2023-02-24T01:26:01Z,2,13:15,06:45,0,2,1.0,New Jersey Devils,NJD
+165,1,26,New Jersey Devils,Los Angeles Kings,2022020923462,2022020923,Missed Shot,462,MISSED_SHOT,Jonas Siegenthaler Wide of Net Pheonix Copley,2023-02-24T01:26:12Z,2,13:26,06:34,0,2,1.0,New Jersey Devils,NJD
+166,1,26,New Jersey Devils,Los Angeles Kings,2022020923241,2022020923,Stoppage,241,STOP,Puck Frozen,2023-02-24T01:26:19Z,2,13:32,06:28,0,2,,,
+167,1,26,New Jersey Devils,Los Angeles Kings,2022020923406,2022020923,Faceoff,406,FACEOFF,Jack Hughes faceoff won against Phillip Danault,2023-02-24T01:26:40Z,2,13:32,06:28,0,2,1.0,New Jersey Devils,NJD
+168,1,26,New Jersey Devils,Los Angeles Kings,2022020923242,2022020923,Stoppage,242,STOP,Icing,2023-02-24T01:26:49Z,2,13:41,06:19,0,2,,,
+169,1,26,New Jersey Devils,Los Angeles Kings,2022020923407,2022020923,Faceoff,407,FACEOFF,Jack Hughes faceoff won against Phillip Danault,2023-02-24T01:27:13Z,2,13:41,06:19,0,2,1.0,New Jersey Devils,NJD
+170,1,26,New Jersey Devils,Los Angeles Kings,2022020923181,2022020923,Takeaway,181,TAKEAWAY,Takeaway by Dougie Hamilton,2023-02-24T01:27:43Z,2,14:11,05:49,0,2,1.0,New Jersey Devils,NJD
+171,1,26,New Jersey Devils,Los Angeles Kings,2022020923243,2022020923,Stoppage,243,STOP,TV timeout,2023-02-24T01:27:54Z,2,14:22,05:38,0,2,,,
+172,1,26,New Jersey Devils,Los Angeles Kings,2022020923720,2022020923,Penalty,720,PENALTY,Kevin Fiala High-sticking against Yegor Sharangovich,2023-02-24T01:27:54Z,2,14:22,05:38,0,2,26.0,Los Angeles Kings,LAK
+173,1,26,New Jersey Devils,Los Angeles Kings,2022020923408,2022020923,Faceoff,408,FACEOFF,Anze Kopitar faceoff won against Nico Hischier,2023-02-24T01:30:09Z,2,14:22,05:38,0,2,26.0,Los Angeles Kings,LAK
+174,1,26,New Jersey Devils,Los Angeles Kings,2022020923244,2022020923,Blocked Shot,244,BLOCKED_SHOT,Jesper Bratt shot blocked shot by Mikey Anderson,2023-02-24T01:30:30Z,2,14:43,05:17,0,2,26.0,Los Angeles Kings,LAK
+175,1,26,New Jersey Devils,Los Angeles Kings,2022020923463,2022020923,Blocked Shot,463,BLOCKED_SHOT,Dougie Hamilton shot blocked shot by Alex Iafallo,2023-02-24T01:30:30Z,2,14:43,05:17,0,2,26.0,Los Angeles Kings,LAK
+176,1,26,New Jersey Devils,Los Angeles Kings,2022020923245,2022020923,Blocked Shot,245,BLOCKED_SHOT,Ondrej Palat shot blocked shot by Anze Kopitar,2023-02-24T01:30:40Z,2,14:53,05:07,0,2,26.0,Los Angeles Kings,LAK
+177,1,26,New Jersey Devils,Los Angeles Kings,2022020923464,2022020923,Shot,464,SHOT,Nico Hischier Backhand saved by Pheonix Copley,2023-02-24T01:31:03Z,2,15:16,04:44,0,2,1.0,New Jersey Devils,NJD
+178,1,26,New Jersey Devils,Los Angeles Kings,2022020923246,2022020923,Stoppage,246,STOP,Goalie Stopped,2023-02-24T01:31:05Z,2,15:18,04:42,0,2,,,
+179,1,26,New Jersey Devils,Los Angeles Kings,2022020923409,2022020923,Faceoff,409,FACEOFF,Nico Hischier faceoff won against Blake Lizotte,2023-02-24T01:31:43Z,2,15:18,04:42,0,2,1.0,New Jersey Devils,NJD
+180,1,26,New Jersey Devils,Los Angeles Kings,2022020923465,2022020923,Shot,465,SHOT,Nico Hischier Snap Shot saved by Pheonix Copley,2023-02-24T01:31:51Z,2,15:26,04:34,0,2,1.0,New Jersey Devils,NJD
+181,1,26,New Jersey Devils,Los Angeles Kings,2022020923410,2022020923,Takeaway,410,TAKEAWAY,Takeaway by Dawson Mercer,2023-02-24T01:33:04Z,2,16:39,03:21,0,2,1.0,New Jersey Devils,NJD
+182,1,26,New Jersey Devils,Los Angeles Kings,2022020923466,2022020923,Goal,466,GOAL,"Tomas Tatar (13) Backhand, assists: Dawson Mercer (20)",2023-02-24T01:33:09Z,2,16:44,03:16,1,2,1.0,New Jersey Devils,NJD
+183,1,26,New Jersey Devils,Los Angeles Kings,2022020923411,2022020923,Faceoff,411,FACEOFF,Blake Lizotte faceoff won against Michael McLeod,2023-02-24T01:33:55Z,2,16:44,03:16,1,2,26.0,Los Angeles Kings,LAK
+184,1,26,New Jersey Devils,Los Angeles Kings,2022020923182,2022020923,Hit,182,HIT,Erik Haula hit Drew Doughty,2023-02-24T01:34:20Z,2,17:09,02:51,1,2,1.0,New Jersey Devils,NJD
+185,1,26,New Jersey Devils,Los Angeles Kings,2022020923412,2022020923,Hit,412,HIT,Michael McLeod hit Mikey Anderson,2023-02-24T01:34:33Z,2,17:22,02:38,1,2,1.0,New Jersey Devils,NJD
+186,1,26,New Jersey Devils,Los Angeles Kings,2022020923247,2022020923,Blocked Shot,247,BLOCKED_SHOT,Blake Lizotte shot blocked shot by Ryan Graves,2023-02-24T01:34:42Z,2,17:31,02:29,1,2,1.0,New Jersey Devils,NJD
+187,1,26,New Jersey Devils,Los Angeles Kings,2022020923467,2022020923,Blocked Shot,467,BLOCKED_SHOT,Michael McLeod shot blocked shot by Sean Durzi,2023-02-24T01:34:48Z,2,17:37,02:23,1,2,26.0,Los Angeles Kings,LAK
+188,1,26,New Jersey Devils,Los Angeles Kings,2022020923248,2022020923,Shot,248,SHOT,Phillip Danault Poke saved by Vitek Vanecek,2023-02-24T01:34:56Z,2,17:45,02:15,1,2,26.0,Los Angeles Kings,LAK
+189,1,26,New Jersey Devils,Los Angeles Kings,2022020923249,2022020923,Stoppage,249,STOP,Goalie Stopped,2023-02-24T01:34:58Z,2,17:47,02:13,1,2,,,
+190,1,26,New Jersey Devils,Los Angeles Kings,2022020923413,2022020923,Faceoff,413,FACEOFF,Phillip Danault faceoff won against Nico Hischier,2023-02-24T01:35:32Z,2,17:47,02:13,1,2,26.0,Los Angeles Kings,LAK
+191,1,26,New Jersey Devils,Los Angeles Kings,2022020923183,2022020923,Giveaway,183,GIVEAWAY,Giveaway by Matt Roy,2023-02-24T01:35:40Z,2,17:55,02:05,1,2,26.0,Los Angeles Kings,LAK
+192,1,26,New Jersey Devils,Los Angeles Kings,2022020923469,2022020923,Blocked Shot,469,BLOCKED_SHOT,Sean Durzi shot blocked shot by Dawson Mercer,2023-02-24T01:35:51Z,2,17:58,02:02,1,2,1.0,New Jersey Devils,NJD
+193,1,26,New Jersey Devils,Los Angeles Kings,2022020923470,2022020923,Shot,470,SHOT,Tomas Tatar Slap Shot saved by Pheonix Copley,2023-02-24T01:36:17Z,2,18:32,01:28,1,2,1.0,New Jersey Devils,NJD
+194,1,26,New Jersey Devils,Los Angeles Kings,2022020923250,2022020923,Missed Shot,250,MISSED_SHOT,Anze Kopitar Wide of Net Vitek Vanecek,2023-02-24T01:36:29Z,2,18:44,01:16,1,2,26.0,Los Angeles Kings,LAK
+195,1,26,New Jersey Devils,Los Angeles Kings,2022020923471,2022020923,Missed Shot,471,MISSED_SHOT,Anze Kopitar Wide of Net Vitek Vanecek,2023-02-24T01:36:56Z,2,19:11,00:49,1,2,26.0,Los Angeles Kings,LAK
+196,1,26,New Jersey Devils,Los Angeles Kings,2022020923414,2022020923,Hit,414,HIT,Blake Lizotte hit Michael McLeod,2023-02-24T01:37:16Z,2,19:31,00:29,1,2,26.0,Los Angeles Kings,LAK
+197,1,26,New Jersey Devils,Los Angeles Kings,2022020923184,2022020923,Hit,184,HIT,Gabriel Vilardi hit John Marino,2023-02-24T01:37:32Z,2,19:47,00:13,1,2,26.0,Los Angeles Kings,LAK
+198,1,26,New Jersey Devils,Los Angeles Kings,2022020923551,2022020923,Blocked Shot,551,BLOCKED_SHOT,Alex Iafallo shot blocked shot by John Marino,2023-02-24T01:37:38Z,2,19:53,00:07,1,2,1.0,New Jersey Devils,NJD
+199,1,26,New Jersey Devils,Los Angeles Kings,2022020923472,2022020923,Period End,472,PERIOD_END,End of 2nd Period,2023-02-24T01:37:45Z,2,20:00,00:00,1,2,,,
+200,1,26,New Jersey Devils,Los Angeles Kings,2022020923475,2022020923,Period Official,475,PERIOD_OFFICIAL,Period Official,2023-02-24T01:41:12Z,2,20:00,00:00,1,2,,,
+201,1,26,New Jersey Devils,Los Angeles Kings,2022020923476,2022020923,Period Ready,476,PERIOD_READY,Period Ready,2023-02-24T01:56:27Z,3,00:00,20:00,1,2,,,
+202,1,26,New Jersey Devils,Los Angeles Kings,2022020923415,2022020923,Period Start,415,PERIOD_START,Period Start,2023-02-24T01:56:37Z,3,00:00,20:00,1,2,,,
+203,1,26,New Jersey Devils,Los Angeles Kings,2022020923416,2022020923,Faceoff,416,FACEOFF,Anze Kopitar faceoff won against Nico Hischier,2023-02-24T01:56:37Z,3,00:00,20:00,1,2,26.0,Los Angeles Kings,LAK
+204,1,26,New Jersey Devils,Los Angeles Kings,2022020923185,2022020923,Giveaway,185,GIVEAWAY,Giveaway by Anze Kopitar,2023-02-24T01:56:45Z,3,00:08,19:52,1,2,26.0,Los Angeles Kings,LAK
+205,1,26,New Jersey Devils,Los Angeles Kings,2022020923417,2022020923,Hit,417,HIT,Alex Iafallo hit Jonas Siegenthaler,2023-02-24T01:57:30Z,3,00:53,19:07,1,2,26.0,Los Angeles Kings,LAK
+206,1,26,New Jersey Devils,Los Angeles Kings,2022020923186,2022020923,Takeaway,186,TAKEAWAY,Takeaway by Viktor Arvidsson,2023-02-24T01:58:10Z,3,01:33,18:27,1,2,26.0,Los Angeles Kings,LAK
+207,1,26,New Jersey Devils,Los Angeles Kings,2022020923477,2022020923,Shot,477,SHOT,Phillip Danault Snap Shot saved by Vitek Vanecek,2023-02-24T01:58:13Z,3,01:36,18:24,1,2,26.0,Los Angeles Kings,LAK
+208,1,26,New Jersey Devils,Los Angeles Kings,2022020923187,2022020923,Giveaway,187,GIVEAWAY,Giveaway by Kevin Bahl,2023-02-24T01:58:43Z,3,02:06,17:54,1,2,1.0,New Jersey Devils,NJD
+209,1,26,New Jersey Devils,Los Angeles Kings,2022020923418,2022020923,Takeaway,418,TAKEAWAY,Takeaway by Tomas Tatar,2023-02-24T01:58:57Z,3,02:20,17:40,1,2,1.0,New Jersey Devils,NJD
+210,1,26,New Jersey Devils,Los Angeles Kings,2022020923479,2022020923,Goal,479,GOAL,"Dawson Mercer (17) Snap Shot, assists: Tomas Tatar (20), Kevin Bahl (2)",2023-02-24T01:59:00Z,3,02:23,17:37,2,2,1.0,New Jersey Devils,NJD
+211,1,26,New Jersey Devils,Los Angeles Kings,2022020923419,2022020923,Faceoff,419,FACEOFF,Anze Kopitar faceoff won against Erik Haula,2023-02-24T01:59:39Z,3,02:23,17:37,2,2,26.0,Los Angeles Kings,LAK
+212,1,26,New Jersey Devils,Los Angeles Kings,2022020923552,2022020923,Shot,552,SHOT,Quinton Byfield Tip-In saved by Vitek Vanecek,2023-02-24T02:00:06Z,3,02:50,17:10,2,2,26.0,Los Angeles Kings,LAK
+213,1,26,New Jersey Devils,Los Angeles Kings,2022020923553,2022020923,Stoppage,553,STOP,Goalie Stopped,2023-02-24T02:00:08Z,3,02:52,17:08,2,2,,,
+214,1,26,New Jersey Devils,Los Angeles Kings,2022020923420,2022020923,Faceoff,420,FACEOFF,Michael McLeod faceoff won against Phillip Danault,2023-02-24T02:00:36Z,3,02:52,17:08,2,2,1.0,New Jersey Devils,NJD
+215,1,26,New Jersey Devils,Los Angeles Kings,2022020923555,2022020923,Blocked Shot,555,BLOCKED_SHOT,Fabian Zetterlund shot blocked shot by Matt Roy,2023-02-24T02:00:46Z,3,03:02,16:58,2,2,26.0,Los Angeles Kings,LAK
+216,1,26,New Jersey Devils,Los Angeles Kings,2022020923554,2022020923,Stoppage,554,STOP,Offside,2023-02-24T02:01:00Z,3,03:16,16:44,2,2,,,
+217,1,26,New Jersey Devils,Los Angeles Kings,2022020923421,2022020923,Faceoff,421,FACEOFF,Blake Lizotte faceoff won against Jesper Boqvist,2023-02-24T02:01:32Z,3,03:16,16:44,2,2,26.0,Los Angeles Kings,LAK
+218,1,26,New Jersey Devils,Los Angeles Kings,2022020923556,2022020923,Blocked Shot,556,BLOCKED_SHOT,Kevin Bahl shot blocked shot by Alex Iafallo,2023-02-24T02:01:56Z,3,03:40,16:20,2,2,26.0,Los Angeles Kings,LAK
+219,1,26,New Jersey Devils,Los Angeles Kings,2022020923188,2022020923,Hit,188,HIT,Kevin Bahl hit Blake Lizotte,2023-02-24T02:02:04Z,3,03:48,16:12,2,2,1.0,New Jersey Devils,NJD
+220,1,26,New Jersey Devils,Los Angeles Kings,2022020923480,2022020923,Blocked Shot,480,BLOCKED_SHOT,Drew Doughty shot blocked shot by Ondrej Palat,2023-02-24T02:02:11Z,3,03:55,16:05,2,2,1.0,New Jersey Devils,NJD
+221,1,26,New Jersey Devils,Los Angeles Kings,2022020923422,2022020923,Hit,422,HIT,Damon Severson hit Gabriel Vilardi,2023-02-24T02:02:19Z,3,04:03,15:57,2,2,1.0,New Jersey Devils,NJD
+222,1,26,New Jersey Devils,Los Angeles Kings,2022020923481,2022020923,Missed Shot,481,MISSED_SHOT,Quinton Byfield Wide of Net Vitek Vanecek,2023-02-24T02:03:03Z,3,04:45,15:15,2,2,26.0,Los Angeles Kings,LAK
+223,1,26,New Jersey Devils,Los Angeles Kings,2022020923189,2022020923,Giveaway,189,GIVEAWAY,Giveaway by Quinton Byfield,2023-02-24T02:03:04Z,3,04:48,15:12,2,2,26.0,Los Angeles Kings,LAK
+224,1,26,New Jersey Devils,Los Angeles Kings,2022020923424,2022020923,Hit,424,HIT,Tomas Tatar hit Adrian Kempe,2023-02-24T02:03:07Z,3,04:51,15:09,2,2,1.0,New Jersey Devils,NJD
+225,1,26,New Jersey Devils,Los Angeles Kings,2022020923482,2022020923,Shot,482,SHOT,Adrian Kempe Snap Shot saved by Vitek Vanecek,2023-02-24T02:03:30Z,3,05:14,14:46,2,2,26.0,Los Angeles Kings,LAK
+226,1,26,New Jersey Devils,Los Angeles Kings,2022020923483,2022020923,Missed Shot,483,MISSED_SHOT,Viktor Arvidsson Wide of Net Vitek Vanecek,2023-02-24T02:03:53Z,3,05:37,14:23,2,2,26.0,Los Angeles Kings,LAK
+227,1,26,New Jersey Devils,Los Angeles Kings,2022020923484,2022020923,Stoppage,484,STOP,Goalie Stopped,2023-02-24T02:04:03Z,3,05:46,14:14,2,2,,,
+228,1,26,New Jersey Devils,Los Angeles Kings,2022020923557,2022020923,Shot,557,SHOT,Jesper Bratt Wrist Shot saved by Pheonix Copley,2023-02-24T02:04:03Z,3,05:46,14:14,2,2,1.0,New Jersey Devils,NJD
+229,1,26,New Jersey Devils,Los Angeles Kings,2022020923425,2022020923,Faceoff,425,FACEOFF,Phillip Danault faceoff won against Erik Haula,2023-02-24T02:04:31Z,3,05:46,14:14,2,2,26.0,Los Angeles Kings,LAK
+230,1,26,New Jersey Devils,Los Angeles Kings,2022020923486,2022020923,Shot,486,SHOT,Jesper Bratt Snap Shot saved by Pheonix Copley,2023-02-24T02:04:39Z,3,05:54,14:06,2,2,1.0,New Jersey Devils,NJD
+231,1,26,New Jersey Devils,Los Angeles Kings,2022020923426,2022020923,Hit,426,HIT,Jesper Boqvist hit Sean Walker,2023-02-24T02:05:15Z,3,06:30,13:30,2,2,1.0,New Jersey Devils,NJD
+232,1,26,New Jersey Devils,Los Angeles Kings,2022020923190,2022020923,Takeaway,190,TAKEAWAY,Takeaway by Gabriel Vilardi,2023-02-24T02:05:41Z,3,06:56,13:04,2,2,26.0,Los Angeles Kings,LAK
+233,1,26,New Jersey Devils,Los Angeles Kings,2022020923487,2022020923,Blocked Shot,487,BLOCKED_SHOT,Alex Iafallo shot blocked shot by Ondrej Palat,2023-02-24T02:05:41Z,3,06:56,13:04,2,2,1.0,New Jersey Devils,NJD
+234,1,26,New Jersey Devils,Los Angeles Kings,2022020923488,2022020923,Missed Shot,488,MISSED_SHOT,Tobias Bjornfot Wide of Net Vitek Vanecek,2023-02-24T02:05:50Z,3,07:05,12:55,2,2,26.0,Los Angeles Kings,LAK
+235,1,26,New Jersey Devils,Los Angeles Kings,2022020923489,2022020923,Missed Shot,489,MISSED_SHOT,Erik Haula Wide of Net Pheonix Copley,2023-02-24T02:06:58Z,3,08:13,11:47,2,2,1.0,New Jersey Devils,NJD
+236,1,26,New Jersey Devils,Los Angeles Kings,2022020923558,2022020923,Stoppage,558,STOP,Offside,2023-02-24T02:07:16Z,3,08:31,11:29,2,2,,,
+237,1,26,New Jersey Devils,Los Angeles Kings,2022020923427,2022020923,Faceoff,427,FACEOFF,Michael McLeod faceoff won against Phillip Danault,2023-02-24T02:09:26Z,3,08:31,11:29,2,2,1.0,New Jersey Devils,NJD
+238,1,26,New Jersey Devils,Los Angeles Kings,2022020923559,2022020923,Blocked Shot,559,BLOCKED_SHOT,Phillip Danault shot blocked shot by Dougie Hamilton,2023-02-24T02:09:48Z,3,08:53,11:07,2,2,1.0,New Jersey Devils,NJD
+239,1,26,New Jersey Devils,Los Angeles Kings,2022020923490,2022020923,Shot,490,SHOT,Miles Wood Wrist Shot saved by Pheonix Copley,2023-02-24T02:09:58Z,3,09:03,10:57,2,2,1.0,New Jersey Devils,NJD
+240,1,26,New Jersey Devils,Los Angeles Kings,2022020923560,2022020923,Stoppage,560,STOP,Goalie Stopped,2023-02-24T02:09:58Z,3,09:03,10:57,2,2,,,
+241,1,26,New Jersey Devils,Los Angeles Kings,2022020923428,2022020923,Faceoff,428,FACEOFF,Blake Lizotte faceoff won against Erik Haula,2023-02-24T02:10:50Z,3,09:03,10:57,2,2,26.0,Los Angeles Kings,LAK
+242,1,26,New Jersey Devils,Los Angeles Kings,2022020923561,2022020923,Stoppage,561,STOP,Offside,2023-02-24T02:11:01Z,3,09:14,10:46,2,2,,,
+243,1,26,New Jersey Devils,Los Angeles Kings,2022020923429,2022020923,Faceoff,429,FACEOFF,Nico Hischier faceoff won against Anze Kopitar,2023-02-24T02:11:31Z,3,09:14,10:46,2,2,1.0,New Jersey Devils,NJD
+244,1,26,New Jersey Devils,Los Angeles Kings,2022020923491,2022020923,Shot,491,SHOT,Nico Hischier Snap Shot saved by Pheonix Copley,2023-02-24T02:11:42Z,3,09:25,10:35,2,2,1.0,New Jersey Devils,NJD
+245,1,26,New Jersey Devils,Los Angeles Kings,2022020923562,2022020923,Stoppage,562,STOP,Goalie Stopped,2023-02-24T02:11:42Z,3,09:25,10:35,2,2,,,
+246,1,26,New Jersey Devils,Los Angeles Kings,2022020923430,2022020923,Faceoff,430,FACEOFF,Anze Kopitar faceoff won against Tomas Tatar,2023-02-24T02:12:25Z,3,09:25,10:35,2,2,26.0,Los Angeles Kings,LAK
+247,1,26,New Jersey Devils,Los Angeles Kings,2022020923431,2022020923,Hit,431,HIT,Jesper Boqvist hit Blake Lizotte,2023-02-24T02:13:31Z,3,10:31,09:29,2,2,1.0,New Jersey Devils,NJD
+248,1,26,New Jersey Devils,Los Angeles Kings,2022020923192,2022020923,Takeaway,192,TAKEAWAY,Takeaway by Mikey Anderson,2023-02-24T02:13:40Z,3,10:40,09:20,2,2,26.0,Los Angeles Kings,LAK
+249,1,26,New Jersey Devils,Los Angeles Kings,2022020923492,2022020923,Shot,492,SHOT,Blake Lizotte Backhand saved by Vitek Vanecek,2023-02-24T02:13:45Z,3,10:45,09:15,2,2,26.0,Los Angeles Kings,LAK
+250,1,26,New Jersey Devils,Los Angeles Kings,2022020923308,2022020923,Shot,308,SHOT,Gabriel Vilardi Poke saved by Vitek Vanecek,2023-02-24T02:13:49Z,3,10:49,09:11,2,2,26.0,Los Angeles Kings,LAK
+251,1,26,New Jersey Devils,Los Angeles Kings,2022020923957,2022020923,Penalty,957,PENALTY,Gabriel Vilardi Slashing against Jonas Siegenthaler,2023-02-24T02:13:57Z,3,10:57,09:03,2,2,26.0,Los Angeles Kings,LAK
+252,1,26,New Jersey Devils,Los Angeles Kings,2022020923432,2022020923,Faceoff,432,FACEOFF,Nico Hischier faceoff won against Anze Kopitar,2023-02-24T02:16:13Z,3,10:57,09:03,2,2,1.0,New Jersey Devils,NJD
+253,1,26,New Jersey Devils,Los Angeles Kings,2022020923493,2022020923,Shot,493,SHOT,Jack Hughes Snap Shot saved by Pheonix Copley,2023-02-24T02:16:23Z,3,11:07,08:53,2,2,1.0,New Jersey Devils,NJD
+254,1,26,New Jersey Devils,Los Angeles Kings,2022020923433,2022020923,Giveaway,433,GIVEAWAY,Giveaway by Jack Hughes,2023-02-24T02:16:57Z,3,11:41,08:19,2,2,1.0,New Jersey Devils,NJD
+255,1,26,New Jersey Devils,Los Angeles Kings,2022020923193,2022020923,Takeaway,193,TAKEAWAY,Takeaway by John Marino,2023-02-24T02:18:18Z,3,13:02,06:58,2,2,1.0,New Jersey Devils,NJD
+256,1,26,New Jersey Devils,Los Angeles Kings,2022020923565,2022020923,Stoppage,565,STOP,Offside,2023-02-24T02:18:22Z,3,13:05,06:55,2,2,,,
+257,1,26,New Jersey Devils,Los Angeles Kings,2022020923434,2022020923,Faceoff,434,FACEOFF,Phillip Danault faceoff won against Michael McLeod,2023-02-24T02:19:01Z,3,13:05,06:55,2,2,26.0,Los Angeles Kings,LAK
+258,1,26,New Jersey Devils,Los Angeles Kings,2022020923435,2022020923,Hit,435,HIT,Anze Kopitar hit Ryan Graves,2023-02-24T02:20:21Z,3,14:25,05:35,2,2,26.0,Los Angeles Kings,LAK
+259,1,26,New Jersey Devils,Los Angeles Kings,2022020923494,2022020923,Shot,494,SHOT,Ryan Graves Snap Shot saved by Pheonix Copley,2023-02-24T02:20:43Z,3,14:48,05:12,2,2,1.0,New Jersey Devils,NJD
+260,1,26,New Jersey Devils,Los Angeles Kings,2022020923566,2022020923,Stoppage,566,STOP,Goalie Stopped,2023-02-24T02:20:44Z,3,14:48,05:12,2,2,,,
+261,1,26,New Jersey Devils,Los Angeles Kings,2022020923436,2022020923,Faceoff,436,FACEOFF,Erik Haula faceoff won against Phillip Danault,2023-02-24T02:22:58Z,3,14:48,05:12,2,2,1.0,New Jersey Devils,NJD
+262,1,26,New Jersey Devils,Los Angeles Kings,2022020923567,2022020923,Blocked Shot,567,BLOCKED_SHOT,Kevin Bahl shot blocked shot by Viktor Arvidsson,2023-02-24T02:23:01Z,3,14:51,05:09,2,2,26.0,Los Angeles Kings,LAK
+263,1,26,New Jersey Devils,Los Angeles Kings,2022020923194,2022020923,Hit,194,HIT,Viktor Arvidsson hit Damon Severson,2023-02-24T02:23:06Z,3,14:56,05:04,2,2,26.0,Los Angeles Kings,LAK
+264,1,26,New Jersey Devils,Los Angeles Kings,2022020923495,2022020923,Missed Shot,495,MISSED_SHOT,John Marino Wide of Net Pheonix Copley,2023-02-24T02:23:33Z,3,15:23,04:37,2,2,1.0,New Jersey Devils,NJD
+265,1,26,New Jersey Devils,Los Angeles Kings,2022020923496,2022020923,Goal,496,GOAL,"Sean Durzi (7) Slap Shot, assists: Anze Kopitar (33), Kevin Fiala (42)",2023-02-24T02:23:50Z,3,15:41,04:19,2,3,26.0,Los Angeles Kings,LAK
+266,1,26,New Jersey Devils,Los Angeles Kings,2022020923437,2022020923,Faceoff,437,FACEOFF,Nico Hischier faceoff won against Anze Kopitar,2023-02-24T02:24:36Z,3,15:41,04:19,2,3,1.0,New Jersey Devils,NJD
+267,1,26,New Jersey Devils,Los Angeles Kings,2022020923438,2022020923,Hit,438,HIT,Ondrej Palat hit Blake Lizotte,2023-02-24T02:25:30Z,3,16:35,03:25,2,3,1.0,New Jersey Devils,NJD
+268,1,26,New Jersey Devils,Los Angeles Kings,20220209231011,2022020923,Penalty,1011,PENALTY,Gabriel Vilardi Tripping against Ondrej Palat,2023-02-24T02:25:41Z,3,16:46,03:14,2,3,26.0,Los Angeles Kings,LAK
+269,1,26,New Jersey Devils,Los Angeles Kings,2022020923439,2022020923,Faceoff,439,FACEOFF,Phillip Danault faceoff won against Nico Hischier,2023-02-24T02:26:29Z,3,16:46,03:14,2,3,26.0,Los Angeles Kings,LAK
+270,1,26,New Jersey Devils,Los Angeles Kings,2022020923568,2022020923,Stoppage,568,STOP,Offside,2023-02-24T02:27:42Z,3,17:58,02:02,2,3,,,
+271,1,26,New Jersey Devils,Los Angeles Kings,2022020923440,2022020923,Faceoff,440,FACEOFF,Erik Haula faceoff won against Blake Lizotte,2023-02-24T02:28:14Z,3,17:58,02:02,2,3,1.0,New Jersey Devils,NJD
+272,1,26,New Jersey Devils,Los Angeles Kings,2022020923195,2022020923,Hit,195,HIT,Phillip Danault hit Jack Hughes,2023-02-24T02:29:00Z,3,18:44,01:16,2,3,26.0,Los Angeles Kings,LAK
+273,1,26,New Jersey Devils,Los Angeles Kings,2022020923441,2022020923,Hit,441,HIT,Ondrej Palat hit Matt Roy,2023-02-24T02:29:15Z,3,18:59,01:01,2,3,1.0,New Jersey Devils,NJD
+274,1,26,New Jersey Devils,Los Angeles Kings,2022020923497,2022020923,Goal,497,GOAL,"Nico Hischier (24) Tip-In, assists: Jack Hughes (37), Dougie Hamilton (39)",2023-02-24T02:29:38Z,3,19:21,00:39,3,3,1.0,New Jersey Devils,NJD
+275,1,26,New Jersey Devils,Los Angeles Kings,2022020923569,2022020923,Stoppage,569,STOP,Home Timeout,2023-02-24T02:29:38Z,3,19:21,00:39,3,3,,,
+276,1,26,New Jersey Devils,Los Angeles Kings,2022020923442,2022020923,Faceoff,442,FACEOFF,Anze Kopitar faceoff won against Nico Hischier,2023-02-24T02:31:17Z,3,19:21,00:39,3,3,26.0,Los Angeles Kings,LAK
+277,1,26,New Jersey Devils,Los Angeles Kings,2022020923570,2022020923,Stoppage,570,STOP,Offside,2023-02-24T02:31:22Z,3,19:26,00:34,3,3,,,
+278,1,26,New Jersey Devils,Los Angeles Kings,2022020923443,2022020923,Faceoff,443,FACEOFF,Nico Hischier faceoff won against Anze Kopitar,2023-02-24T02:31:40Z,3,19:26,00:34,3,3,1.0,New Jersey Devils,NJD
+279,1,26,New Jersey Devils,Los Angeles Kings,2022020923498,2022020923,Shot,498,SHOT,Quinton Byfield Snap Shot saved by Vitek Vanecek,2023-02-24T02:32:04Z,3,19:50,00:10,3,3,26.0,Los Angeles Kings,LAK
+280,1,26,New Jersey Devils,Los Angeles Kings,2022020923499,2022020923,Period End,499,PERIOD_END,End of 3rd Period,2023-02-24T02:32:14Z,3,20:00,00:00,3,3,,,
+281,1,26,New Jersey Devils,Los Angeles Kings,2022020923852,2022020923,Period Official,852,PERIOD_OFFICIAL,Period Official,2023-02-24T02:33:09Z,3,20:00,00:00,3,3,,,
+282,1,26,New Jersey Devils,Los Angeles Kings,2022020923853,2022020923,Period Ready,853,PERIOD_READY,Period Ready,2023-02-24T02:34:16Z,4,00:00,05:00,3,3,,,
+283,1,26,New Jersey Devils,Los Angeles Kings,2022020923444,2022020923,Period Start,444,PERIOD_START,Period Start,2023-02-24T02:34:25Z,4,00:00,05:00,3,3,,,
+284,1,26,New Jersey Devils,Los Angeles Kings,2022020923445,2022020923,Faceoff,445,FACEOFF,Nico Hischier faceoff won against Phillip Danault,2023-02-24T02:34:25Z,4,00:00,05:00,3,3,1.0,New Jersey Devils,NJD
+285,1,26,New Jersey Devils,Los Angeles Kings,2022020923309,2022020923,Shot,309,SHOT,Jack Hughes Snap Shot saved by Pheonix Copley,2023-02-24T02:34:34Z,4,00:09,04:51,3,3,1.0,New Jersey Devils,NJD
+286,1,26,New Jersey Devils,Los Angeles Kings,2022020923854,2022020923,Shot,854,SHOT,Jack Hughes Snap Shot saved by Pheonix Copley,2023-02-24T02:34:39Z,4,00:14,04:46,3,3,1.0,New Jersey Devils,NJD
+287,1,26,New Jersey Devils,Los Angeles Kings,2022020923855,2022020923,Shot,855,SHOT,Nico Hischier Backhand saved by Pheonix Copley,2023-02-24T02:34:57Z,4,00:32,04:28,3,3,1.0,New Jersey Devils,NJD
+288,1,26,New Jersey Devils,Los Angeles Kings,2022020923197,2022020923,Takeaway,197,TAKEAWAY,Takeaway by Dougie Hamilton,2023-02-24T02:35:18Z,4,00:53,04:07,3,3,1.0,New Jersey Devils,NJD
+289,1,26,New Jersey Devils,Los Angeles Kings,2022020923572,2022020923,Stoppage,572,STOP,Goalie Stopped,2023-02-24T02:35:28Z,4,01:03,03:57,3,3,,,
+290,1,26,New Jersey Devils,Los Angeles Kings,2022020923856,2022020923,Shot,856,SHOT,Jack Hughes Snap Shot saved by Pheonix Copley,2023-02-24T02:35:28Z,4,01:03,03:57,3,3,1.0,New Jersey Devils,NJD
+291,1,26,New Jersey Devils,Los Angeles Kings,2022020923446,2022020923,Faceoff,446,FACEOFF,Anze Kopitar faceoff won against Erik Haula,2023-02-24T02:35:58Z,4,01:03,03:57,3,3,26.0,Los Angeles Kings,LAK
+292,1,26,New Jersey Devils,Los Angeles Kings,2022020923857,2022020923,Goal,857,GOAL,"Dawson Mercer (18) Tip-In, assists: Dougie Hamilton (40), Vitek Vanecek (2)",2023-02-24T02:37:25Z,4,02:30,02:30,4,3,1.0,New Jersey Devils,NJD
+293,1,26,New Jersey Devils,Los Angeles Kings,2022020923858,2022020923,Period End,858,PERIOD_END,End of OT,2023-02-24T02:37:25Z,4,02:30,02:30,4,3,,,
+294,1,26,New Jersey Devils,Los Angeles Kings,2022020923861,2022020923,Period Official,861,PERIOD_OFFICIAL,Period Official,2023-02-24T02:38:52Z,4,02:30,02:30,4,3,,,
+295,1,26,New Jersey Devils,Los Angeles Kings,2022020923862,2022020923,Game End,862,GAME_END,Game End,2023-02-24T02:38:54Z,4,02:30,02:30,4,3,,,
+296,1,26,New Jersey Devils,Los Angeles Kings,2022020923863,2022020923,Game Official,863,GAME_OFFICIAL,Game Official,2023-02-24T02:54:40Z,4,02:30,02:30,4,3,,,

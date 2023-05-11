@@ -1,0 +1,296 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,28,55,San Jose Sharks,Seattle Kraken,20220209051,2022020905,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-02-20T20:15:04Z,1,00:00,20:00,0,0,,,
+1,28,55,San Jose Sharks,Seattle Kraken,20220209055,2022020905,Period Ready,5,PERIOD_READY,Period Ready,2023-02-20T21:07:47Z,1,00:00,20:00,0,0,,,
+2,28,55,San Jose Sharks,Seattle Kraken,2022020905101,2022020905,Period Start,101,PERIOD_START,Period Start,2023-02-20T21:08:43Z,1,00:00,20:00,0,0,,,
+3,28,55,San Jose Sharks,Seattle Kraken,2022020905102,2022020905,Faceoff,102,FACEOFF,Logan Couture faceoff won against Matty Beniers,2023-02-20T21:08:43Z,1,00:00,20:00,0,0,28.0,San Jose Sharks,SJS
+4,28,55,San Jose Sharks,Seattle Kraken,20220209058,2022020905,Shot,8,SHOT,Michael Eyssimont Wrist Shot saved by Martin Jones,2023-02-20T21:08:49Z,1,00:08,19:52,0,0,28.0,San Jose Sharks,SJS
+5,28,55,San Jose Sharks,Seattle Kraken,20220209059,2022020905,Missed Shot,9,MISSED_SHOT,Michael Eyssimont Hit Crossbar Martin Jones,2023-02-20T21:09:00Z,1,00:19,19:41,0,0,28.0,San Jose Sharks,SJS
+6,28,55,San Jose Sharks,Seattle Kraken,2022020905103,2022020905,Takeaway,103,TAKEAWAY,Takeaway by Jared McCann,2023-02-20T21:09:06Z,1,00:25,19:35,0,0,55.0,Seattle Kraken,SEA
+7,28,55,San Jose Sharks,Seattle Kraken,202202090510,2022020905,Missed Shot,10,MISSED_SHOT,Martin Kaut Wide of Net Martin Jones,2023-02-20T21:09:53Z,1,01:12,18:48,0,0,28.0,San Jose Sharks,SJS
+8,28,55,San Jose Sharks,Seattle Kraken,2022020905104,2022020905,Takeaway,104,TAKEAWAY,Takeaway by Oliver Bjorkstrand,2023-02-20T21:10:21Z,1,01:40,18:20,0,0,55.0,Seattle Kraken,SEA
+9,28,55,San Jose Sharks,Seattle Kraken,2022020905151,2022020905,Hit,151,HIT,Eeli Tolvanen hit Mario Ferraro,2023-02-20T21:10:21Z,1,01:40,18:20,0,0,55.0,Seattle Kraken,SEA
+10,28,55,San Jose Sharks,Seattle Kraken,202202090511,2022020905,Blocked Shot,11,BLOCKED_SHOT,Oliver Bjorkstrand shot blocked shot by Nick Cicek,2023-02-20T21:10:22Z,1,01:41,18:19,0,0,28.0,San Jose Sharks,SJS
+11,28,55,San Jose Sharks,Seattle Kraken,2022020905152,2022020905,Hit,152,HIT,Will Borgen hit Mario Ferraro,2023-02-20T21:10:31Z,1,01:50,18:10,0,0,55.0,Seattle Kraken,SEA
+12,28,55,San Jose Sharks,Seattle Kraken,2022020905105,2022020905,Takeaway,105,TAKEAWAY,Takeaway by Morgan Geekie,2023-02-20T21:11:38Z,1,02:57,17:03,0,0,55.0,Seattle Kraken,SEA
+13,28,55,San Jose Sharks,Seattle Kraken,202202090512,2022020905,Blocked Shot,12,BLOCKED_SHOT,Scott Harrington shot blocked shot by Brandon Tanev,2023-02-20T21:11:45Z,1,03:04,16:56,0,0,55.0,Seattle Kraken,SEA
+14,28,55,San Jose Sharks,Seattle Kraken,2022020905106,2022020905,Giveaway,106,GIVEAWAY,Giveaway by Alexander Barabanov,2023-02-20T21:11:51Z,1,03:10,16:50,0,0,28.0,San Jose Sharks,SJS
+15,28,55,San Jose Sharks,Seattle Kraken,2022020905153,2022020905,Stoppage,153,STOP,Puck Frozen,2023-02-20T21:12:15Z,1,03:34,16:26,0,0,,,
+16,28,55,San Jose Sharks,Seattle Kraken,2022020905107,2022020905,Faceoff,107,FACEOFF,Matty Beniers faceoff won against Nick Bonino,2023-02-20T21:12:39Z,1,03:34,16:26,0,0,55.0,Seattle Kraken,SEA
+17,28,55,San Jose Sharks,Seattle Kraken,202202090513,2022020905,Missed Shot,13,MISSED_SHOT,Jared McCann Wide of Net James Reimer,2023-02-20T21:12:44Z,1,03:39,16:21,0,0,55.0,Seattle Kraken,SEA
+18,28,55,San Jose Sharks,Seattle Kraken,202202090514,2022020905,Shot,14,SHOT,Adam Larsson Wrist Shot saved by James Reimer,2023-02-20T21:12:48Z,1,03:43,16:17,0,0,55.0,Seattle Kraken,SEA
+19,28,55,San Jose Sharks,Seattle Kraken,2022020905154,2022020905,Stoppage,154,STOP,Goalie Stopped,2023-02-20T21:12:49Z,1,03:44,16:16,0,0,,,
+20,28,55,San Jose Sharks,Seattle Kraken,2022020905108,2022020905,Faceoff,108,FACEOFF,Matty Beniers faceoff won against Nick Bonino,2023-02-20T21:13:07Z,1,03:44,16:16,0,0,55.0,Seattle Kraken,SEA
+21,28,55,San Jose Sharks,Seattle Kraken,202202090515,2022020905,Shot,15,SHOT,Adam Larsson Wrist Shot saved by James Reimer,2023-02-20T21:13:10Z,1,03:47,16:13,0,0,55.0,Seattle Kraken,SEA
+22,28,55,San Jose Sharks,Seattle Kraken,2022020905109,2022020905,Takeaway,109,TAKEAWAY,Takeaway by Jordan Eberle,2023-02-20T21:13:20Z,1,03:57,16:03,0,0,55.0,Seattle Kraken,SEA
+23,28,55,San Jose Sharks,Seattle Kraken,202202090516,2022020905,Blocked Shot,16,BLOCKED_SHOT,Adam Larsson shot blocked shot by Noah Gregor,2023-02-20T21:13:23Z,1,04:00,16:00,0,0,28.0,San Jose Sharks,SJS
+24,28,55,San Jose Sharks,Seattle Kraken,2022020905155,2022020905,Stoppage,155,STOP,Puck in Netting,2023-02-20T21:13:25Z,1,04:01,15:59,0,0,,,
+25,28,55,San Jose Sharks,Seattle Kraken,2022020905110,2022020905,Faceoff,110,FACEOFF,Nico Sturm faceoff won against Yanni Gourde,2023-02-20T21:13:49Z,1,04:01,15:59,0,0,28.0,San Jose Sharks,SJS
+26,28,55,San Jose Sharks,Seattle Kraken,202202090517,2022020905,Blocked Shot,17,BLOCKED_SHOT,Vince Dunn shot blocked shot by Kevin Labanc,2023-02-20T21:13:56Z,1,04:08,15:52,0,0,28.0,San Jose Sharks,SJS
+27,28,55,San Jose Sharks,Seattle Kraken,202202090520,2022020905,Missed Shot,20,MISSED_SHOT,Kevin Labanc Wide of Net Martin Jones,2023-02-20T21:14:15Z,1,04:27,15:33,0,0,28.0,San Jose Sharks,SJS
+28,28,55,San Jose Sharks,Seattle Kraken,202202090518,2022020905,Blocked Shot,18,BLOCKED_SHOT,Nick Cicek shot blocked shot by Adam Larsson,2023-02-20T21:14:20Z,1,04:32,15:28,0,0,55.0,Seattle Kraken,SEA
+29,28,55,San Jose Sharks,Seattle Kraken,2022020905156,2022020905,Hit,156,HIT,Oliver Bjorkstrand hit Kevin Labanc,2023-02-20T21:14:22Z,1,04:34,15:26,0,0,55.0,Seattle Kraken,SEA
+30,28,55,San Jose Sharks,Seattle Kraken,2022020905111,2022020905,Takeaway,111,TAKEAWAY,Takeaway by Morgan Geekie,2023-02-20T21:14:49Z,1,05:01,14:59,0,0,55.0,Seattle Kraken,SEA
+31,28,55,San Jose Sharks,Seattle Kraken,2022020905157,2022020905,Stoppage,157,STOP,Icing,2023-02-20T21:15:10Z,1,05:22,14:38,0,0,,,
+32,28,55,San Jose Sharks,Seattle Kraken,2022020905112,2022020905,Faceoff,112,FACEOFF,Steven Lorentz faceoff won against Alex Wennberg,2023-02-20T21:15:41Z,1,05:22,14:38,0,0,28.0,San Jose Sharks,SJS
+33,28,55,San Jose Sharks,Seattle Kraken,2022020905158,2022020905,Hit,158,HIT,Alexander Barabanov hit Jaden Schwartz,2023-02-20T21:16:07Z,1,05:48,14:12,0,0,28.0,San Jose Sharks,SJS
+34,28,55,San Jose Sharks,Seattle Kraken,202202090521,2022020905,Blocked Shot,21,BLOCKED_SHOT,Justin Schultz shot blocked shot by Scott Harrington,2023-02-20T21:16:17Z,1,05:58,14:02,0,0,28.0,San Jose Sharks,SJS
+35,28,55,San Jose Sharks,Seattle Kraken,2022020905159,2022020905,Hit,159,HIT,Scott Harrington hit Justin Schultz,2023-02-20T21:16:17Z,1,05:58,14:02,0,0,28.0,San Jose Sharks,SJS
+36,28,55,San Jose Sharks,Seattle Kraken,2022020905113,2022020905,Giveaway,113,GIVEAWAY,Giveaway by Erik Karlsson,2023-02-20T21:16:24Z,1,06:05,13:55,0,0,28.0,San Jose Sharks,SJS
+37,28,55,San Jose Sharks,Seattle Kraken,202202090522,2022020905,Shot,22,SHOT,Jaden Schwartz Slap Shot saved by James Reimer,2023-02-20T21:16:28Z,1,06:09,13:51,0,0,55.0,Seattle Kraken,SEA
+38,28,55,San Jose Sharks,Seattle Kraken,2022020905114,2022020905,Giveaway,114,GIVEAWAY,Giveaway by Michael Eyssimont,2023-02-20T21:16:35Z,1,06:16,13:44,0,0,28.0,San Jose Sharks,SJS
+39,28,55,San Jose Sharks,Seattle Kraken,2022020905160,2022020905,Hit,160,HIT,Martin Kaut hit Adam Larsson,2023-02-20T21:17:03Z,1,06:44,13:16,0,0,28.0,San Jose Sharks,SJS
+40,28,55,San Jose Sharks,Seattle Kraken,202202090523,2022020905,Shot,23,SHOT,Marc-Edouard Vlasic Wrist Shot saved by Martin Jones,2023-02-20T21:17:14Z,1,06:55,13:05,0,0,28.0,San Jose Sharks,SJS
+41,28,55,San Jose Sharks,Seattle Kraken,2022020905116,2022020905,Giveaway,116,GIVEAWAY,Giveaway by Jacob MacDonald,2023-02-20T21:17:53Z,1,07:34,12:26,0,0,28.0,San Jose Sharks,SJS
+42,28,55,San Jose Sharks,Seattle Kraken,202202090524,2022020905,Shot,24,SHOT,Nick Cicek Wrist Shot saved by Martin Jones,2023-02-20T21:18:07Z,1,07:48,12:12,0,0,28.0,San Jose Sharks,SJS
+43,28,55,San Jose Sharks,Seattle Kraken,2022020905161,2022020905,Stoppage,161,STOP,Goalie Stopped,2023-02-20T21:18:08Z,1,07:49,12:11,0,0,,,
+44,28,55,San Jose Sharks,Seattle Kraken,2022020905117,2022020905,Faceoff,117,FACEOFF,Alex Wennberg faceoff won against Logan Couture,2023-02-20T21:20:32Z,1,07:49,12:11,0,0,55.0,Seattle Kraken,SEA
+45,28,55,San Jose Sharks,Seattle Kraken,2022020905162,2022020905,Hit,162,HIT,Logan Couture hit Vince Dunn,2023-02-20T21:20:53Z,1,08:10,11:50,0,0,28.0,San Jose Sharks,SJS
+46,28,55,San Jose Sharks,Seattle Kraken,2022020905163,2022020905,Hit,163,HIT,Brandon Tanev hit Mario Ferraro,2023-02-20T21:21:06Z,1,08:23,11:37,0,0,55.0,Seattle Kraken,SEA
+47,28,55,San Jose Sharks,Seattle Kraken,2022020905164,2022020905,Stoppage,164,STOP,Referee or Linesman,2023-02-20T21:21:12Z,1,08:29,11:31,0,0,,,
+48,28,55,San Jose Sharks,Seattle Kraken,2022020905118,2022020905,Faceoff,118,FACEOFF,Nick Bonino faceoff won against Matty Beniers,2023-02-20T21:22:07Z,1,08:29,11:31,0,0,28.0,San Jose Sharks,SJS
+49,28,55,San Jose Sharks,Seattle Kraken,2022020905165,2022020905,Stoppage,165,STOP,Icing,2023-02-20T21:22:12Z,1,08:34,11:26,0,0,,,
+50,28,55,San Jose Sharks,Seattle Kraken,2022020905119,2022020905,Faceoff,119,FACEOFF,Nick Bonino faceoff won against Matty Beniers,2023-02-20T21:22:35Z,1,08:34,11:26,0,0,28.0,San Jose Sharks,SJS
+51,28,55,San Jose Sharks,Seattle Kraken,2022020905166,2022020905,Stoppage,166,STOP,Icing,2023-02-20T21:22:42Z,1,08:41,11:19,0,0,,,
+52,28,55,San Jose Sharks,Seattle Kraken,2022020905120,2022020905,Faceoff,120,FACEOFF,Nick Bonino faceoff won against Matty Beniers,2023-02-20T21:23:00Z,1,08:41,11:19,0,0,28.0,San Jose Sharks,SJS
+53,28,55,San Jose Sharks,Seattle Kraken,202202090525,2022020905,Shot,25,SHOT,Noah Gregor Wrist Shot saved by Martin Jones,2023-02-20T21:23:45Z,1,09:26,10:34,0,0,28.0,San Jose Sharks,SJS
+54,28,55,San Jose Sharks,Seattle Kraken,2022020905121,2022020905,Takeaway,121,TAKEAWAY,Takeaway by Nico Sturm,2023-02-20T21:23:46Z,1,09:27,10:33,0,0,28.0,San Jose Sharks,SJS
+55,28,55,San Jose Sharks,Seattle Kraken,2022020905167,2022020905,Stoppage,167,STOP,Goalie Stopped,2023-02-20T21:23:50Z,1,09:32,10:28,0,0,,,
+56,28,55,San Jose Sharks,Seattle Kraken,2022020905122,2022020905,Faceoff,122,FACEOFF,Matty Beniers faceoff won against Nico Sturm,2023-02-20T21:24:21Z,1,09:32,10:28,0,0,55.0,Seattle Kraken,SEA
+57,28,55,San Jose Sharks,Seattle Kraken,2022020905168,2022020905,Hit,168,HIT,Jaycob Megna hit Nico Sturm,2023-02-20T21:24:37Z,1,09:48,10:12,0,0,55.0,Seattle Kraken,SEA
+58,28,55,San Jose Sharks,Seattle Kraken,2022020905169,2022020905,Hit,169,HIT,Ryan Donato hit Nick Cicek,2023-02-20T21:25:13Z,1,10:24,09:36,0,0,55.0,Seattle Kraken,SEA
+59,28,55,San Jose Sharks,Seattle Kraken,2022020905123,2022020905,Takeaway,123,TAKEAWAY,Takeaway by Steven Lorentz,2023-02-20T21:25:17Z,1,10:28,09:32,0,0,28.0,San Jose Sharks,SJS
+60,28,55,San Jose Sharks,Seattle Kraken,2022020905172,2022020905,Penalty,172,PENALTY,Logan Couture High-sticking against Vince Dunn,2023-02-20T21:25:49Z,1,11:00,09:00,0,0,28.0,San Jose Sharks,SJS
+61,28,55,San Jose Sharks,Seattle Kraken,2022020905174,2022020905,Stoppage,174,STOP,TV timeout,2023-02-20T21:25:49Z,1,11:00,09:00,0,0,,,
+62,28,55,San Jose Sharks,Seattle Kraken,2022020905124,2022020905,Faceoff,124,FACEOFF,Alex Wennberg faceoff won against Nick Bonino,2023-02-20T21:28:14Z,1,11:00,09:00,0,0,55.0,Seattle Kraken,SEA
+63,28,55,San Jose Sharks,Seattle Kraken,202202090526,2022020905,Missed Shot,26,MISSED_SHOT,Eeli Tolvanen Wide of Net James Reimer,2023-02-20T21:28:24Z,1,11:10,08:50,0,0,55.0,Seattle Kraken,SEA
+64,28,55,San Jose Sharks,Seattle Kraken,202202090527,2022020905,Shot,27,SHOT,Jared McCann Snap Shot saved by James Reimer,2023-02-20T21:28:33Z,1,11:19,08:41,0,0,55.0,Seattle Kraken,SEA
+65,28,55,San Jose Sharks,Seattle Kraken,202202090528,2022020905,Missed Shot,28,MISSED_SHOT,Oliver Bjorkstrand Wide of Net James Reimer,2023-02-20T21:29:03Z,1,11:49,08:11,0,0,55.0,Seattle Kraken,SEA
+66,28,55,San Jose Sharks,Seattle Kraken,2022020905175,2022020905,Stoppage,175,STOP,Puck in Crowd,2023-02-20T21:29:26Z,1,12:12,07:48,0,0,,,
+67,28,55,San Jose Sharks,Seattle Kraken,2022020905125,2022020905,Faceoff,125,FACEOFF,Yanni Gourde faceoff won against Nico Sturm,2023-02-20T21:29:48Z,1,12:12,07:48,0,0,55.0,Seattle Kraken,SEA
+68,28,55,San Jose Sharks,Seattle Kraken,2022020905127,2022020905,Takeaway,127,TAKEAWAY,Takeaway by Nick Bonino,2023-02-20T21:29:54Z,1,12:18,07:42,0,0,28.0,San Jose Sharks,SJS
+69,28,55,San Jose Sharks,Seattle Kraken,2022020905128,2022020905,Takeaway,128,TAKEAWAY,Takeaway by Matty Beniers,2023-02-20T21:30:00Z,1,12:24,07:36,0,0,55.0,Seattle Kraken,SEA
+70,28,55,San Jose Sharks,Seattle Kraken,202202090529,2022020905,Missed Shot,29,MISSED_SHOT,Matty Beniers Wide of Net James Reimer,2023-02-20T21:30:04Z,1,12:28,07:32,0,0,55.0,Seattle Kraken,SEA
+71,28,55,San Jose Sharks,Seattle Kraken,2022020905176,2022020905,Stoppage,176,STOP,Puck Frozen,2023-02-20T21:30:08Z,1,12:31,07:29,0,0,,,
+72,28,55,San Jose Sharks,Seattle Kraken,2022020905129,2022020905,Faceoff,129,FACEOFF,Nico Sturm faceoff won against Yanni Gourde,2023-02-20T21:30:30Z,1,12:31,07:29,0,0,28.0,San Jose Sharks,SJS
+73,28,55,San Jose Sharks,Seattle Kraken,2022020905130,2022020905,Giveaway,130,GIVEAWAY,Giveaway by Matty Beniers,2023-02-20T21:30:57Z,1,12:58,07:02,0,0,55.0,Seattle Kraken,SEA
+74,28,55,San Jose Sharks,Seattle Kraken,2022020905131,2022020905,Takeaway,131,TAKEAWAY,Takeaway by Logan Couture,2023-02-20T21:31:23Z,1,13:24,06:36,0,0,28.0,San Jose Sharks,SJS
+75,28,55,San Jose Sharks,Seattle Kraken,202202090530,2022020905,Shot,30,SHOT,Logan Couture Slap Shot saved by Martin Jones,2023-02-20T21:31:24Z,1,13:25,06:35,0,0,28.0,San Jose Sharks,SJS
+76,28,55,San Jose Sharks,Seattle Kraken,2022020905177,2022020905,Stoppage,177,STOP,Goalie Stopped,2023-02-20T21:31:24Z,1,13:26,06:34,0,0,,,
+77,28,55,San Jose Sharks,Seattle Kraken,2022020905132,2022020905,Faceoff,132,FACEOFF,Alex Wennberg faceoff won against Logan Couture,2023-02-20T21:31:47Z,1,13:26,06:34,0,0,55.0,Seattle Kraken,SEA
+78,28,55,San Jose Sharks,Seattle Kraken,2022020905178,2022020905,Hit,178,HIT,Brandon Tanev hit Scott Harrington,2023-02-20T21:32:03Z,1,13:42,06:18,0,0,55.0,Seattle Kraken,SEA
+79,28,55,San Jose Sharks,Seattle Kraken,2022020905179,2022020905,Hit,179,HIT,Alexander Barabanov hit Jamie Oleksiak,2023-02-20T21:32:11Z,1,13:50,06:10,0,0,28.0,San Jose Sharks,SJS
+80,28,55,San Jose Sharks,Seattle Kraken,2022020905133,2022020905,Takeaway,133,TAKEAWAY,Takeaway by Jared McCann,2023-02-20T21:32:45Z,1,14:22,05:38,0,0,55.0,Seattle Kraken,SEA
+81,28,55,San Jose Sharks,Seattle Kraken,202202090531,2022020905,Shot,31,SHOT,Daniel Sprong Slap Shot saved by James Reimer,2023-02-20T21:32:58Z,1,14:37,05:23,0,0,55.0,Seattle Kraken,SEA
+82,28,55,San Jose Sharks,Seattle Kraken,2022020905180,2022020905,Stoppage,180,STOP,Puck Frozen,2023-02-20T21:33:01Z,1,14:40,05:20,0,0,,,
+83,28,55,San Jose Sharks,Seattle Kraken,2022020905135,2022020905,Faceoff,135,FACEOFF,Steven Lorentz faceoff won against Yanni Gourde,2023-02-20T21:35:20Z,1,14:40,05:20,0,0,28.0,San Jose Sharks,SJS
+84,28,55,San Jose Sharks,Seattle Kraken,2022020905181,2022020905,Hit,181,HIT,Evgeny Svechnikov hit Justin Schultz,2023-02-20T21:35:38Z,1,14:58,05:02,0,0,28.0,San Jose Sharks,SJS
+85,28,55,San Jose Sharks,Seattle Kraken,2022020905183,2022020905,Hit,183,HIT,Steven Lorentz hit Jaycob Megna,2023-02-20T21:35:44Z,1,15:04,04:56,0,0,28.0,San Jose Sharks,SJS
+86,28,55,San Jose Sharks,Seattle Kraken,202202090532,2022020905,Blocked Shot,32,BLOCKED_SHOT,Oliver Bjorkstrand shot blocked shot by Mario Ferraro,2023-02-20T21:35:52Z,1,15:12,04:48,0,0,28.0,San Jose Sharks,SJS
+87,28,55,San Jose Sharks,Seattle Kraken,2022020905136,2022020905,Takeaway,136,TAKEAWAY,Takeaway by Oliver Bjorkstrand,2023-02-20T21:35:57Z,1,15:17,04:43,0,0,55.0,Seattle Kraken,SEA
+88,28,55,San Jose Sharks,Seattle Kraken,202202090533,2022020905,Blocked Shot,33,BLOCKED_SHOT,Justin Schultz shot blocked shot by Steven Lorentz,2023-02-20T21:36:05Z,1,15:25,04:35,0,0,28.0,San Jose Sharks,SJS
+89,28,55,San Jose Sharks,Seattle Kraken,2022020905184,2022020905,Hit,184,HIT,Jaden Schwartz hit Scott Harrington,2023-02-20T21:36:34Z,1,15:54,04:06,0,0,55.0,Seattle Kraken,SEA
+90,28,55,San Jose Sharks,Seattle Kraken,2022020905457,2022020905,Penalty,457,PENALTY,Jamie Oleksiak Hooking against Alexander Barabanov,2023-02-20T21:37:18Z,1,16:37,03:23,0,0,55.0,Seattle Kraken,SEA
+91,28,55,San Jose Sharks,Seattle Kraken,2022020905137,2022020905,Faceoff,137,FACEOFF,Yanni Gourde faceoff won against Logan Couture,2023-02-20T21:37:54Z,1,16:37,03:23,0,0,55.0,Seattle Kraken,SEA
+92,28,55,San Jose Sharks,Seattle Kraken,202202090534,2022020905,Shot,34,SHOT,Jared McCann Wrist Shot saved by James Reimer,2023-02-20T21:37:57Z,1,16:40,03:20,0,0,55.0,Seattle Kraken,SEA
+93,28,55,San Jose Sharks,Seattle Kraken,2022020905138,2022020905,Takeaway,138,TAKEAWAY,Takeaway by Yanni Gourde,2023-02-20T21:38:09Z,1,16:52,03:08,0,0,55.0,Seattle Kraken,SEA
+94,28,55,San Jose Sharks,Seattle Kraken,2022020905139,2022020905,Takeaway,139,TAKEAWAY,Takeaway by Erik Karlsson,2023-02-20T21:38:36Z,1,17:19,02:41,0,0,28.0,San Jose Sharks,SJS
+95,28,55,San Jose Sharks,Seattle Kraken,2022020905186,2022020905,Hit,186,HIT,Vince Dunn hit Kevin Labanc,2023-02-20T21:39:08Z,1,17:51,02:09,0,0,55.0,Seattle Kraken,SEA
+96,28,55,San Jose Sharks,Seattle Kraken,2022020905187,2022020905,Hit,187,HIT,Noah Gregor hit Will Borgen,2023-02-20T21:40:57Z,1,19:40,00:20,0,0,28.0,San Jose Sharks,SJS
+97,28,55,San Jose Sharks,Seattle Kraken,202202090535,2022020905,Period End,35,PERIOD_END,End of 1st Period,2023-02-20T21:41:17Z,1,20:00,00:00,0,0,,,
+98,28,55,San Jose Sharks,Seattle Kraken,202202090538,2022020905,Period Official,38,PERIOD_OFFICIAL,Period Official,2023-02-20T21:41:21Z,1,20:00,00:00,0,0,,,
+99,28,55,San Jose Sharks,Seattle Kraken,202202090539,2022020905,Period Ready,39,PERIOD_READY,Period Ready,2023-02-20T22:00:00Z,2,00:00,20:00,0,0,,,
+100,28,55,San Jose Sharks,Seattle Kraken,2022020905140,2022020905,Period Start,140,PERIOD_START,Period Start,2023-02-20T22:00:04Z,2,00:00,20:00,0,0,,,
+101,28,55,San Jose Sharks,Seattle Kraken,2022020905141,2022020905,Faceoff,141,FACEOFF,Logan Couture faceoff won against Alex Wennberg,2023-02-20T22:00:04Z,2,00:00,20:00,0,0,28.0,San Jose Sharks,SJS
+102,28,55,San Jose Sharks,Seattle Kraken,2022020905501,2022020905,Penalty,501,PENALTY,Noah Gregor Tripping against Matty Beniers,2023-02-20T22:01:19Z,2,01:16,18:44,0,0,28.0,San Jose Sharks,SJS
+103,28,55,San Jose Sharks,Seattle Kraken,2022020905142,2022020905,Faceoff,142,FACEOFF,Logan Couture faceoff won against Alex Wennberg,2023-02-20T22:01:58Z,2,01:16,18:44,0,0,28.0,San Jose Sharks,SJS
+104,28,55,San Jose Sharks,Seattle Kraken,202202090540,2022020905,Blocked Shot,40,BLOCKED_SHOT,Vince Dunn shot blocked shot by Logan Couture,2023-02-20T22:02:33Z,2,01:51,18:09,0,0,28.0,San Jose Sharks,SJS
+105,28,55,San Jose Sharks,Seattle Kraken,2022020905191,2022020905,Hit,191,HIT,Mario Ferraro hit Eeli Tolvanen,2023-02-20T22:02:58Z,2,02:16,17:44,0,0,28.0,San Jose Sharks,SJS
+106,28,55,San Jose Sharks,Seattle Kraken,2022020905143,2022020905,Giveaway,143,GIVEAWAY,Giveaway by Eeli Tolvanen,2023-02-20T22:03:11Z,2,02:29,17:31,0,0,55.0,Seattle Kraken,SEA
+107,28,55,San Jose Sharks,Seattle Kraken,2022020905144,2022020905,Takeaway,144,TAKEAWAY,Takeaway by Oliver Bjorkstrand,2023-02-20T22:03:11Z,2,02:29,17:31,0,0,55.0,Seattle Kraken,SEA
+108,28,55,San Jose Sharks,Seattle Kraken,2022020905192,2022020905,Stoppage,192,STOP,Puck in Crowd,2023-02-20T22:03:24Z,2,02:42,17:18,0,0,,,
+109,28,55,San Jose Sharks,Seattle Kraken,2022020905145,2022020905,Faceoff,145,FACEOFF,Yanni Gourde faceoff won against Logan Couture,2023-02-20T22:03:48Z,2,02:42,17:18,0,0,55.0,Seattle Kraken,SEA
+110,28,55,San Jose Sharks,Seattle Kraken,202202090541,2022020905,Blocked Shot,41,BLOCKED_SHOT,Justin Schultz shot blocked shot by Nick Bonino,2023-02-20T22:04:14Z,2,03:08,16:52,0,0,28.0,San Jose Sharks,SJS
+111,28,55,San Jose Sharks,Seattle Kraken,202202090542,2022020905,Missed Shot,42,MISSED_SHOT,Noah Gregor Goalpost Martin Jones,2023-02-20T22:04:27Z,2,03:20,16:40,0,0,28.0,San Jose Sharks,SJS
+112,28,55,San Jose Sharks,Seattle Kraken,202202090543,2022020905,Shot,43,SHOT,Yanni Gourde Tip-In saved by James Reimer,2023-02-20T22:04:49Z,2,03:43,16:17,0,0,55.0,Seattle Kraken,SEA
+113,28,55,San Jose Sharks,Seattle Kraken,2022020905146,2022020905,Giveaway,146,GIVEAWAY,Giveaway by Michael Eyssimont,2023-02-20T22:05:06Z,2,04:00,16:00,0,0,28.0,San Jose Sharks,SJS
+114,28,55,San Jose Sharks,Seattle Kraken,202202090544,2022020905,Shot,44,SHOT,Ryan Donato Wrist Shot saved by James Reimer,2023-02-20T22:05:28Z,2,04:22,15:38,0,0,55.0,Seattle Kraken,SEA
+115,28,55,San Jose Sharks,Seattle Kraken,2022020905193,2022020905,Hit,193,HIT,Brandon Tanev hit Nick Cicek,2023-02-20T22:05:59Z,2,04:53,15:07,0,0,55.0,Seattle Kraken,SEA
+116,28,55,San Jose Sharks,Seattle Kraken,202202090546,2022020905,Missed Shot,46,MISSED_SHOT,Matt Benning Wide of Net Martin Jones,2023-02-20T22:06:37Z,2,05:31,14:29,0,0,28.0,San Jose Sharks,SJS
+117,28,55,San Jose Sharks,Seattle Kraken,2022020905194,2022020905,Hit,194,HIT,Marc-Edouard Vlasic hit Jordan Eberle,2023-02-20T22:06:40Z,2,05:34,14:26,0,0,28.0,San Jose Sharks,SJS
+118,28,55,San Jose Sharks,Seattle Kraken,2022020905195,2022020905,Hit,195,HIT,Adam Larsson hit Nico Sturm,2023-02-20T22:07:10Z,2,06:04,13:56,0,0,55.0,Seattle Kraken,SEA
+119,28,55,San Jose Sharks,Seattle Kraken,202202090547,2022020905,Shot,47,SHOT,Jordan Eberle Wrist Shot saved by James Reimer,2023-02-20T22:07:21Z,2,06:15,13:45,0,0,55.0,Seattle Kraken,SEA
+120,28,55,San Jose Sharks,Seattle Kraken,2022020905196,2022020905,Stoppage,196,STOP,Goalie Stopped,2023-02-20T22:07:23Z,2,06:16,13:44,0,0,,,
+121,28,55,San Jose Sharks,Seattle Kraken,2022020905147,2022020905,Faceoff,147,FACEOFF,Yanni Gourde faceoff won against Logan Couture,2023-02-20T22:09:34Z,2,06:16,13:44,0,0,55.0,Seattle Kraken,SEA
+122,28,55,San Jose Sharks,Seattle Kraken,202202090548,2022020905,Missed Shot,48,MISSED_SHOT,Eeli Tolvanen Wide of Net James Reimer,2023-02-20T22:09:42Z,2,06:24,13:36,0,0,55.0,Seattle Kraken,SEA
+123,28,55,San Jose Sharks,Seattle Kraken,202202090549,2022020905,Shot,49,SHOT,Justin Schultz Slap Shot saved by James Reimer,2023-02-20T22:09:45Z,2,06:27,13:33,0,0,55.0,Seattle Kraken,SEA
+124,28,55,San Jose Sharks,Seattle Kraken,202202090550,2022020905,Missed Shot,50,MISSED_SHOT,Alexander Barabanov Wide of Net Martin Jones,2023-02-20T22:10:01Z,2,06:43,13:17,0,0,28.0,San Jose Sharks,SJS
+125,28,55,San Jose Sharks,Seattle Kraken,2022020905251,2022020905,Shot,251,SHOT,Logan Couture Wrist Shot saved by Martin Jones,2023-02-20T22:10:04Z,2,06:46,13:14,0,0,28.0,San Jose Sharks,SJS
+126,28,55,San Jose Sharks,Seattle Kraken,2022020905197,2022020905,Stoppage,197,STOP,Puck in Crowd,2023-02-20T22:10:31Z,2,07:14,12:46,0,0,,,
+127,28,55,San Jose Sharks,Seattle Kraken,2022020905148,2022020905,Faceoff,148,FACEOFF,Alex Wennberg faceoff won against Nick Bonino,2023-02-20T22:10:56Z,2,07:14,12:46,0,0,55.0,Seattle Kraken,SEA
+128,28,55,San Jose Sharks,Seattle Kraken,2022020905198,2022020905,Hit,198,HIT,Noah Gregor hit Jamie Oleksiak,2023-02-20T22:11:37Z,2,07:55,12:05,0,0,28.0,San Jose Sharks,SJS
+129,28,55,San Jose Sharks,Seattle Kraken,2022020905199,2022020905,Stoppage,199,STOP,Icing,2023-02-20T22:11:39Z,2,07:56,12:04,0,0,,,
+130,28,55,San Jose Sharks,Seattle Kraken,2022020905149,2022020905,Faceoff,149,FACEOFF,Alex Wennberg faceoff won against Logan Couture,2023-02-20T22:12:07Z,2,07:56,12:04,0,0,55.0,Seattle Kraken,SEA
+131,28,55,San Jose Sharks,Seattle Kraken,2022020905150,2022020905,Takeaway,150,TAKEAWAY,Takeaway by Jordan Eberle,2023-02-20T22:12:30Z,2,08:19,11:41,0,0,55.0,Seattle Kraken,SEA
+132,28,55,San Jose Sharks,Seattle Kraken,2022020905200,2022020905,Hit,200,HIT,Matt Benning hit Jordan Eberle,2023-02-20T22:12:36Z,2,08:25,11:35,0,0,28.0,San Jose Sharks,SJS
+133,28,55,San Jose Sharks,Seattle Kraken,2022020905252,2022020905,Missed Shot,252,MISSED_SHOT,Jordan Eberle Over Net James Reimer,2023-02-20T22:12:55Z,2,08:44,11:16,0,0,55.0,Seattle Kraken,SEA
+134,28,55,San Jose Sharks,Seattle Kraken,2022020905401,2022020905,Hit,401,HIT,Vince Dunn hit Alexander Barabanov,2023-02-20T22:13:15Z,2,09:04,10:56,0,0,55.0,Seattle Kraken,SEA
+135,28,55,San Jose Sharks,Seattle Kraken,2022020905402,2022020905,Stoppage,402,STOP,Offside,2023-02-20T22:13:31Z,2,09:21,10:39,0,0,,,
+136,28,55,San Jose Sharks,Seattle Kraken,2022020905351,2022020905,Faceoff,351,FACEOFF,Morgan Geekie faceoff won against Steven Lorentz,2023-02-20T22:14:02Z,2,09:21,10:39,0,0,55.0,Seattle Kraken,SEA
+137,28,55,San Jose Sharks,Seattle Kraken,2022020905403,2022020905,Hit,403,HIT,Marc-Edouard Vlasic hit Morgan Geekie,2023-02-20T22:14:34Z,2,09:53,10:07,0,0,28.0,San Jose Sharks,SJS
+138,28,55,San Jose Sharks,Seattle Kraken,2022020905404,2022020905,Hit,404,HIT,Will Borgen hit Kevin Labanc,2023-02-20T22:14:55Z,2,10:14,09:46,0,0,55.0,Seattle Kraken,SEA
+139,28,55,San Jose Sharks,Seattle Kraken,2022020905253,2022020905,Shot,253,SHOT,Yanni Gourde Wrist Shot saved by James Reimer,2023-02-20T22:15:03Z,2,10:22,09:38,0,0,55.0,Seattle Kraken,SEA
+140,28,55,San Jose Sharks,Seattle Kraken,2022020905405,2022020905,Stoppage,405,STOP,Goalie Stopped,2023-02-20T22:15:04Z,2,10:23,09:37,0,0,,,
+141,28,55,San Jose Sharks,Seattle Kraken,2022020905352,2022020905,Faceoff,352,FACEOFF,Yanni Gourde faceoff won against Nick Bonino,2023-02-20T22:17:18Z,2,10:23,09:37,0,0,55.0,Seattle Kraken,SEA
+142,28,55,San Jose Sharks,Seattle Kraken,2022020905254,2022020905,Missed Shot,254,MISSED_SHOT,Oliver Bjorkstrand Wide of Net James Reimer,2023-02-20T22:17:22Z,2,10:27,09:33,0,0,55.0,Seattle Kraken,SEA
+143,28,55,San Jose Sharks,Seattle Kraken,2022020905406,2022020905,Stoppage,406,STOP,Icing,2023-02-20T22:17:37Z,2,10:42,09:18,0,0,,,
+144,28,55,San Jose Sharks,Seattle Kraken,2022020905353,2022020905,Faceoff,353,FACEOFF,Yanni Gourde faceoff won against Logan Couture,2023-02-20T22:17:58Z,2,10:42,09:18,0,0,55.0,Seattle Kraken,SEA
+145,28,55,San Jose Sharks,Seattle Kraken,2022020905269,2022020905,Goal,269,GOAL,"Logan Couture (20) , assists: none",2023-02-20T22:18:01Z,2,10:45,09:15,1,0,28.0,San Jose Sharks,SJS
+146,28,55,San Jose Sharks,Seattle Kraken,2022020905354,2022020905,Faceoff,354,FACEOFF,Logan Couture faceoff won against Alex Wennberg,2023-02-20T22:18:44Z,2,10:45,09:15,1,0,28.0,San Jose Sharks,SJS
+147,28,55,San Jose Sharks,Seattle Kraken,2022020905407,2022020905,Stoppage,407,STOP,Offside,2023-02-20T22:18:51Z,2,10:51,09:09,1,0,,,
+148,28,55,San Jose Sharks,Seattle Kraken,2022020905355,2022020905,Faceoff,355,FACEOFF,Alex Wennberg faceoff won against Logan Couture,2023-02-20T22:19:08Z,2,10:51,09:09,1,0,55.0,Seattle Kraken,SEA
+149,28,55,San Jose Sharks,Seattle Kraken,2022020905408,2022020905,Hit,408,HIT,Kevin Labanc hit Jaycob Megna,2023-02-20T22:19:40Z,2,11:23,08:37,1,0,28.0,San Jose Sharks,SJS
+150,28,55,San Jose Sharks,Seattle Kraken,2022020905256,2022020905,Shot,256,SHOT,Brandon Tanev Wrist Shot saved by James Reimer,2023-02-20T22:19:49Z,2,11:32,08:28,1,0,55.0,Seattle Kraken,SEA
+151,28,55,San Jose Sharks,Seattle Kraken,2022020905257,2022020905,Shot,257,SHOT,Nico Sturm Wrist Shot saved by Martin Jones,2023-02-20T22:19:59Z,2,11:42,08:18,1,0,28.0,San Jose Sharks,SJS
+152,28,55,San Jose Sharks,Seattle Kraken,2022020905258,2022020905,Shot,258,SHOT,Jordan Eberle Wrist Shot saved by James Reimer,2023-02-20T22:20:09Z,2,11:52,08:08,1,0,55.0,Seattle Kraken,SEA
+153,28,55,San Jose Sharks,Seattle Kraken,2022020905259,2022020905,Missed Shot,259,MISSED_SHOT,Nico Sturm Wide of Net Martin Jones,2023-02-20T22:20:22Z,2,12:04,07:56,1,0,28.0,San Jose Sharks,SJS
+154,28,55,San Jose Sharks,Seattle Kraken,2022020905410,2022020905,Hit,410,HIT,Mario Ferraro hit Ryan Donato,2023-02-20T22:20:52Z,2,12:35,07:25,1,0,28.0,San Jose Sharks,SJS
+155,28,55,San Jose Sharks,Seattle Kraken,2022020905409,2022020905,Hit,409,HIT,Ryan Donato hit Mario Ferraro,2023-02-20T22:20:56Z,2,12:39,07:21,1,0,55.0,Seattle Kraken,SEA
+156,28,55,San Jose Sharks,Seattle Kraken,2022020905260,2022020905,Blocked Shot,260,BLOCKED_SHOT,Mario Ferraro shot blocked shot by Daniel Sprong,2023-02-20T22:21:05Z,2,12:48,07:12,1,0,55.0,Seattle Kraken,SEA
+157,28,55,San Jose Sharks,Seattle Kraken,2022020905411,2022020905,Stoppage,411,STOP,Puck in Netting,2023-02-20T22:21:07Z,2,12:49,07:11,1,0,,,
+158,28,55,San Jose Sharks,Seattle Kraken,2022020905356,2022020905,Faceoff,356,FACEOFF,Yanni Gourde faceoff won against Nick Bonino,2023-02-20T22:21:37Z,2,12:49,07:11,1,0,55.0,Seattle Kraken,SEA
+159,28,55,San Jose Sharks,Seattle Kraken,2022020905412,2022020905,Stoppage,412,STOP,Puck in Crowd,2023-02-20T22:22:02Z,2,13:14,06:46,1,0,,,
+160,28,55,San Jose Sharks,Seattle Kraken,2022020905357,2022020905,Faceoff,357,FACEOFF,Nick Bonino faceoff won against Alex Wennberg,2023-02-20T22:22:27Z,2,13:14,06:46,1,0,28.0,San Jose Sharks,SJS
+161,28,55,San Jose Sharks,Seattle Kraken,2022020905261,2022020905,Blocked Shot,261,BLOCKED_SHOT,Brandon Tanev shot blocked shot by Erik Karlsson,2023-02-20T22:22:36Z,2,13:23,06:37,1,0,28.0,San Jose Sharks,SJS
+162,28,55,San Jose Sharks,Seattle Kraken,2022020905262,2022020905,Shot,262,SHOT,Noah Gregor Backhand saved by Martin Jones,2023-02-20T22:22:43Z,2,13:30,06:30,1,0,28.0,San Jose Sharks,SJS
+163,28,55,San Jose Sharks,Seattle Kraken,2022020905413,2022020905,Stoppage,413,STOP,Goalie Stopped,2023-02-20T22:22:44Z,2,13:31,06:29,1,0,,,
+164,28,55,San Jose Sharks,Seattle Kraken,2022020905358,2022020905,Faceoff,358,FACEOFF,Alex Wennberg faceoff won against Logan Couture,2023-02-20T22:23:20Z,2,13:31,06:29,1,0,55.0,Seattle Kraken,SEA
+165,28,55,San Jose Sharks,Seattle Kraken,2022020905611,2022020905,Penalty,611,PENALTY,Jaden Schwartz Holding against Alexander Barabanov,2023-02-20T22:23:40Z,2,13:52,06:08,1,0,55.0,Seattle Kraken,SEA
+166,28,55,San Jose Sharks,Seattle Kraken,2022020905359,2022020905,Faceoff,359,FACEOFF,Yanni Gourde faceoff won against Logan Couture,2023-02-20T22:24:19Z,2,13:52,06:08,1,0,55.0,Seattle Kraken,SEA
+167,28,55,San Jose Sharks,Seattle Kraken,2022020905263,2022020905,Shot,263,SHOT,Jamie Oleksiak Wrist Shot saved by James Reimer,2023-02-20T22:24:20Z,2,13:53,06:07,1,0,55.0,Seattle Kraken,SEA
+168,28,55,San Jose Sharks,Seattle Kraken,2022020905264,2022020905,Shot,264,SHOT,Michael Eyssimont Tip-In saved by Martin Jones,2023-02-20T22:25:05Z,2,14:38,05:22,1,0,28.0,San Jose Sharks,SJS
+169,28,55,San Jose Sharks,Seattle Kraken,2022020905265,2022020905,Shot,265,SHOT,Oskar Lindblom Wrist Shot saved by Martin Jones,2023-02-20T22:25:23Z,2,14:56,05:04,1,0,28.0,San Jose Sharks,SJS
+170,28,55,San Jose Sharks,Seattle Kraken,2022020905415,2022020905,Hit,415,HIT,Will Borgen hit Oskar Lindblom,2023-02-20T22:25:48Z,2,15:21,04:39,1,0,55.0,Seattle Kraken,SEA
+171,28,55,San Jose Sharks,Seattle Kraken,2022020905416,2022020905,Hit,416,HIT,Will Borgen hit Jacob MacDonald,2023-02-20T22:26:06Z,2,15:39,04:21,1,0,55.0,Seattle Kraken,SEA
+172,28,55,San Jose Sharks,Seattle Kraken,2022020905361,2022020905,Takeaway,361,TAKEAWAY,Takeaway by Evgeny Svechnikov,2023-02-20T22:26:33Z,2,16:06,03:54,1,0,28.0,San Jose Sharks,SJS
+173,28,55,San Jose Sharks,Seattle Kraken,2022020905266,2022020905,Shot,266,SHOT,Evgeny Svechnikov Wrist Shot saved by Martin Jones,2023-02-20T22:26:34Z,2,16:07,03:53,1,0,28.0,San Jose Sharks,SJS
+174,28,55,San Jose Sharks,Seattle Kraken,2022020905267,2022020905,Goal,267,GOAL,"Evgeny Svechnikov (7) Wrist Shot, assists: none",2023-02-20T22:26:35Z,2,16:08,03:52,2,0,28.0,San Jose Sharks,SJS
+175,28,55,San Jose Sharks,Seattle Kraken,2022020905362,2022020905,Faceoff,362,FACEOFF,Matty Beniers faceoff won against Nico Sturm,2023-02-20T22:27:24Z,2,16:08,03:52,2,0,55.0,Seattle Kraken,SEA
+176,28,55,San Jose Sharks,Seattle Kraken,2022020905268,2022020905,Missed Shot,268,MISSED_SHOT,Nico Sturm Wide of Net Martin Jones,2023-02-20T22:27:40Z,2,16:24,03:36,2,0,28.0,San Jose Sharks,SJS
+177,28,55,San Jose Sharks,Seattle Kraken,2022020905417,2022020905,Hit,417,HIT,Jacob MacDonald hit Jordan Eberle,2023-02-20T22:28:10Z,2,16:54,03:06,2,0,28.0,San Jose Sharks,SJS
+178,28,55,San Jose Sharks,Seattle Kraken,2022020905418,2022020905,Hit,418,HIT,Nick Cicek hit Yanni Gourde,2023-02-20T22:28:41Z,2,17:25,02:35,2,0,28.0,San Jose Sharks,SJS
+179,28,55,San Jose Sharks,Seattle Kraken,2022020905363,2022020905,Takeaway,363,TAKEAWAY,Takeaway by Mario Ferraro,2023-02-20T22:29:07Z,2,17:51,02:09,2,0,28.0,San Jose Sharks,SJS
+180,28,55,San Jose Sharks,Seattle Kraken,2022020905419,2022020905,Hit,419,HIT,Mario Ferraro hit Oliver Bjorkstrand,2023-02-20T22:29:25Z,2,18:09,01:51,2,0,28.0,San Jose Sharks,SJS
+181,28,55,San Jose Sharks,Seattle Kraken,2022020905420,2022020905,Stoppage,420,STOP,Offside,2023-02-20T22:29:35Z,2,18:19,01:41,2,0,,,
+182,28,55,San Jose Sharks,Seattle Kraken,2022020905364,2022020905,Faceoff,364,FACEOFF,Logan Couture faceoff won against Alex Wennberg,2023-02-20T22:31:49Z,2,18:19,01:41,2,0,28.0,San Jose Sharks,SJS
+183,28,55,San Jose Sharks,Seattle Kraken,2022020905421,2022020905,Stoppage,421,STOP,Icing,2023-02-20T22:31:55Z,2,18:25,01:35,2,0,,,
+184,28,55,San Jose Sharks,Seattle Kraken,2022020905365,2022020905,Faceoff,365,FACEOFF,Logan Couture faceoff won against Alex Wennberg,2023-02-20T22:32:18Z,2,18:25,01:35,2,0,28.0,San Jose Sharks,SJS
+185,28,55,San Jose Sharks,Seattle Kraken,2022020905270,2022020905,Missed Shot,270,MISSED_SHOT,Logan Couture Wide of Net Martin Jones,2023-02-20T22:32:29Z,2,18:36,01:24,2,0,28.0,San Jose Sharks,SJS
+186,28,55,San Jose Sharks,Seattle Kraken,2022020905422,2022020905,Hit,422,HIT,Brandon Tanev hit Michael Eyssimont,2023-02-20T22:33:00Z,2,19:07,00:53,2,0,55.0,Seattle Kraken,SEA
+187,28,55,San Jose Sharks,Seattle Kraken,2022020905271,2022020905,Shot,271,SHOT,Evgeny Svechnikov Tip-In saved by Martin Jones,2023-02-20T22:33:13Z,2,19:20,00:40,2,0,28.0,San Jose Sharks,SJS
+188,28,55,San Jose Sharks,Seattle Kraken,2022020905272,2022020905,Goal,272,GOAL,"Noah Gregor (4) Wrist Shot, assists: Evgeny Svechnikov (6), Erik Karlsson (57)",2023-02-20T22:33:36Z,2,19:42,00:18,3,0,28.0,San Jose Sharks,SJS
+189,28,55,San Jose Sharks,Seattle Kraken,2022020905366,2022020905,Faceoff,366,FACEOFF,Yanni Gourde faceoff won against Nick Bonino,2023-02-20T22:34:14Z,2,19:42,00:18,3,0,55.0,Seattle Kraken,SEA
+190,28,55,San Jose Sharks,Seattle Kraken,2022020905273,2022020905,Missed Shot,273,MISSED_SHOT,Eeli Tolvanen Over Net James Reimer,2023-02-20T22:34:28Z,2,19:56,00:04,3,0,55.0,Seattle Kraken,SEA
+191,28,55,San Jose Sharks,Seattle Kraken,2022020905274,2022020905,Period End,274,PERIOD_END,End of 2nd Period,2023-02-20T22:34:32Z,2,20:00,00:00,3,0,,,
+192,28,55,San Jose Sharks,Seattle Kraken,2022020905277,2022020905,Period Official,277,PERIOD_OFFICIAL,Period Official,2023-02-20T22:34:37Z,2,20:00,00:00,3,0,,,
+193,28,55,San Jose Sharks,Seattle Kraken,2022020905278,2022020905,Period Ready,278,PERIOD_READY,Period Ready,2023-02-20T22:53:14Z,3,00:00,20:00,3,0,,,
+194,28,55,San Jose Sharks,Seattle Kraken,2022020905367,2022020905,Period Start,367,PERIOD_START,Period Start,2023-02-20T22:53:21Z,3,00:00,20:00,3,0,,,
+195,28,55,San Jose Sharks,Seattle Kraken,2022020905368,2022020905,Faceoff,368,FACEOFF,Logan Couture faceoff won against Matty Beniers,2023-02-20T22:53:21Z,3,00:00,20:00,3,0,28.0,San Jose Sharks,SJS
+196,28,55,San Jose Sharks,Seattle Kraken,2022020905423,2022020905,Hit,423,HIT,Michael Eyssimont hit Will Borgen,2023-02-20T22:53:45Z,3,00:24,19:36,3,0,28.0,San Jose Sharks,SJS
+197,28,55,San Jose Sharks,Seattle Kraken,2022020905369,2022020905,Takeaway,369,TAKEAWAY,Takeaway by Erik Karlsson,2023-02-20T22:53:48Z,3,00:27,19:33,3,0,28.0,San Jose Sharks,SJS
+198,28,55,San Jose Sharks,Seattle Kraken,2022020905279,2022020905,Shot,279,SHOT,Michael Eyssimont Wrist Shot saved by Martin Jones,2023-02-20T22:53:49Z,3,00:28,19:32,3,0,28.0,San Jose Sharks,SJS
+199,28,55,San Jose Sharks,Seattle Kraken,2022020905280,2022020905,Blocked Shot,280,BLOCKED_SHOT,Logan Couture shot blocked shot by Matty Beniers,2023-02-20T22:53:52Z,3,00:32,19:28,3,0,55.0,Seattle Kraken,SEA
+200,28,55,San Jose Sharks,Seattle Kraken,2022020905424,2022020905,Stoppage,424,STOP,High Stick,2023-02-20T22:54:27Z,3,01:06,18:54,3,0,,,
+201,28,55,San Jose Sharks,Seattle Kraken,2022020905370,2022020905,Faceoff,370,FACEOFF,Yanni Gourde faceoff won against Nick Bonino,2023-02-20T22:54:50Z,3,01:06,18:54,3,0,55.0,Seattle Kraken,SEA
+202,28,55,San Jose Sharks,Seattle Kraken,2022020905281,2022020905,Shot,281,SHOT,Noah Gregor Wrist Shot saved by Martin Jones,2023-02-20T22:54:56Z,3,01:12,18:48,3,0,28.0,San Jose Sharks,SJS
+203,28,55,San Jose Sharks,Seattle Kraken,2022020905425,2022020905,Hit,425,HIT,Nico Sturm hit Justin Schultz,2023-02-20T22:55:49Z,3,02:05,17:55,3,0,28.0,San Jose Sharks,SJS
+204,28,55,San Jose Sharks,Seattle Kraken,2022020905426,2022020905,Hit,426,HIT,Jaden Schwartz hit Mario Ferraro,2023-02-20T22:56:00Z,3,02:16,17:44,3,0,55.0,Seattle Kraken,SEA
+205,28,55,San Jose Sharks,Seattle Kraken,2022020905371,2022020905,Takeaway,371,TAKEAWAY,Takeaway by Mario Ferraro,2023-02-20T22:56:07Z,3,02:23,17:37,3,0,28.0,San Jose Sharks,SJS
+206,28,55,San Jose Sharks,Seattle Kraken,2022020905372,2022020905,Giveaway,372,GIVEAWAY,Giveaway by Nick Cicek,2023-02-20T22:56:11Z,3,02:27,17:33,3,0,28.0,San Jose Sharks,SJS
+207,28,55,San Jose Sharks,Seattle Kraken,2022020905427,2022020905,Stoppage,427,STOP,Icing,2023-02-20T22:56:18Z,3,02:33,17:27,3,0,,,
+208,28,55,San Jose Sharks,Seattle Kraken,2022020905373,2022020905,Faceoff,373,FACEOFF,Morgan Geekie faceoff won against Steven Lorentz,2023-02-20T22:56:49Z,3,02:33,17:27,3,0,55.0,Seattle Kraken,SEA
+209,28,55,San Jose Sharks,Seattle Kraken,2022020905282,2022020905,Shot,282,SHOT,Daniel Sprong Snap Shot saved by James Reimer,2023-02-20T22:56:51Z,3,02:35,17:25,3,0,55.0,Seattle Kraken,SEA
+210,28,55,San Jose Sharks,Seattle Kraken,2022020905428,2022020905,Stoppage,428,STOP,Goalie Stopped,2023-02-20T22:56:52Z,3,02:36,17:24,3,0,,,
+211,28,55,San Jose Sharks,Seattle Kraken,2022020905374,2022020905,Faceoff,374,FACEOFF,Steven Lorentz faceoff won against Morgan Geekie,2023-02-20T22:57:23Z,3,02:36,17:24,3,0,28.0,San Jose Sharks,SJS
+212,28,55,San Jose Sharks,Seattle Kraken,2022020905283,2022020905,Blocked Shot,283,BLOCKED_SHOT,Scott Harrington shot blocked shot by Morgan Geekie,2023-02-20T22:57:40Z,3,02:53,17:07,3,0,55.0,Seattle Kraken,SEA
+213,28,55,San Jose Sharks,Seattle Kraken,2022020905284,2022020905,Blocked Shot,284,BLOCKED_SHOT,Will Borgen shot blocked shot by Logan Couture,2023-02-20T22:58:22Z,3,03:35,16:25,3,0,28.0,San Jose Sharks,SJS
+214,28,55,San Jose Sharks,Seattle Kraken,2022020905285,2022020905,Shot,285,SHOT,Michael Eyssimont Wrap-around saved by Martin Jones,2023-02-20T22:58:26Z,3,03:39,16:21,3,0,28.0,San Jose Sharks,SJS
+215,28,55,San Jose Sharks,Seattle Kraken,2022020905286,2022020905,Shot,286,SHOT,Jared McCann Tip-In saved by James Reimer,2023-02-20T22:58:35Z,3,03:48,16:12,3,0,55.0,Seattle Kraken,SEA
+216,28,55,San Jose Sharks,Seattle Kraken,2022020905287,2022020905,Shot,287,SHOT,Jaycob Megna Slap Shot saved by James Reimer,2023-02-20T22:58:43Z,3,03:56,16:04,3,0,55.0,Seattle Kraken,SEA
+217,28,55,San Jose Sharks,Seattle Kraken,2022020905429,2022020905,Stoppage,429,STOP,Goalie Stopped,2023-02-20T22:58:44Z,3,03:57,16:03,3,0,,,
+218,28,55,San Jose Sharks,Seattle Kraken,2022020905376,2022020905,Faceoff,376,FACEOFF,Nick Bonino faceoff won against Matty Beniers,2023-02-20T22:59:14Z,3,03:57,16:03,3,0,28.0,San Jose Sharks,SJS
+219,28,55,San Jose Sharks,Seattle Kraken,2022020905288,2022020905,Missed Shot,288,MISSED_SHOT,Matty Beniers Wide of Net James Reimer,2023-02-20T22:59:40Z,3,04:23,15:37,3,0,55.0,Seattle Kraken,SEA
+220,28,55,San Jose Sharks,Seattle Kraken,2022020905289,2022020905,Shot,289,SHOT,Nico Sturm Backhand saved by Martin Jones,2023-02-20T22:59:56Z,3,04:39,15:21,3,0,28.0,San Jose Sharks,SJS
+221,28,55,San Jose Sharks,Seattle Kraken,2022020905430,2022020905,Stoppage,430,STOP,Goalie Stopped,2023-02-20T22:59:58Z,3,04:42,15:18,3,0,,,
+222,28,55,San Jose Sharks,Seattle Kraken,2022020905377,2022020905,Faceoff,377,FACEOFF,Yanni Gourde faceoff won against Nico Sturm,2023-02-20T23:00:22Z,3,04:42,15:18,3,0,55.0,Seattle Kraken,SEA
+223,28,55,San Jose Sharks,Seattle Kraken,2022020905378,2022020905,Takeaway,378,TAKEAWAY,Takeaway by Yanni Gourde,2023-02-20T23:00:33Z,3,04:53,15:07,3,0,55.0,Seattle Kraken,SEA
+224,28,55,San Jose Sharks,Seattle Kraken,2022020905291,2022020905,Shot,291,SHOT,Ryan Donato Wrist Shot saved by James Reimer,2023-02-20T23:01:21Z,3,05:41,14:19,3,0,55.0,Seattle Kraken,SEA
+225,28,55,San Jose Sharks,Seattle Kraken,2022020905431,2022020905,Stoppage,431,STOP,Goalie Stopped,2023-02-20T23:01:23Z,3,05:42,14:18,3,0,,,
+226,28,55,San Jose Sharks,Seattle Kraken,2022020905379,2022020905,Faceoff,379,FACEOFF,Alex Wennberg faceoff won against Steven Lorentz,2023-02-20T23:01:49Z,3,05:42,14:18,3,0,55.0,Seattle Kraken,SEA
+227,28,55,San Jose Sharks,Seattle Kraken,2022020905432,2022020905,Hit,432,HIT,Will Borgen hit Steven Lorentz,2023-02-20T23:01:52Z,3,05:45,14:15,3,0,55.0,Seattle Kraken,SEA
+228,28,55,San Jose Sharks,Seattle Kraken,2022020905380,2022020905,Giveaway,380,GIVEAWAY,Giveaway by Erik Karlsson,2023-02-20T23:02:06Z,3,05:59,14:01,3,0,28.0,San Jose Sharks,SJS
+229,28,55,San Jose Sharks,Seattle Kraken,2022020905433,2022020905,Hit,433,HIT,Will Borgen hit Jacob MacDonald,2023-02-20T23:02:24Z,3,06:17,13:43,3,0,55.0,Seattle Kraken,SEA
+230,28,55,San Jose Sharks,Seattle Kraken,2022020905292,2022020905,Shot,292,SHOT,Michael Eyssimont Wrist Shot saved by Martin Jones,2023-02-20T23:02:59Z,3,06:52,13:08,3,0,28.0,San Jose Sharks,SJS
+231,28,55,San Jose Sharks,Seattle Kraken,2022020905434,2022020905,Stoppage,434,STOP,Goalie Stopped,2023-02-20T23:03:00Z,3,06:53,13:07,3,0,,,
+232,28,55,San Jose Sharks,Seattle Kraken,2022020905381,2022020905,Faceoff,381,FACEOFF,Morgan Geekie faceoff won against Nick Bonino,2023-02-20T23:05:29Z,3,06:53,13:07,3,0,55.0,Seattle Kraken,SEA
+233,28,55,San Jose Sharks,Seattle Kraken,2022020905435,2022020905,Stoppage,435,STOP,Icing,2023-02-20T23:05:35Z,3,06:59,13:01,3,0,,,
+234,28,55,San Jose Sharks,Seattle Kraken,2022020905382,2022020905,Faceoff,382,FACEOFF,Logan Couture faceoff won against Morgan Geekie,2023-02-20T23:06:06Z,3,06:59,13:01,3,0,28.0,San Jose Sharks,SJS
+235,28,55,San Jose Sharks,Seattle Kraken,2022020905293,2022020905,Missed Shot,293,MISSED_SHOT,Daniel Sprong Wide of Net James Reimer,2023-02-20T23:06:26Z,3,07:19,12:41,3,0,55.0,Seattle Kraken,SEA
+236,28,55,San Jose Sharks,Seattle Kraken,2022020905436,2022020905,Stoppage,436,STOP,Icing,2023-02-20T23:06:36Z,3,07:28,12:32,3,0,,,
+237,28,55,San Jose Sharks,Seattle Kraken,2022020905383,2022020905,Faceoff,383,FACEOFF,Logan Couture faceoff won against Matty Beniers,2023-02-20T23:07:01Z,3,07:28,12:32,3,0,28.0,San Jose Sharks,SJS
+238,28,55,San Jose Sharks,Seattle Kraken,2022020905294,2022020905,Shot,294,SHOT,Jordan Eberle Wrist Shot saved by James Reimer,2023-02-20T23:07:22Z,3,07:49,12:11,3,0,55.0,Seattle Kraken,SEA
+239,28,55,San Jose Sharks,Seattle Kraken,2022020905295,2022020905,Blocked Shot,295,BLOCKED_SHOT,Jared McCann shot blocked shot by Mario Ferraro,2023-02-20T23:07:28Z,3,07:55,12:05,3,0,28.0,San Jose Sharks,SJS
+240,28,55,San Jose Sharks,Seattle Kraken,2022020905296,2022020905,Blocked Shot,296,BLOCKED_SHOT,Jaycob Megna shot blocked shot by Nick Bonino,2023-02-20T23:07:36Z,3,08:03,11:57,3,0,28.0,San Jose Sharks,SJS
+241,28,55,San Jose Sharks,Seattle Kraken,2022020905297,2022020905,Shot,297,SHOT,Justin Schultz Wrist Shot saved by James Reimer,2023-02-20T23:07:41Z,3,08:08,11:52,3,0,55.0,Seattle Kraken,SEA
+242,28,55,San Jose Sharks,Seattle Kraken,2022020905437,2022020905,Stoppage,437,STOP,Goalie Stopped,2023-02-20T23:07:42Z,3,08:09,11:51,3,0,,,
+243,28,55,San Jose Sharks,Seattle Kraken,2022020905384,2022020905,Faceoff,384,FACEOFF,Nico Sturm faceoff won against Yanni Gourde,2023-02-20T23:08:06Z,3,08:09,11:51,3,0,28.0,San Jose Sharks,SJS
+244,28,55,San Jose Sharks,Seattle Kraken,2022020905298,2022020905,Shot,298,SHOT,Vince Dunn Wrist Shot saved by James Reimer,2023-02-20T23:08:22Z,3,08:25,11:35,3,0,55.0,Seattle Kraken,SEA
+245,28,55,San Jose Sharks,Seattle Kraken,2022020905299,2022020905,Missed Shot,299,MISSED_SHOT,Oliver Bjorkstrand Wide of Net James Reimer,2023-02-20T23:08:53Z,3,08:56,11:04,3,0,55.0,Seattle Kraken,SEA
+246,28,55,San Jose Sharks,Seattle Kraken,2022020905300,2022020905,Blocked Shot,300,BLOCKED_SHOT,Adam Larsson shot blocked shot by Nick Cicek,2023-02-20T23:08:57Z,3,09:00,11:00,3,0,28.0,San Jose Sharks,SJS
+247,28,55,San Jose Sharks,Seattle Kraken,2022020905751,2022020905,Missed Shot,751,MISSED_SHOT,Yanni Gourde Wide of Net James Reimer,2023-02-20T23:09:12Z,3,09:15,10:45,3,0,55.0,Seattle Kraken,SEA
+248,28,55,San Jose Sharks,Seattle Kraken,2022020905752,2022020905,Shot,752,SHOT,Jared McCann Tip-In saved by James Reimer,2023-02-20T23:09:30Z,3,09:33,10:27,3,0,55.0,Seattle Kraken,SEA
+249,28,55,San Jose Sharks,Seattle Kraken,2022020905438,2022020905,Stoppage,438,STOP,Goalie Stopped,2023-02-20T23:09:31Z,3,09:34,10:26,3,0,,,
+250,28,55,San Jose Sharks,Seattle Kraken,2022020905385,2022020905,Faceoff,385,FACEOFF,Steven Lorentz faceoff won against Jordan Eberle,2023-02-20T23:09:56Z,3,09:34,10:26,3,0,28.0,San Jose Sharks,SJS
+251,28,55,San Jose Sharks,Seattle Kraken,2022020905753,2022020905,Missed Shot,753,MISSED_SHOT,Jared McCann Wide of Net James Reimer,2023-02-20T23:10:10Z,3,09:48,10:12,3,0,55.0,Seattle Kraken,SEA
+252,28,55,San Jose Sharks,Seattle Kraken,2022020905386,2022020905,Giveaway,386,GIVEAWAY,Giveaway by Will Borgen,2023-02-20T23:10:41Z,3,10:19,09:41,3,0,55.0,Seattle Kraken,SEA
+253,28,55,San Jose Sharks,Seattle Kraken,2022020905754,2022020905,Shot,754,SHOT,Alexander Barabanov Wrist Shot saved by Martin Jones,2023-02-20T23:11:12Z,3,10:50,09:10,3,0,28.0,San Jose Sharks,SJS
+254,28,55,San Jose Sharks,Seattle Kraken,2022020905439,2022020905,Stoppage,439,STOP,Goalie Stopped,2023-02-20T23:11:14Z,3,10:51,09:09,3,0,,,
+255,28,55,San Jose Sharks,Seattle Kraken,2022020905387,2022020905,Faceoff,387,FACEOFF,Morgan Geekie faceoff won against Nick Bonino,2023-02-20T23:13:27Z,3,10:51,09:09,3,0,55.0,Seattle Kraken,SEA
+256,28,55,San Jose Sharks,Seattle Kraken,2022020905755,2022020905,Shot,755,SHOT,Oliver Bjorkstrand Slap Shot saved by James Reimer,2023-02-20T23:14:33Z,3,11:57,08:03,3,0,55.0,Seattle Kraken,SEA
+257,28,55,San Jose Sharks,Seattle Kraken,2022020905440,2022020905,Stoppage,440,STOP,Goalie Stopped,2023-02-20T23:14:34Z,3,11:58,08:02,3,0,,,
+258,28,55,San Jose Sharks,Seattle Kraken,2022020905388,2022020905,Faceoff,388,FACEOFF,Matty Beniers faceoff won against Logan Couture,2023-02-20T23:15:26Z,3,11:58,08:02,3,0,55.0,Seattle Kraken,SEA
+259,28,55,San Jose Sharks,Seattle Kraken,2022020905389,2022020905,Takeaway,389,TAKEAWAY,Takeaway by Adam Larsson,2023-02-20T23:15:39Z,3,12:11,07:49,3,0,55.0,Seattle Kraken,SEA
+260,28,55,San Jose Sharks,Seattle Kraken,2022020905441,2022020905,Hit,441,HIT,Jordan Eberle hit Mario Ferraro,2023-02-20T23:15:48Z,3,12:20,07:40,3,0,55.0,Seattle Kraken,SEA
+261,28,55,San Jose Sharks,Seattle Kraken,2022020905442,2022020905,Hit,442,HIT,Adam Larsson hit Michael Eyssimont,2023-02-20T23:15:58Z,3,12:30,07:30,3,0,55.0,Seattle Kraken,SEA
+262,28,55,San Jose Sharks,Seattle Kraken,2022020905756,2022020905,Blocked Shot,756,BLOCKED_SHOT,Erik Karlsson shot blocked shot by Yanni Gourde,2023-02-20T23:16:52Z,3,13:24,06:36,3,0,55.0,Seattle Kraken,SEA
+263,28,55,San Jose Sharks,Seattle Kraken,2022020905757,2022020905,Shot,757,SHOT,Eeli Tolvanen Slap Shot saved by James Reimer,2023-02-20T23:17:13Z,3,13:45,06:15,3,0,55.0,Seattle Kraken,SEA
+264,28,55,San Jose Sharks,Seattle Kraken,2022020905443,2022020905,Hit,443,HIT,Matt Benning hit Yanni Gourde,2023-02-20T23:17:23Z,3,13:55,06:05,3,0,28.0,San Jose Sharks,SJS
+265,28,55,San Jose Sharks,Seattle Kraken,2022020905758,2022020905,Shot,758,SHOT,Nico Sturm Wrist Shot saved by Martin Jones,2023-02-20T23:17:31Z,3,14:01,05:59,3,0,28.0,San Jose Sharks,SJS
+266,28,55,San Jose Sharks,Seattle Kraken,2022020905444,2022020905,Stoppage,444,STOP,Goalie Stopped,2023-02-20T23:17:31Z,3,14:03,05:57,3,0,,,
+267,28,55,San Jose Sharks,Seattle Kraken,2022020905390,2022020905,Faceoff,390,FACEOFF,Nick Bonino faceoff won against Alex Wennberg,2023-02-20T23:19:49Z,3,14:03,05:57,3,0,28.0,San Jose Sharks,SJS
+268,28,55,San Jose Sharks,Seattle Kraken,2022020905759,2022020905,Shot,759,SHOT,Martin Kaut Backhand saved by Martin Jones,2023-02-20T23:19:53Z,3,14:07,05:53,3,0,28.0,San Jose Sharks,SJS
+269,28,55,San Jose Sharks,Seattle Kraken,2022020905445,2022020905,Stoppage,445,STOP,Icing,2023-02-20T23:20:27Z,3,14:41,05:19,3,0,,,
+270,28,55,San Jose Sharks,Seattle Kraken,2022020905391,2022020905,Faceoff,391,FACEOFF,Alex Wennberg faceoff won against Logan Couture,2023-02-20T23:20:58Z,3,14:41,05:19,3,0,55.0,Seattle Kraken,SEA
+271,28,55,San Jose Sharks,Seattle Kraken,2022020905760,2022020905,Shot,760,SHOT,Jared McCann Snap Shot saved by James Reimer,2023-02-20T23:21:17Z,3,15:00,05:00,3,0,55.0,Seattle Kraken,SEA
+272,28,55,San Jose Sharks,Seattle Kraken,2022020905446,2022020905,Stoppage,446,STOP,Goalie Stopped,2023-02-20T23:21:21Z,3,15:03,04:57,3,0,,,
+273,28,55,San Jose Sharks,Seattle Kraken,2022020905392,2022020905,Faceoff,392,FACEOFF,Nico Sturm faceoff won against Matty Beniers,2023-02-20T23:21:50Z,3,15:03,04:57,3,0,28.0,San Jose Sharks,SJS
+274,28,55,San Jose Sharks,Seattle Kraken,2022020905393,2022020905,Giveaway,393,GIVEAWAY,Giveaway by Martin Kaut,2023-02-20T23:22:50Z,3,16:03,03:57,3,0,28.0,San Jose Sharks,SJS
+275,28,55,San Jose Sharks,Seattle Kraken,2022020905761,2022020905,Shot,761,SHOT,Jamie Oleksiak Wrist Shot saved by James Reimer,2023-02-20T23:22:52Z,3,16:05,03:55,3,0,55.0,Seattle Kraken,SEA
+276,28,55,San Jose Sharks,Seattle Kraken,2022020905762,2022020905,Blocked Shot,762,BLOCKED_SHOT,Oliver Bjorkstrand shot blocked shot by Erik Karlsson,2023-02-20T23:23:22Z,3,16:35,03:25,3,0,28.0,San Jose Sharks,SJS
+277,28,55,San Jose Sharks,Seattle Kraken,2022020905447,2022020905,Hit,447,HIT,Will Borgen hit Alexander Barabanov,2023-02-20T23:23:25Z,3,16:38,03:22,3,0,55.0,Seattle Kraken,SEA
+278,28,55,San Jose Sharks,Seattle Kraken,2022020905763,2022020905,Missed Shot,763,MISSED_SHOT,Logan Couture Wide of Net Martin Jones,2023-02-20T23:23:34Z,3,16:47,03:13,3,0,28.0,San Jose Sharks,SJS
+279,28,55,San Jose Sharks,Seattle Kraken,2022020905448,2022020905,Hit,448,HIT,Will Borgen hit Michael Eyssimont,2023-02-20T23:23:42Z,3,16:55,03:05,3,0,55.0,Seattle Kraken,SEA
+280,28,55,San Jose Sharks,Seattle Kraken,2022020905764,2022020905,Goal,764,GOAL,"Michael Eyssimont (4) Tip-In, assists: Logan Couture (28), Erik Karlsson (58)",2023-02-20T23:23:43Z,3,16:57,03:03,4,0,28.0,San Jose Sharks,SJS
+281,28,55,San Jose Sharks,Seattle Kraken,2022020905394,2022020905,Faceoff,394,FACEOFF,Morgan Geekie faceoff won against Nico Sturm,2023-02-20T23:24:29Z,3,16:57,03:03,4,0,55.0,Seattle Kraken,SEA
+282,28,55,San Jose Sharks,Seattle Kraken,2022020905765,2022020905,Missed Shot,765,MISSED_SHOT,Oskar Lindblom Wide of Net Martin Jones,2023-02-20T23:24:38Z,3,17:06,02:54,4,0,28.0,San Jose Sharks,SJS
+283,28,55,San Jose Sharks,Seattle Kraken,2022020905395,2022020905,Takeaway,395,TAKEAWAY,Takeaway by Scott Harrington,2023-02-20T23:24:48Z,3,17:16,02:44,4,0,28.0,San Jose Sharks,SJS
+284,28,55,San Jose Sharks,Seattle Kraken,2022020905449,2022020905,Hit,449,HIT,Nick Cicek hit Ryan Donato,2023-02-20T23:26:06Z,3,18:34,01:26,4,0,28.0,San Jose Sharks,SJS
+285,28,55,San Jose Sharks,Seattle Kraken,2022020905766,2022020905,Missed Shot,766,MISSED_SHOT,Ryan Donato Wide of Net James Reimer,2023-02-20T23:26:08Z,3,18:36,01:24,4,0,55.0,Seattle Kraken,SEA
+286,28,55,San Jose Sharks,Seattle Kraken,2022020905396,2022020905,Takeaway,396,TAKEAWAY,Takeaway by Yanni Gourde,2023-02-20T23:26:48Z,3,19:16,00:44,4,0,55.0,Seattle Kraken,SEA
+287,28,55,San Jose Sharks,Seattle Kraken,2022020905767,2022020905,Blocked Shot,767,BLOCKED_SHOT,Jamie Oleksiak shot blocked shot by Jacob MacDonald,2023-02-20T23:27:07Z,3,19:35,00:25,4,0,28.0,San Jose Sharks,SJS
+288,28,55,San Jose Sharks,Seattle Kraken,2022020905397,2022020905,Takeaway,397,TAKEAWAY,Takeaway by Jacob MacDonald,2023-02-20T23:27:10Z,3,19:38,00:22,4,0,28.0,San Jose Sharks,SJS
+289,28,55,San Jose Sharks,Seattle Kraken,2022020905768,2022020905,Missed Shot,768,MISSED_SHOT,Jacob MacDonald Wide of Net Martin Jones,2023-02-20T23:27:11Z,3,19:39,00:21,4,0,28.0,San Jose Sharks,SJS
+290,28,55,San Jose Sharks,Seattle Kraken,2022020905769,2022020905,Blocked Shot,769,BLOCKED_SHOT,Scott Harrington shot blocked shot by Eeli Tolvanen,2023-02-20T23:27:24Z,3,19:52,00:08,4,0,55.0,Seattle Kraken,SEA
+291,28,55,San Jose Sharks,Seattle Kraken,2022020905770,2022020905,Period End,770,PERIOD_END,End of 3rd Period,2023-02-20T23:27:33Z,3,20:00,00:00,4,0,,,
+292,28,55,San Jose Sharks,Seattle Kraken,2022020905773,2022020905,Period Official,773,PERIOD_OFFICIAL,Period Official,2023-02-20T23:27:41Z,3,20:00,00:00,4,0,,,
+293,28,55,San Jose Sharks,Seattle Kraken,2022020905774,2022020905,Game End,774,GAME_END,Game End,2023-02-20T23:27:43Z,3,20:00,00:00,4,0,,,
+294,28,55,San Jose Sharks,Seattle Kraken,2022020905775,2022020905,Game Official,775,GAME_OFFICIAL,Game Official,2023-02-20T23:31:51Z,3,20:00,00:00,4,0,,,

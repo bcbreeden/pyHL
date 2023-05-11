@@ -1,0 +1,354 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,17,7,Detroit Red Wings,Buffalo Sabres,20220203611,2022020361,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-11-30T23:14:36Z,1,00:00,20:00,0,0,,,
+1,17,7,Detroit Red Wings,Buffalo Sabres,20220203615,2022020361,Period Ready,5,PERIOD_READY,Period Ready,2022-12-01T00:06:35Z,1,00:00,20:00,0,0,,,
+2,17,7,Detroit Red Wings,Buffalo Sabres,202202036151,2022020361,Period Start,51,PERIOD_START,Period Start,2022-12-01T00:07:14Z,1,00:00,20:00,0,0,,,
+3,17,7,Detroit Red Wings,Buffalo Sabres,202202036152,2022020361,Faceoff,52,FACEOFF,Tyson Jost faceoff won against Andrew Copp,2022-12-01T00:07:14Z,1,00:00,20:00,0,0,7.0,Buffalo Sabres,BUF
+4,17,7,Detroit Red Wings,Buffalo Sabres,2022020361151,2022020361,Shot,151,SHOT,Oskar Sundqvist Snap Shot saved by Craig Anderson,2022-12-01T00:07:29Z,1,00:15,19:45,0,0,17.0,Detroit Red Wings,DET
+5,17,7,Detroit Red Wings,Buffalo Sabres,2022020361152,2022020361,Shot,152,SHOT,Jake Walman Wrist Shot saved by Craig Anderson,2022-12-01T00:07:45Z,1,00:31,19:29,0,0,17.0,Detroit Red Wings,DET
+6,17,7,Detroit Red Wings,Buffalo Sabres,20220203618,2022020361,Stoppage,8,STOP,Puck in Benches,2022-12-01T00:08:08Z,1,00:55,19:05,0,0,,,
+7,17,7,Detroit Red Wings,Buffalo Sabres,202202036153,2022020361,Faceoff,53,FACEOFF,Joe Veleno faceoff won against Dylan Cozens,2022-12-01T00:08:34Z,1,00:55,19:05,0,0,17.0,Detroit Red Wings,DET
+8,17,7,Detroit Red Wings,Buffalo Sabres,202202036111,2022020361,Hit,11,HIT,Henri Jokiharju hit Jonatan Berggren,2022-12-01T00:08:47Z,1,01:08,18:52,0,0,7.0,Buffalo Sabres,BUF
+9,17,7,Detroit Red Wings,Buffalo Sabres,202202036110,2022020361,Hit,10,HIT,Pius Suter hit Henri Jokiharju,2022-12-01T00:08:49Z,1,01:10,18:50,0,0,17.0,Detroit Red Wings,DET
+10,17,7,Detroit Red Wings,Buffalo Sabres,2022020361153,2022020361,Goal,153,GOAL,"Jonatan Berggren (2) Wrist Shot, assists: Filip Hronek (13), Joe Veleno (2)",2022-12-01T00:09:00Z,1,01:20,18:40,1,0,17.0,Detroit Red Wings,DET
+11,17,7,Detroit Red Wings,Buffalo Sabres,202202036154,2022020361,Faceoff,54,FACEOFF,Dylan Larkin faceoff won against Alex Tuch,2022-12-01T00:09:44Z,1,01:20,18:40,1,0,17.0,Detroit Red Wings,DET
+12,17,7,Detroit Red Wings,Buffalo Sabres,202202036155,2022020361,Takeaway,55,TAKEAWAY,Takeaway by Dylan Larkin,2022-12-01T00:10:06Z,1,01:42,18:18,1,0,17.0,Detroit Red Wings,DET
+13,17,7,Detroit Red Wings,Buffalo Sabres,2022020361154,2022020361,Shot,154,SHOT,Dominik Kubalik Wrist Shot saved by Craig Anderson,2022-12-01T00:10:06Z,1,01:42,18:18,1,0,17.0,Detroit Red Wings,DET
+14,17,7,Detroit Red Wings,Buffalo Sabres,202202036112,2022020361,Stoppage,12,STOP,Goalie Stopped,2022-12-01T00:10:20Z,1,01:56,18:04,1,0,,,
+15,17,7,Detroit Red Wings,Buffalo Sabres,2022020361155,2022020361,Shot,155,SHOT,Alex Tuch Wrist Shot saved by Alex Nedeljkovic,2022-12-01T00:10:20Z,1,01:56,18:04,1,0,7.0,Buffalo Sabres,BUF
+16,17,7,Detroit Red Wings,Buffalo Sabres,202202036156,2022020361,Faceoff,56,FACEOFF,Michael Rasmussen faceoff won against Casey Mittelstadt,2022-12-01T00:10:47Z,1,01:56,18:04,1,0,17.0,Detroit Red Wings,DET
+17,17,7,Detroit Red Wings,Buffalo Sabres,202202036113,2022020361,Hit,13,HIT,Jordan Oesterle hit Victor Olofsson,2022-12-01T00:11:00Z,1,02:09,17:51,1,0,17.0,Detroit Red Wings,DET
+18,17,7,Detroit Red Wings,Buffalo Sabres,202202036114,2022020361,Hit,14,HIT,Henri Jokiharju hit Tyler Bertuzzi,2022-12-01T00:11:26Z,1,02:35,17:25,1,0,7.0,Buffalo Sabres,BUF
+19,17,7,Detroit Red Wings,Buffalo Sabres,2022020361156,2022020361,Shot,156,SHOT,Zemgus Girgensons Wrist Shot saved by Alex Nedeljkovic,2022-12-01T00:11:43Z,1,02:52,17:08,1,0,7.0,Buffalo Sabres,BUF
+20,17,7,Detroit Red Wings,Buffalo Sabres,202202036115,2022020361,Hit,15,HIT,Adam Erne hit JJ Peterka,2022-12-01T00:12:16Z,1,03:25,16:35,1,0,17.0,Detroit Red Wings,DET
+21,17,7,Detroit Red Wings,Buffalo Sabres,202202036157,2022020361,Giveaway,57,GIVEAWAY,Giveaway by Olli Maatta,2022-12-01T00:12:16Z,1,03:25,16:35,1,0,17.0,Detroit Red Wings,DET
+22,17,7,Detroit Red Wings,Buffalo Sabres,202202036116,2022020361,Penalty,16,PENALTY,Mattias Samuelsson Tripping against Joe Veleno,2022-12-01T00:12:24Z,1,03:33,16:27,1,0,7.0,Buffalo Sabres,BUF
+23,17,7,Detroit Red Wings,Buffalo Sabres,202202036158,2022020361,Faceoff,58,FACEOFF,Dylan Larkin faceoff won against Tage Thompson,2022-12-01T00:12:58Z,1,03:33,16:27,1,0,17.0,Detroit Red Wings,DET
+24,17,7,Detroit Red Wings,Buffalo Sabres,2022020361158,2022020361,Blocked Shot,158,BLOCKED_SHOT,Tage Thompson shot blocked shot by Moritz Seider,2022-12-01T00:13:24Z,1,03:59,16:01,1,0,17.0,Detroit Red Wings,DET
+25,17,7,Detroit Red Wings,Buffalo Sabres,202202036121,2022020361,Hit,21,HIT,Moritz Seider hit Tage Thompson,2022-12-01T00:13:29Z,1,04:04,15:56,1,0,17.0,Detroit Red Wings,DET
+26,17,7,Detroit Red Wings,Buffalo Sabres,2022020361159,2022020361,Shot,159,SHOT,Jonatan Berggren Deflected saved by Craig Anderson,2022-12-01T00:13:57Z,1,04:32,15:28,1,0,17.0,Detroit Red Wings,DET
+27,17,7,Detroit Red Wings,Buffalo Sabres,2022020361160,2022020361,Goal,160,GOAL,"Dylan Cozens (7) Wrist Shot, assists: Craig Anderson (1)",2022-12-01T00:14:18Z,1,04:53,15:07,1,1,7.0,Buffalo Sabres,BUF
+28,17,7,Detroit Red Wings,Buffalo Sabres,202202036159,2022020361,Faceoff,59,FACEOFF,Dylan Larkin faceoff won against Tyson Jost,2022-12-01T00:14:54Z,1,04:53,15:07,1,1,17.0,Detroit Red Wings,DET
+29,17,7,Detroit Red Wings,Buffalo Sabres,2022020361162,2022020361,Blocked Shot,162,BLOCKED_SHOT,Dylan Larkin shot blocked shot by Zemgus Girgensons,2022-12-01T00:15:27Z,1,05:26,14:34,1,1,7.0,Buffalo Sabres,BUF
+30,17,7,Detroit Red Wings,Buffalo Sabres,2022020361161,2022020361,Blocked Shot,161,BLOCKED_SHOT,Dominik Kubalik shot blocked shot by Owen Power,2022-12-01T00:15:34Z,1,05:33,14:27,1,1,7.0,Buffalo Sabres,BUF
+31,17,7,Detroit Red Wings,Buffalo Sabres,202202036122,2022020361,Stoppage,22,STOP,Icing,2022-12-01T00:15:40Z,1,05:39,14:21,1,1,,,
+32,17,7,Detroit Red Wings,Buffalo Sabres,202202036160,2022020361,Faceoff,60,FACEOFF,Joe Veleno faceoff won against Tyson Jost,2022-12-01T00:16:12Z,1,05:39,14:21,1,1,17.0,Detroit Red Wings,DET
+33,17,7,Detroit Red Wings,Buffalo Sabres,202202036123,2022020361,Stoppage,23,STOP,Icing,2022-12-01T00:16:23Z,1,05:51,14:09,1,1,,,
+34,17,7,Detroit Red Wings,Buffalo Sabres,202202036161,2022020361,Faceoff,61,FACEOFF,Tyson Jost faceoff won against Joe Veleno,2022-12-01T00:16:45Z,1,05:51,14:09,1,1,7.0,Buffalo Sabres,BUF
+35,17,7,Detroit Red Wings,Buffalo Sabres,202202036124,2022020361,Stoppage,24,STOP,Icing,2022-12-01T00:17:12Z,1,06:18,13:42,1,1,,,
+36,17,7,Detroit Red Wings,Buffalo Sabres,202202036162,2022020361,Faceoff,62,FACEOFF,Tage Thompson faceoff won against Joe Veleno,2022-12-01T00:17:39Z,1,06:18,13:42,1,1,7.0,Buffalo Sabres,BUF
+37,17,7,Detroit Red Wings,Buffalo Sabres,2022020361301,2022020361,Blocked Shot,301,BLOCKED_SHOT,Casey Fitzgerald shot blocked shot by Adam Erne,2022-12-01T00:17:44Z,1,06:23,13:37,1,1,17.0,Detroit Red Wings,DET
+38,17,7,Detroit Red Wings,Buffalo Sabres,202202036125,2022020361,Hit,25,HIT,Jordan Oesterle hit Jeff Skinner,2022-12-01T00:18:25Z,1,07:04,12:56,1,1,17.0,Detroit Red Wings,DET
+39,17,7,Detroit Red Wings,Buffalo Sabres,202202036163,2022020361,Giveaway,63,GIVEAWAY,Giveaway by Tage Thompson,2022-12-01T00:18:33Z,1,07:12,12:48,1,1,7.0,Buffalo Sabres,BUF
+40,17,7,Detroit Red Wings,Buffalo Sabres,202202036126,2022020361,Stoppage,26,STOP,Icing,2022-12-01T00:19:25Z,1,08:04,11:56,1,1,,,
+41,17,7,Detroit Red Wings,Buffalo Sabres,202202036164,2022020361,Faceoff,64,FACEOFF,Dylan Larkin faceoff won against Dylan Cozens,2022-12-01T00:19:47Z,1,08:04,11:56,1,1,17.0,Detroit Red Wings,DET
+42,17,7,Detroit Red Wings,Buffalo Sabres,2022020361164,2022020361,Goal,164,GOAL,"Mattias Samuelsson (1) Wrist Shot, assists: Rasmus Dahlin (17)",2022-12-01T00:20:08Z,1,08:25,11:35,1,2,7.0,Buffalo Sabres,BUF
+43,17,7,Detroit Red Wings,Buffalo Sabres,202202036165,2022020361,Faceoff,65,FACEOFF,Tyson Jost faceoff won against Joe Veleno,2022-12-01T00:20:54Z,1,08:25,11:35,1,2,7.0,Buffalo Sabres,BUF
+44,17,7,Detroit Red Wings,Buffalo Sabres,202202036127,2022020361,Hit,27,HIT,Joe Veleno hit Tyson Jost,2022-12-01T00:21:04Z,1,08:35,11:25,1,2,17.0,Detroit Red Wings,DET
+45,17,7,Detroit Red Wings,Buffalo Sabres,202202036142,2022020361,Shot,42,SHOT,Moritz Seider Wrist Shot saved by Craig Anderson,2022-12-01T00:22:23Z,1,09:54,10:06,1,2,17.0,Detroit Red Wings,DET
+46,17,7,Detroit Red Wings,Buffalo Sabres,2022020361166,2022020361,Shot,166,SHOT,Alex Tuch Wrist Shot saved by Alex Nedeljkovic,2022-12-01T00:22:26Z,1,09:57,10:03,1,2,7.0,Buffalo Sabres,BUF
+47,17,7,Detroit Red Wings,Buffalo Sabres,202202036128,2022020361,Hit,28,HIT,Moritz Seider hit Alex Tuch,2022-12-01T00:22:30Z,1,10:01,09:59,1,2,17.0,Detroit Red Wings,DET
+48,17,7,Detroit Red Wings,Buffalo Sabres,202202036129,2022020361,Hit,29,HIT,Moritz Seider hit Alex Tuch,2022-12-01T00:22:40Z,1,10:11,09:49,1,2,17.0,Detroit Red Wings,DET
+49,17,7,Detroit Red Wings,Buffalo Sabres,202202036130,2022020361,Penalty,30,PENALTY,Alex Tuch High-sticking against Moritz Seider,2022-12-01T00:22:48Z,1,10:19,09:41,1,2,7.0,Buffalo Sabres,BUF
+50,17,7,Detroit Red Wings,Buffalo Sabres,202202036134,2022020361,Stoppage,34,STOP,TV timeout,2022-12-01T00:22:48Z,1,10:19,09:41,1,2,,,
+51,17,7,Detroit Red Wings,Buffalo Sabres,202202036166,2022020361,Faceoff,66,FACEOFF,Dylan Larkin faceoff won against Tyson Jost,2022-12-01T00:25:30Z,1,10:19,09:41,1,2,17.0,Detroit Red Wings,DET
+52,17,7,Detroit Red Wings,Buffalo Sabres,2022020361173,2022020361,Shot,173,SHOT,Moritz Seider Slap Shot saved by Craig Anderson,2022-12-01T00:25:37Z,1,10:26,09:34,1,2,17.0,Detroit Red Wings,DET
+53,17,7,Detroit Red Wings,Buffalo Sabres,202202036135,2022020361,Stoppage,35,STOP,Goalie Stopped,2022-12-01T00:25:49Z,1,10:39,09:21,1,2,,,
+54,17,7,Detroit Red Wings,Buffalo Sabres,2022020361168,2022020361,Shot,168,SHOT,Dominik Kubalik Slap Shot saved by Craig Anderson,2022-12-01T00:25:49Z,1,10:39,09:21,1,2,17.0,Detroit Red Wings,DET
+55,17,7,Detroit Red Wings,Buffalo Sabres,202202036167,2022020361,Faceoff,67,FACEOFF,Dylan Larkin faceoff won against Tyson Jost,2022-12-01T00:26:09Z,1,10:39,09:21,1,2,17.0,Detroit Red Wings,DET
+56,17,7,Detroit Red Wings,Buffalo Sabres,202202036138,2022020361,Shot,38,SHOT,Zemgus Girgensons Wrist Shot saved by Alex Nedeljkovic,2022-12-01T00:26:27Z,1,10:57,09:03,1,2,7.0,Buffalo Sabres,BUF
+57,17,7,Detroit Red Wings,Buffalo Sabres,202202036137,2022020361,Stoppage,37,STOP,Puck in Netting,2022-12-01T00:26:54Z,1,11:24,08:36,1,2,,,
+58,17,7,Detroit Red Wings,Buffalo Sabres,202202036168,2022020361,Faceoff,68,FACEOFF,Andrew Copp faceoff won against Tage Thompson,2022-12-01T00:27:23Z,1,11:24,08:36,1,2,17.0,Detroit Red Wings,DET
+59,17,7,Detroit Red Wings,Buffalo Sabres,2022020361169,2022020361,Shot,169,SHOT,Jonatan Berggren Wrist Shot saved by Craig Anderson,2022-12-01T00:27:32Z,1,11:33,08:27,1,2,17.0,Detroit Red Wings,DET
+60,17,7,Detroit Red Wings,Buffalo Sabres,202202036169,2022020361,Giveaway,69,GIVEAWAY,Giveaway by Tyler Bertuzzi,2022-12-01T00:27:54Z,1,11:55,08:05,1,2,17.0,Detroit Red Wings,DET
+61,17,7,Detroit Red Wings,Buffalo Sabres,202202036170,2022020361,Giveaway,70,GIVEAWAY,Giveaway by Lawrence Pilut,2022-12-01T00:28:53Z,1,12:54,07:06,1,2,7.0,Buffalo Sabres,BUF
+62,17,7,Detroit Red Wings,Buffalo Sabres,202202036139,2022020361,Hit,39,HIT,Moritz Seider hit Jeff Skinner,2022-12-01T00:29:14Z,1,13:15,06:45,1,2,17.0,Detroit Red Wings,DET
+63,17,7,Detroit Red Wings,Buffalo Sabres,2022020361170,2022020361,Missed Shot,170,MISSED_SHOT,Tage Thompson Over Net Alex Nedeljkovic,2022-12-01T00:29:20Z,1,13:21,06:39,1,2,7.0,Buffalo Sabres,BUF
+64,17,7,Detroit Red Wings,Buffalo Sabres,2022020361171,2022020361,Blocked Shot,171,BLOCKED_SHOT,Dylan Larkin shot blocked shot by Rasmus Dahlin,2022-12-01T00:29:51Z,1,13:52,06:08,1,2,7.0,Buffalo Sabres,BUF
+65,17,7,Detroit Red Wings,Buffalo Sabres,202202036140,2022020361,Hit,40,HIT,Rasmus Dahlin hit Dylan Larkin,2022-12-01T00:29:52Z,1,13:53,06:07,1,2,7.0,Buffalo Sabres,BUF
+66,17,7,Detroit Red Wings,Buffalo Sabres,2022020361172,2022020361,Shot,172,SHOT,Lucas Raymond Wrist Shot saved by Craig Anderson,2022-12-01T00:30:04Z,1,14:05,05:55,1,2,17.0,Detroit Red Wings,DET
+67,17,7,Detroit Red Wings,Buffalo Sabres,202202036141,2022020361,Stoppage,41,STOP,Goalie Stopped,2022-12-01T00:30:05Z,1,14:06,05:54,1,2,,,
+68,17,7,Detroit Red Wings,Buffalo Sabres,202202036172,2022020361,Faceoff,72,FACEOFF,Michael Rasmussen faceoff won against Casey Mittelstadt,2022-12-01T00:32:23Z,1,14:06,05:54,1,2,17.0,Detroit Red Wings,DET
+69,17,7,Detroit Red Wings,Buffalo Sabres,2022020361174,2022020361,Missed Shot,174,MISSED_SHOT,Olli Maatta Wide of Net Craig Anderson,2022-12-01T00:32:32Z,1,14:15,05:45,1,2,17.0,Detroit Red Wings,DET
+70,17,7,Detroit Red Wings,Buffalo Sabres,2022020361175,2022020361,Shot,175,SHOT,David Perron Wrist Shot saved by Craig Anderson,2022-12-01T00:32:42Z,1,14:25,05:35,1,2,17.0,Detroit Red Wings,DET
+71,17,7,Detroit Red Wings,Buffalo Sabres,2022020361176,2022020361,Shot,176,SHOT,Michael Rasmussen Backhand saved by Craig Anderson,2022-12-01T00:32:44Z,1,14:27,05:33,1,2,17.0,Detroit Red Wings,DET
+72,17,7,Detroit Red Wings,Buffalo Sabres,202202036173,2022020361,Faceoff,73,FACEOFF,Tyson Jost faceoff won against Pius Suter,2022-12-01T00:32:53Z,1,14:27,05:33,1,2,7.0,Buffalo Sabres,BUF
+73,17,7,Detroit Red Wings,Buffalo Sabres,2022020361262,2022020361,Stoppage,262,STOP,Goalie Stopped,2022-12-01T00:32:53Z,1,14:27,05:33,1,2,,,
+74,17,7,Detroit Red Wings,Buffalo Sabres,202202036174,2022020361,Giveaway,74,GIVEAWAY,Giveaway by Kyle Okposo,2022-12-01T00:34:01Z,1,15:04,04:56,1,2,7.0,Buffalo Sabres,BUF
+75,17,7,Detroit Red Wings,Buffalo Sabres,2022020361177,2022020361,Shot,177,SHOT,Joe Veleno Wrist Shot saved by Craig Anderson,2022-12-01T00:34:05Z,1,15:08,04:52,1,2,17.0,Detroit Red Wings,DET
+76,17,7,Detroit Red Wings,Buffalo Sabres,202202036144,2022020361,Stoppage,44,STOP,Goalie Stopped,2022-12-01T00:34:08Z,1,15:11,04:49,1,2,,,
+77,17,7,Detroit Red Wings,Buffalo Sabres,202202036176,2022020361,Faceoff,76,FACEOFF,Alex Tuch faceoff won against Dominik Kubalik,2022-12-01T00:36:54Z,1,15:11,04:49,1,2,7.0,Buffalo Sabres,BUF
+78,17,7,Detroit Red Wings,Buffalo Sabres,2022020361303,2022020361,Missed Shot,303,MISSED_SHOT,Alex Tuch Over Net Alex Nedeljkovic,2022-12-01T00:37:19Z,1,15:36,04:24,1,2,7.0,Buffalo Sabres,BUF
+79,17,7,Detroit Red Wings,Buffalo Sabres,202202036145,2022020361,Stoppage,45,STOP,Icing,2022-12-01T00:37:31Z,1,15:48,04:12,1,2,,,
+80,17,7,Detroit Red Wings,Buffalo Sabres,202202036177,2022020361,Faceoff,77,FACEOFF,Dylan Larkin faceoff won against Jack Quinn,2022-12-01T00:38:05Z,1,15:48,04:12,1,2,17.0,Detroit Red Wings,DET
+81,17,7,Detroit Red Wings,Buffalo Sabres,202202036146,2022020361,Hit,46,HIT,Rasmus Dahlin hit Moritz Seider,2022-12-01T00:38:19Z,1,16:02,03:58,1,2,7.0,Buffalo Sabres,BUF
+82,17,7,Detroit Red Wings,Buffalo Sabres,2022020361178,2022020361,Missed Shot,178,MISSED_SHOT,Mattias Samuelsson Wide of Net Alex Nedeljkovic,2022-12-01T00:38:24Z,1,16:07,03:53,1,2,7.0,Buffalo Sabres,BUF
+83,17,7,Detroit Red Wings,Buffalo Sabres,2022020361179,2022020361,Blocked Shot,179,BLOCKED_SHOT,Jack Quinn shot blocked shot by Moritz Seider,2022-12-01T00:38:30Z,1,16:13,03:47,1,2,17.0,Detroit Red Wings,DET
+84,17,7,Detroit Red Wings,Buffalo Sabres,202202036178,2022020361,Giveaway,78,GIVEAWAY,Giveaway by Mattias Samuelsson,2022-12-01T00:38:41Z,1,16:24,03:36,1,2,7.0,Buffalo Sabres,BUF
+85,17,7,Detroit Red Wings,Buffalo Sabres,202202036147,2022020361,Stoppage,47,STOP,Icing,2022-12-01T00:38:46Z,1,16:29,03:31,1,2,,,
+86,17,7,Detroit Red Wings,Buffalo Sabres,202202036179,2022020361,Faceoff,79,FACEOFF,Andrew Copp faceoff won against Dylan Cozens,2022-12-01T00:39:08Z,1,16:29,03:31,1,2,17.0,Detroit Red Wings,DET
+87,17,7,Detroit Red Wings,Buffalo Sabres,202202036148,2022020361,Stoppage,48,STOP,Goalie Stopped,2022-12-01T00:39:15Z,1,16:35,03:25,1,2,,,
+88,17,7,Detroit Red Wings,Buffalo Sabres,2022020361180,2022020361,Shot,180,SHOT,Filip Hronek Wrist Shot saved by Craig Anderson,2022-12-01T00:39:15Z,1,16:35,03:25,1,2,17.0,Detroit Red Wings,DET
+89,17,7,Detroit Red Wings,Buffalo Sabres,202202036180,2022020361,Faceoff,80,FACEOFF,Andrew Copp faceoff won against Casey Mittelstadt,2022-12-01T00:39:37Z,1,16:35,03:25,1,2,17.0,Detroit Red Wings,DET
+90,17,7,Detroit Red Wings,Buffalo Sabres,202202036149,2022020361,Hit,49,HIT,Henri Jokiharju hit Oskar Sundqvist,2022-12-01T00:39:58Z,1,16:56,03:04,1,2,7.0,Buffalo Sabres,BUF
+91,17,7,Detroit Red Wings,Buffalo Sabres,2022020361181,2022020361,Shot,181,SHOT,Adam Erne Tip-In saved by Craig Anderson,2022-12-01T00:40:12Z,1,17:10,02:50,1,2,17.0,Detroit Red Wings,DET
+92,17,7,Detroit Red Wings,Buffalo Sabres,202202036150,2022020361,Hit,50,HIT,Filip Hronek hit Owen Power,2022-12-01T00:40:23Z,1,17:21,02:39,1,2,17.0,Detroit Red Wings,DET
+93,17,7,Detroit Red Wings,Buffalo Sabres,2022020361183,2022020361,Shot,183,SHOT,Mattias Samuelsson Wrist Shot saved by Alex Nedeljkovic,2022-12-01T00:40:35Z,1,17:33,02:27,1,2,7.0,Buffalo Sabres,BUF
+94,17,7,Detroit Red Wings,Buffalo Sabres,2022020361251,2022020361,Stoppage,251,STOP,Goalie Stopped,2022-12-01T00:40:35Z,1,17:34,02:26,1,2,,,
+95,17,7,Detroit Red Wings,Buffalo Sabres,202202036181,2022020361,Faceoff,81,FACEOFF,Michael Rasmussen faceoff won against Tyson Jost,2022-12-01T00:41:26Z,1,17:34,02:26,1,2,17.0,Detroit Red Wings,DET
+96,17,7,Detroit Red Wings,Buffalo Sabres,2022020361252,2022020361,Hit,252,HIT,Casey Fitzgerald hit Tyler Bertuzzi,2022-12-01T00:41:33Z,1,17:41,02:19,1,2,7.0,Buffalo Sabres,BUF
+97,17,7,Detroit Red Wings,Buffalo Sabres,2022020361254,2022020361,Hit,254,HIT,Tyler Bertuzzi hit Casey Fitzgerald,2022-12-01T00:41:52Z,1,18:00,02:00,1,2,17.0,Detroit Red Wings,DET
+98,17,7,Detroit Red Wings,Buffalo Sabres,2022020361185,2022020361,Shot,185,SHOT,Kyle Okposo Wrist Shot saved by Alex Nedeljkovic,2022-12-01T00:41:59Z,1,18:07,01:53,1,2,7.0,Buffalo Sabres,BUF
+99,17,7,Detroit Red Wings,Buffalo Sabres,2022020361304,2022020361,Shot,304,SHOT,Tyson Jost Backhand saved by Alex Nedeljkovic,2022-12-01T00:42:01Z,1,18:09,01:51,1,2,7.0,Buffalo Sabres,BUF
+100,17,7,Detroit Red Wings,Buffalo Sabres,2022020361187,2022020361,Shot,187,SHOT,Jeff Skinner Wrist Shot saved by Alex Nedeljkovic,2022-12-01T00:43:00Z,1,19:08,00:52,1,2,7.0,Buffalo Sabres,BUF
+101,17,7,Detroit Red Wings,Buffalo Sabres,2022020361255,2022020361,Hit,255,HIT,Ben Chiarot hit Jeff Skinner,2022-12-01T00:43:01Z,1,19:09,00:51,1,2,17.0,Detroit Red Wings,DET
+102,17,7,Detroit Red Wings,Buffalo Sabres,2022020361188,2022020361,Shot,188,SHOT,Henri Jokiharju Wrist Shot saved by Alex Nedeljkovic,2022-12-01T00:43:32Z,1,19:40,00:20,1,2,7.0,Buffalo Sabres,BUF
+103,17,7,Detroit Red Wings,Buffalo Sabres,2022020361256,2022020361,Stoppage,256,STOP,Goalie Stopped,2022-12-01T00:43:34Z,1,19:41,00:19,1,2,,,
+104,17,7,Detroit Red Wings,Buffalo Sabres,202202036182,2022020361,Faceoff,82,FACEOFF,Dylan Cozens faceoff won against Dylan Larkin,2022-12-01T00:43:54Z,1,19:41,00:19,1,2,7.0,Buffalo Sabres,BUF
+105,17,7,Detroit Red Wings,Buffalo Sabres,2022020361189,2022020361,Shot,189,SHOT,JJ Peterka Slap Shot saved by Alex Nedeljkovic,2022-12-01T00:43:57Z,1,19:44,00:16,1,2,7.0,Buffalo Sabres,BUF
+106,17,7,Detroit Red Wings,Buffalo Sabres,2022020361257,2022020361,Stoppage,257,STOP,Goalie Stopped,2022-12-01T00:43:57Z,1,19:44,00:16,1,2,,,
+107,17,7,Detroit Red Wings,Buffalo Sabres,202202036183,2022020361,Faceoff,83,FACEOFF,Dylan Larkin faceoff won against Dylan Cozens,2022-12-01T00:44:12Z,1,19:44,00:16,1,2,17.0,Detroit Red Wings,DET
+108,17,7,Detroit Red Wings,Buffalo Sabres,2022020361190,2022020361,Shot,190,SHOT,Filip Hronek Slap Shot saved by Craig Anderson,2022-12-01T00:44:25Z,1,19:58,00:02,1,2,17.0,Detroit Red Wings,DET
+109,17,7,Detroit Red Wings,Buffalo Sabres,2022020361258,2022020361,Period End,258,PERIOD_END,End of 1st Period,2022-12-01T00:44:27Z,1,20:00,00:00,1,2,,,
+110,17,7,Detroit Red Wings,Buffalo Sabres,2022020361261,2022020361,Period Official,261,PERIOD_OFFICIAL,Period Official,2022-12-01T00:44:36Z,1,20:00,00:00,1,2,,,
+111,17,7,Detroit Red Wings,Buffalo Sabres,2022020361263,2022020361,Period Ready,263,PERIOD_READY,Period Ready,2022-12-01T01:03:06Z,2,00:00,20:00,1,2,,,
+112,17,7,Detroit Red Wings,Buffalo Sabres,202202036184,2022020361,Period Start,84,PERIOD_START,Period Start,2022-12-01T01:03:24Z,2,00:00,20:00,1,2,,,
+113,17,7,Detroit Red Wings,Buffalo Sabres,202202036185,2022020361,Faceoff,85,FACEOFF,Andrew Copp faceoff won against Tyson Jost,2022-12-01T01:03:24Z,2,00:00,20:00,1,2,17.0,Detroit Red Wings,DET
+114,17,7,Detroit Red Wings,Buffalo Sabres,2022020361264,2022020361,Stoppage,264,STOP,Offside,2022-12-01T01:03:57Z,2,00:34,19:26,1,2,,,
+115,17,7,Detroit Red Wings,Buffalo Sabres,202202036186,2022020361,Faceoff,86,FACEOFF,Dylan Cozens faceoff won against Michael Rasmussen,2022-12-01T01:04:20Z,2,00:34,19:26,1,2,7.0,Buffalo Sabres,BUF
+116,17,7,Detroit Red Wings,Buffalo Sabres,2022020361265,2022020361,Hit,265,HIT,Michael Rasmussen hit JJ Peterka,2022-12-01T01:04:37Z,2,00:51,19:09,1,2,17.0,Detroit Red Wings,DET
+117,17,7,Detroit Red Wings,Buffalo Sabres,2022020361266,2022020361,Hit,266,HIT,Jack Quinn hit Michael Rasmussen,2022-12-01T01:04:45Z,2,00:59,19:01,1,2,7.0,Buffalo Sabres,BUF
+118,17,7,Detroit Red Wings,Buffalo Sabres,202202036187,2022020361,Giveaway,87,GIVEAWAY,Giveaway by David Perron,2022-12-01T01:05:05Z,2,01:19,18:41,1,2,17.0,Detroit Red Wings,DET
+119,17,7,Detroit Red Wings,Buffalo Sabres,2022020361267,2022020361,Stoppage,267,STOP,Icing,2022-12-01T01:05:22Z,2,01:37,18:23,1,2,,,
+120,17,7,Detroit Red Wings,Buffalo Sabres,202202036188,2022020361,Faceoff,88,FACEOFF,Jeff Skinner faceoff won against Dylan Larkin,2022-12-01T01:05:52Z,2,01:37,18:23,1,2,7.0,Buffalo Sabres,BUF
+121,17,7,Detroit Red Wings,Buffalo Sabres,2022020361191,2022020361,Shot,191,SHOT,Lucas Raymond Tip-In saved by Craig Anderson,2022-12-01T01:06:25Z,2,02:10,17:50,1,2,17.0,Detroit Red Wings,DET
+122,17,7,Detroit Red Wings,Buffalo Sabres,2022020361268,2022020361,Stoppage,268,STOP,Goalie Stopped,2022-12-01T01:06:26Z,2,02:11,17:49,1,2,,,
+123,17,7,Detroit Red Wings,Buffalo Sabres,202202036189,2022020361,Faceoff,89,FACEOFF,Casey Mittelstadt faceoff won against Joe Veleno,2022-12-01T01:06:51Z,2,02:11,17:49,1,2,7.0,Buffalo Sabres,BUF
+124,17,7,Detroit Red Wings,Buffalo Sabres,2022020361192,2022020361,Missed Shot,192,MISSED_SHOT,Ben Chiarot Wide of Net Craig Anderson,2022-12-01T01:07:07Z,2,02:27,17:33,1,2,17.0,Detroit Red Wings,DET
+125,17,7,Detroit Red Wings,Buffalo Sabres,2022020361269,2022020361,Hit,269,HIT,Casey Fitzgerald hit Oskar Sundqvist,2022-12-01T01:08:02Z,2,03:22,16:38,1,2,7.0,Buffalo Sabres,BUF
+126,17,7,Detroit Red Wings,Buffalo Sabres,2022020361193,2022020361,Shot,193,SHOT,Mattias Samuelsson Wrist Shot saved by Alex Nedeljkovic,2022-12-01T01:08:25Z,2,03:45,16:15,1,2,7.0,Buffalo Sabres,BUF
+127,17,7,Detroit Red Wings,Buffalo Sabres,2022020361271,2022020361,Stoppage,271,STOP,Icing,2022-12-01T01:08:35Z,2,03:55,16:05,1,2,,,
+128,17,7,Detroit Red Wings,Buffalo Sabres,202202036190,2022020361,Faceoff,90,FACEOFF,Michael Rasmussen faceoff won against Dylan Cozens,2022-12-01T01:09:01Z,2,03:55,16:05,1,2,17.0,Detroit Red Wings,DET
+129,17,7,Detroit Red Wings,Buffalo Sabres,2022020361272,2022020361,Stoppage,272,STOP,Offside,2022-12-01T01:09:26Z,2,04:20,15:40,1,2,,,
+130,17,7,Detroit Red Wings,Buffalo Sabres,202202036191,2022020361,Faceoff,91,FACEOFF,Dylan Larkin faceoff won against Tage Thompson,2022-12-01T01:09:55Z,2,04:20,15:40,1,2,17.0,Detroit Red Wings,DET
+131,17,7,Detroit Red Wings,Buffalo Sabres,2022020361194,2022020361,Missed Shot,194,MISSED_SHOT,Tage Thompson Wide of Net Alex Nedeljkovic,2022-12-01T01:10:11Z,2,04:36,15:24,1,2,7.0,Buffalo Sabres,BUF
+132,17,7,Detroit Red Wings,Buffalo Sabres,2022020361195,2022020361,Shot,195,SHOT,Jeff Skinner Snap Shot saved by Alex Nedeljkovic,2022-12-01T01:10:12Z,2,04:37,15:23,1,2,7.0,Buffalo Sabres,BUF
+133,17,7,Detroit Red Wings,Buffalo Sabres,2022020361196,2022020361,Missed Shot,196,MISSED_SHOT,Jeff Skinner Wide of Net Alex Nedeljkovic,2022-12-01T01:10:15Z,2,04:40,15:20,1,2,7.0,Buffalo Sabres,BUF
+134,17,7,Detroit Red Wings,Buffalo Sabres,2022020361197,2022020361,Missed Shot,197,MISSED_SHOT,Vinnie Hinostroza Goalpost Alex Nedeljkovic,2022-12-01T01:10:34Z,2,04:59,15:01,1,2,7.0,Buffalo Sabres,BUF
+135,17,7,Detroit Red Wings,Buffalo Sabres,202202036192,2022020361,Giveaway,92,GIVEAWAY,Giveaway by Adam Erne,2022-12-01T01:12:34Z,2,06:59,13:01,1,2,17.0,Detroit Red Wings,DET
+136,17,7,Detroit Red Wings,Buffalo Sabres,2022020361273,2022020361,Hit,273,HIT,Andrew Copp hit Kyle Okposo,2022-12-01T01:12:37Z,2,07:02,12:58,1,2,17.0,Detroit Red Wings,DET
+137,17,7,Detroit Red Wings,Buffalo Sabres,2022020361198,2022020361,Shot,198,SHOT,Jack Quinn Slap Shot saved by Alex Nedeljkovic,2022-12-01T01:13:42Z,2,08:07,11:53,1,2,7.0,Buffalo Sabres,BUF
+138,17,7,Detroit Red Wings,Buffalo Sabres,2022020361199,2022020361,Goal,199,GOAL,"Dylan Cozens (8) Wrist Shot, assists: JJ Peterka (8), Jack Quinn (7)",2022-12-01T01:13:46Z,2,08:12,11:48,1,3,7.0,Buffalo Sabres,BUF
+139,17,7,Detroit Red Wings,Buffalo Sabres,202202036193,2022020361,Faceoff,93,FACEOFF,Dylan Larkin faceoff won against Tage Thompson,2022-12-01T01:14:34Z,2,08:12,11:48,1,3,17.0,Detroit Red Wings,DET
+140,17,7,Detroit Red Wings,Buffalo Sabres,2022020361200,2022020361,Shot,200,SHOT,Tage Thompson Tip-In saved by Alex Nedeljkovic,2022-12-01T01:15:09Z,2,08:47,11:13,1,3,7.0,Buffalo Sabres,BUF
+141,17,7,Detroit Red Wings,Buffalo Sabres,2022020361274,2022020361,Stoppage,274,STOP,Offside,2022-12-01T01:15:16Z,2,08:54,11:06,1,3,,,
+142,17,7,Detroit Red Wings,Buffalo Sabres,202202036194,2022020361,Faceoff,94,FACEOFF,Joe Veleno faceoff won against Casey Mittelstadt,2022-12-01T01:17:31Z,2,08:54,11:06,1,3,17.0,Detroit Red Wings,DET
+143,17,7,Detroit Red Wings,Buffalo Sabres,2022020361401,2022020361,Shot,401,SHOT,Jonatan Berggren Tip-In saved by Craig Anderson,2022-12-01T01:18:02Z,2,09:25,10:35,1,3,17.0,Detroit Red Wings,DET
+144,17,7,Detroit Red Wings,Buffalo Sabres,2022020361305,2022020361,Missed Shot,305,MISSED_SHOT,Jonatan Berggren Wide of Net Craig Anderson,2022-12-01T01:18:04Z,2,09:27,10:33,1,3,17.0,Detroit Red Wings,DET
+145,17,7,Detroit Red Wings,Buffalo Sabres,2022020361275,2022020361,Stoppage,275,STOP,Puck Frozen,2022-12-01T01:18:07Z,2,09:31,10:29,1,3,,,
+146,17,7,Detroit Red Wings,Buffalo Sabres,202202036195,2022020361,Faceoff,95,FACEOFF,Kyle Okposo faceoff won against Andrew Copp,2022-12-01T01:18:43Z,2,09:31,10:29,1,3,7.0,Buffalo Sabres,BUF
+147,17,7,Detroit Red Wings,Buffalo Sabres,2022020361581,2022020361,Penalty,581,PENALTY,Olli Maatta Holding against Zemgus Girgensons,2022-12-01T01:18:53Z,2,09:41,10:19,1,3,17.0,Detroit Red Wings,DET
+148,17,7,Detroit Red Wings,Buffalo Sabres,202202036196,2022020361,Faceoff,96,FACEOFF,Dylan Cozens faceoff won against Dylan Larkin,2022-12-01T01:19:32Z,2,09:41,10:19,1,3,7.0,Buffalo Sabres,BUF
+149,17,7,Detroit Red Wings,Buffalo Sabres,2022020361402,2022020361,Shot,402,SHOT,Tage Thompson Slap Shot saved by Alex Nedeljkovic,2022-12-01T01:19:45Z,2,09:54,10:06,1,3,7.0,Buffalo Sabres,BUF
+150,17,7,Detroit Red Wings,Buffalo Sabres,2022020361403,2022020361,Missed Shot,403,MISSED_SHOT,Dylan Cozens Wide of Net Alex Nedeljkovic,2022-12-01T01:19:54Z,2,10:03,09:57,1,3,7.0,Buffalo Sabres,BUF
+151,17,7,Detroit Red Wings,Buffalo Sabres,2022020361404,2022020361,Blocked Shot,404,BLOCKED_SHOT,Tage Thompson shot blocked shot by Moritz Seider,2022-12-01T01:20:04Z,2,10:13,09:47,1,3,17.0,Detroit Red Wings,DET
+152,17,7,Detroit Red Wings,Buffalo Sabres,2022020361276,2022020361,Stoppage,276,STOP,Video Review,2022-12-01T01:20:08Z,2,10:17,09:43,1,3,,,
+153,17,7,Detroit Red Wings,Buffalo Sabres,2022020361306,2022020361,Goal,306,GOAL,"Jeff Skinner (11) Wrap-around, assists: Tage Thompson (15), Rasmus Dahlin (18)",2022-12-01T01:20:08Z,2,10:17,09:43,1,4,7.0,Buffalo Sabres,BUF
+154,17,7,Detroit Red Wings,Buffalo Sabres,202202036197,2022020361,Faceoff,97,FACEOFF,Andrew Copp faceoff won against Casey Mittelstadt,2022-12-01T01:22:48Z,2,10:17,09:43,1,4,17.0,Detroit Red Wings,DET
+155,17,7,Detroit Red Wings,Buffalo Sabres,2022020361277,2022020361,Stoppage,277,STOP,Puck in Netting,2022-12-01T01:23:04Z,2,10:33,09:27,1,4,,,
+156,17,7,Detroit Red Wings,Buffalo Sabres,202202036199,2022020361,Faceoff,99,FACEOFF,Dylan Larkin faceoff won against Kyle Okposo,2022-12-01T01:25:19Z,2,10:33,09:27,1,4,17.0,Detroit Red Wings,DET
+157,17,7,Detroit Red Wings,Buffalo Sabres,2022020361278,2022020361,Hit,278,HIT,Lucas Raymond hit Mattias Samuelsson,2022-12-01T01:25:28Z,2,10:42,09:18,1,4,17.0,Detroit Red Wings,DET
+158,17,7,Detroit Red Wings,Buffalo Sabres,2022020361405,2022020361,Missed Shot,405,MISSED_SHOT,Jordan Oesterle Wide of Net Craig Anderson,2022-12-01T01:25:50Z,2,11:04,08:56,1,4,17.0,Detroit Red Wings,DET
+159,17,7,Detroit Red Wings,Buffalo Sabres,2022020361280,2022020361,Hit,280,HIT,Lucas Raymond hit Zemgus Girgensons,2022-12-01T01:25:53Z,2,11:07,08:53,1,4,17.0,Detroit Red Wings,DET
+160,17,7,Detroit Red Wings,Buffalo Sabres,2022020361406,2022020361,Shot,406,SHOT,Lucas Raymond Wrist Shot saved by Craig Anderson,2022-12-01T01:26:05Z,2,11:19,08:41,1,4,17.0,Detroit Red Wings,DET
+161,17,7,Detroit Red Wings,Buffalo Sabres,2022020361595,2022020361,Penalty,595,PENALTY,Zemgus Girgensons Tripping against Jordan Oesterle,2022-12-01T01:26:08Z,2,11:21,08:39,1,4,7.0,Buffalo Sabres,BUF
+162,17,7,Detroit Red Wings,Buffalo Sabres,2022020361451,2022020361,Faceoff,451,FACEOFF,Tage Thompson faceoff won against Oskar Sundqvist,2022-12-01T01:27:08Z,2,11:21,08:39,1,4,7.0,Buffalo Sabres,BUF
+163,17,7,Detroit Red Wings,Buffalo Sabres,2022020361407,2022020361,Shot,407,SHOT,Tage Thompson Wrist Shot saved by Alex Nedeljkovic,2022-12-01T01:27:39Z,2,11:52,08:08,1,4,7.0,Buffalo Sabres,BUF
+164,17,7,Detroit Red Wings,Buffalo Sabres,2022020361283,2022020361,Stoppage,283,STOP,Puck in Netting,2022-12-01T01:27:41Z,2,11:54,08:06,1,4,,,
+165,17,7,Detroit Red Wings,Buffalo Sabres,2022020361453,2022020361,Faceoff,453,FACEOFF,Dylan Cozens faceoff won against Andrew Copp,2022-12-01T01:28:11Z,2,11:54,08:06,1,4,7.0,Buffalo Sabres,BUF
+166,17,7,Detroit Red Wings,Buffalo Sabres,2022020361454,2022020361,Takeaway,454,TAKEAWAY,Takeaway by Dylan Cozens,2022-12-01T01:28:35Z,2,12:18,07:42,1,4,7.0,Buffalo Sabres,BUF
+167,17,7,Detroit Red Wings,Buffalo Sabres,2022020361409,2022020361,Shot,409,SHOT,Filip Hronek Slap Shot saved by Craig Anderson,2022-12-01T01:29:35Z,2,13:18,06:42,1,4,17.0,Detroit Red Wings,DET
+168,17,7,Detroit Red Wings,Buffalo Sabres,2022020361285,2022020361,Shot,285,SHOT,Alex Tuch Wrist Shot saved by Alex Nedeljkovic,2022-12-01T01:29:37Z,2,13:20,06:40,1,4,7.0,Buffalo Sabres,BUF
+169,17,7,Detroit Red Wings,Buffalo Sabres,2022020361284,2022020361,Hit,284,HIT,Michael Rasmussen hit Lawrence Pilut,2022-12-01T01:30:09Z,2,13:52,06:08,1,4,17.0,Detroit Red Wings,DET
+170,17,7,Detroit Red Wings,Buffalo Sabres,2022020361410,2022020361,Shot,410,SHOT,Vinnie Hinostroza Backhand saved by Alex Nedeljkovic,2022-12-01T01:30:40Z,2,14:23,05:37,1,4,7.0,Buffalo Sabres,BUF
+171,17,7,Detroit Red Wings,Buffalo Sabres,2022020361455,2022020361,Giveaway,455,GIVEAWAY,Giveaway by Jake Walman,2022-12-01T01:31:30Z,2,15:13,04:47,1,4,17.0,Detroit Red Wings,DET
+172,17,7,Detroit Red Wings,Buffalo Sabres,2022020361411,2022020361,Blocked Shot,411,BLOCKED_SHOT,Jack Quinn shot blocked shot by Jordan Oesterle,2022-12-01T01:31:33Z,2,15:16,04:44,1,4,17.0,Detroit Red Wings,DET
+173,17,7,Detroit Red Wings,Buffalo Sabres,2022020361286,2022020361,Penalty,286,PENALTY,Owen Power Slashing against Michael Rasmussen,2022-12-01T01:31:41Z,2,15:24,04:36,1,4,7.0,Buffalo Sabres,BUF
+174,17,7,Detroit Red Wings,Buffalo Sabres,2022020361307,2022020361,Shot,307,SHOT,Michael Rasmussen Wrist Shot saved by Craig Anderson,2022-12-01T01:31:41Z,2,15:24,04:36,1,4,17.0,Detroit Red Wings,DET
+175,17,7,Detroit Red Wings,Buffalo Sabres,2022020361627,2022020361,Stoppage,627,STOP,TV timeout,2022-12-01T01:31:41Z,2,15:24,04:36,1,4,,,
+176,17,7,Detroit Red Wings,Buffalo Sabres,2022020361456,2022020361,Faceoff,456,FACEOFF,Dylan Larkin faceoff won against Tyson Jost,2022-12-01T01:34:04Z,2,15:24,04:36,1,4,17.0,Detroit Red Wings,DET
+177,17,7,Detroit Red Wings,Buffalo Sabres,2022020361412,2022020361,Shot,412,SHOT,Dominik Kubalik Wrist Shot saved by Craig Anderson,2022-12-01T01:34:20Z,2,15:40,04:20,1,4,17.0,Detroit Red Wings,DET
+178,17,7,Detroit Red Wings,Buffalo Sabres,2022020361289,2022020361,Stoppage,289,STOP,Goalie Stopped,2022-12-01T01:34:22Z,2,15:41,04:19,1,4,,,
+179,17,7,Detroit Red Wings,Buffalo Sabres,2022020361457,2022020361,Faceoff,457,FACEOFF,Dylan Cozens faceoff won against Dylan Larkin,2022-12-01T01:34:53Z,2,15:41,04:19,1,4,7.0,Buffalo Sabres,BUF
+180,17,7,Detroit Red Wings,Buffalo Sabres,2022020361414,2022020361,Shot,414,SHOT,Dylan Cozens Wrist Shot saved by Alex Nedeljkovic,2022-12-01T01:35:04Z,2,15:52,04:08,1,4,7.0,Buffalo Sabres,BUF
+181,17,7,Detroit Red Wings,Buffalo Sabres,2022020361416,2022020361,Missed Shot,416,MISSED_SHOT,David Perron Wide of Net Craig Anderson,2022-12-01T01:35:43Z,2,16:31,03:29,1,4,17.0,Detroit Red Wings,DET
+182,17,7,Detroit Red Wings,Buffalo Sabres,2022020361417,2022020361,Missed Shot,417,MISSED_SHOT,Dominik Kubalik Wide of Net Craig Anderson,2022-12-01T01:36:11Z,2,16:59,03:01,1,4,17.0,Detroit Red Wings,DET
+183,17,7,Detroit Red Wings,Buffalo Sabres,2022020361418,2022020361,Shot,418,SHOT,Lucas Raymond Slap Shot saved by Craig Anderson,2022-12-01T01:36:30Z,2,17:18,02:42,1,4,17.0,Detroit Red Wings,DET
+184,17,7,Detroit Red Wings,Buffalo Sabres,2022020361419,2022020361,Shot,419,SHOT,Dominik Kubalik Wrist Shot saved by Craig Anderson,2022-12-01T01:36:38Z,2,17:26,02:34,1,4,17.0,Detroit Red Wings,DET
+185,17,7,Detroit Red Wings,Buffalo Sabres,2022020361420,2022020361,Blocked Shot,420,BLOCKED_SHOT,Ben Chiarot shot blocked shot by Zemgus Girgensons,2022-12-01T01:36:47Z,2,17:35,02:25,1,4,7.0,Buffalo Sabres,BUF
+186,17,7,Detroit Red Wings,Buffalo Sabres,2022020361421,2022020361,Shot,421,SHOT,Tyler Bertuzzi Wrist Shot saved by Craig Anderson,2022-12-01T01:37:17Z,2,18:05,01:55,1,4,17.0,Detroit Red Wings,DET
+187,17,7,Detroit Red Wings,Buffalo Sabres,2022020361426,2022020361,Missed Shot,426,MISSED_SHOT,Andrew Copp Wide of Net Craig Anderson,2022-12-01T01:37:18Z,2,18:06,01:54,1,4,17.0,Detroit Red Wings,DET
+188,17,7,Detroit Red Wings,Buffalo Sabres,2022020361422,2022020361,Shot,422,SHOT,Filip Hronek Slap Shot saved by Craig Anderson,2022-12-01T01:37:35Z,2,18:23,01:37,1,4,17.0,Detroit Red Wings,DET
+189,17,7,Detroit Red Wings,Buffalo Sabres,2022020361290,2022020361,Stoppage,290,STOP,Goalie Stopped,2022-12-01T01:37:37Z,2,18:25,01:35,1,4,,,
+190,17,7,Detroit Red Wings,Buffalo Sabres,2022020361458,2022020361,Faceoff,458,FACEOFF,Michael Rasmussen faceoff won against Tage Thompson,2022-12-01T01:38:07Z,2,18:25,01:35,1,4,17.0,Detroit Red Wings,DET
+191,17,7,Detroit Red Wings,Buffalo Sabres,2022020361423,2022020361,Shot,423,SHOT,Jake Walman Wrist Shot saved by Craig Anderson,2022-12-01T01:38:24Z,2,18:42,01:18,1,4,17.0,Detroit Red Wings,DET
+192,17,7,Detroit Red Wings,Buffalo Sabres,2022020361459,2022020361,Giveaway,459,GIVEAWAY,Giveaway by Dylan Larkin,2022-12-01T01:38:48Z,2,19:06,00:54,1,4,17.0,Detroit Red Wings,DET
+193,17,7,Detroit Red Wings,Buffalo Sabres,20220203611241,2022020361,Takeaway,1241,TAKEAWAY,Takeaway by Alex Tuch,2022-12-01T01:39:02Z,2,19:20,00:40,1,4,7.0,Buffalo Sabres,BUF
+194,17,7,Detroit Red Wings,Buffalo Sabres,2022020361424,2022020361,Shot,424,SHOT,Jeff Skinner Wrist Shot saved by Alex Nedeljkovic,2022-12-01T01:39:22Z,2,19:40,00:20,1,4,7.0,Buffalo Sabres,BUF
+195,17,7,Detroit Red Wings,Buffalo Sabres,2022020361425,2022020361,Missed Shot,425,MISSED_SHOT,Jeff Skinner Wide of Net Alex Nedeljkovic,2022-12-01T01:39:23Z,2,19:41,00:19,1,4,7.0,Buffalo Sabres,BUF
+196,17,7,Detroit Red Wings,Buffalo Sabres,2022020361291,2022020361,Stoppage,291,STOP,Puck in Netting,2022-12-01T01:39:33Z,2,19:50,00:10,1,4,,,
+197,17,7,Detroit Red Wings,Buffalo Sabres,2022020361308,2022020361,Blocked Shot,308,BLOCKED_SHOT,Owen Power shot blocked shot by Dominik Kubalik,2022-12-01T01:39:33Z,2,19:50,00:10,1,4,17.0,Detroit Red Wings,DET
+198,17,7,Detroit Red Wings,Buffalo Sabres,2022020361460,2022020361,Faceoff,460,FACEOFF,Andrew Copp faceoff won against Dylan Cozens,2022-12-01T01:40:25Z,2,19:50,00:10,1,4,17.0,Detroit Red Wings,DET
+199,17,7,Detroit Red Wings,Buffalo Sabres,2022020361292,2022020361,Period End,292,PERIOD_END,End of 2nd Period,2022-12-01T01:40:34Z,2,20:00,00:00,1,4,,,
+200,17,7,Detroit Red Wings,Buffalo Sabres,2022020361295,2022020361,Period Official,295,PERIOD_OFFICIAL,Period Official,2022-12-01T01:40:38Z,2,20:00,00:00,1,4,,,
+201,17,7,Detroit Red Wings,Buffalo Sabres,2022020361296,2022020361,Period Ready,296,PERIOD_READY,Period Ready,2022-12-01T01:59:16Z,3,00:00,20:00,1,4,,,
+202,17,7,Detroit Red Wings,Buffalo Sabres,2022020361461,2022020361,Period Start,461,PERIOD_START,Period Start,2022-12-01T01:59:37Z,3,00:00,20:00,1,4,,,
+203,17,7,Detroit Red Wings,Buffalo Sabres,2022020361462,2022020361,Faceoff,462,FACEOFF,Andrew Copp faceoff won against Tyson Jost,2022-12-01T01:59:37Z,3,00:00,20:00,1,4,17.0,Detroit Red Wings,DET
+204,17,7,Detroit Red Wings,Buffalo Sabres,2022020361297,2022020361,Hit,297,HIT,Adam Erne hit Tyson Jost,2022-12-01T01:59:59Z,3,00:22,19:38,1,4,17.0,Detroit Red Wings,DET
+205,17,7,Detroit Red Wings,Buffalo Sabres,2022020361427,2022020361,Missed Shot,427,MISSED_SHOT,Oskar Sundqvist Wide of Net Craig Anderson,2022-12-01T02:00:02Z,3,00:25,19:35,1,4,17.0,Detroit Red Wings,DET
+206,17,7,Detroit Red Wings,Buffalo Sabres,2022020361463,2022020361,Giveaway,463,GIVEAWAY,Giveaway by Adam Erne,2022-12-01T02:00:28Z,3,00:51,19:09,1,4,17.0,Detroit Red Wings,DET
+207,17,7,Detroit Red Wings,Buffalo Sabres,2022020361447,2022020361,Blocked Shot,447,BLOCKED_SHOT,Owen Power shot blocked shot by Olli Maatta,2022-12-01T02:00:56Z,3,01:19,18:41,1,4,17.0,Detroit Red Wings,DET
+208,17,7,Detroit Red Wings,Buffalo Sabres,2022020361313,2022020361,Blocked Shot,313,BLOCKED_SHOT,Dylan Larkin shot blocked shot by JJ Peterka,2022-12-01T02:01:07Z,3,01:30,18:30,1,4,7.0,Buffalo Sabres,BUF
+209,17,7,Detroit Red Wings,Buffalo Sabres,2022020361429,2022020361,Blocked Shot,429,BLOCKED_SHOT,Dylan Larkin shot blocked shot by Casey Fitzgerald,2022-12-01T02:01:19Z,3,01:42,18:18,1,4,7.0,Buffalo Sabres,BUF
+210,17,7,Detroit Red Wings,Buffalo Sabres,2022020361430,2022020361,Shot,430,SHOT,Tyler Bertuzzi Wrist Shot saved by Craig Anderson,2022-12-01T02:01:35Z,3,01:58,18:02,1,4,17.0,Detroit Red Wings,DET
+211,17,7,Detroit Red Wings,Buffalo Sabres,2022020361298,2022020361,Stoppage,298,STOP,Puck in Netting,2022-12-01T02:01:36Z,3,01:59,18:01,1,4,,,
+212,17,7,Detroit Red Wings,Buffalo Sabres,2022020361464,2022020361,Faceoff,464,FACEOFF,Michael Rasmussen faceoff won against Tage Thompson,2022-12-01T02:02:03Z,3,01:59,18:01,1,4,17.0,Detroit Red Wings,DET
+213,17,7,Detroit Red Wings,Buffalo Sabres,2022020361431,2022020361,Shot,431,SHOT,Ben Chiarot Wrist Shot saved by Craig Anderson,2022-12-01T02:02:07Z,3,02:03,17:57,1,4,17.0,Detroit Red Wings,DET
+214,17,7,Detroit Red Wings,Buffalo Sabres,2022020361299,2022020361,Stoppage,299,STOP,Icing,2022-12-01T02:02:14Z,3,02:10,17:50,1,4,,,
+215,17,7,Detroit Red Wings,Buffalo Sabres,2022020361465,2022020361,Faceoff,465,FACEOFF,Michael Rasmussen faceoff won against Tage Thompson,2022-12-01T02:02:37Z,3,02:10,17:50,1,4,17.0,Detroit Red Wings,DET
+216,17,7,Detroit Red Wings,Buffalo Sabres,2022020361432,2022020361,Shot,432,SHOT,Moritz Seider Wrist Shot saved by Craig Anderson,2022-12-01T02:02:49Z,3,02:22,17:38,1,4,17.0,Detroit Red Wings,DET
+217,17,7,Detroit Red Wings,Buffalo Sabres,2022020361300,2022020361,Stoppage,300,STOP,Goalie Stopped,2022-12-01T02:02:51Z,3,02:24,17:36,1,4,,,
+218,17,7,Detroit Red Wings,Buffalo Sabres,2022020361466,2022020361,Faceoff,466,FACEOFF,Joe Veleno faceoff won against Casey Mittelstadt,2022-12-01T02:03:32Z,3,02:24,17:36,1,4,17.0,Detroit Red Wings,DET
+219,17,7,Detroit Red Wings,Buffalo Sabres,2022020361309,2022020361,Missed Shot,309,MISSED_SHOT,Pius Suter Wide of Net Craig Anderson,2022-12-01T02:03:35Z,3,02:27,17:33,1,4,17.0,Detroit Red Wings,DET
+220,17,7,Detroit Red Wings,Buffalo Sabres,2022020361433,2022020361,Missed Shot,433,MISSED_SHOT,Vinnie Hinostroza Wide of Net Alex Nedeljkovic,2022-12-01T02:04:21Z,3,03:13,16:47,1,4,7.0,Buffalo Sabres,BUF
+221,17,7,Detroit Red Wings,Buffalo Sabres,2022020361731,2022020361,Penalty,731,PENALTY,Jake Walman Delaying Game - Puck over glass,2022-12-01T02:04:26Z,3,03:17,16:43,1,4,17.0,Detroit Red Wings,DET
+222,17,7,Detroit Red Wings,Buffalo Sabres,2022020361467,2022020361,Faceoff,467,FACEOFF,Dylan Cozens faceoff won against Dylan Larkin,2022-12-01T02:04:58Z,3,03:17,16:43,1,4,7.0,Buffalo Sabres,BUF
+223,17,7,Detroit Red Wings,Buffalo Sabres,2022020361434,2022020361,Shot,434,SHOT,Alex Tuch Wrist Shot saved by Alex Nedeljkovic,2022-12-01T02:05:20Z,3,03:39,16:21,1,4,7.0,Buffalo Sabres,BUF
+224,17,7,Detroit Red Wings,Buffalo Sabres,2022020361602,2022020361,Hit,602,HIT,Ben Chiarot hit Alex Tuch,2022-12-01T02:05:20Z,3,03:39,16:21,1,4,17.0,Detroit Red Wings,DET
+225,17,7,Detroit Red Wings,Buffalo Sabres,2022020361435,2022020361,Shot,435,SHOT,Michael Rasmussen Wrist Shot saved by Craig Anderson,2022-12-01T02:06:02Z,3,04:21,15:39,1,4,17.0,Detroit Red Wings,DET
+226,17,7,Detroit Red Wings,Buffalo Sabres,2022020361603,2022020361,Stoppage,603,STOP,Goalie Stopped,2022-12-01T02:06:03Z,3,04:22,15:38,1,4,,,
+227,17,7,Detroit Red Wings,Buffalo Sabres,2022020361468,2022020361,Faceoff,468,FACEOFF,Pius Suter faceoff won against Casey Mittelstadt,2022-12-01T02:06:38Z,3,04:22,15:38,1,4,17.0,Detroit Red Wings,DET
+228,17,7,Detroit Red Wings,Buffalo Sabres,2022020361604,2022020361,Hit,604,HIT,Ben Chiarot hit Jack Quinn,2022-12-01T02:07:13Z,3,04:57,15:03,1,4,17.0,Detroit Red Wings,DET
+229,17,7,Detroit Red Wings,Buffalo Sabres,2022020361436,2022020361,Shot,436,SHOT,Owen Power Wrist Shot saved by Alex Nedeljkovic,2022-12-01T02:07:24Z,3,05:08,14:52,1,4,7.0,Buffalo Sabres,BUF
+230,17,7,Detroit Red Wings,Buffalo Sabres,2022020361437,2022020361,Missed Shot,437,MISSED_SHOT,Casey Mittelstadt Wide of Net Alex Nedeljkovic,2022-12-01T02:07:25Z,3,05:09,14:51,1,4,7.0,Buffalo Sabres,BUF
+231,17,7,Detroit Red Wings,Buffalo Sabres,2022020361438,2022020361,Shot,438,SHOT,Casey Mittelstadt Wrist Shot saved by Alex Nedeljkovic,2022-12-01T02:07:29Z,3,05:13,14:47,1,4,7.0,Buffalo Sabres,BUF
+232,17,7,Detroit Red Wings,Buffalo Sabres,2022020361608,2022020361,Stoppage,608,STOP,Icing,2022-12-01T02:07:39Z,3,05:24,14:36,1,4,,,
+233,17,7,Detroit Red Wings,Buffalo Sabres,2022020361469,2022020361,Faceoff,469,FACEOFF,Pius Suter faceoff won against Tyson Jost,2022-12-01T02:08:29Z,3,05:24,14:36,1,4,17.0,Detroit Red Wings,DET
+234,17,7,Detroit Red Wings,Buffalo Sabres,2022020361470,2022020361,Takeaway,470,TAKEAWAY,Takeaway by Dominik Kubalik,2022-12-01T02:08:55Z,3,05:50,14:10,1,4,17.0,Detroit Red Wings,DET
+235,17,7,Detroit Red Wings,Buffalo Sabres,2022020361609,2022020361,Hit,609,HIT,Filip Hronek hit Tyson Jost,2022-12-01T02:09:06Z,3,06:01,13:59,1,4,17.0,Detroit Red Wings,DET
+236,17,7,Detroit Red Wings,Buffalo Sabres,2022020361440,2022020361,Shot,440,SHOT,Tyson Jost Wrist Shot saved by Alex Nedeljkovic,2022-12-01T02:09:41Z,3,06:36,13:24,1,4,7.0,Buffalo Sabres,BUF
+237,17,7,Detroit Red Wings,Buffalo Sabres,2022020361441,2022020361,Shot,441,SHOT,Tyson Jost Wrist Shot saved by Alex Nedeljkovic,2022-12-01T02:09:41Z,3,06:36,13:24,1,4,7.0,Buffalo Sabres,BUF
+238,17,7,Detroit Red Wings,Buffalo Sabres,2022020361310,2022020361,Missed Shot,310,MISSED_SHOT,Tyson Jost Wide of Net Alex Nedeljkovic,2022-12-01T02:09:45Z,3,06:40,13:20,1,4,7.0,Buffalo Sabres,BUF
+239,17,7,Detroit Red Wings,Buffalo Sabres,2022020361442,2022020361,Goal,442,GOAL,"David Perron (7) Wrist Shot, assists: Dylan Larkin (16), Filip Hronek (14)",2022-12-01T02:09:57Z,3,06:51,13:09,2,4,17.0,Detroit Red Wings,DET
+240,17,7,Detroit Red Wings,Buffalo Sabres,2022020361471,2022020361,Faceoff,471,FACEOFF,Tage Thompson faceoff won against Michael Rasmussen,2022-12-01T02:10:36Z,3,06:51,13:09,2,4,7.0,Buffalo Sabres,BUF
+241,17,7,Detroit Red Wings,Buffalo Sabres,2022020361610,2022020361,Stoppage,610,STOP,Icing,2022-12-01T02:11:21Z,3,07:37,12:23,2,4,,,
+242,17,7,Detroit Red Wings,Buffalo Sabres,2022020361472,2022020361,Faceoff,472,FACEOFF,Andrew Copp faceoff won against Tage Thompson,2022-12-01T02:11:48Z,3,07:37,12:23,2,4,17.0,Detroit Red Wings,DET
+243,17,7,Detroit Red Wings,Buffalo Sabres,2022020361473,2022020361,Giveaway,473,GIVEAWAY,Giveaway by Oskar Sundqvist,2022-12-01T02:12:31Z,3,08:20,11:40,2,4,17.0,Detroit Red Wings,DET
+244,17,7,Detroit Red Wings,Buffalo Sabres,2022020361443,2022020361,Shot,443,SHOT,Casey Fitzgerald Wrist Shot saved by Alex Nedeljkovic,2022-12-01T02:12:44Z,3,08:33,11:27,2,4,7.0,Buffalo Sabres,BUF
+245,17,7,Detroit Red Wings,Buffalo Sabres,2022020361611,2022020361,Stoppage,611,STOP,Puck in Netting,2022-12-01T02:12:47Z,3,08:36,11:24,2,4,,,
+246,17,7,Detroit Red Wings,Buffalo Sabres,2022020361474,2022020361,Faceoff,474,FACEOFF,Casey Mittelstadt faceoff won against Joe Veleno,2022-12-01T02:15:08Z,3,08:36,11:24,2,4,7.0,Buffalo Sabres,BUF
+247,17,7,Detroit Red Wings,Buffalo Sabres,2022020361475,2022020361,Takeaway,475,TAKEAWAY,Takeaway by Joe Veleno,2022-12-01T02:15:18Z,3,08:46,11:14,2,4,17.0,Detroit Red Wings,DET
+248,17,7,Detroit Red Wings,Buffalo Sabres,2022020361612,2022020361,Stoppage,612,STOP,Icing,2022-12-01T02:15:22Z,3,08:50,11:10,2,4,,,
+249,17,7,Detroit Red Wings,Buffalo Sabres,2022020361476,2022020361,Faceoff,476,FACEOFF,Jeff Skinner faceoff won against Joe Veleno,2022-12-01T02:15:47Z,3,08:50,11:10,2,4,7.0,Buffalo Sabres,BUF
+250,17,7,Detroit Red Wings,Buffalo Sabres,2022020361311,2022020361,Blocked Shot,311,BLOCKED_SHOT,Tage Thompson shot blocked shot by Filip Hronek,2022-12-01T02:15:50Z,3,08:53,11:07,2,4,17.0,Detroit Red Wings,DET
+251,17,7,Detroit Red Wings,Buffalo Sabres,2022020361613,2022020361,Stoppage,613,STOP,Puck in Netting,2022-12-01T02:15:50Z,3,08:53,11:07,2,4,,,
+252,17,7,Detroit Red Wings,Buffalo Sabres,2022020361477,2022020361,Faceoff,477,FACEOFF,Jeff Skinner faceoff won against Dylan Larkin,2022-12-01T02:16:21Z,3,08:53,11:07,2,4,7.0,Buffalo Sabres,BUF
+253,17,7,Detroit Red Wings,Buffalo Sabres,2022020361444,2022020361,Shot,444,SHOT,Henri Jokiharju Wrist Shot saved by Alex Nedeljkovic,2022-12-01T02:16:26Z,3,08:59,11:01,2,4,7.0,Buffalo Sabres,BUF
+254,17,7,Detroit Red Wings,Buffalo Sabres,2022020361614,2022020361,Stoppage,614,STOP,Goalie Stopped,2022-12-01T02:16:26Z,3,08:59,11:01,2,4,,,
+255,17,7,Detroit Red Wings,Buffalo Sabres,2022020361478,2022020361,Faceoff,478,FACEOFF,Dylan Larkin faceoff won against Tage Thompson,2022-12-01T02:16:54Z,3,08:59,11:01,2,4,17.0,Detroit Red Wings,DET
+256,17,7,Detroit Red Wings,Buffalo Sabres,2022020361479,2022020361,Giveaway,479,GIVEAWAY,Giveaway by Rasmus Dahlin,2022-12-01T02:17:06Z,3,09:11,10:49,2,4,7.0,Buffalo Sabres,BUF
+257,17,7,Detroit Red Wings,Buffalo Sabres,2022020361765,2022020361,Shot,765,SHOT,David Perron Wrist Shot saved by Craig Anderson,2022-12-01T02:17:41Z,3,09:46,10:14,2,4,17.0,Detroit Red Wings,DET
+258,17,7,Detroit Red Wings,Buffalo Sabres,2022020361445,2022020361,Missed Shot,445,MISSED_SHOT,Dylan Larkin Wide of Net Craig Anderson,2022-12-01T02:17:44Z,3,09:49,10:11,2,4,17.0,Detroit Red Wings,DET
+259,17,7,Detroit Red Wings,Buffalo Sabres,2022020361446,2022020361,Shot,446,SHOT,Tyler Bertuzzi Tip-In saved by Craig Anderson,2022-12-01T02:18:03Z,3,10:08,09:52,2,4,17.0,Detroit Red Wings,DET
+260,17,7,Detroit Red Wings,Buffalo Sabres,2022020361615,2022020361,Stoppage,615,STOP,Puck in Netting,2022-12-01T02:18:22Z,3,10:27,09:33,2,4,,,
+261,17,7,Detroit Red Wings,Buffalo Sabres,2022020361480,2022020361,Faceoff,480,FACEOFF,Andrew Copp faceoff won against Kyle Okposo,2022-12-01T02:20:49Z,3,10:27,09:33,2,4,17.0,Detroit Red Wings,DET
+262,17,7,Detroit Red Wings,Buffalo Sabres,2022020361448,2022020361,Blocked Shot,448,BLOCKED_SHOT,Oskar Sundqvist shot blocked shot by Rasmus Dahlin,2022-12-01T02:20:57Z,3,10:35,09:25,2,4,7.0,Buffalo Sabres,BUF
+263,17,7,Detroit Red Wings,Buffalo Sabres,2022020361449,2022020361,Goal,449,GOAL,"Oskar Sundqvist (2) Snap Shot, assists: Andrew Copp (10), Jordan Oesterle (1)",2022-12-01T02:21:03Z,3,10:41,09:19,3,4,17.0,Detroit Red Wings,DET
+264,17,7,Detroit Red Wings,Buffalo Sabres,2022020361481,2022020361,Faceoff,481,FACEOFF,Dylan Larkin faceoff won against Dylan Cozens,2022-12-01T02:21:47Z,3,10:41,09:19,3,4,17.0,Detroit Red Wings,DET
+265,17,7,Detroit Red Wings,Buffalo Sabres,2022020361616,2022020361,Stoppage,616,STOP,Icing,2022-12-01T02:22:09Z,3,11:03,08:57,3,4,,,
+266,17,7,Detroit Red Wings,Buffalo Sabres,2022020361482,2022020361,Faceoff,482,FACEOFF,Dylan Cozens faceoff won against Dylan Larkin,2022-12-01T02:22:34Z,3,11:03,08:57,3,4,7.0,Buffalo Sabres,BUF
+267,17,7,Detroit Red Wings,Buffalo Sabres,2022020361450,2022020361,Shot,450,SHOT,Filip Hronek Slap Shot saved by Craig Anderson,2022-12-01T02:22:50Z,3,11:19,08:41,3,4,17.0,Detroit Red Wings,DET
+268,17,7,Detroit Red Wings,Buffalo Sabres,2022020361617,2022020361,Hit,617,HIT,Dominik Kubalik hit Owen Power,2022-12-01T02:22:53Z,3,11:22,08:38,3,4,17.0,Detroit Red Wings,DET
+269,17,7,Detroit Red Wings,Buffalo Sabres,2022020361751,2022020361,Missed Shot,751,MISSED_SHOT,Olli Maatta Wide of Net Craig Anderson,2022-12-01T02:23:01Z,3,11:30,08:30,3,4,17.0,Detroit Red Wings,DET
+270,17,7,Detroit Red Wings,Buffalo Sabres,2022020361752,2022020361,Missed Shot,752,MISSED_SHOT,Dominik Kubalik Wide of Net Craig Anderson,2022-12-01T02:23:12Z,3,11:41,08:19,3,4,17.0,Detroit Red Wings,DET
+271,17,7,Detroit Red Wings,Buffalo Sabres,2022020361618,2022020361,Hit,618,HIT,Dominik Kubalik hit JJ Peterka,2022-12-01T02:23:18Z,3,11:47,08:13,3,4,17.0,Detroit Red Wings,DET
+272,17,7,Detroit Red Wings,Buffalo Sabres,2022020361619,2022020361,Stoppage,619,STOP,Icing,2022-12-01T02:24:00Z,3,12:29,07:31,3,4,,,
+273,17,7,Detroit Red Wings,Buffalo Sabres,2022020361483,2022020361,Faceoff,483,FACEOFF,Andrew Copp faceoff won against Casey Mittelstadt,2022-12-01T02:24:26Z,3,12:29,07:31,3,4,17.0,Detroit Red Wings,DET
+274,17,7,Detroit Red Wings,Buffalo Sabres,2022020361620,2022020361,Stoppage,620,STOP,Visitor Timeout,2022-12-01T02:24:29Z,3,12:31,07:29,3,4,,,
+275,17,7,Detroit Red Wings,Buffalo Sabres,2022020361753,2022020361,Goal,753,GOAL,"Oskar Sundqvist (3) Wrist Shot, assists: Andrew Copp (11)",2022-12-01T02:24:29Z,3,12:31,07:29,4,4,17.0,Detroit Red Wings,DET
+276,17,7,Detroit Red Wings,Buffalo Sabres,2022020361484,2022020361,Faceoff,484,FACEOFF,Andrew Copp faceoff won against Tage Thompson,2022-12-01T02:26:03Z,3,12:31,07:29,4,4,17.0,Detroit Red Wings,DET
+277,17,7,Detroit Red Wings,Buffalo Sabres,2022020361621,2022020361,Stoppage,621,STOP,Icing,2022-12-01T02:26:11Z,3,12:39,07:21,4,4,,,
+278,17,7,Detroit Red Wings,Buffalo Sabres,2022020361485,2022020361,Faceoff,485,FACEOFF,Jeff Skinner faceoff won against Andrew Copp,2022-12-01T02:26:35Z,3,12:39,07:21,4,4,7.0,Buffalo Sabres,BUF
+279,17,7,Detroit Red Wings,Buffalo Sabres,2022020361622,2022020361,Stoppage,622,STOP,Puck Frozen,2022-12-01T02:26:48Z,3,12:52,07:08,4,4,,,
+280,17,7,Detroit Red Wings,Buffalo Sabres,2022020361486,2022020361,Faceoff,486,FACEOFF,Joe Veleno faceoff won against Tyson Jost,2022-12-01T02:27:23Z,3,12:52,07:08,4,4,17.0,Detroit Red Wings,DET
+281,17,7,Detroit Red Wings,Buffalo Sabres,2022020361623,2022020361,Hit,623,HIT,Jake Walman hit Tyson Jost,2022-12-01T02:27:43Z,3,13:12,06:48,4,4,17.0,Detroit Red Wings,DET
+282,17,7,Detroit Red Wings,Buffalo Sabres,2022020361754,2022020361,Blocked Shot,754,BLOCKED_SHOT,Tyson Jost shot blocked shot by Jake Walman,2022-12-01T02:28:24Z,3,13:53,06:07,4,4,17.0,Detroit Red Wings,DET
+283,17,7,Detroit Red Wings,Buffalo Sabres,2022020361487,2022020361,Takeaway,487,TAKEAWAY,Takeaway by Mattias Samuelsson,2022-12-01T02:28:30Z,3,13:59,06:01,4,4,7.0,Buffalo Sabres,BUF
+284,17,7,Detroit Red Wings,Buffalo Sabres,2022020361488,2022020361,Giveaway,488,GIVEAWAY,Giveaway by Alex Tuch,2022-12-01T02:28:43Z,3,14:12,05:48,4,4,7.0,Buffalo Sabres,BUF
+285,17,7,Detroit Red Wings,Buffalo Sabres,2022020361626,2022020361,Stoppage,626,STOP,TV timeout,2022-12-01T02:29:06Z,3,14:35,05:25,4,4,,,
+286,17,7,Detroit Red Wings,Buffalo Sabres,2022020361905,2022020361,Penalty,905,PENALTY,Henri Jokiharju Tripping against Dylan Larkin,2022-12-01T02:29:06Z,3,14:35,05:25,4,4,7.0,Buffalo Sabres,BUF
+287,17,7,Detroit Red Wings,Buffalo Sabres,2022020361490,2022020361,Faceoff,490,FACEOFF,Dylan Larkin faceoff won against Dylan Cozens,2022-12-01T02:31:31Z,3,14:35,05:25,4,4,17.0,Detroit Red Wings,DET
+288,17,7,Detroit Red Wings,Buffalo Sabres,2022020361755,2022020361,Shot,755,SHOT,Dylan Cozens Wrist Shot saved by Alex Nedeljkovic,2022-12-01T02:31:45Z,3,14:49,05:11,4,4,7.0,Buffalo Sabres,BUF
+289,17,7,Detroit Red Wings,Buffalo Sabres,2022020361756,2022020361,Missed Shot,756,MISSED_SHOT,Dylan Larkin Wide of Net Craig Anderson,2022-12-01T02:32:21Z,3,15:25,04:35,4,4,17.0,Detroit Red Wings,DET
+290,17,7,Detroit Red Wings,Buffalo Sabres,2022020361628,2022020361,Stoppage,628,STOP,Puck in Netting,2022-12-01T02:32:32Z,3,15:35,04:25,4,4,,,
+291,17,7,Detroit Red Wings,Buffalo Sabres,2022020361757,2022020361,Blocked Shot,757,BLOCKED_SHOT,David Perron shot blocked shot by Casey Fitzgerald,2022-12-01T02:32:32Z,3,15:35,04:25,4,4,7.0,Buffalo Sabres,BUF
+292,17,7,Detroit Red Wings,Buffalo Sabres,2022020361491,2022020361,Faceoff,491,FACEOFF,Andrew Copp faceoff won against Zemgus Girgensons,2022-12-01T02:33:06Z,3,15:35,04:25,4,4,17.0,Detroit Red Wings,DET
+293,17,7,Detroit Red Wings,Buffalo Sabres,2022020361788,2022020361,Shot,788,SHOT,Tyler Bertuzzi Deflected saved by Craig Anderson,2022-12-01T02:33:27Z,3,15:56,04:04,4,4,17.0,Detroit Red Wings,DET
+294,17,7,Detroit Red Wings,Buffalo Sabres,2022020361759,2022020361,Missed Shot,759,MISSED_SHOT,Andrew Copp Goalpost Craig Anderson,2022-12-01T02:33:29Z,3,15:58,04:02,4,4,17.0,Detroit Red Wings,DET
+295,17,7,Detroit Red Wings,Buffalo Sabres,2022020361629,2022020361,Stoppage,629,STOP,Puck Frozen,2022-12-01T02:33:30Z,3,16:00,04:00,4,4,,,
+296,17,7,Detroit Red Wings,Buffalo Sabres,2022020361492,2022020361,Faceoff,492,FACEOFF,Andrew Copp faceoff won against Tyson Jost,2022-12-01T02:34:25Z,3,16:00,04:00,4,4,17.0,Detroit Red Wings,DET
+297,17,7,Detroit Red Wings,Buffalo Sabres,2022020361493,2022020361,Giveaway,493,GIVEAWAY,Giveaway by Andrew Copp,2022-12-01T02:34:37Z,3,16:12,03:48,4,4,17.0,Detroit Red Wings,DET
+298,17,7,Detroit Red Wings,Buffalo Sabres,2022020361761,2022020361,Shot,761,SHOT,Andrew Copp Wrist Shot saved by Craig Anderson,2022-12-01T02:34:56Z,3,16:31,03:29,4,4,17.0,Detroit Red Wings,DET
+299,17,7,Detroit Red Wings,Buffalo Sabres,2022020361315,2022020361,Blocked Shot,315,BLOCKED_SHOT,Dylan Larkin shot blocked shot by Dylan Cozens,2022-12-01T02:34:58Z,3,16:33,03:27,4,4,7.0,Buffalo Sabres,BUF
+300,17,7,Detroit Red Wings,Buffalo Sabres,2022020361494,2022020361,Giveaway,494,GIVEAWAY,Giveaway by Moritz Seider,2022-12-01T02:35:09Z,3,16:44,03:16,4,4,17.0,Detroit Red Wings,DET
+301,17,7,Detroit Red Wings,Buffalo Sabres,2022020361763,2022020361,Missed Shot,763,MISSED_SHOT,Alex Tuch Wide of Net Alex Nedeljkovic,2022-12-01T02:35:13Z,3,16:48,03:12,4,4,7.0,Buffalo Sabres,BUF
+302,17,7,Detroit Red Wings,Buffalo Sabres,2022020361495,2022020361,Giveaway,495,GIVEAWAY,Giveaway by Michael Rasmussen,2022-12-01T02:35:23Z,3,16:58,03:02,4,4,17.0,Detroit Red Wings,DET
+303,17,7,Detroit Red Wings,Buffalo Sabres,2022020361764,2022020361,Missed Shot,764,MISSED_SHOT,Adam Erne Wide of Net Craig Anderson,2022-12-01T02:35:28Z,3,17:03,02:57,4,4,17.0,Detroit Red Wings,DET
+304,17,7,Detroit Red Wings,Buffalo Sabres,2022020361630,2022020361,Hit,630,HIT,Tage Thompson hit Pius Suter,2022-12-01T02:35:34Z,3,17:09,02:51,4,4,7.0,Buffalo Sabres,BUF
+305,17,7,Detroit Red Wings,Buffalo Sabres,2022020361631,2022020361,Stoppage,631,STOP,Home Timeout,2022-12-01T02:35:36Z,3,17:10,02:50,4,4,,,
+306,17,7,Detroit Red Wings,Buffalo Sabres,2022020361927,2022020361,Penalty,927,PENALTY,Rasmus Dahlin High-sticking against Adam Erne,2022-12-01T02:35:36Z,3,17:10,02:50,4,4,7.0,Buffalo Sabres,BUF
+307,17,7,Detroit Red Wings,Buffalo Sabres,2022020361496,2022020361,Faceoff,496,FACEOFF,Dylan Larkin faceoff won against Dylan Cozens,2022-12-01T02:37:08Z,3,17:10,02:50,4,4,17.0,Detroit Red Wings,DET
+308,17,7,Detroit Red Wings,Buffalo Sabres,2022020361766,2022020361,Shot,766,SHOT,David Perron Wrist Shot saved by Craig Anderson,2022-12-01T02:37:28Z,3,17:30,02:30,4,4,17.0,Detroit Red Wings,DET
+309,17,7,Detroit Red Wings,Buffalo Sabres,2022020361932,2022020361,Penalty,932,PENALTY,Mattias Samuelsson Tripping against David Perron,2022-12-01T02:37:42Z,3,17:44,02:16,4,4,7.0,Buffalo Sabres,BUF
+310,17,7,Detroit Red Wings,Buffalo Sabres,2022020361497,2022020361,Faceoff,497,FACEOFF,Dylan Larkin faceoff won against Zemgus Girgensons,2022-12-01T02:38:35Z,3,17:44,02:16,4,4,17.0,Detroit Red Wings,DET
+311,17,7,Detroit Red Wings,Buffalo Sabres,2022020361767,2022020361,Missed Shot,767,MISSED_SHOT,David Perron Wide of Net Craig Anderson,2022-12-01T02:38:46Z,3,17:55,02:05,4,4,17.0,Detroit Red Wings,DET
+312,17,7,Detroit Red Wings,Buffalo Sabres,2022020361768,2022020361,Shot,768,SHOT,Dominik Kubalik Snap Shot saved by Craig Anderson,2022-12-01T02:39:04Z,3,18:13,01:47,4,4,17.0,Detroit Red Wings,DET
+313,17,7,Detroit Red Wings,Buffalo Sabres,2022020361770,2022020361,Shot,770,SHOT,Dylan Larkin Wrist Shot saved by Craig Anderson,2022-12-01T02:39:51Z,3,19:00,01:00,4,4,17.0,Detroit Red Wings,DET
+314,17,7,Detroit Red Wings,Buffalo Sabres,2022020361771,2022020361,Blocked Shot,771,BLOCKED_SHOT,Filip Hronek shot blocked shot by Kyle Okposo,2022-12-01T02:40:00Z,3,19:09,00:51,4,4,7.0,Buffalo Sabres,BUF
+315,17,7,Detroit Red Wings,Buffalo Sabres,2022020361773,2022020361,Shot,773,SHOT,Lucas Raymond Wrist Shot saved by Craig Anderson,2022-12-01T02:40:25Z,3,19:34,00:26,4,4,17.0,Detroit Red Wings,DET
+316,17,7,Detroit Red Wings,Buffalo Sabres,2022020361772,2022020361,Shot,772,SHOT,Lucas Raymond Snap Shot saved by Craig Anderson,2022-12-01T02:40:26Z,3,19:35,00:25,4,4,17.0,Detroit Red Wings,DET
+317,17,7,Detroit Red Wings,Buffalo Sabres,2022020361634,2022020361,Period End,634,PERIOD_END,End of 3rd Period,2022-12-01T02:40:51Z,3,20:00,00:00,4,4,,,
+318,17,7,Detroit Red Wings,Buffalo Sabres,2022020361637,2022020361,Period Official,637,PERIOD_OFFICIAL,Period Official,2022-12-01T02:40:57Z,3,20:00,00:00,4,4,,,
+319,17,7,Detroit Red Wings,Buffalo Sabres,2022020361638,2022020361,Period Ready,638,PERIOD_READY,Period Ready,2022-12-01T02:42:35Z,4,00:00,05:00,4,4,,,
+320,17,7,Detroit Red Wings,Buffalo Sabres,2022020361498,2022020361,Period Start,498,PERIOD_START,Period Start,2022-12-01T02:43:07Z,4,00:00,05:00,4,4,,,
+321,17,7,Detroit Red Wings,Buffalo Sabres,2022020361499,2022020361,Faceoff,499,FACEOFF,Andrew Copp faceoff won against Dylan Cozens,2022-12-01T02:43:07Z,4,00:00,05:00,4,4,17.0,Detroit Red Wings,DET
+322,17,7,Detroit Red Wings,Buffalo Sabres,2022020361641,2022020361,Shot,641,SHOT,Dylan Cozens Snap Shot saved by Alex Nedeljkovic,2022-12-01T02:43:14Z,4,00:07,04:53,4,4,7.0,Buffalo Sabres,BUF
+323,17,7,Detroit Red Wings,Buffalo Sabres,2022020361640,2022020361,Hit,640,HIT,Moritz Seider hit Tage Thompson,2022-12-01T02:43:54Z,4,00:47,04:13,4,4,17.0,Detroit Red Wings,DET
+324,17,7,Detroit Red Wings,Buffalo Sabres,2022020361774,2022020361,Blocked Shot,774,BLOCKED_SHOT,Owen Power shot blocked shot by Moritz Seider,2022-12-01T02:44:26Z,4,01:19,03:41,4,4,17.0,Detroit Red Wings,DET
+325,17,7,Detroit Red Wings,Buffalo Sabres,2022020361775,2022020361,Shot,775,SHOT,Henri Jokiharju Backhand saved by Alex Nedeljkovic,2022-12-01T02:45:09Z,4,02:02,02:58,4,4,7.0,Buffalo Sabres,BUF
+326,17,7,Detroit Red Wings,Buffalo Sabres,2022020361642,2022020361,Stoppage,642,STOP,Goalie Stopped,2022-12-01T02:45:10Z,4,02:03,02:57,4,4,,,
+327,17,7,Detroit Red Wings,Buffalo Sabres,2022020361851,2022020361,Faceoff,851,FACEOFF,Michael Rasmussen faceoff won against Jeff Skinner,2022-12-01T02:45:46Z,4,02:03,02:57,4,4,17.0,Detroit Red Wings,DET
+328,17,7,Detroit Red Wings,Buffalo Sabres,2022020361643,2022020361,Hit,643,HIT,Jeff Skinner hit Ben Chiarot,2022-12-01T02:45:51Z,4,02:08,02:52,4,4,7.0,Buffalo Sabres,BUF
+329,17,7,Detroit Red Wings,Buffalo Sabres,2022020361776,2022020361,Blocked Shot,776,BLOCKED_SHOT,Jeff Skinner shot blocked shot by Ben Chiarot,2022-12-01T02:46:21Z,4,02:38,02:22,4,4,17.0,Detroit Red Wings,DET
+330,17,7,Detroit Red Wings,Buffalo Sabres,2022020361777,2022020361,Missed Shot,777,MISSED_SHOT,Tage Thompson Wide of Net Alex Nedeljkovic,2022-12-01T02:46:32Z,4,02:49,02:11,4,4,7.0,Buffalo Sabres,BUF
+331,17,7,Detroit Red Wings,Buffalo Sabres,2022020361778,2022020361,Missed Shot,778,MISSED_SHOT,Alex Tuch Wide of Net Alex Nedeljkovic,2022-12-01T02:47:11Z,4,03:28,01:32,4,4,7.0,Buffalo Sabres,BUF
+332,17,7,Detroit Red Wings,Buffalo Sabres,2022020361779,2022020361,Blocked Shot,779,BLOCKED_SHOT,Dylan Cozens shot blocked shot by Dylan Larkin,2022-12-01T02:47:56Z,4,04:13,00:47,4,4,17.0,Detroit Red Wings,DET
+333,17,7,Detroit Red Wings,Buffalo Sabres,2022020361644,2022020361,Stoppage,644,STOP,Goalie Stopped,2022-12-01T02:48:24Z,4,04:40,00:20,4,4,,,
+334,17,7,Detroit Red Wings,Buffalo Sabres,2022020361780,2022020361,Shot,780,SHOT,Andrew Copp Wrist Shot saved by Craig Anderson,2022-12-01T02:48:24Z,4,04:40,00:20,4,4,17.0,Detroit Red Wings,DET
+335,17,7,Detroit Red Wings,Buffalo Sabres,2022020361852,2022020361,Faceoff,852,FACEOFF,Andrew Copp faceoff won against Tyson Jost,2022-12-01T02:48:55Z,4,04:40,00:20,4,4,17.0,Detroit Red Wings,DET
+336,17,7,Detroit Red Wings,Buffalo Sabres,2022020361645,2022020361,Period End,645,PERIOD_END,End of OT,2022-12-01T02:49:14Z,4,05:00,00:00,4,4,,,
+337,17,7,Detroit Red Wings,Buffalo Sabres,2022020361956,2022020361,Penalty,956,PENALTY,Rasmus Dahlin Cross-checking against Andrew Copp,2022-12-01T02:49:14Z,4,05:00,00:00,4,4,7.0,Buffalo Sabres,BUF
+338,17,7,Detroit Red Wings,Buffalo Sabres,2022020361960,2022020361,Penalty,960,PENALTY,Andrew Copp Roughing against Rasmus Dahlin,2022-12-01T02:49:14Z,4,05:00,00:00,4,4,17.0,Detroit Red Wings,DET
+339,17,7,Detroit Red Wings,Buffalo Sabres,2022020361648,2022020361,Period Official,648,PERIOD_OFFICIAL,Period Official,2022-12-01T02:49:34Z,4,05:00,00:00,4,4,,,
+340,17,7,Detroit Red Wings,Buffalo Sabres,2022020361649,2022020361,Period Ready,649,PERIOD_READY,Period Ready,2022-12-01T02:50:29Z,5,00:00,00:00,4,4,,,
+341,17,7,Detroit Red Wings,Buffalo Sabres,2022020361650,2022020361,Period Start,650,PERIOD_START,Period Start,2022-12-01T02:50:45Z,5,00:00,00:00,4,4,,,
+342,17,7,Detroit Red Wings,Buffalo Sabres,2022020361781,2022020361,Shot,781,SHOT,Lucas Raymond Wrist Shot saved by Craig Anderson,2022-12-01T02:51:50Z,5,00:00,00:00,4,4,17.0,Detroit Red Wings,DET
+343,17,7,Detroit Red Wings,Buffalo Sabres,2022020361782,2022020361,Shot,782,SHOT,Tage Thompson Wrist Shot saved by Alex Nedeljkovic,2022-12-01T02:52:19Z,5,00:00,00:00,4,4,7.0,Buffalo Sabres,BUF
+344,17,7,Detroit Red Wings,Buffalo Sabres,2022020361783,2022020361,Missed Shot,783,MISSED_SHOT,David Perron Goalpost Craig Anderson,2022-12-01T02:52:47Z,5,00:00,00:00,4,4,17.0,Detroit Red Wings,DET
+345,17,7,Detroit Red Wings,Buffalo Sabres,2022020361784,2022020361,Shot,784,SHOT,JJ Peterka Wrist Shot saved by Alex Nedeljkovic,2022-12-01T02:53:16Z,5,00:00,00:00,4,4,7.0,Buffalo Sabres,BUF
+346,17,7,Detroit Red Wings,Buffalo Sabres,2022020361785,2022020361,Missed Shot,785,MISSED_SHOT,Dylan Larkin Goalpost Craig Anderson,2022-12-01T02:53:50Z,5,00:00,00:00,4,4,17.0,Detroit Red Wings,DET
+347,17,7,Detroit Red Wings,Buffalo Sabres,2022020361786,2022020361,Goal,786,GOAL,Jack Quinn - Wrist Shot,2022-12-01T02:54:18Z,5,00:00,00:00,4,4,7.0,Buffalo Sabres,BUF
+348,17,7,Detroit Red Wings,Buffalo Sabres,2022020361787,2022020361,Shootout Complete,787,SHOOTOUT_COMPLETE,End of Shootout,2022-12-01T02:54:18Z,5,00:00,00:00,4,4,,,
+349,17,7,Detroit Red Wings,Buffalo Sabres,2022020361951,2022020361,Period End,951,PERIOD_END,End of OT,2022-12-01T02:54:18Z,5,00:00,00:00,4,4,,,
+350,17,7,Detroit Red Wings,Buffalo Sabres,2022020361954,2022020361,Period Official,954,PERIOD_OFFICIAL,Period Official,2022-12-01T02:54:43Z,5,00:00,00:00,4,4,,,
+351,17,7,Detroit Red Wings,Buffalo Sabres,2022020361955,2022020361,Game End,955,GAME_END,Game End,2022-12-01T02:54:45Z,5,00:00,00:00,4,4,,,
+352,17,7,Detroit Red Wings,Buffalo Sabres,20220203611242,2022020361,Game Official,1242,GAME_OFFICIAL,Game Official,2022-12-02T16:33:26Z,5,00:00,00:00,4,4,,,

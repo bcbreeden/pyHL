@@ -1,0 +1,291 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,24,30,Anaheim Ducks,Minnesota Wild,20220202101,2022020210,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-11-10T02:22:21Z,1,00:00,20:00,0,0,,,
+1,24,30,Anaheim Ducks,Minnesota Wild,20220202105,2022020210,Period Ready,5,PERIOD_READY,Period Ready,2022-11-10T03:18:12Z,1,00:00,20:00,0,0,,,
+2,24,30,Anaheim Ducks,Minnesota Wild,202202021051,2022020210,Period Start,51,PERIOD_START,Period Start,2022-11-10T03:22:47Z,1,00:00,20:00,0,0,,,
+3,24,30,Anaheim Ducks,Minnesota Wild,202202021052,2022020210,Faceoff,52,FACEOFF,Frederick Gaudreau faceoff won against Isac Lundestrom,2022-11-10T03:22:47Z,1,00:00,20:00,0,0,30.0,Minnesota Wild,MIN
+4,24,30,Anaheim Ducks,Minnesota Wild,2022020210151,2022020210,Stoppage,151,STOP,Offside,2022-11-10T03:23:01Z,1,00:15,19:45,0,0,,,
+5,24,30,Anaheim Ducks,Minnesota Wild,202202021053,2022020210,Faceoff,53,FACEOFF,Jakob Silfverberg faceoff won against Frederick Gaudreau,2022-11-10T03:23:26Z,1,00:15,19:45,0,0,24.0,Anaheim Ducks,ANA
+6,24,30,Anaheim Ducks,Minnesota Wild,2022020210201,2022020210,Shot,201,SHOT,Jakob Silfverberg Wrist Shot saved by Filip Gustavsson,2022-11-10T03:23:41Z,1,00:30,19:30,0,0,24.0,Anaheim Ducks,ANA
+7,24,30,Anaheim Ducks,Minnesota Wild,2022020210152,2022020210,Stoppage,152,STOP,Icing,2022-11-10T03:24:07Z,1,00:56,19:04,0,0,,,
+8,24,30,Anaheim Ducks,Minnesota Wild,202202021054,2022020210,Faceoff,54,FACEOFF,Trevor Zegras faceoff won against Matt Boldy,2022-11-10T03:24:39Z,1,00:56,19:04,0,0,24.0,Anaheim Ducks,ANA
+9,24,30,Anaheim Ducks,Minnesota Wild,2022020210202,2022020210,Giveaway,202,GIVEAWAY,Giveaway by Jonas Brodin,2022-11-10T03:24:45Z,1,01:02,18:58,0,0,30.0,Minnesota Wild,MIN
+10,24,30,Anaheim Ducks,Minnesota Wild,2022020210203,2022020210,Giveaway,203,GIVEAWAY,Giveaway by Simon Benoit,2022-11-10T03:25:17Z,1,01:34,18:26,0,0,24.0,Anaheim Ducks,ANA
+11,24,30,Anaheim Ducks,Minnesota Wild,2022020210204,2022020210,Giveaway,204,GIVEAWAY,Giveaway by Matt Dumba,2022-11-10T03:25:18Z,1,01:35,18:25,0,0,30.0,Minnesota Wild,MIN
+12,24,30,Anaheim Ducks,Minnesota Wild,20220202108,2022020210,Hit,8,HIT,Connor Dewar hit Ryan Strome,2022-11-10T03:25:44Z,1,02:01,17:59,0,0,30.0,Minnesota Wild,MIN
+13,24,30,Anaheim Ducks,Minnesota Wild,2022020210205,2022020210,Shot,205,SHOT,Connor Dewar Snap Shot saved by John Gibson,2022-11-10T03:25:51Z,1,02:08,17:52,0,0,30.0,Minnesota Wild,MIN
+14,24,30,Anaheim Ducks,Minnesota Wild,2022020210206,2022020210,Shot,206,SHOT,Ryan Strome Slap Shot saved by Filip Gustavsson,2022-11-10T03:25:57Z,1,02:14,17:46,0,0,24.0,Anaheim Ducks,ANA
+15,24,30,Anaheim Ducks,Minnesota Wild,20220202109,2022020210,Hit,9,HIT,Glenn Gawdin hit Jake Middleton,2022-11-10T03:26:31Z,1,02:48,17:12,0,0,24.0,Anaheim Ducks,ANA
+16,24,30,Anaheim Ducks,Minnesota Wild,2022020210207,2022020210,Shot,207,SHOT,Brett Leason Wrist Shot saved by Filip Gustavsson,2022-11-10T03:27:01Z,1,03:18,16:42,0,0,24.0,Anaheim Ducks,ANA
+17,24,30,Anaheim Ducks,Minnesota Wild,2022020210208,2022020210,Shot,208,SHOT,Kirill Kaprizov Wrist Shot saved by John Gibson,2022-11-10T03:27:27Z,1,03:44,16:16,0,0,30.0,Minnesota Wild,MIN
+18,24,30,Anaheim Ducks,Minnesota Wild,2022020210228,2022020210,Shot,228,SHOT,Frederick Gaudreau Backhand saved by John Gibson,2022-11-10T03:27:32Z,1,03:49,16:11,0,0,30.0,Minnesota Wild,MIN
+19,24,30,Anaheim Ducks,Minnesota Wild,2022020210209,2022020210,Shot,209,SHOT,Matt Dumba Wrist Shot saved by John Gibson,2022-11-10T03:27:40Z,1,03:57,16:03,0,0,30.0,Minnesota Wild,MIN
+20,24,30,Anaheim Ducks,Minnesota Wild,2022020210210,2022020210,Shot,210,SHOT,Jon Merrill Wrist Shot saved by John Gibson,2022-11-10T03:28:14Z,1,04:31,15:29,0,0,30.0,Minnesota Wild,MIN
+21,24,30,Anaheim Ducks,Minnesota Wild,2022020210211,2022020210,Shot,211,SHOT,Jon Merrill Snap Shot saved by John Gibson,2022-11-10T03:28:52Z,1,05:09,14:51,0,0,30.0,Minnesota Wild,MIN
+22,24,30,Anaheim Ducks,Minnesota Wild,2022020210212,2022020210,Shot,212,SHOT,Joel Eriksson Ek Wrist Shot saved by John Gibson,2022-11-10T03:28:55Z,1,05:12,14:48,0,0,30.0,Minnesota Wild,MIN
+23,24,30,Anaheim Ducks,Minnesota Wild,2022020210213,2022020210,Shot,213,SHOT,Connor Dewar Tip-In saved by John Gibson,2022-11-10T03:29:33Z,1,05:50,14:10,0,0,30.0,Minnesota Wild,MIN
+24,24,30,Anaheim Ducks,Minnesota Wild,2022020210214,2022020210,Takeaway,214,TAKEAWAY,Takeaway by Frank Vatrano,2022-11-10T03:29:42Z,1,05:59,14:01,0,0,24.0,Anaheim Ducks,ANA
+25,24,30,Anaheim Ducks,Minnesota Wild,2022020210215,2022020210,Shot,215,SHOT,Mason McTavish Wrist Shot saved by Filip Gustavsson,2022-11-10T03:29:46Z,1,06:03,13:57,0,0,24.0,Anaheim Ducks,ANA
+26,24,30,Anaheim Ducks,Minnesota Wild,2022020210154,2022020210,Stoppage,154,STOP,TV timeout,2022-11-10T03:30:02Z,1,06:19,13:41,0,0,,,
+27,24,30,Anaheim Ducks,Minnesota Wild,2022020210261,2022020210,Penalty,261,PENALTY,Tyson Jost Tripping against Mason McTavish,2022-11-10T03:30:02Z,1,06:19,13:41,0,0,30.0,Minnesota Wild,MIN
+28,24,30,Anaheim Ducks,Minnesota Wild,202202021055,2022020210,Faceoff,55,FACEOFF,Mason McTavish faceoff won against Frederick Gaudreau,2022-11-10T03:32:23Z,1,06:19,13:41,0,0,24.0,Anaheim Ducks,ANA
+29,24,30,Anaheim Ducks,Minnesota Wild,2022020210451,2022020210,Blocked Shot,451,BLOCKED_SHOT,John Klingberg shot blocked shot by Jonas Brodin,2022-11-10T03:32:27Z,1,06:23,13:37,0,0,30.0,Minnesota Wild,MIN
+30,24,30,Anaheim Ducks,Minnesota Wild,2022020210216,2022020210,Blocked Shot,216,BLOCKED_SHOT,John Klingberg shot blocked shot by Frederick Gaudreau,2022-11-10T03:32:41Z,1,06:37,13:23,0,0,30.0,Minnesota Wild,MIN
+31,24,30,Anaheim Ducks,Minnesota Wild,2022020210217,2022020210,Shot,217,SHOT,Trevor Zegras Slap Shot saved by Filip Gustavsson,2022-11-10T03:32:44Z,1,06:40,13:20,0,0,24.0,Anaheim Ducks,ANA
+32,24,30,Anaheim Ducks,Minnesota Wild,2022020210153,2022020210,Stoppage,153,STOP,Goalie Stopped,2022-11-10T03:32:45Z,1,06:41,13:19,0,0,,,
+33,24,30,Anaheim Ducks,Minnesota Wild,202202021056,2022020210,Faceoff,56,FACEOFF,Joel Eriksson Ek faceoff won against Ryan Strome,2022-11-10T03:33:13Z,1,06:41,13:19,0,0,30.0,Minnesota Wild,MIN
+34,24,30,Anaheim Ducks,Minnesota Wild,2022020210218,2022020210,Shot,218,SHOT,Kevin Shattenkirk Wrist Shot saved by Filip Gustavsson,2022-11-10T03:33:24Z,1,06:52,13:08,0,0,24.0,Anaheim Ducks,ANA
+35,24,30,Anaheim Ducks,Minnesota Wild,2022020210219,2022020210,Blocked Shot,219,BLOCKED_SHOT,Cam Fowler shot blocked shot by Jake Middleton,2022-11-10T03:33:56Z,1,07:24,12:36,0,0,30.0,Minnesota Wild,MIN
+36,24,30,Anaheim Ducks,Minnesota Wild,2022020210220,2022020210,Blocked Shot,220,BLOCKED_SHOT,Ryan Strome shot blocked shot by Jake Middleton,2022-11-10T03:34:04Z,1,07:32,12:28,0,0,30.0,Minnesota Wild,MIN
+37,24,30,Anaheim Ducks,Minnesota Wild,2022020210221,2022020210,Giveaway,221,GIVEAWAY,Giveaway by John Klingberg,2022-11-10T03:34:51Z,1,08:19,11:41,0,0,24.0,Anaheim Ducks,ANA
+38,24,30,Anaheim Ducks,Minnesota Wild,202202021011,2022020210,Hit,11,HIT,Matt Boldy hit Isac Lundestrom,2022-11-10T03:35:22Z,1,08:50,11:10,0,0,30.0,Minnesota Wild,MIN
+39,24,30,Anaheim Ducks,Minnesota Wild,202202021012,2022020210,Hit,12,HIT,Jakob Silfverberg hit Jonas Brodin,2022-11-10T03:35:47Z,1,09:15,10:45,0,0,24.0,Anaheim Ducks,ANA
+40,24,30,Anaheim Ducks,Minnesota Wild,2022020210238,2022020210,Blocked Shot,238,BLOCKED_SHOT,Calen Addison shot blocked shot by Glenn Gawdin,2022-11-10T03:36:27Z,1,09:55,10:05,0,0,24.0,Anaheim Ducks,ANA
+41,24,30,Anaheim Ducks,Minnesota Wild,2022020210222,2022020210,Shot,222,SHOT,Calen Addison Slap Shot saved by John Gibson,2022-11-10T03:36:34Z,1,10:02,09:58,0,0,30.0,Minnesota Wild,MIN
+42,24,30,Anaheim Ducks,Minnesota Wild,2022020210223,2022020210,Shot,223,SHOT,Jon Merrill Slap Shot saved by John Gibson,2022-11-10T03:36:41Z,1,10:09,09:51,0,0,30.0,Minnesota Wild,MIN
+43,24,30,Anaheim Ducks,Minnesota Wild,2022020210224,2022020210,Shot,224,SHOT,Max Comtois Wrist Shot saved by Filip Gustavsson,2022-11-10T03:37:18Z,1,10:46,09:14,0,0,24.0,Anaheim Ducks,ANA
+44,24,30,Anaheim Ducks,Minnesota Wild,2022020210225,2022020210,Missed Shot,225,MISSED_SHOT,Connor Dewar Wide of Net John Gibson,2022-11-10T03:37:34Z,1,11:02,08:58,0,0,30.0,Minnesota Wild,MIN
+45,24,30,Anaheim Ducks,Minnesota Wild,2022020210226,2022020210,Shot,226,SHOT,Mason Shaw Backhand saved by John Gibson,2022-11-10T03:37:43Z,1,11:11,08:49,0,0,30.0,Minnesota Wild,MIN
+46,24,30,Anaheim Ducks,Minnesota Wild,2022020210227,2022020210,Shot,227,SHOT,Frank Vatrano Wrist Shot saved by Filip Gustavsson,2022-11-10T03:37:59Z,1,11:27,08:33,0,0,24.0,Anaheim Ducks,ANA
+47,24,30,Anaheim Ducks,Minnesota Wild,2022020210155,2022020210,Stoppage,155,STOP,Goalie Stopped,2022-11-10T03:38:02Z,1,11:29,08:31,0,0,,,
+48,24,30,Anaheim Ducks,Minnesota Wild,202202021057,2022020210,Faceoff,57,FACEOFF,Joel Eriksson Ek faceoff won against Ryan Strome,2022-11-10T03:40:09Z,1,11:29,08:31,0,0,30.0,Minnesota Wild,MIN
+49,24,30,Anaheim Ducks,Minnesota Wild,2022020210156,2022020210,Stoppage,156,STOP,Puck in Crowd,2022-11-10T03:40:17Z,1,11:36,08:24,0,0,,,
+50,24,30,Anaheim Ducks,Minnesota Wild,202202021058,2022020210,Faceoff,58,FACEOFF,Ryan Strome faceoff won against Joel Eriksson Ek,2022-11-10T03:40:39Z,1,11:36,08:24,0,0,24.0,Anaheim Ducks,ANA
+51,24,30,Anaheim Ducks,Minnesota Wild,2022020210229,2022020210,Shot,229,SHOT,Cam Fowler Slap Shot saved by Filip Gustavsson,2022-11-10T03:40:45Z,1,11:42,08:18,0,0,24.0,Anaheim Ducks,ANA
+52,24,30,Anaheim Ducks,Minnesota Wild,2022020210230,2022020210,Hit,230,HIT,Simon Benoit hit Matt Boldy,2022-11-10T03:41:08Z,1,12:05,07:55,0,0,24.0,Anaheim Ducks,ANA
+53,24,30,Anaheim Ducks,Minnesota Wild,2022020210231,2022020210,Shot,231,SHOT,Adam Beckman Wrist Shot saved by John Gibson,2022-11-10T03:41:12Z,1,12:09,07:51,0,0,30.0,Minnesota Wild,MIN
+54,24,30,Anaheim Ducks,Minnesota Wild,2022020210232,2022020210,Missed Shot,232,MISSED_SHOT,Joel Eriksson Ek Goalpost John Gibson,2022-11-10T03:41:13Z,1,12:10,07:50,0,0,30.0,Minnesota Wild,MIN
+55,24,30,Anaheim Ducks,Minnesota Wild,2022020210233,2022020210,Shot,233,SHOT,Max Jones Wrist Shot saved by Filip Gustavsson,2022-11-10T03:42:18Z,1,13:15,06:45,0,0,24.0,Anaheim Ducks,ANA
+56,24,30,Anaheim Ducks,Minnesota Wild,2022020210234,2022020210,Blocked Shot,234,BLOCKED_SHOT,Isac Lundestrom shot blocked shot by Calen Addison,2022-11-10T03:42:38Z,1,13:35,06:25,0,0,30.0,Minnesota Wild,MIN
+57,24,30,Anaheim Ducks,Minnesota Wild,202202021013,2022020210,Hit,13,HIT,John Klingberg hit Tyson Jost,2022-11-10T03:42:45Z,1,13:42,06:18,0,0,24.0,Anaheim Ducks,ANA
+58,24,30,Anaheim Ducks,Minnesota Wild,2022020210235,2022020210,Blocked Shot,235,BLOCKED_SHOT,Jared Spurgeon shot blocked shot by Max Comtois,2022-11-10T03:42:51Z,1,13:48,06:12,0,0,24.0,Anaheim Ducks,ANA
+59,24,30,Anaheim Ducks,Minnesota Wild,202202021014,2022020210,Hit,14,HIT,Max Comtois hit Jake Middleton,2022-11-10T03:43:19Z,1,14:16,05:44,0,0,24.0,Anaheim Ducks,ANA
+60,24,30,Anaheim Ducks,Minnesota Wild,2022020210236,2022020210,Giveaway,236,GIVEAWAY,Giveaway by Matt Dumba,2022-11-10T03:43:46Z,1,14:43,05:17,0,0,30.0,Minnesota Wild,MIN
+61,24,30,Anaheim Ducks,Minnesota Wild,2022020210237,2022020210,Shot,237,SHOT,Brett Leason Tip-In saved by Filip Gustavsson,2022-11-10T03:44:02Z,1,14:59,05:01,0,0,24.0,Anaheim Ducks,ANA
+62,24,30,Anaheim Ducks,Minnesota Wild,2022020210157,2022020210,Stoppage,157,STOP,Goalie Stopped,2022-11-10T03:44:02Z,1,15:00,05:00,0,0,,,
+63,24,30,Anaheim Ducks,Minnesota Wild,202202021059,2022020210,Faceoff,59,FACEOFF,Joel Eriksson Ek faceoff won against Ryan Strome,2022-11-10T03:46:33Z,1,15:00,05:00,0,0,30.0,Minnesota Wild,MIN
+64,24,30,Anaheim Ducks,Minnesota Wild,202202021015,2022020210,Hit,15,HIT,Simon Benoit hit Adam Beckman,2022-11-10T03:46:49Z,1,15:16,04:44,0,0,24.0,Anaheim Ducks,ANA
+65,24,30,Anaheim Ducks,Minnesota Wild,2022020210239,2022020210,Blocked Shot,239,BLOCKED_SHOT,Adam Beckman shot blocked shot by Simon Benoit,2022-11-10T03:47:08Z,1,15:35,04:25,0,0,24.0,Anaheim Ducks,ANA
+66,24,30,Anaheim Ducks,Minnesota Wild,2022020210240,2022020210,Giveaway,240,GIVEAWAY,Giveaway by Matt Boldy,2022-11-10T03:47:29Z,1,15:56,04:04,0,0,30.0,Minnesota Wild,MIN
+67,24,30,Anaheim Ducks,Minnesota Wild,202202021016,2022020210,Hit,16,HIT,John Klingberg hit Matt Boldy,2022-11-10T03:47:39Z,1,16:06,03:54,0,0,24.0,Anaheim Ducks,ANA
+68,24,30,Anaheim Ducks,Minnesota Wild,202202021017,2022020210,Hit,17,HIT,Max Jones hit Mats Zuccarello,2022-11-10T03:48:03Z,1,16:30,03:30,0,0,24.0,Anaheim Ducks,ANA
+69,24,30,Anaheim Ducks,Minnesota Wild,2022020210158,2022020210,Hit,158,HIT,Kirill Kaprizov hit Dmitry Kulikov,2022-11-10T03:48:07Z,1,16:34,03:26,0,0,30.0,Minnesota Wild,MIN
+70,24,30,Anaheim Ducks,Minnesota Wild,2022020210241,2022020210,Shot,241,SHOT,Kirill Kaprizov Slap Shot saved by John Gibson,2022-11-10T03:48:39Z,1,17:06,02:54,0,0,30.0,Minnesota Wild,MIN
+71,24,30,Anaheim Ducks,Minnesota Wild,2022020210242,2022020210,Giveaway,242,GIVEAWAY,Giveaway by Frederick Gaudreau,2022-11-10T03:48:48Z,1,17:15,02:45,0,0,30.0,Minnesota Wild,MIN
+72,24,30,Anaheim Ducks,Minnesota Wild,2022020210243,2022020210,Shot,243,SHOT,Kirill Kaprizov Tip-In saved by John Gibson,2022-11-10T03:49:09Z,1,17:36,02:24,0,0,30.0,Minnesota Wild,MIN
+73,24,30,Anaheim Ducks,Minnesota Wild,2022020210244,2022020210,Blocked Shot,244,BLOCKED_SHOT,Mats Zuccarello shot blocked shot by Isac Lundestrom,2022-11-10T03:49:11Z,1,17:38,02:22,0,0,24.0,Anaheim Ducks,ANA
+74,24,30,Anaheim Ducks,Minnesota Wild,2022020210250,2022020210,Missed Shot,250,MISSED_SHOT,Mats Zuccarello Wide of Net John Gibson,2022-11-10T03:49:24Z,1,17:51,02:09,0,0,30.0,Minnesota Wild,MIN
+75,24,30,Anaheim Ducks,Minnesota Wild,2022020210159,2022020210,Stoppage,159,STOP,Icing,2022-11-10T03:49:53Z,1,18:20,01:40,0,0,,,
+76,24,30,Anaheim Ducks,Minnesota Wild,202202021060,2022020210,Faceoff,60,FACEOFF,Glenn Gawdin faceoff won against Marco Rossi,2022-11-10T03:50:37Z,1,18:20,01:40,0,0,24.0,Anaheim Ducks,ANA
+77,24,30,Anaheim Ducks,Minnesota Wild,2022020210245,2022020210,Missed Shot,245,MISSED_SHOT,Mason Shaw Wide of Net John Gibson,2022-11-10T03:50:46Z,1,18:29,01:31,0,0,30.0,Minnesota Wild,MIN
+78,24,30,Anaheim Ducks,Minnesota Wild,2022020210246,2022020210,Shot,246,SHOT,Kevin Shattenkirk Wrist Shot saved by Filip Gustavsson,2022-11-10T03:51:06Z,1,18:49,01:11,0,0,24.0,Anaheim Ducks,ANA
+79,24,30,Anaheim Ducks,Minnesota Wild,2022020210161,2022020210,Hit,161,HIT,Glenn Gawdin hit Jonas Brodin,2022-11-10T03:51:09Z,1,18:52,01:08,0,0,24.0,Anaheim Ducks,ANA
+80,24,30,Anaheim Ducks,Minnesota Wild,202202021018,2022020210,Hit,18,HIT,Frank Vatrano hit Calen Addison,2022-11-10T03:51:32Z,1,19:15,00:45,0,0,24.0,Anaheim Ducks,ANA
+81,24,30,Anaheim Ducks,Minnesota Wild,2022020210248,2022020210,Shot,248,SHOT,Joel Eriksson Ek Snap Shot saved by John Gibson,2022-11-10T03:51:38Z,1,19:21,00:39,0,0,30.0,Minnesota Wild,MIN
+82,24,30,Anaheim Ducks,Minnesota Wild,2022020210160,2022020210,Stoppage,160,STOP,Goalie Stopped,2022-11-10T03:51:40Z,1,19:22,00:38,0,0,,,
+83,24,30,Anaheim Ducks,Minnesota Wild,2022020210416,2022020210,Penalty,416,PENALTY,Nathan Beaulieu Roughing against Adam Beckman,2022-11-10T03:51:40Z,1,19:22,00:38,0,0,24.0,Anaheim Ducks,ANA
+84,24,30,Anaheim Ducks,Minnesota Wild,202202021061,2022020210,Faceoff,61,FACEOFF,Glenn Gawdin faceoff won against Joel Eriksson Ek,2022-11-10T03:52:58Z,1,19:22,00:38,0,0,24.0,Anaheim Ducks,ANA
+85,24,30,Anaheim Ducks,Minnesota Wild,2022020210249,2022020210,Giveaway,249,GIVEAWAY,Giveaway by Dmitry Kulikov,2022-11-10T03:53:23Z,1,19:47,00:13,0,0,24.0,Anaheim Ducks,ANA
+86,24,30,Anaheim Ducks,Minnesota Wild,202202021019,2022020210,Period End,19,PERIOD_END,End of 1st Period,2022-11-10T03:53:36Z,1,20:00,00:00,0,0,,,
+87,24,30,Anaheim Ducks,Minnesota Wild,202202021022,2022020210,Period Official,22,PERIOD_OFFICIAL,Period Official,2022-11-10T04:11:29Z,1,20:00,00:00,0,0,,,
+88,24,30,Anaheim Ducks,Minnesota Wild,202202021023,2022020210,Period Ready,23,PERIOD_READY,Period Ready,2022-11-10T04:12:15Z,2,00:00,20:00,0,0,,,
+89,24,30,Anaheim Ducks,Minnesota Wild,202202021062,2022020210,Period Start,62,PERIOD_START,Period Start,2022-11-10T04:12:34Z,2,00:00,20:00,0,0,,,
+90,24,30,Anaheim Ducks,Minnesota Wild,202202021063,2022020210,Faceoff,63,FACEOFF,Glenn Gawdin faceoff won against Joel Eriksson Ek,2022-11-10T04:12:34Z,2,00:00,20:00,0,0,24.0,Anaheim Ducks,ANA
+91,24,30,Anaheim Ducks,Minnesota Wild,2022020210351,2022020210,Shot,351,SHOT,Matt Boldy Wrist Shot saved by John Gibson,2022-11-10T04:13:45Z,2,01:11,18:49,0,0,30.0,Minnesota Wild,MIN
+92,24,30,Anaheim Ducks,Minnesota Wild,2022020210352,2022020210,Shot,352,SHOT,Joel Eriksson Ek Wrist Shot saved by John Gibson,2022-11-10T04:13:49Z,2,01:15,18:45,0,0,30.0,Minnesota Wild,MIN
+93,24,30,Anaheim Ducks,Minnesota Wild,2022020210353,2022020210,Shot,353,SHOT,Kirill Kaprizov Wrist Shot saved by John Gibson,2022-11-10T04:13:52Z,2,01:18,18:42,0,0,30.0,Minnesota Wild,MIN
+94,24,30,Anaheim Ducks,Minnesota Wild,2022020210424,2022020210,Penalty,424,PENALTY,Dmitry Kulikov Hooking against Joel Eriksson Ek,2022-11-10T04:13:54Z,2,01:20,18:40,0,0,24.0,Anaheim Ducks,ANA
+95,24,30,Anaheim Ducks,Minnesota Wild,202202021064,2022020210,Faceoff,64,FACEOFF,Jakob Silfverberg faceoff won against Joel Eriksson Ek,2022-11-10T04:14:41Z,2,01:20,18:40,0,0,24.0,Anaheim Ducks,ANA
+96,24,30,Anaheim Ducks,Minnesota Wild,2022020210162,2022020210,Stoppage,162,STOP,Puck in Netting,2022-11-10T04:14:59Z,2,01:39,18:21,0,0,,,
+97,24,30,Anaheim Ducks,Minnesota Wild,202202021065,2022020210,Faceoff,65,FACEOFF,Frederick Gaudreau faceoff won against Glenn Gawdin,2022-11-10T04:15:40Z,2,01:39,18:21,0,0,30.0,Minnesota Wild,MIN
+98,24,30,Anaheim Ducks,Minnesota Wild,2022020210355,2022020210,Shot,355,SHOT,Kirill Kaprizov Tip-In saved by John Gibson,2022-11-10T04:17:28Z,2,03:27,16:33,0,0,30.0,Minnesota Wild,MIN
+99,24,30,Anaheim Ducks,Minnesota Wild,202202021025,2022020210,Stoppage,25,STOP,Challenge Away: off-side,2022-11-10T04:17:33Z,2,03:32,16:28,0,0,,,
+100,24,30,Anaheim Ducks,Minnesota Wild,202202021026,2022020210,Official Challenge,26,CHALLENGE,Coach's Challenge,2022-11-10T04:17:33Z,2,03:32,16:28,0,0,30.0,Minnesota Wild,MIN
+101,24,30,Anaheim Ducks,Minnesota Wild,202202021027,2022020210,Stoppage,27,STOP,Offside,2022-11-10T04:17:33Z,2,03:32,16:28,0,0,,,
+102,24,30,Anaheim Ducks,Minnesota Wild,202202021066,2022020210,Faceoff,66,FACEOFF,Max Comtois faceoff won against Marco Rossi,2022-11-10T04:20:38Z,2,03:32,16:28,0,0,24.0,Anaheim Ducks,ANA
+103,24,30,Anaheim Ducks,Minnesota Wild,2022020210359,2022020210,Blocked Shot,359,BLOCKED_SHOT,Kevin Shattenkirk shot blocked shot by Mason Shaw,2022-11-10T04:21:01Z,2,03:55,16:05,0,0,30.0,Minnesota Wild,MIN
+104,24,30,Anaheim Ducks,Minnesota Wild,2022020210164,2022020210,Hit,164,HIT,Connor Dewar hit Nathan Beaulieu,2022-11-10T04:21:11Z,2,04:05,15:55,0,0,30.0,Minnesota Wild,MIN
+105,24,30,Anaheim Ducks,Minnesota Wild,2022020210449,2022020210,Penalty,449,PENALTY,Nathan Beaulieu Fighting against Connor Dewar,2022-11-10T04:21:18Z,2,04:12,15:48,0,0,24.0,Anaheim Ducks,ANA
+106,24,30,Anaheim Ducks,Minnesota Wild,2022020210553,2022020210,Penalty,553,PENALTY,Connor Dewar Fighting against Nathan Beaulieu,2022-11-10T04:21:18Z,2,04:12,15:48,0,0,30.0,Minnesota Wild,MIN
+107,24,30,Anaheim Ducks,Minnesota Wild,202202021067,2022020210,Faceoff,67,FACEOFF,Sam Steel faceoff won against Ryan Strome,2022-11-10T04:22:48Z,2,04:12,15:48,0,0,30.0,Minnesota Wild,MIN
+108,24,30,Anaheim Ducks,Minnesota Wild,2022020210360,2022020210,Blocked Shot,360,BLOCKED_SHOT,Mason McTavish shot blocked shot by Jared Spurgeon,2022-11-10T04:23:15Z,2,04:39,15:21,0,0,30.0,Minnesota Wild,MIN
+109,24,30,Anaheim Ducks,Minnesota Wild,2022020210361,2022020210,Missed Shot,361,MISSED_SHOT,Dmitry Kulikov Wide of Net Filip Gustavsson,2022-11-10T04:23:34Z,2,04:58,15:02,0,0,24.0,Anaheim Ducks,ANA
+110,24,30,Anaheim Ducks,Minnesota Wild,2022020210362,2022020210,Missed Shot,362,MISSED_SHOT,Mason McTavish Wide of Net Filip Gustavsson,2022-11-10T04:23:46Z,2,05:10,14:50,0,0,24.0,Anaheim Ducks,ANA
+111,24,30,Anaheim Ducks,Minnesota Wild,2022020210363,2022020210,Missed Shot,363,MISSED_SHOT,Joel Eriksson Ek Wide of Net John Gibson,2022-11-10T04:24:03Z,2,05:27,14:33,0,0,30.0,Minnesota Wild,MIN
+112,24,30,Anaheim Ducks,Minnesota Wild,2022020210365,2022020210,Shot,365,SHOT,Joel Eriksson Ek Tip-In saved by John Gibson,2022-11-10T04:24:05Z,2,05:29,14:31,0,0,30.0,Minnesota Wild,MIN
+113,24,30,Anaheim Ducks,Minnesota Wild,2022020210165,2022020210,Hit,165,HIT,Max Jones hit Jon Merrill,2022-11-10T04:24:51Z,2,06:15,13:45,0,0,24.0,Anaheim Ducks,ANA
+114,24,30,Anaheim Ducks,Minnesota Wild,2022020210364,2022020210,Missed Shot,364,MISSED_SHOT,Max Comtois Wide of Net Filip Gustavsson,2022-11-10T04:25:28Z,2,06:52,13:08,0,0,24.0,Anaheim Ducks,ANA
+115,24,30,Anaheim Ducks,Minnesota Wild,2022020210166,2022020210,Stoppage,166,STOP,TV timeout,2022-11-10T04:25:34Z,2,06:58,13:02,0,0,,,
+116,24,30,Anaheim Ducks,Minnesota Wild,2022020210586,2022020210,Penalty,586,PENALTY,Matt Dumba Tripping against Troy Terry,2022-11-10T04:25:34Z,2,06:58,13:02,0,0,30.0,Minnesota Wild,MIN
+117,24,30,Anaheim Ducks,Minnesota Wild,202202021068,2022020210,Faceoff,68,FACEOFF,Frederick Gaudreau faceoff won against Mason McTavish,2022-11-10T04:28:06Z,2,06:58,13:02,0,0,30.0,Minnesota Wild,MIN
+118,24,30,Anaheim Ducks,Minnesota Wild,2022020210366,2022020210,Shot,366,SHOT,Mason McTavish Wrist Shot saved by Filip Gustavsson,2022-11-10T04:28:28Z,2,07:20,12:40,0,0,24.0,Anaheim Ducks,ANA
+119,24,30,Anaheim Ducks,Minnesota Wild,2022020210367,2022020210,Shot,367,SHOT,Trevor Zegras Slap Shot saved by Filip Gustavsson,2022-11-10T04:28:59Z,2,07:51,12:09,0,0,24.0,Anaheim Ducks,ANA
+120,24,30,Anaheim Ducks,Minnesota Wild,2022020210368,2022020210,Shot,368,SHOT,Trevor Zegras Slap Shot saved by Filip Gustavsson,2022-11-10T04:29:11Z,2,08:03,11:57,0,0,24.0,Anaheim Ducks,ANA
+121,24,30,Anaheim Ducks,Minnesota Wild,2022020210369,2022020210,Missed Shot,369,MISSED_SHOT,Troy Terry Wide of Net Filip Gustavsson,2022-11-10T04:29:17Z,2,08:09,11:51,0,0,24.0,Anaheim Ducks,ANA
+122,24,30,Anaheim Ducks,Minnesota Wild,2022020210370,2022020210,Shot,370,SHOT,Trevor Zegras Snap Shot saved by Filip Gustavsson,2022-11-10T04:29:23Z,2,08:15,11:45,0,0,24.0,Anaheim Ducks,ANA
+123,24,30,Anaheim Ducks,Minnesota Wild,2022020210371,2022020210,Missed Shot,371,MISSED_SHOT,Troy Terry Wide of Net Filip Gustavsson,2022-11-10T04:29:34Z,2,08:26,11:34,0,0,24.0,Anaheim Ducks,ANA
+124,24,30,Anaheim Ducks,Minnesota Wild,2022020210167,2022020210,Stoppage,167,STOP,Puck in Netting,2022-11-10T04:29:46Z,2,08:37,11:23,0,0,,,
+125,24,30,Anaheim Ducks,Minnesota Wild,202202021069,2022020210,Faceoff,69,FACEOFF,Ryan Strome faceoff won against Marco Rossi,2022-11-10T04:30:15Z,2,08:37,11:23,0,0,24.0,Anaheim Ducks,ANA
+126,24,30,Anaheim Ducks,Minnesota Wild,2022020210372,2022020210,Takeaway,372,TAKEAWAY,Takeaway by Cam Fowler,2022-11-10T04:30:23Z,2,08:45,11:15,0,0,24.0,Anaheim Ducks,ANA
+127,24,30,Anaheim Ducks,Minnesota Wild,2022020210373,2022020210,Blocked Shot,373,BLOCKED_SHOT,Cam Fowler shot blocked shot by Marco Rossi,2022-11-10T04:30:35Z,2,08:57,11:03,0,0,30.0,Minnesota Wild,MIN
+128,24,30,Anaheim Ducks,Minnesota Wild,2022020210375,2022020210,Blocked Shot,375,BLOCKED_SHOT,Dmitry Kulikov shot blocked shot by Jake Middleton,2022-11-10T04:30:56Z,2,09:18,10:42,0,0,30.0,Minnesota Wild,MIN
+129,24,30,Anaheim Ducks,Minnesota Wild,2022020210374,2022020210,Giveaway,374,GIVEAWAY,Giveaway by Jon Merrill,2022-11-10T04:30:58Z,2,09:20,10:40,0,0,30.0,Minnesota Wild,MIN
+130,24,30,Anaheim Ducks,Minnesota Wild,202202021028,2022020210,Hit,28,HIT,Frank Vatrano hit Jake Middleton,2022-11-10T04:31:01Z,2,09:23,10:37,0,0,24.0,Anaheim Ducks,ANA
+131,24,30,Anaheim Ducks,Minnesota Wild,202202021029,2022020210,Hit,29,HIT,Dmitry Kulikov hit Matt Boldy,2022-11-10T04:31:07Z,2,09:29,10:31,0,0,24.0,Anaheim Ducks,ANA
+132,24,30,Anaheim Ducks,Minnesota Wild,2022020210168,2022020210,Stoppage,168,STOP,TV timeout,2022-11-10T04:31:45Z,2,10:07,09:53,0,0,,,
+133,24,30,Anaheim Ducks,Minnesota Wild,2022020210602,2022020210,Penalty,602,PENALTY,Max Jones Roughing against Matt Boldy,2022-11-10T04:31:45Z,2,10:07,09:53,0,0,24.0,Anaheim Ducks,ANA
+134,24,30,Anaheim Ducks,Minnesota Wild,2022020210606,2022020210,Penalty,606,PENALTY,Matt Boldy Roughing against Max Jones,2022-11-10T04:31:45Z,2,10:07,09:53,0,0,30.0,Minnesota Wild,MIN
+135,24,30,Anaheim Ducks,Minnesota Wild,2022020210610,2022020210,Penalty,610,PENALTY,Matt Boldy Roughing against Max Jones served by Mats Zuccarello,2022-11-10T04:31:45Z,2,10:07,09:53,0,0,30.0,Minnesota Wild,MIN
+136,24,30,Anaheim Ducks,Minnesota Wild,202202021070,2022020210,Faceoff,70,FACEOFF,Frederick Gaudreau faceoff won against Max Comtois,2022-11-10T04:36:15Z,2,10:07,09:53,0,0,30.0,Minnesota Wild,MIN
+137,24,30,Anaheim Ducks,Minnesota Wild,2022020210376,2022020210,Shot,376,SHOT,Troy Terry Backhand saved by Filip Gustavsson,2022-11-10T04:36:43Z,2,10:35,09:25,0,0,24.0,Anaheim Ducks,ANA
+138,24,30,Anaheim Ducks,Minnesota Wild,2022020210169,2022020210,Stoppage,169,STOP,Goalie Stopped,2022-11-10T04:36:43Z,2,10:36,09:24,0,0,,,
+139,24,30,Anaheim Ducks,Minnesota Wild,202202021071,2022020210,Faceoff,71,FACEOFF,Ryan Strome faceoff won against Joel Eriksson Ek,2022-11-10T04:37:10Z,2,10:36,09:24,0,0,24.0,Anaheim Ducks,ANA
+140,24,30,Anaheim Ducks,Minnesota Wild,2022020210377,2022020210,Blocked Shot,377,BLOCKED_SHOT,Troy Terry shot blocked shot by Jonas Brodin,2022-11-10T04:37:16Z,2,10:42,09:18,0,0,30.0,Minnesota Wild,MIN
+141,24,30,Anaheim Ducks,Minnesota Wild,2022020210378,2022020210,Shot,378,SHOT,Troy Terry Wrist Shot saved by Filip Gustavsson,2022-11-10T04:37:59Z,2,11:25,08:35,0,0,24.0,Anaheim Ducks,ANA
+142,24,30,Anaheim Ducks,Minnesota Wild,2022020210379,2022020210,Shot,379,SHOT,Mason McTavish Wrist Shot saved by Filip Gustavsson,2022-11-10T04:38:04Z,2,11:30,08:30,0,0,24.0,Anaheim Ducks,ANA
+143,24,30,Anaheim Ducks,Minnesota Wild,2022020210380,2022020210,Shot,380,SHOT,Troy Terry Wrist Shot saved by Filip Gustavsson,2022-11-10T04:38:13Z,2,11:39,08:21,0,0,24.0,Anaheim Ducks,ANA
+144,24,30,Anaheim Ducks,Minnesota Wild,2022020210381,2022020210,Shot,381,SHOT,John Klingberg Slap Shot saved by Filip Gustavsson,2022-11-10T04:38:18Z,2,11:44,08:16,0,0,24.0,Anaheim Ducks,ANA
+145,24,30,Anaheim Ducks,Minnesota Wild,202202021031,2022020210,Hit,31,HIT,Matt Dumba hit Max Comtois,2022-11-10T04:38:29Z,2,11:55,08:05,0,0,30.0,Minnesota Wild,MIN
+146,24,30,Anaheim Ducks,Minnesota Wild,2022020210382,2022020210,Shot,382,SHOT,Trevor Zegras Slap Shot saved by Filip Gustavsson,2022-11-10T04:38:41Z,2,12:07,07:53,0,0,24.0,Anaheim Ducks,ANA
+147,24,30,Anaheim Ducks,Minnesota Wild,202202021032,2022020210,Hit,32,HIT,Mason Shaw hit Troy Terry,2022-11-10T04:38:46Z,2,12:12,07:48,0,0,30.0,Minnesota Wild,MIN
+148,24,30,Anaheim Ducks,Minnesota Wild,2022020210383,2022020210,Giveaway,383,GIVEAWAY,Giveaway by Jake Middleton,2022-11-10T04:39:03Z,2,12:29,07:31,0,0,30.0,Minnesota Wild,MIN
+149,24,30,Anaheim Ducks,Minnesota Wild,2022020210384,2022020210,Missed Shot,384,MISSED_SHOT,Dmitry Kulikov Wide of Net Filip Gustavsson,2022-11-10T04:39:16Z,2,12:42,07:18,0,0,24.0,Anaheim Ducks,ANA
+150,24,30,Anaheim Ducks,Minnesota Wild,2022020210385,2022020210,Blocked Shot,385,BLOCKED_SHOT,Mats Zuccarello shot blocked shot by Dmitry Kulikov,2022-11-10T04:39:51Z,2,13:17,06:43,0,0,24.0,Anaheim Ducks,ANA
+151,24,30,Anaheim Ducks,Minnesota Wild,2022020210386,2022020210,Goal,386,GOAL,"Pavol Regenda (1) Snap Shot, assists: Frank Vatrano (2), Dmitry Kulikov (4)",2022-11-10T04:39:58Z,2,13:24,06:36,1,0,24.0,Anaheim Ducks,ANA
+152,24,30,Anaheim Ducks,Minnesota Wild,202202021072,2022020210,Faceoff,72,FACEOFF,Glenn Gawdin faceoff won against Sam Steel,2022-11-10T04:40:51Z,2,13:24,06:36,1,0,24.0,Anaheim Ducks,ANA
+153,24,30,Anaheim Ducks,Minnesota Wild,2022020210171,2022020210,Hit,171,HIT,John Klingberg hit Tyson Jost,2022-11-10T04:40:59Z,2,13:32,06:28,1,0,24.0,Anaheim Ducks,ANA
+154,24,30,Anaheim Ducks,Minnesota Wild,202202021034,2022020210,Hit,34,HIT,Joseph Cramarossa hit Simon Benoit,2022-11-10T04:41:02Z,2,13:35,06:25,1,0,30.0,Minnesota Wild,MIN
+155,24,30,Anaheim Ducks,Minnesota Wild,202202021035,2022020210,Hit,35,HIT,Sam Steel hit Isac Lundestrom,2022-11-10T04:41:03Z,2,13:36,06:24,1,0,30.0,Minnesota Wild,MIN
+156,24,30,Anaheim Ducks,Minnesota Wild,202202021036,2022020210,Hit,36,HIT,Isac Lundestrom hit Matt Dumba,2022-11-10T04:41:14Z,2,13:47,06:13,1,0,24.0,Anaheim Ducks,ANA
+157,24,30,Anaheim Ducks,Minnesota Wild,2022020210387,2022020210,Shot,387,SHOT,Glenn Gawdin Snap Shot saved by Filip Gustavsson,2022-11-10T04:41:34Z,2,14:07,05:53,1,0,24.0,Anaheim Ducks,ANA
+158,24,30,Anaheim Ducks,Minnesota Wild,2022020210388,2022020210,Blocked Shot,388,BLOCKED_SHOT,Jake Middleton shot blocked shot by John Klingberg,2022-11-10T04:42:07Z,2,14:40,05:20,1,0,24.0,Anaheim Ducks,ANA
+159,24,30,Anaheim Ducks,Minnesota Wild,2022020210172,2022020210,Stoppage,172,STOP,Offside,2022-11-10T04:42:19Z,2,14:52,05:08,1,0,,,
+160,24,30,Anaheim Ducks,Minnesota Wild,202202021073,2022020210,Faceoff,73,FACEOFF,Ryan Strome faceoff won against Joel Eriksson Ek,2022-11-10T04:44:37Z,2,14:52,05:08,1,0,24.0,Anaheim Ducks,ANA
+161,24,30,Anaheim Ducks,Minnesota Wild,2022020210173,2022020210,Stoppage,173,STOP,Icing,2022-11-10T04:44:45Z,2,15:00,05:00,1,0,,,
+162,24,30,Anaheim Ducks,Minnesota Wild,202202021074,2022020210,Faceoff,74,FACEOFF,Joel Eriksson Ek faceoff won against Ryan Strome,2022-11-10T04:45:10Z,2,15:00,05:00,1,0,30.0,Minnesota Wild,MIN
+163,24,30,Anaheim Ducks,Minnesota Wild,2022020210389,2022020210,Takeaway,389,TAKEAWAY,Takeaway by Pavol Regenda,2022-11-10T04:45:14Z,2,15:04,04:56,1,0,24.0,Anaheim Ducks,ANA
+164,24,30,Anaheim Ducks,Minnesota Wild,2022020210390,2022020210,Missed Shot,390,MISSED_SHOT,Joel Eriksson Ek Wide of Net John Gibson,2022-11-10T04:45:23Z,2,15:13,04:47,1,0,30.0,Minnesota Wild,MIN
+165,24,30,Anaheim Ducks,Minnesota Wild,2022020210391,2022020210,Shot,391,SHOT,Frank Vatrano Tip-In saved by Filip Gustavsson,2022-11-10T04:45:34Z,2,15:24,04:36,1,0,24.0,Anaheim Ducks,ANA
+166,24,30,Anaheim Ducks,Minnesota Wild,202202021037,2022020210,Hit,37,HIT,Frank Vatrano hit Matt Boldy,2022-11-10T04:45:48Z,2,15:38,04:22,1,0,24.0,Anaheim Ducks,ANA
+167,24,30,Anaheim Ducks,Minnesota Wild,2022020210392,2022020210,Shot,392,SHOT,Mats Zuccarello Snap Shot saved by John Gibson,2022-11-10T04:46:18Z,2,16:08,03:52,1,0,30.0,Minnesota Wild,MIN
+168,24,30,Anaheim Ducks,Minnesota Wild,2022020210175,2022020210,Stoppage,175,STOP,Goalie Stopped,2022-11-10T04:46:19Z,2,16:09,03:51,1,0,,,
+169,24,30,Anaheim Ducks,Minnesota Wild,202202021075,2022020210,Faceoff,75,FACEOFF,Isac Lundestrom faceoff won against Frederick Gaudreau,2022-11-10T04:46:48Z,2,16:09,03:51,1,0,24.0,Anaheim Ducks,ANA
+170,24,30,Anaheim Ducks,Minnesota Wild,2022020210751,2022020210,Penalty,751,PENALTY,Max Jones Hooking against Frederick Gaudreau,2022-11-10T04:47:03Z,2,16:24,03:36,1,0,24.0,Anaheim Ducks,ANA
+171,24,30,Anaheim Ducks,Minnesota Wild,202202021076,2022020210,Faceoff,76,FACEOFF,Joel Eriksson Ek faceoff won against Glenn Gawdin,2022-11-10T04:47:59Z,2,16:24,03:36,1,0,30.0,Minnesota Wild,MIN
+172,24,30,Anaheim Ducks,Minnesota Wild,2022020210393,2022020210,Goal,393,GOAL,"Kirill Kaprizov (9) Tip-In, assists: Matt Boldy (5), Calen Addison (8)",2022-11-10T04:48:12Z,2,16:37,03:23,1,1,30.0,Minnesota Wild,MIN
+173,24,30,Anaheim Ducks,Minnesota Wild,202202021077,2022020210,Faceoff,77,FACEOFF,Marco Rossi faceoff won against Trevor Zegras,2022-11-10T04:48:54Z,2,16:37,03:23,1,1,30.0,Minnesota Wild,MIN
+174,24,30,Anaheim Ducks,Minnesota Wild,2022020210394,2022020210,Takeaway,394,TAKEAWAY,Takeaway by Troy Terry,2022-11-10T04:49:18Z,2,17:01,02:59,1,1,24.0,Anaheim Ducks,ANA
+175,24,30,Anaheim Ducks,Minnesota Wild,2022020210176,2022020210,Stoppage,176,STOP,Icing,2022-11-10T04:49:26Z,2,17:09,02:51,1,1,,,
+176,24,30,Anaheim Ducks,Minnesota Wild,202202021078,2022020210,Faceoff,78,FACEOFF,Ryan Strome faceoff won against Marco Rossi,2022-11-10T04:49:58Z,2,17:09,02:51,1,1,24.0,Anaheim Ducks,ANA
+177,24,30,Anaheim Ducks,Minnesota Wild,2022020210395,2022020210,Missed Shot,395,MISSED_SHOT,Mason McTavish Wide of Net Filip Gustavsson,2022-11-10T04:50:04Z,2,17:15,02:45,1,1,24.0,Anaheim Ducks,ANA
+178,24,30,Anaheim Ducks,Minnesota Wild,2022020210177,2022020210,Hit,177,HIT,Frederick Gaudreau hit Frank Vatrano,2022-11-10T04:50:31Z,2,17:42,02:18,1,1,30.0,Minnesota Wild,MIN
+179,24,30,Anaheim Ducks,Minnesota Wild,2022020210396,2022020210,Shot,396,SHOT,Mats Zuccarello Wrist Shot saved by John Gibson,2022-11-10T04:50:58Z,2,18:09,01:51,1,1,30.0,Minnesota Wild,MIN
+180,24,30,Anaheim Ducks,Minnesota Wild,2022020210399,2022020210,Blocked Shot,399,BLOCKED_SHOT,Jared Spurgeon shot blocked shot by Troy Terry,2022-11-10T04:51:00Z,2,18:11,01:49,1,1,24.0,Anaheim Ducks,ANA
+181,24,30,Anaheim Ducks,Minnesota Wild,2022020210178,2022020210,Hit,178,HIT,Jon Merrill hit Max Comtois,2022-11-10T04:51:43Z,2,18:54,01:06,1,1,30.0,Minnesota Wild,MIN
+182,24,30,Anaheim Ducks,Minnesota Wild,2022020210397,2022020210,Blocked Shot,397,BLOCKED_SHOT,Jonas Brodin shot blocked shot by Pavol Regenda,2022-11-10T04:52:02Z,2,19:13,00:47,1,1,24.0,Anaheim Ducks,ANA
+183,24,30,Anaheim Ducks,Minnesota Wild,2022020210179,2022020210,Stoppage,179,STOP,Puck in Netting,2022-11-10T04:52:04Z,2,19:14,00:46,1,1,,,
+184,24,30,Anaheim Ducks,Minnesota Wild,202202021079,2022020210,Faceoff,79,FACEOFF,Sam Steel faceoff won against Glenn Gawdin,2022-11-10T04:52:39Z,2,19:14,00:46,1,1,30.0,Minnesota Wild,MIN
+185,24,30,Anaheim Ducks,Minnesota Wild,2022020210398,2022020210,Giveaway,398,GIVEAWAY,Giveaway by Cam Fowler,2022-11-10T04:53:10Z,2,19:46,00:14,1,1,24.0,Anaheim Ducks,ANA
+186,24,30,Anaheim Ducks,Minnesota Wild,202202021038,2022020210,Period End,38,PERIOD_END,End of 2nd Period,2022-11-10T04:53:24Z,2,20:00,00:00,1,1,,,
+187,24,30,Anaheim Ducks,Minnesota Wild,202202021041,2022020210,Period Official,41,PERIOD_OFFICIAL,Period Official,2022-11-10T05:10:47Z,2,20:00,00:00,1,1,,,
+188,24,30,Anaheim Ducks,Minnesota Wild,202202021042,2022020210,Period Ready,42,PERIOD_READY,Period Ready,2022-11-10T05:12:17Z,3,00:00,20:00,1,1,,,
+189,24,30,Anaheim Ducks,Minnesota Wild,202202021080,2022020210,Period Start,80,PERIOD_START,Period Start,2022-11-10T05:12:41Z,3,00:00,20:00,1,1,,,
+190,24,30,Anaheim Ducks,Minnesota Wild,202202021081,2022020210,Faceoff,81,FACEOFF,Frederick Gaudreau faceoff won against Isac Lundestrom,2022-11-10T05:12:41Z,3,00:00,20:00,1,1,30.0,Minnesota Wild,MIN
+191,24,30,Anaheim Ducks,Minnesota Wild,202202021043,2022020210,Hit,43,HIT,Jake Middleton hit Jakob Silfverberg,2022-11-10T05:13:06Z,3,00:25,19:35,1,1,30.0,Minnesota Wild,MIN
+192,24,30,Anaheim Ducks,Minnesota Wild,2022020210400,2022020210,Giveaway,400,GIVEAWAY,Giveaway by Jakob Silfverberg,2022-11-10T05:13:12Z,3,00:31,19:29,1,1,24.0,Anaheim Ducks,ANA
+193,24,30,Anaheim Ducks,Minnesota Wild,2022020210180,2022020210,Stoppage,180,STOP,Icing,2022-11-10T05:13:49Z,3,01:09,18:51,1,1,,,
+194,24,30,Anaheim Ducks,Minnesota Wild,202202021082,2022020210,Faceoff,82,FACEOFF,Marco Rossi faceoff won against Trevor Zegras,2022-11-10T05:14:17Z,3,01:09,18:51,1,1,30.0,Minnesota Wild,MIN
+195,24,30,Anaheim Ducks,Minnesota Wild,2022020210651,2022020210,Shot,651,SHOT,Matt Dumba Wrist Shot saved by John Gibson,2022-11-10T05:14:25Z,3,01:17,18:43,1,1,30.0,Minnesota Wild,MIN
+196,24,30,Anaheim Ducks,Minnesota Wild,2022020210652,2022020210,Missed Shot,652,MISSED_SHOT,Marco Rossi Wide of Net John Gibson,2022-11-10T05:14:28Z,3,01:20,18:40,1,1,30.0,Minnesota Wild,MIN
+197,24,30,Anaheim Ducks,Minnesota Wild,2022020210453,2022020210,Blocked Shot,453,BLOCKED_SHOT,Matt Dumba shot blocked shot by Max Comtois,2022-11-10T05:14:30Z,3,01:22,18:38,1,1,24.0,Anaheim Ducks,ANA
+198,24,30,Anaheim Ducks,Minnesota Wild,2022020210653,2022020210,Shot,653,SHOT,Connor Dewar Wrist Shot saved by John Gibson,2022-11-10T05:14:47Z,3,01:39,18:21,1,1,30.0,Minnesota Wild,MIN
+199,24,30,Anaheim Ducks,Minnesota Wild,2022020210654,2022020210,Goal,654,GOAL,"Matt Dumba (1) Wrist Shot, assists: Connor Dewar (4), Mason Shaw (2)",2022-11-10T05:14:49Z,3,01:41,18:19,1,2,30.0,Minnesota Wild,MIN
+200,24,30,Anaheim Ducks,Minnesota Wild,202202021083,2022020210,Faceoff,83,FACEOFF,Ryan Strome faceoff won against Sam Steel,2022-11-10T05:15:32Z,3,01:41,18:19,1,2,24.0,Anaheim Ducks,ANA
+201,24,30,Anaheim Ducks,Minnesota Wild,2022020210655,2022020210,Takeaway,655,TAKEAWAY,Takeaway by Tyson Jost,2022-11-10T05:16:08Z,3,02:17,17:43,1,2,30.0,Minnesota Wild,MIN
+202,24,30,Anaheim Ducks,Minnesota Wild,2022020210656,2022020210,Shot,656,SHOT,Sam Steel Snap Shot saved by John Gibson,2022-11-10T05:16:11Z,3,02:20,17:40,1,2,30.0,Minnesota Wild,MIN
+203,24,30,Anaheim Ducks,Minnesota Wild,2022020210794,2022020210,Penalty,794,PENALTY,John Klingberg Hooking against Tyson Jost,2022-11-10T05:16:13Z,3,02:22,17:38,1,2,24.0,Anaheim Ducks,ANA
+204,24,30,Anaheim Ducks,Minnesota Wild,202202021084,2022020210,Faceoff,84,FACEOFF,Joel Eriksson Ek faceoff won against Glenn Gawdin,2022-11-10T05:17:08Z,3,02:22,17:38,1,2,30.0,Minnesota Wild,MIN
+205,24,30,Anaheim Ducks,Minnesota Wild,2022020210798,2022020210,Penalty,798,PENALTY,Simon Benoit Holding against Kirill Kaprizov,2022-11-10T05:17:47Z,3,03:01,16:59,1,2,24.0,Anaheim Ducks,ANA
+206,24,30,Anaheim Ducks,Minnesota Wild,202202021085,2022020210,Faceoff,85,FACEOFF,Joel Eriksson Ek faceoff won against Isac Lundestrom,2022-11-10T05:18:36Z,3,03:01,16:59,1,2,30.0,Minnesota Wild,MIN
+207,24,30,Anaheim Ducks,Minnesota Wild,2022020210657,2022020210,Goal,657,GOAL,"Kirill Kaprizov (10) Wrist Shot, assists: Mats Zuccarello (8), Joel Eriksson Ek (6)",2022-11-10T05:18:58Z,3,03:23,16:37,1,3,30.0,Minnesota Wild,MIN
+208,24,30,Anaheim Ducks,Minnesota Wild,202202021086,2022020210,Faceoff,86,FACEOFF,Joel Eriksson Ek faceoff won against Isac Lundestrom,2022-11-10T05:19:44Z,3,03:23,16:37,1,3,30.0,Minnesota Wild,MIN
+209,24,30,Anaheim Ducks,Minnesota Wild,2022020210658,2022020210,Shot,658,SHOT,Joel Eriksson Ek Snap Shot saved by John Gibson,2022-11-10T05:20:08Z,3,03:47,16:13,1,3,30.0,Minnesota Wild,MIN
+210,24,30,Anaheim Ducks,Minnesota Wild,202202021044,2022020210,Hit,44,HIT,Dmitry Kulikov hit Adam Beckman,2022-11-10T05:20:42Z,3,04:21,15:39,1,3,24.0,Anaheim Ducks,ANA
+211,24,30,Anaheim Ducks,Minnesota Wild,2022020210659,2022020210,Giveaway,659,GIVEAWAY,Giveaway by Dmitry Kulikov,2022-11-10T05:20:55Z,3,04:34,15:26,1,3,24.0,Anaheim Ducks,ANA
+212,24,30,Anaheim Ducks,Minnesota Wild,2022020210660,2022020210,Takeaway,660,TAKEAWAY,Takeaway by John Klingberg,2022-11-10T05:21:14Z,3,04:53,15:07,1,3,24.0,Anaheim Ducks,ANA
+213,24,30,Anaheim Ducks,Minnesota Wild,2022020210864,2022020210,Penalty,864,PENALTY,John Klingberg Delaying Game - Puck over glass,2022-11-10T05:21:17Z,3,04:56,15:04,1,3,24.0,Anaheim Ducks,ANA
+214,24,30,Anaheim Ducks,Minnesota Wild,202202021087,2022020210,Faceoff,87,FACEOFF,Ryan Strome faceoff won against Joel Eriksson Ek,2022-11-10T05:22:06Z,3,04:56,15:04,1,3,24.0,Anaheim Ducks,ANA
+215,24,30,Anaheim Ducks,Minnesota Wild,2022020210661,2022020210,Shot,661,SHOT,Kirill Kaprizov Wrist Shot saved by John Gibson,2022-11-10T05:22:13Z,3,05:03,14:57,1,3,30.0,Minnesota Wild,MIN
+216,24,30,Anaheim Ducks,Minnesota Wild,2022020210662,2022020210,Takeaway,662,TAKEAWAY,Takeaway by Cam Fowler,2022-11-10T05:23:43Z,3,06:33,13:27,1,3,24.0,Anaheim Ducks,ANA
+217,24,30,Anaheim Ducks,Minnesota Wild,2022020210663,2022020210,Shot,663,SHOT,Frank Vatrano Backhand saved by Filip Gustavsson,2022-11-10T05:23:46Z,3,06:36,13:24,1,3,24.0,Anaheim Ducks,ANA
+218,24,30,Anaheim Ducks,Minnesota Wild,2022020210664,2022020210,Shot,664,SHOT,Adam Beckman Wrist Shot saved by John Gibson,2022-11-10T05:24:07Z,3,06:57,13:03,1,3,30.0,Minnesota Wild,MIN
+219,24,30,Anaheim Ducks,Minnesota Wild,2022020210665,2022020210,Blocked Shot,665,BLOCKED_SHOT,Jonas Brodin shot blocked shot by Frank Vatrano,2022-11-10T05:24:13Z,3,07:03,12:57,1,3,24.0,Anaheim Ducks,ANA
+220,24,30,Anaheim Ducks,Minnesota Wild,2022020210666,2022020210,Blocked Shot,666,BLOCKED_SHOT,Mason Shaw shot blocked shot by Simon Benoit,2022-11-10T05:24:27Z,3,07:17,12:43,1,3,24.0,Anaheim Ducks,ANA
+221,24,30,Anaheim Ducks,Minnesota Wild,2022020210667,2022020210,Shot,667,SHOT,Jared Spurgeon Slap Shot saved by John Gibson,2022-11-10T05:24:33Z,3,07:23,12:37,1,3,30.0,Minnesota Wild,MIN
+222,24,30,Anaheim Ducks,Minnesota Wild,2022020210181,2022020210,Stoppage,181,STOP,High Stick,2022-11-10T05:24:56Z,3,07:45,12:15,1,3,,,
+223,24,30,Anaheim Ducks,Minnesota Wild,202202021088,2022020210,Faceoff,88,FACEOFF,Sam Steel faceoff won against Ryan Strome,2022-11-10T05:27:10Z,3,07:45,12:15,1,3,30.0,Minnesota Wild,MIN
+224,24,30,Anaheim Ducks,Minnesota Wild,2022020210668,2022020210,Takeaway,668,TAKEAWAY,Takeaway by Joseph Cramarossa,2022-11-10T05:27:32Z,3,08:07,11:53,1,3,30.0,Minnesota Wild,MIN
+225,24,30,Anaheim Ducks,Minnesota Wild,2022020210669,2022020210,Shot,669,SHOT,Calen Addison Wrist Shot saved by John Gibson,2022-11-10T05:27:56Z,3,08:31,11:29,1,3,30.0,Minnesota Wild,MIN
+226,24,30,Anaheim Ducks,Minnesota Wild,2022020210670,2022020210,Shot,670,SHOT,Calen Addison Slap Shot saved by John Gibson,2022-11-10T05:28:03Z,3,08:38,11:22,1,3,30.0,Minnesota Wild,MIN
+227,24,30,Anaheim Ducks,Minnesota Wild,2022020210671,2022020210,Blocked Shot,671,BLOCKED_SHOT,Sam Steel shot blocked shot by Trevor Zegras,2022-11-10T05:28:14Z,3,08:49,11:11,1,3,24.0,Anaheim Ducks,ANA
+228,24,30,Anaheim Ducks,Minnesota Wild,2022020210672,2022020210,Giveaway,672,GIVEAWAY,Giveaway by Max Comtois,2022-11-10T05:28:19Z,3,08:54,11:06,1,3,24.0,Anaheim Ducks,ANA
+229,24,30,Anaheim Ducks,Minnesota Wild,2022020210673,2022020210,Shot,673,SHOT,Mason Shaw Slap Shot saved by John Gibson,2022-11-10T05:28:42Z,3,09:17,10:43,1,3,30.0,Minnesota Wild,MIN
+230,24,30,Anaheim Ducks,Minnesota Wild,2022020210182,2022020210,Stoppage,182,STOP,Goalie Stopped,2022-11-10T05:28:42Z,3,09:18,10:42,1,3,,,
+231,24,30,Anaheim Ducks,Minnesota Wild,202202021089,2022020210,Faceoff,89,FACEOFF,Frederick Gaudreau faceoff won against Isac Lundestrom,2022-11-10T05:29:19Z,3,09:18,10:42,1,3,30.0,Minnesota Wild,MIN
+232,24,30,Anaheim Ducks,Minnesota Wild,2022020210674,2022020210,Blocked Shot,674,BLOCKED_SHOT,Mats Zuccarello shot blocked shot by Dmitry Kulikov,2022-11-10T05:29:32Z,3,09:31,10:29,1,3,24.0,Anaheim Ducks,ANA
+233,24,30,Anaheim Ducks,Minnesota Wild,202202021045,2022020210,Hit,45,HIT,Jake Middleton hit Jakob Silfverberg,2022-11-10T05:29:45Z,3,09:44,10:16,1,3,30.0,Minnesota Wild,MIN
+234,24,30,Anaheim Ducks,Minnesota Wild,2022020210675,2022020210,Shot,675,SHOT,Cam Fowler Wrist Shot saved by Filip Gustavsson,2022-11-10T05:29:54Z,3,09:53,10:07,1,3,24.0,Anaheim Ducks,ANA
+235,24,30,Anaheim Ducks,Minnesota Wild,2022020210183,2022020210,Hit,183,HIT,Frank Vatrano hit Frederick Gaudreau,2022-11-10T05:29:59Z,3,09:58,10:02,1,3,24.0,Anaheim Ducks,ANA
+236,24,30,Anaheim Ducks,Minnesota Wild,2022020210676,2022020210,Shot,676,SHOT,Brett Leason Snap Shot saved by Filip Gustavsson,2022-11-10T05:30:23Z,3,10:22,09:38,1,3,24.0,Anaheim Ducks,ANA
+237,24,30,Anaheim Ducks,Minnesota Wild,2022020210677,2022020210,Missed Shot,677,MISSED_SHOT,Max Jones Wide of Net Filip Gustavsson,2022-11-10T05:30:27Z,3,10:26,09:34,1,3,24.0,Anaheim Ducks,ANA
+238,24,30,Anaheim Ducks,Minnesota Wild,2022020210678,2022020210,Missed Shot,678,MISSED_SHOT,Troy Terry Wide of Net Filip Gustavsson,2022-11-10T05:31:25Z,3,11:24,08:36,1,3,24.0,Anaheim Ducks,ANA
+239,24,30,Anaheim Ducks,Minnesota Wild,2022020210679,2022020210,Takeaway,679,TAKEAWAY,Takeaway by Jon Merrill,2022-11-10T05:31:35Z,3,11:34,08:26,1,3,30.0,Minnesota Wild,MIN
+240,24,30,Anaheim Ducks,Minnesota Wild,2022020210680,2022020210,Goal,680,GOAL,"Joseph Cramarossa (1) Wrist Shot, assists: Tyson Jost (3)",2022-11-10T05:31:43Z,3,11:42,08:18,1,4,30.0,Minnesota Wild,MIN
+241,24,30,Anaheim Ducks,Minnesota Wild,202202021090,2022020210,Faceoff,90,FACEOFF,Ryan Strome faceoff won against Frederick Gaudreau,2022-11-10T05:32:24Z,3,11:42,08:18,1,4,24.0,Anaheim Ducks,ANA
+242,24,30,Anaheim Ducks,Minnesota Wild,2022020210681,2022020210,Shot,681,SHOT,Jared Spurgeon Wrist Shot saved by John Gibson,2022-11-10T05:32:56Z,3,12:14,07:46,1,4,30.0,Minnesota Wild,MIN
+243,24,30,Anaheim Ducks,Minnesota Wild,2022020210184,2022020210,Stoppage,184,STOP,Goalie Stopped,2022-11-10T05:32:59Z,3,12:17,07:43,1,4,,,
+244,24,30,Anaheim Ducks,Minnesota Wild,202202021091,2022020210,Faceoff,91,FACEOFF,Frederick Gaudreau faceoff won against Isac Lundestrom,2022-11-10T05:35:27Z,3,12:17,07:43,1,4,30.0,Minnesota Wild,MIN
+245,24,30,Anaheim Ducks,Minnesota Wild,2022020210682,2022020210,Shot,682,SHOT,Kirill Kaprizov Snap Shot saved by John Gibson,2022-11-10T05:36:03Z,3,12:53,07:07,1,4,30.0,Minnesota Wild,MIN
+246,24,30,Anaheim Ducks,Minnesota Wild,2022020210683,2022020210,Giveaway,683,GIVEAWAY,Giveaway by Simon Benoit,2022-11-10T05:36:36Z,3,13:26,06:34,1,4,24.0,Anaheim Ducks,ANA
+247,24,30,Anaheim Ducks,Minnesota Wild,202202021046,2022020210,Hit,46,HIT,Mason Shaw hit Troy Terry,2022-11-10T05:36:47Z,3,13:37,06:23,1,4,30.0,Minnesota Wild,MIN
+248,24,30,Anaheim Ducks,Minnesota Wild,2022020210185,2022020210,Stoppage,185,STOP,TV timeout,2022-11-10T05:37:30Z,3,14:20,05:40,1,4,,,
+249,24,30,Anaheim Ducks,Minnesota Wild,2022020210946,2022020210,Penalty,946,PENALTY,Ryan Strome Tripping against Jonas Brodin,2022-11-10T05:37:30Z,3,14:20,05:40,1,4,24.0,Anaheim Ducks,ANA
+250,24,30,Anaheim Ducks,Minnesota Wild,2022020210949,2022020210,Penalty,949,PENALTY,Matt Dumba Roughing against Ryan Strome,2022-11-10T05:37:30Z,3,14:20,05:40,1,4,30.0,Minnesota Wild,MIN
+251,24,30,Anaheim Ducks,Minnesota Wild,202202021092,2022020210,Faceoff,92,FACEOFF,Joel Eriksson Ek faceoff won against Trevor Zegras,2022-11-10T05:40:30Z,3,14:20,05:40,1,4,30.0,Minnesota Wild,MIN
+252,24,30,Anaheim Ducks,Minnesota Wild,2022020210684,2022020210,Giveaway,684,GIVEAWAY,Giveaway by Jake Middleton,2022-11-10T05:40:44Z,3,14:34,05:26,1,4,30.0,Minnesota Wild,MIN
+253,24,30,Anaheim Ducks,Minnesota Wild,202202021047,2022020210,Hit,47,HIT,Jonas Brodin hit Pavol Regenda,2022-11-10T05:42:12Z,3,16:02,03:58,1,4,30.0,Minnesota Wild,MIN
+254,24,30,Anaheim Ducks,Minnesota Wild,2022020210685,2022020210,Giveaway,685,GIVEAWAY,Giveaway by Frank Vatrano,2022-11-10T05:42:21Z,3,16:11,03:49,1,4,24.0,Anaheim Ducks,ANA
+255,24,30,Anaheim Ducks,Minnesota Wild,2022020210686,2022020210,Shot,686,SHOT,Mats Zuccarello Backhand saved by John Gibson,2022-11-10T05:42:28Z,3,16:18,03:42,1,4,30.0,Minnesota Wild,MIN
+256,24,30,Anaheim Ducks,Minnesota Wild,202202021048,2022020210,Hit,48,HIT,Jared Spurgeon hit Frank Vatrano,2022-11-10T05:42:36Z,3,16:26,03:34,1,4,30.0,Minnesota Wild,MIN
+257,24,30,Anaheim Ducks,Minnesota Wild,2022020210687,2022020210,Takeaway,687,TAKEAWAY,Takeaway by Adam Beckman,2022-11-10T05:43:25Z,3,17:15,02:45,1,4,30.0,Minnesota Wild,MIN
+258,24,30,Anaheim Ducks,Minnesota Wild,2022020210186,2022020210,Stoppage,186,STOP,Icing,2022-11-10T05:43:38Z,3,17:28,02:32,1,4,,,
+259,24,30,Anaheim Ducks,Minnesota Wild,202202021093,2022020210,Faceoff,93,FACEOFF,Glenn Gawdin faceoff won against Sam Steel,2022-11-10T05:44:07Z,3,17:28,02:32,1,4,24.0,Anaheim Ducks,ANA
+260,24,30,Anaheim Ducks,Minnesota Wild,202202021049,2022020210,Hit,49,HIT,Joseph Cramarossa hit John Klingberg,2022-11-10T05:44:13Z,3,17:34,02:26,1,4,30.0,Minnesota Wild,MIN
+261,24,30,Anaheim Ducks,Minnesota Wild,2022020210688,2022020210,Shot,688,SHOT,Jakob Silfverberg Snap Shot saved by Filip Gustavsson,2022-11-10T05:44:31Z,3,17:52,02:08,1,4,24.0,Anaheim Ducks,ANA
+262,24,30,Anaheim Ducks,Minnesota Wild,2022020210689,2022020210,Shot,689,SHOT,Max Jones Wrist Shot saved by Filip Gustavsson,2022-11-10T05:44:45Z,3,18:06,01:54,1,4,24.0,Anaheim Ducks,ANA
+263,24,30,Anaheim Ducks,Minnesota Wild,2022020210690,2022020210,Missed Shot,690,MISSED_SHOT,Dmitry Kulikov Wide of Net Filip Gustavsson,2022-11-10T05:44:57Z,3,18:18,01:42,1,4,24.0,Anaheim Ducks,ANA
+264,24,30,Anaheim Ducks,Minnesota Wild,2022020210691,2022020210,Missed Shot,691,MISSED_SHOT,Max Jones Wide of Net Filip Gustavsson,2022-11-10T05:44:57Z,3,18:18,01:42,1,4,24.0,Anaheim Ducks,ANA
+265,24,30,Anaheim Ducks,Minnesota Wild,2022020210692,2022020210,Shot,692,SHOT,Troy Terry Snap Shot saved by Filip Gustavsson,2022-11-10T05:45:22Z,3,18:43,01:17,1,4,24.0,Anaheim Ducks,ANA
+266,24,30,Anaheim Ducks,Minnesota Wild,2022020210187,2022020210,Stoppage,187,STOP,Goalie Stopped,2022-11-10T05:45:23Z,3,18:44,01:16,1,4,,,
+267,24,30,Anaheim Ducks,Minnesota Wild,202202021094,2022020210,Faceoff,94,FACEOFF,Trevor Zegras faceoff won against Marco Rossi,2022-11-10T05:45:51Z,3,18:44,01:16,1,4,24.0,Anaheim Ducks,ANA
+268,24,30,Anaheim Ducks,Minnesota Wild,2022020210693,2022020210,Shot,693,SHOT,Trevor Zegras Wrist Shot saved by Filip Gustavsson,2022-11-10T05:46:05Z,3,18:58,01:02,1,4,24.0,Anaheim Ducks,ANA
+269,24,30,Anaheim Ducks,Minnesota Wild,2022020210188,2022020210,Stoppage,188,STOP,Goalie Stopped,2022-11-10T05:46:07Z,3,18:59,01:01,1,4,,,
+270,24,30,Anaheim Ducks,Minnesota Wild,2022020210505,2022020210,Penalty,505,PENALTY,Jake Middleton Roughing against Max Comtois,2022-11-10T05:46:07Z,3,18:59,01:01,1,4,30.0,Minnesota Wild,MIN
+271,24,30,Anaheim Ducks,Minnesota Wild,2022020210508,2022020210,Penalty,508,PENALTY,Connor Dewar Roughing against Trevor Zegras,2022-11-10T05:46:07Z,3,18:59,01:01,1,4,30.0,Minnesota Wild,MIN
+272,24,30,Anaheim Ducks,Minnesota Wild,2022020210511,2022020210,Penalty,511,PENALTY,Trevor Zegras Roughing against Connor Dewar,2022-11-10T05:46:07Z,3,18:59,01:01,1,4,24.0,Anaheim Ducks,ANA
+273,24,30,Anaheim Ducks,Minnesota Wild,2022020210514,2022020210,Penalty,514,PENALTY,Simon Benoit Roughing against Mason Shaw,2022-11-10T05:46:07Z,3,18:59,01:01,1,4,24.0,Anaheim Ducks,ANA
+274,24,30,Anaheim Ducks,Minnesota Wild,2022020210523,2022020210,Penalty,523,PENALTY,Mason Shaw Misconduct,2022-11-10T05:46:07Z,3,18:59,01:01,1,4,30.0,Minnesota Wild,MIN
+275,24,30,Anaheim Ducks,Minnesota Wild,2022020210525,2022020210,Penalty,525,PENALTY,Jake Middleton Misconduct,2022-11-10T05:46:07Z,3,18:59,01:01,1,4,30.0,Minnesota Wild,MIN
+276,24,30,Anaheim Ducks,Minnesota Wild,2022020210527,2022020210,Penalty,527,PENALTY,Connor Dewar Misconduct,2022-11-10T05:46:07Z,3,18:59,01:01,1,4,30.0,Minnesota Wild,MIN
+277,24,30,Anaheim Ducks,Minnesota Wild,2022020210529,2022020210,Penalty,529,PENALTY,Max Comtois Misconduct,2022-11-10T05:46:07Z,3,18:59,01:01,1,4,24.0,Anaheim Ducks,ANA
+278,24,30,Anaheim Ducks,Minnesota Wild,2022020210531,2022020210,Penalty,531,PENALTY,Trevor Zegras Misconduct,2022-11-10T05:46:07Z,3,18:59,01:01,1,4,24.0,Anaheim Ducks,ANA
+279,24,30,Anaheim Ducks,Minnesota Wild,2022020210533,2022020210,Penalty,533,PENALTY,Simon Benoit Misconduct,2022-11-10T05:46:07Z,3,18:59,01:01,1,4,24.0,Anaheim Ducks,ANA
+280,24,30,Anaheim Ducks,Minnesota Wild,20220202101040,2022020210,Penalty,1040,PENALTY,Mason Shaw Roughing against Max Comtois,2022-11-10T05:46:07Z,3,18:59,01:01,1,4,30.0,Minnesota Wild,MIN
+281,24,30,Anaheim Ducks,Minnesota Wild,20220202101044,2022020210,Penalty,1044,PENALTY,Max Comtois Roughing against Mason Shaw,2022-11-10T05:46:07Z,3,18:59,01:01,1,4,24.0,Anaheim Ducks,ANA
+282,24,30,Anaheim Ducks,Minnesota Wild,20220202101049,2022020210,Penalty,1049,PENALTY,Jake Middleton Roughing against Trevor Zegras served by Kirill Kaprizov,2022-11-10T05:46:07Z,3,18:59,01:01,1,4,30.0,Minnesota Wild,MIN
+283,24,30,Anaheim Ducks,Minnesota Wild,202202021095,2022020210,Faceoff,95,FACEOFF,Ryan Strome faceoff won against Sam Steel,2022-11-10T05:51:03Z,3,18:59,01:01,1,4,24.0,Anaheim Ducks,ANA
+284,24,30,Anaheim Ducks,Minnesota Wild,2022020210694,2022020210,Blocked Shot,694,BLOCKED_SHOT,Frank Vatrano shot blocked shot by Matt Dumba,2022-11-10T05:51:23Z,3,19:19,00:41,1,4,30.0,Minnesota Wild,MIN
+285,24,30,Anaheim Ducks,Minnesota Wild,2022020210695,2022020210,Blocked Shot,695,BLOCKED_SHOT,John Klingberg shot blocked shot by Matt Dumba,2022-11-10T05:51:58Z,3,19:54,00:06,1,4,30.0,Minnesota Wild,MIN
+286,24,30,Anaheim Ducks,Minnesota Wild,202202021050,2022020210,Period End,50,PERIOD_END,End of 3rd Period,2022-11-10T05:52:04Z,3,20:00,00:00,1,4,,,
+287,24,30,Anaheim Ducks,Minnesota Wild,2022020210521,2022020210,Period Official,521,PERIOD_OFFICIAL,Period Official,2022-11-10T05:59:11Z,3,20:00,00:00,1,4,,,
+288,24,30,Anaheim Ducks,Minnesota Wild,2022020210522,2022020210,Game End,522,GAME_END,Game End,2022-11-10T05:59:13Z,3,20:00,00:00,1,4,,,
+289,24,30,Anaheim Ducks,Minnesota Wild,20220202101332,2022020210,Game Official,1332,GAME_OFFICIAL,Game Official,2022-11-21T23:44:46Z,3,20:00,00:00,1,4,,,

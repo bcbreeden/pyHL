@@ -1,0 +1,330 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,30,29,Minnesota Wild,Columbus Blue Jackets,20220209481,2022020948,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-02-26T18:20:19Z,1,00:00,20:00,0,0,,,
+1,30,29,Minnesota Wild,Columbus Blue Jackets,20220209485,2022020948,Period Ready,5,PERIOD_READY,Period Ready,2023-02-26T19:08:25Z,1,00:00,20:00,0,0,,,
+2,30,29,Minnesota Wild,Columbus Blue Jackets,20220209488,2022020948,Period Start,8,PERIOD_START,Period Start,2023-02-26T19:08:31Z,1,00:00,20:00,0,0,,,
+3,30,29,Minnesota Wild,Columbus Blue Jackets,20220209489,2022020948,Faceoff,9,FACEOFF,Sean Kuraly faceoff won against Ryan Hartman,2023-02-26T19:08:32Z,1,00:00,20:00,0,0,29.0,Columbus Blue Jackets,CBJ
+4,30,29,Minnesota Wild,Columbus Blue Jackets,202202094810,2022020948,Shot,10,SHOT,Jon Merrill Snap Shot saved by Elvis Merzlikins,2023-02-26T19:08:43Z,1,00:11,19:49,0,0,30.0,Minnesota Wild,MIN
+5,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948101,2022020948,Giveaway,101,GIVEAWAY,Giveaway by Elvis Merzlikins,2023-02-26T19:09:08Z,1,00:36,19:24,0,0,29.0,Columbus Blue Jackets,CBJ
+6,30,29,Minnesota Wild,Columbus Blue Jackets,202202094811,2022020948,Shot,11,SHOT,Ryan Hartman Snap Shot saved by Elvis Merzlikins,2023-02-26T19:09:13Z,1,00:41,19:19,0,0,30.0,Minnesota Wild,MIN
+7,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948151,2022020948,Stoppage,151,STOP,Puck in Crowd,2023-02-26T19:09:47Z,1,01:16,18:44,0,0,,,
+8,30,29,Minnesota Wild,Columbus Blue Jackets,202202094812,2022020948,Faceoff,12,FACEOFF,Brandon Duhaime faceoff won against Jack Roslovic,2023-02-26T19:10:31Z,1,01:16,18:44,0,0,30.0,Minnesota Wild,MIN
+9,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948102,2022020948,Hit,102,HIT,Jordan Greenway hit Tim Berni,2023-02-26T19:10:38Z,1,01:23,18:37,0,0,30.0,Minnesota Wild,MIN
+10,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948152,2022020948,Blocked Shot,152,BLOCKED_SHOT,Brandon Duhaime shot blocked shot by Erik Gudbranson,2023-02-26T19:10:52Z,1,01:37,18:23,0,0,29.0,Columbus Blue Jackets,CBJ
+11,30,29,Minnesota Wild,Columbus Blue Jackets,202202094813,2022020948,Shot,13,SHOT,Jake Middleton Wrist Shot saved by Elvis Merzlikins,2023-02-26T19:10:57Z,1,01:42,18:18,0,0,30.0,Minnesota Wild,MIN
+12,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948103,2022020948,Hit,103,HIT,Mason Shaw hit Gavin Bayreuther,2023-02-26T19:11:31Z,1,02:16,17:44,0,0,30.0,Minnesota Wild,MIN
+13,30,29,Minnesota Wild,Columbus Blue Jackets,202202094814,2022020948,Blocked Shot,14,BLOCKED_SHOT,Kirill Marchenko shot blocked shot by Alex Goligoski,2023-02-26T19:11:37Z,1,02:22,17:38,0,0,30.0,Minnesota Wild,MIN
+14,30,29,Minnesota Wild,Columbus Blue Jackets,202202094815,2022020948,Blocked Shot,15,BLOCKED_SHOT,Billy Sweezey shot blocked shot by Connor Dewar,2023-02-26T19:11:45Z,1,02:30,17:30,0,0,30.0,Minnesota Wild,MIN
+15,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948104,2022020948,Hit,104,HIT,Nick Blankenburg hit Ryan Hartman,2023-02-26T19:12:45Z,1,03:30,16:30,0,0,29.0,Columbus Blue Jackets,CBJ
+16,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948105,2022020948,Hit,105,HIT,Marcus Foligno hit Jack Roslovic,2023-02-26T19:13:32Z,1,04:17,15:43,0,0,30.0,Minnesota Wild,MIN
+17,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948153,2022020948,Missed Shot,153,MISSED_SHOT,Patrik Laine Wide of Net Marc-Andre Fleury,2023-02-26T19:13:44Z,1,04:29,15:31,0,0,29.0,Columbus Blue Jackets,CBJ
+18,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948154,2022020948,Shot,154,SHOT,Gavin Bayreuther Snap Shot saved by Marc-Andre Fleury,2023-02-26T19:15:27Z,1,06:12,13:48,0,0,29.0,Columbus Blue Jackets,CBJ
+19,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948155,2022020948,Missed Shot,155,MISSED_SHOT,Cole Sillinger Wide of Net Marc-Andre Fleury,2023-02-26T19:15:31Z,1,06:16,13:44,0,0,29.0,Columbus Blue Jackets,CBJ
+20,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948156,2022020948,Stoppage,156,STOP,Icing,2023-02-26T19:15:36Z,1,06:21,13:39,0,0,,,
+21,30,29,Minnesota Wild,Columbus Blue Jackets,202202094816,2022020948,Faceoff,16,FACEOFF,Boone Jenner faceoff won against Connor Dewar,2023-02-26T19:16:07Z,1,06:21,13:39,0,0,29.0,Columbus Blue Jackets,CBJ
+22,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948157,2022020948,Blocked Shot,157,BLOCKED_SHOT,Ryan Hartman shot blocked shot by Andrew Peeke,2023-02-26T19:16:51Z,1,07:05,12:55,0,0,29.0,Columbus Blue Jackets,CBJ
+23,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948158,2022020948,Shot,158,SHOT,Andrew Peeke Wrist Shot saved by Marc-Andre Fleury,2023-02-26T19:17:08Z,1,07:22,12:38,0,0,29.0,Columbus Blue Jackets,CBJ
+24,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948159,2022020948,Stoppage,159,STOP,Goalie Stopped,2023-02-26T19:17:09Z,1,07:23,12:37,0,0,,,
+25,30,29,Minnesota Wild,Columbus Blue Jackets,202202094817,2022020948,Faceoff,17,FACEOFF,Joel Eriksson Ek faceoff won against Patrik Laine,2023-02-26T19:19:37Z,1,07:23,12:37,0,0,30.0,Minnesota Wild,MIN
+26,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948160,2022020948,Shot,160,SHOT,Tim Berni Snap Shot saved by Marc-Andre Fleury,2023-02-26T19:19:43Z,1,07:29,12:31,0,0,29.0,Columbus Blue Jackets,CBJ
+27,30,29,Minnesota Wild,Columbus Blue Jackets,202202094818,2022020948,Shot,18,SHOT,Jack Roslovic Backhand saved by Marc-Andre Fleury,2023-02-26T19:19:46Z,1,07:32,12:28,0,0,29.0,Columbus Blue Jackets,CBJ
+28,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948106,2022020948,Takeaway,106,TAKEAWAY,Takeaway by Marcus Foligno,2023-02-26T19:20:09Z,1,07:55,12:05,0,0,30.0,Minnesota Wild,MIN
+29,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948107,2022020948,Hit,107,HIT,Marcus Foligno hit Erik Gudbranson,2023-02-26T19:20:23Z,1,08:09,11:51,0,0,30.0,Minnesota Wild,MIN
+30,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948161,2022020948,Shot,161,SHOT,Joel Eriksson Ek Tip-In saved by Elvis Merzlikins,2023-02-26T19:20:23Z,1,08:09,11:51,0,0,30.0,Minnesota Wild,MIN
+31,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948108,2022020948,Hit,108,HIT,Tim Berni hit Marcus Foligno,2023-02-26T19:20:29Z,1,08:15,11:45,0,0,29.0,Columbus Blue Jackets,CBJ
+32,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948109,2022020948,Hit,109,HIT,Billy Sweezey hit Jordan Greenway,2023-02-26T19:21:00Z,1,08:46,11:14,0,0,29.0,Columbus Blue Jackets,CBJ
+33,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948162,2022020948,Stoppage,162,STOP,Puck Frozen,2023-02-26T19:21:06Z,1,08:53,11:07,0,0,,,
+34,30,29,Minnesota Wild,Columbus Blue Jackets,202202094820,2022020948,Faceoff,20,FACEOFF,Sean Kuraly faceoff won against Mats Zuccarello,2023-02-26T19:21:52Z,1,08:53,11:07,0,0,29.0,Columbus Blue Jackets,CBJ
+35,30,29,Minnesota Wild,Columbus Blue Jackets,202202094821,2022020948,Missed Shot,21,MISSED_SHOT,Kirill Kaprizov Wide of Net Elvis Merzlikins,2023-02-26T19:22:01Z,1,09:02,10:58,0,0,30.0,Minnesota Wild,MIN
+36,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948163,2022020948,Stoppage,163,STOP,Puck in Crowd,2023-02-26T19:22:01Z,1,09:03,10:57,0,0,,,
+37,30,29,Minnesota Wild,Columbus Blue Jackets,202202094822,2022020948,Faceoff,22,FACEOFF,Sean Kuraly faceoff won against Ryan Hartman,2023-02-26T19:22:24Z,1,09:03,10:57,0,0,29.0,Columbus Blue Jackets,CBJ
+38,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948110,2022020948,Hit,110,HIT,Jon Merrill hit Mathieu Olivier,2023-02-26T19:22:36Z,1,09:15,10:45,0,0,30.0,Minnesota Wild,MIN
+39,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948111,2022020948,Giveaway,111,GIVEAWAY,Giveaway by Eric Robinson,2023-02-26T19:22:45Z,1,09:24,10:36,0,0,29.0,Columbus Blue Jackets,CBJ
+40,30,29,Minnesota Wild,Columbus Blue Jackets,202202094823,2022020948,Missed Shot,23,MISSED_SHOT,Ryan Hartman Wide of Net Elvis Merzlikins,2023-02-26T19:22:47Z,1,09:26,10:34,0,0,30.0,Minnesota Wild,MIN
+41,30,29,Minnesota Wild,Columbus Blue Jackets,202202094824,2022020948,Shot,24,SHOT,Jared Spurgeon Wrist Shot saved by Elvis Merzlikins,2023-02-26T19:23:02Z,1,09:41,10:19,0,0,30.0,Minnesota Wild,MIN
+42,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948112,2022020948,Hit,112,HIT,Billy Sweezey hit Alex Goligoski,2023-02-26T19:23:30Z,1,10:09,09:51,0,0,29.0,Columbus Blue Jackets,CBJ
+43,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948113,2022020948,Hit,113,HIT,Ryan Reaves hit Gavin Bayreuther,2023-02-26T19:23:31Z,1,10:10,09:50,0,0,30.0,Minnesota Wild,MIN
+44,30,29,Minnesota Wild,Columbus Blue Jackets,202202094825,2022020948,Missed Shot,25,MISSED_SHOT,Matt Dumba Wide of Net Elvis Merzlikins,2023-02-26T19:24:02Z,1,10:41,09:19,0,0,30.0,Minnesota Wild,MIN
+45,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948164,2022020948,Hit,164,HIT,Marcus Foligno hit Andrew Peeke,2023-02-26T19:25:01Z,1,11:40,08:20,0,0,30.0,Minnesota Wild,MIN
+46,30,29,Minnesota Wild,Columbus Blue Jackets,202202094826,2022020948,Shot,26,SHOT,Jordan Greenway Snap Shot saved by Elvis Merzlikins,2023-02-26T19:25:32Z,1,12:11,07:49,0,0,30.0,Minnesota Wild,MIN
+47,30,29,Minnesota Wild,Columbus Blue Jackets,202202094827,2022020948,Shot,27,SHOT,Jared Spurgeon Wrist Shot saved by Elvis Merzlikins,2023-02-26T19:25:35Z,1,12:14,07:46,0,0,30.0,Minnesota Wild,MIN
+48,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948114,2022020948,Hit,114,HIT,Jake Middleton hit Emil Bemstrom,2023-02-26T19:25:43Z,1,12:22,07:38,0,0,30.0,Minnesota Wild,MIN
+49,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948115,2022020948,Hit,115,HIT,Jordan Greenway hit Billy Sweezey,2023-02-26T19:25:51Z,1,12:30,07:30,0,0,30.0,Minnesota Wild,MIN
+50,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948165,2022020948,Blocked Shot,165,BLOCKED_SHOT,Brandon Duhaime shot blocked shot by Gavin Bayreuther,2023-02-26T19:26:14Z,1,12:53,07:07,0,0,29.0,Columbus Blue Jackets,CBJ
+51,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948117,2022020948,Giveaway,117,GIVEAWAY,Giveaway by Mats Zuccarello,2023-02-26T19:26:53Z,1,13:32,06:28,0,0,30.0,Minnesota Wild,MIN
+52,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948118,2022020948,Takeaway,118,TAKEAWAY,Takeaway by Mats Zuccarello,2023-02-26T19:27:00Z,1,13:39,06:21,0,0,30.0,Minnesota Wild,MIN
+53,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948119,2022020948,Hit,119,HIT,Boone Jenner hit Jon Merrill,2023-02-26T19:27:18Z,1,13:57,06:03,0,0,29.0,Columbus Blue Jackets,CBJ
+54,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948166,2022020948,Stoppage,166,STOP,Offside,2023-02-26T19:27:18Z,1,13:57,06:03,0,0,,,
+55,30,29,Minnesota Wild,Columbus Blue Jackets,202202094828,2022020948,Faceoff,28,FACEOFF,Joel Eriksson Ek faceoff won against Boone Jenner,2023-02-26T19:29:34Z,1,13:57,06:03,0,0,30.0,Minnesota Wild,MIN
+56,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948167,2022020948,Shot,167,SHOT,Johnny Gaudreau Wrist Shot saved by Marc-Andre Fleury,2023-02-26T19:29:45Z,1,14:08,05:52,0,0,29.0,Columbus Blue Jackets,CBJ
+57,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948120,2022020948,Giveaway,120,GIVEAWAY,Giveaway by Matt Boldy,2023-02-26T19:29:46Z,1,14:09,05:51,0,0,30.0,Minnesota Wild,MIN
+58,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948168,2022020948,Stoppage,168,STOP,Goalie Stopped,2023-02-26T19:29:47Z,1,14:10,05:50,0,0,,,
+59,30,29,Minnesota Wild,Columbus Blue Jackets,202202094829,2022020948,Faceoff,29,FACEOFF,Boone Jenner faceoff won against Joel Eriksson Ek,2023-02-26T19:30:07Z,1,14:10,05:50,0,0,29.0,Columbus Blue Jackets,CBJ
+60,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948169,2022020948,Stoppage,169,STOP,Puck in Benches,2023-02-26T19:30:12Z,1,14:16,05:44,0,0,,,
+61,30,29,Minnesota Wild,Columbus Blue Jackets,202202094830,2022020948,Faceoff,30,FACEOFF,Joel Eriksson Ek faceoff won against Boone Jenner,2023-02-26T19:30:29Z,1,14:16,05:44,0,0,30.0,Minnesota Wild,MIN
+62,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948121,2022020948,Hit,121,HIT,Nick Blankenburg hit Matt Boldy,2023-02-26T19:30:39Z,1,14:26,05:34,0,0,29.0,Columbus Blue Jackets,CBJ
+63,30,29,Minnesota Wild,Columbus Blue Jackets,202202094831,2022020948,Missed Shot,31,MISSED_SHOT,Marcus Foligno Wide of Net Elvis Merzlikins,2023-02-26T19:30:50Z,1,14:37,05:23,0,0,30.0,Minnesota Wild,MIN
+64,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948170,2022020948,Stoppage,170,STOP,Icing,2023-02-26T19:31:28Z,1,15:15,04:45,0,0,,,
+65,30,29,Minnesota Wild,Columbus Blue Jackets,202202094832,2022020948,Faceoff,32,FACEOFF,Jack Roslovic faceoff won against Joel Eriksson Ek,2023-02-26T19:32:00Z,1,15:15,04:45,0,0,29.0,Columbus Blue Jackets,CBJ
+66,30,29,Minnesota Wild,Columbus Blue Jackets,202202094833,2022020948,Blocked Shot,33,BLOCKED_SHOT,Erik Gudbranson shot blocked shot by Marcus Foligno,2023-02-26T19:32:04Z,1,15:19,04:41,0,0,30.0,Minnesota Wild,MIN
+67,30,29,Minnesota Wild,Columbus Blue Jackets,202202094834,2022020948,Shot,34,SHOT,Joel Eriksson Ek Wrist Shot saved by Elvis Merzlikins,2023-02-26T19:32:22Z,1,15:37,04:23,0,0,30.0,Minnesota Wild,MIN
+68,30,29,Minnesota Wild,Columbus Blue Jackets,202202094835,2022020948,Shot,35,SHOT,Matt Dumba Slap Shot saved by Elvis Merzlikins,2023-02-26T19:32:28Z,1,15:43,04:17,0,0,30.0,Minnesota Wild,MIN
+69,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948171,2022020948,Stoppage,171,STOP,Goalie Stopped,2023-02-26T19:32:29Z,1,15:44,04:16,0,0,,,
+70,30,29,Minnesota Wild,Columbus Blue Jackets,202202094836,2022020948,Faceoff,36,FACEOFF,Ryan Reaves faceoff won against Sean Kuraly,2023-02-26T19:35:07Z,1,15:44,04:16,0,0,30.0,Minnesota Wild,MIN
+71,30,29,Minnesota Wild,Columbus Blue Jackets,202202094837,2022020948,Shot,37,SHOT,Alex Goligoski Snap Shot saved by Elvis Merzlikins,2023-02-26T19:35:11Z,1,15:48,04:12,0,0,30.0,Minnesota Wild,MIN
+72,30,29,Minnesota Wild,Columbus Blue Jackets,202202094838,2022020948,Shot,38,SHOT,Mason Shaw Wrist Shot saved by Elvis Merzlikins,2023-02-26T19:35:29Z,1,16:06,03:54,0,0,30.0,Minnesota Wild,MIN
+73,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948122,2022020948,Hit,122,HIT,Ryan Reaves hit Sean Kuraly,2023-02-26T19:35:35Z,1,16:12,03:48,0,0,30.0,Minnesota Wild,MIN
+74,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948123,2022020948,Giveaway,123,GIVEAWAY,Giveaway by Alex Goligoski,2023-02-26T19:35:42Z,1,16:19,03:41,0,0,30.0,Minnesota Wild,MIN
+75,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948172,2022020948,Goal,172,GOAL,"Mathieu Olivier (5) Wrist Shot, assists: Eric Robinson (10)",2023-02-26T19:35:44Z,1,16:20,03:40,0,1,29.0,Columbus Blue Jackets,CBJ
+76,30,29,Minnesota Wild,Columbus Blue Jackets,202202094839,2022020948,Faceoff,39,FACEOFF,Boone Jenner faceoff won against Ryan Hartman,2023-02-26T19:36:35Z,1,16:20,03:40,0,1,29.0,Columbus Blue Jackets,CBJ
+77,30,29,Minnesota Wild,Columbus Blue Jackets,202202094840,2022020948,Shot,40,SHOT,Ryan Hartman Snap Shot saved by Elvis Merzlikins,2023-02-26T19:36:42Z,1,16:27,03:33,0,1,30.0,Minnesota Wild,MIN
+78,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948173,2022020948,Stoppage,173,STOP,Puck Frozen,2023-02-26T19:36:44Z,1,16:30,03:30,0,1,,,
+79,30,29,Minnesota Wild,Columbus Blue Jackets,202202094841,2022020948,Faceoff,41,FACEOFF,Ryan Hartman faceoff won against Boone Jenner,2023-02-26T19:37:15Z,1,16:30,03:30,0,1,30.0,Minnesota Wild,MIN
+80,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948174,2022020948,Blocked Shot,174,BLOCKED_SHOT,Jake Middleton shot blocked shot by Kirill Marchenko,2023-02-26T19:37:25Z,1,16:40,03:20,0,1,29.0,Columbus Blue Jackets,CBJ
+81,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948124,2022020948,Hit,124,HIT,Jake Middleton hit Kirill Marchenko,2023-02-26T19:37:31Z,1,16:46,03:14,0,1,30.0,Minnesota Wild,MIN
+82,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948175,2022020948,Missed Shot,175,MISSED_SHOT,Andrew Peeke Wide of Net Marc-Andre Fleury,2023-02-26T19:37:44Z,1,16:59,03:01,0,1,29.0,Columbus Blue Jackets,CBJ
+83,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948126,2022020948,Giveaway,126,GIVEAWAY,Giveaway by Brandon Duhaime,2023-02-26T19:38:28Z,1,17:43,02:17,0,1,30.0,Minnesota Wild,MIN
+84,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948176,2022020948,Takeaway,176,TAKEAWAY,Takeaway by Frederick Gaudreau,2023-02-26T19:38:31Z,1,17:46,02:14,0,1,30.0,Minnesota Wild,MIN
+85,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948177,2022020948,Stoppage,177,STOP,Puck in Benches,2023-02-26T19:38:35Z,1,17:50,02:10,0,1,,,
+86,30,29,Minnesota Wild,Columbus Blue Jackets,202202094842,2022020948,Faceoff,42,FACEOFF,Joel Eriksson Ek faceoff won against Jack Roslovic,2023-02-26T19:39:10Z,1,17:50,02:10,0,1,30.0,Minnesota Wild,MIN
+87,30,29,Minnesota Wild,Columbus Blue Jackets,202202094843,2022020948,Shot,43,SHOT,Marcus Foligno Wrist Shot saved by Elvis Merzlikins,2023-02-26T19:39:30Z,1,18:10,01:50,0,1,30.0,Minnesota Wild,MIN
+88,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948178,2022020948,Blocked Shot,178,BLOCKED_SHOT,Alex Goligoski shot blocked shot by Jack Roslovic,2023-02-26T19:39:36Z,1,18:16,01:44,0,1,29.0,Columbus Blue Jackets,CBJ
+89,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948127,2022020948,Hit,127,HIT,Kirill Kaprizov hit Andrew Peeke,2023-02-26T19:40:36Z,1,19:16,00:44,0,1,30.0,Minnesota Wild,MIN
+90,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948179,2022020948,Shot,179,SHOT,Mathieu Olivier Wrap-around saved by Marc-Andre Fleury,2023-02-26T19:40:44Z,1,19:24,00:36,0,1,29.0,Columbus Blue Jackets,CBJ
+91,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948180,2022020948,Stoppage,180,STOP,Offside,2023-02-26T19:40:51Z,1,19:29,00:31,0,1,,,
+92,30,29,Minnesota Wild,Columbus Blue Jackets,202202094845,2022020948,Faceoff,45,FACEOFF,Ryan Hartman faceoff won against Boone Jenner,2023-02-26T19:41:13Z,1,19:29,00:31,0,1,30.0,Minnesota Wild,MIN
+93,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948128,2022020948,Giveaway,128,GIVEAWAY,Giveaway by Kirill Kaprizov,2023-02-26T19:41:20Z,1,19:36,00:24,0,1,30.0,Minnesota Wild,MIN
+94,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948181,2022020948,Blocked Shot,181,BLOCKED_SHOT,Mats Zuccarello shot blocked shot by Nick Blankenburg,2023-02-26T19:41:25Z,1,19:41,00:19,0,1,29.0,Columbus Blue Jackets,CBJ
+95,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948182,2022020948,Stoppage,182,STOP,Offside,2023-02-26T19:41:39Z,1,19:55,00:05,0,1,,,
+96,30,29,Minnesota Wild,Columbus Blue Jackets,202202094847,2022020948,Faceoff,47,FACEOFF,Emil Bemstrom faceoff won against Connor Dewar,2023-02-26T19:42:10Z,1,19:55,00:05,0,1,29.0,Columbus Blue Jackets,CBJ
+97,30,29,Minnesota Wild,Columbus Blue Jackets,202202094848,2022020948,Period End,48,PERIOD_END,End of 1st Period,2023-02-26T19:42:14Z,1,20:00,00:00,0,1,,,
+98,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948301,2022020948,Period Official,301,PERIOD_OFFICIAL,Period Official,2023-02-26T19:42:23Z,1,20:00,00:00,0,1,,,
+99,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948302,2022020948,Period Ready,302,PERIOD_READY,Period Ready,2023-02-26T20:01:52Z,2,00:00,20:00,0,1,,,
+100,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948303,2022020948,Period Start,303,PERIOD_START,Period Start,2023-02-26T20:01:52Z,2,00:00,20:00,0,1,,,
+101,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948304,2022020948,Faceoff,304,FACEOFF,Ryan Hartman faceoff won against Sean Kuraly,2023-02-26T20:01:52Z,2,00:00,20:00,0,1,30.0,Minnesota Wild,MIN
+102,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948183,2022020948,Shot,183,SHOT,Kirill Kaprizov Wrist Shot saved by Elvis Merzlikins,2023-02-26T20:02:03Z,2,00:11,19:49,0,1,30.0,Minnesota Wild,MIN
+103,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948129,2022020948,Hit,129,HIT,Calen Addison hit Mathieu Olivier,2023-02-26T20:02:22Z,2,00:30,19:30,0,1,30.0,Minnesota Wild,MIN
+104,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948305,2022020948,Shot,305,SHOT,Erik Gudbranson Wrist Shot saved by Marc-Andre Fleury,2023-02-26T20:02:27Z,2,00:35,19:25,0,1,29.0,Columbus Blue Jackets,CBJ
+105,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948306,2022020948,Shot,306,SHOT,Sean Kuraly Wrist Shot saved by Marc-Andre Fleury,2023-02-26T20:02:30Z,2,00:38,19:22,0,1,29.0,Columbus Blue Jackets,CBJ
+106,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948130,2022020948,Giveaway,130,GIVEAWAY,Giveaway by Calen Addison,2023-02-26T20:02:45Z,2,00:53,19:07,0,1,30.0,Minnesota Wild,MIN
+107,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948307,2022020948,Shot,307,SHOT,Jack Roslovic Snap Shot saved by Marc-Andre Fleury,2023-02-26T20:02:48Z,2,00:56,19:04,0,1,29.0,Columbus Blue Jackets,CBJ
+108,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948184,2022020948,Stoppage,184,STOP,Icing,2023-02-26T20:02:57Z,2,01:05,18:55,0,1,,,
+109,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948308,2022020948,Faceoff,308,FACEOFF,Joel Eriksson Ek faceoff won against Jack Roslovic,2023-02-26T20:03:22Z,2,01:05,18:55,0,1,30.0,Minnesota Wild,MIN
+110,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948309,2022020948,Shot,309,SHOT,Nick Blankenburg Slap Shot saved by Marc-Andre Fleury,2023-02-26T20:03:36Z,2,01:19,18:41,0,1,29.0,Columbus Blue Jackets,CBJ
+111,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948131,2022020948,Hit,131,HIT,Jordan Greenway hit Billy Sweezey,2023-02-26T20:04:29Z,2,02:12,17:48,0,1,30.0,Minnesota Wild,MIN
+112,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948132,2022020948,Giveaway,132,GIVEAWAY,Giveaway by Jon Merrill,2023-02-26T20:05:01Z,2,02:44,17:16,0,1,30.0,Minnesota Wild,MIN
+113,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948311,2022020948,Goal,311,GOAL,"Liam Foudy (2) Tip-In, assists: Erik Gudbranson (10), Emil Bemstrom (10)",2023-02-26T20:05:20Z,2,03:04,16:56,0,2,29.0,Columbus Blue Jackets,CBJ
+114,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948185,2022020948,Faceoff,185,FACEOFF,Sean Kuraly faceoff won against Connor Dewar,2023-02-26T20:05:58Z,2,03:04,16:56,0,2,29.0,Columbus Blue Jackets,CBJ
+115,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948133,2022020948,Hit,133,HIT,Mason Shaw hit Erik Gudbranson,2023-02-26T20:06:05Z,2,03:11,16:49,0,2,30.0,Minnesota Wild,MIN
+116,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948186,2022020948,Blocked Shot,186,BLOCKED_SHOT,Eric Robinson shot blocked shot by Jon Merrill,2023-02-26T20:06:14Z,2,03:20,16:40,0,2,30.0,Minnesota Wild,MIN
+117,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948187,2022020948,Blocked Shot,187,BLOCKED_SHOT,Eric Robinson shot blocked shot by Jon Merrill,2023-02-26T20:06:19Z,2,03:23,16:37,0,2,30.0,Minnesota Wild,MIN
+118,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948134,2022020948,Hit,134,HIT,Connor Dewar hit Sean Kuraly,2023-02-26T20:06:20Z,2,03:26,16:34,0,2,30.0,Minnesota Wild,MIN
+119,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948651,2022020948,Missed Shot,651,MISSED_SHOT,Sean Kuraly Wide of Net Marc-Andre Fleury,2023-02-26T20:06:33Z,2,03:39,16:21,0,2,29.0,Columbus Blue Jackets,CBJ
+120,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948652,2022020948,Blocked Shot,652,BLOCKED_SHOT,Nick Blankenburg shot blocked shot by Mason Shaw,2023-02-26T20:06:36Z,2,03:42,16:18,0,2,30.0,Minnesota Wild,MIN
+121,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948312,2022020948,Missed Shot,312,MISSED_SHOT,Sean Kuraly Wide of Net Marc-Andre Fleury,2023-02-26T20:06:49Z,2,03:55,16:05,0,2,29.0,Columbus Blue Jackets,CBJ
+122,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948313,2022020948,Shot,313,SHOT,Sean Kuraly Backhand saved by Marc-Andre Fleury,2023-02-26T20:06:50Z,2,03:56,16:04,0,2,29.0,Columbus Blue Jackets,CBJ
+123,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948135,2022020948,Giveaway,135,GIVEAWAY,Giveaway by Marc-Andre Fleury,2023-02-26T20:06:52Z,2,03:58,16:02,0,2,30.0,Minnesota Wild,MIN
+124,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948314,2022020948,Shot,314,SHOT,Andrew Peeke Slap Shot saved by Marc-Andre Fleury,2023-02-26T20:06:58Z,2,04:04,15:56,0,2,29.0,Columbus Blue Jackets,CBJ
+125,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948188,2022020948,Shot,188,SHOT,Ryan Hartman Snap Shot saved by Elvis Merzlikins,2023-02-26T20:07:06Z,2,04:12,15:48,0,2,30.0,Minnesota Wild,MIN
+126,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948189,2022020948,Shot,189,SHOT,Kirill Kaprizov Wrist Shot saved by Elvis Merzlikins,2023-02-26T20:07:09Z,2,04:15,15:45,0,2,30.0,Minnesota Wild,MIN
+127,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948136,2022020948,Hit,136,HIT,Kent Johnson hit Jared Spurgeon,2023-02-26T20:07:25Z,2,04:31,15:29,0,2,29.0,Columbus Blue Jackets,CBJ
+128,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948190,2022020948,Shot,190,SHOT,Jake Middleton Snap Shot saved by Elvis Merzlikins,2023-02-26T20:07:31Z,2,04:37,15:23,0,2,30.0,Minnesota Wild,MIN
+129,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948191,2022020948,Blocked Shot,191,BLOCKED_SHOT,Billy Sweezey shot blocked shot by Kirill Kaprizov,2023-02-26T20:07:46Z,2,04:52,15:08,0,2,30.0,Minnesota Wild,MIN
+130,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948192,2022020948,Shot,192,SHOT,Joel Eriksson Ek Snap Shot saved by Elvis Merzlikins,2023-02-26T20:07:54Z,2,05:00,15:00,0,2,30.0,Minnesota Wild,MIN
+131,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948137,2022020948,Hit,137,HIT,Marcus Foligno hit Billy Sweezey,2023-02-26T20:07:59Z,2,05:05,14:55,0,2,30.0,Minnesota Wild,MIN
+132,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948193,2022020948,Stoppage,193,STOP,Icing,2023-02-26T20:08:11Z,2,05:16,14:44,0,2,,,
+133,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948315,2022020948,Faceoff,315,FACEOFF,Jack Roslovic faceoff won against Joel Eriksson Ek,2023-02-26T20:08:39Z,2,05:16,14:44,0,2,29.0,Columbus Blue Jackets,CBJ
+134,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948194,2022020948,Shot,194,SHOT,Matt Boldy Wrist Shot saved by Elvis Merzlikins,2023-02-26T20:09:01Z,2,05:38,14:22,0,2,30.0,Minnesota Wild,MIN
+135,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948195,2022020948,Shot,195,SHOT,Joel Eriksson Ek Wrist Shot saved by Elvis Merzlikins,2023-02-26T20:09:05Z,2,05:42,14:18,0,2,30.0,Minnesota Wild,MIN
+136,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948196,2022020948,Shot,196,SHOT,Alex Goligoski Tip-In saved by Elvis Merzlikins,2023-02-26T20:09:21Z,2,05:58,14:02,0,2,30.0,Minnesota Wild,MIN
+137,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948197,2022020948,Stoppage,197,STOP,Goalie Stopped,2023-02-26T20:09:21Z,2,05:59,14:01,0,2,,,
+138,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948316,2022020948,Faceoff,316,FACEOFF,Frederick Gaudreau faceoff won against Cole Sillinger,2023-02-26T20:09:52Z,2,05:59,14:01,0,2,30.0,Minnesota Wild,MIN
+139,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948198,2022020948,Stoppage,198,STOP,Icing,2023-02-26T20:10:21Z,2,06:27,13:33,0,2,,,
+140,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948317,2022020948,Faceoff,317,FACEOFF,Frederick Gaudreau faceoff won against Boone Jenner,2023-02-26T20:10:44Z,2,06:27,13:33,0,2,30.0,Minnesota Wild,MIN
+141,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948138,2022020948,Giveaway,138,GIVEAWAY,Giveaway by Frederick Gaudreau,2023-02-26T20:10:59Z,2,06:42,13:18,0,2,30.0,Minnesota Wild,MIN
+142,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948139,2022020948,Takeaway,139,TAKEAWAY,Takeaway by Johnny Gaudreau,2023-02-26T20:11:12Z,2,06:55,13:05,0,2,29.0,Columbus Blue Jackets,CBJ
+143,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948318,2022020948,Shot,318,SHOT,Andrew Peeke Snap Shot saved by Marc-Andre Fleury,2023-02-26T20:11:32Z,2,07:15,12:45,0,2,29.0,Columbus Blue Jackets,CBJ
+144,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948199,2022020948,Stoppage,199,STOP,Goalie Stopped,2023-02-26T20:11:33Z,2,07:16,12:44,0,2,,,
+145,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948319,2022020948,Faceoff,319,FACEOFF,Connor Dewar faceoff won against Sean Kuraly,2023-02-26T20:13:51Z,2,07:16,12:44,0,2,30.0,Minnesota Wild,MIN
+146,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948200,2022020948,Stoppage,200,STOP,Icing,2023-02-26T20:13:57Z,2,07:23,12:37,0,2,,,
+147,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948320,2022020948,Faceoff,320,FACEOFF,Cole Sillinger faceoff won against Connor Dewar,2023-02-26T20:14:20Z,2,07:23,12:37,0,2,29.0,Columbus Blue Jackets,CBJ
+148,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948451,2022020948,Missed Shot,451,MISSED_SHOT,Jared Spurgeon Wide of Net Elvis Merzlikins,2023-02-26T20:14:38Z,2,07:41,12:19,0,2,30.0,Minnesota Wild,MIN
+149,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948452,2022020948,Shot,452,SHOT,Mason Shaw Wrist Shot saved by Elvis Merzlikins,2023-02-26T20:14:52Z,2,07:55,12:05,0,2,30.0,Minnesota Wild,MIN
+150,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948321,2022020948,Shot,321,SHOT,Liam Foudy Snap Shot saved by Marc-Andre Fleury,2023-02-26T20:15:14Z,2,08:17,11:43,0,2,29.0,Columbus Blue Jackets,CBJ
+151,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948453,2022020948,Shot,453,SHOT,Alex Goligoski Wrist Shot saved by Elvis Merzlikins,2023-02-26T20:15:22Z,2,08:25,11:35,0,2,30.0,Minnesota Wild,MIN
+152,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948454,2022020948,Blocked Shot,454,BLOCKED_SHOT,Emil Bemstrom shot blocked shot by Ryan Hartman,2023-02-26T20:15:28Z,2,08:31,11:29,0,2,30.0,Minnesota Wild,MIN
+153,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948455,2022020948,Blocked Shot,455,BLOCKED_SHOT,Eric Robinson shot blocked shot by Ryan Hartman,2023-02-26T20:15:36Z,2,08:35,11:25,0,2,30.0,Minnesota Wild,MIN
+154,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948140,2022020948,Hit,140,HIT,Tim Berni hit Mats Zuccarello,2023-02-26T20:15:47Z,2,08:50,11:10,0,2,29.0,Columbus Blue Jackets,CBJ
+155,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948142,2022020948,Takeaway,142,TAKEAWAY,Takeaway by Sean Kuraly,2023-02-26T20:16:18Z,2,09:21,10:39,0,2,29.0,Columbus Blue Jackets,CBJ
+156,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948456,2022020948,Missed Shot,456,MISSED_SHOT,Calen Addison Wide of Net Elvis Merzlikins,2023-02-26T20:16:27Z,2,09:30,10:30,0,2,30.0,Minnesota Wild,MIN
+157,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948457,2022020948,Stoppage,457,STOP,Puck in Crowd,2023-02-26T20:16:28Z,2,09:31,10:29,0,2,,,
+158,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948322,2022020948,Faceoff,322,FACEOFF,Boone Jenner faceoff won against Joel Eriksson Ek,2023-02-26T20:17:01Z,2,09:31,10:29,0,2,29.0,Columbus Blue Jackets,CBJ
+159,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948143,2022020948,Takeaway,143,TAKEAWAY,Takeaway by Matt Boldy,2023-02-26T20:17:52Z,2,10:22,09:38,0,2,30.0,Minnesota Wild,MIN
+160,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948458,2022020948,Stoppage,458,STOP,Puck in Crowd,2023-02-26T20:18:20Z,2,10:51,09:09,0,2,,,
+161,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948323,2022020948,Faceoff,323,FACEOFF,Boone Jenner faceoff won against Ryan Hartman,2023-02-26T20:20:34Z,2,10:51,09:09,0,2,29.0,Columbus Blue Jackets,CBJ
+162,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948556,2022020948,Penalty,556,PENALTY,Ryan Hartman Cross-checking against Erik Gudbranson,2023-02-26T20:20:49Z,2,11:05,08:55,0,2,30.0,Minnesota Wild,MIN
+163,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948324,2022020948,Faceoff,324,FACEOFF,Boone Jenner faceoff won against Frederick Gaudreau,2023-02-26T20:21:34Z,2,11:05,08:55,0,2,29.0,Columbus Blue Jackets,CBJ
+164,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948459,2022020948,Blocked Shot,459,BLOCKED_SHOT,Patrik Laine shot blocked shot by Jared Spurgeon,2023-02-26T20:21:41Z,2,11:12,08:48,0,2,30.0,Minnesota Wild,MIN
+165,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948144,2022020948,Giveaway,144,GIVEAWAY,Giveaway by Johnny Gaudreau,2023-02-26T20:22:19Z,2,11:50,08:10,0,2,29.0,Columbus Blue Jackets,CBJ
+166,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948145,2022020948,Giveaway,145,GIVEAWAY,Giveaway by Mason Shaw,2023-02-26T20:22:41Z,2,12:12,07:48,0,2,30.0,Minnesota Wild,MIN
+167,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948325,2022020948,Shot,325,SHOT,Patrik Laine Slap Shot saved by Marc-Andre Fleury,2023-02-26T20:22:42Z,2,12:13,07:47,0,2,29.0,Columbus Blue Jackets,CBJ
+168,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948460,2022020948,Missed Shot,460,MISSED_SHOT,Mason Shaw Wide of Net Elvis Merzlikins,2023-02-26T20:22:51Z,2,12:22,07:38,0,2,30.0,Minnesota Wild,MIN
+169,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948653,2022020948,Missed Shot,653,MISSED_SHOT,Boone Jenner Over Net Marc-Andre Fleury,2023-02-26T20:23:01Z,2,12:32,07:28,0,2,29.0,Columbus Blue Jackets,CBJ
+170,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948146,2022020948,Hit,146,HIT,Matt Dumba hit Gavin Bayreuther,2023-02-26T20:23:13Z,2,12:44,07:16,0,2,30.0,Minnesota Wild,MIN
+171,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948147,2022020948,Hit,147,HIT,Connor Dewar hit Kirill Marchenko,2023-02-26T20:23:40Z,2,13:11,06:49,0,2,30.0,Minnesota Wild,MIN
+172,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948461,2022020948,Stoppage,461,STOP,Puck in Benches,2023-02-26T20:23:40Z,2,13:12,06:48,0,2,,,
+173,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948327,2022020948,Faceoff,327,FACEOFF,Cole Sillinger faceoff won against Ryan Hartman,2023-02-26T20:24:17Z,2,13:12,06:48,0,2,29.0,Columbus Blue Jackets,CBJ
+174,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948329,2022020948,Shot,329,SHOT,Cole Sillinger Backhand saved by Marc-Andre Fleury,2023-02-26T20:24:37Z,2,13:32,06:28,0,2,29.0,Columbus Blue Jackets,CBJ
+175,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948148,2022020948,Hit,148,HIT,Nick Blankenburg hit Ryan Hartman,2023-02-26T20:25:25Z,2,14:20,05:40,0,2,29.0,Columbus Blue Jackets,CBJ
+176,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948462,2022020948,Stoppage,462,STOP,Offside,2023-02-26T20:25:31Z,2,14:26,05:34,0,2,,,
+177,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948330,2022020948,Faceoff,330,FACEOFF,Matt Boldy faceoff won against Sean Kuraly,2023-02-26T20:27:38Z,2,14:26,05:34,0,2,30.0,Minnesota Wild,MIN
+178,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948463,2022020948,Shot,463,SHOT,Calen Addison Slap Shot saved by Elvis Merzlikins,2023-02-26T20:28:14Z,2,15:02,04:58,0,2,30.0,Minnesota Wild,MIN
+179,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948331,2022020948,Blocked Shot,331,BLOCKED_SHOT,Jon Merrill shot blocked shot by Mathieu Olivier,2023-02-26T20:28:20Z,2,15:08,04:52,0,2,29.0,Columbus Blue Jackets,CBJ
+180,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948464,2022020948,Stoppage,464,STOP,Puck Frozen,2023-02-26T20:28:24Z,2,15:12,04:48,0,2,,,
+181,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948332,2022020948,Faceoff,332,FACEOFF,Boone Jenner faceoff won against Ryan Hartman,2023-02-26T20:29:10Z,2,15:12,04:48,0,2,29.0,Columbus Blue Jackets,CBJ
+182,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948465,2022020948,Missed Shot,465,MISSED_SHOT,Matt Dumba Wide of Net Elvis Merzlikins,2023-02-26T20:29:13Z,2,15:15,04:45,0,2,30.0,Minnesota Wild,MIN
+183,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948466,2022020948,Stoppage,466,STOP,Icing,2023-02-26T20:29:25Z,2,15:27,04:33,0,2,,,
+184,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948333,2022020948,Faceoff,333,FACEOFF,Boone Jenner faceoff won against Ryan Hartman,2023-02-26T20:29:50Z,2,15:27,04:33,0,2,29.0,Columbus Blue Jackets,CBJ
+185,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948149,2022020948,Hit,149,HIT,Kirill Kaprizov hit Erik Gudbranson,2023-02-26T20:30:09Z,2,15:46,04:14,0,2,30.0,Minnesota Wild,MIN
+186,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948467,2022020948,Blocked Shot,467,BLOCKED_SHOT,Kent Johnson shot blocked shot by Alex Goligoski,2023-02-26T20:30:19Z,2,15:56,04:04,0,2,30.0,Minnesota Wild,MIN
+187,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948150,2022020948,Hit,150,HIT,Billy Sweezey hit Matt Dumba,2023-02-26T20:30:32Z,2,16:09,03:51,0,2,29.0,Columbus Blue Jackets,CBJ
+188,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948468,2022020948,Shot,468,SHOT,Mats Zuccarello Wrist Shot saved by Elvis Merzlikins,2023-02-26T20:30:33Z,2,16:10,03:50,0,2,30.0,Minnesota Wild,MIN
+189,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948469,2022020948,Stoppage,469,STOP,Goalie Stopped,2023-02-26T20:30:34Z,2,16:11,03:49,0,2,,,
+190,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948334,2022020948,Faceoff,334,FACEOFF,Frederick Gaudreau faceoff won against Boone Jenner,2023-02-26T20:31:28Z,2,16:11,03:49,0,2,30.0,Minnesota Wild,MIN
+191,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948335,2022020948,Blocked Shot,335,BLOCKED_SHOT,Jake Middleton shot blocked shot by Nick Blankenburg,2023-02-26T20:31:32Z,2,16:15,03:45,0,2,29.0,Columbus Blue Jackets,CBJ
+192,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948336,2022020948,Blocked Shot,336,BLOCKED_SHOT,Jared Spurgeon shot blocked shot by Gavin Bayreuther,2023-02-26T20:32:00Z,2,16:43,03:17,0,2,29.0,Columbus Blue Jackets,CBJ
+193,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948654,2022020948,Missed Shot,654,MISSED_SHOT,Brandon Duhaime Wide of Net Elvis Merzlikins,2023-02-26T20:32:10Z,2,16:53,03:07,0,2,30.0,Minnesota Wild,MIN
+194,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948471,2022020948,Shot,471,SHOT,Jared Spurgeon Snap Shot saved by Elvis Merzlikins,2023-02-26T20:32:13Z,2,16:56,03:04,0,2,30.0,Minnesota Wild,MIN
+195,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948472,2022020948,Stoppage,472,STOP,Puck in Netting,2023-02-26T20:32:14Z,2,16:57,03:03,0,2,,,
+196,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948337,2022020948,Faceoff,337,FACEOFF,Sean Kuraly faceoff won against Joel Eriksson Ek,2023-02-26T20:32:41Z,2,16:57,03:03,0,2,29.0,Columbus Blue Jackets,CBJ
+197,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948401,2022020948,Hit,401,HIT,Eric Robinson hit Jon Merrill,2023-02-26T20:32:51Z,2,17:07,02:53,0,2,29.0,Columbus Blue Jackets,CBJ
+198,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948338,2022020948,Shot,338,SHOT,Kirill Marchenko Snap Shot saved by Marc-Andre Fleury,2023-02-26T20:33:56Z,2,18:12,01:48,0,2,29.0,Columbus Blue Jackets,CBJ
+199,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948473,2022020948,Stoppage,473,STOP,Goalie Stopped,2023-02-26T20:33:57Z,2,18:13,01:47,0,2,,,
+200,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948339,2022020948,Faceoff,339,FACEOFF,Boone Jenner faceoff won against Ryan Hartman,2023-02-26T20:34:35Z,2,18:13,01:47,0,2,29.0,Columbus Blue Jackets,CBJ
+201,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948402,2022020948,Giveaway,402,GIVEAWAY,Giveaway by Ryan Hartman,2023-02-26T20:34:44Z,2,18:22,01:38,0,2,30.0,Minnesota Wild,MIN
+202,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948474,2022020948,Blocked Shot,474,BLOCKED_SHOT,Kirill Marchenko shot blocked shot by Ryan Hartman,2023-02-26T20:34:47Z,2,18:25,01:35,0,2,30.0,Minnesota Wild,MIN
+203,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948403,2022020948,Takeaway,403,TAKEAWAY,Takeaway by Ryan Hartman,2023-02-26T20:35:02Z,2,18:40,01:20,0,2,30.0,Minnesota Wild,MIN
+204,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948340,2022020948,Missed Shot,340,MISSED_SHOT,Emil Bemstrom Wide of Net Marc-Andre Fleury,2023-02-26T20:35:33Z,2,19:11,00:49,0,2,29.0,Columbus Blue Jackets,CBJ
+205,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948404,2022020948,Hit,404,HIT,Cole Sillinger hit Alex Goligoski,2023-02-26T20:36:03Z,2,19:41,00:19,0,2,29.0,Columbus Blue Jackets,CBJ
+206,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948341,2022020948,Period End,341,PERIOD_END,End of 2nd Period,2023-02-26T20:36:23Z,2,20:00,00:00,0,2,,,
+207,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948344,2022020948,Period Official,344,PERIOD_OFFICIAL,Period Official,2023-02-26T20:36:27Z,2,20:00,00:00,0,2,,,
+208,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948345,2022020948,Period Ready,345,PERIOD_READY,Period Ready,2023-02-26T20:55:30Z,3,00:00,20:00,0,2,,,
+209,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948346,2022020948,Period Start,346,PERIOD_START,Period Start,2023-02-26T20:55:35Z,3,00:00,20:00,0,2,,,
+210,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948347,2022020948,Faceoff,347,FACEOFF,Sean Kuraly faceoff won against Ryan Hartman,2023-02-26T20:55:35Z,3,00:00,20:00,0,2,29.0,Columbus Blue Jackets,CBJ
+211,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948405,2022020948,Hit,405,HIT,Kirill Kaprizov hit Sean Kuraly,2023-02-26T20:55:49Z,3,00:14,19:46,0,2,30.0,Minnesota Wild,MIN
+212,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948348,2022020948,Shot,348,SHOT,Kirill Kaprizov Slap Shot saved by Elvis Merzlikins,2023-02-26T20:55:55Z,3,00:20,19:40,0,2,30.0,Minnesota Wild,MIN
+213,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948349,2022020948,Shot,349,SHOT,Calen Addison Snap Shot saved by Elvis Merzlikins,2023-02-26T20:56:03Z,3,00:28,19:32,0,2,30.0,Minnesota Wild,MIN
+214,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948350,2022020948,Shot,350,SHOT,Ryan Hartman Slap Shot saved by Elvis Merzlikins,2023-02-26T20:56:10Z,3,00:35,19:25,0,2,30.0,Minnesota Wild,MIN
+215,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948406,2022020948,Hit,406,HIT,Sean Kuraly hit Kirill Kaprizov,2023-02-26T20:56:11Z,3,00:36,19:24,0,2,29.0,Columbus Blue Jackets,CBJ
+216,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948601,2022020948,Shot,601,SHOT,Mats Zuccarello Snap Shot saved by Elvis Merzlikins,2023-02-26T20:56:21Z,3,00:46,19:14,0,2,30.0,Minnesota Wild,MIN
+217,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948655,2022020948,Missed Shot,655,MISSED_SHOT,Kirill Kaprizov Wide of Net Elvis Merzlikins,2023-02-26T20:56:23Z,3,00:48,19:12,0,2,30.0,Minnesota Wild,MIN
+218,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948407,2022020948,Giveaway,407,GIVEAWAY,Giveaway by Sean Kuraly,2023-02-26T20:56:26Z,3,00:51,19:09,0,2,29.0,Columbus Blue Jackets,CBJ
+219,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948602,2022020948,Missed Shot,602,MISSED_SHOT,Jared Spurgeon Wide of Net Elvis Merzlikins,2023-02-26T20:56:45Z,3,01:10,18:50,0,2,30.0,Minnesota Wild,MIN
+220,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948603,2022020948,Goal,603,GOAL,"Kirill Kaprizov (35) Deflected, assists: Jared Spurgeon (17), Ryan Hartman (13)",2023-02-26T20:56:50Z,3,01:15,18:45,1,2,30.0,Minnesota Wild,MIN
+221,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948475,2022020948,Faceoff,475,FACEOFF,Boone Jenner faceoff won against Joel Eriksson Ek,2023-02-26T20:57:47Z,3,01:15,18:45,1,2,29.0,Columbus Blue Jackets,CBJ
+222,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948408,2022020948,Hit,408,HIT,Marcus Foligno hit Nick Blankenburg,2023-02-26T20:58:05Z,3,01:33,18:27,1,2,30.0,Minnesota Wild,MIN
+223,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948604,2022020948,Blocked Shot,604,BLOCKED_SHOT,Gavin Bayreuther shot blocked shot by Marcus Foligno,2023-02-26T20:58:28Z,3,01:56,18:04,1,2,30.0,Minnesota Wild,MIN
+224,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948476,2022020948,Blocked Shot,476,BLOCKED_SHOT,Kirill Marchenko shot blocked shot by Jared Spurgeon,2023-02-26T20:58:33Z,3,02:01,17:59,1,2,30.0,Minnesota Wild,MIN
+225,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948409,2022020948,Takeaway,409,TAKEAWAY,Takeaway by Cole Sillinger,2023-02-26T20:59:30Z,3,02:58,17:02,1,2,29.0,Columbus Blue Jackets,CBJ
+226,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948477,2022020948,Hit,477,HIT,Jordan Greenway hit Cole Sillinger,2023-02-26T20:59:33Z,3,03:01,16:59,1,2,30.0,Minnesota Wild,MIN
+227,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948478,2022020948,Shot,478,SHOT,Emil Bemstrom Wrist Shot saved by Marc-Andre Fleury,2023-02-26T20:59:39Z,3,03:07,16:53,1,2,29.0,Columbus Blue Jackets,CBJ
+228,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948479,2022020948,Shot,479,SHOT,Tim Berni Wrist Shot saved by Marc-Andre Fleury,2023-02-26T21:00:01Z,3,03:29,16:31,1,2,29.0,Columbus Blue Jackets,CBJ
+229,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948606,2022020948,Missed Shot,606,MISSED_SHOT,Kirill Kaprizov Wide of Net Elvis Merzlikins,2023-02-26T21:00:21Z,3,03:49,16:11,1,2,30.0,Minnesota Wild,MIN
+230,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948480,2022020948,Stoppage,480,STOP,Puck Frozen,2023-02-26T21:00:23Z,3,03:51,16:09,1,2,,,
+231,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948607,2022020948,Faceoff,607,FACEOFF,Ryan Hartman faceoff won against Sean Kuraly,2023-02-26T21:00:49Z,3,03:51,16:09,1,2,30.0,Minnesota Wild,MIN
+232,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948608,2022020948,Shot,608,SHOT,Kirill Kaprizov Snap Shot saved by Elvis Merzlikins,2023-02-26T21:00:57Z,3,03:59,16:01,1,2,30.0,Minnesota Wild,MIN
+233,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948609,2022020948,Missed Shot,609,MISSED_SHOT,Calen Addison Wide of Net Elvis Merzlikins,2023-02-26T21:01:05Z,3,04:07,15:53,1,2,30.0,Minnesota Wild,MIN
+234,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948740,2022020948,Penalty,740,PENALTY,Nick Blankenburg High-sticking against Kirill Kaprizov,2023-02-26T21:01:06Z,3,04:09,15:51,1,2,29.0,Columbus Blue Jackets,CBJ
+235,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948610,2022020948,Faceoff,610,FACEOFF,Sean Kuraly faceoff won against Joel Eriksson Ek,2023-02-26T21:01:56Z,3,04:09,15:51,1,2,29.0,Columbus Blue Jackets,CBJ
+236,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948747,2022020948,Penalty,747,PENALTY,Liam Foudy High-sticking against Calen Addison,2023-02-26T21:02:49Z,3,05:02,14:58,1,2,29.0,Columbus Blue Jackets,CBJ
+237,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948611,2022020948,Faceoff,611,FACEOFF,Joel Eriksson Ek faceoff won against Boone Jenner,2023-02-26T21:04:05Z,3,05:02,14:58,1,2,30.0,Minnesota Wild,MIN
+238,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948612,2022020948,Shot,612,SHOT,Calen Addison Slap Shot saved by Elvis Merzlikins,2023-02-26T21:04:09Z,3,05:06,14:54,1,2,30.0,Minnesota Wild,MIN
+239,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948484,2022020948,Stoppage,484,STOP,Goalie Stopped,2023-02-26T21:04:11Z,3,05:08,14:52,1,2,,,
+240,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948613,2022020948,Faceoff,613,FACEOFF,Joel Eriksson Ek faceoff won against Boone Jenner,2023-02-26T21:04:34Z,3,05:08,14:52,1,2,30.0,Minnesota Wild,MIN
+241,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948614,2022020948,Shot,614,SHOT,Joel Eriksson Ek Tip-In saved by Elvis Merzlikins,2023-02-26T21:04:59Z,3,05:33,14:27,1,2,30.0,Minnesota Wild,MIN
+242,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948485,2022020948,Stoppage,485,STOP,Goalie Stopped,2023-02-26T21:05:01Z,3,05:35,14:25,1,2,,,
+243,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948616,2022020948,Faceoff,616,FACEOFF,Sean Kuraly faceoff won against Joel Eriksson Ek,2023-02-26T21:05:39Z,3,05:35,14:25,1,2,29.0,Columbus Blue Jackets,CBJ
+244,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948486,2022020948,Blocked Shot,486,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by Andrew Peeke,2023-02-26T21:06:01Z,3,05:57,14:03,1,2,29.0,Columbus Blue Jackets,CBJ
+245,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948487,2022020948,Stoppage,487,STOP,Puck in Crowd,2023-02-26T21:06:01Z,3,05:58,14:02,1,2,,,
+246,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948617,2022020948,Faceoff,617,FACEOFF,Joel Eriksson Ek faceoff won against Sean Kuraly,2023-02-26T21:06:28Z,3,05:58,14:02,1,2,30.0,Minnesota Wild,MIN
+247,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948618,2022020948,Goal,618,GOAL,"Kirill Kaprizov (36) Snap Shot, assists: Matt Boldy (24), Joel Eriksson Ek (26)",2023-02-26T21:06:30Z,3,06:00,14:00,2,2,30.0,Minnesota Wild,MIN
+248,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948488,2022020948,Faceoff,488,FACEOFF,Sean Kuraly faceoff won against Joel Eriksson Ek,2023-02-26T21:07:12Z,3,06:00,14:00,2,2,29.0,Columbus Blue Jackets,CBJ
+249,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948619,2022020948,Shot,619,SHOT,Matt Boldy Snap Shot saved by Elvis Merzlikins,2023-02-26T21:07:32Z,3,06:20,13:40,2,2,30.0,Minnesota Wild,MIN
+250,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948489,2022020948,Blocked Shot,489,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by Sean Kuraly,2023-02-26T21:07:35Z,3,06:23,13:37,2,2,29.0,Columbus Blue Jackets,CBJ
+251,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948490,2022020948,Stoppage,490,STOP,Puck in Netting,2023-02-26T21:07:36Z,3,06:24,13:36,2,2,,,
+252,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948620,2022020948,Faceoff,620,FACEOFF,Frederick Gaudreau faceoff won against Boone Jenner,2023-02-26T21:08:08Z,3,06:24,13:36,2,2,30.0,Minnesota Wild,MIN
+253,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948621,2022020948,Missed Shot,621,MISSED_SHOT,Frederick Gaudreau Wide of Net Elvis Merzlikins,2023-02-26T21:08:27Z,3,06:43,13:17,2,2,30.0,Minnesota Wild,MIN
+254,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948491,2022020948,Blocked Shot,491,BLOCKED_SHOT,Jared Spurgeon shot blocked shot by Jack Roslovic,2023-02-26T21:08:38Z,3,06:54,13:06,2,2,29.0,Columbus Blue Jackets,CBJ
+255,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948622,2022020948,Shot,622,SHOT,Frederick Gaudreau Wrist Shot saved by Elvis Merzlikins,2023-02-26T21:08:43Z,3,06:59,13:01,2,2,30.0,Minnesota Wild,MIN
+256,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948492,2022020948,Blocked Shot,492,BLOCKED_SHOT,Ryan Hartman shot blocked shot by Boone Jenner,2023-02-26T21:08:46Z,3,07:02,12:58,2,2,29.0,Columbus Blue Jackets,CBJ
+257,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948410,2022020948,Hit,410,HIT,Jake Middleton hit Liam Foudy,2023-02-26T21:09:04Z,3,07:20,12:40,2,2,30.0,Minnesota Wild,MIN
+258,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948411,2022020948,Hit,411,HIT,Jake Middleton hit Cole Sillinger,2023-02-26T21:09:37Z,3,07:53,12:07,2,2,30.0,Minnesota Wild,MIN
+259,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948817,2022020948,Penalty,817,PENALTY,Matt Dumba Hooking against Johnny Gaudreau,2023-02-26T21:09:43Z,3,07:59,12:01,2,2,30.0,Minnesota Wild,MIN
+260,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948623,2022020948,Faceoff,623,FACEOFF,Frederick Gaudreau faceoff won against Boone Jenner,2023-02-26T21:11:58Z,3,07:59,12:01,2,2,30.0,Minnesota Wild,MIN
+261,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948493,2022020948,Stoppage,493,STOP,Puck in Benches,2023-02-26T21:12:05Z,3,08:06,11:54,2,2,,,
+262,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948624,2022020948,Faceoff,624,FACEOFF,Frederick Gaudreau faceoff won against Boone Jenner,2023-02-26T21:12:26Z,3,08:06,11:54,2,2,30.0,Minnesota Wild,MIN
+263,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948625,2022020948,Blocked Shot,625,BLOCKED_SHOT,Nick Blankenburg shot blocked shot by Jake Middleton,2023-02-26T21:12:40Z,3,08:20,11:40,2,2,30.0,Minnesota Wild,MIN
+264,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948412,2022020948,Takeaway,412,TAKEAWAY,Takeaway by Jake Middleton,2023-02-26T21:13:01Z,3,08:41,11:19,2,2,30.0,Minnesota Wild,MIN
+265,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948626,2022020948,Shot,626,SHOT,Jake Middleton Wrist Shot saved by Elvis Merzlikins,2023-02-26T21:13:01Z,3,08:41,11:19,2,2,30.0,Minnesota Wild,MIN
+266,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948413,2022020948,Takeaway,413,TAKEAWAY,Takeaway by Connor Dewar,2023-02-26T21:13:17Z,3,08:57,11:03,2,2,30.0,Minnesota Wild,MIN
+267,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948627,2022020948,Shot,627,SHOT,Connor Dewar Wrist Shot saved by Elvis Merzlikins,2023-02-26T21:13:20Z,3,09:00,11:00,2,2,30.0,Minnesota Wild,MIN
+268,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948414,2022020948,Takeaway,414,TAKEAWAY,Takeaway by Connor Dewar,2023-02-26T21:13:55Z,3,09:35,10:25,2,2,30.0,Minnesota Wild,MIN
+269,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948494,2022020948,Stoppage,494,STOP,Puck in Netting,2023-02-26T21:15:13Z,3,10:53,09:07,2,2,,,
+270,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948630,2022020948,Faceoff,630,FACEOFF,Frederick Gaudreau faceoff won against Sean Kuraly,2023-02-26T21:17:42Z,3,10:53,09:07,2,2,30.0,Minnesota Wild,MIN
+271,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948415,2022020948,Hit,415,HIT,Nick Blankenburg hit Jordan Greenway,2023-02-26T21:17:54Z,3,11:05,08:55,2,2,29.0,Columbus Blue Jackets,CBJ
+272,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948495,2022020948,Stoppage,495,STOP,Puck in Netting,2023-02-26T21:17:56Z,3,11:07,08:53,2,2,,,
+273,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948631,2022020948,Faceoff,631,FACEOFF,Frederick Gaudreau faceoff won against Sean Kuraly,2023-02-26T21:18:39Z,3,11:07,08:53,2,2,30.0,Minnesota Wild,MIN
+274,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948632,2022020948,Missed Shot,632,MISSED_SHOT,Jon Merrill Wide of Net Elvis Merzlikins,2023-02-26T21:18:51Z,3,11:19,08:41,2,2,30.0,Minnesota Wild,MIN
+275,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948633,2022020948,Blocked Shot,633,BLOCKED_SHOT,Mathieu Olivier shot blocked shot by Jake Middleton,2023-02-26T21:19:11Z,3,11:39,08:21,2,2,30.0,Minnesota Wild,MIN
+276,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948496,2022020948,Missed Shot,496,MISSED_SHOT,Kirill Marchenko Wide of Net Marc-Andre Fleury,2023-02-26T21:19:33Z,3,12:01,07:59,2,2,29.0,Columbus Blue Jackets,CBJ
+277,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948497,2022020948,Shot,497,SHOT,Johnny Gaudreau Wrist Shot saved by Marc-Andre Fleury,2023-02-26T21:19:37Z,3,12:05,07:55,2,2,29.0,Columbus Blue Jackets,CBJ
+278,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948416,2022020948,Hit,416,HIT,Kirill Kaprizov hit Johnny Gaudreau,2023-02-26T21:19:45Z,3,12:13,07:47,2,2,30.0,Minnesota Wild,MIN
+279,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948417,2022020948,Hit,417,HIT,Boone Jenner hit Alex Goligoski,2023-02-26T21:20:00Z,3,12:28,07:32,2,2,29.0,Columbus Blue Jackets,CBJ
+280,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948418,2022020948,Takeaway,418,TAKEAWAY,Takeaway by Alex Goligoski,2023-02-26T21:20:22Z,3,12:50,07:10,2,2,30.0,Minnesota Wild,MIN
+281,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948419,2022020948,Hit,419,HIT,Marcus Foligno hit Gavin Bayreuther,2023-02-26T21:20:36Z,3,13:04,06:56,2,2,30.0,Minnesota Wild,MIN
+282,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948420,2022020948,Hit,420,HIT,Nick Blankenburg hit Joel Eriksson Ek,2023-02-26T21:20:48Z,3,13:16,06:44,2,2,29.0,Columbus Blue Jackets,CBJ
+283,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948421,2022020948,Hit,421,HIT,Marcus Foligno hit Jack Roslovic,2023-02-26T21:20:56Z,3,13:24,06:36,2,2,30.0,Minnesota Wild,MIN
+284,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948422,2022020948,Giveaway,422,GIVEAWAY,Giveaway by Matt Boldy,2023-02-26T21:21:05Z,3,13:33,06:27,2,2,30.0,Minnesota Wild,MIN
+285,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948423,2022020948,Hit,423,HIT,Ryan Reaves hit Emil Bemstrom,2023-02-26T21:21:47Z,3,14:15,05:45,2,2,30.0,Minnesota Wild,MIN
+286,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948634,2022020948,Shot,634,SHOT,Brandon Duhaime Tip-In saved by Elvis Merzlikins,2023-02-26T21:22:34Z,3,15:02,04:58,2,2,30.0,Minnesota Wild,MIN
+287,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948424,2022020948,Hit,424,HIT,Brandon Duhaime hit Mathieu Olivier,2023-02-26T21:22:38Z,3,15:06,04:54,2,2,30.0,Minnesota Wild,MIN
+288,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948498,2022020948,Blocked Shot,498,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by Erik Gudbranson,2023-02-26T21:23:06Z,3,15:34,04:26,2,2,29.0,Columbus Blue Jackets,CBJ
+289,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948635,2022020948,Missed Shot,635,MISSED_SHOT,Kirill Kaprizov Goalpost Elvis Merzlikins,2023-02-26T21:23:09Z,3,15:37,04:23,2,2,30.0,Minnesota Wild,MIN
+290,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948499,2022020948,Stoppage,499,STOP,Puck Frozen,2023-02-26T21:23:11Z,3,15:40,04:20,2,2,,,
+291,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948636,2022020948,Faceoff,636,FACEOFF,Sean Kuraly faceoff won against Ryan Hartman,2023-02-26T21:25:55Z,3,15:40,04:20,2,2,29.0,Columbus Blue Jackets,CBJ
+292,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948637,2022020948,Shot,637,SHOT,Kirill Kaprizov Wrist Shot saved by Elvis Merzlikins,2023-02-26T21:26:05Z,3,15:50,04:10,2,2,30.0,Minnesota Wild,MIN
+293,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948638,2022020948,Missed Shot,638,MISSED_SHOT,Jake Middleton Wide of Net Elvis Merzlikins,2023-02-26T21:26:19Z,3,16:04,03:56,2,2,30.0,Minnesota Wild,MIN
+294,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948500,2022020948,Shot,500,SHOT,Kirill Marchenko Wrist Shot saved by Marc-Andre Fleury,2023-02-26T21:26:30Z,3,16:15,03:45,2,2,29.0,Columbus Blue Jackets,CBJ
+295,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948751,2022020948,Blocked Shot,751,BLOCKED_SHOT,Ryan Hartman shot blocked shot by Gavin Bayreuther,2023-02-26T21:26:39Z,3,16:24,03:36,2,2,29.0,Columbus Blue Jackets,CBJ
+296,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948752,2022020948,Stoppage,752,STOP,Puck in Netting,2023-02-26T21:26:41Z,3,16:25,03:35,2,2,,,
+297,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948640,2022020948,Faceoff,640,FACEOFF,Joel Eriksson Ek faceoff won against Sean Kuraly,2023-02-26T21:27:09Z,3,16:25,03:35,2,2,30.0,Minnesota Wild,MIN
+298,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948425,2022020948,Giveaway,425,GIVEAWAY,Giveaway by Elvis Merzlikins,2023-02-26T21:27:42Z,3,16:57,03:03,2,2,29.0,Columbus Blue Jackets,CBJ
+299,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948641,2022020948,Shot,641,SHOT,Matt Boldy Tip-In saved by Elvis Merzlikins,2023-02-26T21:27:43Z,3,16:58,03:02,2,2,30.0,Minnesota Wild,MIN
+300,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948753,2022020948,Stoppage,753,STOP,Goalie Stopped,2023-02-26T21:27:46Z,3,17:01,02:59,2,2,,,
+301,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948642,2022020948,Faceoff,642,FACEOFF,Sean Kuraly faceoff won against Ryan Hartman,2023-02-26T21:28:14Z,3,17:01,02:59,2,2,29.0,Columbus Blue Jackets,CBJ
+302,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948426,2022020948,Takeaway,426,TAKEAWAY,Takeaway by Kirill Marchenko,2023-02-26T21:29:19Z,3,18:06,01:54,2,2,29.0,Columbus Blue Jackets,CBJ
+303,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948754,2022020948,Blocked Shot,754,BLOCKED_SHOT,Frederick Gaudreau shot blocked shot by Nick Blankenburg,2023-02-26T21:29:45Z,3,18:32,01:28,2,2,29.0,Columbus Blue Jackets,CBJ
+304,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948643,2022020948,Shot,643,SHOT,Matt Boldy Snap Shot saved by Elvis Merzlikins,2023-02-26T21:30:07Z,3,18:54,01:06,2,2,30.0,Minnesota Wild,MIN
+305,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948427,2022020948,Takeaway,427,TAKEAWAY,Takeaway by Alex Goligoski,2023-02-26T21:30:22Z,3,19:09,00:51,2,2,30.0,Minnesota Wild,MIN
+306,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948428,2022020948,Takeaway,428,TAKEAWAY,Takeaway by Patrik Laine,2023-02-26T21:30:37Z,3,19:24,00:36,2,2,29.0,Columbus Blue Jackets,CBJ
+307,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948644,2022020948,Period End,644,PERIOD_END,End of 3rd Period,2023-02-26T21:31:13Z,3,20:00,00:00,2,2,,,
+308,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948647,2022020948,Period Official,647,PERIOD_OFFICIAL,Period Official,2023-02-26T21:31:18Z,3,20:00,00:00,2,2,,,
+309,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948648,2022020948,Period Ready,648,PERIOD_READY,Period Ready,2023-02-26T21:33:32Z,4,00:00,05:00,2,2,,,
+310,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948649,2022020948,Period Start,649,PERIOD_START,Period Start,2023-02-26T21:33:39Z,4,00:00,05:00,2,2,,,
+311,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948650,2022020948,Faceoff,650,FACEOFF,Sean Kuraly faceoff won against Joel Eriksson Ek,2023-02-26T21:33:39Z,4,00:00,05:00,2,2,29.0,Columbus Blue Jackets,CBJ
+312,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948755,2022020948,Stoppage,755,STOP,Offside,2023-02-26T21:35:38Z,4,01:59,03:01,2,2,,,
+313,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948851,2022020948,Faceoff,851,FACEOFF,Mats Zuccarello faceoff won against Sean Kuraly,2023-02-26T21:36:09Z,4,01:59,03:01,2,2,30.0,Minnesota Wild,MIN
+314,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948429,2022020948,Giveaway,429,GIVEAWAY,Giveaway by Mats Zuccarello,2023-02-26T21:36:27Z,4,02:17,02:43,2,2,30.0,Minnesota Wild,MIN
+315,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948756,2022020948,Blocked Shot,756,BLOCKED_SHOT,Sean Kuraly shot blocked shot by Kirill Kaprizov,2023-02-26T21:36:27Z,4,02:17,02:43,2,2,30.0,Minnesota Wild,MIN
+316,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948757,2022020948,Stoppage,757,STOP,Puck in Netting,2023-02-26T21:36:30Z,4,02:19,02:41,2,2,,,
+317,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948852,2022020948,Faceoff,852,FACEOFF,Boone Jenner faceoff won against Joel Eriksson Ek,2023-02-26T21:37:08Z,4,02:19,02:41,2,2,29.0,Columbus Blue Jackets,CBJ
+318,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948853,2022020948,Shot,853,SHOT,Patrik Laine Snap Shot saved by Marc-Andre Fleury,2023-02-26T21:37:25Z,4,02:36,02:24,2,2,29.0,Columbus Blue Jackets,CBJ
+319,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948758,2022020948,Stoppage,758,STOP,Goalie Stopped,2023-02-26T21:37:26Z,4,02:38,02:22,2,2,,,
+320,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948854,2022020948,Faceoff,854,FACEOFF,Joel Eriksson Ek faceoff won against Boone Jenner,2023-02-26T21:37:53Z,4,02:38,02:22,2,2,30.0,Minnesota Wild,MIN
+321,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948430,2022020948,Hit,430,HIT,Jared Spurgeon hit Boone Jenner,2023-02-26T21:38:14Z,4,02:59,02:01,2,2,30.0,Minnesota Wild,MIN
+322,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948856,2022020948,Missed Shot,856,MISSED_SHOT,Boone Jenner Wide of Net Marc-Andre Fleury,2023-02-26T21:38:14Z,4,02:59,02:01,2,2,29.0,Columbus Blue Jackets,CBJ
+323,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948431,2022020948,Giveaway,431,GIVEAWAY,Giveaway by Mats Zuccarello,2023-02-26T21:39:03Z,4,03:48,01:12,2,2,30.0,Minnesota Wild,MIN
+324,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948759,2022020948,Goal,759,GOAL,"Kirill Kaprizov (37) Snap Shot, assists: Calen Addison (25), Mats Zuccarello (37)",2023-02-26T21:39:56Z,4,04:40,00:20,3,2,30.0,Minnesota Wild,MIN
+325,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948858,2022020948,Period End,858,PERIOD_END,End of OT,2023-02-26T21:39:56Z,4,04:40,00:20,3,2,,,
+326,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948861,2022020948,Period Official,861,PERIOD_OFFICIAL,Period Official,2023-02-26T21:40:12Z,4,04:40,00:20,3,2,,,
+327,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948862,2022020948,Game End,862,GAME_END,Game End,2023-02-26T21:40:14Z,4,04:40,00:20,3,2,,,
+328,30,29,Minnesota Wild,Columbus Blue Jackets,2022020948863,2022020948,Game Official,863,GAME_OFFICIAL,Game Official,2023-02-26T21:54:53Z,4,04:40,00:20,3,2,,,

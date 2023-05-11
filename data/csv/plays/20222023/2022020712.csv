@@ -1,0 +1,343 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,9,5,Ottawa Senators,Pittsburgh Penguins,20220207121,2022020712,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-01-18T23:04:07Z,1,00:00,20:00,0,0,,,
+1,9,5,Ottawa Senators,Pittsburgh Penguins,20220207125,2022020712,Period Ready,5,PERIOD_READY,Period Ready,2023-01-19T00:12:33Z,1,00:00,20:00,0,0,,,
+2,9,5,Ottawa Senators,Pittsburgh Penguins,202202071251,2022020712,Period Start,51,PERIOD_START,Period Start,2023-01-19T00:13:52Z,1,00:00,20:00,0,0,,,
+3,9,5,Ottawa Senators,Pittsburgh Penguins,202202071252,2022020712,Faceoff,52,FACEOFF,Sidney Crosby faceoff won against Tim Stützle,2023-01-19T00:13:52Z,1,00:00,20:00,0,0,5.0,Pittsburgh Penguins,PIT
+4,9,5,Ottawa Senators,Pittsburgh Penguins,202202071269,2022020712,Hit,69,HIT,Drake Batherson hit Brian Dumoulin,2023-01-19T00:13:59Z,1,00:07,19:53,0,0,9.0,Ottawa Senators,OTT
+5,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712151,2022020712,Stoppage,151,STOP,Icing,2023-01-19T00:14:03Z,1,00:10,19:50,0,0,,,
+6,9,5,Ottawa Senators,Pittsburgh Penguins,202202071253,2022020712,Faceoff,53,FACEOFF,Sidney Crosby faceoff won against Brady Tkachuk,2023-01-19T00:14:22Z,1,00:10,19:50,0,0,5.0,Pittsburgh Penguins,PIT
+7,9,5,Ottawa Senators,Pittsburgh Penguins,20220207128,2022020712,Shot,8,SHOT,Bryan Rust Wrist Shot saved by Cam Talbot,2023-01-19T00:14:33Z,1,00:21,19:39,0,0,5.0,Pittsburgh Penguins,PIT
+8,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712152,2022020712,Stoppage,152,STOP,Goalie Stopped,2023-01-19T00:14:34Z,1,00:22,19:38,0,0,,,
+9,9,5,Ottawa Senators,Pittsburgh Penguins,202202071255,2022020712,Faceoff,55,FACEOFF,Rickard Rakell faceoff won against Claude Giroux,2023-01-19T00:15:16Z,1,00:22,19:38,0,0,5.0,Pittsburgh Penguins,PIT
+10,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712107,2022020712,Penalty,107,PENALTY,Jason Zucker Holding against Claude Giroux,2023-01-19T00:15:39Z,1,00:45,19:15,0,0,5.0,Pittsburgh Penguins,PIT
+11,9,5,Ottawa Senators,Pittsburgh Penguins,202202071256,2022020712,Faceoff,56,FACEOFF,Jeff Carter faceoff won against Brady Tkachuk,2023-01-19T00:16:15Z,1,00:45,19:15,0,0,5.0,Pittsburgh Penguins,PIT
+12,9,5,Ottawa Senators,Pittsburgh Penguins,20220207129,2022020712,Shot,9,SHOT,Alex DeBrincat Wrist Shot saved by Casey DeSmith,2023-01-19T00:16:50Z,1,01:20,18:40,0,0,9.0,Ottawa Senators,OTT
+13,9,5,Ottawa Senators,Pittsburgh Penguins,202202071210,2022020712,Shot,10,SHOT,Drake Batherson Backhand saved by Casey DeSmith,2023-01-19T00:16:52Z,1,01:22,18:38,0,0,9.0,Ottawa Senators,OTT
+14,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712301,2022020712,Stoppage,301,STOP,Goalie Stopped,2023-01-19T00:16:53Z,1,01:23,18:37,0,0,,,
+15,9,5,Ottawa Senators,Pittsburgh Penguins,202202071257,2022020712,Faceoff,57,FACEOFF,Teddy Blueger faceoff won against Brady Tkachuk,2023-01-19T00:17:18Z,1,01:23,18:37,0,0,5.0,Pittsburgh Penguins,PIT
+16,9,5,Ottawa Senators,Pittsburgh Penguins,202202071258,2022020712,Hit,58,HIT,Chad Ruhwedel hit Derick Brassard,2023-01-19T00:18:02Z,1,02:07,17:53,0,0,5.0,Pittsburgh Penguins,PIT
+17,9,5,Ottawa Senators,Pittsburgh Penguins,202202071212,2022020712,Blocked Shot,12,BLOCKED_SHOT,Josh Norris shot blocked shot by Brian Dumoulin,2023-01-19T00:18:19Z,1,02:24,17:36,0,0,5.0,Pittsburgh Penguins,PIT
+18,9,5,Ottawa Senators,Pittsburgh Penguins,202202071213,2022020712,Missed Shot,13,MISSED_SHOT,Shane Pinto Wide of Net Casey DeSmith,2023-01-19T00:18:27Z,1,02:32,17:28,0,0,9.0,Ottawa Senators,OTT
+19,9,5,Ottawa Senators,Pittsburgh Penguins,202202071259,2022020712,Hit,59,HIT,Jonathan Gruden hit Claude Giroux,2023-01-19T00:18:29Z,1,02:34,17:26,0,0,5.0,Pittsburgh Penguins,PIT
+20,9,5,Ottawa Senators,Pittsburgh Penguins,202202071260,2022020712,Hit,60,HIT,Marcus Pettersson hit Parker Kelly,2023-01-19T00:18:49Z,1,02:54,17:06,0,0,5.0,Pittsburgh Penguins,PIT
+21,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712154,2022020712,Giveaway,154,GIVEAWAY,Giveaway by Cam Talbot,2023-01-19T00:18:59Z,1,03:04,16:56,0,0,9.0,Ottawa Senators,OTT
+22,9,5,Ottawa Senators,Pittsburgh Penguins,202202071214,2022020712,Shot,14,SHOT,Kasperi Kapanen Tip-In saved by Cam Talbot,2023-01-19T00:19:12Z,1,03:17,16:43,0,0,5.0,Pittsburgh Penguins,PIT
+23,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712155,2022020712,Stoppage,155,STOP,Goalie Stopped,2023-01-19T00:19:14Z,1,03:18,16:42,0,0,,,
+24,9,5,Ottawa Senators,Pittsburgh Penguins,202202071261,2022020712,Faceoff,61,FACEOFF,Sidney Crosby faceoff won against Shane Pinto,2023-01-19T00:19:42Z,1,03:18,16:42,0,0,5.0,Pittsburgh Penguins,PIT
+25,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712156,2022020712,Giveaway,156,GIVEAWAY,Giveaway by Derick Brassard,2023-01-19T00:20:09Z,1,03:45,16:15,0,0,9.0,Ottawa Senators,OTT
+26,9,5,Ottawa Senators,Pittsburgh Penguins,202202071215,2022020712,Shot,15,SHOT,Tim Stützle Wrist Shot saved by Casey DeSmith,2023-01-19T00:20:33Z,1,04:09,15:51,0,0,9.0,Ottawa Senators,OTT
+27,9,5,Ottawa Senators,Pittsburgh Penguins,202202071263,2022020712,Hit,63,HIT,Brady Tkachuk hit Brian Dumoulin,2023-01-19T00:20:43Z,1,04:19,15:41,0,0,9.0,Ottawa Senators,OTT
+28,9,5,Ottawa Senators,Pittsburgh Penguins,202202071264,2022020712,Hit,64,HIT,Marcus Pettersson hit Alex DeBrincat,2023-01-19T00:21:10Z,1,04:46,15:14,0,0,5.0,Pittsburgh Penguins,PIT
+29,9,5,Ottawa Senators,Pittsburgh Penguins,202202071217,2022020712,Shot,17,SHOT,Travis Hamonic Snap Shot saved by Casey DeSmith,2023-01-19T00:21:21Z,1,04:57,15:03,0,0,9.0,Ottawa Senators,OTT
+30,9,5,Ottawa Senators,Pittsburgh Penguins,202202071218,2022020712,Blocked Shot,18,BLOCKED_SHOT,Claude Giroux shot blocked shot by Marcus Pettersson,2023-01-19T00:21:32Z,1,05:08,14:52,0,0,5.0,Pittsburgh Penguins,PIT
+31,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712157,2022020712,Blocked Shot,157,BLOCKED_SHOT,Jake Sanderson shot blocked shot by Jeff Carter,2023-01-19T00:21:36Z,1,05:12,14:48,0,0,5.0,Pittsburgh Penguins,PIT
+32,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712158,2022020712,Stoppage,158,STOP,Puck in Netting,2023-01-19T00:21:36Z,1,05:12,14:48,0,0,,,
+33,9,5,Ottawa Senators,Pittsburgh Penguins,202202071265,2022020712,Faceoff,65,FACEOFF,Claude Giroux faceoff won against Kasperi Kapanen,2023-01-19T00:22:15Z,1,05:12,14:48,0,0,9.0,Ottawa Senators,OTT
+34,9,5,Ottawa Senators,Pittsburgh Penguins,202202071266,2022020712,Hit,66,HIT,Kasperi Kapanen hit Jacob Bernard-Docker,2023-01-19T00:22:25Z,1,05:22,14:38,0,0,5.0,Pittsburgh Penguins,PIT
+35,9,5,Ottawa Senators,Pittsburgh Penguins,202202071267,2022020712,Hit,67,HIT,Chad Ruhwedel hit Alex DeBrincat,2023-01-19T00:22:35Z,1,05:32,14:28,0,0,5.0,Pittsburgh Penguins,PIT
+36,9,5,Ottawa Senators,Pittsburgh Penguins,202202071219,2022020712,Shot,19,SHOT,Kasperi Kapanen Wrist Shot saved by Cam Talbot,2023-01-19T00:22:40Z,1,05:37,14:23,0,0,5.0,Pittsburgh Penguins,PIT
+37,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712159,2022020712,Stoppage,159,STOP,Goalie Stopped,2023-01-19T00:22:42Z,1,05:38,14:22,0,0,,,
+38,9,5,Ottawa Senators,Pittsburgh Penguins,202202071268,2022020712,Faceoff,68,FACEOFF,Mark Kastelic faceoff won against Sidney Crosby,2023-01-19T00:23:09Z,1,05:38,14:22,0,0,9.0,Ottawa Senators,OTT
+39,9,5,Ottawa Senators,Pittsburgh Penguins,202202071221,2022020712,Shot,21,SHOT,Parker Kelly Backhand saved by Casey DeSmith,2023-01-19T00:23:30Z,1,05:59,14:01,0,0,9.0,Ottawa Senators,OTT
+40,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712161,2022020712,Missed Shot,161,MISSED_SHOT,Mark Kastelic Over Net Casey DeSmith,2023-01-19T00:23:31Z,1,06:00,14:00,0,0,9.0,Ottawa Senators,OTT
+41,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712302,2022020712,Stoppage,302,STOP,High Stick,2023-01-19T00:23:33Z,1,06:01,13:59,0,0,,,
+42,9,5,Ottawa Senators,Pittsburgh Penguins,202202071270,2022020712,Faceoff,70,FACEOFF,Evgeni Malkin faceoff won against Brady Tkachuk,2023-01-19T00:25:57Z,1,06:01,13:59,0,0,5.0,Pittsburgh Penguins,PIT
+43,9,5,Ottawa Senators,Pittsburgh Penguins,202202071222,2022020712,Missed Shot,22,MISSED_SHOT,Jason Zucker Wide of Net Cam Talbot,2023-01-19T00:26:10Z,1,06:14,13:46,0,0,5.0,Pittsburgh Penguins,PIT
+44,9,5,Ottawa Senators,Pittsburgh Penguins,202202071223,2022020712,Shot,23,SHOT,Tim Stützle Wrist Shot saved by Casey DeSmith,2023-01-19T00:26:16Z,1,06:20,13:40,0,0,9.0,Ottawa Senators,OTT
+45,9,5,Ottawa Senators,Pittsburgh Penguins,202202071271,2022020712,Hit,71,HIT,Drake Batherson hit Jason Zucker,2023-01-19T00:26:27Z,1,06:31,13:29,0,0,9.0,Ottawa Senators,OTT
+46,9,5,Ottawa Senators,Pittsburgh Penguins,202202071224,2022020712,Shot,24,SHOT,Marcus Pettersson Wrist Shot saved by Cam Talbot,2023-01-19T00:26:30Z,1,06:34,13:26,0,0,5.0,Pittsburgh Penguins,PIT
+47,9,5,Ottawa Senators,Pittsburgh Penguins,202202071225,2022020712,Goal,25,GOAL,"Jason Zucker (12) Wrist Shot, assists: Marcus Pettersson (12), Evgeni Malkin (27)",2023-01-19T00:26:32Z,1,06:36,13:24,0,1,5.0,Pittsburgh Penguins,PIT
+48,9,5,Ottawa Senators,Pittsburgh Penguins,202202071272,2022020712,Faceoff,72,FACEOFF,Jeff Carter faceoff won against Derick Brassard,2023-01-19T00:27:11Z,1,06:36,13:24,0,1,5.0,Pittsburgh Penguins,PIT
+49,9,5,Ottawa Senators,Pittsburgh Penguins,202202071273,2022020712,Hit,73,HIT,Derick Brassard hit Drew O'Connor,2023-01-19T00:27:31Z,1,06:56,13:04,0,1,9.0,Ottawa Senators,OTT
+50,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712162,2022020712,Giveaway,162,GIVEAWAY,Giveaway by Casey DeSmith,2023-01-19T00:27:38Z,1,07:03,12:57,0,1,5.0,Pittsburgh Penguins,PIT
+51,9,5,Ottawa Senators,Pittsburgh Penguins,202202071226,2022020712,Shot,26,SHOT,Dylan Gambrell Tip-In saved by Casey DeSmith,2023-01-19T00:27:41Z,1,07:06,12:54,0,1,9.0,Ottawa Senators,OTT
+52,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712206,2022020712,Penalty,206,PENALTY,Jeff Carter Hi stick - double minor against Derick Brassard,2023-01-19T00:27:44Z,1,07:09,12:51,0,1,5.0,Pittsburgh Penguins,PIT
+53,9,5,Ottawa Senators,Pittsburgh Penguins,202202071274,2022020712,Faceoff,74,FACEOFF,Brady Tkachuk faceoff won against Jonathan Gruden,2023-01-19T00:28:28Z,1,07:09,12:51,0,1,9.0,Ottawa Senators,OTT
+54,9,5,Ottawa Senators,Pittsburgh Penguins,202202071227,2022020712,Goal,27,GOAL,"Alex DeBrincat (15) Wrist Shot, assists: Drake Batherson (26), Thomas Chabot (16)",2023-01-19T00:29:02Z,1,07:44,12:16,1,1,9.0,Ottawa Senators,OTT
+55,9,5,Ottawa Senators,Pittsburgh Penguins,202202071275,2022020712,Faceoff,75,FACEOFF,Teddy Blueger faceoff won against Claude Giroux,2023-01-19T00:29:45Z,1,07:44,12:16,1,1,5.0,Pittsburgh Penguins,PIT
+56,9,5,Ottawa Senators,Pittsburgh Penguins,202202071228,2022020712,Shot,28,SHOT,Jake Sanderson Wrist Shot saved by Casey DeSmith,2023-01-19T00:30:13Z,1,08:12,11:48,1,1,9.0,Ottawa Senators,OTT
+57,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712163,2022020712,Shot,163,SHOT,Shane Pinto Wrist Shot saved by Casey DeSmith,2023-01-19T00:30:14Z,1,08:13,11:47,1,1,9.0,Ottawa Senators,OTT
+58,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712164,2022020712,Shot,164,SHOT,Josh Norris Wrist Shot saved by Casey DeSmith,2023-01-19T00:30:15Z,1,08:14,11:46,1,1,9.0,Ottawa Senators,OTT
+59,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712303,2022020712,Missed Shot,303,MISSED_SHOT,Shane Pinto Wide of Net Casey DeSmith,2023-01-19T00:30:51Z,1,08:50,11:10,1,1,9.0,Ottawa Senators,OTT
+60,9,5,Ottawa Senators,Pittsburgh Penguins,202202071229,2022020712,Shot,29,SHOT,Brady Tkachuk Wrist Shot saved by Casey DeSmith,2023-01-19T00:31:34Z,1,09:33,10:27,1,1,9.0,Ottawa Senators,OTT
+61,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712165,2022020712,Stoppage,165,STOP,Goalie Stopped,2023-01-19T00:31:36Z,1,09:35,10:25,1,1,,,
+62,9,5,Ottawa Senators,Pittsburgh Penguins,202202071276,2022020712,Faceoff,76,FACEOFF,Sidney Crosby faceoff won against Brady Tkachuk,2023-01-19T00:32:14Z,1,09:35,10:25,1,1,5.0,Pittsburgh Penguins,PIT
+63,9,5,Ottawa Senators,Pittsburgh Penguins,202202071230,2022020712,Goal,30,GOAL,"Tim Stützle (20) Wrist Shot, assists: Brady Tkachuk (28)",2023-01-19T00:32:24Z,1,09:44,10:16,2,1,9.0,Ottawa Senators,OTT
+64,9,5,Ottawa Senators,Pittsburgh Penguins,202202071277,2022020712,Faceoff,77,FACEOFF,Mark Kastelic faceoff won against Sidney Crosby,2023-01-19T00:33:04Z,1,09:44,10:16,2,1,9.0,Ottawa Senators,OTT
+65,9,5,Ottawa Senators,Pittsburgh Penguins,202202071278,2022020712,Hit,78,HIT,Mark Kastelic hit Mark Friedman,2023-01-19T00:33:16Z,1,09:56,10:04,2,1,9.0,Ottawa Senators,OTT
+66,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712166,2022020712,Giveaway,166,GIVEAWAY,Giveaway by Mark Friedman,2023-01-19T00:33:16Z,1,09:56,10:04,2,1,5.0,Pittsburgh Penguins,PIT
+67,9,5,Ottawa Senators,Pittsburgh Penguins,202202071279,2022020712,Hit,79,HIT,Parker Kelly hit Marcus Pettersson,2023-01-19T00:33:24Z,1,10:04,09:56,2,1,9.0,Ottawa Senators,OTT
+68,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712167,2022020712,Stoppage,167,STOP,TV timeout,2023-01-19T00:33:34Z,1,10:14,09:46,2,1,,,
+69,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712229,2022020712,Penalty,229,PENALTY,Austin Watson Interference against Mark Friedman,2023-01-19T00:33:34Z,1,10:14,09:46,2,1,9.0,Ottawa Senators,OTT
+70,9,5,Ottawa Senators,Pittsburgh Penguins,202202071282,2022020712,Faceoff,82,FACEOFF,Claude Giroux faceoff won against Sidney Crosby,2023-01-19T00:35:51Z,1,10:14,09:46,2,1,9.0,Ottawa Senators,OTT
+71,9,5,Ottawa Senators,Pittsburgh Penguins,202202071231,2022020712,Blocked Shot,31,BLOCKED_SHOT,Jake Guentzel shot blocked shot by Travis Hamonic,2023-01-19T00:36:02Z,1,10:25,09:35,2,1,9.0,Ottawa Senators,OTT
+72,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712168,2022020712,Shot,168,SHOT,Rickard Rakell Backhand saved by Cam Talbot,2023-01-19T00:36:03Z,1,10:26,09:34,2,1,5.0,Pittsburgh Penguins,PIT
+73,9,5,Ottawa Senators,Pittsburgh Penguins,202202071283,2022020712,Hit,83,HIT,Evgeni Malkin hit Dylan Gambrell,2023-01-19T00:36:33Z,1,10:56,09:04,2,1,5.0,Pittsburgh Penguins,PIT
+74,9,5,Ottawa Senators,Pittsburgh Penguins,202202071284,2022020712,Hit,84,HIT,Parker Kelly hit Jeff Carter,2023-01-19T00:37:13Z,1,11:36,08:24,2,1,9.0,Ottawa Senators,OTT
+75,9,5,Ottawa Senators,Pittsburgh Penguins,202202071232,2022020712,Shot,32,SHOT,Kasperi Kapanen Wrist Shot saved by Cam Talbot,2023-01-19T00:37:29Z,1,11:52,08:08,2,1,5.0,Pittsburgh Penguins,PIT
+76,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712169,2022020712,Stoppage,169,STOP,Goalie Stopped,2023-01-19T00:37:31Z,1,11:54,08:06,2,1,,,
+77,9,5,Ottawa Senators,Pittsburgh Penguins,202202071285,2022020712,Faceoff,85,FACEOFF,Mark Kastelic faceoff won against Jeff Carter,2023-01-19T00:38:02Z,1,11:54,08:06,2,1,9.0,Ottawa Senators,OTT
+78,9,5,Ottawa Senators,Pittsburgh Penguins,202202071286,2022020712,Hit,86,HIT,Brock McGinn hit Jacob Bernard-Docker,2023-01-19T00:38:37Z,1,12:29,07:31,2,1,5.0,Pittsburgh Penguins,PIT
+79,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712171,2022020712,Giveaway,171,GIVEAWAY,Giveaway by Thomas Chabot,2023-01-19T00:38:52Z,1,12:44,07:16,2,1,9.0,Ottawa Senators,OTT
+80,9,5,Ottawa Senators,Pittsburgh Penguins,202202071233,2022020712,Shot,33,SHOT,Mark Friedman Slap Shot saved by Cam Talbot,2023-01-19T00:38:55Z,1,12:47,07:13,2,1,5.0,Pittsburgh Penguins,PIT
+81,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712170,2022020712,Stoppage,170,STOP,Goalie Stopped,2023-01-19T00:38:57Z,1,12:48,07:12,2,1,,,
+82,9,5,Ottawa Senators,Pittsburgh Penguins,202202071287,2022020712,Faceoff,87,FACEOFF,Claude Giroux faceoff won against Evgeni Malkin,2023-01-19T00:39:20Z,1,12:48,07:12,2,1,9.0,Ottawa Senators,OTT
+83,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712253,2022020712,Penalty,253,PENALTY,Josh Norris Boarding against Evgeni Malkin,2023-01-19T00:39:44Z,1,13:11,06:49,2,1,9.0,Ottawa Senators,OTT
+84,9,5,Ottawa Senators,Pittsburgh Penguins,202202071289,2022020712,Faceoff,89,FACEOFF,Claude Giroux faceoff won against Sidney Crosby,2023-01-19T00:41:05Z,1,13:11,06:49,2,1,9.0,Ottawa Senators,OTT
+85,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712172,2022020712,Stoppage,172,STOP,Puck in Benches,2023-01-19T00:41:11Z,1,13:17,06:43,2,1,,,
+86,9,5,Ottawa Senators,Pittsburgh Penguins,202202071290,2022020712,Faceoff,90,FACEOFF,Mark Kastelic faceoff won against Sidney Crosby,2023-01-19T00:41:28Z,1,13:17,06:43,2,1,9.0,Ottawa Senators,OTT
+87,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712173,2022020712,Giveaway,173,GIVEAWAY,Giveaway by Evgeni Malkin,2023-01-19T00:42:02Z,1,13:51,06:09,2,1,5.0,Pittsburgh Penguins,PIT
+88,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712264,2022020712,Penalty,264,PENALTY,Dylan Gambrell Tripping against Evgeni Malkin,2023-01-19T00:42:15Z,1,14:04,05:56,2,1,9.0,Ottawa Senators,OTT
+89,9,5,Ottawa Senators,Pittsburgh Penguins,202202071291,2022020712,Faceoff,91,FACEOFF,Sidney Crosby faceoff won against Claude Giroux,2023-01-19T00:42:59Z,1,14:04,05:56,2,1,5.0,Pittsburgh Penguins,PIT
+90,9,5,Ottawa Senators,Pittsburgh Penguins,202202071234,2022020712,Missed Shot,34,MISSED_SHOT,Evgeni Malkin Wide of Net Cam Talbot,2023-01-19T00:43:06Z,1,14:11,05:49,2,1,5.0,Pittsburgh Penguins,PIT
+91,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712174,2022020712,Stoppage,174,STOP,Puck in Netting,2023-01-19T00:43:29Z,1,14:33,05:27,2,1,,,
+92,9,5,Ottawa Senators,Pittsburgh Penguins,202202071292,2022020712,Faceoff,92,FACEOFF,Claude Giroux faceoff won against Sidney Crosby,2023-01-19T00:43:53Z,1,14:33,05:27,2,1,9.0,Ottawa Senators,OTT
+93,9,5,Ottawa Senators,Pittsburgh Penguins,202202071235,2022020712,Blocked Shot,35,BLOCKED_SHOT,Evgeni Malkin shot blocked shot by Travis Hamonic,2023-01-19T00:44:14Z,1,14:54,05:06,2,1,9.0,Ottawa Senators,OTT
+94,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712175,2022020712,Missed Shot,175,MISSED_SHOT,Bryan Rust Wide of Net Cam Talbot,2023-01-19T00:44:15Z,1,14:55,05:05,2,1,5.0,Pittsburgh Penguins,PIT
+95,9,5,Ottawa Senators,Pittsburgh Penguins,202202071236,2022020712,Shot,36,SHOT,Ty Smith Wrist Shot saved by Cam Talbot,2023-01-19T00:44:40Z,1,15:20,04:40,2,1,5.0,Pittsburgh Penguins,PIT
+96,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712353,2022020712,Shot,353,SHOT,Evgeni Malkin Wrist Shot saved by Cam Talbot,2023-01-19T00:44:41Z,1,15:21,04:39,2,1,5.0,Pittsburgh Penguins,PIT
+97,9,5,Ottawa Senators,Pittsburgh Penguins,202202071237,2022020712,Goal,37,GOAL,"Evgeni Malkin (16) Backhand, assists: Ty Smith (3), Sidney Crosby (29)",2023-01-19T00:44:43Z,1,15:23,04:37,2,2,5.0,Pittsburgh Penguins,PIT
+98,9,5,Ottawa Senators,Pittsburgh Penguins,202202071293,2022020712,Faceoff,93,FACEOFF,Jeff Carter faceoff won against Claude Giroux,2023-01-19T00:45:31Z,1,15:23,04:37,2,2,5.0,Pittsburgh Penguins,PIT
+99,9,5,Ottawa Senators,Pittsburgh Penguins,202202071294,2022020712,Hit,94,HIT,Teddy Blueger hit Nick Holden,2023-01-19T00:45:43Z,1,15:35,04:25,2,2,5.0,Pittsburgh Penguins,PIT
+100,9,5,Ottawa Senators,Pittsburgh Penguins,202202071238,2022020712,Penalty,38,PENALTY,Mark Friedman Roughing against Alex DeBrincat,2023-01-19T00:45:59Z,1,15:51,04:09,2,2,5.0,Pittsburgh Penguins,PIT
+101,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712176,2022020712,Stoppage,176,STOP,TV timeout,2023-01-19T00:45:59Z,1,15:51,04:09,2,2,,,
+102,9,5,Ottawa Senators,Pittsburgh Penguins,202202071295,2022020712,Faceoff,95,FACEOFF,Teddy Blueger faceoff won against Brady Tkachuk,2023-01-19T00:48:51Z,1,15:51,04:09,2,2,5.0,Pittsburgh Penguins,PIT
+103,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712177,2022020712,Giveaway,177,GIVEAWAY,Giveaway by Tim Stützle,2023-01-19T00:49:10Z,1,16:10,03:50,2,2,9.0,Ottawa Senators,OTT
+104,9,5,Ottawa Senators,Pittsburgh Penguins,202202071241,2022020712,Shot,41,SHOT,Alex DeBrincat Slap Shot saved by Casey DeSmith,2023-01-19T00:49:31Z,1,16:31,03:29,2,2,9.0,Ottawa Senators,OTT
+105,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712178,2022020712,Giveaway,178,GIVEAWAY,Giveaway by Thomas Chabot,2023-01-19T00:50:09Z,1,17:09,02:51,2,2,9.0,Ottawa Senators,OTT
+106,9,5,Ottawa Senators,Pittsburgh Penguins,202202071242,2022020712,Missed Shot,42,MISSED_SHOT,Jake Sanderson Wide of Net Casey DeSmith,2023-01-19T00:50:35Z,1,17:35,02:25,2,2,9.0,Ottawa Senators,OTT
+107,9,5,Ottawa Senators,Pittsburgh Penguins,202202071243,2022020712,Missed Shot,43,MISSED_SHOT,Josh Norris Wide of Net Casey DeSmith,2023-01-19T00:50:47Z,1,17:47,02:13,2,2,9.0,Ottawa Senators,OTT
+108,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712179,2022020712,Stoppage,179,STOP,High Stick,2023-01-19T00:50:52Z,1,17:52,02:08,2,2,,,
+109,9,5,Ottawa Senators,Pittsburgh Penguins,202202071296,2022020712,Faceoff,96,FACEOFF,Evgeni Malkin faceoff won against Mark Kastelic,2023-01-19T00:51:19Z,1,17:52,02:08,2,2,5.0,Pittsburgh Penguins,PIT
+110,9,5,Ottawa Senators,Pittsburgh Penguins,202202071244,2022020712,Shot,44,SHOT,Austin Watson Tip-In saved by Casey DeSmith,2023-01-19T00:51:51Z,1,18:24,01:36,2,2,9.0,Ottawa Senators,OTT
+111,9,5,Ottawa Senators,Pittsburgh Penguins,202202071297,2022020712,Hit,97,HIT,Jason Zucker hit Thomas Chabot,2023-01-19T00:52:07Z,1,18:40,01:20,2,2,5.0,Pittsburgh Penguins,PIT
+112,9,5,Ottawa Senators,Pittsburgh Penguins,202202071245,2022020712,Shot,45,SHOT,Jacob Bernard-Docker Wrist Shot saved by Casey DeSmith,2023-01-19T00:52:10Z,1,18:43,01:17,2,2,9.0,Ottawa Senators,OTT
+113,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712180,2022020712,Stoppage,180,STOP,Puck in Netting,2023-01-19T00:52:12Z,1,18:44,01:16,2,2,,,
+114,9,5,Ottawa Senators,Pittsburgh Penguins,202202071298,2022020712,Faceoff,98,FACEOFF,Claude Giroux faceoff won against Sidney Crosby,2023-01-19T00:52:37Z,1,18:44,01:16,2,2,9.0,Ottawa Senators,OTT
+115,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712181,2022020712,Takeaway,181,TAKEAWAY,Takeaway by Brian Dumoulin,2023-01-19T00:52:41Z,1,18:48,01:12,2,2,5.0,Pittsburgh Penguins,PIT
+116,9,5,Ottawa Senators,Pittsburgh Penguins,202202071246,2022020712,Shot,46,SHOT,Alex DeBrincat Wrist Shot saved by Casey DeSmith,2023-01-19T00:53:08Z,1,19:15,00:45,2,2,9.0,Ottawa Senators,OTT
+117,9,5,Ottawa Senators,Pittsburgh Penguins,202202071299,2022020712,Hit,99,HIT,Chad Ruhwedel hit Alex DeBrincat,2023-01-19T00:53:10Z,1,19:17,00:43,2,2,5.0,Pittsburgh Penguins,PIT
+118,9,5,Ottawa Senators,Pittsburgh Penguins,202202071247,2022020712,Missed Shot,47,MISSED_SHOT,Tim Stützle Wide of Net Casey DeSmith,2023-01-19T00:53:22Z,1,19:29,00:31,2,2,9.0,Ottawa Senators,OTT
+119,9,5,Ottawa Senators,Pittsburgh Penguins,202202071248,2022020712,Shot,48,SHOT,Brady Tkachuk Tip-In saved by Casey DeSmith,2023-01-19T00:53:31Z,1,19:38,00:22,2,2,9.0,Ottawa Senators,OTT
+120,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712183,2022020712,Blocked Shot,183,BLOCKED_SHOT,Travis Hamonic shot blocked shot by Sidney Crosby,2023-01-19T00:53:35Z,1,19:42,00:18,2,2,5.0,Pittsburgh Penguins,PIT
+121,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712100,2022020712,Hit,100,HIT,Brady Tkachuk hit Mark Friedman,2023-01-19T00:53:50Z,1,19:57,00:03,2,2,9.0,Ottawa Senators,OTT
+122,9,5,Ottawa Senators,Pittsburgh Penguins,202202071249,2022020712,Period End,49,PERIOD_END,End of 1st Period,2023-01-19T00:53:53Z,1,20:00,00:00,2,2,,,
+123,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712352,2022020712,Period Official,352,PERIOD_OFFICIAL,Period Official,2023-01-19T00:54:10Z,1,20:00,00:00,2,2,,,
+124,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712354,2022020712,Period Ready,354,PERIOD_READY,Period Ready,2023-01-19T01:11:00Z,2,00:00,20:00,2,2,,,
+125,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712401,2022020712,Period Start,401,PERIOD_START,Period Start,2023-01-19T01:12:56Z,2,00:00,20:00,2,2,,,
+126,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712402,2022020712,Faceoff,402,FACEOFF,Sidney Crosby faceoff won against Tim Stützle,2023-01-19T01:12:56Z,2,00:00,20:00,2,2,5.0,Pittsburgh Penguins,PIT
+127,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712184,2022020712,Giveaway,184,GIVEAWAY,Giveaway by Drake Batherson,2023-01-19T01:13:12Z,2,00:16,19:44,2,2,9.0,Ottawa Senators,OTT
+128,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712403,2022020712,Hit,403,HIT,Jake Guentzel hit Jake Sanderson,2023-01-19T01:13:17Z,2,00:21,19:39,2,2,5.0,Pittsburgh Penguins,PIT
+129,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712185,2022020712,Stoppage,185,STOP,Puck in Crowd,2023-01-19T01:14:05Z,2,01:09,18:51,2,2,,,
+130,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712404,2022020712,Faceoff,404,FACEOFF,Teddy Blueger faceoff won against Claude Giroux,2023-01-19T01:14:31Z,2,01:09,18:51,2,2,5.0,Pittsburgh Penguins,PIT
+131,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712186,2022020712,Giveaway,186,GIVEAWAY,Giveaway by Thomas Chabot,2023-01-19T01:14:44Z,2,01:22,18:38,2,2,9.0,Ottawa Senators,OTT
+132,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712355,2022020712,Missed Shot,355,MISSED_SHOT,Jeff Carter Wide of Net Cam Talbot,2023-01-19T01:15:07Z,2,01:45,18:15,2,2,5.0,Pittsburgh Penguins,PIT
+133,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712188,2022020712,Stoppage,188,STOP,Referee or Linesman,2023-01-19T01:15:25Z,2,02:03,17:57,2,2,,,
+134,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712405,2022020712,Faceoff,405,FACEOFF,Shane Pinto faceoff won against Evgeni Malkin,2023-01-19T01:16:04Z,2,02:03,17:57,2,2,9.0,Ottawa Senators,OTT
+135,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712356,2022020712,Shot,356,SHOT,Jake Sanderson Wrist Shot saved by Casey DeSmith,2023-01-19T01:16:24Z,2,02:23,17:37,2,2,9.0,Ottawa Senators,OTT
+136,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712189,2022020712,Giveaway,189,GIVEAWAY,Giveaway by Travis Hamonic,2023-01-19T01:16:45Z,2,02:44,17:16,2,2,9.0,Ottawa Senators,OTT
+137,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712357,2022020712,Shot,357,SHOT,Evgeni Malkin Wrist Shot saved by Cam Talbot,2023-01-19T01:16:51Z,2,02:50,17:10,2,2,5.0,Pittsburgh Penguins,PIT
+138,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712190,2022020712,Stoppage,190,STOP,Goalie Stopped,2023-01-19T01:16:52Z,2,02:51,17:09,2,2,,,
+139,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712406,2022020712,Faceoff,406,FACEOFF,Sidney Crosby faceoff won against Mark Kastelic,2023-01-19T01:17:24Z,2,02:51,17:09,2,2,5.0,Pittsburgh Penguins,PIT
+140,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712358,2022020712,Goal,358,GOAL,"Mark Friedman (1) Slap Shot, assists: Marcus Pettersson (13), Sidney Crosby (30)",2023-01-19T01:17:40Z,2,03:07,16:53,2,3,5.0,Pittsburgh Penguins,PIT
+141,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712407,2022020712,Faceoff,407,FACEOFF,Tim Stützle faceoff won against Jonathan Gruden,2023-01-19T01:18:23Z,2,03:07,16:53,2,3,9.0,Ottawa Senators,OTT
+142,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712359,2022020712,Shot,359,SHOT,Erik Brannstrom Wrist Shot saved by Casey DeSmith,2023-01-19T01:18:36Z,2,03:20,16:40,2,3,9.0,Ottawa Senators,OTT
+143,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712408,2022020712,Hit,408,HIT,Brady Tkachuk hit Marcus Pettersson,2023-01-19T01:18:43Z,2,03:27,16:33,2,3,9.0,Ottawa Senators,OTT
+144,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712191,2022020712,Takeaway,191,TAKEAWAY,Takeaway by Tim Stützle,2023-01-19T01:19:18Z,2,04:02,15:58,2,3,9.0,Ottawa Senators,OTT
+145,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712360,2022020712,Missed Shot,360,MISSED_SHOT,Evgeni Malkin Wide of Net Cam Talbot,2023-01-19T01:19:33Z,2,04:17,15:43,2,3,5.0,Pittsburgh Penguins,PIT
+146,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712361,2022020712,Missed Shot,361,MISSED_SHOT,Travis Hamonic Wide of Net Casey DeSmith,2023-01-19T01:20:17Z,2,05:01,14:59,2,3,9.0,Ottawa Senators,OTT
+147,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712192,2022020712,Shot,192,SHOT,Travis Hamonic Slap Shot saved by Casey DeSmith,2023-01-19T01:20:24Z,2,05:08,14:52,2,3,9.0,Ottawa Senators,OTT
+148,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712362,2022020712,Blocked Shot,362,BLOCKED_SHOT,Ty Smith shot blocked shot by Travis Hamonic,2023-01-19T01:20:33Z,2,05:17,14:43,2,3,9.0,Ottawa Senators,OTT
+149,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712193,2022020712,Stoppage,193,STOP,Icing,2023-01-19T01:20:43Z,2,05:27,14:33,2,3,,,
+150,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712409,2022020712,Faceoff,409,FACEOFF,Brady Tkachuk faceoff won against Sidney Crosby,2023-01-19T01:21:13Z,2,05:27,14:33,2,3,9.0,Ottawa Senators,OTT
+151,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712363,2022020712,Missed Shot,363,MISSED_SHOT,Drake Batherson Wide of Net Casey DeSmith,2023-01-19T01:21:20Z,2,05:34,14:26,2,3,9.0,Ottawa Senators,OTT
+152,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712410,2022020712,Hit,410,HIT,Thomas Chabot hit Jeff Carter,2023-01-19T01:21:44Z,2,05:58,14:02,2,3,9.0,Ottawa Senators,OTT
+153,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712364,2022020712,Missed Shot,364,MISSED_SHOT,Mark Friedman Wide of Net Cam Talbot,2023-01-19T01:21:47Z,2,06:01,13:59,2,3,5.0,Pittsburgh Penguins,PIT
+154,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712196,2022020712,Giveaway,196,GIVEAWAY,Giveaway by Drew O'Connor,2023-01-19T01:21:51Z,2,06:05,13:55,2,3,5.0,Pittsburgh Penguins,PIT
+155,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712365,2022020712,Shot,365,SHOT,Thomas Chabot Wrist Shot saved by Casey DeSmith,2023-01-19T01:21:58Z,2,06:12,13:48,2,3,9.0,Ottawa Senators,OTT
+156,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712411,2022020712,Hit,411,HIT,Jeff Carter hit Thomas Chabot,2023-01-19T01:22:16Z,2,06:30,13:30,2,3,5.0,Pittsburgh Penguins,PIT
+157,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712412,2022020712,Hit,412,HIT,Marcus Pettersson hit Dylan Gambrell,2023-01-19T01:22:27Z,2,06:41,13:19,2,3,5.0,Pittsburgh Penguins,PIT
+158,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712366,2022020712,Blocked Shot,366,BLOCKED_SHOT,Erik Brannstrom shot blocked shot by Mark Friedman,2023-01-19T01:22:30Z,2,06:44,13:16,2,3,5.0,Pittsburgh Penguins,PIT
+159,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712194,2022020712,Shot,194,SHOT,Nick Holden Snap Shot saved by Casey DeSmith,2023-01-19T01:22:35Z,2,06:49,13:11,2,3,9.0,Ottawa Senators,OTT
+160,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712367,2022020712,Shot,367,SHOT,Shane Pinto Backhand saved by Casey DeSmith,2023-01-19T01:22:46Z,2,07:00,13:00,2,3,9.0,Ottawa Senators,OTT
+161,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712369,2022020712,Missed Shot,369,MISSED_SHOT,Dylan Gambrell Wide of Net Casey DeSmith,2023-01-19T01:23:27Z,2,07:41,12:19,2,3,9.0,Ottawa Senators,OTT
+162,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712197,2022020712,Stoppage,197,STOP,TV timeout,2023-01-19T01:23:41Z,2,07:55,12:05,2,3,,,
+163,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712560,2022020712,Penalty,560,PENALTY,Kasperi Kapanen Hooking against Shane Pinto,2023-01-19T01:23:41Z,2,07:55,12:05,2,3,5.0,Pittsburgh Penguins,PIT
+164,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712413,2022020712,Faceoff,413,FACEOFF,Jeff Carter faceoff won against Brady Tkachuk,2023-01-19T01:26:01Z,2,07:55,12:05,2,3,5.0,Pittsburgh Penguins,PIT
+165,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712198,2022020712,Takeaway,198,TAKEAWAY,Takeaway by Bryan Rust,2023-01-19T01:26:22Z,2,08:16,11:44,2,3,5.0,Pittsburgh Penguins,PIT
+166,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712199,2022020712,Giveaway,199,GIVEAWAY,Giveaway by Thomas Chabot,2023-01-19T01:26:46Z,2,08:40,11:20,2,3,9.0,Ottawa Senators,OTT
+167,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712414,2022020712,Hit,414,HIT,Tim Stützle hit Bryan Rust,2023-01-19T01:26:53Z,2,08:47,11:13,2,3,9.0,Ottawa Senators,OTT
+168,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712371,2022020712,Blocked Shot,371,BLOCKED_SHOT,Brady Tkachuk shot blocked shot by Marcus Pettersson,2023-01-19T01:27:23Z,2,09:17,10:43,2,3,5.0,Pittsburgh Penguins,PIT
+169,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712372,2022020712,Goal,372,GOAL,"Drake Batherson (14) Wrist Shot, assists: Brady Tkachuk (29), Thomas Chabot (17)",2023-01-19T01:27:24Z,2,09:19,10:41,3,3,9.0,Ottawa Senators,OTT
+170,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712415,2022020712,Faceoff,415,FACEOFF,Sidney Crosby faceoff won against Claude Giroux,2023-01-19T01:28:08Z,2,09:19,10:41,3,3,5.0,Pittsburgh Penguins,PIT
+171,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712416,2022020712,Hit,416,HIT,Ty Smith hit Derick Brassard,2023-01-19T01:28:52Z,2,10:03,09:57,3,3,5.0,Pittsburgh Penguins,PIT
+172,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712417,2022020712,Hit,417,HIT,Travis Hamonic hit Kasperi Kapanen,2023-01-19T01:28:55Z,2,10:06,09:54,3,3,9.0,Ottawa Senators,OTT
+173,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712418,2022020712,Hit,418,HIT,Erik Brannstrom hit Jason Zucker,2023-01-19T01:29:23Z,2,10:34,09:26,3,3,9.0,Ottawa Senators,OTT
+174,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712373,2022020712,Missed Shot,373,MISSED_SHOT,Jason Zucker Wide of Net Cam Talbot,2023-01-19T01:29:24Z,2,10:35,09:25,3,3,5.0,Pittsburgh Penguins,PIT
+175,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712374,2022020712,Blocked Shot,374,BLOCKED_SHOT,Chad Ruhwedel shot blocked shot by Erik Brannstrom,2023-01-19T01:29:36Z,2,10:47,09:13,3,3,9.0,Ottawa Senators,OTT
+176,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712200,2022020712,Blocked Shot,200,BLOCKED_SHOT,Rickard Rakell shot blocked shot by Erik Brannstrom,2023-01-19T01:29:38Z,2,10:49,09:11,3,3,9.0,Ottawa Senators,OTT
+177,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712451,2022020712,Shot,451,SHOT,Chad Ruhwedel Wrist Shot saved by Cam Talbot,2023-01-19T01:30:01Z,2,11:12,08:48,3,3,5.0,Pittsburgh Penguins,PIT
+178,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712419,2022020712,Hit,419,HIT,Derick Brassard hit Mark Friedman,2023-01-19T01:30:19Z,2,11:30,08:30,3,3,9.0,Ottawa Senators,OTT
+179,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712452,2022020712,Stoppage,452,STOP,Offside,2023-01-19T01:30:28Z,2,11:38,08:22,3,3,,,
+180,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712420,2022020712,Faceoff,420,FACEOFF,Sidney Crosby faceoff won against Claude Giroux,2023-01-19T01:32:40Z,2,11:38,08:22,3,3,5.0,Pittsburgh Penguins,PIT
+181,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712453,2022020712,Takeaway,453,TAKEAWAY,Takeaway by Josh Norris,2023-01-19T01:32:58Z,2,11:56,08:04,3,3,9.0,Ottawa Senators,OTT
+182,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712375,2022020712,Missed Shot,375,MISSED_SHOT,Thomas Chabot Wide of Net Casey DeSmith,2023-01-19T01:33:03Z,2,12:01,07:59,3,3,9.0,Ottawa Senators,OTT
+183,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712454,2022020712,Stoppage,454,STOP,Icing,2023-01-19T01:33:32Z,2,12:30,07:30,3,3,,,
+184,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712421,2022020712,Faceoff,421,FACEOFF,Brady Tkachuk faceoff won against Evgeni Malkin,2023-01-19T01:33:57Z,2,12:30,07:30,3,3,9.0,Ottawa Senators,OTT
+185,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712376,2022020712,Shot,376,SHOT,Travis Hamonic Snap Shot saved by Casey DeSmith,2023-01-19T01:34:01Z,2,12:34,07:26,3,3,9.0,Ottawa Senators,OTT
+186,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712455,2022020712,Blocked Shot,455,BLOCKED_SHOT,Tim Stützle shot blocked shot by Chad Ruhwedel,2023-01-19T01:34:10Z,2,12:43,07:17,3,3,5.0,Pittsburgh Penguins,PIT
+187,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712600,2022020712,Penalty,600,PENALTY,Evgeni Malkin Holding against Brady Tkachuk,2023-01-19T01:34:12Z,2,12:44,07:16,3,3,5.0,Pittsburgh Penguins,PIT
+188,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712422,2022020712,Faceoff,422,FACEOFF,Jeff Carter faceoff won against Brady Tkachuk,2023-01-19T01:34:55Z,2,12:44,07:16,3,3,5.0,Pittsburgh Penguins,PIT
+189,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712423,2022020712,Hit,423,HIT,Alex DeBrincat hit Chad Ruhwedel,2023-01-19T01:35:29Z,2,13:18,06:42,3,3,9.0,Ottawa Senators,OTT
+190,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712378,2022020712,Missed Shot,378,MISSED_SHOT,Thomas Chabot Wide of Net Casey DeSmith,2023-01-19T01:35:49Z,2,13:38,06:22,3,3,9.0,Ottawa Senators,OTT
+191,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712424,2022020712,Hit,424,HIT,Chad Ruhwedel hit Claude Giroux,2023-01-19T01:35:53Z,2,13:42,06:18,3,3,5.0,Pittsburgh Penguins,PIT
+192,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712456,2022020712,Giveaway,456,GIVEAWAY,Giveaway by Thomas Chabot,2023-01-19T01:35:57Z,2,13:46,06:14,3,3,9.0,Ottawa Senators,OTT
+193,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712457,2022020712,Stoppage,457,STOP,Puck Frozen,2023-01-19T01:36:31Z,2,14:20,05:40,3,3,,,
+194,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712425,2022020712,Faceoff,425,FACEOFF,Claude Giroux faceoff won against Bryan Rust,2023-01-19T01:37:19Z,2,14:20,05:40,3,3,9.0,Ottawa Senators,OTT
+195,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712379,2022020712,Missed Shot,379,MISSED_SHOT,Josh Norris Wide of Net Casey DeSmith,2023-01-19T01:37:25Z,2,14:26,05:34,3,3,9.0,Ottawa Senators,OTT
+196,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712458,2022020712,Giveaway,458,GIVEAWAY,Giveaway by Claude Giroux,2023-01-19T01:37:50Z,2,14:51,05:09,3,3,9.0,Ottawa Senators,OTT
+197,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712426,2022020712,Hit,426,HIT,Jason Zucker hit Jake Sanderson,2023-01-19T01:38:09Z,2,15:10,04:50,3,3,5.0,Pittsburgh Penguins,PIT
+198,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712459,2022020712,Takeaway,459,TAKEAWAY,Takeaway by Brady Tkachuk,2023-01-19T01:38:52Z,2,15:53,04:07,3,3,9.0,Ottawa Senators,OTT
+199,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712380,2022020712,Shot,380,SHOT,Thomas Chabot Slap Shot saved by Casey DeSmith,2023-01-19T01:39:06Z,2,16:07,03:53,3,3,9.0,Ottawa Senators,OTT
+200,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712460,2022020712,Giveaway,460,GIVEAWAY,Giveaway by Brian Dumoulin,2023-01-19T01:39:09Z,2,16:10,03:50,3,3,5.0,Pittsburgh Penguins,PIT
+201,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712427,2022020712,Hit,427,HIT,Drake Batherson hit Jake Guentzel,2023-01-19T01:39:10Z,2,16:11,03:49,3,3,9.0,Ottawa Senators,OTT
+202,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712381,2022020712,Missed Shot,381,MISSED_SHOT,Jacob Bernard-Docker Wide of Net Casey DeSmith,2023-01-19T01:39:16Z,2,16:17,03:43,3,3,9.0,Ottawa Senators,OTT
+203,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712428,2022020712,Hit,428,HIT,Kasperi Kapanen hit Thomas Chabot,2023-01-19T01:39:18Z,2,16:19,03:41,3,3,5.0,Pittsburgh Penguins,PIT
+204,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712429,2022020712,Hit,429,HIT,Claude Giroux hit Drew O'Connor,2023-01-19T01:39:52Z,2,16:53,03:07,3,3,9.0,Ottawa Senators,OTT
+205,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712430,2022020712,Hit,430,HIT,Drew O'Connor hit Nick Holden,2023-01-19T01:40:18Z,2,17:19,02:41,3,3,5.0,Pittsburgh Penguins,PIT
+206,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712461,2022020712,Stoppage,461,STOP,Icing,2023-01-19T01:40:20Z,2,17:21,02:39,3,3,,,
+207,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712431,2022020712,Faceoff,431,FACEOFF,Shane Pinto faceoff won against Evgeni Malkin,2023-01-19T01:40:39Z,2,17:21,02:39,3,3,9.0,Ottawa Senators,OTT
+208,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712462,2022020712,Stoppage,462,STOP,Icing,2023-01-19T01:40:46Z,2,17:28,02:32,3,3,,,
+209,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712432,2022020712,Faceoff,432,FACEOFF,Shane Pinto faceoff won against Rickard Rakell,2023-01-19T01:41:25Z,2,17:28,02:32,3,3,9.0,Ottawa Senators,OTT
+210,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712463,2022020712,Giveaway,463,GIVEAWAY,Giveaway by Erik Brannstrom,2023-01-19T01:41:28Z,2,17:31,02:29,3,3,9.0,Ottawa Senators,OTT
+211,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712382,2022020712,Missed Shot,382,MISSED_SHOT,Jason Zucker Goalpost Cam Talbot,2023-01-19T01:41:30Z,2,17:33,02:27,3,3,5.0,Pittsburgh Penguins,PIT
+212,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712464,2022020712,Takeaway,464,TAKEAWAY,Takeaway by Travis Hamonic,2023-01-19T01:42:29Z,2,18:32,01:28,3,3,9.0,Ottawa Senators,OTT
+213,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712433,2022020712,Hit,433,HIT,Ty Smith hit Tim Stützle,2023-01-19T01:42:37Z,2,18:40,01:20,3,3,5.0,Pittsburgh Penguins,PIT
+214,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712383,2022020712,Shot,383,SHOT,Jacob Bernard-Docker Slap Shot saved by Casey DeSmith,2023-01-19T01:42:52Z,2,18:55,01:05,3,3,9.0,Ottawa Senators,OTT
+215,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712384,2022020712,Missed Shot,384,MISSED_SHOT,Brady Tkachuk Wide of Net Casey DeSmith,2023-01-19T01:43:11Z,2,19:14,00:46,3,3,9.0,Ottawa Senators,OTT
+216,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712394,2022020712,Blocked Shot,394,BLOCKED_SHOT,Tim Stützle shot blocked shot by Mark Friedman,2023-01-19T01:43:13Z,2,19:16,00:44,3,3,5.0,Pittsburgh Penguins,PIT
+217,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712387,2022020712,Penalty,387,PENALTY,Bryan Rust Hooking against Tim Stützle,2023-01-19T01:43:18Z,2,19:19,00:41,3,3,5.0,Pittsburgh Penguins,PIT
+218,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712465,2022020712,Stoppage,465,STOP,TV timeout,2023-01-19T01:43:18Z,2,19:19,00:41,3,3,,,
+219,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712756,2022020712,Penalty,756,PENALTY,Bryan Rust Unsportsmanlike conduct against Tim Stützle,2023-01-19T01:43:18Z,2,19:19,00:41,3,3,5.0,Pittsburgh Penguins,PIT
+220,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712435,2022020712,Faceoff,435,FACEOFF,Teddy Blueger faceoff won against Shane Pinto,2023-01-19T01:45:47Z,2,19:19,00:41,3,3,5.0,Pittsburgh Penguins,PIT
+221,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712466,2022020712,Shot,466,SHOT,Shane Pinto Snap Shot saved by Casey DeSmith,2023-01-19T01:46:16Z,2,19:49,00:11,3,3,9.0,Ottawa Senators,OTT
+222,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712467,2022020712,Stoppage,467,STOP,Goalie Stopped,2023-01-19T01:46:17Z,2,19:50,00:10,3,3,,,
+223,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712436,2022020712,Faceoff,436,FACEOFF,Jeff Carter faceoff won against Brady Tkachuk,2023-01-19T01:46:46Z,2,19:50,00:10,3,3,5.0,Pittsburgh Penguins,PIT
+224,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712390,2022020712,Period End,390,PERIOD_END,End of 2nd Period,2023-01-19T01:46:56Z,2,20:00,00:00,3,3,,,
+225,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712393,2022020712,Period Official,393,PERIOD_OFFICIAL,Period Official,2023-01-19T01:47:06Z,2,20:00,00:00,3,3,,,
+226,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712395,2022020712,Period Ready,395,PERIOD_READY,Period Ready,2023-01-19T02:03:55Z,3,00:00,20:00,3,3,,,
+227,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712437,2022020712,Period Start,437,PERIOD_START,Period Start,2023-01-19T02:05:48Z,3,00:00,20:00,3,3,,,
+228,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712438,2022020712,Faceoff,438,FACEOFF,Brady Tkachuk faceoff won against Teddy Blueger,2023-01-19T02:05:48Z,3,00:00,20:00,3,3,9.0,Ottawa Senators,OTT
+229,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712396,2022020712,Shot,396,SHOT,Brady Tkachuk Snap Shot saved by Casey DeSmith,2023-01-19T02:06:03Z,3,00:15,19:45,3,3,9.0,Ottawa Senators,OTT
+230,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712468,2022020712,Stoppage,468,STOP,Goalie Stopped,2023-01-19T02:06:05Z,3,00:16,19:44,3,3,,,
+231,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712439,2022020712,Faceoff,439,FACEOFF,Jeff Carter faceoff won against Brady Tkachuk,2023-01-19T02:06:25Z,3,00:16,19:44,3,3,5.0,Pittsburgh Penguins,PIT
+232,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712397,2022020712,Shot,397,SHOT,Thomas Chabot Slap Shot saved by Casey DeSmith,2023-01-19T02:07:24Z,3,01:15,18:45,3,3,9.0,Ottawa Senators,OTT
+233,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712469,2022020712,Stoppage,469,STOP,Goalie Stopped,2023-01-19T02:07:26Z,3,01:17,18:43,3,3,,,
+234,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712440,2022020712,Faceoff,440,FACEOFF,Teddy Blueger faceoff won against Claude Giroux,2023-01-19T02:07:53Z,3,01:17,18:43,3,3,5.0,Pittsburgh Penguins,PIT
+235,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712398,2022020712,Shot,398,SHOT,Teddy Blueger Wrist Shot saved by Cam Talbot,2023-01-19T02:08:10Z,3,01:34,18:26,3,3,5.0,Pittsburgh Penguins,PIT
+236,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712470,2022020712,Giveaway,470,GIVEAWAY,Giveaway by Jake Sanderson,2023-01-19T02:08:12Z,3,01:36,18:24,3,3,9.0,Ottawa Senators,OTT
+237,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712471,2022020712,Takeaway,471,TAKEAWAY,Takeaway by Shane Pinto,2023-01-19T02:08:39Z,3,02:03,17:57,3,3,9.0,Ottawa Senators,OTT
+238,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712472,2022020712,Giveaway,472,GIVEAWAY,Giveaway by Brady Tkachuk,2023-01-19T02:09:15Z,3,02:39,17:21,3,3,9.0,Ottawa Senators,OTT
+239,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712399,2022020712,Shot,399,SHOT,Tim Stützle Wrist Shot saved by Casey DeSmith,2023-01-19T02:09:58Z,3,03:22,16:38,3,3,9.0,Ottawa Senators,OTT
+240,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712441,2022020712,Hit,441,HIT,Mark Kastelic hit Brian Dumoulin,2023-01-19T02:10:18Z,3,03:42,16:18,3,3,9.0,Ottawa Senators,OTT
+241,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712400,2022020712,Missed Shot,400,MISSED_SHOT,Parker Kelly Wide of Net Casey DeSmith,2023-01-19T02:10:24Z,3,03:48,16:12,3,3,9.0,Ottawa Senators,OTT
+242,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712442,2022020712,Hit,442,HIT,Parker Kelly hit Pierre-Olivier Joseph,2023-01-19T02:10:24Z,3,03:48,16:12,3,3,9.0,Ottawa Senators,OTT
+243,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712473,2022020712,Shot,473,SHOT,Travis Hamonic Snap Shot saved by Casey DeSmith,2023-01-19T02:10:30Z,3,03:54,16:06,3,3,9.0,Ottawa Senators,OTT
+244,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712474,2022020712,Stoppage,474,STOP,Goalie Stopped,2023-01-19T02:10:32Z,3,03:55,16:05,3,3,,,
+245,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712443,2022020712,Faceoff,443,FACEOFF,Evgeni Malkin faceoff won against Shane Pinto,2023-01-19T02:11:00Z,3,03:55,16:05,3,3,5.0,Pittsburgh Penguins,PIT
+246,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712444,2022020712,Hit,444,HIT,Jason Zucker hit Jacob Bernard-Docker,2023-01-19T02:11:10Z,3,04:05,15:55,3,3,5.0,Pittsburgh Penguins,PIT
+247,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712475,2022020712,Stoppage,475,STOP,Offside,2023-01-19T02:11:11Z,3,04:07,15:53,3,3,,,
+248,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712445,2022020712,Faceoff,445,FACEOFF,Shane Pinto faceoff won against Evgeni Malkin,2023-01-19T02:11:30Z,3,04:07,15:53,3,3,9.0,Ottawa Senators,OTT
+249,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712446,2022020712,Hit,446,HIT,Jason Zucker hit Parker Kelly,2023-01-19T02:11:40Z,3,04:17,15:43,3,3,5.0,Pittsburgh Penguins,PIT
+250,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712476,2022020712,Giveaway,476,GIVEAWAY,Giveaway by Alex DeBrincat,2023-01-19T02:11:59Z,3,04:36,15:24,3,3,9.0,Ottawa Senators,OTT
+251,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712477,2022020712,Takeaway,477,TAKEAWAY,Takeaway by Claude Giroux,2023-01-19T02:12:36Z,3,05:13,14:47,3,3,9.0,Ottawa Senators,OTT
+252,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712447,2022020712,Hit,447,HIT,Pierre-Olivier Joseph hit Erik Brannstrom,2023-01-19T02:12:39Z,3,05:16,14:44,3,3,5.0,Pittsburgh Penguins,PIT
+253,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712478,2022020712,Giveaway,478,GIVEAWAY,Giveaway by Claude Giroux,2023-01-19T02:12:45Z,3,05:22,14:38,3,3,9.0,Ottawa Senators,OTT
+254,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712601,2022020712,Missed Shot,601,MISSED_SHOT,Teddy Blueger Wide of Net Cam Talbot,2023-01-19T02:12:58Z,3,05:35,14:25,3,3,5.0,Pittsburgh Penguins,PIT
+255,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712602,2022020712,Missed Shot,602,MISSED_SHOT,Jeff Carter Wide of Net Cam Talbot,2023-01-19T02:13:05Z,3,05:42,14:18,3,3,5.0,Pittsburgh Penguins,PIT
+256,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712479,2022020712,Shot,479,SHOT,Drake Batherson Snap Shot saved by Casey DeSmith,2023-01-19T02:13:10Z,3,05:47,14:13,3,3,9.0,Ottawa Senators,OTT
+257,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712480,2022020712,Shot,480,SHOT,Jake Sanderson Backhand saved by Casey DeSmith,2023-01-19T02:13:16Z,3,05:53,14:07,3,3,9.0,Ottawa Senators,OTT
+258,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712482,2022020712,Stoppage,482,STOP,Goalie Stopped,2023-01-19T02:13:19Z,3,05:55,14:05,3,3,,,
+259,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712448,2022020712,Faceoff,448,FACEOFF,Mark Kastelic faceoff won against Jonathan Gruden,2023-01-19T02:14:04Z,3,05:55,14:05,3,3,9.0,Ottawa Senators,OTT
+260,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712449,2022020712,Hit,449,HIT,Jonathan Gruden hit Nick Holden,2023-01-19T02:14:16Z,3,06:07,13:53,3,3,5.0,Pittsburgh Penguins,PIT
+261,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712483,2022020712,Stoppage,483,STOP,Puck Frozen,2023-01-19T02:14:18Z,3,06:09,13:51,3,3,,,
+262,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712701,2022020712,Faceoff,701,FACEOFF,Claude Giroux faceoff won against Evgeni Malkin,2023-01-19T02:16:33Z,3,06:09,13:51,3,3,9.0,Ottawa Senators,OTT
+263,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712702,2022020712,Hit,702,HIT,Chad Ruhwedel hit Claude Giroux,2023-01-19T02:16:56Z,3,06:32,13:28,3,3,5.0,Pittsburgh Penguins,PIT
+264,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712603,2022020712,Missed Shot,603,MISSED_SHOT,Alex DeBrincat Wide of Net Casey DeSmith,2023-01-19T02:17:04Z,3,06:40,13:20,3,3,9.0,Ottawa Senators,OTT
+265,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712604,2022020712,Shot,604,SHOT,Josh Norris Slap Shot saved by Casey DeSmith,2023-01-19T02:17:14Z,3,06:50,13:10,3,3,9.0,Ottawa Senators,OTT
+266,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712703,2022020712,Hit,703,HIT,Chad Ruhwedel hit Thomas Chabot,2023-01-19T02:17:26Z,3,07:02,12:58,3,3,5.0,Pittsburgh Penguins,PIT
+267,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712817,2022020712,Penalty,817,PENALTY,Jacob Bernard-Docker Roughing against Jason Zucker,2023-01-19T02:17:55Z,3,07:31,12:29,3,3,9.0,Ottawa Senators,OTT
+268,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712704,2022020712,Faceoff,704,FACEOFF,Mark Kastelic faceoff won against Sidney Crosby,2023-01-19T02:19:01Z,3,07:31,12:29,3,3,9.0,Ottawa Senators,OTT
+269,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712605,2022020712,Blocked Shot,605,BLOCKED_SHOT,Sidney Crosby shot blocked shot by Travis Hamonic,2023-01-19T02:19:42Z,3,08:12,11:48,3,3,9.0,Ottawa Senators,OTT
+270,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712606,2022020712,Blocked Shot,606,BLOCKED_SHOT,Jake Guentzel shot blocked shot by Jake Sanderson,2023-01-19T02:19:52Z,3,08:22,11:38,3,3,9.0,Ottawa Senators,OTT
+271,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712484,2022020712,Takeaway,484,TAKEAWAY,Takeaway by Parker Kelly,2023-01-19T02:19:59Z,3,08:29,11:31,3,3,9.0,Ottawa Senators,OTT
+272,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712607,2022020712,Missed Shot,607,MISSED_SHOT,Bryan Rust Wide of Net Cam Talbot,2023-01-19T02:20:22Z,3,08:52,11:08,3,3,5.0,Pittsburgh Penguins,PIT
+273,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712608,2022020712,Missed Shot,608,MISSED_SHOT,Pierre-Olivier Joseph Wide of Net Cam Talbot,2023-01-19T02:20:32Z,3,09:02,10:58,3,3,5.0,Pittsburgh Penguins,PIT
+274,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712485,2022020712,Giveaway,485,GIVEAWAY,Giveaway by Jason Zucker,2023-01-19T02:20:34Z,3,09:04,10:56,3,3,5.0,Pittsburgh Penguins,PIT
+275,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712609,2022020712,Penalty,609,PENALTY,Pierre-Olivier Joseph Cross-checking against Dylan Gambrell,2023-01-19T02:20:40Z,3,09:10,10:50,3,3,5.0,Pittsburgh Penguins,PIT
+276,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712705,2022020712,Faceoff,705,FACEOFF,Claude Giroux faceoff won against Jeff Carter,2023-01-19T02:21:44Z,3,09:10,10:50,3,3,9.0,Ottawa Senators,OTT
+277,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712612,2022020712,Missed Shot,612,MISSED_SHOT,Tim Stützle Wide of Net Casey DeSmith,2023-01-19T02:22:34Z,3,10:00,10:00,3,3,9.0,Ottawa Senators,OTT
+278,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712486,2022020712,Giveaway,486,GIVEAWAY,Giveaway by Brock McGinn,2023-01-19T02:22:37Z,3,10:03,09:57,3,3,5.0,Pittsburgh Penguins,PIT
+279,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712613,2022020712,Blocked Shot,613,BLOCKED_SHOT,Alex DeBrincat shot blocked shot by Mark Friedman,2023-01-19T02:22:39Z,3,10:05,09:55,3,3,5.0,Pittsburgh Penguins,PIT
+280,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712487,2022020712,Stoppage,487,STOP,Puck in Netting,2023-01-19T02:23:18Z,3,10:44,09:16,3,3,,,
+281,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712706,2022020712,Faceoff,706,FACEOFF,Claude Giroux faceoff won against Teddy Blueger,2023-01-19T02:23:59Z,3,10:44,09:16,3,3,9.0,Ottawa Senators,OTT
+282,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712614,2022020712,Goal,614,GOAL,"Shane Pinto (11) Wrist Shot, assists: Brady Tkachuk (30), Claude Giroux (24)",2023-01-19T02:24:13Z,3,10:58,09:02,4,3,9.0,Ottawa Senators,OTT
+283,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712707,2022020712,Faceoff,707,FACEOFF,Sidney Crosby faceoff won against Claude Giroux,2023-01-19T02:24:54Z,3,10:58,09:02,4,3,5.0,Pittsburgh Penguins,PIT
+284,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712615,2022020712,Blocked Shot,615,BLOCKED_SHOT,Kasperi Kapanen shot blocked shot by Josh Norris,2023-01-19T02:25:17Z,3,11:21,08:39,4,3,9.0,Ottawa Senators,OTT
+285,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712488,2022020712,Stoppage,488,STOP,TV timeout,2023-01-19T02:25:27Z,3,11:30,08:30,4,3,,,
+286,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712903,2022020712,Penalty,903,PENALTY,Too many men/ice served by Brady Tkachuk,2023-01-19T02:25:27Z,3,11:30,08:30,4,3,9.0,Ottawa Senators,OTT
+287,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712708,2022020712,Faceoff,708,FACEOFF,Sidney Crosby faceoff won against Claude Giroux,2023-01-19T02:27:39Z,3,11:30,08:30,4,3,5.0,Pittsburgh Penguins,PIT
+288,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712619,2022020712,Shot,619,SHOT,Jake Guentzel Slap Shot saved by Cam Talbot,2023-01-19T02:27:47Z,3,11:38,08:22,4,3,5.0,Pittsburgh Penguins,PIT
+289,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712620,2022020712,Shot,620,SHOT,Evgeni Malkin Tip-In saved by Cam Talbot,2023-01-19T02:27:57Z,3,11:48,08:12,4,3,5.0,Pittsburgh Penguins,PIT
+290,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712489,2022020712,Stoppage,489,STOP,Goalie Stopped,2023-01-19T02:27:58Z,3,11:49,08:11,4,3,,,
+291,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712709,2022020712,Faceoff,709,FACEOFF,Mark Kastelic faceoff won against Sidney Crosby,2023-01-19T02:28:29Z,3,11:49,08:11,4,3,9.0,Ottawa Senators,OTT
+292,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712490,2022020712,Giveaway,490,GIVEAWAY,Giveaway by Travis Hamonic,2023-01-19T02:28:34Z,3,11:54,08:06,4,3,9.0,Ottawa Senators,OTT
+293,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712491,2022020712,Giveaway,491,GIVEAWAY,Giveaway by Rickard Rakell,2023-01-19T02:28:54Z,3,12:14,07:46,4,3,5.0,Pittsburgh Penguins,PIT
+294,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712621,2022020712,Goal,621,GOAL,"Rickard Rakell (16) Wrist Shot, assists: Sidney Crosby (31), Evgeni Malkin (28)",2023-01-19T02:29:14Z,3,12:33,07:27,4,4,5.0,Pittsburgh Penguins,PIT
+295,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712710,2022020712,Faceoff,710,FACEOFF,Tim Stützle faceoff won against Jeff Carter,2023-01-19T02:29:57Z,3,12:33,07:27,4,4,9.0,Ottawa Senators,OTT
+296,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712492,2022020712,Stoppage,492,STOP,Icing,2023-01-19T02:30:03Z,3,12:39,07:21,4,4,,,
+297,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712711,2022020712,Faceoff,711,FACEOFF,Jeff Carter faceoff won against Tim Stützle,2023-01-19T02:30:26Z,3,12:39,07:21,4,4,5.0,Pittsburgh Penguins,PIT
+298,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712712,2022020712,Hit,712,HIT,Brady Tkachuk hit Mark Friedman,2023-01-19T02:30:29Z,3,12:42,07:18,4,4,9.0,Ottawa Senators,OTT
+299,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712713,2022020712,Hit,713,HIT,Tim Stützle hit Teddy Blueger,2023-01-19T02:30:31Z,3,12:44,07:16,4,4,9.0,Ottawa Senators,OTT
+300,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712493,2022020712,Giveaway,493,GIVEAWAY,Giveaway by Tim Stützle,2023-01-19T02:30:49Z,3,13:02,06:58,4,4,9.0,Ottawa Senators,OTT
+301,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712494,2022020712,Giveaway,494,GIVEAWAY,Giveaway by Kasperi Kapanen,2023-01-19T02:31:54Z,3,14:07,05:53,4,4,5.0,Pittsburgh Penguins,PIT
+302,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712622,2022020712,Shot,622,SHOT,Claude Giroux Wrist Shot saved by Casey DeSmith,2023-01-19T02:31:56Z,3,14:09,05:51,4,4,9.0,Ottawa Senators,OTT
+303,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712623,2022020712,Missed Shot,623,MISSED_SHOT,Bryan Rust Goalpost Cam Talbot,2023-01-19T02:32:11Z,3,14:24,05:36,4,4,5.0,Pittsburgh Penguins,PIT
+304,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712714,2022020712,Hit,714,HIT,Jake Sanderson hit Bryan Rust,2023-01-19T02:32:22Z,3,14:35,05:25,4,4,9.0,Ottawa Senators,OTT
+305,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712495,2022020712,Missed Shot,495,MISSED_SHOT,Sidney Crosby Over Net Cam Talbot,2023-01-19T02:32:23Z,3,14:36,05:24,4,4,5.0,Pittsburgh Penguins,PIT
+306,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712496,2022020712,Takeaway,496,TAKEAWAY,Takeaway by Sidney Crosby,2023-01-19T02:32:30Z,3,14:43,05:17,4,4,5.0,Pittsburgh Penguins,PIT
+307,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712624,2022020712,Missed Shot,624,MISSED_SHOT,Jake Guentzel Wide of Net Cam Talbot,2023-01-19T02:32:33Z,3,14:46,05:14,4,4,5.0,Pittsburgh Penguins,PIT
+308,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712497,2022020712,Giveaway,497,GIVEAWAY,Giveaway by Jake Guentzel,2023-01-19T02:32:58Z,3,15:11,04:49,4,4,5.0,Pittsburgh Penguins,PIT
+309,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712715,2022020712,Hit,715,HIT,Rickard Rakell hit Travis Hamonic,2023-01-19T02:33:18Z,3,15:31,04:29,4,4,5.0,Pittsburgh Penguins,PIT
+310,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712716,2022020712,Hit,716,HIT,Jason Zucker hit Nick Holden,2023-01-19T02:33:43Z,3,15:56,04:04,4,4,5.0,Pittsburgh Penguins,PIT
+311,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712498,2022020712,Stoppage,498,STOP,Puck in Crowd,2023-01-19T02:34:04Z,3,16:17,03:43,4,4,,,
+312,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712717,2022020712,Faceoff,717,FACEOFF,Jeff Carter faceoff won against Tim Stützle,2023-01-19T02:36:18Z,3,16:17,03:43,4,4,5.0,Pittsburgh Penguins,PIT
+313,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712718,2022020712,Hit,718,HIT,Teddy Blueger hit Thomas Chabot,2023-01-19T02:36:29Z,3,16:28,03:32,4,4,5.0,Pittsburgh Penguins,PIT
+314,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712625,2022020712,Missed Shot,625,MISSED_SHOT,Claude Giroux Wide of Net Casey DeSmith,2023-01-19T02:37:02Z,3,17:01,02:59,4,4,9.0,Ottawa Senators,OTT
+315,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712719,2022020712,Hit,719,HIT,Bryan Rust hit Travis Hamonic,2023-01-19T02:37:12Z,3,17:11,02:49,4,4,5.0,Pittsburgh Penguins,PIT
+316,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712720,2022020712,Hit,720,HIT,Marcus Pettersson hit Alex DeBrincat,2023-01-19T02:37:18Z,3,17:17,02:43,4,4,5.0,Pittsburgh Penguins,PIT
+317,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712500,2022020712,Stoppage,500,STOP,Offside,2023-01-19T02:37:38Z,3,17:37,02:23,4,4,,,
+318,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712721,2022020712,Faceoff,721,FACEOFF,Evgeni Malkin faceoff won against Tim Stützle,2023-01-19T02:38:04Z,3,17:37,02:23,4,4,5.0,Pittsburgh Penguins,PIT
+319,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712851,2022020712,Giveaway,851,GIVEAWAY,Giveaway by Brian Dumoulin,2023-01-19T02:38:14Z,3,17:47,02:13,4,4,5.0,Pittsburgh Penguins,PIT
+320,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712852,2022020712,Takeaway,852,TAKEAWAY,Takeaway by Chad Ruhwedel,2023-01-19T02:38:26Z,3,17:59,02:01,4,4,5.0,Pittsburgh Penguins,PIT
+321,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712722,2022020712,Hit,722,HIT,Jason Zucker hit Thomas Chabot,2023-01-19T02:38:34Z,3,18:07,01:53,4,4,5.0,Pittsburgh Penguins,PIT
+322,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712723,2022020712,Hit,723,HIT,Jacob Bernard-Docker hit Evgeni Malkin,2023-01-19T02:38:44Z,3,18:17,01:43,4,4,9.0,Ottawa Senators,OTT
+323,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712853,2022020712,Takeaway,853,TAKEAWAY,Takeaway by Alex DeBrincat,2023-01-19T02:38:48Z,3,18:21,01:39,4,4,9.0,Ottawa Senators,OTT
+324,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712854,2022020712,Stoppage,854,STOP,Puck in Crowd,2023-01-19T02:39:04Z,3,18:38,01:22,4,4,,,
+325,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712724,2022020712,Faceoff,724,FACEOFF,Mark Kastelic faceoff won against Sidney Crosby,2023-01-19T02:39:38Z,3,18:38,01:22,4,4,9.0,Ottawa Senators,OTT
+326,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712726,2022020712,Hit,726,HIT,Brian Dumoulin hit Claude Giroux,2023-01-19T02:39:45Z,3,18:45,01:15,4,4,5.0,Pittsburgh Penguins,PIT
+327,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712626,2022020712,Missed Shot,626,MISSED_SHOT,Drake Batherson Wide of Net Casey DeSmith,2023-01-19T02:40:08Z,3,19:08,00:52,4,4,9.0,Ottawa Senators,OTT
+328,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712727,2022020712,Hit,727,HIT,Mark Friedman hit Claude Giroux,2023-01-19T02:40:33Z,3,19:33,00:27,4,4,5.0,Pittsburgh Penguins,PIT
+329,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712856,2022020712,Takeaway,856,TAKEAWAY,Takeaway by Claude Giroux,2023-01-19T02:40:33Z,3,19:33,00:27,4,4,9.0,Ottawa Senators,OTT
+330,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712627,2022020712,Shot,627,SHOT,Thomas Chabot Wrist Shot saved by Casey DeSmith,2023-01-19T02:40:41Z,3,19:41,00:19,4,4,9.0,Ottawa Senators,OTT
+331,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712628,2022020712,Period End,628,PERIOD_END,End of 3rd Period,2023-01-19T02:41:00Z,3,20:00,00:00,4,4,,,
+332,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712631,2022020712,Period Official,631,PERIOD_OFFICIAL,Period Official,2023-01-19T02:41:05Z,3,20:00,00:00,4,4,,,
+333,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712632,2022020712,Period Ready,632,PERIOD_READY,Period Ready,2023-01-19T02:43:07Z,4,00:00,05:00,4,4,,,
+334,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712728,2022020712,Period Start,728,PERIOD_START,Period Start,2023-01-19T02:43:30Z,4,00:00,05:00,4,4,,,
+335,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712729,2022020712,Faceoff,729,FACEOFF,Claude Giroux faceoff won against Sidney Crosby,2023-01-19T02:43:30Z,4,00:00,05:00,4,4,9.0,Ottawa Senators,OTT
+336,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712633,2022020712,Shot,633,SHOT,Marcus Pettersson Wrist Shot saved by Cam Talbot,2023-01-19T02:43:37Z,4,00:07,04:53,4,4,5.0,Pittsburgh Penguins,PIT
+337,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712634,2022020712,Goal,634,GOAL,"Brady Tkachuk (16) Snap Shot, assists: Tim Stützle (22), Thomas Chabot (18)",2023-01-19T02:43:55Z,4,00:25,04:35,5,4,9.0,Ottawa Senators,OTT
+338,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712635,2022020712,Period End,635,PERIOD_END,End of OT,2023-01-19T02:43:55Z,4,00:25,04:35,5,4,,,
+339,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712638,2022020712,Period Official,638,PERIOD_OFFICIAL,Period Official,2023-01-19T02:44:59Z,4,00:25,04:35,5,4,,,
+340,9,5,Ottawa Senators,Pittsburgh Penguins,2022020712639,2022020712,Game End,639,GAME_END,Game End,2023-01-19T02:45:01Z,4,00:25,04:35,5,4,,,
+341,9,5,Ottawa Senators,Pittsburgh Penguins,20220207121242,2022020712,Game Official,1242,GAME_OFFICIAL,Game Official,2023-01-19T18:05:38Z,4,00:25,04:35,5,4,,,

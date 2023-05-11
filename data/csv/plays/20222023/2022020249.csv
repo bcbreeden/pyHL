@@ -1,0 +1,348 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,8,1,Montréal Canadiens,New Jersey Devils,20220202491,2022020249,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-11-15T23:18:32Z,1,00:00,20:00,0,0,,,
+1,8,1,Montréal Canadiens,New Jersey Devils,20220202495,2022020249,Period Ready,5,PERIOD_READY,Period Ready,2022-11-16T00:08:14Z,1,00:00,20:00,0,0,,,
+2,8,1,Montréal Canadiens,New Jersey Devils,202202024951,2022020249,Period Start,51,PERIOD_START,Period Start,2022-11-16T00:08:34Z,1,00:00,20:00,0,0,,,
+3,8,1,Montréal Canadiens,New Jersey Devils,202202024952,2022020249,Faceoff,52,FACEOFF,Nico Hischier faceoff won against Christian Dvorak,2022-11-16T00:08:34Z,1,00:00,20:00,0,0,1.0,New Jersey Devils,NJD
+4,8,1,Montréal Canadiens,New Jersey Devils,2022020249151,2022020249,Shot,151,SHOT,Tomas Tatar Wrist Shot saved by Jake Allen,2022-11-16T00:08:48Z,1,00:14,19:46,0,0,1.0,New Jersey Devils,NJD
+5,8,1,Montréal Canadiens,New Jersey Devils,2022020249152,2022020249,Blocked Shot,152,BLOCKED_SHOT,Nick Suzuki shot blocked shot by John Marino,2022-11-16T00:09:25Z,1,00:51,19:09,0,0,1.0,New Jersey Devils,NJD
+6,8,1,Montréal Canadiens,New Jersey Devils,20220202498,2022020249,Hit,8,HIT,Miles Wood hit Jordan Harris,2022-11-16T00:09:32Z,1,00:58,19:02,0,0,1.0,New Jersey Devils,NJD
+7,8,1,Montréal Canadiens,New Jersey Devils,2022020249153,2022020249,Missed Shot,153,MISSED_SHOT,Kirby Dach Wide of Net Vitek Vanecek,2022-11-16T00:09:40Z,1,01:06,18:54,0,0,8.0,Montréal Canadiens,MTL
+8,8,1,Montréal Canadiens,New Jersey Devils,20220202499,2022020249,Hit,9,HIT,Michael McLeod hit Johnathan Kovacevic,2022-11-16T00:09:49Z,1,01:15,18:45,0,0,1.0,New Jersey Devils,NJD
+9,8,1,Montréal Canadiens,New Jersey Devils,202202024953,2022020249,Giveaway,53,GIVEAWAY,Giveaway by Damon Severson,2022-11-16T00:09:55Z,1,01:21,18:39,0,0,1.0,New Jersey Devils,NJD
+10,8,1,Montréal Canadiens,New Jersey Devils,2022020249154,2022020249,Shot,154,SHOT,Evgenii Dadonov Tip-In saved by Vitek Vanecek,2022-11-16T00:09:58Z,1,01:24,18:36,0,0,8.0,Montréal Canadiens,MTL
+11,8,1,Montréal Canadiens,New Jersey Devils,2022020249155,2022020249,Shot,155,SHOT,Evgenii Dadonov Wrist Shot saved by Vitek Vanecek,2022-11-16T00:10:00Z,1,01:26,18:34,0,0,8.0,Montréal Canadiens,MTL
+12,8,1,Montréal Canadiens,New Jersey Devils,202202024910,2022020249,Stoppage,10,STOP,Puck in Netting,2022-11-16T00:10:00Z,1,01:27,18:33,0,0,,,
+13,8,1,Montréal Canadiens,New Jersey Devils,202202024954,2022020249,Faceoff,54,FACEOFF,Sean Monahan faceoff won against Jack Hughes,2022-11-16T00:10:30Z,1,01:27,18:33,0,0,8.0,Montréal Canadiens,MTL
+14,8,1,Montréal Canadiens,New Jersey Devils,202202024955,2022020249,Giveaway,55,GIVEAWAY,Giveaway by Kaiden Guhle,2022-11-16T00:10:46Z,1,01:43,18:17,0,0,8.0,Montréal Canadiens,MTL
+15,8,1,Montréal Canadiens,New Jersey Devils,2022020249156,2022020249,Shot,156,SHOT,Brendan Smith Wrist Shot saved by Jake Allen,2022-11-16T00:10:49Z,1,01:46,18:14,0,0,1.0,New Jersey Devils,NJD
+16,8,1,Montréal Canadiens,New Jersey Devils,202202024911,2022020249,Stoppage,11,STOP,Puck in Netting,2022-11-16T00:10:50Z,1,01:47,18:13,0,0,,,
+17,8,1,Montréal Canadiens,New Jersey Devils,202202024956,2022020249,Faceoff,56,FACEOFF,Erik Haula faceoff won against Michael Pezzetta,2022-11-16T00:11:24Z,1,01:47,18:13,0,0,1.0,New Jersey Devils,NJD
+18,8,1,Montréal Canadiens,New Jersey Devils,202202024957,2022020249,Takeaway,57,TAKEAWAY,Takeaway by Juraj Slafkovsky,2022-11-16T00:11:29Z,1,01:52,18:08,0,0,8.0,Montréal Canadiens,MTL
+19,8,1,Montréal Canadiens,New Jersey Devils,2022020249157,2022020249,Shot,157,SHOT,Jake Evans Slap Shot saved by Vitek Vanecek,2022-11-16T00:11:40Z,1,02:03,17:57,0,0,8.0,Montréal Canadiens,MTL
+20,8,1,Montréal Canadiens,New Jersey Devils,202202024912,2022020249,Hit,12,HIT,Dougie Hamilton hit Michael Pezzetta,2022-11-16T00:11:58Z,1,02:21,17:39,0,0,1.0,New Jersey Devils,NJD
+21,8,1,Montréal Canadiens,New Jersey Devils,2022020249158,2022020249,Shot,158,SHOT,Brendan Gallagher Slap Shot saved by Vitek Vanecek,2022-11-16T00:12:35Z,1,02:58,17:02,0,0,8.0,Montréal Canadiens,MTL
+22,8,1,Montréal Canadiens,New Jersey Devils,202202024958,2022020249,Giveaway,58,GIVEAWAY,Giveaway by Tomas Tatar,2022-11-16T00:12:44Z,1,03:07,16:53,0,0,1.0,New Jersey Devils,NJD
+23,8,1,Montréal Canadiens,New Jersey Devils,2022020249159,2022020249,Blocked Shot,159,BLOCKED_SHOT,Brendan Gallagher shot blocked shot by Jonas Siegenthaler,2022-11-16T00:12:46Z,1,03:09,16:51,0,0,1.0,New Jersey Devils,NJD
+24,8,1,Montréal Canadiens,New Jersey Devils,202202024913,2022020249,Stoppage,13,STOP,Puck in Netting,2022-11-16T00:12:47Z,1,03:10,16:50,0,0,,,
+25,8,1,Montréal Canadiens,New Jersey Devils,202202024959,2022020249,Faceoff,59,FACEOFF,Michael McLeod faceoff won against Sean Monahan,2022-11-16T00:13:21Z,1,03:10,16:50,0,0,1.0,New Jersey Devils,NJD
+26,8,1,Montréal Canadiens,New Jersey Devils,2022020249160,2022020249,Shot,160,SHOT,Miles Wood Snap Shot saved by Jake Allen,2022-11-16T00:13:51Z,1,03:40,16:20,0,0,1.0,New Jersey Devils,NJD
+27,8,1,Montréal Canadiens,New Jersey Devils,202202024914,2022020249,Stoppage,14,STOP,Goalie Stopped,2022-11-16T00:13:51Z,1,03:41,16:19,0,0,,,
+28,8,1,Montréal Canadiens,New Jersey Devils,202202024960,2022020249,Faceoff,60,FACEOFF,Nick Suzuki faceoff won against Jack Hughes,2022-11-16T00:14:19Z,1,03:41,16:19,0,0,8.0,Montréal Canadiens,MTL
+29,8,1,Montréal Canadiens,New Jersey Devils,202202024961,2022020249,Giveaway,61,GIVEAWAY,Giveaway by Jonas Siegenthaler,2022-11-16T00:14:53Z,1,04:15,15:45,0,0,1.0,New Jersey Devils,NJD
+30,8,1,Montréal Canadiens,New Jersey Devils,202202024915,2022020249,Stoppage,15,STOP,Icing,2022-11-16T00:15:07Z,1,04:28,15:32,0,0,,,
+31,8,1,Montréal Canadiens,New Jersey Devils,202202024964,2022020249,Faceoff,64,FACEOFF,Jake Evans faceoff won against Jack Hughes,2022-11-16T00:15:42Z,1,04:28,15:32,0,0,8.0,Montréal Canadiens,MTL
+32,8,1,Montréal Canadiens,New Jersey Devils,2022020249161,2022020249,Shot,161,SHOT,Juraj Slafkovsky Wrist Shot saved by Vitek Vanecek,2022-11-16T00:15:45Z,1,04:31,15:29,0,0,8.0,Montréal Canadiens,MTL
+33,8,1,Montréal Canadiens,New Jersey Devils,202202024916,2022020249,Stoppage,16,STOP,Referee or Linesman,2022-11-16T00:15:50Z,1,04:36,15:24,0,0,,,
+34,8,1,Montréal Canadiens,New Jersey Devils,202202024965,2022020249,Faceoff,65,FACEOFF,Jake Evans faceoff won against Jesper Boqvist,2022-11-16T00:16:40Z,1,04:36,15:24,0,0,8.0,Montréal Canadiens,MTL
+35,8,1,Montréal Canadiens,New Jersey Devils,2022020249162,2022020249,Missed Shot,162,MISSED_SHOT,Michael Pezzetta Wide of Net Vitek Vanecek,2022-11-16T00:16:46Z,1,04:42,15:18,0,0,8.0,Montréal Canadiens,MTL
+36,8,1,Montréal Canadiens,New Jersey Devils,2022020249163,2022020249,Blocked Shot,163,BLOCKED_SHOT,Erik Haula shot blocked shot by Arber Xhekaj,2022-11-16T00:17:12Z,1,05:08,14:52,0,0,8.0,Montréal Canadiens,MTL
+37,8,1,Montréal Canadiens,New Jersey Devils,2022020249136,2022020249,Penalty,136,PENALTY,Arber Xhekaj Boarding against Jesper Boqvist,2022-11-16T00:17:24Z,1,05:20,14:40,0,0,8.0,Montréal Canadiens,MTL
+38,8,1,Montréal Canadiens,New Jersey Devils,202202024966,2022020249,Faceoff,66,FACEOFF,Nico Hischier faceoff won against Jake Evans,2022-11-16T00:18:03Z,1,05:20,14:40,0,0,1.0,New Jersey Devils,NJD
+39,8,1,Montréal Canadiens,New Jersey Devils,2022020249164,2022020249,Shot,164,SHOT,Dougie Hamilton Slap Shot saved by Jake Allen,2022-11-16T00:18:17Z,1,05:34,14:26,0,0,1.0,New Jersey Devils,NJD
+40,8,1,Montréal Canadiens,New Jersey Devils,2022020249165,2022020249,Shot,165,SHOT,Nico Hischier Wrist Shot saved by Jake Allen,2022-11-16T00:18:19Z,1,05:36,14:24,0,0,1.0,New Jersey Devils,NJD
+41,8,1,Montréal Canadiens,New Jersey Devils,202202024918,2022020249,Stoppage,18,STOP,Puck in Crowd,2022-11-16T00:18:33Z,1,05:50,14:10,0,0,,,
+42,8,1,Montréal Canadiens,New Jersey Devils,202202024967,2022020249,Faceoff,67,FACEOFF,Nico Hischier faceoff won against Christian Dvorak,2022-11-16T00:19:01Z,1,05:50,14:10,0,0,1.0,New Jersey Devils,NJD
+43,8,1,Montréal Canadiens,New Jersey Devils,202202024919,2022020249,Hit,19,HIT,Kaiden Guhle hit Jack Hughes,2022-11-16T00:19:52Z,1,06:41,13:19,0,0,8.0,Montréal Canadiens,MTL
+44,8,1,Montréal Canadiens,New Jersey Devils,2022020249166,2022020249,Shot,166,SHOT,Damon Severson Snap Shot saved by Jake Allen,2022-11-16T00:20:18Z,1,07:07,12:53,0,0,1.0,New Jersey Devils,NJD
+45,8,1,Montréal Canadiens,New Jersey Devils,202202024920,2022020249,Stoppage,20,STOP,Goalie Stopped,2022-11-16T00:20:19Z,1,07:08,12:52,0,0,,,
+46,8,1,Montréal Canadiens,New Jersey Devils,202202024969,2022020249,Faceoff,69,FACEOFF,Sean Monahan faceoff won against Erik Haula,2022-11-16T00:20:45Z,1,07:08,12:52,0,0,8.0,Montréal Canadiens,MTL
+47,8,1,Montréal Canadiens,New Jersey Devils,202202024970,2022020249,Takeaway,70,TAKEAWAY,Takeaway by Mike Hoffman,2022-11-16T00:21:00Z,1,07:23,12:37,0,0,8.0,Montréal Canadiens,MTL
+48,8,1,Montréal Canadiens,New Jersey Devils,2022020249167,2022020249,Blocked Shot,167,BLOCKED_SHOT,Mike Hoffman shot blocked shot by Tomas Tatar,2022-11-16T00:21:07Z,1,07:30,12:30,0,0,1.0,New Jersey Devils,NJD
+49,8,1,Montréal Canadiens,New Jersey Devils,202202024921,2022020249,Stoppage,21,STOP,Puck in Netting,2022-11-16T00:21:08Z,1,07:31,12:29,0,0,,,
+50,8,1,Montréal Canadiens,New Jersey Devils,202202024971,2022020249,Faceoff,71,FACEOFF,Christian Dvorak faceoff won against Michael McLeod,2022-11-16T00:23:27Z,1,07:31,12:29,0,0,8.0,Montréal Canadiens,MTL
+51,8,1,Montréal Canadiens,New Jersey Devils,202202024972,2022020249,Takeaway,72,TAKEAWAY,Takeaway by Nathan Bastian,2022-11-16T00:23:31Z,1,07:35,12:25,0,0,1.0,New Jersey Devils,NJD
+52,8,1,Montréal Canadiens,New Jersey Devils,202202024922,2022020249,Hit,22,HIT,Joel Edmundson hit Michael McLeod,2022-11-16T00:24:07Z,1,08:11,11:49,0,0,8.0,Montréal Canadiens,MTL
+53,8,1,Montréal Canadiens,New Jersey Devils,2022020249168,2022020249,Blocked Shot,168,BLOCKED_SHOT,Arber Xhekaj shot blocked shot by Dawson Mercer,2022-11-16T00:24:37Z,1,08:41,11:19,0,0,1.0,New Jersey Devils,NJD
+54,8,1,Montréal Canadiens,New Jersey Devils,202202024923,2022020249,Stoppage,23,STOP,Puck in Netting,2022-11-16T00:24:38Z,1,08:42,11:18,0,0,,,
+55,8,1,Montréal Canadiens,New Jersey Devils,202202024973,2022020249,Faceoff,73,FACEOFF,Sean Monahan faceoff won against Nico Hischier,2022-11-16T00:25:09Z,1,08:42,11:18,0,0,8.0,Montréal Canadiens,MTL
+56,8,1,Montréal Canadiens,New Jersey Devils,2022020249169,2022020249,Shot,169,SHOT,Jordan Harris Wrist Shot saved by Vitek Vanecek,2022-11-16T00:25:12Z,1,08:45,11:15,0,0,8.0,Montréal Canadiens,MTL
+57,8,1,Montréal Canadiens,New Jersey Devils,202202024924,2022020249,Stoppage,24,STOP,Goalie Stopped,2022-11-16T00:25:12Z,1,08:46,11:14,0,0,,,
+58,8,1,Montréal Canadiens,New Jersey Devils,202202024974,2022020249,Faceoff,74,FACEOFF,Sean Monahan faceoff won against Nico Hischier,2022-11-16T00:25:32Z,1,08:46,11:14,0,0,8.0,Montréal Canadiens,MTL
+59,8,1,Montréal Canadiens,New Jersey Devils,2022020249170,2022020249,Shot,170,SHOT,Josh Anderson Snap Shot saved by Vitek Vanecek,2022-11-16T00:25:38Z,1,08:52,11:08,0,0,8.0,Montréal Canadiens,MTL
+60,8,1,Montréal Canadiens,New Jersey Devils,2022020249171,2022020249,Shot,171,SHOT,Johnathan Kovacevic Wrist Shot saved by Vitek Vanecek,2022-11-16T00:25:43Z,1,08:57,11:03,0,0,8.0,Montréal Canadiens,MTL
+61,8,1,Montréal Canadiens,New Jersey Devils,2022020249172,2022020249,Shot,172,SHOT,Josh Anderson Wrist Shot saved by Vitek Vanecek,2022-11-16T00:26:08Z,1,09:22,10:38,0,0,8.0,Montréal Canadiens,MTL
+62,8,1,Montréal Canadiens,New Jersey Devils,202202024925,2022020249,Stoppage,25,STOP,Icing,2022-11-16T00:26:40Z,1,09:54,10:06,0,0,,,
+63,8,1,Montréal Canadiens,New Jersey Devils,202202024975,2022020249,Faceoff,75,FACEOFF,Nick Suzuki faceoff won against Jack Hughes,2022-11-16T00:27:07Z,1,09:54,10:06,0,0,8.0,Montréal Canadiens,MTL
+64,8,1,Montréal Canadiens,New Jersey Devils,2022020249173,2022020249,Blocked Shot,173,BLOCKED_SHOT,David Savard shot blocked shot by John Marino,2022-11-16T00:27:12Z,1,09:59,10:01,0,0,1.0,New Jersey Devils,NJD
+65,8,1,Montréal Canadiens,New Jersey Devils,202202024976,2022020249,Takeaway,76,TAKEAWAY,Takeaway by John Marino,2022-11-16T00:27:35Z,1,10:22,09:38,0,0,1.0,New Jersey Devils,NJD
+66,8,1,Montréal Canadiens,New Jersey Devils,2022020249174,2022020249,Blocked Shot,174,BLOCKED_SHOT,Damon Severson shot blocked shot by Joel Edmundson,2022-11-16T00:28:03Z,1,10:50,09:10,0,0,8.0,Montréal Canadiens,MTL
+67,8,1,Montréal Canadiens,New Jersey Devils,2022020249175,2022020249,Shot,175,SHOT,Jonas Siegenthaler Snap Shot saved by Jake Allen,2022-11-16T00:28:05Z,1,10:52,09:08,0,0,1.0,New Jersey Devils,NJD
+68,8,1,Montréal Canadiens,New Jersey Devils,202202024926,2022020249,Stoppage,26,STOP,Goalie Stopped,2022-11-16T00:28:06Z,1,10:53,09:07,0,0,,,
+69,8,1,Montréal Canadiens,New Jersey Devils,202202024977,2022020249,Faceoff,77,FACEOFF,Erik Haula faceoff won against Jake Evans,2022-11-16T00:30:24Z,1,10:53,09:07,0,0,1.0,New Jersey Devils,NJD
+70,8,1,Montréal Canadiens,New Jersey Devils,2022020249176,2022020249,Blocked Shot,176,BLOCKED_SHOT,Jonas Siegenthaler shot blocked shot by Juraj Slafkovsky,2022-11-16T00:30:31Z,1,11:00,09:00,0,0,8.0,Montréal Canadiens,MTL
+71,8,1,Montréal Canadiens,New Jersey Devils,2022020249177,2022020249,Shot,177,SHOT,Arber Xhekaj Wrist Shot saved by Vitek Vanecek,2022-11-16T00:31:16Z,1,11:45,08:15,0,0,8.0,Montréal Canadiens,MTL
+72,8,1,Montréal Canadiens,New Jersey Devils,202202024927,2022020249,Stoppage,27,STOP,Puck in Benches,2022-11-16T00:31:33Z,1,12:02,07:58,0,0,,,
+73,8,1,Montréal Canadiens,New Jersey Devils,202202024978,2022020249,Faceoff,78,FACEOFF,Nico Hischier faceoff won against Brendan Gallagher,2022-11-16T00:32:28Z,1,12:02,07:58,0,0,1.0,New Jersey Devils,NJD
+74,8,1,Montréal Canadiens,New Jersey Devils,2022020249178,2022020249,Shot,178,SHOT,Brendan Smith Wrist Shot saved by Jake Allen,2022-11-16T00:32:59Z,1,12:33,07:27,0,0,1.0,New Jersey Devils,NJD
+75,8,1,Montréal Canadiens,New Jersey Devils,202202024928,2022020249,Hit,28,HIT,Jordan Harris hit Brendan Smith,2022-11-16T00:33:03Z,1,12:37,07:23,0,0,8.0,Montréal Canadiens,MTL
+76,8,1,Montréal Canadiens,New Jersey Devils,2022020249179,2022020249,Shot,179,SHOT,Brendan Smith Deflected saved by Jake Allen,2022-11-16T00:33:06Z,1,12:40,07:20,0,0,1.0,New Jersey Devils,NJD
+77,8,1,Montréal Canadiens,New Jersey Devils,2022020249180,2022020249,Blocked Shot,180,BLOCKED_SHOT,Brendan Smith shot blocked shot by Brendan Gallagher,2022-11-16T00:33:08Z,1,12:42,07:18,0,0,8.0,Montréal Canadiens,MTL
+78,8,1,Montréal Canadiens,New Jersey Devils,202202024979,2022020249,Giveaway,79,GIVEAWAY,Giveaway by Mike Hoffman,2022-11-16T00:33:24Z,1,12:58,07:02,0,0,8.0,Montréal Canadiens,MTL
+79,8,1,Montréal Canadiens,New Jersey Devils,2022020249250,2022020249,Penalty,250,PENALTY,Brendan Smith Interference against Mike Hoffman,2022-11-16T00:33:40Z,1,13:14,06:46,0,0,1.0,New Jersey Devils,NJD
+80,8,1,Montréal Canadiens,New Jersey Devils,202202024980,2022020249,Faceoff,80,FACEOFF,Michael McLeod faceoff won against Sean Monahan,2022-11-16T00:34:37Z,1,13:14,06:46,0,0,1.0,New Jersey Devils,NJD
+81,8,1,Montréal Canadiens,New Jersey Devils,2022020249181,2022020249,Blocked Shot,181,BLOCKED_SHOT,Kirby Dach shot blocked shot by Ryan Graves,2022-11-16T00:35:11Z,1,13:48,06:12,0,0,1.0,New Jersey Devils,NJD
+82,8,1,Montréal Canadiens,New Jersey Devils,2022020249182,2022020249,Shot,182,SHOT,Josh Anderson Snap Shot saved by Vitek Vanecek,2022-11-16T00:36:19Z,1,14:56,05:04,0,0,8.0,Montréal Canadiens,MTL
+83,8,1,Montréal Canadiens,New Jersey Devils,2022020249183,2022020249,Shot,183,SHOT,Juraj Slafkovsky Deflected saved by Vitek Vanecek,2022-11-16T00:36:45Z,1,15:22,04:38,0,0,8.0,Montréal Canadiens,MTL
+84,8,1,Montréal Canadiens,New Jersey Devils,202202024931,2022020249,Stoppage,31,STOP,Goalie Stopped,2022-11-16T00:36:47Z,1,15:23,04:37,0,0,,,
+85,8,1,Montréal Canadiens,New Jersey Devils,202202024981,2022020249,Faceoff,81,FACEOFF,Christian Dvorak faceoff won against Jack Hughes,2022-11-16T00:37:18Z,1,15:23,04:37,0,0,8.0,Montréal Canadiens,MTL
+86,8,1,Montréal Canadiens,New Jersey Devils,2022020249184,2022020249,Shot,184,SHOT,Michael Pezzetta Slap Shot saved by Vitek Vanecek,2022-11-16T00:37:38Z,1,15:43,04:17,0,0,8.0,Montréal Canadiens,MTL
+87,8,1,Montréal Canadiens,New Jersey Devils,202202024932,2022020249,Stoppage,32,STOP,Goalie Stopped,2022-11-16T00:37:40Z,1,15:44,04:16,0,0,,,
+88,8,1,Montréal Canadiens,New Jersey Devils,202202024982,2022020249,Faceoff,82,FACEOFF,Nick Suzuki faceoff won against Nico Hischier,2022-11-16T00:39:57Z,1,15:44,04:16,0,0,8.0,Montréal Canadiens,MTL
+89,8,1,Montréal Canadiens,New Jersey Devils,202202024933,2022020249,Hit,33,HIT,Cole Caufield hit Tomas Tatar,2022-11-16T00:40:11Z,1,15:58,04:02,0,0,8.0,Montréal Canadiens,MTL
+90,8,1,Montréal Canadiens,New Jersey Devils,202202024983,2022020249,Giveaway,83,GIVEAWAY,Giveaway by Joel Edmundson,2022-11-16T00:40:15Z,1,16:02,03:58,0,0,8.0,Montréal Canadiens,MTL
+91,8,1,Montréal Canadiens,New Jersey Devils,2022020249185,2022020249,Shot,185,SHOT,Tomas Tatar Wrist Shot saved by Jake Allen,2022-11-16T00:40:23Z,1,16:10,03:50,0,0,1.0,New Jersey Devils,NJD
+92,8,1,Montréal Canadiens,New Jersey Devils,202202024984,2022020249,Giveaway,84,GIVEAWAY,Giveaway by Joel Edmundson,2022-11-16T00:40:34Z,1,16:21,03:39,0,0,8.0,Montréal Canadiens,MTL
+93,8,1,Montréal Canadiens,New Jersey Devils,202202024934,2022020249,Hit,34,HIT,Arber Xhekaj hit John Marino,2022-11-16T00:40:39Z,1,16:26,03:34,0,0,8.0,Montréal Canadiens,MTL
+94,8,1,Montréal Canadiens,New Jersey Devils,2022020249186,2022020249,Blocked Shot,186,BLOCKED_SHOT,Nico Hischier shot blocked shot by Joel Edmundson,2022-11-16T00:40:42Z,1,16:29,03:31,0,0,8.0,Montréal Canadiens,MTL
+95,8,1,Montréal Canadiens,New Jersey Devils,2022020249187,2022020249,Blocked Shot,187,BLOCKED_SHOT,Nico Hischier shot blocked shot by Kirby Dach,2022-11-16T00:40:58Z,1,16:45,03:15,0,0,8.0,Montréal Canadiens,MTL
+96,8,1,Montréal Canadiens,New Jersey Devils,202202024985,2022020249,Takeaway,85,TAKEAWAY,Takeaway by Evgenii Dadonov,2022-11-16T00:41:40Z,1,17:27,02:33,0,0,8.0,Montréal Canadiens,MTL
+97,8,1,Montréal Canadiens,New Jersey Devils,202202024935,2022020249,Hit,35,HIT,Jonas Siegenthaler hit Sean Monahan,2022-11-16T00:41:44Z,1,17:31,02:29,0,0,1.0,New Jersey Devils,NJD
+98,8,1,Montréal Canadiens,New Jersey Devils,2022020249188,2022020249,Shot,188,SHOT,Jesper Boqvist Wrist Shot saved by Jake Allen,2022-11-16T00:41:52Z,1,17:39,02:21,0,0,1.0,New Jersey Devils,NJD
+99,8,1,Montréal Canadiens,New Jersey Devils,202202024986,2022020249,Giveaway,86,GIVEAWAY,Giveaway by Josh Anderson,2022-11-16T00:41:55Z,1,17:42,02:18,0,0,8.0,Montréal Canadiens,MTL
+100,8,1,Montréal Canadiens,New Jersey Devils,2022020249189,2022020249,Blocked Shot,189,BLOCKED_SHOT,Jesper Boqvist shot blocked shot by Evgenii Dadonov,2022-11-16T00:41:57Z,1,17:44,02:16,0,0,8.0,Montréal Canadiens,MTL
+101,8,1,Montréal Canadiens,New Jersey Devils,202202024936,2022020249,Stoppage,36,STOP,Offside,2022-11-16T00:42:21Z,1,18:09,01:51,0,0,,,
+102,8,1,Montréal Canadiens,New Jersey Devils,202202024987,2022020249,Faceoff,87,FACEOFF,Christian Dvorak faceoff won against Michael McLeod,2022-11-16T00:42:50Z,1,18:09,01:51,0,0,8.0,Montréal Canadiens,MTL
+103,8,1,Montréal Canadiens,New Jersey Devils,202202024988,2022020249,Giveaway,88,GIVEAWAY,Giveaway by Michael McLeod,2022-11-16T00:43:10Z,1,18:29,01:31,0,0,1.0,New Jersey Devils,NJD
+104,8,1,Montréal Canadiens,New Jersey Devils,202202024937,2022020249,Hit,37,HIT,Michael McLeod hit Joel Edmundson,2022-11-16T00:43:26Z,1,18:45,01:15,0,0,1.0,New Jersey Devils,NJD
+105,8,1,Montréal Canadiens,New Jersey Devils,2022020249190,2022020249,Shot,190,SHOT,Christian Dvorak Wrist Shot saved by Vitek Vanecek,2022-11-16T00:43:37Z,1,18:56,01:04,0,0,8.0,Montréal Canadiens,MTL
+106,8,1,Montréal Canadiens,New Jersey Devils,202202024989,2022020249,Takeaway,89,TAKEAWAY,Takeaway by Christian Dvorak,2022-11-16T00:43:45Z,1,19:04,00:56,0,0,8.0,Montréal Canadiens,MTL
+107,8,1,Montréal Canadiens,New Jersey Devils,2022020249191,2022020249,Shot,191,SHOT,Kaiden Guhle Wrist Shot saved by Vitek Vanecek,2022-11-16T00:44:32Z,1,19:51,00:09,0,0,8.0,Montréal Canadiens,MTL
+108,8,1,Montréal Canadiens,New Jersey Devils,202202024938,2022020249,Stoppage,38,STOP,Goalie Stopped,2022-11-16T00:44:34Z,1,19:53,00:07,0,0,,,
+109,8,1,Montréal Canadiens,New Jersey Devils,202202024990,2022020249,Faceoff,90,FACEOFF,Michael McLeod faceoff won against Christian Dvorak,2022-11-16T00:45:16Z,1,19:53,00:07,0,0,1.0,New Jersey Devils,NJD
+110,8,1,Montréal Canadiens,New Jersey Devils,202202024939,2022020249,Period End,39,PERIOD_END,End of 1st Period,2022-11-16T00:45:23Z,1,20:00,00:00,0,0,,,
+111,8,1,Montréal Canadiens,New Jersey Devils,202202024942,2022020249,Period Official,42,PERIOD_OFFICIAL,Period Official,2022-11-16T00:45:34Z,1,20:00,00:00,0,0,,,
+112,8,1,Montréal Canadiens,New Jersey Devils,202202024943,2022020249,Period Ready,43,PERIOD_READY,Period Ready,2022-11-16T01:04:13Z,2,00:00,20:00,0,0,,,
+113,8,1,Montréal Canadiens,New Jersey Devils,202202024991,2022020249,Period Start,91,PERIOD_START,Period Start,2022-11-16T01:04:21Z,2,00:00,20:00,0,0,,,
+114,8,1,Montréal Canadiens,New Jersey Devils,202202024992,2022020249,Faceoff,92,FACEOFF,Sean Monahan faceoff won against Nico Hischier,2022-11-16T01:04:21Z,2,00:00,20:00,0,0,8.0,Montréal Canadiens,MTL
+115,8,1,Montréal Canadiens,New Jersey Devils,202202024944,2022020249,Stoppage,44,STOP,Icing,2022-11-16T01:04:28Z,2,00:08,19:52,0,0,,,
+116,8,1,Montréal Canadiens,New Jersey Devils,202202024993,2022020249,Faceoff,93,FACEOFF,Nico Hischier faceoff won against Sean Monahan,2022-11-16T01:04:56Z,2,00:08,19:52,0,0,1.0,New Jersey Devils,NJD
+117,8,1,Montréal Canadiens,New Jersey Devils,2022020249192,2022020249,Missed Shot,192,MISSED_SHOT,Nico Hischier Wide of Net Jake Allen,2022-11-16T01:05:09Z,2,00:21,19:39,0,0,1.0,New Jersey Devils,NJD
+118,8,1,Montréal Canadiens,New Jersey Devils,202202024994,2022020249,Takeaway,94,TAKEAWAY,Takeaway by Dawson Mercer,2022-11-16T01:05:42Z,2,00:54,19:06,0,0,1.0,New Jersey Devils,NJD
+119,8,1,Montréal Canadiens,New Jersey Devils,2022020249193,2022020249,Shot,193,SHOT,Erik Haula Backhand saved by Jake Allen,2022-11-16T01:05:42Z,2,00:54,19:06,0,0,1.0,New Jersey Devils,NJD
+120,8,1,Montréal Canadiens,New Jersey Devils,202202024945,2022020249,Stoppage,45,STOP,Offside,2022-11-16T01:05:49Z,2,01:01,18:59,0,0,,,
+121,8,1,Montréal Canadiens,New Jersey Devils,202202024995,2022020249,Faceoff,95,FACEOFF,Nick Suzuki faceoff won against Jack Hughes,2022-11-16T01:06:24Z,2,01:01,18:59,0,0,8.0,Montréal Canadiens,MTL
+122,8,1,Montréal Canadiens,New Jersey Devils,202202024946,2022020249,Hit,46,HIT,Kaiden Guhle hit Dawson Mercer,2022-11-16T01:06:31Z,2,01:08,18:52,0,0,8.0,Montréal Canadiens,MTL
+123,8,1,Montréal Canadiens,New Jersey Devils,2022020249194,2022020249,Blocked Shot,194,BLOCKED_SHOT,John Marino shot blocked shot by Cole Caufield,2022-11-16T01:06:36Z,2,01:13,18:47,0,0,8.0,Montréal Canadiens,MTL
+124,8,1,Montréal Canadiens,New Jersey Devils,202202024947,2022020249,Stoppage,47,STOP,Puck in Netting,2022-11-16T01:06:36Z,2,01:14,18:46,0,0,,,
+125,8,1,Montréal Canadiens,New Jersey Devils,202202024996,2022020249,Faceoff,96,FACEOFF,Michael McLeod faceoff won against Christian Dvorak,2022-11-16T01:07:06Z,2,01:14,18:46,0,0,1.0,New Jersey Devils,NJD
+126,8,1,Montréal Canadiens,New Jersey Devils,202202024948,2022020249,Stoppage,48,STOP,Icing,2022-11-16T01:07:17Z,2,01:25,18:35,0,0,,,
+127,8,1,Montréal Canadiens,New Jersey Devils,202202024997,2022020249,Faceoff,97,FACEOFF,Christian Dvorak faceoff won against Nathan Bastian,2022-11-16T01:07:47Z,2,01:25,18:35,0,0,8.0,Montréal Canadiens,MTL
+128,8,1,Montréal Canadiens,New Jersey Devils,202202024998,2022020249,Giveaway,98,GIVEAWAY,Giveaway by Brendan Gallagher,2022-11-16T01:07:52Z,2,01:30,18:30,0,0,8.0,Montréal Canadiens,MTL
+129,8,1,Montréal Canadiens,New Jersey Devils,202202024949,2022020249,Stoppage,49,STOP,Hand Pass,2022-11-16T01:07:54Z,2,01:33,18:27,0,0,,,
+130,8,1,Montréal Canadiens,New Jersey Devils,202202024999,2022020249,Faceoff,99,FACEOFF,Michael McLeod faceoff won against Christian Dvorak,2022-11-16T01:08:13Z,2,01:33,18:27,0,0,1.0,New Jersey Devils,NJD
+131,8,1,Montréal Canadiens,New Jersey Devils,202202024950,2022020249,Hit,50,HIT,Michael McLeod hit Jordan Harris,2022-11-16T01:08:23Z,2,01:43,18:17,0,0,1.0,New Jersey Devils,NJD
+132,8,1,Montréal Canadiens,New Jersey Devils,2022020249195,2022020249,Blocked Shot,195,BLOCKED_SHOT,Brendan Gallagher shot blocked shot by Brendan Smith,2022-11-16T01:08:38Z,2,01:58,18:02,0,0,1.0,New Jersey Devils,NJD
+133,8,1,Montréal Canadiens,New Jersey Devils,2022020249301,2022020249,Takeaway,301,TAKEAWAY,Takeaway by Michael McLeod,2022-11-16T01:08:47Z,2,02:07,17:53,0,0,1.0,New Jersey Devils,NJD
+134,8,1,Montréal Canadiens,New Jersey Devils,2022020249526,2022020249,Penalty,526,PENALTY,Kirby Dach Tripping against Jesper Bratt,2022-11-16T01:09:10Z,2,02:30,17:30,0,0,8.0,Montréal Canadiens,MTL
+135,8,1,Montréal Canadiens,New Jersey Devils,2022020249100,2022020249,Faceoff,100,FACEOFF,Nico Hischier faceoff won against Jake Evans,2022-11-16T01:09:47Z,2,02:30,17:30,0,0,1.0,New Jersey Devils,NJD
+136,8,1,Montréal Canadiens,New Jersey Devils,2022020249196,2022020249,Blocked Shot,196,BLOCKED_SHOT,Jack Hughes shot blocked shot by Jake Evans,2022-11-16T01:09:54Z,2,02:37,17:23,0,0,8.0,Montréal Canadiens,MTL
+137,8,1,Montréal Canadiens,New Jersey Devils,2022020249303,2022020249,Stoppage,303,STOP,Puck in Netting,2022-11-16T01:09:54Z,2,02:38,17:22,0,0,,,
+138,8,1,Montréal Canadiens,New Jersey Devils,2022020249351,2022020249,Faceoff,351,FACEOFF,Nico Hischier faceoff won against Jake Evans,2022-11-16T01:10:12Z,2,02:38,17:22,0,0,1.0,New Jersey Devils,NJD
+139,8,1,Montréal Canadiens,New Jersey Devils,2022020249197,2022020249,Shot,197,SHOT,Jack Hughes Wrist Shot saved by Jake Allen,2022-11-16T01:10:43Z,2,03:09,16:51,0,0,1.0,New Jersey Devils,NJD
+140,8,1,Montréal Canadiens,New Jersey Devils,2022020249304,2022020249,Stoppage,304,STOP,Goalie Stopped,2022-11-16T01:10:45Z,2,03:11,16:49,0,0,,,
+141,8,1,Montréal Canadiens,New Jersey Devils,2022020249352,2022020249,Faceoff,352,FACEOFF,Jake Evans faceoff won against Nico Hischier,2022-11-16T01:11:10Z,2,03:11,16:49,0,0,8.0,Montréal Canadiens,MTL
+142,8,1,Montréal Canadiens,New Jersey Devils,2022020249353,2022020249,Giveaway,353,GIVEAWAY,Giveaway by Joel Edmundson,2022-11-16T01:11:11Z,2,03:12,16:48,0,0,8.0,Montréal Canadiens,MTL
+143,8,1,Montréal Canadiens,New Jersey Devils,2022020249198,2022020249,Shot,198,SHOT,Nathan Bastian Tip-In saved by Jake Allen,2022-11-16T01:11:14Z,2,03:15,16:45,0,0,1.0,New Jersey Devils,NJD
+144,8,1,Montréal Canadiens,New Jersey Devils,2022020249200,2022020249,Shot,200,SHOT,Jesper Bratt Slap Shot saved by Jake Allen,2022-11-16T01:11:24Z,2,03:25,16:35,0,0,1.0,New Jersey Devils,NJD
+145,8,1,Montréal Canadiens,New Jersey Devils,2022020249401,2022020249,Shot,401,SHOT,Jack Hughes Wrist Shot saved by Jake Allen,2022-11-16T01:11:47Z,2,03:48,16:12,0,0,1.0,New Jersey Devils,NJD
+146,8,1,Montréal Canadiens,New Jersey Devils,2022020249402,2022020249,Goal,402,GOAL,"Jack Hughes (6) Wrist Shot, assists: Dougie Hamilton (9), Jesper Bratt (15)",2022-11-16T01:11:56Z,2,03:57,16:03,0,1,1.0,New Jersey Devils,NJD
+147,8,1,Montréal Canadiens,New Jersey Devils,2022020249305,2022020249,Faceoff,305,FACEOFF,Miles Wood faceoff won against Josh Anderson,2022-11-16T01:12:46Z,2,03:57,16:03,0,1,1.0,New Jersey Devils,NJD
+148,8,1,Montréal Canadiens,New Jersey Devils,2022020249354,2022020249,Hit,354,HIT,Josh Anderson hit Michael McLeod,2022-11-16T01:12:55Z,2,04:06,15:54,0,1,8.0,Montréal Canadiens,MTL
+149,8,1,Montréal Canadiens,New Jersey Devils,2022020249403,2022020249,Missed Shot,403,MISSED_SHOT,Jordan Harris Hit Crossbar Vitek Vanecek,2022-11-16T01:13:22Z,2,04:33,15:27,0,1,8.0,Montréal Canadiens,MTL
+150,8,1,Montréal Canadiens,New Jersey Devils,2022020249306,2022020249,Giveaway,306,GIVEAWAY,Giveaway by John Marino,2022-11-16T01:13:25Z,2,04:36,15:24,0,1,1.0,New Jersey Devils,NJD
+151,8,1,Montréal Canadiens,New Jersey Devils,2022020249404,2022020249,Shot,404,SHOT,Christian Dvorak Wrist Shot saved by Vitek Vanecek,2022-11-16T01:13:27Z,2,04:38,15:22,0,1,8.0,Montréal Canadiens,MTL
+152,8,1,Montréal Canadiens,New Jersey Devils,2022020249307,2022020249,Hit,307,HIT,Michael Pezzetta hit Jesper Boqvist,2022-11-16T01:13:47Z,2,04:58,15:02,0,1,8.0,Montréal Canadiens,MTL
+153,8,1,Montréal Canadiens,New Jersey Devils,2022020249355,2022020249,Giveaway,355,GIVEAWAY,Giveaway by Jake Allen,2022-11-16T01:13:52Z,2,05:03,14:57,0,1,8.0,Montréal Canadiens,MTL
+154,8,1,Montréal Canadiens,New Jersey Devils,2022020249405,2022020249,Blocked Shot,405,BLOCKED_SHOT,Yegor Sharangovich shot blocked shot by David Savard,2022-11-16T01:13:56Z,2,05:07,14:53,0,1,8.0,Montréal Canadiens,MTL
+155,8,1,Montréal Canadiens,New Jersey Devils,2022020249406,2022020249,Blocked Shot,406,BLOCKED_SHOT,Brendan Smith shot blocked shot by Juraj Slafkovsky,2022-11-16T01:13:58Z,2,05:09,14:51,0,1,8.0,Montréal Canadiens,MTL
+156,8,1,Montréal Canadiens,New Jersey Devils,2022020249308,2022020249,Stoppage,308,STOP,Puck in Netting,2022-11-16T01:13:59Z,2,05:11,14:49,0,1,,,
+157,8,1,Montréal Canadiens,New Jersey Devils,2022020249356,2022020249,Faceoff,356,FACEOFF,Jake Evans faceoff won against Jesper Boqvist,2022-11-16T01:14:25Z,2,05:11,14:49,0,1,8.0,Montréal Canadiens,MTL
+158,8,1,Montréal Canadiens,New Jersey Devils,2022020249407,2022020249,Missed Shot,407,MISSED_SHOT,Jesper Boqvist Wide of Net Jake Allen,2022-11-16T01:14:34Z,2,05:20,14:40,0,1,1.0,New Jersey Devils,NJD
+159,8,1,Montréal Canadiens,New Jersey Devils,2022020249408,2022020249,Missed Shot,408,MISSED_SHOT,Jesper Bratt Wide of Net Jake Allen,2022-11-16T01:14:36Z,2,05:22,14:38,0,1,1.0,New Jersey Devils,NJD
+160,8,1,Montréal Canadiens,New Jersey Devils,2022020249309,2022020249,Hit,309,HIT,Michael Pezzetta hit Brendan Smith,2022-11-16T01:14:52Z,2,05:38,14:22,0,1,8.0,Montréal Canadiens,MTL
+161,8,1,Montréal Canadiens,New Jersey Devils,2022020249357,2022020249,Takeaway,357,TAKEAWAY,Takeaway by Dougie Hamilton,2022-11-16T01:15:15Z,2,06:01,13:59,0,1,1.0,New Jersey Devils,NJD
+162,8,1,Montréal Canadiens,New Jersey Devils,2022020249409,2022020249,Goal,409,GOAL,"Dougie Hamilton (5) Snap Shot, assists: none",2022-11-16T01:15:20Z,2,06:06,13:54,0,2,1.0,New Jersey Devils,NJD
+163,8,1,Montréal Canadiens,New Jersey Devils,2022020249310,2022020249,Faceoff,310,FACEOFF,Nick Suzuki faceoff won against Nico Hischier,2022-11-16T01:15:59Z,2,06:06,13:54,0,2,8.0,Montréal Canadiens,MTL
+164,8,1,Montréal Canadiens,New Jersey Devils,2022020249358,2022020249,Giveaway,358,GIVEAWAY,Giveaway by Vitek Vanecek,2022-11-16T01:16:07Z,2,06:14,13:46,0,2,1.0,New Jersey Devils,NJD
+165,8,1,Montréal Canadiens,New Jersey Devils,2022020249311,2022020249,Hit,311,HIT,Arber Xhekaj hit Tomas Tatar,2022-11-16T01:16:22Z,2,06:29,13:31,0,2,8.0,Montréal Canadiens,MTL
+166,8,1,Montréal Canadiens,New Jersey Devils,2022020249359,2022020249,Giveaway,359,GIVEAWAY,Giveaway by Joel Edmundson,2022-11-16T01:16:34Z,2,06:41,13:19,0,2,8.0,Montréal Canadiens,MTL
+167,8,1,Montréal Canadiens,New Jersey Devils,2022020249410,2022020249,Missed Shot,410,MISSED_SHOT,Cole Caufield Wide of Net Vitek Vanecek,2022-11-16T01:16:48Z,2,06:55,13:05,0,2,8.0,Montréal Canadiens,MTL
+168,8,1,Montréal Canadiens,New Jersey Devils,2022020249360,2022020249,Giveaway,360,GIVEAWAY,Giveaway by Ryan Graves,2022-11-16T01:16:53Z,2,07:00,13:00,0,2,1.0,New Jersey Devils,NJD
+169,8,1,Montréal Canadiens,New Jersey Devils,2022020249411,2022020249,Shot,411,SHOT,Kirby Dach Wrist Shot saved by Vitek Vanecek,2022-11-16T01:16:55Z,2,07:02,12:58,0,2,8.0,Montréal Canadiens,MTL
+170,8,1,Montréal Canadiens,New Jersey Devils,2022020249361,2022020249,Giveaway,361,GIVEAWAY,Giveaway by Kirby Dach,2022-11-16T01:17:05Z,2,07:12,12:48,0,2,8.0,Montréal Canadiens,MTL
+171,8,1,Montréal Canadiens,New Jersey Devils,2022020249412,2022020249,Shot,412,SHOT,Nico Hischier Wrist Shot saved by Jake Allen,2022-11-16T01:17:08Z,2,07:15,12:45,0,2,1.0,New Jersey Devils,NJD
+172,8,1,Montréal Canadiens,New Jersey Devils,2022020249413,2022020249,Shot,413,SHOT,Jack Hughes Tip-In saved by Jake Allen,2022-11-16T01:17:44Z,2,07:51,12:09,0,2,1.0,New Jersey Devils,NJD
+173,8,1,Montréal Canadiens,New Jersey Devils,2022020249312,2022020249,Hit,312,HIT,Johnathan Kovacevic hit Jack Hughes,2022-11-16T01:17:47Z,2,07:54,12:06,0,2,8.0,Montréal Canadiens,MTL
+174,8,1,Montréal Canadiens,New Jersey Devils,2022020249313,2022020249,Hit,313,HIT,Brendan Gallagher hit Brendan Smith,2022-11-16T01:17:58Z,2,08:05,11:55,0,2,8.0,Montréal Canadiens,MTL
+175,8,1,Montréal Canadiens,New Jersey Devils,2022020249314,2022020249,Hit,314,HIT,Kaiden Guhle hit Dawson Mercer,2022-11-16T01:18:04Z,2,08:11,11:49,0,2,8.0,Montréal Canadiens,MTL
+176,8,1,Montréal Canadiens,New Jersey Devils,2022020249414,2022020249,Shot,414,SHOT,Jesper Bratt Wrist Shot saved by Jake Allen,2022-11-16T01:18:37Z,2,08:44,11:16,0,2,1.0,New Jersey Devils,NJD
+177,8,1,Montréal Canadiens,New Jersey Devils,2022020249362,2022020249,Giveaway,362,GIVEAWAY,Giveaway by Evgenii Dadonov,2022-11-16T01:18:43Z,2,08:50,11:10,0,2,8.0,Montréal Canadiens,MTL
+178,8,1,Montréal Canadiens,New Jersey Devils,2022020249415,2022020249,Blocked Shot,415,BLOCKED_SHOT,Ryan Graves shot blocked shot by Arber Xhekaj,2022-11-16T01:18:46Z,2,08:53,11:07,0,2,8.0,Montréal Canadiens,MTL
+179,8,1,Montréal Canadiens,New Jersey Devils,2022020249315,2022020249,Stoppage,315,STOP,Puck in Netting,2022-11-16T01:18:47Z,2,08:54,11:06,0,2,,,
+180,8,1,Montréal Canadiens,New Jersey Devils,2022020249253,2022020249,Faceoff,253,FACEOFF,Jesper Boqvist faceoff won against Sean Monahan,2022-11-16T01:21:03Z,2,08:54,11:06,0,2,1.0,New Jersey Devils,NJD
+181,8,1,Montréal Canadiens,New Jersey Devils,2022020249316,2022020249,Hit,316,HIT,Kaiden Guhle hit John Marino,2022-11-16T01:21:38Z,2,09:29,10:31,0,2,8.0,Montréal Canadiens,MTL
+182,8,1,Montréal Canadiens,New Jersey Devils,2022020249416,2022020249,Shot,416,SHOT,Yegor Sharangovich Wrist Shot saved by Jake Allen,2022-11-16T01:21:39Z,2,09:30,10:30,0,2,1.0,New Jersey Devils,NJD
+183,8,1,Montréal Canadiens,New Jersey Devils,2022020249363,2022020249,Giveaway,363,GIVEAWAY,Giveaway by Sean Monahan,2022-11-16T01:21:49Z,2,09:40,10:20,0,2,8.0,Montréal Canadiens,MTL
+184,8,1,Montréal Canadiens,New Jersey Devils,2022020249417,2022020249,Blocked Shot,417,BLOCKED_SHOT,Sean Monahan shot blocked shot by Yegor Sharangovich,2022-11-16T01:22:02Z,2,09:53,10:07,0,2,1.0,New Jersey Devils,NJD
+185,8,1,Montréal Canadiens,New Jersey Devils,2022020249418,2022020249,Goal,418,GOAL,"Evgenii Dadonov (1) Snap Shot, assists: Sean Monahan (6), David Savard (6)",2022-11-16T01:22:04Z,2,09:55,10:05,1,2,8.0,Montréal Canadiens,MTL
+186,8,1,Montréal Canadiens,New Jersey Devils,2022020249317,2022020249,Faceoff,317,FACEOFF,Michael McLeod faceoff won against Jake Evans,2022-11-16T01:22:58Z,2,09:55,10:05,1,2,1.0,New Jersey Devils,NJD
+187,8,1,Montréal Canadiens,New Jersey Devils,2022020249419,2022020249,Shot,419,SHOT,Juraj Slafkovsky Wrist Shot saved by Vitek Vanecek,2022-11-16T01:23:21Z,2,10:18,09:42,1,2,8.0,Montréal Canadiens,MTL
+188,8,1,Montréal Canadiens,New Jersey Devils,2022020249318,2022020249,Hit,318,HIT,Miles Wood hit Jake Evans,2022-11-16T01:23:24Z,2,10:21,09:39,1,2,1.0,New Jersey Devils,NJD
+189,8,1,Montréal Canadiens,New Jersey Devils,2022020249364,2022020249,Giveaway,364,GIVEAWAY,Giveaway by Michael McLeod,2022-11-16T01:23:28Z,2,10:25,09:35,1,2,1.0,New Jersey Devils,NJD
+190,8,1,Montréal Canadiens,New Jersey Devils,2022020249420,2022020249,Blocked Shot,420,BLOCKED_SHOT,Michael Pezzetta shot blocked shot by Dougie Hamilton,2022-11-16T01:23:30Z,2,10:27,09:33,1,2,1.0,New Jersey Devils,NJD
+191,8,1,Montréal Canadiens,New Jersey Devils,2022020249319,2022020249,Hit,319,HIT,Joel Edmundson hit Nathan Bastian,2022-11-16T01:23:42Z,2,10:39,09:21,1,2,8.0,Montréal Canadiens,MTL
+192,8,1,Montréal Canadiens,New Jersey Devils,2022020249421,2022020249,Blocked Shot,421,BLOCKED_SHOT,Nico Hischier shot blocked shot by Arber Xhekaj,2022-11-16T01:23:49Z,2,10:46,09:14,1,2,8.0,Montréal Canadiens,MTL
+193,8,1,Montréal Canadiens,New Jersey Devils,2022020249422,2022020249,Blocked Shot,422,BLOCKED_SHOT,Nico Hischier shot blocked shot by Arber Xhekaj,2022-11-16T01:23:51Z,2,10:48,09:12,1,2,8.0,Montréal Canadiens,MTL
+194,8,1,Montréal Canadiens,New Jersey Devils,2022020249320,2022020249,Hit,320,HIT,Joel Edmundson hit Nathan Bastian,2022-11-16T01:23:58Z,2,10:55,09:05,1,2,8.0,Montréal Canadiens,MTL
+195,8,1,Montréal Canadiens,New Jersey Devils,2022020249423,2022020249,Blocked Shot,423,BLOCKED_SHOT,Brendan Smith shot blocked shot by Jake Evans,2022-11-16T01:24:08Z,2,11:05,08:55,1,2,8.0,Montréal Canadiens,MTL
+196,8,1,Montréal Canadiens,New Jersey Devils,2022020249424,2022020249,Missed Shot,424,MISSED_SHOT,Brendan Smith Wide of Net Jake Allen,2022-11-16T01:24:22Z,2,11:19,08:41,1,2,1.0,New Jersey Devils,NJD
+197,8,1,Montréal Canadiens,New Jersey Devils,2022020249425,2022020249,Shot,425,SHOT,Fabian Zetterlund Snap Shot saved by Jake Allen,2022-11-16T01:24:42Z,2,11:39,08:21,1,2,1.0,New Jersey Devils,NJD
+198,8,1,Montréal Canadiens,New Jersey Devils,2022020249321,2022020249,Stoppage,321,STOP,Goalie Stopped,2022-11-16T01:24:43Z,2,11:40,08:20,1,2,,,
+199,8,1,Montréal Canadiens,New Jersey Devils,2022020249254,2022020249,Faceoff,254,FACEOFF,Nick Suzuki faceoff won against Erik Haula,2022-11-16T01:26:59Z,2,11:40,08:20,1,2,8.0,Montréal Canadiens,MTL
+200,8,1,Montréal Canadiens,New Jersey Devils,2022020249322,2022020249,Stoppage,322,STOP,Hand Pass,2022-11-16T01:27:05Z,2,11:46,08:14,1,2,,,
+201,8,1,Montréal Canadiens,New Jersey Devils,2022020249366,2022020249,Faceoff,366,FACEOFF,Nick Suzuki faceoff won against Erik Haula,2022-11-16T01:27:27Z,2,11:46,08:14,1,2,8.0,Montréal Canadiens,MTL
+202,8,1,Montréal Canadiens,New Jersey Devils,2022020249367,2022020249,Giveaway,367,GIVEAWAY,Giveaway by Erik Haula,2022-11-16T01:27:39Z,2,11:58,08:02,1,2,1.0,New Jersey Devils,NJD
+203,8,1,Montréal Canadiens,New Jersey Devils,2022020249323,2022020249,Hit,323,HIT,Jordan Harris hit Dawson Mercer,2022-11-16T01:28:01Z,2,12:20,07:40,1,2,8.0,Montréal Canadiens,MTL
+204,8,1,Montréal Canadiens,New Jersey Devils,2022020249426,2022020249,Shot,426,SHOT,Jack Hughes Wrist Shot saved by Jake Allen,2022-11-16T01:28:18Z,2,12:37,07:23,1,2,1.0,New Jersey Devils,NJD
+205,8,1,Montréal Canadiens,New Jersey Devils,2022020249427,2022020249,Shot,427,SHOT,Erik Haula Wrist Shot saved by Jake Allen,2022-11-16T01:28:19Z,2,12:38,07:22,1,2,1.0,New Jersey Devils,NJD
+206,8,1,Montréal Canadiens,New Jersey Devils,2022020249368,2022020249,Giveaway,368,GIVEAWAY,Giveaway by Kaiden Guhle,2022-11-16T01:29:07Z,2,13:26,06:34,1,2,8.0,Montréal Canadiens,MTL
+207,8,1,Montréal Canadiens,New Jersey Devils,2022020249428,2022020249,Blocked Shot,428,BLOCKED_SHOT,Dougie Hamilton shot blocked shot by Kaiden Guhle,2022-11-16T01:29:07Z,2,13:26,06:34,1,2,8.0,Montréal Canadiens,MTL
+208,8,1,Montréal Canadiens,New Jersey Devils,2022020249429,2022020249,Blocked Shot,429,BLOCKED_SHOT,Mike Hoffman shot blocked shot by Brendan Smith,2022-11-16T01:29:23Z,2,13:42,06:18,1,2,1.0,New Jersey Devils,NJD
+209,8,1,Montréal Canadiens,New Jersey Devils,2022020249430,2022020249,Blocked Shot,430,BLOCKED_SHOT,Nathan Bastian shot blocked shot by Arber Xhekaj,2022-11-16T01:29:32Z,2,13:51,06:09,1,2,8.0,Montréal Canadiens,MTL
+210,8,1,Montréal Canadiens,New Jersey Devils,2022020249324,2022020249,Hit,324,HIT,Arber Xhekaj hit Nathan Bastian,2022-11-16T01:29:34Z,2,13:52,06:08,1,2,8.0,Montréal Canadiens,MTL
+211,8,1,Montréal Canadiens,New Jersey Devils,2022020249325,2022020249,Stoppage,325,STOP,Puck in Netting,2022-11-16T01:29:34Z,2,13:52,06:08,1,2,,,
+212,8,1,Montréal Canadiens,New Jersey Devils,2022020249369,2022020249,Faceoff,369,FACEOFF,Michael McLeod faceoff won against Sean Monahan,2022-11-16T01:30:05Z,2,13:52,06:08,1,2,1.0,New Jersey Devils,NJD
+213,8,1,Montréal Canadiens,New Jersey Devils,2022020249431,2022020249,Shot,431,SHOT,Evgenii Dadonov Wrist Shot saved by Vitek Vanecek,2022-11-16T01:30:24Z,2,14:11,05:49,1,2,8.0,Montréal Canadiens,MTL
+214,8,1,Montréal Canadiens,New Jersey Devils,2022020249370,2022020249,Giveaway,370,GIVEAWAY,Giveaway by Michael McLeod,2022-11-16T01:30:28Z,2,14:15,05:45,1,2,1.0,New Jersey Devils,NJD
+215,8,1,Montréal Canadiens,New Jersey Devils,2022020249326,2022020249,Stoppage,326,STOP,Puck in Benches,2022-11-16T01:30:59Z,2,14:46,05:14,1,2,,,
+216,8,1,Montréal Canadiens,New Jersey Devils,2022020249371,2022020249,Faceoff,371,FACEOFF,Nick Suzuki faceoff won against Nico Hischier,2022-11-16T01:33:14Z,2,14:46,05:14,1,2,8.0,Montréal Canadiens,MTL
+217,8,1,Montréal Canadiens,New Jersey Devils,2022020249432,2022020249,Missed Shot,432,MISSED_SHOT,Nick Suzuki Wide of Net Vitek Vanecek,2022-11-16T01:33:43Z,2,15:15,04:45,1,2,8.0,Montréal Canadiens,MTL
+218,8,1,Montréal Canadiens,New Jersey Devils,2022020249327,2022020249,Stoppage,327,STOP,Goalie Stopped,2022-11-16T01:33:44Z,2,15:16,04:44,1,2,,,
+219,8,1,Montréal Canadiens,New Jersey Devils,2022020249372,2022020249,Faceoff,372,FACEOFF,Nick Suzuki faceoff won against Erik Haula,2022-11-16T01:34:15Z,2,15:16,04:44,1,2,8.0,Montréal Canadiens,MTL
+220,8,1,Montréal Canadiens,New Jersey Devils,2022020249433,2022020249,Blocked Shot,433,BLOCKED_SHOT,Jordan Harris shot blocked shot by Erik Haula,2022-11-16T01:34:17Z,2,15:18,04:42,1,2,1.0,New Jersey Devils,NJD
+221,8,1,Montréal Canadiens,New Jersey Devils,2022020249434,2022020249,Goal,434,GOAL,"Jack Hughes (7) Snap Shot, assists: Dawson Mercer (3)",2022-11-16T01:34:27Z,2,15:29,04:31,1,3,1.0,New Jersey Devils,NJD
+222,8,1,Montréal Canadiens,New Jersey Devils,2022020249328,2022020249,Faceoff,328,FACEOFF,Michael McLeod faceoff won against Jake Evans,2022-11-16T01:35:18Z,2,15:29,04:31,1,3,1.0,New Jersey Devils,NJD
+223,8,1,Montréal Canadiens,New Jersey Devils,2022020249435,2022020249,Shot,435,SHOT,Miles Wood Wrist Shot saved by Jake Allen,2022-11-16T01:35:23Z,2,15:34,04:26,1,3,1.0,New Jersey Devils,NJD
+224,8,1,Montréal Canadiens,New Jersey Devils,2022020249329,2022020249,Hit,329,HIT,Arber Xhekaj hit Miles Wood,2022-11-16T01:35:26Z,2,15:37,04:23,1,3,8.0,Montréal Canadiens,MTL
+225,8,1,Montréal Canadiens,New Jersey Devils,2022020249330,2022020249,Hit,330,HIT,Michael McLeod hit Michael Pezzetta,2022-11-16T01:35:30Z,2,15:41,04:19,1,3,1.0,New Jersey Devils,NJD
+226,8,1,Montréal Canadiens,New Jersey Devils,2022020249444,2022020249,Shot,444,SHOT,Jonas Siegenthaler Snap Shot saved by Jake Allen,2022-11-16T01:35:38Z,2,15:49,04:11,1,3,1.0,New Jersey Devils,NJD
+227,8,1,Montréal Canadiens,New Jersey Devils,2022020249436,2022020249,Blocked Shot,436,BLOCKED_SHOT,Dougie Hamilton shot blocked shot by Juraj Slafkovsky,2022-11-16T01:35:50Z,2,16:01,03:59,1,3,8.0,Montréal Canadiens,MTL
+228,8,1,Montréal Canadiens,New Jersey Devils,2022020249437,2022020249,Missed Shot,437,MISSED_SHOT,Dougie Hamilton Over Net Jake Allen,2022-11-16T01:35:57Z,2,16:08,03:52,1,3,1.0,New Jersey Devils,NJD
+229,8,1,Montréal Canadiens,New Jersey Devils,2022020249373,2022020249,Giveaway,373,GIVEAWAY,Giveaway by Jesper Boqvist,2022-11-16T01:36:17Z,2,16:28,03:32,1,3,1.0,New Jersey Devils,NJD
+230,8,1,Montréal Canadiens,New Jersey Devils,2022020249374,2022020249,Giveaway,374,GIVEAWAY,Giveaway by Jonas Siegenthaler,2022-11-16T01:36:22Z,2,16:33,03:27,1,3,1.0,New Jersey Devils,NJD
+231,8,1,Montréal Canadiens,New Jersey Devils,2022020249438,2022020249,Missed Shot,438,MISSED_SHOT,Jesper Bratt Goalpost Jake Allen,2022-11-16T01:36:43Z,2,16:54,03:06,1,3,1.0,New Jersey Devils,NJD
+232,8,1,Montréal Canadiens,New Jersey Devils,2022020249439,2022020249,Blocked Shot,439,BLOCKED_SHOT,Ryan Graves shot blocked shot by Brendan Gallagher,2022-11-16T01:36:50Z,2,17:01,02:59,1,3,8.0,Montréal Canadiens,MTL
+233,8,1,Montréal Canadiens,New Jersey Devils,2022020249440,2022020249,Blocked Shot,440,BLOCKED_SHOT,Josh Anderson shot blocked shot by Brendan Smith,2022-11-16T01:37:33Z,2,17:44,02:16,1,3,1.0,New Jersey Devils,NJD
+234,8,1,Montréal Canadiens,New Jersey Devils,2022020249441,2022020249,Missed Shot,441,MISSED_SHOT,Nico Hischier Wide of Net Jake Allen,2022-11-16T01:37:57Z,2,18:08,01:52,1,3,1.0,New Jersey Devils,NJD
+235,8,1,Montréal Canadiens,New Jersey Devils,2022020249331,2022020249,Hit,331,HIT,Brendan Smith hit Sean Monahan,2022-11-16T01:38:25Z,2,18:36,01:24,1,3,1.0,New Jersey Devils,NJD
+236,8,1,Montréal Canadiens,New Jersey Devils,2022020249375,2022020249,Giveaway,375,GIVEAWAY,Giveaway by Dougie Hamilton,2022-11-16T01:38:30Z,2,18:41,01:19,1,3,1.0,New Jersey Devils,NJD
+237,8,1,Montréal Canadiens,New Jersey Devils,2022020249376,2022020249,Takeaway,376,TAKEAWAY,Takeaway by Kirby Dach,2022-11-16T01:38:34Z,2,18:45,01:15,1,3,8.0,Montréal Canadiens,MTL
+238,8,1,Montréal Canadiens,New Jersey Devils,2022020249442,2022020249,Blocked Shot,442,BLOCKED_SHOT,Joel Edmundson shot blocked shot by Dawson Mercer,2022-11-16T01:38:40Z,2,18:51,01:09,1,3,1.0,New Jersey Devils,NJD
+239,8,1,Montréal Canadiens,New Jersey Devils,2022020249332,2022020249,Hit,332,HIT,Kirby Dach hit Jonas Siegenthaler,2022-11-16T01:38:58Z,2,19:09,00:51,1,3,8.0,Montréal Canadiens,MTL
+240,8,1,Montréal Canadiens,New Jersey Devils,2022020249333,2022020249,Stoppage,333,STOP,Offside,2022-11-16T01:39:04Z,2,19:14,00:46,1,3,,,
+241,8,1,Montréal Canadiens,New Jersey Devils,2022020249377,2022020249,Faceoff,377,FACEOFF,Michael McLeod faceoff won against Nick Suzuki,2022-11-16T01:39:36Z,2,19:14,00:46,1,3,1.0,New Jersey Devils,NJD
+242,8,1,Montréal Canadiens,New Jersey Devils,2022020249443,2022020249,Shot,443,SHOT,Jonas Siegenthaler Wrist Shot saved by Jake Allen,2022-11-16T01:39:50Z,2,19:28,00:32,1,3,1.0,New Jersey Devils,NJD
+243,8,1,Montréal Canadiens,New Jersey Devils,2022020249334,2022020249,Period End,334,PERIOD_END,End of 2nd Period,2022-11-16T01:40:22Z,2,20:00,00:00,1,3,,,
+244,8,1,Montréal Canadiens,New Jersey Devils,2022020249337,2022020249,Period Official,337,PERIOD_OFFICIAL,Period Official,2022-11-16T01:40:33Z,2,20:00,00:00,1,3,,,
+245,8,1,Montréal Canadiens,New Jersey Devils,2022020249338,2022020249,Period Ready,338,PERIOD_READY,Period Ready,2022-11-16T01:59:19Z,3,00:00,20:00,1,3,,,
+246,8,1,Montréal Canadiens,New Jersey Devils,2022020249378,2022020249,Period Start,378,PERIOD_START,Period Start,2022-11-16T01:59:21Z,3,00:00,20:00,1,3,,,
+247,8,1,Montréal Canadiens,New Jersey Devils,2022020249379,2022020249,Faceoff,379,FACEOFF,Nico Hischier faceoff won against Nick Suzuki,2022-11-16T01:59:21Z,3,00:00,20:00,1,3,1.0,New Jersey Devils,NJD
+248,8,1,Montréal Canadiens,New Jersey Devils,2022020249340,2022020249,Stoppage,340,STOP,Challenge Home: off-side,2022-11-16T01:59:26Z,3,00:05,19:55,1,3,,,
+249,8,1,Montréal Canadiens,New Jersey Devils,2022020249341,2022020249,Official Challenge,341,CHALLENGE,Coach's Challenge,2022-11-16T01:59:26Z,3,00:05,19:55,1,3,8.0,Montréal Canadiens,MTL
+250,8,1,Montréal Canadiens,New Jersey Devils,2022020249343,2022020249,Stoppage,343,STOP,Offside,2022-11-16T01:59:26Z,3,00:05,19:55,1,3,,,
+251,8,1,Montréal Canadiens,New Jersey Devils,2022020249255,2022020249,Faceoff,255,FACEOFF,Nick Suzuki faceoff won against Nico Hischier,2022-11-16T02:04:48Z,3,00:05,19:55,1,3,8.0,Montréal Canadiens,MTL
+252,8,1,Montréal Canadiens,New Jersey Devils,2022020249344,2022020249,Stoppage,344,STOP,Icing,2022-11-16T02:05:34Z,3,00:50,19:10,1,3,,,
+253,8,1,Montréal Canadiens,New Jersey Devils,2022020249380,2022020249,Faceoff,380,FACEOFF,Christian Dvorak faceoff won against Michael McLeod,2022-11-16T02:05:57Z,3,00:50,19:10,1,3,8.0,Montréal Canadiens,MTL
+254,8,1,Montréal Canadiens,New Jersey Devils,2022020249381,2022020249,Giveaway,381,GIVEAWAY,Giveaway by Christian Dvorak,2022-11-16T02:06:27Z,3,01:20,18:40,1,3,8.0,Montréal Canadiens,MTL
+255,8,1,Montréal Canadiens,New Jersey Devils,2022020249446,2022020249,Shot,446,SHOT,Ryan Graves Wrist Shot saved by Jake Allen,2022-11-16T02:06:30Z,3,01:23,18:37,1,3,1.0,New Jersey Devils,NJD
+256,8,1,Montréal Canadiens,New Jersey Devils,2022020249345,2022020249,Stoppage,345,STOP,Goalie Stopped,2022-11-16T02:06:32Z,3,01:24,18:36,1,3,,,
+257,8,1,Montréal Canadiens,New Jersey Devils,2022020249382,2022020249,Faceoff,382,FACEOFF,Erik Haula faceoff won against Sean Monahan,2022-11-16T02:07:15Z,3,01:24,18:36,1,3,1.0,New Jersey Devils,NJD
+258,8,1,Montréal Canadiens,New Jersey Devils,2022020249346,2022020249,Stoppage,346,STOP,Icing,2022-11-16T02:07:35Z,3,01:43,18:17,1,3,,,
+259,8,1,Montréal Canadiens,New Jersey Devils,2022020249383,2022020249,Faceoff,383,FACEOFF,Sean Monahan faceoff won against Erik Haula,2022-11-16T02:08:01Z,3,01:43,18:17,1,3,8.0,Montréal Canadiens,MTL
+260,8,1,Montréal Canadiens,New Jersey Devils,2022020249384,2022020249,Takeaway,384,TAKEAWAY,Takeaway by Jonas Siegenthaler,2022-11-16T02:08:28Z,3,02:10,17:50,1,3,1.0,New Jersey Devils,NJD
+261,8,1,Montréal Canadiens,New Jersey Devils,2022020249347,2022020249,Stoppage,347,STOP,Puck in Benches,2022-11-16T02:08:48Z,3,02:30,17:30,1,3,,,
+262,8,1,Montréal Canadiens,New Jersey Devils,2022020249385,2022020249,Faceoff,385,FACEOFF,Jake Evans faceoff won against Jesper Boqvist,2022-11-16T02:09:08Z,3,02:30,17:30,1,3,8.0,Montréal Canadiens,MTL
+263,8,1,Montréal Canadiens,New Jersey Devils,2022020249348,2022020249,Stoppage,348,STOP,Icing,2022-11-16T02:09:32Z,3,02:54,17:06,1,3,,,
+264,8,1,Montréal Canadiens,New Jersey Devils,2022020249386,2022020249,Faceoff,386,FACEOFF,Nico Hischier faceoff won against Jake Evans,2022-11-16T02:09:55Z,3,02:54,17:06,1,3,1.0,New Jersey Devils,NJD
+265,8,1,Montréal Canadiens,New Jersey Devils,2022020249387,2022020249,Giveaway,387,GIVEAWAY,Giveaway by Cole Caufield,2022-11-16T02:10:48Z,3,03:47,16:13,1,3,8.0,Montréal Canadiens,MTL
+266,8,1,Montréal Canadiens,New Jersey Devils,2022020249447,2022020249,Shot,447,SHOT,Nathan Bastian Slap Shot saved by Jake Allen,2022-11-16T02:10:49Z,3,03:48,16:12,1,3,1.0,New Jersey Devils,NJD
+267,8,1,Montréal Canadiens,New Jersey Devils,2022020249448,2022020249,Shot,448,SHOT,Nathan Bastian Wrist Shot saved by Jake Allen,2022-11-16T02:10:52Z,3,03:51,16:09,1,3,1.0,New Jersey Devils,NJD
+268,8,1,Montréal Canadiens,New Jersey Devils,2022020249349,2022020249,Stoppage,349,STOP,Goalie Stopped,2022-11-16T02:10:52Z,3,03:52,16:08,1,3,,,
+269,8,1,Montréal Canadiens,New Jersey Devils,2022020249388,2022020249,Faceoff,388,FACEOFF,Jake Evans faceoff won against Michael McLeod,2022-11-16T02:11:28Z,3,03:52,16:08,1,3,8.0,Montréal Canadiens,MTL
+270,8,1,Montréal Canadiens,New Jersey Devils,2022020249350,2022020249,Stoppage,350,STOP,Offside,2022-11-16T02:11:45Z,3,04:09,15:51,1,3,,,
+271,8,1,Montréal Canadiens,New Jersey Devils,2022020249389,2022020249,Faceoff,389,FACEOFF,Christian Dvorak faceoff won against Erik Haula,2022-11-16T02:12:10Z,3,04:09,15:51,1,3,8.0,Montréal Canadiens,MTL
+272,8,1,Montréal Canadiens,New Jersey Devils,2022020249701,2022020249,Stoppage,701,STOP,Icing,2022-11-16T02:12:23Z,3,04:22,15:38,1,3,,,
+273,8,1,Montréal Canadiens,New Jersey Devils,2022020249390,2022020249,Faceoff,390,FACEOFF,Erik Haula faceoff won against Nick Suzuki,2022-11-16T02:12:52Z,3,04:22,15:38,1,3,1.0,New Jersey Devils,NJD
+274,8,1,Montréal Canadiens,New Jersey Devils,2022020249702,2022020249,Hit,702,HIT,David Savard hit Jack Hughes,2022-11-16T02:13:19Z,3,04:49,15:11,1,3,8.0,Montréal Canadiens,MTL
+275,8,1,Montréal Canadiens,New Jersey Devils,2022020249449,2022020249,Shot,449,SHOT,Joel Edmundson Slap Shot saved by Vitek Vanecek,2022-11-16T02:13:44Z,3,05:14,14:46,1,3,8.0,Montréal Canadiens,MTL
+276,8,1,Montréal Canadiens,New Jersey Devils,2022020249703,2022020249,Stoppage,703,STOP,Goalie Stopped,2022-11-16T02:13:44Z,3,05:15,14:45,1,3,,,
+277,8,1,Montréal Canadiens,New Jersey Devils,2022020249391,2022020249,Faceoff,391,FACEOFF,Nico Hischier faceoff won against Sean Monahan,2022-11-16T02:14:11Z,3,05:15,14:45,1,3,1.0,New Jersey Devils,NJD
+278,8,1,Montréal Canadiens,New Jersey Devils,2022020249392,2022020249,Giveaway,392,GIVEAWAY,Giveaway by Dougie Hamilton,2022-11-16T02:14:25Z,3,05:29,14:31,1,3,1.0,New Jersey Devils,NJD
+279,8,1,Montréal Canadiens,New Jersey Devils,2022020249450,2022020249,Shot,450,SHOT,Fabian Zetterlund Wrist Shot saved by Jake Allen,2022-11-16T02:14:35Z,3,05:39,14:21,1,3,1.0,New Jersey Devils,NJD
+280,8,1,Montréal Canadiens,New Jersey Devils,2022020249651,2022020249,Missed Shot,651,MISSED_SHOT,Evgenii Dadonov Wide of Net Vitek Vanecek,2022-11-16T02:15:11Z,3,06:15,13:45,1,3,8.0,Montréal Canadiens,MTL
+281,8,1,Montréal Canadiens,New Jersey Devils,2022020249704,2022020249,Hit,704,HIT,Johnathan Kovacevic hit Jesper Boqvist,2022-11-16T02:15:25Z,3,06:29,13:31,1,3,8.0,Montréal Canadiens,MTL
+282,8,1,Montréal Canadiens,New Jersey Devils,2022020249652,2022020249,Shot,652,SHOT,Christian Dvorak Snap Shot saved by Vitek Vanecek,2022-11-16T02:15:37Z,3,06:41,13:19,1,3,8.0,Montréal Canadiens,MTL
+283,8,1,Montréal Canadiens,New Jersey Devils,2022020249653,2022020249,Missed Shot,653,MISSED_SHOT,Johnathan Kovacevic Over Net Vitek Vanecek,2022-11-16T02:15:45Z,3,06:49,13:11,1,3,8.0,Montréal Canadiens,MTL
+284,8,1,Montréal Canadiens,New Jersey Devils,2022020249393,2022020249,Giveaway,393,GIVEAWAY,Giveaway by Kaiden Guhle,2022-11-16T02:16:03Z,3,07:07,12:53,1,3,8.0,Montréal Canadiens,MTL
+285,8,1,Montréal Canadiens,New Jersey Devils,2022020249394,2022020249,Giveaway,394,GIVEAWAY,Giveaway by Juraj Slafkovsky,2022-11-16T02:16:14Z,3,07:18,12:42,1,3,8.0,Montréal Canadiens,MTL
+286,8,1,Montréal Canadiens,New Jersey Devils,2022020249654,2022020249,Shot,654,SHOT,Jake Evans Wrist Shot saved by Vitek Vanecek,2022-11-16T02:16:25Z,3,07:29,12:31,1,3,8.0,Montréal Canadiens,MTL
+287,8,1,Montréal Canadiens,New Jersey Devils,2022020249395,2022020249,Takeaway,395,TAKEAWAY,Takeaway by Dawson Mercer,2022-11-16T02:16:47Z,3,07:51,12:09,1,3,1.0,New Jersey Devils,NJD
+288,8,1,Montréal Canadiens,New Jersey Devils,2022020249657,2022020249,Shot,657,SHOT,Jack Hughes Backhand saved by Jake Allen,2022-11-16T02:16:53Z,3,07:57,12:03,1,3,1.0,New Jersey Devils,NJD
+289,8,1,Montréal Canadiens,New Jersey Devils,2022020249655,2022020249,Shot,655,SHOT,Fabian Zetterlund Snap Shot saved by Jake Allen,2022-11-16T02:17:45Z,3,08:49,11:11,1,3,1.0,New Jersey Devils,NJD
+290,8,1,Montréal Canadiens,New Jersey Devils,2022020249656,2022020249,Blocked Shot,656,BLOCKED_SHOT,Fabian Zetterlund shot blocked shot by Arber Xhekaj,2022-11-16T02:17:56Z,3,09:00,11:00,1,3,8.0,Montréal Canadiens,MTL
+291,8,1,Montréal Canadiens,New Jersey Devils,2022020249396,2022020249,Giveaway,396,GIVEAWAY,Giveaway by Evgenii Dadonov,2022-11-16T02:18:43Z,3,09:47,10:13,1,3,8.0,Montréal Canadiens,MTL
+292,8,1,Montréal Canadiens,New Jersey Devils,2022020249706,2022020249,Stoppage,706,STOP,TV timeout,2022-11-16T02:18:50Z,3,09:53,10:07,1,3,,,
+293,8,1,Montréal Canadiens,New Jersey Devils,2022020249883,2022020249,Penalty,883,PENALTY,Damon Severson Slashing against Josh Anderson,2022-11-16T02:18:50Z,3,09:53,10:07,1,3,1.0,New Jersey Devils,NJD
+294,8,1,Montréal Canadiens,New Jersey Devils,2022020249397,2022020249,Faceoff,397,FACEOFF,Nick Suzuki faceoff won against Erik Haula,2022-11-16T02:21:37Z,3,09:53,10:07,1,3,8.0,Montréal Canadiens,MTL
+295,8,1,Montréal Canadiens,New Jersey Devils,2022020249658,2022020249,Shot,658,SHOT,Mike Hoffman Slap Shot saved by Vitek Vanecek,2022-11-16T02:22:01Z,3,10:17,09:43,1,3,8.0,Montréal Canadiens,MTL
+296,8,1,Montréal Canadiens,New Jersey Devils,2022020249398,2022020249,Takeaway,398,TAKEAWAY,Takeaway by John Marino,2022-11-16T02:22:20Z,3,10:36,09:24,1,3,1.0,New Jersey Devils,NJD
+297,8,1,Montréal Canadiens,New Jersey Devils,2022020249659,2022020249,Blocked Shot,659,BLOCKED_SHOT,Cole Caufield shot blocked shot by John Marino,2022-11-16T02:22:33Z,3,10:49,09:11,1,3,1.0,New Jersey Devils,NJD
+298,8,1,Montréal Canadiens,New Jersey Devils,2022020249660,2022020249,Shot,660,SHOT,Juraj Slafkovsky Slap Shot saved by Vitek Vanecek,2022-11-16T02:23:03Z,3,11:19,08:41,1,3,8.0,Montréal Canadiens,MTL
+299,8,1,Montréal Canadiens,New Jersey Devils,2022020249399,2022020249,Giveaway,399,GIVEAWAY,Giveaway by Nico Hischier,2022-11-16T02:23:07Z,3,11:23,08:37,1,3,1.0,New Jersey Devils,NJD
+300,8,1,Montréal Canadiens,New Jersey Devils,2022020249707,2022020249,Stoppage,707,STOP,Puck in Netting,2022-11-16T02:23:15Z,3,11:31,08:29,1,3,,,
+301,8,1,Montréal Canadiens,New Jersey Devils,2022020249400,2022020249,Faceoff,400,FACEOFF,Erik Haula faceoff won against Christian Dvorak,2022-11-16T02:23:45Z,3,11:31,08:29,1,3,1.0,New Jersey Devils,NJD
+302,8,1,Montréal Canadiens,New Jersey Devils,2022020249752,2022020249,Giveaway,752,GIVEAWAY,Giveaway by Brendan Gallagher,2022-11-16T02:24:07Z,3,11:53,08:07,1,3,8.0,Montréal Canadiens,MTL
+303,8,1,Montréal Canadiens,New Jersey Devils,2022020249751,2022020249,Takeaway,751,TAKEAWAY,Takeaway by Christian Dvorak,2022-11-16T02:24:12Z,3,11:58,08:02,1,3,8.0,Montréal Canadiens,MTL
+304,8,1,Montréal Canadiens,New Jersey Devils,2022020249708,2022020249,Hit,708,HIT,Nathan Bastian hit Josh Anderson,2022-11-16T02:24:16Z,3,12:02,07:58,1,3,1.0,New Jersey Devils,NJD
+305,8,1,Montréal Canadiens,New Jersey Devils,2022020249661,2022020249,Shot,661,SHOT,Dawson Mercer Backhand saved by Jake Allen,2022-11-16T02:24:29Z,3,12:15,07:45,1,3,1.0,New Jersey Devils,NJD
+306,8,1,Montréal Canadiens,New Jersey Devils,2022020249662,2022020249,Goal,662,GOAL,"Jesper Bratt (6) Snap Shot, assists: Jack Hughes (11), Dawson Mercer (4)",2022-11-16T02:24:33Z,3,12:19,07:41,1,4,1.0,New Jersey Devils,NJD
+307,8,1,Montréal Canadiens,New Jersey Devils,2022020249709,2022020249,Faceoff,709,FACEOFF,Jake Evans faceoff won against Nico Hischier,2022-11-16T02:25:21Z,3,12:19,07:41,1,4,8.0,Montréal Canadiens,MTL
+308,8,1,Montréal Canadiens,New Jersey Devils,2022020249710,2022020249,Hit,710,HIT,David Savard hit Tomas Tatar,2022-11-16T02:26:05Z,3,13:03,06:57,1,4,8.0,Montréal Canadiens,MTL
+309,8,1,Montréal Canadiens,New Jersey Devils,2022020249711,2022020249,Hit,711,HIT,Nick Suzuki hit John Marino,2022-11-16T02:26:24Z,3,13:22,06:38,1,4,8.0,Montréal Canadiens,MTL
+310,8,1,Montréal Canadiens,New Jersey Devils,2022020249663,2022020249,Blocked Shot,663,BLOCKED_SHOT,Jack Hughes shot blocked shot by Cole Caufield,2022-11-16T02:26:47Z,3,13:45,06:15,1,4,8.0,Montréal Canadiens,MTL
+311,8,1,Montréal Canadiens,New Jersey Devils,2022020249712,2022020249,Stoppage,712,STOP,Goalie Stopped,2022-11-16T02:26:47Z,3,13:46,06:14,1,4,,,
+312,8,1,Montréal Canadiens,New Jersey Devils,2022020249256,2022020249,Faceoff,256,FACEOFF,Sean Monahan faceoff won against Michael McLeod,2022-11-16T02:28:59Z,3,13:46,06:14,1,4,8.0,Montréal Canadiens,MTL
+313,8,1,Montréal Canadiens,New Jersey Devils,2022020249713,2022020249,Stoppage,713,STOP,Icing,2022-11-16T02:29:28Z,3,14:15,05:45,1,4,,,
+314,8,1,Montréal Canadiens,New Jersey Devils,2022020249753,2022020249,Faceoff,753,FACEOFF,Yegor Sharangovich faceoff won against Sean Monahan,2022-11-16T02:29:52Z,3,14:15,05:45,1,4,1.0,New Jersey Devils,NJD
+315,8,1,Montréal Canadiens,New Jersey Devils,2022020249664,2022020249,Shot,664,SHOT,John Marino Wrist Shot saved by Jake Allen,2022-11-16T02:30:26Z,3,14:49,05:11,1,4,1.0,New Jersey Devils,NJD
+316,8,1,Montréal Canadiens,New Jersey Devils,2022020249754,2022020249,Giveaway,754,GIVEAWAY,Giveaway by Mike Hoffman,2022-11-16T02:30:50Z,3,15:13,04:47,1,4,8.0,Montréal Canadiens,MTL
+317,8,1,Montréal Canadiens,New Jersey Devils,2022020249665,2022020249,Missed Shot,665,MISSED_SHOT,Juraj Slafkovsky Wide of Net Vitek Vanecek,2022-11-16T02:31:37Z,3,16:00,04:00,1,4,8.0,Montréal Canadiens,MTL
+318,8,1,Montréal Canadiens,New Jersey Devils,2022020249666,2022020249,Blocked Shot,666,BLOCKED_SHOT,Juraj Slafkovsky shot blocked shot by Dougie Hamilton,2022-11-16T02:31:39Z,3,16:02,03:58,1,4,1.0,New Jersey Devils,NJD
+319,8,1,Montréal Canadiens,New Jersey Devils,2022020249714,2022020249,Stoppage,714,STOP,Puck in Netting,2022-11-16T02:31:42Z,3,16:06,03:54,1,4,,,
+320,8,1,Montréal Canadiens,New Jersey Devils,2022020249257,2022020249,Faceoff,257,FACEOFF,Sean Monahan faceoff won against Michael McLeod,2022-11-16T02:34:06Z,3,16:06,03:54,1,4,8.0,Montréal Canadiens,MTL
+321,8,1,Montréal Canadiens,New Jersey Devils,2022020249667,2022020249,Blocked Shot,667,BLOCKED_SHOT,Cole Caufield shot blocked shot by Nathan Bastian,2022-11-16T02:34:45Z,3,16:45,03:15,1,4,1.0,New Jersey Devils,NJD
+322,8,1,Montréal Canadiens,New Jersey Devils,2022020249668,2022020249,Missed Shot,668,MISSED_SHOT,Nick Suzuki Wide of Net Vitek Vanecek,2022-11-16T02:34:51Z,3,16:51,03:09,1,4,8.0,Montréal Canadiens,MTL
+323,8,1,Montréal Canadiens,New Jersey Devils,2022020249669,2022020249,Blocked Shot,669,BLOCKED_SHOT,Cole Caufield shot blocked shot by Nathan Bastian,2022-11-16T02:34:57Z,3,16:57,03:03,1,4,1.0,New Jersey Devils,NJD
+324,8,1,Montréal Canadiens,New Jersey Devils,2022020249670,2022020249,Blocked Shot,670,BLOCKED_SHOT,Mike Hoffman shot blocked shot by Ryan Graves,2022-11-16T02:35:03Z,3,17:03,02:57,1,4,1.0,New Jersey Devils,NJD
+325,8,1,Montréal Canadiens,New Jersey Devils,2022020249715,2022020249,Stoppage,715,STOP,Icing,2022-11-16T02:35:10Z,3,17:10,02:50,1,4,,,
+326,8,1,Montréal Canadiens,New Jersey Devils,2022020249756,2022020249,Faceoff,756,FACEOFF,Michael McLeod faceoff won against Christian Dvorak,2022-11-16T02:35:38Z,3,17:10,02:50,1,4,1.0,New Jersey Devils,NJD
+327,8,1,Montréal Canadiens,New Jersey Devils,2022020249757,2022020249,Giveaway,757,GIVEAWAY,Giveaway by Ryan Graves,2022-11-16T02:35:44Z,3,17:16,02:44,1,4,1.0,New Jersey Devils,NJD
+328,8,1,Montréal Canadiens,New Jersey Devils,2022020249671,2022020249,Missed Shot,671,MISSED_SHOT,Jack Hughes Goalpost,2022-11-16T02:36:15Z,3,17:47,02:13,1,4,1.0,New Jersey Devils,NJD
+329,8,1,Montréal Canadiens,New Jersey Devils,2022020249758,2022020249,Giveaway,758,GIVEAWAY,Giveaway by Arber Xhekaj,2022-11-16T02:36:23Z,3,17:55,02:05,1,4,8.0,Montréal Canadiens,MTL
+330,8,1,Montréal Canadiens,New Jersey Devils,2022020249672,2022020249,Missed Shot,672,MISSED_SHOT,Dawson Mercer Wide of Net,2022-11-16T02:36:26Z,3,17:58,02:02,1,4,1.0,New Jersey Devils,NJD
+331,8,1,Montréal Canadiens,New Jersey Devils,2022020249716,2022020249,Hit,716,HIT,Arber Xhekaj hit Erik Haula,2022-11-16T02:36:27Z,3,17:59,02:01,1,4,8.0,Montréal Canadiens,MTL
+332,8,1,Montréal Canadiens,New Jersey Devils,2022020249673,2022020249,Blocked Shot,673,BLOCKED_SHOT,Nick Suzuki shot blocked shot by Jonas Siegenthaler,2022-11-16T02:37:15Z,3,18:47,01:13,1,4,1.0,New Jersey Devils,NJD
+333,8,1,Montréal Canadiens,New Jersey Devils,2022020249717,2022020249,Stoppage,717,STOP,Puck in Netting,2022-11-16T02:37:16Z,3,18:48,01:12,1,4,,,
+334,8,1,Montréal Canadiens,New Jersey Devils,2022020249718,2022020249,Faceoff,718,FACEOFF,Nick Suzuki faceoff won against Nico Hischier,2022-11-16T02:38:39Z,3,18:48,01:12,1,4,8.0,Montréal Canadiens,MTL
+335,8,1,Montréal Canadiens,New Jersey Devils,2022020249674,2022020249,Blocked Shot,674,BLOCKED_SHOT,Mike Hoffman shot blocked shot by Ryan Graves,2022-11-16T02:38:42Z,3,18:51,01:09,1,4,1.0,New Jersey Devils,NJD
+336,8,1,Montréal Canadiens,New Jersey Devils,2022020249760,2022020249,Giveaway,760,GIVEAWAY,Giveaway by Nico Hischier,2022-11-16T02:38:56Z,3,19:05,00:55,1,4,1.0,New Jersey Devils,NJD
+337,8,1,Montréal Canadiens,New Jersey Devils,2022020249675,2022020249,Shot,675,SHOT,Cole Caufield Wrist Shot saved by Vitek Vanecek,2022-11-16T02:38:59Z,3,19:08,00:52,1,4,8.0,Montréal Canadiens,MTL
+338,8,1,Montréal Canadiens,New Jersey Devils,2022020249761,2022020249,Giveaway,761,GIVEAWAY,Giveaway by Ryan Graves,2022-11-16T02:39:07Z,3,19:16,00:44,1,4,1.0,New Jersey Devils,NJD
+339,8,1,Montréal Canadiens,New Jersey Devils,2022020249676,2022020249,Blocked Shot,676,BLOCKED_SHOT,Kirby Dach shot blocked shot by Nico Hischier,2022-11-16T02:39:20Z,3,19:29,00:31,1,4,1.0,New Jersey Devils,NJD
+340,8,1,Montréal Canadiens,New Jersey Devils,2022020249677,2022020249,Blocked Shot,677,BLOCKED_SHOT,Tomas Tatar shot blocked shot by Kirby Dach,2022-11-16T02:39:28Z,3,19:37,00:23,1,4,8.0,Montréal Canadiens,MTL
+341,8,1,Montréal Canadiens,New Jersey Devils,2022020249678,2022020249,Goal,678,GOAL,"John Marino (2) Snap Shot, assists: none",2022-11-16T02:39:47Z,3,19:56,00:04,1,5,1.0,New Jersey Devils,NJD
+342,8,1,Montréal Canadiens,New Jersey Devils,2022020249720,2022020249,Faceoff,720,FACEOFF,Jake Evans faceoff won against Nico Hischier,2022-11-16T02:40:32Z,3,19:56,00:04,1,5,8.0,Montréal Canadiens,MTL
+343,8,1,Montréal Canadiens,New Jersey Devils,2022020249721,2022020249,Period End,721,PERIOD_END,End of 3rd Period,2022-11-16T02:40:36Z,3,20:00,00:00,1,5,,,
+344,8,1,Montréal Canadiens,New Jersey Devils,2022020249724,2022020249,Period Official,724,PERIOD_OFFICIAL,Period Official,2022-11-16T02:40:50Z,3,20:00,00:00,1,5,,,
+345,8,1,Montréal Canadiens,New Jersey Devils,2022020249725,2022020249,Game End,725,GAME_END,Game End,2022-11-16T02:40:52Z,3,20:00,00:00,1,5,,,
+346,8,1,Montréal Canadiens,New Jersey Devils,2022020249726,2022020249,Game Official,726,GAME_OFFICIAL,Game Official,2022-11-16T02:52:55Z,3,20:00,00:00,1,5,,,

@@ -1,0 +1,341 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,1,3,New Jersey Devils,New York Rangers,20220206281,2022020628,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-01-07T17:18:11Z,1,00:00,20:00,0,0,,,
+1,1,3,New Jersey Devils,New York Rangers,20220206285,2022020628,Period Ready,5,PERIOD_READY,Period Ready,2023-01-07T18:08:12Z,1,00:00,20:00,0,0,,,
+2,1,3,New Jersey Devils,New York Rangers,202202062851,2022020628,Period Start,51,PERIOD_START,Period Start,2023-01-07T18:08:29Z,1,00:00,20:00,0,0,,,
+3,1,3,New Jersey Devils,New York Rangers,202202062852,2022020628,Faceoff,52,FACEOFF,Nico Hischier faceoff won against Mika Zibanejad,2023-01-07T18:08:29Z,1,00:00,20:00,0,0,1.0,New Jersey Devils,NJD
+4,1,3,New Jersey Devils,New York Rangers,20220206288,2022020628,Shot,8,SHOT,Adam Fox Snap Shot saved by Vitek Vanecek,2023-01-07T18:09:07Z,1,00:38,19:22,0,0,3.0,New York Rangers,NYR
+5,1,3,New Jersey Devils,New York Rangers,2022020628323,2022020628,Stoppage,323,STOP,Icing,2023-01-07T18:09:19Z,1,00:51,19:09,0,0,,,
+6,1,3,New Jersey Devils,New York Rangers,2022020628101,2022020628,Faceoff,101,FACEOFF,Erik Haula faceoff won against Vincent Trocheck,2023-01-07T18:09:52Z,1,00:51,19:09,0,0,1.0,New Jersey Devils,NJD
+7,1,3,New Jersey Devils,New York Rangers,2022020628102,2022020628,Hit,102,HIT,Erik Haula hit Vincent Trocheck,2023-01-07T18:10:17Z,1,01:16,18:44,0,0,1.0,New Jersey Devils,NJD
+8,1,3,New Jersey Devils,New York Rangers,20220206289,2022020628,Goal,9,GOAL,"Jimmy Vesey (7) Snap Shot, assists: Alexis Lafrenière (13), Jacob Trouba (11)",2023-01-07T18:10:35Z,1,01:34,18:26,0,1,3.0,New York Rangers,NYR
+9,1,3,New Jersey Devils,New York Rangers,202202062856,2022020628,Faceoff,56,FACEOFF,Michael McLeod faceoff won against Filip Chytil,2023-01-07T18:11:10Z,1,01:34,18:26,0,1,1.0,New Jersey Devils,NJD
+10,1,3,New Jersey Devils,New York Rangers,202202062810,2022020628,Stoppage,10,STOP,Hand Pass,2023-01-07T18:11:32Z,1,01:56,18:04,0,1,,,
+11,1,3,New Jersey Devils,New York Rangers,202202062857,2022020628,Faceoff,57,FACEOFF,Erik Haula faceoff won against Barclay Goodrow,2023-01-07T18:11:54Z,1,01:56,18:04,0,1,1.0,New Jersey Devils,NJD
+12,1,3,New Jersey Devils,New York Rangers,2022020628104,2022020628,Shot,104,SHOT,Dougie Hamilton Slap Shot saved by Igor Shesterkin,2023-01-07T18:11:57Z,1,01:59,18:01,0,1,1.0,New Jersey Devils,NJD
+13,1,3,New Jersey Devils,New York Rangers,2022020628264,2022020628,Stoppage,264,STOP,High Stick,2023-01-07T18:12:05Z,1,02:07,17:53,0,1,,,
+14,1,3,New Jersey Devils,New York Rangers,202202062858,2022020628,Faceoff,58,FACEOFF,Barclay Goodrow faceoff won against Jack Hughes,2023-01-07T18:12:36Z,1,02:07,17:53,0,1,3.0,New York Rangers,NYR
+15,1,3,New Jersey Devils,New York Rangers,202202062811,2022020628,Blocked Shot,11,BLOCKED_SHOT,Julien Gauthier shot blocked shot by Jonas Siegenthaler,2023-01-07T18:13:08Z,1,02:39,17:21,0,1,1.0,New Jersey Devils,NJD
+16,1,3,New Jersey Devils,New York Rangers,2022020628106,2022020628,Hit,106,HIT,Jonas Siegenthaler hit Sammy Blais,2023-01-07T18:13:08Z,1,02:39,17:21,0,1,1.0,New Jersey Devils,NJD
+17,1,3,New Jersey Devils,New York Rangers,2022020628201,2022020628,Missed Shot,201,MISSED_SHOT,Erik Haula Wide of Net Igor Shesterkin,2023-01-07T18:13:26Z,1,02:57,17:03,0,1,1.0,New Jersey Devils,NJD
+18,1,3,New Jersey Devils,New York Rangers,202202062812,2022020628,Missed Shot,12,MISSED_SHOT,Erik Haula Wide of Net Igor Shesterkin,2023-01-07T18:13:30Z,1,03:01,16:59,0,1,1.0,New Jersey Devils,NJD
+19,1,3,New Jersey Devils,New York Rangers,2022020628204,2022020628,Blocked Shot,204,BLOCKED_SHOT,Tomas Tatar shot blocked shot by Sammy Blais,2023-01-07T18:13:31Z,1,03:02,16:58,0,1,3.0,New York Rangers,NYR
+20,1,3,New Jersey Devils,New York Rangers,2022020628202,2022020628,Shot,202,SHOT,Jack Hughes Backhand saved by Igor Shesterkin,2023-01-07T18:13:34Z,1,03:05,16:55,0,1,1.0,New Jersey Devils,NJD
+21,1,3,New Jersey Devils,New York Rangers,2022020628203,2022020628,Shot,203,SHOT,Jack Hughes Backhand saved by Igor Shesterkin,2023-01-07T18:13:34Z,1,03:05,16:55,0,1,1.0,New Jersey Devils,NJD
+22,1,3,New Jersey Devils,New York Rangers,2022020628107,2022020628,Stoppage,107,STOP,Icing,2023-01-07T18:13:40Z,1,03:12,16:48,0,1,,,
+23,1,3,New Jersey Devils,New York Rangers,202202062860,2022020628,Faceoff,60,FACEOFF,Nico Hischier faceoff won against Mika Zibanejad,2023-01-07T18:14:07Z,1,03:12,16:48,0,1,1.0,New Jersey Devils,NJD
+24,1,3,New Jersey Devils,New York Rangers,2022020628108,2022020628,Shot,108,SHOT,Ondrej Palat Wrist Shot saved by Igor Shesterkin,2023-01-07T18:14:11Z,1,03:16,16:44,0,1,1.0,New Jersey Devils,NJD
+25,1,3,New Jersey Devils,New York Rangers,2022020628205,2022020628,Shot,205,SHOT,Nico Hischier Backhand saved by Igor Shesterkin,2023-01-07T18:14:13Z,1,03:18,16:42,0,1,1.0,New Jersey Devils,NJD
+26,1,3,New Jersey Devils,New York Rangers,2022020628206,2022020628,Blocked Shot,206,BLOCKED_SHOT,Ondrej Palat shot blocked shot by Sammy Blais,2023-01-07T18:14:17Z,1,03:22,16:38,0,1,3.0,New York Rangers,NYR
+27,1,3,New Jersey Devils,New York Rangers,202202062819,2022020628,Shot,19,SHOT,Ryan Graves Backhand saved by Igor Shesterkin,2023-01-07T18:14:19Z,1,03:24,16:36,0,1,1.0,New Jersey Devils,NJD
+28,1,3,New Jersey Devils,New York Rangers,2022020628109,2022020628,Stoppage,109,STOP,Goalie Stopped,2023-01-07T18:14:22Z,1,03:27,16:33,0,1,,,
+29,1,3,New Jersey Devils,New York Rangers,202202062862,2022020628,Faceoff,62,FACEOFF,Chris Kreider faceoff won against Jesper Boqvist,2023-01-07T18:15:03Z,1,03:27,16:33,0,1,3.0,New York Rangers,NYR
+30,1,3,New Jersey Devils,New York Rangers,202202062820,2022020628,Stoppage,20,STOP,Puck in Benches,2023-01-07T18:15:44Z,1,04:08,15:52,0,1,,,
+31,1,3,New Jersey Devils,New York Rangers,202202062864,2022020628,Faceoff,64,FACEOFF,Vincent Trocheck faceoff won against Erik Haula,2023-01-07T18:16:17Z,1,04:08,15:52,0,1,3.0,New York Rangers,NYR
+32,1,3,New Jersey Devils,New York Rangers,202202062821,2022020628,Stoppage,21,STOP,High Stick,2023-01-07T18:16:22Z,1,04:13,15:47,0,1,,,
+33,1,3,New Jersey Devils,New York Rangers,202202062866,2022020628,Faceoff,66,FACEOFF,Vincent Trocheck faceoff won against Erik Haula,2023-01-07T18:16:44Z,1,04:13,15:47,0,1,3.0,New York Rangers,NYR
+34,1,3,New Jersey Devils,New York Rangers,202202062822,2022020628,Shot,22,SHOT,Adam Fox Snap Shot saved by Vitek Vanecek,2023-01-07T18:17:00Z,1,04:29,15:31,0,1,3.0,New York Rangers,NYR
+35,1,3,New Jersey Devils,New York Rangers,2022020628110,2022020628,Stoppage,110,STOP,Goalie Stopped,2023-01-07T18:17:01Z,1,04:31,15:29,0,1,,,
+36,1,3,New Jersey Devils,New York Rangers,202202062867,2022020628,Faceoff,67,FACEOFF,Dawson Mercer faceoff won against Vincent Trocheck,2023-01-07T18:17:34Z,1,04:31,15:29,0,1,1.0,New Jersey Devils,NJD
+37,1,3,New Jersey Devils,New York Rangers,202202062823,2022020628,Shot,23,SHOT,Miles Wood Snap Shot saved by Igor Shesterkin,2023-01-07T18:17:40Z,1,04:37,15:23,0,1,1.0,New Jersey Devils,NJD
+38,1,3,New Jersey Devils,New York Rangers,2022020628111,2022020628,Stoppage,111,STOP,Goalie Stopped,2023-01-07T18:17:43Z,1,04:39,15:21,0,1,,,
+39,1,3,New Jersey Devils,New York Rangers,202202062869,2022020628,Faceoff,69,FACEOFF,Michael McLeod faceoff won against Vincent Trocheck,2023-01-07T18:18:06Z,1,04:39,15:21,0,1,1.0,New Jersey Devils,NJD
+40,1,3,New Jersey Devils,New York Rangers,2022020628207,2022020628,Blocked Shot,207,BLOCKED_SHOT,Dawson Mercer shot blocked shot by Vitali Kravtsov,2023-01-07T18:18:08Z,1,04:41,15:19,0,1,3.0,New York Rangers,NYR
+41,1,3,New Jersey Devils,New York Rangers,2022020628208,2022020628,Blocked Shot,208,BLOCKED_SHOT,Dawson Mercer shot blocked shot by Ben Harpur,2023-01-07T18:18:13Z,1,04:46,15:14,0,1,3.0,New York Rangers,NYR
+42,1,3,New Jersey Devils,New York Rangers,202202062825,2022020628,Stoppage,25,STOP,Offside,2023-01-07T18:18:30Z,1,05:03,14:57,0,1,,,
+43,1,3,New Jersey Devils,New York Rangers,202202062872,2022020628,Faceoff,72,FACEOFF,Nico Hischier faceoff won against Filip Chytil,2023-01-07T18:18:54Z,1,05:03,14:57,0,1,1.0,New Jersey Devils,NJD
+44,1,3,New Jersey Devils,New York Rangers,202202062826,2022020628,Shot,26,SHOT,Jesper Bratt Wrist Shot saved by Igor Shesterkin,2023-01-07T18:19:05Z,1,05:14,14:46,0,1,1.0,New Jersey Devils,NJD
+45,1,3,New Jersey Devils,New York Rangers,202202062827,2022020628,Shot,27,SHOT,Nico Hischier Tip-In saved by Igor Shesterkin,2023-01-07T18:19:06Z,1,05:15,14:45,0,1,1.0,New Jersey Devils,NJD
+46,1,3,New Jersey Devils,New York Rangers,2022020628112,2022020628,Stoppage,112,STOP,Goalie Stopped,2023-01-07T18:19:08Z,1,05:18,14:42,0,1,,,
+47,1,3,New Jersey Devils,New York Rangers,202202062873,2022020628,Faceoff,73,FACEOFF,Filip Chytil faceoff won against Nico Hischier,2023-01-07T18:19:34Z,1,05:18,14:42,0,1,3.0,New York Rangers,NYR
+48,1,3,New Jersey Devils,New York Rangers,2022020628113,2022020628,Giveaway,113,GIVEAWAY,Giveaway by Brendan Smith,2023-01-07T18:19:50Z,1,05:34,14:26,0,1,1.0,New Jersey Devils,NJD
+49,1,3,New Jersey Devils,New York Rangers,202202062828,2022020628,Blocked Shot,28,BLOCKED_SHOT,Filip Chytil shot blocked shot by Nikita Okhotiuk,2023-01-07T18:19:52Z,1,05:36,14:24,0,1,1.0,New Jersey Devils,NJD
+50,1,3,New Jersey Devils,New York Rangers,2022020628114,2022020628,Blocked Shot,114,BLOCKED_SHOT,Jesper Boqvist shot blocked shot by Ryan Lindgren,2023-01-07T18:20:29Z,1,06:13,13:47,0,1,3.0,New York Rangers,NYR
+51,1,3,New Jersey Devils,New York Rangers,2022020628266,2022020628,Stoppage,266,STOP,Offside,2023-01-07T18:21:20Z,1,07:04,12:56,0,1,,,
+52,1,3,New Jersey Devils,New York Rangers,202202062880,2022020628,Faceoff,80,FACEOFF,Nico Hischier faceoff won against Mika Zibanejad,2023-01-07T18:23:25Z,1,07:04,12:56,0,1,1.0,New Jersey Devils,NJD
+53,1,3,New Jersey Devils,New York Rangers,2022020628115,2022020628,Hit,115,HIT,Ondrej Palat hit Adam Fox,2023-01-07T18:23:34Z,1,07:13,12:47,0,1,1.0,New Jersey Devils,NJD
+54,1,3,New Jersey Devils,New York Rangers,2022020628116,2022020628,Blocked Shot,116,BLOCKED_SHOT,Adam Fox shot blocked shot by Ondrej Palat,2023-01-07T18:23:52Z,1,07:31,12:29,0,1,1.0,New Jersey Devils,NJD
+55,1,3,New Jersey Devils,New York Rangers,202202062830,2022020628,Shot,30,SHOT,K'Andre Miller Slap Shot saved by Vitek Vanecek,2023-01-07T18:24:36Z,1,08:15,11:45,0,1,3.0,New York Rangers,NYR
+56,1,3,New Jersey Devils,New York Rangers,2022020628209,2022020628,Blocked Shot,209,BLOCKED_SHOT,Jacob Trouba shot blocked shot by Nikita Okhotiuk,2023-01-07T18:24:42Z,1,08:21,11:39,0,1,1.0,New Jersey Devils,NJD
+57,1,3,New Jersey Devils,New York Rangers,202202062831,2022020628,Shot,31,SHOT,Erik Haula Wrist Shot saved by Igor Shesterkin,2023-01-07T18:24:53Z,1,08:32,11:28,0,1,1.0,New Jersey Devils,NJD
+58,1,3,New Jersey Devils,New York Rangers,2022020628265,2022020628,Stoppage,265,STOP,Goalie Stopped,2023-01-07T18:24:55Z,1,08:33,11:27,0,1,,,
+59,1,3,New Jersey Devils,New York Rangers,202202062884,2022020628,Faceoff,84,FACEOFF,Michael McLeod faceoff won against Filip Chytil,2023-01-07T18:25:24Z,1,08:33,11:27,0,1,1.0,New Jersey Devils,NJD
+60,1,3,New Jersey Devils,New York Rangers,2022020628118,2022020628,Stoppage,118,STOP,Icing,2023-01-07T18:25:46Z,1,08:56,11:04,0,1,,,
+61,1,3,New Jersey Devils,New York Rangers,202202062885,2022020628,Faceoff,85,FACEOFF,Michael McLeod faceoff won against Filip Chytil,2023-01-07T18:26:05Z,1,08:56,11:04,0,1,1.0,New Jersey Devils,NJD
+62,1,3,New Jersey Devils,New York Rangers,202202062832,2022020628,Shot,32,SHOT,Michael McLeod Slap Shot saved by Igor Shesterkin,2023-01-07T18:26:14Z,1,09:05,10:55,0,1,1.0,New Jersey Devils,NJD
+63,1,3,New Jersey Devils,New York Rangers,2022020628119,2022020628,Blocked Shot,119,BLOCKED_SHOT,Dougie Hamilton shot blocked shot by Jimmy Vesey,2023-01-07T18:26:21Z,1,09:12,10:48,0,1,3.0,New York Rangers,NYR
+64,1,3,New Jersey Devils,New York Rangers,2022020628120,2022020628,Stoppage,120,STOP,Puck in Netting,2023-01-07T18:26:21Z,1,09:12,10:48,0,1,,,
+65,1,3,New Jersey Devils,New York Rangers,202202062887,2022020628,Faceoff,87,FACEOFF,Yegor Sharangovich faceoff won against Barclay Goodrow,2023-01-07T18:26:58Z,1,09:12,10:48,0,1,1.0,New Jersey Devils,NJD
+66,1,3,New Jersey Devils,New York Rangers,2022020628121,2022020628,Blocked Shot,121,BLOCKED_SHOT,Brendan Smith shot blocked shot by Sammy Blais,2023-01-07T18:27:00Z,1,09:14,10:46,0,1,3.0,New York Rangers,NYR
+67,1,3,New Jersey Devils,New York Rangers,202202062833,2022020628,Missed Shot,33,MISSED_SHOT,Barclay Goodrow Wide of Net Vitek Vanecek,2023-01-07T18:27:38Z,1,09:52,10:08,0,1,3.0,New York Rangers,NYR
+68,1,3,New Jersey Devils,New York Rangers,202202062835,2022020628,Shot,35,SHOT,Jesper Bratt Backhand saved by Igor Shesterkin,2023-01-07T18:28:28Z,1,10:42,09:18,0,1,1.0,New Jersey Devils,NJD
+69,1,3,New Jersey Devils,New York Rangers,2022020628211,2022020628,Blocked Shot,211,BLOCKED_SHOT,Ondrej Palat shot blocked shot by Mika Zibanejad,2023-01-07T18:28:29Z,1,10:43,09:17,0,1,3.0,New York Rangers,NYR
+70,1,3,New Jersey Devils,New York Rangers,202202062836,2022020628,Shot,36,SHOT,Damon Severson Wrist Shot saved by Igor Shesterkin,2023-01-07T18:28:36Z,1,10:50,09:10,0,1,1.0,New Jersey Devils,NJD
+71,1,3,New Jersey Devils,New York Rangers,2022020628123,2022020628,Stoppage,123,STOP,Goalie Stopped,2023-01-07T18:28:38Z,1,10:52,09:08,0,1,,,
+72,1,3,New Jersey Devils,New York Rangers,202202062890,2022020628,Faceoff,90,FACEOFF,Erik Haula faceoff won against Mika Zibanejad,2023-01-07T18:30:54Z,1,10:52,09:08,0,1,1.0,New Jersey Devils,NJD
+73,1,3,New Jersey Devils,New York Rangers,2022020628124,2022020628,Takeaway,124,TAKEAWAY,Takeaway by Erik Haula,2023-01-07T18:31:25Z,1,11:23,08:37,0,1,1.0,New Jersey Devils,NJD
+74,1,3,New Jersey Devils,New York Rangers,202202062837,2022020628,Hit,37,HIT,Dawson Mercer hit Vincent Trocheck,2023-01-07T18:31:40Z,1,11:38,08:22,0,1,1.0,New Jersey Devils,NJD
+75,1,3,New Jersey Devils,New York Rangers,2022020628125,2022020628,Hit,125,HIT,Braden Schneider hit Miles Wood,2023-01-07T18:32:07Z,1,12:05,07:55,0,1,3.0,New York Rangers,NYR
+76,1,3,New Jersey Devils,New York Rangers,202202062839,2022020628,Hit,39,HIT,Ben Harpur hit Miles Wood,2023-01-07T18:32:17Z,1,12:15,07:45,0,1,3.0,New York Rangers,NYR
+77,1,3,New Jersey Devils,New York Rangers,2022020628126,2022020628,Shot,126,SHOT,Miles Wood Snap Shot saved by Igor Shesterkin,2023-01-07T18:32:19Z,1,12:17,07:43,0,1,1.0,New Jersey Devils,NJD
+78,1,3,New Jersey Devils,New York Rangers,2022020628128,2022020628,Blocked Shot,128,BLOCKED_SHOT,Dougie Hamilton shot blocked shot by Ben Harpur,2023-01-07T18:32:29Z,1,12:27,07:33,0,1,3.0,New York Rangers,NYR
+79,1,3,New Jersey Devils,New York Rangers,202202062840,2022020628,Hit,40,HIT,Michael McLeod hit Vitali Kravtsov,2023-01-07T18:32:46Z,1,12:44,07:16,0,1,1.0,New Jersey Devils,NJD
+80,1,3,New Jersey Devils,New York Rangers,2022020628129,2022020628,Hit,129,HIT,Brendan Smith hit Ryan Lindgren,2023-01-07T18:33:37Z,1,13:35,06:25,0,1,1.0,New Jersey Devils,NJD
+81,1,3,New Jersey Devils,New York Rangers,2022020628215,2022020628,Blocked Shot,215,BLOCKED_SHOT,K'Andre Miller shot blocked shot by Jesper Boqvist,2023-01-07T18:33:40Z,1,13:38,06:22,0,1,1.0,New Jersey Devils,NJD
+82,1,3,New Jersey Devils,New York Rangers,202202062841,2022020628,Shot,41,SHOT,Filip Chytil Snap Shot saved by Vitek Vanecek,2023-01-07T18:33:41Z,1,13:39,06:21,0,1,3.0,New York Rangers,NYR
+83,1,3,New Jersey Devils,New York Rangers,202202062842,2022020628,Stoppage,42,STOP,Goalie Stopped,2023-01-07T18:33:43Z,1,13:40,06:20,0,1,,,
+84,1,3,New Jersey Devils,New York Rangers,202202062897,2022020628,Faceoff,97,FACEOFF,Barclay Goodrow faceoff won against Jack Hughes,2023-01-07T18:34:39Z,1,13:40,06:20,0,1,3.0,New York Rangers,NYR
+85,1,3,New Jersey Devils,New York Rangers,202202062843,2022020628,Stoppage,43,STOP,High Stick,2023-01-07T18:34:56Z,1,13:57,06:03,0,1,,,
+86,1,3,New Jersey Devils,New York Rangers,202202062898,2022020628,Faceoff,98,FACEOFF,Barclay Goodrow faceoff won against Nico Hischier,2023-01-07T18:35:26Z,1,13:57,06:03,0,1,3.0,New York Rangers,NYR
+87,1,3,New Jersey Devils,New York Rangers,202202062844,2022020628,Shot,44,SHOT,K'Andre Miller Slap Shot saved by Vitek Vanecek,2023-01-07T18:35:33Z,1,14:04,05:56,0,1,3.0,New York Rangers,NYR
+88,1,3,New Jersey Devils,New York Rangers,2022020628130,2022020628,Stoppage,130,STOP,Goalie Stopped,2023-01-07T18:35:34Z,1,14:05,05:55,0,1,,,
+89,1,3,New Jersey Devils,New York Rangers,2022020628301,2022020628,Faceoff,301,FACEOFF,Nico Hischier faceoff won against Mika Zibanejad,2023-01-07T18:37:46Z,1,14:05,05:55,0,1,1.0,New Jersey Devils,NJD
+90,1,3,New Jersey Devils,New York Rangers,202202062845,2022020628,Shot,45,SHOT,K'Andre Miller Tip-In saved by Vitek Vanecek,2023-01-07T18:37:55Z,1,14:14,05:46,0,1,3.0,New York Rangers,NYR
+91,1,3,New Jersey Devils,New York Rangers,2022020628131,2022020628,Hit,131,HIT,Chris Kreider hit Nico Hischier,2023-01-07T18:38:02Z,1,14:21,05:39,0,1,3.0,New York Rangers,NYR
+92,1,3,New Jersey Devils,New York Rangers,202202062847,2022020628,Missed Shot,47,MISSED_SHOT,Mika Zibanejad Wide of Net Vitek Vanecek,2023-01-07T18:38:19Z,1,14:38,05:22,0,1,3.0,New York Rangers,NYR
+93,1,3,New Jersey Devils,New York Rangers,2022020628212,2022020628,Missed Shot,212,MISSED_SHOT,Kaapo Kakko Wide of Net Vitek Vanecek,2023-01-07T18:38:21Z,1,14:40,05:20,0,1,3.0,New York Rangers,NYR
+94,1,3,New Jersey Devils,New York Rangers,2022020628132,2022020628,Hit,132,HIT,Vincent Trocheck hit Jonas Siegenthaler,2023-01-07T18:38:53Z,1,15:12,04:48,0,1,3.0,New York Rangers,NYR
+95,1,3,New Jersey Devils,New York Rangers,202202062848,2022020628,Missed Shot,48,MISSED_SHOT,Vitali Kravtsov Wide of Net Vitek Vanecek,2023-01-07T18:39:04Z,1,15:23,04:37,0,1,3.0,New York Rangers,NYR
+96,1,3,New Jersey Devils,New York Rangers,2022020628133,2022020628,Hit,133,HIT,Nikita Okhotiuk hit Filip Chytil,2023-01-07T18:39:52Z,1,16:11,03:49,0,1,1.0,New Jersey Devils,NJD
+97,1,3,New Jersey Devils,New York Rangers,202202062849,2022020628,Blocked Shot,49,BLOCKED_SHOT,Nikita Okhotiuk shot blocked shot by Ben Harpur,2023-01-07T18:40:05Z,1,16:24,03:36,0,1,3.0,New York Rangers,NYR
+98,1,3,New Jersey Devils,New York Rangers,2022020628134,2022020628,Shot,134,SHOT,Michael McLeod Backhand saved by Igor Shesterkin,2023-01-07T18:40:06Z,1,16:25,03:35,0,1,1.0,New Jersey Devils,NJD
+99,1,3,New Jersey Devils,New York Rangers,2022020628213,2022020628,Blocked Shot,213,BLOCKED_SHOT,Brendan Smith shot blocked shot by Ben Harpur,2023-01-07T18:40:23Z,1,16:42,03:18,0,1,3.0,New York Rangers,NYR
+100,1,3,New Jersey Devils,New York Rangers,2022020628305,2022020628,Penalty,305,PENALTY,Braden Schneider Interference against Miles Wood,2023-01-07T18:40:24Z,1,16:43,03:17,0,1,3.0,New York Rangers,NYR
+101,1,3,New Jersey Devils,New York Rangers,2022020628309,2022020628,Faceoff,309,FACEOFF,Mika Zibanejad faceoff won against Nico Hischier,2023-01-07T18:41:07Z,1,16:43,03:17,0,1,3.0,New York Rangers,NYR
+102,1,3,New Jersey Devils,New York Rangers,202202062850,2022020628,Shot,50,SHOT,Nico Hischier Snap Shot saved by Igor Shesterkin,2023-01-07T18:41:18Z,1,16:54,03:06,0,1,1.0,New Jersey Devils,NJD
+103,1,3,New Jersey Devils,New York Rangers,2022020628251,2022020628,Shot,251,SHOT,Jesper Bratt Snap Shot saved by Igor Shesterkin,2023-01-07T18:41:21Z,1,16:57,03:03,0,1,1.0,New Jersey Devils,NJD
+104,1,3,New Jersey Devils,New York Rangers,2022020628136,2022020628,Missed Shot,136,MISSED_SHOT,Jack Hughes Over Net Igor Shesterkin,2023-01-07T18:41:28Z,1,17:04,02:56,0,1,1.0,New Jersey Devils,NJD
+105,1,3,New Jersey Devils,New York Rangers,2022020628138,2022020628,Missed Shot,138,MISSED_SHOT,Nico Hischier Wide of Net Igor Shesterkin,2023-01-07T18:41:33Z,1,17:09,02:51,0,1,1.0,New Jersey Devils,NJD
+106,1,3,New Jersey Devils,New York Rangers,2022020628310,2022020628,Penalty,310,PENALTY,Adam Fox Hooking against Jack Hughes,2023-01-07T18:41:40Z,1,17:16,02:44,0,1,3.0,New York Rangers,NYR
+107,1,3,New Jersey Devils,New York Rangers,2022020628222,2022020628,Faceoff,222,FACEOFF,Mika Zibanejad faceoff won against Jack Hughes,2023-01-07T18:42:20Z,1,17:16,02:44,0,1,3.0,New York Rangers,NYR
+108,1,3,New Jersey Devils,New York Rangers,2022020628214,2022020628,Blocked Shot,214,BLOCKED_SHOT,Dougie Hamilton shot blocked shot by Jacob Trouba,2023-01-07T18:42:49Z,1,17:45,02:15,0,1,3.0,New York Rangers,NYR
+109,1,3,New Jersey Devils,New York Rangers,2022020628253,2022020628,Shot,253,SHOT,Jesper Bratt Slap Shot saved by Igor Shesterkin,2023-01-07T18:43:25Z,1,18:21,01:39,0,1,1.0,New Jersey Devils,NJD
+110,1,3,New Jersey Devils,New York Rangers,2022020628254,2022020628,Stoppage,254,STOP,Goalie Stopped,2023-01-07T18:43:27Z,1,18:22,01:38,0,1,,,
+111,1,3,New Jersey Devils,New York Rangers,2022020628317,2022020628,Faceoff,317,FACEOFF,Barclay Goodrow faceoff won against Nico Hischier,2023-01-07T18:43:59Z,1,18:22,01:38,0,1,3.0,New York Rangers,NYR
+112,1,3,New Jersey Devils,New York Rangers,2022020628255,2022020628,Missed Shot,255,MISSED_SHOT,Jesper Bratt Hit Crossbar Igor Shesterkin,2023-01-07T18:44:19Z,1,18:42,01:18,0,1,1.0,New Jersey Devils,NJD
+113,1,3,New Jersey Devils,New York Rangers,2022020628139,2022020628,Missed Shot,139,MISSED_SHOT,Dougie Hamilton Wide of Net Igor Shesterkin,2023-01-07T18:44:23Z,1,18:46,01:14,0,1,1.0,New Jersey Devils,NJD
+114,1,3,New Jersey Devils,New York Rangers,2022020628140,2022020628,Shot,140,SHOT,Jack Hughes Slap Shot saved by Igor Shesterkin,2023-01-07T18:44:35Z,1,18:58,01:02,0,1,1.0,New Jersey Devils,NJD
+115,1,3,New Jersey Devils,New York Rangers,2022020628257,2022020628,Shot,257,SHOT,Adam Fox Snap Shot saved by Vitek Vanecek,2023-01-07T18:45:02Z,1,19:25,00:35,0,1,3.0,New York Rangers,NYR
+116,1,3,New Jersey Devils,New York Rangers,2022020628141,2022020628,Stoppage,141,STOP,Goalie Stopped,2023-01-07T18:45:04Z,1,19:26,00:34,0,1,,,
+117,1,3,New Jersey Devils,New York Rangers,2022020628321,2022020628,Faceoff,321,FACEOFF,Mika Zibanejad faceoff won against Erik Haula,2023-01-07T18:45:36Z,1,19:26,00:34,0,1,3.0,New York Rangers,NYR
+118,1,3,New Jersey Devils,New York Rangers,2022020628258,2022020628,Blocked Shot,258,BLOCKED_SHOT,Ben Harpur shot blocked shot by Miles Wood,2023-01-07T18:45:41Z,1,19:31,00:29,0,1,1.0,New Jersey Devils,NJD
+119,1,3,New Jersey Devils,New York Rangers,2022020628259,2022020628,Shot,259,SHOT,Ben Harpur Slap Shot saved by Vitek Vanecek,2023-01-07T18:46:09Z,1,19:59,00:01,0,1,3.0,New York Rangers,NYR
+120,1,3,New Jersey Devils,New York Rangers,2022020628142,2022020628,Hit,142,HIT,Miles Wood hit Mika Zibanejad,2023-01-07T18:46:10Z,1,20:00,00:00,0,1,1.0,New Jersey Devils,NJD
+121,1,3,New Jersey Devils,New York Rangers,2022020628260,2022020628,Period End,260,PERIOD_END,End of 1st Period,2023-01-07T18:46:10Z,1,20:00,00:00,0,1,,,
+122,1,3,New Jersey Devils,New York Rangers,2022020628267,2022020628,Period Official,267,PERIOD_OFFICIAL,Period Official,2023-01-07T19:04:06Z,1,20:00,00:00,0,1,,,
+123,1,3,New Jersey Devils,New York Rangers,2022020628268,2022020628,Period Ready,268,PERIOD_READY,Period Ready,2023-01-07T19:04:26Z,2,00:00,20:00,0,1,,,
+124,1,3,New Jersey Devils,New York Rangers,2022020628326,2022020628,Period Start,326,PERIOD_START,Period Start,2023-01-07T19:04:52Z,2,00:00,20:00,0,1,,,
+125,1,3,New Jersey Devils,New York Rangers,2022020628551,2022020628,Faceoff,551,FACEOFF,Mika Zibanejad faceoff won against Nico Hischier,2023-01-07T19:04:52Z,2,00:00,20:00,0,1,3.0,New York Rangers,NYR
+126,1,3,New Jersey Devils,New York Rangers,2022020628269,2022020628,Stoppage,269,STOP,Icing,2023-01-07T19:05:13Z,2,00:21,19:39,0,1,,,
+127,1,3,New Jersey Devils,New York Rangers,2022020628444,2022020628,Faceoff,444,FACEOFF,Nico Hischier faceoff won against Mika Zibanejad,2023-01-07T19:05:37Z,2,00:21,19:39,0,1,1.0,New Jersey Devils,NJD
+128,1,3,New Jersey Devils,New York Rangers,2022020628270,2022020628,Shot,270,SHOT,Jesper Bratt Snap Shot saved by Igor Shesterkin,2023-01-07T19:05:58Z,2,00:40,19:20,0,1,1.0,New Jersey Devils,NJD
+129,1,3,New Jersey Devils,New York Rangers,2022020628271,2022020628,Stoppage,271,STOP,Goalie Stopped,2023-01-07T19:05:58Z,2,00:42,19:18,0,1,,,
+130,1,3,New Jersey Devils,New York Rangers,2022020628189,2022020628,Faceoff,189,FACEOFF,Vincent Trocheck faceoff won against Erik Haula,2023-01-07T19:06:24Z,2,00:42,19:18,0,1,3.0,New York Rangers,NYR
+131,1,3,New Jersey Devils,New York Rangers,2022020628272,2022020628,Shot,272,SHOT,Vincent Trocheck Snap Shot saved by Vitek Vanecek,2023-01-07T19:07:13Z,2,01:31,18:29,0,1,3.0,New York Rangers,NYR
+132,1,3,New Jersey Devils,New York Rangers,2022020628273,2022020628,Shot,273,SHOT,Jack Hughes Slap Shot saved by Igor Shesterkin,2023-01-07T19:07:25Z,2,01:43,18:17,0,1,1.0,New Jersey Devils,NJD
+133,1,3,New Jersey Devils,New York Rangers,2022020628274,2022020628,Blocked Shot,274,BLOCKED_SHOT,Michael McLeod shot blocked shot by Jacob Trouba,2023-01-07T19:07:41Z,2,01:59,18:01,0,1,3.0,New York Rangers,NYR
+134,1,3,New Jersey Devils,New York Rangers,2022020628553,2022020628,Hit,553,HIT,Alexis Lafrenière hit Dawson Mercer,2023-01-07T19:07:42Z,2,02:00,18:00,0,1,3.0,New York Rangers,NYR
+135,1,3,New Jersey Devils,New York Rangers,2022020628552,2022020628,Hit,552,HIT,Michael McLeod hit Braden Schneider,2023-01-07T19:08:02Z,2,02:20,17:40,0,1,1.0,New Jersey Devils,NJD
+136,1,3,New Jersey Devils,New York Rangers,2022020628275,2022020628,Blocked Shot,275,BLOCKED_SHOT,Braden Schneider shot blocked shot by Michael McLeod,2023-01-07T19:08:20Z,2,02:38,17:22,0,1,1.0,New Jersey Devils,NJD
+137,1,3,New Jersey Devils,New York Rangers,2022020628554,2022020628,Hit,554,HIT,Julien Gauthier hit Michael McLeod,2023-01-07T19:08:52Z,2,03:10,16:50,0,1,3.0,New York Rangers,NYR
+138,1,3,New Jersey Devils,New York Rangers,2022020628277,2022020628,Goal,277,GOAL,"Julien Gauthier (6) Wrist Shot, assists: Adam Fox (33), Barclay Goodrow (11)",2023-01-07T19:09:10Z,2,03:28,16:32,0,2,3.0,New York Rangers,NYR
+139,1,3,New Jersey Devils,New York Rangers,2022020628198,2022020628,Faceoff,198,FACEOFF,Mika Zibanejad faceoff won against Nico Hischier,2023-01-07T19:10:01Z,2,03:28,16:32,0,2,3.0,New York Rangers,NYR
+140,1,3,New Jersey Devils,New York Rangers,2022020628278,2022020628,Stoppage,278,STOP,Hand Pass,2023-01-07T19:10:29Z,2,03:56,16:04,0,2,,,
+141,1,3,New Jersey Devils,New York Rangers,2022020628199,2022020628,Faceoff,199,FACEOFF,Mika Zibanejad faceoff won against Nico Hischier,2023-01-07T19:10:52Z,2,03:56,16:04,0,2,3.0,New York Rangers,NYR
+142,1,3,New Jersey Devils,New York Rangers,2022020628279,2022020628,Stoppage,279,STOP,Icing,2023-01-07T19:11:02Z,2,04:06,15:54,0,2,,,
+143,1,3,New Jersey Devils,New York Rangers,2022020628200,2022020628,Faceoff,200,FACEOFF,Mika Zibanejad faceoff won against Nico Hischier,2023-01-07T19:11:22Z,2,04:06,15:54,0,2,3.0,New York Rangers,NYR
+144,1,3,New Jersey Devils,New York Rangers,2022020628216,2022020628,Blocked Shot,216,BLOCKED_SHOT,Brendan Smith shot blocked shot by K'Andre Miller,2023-01-07T19:12:07Z,2,04:51,15:09,0,2,3.0,New York Rangers,NYR
+145,1,3,New Jersey Devils,New York Rangers,2022020628556,2022020628,Shot,556,SHOT,Jack Hughes Wrist Shot saved by Igor Shesterkin,2023-01-07T19:12:08Z,2,04:52,15:08,0,2,1.0,New Jersey Devils,NJD
+146,1,3,New Jersey Devils,New York Rangers,2022020628557,2022020628,Missed Shot,557,MISSED_SHOT,Tomas Tatar Wide of Net Igor Shesterkin,2023-01-07T19:12:22Z,2,05:06,14:54,0,2,1.0,New Jersey Devils,NJD
+147,1,3,New Jersey Devils,New York Rangers,2022020628281,2022020628,Shot,281,SHOT,Erik Haula Snap Shot saved by Igor Shesterkin,2023-01-07T19:12:25Z,2,05:09,14:51,0,2,1.0,New Jersey Devils,NJD
+148,1,3,New Jersey Devils,New York Rangers,2022020628282,2022020628,Stoppage,282,STOP,Goalie Stopped,2023-01-07T19:12:28Z,2,05:11,14:49,0,2,,,
+149,1,3,New Jersey Devils,New York Rangers,2022020628405,2022020628,Faceoff,405,FACEOFF,Michael McLeod faceoff won against Vincent Trocheck,2023-01-07T19:12:54Z,2,05:11,14:49,0,2,1.0,New Jersey Devils,NJD
+150,1,3,New Jersey Devils,New York Rangers,2022020628219,2022020628,Shot,219,SHOT,Dawson Mercer Slap Shot saved by Igor Shesterkin,2023-01-07T19:12:55Z,2,05:12,14:48,0,2,1.0,New Jersey Devils,NJD
+151,1,3,New Jersey Devils,New York Rangers,2022020628283,2022020628,Stoppage,283,STOP,Icing,2023-01-07T19:13:15Z,2,05:32,14:28,0,2,,,
+152,1,3,New Jersey Devils,New York Rangers,2022020628406,2022020628,Faceoff,406,FACEOFF,Alexis Lafrenière faceoff won against Michael McLeod,2023-01-07T19:13:43Z,2,05:32,14:28,0,2,3.0,New York Rangers,NYR
+153,1,3,New Jersey Devils,New York Rangers,2022020628558,2022020628,Hit,558,HIT,Miles Wood hit Braden Schneider,2023-01-07T19:13:58Z,2,05:47,14:13,0,2,1.0,New Jersey Devils,NJD
+154,1,3,New Jersey Devils,New York Rangers,2022020628342,2022020628,Penalty,342,PENALTY,Miles Wood Interference against Braden Schneider,2023-01-07T19:14:03Z,2,05:52,14:08,0,2,1.0,New Jersey Devils,NJD
+155,1,3,New Jersey Devils,New York Rangers,2022020628559,2022020628,Faceoff,559,FACEOFF,Vincent Trocheck faceoff won against Erik Haula,2023-01-07T19:14:45Z,2,05:52,14:08,0,2,3.0,New York Rangers,NYR
+156,1,3,New Jersey Devils,New York Rangers,2022020628284,2022020628,Shot,284,SHOT,Vincent Trocheck Snap Shot saved by Vitek Vanecek,2023-01-07T19:15:10Z,2,06:17,13:43,0,2,3.0,New York Rangers,NYR
+157,1,3,New Jersey Devils,New York Rangers,2022020628285,2022020628,Stoppage,285,STOP,Offside,2023-01-07T19:15:23Z,2,06:31,13:29,0,2,,,
+158,1,3,New Jersey Devils,New York Rangers,2022020628410,2022020628,Faceoff,410,FACEOFF,Vincent Trocheck faceoff won against Nico Hischier,2023-01-07T19:15:50Z,2,06:31,13:29,0,2,3.0,New York Rangers,NYR
+159,1,3,New Jersey Devils,New York Rangers,2022020628286,2022020628,Missed Shot,286,MISSED_SHOT,Mika Zibanejad Wide of Net Vitek Vanecek,2023-01-07T19:16:12Z,2,06:53,13:07,0,2,3.0,New York Rangers,NYR
+160,1,3,New Jersey Devils,New York Rangers,2022020628560,2022020628,Blocked Shot,560,BLOCKED_SHOT,Vincent Trocheck shot blocked shot by Jonas Siegenthaler,2023-01-07T19:16:51Z,2,07:32,12:28,0,2,1.0,New Jersey Devils,NJD
+161,1,3,New Jersey Devils,New York Rangers,2022020628288,2022020628,Shot,288,SHOT,Artemi Panarin Snap Shot saved by Vitek Vanecek,2023-01-07T19:16:57Z,2,07:38,12:22,0,2,3.0,New York Rangers,NYR
+162,1,3,New Jersey Devils,New York Rangers,2022020628289,2022020628,Stoppage,289,STOP,Puck in Crowd,2023-01-07T19:17:03Z,2,07:43,12:17,0,2,,,
+163,1,3,New Jersey Devils,New York Rangers,2022020628413,2022020628,Faceoff,413,FACEOFF,Erik Haula faceoff won against Filip Chytil,2023-01-07T19:17:39Z,2,07:43,12:17,0,2,1.0,New Jersey Devils,NJD
+164,1,3,New Jersey Devils,New York Rangers,2022020628290,2022020628,Shot,290,SHOT,K'Andre Miller Slap Shot saved by Vitek Vanecek,2023-01-07T19:17:59Z,2,08:03,11:57,0,2,3.0,New York Rangers,NYR
+165,1,3,New Jersey Devils,New York Rangers,2022020628561,2022020628,Blocked Shot,561,BLOCKED_SHOT,Alexis Lafrenière shot blocked shot by Miles Wood,2023-01-07T19:18:04Z,2,08:08,11:52,0,2,1.0,New Jersey Devils,NJD
+166,1,3,New Jersey Devils,New York Rangers,2022020628291,2022020628,Shot,291,SHOT,Tomas Tatar Slap Shot saved by Igor Shesterkin,2023-01-07T19:18:18Z,2,08:22,11:38,0,2,1.0,New Jersey Devils,NJD
+167,1,3,New Jersey Devils,New York Rangers,2022020628562,2022020628,Stoppage,562,STOP,Goalie Stopped,2023-01-07T19:18:19Z,2,08:24,11:36,0,2,,,
+168,1,3,New Jersey Devils,New York Rangers,2022020628418,2022020628,Faceoff,418,FACEOFF,Mika Zibanejad faceoff won against Jack Hughes,2023-01-07T19:20:36Z,2,08:24,11:36,0,2,3.0,New York Rangers,NYR
+169,1,3,New Jersey Devils,New York Rangers,2022020628293,2022020628,Shot,293,SHOT,Kaapo Kakko Tip-In saved by Vitek Vanecek,2023-01-07T19:20:52Z,2,08:40,11:20,0,2,3.0,New York Rangers,NYR
+170,1,3,New Jersey Devils,New York Rangers,2022020628294,2022020628,Shot,294,SHOT,Jack Hughes Snap Shot saved by Igor Shesterkin,2023-01-07T19:21:20Z,2,09:07,10:53,0,2,1.0,New Jersey Devils,NJD
+171,1,3,New Jersey Devils,New York Rangers,2022020628563,2022020628,Hit,563,HIT,Nikita Okhotiuk hit Sammy Blais,2023-01-07T19:21:30Z,2,09:17,10:43,0,2,1.0,New Jersey Devils,NJD
+172,1,3,New Jersey Devils,New York Rangers,2022020628218,2022020628,Giveaway,218,GIVEAWAY,Giveaway by Barclay Goodrow,2023-01-07T19:21:33Z,2,09:20,10:40,0,2,3.0,New York Rangers,NYR
+173,1,3,New Jersey Devils,New York Rangers,2022020628295,2022020628,Goal,295,GOAL,"Jack Hughes (25) Snap Shot, assists: none",2023-01-07T19:21:38Z,2,09:24,10:36,1,2,1.0,New Jersey Devils,NJD
+174,1,3,New Jersey Devils,New York Rangers,2022020628422,2022020628,Faceoff,422,FACEOFF,Vincent Trocheck faceoff won against Nico Hischier,2023-01-07T19:22:15Z,2,09:24,10:36,1,2,3.0,New York Rangers,NYR
+175,1,3,New Jersey Devils,New York Rangers,2022020628217,2022020628,Blocked Shot,217,BLOCKED_SHOT,Ben Harpur shot blocked shot by Jesper Bratt,2023-01-07T19:22:38Z,2,09:47,10:13,1,2,1.0,New Jersey Devils,NJD
+176,1,3,New Jersey Devils,New York Rangers,2022020628296,2022020628,Missed Shot,296,MISSED_SHOT,Vincent Trocheck Wide of Net Vitek Vanecek,2023-01-07T19:22:49Z,2,09:58,10:02,1,2,3.0,New York Rangers,NYR
+177,1,3,New Jersey Devils,New York Rangers,2022020628297,2022020628,Shot,297,SHOT,Ondrej Palat Wrist Shot saved by Igor Shesterkin,2023-01-07T19:23:08Z,2,10:17,09:43,1,2,1.0,New Jersey Devils,NJD
+178,1,3,New Jersey Devils,New York Rangers,2022020628565,2022020628,Hit,565,HIT,K'Andre Miller hit Dawson Mercer,2023-01-07T19:23:36Z,2,10:45,09:15,1,2,3.0,New York Rangers,NYR
+179,1,3,New Jersey Devils,New York Rangers,2022020628566,2022020628,Blocked Shot,566,BLOCKED_SHOT,Alexis Lafrenière shot blocked shot by Michael McLeod,2023-01-07T19:24:12Z,2,11:21,08:39,1,2,1.0,New Jersey Devils,NJD
+180,1,3,New Jersey Devils,New York Rangers,2022020628298,2022020628,Blocked Shot,298,BLOCKED_SHOT,Jesper Boqvist shot blocked shot by K'Andre Miller,2023-01-07T19:24:49Z,2,11:58,08:02,1,2,3.0,New York Rangers,NYR
+181,1,3,New Jersey Devils,New York Rangers,2022020628299,2022020628,Stoppage,299,STOP,Puck in Netting,2023-01-07T19:24:50Z,2,12:00,08:00,1,2,,,
+182,1,3,New Jersey Devils,New York Rangers,2022020628429,2022020628,Faceoff,429,FACEOFF,Mika Zibanejad faceoff won against Nico Hischier,2023-01-07T19:26:57Z,2,12:00,08:00,1,2,3.0,New York Rangers,NYR
+183,1,3,New Jersey Devils,New York Rangers,2022020628300,2022020628,Stoppage,300,STOP,Icing,2023-01-07T19:27:10Z,2,12:13,07:47,1,2,,,
+184,1,3,New Jersey Devils,New York Rangers,2022020628430,2022020628,Faceoff,430,FACEOFF,Mika Zibanejad faceoff won against Nico Hischier,2023-01-07T19:27:31Z,2,12:13,07:47,1,2,3.0,New York Rangers,NYR
+185,1,3,New Jersey Devils,New York Rangers,2022020628501,2022020628,Shot,501,SHOT,Ryan Lindgren Snap Shot saved by Vitek Vanecek,2023-01-07T19:27:51Z,2,12:33,07:27,1,2,3.0,New York Rangers,NYR
+186,1,3,New Jersey Devils,New York Rangers,2022020628568,2022020628,Missed Shot,568,MISSED_SHOT,Kaapo Kakko Wide of Net Vitek Vanecek,2023-01-07T19:27:53Z,2,12:35,07:25,1,2,3.0,New York Rangers,NYR
+187,1,3,New Jersey Devils,New York Rangers,2022020628502,2022020628,Missed Shot,502,MISSED_SHOT,Mika Zibanejad Wide of Net Vitek Vanecek,2023-01-07T19:28:02Z,2,12:44,07:16,1,2,3.0,New York Rangers,NYR
+188,1,3,New Jersey Devils,New York Rangers,2022020628503,2022020628,Shot,503,SHOT,K'Andre Miller Snap Shot saved by Vitek Vanecek,2023-01-07T19:28:31Z,2,13:13,06:47,1,2,3.0,New York Rangers,NYR
+189,1,3,New Jersey Devils,New York Rangers,2022020628504,2022020628,Goal,504,GOAL,"Chris Kreider (19) Wrist Shot, assists: K'Andre Miller (17), Mika Zibanejad (25)",2023-01-07T19:28:33Z,2,13:15,06:45,1,3,3.0,New York Rangers,NYR
+190,1,3,New Jersey Devils,New York Rangers,2022020628432,2022020628,Faceoff,432,FACEOFF,Erik Haula faceoff won against Vincent Trocheck,2023-01-07T19:29:22Z,2,13:15,06:45,1,3,1.0,New Jersey Devils,NJD
+191,1,3,New Jersey Devils,New York Rangers,2022020628569,2022020628,Shot,569,SHOT,Dougie Hamilton Wrist Shot saved by Igor Shesterkin,2023-01-07T19:29:37Z,2,13:30,06:30,1,3,1.0,New Jersey Devils,NJD
+192,1,3,New Jersey Devils,New York Rangers,2022020628570,2022020628,Hit,570,HIT,Jack Hughes hit Vincent Trocheck,2023-01-07T19:30:10Z,2,14:03,05:57,1,3,1.0,New Jersey Devils,NJD
+193,1,3,New Jersey Devils,New York Rangers,2022020628571,2022020628,Hit,571,HIT,Ben Harpur hit Miles Wood,2023-01-07T19:31:13Z,2,15:06,04:54,1,3,3.0,New York Rangers,NYR
+194,1,3,New Jersey Devils,New York Rangers,2022020628505,2022020628,Shot,505,SHOT,Miles Wood Wrist Shot saved by Igor Shesterkin,2023-01-07T19:31:17Z,2,15:10,04:50,1,3,1.0,New Jersey Devils,NJD
+195,1,3,New Jersey Devils,New York Rangers,2022020628572,2022020628,Stoppage,572,STOP,Goalie Stopped,2023-01-07T19:31:20Z,2,15:13,04:47,1,3,,,
+196,1,3,New Jersey Devils,New York Rangers,2022020628440,2022020628,Faceoff,440,FACEOFF,Jack Hughes faceoff won against Mika Zibanejad,2023-01-07T19:34:01Z,2,15:13,04:47,1,3,1.0,New Jersey Devils,NJD
+197,1,3,New Jersey Devils,New York Rangers,2022020628506,2022020628,Shot,506,SHOT,Jack Hughes Snap Shot saved by Igor Shesterkin,2023-01-07T19:34:07Z,2,15:19,04:41,1,3,1.0,New Jersey Devils,NJD
+198,1,3,New Jersey Devils,New York Rangers,2022020628573,2022020628,Shot,573,SHOT,Mika Zibanejad Tip-In saved by Vitek Vanecek,2023-01-07T19:34:30Z,2,15:42,04:18,1,3,3.0,New York Rangers,NYR
+199,1,3,New Jersey Devils,New York Rangers,2022020628507,2022020628,Stoppage,507,STOP,Goalie Stopped,2023-01-07T19:34:41Z,2,15:53,04:07,1,3,,,
+200,1,3,New Jersey Devils,New York Rangers,2022020628442,2022020628,Faceoff,442,FACEOFF,Filip Chytil faceoff won against Nico Hischier,2023-01-07T19:35:10Z,2,15:53,04:07,1,3,3.0,New York Rangers,NYR
+201,1,3,New Jersey Devils,New York Rangers,2022020628575,2022020628,Shot,575,SHOT,Filip Chytil Wrist Shot saved by Vitek Vanecek,2023-01-07T19:35:34Z,2,16:17,03:43,1,3,3.0,New York Rangers,NYR
+202,1,3,New Jersey Devils,New York Rangers,2022020628576,2022020628,Stoppage,576,STOP,Goalie Stopped,2023-01-07T19:35:35Z,2,16:19,03:41,1,3,,,
+203,1,3,New Jersey Devils,New York Rangers,2022020628462,2022020628,Faceoff,462,FACEOFF,Filip Chytil faceoff won against Jesper Boqvist,2023-01-07T19:36:07Z,2,16:19,03:41,1,3,3.0,New York Rangers,NYR
+204,1,3,New Jersey Devils,New York Rangers,2022020628577,2022020628,Blocked Shot,577,BLOCKED_SHOT,Jimmy Vesey shot blocked shot by Brendan Smith,2023-01-07T19:36:14Z,2,16:26,03:34,1,3,1.0,New Jersey Devils,NJD
+205,1,3,New Jersey Devils,New York Rangers,2022020628463,2022020628,Hit,463,HIT,Jacob Trouba hit Jesper Boqvist,2023-01-07T19:36:35Z,2,16:47,03:13,1,3,3.0,New York Rangers,NYR
+206,1,3,New Jersey Devils,New York Rangers,2022020628508,2022020628,Shot,508,SHOT,Yegor Sharangovich Deflected saved by Igor Shesterkin,2023-01-07T19:36:43Z,2,16:55,03:05,1,3,1.0,New Jersey Devils,NJD
+207,1,3,New Jersey Devils,New York Rangers,2022020628578,2022020628,Stoppage,578,STOP,Goalie Stopped,2023-01-07T19:36:43Z,2,16:55,03:05,1,3,,,
+208,1,3,New Jersey Devils,New York Rangers,2022020628465,2022020628,Faceoff,465,FACEOFF,Vincent Trocheck faceoff won against Jack Hughes,2023-01-07T19:37:18Z,2,16:55,03:05,1,3,3.0,New York Rangers,NYR
+209,1,3,New Jersey Devils,New York Rangers,2022020628466,2022020628,Giveaway,466,GIVEAWAY,Giveaway by Dougie Hamilton,2023-01-07T19:37:24Z,2,17:01,02:59,1,3,1.0,New Jersey Devils,NJD
+210,1,3,New Jersey Devils,New York Rangers,2022020628509,2022020628,Shot,509,SHOT,Vincent Trocheck Backhand saved by Vitek Vanecek,2023-01-07T19:37:31Z,2,17:07,02:53,1,3,3.0,New York Rangers,NYR
+211,1,3,New Jersey Devils,New York Rangers,2022020628579,2022020628,Stoppage,579,STOP,Goalie Stopped,2023-01-07T19:37:31Z,2,17:07,02:53,1,3,,,
+212,1,3,New Jersey Devils,New York Rangers,2022020628467,2022020628,Faceoff,467,FACEOFF,Erik Haula faceoff won against Vincent Trocheck,2023-01-07T19:38:06Z,2,17:07,02:53,1,3,1.0,New Jersey Devils,NJD
+213,1,3,New Jersey Devils,New York Rangers,2022020628468,2022020628,Hit,468,HIT,Dougie Hamilton hit Vitali Kravtsov,2023-01-07T19:38:34Z,2,17:35,02:25,1,3,1.0,New Jersey Devils,NJD
+214,1,3,New Jersey Devils,New York Rangers,2022020628469,2022020628,Hit,469,HIT,Erik Haula hit Artemi Panarin,2023-01-07T19:38:41Z,2,17:42,02:18,1,3,1.0,New Jersey Devils,NJD
+215,1,3,New Jersey Devils,New York Rangers,2022020628510,2022020628,Shot,510,SHOT,Julien Gauthier Snap Shot saved by Vitek Vanecek,2023-01-07T19:38:52Z,2,17:53,02:07,1,3,3.0,New York Rangers,NYR
+216,1,3,New Jersey Devils,New York Rangers,2022020628580,2022020628,Stoppage,580,STOP,Goalie Stopped,2023-01-07T19:38:56Z,2,17:57,02:03,1,3,,,
+217,1,3,New Jersey Devils,New York Rangers,2022020628470,2022020628,Faceoff,470,FACEOFF,Michael McLeod faceoff won against Barclay Goodrow,2023-01-07T19:39:24Z,2,17:57,02:03,1,3,1.0,New Jersey Devils,NJD
+218,1,3,New Jersey Devils,New York Rangers,2022020628471,2022020628,Hit,471,HIT,Barclay Goodrow hit Damon Severson,2023-01-07T19:39:48Z,2,18:21,01:39,1,3,3.0,New York Rangers,NYR
+219,1,3,New Jersey Devils,New York Rangers,2022020628511,2022020628,Shot,511,SHOT,Damon Severson Snap Shot saved by Igor Shesterkin,2023-01-07T19:40:14Z,2,18:47,01:13,1,3,1.0,New Jersey Devils,NJD
+220,1,3,New Jersey Devils,New York Rangers,2022020628581,2022020628,Blocked Shot,581,BLOCKED_SHOT,Michael McLeod shot blocked shot by Barclay Goodrow,2023-01-07T19:40:15Z,2,18:48,01:12,1,3,3.0,New York Rangers,NYR
+221,1,3,New Jersey Devils,New York Rangers,2022020628512,2022020628,Blocked Shot,512,BLOCKED_SHOT,Ondrej Palat shot blocked shot by Adam Fox,2023-01-07T19:40:26Z,2,18:59,01:01,1,3,3.0,New York Rangers,NYR
+222,1,3,New Jersey Devils,New York Rangers,2022020628472,2022020628,Hit,472,HIT,Jacob Trouba hit Jesper Bratt,2023-01-07T19:40:49Z,2,19:22,00:38,1,3,3.0,New York Rangers,NYR
+223,1,3,New Jersey Devils,New York Rangers,2022020628473,2022020628,Giveaway,473,GIVEAWAY,Giveaway by Nico Hischier,2023-01-07T19:40:57Z,2,19:30,00:30,1,3,1.0,New Jersey Devils,NJD
+224,1,3,New Jersey Devils,New York Rangers,2022020628474,2022020628,Hit,474,HIT,Jesper Bratt hit Kaapo Kakko,2023-01-07T19:41:14Z,2,19:47,00:13,1,3,1.0,New Jersey Devils,NJD
+225,1,3,New Jersey Devils,New York Rangers,2022020628513,2022020628,Period End,513,PERIOD_END,End of 2nd Period,2023-01-07T19:41:27Z,2,20:00,00:00,1,3,,,
+226,1,3,New Jersey Devils,New York Rangers,2022020628516,2022020628,Period Official,516,PERIOD_OFFICIAL,Period Official,2023-01-07T19:59:39Z,2,20:00,00:00,1,3,,,
+227,1,3,New Jersey Devils,New York Rangers,2022020628517,2022020628,Period Ready,517,PERIOD_READY,Period Ready,2023-01-07T20:00:08Z,3,00:00,20:00,1,3,,,
+228,1,3,New Jersey Devils,New York Rangers,2022020628475,2022020628,Period Start,475,PERIOD_START,Period Start,2023-01-07T20:00:15Z,3,00:00,20:00,1,3,,,
+229,1,3,New Jersey Devils,New York Rangers,2022020628476,2022020628,Faceoff,476,FACEOFF,Mika Zibanejad faceoff won against Nico Hischier,2023-01-07T20:00:15Z,3,00:00,20:00,1,3,3.0,New York Rangers,NYR
+230,1,3,New Jersey Devils,New York Rangers,2022020628477,2022020628,Hit,477,HIT,Kaapo Kakko hit Ryan Graves,2023-01-07T20:00:24Z,3,00:09,19:51,1,3,3.0,New York Rangers,NYR
+231,1,3,New Jersey Devils,New York Rangers,2022020628518,2022020628,Shot,518,SHOT,Vincent Trocheck Snap Shot saved by Vitek Vanecek,2023-01-07T20:01:19Z,3,01:04,18:56,1,3,3.0,New York Rangers,NYR
+232,1,3,New Jersey Devils,New York Rangers,2022020628582,2022020628,Shot,582,SHOT,Vincent Trocheck Snap Shot saved by Vitek Vanecek,2023-01-07T20:01:20Z,3,01:05,18:55,1,3,3.0,New York Rangers,NYR
+233,1,3,New Jersey Devils,New York Rangers,2022020628519,2022020628,Shot,519,SHOT,Miles Wood Deflected saved by Igor Shesterkin,2023-01-07T20:02:30Z,3,02:15,17:45,1,3,1.0,New Jersey Devils,NJD
+234,1,3,New Jersey Devils,New York Rangers,2022020628583,2022020628,Stoppage,583,STOP,Icing,2023-01-07T20:02:33Z,3,02:19,17:41,1,3,,,
+235,1,3,New Jersey Devils,New York Rangers,2022020628478,2022020628,Faceoff,478,FACEOFF,Michael McLeod faceoff won against Filip Chytil,2023-01-07T20:02:58Z,3,02:19,17:41,1,3,1.0,New Jersey Devils,NJD
+236,1,3,New Jersey Devils,New York Rangers,2022020628584,2022020628,Blocked Shot,584,BLOCKED_SHOT,Miles Wood shot blocked shot by Alexis Lafrenière,2023-01-07T20:02:59Z,3,02:20,17:40,1,3,3.0,New York Rangers,NYR
+237,1,3,New Jersey Devils,New York Rangers,2022020628520,2022020628,Shot,520,SHOT,Damon Severson Slap Shot saved by Igor Shesterkin,2023-01-07T20:03:02Z,3,02:23,17:37,1,3,1.0,New Jersey Devils,NJD
+238,1,3,New Jersey Devils,New York Rangers,2022020628479,2022020628,Hit,479,HIT,Dawson Mercer hit Ben Harpur,2023-01-07T20:03:10Z,3,02:31,17:29,1,3,1.0,New Jersey Devils,NJD
+239,1,3,New Jersey Devils,New York Rangers,2022020628521,2022020628,Blocked Shot,521,BLOCKED_SHOT,Damon Severson shot blocked shot by Braden Schneider,2023-01-07T20:03:13Z,3,02:34,17:26,1,3,3.0,New York Rangers,NYR
+240,1,3,New Jersey Devils,New York Rangers,2022020628480,2022020628,Hit,480,HIT,Dougie Hamilton hit Barclay Goodrow,2023-01-07T20:03:26Z,3,02:47,17:13,1,3,1.0,New Jersey Devils,NJD
+241,1,3,New Jersey Devils,New York Rangers,2022020628586,2022020628,Blocked Shot,586,BLOCKED_SHOT,Nikita Okhotiuk shot blocked shot by Ryan Lindgren,2023-01-07T20:04:22Z,3,03:43,16:17,1,3,3.0,New York Rangers,NYR
+242,1,3,New Jersey Devils,New York Rangers,2022020628522,2022020628,Shot,522,SHOT,Kaapo Kakko Poke saved by Vitek Vanecek,2023-01-07T20:05:06Z,3,04:27,15:33,1,3,3.0,New York Rangers,NYR
+243,1,3,New Jersey Devils,New York Rangers,2022020628587,2022020628,Stoppage,587,STOP,Goalie Stopped,2023-01-07T20:05:08Z,3,04:29,15:31,1,3,,,
+244,1,3,New Jersey Devils,New York Rangers,2022020628482,2022020628,Faceoff,482,FACEOFF,Mika Zibanejad faceoff won against Erik Haula,2023-01-07T20:05:46Z,3,04:29,15:31,1,3,3.0,New York Rangers,NYR
+245,1,3,New Jersey Devils,New York Rangers,2022020628523,2022020628,Shot,523,SHOT,Jacob Trouba Slap Shot saved by Vitek Vanecek,2023-01-07T20:05:48Z,3,04:31,15:29,1,3,3.0,New York Rangers,NYR
+246,1,3,New Jersey Devils,New York Rangers,2022020628588,2022020628,Stoppage,588,STOP,Goalie Stopped,2023-01-07T20:05:49Z,3,04:32,15:28,1,3,,,
+247,1,3,New Jersey Devils,New York Rangers,2022020628483,2022020628,Faceoff,483,FACEOFF,Erik Haula faceoff won against Mika Zibanejad,2023-01-07T20:06:09Z,3,04:32,15:28,1,3,1.0,New Jersey Devils,NJD
+248,1,3,New Jersey Devils,New York Rangers,2022020628524,2022020628,Missed Shot,524,MISSED_SHOT,Artemi Panarin Over Net Vitek Vanecek,2023-01-07T20:06:59Z,3,05:22,14:38,1,3,3.0,New York Rangers,NYR
+249,1,3,New Jersey Devils,New York Rangers,2022020628819,2022020628,Penalty,819,PENALTY,Dougie Hamilton Hooking against Vincent Trocheck,2023-01-07T20:07:23Z,3,05:47,14:13,1,3,1.0,New Jersey Devils,NJD
+250,1,3,New Jersey Devils,New York Rangers,2022020628484,2022020628,Faceoff,484,FACEOFF,Erik Haula faceoff won against Vincent Trocheck,2023-01-07T20:08:11Z,3,05:47,14:13,1,3,1.0,New Jersey Devils,NJD
+251,1,3,New Jersey Devils,New York Rangers,2022020628525,2022020628,Missed Shot,525,MISSED_SHOT,Artemi Panarin Wide of Net Vitek Vanecek,2023-01-07T20:08:30Z,3,06:06,13:54,1,3,3.0,New York Rangers,NYR
+252,1,3,New Jersey Devils,New York Rangers,2022020628220,2022020628,Blocked Shot,220,BLOCKED_SHOT,Adam Fox shot blocked shot by Ryan Graves,2023-01-07T20:08:46Z,3,06:22,13:38,1,3,1.0,New Jersey Devils,NJD
+253,1,3,New Jersey Devils,New York Rangers,2022020628589,2022020628,Missed Shot,589,MISSED_SHOT,Jonas Siegenthaler Wide of Net Igor Shesterkin,2023-01-07T20:09:19Z,3,06:55,13:05,1,3,1.0,New Jersey Devils,NJD
+254,1,3,New Jersey Devils,New York Rangers,2022020628526,2022020628,Blocked Shot,526,BLOCKED_SHOT,Nico Hischier shot blocked shot by Adam Fox,2023-01-07T20:09:23Z,3,06:59,13:01,1,3,3.0,New York Rangers,NYR
+255,1,3,New Jersey Devils,New York Rangers,2022020628485,2022020628,Giveaway,485,GIVEAWAY,Giveaway by Igor Shesterkin,2023-01-07T20:09:25Z,3,07:01,12:59,1,3,3.0,New York Rangers,NYR
+256,1,3,New Jersey Devils,New York Rangers,2022020628527,2022020628,Stoppage,527,STOP,Icing,2023-01-07T20:09:32Z,3,07:08,12:52,1,3,,,
+257,1,3,New Jersey Devils,New York Rangers,2022020628486,2022020628,Faceoff,486,FACEOFF,Michael McLeod faceoff won against Filip Chytil,2023-01-07T20:10:04Z,3,07:08,12:52,1,3,1.0,New Jersey Devils,NJD
+258,1,3,New Jersey Devils,New York Rangers,2022020628528,2022020628,Shot,528,SHOT,Damon Severson Slap Shot saved by Igor Shesterkin,2023-01-07T20:10:08Z,3,07:12,12:48,1,3,1.0,New Jersey Devils,NJD
+259,1,3,New Jersey Devils,New York Rangers,2022020628487,2022020628,Hit,487,HIT,Filip Chytil hit Ryan Graves,2023-01-07T20:10:46Z,3,07:50,12:10,1,3,3.0,New York Rangers,NYR
+260,1,3,New Jersey Devils,New York Rangers,2022020628590,2022020628,Blocked Shot,590,BLOCKED_SHOT,Alexander Holtz shot blocked shot by Kaapo Kakko,2023-01-07T20:10:51Z,3,07:55,12:05,1,3,3.0,New York Rangers,NYR
+261,1,3,New Jersey Devils,New York Rangers,2022020628591,2022020628,Stoppage,591,STOP,TV timeout,2023-01-07T20:10:53Z,3,07:57,12:03,1,3,,,
+262,1,3,New Jersey Devils,New York Rangers,2022020628837,2022020628,Penalty,837,PENALTY,Kaapo Kakko Slashing against Jack Hughes,2023-01-07T20:10:53Z,3,07:57,12:03,1,3,3.0,New York Rangers,NYR
+263,1,3,New Jersey Devils,New York Rangers,2022020628488,2022020628,Faceoff,488,FACEOFF,Nico Hischier faceoff won against Mika Zibanejad,2023-01-07T20:13:07Z,3,07:57,12:03,1,3,1.0,New Jersey Devils,NJD
+264,1,3,New Jersey Devils,New York Rangers,2022020628530,2022020628,Goal,530,GOAL,"Jesper Bratt (15) Slap Shot, assists: Nico Hischier (20), Jack Hughes (23)",2023-01-07T20:13:37Z,3,08:28,11:32,2,3,1.0,New Jersey Devils,NJD
+265,1,3,New Jersey Devils,New York Rangers,2022020628489,2022020628,Faceoff,489,FACEOFF,Vincent Trocheck faceoff won against Jesper Boqvist,2023-01-07T20:14:23Z,3,08:28,11:32,2,3,3.0,New York Rangers,NYR
+266,1,3,New Jersey Devils,New York Rangers,2022020628592,2022020628,Blocked Shot,592,BLOCKED_SHOT,Miles Wood shot blocked shot by Jacob Trouba,2023-01-07T20:14:35Z,3,08:40,11:20,2,3,3.0,New York Rangers,NYR
+267,1,3,New Jersey Devils,New York Rangers,2022020628593,2022020628,Blocked Shot,593,BLOCKED_SHOT,Jesper Boqvist shot blocked shot by K'Andre Miller,2023-01-07T20:15:03Z,3,09:08,10:52,2,3,3.0,New York Rangers,NYR
+268,1,3,New Jersey Devils,New York Rangers,2022020628531,2022020628,Stoppage,531,STOP,Puck in Netting,2023-01-07T20:15:05Z,3,09:10,10:50,2,3,,,
+269,1,3,New Jersey Devils,New York Rangers,2022020628490,2022020628,Faceoff,490,FACEOFF,Barclay Goodrow faceoff won against Yegor Sharangovich,2023-01-07T20:15:39Z,3,09:10,10:50,2,3,3.0,New York Rangers,NYR
+270,1,3,New Jersey Devils,New York Rangers,2022020628491,2022020628,Hit,491,HIT,Nikita Okhotiuk hit Filip Chytil,2023-01-07T20:15:48Z,3,09:19,10:41,2,3,1.0,New Jersey Devils,NJD
+271,1,3,New Jersey Devils,New York Rangers,2022020628532,2022020628,Stoppage,532,STOP,Puck in Benches,2023-01-07T20:15:59Z,3,09:30,10:30,2,3,,,
+272,1,3,New Jersey Devils,New York Rangers,2022020628492,2022020628,Faceoff,492,FACEOFF,Filip Chytil faceoff won against Nico Hischier,2023-01-07T20:16:23Z,3,09:30,10:30,2,3,3.0,New York Rangers,NYR
+273,1,3,New Jersey Devils,New York Rangers,2022020628493,2022020628,Giveaway,493,GIVEAWAY,Giveaway by Ryan Lindgren,2023-01-07T20:16:39Z,3,09:46,10:14,2,3,3.0,New York Rangers,NYR
+274,1,3,New Jersey Devils,New York Rangers,2022020628533,2022020628,Shot,533,SHOT,Filip Chytil Backhand saved by Vitek Vanecek,2023-01-07T20:16:52Z,3,09:59,10:01,2,3,3.0,New York Rangers,NYR
+275,1,3,New Jersey Devils,New York Rangers,2022020628594,2022020628,Blocked Shot,594,BLOCKED_SHOT,Dawson Mercer shot blocked shot by Braden Schneider,2023-01-07T20:17:13Z,3,10:20,09:40,2,3,3.0,New York Rangers,NYR
+276,1,3,New Jersey Devils,New York Rangers,2022020628534,2022020628,Stoppage,534,STOP,Puck in Netting,2023-01-07T20:17:15Z,3,10:22,09:38,2,3,,,
+277,1,3,New Jersey Devils,New York Rangers,2022020628494,2022020628,Faceoff,494,FACEOFF,Dawson Mercer faceoff won against Barclay Goodrow,2023-01-07T20:19:26Z,3,10:22,09:38,2,3,1.0,New Jersey Devils,NJD
+278,1,3,New Jersey Devils,New York Rangers,2022020628535,2022020628,Goal,535,GOAL,"Jack Hughes (26) Slap Shot, assists: Dawson Mercer (14), Ryan Graves (8)",2023-01-07T20:19:36Z,3,10:32,09:28,3,3,1.0,New Jersey Devils,NJD
+279,1,3,New Jersey Devils,New York Rangers,2022020628495,2022020628,Faceoff,495,FACEOFF,Mika Zibanejad faceoff won against Nico Hischier,2023-01-07T20:20:14Z,3,10:32,09:28,3,3,3.0,New York Rangers,NYR
+280,1,3,New Jersey Devils,New York Rangers,2022020628595,2022020628,Shot,595,SHOT,Mika Zibanejad Wrist Shot saved by Vitek Vanecek,2023-01-07T20:20:39Z,3,10:57,09:03,3,3,3.0,New York Rangers,NYR
+281,1,3,New Jersey Devils,New York Rangers,2022020628536,2022020628,Stoppage,536,STOP,Goalie Stopped,2023-01-07T20:20:43Z,3,11:01,08:59,3,3,,,
+282,1,3,New Jersey Devils,New York Rangers,2022020628496,2022020628,Faceoff,496,FACEOFF,Erik Haula faceoff won against Vincent Trocheck,2023-01-07T20:21:16Z,3,11:01,08:59,3,3,1.0,New Jersey Devils,NJD
+283,1,3,New Jersey Devils,New York Rangers,2022020628497,2022020628,Giveaway,497,GIVEAWAY,Giveaway by Miles Wood,2023-01-07T20:21:25Z,3,11:10,08:50,3,3,1.0,New Jersey Devils,NJD
+284,1,3,New Jersey Devils,New York Rangers,2022020628919,2022020628,Penalty,919,PENALTY,Vincent Trocheck Slashing against Jonas Siegenthaler,2023-01-07T20:21:57Z,3,11:42,08:18,3,3,3.0,New York Rangers,NYR
+285,1,3,New Jersey Devils,New York Rangers,2022020628498,2022020628,Faceoff,498,FACEOFF,Mika Zibanejad faceoff won against Nico Hischier,2023-01-07T20:22:31Z,3,11:42,08:18,3,3,3.0,New York Rangers,NYR
+286,1,3,New Jersey Devils,New York Rangers,2022020628596,2022020628,Blocked Shot,596,BLOCKED_SHOT,Tomas Tatar shot blocked shot by Jacob Trouba,2023-01-07T20:22:41Z,3,11:52,08:08,3,3,3.0,New York Rangers,NYR
+287,1,3,New Jersey Devils,New York Rangers,2022020628537,2022020628,Blocked Shot,537,BLOCKED_SHOT,Dougie Hamilton shot blocked shot by Mika Zibanejad,2023-01-07T20:22:55Z,3,12:06,07:54,3,3,3.0,New York Rangers,NYR
+288,1,3,New Jersey Devils,New York Rangers,2022020628597,2022020628,Blocked Shot,597,BLOCKED_SHOT,Nico Hischier shot blocked shot by Adam Fox,2023-01-07T20:23:18Z,3,12:29,07:31,3,3,3.0,New York Rangers,NYR
+289,1,3,New Jersey Devils,New York Rangers,2022020628499,2022020628,Hit,499,HIT,Ondrej Palat hit Jacob Trouba,2023-01-07T20:23:45Z,3,12:56,07:04,3,3,1.0,New Jersey Devils,NJD
+290,1,3,New Jersey Devils,New York Rangers,2022020628598,2022020628,Missed Shot,598,MISSED_SHOT,Mika Zibanejad Over Net Vitek Vanecek,2023-01-07T20:24:18Z,3,13:29,06:31,3,3,3.0,New York Rangers,NYR
+291,1,3,New Jersey Devils,New York Rangers,2022020628539,2022020628,Stoppage,539,STOP,Puck in Netting,2023-01-07T20:24:22Z,3,13:33,06:27,3,3,,,
+292,1,3,New Jersey Devils,New York Rangers,2022020628500,2022020628,Faceoff,500,FACEOFF,Barclay Goodrow faceoff won against Michael McLeod,2023-01-07T20:25:00Z,3,13:33,06:27,3,3,3.0,New York Rangers,NYR
+293,1,3,New Jersey Devils,New York Rangers,2022020628540,2022020628,Shot,540,SHOT,Adam Fox Slap Shot saved by Vitek Vanecek,2023-01-07T20:25:02Z,3,13:35,06:25,3,3,3.0,New York Rangers,NYR
+294,1,3,New Jersey Devils,New York Rangers,2022020628599,2022020628,Stoppage,599,STOP,Goalie Stopped,2023-01-07T20:25:05Z,3,13:38,06:22,3,3,,,
+295,1,3,New Jersey Devils,New York Rangers,2022020628751,2022020628,Faceoff,751,FACEOFF,Michael McLeod faceoff won against Barclay Goodrow,2023-01-07T20:25:27Z,3,13:38,06:22,3,3,1.0,New Jersey Devils,NJD
+296,1,3,New Jersey Devils,New York Rangers,2022020628600,2022020628,Blocked Shot,600,BLOCKED_SHOT,Dawson Mercer shot blocked shot by Adam Fox,2023-01-07T20:25:45Z,3,13:56,06:04,3,3,3.0,New York Rangers,NYR
+297,1,3,New Jersey Devils,New York Rangers,2022020628541,2022020628,Shot,541,SHOT,K'Andre Miller Slap Shot saved by Vitek Vanecek,2023-01-07T20:26:02Z,3,14:13,05:47,3,3,3.0,New York Rangers,NYR
+298,1,3,New Jersey Devils,New York Rangers,2022020628542,2022020628,Shot,542,SHOT,Artemi Panarin Snap Shot saved by Vitek Vanecek,2023-01-07T20:26:55Z,3,15:06,04:54,3,3,3.0,New York Rangers,NYR
+299,1,3,New Jersey Devils,New York Rangers,2022020628543,2022020628,Shot,543,SHOT,Jesper Boqvist Snap Shot saved by Igor Shesterkin,2023-01-07T20:27:04Z,3,15:15,04:45,3,3,1.0,New Jersey Devils,NJD
+300,1,3,New Jersey Devils,New York Rangers,2022020628652,2022020628,Stoppage,652,STOP,Puck in Netting,2023-01-07T20:27:06Z,3,15:17,04:43,3,3,,,
+301,1,3,New Jersey Devils,New York Rangers,2022020628752,2022020628,Faceoff,752,FACEOFF,Vincent Trocheck faceoff won against Yegor Sharangovich,2023-01-07T20:29:23Z,3,15:17,04:43,3,3,3.0,New York Rangers,NYR
+302,1,3,New Jersey Devils,New York Rangers,2022020628753,2022020628,Hit,753,HIT,Vincent Trocheck hit Jack Hughes,2023-01-07T20:29:32Z,3,15:26,04:34,3,3,3.0,New York Rangers,NYR
+303,1,3,New Jersey Devils,New York Rangers,2022020628653,2022020628,Stoppage,653,STOP,Hand Pass,2023-01-07T20:29:32Z,3,15:27,04:33,3,3,,,
+304,1,3,New Jersey Devils,New York Rangers,2022020628754,2022020628,Faceoff,754,FACEOFF,Vincent Trocheck faceoff won against Yegor Sharangovich,2023-01-07T20:30:02Z,3,15:27,04:33,3,3,3.0,New York Rangers,NYR
+305,1,3,New Jersey Devils,New York Rangers,2022020628544,2022020628,Blocked Shot,544,BLOCKED_SHOT,Jack Hughes shot blocked shot by Vincent Trocheck,2023-01-07T20:30:12Z,3,15:37,04:23,3,3,3.0,New York Rangers,NYR
+306,1,3,New Jersey Devils,New York Rangers,2022020628755,2022020628,Hit,755,HIT,Jacob Trouba hit Dawson Mercer,2023-01-07T20:30:24Z,3,15:49,04:11,3,3,3.0,New York Rangers,NYR
+307,1,3,New Jersey Devils,New York Rangers,2022020628756,2022020628,Hit,756,HIT,Jimmy Vesey hit Jonas Siegenthaler,2023-01-07T20:31:38Z,3,17:03,02:57,3,3,3.0,New York Rangers,NYR
+308,1,3,New Jersey Devils,New York Rangers,2022020628545,2022020628,Shot,545,SHOT,Alexis Lafrenière Snap Shot saved by Vitek Vanecek,2023-01-07T20:31:53Z,3,17:18,02:42,3,3,3.0,New York Rangers,NYR
+309,1,3,New Jersey Devils,New York Rangers,2022020628757,2022020628,Takeaway,757,TAKEAWAY,Takeaway by Filip Chytil,2023-01-07T20:31:53Z,3,17:18,02:42,3,3,3.0,New York Rangers,NYR
+310,1,3,New Jersey Devils,New York Rangers,2022020628654,2022020628,Shot,654,SHOT,Alexis Lafrenière Snap Shot saved by Vitek Vanecek,2023-01-07T20:31:55Z,3,17:20,02:40,3,3,3.0,New York Rangers,NYR
+311,1,3,New Jersey Devils,New York Rangers,2022020628546,2022020628,Stoppage,546,STOP,Goalie Stopped,2023-01-07T20:31:58Z,3,17:22,02:38,3,3,,,
+312,1,3,New Jersey Devils,New York Rangers,2022020628758,2022020628,Faceoff,758,FACEOFF,Erik Haula faceoff won against Alexis Lafrenière,2023-01-07T20:32:38Z,3,17:22,02:38,3,3,1.0,New Jersey Devils,NJD
+313,1,3,New Jersey Devils,New York Rangers,2022020628759,2022020628,Hit,759,HIT,Jack Hughes hit Ryan Lindgren,2023-01-07T20:33:00Z,3,17:44,02:16,3,3,1.0,New Jersey Devils,NJD
+314,1,3,New Jersey Devils,New York Rangers,2022020628547,2022020628,Missed Shot,547,MISSED_SHOT,Filip Chytil Wide of Net Vitek Vanecek,2023-01-07T20:33:11Z,3,17:55,02:05,3,3,3.0,New York Rangers,NYR
+315,1,3,New Jersey Devils,New York Rangers,2022020628760,2022020628,Giveaway,760,GIVEAWAY,Giveaway by Artemi Panarin,2023-01-07T20:33:38Z,3,18:22,01:38,3,3,3.0,New York Rangers,NYR
+316,1,3,New Jersey Devils,New York Rangers,2022020628761,2022020628,Hit,761,HIT,Jacob Trouba hit Jesper Boqvist,2023-01-07T20:34:07Z,3,18:51,01:09,3,3,3.0,New York Rangers,NYR
+317,1,3,New Jersey Devils,New York Rangers,2022020628548,2022020628,Missed Shot,548,MISSED_SHOT,Erik Haula Wide of Net Igor Shesterkin,2023-01-07T20:34:22Z,3,19:06,00:54,3,3,1.0,New Jersey Devils,NJD
+318,1,3,New Jersey Devils,New York Rangers,2022020628762,2022020628,Hit,762,HIT,Mika Zibanejad hit Erik Haula,2023-01-07T20:34:27Z,3,19:11,00:49,3,3,3.0,New York Rangers,NYR
+319,1,3,New Jersey Devils,New York Rangers,2022020628763,2022020628,Hit,763,HIT,Erik Haula hit Kaapo Kakko,2023-01-07T20:34:46Z,3,19:30,00:30,3,3,1.0,New Jersey Devils,NJD
+320,1,3,New Jersey Devils,New York Rangers,2022020628549,2022020628,Period End,549,PERIOD_END,End of 3rd Period,2023-01-07T20:35:16Z,3,20:00,00:00,3,3,,,
+321,1,3,New Jersey Devils,New York Rangers,2022020628852,2022020628,Period Official,852,PERIOD_OFFICIAL,Period Official,2023-01-07T20:35:24Z,3,20:00,00:00,3,3,,,
+322,1,3,New Jersey Devils,New York Rangers,2022020628853,2022020628,Period Ready,853,PERIOD_READY,Period Ready,2023-01-07T20:37:23Z,4,00:00,05:00,3,3,,,
+323,1,3,New Jersey Devils,New York Rangers,2022020628764,2022020628,Period Start,764,PERIOD_START,Period Start,2023-01-07T20:37:35Z,4,00:00,05:00,3,3,,,
+324,1,3,New Jersey Devils,New York Rangers,2022020628765,2022020628,Faceoff,765,FACEOFF,Mika Zibanejad faceoff won against Erik Haula,2023-01-07T20:37:35Z,4,00:00,05:00,3,3,3.0,New York Rangers,NYR
+325,1,3,New Jersey Devils,New York Rangers,2022020628854,2022020628,Missed Shot,854,MISSED_SHOT,Mika Zibanejad Wide of Net Vitek Vanecek,2023-01-07T20:38:04Z,4,00:29,04:31,3,3,3.0,New York Rangers,NYR
+326,1,3,New Jersey Devils,New York Rangers,2022020628855,2022020628,Shot,855,SHOT,Nico Hischier Snap Shot saved by Igor Shesterkin,2023-01-07T20:39:00Z,4,01:25,03:35,3,3,1.0,New Jersey Devils,NJD
+327,1,3,New Jersey Devils,New York Rangers,2022020628655,2022020628,Shot,655,SHOT,Artemi Panarin Wrist Shot saved by Vitek Vanecek,2023-01-07T20:39:11Z,4,01:36,03:24,3,3,3.0,New York Rangers,NYR
+328,1,3,New Jersey Devils,New York Rangers,2022020628857,2022020628,Stoppage,857,STOP,Puck in Netting,2023-01-07T20:39:12Z,4,01:38,03:22,3,3,,,
+329,1,3,New Jersey Devils,New York Rangers,2022020628766,2022020628,Faceoff,766,FACEOFF,Michael McLeod faceoff won against Filip Chytil,2023-01-07T20:39:45Z,4,01:38,03:22,3,3,1.0,New Jersey Devils,NJD
+330,1,3,New Jersey Devils,New York Rangers,2022020628858,2022020628,Shot,858,SHOT,Dougie Hamilton Wrist Shot saved by Igor Shesterkin,2023-01-07T20:40:06Z,4,01:59,03:01,3,3,1.0,New Jersey Devils,NJD
+331,1,3,New Jersey Devils,New York Rangers,2022020628767,2022020628,Hit,767,HIT,Alexis Lafrenière hit Yegor Sharangovich,2023-01-07T20:40:12Z,4,02:05,02:55,3,3,3.0,New York Rangers,NYR
+332,1,3,New Jersey Devils,New York Rangers,2022020628768,2022020628,Takeaway,768,TAKEAWAY,Takeaway by Jack Hughes,2023-01-07T20:40:33Z,4,02:26,02:34,3,3,1.0,New Jersey Devils,NJD
+333,1,3,New Jersey Devils,New York Rangers,2022020628859,2022020628,Shot,859,SHOT,Jack Hughes Snap Shot saved by Igor Shesterkin,2023-01-07T20:40:38Z,4,02:31,02:29,3,3,1.0,New Jersey Devils,NJD
+334,1,3,New Jersey Devils,New York Rangers,2022020628769,2022020628,Takeaway,769,TAKEAWAY,Takeaway by Damon Severson,2023-01-07T20:40:49Z,4,02:42,02:18,3,3,1.0,New Jersey Devils,NJD
+335,1,3,New Jersey Devils,New York Rangers,2022020628860,2022020628,Goal,860,GOAL,"Damon Severson (3) Snap Shot, assists: none",2023-01-07T20:40:54Z,4,02:47,02:13,4,3,1.0,New Jersey Devils,NJD
+336,1,3,New Jersey Devils,New York Rangers,2022020628861,2022020628,Period End,861,PERIOD_END,End of OT,2023-01-07T20:40:54Z,4,02:47,02:13,4,3,,,
+337,1,3,New Jersey Devils,New York Rangers,2022020628864,2022020628,Period Official,864,PERIOD_OFFICIAL,Period Official,2023-01-07T20:42:27Z,4,02:47,02:13,4,3,,,
+338,1,3,New Jersey Devils,New York Rangers,2022020628866,2022020628,Game End,866,GAME_END,Game End,2023-01-07T20:49:55Z,4,02:47,02:13,4,3,,,
+339,1,3,New Jersey Devils,New York Rangers,20220206281251,2022020628,Game Official,1251,GAME_OFFICIAL,Game Official,2023-01-08T04:01:32Z,4,02:47,02:13,4,3,,,

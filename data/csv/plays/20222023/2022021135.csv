@@ -1,0 +1,296 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,15,16,Washington Capitals,Chicago Blackhawks,20220211351,2022021135,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-03-23T22:16:05Z,1,00:00,20:00,0,0,,,
+1,15,16,Washington Capitals,Chicago Blackhawks,20220211355,2022021135,Period Ready,5,PERIOD_READY,Period Ready,2023-03-23T23:08:13Z,1,00:00,20:00,0,0,,,
+2,15,16,Washington Capitals,Chicago Blackhawks,2022021135101,2022021135,Period Start,101,PERIOD_START,Period Start,2023-03-23T23:09:10Z,1,00:00,20:00,0,0,,,
+3,15,16,Washington Capitals,Chicago Blackhawks,2022021135102,2022021135,Faceoff,102,FACEOFF,Nicklas Backstrom faceoff won against Jason Dickinson,2023-03-23T23:09:10Z,1,00:00,20:00,0,0,15.0,Washington Capitals,WSH
+4,15,16,Washington Capitals,Chicago Blackhawks,2022021135103,2022021135,Stoppage,103,STOP,Offside,2023-03-23T23:09:26Z,1,00:16,19:44,0,0,,,
+5,15,16,Washington Capitals,Chicago Blackhawks,2022021135104,2022021135,Faceoff,104,FACEOFF,Nicklas Backstrom faceoff won against Jason Dickinson,2023-03-23T23:09:43Z,1,00:16,19:44,0,0,15.0,Washington Capitals,WSH
+6,15,16,Washington Capitals,Chicago Blackhawks,2022021135151,2022021135,Hit,151,HIT,Jason Dickinson hit Martin Fehervary,2023-03-23T23:09:56Z,1,00:29,19:31,0,0,16.0,Chicago Blackhawks,CHI
+7,15,16,Washington Capitals,Chicago Blackhawks,2022021135105,2022021135,Stoppage,105,STOP,Icing,2023-03-23T23:10:04Z,1,00:38,19:22,0,0,,,
+8,15,16,Washington Capitals,Chicago Blackhawks,2022021135106,2022021135,Faceoff,106,FACEOFF,Dylan Strome faceoff won against Jason Dickinson,2023-03-23T23:10:29Z,1,00:38,19:22,0,0,15.0,Washington Capitals,WSH
+9,15,16,Washington Capitals,Chicago Blackhawks,20220211358,2022021135,Shot,8,SHOT,Alex Ovechkin Wrist Shot saved by Anton Khudobin,2023-03-23T23:10:44Z,1,00:53,19:07,0,0,15.0,Washington Capitals,WSH
+10,15,16,Washington Capitals,Chicago Blackhawks,2022021135107,2022021135,Stoppage,107,STOP,Offside,2023-03-23T23:12:19Z,1,02:28,17:32,0,0,,,
+11,15,16,Washington Capitals,Chicago Blackhawks,2022021135108,2022021135,Faceoff,108,FACEOFF,MacKenzie Entwistle faceoff won against Nicklas Backstrom,2023-03-23T23:12:41Z,1,02:28,17:32,0,0,16.0,Chicago Blackhawks,CHI
+12,15,16,Washington Capitals,Chicago Blackhawks,2022021135152,2022021135,Hit,152,HIT,John Carlson hit Mike Hardman,2023-03-23T23:12:48Z,1,02:35,17:25,0,0,15.0,Washington Capitals,WSH
+13,15,16,Washington Capitals,Chicago Blackhawks,20220211359,2022021135,Shot,9,SHOT,MacKenzie Entwistle Wrist Shot saved by Darcy Kuemper,2023-03-23T23:12:58Z,1,02:45,17:15,0,0,16.0,Chicago Blackhawks,CHI
+14,15,16,Washington Capitals,Chicago Blackhawks,2022021135109,2022021135,Stoppage,109,STOP,Goalie Stopped,2023-03-23T23:13:00Z,1,02:46,17:14,0,0,,,
+15,15,16,Washington Capitals,Chicago Blackhawks,2022021135110,2022021135,Faceoff,110,FACEOFF,Jason Dickinson faceoff won against Nic Dowd,2023-03-23T23:13:29Z,1,02:46,17:14,0,0,16.0,Chicago Blackhawks,CHI
+16,15,16,Washington Capitals,Chicago Blackhawks,202202113510,2022021135,Blocked Shot,10,BLOCKED_SHOT,Martin Fehervary shot blocked shot by Nikita Zaitsev,2023-03-23T23:13:45Z,1,03:02,16:58,0,0,16.0,Chicago Blackhawks,CHI
+17,15,16,Washington Capitals,Chicago Blackhawks,2022021135111,2022021135,Stoppage,111,STOP,Puck in Netting,2023-03-23T23:13:47Z,1,03:03,16:57,0,0,,,
+18,15,16,Washington Capitals,Chicago Blackhawks,2022021135112,2022021135,Faceoff,112,FACEOFF,Jason Dickinson faceoff won against Aliaksei Protas,2023-03-23T23:14:19Z,1,03:03,16:57,0,0,16.0,Chicago Blackhawks,CHI
+19,15,16,Washington Capitals,Chicago Blackhawks,2022021135153,2022021135,Giveaway,153,GIVEAWAY,Giveaway by Wyatt Kaiser,2023-03-23T23:14:26Z,1,03:10,16:50,0,0,16.0,Chicago Blackhawks,CHI
+20,15,16,Washington Capitals,Chicago Blackhawks,2022021135154,2022021135,Hit,154,HIT,Jarred Tinordi hit Tom Wilson,2023-03-23T23:15:11Z,1,03:55,16:05,0,0,16.0,Chicago Blackhawks,CHI
+21,15,16,Washington Capitals,Chicago Blackhawks,202202113511,2022021135,Blocked Shot,11,BLOCKED_SHOT,Alexander Alexeyev shot blocked shot by Lukas Reichel,2023-03-23T23:15:16Z,1,04:00,16:00,0,0,16.0,Chicago Blackhawks,CHI
+22,15,16,Washington Capitals,Chicago Blackhawks,202202113513,2022021135,Missed Shot,13,MISSED_SHOT,John Carlson Wide of Net Anton Khudobin,2023-03-23T23:16:04Z,1,04:48,15:12,0,0,15.0,Washington Capitals,WSH
+23,15,16,Washington Capitals,Chicago Blackhawks,2022021135156,2022021135,Takeaway,156,TAKEAWAY,Takeaway by Nikita Zaitsev,2023-03-23T23:16:27Z,1,05:11,14:49,0,0,16.0,Chicago Blackhawks,CHI
+24,15,16,Washington Capitals,Chicago Blackhawks,2022021135157,2022021135,Giveaway,157,GIVEAWAY,Giveaway by Buddy Robinson,2023-03-23T23:16:46Z,1,05:30,14:30,0,0,16.0,Chicago Blackhawks,CHI
+25,15,16,Washington Capitals,Chicago Blackhawks,2022021135158,2022021135,Hit,158,HIT,Buddy Robinson hit Nicklas Backstrom,2023-03-23T23:16:51Z,1,05:35,14:25,0,0,16.0,Chicago Blackhawks,CHI
+26,15,16,Washington Capitals,Chicago Blackhawks,202202113514,2022021135,Missed Shot,14,MISSED_SHOT,Sonny Milano Wide of Net Anton Khudobin,2023-03-23T23:17:00Z,1,05:44,14:16,0,0,15.0,Washington Capitals,WSH
+27,15,16,Washington Capitals,Chicago Blackhawks,2022021135159,2022021135,Hit,159,HIT,Tom Wilson hit Connor Murphy,2023-03-23T23:17:34Z,1,06:18,13:42,0,0,15.0,Washington Capitals,WSH
+28,15,16,Washington Capitals,Chicago Blackhawks,2022021135160,2022021135,Hit,160,HIT,Jason Dickinson hit Alex Ovechkin,2023-03-23T23:17:47Z,1,06:31,13:29,0,0,16.0,Chicago Blackhawks,CHI
+29,15,16,Washington Capitals,Chicago Blackhawks,202202113515,2022021135,Shot,15,SHOT,Dylan Strome Wrist Shot saved by Anton Khudobin,2023-03-23T23:17:58Z,1,06:42,13:18,0,0,15.0,Washington Capitals,WSH
+30,15,16,Washington Capitals,Chicago Blackhawks,202202113516,2022021135,Shot,16,SHOT,Andreas Athanasiou Wrist Shot saved by Darcy Kuemper,2023-03-23T23:18:10Z,1,06:54,13:06,0,0,16.0,Chicago Blackhawks,CHI
+31,15,16,Washington Capitals,Chicago Blackhawks,2022021135161,2022021135,Hit,161,HIT,Jujhar Khaira hit Nic Dowd,2023-03-23T23:18:26Z,1,07:10,12:50,0,0,16.0,Chicago Blackhawks,CHI
+32,15,16,Washington Capitals,Chicago Blackhawks,202202113517,2022021135,Shot,17,SHOT,Jujhar Khaira Wrist Shot saved by Darcy Kuemper,2023-03-23T23:18:28Z,1,07:12,12:48,0,0,16.0,Chicago Blackhawks,CHI
+33,15,16,Washington Capitals,Chicago Blackhawks,2022021135113,2022021135,Stoppage,113,STOP,Goalie Stopped,2023-03-23T23:18:30Z,1,07:14,12:46,0,0,,,
+34,15,16,Washington Capitals,Chicago Blackhawks,2022021135114,2022021135,Faceoff,114,FACEOFF,Evgeny Kuznetsov faceoff won against Jujhar Khaira,2023-03-23T23:20:55Z,1,07:14,12:46,0,0,15.0,Washington Capitals,WSH
+35,15,16,Washington Capitals,Chicago Blackhawks,202202113518,2022021135,Shot,18,SHOT,John Carlson Wrist Shot saved by Anton Khudobin,2023-03-23T23:21:18Z,1,07:37,12:23,0,0,15.0,Washington Capitals,WSH
+36,15,16,Washington Capitals,Chicago Blackhawks,2022021135162,2022021135,Hit,162,HIT,Joey Anderson hit Martin Fehervary,2023-03-23T23:21:26Z,1,07:45,12:15,0,0,16.0,Chicago Blackhawks,CHI
+37,15,16,Washington Capitals,Chicago Blackhawks,2022021135163,2022021135,Giveaway,163,GIVEAWAY,Giveaway by Evgeny Kuznetsov,2023-03-23T23:21:38Z,1,07:57,12:03,0,0,15.0,Washington Capitals,WSH
+38,15,16,Washington Capitals,Chicago Blackhawks,202202113519,2022021135,Shot,19,SHOT,Taylor Raddysh Snap Shot saved by Darcy Kuemper,2023-03-23T23:21:39Z,1,07:58,12:02,0,0,16.0,Chicago Blackhawks,CHI
+39,15,16,Washington Capitals,Chicago Blackhawks,2022021135115,2022021135,Stoppage,115,STOP,Goalie Stopped,2023-03-23T23:21:40Z,1,07:59,12:01,0,0,,,
+40,15,16,Washington Capitals,Chicago Blackhawks,2022021135116,2022021135,Faceoff,116,FACEOFF,Jason Dickinson faceoff won against Nicklas Backstrom,2023-03-23T23:22:10Z,1,07:59,12:01,0,0,16.0,Chicago Blackhawks,CHI
+41,15,16,Washington Capitals,Chicago Blackhawks,202202113520,2022021135,Missed Shot,20,MISSED_SHOT,Tyler Johnson Wide of Net Darcy Kuemper,2023-03-23T23:22:13Z,1,08:02,11:58,0,0,16.0,Chicago Blackhawks,CHI
+42,15,16,Washington Capitals,Chicago Blackhawks,202202113521,2022021135,Blocked Shot,21,BLOCKED_SHOT,Connor Murphy shot blocked shot by Nick Jensen,2023-03-23T23:22:23Z,1,08:12,11:48,0,0,15.0,Washington Capitals,WSH
+43,15,16,Washington Capitals,Chicago Blackhawks,2022021135117,2022021135,Stoppage,117,STOP,Puck in Netting,2023-03-23T23:22:24Z,1,08:13,11:47,0,0,,,
+44,15,16,Washington Capitals,Chicago Blackhawks,2022021135118,2022021135,Faceoff,118,FACEOFF,Jason Dickinson faceoff won against Nicklas Backstrom,2023-03-23T23:22:46Z,1,08:13,11:47,0,0,16.0,Chicago Blackhawks,CHI
+45,15,16,Washington Capitals,Chicago Blackhawks,2022021135164,2022021135,Giveaway,164,GIVEAWAY,Giveaway by Wyatt Kaiser,2023-03-23T23:23:19Z,1,08:46,11:14,0,0,16.0,Chicago Blackhawks,CHI
+46,15,16,Washington Capitals,Chicago Blackhawks,202202113522,2022021135,Shot,22,SHOT,Rasmus Sandin Wrist Shot saved by Anton Khudobin,2023-03-23T23:23:26Z,1,08:53,11:07,0,0,15.0,Washington Capitals,WSH
+47,15,16,Washington Capitals,Chicago Blackhawks,2022021135165,2022021135,Takeaway,165,TAKEAWAY,Takeaway by Nicklas Backstrom,2023-03-23T23:23:31Z,1,08:58,11:02,0,0,15.0,Washington Capitals,WSH
+48,15,16,Washington Capitals,Chicago Blackhawks,2022021135166,2022021135,Hit,166,HIT,Mike Hardman hit Sonny Milano,2023-03-23T23:23:40Z,1,09:07,10:53,0,0,16.0,Chicago Blackhawks,CHI
+49,15,16,Washington Capitals,Chicago Blackhawks,2022021135167,2022021135,Hit,167,HIT,Connor Murphy hit Dylan Strome,2023-03-23T23:24:02Z,1,09:29,10:31,0,0,16.0,Chicago Blackhawks,CHI
+50,15,16,Washington Capitals,Chicago Blackhawks,2022021135168,2022021135,Hit,168,HIT,Tom Wilson hit Jarred Tinordi,2023-03-23T23:24:07Z,1,09:34,10:26,0,0,15.0,Washington Capitals,WSH
+51,15,16,Washington Capitals,Chicago Blackhawks,202202113523,2022021135,Blocked Shot,23,BLOCKED_SHOT,Lukas Reichel shot blocked shot by Alexander Alexeyev,2023-03-23T23:24:30Z,1,09:57,10:03,0,0,15.0,Washington Capitals,WSH
+52,15,16,Washington Capitals,Chicago Blackhawks,2022021135119,2022021135,Stoppage,119,STOP,Puck in Crowd,2023-03-23T23:24:31Z,1,09:59,10:01,0,0,,,
+53,15,16,Washington Capitals,Chicago Blackhawks,2022021135120,2022021135,Faceoff,120,FACEOFF,Nic Dowd faceoff won against Jujhar Khaira,2023-03-23T23:25:11Z,1,09:59,10:01,0,0,15.0,Washington Capitals,WSH
+54,15,16,Washington Capitals,Chicago Blackhawks,2022021135169,2022021135,Giveaway,169,GIVEAWAY,Giveaway by Anton Khudobin,2023-03-23T23:25:26Z,1,10:14,09:46,0,0,16.0,Chicago Blackhawks,CHI
+55,15,16,Washington Capitals,Chicago Blackhawks,202202113524,2022021135,Goal,24,GOAL,"Conor Sheary (14) Wrist Shot, assists: none",2023-03-23T23:25:27Z,1,10:15,09:45,1,0,15.0,Washington Capitals,WSH
+56,15,16,Washington Capitals,Chicago Blackhawks,2022021135170,2022021135,Faceoff,170,FACEOFF,Evgeny Kuznetsov faceoff won against Jujhar Khaira,2023-03-23T23:26:11Z,1,10:15,09:45,1,0,15.0,Washington Capitals,WSH
+57,15,16,Washington Capitals,Chicago Blackhawks,202202113525,2022021135,Missed Shot,25,MISSED_SHOT,Anthony Mantha Wide of Net Anton Khudobin,2023-03-23T23:26:20Z,1,10:24,09:36,1,0,15.0,Washington Capitals,WSH
+58,15,16,Washington Capitals,Chicago Blackhawks,2022021135122,2022021135,Stoppage,122,STOP,Puck in Netting,2023-03-23T23:26:25Z,1,10:29,09:31,1,0,,,
+59,15,16,Washington Capitals,Chicago Blackhawks,2022021135123,2022021135,Faceoff,123,FACEOFF,Evgeny Kuznetsov faceoff won against Jujhar Khaira,2023-03-23T23:28:47Z,1,10:29,09:31,1,0,15.0,Washington Capitals,WSH
+60,15,16,Washington Capitals,Chicago Blackhawks,202202113526,2022021135,Goal,26,GOAL,"Anthony Mantha (11) Snap Shot, assists: Alex Ovechkin (30), Evgeny Kuznetsov (40)",2023-03-23T23:28:50Z,1,10:33,09:27,2,0,15.0,Washington Capitals,WSH
+61,15,16,Washington Capitals,Chicago Blackhawks,2022021135171,2022021135,Faceoff,171,FACEOFF,MacKenzie Entwistle faceoff won against Evgeny Kuznetsov,2023-03-23T23:29:27Z,1,10:33,09:27,2,0,16.0,Chicago Blackhawks,CHI
+62,15,16,Washington Capitals,Chicago Blackhawks,2022021135172,2022021135,Giveaway,172,GIVEAWAY,Giveaway by John Carlson,2023-03-23T23:29:53Z,1,10:58,09:02,2,0,15.0,Washington Capitals,WSH
+63,15,16,Washington Capitals,Chicago Blackhawks,202202113527,2022021135,Shot,27,SHOT,Buddy Robinson Wrist Shot saved by Darcy Kuemper,2023-03-23T23:30:00Z,1,11:05,08:55,2,0,16.0,Chicago Blackhawks,CHI
+64,15,16,Washington Capitals,Chicago Blackhawks,2022021135173,2022021135,Hit,173,HIT,Mike Hardman hit Craig Smith,2023-03-23T23:30:18Z,1,11:23,08:37,2,0,16.0,Chicago Blackhawks,CHI
+65,15,16,Washington Capitals,Chicago Blackhawks,202202113528,2022021135,Missed Shot,28,MISSED_SHOT,Sonny Milano Wide of Net Anton Khudobin,2023-03-23T23:30:22Z,1,11:27,08:33,2,0,15.0,Washington Capitals,WSH
+66,15,16,Washington Capitals,Chicago Blackhawks,202202113529,2022021135,Blocked Shot,29,BLOCKED_SHOT,Nicklas Backstrom shot blocked shot by Seth Jones,2023-03-23T23:30:56Z,1,12:01,07:59,2,0,16.0,Chicago Blackhawks,CHI
+67,15,16,Washington Capitals,Chicago Blackhawks,2022021135174,2022021135,Hit,174,HIT,Jarred Tinordi hit Tom Wilson,2023-03-23T23:31:33Z,1,12:38,07:22,2,0,16.0,Chicago Blackhawks,CHI
+68,15,16,Washington Capitals,Chicago Blackhawks,202202113530,2022021135,Shot,30,SHOT,Andreas Athanasiou Backhand saved by Darcy Kuemper,2023-03-23T23:31:42Z,1,12:47,07:13,2,0,16.0,Chicago Blackhawks,CHI
+69,15,16,Washington Capitals,Chicago Blackhawks,2022021135270,2022021135,Penalty,270,PENALTY,Alex Ovechkin Interference against Jarred Tinordi,2023-03-23T23:31:47Z,1,12:52,07:08,2,0,15.0,Washington Capitals,WSH
+70,15,16,Washington Capitals,Chicago Blackhawks,2022021135126,2022021135,Faceoff,126,FACEOFF,Nic Dowd faceoff won against Jason Dickinson,2023-03-23T23:32:43Z,1,12:52,07:08,2,0,15.0,Washington Capitals,WSH
+71,15,16,Washington Capitals,Chicago Blackhawks,202202113531,2022021135,Blocked Shot,31,BLOCKED_SHOT,Seth Jones shot blocked shot by Nic Dowd,2023-03-23T23:33:15Z,1,13:24,06:36,2,0,15.0,Washington Capitals,WSH
+72,15,16,Washington Capitals,Chicago Blackhawks,202202113532,2022021135,Shot,32,SHOT,Seth Jones Wrist Shot saved by Darcy Kuemper,2023-03-23T23:33:20Z,1,13:29,06:31,2,0,16.0,Chicago Blackhawks,CHI
+73,15,16,Washington Capitals,Chicago Blackhawks,2022021135127,2022021135,Stoppage,127,STOP,Goalie Stopped,2023-03-23T23:33:21Z,1,13:30,06:30,2,0,,,
+74,15,16,Washington Capitals,Chicago Blackhawks,2022021135128,2022021135,Faceoff,128,FACEOFF,Jason Dickinson faceoff won against Evgeny Kuznetsov,2023-03-23T23:33:46Z,1,13:30,06:30,2,0,16.0,Chicago Blackhawks,CHI
+75,15,16,Washington Capitals,Chicago Blackhawks,202202113533,2022021135,Shot,33,SHOT,Jason Dickinson Wrist Shot saved by Darcy Kuemper,2023-03-23T23:33:53Z,1,13:37,06:23,2,0,16.0,Chicago Blackhawks,CHI
+76,15,16,Washington Capitals,Chicago Blackhawks,202202113534,2022021135,Missed Shot,34,MISSED_SHOT,Tyler Johnson Wide of Net Darcy Kuemper,2023-03-23T23:34:17Z,1,14:01,05:59,2,0,16.0,Chicago Blackhawks,CHI
+77,15,16,Washington Capitals,Chicago Blackhawks,2022021135177,2022021135,Hit,177,HIT,Tom Wilson hit Seth Jones,2023-03-23T23:34:18Z,1,14:02,05:58,2,0,15.0,Washington Capitals,WSH
+78,15,16,Washington Capitals,Chicago Blackhawks,202202113535,2022021135,Blocked Shot,35,BLOCKED_SHOT,Boris Katchouk shot blocked shot by Martin Fehervary,2023-03-23T23:34:25Z,1,14:09,05:51,2,0,15.0,Washington Capitals,WSH
+79,15,16,Washington Capitals,Chicago Blackhawks,202202113536,2022021135,Missed Shot,36,MISSED_SHOT,Boris Katchouk Over Net Darcy Kuemper,2023-03-23T23:34:49Z,1,14:33,05:27,2,0,16.0,Chicago Blackhawks,CHI
+80,15,16,Washington Capitals,Chicago Blackhawks,202202113537,2022021135,Shot,37,SHOT,Seth Jones Snap Shot saved by Darcy Kuemper,2023-03-23T23:35:10Z,1,14:54,05:06,2,0,16.0,Chicago Blackhawks,CHI
+81,15,16,Washington Capitals,Chicago Blackhawks,2022021135129,2022021135,Stoppage,129,STOP,Goalie Stopped,2023-03-23T23:35:11Z,1,14:55,05:05,2,0,,,
+82,15,16,Washington Capitals,Chicago Blackhawks,2022021135130,2022021135,Faceoff,130,FACEOFF,Nicklas Backstrom faceoff won against Jujhar Khaira,2023-03-23T23:37:29Z,1,14:55,05:05,2,0,15.0,Washington Capitals,WSH
+83,15,16,Washington Capitals,Chicago Blackhawks,2022021135178,2022021135,Hit,178,HIT,Lukas Reichel hit Sonny Milano,2023-03-23T23:37:37Z,1,15:03,04:57,2,0,16.0,Chicago Blackhawks,CHI
+84,15,16,Washington Capitals,Chicago Blackhawks,2022021135180,2022021135,Takeaway,180,TAKEAWAY,Takeaway by T.J. Oshie,2023-03-23T23:37:51Z,1,15:17,04:43,2,0,15.0,Washington Capitals,WSH
+85,15,16,Washington Capitals,Chicago Blackhawks,202202113538,2022021135,Blocked Shot,38,BLOCKED_SHOT,John Carlson shot blocked shot by Nikita Zaitsev,2023-03-23T23:38:15Z,1,15:41,04:19,2,0,16.0,Chicago Blackhawks,CHI
+86,15,16,Washington Capitals,Chicago Blackhawks,2022021135181,2022021135,Giveaway,181,GIVEAWAY,Giveaway by Alexander Alexeyev,2023-03-23T23:38:37Z,1,16:03,03:57,2,0,15.0,Washington Capitals,WSH
+87,15,16,Washington Capitals,Chicago Blackhawks,202202113539,2022021135,Blocked Shot,39,BLOCKED_SHOT,Connor Murphy shot blocked shot by Rasmus Sandin,2023-03-23T23:38:39Z,1,16:05,03:55,2,0,15.0,Washington Capitals,WSH
+88,15,16,Washington Capitals,Chicago Blackhawks,2022021135289,2022021135,Penalty,289,PENALTY,Buddy Robinson High-sticking against Tom Wilson,2023-03-23T23:38:50Z,1,16:15,03:45,2,0,16.0,Chicago Blackhawks,CHI
+89,15,16,Washington Capitals,Chicago Blackhawks,2022021135131,2022021135,Faceoff,131,FACEOFF,Jason Dickinson faceoff won against T.J. Oshie,2023-03-23T23:39:27Z,1,16:15,03:45,2,0,16.0,Chicago Blackhawks,CHI
+90,15,16,Washington Capitals,Chicago Blackhawks,2022021135132,2022021135,Stoppage,132,STOP,Puck in Benches,2023-03-23T23:40:01Z,1,16:50,03:10,2,0,,,
+91,15,16,Washington Capitals,Chicago Blackhawks,2022021135133,2022021135,Faceoff,133,FACEOFF,Jujhar Khaira faceoff won against T.J. Oshie,2023-03-23T23:40:26Z,1,16:50,03:10,2,0,16.0,Chicago Blackhawks,CHI
+92,15,16,Washington Capitals,Chicago Blackhawks,202202113541,2022021135,Shot,41,SHOT,T.J. Oshie Tip-In saved by Anton Khudobin,2023-03-23T23:40:39Z,1,17:03,02:57,2,0,15.0,Washington Capitals,WSH
+93,15,16,Washington Capitals,Chicago Blackhawks,202202113543,2022021135,Blocked Shot,43,BLOCKED_SHOT,Alex Ovechkin shot blocked shot by Joey Anderson,2023-03-23T23:40:43Z,1,17:07,02:53,2,0,16.0,Chicago Blackhawks,CHI
+94,15,16,Washington Capitals,Chicago Blackhawks,202202113544,2022021135,Blocked Shot,44,BLOCKED_SHOT,John Carlson shot blocked shot by Connor Murphy,2023-03-23T23:40:56Z,1,17:20,02:40,2,0,16.0,Chicago Blackhawks,CHI
+95,15,16,Washington Capitals,Chicago Blackhawks,202202113545,2022021135,Shot,45,SHOT,Tom Wilson Wrist Shot saved by Anton Khudobin,2023-03-23T23:41:47Z,1,18:11,01:49,2,0,15.0,Washington Capitals,WSH
+96,15,16,Washington Capitals,Chicago Blackhawks,2022021135182,2022021135,Giveaway,182,GIVEAWAY,Giveaway by Martin Fehervary,2023-03-23T23:42:11Z,1,18:35,01:25,2,0,15.0,Washington Capitals,WSH
+97,15,16,Washington Capitals,Chicago Blackhawks,2022021135187,2022021135,Takeaway,187,TAKEAWAY,Takeaway by Aliaksei Protas,2023-03-23T23:42:13Z,1,18:37,01:23,2,0,15.0,Washington Capitals,WSH
+98,15,16,Washington Capitals,Chicago Blackhawks,2022021135184,2022021135,Giveaway,184,GIVEAWAY,Giveaway by Aliaksei Protas,2023-03-23T23:42:14Z,1,18:38,01:22,2,0,15.0,Washington Capitals,WSH
+99,15,16,Washington Capitals,Chicago Blackhawks,202202113546,2022021135,Missed Shot,46,MISSED_SHOT,Andreas Athanasiou Wide of Net Darcy Kuemper,2023-03-23T23:42:23Z,1,18:47,01:13,2,0,16.0,Chicago Blackhawks,CHI
+100,15,16,Washington Capitals,Chicago Blackhawks,2022021135551,2022021135,Blocked Shot,551,BLOCKED_SHOT,Tyler Johnson shot blocked shot by Aliaksei Protas,2023-03-23T23:42:24Z,1,18:48,01:12,2,0,15.0,Washington Capitals,WSH
+101,15,16,Washington Capitals,Chicago Blackhawks,2022021135134,2022021135,Stoppage,134,STOP,Offside,2023-03-23T23:42:41Z,1,19:04,00:56,2,0,,,
+102,15,16,Washington Capitals,Chicago Blackhawks,2022021135135,2022021135,Faceoff,135,FACEOFF,Nicklas Backstrom faceoff won against MacKenzie Entwistle,2023-03-23T23:43:07Z,1,19:04,00:56,2,0,15.0,Washington Capitals,WSH
+103,15,16,Washington Capitals,Chicago Blackhawks,202202113547,2022021135,Shot,47,SHOT,Jarred Tinordi Wrist Shot saved by Darcy Kuemper,2023-03-23T23:43:27Z,1,19:25,00:35,2,0,16.0,Chicago Blackhawks,CHI
+104,15,16,Washington Capitals,Chicago Blackhawks,2022021135188,2022021135,Takeaway,188,TAKEAWAY,Takeaway by Mike Hardman,2023-03-23T23:43:40Z,1,19:38,00:22,2,0,16.0,Chicago Blackhawks,CHI
+105,15,16,Washington Capitals,Chicago Blackhawks,2022021135189,2022021135,Hit,189,HIT,Connor Murphy hit Sonny Milano,2023-03-23T23:43:45Z,1,19:43,00:17,2,0,16.0,Chicago Blackhawks,CHI
+106,15,16,Washington Capitals,Chicago Blackhawks,202202113549,2022021135,Period End,49,PERIOD_END,End of 1st Period,2023-03-23T23:44:02Z,1,20:00,00:00,2,0,,,
+107,15,16,Washington Capitals,Chicago Blackhawks,2022021135302,2022021135,Period Official,302,PERIOD_OFFICIAL,Period Official,2023-03-23T23:56:13Z,1,20:00,00:00,2,0,,,
+108,15,16,Washington Capitals,Chicago Blackhawks,2022021135303,2022021135,Period Ready,303,PERIOD_READY,Period Ready,2023-03-24T00:00:36Z,2,00:00,20:00,2,0,,,
+109,15,16,Washington Capitals,Chicago Blackhawks,2022021135136,2022021135,Period Start,136,PERIOD_START,Period Start,2023-03-24T00:02:48Z,2,00:00,20:00,2,0,,,
+110,15,16,Washington Capitals,Chicago Blackhawks,2022021135137,2022021135,Faceoff,137,FACEOFF,Jason Dickinson faceoff won against Nicklas Backstrom,2023-03-24T00:02:48Z,2,00:00,20:00,2,0,16.0,Chicago Blackhawks,CHI
+111,15,16,Washington Capitals,Chicago Blackhawks,2022021135190,2022021135,Hit,190,HIT,T.J. Oshie hit Caleb Jones,2023-03-24T00:03:01Z,2,00:13,19:47,2,0,15.0,Washington Capitals,WSH
+112,15,16,Washington Capitals,Chicago Blackhawks,2022021135191,2022021135,Giveaway,191,GIVEAWAY,Giveaway by Sonny Milano,2023-03-24T00:03:08Z,2,00:20,19:40,2,0,15.0,Washington Capitals,WSH
+113,15,16,Washington Capitals,Chicago Blackhawks,2022021135304,2022021135,Shot,304,SHOT,Tyler Johnson Wrist Shot saved by Darcy Kuemper,2023-03-24T00:03:23Z,2,00:35,19:25,2,0,16.0,Chicago Blackhawks,CHI
+114,15,16,Washington Capitals,Chicago Blackhawks,2022021135138,2022021135,Stoppage,138,STOP,Goalie Stopped,2023-03-24T00:03:24Z,2,00:36,19:24,2,0,,,
+115,15,16,Washington Capitals,Chicago Blackhawks,2022021135139,2022021135,Faceoff,139,FACEOFF,Jujhar Khaira faceoff won against Nic Dowd,2023-03-24T00:03:54Z,2,00:36,19:24,2,0,16.0,Chicago Blackhawks,CHI
+116,15,16,Washington Capitals,Chicago Blackhawks,2022021135305,2022021135,Shot,305,SHOT,Jarred Tinordi Wrist Shot saved by Darcy Kuemper,2023-03-24T00:03:59Z,2,00:41,19:19,2,0,16.0,Chicago Blackhawks,CHI
+117,15,16,Washington Capitals,Chicago Blackhawks,2022021135192,2022021135,Hit,192,HIT,Joey Anderson hit Nic Dowd,2023-03-24T00:04:02Z,2,00:44,19:16,2,0,16.0,Chicago Blackhawks,CHI
+118,15,16,Washington Capitals,Chicago Blackhawks,2022021135306,2022021135,Missed Shot,306,MISSED_SHOT,Boris Katchouk Wide of Net Darcy Kuemper,2023-03-24T00:04:04Z,2,00:46,19:14,2,0,16.0,Chicago Blackhawks,CHI
+119,15,16,Washington Capitals,Chicago Blackhawks,2022021135193,2022021135,Hit,193,HIT,Nick Jensen hit Jujhar Khaira,2023-03-24T00:04:22Z,2,01:04,18:56,2,0,15.0,Washington Capitals,WSH
+120,15,16,Washington Capitals,Chicago Blackhawks,2022021135307,2022021135,Goal,307,GOAL,"Nic Dowd (13) Wrist Shot, assists: Aliaksei Protas (10)",2023-03-24T00:04:45Z,2,01:27,18:33,3,0,15.0,Washington Capitals,WSH
+121,15,16,Washington Capitals,Chicago Blackhawks,2022021135195,2022021135,Faceoff,195,FACEOFF,Dylan Strome faceoff won against Lukas Reichel,2023-03-24T00:05:21Z,2,01:27,18:33,3,0,15.0,Washington Capitals,WSH
+122,15,16,Washington Capitals,Chicago Blackhawks,2022021135308,2022021135,Shot,308,SHOT,Tom Wilson Wrist Shot saved by Anton Khudobin,2023-03-24T00:05:33Z,2,01:39,18:21,3,0,15.0,Washington Capitals,WSH
+123,15,16,Washington Capitals,Chicago Blackhawks,2022021135309,2022021135,Shot,309,SHOT,Dylan Strome Backhand saved by Anton Khudobin,2023-03-24T00:05:35Z,2,01:41,18:19,3,0,15.0,Washington Capitals,WSH
+124,15,16,Washington Capitals,Chicago Blackhawks,2022021135196,2022021135,Giveaway,196,GIVEAWAY,Giveaway by Alex Ovechkin,2023-03-24T00:05:42Z,2,01:48,18:12,3,0,15.0,Washington Capitals,WSH
+125,15,16,Washington Capitals,Chicago Blackhawks,2022021135197,2022021135,Hit,197,HIT,Alexander Alexeyev hit Andreas Athanasiou,2023-03-24T00:05:46Z,2,01:52,18:08,3,0,15.0,Washington Capitals,WSH
+126,15,16,Washington Capitals,Chicago Blackhawks,2022021135310,2022021135,Shot,310,SHOT,Dylan Strome Wrist Shot saved by Anton Khudobin,2023-03-24T00:05:55Z,2,02:01,17:59,3,0,15.0,Washington Capitals,WSH
+127,15,16,Washington Capitals,Chicago Blackhawks,2022021135140,2022021135,Stoppage,140,STOP,Goalie Stopped,2023-03-24T00:05:56Z,2,02:02,17:58,3,0,,,
+128,15,16,Washington Capitals,Chicago Blackhawks,2022021135141,2022021135,Faceoff,141,FACEOFF,Evgeny Kuznetsov faceoff won against MacKenzie Entwistle,2023-03-24T00:06:24Z,2,02:02,17:58,3,0,15.0,Washington Capitals,WSH
+129,15,16,Washington Capitals,Chicago Blackhawks,2022021135312,2022021135,Blocked Shot,312,BLOCKED_SHOT,Anthony Mantha shot blocked shot by Caleb Jones,2023-03-24T00:06:34Z,2,02:12,17:48,3,0,16.0,Chicago Blackhawks,CHI
+130,15,16,Washington Capitals,Chicago Blackhawks,2022021135198,2022021135,Giveaway,198,GIVEAWAY,Giveaway by Anthony Mantha,2023-03-24T00:06:54Z,2,02:32,17:28,3,0,15.0,Washington Capitals,WSH
+131,15,16,Washington Capitals,Chicago Blackhawks,2022021135313,2022021135,Missed Shot,313,MISSED_SHOT,Mike Hardman Wide of Net Darcy Kuemper,2023-03-24T00:07:03Z,2,02:41,17:19,3,0,16.0,Chicago Blackhawks,CHI
+132,15,16,Washington Capitals,Chicago Blackhawks,2022021135314,2022021135,Shot,314,SHOT,Craig Smith Snap Shot saved by Anton Khudobin,2023-03-24T00:07:23Z,2,03:01,16:59,3,0,15.0,Washington Capitals,WSH
+133,15,16,Washington Capitals,Chicago Blackhawks,2022021135143,2022021135,Stoppage,143,STOP,Goalie Stopped,2023-03-24T00:07:25Z,2,03:02,16:58,3,0,,,
+134,15,16,Washington Capitals,Chicago Blackhawks,2022021135144,2022021135,Faceoff,144,FACEOFF,Nicklas Backstrom faceoff won against Jason Dickinson,2023-03-24T00:07:50Z,2,03:02,16:58,3,0,15.0,Washington Capitals,WSH
+135,15,16,Washington Capitals,Chicago Blackhawks,2022021135315,2022021135,Shot,315,SHOT,T.J. Oshie Slap Shot saved by Anton Khudobin,2023-03-24T00:07:55Z,2,03:07,16:53,3,0,15.0,Washington Capitals,WSH
+136,15,16,Washington Capitals,Chicago Blackhawks,2022021135316,2022021135,Shot,316,SHOT,Nick Jensen Wrist Shot saved by Anton Khudobin,2023-03-24T00:08:14Z,2,03:26,16:34,3,0,15.0,Washington Capitals,WSH
+137,15,16,Washington Capitals,Chicago Blackhawks,2022021135200,2022021135,Hit,200,HIT,T.J. Oshie hit Jason Dickinson,2023-03-24T00:08:15Z,2,03:27,16:33,3,0,15.0,Washington Capitals,WSH
+138,15,16,Washington Capitals,Chicago Blackhawks,2022021135317,2022021135,Shot,317,SHOT,Taylor Raddysh Wrist Shot saved by Darcy Kuemper,2023-03-24T00:08:20Z,2,03:32,16:28,3,0,16.0,Chicago Blackhawks,CHI
+139,15,16,Washington Capitals,Chicago Blackhawks,2022021135145,2022021135,Stoppage,145,STOP,Goalie Stopped,2023-03-24T00:08:22Z,2,03:33,16:27,3,0,,,
+140,15,16,Washington Capitals,Chicago Blackhawks,2022021135146,2022021135,Faceoff,146,FACEOFF,Nic Dowd faceoff won against Andreas Athanasiou,2023-03-24T00:09:11Z,2,03:33,16:27,3,0,15.0,Washington Capitals,WSH
+141,15,16,Washington Capitals,Chicago Blackhawks,2022021135318,2022021135,Missed Shot,318,MISSED_SHOT,Tyler Johnson Wide of Net Darcy Kuemper,2023-03-24T00:09:18Z,2,03:40,16:20,3,0,16.0,Chicago Blackhawks,CHI
+142,15,16,Washington Capitals,Chicago Blackhawks,2022021135402,2022021135,Hit,402,HIT,Taylor Raddysh hit Alexander Alexeyev,2023-03-24T00:09:41Z,2,04:03,15:57,3,0,16.0,Chicago Blackhawks,CHI
+143,15,16,Washington Capitals,Chicago Blackhawks,2022021135403,2022021135,Hit,403,HIT,Boris Katchouk hit Nic Dowd,2023-03-24T00:09:50Z,2,04:12,15:48,3,0,16.0,Chicago Blackhawks,CHI
+144,15,16,Washington Capitals,Chicago Blackhawks,2022021135319,2022021135,Shot,319,SHOT,Alex Ovechkin Tip-In saved by Anton Khudobin,2023-03-24T00:10:35Z,2,04:57,15:03,3,0,15.0,Washington Capitals,WSH
+145,15,16,Washington Capitals,Chicago Blackhawks,2022021135147,2022021135,Stoppage,147,STOP,Goalie Stopped,2023-03-24T00:10:36Z,2,04:58,15:02,3,0,,,
+146,15,16,Washington Capitals,Chicago Blackhawks,2022021135148,2022021135,Faceoff,148,FACEOFF,Andreas Athanasiou faceoff won against Evgeny Kuznetsov,2023-03-24T00:11:07Z,2,04:58,15:02,3,0,16.0,Chicago Blackhawks,CHI
+147,15,16,Washington Capitals,Chicago Blackhawks,2022021135320,2022021135,Blocked Shot,320,BLOCKED_SHOT,Nick Jensen shot blocked shot by Connor Murphy,2023-03-24T00:11:38Z,2,05:29,14:31,3,0,16.0,Chicago Blackhawks,CHI
+148,15,16,Washington Capitals,Chicago Blackhawks,2022021135511,2022021135,Penalty,511,PENALTY,Evgeny Kuznetsov Hooking against Buddy Robinson,2023-03-24T00:11:51Z,2,05:42,14:18,3,0,15.0,Washington Capitals,WSH
+149,15,16,Washington Capitals,Chicago Blackhawks,2022021135149,2022021135,Faceoff,149,FACEOFF,Nic Dowd faceoff won against Jason Dickinson,2023-03-24T00:12:35Z,2,05:42,14:18,3,0,15.0,Washington Capitals,WSH
+150,15,16,Washington Capitals,Chicago Blackhawks,2022021135321,2022021135,Shot,321,SHOT,Tom Wilson Wrist Shot saved by Anton Khudobin,2023-03-24T00:12:43Z,2,05:50,14:10,3,0,15.0,Washington Capitals,WSH
+151,15,16,Washington Capitals,Chicago Blackhawks,2022021135322,2022021135,Missed Shot,322,MISSED_SHOT,Conor Sheary Wide of Net Anton Khudobin,2023-03-24T00:13:44Z,2,06:51,13:09,3,0,15.0,Washington Capitals,WSH
+152,15,16,Washington Capitals,Chicago Blackhawks,2022021135526,2022021135,Penalty,526,PENALTY,Jujhar Khaira Interference against Nic Dowd,2023-03-24T00:14:58Z,2,07:04,12:56,3,0,16.0,Chicago Blackhawks,CHI
+153,15,16,Washington Capitals,Chicago Blackhawks,2022021135351,2022021135,Faceoff,351,FACEOFF,Nic Dowd faceoff won against Andreas Athanasiou,2023-03-24T00:15:03Z,2,07:04,12:56,3,0,15.0,Washington Capitals,WSH
+154,15,16,Washington Capitals,Chicago Blackhawks,2022021135323,2022021135,Shot,323,SHOT,Martin Fehervary Snap Shot saved by Anton Khudobin,2023-03-24T00:15:09Z,2,07:10,12:50,3,0,15.0,Washington Capitals,WSH
+155,15,16,Washington Capitals,Chicago Blackhawks,2022021135352,2022021135,Stoppage,352,STOP,Goalie Stopped,2023-03-24T00:15:09Z,2,07:11,12:49,3,0,,,
+156,15,16,Washington Capitals,Chicago Blackhawks,2022021135353,2022021135,Faceoff,353,FACEOFF,Nic Dowd faceoff won against Andreas Athanasiou,2023-03-24T00:17:36Z,2,07:11,12:49,3,0,15.0,Washington Capitals,WSH
+157,15,16,Washington Capitals,Chicago Blackhawks,2022021135324,2022021135,Shot,324,SHOT,Lukas Reichel Wrist Shot saved by Darcy Kuemper,2023-03-24T00:18:00Z,2,07:35,12:25,3,0,16.0,Chicago Blackhawks,CHI
+158,15,16,Washington Capitals,Chicago Blackhawks,2022021135354,2022021135,Stoppage,354,STOP,Goalie Stopped,2023-03-24T00:18:01Z,2,07:36,12:24,3,0,,,
+159,15,16,Washington Capitals,Chicago Blackhawks,2022021135355,2022021135,Faceoff,355,FACEOFF,Jason Dickinson faceoff won against T.J. Oshie,2023-03-24T00:18:30Z,2,07:36,12:24,3,0,16.0,Chicago Blackhawks,CHI
+160,15,16,Washington Capitals,Chicago Blackhawks,2022021135325,2022021135,Blocked Shot,325,BLOCKED_SHOT,Dylan Strome shot blocked shot by Connor Murphy,2023-03-24T00:18:49Z,2,07:55,12:05,3,0,16.0,Chicago Blackhawks,CHI
+161,15,16,Washington Capitals,Chicago Blackhawks,2022021135326,2022021135,Goal,326,GOAL,"Nicklas Backstrom (6) Wrist Shot, assists: Dylan Strome (37), John Carlson (14)",2023-03-24T00:19:05Z,2,08:12,11:48,4,0,15.0,Washington Capitals,WSH
+162,15,16,Washington Capitals,Chicago Blackhawks,2022021135405,2022021135,Faceoff,405,FACEOFF,Nicklas Backstrom faceoff won against MacKenzie Entwistle,2023-03-24T00:19:51Z,2,08:12,11:48,4,0,15.0,Washington Capitals,WSH
+163,15,16,Washington Capitals,Chicago Blackhawks,2022021135327,2022021135,Shot,327,SHOT,Buddy Robinson Snap Shot saved by Darcy Kuemper,2023-03-24T00:20:25Z,2,08:46,11:14,4,0,16.0,Chicago Blackhawks,CHI
+164,15,16,Washington Capitals,Chicago Blackhawks,2022021135357,2022021135,Stoppage,357,STOP,Goalie Stopped,2023-03-24T00:20:27Z,2,08:47,11:13,4,0,,,
+165,15,16,Washington Capitals,Chicago Blackhawks,2022021135358,2022021135,Faceoff,358,FACEOFF,Evgeny Kuznetsov faceoff won against Tyler Johnson,2023-03-24T00:20:56Z,2,08:47,11:13,4,0,15.0,Washington Capitals,WSH
+166,15,16,Washington Capitals,Chicago Blackhawks,2022021135406,2022021135,Takeaway,406,TAKEAWAY,Takeaway by Jason Dickinson,2023-03-24T00:21:06Z,2,08:57,11:03,4,0,16.0,Chicago Blackhawks,CHI
+167,15,16,Washington Capitals,Chicago Blackhawks,2022021135328,2022021135,Missed Shot,328,MISSED_SHOT,Seth Jones Wide of Net Darcy Kuemper,2023-03-24T00:21:28Z,2,09:19,10:41,4,0,16.0,Chicago Blackhawks,CHI
+168,15,16,Washington Capitals,Chicago Blackhawks,2022021135329,2022021135,Shot,329,SHOT,Anthony Mantha Wrist Shot saved by Anton Khudobin,2023-03-24T00:21:51Z,2,09:42,10:18,4,0,15.0,Washington Capitals,WSH
+169,15,16,Washington Capitals,Chicago Blackhawks,2022021135407,2022021135,Giveaway,407,GIVEAWAY,Giveaway by Boris Katchouk,2023-03-24T00:22:03Z,2,09:54,10:06,4,0,16.0,Chicago Blackhawks,CHI
+170,15,16,Washington Capitals,Chicago Blackhawks,2022021135330,2022021135,Missed Shot,330,MISSED_SHOT,Alex Ovechkin Wide of Net Anton Khudobin,2023-03-24T00:22:13Z,2,10:04,09:56,4,0,15.0,Washington Capitals,WSH
+171,15,16,Washington Capitals,Chicago Blackhawks,2022021135331,2022021135,Shot,331,SHOT,John Carlson Snap Shot saved by Anton Khudobin,2023-03-24T00:22:32Z,2,10:23,09:37,4,0,15.0,Washington Capitals,WSH
+172,15,16,Washington Capitals,Chicago Blackhawks,2022021135332,2022021135,Missed Shot,332,MISSED_SHOT,Andreas Athanasiou Goalpost Darcy Kuemper,2023-03-24T00:23:02Z,2,10:53,09:07,4,0,16.0,Chicago Blackhawks,CHI
+173,15,16,Washington Capitals,Chicago Blackhawks,2022021135333,2022021135,Blocked Shot,333,BLOCKED_SHOT,Connor Murphy shot blocked shot by Nic Dowd,2023-03-24T00:23:09Z,2,11:00,09:00,4,0,15.0,Washington Capitals,WSH
+174,15,16,Washington Capitals,Chicago Blackhawks,2022021135334,2022021135,Missed Shot,334,MISSED_SHOT,Andreas Athanasiou Wide of Net Darcy Kuemper,2023-03-24T00:23:35Z,2,11:26,08:34,4,0,16.0,Chicago Blackhawks,CHI
+175,15,16,Washington Capitals,Chicago Blackhawks,2022021135408,2022021135,Hit,408,HIT,Seth Jones hit T.J. Oshie,2023-03-24T00:24:41Z,2,12:32,07:28,4,0,16.0,Chicago Blackhawks,CHI
+176,15,16,Washington Capitals,Chicago Blackhawks,2022021135409,2022021135,Giveaway,409,GIVEAWAY,Giveaway by John Carlson,2023-03-24T00:25:16Z,2,13:07,06:53,4,0,15.0,Washington Capitals,WSH
+177,15,16,Washington Capitals,Chicago Blackhawks,2022021135411,2022021135,Hit,411,HIT,Martin Fehervary hit Connor Murphy,2023-03-24T00:26:04Z,2,13:55,06:05,4,0,15.0,Washington Capitals,WSH
+178,15,16,Washington Capitals,Chicago Blackhawks,2022021135335,2022021135,Shot,335,SHOT,Tom Wilson Wrist Shot saved by Anton Khudobin,2023-03-24T00:26:55Z,2,14:46,05:14,4,0,15.0,Washington Capitals,WSH
+179,15,16,Washington Capitals,Chicago Blackhawks,2022021135336,2022021135,Missed Shot,336,MISSED_SHOT,Alex Ovechkin Over Net Anton Khudobin,2023-03-24T00:27:00Z,2,14:51,05:09,4,0,15.0,Washington Capitals,WSH
+180,15,16,Washington Capitals,Chicago Blackhawks,2022021135359,2022021135,Stoppage,359,STOP,TV timeout,2023-03-24T00:27:05Z,2,14:57,05:03,4,0,,,
+181,15,16,Washington Capitals,Chicago Blackhawks,2022021135688,2022021135,Penalty,688,PENALTY,Too many men/ice served by Alex Ovechkin,2023-03-24T00:27:05Z,2,14:57,05:03,4,0,15.0,Washington Capitals,WSH
+182,15,16,Washington Capitals,Chicago Blackhawks,2022021135360,2022021135,Faceoff,360,FACEOFF,Nic Dowd faceoff won against Jason Dickinson,2023-03-24T00:29:24Z,2,14:57,05:03,4,0,15.0,Washington Capitals,WSH
+183,15,16,Washington Capitals,Chicago Blackhawks,2022021135412,2022021135,Hit,412,HIT,Tom Wilson hit Jason Dickinson,2023-03-24T00:29:45Z,2,15:18,04:42,4,0,15.0,Washington Capitals,WSH
+184,15,16,Washington Capitals,Chicago Blackhawks,2022021135337,2022021135,Missed Shot,337,MISSED_SHOT,Seth Jones Wide of Net Darcy Kuemper,2023-03-24T00:29:58Z,2,15:31,04:29,4,0,16.0,Chicago Blackhawks,CHI
+185,15,16,Washington Capitals,Chicago Blackhawks,2022021135338,2022021135,Shot,338,SHOT,Seth Jones Wrist Shot saved by Darcy Kuemper,2023-03-24T00:30:03Z,2,15:36,04:24,4,0,16.0,Chicago Blackhawks,CHI
+186,15,16,Washington Capitals,Chicago Blackhawks,2022021135361,2022021135,Stoppage,361,STOP,Puck in Benches,2023-03-24T00:30:13Z,2,15:46,04:14,4,0,,,
+187,15,16,Washington Capitals,Chicago Blackhawks,2022021135362,2022021135,Faceoff,362,FACEOFF,Andreas Athanasiou faceoff won against Evgeny Kuznetsov,2023-03-24T00:30:38Z,2,15:46,04:14,4,0,16.0,Chicago Blackhawks,CHI
+188,15,16,Washington Capitals,Chicago Blackhawks,2022021135339,2022021135,Shot,339,SHOT,Lukas Reichel Wrist Shot saved by Darcy Kuemper,2023-03-24T00:31:04Z,2,16:12,03:48,4,0,16.0,Chicago Blackhawks,CHI
+189,15,16,Washington Capitals,Chicago Blackhawks,2022021135340,2022021135,Shot,340,SHOT,Andreas Athanasiou Wrist Shot saved by Darcy Kuemper,2023-03-24T00:31:20Z,2,16:28,03:32,4,0,16.0,Chicago Blackhawks,CHI
+190,15,16,Washington Capitals,Chicago Blackhawks,2022021135363,2022021135,Stoppage,363,STOP,Goalie Stopped,2023-03-24T00:31:22Z,2,16:29,03:31,4,0,,,
+191,15,16,Washington Capitals,Chicago Blackhawks,2022021135364,2022021135,Faceoff,364,FACEOFF,Tyler Johnson faceoff won against Nic Dowd,2023-03-24T00:31:52Z,2,16:29,03:31,4,0,16.0,Chicago Blackhawks,CHI
+192,15,16,Washington Capitals,Chicago Blackhawks,2022021135341,2022021135,Blocked Shot,341,BLOCKED_SHOT,Boris Katchouk shot blocked shot by Trevor van Riemsdyk,2023-03-24T00:32:13Z,2,16:50,03:10,4,0,15.0,Washington Capitals,WSH
+193,15,16,Washington Capitals,Chicago Blackhawks,2022021135342,2022021135,Shot,342,SHOT,Wyatt Kaiser Wrist Shot saved by Darcy Kuemper,2023-03-24T00:32:31Z,2,17:08,02:52,4,0,16.0,Chicago Blackhawks,CHI
+194,15,16,Washington Capitals,Chicago Blackhawks,2022021135365,2022021135,Stoppage,365,STOP,Goalie Stopped,2023-03-24T00:32:32Z,2,17:09,02:51,4,0,,,
+195,15,16,Washington Capitals,Chicago Blackhawks,2022021135366,2022021135,Faceoff,366,FACEOFF,Nicklas Backstrom faceoff won against Mike Hardman,2023-03-24T00:34:46Z,2,17:09,02:51,4,0,15.0,Washington Capitals,WSH
+196,15,16,Washington Capitals,Chicago Blackhawks,2022021135343,2022021135,Blocked Shot,343,BLOCKED_SHOT,John Carlson shot blocked shot by Mike Hardman,2023-03-24T00:35:14Z,2,17:37,02:23,4,0,16.0,Chicago Blackhawks,CHI
+197,15,16,Washington Capitals,Chicago Blackhawks,2022021135413,2022021135,Giveaway,413,GIVEAWAY,Giveaway by John Carlson,2023-03-24T00:35:28Z,2,17:51,02:09,4,0,15.0,Washington Capitals,WSH
+198,15,16,Washington Capitals,Chicago Blackhawks,2022021135702,2022021135,Penalty,702,PENALTY,John Carlson Tripping against MacKenzie Entwistle,2023-03-24T00:35:35Z,2,17:59,02:01,4,0,15.0,Washington Capitals,WSH
+199,15,16,Washington Capitals,Chicago Blackhawks,2022021135367,2022021135,Faceoff,367,FACEOFF,Nic Dowd faceoff won against Jason Dickinson,2023-03-24T00:36:23Z,2,17:59,02:01,4,0,15.0,Washington Capitals,WSH
+200,15,16,Washington Capitals,Chicago Blackhawks,2022021135415,2022021135,Hit,415,HIT,Nick Jensen hit Boris Katchouk,2023-03-24T00:36:31Z,2,18:07,01:53,4,0,15.0,Washington Capitals,WSH
+201,15,16,Washington Capitals,Chicago Blackhawks,2022021135344,2022021135,Shot,344,SHOT,Nick Jensen Snap Shot saved by Anton Khudobin,2023-03-24T00:36:48Z,2,18:24,01:36,4,0,15.0,Washington Capitals,WSH
+202,15,16,Washington Capitals,Chicago Blackhawks,2022021135416,2022021135,Hit,416,HIT,Nic Dowd hit Seth Jones,2023-03-24T00:36:57Z,2,18:33,01:27,4,0,15.0,Washington Capitals,WSH
+203,15,16,Washington Capitals,Chicago Blackhawks,2022021135417,2022021135,Hit,417,HIT,Conor Sheary hit Seth Jones,2023-03-24T00:37:06Z,2,18:42,01:18,4,0,15.0,Washington Capitals,WSH
+204,15,16,Washington Capitals,Chicago Blackhawks,2022021135418,2022021135,Giveaway,418,GIVEAWAY,Giveaway by Caleb Jones,2023-03-24T00:37:52Z,2,19:28,00:32,4,0,16.0,Chicago Blackhawks,CHI
+205,15,16,Washington Capitals,Chicago Blackhawks,2022021135345,2022021135,Blocked Shot,345,BLOCKED_SHOT,Lukas Reichel shot blocked shot by Alexander Alexeyev,2023-03-24T00:38:10Z,2,19:46,00:14,4,0,15.0,Washington Capitals,WSH
+206,15,16,Washington Capitals,Chicago Blackhawks,2022021135346,2022021135,Blocked Shot,346,BLOCKED_SHOT,Andreas Athanasiou shot blocked shot by Tom Wilson,2023-03-24T00:38:22Z,2,19:58,00:02,4,0,15.0,Washington Capitals,WSH
+207,15,16,Washington Capitals,Chicago Blackhawks,2022021135347,2022021135,Period End,347,PERIOD_END,End of 2nd Period,2023-03-24T00:38:25Z,2,20:00,00:00,4,0,,,
+208,15,16,Washington Capitals,Chicago Blackhawks,2022021135601,2022021135,Period Official,601,PERIOD_OFFICIAL,Period Official,2023-03-24T00:45:20Z,2,20:00,00:00,4,0,,,
+209,15,16,Washington Capitals,Chicago Blackhawks,2022021135602,2022021135,Period Ready,602,PERIOD_READY,Period Ready,2023-03-24T00:54:57Z,3,00:00,20:00,4,0,,,
+210,15,16,Washington Capitals,Chicago Blackhawks,2022021135368,2022021135,Period Start,368,PERIOD_START,Period Start,2023-03-24T00:57:10Z,3,00:00,20:00,4,0,,,
+211,15,16,Washington Capitals,Chicago Blackhawks,20220211351151,2022021135,Faceoff,1151,FACEOFF,Nicklas Backstrom faceoff won against Jason Dickinson,2023-03-24T00:57:10Z,3,00:00,20:00,4,0,15.0,Washington Capitals,WSH
+212,15,16,Washington Capitals,Chicago Blackhawks,2022021135722,2022021135,Penalty,722,PENALTY,Jason Dickinson Delay Gm - Face-off Violation,2023-03-24T00:57:38Z,3,00:03,19:57,4,0,16.0,Chicago Blackhawks,CHI
+213,15,16,Washington Capitals,Chicago Blackhawks,2022021135369,2022021135,Faceoff,369,FACEOFF,T.J. Oshie faceoff won against Jujhar Khaira,2023-03-24T00:57:55Z,3,00:03,19:57,4,0,15.0,Washington Capitals,WSH
+214,15,16,Washington Capitals,Chicago Blackhawks,2022021135603,2022021135,Blocked Shot,603,BLOCKED_SHOT,T.J. Oshie shot blocked shot by Seth Jones,2023-03-24T00:57:58Z,3,00:06,19:54,4,0,16.0,Chicago Blackhawks,CHI
+215,15,16,Washington Capitals,Chicago Blackhawks,2022021135604,2022021135,Goal,604,GOAL,"John Carlson (9) Wrist Shot, assists: Nicklas Backstrom (11), Dylan Strome (38)",2023-03-24T00:58:57Z,3,01:04,18:56,5,0,15.0,Washington Capitals,WSH
+216,15,16,Washington Capitals,Chicago Blackhawks,2022021135419,2022021135,Faceoff,419,FACEOFF,Andreas Athanasiou faceoff won against Evgeny Kuznetsov,2023-03-24T00:59:36Z,3,01:04,18:56,5,0,16.0,Chicago Blackhawks,CHI
+217,15,16,Washington Capitals,Chicago Blackhawks,2022021135371,2022021135,Stoppage,371,STOP,Offside,2023-03-24T01:00:05Z,3,01:33,18:27,5,0,,,
+218,15,16,Washington Capitals,Chicago Blackhawks,2022021135372,2022021135,Faceoff,372,FACEOFF,Andreas Athanasiou faceoff won against Evgeny Kuznetsov,2023-03-24T01:00:22Z,3,01:33,18:27,5,0,16.0,Chicago Blackhawks,CHI
+219,15,16,Washington Capitals,Chicago Blackhawks,2022021135606,2022021135,Shot,606,SHOT,Boris Katchouk Wrist Shot saved by Darcy Kuemper,2023-03-24T01:00:49Z,3,02:00,18:00,5,0,16.0,Chicago Blackhawks,CHI
+220,15,16,Washington Capitals,Chicago Blackhawks,2022021135607,2022021135,Missed Shot,607,MISSED_SHOT,Caleb Jones Wide of Net Darcy Kuemper,2023-03-24T01:01:43Z,3,02:54,17:06,5,0,16.0,Chicago Blackhawks,CHI
+221,15,16,Washington Capitals,Chicago Blackhawks,2022021135608,2022021135,Shot,608,SHOT,Seth Jones Wrist Shot saved by Darcy Kuemper,2023-03-24T01:01:49Z,3,03:00,17:00,5,0,16.0,Chicago Blackhawks,CHI
+222,15,16,Washington Capitals,Chicago Blackhawks,2022021135373,2022021135,Stoppage,373,STOP,Icing,2023-03-24T01:01:53Z,3,03:04,16:56,5,0,,,
+223,15,16,Washington Capitals,Chicago Blackhawks,2022021135374,2022021135,Faceoff,374,FACEOFF,Tyler Johnson faceoff won against Nicklas Backstrom,2023-03-24T01:02:23Z,3,03:04,16:56,5,0,16.0,Chicago Blackhawks,CHI
+224,15,16,Washington Capitals,Chicago Blackhawks,2022021135609,2022021135,Goal,609,GOAL,"Nikita Zaitsev (1) Wrist Shot, assists: Jason Dickinson (16), Tyler Johnson (18)",2023-03-24T01:02:27Z,3,03:08,16:52,5,1,16.0,Chicago Blackhawks,CHI
+225,15,16,Washington Capitals,Chicago Blackhawks,2022021135420,2022021135,Faceoff,420,FACEOFF,Nic Dowd faceoff won against Jason Dickinson,2023-03-24T01:03:02Z,3,03:08,16:52,5,1,15.0,Washington Capitals,WSH
+226,15,16,Washington Capitals,Chicago Blackhawks,2022021135421,2022021135,Takeaway,421,TAKEAWAY,Takeaway by Nic Dowd,2023-03-24T01:03:16Z,3,03:22,16:38,5,1,15.0,Washington Capitals,WSH
+227,15,16,Washington Capitals,Chicago Blackhawks,2022021135610,2022021135,Missed Shot,610,MISSED_SHOT,Nic Dowd Wide of Net Anton Khudobin,2023-03-24T01:03:34Z,3,03:40,16:20,5,1,15.0,Washington Capitals,WSH
+228,15,16,Washington Capitals,Chicago Blackhawks,2022021135375,2022021135,Stoppage,375,STOP,Puck in Netting,2023-03-24T01:03:55Z,3,04:01,15:59,5,1,,,
+229,15,16,Washington Capitals,Chicago Blackhawks,2022021135611,2022021135,Blocked Shot,611,BLOCKED_SHOT,Nick Jensen shot blocked shot by Connor Murphy,2023-03-24T01:03:55Z,3,04:01,15:59,5,1,16.0,Chicago Blackhawks,CHI
+230,15,16,Washington Capitals,Chicago Blackhawks,2022021135376,2022021135,Faceoff,376,FACEOFF,Jujhar Khaira faceoff won against Dylan Strome,2023-03-24T01:04:18Z,3,04:01,15:59,5,1,16.0,Chicago Blackhawks,CHI
+231,15,16,Washington Capitals,Chicago Blackhawks,2022021135612,2022021135,Blocked Shot,612,BLOCKED_SHOT,Jujhar Khaira shot blocked shot by Tom Wilson,2023-03-24T01:04:34Z,3,04:17,15:43,5,1,15.0,Washington Capitals,WSH
+232,15,16,Washington Capitals,Chicago Blackhawks,2022021135613,2022021135,Missed Shot,613,MISSED_SHOT,Buddy Robinson Wide of Net Darcy Kuemper,2023-03-24T01:05:26Z,3,05:09,14:51,5,1,16.0,Chicago Blackhawks,CHI
+233,15,16,Washington Capitals,Chicago Blackhawks,2022021135422,2022021135,Takeaway,422,TAKEAWAY,Takeaway by Caleb Jones,2023-03-24T01:05:40Z,3,05:23,14:37,5,1,16.0,Chicago Blackhawks,CHI
+234,15,16,Washington Capitals,Chicago Blackhawks,2022021135423,2022021135,Hit,423,HIT,Mike Hardman hit John Carlson,2023-03-24T01:06:01Z,3,05:44,14:16,5,1,16.0,Chicago Blackhawks,CHI
+235,15,16,Washington Capitals,Chicago Blackhawks,2022021135377,2022021135,Stoppage,377,STOP,Offside,2023-03-24T01:06:34Z,3,06:18,13:42,5,1,,,
+236,15,16,Washington Capitals,Chicago Blackhawks,2022021135378,2022021135,Faceoff,378,FACEOFF,Jason Dickinson faceoff won against Dylan Strome,2023-03-24T01:09:06Z,3,06:18,13:42,5,1,16.0,Chicago Blackhawks,CHI
+237,15,16,Washington Capitals,Chicago Blackhawks,2022021135774,2022021135,Penalty,774,PENALTY,Alex Ovechkin Cross-checking against Connor Murphy,2023-03-24T01:09:26Z,3,06:38,13:22,5,1,15.0,Washington Capitals,WSH
+238,15,16,Washington Capitals,Chicago Blackhawks,2022021135379,2022021135,Faceoff,379,FACEOFF,Tyler Johnson faceoff won against Nic Dowd,2023-03-24T01:10:11Z,3,06:38,13:22,5,1,16.0,Chicago Blackhawks,CHI
+239,15,16,Washington Capitals,Chicago Blackhawks,2022021135614,2022021135,Shot,614,SHOT,Boris Katchouk Backhand saved by Darcy Kuemper,2023-03-24T01:10:26Z,3,06:53,13:07,5,1,16.0,Chicago Blackhawks,CHI
+240,15,16,Washington Capitals,Chicago Blackhawks,2022021135615,2022021135,Shot,615,SHOT,Boris Katchouk Wrist Shot saved by Darcy Kuemper,2023-03-24T01:10:27Z,3,06:54,13:06,5,1,16.0,Chicago Blackhawks,CHI
+241,15,16,Washington Capitals,Chicago Blackhawks,2022021135616,2022021135,Shot,616,SHOT,Boris Katchouk Wrist Shot saved by Darcy Kuemper,2023-03-24T01:10:59Z,3,07:26,12:34,5,1,16.0,Chicago Blackhawks,CHI
+242,15,16,Washington Capitals,Chicago Blackhawks,2022021135380,2022021135,Stoppage,380,STOP,Goalie Stopped,2023-03-24T01:11:00Z,3,07:27,12:33,5,1,,,
+243,15,16,Washington Capitals,Chicago Blackhawks,2022021135381,2022021135,Faceoff,381,FACEOFF,Evgeny Kuznetsov faceoff won against Tyler Johnson,2023-03-24T01:11:31Z,3,07:27,12:33,5,1,15.0,Washington Capitals,WSH
+244,15,16,Washington Capitals,Chicago Blackhawks,2022021135617,2022021135,Blocked Shot,617,BLOCKED_SHOT,Jujhar Khaira shot blocked shot by Alexander Alexeyev,2023-03-24T01:12:08Z,3,08:04,11:56,5,1,15.0,Washington Capitals,WSH
+245,15,16,Washington Capitals,Chicago Blackhawks,2022021135618,2022021135,Blocked Shot,618,BLOCKED_SHOT,Lukas Reichel shot blocked shot by Aliaksei Protas,2023-03-24T01:12:17Z,3,08:13,11:47,5,1,15.0,Washington Capitals,WSH
+246,15,16,Washington Capitals,Chicago Blackhawks,2022021135382,2022021135,Stoppage,382,STOP,Offside,2023-03-24T01:12:26Z,3,08:22,11:38,5,1,,,
+247,15,16,Washington Capitals,Chicago Blackhawks,2022021135383,2022021135,Faceoff,383,FACEOFF,Nic Dowd faceoff won against Jujhar Khaira,2023-03-24T01:12:57Z,3,08:22,11:38,5,1,15.0,Washington Capitals,WSH
+248,15,16,Washington Capitals,Chicago Blackhawks,2022021135619,2022021135,Shot,619,SHOT,Caleb Jones Snap Shot saved by Darcy Kuemper,2023-03-24T01:13:25Z,3,08:50,11:10,5,1,16.0,Chicago Blackhawks,CHI
+249,15,16,Washington Capitals,Chicago Blackhawks,2022021135424,2022021135,Giveaway,424,GIVEAWAY,Giveaway by Joey Anderson,2023-03-24T01:14:30Z,3,09:55,10:05,5,1,16.0,Chicago Blackhawks,CHI
+250,15,16,Washington Capitals,Chicago Blackhawks,2022021135620,2022021135,Shot,620,SHOT,Buddy Robinson Wrist Shot saved by Darcy Kuemper,2023-03-24T01:14:37Z,3,10:02,09:58,5,1,16.0,Chicago Blackhawks,CHI
+251,15,16,Washington Capitals,Chicago Blackhawks,2022021135384,2022021135,Stoppage,384,STOP,TV timeout,2023-03-24T01:14:45Z,3,10:10,09:50,5,1,,,
+252,15,16,Washington Capitals,Chicago Blackhawks,2022021135800,2022021135,Penalty,800,PENALTY,Too many men/ice served by Taylor Raddysh,2023-03-24T01:14:45Z,3,10:10,09:50,5,1,16.0,Chicago Blackhawks,CHI
+253,15,16,Washington Capitals,Chicago Blackhawks,2022021135385,2022021135,Faceoff,385,FACEOFF,Jason Dickinson faceoff won against T.J. Oshie,2023-03-24T01:17:02Z,3,10:10,09:50,5,1,16.0,Chicago Blackhawks,CHI
+254,15,16,Washington Capitals,Chicago Blackhawks,2022021135386,2022021135,Stoppage,386,STOP,Puck in Benches,2023-03-24T01:17:08Z,3,10:16,09:44,5,1,,,
+255,15,16,Washington Capitals,Chicago Blackhawks,2022021135387,2022021135,Faceoff,387,FACEOFF,Jason Dickinson faceoff won against T.J. Oshie,2023-03-24T01:17:29Z,3,10:16,09:44,5,1,16.0,Chicago Blackhawks,CHI
+256,15,16,Washington Capitals,Chicago Blackhawks,2022021135427,2022021135,Giveaway,427,GIVEAWAY,Giveaway by John Carlson,2023-03-24T01:17:55Z,3,10:42,09:18,5,1,15.0,Washington Capitals,WSH
+257,15,16,Washington Capitals,Chicago Blackhawks,2022021135621,2022021135,Shot,621,SHOT,Nicklas Backstrom Wrist Shot saved by Anton Khudobin,2023-03-24T01:17:59Z,3,10:46,09:14,5,1,15.0,Washington Capitals,WSH
+258,15,16,Washington Capitals,Chicago Blackhawks,2022021135622,2022021135,Missed Shot,622,MISSED_SHOT,John Carlson Wide of Net Anton Khudobin,2023-03-24T01:18:21Z,3,11:08,08:52,5,1,15.0,Washington Capitals,WSH
+259,15,16,Washington Capitals,Chicago Blackhawks,2022021135623,2022021135,Missed Shot,623,MISSED_SHOT,Nicklas Backstrom Wide of Net Anton Khudobin,2023-03-24T01:18:38Z,3,11:25,08:35,5,1,15.0,Washington Capitals,WSH
+260,15,16,Washington Capitals,Chicago Blackhawks,2022021135624,2022021135,Missed Shot,624,MISSED_SHOT,Nicklas Backstrom Wide of Net Anton Khudobin,2023-03-24T01:18:48Z,3,11:35,08:25,5,1,15.0,Washington Capitals,WSH
+261,15,16,Washington Capitals,Chicago Blackhawks,2022021135388,2022021135,Stoppage,388,STOP,Offside,2023-03-24T01:18:57Z,3,11:44,08:16,5,1,,,
+262,15,16,Washington Capitals,Chicago Blackhawks,2022021135389,2022021135,Faceoff,389,FACEOFF,Evgeny Kuznetsov faceoff won against Jujhar Khaira,2023-03-24T01:19:23Z,3,11:44,08:16,5,1,15.0,Washington Capitals,WSH
+263,15,16,Washington Capitals,Chicago Blackhawks,2022021135428,2022021135,Takeaway,428,TAKEAWAY,Takeaway by Rasmus Sandin,2023-03-24T01:19:54Z,3,12:15,07:45,5,1,15.0,Washington Capitals,WSH
+264,15,16,Washington Capitals,Chicago Blackhawks,2022021135625,2022021135,Shot,625,SHOT,Tom Wilson Tip-In saved by Anton Khudobin,2023-03-24T01:20:01Z,3,12:22,07:38,5,1,15.0,Washington Capitals,WSH
+265,15,16,Washington Capitals,Chicago Blackhawks,2022021135429,2022021135,Giveaway,429,GIVEAWAY,Giveaway by Tyler Johnson,2023-03-24T01:20:33Z,3,12:54,07:06,5,1,16.0,Chicago Blackhawks,CHI
+266,15,16,Washington Capitals,Chicago Blackhawks,2022021135626,2022021135,Missed Shot,626,MISSED_SHOT,Wyatt Kaiser Wide of Net Darcy Kuemper,2023-03-24T01:21:01Z,3,13:22,06:38,5,1,16.0,Chicago Blackhawks,CHI
+267,15,16,Washington Capitals,Chicago Blackhawks,2022021135430,2022021135,Hit,430,HIT,Buddy Robinson hit Aliaksei Protas,2023-03-24T01:21:02Z,3,13:23,06:37,5,1,16.0,Chicago Blackhawks,CHI
+268,15,16,Washington Capitals,Chicago Blackhawks,2022021135431,2022021135,Hit,431,HIT,MacKenzie Entwistle hit Nic Dowd,2023-03-24T01:21:09Z,3,13:30,06:30,5,1,16.0,Chicago Blackhawks,CHI
+269,15,16,Washington Capitals,Chicago Blackhawks,2022021135432,2022021135,Giveaway,432,GIVEAWAY,Giveaway by Nikita Zaitsev,2023-03-24T01:21:19Z,3,13:40,06:20,5,1,16.0,Chicago Blackhawks,CHI
+270,15,16,Washington Capitals,Chicago Blackhawks,2022021135627,2022021135,Shot,627,SHOT,Connor Murphy Slap Shot saved by Darcy Kuemper,2023-03-24T01:21:33Z,3,13:54,06:06,5,1,16.0,Chicago Blackhawks,CHI
+271,15,16,Washington Capitals,Chicago Blackhawks,2022021135628,2022021135,Blocked Shot,628,BLOCKED_SHOT,Caleb Jones shot blocked shot by Alexander Alexeyev,2023-03-24T01:22:24Z,3,14:45,05:15,5,1,15.0,Washington Capitals,WSH
+272,15,16,Washington Capitals,Chicago Blackhawks,2022021135552,2022021135,Giveaway,552,GIVEAWAY,Giveaway by Dylan Strome,2023-03-24T01:22:29Z,3,14:50,05:10,5,1,15.0,Washington Capitals,WSH
+273,15,16,Washington Capitals,Chicago Blackhawks,2022021135433,2022021135,Giveaway,433,GIVEAWAY,Giveaway by Seth Jones,2023-03-24T01:22:30Z,3,14:51,05:09,5,1,16.0,Chicago Blackhawks,CHI
+274,15,16,Washington Capitals,Chicago Blackhawks,2022021135629,2022021135,Goal,629,GOAL,"Alex Ovechkin (41) Backhand, assists: none",2023-03-24T01:22:36Z,3,14:56,05:04,6,1,15.0,Washington Capitals,WSH
+275,15,16,Washington Capitals,Chicago Blackhawks,2022021135434,2022021135,Faceoff,434,FACEOFF,Andreas Athanasiou faceoff won against Evgeny Kuznetsov,2023-03-24T01:23:13Z,3,14:56,05:04,6,1,16.0,Chicago Blackhawks,CHI
+276,15,16,Washington Capitals,Chicago Blackhawks,2022021135630,2022021135,Missed Shot,630,MISSED_SHOT,Evgeny Kuznetsov Wide of Net Anton Khudobin,2023-03-24T01:23:22Z,3,15:05,04:55,6,1,15.0,Washington Capitals,WSH
+277,15,16,Washington Capitals,Chicago Blackhawks,2022021135435,2022021135,Hit,435,HIT,Mike Hardman hit Conor Sheary,2023-03-24T01:24:33Z,3,16:16,03:44,6,1,16.0,Chicago Blackhawks,CHI
+278,15,16,Washington Capitals,Chicago Blackhawks,2022021135631,2022021135,Blocked Shot,631,BLOCKED_SHOT,John Carlson shot blocked shot by Mike Hardman,2023-03-24T01:24:43Z,3,16:26,03:34,6,1,16.0,Chicago Blackhawks,CHI
+279,15,16,Washington Capitals,Chicago Blackhawks,2022021135632,2022021135,Shot,632,SHOT,Alexander Alexeyev Wrist Shot saved by Anton Khudobin,2023-03-24T01:25:32Z,3,17:15,02:45,6,1,15.0,Washington Capitals,WSH
+280,15,16,Washington Capitals,Chicago Blackhawks,2022021135633,2022021135,Missed Shot,633,MISSED_SHOT,T.J. Oshie Wide of Net Anton Khudobin,2023-03-24T01:25:34Z,3,17:17,02:43,6,1,15.0,Washington Capitals,WSH
+281,15,16,Washington Capitals,Chicago Blackhawks,2022021135436,2022021135,Takeaway,436,TAKEAWAY,Takeaway by Boris Katchouk,2023-03-24T01:25:38Z,3,17:21,02:39,6,1,16.0,Chicago Blackhawks,CHI
+282,15,16,Washington Capitals,Chicago Blackhawks,2022021135634,2022021135,Missed Shot,634,MISSED_SHOT,Jason Dickinson Wide of Net Darcy Kuemper,2023-03-24T01:25:48Z,3,17:29,02:31,6,1,16.0,Chicago Blackhawks,CHI
+283,15,16,Washington Capitals,Chicago Blackhawks,2022021135390,2022021135,Stoppage,390,STOP,Puck in Benches,2023-03-24T01:26:22Z,3,18:05,01:55,6,1,,,
+284,15,16,Washington Capitals,Chicago Blackhawks,2022021135391,2022021135,Faceoff,391,FACEOFF,Dylan Strome faceoff won against Andreas Athanasiou,2023-03-24T01:26:49Z,3,18:05,01:55,6,1,15.0,Washington Capitals,WSH
+285,15,16,Washington Capitals,Chicago Blackhawks,2022021135635,2022021135,Missed Shot,635,MISSED_SHOT,Dylan Strome Wide of Net Anton Khudobin,2023-03-24T01:26:52Z,3,18:08,01:52,6,1,15.0,Washington Capitals,WSH
+286,15,16,Washington Capitals,Chicago Blackhawks,2022021135392,2022021135,Stoppage,392,STOP,Goalie Stopped,2023-03-24T01:26:53Z,3,18:09,01:51,6,1,,,
+287,15,16,Washington Capitals,Chicago Blackhawks,2022021135393,2022021135,Faceoff,393,FACEOFF,Dylan Strome faceoff won against Andreas Athanasiou,2023-03-24T01:27:08Z,3,18:09,01:51,6,1,15.0,Washington Capitals,WSH
+288,15,16,Washington Capitals,Chicago Blackhawks,2022021135437,2022021135,Takeaway,437,TAKEAWAY,Takeaway by Anthony Mantha,2023-03-24T01:28:23Z,3,19:24,00:36,6,1,15.0,Washington Capitals,WSH
+289,15,16,Washington Capitals,Chicago Blackhawks,2022021135438,2022021135,Giveaway,438,GIVEAWAY,Giveaway by Craig Smith,2023-03-24T01:28:31Z,3,19:32,00:28,6,1,15.0,Washington Capitals,WSH
+290,15,16,Washington Capitals,Chicago Blackhawks,2022021135439,2022021135,Giveaway,439,GIVEAWAY,Giveaway by Darcy Kuemper,2023-03-24T01:28:42Z,3,19:43,00:17,6,1,15.0,Washington Capitals,WSH
+291,15,16,Washington Capitals,Chicago Blackhawks,2022021135641,2022021135,Game End,641,GAME_END,Game End,2023-03-24T01:28:05Z,3,20:00,00:00,6,1,,,
+292,15,16,Washington Capitals,Chicago Blackhawks,2022021135637,2022021135,Period End,637,PERIOD_END,End of 3rd Period,2023-03-24T01:28:59Z,3,20:00,00:00,6,1,,,
+293,15,16,Washington Capitals,Chicago Blackhawks,2022021135640,2022021135,Period Official,640,PERIOD_OFFICIAL,Period Official,2023-03-24T01:29:03Z,3,20:00,00:00,6,1,,,
+294,15,16,Washington Capitals,Chicago Blackhawks,20220211351201,2022021135,Game Official,1201,GAME_OFFICIAL,Game Official,2023-03-24T02:03:32Z,3,20:00,00:00,6,1,,,

@@ -1,0 +1,357 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,5,26,Pittsburgh Penguins,Los Angeles Kings,20220200621,2022020062,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-10-20T22:14:07Z,1,00:00,20:00,0,0,,,
+1,5,26,Pittsburgh Penguins,Los Angeles Kings,20220200625,2022020062,Period Ready,5,PERIOD_READY,Period Ready,2022-10-20T23:06:21Z,1,00:00,20:00,0,0,,,
+2,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006251,2022020062,Period Start,51,PERIOD_START,Period Start,2022-10-20T23:08:45Z,1,00:00,20:00,0,0,,,
+3,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006252,2022020062,Faceoff,52,FACEOFF,Sidney Crosby faceoff won against Phillip Danault,2022-10-20T23:08:45Z,1,00:00,20:00,0,0,5.0,Pittsburgh Penguins,PIT
+4,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006253,2022020062,Giveaway,53,GIVEAWAY,Giveaway by Brian Dumoulin,2022-10-20T23:08:51Z,1,00:06,19:54,0,0,5.0,Pittsburgh Penguins,PIT
+5,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062151,2022020062,Shot,151,SHOT,Phillip Danault Backhand saved by Tristan Jarry,2022-10-20T23:08:52Z,1,00:07,19:53,0,0,26.0,Los Angeles Kings,LAK
+6,5,26,Pittsburgh Penguins,Los Angeles Kings,20220200628,2022020062,Stoppage,8,STOP,Goalie Stopped,2022-10-20T23:08:54Z,1,00:08,19:52,0,0,,,
+7,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006254,2022020062,Faceoff,54,FACEOFF,Sidney Crosby faceoff won against Viktor Arvidsson,2022-10-20T23:09:16Z,1,00:08,19:52,0,0,5.0,Pittsburgh Penguins,PIT
+8,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062152,2022020062,Blocked Shot,152,BLOCKED_SHOT,Viktor Arvidsson shot blocked shot by Brian Dumoulin,2022-10-20T23:09:32Z,1,00:24,19:36,0,0,5.0,Pittsburgh Penguins,PIT
+9,5,26,Pittsburgh Penguins,Los Angeles Kings,20220200629,2022020062,Stoppage,9,STOP,Puck in Netting,2022-10-20T23:09:35Z,1,00:28,19:32,0,0,,,
+10,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006255,2022020062,Faceoff,55,FACEOFF,Jeff Carter faceoff won against Anze Kopitar,2022-10-20T23:10:06Z,1,00:28,19:32,0,0,5.0,Pittsburgh Penguins,PIT
+11,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062265,2022020062,Giveaway,265,GIVEAWAY,Giveaway by Adrian Kempe,2022-10-20T23:10:15Z,1,00:37,19:23,0,0,26.0,Los Angeles Kings,LAK
+12,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006256,2022020062,Takeaway,56,TAKEAWAY,Takeaway by Adrian Kempe,2022-10-20T23:10:19Z,1,00:41,19:19,0,0,26.0,Los Angeles Kings,LAK
+13,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006210,2022020062,Hit,10,HIT,Marcus Pettersson hit Matt Roy,2022-10-20T23:10:37Z,1,00:59,19:01,0,0,5.0,Pittsburgh Penguins,PIT
+14,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062153,2022020062,Shot,153,SHOT,Phillip Danault Wrist Shot saved by Tristan Jarry,2022-10-20T23:10:54Z,1,01:16,18:44,0,0,26.0,Los Angeles Kings,LAK
+15,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006211,2022020062,Stoppage,11,STOP,Goalie Stopped,2022-10-20T23:10:55Z,1,01:17,18:43,0,0,,,
+16,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006258,2022020062,Faceoff,58,FACEOFF,Viktor Arvidsson faceoff won against Evgeni Malkin,2022-10-20T23:11:31Z,1,01:17,18:43,0,0,26.0,Los Angeles Kings,LAK
+17,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062154,2022020062,Missed Shot,154,MISSED_SHOT,Sean Walker Wide of Net Tristan Jarry,2022-10-20T23:11:35Z,1,01:21,18:39,0,0,26.0,Los Angeles Kings,LAK
+18,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006259,2022020062,Hit,59,HIT,Kris Letang hit Viktor Arvidsson,2022-10-20T23:11:40Z,1,01:26,18:34,0,0,5.0,Pittsburgh Penguins,PIT
+19,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006212,2022020062,Takeaway,12,TAKEAWAY,Takeaway by Trevor Moore,2022-10-20T23:11:47Z,1,01:33,18:27,0,0,26.0,Los Angeles Kings,LAK
+20,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006260,2022020062,Takeaway,60,TAKEAWAY,Takeaway by Sean Walker,2022-10-20T23:11:57Z,1,01:43,18:17,0,0,26.0,Los Angeles Kings,LAK
+21,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006261,2022020062,Hit,61,HIT,Bryan Rust hit Drew Doughty,2022-10-20T23:12:09Z,1,01:55,18:05,0,0,5.0,Pittsburgh Penguins,PIT
+22,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062155,2022020062,Shot,155,SHOT,Carl Grundstrom Backhand saved by Tristan Jarry,2022-10-20T23:12:13Z,1,01:59,18:01,0,0,26.0,Los Angeles Kings,LAK
+23,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006213,2022020062,Shot,13,SHOT,Brendan Lemieux Snap Shot saved by Tristan Jarry,2022-10-20T23:12:17Z,1,02:03,17:57,0,0,26.0,Los Angeles Kings,LAK
+24,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062156,2022020062,Missed Shot,156,MISSED_SHOT,Drew Doughty Wide of Net Tristan Jarry,2022-10-20T23:12:27Z,1,02:13,17:47,0,0,26.0,Los Angeles Kings,LAK
+25,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006262,2022020062,Giveaway,62,GIVEAWAY,Giveaway by Carl Grundstrom,2022-10-20T23:12:38Z,1,02:24,17:36,0,0,26.0,Los Angeles Kings,LAK
+26,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006263,2022020062,Hit,63,HIT,Rickard Rakell hit Drew Doughty,2022-10-20T23:12:44Z,1,02:30,17:30,0,0,5.0,Pittsburgh Penguins,PIT
+27,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006264,2022020062,Giveaway,64,GIVEAWAY,Giveaway by Gabriel Vilardi,2022-10-20T23:13:17Z,1,03:03,16:57,0,0,26.0,Los Angeles Kings,LAK
+28,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006214,2022020062,Stoppage,14,STOP,Icing,2022-10-20T23:13:19Z,1,03:05,16:55,0,0,,,
+29,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006265,2022020062,Faceoff,65,FACEOFF,Anze Kopitar faceoff won against Ryan Poehling,2022-10-20T23:13:41Z,1,03:05,16:55,0,0,26.0,Los Angeles Kings,LAK
+30,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006215,2022020062,Hit,15,HIT,Kevin Fiala hit Brock McGinn,2022-10-20T23:14:01Z,1,03:25,16:35,0,0,26.0,Los Angeles Kings,LAK
+31,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006268,2022020062,Hit,68,HIT,Matt Roy hit Brock McGinn,2022-10-20T23:14:18Z,1,03:42,16:18,0,0,26.0,Los Angeles Kings,LAK
+32,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062157,2022020062,Goal,157,GOAL,"Jan Rutta (1) Snap Shot, assists: Evgeni Malkin (2), Jason Zucker (3)",2022-10-20T23:14:41Z,1,04:04,15:56,1,0,5.0,Pittsburgh Penguins,PIT
+33,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006269,2022020062,Faceoff,69,FACEOFF,Phillip Danault faceoff won against Jeff Carter,2022-10-20T23:15:20Z,1,04:04,15:56,1,0,26.0,Los Angeles Kings,LAK
+34,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062403,2022020062,Blocked Shot,403,BLOCKED_SHOT,Phillip Danault shot blocked shot by Jeff Carter,2022-10-20T23:15:29Z,1,04:13,15:47,1,0,5.0,Pittsburgh Penguins,PIT
+35,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006270,2022020062,Giveaway,70,GIVEAWAY,Giveaway by Kris Letang,2022-10-20T23:15:31Z,1,04:15,15:45,1,0,5.0,Pittsburgh Penguins,PIT
+36,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062401,2022020062,Blocked Shot,401,BLOCKED_SHOT,Jeff Carter shot blocked shot by Phillip Danault,2022-10-20T23:15:34Z,1,04:18,15:42,1,0,26.0,Los Angeles Kings,LAK
+37,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062159,2022020062,Shot,159,SHOT,Viktor Arvidsson Wrist Shot saved by Tristan Jarry,2022-10-20T23:15:57Z,1,04:41,15:19,1,0,26.0,Los Angeles Kings,LAK
+38,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006271,2022020062,Hit,71,HIT,Kasperi Kapanen hit Phillip Danault,2022-10-20T23:16:07Z,1,04:51,15:09,1,0,5.0,Pittsburgh Penguins,PIT
+39,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006273,2022020062,Hit,73,HIT,Danton Heinen hit Mikey Anderson,2022-10-20T23:16:30Z,1,05:14,14:46,1,0,5.0,Pittsburgh Penguins,PIT
+40,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006217,2022020062,Stoppage,17,STOP,Goalie Stopped,2022-10-20T23:16:43Z,1,05:26,14:34,1,0,,,
+41,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062160,2022020062,Shot,160,SHOT,Kevin Fiala Wrist Shot saved by Tristan Jarry,2022-10-20T23:16:43Z,1,05:26,14:34,1,0,26.0,Los Angeles Kings,LAK
+42,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006274,2022020062,Faceoff,74,FACEOFF,Anze Kopitar faceoff won against Sidney Crosby,2022-10-20T23:17:08Z,1,05:26,14:34,1,0,26.0,Los Angeles Kings,LAK
+43,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006219,2022020062,Blocked Shot,19,BLOCKED_SHOT,Kevin Fiala shot blocked shot by Marcus Pettersson,2022-10-20T23:17:14Z,1,05:32,14:28,1,0,5.0,Pittsburgh Penguins,PIT
+44,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006218,2022020062,Blocked Shot,18,BLOCKED_SHOT,Anze Kopitar shot blocked shot by Marcus Pettersson,2022-10-20T23:17:15Z,1,05:33,14:27,1,0,5.0,Pittsburgh Penguins,PIT
+45,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062147,2022020062,Penalty,147,PENALTY,Adrian Kempe Hooking against Rickard Rakell,2022-10-20T23:17:16Z,1,05:35,14:25,1,0,26.0,Los Angeles Kings,LAK
+46,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006275,2022020062,Faceoff,75,FACEOFF,Evgeni Malkin faceoff won against Blake Lizotte,2022-10-20T23:17:49Z,1,05:35,14:25,1,0,5.0,Pittsburgh Penguins,PIT
+47,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006276,2022020062,Hit,76,HIT,Carl Grundstrom hit Evgeni Malkin,2022-10-20T23:18:11Z,1,05:57,14:03,1,0,26.0,Los Angeles Kings,LAK
+48,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006277,2022020062,Takeaway,77,TAKEAWAY,Takeaway by Jake Guentzel,2022-10-20T23:18:24Z,1,06:09,13:51,1,0,5.0,Pittsburgh Penguins,PIT
+49,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062161,2022020062,Shot,161,SHOT,Rickard Rakell Tip-In saved by Cal Petersen,2022-10-20T23:19:12Z,1,06:58,13:02,1,0,5.0,Pittsburgh Penguins,PIT
+50,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006278,2022020062,Hit,78,HIT,Sean Walker hit Rickard Rakell,2022-10-20T23:19:14Z,1,07:00,13:00,1,0,26.0,Los Angeles Kings,LAK
+51,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062162,2022020062,Blocked Shot,162,BLOCKED_SHOT,Jeff Petry shot blocked shot by Brandt Clarke,2022-10-20T23:19:23Z,1,07:09,12:51,1,0,26.0,Los Angeles Kings,LAK
+52,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062163,2022020062,Blocked Shot,163,BLOCKED_SHOT,Jeff Carter shot blocked shot by Drew Doughty,2022-10-20T23:19:51Z,1,07:37,12:23,1,0,26.0,Los Angeles Kings,LAK
+53,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062164,2022020062,Missed Shot,164,MISSED_SHOT,Jan Rutta Wide of Net Cal Petersen,2022-10-20T23:20:14Z,1,08:00,12:00,1,0,5.0,Pittsburgh Penguins,PIT
+54,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006220,2022020062,Shot,20,SHOT,Brock McGinn Backhand saved by Cal Petersen,2022-10-20T23:20:16Z,1,08:02,11:58,1,0,5.0,Pittsburgh Penguins,PIT
+55,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006221,2022020062,Stoppage,21,STOP,Goalie Stopped,2022-10-20T23:20:17Z,1,08:03,11:57,1,0,,,
+56,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006280,2022020062,Faceoff,80,FACEOFF,Anze Kopitar faceoff won against Sidney Crosby,2022-10-20T23:22:35Z,1,08:03,11:57,1,0,26.0,Los Angeles Kings,LAK
+57,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006222,2022020062,Stoppage,22,STOP,Icing,2022-10-20T23:22:47Z,1,08:14,11:46,1,0,,,
+58,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006281,2022020062,Faceoff,81,FACEOFF,Sidney Crosby faceoff won against Anze Kopitar,2022-10-20T23:23:08Z,1,08:14,11:46,1,0,5.0,Pittsburgh Penguins,PIT
+59,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062165,2022020062,Shot,165,SHOT,Anze Kopitar Backhand saved by Tristan Jarry,2022-10-20T23:23:21Z,1,08:27,11:33,1,0,26.0,Los Angeles Kings,LAK
+60,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062166,2022020062,Blocked Shot,166,BLOCKED_SHOT,Adrian Kempe shot blocked shot by Sidney Crosby,2022-10-20T23:23:31Z,1,08:37,11:23,1,0,5.0,Pittsburgh Penguins,PIT
+61,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006223,2022020062,Stoppage,23,STOP,Icing,2022-10-20T23:23:35Z,1,08:41,11:19,1,0,,,
+62,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006283,2022020062,Faceoff,83,FACEOFF,Phillip Danault faceoff won against Sidney Crosby,2022-10-20T23:24:00Z,1,08:41,11:19,1,0,26.0,Los Angeles Kings,LAK
+63,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062167,2022020062,Shot,167,SHOT,Sean Durzi Wrist Shot saved by Tristan Jarry,2022-10-20T23:24:04Z,1,08:45,11:15,1,0,26.0,Los Angeles Kings,LAK
+64,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006224,2022020062,Blocked Shot,24,BLOCKED_SHOT,Sean Durzi shot blocked shot by Rickard Rakell,2022-10-20T23:24:15Z,1,08:56,11:04,1,0,5.0,Pittsburgh Penguins,PIT
+65,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006284,2022020062,Hit,84,HIT,Jeff Petry hit Phillip Danault,2022-10-20T23:24:26Z,1,09:07,10:53,1,0,5.0,Pittsburgh Penguins,PIT
+66,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006285,2022020062,Hit,85,HIT,Jeff Petry hit Trevor Moore,2022-10-20T23:24:37Z,1,09:18,10:42,1,0,5.0,Pittsburgh Penguins,PIT
+67,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006286,2022020062,Hit,86,HIT,Jeff Petry hit Trevor Moore,2022-10-20T23:24:54Z,1,09:35,10:25,1,0,5.0,Pittsburgh Penguins,PIT
+68,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006287,2022020062,Takeaway,87,TAKEAWAY,Takeaway by Evgeni Malkin,2022-10-20T23:24:58Z,1,09:39,10:21,1,0,5.0,Pittsburgh Penguins,PIT
+69,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006288,2022020062,Hit,88,HIT,Kasperi Kapanen hit Brendan Lemieux,2022-10-20T23:25:35Z,1,10:16,09:44,1,0,5.0,Pittsburgh Penguins,PIT
+70,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062168,2022020062,Blocked Shot,168,BLOCKED_SHOT,Blake Lizotte shot blocked shot by Jeff Carter,2022-10-20T23:25:38Z,1,10:19,09:41,1,0,5.0,Pittsburgh Penguins,PIT
+71,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006289,2022020062,Hit,89,HIT,Jeff Carter hit Brandt Clarke,2022-10-20T23:25:42Z,1,10:23,09:37,1,0,5.0,Pittsburgh Penguins,PIT
+72,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062404,2022020062,Blocked Shot,404,BLOCKED_SHOT,Jeff Petry shot blocked shot by Blake Lizotte,2022-10-20T23:25:42Z,1,10:23,09:37,1,0,26.0,Los Angeles Kings,LAK
+73,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062169,2022020062,Shot,169,SHOT,Brandt Clarke Wrist Shot saved by Tristan Jarry,2022-10-20T23:25:47Z,1,10:28,09:32,1,0,26.0,Los Angeles Kings,LAK
+74,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062551,2022020062,Shot,551,SHOT,Brendan Lemieux Backhand saved by Tristan Jarry,2022-10-20T23:25:47Z,1,10:28,09:32,1,0,26.0,Los Angeles Kings,LAK
+75,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006290,2022020062,Hit,90,HIT,Kasperi Kapanen hit Brendan Lemieux,2022-10-20T23:25:50Z,1,10:31,09:29,1,0,5.0,Pittsburgh Penguins,PIT
+76,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062170,2022020062,Shot,170,SHOT,Blake Lizotte Wrist Shot saved by Tristan Jarry,2022-10-20T23:25:53Z,1,10:34,09:26,1,0,26.0,Los Angeles Kings,LAK
+77,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062552,2022020062,Shot,552,SHOT,Brendan Lemieux Backhand saved by Tristan Jarry,2022-10-20T23:25:55Z,1,10:36,09:24,1,0,26.0,Los Angeles Kings,LAK
+78,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006291,2022020062,Hit,91,HIT,Pierre-Olivier Joseph hit Brandt Clarke,2022-10-20T23:26:01Z,1,10:42,09:18,1,0,5.0,Pittsburgh Penguins,PIT
+79,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006292,2022020062,Hit,92,HIT,Brendan Lemieux hit Kasperi Kapanen,2022-10-20T23:26:12Z,1,10:53,09:07,1,0,26.0,Los Angeles Kings,LAK
+80,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006293,2022020062,Stoppage,93,STOP,Icing,2022-10-20T23:27:03Z,1,11:44,08:16,1,0,,,
+81,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006294,2022020062,Faceoff,94,FACEOFF,Anze Kopitar faceoff won against Ryan Poehling,2022-10-20T23:27:28Z,1,11:44,08:16,1,0,26.0,Los Angeles Kings,LAK
+82,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062171,2022020062,Shot,171,SHOT,Mikey Anderson Slap Shot saved by Tristan Jarry,2022-10-20T23:27:33Z,1,11:49,08:11,1,0,26.0,Los Angeles Kings,LAK
+83,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006295,2022020062,Giveaway,95,GIVEAWAY,Giveaway by Kevin Fiala,2022-10-20T23:27:46Z,1,12:02,07:58,1,0,26.0,Los Angeles Kings,LAK
+84,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006296,2022020062,Hit,96,HIT,Jake Guentzel hit Sean Durzi,2022-10-20T23:28:10Z,1,12:26,07:34,1,0,5.0,Pittsburgh Penguins,PIT
+85,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006297,2022020062,Hit,97,HIT,Pierre-Olivier Joseph hit Matt Roy,2022-10-20T23:28:36Z,1,12:52,07:08,1,0,5.0,Pittsburgh Penguins,PIT
+86,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062173,2022020062,Blocked Shot,173,BLOCKED_SHOT,Brandt Clarke shot blocked shot by Bryan Rust,2022-10-20T23:29:33Z,1,13:49,06:11,1,0,5.0,Pittsburgh Penguins,PIT
+87,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006298,2022020062,Hit,98,HIT,Jason Zucker hit Blake Lizotte,2022-10-20T23:29:40Z,1,13:56,06:04,1,0,5.0,Pittsburgh Penguins,PIT
+88,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006226,2022020062,Hit,26,HIT,Jeff Carter hit Blake Lizotte,2022-10-20T23:29:42Z,1,13:58,06:02,1,0,5.0,Pittsburgh Penguins,PIT
+89,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062174,2022020062,Blocked Shot,174,BLOCKED_SHOT,Kasperi Kapanen shot blocked shot by Gabriel Vilardi,2022-10-20T23:30:02Z,1,14:18,05:42,1,0,26.0,Los Angeles Kings,LAK
+90,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006227,2022020062,Stoppage,27,STOP,Puck in Netting,2022-10-20T23:30:03Z,1,14:19,05:41,1,0,,,
+91,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062100,2022020062,Faceoff,100,FACEOFF,Anze Kopitar faceoff won against Sidney Crosby,2022-10-20T23:32:26Z,1,14:19,05:41,1,0,26.0,Los Angeles Kings,LAK
+92,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062175,2022020062,Goal,175,GOAL,"Jake Guentzel (3) Tip-In, assists: Kris Letang (4), Sidney Crosby (5)",2022-10-20T23:32:42Z,1,14:35,05:25,2,0,5.0,Pittsburgh Penguins,PIT
+93,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062251,2022020062,Faceoff,251,FACEOFF,Evgeni Malkin faceoff won against Quinton Byfield,2022-10-20T23:33:21Z,1,14:35,05:25,2,0,5.0,Pittsburgh Penguins,PIT
+94,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062176,2022020062,Blocked Shot,176,BLOCKED_SHOT,Bryan Rust shot blocked shot by Mikey Anderson,2022-10-20T23:33:32Z,1,14:46,05:14,2,0,26.0,Los Angeles Kings,LAK
+95,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062177,2022020062,Shot,177,SHOT,Bryan Rust Snap Shot saved by Cal Petersen,2022-10-20T23:34:09Z,1,15:23,04:37,2,0,5.0,Pittsburgh Penguins,PIT
+96,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062179,2022020062,Shot,179,SHOT,Brock McGinn Wrist Shot saved by Cal Petersen,2022-10-20T23:34:50Z,1,16:04,03:56,2,0,5.0,Pittsburgh Penguins,PIT
+97,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006228,2022020062,Shot,28,SHOT,Trevor Moore Snap Shot saved by Tristan Jarry,2022-10-20T23:34:56Z,1,16:10,03:50,2,0,26.0,Los Angeles Kings,LAK
+98,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062252,2022020062,Hit,252,HIT,Josh Archibald hit Phillip Danault,2022-10-20T23:35:00Z,1,16:14,03:46,2,0,5.0,Pittsburgh Penguins,PIT
+99,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062253,2022020062,Hit,253,HIT,Jeff Carter hit Brendan Lemieux,2022-10-20T23:35:19Z,1,16:33,03:27,2,0,5.0,Pittsburgh Penguins,PIT
+100,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062254,2022020062,Hit,254,HIT,Kris Letang hit Brandt Clarke,2022-10-20T23:35:43Z,1,16:57,03:03,2,0,5.0,Pittsburgh Penguins,PIT
+101,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062180,2022020062,Missed Shot,180,MISSED_SHOT,Carl Grundstrom Wide of Net Tristan Jarry,2022-10-20T23:35:48Z,1,17:02,02:58,2,0,26.0,Los Angeles Kings,LAK
+102,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006229,2022020062,Hit,29,HIT,Kris Letang hit Brandt Clarke,2022-10-20T23:35:52Z,1,17:06,02:54,2,0,5.0,Pittsburgh Penguins,PIT
+103,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062181,2022020062,Shot,181,SHOT,Brendan Lemieux Deflected saved by Tristan Jarry,2022-10-20T23:35:55Z,1,17:09,02:51,2,0,26.0,Los Angeles Kings,LAK
+104,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062255,2022020062,Hit,255,HIT,Brendan Lemieux hit Danton Heinen,2022-10-20T23:35:57Z,1,17:11,02:49,2,0,26.0,Los Angeles Kings,LAK
+105,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062256,2022020062,Giveaway,256,GIVEAWAY,Giveaway by Marcus Pettersson,2022-10-20T23:36:58Z,1,18:12,01:48,2,0,5.0,Pittsburgh Penguins,PIT
+106,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062405,2022020062,Blocked Shot,405,BLOCKED_SHOT,Drew Doughty shot blocked shot by Sidney Crosby,2022-10-20T23:36:58Z,1,18:12,01:48,2,0,5.0,Pittsburgh Penguins,PIT
+107,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062257,2022020062,Giveaway,257,GIVEAWAY,Giveaway by Anze Kopitar,2022-10-20T23:37:02Z,1,18:16,01:44,2,0,26.0,Los Angeles Kings,LAK
+108,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062182,2022020062,Shot,182,SHOT,Jeff Petry Snap Shot saved by Cal Petersen,2022-10-20T23:37:04Z,1,18:18,01:42,2,0,5.0,Pittsburgh Penguins,PIT
+109,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062183,2022020062,Goal,183,GOAL,"Rickard Rakell (2) Backhand, assists: Jeff Petry (2), Marcus Pettersson (3)",2022-10-20T23:37:05Z,1,18:19,01:41,3,0,5.0,Pittsburgh Penguins,PIT
+110,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062258,2022020062,Faceoff,258,FACEOFF,Evgeni Malkin faceoff won against Phillip Danault,2022-10-20T23:37:49Z,1,18:19,01:41,3,0,5.0,Pittsburgh Penguins,PIT
+111,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006230,2022020062,Stoppage,30,STOP,Puck in Benches,2022-10-20T23:37:52Z,1,18:23,01:37,3,0,,,
+112,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062259,2022020062,Faceoff,259,FACEOFF,Evgeni Malkin faceoff won against Phillip Danault,2022-10-20T23:40:07Z,1,18:23,01:37,3,0,5.0,Pittsburgh Penguins,PIT
+113,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062260,2022020062,Takeaway,260,TAKEAWAY,Takeaway by Sean Durzi,2022-10-20T23:40:18Z,1,18:34,01:26,3,0,26.0,Los Angeles Kings,LAK
+114,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062184,2022020062,Blocked Shot,184,BLOCKED_SHOT,Viktor Arvidsson shot blocked shot by Brian Dumoulin,2022-10-20T23:40:27Z,1,18:43,01:17,3,0,5.0,Pittsburgh Penguins,PIT
+115,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062261,2022020062,Hit,261,HIT,Phillip Danault hit Brian Dumoulin,2022-10-20T23:40:28Z,1,18:44,01:16,3,0,26.0,Los Angeles Kings,LAK
+116,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062262,2022020062,Hit,262,HIT,Brian Dumoulin hit Viktor Arvidsson,2022-10-20T23:40:40Z,1,18:56,01:04,3,0,5.0,Pittsburgh Penguins,PIT
+117,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062185,2022020062,Shot,185,SHOT,Evgeni Malkin Wrist Shot saved by Cal Petersen,2022-10-20T23:40:52Z,1,19:08,00:52,3,0,5.0,Pittsburgh Penguins,PIT
+118,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006231,2022020062,Stoppage,31,STOP,Goalie Stopped,2022-10-20T23:40:54Z,1,19:09,00:51,3,0,,,
+119,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062263,2022020062,Faceoff,263,FACEOFF,Quinton Byfield faceoff won against Sidney Crosby,2022-10-20T23:41:31Z,1,19:09,00:51,3,0,26.0,Los Angeles Kings,LAK
+120,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062264,2022020062,Hit,264,HIT,Quinton Byfield hit Jeff Petry,2022-10-20T23:41:56Z,1,19:35,00:25,3,0,26.0,Los Angeles Kings,LAK
+121,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062187,2022020062,Shot,187,SHOT,Drew Doughty Wrist Shot saved by Tristan Jarry,2022-10-20T23:42:12Z,1,19:51,00:09,3,0,26.0,Los Angeles Kings,LAK
+122,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006232,2022020062,Period End,32,PERIOD_END,End of 1st Period,2022-10-20T23:42:21Z,1,20:00,00:00,3,0,,,
+123,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006235,2022020062,Period Official,35,PERIOD_OFFICIAL,Period Official,2022-10-20T23:42:29Z,1,20:00,00:00,3,0,,,
+124,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006236,2022020062,Period Ready,36,PERIOD_READY,Period Ready,2022-10-21T00:00:41Z,2,00:00,20:00,3,0,,,
+125,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062266,2022020062,Period Start,266,PERIOD_START,Period Start,2022-10-21T00:01:06Z,2,00:00,20:00,3,0,,,
+126,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062267,2022020062,Faceoff,267,FACEOFF,Sidney Crosby faceoff won against Phillip Danault,2022-10-21T00:01:06Z,2,00:00,20:00,3,0,5.0,Pittsburgh Penguins,PIT
+127,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062268,2022020062,Hit,268,HIT,Trevor Moore hit Rickard Rakell,2022-10-21T00:01:20Z,2,00:14,19:46,3,0,26.0,Los Angeles Kings,LAK
+128,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062188,2022020062,Blocked Shot,188,BLOCKED_SHOT,Viktor Arvidsson shot blocked shot by Sidney Crosby,2022-10-21T00:01:29Z,2,00:23,19:37,3,0,5.0,Pittsburgh Penguins,PIT
+129,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006237,2022020062,Shot,37,SHOT,Viktor Arvidsson Snap Shot saved by Tristan Jarry,2022-10-21T00:01:30Z,2,00:24,19:36,3,0,26.0,Los Angeles Kings,LAK
+130,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006238,2022020062,Shot,38,SHOT,Brian Dumoulin Wrist Shot saved by Jonathan Quick,2022-10-21T00:01:35Z,2,00:29,19:31,3,0,5.0,Pittsburgh Penguins,PIT
+131,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006239,2022020062,Stoppage,39,STOP,Goalie Stopped,2022-10-21T00:01:37Z,2,00:30,19:30,3,0,,,
+132,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062269,2022020062,Faceoff,269,FACEOFF,Anze Kopitar faceoff won against Evgeni Malkin,2022-10-21T00:02:08Z,2,00:30,19:30,3,0,26.0,Los Angeles Kings,LAK
+133,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062270,2022020062,Giveaway,270,GIVEAWAY,Giveaway by Anze Kopitar,2022-10-21T00:02:30Z,2,00:52,19:08,3,0,26.0,Los Angeles Kings,LAK
+134,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062190,2022020062,Blocked Shot,190,BLOCKED_SHOT,Matt Roy shot blocked shot by Jeff Petry,2022-10-21T00:02:43Z,2,01:05,18:55,3,0,5.0,Pittsburgh Penguins,PIT
+135,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062191,2022020062,Missed Shot,191,MISSED_SHOT,Gabriel Vilardi Wide of Net Tristan Jarry,2022-10-21T00:03:34Z,2,01:56,18:04,3,0,26.0,Los Angeles Kings,LAK
+136,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006240,2022020062,Blocked Shot,40,BLOCKED_SHOT,Sean Walker shot blocked shot by Jan Rutta,2022-10-21T00:03:41Z,2,02:03,17:57,3,0,5.0,Pittsburgh Penguins,PIT
+137,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062193,2022020062,Blocked Shot,193,BLOCKED_SHOT,Danton Heinen shot blocked shot by Sean Walker,2022-10-21T00:03:54Z,2,02:16,17:44,3,0,26.0,Los Angeles Kings,LAK
+138,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062525,2022020062,Penalty,525,PENALTY,Sean Walker Hooking against Danton Heinen,2022-10-21T00:03:55Z,2,02:17,17:43,3,0,26.0,Los Angeles Kings,LAK
+139,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062271,2022020062,Faceoff,271,FACEOFF,Evgeni Malkin faceoff won against Phillip Danault,2022-10-21T00:04:27Z,2,02:17,17:43,3,0,5.0,Pittsburgh Penguins,PIT
+140,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062194,2022020062,Blocked Shot,194,BLOCKED_SHOT,Jake Guentzel shot blocked shot by Phillip Danault,2022-10-21T00:04:38Z,2,02:28,17:32,3,0,26.0,Los Angeles Kings,LAK
+141,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006242,2022020062,Stoppage,42,STOP,Offside,2022-10-21T00:04:53Z,2,02:42,17:18,3,0,,,
+142,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062272,2022020062,Faceoff,272,FACEOFF,Evgeni Malkin faceoff won against Blake Lizotte,2022-10-21T00:05:21Z,2,02:42,17:18,3,0,5.0,Pittsburgh Penguins,PIT
+143,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006243,2022020062,Hit,43,HIT,Drew Doughty hit Sidney Crosby,2022-10-21T00:05:29Z,2,02:50,17:10,3,0,26.0,Los Angeles Kings,LAK
+144,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062195,2022020062,Blocked Shot,195,BLOCKED_SHOT,Kris Letang shot blocked shot by Carl Grundstrom,2022-10-21T00:05:39Z,2,03:00,17:00,3,0,26.0,Los Angeles Kings,LAK
+145,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006244,2022020062,Blocked Shot,44,BLOCKED_SHOT,Sidney Crosby shot blocked shot by Drew Doughty,2022-10-21T00:05:46Z,2,03:07,16:53,3,0,26.0,Los Angeles Kings,LAK
+146,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062196,2022020062,Shot,196,SHOT,Sidney Crosby Wrist Shot saved by Jonathan Quick,2022-10-21T00:06:03Z,2,03:24,16:36,3,0,5.0,Pittsburgh Penguins,PIT
+147,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006245,2022020062,Stoppage,45,STOP,Goalie Stopped,2022-10-21T00:06:03Z,2,03:25,16:35,3,0,,,
+148,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062273,2022020062,Faceoff,273,FACEOFF,Jeff Carter faceoff won against Anze Kopitar,2022-10-21T00:07:04Z,2,03:25,16:35,3,0,5.0,Pittsburgh Penguins,PIT
+149,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062197,2022020062,Missed Shot,197,MISSED_SHOT,Danton Heinen Wide of Net Jonathan Quick,2022-10-21T00:07:09Z,2,03:30,16:30,3,0,5.0,Pittsburgh Penguins,PIT
+150,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062274,2022020062,Giveaway,274,GIVEAWAY,Giveaway by Matt Roy,2022-10-21T00:07:48Z,2,04:09,15:51,3,0,26.0,Los Angeles Kings,LAK
+151,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062198,2022020062,Goal,198,GOAL,"Jeff Petry (1) Wrist Shot, assists: Danton Heinen (3)",2022-10-21T00:07:52Z,2,04:13,15:47,4,0,5.0,Pittsburgh Penguins,PIT
+152,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062275,2022020062,Faceoff,275,FACEOFF,Blake Lizotte faceoff won against Ryan Poehling,2022-10-21T00:08:38Z,2,04:13,15:47,4,0,26.0,Los Angeles Kings,LAK
+153,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062199,2022020062,Missed Shot,199,MISSED_SHOT,Carl Grundstrom Wide of Net Tristan Jarry,2022-10-21T00:08:56Z,2,04:31,15:29,4,0,26.0,Los Angeles Kings,LAK
+154,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062277,2022020062,Hit,277,HIT,Josh Archibald hit Brandt Clarke,2022-10-21T00:09:02Z,2,04:37,15:23,4,0,5.0,Pittsburgh Penguins,PIT
+155,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062278,2022020062,Hit,278,HIT,Sean Walker hit Ryan Poehling,2022-10-21T00:09:12Z,2,04:47,15:13,4,0,26.0,Los Angeles Kings,LAK
+156,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062279,2022020062,Hit,279,HIT,Brendan Lemieux hit Jan Rutta,2022-10-21T00:09:27Z,2,05:02,14:58,4,0,26.0,Los Angeles Kings,LAK
+157,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062280,2022020062,Giveaway,280,GIVEAWAY,Giveaway by Arthur Kaliyev,2022-10-21T00:10:00Z,2,05:35,14:25,4,0,26.0,Los Angeles Kings,LAK
+158,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062200,2022020062,Blocked Shot,200,BLOCKED_SHOT,Marcus Pettersson shot blocked shot by Drew Doughty,2022-10-21T00:10:05Z,2,05:40,14:20,4,0,26.0,Los Angeles Kings,LAK
+159,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006246,2022020062,Stoppage,46,STOP,Puck in Netting,2022-10-21T00:10:06Z,2,05:41,14:19,4,0,,,
+160,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062281,2022020062,Faceoff,281,FACEOFF,Phillip Danault faceoff won against Sidney Crosby,2022-10-21T00:10:30Z,2,05:41,14:19,4,0,26.0,Los Angeles Kings,LAK
+161,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062451,2022020062,Missed Shot,451,MISSED_SHOT,Sidney Crosby Wide of Net Jonathan Quick,2022-10-21T00:10:38Z,2,05:49,14:11,4,0,5.0,Pittsburgh Penguins,PIT
+162,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006247,2022020062,Blocked Shot,47,BLOCKED_SHOT,Brian Dumoulin shot blocked shot by Viktor Arvidsson,2022-10-21T00:10:44Z,2,05:55,14:05,4,0,26.0,Los Angeles Kings,LAK
+163,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062282,2022020062,Giveaway,282,GIVEAWAY,Giveaway by Viktor Arvidsson,2022-10-21T00:10:58Z,2,06:09,13:51,4,0,26.0,Los Angeles Kings,LAK
+164,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062452,2022020062,Shot,452,SHOT,Kris Letang Snap Shot saved by Jonathan Quick,2022-10-21T00:11:05Z,2,06:16,13:44,4,0,5.0,Pittsburgh Penguins,PIT
+165,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062283,2022020062,Hit,283,HIT,Mikey Anderson hit Evgeni Malkin,2022-10-21T00:11:29Z,2,06:40,13:20,4,0,26.0,Los Angeles Kings,LAK
+166,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006248,2022020062,Stoppage,48,STOP,Puck in Benches,2022-10-21T00:11:35Z,2,06:45,13:15,4,0,,,
+167,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062284,2022020062,Faceoff,284,FACEOFF,Evgeni Malkin faceoff won against Anze Kopitar,2022-10-21T00:13:44Z,2,06:45,13:15,4,0,5.0,Pittsburgh Penguins,PIT
+168,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062285,2022020062,Hit,285,HIT,Matt Roy hit Jason Zucker,2022-10-21T00:13:49Z,2,06:50,13:10,4,0,26.0,Los Angeles Kings,LAK
+169,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006249,2022020062,Stoppage,49,STOP,Hand Pass,2022-10-21T00:13:50Z,2,06:51,13:09,4,0,,,
+170,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062286,2022020062,Faceoff,286,FACEOFF,Evgeni Malkin faceoff won against Anze Kopitar,2022-10-21T00:14:12Z,2,06:51,13:09,4,0,5.0,Pittsburgh Penguins,PIT
+171,5,26,Pittsburgh Penguins,Los Angeles Kings,202202006250,2022020062,Stoppage,50,STOP,Offside,2022-10-21T00:14:19Z,2,06:58,13:02,4,0,,,
+172,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062287,2022020062,Faceoff,287,FACEOFF,Anze Kopitar faceoff won against Evgeni Malkin,2022-10-21T00:14:43Z,2,06:58,13:02,4,0,26.0,Los Angeles Kings,LAK
+173,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062288,2022020062,Giveaway,288,GIVEAWAY,Giveaway by Anze Kopitar,2022-10-21T00:15:07Z,2,07:22,12:38,4,0,26.0,Los Angeles Kings,LAK
+174,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062453,2022020062,Shot,453,SHOT,Evgeni Malkin Wrist Shot saved by Jonathan Quick,2022-10-21T00:15:13Z,2,07:28,12:32,4,0,5.0,Pittsburgh Penguins,PIT
+175,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062301,2022020062,Stoppage,301,STOP,Video Review,2022-10-21T00:15:14Z,2,07:30,12:30,4,0,,,
+176,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062303,2022020062,Stoppage,303,STOP,Challenge Away: goalie interference,2022-10-21T00:15:14Z,2,07:30,12:30,4,0,,,
+177,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062304,2022020062,Official Challenge,304,CHALLENGE,Coach's Challenge,2022-10-21T00:15:14Z,2,07:30,12:30,4,0,26.0,Los Angeles Kings,LAK
+178,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062290,2022020062,Faceoff,290,FACEOFF,Blake Lizotte faceoff won against Jeff Carter,2022-10-21T00:19:07Z,2,07:30,12:30,4,0,26.0,Los Angeles Kings,LAK
+179,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062455,2022020062,Blocked Shot,455,BLOCKED_SHOT,Kris Letang shot blocked shot by Brendan Lemieux,2022-10-21T00:19:36Z,2,07:59,12:01,4,0,26.0,Los Angeles Kings,LAK
+180,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062291,2022020062,Hit,291,HIT,Kasperi Kapanen hit Carl Grundstrom,2022-10-21T00:19:46Z,2,08:09,11:51,4,0,5.0,Pittsburgh Penguins,PIT
+181,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062456,2022020062,Blocked Shot,456,BLOCKED_SHOT,Jeff Carter shot blocked shot by Brandt Clarke,2022-10-21T00:19:54Z,2,08:17,11:43,4,0,26.0,Los Angeles Kings,LAK
+182,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062457,2022020062,Shot,457,SHOT,Sean Walker Wrist Shot saved by Tristan Jarry,2022-10-21T00:20:01Z,2,08:24,11:36,4,0,26.0,Los Angeles Kings,LAK
+183,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062406,2022020062,Shot,406,SHOT,Sean Walker Wrist Shot saved by Tristan Jarry,2022-10-21T00:20:03Z,2,08:26,11:34,4,0,26.0,Los Angeles Kings,LAK
+184,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062609,2022020062,Penalty,609,PENALTY,Danton Heinen Hooking against Blake Lizotte,2022-10-21T00:20:11Z,2,08:34,11:26,4,0,5.0,Pittsburgh Penguins,PIT
+185,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062292,2022020062,Faceoff,292,FACEOFF,Ryan Poehling faceoff won against Anze Kopitar,2022-10-21T00:20:48Z,2,08:34,11:26,4,0,5.0,Pittsburgh Penguins,PIT
+186,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062293,2022020062,Hit,293,HIT,Adrian Kempe hit Jan Rutta,2022-10-21T00:21:14Z,2,09:00,11:00,4,0,26.0,Los Angeles Kings,LAK
+187,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062295,2022020062,Hit,295,HIT,Jan Rutta hit Gabriel Vilardi,2022-10-21T00:21:21Z,2,09:07,10:53,4,0,5.0,Pittsburgh Penguins,PIT
+188,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062458,2022020062,Blocked Shot,458,BLOCKED_SHOT,Anze Kopitar shot blocked shot by Jan Rutta,2022-10-21T00:21:29Z,2,09:15,10:45,4,0,5.0,Pittsburgh Penguins,PIT
+189,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062305,2022020062,Shot,305,SHOT,Drew Doughty Snap Shot saved by Tristan Jarry,2022-10-21T00:21:34Z,2,09:20,10:40,4,0,26.0,Los Angeles Kings,LAK
+190,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062306,2022020062,Stoppage,306,STOP,Goalie Stopped,2022-10-21T00:21:34Z,2,09:21,10:39,4,0,,,
+191,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062296,2022020062,Faceoff,296,FACEOFF,Jeff Carter faceoff won against Viktor Arvidsson,2022-10-21T00:22:14Z,2,09:21,10:39,4,0,5.0,Pittsburgh Penguins,PIT
+192,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062459,2022020062,Shot,459,SHOT,Arthur Kaliyev Wrist Shot saved by Tristan Jarry,2022-10-21T00:22:26Z,2,09:33,10:27,4,0,26.0,Los Angeles Kings,LAK
+193,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062307,2022020062,Shot,307,SHOT,Arthur Kaliyev Wrist Shot saved by Tristan Jarry,2022-10-21T00:22:29Z,2,09:36,10:24,4,0,26.0,Los Angeles Kings,LAK
+194,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062308,2022020062,Shot,308,SHOT,Trevor Moore Wrist Shot saved by Tristan Jarry,2022-10-21T00:22:30Z,2,09:37,10:23,4,0,26.0,Los Angeles Kings,LAK
+195,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062297,2022020062,Stoppage,297,STOP,Goalie Stopped,2022-10-21T00:22:31Z,2,09:38,10:22,4,0,,,
+196,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062298,2022020062,Faceoff,298,FACEOFF,Ryan Poehling faceoff won against Phillip Danault,2022-10-21T00:23:01Z,2,09:38,10:22,4,0,5.0,Pittsburgh Penguins,PIT
+197,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062460,2022020062,Shot,460,SHOT,Brock McGinn Wrist Shot saved by Jonathan Quick,2022-10-21T00:23:15Z,2,09:52,10:08,4,0,5.0,Pittsburgh Penguins,PIT
+198,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062461,2022020062,Shot,461,SHOT,Jeff Petry Slap Shot saved by Jonathan Quick,2022-10-21T00:23:25Z,2,10:02,09:58,4,0,5.0,Pittsburgh Penguins,PIT
+199,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062462,2022020062,Shot,462,SHOT,Trevor Moore Snap Shot saved by Tristan Jarry,2022-10-21T00:23:33Z,2,10:10,09:50,4,0,26.0,Los Angeles Kings,LAK
+200,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062309,2022020062,Stoppage,309,STOP,Goalie Stopped,2022-10-21T00:23:36Z,2,10:12,09:48,4,0,,,
+201,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062299,2022020062,Faceoff,299,FACEOFF,Jeff Carter faceoff won against Blake Lizotte,2022-10-21T00:24:08Z,2,10:12,09:48,4,0,5.0,Pittsburgh Penguins,PIT
+202,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062463,2022020062,Shot,463,SHOT,Brendan Lemieux Wrist Shot saved by Tristan Jarry,2022-10-21T00:24:24Z,2,10:28,09:32,4,0,26.0,Los Angeles Kings,LAK
+203,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062310,2022020062,Stoppage,310,STOP,Puck in Netting,2022-10-21T00:24:25Z,2,10:29,09:31,4,0,,,
+204,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062300,2022020062,Faceoff,300,FACEOFF,Blake Lizotte faceoff won against Ryan Poehling,2022-10-21T00:24:51Z,2,10:29,09:31,4,0,26.0,Los Angeles Kings,LAK
+205,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062464,2022020062,Shot,464,SHOT,Carl Grundstrom Wrist Shot saved by Tristan Jarry,2022-10-21T00:24:57Z,2,10:35,09:25,4,0,26.0,Los Angeles Kings,LAK
+206,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062651,2022020062,Hit,651,HIT,Drew Doughty hit Rickard Rakell,2022-10-21T00:25:56Z,2,11:34,08:26,4,0,26.0,Los Angeles Kings,LAK
+207,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062311,2022020062,Hit,311,HIT,Mikey Anderson hit Jake Guentzel,2022-10-21T00:25:58Z,2,11:36,08:24,4,0,26.0,Los Angeles Kings,LAK
+208,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062465,2022020062,Missed Shot,465,MISSED_SHOT,Sean Durzi Over Net Tristan Jarry,2022-10-21T00:26:12Z,2,11:50,08:10,4,0,26.0,Los Angeles Kings,LAK
+209,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062652,2022020062,Hit,652,HIT,Matt Roy hit Rickard Rakell,2022-10-21T00:26:18Z,2,11:56,08:04,4,0,26.0,Los Angeles Kings,LAK
+210,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062653,2022020062,Hit,653,HIT,Jeff Petry hit Gabriel Vilardi,2022-10-21T00:26:45Z,2,12:23,07:37,4,0,5.0,Pittsburgh Penguins,PIT
+211,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062654,2022020062,Hit,654,HIT,Jeff Petry hit Anze Kopitar,2022-10-21T00:26:57Z,2,12:35,07:25,4,0,5.0,Pittsburgh Penguins,PIT
+212,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062312,2022020062,Takeaway,312,TAKEAWAY,Takeaway by Evgeni Malkin,2022-10-21T00:27:11Z,2,12:49,07:11,4,0,5.0,Pittsburgh Penguins,PIT
+213,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062466,2022020062,Shot,466,SHOT,Bryan Rust Wrist Shot saved by Jonathan Quick,2022-10-21T00:27:13Z,2,12:51,07:09,4,0,5.0,Pittsburgh Penguins,PIT
+214,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062655,2022020062,Takeaway,655,TAKEAWAY,Takeaway by Bryan Rust,2022-10-21T00:27:19Z,2,12:57,07:03,4,0,5.0,Pittsburgh Penguins,PIT
+215,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062657,2022020062,Giveaway,657,GIVEAWAY,Giveaway by Bryan Rust,2022-10-21T00:27:23Z,2,13:01,06:59,4,0,5.0,Pittsburgh Penguins,PIT
+216,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062467,2022020062,Shot,467,SHOT,Gabriel Vilardi Wrist Shot saved by Tristan Jarry,2022-10-21T00:27:40Z,2,13:18,06:42,4,0,26.0,Los Angeles Kings,LAK
+217,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062468,2022020062,Shot,468,SHOT,Danton Heinen Wrist Shot saved by Jonathan Quick,2022-10-21T00:27:55Z,2,13:33,06:27,4,0,5.0,Pittsburgh Penguins,PIT
+218,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062469,2022020062,Shot,469,SHOT,Viktor Arvidsson Wrist Shot saved by Tristan Jarry,2022-10-21T00:28:27Z,2,14:05,05:55,4,0,26.0,Los Angeles Kings,LAK
+219,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062658,2022020062,Takeaway,658,TAKEAWAY,Takeaway by Carl Grundstrom,2022-10-21T00:28:48Z,2,14:26,05:34,4,0,26.0,Los Angeles Kings,LAK
+220,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062659,2022020062,Hit,659,HIT,Blake Lizotte hit Brian Dumoulin,2022-10-21T00:28:57Z,2,14:35,05:25,4,0,26.0,Los Angeles Kings,LAK
+221,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062660,2022020062,Giveaway,660,GIVEAWAY,Giveaway by Sidney Crosby,2022-10-21T00:29:12Z,2,14:50,05:10,4,0,5.0,Pittsburgh Penguins,PIT
+222,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062470,2022020062,Shot,470,SHOT,Brendan Lemieux Wrist Shot saved by Tristan Jarry,2022-10-21T00:29:17Z,2,14:55,05:05,4,0,26.0,Los Angeles Kings,LAK
+223,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062313,2022020062,Missed Shot,313,MISSED_SHOT,Blake Lizotte Wide of Net Tristan Jarry,2022-10-21T00:29:19Z,2,14:57,05:03,4,0,26.0,Los Angeles Kings,LAK
+224,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062661,2022020062,Hit,661,HIT,Jan Rutta hit Carl Grundstrom,2022-10-21T00:29:20Z,2,14:58,05:02,4,0,5.0,Pittsburgh Penguins,PIT
+225,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062679,2022020062,Hit,679,HIT,Carl Grundstrom hit Rickard Rakell,2022-10-21T00:29:27Z,2,15:05,04:55,4,0,26.0,Los Angeles Kings,LAK
+226,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062664,2022020062,Hit,664,HIT,Brendan Lemieux hit Jan Rutta,2022-10-21T00:29:28Z,2,15:06,04:54,4,0,26.0,Los Angeles Kings,LAK
+227,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062662,2022020062,Hit,662,HIT,Brendan Lemieux hit Jake Guentzel,2022-10-21T00:29:30Z,2,15:08,04:52,4,0,26.0,Los Angeles Kings,LAK
+228,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062471,2022020062,Shot,471,SHOT,Sidney Crosby Wrist Shot saved by Jonathan Quick,2022-10-21T00:29:36Z,2,15:14,04:46,4,0,5.0,Pittsburgh Penguins,PIT
+229,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062314,2022020062,Stoppage,314,STOP,Offside,2022-10-21T00:29:42Z,2,15:20,04:40,4,0,,,
+230,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062665,2022020062,Faceoff,665,FACEOFF,Evgeni Malkin faceoff won against Anze Kopitar,2022-10-21T00:31:57Z,2,15:20,04:40,4,0,5.0,Pittsburgh Penguins,PIT
+231,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062472,2022020062,Blocked Shot,472,BLOCKED_SHOT,Bryan Rust shot blocked shot by Matt Roy,2022-10-21T00:32:01Z,2,15:24,04:36,4,0,26.0,Los Angeles Kings,LAK
+232,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062315,2022020062,Hit,315,HIT,Jason Zucker hit Matt Roy,2022-10-21T00:32:20Z,2,15:43,04:17,4,0,5.0,Pittsburgh Penguins,PIT
+233,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062668,2022020062,Takeaway,668,TAKEAWAY,Takeaway by Marcus Pettersson,2022-10-21T00:32:32Z,2,15:55,04:05,4,0,5.0,Pittsburgh Penguins,PIT
+234,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062473,2022020062,Blocked Shot,473,BLOCKED_SHOT,Adrian Kempe shot blocked shot by Marcus Pettersson,2022-10-21T00:32:34Z,2,15:57,04:03,4,0,5.0,Pittsburgh Penguins,PIT
+235,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062316,2022020062,Stoppage,316,STOP,Puck in Netting,2022-10-21T00:32:35Z,2,15:58,04:02,4,0,,,
+236,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062669,2022020062,Faceoff,669,FACEOFF,Jeff Carter faceoff won against Phillip Danault,2022-10-21T00:33:11Z,2,15:58,04:02,4,0,5.0,Pittsburgh Penguins,PIT
+237,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062474,2022020062,Shot,474,SHOT,Jeff Carter Wrist Shot saved by Jonathan Quick,2022-10-21T00:33:42Z,2,16:29,03:31,4,0,5.0,Pittsburgh Penguins,PIT
+238,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062475,2022020062,Shot,475,SHOT,Rickard Rakell Wrist Shot saved by Jonathan Quick,2022-10-21T00:34:11Z,2,16:58,03:02,4,0,5.0,Pittsburgh Penguins,PIT
+239,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062476,2022020062,Shot,476,SHOT,Jake Guentzel Wrist Shot saved by Jonathan Quick,2022-10-21T00:34:19Z,2,17:06,02:54,4,0,5.0,Pittsburgh Penguins,PIT
+240,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062319,2022020062,Stoppage,319,STOP,TV timeout,2022-10-21T00:34:27Z,2,17:14,02:46,4,0,,,
+241,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062730,2022020062,Penalty,730,PENALTY,Jake Guentzel Hi stick - double minor against Sean Walker,2022-10-21T00:34:27Z,2,17:14,02:46,4,0,5.0,Pittsburgh Penguins,PIT
+242,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062670,2022020062,Faceoff,670,FACEOFF,Anze Kopitar faceoff won against Ryan Poehling,2022-10-21T00:36:44Z,2,17:14,02:46,4,0,26.0,Los Angeles Kings,LAK
+243,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062477,2022020062,Shot,477,SHOT,Adrian Kempe Wrist Shot saved by Tristan Jarry,2022-10-21T00:37:21Z,2,17:51,02:09,4,0,26.0,Los Angeles Kings,LAK
+244,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062478,2022020062,Shot,478,SHOT,Adrian Kempe Wrist Shot saved by Tristan Jarry,2022-10-21T00:37:53Z,2,18:23,01:37,4,0,26.0,Los Angeles Kings,LAK
+245,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062320,2022020062,Stoppage,320,STOP,Goalie Stopped,2022-10-21T00:37:55Z,2,18:24,01:36,4,0,,,
+246,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062671,2022020062,Faceoff,671,FACEOFF,Phillip Danault faceoff won against Ryan Poehling,2022-10-21T00:38:19Z,2,18:24,01:36,4,0,26.0,Los Angeles Kings,LAK
+247,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062479,2022020062,Blocked Shot,479,BLOCKED_SHOT,Sean Durzi shot blocked shot by Brock McGinn,2022-10-21T00:38:41Z,2,18:46,01:14,4,0,5.0,Pittsburgh Penguins,PIT
+248,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062321,2022020062,Shot,321,SHOT,Arthur Kaliyev Snap Shot saved by Tristan Jarry,2022-10-21T00:38:47Z,2,18:52,01:08,4,0,26.0,Los Angeles Kings,LAK
+249,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062322,2022020062,Stoppage,322,STOP,Goalie Stopped,2022-10-21T00:38:48Z,2,18:53,01:07,4,0,,,
+250,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062673,2022020062,Faceoff,673,FACEOFF,Jeff Carter faceoff won against Phillip Danault,2022-10-21T00:39:20Z,2,18:53,01:07,4,0,5.0,Pittsburgh Penguins,PIT
+251,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062323,2022020062,Stoppage,323,STOP,Puck in Netting,2022-10-21T00:39:39Z,2,19:11,00:49,4,0,,,
+252,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062674,2022020062,Faceoff,674,FACEOFF,Jeff Carter faceoff won against Phillip Danault,2022-10-21T00:40:00Z,2,19:11,00:49,4,0,5.0,Pittsburgh Penguins,PIT
+253,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062675,2022020062,Takeaway,675,TAKEAWAY,Takeaway by Jeff Petry,2022-10-21T00:40:19Z,2,19:30,00:30,4,0,5.0,Pittsburgh Penguins,PIT
+254,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062677,2022020062,Giveaway,677,GIVEAWAY,Giveaway by Jeff Petry,2022-10-21T00:40:20Z,2,19:31,00:29,4,0,5.0,Pittsburgh Penguins,PIT
+255,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062678,2022020062,Takeaway,678,TAKEAWAY,Takeaway by Ryan Poehling,2022-10-21T00:40:21Z,2,19:32,00:28,4,0,5.0,Pittsburgh Penguins,PIT
+256,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062324,2022020062,Period End,324,PERIOD_END,End of 2nd Period,2022-10-21T00:40:49Z,2,20:00,00:00,4,0,,,
+257,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062327,2022020062,Period Official,327,PERIOD_OFFICIAL,Period Official,2022-10-21T00:40:58Z,2,20:00,00:00,4,0,,,
+258,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062328,2022020062,Period Ready,328,PERIOD_READY,Period Ready,2022-10-21T00:58:50Z,3,00:00,20:00,4,0,,,
+259,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062680,2022020062,Period Start,680,PERIOD_START,Period Start,2022-10-21T00:59:43Z,3,00:00,20:00,4,0,,,
+260,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062681,2022020062,Faceoff,681,FACEOFF,Gabriel Vilardi faceoff won against Ryan Poehling,2022-10-21T00:59:43Z,3,00:00,20:00,4,0,26.0,Los Angeles Kings,LAK
+261,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062480,2022020062,Shot,480,SHOT,Kevin Fiala Slap Shot saved by Tristan Jarry,2022-10-21T01:00:37Z,3,00:54,19:06,4,0,26.0,Los Angeles Kings,LAK
+262,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062329,2022020062,Stoppage,329,STOP,Goalie Stopped,2022-10-21T01:00:39Z,3,00:55,19:05,4,0,,,
+263,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062682,2022020062,Faceoff,682,FACEOFF,Ryan Poehling faceoff won against Blake Lizotte,2022-10-21T01:01:07Z,3,00:55,19:05,4,0,5.0,Pittsburgh Penguins,PIT
+264,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062481,2022020062,Missed Shot,481,MISSED_SHOT,Carl Grundstrom Wide of Net Tristan Jarry,2022-10-21T01:01:16Z,3,01:04,18:56,4,0,26.0,Los Angeles Kings,LAK
+265,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062330,2022020062,Stoppage,330,STOP,Puck in Netting,2022-10-21T01:01:16Z,3,01:05,18:55,4,0,,,
+266,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062683,2022020062,Faceoff,683,FACEOFF,Jeff Carter faceoff won against Blake Lizotte,2022-10-21T01:01:39Z,3,01:05,18:55,4,0,5.0,Pittsburgh Penguins,PIT
+267,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062482,2022020062,Missed Shot,482,MISSED_SHOT,Blake Lizotte Wide of Net Tristan Jarry,2022-10-21T01:01:50Z,3,01:16,18:44,4,0,26.0,Los Angeles Kings,LAK
+268,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062684,2022020062,Takeaway,684,TAKEAWAY,Takeaway by Sidney Crosby,2022-10-21T01:01:59Z,3,01:25,18:35,4,0,5.0,Pittsburgh Penguins,PIT
+269,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062685,2022020062,Giveaway,685,GIVEAWAY,Giveaway by Sidney Crosby,2022-10-21T01:02:02Z,3,01:28,18:32,4,0,5.0,Pittsburgh Penguins,PIT
+270,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062483,2022020062,Missed Shot,483,MISSED_SHOT,Blake Lizotte Wide of Net Tristan Jarry,2022-10-21T01:02:09Z,3,01:35,18:25,4,0,26.0,Los Angeles Kings,LAK
+271,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062331,2022020062,Takeaway,331,TAKEAWAY,Takeaway by Viktor Arvidsson,2022-10-21T01:02:53Z,3,02:19,17:41,4,0,26.0,Los Angeles Kings,LAK
+272,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062687,2022020062,Takeaway,687,TAKEAWAY,Takeaway by Evgeni Malkin,2022-10-21T01:02:57Z,3,02:23,17:37,4,0,5.0,Pittsburgh Penguins,PIT
+273,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062484,2022020062,Missed Shot,484,MISSED_SHOT,Kris Letang Wide of Net Jonathan Quick,2022-10-21T01:03:02Z,3,02:28,17:32,4,0,5.0,Pittsburgh Penguins,PIT
+274,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062485,2022020062,Goal,485,GOAL,"Jeff Carter (2) Wrist Shot, assists: Kasperi Kapanen (2), Jeff Petry (3)",2022-10-21T01:03:36Z,3,03:01,16:59,5,0,5.0,Pittsburgh Penguins,PIT
+275,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062688,2022020062,Faceoff,688,FACEOFF,Anze Kopitar faceoff won against Ryan Poehling,2022-10-21T01:04:16Z,3,03:01,16:59,5,0,26.0,Los Angeles Kings,LAK
+276,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062689,2022020062,Hit,689,HIT,Josh Archibald hit Sean Durzi,2022-10-21T01:04:46Z,3,03:31,16:29,5,0,5.0,Pittsburgh Penguins,PIT
+277,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062486,2022020062,Shot,486,SHOT,Matt Roy Slap Shot saved by Tristan Jarry,2022-10-21T01:04:51Z,3,03:36,16:24,5,0,26.0,Los Angeles Kings,LAK
+278,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062332,2022020062,Takeaway,332,TAKEAWAY,Takeaway by Josh Archibald,2022-10-21T01:04:54Z,3,03:39,16:21,5,0,5.0,Pittsburgh Penguins,PIT
+279,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062690,2022020062,Takeaway,690,TAKEAWAY,Takeaway by Sidney Crosby,2022-10-21T01:05:26Z,3,04:11,15:49,5,0,5.0,Pittsburgh Penguins,PIT
+280,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062828,2022020062,Penalty,828,PENALTY,Sidney Crosby Tripping against Sean Durzi,2022-10-21T01:05:35Z,3,04:20,15:40,5,0,5.0,Pittsburgh Penguins,PIT
+281,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062693,2022020062,Faceoff,693,FACEOFF,Ryan Poehling faceoff won against Phillip Danault,2022-10-21T01:06:43Z,3,04:20,15:40,5,0,5.0,Pittsburgh Penguins,PIT
+282,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062694,2022020062,Giveaway,694,GIVEAWAY,Giveaway by Phillip Danault,2022-10-21T01:06:59Z,3,04:36,15:24,5,0,26.0,Los Angeles Kings,LAK
+283,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062487,2022020062,Goal,487,GOAL,"Ryan Poehling (1) Slap Shot, assists: none",2022-10-21T01:07:01Z,3,04:38,15:22,6,0,5.0,Pittsburgh Penguins,PIT
+284,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062695,2022020062,Faceoff,695,FACEOFF,Jeff Carter faceoff won against Gabriel Vilardi,2022-10-21T01:07:39Z,3,04:38,15:22,6,0,5.0,Pittsburgh Penguins,PIT
+285,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062488,2022020062,Shot,488,SHOT,Drew Doughty Slap Shot saved by Tristan Jarry,2022-10-21T01:08:24Z,3,05:23,14:37,6,0,26.0,Los Angeles Kings,LAK
+286,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062696,2022020062,Giveaway,696,GIVEAWAY,Giveaway by Drew Doughty,2022-10-21T01:08:32Z,3,05:31,14:29,6,0,26.0,Los Angeles Kings,LAK
+287,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062489,2022020062,Shot,489,SHOT,Adrian Kempe Wrist Shot saved by Tristan Jarry,2022-10-21T01:08:35Z,3,05:34,14:26,6,0,26.0,Los Angeles Kings,LAK
+288,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062334,2022020062,Stoppage,334,STOP,Goalie Stopped,2022-10-21T01:08:36Z,3,05:35,14:25,6,0,,,
+289,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062697,2022020062,Faceoff,697,FACEOFF,Blake Lizotte faceoff won against Ryan Poehling,2022-10-21T01:09:06Z,3,05:35,14:25,6,0,26.0,Los Angeles Kings,LAK
+290,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062490,2022020062,Blocked Shot,490,BLOCKED_SHOT,Carl Grundstrom shot blocked shot by Jeff Petry,2022-10-21T01:09:34Z,3,06:03,13:57,6,0,5.0,Pittsburgh Penguins,PIT
+291,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062335,2022020062,Blocked Shot,335,BLOCKED_SHOT,Brandt Clarke shot blocked shot by Marcus Pettersson,2022-10-21T01:09:39Z,3,06:08,13:52,6,0,5.0,Pittsburgh Penguins,PIT
+292,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062491,2022020062,Missed Shot,491,MISSED_SHOT,Brandt Clarke Wide of Net Tristan Jarry,2022-10-21T01:09:46Z,3,06:15,13:45,6,0,26.0,Los Angeles Kings,LAK
+293,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062698,2022020062,Takeaway,698,TAKEAWAY,Takeaway by Rickard Rakell,2022-10-21T01:10:07Z,3,06:36,13:24,6,0,5.0,Pittsburgh Penguins,PIT
+294,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062492,2022020062,Shot,492,SHOT,Rickard Rakell Wrist Shot saved by Jonathan Quick,2022-10-21T01:10:14Z,3,06:43,13:17,6,0,5.0,Pittsburgh Penguins,PIT
+295,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062699,2022020062,Stoppage,699,STOP,Goalie Stopped,2022-10-21T01:10:18Z,3,06:46,13:14,6,0,,,
+296,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062700,2022020062,Faceoff,700,FACEOFF,Sidney Crosby faceoff won against Quinton Byfield,2022-10-21T01:12:36Z,3,06:46,13:14,6,0,5.0,Pittsburgh Penguins,PIT
+297,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062337,2022020062,Stoppage,337,STOP,Referee or Linesman,2022-10-21T01:12:42Z,3,06:51,13:09,6,0,,,
+298,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062851,2022020062,Faceoff,851,FACEOFF,Sidney Crosby faceoff won against Quinton Byfield,2022-10-21T01:13:39Z,3,06:51,13:09,6,0,5.0,Pittsburgh Penguins,PIT
+299,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062407,2022020062,Missed Shot,407,MISSED_SHOT,Sidney Crosby Wide of Net Jonathan Quick,2022-10-21T01:13:56Z,3,07:08,12:52,6,0,5.0,Pittsburgh Penguins,PIT
+300,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062493,2022020062,Blocked Shot,493,BLOCKED_SHOT,Drew Doughty shot blocked shot by Kris Letang,2022-10-21T01:14:09Z,3,07:21,12:39,6,0,5.0,Pittsburgh Penguins,PIT
+301,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062494,2022020062,Shot,494,SHOT,Bryan Rust Snap Shot saved by Jonathan Quick,2022-10-21T01:14:39Z,3,07:51,12:09,6,0,5.0,Pittsburgh Penguins,PIT
+302,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062852,2022020062,Hit,852,HIT,Blake Lizotte hit Jason Zucker,2022-10-21T01:14:44Z,3,07:56,12:04,6,0,26.0,Los Angeles Kings,LAK
+303,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062495,2022020062,Shot,495,SHOT,Sean Durzi Wrist Shot saved by Tristan Jarry,2022-10-21T01:15:08Z,3,08:20,11:40,6,0,26.0,Los Angeles Kings,LAK
+304,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062853,2022020062,Hit,853,HIT,Jan Rutta hit Brendan Lemieux,2022-10-21T01:15:24Z,3,08:36,11:24,6,0,5.0,Pittsburgh Penguins,PIT
+305,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062854,2022020062,Hit,854,HIT,Carl Grundstrom hit Jeff Carter,2022-10-21T01:15:32Z,3,08:44,11:16,6,0,26.0,Los Angeles Kings,LAK
+306,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062496,2022020062,Shot,496,SHOT,Josh Archibald Wrist Shot saved by Jonathan Quick,2022-10-21T01:16:00Z,3,09:12,10:48,6,0,5.0,Pittsburgh Penguins,PIT
+307,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062339,2022020062,Stoppage,339,STOP,Goalie Stopped,2022-10-21T01:16:01Z,3,09:13,10:47,6,0,,,
+308,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062855,2022020062,Faceoff,855,FACEOFF,Ryan Poehling faceoff won against Anze Kopitar,2022-10-21T01:16:28Z,3,09:13,10:47,6,0,5.0,Pittsburgh Penguins,PIT
+309,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062856,2022020062,Hit,856,HIT,Brian Dumoulin hit Gabriel Vilardi,2022-10-21T01:16:52Z,3,09:37,10:23,6,0,5.0,Pittsburgh Penguins,PIT
+310,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062857,2022020062,Hit,857,HIT,Quinton Byfield hit Rickard Rakell,2022-10-21T01:17:35Z,3,10:20,09:40,6,0,26.0,Los Angeles Kings,LAK
+311,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062858,2022020062,Hit,858,HIT,Sidney Crosby hit Arthur Kaliyev,2022-10-21T01:17:45Z,3,10:30,09:30,6,0,5.0,Pittsburgh Penguins,PIT
+312,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062859,2022020062,Hit,859,HIT,Kevin Fiala hit Sidney Crosby,2022-10-21T01:17:58Z,3,10:43,09:17,6,0,26.0,Los Angeles Kings,LAK
+313,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062860,2022020062,Hit,860,HIT,Sidney Crosby hit Mikey Anderson,2022-10-21T01:18:07Z,3,10:52,09:08,6,0,5.0,Pittsburgh Penguins,PIT
+314,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062861,2022020062,Takeaway,861,TAKEAWAY,Takeaway by Matt Roy,2022-10-21T01:18:46Z,3,11:31,08:29,6,0,26.0,Los Angeles Kings,LAK
+315,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062341,2022020062,Penalty,341,PENALTY,Jason Zucker Slashing against Brendan Lemieux,2022-10-21T01:18:52Z,3,11:37,08:23,6,0,5.0,Pittsburgh Penguins,PIT
+316,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062343,2022020062,Penalty,343,PENALTY,Brendan Lemieux Roughing against Tristan Jarry,2022-10-21T01:18:52Z,3,11:37,08:23,6,0,26.0,Los Angeles Kings,LAK
+317,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062862,2022020062,Stoppage,862,STOP,TV timeout,2022-10-21T01:18:52Z,3,11:37,08:23,6,0,,,
+318,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062987,2022020062,Penalty,987,PENALTY,Jason Zucker High-sticking against Brendan Lemieux served by Danton Heinen,2022-10-21T01:18:52Z,3,11:37,08:23,6,0,5.0,Pittsburgh Penguins,PIT
+319,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062863,2022020062,Faceoff,863,FACEOFF,Anze Kopitar faceoff won against Ryan Poehling,2022-10-21T01:22:18Z,3,11:37,08:23,6,0,26.0,Los Angeles Kings,LAK
+320,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062997,2022020062,Penalty,997,PENALTY,Adrian Kempe Tripping against Brock McGinn,2022-10-21T01:22:27Z,3,11:45,08:15,6,0,26.0,Los Angeles Kings,LAK
+321,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062864,2022020062,Faceoff,864,FACEOFF,Evgeni Malkin faceoff won against Quinton Byfield,2022-10-21T01:23:11Z,3,11:45,08:15,6,0,5.0,Pittsburgh Penguins,PIT
+322,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062497,2022020062,Shot,497,SHOT,Brian Dumoulin Wrist Shot saved by Jonathan Quick,2022-10-21T01:23:16Z,3,11:50,08:10,6,0,5.0,Pittsburgh Penguins,PIT
+323,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062498,2022020062,Missed Shot,498,MISSED_SHOT,Brandt Clarke Goalpost Tristan Jarry,2022-10-21T01:23:51Z,3,12:25,07:35,6,0,26.0,Los Angeles Kings,LAK
+324,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062865,2022020062,Hit,865,HIT,Kris Letang hit Blake Lizotte,2022-10-21T01:24:15Z,3,12:49,07:11,6,0,5.0,Pittsburgh Penguins,PIT
+325,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062499,2022020062,Shot,499,SHOT,Kasperi Kapanen Tip-In saved by Jonathan Quick,2022-10-21T01:24:48Z,3,13:22,06:38,6,0,5.0,Pittsburgh Penguins,PIT
+326,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062500,2022020062,Shot,500,SHOT,Sean Durzi Wrist Shot saved by Tristan Jarry,2022-10-21T01:24:56Z,3,13:30,06:30,6,0,26.0,Los Angeles Kings,LAK
+327,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062751,2022020062,Shot,751,SHOT,Matt Roy Wrist Shot saved by Tristan Jarry,2022-10-21T01:25:03Z,3,13:37,06:23,6,0,26.0,Los Angeles Kings,LAK
+328,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062752,2022020062,Missed Shot,752,MISSED_SHOT,Sean Walker Wide of Net Tristan Jarry,2022-10-21T01:25:52Z,3,14:26,05:34,6,0,26.0,Los Angeles Kings,LAK
+329,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062753,2022020062,Shot,753,SHOT,Brian Dumoulin Slap Shot saved by Jonathan Quick,2022-10-21T01:26:21Z,3,14:55,05:05,6,0,5.0,Pittsburgh Penguins,PIT
+330,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062866,2022020062,Takeaway,866,TAKEAWAY,Takeaway by Evgeni Malkin,2022-10-21T01:26:26Z,3,15:00,05:00,6,0,5.0,Pittsburgh Penguins,PIT
+331,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062868,2022020062,Takeaway,868,TAKEAWAY,Takeaway by Jeff Carter,2022-10-21T01:26:55Z,3,15:29,04:31,6,0,5.0,Pittsburgh Penguins,PIT
+332,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062869,2022020062,Hit,869,HIT,Adrian Kempe hit Jan Rutta,2022-10-21T01:27:22Z,3,15:56,04:04,6,0,26.0,Los Angeles Kings,LAK
+333,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062754,2022020062,Missed Shot,754,MISSED_SHOT,Brian Dumoulin Wide of Net Jonathan Quick,2022-10-21T01:27:30Z,3,16:04,03:56,6,0,5.0,Pittsburgh Penguins,PIT
+334,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062408,2022020062,Missed Shot,408,MISSED_SHOT,Carl Grundstrom Wide of Net Tristan Jarry,2022-10-21T01:27:55Z,3,16:29,03:31,6,0,26.0,Los Angeles Kings,LAK
+335,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062870,2022020062,Hit,870,HIT,Trevor Moore hit Marcus Pettersson,2022-10-21T01:28:04Z,3,16:38,03:22,6,0,26.0,Los Angeles Kings,LAK
+336,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062755,2022020062,Shot,755,SHOT,Sidney Crosby Slap Shot saved by Jonathan Quick,2022-10-21T01:28:08Z,3,16:42,03:18,6,0,5.0,Pittsburgh Penguins,PIT
+337,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062346,2022020062,Stoppage,346,STOP,Goalie Stopped,2022-10-21T01:28:10Z,3,16:43,03:17,6,0,,,
+338,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062871,2022020062,Faceoff,871,FACEOFF,Evgeni Malkin faceoff won against Quinton Byfield,2022-10-21T01:30:25Z,3,16:43,03:17,6,0,5.0,Pittsburgh Penguins,PIT
+339,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062756,2022020062,Blocked Shot,756,BLOCKED_SHOT,Pierre-Olivier Joseph shot blocked shot by Arthur Kaliyev,2022-10-21T01:30:31Z,3,16:49,03:11,6,0,26.0,Los Angeles Kings,LAK
+340,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062757,2022020062,Shot,757,SHOT,Kris Letang Wrist Shot saved by Jonathan Quick,2022-10-21T01:30:46Z,3,17:04,02:56,6,0,5.0,Pittsburgh Penguins,PIT
+341,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062347,2022020062,Shot,347,SHOT,Jason Zucker Backhand saved by Jonathan Quick,2022-10-21T01:30:48Z,3,17:06,02:54,6,0,5.0,Pittsburgh Penguins,PIT
+342,5,26,Pittsburgh Penguins,Los Angeles Kings,20220200621049,2022020062,Penalty,1049,PENALTY,Pierre-Olivier Joseph Tripping against Kevin Fiala,2022-10-21T01:31:02Z,3,17:20,02:40,6,0,5.0,Pittsburgh Penguins,PIT
+343,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062872,2022020062,Faceoff,872,FACEOFF,Blake Lizotte faceoff won against Ryan Poehling,2022-10-21T01:31:39Z,3,17:20,02:40,6,0,26.0,Los Angeles Kings,LAK
+344,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062758,2022020062,Goal,758,GOAL,"Carl Grundstrom (1) Wrist Shot, assists: Brandt Clarke (1), Drew Doughty (2)",2022-10-21T01:31:51Z,3,17:32,02:28,6,1,26.0,Los Angeles Kings,LAK
+345,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062873,2022020062,Faceoff,873,FACEOFF,Jeff Carter faceoff won against Blake Lizotte,2022-10-21T01:32:29Z,3,17:32,02:28,6,1,5.0,Pittsburgh Penguins,PIT
+346,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062759,2022020062,Shot,759,SHOT,Brock McGinn Wrist Shot saved by Jonathan Quick,2022-10-21T01:33:27Z,3,18:30,01:30,6,1,5.0,Pittsburgh Penguins,PIT
+347,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062409,2022020062,Blocked Shot,409,BLOCKED_SHOT,Jan Rutta shot blocked shot by Matt Roy,2022-10-21T01:33:30Z,3,18:33,01:27,6,1,26.0,Los Angeles Kings,LAK
+348,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062874,2022020062,Stoppage,874,STOP,Puck in Netting,2022-10-21T01:33:31Z,3,18:35,01:25,6,1,,,
+349,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062875,2022020062,Faceoff,875,FACEOFF,Blake Lizotte faceoff won against Ryan Poehling,2022-10-21T01:33:59Z,3,18:35,01:25,6,1,26.0,Los Angeles Kings,LAK
+350,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062876,2022020062,Takeaway,876,TAKEAWAY,Takeaway by Ryan Poehling,2022-10-21T01:34:07Z,3,18:43,01:17,6,1,5.0,Pittsburgh Penguins,PIT
+351,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062760,2022020062,Blocked Shot,760,BLOCKED_SHOT,Brendan Lemieux shot blocked shot by Pierre-Olivier Joseph,2022-10-21T01:34:16Z,3,18:52,01:08,6,1,5.0,Pittsburgh Penguins,PIT
+352,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062348,2022020062,Period End,348,PERIOD_END,End of 3rd Period,2022-10-21T01:35:25Z,3,20:00,00:00,6,1,,,
+353,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062901,2022020062,Period Official,901,PERIOD_OFFICIAL,Period Official,2022-10-21T01:35:31Z,3,20:00,00:00,6,1,,,
+354,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062902,2022020062,Game End,902,GAME_END,Game End,2022-10-21T01:35:33Z,3,20:00,00:00,6,1,,,
+355,5,26,Pittsburgh Penguins,Los Angeles Kings,2022020062903,2022020062,Game Official,903,GAME_OFFICIAL,Game Official,2022-10-21T01:42:13Z,3,20:00,00:00,6,1,,,

@@ -1,0 +1,339 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,10,6,Toronto Maple Leafs,Boston Bruins,20220208061,2022020806,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-02-01T23:45:12Z,1,00:00,20:00,0,0,,,
+1,10,6,Toronto Maple Leafs,Boston Bruins,20220208065,2022020806,Period Ready,5,PERIOD_READY,Period Ready,2023-02-02T00:38:22Z,1,00:00,20:00,0,0,,,
+2,10,6,Toronto Maple Leafs,Boston Bruins,202202080651,2022020806,Period Start,51,PERIOD_START,Period Start,2023-02-02T00:42:39Z,1,00:00,20:00,0,0,,,
+3,10,6,Toronto Maple Leafs,Boston Bruins,202202080652,2022020806,Faceoff,52,FACEOFF,Patrice Bergeron faceoff won against John Tavares,2023-02-02T00:42:39Z,1,00:00,20:00,0,0,6.0,Boston Bruins,BOS
+4,10,6,Toronto Maple Leafs,Boston Bruins,202202080653,2022020806,Giveaway,53,GIVEAWAY,Giveaway by Ilya Samsonov,2023-02-02T00:42:52Z,1,00:13,19:47,0,0,10.0,Toronto Maple Leafs,TOR
+5,10,6,Toronto Maple Leafs,Boston Bruins,20220208068,2022020806,Missed Shot,8,MISSED_SHOT,Brad Marchand Hit Crossbar Ilya Samsonov,2023-02-02T00:42:56Z,1,00:17,19:43,0,0,6.0,Boston Bruins,BOS
+6,10,6,Toronto Maple Leafs,Boston Bruins,20220208069,2022020806,Shot,9,SHOT,Charlie McAvoy Wrist Shot saved by Ilya Samsonov,2023-02-02T00:43:03Z,1,00:24,19:36,0,0,6.0,Boston Bruins,BOS
+7,10,6,Toronto Maple Leafs,Boston Bruins,202202080654,2022020806,Giveaway,54,GIVEAWAY,Giveaway by Brad Marchand,2023-02-02T00:43:06Z,1,00:27,19:33,0,0,6.0,Boston Bruins,BOS
+8,10,6,Toronto Maple Leafs,Boston Bruins,202202080610,2022020806,Shot,10,SHOT,David Pastrnak Wrist Shot saved by Ilya Samsonov,2023-02-02T00:43:17Z,1,00:38,19:22,0,0,6.0,Boston Bruins,BOS
+9,10,6,Toronto Maple Leafs,Boston Bruins,2022020806151,2022020806,Stoppage,151,STOP,Icing,2023-02-02T00:43:34Z,1,00:55,19:05,0,0,,,
+10,10,6,Toronto Maple Leafs,Boston Bruins,202202080655,2022020806,Faceoff,55,FACEOFF,Alexander Kerfoot faceoff won against Charlie Coyle,2023-02-02T00:44:09Z,1,00:55,19:05,0,0,10.0,Toronto Maple Leafs,TOR
+11,10,6,Toronto Maple Leafs,Boston Bruins,202202080611,2022020806,Blocked Shot,11,BLOCKED_SHOT,Mark Giordano shot blocked shot by Brandon Carlo,2023-02-02T00:44:12Z,1,00:58,19:02,0,0,6.0,Boston Bruins,BOS
+12,10,6,Toronto Maple Leafs,Boston Bruins,202202080612,2022020806,Shot,12,SHOT,Justin Holl Snap Shot saved by Linus Ullmark,2023-02-02T00:44:14Z,1,01:00,19:00,0,0,10.0,Toronto Maple Leafs,TOR
+13,10,6,Toronto Maple Leafs,Boston Bruins,2022020806152,2022020806,Stoppage,152,STOP,Goalie Stopped,2023-02-02T00:44:14Z,1,01:00,19:00,0,0,,,
+14,10,6,Toronto Maple Leafs,Boston Bruins,202202080656,2022020806,Faceoff,56,FACEOFF,William Nylander faceoff won against David Krejci,2023-02-02T00:44:47Z,1,01:00,19:00,0,0,10.0,Toronto Maple Leafs,TOR
+15,10,6,Toronto Maple Leafs,Boston Bruins,202202080613,2022020806,Missed Shot,13,MISSED_SHOT,William Nylander Wide of Net Linus Ullmark,2023-02-02T00:44:54Z,1,01:07,18:53,0,0,10.0,Toronto Maple Leafs,TOR
+16,10,6,Toronto Maple Leafs,Boston Bruins,202202080614,2022020806,Shot,14,SHOT,David Krejci Wrist Shot saved by Ilya Samsonov,2023-02-02T00:45:10Z,1,01:23,18:37,0,0,6.0,Boston Bruins,BOS
+17,10,6,Toronto Maple Leafs,Boston Bruins,202202080615,2022020806,Shot,15,SHOT,Taylor Hall Wrist Shot saved by Ilya Samsonov,2023-02-02T00:45:27Z,1,01:40,18:20,0,0,6.0,Boston Bruins,BOS
+18,10,6,Toronto Maple Leafs,Boston Bruins,202202080616,2022020806,Shot,16,SHOT,Mark Giordano Wrist Shot saved by Linus Ullmark,2023-02-02T00:45:29Z,1,01:42,18:18,0,0,10.0,Toronto Maple Leafs,TOR
+19,10,6,Toronto Maple Leafs,Boston Bruins,202202080617,2022020806,Blocked Shot,17,BLOCKED_SHOT,Charlie Coyle shot blocked shot by Timothy Liljegren,2023-02-02T00:45:57Z,1,02:10,17:50,0,0,10.0,Toronto Maple Leafs,TOR
+20,10,6,Toronto Maple Leafs,Boston Bruins,202202080618,2022020806,Missed Shot,18,MISSED_SHOT,Hampus Lindholm Wide of Net Ilya Samsonov,2023-02-02T00:45:59Z,1,02:12,17:48,0,0,6.0,Boston Bruins,BOS
+21,10,6,Toronto Maple Leafs,Boston Bruins,202202080657,2022020806,Giveaway,57,GIVEAWAY,Giveaway by Nick Foligno,2023-02-02T00:46:25Z,1,02:38,17:22,0,0,6.0,Boston Bruins,BOS
+22,10,6,Toronto Maple Leafs,Boston Bruins,202202080619,2022020806,Blocked Shot,19,BLOCKED_SHOT,Pierre Engvall shot blocked shot by Hampus Lindholm,2023-02-02T00:46:26Z,1,02:39,17:21,0,0,6.0,Boston Bruins,BOS
+23,10,6,Toronto Maple Leafs,Boston Bruins,2022020806153,2022020806,Stoppage,153,STOP,Puck Frozen,2023-02-02T00:46:31Z,1,02:44,17:16,0,0,,,
+24,10,6,Toronto Maple Leafs,Boston Bruins,202202080658,2022020806,Faceoff,58,FACEOFF,Patrice Bergeron faceoff won against Mitchell Marner,2023-02-02T00:47:12Z,1,02:44,17:16,0,0,6.0,Boston Bruins,BOS
+25,10,6,Toronto Maple Leafs,Boston Bruins,2022020806126,2022020806,Penalty,126,PENALTY,Michael Bunting Holding against Matt Grzelcyk,2023-02-02T00:47:18Z,1,02:51,17:09,0,0,10.0,Toronto Maple Leafs,TOR
+26,10,6,Toronto Maple Leafs,Boston Bruins,202202080659,2022020806,Faceoff,59,FACEOFF,Patrice Bergeron faceoff won against David Kampf,2023-02-02T00:47:58Z,1,02:51,17:09,0,0,6.0,Boston Bruins,BOS
+27,10,6,Toronto Maple Leafs,Boston Bruins,202202080620,2022020806,Blocked Shot,20,BLOCKED_SHOT,David Pastrnak shot blocked shot by TJ Brodie,2023-02-02T00:48:20Z,1,03:12,16:48,0,0,10.0,Toronto Maple Leafs,TOR
+28,10,6,Toronto Maple Leafs,Boston Bruins,2022020806156,2022020806,Stoppage,156,STOP,Puck in Netting,2023-02-02T00:48:20Z,1,03:12,16:48,0,0,,,
+29,10,6,Toronto Maple Leafs,Boston Bruins,202202080660,2022020806,Faceoff,60,FACEOFF,David Krejci faceoff won against David Kampf,2023-02-02T00:48:57Z,1,03:12,16:48,0,0,6.0,Boston Bruins,BOS
+30,10,6,Toronto Maple Leafs,Boston Bruins,202202080661,2022020806,Takeaway,61,TAKEAWAY,Takeaway by David Kampf,2023-02-02T00:49:05Z,1,03:20,16:40,0,0,10.0,Toronto Maple Leafs,TOR
+31,10,6,Toronto Maple Leafs,Boston Bruins,2022020806157,2022020806,Hit,157,HIT,Charlie McAvoy hit TJ Brodie,2023-02-02T00:49:21Z,1,03:36,16:24,0,0,6.0,Boston Bruins,BOS
+32,10,6,Toronto Maple Leafs,Boston Bruins,2022020806158,2022020806,Hit,158,HIT,Justin Holl hit Brad Marchand,2023-02-02T00:49:32Z,1,03:47,16:13,0,0,10.0,Toronto Maple Leafs,TOR
+33,10,6,Toronto Maple Leafs,Boston Bruins,202202080621,2022020806,Shot,21,SHOT,Pavel Zacha Wrist Shot saved by Ilya Samsonov,2023-02-02T00:50:04Z,1,04:19,15:41,0,0,6.0,Boston Bruins,BOS
+34,10,6,Toronto Maple Leafs,Boston Bruins,2022020806159,2022020806,Hit,159,HIT,Rasmus Sandin hit Pavel Zacha,2023-02-02T00:50:33Z,1,04:48,15:12,0,0,10.0,Toronto Maple Leafs,TOR
+35,10,6,Toronto Maple Leafs,Boston Bruins,2022020806160,2022020806,Hit,160,HIT,Jakub Lauko hit William Nylander,2023-02-02T00:51:06Z,1,05:21,14:39,0,0,6.0,Boston Bruins,BOS
+36,10,6,Toronto Maple Leafs,Boston Bruins,202202080622,2022020806,Missed Shot,22,MISSED_SHOT,John Tavares Wide of Net Linus Ullmark,2023-02-02T00:51:30Z,1,05:45,14:15,0,0,10.0,Toronto Maple Leafs,TOR
+37,10,6,Toronto Maple Leafs,Boston Bruins,2022020806161,2022020806,Hit,161,HIT,Derek Forbort hit John Tavares,2023-02-02T00:51:35Z,1,05:50,14:10,0,0,6.0,Boston Bruins,BOS
+38,10,6,Toronto Maple Leafs,Boston Bruins,202202080662,2022020806,Giveaway,62,GIVEAWAY,Giveaway by Connor Clifton,2023-02-02T00:52:00Z,1,06:15,13:45,0,0,6.0,Boston Bruins,BOS
+39,10,6,Toronto Maple Leafs,Boston Bruins,2022020806162,2022020806,Hit,162,HIT,Morgan Rielly hit David Pastrnak,2023-02-02T00:52:20Z,1,06:35,13:25,0,0,10.0,Toronto Maple Leafs,TOR
+40,10,6,Toronto Maple Leafs,Boston Bruins,202202080623,2022020806,Shot,23,SHOT,Brandon Carlo Wrist Shot saved by Ilya Samsonov,2023-02-02T00:52:48Z,1,07:03,12:57,0,0,6.0,Boston Bruins,BOS
+41,10,6,Toronto Maple Leafs,Boston Bruins,202202080624,2022020806,Blocked Shot,24,BLOCKED_SHOT,Hampus Lindholm shot blocked shot by Rasmus Sandin,2023-02-02T00:53:05Z,1,07:20,12:40,0,0,10.0,Toronto Maple Leafs,TOR
+42,10,6,Toronto Maple Leafs,Boston Bruins,202202080625,2022020806,Shot,25,SHOT,Mark Giordano Wrist Shot saved by Linus Ullmark,2023-02-02T00:53:21Z,1,07:36,12:24,0,0,10.0,Toronto Maple Leafs,TOR
+43,10,6,Toronto Maple Leafs,Boston Bruins,202202080626,2022020806,Shot,26,SHOT,Mark Giordano Slap Shot saved by Linus Ullmark,2023-02-02T00:53:37Z,1,07:52,12:08,0,0,10.0,Toronto Maple Leafs,TOR
+44,10,6,Toronto Maple Leafs,Boston Bruins,202202080627,2022020806,Shot,27,SHOT,William Nylander Slap Shot saved by Linus Ullmark,2023-02-02T00:53:48Z,1,08:03,11:57,0,0,10.0,Toronto Maple Leafs,TOR
+45,10,6,Toronto Maple Leafs,Boston Bruins,2022020806163,2022020806,Stoppage,163,STOP,Goalie Stopped,2023-02-02T00:53:49Z,1,08:04,11:56,0,0,,,
+46,10,6,Toronto Maple Leafs,Boston Bruins,202202080663,2022020806,Faceoff,63,FACEOFF,John Tavares faceoff won against Charlie Coyle,2023-02-02T00:56:11Z,1,08:04,11:56,0,0,10.0,Toronto Maple Leafs,TOR
+47,10,6,Toronto Maple Leafs,Boston Bruins,202202080628,2022020806,Blocked Shot,28,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Derek Forbort,2023-02-02T00:56:15Z,1,08:08,11:52,0,0,6.0,Boston Bruins,BOS
+48,10,6,Toronto Maple Leafs,Boston Bruins,202202080629,2022020806,Blocked Shot,29,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Charlie Coyle,2023-02-02T00:56:26Z,1,08:19,11:41,0,0,6.0,Boston Bruins,BOS
+49,10,6,Toronto Maple Leafs,Boston Bruins,202202080664,2022020806,Giveaway,64,GIVEAWAY,Giveaway by Charlie Coyle,2023-02-02T00:56:27Z,1,08:20,11:40,0,0,6.0,Boston Bruins,BOS
+50,10,6,Toronto Maple Leafs,Boston Bruins,202202080630,2022020806,Shot,30,SHOT,Connor Clifton Wrist Shot saved by Ilya Samsonov,2023-02-02T00:56:39Z,1,08:32,11:28,0,0,6.0,Boston Bruins,BOS
+51,10,6,Toronto Maple Leafs,Boston Bruins,2022020806164,2022020806,Hit,164,HIT,A.J. Greer hit Rasmus Sandin,2023-02-02T00:57:41Z,1,09:34,10:26,0,0,6.0,Boston Bruins,BOS
+52,10,6,Toronto Maple Leafs,Boston Bruins,202202080631,2022020806,Shot,31,SHOT,David Kampf Wrist Shot saved by Linus Ullmark,2023-02-02T00:57:46Z,1,09:39,10:21,0,0,10.0,Toronto Maple Leafs,TOR
+53,10,6,Toronto Maple Leafs,Boston Bruins,2022020806165,2022020806,Stoppage,165,STOP,Goalie Stopped,2023-02-02T00:57:49Z,1,09:42,10:18,0,0,,,
+54,10,6,Toronto Maple Leafs,Boston Bruins,202202080665,2022020806,Faceoff,65,FACEOFF,David Krejci faceoff won against Pierre Engvall,2023-02-02T00:58:33Z,1,09:42,10:18,0,0,6.0,Boston Bruins,BOS
+55,10,6,Toronto Maple Leafs,Boston Bruins,2022020806166,2022020806,Hit,166,HIT,Pavel Zacha hit Pierre Engvall,2023-02-02T00:58:43Z,1,09:52,10:08,0,0,6.0,Boston Bruins,BOS
+56,10,6,Toronto Maple Leafs,Boston Bruins,202202080632,2022020806,Shot,32,SHOT,Timothy Liljegren Wrist Shot saved by Linus Ullmark,2023-02-02T00:58:53Z,1,10:02,09:58,0,0,10.0,Toronto Maple Leafs,TOR
+57,10,6,Toronto Maple Leafs,Boston Bruins,202202080633,2022020806,Shot,33,SHOT,David Kampf Wrist Shot saved by Linus Ullmark,2023-02-02T00:58:58Z,1,10:07,09:53,0,0,10.0,Toronto Maple Leafs,TOR
+58,10,6,Toronto Maple Leafs,Boston Bruins,202202080634,2022020806,Shot,34,SHOT,Rasmus Sandin Wrist Shot saved by Linus Ullmark,2023-02-02T00:59:01Z,1,10:10,09:50,0,0,10.0,Toronto Maple Leafs,TOR
+59,10,6,Toronto Maple Leafs,Boston Bruins,2022020806167,2022020806,Hit,167,HIT,Trent Frederic hit Pontus Holmberg,2023-02-02T00:59:30Z,1,10:39,09:21,0,0,6.0,Boston Bruins,BOS
+60,10,6,Toronto Maple Leafs,Boston Bruins,202202080666,2022020806,Giveaway,66,GIVEAWAY,Giveaway by Pontus Holmberg,2023-02-02T00:59:32Z,1,10:41,09:19,0,0,10.0,Toronto Maple Leafs,TOR
+61,10,6,Toronto Maple Leafs,Boston Bruins,2022020806168,2022020806,Hit,168,HIT,Connor Clifton hit Pontus Holmberg,2023-02-02T00:59:41Z,1,10:50,09:10,0,0,6.0,Boston Bruins,BOS
+62,10,6,Toronto Maple Leafs,Boston Bruins,202202080636,2022020806,Blocked Shot,36,BLOCKED_SHOT,Wayne Simmonds shot blocked shot by Connor Clifton,2023-02-02T00:59:49Z,1,10:57,09:03,0,0,6.0,Boston Bruins,BOS
+63,10,6,Toronto Maple Leafs,Boston Bruins,202202080635,2022020806,Blocked Shot,35,BLOCKED_SHOT,Justin Holl shot blocked shot by Trent Frederic,2023-02-02T00:59:53Z,1,11:02,08:58,0,0,6.0,Boston Bruins,BOS
+64,10,6,Toronto Maple Leafs,Boston Bruins,202202080667,2022020806,Takeaway,67,TAKEAWAY,Takeaway by A.J. Greer,2023-02-02T00:59:57Z,1,11:06,08:54,0,0,6.0,Boston Bruins,BOS
+65,10,6,Toronto Maple Leafs,Boston Bruins,202202080637,2022020806,Missed Shot,37,MISSED_SHOT,Matt Grzelcyk Wide of Net Ilya Samsonov,2023-02-02T01:00:38Z,1,11:47,08:13,0,0,6.0,Boston Bruins,BOS
+66,10,6,Toronto Maple Leafs,Boston Bruins,202202080638,2022020806,Shot,38,SHOT,Patrice Bergeron Wrist Shot saved by Ilya Samsonov,2023-02-02T01:00:57Z,1,12:06,07:54,0,0,6.0,Boston Bruins,BOS
+67,10,6,Toronto Maple Leafs,Boston Bruins,2022020806169,2022020806,Stoppage,169,STOP,Goalie Stopped,2023-02-02T01:00:58Z,1,12:08,07:52,0,0,,,
+68,10,6,Toronto Maple Leafs,Boston Bruins,202202080668,2022020806,Faceoff,68,FACEOFF,Patrice Bergeron faceoff won against David Kampf,2023-02-02T01:03:21Z,1,12:08,07:52,0,0,6.0,Boston Bruins,BOS
+69,10,6,Toronto Maple Leafs,Boston Bruins,202202080639,2022020806,Blocked Shot,39,BLOCKED_SHOT,David Pastrnak shot blocked shot by Joey Anderson,2023-02-02T01:03:24Z,1,12:11,07:49,0,0,10.0,Toronto Maple Leafs,TOR
+70,10,6,Toronto Maple Leafs,Boston Bruins,202202080640,2022020806,Missed Shot,40,MISSED_SHOT,Brad Marchand Wide of Net Ilya Samsonov,2023-02-02T01:03:32Z,1,12:19,07:41,0,0,6.0,Boston Bruins,BOS
+71,10,6,Toronto Maple Leafs,Boston Bruins,202202080669,2022020806,Giveaway,69,GIVEAWAY,Giveaway by Morgan Rielly,2023-02-02T01:03:40Z,1,12:27,07:33,0,0,10.0,Toronto Maple Leafs,TOR
+72,10,6,Toronto Maple Leafs,Boston Bruins,202202080641,2022020806,Shot,41,SHOT,Charlie McAvoy Wrist Shot saved by Ilya Samsonov,2023-02-02T01:03:48Z,1,12:35,07:25,0,0,6.0,Boston Bruins,BOS
+73,10,6,Toronto Maple Leafs,Boston Bruins,2022020806170,2022020806,Hit,170,HIT,Charlie McAvoy hit Joey Anderson,2023-02-02T01:03:59Z,1,12:46,07:14,0,0,6.0,Boston Bruins,BOS
+74,10,6,Toronto Maple Leafs,Boston Bruins,2022020806171,2022020806,Hit,171,HIT,Brad Marchand hit TJ Brodie,2023-02-02T01:04:06Z,1,12:53,07:07,0,0,6.0,Boston Bruins,BOS
+75,10,6,Toronto Maple Leafs,Boston Bruins,2022020806172,2022020806,Hit,172,HIT,Charlie Coyle hit TJ Brodie,2023-02-02T01:04:25Z,1,13:12,06:48,0,0,6.0,Boston Bruins,BOS
+76,10,6,Toronto Maple Leafs,Boston Bruins,202202080670,2022020806,Takeaway,70,TAKEAWAY,Takeaway by Charlie Coyle,2023-02-02T01:04:29Z,1,13:16,06:44,0,0,6.0,Boston Bruins,BOS
+77,10,6,Toronto Maple Leafs,Boston Bruins,202202080671,2022020806,Giveaway,71,GIVEAWAY,Giveaway by Charlie Coyle,2023-02-02T01:04:33Z,1,13:20,06:40,0,0,6.0,Boston Bruins,BOS
+78,10,6,Toronto Maple Leafs,Boston Bruins,2022020806173,2022020806,Stoppage,173,STOP,Icing,2023-02-02T01:04:53Z,1,13:39,06:21,0,0,,,
+79,10,6,Toronto Maple Leafs,Boston Bruins,202202080672,2022020806,Faceoff,72,FACEOFF,John Tavares faceoff won against Charlie Coyle,2023-02-02T01:05:20Z,1,13:39,06:21,0,0,10.0,Toronto Maple Leafs,TOR
+80,10,6,Toronto Maple Leafs,Boston Bruins,202202080673,2022020806,Giveaway,73,GIVEAWAY,Giveaway by Mitchell Marner,2023-02-02T01:05:27Z,1,13:46,06:14,0,0,10.0,Toronto Maple Leafs,TOR
+81,10,6,Toronto Maple Leafs,Boston Bruins,202202080674,2022020806,Takeaway,74,TAKEAWAY,Takeaway by Mitchell Marner,2023-02-02T01:05:33Z,1,13:52,06:08,0,0,10.0,Toronto Maple Leafs,TOR
+82,10,6,Toronto Maple Leafs,Boston Bruins,202202080642,2022020806,Blocked Shot,42,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Charlie Coyle,2023-02-02T01:05:53Z,1,14:12,05:48,0,0,6.0,Boston Bruins,BOS
+83,10,6,Toronto Maple Leafs,Boston Bruins,202202080643,2022020806,Shot,43,SHOT,Craig Smith Wrist Shot saved by Ilya Samsonov,2023-02-02T01:05:58Z,1,14:18,05:42,0,0,6.0,Boston Bruins,BOS
+84,10,6,Toronto Maple Leafs,Boston Bruins,2022020806174,2022020806,Stoppage,174,STOP,Goalie Stopped,2023-02-02T01:05:58Z,1,14:18,05:42,0,0,,,
+85,10,6,Toronto Maple Leafs,Boston Bruins,202202080675,2022020806,Faceoff,75,FACEOFF,David Krejci faceoff won against Pierre Engvall,2023-02-02T01:08:38Z,1,14:18,05:42,0,0,6.0,Boston Bruins,BOS
+86,10,6,Toronto Maple Leafs,Boston Bruins,202202080645,2022020806,Blocked Shot,45,BLOCKED_SHOT,Taylor Hall shot blocked shot by Timothy Liljegren,2023-02-02T01:08:39Z,1,14:19,05:41,0,0,10.0,Toronto Maple Leafs,TOR
+87,10,6,Toronto Maple Leafs,Boston Bruins,202202080646,2022020806,Shot,46,SHOT,Hampus Lindholm Slap Shot saved by Ilya Samsonov,2023-02-02T01:08:56Z,1,14:36,05:24,0,0,6.0,Boston Bruins,BOS
+88,10,6,Toronto Maple Leafs,Boston Bruins,202202080676,2022020806,Giveaway,76,GIVEAWAY,Giveaway by Rasmus Sandin,2023-02-02T01:08:59Z,1,14:39,05:21,0,0,10.0,Toronto Maple Leafs,TOR
+89,10,6,Toronto Maple Leafs,Boston Bruins,2022020806175,2022020806,Hit,175,HIT,Joey Anderson hit Taylor Hall,2023-02-02T01:09:00Z,1,14:40,05:20,0,0,10.0,Toronto Maple Leafs,TOR
+90,10,6,Toronto Maple Leafs,Boston Bruins,202202080647,2022020806,Shot,47,SHOT,Pierre Engvall Wrist Shot saved by Linus Ullmark,2023-02-02T01:09:13Z,1,14:53,05:07,0,0,10.0,Toronto Maple Leafs,TOR
+91,10,6,Toronto Maple Leafs,Boston Bruins,202202080648,2022020806,Shot,48,SHOT,Pierre Engvall Wrist Shot saved by Linus Ullmark,2023-02-02T01:09:15Z,1,14:55,05:05,0,0,10.0,Toronto Maple Leafs,TOR
+92,10,6,Toronto Maple Leafs,Boston Bruins,2022020806176,2022020806,Stoppage,176,STOP,Goalie Stopped,2023-02-02T01:09:15Z,1,14:55,05:05,0,0,,,
+93,10,6,Toronto Maple Leafs,Boston Bruins,2022020806177,2022020806,Stoppage,177,STOP,Referee or Linesman,2023-02-02T01:09:15Z,1,14:55,05:05,0,0,,,
+94,10,6,Toronto Maple Leafs,Boston Bruins,202202080677,2022020806,Faceoff,77,FACEOFF,Alexander Kerfoot faceoff won against Patrice Bergeron,2023-02-02T01:11:39Z,1,14:55,05:05,0,0,10.0,Toronto Maple Leafs,TOR
+95,10,6,Toronto Maple Leafs,Boston Bruins,202202080678,2022020806,Giveaway,78,GIVEAWAY,Giveaway by Brad Marchand,2023-02-02T01:11:55Z,1,15:11,04:49,0,0,6.0,Boston Bruins,BOS
+96,10,6,Toronto Maple Leafs,Boston Bruins,202202080649,2022020806,Shot,49,SHOT,William Nylander Backhand saved by Linus Ullmark,2023-02-02T01:11:57Z,1,15:13,04:47,0,0,10.0,Toronto Maple Leafs,TOR
+97,10,6,Toronto Maple Leafs,Boston Bruins,2022020806251,2022020806,Blocked Shot,251,BLOCKED_SHOT,Morgan Rielly shot blocked shot by Patrice Bergeron,2023-02-02T01:12:09Z,1,15:25,04:35,0,0,6.0,Boston Bruins,BOS
+98,10,6,Toronto Maple Leafs,Boston Bruins,2022020806178,2022020806,Stoppage,178,STOP,Puck Frozen,2023-02-02T01:12:10Z,1,15:26,04:34,0,0,,,
+99,10,6,Toronto Maple Leafs,Boston Bruins,202202080679,2022020806,Faceoff,79,FACEOFF,John Tavares faceoff won against Charlie Coyle,2023-02-02T01:12:49Z,1,15:26,04:34,0,0,10.0,Toronto Maple Leafs,TOR
+100,10,6,Toronto Maple Leafs,Boston Bruins,2022020806252,2022020806,Shot,252,SHOT,Mark Giordano Wrist Shot saved by Linus Ullmark,2023-02-02T01:12:53Z,1,15:30,04:30,0,0,10.0,Toronto Maple Leafs,TOR
+101,10,6,Toronto Maple Leafs,Boston Bruins,2022020806253,2022020806,Blocked Shot,253,BLOCKED_SHOT,Trent Frederic shot blocked shot by Justin Holl,2023-02-02T01:13:01Z,1,15:38,04:22,0,0,10.0,Toronto Maple Leafs,TOR
+102,10,6,Toronto Maple Leafs,Boston Bruins,2022020806179,2022020806,Hit,179,HIT,John Tavares hit Brandon Carlo,2023-02-02T01:13:17Z,1,15:54,04:06,0,0,10.0,Toronto Maple Leafs,TOR
+103,10,6,Toronto Maple Leafs,Boston Bruins,2022020806180,2022020806,Hit,180,HIT,Trent Frederic hit Rasmus Sandin,2023-02-02T01:13:33Z,1,16:10,03:50,0,0,6.0,Boston Bruins,BOS
+104,10,6,Toronto Maple Leafs,Boston Bruins,202202080682,2022020806,Takeaway,82,TAKEAWAY,Takeaway by Charlie Coyle,2023-02-02T01:13:48Z,1,16:25,03:35,0,0,6.0,Boston Bruins,BOS
+105,10,6,Toronto Maple Leafs,Boston Bruins,2022020806254,2022020806,Shot,254,SHOT,Charlie Coyle Wrist Shot saved by Ilya Samsonov,2023-02-02T01:13:51Z,1,16:28,03:32,0,0,6.0,Boston Bruins,BOS
+106,10,6,Toronto Maple Leafs,Boston Bruins,202202080683,2022020806,Giveaway,83,GIVEAWAY,Giveaway by Hampus Lindholm,2023-02-02T01:14:14Z,1,16:51,03:09,0,0,6.0,Boston Bruins,BOS
+107,10,6,Toronto Maple Leafs,Boston Bruins,202202080684,2022020806,Takeaway,84,TAKEAWAY,Takeaway by Wayne Simmonds,2023-02-02T01:14:18Z,1,16:55,03:05,0,0,10.0,Toronto Maple Leafs,TOR
+108,10,6,Toronto Maple Leafs,Boston Bruins,2022020806181,2022020806,Stoppage,181,STOP,Goalie Stopped,2023-02-02T01:14:20Z,1,16:57,03:03,0,0,,,
+109,10,6,Toronto Maple Leafs,Boston Bruins,2022020806255,2022020806,Shot,255,SHOT,Pontus Holmberg Wrist Shot saved by Linus Ullmark,2023-02-02T01:14:20Z,1,16:57,03:03,0,0,10.0,Toronto Maple Leafs,TOR
+110,10,6,Toronto Maple Leafs,Boston Bruins,202202080685,2022020806,Faceoff,85,FACEOFF,Wayne Simmonds faceoff won against David Krejci,2023-02-02T01:15:04Z,1,16:57,03:03,0,0,10.0,Toronto Maple Leafs,TOR
+111,10,6,Toronto Maple Leafs,Boston Bruins,2022020806256,2022020806,Missed Shot,256,MISSED_SHOT,Wayne Simmonds Wide of Net Linus Ullmark,2023-02-02T01:15:13Z,1,17:06,02:54,0,0,10.0,Toronto Maple Leafs,TOR
+112,10,6,Toronto Maple Leafs,Boston Bruins,2022020806257,2022020806,Missed Shot,257,MISSED_SHOT,Wayne Simmonds Wide of Net Linus Ullmark,2023-02-02T01:15:24Z,1,17:17,02:43,0,0,10.0,Toronto Maple Leafs,TOR
+113,10,6,Toronto Maple Leafs,Boston Bruins,202202080686,2022020806,Giveaway,86,GIVEAWAY,Giveaway by Morgan Rielly,2023-02-02T01:15:29Z,1,17:22,02:38,0,0,10.0,Toronto Maple Leafs,TOR
+114,10,6,Toronto Maple Leafs,Boston Bruins,2022020806182,2022020806,Hit,182,HIT,Taylor Hall hit Wayne Simmonds,2023-02-02T01:15:43Z,1,17:36,02:24,0,0,6.0,Boston Bruins,BOS
+115,10,6,Toronto Maple Leafs,Boston Bruins,2022020806183,2022020806,Stoppage,183,STOP,Icing,2023-02-02T01:16:03Z,1,17:55,02:05,0,0,,,
+116,10,6,Toronto Maple Leafs,Boston Bruins,202202080687,2022020806,Faceoff,87,FACEOFF,John Tavares faceoff won against Patrice Bergeron,2023-02-02T01:16:38Z,1,17:55,02:05,0,0,10.0,Toronto Maple Leafs,TOR
+117,10,6,Toronto Maple Leafs,Boston Bruins,202202080688,2022020806,Takeaway,88,TAKEAWAY,Takeaway by John Tavares,2023-02-02T01:16:44Z,1,18:01,01:59,0,0,10.0,Toronto Maple Leafs,TOR
+118,10,6,Toronto Maple Leafs,Boston Bruins,2022020806258,2022020806,Missed Shot,258,MISSED_SHOT,William Nylander Over Net Linus Ullmark,2023-02-02T01:16:48Z,1,18:05,01:55,0,0,10.0,Toronto Maple Leafs,TOR
+119,10,6,Toronto Maple Leafs,Boston Bruins,2022020806184,2022020806,Stoppage,184,STOP,Icing,2023-02-02T01:16:53Z,1,18:11,01:49,0,0,,,
+120,10,6,Toronto Maple Leafs,Boston Bruins,202202080689,2022020806,Faceoff,89,FACEOFF,Patrice Bergeron faceoff won against John Tavares,2023-02-02T01:17:14Z,1,18:11,01:49,0,0,6.0,Boston Bruins,BOS
+121,10,6,Toronto Maple Leafs,Boston Bruins,202202080691,2022020806,Giveaway,91,GIVEAWAY,Giveaway by David Pastrnak,2023-02-02T01:17:33Z,1,18:30,01:30,0,0,6.0,Boston Bruins,BOS
+122,10,6,Toronto Maple Leafs,Boston Bruins,2022020806259,2022020806,Shot,259,SHOT,David Pastrnak Wrist Shot saved by Ilya Samsonov,2023-02-02T01:17:42Z,1,18:39,01:21,0,0,6.0,Boston Bruins,BOS
+123,10,6,Toronto Maple Leafs,Boston Bruins,202202080692,2022020806,Giveaway,92,GIVEAWAY,Giveaway by Morgan Rielly,2023-02-02T01:17:45Z,1,18:42,01:18,0,0,10.0,Toronto Maple Leafs,TOR
+124,10,6,Toronto Maple Leafs,Boston Bruins,2022020806185,2022020806,Hit,185,HIT,Brandon Carlo hit Pierre Engvall,2023-02-02T01:17:57Z,1,18:54,01:06,0,0,6.0,Boston Bruins,BOS
+125,10,6,Toronto Maple Leafs,Boston Bruins,2022020806186,2022020806,Hit,186,HIT,David Kampf hit David Pastrnak,2023-02-02T01:18:05Z,1,19:02,00:58,0,0,10.0,Toronto Maple Leafs,TOR
+126,10,6,Toronto Maple Leafs,Boston Bruins,2022020806260,2022020806,Blocked Shot,260,BLOCKED_SHOT,Joey Anderson shot blocked shot by Connor Clifton,2023-02-02T01:18:31Z,1,19:28,00:32,0,0,6.0,Boston Bruins,BOS
+127,10,6,Toronto Maple Leafs,Boston Bruins,2022020806187,2022020806,Stoppage,187,STOP,Puck Frozen,2023-02-02T01:18:53Z,1,19:49,00:11,0,0,,,
+128,10,6,Toronto Maple Leafs,Boston Bruins,202202080693,2022020806,Faceoff,93,FACEOFF,Patrice Bergeron faceoff won against John Tavares,2023-02-02T01:19:28Z,1,19:49,00:11,0,0,6.0,Boston Bruins,BOS
+129,10,6,Toronto Maple Leafs,Boston Bruins,2022020806188,2022020806,Hit,188,HIT,John Tavares hit Matt Grzelcyk,2023-02-02T01:19:31Z,1,19:53,00:07,0,0,10.0,Toronto Maple Leafs,TOR
+130,10,6,Toronto Maple Leafs,Boston Bruins,2022020806261,2022020806,Period End,261,PERIOD_END,End of 1st Period,2023-02-02T01:19:38Z,1,20:00,00:00,0,0,,,
+131,10,6,Toronto Maple Leafs,Boston Bruins,2022020806264,2022020806,Period Official,264,PERIOD_OFFICIAL,Period Official,2023-02-02T01:36:31Z,1,20:00,00:00,0,0,,,
+132,10,6,Toronto Maple Leafs,Boston Bruins,2022020806265,2022020806,Period Ready,265,PERIOD_READY,Period Ready,2023-02-02T01:36:36Z,2,00:00,20:00,0,0,,,
+133,10,6,Toronto Maple Leafs,Boston Bruins,202202080694,2022020806,Period Start,94,PERIOD_START,Period Start,2023-02-02T01:38:28Z,2,00:00,20:00,0,0,,,
+134,10,6,Toronto Maple Leafs,Boston Bruins,202202080695,2022020806,Faceoff,95,FACEOFF,Patrice Bergeron faceoff won against John Tavares,2023-02-02T01:38:28Z,2,00:00,20:00,0,0,6.0,Boston Bruins,BOS
+135,10,6,Toronto Maple Leafs,Boston Bruins,2022020806651,2022020806,Missed Shot,651,MISSED_SHOT,Brad Marchand Over Net Ilya Samsonov,2023-02-02T01:38:37Z,2,00:09,19:51,0,0,6.0,Boston Bruins,BOS
+136,10,6,Toronto Maple Leafs,Boston Bruins,2022020806266,2022020806,Shot,266,SHOT,John Tavares Wrist Shot saved by Linus Ullmark,2023-02-02T01:38:56Z,2,00:28,19:32,0,0,10.0,Toronto Maple Leafs,TOR
+137,10,6,Toronto Maple Leafs,Boston Bruins,2022020806267,2022020806,Shot,267,SHOT,Rasmus Sandin Wrist Shot saved by Linus Ullmark,2023-02-02T01:39:29Z,2,01:01,18:59,0,0,10.0,Toronto Maple Leafs,TOR
+138,10,6,Toronto Maple Leafs,Boston Bruins,2022020806189,2022020806,Stoppage,189,STOP,Goalie Stopped,2023-02-02T01:39:32Z,2,01:05,18:55,0,0,,,
+139,10,6,Toronto Maple Leafs,Boston Bruins,2022020806190,2022020806,Stoppage,190,STOP,Referee or Linesman,2023-02-02T01:39:32Z,2,01:05,18:55,0,0,,,
+140,10,6,Toronto Maple Leafs,Boston Bruins,202202080696,2022020806,Faceoff,96,FACEOFF,William Nylander faceoff won against David Krejci,2023-02-02T01:40:42Z,2,01:05,18:55,0,0,10.0,Toronto Maple Leafs,TOR
+141,10,6,Toronto Maple Leafs,Boston Bruins,2022020806268,2022020806,Blocked Shot,268,BLOCKED_SHOT,Alexander Kerfoot shot blocked shot by Brandon Carlo,2023-02-02T01:40:45Z,2,01:08,18:52,0,0,6.0,Boston Bruins,BOS
+142,10,6,Toronto Maple Leafs,Boston Bruins,2022020806191,2022020806,Hit,191,HIT,David Pastrnak hit Alexander Kerfoot,2023-02-02T01:40:57Z,2,01:20,18:40,0,0,6.0,Boston Bruins,BOS
+143,10,6,Toronto Maple Leafs,Boston Bruins,202202080697,2022020806,Takeaway,97,TAKEAWAY,Takeaway by Alexander Kerfoot,2023-02-02T01:41:01Z,2,01:24,18:36,0,0,10.0,Toronto Maple Leafs,TOR
+144,10,6,Toronto Maple Leafs,Boston Bruins,2022020806192,2022020806,Hit,192,HIT,Justin Holl hit A.J. Greer,2023-02-02T01:41:53Z,2,02:16,17:44,0,0,10.0,Toronto Maple Leafs,TOR
+145,10,6,Toronto Maple Leafs,Boston Bruins,2022020806269,2022020806,Shot,269,SHOT,Jakub Lauko Backhand saved by Ilya Samsonov,2023-02-02T01:42:10Z,2,02:33,17:27,0,0,6.0,Boston Bruins,BOS
+146,10,6,Toronto Maple Leafs,Boston Bruins,2022020806193,2022020806,Hit,193,HIT,Mark Giordano hit Jakub Lauko,2023-02-02T01:42:17Z,2,02:40,17:20,0,0,10.0,Toronto Maple Leafs,TOR
+147,10,6,Toronto Maple Leafs,Boston Bruins,202202080698,2022020806,Giveaway,98,GIVEAWAY,Giveaway by Pontus Holmberg,2023-02-02T01:42:40Z,2,03:03,16:57,0,0,10.0,Toronto Maple Leafs,TOR
+148,10,6,Toronto Maple Leafs,Boston Bruins,2022020806194,2022020806,Hit,194,HIT,Wayne Simmonds hit Derek Forbort,2023-02-02T01:42:40Z,2,03:03,16:57,0,0,10.0,Toronto Maple Leafs,TOR
+149,10,6,Toronto Maple Leafs,Boston Bruins,2022020806270,2022020806,Missed Shot,270,MISSED_SHOT,Pontus Holmberg Wide of Net Linus Ullmark,2023-02-02T01:42:43Z,2,03:06,16:54,0,0,10.0,Toronto Maple Leafs,TOR
+150,10,6,Toronto Maple Leafs,Boston Bruins,2022020806195,2022020806,Hit,195,HIT,Wayne Simmonds hit Charlie McAvoy,2023-02-02T01:42:48Z,2,03:11,16:49,0,0,10.0,Toronto Maple Leafs,TOR
+151,10,6,Toronto Maple Leafs,Boston Bruins,2022020806271,2022020806,Blocked Shot,271,BLOCKED_SHOT,TJ Brodie shot blocked shot by Charlie McAvoy,2023-02-02T01:42:57Z,2,03:20,16:40,0,0,6.0,Boston Bruins,BOS
+152,10,6,Toronto Maple Leafs,Boston Bruins,2022020806272,2022020806,Shot,272,SHOT,Zach Aston-Reese Backhand saved by Linus Ullmark,2023-02-02T01:43:10Z,2,03:33,16:27,0,0,10.0,Toronto Maple Leafs,TOR
+153,10,6,Toronto Maple Leafs,Boston Bruins,2022020806273,2022020806,Blocked Shot,273,BLOCKED_SHOT,TJ Brodie shot blocked shot by Taylor Hall,2023-02-02T01:43:13Z,2,03:36,16:24,0,0,6.0,Boston Bruins,BOS
+154,10,6,Toronto Maple Leafs,Boston Bruins,2022020806196,2022020806,Hit,196,HIT,Timothy Liljegren hit Taylor Hall,2023-02-02T01:43:36Z,2,03:59,16:01,0,0,10.0,Toronto Maple Leafs,TOR
+155,10,6,Toronto Maple Leafs,Boston Bruins,2022020806274,2022020806,Missed Shot,274,MISSED_SHOT,Brandon Carlo Wide of Net Ilya Samsonov,2023-02-02T01:44:06Z,2,04:29,15:31,0,0,6.0,Boston Bruins,BOS
+156,10,6,Toronto Maple Leafs,Boston Bruins,202202080699,2022020806,Takeaway,99,TAKEAWAY,Takeaway by David Pastrnak,2023-02-02T01:44:52Z,2,05:15,14:45,0,0,6.0,Boston Bruins,BOS
+157,10,6,Toronto Maple Leafs,Boston Bruins,2022020806198,2022020806,Penalty,198,PENALTY,Connor Clifton Tripping against David Kampf,2023-02-02T01:45:09Z,2,05:32,14:28,0,0,6.0,Boston Bruins,BOS
+158,10,6,Toronto Maple Leafs,Boston Bruins,2022020806100,2022020806,Faceoff,100,FACEOFF,John Tavares faceoff won against Charlie Coyle,2023-02-02T01:45:57Z,2,05:32,14:28,0,0,10.0,Toronto Maple Leafs,TOR
+159,10,6,Toronto Maple Leafs,Boston Bruins,2022020806275,2022020806,Shot,275,SHOT,Hampus Lindholm Slap Shot saved by Ilya Samsonov,2023-02-02T01:46:27Z,2,06:02,13:58,0,0,6.0,Boston Bruins,BOS
+160,10,6,Toronto Maple Leafs,Boston Bruins,2022020806276,2022020806,Blocked Shot,276,BLOCKED_SHOT,Michael Bunting shot blocked shot by Hampus Lindholm,2023-02-02T01:47:02Z,2,06:37,13:23,0,0,6.0,Boston Bruins,BOS
+161,10,6,Toronto Maple Leafs,Boston Bruins,2022020806277,2022020806,Blocked Shot,277,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Trent Frederic,2023-02-02T01:47:08Z,2,06:43,13:17,0,0,6.0,Boston Bruins,BOS
+162,10,6,Toronto Maple Leafs,Boston Bruins,2022020806278,2022020806,Goal,278,GOAL,"Derek Forbort (4) Wrist Shot, assists: Charlie Coyle (16), Trent Frederic (9)",2023-02-02T01:47:22Z,2,06:57,13:03,0,1,6.0,Boston Bruins,BOS
+163,10,6,Toronto Maple Leafs,Boston Bruins,2022020806401,2022020806,Faceoff,401,FACEOFF,Pierre Engvall faceoff won against Charlie Coyle,2023-02-02T01:48:10Z,2,06:57,13:03,0,1,10.0,Toronto Maple Leafs,TOR
+164,10,6,Toronto Maple Leafs,Boston Bruins,2022020806279,2022020806,Missed Shot,279,MISSED_SHOT,Calle Jarnkrok Wide of Net Linus Ullmark,2023-02-02T01:48:23Z,2,07:10,12:50,0,1,10.0,Toronto Maple Leafs,TOR
+165,10,6,Toronto Maple Leafs,Boston Bruins,2022020806402,2022020806,Giveaway,402,GIVEAWAY,Giveaway by Pontus Holmberg,2023-02-02T01:48:33Z,2,07:20,12:40,0,1,10.0,Toronto Maple Leafs,TOR
+166,10,6,Toronto Maple Leafs,Boston Bruins,2022020806352,2022020806,Hit,352,HIT,David Pastrnak hit Timothy Liljegren,2023-02-02T01:48:54Z,2,07:41,12:19,0,1,6.0,Boston Bruins,BOS
+167,10,6,Toronto Maple Leafs,Boston Bruins,2022020806353,2022020806,Hit,353,HIT,Alexander Kerfoot hit Matt Grzelcyk,2023-02-02T01:49:07Z,2,07:54,12:06,0,1,10.0,Toronto Maple Leafs,TOR
+168,10,6,Toronto Maple Leafs,Boston Bruins,2022020806280,2022020806,Blocked Shot,280,BLOCKED_SHOT,Alexander Kerfoot shot blocked shot by Matt Grzelcyk,2023-02-02T01:49:23Z,2,08:10,11:50,0,1,6.0,Boston Bruins,BOS
+169,10,6,Toronto Maple Leafs,Boston Bruins,2022020806549,2022020806,Penalty,549,PENALTY,Matt Grzelcyk Elbowing against Alexander Kerfoot,2023-02-02T01:49:25Z,2,08:12,11:48,0,1,6.0,Boston Bruins,BOS
+170,10,6,Toronto Maple Leafs,Boston Bruins,2022020806652,2022020806,Stoppage,652,STOP,TV timeout,2023-02-02T01:49:25Z,2,08:12,11:48,0,1,,,
+171,10,6,Toronto Maple Leafs,Boston Bruins,2022020806403,2022020806,Faceoff,403,FACEOFF,Patrice Bergeron faceoff won against John Tavares,2023-02-02T01:51:44Z,2,08:12,11:48,0,1,6.0,Boston Bruins,BOS
+172,10,6,Toronto Maple Leafs,Boston Bruins,2022020806281,2022020806,Blocked Shot,281,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Derek Forbort,2023-02-02T01:52:36Z,2,09:04,10:56,0,1,6.0,Boston Bruins,BOS
+173,10,6,Toronto Maple Leafs,Boston Bruins,2022020806282,2022020806,Goal,282,GOAL,"Mitchell Marner (19) Wrist Shot, assists: Ilya Samsonov (2), Morgan Rielly (22)",2023-02-02T01:52:58Z,2,09:25,10:35,1,1,10.0,Toronto Maple Leafs,TOR
+174,10,6,Toronto Maple Leafs,Boston Bruins,2022020806404,2022020806,Faceoff,404,FACEOFF,David Kampf faceoff won against David Krejci,2023-02-02T01:54:12Z,2,09:25,10:35,1,1,10.0,Toronto Maple Leafs,TOR
+175,10,6,Toronto Maple Leafs,Boston Bruins,2022020806405,2022020806,Takeaway,405,TAKEAWAY,Takeaway by Joey Anderson,2023-02-02T01:54:40Z,2,09:53,10:07,1,1,10.0,Toronto Maple Leafs,TOR
+176,10,6,Toronto Maple Leafs,Boston Bruins,2022020806406,2022020806,Takeaway,406,TAKEAWAY,Takeaway by Taylor Hall,2023-02-02T01:54:49Z,2,10:02,09:58,1,1,6.0,Boston Bruins,BOS
+177,10,6,Toronto Maple Leafs,Boston Bruins,2022020806283,2022020806,Shot,283,SHOT,Timothy Liljegren Wrist Shot saved by Linus Ullmark,2023-02-02T01:55:17Z,2,10:30,09:30,1,1,10.0,Toronto Maple Leafs,TOR
+178,10,6,Toronto Maple Leafs,Boston Bruins,2022020806358,2022020806,Hit,358,HIT,Connor Clifton hit Calle Jarnkrok,2023-02-02T01:55:31Z,2,10:44,09:16,1,1,6.0,Boston Bruins,BOS
+179,10,6,Toronto Maple Leafs,Boston Bruins,2022020806359,2022020806,Hit,359,HIT,Rasmus Sandin hit A.J. Greer,2023-02-02T01:55:41Z,2,10:54,09:06,1,1,10.0,Toronto Maple Leafs,TOR
+180,10,6,Toronto Maple Leafs,Boston Bruins,2022020806360,2022020806,Hit,360,HIT,Calle Jarnkrok hit Charlie McAvoy,2023-02-02T01:55:56Z,2,11:09,08:51,1,1,10.0,Toronto Maple Leafs,TOR
+181,10,6,Toronto Maple Leafs,Boston Bruins,2022020806284,2022020806,Missed Shot,284,MISSED_SHOT,Patrice Bergeron Wide of Net Ilya Samsonov,2023-02-02T01:56:29Z,2,11:42,08:18,1,1,6.0,Boston Bruins,BOS
+182,10,6,Toronto Maple Leafs,Boston Bruins,2022020806410,2022020806,Giveaway,410,GIVEAWAY,Giveaway by Rasmus Sandin,2023-02-02T01:57:04Z,2,12:17,07:43,1,1,10.0,Toronto Maple Leafs,TOR
+183,10,6,Toronto Maple Leafs,Boston Bruins,2022020806285,2022020806,Shot,285,SHOT,Brandon Carlo Wrist Shot saved by Ilya Samsonov,2023-02-02T01:57:11Z,2,12:24,07:36,1,1,6.0,Boston Bruins,BOS
+184,10,6,Toronto Maple Leafs,Boston Bruins,2022020806411,2022020806,Giveaway,411,GIVEAWAY,Giveaway by Timothy Liljegren,2023-02-02T01:57:12Z,2,12:25,07:35,1,1,10.0,Toronto Maple Leafs,TOR
+185,10,6,Toronto Maple Leafs,Boston Bruins,2022020806286,2022020806,Blocked Shot,286,BLOCKED_SHOT,Hampus Lindholm shot blocked shot by Wayne Simmonds,2023-02-02T01:57:17Z,2,12:30,07:30,1,1,10.0,Toronto Maple Leafs,TOR
+186,10,6,Toronto Maple Leafs,Boston Bruins,2022020806287,2022020806,Goal,287,GOAL,"Brandon Carlo (2) Wrist Shot, assists: Hampus Lindholm (27), Charlie Coyle (17)",2023-02-02T01:57:20Z,2,12:33,07:27,1,2,6.0,Boston Bruins,BOS
+187,10,6,Toronto Maple Leafs,Boston Bruins,2022020806412,2022020806,Faceoff,412,FACEOFF,David Krejci faceoff won against John Tavares,2023-02-02T01:58:12Z,2,12:33,07:27,1,2,6.0,Boston Bruins,BOS
+188,10,6,Toronto Maple Leafs,Boston Bruins,2022020806288,2022020806,Shot,288,SHOT,Matt Grzelcyk Wrist Shot saved by Ilya Samsonov,2023-02-02T01:58:29Z,2,12:50,07:10,1,2,6.0,Boston Bruins,BOS
+189,10,6,Toronto Maple Leafs,Boston Bruins,2022020806361,2022020806,Stoppage,361,STOP,Goalie Stopped,2023-02-02T01:58:29Z,2,12:50,07:10,1,2,,,
+190,10,6,Toronto Maple Leafs,Boston Bruins,2022020806413,2022020806,Faceoff,413,FACEOFF,John Tavares faceoff won against David Krejci,2023-02-02T02:00:58Z,2,12:50,07:10,1,2,10.0,Toronto Maple Leafs,TOR
+191,10,6,Toronto Maple Leafs,Boston Bruins,2022020806289,2022020806,Shot,289,SHOT,Mark Giordano Wrist Shot saved by Linus Ullmark,2023-02-02T02:01:23Z,2,13:15,06:45,1,2,10.0,Toronto Maple Leafs,TOR
+192,10,6,Toronto Maple Leafs,Boston Bruins,2022020806414,2022020806,Giveaway,414,GIVEAWAY,Giveaway by Mitchell Marner,2023-02-02T02:01:33Z,2,13:25,06:35,1,2,10.0,Toronto Maple Leafs,TOR
+193,10,6,Toronto Maple Leafs,Boston Bruins,2022020806415,2022020806,Giveaway,415,GIVEAWAY,Giveaway by Justin Holl,2023-02-02T02:01:43Z,2,13:35,06:25,1,2,10.0,Toronto Maple Leafs,TOR
+194,10,6,Toronto Maple Leafs,Boston Bruins,2022020806362,2022020806,Stoppage,362,STOP,High Stick,2023-02-02T02:01:50Z,2,13:42,06:18,1,2,,,
+195,10,6,Toronto Maple Leafs,Boston Bruins,2022020806416,2022020806,Faceoff,416,FACEOFF,Alexander Kerfoot faceoff won against Patrice Bergeron,2023-02-02T02:02:20Z,2,13:42,06:18,1,2,10.0,Toronto Maple Leafs,TOR
+196,10,6,Toronto Maple Leafs,Boston Bruins,2022020806363,2022020806,Hit,363,HIT,Craig Smith hit TJ Brodie,2023-02-02T02:02:30Z,2,13:52,06:08,1,2,6.0,Boston Bruins,BOS
+197,10,6,Toronto Maple Leafs,Boston Bruins,2022020806417,2022020806,Giveaway,417,GIVEAWAY,Giveaway by Morgan Rielly,2023-02-02T02:02:55Z,2,14:17,05:43,1,2,10.0,Toronto Maple Leafs,TOR
+198,10,6,Toronto Maple Leafs,Boston Bruins,2022020806291,2022020806,Missed Shot,291,MISSED_SHOT,Craig Smith Wide of Net Ilya Samsonov,2023-02-02T02:02:57Z,2,14:19,05:41,1,2,6.0,Boston Bruins,BOS
+199,10,6,Toronto Maple Leafs,Boston Bruins,2022020806418,2022020806,Takeaway,418,TAKEAWAY,Takeaway by William Nylander,2023-02-02T02:03:02Z,2,14:24,05:36,1,2,10.0,Toronto Maple Leafs,TOR
+200,10,6,Toronto Maple Leafs,Boston Bruins,2022020806292,2022020806,Shot,292,SHOT,Calle Jarnkrok Wrist Shot saved by Linus Ullmark,2023-02-02T02:03:09Z,2,14:31,05:29,1,2,10.0,Toronto Maple Leafs,TOR
+201,10,6,Toronto Maple Leafs,Boston Bruins,2022020806293,2022020806,Missed Shot,293,MISSED_SHOT,Jakub Lauko Wide of Net Ilya Samsonov,2023-02-02T02:03:16Z,2,14:38,05:22,1,2,6.0,Boston Bruins,BOS
+202,10,6,Toronto Maple Leafs,Boston Bruins,2022020806294,2022020806,Shot,294,SHOT,Hampus Lindholm Wrist Shot saved by Ilya Samsonov,2023-02-02T02:03:24Z,2,14:44,05:16,1,2,6.0,Boston Bruins,BOS
+203,10,6,Toronto Maple Leafs,Boston Bruins,2022020806419,2022020806,Giveaway,419,GIVEAWAY,Giveaway by Timothy Liljegren,2023-02-02T02:03:24Z,2,14:46,05:14,1,2,10.0,Toronto Maple Leafs,TOR
+204,10,6,Toronto Maple Leafs,Boston Bruins,2022020806364,2022020806,Hit,364,HIT,Nick Foligno hit Timothy Liljegren,2023-02-02T02:03:30Z,2,14:52,05:08,1,2,6.0,Boston Bruins,BOS
+205,10,6,Toronto Maple Leafs,Boston Bruins,2022020806365,2022020806,Hit,365,HIT,David Krejci hit TJ Brodie,2023-02-02T02:05:10Z,2,16:32,03:28,1,2,6.0,Boston Bruins,BOS
+206,10,6,Toronto Maple Leafs,Boston Bruins,2022020806366,2022020806,Hit,366,HIT,John Tavares hit Derek Forbort,2023-02-02T02:05:16Z,2,16:38,03:22,1,2,10.0,Toronto Maple Leafs,TOR
+207,10,6,Toronto Maple Leafs,Boston Bruins,2022020806295,2022020806,Blocked Shot,295,BLOCKED_SHOT,Brandon Carlo shot blocked shot by Michael Bunting,2023-02-02T02:05:25Z,2,16:47,03:13,1,2,10.0,Toronto Maple Leafs,TOR
+208,10,6,Toronto Maple Leafs,Boston Bruins,2022020806296,2022020806,Shot,296,SHOT,Pavel Zacha Tip-In saved by Ilya Samsonov,2023-02-02T02:05:40Z,2,17:01,02:59,1,2,6.0,Boston Bruins,BOS
+209,10,6,Toronto Maple Leafs,Boston Bruins,2022020806367,2022020806,Stoppage,367,STOP,Goalie Stopped,2023-02-02T02:05:40Z,2,17:01,02:59,1,2,,,
+210,10,6,Toronto Maple Leafs,Boston Bruins,2022020806420,2022020806,Faceoff,420,FACEOFF,John Tavares faceoff won against Brad Marchand,2023-02-02T02:08:10Z,2,17:01,02:59,1,2,10.0,Toronto Maple Leafs,TOR
+211,10,6,Toronto Maple Leafs,Boston Bruins,2022020806421,2022020806,Takeaway,421,TAKEAWAY,Takeaway by Ilya Samsonov,2023-02-02T02:08:33Z,2,17:24,02:36,1,2,10.0,Toronto Maple Leafs,TOR
+212,10,6,Toronto Maple Leafs,Boston Bruins,2022020806368,2022020806,Hit,368,HIT,Calle Jarnkrok hit Charlie McAvoy,2023-02-02T02:08:48Z,2,17:39,02:21,1,2,10.0,Toronto Maple Leafs,TOR
+213,10,6,Toronto Maple Leafs,Boston Bruins,2022020806422,2022020806,Giveaway,422,GIVEAWAY,Giveaway by Hampus Lindholm,2023-02-02T02:09:20Z,2,18:11,01:49,1,2,6.0,Boston Bruins,BOS
+214,10,6,Toronto Maple Leafs,Boston Bruins,2022020806297,2022020806,Missed Shot,297,MISSED_SHOT,Michael Bunting Wide of Net Linus Ullmark,2023-02-02T02:09:28Z,2,18:19,01:41,1,2,10.0,Toronto Maple Leafs,TOR
+215,10,6,Toronto Maple Leafs,Boston Bruins,2022020806298,2022020806,Blocked Shot,298,BLOCKED_SHOT,Michael Bunting shot blocked shot by Brandon Carlo,2023-02-02T02:09:50Z,2,18:41,01:19,1,2,6.0,Boston Bruins,BOS
+216,10,6,Toronto Maple Leafs,Boston Bruins,2022020806369,2022020806,Hit,369,HIT,Brandon Carlo hit Michael Bunting,2023-02-02T02:09:52Z,2,18:43,01:17,1,2,6.0,Boston Bruins,BOS
+217,10,6,Toronto Maple Leafs,Boston Bruins,2022020806299,2022020806,Shot,299,SHOT,TJ Brodie Wrist Shot saved by Linus Ullmark,2023-02-02T02:10:42Z,2,19:33,00:27,1,2,10.0,Toronto Maple Leafs,TOR
+218,10,6,Toronto Maple Leafs,Boston Bruins,2022020806370,2022020806,Hit,370,HIT,David Krejci hit David Kampf,2023-02-02T02:10:46Z,2,19:37,00:23,1,2,6.0,Boston Bruins,BOS
+219,10,6,Toronto Maple Leafs,Boston Bruins,2022020806300,2022020806,Shot,300,SHOT,John Tavares Wrist Shot saved by Linus Ullmark,2023-02-02T02:10:56Z,2,19:47,00:13,1,2,10.0,Toronto Maple Leafs,TOR
+220,10,6,Toronto Maple Leafs,Boston Bruins,2022020806551,2022020806,Period End,551,PERIOD_END,End of 2nd Period,2023-02-02T02:11:09Z,2,20:00,00:00,1,2,,,
+221,10,6,Toronto Maple Leafs,Boston Bruins,2022020806554,2022020806,Period Official,554,PERIOD_OFFICIAL,Period Official,2023-02-02T02:29:34Z,2,20:00,00:00,1,2,,,
+222,10,6,Toronto Maple Leafs,Boston Bruins,2022020806555,2022020806,Period Ready,555,PERIOD_READY,Period Ready,2023-02-02T02:29:38Z,3,00:00,20:00,1,2,,,
+223,10,6,Toronto Maple Leafs,Boston Bruins,2022020806423,2022020806,Period Start,423,PERIOD_START,Period Start,2023-02-02T02:29:58Z,3,00:00,20:00,1,2,,,
+224,10,6,Toronto Maple Leafs,Boston Bruins,2022020806424,2022020806,Faceoff,424,FACEOFF,Patrice Bergeron faceoff won against John Tavares,2023-02-02T02:29:58Z,3,00:00,20:00,1,2,6.0,Boston Bruins,BOS
+225,10,6,Toronto Maple Leafs,Boston Bruins,2022020806425,2022020806,Takeaway,425,TAKEAWAY,Takeaway by Craig Smith,2023-02-02T02:30:06Z,3,00:08,19:52,1,2,6.0,Boston Bruins,BOS
+226,10,6,Toronto Maple Leafs,Boston Bruins,2022020806556,2022020806,Shot,556,SHOT,Brad Marchand Wrist Shot saved by Ilya Samsonov,2023-02-02T02:30:18Z,3,00:20,19:40,1,2,6.0,Boston Bruins,BOS
+227,10,6,Toronto Maple Leafs,Boston Bruins,2022020806371,2022020806,Stoppage,371,STOP,Icing,2023-02-02T02:30:25Z,3,00:27,19:33,1,2,,,
+228,10,6,Toronto Maple Leafs,Boston Bruins,2022020806426,2022020806,Faceoff,426,FACEOFF,John Tavares faceoff won against David Krejci,2023-02-02T02:30:50Z,3,00:27,19:33,1,2,10.0,Toronto Maple Leafs,TOR
+229,10,6,Toronto Maple Leafs,Boston Bruins,2022020806427,2022020806,Giveaway,427,GIVEAWAY,Giveaway by Michael Bunting,2023-02-02T02:31:00Z,3,00:37,19:23,1,2,10.0,Toronto Maple Leafs,TOR
+230,10,6,Toronto Maple Leafs,Boston Bruins,2022020806372,2022020806,Hit,372,HIT,Nick Foligno hit Justin Holl,2023-02-02T02:31:44Z,3,01:21,18:39,1,2,6.0,Boston Bruins,BOS
+231,10,6,Toronto Maple Leafs,Boston Bruins,2022020806557,2022020806,Shot,557,SHOT,Calle Jarnkrok Wrist Shot saved by Linus Ullmark,2023-02-02T02:31:52Z,3,01:29,18:31,1,2,10.0,Toronto Maple Leafs,TOR
+232,10,6,Toronto Maple Leafs,Boston Bruins,2022020806373,2022020806,Stoppage,373,STOP,Goalie Stopped,2023-02-02T02:31:53Z,3,01:30,18:30,1,2,,,
+233,10,6,Toronto Maple Leafs,Boston Bruins,2022020806428,2022020806,Faceoff,428,FACEOFF,David Kampf faceoff won against Charlie Coyle,2023-02-02T02:32:26Z,3,01:30,18:30,1,2,10.0,Toronto Maple Leafs,TOR
+234,10,6,Toronto Maple Leafs,Boston Bruins,2022020806374,2022020806,Hit,374,HIT,Timothy Liljegren hit Jakub Lauko,2023-02-02T02:33:04Z,3,02:08,17:52,1,2,10.0,Toronto Maple Leafs,TOR
+235,10,6,Toronto Maple Leafs,Boston Bruins,2022020806558,2022020806,Goal,558,GOAL,"A.J. Greer (5) Wrist Shot, assists: Jakub Lauko (2)",2023-02-02T02:33:10Z,3,02:13,17:47,1,3,6.0,Boston Bruins,BOS
+236,10,6,Toronto Maple Leafs,Boston Bruins,2022020806429,2022020806,Faceoff,429,FACEOFF,Pontus Holmberg faceoff won against Trent Frederic,2023-02-02T02:33:54Z,3,02:13,17:47,1,3,10.0,Toronto Maple Leafs,TOR
+237,10,6,Toronto Maple Leafs,Boston Bruins,2022020806816,2022020806,Penalty,816,PENALTY,Wayne Simmonds Fighting against A.J. Greer,2023-02-02T02:33:56Z,3,02:15,17:45,1,3,10.0,Toronto Maple Leafs,TOR
+238,10,6,Toronto Maple Leafs,Boston Bruins,2022020806820,2022020806,Penalty,820,PENALTY,A.J. Greer Fighting against Wayne Simmonds,2023-02-02T02:33:56Z,3,02:15,17:45,1,3,6.0,Boston Bruins,BOS
+239,10,6,Toronto Maple Leafs,Boston Bruins,2022020806430,2022020806,Faceoff,430,FACEOFF,John Tavares faceoff won against Trent Frederic,2023-02-02T02:35:00Z,3,02:15,17:45,1,3,10.0,Toronto Maple Leafs,TOR
+240,10,6,Toronto Maple Leafs,Boston Bruins,2022020806559,2022020806,Shot,559,SHOT,Rasmus Sandin Wrist Shot saved by Linus Ullmark,2023-02-02T02:35:23Z,3,02:38,17:22,1,3,10.0,Toronto Maple Leafs,TOR
+241,10,6,Toronto Maple Leafs,Boston Bruins,2022020806375,2022020806,Stoppage,375,STOP,Goalie Stopped,2023-02-02T02:35:24Z,3,02:38,17:22,1,3,,,
+242,10,6,Toronto Maple Leafs,Boston Bruins,2022020806431,2022020806,Faceoff,431,FACEOFF,John Tavares faceoff won against Patrice Bergeron,2023-02-02T02:35:52Z,3,02:38,17:22,1,3,10.0,Toronto Maple Leafs,TOR
+243,10,6,Toronto Maple Leafs,Boston Bruins,2022020806560,2022020806,Missed Shot,560,MISSED_SHOT,Michael Bunting Wide of Net Linus Ullmark,2023-02-02T02:36:01Z,3,02:47,17:13,1,3,10.0,Toronto Maple Leafs,TOR
+244,10,6,Toronto Maple Leafs,Boston Bruins,2022020806376,2022020806,Hit,376,HIT,Charlie McAvoy hit TJ Brodie,2023-02-02T02:36:12Z,3,02:58,17:02,1,3,6.0,Boston Bruins,BOS
+245,10,6,Toronto Maple Leafs,Boston Bruins,2022020806377,2022020806,Stoppage,377,STOP,Icing,2023-02-02T02:36:38Z,3,03:24,16:36,1,3,,,
+246,10,6,Toronto Maple Leafs,Boston Bruins,2022020806432,2022020806,Faceoff,432,FACEOFF,Alexander Kerfoot faceoff won against David Krejci,2023-02-02T02:37:39Z,3,03:24,16:36,1,3,10.0,Toronto Maple Leafs,TOR
+247,10,6,Toronto Maple Leafs,Boston Bruins,2022020806561,2022020806,Missed Shot,561,MISSED_SHOT,Calle Jarnkrok Over Net Linus Ullmark,2023-02-02T02:37:45Z,3,03:30,16:30,1,3,10.0,Toronto Maple Leafs,TOR
+248,10,6,Toronto Maple Leafs,Boston Bruins,2022020806562,2022020806,Shot,562,SHOT,William Nylander Backhand saved by Linus Ullmark,2023-02-02T02:38:02Z,3,03:47,16:13,1,3,10.0,Toronto Maple Leafs,TOR
+249,10,6,Toronto Maple Leafs,Boston Bruins,2022020806563,2022020806,Shot,563,SHOT,Alexander Kerfoot Wrist Shot saved by Linus Ullmark,2023-02-02T02:38:09Z,3,03:54,16:06,1,3,10.0,Toronto Maple Leafs,TOR
+250,10,6,Toronto Maple Leafs,Boston Bruins,2022020806378,2022020806,Stoppage,378,STOP,Goalie Stopped,2023-02-02T02:38:10Z,3,03:55,16:05,1,3,,,
+251,10,6,Toronto Maple Leafs,Boston Bruins,2022020806433,2022020806,Faceoff,433,FACEOFF,David Krejci faceoff won against David Kampf,2023-02-02T02:39:15Z,3,03:55,16:05,1,3,6.0,Boston Bruins,BOS
+252,10,6,Toronto Maple Leafs,Boston Bruins,2022020806434,2022020806,Giveaway,434,GIVEAWAY,Giveaway by Linus Ullmark,2023-02-02T02:39:28Z,3,04:08,15:52,1,3,6.0,Boston Bruins,BOS
+253,10,6,Toronto Maple Leafs,Boston Bruins,2022020806564,2022020806,Blocked Shot,564,BLOCKED_SHOT,Pierre Engvall shot blocked shot by David Krejci,2023-02-02T02:39:31Z,3,04:11,15:49,1,3,6.0,Boston Bruins,BOS
+254,10,6,Toronto Maple Leafs,Boston Bruins,2022020806379,2022020806,Hit,379,HIT,Brandon Carlo hit Joey Anderson,2023-02-02T02:39:40Z,3,04:20,15:40,1,3,6.0,Boston Bruins,BOS
+255,10,6,Toronto Maple Leafs,Boston Bruins,2022020806435,2022020806,Takeaway,435,TAKEAWAY,Takeaway by David Kampf,2023-02-02T02:39:44Z,3,04:24,15:36,1,3,10.0,Toronto Maple Leafs,TOR
+256,10,6,Toronto Maple Leafs,Boston Bruins,2022020806565,2022020806,Missed Shot,565,MISSED_SHOT,Pierre Engvall Wide of Net Linus Ullmark,2023-02-02T02:39:52Z,3,04:32,15:28,1,3,10.0,Toronto Maple Leafs,TOR
+257,10,6,Toronto Maple Leafs,Boston Bruins,2022020806380,2022020806,Hit,380,HIT,Joey Anderson hit Brandon Carlo,2023-02-02T02:39:58Z,3,04:38,15:22,1,3,10.0,Toronto Maple Leafs,TOR
+258,10,6,Toronto Maple Leafs,Boston Bruins,2022020806566,2022020806,Missed Shot,566,MISSED_SHOT,Pierre Engvall Wide of Net Linus Ullmark,2023-02-02T02:40:00Z,3,04:40,15:20,1,3,10.0,Toronto Maple Leafs,TOR
+259,10,6,Toronto Maple Leafs,Boston Bruins,2022020806436,2022020806,Takeaway,436,TAKEAWAY,Takeaway by Mitchell Marner,2023-02-02T02:40:25Z,3,05:05,14:55,1,3,10.0,Toronto Maple Leafs,TOR
+260,10,6,Toronto Maple Leafs,Boston Bruins,2022020806567,2022020806,Blocked Shot,567,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Charlie McAvoy,2023-02-02T02:40:35Z,3,05:15,14:45,1,3,6.0,Boston Bruins,BOS
+261,10,6,Toronto Maple Leafs,Boston Bruins,2022020806568,2022020806,Shot,568,SHOT,Michael Bunting Wrist Shot saved by Linus Ullmark,2023-02-02T02:40:37Z,3,05:17,14:43,1,3,10.0,Toronto Maple Leafs,TOR
+262,10,6,Toronto Maple Leafs,Boston Bruins,2022020806569,2022020806,Shot,569,SHOT,Alexander Kerfoot Wrist Shot saved by Linus Ullmark,2023-02-02T02:41:05Z,3,05:45,14:15,1,3,10.0,Toronto Maple Leafs,TOR
+263,10,6,Toronto Maple Leafs,Boston Bruins,2022020806570,2022020806,Shot,570,SHOT,Alexander Kerfoot Wrist Shot saved by Linus Ullmark,2023-02-02T02:41:10Z,3,05:50,14:10,1,3,10.0,Toronto Maple Leafs,TOR
+264,10,6,Toronto Maple Leafs,Boston Bruins,2022020806571,2022020806,Missed Shot,571,MISSED_SHOT,Timothy Liljegren Over Net Linus Ullmark,2023-02-02T02:41:18Z,3,05:58,14:02,1,3,10.0,Toronto Maple Leafs,TOR
+265,10,6,Toronto Maple Leafs,Boston Bruins,2022020806572,2022020806,Missed Shot,572,MISSED_SHOT,William Nylander Over Net Linus Ullmark,2023-02-02T02:41:48Z,3,06:28,13:32,1,3,10.0,Toronto Maple Leafs,TOR
+266,10,6,Toronto Maple Leafs,Boston Bruins,2022020806381,2022020806,Stoppage,381,STOP,Puck in Netting,2023-02-02T02:41:49Z,3,06:29,13:31,1,3,,,
+267,10,6,Toronto Maple Leafs,Boston Bruins,2022020806437,2022020806,Faceoff,437,FACEOFF,Patrice Bergeron faceoff won against John Tavares,2023-02-02T02:44:21Z,3,06:29,13:31,1,3,6.0,Boston Bruins,BOS
+268,10,6,Toronto Maple Leafs,Boston Bruins,2022020806382,2022020806,Hit,382,HIT,TJ Brodie hit Brad Marchand,2023-02-02T02:44:33Z,3,06:41,13:19,1,3,10.0,Toronto Maple Leafs,TOR
+269,10,6,Toronto Maple Leafs,Boston Bruins,2022020806573,2022020806,Missed Shot,573,MISSED_SHOT,William Nylander Over Net Linus Ullmark,2023-02-02T02:44:51Z,3,06:59,13:01,1,3,10.0,Toronto Maple Leafs,TOR
+270,10,6,Toronto Maple Leafs,Boston Bruins,2022020806438,2022020806,Takeaway,438,TAKEAWAY,Takeaway by Hampus Lindholm,2023-02-02T02:45:01Z,3,07:08,12:52,1,3,6.0,Boston Bruins,BOS
+271,10,6,Toronto Maple Leafs,Boston Bruins,2022020806574,2022020806,Shot,574,SHOT,Trent Frederic Backhand saved by Ilya Samsonov,2023-02-02T02:46:06Z,3,08:14,11:46,1,3,6.0,Boston Bruins,BOS
+272,10,6,Toronto Maple Leafs,Boston Bruins,2022020806383,2022020806,Hit,383,HIT,Connor Clifton hit Calle Jarnkrok,2023-02-02T02:46:25Z,3,08:33,11:27,1,3,6.0,Boston Bruins,BOS
+273,10,6,Toronto Maple Leafs,Boston Bruins,2022020806575,2022020806,Goal,575,GOAL,"Calle Jarnkrok (12) Slap Shot, assists: Mark Giordano (16), Justin Holl (9)",2023-02-02T02:46:31Z,3,08:38,11:22,2,3,10.0,Toronto Maple Leafs,TOR
+274,10,6,Toronto Maple Leafs,Boston Bruins,2022020806928,2022020806,Penalty,928,PENALTY,Michael Bunting Roughing against Charlie Coyle,2023-02-02T02:46:31Z,3,08:38,11:22,2,3,10.0,Toronto Maple Leafs,TOR
+275,10,6,Toronto Maple Leafs,Boston Bruins,2022020806932,2022020806,Penalty,932,PENALTY,Charlie Coyle Roughing against Michael Bunting,2023-02-02T02:46:31Z,3,08:38,11:22,2,3,6.0,Boston Bruins,BOS
+276,10,6,Toronto Maple Leafs,Boston Bruins,2022020806439,2022020806,Faceoff,439,FACEOFF,Pavel Zacha faceoff won against William Nylander,2023-02-02T02:48:50Z,3,08:38,11:22,2,3,6.0,Boston Bruins,BOS
+277,10,6,Toronto Maple Leafs,Boston Bruins,2022020806576,2022020806,Goal,576,GOAL,"Pavel Zacha (10) Wrist Shot, assists: Charlie McAvoy (28), Matt Grzelcyk (16)",2023-02-02T02:49:21Z,3,09:08,10:52,2,4,6.0,Boston Bruins,BOS
+278,10,6,Toronto Maple Leafs,Boston Bruins,2022020806440,2022020806,Faceoff,440,FACEOFF,David Krejci faceoff won against John Tavares,2023-02-02T02:50:08Z,3,09:08,10:52,2,4,6.0,Boston Bruins,BOS
+279,10,6,Toronto Maple Leafs,Boston Bruins,2022020806384,2022020806,Stoppage,384,STOP,Icing,2023-02-02T02:50:21Z,3,09:22,10:38,2,4,,,
+280,10,6,Toronto Maple Leafs,Boston Bruins,2022020806441,2022020806,Faceoff,441,FACEOFF,David Krejci faceoff won against John Tavares,2023-02-02T02:51:00Z,3,09:22,10:38,2,4,6.0,Boston Bruins,BOS
+281,10,6,Toronto Maple Leafs,Boston Bruins,2022020806385,2022020806,Stoppage,385,STOP,Goalie Stopped,2023-02-02T02:51:43Z,3,10:05,09:55,2,4,,,
+282,10,6,Toronto Maple Leafs,Boston Bruins,2022020806577,2022020806,Shot,577,SHOT,Alexander Kerfoot Wrist Shot saved by Linus Ullmark,2023-02-02T02:51:43Z,3,10:05,09:55,2,4,10.0,Toronto Maple Leafs,TOR
+283,10,6,Toronto Maple Leafs,Boston Bruins,2022020806442,2022020806,Faceoff,442,FACEOFF,John Tavares faceoff won against Patrice Bergeron,2023-02-02T02:54:10Z,3,10:05,09:55,2,4,10.0,Toronto Maple Leafs,TOR
+284,10,6,Toronto Maple Leafs,Boston Bruins,2022020806578,2022020806,Blocked Shot,578,BLOCKED_SHOT,TJ Brodie shot blocked shot by Charlie McAvoy,2023-02-02T02:54:15Z,3,10:10,09:50,2,4,6.0,Boston Bruins,BOS
+285,10,6,Toronto Maple Leafs,Boston Bruins,2022020806579,2022020806,Shot,579,SHOT,Mitchell Marner Deflected saved by Linus Ullmark,2023-02-02T02:54:26Z,3,10:21,09:39,2,4,10.0,Toronto Maple Leafs,TOR
+286,10,6,Toronto Maple Leafs,Boston Bruins,2022020806386,2022020806,Stoppage,386,STOP,Goalie Stopped,2023-02-02T02:54:28Z,3,10:23,09:37,2,4,,,
+287,10,6,Toronto Maple Leafs,Boston Bruins,2022020806443,2022020806,Faceoff,443,FACEOFF,Patrice Bergeron faceoff won against John Tavares,2023-02-02T02:54:59Z,3,10:23,09:37,2,4,6.0,Boston Bruins,BOS
+288,10,6,Toronto Maple Leafs,Boston Bruins,2022020806444,2022020806,Takeaway,444,TAKEAWAY,Takeaway by TJ Brodie,2023-02-02T02:55:18Z,3,10:42,09:18,2,4,10.0,Toronto Maple Leafs,TOR
+289,10,6,Toronto Maple Leafs,Boston Bruins,2022020806387,2022020806,Stoppage,387,STOP,Icing,2023-02-02T02:56:40Z,3,12:04,07:56,2,4,,,
+290,10,6,Toronto Maple Leafs,Boston Bruins,2022020806445,2022020806,Faceoff,445,FACEOFF,David Krejci faceoff won against John Tavares,2023-02-02T02:57:21Z,3,12:04,07:56,2,4,6.0,Boston Bruins,BOS
+291,10,6,Toronto Maple Leafs,Boston Bruins,2022020806580,2022020806,Shot,580,SHOT,Pavel Zacha Backhand saved by Ilya Samsonov,2023-02-02T02:57:31Z,3,12:14,07:46,2,4,6.0,Boston Bruins,BOS
+292,10,6,Toronto Maple Leafs,Boston Bruins,2022020806388,2022020806,Hit,388,HIT,David Pastrnak hit Rasmus Sandin,2023-02-02T02:57:33Z,3,12:16,07:44,2,4,6.0,Boston Bruins,BOS
+293,10,6,Toronto Maple Leafs,Boston Bruins,2022020806581,2022020806,Goal,581,GOAL,"Pavel Zacha (11) Wrist Shot, assists: David Krejci (30), David Pastrnak (34)",2023-02-02T02:57:35Z,3,12:19,07:41,2,5,6.0,Boston Bruins,BOS
+294,10,6,Toronto Maple Leafs,Boston Bruins,2022020806446,2022020806,Faceoff,446,FACEOFF,Pontus Holmberg faceoff won against Charlie Coyle,2023-02-02T02:58:23Z,3,12:19,07:41,2,5,10.0,Toronto Maple Leafs,TOR
+295,10,6,Toronto Maple Leafs,Boston Bruins,2022020806582,2022020806,Shot,582,SHOT,Connor Clifton Wrist Shot saved by Ilya Samsonov,2023-02-02T02:59:05Z,3,13:01,06:59,2,5,6.0,Boston Bruins,BOS
+296,10,6,Toronto Maple Leafs,Boston Bruins,2022020806389,2022020806,Hit,389,HIT,Brandon Carlo hit David Kampf,2023-02-02T02:59:30Z,3,13:26,06:34,2,5,6.0,Boston Bruins,BOS
+297,10,6,Toronto Maple Leafs,Boston Bruins,2022020806447,2022020806,Takeaway,447,TAKEAWAY,Takeaway by Joey Anderson,2023-02-02T02:59:34Z,3,13:30,06:30,2,5,10.0,Toronto Maple Leafs,TOR
+298,10,6,Toronto Maple Leafs,Boston Bruins,2022020806390,2022020806,Hit,390,HIT,Brandon Carlo hit David Kampf,2023-02-02T02:59:36Z,3,13:32,06:28,2,5,6.0,Boston Bruins,BOS
+299,10,6,Toronto Maple Leafs,Boston Bruins,2022020806583,2022020806,Shot,583,SHOT,Justin Holl Wrist Shot saved by Linus Ullmark,2023-02-02T02:59:41Z,3,13:37,06:23,2,5,10.0,Toronto Maple Leafs,TOR
+300,10,6,Toronto Maple Leafs,Boston Bruins,2022020806391,2022020806,Stoppage,391,STOP,Goalie Stopped,2023-02-02T02:59:42Z,3,13:38,06:22,2,5,,,
+301,10,6,Toronto Maple Leafs,Boston Bruins,2022020806448,2022020806,Faceoff,448,FACEOFF,Patrice Bergeron faceoff won against David Kampf,2023-02-02T03:00:14Z,3,13:38,06:22,2,5,6.0,Boston Bruins,BOS
+302,10,6,Toronto Maple Leafs,Boston Bruins,2022020806392,2022020806,Stoppage,392,STOP,Puck in Netting,2023-02-02T03:00:29Z,3,13:53,06:07,2,5,,,
+303,10,6,Toronto Maple Leafs,Boston Bruins,2022020806584,2022020806,Blocked Shot,584,BLOCKED_SHOT,Patrice Bergeron shot blocked shot by Justin Holl,2023-02-02T03:00:29Z,3,13:53,06:07,2,5,10.0,Toronto Maple Leafs,TOR
+304,10,6,Toronto Maple Leafs,Boston Bruins,2022020806449,2022020806,Faceoff,449,FACEOFF,John Tavares faceoff won against Patrice Bergeron,2023-02-02T03:00:56Z,3,13:53,06:07,2,5,10.0,Toronto Maple Leafs,TOR
+305,10,6,Toronto Maple Leafs,Boston Bruins,2022020806585,2022020806,Shot,585,SHOT,Pavel Zacha Tip-In saved by Ilya Samsonov,2023-02-02T03:01:39Z,3,14:36,05:24,2,5,6.0,Boston Bruins,BOS
+306,10,6,Toronto Maple Leafs,Boston Bruins,2022020806393,2022020806,Hit,393,HIT,Pavel Zacha hit Rasmus Sandin,2023-02-02T03:01:49Z,3,14:46,05:14,2,5,6.0,Boston Bruins,BOS
+307,10,6,Toronto Maple Leafs,Boston Bruins,2022020806394,2022020806,Hit,394,HIT,Calle Jarnkrok hit Pavel Zacha,2023-02-02T03:01:57Z,3,14:54,05:06,2,5,10.0,Toronto Maple Leafs,TOR
+308,10,6,Toronto Maple Leafs,Boston Bruins,2022020806450,2022020806,Giveaway,450,GIVEAWAY,Giveaway by Rasmus Sandin,2023-02-02T03:02:02Z,3,14:59,05:01,2,5,10.0,Toronto Maple Leafs,TOR
+309,10,6,Toronto Maple Leafs,Boston Bruins,2022020806751,2022020806,Takeaway,751,TAKEAWAY,Takeaway by John Tavares,2023-02-02T03:02:07Z,3,15:04,04:56,2,5,10.0,Toronto Maple Leafs,TOR
+310,10,6,Toronto Maple Leafs,Boston Bruins,2022020806395,2022020806,Hit,395,HIT,Wayne Simmonds hit Connor Clifton,2023-02-02T03:02:27Z,3,15:24,04:36,2,5,10.0,Toronto Maple Leafs,TOR
+311,10,6,Toronto Maple Leafs,Boston Bruins,2022020806396,2022020806,Stoppage,396,STOP,Icing,2023-02-02T03:02:32Z,3,15:29,04:31,2,5,,,
+312,10,6,Toronto Maple Leafs,Boston Bruins,2022020806752,2022020806,Faceoff,752,FACEOFF,Charlie Coyle faceoff won against Zach Aston-Reese,2023-02-02T03:03:17Z,3,15:29,04:31,2,5,6.0,Boston Bruins,BOS
+313,10,6,Toronto Maple Leafs,Boston Bruins,2022020806397,2022020806,Hit,397,HIT,Wayne Simmonds hit Charlie Coyle,2023-02-02T03:03:39Z,3,15:51,04:09,2,5,10.0,Toronto Maple Leafs,TOR
+314,10,6,Toronto Maple Leafs,Boston Bruins,2022020806398,2022020806,Hit,398,HIT,TJ Brodie hit Taylor Hall,2023-02-02T03:03:50Z,3,16:02,03:58,2,5,10.0,Toronto Maple Leafs,TOR
+315,10,6,Toronto Maple Leafs,Boston Bruins,2022020806753,2022020806,Takeaway,753,TAKEAWAY,Takeaway by A.J. Greer,2023-02-02T03:04:13Z,3,16:25,03:35,2,5,6.0,Boston Bruins,BOS
+316,10,6,Toronto Maple Leafs,Boston Bruins,2022020806399,2022020806,Hit,399,HIT,Jakub Lauko hit Mark Giordano,2023-02-02T03:04:25Z,3,16:37,03:23,2,5,6.0,Boston Bruins,BOS
+317,10,6,Toronto Maple Leafs,Boston Bruins,2022020806754,2022020806,Takeaway,754,TAKEAWAY,Takeaway by Brad Marchand,2023-02-02T03:04:47Z,3,16:59,03:01,2,5,6.0,Boston Bruins,BOS
+318,10,6,Toronto Maple Leafs,Boston Bruins,2022020806400,2022020806,Stoppage,400,STOP,Puck Frozen,2023-02-02T03:04:56Z,3,17:09,02:51,2,5,,,
+319,10,6,Toronto Maple Leafs,Boston Bruins,2022020806755,2022020806,Faceoff,755,FACEOFF,Patrice Bergeron faceoff won against David Kampf,2023-02-02T03:07:16Z,3,17:09,02:51,2,5,6.0,Boston Bruins,BOS
+320,10,6,Toronto Maple Leafs,Boston Bruins,2022020806586,2022020806,Missed Shot,586,MISSED_SHOT,Patrice Bergeron Over Net Ilya Samsonov,2023-02-02T03:07:27Z,3,17:20,02:40,2,5,6.0,Boston Bruins,BOS
+321,10,6,Toronto Maple Leafs,Boston Bruins,2022020806851,2022020806,Hit,851,HIT,Timothy Liljegren hit Craig Smith,2023-02-02T03:07:37Z,3,17:30,02:30,2,5,10.0,Toronto Maple Leafs,TOR
+322,10,6,Toronto Maple Leafs,Boston Bruins,2022020806756,2022020806,Giveaway,756,GIVEAWAY,Giveaway by Rasmus Sandin,2023-02-02T03:07:46Z,3,17:39,02:21,2,5,10.0,Toronto Maple Leafs,TOR
+323,10,6,Toronto Maple Leafs,Boston Bruins,2022020806852,2022020806,Stoppage,852,STOP,High Stick,2023-02-02T03:07:50Z,3,17:42,02:18,2,5,,,
+324,10,6,Toronto Maple Leafs,Boston Bruins,2022020806757,2022020806,Faceoff,757,FACEOFF,David Krejci faceoff won against Pontus Holmberg,2023-02-02T03:08:27Z,3,17:42,02:18,2,5,6.0,Boston Bruins,BOS
+325,10,6,Toronto Maple Leafs,Boston Bruins,2022020806587,2022020806,Blocked Shot,587,BLOCKED_SHOT,Pavel Zacha shot blocked shot by Justin Holl,2023-02-02T03:08:35Z,3,17:50,02:10,2,5,10.0,Toronto Maple Leafs,TOR
+326,10,6,Toronto Maple Leafs,Boston Bruins,2022020806758,2022020806,Giveaway,758,GIVEAWAY,Giveaway by Pontus Holmberg,2023-02-02T03:08:39Z,3,17:54,02:06,2,5,10.0,Toronto Maple Leafs,TOR
+327,10,6,Toronto Maple Leafs,Boston Bruins,2022020806588,2022020806,Shot,588,SHOT,Pierre Engvall Wrist Shot saved by Linus Ullmark,2023-02-02T03:08:57Z,3,18:12,01:48,2,5,10.0,Toronto Maple Leafs,TOR
+328,10,6,Toronto Maple Leafs,Boston Bruins,2022020806853,2022020806,Hit,853,HIT,Mark Giordano hit David Pastrnak,2023-02-02T03:09:05Z,3,18:20,01:40,2,5,10.0,Toronto Maple Leafs,TOR
+329,10,6,Toronto Maple Leafs,Boston Bruins,2022020806589,2022020806,Blocked Shot,589,BLOCKED_SHOT,Joey Anderson shot blocked shot by Nick Foligno,2023-02-02T03:09:51Z,3,19:06,00:54,2,5,6.0,Boston Bruins,BOS
+330,10,6,Toronto Maple Leafs,Boston Bruins,2022020806854,2022020806,Hit,854,HIT,Jakub Lauko hit Joey Anderson,2023-02-02T03:10:13Z,3,19:28,00:32,2,5,6.0,Boston Bruins,BOS
+331,10,6,Toronto Maple Leafs,Boston Bruins,2022020806855,2022020806,Stoppage,855,STOP,Puck in Crowd,2023-02-02T03:10:32Z,3,19:46,00:14,2,5,,,
+332,10,6,Toronto Maple Leafs,Boston Bruins,2022020806759,2022020806,Faceoff,759,FACEOFF,Pontus Holmberg faceoff won against Trent Frederic,2023-02-02T03:11:03Z,3,19:46,00:14,2,5,10.0,Toronto Maple Leafs,TOR
+333,10,6,Toronto Maple Leafs,Boston Bruins,2022020806590,2022020806,Blocked Shot,590,BLOCKED_SHOT,Rasmus Sandin shot blocked shot by Jakub Lauko,2023-02-02T03:11:10Z,3,19:54,00:06,2,5,6.0,Boston Bruins,BOS
+334,10,6,Toronto Maple Leafs,Boston Bruins,2022020806591,2022020806,Period End,591,PERIOD_END,End of 3rd Period,2023-02-02T03:11:16Z,3,20:00,00:00,2,5,,,
+335,10,6,Toronto Maple Leafs,Boston Bruins,2022020806594,2022020806,Period Official,594,PERIOD_OFFICIAL,Period Official,2023-02-02T03:11:24Z,3,20:00,00:00,2,5,,,
+336,10,6,Toronto Maple Leafs,Boston Bruins,2022020806595,2022020806,Game End,595,GAME_END,Game End,2023-02-02T03:11:36Z,3,20:00,00:00,2,5,,,
+337,10,6,Toronto Maple Leafs,Boston Bruins,2022020806596,2022020806,Game Official,596,GAME_OFFICIAL,Game Official,2023-02-02T03:49:41Z,3,20:00,00:00,2,5,,,

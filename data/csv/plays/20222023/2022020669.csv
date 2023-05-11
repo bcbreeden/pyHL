@@ -1,0 +1,311 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,2,30,New York Islanders,Minnesota Wild,20220206691,2022020669,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-01-12T23:33:50Z,1,00:00,20:00,0,0,,,
+1,2,30,New York Islanders,Minnesota Wild,20220206695,2022020669,Period Ready,5,PERIOD_READY,Period Ready,2023-01-13T00:35:48Z,1,00:00,20:00,0,0,,,
+2,2,30,New York Islanders,Minnesota Wild,20220206698,2022020669,Period Start,8,PERIOD_START,Period Start,2023-01-13T00:38:04Z,1,00:00,20:00,0,0,,,
+3,2,30,New York Islanders,Minnesota Wild,202202066951,2022020669,Faceoff,51,FACEOFF,Joel Eriksson Ek faceoff won against Casey Cizikas,2023-01-13T00:38:04Z,1,00:00,20:00,0,0,30.0,Minnesota Wild,MIN
+4,2,30,New York Islanders,Minnesota Wild,2022020669201,2022020669,Missed Shot,201,MISSED_SHOT,Casey Cizikas Wide of Net Filip Gustavsson,2023-01-13T00:38:28Z,1,00:24,19:36,0,0,2.0,New York Islanders,NYI
+5,2,30,New York Islanders,Minnesota Wild,20220206699,2022020669,Shot,9,SHOT,Casey Cizikas Tip-In saved by Filip Gustavsson,2023-01-13T00:38:37Z,1,00:33,19:27,0,0,2.0,New York Islanders,NYI
+6,2,30,New York Islanders,Minnesota Wild,202202066910,2022020669,Stoppage,10,STOP,Goalie Stopped,2023-01-13T00:38:38Z,1,00:34,19:26,0,0,,,
+7,2,30,New York Islanders,Minnesota Wild,202202066952,2022020669,Faceoff,52,FACEOFF,Connor Dewar faceoff won against Brock Nelson,2023-01-13T00:39:06Z,1,00:34,19:26,0,0,30.0,Minnesota Wild,MIN
+8,2,30,New York Islanders,Minnesota Wild,202202066911,2022020669,Stoppage,11,STOP,Puck in Benches,2023-01-13T00:39:13Z,1,00:41,19:19,0,0,,,
+9,2,30,New York Islanders,Minnesota Wild,202202066953,2022020669,Faceoff,53,FACEOFF,Connor Dewar faceoff won against Brock Nelson,2023-01-13T00:39:32Z,1,00:41,19:19,0,0,30.0,Minnesota Wild,MIN
+10,2,30,New York Islanders,Minnesota Wild,2022020669152,2022020669,Blocked Shot,152,BLOCKED_SHOT,Noah Dobson shot blocked shot by Jake Middleton,2023-01-13T00:39:48Z,1,00:57,19:03,0,0,30.0,Minnesota Wild,MIN
+11,2,30,New York Islanders,Minnesota Wild,202202066912,2022020669,Missed Shot,12,MISSED_SHOT,Noah Dobson Wide of Net Filip Gustavsson,2023-01-13T00:39:56Z,1,01:05,18:55,0,0,2.0,New York Islanders,NYI
+12,2,30,New York Islanders,Minnesota Wild,2022020669109,2022020669,Penalty,109,PENALTY,Jake Middleton Delaying Game - Puck over glass,2023-01-13T00:40:21Z,1,01:30,18:30,0,0,30.0,Minnesota Wild,MIN
+13,2,30,New York Islanders,Minnesota Wild,202202066954,2022020669,Faceoff,54,FACEOFF,Joel Eriksson Ek faceoff won against Jean-Gabriel Pageau,2023-01-13T00:40:57Z,1,01:30,18:30,0,0,30.0,Minnesota Wild,MIN
+14,2,30,New York Islanders,Minnesota Wild,2022020669153,2022020669,Blocked Shot,153,BLOCKED_SHOT,Brock Nelson shot blocked shot by Jonas Brodin,2023-01-13T00:41:20Z,1,01:53,18:07,0,0,30.0,Minnesota Wild,MIN
+15,2,30,New York Islanders,Minnesota Wild,202202066955,2022020669,Giveaway,55,GIVEAWAY,Giveaway by Mathew Barzal,2023-01-13T00:41:51Z,1,02:24,17:36,0,0,2.0,New York Islanders,NYI
+16,2,30,New York Islanders,Minnesota Wild,2022020669154,2022020669,Shot,154,SHOT,Marcus Foligno Wrist Shot saved by Ilya Sorokin,2023-01-13T00:41:52Z,1,02:25,17:35,0,0,30.0,Minnesota Wild,MIN
+17,2,30,New York Islanders,Minnesota Wild,2022020669155,2022020669,Shot,155,SHOT,Josh Bailey Slap Shot saved by Filip Gustavsson,2023-01-13T00:42:04Z,1,02:37,17:23,0,0,2.0,New York Islanders,NYI
+18,2,30,New York Islanders,Minnesota Wild,202202066914,2022020669,Blocked Shot,14,BLOCKED_SHOT,Brock Nelson shot blocked shot by Jon Merrill,2023-01-13T00:42:07Z,1,02:40,17:20,0,0,30.0,Minnesota Wild,MIN
+19,2,30,New York Islanders,Minnesota Wild,202202066956,2022020669,Takeaway,56,TAKEAWAY,Takeaway by Marcus Foligno,2023-01-13T00:42:21Z,1,02:54,17:06,0,0,30.0,Minnesota Wild,MIN
+20,2,30,New York Islanders,Minnesota Wild,2022020669156,2022020669,Blocked Shot,156,BLOCKED_SHOT,Anthony Beauvillier shot blocked shot by Matt Dumba,2023-01-13T00:42:31Z,1,03:04,16:56,0,0,30.0,Minnesota Wild,MIN
+21,2,30,New York Islanders,Minnesota Wild,202202066957,2022020669,Giveaway,57,GIVEAWAY,Giveaway by Anthony Beauvillier,2023-01-13T00:42:44Z,1,03:17,16:43,0,0,2.0,New York Islanders,NYI
+22,2,30,New York Islanders,Minnesota Wild,2022020669157,2022020669,Shot,157,SHOT,Connor Dewar Wrist Shot saved by Ilya Sorokin,2023-01-13T00:42:47Z,1,03:20,16:40,0,0,30.0,Minnesota Wild,MIN
+23,2,30,New York Islanders,Minnesota Wild,202202066915,2022020669,Stoppage,15,STOP,Goalie Stopped,2023-01-13T00:42:48Z,1,03:21,16:39,0,0,,,
+24,2,30,New York Islanders,Minnesota Wild,202202066959,2022020669,Faceoff,59,FACEOFF,Ryan Hartman faceoff won against Casey Cizikas,2023-01-13T00:43:16Z,1,03:21,16:39,0,0,30.0,Minnesota Wild,MIN
+25,2,30,New York Islanders,Minnesota Wild,202202066916,2022020669,Stoppage,16,STOP,Icing,2023-01-13T00:44:02Z,1,04:07,15:53,0,0,,,
+26,2,30,New York Islanders,Minnesota Wild,202202066960,2022020669,Faceoff,60,FACEOFF,Mats Zuccarello faceoff won against Casey Cizikas,2023-01-13T00:44:39Z,1,04:07,15:53,0,0,30.0,Minnesota Wild,MIN
+27,2,30,New York Islanders,Minnesota Wild,202202066917,2022020669,Hit,17,HIT,Jared Spurgeon hit Jean-Gabriel Pageau,2023-01-13T00:45:01Z,1,04:29,15:31,0,0,30.0,Minnesota Wild,MIN
+28,2,30,New York Islanders,Minnesota Wild,2022020669158,2022020669,Blocked Shot,158,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by Scott Mayfield,2023-01-13T00:45:10Z,1,04:38,15:22,0,0,2.0,New York Islanders,NYI
+29,2,30,New York Islanders,Minnesota Wild,202202066918,2022020669,Blocked Shot,18,BLOCKED_SHOT,Hudson Fasching shot blocked shot by Mats Zuccarello,2023-01-13T00:45:17Z,1,04:45,15:15,0,0,30.0,Minnesota Wild,MIN
+30,2,30,New York Islanders,Minnesota Wild,2022020669159,2022020669,Blocked Shot,159,BLOCKED_SHOT,Hudson Fasching shot blocked shot by Jared Spurgeon,2023-01-13T00:45:20Z,1,04:48,15:12,0,0,30.0,Minnesota Wild,MIN
+31,2,30,New York Islanders,Minnesota Wild,202202066961,2022020669,Giveaway,61,GIVEAWAY,Giveaway by Sebastian Aho,2023-01-13T00:46:19Z,1,05:47,14:13,0,0,2.0,New York Islanders,NYI
+32,2,30,New York Islanders,Minnesota Wild,2022020669160,2022020669,Missed Shot,160,MISSED_SHOT,Ryan Hartman Over Net Ilya Sorokin,2023-01-13T00:46:20Z,1,05:48,14:12,0,0,30.0,Minnesota Wild,MIN
+33,2,30,New York Islanders,Minnesota Wild,202202066921,2022020669,Stoppage,21,STOP,Icing,2023-01-13T00:47:09Z,1,06:36,13:24,0,0,,,
+34,2,30,New York Islanders,Minnesota Wild,202202066962,2022020669,Faceoff,62,FACEOFF,Joel Eriksson Ek faceoff won against Anders Lee,2023-01-13T00:47:34Z,1,06:36,13:24,0,0,30.0,Minnesota Wild,MIN
+35,2,30,New York Islanders,Minnesota Wild,2022020669161,2022020669,Missed Shot,161,MISSED_SHOT,Joel Eriksson Ek Wide of Net Ilya Sorokin,2023-01-13T00:47:44Z,1,06:46,13:14,0,0,30.0,Minnesota Wild,MIN
+36,2,30,New York Islanders,Minnesota Wild,202202066963,2022020669,Giveaway,63,GIVEAWAY,Giveaway by Jonas Brodin,2023-01-13T00:47:58Z,1,07:00,13:00,0,0,30.0,Minnesota Wild,MIN
+37,2,30,New York Islanders,Minnesota Wild,202202066922,2022020669,Hit,22,HIT,Brandon Duhaime hit Noah Dobson,2023-01-13T00:48:33Z,1,07:35,12:25,0,0,30.0,Minnesota Wild,MIN
+38,2,30,New York Islanders,Minnesota Wild,2022020669162,2022020669,Shot,162,SHOT,Jean-Gabriel Pageau Tip-In saved by Filip Gustavsson,2023-01-13T00:48:36Z,1,07:38,12:22,0,0,2.0,New York Islanders,NYI
+39,2,30,New York Islanders,Minnesota Wild,202202066923,2022020669,Stoppage,23,STOP,Goalie Stopped,2023-01-13T00:48:39Z,1,07:42,12:18,0,0,,,
+40,2,30,New York Islanders,Minnesota Wild,202202066964,2022020669,Faceoff,64,FACEOFF,Brock Nelson faceoff won against Ryan Reaves,2023-01-13T00:49:22Z,1,07:42,12:18,0,0,2.0,New York Islanders,NYI
+41,2,30,New York Islanders,Minnesota Wild,2022020669202,2022020669,Missed Shot,202,MISSED_SHOT,Brock Nelson Over Net Filip Gustavsson,2023-01-13T00:49:25Z,1,07:45,12:15,0,0,2.0,New York Islanders,NYI
+42,2,30,New York Islanders,Minnesota Wild,2022020669163,2022020669,Missed Shot,163,MISSED_SHOT,Noah Dobson Wide of Net Filip Gustavsson,2023-01-13T00:49:31Z,1,07:51,12:09,0,0,2.0,New York Islanders,NYI
+43,2,30,New York Islanders,Minnesota Wild,202202066924,2022020669,Missed Shot,24,MISSED_SHOT,Noah Dobson Wide of Net Filip Gustavsson,2023-01-13T00:49:44Z,1,08:04,11:56,0,0,2.0,New York Islanders,NYI
+44,2,30,New York Islanders,Minnesota Wild,202202066925,2022020669,Hit,25,HIT,Scott Mayfield hit Kirill Kaprizov,2023-01-13T00:50:25Z,1,08:45,11:15,0,0,2.0,New York Islanders,NYI
+45,2,30,New York Islanders,Minnesota Wild,202202066926,2022020669,Stoppage,26,STOP,Icing,2023-01-13T00:50:33Z,1,08:53,11:07,0,0,,,
+46,2,30,New York Islanders,Minnesota Wild,202202066965,2022020669,Faceoff,65,FACEOFF,Sam Steel faceoff won against Casey Cizikas,2023-01-13T00:51:01Z,1,08:53,11:07,0,0,30.0,Minnesota Wild,MIN
+47,2,30,New York Islanders,Minnesota Wild,202202066927,2022020669,Hit,27,HIT,Cal Clutterbuck hit Jake Middleton,2023-01-13T00:51:07Z,1,08:59,11:01,0,0,2.0,New York Islanders,NYI
+48,2,30,New York Islanders,Minnesota Wild,202202066966,2022020669,Takeaway,66,TAKEAWAY,Takeaway by Jared Spurgeon,2023-01-13T00:51:22Z,1,09:14,10:46,0,0,30.0,Minnesota Wild,MIN
+49,2,30,New York Islanders,Minnesota Wild,202202066928,2022020669,Hit,28,HIT,Cal Clutterbuck hit Kirill Kaprizov,2023-01-13T00:51:34Z,1,09:26,10:34,0,0,2.0,New York Islanders,NYI
+50,2,30,New York Islanders,Minnesota Wild,202202066929,2022020669,Hit,29,HIT,Ryan Pulock hit Mats Zuccarello,2023-01-13T00:51:46Z,1,09:38,10:22,0,0,2.0,New York Islanders,NYI
+51,2,30,New York Islanders,Minnesota Wild,202202066930,2022020669,Stoppage,30,STOP,Icing,2023-01-13T00:52:23Z,1,10:16,09:44,0,0,,,
+52,2,30,New York Islanders,Minnesota Wild,202202066967,2022020669,Faceoff,67,FACEOFF,Frederick Gaudreau faceoff won against Mathew Barzal,2023-01-13T00:52:56Z,1,10:16,09:44,0,0,30.0,Minnesota Wild,MIN
+53,2,30,New York Islanders,Minnesota Wild,2022020669203,2022020669,Missed Shot,203,MISSED_SHOT,Jon Merrill Wide of Net Ilya Sorokin,2023-01-13T00:53:00Z,1,10:20,09:40,0,0,30.0,Minnesota Wild,MIN
+54,2,30,New York Islanders,Minnesota Wild,202202066931,2022020669,Hit,31,HIT,Calen Addison hit Anders Lee,2023-01-13T00:53:09Z,1,10:29,09:31,0,0,30.0,Minnesota Wild,MIN
+55,2,30,New York Islanders,Minnesota Wild,202202066968,2022020669,Giveaway,68,GIVEAWAY,Giveaway by Ryan Hartman,2023-01-13T00:53:18Z,1,10:38,09:22,0,0,30.0,Minnesota Wild,MIN
+56,2,30,New York Islanders,Minnesota Wild,202202066969,2022020669,Giveaway,69,GIVEAWAY,Giveaway by Anders Lee,2023-01-13T00:53:27Z,1,10:47,09:13,0,0,2.0,New York Islanders,NYI
+57,2,30,New York Islanders,Minnesota Wild,2022020669204,2022020669,Shot,204,SHOT,Matt Boldy Wrist Shot saved by Ilya Sorokin,2023-01-13T00:53:35Z,1,10:55,09:05,0,0,30.0,Minnesota Wild,MIN
+58,2,30,New York Islanders,Minnesota Wild,202202066970,2022020669,Giveaway,70,GIVEAWAY,Giveaway by Mathew Barzal,2023-01-13T00:53:48Z,1,11:08,08:52,0,0,2.0,New York Islanders,NYI
+59,2,30,New York Islanders,Minnesota Wild,2022020669164,2022020669,Missed Shot,164,MISSED_SHOT,Scott Mayfield Over Net Filip Gustavsson,2023-01-13T00:54:00Z,1,11:20,08:40,0,0,2.0,New York Islanders,NYI
+60,2,30,New York Islanders,Minnesota Wild,202202066932,2022020669,Stoppage,32,STOP,Puck Frozen,2023-01-13T00:54:05Z,1,11:25,08:35,0,0,,,
+61,2,30,New York Islanders,Minnesota Wild,202202066971,2022020669,Faceoff,71,FACEOFF,Brock Nelson faceoff won against Joel Eriksson Ek,2023-01-13T00:56:25Z,1,11:25,08:35,0,0,2.0,New York Islanders,NYI
+62,2,30,New York Islanders,Minnesota Wild,2022020669165,2022020669,Shot,165,SHOT,Jordan Greenway Wrist Shot saved by Ilya Sorokin,2023-01-13T00:56:47Z,1,11:47,08:13,0,0,30.0,Minnesota Wild,MIN
+63,2,30,New York Islanders,Minnesota Wild,202202066972,2022020669,Giveaway,72,GIVEAWAY,Giveaway by Anthony Beauvillier,2023-01-13T00:56:59Z,1,11:59,08:01,0,0,2.0,New York Islanders,NYI
+64,2,30,New York Islanders,Minnesota Wild,202202066933,2022020669,Hit,33,HIT,Marcus Foligno hit Ryan Pulock,2023-01-13T00:57:22Z,1,12:22,07:38,0,0,30.0,Minnesota Wild,MIN
+65,2,30,New York Islanders,Minnesota Wild,202202066934,2022020669,Hit,34,HIT,Brandon Duhaime hit Ryan Pulock,2023-01-13T00:57:39Z,1,12:39,07:21,0,0,30.0,Minnesota Wild,MIN
+66,2,30,New York Islanders,Minnesota Wild,2022020669166,2022020669,Missed Shot,166,MISSED_SHOT,Sebastian Aho Wide of Net Filip Gustavsson,2023-01-13T00:57:48Z,1,12:48,07:12,0,0,2.0,New York Islanders,NYI
+67,2,30,New York Islanders,Minnesota Wild,202202066935,2022020669,Hit,35,HIT,Brandon Duhaime hit Noah Dobson,2023-01-13T00:58:01Z,1,13:01,06:59,0,0,30.0,Minnesota Wild,MIN
+68,2,30,New York Islanders,Minnesota Wild,202202066973,2022020669,Giveaway,73,GIVEAWAY,Giveaway by Noah Dobson,2023-01-13T00:58:16Z,1,13:16,06:44,0,0,2.0,New York Islanders,NYI
+69,2,30,New York Islanders,Minnesota Wild,2022020669167,2022020669,Missed Shot,167,MISSED_SHOT,Cal Clutterbuck Wide of Net Filip Gustavsson,2023-01-13T00:58:22Z,1,13:22,06:38,0,0,2.0,New York Islanders,NYI
+70,2,30,New York Islanders,Minnesota Wild,2022020669168,2022020669,Shot,168,SHOT,Sam Steel Wrist Shot saved by Ilya Sorokin,2023-01-13T00:58:35Z,1,13:35,06:25,0,0,30.0,Minnesota Wild,MIN
+71,2,30,New York Islanders,Minnesota Wild,202202066974,2022020669,Giveaway,74,GIVEAWAY,Giveaway by Scott Mayfield,2023-01-13T00:58:37Z,1,13:37,06:23,0,0,2.0,New York Islanders,NYI
+72,2,30,New York Islanders,Minnesota Wild,202202066936,2022020669,Stoppage,36,STOP,Goalie Stopped,2023-01-13T00:58:38Z,1,13:38,06:22,0,0,,,
+73,2,30,New York Islanders,Minnesota Wild,202202066975,2022020669,Faceoff,75,FACEOFF,Casey Cizikas faceoff won against Sam Steel,2023-01-13T01:00:50Z,1,13:38,06:22,0,0,2.0,New York Islanders,NYI
+74,2,30,New York Islanders,Minnesota Wild,202202066976,2022020669,Giveaway,76,GIVEAWAY,Giveaway by Alexander Romanov,2023-01-13T01:01:24Z,1,14:12,05:48,0,0,2.0,New York Islanders,NYI
+75,2,30,New York Islanders,Minnesota Wild,202202066977,2022020669,Giveaway,77,GIVEAWAY,Giveaway by Anthony Beauvillier,2023-01-13T01:02:54Z,1,15:42,04:18,0,0,2.0,New York Islanders,NYI
+76,2,30,New York Islanders,Minnesota Wild,202202066978,2022020669,Giveaway,78,GIVEAWAY,Giveaway by Sebastian Aho,2023-01-13T01:03:14Z,1,16:02,03:58,0,0,2.0,New York Islanders,NYI
+77,2,30,New York Islanders,Minnesota Wild,202202066938,2022020669,Hit,38,HIT,Joel Eriksson Ek hit Matt Martin,2023-01-13T01:04:00Z,1,16:48,03:12,0,0,30.0,Minnesota Wild,MIN
+78,2,30,New York Islanders,Minnesota Wild,2022020669169,2022020669,Goal,169,GOAL,"Scott Mayfield (5) Wrist Shot, assists: Matt Martin (8), Alexander Romanov (13)",2023-01-13T01:04:02Z,1,16:49,03:11,1,0,2.0,New York Islanders,NYI
+79,2,30,New York Islanders,Minnesota Wild,202202066939,2022020669,Faceoff,39,FACEOFF,Connor Dewar faceoff won against Mathew Barzal,2023-01-13T01:04:47Z,1,16:49,03:11,1,0,30.0,Minnesota Wild,MIN
+80,2,30,New York Islanders,Minnesota Wild,2022020669170,2022020669,Shot,170,SHOT,Jonas Brodin Wrist Shot saved by Ilya Sorokin,2023-01-13T01:04:51Z,1,16:53,03:07,1,0,30.0,Minnesota Wild,MIN
+81,2,30,New York Islanders,Minnesota Wild,202202066940,2022020669,Hit,40,HIT,Brandon Duhaime hit Ryan Pulock,2023-01-13T01:05:12Z,1,17:14,02:46,1,0,30.0,Minnesota Wild,MIN
+82,2,30,New York Islanders,Minnesota Wild,202202066941,2022020669,Hit,41,HIT,Zach Parise hit Ryan Reaves,2023-01-13T01:05:32Z,1,17:34,02:26,1,0,2.0,New York Islanders,NYI
+83,2,30,New York Islanders,Minnesota Wild,2022020669457,2022020669,Penalty,457,PENALTY,Scott Mayfield Hooking against Kirill Kaprizov,2023-01-13T01:05:35Z,1,17:38,02:22,1,0,2.0,New York Islanders,NYI
+84,2,30,New York Islanders,Minnesota Wild,202202066979,2022020669,Faceoff,79,FACEOFF,Jean-Gabriel Pageau faceoff won against Joel Eriksson Ek,2023-01-13T01:07:53Z,1,17:38,02:22,1,0,2.0,New York Islanders,NYI
+85,2,30,New York Islanders,Minnesota Wild,202202066942,2022020669,Hit,42,HIT,Mats Zuccarello hit Jean-Gabriel Pageau,2023-01-13T01:09:05Z,1,18:50,01:10,1,0,30.0,Minnesota Wild,MIN
+86,2,30,New York Islanders,Minnesota Wild,2022020669171,2022020669,Blocked Shot,171,BLOCKED_SHOT,Matt Boldy shot blocked shot by Noah Dobson,2023-01-13T01:09:23Z,1,19:08,00:52,1,0,2.0,New York Islanders,NYI
+87,2,30,New York Islanders,Minnesota Wild,2022020669172,2022020669,Shot,172,SHOT,Frederick Gaudreau Wrist Shot saved by Ilya Sorokin,2023-01-13T01:09:51Z,1,19:36,00:24,1,0,30.0,Minnesota Wild,MIN
+88,2,30,New York Islanders,Minnesota Wild,202202066980,2022020669,Giveaway,80,GIVEAWAY,Giveaway by Scott Mayfield,2023-01-13T01:10:06Z,1,19:51,00:09,1,0,2.0,New York Islanders,NYI
+89,2,30,New York Islanders,Minnesota Wild,202202066943,2022020669,Period End,43,PERIOD_END,End of 1st Period,2023-01-13T01:10:16Z,1,20:00,00:00,1,0,,,
+90,2,30,New York Islanders,Minnesota Wild,202202066946,2022020669,Period Official,46,PERIOD_OFFICIAL,Period Official,2023-01-13T01:27:08Z,1,20:00,00:00,1,0,,,
+91,2,30,New York Islanders,Minnesota Wild,202202066947,2022020669,Period Ready,47,PERIOD_READY,Period Ready,2023-01-13T01:27:11Z,2,00:00,20:00,1,0,,,
+92,2,30,New York Islanders,Minnesota Wild,202202066981,2022020669,Period Start,81,PERIOD_START,Period Start,2023-01-13T01:28:59Z,2,00:00,20:00,1,0,,,
+93,2,30,New York Islanders,Minnesota Wild,202202066982,2022020669,Faceoff,82,FACEOFF,Joel Eriksson Ek faceoff won against Casey Cizikas,2023-01-13T01:28:59Z,2,00:00,20:00,1,0,30.0,Minnesota Wild,MIN
+94,2,30,New York Islanders,Minnesota Wild,2022020669207,2022020669,Blocked Shot,207,BLOCKED_SHOT,Jordan Greenway shot blocked shot by Parker Wotherspoon,2023-01-13T01:29:16Z,2,00:17,19:43,1,0,2.0,New York Islanders,NYI
+95,2,30,New York Islanders,Minnesota Wild,2022020669173,2022020669,Blocked Shot,173,BLOCKED_SHOT,Matt Dumba shot blocked shot by Matt Martin,2023-01-13T01:29:19Z,2,00:20,19:40,1,0,2.0,New York Islanders,NYI
+96,2,30,New York Islanders,Minnesota Wild,202202066983,2022020669,Hit,83,HIT,Casey Cizikas hit Marcus Foligno,2023-01-13T01:29:28Z,2,00:29,19:31,1,0,2.0,New York Islanders,NYI
+97,2,30,New York Islanders,Minnesota Wild,2022020669174,2022020669,Shot,174,SHOT,Matt Martin Wrist Shot saved by Filip Gustavsson,2023-01-13T01:29:29Z,2,00:30,19:30,1,0,2.0,New York Islanders,NYI
+98,2,30,New York Islanders,Minnesota Wild,202202066948,2022020669,Missed Shot,48,MISSED_SHOT,Jake Middleton Wide of Net Ilya Sorokin,2023-01-13T01:30:01Z,2,01:02,18:58,1,0,30.0,Minnesota Wild,MIN
+99,2,30,New York Islanders,Minnesota Wild,202202066949,2022020669,Stoppage,49,STOP,Puck Frozen,2023-01-13T01:30:04Z,2,01:05,18:55,1,0,,,
+100,2,30,New York Islanders,Minnesota Wild,202202066984,2022020669,Faceoff,84,FACEOFF,Jean-Gabriel Pageau faceoff won against Sam Steel,2023-01-13T01:30:30Z,2,01:05,18:55,1,0,2.0,New York Islanders,NYI
+101,2,30,New York Islanders,Minnesota Wild,202202066985,2022020669,Giveaway,85,GIVEAWAY,Giveaway by Scott Mayfield,2023-01-13T01:30:41Z,2,01:16,18:44,1,0,2.0,New York Islanders,NYI
+102,2,30,New York Islanders,Minnesota Wild,2022020669176,2022020669,Shot,176,SHOT,Jake Middleton Wrist Shot saved by Ilya Sorokin,2023-01-13T01:30:56Z,2,01:31,18:29,1,0,30.0,Minnesota Wild,MIN
+103,2,30,New York Islanders,Minnesota Wild,202202066950,2022020669,Stoppage,50,STOP,Goalie Stopped,2023-01-13T01:30:59Z,2,01:33,18:27,1,0,,,
+104,2,30,New York Islanders,Minnesota Wild,202202066986,2022020669,Faceoff,86,FACEOFF,Sam Steel faceoff won against Brock Nelson,2023-01-13T01:31:31Z,2,01:33,18:27,1,0,30.0,Minnesota Wild,MIN
+105,2,30,New York Islanders,Minnesota Wild,2022020669301,2022020669,Hit,301,HIT,Alexander Romanov hit Kirill Kaprizov,2023-01-13T01:31:44Z,2,01:46,18:14,1,0,2.0,New York Islanders,NYI
+106,2,30,New York Islanders,Minnesota Wild,2022020669177,2022020669,Shot,177,SHOT,Kirill Kaprizov Slap Shot saved by Ilya Sorokin,2023-01-13T01:31:51Z,2,01:53,18:07,1,0,30.0,Minnesota Wild,MIN
+107,2,30,New York Islanders,Minnesota Wild,202202066987,2022020669,Giveaway,87,GIVEAWAY,Giveaway by Alexander Romanov,2023-01-13T01:31:52Z,2,01:54,18:06,1,0,2.0,New York Islanders,NYI
+108,2,30,New York Islanders,Minnesota Wild,2022020669302,2022020669,Hit,302,HIT,Kirill Kaprizov hit Alexander Romanov,2023-01-13T01:31:55Z,2,01:57,18:03,1,0,30.0,Minnesota Wild,MIN
+109,2,30,New York Islanders,Minnesota Wild,2022020669303,2022020669,Hit,303,HIT,Alexander Romanov hit Mats Zuccarello,2023-01-13T01:32:18Z,2,02:20,17:40,1,0,2.0,New York Islanders,NYI
+110,2,30,New York Islanders,Minnesota Wild,2022020669178,2022020669,Shot,178,SHOT,Matt Boldy Wrap-around saved by Ilya Sorokin,2023-01-13T01:32:19Z,2,02:21,17:39,1,0,30.0,Minnesota Wild,MIN
+111,2,30,New York Islanders,Minnesota Wild,2022020669305,2022020669,Stoppage,305,STOP,Icing,2023-01-13T01:32:24Z,2,02:27,17:33,1,0,,,
+112,2,30,New York Islanders,Minnesota Wild,202202066988,2022020669,Faceoff,88,FACEOFF,Frederick Gaudreau faceoff won against Brock Nelson,2023-01-13T01:32:50Z,2,02:27,17:33,1,0,30.0,Minnesota Wild,MIN
+113,2,30,New York Islanders,Minnesota Wild,2022020669179,2022020669,Shot,179,SHOT,Ryan Hartman Wrist Shot saved by Ilya Sorokin,2023-01-13T01:33:25Z,2,02:46,17:14,1,0,30.0,Minnesota Wild,MIN
+114,2,30,New York Islanders,Minnesota Wild,2022020669180,2022020669,Blocked Shot,180,BLOCKED_SHOT,Matt Boldy shot blocked shot by Scott Mayfield,2023-01-13T01:33:39Z,2,03:00,17:00,1,0,2.0,New York Islanders,NYI
+115,2,30,New York Islanders,Minnesota Wild,2022020669551,2022020669,Penalty,551,PENALTY,Brock Nelson Interference against Ryan Hartman,2023-01-13T01:33:42Z,2,03:03,16:57,1,0,2.0,New York Islanders,NYI
+116,2,30,New York Islanders,Minnesota Wild,202202066989,2022020669,Faceoff,89,FACEOFF,Joel Eriksson Ek faceoff won against Jean-Gabriel Pageau,2023-01-13T01:34:27Z,2,03:03,16:57,1,0,30.0,Minnesota Wild,MIN
+117,2,30,New York Islanders,Minnesota Wild,202202066990,2022020669,Takeaway,90,TAKEAWAY,Takeaway by Zach Parise,2023-01-13T01:34:50Z,2,03:26,16:34,1,0,2.0,New York Islanders,NYI
+118,2,30,New York Islanders,Minnesota Wild,2022020669181,2022020669,Missed Shot,181,MISSED_SHOT,Kirill Kaprizov Wide of Net Ilya Sorokin,2023-01-13T01:35:02Z,2,03:38,16:22,1,0,30.0,Minnesota Wild,MIN
+119,2,30,New York Islanders,Minnesota Wild,202202066991,2022020669,Giveaway,91,GIVEAWAY,Giveaway by Sebastian Aho,2023-01-13T01:35:42Z,2,04:18,15:42,1,0,2.0,New York Islanders,NYI
+120,2,30,New York Islanders,Minnesota Wild,2022020669182,2022020669,Shot,182,SHOT,Kirill Kaprizov Wrist Shot saved by Ilya Sorokin,2023-01-13T01:35:47Z,2,04:23,15:37,1,0,30.0,Minnesota Wild,MIN
+121,2,30,New York Islanders,Minnesota Wild,2022020669183,2022020669,Missed Shot,183,MISSED_SHOT,Cal Clutterbuck Wide of Net Filip Gustavsson,2023-01-13T01:36:33Z,2,05:09,14:51,1,0,2.0,New York Islanders,NYI
+122,2,30,New York Islanders,Minnesota Wild,2022020669306,2022020669,Shot,306,SHOT,Brock Nelson Wrist Shot saved by Filip Gustavsson,2023-01-13T01:36:38Z,2,05:14,14:46,1,0,2.0,New York Islanders,NYI
+123,2,30,New York Islanders,Minnesota Wild,2022020669307,2022020669,Stoppage,307,STOP,Goalie Stopped,2023-01-13T01:36:40Z,2,05:16,14:44,1,0,,,
+124,2,30,New York Islanders,Minnesota Wild,202202066992,2022020669,Faceoff,92,FACEOFF,Sam Steel faceoff won against Anders Lee,2023-01-13T01:37:27Z,2,05:16,14:44,1,0,30.0,Minnesota Wild,MIN
+125,2,30,New York Islanders,Minnesota Wild,2022020669308,2022020669,Hit,308,HIT,Marcus Foligno hit Noah Dobson,2023-01-13T01:37:38Z,2,05:27,14:33,1,0,30.0,Minnesota Wild,MIN
+126,2,30,New York Islanders,Minnesota Wild,2022020669184,2022020669,Shot,184,SHOT,Matt Dumba Slap Shot saved by Ilya Sorokin,2023-01-13T01:37:41Z,2,05:30,14:30,1,0,30.0,Minnesota Wild,MIN
+127,2,30,New York Islanders,Minnesota Wild,2022020669567,2022020669,Penalty,567,PENALTY,Anders Lee Hooking against Sam Steel,2023-01-13T01:37:51Z,2,05:40,14:20,1,0,2.0,New York Islanders,NYI
+128,2,30,New York Islanders,Minnesota Wild,202202066993,2022020669,Faceoff,93,FACEOFF,Jean-Gabriel Pageau faceoff won against Joel Eriksson Ek,2023-01-13T01:38:35Z,2,05:40,14:20,1,0,2.0,New York Islanders,NYI
+129,2,30,New York Islanders,Minnesota Wild,2022020669309,2022020669,Missed Shot,309,MISSED_SHOT,Kirill Kaprizov Wide of Net Ilya Sorokin,2023-01-13T01:39:01Z,2,06:06,13:54,1,0,30.0,Minnesota Wild,MIN
+130,2,30,New York Islanders,Minnesota Wild,202202066994,2022020669,Shot,94,SHOT,Matt Boldy Wrist Shot saved by Ilya Sorokin,2023-01-13T01:39:09Z,2,06:14,13:46,1,0,30.0,Minnesota Wild,MIN
+131,2,30,New York Islanders,Minnesota Wild,2022020669310,2022020669,Stoppage,310,STOP,Offside,2023-01-13T01:39:32Z,2,06:37,13:23,1,0,,,
+132,2,30,New York Islanders,Minnesota Wild,202202066997,2022020669,Faceoff,97,FACEOFF,Sam Steel faceoff won against Cal Clutterbuck,2023-01-13T01:40:04Z,2,06:37,13:23,1,0,30.0,Minnesota Wild,MIN
+133,2,30,New York Islanders,Minnesota Wild,2022020669186,2022020669,Blocked Shot,186,BLOCKED_SHOT,Jared Spurgeon shot blocked shot by Sebastian Aho,2023-01-13T01:40:18Z,2,06:51,13:09,1,0,2.0,New York Islanders,NYI
+134,2,30,New York Islanders,Minnesota Wild,2022020669311,2022020669,Shot,311,SHOT,Jared Spurgeon Wrist Shot saved by Ilya Sorokin,2023-01-13T01:40:19Z,2,06:52,13:08,1,0,30.0,Minnesota Wild,MIN
+135,2,30,New York Islanders,Minnesota Wild,2022020669578,2022020669,Penalty,578,PENALTY,Sam Steel Tripping against Brock Nelson,2023-01-13T01:40:44Z,2,07:17,12:43,1,0,30.0,Minnesota Wild,MIN
+136,2,30,New York Islanders,Minnesota Wild,202202066996,2022020669,Faceoff,96,FACEOFF,Connor Dewar faceoff won against Brock Nelson,2023-01-13T01:41:31Z,2,07:17,12:43,1,0,30.0,Minnesota Wild,MIN
+137,2,30,New York Islanders,Minnesota Wild,2022020669187,2022020669,Missed Shot,187,MISSED_SHOT,Noah Dobson Wide of Net Filip Gustavsson,2023-01-13T01:42:32Z,2,08:18,11:42,1,0,2.0,New York Islanders,NYI
+138,2,30,New York Islanders,Minnesota Wild,2022020669312,2022020669,Shot,312,SHOT,Brock Nelson Slap Shot saved by Filip Gustavsson,2023-01-13T01:42:42Z,2,08:28,11:32,1,0,2.0,New York Islanders,NYI
+139,2,30,New York Islanders,Minnesota Wild,2022020669188,2022020669,Shot,188,SHOT,Brock Nelson Wrist Shot saved by Filip Gustavsson,2023-01-13T01:42:44Z,2,08:30,11:30,1,0,2.0,New York Islanders,NYI
+140,2,30,New York Islanders,Minnesota Wild,2022020669313,2022020669,Missed Shot,313,MISSED_SHOT,Jean-Gabriel Pageau Wide of Net Filip Gustavsson,2023-01-13T01:42:51Z,2,08:37,11:23,1,0,2.0,New York Islanders,NYI
+141,2,30,New York Islanders,Minnesota Wild,2022020669314,2022020669,Blocked Shot,314,BLOCKED_SHOT,Mathew Barzal shot blocked shot by Jared Spurgeon,2023-01-13T01:42:56Z,2,08:42,11:18,1,0,30.0,Minnesota Wild,MIN
+142,2,30,New York Islanders,Minnesota Wild,2022020669205,2022020669,Blocked Shot,205,BLOCKED_SHOT,Mathew Barzal shot blocked shot by Jared Spurgeon,2023-01-13T01:43:04Z,2,08:50,11:10,1,0,30.0,Minnesota Wild,MIN
+143,2,30,New York Islanders,Minnesota Wild,2022020669315,2022020669,Giveaway,315,GIVEAWAY,Giveaway by Mathew Barzal,2023-01-13T01:43:18Z,2,09:04,10:56,1,0,2.0,New York Islanders,NYI
+144,2,30,New York Islanders,Minnesota Wild,202202066998,2022020669,Giveaway,98,GIVEAWAY,Giveaway by Matt Martin,2023-01-13T01:43:37Z,2,09:23,10:37,1,0,2.0,New York Islanders,NYI
+145,2,30,New York Islanders,Minnesota Wild,2022020669316,2022020669,Hit,316,HIT,Jean-Gabriel Pageau hit Sam Steel,2023-01-13T01:44:15Z,2,10:01,09:59,1,0,2.0,New York Islanders,NYI
+146,2,30,New York Islanders,Minnesota Wild,2022020669190,2022020669,Shot,190,SHOT,Alexander Romanov Wrist Shot saved by Filip Gustavsson,2023-01-13T01:44:24Z,2,10:10,09:50,1,0,2.0,New York Islanders,NYI
+147,2,30,New York Islanders,Minnesota Wild,2022020669317,2022020669,Blocked Shot,317,BLOCKED_SHOT,Alexander Romanov shot blocked shot by Matt Dumba,2023-01-13T01:44:33Z,2,10:19,09:41,1,0,30.0,Minnesota Wild,MIN
+148,2,30,New York Islanders,Minnesota Wild,2022020669191,2022020669,Shot,191,SHOT,Mathew Barzal Wrist Shot saved by Filip Gustavsson,2023-01-13T01:44:48Z,2,10:34,09:26,1,0,2.0,New York Islanders,NYI
+149,2,30,New York Islanders,Minnesota Wild,2022020669318,2022020669,Stoppage,318,STOP,Goalie Stopped,2023-01-13T01:44:50Z,2,10:36,09:24,1,0,,,
+150,2,30,New York Islanders,Minnesota Wild,202202066999,2022020669,Faceoff,99,FACEOFF,Frederick Gaudreau faceoff won against Brock Nelson,2023-01-13T01:47:04Z,2,10:36,09:24,1,0,30.0,Minnesota Wild,MIN
+151,2,30,New York Islanders,Minnesota Wild,2022020669100,2022020669,Takeaway,100,TAKEAWAY,Takeaway by Alexander Romanov,2023-01-13T01:47:18Z,2,10:50,09:10,1,0,2.0,New York Islanders,NYI
+152,2,30,New York Islanders,Minnesota Wild,2022020669604,2022020669,Penalty,604,PENALTY,Alexander Romanov Delaying Game - Puck over glass,2023-01-13T01:47:18Z,2,10:51,09:09,1,0,2.0,New York Islanders,NYI
+153,2,30,New York Islanders,Minnesota Wild,2022020669401,2022020669,Faceoff,401,FACEOFF,Casey Cizikas faceoff won against Joel Eriksson Ek,2023-01-13T01:47:59Z,2,10:51,09:09,1,0,2.0,New York Islanders,NYI
+154,2,30,New York Islanders,Minnesota Wild,2022020669192,2022020669,Missed Shot,192,MISSED_SHOT,Kirill Kaprizov Wide of Net Ilya Sorokin,2023-01-13T01:48:39Z,2,11:31,08:29,1,0,30.0,Minnesota Wild,MIN
+155,2,30,New York Islanders,Minnesota Wild,2022020669206,2022020669,Shot,206,SHOT,Cal Clutterbuck Wrist Shot saved by Filip Gustavsson,2023-01-13T01:48:58Z,2,11:50,08:10,1,0,2.0,New York Islanders,NYI
+156,2,30,New York Islanders,Minnesota Wild,2022020669402,2022020669,Giveaway,402,GIVEAWAY,Giveaway by Kirill Kaprizov,2023-01-13T01:49:00Z,2,11:52,08:08,1,0,30.0,Minnesota Wild,MIN
+157,2,30,New York Islanders,Minnesota Wild,2022020669319,2022020669,Penalty,319,PENALTY,Cal Clutterbuck Roughing against Mats Zuccarello,2023-01-13T01:49:09Z,2,12:01,07:59,1,0,2.0,New York Islanders,NYI
+158,2,30,New York Islanders,Minnesota Wild,2022020669615,2022020669,Penalty,615,PENALTY,Mats Zuccarello Roughing against Cal Clutterbuck,2023-01-13T01:49:09Z,2,12:01,07:59,1,0,30.0,Minnesota Wild,MIN
+159,2,30,New York Islanders,Minnesota Wild,2022020669403,2022020669,Faceoff,403,FACEOFF,Sam Steel faceoff won against Jean-Gabriel Pageau,2023-01-13T01:50:12Z,2,12:01,07:59,1,0,30.0,Minnesota Wild,MIN
+160,2,30,New York Islanders,Minnesota Wild,2022020669193,2022020669,Blocked Shot,193,BLOCKED_SHOT,Sam Steel shot blocked shot by Ryan Pulock,2023-01-13T01:50:31Z,2,12:20,07:40,1,0,2.0,New York Islanders,NYI
+161,2,30,New York Islanders,Minnesota Wild,2022020669194,2022020669,Shot,194,SHOT,Ryan Hartman Wrist Shot saved by Ilya Sorokin,2023-01-13T01:50:43Z,2,12:32,07:28,1,0,30.0,Minnesota Wild,MIN
+162,2,30,New York Islanders,Minnesota Wild,2022020669195,2022020669,Shot,195,SHOT,Ryan Hartman Wrist Shot saved by Ilya Sorokin,2023-01-13T01:50:55Z,2,12:44,07:16,1,0,30.0,Minnesota Wild,MIN
+163,2,30,New York Islanders,Minnesota Wild,2022020669196,2022020669,Blocked Shot,196,BLOCKED_SHOT,Anthony Beauvillier shot blocked shot by Connor Dewar,2023-01-13T01:51:14Z,2,13:03,06:57,1,0,30.0,Minnesota Wild,MIN
+164,2,30,New York Islanders,Minnesota Wild,2022020669322,2022020669,Shot,322,SHOT,Brock Nelson Wrist Shot saved by Filip Gustavsson,2023-01-13T01:51:20Z,2,13:09,06:51,1,0,2.0,New York Islanders,NYI
+165,2,30,New York Islanders,Minnesota Wild,2022020669323,2022020669,Stoppage,323,STOP,Goalie Stopped,2023-01-13T01:51:22Z,2,13:11,06:49,1,0,,,
+166,2,30,New York Islanders,Minnesota Wild,2022020669404,2022020669,Faceoff,404,FACEOFF,Anders Lee faceoff won against Brandon Duhaime,2023-01-13T01:53:53Z,2,13:11,06:49,1,0,2.0,New York Islanders,NYI
+167,2,30,New York Islanders,Minnesota Wild,2022020669197,2022020669,Missed Shot,197,MISSED_SHOT,Mathew Barzal Over Net Filip Gustavsson,2023-01-13T01:53:57Z,2,13:15,06:45,1,0,2.0,New York Islanders,NYI
+168,2,30,New York Islanders,Minnesota Wild,2022020669324,2022020669,Hit,324,HIT,Brandon Duhaime hit Parker Wotherspoon,2023-01-13T01:54:22Z,2,13:40,06:20,1,0,30.0,Minnesota Wild,MIN
+169,2,30,New York Islanders,Minnesota Wild,2022020669325,2022020669,Hit,325,HIT,Ryan Reaves hit Anders Lee,2023-01-13T01:54:30Z,2,13:48,06:12,1,0,30.0,Minnesota Wild,MIN
+170,2,30,New York Islanders,Minnesota Wild,2022020669198,2022020669,Shot,198,SHOT,Brandon Duhaime Wrist Shot saved by Ilya Sorokin,2023-01-13T01:54:38Z,2,13:56,06:04,1,0,30.0,Minnesota Wild,MIN
+171,2,30,New York Islanders,Minnesota Wild,2022020669199,2022020669,Shot,199,SHOT,Jordan Greenway Wrist Shot saved by Ilya Sorokin,2023-01-13T01:55:00Z,2,14:18,05:42,1,0,30.0,Minnesota Wild,MIN
+172,2,30,New York Islanders,Minnesota Wild,2022020669326,2022020669,Shot,326,SHOT,Jon Merrill Wrist Shot saved by Ilya Sorokin,2023-01-13T01:55:01Z,2,14:19,05:41,1,0,30.0,Minnesota Wild,MIN
+173,2,30,New York Islanders,Minnesota Wild,2022020669327,2022020669,Stoppage,327,STOP,Goalie Stopped,2023-01-13T01:55:03Z,2,14:21,05:39,1,0,,,
+174,2,30,New York Islanders,Minnesota Wild,2022020669406,2022020669,Faceoff,406,FACEOFF,Joel Eriksson Ek faceoff won against Casey Cizikas,2023-01-13T01:57:37Z,2,14:21,05:39,1,0,30.0,Minnesota Wild,MIN
+175,2,30,New York Islanders,Minnesota Wild,2022020669328,2022020669,Hit,328,HIT,Cal Clutterbuck hit Jon Merrill,2023-01-13T01:57:50Z,2,14:34,05:26,1,0,2.0,New York Islanders,NYI
+176,2,30,New York Islanders,Minnesota Wild,2022020669200,2022020669,Shot,200,SHOT,Marcus Foligno Wrist Shot saved by Ilya Sorokin,2023-01-13T01:57:57Z,2,14:41,05:19,1,0,30.0,Minnesota Wild,MIN
+177,2,30,New York Islanders,Minnesota Wild,2022020669329,2022020669,Hit,329,HIT,Marcus Foligno hit Parker Wotherspoon,2023-01-13T01:58:03Z,2,14:47,05:13,1,0,30.0,Minnesota Wild,MIN
+178,2,30,New York Islanders,Minnesota Wild,2022020669330,2022020669,Stoppage,330,STOP,Puck in Benches,2023-01-13T01:58:08Z,2,14:51,05:09,1,0,,,
+179,2,30,New York Islanders,Minnesota Wild,2022020669407,2022020669,Faceoff,407,FACEOFF,Mats Zuccarello faceoff won against Jean-Gabriel Pageau,2023-01-13T01:58:51Z,2,14:51,05:09,1,0,30.0,Minnesota Wild,MIN
+180,2,30,New York Islanders,Minnesota Wild,2022020669501,2022020669,Blocked Shot,501,BLOCKED_SHOT,Jared Spurgeon shot blocked shot by Zach Parise,2023-01-13T01:58:56Z,2,14:56,05:04,1,0,2.0,New York Islanders,NYI
+181,2,30,New York Islanders,Minnesota Wild,2022020669331,2022020669,Blocked Shot,331,BLOCKED_SHOT,Jake Middleton shot blocked shot by Hudson Fasching,2023-01-13T01:59:04Z,2,15:04,04:56,1,0,2.0,New York Islanders,NYI
+182,2,30,New York Islanders,Minnesota Wild,2022020669502,2022020669,Blocked Shot,502,BLOCKED_SHOT,Jared Spurgeon shot blocked shot by Alexander Romanov,2023-01-13T01:59:13Z,2,15:13,04:47,1,0,2.0,New York Islanders,NYI
+183,2,30,New York Islanders,Minnesota Wild,2022020669332,2022020669,Shot,332,SHOT,Sam Steel Deflected saved by Ilya Sorokin,2023-01-13T01:59:25Z,2,15:25,04:35,1,0,30.0,Minnesota Wild,MIN
+184,2,30,New York Islanders,Minnesota Wild,2022020669507,2022020669,Shot,507,SHOT,Kirill Kaprizov Deflected saved by Ilya Sorokin,2023-01-13T01:59:26Z,2,15:26,04:34,1,0,30.0,Minnesota Wild,MIN
+185,2,30,New York Islanders,Minnesota Wild,2022020669333,2022020669,Stoppage,333,STOP,Puck in Benches,2023-01-13T02:00:10Z,2,16:10,03:50,1,0,,,
+186,2,30,New York Islanders,Minnesota Wild,2022020669408,2022020669,Faceoff,408,FACEOFF,Brock Nelson faceoff won against Frederick Gaudreau,2023-01-13T02:00:58Z,2,16:10,03:50,1,0,2.0,New York Islanders,NYI
+187,2,30,New York Islanders,Minnesota Wild,2022020669503,2022020669,Shot,503,SHOT,Anthony Beauvillier Tip-In saved by Filip Gustavsson,2023-01-13T02:01:40Z,2,16:52,03:08,1,0,2.0,New York Islanders,NYI
+188,2,30,New York Islanders,Minnesota Wild,2022020669334,2022020669,Hit,334,HIT,Brock Nelson hit Matt Dumba,2023-01-13T02:01:44Z,2,16:56,03:04,1,0,2.0,New York Islanders,NYI
+189,2,30,New York Islanders,Minnesota Wild,2022020669335,2022020669,Stoppage,335,STOP,Offside,2023-01-13T02:02:16Z,2,17:28,02:32,1,0,,,
+190,2,30,New York Islanders,Minnesota Wild,2022020669409,2022020669,Faceoff,409,FACEOFF,Connor Dewar faceoff won against Anders Lee,2023-01-13T02:02:42Z,2,17:28,02:32,1,0,30.0,Minnesota Wild,MIN
+191,2,30,New York Islanders,Minnesota Wild,2022020669336,2022020669,Hit,336,HIT,Ryan Pulock hit Ryan Reaves,2023-01-13T02:02:56Z,2,17:42,02:18,1,0,2.0,New York Islanders,NYI
+192,2,30,New York Islanders,Minnesota Wild,2022020669410,2022020669,Giveaway,410,GIVEAWAY,Giveaway by Connor Dewar,2023-01-13T02:02:59Z,2,17:45,02:15,1,0,30.0,Minnesota Wild,MIN
+193,2,30,New York Islanders,Minnesota Wild,2022020669504,2022020669,Shot,504,SHOT,Parker Wotherspoon Wrist Shot saved by Filip Gustavsson,2023-01-13T02:03:02Z,2,17:48,02:12,1,0,2.0,New York Islanders,NYI
+194,2,30,New York Islanders,Minnesota Wild,2022020669337,2022020669,Stoppage,337,STOP,Goalie Stopped,2023-01-13T02:03:03Z,2,17:49,02:11,1,0,,,
+195,2,30,New York Islanders,Minnesota Wild,2022020669411,2022020669,Faceoff,411,FACEOFF,Anders Lee faceoff won against Joel Eriksson Ek,2023-01-13T02:03:29Z,2,17:49,02:11,1,0,2.0,New York Islanders,NYI
+196,2,30,New York Islanders,Minnesota Wild,2022020669505,2022020669,Blocked Shot,505,BLOCKED_SHOT,Noah Dobson shot blocked shot by Marcus Foligno,2023-01-13T02:03:31Z,2,17:51,02:09,1,0,30.0,Minnesota Wild,MIN
+197,2,30,New York Islanders,Minnesota Wild,2022020669338,2022020669,Hit,338,HIT,Cal Clutterbuck hit Jared Spurgeon,2023-01-13T02:04:16Z,2,18:36,01:24,1,0,2.0,New York Islanders,NYI
+198,2,30,New York Islanders,Minnesota Wild,2022020669339,2022020669,Hit,339,HIT,Sebastian Aho hit Kirill Kaprizov,2023-01-13T02:04:45Z,2,19:05,00:55,1,0,2.0,New York Islanders,NYI
+199,2,30,New York Islanders,Minnesota Wild,2022020669340,2022020669,Hit,340,HIT,Jean-Gabriel Pageau hit Sam Steel,2023-01-13T02:05:14Z,2,19:34,00:26,1,0,2.0,New York Islanders,NYI
+200,2,30,New York Islanders,Minnesota Wild,2022020669506,2022020669,Shot,506,SHOT,Mats Zuccarello Snap Shot saved by Ilya Sorokin,2023-01-13T02:05:20Z,2,19:40,00:20,1,0,30.0,Minnesota Wild,MIN
+201,2,30,New York Islanders,Minnesota Wild,2022020669341,2022020669,Stoppage,341,STOP,Goalie Stopped,2023-01-13T02:05:22Z,2,19:41,00:19,1,0,,,
+202,2,30,New York Islanders,Minnesota Wild,2022020669412,2022020669,Faceoff,412,FACEOFF,Sam Steel faceoff won against Jean-Gabriel Pageau,2023-01-13T02:06:16Z,2,19:41,00:19,1,0,30.0,Minnesota Wild,MIN
+203,2,30,New York Islanders,Minnesota Wild,2022020669508,2022020669,Blocked Shot,508,BLOCKED_SHOT,Mats Zuccarello shot blocked shot by Jean-Gabriel Pageau,2023-01-13T02:06:33Z,2,19:58,00:02,1,0,2.0,New York Islanders,NYI
+204,2,30,New York Islanders,Minnesota Wild,2022020669342,2022020669,Period End,342,PERIOD_END,End of 2nd Period,2023-01-13T02:06:35Z,2,20:00,00:00,1,0,,,
+205,2,30,New York Islanders,Minnesota Wild,2022020669345,2022020669,Period Official,345,PERIOD_OFFICIAL,Period Official,2023-01-13T02:23:51Z,2,20:00,00:00,1,0,,,
+206,2,30,New York Islanders,Minnesota Wild,2022020669346,2022020669,Period Ready,346,PERIOD_READY,Period Ready,2023-01-13T02:23:54Z,3,00:00,20:00,1,0,,,
+207,2,30,New York Islanders,Minnesota Wild,2022020669413,2022020669,Period Start,413,PERIOD_START,Period Start,2023-01-13T02:25:52Z,3,00:00,20:00,1,0,,,
+208,2,30,New York Islanders,Minnesota Wild,2022020669414,2022020669,Faceoff,414,FACEOFF,Joel Eriksson Ek faceoff won against Casey Cizikas,2023-01-13T02:25:52Z,3,00:00,20:00,1,0,30.0,Minnesota Wild,MIN
+209,2,30,New York Islanders,Minnesota Wild,2022020669347,2022020669,Stoppage,347,STOP,Icing,2023-01-13T02:26:00Z,3,00:09,19:51,1,0,,,
+210,2,30,New York Islanders,Minnesota Wild,2022020669415,2022020669,Faceoff,415,FACEOFF,Anders Lee faceoff won against Joel Eriksson Ek,2023-01-13T02:26:23Z,3,00:09,19:51,1,0,2.0,New York Islanders,NYI
+211,2,30,New York Islanders,Minnesota Wild,2022020669418,2022020669,Giveaway,418,GIVEAWAY,Giveaway by Noah Dobson,2023-01-13T02:26:44Z,3,00:30,19:30,1,0,2.0,New York Islanders,NYI
+212,2,30,New York Islanders,Minnesota Wild,2022020669510,2022020669,Shot,510,SHOT,Joel Eriksson Ek Tip-In saved by Ilya Sorokin,2023-01-13T02:26:47Z,3,00:33,19:27,1,0,30.0,Minnesota Wild,MIN
+213,2,30,New York Islanders,Minnesota Wild,2022020669348,2022020669,Stoppage,348,STOP,Goalie Stopped,2023-01-13T02:26:50Z,3,00:35,19:25,1,0,,,
+214,2,30,New York Islanders,Minnesota Wild,2022020669416,2022020669,Faceoff,416,FACEOFF,Jean-Gabriel Pageau faceoff won against Mats Zuccarello,2023-01-13T02:27:23Z,3,00:35,19:25,1,0,2.0,New York Islanders,NYI
+215,2,30,New York Islanders,Minnesota Wild,2022020669511,2022020669,Shot,511,SHOT,Jean-Gabriel Pageau Wrist Shot saved by Filip Gustavsson,2023-01-13T02:27:47Z,3,00:45,19:15,1,0,2.0,New York Islanders,NYI
+216,2,30,New York Islanders,Minnesota Wild,2022020669417,2022020669,Takeaway,417,TAKEAWAY,Takeaway by Hudson Fasching,2023-01-13T02:27:48Z,3,00:46,19:14,1,0,2.0,New York Islanders,NYI
+217,2,30,New York Islanders,Minnesota Wild,2022020669512,2022020669,Blocked Shot,512,BLOCKED_SHOT,Alexander Romanov shot blocked shot by Kirill Kaprizov,2023-01-13T02:28:01Z,3,00:59,19:01,1,0,30.0,Minnesota Wild,MIN
+218,2,30,New York Islanders,Minnesota Wild,2022020669513,2022020669,Shot,513,SHOT,Jake Middleton Deflected saved by Ilya Sorokin,2023-01-13T02:28:14Z,3,01:12,18:48,1,0,30.0,Minnesota Wild,MIN
+219,2,30,New York Islanders,Minnesota Wild,2022020669349,2022020669,Stoppage,349,STOP,Goalie Stopped,2023-01-13T02:28:16Z,3,01:14,18:46,1,0,,,
+220,2,30,New York Islanders,Minnesota Wild,2022020669419,2022020669,Faceoff,419,FACEOFF,Frederick Gaudreau faceoff won against Brock Nelson,2023-01-13T02:28:56Z,3,01:14,18:46,1,0,30.0,Minnesota Wild,MIN
+221,2,30,New York Islanders,Minnesota Wild,2022020669350,2022020669,Stoppage,350,STOP,Puck in Benches,2023-01-13T02:29:06Z,3,01:24,18:36,1,0,,,
+222,2,30,New York Islanders,Minnesota Wild,2022020669420,2022020669,Faceoff,420,FACEOFF,Frederick Gaudreau faceoff won against Josh Bailey,2023-01-13T02:29:32Z,3,01:24,18:36,1,0,30.0,Minnesota Wild,MIN
+223,2,30,New York Islanders,Minnesota Wild,2022020669701,2022020669,Hit,701,HIT,Frederick Gaudreau hit Ryan Pulock,2023-01-13T02:29:42Z,3,01:34,18:26,1,0,30.0,Minnesota Wild,MIN
+224,2,30,New York Islanders,Minnesota Wild,2022020669515,2022020669,Blocked Shot,515,BLOCKED_SHOT,Calen Addison shot blocked shot by Josh Bailey,2023-01-13T02:30:06Z,3,01:58,18:02,1,0,2.0,New York Islanders,NYI
+225,2,30,New York Islanders,Minnesota Wild,2022020669702,2022020669,Hit,702,HIT,Matt Boldy hit Brock Nelson,2023-01-13T02:30:06Z,3,01:58,18:02,1,0,30.0,Minnesota Wild,MIN
+226,2,30,New York Islanders,Minnesota Wild,2022020669703,2022020669,Stoppage,703,STOP,Puck in Crowd,2023-01-13T02:30:31Z,3,02:23,17:37,1,0,,,
+227,2,30,New York Islanders,Minnesota Wild,2022020669421,2022020669,Faceoff,421,FACEOFF,Sam Steel faceoff won against Jean-Gabriel Pageau,2023-01-13T02:31:20Z,3,02:23,17:37,1,0,30.0,Minnesota Wild,MIN
+228,2,30,New York Islanders,Minnesota Wild,2022020669704,2022020669,Stoppage,704,STOP,Icing,2023-01-13T02:31:25Z,3,02:28,17:32,1,0,,,
+229,2,30,New York Islanders,Minnesota Wild,2022020669422,2022020669,Faceoff,422,FACEOFF,Casey Cizikas faceoff won against Sam Steel,2023-01-13T02:31:51Z,3,02:28,17:32,1,0,2.0,New York Islanders,NYI
+230,2,30,New York Islanders,Minnesota Wild,2022020669516,2022020669,Blocked Shot,516,BLOCKED_SHOT,Sebastian Aho shot blocked shot by Mats Zuccarello,2023-01-13T02:31:54Z,3,02:31,17:29,1,0,30.0,Minnesota Wild,MIN
+231,2,30,New York Islanders,Minnesota Wild,2022020669705,2022020669,Hit,705,HIT,Sam Steel hit Matt Martin,2023-01-13T02:32:09Z,3,02:46,17:14,1,0,30.0,Minnesota Wild,MIN
+232,2,30,New York Islanders,Minnesota Wild,2022020669209,2022020669,Missed Shot,209,MISSED_SHOT,Matt Dumba Wide of Net Ilya Sorokin,2023-01-13T02:32:25Z,3,03:02,16:58,1,0,30.0,Minnesota Wild,MIN
+233,2,30,New York Islanders,Minnesota Wild,2022020669517,2022020669,Shot,517,SHOT,Jonas Brodin Wrist Shot saved by Ilya Sorokin,2023-01-13T02:32:25Z,3,03:02,16:58,1,0,30.0,Minnesota Wild,MIN
+234,2,30,New York Islanders,Minnesota Wild,2022020669518,2022020669,Missed Shot,518,MISSED_SHOT,Sam Steel Wide of Net Ilya Sorokin,2023-01-13T02:32:35Z,3,03:12,16:48,1,0,30.0,Minnesota Wild,MIN
+235,2,30,New York Islanders,Minnesota Wild,2022020669706,2022020669,Stoppage,706,STOP,Puck in Crowd,2023-01-13T02:32:53Z,3,03:30,16:30,1,0,,,
+236,2,30,New York Islanders,Minnesota Wild,2022020669423,2022020669,Faceoff,423,FACEOFF,Brock Nelson faceoff won against Joel Eriksson Ek,2023-01-13T02:33:01Z,3,03:30,16:30,1,0,2.0,New York Islanders,NYI
+237,2,30,New York Islanders,Minnesota Wild,2022020669707,2022020669,Stoppage,707,STOP,Puck in Benches,2023-01-13T02:33:25Z,3,03:36,16:24,1,0,,,
+238,2,30,New York Islanders,Minnesota Wild,2022020669424,2022020669,Faceoff,424,FACEOFF,Brock Nelson faceoff won against Joel Eriksson Ek,2023-01-13T02:33:50Z,3,03:36,16:24,1,0,2.0,New York Islanders,NYI
+239,2,30,New York Islanders,Minnesota Wild,2022020669425,2022020669,Giveaway,425,GIVEAWAY,Giveaway by Anthony Beauvillier,2023-01-13T02:34:18Z,3,04:04,15:56,1,0,2.0,New York Islanders,NYI
+240,2,30,New York Islanders,Minnesota Wild,2022020669520,2022020669,Missed Shot,520,MISSED_SHOT,Joel Eriksson Ek Wide of Net Ilya Sorokin,2023-01-13T02:34:26Z,3,04:12,15:48,1,0,30.0,Minnesota Wild,MIN
+241,2,30,New York Islanders,Minnesota Wild,2022020669426,2022020669,Takeaway,426,TAKEAWAY,Takeaway by Mathew Barzal,2023-01-13T02:35:12Z,3,04:58,15:02,1,0,2.0,New York Islanders,NYI
+242,2,30,New York Islanders,Minnesota Wild,2022020669521,2022020669,Shot,521,SHOT,Simon Holmstrom Snap Shot saved by Filip Gustavsson,2023-01-13T02:35:15Z,3,05:01,14:59,1,0,2.0,New York Islanders,NYI
+243,2,30,New York Islanders,Minnesota Wild,2022020669708,2022020669,Stoppage,708,STOP,Goalie Stopped,2023-01-13T02:35:16Z,3,05:02,14:58,1,0,,,
+244,2,30,New York Islanders,Minnesota Wild,2022020669427,2022020669,Faceoff,427,FACEOFF,Casey Cizikas faceoff won against Frederick Gaudreau,2023-01-13T02:35:53Z,3,05:02,14:58,1,0,2.0,New York Islanders,NYI
+245,2,30,New York Islanders,Minnesota Wild,2022020669522,2022020669,Shot,522,SHOT,Matt Boldy Wrist Shot saved by Ilya Sorokin,2023-01-13T02:36:22Z,3,05:31,14:29,1,0,30.0,Minnesota Wild,MIN
+246,2,30,New York Islanders,Minnesota Wild,2022020669709,2022020669,Missed Shot,709,MISSED_SHOT,Frederick Gaudreau Wide of Net Ilya Sorokin,2023-01-13T02:36:30Z,3,05:39,14:21,1,0,30.0,Minnesota Wild,MIN
+247,2,30,New York Islanders,Minnesota Wild,2022020669770,2022020669,Penalty,770,PENALTY,Scott Mayfield Delaying Game,2023-01-13T02:37:24Z,3,06:33,13:27,1,0,2.0,New York Islanders,NYI
+248,2,30,New York Islanders,Minnesota Wild,2022020669428,2022020669,Faceoff,428,FACEOFF,Joel Eriksson Ek faceoff won against Jean-Gabriel Pageau,2023-01-13T02:40:02Z,3,06:33,13:27,1,0,30.0,Minnesota Wild,MIN
+249,2,30,New York Islanders,Minnesota Wild,2022020669523,2022020669,Blocked Shot,523,BLOCKED_SHOT,Mats Zuccarello shot blocked shot by Ryan Pulock,2023-01-13T02:40:07Z,3,06:38,13:22,1,0,2.0,New York Islanders,NYI
+250,2,30,New York Islanders,Minnesota Wild,2022020669524,2022020669,Blocked Shot,524,BLOCKED_SHOT,Mats Zuccarello shot blocked shot by Jean-Gabriel Pageau,2023-01-13T02:40:25Z,3,06:56,13:04,1,0,2.0,New York Islanders,NYI
+251,2,30,New York Islanders,Minnesota Wild,2022020669713,2022020669,Hit,713,HIT,Jean-Gabriel Pageau hit Matt Boldy,2023-01-13T02:40:49Z,3,07:20,12:40,1,0,2.0,New York Islanders,NYI
+252,2,30,New York Islanders,Minnesota Wild,2022020669525,2022020669,Shot,525,SHOT,Kirill Kaprizov Slap Shot saved by Ilya Sorokin,2023-01-13T02:40:55Z,3,07:26,12:34,1,0,30.0,Minnesota Wild,MIN
+253,2,30,New York Islanders,Minnesota Wild,2022020669429,2022020669,Takeaway,429,TAKEAWAY,Takeaway by Ryan Hartman,2023-01-13T02:42:09Z,3,08:40,11:20,1,0,30.0,Minnesota Wild,MIN
+254,2,30,New York Islanders,Minnesota Wild,2022020669526,2022020669,Shot,526,SHOT,Anthony Beauvillier Wrist Shot saved by Filip Gustavsson,2023-01-13T02:42:17Z,3,08:48,11:12,1,0,2.0,New York Islanders,NYI
+255,2,30,New York Islanders,Minnesota Wild,2022020669430,2022020669,Giveaway,430,GIVEAWAY,Giveaway by Alexander Romanov,2023-01-13T02:42:37Z,3,09:08,10:52,1,0,2.0,New York Islanders,NYI
+256,2,30,New York Islanders,Minnesota Wild,2022020669431,2022020669,Giveaway,431,GIVEAWAY,Giveaway by Marcus Foligno,2023-01-13T02:43:00Z,3,09:31,10:29,1,0,30.0,Minnesota Wild,MIN
+257,2,30,New York Islanders,Minnesota Wild,2022020669527,2022020669,Blocked Shot,527,BLOCKED_SHOT,Scott Mayfield shot blocked shot by Matt Dumba,2023-01-13T02:43:13Z,3,09:44,10:16,1,0,30.0,Minnesota Wild,MIN
+258,2,30,New York Islanders,Minnesota Wild,2022020669715,2022020669,Hit,715,HIT,Scott Mayfield hit Jonas Brodin,2023-01-13T02:43:26Z,3,09:57,10:03,1,0,2.0,New York Islanders,NYI
+259,2,30,New York Islanders,Minnesota Wild,2022020669799,2022020669,Penalty,799,PENALTY,Jonas Brodin Hooking against Scott Mayfield,2023-01-13T02:43:29Z,3,10:00,10:00,1,0,30.0,Minnesota Wild,MIN
+260,2,30,New York Islanders,Minnesota Wild,2022020669432,2022020669,Faceoff,432,FACEOFF,Brock Nelson faceoff won against Frederick Gaudreau,2023-01-13T02:44:18Z,3,10:00,10:00,1,0,2.0,New York Islanders,NYI
+261,2,30,New York Islanders,Minnesota Wild,2022020669528,2022020669,Shot,528,SHOT,Brock Nelson Slap Shot saved by Filip Gustavsson,2023-01-13T02:44:25Z,3,10:07,09:53,1,0,2.0,New York Islanders,NYI
+262,2,30,New York Islanders,Minnesota Wild,2022020669716,2022020669,Stoppage,716,STOP,Goalie Stopped,2023-01-13T02:44:26Z,3,10:08,09:52,1,0,,,
+263,2,30,New York Islanders,Minnesota Wild,2022020669433,2022020669,Faceoff,433,FACEOFF,Jean-Gabriel Pageau faceoff won against Joel Eriksson Ek,2023-01-13T02:44:53Z,3,10:08,09:52,1,0,2.0,New York Islanders,NYI
+264,2,30,New York Islanders,Minnesota Wild,2022020669529,2022020669,Shot,529,SHOT,Mathew Barzal Slap Shot saved by Filip Gustavsson,2023-01-13T02:45:03Z,3,10:18,09:42,1,0,2.0,New York Islanders,NYI
+265,2,30,New York Islanders,Minnesota Wild,2022020669717,2022020669,Stoppage,717,STOP,Goalie Stopped,2023-01-13T02:45:05Z,3,10:20,09:40,1,0,,,
+266,2,30,New York Islanders,Minnesota Wild,2022020669434,2022020669,Faceoff,434,FACEOFF,Frederick Gaudreau faceoff won against Brock Nelson,2023-01-13T02:45:29Z,3,10:20,09:40,1,0,30.0,Minnesota Wild,MIN
+267,2,30,New York Islanders,Minnesota Wild,2022020669435,2022020669,Takeaway,435,TAKEAWAY,Takeaway by Joel Eriksson Ek,2023-01-13T02:46:02Z,3,10:53,09:07,1,0,30.0,Minnesota Wild,MIN
+268,2,30,New York Islanders,Minnesota Wild,2022020669530,2022020669,Goal,530,GOAL,"Frederick Gaudreau (10) Snap Shot, assists: Joel Eriksson Ek (19)",2023-01-13T02:46:05Z,3,10:55,09:05,1,1,30.0,Minnesota Wild,MIN
+269,2,30,New York Islanders,Minnesota Wild,2022020669719,2022020669,Stoppage,719,STOP,Video Review,2023-01-13T02:46:05Z,3,10:55,09:05,1,1,,,
+270,2,30,New York Islanders,Minnesota Wild,2022020669437,2022020669,Faceoff,437,FACEOFF,Brock Nelson faceoff won against Frederick Gaudreau,2023-01-13T02:50:11Z,3,10:55,09:05,1,1,2.0,New York Islanders,NYI
+271,2,30,New York Islanders,Minnesota Wild,2022020669532,2022020669,Blocked Shot,532,BLOCKED_SHOT,Noah Dobson shot blocked shot by Jake Middleton,2023-01-13T02:50:49Z,3,11:33,08:27,1,1,30.0,Minnesota Wild,MIN
+272,2,30,New York Islanders,Minnesota Wild,2022020669720,2022020669,Stoppage,720,STOP,Referee or Linesman,2023-01-13T02:51:14Z,3,11:58,08:02,1,1,,,
+273,2,30,New York Islanders,Minnesota Wild,2022020669438,2022020669,Faceoff,438,FACEOFF,Sam Steel faceoff won against Casey Cizikas,2023-01-13T02:52:08Z,3,11:58,08:02,1,1,30.0,Minnesota Wild,MIN
+274,2,30,New York Islanders,Minnesota Wild,2022020669533,2022020669,Goal,533,GOAL,"Sam Steel (8) Snap Shot, assists: Mats Zuccarello (25), Kirill Kaprizov (26)",2023-01-13T02:52:38Z,3,12:28,07:32,1,2,30.0,Minnesota Wild,MIN
+275,2,30,New York Islanders,Minnesota Wild,2022020669721,2022020669,Faceoff,721,FACEOFF,Joel Eriksson Ek faceoff won against Brock Nelson,2023-01-13T02:53:20Z,3,12:28,07:32,1,2,30.0,Minnesota Wild,MIN
+276,2,30,New York Islanders,Minnesota Wild,2022020669722,2022020669,Hit,722,HIT,Jon Merrill hit Anthony Beauvillier,2023-01-13T02:54:13Z,3,13:21,06:39,1,2,30.0,Minnesota Wild,MIN
+277,2,30,New York Islanders,Minnesota Wild,2022020669723,2022020669,Stoppage,723,STOP,Icing,2023-01-13T02:54:26Z,3,13:35,06:25,1,2,,,
+278,2,30,New York Islanders,Minnesota Wild,2022020669440,2022020669,Faceoff,440,FACEOFF,Mathew Barzal faceoff won against Frederick Gaudreau,2023-01-13T02:55:04Z,3,13:35,06:25,1,2,2.0,New York Islanders,NYI
+279,2,30,New York Islanders,Minnesota Wild,2022020669724,2022020669,Stoppage,724,STOP,Offside,2023-01-13T02:55:12Z,3,13:42,06:18,1,2,,,
+280,2,30,New York Islanders,Minnesota Wild,2022020669441,2022020669,Faceoff,441,FACEOFF,Mathew Barzal faceoff won against Frederick Gaudreau,2023-01-13T02:57:40Z,3,13:42,06:18,1,2,2.0,New York Islanders,NYI
+281,2,30,New York Islanders,Minnesota Wild,2022020669442,2022020669,Giveaway,442,GIVEAWAY,Giveaway by Mathew Barzal,2023-01-13T02:57:48Z,3,13:50,06:10,1,2,2.0,New York Islanders,NYI
+282,2,30,New York Islanders,Minnesota Wild,2022020669534,2022020669,Missed Shot,534,MISSED_SHOT,Anders Lee Wide of Net Filip Gustavsson,2023-01-13T02:58:16Z,3,14:18,05:42,1,2,2.0,New York Islanders,NYI
+283,2,30,New York Islanders,Minnesota Wild,2022020669443,2022020669,Giveaway,443,GIVEAWAY,Giveaway by Mathew Barzal,2023-01-13T02:58:47Z,3,14:49,05:11,1,2,2.0,New York Islanders,NYI
+284,2,30,New York Islanders,Minnesota Wild,2022020669535,2022020669,Blocked Shot,535,BLOCKED_SHOT,Brandon Duhaime shot blocked shot by Scott Mayfield,2023-01-13T02:58:50Z,3,14:52,05:08,1,2,2.0,New York Islanders,NYI
+285,2,30,New York Islanders,Minnesota Wild,2022020669725,2022020669,Shot,725,SHOT,Brandon Duhaime Snap Shot saved by Ilya Sorokin,2023-01-13T02:58:52Z,3,14:54,05:06,1,2,30.0,Minnesota Wild,MIN
+286,2,30,New York Islanders,Minnesota Wild,2022020669536,2022020669,Hit,536,HIT,Scott Mayfield hit Brandon Duhaime,2023-01-13T02:59:10Z,3,15:12,04:48,1,2,2.0,New York Islanders,NYI
+287,2,30,New York Islanders,Minnesota Wild,2022020669210,2022020669,Missed Shot,210,MISSED_SHOT,Jared Spurgeon Wide of Net Ilya Sorokin,2023-01-13T02:59:38Z,3,15:40,04:20,1,2,30.0,Minnesota Wild,MIN
+288,2,30,New York Islanders,Minnesota Wild,2022020669537,2022020669,Blocked Shot,537,BLOCKED_SHOT,Kirill Kaprizov shot blocked shot by Noah Dobson,2023-01-13T02:59:40Z,3,15:42,04:18,1,2,2.0,New York Islanders,NYI
+289,2,30,New York Islanders,Minnesota Wild,2022020669538,2022020669,Shot,538,SHOT,Jordan Greenway Wrist Shot saved by Ilya Sorokin,2023-01-13T03:00:03Z,3,16:05,03:55,1,2,30.0,Minnesota Wild,MIN
+290,2,30,New York Islanders,Minnesota Wild,2022020669212,2022020669,Shot,212,SHOT,Mats Zuccarello Backhand saved by Ilya Sorokin,2023-01-13T03:00:16Z,3,16:18,03:42,1,2,30.0,Minnesota Wild,MIN
+291,2,30,New York Islanders,Minnesota Wild,2022020669540,2022020669,Blocked Shot,540,BLOCKED_SHOT,Brock Nelson shot blocked shot by Matt Dumba,2023-01-13T03:00:31Z,3,16:33,03:27,1,2,30.0,Minnesota Wild,MIN
+292,2,30,New York Islanders,Minnesota Wild,2022020669541,2022020669,Shot,541,SHOT,Marcus Foligno Wrap-around saved by Ilya Sorokin,2023-01-13T03:00:41Z,3,16:43,03:17,1,2,30.0,Minnesota Wild,MIN
+293,2,30,New York Islanders,Minnesota Wild,2022020669444,2022020669,Takeaway,444,TAKEAWAY,Takeaway by Marcus Foligno,2023-01-13T03:00:42Z,3,16:44,03:16,1,2,30.0,Minnesota Wild,MIN
+294,2,30,New York Islanders,Minnesota Wild,2022020669728,2022020669,Stoppage,728,STOP,Goalie Stopped,2023-01-13T03:00:42Z,3,16:45,03:15,1,2,,,
+295,2,30,New York Islanders,Minnesota Wild,2022020669445,2022020669,Faceoff,445,FACEOFF,Casey Cizikas faceoff won against Joel Eriksson Ek,2023-01-13T03:03:14Z,3,16:45,03:15,1,2,2.0,New York Islanders,NYI
+296,2,30,New York Islanders,Minnesota Wild,2022020669542,2022020669,Blocked Shot,542,BLOCKED_SHOT,Scott Mayfield shot blocked shot by Jonas Brodin,2023-01-13T03:03:28Z,3,16:59,03:01,1,2,30.0,Minnesota Wild,MIN
+297,2,30,New York Islanders,Minnesota Wild,2022020669729,2022020669,Blocked Shot,729,BLOCKED_SHOT,Scott Mayfield shot blocked shot by Jordan Greenway,2023-01-13T03:03:42Z,3,17:13,02:47,1,2,30.0,Minnesota Wild,MIN
+298,2,30,New York Islanders,Minnesota Wild,2022020669543,2022020669,Blocked Shot,543,BLOCKED_SHOT,Marcus Foligno shot blocked shot by Scott Mayfield,2023-01-13T03:04:03Z,3,17:34,02:26,1,2,2.0,New York Islanders,NYI
+299,2,30,New York Islanders,Minnesota Wild,2022020669730,2022020669,Hit,730,HIT,Jake Middleton hit Brock Nelson,2023-01-13T03:04:27Z,3,17:58,02:02,1,2,30.0,Minnesota Wild,MIN
+300,2,30,New York Islanders,Minnesota Wild,2022020669446,2022020669,Giveaway,446,GIVEAWAY,Giveaway by Jean-Gabriel Pageau,2023-01-13T03:04:52Z,3,18:23,01:37,1,2,2.0,New York Islanders,NYI
+301,2,30,New York Islanders,Minnesota Wild,2022020669545,2022020669,Goal,545,GOAL,"Kirill Kaprizov (25) Wrist Shot, assists: Mats Zuccarello (26), Jon Merrill (8)",2023-01-13T03:05:17Z,3,18:48,01:12,1,3,30.0,Minnesota Wild,MIN
+302,2,30,New York Islanders,Minnesota Wild,2022020669731,2022020669,Faceoff,731,FACEOFF,Connor Dewar faceoff won against Casey Cizikas,2023-01-13T03:05:59Z,3,18:48,01:12,1,3,30.0,Minnesota Wild,MIN
+303,2,30,New York Islanders,Minnesota Wild,2022020669546,2022020669,Shot,546,SHOT,Parker Wotherspoon Wrist Shot saved by Filip Gustavsson,2023-01-13T03:06:46Z,3,19:35,00:25,1,3,2.0,New York Islanders,NYI
+304,2,30,New York Islanders,Minnesota Wild,2022020669732,2022020669,Hit,732,HIT,Anthony Beauvillier hit Brandon Duhaime,2023-01-13T03:06:46Z,3,19:35,00:25,1,3,2.0,New York Islanders,NYI
+305,2,30,New York Islanders,Minnesota Wild,2022020669547,2022020669,Missed Shot,547,MISSED_SHOT,Ryan Reaves Wide of Net Ilya Sorokin,2023-01-13T03:07:04Z,3,19:53,00:07,1,3,30.0,Minnesota Wild,MIN
+306,2,30,New York Islanders,Minnesota Wild,2022020669733,2022020669,Period End,733,PERIOD_END,End of 3rd Period,2023-01-13T03:07:12Z,3,20:00,00:00,1,3,,,
+307,2,30,New York Islanders,Minnesota Wild,2022020669736,2022020669,Period Official,736,PERIOD_OFFICIAL,Period Official,2023-01-13T03:07:15Z,3,20:00,00:00,1,3,,,
+308,2,30,New York Islanders,Minnesota Wild,2022020669737,2022020669,Game End,737,GAME_END,Game End,2023-01-13T03:07:16Z,3,20:00,00:00,1,3,,,
+309,2,30,New York Islanders,Minnesota Wild,20220206691151,2022020669,Game Official,1151,GAME_OFFICIAL,Game Official,2023-01-13T04:26:22Z,3,20:00,00:00,1,3,,,

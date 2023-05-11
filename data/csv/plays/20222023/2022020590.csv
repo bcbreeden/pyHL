@@ -1,0 +1,381 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,1,12,New Jersey Devils,Carolina Hurricanes,20220205901,2022020590,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-01-01T19:16:21Z,1,00:00,20:00,0,0,,,
+1,1,12,New Jersey Devils,Carolina Hurricanes,20220205905,2022020590,Period Ready,5,PERIOD_READY,Period Ready,2023-01-01T20:07:55Z,1,00:00,20:00,0,0,,,
+2,1,12,New Jersey Devils,Carolina Hurricanes,202202059051,2022020590,Period Start,51,PERIOD_START,Period Start,2023-01-01T20:08:58Z,1,00:00,20:00,0,0,,,
+3,1,12,New Jersey Devils,Carolina Hurricanes,202202059054,2022020590,Faceoff,54,FACEOFF,Jordan Staal faceoff won against Michael McLeod,2023-01-01T20:08:58Z,1,00:00,20:00,0,0,12.0,Carolina Hurricanes,CAR
+4,1,12,New Jersey Devils,Carolina Hurricanes,2022020590151,2022020590,Shot,151,SHOT,Michael McLeod Snap Shot saved by Antti Raanta,2023-01-01T20:09:07Z,1,00:09,19:51,0,0,1.0,New Jersey Devils,NJD
+5,1,12,New Jersey Devils,Carolina Hurricanes,20220205908,2022020590,Stoppage,8,STOP,Goalie Stopped,2023-01-01T20:09:08Z,1,00:11,19:49,0,0,,,
+6,1,12,New Jersey Devils,Carolina Hurricanes,202202059055,2022020590,Faceoff,55,FACEOFF,Jordan Staal faceoff won against Erik Haula,2023-01-01T20:09:35Z,1,00:11,19:49,0,0,12.0,Carolina Hurricanes,CAR
+7,1,12,New Jersey Devils,Carolina Hurricanes,2022020590152,2022020590,Stoppage,152,STOP,Offside,2023-01-01T20:10:01Z,1,00:37,19:23,0,0,,,
+8,1,12,New Jersey Devils,Carolina Hurricanes,202202059056,2022020590,Faceoff,56,FACEOFF,Nico Hischier faceoff won against Paul Stastny,2023-01-01T20:10:25Z,1,00:37,19:23,0,0,1.0,New Jersey Devils,NJD
+9,1,12,New Jersey Devils,Carolina Hurricanes,202202059057,2022020590,Giveaway,57,GIVEAWAY,Giveaway by Nico Hischier,2023-01-01T20:10:43Z,1,00:55,19:05,0,0,1.0,New Jersey Devils,NJD
+10,1,12,New Jersey Devils,Carolina Hurricanes,2022020590153,2022020590,Shot,153,SHOT,Brady Skjei Snap Shot saved by Mackenzie Blackwood,2023-01-01T20:10:45Z,1,00:57,19:03,0,0,12.0,Carolina Hurricanes,CAR
+11,1,12,New Jersey Devils,Carolina Hurricanes,202202059010,2022020590,Missed Shot,10,MISSED_SHOT,Miles Wood Wide of Net Antti Raanta,2023-01-01T20:11:09Z,1,01:21,18:39,0,0,1.0,New Jersey Devils,NJD
+12,1,12,New Jersey Devils,Carolina Hurricanes,202202059011,2022020590,Missed Shot,11,MISSED_SHOT,Ryan Graves Hit Crossbar Antti Raanta,2023-01-01T20:11:33Z,1,01:45,18:15,0,0,1.0,New Jersey Devils,NJD
+13,1,12,New Jersey Devils,Carolina Hurricanes,2022020590154,2022020590,Stoppage,154,STOP,Icing,2023-01-01T20:12:23Z,1,02:35,17:25,0,0,,,
+14,1,12,New Jersey Devils,Carolina Hurricanes,202202059058,2022020590,Faceoff,58,FACEOFF,Paul Stastny faceoff won against Jesper Boqvist,2023-01-01T20:12:52Z,1,02:35,17:25,0,0,12.0,Carolina Hurricanes,CAR
+15,1,12,New Jersey Devils,Carolina Hurricanes,202202059012,2022020590,Missed Shot,12,MISSED_SHOT,Brett Pesce Wide of Net Mackenzie Blackwood,2023-01-01T20:13:05Z,1,02:48,17:12,0,0,12.0,Carolina Hurricanes,CAR
+16,1,12,New Jersey Devils,Carolina Hurricanes,2022020590128,2022020590,Penalty,128,PENALTY,Martin Necas High-sticking against Brendan Smith,2023-01-01T20:13:22Z,1,03:05,16:55,0,0,12.0,Carolina Hurricanes,CAR
+17,1,12,New Jersey Devils,Carolina Hurricanes,202202059059,2022020590,Faceoff,59,FACEOFF,Jordan Staal faceoff won against Nico Hischier,2023-01-01T20:14:09Z,1,03:05,16:55,0,0,12.0,Carolina Hurricanes,CAR
+18,1,12,New Jersey Devils,Carolina Hurricanes,202202059013,2022020590,Shot,13,SHOT,Nico Hischier Wrist Shot saved by Antti Raanta,2023-01-01T20:14:45Z,1,03:41,16:19,0,0,1.0,New Jersey Devils,NJD
+19,1,12,New Jersey Devils,Carolina Hurricanes,2022020590155,2022020590,Shot,155,SHOT,Jack Hughes Wrist Shot saved by Antti Raanta,2023-01-01T20:14:54Z,1,03:50,16:10,0,0,1.0,New Jersey Devils,NJD
+20,1,12,New Jersey Devils,Carolina Hurricanes,202202059014,2022020590,Stoppage,14,STOP,Puck in Netting,2023-01-01T20:14:57Z,1,03:53,16:07,0,0,,,
+21,1,12,New Jersey Devils,Carolina Hurricanes,202202059060,2022020590,Faceoff,60,FACEOFF,Nico Hischier faceoff won against Sebastian Aho,2023-01-01T20:15:29Z,1,03:53,16:07,0,0,1.0,New Jersey Devils,NJD
+22,1,12,New Jersey Devils,Carolina Hurricanes,202202059061,2022020590,Giveaway,61,GIVEAWAY,Giveaway by Jack Hughes,2023-01-01T20:15:54Z,1,04:18,15:42,0,0,1.0,New Jersey Devils,NJD
+23,1,12,New Jersey Devils,Carolina Hurricanes,202202059062,2022020590,Giveaway,62,GIVEAWAY,Giveaway by Miles Wood,2023-01-01T20:16:33Z,1,04:57,15:03,0,0,1.0,New Jersey Devils,NJD
+24,1,12,New Jersey Devils,Carolina Hurricanes,202202059064,2022020590,Takeaway,64,TAKEAWAY,Takeaway by Jordan Staal,2023-01-01T20:16:46Z,1,05:10,14:50,0,0,12.0,Carolina Hurricanes,CAR
+25,1,12,New Jersey Devils,Carolina Hurricanes,202202059063,2022020590,Giveaway,63,GIVEAWAY,Giveaway by Fabian Zetterlund,2023-01-01T20:16:48Z,1,05:12,14:48,0,0,1.0,New Jersey Devils,NJD
+26,1,12,New Jersey Devils,Carolina Hurricanes,202202059015,2022020590,Blocked Shot,15,BLOCKED_SHOT,Jalen Chatfield shot blocked shot by Erik Haula,2023-01-01T20:16:55Z,1,05:19,14:41,0,0,1.0,New Jersey Devils,NJD
+27,1,12,New Jersey Devils,Carolina Hurricanes,202202059065,2022020590,Hit,65,HIT,Miles Wood hit Calvin de Haan,2023-01-01T20:17:02Z,1,05:26,14:34,0,0,1.0,New Jersey Devils,NJD
+28,1,12,New Jersey Devils,Carolina Hurricanes,2022020590157,2022020590,Stoppage,157,STOP,Puck in Crowd,2023-01-01T20:17:13Z,1,05:38,14:22,0,0,,,
+29,1,12,New Jersey Devils,Carolina Hurricanes,202202059066,2022020590,Faceoff,66,FACEOFF,Michael McLeod faceoff won against Sebastian Aho,2023-01-01T20:17:34Z,1,05:38,14:22,0,0,1.0,New Jersey Devils,NJD
+30,1,12,New Jersey Devils,Carolina Hurricanes,202202059016,2022020590,Blocked Shot,16,BLOCKED_SHOT,Teuvo Teravainen shot blocked shot by Ryan Graves,2023-01-01T20:17:56Z,1,06:00,14:00,0,0,1.0,New Jersey Devils,NJD
+31,1,12,New Jersey Devils,Carolina Hurricanes,202202059067,2022020590,Giveaway,67,GIVEAWAY,Giveaway by Ryan Graves,2023-01-01T20:17:57Z,1,06:01,13:59,0,0,1.0,New Jersey Devils,NJD
+32,1,12,New Jersey Devils,Carolina Hurricanes,202202059017,2022020590,Blocked Shot,17,BLOCKED_SHOT,Jaccob Slavin shot blocked shot by Tomas Tatar,2023-01-01T20:18:26Z,1,06:30,13:30,0,0,1.0,New Jersey Devils,NJD
+33,1,12,New Jersey Devils,Carolina Hurricanes,2022020590501,2022020590,Shot,501,SHOT,Sebastian Aho Wrist Shot saved by Mackenzie Blackwood,2023-01-01T20:18:33Z,1,06:37,13:23,0,0,12.0,Carolina Hurricanes,CAR
+34,1,12,New Jersey Devils,Carolina Hurricanes,2022020590158,2022020590,Stoppage,158,STOP,TV timeout,2023-01-01T20:18:46Z,1,06:50,13:10,0,0,,,
+35,1,12,New Jersey Devils,Carolina Hurricanes,2022020590208,2022020590,Penalty,208,PENALTY,Damon Severson Tripping against Brent Burns,2023-01-01T20:18:46Z,1,06:50,13:10,0,0,1.0,New Jersey Devils,NJD
+36,1,12,New Jersey Devils,Carolina Hurricanes,202202059068,2022020590,Faceoff,68,FACEOFF,Martin Necas faceoff won against Michael McLeod,2023-01-01T20:21:11Z,1,06:50,13:10,0,0,12.0,Carolina Hurricanes,CAR
+37,1,12,New Jersey Devils,Carolina Hurricanes,202202059020,2022020590,Blocked Shot,20,BLOCKED_SHOT,Martin Necas shot blocked shot by Jonas Siegenthaler,2023-01-01T20:21:48Z,1,07:27,12:33,0,0,1.0,New Jersey Devils,NJD
+38,1,12,New Jersey Devils,Carolina Hurricanes,2022020590159,2022020590,Missed Shot,159,MISSED_SHOT,Brent Burns Wide of Net Mackenzie Blackwood,2023-01-01T20:22:07Z,1,07:46,12:14,0,0,12.0,Carolina Hurricanes,CAR
+39,1,12,New Jersey Devils,Carolina Hurricanes,202202059021,2022020590,Shot,21,SHOT,Brent Burns Slap Shot saved by Mackenzie Blackwood,2023-01-01T20:22:21Z,1,08:00,12:00,0,0,12.0,Carolina Hurricanes,CAR
+40,1,12,New Jersey Devils,Carolina Hurricanes,202202059069,2022020590,Hit,69,HIT,Andrei Svechnikov hit Yegor Sharangovich,2023-01-01T20:22:31Z,1,08:10,11:50,0,0,12.0,Carolina Hurricanes,CAR
+41,1,12,New Jersey Devils,Carolina Hurricanes,2022020590160,2022020590,Blocked Shot,160,BLOCKED_SHOT,Sebastian Aho shot blocked shot by Yegor Sharangovich,2023-01-01T20:22:51Z,1,08:30,11:30,0,0,1.0,New Jersey Devils,NJD
+42,1,12,New Jersey Devils,Carolina Hurricanes,2022020590161,2022020590,Stoppage,161,STOP,Puck in Netting,2023-01-01T20:22:54Z,1,08:33,11:27,0,0,,,
+43,1,12,New Jersey Devils,Carolina Hurricanes,202202059070,2022020590,Faceoff,70,FACEOFF,Nico Hischier faceoff won against Jesper Fast,2023-01-01T20:23:30Z,1,08:33,11:27,0,0,1.0,New Jersey Devils,NJD
+44,1,12,New Jersey Devils,Carolina Hurricanes,202202059071,2022020590,Takeaway,71,TAKEAWAY,Takeaway by Nico Hischier,2023-01-01T20:23:46Z,1,08:49,11:11,0,0,1.0,New Jersey Devils,NJD
+45,1,12,New Jersey Devils,Carolina Hurricanes,2022020590221,2022020590,Penalty,221,PENALTY,Brady Skjei Interference against Tomas Tatar,2023-01-01T20:24:17Z,1,09:20,10:40,0,0,12.0,Carolina Hurricanes,CAR
+46,1,12,New Jersey Devils,Carolina Hurricanes,202202059072,2022020590,Faceoff,72,FACEOFF,Sebastian Aho faceoff won against Nico Hischier,2023-01-01T20:24:58Z,1,09:20,10:40,0,0,12.0,Carolina Hurricanes,CAR
+47,1,12,New Jersey Devils,Carolina Hurricanes,202202059073,2022020590,Takeaway,73,TAKEAWAY,Takeaway by Tomas Tatar,2023-01-01T20:25:10Z,1,09:32,10:28,0,0,1.0,New Jersey Devils,NJD
+48,1,12,New Jersey Devils,Carolina Hurricanes,202202059023,2022020590,Shot,23,SHOT,Tomas Tatar Wrist Shot saved by Antti Raanta,2023-01-01T20:25:13Z,1,09:35,10:25,0,0,1.0,New Jersey Devils,NJD
+49,1,12,New Jersey Devils,Carolina Hurricanes,202202059024,2022020590,Shot,24,SHOT,Jack Hughes Wrist Shot saved by Antti Raanta,2023-01-01T20:25:42Z,1,10:04,09:56,0,0,1.0,New Jersey Devils,NJD
+50,1,12,New Jersey Devils,Carolina Hurricanes,202202059074,2022020590,Giveaway,74,GIVEAWAY,Giveaway by Dougie Hamilton,2023-01-01T20:25:45Z,1,10:07,09:53,0,0,1.0,New Jersey Devils,NJD
+51,1,12,New Jersey Devils,Carolina Hurricanes,202202059075,2022020590,Giveaway,75,GIVEAWAY,Giveaway by Yegor Sharangovich,2023-01-01T20:26:11Z,1,10:33,09:27,0,0,1.0,New Jersey Devils,NJD
+52,1,12,New Jersey Devils,Carolina Hurricanes,202202059025,2022020590,Shot,25,SHOT,Damon Severson Slap Shot saved by Antti Raanta,2023-01-01T20:26:28Z,1,10:50,09:10,0,0,1.0,New Jersey Devils,NJD
+53,1,12,New Jersey Devils,Carolina Hurricanes,202202059026,2022020590,Shot,26,SHOT,Yegor Sharangovich Wrist Shot saved by Antti Raanta,2023-01-01T20:26:45Z,1,11:07,08:53,0,0,1.0,New Jersey Devils,NJD
+54,1,12,New Jersey Devils,Carolina Hurricanes,2022020590162,2022020590,Stoppage,162,STOP,Goalie Stopped,2023-01-01T20:26:47Z,1,11:09,08:51,0,0,,,
+55,1,12,New Jersey Devils,Carolina Hurricanes,202202059076,2022020590,Faceoff,76,FACEOFF,Jordan Staal faceoff won against Michael McLeod,2023-01-01T20:27:13Z,1,11:09,08:51,0,0,12.0,Carolina Hurricanes,CAR
+56,1,12,New Jersey Devils,Carolina Hurricanes,202202059027,2022020590,Missed Shot,27,MISSED_SHOT,Jalen Chatfield Wide of Net Mackenzie Blackwood,2023-01-01T20:27:52Z,1,11:48,08:12,0,0,12.0,Carolina Hurricanes,CAR
+57,1,12,New Jersey Devils,Carolina Hurricanes,202202059077,2022020590,Giveaway,77,GIVEAWAY,Giveaway by Ryan Graves,2023-01-01T20:28:06Z,1,12:02,07:58,0,0,1.0,New Jersey Devils,NJD
+58,1,12,New Jersey Devils,Carolina Hurricanes,2022020590502,2022020590,Blocked Shot,502,BLOCKED_SHOT,Calvin de Haan shot blocked shot by Dawson Mercer,2023-01-01T20:28:11Z,1,12:07,07:53,0,0,1.0,New Jersey Devils,NJD
+59,1,12,New Jersey Devils,Carolina Hurricanes,202202059028,2022020590,Stoppage,28,STOP,Puck in Netting,2023-01-01T20:28:12Z,1,12:09,07:51,0,0,,,
+60,1,12,New Jersey Devils,Carolina Hurricanes,202202059078,2022020590,Faceoff,78,FACEOFF,Paul Stastny faceoff won against Nico Hischier,2023-01-01T20:30:20Z,1,12:09,07:51,0,0,12.0,Carolina Hurricanes,CAR
+61,1,12,New Jersey Devils,Carolina Hurricanes,202202059029,2022020590,Missed Shot,29,MISSED_SHOT,Martin Necas Wide of Net Mackenzie Blackwood,2023-01-01T20:30:55Z,1,12:44,07:16,0,0,12.0,Carolina Hurricanes,CAR
+62,1,12,New Jersey Devils,Carolina Hurricanes,202202059079,2022020590,Giveaway,79,GIVEAWAY,Giveaway by Seth Jarvis,2023-01-01T20:31:31Z,1,13:20,06:40,0,0,12.0,Carolina Hurricanes,CAR
+63,1,12,New Jersey Devils,Carolina Hurricanes,2022020590164,2022020590,Stoppage,164,STOP,Icing,2023-01-01T20:31:31Z,1,13:20,06:40,0,0,,,
+64,1,12,New Jersey Devils,Carolina Hurricanes,202202059080,2022020590,Faceoff,80,FACEOFF,Erik Haula faceoff won against Sebastian Aho,2023-01-01T20:31:56Z,1,13:20,06:40,0,0,1.0,New Jersey Devils,NJD
+65,1,12,New Jersey Devils,Carolina Hurricanes,202202059030,2022020590,Shot,30,SHOT,Brent Burns Wrist Shot saved by Mackenzie Blackwood,2023-01-01T20:32:01Z,1,13:25,06:35,0,0,12.0,Carolina Hurricanes,CAR
+66,1,12,New Jersey Devils,Carolina Hurricanes,2022020590165,2022020590,Shot,165,SHOT,Sebastian Aho Snap Shot saved by Mackenzie Blackwood,2023-01-01T20:32:08Z,1,13:32,06:28,0,0,12.0,Carolina Hurricanes,CAR
+67,1,12,New Jersey Devils,Carolina Hurricanes,202202059031,2022020590,Stoppage,31,STOP,Goalie Stopped,2023-01-01T20:32:09Z,1,13:33,06:27,0,0,,,
+68,1,12,New Jersey Devils,Carolina Hurricanes,202202059081,2022020590,Faceoff,81,FACEOFF,Jordan Staal faceoff won against Michael McLeod,2023-01-01T20:32:40Z,1,13:33,06:27,0,0,12.0,Carolina Hurricanes,CAR
+69,1,12,New Jersey Devils,Carolina Hurricanes,202202059032,2022020590,Blocked Shot,32,BLOCKED_SHOT,Calvin de Haan shot blocked shot by Tyce Thompson,2023-01-01T20:32:43Z,1,13:36,06:24,0,0,1.0,New Jersey Devils,NJD
+70,1,12,New Jersey Devils,Carolina Hurricanes,202202059082,2022020590,Giveaway,82,GIVEAWAY,Giveaway by Michael McLeod,2023-01-01T20:32:55Z,1,13:48,06:12,0,0,1.0,New Jersey Devils,NJD
+71,1,12,New Jersey Devils,Carolina Hurricanes,202202059083,2022020590,Giveaway,83,GIVEAWAY,Giveaway by Brendan Smith,2023-01-01T20:33:11Z,1,14:04,05:56,0,0,1.0,New Jersey Devils,NJD
+72,1,12,New Jersey Devils,Carolina Hurricanes,202202059033,2022020590,Shot,33,SHOT,Jordan Martinook Wrist Shot saved by Mackenzie Blackwood,2023-01-01T20:33:16Z,1,14:09,05:51,0,0,12.0,Carolina Hurricanes,CAR
+73,1,12,New Jersey Devils,Carolina Hurricanes,202202059034,2022020590,Stoppage,34,STOP,Goalie Stopped,2023-01-01T20:33:17Z,1,14:10,05:50,0,0,,,
+74,1,12,New Jersey Devils,Carolina Hurricanes,202202059084,2022020590,Faceoff,84,FACEOFF,Dawson Mercer faceoff won against Jesperi Kotkaniemi,2023-01-01T20:35:36Z,1,14:10,05:50,0,0,1.0,New Jersey Devils,NJD
+75,1,12,New Jersey Devils,Carolina Hurricanes,202202059085,2022020590,Giveaway,85,GIVEAWAY,Giveaway by Brendan Smith,2023-01-01T20:35:46Z,1,14:20,05:40,0,0,1.0,New Jersey Devils,NJD
+76,1,12,New Jersey Devils,Carolina Hurricanes,2022020590167,2022020590,Stoppage,167,STOP,Icing,2023-01-01T20:36:06Z,1,14:40,05:20,0,0,,,
+77,1,12,New Jersey Devils,Carolina Hurricanes,202202059086,2022020590,Faceoff,86,FACEOFF,Paul Stastny faceoff won against Erik Haula,2023-01-01T20:36:36Z,1,14:40,05:20,0,0,12.0,Carolina Hurricanes,CAR
+78,1,12,New Jersey Devils,Carolina Hurricanes,202202059035,2022020590,Shot,35,SHOT,Brent Burns Wrist Shot saved by Mackenzie Blackwood,2023-01-01T20:36:43Z,1,14:47,05:13,0,0,12.0,Carolina Hurricanes,CAR
+79,1,12,New Jersey Devils,Carolina Hurricanes,2022020590168,2022020590,Stoppage,168,STOP,Goalie Stopped,2023-01-01T20:36:43Z,1,14:47,05:13,0,0,,,
+80,1,12,New Jersey Devils,Carolina Hurricanes,202202059087,2022020590,Faceoff,87,FACEOFF,Martin Necas faceoff won against Nico Hischier,2023-01-01T20:37:12Z,1,14:47,05:13,0,0,12.0,Carolina Hurricanes,CAR
+81,1,12,New Jersey Devils,Carolina Hurricanes,202202059036,2022020590,Shot,36,SHOT,Brent Burns Wrist Shot saved by Mackenzie Blackwood,2023-01-01T20:37:15Z,1,14:50,05:10,0,0,12.0,Carolina Hurricanes,CAR
+82,1,12,New Jersey Devils,Carolina Hurricanes,202202059037,2022020590,Blocked Shot,37,BLOCKED_SHOT,Brent Burns shot blocked shot by Tomas Tatar,2023-01-01T20:37:25Z,1,15:00,05:00,0,0,1.0,New Jersey Devils,NJD
+83,1,12,New Jersey Devils,Carolina Hurricanes,202202059088,2022020590,Giveaway,88,GIVEAWAY,Giveaway by Brent Burns,2023-01-01T20:37:27Z,1,15:02,04:58,0,0,12.0,Carolina Hurricanes,CAR
+84,1,12,New Jersey Devils,Carolina Hurricanes,202202059089,2022020590,Hit,89,HIT,Andrei Svechnikov hit Jesper Bratt,2023-01-01T20:37:57Z,1,15:32,04:28,0,0,12.0,Carolina Hurricanes,CAR
+85,1,12,New Jersey Devils,Carolina Hurricanes,202202059038,2022020590,Missed Shot,38,MISSED_SHOT,Andrei Svechnikov Over Net Mackenzie Blackwood,2023-01-01T20:38:01Z,1,15:36,04:24,0,0,12.0,Carolina Hurricanes,CAR
+86,1,12,New Jersey Devils,Carolina Hurricanes,2022020590169,2022020590,Blocked Shot,169,BLOCKED_SHOT,Jalen Chatfield shot blocked shot by Kevin Bahl,2023-01-01T20:38:15Z,1,15:50,04:10,0,0,1.0,New Jersey Devils,NJD
+87,1,12,New Jersey Devils,Carolina Hurricanes,202202059090,2022020590,Giveaway,90,GIVEAWAY,Giveaway by Fabian Zetterlund,2023-01-01T20:38:22Z,1,15:57,04:03,0,0,1.0,New Jersey Devils,NJD
+88,1,12,New Jersey Devils,Carolina Hurricanes,202202059091,2022020590,Giveaway,91,GIVEAWAY,Giveaway by Teuvo Teravainen,2023-01-01T20:38:38Z,1,16:13,03:47,0,0,12.0,Carolina Hurricanes,CAR
+89,1,12,New Jersey Devils,Carolina Hurricanes,202202059092,2022020590,Giveaway,92,GIVEAWAY,Giveaway by Teuvo Teravainen,2023-01-01T20:38:50Z,1,16:25,03:35,0,0,12.0,Carolina Hurricanes,CAR
+90,1,12,New Jersey Devils,Carolina Hurricanes,2022020590170,2022020590,Stoppage,170,STOP,Icing,2023-01-01T20:39:40Z,1,17:15,02:45,0,0,,,
+91,1,12,New Jersey Devils,Carolina Hurricanes,202202059093,2022020590,Faceoff,93,FACEOFF,Jordan Staal faceoff won against Erik Haula,2023-01-01T20:40:19Z,1,17:15,02:45,0,0,12.0,Carolina Hurricanes,CAR
+92,1,12,New Jersey Devils,Carolina Hurricanes,202202059094,2022020590,Hit,94,HIT,Jordan Martinook hit Jack Hughes,2023-01-01T20:40:32Z,1,17:28,02:32,0,0,12.0,Carolina Hurricanes,CAR
+93,1,12,New Jersey Devils,Carolina Hurricanes,2022020590171,2022020590,Blocked Shot,171,BLOCKED_SHOT,Brent Burns shot blocked shot by Jonas Siegenthaler,2023-01-01T20:41:02Z,1,17:58,02:02,0,0,1.0,New Jersey Devils,NJD
+94,1,12,New Jersey Devils,Carolina Hurricanes,202202059095,2022020590,Giveaway,95,GIVEAWAY,Giveaway by Dougie Hamilton,2023-01-01T20:41:08Z,1,18:04,01:56,0,0,1.0,New Jersey Devils,NJD
+95,1,12,New Jersey Devils,Carolina Hurricanes,202202059039,2022020590,Blocked Shot,39,BLOCKED_SHOT,Teuvo Teravainen shot blocked shot by Dawson Mercer,2023-01-01T20:41:13Z,1,18:09,01:51,0,0,1.0,New Jersey Devils,NJD
+96,1,12,New Jersey Devils,Carolina Hurricanes,2022020590172,2022020590,Blocked Shot,172,BLOCKED_SHOT,Jesper Bratt shot blocked shot by Brady Skjei,2023-01-01T20:41:28Z,1,18:24,01:36,0,0,12.0,Carolina Hurricanes,CAR
+97,1,12,New Jersey Devils,Carolina Hurricanes,202202059096,2022020590,Hit,96,HIT,Brady Skjei hit Jesper Bratt,2023-01-01T20:41:38Z,1,18:34,01:26,0,0,12.0,Carolina Hurricanes,CAR
+98,1,12,New Jersey Devils,Carolina Hurricanes,202202059040,2022020590,Shot,40,SHOT,Andrei Svechnikov Wrist Shot saved by Mackenzie Blackwood,2023-01-01T20:42:14Z,1,19:10,00:50,0,0,12.0,Carolina Hurricanes,CAR
+99,1,12,New Jersey Devils,Carolina Hurricanes,202202059097,2022020590,Hit,97,HIT,Ryan Graves hit Martin Necas,2023-01-01T20:42:16Z,1,19:11,00:49,0,0,1.0,New Jersey Devils,NJD
+100,1,12,New Jersey Devils,Carolina Hurricanes,2022020590173,2022020590,Stoppage,173,STOP,Goalie Stopped,2023-01-01T20:42:16Z,1,19:11,00:49,0,0,,,
+101,1,12,New Jersey Devils,Carolina Hurricanes,202202059098,2022020590,Faceoff,98,FACEOFF,Michael McLeod faceoff won against Derek Stepan,2023-01-01T20:42:48Z,1,19:11,00:49,0,0,1.0,New Jersey Devils,NJD
+102,1,12,New Jersey Devils,Carolina Hurricanes,2022020590174,2022020590,Stoppage,174,STOP,Icing,2023-01-01T20:42:55Z,1,19:18,00:42,0,0,,,
+103,1,12,New Jersey Devils,Carolina Hurricanes,202202059099,2022020590,Faceoff,99,FACEOFF,Michael McLeod faceoff won against Derek Stepan,2023-01-01T20:43:17Z,1,19:18,00:42,0,0,1.0,New Jersey Devils,NJD
+104,1,12,New Jersey Devils,Carolina Hurricanes,2022020590175,2022020590,Stoppage,175,STOP,Offside,2023-01-01T20:43:34Z,1,19:35,00:25,0,0,,,
+105,1,12,New Jersey Devils,Carolina Hurricanes,2022020590100,2022020590,Faceoff,100,FACEOFF,Erik Haula faceoff won against Jordan Staal,2023-01-01T20:44:10Z,1,19:35,00:25,0,0,1.0,New Jersey Devils,NJD
+106,1,12,New Jersey Devils,Carolina Hurricanes,202202059041,2022020590,Period End,41,PERIOD_END,End of 1st Period,2023-01-01T20:44:34Z,1,20:00,00:00,0,0,,,
+107,1,12,New Jersey Devils,Carolina Hurricanes,202202059044,2022020590,Period Official,44,PERIOD_OFFICIAL,Period Official,2023-01-01T20:56:46Z,1,20:00,00:00,0,0,,,
+108,1,12,New Jersey Devils,Carolina Hurricanes,202202059045,2022020590,Period Ready,45,PERIOD_READY,Period Ready,2023-01-01T21:01:32Z,2,00:00,20:00,0,0,,,
+109,1,12,New Jersey Devils,Carolina Hurricanes,2022020590301,2022020590,Period Start,301,PERIOD_START,Period Start,2023-01-01T21:03:16Z,2,00:00,20:00,0,0,,,
+110,1,12,New Jersey Devils,Carolina Hurricanes,2022020590302,2022020590,Faceoff,302,FACEOFF,Michael McLeod faceoff won against Jordan Staal,2023-01-01T21:03:16Z,2,00:00,20:00,0,0,1.0,New Jersey Devils,NJD
+111,1,12,New Jersey Devils,Carolina Hurricanes,202202059046,2022020590,Missed Shot,46,MISSED_SHOT,Jordan Martinook Wide of Net Mackenzie Blackwood,2023-01-01T21:03:37Z,2,00:21,19:39,0,0,12.0,Carolina Hurricanes,CAR
+112,1,12,New Jersey Devils,Carolina Hurricanes,2022020590176,2022020590,Shot,176,SHOT,Jaccob Slavin Snap Shot saved by Mackenzie Blackwood,2023-01-01T21:03:43Z,2,00:27,19:33,0,0,12.0,Carolina Hurricanes,CAR
+113,1,12,New Jersey Devils,Carolina Hurricanes,2022020590303,2022020590,Hit,303,HIT,Jesper Fast hit Brendan Smith,2023-01-01T21:03:52Z,2,00:36,19:24,0,0,12.0,Carolina Hurricanes,CAR
+114,1,12,New Jersey Devils,Carolina Hurricanes,2022020590304,2022020590,Giveaway,304,GIVEAWAY,Giveaway by Jesper Bratt,2023-01-01T21:04:51Z,2,01:35,18:25,0,0,1.0,New Jersey Devils,NJD
+115,1,12,New Jersey Devils,Carolina Hurricanes,2022020590177,2022020590,Blocked Shot,177,BLOCKED_SHOT,Jesper Bratt shot blocked shot by Seth Jarvis,2023-01-01T21:05:00Z,2,01:44,18:16,0,0,12.0,Carolina Hurricanes,CAR
+116,1,12,New Jersey Devils,Carolina Hurricanes,202202059047,2022020590,Shot,47,SHOT,Paul Stastny Wrist Shot saved by Mackenzie Blackwood,2023-01-01T21:05:22Z,2,02:06,17:54,0,0,12.0,Carolina Hurricanes,CAR
+117,1,12,New Jersey Devils,Carolina Hurricanes,2022020590178,2022020590,Stoppage,178,STOP,Goalie Stopped,2023-01-01T21:05:23Z,2,02:07,17:53,0,0,,,
+118,1,12,New Jersey Devils,Carolina Hurricanes,2022020590305,2022020590,Faceoff,305,FACEOFF,Erik Haula faceoff won against Paul Stastny,2023-01-01T21:06:02Z,2,02:07,17:53,0,0,1.0,New Jersey Devils,NJD
+119,1,12,New Jersey Devils,Carolina Hurricanes,2022020590306,2022020590,Giveaway,306,GIVEAWAY,Giveaway by Erik Haula,2023-01-01T21:06:36Z,2,02:41,17:19,0,0,1.0,New Jersey Devils,NJD
+120,1,12,New Jersey Devils,Carolina Hurricanes,202202059048,2022020590,Shot,48,SHOT,Andrei Svechnikov Slap Shot saved by Mackenzie Blackwood,2023-01-01T21:06:45Z,2,02:50,17:10,0,0,12.0,Carolina Hurricanes,CAR
+121,1,12,New Jersey Devils,Carolina Hurricanes,2022020590307,2022020590,Giveaway,307,GIVEAWAY,Giveaway by Erik Haula,2023-01-01T21:07:00Z,2,03:05,16:55,0,0,1.0,New Jersey Devils,NJD
+122,1,12,New Jersey Devils,Carolina Hurricanes,2022020590179,2022020590,Stoppage,179,STOP,Puck Frozen,2023-01-01T21:07:24Z,2,03:30,16:30,0,0,,,
+123,1,12,New Jersey Devils,Carolina Hurricanes,2022020590308,2022020590,Faceoff,308,FACEOFF,Yegor Sharangovich faceoff won against Derek Stepan,2023-01-01T21:07:58Z,2,03:30,16:30,0,0,1.0,New Jersey Devils,NJD
+124,1,12,New Jersey Devils,Carolina Hurricanes,202202059049,2022020590,Missed Shot,49,MISSED_SHOT,Fabian Zetterlund Goalpost Antti Raanta,2023-01-01T21:08:23Z,2,03:55,16:05,0,0,1.0,New Jersey Devils,NJD
+125,1,12,New Jersey Devils,Carolina Hurricanes,2022020590180,2022020590,Shot,180,SHOT,Yegor Sharangovich Snap Shot saved by Antti Raanta,2023-01-01T21:08:37Z,2,04:09,15:51,0,0,1.0,New Jersey Devils,NJD
+126,1,12,New Jersey Devils,Carolina Hurricanes,202202059050,2022020590,Stoppage,50,STOP,Goalie Stopped,2023-01-01T21:08:39Z,2,04:11,15:49,0,0,,,
+127,1,12,New Jersey Devils,Carolina Hurricanes,2022020590309,2022020590,Faceoff,309,FACEOFF,Michael McLeod faceoff won against Jordan Staal,2023-01-01T21:09:05Z,2,04:11,15:49,0,0,1.0,New Jersey Devils,NJD
+128,1,12,New Jersey Devils,Carolina Hurricanes,2022020590503,2022020590,Shot,503,SHOT,Dougie Hamilton Slap Shot saved by Antti Raanta,2023-01-01T21:09:06Z,2,04:12,15:48,0,0,1.0,New Jersey Devils,NJD
+129,1,12,New Jersey Devils,Carolina Hurricanes,2022020590181,2022020590,Blocked Shot,181,BLOCKED_SHOT,Miles Wood shot blocked shot by Brett Pesce,2023-01-01T21:09:10Z,2,04:16,15:44,0,0,12.0,Carolina Hurricanes,CAR
+130,1,12,New Jersey Devils,Carolina Hurricanes,2022020590310,2022020590,Takeaway,310,TAKEAWAY,Takeaway by Michael McLeod,2023-01-01T21:09:44Z,2,04:50,15:10,0,0,1.0,New Jersey Devils,NJD
+131,1,12,New Jersey Devils,Carolina Hurricanes,2022020590253,2022020590,Shot,253,SHOT,Jack Hughes Wrist Shot saved by Antti Raanta,2023-01-01T21:10:28Z,2,05:34,14:26,0,0,1.0,New Jersey Devils,NJD
+132,1,12,New Jersey Devils,Carolina Hurricanes,2022020590254,2022020590,Shot,254,SHOT,Sebastian Aho Wrist Shot saved by Mackenzie Blackwood,2023-01-01T21:10:50Z,2,05:56,14:04,0,0,12.0,Carolina Hurricanes,CAR
+133,1,12,New Jersey Devils,Carolina Hurricanes,2022020590182,2022020590,Stoppage,182,STOP,Goalie Stopped,2023-01-01T21:10:53Z,2,05:58,14:02,0,0,,,
+134,1,12,New Jersey Devils,Carolina Hurricanes,2022020590311,2022020590,Faceoff,311,FACEOFF,Nico Hischier faceoff won against Martin Necas,2023-01-01T21:11:25Z,2,05:58,14:02,0,0,1.0,New Jersey Devils,NJD
+135,1,12,New Jersey Devils,Carolina Hurricanes,2022020590255,2022020590,Shot,255,SHOT,Brett Pesce Wrist Shot saved by Mackenzie Blackwood,2023-01-01T21:11:46Z,2,06:19,13:41,0,0,12.0,Carolina Hurricanes,CAR
+136,1,12,New Jersey Devils,Carolina Hurricanes,2022020590183,2022020590,Stoppage,183,STOP,Icing,2023-01-01T21:12:08Z,2,06:40,13:20,0,0,,,
+137,1,12,New Jersey Devils,Carolina Hurricanes,2022020590312,2022020590,Faceoff,312,FACEOFF,Erik Haula faceoff won against Paul Stastny,2023-01-01T21:12:36Z,2,06:40,13:20,0,0,1.0,New Jersey Devils,NJD
+138,1,12,New Jersey Devils,Carolina Hurricanes,2022020590256,2022020590,Shot,256,SHOT,Martin Necas Wrist Shot saved by Mackenzie Blackwood,2023-01-01T21:12:51Z,2,06:55,13:05,0,0,12.0,Carolina Hurricanes,CAR
+139,1,12,New Jersey Devils,Carolina Hurricanes,2022020590313,2022020590,Giveaway,313,GIVEAWAY,Giveaway by Jack Hughes,2023-01-01T21:13:03Z,2,07:07,12:53,0,0,1.0,New Jersey Devils,NJD
+140,1,12,New Jersey Devils,Carolina Hurricanes,2022020590184,2022020590,Stoppage,184,STOP,Offside,2023-01-01T21:13:06Z,2,07:11,12:49,0,0,,,
+141,1,12,New Jersey Devils,Carolina Hurricanes,2022020590314,2022020590,Faceoff,314,FACEOFF,Jesperi Kotkaniemi faceoff won against Jesper Boqvist,2023-01-01T21:15:15Z,2,07:11,12:49,0,0,12.0,Carolina Hurricanes,CAR
+142,1,12,New Jersey Devils,Carolina Hurricanes,2022020590315,2022020590,Giveaway,315,GIVEAWAY,Giveaway by Yegor Sharangovich,2023-01-01T21:15:34Z,2,07:30,12:30,0,0,1.0,New Jersey Devils,NJD
+143,1,12,New Jersey Devils,Carolina Hurricanes,2022020590257,2022020590,Goal,257,GOAL,"Derek Stepan (3) Backhand, assists: Stefan Noesen (11), Jesperi Kotkaniemi (7)",2023-01-01T21:16:04Z,2,08:00,12:00,0,1,12.0,Carolina Hurricanes,CAR
+144,1,12,New Jersey Devils,Carolina Hurricanes,2022020590316,2022020590,Faceoff,316,FACEOFF,Jordan Staal faceoff won against Michael McLeod,2023-01-01T21:16:43Z,2,08:00,12:00,0,1,12.0,Carolina Hurricanes,CAR
+145,1,12,New Jersey Devils,Carolina Hurricanes,2022020590185,2022020590,Shot,185,SHOT,Brent Burns Snap Shot saved by Mackenzie Blackwood,2023-01-01T21:16:52Z,2,08:09,11:51,0,1,12.0,Carolina Hurricanes,CAR
+146,1,12,New Jersey Devils,Carolina Hurricanes,2022020590186,2022020590,Stoppage,186,STOP,Goalie Stopped,2023-01-01T21:16:53Z,2,08:10,11:50,0,1,,,
+147,1,12,New Jersey Devils,Carolina Hurricanes,2022020590317,2022020590,Faceoff,317,FACEOFF,Jordan Staal faceoff won against Michael McLeod,2023-01-01T21:17:21Z,2,08:10,11:50,0,1,12.0,Carolina Hurricanes,CAR
+148,1,12,New Jersey Devils,Carolina Hurricanes,2022020590258,2022020590,Shot,258,SHOT,Brent Burns Wrist Shot saved by Mackenzie Blackwood,2023-01-01T21:17:23Z,2,08:12,11:48,0,1,12.0,Carolina Hurricanes,CAR
+149,1,12,New Jersey Devils,Carolina Hurricanes,2022020590187,2022020590,Stoppage,187,STOP,Net Dislodged by Goaltender,2023-01-01T21:17:53Z,2,08:43,11:17,0,1,,,
+150,1,12,New Jersey Devils,Carolina Hurricanes,2022020590318,2022020590,Faceoff,318,FACEOFF,Erik Haula faceoff won against Sebastian Aho,2023-01-01T21:18:34Z,2,08:43,11:17,0,1,1.0,New Jersey Devils,NJD
+151,1,12,New Jersey Devils,Carolina Hurricanes,2022020590504,2022020590,Shot,504,SHOT,Dawson Mercer Snap Shot saved by Antti Raanta,2023-01-01T21:18:41Z,2,08:50,11:10,0,1,1.0,New Jersey Devils,NJD
+152,1,12,New Jersey Devils,Carolina Hurricanes,2022020590319,2022020590,Giveaway,319,GIVEAWAY,Giveaway by Ryan Graves,2023-01-01T21:19:02Z,2,09:11,10:49,0,1,1.0,New Jersey Devils,NJD
+153,1,12,New Jersey Devils,Carolina Hurricanes,2022020590188,2022020590,Missed Shot,188,MISSED_SHOT,Sebastian Aho Over Net Mackenzie Blackwood,2023-01-01T21:19:05Z,2,09:14,10:46,0,1,12.0,Carolina Hurricanes,CAR
+154,1,12,New Jersey Devils,Carolina Hurricanes,2022020590320,2022020590,Giveaway,320,GIVEAWAY,Giveaway by Seth Jarvis,2023-01-01T21:19:10Z,2,09:19,10:41,0,1,12.0,Carolina Hurricanes,CAR
+155,1,12,New Jersey Devils,Carolina Hurricanes,2022020590259,2022020590,Stoppage,259,STOP,Puck in Crowd,2023-01-01T21:19:30Z,2,09:38,10:22,0,1,,,
+156,1,12,New Jersey Devils,Carolina Hurricanes,2022020590321,2022020590,Faceoff,321,FACEOFF,Paul Stastny faceoff won against Nico Hischier,2023-01-01T21:19:49Z,2,09:38,10:22,0,1,12.0,Carolina Hurricanes,CAR
+157,1,12,New Jersey Devils,Carolina Hurricanes,2022020590260,2022020590,Shot,260,SHOT,Nico Hischier Wrist Shot saved by Antti Raanta,2023-01-01T21:19:58Z,2,09:47,10:13,0,1,1.0,New Jersey Devils,NJD
+158,1,12,New Jersey Devils,Carolina Hurricanes,2022020590189,2022020590,Missed Shot,189,MISSED_SHOT,Nico Hischier Wide of Net Antti Raanta,2023-01-01T21:20:05Z,2,09:54,10:06,0,1,1.0,New Jersey Devils,NJD
+159,1,12,New Jersey Devils,Carolina Hurricanes,2022020590505,2022020590,Missed Shot,505,MISSED_SHOT,Jaccob Slavin Wide of Net Mackenzie Blackwood,2023-01-01T21:20:15Z,2,10:04,09:56,0,1,12.0,Carolina Hurricanes,CAR
+160,1,12,New Jersey Devils,Carolina Hurricanes,2022020590261,2022020590,Shot,261,SHOT,Martin Necas Snap Shot saved by Mackenzie Blackwood,2023-01-01T21:20:19Z,2,10:08,09:52,0,1,12.0,Carolina Hurricanes,CAR
+161,1,12,New Jersey Devils,Carolina Hurricanes,2022020590190,2022020590,Shot,190,SHOT,Andrei Svechnikov Backhand saved by Mackenzie Blackwood,2023-01-01T21:20:23Z,2,10:12,09:48,0,1,12.0,Carolina Hurricanes,CAR
+162,1,12,New Jersey Devils,Carolina Hurricanes,2022020590191,2022020590,Shot,191,SHOT,Andrei Svechnikov Wrap-around saved by Mackenzie Blackwood,2023-01-01T21:20:24Z,2,10:13,09:47,0,1,12.0,Carolina Hurricanes,CAR
+163,1,12,New Jersey Devils,Carolina Hurricanes,2022020590262,2022020590,Stoppage,262,STOP,Icing,2023-01-01T21:20:30Z,2,10:20,09:40,0,1,,,
+164,1,12,New Jersey Devils,Carolina Hurricanes,2022020590322,2022020590,Faceoff,322,FACEOFF,Nico Hischier faceoff won against Derek Stepan,2023-01-01T21:21:10Z,2,10:20,09:40,0,1,1.0,New Jersey Devils,NJD
+165,1,12,New Jersey Devils,Carolina Hurricanes,2022020590323,2022020590,Hit,323,HIT,Stefan Noesen hit Yegor Sharangovich,2023-01-01T21:21:40Z,2,10:50,09:10,0,1,12.0,Carolina Hurricanes,CAR
+166,1,12,New Jersey Devils,Carolina Hurricanes,2022020590325,2022020590,Hit,325,HIT,Yegor Sharangovich hit Calvin de Haan,2023-01-01T21:21:50Z,2,11:00,09:00,0,1,1.0,New Jersey Devils,NJD
+167,1,12,New Jersey Devils,Carolina Hurricanes,2022020590263,2022020590,Missed Shot,263,MISSED_SHOT,Yegor Sharangovich Wide of Net Antti Raanta,2023-01-01T21:21:58Z,2,11:08,08:52,0,1,1.0,New Jersey Devils,NJD
+168,1,12,New Jersey Devils,Carolina Hurricanes,2022020590324,2022020590,Takeaway,324,TAKEAWAY,Takeaway by Yegor Sharangovich,2023-01-01T21:21:58Z,2,11:08,08:52,0,1,1.0,New Jersey Devils,NJD
+169,1,12,New Jersey Devils,Carolina Hurricanes,2022020590264,2022020590,Blocked Shot,264,BLOCKED_SHOT,Jordan Staal shot blocked shot by Ryan Graves,2023-01-01T21:22:53Z,2,12:03,07:57,0,1,1.0,New Jersey Devils,NJD
+170,1,12,New Jersey Devils,Carolina Hurricanes,2022020590192,2022020590,Blocked Shot,192,BLOCKED_SHOT,Brady Skjei shot blocked shot by Damon Severson,2023-01-01T21:23:00Z,2,12:10,07:50,0,1,1.0,New Jersey Devils,NJD
+171,1,12,New Jersey Devils,Carolina Hurricanes,2022020590265,2022020590,Shot,265,SHOT,Tyce Thompson Wrist Shot saved by Antti Raanta,2023-01-01T21:23:17Z,2,12:27,07:33,0,1,1.0,New Jersey Devils,NJD
+172,1,12,New Jersey Devils,Carolina Hurricanes,2022020590193,2022020590,Shot,193,SHOT,Brent Burns Slap Shot saved by Mackenzie Blackwood,2023-01-01T21:23:45Z,2,12:55,07:05,0,1,12.0,Carolina Hurricanes,CAR
+173,1,12,New Jersey Devils,Carolina Hurricanes,2022020590326,2022020590,Hit,326,HIT,Jonas Siegenthaler hit Sebastian Aho,2023-01-01T21:24:03Z,2,13:13,06:47,0,1,1.0,New Jersey Devils,NJD
+174,1,12,New Jersey Devils,Carolina Hurricanes,2022020590194,2022020590,Stoppage,194,STOP,Icing,2023-01-01T21:24:09Z,2,13:19,06:41,0,1,,,
+175,1,12,New Jersey Devils,Carolina Hurricanes,2022020590327,2022020590,Faceoff,327,FACEOFF,Paul Stastny faceoff won against Dawson Mercer,2023-01-01T21:24:40Z,2,13:19,06:41,0,1,12.0,Carolina Hurricanes,CAR
+176,1,12,New Jersey Devils,Carolina Hurricanes,2022020590266,2022020590,Shot,266,SHOT,Andrei Svechnikov Slap Shot saved by Mackenzie Blackwood,2023-01-01T21:24:55Z,2,13:34,06:26,0,1,12.0,Carolina Hurricanes,CAR
+177,1,12,New Jersey Devils,Carolina Hurricanes,2022020590195,2022020590,Stoppage,195,STOP,Goalie Stopped,2023-01-01T21:24:56Z,2,13:36,06:24,0,1,,,
+178,1,12,New Jersey Devils,Carolina Hurricanes,2022020590328,2022020590,Faceoff,328,FACEOFF,Paul Stastny faceoff won against Nico Hischier,2023-01-01T21:27:14Z,2,13:36,06:24,0,1,12.0,Carolina Hurricanes,CAR
+179,1,12,New Jersey Devils,Carolina Hurricanes,2022020590329,2022020590,Giveaway,329,GIVEAWAY,Giveaway by Brett Pesce,2023-01-01T21:27:23Z,2,13:45,06:15,0,1,12.0,Carolina Hurricanes,CAR
+180,1,12,New Jersey Devils,Carolina Hurricanes,2022020590267,2022020590,Missed Shot,267,MISSED_SHOT,Brady Skjei Wide of Net Mackenzie Blackwood,2023-01-01T21:27:33Z,2,13:55,06:05,0,1,12.0,Carolina Hurricanes,CAR
+181,1,12,New Jersey Devils,Carolina Hurricanes,2022020590268,2022020590,Shot,268,SHOT,Yegor Sharangovich Wrist Shot saved by Antti Raanta,2023-01-01T21:27:55Z,2,14:17,05:43,0,1,1.0,New Jersey Devils,NJD
+182,1,12,New Jersey Devils,Carolina Hurricanes,2022020590196,2022020590,Shot,196,SHOT,Nico Hischier Deflected saved by Antti Raanta,2023-01-01T21:27:58Z,2,14:20,05:40,0,1,1.0,New Jersey Devils,NJD
+183,1,12,New Jersey Devils,Carolina Hurricanes,2022020590330,2022020590,Giveaway,330,GIVEAWAY,Giveaway by Jesperi Kotkaniemi,2023-01-01T21:28:51Z,2,15:13,04:47,0,1,12.0,Carolina Hurricanes,CAR
+184,1,12,New Jersey Devils,Carolina Hurricanes,2022020590331,2022020590,Giveaway,331,GIVEAWAY,Giveaway by Jesper Boqvist,2023-01-01T21:28:54Z,2,15:16,04:44,0,1,1.0,New Jersey Devils,NJD
+185,1,12,New Jersey Devils,Carolina Hurricanes,2022020590269,2022020590,Shot,269,SHOT,Derek Stepan Snap Shot saved by Mackenzie Blackwood,2023-01-01T21:29:03Z,2,15:25,04:35,0,1,12.0,Carolina Hurricanes,CAR
+186,1,12,New Jersey Devils,Carolina Hurricanes,2022020590197,2022020590,Blocked Shot,197,BLOCKED_SHOT,Brent Burns shot blocked shot by Brendan Smith,2023-01-01T21:29:13Z,2,15:35,04:25,0,1,1.0,New Jersey Devils,NJD
+187,1,12,New Jersey Devils,Carolina Hurricanes,2022020590270,2022020590,Goal,270,GOAL,"Jack Hughes (21) Backhand, assists: Dawson Mercer (13), Erik Haula (14)",2023-01-01T21:29:55Z,2,16:18,03:42,1,1,1.0,New Jersey Devils,NJD
+188,1,12,New Jersey Devils,Carolina Hurricanes,2022020590332,2022020590,Faceoff,332,FACEOFF,Erik Haula faceoff won against Sebastian Aho,2023-01-01T21:30:34Z,2,16:18,03:42,1,1,1.0,New Jersey Devils,NJD
+189,1,12,New Jersey Devils,Carolina Hurricanes,2022020590198,2022020590,Stoppage,198,STOP,Icing,2023-01-01T21:30:52Z,2,16:36,03:24,1,1,,,
+190,1,12,New Jersey Devils,Carolina Hurricanes,2022020590333,2022020590,Faceoff,333,FACEOFF,Sebastian Aho faceoff won against Erik Haula,2023-01-01T21:31:18Z,2,16:36,03:24,1,1,12.0,Carolina Hurricanes,CAR
+191,1,12,New Jersey Devils,Carolina Hurricanes,2022020590199,2022020590,Shot,199,SHOT,Sebastian Aho Backhand saved by Mackenzie Blackwood,2023-01-01T21:31:24Z,2,16:42,03:18,1,1,12.0,Carolina Hurricanes,CAR
+192,1,12,New Jersey Devils,Carolina Hurricanes,2022020590271,2022020590,Stoppage,271,STOP,Icing,2023-01-01T21:31:31Z,2,16:49,03:11,1,1,,,
+193,1,12,New Jersey Devils,Carolina Hurricanes,2022020590334,2022020590,Faceoff,334,FACEOFF,Sebastian Aho faceoff won against Erik Haula,2023-01-01T21:31:57Z,2,16:49,03:11,1,1,12.0,Carolina Hurricanes,CAR
+194,1,12,New Jersey Devils,Carolina Hurricanes,2022020590272,2022020590,Shot,272,SHOT,Dawson Mercer Wrist Shot saved by Antti Raanta,2023-01-01T21:32:18Z,2,17:10,02:50,1,1,1.0,New Jersey Devils,NJD
+195,1,12,New Jersey Devils,Carolina Hurricanes,2022020590335,2022020590,Hit,335,HIT,Erik Haula hit Seth Jarvis,2023-01-01T21:32:29Z,2,17:21,02:39,1,1,1.0,New Jersey Devils,NJD
+196,1,12,New Jersey Devils,Carolina Hurricanes,2022020590273,2022020590,Missed Shot,273,MISSED_SHOT,Nico Hischier Wide of Net Antti Raanta,2023-01-01T21:32:40Z,2,17:32,02:28,1,1,1.0,New Jersey Devils,NJD
+197,1,12,New Jersey Devils,Carolina Hurricanes,2022020590336,2022020590,Takeaway,336,TAKEAWAY,Takeaway by Nico Hischier,2023-01-01T21:32:40Z,2,17:32,02:28,1,1,1.0,New Jersey Devils,NJD
+198,1,12,New Jersey Devils,Carolina Hurricanes,2022020590669,2022020590,Penalty,669,PENALTY,Brett Pesce Holding against Nico Hischier,2023-01-01T21:32:42Z,2,17:34,02:26,1,1,12.0,Carolina Hurricanes,CAR
+199,1,12,New Jersey Devils,Carolina Hurricanes,2022020590337,2022020590,Faceoff,337,FACEOFF,Nico Hischier faceoff won against Jordan Staal,2023-01-01T21:35:08Z,2,17:34,02:26,1,1,1.0,New Jersey Devils,NJD
+200,1,12,New Jersey Devils,Carolina Hurricanes,2022020590340,2022020590,Takeaway,340,TAKEAWAY,Takeaway by Sebastian Aho,2023-01-01T21:35:45Z,2,18:11,01:49,1,1,12.0,Carolina Hurricanes,CAR
+201,1,12,New Jersey Devils,Carolina Hurricanes,2022020590339,2022020590,Giveaway,339,GIVEAWAY,Giveaway by Mackenzie Blackwood,2023-01-01T21:35:47Z,2,18:13,01:47,1,1,1.0,New Jersey Devils,NJD
+202,1,12,New Jersey Devils,Carolina Hurricanes,2022020590274,2022020590,Goal,274,GOAL,"Sebastian Aho (12) Wrist Shot, assists: none",2023-01-01T21:35:48Z,2,18:14,01:46,1,2,12.0,Carolina Hurricanes,CAR
+203,1,12,New Jersey Devils,Carolina Hurricanes,2022020590341,2022020590,Faceoff,341,FACEOFF,Sebastian Aho faceoff won against Yegor Sharangovich,2023-01-01T21:36:48Z,2,18:14,01:46,1,2,12.0,Carolina Hurricanes,CAR
+204,1,12,New Jersey Devils,Carolina Hurricanes,2022020590342,2022020590,Giveaway,342,GIVEAWAY,Giveaway by Yegor Sharangovich,2023-01-01T21:37:24Z,2,18:50,01:10,1,2,1.0,New Jersey Devils,NJD
+205,1,12,New Jersey Devils,Carolina Hurricanes,2022020590200,2022020590,Shot,200,SHOT,Jalen Chatfield Snap Shot saved by Mackenzie Blackwood,2023-01-01T21:37:26Z,2,18:52,01:08,1,2,12.0,Carolina Hurricanes,CAR
+206,1,12,New Jersey Devils,Carolina Hurricanes,2022020590275,2022020590,Stoppage,275,STOP,Offside,2023-01-01T21:37:41Z,2,19:07,00:53,1,2,,,
+207,1,12,New Jersey Devils,Carolina Hurricanes,2022020590343,2022020590,Faceoff,343,FACEOFF,Nico Hischier faceoff won against Jordan Martinook,2023-01-01T21:38:15Z,2,19:07,00:53,1,2,1.0,New Jersey Devils,NJD
+208,1,12,New Jersey Devils,Carolina Hurricanes,2022020590344,2022020590,Giveaway,344,GIVEAWAY,Giveaway by Jack Hughes,2023-01-01T21:38:26Z,2,19:18,00:42,1,2,1.0,New Jersey Devils,NJD
+209,1,12,New Jersey Devils,Carolina Hurricanes,2022020590276,2022020590,Shot,276,SHOT,Jordan Staal Wrist Shot saved by Mackenzie Blackwood,2023-01-01T21:38:29Z,2,19:21,00:39,1,2,12.0,Carolina Hurricanes,CAR
+210,1,12,New Jersey Devils,Carolina Hurricanes,2022020590551,2022020590,Stoppage,551,STOP,Goalie Stopped,2023-01-01T21:38:31Z,2,19:22,00:38,1,2,,,
+211,1,12,New Jersey Devils,Carolina Hurricanes,2022020590345,2022020590,Faceoff,345,FACEOFF,Martin Necas faceoff won against Nico Hischier,2023-01-01T21:39:06Z,2,19:22,00:38,1,2,12.0,Carolina Hurricanes,CAR
+212,1,12,New Jersey Devils,Carolina Hurricanes,2022020590277,2022020590,Blocked Shot,277,BLOCKED_SHOT,Andrei Svechnikov shot blocked shot by Jonas Siegenthaler,2023-01-01T21:39:32Z,2,19:49,00:11,1,2,1.0,New Jersey Devils,NJD
+213,1,12,New Jersey Devils,Carolina Hurricanes,2022020590552,2022020590,Shot,552,SHOT,Dougie Hamilton Snap Shot saved by Antti Raanta,2023-01-01T21:39:37Z,2,19:54,00:06,1,2,1.0,New Jersey Devils,NJD
+214,1,12,New Jersey Devils,Carolina Hurricanes,2022020590278,2022020590,Period End,278,PERIOD_END,End of 2nd Period,2023-01-01T21:39:43Z,2,20:00,00:00,1,2,,,
+215,1,12,New Jersey Devils,Carolina Hurricanes,2022020590281,2022020590,Period Official,281,PERIOD_OFFICIAL,Period Official,2023-01-01T21:52:10Z,2,20:00,00:00,1,2,,,
+216,1,12,New Jersey Devils,Carolina Hurricanes,2022020590282,2022020590,Period Ready,282,PERIOD_READY,Period Ready,2023-01-01T21:58:03Z,3,00:00,20:00,1,2,,,
+217,1,12,New Jersey Devils,Carolina Hurricanes,2022020590346,2022020590,Period Start,346,PERIOD_START,Period Start,2023-01-01T21:58:35Z,3,00:00,20:00,1,2,,,
+218,1,12,New Jersey Devils,Carolina Hurricanes,2022020590347,2022020590,Faceoff,347,FACEOFF,Jordan Staal faceoff won against Michael McLeod,2023-01-01T21:58:35Z,3,00:00,20:00,1,2,12.0,Carolina Hurricanes,CAR
+219,1,12,New Jersey Devils,Carolina Hurricanes,2022020590348,2022020590,Giveaway,348,GIVEAWAY,Giveaway by Miles Wood,2023-01-01T21:58:49Z,3,00:14,19:46,1,2,1.0,New Jersey Devils,NJD
+220,1,12,New Jersey Devils,Carolina Hurricanes,2022020590553,2022020590,Missed Shot,553,MISSED_SHOT,Brent Burns Wide of Net Mackenzie Blackwood,2023-01-01T21:58:59Z,3,00:24,19:36,1,2,12.0,Carolina Hurricanes,CAR
+221,1,12,New Jersey Devils,Carolina Hurricanes,2022020590349,2022020590,Hit,349,HIT,Jordan Staal hit Michael McLeod,2023-01-01T21:59:12Z,3,00:37,19:23,1,2,12.0,Carolina Hurricanes,CAR
+222,1,12,New Jersey Devils,Carolina Hurricanes,2022020590692,2022020590,Penalty,692,PENALTY,Damon Severson Cross-checking against Jordan Martinook,2023-01-01T21:59:16Z,3,00:41,19:19,1,2,1.0,New Jersey Devils,NJD
+223,1,12,New Jersey Devils,Carolina Hurricanes,2022020590350,2022020590,Faceoff,350,FACEOFF,Sebastian Aho faceoff won against Erik Haula,2023-01-01T21:59:51Z,3,00:41,19:19,1,2,12.0,Carolina Hurricanes,CAR
+224,1,12,New Jersey Devils,Carolina Hurricanes,2022020590283,2022020590,Missed Shot,283,MISSED_SHOT,Martin Necas Wide of Net Mackenzie Blackwood,2023-01-01T21:59:55Z,3,00:45,19:15,1,2,12.0,Carolina Hurricanes,CAR
+225,1,12,New Jersey Devils,Carolina Hurricanes,2022020590554,2022020590,Shot,554,SHOT,Andrei Svechnikov Snap Shot saved by Mackenzie Blackwood,2023-01-01T22:00:08Z,3,00:58,19:02,1,2,12.0,Carolina Hurricanes,CAR
+226,1,12,New Jersey Devils,Carolina Hurricanes,2022020590284,2022020590,Shot,284,SHOT,Stefan Noesen Wrist Shot saved by Mackenzie Blackwood,2023-01-01T22:00:09Z,3,00:59,19:01,1,2,12.0,Carolina Hurricanes,CAR
+227,1,12,New Jersey Devils,Carolina Hurricanes,2022020590601,2022020590,Takeaway,601,TAKEAWAY,Takeaway by Ryan Graves,2023-01-01T22:01:04Z,3,01:54,18:06,1,2,1.0,New Jersey Devils,NJD
+228,1,12,New Jersey Devils,Carolina Hurricanes,2022020590602,2022020590,Giveaway,602,GIVEAWAY,Giveaway by Ryan Graves,2023-01-01T22:01:04Z,3,01:54,18:06,1,2,1.0,New Jersey Devils,NJD
+229,1,12,New Jersey Devils,Carolina Hurricanes,2022020590285,2022020590,Blocked Shot,285,BLOCKED_SHOT,Brett Pesce shot blocked shot by Michael McLeod,2023-01-01T22:01:13Z,3,02:03,17:57,1,2,1.0,New Jersey Devils,NJD
+230,1,12,New Jersey Devils,Carolina Hurricanes,2022020590286,2022020590,Shot,286,SHOT,Seth Jarvis Wrist Shot saved by Mackenzie Blackwood,2023-01-01T22:01:44Z,3,02:34,17:26,1,2,12.0,Carolina Hurricanes,CAR
+231,1,12,New Jersey Devils,Carolina Hurricanes,2022020590555,2022020590,Stoppage,555,STOP,Goalie Stopped,2023-01-01T22:01:46Z,3,02:36,17:24,1,2,,,
+232,1,12,New Jersey Devils,Carolina Hurricanes,2022020590603,2022020590,Faceoff,603,FACEOFF,Jordan Staal faceoff won against Michael McLeod,2023-01-01T22:02:20Z,3,02:36,17:24,1,2,12.0,Carolina Hurricanes,CAR
+233,1,12,New Jersey Devils,Carolina Hurricanes,2022020590556,2022020590,Blocked Shot,556,BLOCKED_SHOT,Brady Skjei shot blocked shot by Nico Hischier,2023-01-01T22:02:22Z,3,02:38,17:22,1,2,1.0,New Jersey Devils,NJD
+234,1,12,New Jersey Devils,Carolina Hurricanes,2022020590287,2022020590,Stoppage,287,STOP,Puck in Benches,2023-01-01T22:02:42Z,3,02:58,17:02,1,2,,,
+235,1,12,New Jersey Devils,Carolina Hurricanes,2022020590604,2022020590,Faceoff,604,FACEOFF,Sebastian Aho faceoff won against Jack Hughes,2023-01-01T22:03:08Z,3,02:58,17:02,1,2,12.0,Carolina Hurricanes,CAR
+236,1,12,New Jersey Devils,Carolina Hurricanes,2022020590288,2022020590,Missed Shot,288,MISSED_SHOT,Tomas Tatar Over Net Antti Raanta,2023-01-01T22:03:52Z,3,03:42,16:18,1,2,1.0,New Jersey Devils,NJD
+237,1,12,New Jersey Devils,Carolina Hurricanes,2022020590557,2022020590,Stoppage,557,STOP,Puck in Netting,2023-01-01T22:03:53Z,3,03:43,16:17,1,2,,,
+238,1,12,New Jersey Devils,Carolina Hurricanes,2022020590605,2022020590,Faceoff,605,FACEOFF,Nico Hischier faceoff won against Paul Stastny,2023-01-01T22:04:16Z,3,03:43,16:17,1,2,1.0,New Jersey Devils,NJD
+239,1,12,New Jersey Devils,Carolina Hurricanes,2022020590606,2022020590,Takeaway,606,TAKEAWAY,Takeaway by Jonas Siegenthaler,2023-01-01T22:04:49Z,3,04:16,15:44,1,2,1.0,New Jersey Devils,NJD
+240,1,12,New Jersey Devils,Carolina Hurricanes,2022020590289,2022020590,Missed Shot,289,MISSED_SHOT,Calvin de Haan Wide of Net Mackenzie Blackwood,2023-01-01T22:05:12Z,3,04:39,15:21,1,2,12.0,Carolina Hurricanes,CAR
+241,1,12,New Jersey Devils,Carolina Hurricanes,2022020590558,2022020590,Blocked Shot,558,BLOCKED_SHOT,Jalen Chatfield shot blocked shot by Ryan Graves,2023-01-01T22:05:16Z,3,04:43,15:17,1,2,1.0,New Jersey Devils,NJD
+242,1,12,New Jersey Devils,Carolina Hurricanes,2022020590607,2022020590,Hit,607,HIT,Ryan Graves hit Derek Stepan,2023-01-01T22:05:21Z,3,04:48,15:12,1,2,1.0,New Jersey Devils,NJD
+243,1,12,New Jersey Devils,Carolina Hurricanes,2022020590290,2022020590,Shot,290,SHOT,Derek Stepan Wrist Shot saved by Mackenzie Blackwood,2023-01-01T22:05:29Z,3,04:56,15:04,1,2,12.0,Carolina Hurricanes,CAR
+244,1,12,New Jersey Devils,Carolina Hurricanes,2022020590559,2022020590,Stoppage,559,STOP,Goalie Stopped,2023-01-01T22:05:30Z,3,04:58,15:02,1,2,,,
+245,1,12,New Jersey Devils,Carolina Hurricanes,2022020590608,2022020590,Giveaway,608,GIVEAWAY,Giveaway by Tyce Thompson,2023-01-01T22:05:30Z,3,04:58,15:02,1,2,1.0,New Jersey Devils,NJD
+246,1,12,New Jersey Devils,Carolina Hurricanes,2022020590609,2022020590,Faceoff,609,FACEOFF,Erik Haula faceoff won against Jordan Staal,2023-01-01T22:06:10Z,3,04:58,15:02,1,2,1.0,New Jersey Devils,NJD
+247,1,12,New Jersey Devils,Carolina Hurricanes,2022020590291,2022020590,Shot,291,SHOT,Jordan Staal Snap Shot saved by Mackenzie Blackwood,2023-01-01T22:06:36Z,3,05:24,14:36,1,2,12.0,Carolina Hurricanes,CAR
+248,1,12,New Jersey Devils,Carolina Hurricanes,2022020590612,2022020590,Hit,612,HIT,Dougie Hamilton hit Jordan Martinook,2023-01-01T22:06:45Z,3,05:33,14:27,1,2,1.0,New Jersey Devils,NJD
+249,1,12,New Jersey Devils,Carolina Hurricanes,2022020590614,2022020590,Giveaway,614,GIVEAWAY,Giveaway by Sebastian Aho,2023-01-01T22:07:19Z,3,06:07,13:53,1,2,12.0,Carolina Hurricanes,CAR
+250,1,12,New Jersey Devils,Carolina Hurricanes,2022020590292,2022020590,Goal,292,GOAL,"Jesper Bratt (13) Wrist Shot, assists: Tomas Tatar (12)",2023-01-01T22:07:26Z,3,06:15,13:45,2,2,1.0,New Jersey Devils,NJD
+251,1,12,New Jersey Devils,Carolina Hurricanes,2022020590615,2022020590,Faceoff,615,FACEOFF,Michael McLeod faceoff won against Paul Stastny,2023-01-01T22:08:08Z,3,06:15,13:45,2,2,1.0,New Jersey Devils,NJD
+252,1,12,New Jersey Devils,Carolina Hurricanes,2022020590293,2022020590,Blocked Shot,293,BLOCKED_SHOT,Fabian Zetterlund shot blocked shot by Paul Stastny,2023-01-01T22:08:22Z,3,06:29,13:31,2,2,12.0,Carolina Hurricanes,CAR
+253,1,12,New Jersey Devils,Carolina Hurricanes,2022020590560,2022020590,Stoppage,560,STOP,Puck in Netting,2023-01-01T22:08:24Z,3,06:31,13:29,2,2,,,
+254,1,12,New Jersey Devils,Carolina Hurricanes,2022020590616,2022020590,Faceoff,616,FACEOFF,Nico Hischier faceoff won against Paul Stastny,2023-01-01T22:10:37Z,3,06:31,13:29,2,2,1.0,New Jersey Devils,NJD
+255,1,12,New Jersey Devils,Carolina Hurricanes,2022020590561,2022020590,Shot,561,SHOT,Ryan Graves Snap Shot saved by Antti Raanta,2023-01-01T22:11:02Z,3,06:56,13:04,2,2,1.0,New Jersey Devils,NJD
+256,1,12,New Jersey Devils,Carolina Hurricanes,2022020590562,2022020590,Stoppage,562,STOP,Goalie Stopped,2023-01-01T22:11:05Z,3,06:59,13:01,2,2,,,
+257,1,12,New Jersey Devils,Carolina Hurricanes,2022020590617,2022020590,Faceoff,617,FACEOFF,Jordan Staal faceoff won against Erik Haula,2023-01-01T22:11:33Z,3,06:59,13:01,2,2,12.0,Carolina Hurricanes,CAR
+258,1,12,New Jersey Devils,Carolina Hurricanes,2022020590563,2022020590,Shot,563,SHOT,Brady Skjei Wrist Shot saved by Mackenzie Blackwood,2023-01-01T22:11:47Z,3,07:13,12:47,2,2,12.0,Carolina Hurricanes,CAR
+259,1,12,New Jersey Devils,Carolina Hurricanes,2022020590508,2022020590,Shot,508,SHOT,Jesper Fast Wrist Shot saved by Mackenzie Blackwood,2023-01-01T22:11:49Z,3,07:15,12:45,2,2,12.0,Carolina Hurricanes,CAR
+260,1,12,New Jersey Devils,Carolina Hurricanes,2022020590564,2022020590,Stoppage,564,STOP,Offside,2023-01-01T22:12:13Z,3,07:38,12:22,2,2,,,
+261,1,12,New Jersey Devils,Carolina Hurricanes,2022020590618,2022020590,Faceoff,618,FACEOFF,Jesperi Kotkaniemi faceoff won against Michael McLeod,2023-01-01T22:12:39Z,3,07:38,12:22,2,2,12.0,Carolina Hurricanes,CAR
+262,1,12,New Jersey Devils,Carolina Hurricanes,2022020590565,2022020590,Missed Shot,565,MISSED_SHOT,Calvin de Haan Wide of Net Mackenzie Blackwood,2023-01-01T22:12:53Z,3,07:52,12:08,2,2,12.0,Carolina Hurricanes,CAR
+263,1,12,New Jersey Devils,Carolina Hurricanes,2022020590295,2022020590,Goal,295,GOAL,"Derek Stepan (4) Wrist Shot, assists: Stefan Noesen (12), Calvin de Haan (6)",2023-01-01T22:13:05Z,3,08:04,11:56,2,3,12.0,Carolina Hurricanes,CAR
+264,1,12,New Jersey Devils,Carolina Hurricanes,2022020590619,2022020590,Faceoff,619,FACEOFF,Nico Hischier faceoff won against Sebastian Aho,2023-01-01T22:13:50Z,3,08:04,11:56,2,3,1.0,New Jersey Devils,NJD
+265,1,12,New Jersey Devils,Carolina Hurricanes,2022020590296,2022020590,Goal,296,GOAL,"Nico Hischier (16) Wrap-around, assists: Jesper Bratt (23), Tomas Tatar (13)",2023-01-01T22:14:24Z,3,08:38,11:22,3,3,1.0,New Jersey Devils,NJD
+266,1,12,New Jersey Devils,Carolina Hurricanes,2022020590620,2022020590,Faceoff,620,FACEOFF,Paul Stastny faceoff won against Erik Haula,2023-01-01T22:15:07Z,3,08:38,11:22,3,3,12.0,Carolina Hurricanes,CAR
+267,1,12,New Jersey Devils,Carolina Hurricanes,2022020590566,2022020590,Stoppage,566,STOP,Icing,2023-01-01T22:15:16Z,3,08:47,11:13,3,3,,,
+268,1,12,New Jersey Devils,Carolina Hurricanes,2022020590621,2022020590,Faceoff,621,FACEOFF,Erik Haula faceoff won against Paul Stastny,2023-01-01T22:16:11Z,3,08:47,11:13,3,3,1.0,New Jersey Devils,NJD
+269,1,12,New Jersey Devils,Carolina Hurricanes,2022020590567,2022020590,Stoppage,567,STOP,Puck Frozen,2023-01-01T22:16:31Z,3,09:07,10:53,3,3,,,
+270,1,12,New Jersey Devils,Carolina Hurricanes,2022020590622,2022020590,Faceoff,622,FACEOFF,Nico Hischier faceoff won against Jordan Staal,2023-01-01T22:17:07Z,3,09:07,10:53,3,3,1.0,New Jersey Devils,NJD
+271,1,12,New Jersey Devils,Carolina Hurricanes,2022020590568,2022020590,Stoppage,568,STOP,Icing,2023-01-01T22:17:14Z,3,09:14,10:46,3,3,,,
+272,1,12,New Jersey Devils,Carolina Hurricanes,2022020590623,2022020590,Faceoff,623,FACEOFF,Jordan Staal faceoff won against Nico Hischier,2023-01-01T22:17:37Z,3,09:14,10:46,3,3,12.0,Carolina Hurricanes,CAR
+273,1,12,New Jersey Devils,Carolina Hurricanes,2022020590297,2022020590,Blocked Shot,297,BLOCKED_SHOT,Kevin Bahl shot blocked shot by Brady Skjei,2023-01-01T22:17:43Z,3,09:20,10:40,3,3,12.0,Carolina Hurricanes,CAR
+274,1,12,New Jersey Devils,Carolina Hurricanes,2022020590624,2022020590,Hit,624,HIT,Brady Skjei hit Jesper Bratt,2023-01-01T22:17:59Z,3,09:36,10:24,3,3,12.0,Carolina Hurricanes,CAR
+275,1,12,New Jersey Devils,Carolina Hurricanes,2022020590625,2022020590,Giveaway,625,GIVEAWAY,Giveaway by Stefan Noesen,2023-01-01T22:18:59Z,3,10:36,09:24,3,3,12.0,Carolina Hurricanes,CAR
+276,1,12,New Jersey Devils,Carolina Hurricanes,2022020590569,2022020590,Stoppage,569,STOP,Icing,2023-01-01T22:19:02Z,3,10:39,09:21,3,3,,,
+277,1,12,New Jersey Devils,Carolina Hurricanes,2022020590626,2022020590,Faceoff,626,FACEOFF,Paul Stastny faceoff won against Michael McLeod,2023-01-01T22:19:32Z,3,10:39,09:21,3,3,12.0,Carolina Hurricanes,CAR
+278,1,12,New Jersey Devils,Carolina Hurricanes,2022020590298,2022020590,Missed Shot,298,MISSED_SHOT,Jaccob Slavin Wide of Net Mackenzie Blackwood,2023-01-01T22:19:35Z,3,10:42,09:18,3,3,12.0,Carolina Hurricanes,CAR
+279,1,12,New Jersey Devils,Carolina Hurricanes,2022020590627,2022020590,Giveaway,627,GIVEAWAY,Giveaway by Martin Necas,2023-01-01T22:19:43Z,3,10:50,09:10,3,3,12.0,Carolina Hurricanes,CAR
+280,1,12,New Jersey Devils,Carolina Hurricanes,2022020590299,2022020590,Shot,299,SHOT,Jaccob Slavin Snap Shot saved by Mackenzie Blackwood,2023-01-01T22:19:46Z,3,10:53,09:07,3,3,12.0,Carolina Hurricanes,CAR
+281,1,12,New Jersey Devils,Carolina Hurricanes,2022020590570,2022020590,Stoppage,570,STOP,Icing,2023-01-01T22:19:46Z,3,10:53,09:07,3,3,,,
+282,1,12,New Jersey Devils,Carolina Hurricanes,2022020590628,2022020590,Faceoff,628,FACEOFF,Paul Stastny faceoff won against Michael McLeod,2023-01-01T22:20:19Z,3,10:53,09:07,3,3,12.0,Carolina Hurricanes,CAR
+283,1,12,New Jersey Devils,Carolina Hurricanes,2022020590571,2022020590,Shot,571,SHOT,Michael McLeod Wrist Shot saved by Antti Raanta,2023-01-01T22:20:20Z,3,10:54,09:06,3,3,1.0,New Jersey Devils,NJD
+284,1,12,New Jersey Devils,Carolina Hurricanes,2022020590300,2022020590,Stoppage,300,STOP,Goalie Stopped,2023-01-01T22:20:31Z,3,11:05,08:55,3,3,,,
+285,1,12,New Jersey Devils,Carolina Hurricanes,2022020590629,2022020590,Faceoff,629,FACEOFF,Jordan Staal faceoff won against Erik Haula,2023-01-01T22:22:45Z,3,11:05,08:55,3,3,12.0,Carolina Hurricanes,CAR
+286,1,12,New Jersey Devils,Carolina Hurricanes,2022020590630,2022020590,Giveaway,630,GIVEAWAY,Giveaway by Dawson Mercer,2023-01-01T22:23:30Z,3,11:50,08:10,3,3,1.0,New Jersey Devils,NJD
+287,1,12,New Jersey Devils,Carolina Hurricanes,2022020590701,2022020590,Blocked Shot,701,BLOCKED_SHOT,Andrei Svechnikov shot blocked shot by Dougie Hamilton,2023-01-01T22:23:30Z,3,11:50,08:10,3,3,1.0,New Jersey Devils,NJD
+288,1,12,New Jersey Devils,Carolina Hurricanes,2022020590572,2022020590,Shot,572,SHOT,Brady Skjei Wrist Shot saved by Mackenzie Blackwood,2023-01-01T22:23:44Z,3,12:05,07:55,3,3,12.0,Carolina Hurricanes,CAR
+289,1,12,New Jersey Devils,Carolina Hurricanes,2022020590702,2022020590,Stoppage,702,STOP,Goalie Stopped,2023-01-01T22:23:44Z,3,12:05,07:55,3,3,,,
+290,1,12,New Jersey Devils,Carolina Hurricanes,2022020590631,2022020590,Faceoff,631,FACEOFF,Paul Stastny faceoff won against Nico Hischier,2023-01-01T22:24:15Z,3,12:05,07:55,3,3,12.0,Carolina Hurricanes,CAR
+291,1,12,New Jersey Devils,Carolina Hurricanes,2022020590703,2022020590,Blocked Shot,703,BLOCKED_SHOT,Brady Skjei shot blocked shot by Jonas Siegenthaler,2023-01-01T22:24:17Z,3,12:07,07:53,3,3,1.0,New Jersey Devils,NJD
+292,1,12,New Jersey Devils,Carolina Hurricanes,2022020590632,2022020590,Giveaway,632,GIVEAWAY,Giveaway by Nico Hischier,2023-01-01T22:24:28Z,3,12:18,07:42,3,3,1.0,New Jersey Devils,NJD
+293,1,12,New Jersey Devils,Carolina Hurricanes,2022020590636,2022020590,Hit,636,HIT,Andrei Svechnikov hit Jonas Siegenthaler,2023-01-01T22:24:33Z,3,12:23,07:37,3,3,12.0,Carolina Hurricanes,CAR
+294,1,12,New Jersey Devils,Carolina Hurricanes,2022020590704,2022020590,Missed Shot,704,MISSED_SHOT,Dougie Hamilton Goalpost Antti Raanta,2023-01-01T22:24:37Z,3,12:27,07:33,3,3,1.0,New Jersey Devils,NJD
+295,1,12,New Jersey Devils,Carolina Hurricanes,2022020590573,2022020590,Shot,573,SHOT,Dougie Hamilton Snap Shot saved by Antti Raanta,2023-01-01T22:24:45Z,3,12:35,07:25,3,3,1.0,New Jersey Devils,NJD
+296,1,12,New Jersey Devils,Carolina Hurricanes,2022020590574,2022020590,Stoppage,574,STOP,Goalie Stopped,2023-01-01T22:24:47Z,3,12:37,07:23,3,3,,,
+297,1,12,New Jersey Devils,Carolina Hurricanes,2022020590633,2022020590,Faceoff,633,FACEOFF,Jesperi Kotkaniemi faceoff won against Michael McLeod,2023-01-01T22:25:29Z,3,12:37,07:23,3,3,12.0,Carolina Hurricanes,CAR
+298,1,12,New Jersey Devils,Carolina Hurricanes,2022020590634,2022020590,Hit,634,HIT,Jesperi Kotkaniemi hit Michael McLeod,2023-01-01T22:25:58Z,3,13:06,06:54,3,3,12.0,Carolina Hurricanes,CAR
+299,1,12,New Jersey Devils,Carolina Hurricanes,2022020590575,2022020590,Shot,575,SHOT,Teuvo Teravainen Wrist Shot saved by Mackenzie Blackwood,2023-01-01T22:26:14Z,3,13:22,06:38,3,3,12.0,Carolina Hurricanes,CAR
+300,1,12,New Jersey Devils,Carolina Hurricanes,2022020590705,2022020590,Stoppage,705,STOP,Goalie Stopped,2023-01-01T22:26:16Z,3,13:24,06:36,3,3,,,
+301,1,12,New Jersey Devils,Carolina Hurricanes,2022020590635,2022020590,Faceoff,635,FACEOFF,Sebastian Aho faceoff won against Erik Haula,2023-01-01T22:26:41Z,3,13:24,06:36,3,3,12.0,Carolina Hurricanes,CAR
+302,1,12,New Jersey Devils,Carolina Hurricanes,2022020590843,2022020590,Penalty,843,PENALTY,Teuvo Teravainen Tripping against Jonas Siegenthaler,2023-01-01T22:26:49Z,3,13:32,06:28,3,3,12.0,Carolina Hurricanes,CAR
+303,1,12,New Jersey Devils,Carolina Hurricanes,2022020590847,2022020590,Penalty,847,PENALTY,Jonas Siegenthaler Embellishment,2023-01-01T22:26:49Z,3,13:32,06:28,3,3,1.0,New Jersey Devils,NJD
+304,1,12,New Jersey Devils,Carolina Hurricanes,2022020590637,2022020590,Faceoff,637,FACEOFF,Nico Hischier faceoff won against Sebastian Aho,2023-01-01T22:28:23Z,3,13:32,06:28,3,3,1.0,New Jersey Devils,NJD
+305,1,12,New Jersey Devils,Carolina Hurricanes,2022020590707,2022020590,Goal,707,GOAL,"Jesper Bratt (14) Wrist Shot, assists: Dougie Hamilton (23), Ryan Graves (7)",2023-01-01T22:28:39Z,3,13:48,06:12,4,3,1.0,New Jersey Devils,NJD
+306,1,12,New Jersey Devils,Carolina Hurricanes,2022020590638,2022020590,Faceoff,638,FACEOFF,Martin Necas faceoff won against Jack Hughes,2023-01-01T22:29:21Z,3,13:48,06:12,4,3,12.0,Carolina Hurricanes,CAR
+307,1,12,New Jersey Devils,Carolina Hurricanes,2022020590639,2022020590,Takeaway,639,TAKEAWAY,Takeaway by Jack Hughes,2023-01-01T22:29:39Z,3,14:06,05:54,4,3,1.0,New Jersey Devils,NJD
+308,1,12,New Jersey Devils,Carolina Hurricanes,2022020590903,2022020590,Penalty,903,PENALTY,Dawson Mercer High-sticking against Brett Pesce,2023-01-01T22:29:45Z,3,14:12,05:48,4,3,1.0,New Jersey Devils,NJD
+309,1,12,New Jersey Devils,Carolina Hurricanes,2022020590640,2022020590,Faceoff,640,FACEOFF,Nico Hischier faceoff won against Sebastian Aho,2023-01-01T22:31:56Z,3,14:12,05:48,4,3,1.0,New Jersey Devils,NJD
+310,1,12,New Jersey Devils,Carolina Hurricanes,2022020590908,2022020590,Penalty,908,PENALTY,Ryan Graves Delaying Game - Puck over glass,2023-01-01T22:32:02Z,3,14:18,05:42,4,3,1.0,New Jersey Devils,NJD
+311,1,12,New Jersey Devils,Carolina Hurricanes,2022020590641,2022020590,Faceoff,641,FACEOFF,Sebastian Aho faceoff won against Nico Hischier,2023-01-01T22:33:11Z,3,14:18,05:42,4,3,12.0,Carolina Hurricanes,CAR
+312,1,12,New Jersey Devils,Carolina Hurricanes,2022020590709,2022020590,Missed Shot,709,MISSED_SHOT,Sebastian Aho Wide of Net Mackenzie Blackwood,2023-01-01T22:33:13Z,3,14:20,05:40,4,3,12.0,Carolina Hurricanes,CAR
+313,1,12,New Jersey Devils,Carolina Hurricanes,2022020590710,2022020590,Shot,710,SHOT,Andrei Svechnikov Wrist Shot saved by Mackenzie Blackwood,2023-01-01T22:33:45Z,3,14:52,05:08,4,3,12.0,Carolina Hurricanes,CAR
+314,1,12,New Jersey Devils,Carolina Hurricanes,2022020590711,2022020590,Goal,711,GOAL,"Martin Necas (16) Wrist Shot, assists: Brent Burns (23), Sebastian Aho (18)",2023-01-01T22:34:25Z,3,15:32,04:28,4,4,12.0,Carolina Hurricanes,CAR
+315,1,12,New Jersey Devils,Carolina Hurricanes,2022020590642,2022020590,Faceoff,642,FACEOFF,Stefan Noesen faceoff won against Nico Hischier,2023-01-01T22:36:26Z,3,15:32,04:28,4,4,12.0,Carolina Hurricanes,CAR
+316,1,12,New Jersey Devils,Carolina Hurricanes,2022020590643,2022020590,Giveaway,643,GIVEAWAY,Giveaway by Sebastian Aho,2023-01-01T22:36:40Z,3,15:46,04:14,4,4,12.0,Carolina Hurricanes,CAR
+317,1,12,New Jersey Devils,Carolina Hurricanes,2022020590712,2022020590,Blocked Shot,712,BLOCKED_SHOT,Nico Hischier shot blocked shot by Brent Burns,2023-01-01T22:36:43Z,3,15:49,04:11,4,4,12.0,Carolina Hurricanes,CAR
+318,1,12,New Jersey Devils,Carolina Hurricanes,2022020590578,2022020590,Stoppage,578,STOP,Puck in Netting,2023-01-01T22:36:45Z,3,15:51,04:09,4,4,,,
+319,1,12,New Jersey Devils,Carolina Hurricanes,2022020590644,2022020590,Faceoff,644,FACEOFF,Paul Stastny faceoff won against Dawson Mercer,2023-01-01T22:37:10Z,3,15:51,04:09,4,4,12.0,Carolina Hurricanes,CAR
+320,1,12,New Jersey Devils,Carolina Hurricanes,2022020590713,2022020590,Blocked Shot,713,BLOCKED_SHOT,Brett Pesce shot blocked shot by Erik Haula,2023-01-01T22:37:47Z,3,16:28,03:32,4,4,1.0,New Jersey Devils,NJD
+321,1,12,New Jersey Devils,Carolina Hurricanes,2022020590579,2022020590,Missed Shot,579,MISSED_SHOT,Teuvo Teravainen Wide of Net Mackenzie Blackwood,2023-01-01T22:38:05Z,3,16:46,03:14,4,4,12.0,Carolina Hurricanes,CAR
+322,1,12,New Jersey Devils,Carolina Hurricanes,2022020590714,2022020590,Blocked Shot,714,BLOCKED_SHOT,Teuvo Teravainen shot blocked shot by Brendan Smith,2023-01-01T22:38:08Z,3,16:49,03:11,4,4,1.0,New Jersey Devils,NJD
+323,1,12,New Jersey Devils,Carolina Hurricanes,2022020590716,2022020590,Shot,716,SHOT,Seth Jarvis Wrist Shot saved by Mackenzie Blackwood,2023-01-01T22:38:13Z,3,16:54,03:06,4,4,12.0,Carolina Hurricanes,CAR
+324,1,12,New Jersey Devils,Carolina Hurricanes,2022020590580,2022020590,Blocked Shot,580,BLOCKED_SHOT,Brett Pesce shot blocked shot by Nico Hischier,2023-01-01T22:38:22Z,3,17:03,02:57,4,4,1.0,New Jersey Devils,NJD
+325,1,12,New Jersey Devils,Carolina Hurricanes,2022020590509,2022020590,Blocked Shot,509,BLOCKED_SHOT,Jesperi Kotkaniemi shot blocked shot by Damon Severson,2023-01-01T22:38:31Z,3,17:12,02:48,4,4,1.0,New Jersey Devils,NJD
+326,1,12,New Jersey Devils,Carolina Hurricanes,2022020590510,2022020590,Shot,510,SHOT,Seth Jarvis Snap Shot saved by Mackenzie Blackwood,2023-01-01T22:38:33Z,3,17:14,02:46,4,4,12.0,Carolina Hurricanes,CAR
+327,1,12,New Jersey Devils,Carolina Hurricanes,2022020590715,2022020590,Stoppage,715,STOP,Goalie Stopped,2023-01-01T22:38:36Z,3,17:16,02:44,4,4,,,
+328,1,12,New Jersey Devils,Carolina Hurricanes,2022020590645,2022020590,Faceoff,645,FACEOFF,Michael McLeod faceoff won against Jordan Staal,2023-01-01T22:39:05Z,3,17:16,02:44,4,4,1.0,New Jersey Devils,NJD
+329,1,12,New Jersey Devils,Carolina Hurricanes,2022020590646,2022020590,Hit,646,HIT,Jonas Siegenthaler hit Jesper Fast,2023-01-01T22:39:29Z,3,17:40,02:20,4,4,1.0,New Jersey Devils,NJD
+330,1,12,New Jersey Devils,Carolina Hurricanes,2022020590581,2022020590,Stoppage,581,STOP,Icing,2023-01-01T22:39:46Z,3,17:57,02:03,4,4,,,
+331,1,12,New Jersey Devils,Carolina Hurricanes,2022020590648,2022020590,Faceoff,648,FACEOFF,Paul Stastny faceoff won against Jack Hughes,2023-01-01T22:40:13Z,3,17:57,02:03,4,4,12.0,Carolina Hurricanes,CAR
+332,1,12,New Jersey Devils,Carolina Hurricanes,2022020590582,2022020590,Stoppage,582,STOP,Offside,2023-01-01T22:40:39Z,3,18:23,01:37,4,4,,,
+333,1,12,New Jersey Devils,Carolina Hurricanes,2022020590649,2022020590,Faceoff,649,FACEOFF,Sebastian Aho faceoff won against Erik Haula,2023-01-01T22:41:11Z,3,18:23,01:37,4,4,12.0,Carolina Hurricanes,CAR
+334,1,12,New Jersey Devils,Carolina Hurricanes,2022020590583,2022020590,Stoppage,583,STOP,Icing,2023-01-01T22:41:34Z,3,18:46,01:14,4,4,,,
+335,1,12,New Jersey Devils,Carolina Hurricanes,2022020590650,2022020590,Faceoff,650,FACEOFF,Nico Hischier faceoff won against Sebastian Aho,2023-01-01T22:42:19Z,3,18:46,01:14,4,4,1.0,New Jersey Devils,NJD
+336,1,12,New Jersey Devils,Carolina Hurricanes,2022020590717,2022020590,Shot,717,SHOT,Ryan Graves Snap Shot saved by Antti Raanta,2023-01-01T22:42:23Z,3,18:50,01:10,4,4,1.0,New Jersey Devils,NJD
+337,1,12,New Jersey Devils,Carolina Hurricanes,2022020590851,2022020590,Hit,851,HIT,Ryan Graves hit Seth Jarvis,2023-01-01T22:42:33Z,3,19:00,01:00,4,4,1.0,New Jersey Devils,NJD
+338,1,12,New Jersey Devils,Carolina Hurricanes,2022020590718,2022020590,Blocked Shot,718,BLOCKED_SHOT,Brent Burns shot blocked shot by Dawson Mercer,2023-01-01T22:43:05Z,3,19:32,00:28,4,4,1.0,New Jersey Devils,NJD
+339,1,12,New Jersey Devils,Carolina Hurricanes,2022020590719,2022020590,Period End,719,PERIOD_END,End of 3rd Period,2023-01-01T22:43:33Z,3,20:00,00:00,4,4,,,
+340,1,12,New Jersey Devils,Carolina Hurricanes,2022020590722,2022020590,Period Official,722,PERIOD_OFFICIAL,Period Official,2023-01-01T22:45:34Z,3,20:00,00:00,4,4,,,
+341,1,12,New Jersey Devils,Carolina Hurricanes,2022020590723,2022020590,Period Ready,723,PERIOD_READY,Period Ready,2023-01-01T22:45:37Z,4,00:00,05:00,4,4,,,
+342,1,12,New Jersey Devils,Carolina Hurricanes,2022020590852,2022020590,Period Start,852,PERIOD_START,Period Start,2023-01-01T22:45:55Z,4,00:00,05:00,4,4,,,
+343,1,12,New Jersey Devils,Carolina Hurricanes,2022020590853,2022020590,Faceoff,853,FACEOFF,Erik Haula faceoff won against Jordan Staal,2023-01-01T22:46:21Z,4,00:00,05:00,4,4,1.0,New Jersey Devils,NJD
+344,1,12,New Jersey Devils,Carolina Hurricanes,2022020590724,2022020590,Blocked Shot,724,BLOCKED_SHOT,Jack Hughes shot blocked shot by Jaccob Slavin,2023-01-01T22:46:55Z,4,00:34,04:26,4,4,12.0,Carolina Hurricanes,CAR
+345,1,12,New Jersey Devils,Carolina Hurricanes,2022020590584,2022020590,Shot,584,SHOT,Jack Hughes Backhand saved by Antti Raanta,2023-01-01T22:47:06Z,4,00:45,04:15,4,4,1.0,New Jersey Devils,NJD
+346,1,12,New Jersey Devils,Carolina Hurricanes,2022020590854,2022020590,Hit,854,HIT,Tomas Tatar hit Sebastian Aho,2023-01-01T22:47:55Z,4,01:34,03:26,4,4,1.0,New Jersey Devils,NJD
+347,1,12,New Jersey Devils,Carolina Hurricanes,2022020590725,2022020590,Blocked Shot,725,BLOCKED_SHOT,Andrei Svechnikov shot blocked shot by Tomas Tatar,2023-01-01T22:48:24Z,4,02:03,02:57,4,4,1.0,New Jersey Devils,NJD
+348,1,12,New Jersey Devils,Carolina Hurricanes,2022020590585,2022020590,Shot,585,SHOT,Brady Skjei Slap Shot saved by Mackenzie Blackwood,2023-01-01T22:48:39Z,4,02:18,02:42,4,4,12.0,Carolina Hurricanes,CAR
+349,1,12,New Jersey Devils,Carolina Hurricanes,2022020590726,2022020590,Shot,726,SHOT,Jack Hughes Wrist Shot saved by Antti Raanta,2023-01-01T22:48:51Z,4,02:30,02:30,4,4,1.0,New Jersey Devils,NJD
+350,1,12,New Jersey Devils,Carolina Hurricanes,2022020590586,2022020590,Missed Shot,586,MISSED_SHOT,Andrei Svechnikov Wide of Net Mackenzie Blackwood,2023-01-01T22:48:59Z,4,02:38,02:22,4,4,12.0,Carolina Hurricanes,CAR
+351,1,12,New Jersey Devils,Carolina Hurricanes,2022020590727,2022020590,Shot,727,SHOT,Jaccob Slavin Backhand saved by Mackenzie Blackwood,2023-01-01T22:49:21Z,4,03:00,02:00,4,4,12.0,Carolina Hurricanes,CAR
+352,1,12,New Jersey Devils,Carolina Hurricanes,2022020590587,2022020590,Stoppage,587,STOP,Goalie Stopped,2023-01-01T22:49:26Z,4,03:05,01:55,4,4,,,
+353,1,12,New Jersey Devils,Carolina Hurricanes,2022020590588,2022020590,Stoppage,588,STOP,Home Timeout,2023-01-01T22:49:26Z,4,03:05,01:55,4,4,,,
+354,1,12,New Jersey Devils,Carolina Hurricanes,2022020590856,2022020590,Faceoff,856,FACEOFF,Martin Necas faceoff won against Erik Haula,2023-01-01T22:51:19Z,4,03:05,01:55,4,4,12.0,Carolina Hurricanes,CAR
+355,1,12,New Jersey Devils,Carolina Hurricanes,2022020590857,2022020590,Takeaway,857,TAKEAWAY,Takeaway by Sebastian Aho,2023-01-01T22:51:32Z,4,03:18,01:42,4,4,12.0,Carolina Hurricanes,CAR
+356,1,12,New Jersey Devils,Carolina Hurricanes,2022020590858,2022020590,Hit,858,HIT,Damon Severson hit Martin Necas,2023-01-01T22:51:49Z,4,03:35,01:25,4,4,1.0,New Jersey Devils,NJD
+357,1,12,New Jersey Devils,Carolina Hurricanes,2022020590728,2022020590,Blocked Shot,728,BLOCKED_SHOT,Jesper Bratt shot blocked shot by Sebastian Aho,2023-01-01T22:52:02Z,4,03:48,01:12,4,4,12.0,Carolina Hurricanes,CAR
+358,1,12,New Jersey Devils,Carolina Hurricanes,2022020590859,2022020590,Giveaway,859,GIVEAWAY,Giveaway by Dougie Hamilton,2023-01-01T22:52:37Z,4,04:23,00:37,4,4,1.0,New Jersey Devils,NJD
+359,1,12,New Jersey Devils,Carolina Hurricanes,2022020590729,2022020590,Shot,729,SHOT,Seth Jarvis Backhand saved by Mackenzie Blackwood,2023-01-01T22:52:44Z,4,04:30,00:30,4,4,12.0,Carolina Hurricanes,CAR
+360,1,12,New Jersey Devils,Carolina Hurricanes,2022020590860,2022020590,Giveaway,860,GIVEAWAY,Giveaway by Seth Jarvis,2023-01-01T22:52:52Z,4,04:38,00:22,4,4,12.0,Carolina Hurricanes,CAR
+361,1,12,New Jersey Devils,Carolina Hurricanes,2022020590589,2022020590,Stoppage,589,STOP,Puck Frozen,2023-01-01T22:53:00Z,4,04:45,00:15,4,4,,,
+362,1,12,New Jersey Devils,Carolina Hurricanes,2022020590730,2022020590,Shot,730,SHOT,Dougie Hamilton Wrist Shot saved by Antti Raanta,2023-01-01T22:53:00Z,4,04:45,00:15,4,4,1.0,New Jersey Devils,NJD
+363,1,12,New Jersey Devils,Carolina Hurricanes,2022020590861,2022020590,Faceoff,861,FACEOFF,Jordan Staal faceoff won against Erik Haula,2023-01-01T22:53:43Z,4,04:45,00:15,4,4,12.0,Carolina Hurricanes,CAR
+364,1,12,New Jersey Devils,Carolina Hurricanes,2022020590731,2022020590,Shot,731,SHOT,Brady Skjei Wrist Shot saved by Mackenzie Blackwood,2023-01-01T22:53:50Z,4,04:52,00:08,4,4,12.0,Carolina Hurricanes,CAR
+365,1,12,New Jersey Devils,Carolina Hurricanes,2022020590732,2022020590,Period End,732,PERIOD_END,End of OT,2023-01-01T22:53:58Z,4,05:00,00:00,4,4,,,
+366,1,12,New Jersey Devils,Carolina Hurricanes,2022020590862,2022020590,Hit,862,HIT,Dougie Hamilton hit Jordan Staal,2023-01-01T22:53:58Z,4,05:00,00:00,4,4,1.0,New Jersey Devils,NJD
+367,1,12,New Jersey Devils,Carolina Hurricanes,2022020590735,2022020590,Period Official,735,PERIOD_OFFICIAL,Period Official,2023-01-01T22:54:25Z,4,05:00,00:00,4,4,,,
+368,1,12,New Jersey Devils,Carolina Hurricanes,2022020590736,2022020590,Period Ready,736,PERIOD_READY,Period Ready,2023-01-01T22:54:47Z,5,00:00,00:00,4,4,,,
+369,1,12,New Jersey Devils,Carolina Hurricanes,2022020590737,2022020590,Period Start,737,PERIOD_START,Period Start,2023-01-01T22:55:58Z,5,00:00,00:00,4,4,,,
+370,1,12,New Jersey Devils,Carolina Hurricanes,2022020590738,2022020590,Shot,738,SHOT,Tomas Tatar Wrist Shot saved by Antti Raanta,2023-01-01T22:56:04Z,5,00:00,00:00,4,4,1.0,New Jersey Devils,NJD
+371,1,12,New Jersey Devils,Carolina Hurricanes,2022020590739,2022020590,Shot,739,SHOT,Brent Burns Backhand saved by Mackenzie Blackwood,2023-01-01T22:56:32Z,5,00:00,00:00,4,4,12.0,Carolina Hurricanes,CAR
+372,1,12,New Jersey Devils,Carolina Hurricanes,2022020590740,2022020590,Shot,740,SHOT,Jesper Bratt Wrist Shot saved by Antti Raanta,2023-01-01T22:56:50Z,5,00:00,00:00,4,4,1.0,New Jersey Devils,NJD
+373,1,12,New Jersey Devils,Carolina Hurricanes,2022020590741,2022020590,Goal,741,GOAL,Andrei Svechnikov - Wrist Shot,2023-01-01T22:57:17Z,5,00:00,00:00,4,4,12.0,Carolina Hurricanes,CAR
+374,1,12,New Jersey Devils,Carolina Hurricanes,2022020590742,2022020590,Shot,742,SHOT,Jack Hughes Wrist Shot saved by Antti Raanta,2023-01-01T22:57:48Z,5,00:00,00:00,4,4,1.0,New Jersey Devils,NJD
+375,1,12,New Jersey Devils,Carolina Hurricanes,2022020590743,2022020590,Shootout Complete,743,SHOOTOUT_COMPLETE,End of Shootout,2023-01-01T22:57:48Z,5,00:00,00:00,4,4,,,
+376,1,12,New Jersey Devils,Carolina Hurricanes,2022020590744,2022020590,Period End,744,PERIOD_END,End of OT,2023-01-01T22:57:48Z,5,00:00,00:00,4,4,,,
+377,1,12,New Jersey Devils,Carolina Hurricanes,2022020590747,2022020590,Period Official,747,PERIOD_OFFICIAL,Period Official,2023-01-01T22:58:47Z,5,00:00,00:00,4,4,,,
+378,1,12,New Jersey Devils,Carolina Hurricanes,2022020590748,2022020590,Game End,748,GAME_END,Game End,2023-01-01T22:58:54Z,5,00:00,00:00,4,4,,,
+379,1,12,New Jersey Devils,Carolina Hurricanes,20220205901471,2022020590,Game Official,1471,GAME_OFFICIAL,Game Official,2023-01-05T19:56:12Z,5,00:00,00:00,4,4,,,

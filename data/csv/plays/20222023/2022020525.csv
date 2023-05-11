@@ -1,0 +1,311 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,10,4,Toronto Maple Leafs,Philadelphia Flyers,20220205251,2022020525,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-12-22T18:15:40Z,1,00:00,20:00,0,0,,,
+1,10,4,Toronto Maple Leafs,Philadelphia Flyers,20220205255,2022020525,Period Ready,5,PERIOD_READY,Period Ready,2022-12-22T19:04:11Z,1,00:00,20:00,0,0,,,
+2,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052551,2022020525,Period Start,51,PERIOD_START,Period Start,2022-12-22T19:08:45Z,1,00:00,20:00,0,0,,,
+3,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052552,2022020525,Faceoff,52,FACEOFF,Noah Cates faceoff won against Auston Matthews,2022-12-22T19:08:45Z,1,00:00,20:00,0,0,4.0,Philadelphia Flyers,PHI
+4,10,4,Toronto Maple Leafs,Philadelphia Flyers,20220205258,2022020525,Shot,8,SHOT,Michael Bunting Wrist Shot saved by Carter Hart,2022-12-22T19:09:18Z,1,00:33,19:27,0,0,10.0,Toronto Maple Leafs,TOR
+5,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525151,2022020525,Stoppage,151,STOP,Goalie Stopped,2022-12-22T19:09:20Z,1,00:34,19:26,0,0,,,
+6,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052553,2022020525,Faceoff,53,FACEOFF,John Tavares faceoff won against Morgan Frost,2022-12-22T19:09:48Z,1,00:34,19:26,0,0,10.0,Toronto Maple Leafs,TOR
+7,10,4,Toronto Maple Leafs,Philadelphia Flyers,20220205259,2022020525,Blocked Shot,9,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Owen Tippett,2022-12-22T19:09:51Z,1,00:37,19:23,0,0,4.0,Philadelphia Flyers,PHI
+8,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052510,2022020525,Missed Shot,10,MISSED_SHOT,Mitchell Marner Wide of Net Carter Hart,2022-12-22T19:09:57Z,1,00:43,19:17,0,0,10.0,Toronto Maple Leafs,TOR
+9,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052554,2022020525,Giveaway,54,GIVEAWAY,Giveaway by John Tavares,2022-12-22T19:10:22Z,1,01:08,18:52,0,0,10.0,Toronto Maple Leafs,TOR
+10,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052511,2022020525,Blocked Shot,11,BLOCKED_SHOT,Morgan Frost shot blocked shot by Jordie Benn,2022-12-22T19:10:26Z,1,01:12,18:48,0,0,10.0,Toronto Maple Leafs,TOR
+11,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052555,2022020525,Giveaway,55,GIVEAWAY,Giveaway by Carter Hart,2022-12-22T19:10:52Z,1,01:38,18:22,0,0,4.0,Philadelphia Flyers,PHI
+12,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525152,2022020525,Hit,152,HIT,Nicolas Deslauriers hit Justin Holl,2022-12-22T19:11:29Z,1,02:15,17:45,0,0,4.0,Philadelphia Flyers,PHI
+13,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525153,2022020525,Hit,153,HIT,Zack MacEwen hit Zach Aston-Reese,2022-12-22T19:11:35Z,1,02:21,17:39,0,0,4.0,Philadelphia Flyers,PHI
+14,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052556,2022020525,Giveaway,56,GIVEAWAY,Giveaway by Carter Hart,2022-12-22T19:11:58Z,1,02:44,17:16,0,0,4.0,Philadelphia Flyers,PHI
+15,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525401,2022020525,Blocked Shot,401,BLOCKED_SHOT,Travis Konecny shot blocked shot by TJ Brodie,2022-12-22T19:12:13Z,1,02:59,17:01,0,0,10.0,Toronto Maple Leafs,TOR
+16,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052513,2022020525,Missed Shot,13,MISSED_SHOT,Noah Cates Wide of Net Ilya Samsonov,2022-12-22T19:12:27Z,1,03:13,16:47,0,0,4.0,Philadelphia Flyers,PHI
+17,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525133,2022020525,Penalty,133,PENALTY,William Nylander Hooking against Tony DeAngelo,2022-12-22T19:12:49Z,1,03:35,16:25,0,0,10.0,Toronto Maple Leafs,TOR
+18,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052557,2022020525,Faceoff,57,FACEOFF,Morgan Frost faceoff won against David Kampf,2022-12-22T19:13:37Z,1,03:35,16:25,0,0,4.0,Philadelphia Flyers,PHI
+19,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052514,2022020525,Shot,14,SHOT,Mitchell Marner Wrist Shot saved by Carter Hart,2022-12-22T19:13:46Z,1,03:44,16:16,0,0,10.0,Toronto Maple Leafs,TOR
+20,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052515,2022020525,Shot,15,SHOT,Mitchell Marner Poke saved by Carter Hart,2022-12-22T19:13:47Z,1,03:45,16:15,0,0,10.0,Toronto Maple Leafs,TOR
+21,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525155,2022020525,Hit,155,HIT,Justin Holl hit Travis Konecny,2022-12-22T19:14:10Z,1,04:08,15:52,0,0,10.0,Toronto Maple Leafs,TOR
+22,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052516,2022020525,Goal,16,GOAL,"Tony DeAngelo (5) Slap Shot, assists: Kevin Hayes (21), James van Riemsdyk (8)",2022-12-22T19:14:18Z,1,04:17,15:43,0,1,4.0,Philadelphia Flyers,PHI
+23,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052558,2022020525,Faceoff,58,FACEOFF,David Kampf faceoff won against Scott Laughton,2022-12-22T19:15:04Z,1,04:17,15:43,0,1,10.0,Toronto Maple Leafs,TOR
+24,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052559,2022020525,Giveaway,59,GIVEAWAY,Giveaway by David Kampf,2022-12-22T19:15:22Z,1,04:35,15:25,0,1,10.0,Toronto Maple Leafs,TOR
+25,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525402,2022020525,Shot,402,SHOT,Timothy Liljegren Wrist Shot saved by Carter Hart,2022-12-22T19:15:22Z,1,04:35,15:25,0,1,10.0,Toronto Maple Leafs,TOR
+26,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525156,2022020525,Hit,156,HIT,Jordie Benn hit Wade Allison,2022-12-22T19:15:35Z,1,04:48,15:12,0,1,10.0,Toronto Maple Leafs,TOR
+27,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052517,2022020525,Missed Shot,17,MISSED_SHOT,Scott Laughton Over Net Ilya Samsonov,2022-12-22T19:15:36Z,1,04:49,15:11,0,1,4.0,Philadelphia Flyers,PHI
+28,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525157,2022020525,Hit,157,HIT,Scott Laughton hit Jordie Benn,2022-12-22T19:15:45Z,1,04:58,15:02,0,1,4.0,Philadelphia Flyers,PHI
+29,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052560,2022020525,Giveaway,60,GIVEAWAY,Giveaway by Alexander Kerfoot,2022-12-22T19:15:46Z,1,04:59,15:01,0,1,10.0,Toronto Maple Leafs,TOR
+30,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525158,2022020525,Hit,158,HIT,Timothy Liljegren hit Zack MacEwen,2022-12-22T19:15:54Z,1,05:07,14:53,0,1,10.0,Toronto Maple Leafs,TOR
+31,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525159,2022020525,Stoppage,159,STOP,Puck in Crowd,2022-12-22T19:16:00Z,1,05:12,14:48,0,1,,,
+32,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052561,2022020525,Faceoff,61,FACEOFF,Pontus Holmberg faceoff won against Morgan Frost,2022-12-22T19:16:32Z,1,05:12,14:48,0,1,10.0,Toronto Maple Leafs,TOR
+33,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525160,2022020525,Hit,160,HIT,Owen Tippett hit Conor Timmins,2022-12-22T19:16:37Z,1,05:17,14:43,0,1,4.0,Philadelphia Flyers,PHI
+34,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052562,2022020525,Giveaway,62,GIVEAWAY,Giveaway by Travis Sanheim,2022-12-22T19:17:00Z,1,05:40,14:20,0,1,4.0,Philadelphia Flyers,PHI
+35,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525161,2022020525,Hit,161,HIT,Travis Konecny hit Justin Holl,2022-12-22T19:17:52Z,1,06:32,13:28,0,1,4.0,Philadelphia Flyers,PHI
+36,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052518,2022020525,Shot,18,SHOT,Mitchell Marner Wrist Shot saved by Carter Hart,2022-12-22T19:18:39Z,1,07:19,12:41,0,1,10.0,Toronto Maple Leafs,TOR
+37,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525163,2022020525,Stoppage,163,STOP,Goalie Stopped,2022-12-22T19:18:39Z,1,07:19,12:41,0,1,,,
+38,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052563,2022020525,Faceoff,63,FACEOFF,John Tavares faceoff won against Joel Farabee,2022-12-22T19:21:04Z,1,07:19,12:41,0,1,10.0,Toronto Maple Leafs,TOR
+39,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525164,2022020525,Hit,164,HIT,Morgan Frost hit TJ Brodie,2022-12-22T19:21:44Z,1,07:59,12:01,0,1,4.0,Philadelphia Flyers,PHI
+40,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525165,2022020525,Hit,165,HIT,James van Riemsdyk hit Michael Bunting,2022-12-22T19:22:31Z,1,08:46,11:14,0,1,4.0,Philadelphia Flyers,PHI
+41,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052519,2022020525,Blocked Shot,19,BLOCKED_SHOT,Justin Braun shot blocked shot by Jordie Benn,2022-12-22T19:23:07Z,1,09:22,10:38,0,1,10.0,Toronto Maple Leafs,TOR
+42,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525166,2022020525,Hit,166,HIT,Pontus Holmberg hit Ivan Provorov,2022-12-22T19:23:26Z,1,09:41,10:19,0,1,10.0,Toronto Maple Leafs,TOR
+43,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525167,2022020525,Hit,167,HIT,TJ Brodie hit Patrick Brown,2022-12-22T19:23:38Z,1,09:53,10:07,0,1,10.0,Toronto Maple Leafs,TOR
+44,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525168,2022020525,Hit,168,HIT,Rasmus Ristolainen hit Zach Aston-Reese,2022-12-22T19:23:48Z,1,10:03,09:57,0,1,4.0,Philadelphia Flyers,PHI
+45,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525169,2022020525,Hit,169,HIT,Joey Anderson hit Zack MacEwen,2022-12-22T19:23:57Z,1,10:12,09:48,0,1,10.0,Toronto Maple Leafs,TOR
+46,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525170,2022020525,Hit,170,HIT,Travis Sanheim hit John Tavares,2022-12-22T19:24:31Z,1,10:46,09:14,0,1,4.0,Philadelphia Flyers,PHI
+47,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052564,2022020525,Takeaway,64,TAKEAWAY,Takeaway by Justin Holl,2022-12-22T19:24:47Z,1,11:02,08:58,0,1,10.0,Toronto Maple Leafs,TOR
+48,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052520,2022020525,Missed Shot,20,MISSED_SHOT,Morgan Frost Wide of Net Ilya Samsonov,2022-12-22T19:24:55Z,1,11:10,08:50,0,1,4.0,Philadelphia Flyers,PHI
+49,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525171,2022020525,Hit,171,HIT,Cam York hit Mitchell Marner,2022-12-22T19:25:06Z,1,11:21,08:39,0,1,4.0,Philadelphia Flyers,PHI
+50,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052521,2022020525,Blocked Shot,21,BLOCKED_SHOT,Michael Bunting shot blocked shot by Cam York,2022-12-22T19:25:16Z,1,11:31,08:29,0,1,4.0,Philadelphia Flyers,PHI
+51,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525172,2022020525,Stoppage,172,STOP,Hand Pass,2022-12-22T19:25:21Z,1,11:36,08:24,0,1,,,
+52,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052565,2022020525,Faceoff,65,FACEOFF,Auston Matthews faceoff won against Scott Laughton,2022-12-22T19:27:38Z,1,11:36,08:24,0,1,10.0,Toronto Maple Leafs,TOR
+53,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525173,2022020525,Hit,173,HIT,Timothy Liljegren hit Wade Allison,2022-12-22T19:28:06Z,1,12:04,07:56,0,1,10.0,Toronto Maple Leafs,TOR
+54,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525174,2022020525,Hit,174,HIT,Michael Bunting hit Wade Allison,2022-12-22T19:28:09Z,1,12:07,07:53,0,1,10.0,Toronto Maple Leafs,TOR
+55,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052522,2022020525,Shot,22,SHOT,Justin Holl Snap Shot saved by Carter Hart,2022-12-22T19:28:34Z,1,12:32,07:28,0,1,10.0,Toronto Maple Leafs,TOR
+56,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052523,2022020525,Blocked Shot,23,BLOCKED_SHOT,Justin Holl shot blocked shot by Rasmus Ristolainen,2022-12-22T19:28:41Z,1,12:39,07:21,0,1,4.0,Philadelphia Flyers,PHI
+57,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052566,2022020525,Takeaway,66,TAKEAWAY,Takeaway by Travis Konecny,2022-12-22T19:28:49Z,1,12:47,07:13,0,1,4.0,Philadelphia Flyers,PHI
+58,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052524,2022020525,Blocked Shot,24,BLOCKED_SHOT,Travis Konecny shot blocked shot by Mark Giordano,2022-12-22T19:28:56Z,1,12:54,07:06,0,1,10.0,Toronto Maple Leafs,TOR
+59,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525175,2022020525,Stoppage,175,STOP,Puck in Crowd,2022-12-22T19:28:57Z,1,12:55,07:05,0,1,,,
+60,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052567,2022020525,Faceoff,67,FACEOFF,Morgan Frost faceoff won against John Tavares,2022-12-22T19:29:32Z,1,12:55,07:05,0,1,4.0,Philadelphia Flyers,PHI
+61,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525403,2022020525,Blocked Shot,403,BLOCKED_SHOT,Tony DeAngelo shot blocked shot by John Tavares,2022-12-22T19:29:36Z,1,12:59,07:01,0,1,10.0,Toronto Maple Leafs,TOR
+62,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525176,2022020525,Hit,176,HIT,Owen Tippett hit TJ Brodie,2022-12-22T19:30:02Z,1,13:25,06:35,0,1,4.0,Philadelphia Flyers,PHI
+63,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525404,2022020525,Blocked Shot,404,BLOCKED_SHOT,Morgan Frost shot blocked shot by TJ Brodie,2022-12-22T19:30:07Z,1,13:30,06:30,0,1,10.0,Toronto Maple Leafs,TOR
+64,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052525,2022020525,Shot,25,SHOT,Owen Tippett Wrist Shot saved by Ilya Samsonov,2022-12-22T19:30:18Z,1,13:41,06:19,0,1,4.0,Philadelphia Flyers,PHI
+65,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525177,2022020525,Stoppage,177,STOP,Goalie Stopped,2022-12-22T19:30:18Z,1,13:42,06:18,0,1,,,
+66,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052568,2022020525,Faceoff,68,FACEOFF,Patrick Brown faceoff won against Pontus Holmberg,2022-12-22T19:30:56Z,1,13:42,06:18,0,1,4.0,Philadelphia Flyers,PHI
+67,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525178,2022020525,Stoppage,178,STOP,Puck Frozen,2022-12-22T19:31:01Z,1,13:47,06:13,0,1,,,
+68,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052569,2022020525,Faceoff,69,FACEOFF,Patrick Brown faceoff won against Pontus Holmberg,2022-12-22T19:31:26Z,1,13:47,06:13,0,1,4.0,Philadelphia Flyers,PHI
+69,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052526,2022020525,Blocked Shot,26,BLOCKED_SHOT,Ivan Provorov shot blocked shot by Jordie Benn,2022-12-22T19:31:48Z,1,14:09,05:51,0,1,10.0,Toronto Maple Leafs,TOR
+70,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052527,2022020525,Shot,27,SHOT,Patrick Brown Wrist Shot saved by Ilya Samsonov,2022-12-22T19:31:52Z,1,14:13,05:47,0,1,4.0,Philadelphia Flyers,PHI
+71,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525179,2022020525,Hit,179,HIT,Ivan Provorov hit Joey Anderson,2022-12-22T19:31:59Z,1,14:20,05:40,0,1,4.0,Philadelphia Flyers,PHI
+72,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525180,2022020525,Hit,180,HIT,Nicolas Deslauriers hit Timothy Liljegren,2022-12-22T19:32:08Z,1,14:29,05:31,0,1,4.0,Philadelphia Flyers,PHI
+73,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525181,2022020525,Hit,181,HIT,Noah Cates hit Auston Matthews,2022-12-22T19:32:57Z,1,15:18,04:42,0,1,4.0,Philadelphia Flyers,PHI
+74,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052528,2022020525,Shot,28,SHOT,Pierre Engvall Wrist Shot saved by Carter Hart,2022-12-22T19:33:19Z,1,15:40,04:20,0,1,10.0,Toronto Maple Leafs,TOR
+75,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525182,2022020525,Stoppage,182,STOP,Goalie Stopped,2022-12-22T19:33:20Z,1,15:41,04:19,0,1,,,
+76,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052571,2022020525,Faceoff,71,FACEOFF,Morgan Frost faceoff won against Calle Jarnkrok,2022-12-22T19:35:53Z,1,15:41,04:19,0,1,4.0,Philadelphia Flyers,PHI
+77,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052572,2022020525,Takeaway,72,TAKEAWAY,Takeaway by Morgan Frost,2022-12-22T19:36:06Z,1,15:54,04:06,0,1,4.0,Philadelphia Flyers,PHI
+78,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052573,2022020525,Giveaway,73,GIVEAWAY,Giveaway by Morgan Frost,2022-12-22T19:36:13Z,1,16:01,03:59,0,1,4.0,Philadelphia Flyers,PHI
+79,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525183,2022020525,Hit,183,HIT,Zach Aston-Reese hit Travis Konecny,2022-12-22T19:36:56Z,1,16:44,03:16,0,1,10.0,Toronto Maple Leafs,TOR
+80,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052529,2022020525,Shot,29,SHOT,Zach Aston-Reese Snap Shot saved by Carter Hart,2022-12-22T19:37:05Z,1,16:53,03:07,0,1,10.0,Toronto Maple Leafs,TOR
+81,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525184,2022020525,Hit,184,HIT,Joey Anderson hit Justin Braun,2022-12-22T19:37:09Z,1,16:57,03:03,0,1,10.0,Toronto Maple Leafs,TOR
+82,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052530,2022020525,Shot,30,SHOT,William Nylander Wrist Shot saved by Carter Hart,2022-12-22T19:37:30Z,1,17:18,02:42,0,1,10.0,Toronto Maple Leafs,TOR
+83,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525185,2022020525,Hit,185,HIT,Scott Laughton hit TJ Brodie,2022-12-22T19:37:40Z,1,17:28,02:32,0,1,4.0,Philadelphia Flyers,PHI
+84,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525186,2022020525,Stoppage,186,STOP,Offside,2022-12-22T19:37:55Z,1,17:43,02:17,0,1,,,
+85,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052574,2022020525,Faceoff,74,FACEOFF,Patrick Brown faceoff won against David Kampf,2022-12-22T19:38:24Z,1,17:43,02:17,0,1,4.0,Philadelphia Flyers,PHI
+86,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525187,2022020525,Hit,187,HIT,Nicolas Deslauriers hit Justin Holl,2022-12-22T19:38:44Z,1,18:03,01:57,0,1,4.0,Philadelphia Flyers,PHI
+87,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525188,2022020525,Hit,188,HIT,Rasmus Ristolainen hit Alexander Kerfoot,2022-12-22T19:38:59Z,1,18:18,01:42,0,1,4.0,Philadelphia Flyers,PHI
+88,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052531,2022020525,Blocked Shot,31,BLOCKED_SHOT,Pierre Engvall shot blocked shot by Ivan Provorov,2022-12-22T19:39:06Z,1,18:25,01:35,0,1,4.0,Philadelphia Flyers,PHI
+89,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525405,2022020525,Blocked Shot,405,BLOCKED_SHOT,David Kampf shot blocked shot by Ivan Provorov,2022-12-22T19:39:08Z,1,18:27,01:33,0,1,4.0,Philadelphia Flyers,PHI
+90,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525190,2022020525,Penalty,190,PENALTY,Nicolas Deslauriers Holding against David Kampf,2022-12-22T19:39:15Z,1,18:34,01:26,0,1,4.0,Philadelphia Flyers,PHI
+91,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052575,2022020525,Faceoff,75,FACEOFF,Scott Laughton faceoff won against John Tavares,2022-12-22T19:39:58Z,1,18:34,01:26,0,1,4.0,Philadelphia Flyers,PHI
+92,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052576,2022020525,Giveaway,76,GIVEAWAY,Giveaway by Travis Sanheim,2022-12-22T19:40:04Z,1,18:40,01:20,0,1,4.0,Philadelphia Flyers,PHI
+93,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052532,2022020525,Missed Shot,32,MISSED_SHOT,Mitchell Marner Wide of Net Carter Hart,2022-12-22T19:40:09Z,1,18:45,01:15,0,1,10.0,Toronto Maple Leafs,TOR
+94,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052533,2022020525,Shot,33,SHOT,Auston Matthews Wrist Shot saved by Carter Hart,2022-12-22T19:40:23Z,1,18:59,01:01,0,1,10.0,Toronto Maple Leafs,TOR
+95,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052534,2022020525,Blocked Shot,34,BLOCKED_SHOT,Auston Matthews shot blocked shot by Scott Laughton,2022-12-22T19:40:39Z,1,19:15,00:45,0,1,4.0,Philadelphia Flyers,PHI
+96,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052535,2022020525,Missed Shot,35,MISSED_SHOT,Michael Bunting Wide of Net Carter Hart,2022-12-22T19:40:44Z,1,19:20,00:40,0,1,10.0,Toronto Maple Leafs,TOR
+97,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052536,2022020525,Shot,36,SHOT,William Nylander Wrist Shot saved by Carter Hart,2022-12-22T19:40:59Z,1,19:35,00:25,0,1,10.0,Toronto Maple Leafs,TOR
+98,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525408,2022020525,Blocked Shot,408,BLOCKED_SHOT,Auston Matthews shot blocked shot by Justin Braun,2022-12-22T19:41:00Z,1,19:36,00:24,0,1,4.0,Philadelphia Flyers,PHI
+99,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052577,2022020525,Takeaway,77,TAKEAWAY,Takeaway by Travis Sanheim,2022-12-22T19:41:09Z,1,19:45,00:15,0,1,4.0,Philadelphia Flyers,PHI
+100,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052537,2022020525,Period End,37,PERIOD_END,End of 1st Period,2022-12-22T19:41:24Z,1,20:00,00:00,0,1,,,
+101,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052540,2022020525,Period Official,40,PERIOD_OFFICIAL,Period Official,2022-12-22T19:58:21Z,1,20:00,00:00,0,1,,,
+102,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052541,2022020525,Period Ready,41,PERIOD_READY,Period Ready,2022-12-22T19:58:25Z,2,00:00,20:00,0,1,,,
+103,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052578,2022020525,Period Start,78,PERIOD_START,Period Start,2022-12-22T20:00:24Z,2,00:00,20:00,0,1,,,
+104,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052579,2022020525,Faceoff,79,FACEOFF,John Tavares faceoff won against Scott Laughton,2022-12-22T20:00:24Z,2,00:00,20:00,0,1,10.0,Toronto Maple Leafs,TOR
+105,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052543,2022020525,Blocked Shot,43,BLOCKED_SHOT,Nicolas Deslauriers shot blocked shot by Justin Holl,2022-12-22T20:01:05Z,2,00:41,19:19,0,1,10.0,Toronto Maple Leafs,TOR
+106,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052580,2022020525,Giveaway,80,GIVEAWAY,Giveaway by Justin Holl,2022-12-22T20:01:09Z,2,00:45,19:15,0,1,10.0,Toronto Maple Leafs,TOR
+107,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052544,2022020525,Shot,44,SHOT,Joey Anderson Snap Shot saved by Carter Hart,2022-12-22T20:02:13Z,2,01:48,18:12,0,1,10.0,Toronto Maple Leafs,TOR
+108,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525193,2022020525,Stoppage,193,STOP,Goalie Stopped,2022-12-22T20:02:13Z,2,01:48,18:12,0,1,,,
+109,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052581,2022020525,Faceoff,81,FACEOFF,Scott Laughton faceoff won against William Nylander,2022-12-22T20:02:41Z,2,01:48,18:12,0,1,4.0,Philadelphia Flyers,PHI
+110,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525194,2022020525,Hit,194,HIT,Scott Laughton hit Michael Bunting,2022-12-22T20:03:03Z,2,02:10,17:50,0,1,4.0,Philadelphia Flyers,PHI
+111,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525195,2022020525,Hit,195,HIT,Timothy Liljegren hit Noah Cates,2022-12-22T20:03:27Z,2,02:34,17:26,0,1,10.0,Toronto Maple Leafs,TOR
+112,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052545,2022020525,Shot,45,SHOT,Zach Aston-Reese Wrist Shot saved by Carter Hart,2022-12-22T20:03:40Z,2,02:47,17:13,0,1,10.0,Toronto Maple Leafs,TOR
+113,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052546,2022020525,Shot,46,SHOT,John Tavares Backhand saved by Carter Hart,2022-12-22T20:04:11Z,2,03:18,16:42,0,1,10.0,Toronto Maple Leafs,TOR
+114,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052547,2022020525,Shot,47,SHOT,John Tavares Wrist Shot saved by Carter Hart,2022-12-22T20:04:16Z,2,03:23,16:37,0,1,10.0,Toronto Maple Leafs,TOR
+115,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525357,2022020525,Stoppage,357,STOP,Goalie Stopped,2022-12-22T20:04:18Z,2,03:24,16:36,0,1,,,
+116,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052582,2022020525,Faceoff,82,FACEOFF,John Tavares faceoff won against Patrick Brown,2022-12-22T20:04:56Z,2,03:24,16:36,0,1,10.0,Toronto Maple Leafs,TOR
+117,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052583,2022020525,Takeaway,83,TAKEAWAY,Takeaway by John Tavares,2022-12-22T20:05:22Z,2,03:50,16:10,0,1,10.0,Toronto Maple Leafs,TOR
+118,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052548,2022020525,Missed Shot,48,MISSED_SHOT,Mitchell Marner Over Net Carter Hart,2022-12-22T20:05:33Z,2,04:01,15:59,0,1,10.0,Toronto Maple Leafs,TOR
+119,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052549,2022020525,Shot,49,SHOT,Zack MacEwen Wrist Shot saved by Ilya Samsonov,2022-12-22T20:05:43Z,2,04:11,15:49,0,1,4.0,Philadelphia Flyers,PHI
+120,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052550,2022020525,Missed Shot,50,MISSED_SHOT,David Kampf Wide of Net Carter Hart,2022-12-22T20:06:06Z,2,04:34,15:26,0,1,10.0,Toronto Maple Leafs,TOR
+121,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525351,2022020525,Shot,351,SHOT,Alexander Kerfoot Wrist Shot saved by Carter Hart,2022-12-22T20:06:22Z,2,04:50,15:10,0,1,10.0,Toronto Maple Leafs,TOR
+122,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525196,2022020525,Hit,196,HIT,David Kampf hit Owen Tippett,2022-12-22T20:06:24Z,2,04:52,15:08,0,1,10.0,Toronto Maple Leafs,TOR
+123,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052584,2022020525,Giveaway,84,GIVEAWAY,Giveaway by Conor Timmins,2022-12-22T20:07:13Z,2,05:41,14:19,0,1,10.0,Toronto Maple Leafs,TOR
+124,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525352,2022020525,Missed Shot,352,MISSED_SHOT,Wade Allison Wide of Net Ilya Samsonov,2022-12-22T20:07:16Z,2,05:44,14:16,0,1,4.0,Philadelphia Flyers,PHI
+125,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525353,2022020525,Shot,353,SHOT,Michael Bunting Wrist Shot saved by Carter Hart,2022-12-22T20:07:28Z,2,05:56,14:04,0,1,10.0,Toronto Maple Leafs,TOR
+126,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525354,2022020525,Shot,354,SHOT,Auston Matthews Wrist Shot saved by Carter Hart,2022-12-22T20:07:29Z,2,05:57,14:03,0,1,10.0,Toronto Maple Leafs,TOR
+127,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525197,2022020525,Stoppage,197,STOP,Goalie Stopped,2022-12-22T20:07:30Z,2,05:58,14:02,0,1,,,
+128,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052585,2022020525,Faceoff,85,FACEOFF,Noah Cates faceoff won against Pontus Holmberg,2022-12-22T20:08:12Z,2,05:58,14:02,0,1,4.0,Philadelphia Flyers,PHI
+129,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525198,2022020525,Hit,198,HIT,Noah Cates hit Joey Anderson,2022-12-22T20:08:23Z,2,06:09,13:51,0,1,4.0,Philadelphia Flyers,PHI
+130,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525355,2022020525,Shot,355,SHOT,Zach Aston-Reese Wrist Shot saved by Carter Hart,2022-12-22T20:08:26Z,2,06:12,13:48,0,1,10.0,Toronto Maple Leafs,TOR
+131,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052586,2022020525,Takeaway,86,TAKEAWAY,Takeaway by Zach Aston-Reese,2022-12-22T20:08:39Z,2,06:25,13:35,0,1,10.0,Toronto Maple Leafs,TOR
+132,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525199,2022020525,Hit,199,HIT,Travis Sanheim hit Justin Holl,2022-12-22T20:08:45Z,2,06:31,13:29,0,1,4.0,Philadelphia Flyers,PHI
+133,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525200,2022020525,Stoppage,200,STOP,Referee or Linesman,2022-12-22T20:08:55Z,2,06:42,13:18,0,1,,,
+134,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525356,2022020525,Shot,356,SHOT,Jordie Benn Wrist Shot saved by Carter Hart,2022-12-22T20:08:55Z,2,06:42,13:18,0,1,10.0,Toronto Maple Leafs,TOR
+135,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525595,2022020525,Penalty,595,PENALTY,Travis Konecny Roughing against Jordie Benn,2022-12-22T20:08:55Z,2,06:42,13:18,0,1,4.0,Philadelphia Flyers,PHI
+136,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525598,2022020525,Penalty,598,PENALTY,Jordie Benn Roughing against Travis Konecny,2022-12-22T20:08:55Z,2,06:42,13:18,0,1,10.0,Toronto Maple Leafs,TOR
+137,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052588,2022020525,Faceoff,88,FACEOFF,Morgan Frost faceoff won against Auston Matthews,2022-12-22T20:12:00Z,2,06:42,13:18,0,1,4.0,Philadelphia Flyers,PHI
+138,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525358,2022020525,Missed Shot,358,MISSED_SHOT,Rasmus Ristolainen Wide of Net Ilya Samsonov,2022-12-22T20:12:16Z,2,06:58,13:02,0,1,4.0,Philadelphia Flyers,PHI
+139,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052589,2022020525,Giveaway,89,GIVEAWAY,Giveaway by Morgan Frost,2022-12-22T20:12:33Z,2,07:15,12:45,0,1,4.0,Philadelphia Flyers,PHI
+140,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525359,2022020525,Shot,359,SHOT,Mark Giordano Wrist Shot saved by Carter Hart,2022-12-22T20:12:49Z,2,07:31,12:29,0,1,10.0,Toronto Maple Leafs,TOR
+141,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525301,2022020525,Stoppage,301,STOP,Offside,2022-12-22T20:13:15Z,2,07:57,12:03,0,1,,,
+142,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052590,2022020525,Faceoff,90,FACEOFF,John Tavares faceoff won against Noah Cates,2022-12-22T20:13:43Z,2,07:57,12:03,0,1,10.0,Toronto Maple Leafs,TOR
+143,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052591,2022020525,Takeaway,91,TAKEAWAY,Takeaway by Kevin Hayes,2022-12-22T20:13:56Z,2,08:10,11:50,0,1,4.0,Philadelphia Flyers,PHI
+144,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525360,2022020525,Shot,360,SHOT,Travis Sanheim Slap Shot saved by Ilya Samsonov,2022-12-22T20:13:57Z,2,08:11,11:49,0,1,4.0,Philadelphia Flyers,PHI
+145,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525302,2022020525,Stoppage,302,STOP,Puck in Netting,2022-12-22T20:13:57Z,2,08:12,11:48,0,1,,,
+146,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052592,2022020525,Faceoff,92,FACEOFF,John Tavares faceoff won against Joel Farabee,2022-12-22T20:14:27Z,2,08:12,11:48,0,1,10.0,Toronto Maple Leafs,TOR
+147,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052593,2022020525,Giveaway,93,GIVEAWAY,Giveaway by Justin Holl,2022-12-22T20:14:41Z,2,08:26,11:34,0,1,10.0,Toronto Maple Leafs,TOR
+148,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525361,2022020525,Missed Shot,361,MISSED_SHOT,Mitchell Marner Wide of Net Carter Hart,2022-12-22T20:14:58Z,2,08:43,11:17,0,1,10.0,Toronto Maple Leafs,TOR
+149,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525303,2022020525,Stoppage,303,STOP,Offside,2022-12-22T20:15:04Z,2,08:49,11:11,0,1,,,
+150,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052594,2022020525,Faceoff,94,FACEOFF,David Kampf faceoff won against Morgan Frost,2022-12-22T20:15:36Z,2,08:49,11:11,0,1,10.0,Toronto Maple Leafs,TOR
+151,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525618,2022020525,Penalty,618,PENALTY,Morgan Frost Interference against Alexander Kerfoot,2022-12-22T20:15:44Z,2,08:57,11:03,0,1,4.0,Philadelphia Flyers,PHI
+152,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052595,2022020525,Faceoff,95,FACEOFF,John Tavares faceoff won against Scott Laughton,2022-12-22T20:16:34Z,2,08:57,11:03,0,1,10.0,Toronto Maple Leafs,TOR
+153,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525362,2022020525,Missed Shot,362,MISSED_SHOT,Michael Bunting Wide of Net Carter Hart,2022-12-22T20:16:46Z,2,09:09,10:51,0,1,10.0,Toronto Maple Leafs,TOR
+154,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525306,2022020525,Hit,306,HIT,Rasmus Ristolainen hit John Tavares,2022-12-22T20:17:01Z,2,09:24,10:36,0,1,4.0,Philadelphia Flyers,PHI
+155,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052596,2022020525,Giveaway,96,GIVEAWAY,Giveaway by Mitchell Marner,2022-12-22T20:17:32Z,2,09:55,10:05,0,1,10.0,Toronto Maple Leafs,TOR
+156,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525363,2022020525,Shot,363,SHOT,Rasmus Ristolainen Backhand saved by Ilya Samsonov,2022-12-22T20:17:37Z,2,10:00,10:00,0,1,4.0,Philadelphia Flyers,PHI
+157,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525307,2022020525,Stoppage,307,STOP,Goalie Stopped,2022-12-22T20:17:39Z,2,10:02,09:58,0,1,,,
+158,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052597,2022020525,Faceoff,97,FACEOFF,Pontus Holmberg faceoff won against Noah Cates,2022-12-22T20:18:14Z,2,10:02,09:58,0,1,10.0,Toronto Maple Leafs,TOR
+159,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052598,2022020525,Giveaway,98,GIVEAWAY,Giveaway by Conor Timmins,2022-12-22T20:18:32Z,2,10:20,09:40,0,1,10.0,Toronto Maple Leafs,TOR
+160,10,4,Toronto Maple Leafs,Philadelphia Flyers,202202052599,2022020525,Giveaway,99,GIVEAWAY,Giveaway by Ilya Samsonov,2022-12-22T20:19:01Z,2,10:49,09:11,0,1,10.0,Toronto Maple Leafs,TOR
+161,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525631,2022020525,Penalty,631,PENALTY,Mark Giordano Tripping against Nicolas Deslauriers,2022-12-22T20:19:04Z,2,10:51,09:09,0,1,10.0,Toronto Maple Leafs,TOR
+162,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525100,2022020525,Faceoff,100,FACEOFF,David Kampf faceoff won against Kevin Hayes,2022-12-22T20:19:47Z,2,10:51,09:09,0,1,10.0,Toronto Maple Leafs,TOR
+163,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525364,2022020525,Missed Shot,364,MISSED_SHOT,David Kampf Over Net Carter Hart,2022-12-22T20:19:58Z,2,11:02,08:58,0,1,10.0,Toronto Maple Leafs,TOR
+164,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525501,2022020525,Giveaway,501,GIVEAWAY,Giveaway by TJ Brodie,2022-12-22T20:20:14Z,2,11:18,08:42,0,1,10.0,Toronto Maple Leafs,TOR
+165,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525365,2022020525,Shot,365,SHOT,Tony DeAngelo Wrist Shot saved by Ilya Samsonov,2022-12-22T20:20:23Z,2,11:27,08:33,0,1,4.0,Philadelphia Flyers,PHI
+166,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525309,2022020525,Stoppage,309,STOP,Referee or Linesman,2022-12-22T20:20:25Z,2,11:29,08:31,0,1,,,
+167,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525502,2022020525,Faceoff,502,FACEOFF,David Kampf faceoff won against Morgan Frost,2022-12-22T20:21:09Z,2,11:29,08:31,0,1,10.0,Toronto Maple Leafs,TOR
+168,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525366,2022020525,Missed Shot,366,MISSED_SHOT,Travis Konecny Wide of Net Ilya Samsonov,2022-12-22T20:22:16Z,2,12:36,07:24,0,1,4.0,Philadelphia Flyers,PHI
+169,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525367,2022020525,Blocked Shot,367,BLOCKED_SHOT,Kevin Hayes shot blocked shot by TJ Brodie,2022-12-22T20:22:26Z,2,12:46,07:14,0,1,10.0,Toronto Maple Leafs,TOR
+170,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525310,2022020525,Stoppage,310,STOP,Puck in Netting,2022-12-22T20:22:27Z,2,12:47,07:13,0,1,,,
+171,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525504,2022020525,Faceoff,504,FACEOFF,Auston Matthews faceoff won against Noah Cates,2022-12-22T20:22:57Z,2,12:47,07:13,0,1,10.0,Toronto Maple Leafs,TOR
+172,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525368,2022020525,Blocked Shot,368,BLOCKED_SHOT,Joel Farabee shot blocked shot by Jordie Benn,2022-12-22T20:23:11Z,2,13:01,06:59,0,1,10.0,Toronto Maple Leafs,TOR
+173,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525369,2022020525,Blocked Shot,369,BLOCKED_SHOT,Auston Matthews shot blocked shot by Noah Cates,2022-12-22T20:23:55Z,2,13:45,06:15,0,1,4.0,Philadelphia Flyers,PHI
+174,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525312,2022020525,Stoppage,312,STOP,Referee or Linesman,2022-12-22T20:24:58Z,2,14:47,05:13,0,1,,,
+175,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525652,2022020525,Penalty,652,PENALTY,Joel Farabee Holding against Auston Matthews,2022-12-22T20:24:58Z,2,14:47,05:13,0,1,4.0,Philadelphia Flyers,PHI
+176,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525505,2022020525,Faceoff,505,FACEOFF,Scott Laughton faceoff won against John Tavares,2022-12-22T20:27:20Z,2,14:47,05:13,0,1,4.0,Philadelphia Flyers,PHI
+177,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525506,2022020525,Giveaway,506,GIVEAWAY,Giveaway by Rasmus Ristolainen,2022-12-22T20:27:25Z,2,14:52,05:08,0,1,4.0,Philadelphia Flyers,PHI
+178,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525370,2022020525,Blocked Shot,370,BLOCKED_SHOT,Mitchell Marner shot blocked shot by Rasmus Ristolainen,2022-12-22T20:27:36Z,2,15:03,04:57,0,1,4.0,Philadelphia Flyers,PHI
+179,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525371,2022020525,Shot,371,SHOT,John Tavares Slap Shot saved by Carter Hart,2022-12-22T20:27:59Z,2,15:26,04:34,0,1,10.0,Toronto Maple Leafs,TOR
+180,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525372,2022020525,Shot,372,SHOT,Mitchell Marner Slap Shot saved by Carter Hart,2022-12-22T20:28:32Z,2,15:59,04:01,0,1,10.0,Toronto Maple Leafs,TOR
+181,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525373,2022020525,Missed Shot,373,MISSED_SHOT,Michael Bunting Wide of Net Carter Hart,2022-12-22T20:28:51Z,2,16:18,03:42,0,1,10.0,Toronto Maple Leafs,TOR
+182,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525374,2022020525,Goal,374,GOAL,"Calle Jarnkrok (6) Tip-In, assists: Mitchell Marner (27), Pierre Engvall (5)",2022-12-22T20:29:22Z,2,16:50,03:10,1,1,10.0,Toronto Maple Leafs,TOR
+183,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525507,2022020525,Faceoff,507,FACEOFF,Morgan Frost faceoff won against David Kampf,2022-12-22T20:30:11Z,2,16:50,03:10,1,1,4.0,Philadelphia Flyers,PHI
+184,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525313,2022020525,Hit,313,HIT,Rasmus Ristolainen hit TJ Brodie,2022-12-22T20:30:30Z,2,17:09,02:51,1,1,4.0,Philadelphia Flyers,PHI
+185,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525314,2022020525,Stoppage,314,STOP,Puck in Crowd,2022-12-22T20:30:40Z,2,17:19,02:41,1,1,,,
+186,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525508,2022020525,Faceoff,508,FACEOFF,Noah Cates faceoff won against Pontus Holmberg,2022-12-22T20:32:57Z,2,17:19,02:41,1,1,4.0,Philadelphia Flyers,PHI
+187,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525375,2022020525,Missed Shot,375,MISSED_SHOT,Mark Giordano Wide of Net Carter Hart,2022-12-22T20:33:03Z,2,17:25,02:35,1,1,10.0,Toronto Maple Leafs,TOR
+188,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525509,2022020525,Giveaway,509,GIVEAWAY,Giveaway by Tony DeAngelo,2022-12-22T20:33:04Z,2,17:26,02:34,1,1,4.0,Philadelphia Flyers,PHI
+189,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525315,2022020525,Hit,315,HIT,Zach Aston-Reese hit Travis Sanheim,2022-12-22T20:33:15Z,2,17:37,02:23,1,1,10.0,Toronto Maple Leafs,TOR
+190,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525510,2022020525,Giveaway,510,GIVEAWAY,Giveaway by Cam York,2022-12-22T20:33:51Z,2,18:13,01:47,1,1,4.0,Philadelphia Flyers,PHI
+191,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525316,2022020525,Hit,316,HIT,David Kampf hit Justin Braun,2022-12-22T20:33:57Z,2,18:19,01:41,1,1,10.0,Toronto Maple Leafs,TOR
+192,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525376,2022020525,Blocked Shot,376,BLOCKED_SHOT,Timothy Liljegren shot blocked shot by Wade Allison,2022-12-22T20:34:07Z,2,18:29,01:31,1,1,4.0,Philadelphia Flyers,PHI
+193,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525377,2022020525,Shot,377,SHOT,William Nylander Wrist Shot saved by Carter Hart,2022-12-22T20:34:49Z,2,19:10,00:50,1,1,10.0,Toronto Maple Leafs,TOR
+194,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525688,2022020525,Penalty,688,PENALTY,Rasmus Ristolainen Holding against William Nylander,2022-12-22T20:34:49Z,2,19:10,00:50,1,1,4.0,Philadelphia Flyers,PHI
+195,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525511,2022020525,Faceoff,511,FACEOFF,John Tavares faceoff won against Patrick Brown,2022-12-22T20:35:33Z,2,19:10,00:50,1,1,10.0,Toronto Maple Leafs,TOR
+196,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525378,2022020525,Goal,378,GOAL,"Mitchell Marner (13) Slap Shot, assists: John Tavares (17), William Nylander (18)",2022-12-22T20:35:46Z,2,19:23,00:37,2,1,10.0,Toronto Maple Leafs,TOR
+197,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525512,2022020525,Faceoff,512,FACEOFF,Morgan Frost faceoff won against Auston Matthews,2022-12-22T20:36:32Z,2,19:23,00:37,2,1,4.0,Philadelphia Flyers,PHI
+198,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525514,2022020525,Shot,514,SHOT,James van Riemsdyk Tip-In saved by Ilya Samsonov,2022-12-22T20:36:39Z,2,19:31,00:29,2,1,4.0,Philadelphia Flyers,PHI
+199,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525513,2022020525,Giveaway,513,GIVEAWAY,Giveaway by Mitchell Marner,2022-12-22T20:36:43Z,2,19:35,00:25,2,1,10.0,Toronto Maple Leafs,TOR
+200,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525379,2022020525,Missed Shot,379,MISSED_SHOT,Morgan Frost Wide of Net Ilya Samsonov,2022-12-22T20:36:45Z,2,19:37,00:23,2,1,4.0,Philadelphia Flyers,PHI
+201,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525380,2022020525,Period End,380,PERIOD_END,End of 2nd Period,2022-12-22T20:37:08Z,2,20:00,00:00,2,1,,,
+202,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525383,2022020525,Period Official,383,PERIOD_OFFICIAL,Period Official,2022-12-22T20:53:57Z,2,20:00,00:00,2,1,,,
+203,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525384,2022020525,Period Ready,384,PERIOD_READY,Period Ready,2022-12-22T20:54:00Z,3,00:00,20:00,2,1,,,
+204,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525515,2022020525,Period Start,515,PERIOD_START,Period Start,2022-12-22T20:55:54Z,3,00:00,20:00,2,1,,,
+205,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525516,2022020525,Faceoff,516,FACEOFF,Auston Matthews faceoff won against Noah Cates,2022-12-22T20:55:54Z,3,00:00,20:00,2,1,10.0,Toronto Maple Leafs,TOR
+206,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525385,2022020525,Shot,385,SHOT,William Nylander Wrist Shot saved by Carter Hart,2022-12-22T20:56:10Z,3,00:16,19:44,2,1,10.0,Toronto Maple Leafs,TOR
+207,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525386,2022020525,Goal,386,GOAL,"Michael Bunting (9) Wrist Shot, assists: Auston Matthews (22), William Nylander (19)",2022-12-22T20:56:28Z,3,00:33,19:27,3,1,10.0,Toronto Maple Leafs,TOR
+208,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525517,2022020525,Faceoff,517,FACEOFF,John Tavares faceoff won against Morgan Frost,2022-12-22T20:57:12Z,3,00:33,19:27,3,1,10.0,Toronto Maple Leafs,TOR
+209,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525319,2022020525,Hit,319,HIT,Mitchell Marner hit James van Riemsdyk,2022-12-22T20:57:32Z,3,00:53,19:07,3,1,10.0,Toronto Maple Leafs,TOR
+210,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525518,2022020525,Takeaway,518,TAKEAWAY,Takeaway by Alexander Kerfoot,2022-12-22T20:57:45Z,3,01:06,18:54,3,1,10.0,Toronto Maple Leafs,TOR
+211,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525320,2022020525,Hit,320,HIT,James van Riemsdyk hit Alexander Kerfoot,2022-12-22T20:57:46Z,3,01:07,18:53,3,1,4.0,Philadelphia Flyers,PHI
+212,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525519,2022020525,Giveaway,519,GIVEAWAY,Giveaway by Morgan Frost,2022-12-22T20:57:51Z,3,01:12,18:48,3,1,4.0,Philadelphia Flyers,PHI
+213,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525321,2022020525,Hit,321,HIT,TJ Brodie hit Morgan Frost,2022-12-22T20:58:02Z,3,01:23,18:37,3,1,10.0,Toronto Maple Leafs,TOR
+214,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525322,2022020525,Hit,322,HIT,Justin Braun hit Mark Giordano,2022-12-22T20:58:12Z,3,01:33,18:27,3,1,4.0,Philadelphia Flyers,PHI
+215,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525520,2022020525,Takeaway,520,TAKEAWAY,Takeaway by Justin Holl,2022-12-22T20:58:18Z,3,01:39,18:21,3,1,10.0,Toronto Maple Leafs,TOR
+216,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525387,2022020525,Shot,387,SHOT,Jordie Benn Slap Shot saved by Carter Hart,2022-12-22T20:59:04Z,3,02:25,17:35,3,1,10.0,Toronto Maple Leafs,TOR
+217,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525521,2022020525,Giveaway,521,GIVEAWAY,Giveaway by Kevin Hayes,2022-12-22T20:59:07Z,3,02:28,17:32,3,1,4.0,Philadelphia Flyers,PHI
+218,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525388,2022020525,Blocked Shot,388,BLOCKED_SHOT,Timothy Liljegren shot blocked shot by Scott Laughton,2022-12-22T20:59:10Z,3,02:31,17:29,3,1,4.0,Philadelphia Flyers,PHI
+219,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525323,2022020525,Hit,323,HIT,Zach Aston-Reese hit Patrick Brown,2022-12-22T20:59:45Z,3,03:06,16:54,3,1,10.0,Toronto Maple Leafs,TOR
+220,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525522,2022020525,Giveaway,522,GIVEAWAY,Giveaway by Ivan Provorov,2022-12-22T20:59:50Z,3,03:11,16:49,3,1,4.0,Philadelphia Flyers,PHI
+221,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525324,2022020525,Hit,324,HIT,Nicolas Deslauriers hit Conor Timmins,2022-12-22T20:59:54Z,3,03:15,16:45,3,1,4.0,Philadelphia Flyers,PHI
+222,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525389,2022020525,Hit,389,HIT,Nicolas Deslauriers hit Joey Anderson,2022-12-22T21:00:04Z,3,03:25,16:35,3,1,4.0,Philadelphia Flyers,PHI
+223,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525523,2022020525,Takeaway,523,TAKEAWAY,Takeaway by William Nylander,2022-12-22T21:00:21Z,3,03:42,16:18,3,1,10.0,Toronto Maple Leafs,TOR
+224,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525325,2022020525,Hit,325,HIT,Justin Holl hit Joel Farabee,2022-12-22T21:00:39Z,3,04:00,16:00,3,1,10.0,Toronto Maple Leafs,TOR
+225,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525390,2022020525,Shot,390,SHOT,Joel Farabee Backhand saved by Ilya Samsonov,2022-12-22T21:00:53Z,3,04:14,15:46,3,1,4.0,Philadelphia Flyers,PHI
+226,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525391,2022020525,Blocked Shot,391,BLOCKED_SHOT,Joel Farabee shot blocked shot by Auston Matthews,2022-12-22T21:01:03Z,3,04:24,15:36,3,1,10.0,Toronto Maple Leafs,TOR
+227,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525392,2022020525,Shot,392,SHOT,Justin Braun Slap Shot saved by Ilya Samsonov,2022-12-22T21:01:06Z,3,04:27,15:33,3,1,4.0,Philadelphia Flyers,PHI
+228,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525326,2022020525,Stoppage,326,STOP,Goalie Stopped,2022-12-22T21:01:07Z,3,04:28,15:32,3,1,,,
+229,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525524,2022020525,Faceoff,524,FACEOFF,John Tavares faceoff won against Morgan Frost,2022-12-22T21:01:41Z,3,04:28,15:32,3,1,10.0,Toronto Maple Leafs,TOR
+230,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525327,2022020525,Hit,327,HIT,Tony DeAngelo hit Calle Jarnkrok,2022-12-22T21:01:53Z,3,04:40,15:20,3,1,4.0,Philadelphia Flyers,PHI
+231,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525328,2022020525,Hit,328,HIT,Calle Jarnkrok hit Tony DeAngelo,2022-12-22T21:02:00Z,3,04:47,15:13,3,1,10.0,Toronto Maple Leafs,TOR
+232,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525329,2022020525,Stoppage,329,STOP,Icing,2022-12-22T21:02:22Z,3,05:08,14:52,3,1,,,
+233,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525525,2022020525,Faceoff,525,FACEOFF,Kevin Hayes faceoff won against John Tavares,2022-12-22T21:02:54Z,3,05:08,14:52,3,1,4.0,Philadelphia Flyers,PHI
+234,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525394,2022020525,Blocked Shot,394,BLOCKED_SHOT,Travis Sanheim shot blocked shot by Jordie Benn,2022-12-22T21:02:59Z,3,05:13,14:47,3,1,10.0,Toronto Maple Leafs,TOR
+235,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525330,2022020525,Stoppage,330,STOP,Goalie Stopped,2022-12-22T21:03:02Z,3,05:15,14:45,3,1,,,
+236,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525393,2022020525,Shot,393,SHOT,Travis Sanheim Snap Shot saved by Ilya Samsonov,2022-12-22T21:03:02Z,3,05:15,14:45,3,1,4.0,Philadelphia Flyers,PHI
+237,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525526,2022020525,Faceoff,526,FACEOFF,David Kampf faceoff won against Scott Laughton,2022-12-22T21:03:34Z,3,05:15,14:45,3,1,10.0,Toronto Maple Leafs,TOR
+238,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525395,2022020525,Blocked Shot,395,BLOCKED_SHOT,Alexander Kerfoot shot blocked shot by Wade Allison,2022-12-22T21:04:10Z,3,05:51,14:09,3,1,4.0,Philadelphia Flyers,PHI
+239,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525396,2022020525,Missed Shot,396,MISSED_SHOT,Pierre Engvall Over Net Carter Hart,2022-12-22T21:04:21Z,3,06:02,13:58,3,1,10.0,Toronto Maple Leafs,TOR
+240,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525527,2022020525,Giveaway,527,GIVEAWAY,Giveaway by David Kampf,2022-12-22T21:04:24Z,3,06:05,13:55,3,1,10.0,Toronto Maple Leafs,TOR
+241,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525397,2022020525,Missed Shot,397,MISSED_SHOT,Joey Anderson Wide of Net Carter Hart,2022-12-22T21:04:36Z,3,06:17,13:43,3,1,10.0,Toronto Maple Leafs,TOR
+242,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525409,2022020525,Blocked Shot,409,BLOCKED_SHOT,Joey Anderson shot blocked shot by Rasmus Ristolainen,2022-12-22T21:04:40Z,3,06:21,13:39,3,1,4.0,Philadelphia Flyers,PHI
+243,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525528,2022020525,Takeaway,528,TAKEAWAY,Takeaway by Zach Aston-Reese,2022-12-22T21:05:06Z,3,06:47,13:13,3,1,10.0,Toronto Maple Leafs,TOR
+244,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525331,2022020525,Hit,331,HIT,Nicolas Deslauriers hit Timothy Liljegren,2022-12-22T21:05:10Z,3,06:51,13:09,3,1,4.0,Philadelphia Flyers,PHI
+245,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525332,2022020525,Stoppage,332,STOP,Offside,2022-12-22T21:05:11Z,3,06:52,13:08,3,1,,,
+246,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525529,2022020525,Faceoff,529,FACEOFF,Auston Matthews faceoff won against Morgan Frost,2022-12-22T21:07:50Z,3,06:52,13:08,3,1,10.0,Toronto Maple Leafs,TOR
+247,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525530,2022020525,Takeaway,530,TAKEAWAY,Takeaway by Auston Matthews,2022-12-22T21:08:09Z,3,07:11,12:49,3,1,10.0,Toronto Maple Leafs,TOR
+248,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525398,2022020525,Missed Shot,398,MISSED_SHOT,William Nylander Wide of Net Carter Hart,2022-12-22T21:08:12Z,3,07:14,12:46,3,1,10.0,Toronto Maple Leafs,TOR
+249,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525799,2022020525,Penalty,799,PENALTY,Jordie Benn Interference against Travis Konecny,2022-12-22T21:08:19Z,3,07:21,12:39,3,1,10.0,Toronto Maple Leafs,TOR
+250,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525531,2022020525,Faceoff,531,FACEOFF,Morgan Frost faceoff won against David Kampf,2022-12-22T21:08:58Z,3,07:21,12:39,3,1,4.0,Philadelphia Flyers,PHI
+251,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525399,2022020525,Missed Shot,399,MISSED_SHOT,Morgan Frost Hit Crossbar Ilya Samsonov,2022-12-22T21:09:37Z,3,07:59,12:01,3,1,4.0,Philadelphia Flyers,PHI
+252,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525911,2022020525,Penalty,911,PENALTY,Mark Giordano Holding against Noah Cates,2022-12-22T21:09:58Z,3,08:20,11:40,3,1,10.0,Toronto Maple Leafs,TOR
+253,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525532,2022020525,Faceoff,532,FACEOFF,Morgan Frost faceoff won against David Kampf,2022-12-22T21:10:46Z,3,08:20,11:40,3,1,4.0,Philadelphia Flyers,PHI
+254,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525400,2022020525,Shot,400,SHOT,TJ Brodie Wrist Shot saved by Carter Hart,2022-12-22T21:11:45Z,3,09:19,10:41,3,1,10.0,Toronto Maple Leafs,TOR
+255,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525410,2022020525,Shot,410,SHOT,Owen Tippett Deflected saved by Ilya Samsonov,2022-12-22T21:12:09Z,3,09:43,10:17,3,1,4.0,Philadelphia Flyers,PHI
+256,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525335,2022020525,Stoppage,335,STOP,Goalie Stopped,2022-12-22T21:12:11Z,3,09:46,10:14,3,1,,,
+257,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525701,2022020525,Shot,701,SHOT,Noah Cates Poke saved by Ilya Samsonov,2022-12-22T21:12:11Z,3,09:46,10:14,3,1,4.0,Philadelphia Flyers,PHI
+258,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525533,2022020525,Faceoff,533,FACEOFF,David Kampf faceoff won against Scott Laughton,2022-12-22T21:12:44Z,3,09:46,10:14,3,1,10.0,Toronto Maple Leafs,TOR
+259,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525702,2022020525,Shot,702,SHOT,TJ Brodie Wrist Shot saved by Carter Hart,2022-12-22T21:12:49Z,3,09:51,10:09,3,1,10.0,Toronto Maple Leafs,TOR
+260,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525336,2022020525,Stoppage,336,STOP,Puck in Crowd,2022-12-22T21:13:06Z,3,10:08,09:52,3,1,,,
+261,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525534,2022020525,Faceoff,534,FACEOFF,Pontus Holmberg faceoff won against Noah Cates,2022-12-22T21:13:38Z,3,10:08,09:52,3,1,10.0,Toronto Maple Leafs,TOR
+262,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525703,2022020525,Shot,703,SHOT,Pontus Holmberg Wrist Shot saved by Carter Hart,2022-12-22T21:14:20Z,3,10:50,09:10,3,1,10.0,Toronto Maple Leafs,TOR
+263,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525337,2022020525,Hit,337,HIT,Travis Sanheim hit Zach Aston-Reese,2022-12-22T21:14:35Z,3,11:05,08:55,3,1,4.0,Philadelphia Flyers,PHI
+264,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525338,2022020525,Hit,338,HIT,Travis Sanheim hit Pontus Holmberg,2022-12-22T21:14:47Z,3,11:17,08:43,3,1,4.0,Philadelphia Flyers,PHI
+265,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525535,2022020525,Takeaway,535,TAKEAWAY,Takeaway by William Nylander,2022-12-22T21:14:54Z,3,11:24,08:36,3,1,10.0,Toronto Maple Leafs,TOR
+266,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525704,2022020525,Goal,704,GOAL,"William Nylander (20) Backhand, assists: Mark Giordano (9), Justin Holl (3)",2022-12-22T21:15:09Z,3,11:39,08:21,4,1,10.0,Toronto Maple Leafs,TOR
+267,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525536,2022020525,Faceoff,536,FACEOFF,Morgan Frost faceoff won against David Kampf,2022-12-22T21:15:53Z,3,11:39,08:21,4,1,4.0,Philadelphia Flyers,PHI
+268,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525705,2022020525,Goal,705,GOAL,"Morgan Frost (7) Wrist Shot, assists: Tony DeAngelo (11), Travis Konecny (15)",2022-12-22T21:16:15Z,3,12:01,07:59,4,2,4.0,Philadelphia Flyers,PHI
+269,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525537,2022020525,Faceoff,537,FACEOFF,Noah Cates faceoff won against John Tavares,2022-12-22T21:16:57Z,3,12:01,07:59,4,2,4.0,Philadelphia Flyers,PHI
+270,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525339,2022020525,Hit,339,HIT,Noah Cates hit Jordie Benn,2022-12-22T21:17:22Z,3,12:26,07:34,4,2,4.0,Philadelphia Flyers,PHI
+271,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525340,2022020525,Hit,340,HIT,Scott Laughton hit Mark Giordano,2022-12-22T21:17:38Z,3,12:42,07:18,4,2,4.0,Philadelphia Flyers,PHI
+272,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525538,2022020525,Takeaway,538,TAKEAWAY,Takeaway by Joey Anderson,2022-12-22T21:17:51Z,3,12:55,07:05,4,2,10.0,Toronto Maple Leafs,TOR
+273,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525706,2022020525,Shot,706,SHOT,Pontus Holmberg Wrist Shot saved by Carter Hart,2022-12-22T21:17:54Z,3,12:58,07:02,4,2,10.0,Toronto Maple Leafs,TOR
+274,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525707,2022020525,Goal,707,GOAL,"Joel Farabee (6) Wrist Shot, assists: Travis Konecny (16)",2022-12-22T21:18:20Z,3,13:24,06:36,4,3,4.0,Philadelphia Flyers,PHI
+275,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525539,2022020525,Faceoff,539,FACEOFF,Auston Matthews faceoff won against Noah Cates,2022-12-22T21:18:59Z,3,13:24,06:36,4,3,10.0,Toronto Maple Leafs,TOR
+276,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525540,2022020525,Giveaway,540,GIVEAWAY,Giveaway by Conor Timmins,2022-12-22T21:19:36Z,3,14:01,05:59,4,3,10.0,Toronto Maple Leafs,TOR
+277,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525341,2022020525,Stoppage,341,STOP,Goalie Stopped,2022-12-22T21:19:38Z,3,14:02,05:58,4,3,,,
+278,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525708,2022020525,Shot,708,SHOT,Owen Tippett Wrist Shot saved by Ilya Samsonov,2022-12-22T21:19:38Z,3,14:02,05:58,4,3,4.0,Philadelphia Flyers,PHI
+279,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525541,2022020525,Faceoff,541,FACEOFF,Auston Matthews faceoff won against Morgan Frost,2022-12-22T21:21:56Z,3,14:02,05:58,4,3,10.0,Toronto Maple Leafs,TOR
+280,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525342,2022020525,Stoppage,342,STOP,Icing,2022-12-22T21:22:04Z,3,14:09,05:51,4,3,,,
+281,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525542,2022020525,Faceoff,542,FACEOFF,Auston Matthews faceoff won against Morgan Frost,2022-12-22T21:22:24Z,3,14:09,05:51,4,3,10.0,Toronto Maple Leafs,TOR
+282,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525709,2022020525,Missed Shot,709,MISSED_SHOT,Joel Farabee Wide of Net Ilya Samsonov,2022-12-22T21:22:49Z,3,14:34,05:26,4,3,4.0,Philadelphia Flyers,PHI
+283,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525710,2022020525,Shot,710,SHOT,Morgan Frost Wrist Shot saved by Ilya Samsonov,2022-12-22T21:22:50Z,3,14:35,05:25,4,3,4.0,Philadelphia Flyers,PHI
+284,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525343,2022020525,Stoppage,343,STOP,Icing,2022-12-22T21:23:05Z,3,14:49,05:11,4,3,,,
+285,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525544,2022020525,Faceoff,544,FACEOFF,David Kampf faceoff won against Kevin Hayes,2022-12-22T21:23:33Z,3,14:49,05:11,4,3,10.0,Toronto Maple Leafs,TOR
+286,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525344,2022020525,Stoppage,344,STOP,Icing,2022-12-22T21:23:47Z,3,15:03,04:57,4,3,,,
+287,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525545,2022020525,Faceoff,545,FACEOFF,Kevin Hayes faceoff won against David Kampf,2022-12-22T21:24:23Z,3,15:03,04:57,4,3,4.0,Philadelphia Flyers,PHI
+288,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525345,2022020525,Hit,345,HIT,Pierre Engvall hit Travis Sanheim,2022-12-22T21:24:54Z,3,15:34,04:26,4,3,10.0,Toronto Maple Leafs,TOR
+289,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525711,2022020525,Blocked Shot,711,BLOCKED_SHOT,Owen Tippett shot blocked shot by Jordie Benn,2022-12-22T21:25:52Z,3,16:32,03:28,4,3,10.0,Toronto Maple Leafs,TOR
+290,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525346,2022020525,Hit,346,HIT,Jordie Benn hit James van Riemsdyk,2022-12-22T21:26:11Z,3,16:51,03:09,4,3,10.0,Toronto Maple Leafs,TOR
+291,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525712,2022020525,Blocked Shot,712,BLOCKED_SHOT,Owen Tippett shot blocked shot by William Nylander,2022-12-22T21:26:26Z,3,17:06,02:54,4,3,10.0,Toronto Maple Leafs,TOR
+292,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525546,2022020525,Takeaway,546,TAKEAWAY,Takeaway by Alexander Kerfoot,2022-12-22T21:26:39Z,3,17:19,02:41,4,3,10.0,Toronto Maple Leafs,TOR
+293,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525713,2022020525,Shot,713,SHOT,Morgan Frost Wrist Shot saved by Ilya Samsonov,2022-12-22T21:26:57Z,3,17:37,02:23,4,3,4.0,Philadelphia Flyers,PHI
+294,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525347,2022020525,Hit,347,HIT,Joel Farabee hit Mark Giordano,2022-12-22T21:27:01Z,3,17:41,02:19,4,3,4.0,Philadelphia Flyers,PHI
+295,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525714,2022020525,Missed Shot,714,MISSED_SHOT,David Kampf Wide of Net,2022-12-22T21:27:12Z,3,17:52,02:08,4,3,10.0,Toronto Maple Leafs,TOR
+296,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525715,2022020525,Missed Shot,715,MISSED_SHOT,Timothy Liljegren Wide of Net,2022-12-22T21:27:27Z,3,18:07,01:53,4,3,10.0,Toronto Maple Leafs,TOR
+297,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525348,2022020525,Hit,348,HIT,Timothy Liljegren hit Kevin Hayes,2022-12-22T21:27:36Z,3,18:16,01:44,4,3,10.0,Toronto Maple Leafs,TOR
+298,10,4,Toronto Maple Leafs,Philadelphia Flyers,20220205251018,2022020525,Penalty,1018,PENALTY,Timothy Liljegren Interference against Owen Tippett,2022-12-22T21:28:09Z,3,18:50,01:10,4,3,10.0,Toronto Maple Leafs,TOR
+299,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525547,2022020525,Faceoff,547,FACEOFF,Morgan Frost faceoff won against David Kampf,2022-12-22T21:30:05Z,3,18:50,01:10,4,3,4.0,Philadelphia Flyers,PHI
+300,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525716,2022020525,Blocked Shot,716,BLOCKED_SHOT,Kevin Hayes shot blocked shot by David Kampf,2022-12-22T21:30:15Z,3,19:00,01:00,4,3,10.0,Toronto Maple Leafs,TOR
+301,10,4,Toronto Maple Leafs,Philadelphia Flyers,20220205251022,2022020525,Penalty,1022,PENALTY,Joel Farabee Roughing against TJ Brodie,2022-12-22T21:30:31Z,3,19:14,00:46,4,3,4.0,Philadelphia Flyers,PHI
+302,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525548,2022020525,Faceoff,548,FACEOFF,David Kampf faceoff won against Morgan Frost,2022-12-22T21:31:41Z,3,19:14,00:46,4,3,10.0,Toronto Maple Leafs,TOR
+303,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525801,2022020525,Hit,801,HIT,Justin Holl hit Morgan Frost,2022-12-22T21:32:01Z,3,19:35,00:25,4,3,10.0,Toronto Maple Leafs,TOR
+304,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525717,2022020525,Shot,717,SHOT,Tony DeAngelo Slap Shot saved by Ilya Samsonov,2022-12-22T21:32:21Z,3,19:55,00:05,4,3,4.0,Philadelphia Flyers,PHI
+305,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525718,2022020525,Blocked Shot,718,BLOCKED_SHOT,Travis Konecny shot blocked shot by David Kampf,2022-12-22T21:32:25Z,3,19:59,00:01,4,3,10.0,Toronto Maple Leafs,TOR
+306,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525719,2022020525,Period End,719,PERIOD_END,End of 3rd Period,2022-12-22T21:32:26Z,3,20:00,00:00,4,3,,,
+307,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525722,2022020525,Period Official,722,PERIOD_OFFICIAL,Period Official,2022-12-22T21:33:03Z,3,20:00,00:00,4,3,,,
+308,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525723,2022020525,Game End,723,GAME_END,Game End,2022-12-22T21:33:06Z,3,20:00,00:00,4,3,,,
+309,10,4,Toronto Maple Leafs,Philadelphia Flyers,2022020525724,2022020525,Game Official,724,GAME_OFFICIAL,Game Official,2022-12-22T21:57:14Z,3,20:00,00:00,4,3,,,

@@ -1,0 +1,272 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,7,6,Buffalo Sabres,Boston Bruins,20220211081,2022021108,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-03-19T16:17:48Z,1,00:00,20:00,0,0,,,
+1,7,6,Buffalo Sabres,Boston Bruins,20220211085,2022021108,Period Ready,5,PERIOD_READY,Period Ready,2023-03-19T17:08:26Z,1,00:00,20:00,0,0,,,
+2,7,6,Buffalo Sabres,Boston Bruins,2022021108101,2022021108,Period Start,101,PERIOD_START,Period Start,2023-03-19T17:08:34Z,1,00:00,20:00,0,0,,,
+3,7,6,Buffalo Sabres,Boston Bruins,2022021108102,2022021108,Faceoff,102,FACEOFF,Patrice Bergeron faceoff won against Peyton Krebs,2023-03-19T17:08:34Z,1,00:00,20:00,0,0,6.0,Boston Bruins,BOS
+4,7,6,Buffalo Sabres,Boston Bruins,2022021108151,2022021108,Shot,151,SHOT,Jake DeBrusk Snap Shot saved by Ukko-Pekka Luukkonen,2023-03-19T17:08:46Z,1,00:12,19:48,0,0,6.0,Boston Bruins,BOS
+5,7,6,Buffalo Sabres,Boston Bruins,2022021108152,2022021108,Goal,152,GOAL,"Patrice Bergeron (26) Snap Shot, assists: Brad Marchand (40), Jake DeBrusk (20)",2023-03-19T17:08:48Z,1,00:15,19:45,0,1,6.0,Boston Bruins,BOS
+6,7,6,Buffalo Sabres,Boston Bruins,2022021108103,2022021108,Faceoff,103,FACEOFF,Charlie Coyle faceoff won against Tage Thompson,2023-03-19T17:09:40Z,1,00:15,19:45,0,1,6.0,Boston Bruins,BOS
+7,7,6,Buffalo Sabres,Boston Bruins,2022021108170,2022021108,Blocked Shot,170,BLOCKED_SHOT,Charlie McAvoy shot blocked shot by Tage Thompson,2023-03-19T17:10:13Z,1,00:48,19:12,0,1,7.0,Buffalo Sabres,BUF
+8,7,6,Buffalo Sabres,Boston Bruins,2022021108153,2022021108,Missed Shot,153,MISSED_SHOT,Dylan Cozens Wide of Net Jeremy Swayman,2023-03-19T17:11:10Z,1,01:45,18:15,0,1,7.0,Buffalo Sabres,BUF
+9,7,6,Buffalo Sabres,Boston Bruins,2022021108154,2022021108,Blocked Shot,154,BLOCKED_SHOT,Casey Mittelstadt shot blocked shot by Jakub Zboril,2023-03-19T17:11:29Z,1,02:04,17:56,0,1,6.0,Boston Bruins,BOS
+10,7,6,Buffalo Sabres,Boston Bruins,2022021108155,2022021108,Shot,155,SHOT,Rasmus Dahlin Wrist Shot saved by Jeremy Swayman,2023-03-19T17:11:41Z,1,02:16,17:44,0,1,7.0,Buffalo Sabres,BUF
+11,7,6,Buffalo Sabres,Boston Bruins,20220211088,2022021108,Stoppage,8,STOP,Goalie Stopped,2023-03-19T17:11:42Z,1,02:17,17:43,0,1,,,
+12,7,6,Buffalo Sabres,Boston Bruins,2022021108156,2022021108,Shot,156,SHOT,Jeff Skinner Wrist Shot saved by Jeremy Swayman,2023-03-19T17:11:42Z,1,02:17,17:43,0,1,7.0,Buffalo Sabres,BUF
+13,7,6,Buffalo Sabres,Boston Bruins,2022021108104,2022021108,Faceoff,104,FACEOFF,Tomas Nosek faceoff won against Casey Mittelstadt,2023-03-19T17:12:10Z,1,02:17,17:43,0,1,6.0,Boston Bruins,BOS
+14,7,6,Buffalo Sabres,Boston Bruins,20220211089,2022021108,Stoppage,9,STOP,Icing,2023-03-19T17:12:27Z,1,02:34,17:26,0,1,,,
+15,7,6,Buffalo Sabres,Boston Bruins,2022021108105,2022021108,Faceoff,105,FACEOFF,Peyton Krebs faceoff won against Tomas Nosek,2023-03-19T17:12:59Z,1,02:34,17:26,0,1,7.0,Buffalo Sabres,BUF
+16,7,6,Buffalo Sabres,Boston Bruins,2022021108251,2022021108,Takeaway,251,TAKEAWAY,Takeaway by Garnet Hathaway,2023-03-19T17:13:07Z,1,02:41,17:19,0,1,6.0,Boston Bruins,BOS
+17,7,6,Buffalo Sabres,Boston Bruins,2022021108252,2022021108,Hit,252,HIT,Henri Jokiharju hit Charlie Coyle,2023-03-19T17:13:38Z,1,03:13,16:47,0,1,7.0,Buffalo Sabres,BUF
+18,7,6,Buffalo Sabres,Boston Bruins,2022021108157,2022021108,Missed Shot,157,MISSED_SHOT,Trent Frederic Wide of Net Ukko-Pekka Luukkonen,2023-03-19T17:13:40Z,1,03:15,16:45,0,1,6.0,Boston Bruins,BOS
+19,7,6,Buffalo Sabres,Boston Bruins,2022021108253,2022021108,Hit,253,HIT,Charlie McAvoy hit Peyton Krebs,2023-03-19T17:13:55Z,1,03:30,16:30,0,1,6.0,Boston Bruins,BOS
+20,7,6,Buffalo Sabres,Boston Bruins,2022021108254,2022021108,Hit,254,HIT,Jakub Zboril hit Tage Thompson,2023-03-19T17:14:16Z,1,03:51,16:09,0,1,6.0,Boston Bruins,BOS
+21,7,6,Buffalo Sabres,Boston Bruins,2022021108158,2022021108,Shot,158,SHOT,Rasmus Dahlin Slap Shot saved by Jeremy Swayman,2023-03-19T17:14:18Z,1,03:53,16:07,0,1,7.0,Buffalo Sabres,BUF
+22,7,6,Buffalo Sabres,Boston Bruins,202202110810,2022021108,Stoppage,10,STOP,Goalie Stopped,2023-03-19T17:14:18Z,1,03:54,16:06,0,1,,,
+23,7,6,Buffalo Sabres,Boston Bruins,2022021108106,2022021108,Faceoff,106,FACEOFF,Patrice Bergeron faceoff won against Jordan Greenway,2023-03-19T17:14:42Z,1,03:54,16:06,0,1,6.0,Boston Bruins,BOS
+24,7,6,Buffalo Sabres,Boston Bruins,202202110811,2022021108,Stoppage,11,STOP,Puck Frozen,2023-03-19T17:15:18Z,1,04:30,15:30,0,1,,,
+25,7,6,Buffalo Sabres,Boston Bruins,2022021108107,2022021108,Faceoff,107,FACEOFF,Pavel Zacha faceoff won against Dylan Cozens,2023-03-19T17:15:43Z,1,04:30,15:30,0,1,6.0,Boston Bruins,BOS
+26,7,6,Buffalo Sabres,Boston Bruins,2022021108159,2022021108,Shot,159,SHOT,Hampus Lindholm Snap Shot saved by Ukko-Pekka Luukkonen,2023-03-19T17:15:54Z,1,04:41,15:19,0,1,6.0,Boston Bruins,BOS
+27,7,6,Buffalo Sabres,Boston Bruins,2022021108255,2022021108,Giveaway,255,GIVEAWAY,Giveaway by Brandon Carlo,2023-03-19T17:16:16Z,1,05:03,14:57,0,1,6.0,Boston Bruins,BOS
+28,7,6,Buffalo Sabres,Boston Bruins,2022021108256,2022021108,Hit,256,HIT,Garnet Hathaway hit Henri Jokiharju,2023-03-19T17:17:06Z,1,05:53,14:07,0,1,6.0,Boston Bruins,BOS
+29,7,6,Buffalo Sabres,Boston Bruins,2022021108160,2022021108,Shot,160,SHOT,Zemgus Girgensons Wrist Shot saved by Jeremy Swayman,2023-03-19T17:17:39Z,1,06:26,13:34,0,1,7.0,Buffalo Sabres,BUF
+30,7,6,Buffalo Sabres,Boston Bruins,2022021108257,2022021108,Takeaway,257,TAKEAWAY,Takeaway by Zemgus Girgensons,2023-03-19T17:17:40Z,1,06:27,13:33,0,1,7.0,Buffalo Sabres,BUF
+31,7,6,Buffalo Sabres,Boston Bruins,2022021108161,2022021108,Blocked Shot,161,BLOCKED_SHOT,Zemgus Girgensons shot blocked shot by Jakub Zboril,2023-03-19T17:17:45Z,1,06:32,13:28,0,1,6.0,Boston Bruins,BOS
+32,7,6,Buffalo Sabres,Boston Bruins,2022021108162,2022021108,Shot,162,SHOT,Zemgus Girgensons Wrist Shot saved by Jeremy Swayman,2023-03-19T17:18:06Z,1,06:53,13:07,0,1,7.0,Buffalo Sabres,BUF
+33,7,6,Buffalo Sabres,Boston Bruins,2022021108258,2022021108,Hit,258,HIT,Brandon Carlo hit Jordan Greenway,2023-03-19T17:18:30Z,1,07:17,12:43,0,1,6.0,Boston Bruins,BOS
+34,7,6,Buffalo Sabres,Boston Bruins,2022021108163,2022021108,Missed Shot,163,MISSED_SHOT,David Pastrnak Wide of Net Ukko-Pekka Luukkonen,2023-03-19T17:19:17Z,1,08:04,11:56,0,1,6.0,Boston Bruins,BOS
+35,7,6,Buffalo Sabres,Boston Bruins,2022021108259,2022021108,Takeaway,259,TAKEAWAY,Takeaway by Ilya Lyubushkin,2023-03-19T17:19:29Z,1,08:16,11:44,0,1,7.0,Buffalo Sabres,BUF
+36,7,6,Buffalo Sabres,Boston Bruins,2022021108260,2022021108,Hit,260,HIT,Jakub Zboril hit Victor Olofsson,2023-03-19T17:19:44Z,1,08:31,11:29,0,1,6.0,Boston Bruins,BOS
+37,7,6,Buffalo Sabres,Boston Bruins,2022021108164,2022021108,Goal,164,GOAL,"Garnet Hathaway (11) Wrist Shot, assists: Jakub Zboril (1), Connor Clifton (13)",2023-03-19T17:20:14Z,1,09:01,10:59,0,2,6.0,Boston Bruins,BOS
+38,7,6,Buffalo Sabres,Boston Bruins,2022021108108,2022021108,Faceoff,108,FACEOFF,Peyton Krebs faceoff won against Tomas Nosek,2023-03-19T17:20:55Z,1,09:01,10:59,0,2,7.0,Buffalo Sabres,BUF
+39,7,6,Buffalo Sabres,Boston Bruins,2022021108261,2022021108,Hit,261,HIT,Tomas Nosek hit Peyton Krebs,2023-03-19T17:21:18Z,1,09:24,10:36,0,2,6.0,Boston Bruins,BOS
+40,7,6,Buffalo Sabres,Boston Bruins,2022021108262,2022021108,Hit,262,HIT,Zemgus Girgensons hit Jakub Lauko,2023-03-19T17:21:20Z,1,09:26,10:34,0,2,7.0,Buffalo Sabres,BUF
+41,7,6,Buffalo Sabres,Boston Bruins,2022021108263,2022021108,Hit,263,HIT,Tomas Nosek hit Peyton Krebs,2023-03-19T17:21:22Z,1,09:28,10:32,0,2,6.0,Boston Bruins,BOS
+42,7,6,Buffalo Sabres,Boston Bruins,202202110812,2022021108,Stoppage,12,STOP,Referee or Linesman,2023-03-19T17:21:30Z,1,09:35,10:25,0,2,,,
+43,7,6,Buffalo Sabres,Boston Bruins,2022021108238,2022021108,Penalty,238,PENALTY,Kyle Okposo Roughing against Tomas Nosek,2023-03-19T17:21:30Z,1,09:35,10:25,0,2,7.0,Buffalo Sabres,BUF
+44,7,6,Buffalo Sabres,Boston Bruins,2022021108241,2022021108,Penalty,241,PENALTY,Tomas Nosek Roughing against Kyle Okposo,2023-03-19T17:21:30Z,1,09:35,10:25,0,2,6.0,Boston Bruins,BOS
+45,7,6,Buffalo Sabres,Boston Bruins,2022021108109,2022021108,Faceoff,109,FACEOFF,Tage Thompson faceoff won against Patrice Bergeron,2023-03-19T17:24:01Z,1,09:35,10:25,0,2,7.0,Buffalo Sabres,BUF
+46,7,6,Buffalo Sabres,Boston Bruins,2022021108165,2022021108,Shot,165,SHOT,Rasmus Dahlin Slap Shot saved by Jeremy Swayman,2023-03-19T17:24:07Z,1,09:41,10:19,0,2,7.0,Buffalo Sabres,BUF
+47,7,6,Buffalo Sabres,Boston Bruins,2022021108264,2022021108,Giveaway,264,GIVEAWAY,Giveaway by Rasmus Dahlin,2023-03-19T17:24:29Z,1,10:03,09:57,0,2,7.0,Buffalo Sabres,BUF
+48,7,6,Buffalo Sabres,Boston Bruins,2022021108166,2022021108,Shot,166,SHOT,Patrice Bergeron Backhand saved by Ukko-Pekka Luukkonen,2023-03-19T17:24:32Z,1,10:06,09:54,0,2,6.0,Boston Bruins,BOS
+49,7,6,Buffalo Sabres,Boston Bruins,202202110813,2022021108,Stoppage,13,STOP,Goalie Stopped,2023-03-19T17:24:33Z,1,10:07,09:53,0,2,,,
+50,7,6,Buffalo Sabres,Boston Bruins,2022021108110,2022021108,Faceoff,110,FACEOFF,Pavel Zacha faceoff won against Jack Quinn,2023-03-19T17:25:05Z,1,10:07,09:53,0,2,6.0,Boston Bruins,BOS
+51,7,6,Buffalo Sabres,Boston Bruins,2022021108265,2022021108,Hit,265,HIT,Jack Quinn hit Charlie McAvoy,2023-03-19T17:25:33Z,1,10:35,09:25,0,2,7.0,Buffalo Sabres,BUF
+52,7,6,Buffalo Sabres,Boston Bruins,2022021108167,2022021108,Shot,167,SHOT,Victor Olofsson Wrist Shot saved by Jeremy Swayman,2023-03-19T17:26:24Z,1,11:26,08:34,0,2,7.0,Buffalo Sabres,BUF
+53,7,6,Buffalo Sabres,Boston Bruins,2022021108168,2022021108,Goal,168,GOAL,"Jake DeBrusk (22) Snap Shot, assists: Charlie Coyle (27), Connor Clifton (14)",2023-03-19T17:26:38Z,1,11:40,08:20,0,3,6.0,Boston Bruins,BOS
+54,7,6,Buffalo Sabres,Boston Bruins,2022021108111,2022021108,Faceoff,111,FACEOFF,Tomas Nosek faceoff won against Peyton Krebs,2023-03-19T17:27:21Z,1,11:40,08:20,0,3,6.0,Boston Bruins,BOS
+55,7,6,Buffalo Sabres,Boston Bruins,202202110814,2022021108,Stoppage,14,STOP,Icing,2023-03-19T17:28:06Z,1,12:26,07:34,0,3,,,
+56,7,6,Buffalo Sabres,Boston Bruins,2022021108113,2022021108,Faceoff,113,FACEOFF,Jeff Skinner faceoff won against Tomas Nosek,2023-03-19T17:28:43Z,1,12:26,07:34,0,3,7.0,Buffalo Sabres,BUF
+57,7,6,Buffalo Sabres,Boston Bruins,202202110815,2022021108,Stoppage,15,STOP,Icing,2023-03-19T17:28:59Z,1,12:42,07:18,0,3,,,
+58,7,6,Buffalo Sabres,Boston Bruins,2022021108114,2022021108,Faceoff,114,FACEOFF,Jeff Skinner faceoff won against Tomas Nosek,2023-03-19T17:29:21Z,1,12:42,07:18,0,3,7.0,Buffalo Sabres,BUF
+59,7,6,Buffalo Sabres,Boston Bruins,2022021108169,2022021108,Missed Shot,169,MISSED_SHOT,Tage Thompson Wide of Net Jeremy Swayman,2023-03-19T17:29:24Z,1,12:45,07:15,0,3,7.0,Buffalo Sabres,BUF
+60,7,6,Buffalo Sabres,Boston Bruins,2022021108266,2022021108,Hit,266,HIT,Henri Jokiharju hit Jakub Lauko,2023-03-19T17:29:29Z,1,12:50,07:10,0,3,7.0,Buffalo Sabres,BUF
+61,7,6,Buffalo Sabres,Boston Bruins,2022021108267,2022021108,Hit,267,HIT,Alex Tuch hit Garnet Hathaway,2023-03-19T17:29:39Z,1,13:00,07:00,0,3,7.0,Buffalo Sabres,BUF
+62,7,6,Buffalo Sabres,Boston Bruins,2022021108270,2022021108,Stoppage,270,STOP,Referee or Linesman,2023-03-19T17:29:44Z,1,13:05,06:55,0,3,,,
+63,7,6,Buffalo Sabres,Boston Bruins,2022021108312,2022021108,Penalty,312,PENALTY,Garnet Hathaway Slashing against Alex Tuch,2023-03-19T17:29:44Z,1,13:05,06:55,0,3,6.0,Boston Bruins,BOS
+64,7,6,Buffalo Sabres,Boston Bruins,2022021108115,2022021108,Faceoff,115,FACEOFF,Alex Tuch faceoff won against Tomas Nosek,2023-03-19T17:32:05Z,1,13:05,06:55,0,3,7.0,Buffalo Sabres,BUF
+65,7,6,Buffalo Sabres,Boston Bruins,2022021108171,2022021108,Shot,171,SHOT,Rasmus Dahlin Slap Shot saved by Jeremy Swayman,2023-03-19T17:32:13Z,1,13:13,06:47,0,3,7.0,Buffalo Sabres,BUF
+66,7,6,Buffalo Sabres,Boston Bruins,2022021108172,2022021108,Shot,172,SHOT,Rasmus Dahlin Wrist Shot saved by Jeremy Swayman,2023-03-19T17:32:24Z,1,13:24,06:36,0,3,7.0,Buffalo Sabres,BUF
+67,7,6,Buffalo Sabres,Boston Bruins,2022021108268,2022021108,Giveaway,268,GIVEAWAY,Giveaway by Brandon Carlo,2023-03-19T17:32:27Z,1,13:27,06:33,0,3,6.0,Boston Bruins,BOS
+68,7,6,Buffalo Sabres,Boston Bruins,2022021108269,2022021108,Giveaway,269,GIVEAWAY,Giveaway by Tage Thompson,2023-03-19T17:32:38Z,1,13:38,06:22,0,3,7.0,Buffalo Sabres,BUF
+69,7,6,Buffalo Sabres,Boston Bruins,2022021108173,2022021108,Shot,173,SHOT,Jack Quinn Wrist Shot saved by Jeremy Swayman,2023-03-19T17:34:06Z,1,15:06,04:54,0,3,7.0,Buffalo Sabres,BUF
+70,7,6,Buffalo Sabres,Boston Bruins,202202110816,2022021108,Stoppage,16,STOP,Goalie Stopped,2023-03-19T17:34:06Z,1,15:07,04:53,0,3,,,
+71,7,6,Buffalo Sabres,Boston Bruins,2022021108116,2022021108,Faceoff,116,FACEOFF,Charlie Coyle faceoff won against Peyton Krebs,2023-03-19T17:36:20Z,1,15:07,04:53,0,3,6.0,Boston Bruins,BOS
+72,7,6,Buffalo Sabres,Boston Bruins,2022021108174,2022021108,Blocked Shot,174,BLOCKED_SHOT,Ilya Lyubushkin shot blocked shot by Connor Clifton,2023-03-19T17:36:27Z,1,15:14,04:46,0,3,6.0,Boston Bruins,BOS
+73,7,6,Buffalo Sabres,Boston Bruins,2022021108175,2022021108,Blocked Shot,175,BLOCKED_SHOT,Riley Stillman shot blocked shot by Matt Grzelcyk,2023-03-19T17:36:32Z,1,15:19,04:41,0,3,6.0,Boston Bruins,BOS
+74,7,6,Buffalo Sabres,Boston Bruins,202202110817,2022021108,Stoppage,17,STOP,Offside,2023-03-19T17:36:48Z,1,15:35,04:25,0,3,,,
+75,7,6,Buffalo Sabres,Boston Bruins,2022021108117,2022021108,Faceoff,117,FACEOFF,Tage Thompson faceoff won against Pavel Zacha,2023-03-19T17:37:46Z,1,15:35,04:25,0,3,7.0,Buffalo Sabres,BUF
+76,7,6,Buffalo Sabres,Boston Bruins,2022021108271,2022021108,Hit,271,HIT,Jordan Greenway hit Brandon Carlo,2023-03-19T17:38:21Z,1,16:10,03:50,0,3,7.0,Buffalo Sabres,BUF
+77,7,6,Buffalo Sabres,Boston Bruins,2022021108272,2022021108,Giveaway,272,GIVEAWAY,Giveaway by David Pastrnak,2023-03-19T17:38:31Z,1,16:20,03:40,0,3,6.0,Boston Bruins,BOS
+78,7,6,Buffalo Sabres,Boston Bruins,2022021108176,2022021108,Shot,176,SHOT,Jake DeBrusk Wrist Shot saved by Ukko-Pekka Luukkonen,2023-03-19T17:38:48Z,1,16:37,03:23,0,3,6.0,Boston Bruins,BOS
+79,7,6,Buffalo Sabres,Boston Bruins,2022021108344,2022021108,Penalty,344,PENALTY,Patrice Bergeron Holding against Jack Quinn,2023-03-19T17:39:12Z,1,17:02,02:58,0,3,6.0,Boston Bruins,BOS
+80,7,6,Buffalo Sabres,Boston Bruins,2022021108118,2022021108,Faceoff,118,FACEOFF,Jeff Skinner faceoff won against Charlie Coyle,2023-03-19T17:40:07Z,1,17:02,02:58,0,3,7.0,Buffalo Sabres,BUF
+81,7,6,Buffalo Sabres,Boston Bruins,202202110818,2022021108,Stoppage,18,STOP,Puck in Netting,2023-03-19T17:40:16Z,1,17:11,02:49,0,3,,,
+82,7,6,Buffalo Sabres,Boston Bruins,2022021108177,2022021108,Blocked Shot,177,BLOCKED_SHOT,Victor Olofsson shot blocked shot by Hampus Lindholm,2023-03-19T17:40:16Z,1,17:11,02:49,0,3,6.0,Boston Bruins,BOS
+83,7,6,Buffalo Sabres,Boston Bruins,2022021108119,2022021108,Faceoff,119,FACEOFF,Tomas Nosek faceoff won against Alex Tuch,2023-03-19T17:40:39Z,1,17:11,02:49,0,3,6.0,Boston Bruins,BOS
+84,7,6,Buffalo Sabres,Boston Bruins,2022021108273,2022021108,Takeaway,273,TAKEAWAY,Takeaway by Trent Frederic,2023-03-19T17:41:43Z,1,18:15,01:45,0,3,6.0,Boston Bruins,BOS
+85,7,6,Buffalo Sabres,Boston Bruins,2022021108178,2022021108,Shot,178,SHOT,Casey Mittelstadt Tip-In saved by Jeremy Swayman,2023-03-19T17:42:17Z,1,18:49,01:11,0,3,7.0,Buffalo Sabres,BUF
+86,7,6,Buffalo Sabres,Boston Bruins,2022021108274,2022021108,Giveaway,274,GIVEAWAY,Giveaway by Kyle Okposo,2023-03-19T17:42:40Z,1,19:12,00:48,0,3,7.0,Buffalo Sabres,BUF
+87,7,6,Buffalo Sabres,Boston Bruins,202202110819,2022021108,Period End,19,PERIOD_END,End of 1st Period,2023-03-19T17:43:28Z,1,20:00,00:00,0,3,,,
+88,7,6,Buffalo Sabres,Boston Bruins,202202110822,2022021108,Period Official,22,PERIOD_OFFICIAL,Period Official,2023-03-19T17:43:53Z,1,20:00,00:00,0,3,,,
+89,7,6,Buffalo Sabres,Boston Bruins,202202110823,2022021108,Period Ready,23,PERIOD_READY,Period Ready,2023-03-19T18:00:47Z,2,00:00,20:00,0,3,,,
+90,7,6,Buffalo Sabres,Boston Bruins,2022021108120,2022021108,Period Start,120,PERIOD_START,Period Start,2023-03-19T18:02:05Z,2,00:00,20:00,0,3,,,
+91,7,6,Buffalo Sabres,Boston Bruins,2022021108121,2022021108,Faceoff,121,FACEOFF,Charlie Coyle faceoff won against Tage Thompson,2023-03-19T18:02:05Z,2,00:00,20:00,0,3,6.0,Boston Bruins,BOS
+92,7,6,Buffalo Sabres,Boston Bruins,2022021108179,2022021108,Blocked Shot,179,BLOCKED_SHOT,Hampus Lindholm shot blocked shot by Alex Tuch,2023-03-19T18:02:21Z,2,00:16,19:44,0,3,7.0,Buffalo Sabres,BUF
+93,7,6,Buffalo Sabres,Boston Bruins,2022021108275,2022021108,Takeaway,275,TAKEAWAY,Takeaway by Jake DeBrusk,2023-03-19T18:03:05Z,2,01:00,19:00,0,3,6.0,Boston Bruins,BOS
+94,7,6,Buffalo Sabres,Boston Bruins,2022021108180,2022021108,Missed Shot,180,MISSED_SHOT,Tyler Bertuzzi Wide of Net Ukko-Pekka Luukkonen,2023-03-19T18:03:47Z,2,01:42,18:18,0,3,6.0,Boston Bruins,BOS
+95,7,6,Buffalo Sabres,Boston Bruins,2022021108181,2022021108,Shot,181,SHOT,Jeff Skinner Wrist Shot saved by Jeremy Swayman,2023-03-19T18:04:15Z,2,02:10,17:50,0,3,7.0,Buffalo Sabres,BUF
+96,7,6,Buffalo Sabres,Boston Bruins,202202110824,2022021108,Stoppage,24,STOP,Goalie Stopped,2023-03-19T18:04:15Z,2,02:11,17:49,0,3,,,
+97,7,6,Buffalo Sabres,Boston Bruins,2022021108122,2022021108,Faceoff,122,FACEOFF,Casey Mittelstadt faceoff won against Tomas Nosek,2023-03-19T18:04:47Z,2,02:11,17:49,0,3,7.0,Buffalo Sabres,BUF
+98,7,6,Buffalo Sabres,Boston Bruins,202202110825,2022021108,Stoppage,25,STOP,Goalie Stopped,2023-03-19T18:04:54Z,2,02:17,17:43,0,3,,,
+99,7,6,Buffalo Sabres,Boston Bruins,2022021108182,2022021108,Shot,182,SHOT,Owen Power Wrist Shot saved by Jeremy Swayman,2023-03-19T18:04:54Z,2,02:17,17:43,0,3,7.0,Buffalo Sabres,BUF
+100,7,6,Buffalo Sabres,Boston Bruins,2022021108123,2022021108,Faceoff,123,FACEOFF,Casey Mittelstadt faceoff won against Tomas Nosek,2023-03-19T18:05:12Z,2,02:17,17:43,0,3,7.0,Buffalo Sabres,BUF
+101,7,6,Buffalo Sabres,Boston Bruins,2022021108183,2022021108,Missed Shot,183,MISSED_SHOT,Owen Power Wide of Net Jeremy Swayman,2023-03-19T18:05:33Z,2,02:38,17:22,0,3,7.0,Buffalo Sabres,BUF
+102,7,6,Buffalo Sabres,Boston Bruins,2022021108276,2022021108,Takeaway,276,TAKEAWAY,Takeaway by Jakub Lauko,2023-03-19T18:05:35Z,2,02:40,17:20,0,3,6.0,Boston Bruins,BOS
+103,7,6,Buffalo Sabres,Boston Bruins,202202110826,2022021108,Stoppage,26,STOP,Goalie Stopped,2023-03-19T18:05:50Z,2,02:55,17:05,0,3,,,
+104,7,6,Buffalo Sabres,Boston Bruins,2022021108184,2022021108,Shot,184,SHOT,Connor Clifton Slap Shot saved by Ukko-Pekka Luukkonen,2023-03-19T18:05:50Z,2,02:55,17:05,0,3,6.0,Boston Bruins,BOS
+105,7,6,Buffalo Sabres,Boston Bruins,2022021108124,2022021108,Faceoff,124,FACEOFF,Peyton Krebs faceoff won against Patrice Bergeron,2023-03-19T18:06:23Z,2,02:55,17:05,0,3,7.0,Buffalo Sabres,BUF
+106,7,6,Buffalo Sabres,Boston Bruins,2022021108277,2022021108,Hit,277,HIT,Brandon Carlo hit Kyle Okposo,2023-03-19T18:07:01Z,2,03:32,16:28,0,3,6.0,Boston Bruins,BOS
+107,7,6,Buffalo Sabres,Boston Bruins,2022021108278,2022021108,Hit,278,HIT,Kale Clague hit Trent Frederic,2023-03-19T18:07:29Z,2,04:01,15:59,0,3,7.0,Buffalo Sabres,BUF
+108,7,6,Buffalo Sabres,Boston Bruins,2022021108279,2022021108,Giveaway,279,GIVEAWAY,Giveaway by Alex Tuch,2023-03-19T18:08:16Z,2,04:48,15:12,0,3,7.0,Buffalo Sabres,BUF
+109,7,6,Buffalo Sabres,Boston Bruins,202202110827,2022021108,Stoppage,27,STOP,Referee or Linesman,2023-03-19T18:08:24Z,2,04:56,15:04,0,3,,,
+110,7,6,Buffalo Sabres,Boston Bruins,2022021108185,2022021108,Missed Shot,185,MISSED_SHOT,Pavel Zacha Goalpost Ukko-Pekka Luukkonen,2023-03-19T18:08:24Z,2,04:56,15:04,0,3,6.0,Boston Bruins,BOS
+111,7,6,Buffalo Sabres,Boston Bruins,2022021108125,2022021108,Faceoff,125,FACEOFF,Tage Thompson faceoff won against Jakub Lauko,2023-03-19T18:11:44Z,2,04:56,15:04,0,3,7.0,Buffalo Sabres,BUF
+112,7,6,Buffalo Sabres,Boston Bruins,2022021108187,2022021108,Missed Shot,187,MISSED_SHOT,Alex Tuch Wide of Net Jeremy Swayman,2023-03-19T18:12:27Z,2,05:39,14:21,0,3,7.0,Buffalo Sabres,BUF
+113,7,6,Buffalo Sabres,Boston Bruins,202202110828,2022021108,Stoppage,28,STOP,Puck in Netting,2023-03-19T18:12:34Z,2,05:46,14:14,0,3,,,
+114,7,6,Buffalo Sabres,Boston Bruins,2022021108188,2022021108,Blocked Shot,188,BLOCKED_SHOT,Tage Thompson shot blocked shot by Patrice Bergeron,2023-03-19T18:12:34Z,2,05:46,14:14,0,3,6.0,Boston Bruins,BOS
+115,7,6,Buffalo Sabres,Boston Bruins,2022021108126,2022021108,Faceoff,126,FACEOFF,Charlie Coyle faceoff won against Peyton Krebs,2023-03-19T18:13:05Z,2,05:46,14:14,0,3,6.0,Boston Bruins,BOS
+116,7,6,Buffalo Sabres,Boston Bruins,2022021108189,2022021108,Missed Shot,189,MISSED_SHOT,Rasmus Dahlin Over Net Jeremy Swayman,2023-03-19T18:13:12Z,2,05:53,14:07,0,3,7.0,Buffalo Sabres,BUF
+117,7,6,Buffalo Sabres,Boston Bruins,2022021108280,2022021108,Giveaway,280,GIVEAWAY,Giveaway by Kyle Okposo,2023-03-19T18:13:34Z,2,06:15,13:45,0,3,7.0,Buffalo Sabres,BUF
+118,7,6,Buffalo Sabres,Boston Bruins,2022021108190,2022021108,Missed Shot,190,MISSED_SHOT,Trent Frederic Wide of Net Ukko-Pekka Luukkonen,2023-03-19T18:13:45Z,2,06:26,13:34,0,3,6.0,Boston Bruins,BOS
+119,7,6,Buffalo Sabres,Boston Bruins,2022021108191,2022021108,Shot,191,SHOT,A.J. Greer Tip-In saved by Ukko-Pekka Luukkonen,2023-03-19T18:13:57Z,2,06:38,13:22,0,3,6.0,Boston Bruins,BOS
+120,7,6,Buffalo Sabres,Boston Bruins,202202110829,2022021108,Stoppage,29,STOP,Goalie Stopped,2023-03-19T18:14:00Z,2,06:41,13:19,0,3,,,
+121,7,6,Buffalo Sabres,Boston Bruins,2022021108127,2022021108,Faceoff,127,FACEOFF,Pavel Zacha faceoff won against Dylan Cozens,2023-03-19T18:17:30Z,2,06:41,13:19,0,3,6.0,Boston Bruins,BOS
+122,7,6,Buffalo Sabres,Boston Bruins,202202110830,2022021108,Stoppage,30,STOP,Puck in Benches,2023-03-19T18:18:00Z,2,07:12,12:48,0,3,,,
+123,7,6,Buffalo Sabres,Boston Bruins,2022021108128,2022021108,Faceoff,128,FACEOFF,Patrice Bergeron faceoff won against Casey Mittelstadt,2023-03-19T18:18:30Z,2,07:12,12:48,0,3,6.0,Boston Bruins,BOS
+124,7,6,Buffalo Sabres,Boston Bruins,2022021108192,2022021108,Goal,192,GOAL,"Hampus Lindholm (10) Snap Shot, assists: Jake DeBrusk (21), Patrice Bergeron (27)",2023-03-19T18:19:06Z,2,07:48,12:12,0,4,6.0,Boston Bruins,BOS
+125,7,6,Buffalo Sabres,Boston Bruins,2022021108129,2022021108,Faceoff,129,FACEOFF,Tage Thompson faceoff won against Tomas Nosek,2023-03-19T18:19:53Z,2,07:48,12:12,0,4,7.0,Buffalo Sabres,BUF
+126,7,6,Buffalo Sabres,Boston Bruins,2022021108193,2022021108,Blocked Shot,193,BLOCKED_SHOT,Jordan Greenway shot blocked shot by Matt Grzelcyk,2023-03-19T18:20:41Z,2,08:36,11:24,0,4,6.0,Boston Bruins,BOS
+127,7,6,Buffalo Sabres,Boston Bruins,2022021108584,2022021108,Penalty,584,PENALTY,Riley Stillman Interference against Trent Frederic,2023-03-19T18:21:09Z,2,09:04,10:56,0,4,7.0,Buffalo Sabres,BUF
+128,7,6,Buffalo Sabres,Boston Bruins,2022021108130,2022021108,Faceoff,130,FACEOFF,Patrice Bergeron faceoff won against Zemgus Girgensons,2023-03-19T18:21:52Z,2,09:04,10:56,0,4,6.0,Boston Bruins,BOS
+129,7,6,Buffalo Sabres,Boston Bruins,2022021108195,2022021108,Shot,195,SHOT,Patrice Bergeron Snap Shot saved by Ukko-Pekka Luukkonen,2023-03-19T18:22:02Z,2,09:14,10:46,0,4,6.0,Boston Bruins,BOS
+130,7,6,Buffalo Sabres,Boston Bruins,2022021108196,2022021108,Missed Shot,196,MISSED_SHOT,David Pastrnak Wide of Net Ukko-Pekka Luukkonen,2023-03-19T18:22:17Z,2,09:29,10:31,0,4,6.0,Boston Bruins,BOS
+131,7,6,Buffalo Sabres,Boston Bruins,2022021108197,2022021108,Shot,197,SHOT,David Pastrnak Wrist Shot saved by Ukko-Pekka Luukkonen,2023-03-19T18:22:38Z,2,09:50,10:10,0,4,6.0,Boston Bruins,BOS
+132,7,6,Buffalo Sabres,Boston Bruins,2022021108198,2022021108,Missed Shot,198,MISSED_SHOT,Jake DeBrusk Over Net Ukko-Pekka Luukkonen,2023-03-19T18:22:51Z,2,10:03,09:57,0,4,6.0,Boston Bruins,BOS
+133,7,6,Buffalo Sabres,Boston Bruins,2022021108284,2022021108,Hit,284,HIT,Ilya Lyubushkin hit Patrice Bergeron,2023-03-19T18:22:53Z,2,10:05,09:55,0,4,7.0,Buffalo Sabres,BUF
+134,7,6,Buffalo Sabres,Boston Bruins,2022021108285,2022021108,Hit,285,HIT,Tyler Bertuzzi hit Rasmus Dahlin,2023-03-19T18:23:37Z,2,10:49,09:11,0,4,6.0,Boston Bruins,BOS
+135,7,6,Buffalo Sabres,Boston Bruins,2022021108199,2022021108,Shot,199,SHOT,Matt Grzelcyk Wrist Shot saved by Ukko-Pekka Luukkonen,2023-03-19T18:23:50Z,2,11:02,08:58,0,4,6.0,Boston Bruins,BOS
+136,7,6,Buffalo Sabres,Boston Bruins,2022021108286,2022021108,Takeaway,286,TAKEAWAY,Takeaway by Tyler Bertuzzi,2023-03-19T18:24:04Z,2,11:16,08:44,0,4,6.0,Boston Bruins,BOS
+137,7,6,Buffalo Sabres,Boston Bruins,2022021108200,2022021108,Shot,200,SHOT,Tomas Nosek Wrist Shot saved by Ukko-Pekka Luukkonen,2023-03-19T18:24:27Z,2,11:39,08:21,0,4,6.0,Boston Bruins,BOS
+138,7,6,Buffalo Sabres,Boston Bruins,202202110832,2022021108,Stoppage,32,STOP,Goalie Stopped,2023-03-19T18:24:28Z,2,11:41,08:19,0,4,,,
+139,7,6,Buffalo Sabres,Boston Bruins,2022021108131,2022021108,Faceoff,131,FACEOFF,Tage Thompson faceoff won against Tomas Nosek,2023-03-19T18:26:39Z,2,11:41,08:19,0,4,7.0,Buffalo Sabres,BUF
+140,7,6,Buffalo Sabres,Boston Bruins,2022021108287,2022021108,Giveaway,287,GIVEAWAY,Giveaway by Tage Thompson,2023-03-19T18:26:47Z,2,11:49,08:11,0,4,7.0,Buffalo Sabres,BUF
+141,7,6,Buffalo Sabres,Boston Bruins,2022021108288,2022021108,Hit,288,HIT,Tage Thompson hit Connor Clifton,2023-03-19T18:27:00Z,2,12:02,07:58,0,4,7.0,Buffalo Sabres,BUF
+142,7,6,Buffalo Sabres,Boston Bruins,2022021108289,2022021108,Giveaway,289,GIVEAWAY,Giveaway by Ilya Lyubushkin,2023-03-19T18:27:20Z,2,12:22,07:38,0,4,7.0,Buffalo Sabres,BUF
+143,7,6,Buffalo Sabres,Boston Bruins,2022021108351,2022021108,Blocked Shot,351,BLOCKED_SHOT,Dylan Cozens shot blocked shot by Hampus Lindholm,2023-03-19T18:27:40Z,2,12:42,07:18,0,4,6.0,Boston Bruins,BOS
+144,7,6,Buffalo Sabres,Boston Bruins,2022021108290,2022021108,Hit,290,HIT,Dylan Cozens hit Trent Frederic,2023-03-19T18:28:20Z,2,13:22,06:38,0,4,7.0,Buffalo Sabres,BUF
+145,7,6,Buffalo Sabres,Boston Bruins,2022021108617,2022021108,Penalty,617,PENALTY,Dylan Cozens Fighting against Trent Frederic,2023-03-19T18:28:25Z,2,13:26,06:34,0,4,7.0,Buffalo Sabres,BUF
+146,7,6,Buffalo Sabres,Boston Bruins,2022021108621,2022021108,Penalty,621,PENALTY,Trent Frederic Fighting against Dylan Cozens,2023-03-19T18:28:25Z,2,13:26,06:34,0,4,6.0,Boston Bruins,BOS
+147,7,6,Buffalo Sabres,Boston Bruins,2022021108132,2022021108,Faceoff,132,FACEOFF,Casey Mittelstadt faceoff won against Tyler Bertuzzi,2023-03-19T18:30:14Z,2,13:26,06:34,0,4,7.0,Buffalo Sabres,BUF
+148,7,6,Buffalo Sabres,Boston Bruins,2022021108625,2022021108,Penalty,625,PENALTY,Pavel Zacha Interference against Victor Olofsson,2023-03-19T18:30:26Z,2,13:37,06:23,0,4,6.0,Boston Bruins,BOS
+149,7,6,Buffalo Sabres,Boston Bruins,2022021108133,2022021108,Faceoff,133,FACEOFF,Charlie Coyle faceoff won against Jeff Skinner,2023-03-19T18:31:17Z,2,13:37,06:23,0,4,6.0,Boston Bruins,BOS
+150,7,6,Buffalo Sabres,Boston Bruins,2022021108291,2022021108,Takeaway,291,TAKEAWAY,Takeaway by Hampus Lindholm,2023-03-19T18:32:51Z,2,15:10,04:50,0,4,6.0,Boston Bruins,BOS
+151,7,6,Buffalo Sabres,Boston Bruins,2022021108352,2022021108,Shot,352,SHOT,Patrice Bergeron Tip-In saved by Ukko-Pekka Luukkonen,2023-03-19T18:34:09Z,2,16:29,03:31,0,4,6.0,Boston Bruins,BOS
+152,7,6,Buffalo Sabres,Boston Bruins,2022021108292,2022021108,Takeaway,292,TAKEAWAY,Takeaway by Zemgus Girgensons,2023-03-19T18:34:38Z,2,16:58,03:02,0,4,7.0,Buffalo Sabres,BUF
+153,7,6,Buffalo Sabres,Boston Bruins,2022021108293,2022021108,Giveaway,293,GIVEAWAY,Giveaway by Tage Thompson,2023-03-19T18:35:00Z,2,17:20,02:40,0,4,7.0,Buffalo Sabres,BUF
+154,7,6,Buffalo Sabres,Boston Bruins,2022021108353,2022021108,Missed Shot,353,MISSED_SHOT,Tage Thompson Wide of Net Jeremy Swayman,2023-03-19T18:35:09Z,2,17:29,02:31,0,4,7.0,Buffalo Sabres,BUF
+155,7,6,Buffalo Sabres,Boston Bruins,202202110840,2022021108,Missed Shot,40,MISSED_SHOT,Alex Tuch Wide of Net Jeremy Swayman,2023-03-19T18:35:11Z,2,17:31,02:29,0,4,7.0,Buffalo Sabres,BUF
+156,7,6,Buffalo Sabres,Boston Bruins,2022021108354,2022021108,Missed Shot,354,MISSED_SHOT,Alex Tuch Wide of Net Jeremy Swayman,2023-03-19T18:35:14Z,2,17:34,02:26,0,4,7.0,Buffalo Sabres,BUF
+157,7,6,Buffalo Sabres,Boston Bruins,2022021108355,2022021108,Missed Shot,355,MISSED_SHOT,Alex Tuch Wide of Net Jeremy Swayman,2023-03-19T18:35:25Z,2,17:45,02:15,0,4,7.0,Buffalo Sabres,BUF
+158,7,6,Buffalo Sabres,Boston Bruins,2022021108356,2022021108,Shot,356,SHOT,Rasmus Dahlin Wrist Shot saved by Jeremy Swayman,2023-03-19T18:35:26Z,2,17:46,02:14,0,4,7.0,Buffalo Sabres,BUF
+159,7,6,Buffalo Sabres,Boston Bruins,202202110833,2022021108,Stoppage,33,STOP,Goalie Stopped,2023-03-19T18:35:26Z,2,17:47,02:13,0,4,,,
+160,7,6,Buffalo Sabres,Boston Bruins,2022021108134,2022021108,Faceoff,134,FACEOFF,Casey Mittelstadt faceoff won against Charlie Coyle,2023-03-19T18:37:39Z,2,17:47,02:13,0,4,7.0,Buffalo Sabres,BUF
+161,7,6,Buffalo Sabres,Boston Bruins,2022021108357,2022021108,Blocked Shot,357,BLOCKED_SHOT,Jack Quinn shot blocked shot by Charlie McAvoy,2023-03-19T18:37:43Z,2,17:51,02:09,0,4,6.0,Boston Bruins,BOS
+162,7,6,Buffalo Sabres,Boston Bruins,2022021108294,2022021108,Hit,294,HIT,Casey Mittelstadt hit Jakub Lauko,2023-03-19T18:38:04Z,2,18:12,01:48,0,4,7.0,Buffalo Sabres,BUF
+163,7,6,Buffalo Sabres,Boston Bruins,2022021108358,2022021108,Shot,358,SHOT,JJ Peterka Backhand saved by Jeremy Swayman,2023-03-19T18:38:33Z,2,18:41,01:19,0,4,7.0,Buffalo Sabres,BUF
+164,7,6,Buffalo Sabres,Boston Bruins,2022021108717,2022021108,Penalty,717,PENALTY,Jakub Zboril Slashing against JJ Peterka,2023-03-19T18:38:37Z,2,18:45,01:15,0,4,6.0,Boston Bruins,BOS
+165,7,6,Buffalo Sabres,Boston Bruins,2022021108135,2022021108,Faceoff,135,FACEOFF,Alex Tuch faceoff won against Patrice Bergeron,2023-03-19T18:39:21Z,2,18:45,01:15,0,4,7.0,Buffalo Sabres,BUF
+166,7,6,Buffalo Sabres,Boston Bruins,2022021108359,2022021108,Missed Shot,359,MISSED_SHOT,Jeff Skinner Wide of Net Jeremy Swayman,2023-03-19T18:39:34Z,2,18:58,01:02,0,4,7.0,Buffalo Sabres,BUF
+167,7,6,Buffalo Sabres,Boston Bruins,2022021108360,2022021108,Shot,360,SHOT,Tage Thompson Wrist Shot saved by Jeremy Swayman,2023-03-19T18:39:46Z,2,19:10,00:50,0,4,7.0,Buffalo Sabres,BUF
+168,7,6,Buffalo Sabres,Boston Bruins,2022021108295,2022021108,Takeaway,295,TAKEAWAY,Takeaway by Brandon Carlo,2023-03-19T18:40:03Z,2,19:27,00:33,0,4,6.0,Boston Bruins,BOS
+169,7,6,Buffalo Sabres,Boston Bruins,2022021108296,2022021108,Giveaway,296,GIVEAWAY,Giveaway by Alex Tuch,2023-03-19T18:40:17Z,2,19:36,00:24,0,4,7.0,Buffalo Sabres,BUF
+170,7,6,Buffalo Sabres,Boston Bruins,202202110834,2022021108,Stoppage,34,STOP,Goalie Stopped,2023-03-19T18:40:25Z,2,19:48,00:12,0,4,,,
+171,7,6,Buffalo Sabres,Boston Bruins,2022021108136,2022021108,Faceoff,136,FACEOFF,Pavel Zacha faceoff won against Dylan Cozens,2023-03-19T18:41:04Z,2,19:48,00:12,0,4,6.0,Boston Bruins,BOS
+172,7,6,Buffalo Sabres,Boston Bruins,2022021108297,2022021108,Hit,297,HIT,Connor Clifton hit Jack Quinn,2023-03-19T18:41:13Z,2,19:58,00:02,0,4,6.0,Boston Bruins,BOS
+173,7,6,Buffalo Sabres,Boston Bruins,202202110835,2022021108,Period End,35,PERIOD_END,End of 2nd Period,2023-03-19T18:41:15Z,2,20:00,00:00,0,4,,,
+174,7,6,Buffalo Sabres,Boston Bruins,202202110841,2022021108,Penalty,41,PENALTY,Casey Mittelstadt Slashing against Charlie McAvoy,2023-03-19T18:41:15Z,2,20:00,00:00,0,4,7.0,Buffalo Sabres,BUF
+175,7,6,Buffalo Sabres,Boston Bruins,202202110838,2022021108,Period Official,38,PERIOD_OFFICIAL,Period Official,2023-03-19T18:43:13Z,2,20:00,00:00,0,4,,,
+176,7,6,Buffalo Sabres,Boston Bruins,202202110839,2022021108,Period Ready,39,PERIOD_READY,Period Ready,2023-03-19T18:58:06Z,3,00:00,20:00,0,4,,,
+177,7,6,Buffalo Sabres,Boston Bruins,2022021108137,2022021108,Period Start,137,PERIOD_START,Period Start,2023-03-19T19:00:11Z,3,00:00,20:00,0,4,,,
+178,7,6,Buffalo Sabres,Boston Bruins,2022021108138,2022021108,Faceoff,138,FACEOFF,Dylan Cozens faceoff won against Charlie Coyle,2023-03-19T19:00:11Z,3,00:00,20:00,0,4,7.0,Buffalo Sabres,BUF
+179,7,6,Buffalo Sabres,Boston Bruins,2022021108361,2022021108,Missed Shot,361,MISSED_SHOT,Jack Quinn Wide of Net Jeremy Swayman,2023-03-19T19:00:28Z,3,00:17,19:43,0,4,7.0,Buffalo Sabres,BUF
+180,7,6,Buffalo Sabres,Boston Bruins,2022021108298,2022021108,Takeaway,298,TAKEAWAY,Takeaway by Charlie McAvoy,2023-03-19T19:00:41Z,3,00:30,19:30,0,4,6.0,Boston Bruins,BOS
+181,7,6,Buffalo Sabres,Boston Bruins,2022021108362,2022021108,Shot,362,SHOT,Jake DeBrusk Wrist Shot saved by Ukko-Pekka Luukkonen,2023-03-19T19:00:49Z,3,00:38,19:22,0,4,6.0,Boston Bruins,BOS
+182,7,6,Buffalo Sabres,Boston Bruins,202202110845,2022021108,Stoppage,45,STOP,Goalie Stopped,2023-03-19T19:00:51Z,3,00:39,19:21,0,4,,,
+183,7,6,Buffalo Sabres,Boston Bruins,2022021108139,2022021108,Faceoff,139,FACEOFF,Patrice Bergeron faceoff won against Zemgus Girgensons,2023-03-19T19:01:16Z,3,00:39,19:21,0,4,6.0,Boston Bruins,BOS
+184,7,6,Buffalo Sabres,Boston Bruins,2022021108299,2022021108,Takeaway,299,TAKEAWAY,Takeaway by Tyler Bertuzzi,2023-03-19T19:01:38Z,3,01:01,18:59,0,4,6.0,Boston Bruins,BOS
+185,7,6,Buffalo Sabres,Boston Bruins,2022021108363,2022021108,Shot,363,SHOT,David Pastrnak Backhand saved by Ukko-Pekka Luukkonen,2023-03-19T19:02:00Z,3,01:23,18:37,0,4,6.0,Boston Bruins,BOS
+186,7,6,Buffalo Sabres,Boston Bruins,2022021108300,2022021108,Takeaway,300,TAKEAWAY,Takeaway by Jack Quinn,2023-03-19T19:02:07Z,3,01:30,18:30,0,4,7.0,Buffalo Sabres,BUF
+187,7,6,Buffalo Sabres,Boston Bruins,2022021108364,2022021108,Shot,364,SHOT,Jack Quinn Wrist Shot saved by Jeremy Swayman,2023-03-19T19:02:09Z,3,01:32,18:28,0,4,7.0,Buffalo Sabres,BUF
+188,7,6,Buffalo Sabres,Boston Bruins,2022021108365,2022021108,Shot,365,SHOT,Jack Quinn Wrist Shot saved by Jeremy Swayman,2023-03-19T19:02:19Z,3,01:42,18:18,0,4,7.0,Buffalo Sabres,BUF
+189,7,6,Buffalo Sabres,Boston Bruins,2022021108367,2022021108,Shot,367,SHOT,Tyler Bertuzzi Wrist Shot saved by Ukko-Pekka Luukkonen,2023-03-19T19:04:38Z,3,04:01,15:59,0,4,6.0,Boston Bruins,BOS
+190,7,6,Buffalo Sabres,Boston Bruins,2022021108368,2022021108,Missed Shot,368,MISSED_SHOT,Dylan Cozens Wide of Net Jeremy Swayman,2023-03-19T19:05:26Z,3,04:49,15:11,0,4,7.0,Buffalo Sabres,BUF
+191,7,6,Buffalo Sabres,Boston Bruins,2022021108369,2022021108,Shot,369,SHOT,JJ Peterka Snap Shot saved by Jeremy Swayman,2023-03-19T19:05:34Z,3,04:57,15:03,0,4,7.0,Buffalo Sabres,BUF
+192,7,6,Buffalo Sabres,Boston Bruins,2022021108370,2022021108,Shot,370,SHOT,Jack Quinn Wrist Shot saved by Jeremy Swayman,2023-03-19T19:05:35Z,3,04:58,15:02,0,4,7.0,Buffalo Sabres,BUF
+193,7,6,Buffalo Sabres,Boston Bruins,2022021108371,2022021108,Blocked Shot,371,BLOCKED_SHOT,Matt Grzelcyk shot blocked shot by JJ Peterka,2023-03-19T19:05:36Z,3,04:59,15:01,0,4,7.0,Buffalo Sabres,BUF
+194,7,6,Buffalo Sabres,Boston Bruins,202202110846,2022021108,Stoppage,46,STOP,Goalie Stopped,2023-03-19T19:05:37Z,3,05:00,15:00,0,4,,,
+195,7,6,Buffalo Sabres,Boston Bruins,2022021108140,2022021108,Faceoff,140,FACEOFF,Tomas Nosek faceoff won against Peyton Krebs,2023-03-19T19:06:14Z,3,05:00,15:00,0,4,6.0,Boston Bruins,BOS
+196,7,6,Buffalo Sabres,Boston Bruins,202202110844,2022021108,Stoppage,44,STOP,Icing,2023-03-19T19:06:21Z,3,05:07,14:53,0,4,,,
+197,7,6,Buffalo Sabres,Boston Bruins,2022021108141,2022021108,Faceoff,141,FACEOFF,Peyton Krebs faceoff won against Tomas Nosek,2023-03-19T19:06:43Z,3,05:07,14:53,0,4,7.0,Buffalo Sabres,BUF
+198,7,6,Buffalo Sabres,Boston Bruins,2022021108372,2022021108,Shot,372,SHOT,Rasmus Dahlin Snap Shot saved by Jeremy Swayman,2023-03-19T19:07:02Z,3,05:26,14:34,0,4,7.0,Buffalo Sabres,BUF
+199,7,6,Buffalo Sabres,Boston Bruins,2022021108373,2022021108,Shot,373,SHOT,Peyton Krebs Tip-In saved by Jeremy Swayman,2023-03-19T19:07:29Z,3,05:53,14:07,0,4,7.0,Buffalo Sabres,BUF
+200,7,6,Buffalo Sabres,Boston Bruins,202202110847,2022021108,Stoppage,47,STOP,Goalie Stopped,2023-03-19T19:07:31Z,3,05:55,14:05,0,4,,,
+201,7,6,Buffalo Sabres,Boston Bruins,2022021108374,2022021108,Shot,374,SHOT,Peyton Krebs Wrist Shot saved by Jeremy Swayman,2023-03-19T19:07:31Z,3,05:55,14:05,0,4,7.0,Buffalo Sabres,BUF
+202,7,6,Buffalo Sabres,Boston Bruins,2022021108142,2022021108,Faceoff,142,FACEOFF,Charlie Coyle faceoff won against Casey Mittelstadt,2023-03-19T19:08:13Z,3,05:55,14:05,0,4,6.0,Boston Bruins,BOS
+203,7,6,Buffalo Sabres,Boston Bruins,2022021108451,2022021108,Giveaway,451,GIVEAWAY,Giveaway by Charlie Coyle,2023-03-19T19:08:25Z,3,06:07,13:53,0,4,6.0,Boston Bruins,BOS
+204,7,6,Buffalo Sabres,Boston Bruins,2022021108375,2022021108,Shot,375,SHOT,Tage Thompson Wrist Shot saved by Jeremy Swayman,2023-03-19T19:08:31Z,3,06:13,13:47,0,4,7.0,Buffalo Sabres,BUF
+205,7,6,Buffalo Sabres,Boston Bruins,202202110848,2022021108,Stoppage,48,STOP,Goalie Stopped,2023-03-19T19:08:31Z,3,06:14,13:46,0,4,,,
+206,7,6,Buffalo Sabres,Boston Bruins,2022021108143,2022021108,Faceoff,143,FACEOFF,Dylan Cozens faceoff won against Pavel Zacha,2023-03-19T19:10:38Z,3,06:14,13:46,0,4,7.0,Buffalo Sabres,BUF
+207,7,6,Buffalo Sabres,Boston Bruins,2022021108376,2022021108,Missed Shot,376,MISSED_SHOT,Henri Jokiharju Wide of Net Jeremy Swayman,2023-03-19T19:10:43Z,3,06:19,13:41,0,4,7.0,Buffalo Sabres,BUF
+208,7,6,Buffalo Sabres,Boston Bruins,202202110849,2022021108,Missed Shot,49,MISSED_SHOT,Jack Quinn Wide of Net Jeremy Swayman,2023-03-19T19:10:44Z,3,06:20,13:40,0,4,7.0,Buffalo Sabres,BUF
+209,7,6,Buffalo Sabres,Boston Bruins,2022021108452,2022021108,Hit,452,HIT,Henri Jokiharju hit David Pastrnak,2023-03-19T19:10:49Z,3,06:25,13:35,0,4,7.0,Buffalo Sabres,BUF
+210,7,6,Buffalo Sabres,Boston Bruins,202202110850,2022021108,Stoppage,50,STOP,Icing,2023-03-19T19:10:55Z,3,06:30,13:30,0,4,,,
+211,7,6,Buffalo Sabres,Boston Bruins,2022021108144,2022021108,Faceoff,144,FACEOFF,Pavel Zacha faceoff won against Dylan Cozens,2023-03-19T19:11:20Z,3,06:30,13:30,0,4,6.0,Boston Bruins,BOS
+212,7,6,Buffalo Sabres,Boston Bruins,2022021108377,2022021108,Shot,377,SHOT,David Pastrnak Snap Shot saved by Ukko-Pekka Luukkonen,2023-03-19T19:11:27Z,3,06:37,13:23,0,4,6.0,Boston Bruins,BOS
+213,7,6,Buffalo Sabres,Boston Bruins,2022021108378,2022021108,Missed Shot,378,MISSED_SHOT,Peyton Krebs Wide of Net Jeremy Swayman,2023-03-19T19:12:34Z,3,07:44,12:16,0,4,7.0,Buffalo Sabres,BUF
+214,7,6,Buffalo Sabres,Boston Bruins,2022021108453,2022021108,Hit,453,HIT,Peyton Krebs hit Connor Clifton,2023-03-19T19:12:37Z,3,07:47,12:13,0,4,7.0,Buffalo Sabres,BUF
+215,7,6,Buffalo Sabres,Boston Bruins,2022021108379,2022021108,Shot,379,SHOT,Charlie Coyle Wrist Shot saved by Ukko-Pekka Luukkonen,2023-03-19T19:12:43Z,3,07:53,12:07,0,4,6.0,Boston Bruins,BOS
+216,7,6,Buffalo Sabres,Boston Bruins,2022021108454,2022021108,Giveaway,454,GIVEAWAY,Giveaway by Peyton Krebs,2023-03-19T19:12:54Z,3,08:04,11:56,0,4,7.0,Buffalo Sabres,BUF
+217,7,6,Buffalo Sabres,Boston Bruins,2022021108455,2022021108,Giveaway,455,GIVEAWAY,Giveaway by Jeff Skinner,2023-03-19T19:14:03Z,3,09:13,10:47,0,4,7.0,Buffalo Sabres,BUF
+218,7,6,Buffalo Sabres,Boston Bruins,2022021108380,2022021108,Missed Shot,380,MISSED_SHOT,Connor Clifton Wide of Net Ukko-Pekka Luukkonen,2023-03-19T19:14:33Z,3,09:43,10:17,0,4,6.0,Boston Bruins,BOS
+219,7,6,Buffalo Sabres,Boston Bruins,2022021108502,2022021108,Stoppage,502,STOP,Referee or Linesman,2023-03-19T19:15:03Z,3,10:13,09:47,0,4,,,
+220,7,6,Buffalo Sabres,Boston Bruins,2022021108814,2022021108,Penalty,814,PENALTY,Tage Thompson Roughing against Jakub Lauko,2023-03-19T19:15:03Z,3,10:13,09:47,0,4,7.0,Buffalo Sabres,BUF
+221,7,6,Buffalo Sabres,Boston Bruins,2022021108145,2022021108,Faceoff,145,FACEOFF,Patrice Bergeron faceoff won against Zemgus Girgensons,2023-03-19T19:17:15Z,3,10:13,09:47,0,4,6.0,Boston Bruins,BOS
+222,7,6,Buffalo Sabres,Boston Bruins,2022021108457,2022021108,Giveaway,457,GIVEAWAY,Giveaway by David Pastrnak,2023-03-19T19:17:32Z,3,10:30,09:30,0,4,6.0,Boston Bruins,BOS
+223,7,6,Buffalo Sabres,Boston Bruins,2022021108459,2022021108,Takeaway,459,TAKEAWAY,Takeaway by Brad Marchand,2023-03-19T19:17:36Z,3,10:34,09:26,0,4,6.0,Boston Bruins,BOS
+224,7,6,Buffalo Sabres,Boston Bruins,2022021108381,2022021108,Goal,381,GOAL,"David Pastrnak (48) Snap Shot, assists: Patrice Bergeron (28), Brad Marchand (41)",2023-03-19T19:17:40Z,3,10:37,09:23,0,5,6.0,Boston Bruins,BOS
+225,7,6,Buffalo Sabres,Boston Bruins,2022021108146,2022021108,Faceoff,146,FACEOFF,Charlie Coyle faceoff won against Dylan Cozens,2023-03-19T19:18:22Z,3,10:37,09:23,0,5,6.0,Boston Bruins,BOS
+226,7,6,Buffalo Sabres,Boston Bruins,2022021108458,2022021108,Takeaway,458,TAKEAWAY,Takeaway by Connor Clifton,2023-03-19T19:18:31Z,3,10:46,09:14,0,5,6.0,Boston Bruins,BOS
+227,7,6,Buffalo Sabres,Boston Bruins,2022021108460,2022021108,Hit,460,HIT,A.J. Greer hit Jack Quinn,2023-03-19T19:19:02Z,3,11:17,08:43,0,5,6.0,Boston Bruins,BOS
+228,7,6,Buffalo Sabres,Boston Bruins,2022021108382,2022021108,Goal,382,GOAL,"Charlie Coyle (13) Slap Shot, assists: Charlie McAvoy (39), Trent Frederic (12)",2023-03-19T19:19:18Z,3,11:33,08:27,0,6,6.0,Boston Bruins,BOS
+229,7,6,Buffalo Sabres,Boston Bruins,2022021108147,2022021108,Faceoff,147,FACEOFF,Tomas Nosek faceoff won against Casey Mittelstadt,2023-03-19T19:20:03Z,3,11:33,08:27,0,6,6.0,Boston Bruins,BOS
+230,7,6,Buffalo Sabres,Boston Bruins,2022021108461,2022021108,Takeaway,461,TAKEAWAY,Takeaway by Casey Mittelstadt,2023-03-19T19:20:12Z,3,11:42,08:18,0,6,7.0,Buffalo Sabres,BUF
+231,7,6,Buffalo Sabres,Boston Bruins,2022021108383,2022021108,Blocked Shot,383,BLOCKED_SHOT,Jordan Greenway shot blocked shot by Brandon Carlo,2023-03-19T19:20:20Z,3,11:50,08:10,0,6,6.0,Boston Bruins,BOS
+232,7,6,Buffalo Sabres,Boston Bruins,2022021108385,2022021108,Missed Shot,385,MISSED_SHOT,Jordan Greenway Wide of Net Jeremy Swayman,2023-03-19T19:20:28Z,3,11:58,08:02,0,6,7.0,Buffalo Sabres,BUF
+233,7,6,Buffalo Sabres,Boston Bruins,2022021108384,2022021108,Shot,384,SHOT,Riley Stillman Snap Shot saved by Jeremy Swayman,2023-03-19T19:20:29Z,3,11:59,08:01,0,6,7.0,Buffalo Sabres,BUF
+234,7,6,Buffalo Sabres,Boston Bruins,2022021108463,2022021108,Giveaway,463,GIVEAWAY,Giveaway by Riley Stillman,2023-03-19T19:20:46Z,3,12:15,07:45,0,6,7.0,Buffalo Sabres,BUF
+235,7,6,Buffalo Sabres,Boston Bruins,2022021108462,2022021108,Hit,462,HIT,Ilya Lyubushkin hit Jakub Lauko,2023-03-19T19:20:47Z,3,12:17,07:43,0,6,7.0,Buffalo Sabres,BUF
+236,7,6,Buffalo Sabres,Boston Bruins,2022021108464,2022021108,Hit,464,HIT,Jakub Zboril hit Zemgus Girgensons,2023-03-19T19:21:15Z,3,12:45,07:15,0,6,6.0,Boston Bruins,BOS
+237,7,6,Buffalo Sabres,Boston Bruins,2022021108503,2022021108,Stoppage,503,STOP,Offside,2023-03-19T19:21:33Z,3,13:03,06:57,0,6,,,
+238,7,6,Buffalo Sabres,Boston Bruins,2022021108148,2022021108,Faceoff,148,FACEOFF,Charlie Coyle faceoff won against Tage Thompson,2023-03-19T19:22:01Z,3,13:03,06:57,0,6,6.0,Boston Bruins,BOS
+239,7,6,Buffalo Sabres,Boston Bruins,2022021108504,2022021108,Stoppage,504,STOP,Offside,2023-03-19T19:22:16Z,3,13:18,06:42,0,6,,,
+240,7,6,Buffalo Sabres,Boston Bruins,2022021108149,2022021108,Faceoff,149,FACEOFF,Tomas Nosek faceoff won against Tage Thompson,2023-03-19T19:22:51Z,3,13:18,06:42,0,6,6.0,Boston Bruins,BOS
+241,7,6,Buffalo Sabres,Boston Bruins,2022021108465,2022021108,Hit,465,HIT,Jakub Lauko hit Ilya Lyubushkin,2023-03-19T19:23:19Z,3,13:44,06:16,0,6,6.0,Boston Bruins,BOS
+242,7,6,Buffalo Sabres,Boston Bruins,2022021108396,2022021108,Missed Shot,396,MISSED_SHOT,Brad Marchand Wide of Net Ukko-Pekka Luukkonen,2023-03-19T19:23:53Z,3,14:20,05:40,0,6,6.0,Boston Bruins,BOS
+243,7,6,Buffalo Sabres,Boston Bruins,2022021108466,2022021108,Hit,466,HIT,Henri Jokiharju hit Patrice Bergeron,2023-03-19T19:24:01Z,3,14:28,05:32,0,6,7.0,Buffalo Sabres,BUF
+244,7,6,Buffalo Sabres,Boston Bruins,2022021108474,2022021108,Hit,474,HIT,Jake DeBrusk hit Jack Quinn,2023-03-19T19:24:03Z,3,14:30,05:30,0,6,6.0,Boston Bruins,BOS
+245,7,6,Buffalo Sabres,Boston Bruins,2022021108386,2022021108,Missed Shot,386,MISSED_SHOT,Jack Quinn Wide of Net Jeremy Swayman,2023-03-19T19:24:12Z,3,14:39,05:21,0,6,7.0,Buffalo Sabres,BUF
+246,7,6,Buffalo Sabres,Boston Bruins,2022021108467,2022021108,Takeaway,467,TAKEAWAY,Takeaway by Connor Clifton,2023-03-19T19:24:21Z,3,14:48,05:12,0,6,6.0,Boston Bruins,BOS
+247,7,6,Buffalo Sabres,Boston Bruins,2022021108387,2022021108,Shot,387,SHOT,David Pastrnak Wrist Shot saved by Ukko-Pekka Luukkonen,2023-03-19T19:24:37Z,3,15:04,04:56,0,6,6.0,Boston Bruins,BOS
+248,7,6,Buffalo Sabres,Boston Bruins,2022021108468,2022021108,Giveaway,468,GIVEAWAY,Giveaway by Rasmus Dahlin,2023-03-19T19:24:50Z,3,15:17,04:43,0,6,7.0,Buffalo Sabres,BUF
+249,7,6,Buffalo Sabres,Boston Bruins,2022021108388,2022021108,Shot,388,SHOT,Jordan Greenway Snap Shot saved by Jeremy Swayman,2023-03-19T19:25:04Z,3,15:31,04:29,0,6,7.0,Buffalo Sabres,BUF
+250,7,6,Buffalo Sabres,Boston Bruins,2022021108389,2022021108,Missed Shot,389,MISSED_SHOT,Jordan Greenway Wide of Net Jeremy Swayman,2023-03-19T19:25:13Z,3,15:40,04:20,0,6,7.0,Buffalo Sabres,BUF
+251,7,6,Buffalo Sabres,Boston Bruins,2022021108469,2022021108,Hit,469,HIT,Jordan Greenway hit David Pastrnak,2023-03-19T19:25:28Z,3,15:55,04:05,0,6,7.0,Buffalo Sabres,BUF
+252,7,6,Buffalo Sabres,Boston Bruins,2022021108390,2022021108,Missed Shot,390,MISSED_SHOT,A.J. Greer Wide of Net Ukko-Pekka Luukkonen,2023-03-19T19:25:54Z,3,16:21,03:39,0,6,6.0,Boston Bruins,BOS
+253,7,6,Buffalo Sabres,Boston Bruins,2022021108470,2022021108,Hit,470,HIT,Hampus Lindholm hit Peyton Krebs,2023-03-19T19:26:01Z,3,16:28,03:32,0,6,6.0,Boston Bruins,BOS
+254,7,6,Buffalo Sabres,Boston Bruins,2022021108471,2022021108,Hit,471,HIT,Peyton Krebs hit Hampus Lindholm,2023-03-19T19:26:08Z,3,16:35,03:25,0,6,7.0,Buffalo Sabres,BUF
+255,7,6,Buffalo Sabres,Boston Bruins,2022021108391,2022021108,Shot,391,SHOT,Trent Frederic Wrist Shot saved by Ukko-Pekka Luukkonen,2023-03-19T19:26:31Z,3,16:58,03:02,0,6,6.0,Boston Bruins,BOS
+256,7,6,Buffalo Sabres,Boston Bruins,2022021108472,2022021108,Giveaway,472,GIVEAWAY,Giveaway by Garnet Hathaway,2023-03-19T19:26:52Z,3,17:19,02:41,0,6,6.0,Boston Bruins,BOS
+257,7,6,Buffalo Sabres,Boston Bruins,2022021108473,2022021108,Giveaway,473,GIVEAWAY,Giveaway by Tyler Bertuzzi,2023-03-19T19:27:10Z,3,17:37,02:23,0,6,6.0,Boston Bruins,BOS
+258,7,6,Buffalo Sabres,Boston Bruins,2022021108392,2022021108,Blocked Shot,392,BLOCKED_SHOT,Tyler Bertuzzi shot blocked shot by Ilya Lyubushkin,2023-03-19T19:27:27Z,3,17:54,02:06,0,6,7.0,Buffalo Sabres,BUF
+259,7,6,Buffalo Sabres,Boston Bruins,2022021108393,2022021108,Goal,393,GOAL,"Charlie McAvoy (6) Wrist Shot, assists: Tyler Bertuzzi (14), Jake DeBrusk (22)",2023-03-19T19:27:32Z,3,17:59,02:01,0,7,6.0,Boston Bruins,BOS
+260,7,6,Buffalo Sabres,Boston Bruins,2022021108150,2022021108,Faceoff,150,FACEOFF,Charlie Coyle faceoff won against Casey Mittelstadt,2023-03-19T19:28:18Z,3,17:59,02:01,0,7,6.0,Boston Bruins,BOS
+261,7,6,Buffalo Sabres,Boston Bruins,2022021108475,2022021108,Hit,475,HIT,Connor Clifton hit Jordan Greenway,2023-03-19T19:28:39Z,3,18:20,01:40,0,7,6.0,Boston Bruins,BOS
+262,7,6,Buffalo Sabres,Boston Bruins,2022021108476,2022021108,Takeaway,476,TAKEAWAY,Takeaway by Kale Clague,2023-03-19T19:28:44Z,3,18:25,01:35,0,7,7.0,Buffalo Sabres,BUF
+263,7,6,Buffalo Sabres,Boston Bruins,2022021108394,2022021108,Blocked Shot,394,BLOCKED_SHOT,Zemgus Girgensons shot blocked shot by Brandon Carlo,2023-03-19T19:29:19Z,3,19:00,01:00,0,7,6.0,Boston Bruins,BOS
+264,7,6,Buffalo Sabres,Boston Bruins,2022021108505,2022021108,Stoppage,505,STOP,Icing,2023-03-19T19:29:31Z,3,19:12,00:48,0,7,,,
+265,7,6,Buffalo Sabres,Boston Bruins,2022021108651,2022021108,Faceoff,651,FACEOFF,Tomas Nosek faceoff won against Jeff Skinner,2023-03-19T19:30:07Z,3,19:12,00:48,0,7,6.0,Boston Bruins,BOS
+266,7,6,Buffalo Sabres,Boston Bruins,2022021108477,2022021108,Hit,477,HIT,Brandon Carlo hit Jordan Greenway,2023-03-19T19:30:38Z,3,19:43,00:17,0,7,6.0,Boston Bruins,BOS
+267,7,6,Buffalo Sabres,Boston Bruins,2022021108506,2022021108,Period End,506,PERIOD_END,End of 3rd Period,2023-03-19T19:31:01Z,3,20:00,00:00,0,7,,,
+268,7,6,Buffalo Sabres,Boston Bruins,2022021108509,2022021108,Period Official,509,PERIOD_OFFICIAL,Period Official,2023-03-19T19:31:48Z,3,20:00,00:00,0,7,,,
+269,7,6,Buffalo Sabres,Boston Bruins,2022021108510,2022021108,Game End,510,GAME_END,Game End,2023-03-19T19:31:49Z,3,20:00,00:00,0,7,,,
+270,7,6,Buffalo Sabres,Boston Bruins,2022021108511,2022021108,Game Official,511,GAME_OFFICIAL,Game Official,2023-03-19T19:50:13Z,3,20:00,00:00,0,7,,,

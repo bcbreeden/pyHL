@@ -1,0 +1,320 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,6,4,Boston Bruins,Philadelphia Flyers,20220202651,2022020265,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-11-17T23:05:32Z,1,00:00,20:00,0,0,,,
+1,6,4,Boston Bruins,Philadelphia Flyers,20220202655,2022020265,Period Ready,5,PERIOD_READY,Period Ready,2022-11-18T00:06:35Z,1,00:00,20:00,0,0,,,
+2,6,4,Boston Bruins,Philadelphia Flyers,202202026551,2022020265,Period Start,51,PERIOD_START,Period Start,2022-11-18T00:09:13Z,1,00:00,20:00,0,0,,,
+3,6,4,Boston Bruins,Philadelphia Flyers,202202026552,2022020265,Faceoff,52,FACEOFF,Tomas Nosek faceoff won against Kevin Hayes,2022-11-18T00:09:13Z,1,00:00,20:00,0,0,6.0,Boston Bruins,BOS
+4,6,4,Boston Bruins,Philadelphia Flyers,20220202658,2022020265,Stoppage,8,STOP,Offside,2022-11-18T00:09:29Z,1,00:16,19:44,0,0,,,
+5,6,4,Boston Bruins,Philadelphia Flyers,202202026553,2022020265,Faceoff,53,FACEOFF,Kevin Hayes faceoff won against Patrice Bergeron,2022-11-18T00:09:52Z,1,00:16,19:44,0,0,4.0,Philadelphia Flyers,PHI
+6,6,4,Boston Bruins,Philadelphia Flyers,2022020265151,2022020265,Shot,151,SHOT,Justin Braun Wrist Shot saved by Linus Ullmark,2022-11-18T00:10:41Z,1,01:05,18:55,0,0,4.0,Philadelphia Flyers,PHI
+7,6,4,Boston Bruins,Philadelphia Flyers,2022020265152,2022020265,Shot,152,SHOT,Anton Stralman Wrist Shot saved by Carter Hart,2022-11-18T00:11:07Z,1,01:31,18:29,0,0,6.0,Boston Bruins,BOS
+8,6,4,Boston Bruins,Philadelphia Flyers,20220202659,2022020265,Stoppage,9,STOP,Icing,2022-11-18T00:11:13Z,1,01:37,18:23,0,0,,,
+9,6,4,Boston Bruins,Philadelphia Flyers,202202026554,2022020265,Faceoff,54,FACEOFF,Patrick Brown faceoff won against David Krejci,2022-11-18T00:11:55Z,1,01:37,18:23,0,0,4.0,Philadelphia Flyers,PHI
+10,6,4,Boston Bruins,Philadelphia Flyers,202202026510,2022020265,Blocked Shot,10,BLOCKED_SHOT,Matt Grzelcyk shot blocked shot by Joel Farabee,2022-11-18T00:12:12Z,1,01:54,18:06,0,0,4.0,Philadelphia Flyers,PHI
+11,6,4,Boston Bruins,Philadelphia Flyers,202202026511,2022020265,Hit,11,HIT,Rasmus Ristolainen hit Jake DeBrusk,2022-11-18T00:12:19Z,1,02:01,17:59,0,0,4.0,Philadelphia Flyers,PHI
+12,6,4,Boston Bruins,Philadelphia Flyers,202202026512,2022020265,Hit,12,HIT,Patrick Brown hit Taylor Hall,2022-11-18T00:12:24Z,1,02:06,17:54,0,0,4.0,Philadelphia Flyers,PHI
+13,6,4,Boston Bruins,Philadelphia Flyers,2022020265154,2022020265,Missed Shot,154,MISSED_SHOT,Tony DeAngelo Wide of Net Linus Ullmark,2022-11-18T00:12:42Z,1,02:24,17:36,0,0,4.0,Philadelphia Flyers,PHI
+14,6,4,Boston Bruins,Philadelphia Flyers,2022020265153,2022020265,Giveaway,153,GIVEAWAY,Giveaway by Connor Clifton,2022-11-18T00:12:53Z,1,02:35,17:25,0,0,6.0,Boston Bruins,BOS
+15,6,4,Boston Bruins,Philadelphia Flyers,2022020265251,2022020265,Missed Shot,251,MISSED_SHOT,Pavel Zacha Wide of Net Carter Hart,2022-11-18T00:12:55Z,1,02:37,17:23,0,0,6.0,Boston Bruins,BOS
+16,6,4,Boston Bruins,Philadelphia Flyers,202202026513,2022020265,Stoppage,13,STOP,Goalie Stopped,2022-11-18T00:13:06Z,1,02:48,17:12,0,0,,,
+17,6,4,Boston Bruins,Philadelphia Flyers,2022020265155,2022020265,Missed Shot,155,MISSED_SHOT,Nicolas Deslauriers Over Net Linus Ullmark,2022-11-18T00:13:06Z,1,02:48,17:12,0,0,4.0,Philadelphia Flyers,PHI
+18,6,4,Boston Bruins,Philadelphia Flyers,202202026555,2022020265,Faceoff,55,FACEOFF,Patrice Bergeron faceoff won against Kevin Hayes,2022-11-18T00:13:35Z,1,02:48,17:12,0,0,6.0,Boston Bruins,BOS
+19,6,4,Boston Bruins,Philadelphia Flyers,2022020265156,2022020265,Giveaway,156,GIVEAWAY,Giveaway by Hampus Lindholm,2022-11-18T00:13:45Z,1,02:58,17:02,0,0,6.0,Boston Bruins,BOS
+20,6,4,Boston Bruins,Philadelphia Flyers,2022020265157,2022020265,Shot,157,SHOT,Scott Laughton Backhand saved by Linus Ullmark,2022-11-18T00:13:52Z,1,03:05,16:55,0,0,4.0,Philadelphia Flyers,PHI
+21,6,4,Boston Bruins,Philadelphia Flyers,202202026514,2022020265,Stoppage,14,STOP,Goalie Stopped,2022-11-18T00:14:34Z,1,03:48,16:12,0,0,,,
+22,6,4,Boston Bruins,Philadelphia Flyers,2022020265158,2022020265,Shot,158,SHOT,Noah Cates Backhand saved by Linus Ullmark,2022-11-18T00:14:34Z,1,03:48,16:12,0,0,4.0,Philadelphia Flyers,PHI
+23,6,4,Boston Bruins,Philadelphia Flyers,202202026556,2022020265,Faceoff,56,FACEOFF,Noah Cates faceoff won against Tomas Nosek,2022-11-18T00:15:09Z,1,03:48,16:12,0,0,4.0,Philadelphia Flyers,PHI
+24,6,4,Boston Bruins,Philadelphia Flyers,202202026515,2022020265,Hit,15,HIT,Anton Stralman hit Noah Cates,2022-11-18T00:15:25Z,1,04:04,15:56,0,0,6.0,Boston Bruins,BOS
+25,6,4,Boston Bruins,Philadelphia Flyers,2022020265159,2022020265,Missed Shot,159,MISSED_SHOT,Owen Tippett Wide of Net Linus Ullmark,2022-11-18T00:15:33Z,1,04:12,15:48,0,0,4.0,Philadelphia Flyers,PHI
+26,6,4,Boston Bruins,Philadelphia Flyers,202202026516,2022020265,Hit,16,HIT,A.J. Greer hit Rasmus Ristolainen,2022-11-18T00:15:46Z,1,04:25,15:35,0,0,6.0,Boston Bruins,BOS
+27,6,4,Boston Bruins,Philadelphia Flyers,2022020265160,2022020265,Giveaway,160,GIVEAWAY,Giveaway by Charlie McAvoy,2022-11-18T00:15:59Z,1,04:38,15:22,0,0,6.0,Boston Bruins,BOS
+28,6,4,Boston Bruins,Philadelphia Flyers,202202026517,2022020265,Blocked Shot,17,BLOCKED_SHOT,Joel Farabee shot blocked shot by Matt Grzelcyk,2022-11-18T00:16:03Z,1,04:42,15:18,0,0,6.0,Boston Bruins,BOS
+29,6,4,Boston Bruins,Philadelphia Flyers,202202026518,2022020265,Stoppage,18,STOP,Goalie Stopped,2022-11-18T00:16:18Z,1,04:56,15:04,0,0,,,
+30,6,4,Boston Bruins,Philadelphia Flyers,2022020265161,2022020265,Shot,161,SHOT,Morgan Frost Wrist Shot saved by Linus Ullmark,2022-11-18T00:16:18Z,1,04:56,15:04,0,0,4.0,Philadelphia Flyers,PHI
+31,6,4,Boston Bruins,Philadelphia Flyers,202202026557,2022020265,Faceoff,57,FACEOFF,Charlie Coyle faceoff won against Scott Laughton,2022-11-18T00:16:57Z,1,04:56,15:04,0,0,6.0,Boston Bruins,BOS
+32,6,4,Boston Bruins,Philadelphia Flyers,2022020265206,2022020265,Penalty,206,PENALTY,Travis Sanheim Tripping against Trent Frederic,2022-11-18T00:17:40Z,1,05:39,14:21,0,0,4.0,Philadelphia Flyers,PHI
+33,6,4,Boston Bruins,Philadelphia Flyers,202202026558,2022020265,Faceoff,58,FACEOFF,Patrice Bergeron faceoff won against Noah Cates,2022-11-18T00:18:13Z,1,05:39,14:21,0,0,6.0,Boston Bruins,BOS
+34,6,4,Boston Bruins,Philadelphia Flyers,2022020265162,2022020265,Missed Shot,162,MISSED_SHOT,David Pastrnak Wide of Net Carter Hart,2022-11-18T00:18:34Z,1,06:00,14:00,0,0,6.0,Boston Bruins,BOS
+35,6,4,Boston Bruins,Philadelphia Flyers,202202026519,2022020265,Hit,19,HIT,Lukas Sedlak hit Charlie McAvoy,2022-11-18T00:18:44Z,1,06:10,13:50,0,0,4.0,Philadelphia Flyers,PHI
+36,6,4,Boston Bruins,Philadelphia Flyers,2022020265163,2022020265,Giveaway,163,GIVEAWAY,Giveaway by David Pastrnak,2022-11-18T00:19:10Z,1,06:36,13:24,0,0,6.0,Boston Bruins,BOS
+37,6,4,Boston Bruins,Philadelphia Flyers,2022020265164,2022020265,Shot,164,SHOT,Scott Laughton Wrist Shot saved by Linus Ullmark,2022-11-18T00:19:15Z,1,06:41,13:19,0,0,4.0,Philadelphia Flyers,PHI
+38,6,4,Boston Bruins,Philadelphia Flyers,2022020265165,2022020265,Shot,165,SHOT,Taylor Hall Snap Shot saved by Carter Hart,2022-11-18T00:19:49Z,1,07:15,12:45,0,0,6.0,Boston Bruins,BOS
+39,6,4,Boston Bruins,Philadelphia Flyers,2022020265166,2022020265,Shot,166,SHOT,Hampus Lindholm Snap Shot saved by Carter Hart,2022-11-18T00:20:00Z,1,07:26,12:34,0,0,6.0,Boston Bruins,BOS
+40,6,4,Boston Bruins,Philadelphia Flyers,202202026520,2022020265,Blocked Shot,20,BLOCKED_SHOT,David Krejci shot blocked shot by Tony DeAngelo,2022-11-18T00:20:09Z,1,07:35,12:25,0,0,4.0,Philadelphia Flyers,PHI
+41,6,4,Boston Bruins,Philadelphia Flyers,202202026521,2022020265,Hit,21,HIT,Zack MacEwen hit Matt Grzelcyk,2022-11-18T00:20:56Z,1,08:22,11:38,0,0,4.0,Philadelphia Flyers,PHI
+42,6,4,Boston Bruins,Philadelphia Flyers,202202026522,2022020265,Stoppage,22,STOP,Goalie Stopped,2022-11-18T00:21:03Z,1,08:28,11:32,0,0,,,
+43,6,4,Boston Bruins,Philadelphia Flyers,2022020265167,2022020265,Shot,167,SHOT,Connor Clifton Wrist Shot saved by Carter Hart,2022-11-18T00:21:03Z,1,08:28,11:32,0,0,6.0,Boston Bruins,BOS
+44,6,4,Boston Bruins,Philadelphia Flyers,202202026559,2022020265,Faceoff,59,FACEOFF,Noah Cates faceoff won against Patrice Bergeron,2022-11-18T00:23:30Z,1,08:28,11:32,0,0,4.0,Philadelphia Flyers,PHI
+45,6,4,Boston Bruins,Philadelphia Flyers,2022020265168,2022020265,Giveaway,168,GIVEAWAY,Giveaway by Tony DeAngelo,2022-11-18T00:23:37Z,1,08:35,11:25,0,0,4.0,Philadelphia Flyers,PHI
+46,6,4,Boston Bruins,Philadelphia Flyers,202202026523,2022020265,Stoppage,23,STOP,Goalie Stopped,2022-11-18T00:23:41Z,1,08:40,11:20,0,0,,,
+47,6,4,Boston Bruins,Philadelphia Flyers,2022020265169,2022020265,Shot,169,SHOT,Brad Marchand Wrist Shot saved by Carter Hart,2022-11-18T00:23:41Z,1,08:40,11:20,0,0,6.0,Boston Bruins,BOS
+48,6,4,Boston Bruins,Philadelphia Flyers,202202026560,2022020265,Faceoff,60,FACEOFF,Zack MacEwen faceoff won against Patrice Bergeron,2022-11-18T00:24:16Z,1,08:40,11:20,0,0,4.0,Philadelphia Flyers,PHI
+49,6,4,Boston Bruins,Philadelphia Flyers,2022020265170,2022020265,Takeaway,170,TAKEAWAY,Takeaway by Patrice Bergeron,2022-11-18T00:24:25Z,1,08:49,11:11,0,0,6.0,Boston Bruins,BOS
+50,6,4,Boston Bruins,Philadelphia Flyers,202202026524,2022020265,Stoppage,24,STOP,Offside,2022-11-18T00:24:34Z,1,08:58,11:02,0,0,,,
+51,6,4,Boston Bruins,Philadelphia Flyers,202202026561,2022020265,Faceoff,61,FACEOFF,David Krejci faceoff won against Noah Cates,2022-11-18T00:25:00Z,1,08:58,11:02,0,0,6.0,Boston Bruins,BOS
+52,6,4,Boston Bruins,Philadelphia Flyers,202202026525,2022020265,Hit,25,HIT,Taylor Hall hit Tony DeAngelo,2022-11-18T00:25:13Z,1,09:11,10:49,0,0,6.0,Boston Bruins,BOS
+53,6,4,Boston Bruins,Philadelphia Flyers,2022020265171,2022020265,Takeaway,171,TAKEAWAY,Takeaway by Taylor Hall,2022-11-18T00:25:13Z,1,09:11,10:49,0,0,6.0,Boston Bruins,BOS
+54,6,4,Boston Bruins,Philadelphia Flyers,2022020265172,2022020265,Shot,172,SHOT,Anton Stralman Snap Shot saved by Carter Hart,2022-11-18T00:25:27Z,1,09:25,10:35,0,0,6.0,Boston Bruins,BOS
+55,6,4,Boston Bruins,Philadelphia Flyers,2022020265173,2022020265,Missed Shot,173,MISSED_SHOT,Anton Stralman Wide of Net Carter Hart,2022-11-18T00:25:33Z,1,09:31,10:29,0,0,6.0,Boston Bruins,BOS
+56,6,4,Boston Bruins,Philadelphia Flyers,2022020265174,2022020265,Giveaway,174,GIVEAWAY,Giveaway by Connor Clifton,2022-11-18T00:25:59Z,1,09:57,10:03,0,0,6.0,Boston Bruins,BOS
+57,6,4,Boston Bruins,Philadelphia Flyers,202202026526,2022020265,Hit,26,HIT,Nick Foligno hit Rasmus Ristolainen,2022-11-18T00:26:13Z,1,10:11,09:49,0,0,6.0,Boston Bruins,BOS
+58,6,4,Boston Bruins,Philadelphia Flyers,202202026527,2022020265,Hit,27,HIT,Kevin Hayes hit Matt Grzelcyk,2022-11-18T00:26:46Z,1,10:44,09:16,0,0,4.0,Philadelphia Flyers,PHI
+59,6,4,Boston Bruins,Philadelphia Flyers,2022020265175,2022020265,Shot,175,SHOT,Travis Konecny Wrist Shot saved by Linus Ullmark,2022-11-18T00:26:46Z,1,10:44,09:16,0,0,4.0,Philadelphia Flyers,PHI
+60,6,4,Boston Bruins,Philadelphia Flyers,2022020265176,2022020265,Shot,176,SHOT,Kevin Hayes Wrist Shot saved by Linus Ullmark,2022-11-18T00:26:47Z,1,10:45,09:15,0,0,4.0,Philadelphia Flyers,PHI
+61,6,4,Boston Bruins,Philadelphia Flyers,202202026529,2022020265,Hit,29,HIT,Patrick Brown hit Patrice Bergeron,2022-11-18T00:27:40Z,1,11:38,08:22,0,0,4.0,Philadelphia Flyers,PHI
+62,6,4,Boston Bruins,Philadelphia Flyers,202202026530,2022020265,Hit,30,HIT,Patrick Brown hit Brandon Carlo,2022-11-18T00:27:50Z,1,11:48,08:12,0,0,4.0,Philadelphia Flyers,PHI
+63,6,4,Boston Bruins,Philadelphia Flyers,202202026531,2022020265,Stoppage,31,STOP,Puck Frozen,2022-11-18T00:28:01Z,1,11:59,08:01,0,0,,,
+64,6,4,Boston Bruins,Philadelphia Flyers,2022020265177,2022020265,Missed Shot,177,MISSED_SHOT,Brandon Carlo Wide of Net Carter Hart,2022-11-18T00:28:01Z,1,11:59,08:01,0,0,6.0,Boston Bruins,BOS
+65,6,4,Boston Bruins,Philadelphia Flyers,202202026562,2022020265,Faceoff,62,FACEOFF,Patrice Bergeron faceoff won against Noah Cates,2022-11-18T00:30:28Z,1,11:59,08:01,0,0,6.0,Boston Bruins,BOS
+66,6,4,Boston Bruins,Philadelphia Flyers,202202026532,2022020265,Blocked Shot,32,BLOCKED_SHOT,David Pastrnak shot blocked shot by Zack MacEwen,2022-11-18T00:30:34Z,1,12:06,07:54,0,0,4.0,Philadelphia Flyers,PHI
+67,6,4,Boston Bruins,Philadelphia Flyers,202202026533,2022020265,Stoppage,33,STOP,Puck in Netting,2022-11-18T00:30:34Z,1,12:06,07:54,0,0,,,
+68,6,4,Boston Bruins,Philadelphia Flyers,202202026563,2022020265,Faceoff,63,FACEOFF,Patrice Bergeron faceoff won against Patrick Brown,2022-11-18T00:31:04Z,1,12:06,07:54,0,0,6.0,Boston Bruins,BOS
+69,6,4,Boston Bruins,Philadelphia Flyers,2022020265178,2022020265,Missed Shot,178,MISSED_SHOT,Brad Marchand Wide of Net Carter Hart,2022-11-18T00:31:07Z,1,12:09,07:51,0,0,6.0,Boston Bruins,BOS
+70,6,4,Boston Bruins,Philadelphia Flyers,2022020265179,2022020265,Giveaway,179,GIVEAWAY,Giveaway by David Pastrnak,2022-11-18T00:31:28Z,1,12:30,07:30,0,0,6.0,Boston Bruins,BOS
+71,6,4,Boston Bruins,Philadelphia Flyers,2022020265180,2022020265,Giveaway,180,GIVEAWAY,Giveaway by Noah Cates,2022-11-18T00:31:30Z,1,12:32,07:28,0,0,4.0,Philadelphia Flyers,PHI
+72,6,4,Boston Bruins,Philadelphia Flyers,202202026534,2022020265,Blocked Shot,34,BLOCKED_SHOT,Patrice Bergeron shot blocked shot by Nick Seeler,2022-11-18T00:31:53Z,1,12:55,07:05,0,0,4.0,Philadelphia Flyers,PHI
+73,6,4,Boston Bruins,Philadelphia Flyers,202202026535,2022020265,Stoppage,35,STOP,Offside,2022-11-18T00:31:57Z,1,12:59,07:01,0,0,,,
+74,6,4,Boston Bruins,Philadelphia Flyers,202202026564,2022020265,Faceoff,64,FACEOFF,Kevin Hayes faceoff won against Pavel Zacha,2022-11-18T00:32:42Z,1,12:59,07:01,0,0,4.0,Philadelphia Flyers,PHI
+75,6,4,Boston Bruins,Philadelphia Flyers,202202026536,2022020265,Hit,36,HIT,Trent Frederic hit Rasmus Ristolainen,2022-11-18T00:32:51Z,1,13:08,06:52,0,0,6.0,Boston Bruins,BOS
+76,6,4,Boston Bruins,Philadelphia Flyers,202202026537,2022020265,Blocked Shot,37,BLOCKED_SHOT,Hampus Lindholm shot blocked shot by Travis Konecny,2022-11-18T00:33:07Z,1,13:24,06:36,0,0,4.0,Philadelphia Flyers,PHI
+77,6,4,Boston Bruins,Philadelphia Flyers,202202026538,2022020265,Stoppage,38,STOP,Goalie Stopped,2022-11-18T00:33:28Z,1,13:46,06:14,0,0,,,
+78,6,4,Boston Bruins,Philadelphia Flyers,2022020265181,2022020265,Shot,181,SHOT,Taylor Hall Wrist Shot saved by Carter Hart,2022-11-18T00:33:28Z,1,13:46,06:14,0,0,6.0,Boston Bruins,BOS
+79,6,4,Boston Bruins,Philadelphia Flyers,202202026565,2022020265,Faceoff,65,FACEOFF,Morgan Frost faceoff won against Taylor Hall,2022-11-18T00:34:11Z,1,13:46,06:14,0,0,4.0,Philadelphia Flyers,PHI
+80,6,4,Boston Bruins,Philadelphia Flyers,2022020265182,2022020265,Shot,182,SHOT,Taylor Hall Backhand saved by Carter Hart,2022-11-18T00:34:20Z,1,13:55,06:05,0,0,6.0,Boston Bruins,BOS
+81,6,4,Boston Bruins,Philadelphia Flyers,2022020265183,2022020265,Missed Shot,183,MISSED_SHOT,David Krejci Wide of Net Carter Hart,2022-11-18T00:34:29Z,1,14:04,05:56,0,0,6.0,Boston Bruins,BOS
+82,6,4,Boston Bruins,Philadelphia Flyers,202202026539,2022020265,Blocked Shot,39,BLOCKED_SHOT,Anton Stralman shot blocked shot by Joel Farabee,2022-11-18T00:34:36Z,1,14:11,05:49,0,0,4.0,Philadelphia Flyers,PHI
+83,6,4,Boston Bruins,Philadelphia Flyers,202202026540,2022020265,Hit,40,HIT,Anton Stralman hit Lukas Sedlak,2022-11-18T00:34:48Z,1,14:23,05:37,0,0,6.0,Boston Bruins,BOS
+84,6,4,Boston Bruins,Philadelphia Flyers,202202026541,2022020265,Hit,41,HIT,Anton Stralman hit Lukas Sedlak,2022-11-18T00:34:53Z,1,14:28,05:32,0,0,6.0,Boston Bruins,BOS
+85,6,4,Boston Bruins,Philadelphia Flyers,202202026542,2022020265,Hit,42,HIT,Lukas Sedlak hit Tomas Nosek,2022-11-18T00:35:06Z,1,14:41,05:19,0,0,4.0,Philadelphia Flyers,PHI
+86,6,4,Boston Bruins,Philadelphia Flyers,202202026543,2022020265,Hit,43,HIT,Brad Marchand hit Noah Cates,2022-11-18T00:35:52Z,1,15:27,04:33,0,0,6.0,Boston Bruins,BOS
+87,6,4,Boston Bruins,Philadelphia Flyers,202202026544,2022020265,Hit,44,HIT,Connor Clifton hit Zack MacEwen,2022-11-18T00:35:57Z,1,15:32,04:28,0,0,6.0,Boston Bruins,BOS
+88,6,4,Boston Bruins,Philadelphia Flyers,202202026545,2022020265,Blocked Shot,45,BLOCKED_SHOT,Noah Cates shot blocked shot by Hampus Lindholm,2022-11-18T00:36:05Z,1,15:40,04:20,0,0,6.0,Boston Bruins,BOS
+89,6,4,Boston Bruins,Philadelphia Flyers,202202026546,2022020265,Stoppage,46,STOP,Goalie Stopped,2022-11-18T00:36:21Z,1,15:56,04:04,0,0,,,
+90,6,4,Boston Bruins,Philadelphia Flyers,2022020265184,2022020265,Shot,184,SHOT,Scott Laughton Tip-In saved by Linus Ullmark,2022-11-18T00:36:21Z,1,15:56,04:04,0,0,4.0,Philadelphia Flyers,PHI
+91,6,4,Boston Bruins,Philadelphia Flyers,202202026566,2022020265,Faceoff,66,FACEOFF,Scott Laughton faceoff won against Charlie Coyle,2022-11-18T00:36:52Z,1,15:56,04:04,0,0,4.0,Philadelphia Flyers,PHI
+92,6,4,Boston Bruins,Philadelphia Flyers,2022020265185,2022020265,Missed Shot,185,MISSED_SHOT,Ivan Provorov Wide of Net Linus Ullmark,2022-11-18T00:36:56Z,1,16:00,04:00,0,0,4.0,Philadelphia Flyers,PHI
+93,6,4,Boston Bruins,Philadelphia Flyers,2022020265252,2022020265,Missed Shot,252,MISSED_SHOT,Ivan Provorov Wide of Net Linus Ullmark,2022-11-18T00:37:01Z,1,16:05,03:55,0,0,4.0,Philadelphia Flyers,PHI
+94,6,4,Boston Bruins,Philadelphia Flyers,202202026547,2022020265,Blocked Shot,47,BLOCKED_SHOT,Travis Konecny shot blocked shot by Hampus Lindholm,2022-11-18T00:37:10Z,1,16:14,03:46,0,0,6.0,Boston Bruins,BOS
+95,6,4,Boston Bruins,Philadelphia Flyers,202202026548,2022020265,Hit,48,HIT,Scott Laughton hit Connor Clifton,2022-11-18T00:37:19Z,1,16:23,03:37,0,0,4.0,Philadelphia Flyers,PHI
+96,6,4,Boston Bruins,Philadelphia Flyers,202202026549,2022020265,Blocked Shot,49,BLOCKED_SHOT,Pavel Zacha shot blocked shot by Ivan Provorov,2022-11-18T00:37:21Z,1,16:25,03:35,0,0,4.0,Philadelphia Flyers,PHI
+97,6,4,Boston Bruins,Philadelphia Flyers,2022020265186,2022020265,Giveaway,186,GIVEAWAY,Giveaway by Scott Laughton,2022-11-18T00:37:29Z,1,16:33,03:27,0,0,4.0,Philadelphia Flyers,PHI
+98,6,4,Boston Bruins,Philadelphia Flyers,202202026550,2022020265,Stoppage,50,STOP,Goalie Stopped,2022-11-18T00:37:32Z,1,16:36,03:24,0,0,,,
+99,6,4,Boston Bruins,Philadelphia Flyers,2022020265187,2022020265,Shot,187,SHOT,Trent Frederic Wrist Shot saved by Carter Hart,2022-11-18T00:37:32Z,1,16:36,03:24,0,0,6.0,Boston Bruins,BOS
+100,6,4,Boston Bruins,Philadelphia Flyers,202202026567,2022020265,Faceoff,67,FACEOFF,Patrick Brown faceoff won against David Krejci,2022-11-18T00:40:15Z,1,16:36,03:24,0,0,4.0,Philadelphia Flyers,PHI
+101,6,4,Boston Bruins,Philadelphia Flyers,2022020265351,2022020265,Hit,351,HIT,Justin Braun hit David Krejci,2022-11-18T00:40:27Z,1,16:48,03:12,0,0,4.0,Philadelphia Flyers,PHI
+102,6,4,Boston Bruins,Philadelphia Flyers,2022020265352,2022020265,Blocked Shot,352,BLOCKED_SHOT,Charlie McAvoy shot blocked shot by Max Willman,2022-11-18T00:40:52Z,1,17:13,02:47,0,0,4.0,Philadelphia Flyers,PHI
+103,6,4,Boston Bruins,Philadelphia Flyers,2022020265470,2022020265,Penalty,470,PENALTY,Jake DeBrusk Tripping against Morgan Frost,2022-11-18T00:40:59Z,1,17:19,02:41,0,0,6.0,Boston Bruins,BOS
+104,6,4,Boston Bruins,Philadelphia Flyers,202202026568,2022020265,Faceoff,68,FACEOFF,Patrice Bergeron faceoff won against Kevin Hayes,2022-11-18T00:41:33Z,1,17:19,02:41,0,0,6.0,Boston Bruins,BOS
+105,6,4,Boston Bruins,Philadelphia Flyers,2022020265188,2022020265,Giveaway,188,GIVEAWAY,Giveaway by Tony DeAngelo,2022-11-18T00:42:01Z,1,17:47,02:13,0,0,4.0,Philadelphia Flyers,PHI
+106,6,4,Boston Bruins,Philadelphia Flyers,2022020265353,2022020265,Hit,353,HIT,Tomas Nosek hit Noah Cates,2022-11-18T00:42:02Z,1,17:48,02:12,0,0,6.0,Boston Bruins,BOS
+107,6,4,Boston Bruins,Philadelphia Flyers,2022020265354,2022020265,Hit,354,HIT,Brandon Carlo hit Scott Laughton,2022-11-18T00:42:54Z,1,18:40,01:20,0,0,6.0,Boston Bruins,BOS
+108,6,4,Boston Bruins,Philadelphia Flyers,2022020265189,2022020265,Shot,189,SHOT,Pavel Zacha Tip-In saved by Carter Hart,2022-11-18T00:43:02Z,1,18:48,01:12,0,0,6.0,Boston Bruins,BOS
+109,6,4,Boston Bruins,Philadelphia Flyers,2022020265191,2022020265,Giveaway,191,GIVEAWAY,Giveaway by Connor Clifton,2022-11-18T00:43:09Z,1,18:55,01:05,0,0,6.0,Boston Bruins,BOS
+110,6,4,Boston Bruins,Philadelphia Flyers,2022020265190,2022020265,Missed Shot,190,MISSED_SHOT,Zack MacEwen Wide of Net Linus Ullmark,2022-11-18T00:43:11Z,1,18:57,01:03,0,0,4.0,Philadelphia Flyers,PHI
+111,6,4,Boston Bruins,Philadelphia Flyers,202202026569,2022020265,Faceoff,69,FACEOFF,Scott Laughton faceoff won against Patrice Bergeron,2022-11-18T00:44:33Z,1,19:18,00:42,0,0,4.0,Philadelphia Flyers,PHI
+112,6,4,Boston Bruins,Philadelphia Flyers,2022020265491,2022020265,Penalty,491,PENALTY,Too many men/ice served by Zack MacEwen,2022-11-18T00:44:33Z,1,19:18,00:42,0,0,4.0,Philadelphia Flyers,PHI
+113,6,4,Boston Bruins,Philadelphia Flyers,2022020265192,2022020265,Missed Shot,192,MISSED_SHOT,David Pastrnak Wide of Net Carter Hart,2022-11-18T00:44:51Z,1,19:36,00:24,0,0,6.0,Boston Bruins,BOS
+114,6,4,Boston Bruins,Philadelphia Flyers,2022020265193,2022020265,Shot,193,SHOT,Brad Marchand Wrap-around saved by Carter Hart,2022-11-18T00:44:53Z,1,19:37,00:23,0,0,6.0,Boston Bruins,BOS
+115,6,4,Boston Bruins,Philadelphia Flyers,2022020265253,2022020265,Missed Shot,253,MISSED_SHOT,Jake DeBrusk Wide of Net Carter Hart,2022-11-18T00:44:53Z,1,19:37,00:23,0,0,6.0,Boston Bruins,BOS
+116,6,4,Boston Bruins,Philadelphia Flyers,2022020265358,2022020265,Stoppage,358,STOP,Goalie Stopped,2022-11-18T00:44:53Z,1,19:37,00:23,0,0,,,
+117,6,4,Boston Bruins,Philadelphia Flyers,202202026570,2022020265,Faceoff,70,FACEOFF,David Krejci faceoff won against Travis Konecny,2022-11-18T00:46:04Z,1,19:37,00:23,0,0,6.0,Boston Bruins,BOS
+118,6,4,Boston Bruins,Philadelphia Flyers,2022020265359,2022020265,Blocked Shot,359,BLOCKED_SHOT,Brad Marchand shot blocked shot by Ivan Provorov,2022-11-18T00:46:16Z,1,19:49,00:11,0,0,4.0,Philadelphia Flyers,PHI
+119,6,4,Boston Bruins,Philadelphia Flyers,2022020265194,2022020265,Shot,194,SHOT,David Pastrnak Slap Shot saved by Carter Hart,2022-11-18T00:46:21Z,1,19:54,00:06,0,0,6.0,Boston Bruins,BOS
+120,6,4,Boston Bruins,Philadelphia Flyers,2022020265360,2022020265,Stoppage,360,STOP,Goalie Stopped,2022-11-18T00:46:21Z,1,19:54,00:06,0,0,,,
+121,6,4,Boston Bruins,Philadelphia Flyers,202202026571,2022020265,Faceoff,71,FACEOFF,Brad Marchand faceoff won against Patrick Brown,2022-11-18T00:47:09Z,1,19:54,00:06,0,0,6.0,Boston Bruins,BOS
+122,6,4,Boston Bruins,Philadelphia Flyers,2022020265195,2022020265,Missed Shot,195,MISSED_SHOT,David Pastrnak Wide of Net Carter Hart,2022-11-18T00:47:12Z,1,19:58,00:02,0,0,6.0,Boston Bruins,BOS
+123,6,4,Boston Bruins,Philadelphia Flyers,2022020265361,2022020265,Period End,361,PERIOD_END,End of 1st Period,2022-11-18T00:47:14Z,1,20:00,00:00,0,0,,,
+124,6,4,Boston Bruins,Philadelphia Flyers,2022020265364,2022020265,Period Official,364,PERIOD_OFFICIAL,Period Official,2022-11-18T00:47:21Z,1,20:00,00:00,0,0,,,
+125,6,4,Boston Bruins,Philadelphia Flyers,2022020265365,2022020265,Period Ready,365,PERIOD_READY,Period Ready,2022-11-18T01:04:48Z,2,00:00,20:00,0,0,,,
+126,6,4,Boston Bruins,Philadelphia Flyers,202202026572,2022020265,Period Start,72,PERIOD_START,Period Start,2022-11-18T01:06:07Z,2,00:00,20:00,0,0,,,
+127,6,4,Boston Bruins,Philadelphia Flyers,202202026573,2022020265,Faceoff,73,FACEOFF,Scott Laughton faceoff won against Patrice Bergeron,2022-11-18T01:06:07Z,2,00:00,20:00,0,0,4.0,Philadelphia Flyers,PHI
+128,6,4,Boston Bruins,Philadelphia Flyers,2022020265197,2022020265,Giveaway,197,GIVEAWAY,Giveaway by Ivan Provorov,2022-11-18T01:06:51Z,2,00:44,19:16,0,0,4.0,Philadelphia Flyers,PHI
+129,6,4,Boston Bruins,Philadelphia Flyers,2022020265254,2022020265,Missed Shot,254,MISSED_SHOT,Patrice Bergeron Over Net Carter Hart,2022-11-18T01:06:51Z,2,00:44,19:16,0,0,6.0,Boston Bruins,BOS
+130,6,4,Boston Bruins,Philadelphia Flyers,2022020265198,2022020265,Shot,198,SHOT,Brad Marchand Slap Shot saved by Carter Hart,2022-11-18T01:06:59Z,2,00:53,19:07,0,0,6.0,Boston Bruins,BOS
+131,6,4,Boston Bruins,Philadelphia Flyers,2022020265366,2022020265,Stoppage,366,STOP,Puck Frozen,2022-11-18T01:06:59Z,2,00:53,19:07,0,0,,,
+132,6,4,Boston Bruins,Philadelphia Flyers,202202026574,2022020265,Faceoff,74,FACEOFF,Patrice Bergeron faceoff won against Patrick Brown,2022-11-18T01:07:23Z,2,00:53,19:07,0,0,6.0,Boston Bruins,BOS
+133,6,4,Boston Bruins,Philadelphia Flyers,2022020265199,2022020265,Shot,199,SHOT,David Pastrnak Slap Shot saved by Carter Hart,2022-11-18T01:07:32Z,2,01:01,18:59,0,0,6.0,Boston Bruins,BOS
+134,6,4,Boston Bruins,Philadelphia Flyers,2022020265367,2022020265,Stoppage,367,STOP,Goalie Stopped,2022-11-18T01:07:32Z,2,01:01,18:59,0,0,,,
+135,6,4,Boston Bruins,Philadelphia Flyers,202202026575,2022020265,Faceoff,75,FACEOFF,Brad Marchand faceoff won against Patrick Brown,2022-11-18T01:08:04Z,2,01:01,18:59,0,0,6.0,Boston Bruins,BOS
+136,6,4,Boston Bruins,Philadelphia Flyers,2022020265368,2022020265,Blocked Shot,368,BLOCKED_SHOT,David Pastrnak shot blocked shot by Patrick Brown,2022-11-18T01:08:16Z,2,01:13,18:47,0,0,4.0,Philadelphia Flyers,PHI
+137,6,4,Boston Bruins,Philadelphia Flyers,2022020265200,2022020265,Shot,200,SHOT,Patrice Bergeron Tip-In saved by Carter Hart,2022-11-18T01:08:30Z,2,01:27,18:33,0,0,6.0,Boston Bruins,BOS
+138,6,4,Boston Bruins,Philadelphia Flyers,2022020265401,2022020265,Giveaway,401,GIVEAWAY,Giveaway by Scott Laughton,2022-11-18T01:09:01Z,2,01:58,18:02,0,0,4.0,Philadelphia Flyers,PHI
+139,6,4,Boston Bruins,Philadelphia Flyers,2022020265369,2022020265,Stoppage,369,STOP,Puck Frozen,2022-11-18T01:09:24Z,2,02:21,17:39,0,0,,,
+140,6,4,Boston Bruins,Philadelphia Flyers,202202026576,2022020265,Faceoff,76,FACEOFF,David Krejci faceoff won against Morgan Frost,2022-11-18T01:09:58Z,2,02:21,17:39,0,0,6.0,Boston Bruins,BOS
+141,6,4,Boston Bruins,Philadelphia Flyers,2022020265370,2022020265,Stoppage,370,STOP,Goalie Stopped,2022-11-18T01:10:12Z,2,02:35,17:25,0,0,,,
+142,6,4,Boston Bruins,Philadelphia Flyers,2022020265402,2022020265,Shot,402,SHOT,Morgan Frost Backhand saved by Linus Ullmark,2022-11-18T01:10:12Z,2,02:35,17:25,0,0,4.0,Philadelphia Flyers,PHI
+143,6,4,Boston Bruins,Philadelphia Flyers,202202026577,2022020265,Faceoff,77,FACEOFF,Tomas Nosek faceoff won against Joel Farabee,2022-11-18T01:11:12Z,2,02:35,17:25,0,0,6.0,Boston Bruins,BOS
+144,6,4,Boston Bruins,Philadelphia Flyers,2022020265371,2022020265,Hit,371,HIT,Morgan Frost hit Brandon Carlo,2022-11-18T01:11:14Z,2,02:37,17:23,0,0,4.0,Philadelphia Flyers,PHI
+145,6,4,Boston Bruins,Philadelphia Flyers,2022020265403,2022020265,Shot,403,SHOT,Max Willman Wrist Shot saved by Linus Ullmark,2022-11-18T01:11:30Z,2,02:53,17:07,0,0,4.0,Philadelphia Flyers,PHI
+146,6,4,Boston Bruins,Philadelphia Flyers,2022020265372,2022020265,Hit,372,HIT,Max Willman hit Brandon Carlo,2022-11-18T01:11:38Z,2,03:01,16:59,0,0,4.0,Philadelphia Flyers,PHI
+147,6,4,Boston Bruins,Philadelphia Flyers,2022020265404,2022020265,Takeaway,404,TAKEAWAY,Takeaway by Max Willman,2022-11-18T01:12:02Z,2,03:25,16:35,0,0,4.0,Philadelphia Flyers,PHI
+148,6,4,Boston Bruins,Philadelphia Flyers,2022020265373,2022020265,Stoppage,373,STOP,Icing,2022-11-18T01:12:05Z,2,03:28,16:32,0,0,,,
+149,6,4,Boston Bruins,Philadelphia Flyers,202202026578,2022020265,Faceoff,78,FACEOFF,Charlie Coyle faceoff won against Lukas Sedlak,2022-11-18T01:12:32Z,2,03:28,16:32,0,0,6.0,Boston Bruins,BOS
+150,6,4,Boston Bruins,Philadelphia Flyers,2022020265374,2022020265,Stoppage,374,STOP,Goalie Stopped,2022-11-18T01:12:44Z,2,03:41,16:19,0,0,,,
+151,6,4,Boston Bruins,Philadelphia Flyers,2022020265405,2022020265,Shot,405,SHOT,Pavel Zacha Snap Shot saved by Carter Hart,2022-11-18T01:12:44Z,2,03:41,16:19,0,0,6.0,Boston Bruins,BOS
+152,6,4,Boston Bruins,Philadelphia Flyers,202202026579,2022020265,Faceoff,79,FACEOFF,Patrick Brown faceoff won against Patrice Bergeron,2022-11-18T01:13:22Z,2,03:41,16:19,0,0,4.0,Philadelphia Flyers,PHI
+153,6,4,Boston Bruins,Philadelphia Flyers,2022020265406,2022020265,Missed Shot,406,MISSED_SHOT,Brad Marchand Wide of Net Carter Hart,2022-11-18T01:13:47Z,2,04:06,15:54,0,0,6.0,Boston Bruins,BOS
+154,6,4,Boston Bruins,Philadelphia Flyers,2022020265407,2022020265,Giveaway,407,GIVEAWAY,Giveaway by Matt Grzelcyk,2022-11-18T01:14:12Z,2,04:31,15:29,0,0,6.0,Boston Bruins,BOS
+155,6,4,Boston Bruins,Philadelphia Flyers,2022020265408,2022020265,Takeaway,408,TAKEAWAY,Takeaway by Charlie McAvoy,2022-11-18T01:14:19Z,2,04:38,15:22,0,0,6.0,Boston Bruins,BOS
+156,6,4,Boston Bruins,Philadelphia Flyers,2022020265375,2022020265,Hit,375,HIT,Scott Laughton hit David Pastrnak,2022-11-18T01:14:26Z,2,04:45,15:15,0,0,4.0,Philadelphia Flyers,PHI
+157,6,4,Boston Bruins,Philadelphia Flyers,2022020265376,2022020265,Stoppage,376,STOP,Offside,2022-11-18T01:14:47Z,2,05:06,14:54,0,0,,,
+158,6,4,Boston Bruins,Philadelphia Flyers,202202026580,2022020265,Faceoff,80,FACEOFF,Noah Cates faceoff won against Charlie Coyle,2022-11-18T01:15:12Z,2,05:06,14:54,0,0,4.0,Philadelphia Flyers,PHI
+159,6,4,Boston Bruins,Philadelphia Flyers,2022020265377,2022020265,Stoppage,377,STOP,Icing,2022-11-18T01:15:32Z,2,05:26,14:34,0,0,,,
+160,6,4,Boston Bruins,Philadelphia Flyers,202202026581,2022020265,Faceoff,81,FACEOFF,Charlie Coyle faceoff won against Zack MacEwen,2022-11-18T01:16:30Z,2,05:26,14:34,0,0,6.0,Boston Bruins,BOS
+161,6,4,Boston Bruins,Philadelphia Flyers,2022020265378,2022020265,Hit,378,HIT,Owen Tippett hit Brandon Carlo,2022-11-18T01:16:41Z,2,05:37,14:23,0,0,4.0,Philadelphia Flyers,PHI
+162,6,4,Boston Bruins,Philadelphia Flyers,2022020265379,2022020265,Hit,379,HIT,Jake DeBrusk hit Ivan Provorov,2022-11-18T01:17:07Z,2,06:03,13:57,0,0,6.0,Boston Bruins,BOS
+163,6,4,Boston Bruins,Philadelphia Flyers,2022020265380,2022020265,Stoppage,380,STOP,Puck Frozen,2022-11-18T01:17:35Z,2,06:32,13:28,0,0,,,
+164,6,4,Boston Bruins,Philadelphia Flyers,202202026582,2022020265,Faceoff,82,FACEOFF,Scott Laughton faceoff won against Tomas Nosek,2022-11-18T01:19:56Z,2,06:32,13:28,0,0,4.0,Philadelphia Flyers,PHI
+165,6,4,Boston Bruins,Philadelphia Flyers,2022020265381,2022020265,Blocked Shot,381,BLOCKED_SHOT,Justin Braun shot blocked shot by Nick Foligno,2022-11-18T01:20:04Z,2,06:40,13:20,0,0,6.0,Boston Bruins,BOS
+166,6,4,Boston Bruins,Philadelphia Flyers,2022020265382,2022020265,Stoppage,382,STOP,Icing,2022-11-18T01:20:34Z,2,07:10,12:50,0,0,,,
+167,6,4,Boston Bruins,Philadelphia Flyers,202202026583,2022020265,Faceoff,83,FACEOFF,Kevin Hayes faceoff won against Patrice Bergeron,2022-11-18T01:21:04Z,2,07:10,12:50,0,0,4.0,Philadelphia Flyers,PHI
+168,6,4,Boston Bruins,Philadelphia Flyers,2022020265409,2022020265,Takeaway,409,TAKEAWAY,Takeaway by Noah Cates,2022-11-18T01:21:21Z,2,07:27,12:33,0,0,4.0,Philadelphia Flyers,PHI
+169,6,4,Boston Bruins,Philadelphia Flyers,2022020265383,2022020265,Hit,383,HIT,Zack MacEwen hit Matt Grzelcyk,2022-11-18T01:21:34Z,2,07:40,12:20,0,0,4.0,Philadelphia Flyers,PHI
+170,6,4,Boston Bruins,Philadelphia Flyers,2022020265384,2022020265,Hit,384,HIT,Noah Cates hit Matt Grzelcyk,2022-11-18T01:21:53Z,2,07:59,12:01,0,0,4.0,Philadelphia Flyers,PHI
+171,6,4,Boston Bruins,Philadelphia Flyers,2022020265410,2022020265,Shot,410,SHOT,Taylor Hall Wrist Shot saved by Carter Hart,2022-11-18T01:22:28Z,2,08:34,11:26,0,0,6.0,Boston Bruins,BOS
+172,6,4,Boston Bruins,Philadelphia Flyers,2022020265386,2022020265,Blocked Shot,386,BLOCKED_SHOT,Jake DeBrusk shot blocked shot by Morgan Frost,2022-11-18T01:22:31Z,2,08:37,11:23,0,0,4.0,Philadelphia Flyers,PHI
+173,6,4,Boston Bruins,Philadelphia Flyers,2022020265387,2022020265,Blocked Shot,387,BLOCKED_SHOT,Charlie Coyle shot blocked shot by Max Willman,2022-11-18T01:22:40Z,2,08:46,11:14,0,0,4.0,Philadelphia Flyers,PHI
+174,6,4,Boston Bruins,Philadelphia Flyers,2022020265388,2022020265,Hit,388,HIT,Charlie Coyle hit Max Willman,2022-11-18T01:22:52Z,2,08:58,11:02,0,0,6.0,Boston Bruins,BOS
+175,6,4,Boston Bruins,Philadelphia Flyers,2022020265411,2022020265,Shot,411,SHOT,Charlie Coyle Wrist Shot saved by Carter Hart,2022-11-18T01:22:54Z,2,09:00,11:00,0,0,6.0,Boston Bruins,BOS
+176,6,4,Boston Bruins,Philadelphia Flyers,2022020265412,2022020265,Stoppage,412,STOP,Goalie Stopped,2022-11-18T01:22:54Z,2,09:00,11:00,0,0,,,
+177,6,4,Boston Bruins,Philadelphia Flyers,202202026584,2022020265,Faceoff,84,FACEOFF,Patrice Bergeron faceoff won against Lukas Sedlak,2022-11-18T01:23:37Z,2,09:00,11:00,0,0,6.0,Boston Bruins,BOS
+178,6,4,Boston Bruins,Philadelphia Flyers,2022020265390,2022020265,Blocked Shot,390,BLOCKED_SHOT,David Pastrnak shot blocked shot by Lukas Sedlak,2022-11-18T01:23:44Z,2,09:07,10:53,0,0,4.0,Philadelphia Flyers,PHI
+179,6,4,Boston Bruins,Philadelphia Flyers,2022020265391,2022020265,Hit,391,HIT,Patrick Brown hit Patrice Bergeron,2022-11-18T01:23:58Z,2,09:21,10:39,0,0,4.0,Philadelphia Flyers,PHI
+180,6,4,Boston Bruins,Philadelphia Flyers,2022020265392,2022020265,Hit,392,HIT,Rasmus Ristolainen hit David Pastrnak,2022-11-18T01:24:02Z,2,09:25,10:35,0,0,4.0,Philadelphia Flyers,PHI
+181,6,4,Boston Bruins,Philadelphia Flyers,2022020265413,2022020265,Shot,413,SHOT,Kevin Hayes Wrist Shot saved by Linus Ullmark,2022-11-18T01:24:12Z,2,09:35,10:25,0,0,4.0,Philadelphia Flyers,PHI
+182,6,4,Boston Bruins,Philadelphia Flyers,2022020265414,2022020265,Missed Shot,414,MISSED_SHOT,Charlie Coyle Wide of Net Carter Hart,2022-11-18T01:24:31Z,2,09:54,10:06,0,0,6.0,Boston Bruins,BOS
+183,6,4,Boston Bruins,Philadelphia Flyers,2022020265394,2022020265,Hit,394,HIT,Zack MacEwen hit A.J. Greer,2022-11-18T01:25:39Z,2,11:02,08:58,0,0,4.0,Philadelphia Flyers,PHI
+184,6,4,Boston Bruins,Philadelphia Flyers,2022020265393,2022020265,Stoppage,393,STOP,TV timeout,2022-11-18T01:25:45Z,2,11:09,08:51,0,0,,,
+185,6,4,Boston Bruins,Philadelphia Flyers,2022020265415,2022020265,Shot,415,SHOT,Rasmus Ristolainen Slap Shot saved by Linus Ullmark,2022-11-18T01:25:45Z,2,11:09,08:51,0,0,4.0,Philadelphia Flyers,PHI
+186,6,4,Boston Bruins,Philadelphia Flyers,202202026585,2022020265,Faceoff,85,FACEOFF,Pavel Zacha faceoff won against Scott Laughton,2022-11-18T01:28:25Z,2,11:09,08:51,0,0,6.0,Boston Bruins,BOS
+187,6,4,Boston Bruins,Philadelphia Flyers,2022020265416,2022020265,Goal,416,GOAL,"Tomas Nosek (2) Wrist Shot, assists: Nick Foligno (5), Pavel Zacha (7)",2022-11-18T01:28:41Z,2,11:25,08:35,1,0,6.0,Boston Bruins,BOS
+188,6,4,Boston Bruins,Philadelphia Flyers,202202026586,2022020265,Faceoff,86,FACEOFF,Noah Cates faceoff won against Charlie Coyle,2022-11-18T01:29:30Z,2,11:25,08:35,1,0,4.0,Philadelphia Flyers,PHI
+189,6,4,Boston Bruins,Philadelphia Flyers,2022020265395,2022020265,Hit,395,HIT,Charlie Coyle hit Justin Braun,2022-11-18T01:30:26Z,2,12:21,07:39,1,0,6.0,Boston Bruins,BOS
+190,6,4,Boston Bruins,Philadelphia Flyers,2022020265396,2022020265,Hit,396,HIT,Charlie Coyle hit Justin Braun,2022-11-18T01:30:35Z,2,12:30,07:30,1,0,6.0,Boston Bruins,BOS
+191,6,4,Boston Bruins,Philadelphia Flyers,2022020265397,2022020265,Stoppage,397,STOP,Hand Pass,2022-11-18T01:30:51Z,2,12:47,07:13,1,0,,,
+192,6,4,Boston Bruins,Philadelphia Flyers,202202026587,2022020265,Faceoff,87,FACEOFF,Noah Cates faceoff won against Patrice Bergeron,2022-11-18T01:31:16Z,2,12:47,07:13,1,0,4.0,Philadelphia Flyers,PHI
+193,6,4,Boston Bruins,Philadelphia Flyers,2022020265398,2022020265,Hit,398,HIT,Connor Clifton hit Owen Tippett,2022-11-18T01:31:24Z,2,12:55,07:05,1,0,6.0,Boston Bruins,BOS
+194,6,4,Boston Bruins,Philadelphia Flyers,2022020265399,2022020265,Blocked Shot,399,BLOCKED_SHOT,David Pastrnak shot blocked shot by Tony DeAngelo,2022-11-18T01:31:47Z,2,13:18,06:42,1,0,4.0,Philadelphia Flyers,PHI
+195,6,4,Boston Bruins,Philadelphia Flyers,2022020265417,2022020265,Shot,417,SHOT,Connor Clifton Wrist Shot saved by Carter Hart,2022-11-18T01:32:14Z,2,13:45,06:15,1,0,6.0,Boston Bruins,BOS
+196,6,4,Boston Bruins,Philadelphia Flyers,2022020265418,2022020265,Missed Shot,418,MISSED_SHOT,David Krejci Wide of Net Carter Hart,2022-11-18T01:32:24Z,2,13:55,06:05,1,0,6.0,Boston Bruins,BOS
+197,6,4,Boston Bruins,Philadelphia Flyers,2022020265400,2022020265,Stoppage,400,STOP,Offside,2022-11-18T01:32:33Z,2,14:03,05:57,1,0,,,
+198,6,4,Boston Bruins,Philadelphia Flyers,202202026589,2022020265,Faceoff,89,FACEOFF,Morgan Frost faceoff won against Charlie Coyle,2022-11-18T01:34:52Z,2,14:03,05:57,1,0,4.0,Philadelphia Flyers,PHI
+199,6,4,Boston Bruins,Philadelphia Flyers,2022020265419,2022020265,Shot,419,SHOT,Nick Foligno Wrist Shot saved by Carter Hart,2022-11-18T01:35:02Z,2,14:13,05:47,1,0,6.0,Boston Bruins,BOS
+200,6,4,Boston Bruins,Philadelphia Flyers,2022020265651,2022020265,Hit,651,HIT,Brandon Carlo hit Max Willman,2022-11-18T01:35:32Z,2,14:43,05:17,1,0,6.0,Boston Bruins,BOS
+201,6,4,Boston Bruins,Philadelphia Flyers,2022020265420,2022020265,Missed Shot,420,MISSED_SHOT,Owen Tippett Wide of Net Linus Ullmark,2022-11-18T01:35:57Z,2,15:08,04:52,1,0,4.0,Philadelphia Flyers,PHI
+202,6,4,Boston Bruins,Philadelphia Flyers,2022020265652,2022020265,Stoppage,652,STOP,Puck in Benches,2022-11-18T01:36:14Z,2,15:26,04:34,1,0,,,
+203,6,4,Boston Bruins,Philadelphia Flyers,202202026590,2022020265,Faceoff,90,FACEOFF,Kevin Hayes faceoff won against Patrice Bergeron,2022-11-18T01:36:43Z,2,15:26,04:34,1,0,4.0,Philadelphia Flyers,PHI
+204,6,4,Boston Bruins,Philadelphia Flyers,2022020265653,2022020265,Hit,653,HIT,Scott Laughton hit David Pastrnak,2022-11-18T01:37:04Z,2,15:47,04:13,1,0,4.0,Philadelphia Flyers,PHI
+205,6,4,Boston Bruins,Philadelphia Flyers,2022020265421,2022020265,Missed Shot,421,MISSED_SHOT,David Pastrnak Wide of Net Carter Hart,2022-11-18T01:37:13Z,2,15:56,04:04,1,0,6.0,Boston Bruins,BOS
+206,6,4,Boston Bruins,Philadelphia Flyers,2022020265422,2022020265,Giveaway,422,GIVEAWAY,Giveaway by David Pastrnak,2022-11-18T01:37:25Z,2,16:08,03:52,1,0,6.0,Boston Bruins,BOS
+207,6,4,Boston Bruins,Philadelphia Flyers,2022020265423,2022020265,Takeaway,423,TAKEAWAY,Takeaway by Charlie McAvoy,2022-11-18T01:37:30Z,2,16:13,03:47,1,0,6.0,Boston Bruins,BOS
+208,6,4,Boston Bruins,Philadelphia Flyers,2022020265424,2022020265,Giveaway,424,GIVEAWAY,Giveaway by Charlie McAvoy,2022-11-18T01:37:33Z,2,16:16,03:44,1,0,6.0,Boston Bruins,BOS
+209,6,4,Boston Bruins,Philadelphia Flyers,2022020265426,2022020265,Missed Shot,426,MISSED_SHOT,Tony DeAngelo Wide of Net Linus Ullmark,2022-11-18T01:37:35Z,2,16:18,03:42,1,0,4.0,Philadelphia Flyers,PHI
+210,6,4,Boston Bruins,Philadelphia Flyers,2022020265654,2022020265,Hit,654,HIT,Justin Braun hit Jake DeBrusk,2022-11-18T01:38:00Z,2,16:43,03:17,1,0,4.0,Philadelphia Flyers,PHI
+211,6,4,Boston Bruins,Philadelphia Flyers,2022020265425,2022020265,Shot,425,SHOT,Jake DeBrusk Wrist Shot saved by Carter Hart,2022-11-18T01:38:28Z,2,17:11,02:49,1,0,6.0,Boston Bruins,BOS
+212,6,4,Boston Bruins,Philadelphia Flyers,2022020265655,2022020265,Stoppage,655,STOP,Icing,2022-11-18T01:38:40Z,2,17:23,02:37,1,0,,,
+213,6,4,Boston Bruins,Philadelphia Flyers,202202026591,2022020265,Faceoff,91,FACEOFF,Patrice Bergeron faceoff won against Morgan Frost,2022-11-18T01:39:09Z,2,17:23,02:37,1,0,6.0,Boston Bruins,BOS
+214,6,4,Boston Bruins,Philadelphia Flyers,2022020265427,2022020265,Missed Shot,427,MISSED_SHOT,Patrice Bergeron Wide of Net Carter Hart,2022-11-18T01:39:20Z,2,17:34,02:26,1,0,6.0,Boston Bruins,BOS
+215,6,4,Boston Bruins,Philadelphia Flyers,2022020265656,2022020265,Blocked Shot,656,BLOCKED_SHOT,Noah Cates shot blocked shot by Connor Clifton,2022-11-18T01:39:51Z,2,18:05,01:55,1,0,6.0,Boston Bruins,BOS
+216,6,4,Boston Bruins,Philadelphia Flyers,2022020265429,2022020265,Shot,429,SHOT,Tony DeAngelo Wrist Shot saved by Linus Ullmark,2022-11-18T01:39:58Z,2,18:12,01:48,1,0,4.0,Philadelphia Flyers,PHI
+217,6,4,Boston Bruins,Philadelphia Flyers,2022020265657,2022020265,Stoppage,657,STOP,Icing,2022-11-18T01:40:42Z,2,18:56,01:04,1,0,,,
+218,6,4,Boston Bruins,Philadelphia Flyers,202202026592,2022020265,Faceoff,92,FACEOFF,David Krejci faceoff won against Kevin Hayes,2022-11-18T01:41:21Z,2,18:56,01:04,1,0,6.0,Boston Bruins,BOS
+219,6,4,Boston Bruins,Philadelphia Flyers,2022020265428,2022020265,Takeaway,428,TAKEAWAY,Takeaway by Matt Grzelcyk,2022-11-18T01:41:34Z,2,19:09,00:51,1,0,6.0,Boston Bruins,BOS
+220,6,4,Boston Bruins,Philadelphia Flyers,2022020265658,2022020265,Hit,658,HIT,Travis Sanheim hit Taylor Hall,2022-11-18T01:41:49Z,2,19:24,00:36,1,0,4.0,Philadelphia Flyers,PHI
+221,6,4,Boston Bruins,Philadelphia Flyers,2022020265741,2022020265,Penalty,741,PENALTY,Taylor Hall Slashing against Travis Sanheim,2022-11-18T01:41:53Z,2,19:27,00:33,1,0,6.0,Boston Bruins,BOS
+222,6,4,Boston Bruins,Philadelphia Flyers,202202026593,2022020265,Faceoff,93,FACEOFF,Patrice Bergeron faceoff won against Kevin Hayes,2022-11-18T01:42:29Z,2,19:27,00:33,1,0,6.0,Boston Bruins,BOS
+223,6,4,Boston Bruins,Philadelphia Flyers,2022020265659,2022020265,Period End,659,PERIOD_END,End of 2nd Period,2022-11-18T01:43:01Z,2,20:00,00:00,1,0,,,
+224,6,4,Boston Bruins,Philadelphia Flyers,2022020265662,2022020265,Period Official,662,PERIOD_OFFICIAL,Period Official,2022-11-18T01:43:06Z,2,20:00,00:00,1,0,,,
+225,6,4,Boston Bruins,Philadelphia Flyers,2022020265663,2022020265,Period Ready,663,PERIOD_READY,Period Ready,2022-11-18T02:00:32Z,3,00:00,20:00,1,0,,,
+226,6,4,Boston Bruins,Philadelphia Flyers,202202026594,2022020265,Period Start,94,PERIOD_START,Period Start,2022-11-18T02:01:46Z,3,00:00,20:00,1,0,,,
+227,6,4,Boston Bruins,Philadelphia Flyers,202202026595,2022020265,Faceoff,95,FACEOFF,Tomas Nosek faceoff won against Noah Cates,2022-11-18T02:01:46Z,3,00:00,20:00,1,0,6.0,Boston Bruins,BOS
+228,6,4,Boston Bruins,Philadelphia Flyers,2022020265664,2022020265,Stoppage,664,STOP,Offside,2022-11-18T02:02:21Z,3,00:36,19:24,1,0,,,
+229,6,4,Boston Bruins,Philadelphia Flyers,202202026596,2022020265,Faceoff,96,FACEOFF,Kevin Hayes faceoff won against Patrice Bergeron,2022-11-18T02:02:46Z,3,00:36,19:24,1,0,4.0,Philadelphia Flyers,PHI
+230,6,4,Boston Bruins,Philadelphia Flyers,2022020265665,2022020265,Stoppage,665,STOP,Hand Pass,2022-11-18T02:03:11Z,3,01:01,18:59,1,0,,,
+231,6,4,Boston Bruins,Philadelphia Flyers,202202026597,2022020265,Faceoff,97,FACEOFF,Tomas Nosek faceoff won against Kevin Hayes,2022-11-18T02:03:37Z,3,01:01,18:59,1,0,6.0,Boston Bruins,BOS
+232,6,4,Boston Bruins,Philadelphia Flyers,2022020265430,2022020265,Shot,430,SHOT,Morgan Frost Backhand saved by Linus Ullmark,2022-11-18T02:04:50Z,3,02:14,17:46,1,0,4.0,Philadelphia Flyers,PHI
+233,6,4,Boston Bruins,Philadelphia Flyers,2022020265814,2022020265,Penalty,814,PENALTY,Linus Ullmark Interference against Morgan Frost served by Taylor Hall,2022-11-18T02:05:04Z,3,02:28,17:32,1,0,6.0,Boston Bruins,BOS
+234,6,4,Boston Bruins,Philadelphia Flyers,202202026598,2022020265,Faceoff,98,FACEOFF,Kevin Hayes faceoff won against Patrice Bergeron,2022-11-18T02:05:41Z,3,02:28,17:32,1,0,4.0,Philadelphia Flyers,PHI
+235,6,4,Boston Bruins,Philadelphia Flyers,2022020265257,2022020265,Blocked Shot,257,BLOCKED_SHOT,Tony DeAngelo shot blocked shot by Hampus Lindholm,2022-11-18T02:05:43Z,3,02:30,17:30,1,0,6.0,Boston Bruins,BOS
+236,6,4,Boston Bruins,Philadelphia Flyers,2022020265255,2022020265,Blocked Shot,255,BLOCKED_SHOT,Hampus Lindholm shot blocked shot by Joel Farabee,2022-11-18T02:05:52Z,3,02:39,17:21,1,0,4.0,Philadelphia Flyers,PHI
+237,6,4,Boston Bruins,Philadelphia Flyers,2022020265667,2022020265,Blocked Shot,667,BLOCKED_SHOT,Brandon Carlo shot blocked shot by Joel Farabee,2022-11-18T02:06:33Z,3,03:20,16:40,1,0,4.0,Philadelphia Flyers,PHI
+238,6,4,Boston Bruins,Philadelphia Flyers,2022020265668,2022020265,Blocked Shot,668,BLOCKED_SHOT,Ivan Provorov shot blocked shot by Brandon Carlo,2022-11-18T02:07:44Z,3,04:31,15:29,1,0,6.0,Boston Bruins,BOS
+239,6,4,Boston Bruins,Philadelphia Flyers,2022020265256,2022020265,Blocked Shot,256,BLOCKED_SHOT,Travis Sanheim shot blocked shot by Hampus Lindholm,2022-11-18T02:07:47Z,3,04:34,15:26,1,0,6.0,Boston Bruins,BOS
+240,6,4,Boston Bruins,Philadelphia Flyers,2022020265431,2022020265,Takeaway,431,TAKEAWAY,Takeaway by David Pastrnak,2022-11-18T02:08:05Z,3,04:52,15:08,1,0,6.0,Boston Bruins,BOS
+241,6,4,Boston Bruins,Philadelphia Flyers,2022020265432,2022020265,Shot,432,SHOT,Kevin Hayes Wrist Shot saved by Linus Ullmark,2022-11-18T02:09:07Z,3,05:54,14:06,1,0,4.0,Philadelphia Flyers,PHI
+242,6,4,Boston Bruins,Philadelphia Flyers,2022020265669,2022020265,Stoppage,669,STOP,Goalie Stopped,2022-11-18T02:09:07Z,3,05:54,14:06,1,0,,,
+243,6,4,Boston Bruins,Philadelphia Flyers,202202026599,2022020265,Faceoff,99,FACEOFF,Nick Foligno faceoff won against Morgan Frost,2022-11-18T02:10:04Z,3,05:54,14:06,1,0,6.0,Boston Bruins,BOS
+244,6,4,Boston Bruins,Philadelphia Flyers,2022020265670,2022020265,Hit,670,HIT,Max Willman hit Connor Clifton,2022-11-18T02:10:16Z,3,06:06,13:54,1,0,4.0,Philadelphia Flyers,PHI
+245,6,4,Boston Bruins,Philadelphia Flyers,2022020265850,2022020265,Penalty,850,PENALTY,Max Willman High-sticking against Connor Clifton,2022-11-18T02:10:42Z,3,06:32,13:28,1,0,4.0,Philadelphia Flyers,PHI
+246,6,4,Boston Bruins,Philadelphia Flyers,2022020265100,2022020265,Faceoff,100,FACEOFF,Patrice Bergeron faceoff won against Scott Laughton,2022-11-18T02:13:03Z,3,06:32,13:28,1,0,6.0,Boston Bruins,BOS
+247,6,4,Boston Bruins,Philadelphia Flyers,2022020265433,2022020265,Giveaway,433,GIVEAWAY,Giveaway by Brad Marchand,2022-11-18T02:13:15Z,3,06:44,13:16,1,0,6.0,Boston Bruins,BOS
+248,6,4,Boston Bruins,Philadelphia Flyers,2022020265434,2022020265,Giveaway,434,GIVEAWAY,Giveaway by David Pastrnak,2022-11-18T02:13:26Z,3,06:55,13:05,1,0,6.0,Boston Bruins,BOS
+249,6,4,Boston Bruins,Philadelphia Flyers,2022020265671,2022020265,Hit,671,HIT,Jake DeBrusk hit Justin Braun,2022-11-18T02:13:45Z,3,07:14,12:46,1,0,6.0,Boston Bruins,BOS
+250,6,4,Boston Bruins,Philadelphia Flyers,2022020265435,2022020265,Goal,435,GOAL,"Jake DeBrusk (6) Snap Shot, assists: David Pastrnak (17), Charlie McAvoy (2)",2022-11-18T02:14:03Z,3,07:32,12:28,2,0,6.0,Boston Bruins,BOS
+251,6,4,Boston Bruins,Philadelphia Flyers,2022020265601,2022020265,Faceoff,601,FACEOFF,Tomas Nosek faceoff won against Kevin Hayes,2022-11-18T02:14:56Z,3,07:32,12:28,2,0,6.0,Boston Bruins,BOS
+252,6,4,Boston Bruins,Philadelphia Flyers,2022020265672,2022020265,Blocked Shot,672,BLOCKED_SHOT,Nick Foligno shot blocked shot by Rasmus Ristolainen,2022-11-18T02:15:22Z,3,07:58,12:02,2,0,4.0,Philadelphia Flyers,PHI
+253,6,4,Boston Bruins,Philadelphia Flyers,2022020265436,2022020265,Shot,436,SHOT,Taylor Hall Wrist Shot saved by Carter Hart,2022-11-18T02:15:45Z,3,08:22,11:38,2,0,6.0,Boston Bruins,BOS
+254,6,4,Boston Bruins,Philadelphia Flyers,2022020265673,2022020265,Stoppage,673,STOP,Goalie Stopped,2022-11-18T02:15:45Z,3,08:22,11:38,2,0,,,
+255,6,4,Boston Bruins,Philadelphia Flyers,2022020265602,2022020265,Faceoff,602,FACEOFF,Morgan Frost faceoff won against David Krejci,2022-11-18T02:16:19Z,3,08:22,11:38,2,0,4.0,Philadelphia Flyers,PHI
+256,6,4,Boston Bruins,Philadelphia Flyers,2022020265437,2022020265,Shot,437,SHOT,Brandon Carlo Wrist Shot saved by Carter Hart,2022-11-18T02:16:36Z,3,08:39,11:21,2,0,6.0,Boston Bruins,BOS
+257,6,4,Boston Bruins,Philadelphia Flyers,2022020265438,2022020265,Shot,438,SHOT,Taylor Hall Wrist Shot saved by Carter Hart,2022-11-18T02:16:42Z,3,08:45,11:15,2,0,6.0,Boston Bruins,BOS
+258,6,4,Boston Bruins,Philadelphia Flyers,2022020265674,2022020265,Hit,674,HIT,Brandon Carlo hit Lukas Sedlak,2022-11-18T02:16:56Z,3,08:59,11:01,2,0,6.0,Boston Bruins,BOS
+259,6,4,Boston Bruins,Philadelphia Flyers,2022020265675,2022020265,Hit,675,HIT,Lukas Sedlak hit Anton Stralman,2022-11-18T02:17:06Z,3,09:09,10:51,2,0,4.0,Philadelphia Flyers,PHI
+260,6,4,Boston Bruins,Philadelphia Flyers,2022020265439,2022020265,Shot,439,SHOT,Lukas Sedlak Tip-In saved by Linus Ullmark,2022-11-18T02:17:08Z,3,09:11,10:49,2,0,4.0,Philadelphia Flyers,PHI
+261,6,4,Boston Bruins,Philadelphia Flyers,2022020265676,2022020265,Stoppage,676,STOP,Offside,2022-11-18T02:17:10Z,3,09:14,10:46,2,0,,,
+262,6,4,Boston Bruins,Philadelphia Flyers,2022020265603,2022020265,Faceoff,603,FACEOFF,Kevin Hayes faceoff won against Charlie Coyle,2022-11-18T02:17:45Z,3,09:14,10:46,2,0,4.0,Philadelphia Flyers,PHI
+263,6,4,Boston Bruins,Philadelphia Flyers,2022020265440,2022020265,Missed Shot,440,MISSED_SHOT,Zack MacEwen Wide of Net Linus Ullmark,2022-11-18T02:18:06Z,3,09:35,10:25,2,0,4.0,Philadelphia Flyers,PHI
+264,6,4,Boston Bruins,Philadelphia Flyers,2022020265261,2022020265,Blocked Shot,261,BLOCKED_SHOT,Zack MacEwen shot blocked shot by Charlie McAvoy,2022-11-18T02:18:08Z,3,09:37,10:23,2,0,6.0,Boston Bruins,BOS
+265,6,4,Boston Bruins,Philadelphia Flyers,2022020265879,2022020265,Penalty,879,PENALTY,Charlie McAvoy Interference against Zack MacEwen,2022-11-18T02:18:12Z,3,09:41,10:19,2,0,6.0,Boston Bruins,BOS
+266,6,4,Boston Bruins,Philadelphia Flyers,2022020265604,2022020265,Faceoff,604,FACEOFF,Morgan Frost faceoff won against Brad Marchand,2022-11-18T02:19:22Z,3,09:41,10:19,2,0,4.0,Philadelphia Flyers,PHI
+267,6,4,Boston Bruins,Philadelphia Flyers,2022020265441,2022020265,Goal,441,GOAL,"Owen Tippett (4) Wrist Shot, assists: Kevin Hayes (13), Tony DeAngelo (7)",2022-11-18T02:19:29Z,3,09:48,10:12,2,1,4.0,Philadelphia Flyers,PHI
+268,6,4,Boston Bruins,Philadelphia Flyers,2022020265605,2022020265,Faceoff,605,FACEOFF,Morgan Frost faceoff won against David Krejci,2022-11-18T02:20:29Z,3,09:48,10:12,2,1,4.0,Philadelphia Flyers,PHI
+269,6,4,Boston Bruins,Philadelphia Flyers,2022020265442,2022020265,Goal,442,GOAL,"David Krejci (3) Wrist Shot, assists: Pavel Zacha (8), Hampus Lindholm (14)",2022-11-18T02:20:44Z,3,10:04,09:56,3,1,6.0,Boston Bruins,BOS
+270,6,4,Boston Bruins,Philadelphia Flyers,2022020265606,2022020265,Faceoff,606,FACEOFF,Tomas Nosek faceoff won against Noah Cates,2022-11-18T02:21:21Z,3,10:04,09:56,3,1,6.0,Boston Bruins,BOS
+271,6,4,Boston Bruins,Philadelphia Flyers,2022020265443,2022020265,Giveaway,443,GIVEAWAY,Giveaway by Nick Foligno,2022-11-18T02:21:35Z,3,10:18,09:42,3,1,6.0,Boston Bruins,BOS
+272,6,4,Boston Bruins,Philadelphia Flyers,2022020265444,2022020265,Shot,444,SHOT,Zack MacEwen Wrist Shot saved by Linus Ullmark,2022-11-18T02:22:28Z,3,11:10,08:50,3,1,4.0,Philadelphia Flyers,PHI
+273,6,4,Boston Bruins,Philadelphia Flyers,2022020265677,2022020265,Stoppage,677,STOP,Goalie Stopped,2022-11-18T02:22:28Z,3,11:10,08:50,3,1,,,
+274,6,4,Boston Bruins,Philadelphia Flyers,2022020265607,2022020265,Faceoff,607,FACEOFF,Zack MacEwen faceoff won against Patrice Bergeron,2022-11-18T02:25:03Z,3,11:10,08:50,3,1,4.0,Philadelphia Flyers,PHI
+275,6,4,Boston Bruins,Philadelphia Flyers,2022020265445,2022020265,Shot,445,SHOT,Kevin Hayes Wrist Shot saved by Linus Ullmark,2022-11-18T02:25:11Z,3,11:19,08:41,3,1,4.0,Philadelphia Flyers,PHI
+276,6,4,Boston Bruins,Philadelphia Flyers,2022020265678,2022020265,Stoppage,678,STOP,Goalie Stopped,2022-11-18T02:25:11Z,3,11:19,08:41,3,1,,,
+277,6,4,Boston Bruins,Philadelphia Flyers,2022020265608,2022020265,Faceoff,608,FACEOFF,Patrice Bergeron faceoff won against Scott Laughton,2022-11-18T02:25:49Z,3,11:19,08:41,3,1,6.0,Boston Bruins,BOS
+278,6,4,Boston Bruins,Philadelphia Flyers,2022020265446,2022020265,Giveaway,446,GIVEAWAY,Giveaway by Tony DeAngelo,2022-11-18T02:26:11Z,3,11:41,08:19,3,1,4.0,Philadelphia Flyers,PHI
+279,6,4,Boston Bruins,Philadelphia Flyers,2022020265679,2022020265,Stoppage,679,STOP,Puck in Benches,2022-11-18T02:26:27Z,3,11:57,08:03,3,1,,,
+280,6,4,Boston Bruins,Philadelphia Flyers,2022020265609,2022020265,Faceoff,609,FACEOFF,Morgan Frost faceoff won against Charlie Coyle,2022-11-18T02:27:01Z,3,11:57,08:03,3,1,4.0,Philadelphia Flyers,PHI
+281,6,4,Boston Bruins,Philadelphia Flyers,2022020265680,2022020265,Hit,680,HIT,Morgan Frost hit Matt Grzelcyk,2022-11-18T02:27:30Z,3,12:26,07:34,3,1,4.0,Philadelphia Flyers,PHI
+282,6,4,Boston Bruins,Philadelphia Flyers,2022020265447,2022020265,Shot,447,SHOT,Trent Frederic Wrist Shot saved by Carter Hart,2022-11-18T02:27:39Z,3,12:35,07:25,3,1,6.0,Boston Bruins,BOS
+283,6,4,Boston Bruins,Philadelphia Flyers,2022020265681,2022020265,Hit,681,HIT,Nick Foligno hit Noah Cates,2022-11-18T02:28:09Z,3,13:05,06:55,3,1,6.0,Boston Bruins,BOS
+284,6,4,Boston Bruins,Philadelphia Flyers,2022020265682,2022020265,Blocked Shot,682,BLOCKED_SHOT,Anton Stralman shot blocked shot by Rasmus Ristolainen,2022-11-18T02:28:24Z,3,13:20,06:40,3,1,4.0,Philadelphia Flyers,PHI
+285,6,4,Boston Bruins,Philadelphia Flyers,2022020265448,2022020265,Missed Shot,448,MISSED_SHOT,Rasmus Ristolainen Wide of Net Linus Ullmark,2022-11-18T02:28:33Z,3,13:29,06:31,3,1,4.0,Philadelphia Flyers,PHI
+286,6,4,Boston Bruins,Philadelphia Flyers,2022020265683,2022020265,Hit,683,HIT,Nick Foligno hit Kevin Hayes,2022-11-18T02:28:41Z,3,13:37,06:23,3,1,6.0,Boston Bruins,BOS
+287,6,4,Boston Bruins,Philadelphia Flyers,2022020265449,2022020265,Shot,449,SHOT,Connor Clifton Backhand saved by Carter Hart,2022-11-18T02:28:56Z,3,13:52,06:08,3,1,6.0,Boston Bruins,BOS
+288,6,4,Boston Bruins,Philadelphia Flyers,2022020265450,2022020265,Giveaway,450,GIVEAWAY,Giveaway by David Krejci,2022-11-18T02:29:07Z,3,14:03,05:57,3,1,6.0,Boston Bruins,BOS
+289,6,4,Boston Bruins,Philadelphia Flyers,2022020265751,2022020265,Shot,751,SHOT,Owen Tippett Wrist Shot saved by Linus Ullmark,2022-11-18T02:29:36Z,3,14:32,05:28,3,1,4.0,Philadelphia Flyers,PHI
+290,6,4,Boston Bruins,Philadelphia Flyers,2022020265684,2022020265,Hit,684,HIT,Connor Clifton hit Joel Farabee,2022-11-18T02:29:39Z,3,14:35,05:25,3,1,6.0,Boston Bruins,BOS
+291,6,4,Boston Bruins,Philadelphia Flyers,2022020265752,2022020265,Shot,752,SHOT,Morgan Frost Snap Shot saved by Linus Ullmark,2022-11-18T02:29:45Z,3,14:41,05:19,3,1,4.0,Philadelphia Flyers,PHI
+292,6,4,Boston Bruins,Philadelphia Flyers,2022020265685,2022020265,Penalty,685,PENALTY,Ivan Provorov Tripping against Brad Marchand,2022-11-18T02:29:49Z,3,14:45,05:15,3,1,4.0,Philadelphia Flyers,PHI
+293,6,4,Boston Bruins,Philadelphia Flyers,2022020265688,2022020265,Stoppage,688,STOP,TV timeout,2022-11-18T02:29:49Z,3,14:45,05:15,3,1,,,
+294,6,4,Boston Bruins,Philadelphia Flyers,2022020265610,2022020265,Faceoff,610,FACEOFF,Noah Cates faceoff won against Patrice Bergeron,2022-11-18T02:32:07Z,3,14:45,05:15,3,1,4.0,Philadelphia Flyers,PHI
+295,6,4,Boston Bruins,Philadelphia Flyers,2022020265753,2022020265,Giveaway,753,GIVEAWAY,Giveaway by Brad Marchand,2022-11-18T02:32:33Z,3,15:11,04:49,3,1,6.0,Boston Bruins,BOS
+296,6,4,Boston Bruins,Philadelphia Flyers,2022020265754,2022020265,Missed Shot,754,MISSED_SHOT,David Pastrnak Wide of Net Carter Hart,2022-11-18T02:33:09Z,3,15:47,04:13,3,1,6.0,Boston Bruins,BOS
+297,6,4,Boston Bruins,Philadelphia Flyers,2022020265755,2022020265,Shot,755,SHOT,Hampus Lindholm Snap Shot saved by Carter Hart,2022-11-18T02:33:28Z,3,16:06,03:54,3,1,6.0,Boston Bruins,BOS
+298,6,4,Boston Bruins,Philadelphia Flyers,2022020265756,2022020265,Goal,756,GOAL,"David Krejci (4) Snap Shot, assists: Nick Foligno (6), Taylor Hall (6)",2022-11-18T02:33:43Z,3,16:21,03:39,4,1,6.0,Boston Bruins,BOS
+299,6,4,Boston Bruins,Philadelphia Flyers,2022020265611,2022020265,Faceoff,611,FACEOFF,Morgan Frost faceoff won against Charlie Coyle,2022-11-18T02:34:31Z,3,16:21,03:39,4,1,4.0,Philadelphia Flyers,PHI
+300,6,4,Boston Bruins,Philadelphia Flyers,2022020265689,2022020265,Stoppage,689,STOP,Goalie Stopped,2022-11-18T02:35:00Z,3,16:50,03:10,4,1,,,
+301,6,4,Boston Bruins,Philadelphia Flyers,2022020265757,2022020265,Shot,757,SHOT,Tony DeAngelo Wrist Shot saved by Linus Ullmark,2022-11-18T02:35:00Z,3,16:50,03:10,4,1,4.0,Philadelphia Flyers,PHI
+302,6,4,Boston Bruins,Philadelphia Flyers,2022020265612,2022020265,Faceoff,612,FACEOFF,Morgan Frost faceoff won against Patrice Bergeron,2022-11-18T02:35:33Z,3,16:50,03:10,4,1,4.0,Philadelphia Flyers,PHI
+303,6,4,Boston Bruins,Philadelphia Flyers,2022020265690,2022020265,Blocked Shot,690,BLOCKED_SHOT,Hampus Lindholm shot blocked shot by Travis Sanheim,2022-11-18T02:35:55Z,3,17:12,02:48,4,1,4.0,Philadelphia Flyers,PHI
+304,6,4,Boston Bruins,Philadelphia Flyers,2022020265691,2022020265,Stoppage,691,STOP,Icing,2022-11-18T02:35:59Z,3,17:15,02:45,4,1,,,
+305,6,4,Boston Bruins,Philadelphia Flyers,2022020265613,2022020265,Faceoff,613,FACEOFF,David Krejci faceoff won against Morgan Frost,2022-11-18T02:36:34Z,3,17:15,02:45,4,1,6.0,Boston Bruins,BOS
+306,6,4,Boston Bruins,Philadelphia Flyers,2022020265262,2022020265,Blocked Shot,262,BLOCKED_SHOT,Matt Grzelcyk shot blocked shot by Rasmus Ristolainen,2022-11-18T02:36:41Z,3,17:22,02:38,4,1,4.0,Philadelphia Flyers,PHI
+307,6,4,Boston Bruins,Philadelphia Flyers,2022020265692,2022020265,Hit,692,HIT,Lukas Sedlak hit Charlie McAvoy,2022-11-18T02:37:21Z,3,18:02,01:58,4,1,4.0,Philadelphia Flyers,PHI
+308,6,4,Boston Bruins,Philadelphia Flyers,2022020265758,2022020265,Missed Shot,758,MISSED_SHOT,Nicolas Deslauriers Wide of Net Linus Ullmark,2022-11-18T02:37:25Z,3,18:06,01:54,4,1,4.0,Philadelphia Flyers,PHI
+309,6,4,Boston Bruins,Philadelphia Flyers,2022020265759,2022020265,Shot,759,SHOT,Matt Grzelcyk Wrist Shot saved by Carter Hart,2022-11-18T02:37:53Z,3,18:34,01:26,4,1,6.0,Boston Bruins,BOS
+310,6,4,Boston Bruins,Philadelphia Flyers,2022020265760,2022020265,Missed Shot,760,MISSED_SHOT,Charlie Coyle Over Net Carter Hart,2022-11-18T02:38:19Z,3,19:00,01:00,4,1,6.0,Boston Bruins,BOS
+311,6,4,Boston Bruins,Philadelphia Flyers,2022020265693,2022020265,Stoppage,693,STOP,Goalie Stopped,2022-11-18T02:38:40Z,3,19:20,00:40,4,1,,,
+312,6,4,Boston Bruins,Philadelphia Flyers,2022020265761,2022020265,Shot,761,SHOT,Joel Farabee Wrist Shot saved by Linus Ullmark,2022-11-18T02:38:40Z,3,19:20,00:40,4,1,4.0,Philadelphia Flyers,PHI
+313,6,4,Boston Bruins,Philadelphia Flyers,2022020265614,2022020265,Faceoff,614,FACEOFF,Tomas Nosek faceoff won against Kevin Hayes,2022-11-18T02:39:12Z,3,19:20,00:40,4,1,6.0,Boston Bruins,BOS
+314,6,4,Boston Bruins,Philadelphia Flyers,2022020265762,2022020265,Missed Shot,762,MISSED_SHOT,Max Willman Wide of Net Linus Ullmark,2022-11-18T02:39:49Z,3,19:58,00:02,4,1,4.0,Philadelphia Flyers,PHI
+315,6,4,Boston Bruins,Philadelphia Flyers,2022020265694,2022020265,Period End,694,PERIOD_END,End of 3rd Period,2022-11-18T02:39:51Z,3,20:00,00:00,4,1,,,
+316,6,4,Boston Bruins,Philadelphia Flyers,2022020265697,2022020265,Period Official,697,PERIOD_OFFICIAL,Period Official,2022-11-18T02:40:02Z,3,20:00,00:00,4,1,,,
+317,6,4,Boston Bruins,Philadelphia Flyers,2022020265698,2022020265,Game End,698,GAME_END,Game End,2022-11-18T02:40:17Z,3,20:00,00:00,4,1,,,
+318,6,4,Boston Bruins,Philadelphia Flyers,20220202651181,2022020265,Game Official,1181,GAME_OFFICIAL,Game Official,2022-11-18T18:50:12Z,3,20:00,00:00,4,1,,,

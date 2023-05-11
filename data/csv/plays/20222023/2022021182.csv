@@ -1,0 +1,275 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,16,25,Chicago Blackhawks,Dallas Stars,20220211821,2022021182,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2023-03-28T23:45:21Z,1,00:00,20:00,0,0,,,
+1,16,25,Chicago Blackhawks,Dallas Stars,20220211825,2022021182,Period Ready,5,PERIOD_READY,Period Ready,2023-03-29T00:38:00Z,1,00:00,20:00,0,0,,,
+2,16,25,Chicago Blackhawks,Dallas Stars,2022021182101,2022021182,Period Start,101,PERIOD_START,Period Start,2023-03-29T00:38:42Z,1,00:00,20:00,0,0,,,
+3,16,25,Chicago Blackhawks,Dallas Stars,2022021182102,2022021182,Faceoff,102,FACEOFF,Andreas Athanasiou faceoff won against Radek Faksa,2023-03-29T00:38:42Z,1,00:00,20:00,0,0,16.0,Chicago Blackhawks,CHI
+4,16,25,Chicago Blackhawks,Dallas Stars,20220211828,2022021182,Hit,8,HIT,Colin Miller hit Lukas Reichel,2023-03-29T00:38:59Z,1,00:17,19:43,0,0,25.0,Dallas Stars,DAL
+5,16,25,Chicago Blackhawks,Dallas Stars,2022021182103,2022021182,Giveaway,103,GIVEAWAY,Giveaway by Lukas Reichel,2023-03-29T00:39:02Z,1,00:20,19:40,0,0,16.0,Chicago Blackhawks,CHI
+6,16,25,Chicago Blackhawks,Dallas Stars,2022021182151,2022021182,Shot,151,SHOT,Jason Robertson Wrist Shot saved by Alex Stalock,2023-03-29T00:39:22Z,1,00:40,19:20,0,0,25.0,Dallas Stars,DAL
+7,16,25,Chicago Blackhawks,Dallas Stars,2022021182104,2022021182,Giveaway,104,GIVEAWAY,Giveaway by Tyler Johnson,2023-03-29T00:39:38Z,1,00:56,19:04,0,0,16.0,Chicago Blackhawks,CHI
+8,16,25,Chicago Blackhawks,Dallas Stars,20220211829,2022021182,Stoppage,9,STOP,Offside,2023-03-29T00:40:03Z,1,01:20,18:40,0,0,,,
+9,16,25,Chicago Blackhawks,Dallas Stars,2022021182105,2022021182,Faceoff,105,FACEOFF,Wyatt Johnston faceoff won against MacKenzie Entwistle,2023-03-29T00:40:24Z,1,01:20,18:40,0,0,25.0,Dallas Stars,DAL
+10,16,25,Chicago Blackhawks,Dallas Stars,202202118210,2022021182,Hit,10,HIT,MacKenzie Entwistle hit Wyatt Johnston,2023-03-29T00:40:59Z,1,01:55,18:05,0,0,16.0,Chicago Blackhawks,CHI
+11,16,25,Chicago Blackhawks,Dallas Stars,2022021182153,2022021182,Missed Shot,153,MISSED_SHOT,Ty Dellandrea Wide of Net Alex Stalock,2023-03-29T00:41:28Z,1,02:24,17:36,0,0,25.0,Dallas Stars,DAL
+12,16,25,Chicago Blackhawks,Dallas Stars,202202118211,2022021182,Hit,11,HIT,Reese Johnson hit Miro Heiskanen,2023-03-29T00:41:36Z,1,02:32,17:28,0,0,16.0,Chicago Blackhawks,CHI
+13,16,25,Chicago Blackhawks,Dallas Stars,202202118213,2022021182,Hit,13,HIT,Tyler Seguin hit Lukas Reichel,2023-03-29T00:42:05Z,1,03:01,16:59,0,0,25.0,Dallas Stars,DAL
+14,16,25,Chicago Blackhawks,Dallas Stars,2022021182106,2022021182,Giveaway,106,GIVEAWAY,Giveaway by Andreas Athanasiou,2023-03-29T00:42:24Z,1,03:20,16:40,0,0,16.0,Chicago Blackhawks,CHI
+15,16,25,Chicago Blackhawks,Dallas Stars,202202118214,2022021182,Hit,14,HIT,Reese Johnson hit Miro Heiskanen,2023-03-29T00:43:32Z,1,04:28,15:32,0,0,16.0,Chicago Blackhawks,CHI
+16,16,25,Chicago Blackhawks,Dallas Stars,2022021182107,2022021182,Takeaway,107,TAKEAWAY,Takeaway by Wyatt Johnston,2023-03-29T00:43:43Z,1,04:39,15:21,0,0,25.0,Dallas Stars,DAL
+17,16,25,Chicago Blackhawks,Dallas Stars,2022021182108,2022021182,Giveaway,108,GIVEAWAY,Giveaway by Alex Stalock,2023-03-29T00:44:14Z,1,05:10,14:50,0,0,16.0,Chicago Blackhawks,CHI
+18,16,25,Chicago Blackhawks,Dallas Stars,2022021182154,2022021182,Missed Shot,154,MISSED_SHOT,Esa Lindell Wide of Net Alex Stalock,2023-03-29T00:44:23Z,1,05:19,14:41,0,0,25.0,Dallas Stars,DAL
+19,16,25,Chicago Blackhawks,Dallas Stars,202202118215,2022021182,Hit,15,HIT,Mike Hardman hit Radek Faksa,2023-03-29T00:44:42Z,1,05:38,14:22,0,0,16.0,Chicago Blackhawks,CHI
+20,16,25,Chicago Blackhawks,Dallas Stars,2022021182155,2022021182,Goal,155,GOAL,"Tyler Seguin (18) Wrist Shot, assists: Jani Hakanpää (10), Radek Faksa (7)",2023-03-29T00:44:50Z,1,05:45,14:15,0,1,25.0,Dallas Stars,DAL
+21,16,25,Chicago Blackhawks,Dallas Stars,2022021182109,2022021182,Faceoff,109,FACEOFF,Andreas Athanasiou faceoff won against Radek Faksa,2023-03-29T00:45:29Z,1,05:45,14:15,0,1,16.0,Chicago Blackhawks,CHI
+22,16,25,Chicago Blackhawks,Dallas Stars,202202118216,2022021182,Stoppage,16,STOP,Puck in Benches,2023-03-29T00:45:39Z,1,05:55,14:05,0,1,,,
+23,16,25,Chicago Blackhawks,Dallas Stars,2022021182110,2022021182,Faceoff,110,FACEOFF,Max Domi faceoff won against Andreas Athanasiou,2023-03-29T00:46:04Z,1,05:55,14:05,0,1,25.0,Dallas Stars,DAL
+24,16,25,Chicago Blackhawks,Dallas Stars,202202118217,2022021182,Stoppage,17,STOP,High Stick,2023-03-29T00:46:59Z,1,06:51,13:09,0,1,,,
+25,16,25,Chicago Blackhawks,Dallas Stars,2022021182112,2022021182,Faceoff,112,FACEOFF,Jason Dickinson faceoff won against Joe Pavelski,2023-03-29T00:49:15Z,1,06:51,13:09,0,1,16.0,Chicago Blackhawks,CHI
+26,16,25,Chicago Blackhawks,Dallas Stars,202202118218,2022021182,Stoppage,18,STOP,Offside,2023-03-29T00:49:47Z,1,07:23,12:37,0,1,,,
+27,16,25,Chicago Blackhawks,Dallas Stars,2022021182113,2022021182,Faceoff,113,FACEOFF,Wyatt Johnston faceoff won against Boris Katchouk,2023-03-29T00:50:09Z,1,07:23,12:37,0,1,25.0,Dallas Stars,DAL
+28,16,25,Chicago Blackhawks,Dallas Stars,2022021182114,2022021182,Takeaway,114,TAKEAWAY,Takeaway by Alex Vlasic,2023-03-29T00:50:30Z,1,07:44,12:16,0,1,16.0,Chicago Blackhawks,CHI
+29,16,25,Chicago Blackhawks,Dallas Stars,2022021182157,2022021182,Blocked Shot,157,BLOCKED_SHOT,Jani Hakanpää shot blocked shot by Joey Anderson,2023-03-29T00:51:14Z,1,08:28,11:32,0,1,16.0,Chicago Blackhawks,CHI
+30,16,25,Chicago Blackhawks,Dallas Stars,202202118219,2022021182,Hit,19,HIT,Joel Kiviranta hit Joey Anderson,2023-03-29T00:51:24Z,1,08:38,11:22,0,1,25.0,Dallas Stars,DAL
+31,16,25,Chicago Blackhawks,Dallas Stars,202202118220,2022021182,Hit,20,HIT,Seth Jones hit Radek Faksa,2023-03-29T00:52:08Z,1,09:22,10:38,0,1,16.0,Chicago Blackhawks,CHI
+32,16,25,Chicago Blackhawks,Dallas Stars,2022021182115,2022021182,Giveaway,115,GIVEAWAY,Giveaway by Anders Bjork,2023-03-29T00:52:18Z,1,09:32,10:28,0,1,16.0,Chicago Blackhawks,CHI
+33,16,25,Chicago Blackhawks,Dallas Stars,2022021182116,2022021182,Giveaway,116,GIVEAWAY,Giveaway by Jason Robertson,2023-03-29T00:52:57Z,1,10:11,09:49,0,1,25.0,Dallas Stars,DAL
+34,16,25,Chicago Blackhawks,Dallas Stars,202202118221,2022021182,Stoppage,21,STOP,Offside,2023-03-29T00:53:28Z,1,10:41,09:19,0,1,,,
+35,16,25,Chicago Blackhawks,Dallas Stars,2022021182117,2022021182,Faceoff,117,FACEOFF,Jamie Benn faceoff won against Tyler Johnson,2023-03-29T00:55:36Z,1,10:41,09:19,0,1,25.0,Dallas Stars,DAL
+36,16,25,Chicago Blackhawks,Dallas Stars,202202118222,2022021182,Stoppage,22,STOP,Puck in Netting,2023-03-29T00:55:42Z,1,10:47,09:13,0,1,,,
+37,16,25,Chicago Blackhawks,Dallas Stars,2022021182118,2022021182,Faceoff,118,FACEOFF,Jason Dickinson faceoff won against Jamie Benn,2023-03-29T00:56:09Z,1,10:47,09:13,0,1,16.0,Chicago Blackhawks,CHI
+38,16,25,Chicago Blackhawks,Dallas Stars,202202118223,2022021182,Hit,23,HIT,Taylor Raddysh hit Joel Hanley,2023-03-29T00:56:45Z,1,11:23,08:37,0,1,16.0,Chicago Blackhawks,CHI
+39,16,25,Chicago Blackhawks,Dallas Stars,202202118224,2022021182,Hit,24,HIT,Caleb Jones hit Colin Miller,2023-03-29T00:57:44Z,1,12:22,07:38,0,1,16.0,Chicago Blackhawks,CHI
+40,16,25,Chicago Blackhawks,Dallas Stars,2022021182119,2022021182,Takeaway,119,TAKEAWAY,Takeaway by Jason Dickinson,2023-03-29T00:57:49Z,1,12:27,07:33,0,1,16.0,Chicago Blackhawks,CHI
+41,16,25,Chicago Blackhawks,Dallas Stars,202202118225,2022021182,Stoppage,25,STOP,Puck in Benches,2023-03-29T00:58:00Z,1,12:38,07:22,0,1,,,
+42,16,25,Chicago Blackhawks,Dallas Stars,2022021182120,2022021182,Faceoff,120,FACEOFF,Reese Johnson faceoff won against Radek Faksa,2023-03-29T00:58:25Z,1,12:38,07:22,0,1,16.0,Chicago Blackhawks,CHI
+43,16,25,Chicago Blackhawks,Dallas Stars,2022021182159,2022021182,Blocked Shot,159,BLOCKED_SHOT,Reese Johnson shot blocked shot by Radek Faksa,2023-03-29T00:58:35Z,1,12:48,07:12,0,1,25.0,Dallas Stars,DAL
+44,16,25,Chicago Blackhawks,Dallas Stars,2022021182121,2022021182,Giveaway,121,GIVEAWAY,Giveaway by Jake Oettinger,2023-03-29T00:58:37Z,1,12:50,07:10,0,1,25.0,Dallas Stars,DAL
+45,16,25,Chicago Blackhawks,Dallas Stars,2022021182160,2022021182,Shot,160,SHOT,Max Domi Wrist Shot saved by Alex Stalock,2023-03-29T00:58:45Z,1,12:58,07:02,0,1,25.0,Dallas Stars,DAL
+46,16,25,Chicago Blackhawks,Dallas Stars,2022021182161,2022021182,Blocked Shot,161,BLOCKED_SHOT,Esa Lindell shot blocked shot by Connor Murphy,2023-03-29T00:58:53Z,1,13:06,06:54,0,1,16.0,Chicago Blackhawks,CHI
+47,16,25,Chicago Blackhawks,Dallas Stars,2022021182162,2022021182,Shot,162,SHOT,Lukas Reichel Snap Shot saved by Jake Oettinger,2023-03-29T00:59:34Z,1,13:47,06:13,0,1,16.0,Chicago Blackhawks,CHI
+48,16,25,Chicago Blackhawks,Dallas Stars,202202118226,2022021182,Stoppage,26,STOP,Goalie Stopped,2023-03-29T00:59:35Z,1,13:49,06:11,0,1,,,
+49,16,25,Chicago Blackhawks,Dallas Stars,2022021182122,2022021182,Faceoff,122,FACEOFF,Andreas Athanasiou faceoff won against Joe Pavelski,2023-03-29T01:00:01Z,1,13:49,06:11,0,1,16.0,Chicago Blackhawks,CHI
+50,16,25,Chicago Blackhawks,Dallas Stars,2022021182163,2022021182,Blocked Shot,163,BLOCKED_SHOT,Seth Jones shot blocked shot by Ryan Suter,2023-03-29T01:00:09Z,1,13:57,06:03,0,1,25.0,Dallas Stars,DAL
+51,16,25,Chicago Blackhawks,Dallas Stars,202202118227,2022021182,Hit,27,HIT,Anders Bjork hit Ryan Suter,2023-03-29T01:00:19Z,1,14:07,05:53,0,1,16.0,Chicago Blackhawks,CHI
+52,16,25,Chicago Blackhawks,Dallas Stars,2022021182123,2022021182,Giveaway,123,GIVEAWAY,Giveaway by Jason Robertson,2023-03-29T01:00:34Z,1,14:22,05:38,0,1,25.0,Dallas Stars,DAL
+53,16,25,Chicago Blackhawks,Dallas Stars,2022021182124,2022021182,Giveaway,124,GIVEAWAY,Giveaway by Wyatt Johnston,2023-03-29T01:01:07Z,1,14:55,05:05,0,1,25.0,Dallas Stars,DAL
+54,16,25,Chicago Blackhawks,Dallas Stars,2022021182125,2022021182,Giveaway,125,GIVEAWAY,Giveaway by Taylor Raddysh,2023-03-29T01:01:07Z,1,14:55,05:05,0,1,16.0,Chicago Blackhawks,CHI
+55,16,25,Chicago Blackhawks,Dallas Stars,2022021182164,2022021182,Shot,164,SHOT,Wyatt Johnston Snap Shot saved by Alex Stalock,2023-03-29T01:01:08Z,1,14:56,05:04,0,1,25.0,Dallas Stars,DAL
+56,16,25,Chicago Blackhawks,Dallas Stars,202202118228,2022021182,Stoppage,28,STOP,Goalie Stopped,2023-03-29T01:01:11Z,1,14:58,05:02,0,1,,,
+57,16,25,Chicago Blackhawks,Dallas Stars,2022021182127,2022021182,Faceoff,127,FACEOFF,Wyatt Johnston faceoff won against Boris Katchouk,2023-03-29T01:03:33Z,1,14:58,05:02,0,1,25.0,Dallas Stars,DAL
+58,16,25,Chicago Blackhawks,Dallas Stars,2022021182128,2022021182,Takeaway,128,TAKEAWAY,Takeaway by MacKenzie Entwistle,2023-03-29T01:03:38Z,1,15:03,04:57,0,1,16.0,Chicago Blackhawks,CHI
+59,16,25,Chicago Blackhawks,Dallas Stars,202202118229,2022021182,Hit,29,HIT,MacKenzie Entwistle hit Colin Miller,2023-03-29T01:03:41Z,1,15:06,04:54,0,1,16.0,Chicago Blackhawks,CHI
+60,16,25,Chicago Blackhawks,Dallas Stars,2022021182165,2022021182,Shot,165,SHOT,MacKenzie Entwistle Wrist Shot saved by Jake Oettinger,2023-03-29T01:03:50Z,1,15:15,04:45,0,1,16.0,Chicago Blackhawks,CHI
+61,16,25,Chicago Blackhawks,Dallas Stars,2022021182166,2022021182,Shot,166,SHOT,Jamie Benn Wrist Shot saved by Alex Stalock,2023-03-29T01:04:02Z,1,15:27,04:33,0,1,25.0,Dallas Stars,DAL
+62,16,25,Chicago Blackhawks,Dallas Stars,2022021182167,2022021182,Shot,167,SHOT,Jani Hakanpää Wrist Shot saved by Alex Stalock,2023-03-29T01:04:22Z,1,15:47,04:13,0,1,25.0,Dallas Stars,DAL
+63,16,25,Chicago Blackhawks,Dallas Stars,202202118230,2022021182,Hit,30,HIT,Alex Vlasic hit Jani Hakanpää,2023-03-29T01:04:23Z,1,15:48,04:12,0,1,16.0,Chicago Blackhawks,CHI
+64,16,25,Chicago Blackhawks,Dallas Stars,2022021182130,2022021182,Takeaway,130,TAKEAWAY,Takeaway by Luke Glendening,2023-03-29T01:04:33Z,1,15:58,04:02,0,1,25.0,Dallas Stars,DAL
+65,16,25,Chicago Blackhawks,Dallas Stars,2022021182168,2022021182,Missed Shot,168,MISSED_SHOT,Ty Dellandrea Wide of Net Alex Stalock,2023-03-29T01:04:38Z,1,16:03,03:57,0,1,25.0,Dallas Stars,DAL
+66,16,25,Chicago Blackhawks,Dallas Stars,2022021182169,2022021182,Shot,169,SHOT,Jani Hakanpää Slap Shot saved by Alex Stalock,2023-03-29T01:04:50Z,1,16:15,03:45,0,1,25.0,Dallas Stars,DAL
+67,16,25,Chicago Blackhawks,Dallas Stars,2022021182413,2022021182,Penalty,413,PENALTY,Connor Murphy Tripping against Luke Glendening,2023-03-29T01:05:35Z,1,17:00,03:00,0,1,16.0,Chicago Blackhawks,CHI
+68,16,25,Chicago Blackhawks,Dallas Stars,2022021182131,2022021182,Faceoff,131,FACEOFF,Jamie Benn faceoff won against Jason Dickinson,2023-03-29T01:06:26Z,1,17:00,03:00,0,1,25.0,Dallas Stars,DAL
+69,16,25,Chicago Blackhawks,Dallas Stars,2022021182170,2022021182,Blocked Shot,170,BLOCKED_SHOT,Miro Heiskanen shot blocked shot by Jason Dickinson,2023-03-29T01:06:39Z,1,17:13,02:47,0,1,16.0,Chicago Blackhawks,CHI
+70,16,25,Chicago Blackhawks,Dallas Stars,2022021182601,2022021182,Blocked Shot,601,BLOCKED_SHOT,Joe Pavelski shot blocked shot by Caleb Jones,2023-03-29T01:06:41Z,1,17:15,02:45,0,1,16.0,Chicago Blackhawks,CHI
+71,16,25,Chicago Blackhawks,Dallas Stars,2022021182171,2022021182,Shot,171,SHOT,Jason Robertson Wrist Shot saved by Alex Stalock,2023-03-29T01:07:12Z,1,17:46,02:14,0,1,25.0,Dallas Stars,DAL
+72,16,25,Chicago Blackhawks,Dallas Stars,2022021182132,2022021182,Giveaway,132,GIVEAWAY,Giveaway by Wyatt Kaiser,2023-03-29T01:07:28Z,1,18:02,01:58,0,1,16.0,Chicago Blackhawks,CHI
+73,16,25,Chicago Blackhawks,Dallas Stars,2022021182172,2022021182,Shot,172,SHOT,Alex Vlasic Wrist Shot saved by Jake Oettinger,2023-03-29T01:08:09Z,1,18:43,01:17,0,1,16.0,Chicago Blackhawks,CHI
+74,16,25,Chicago Blackhawks,Dallas Stars,2022021182133,2022021182,Takeaway,133,TAKEAWAY,Takeaway by Alex Vlasic,2023-03-29T01:08:11Z,1,18:45,01:15,0,1,16.0,Chicago Blackhawks,CHI
+75,16,25,Chicago Blackhawks,Dallas Stars,2022021182174,2022021182,Goal,174,GOAL,"Colin Miller (4) Wrist Shot, assists: Evgenii Dadonov (22), Max Domi (35)",2023-03-29T01:08:25Z,1,18:59,01:01,0,2,25.0,Dallas Stars,DAL
+76,16,25,Chicago Blackhawks,Dallas Stars,2022021182134,2022021182,Faceoff,134,FACEOFF,Luke Glendening faceoff won against Andreas Athanasiou,2023-03-29T01:09:05Z,1,18:59,01:01,0,2,25.0,Dallas Stars,DAL
+77,16,25,Chicago Blackhawks,Dallas Stars,202202118232,2022021182,Hit,32,HIT,Ian Mitchell hit Luke Glendening,2023-03-29T01:09:12Z,1,19:06,00:54,0,2,16.0,Chicago Blackhawks,CHI
+78,16,25,Chicago Blackhawks,Dallas Stars,2022021182135,2022021182,Giveaway,135,GIVEAWAY,Giveaway by Alex Stalock,2023-03-29T01:09:32Z,1,19:26,00:34,0,2,16.0,Chicago Blackhawks,CHI
+79,16,25,Chicago Blackhawks,Dallas Stars,2022021182175,2022021182,Blocked Shot,175,BLOCKED_SHOT,Esa Lindell shot blocked shot by Anders Bjork,2023-03-29T01:09:41Z,1,19:35,00:25,0,2,16.0,Chicago Blackhawks,CHI
+80,16,25,Chicago Blackhawks,Dallas Stars,2022021182176,2022021182,Shot,176,SHOT,Alex Vlasic Snap Shot saved by Jake Oettinger,2023-03-29T01:09:56Z,1,19:50,00:10,0,2,16.0,Chicago Blackhawks,CHI
+81,16,25,Chicago Blackhawks,Dallas Stars,202202118233,2022021182,Period End,33,PERIOD_END,End of 1st Period,2023-03-29T01:10:07Z,1,20:00,00:00,0,2,,,
+82,16,25,Chicago Blackhawks,Dallas Stars,202202118236,2022021182,Period Official,36,PERIOD_OFFICIAL,Period Official,2023-03-29T01:13:43Z,1,20:00,00:00,0,2,,,
+83,16,25,Chicago Blackhawks,Dallas Stars,202202118237,2022021182,Period Ready,37,PERIOD_READY,Period Ready,2023-03-29T01:26:43Z,2,00:00,20:00,0,2,,,
+84,16,25,Chicago Blackhawks,Dallas Stars,2022021182137,2022021182,Period Start,137,PERIOD_START,Period Start,2023-03-29T01:28:42Z,2,00:00,20:00,0,2,,,
+85,16,25,Chicago Blackhawks,Dallas Stars,2022021182138,2022021182,Faceoff,138,FACEOFF,Andreas Athanasiou faceoff won against Tyler Seguin,2023-03-29T01:28:42Z,2,00:00,20:00,0,2,16.0,Chicago Blackhawks,CHI
+86,16,25,Chicago Blackhawks,Dallas Stars,202202118238,2022021182,Hit,38,HIT,Anders Bjork hit Miro Heiskanen,2023-03-29T01:28:51Z,2,00:09,19:51,0,2,16.0,Chicago Blackhawks,CHI
+87,16,25,Chicago Blackhawks,Dallas Stars,2022021182177,2022021182,Shot,177,SHOT,Jani Hakanpää Wrist Shot saved by Alex Stalock,2023-03-29T01:29:23Z,2,00:41,19:19,0,2,25.0,Dallas Stars,DAL
+88,16,25,Chicago Blackhawks,Dallas Stars,202202118239,2022021182,Stoppage,39,STOP,Goalie Stopped,2023-03-29T01:29:25Z,2,00:43,19:17,0,2,,,
+89,16,25,Chicago Blackhawks,Dallas Stars,2022021182139,2022021182,Faceoff,139,FACEOFF,Joe Pavelski faceoff won against Jason Dickinson,2023-03-29T01:29:52Z,2,00:43,19:17,0,2,25.0,Dallas Stars,DAL
+90,16,25,Chicago Blackhawks,Dallas Stars,2022021182179,2022021182,Blocked Shot,179,BLOCKED_SHOT,Jani Hakanpää shot blocked shot by Taylor Raddysh,2023-03-29T01:29:54Z,2,00:45,19:15,0,2,16.0,Chicago Blackhawks,CHI
+91,16,25,Chicago Blackhawks,Dallas Stars,202202118240,2022021182,Stoppage,40,STOP,Puck in Netting,2023-03-29T01:29:56Z,2,00:47,19:13,0,2,,,
+92,16,25,Chicago Blackhawks,Dallas Stars,2022021182140,2022021182,Faceoff,140,FACEOFF,Joe Pavelski faceoff won against Jason Dickinson,2023-03-29T01:30:14Z,2,00:47,19:13,0,2,25.0,Dallas Stars,DAL
+93,16,25,Chicago Blackhawks,Dallas Stars,2022021182180,2022021182,Blocked Shot,180,BLOCKED_SHOT,Joe Pavelski shot blocked shot by Seth Jones,2023-03-29T01:30:15Z,2,00:48,19:12,0,2,16.0,Chicago Blackhawks,CHI
+94,16,25,Chicago Blackhawks,Dallas Stars,2022021182181,2022021182,Blocked Shot,181,BLOCKED_SHOT,Caleb Jones shot blocked shot by Joe Pavelski,2023-03-29T01:30:34Z,2,01:07,18:53,0,2,25.0,Dallas Stars,DAL
+95,16,25,Chicago Blackhawks,Dallas Stars,202202118241,2022021182,Stoppage,41,STOP,Icing,2023-03-29T01:31:03Z,2,01:35,18:25,0,2,,,
+96,16,25,Chicago Blackhawks,Dallas Stars,2022021182141,2022021182,Faceoff,141,FACEOFF,Lukas Reichel faceoff won against Wyatt Johnston,2023-03-29T01:31:31Z,2,01:35,18:25,0,2,16.0,Chicago Blackhawks,CHI
+97,16,25,Chicago Blackhawks,Dallas Stars,2022021182182,2022021182,Shot,182,SHOT,Joey Anderson Snap Shot saved by Jake Oettinger,2023-03-29T01:31:32Z,2,01:36,18:24,0,2,16.0,Chicago Blackhawks,CHI
+98,16,25,Chicago Blackhawks,Dallas Stars,202202118242,2022021182,Stoppage,42,STOP,Goalie Stopped,2023-03-29T01:31:33Z,2,01:38,18:22,0,2,,,
+99,16,25,Chicago Blackhawks,Dallas Stars,2022021182142,2022021182,Faceoff,142,FACEOFF,Wyatt Johnston faceoff won against Lukas Reichel,2023-03-29T01:31:54Z,2,01:38,18:22,0,2,25.0,Dallas Stars,DAL
+100,16,25,Chicago Blackhawks,Dallas Stars,202202118243,2022021182,Stoppage,43,STOP,Icing,2023-03-29T01:32:13Z,2,01:56,18:04,0,2,,,
+101,16,25,Chicago Blackhawks,Dallas Stars,2022021182143,2022021182,Faceoff,143,FACEOFF,Jamie Benn faceoff won against Lukas Reichel,2023-03-29T01:32:38Z,2,01:56,18:04,0,2,25.0,Dallas Stars,DAL
+102,16,25,Chicago Blackhawks,Dallas Stars,2022021182183,2022021182,Missed Shot,183,MISSED_SHOT,Ryan Suter Over Net Alex Stalock,2023-03-29T01:32:42Z,2,02:00,18:00,0,2,25.0,Dallas Stars,DAL
+103,16,25,Chicago Blackhawks,Dallas Stars,2022021182184,2022021182,Shot,184,SHOT,Miro Heiskanen Snap Shot saved by Alex Stalock,2023-03-29T01:32:53Z,2,02:11,17:49,0,2,25.0,Dallas Stars,DAL
+104,16,25,Chicago Blackhawks,Dallas Stars,202202118244,2022021182,Hit,44,HIT,Ian Mitchell hit Joel Kiviranta,2023-03-29T01:33:51Z,2,03:09,16:51,0,2,16.0,Chicago Blackhawks,CHI
+105,16,25,Chicago Blackhawks,Dallas Stars,2022021182144,2022021182,Giveaway,144,GIVEAWAY,Giveaway by Caleb Jones,2023-03-29T01:34:10Z,2,03:28,16:32,0,2,16.0,Chicago Blackhawks,CHI
+106,16,25,Chicago Blackhawks,Dallas Stars,202202118245,2022021182,Hit,45,HIT,Reese Johnson hit Joel Hanley,2023-03-29T01:34:13Z,2,03:31,16:29,0,2,16.0,Chicago Blackhawks,CHI
+107,16,25,Chicago Blackhawks,Dallas Stars,202202118246,2022021182,Stoppage,46,STOP,Icing,2023-03-29T01:34:18Z,2,03:35,16:25,0,2,,,
+108,16,25,Chicago Blackhawks,Dallas Stars,2022021182145,2022021182,Faceoff,145,FACEOFF,Radek Faksa faceoff won against Reese Johnson,2023-03-29T01:34:53Z,2,03:35,16:25,0,2,25.0,Dallas Stars,DAL
+109,16,25,Chicago Blackhawks,Dallas Stars,2022021182185,2022021182,Missed Shot,185,MISSED_SHOT,Miro Heiskanen Wide of Net Alex Stalock,2023-03-29T01:34:55Z,2,03:37,16:23,0,2,25.0,Dallas Stars,DAL
+110,16,25,Chicago Blackhawks,Dallas Stars,202202118247,2022021182,Stoppage,47,STOP,Puck in Benches,2023-03-29T01:35:08Z,2,03:50,16:10,0,2,,,
+111,16,25,Chicago Blackhawks,Dallas Stars,2022021182146,2022021182,Faceoff,146,FACEOFF,Andreas Athanasiou faceoff won against Joe Pavelski,2023-03-29T01:35:39Z,2,03:50,16:10,0,2,16.0,Chicago Blackhawks,CHI
+112,16,25,Chicago Blackhawks,Dallas Stars,2022021182147,2022021182,Giveaway,147,GIVEAWAY,Giveaway by Anders Bjork,2023-03-29T01:36:09Z,2,04:20,15:40,0,2,16.0,Chicago Blackhawks,CHI
+113,16,25,Chicago Blackhawks,Dallas Stars,202202118248,2022021182,Stoppage,48,STOP,Offside,2023-03-29T01:36:20Z,2,04:30,15:30,0,2,,,
+114,16,25,Chicago Blackhawks,Dallas Stars,2022021182148,2022021182,Faceoff,148,FACEOFF,Jason Dickinson faceoff won against Wyatt Johnston,2023-03-29T01:36:44Z,2,04:30,15:30,0,2,16.0,Chicago Blackhawks,CHI
+115,16,25,Chicago Blackhawks,Dallas Stars,202202118249,2022021182,Stoppage,49,STOP,Puck in Benches,2023-03-29T01:37:40Z,2,05:26,14:34,0,2,,,
+116,16,25,Chicago Blackhawks,Dallas Stars,2022021182150,2022021182,Faceoff,150,FACEOFF,Boris Katchouk faceoff won against Luke Glendening,2023-03-29T01:38:08Z,2,05:26,14:34,0,2,16.0,Chicago Blackhawks,CHI
+117,16,25,Chicago Blackhawks,Dallas Stars,2022021182186,2022021182,Missed Shot,186,MISSED_SHOT,Seth Jones Wide of Net Jake Oettinger,2023-03-29T01:38:12Z,2,05:30,14:30,0,2,16.0,Chicago Blackhawks,CHI
+118,16,25,Chicago Blackhawks,Dallas Stars,2022021182187,2022021182,Blocked Shot,187,BLOCKED_SHOT,Caleb Jones shot blocked shot by Ty Dellandrea,2023-03-29T01:38:25Z,2,05:43,14:17,0,2,25.0,Dallas Stars,DAL
+119,16,25,Chicago Blackhawks,Dallas Stars,202202118250,2022021182,Stoppage,50,STOP,Puck in Netting,2023-03-29T01:38:27Z,2,05:45,14:15,0,2,,,
+120,16,25,Chicago Blackhawks,Dallas Stars,2022021182451,2022021182,Faceoff,451,FACEOFF,Luke Glendening faceoff won against Boris Katchouk,2023-03-29T01:38:53Z,2,05:45,14:15,0,2,25.0,Dallas Stars,DAL
+121,16,25,Chicago Blackhawks,Dallas Stars,2022021182351,2022021182,Stoppage,351,STOP,Icing,2023-03-29T01:39:01Z,2,05:53,14:07,0,2,,,
+122,16,25,Chicago Blackhawks,Dallas Stars,2022021182452,2022021182,Faceoff,452,FACEOFF,Luke Glendening faceoff won against Boris Katchouk,2023-03-29T01:39:27Z,2,05:53,14:07,0,2,25.0,Dallas Stars,DAL
+123,16,25,Chicago Blackhawks,Dallas Stars,2022021182188,2022021182,Shot,188,SHOT,Ty Dellandrea Deflected saved by Alex Stalock,2023-03-29T01:39:40Z,2,06:06,13:54,0,2,25.0,Dallas Stars,DAL
+124,16,25,Chicago Blackhawks,Dallas Stars,2022021182352,2022021182,Stoppage,352,STOP,Goalie Stopped,2023-03-29T01:39:44Z,2,06:09,13:51,0,2,,,
+125,16,25,Chicago Blackhawks,Dallas Stars,2022021182453,2022021182,Faceoff,453,FACEOFF,Radek Faksa faceoff won against Andreas Athanasiou,2023-03-29T01:41:59Z,2,06:09,13:51,0,2,25.0,Dallas Stars,DAL
+126,16,25,Chicago Blackhawks,Dallas Stars,2022021182353,2022021182,Hit,353,HIT,Jason Dickinson hit Joel Hanley,2023-03-29T01:43:45Z,2,07:55,12:05,0,2,16.0,Chicago Blackhawks,CHI
+127,16,25,Chicago Blackhawks,Dallas Stars,2022021182354,2022021182,Hit,354,HIT,Mike Hardman hit Jani Hakanpää,2023-03-29T01:44:18Z,2,08:28,11:32,0,2,16.0,Chicago Blackhawks,CHI
+128,16,25,Chicago Blackhawks,Dallas Stars,2022021182191,2022021182,Blocked Shot,191,BLOCKED_SHOT,Jamie Benn shot blocked shot by Nikita Zaitsev,2023-03-29T01:44:26Z,2,08:36,11:24,0,2,16.0,Chicago Blackhawks,CHI
+129,16,25,Chicago Blackhawks,Dallas Stars,2022021182355,2022021182,Stoppage,355,STOP,Icing,2023-03-29T01:44:36Z,2,08:47,11:13,0,2,,,
+130,16,25,Chicago Blackhawks,Dallas Stars,2022021182456,2022021182,Faceoff,456,FACEOFF,Jamie Benn faceoff won against Reese Johnson,2023-03-29T01:45:05Z,2,08:47,11:13,0,2,25.0,Dallas Stars,DAL
+131,16,25,Chicago Blackhawks,Dallas Stars,2022021182192,2022021182,Shot,192,SHOT,Jani Hakanpää Slap Shot saved by Alex Stalock,2023-03-29T01:45:08Z,2,08:50,11:10,0,2,25.0,Dallas Stars,DAL
+132,16,25,Chicago Blackhawks,Dallas Stars,2022021182356,2022021182,Stoppage,356,STOP,Goalie Stopped,2023-03-29T01:45:11Z,2,08:53,11:07,0,2,,,
+133,16,25,Chicago Blackhawks,Dallas Stars,2022021182457,2022021182,Faceoff,457,FACEOFF,Luke Glendening faceoff won against Boris Katchouk,2023-03-29T01:45:43Z,2,08:53,11:07,0,2,25.0,Dallas Stars,DAL
+134,16,25,Chicago Blackhawks,Dallas Stars,2022021182458,2022021182,Takeaway,458,TAKEAWAY,Takeaway by Alex Vlasic,2023-03-29T01:45:50Z,2,09:00,11:00,0,2,16.0,Chicago Blackhawks,CHI
+135,16,25,Chicago Blackhawks,Dallas Stars,2022021182357,2022021182,Hit,357,HIT,Joey Anderson hit Esa Lindell,2023-03-29T01:46:07Z,2,09:17,10:43,0,2,16.0,Chicago Blackhawks,CHI
+136,16,25,Chicago Blackhawks,Dallas Stars,2022021182358,2022021182,Hit,358,HIT,Luke Glendening hit Connor Murphy,2023-03-29T01:46:20Z,2,09:30,10:30,0,2,25.0,Dallas Stars,DAL
+137,16,25,Chicago Blackhawks,Dallas Stars,2022021182359,2022021182,Hit,359,HIT,MacKenzie Entwistle hit Joel Kiviranta,2023-03-29T01:46:25Z,2,09:35,10:25,0,2,16.0,Chicago Blackhawks,CHI
+138,16,25,Chicago Blackhawks,Dallas Stars,2022021182459,2022021182,Takeaway,459,TAKEAWAY,Takeaway by Max Domi,2023-03-29T01:46:46Z,2,09:56,10:04,0,2,25.0,Dallas Stars,DAL
+139,16,25,Chicago Blackhawks,Dallas Stars,2022021182194,2022021182,Shot,194,SHOT,Tyler Seguin Snap Shot saved by Alex Stalock,2023-03-29T01:46:56Z,2,10:06,09:54,0,2,25.0,Dallas Stars,DAL
+140,16,25,Chicago Blackhawks,Dallas Stars,2022021182360,2022021182,Stoppage,360,STOP,Puck in Netting,2023-03-29T01:46:57Z,2,10:07,09:53,0,2,,,
+141,16,25,Chicago Blackhawks,Dallas Stars,2022021182460,2022021182,Faceoff,460,FACEOFF,Andreas Athanasiou faceoff won against Tyler Seguin,2023-03-29T01:49:11Z,2,10:07,09:53,0,2,16.0,Chicago Blackhawks,CHI
+142,16,25,Chicago Blackhawks,Dallas Stars,2022021182195,2022021182,Shot,195,SHOT,Radek Faksa Snap Shot saved by Alex Stalock,2023-03-29T01:49:22Z,2,10:18,09:42,0,2,25.0,Dallas Stars,DAL
+143,16,25,Chicago Blackhawks,Dallas Stars,2022021182196,2022021182,Shot,196,SHOT,Max Domi Snap Shot saved by Alex Stalock,2023-03-29T01:49:33Z,2,10:29,09:31,0,2,25.0,Dallas Stars,DAL
+144,16,25,Chicago Blackhawks,Dallas Stars,2022021182198,2022021182,Blocked Shot,198,BLOCKED_SHOT,Max Domi shot blocked shot by Nikita Zaitsev,2023-03-29T01:50:00Z,2,10:56,09:04,0,2,16.0,Chicago Blackhawks,CHI
+145,16,25,Chicago Blackhawks,Dallas Stars,2022021182199,2022021182,Missed Shot,199,MISSED_SHOT,Andreas Athanasiou Wide of Net Jake Oettinger,2023-03-29T01:50:08Z,2,11:03,08:57,0,2,16.0,Chicago Blackhawks,CHI
+146,16,25,Chicago Blackhawks,Dallas Stars,2022021182200,2022021182,Missed Shot,200,MISSED_SHOT,Joe Pavelski Wide of Net Alex Stalock,2023-03-29T01:50:14Z,2,11:10,08:50,0,2,25.0,Dallas Stars,DAL
+147,16,25,Chicago Blackhawks,Dallas Stars,2022021182501,2022021182,Goal,501,GOAL,"Joe Pavelski (22) Tip-In, assists: Joel Hanley (2), Ryan Suter (20)",2023-03-29T01:50:29Z,2,11:24,08:36,0,3,25.0,Dallas Stars,DAL
+148,16,25,Chicago Blackhawks,Dallas Stars,2022021182461,2022021182,Faceoff,461,FACEOFF,Jason Dickinson faceoff won against Jamie Benn,2023-03-29T01:51:20Z,2,11:24,08:36,0,3,16.0,Chicago Blackhawks,CHI
+149,16,25,Chicago Blackhawks,Dallas Stars,2022021182462,2022021182,Giveaway,462,GIVEAWAY,Giveaway by Tyler Johnson,2023-03-29T01:51:49Z,2,11:53,08:07,0,3,16.0,Chicago Blackhawks,CHI
+150,16,25,Chicago Blackhawks,Dallas Stars,2022021182502,2022021182,Blocked Shot,502,BLOCKED_SHOT,Jason Dickinson shot blocked shot by Jamie Benn,2023-03-29T01:52:02Z,2,12:06,07:54,0,3,25.0,Dallas Stars,DAL
+151,16,25,Chicago Blackhawks,Dallas Stars,2022021182684,2022021182,Penalty,684,PENALTY,Too many men/ice served by Andreas Athanasiou,2023-03-29T01:52:41Z,2,12:45,07:15,0,3,16.0,Chicago Blackhawks,CHI
+152,16,25,Chicago Blackhawks,Dallas Stars,2022021182463,2022021182,Faceoff,463,FACEOFF,Jamie Benn faceoff won against Boris Katchouk,2023-03-29T01:53:37Z,2,12:45,07:15,0,3,25.0,Dallas Stars,DAL
+153,16,25,Chicago Blackhawks,Dallas Stars,2022021182503,2022021182,Shot,503,SHOT,Joe Pavelski Wrist Shot saved by Alex Stalock,2023-03-29T01:53:44Z,2,12:52,07:08,0,3,25.0,Dallas Stars,DAL
+154,16,25,Chicago Blackhawks,Dallas Stars,2022021182504,2022021182,Missed Shot,504,MISSED_SHOT,Miro Heiskanen Wide of Net Alex Stalock,2023-03-29T01:53:54Z,2,13:02,06:58,0,3,25.0,Dallas Stars,DAL
+155,16,25,Chicago Blackhawks,Dallas Stars,2022021182505,2022021182,Shot,505,SHOT,Roope Hintz Wrist Shot saved by Alex Stalock,2023-03-29T01:54:18Z,2,13:26,06:34,0,3,25.0,Dallas Stars,DAL
+156,16,25,Chicago Blackhawks,Dallas Stars,2022021182506,2022021182,Missed Shot,506,MISSED_SHOT,Roope Hintz Wide of Net Alex Stalock,2023-03-29T01:54:37Z,2,13:45,06:15,0,3,25.0,Dallas Stars,DAL
+157,16,25,Chicago Blackhawks,Dallas Stars,2022021182361,2022021182,Stoppage,361,STOP,High Stick,2023-03-29T01:55:06Z,2,14:14,05:46,0,3,,,
+158,16,25,Chicago Blackhawks,Dallas Stars,2022021182464,2022021182,Faceoff,464,FACEOFF,Jason Dickinson faceoff won against Tyler Seguin,2023-03-29T01:55:31Z,2,14:14,05:46,0,3,16.0,Chicago Blackhawks,CHI
+159,16,25,Chicago Blackhawks,Dallas Stars,2022021182507,2022021182,Shot,507,SHOT,Evgenii Dadonov Wrist Shot saved by Alex Stalock,2023-03-29T01:55:44Z,2,14:27,05:33,0,3,25.0,Dallas Stars,DAL
+160,16,25,Chicago Blackhawks,Dallas Stars,2022021182362,2022021182,Stoppage,362,STOP,Goalie Stopped,2023-03-29T01:55:48Z,2,14:30,05:30,0,3,,,
+161,16,25,Chicago Blackhawks,Dallas Stars,2022021182465,2022021182,Faceoff,465,FACEOFF,Max Domi faceoff won against Reese Johnson,2023-03-29T01:56:17Z,2,14:30,05:30,0,3,25.0,Dallas Stars,DAL
+162,16,25,Chicago Blackhawks,Dallas Stars,2022021182508,2022021182,Shot,508,SHOT,Wyatt Johnston Wrist Shot saved by Alex Stalock,2023-03-29T01:56:29Z,2,14:42,05:18,0,3,25.0,Dallas Stars,DAL
+163,16,25,Chicago Blackhawks,Dallas Stars,2022021182363,2022021182,Stoppage,363,STOP,Icing,2023-03-29T01:56:36Z,2,14:50,05:10,0,3,,,
+164,16,25,Chicago Blackhawks,Dallas Stars,2022021182466,2022021182,Faceoff,466,FACEOFF,Jason Dickinson faceoff won against Ty Dellandrea,2023-03-29T01:57:13Z,2,14:50,05:10,0,3,16.0,Chicago Blackhawks,CHI
+165,16,25,Chicago Blackhawks,Dallas Stars,2022021182509,2022021182,Missed Shot,509,MISSED_SHOT,Jani Hakanpää Wide of Net Alex Stalock,2023-03-29T01:57:45Z,2,15:22,04:38,0,3,25.0,Dallas Stars,DAL
+166,16,25,Chicago Blackhawks,Dallas Stars,2022021182364,2022021182,Hit,364,HIT,Joel Kiviranta hit Seth Jones,2023-03-29T01:57:50Z,2,15:27,04:33,0,3,25.0,Dallas Stars,DAL
+167,16,25,Chicago Blackhawks,Dallas Stars,2022021182510,2022021182,Shot,510,SHOT,Jason Robertson Wrist Shot saved by Alex Stalock,2023-03-29T01:58:06Z,2,15:43,04:17,0,3,25.0,Dallas Stars,DAL
+168,16,25,Chicago Blackhawks,Dallas Stars,2022021182512,2022021182,Shot,512,SHOT,Roope Hintz Wrist Shot saved by Alex Stalock,2023-03-29T01:58:11Z,2,15:48,04:12,0,3,25.0,Dallas Stars,DAL
+169,16,25,Chicago Blackhawks,Dallas Stars,2022021182513,2022021182,Blocked Shot,513,BLOCKED_SHOT,Esa Lindell shot blocked shot by Tyler Johnson,2023-03-29T01:58:29Z,2,16:06,03:54,0,3,16.0,Chicago Blackhawks,CHI
+170,16,25,Chicago Blackhawks,Dallas Stars,2022021182467,2022021182,Giveaway,467,GIVEAWAY,Giveaway by Roope Hintz,2023-03-29T01:59:00Z,2,16:37,03:23,0,3,25.0,Dallas Stars,DAL
+171,16,25,Chicago Blackhawks,Dallas Stars,2022021182468,2022021182,Takeaway,468,TAKEAWAY,Takeaway by Lukas Reichel,2023-03-29T01:59:03Z,2,16:38,03:22,0,3,16.0,Chicago Blackhawks,CHI
+172,16,25,Chicago Blackhawks,Dallas Stars,2022021182514,2022021182,Shot,514,SHOT,Anders Bjork Snap Shot saved by Jake Oettinger,2023-03-29T01:59:17Z,2,16:54,03:06,0,3,16.0,Chicago Blackhawks,CHI
+173,16,25,Chicago Blackhawks,Dallas Stars,2022021182515,2022021182,Shot,515,SHOT,Reese Johnson Snap Shot saved by Jake Oettinger,2023-03-29T02:00:00Z,2,17:37,02:23,0,3,16.0,Chicago Blackhawks,CHI
+174,16,25,Chicago Blackhawks,Dallas Stars,2022021182365,2022021182,Stoppage,365,STOP,Goalie Stopped,2023-03-29T02:00:02Z,2,17:39,02:21,0,3,,,
+175,16,25,Chicago Blackhawks,Dallas Stars,2022021182469,2022021182,Faceoff,469,FACEOFF,Reese Johnson faceoff won against Tyler Seguin,2023-03-29T02:02:13Z,2,17:39,02:21,0,3,16.0,Chicago Blackhawks,CHI
+176,16,25,Chicago Blackhawks,Dallas Stars,2022021182470,2022021182,Takeaway,470,TAKEAWAY,Takeaway by Radek Faksa,2023-03-29T02:02:25Z,2,17:51,02:09,0,3,25.0,Dallas Stars,DAL
+177,16,25,Chicago Blackhawks,Dallas Stars,2022021182516,2022021182,Missed Shot,516,MISSED_SHOT,Andreas Athanasiou Wide of Net Jake Oettinger,2023-03-29T02:02:39Z,2,18:05,01:55,0,3,16.0,Chicago Blackhawks,CHI
+178,16,25,Chicago Blackhawks,Dallas Stars,2022021182471,2022021182,Takeaway,471,TAKEAWAY,Takeaway by Reese Johnson,2023-03-29T02:02:40Z,2,18:06,01:54,0,3,16.0,Chicago Blackhawks,CHI
+179,16,25,Chicago Blackhawks,Dallas Stars,2022021182517,2022021182,Shot,517,SHOT,Ian Mitchell Snap Shot saved by Jake Oettinger,2023-03-29T02:02:50Z,2,18:16,01:44,0,3,16.0,Chicago Blackhawks,CHI
+180,16,25,Chicago Blackhawks,Dallas Stars,2022021182366,2022021182,Hit,366,HIT,Reese Johnson hit Radek Faksa,2023-03-29T02:02:55Z,2,18:21,01:39,0,3,16.0,Chicago Blackhawks,CHI
+181,16,25,Chicago Blackhawks,Dallas Stars,2022021182472,2022021182,Giveaway,472,GIVEAWAY,Giveaway by Connor Murphy,2023-03-29T02:03:05Z,2,18:31,01:29,0,3,16.0,Chicago Blackhawks,CHI
+182,16,25,Chicago Blackhawks,Dallas Stars,2022021182518,2022021182,Shot,518,SHOT,Andreas Athanasiou Snap Shot saved by Jake Oettinger,2023-03-29T02:03:30Z,2,18:56,01:04,0,3,16.0,Chicago Blackhawks,CHI
+183,16,25,Chicago Blackhawks,Dallas Stars,2022021182367,2022021182,Hit,367,HIT,Joel Kiviranta hit Connor Murphy,2023-03-29T02:03:39Z,2,19:05,00:55,0,3,25.0,Dallas Stars,DAL
+184,16,25,Chicago Blackhawks,Dallas Stars,2022021182473,2022021182,Takeaway,473,TAKEAWAY,Takeaway by Jani Hakanpää,2023-03-29T02:03:56Z,2,19:22,00:38,0,3,25.0,Dallas Stars,DAL
+185,16,25,Chicago Blackhawks,Dallas Stars,2022021182519,2022021182,Blocked Shot,519,BLOCKED_SHOT,Anders Bjork shot blocked shot by Ty Dellandrea,2023-03-29T02:04:01Z,2,19:27,00:33,0,3,25.0,Dallas Stars,DAL
+186,16,25,Chicago Blackhawks,Dallas Stars,2022021182520,2022021182,Shot,520,SHOT,Wyatt Kaiser Wrist Shot saved by Jake Oettinger,2023-03-29T02:04:09Z,2,19:35,00:25,0,3,16.0,Chicago Blackhawks,CHI
+187,16,25,Chicago Blackhawks,Dallas Stars,2022021182603,2022021182,Blocked Shot,603,BLOCKED_SHOT,Wyatt Kaiser shot blocked shot by Roope Hintz,2023-03-29T02:04:14Z,2,19:40,00:20,0,3,25.0,Dallas Stars,DAL
+188,16,25,Chicago Blackhawks,Dallas Stars,2022021182474,2022021182,Giveaway,474,GIVEAWAY,Giveaway by Wyatt Kaiser,2023-03-29T02:04:27Z,2,19:53,00:07,0,3,16.0,Chicago Blackhawks,CHI
+189,16,25,Chicago Blackhawks,Dallas Stars,2022021182368,2022021182,Period End,368,PERIOD_END,End of 2nd Period,2023-03-29T02:04:34Z,2,20:00,00:00,0,3,,,
+190,16,25,Chicago Blackhawks,Dallas Stars,2022021182371,2022021182,Period Official,371,PERIOD_OFFICIAL,Period Official,2023-03-29T02:07:19Z,2,20:00,00:00,0,3,,,
+191,16,25,Chicago Blackhawks,Dallas Stars,2022021182372,2022021182,Period Ready,372,PERIOD_READY,Period Ready,2023-03-29T02:21:22Z,3,00:00,20:00,0,3,,,
+192,16,25,Chicago Blackhawks,Dallas Stars,2022021182475,2022021182,Period Start,475,PERIOD_START,Period Start,2023-03-29T02:23:14Z,3,00:00,20:00,0,3,,,
+193,16,25,Chicago Blackhawks,Dallas Stars,2022021182476,2022021182,Faceoff,476,FACEOFF,Radek Faksa faceoff won against Andreas Athanasiou,2023-03-29T02:23:14Z,3,00:00,20:00,0,3,25.0,Dallas Stars,DAL
+194,16,25,Chicago Blackhawks,Dallas Stars,2022021182477,2022021182,Giveaway,477,GIVEAWAY,Giveaway by Max Domi,2023-03-29T02:23:48Z,3,00:34,19:26,0,3,25.0,Dallas Stars,DAL
+195,16,25,Chicago Blackhawks,Dallas Stars,2022021182373,2022021182,Stoppage,373,STOP,Goalie Stopped,2023-03-29T02:23:56Z,3,00:41,19:19,0,3,,,
+196,16,25,Chicago Blackhawks,Dallas Stars,2022021182478,2022021182,Faceoff,478,FACEOFF,Tyler Johnson faceoff won against Joe Pavelski,2023-03-29T02:24:39Z,3,00:41,19:19,0,3,16.0,Chicago Blackhawks,CHI
+197,16,25,Chicago Blackhawks,Dallas Stars,2022021182522,2022021182,Shot,522,SHOT,Roope Hintz Backhand saved by Alex Stalock,2023-03-29T02:24:52Z,3,00:54,19:06,0,3,25.0,Dallas Stars,DAL
+198,16,25,Chicago Blackhawks,Dallas Stars,2022021182747,2022021182,Penalty,747,PENALTY,Taylor Raddysh High-sticking against Jason Robertson,2023-03-29T02:24:57Z,3,00:59,19:01,0,3,16.0,Chicago Blackhawks,CHI
+199,16,25,Chicago Blackhawks,Dallas Stars,2022021182479,2022021182,Faceoff,479,FACEOFF,Jamie Benn faceoff won against Jason Dickinson,2023-03-29T02:25:48Z,3,00:59,19:01,0,3,25.0,Dallas Stars,DAL
+200,16,25,Chicago Blackhawks,Dallas Stars,2022021182523,2022021182,Missed Shot,523,MISSED_SHOT,Jason Robertson Wide of Net Alex Stalock,2023-03-29T02:25:50Z,3,01:01,18:59,0,3,25.0,Dallas Stars,DAL
+201,16,25,Chicago Blackhawks,Dallas Stars,2022021182524,2022021182,Shot,524,SHOT,Miro Heiskanen Slap Shot saved by Alex Stalock,2023-03-29T02:26:03Z,3,01:14,18:46,0,3,25.0,Dallas Stars,DAL
+202,16,25,Chicago Blackhawks,Dallas Stars,2022021182525,2022021182,Shot,525,SHOT,Jason Robertson Snap Shot saved by Alex Stalock,2023-03-29T02:26:26Z,3,01:37,18:23,0,3,25.0,Dallas Stars,DAL
+203,16,25,Chicago Blackhawks,Dallas Stars,2022021182374,2022021182,Stoppage,374,STOP,Goalie Stopped,2023-03-29T02:26:27Z,3,01:38,18:22,0,3,,,
+204,16,25,Chicago Blackhawks,Dallas Stars,2022021182480,2022021182,Faceoff,480,FACEOFF,Reese Johnson faceoff won against Joe Pavelski,2023-03-29T02:26:57Z,3,01:38,18:22,0,3,16.0,Chicago Blackhawks,CHI
+205,16,25,Chicago Blackhawks,Dallas Stars,2022021182526,2022021182,Missed Shot,526,MISSED_SHOT,Wyatt Kaiser Over Net Jake Oettinger,2023-03-29T02:27:05Z,3,01:46,18:14,0,3,16.0,Chicago Blackhawks,CHI
+206,16,25,Chicago Blackhawks,Dallas Stars,2022021182375,2022021182,Stoppage,375,STOP,Icing,2023-03-29T02:27:54Z,3,02:35,17:25,0,3,,,
+207,16,25,Chicago Blackhawks,Dallas Stars,2022021182481,2022021182,Faceoff,481,FACEOFF,Tyler Seguin faceoff won against Reese Johnson,2023-03-29T02:28:19Z,3,02:35,17:25,0,3,25.0,Dallas Stars,DAL
+208,16,25,Chicago Blackhawks,Dallas Stars,2022021182527,2022021182,Shot,527,SHOT,Nikita Zaitsev Snap Shot saved by Jake Oettinger,2023-03-29T02:29:10Z,3,03:26,16:34,0,3,16.0,Chicago Blackhawks,CHI
+209,16,25,Chicago Blackhawks,Dallas Stars,2022021182528,2022021182,Missed Shot,528,MISSED_SHOT,Boris Katchouk Wide of Net Jake Oettinger,2023-03-29T02:29:12Z,3,03:28,16:32,0,3,16.0,Chicago Blackhawks,CHI
+210,16,25,Chicago Blackhawks,Dallas Stars,2022021182376,2022021182,Hit,376,HIT,Jani Hakanpää hit Boris Katchouk,2023-03-29T02:29:17Z,3,03:33,16:27,0,3,25.0,Dallas Stars,DAL
+211,16,25,Chicago Blackhawks,Dallas Stars,2022021182529,2022021182,Shot,529,SHOT,Andreas Athanasiou Wrist Shot saved by Jake Oettinger,2023-03-29T02:29:37Z,3,03:53,16:07,0,3,16.0,Chicago Blackhawks,CHI
+212,16,25,Chicago Blackhawks,Dallas Stars,2022021182530,2022021182,Shot,530,SHOT,Andreas Athanasiou Wrist Shot saved by Jake Oettinger,2023-03-29T02:29:41Z,3,03:57,16:03,0,3,16.0,Chicago Blackhawks,CHI
+213,16,25,Chicago Blackhawks,Dallas Stars,2022021182377,2022021182,Stoppage,377,STOP,Goalie Stopped,2023-03-29T02:29:43Z,3,03:59,16:01,0,3,,,
+214,16,25,Chicago Blackhawks,Dallas Stars,2022021182483,2022021182,Faceoff,483,FACEOFF,Joe Pavelski faceoff won against Andreas Athanasiou,2023-03-29T02:30:10Z,3,03:59,16:01,0,3,25.0,Dallas Stars,DAL
+215,16,25,Chicago Blackhawks,Dallas Stars,2022021182378,2022021182,Hit,378,HIT,Mike Hardman hit Joel Hanley,2023-03-29T02:31:23Z,3,05:12,14:48,0,3,16.0,Chicago Blackhawks,CHI
+216,16,25,Chicago Blackhawks,Dallas Stars,2022021182484,2022021182,Giveaway,484,GIVEAWAY,Giveaway by Wyatt Johnston,2023-03-29T02:31:39Z,3,05:28,14:32,0,3,25.0,Dallas Stars,DAL
+217,16,25,Chicago Blackhawks,Dallas Stars,2022021182379,2022021182,Hit,379,HIT,Jani Hakanpää hit Boris Katchouk,2023-03-29T02:32:05Z,3,05:54,14:06,0,3,25.0,Dallas Stars,DAL
+218,16,25,Chicago Blackhawks,Dallas Stars,2022021182797,2022021182,Penalty,797,PENALTY,Joel Kiviranta Tripping against Taylor Raddysh,2023-03-29T02:32:42Z,3,06:30,13:30,0,3,25.0,Dallas Stars,DAL
+219,16,25,Chicago Blackhawks,Dallas Stars,2022021182485,2022021182,Faceoff,485,FACEOFF,Tyler Johnson faceoff won against Radek Faksa,2023-03-29T02:35:01Z,3,06:30,13:30,0,3,16.0,Chicago Blackhawks,CHI
+220,16,25,Chicago Blackhawks,Dallas Stars,2022021182531,2022021182,Goal,531,GOAL,"Luke Glendening (3) Snap Shot, assists: Ty Dellandrea (19), Esa Lindell (14)",2023-03-29T02:35:34Z,3,07:04,12:56,0,4,25.0,Dallas Stars,DAL
+221,16,25,Chicago Blackhawks,Dallas Stars,2022021182487,2022021182,Faceoff,487,FACEOFF,Radek Faksa faceoff won against Andreas Athanasiou,2023-03-29T02:37:01Z,3,07:04,12:56,0,4,25.0,Dallas Stars,DAL
+222,16,25,Chicago Blackhawks,Dallas Stars,2022021182380,2022021182,Stoppage,380,STOP,Net Dislodged by Goaltender,2023-03-29T02:37:21Z,3,07:24,12:36,0,4,,,
+223,16,25,Chicago Blackhawks,Dallas Stars,2022021182488,2022021182,Faceoff,488,FACEOFF,Luke Glendening faceoff won against Andreas Athanasiou,2023-03-29T02:38:06Z,3,07:24,12:36,0,4,25.0,Dallas Stars,DAL
+224,16,25,Chicago Blackhawks,Dallas Stars,2022021182532,2022021182,Shot,532,SHOT,Luke Glendening Wrist Shot saved by Alex Stalock,2023-03-29T02:38:31Z,3,07:49,12:11,0,4,25.0,Dallas Stars,DAL
+225,16,25,Chicago Blackhawks,Dallas Stars,2022021182533,2022021182,Shot,533,SHOT,Jason Dickinson Tip-In saved by Jake Oettinger,2023-03-29T02:39:12Z,3,08:30,11:30,0,4,16.0,Chicago Blackhawks,CHI
+226,16,25,Chicago Blackhawks,Dallas Stars,2022021182381,2022021182,Stoppage,381,STOP,Goalie Stopped,2023-03-29T02:39:14Z,3,08:32,11:28,0,4,,,
+227,16,25,Chicago Blackhawks,Dallas Stars,2022021182489,2022021182,Faceoff,489,FACEOFF,Roope Hintz faceoff won against Joey Anderson,2023-03-29T02:39:52Z,3,08:32,11:28,0,4,25.0,Dallas Stars,DAL
+228,16,25,Chicago Blackhawks,Dallas Stars,2022021182382,2022021182,Hit,382,HIT,Mike Hardman hit Joe Pavelski,2023-03-29T02:40:33Z,3,09:12,10:48,0,4,16.0,Chicago Blackhawks,CHI
+229,16,25,Chicago Blackhawks,Dallas Stars,2022021182535,2022021182,Shot,535,SHOT,Roope Hintz Wrist Shot saved by Alex Stalock,2023-03-29T02:40:36Z,3,09:16,10:44,0,4,25.0,Dallas Stars,DAL
+230,16,25,Chicago Blackhawks,Dallas Stars,2022021182490,2022021182,Giveaway,490,GIVEAWAY,Giveaway by Colin Miller,2023-03-29T02:41:08Z,3,09:48,10:12,0,4,25.0,Dallas Stars,DAL
+231,16,25,Chicago Blackhawks,Dallas Stars,2022021182537,2022021182,Blocked Shot,537,BLOCKED_SHOT,Andreas Athanasiou shot blocked shot by Colin Miller,2023-03-29T02:41:27Z,3,10:07,09:53,0,4,25.0,Dallas Stars,DAL
+232,16,25,Chicago Blackhawks,Dallas Stars,2022021182383,2022021182,Stoppage,383,STOP,Puck in Netting,2023-03-29T02:41:29Z,3,10:09,09:51,0,4,,,
+233,16,25,Chicago Blackhawks,Dallas Stars,2022021182491,2022021182,Faceoff,491,FACEOFF,Jason Dickinson faceoff won against Wyatt Johnston,2023-03-29T02:43:48Z,3,10:09,09:51,0,4,16.0,Chicago Blackhawks,CHI
+234,16,25,Chicago Blackhawks,Dallas Stars,2022021182538,2022021182,Missed Shot,538,MISSED_SHOT,Tyler Johnson Goalpost Jake Oettinger,2023-03-29T02:43:58Z,3,10:19,09:41,0,4,16.0,Chicago Blackhawks,CHI
+235,16,25,Chicago Blackhawks,Dallas Stars,2022021182604,2022021182,Shot,604,SHOT,Jason Dickinson Backhand saved by Jake Oettinger,2023-03-29T02:44:11Z,3,10:32,09:28,0,4,16.0,Chicago Blackhawks,CHI
+236,16,25,Chicago Blackhawks,Dallas Stars,2022021182539,2022021182,Goal,539,GOAL,"Tyler Johnson (9) Wrist Shot, assists: Jason Dickinson (18), Wyatt Kaiser (1)",2023-03-29T02:44:11Z,3,10:33,09:27,1,4,16.0,Chicago Blackhawks,CHI
+237,16,25,Chicago Blackhawks,Dallas Stars,2022021182492,2022021182,Faceoff,492,FACEOFF,MacKenzie Entwistle faceoff won against Luke Glendening,2023-03-29T02:44:50Z,3,10:33,09:27,1,4,16.0,Chicago Blackhawks,CHI
+238,16,25,Chicago Blackhawks,Dallas Stars,2022021182493,2022021182,Giveaway,493,GIVEAWAY,Giveaway by Alex Vlasic,2023-03-29T02:45:11Z,3,10:54,09:06,1,4,16.0,Chicago Blackhawks,CHI
+239,16,25,Chicago Blackhawks,Dallas Stars,2022021182384,2022021182,Stoppage,384,STOP,Icing,2023-03-29T02:45:51Z,3,11:33,08:27,1,4,,,
+240,16,25,Chicago Blackhawks,Dallas Stars,2022021182494,2022021182,Faceoff,494,FACEOFF,Joe Pavelski faceoff won against Tyler Johnson,2023-03-29T02:46:23Z,3,11:33,08:27,1,4,25.0,Dallas Stars,DAL
+241,16,25,Chicago Blackhawks,Dallas Stars,2022021182540,2022021182,Missed Shot,540,MISSED_SHOT,Colin Miller Wide of Net Alex Stalock,2023-03-29T02:46:25Z,3,11:35,08:25,1,4,25.0,Dallas Stars,DAL
+242,16,25,Chicago Blackhawks,Dallas Stars,2022021182988,2022021182,Penalty,988,PENALTY,Alex Stalock Unsportsmanlike conduct served by Andreas Athanasiou,2023-03-29T02:46:35Z,3,11:45,08:15,1,4,16.0,Chicago Blackhawks,CHI
+243,16,25,Chicago Blackhawks,Dallas Stars,2022021182495,2022021182,Faceoff,495,FACEOFF,Jason Dickinson faceoff won against Jamie Benn,2023-03-29T02:47:36Z,3,11:45,08:15,1,4,16.0,Chicago Blackhawks,CHI
+244,16,25,Chicago Blackhawks,Dallas Stars,2022021182385,2022021182,Hit,385,HIT,Wyatt Kaiser hit Max Domi,2023-03-29T02:48:40Z,3,12:49,07:11,1,4,16.0,Chicago Blackhawks,CHI
+245,16,25,Chicago Blackhawks,Dallas Stars,2022021182542,2022021182,Shot,542,SHOT,Wyatt Kaiser Backhand saved by Jake Oettinger,2023-03-29T02:48:44Z,3,12:53,07:07,1,4,16.0,Chicago Blackhawks,CHI
+246,16,25,Chicago Blackhawks,Dallas Stars,2022021182496,2022021182,Takeaway,496,TAKEAWAY,Takeaway by Anders Bjork,2023-03-29T02:48:54Z,3,13:03,06:57,1,4,16.0,Chicago Blackhawks,CHI
+247,16,25,Chicago Blackhawks,Dallas Stars,2022021182386,2022021182,Hit,386,HIT,Wyatt Kaiser hit Wyatt Johnston,2023-03-29T02:49:15Z,3,13:24,06:36,1,4,16.0,Chicago Blackhawks,CHI
+248,16,25,Chicago Blackhawks,Dallas Stars,2022021182387,2022021182,Stoppage,387,STOP,Icing,2023-03-29T02:49:34Z,3,13:42,06:18,1,4,,,
+249,16,25,Chicago Blackhawks,Dallas Stars,2022021182497,2022021182,Faceoff,497,FACEOFF,Max Domi faceoff won against Lukas Reichel,2023-03-29T02:50:02Z,3,13:42,06:18,1,4,25.0,Dallas Stars,DAL
+250,16,25,Chicago Blackhawks,Dallas Stars,2022021182498,2022021182,Giveaway,498,GIVEAWAY,Giveaway by Caleb Jones,2023-03-29T02:51:03Z,3,14:43,05:17,1,4,16.0,Chicago Blackhawks,CHI
+251,16,25,Chicago Blackhawks,Dallas Stars,2022021182388,2022021182,Stoppage,388,STOP,Icing,2023-03-29T02:51:17Z,3,14:57,05:03,1,4,,,
+252,16,25,Chicago Blackhawks,Dallas Stars,2022021182499,2022021182,Faceoff,499,FACEOFF,Reese Johnson faceoff won against Jamie Benn,2023-03-29T02:51:45Z,3,14:57,05:03,1,4,16.0,Chicago Blackhawks,CHI
+253,16,25,Chicago Blackhawks,Dallas Stars,2022021182545,2022021182,Missed Shot,545,MISSED_SHOT,Radek Faksa Wide of Net Alex Stalock,2023-03-29T02:52:37Z,3,15:49,04:11,1,4,25.0,Dallas Stars,DAL
+254,16,25,Chicago Blackhawks,Dallas Stars,2022021182546,2022021182,Shot,546,SHOT,Tyler Seguin Slap Shot saved by Alex Stalock,2023-03-29T02:53:09Z,3,16:21,03:39,1,4,25.0,Dallas Stars,DAL
+255,16,25,Chicago Blackhawks,Dallas Stars,2022021182389,2022021182,Stoppage,389,STOP,Goalie Stopped,2023-03-29T02:53:11Z,3,16:23,03:37,1,4,,,
+256,16,25,Chicago Blackhawks,Dallas Stars,2022021182390,2022021182,Penalty,390,PENALTY,Alex Stalock Game Misconduct,2023-03-29T02:53:11Z,3,16:23,03:37,1,4,16.0,Chicago Blackhawks,CHI
+257,16,25,Chicago Blackhawks,Dallas Stars,2022021182500,2022021182,Faceoff,500,FACEOFF,Luke Glendening faceoff won against Anders Bjork,2023-03-29T02:56:07Z,3,16:23,03:37,1,4,25.0,Dallas Stars,DAL
+258,16,25,Chicago Blackhawks,Dallas Stars,2022021182547,2022021182,Shot,547,SHOT,Luke Glendening Tip-In saved by Petr Mrazek,2023-03-29T02:56:11Z,3,16:27,03:33,1,4,25.0,Dallas Stars,DAL
+259,16,25,Chicago Blackhawks,Dallas Stars,2022021182393,2022021182,Stoppage,393,STOP,Goalie Stopped,2023-03-29T02:56:13Z,3,16:29,03:31,1,4,,,
+260,16,25,Chicago Blackhawks,Dallas Stars,2022021182395,2022021182,Penalty,395,PENALTY,Ty Dellandrea Fighting against Connor Murphy,2023-03-29T02:56:13Z,3,16:29,03:31,1,4,25.0,Dallas Stars,DAL
+261,16,25,Chicago Blackhawks,Dallas Stars,2022021182605,2022021182,Penalty,605,PENALTY,Connor Murphy Fighting against Ty Dellandrea,2023-03-29T02:56:13Z,3,16:29,03:31,1,4,16.0,Chicago Blackhawks,CHI
+262,16,25,Chicago Blackhawks,Dallas Stars,2022021182801,2022021182,Faceoff,801,FACEOFF,Luke Glendening faceoff won against Anders Bjork,2023-03-29T02:57:40Z,3,16:29,03:31,1,4,25.0,Dallas Stars,DAL
+263,16,25,Chicago Blackhawks,Dallas Stars,2022021182548,2022021182,Shot,548,SHOT,Jani Hakanpää Snap Shot saved by Petr Mrazek,2023-03-29T02:58:11Z,3,17:00,03:00,1,4,25.0,Dallas Stars,DAL
+264,16,25,Chicago Blackhawks,Dallas Stars,2022021182549,2022021182,Shot,549,SHOT,Lukas Reichel Snap Shot saved by Jake Oettinger,2023-03-29T02:58:25Z,3,17:14,02:46,1,4,16.0,Chicago Blackhawks,CHI
+265,16,25,Chicago Blackhawks,Dallas Stars,2022021182550,2022021182,Blocked Shot,550,BLOCKED_SHOT,Colin Miller shot blocked shot by Alex Vlasic,2023-03-29T02:59:39Z,3,18:28,01:32,1,4,16.0,Chicago Blackhawks,CHI
+266,16,25,Chicago Blackhawks,Dallas Stars,2022021182902,2022021182,Shot,902,SHOT,Roope Hintz Snap Shot saved by Petr Mrazek,2023-03-29T03:00:44Z,3,19:33,00:27,1,4,25.0,Dallas Stars,DAL
+267,16,25,Chicago Blackhawks,Dallas Stars,2022021182398,2022021182,Stoppage,398,STOP,Goalie Stopped,2023-03-29T03:00:46Z,3,19:35,00:25,1,4,,,
+268,16,25,Chicago Blackhawks,Dallas Stars,2022021182803,2022021182,Faceoff,803,FACEOFF,Radek Faksa faceoff won against Reese Johnson,2023-03-29T03:01:18Z,3,19:35,00:25,1,4,25.0,Dallas Stars,DAL
+269,16,25,Chicago Blackhawks,Dallas Stars,2022021182903,2022021182,Blocked Shot,903,BLOCKED_SHOT,Max Domi shot blocked shot by Nikita Zaitsev,2023-03-29T03:01:22Z,3,19:39,00:21,1,4,16.0,Chicago Blackhawks,CHI
+270,16,25,Chicago Blackhawks,Dallas Stars,2022021182399,2022021182,Period End,399,PERIOD_END,End of 3rd Period,2023-03-29T03:01:43Z,3,20:00,00:00,1,4,,,
+271,16,25,Chicago Blackhawks,Dallas Stars,2022021182852,2022021182,Period Official,852,PERIOD_OFFICIAL,Period Official,2023-03-29T03:04:11Z,3,20:00,00:00,1,4,,,
+272,16,25,Chicago Blackhawks,Dallas Stars,2022021182853,2022021182,Game End,853,GAME_END,Game End,2023-03-29T03:04:12Z,3,20:00,00:00,1,4,,,
+273,16,25,Chicago Blackhawks,Dallas Stars,20220211821141,2022021182,Game Official,1141,GAME_OFFICIAL,Game Official,2023-03-29T14:28:55Z,3,20:00,00:00,1,4,,,

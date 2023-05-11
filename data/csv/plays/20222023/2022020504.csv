@@ -1,0 +1,303 @@
+,home_team_id,away_team_id,home_team,away_team,play_id,game_id,event,event_id,event_type_id,description,time_stamp,period,period_time,period_time_remaining,goals_home,goals_away,team_id,team_name,team_abrv
+0,6,13,Boston Bruins,Florida Panthers,20220205041,2022020504,Game Scheduled,1,GAME_SCHEDULED,Game Scheduled,2022-12-19T23:02:45Z,1,00:00,20:00,0,0,,,
+1,6,13,Boston Bruins,Florida Panthers,20220205045,2022020504,Period Ready,5,PERIOD_READY,Period Ready,2022-12-20T00:08:05Z,1,00:00,20:00,0,0,,,
+2,6,13,Boston Bruins,Florida Panthers,202202050451,2022020504,Period Start,51,PERIOD_START,Period Start,2022-12-20T00:08:41Z,1,00:00,20:00,0,0,,,
+3,6,13,Boston Bruins,Florida Panthers,202202050452,2022020504,Faceoff,52,FACEOFF,Tomas Nosek faceoff won against Sam Bennett,2022-12-20T00:08:41Z,1,00:00,20:00,0,0,6.0,Boston Bruins,BOS
+4,6,13,Boston Bruins,Florida Panthers,20220205048,2022020504,Stoppage,8,STOP,Puck in Benches,2022-12-20T00:08:45Z,1,00:04,19:56,0,0,,,
+5,6,13,Boston Bruins,Florida Panthers,202202050453,2022020504,Faceoff,53,FACEOFF,Tomas Nosek faceoff won against Sam Bennett,2022-12-20T00:09:05Z,1,00:04,19:56,0,0,6.0,Boston Bruins,BOS
+6,6,13,Boston Bruins,Florida Panthers,202202050454,2022020504,Takeaway,54,TAKEAWAY,Takeaway by Sam Bennett,2022-12-20T00:09:24Z,1,00:23,19:37,0,0,13.0,Florida Panthers,FLA
+7,6,13,Boston Bruins,Florida Panthers,20220205049,2022020504,Stoppage,9,STOP,Goalie Stopped,2022-12-20T00:09:29Z,1,00:28,19:32,0,0,,,
+8,6,13,Boston Bruins,Florida Panthers,2022020504151,2022020504,Shot,151,SHOT,Colin White Wrist Shot saved by Linus Ullmark,2022-12-20T00:09:29Z,1,00:28,19:32,0,0,13.0,Florida Panthers,FLA
+9,6,13,Boston Bruins,Florida Panthers,202202050455,2022020504,Faceoff,55,FACEOFF,Sam Reinhart faceoff won against Patrice Bergeron,2022-12-20T00:11:46Z,1,00:28,19:32,0,0,13.0,Florida Panthers,FLA
+10,6,13,Boston Bruins,Florida Panthers,2022020504152,2022020504,Shot,152,SHOT,Aaron Ekblad Slap Shot saved by Linus Ullmark,2022-12-20T00:11:50Z,1,00:32,19:28,0,0,13.0,Florida Panthers,FLA
+11,6,13,Boston Bruins,Florida Panthers,2022020504153,2022020504,Missed Shot,153,MISSED_SHOT,Gustav Forsling Wide of Net Linus Ullmark,2022-12-20T00:11:54Z,1,00:36,19:24,0,0,13.0,Florida Panthers,FLA
+12,6,13,Boston Bruins,Florida Panthers,202202050410,2022020504,Stoppage,10,STOP,Icing,2022-12-20T00:12:09Z,1,00:50,19:10,0,0,,,
+13,6,13,Boston Bruins,Florida Panthers,202202050456,2022020504,Faceoff,56,FACEOFF,Patrice Bergeron faceoff won against Sam Bennett,2022-12-20T00:12:33Z,1,00:50,19:10,0,0,6.0,Boston Bruins,BOS
+14,6,13,Boston Bruins,Florida Panthers,2022020504154,2022020504,Hit,154,HIT,Sam Bennett hit Brad Marchand,2022-12-20T00:12:41Z,1,00:58,19:02,0,0,13.0,Florida Panthers,FLA
+15,6,13,Boston Bruins,Florida Panthers,202202050411,2022020504,Blocked Shot,11,BLOCKED_SHOT,Matthew Tkachuk shot blocked shot by Matt Grzelcyk,2022-12-20T00:12:52Z,1,01:09,18:51,0,0,6.0,Boston Bruins,BOS
+16,6,13,Boston Bruins,Florida Panthers,202202050458,2022020504,Takeaway,58,TAKEAWAY,Takeaway by Derek Forbort,2022-12-20T00:13:14Z,1,01:31,18:29,0,0,6.0,Boston Bruins,BOS
+17,6,13,Boston Bruins,Florida Panthers,2022020504155,2022020504,Hit,155,HIT,Nick Cousins hit Connor Clifton,2022-12-20T00:13:15Z,1,01:32,18:28,0,0,13.0,Florida Panthers,FLA
+18,6,13,Boston Bruins,Florida Panthers,2022020504156,2022020504,Hit,156,HIT,Ryan Lomberg hit David Krejci,2022-12-20T00:13:17Z,1,01:34,18:26,0,0,13.0,Florida Panthers,FLA
+19,6,13,Boston Bruins,Florida Panthers,202202050412,2022020504,Stoppage,12,STOP,Offside,2022-12-20T00:13:18Z,1,01:36,18:24,0,0,,,
+20,6,13,Boston Bruins,Florida Panthers,202202050459,2022020504,Faceoff,59,FACEOFF,David Krejci faceoff won against Eric Staal,2022-12-20T00:13:47Z,1,01:36,18:24,0,0,6.0,Boston Bruins,BOS
+21,6,13,Boston Bruins,Florida Panthers,202202050413,2022020504,Stoppage,13,STOP,Offside,2022-12-20T00:14:06Z,1,01:55,18:05,0,0,,,
+22,6,13,Boston Bruins,Florida Panthers,202202050460,2022020504,Giveaway,60,GIVEAWAY,Giveaway by Nick Cousins,2022-12-20T00:14:06Z,1,01:55,18:05,0,0,13.0,Florida Panthers,FLA
+23,6,13,Boston Bruins,Florida Panthers,202202050461,2022020504,Faceoff,61,FACEOFF,Eetu Luostarinen faceoff won against Charlie Coyle,2022-12-20T00:14:34Z,1,01:55,18:05,0,0,13.0,Florida Panthers,FLA
+24,6,13,Boston Bruins,Florida Panthers,2022020504157,2022020504,Hit,157,HIT,Charlie McAvoy hit Carter Verhaeghe,2022-12-20T00:14:40Z,1,02:01,17:59,0,0,6.0,Boston Bruins,BOS
+25,6,13,Boston Bruins,Florida Panthers,202202050462,2022020504,Takeaway,62,TAKEAWAY,Takeaway by Carter Verhaeghe,2022-12-20T00:14:51Z,1,02:12,17:48,0,0,13.0,Florida Panthers,FLA
+26,6,13,Boston Bruins,Florida Panthers,202202050463,2022020504,Takeaway,63,TAKEAWAY,Takeaway by Charlie Coyle,2022-12-20T00:15:03Z,1,02:24,17:36,0,0,6.0,Boston Bruins,BOS
+27,6,13,Boston Bruins,Florida Panthers,202202050414,2022020504,Stoppage,14,STOP,Goalie Stopped,2022-12-20T00:15:03Z,1,02:25,17:35,0,0,,,
+28,6,13,Boston Bruins,Florida Panthers,2022020504158,2022020504,Shot,158,SHOT,Charlie Coyle Wrist Shot saved by Spencer Knight,2022-12-20T00:15:03Z,1,02:25,17:35,0,0,6.0,Boston Bruins,BOS
+29,6,13,Boston Bruins,Florida Panthers,202202050464,2022020504,Faceoff,64,FACEOFF,Patrice Bergeron faceoff won against Sam Bennett,2022-12-20T00:15:31Z,1,02:25,17:35,0,0,6.0,Boston Bruins,BOS
+30,6,13,Boston Bruins,Florida Panthers,202202050415,2022020504,Blocked Shot,15,BLOCKED_SHOT,Hampus Lindholm shot blocked shot by Marc Staal,2022-12-20T00:15:37Z,1,02:31,17:29,0,0,13.0,Florida Panthers,FLA
+31,6,13,Boston Bruins,Florida Panthers,202202050465,2022020504,Giveaway,65,GIVEAWAY,Giveaway by Sam Bennett,2022-12-20T00:15:55Z,1,02:49,17:11,0,0,13.0,Florida Panthers,FLA
+32,6,13,Boston Bruins,Florida Panthers,202202050416,2022020504,Stoppage,16,STOP,Offside,2022-12-20T00:15:57Z,1,02:51,17:09,0,0,,,
+33,6,13,Boston Bruins,Florida Panthers,202202050466,2022020504,Faceoff,66,FACEOFF,Zac Dalpe faceoff won against Tomas Nosek,2022-12-20T00:16:22Z,1,02:51,17:09,0,0,13.0,Florida Panthers,FLA
+34,6,13,Boston Bruins,Florida Panthers,2022020504159,2022020504,Shot,159,SHOT,Zac Dalpe Wrist Shot saved by Linus Ullmark,2022-12-20T00:16:49Z,1,03:18,16:42,0,0,13.0,Florida Panthers,FLA
+35,6,13,Boston Bruins,Florida Panthers,2022020504160,2022020504,Hit,160,HIT,Connor Clifton hit Grigori Denisenko,2022-12-20T00:17:00Z,1,03:29,16:31,0,0,6.0,Boston Bruins,BOS
+36,6,13,Boston Bruins,Florida Panthers,202202050467,2022020504,Giveaway,67,GIVEAWAY,Giveaway by Craig Smith,2022-12-20T00:17:07Z,1,03:36,16:24,0,0,6.0,Boston Bruins,BOS
+37,6,13,Boston Bruins,Florida Panthers,202202050417,2022020504,Blocked Shot,17,BLOCKED_SHOT,Carter Verhaeghe shot blocked shot by Connor Clifton,2022-12-20T00:17:18Z,1,03:47,16:13,0,0,6.0,Boston Bruins,BOS
+38,6,13,Boston Bruins,Florida Panthers,202202050468,2022020504,Giveaway,68,GIVEAWAY,Giveaway by Eetu Luostarinen,2022-12-20T00:17:42Z,1,04:11,15:49,0,0,13.0,Florida Panthers,FLA
+39,6,13,Boston Bruins,Florida Panthers,202202050469,2022020504,Giveaway,69,GIVEAWAY,Giveaway by Charlie Coyle,2022-12-20T00:18:09Z,1,04:38,15:22,0,0,6.0,Boston Bruins,BOS
+40,6,13,Boston Bruins,Florida Panthers,202202050470,2022020504,Giveaway,70,GIVEAWAY,Giveaway by Linus Ullmark,2022-12-20T00:18:25Z,1,04:54,15:06,0,0,6.0,Boston Bruins,BOS
+41,6,13,Boston Bruins,Florida Panthers,202202050418,2022020504,Hit,18,HIT,Nick Cousins hit Hampus Lindholm,2022-12-20T00:18:50Z,1,05:19,14:41,0,0,13.0,Florida Panthers,FLA
+42,6,13,Boston Bruins,Florida Panthers,2022020504161,2022020504,Shot,161,SHOT,Trent Frederic Wrist Shot saved by Spencer Knight,2022-12-20T00:18:56Z,1,05:25,14:35,0,0,6.0,Boston Bruins,BOS
+43,6,13,Boston Bruins,Florida Panthers,202202050419,2022020504,Stoppage,19,STOP,Goalie Stopped,2022-12-20T00:18:57Z,1,05:26,14:34,0,0,,,
+44,6,13,Boston Bruins,Florida Panthers,202202050471,2022020504,Faceoff,71,FACEOFF,Brad Marchand faceoff won against Sam Bennett,2022-12-20T00:19:44Z,1,05:26,14:34,0,0,6.0,Boston Bruins,BOS
+45,6,13,Boston Bruins,Florida Panthers,2022020504162,2022020504,Hit,162,HIT,Zac Dalpe hit Connor Clifton,2022-12-20T00:20:54Z,1,06:36,13:24,0,0,13.0,Florida Panthers,FLA
+46,6,13,Boston Bruins,Florida Panthers,2022020504164,2022020504,Hit,164,HIT,Sam Reinhart hit David Krejci,2022-12-20T00:21:32Z,1,07:14,12:46,0,0,13.0,Florida Panthers,FLA
+47,6,13,Boston Bruins,Florida Panthers,202202050472,2022020504,Takeaway,72,TAKEAWAY,Takeaway by Brandon Montour,2022-12-20T00:21:48Z,1,07:30,12:30,0,0,13.0,Florida Panthers,FLA
+48,6,13,Boston Bruins,Florida Panthers,2022020504165,2022020504,Hit,165,HIT,Gustav Forsling hit Trent Frederic,2022-12-20T00:22:30Z,1,08:12,11:48,0,0,13.0,Florida Panthers,FLA
+49,6,13,Boston Bruins,Florida Panthers,202202050423,2022020504,Blocked Shot,23,BLOCKED_SHOT,Connor Clifton shot blocked shot by Aaron Ekblad,2022-12-20T00:22:54Z,1,08:36,11:24,0,0,13.0,Florida Panthers,FLA
+50,6,13,Boston Bruins,Florida Panthers,202202050424,2022020504,Stoppage,24,STOP,Puck in Netting,2022-12-20T00:22:56Z,1,08:38,11:22,0,0,,,
+51,6,13,Boston Bruins,Florida Panthers,202202050473,2022020504,Faceoff,73,FACEOFF,Patrice Bergeron faceoff won against Sam Bennett,2022-12-20T00:25:24Z,1,08:38,11:22,0,0,6.0,Boston Bruins,BOS
+52,6,13,Boston Bruins,Florida Panthers,2022020504166,2022020504,Shot,166,SHOT,Hampus Lindholm Wrist Shot saved by Spencer Knight,2022-12-20T00:25:28Z,1,08:42,11:18,0,0,6.0,Boston Bruins,BOS
+53,6,13,Boston Bruins,Florida Panthers,202202050425,2022020504,Stoppage,25,STOP,Puck Frozen,2022-12-20T00:25:48Z,1,09:03,10:57,0,0,,,
+54,6,13,Boston Bruins,Florida Panthers,202202050474,2022020504,Faceoff,74,FACEOFF,Eetu Luostarinen faceoff won against David Krejci,2022-12-20T00:26:29Z,1,09:03,10:57,0,0,13.0,Florida Panthers,FLA
+55,6,13,Boston Bruins,Florida Panthers,202202050426,2022020504,Blocked Shot,26,BLOCKED_SHOT,David Krejci shot blocked shot by Marc Staal,2022-12-20T00:26:36Z,1,09:10,10:50,0,0,13.0,Florida Panthers,FLA
+56,6,13,Boston Bruins,Florida Panthers,202202050475,2022020504,Takeaway,75,TAKEAWAY,Takeaway by Sam Reinhart,2022-12-20T00:26:49Z,1,09:23,10:37,0,0,13.0,Florida Panthers,FLA
+57,6,13,Boston Bruins,Florida Panthers,202202050476,2022020504,Giveaway,76,GIVEAWAY,Giveaway by Craig Smith,2022-12-20T00:27:50Z,1,10:24,09:36,0,0,6.0,Boston Bruins,BOS
+58,6,13,Boston Bruins,Florida Panthers,202202050427,2022020504,Stoppage,27,STOP,Offside,2022-12-20T00:27:54Z,1,10:28,09:32,0,0,,,
+59,6,13,Boston Bruins,Florida Panthers,202202050477,2022020504,Faceoff,77,FACEOFF,Aleksi Heponiemi faceoff won against Charlie Coyle,2022-12-20T00:30:25Z,1,10:28,09:32,0,0,13.0,Florida Panthers,FLA
+60,6,13,Boston Bruins,Florida Panthers,2022020504167,2022020504,Hit,167,HIT,Grigori Denisenko hit Derek Forbort,2022-12-20T00:30:34Z,1,10:37,09:23,0,0,13.0,Florida Panthers,FLA
+61,6,13,Boston Bruins,Florida Panthers,2022020504169,2022020504,Shot,169,SHOT,Zac Dalpe Wrist Shot saved by Linus Ullmark,2022-12-20T00:30:37Z,1,10:40,09:20,0,0,13.0,Florida Panthers,FLA
+62,6,13,Boston Bruins,Florida Panthers,2022020504168,2022020504,Goal,168,GOAL,"Connor Clifton (3) Wrist Shot, assists: Taylor Hall (13)",2022-12-20T00:30:48Z,1,10:51,09:09,1,0,6.0,Boston Bruins,BOS
+63,6,13,Boston Bruins,Florida Panthers,202202050478,2022020504,Faceoff,78,FACEOFF,Patrice Bergeron faceoff won against Sam Bennett,2022-12-20T00:31:32Z,1,10:51,09:09,1,0,6.0,Boston Bruins,BOS
+64,6,13,Boston Bruins,Florida Panthers,2022020504170,2022020504,Shot,170,SHOT,Jake DeBrusk Snap Shot saved by Spencer Knight,2022-12-20T00:32:02Z,1,11:21,08:39,1,0,6.0,Boston Bruins,BOS
+65,6,13,Boston Bruins,Florida Panthers,202202050428,2022020504,Blocked Shot,28,BLOCKED_SHOT,Eetu Luostarinen shot blocked shot by Matt Grzelcyk,2022-12-20T00:32:52Z,1,12:11,07:49,1,0,6.0,Boston Bruins,BOS
+66,6,13,Boston Bruins,Florida Panthers,202202050479,2022020504,Giveaway,79,GIVEAWAY,Giveaway by David Pastrnak,2022-12-20T00:33:00Z,1,12:19,07:41,1,0,6.0,Boston Bruins,BOS
+67,6,13,Boston Bruins,Florida Panthers,2022020504171,2022020504,Shot,171,SHOT,Carter Verhaeghe Wrist Shot saved by Linus Ullmark,2022-12-20T00:33:05Z,1,12:24,07:36,1,0,13.0,Florida Panthers,FLA
+68,6,13,Boston Bruins,Florida Panthers,202202050480,2022020504,Giveaway,80,GIVEAWAY,Giveaway by Aleksi Heponiemi,2022-12-20T00:33:30Z,1,12:49,07:11,1,0,13.0,Florida Panthers,FLA
+69,6,13,Boston Bruins,Florida Panthers,2022020504172,2022020504,Hit,172,HIT,Craig Smith hit Matt Kiersted,2022-12-20T00:33:33Z,1,12:52,07:08,1,0,6.0,Boston Bruins,BOS
+70,6,13,Boston Bruins,Florida Panthers,202202050429,2022020504,Stoppage,29,STOP,Goalie Stopped,2022-12-20T00:33:40Z,1,12:59,07:01,1,0,,,
+71,6,13,Boston Bruins,Florida Panthers,2022020504173,2022020504,Shot,173,SHOT,Tomas Nosek Wrist Shot saved by Spencer Knight,2022-12-20T00:33:40Z,1,12:59,07:01,1,0,6.0,Boston Bruins,BOS
+72,6,13,Boston Bruins,Florida Panthers,202202050481,2022020504,Faceoff,81,FACEOFF,Eric Staal faceoff won against Charlie Coyle,2022-12-20T00:34:14Z,1,12:59,07:01,1,0,13.0,Florida Panthers,FLA
+73,6,13,Boston Bruins,Florida Panthers,2022020504174,2022020504,Missed Shot,174,MISSED_SHOT,Connor Clifton Wide of Net Spencer Knight,2022-12-20T00:34:28Z,1,13:13,06:47,1,0,6.0,Boston Bruins,BOS
+74,6,13,Boston Bruins,Florida Panthers,2022020504175,2022020504,Missed Shot,175,MISSED_SHOT,Taylor Hall Wide of Net Spencer Knight,2022-12-20T00:34:32Z,1,13:17,06:43,1,0,6.0,Boston Bruins,BOS
+75,6,13,Boston Bruins,Florida Panthers,2022020504176,2022020504,Shot,176,SHOT,Ryan Lomberg Backhand saved by Linus Ullmark,2022-12-20T00:34:40Z,1,13:25,06:35,1,0,13.0,Florida Panthers,FLA
+76,6,13,Boston Bruins,Florida Panthers,202202050484,2022020504,Giveaway,84,GIVEAWAY,Giveaway by Eric Staal,2022-12-20T00:34:52Z,1,13:37,06:23,1,0,13.0,Florida Panthers,FLA
+77,6,13,Boston Bruins,Florida Panthers,2022020504177,2022020504,Shot,177,SHOT,Hampus Lindholm Wrist Shot saved by Spencer Knight,2022-12-20T00:34:56Z,1,13:41,06:19,1,0,6.0,Boston Bruins,BOS
+78,6,13,Boston Bruins,Florida Panthers,202202050430,2022020504,Stoppage,30,STOP,Goalie Stopped,2022-12-20T00:35:02Z,1,13:47,06:13,1,0,,,
+79,6,13,Boston Bruins,Florida Panthers,2022020504178,2022020504,Shot,178,SHOT,Patrice Bergeron Wrist Shot saved by Spencer Knight,2022-12-20T00:35:02Z,1,13:47,06:13,1,0,6.0,Boston Bruins,BOS
+80,6,13,Boston Bruins,Florida Panthers,202202050485,2022020504,Faceoff,85,FACEOFF,Colin White faceoff won against Patrice Bergeron,2022-12-20T00:35:50Z,1,13:47,06:13,1,0,13.0,Florida Panthers,FLA
+81,6,13,Boston Bruins,Florida Panthers,2022020504179,2022020504,Goal,179,GOAL,"Brandon Carlo (1) Wrist Shot, assists: Brad Marchand (15), Patrice Bergeron (13)",2022-12-20T00:36:08Z,1,14:04,05:56,2,0,6.0,Boston Bruins,BOS
+82,6,13,Boston Bruins,Florida Panthers,202202050486,2022020504,Faceoff,86,FACEOFF,Eetu Luostarinen faceoff won against David Krejci,2022-12-20T00:36:58Z,1,14:04,05:56,2,0,13.0,Florida Panthers,FLA
+83,6,13,Boston Bruins,Florida Panthers,202202050487,2022020504,Takeaway,87,TAKEAWAY,Takeaway by Carter Verhaeghe,2022-12-20T00:37:39Z,1,14:45,05:15,2,0,13.0,Florida Panthers,FLA
+84,6,13,Boston Bruins,Florida Panthers,202202050431,2022020504,Stoppage,31,STOP,Offside,2022-12-20T00:38:28Z,1,15:34,04:26,2,0,,,
+85,6,13,Boston Bruins,Florida Panthers,202202050488,2022020504,Faceoff,88,FACEOFF,Charlie Coyle faceoff won against Eric Staal,2022-12-20T00:40:53Z,1,15:34,04:26,2,0,6.0,Boston Bruins,BOS
+86,6,13,Boston Bruins,Florida Panthers,2022020504180,2022020504,Hit,180,HIT,Ryan Lomberg hit Brandon Carlo,2022-12-20T00:41:00Z,1,15:41,04:19,2,0,13.0,Florida Panthers,FLA
+87,6,13,Boston Bruins,Florida Panthers,202202050489,2022020504,Giveaway,89,GIVEAWAY,Giveaway by Josh Mahura,2022-12-20T00:41:23Z,1,16:04,03:56,2,0,13.0,Florida Panthers,FLA
+88,6,13,Boston Bruins,Florida Panthers,2022020504181,2022020504,Goal,181,GOAL,"Charlie Coyle (9) Wrist Shot, assists: Trent Frederic (6), Brandon Carlo (5)",2022-12-20T00:41:26Z,1,16:07,03:53,3,0,6.0,Boston Bruins,BOS
+89,6,13,Boston Bruins,Florida Panthers,202202050490,2022020504,Faceoff,90,FACEOFF,Sam Bennett faceoff won against Patrice Bergeron,2022-12-20T00:42:09Z,1,16:07,03:53,3,0,13.0,Florida Panthers,FLA
+90,6,13,Boston Bruins,Florida Panthers,2022020504184,2022020504,Shot,184,SHOT,Brad Marchand Backhand saved by Spencer Knight,2022-12-20T00:42:12Z,1,16:10,03:50,3,0,6.0,Boston Bruins,BOS
+91,6,13,Boston Bruins,Florida Panthers,202202050432,2022020504,Stoppage,32,STOP,Icing,2022-12-20T00:42:20Z,1,16:18,03:42,3,0,,,
+92,6,13,Boston Bruins,Florida Panthers,202202050491,2022020504,Faceoff,91,FACEOFF,Patrice Bergeron faceoff won against Sam Bennett,2022-12-20T00:42:47Z,1,16:18,03:42,3,0,6.0,Boston Bruins,BOS
+93,6,13,Boston Bruins,Florida Panthers,202202050433,2022020504,Blocked Shot,33,BLOCKED_SHOT,Brad Marchand shot blocked shot by Aaron Ekblad,2022-12-20T00:42:59Z,1,16:30,03:30,3,0,13.0,Florida Panthers,FLA
+94,6,13,Boston Bruins,Florida Panthers,202202050434,2022020504,Stoppage,34,STOP,Offside,2022-12-20T00:43:02Z,1,16:33,03:27,3,0,,,
+95,6,13,Boston Bruins,Florida Panthers,202202050492,2022020504,Faceoff,92,FACEOFF,Patrice Bergeron faceoff won against Colin White,2022-12-20T00:43:31Z,1,16:33,03:27,3,0,6.0,Boston Bruins,BOS
+96,6,13,Boston Bruins,Florida Panthers,2022020504389,2022020504,Penalty,389,PENALTY,Sam Bennett Roughing against Brad Marchand,2022-12-20T00:43:38Z,1,16:40,03:20,3,0,13.0,Florida Panthers,FLA
+97,6,13,Boston Bruins,Florida Panthers,202202050493,2022020504,Faceoff,93,FACEOFF,Eric Staal faceoff won against Patrice Bergeron,2022-12-20T00:44:22Z,1,16:40,03:20,3,0,13.0,Florida Panthers,FLA
+98,6,13,Boston Bruins,Florida Panthers,2022020504182,2022020504,Shot,182,SHOT,Aaron Ekblad Backhand saved by Linus Ullmark,2022-12-20T00:44:30Z,1,16:48,03:12,3,0,13.0,Florida Panthers,FLA
+99,6,13,Boston Bruins,Florida Panthers,2022020504183,2022020504,Shot,183,SHOT,Patrice Bergeron Snap Shot saved by Spencer Knight,2022-12-20T00:44:49Z,1,17:07,02:53,3,0,6.0,Boston Bruins,BOS
+100,6,13,Boston Bruins,Florida Panthers,2022020504185,2022020504,Shot,185,SHOT,Colin White Wrist Shot saved by Linus Ullmark,2022-12-20T00:46:46Z,1,19:04,00:56,3,0,13.0,Florida Panthers,FLA
+101,6,13,Boston Bruins,Florida Panthers,202202050436,2022020504,Blocked Shot,36,BLOCKED_SHOT,Matthew Tkachuk shot blocked shot by Trent Frederic,2022-12-20T00:46:49Z,1,19:07,00:53,3,0,6.0,Boston Bruins,BOS
+102,6,13,Boston Bruins,Florida Panthers,2022020504186,2022020504,Shot,186,SHOT,Matthew Tkachuk Wrist Shot saved by Linus Ullmark,2022-12-20T00:47:04Z,1,19:22,00:38,3,0,13.0,Florida Panthers,FLA
+103,6,13,Boston Bruins,Florida Panthers,2022020504187,2022020504,Hit,187,HIT,Trent Frederic hit Sam Reinhart,2022-12-20T00:47:16Z,1,19:34,00:26,3,0,6.0,Boston Bruins,BOS
+104,6,13,Boston Bruins,Florida Panthers,202202050494,2022020504,Takeaway,94,TAKEAWAY,Takeaway by David Pastrnak,2022-12-20T00:47:32Z,1,19:50,00:10,3,0,6.0,Boston Bruins,BOS
+105,6,13,Boston Bruins,Florida Panthers,202202050437,2022020504,Period End,37,PERIOD_END,End of 1st Period,2022-12-20T00:47:42Z,1,20:00,00:00,3,0,,,
+106,6,13,Boston Bruins,Florida Panthers,202202050440,2022020504,Period Official,40,PERIOD_OFFICIAL,Period Official,2022-12-20T00:47:50Z,1,20:00,00:00,3,0,,,
+107,6,13,Boston Bruins,Florida Panthers,202202050441,2022020504,Period Ready,41,PERIOD_READY,Period Ready,2022-12-20T01:04:59Z,2,00:00,20:00,3,0,,,
+108,6,13,Boston Bruins,Florida Panthers,202202050495,2022020504,Period Start,95,PERIOD_START,Period Start,2022-12-20T01:06:20Z,2,00:00,20:00,3,0,,,
+109,6,13,Boston Bruins,Florida Panthers,202202050496,2022020504,Faceoff,96,FACEOFF,Sam Bennett faceoff won against Patrice Bergeron,2022-12-20T01:06:20Z,2,00:00,20:00,3,0,13.0,Florida Panthers,FLA
+110,6,13,Boston Bruins,Florida Panthers,2022020504188,2022020504,Hit,188,HIT,Jake DeBrusk hit Gustav Forsling,2022-12-20T01:06:25Z,2,00:05,19:55,3,0,6.0,Boston Bruins,BOS
+111,6,13,Boston Bruins,Florida Panthers,2022020504189,2022020504,Hit,189,HIT,Sam Bennett hit Brad Marchand,2022-12-20T01:06:43Z,2,00:23,19:37,3,0,13.0,Florida Panthers,FLA
+112,6,13,Boston Bruins,Florida Panthers,2022020504190,2022020504,Shot,190,SHOT,Sam Bennett Tip-In saved by Linus Ullmark,2022-12-20T01:06:57Z,2,00:37,19:23,3,0,13.0,Florida Panthers,FLA
+113,6,13,Boston Bruins,Florida Panthers,202202050442,2022020504,Blocked Shot,42,BLOCKED_SHOT,Taylor Hall shot blocked shot by Gustav Forsling,2022-12-20T01:07:10Z,2,00:50,19:10,3,0,13.0,Florida Panthers,FLA
+114,6,13,Boston Bruins,Florida Panthers,2022020504191,2022020504,Hit,191,HIT,Sam Bennett hit Taylor Hall,2022-12-20T01:07:11Z,2,00:51,19:09,3,0,13.0,Florida Panthers,FLA
+115,6,13,Boston Bruins,Florida Panthers,2022020504481,2022020504,Penalty,481,PENALTY,Gustav Forsling Delaying Game - Puck over glass,2022-12-20T01:07:36Z,2,01:16,18:44,3,0,13.0,Florida Panthers,FLA
+116,6,13,Boston Bruins,Florida Panthers,202202050497,2022020504,Faceoff,97,FACEOFF,Patrice Bergeron faceoff won against Eric Staal,2022-12-20T01:08:06Z,2,01:16,18:44,3,0,6.0,Boston Bruins,BOS
+117,6,13,Boston Bruins,Florida Panthers,2022020504192,2022020504,Shot,192,SHOT,David Pastrnak Slap Shot saved by Spencer Knight,2022-12-20T01:08:21Z,2,01:31,18:29,3,0,6.0,Boston Bruins,BOS
+118,6,13,Boston Bruins,Florida Panthers,2022020504193,2022020504,Shot,193,SHOT,Patrice Bergeron Snap Shot saved by Spencer Knight,2022-12-20T01:08:27Z,2,01:37,18:23,3,0,6.0,Boston Bruins,BOS
+119,6,13,Boston Bruins,Florida Panthers,2022020504194,2022020504,Goal,194,GOAL,"David Pastrnak (21) Wrist Shot, assists: Patrice Bergeron (14), Brad Marchand (16)",2022-12-20T01:08:28Z,2,01:38,18:22,4,0,6.0,Boston Bruins,BOS
+120,6,13,Boston Bruins,Florida Panthers,202202050498,2022020504,Faceoff,98,FACEOFF,Zac Dalpe faceoff won against David Krejci,2022-12-20T01:09:17Z,2,01:38,18:22,4,0,13.0,Florida Panthers,FLA
+121,6,13,Boston Bruins,Florida Panthers,2022020504195,2022020504,Missed Shot,195,MISSED_SHOT,David Pastrnak Wide of Net Spencer Knight,2022-12-20T01:09:53Z,2,02:14,17:46,4,0,6.0,Boston Bruins,BOS
+122,6,13,Boston Bruins,Florida Panthers,202202050444,2022020504,Shot,44,SHOT,Matt Kiersted Snap Shot saved by Linus Ullmark,2022-12-20T01:10:37Z,2,02:58,17:02,4,0,13.0,Florida Panthers,FLA
+123,6,13,Boston Bruins,Florida Panthers,2022020504196,2022020504,Shot,196,SHOT,Matt Kiersted Wrist Shot saved by Linus Ullmark,2022-12-20T01:10:40Z,2,03:01,16:59,4,0,13.0,Florida Panthers,FLA
+124,6,13,Boston Bruins,Florida Panthers,2022020504198,2022020504,Goal,198,GOAL,"Sam Reinhart (12) Wrist Shot, assists: Matt Kiersted (3), Carter Verhaeghe (11)",2022-12-20T01:10:41Z,2,03:02,16:58,4,1,13.0,Florida Panthers,FLA
+125,6,13,Boston Bruins,Florida Panthers,202202050499,2022020504,Faceoff,99,FACEOFF,Charlie Coyle faceoff won against Sam Bennett,2022-12-20T01:11:27Z,2,03:02,16:58,4,1,6.0,Boston Bruins,BOS
+126,6,13,Boston Bruins,Florida Panthers,2022020504100,2022020504,Takeaway,100,TAKEAWAY,Takeaway by Colin White,2022-12-20T01:11:45Z,2,03:20,16:40,4,1,13.0,Florida Panthers,FLA
+127,6,13,Boston Bruins,Florida Panthers,202202050445,2022020504,Blocked Shot,45,BLOCKED_SHOT,Josh Mahura shot blocked shot by David Pastrnak,2022-12-20T01:13:13Z,2,04:48,15:12,4,1,6.0,Boston Bruins,BOS
+128,6,13,Boston Bruins,Florida Panthers,202202050446,2022020504,Stoppage,46,STOP,Puck in Netting,2022-12-20T01:13:15Z,2,04:50,15:10,4,1,,,
+129,6,13,Boston Bruins,Florida Panthers,2022020504251,2022020504,Faceoff,251,FACEOFF,Nick Cousins faceoff won against David Krejci,2022-12-20T01:13:59Z,2,04:50,15:10,4,1,13.0,Florida Panthers,FLA
+130,6,13,Boston Bruins,Florida Panthers,202202050447,2022020504,Stoppage,47,STOP,Goalie Stopped,2022-12-20T01:14:04Z,2,04:55,15:05,4,1,,,
+131,6,13,Boston Bruins,Florida Panthers,2022020504199,2022020504,Shot,199,SHOT,Brandon Montour Wrist Shot saved by Linus Ullmark,2022-12-20T01:14:04Z,2,04:55,15:05,4,1,13.0,Florida Panthers,FLA
+132,6,13,Boston Bruins,Florida Panthers,2022020504252,2022020504,Faceoff,252,FACEOFF,Eric Staal faceoff won against David Krejci,2022-12-20T01:14:21Z,2,04:55,15:05,4,1,13.0,Florida Panthers,FLA
+133,6,13,Boston Bruins,Florida Panthers,2022020504200,2022020504,Goal,200,GOAL,"Eric Staal (2) Snap Shot, assists: Gustav Forsling (17), Brandon Montour (20)",2022-12-20T01:15:08Z,2,05:42,14:18,4,2,13.0,Florida Panthers,FLA
+134,6,13,Boston Bruins,Florida Panthers,2022020504253,2022020504,Faceoff,253,FACEOFF,Zac Dalpe faceoff won against Nick Foligno,2022-12-20T01:15:57Z,2,05:42,14:18,4,2,13.0,Florida Panthers,FLA
+135,6,13,Boston Bruins,Florida Panthers,2022020504401,2022020504,Shot,401,SHOT,Zac Dalpe Wrist Shot saved by Linus Ullmark,2022-12-20T01:16:08Z,2,05:53,14:07,4,2,13.0,Florida Panthers,FLA
+136,6,13,Boston Bruins,Florida Panthers,2022020504254,2022020504,Giveaway,254,GIVEAWAY,Giveaway by Gustav Forsling,2022-12-20T01:16:51Z,2,06:36,13:24,4,2,13.0,Florida Panthers,FLA
+137,6,13,Boston Bruins,Florida Panthers,202202050448,2022020504,Blocked Shot,48,BLOCKED_SHOT,Charlie McAvoy shot blocked shot by Gustav Forsling,2022-12-20T01:17:05Z,2,06:50,13:10,4,2,13.0,Florida Panthers,FLA
+138,6,13,Boston Bruins,Florida Panthers,2022020504255,2022020504,Giveaway,255,GIVEAWAY,Giveaway by Hampus Lindholm,2022-12-20T01:17:16Z,2,07:01,12:59,4,2,6.0,Boston Bruins,BOS
+139,6,13,Boston Bruins,Florida Panthers,2022020504402,2022020504,Missed Shot,402,MISSED_SHOT,Marc Staal Wide of Net Linus Ullmark,2022-12-20T01:17:24Z,2,07:09,12:51,4,2,13.0,Florida Panthers,FLA
+140,6,13,Boston Bruins,Florida Panthers,2022020504403,2022020504,Missed Shot,403,MISSED_SHOT,Charlie Coyle Wide of Net Spencer Knight,2022-12-20T01:17:41Z,2,07:26,12:34,4,2,6.0,Boston Bruins,BOS
+141,6,13,Boston Bruins,Florida Panthers,2022020504405,2022020504,Hit,405,HIT,Brandon Montour hit Brad Marchand,2022-12-20T01:18:12Z,2,07:57,12:03,4,2,13.0,Florida Panthers,FLA
+142,6,13,Boston Bruins,Florida Panthers,2022020504256,2022020504,Giveaway,256,GIVEAWAY,Giveaway by Sam Reinhart,2022-12-20T01:18:32Z,2,08:17,11:43,4,2,13.0,Florida Panthers,FLA
+143,6,13,Boston Bruins,Florida Panthers,2022020504406,2022020504,Shot,406,SHOT,Sam Reinhart Wrist Shot saved by Linus Ullmark,2022-12-20T01:18:34Z,2,08:19,11:41,4,2,13.0,Florida Panthers,FLA
+144,6,13,Boston Bruins,Florida Panthers,202202050449,2022020504,Stoppage,49,STOP,Video Review,2022-12-20T01:18:36Z,2,08:22,11:38,4,2,,,
+145,6,13,Boston Bruins,Florida Panthers,2022020504407,2022020504,Goal,407,GOAL,"Carter Verhaeghe (17) Backhand, assists: Sam Reinhart (12), Eetu Luostarinen (10)",2022-12-20T01:18:36Z,2,08:22,11:38,4,3,13.0,Florida Panthers,FLA
+146,6,13,Boston Bruins,Florida Panthers,2022020504257,2022020504,Faceoff,257,FACEOFF,Eric Staal faceoff won against David Krejci,2022-12-20T01:20:36Z,2,08:22,11:38,4,3,13.0,Florida Panthers,FLA
+147,6,13,Boston Bruins,Florida Panthers,2022020504586,2022020504,Penalty,586,PENALTY,David Pastrnak Illegal check to head against Gustav Forsling,2022-12-20T01:20:45Z,2,08:32,11:28,4,3,6.0,Boston Bruins,BOS
+148,6,13,Boston Bruins,Florida Panthers,2022020504258,2022020504,Faceoff,258,FACEOFF,Tomas Nosek faceoff won against Sam Reinhart,2022-12-20T01:23:15Z,2,08:32,11:28,4,3,6.0,Boston Bruins,BOS
+149,6,13,Boston Bruins,Florida Panthers,2022020504503,2022020504,Blocked Shot,503,BLOCKED_SHOT,Aaron Ekblad shot blocked shot by Brandon Carlo,2022-12-20T01:23:54Z,2,09:11,10:49,4,3,6.0,Boston Bruins,BOS
+150,6,13,Boston Bruins,Florida Panthers,2022020504504,2022020504,Shot,504,SHOT,Sam Reinhart Wrist Shot saved by Linus Ullmark,2022-12-20T01:23:55Z,2,09:12,10:48,4,3,13.0,Florida Panthers,FLA
+151,6,13,Boston Bruins,Florida Panthers,202202050450,2022020504,Blocked Shot,50,BLOCKED_SHOT,Aaron Ekblad shot blocked shot by Derek Forbort,2022-12-20T01:24:24Z,2,09:41,10:19,4,3,6.0,Boston Bruins,BOS
+152,6,13,Boston Bruins,Florida Panthers,2022020504408,2022020504,Shot,408,SHOT,David Pastrnak Backhand saved by Spencer Knight,2022-12-20T01:25:24Z,2,10:41,09:19,4,3,6.0,Boston Bruins,BOS
+153,6,13,Boston Bruins,Florida Panthers,2022020504409,2022020504,Missed Shot,409,MISSED_SHOT,Pavel Zacha Over Net Spencer Knight,2022-12-20T01:25:30Z,2,10:47,09:13,4,3,6.0,Boston Bruins,BOS
+154,6,13,Boston Bruins,Florida Panthers,2022020504301,2022020504,Blocked Shot,301,BLOCKED_SHOT,Matt Grzelcyk shot blocked shot by Eric Staal,2022-12-20T01:25:36Z,2,10:53,09:07,4,3,13.0,Florida Panthers,FLA
+155,6,13,Boston Bruins,Florida Panthers,2022020504302,2022020504,Stoppage,302,STOP,Puck in Netting,2022-12-20T01:25:42Z,2,10:59,09:01,4,3,,,
+156,6,13,Boston Bruins,Florida Panthers,2022020504259,2022020504,Faceoff,259,FACEOFF,Colin White faceoff won against David Krejci,2022-12-20T01:28:25Z,2,10:59,09:01,4,3,13.0,Florida Panthers,FLA
+157,6,13,Boston Bruins,Florida Panthers,2022020504410,2022020504,Missed Shot,410,MISSED_SHOT,Sam Bennett Wide of Net Linus Ullmark,2022-12-20T01:28:37Z,2,11:11,08:49,4,3,13.0,Florida Panthers,FLA
+158,6,13,Boston Bruins,Florida Panthers,2022020504505,2022020504,Blocked Shot,505,BLOCKED_SHOT,Colin White shot blocked shot by Brandon Carlo,2022-12-20T01:28:41Z,2,11:15,08:45,4,3,6.0,Boston Bruins,BOS
+159,6,13,Boston Bruins,Florida Panthers,2022020504411,2022020504,Shot,411,SHOT,Aaron Ekblad Wrist Shot saved by Linus Ullmark,2022-12-20T01:28:56Z,2,11:30,08:30,4,3,13.0,Florida Panthers,FLA
+160,6,13,Boston Bruins,Florida Panthers,2022020504303,2022020504,Blocked Shot,303,BLOCKED_SHOT,Sam Bennett shot blocked shot by David Krejci,2022-12-20T01:29:02Z,2,11:36,08:24,4,3,6.0,Boston Bruins,BOS
+161,6,13,Boston Bruins,Florida Panthers,2022020504412,2022020504,Shot,412,SHOT,Aaron Ekblad Wrist Shot saved by Linus Ullmark,2022-12-20T01:29:05Z,2,11:39,08:21,4,3,13.0,Florida Panthers,FLA
+162,6,13,Boston Bruins,Florida Panthers,2022020504413,2022020504,Missed Shot,413,MISSED_SHOT,Hampus Lindholm Goalpost Spencer Knight,2022-12-20T01:29:14Z,2,11:48,08:12,4,3,6.0,Boston Bruins,BOS
+163,6,13,Boston Bruins,Florida Panthers,2022020504414,2022020504,Goal,414,GOAL,"David Krejci (10) Wrist Shot, assists: Hampus Lindholm (18), Taylor Hall (14)",2022-12-20T01:29:16Z,2,11:50,08:10,5,3,6.0,Boston Bruins,BOS
+164,6,13,Boston Bruins,Florida Panthers,2022020504260,2022020504,Faceoff,260,FACEOFF,Patrice Bergeron faceoff won against Zac Dalpe,2022-12-20T01:30:07Z,2,11:50,08:10,5,3,6.0,Boston Bruins,BOS
+165,6,13,Boston Bruins,Florida Panthers,2022020504261,2022020504,Takeaway,261,TAKEAWAY,Takeaway by Jake DeBrusk,2022-12-20T01:30:26Z,2,12:09,07:51,5,3,6.0,Boston Bruins,BOS
+166,6,13,Boston Bruins,Florida Panthers,2022020504304,2022020504,Blocked Shot,304,BLOCKED_SHOT,Jake DeBrusk shot blocked shot by Zac Dalpe,2022-12-20T01:30:31Z,2,12:14,07:46,5,3,13.0,Florida Panthers,FLA
+167,6,13,Boston Bruins,Florida Panthers,2022020504415,2022020504,Missed Shot,415,MISSED_SHOT,Jake DeBrusk Wide of Net Spencer Knight,2022-12-20T01:30:47Z,2,12:30,07:30,5,3,6.0,Boston Bruins,BOS
+168,6,13,Boston Bruins,Florida Panthers,2022020504506,2022020504,Blocked Shot,506,BLOCKED_SHOT,Carter Verhaeghe shot blocked shot by Matt Grzelcyk,2022-12-20T01:31:00Z,2,12:43,07:17,5,3,6.0,Boston Bruins,BOS
+169,6,13,Boston Bruins,Florida Panthers,2022020504416,2022020504,Shot,416,SHOT,Eric Staal Wrist Shot saved by Linus Ullmark,2022-12-20T01:31:02Z,2,12:45,07:15,5,3,13.0,Florida Panthers,FLA
+170,6,13,Boston Bruins,Florida Panthers,2022020504417,2022020504,Stoppage,417,STOP,Goalie Stopped,2022-12-20T01:31:02Z,2,12:45,07:15,5,3,,,
+171,6,13,Boston Bruins,Florida Panthers,2022020504262,2022020504,Faceoff,262,FACEOFF,Eric Staal faceoff won against Tomas Nosek,2022-12-20T01:31:40Z,2,12:45,07:15,5,3,13.0,Florida Panthers,FLA
+172,6,13,Boston Bruins,Florida Panthers,2022020504306,2022020504,Stoppage,306,STOP,Puck Frozen,2022-12-20T01:31:54Z,2,12:59,07:01,5,3,,,
+173,6,13,Boston Bruins,Florida Panthers,2022020504263,2022020504,Faceoff,263,FACEOFF,Tomas Nosek faceoff won against Colin White,2022-12-20T01:32:41Z,2,12:59,07:01,5,3,6.0,Boston Bruins,BOS
+174,6,13,Boston Bruins,Florida Panthers,2022020504264,2022020504,Takeaway,264,TAKEAWAY,Takeaway by Aaron Ekblad,2022-12-20T01:32:55Z,2,13:13,06:47,5,3,13.0,Florida Panthers,FLA
+175,6,13,Boston Bruins,Florida Panthers,2022020504307,2022020504,Stoppage,307,STOP,Icing,2022-12-20T01:33:18Z,2,13:36,06:24,5,3,,,
+176,6,13,Boston Bruins,Florida Panthers,2022020504265,2022020504,Faceoff,265,FACEOFF,Patrice Bergeron faceoff won against Sam Bennett,2022-12-20T01:33:46Z,2,13:36,06:24,5,3,6.0,Boston Bruins,BOS
+177,6,13,Boston Bruins,Florida Panthers,2022020504308,2022020504,Blocked Shot,308,BLOCKED_SHOT,Patrice Bergeron shot blocked shot by Sam Bennett,2022-12-20T01:34:02Z,2,13:52,06:08,5,3,13.0,Florida Panthers,FLA
+178,6,13,Boston Bruins,Florida Panthers,2022020504266,2022020504,Takeaway,266,TAKEAWAY,Takeaway by Sam Reinhart,2022-12-20T01:34:22Z,2,14:12,05:48,5,3,13.0,Florida Panthers,FLA
+179,6,13,Boston Bruins,Florida Panthers,2022020504418,2022020504,Missed Shot,418,MISSED_SHOT,Carter Verhaeghe Wide of Net Linus Ullmark,2022-12-20T01:34:30Z,2,14:20,05:40,5,3,13.0,Florida Panthers,FLA
+180,6,13,Boston Bruins,Florida Panthers,2022020504419,2022020504,Shot,419,SHOT,Sam Reinhart Wrist Shot saved by Linus Ullmark,2022-12-20T01:34:54Z,2,14:44,05:16,5,3,13.0,Florida Panthers,FLA
+181,6,13,Boston Bruins,Florida Panthers,2022020504267,2022020504,Takeaway,267,TAKEAWAY,Takeaway by Matt Grzelcyk,2022-12-20T01:35:08Z,2,14:58,05:02,5,3,6.0,Boston Bruins,BOS
+182,6,13,Boston Bruins,Florida Panthers,2022020504309,2022020504,Stoppage,309,STOP,Puck in Benches,2022-12-20T01:35:11Z,2,15:01,04:59,5,3,,,
+183,6,13,Boston Bruins,Florida Panthers,2022020504268,2022020504,Faceoff,268,FACEOFF,David Krejci faceoff won against Eric Staal,2022-12-20T01:37:29Z,2,15:01,04:59,5,3,6.0,Boston Bruins,BOS
+184,6,13,Boston Bruins,Florida Panthers,2022020504420,2022020504,Missed Shot,420,MISSED_SHOT,David Pastrnak Wide of Net Spencer Knight,2022-12-20T01:37:37Z,2,15:09,04:51,5,3,6.0,Boston Bruins,BOS
+185,6,13,Boston Bruins,Florida Panthers,2022020504310,2022020504,Stoppage,310,STOP,Puck in Netting,2022-12-20T01:37:45Z,2,15:17,04:43,5,3,,,
+186,6,13,Boston Bruins,Florida Panthers,2022020504269,2022020504,Faceoff,269,FACEOFF,Colin White faceoff won against Charlie Coyle,2022-12-20T01:38:19Z,2,15:17,04:43,5,3,13.0,Florida Panthers,FLA
+187,6,13,Boston Bruins,Florida Panthers,2022020504311,2022020504,Stoppage,311,STOP,Goalie Stopped,2022-12-20T01:38:22Z,2,15:20,04:40,5,3,,,
+188,6,13,Boston Bruins,Florida Panthers,2022020504421,2022020504,Shot,421,SHOT,Aaron Ekblad Snap Shot saved by Linus Ullmark,2022-12-20T01:38:22Z,2,15:20,04:40,5,3,13.0,Florida Panthers,FLA
+189,6,13,Boston Bruins,Florida Panthers,2022020504270,2022020504,Faceoff,270,FACEOFF,Tomas Nosek faceoff won against Sam Bennett,2022-12-20T01:38:44Z,2,15:20,04:40,5,3,6.0,Boston Bruins,BOS
+190,6,13,Boston Bruins,Florida Panthers,2022020504422,2022020504,Shot,422,SHOT,Sam Bennett Backhand saved by Linus Ullmark,2022-12-20T01:38:49Z,2,15:25,04:35,5,3,13.0,Florida Panthers,FLA
+191,6,13,Boston Bruins,Florida Panthers,2022020504312,2022020504,Stoppage,312,STOP,Goalie Stopped,2022-12-20T01:39:31Z,2,16:07,03:53,5,3,,,
+192,6,13,Boston Bruins,Florida Panthers,2022020504423,2022020504,Shot,423,SHOT,Trent Frederic Backhand saved by Spencer Knight,2022-12-20T01:39:31Z,2,16:07,03:53,5,3,6.0,Boston Bruins,BOS
+193,6,13,Boston Bruins,Florida Panthers,2022020504271,2022020504,Faceoff,271,FACEOFF,Patrice Bergeron faceoff won against Eetu Luostarinen,2022-12-20T01:40:01Z,2,16:07,03:53,5,3,6.0,Boston Bruins,BOS
+194,6,13,Boston Bruins,Florida Panthers,2022020504313,2022020504,Blocked Shot,313,BLOCKED_SHOT,Charlie McAvoy shot blocked shot by Brandon Montour,2022-12-20T01:40:07Z,2,16:13,03:47,5,3,13.0,Florida Panthers,FLA
+195,6,13,Boston Bruins,Florida Panthers,2022020504314,2022020504,Blocked Shot,314,BLOCKED_SHOT,Sam Reinhart shot blocked shot by Patrice Bergeron,2022-12-20T01:40:48Z,2,16:54,03:06,5,3,6.0,Boston Bruins,BOS
+196,6,13,Boston Bruins,Florida Panthers,2022020504272,2022020504,Giveaway,272,GIVEAWAY,Giveaway by Brandon Montour,2022-12-20T01:41:08Z,2,17:14,02:46,5,3,13.0,Florida Panthers,FLA
+197,6,13,Boston Bruins,Florida Panthers,2022020504424,2022020504,Shot,424,SHOT,Gustav Forsling Wrist Shot saved by Linus Ullmark,2022-12-20T01:41:12Z,2,17:18,02:42,5,3,13.0,Florida Panthers,FLA
+198,6,13,Boston Bruins,Florida Panthers,2022020504273,2022020504,Takeaway,273,TAKEAWAY,Takeaway by Ryan Lomberg,2022-12-20T01:41:40Z,2,17:46,02:14,5,3,13.0,Florida Panthers,FLA
+199,6,13,Boston Bruins,Florida Panthers,2022020504315,2022020504,Stoppage,315,STOP,Icing,2022-12-20T01:41:45Z,2,17:51,02:09,5,3,,,
+200,6,13,Boston Bruins,Florida Panthers,2022020504274,2022020504,Faceoff,274,FACEOFF,Tomas Nosek faceoff won against Colin White,2022-12-20T01:42:25Z,2,17:51,02:09,5,3,6.0,Boston Bruins,BOS
+201,6,13,Boston Bruins,Florida Panthers,2022020504425,2022020504,Shot,425,SHOT,Charlie Coyle Tip-In saved by Spencer Knight,2022-12-20T01:42:35Z,2,18:01,01:59,5,3,6.0,Boston Bruins,BOS
+202,6,13,Boston Bruins,Florida Panthers,2022020504426,2022020504,Shot,426,SHOT,Matthew Tkachuk Wrist Shot saved by Linus Ullmark,2022-12-20T01:43:10Z,2,18:36,01:24,5,3,13.0,Florida Panthers,FLA
+203,6,13,Boston Bruins,Florida Panthers,2022020504427,2022020504,Missed Shot,427,MISSED_SHOT,Matt Grzelcyk Wide of Net Spencer Knight,2022-12-20T01:43:33Z,2,18:59,01:01,5,3,6.0,Boston Bruins,BOS
+204,6,13,Boston Bruins,Florida Panthers,2022020504428,2022020504,Shot,428,SHOT,Ryan Lomberg Wrist Shot saved by Linus Ullmark,2022-12-20T01:44:21Z,2,19:47,00:13,5,3,13.0,Florida Panthers,FLA
+205,6,13,Boston Bruins,Florida Panthers,2022020504429,2022020504,Missed Shot,429,MISSED_SHOT,Marc Staal Wide of Net Linus Ullmark,2022-12-20T01:44:27Z,2,19:53,00:07,5,3,13.0,Florida Panthers,FLA
+206,6,13,Boston Bruins,Florida Panthers,2022020504430,2022020504,Missed Shot,430,MISSED_SHOT,Sam Reinhart Wide of Net Linus Ullmark,2022-12-20T01:44:33Z,2,19:59,00:01,5,3,13.0,Florida Panthers,FLA
+207,6,13,Boston Bruins,Florida Panthers,2022020504316,2022020504,Period End,316,PERIOD_END,End of 2nd Period,2022-12-20T01:44:34Z,2,20:00,00:00,5,3,,,
+208,6,13,Boston Bruins,Florida Panthers,2022020504319,2022020504,Period Official,319,PERIOD_OFFICIAL,Period Official,2022-12-20T01:44:45Z,2,20:00,00:00,5,3,,,
+209,6,13,Boston Bruins,Florida Panthers,2022020504320,2022020504,Period Ready,320,PERIOD_READY,Period Ready,2022-12-20T02:01:38Z,3,00:00,20:00,5,3,,,
+210,6,13,Boston Bruins,Florida Panthers,2022020504275,2022020504,Period Start,275,PERIOD_START,Period Start,2022-12-20T02:03:25Z,3,00:00,20:00,5,3,,,
+211,6,13,Boston Bruins,Florida Panthers,2022020504276,2022020504,Faceoff,276,FACEOFF,Tomas Nosek faceoff won against Sam Bennett,2022-12-20T02:03:25Z,3,00:00,20:00,5,3,6.0,Boston Bruins,BOS
+212,6,13,Boston Bruins,Florida Panthers,2022020504507,2022020504,Missed Shot,507,MISSED_SHOT,Tomas Nosek Wide of Net Spencer Knight,2022-12-20T02:03:41Z,3,00:16,19:44,5,3,6.0,Boston Bruins,BOS
+213,6,13,Boston Bruins,Florida Panthers,2022020504321,2022020504,Stoppage,321,STOP,Goalie Stopped,2022-12-20T02:03:54Z,3,00:29,19:31,5,3,,,
+214,6,13,Boston Bruins,Florida Panthers,2022020504431,2022020504,Shot,431,SHOT,Nick Foligno Wrist Shot saved by Spencer Knight,2022-12-20T02:03:54Z,3,00:29,19:31,5,3,6.0,Boston Bruins,BOS
+215,6,13,Boston Bruins,Florida Panthers,2022020504277,2022020504,Faceoff,277,FACEOFF,Eetu Luostarinen faceoff won against Patrice Bergeron,2022-12-20T02:04:30Z,3,00:29,19:31,5,3,13.0,Florida Panthers,FLA
+216,6,13,Boston Bruins,Florida Panthers,2022020504322,2022020504,Blocked Shot,322,BLOCKED_SHOT,Brandon Montour shot blocked shot by Charlie McAvoy,2022-12-20T02:04:46Z,3,00:45,19:15,5,3,6.0,Boston Bruins,BOS
+217,6,13,Boston Bruins,Florida Panthers,2022020504432,2022020504,Hit,432,HIT,Brandon Montour hit David Pastrnak,2022-12-20T02:05:13Z,3,01:12,18:48,5,3,13.0,Florida Panthers,FLA
+218,6,13,Boston Bruins,Florida Panthers,2022020504433,2022020504,Shot,433,SHOT,Derek Forbort Slap Shot saved by Spencer Knight,2022-12-20T02:05:19Z,3,01:18,18:42,5,3,6.0,Boston Bruins,BOS
+219,6,13,Boston Bruins,Florida Panthers,2022020504323,2022020504,Stoppage,323,STOP,Icing,2022-12-20T02:05:24Z,3,01:23,18:37,5,3,,,
+220,6,13,Boston Bruins,Florida Panthers,2022020504278,2022020504,Faceoff,278,FACEOFF,Eetu Luostarinen faceoff won against David Krejci,2022-12-20T02:05:55Z,3,01:23,18:37,5,3,13.0,Florida Panthers,FLA
+221,6,13,Boston Bruins,Florida Panthers,2022020504324,2022020504,Stoppage,324,STOP,Puck Frozen,2022-12-20T02:06:05Z,3,01:33,18:27,5,3,,,
+222,6,13,Boston Bruins,Florida Panthers,2022020504279,2022020504,Faceoff,279,FACEOFF,Charlie Coyle faceoff won against Nick Cousins,2022-12-20T02:06:48Z,3,01:33,18:27,5,3,6.0,Boston Bruins,BOS
+223,6,13,Boston Bruins,Florida Panthers,2022020504325,2022020504,Blocked Shot,325,BLOCKED_SHOT,Gustav Forsling shot blocked shot by Trent Frederic,2022-12-20T02:07:05Z,3,01:50,18:10,5,3,6.0,Boston Bruins,BOS
+224,6,13,Boston Bruins,Florida Panthers,2022020504434,2022020504,Missed Shot,434,MISSED_SHOT,Eric Staal Wide of Net Linus Ullmark,2022-12-20T02:07:09Z,3,01:54,18:06,5,3,13.0,Florida Panthers,FLA
+225,6,13,Boston Bruins,Florida Panthers,2022020504435,2022020504,Shot,435,SHOT,Nick Cousins Wrist Shot saved by Linus Ullmark,2022-12-20T02:07:27Z,3,02:12,17:48,5,3,13.0,Florida Panthers,FLA
+226,6,13,Boston Bruins,Florida Panthers,2022020504326,2022020504,Hit,326,HIT,Ryan Lomberg hit Derek Forbort,2022-12-20T02:07:28Z,3,02:13,17:47,5,3,13.0,Florida Panthers,FLA
+227,6,13,Boston Bruins,Florida Panthers,2022020504437,2022020504,Shot,437,SHOT,Eric Staal Wrist Shot saved by Linus Ullmark,2022-12-20T02:07:29Z,3,02:14,17:46,5,3,13.0,Florida Panthers,FLA
+228,6,13,Boston Bruins,Florida Panthers,2022020504327,2022020504,Stoppage,327,STOP,Goalie Stopped,2022-12-20T02:07:32Z,3,02:17,17:43,5,3,,,
+229,6,13,Boston Bruins,Florida Panthers,2022020504436,2022020504,Shot,436,SHOT,Gustav Forsling Wrist Shot saved by Linus Ullmark,2022-12-20T02:07:32Z,3,02:17,17:43,5,3,13.0,Florida Panthers,FLA
+230,6,13,Boston Bruins,Florida Panthers,2022020504280,2022020504,Faceoff,280,FACEOFF,Patrice Bergeron faceoff won against Sam Bennett,2022-12-20T02:08:04Z,3,02:17,17:43,5,3,6.0,Boston Bruins,BOS
+231,6,13,Boston Bruins,Florida Panthers,2022020504281,2022020504,Giveaway,281,GIVEAWAY,Giveaway by Brad Marchand,2022-12-20T02:08:37Z,3,02:50,17:10,5,3,6.0,Boston Bruins,BOS
+232,6,13,Boston Bruins,Florida Panthers,2022020504282,2022020504,Takeaway,282,TAKEAWAY,Takeaway by Matt Grzelcyk,2022-12-20T02:09:03Z,3,03:16,16:44,5,3,6.0,Boston Bruins,BOS
+233,6,13,Boston Bruins,Florida Panthers,2022020504283,2022020504,Takeaway,283,TAKEAWAY,Takeaway by Zac Dalpe,2022-12-20T02:09:11Z,3,03:24,16:36,5,3,13.0,Florida Panthers,FLA
+234,6,13,Boston Bruins,Florida Panthers,2022020504438,2022020504,Hit,438,HIT,Craig Smith hit Grigori Denisenko,2022-12-20T02:09:46Z,3,03:59,16:01,5,3,6.0,Boston Bruins,BOS
+235,6,13,Boston Bruins,Florida Panthers,2022020504807,2022020504,Penalty,807,PENALTY,Eetu Luostarinen Tripping against Charlie McAvoy,2022-12-20T02:09:59Z,3,04:12,15:48,5,3,13.0,Florida Panthers,FLA
+236,6,13,Boston Bruins,Florida Panthers,2022020504810,2022020504,Penalty,810,PENALTY,Charlie McAvoy Slashing against Eetu Luostarinen,2022-12-20T02:09:59Z,3,04:12,15:48,5,3,6.0,Boston Bruins,BOS
+237,6,13,Boston Bruins,Florida Panthers,2022020504284,2022020504,Faceoff,284,FACEOFF,Sam Bennett faceoff won against David Krejci,2022-12-20T02:11:00Z,3,04:12,15:48,5,3,13.0,Florida Panthers,FLA
+238,6,13,Boston Bruins,Florida Panthers,2022020504814,2022020504,Penalty,814,PENALTY,Hampus Lindholm Hooking against Carter Verhaeghe,2022-12-20T02:11:09Z,3,04:20,15:40,5,3,6.0,Boston Bruins,BOS
+239,6,13,Boston Bruins,Florida Panthers,2022020504285,2022020504,Faceoff,285,FACEOFF,Sam Reinhart faceoff won against Patrice Bergeron,2022-12-20T02:11:57Z,3,04:20,15:40,5,3,13.0,Florida Panthers,FLA
+240,6,13,Boston Bruins,Florida Panthers,2022020504333,2022020504,Stoppage,333,STOP,Goalie Stopped,2022-12-20T02:12:24Z,3,04:48,15:12,5,3,,,
+241,6,13,Boston Bruins,Florida Panthers,2022020504439,2022020504,Shot,439,SHOT,Aaron Ekblad Wrist Shot saved by Linus Ullmark,2022-12-20T02:12:24Z,3,04:48,15:12,5,3,13.0,Florida Panthers,FLA
+242,6,13,Boston Bruins,Florida Panthers,2022020504286,2022020504,Faceoff,286,FACEOFF,Tomas Nosek faceoff won against Sam Reinhart,2022-12-20T02:12:51Z,3,04:48,15:12,5,3,6.0,Boston Bruins,BOS
+243,6,13,Boston Bruins,Florida Panthers,2022020504440,2022020504,Missed Shot,440,MISSED_SHOT,Sam Reinhart Wide of Net Linus Ullmark,2022-12-20T02:13:32Z,3,05:29,14:31,5,3,13.0,Florida Panthers,FLA
+244,6,13,Boston Bruins,Florida Panthers,2022020504441,2022020504,Shot,441,SHOT,Carter Verhaeghe Wrist Shot saved by Linus Ullmark,2022-12-20T02:13:47Z,3,05:44,14:16,5,3,13.0,Florida Panthers,FLA
+245,6,13,Boston Bruins,Florida Panthers,2022020504329,2022020504,Stoppage,329,STOP,Goalie Stopped,2022-12-20T02:13:57Z,3,05:54,14:06,5,3,,,
+246,6,13,Boston Bruins,Florida Panthers,2022020504442,2022020504,Shot,442,SHOT,Sam Reinhart Wrist Shot saved by Linus Ullmark,2022-12-20T02:13:57Z,3,05:54,14:06,5,3,13.0,Florida Panthers,FLA
+247,6,13,Boston Bruins,Florida Panthers,2022020504287,2022020504,Faceoff,287,FACEOFF,Sam Bennett faceoff won against Patrice Bergeron,2022-12-20T02:14:28Z,3,05:54,14:06,5,3,13.0,Florida Panthers,FLA
+248,6,13,Boston Bruins,Florida Panthers,2022020504330,2022020504,Blocked Shot,330,BLOCKED_SHOT,Matthew Tkachuk shot blocked shot by Charlie Coyle,2022-12-20T02:14:37Z,3,06:03,13:57,5,3,6.0,Boston Bruins,BOS
+249,6,13,Boston Bruins,Florida Panthers,2022020504443,2022020504,Missed Shot,443,MISSED_SHOT,Gustav Forsling Wide of Net Linus Ullmark,2022-12-20T02:14:42Z,3,06:08,13:52,5,3,13.0,Florida Panthers,FLA
+250,6,13,Boston Bruins,Florida Panthers,2022020504331,2022020504,Stoppage,331,STOP,Goalie Stopped,2022-12-20T02:14:49Z,3,06:15,13:45,5,3,,,
+251,6,13,Boston Bruins,Florida Panthers,2022020504444,2022020504,Shot,444,SHOT,Brandon Montour Wrist Shot saved by Linus Ullmark,2022-12-20T02:14:49Z,3,06:15,13:45,5,3,13.0,Florida Panthers,FLA
+252,6,13,Boston Bruins,Florida Panthers,2022020504288,2022020504,Faceoff,288,FACEOFF,Patrice Bergeron faceoff won against Sam Bennett,2022-12-20T02:15:30Z,3,06:15,13:45,5,3,6.0,Boston Bruins,BOS
+253,6,13,Boston Bruins,Florida Panthers,2022020504445,2022020504,Shot,445,SHOT,Matthew Tkachuk Backhand saved by Linus Ullmark,2022-12-20T02:15:54Z,3,06:39,13:21,5,3,13.0,Florida Panthers,FLA
+254,6,13,Boston Bruins,Florida Panthers,2022020504446,2022020504,Missed Shot,446,MISSED_SHOT,Eric Staal Wide of Net Linus Ullmark,2022-12-20T02:16:23Z,3,07:08,12:52,5,3,13.0,Florida Panthers,FLA
+255,6,13,Boston Bruins,Florida Panthers,2022020504332,2022020504,Stoppage,332,STOP,Goalie Stopped,2022-12-20T02:16:45Z,3,07:30,12:30,5,3,,,
+256,6,13,Boston Bruins,Florida Panthers,2022020504447,2022020504,Shot,447,SHOT,Nick Cousins Wrist Shot saved by Linus Ullmark,2022-12-20T02:16:45Z,3,07:30,12:30,5,3,13.0,Florida Panthers,FLA
+257,6,13,Boston Bruins,Florida Panthers,2022020504289,2022020504,Faceoff,289,FACEOFF,Charlie Coyle faceoff won against Eetu Luostarinen,2022-12-20T02:19:15Z,3,07:30,12:30,5,3,6.0,Boston Bruins,BOS
+258,6,13,Boston Bruins,Florida Panthers,2022020504290,2022020504,Giveaway,290,GIVEAWAY,Giveaway by Eetu Luostarinen,2022-12-20T02:19:49Z,3,08:04,11:56,5,3,13.0,Florida Panthers,FLA
+259,6,13,Boston Bruins,Florida Panthers,2022020504334,2022020504,Blocked Shot,334,BLOCKED_SHOT,Connor Clifton shot blocked shot by Josh Mahura,2022-12-20T02:20:28Z,3,08:43,11:17,5,3,13.0,Florida Panthers,FLA
+260,6,13,Boston Bruins,Florida Panthers,2022020504449,2022020504,Goal,449,GOAL,"Patrice Bergeron (11) Wrist Shot, assists: Connor Clifton (8)",2022-12-20T02:20:37Z,3,08:52,11:08,6,3,6.0,Boston Bruins,BOS
+261,6,13,Boston Bruins,Florida Panthers,2022020504291,2022020504,Faceoff,291,FACEOFF,Eric Staal faceoff won against Tomas Nosek,2022-12-20T02:21:18Z,3,08:52,11:08,6,3,13.0,Florida Panthers,FLA
+262,6,13,Boston Bruins,Florida Panthers,2022020504450,2022020504,Hit,450,HIT,Brandon Carlo hit Ryan Lomberg,2022-12-20T02:21:28Z,3,09:02,10:58,6,3,6.0,Boston Bruins,BOS
+263,6,13,Boston Bruins,Florida Panthers,2022020504701,2022020504,Missed Shot,701,MISSED_SHOT,Taylor Hall Wide of Net Spencer Knight,2022-12-20T02:21:42Z,3,09:16,10:44,6,3,6.0,Boston Bruins,BOS
+264,6,13,Boston Bruins,Florida Panthers,2022020504335,2022020504,Stoppage,335,STOP,Puck in Crowd,2022-12-20T02:22:09Z,3,09:44,10:16,6,3,,,
+265,6,13,Boston Bruins,Florida Panthers,2022020504292,2022020504,Faceoff,292,FACEOFF,Sam Reinhart faceoff won against David Krejci,2022-12-20T02:22:42Z,3,09:44,10:16,6,3,13.0,Florida Panthers,FLA
+266,6,13,Boston Bruins,Florida Panthers,2022020504702,2022020504,Hit,702,HIT,Charlie McAvoy hit Sam Reinhart,2022-12-20T02:23:03Z,3,10:05,09:55,6,3,6.0,Boston Bruins,BOS
+267,6,13,Boston Bruins,Florida Panthers,2022020504293,2022020504,Takeaway,293,TAKEAWAY,Takeaway by Carter Verhaeghe,2022-12-20T02:23:34Z,3,10:36,09:24,6,3,13.0,Florida Panthers,FLA
+268,6,13,Boston Bruins,Florida Panthers,2022020504336,2022020504,Stoppage,336,STOP,Goalie Stopped,2022-12-20T02:23:34Z,3,10:36,09:24,6,3,,,
+269,6,13,Boston Bruins,Florida Panthers,2022020504703,2022020504,Shot,703,SHOT,Carter Verhaeghe Wrist Shot saved by Linus Ullmark,2022-12-20T02:23:34Z,3,10:36,09:24,6,3,13.0,Florida Panthers,FLA
+270,6,13,Boston Bruins,Florida Panthers,2022020504294,2022020504,Faceoff,294,FACEOFF,Patrice Bergeron faceoff won against Sam Bennett,2022-12-20T02:25:53Z,3,10:36,09:24,6,3,6.0,Boston Bruins,BOS
+271,6,13,Boston Bruins,Florida Panthers,2022020504295,2022020504,Takeaway,295,TAKEAWAY,Takeaway by Pavel Zacha,2022-12-20T02:26:35Z,3,11:18,08:42,6,3,6.0,Boston Bruins,BOS
+272,6,13,Boston Bruins,Florida Panthers,2022020504922,2022020504,Penalty,922,PENALTY,Brandon Montour Slashing against Trent Frederic,2022-12-20T02:26:54Z,3,11:37,08:23,6,3,13.0,Florida Panthers,FLA
+273,6,13,Boston Bruins,Florida Panthers,2022020504296,2022020504,Faceoff,296,FACEOFF,Eric Staal faceoff won against Nick Foligno,2022-12-20T02:27:28Z,3,11:37,08:23,6,3,13.0,Florida Panthers,FLA
+274,6,13,Boston Bruins,Florida Panthers,2022020504338,2022020504,Blocked Shot,338,BLOCKED_SHOT,Patrice Bergeron shot blocked shot by Gustav Forsling,2022-12-20T02:29:04Z,3,13:13,06:47,6,3,13.0,Florida Panthers,FLA
+275,6,13,Boston Bruins,Florida Panthers,2022020504341,2022020504,Blocked Shot,341,BLOCKED_SHOT,Hampus Lindholm shot blocked shot by Josh Mahura,2022-12-20T02:29:08Z,3,13:17,06:43,6,3,13.0,Florida Panthers,FLA
+276,6,13,Boston Bruins,Florida Panthers,2022020504705,2022020504,Goal,705,GOAL,"Patrice Bergeron (12) Snap Shot, assists: Hampus Lindholm (19), Brad Marchand (17)",2022-12-20T02:29:09Z,3,13:18,06:42,7,3,6.0,Boston Bruins,BOS
+277,6,13,Boston Bruins,Florida Panthers,2022020504297,2022020504,Faceoff,297,FACEOFF,Charlie Coyle faceoff won against Zac Dalpe,2022-12-20T02:29:58Z,3,13:18,06:42,7,3,6.0,Boston Bruins,BOS
+278,6,13,Boston Bruins,Florida Panthers,2022020504706,2022020504,Missed Shot,706,MISSED_SHOT,Aaron Ekblad Wide of Net Linus Ullmark,2022-12-20T02:30:27Z,3,13:47,06:13,7,3,13.0,Florida Panthers,FLA
+279,6,13,Boston Bruins,Florida Panthers,2022020504340,2022020504,Stoppage,340,STOP,Goalie Stopped,2022-12-20T02:31:02Z,3,14:22,05:38,7,3,,,
+280,6,13,Boston Bruins,Florida Panthers,2022020504707,2022020504,Shot,707,SHOT,Craig Smith Wrist Shot saved by Spencer Knight,2022-12-20T02:31:02Z,3,14:22,05:38,7,3,6.0,Boston Bruins,BOS
+281,6,13,Boston Bruins,Florida Panthers,2022020504298,2022020504,Faceoff,298,FACEOFF,Patrice Bergeron faceoff won against Eric Staal,2022-12-20T02:33:14Z,3,14:22,05:38,7,3,6.0,Boston Bruins,BOS
+282,6,13,Boston Bruins,Florida Panthers,2022020504708,2022020504,Shot,708,SHOT,Eric Staal Tip-In saved by Linus Ullmark,2022-12-20T02:33:48Z,3,14:56,05:04,7,3,13.0,Florida Panthers,FLA
+283,6,13,Boston Bruins,Florida Panthers,2022020504709,2022020504,Missed Shot,709,MISSED_SHOT,Grigori Denisenko Wide of Net Linus Ullmark,2022-12-20T02:34:24Z,3,15:32,04:28,7,3,13.0,Florida Panthers,FLA
+284,6,13,Boston Bruins,Florida Panthers,2022020504710,2022020504,Hit,710,HIT,Brandon Carlo hit Grigori Denisenko,2022-12-20T02:34:29Z,3,15:37,04:23,7,3,6.0,Boston Bruins,BOS
+285,6,13,Boston Bruins,Florida Panthers,2022020504342,2022020504,Blocked Shot,342,BLOCKED_SHOT,Sam Bennett shot blocked shot by Hampus Lindholm,2022-12-20T02:35:24Z,3,16:32,03:28,7,3,6.0,Boston Bruins,BOS
+286,6,13,Boston Bruins,Florida Panthers,2022020504344,2022020504,Stoppage,344,STOP,Puck in Netting,2022-12-20T02:35:48Z,3,16:56,03:04,7,3,,,
+287,6,13,Boston Bruins,Florida Panthers,2022020504299,2022020504,Faceoff,299,FACEOFF,Charlie Coyle faceoff won against Sam Reinhart,2022-12-20T02:36:18Z,3,16:56,03:04,7,3,6.0,Boston Bruins,BOS
+288,6,13,Boston Bruins,Florida Panthers,2022020504711,2022020504,Shot,711,SHOT,Trent Frederic Backhand saved by Spencer Knight,2022-12-20T02:36:43Z,3,17:21,02:39,7,3,6.0,Boston Bruins,BOS
+289,6,13,Boston Bruins,Florida Panthers,2022020504967,2022020504,Penalty,967,PENALTY,Trent Frederic Interference - Goalkeeper against Spencer Knight,2022-12-20T02:36:47Z,3,17:25,02:35,7,3,6.0,Boston Bruins,BOS
+290,6,13,Boston Bruins,Florida Panthers,2022020504300,2022020504,Faceoff,300,FACEOFF,Tomas Nosek faceoff won against Sam Reinhart,2022-12-20T02:37:41Z,3,17:25,02:35,7,3,6.0,Boston Bruins,BOS
+291,6,13,Boston Bruins,Florida Panthers,2022020504712,2022020504,Shot,712,SHOT,Charlie Coyle Wrist Shot saved by Spencer Knight,2022-12-20T02:37:56Z,3,17:40,02:20,7,3,6.0,Boston Bruins,BOS
+292,6,13,Boston Bruins,Florida Panthers,2022020504345,2022020504,Stoppage,345,STOP,Puck in Netting,2022-12-20T02:38:07Z,3,17:52,02:08,7,3,,,
+293,6,13,Boston Bruins,Florida Panthers,2022020504751,2022020504,Faceoff,751,FACEOFF,Tomas Nosek faceoff won against Sam Reinhart,2022-12-20T02:38:34Z,3,17:52,02:08,7,3,6.0,Boston Bruins,BOS
+294,6,13,Boston Bruins,Florida Panthers,2022020504346,2022020504,Stoppage,346,STOP,Puck in Crowd,2022-12-20T02:39:39Z,3,18:56,01:04,7,3,,,
+295,6,13,Boston Bruins,Florida Panthers,2022020504752,2022020504,Faceoff,752,FACEOFF,Tomas Nosek faceoff won against Eric Staal,2022-12-20T02:40:07Z,3,18:56,01:04,7,3,6.0,Boston Bruins,BOS
+296,6,13,Boston Bruins,Florida Panthers,2022020504987,2022020504,Penalty,987,PENALTY,Matt Kiersted Delaying Game - Puck over glass,2022-12-20T02:41:00Z,3,19:49,00:11,7,3,13.0,Florida Panthers,FLA
+297,6,13,Boston Bruins,Florida Panthers,2022020504753,2022020504,Faceoff,753,FACEOFF,Patrice Bergeron faceoff won against Zac Dalpe,2022-12-20T02:41:41Z,3,19:49,00:11,7,3,6.0,Boston Bruins,BOS
+298,6,13,Boston Bruins,Florida Panthers,2022020504851,2022020504,Game End,851,GAME_END,Game End,2022-12-20T02:41:05Z,3,20:00,00:00,7,3,,,
+299,6,13,Boston Bruins,Florida Panthers,2022020504347,2022020504,Period End,347,PERIOD_END,End of 3rd Period,2022-12-20T02:41:52Z,3,20:00,00:00,7,3,,,
+300,6,13,Boston Bruins,Florida Panthers,2022020504350,2022020504,Period Official,350,PERIOD_OFFICIAL,Period Official,2022-12-20T02:42:01Z,3,20:00,00:00,7,3,,,
+301,6,13,Boston Bruins,Florida Panthers,20220205041191,2022020504,Game Official,1191,GAME_OFFICIAL,Game Official,2022-12-20T14:56:07Z,3,20:00,00:00,7,3,,,
